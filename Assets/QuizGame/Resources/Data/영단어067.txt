@@ -1,0 +1,200 @@
+require
+요구하다
+technology
+과학기술
+individual
+개인
+provide
+공급하다
+object
+물체, 반대하다
+level
+수준, 정도
+involve
+포함하다, 관계하다
+employ
+고용하다
+attitude
+태도
+improve
+개량하다
+research
+조사하다
+supply
+공급하다
+tend
+~하는 경향이 있다
+affect
+~에 영향을 미치다
+thus
+이와 같이, 그러므로
+benefit
+이익, 은혜, 자선, 특권
+demand
+요구하다
+occasion
+경우, 행사, 의식
+fashion
+모양, 방식, 유행
+recognize
+알아보다, 인식하다
+proper
+적당한, 고유의
+due
+지불 기일이 된, ~할 예정인, 때문에
+behave
+행동하다, 작용하다
+opportunity
+기회
+determine
+결정하다, 결심하다
+generate
+발생하다
+exist
+존재하다
+regret
+유감, 후회, 슬퍼하다, 후회하다
+occur
+일어나다, 떠오르다
+available
+쓸모 있는, 당선 가능한
+professional
+직업상의, 전문가
+frequent
+빈번한, 빠른
+contact
+접촉, 교제, 연락, 접촉하다
+respond
+대답하다, 반응하다
+emotional
+감동적인
+diet
+식이요법, 음식물
+severe
+심각한, 엄한
+gloom
+어둠, 우울, 어두워지다
+negative
+부정적인, 거절하다
+victim
+희생, 희생물
+biology
+생물학
+obtain
+얻다, 획득하다
+heal
+고치다, 치료하다
+influence
+영향, 세력, 영향을 끼치다
+critical
+비평의, 비판적인, 중대한
+aware
+의식하고 있는
+civil
+일반 시민의, 국내의
+immediate
+즉시의, 당면한
+material
+원료, 인물, 물질적인, 구체적인, 육체의
+compose
+구성하다, 작곡하다, 작문하다
+permit
+허락하다, 허가증
+advantage
+유리, 우월, 이롭게 하다
+region
+지역, 지방, 범위, 분야
+insist
+주장하다, 강요하다
+conclude
+결론짓다, 체결하다
+term
+용어, 말투, 기간, 학기
+approach
+접근하다, 접근
+desire
+간절히 바라다, 욕구, 욕망
+reduce
+감소하다, 축소하다
+fuel
+연료, 연료를 공급하다
+conviction
+설득, 신념, 유죄판결
+occupy
+차지하다, 거주하다
+efficient
+유효한, 유능한, 효율적인
+despite
+~에도 불구하고
+issue
+논쟁, 발행 부수, 유출하다, 발행하다
+account
+설명하다, 책임지다, 설명, 이유, 중요성, 계산, 회계, 은행계좌
+secretary
+비서, (S~) 장관, 차관
+firm
+굳은, 확고한, 회사
+merely
+단지, 그저
+complex
+복잡한, 합성의, 합성물질, (아파트)단지, 강박관념
+audience
+청중
+relieve
+구하다, 경감하다
+academic
+대학의, 학원의, 학구적인, 교수, 학회원
+horror
+공포, 혐오
+threat
+위협, 협박
+pure
+순수한, 결백한
+mood
+분위기, 기분, 변덕
+consume
+소비하다
+explode
+폭발시키다
+approve
+찬성하다, 승인하다, 입증하다
+steady
+안정된, 진지한, 받침대
+moral
+도덕적인, 교훈적인, 순결한
+psychology
+심리학
+tide
+조수, 계절, 조수를 타고 흐르다
+secure
+안정된, 확고한, 안전하게 하다, 보증하다
+witness
+증인, 증거, 목격하다, 증언하다
+decrease
+감소하다, 감소
+guarantee
+약속, 보증, 보증인, 출연료, 다짐하다, 보증하다
+shadow
+그림자, 영상, 환영, 그늘지게 하다
+frustrate
+좌절시키다, 방해하다
+pupil
+학생
+leisure
+여가, 틈, 자유시간, 한가한
+annoy
+괴롭히다, 성가시게 굴다
+portion
+분배 몫, 1인분, 일부, 분배하다
+client
+고객, 단골 손님
+expert
+전문가, 전문적 조언을 하다
+describe
+묘사하다, 서술하다
+duty
+의무, 직책, 세금
+define
+정의를 내리다, 한정하다, 밝히다
+positive
+긍정적인, 적극적인, 명확한, 긍정, (수학) 양수, (전기) 양극

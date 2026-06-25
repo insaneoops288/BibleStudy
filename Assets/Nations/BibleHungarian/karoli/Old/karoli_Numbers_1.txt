@@ -1,0 +1,54 @@
+"Szóla pedig az Úr Mózesnek a Sinai pusztájában, a gyülekezet sátorában, a második hónapnak elsején, az Égyiptom földébõl való kijövetelök után a második esztendõben, mondván
+"Vegyétek számba Izráel fiainak egész gyülekezetét, az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a neveknek száma szerint, minden férfiút fõrõl fõre,"
+"Húsz esztendõstõl fogva és feljebb, mindent, a ki hadba mehet Izráelben; számláljátok meg õket az õ seregök szerint, te és Áron."
+"És legyen veletek egy-egy férfiú mindenik törzsbõl, mindenik feje legyen az õ atyái házának."
+"Ezek pedig a férfiak nevei, a kik veletek legyenek
+"Simeonból Selúmiel, Surisaddainak fia."
+"Júdából Naasson, Amminádábnak fia."
+"Izsakhárból Néthánéel, Suárnak fia."
+"Zebulonból Eliáb, Hélonnak fia."
+"József fiai közül
+"Benjáminból Abidán, Gideóni fia."
+"Dánból Ahiézer, Ammisaddai fia."
+"Áserbõl Págiel, Okránnak fia."
+"Gádból Eleásaf, Déhuelnek fia."
+"Nafthaliból Akhira, Enánnak fia."
+"Ezek a gyülekezetnek hivatalosai, az õ atyjok törzseinek fejei, Izráel ezereinek [is] fejei õk."
+"Maga mellé vevé azért Mózes és Áron e férfiakat, a kik név szerint [is] elõszámláltattak vala."
+"És összegyüjték az egész gyülekezetet a második hónapnak elsõ napján; és vallást tõnek az õ születésökrõl, az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendõstõl fogva és feljebb fõrõl fõre."
+"A miképen megparancsolta vala az Úr Mózesnek, úgy számlálá meg õket a Sinai pusztájában."
+"Valának pedig Rúbennek, Izráel elsõszülöttének fiai, azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a nevek száma szerint, fõrõl fõre, minden férfiú, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak a Rúben törzsébõl
+"Simeon fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, az õ megszámláltjai, a neveknek száma szerint, fõrõl fõre, minden férfiú, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Simeon törzsébõl
+"Gád fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Gád törzsébõl
+"Júda fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Júda törzsébõl
+"Izsakhár fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Izsakhár törzsébõl
+"Zebulon fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Zebulon törzsébõl
+"József fiaiból Efraim fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Efraim törzsébõl
+"Manasse fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Manasse törzsébõl
+"Benjámin fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Benjámin törzsébõl
+"Dán fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a nevek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Dán törzsébõl
+"Áser fiai közül azoknak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak Áser törzsébõl
+"A Nafthali fiainak szülöttei az õ nemzetségeik szerint, az õ atyáiknak háznépe szerint, a neveknek száma szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ;"
+"A kik megszámláltattak a Nafthali törzsébõl
+"Ezek azok a megszámláltattak, a kiket megszámláltak Mózes és Áron és Izráel fejedelmei, tizenkét férfiú; egy-egy férfiú vala az õ atyáiknak házanépébõl."
+"Valának azért mindnyájan, a kik megszámláltattak az Izráel fiai közûl az õ atyáiknak háznépe szerint, húsz esztendõstõl fogva és feljebb, minden hadba mehetõ az Izráelben;"
+"Valának mindnyájan a megszámláltattak
+"De a léviták az õ atyáiknak háznépe szerint nem számláltattak közéjök."
+"Mert szólott vala az Úr Mózesnek, mondván
+"Csak a Lévi törzsét ne vedd számba, és azokat ne számláld Izráel fiai közé;"
+"Hanem a lévitákat rendeld a bizonyság hajlékához, és minden edényéhez, és minden ahhoz valókhoz; õk hordozzák a hajlékot, és annak minden edényét, és õk szolgáljanak mellette, és a hajlék körül táborozzanak."
+"És mikor a hajléknak elébb kell indulni, a léviták szedjék azt szét, mikor pedig megáll a hajlék, a léviták állassák azt fel, az idegen pedig, a ki oda járul, meghaljon."
+"És tábort járjanak Izráel fiai kiki az õ táborában, és kiki az õ zászlója alatt, az õ seregeik szerint."
+"A léviták pedig tábort járjanak a bizonyság hajléka körül, hogy ne legyen harag Izráel fiainak gyülekezetén; és megtartsák a léviták a bizonyság hajlékának õrizetét."
+"Cselekedének azért az Izráel fiai mind a szerint, a mint parancsolta vala az Úr Mózesnek, úgy cselekedének."

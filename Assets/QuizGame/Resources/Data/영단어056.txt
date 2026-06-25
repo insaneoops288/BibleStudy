@@ -1,0 +1,200 @@
+fare
+교통요금
+expense
+비용, 지출
+trust
+신뢰, 신임, 믿다, 신뢰하다
+head
+(~의 방향으로)나아가다, 향하게 하다
+drive
+(차 등을)운전하다, 타고가다, 조종하다
+fine
+벌금
+pass
+지나가다, 통과하다
+securely
+(매듭 등이)단단하게, 튼튼하게
+prominently
+눈에 잘 띄게, 두드러지게
+prominent
+눈에 띄는
+reserved
+예약된, 예약한, 지정된
+average
+평균치, 평균
+collision
+충돌
+tow
+견인하다
+reverse
+뒤의, 반대의
+obstruct
+(전망 등을)가리다, 차단하다, (도로 등을)막다
+obstruction
+장애물, 방해물
+delinquent
+(세금 등이)연체된, 미불의
+overdue
+(지불,반납 등의)기한이 지난, 지불 기한이 넘은
+regrettably
+유감스럽게도
+balance
+잔고, 차감 잔액
+deposit
+입금하다, 예금하다
+investigation
+조사
+investigate
+연구하다, 조사하다
+account
+계좌, 설명, 고려
+statement
+명세서, 성명서
+amount
+액수, 양
+withdrawal
+(예금의)인출
+previously
+이전에
+due
+만기가 된, 지불 기일이 된, (금전 등이)~에게 마땅히 지급되어야 할
+receive
+받다, 수취하다
+expect
+예상하다, 기대하다
+certificate
+증명서, 증서
+document
+서류, 문서
+spending
+소비, 지출
+successfully
+성공적으로
+bill
+~에게 청구서를 보내다, 청구서, 계산서
+pleasure
+즐거움, 기쁜, 영광
+study
+연구
+summary
+요약, 개요
+emphasize
+강조하다
+temporary
+임시의
+lower
+(양,가격을)줄이다
+transaction
+거래, 업무
+double
+두배로 만들다
+identification
+신분증, 신분 증명서
+dissatisfaction
+불만, 불평
+in common
+공통으로, 공동으로
+interest
+관심, 권리, 이자
+reject
+거절하다, 거부하다
+relation
+관계
+tentatively
+임시로, 시험적으로
+tentative
+시험적인, 임시의, 가설
+alternatively
+그렇지 않으면, 그 대신에
+attentive
+주의 깊은, 세심한
+convert
+전환하다, 변환하다
+heavily
+몹시, 심하게
+loan
+대출, 대출금
+unexpected
+예기치 않은
+cash
+현금으로 바꾸다
+mortgage
+(담보)대출
+payable
+지불해야 하는
+personal
+개인의
+investment
+투자, 투자금
+incrative
+수익성 있는, 돈벌이가 되는
+profit, earning, gainings
+이익
+income
+수입, 소득
+inherently
+본질적으로
+inherent
+본래 갖추어져 있는, 고유의
+secure
+확보하다, 얻어 내다, 안전하게 지키다, 고정시키다
+foreseeable
+예견할 수 있는
+oversee
+감독하다
+overseas
+외국의
+innate
+타고난
+property
+재산
+on behalf of
+~을 대신해서
+lease
+임대차(계약)
+sponsor
+후원하다, 후원자
+propose
+제안하다
+support
+후원, 원조, 지지, 지원하다, 후원하다, 살게하다, (생명, 기력 등을)유지하다
+distributuion
+분배, 배급
+consider
+고려하다
+nearly
+거의, 대략
+consent
+동의, 허락, 동의하다
+consentaneous
+일치하는
+gratitude
+고마움, 감사
+consult
+상의하다, 상담하다
+advice
+조언, 충고
+partially
+부분적으로, 일부분은
+evident
+분명한, 명백한,
+reliability
+신뢰도, 믿음직함
+cautious
+조심하는, 신중한
+insight
+식견, 통찰력
+portfolio
+포트폴리오, 투자 자산 구성
+possible
+가능한, 있음직한
+speculation
+추측
+speculate, suppose, guess, infer
+추측하다
+solely
+오로지, 혼자서, 전적으로
+entrepreneur
+사업가
+eventually
+결국, 마침내

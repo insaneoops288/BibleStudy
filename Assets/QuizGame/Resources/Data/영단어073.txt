@@ -1,0 +1,200 @@
+irony
+비꼼, 풍자, 반어(법)
+lore
+민간전승, 학문, 지식, 교훈
+margin
+가장자리, 한도, 한계
+razor
+면도칼, 면도기
+sprout
+눈, 싹, 젊은이
+tenant
+소작인, 거주자, 차용자, 차용하다
+fluffy
+불분명한, 솜털의, 보풀보풀한
+gallon
+(용량) 약 4리터, 대량, 다수
+retail
+소매, 소매로
+sermon
+설교, 교훈, 훈계
+spank
+볼기짝을 때리다, 찰싹 때리기
+pedestrian
+보행자, 도보 경주자, 도보의
+barter
+교역하다, 물물교환하다, 물물교환, 교역품
+criteria
+표준, 기준
+conform
+준수하다, 따르다, 일치시키다
+mummy
+미이라, (색깔) 짙은 갈색
+blunder
+큰 실수, 큰 실수를 하다, 머뭇거리다
+dismay
+당황, 놀람, 당황케 하다, 놀라게 하다
+insulation
+격리, 고립, 절연(체), 단열(재)
+trivial
+사소한, 진부한, (복) 하찮은 일
+intact
+손대지 않은, 그대로인, 손상되지 않은
+respiration
+호흡(작용)
+sanitation
+공중위생, 위생설비
+supplement
+보충물, 부록, 추가, 증보, 보충하다, 추가하다
+feed
+먹이를 주다, 양육·부양하다, 공급하다, 먹이
+quack
+집오리가 꽥꽥거리다, 시끄럽게 지껄이다
+afflict
+괴롭히다
+celebrate
+(축전·파티) 열다, 거행하다, 찬미하다
+charter
+특허장, 면허장, 헌장
+diesel
+디젤유, 디젤엔진, 디젤기관차, 디젤엔진의
+discard
+버리다, 해고하다, 버린 패, 포기, 해고
+doom
+(나쁘게) 운명짓다, (유죄로) 판정하다
+kettle
+주전자
+livestock
+가축
+rustle
+살랑살랑 소리내다, 옷 스치는 소리를 내며 걷다
+skid
+미끄러짐, 썰매
+temperate
+절제하는, 절도 있는, 온건한, 온난한
+triple
+3배로 하다, 3배의
+algebra
+수학(대수학)
+barbarism
+야만, 미개
+brow
+이마, 벼랑, 지능 정도, 얼굴, 표정
+compile
+수집·편집하다
+congestion
+밀집, 혼잡, 충혈
+crayon
+크레용, 크레용으로 그리다
+disc
+원반, 레코드
+expel
+내쫓다, 추방하다, 면직시키다
+hitch
+엉킴, 장애, 고장, 히치하이킹, 걸어매다, 낚아채다, 히치하이크하다
+incentive
+자극, 동기 유발, 장려금, 고무하는, 격려하는
+intermission
+중지, 휴지기, 휴게시간, 막간
+jag
+(톱날처럼) 들쭉날쭉하게 하다
+lease
+임대차 계약, 임차권, 임대 기간, 임대하다
+logograph
+기호, 약부호, 약자, 심벌마크
+monologue
+독백극, 혼자서만 하는 긴 이야기
+notation
+각주, 주의 표기법(표기), 기록
+osteoporosis
+골다공증
+overwhelming
+압도적인
+plethora
+과다, 적혈구 과다증
+ramp
+경사로, 진입로
+stink
+악취, 말썽
+whizz
+씽 소리나게 하다, (화살 등의소리) 씽, 핑, 수완가
+zeal
+열심, 열중
+political
+정치의, 정치적인
+philosophy
+철학, 인생관, 철학서
+flood
+홍수, 범람, 밀물, 쇄도, 바다, 쇄도하다, 범람시키다, 관개하다
+refer, indicate
+가리키다, 언급하다, 인용하다, 참조하다
+drug
+약, 약품, 마약, 약을 타다, 먹이다, 마약을 상용하다
+vote, election
+투표, 득표, 선거권, 참정권, 투표하다
+preserve
+보호·유지하다, 저장하다, 잼, 보호구역
+propose, offer, recommend
+추천하다, 제안하다, (결혼) 신청하다
+confuse, distract, puzzle
+혼동하다, 혼란시키다, 당황하게 하다
+replace
+대체하다, 제자리에 놓다, 돌려주다, 복직시키다
+emerge, go out, come out, appear, result
+나타나다, 벗어나다
+urgent
+긴급한, 절박한, 강요하는
+slip
+미끄러지다, 헐거워지다, 미끄러져 넘어짐, 실수
+career
+경력, 이력, 직업, 생애, 경력, 직업적인, 전문적인
+journey, travel, voyage
+여행, 여정, 여행하다
+muscle, athlete
+근육, 근력, 힘, 영향력
+fascinate, appeal, attract, charm, enchant
+매혹하다
+eager, zealous, enthusiastic, dedicated, desiring
+열성적인, 열심인
+steam, heating, cloud
+증기, 김, 안개, 증기가 발생하다
+caution
+조심, 신중, 주의, 경고, 주의시키다, 경고하다
+persuade, urge, tempt, convince
+설득하다, 권하다, 믿게 하다
+architecture, building
+건축물, 건축학, 건축양식, 구조, 건축물
+pause, hesitate, cease
+중단하다, 머뭇거리다, 중단, 단절, 휴지기
+technique, skill, touch
+기술, 기교, 연주법
+request
+요청하다, 의뢰하다, 요구(물), 요청 사항
+exhaust
+소모하다, 고갈시키다, (가스) 배출하다, 배출, 배기
+demonstrate
+논증하다, 설명하다, 시위하다
+invest, fund, deposit, assign, equip
+투자하다, 둘러싸다, 착용하다
+royal
+왕의, 왕실의, 기품 있는, 관대한, 호화로운, 왕족
+affair, situation, circumstance
+일, 사건, 업무
+nuclear, atomic
+(세포) 핵의, 원자력의, 핵무기의, 핵무기, 핵 보유국
+astronomy
+천문학
+cancer
+암, 악성종양, (사회) 병폐, 게자리, 암처럼 침해하다
+rob, deprive, take away, steal
+강탈하다, 빼앗다
+dawn
+새벽, 여명, 시초, 서광, 날이 새다, 발달하기 시작하다
+odd, puzzling, strange, abnormal
+이상한, 기묘한, 홀수의
+murder, kill
+살인, 살인사건, 살해하다
+nowadays, at present, today
+오늘날에는, 오늘날, 현대
+capture, catch
+사로잡다, 점령하다, 획득하다, 생포, 점령, 포획

@@ -1,0 +1,200 @@
+make
+~을 하다, ~을 만들다
+cater
+(연회 등의)음식물을 공급하다
+reservation
+예약, 지정, 보호구역
+beverage
+음료
+confirm
+확인하다
+cancel
+취소하다
+rate
+요금
+conviniently
+편리하게
+decorate
+장식하다
+information
+정보, 자료
+retain
+유지하다, 보유하다
+atmosphere
+분위기, 환경
+cuisine
+(독특한)요리
+sequence
+순서, 차례
+extensive
+광범위한, 넓은
+prior
+전의, 먼저의
+book
+예약하다
+amenity
+편의 시설
+belongings
+소지품, 소유물
+entirely
+완전히
+ease
+완화시키다, 쉬움, 용이함
+ingredient
+재료, 성분
+sip
+음미하며 마시다, 홀짝거리다
+stir
+휘젓다, 뒤섞다
+choice
+선택물, 선택 사항, 선택
+complication
+복잡한 문제
+freshness
+신선함
+occupancy
+(호텔등의)이용률
+decline
+감소, 하락, (초대,신청을)거절하다
+markedly
+현저하게, 눈에 띄게
+increase
+인상, 증가, 증가하다
+revenue
+수입
+projection
+예상(치)
+substantial
+상당한
+anticipate
+예상하다, 기대하다
+anticipation
+예상
+significantly
+상당히, 두드러지게
+estimate
+추정하다, 추산하다, 추정(치), 추산
+shift
+옮기다, 이동하다, 변화, 교대근무
+fee
+요금, 수수료
+production
+생산량, 생산
+sale
+(~s)매출액, 매상고, (할인)판매
+impressive
+굉장한, 인상적인
+representative
+직원, 외판원, 대표자
+recent
+최근의
+exceed
+~을 초과하다
+exceedingly
+대단히, 몹시
+exceedably
+넘을 수 있는
+improvement
+향상
+employer
+고용주
+regular
+정기적인, 단골의
+summarize
+요약하다
+typically
+보통, 일반적으로
+whole
+전체의, 온전한
+growth
+성장, 발전
+figure
+총액, 합계 수
+steady
+꾸준한, 안정된
+frequent
+빈번한, 잦은
+achieve
+달성하다, 성취하다
+assumption
+추정, 산정, 가정
+share
+공유하다, 함께쓰다, (생각, 경험, 감정을 남과)함께 나누다 몫, 지분
+incur
+(손실을)입다, (빚을)지다
+slightly
+약간
+profit
+수익, 이익
+reliant
+의존하는, 의지하는
+reliantly
+의지하여
+illustrate
+분명히 보여주다, 설명하다
+illustrate
+설명,해설,삽화
+inaccurate
+부정확한
+percentage
+비율, 백분율
+reduce
+줄이다, 감소시키다
+tend
+~하는 경향이 있다, ~하기 쉽다
+audit
+회계 감사, 심사
+accounting
+회계
+budget
+예산
+financial
+재정의, 금전상의
+curtail
+~을 줄이다, 삭감하다
+curtailment
+단축
+deficit
+적자, 부족액
+recently
+최근에
+substantially
+크게, 상당히
+substantial
+상당한, 재력이 있는
+committee
+위원회
+frequently
+자주, 흔히
+capability
+능력, 역량
+proceeds
+수익금
+reimburse
+변제하다, 상환하다
+considerably
+상당히, 많이
+adequate
+충분한, 적절한
+adequately
+적절히, 충분히
+total
+총계의, 전부의
+allocate
+할당하다, 배분하다
+allocation
+할당
+inspector
+조사관, 감독관
+inspect
+검사하다
+preferred
+선호되는, 우선의
+quarter
+사분기, 4분의1
+interrupt
+중단시키다, 방해하다
+interruption
+방해, 중지, 중단
+browse
+흝어보다, 둘러보다
