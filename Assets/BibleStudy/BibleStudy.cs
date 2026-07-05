@@ -4391,7 +4391,7 @@ public class BibleStudy : MonoBehaviour
                                 float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
                                 StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
                             }
-                            yield return new WaitForSeconds(collectEnglish[i].Length * 0.22f);
+                            yield return new WaitForSeconds(collectEnglish[i].Length * 0.2f);
                         }
                         else
                         {
