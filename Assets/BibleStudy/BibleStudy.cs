@@ -4219,9 +4219,9 @@ public class BibleStudy : MonoBehaviour
             else
             {
                 // if (string.IsNullOrEmpty(bibleName))
-                    m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, i + 1, collectKorean.Count - 1);
+                m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, i + 1, collectKorean.Count - 1);
                 // else
-                    // m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, i + 1, collectKorean.Count - 1);
+                // m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, i + 1, collectKorean.Count - 1);
             }
 
             List<string> CollectKoreanEnglish = new List<string>();
@@ -4250,6 +4250,8 @@ public class BibleStudy : MonoBehaviour
             {
                 if (isPlayKorean)
                 {
+                    // LabelTempTemp.text = collectKorean[i]; // 확인해야 함. 
+
                     SetRandomBackground();
                     if (!string.IsNullOrEmpty(collectKorean[i]))
                     {
@@ -4259,6 +4261,28 @@ public class BibleStudy : MonoBehaviour
                                 m_TempTemp.text = "" + collectKorean[i].Length;
                             else
                                 m_TempTemp.text = string.Empty;
+
+                            string url = @"https://translate.google.com/translate_tts?ie=UTF-8&total=1&idx=0&textlen=32&client=tw-ob&q=" + collectKorean[i] + GetNationVoice(m_NationType);
+
+                            using (UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(url, AudioType.MPEG))
+                            {
+                                yield return www.SendWebRequest();
+
+                                if (www.result == UnityWebRequest.Result.Success)
+                                {
+                                    AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
+
+                                    if (clip != null)
+                                    {
+                                        audioSource.clip = clip;
+                                        audioSource.pitch = 1.0f;
+                                        audioSource.Play();
+                                    }
+                                    else Debug.LogError("DownloadHandlerAudioClip.GetContent returned null");
+                                }
+                                else Debug.LogError("Error: " + www.error);
+                            }
+                            yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
                         }
 
                         if (collectKorean[i].Length >= 200)
@@ -4288,30 +4312,11 @@ public class BibleStudy : MonoBehaviour
                                 float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
                                 StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
                             }
+                            yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
                         }
                         else
                         {
-                            string url = @"https://translate.google.com/translate_tts?ie=UTF-8&total=1&idx=0&textlen=32&client=tw-ob&q=" + collectKorean[i] + GetNationVoice(m_NationType);
 
-                            using (UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(url, AudioType.MPEG))
-                            {
-                                yield return www.SendWebRequest();
-
-                                if (www.result == UnityWebRequest.Result.Success)
-                                {
-                                    AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
-                                    
-                                    if (clip != null)
-                                    {
-                                        audioSource.clip = clip;
-                                        audioSource.pitch = 1.0f;
-                                        audioSource.Play();
-                                    }
-                                    else Debug.LogError("DownloadHandlerAudioClip.GetContent returned null");
-                                }
-                                else Debug.LogError("Error: " + www.error);
-                            }
-                            yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
                         }
                     }
                     else
@@ -4326,6 +4331,8 @@ public class BibleStudy : MonoBehaviour
                 {
                     if (!string.IsNullOrEmpty(collectEnglish[i]))
                     {
+                        // LabelTempTemp.text = collectEnglish[i]; // 확인해야 함. 
+
                         SetRandomBackground();
                         if (collectEnglish[i].Length < 200)
                         {
@@ -4333,6 +4340,28 @@ public class BibleStudy : MonoBehaviour
                                 m_TempTemp.text = "" + collectEnglish[i].Length;
                             else
                                 m_TempTemp.text = string.Empty;
+
+                            string url = @"https://translate.google.com/translate_tts?ie=UTF-8&total=1&idx=0&textlen=32&client=tw-ob&q=" + collectEnglish[i] + GetNationVoice(ENationType.English); ;
+
+                            using (UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(url, AudioType.MPEG))
+                            {
+                                yield return www.SendWebRequest();
+
+                                if (www.result == UnityWebRequest.Result.Success)
+                                {
+                                    AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
+
+                                    if (clip != null)
+                                    {
+                                        audioSource.clip = clip;
+                                        audioSource.pitch = 1.0f;
+                                        audioSource.Play();
+                                    }
+                                    else Debug.LogError("DownloadHandlerAudioClip.GetContent returned null");
+                                }
+                                else Debug.LogError("Error: " + www.error);
+                            }
+                            yield return new WaitForSeconds(collectEnglish[i].Length * GetDelayEnd(ENationType.English));
                         }
 
                         if (collectEnglish[i].Length >= 200)
@@ -4349,43 +4378,24 @@ public class BibleStudy : MonoBehaviour
 
                             if (tempCollect.Count == 2)
                             {
-                                float[] TempDelay = { GetDelayMiddle(ENationType.English), GetDelayEnd(ENationType.English) };
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), 0.2f };
                                 StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
                             }
                             else if (tempCollect.Count == 3)
                             {
-                                float[] TempDelay = { GetDelayMiddle(ENationType.English), GetDelayMiddle(ENationType.English), GetDelayEnd(ENationType.English) };
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
                                 StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
                             }
                             else if (tempCollect.Count == 4)
                             {
-                                float[] TempDelay = { GetDelayMiddle(ENationType.English), GetDelayMiddle(ENationType.English), GetDelayMiddle(ENationType.English), GetDelayEnd(ENationType.English) };
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
                                 StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
                             }
+                            yield return new WaitForSeconds(collectEnglish[i].Length * 0.22f);
                         }
                         else
                         {
-                            string url = @"https://translate.google.com/translate_tts?ie=UTF-8&total=1&idx=0&textlen=32&client=tw-ob&q=" + collectEnglish[i] + GetNationVoice(ENationType.English); ;
 
-                            using (UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(url, AudioType.MPEG))
-                            {
-                                yield return www.SendWebRequest();
-
-                                if (www.result == UnityWebRequest.Result.Success)
-                                {
-                                    AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
-                                    
-                                    if (clip != null)
-                                    {
-                                        audioSource.clip = clip;
-                                        audioSource.pitch = 1.0f;
-                                        audioSource.Play();
-                                    }
-                                    else Debug.LogError("DownloadHandlerAudioClip.GetContent returned null");
-                                }
-                                else Debug.LogError("Error: " + www.error);
-                            }
-                            yield return new WaitForSeconds(collectEnglish[i].Length * GetDelayEnd(ENationType.English));
                         }
                     }
                     else
