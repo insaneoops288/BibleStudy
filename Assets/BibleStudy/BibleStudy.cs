@@ -16,6 +16,11 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
 /**
+
+ 
+ */
+
+/**
 https://github.com/insaneoops288/Bible
 https://github.com/insaneoops288/BibleAfrikaans
 https://github.com/insaneoops288/BibleAlbanian
@@ -39,6 +44,22 @@ https://github.com/insaneoops288/BibleThai
 https://github.com/insaneoops288/BibleVietnamese
 https://github.com/insaneoops288/Bible
 */
+
+
+/**
+    static public class NGUIEditorTools
+    
+	static public int GetClassID (System.Type type)
+	{
+		var go = EditorUtility.CreateGameObjectWithHideFlags("Temp", HideFlags.HideAndDontSave);
+		var uiSprite = go.AddComponent(type);
+		var ob = new SerializedObject(uiSprite);
+		var classID = ob.FindProperty("m_Script").objectReferenceEntityIdValue;
+		NGUITools.DestroyImmediate(go);
+		// return classID;
+		return 0; // 확인해야 함. 
+	} 
+ */
 
 /**
 public void SetOldTestamentInfo(OldTestamentInfo Old, NewTestamentInfo New)
@@ -1434,9 +1455,9 @@ public class BibleStudy : MonoBehaviour
 
     private void Start()
     {
-        VersionInfo = "v3.7";
+        VersionInfo = "v3.9";
 
-        IsDebug = false;
+        // IsDebug = false;
 
         IsChinessOtherType = false; // 중국의 경우 2가지로 분기해 주어야 함. 
 
@@ -4219,9 +4240,9 @@ public class BibleStudy : MonoBehaviour
             else
             {
                 // if (string.IsNullOrEmpty(bibleName))
-                m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, i + 1, collectKorean.Count - 1);
+                    m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, i + 1, collectKorean.Count - 1);
                 // else
-                // m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, i + 1, collectKorean.Count - 1);
+                    // m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, i + 1, collectKorean.Count - 1);
             }
 
             List<string> CollectKoreanEnglish = new List<string>();
@@ -4283,42 +4304,42 @@ public class BibleStudy : MonoBehaviour
                                 else Debug.LogError("Error: " + www.error);
                             }
                             yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
-                        }
-
-                        if (collectKorean[i].Length >= 200)
-                        {
-                            List<string> tempCollect = ReturnOver200CharactersResult(collectKorean[i]);
-                            string temmpCount = string.Empty;
-
-                            for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
-
-                            if (IsDebug)
-                                m_TempTemp.text = temmpCount;
-                            else
-                                m_TempTemp.text = string.Empty;
-
-                            if (tempCollect.Count == 2)
-                            {
-                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
-                                StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
-                            }
-                            else if (tempCollect.Count == 3)
-                            {
-                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
-                                StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
-                            }
-                            else if (tempCollect.Count == 4)
-                            {
-                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
-                                StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
-                            }
-                            yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
-                        }
-                        else
-                        {
-
-                        }
                     }
+
+                    if (collectKorean[i].Length >= 200)
+                    {
+                        List<string> tempCollect = ReturnOver200CharactersResult(collectKorean[i]);
+                        string temmpCount = string.Empty;
+
+                        for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
+
+                        if (IsDebug)
+                            m_TempTemp.text = temmpCount;
+                        else
+                            m_TempTemp.text = string.Empty;
+
+                        if (tempCollect.Count == 2)
+                        {
+                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
+                            StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
+                        }
+                        else if (tempCollect.Count == 3)
+                        {
+                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
+                            StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
+                        }
+                        else if (tempCollect.Count == 4)
+                        {
+                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
+                            StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
+                        }
+                        yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
+                    }
+                    else
+                    {
+
+                    }
+                }
                     else
                     {
                         isPlay = false;
@@ -4362,42 +4383,42 @@ public class BibleStudy : MonoBehaviour
                                 else Debug.LogError("Error: " + www.error);
                             }
                             yield return new WaitForSeconds(collectEnglish[i].Length * GetDelayEnd(ENationType.English));
-                        }
-
-                        if (collectEnglish[i].Length >= 200)
-                        {
-                            List<string> tempCollect = ReturnOver200CharactersResult(collectEnglish[i]);
-                            string temmpCount = string.Empty;
-
-                            for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
-
-                            if (IsDebug)
-                                m_TempTemp.text = temmpCount;
-                            else
-                                m_TempTemp.text = string.Empty;
-
-                            if (tempCollect.Count == 2)
-                            {
-                                float[] TempDelay = { GetDelayMiddle(m_NationType), 0.2f };
-                                StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
-                            }
-                            else if (tempCollect.Count == 3)
-                            {
-                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
-                                StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
-                            }
-                            else if (tempCollect.Count == 4)
-                            {
-                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
-                                StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
-                            }
-                            yield return new WaitForSeconds(collectEnglish[i].Length * 0.2f);
-                        }
-                        else
-                        {
-
-                        }
                     }
+
+                    if (collectEnglish[i].Length >= 200)
+                    {
+                        List<string> tempCollect = ReturnOver200CharactersResult(collectEnglish[i]);
+                        string temmpCount = string.Empty;
+
+                        for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
+
+                        if (IsDebug)
+                            m_TempTemp.text = temmpCount;
+                        else
+                            m_TempTemp.text = string.Empty;
+
+                        if (tempCollect.Count == 2)
+                        {
+                            float[] TempDelay = { GetDelayMiddle(m_NationType), 0.2f };
+                            StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
+                        }
+                        else if (tempCollect.Count == 3)
+                        {
+                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
+                            StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
+                        }
+                        else if (tempCollect.Count == 4)
+                        {
+                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
+                            StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
+                        }
+                        yield return new WaitForSeconds(collectEnglish[i].Length * 0.2f);
+                    }
+                    else
+                    {
+
+                    }
+                }
                     else
                     {
                         isPlay = false;

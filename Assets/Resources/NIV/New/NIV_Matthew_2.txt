@@ -8,7 +8,7 @@ Then Herod called the Magi secretly and found out from them the exact time the s
 He sent them to Bethlehem and said, "Go and make a careful search for the child. As soon as you find him, report to me, so that I too may go and worship him."
 After they had heard the king, they went on their way, and the star they had seen in the east went ahead of them until it stopped over the place where the child was.
 When they saw the star, they were overjoyed.
-On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and presented him with gifts of gold and of incense and of myrrh.
+On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. #Then they opened their treasures and presented him with gifts of gold and of incense and of myrrh.
 And having been warned in a dream not to go back to Herod, they returned to their country by another route.
 When they had gone, an angel of the Lord appeared to Joseph in a dream. "Get up," #he said, "take the child and his mother and escape to Egypt. Stay there until I tell you, for Herod is going to search for the child to kill him."
 So he got up, took the child and his mother during the night and left for Egypt,
