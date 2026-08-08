@@ -29,7 +29,7 @@ You didn't even let me kiss my grandchildren and my daughters good-by. You have 
 I have the power to harm you, but last night the God of your father said to me, 'Be careful not to say anything to Jacob, either good or bad.'
 Now you have gone off because you longed to return to your father's house. But why did you steal my gods?"
 Jacob answered Laban, "I was afraid, because I thought you would take your daughters away from me by force.
-But if you find anyone who has your gods, he shall not live. In the presence of our relatives, see for yourself whether there is anything of yours here with me, and if so, take it." Now Jacob did not know that Rachel had stolen the gods.
+But if you find anyone who has your gods, he shall not live. In the presence of our relatives, #see for yourself whether there is anything of yours here with me, and if so, take it." Now Jacob did not know that Rachel had stolen the gods.
 So Laban went into Jacob's tent and into Leah's tent and into the tent of the two maidservants, but he found nothing. After he came out of Leah's tent, he entered Rachel's tent.
 Now Rachel had taken the household gods and put them inside her camel's saddle and was sitting on them. Laban searched through everything in the tent but found nothing.
 Rachel said to her father, "Don't be angry, my lord, that I cannot stand up in your presence, I'm having my period." So he searched but could not find the household gods.
@@ -39,8 +39,8 @@ Now that you have searched through all my goods, what have you found that belong
 I did not bring you animals torn by wild beasts, I bore the loss myself. And you demanded payment from me for whatever was stolen by day or night.
 This was my situation, The heat consumed me in the daytime and the cold at night, and sleep fled from my eyes.
 It was like this for the twenty years I was in your household. I worked for you fourteen years for your two daughters and six years for your flocks, and you changed my wages ten times.
-If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, you would surely have sent me away empty-handed. But God has seen my hardship and the toil of my hands, and last night he rebuked you."
-Laban answered Jacob, "The women are my daughters, the children are my children, and the flocks are my flocks. All you see is mine. Yet what can I do today about these daughters of mine, or about the children they have borne?
+If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, you would surely have sent me away empty-handed. #But God has seen my hardship and the toil of my hands, and last night he rebuked you."
+Laban answered Jacob, "The women are my daughters, the children are my children, and the flocks are my flocks. All you see is mine. #Yet what can I do today about these daughters of mine, or about the children they have borne?
 Come now, let's make a covenant, you and I, and let it serve as a witness between us."
 So Jacob took a stone and set it up as a pillar.
 He said to his relatives, "Gather some stones." So they took stones and piled them in a heap, and they ate there by the heap.

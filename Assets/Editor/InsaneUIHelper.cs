@@ -7504,6 +7504,33 @@ public class InsaneUIHelper : EditorWindow
         //}
     }
 
+    public static void ScriptSummary()
+    {
+        string[] RevisedRevision = Directory.GetFiles(@"c:\Bible\ESV\", "*.txt", SearchOption.AllDirectories); // c:\Bible\AAA 폴더에 있는 모든 텍스트 파일들을 읽어 옵니다. 
+
+        for (int k = 0; k < RevisedRevision.Length; k++)
+        {
+            List<string> resultFirst = new List<string>();
+            List<string> resultSecond = new List<string>();
+
+            string textValue = System.IO.File.ReadAllText(RevisedRevision[k]);
+            resultFirst = new List<string>(textValue.Split('\n'));
+
+            for (int x = 0; x < resultFirst.Count; x++) resultSecond.Add(resultFirst[x]);
+
+            string path = @"c:\Bible\ESVA\"; // 저장될 경로입니다. 
+            DirectoryInfo di = new DirectoryInfo(path);
+
+            if (di.Exists == false) di.Create(); // 만약 폴더가 존재하지 않으면
+
+            StreamWriter streamWriter = new StreamWriter(path + Path.GetFileNameWithoutExtension(RevisedRevision[k]) + ".txt", true); // 파일을 저장할 준비를 합니다. 
+
+            for (int i = 0; i < resultSecond.Count; i++) streamWriter.WriteLine(resultSecond[i].Trim()); // 결과 리스트를 파일에 저장합니다. 
+
+            streamWriter.Close();
+        }
+    }
+
     void OnGUI()
     {
         Repaint();
@@ -7514,7 +7541,8 @@ public class InsaneUIHelper : EditorWindow
 
             if (GUILayout.Button("Test", GUILayout.Height(30)))
             {
-                TestTest("InternationBibles");
+                // TestTest("InternationBibles");
+                ScriptSummary();
             }
 
             if (GUILayout.Button("소중한 말씀", GUILayout.Height(30)))

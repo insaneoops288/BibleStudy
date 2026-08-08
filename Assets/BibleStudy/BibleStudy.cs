@@ -17,6 +17,8 @@ using UnityEngine.UIElements;
 
 /**
 
+
+
  
  */
 
@@ -1455,7 +1457,7 @@ public class BibleStudy : MonoBehaviour
 
     private void Start()
     {
-        VersionInfo = "v3.9";
+        VersionInfo = "v3.91";
 
         // IsDebug = false;
 
@@ -2395,6 +2397,9 @@ public class BibleStudy : MonoBehaviour
     TextAsset korean;
     TextAsset english;
 
+    string PathSavedKorean;
+    string PathSavedEnglish;
+
     /// <summary>
     /// 성서의 내용을 보여줌.
     /// </summary>
@@ -2410,6 +2415,9 @@ public class BibleStudy : MonoBehaviour
 
         korean = (TextAsset)Resources.Load(m_KoreanBible + selectedKorean, typeof(TextAsset)); // 챕터별로 정리된 성경의 한글판을 가져옴.
         english = (TextAsset)Resources.Load(m_EnglishBible + selectedEnglish, typeof(TextAsset)); // 챕터별로 정리된 성경의 영문판을 가져옴. 
+
+        PathSavedKorean = selectedKorean;
+        PathSavedEnglish = selectedEnglish;
 
         //TextAsset koreanEasyBible = (TextAsset)Resources.Load((EBiblePath.EasyBible.ToString() + "/") + selectedKoreanEasyBible, typeof(TextAsset));
         //TextAsset koreanKoreanBible = (TextAsset)Resources.Load((EBiblePath.KoreanBible.ToString() + "/") + selectedKoreanKoreanBible, typeof(TextAsset));
@@ -2656,13 +2664,17 @@ public class BibleStudy : MonoBehaviour
 
     }
 
+    List<int> CheckOver200Korean = new List<int>();
+    List<int> CheckOver200English = new List<int>();
+
+
     /// <summary>
     /// 에디터에서 할 수 있도록 수정해야 함. 
     /// 200자 넘는 문장을 저장하기 위한.
     /// </summary>
     void SetSavedBibleName()
     {
-        // 영어성경의 문장과 한글 성경의 문장의 절 수가 틀릴경우 어는 장인지를 표시
+        //// 만일 성경의 문장이 200자가 넘을 경우 그 문장이 있는 텍스트 화일도 카피하고 어느 문장인지도 표시함. 
         //string FileNameBible = string.Empty;
         //if (m_CheckboxReadBibleKorean.value == true)
         //    FileNameBible = m_KoreanBible.Substring(0, m_KoreanBible.Length - 5);
@@ -2670,47 +2682,74 @@ public class BibleStudy : MonoBehaviour
         //    FileNameBible = m_EnglishBible.Substring(0, m_EnglishBible.Length - 5);
 
         //string path = @"c:\Bible\"; // 저장될 경로입니다. 
-        //StreamWriter streamWriter = new StreamWriter(path + "(" + m_NationType.ToString() + ") " + FileNameBible + ".txt", true); // 파일을 저장할 준비를 합니다. 
 
-        //if (collectKorean.Count != collectEnglish.Count)
+        //StreamWriter streamWriter;
+
+        //if (m_CheckboxReadBibleKorean.value == true)
+        //    streamWriter = new StreamWriter(path + "(" + m_NationType.ToString() + ") " + FileNameBible + ".txt", true);
+        //else
+        //    streamWriter = new StreamWriter(path + "(" + "English" + ") " + FileNameBible + ".txt", true);
+
+        //if (m_CheckboxReadBibleKorean.value == true)
         //{
-        //    streamWriter.WriteLine(m_NationType.ToString() + " (" + bibleName + ") " + bibleChapter + "장 " + collectKorean.Count + "절");
-        //    streamWriter.WriteLine("English (" + bibleNameEnglish + ") " + bibleChapter + "장 " + collectEnglish.Count + "절");
+        //    for (int i = 0; i < collectKorean.Count - 1; i++)
+        //    {
+        //        if (collectKorean[i].Length >= 200 && !collectKorean[i].Contains('#'))
+        //            streamWriter.WriteLine(bibleName + "(" + bibleNameEnglish + ") " + bibleChapter + ":" + (i + 1) + " (" + collectKorean[i].Length + ") " + collectKorean[i]);
+        //    }
         //}
+        //else
+        //{
+        //    for (int i = 0; i < collectEnglish.Count - 1; i++)
+        //    {
+        //        if (collectEnglish[i].Length >= 200 && !collectEnglish[i].Contains('#'))
+        //            streamWriter.WriteLine(bibleNameEnglish + " " + bibleChapter + ":" + (i + 1) + " (" + collectEnglish[i].Length + ") " + collectEnglish[i]);
+        //    }
+        //}
+
+        //streamWriter.Close();
+
 
 
         // 만일 성경의 문장이 200자가 넘을 경우 그 문장이 있는 텍스트 화일도 카피하고 어느 문장인지도 표시함. 
-        string FileNameBible = string.Empty;
-        if (m_CheckboxReadBibleKorean.value == true)
-            FileNameBible = m_KoreanBible.Substring(0, m_KoreanBible.Length - 5);
-        else
-            FileNameBible = m_EnglishBible.Substring(0, m_EnglishBible.Length - 5);
+        //string FileNameBible = string.Empty;
+        //if (m_CheckboxReadBibleKorean.value == true)
+        //    FileNameBible = m_KoreanBible.Substring(0, m_KoreanBible.Length - 5);
+        //else
+        //    FileNameBible = m_EnglishBible.Substring(0, m_EnglishBible.Length - 5);
+
+        CheckOver200Korean = new List<int>();
+        CheckOver200English = new List<int>();
 
         string path = @"c:\Bible\"; // 저장될 경로입니다. 
 
         StreamWriter streamWriter;
 
-        if (m_CheckboxReadBibleKorean.value == true)
-            streamWriter = new StreamWriter(path + "(" + m_NationType.ToString() + ") " + FileNameBible + ".txt", true);
-        else
-            streamWriter = new StreamWriter(path + "(" + "English" + ") " + FileNameBible + ".txt", true);
+        //if (m_CheckboxReadBibleKorean.value == true)
+        //    streamWriter = new StreamWriter(path + PathSavedKorean + ".txt", true);
+        //else
+        //    streamWriter = new StreamWriter(path + PathSavedEnglish + ".txt", true);
 
         if (m_CheckboxReadBibleKorean.value == true)
         {
             for (int i = 0; i < collectKorean.Count - 1; i++)
             {
                 if (collectKorean[i].Length >= 200 && !collectKorean[i].Contains('#'))
-                {
-                    if (!File.Exists(path + korean.name + ".txt"))
-                    {
-                        //string projectPath = AssetDatabase.GetAssetPath(korean);
-                        //string fullPath = System.IO.Path.GetFullPath(projectPath);
-                        //string NewFilenName = path + korean.name + ".txt";
-                        //System.IO.File.Copy(fullPath, NewFilenName);
-                    }
+                    CheckOver200Korean.Add(1);
+            }
 
-                    streamWriter.WriteLine(bibleName + "(" + bibleNameEnglish + ") " + bibleChapter + ":" + (i + 1) + " (" + collectKorean[i].Length + ") " + collectKorean[i]);
+            if (CheckOver200Korean.Count > 0)
+            {
+                streamWriter = new StreamWriter(path + PathSavedKorean + ".txt", true);
+
+                for (int i = 0; i < collectKorean.Count - 1; i++)
+                {
+                    if (collectKorean[i].Length >= 200 && !collectKorean[i].Contains('#'))
+                        streamWriter.WriteLine(bibleName + "(" + bibleNameEnglish + ") " + bibleChapter + ":" + (i + 1) + " (" + collectKorean[i].Length + ") " + collectKorean[i].Trim());
+                    else
+                        streamWriter.WriteLine(collectKorean[i].Trim());
                 }
+                streamWriter.Close();
             }
         }
         else
@@ -2718,21 +2757,23 @@ public class BibleStudy : MonoBehaviour
             for (int i = 0; i < collectEnglish.Count - 1; i++)
             {
                 if (collectEnglish[i].Length >= 200 && !collectEnglish[i].Contains('#'))
-                {
-                    if (!File.Exists(path + english.name + ".txt"))
-                    {
-                        //string projectPath = AssetDatabase.GetAssetPath(english);
-                        //string fullPath = System.IO.Path.GetFullPath(projectPath);
-                        //string NewFilenName = path + english.name + ".txt";
-                        //System.IO.File.Copy(fullPath, NewFilenName);
-                    }
+                    CheckOver200English.Add(1);
+            }
 
-                    streamWriter.WriteLine(bibleNameEnglish + " " + bibleChapter + ":" + (i + 1) + " (" + collectEnglish[i].Length + ") " + collectEnglish[i]);
+            if (CheckOver200English.Count > 0)
+            {
+                streamWriter = new StreamWriter(path + PathSavedEnglish + ".txt", true);
+
+                for (int i = 0; i < collectEnglish.Count - 1; i++)
+                {
+                    if (collectEnglish[i].Length >= 200 && !collectEnglish[i].Contains('#'))
+                        streamWriter.WriteLine(bibleNameEnglish + " " + bibleChapter + ":" + (i + 1) + " (" + collectEnglish[i].Length + ") " + collectEnglish[i].Trim());
+                    else
+                        streamWriter.WriteLine(collectEnglish[i].Trim());
                 }
+                streamWriter.Close();
             }
         }
-
-        streamWriter.Close();
     }
 
     /// <summary>
@@ -4966,7 +5007,8 @@ public class BibleStudy : MonoBehaviour
 
     void OOPSButtonNext()
     {
-        InvokeRepeating("ButtonNext", 0.05f, 0.05f);
+        // InvokeRepeating("ButtonNext", 0.05f, 0.05f);
+        InvokeRepeating("ButtonNext", 0.1f, 0.1f);
 
         // 200자 넘는 문장을 저장하기 위한. 빌드할 때는 주석처리 해줌. 
         // Show함수에서 SetSavedBibleName() 호출

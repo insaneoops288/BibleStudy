@@ -1,5 +1,5 @@
 Jacob lived in the land where his father had stayed, the land of Canaan.
-This is the account of Jacob. Joseph, a young man of seventeen, was tending the flocks with his brothers, the sons of Bilhah and the sons of Zilpah, his father's wives, and he brought their father a bad report about them.
+This is the account of Jacob. Joseph, a young man of seventeen, was tending the flocks with his brothers, the sons of Bilhah and the sons of Zilpah, his father's wives, #and he brought their father a bad report about them.
 Now Israel loved Joseph more than any of his other sons, because he had been born to him in his old age, and he made a richly ornamented robe for him.
 When his brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him.
 Joseph had a dream, and when he told it to his brothers, they hated him all the more.
@@ -7,7 +7,7 @@ He said to them, "Listen to this dream I had,
 We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood upright, while your sheaves gathered around mine and bowed down to it."
 His brothers said to him, "Do you intend to reign over us? Will you actually rule us?" And they hated him all the more because of his dream and what he had said.
 Then he had another dream, and he told it to his brothers. "Listen," he said, "I had another dream, and this time the sun and moon and eleven stars were bowing down to me."
-When he told his father as well as his brothers, his father rebuked him and said, "What is this dream you had? Will your mother and I and your brothers actually come and bow down to the ground before you?"
+When he told his father as well as his brothers, his father rebuked him and said, "What is this dream you had? #Will your mother and I and your brothers actually come and bow down to the ground before you?"
 His brothers were jealous of him, but his father kept the matter in mind.
 Now his brothers had gone to graze their father's flocks near Shechem,
 and Israel said to Joseph, "As you know, your brothers are grazing the flocks near Shechem. Come, I am going to send you to them." "Very well," he replied.
@@ -22,7 +22,7 @@ When Reuben heard this, he tried to rescue him from their hands. "Let's not take
 "Don't shed any blood. Throw him into this cistern here in the desert, but don't lay a hand on him." Reuben said this to rescue him from them and take him back to his father.
 So when Joseph came to his brothers, they stripped him of his robe, the richly ornamented robe he was wearing,
 and they took him and threw him into the cistern. Now the cistern was empty, there was no water in it.
-As they sat down to eat their meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were loaded with spices, balm and myrrh, and they were on their way to take them down to Egypt.
+As they sat down to eat their meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were loaded with spices, balm and myrrh, #and they were on their way to take them down to Egypt.
 Judah said to his brothers, "What will we gain if we kill our brother and cover up his blood?
 Come, let's sell him to the Ishmaelites and not lay our hands on him, after all, he is our brother, our own flesh and blood." His brothers agreed.
 So when the Midianite merchants came by, his brothers pulled Joseph up out of the cistern and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt.
