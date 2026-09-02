@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: 6f71d4b5951ab6c4cb385f5d86c7b42e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -654666653860353721
+    second: WordOfGod025_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -53,7 +56,9 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationMethod: 0
   spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -95,7 +100,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: WordOfGod025_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7492c5a95282ae6f0800000000000000
+      internalID: -654666653860353721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
