@@ -1457,7 +1457,7 @@ public class BibleStudy : MonoBehaviour
 
     private void Start()
     {
-        VersionInfo = "v3.97";
+        VersionInfo = "v3.98";
 
         // IsDebug = false;
 
@@ -3951,6 +3951,7 @@ public class BibleStudy : MonoBehaviour
     /// </summary>
     public void ButtonOldTestament()
     {
+        // BibleStudy.Get.m_BibleType = EBibleType.OldTestament; // 구약성서를 선택.
         int KeyWord = GetNationCode(m_NationType);
 
         if (KeyWord == 13)
@@ -3969,6 +3970,7 @@ public class BibleStudy : MonoBehaviour
     /// </summary>
     public void ButtonNewTestament()
     {
+        // BibleStudy.Get.m_BibleType = EBibleType.NewTestament;  // 신약성서를 선택.
         int KeyWord = GetNationCode(m_NationType);
 
         if (KeyWord == 13)
@@ -4836,9 +4838,9 @@ public class BibleStudy : MonoBehaviour
 
         }
 
-        BibleMessageFirst = collectKorean[readBibleIndex].TrimEnd() + " -" + bibleName + "(" + bibleNameSource + ")" + " " + bibleChapter + "장 " + (readBibleIndex + 1) + "절-";
-        BibleMessageSecond = collectEnglish[readBibleIndex].TrimEnd() + " -" + bibleNameEnglish + "(" + bibleNameSourceEnglish + ")" + " " + bibleChapter + ":" + (readBibleIndex + 1) + "-"; ;
-        BibleMessageThird = bibleName + "(" + bibleNameEnglish + ") " + bibleChapter + ":" + (readBibleIndex + 1);
+        BibleMessageFirst = collectKorean[readBibleIndex].TrimEnd() + " -" + bibleNameEnglish + "(" + bibleNameSourceEnglish + ")" + " " + bibleChapter + ":" + (readBibleIndex + 1) + "-";
+        BibleMessageSecond = collectEnglish[readBibleIndex].TrimEnd() + " -" + bibleNameEnglish + "(" + bibleNameSourceEnglish + ")" + " " + bibleChapter + ":" + (readBibleIndex + 1) + "-";
+        BibleMessageThird = bibleNameEnglish + " " + bibleChapter + ":" + (readBibleIndex + 1);
         OnlyBibleEnglish = collectEnglish[readBibleIndex];
         OnlyBibleKorean = collectKorean[readBibleIndex];
 
@@ -4900,9 +4902,9 @@ public class BibleStudy : MonoBehaviour
 
         }
 
-        BibleMessageFirst = collectKorean[readBibleIndex].TrimEnd() + " -" + bibleName + "(" + bibleNameSource + ")" + " " + bibleChapter + "장 " + (readBibleIndex + 1) + "절-";
+        BibleMessageFirst = collectKorean[readBibleIndex].TrimEnd() + " -" + bibleNameEnglish + "(" + bibleNameSourceEnglish + ")" + " " + bibleChapter + ":" + (readBibleIndex + 1) + "-";
         BibleMessageSecond = collectEnglish[readBibleIndex].TrimEnd() + " -" + bibleNameEnglish + "(" + bibleNameSourceEnglish + ")" + " " + bibleChapter + ":" + (readBibleIndex + 1) + "-";
-        BibleMessageThird = bibleName + "(" + bibleNameEnglish + ") " + bibleChapter + ":" + (readBibleIndex + 1);
+        BibleMessageThird = bibleNameEnglish + " " + bibleChapter + ":" + (readBibleIndex + 1);
         OnlyBibleEnglish = collectEnglish[readBibleIndex];
         OnlyBibleKorean = collectKorean[readBibleIndex];
 
@@ -4958,9 +4960,9 @@ public class BibleStudy : MonoBehaviour
 
         }
 
-        BibleMessageFirst = collectKorean[readBibleIndex].TrimEnd() + " -" + bibleName + "(" + bibleNameSource + ")" + " " + bibleChapter + "장 " + (readBibleIndex + 1) + "절-";
+        BibleMessageFirst = collectKorean[readBibleIndex].TrimEnd() + " -" + bibleNameEnglish + "(" + bibleNameSourceEnglish + ")" + " " + bibleChapter + ":" + (readBibleIndex + 1) + "-";
         BibleMessageSecond = collectEnglish[readBibleIndex].TrimEnd() + " -" + bibleNameEnglish + "(" + bibleNameSourceEnglish + ")" + " " + bibleChapter + ":" + (readBibleIndex + 1) + "-"; ;
-        BibleMessageThird = bibleName + "(" + bibleNameEnglish + ") " + bibleChapter + ":" + (readBibleIndex + 1);
+        BibleMessageThird = bibleNameEnglish + " " + bibleChapter + ":" + (readBibleIndex + 1);
         OnlyBibleEnglish = collectEnglish[readBibleIndex];
         OnlyBibleKorean = collectKorean[readBibleIndex];
 
