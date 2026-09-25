@@ -15,11 +15,96 @@ using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
+// BibleStudy.Get.m_BibleType = EBibleType.OldTestament; // 구약성서를 선택.
+// BibleStudy.Get.m_BibleType = EBibleType.NewTestament;  // 신약성서를 선택.
+
 /**
+NGUIEditorTools
+
+	static public SerializedObject ReplaceClass (MonoBehaviour mb, System.Type type)
+	{
+		var id = GetClassID(type);
+		var ob = new SerializedObject(mb);
+		ob.Update();
+		// ob.FindProperty("m_Script").objectReferenceEntityIdValue = id;
+		ob.ApplyModifiedProperties();
+		ob.Update();
+		return ob;
+	}
+
+	static public SerializedObject ReplaceClass (MonoBehaviour mb, int classID)
+	{
+		var ob = new SerializedObject(mb);
+		ob.Update();
+		// ob.FindProperty("m_Script").objectReferenceEntityIdValue = classID;
+		ob.ApplyModifiedProperties();
+		ob.Update();
+		return ob;
+	}
+
+	static public void ReplaceClass (SerializedObject ob, int classID)
+	{
+		// ob.FindProperty("m_Script").objectReferenceEntityIdValue = classID;
+		ob.ApplyModifiedProperties();
+		ob.Update();
+	}
+
+	static public void ReplaceClass (SerializedObject ob, System.Type type)
+	{
+		// ob.FindProperty("m_Script").objectReferenceEntityIdValue = GetClassID(type);
+		ob.ApplyModifiedProperties();
+		ob.Update();
+	}
+
+	static public Object GUIDToObject (string guid)
+	{
+		if (string.IsNullOrEmpty(guid)) return null;
+
+		if (s_GetInstanceIDFromGUID == null)
+		{
+			var type = typeof(AssetDatabase);
+
+			// Unity 3, 4, 5 and 2017
+			s_GetInstanceIDFromGUID = type.GetMethod("GetInstanceIDFromGUID", BindingFlags.Static | BindingFlags.NonPublic);
+
+			// Unity 2018+
+			if (s_GetInstanceIDFromGUID == null) s_GetInstanceIDFromGUID = type.GetMethod("GetMainAssetInstanceID", BindingFlags.Static | BindingFlags.NonPublic);
+			if (s_GetInstanceIDFromGUID == null) return null;
+		}
+
+		int id = (int)s_GetInstanceIDFromGUID.Invoke(null, new object[] { guid });
+		// if (id != 0) return EditorUtility.EntityIdToObject(id);
+		string path = AssetDatabase.GUIDToAssetPath(guid);
+		if (string.IsNullOrEmpty(path)) return null;
+		return AssetDatabase.LoadAssetAtPath(path, typeof(Object));
+	}
+
+
+NGUISettings
+
+	static public T Get<T> (string name, T defaultValue) where T : Object
+	{
+		string path = EditorPrefs.GetString(name);
+		if (string.IsNullOrEmpty(path)) return null;
+
+		T retVal = NGUIEditorTools.LoadAsset<T>(path);
+
+		if (retVal == null)
+		{
+			int id;
+			//if (int.TryParse(path, out id))
+			//	return EditorUtility.EntityIdToObject(id) as T;
+		}
+		return retVal;
+	}
 
 
 
  
+ */
+
+/**
+
  */
 
 /**
@@ -384,7 +469,7 @@ public enum EOldTestamentType
     Joshua,
     Judges,
     Ruth,
-    Samuel1, 
+    Samuel1,
     Samuel2,
     Kings1,
     Kings2,
@@ -560,7 +645,7 @@ public class BibleStudy : MonoBehaviour
 
         if (Type == ENationType.Chinese)
         {
-            if (IsChinessOtherType ==false)
+            if (IsChinessOtherType == false)
                 return m_BibleNations[Type.ToString()].m_DelayMiddle;
             else
                 return m_BibleNations[Type.ToString()].m_OtherDelayMiddle;
@@ -569,7 +654,7 @@ public class BibleStudy : MonoBehaviour
 
     public float GetDelayEnd(ENationType Type)
     {
-         return m_BibleNations[Type.ToString()].m_DelayEnd;
+        return m_BibleNations[Type.ToString()].m_DelayEnd;
 
         if (Type == ENationType.Chinese)
         {
@@ -745,7 +830,7 @@ public class BibleStudy : MonoBehaviour
         {
             if (PlayerPrefs.GetInt(EKeyword.OldKoreanBible.ToString()) == (int)EKoreanBibleType.EasyBible) SetKoreanBibleInfoSearchFor(EBiblePath.synodal);
         }
-        else 
+        else
         {
             if (PlayerPrefs.GetInt(EKeyword.OldKoreanBible.ToString()) == (int)EKoreanBibleType.EasyBible) SetKoreanBibleInfoSearchFor(EBiblePath.EasyBible);
             else if (PlayerPrefs.GetInt(EKeyword.OldKoreanBible.ToString()) == (int)EKoreanBibleType.NewStandardTranslation) SetKoreanBibleInfoSearchFor(EBiblePath.NewStandardTranslation);
@@ -1453,11 +1538,11 @@ public class BibleStudy : MonoBehaviour
     }
 
     string VersionInfo = string.Empty;
-    
+
 
     private void Start()
     {
-        VersionInfo = "v3.99";
+        VersionInfo = "v4.00";
 
         // IsDebug = false;
 
@@ -1488,10 +1573,10 @@ public class BibleStudy : MonoBehaviour
 
         if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 1) SetCheckBoxPhoneTab(true, false, false); // 폰트 사이즈 체크박스들 조절
         else if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 2) SetCheckBoxPhoneTab(false, true, false);
-        else if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 3) SetCheckBoxPhoneTab(false, false, true);       
+        else if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 3) SetCheckBoxPhoneTab(false, false, true);
 
         if (string.IsNullOrEmpty(PlayerPrefs.GetString(EKeyword.m_BibleType.ToString()))) // 최초라서 만일 바이블을 선택하지 않았다면? 구약성서의 창세기를 선택
-        {                   
+        {
             OldTestamentInfo bibleOld = new OldTestamentInfo(); // 엑셀테이블에서 구약성서의 정보를 가져옴.
             m_BibleType = EBibleType.OldTestament; // 구약성서를 선택.
             PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString()); // 구약성서를 선택한 것을 메모리에 저장.
@@ -1501,7 +1586,7 @@ public class BibleStudy : MonoBehaviour
             m_MaxChapter = bibleOld.m_Count; // 창세기의 마지막 장을 가져옴.
             PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), 1); // 1장이라고 메모리에 저장
             PlayerPrefs.SetInt(EKeyword.m_MaxChapter.ToString(), m_MaxChapter); // 마지막 장을 메모리에 저장
-        }   
+        }
 
         SetPanelAlpla(1, 0, 0); // PanelMain을 보여줍니다. 
 
@@ -2038,7 +2123,7 @@ public class BibleStudy : MonoBehaviour
             m_KoreanBible = Path.ToString() + "/Old/";
         else if (m_BibleType == EBibleType.NewTestament) // 만일 선택한 성경이 신약성경이라면? 
             m_KoreanBible = Path.ToString() + "/New/";
-        
+
         m_LabelKindOfBible.text = m_BibleEachs[Path.ToString()].m_Content.TrimEnd();
         m_KoreanBibleName = m_BibleEachs[Path.ToString()].m_Content.TrimEnd();
         Debug.Log(string.Empty);
@@ -2096,7 +2181,7 @@ public class BibleStudy : MonoBehaviour
         SetCheckboxKoreanBibleInit(EKoreanBibleType.RevisedRevision);
         SetKoreanBibleInfo(PathKey);
     }
-    
+
     /// <summary>
     /// 영어 성경은 NIV성경으로 설정합니다. 
     /// </summary>
@@ -2473,62 +2558,62 @@ public class BibleStudy : MonoBehaviour
 
                 if (KeyWord == 1) // English
                 {
-                    labelBibleChapter.text = string.Format("▼ {0} {1}({2})", oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0} {1}({2})", oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_English;
                 }
                 else if (KeyWord == 2) // Portuguese
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Portuguese, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Portuguese, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Portuguese;
                 }
                 else if (KeyWord == 3) // Japanese
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Japanese, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Japanese, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Japanese;
                 }
                 else if (KeyWord == 4) // German
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_German, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_German, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_German;
                 }
                 else if (KeyWord == 5) // Romanian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Romanian, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Romanian, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Romanian;
                 }
                 else if (KeyWord == 6) // French
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_French, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_French, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_French;
                 }
                 else if (KeyWord == 7) // Spanish
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Spanish, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Spanish, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Spanish;
                 }
                 else if (KeyWord == 8) // Italian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Italian, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Italian, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Italian;
                 }
                 else if (KeyWord == 9) // Hungarian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Hungarian, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Hungarian, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Hungarian;
                 }
                 else if (KeyWord == 10) // Hindi
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Hindi, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Hindi, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Hindi;
                 }
                 else if (KeyWord == 11) // Russian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Russian, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Russian, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Russian;
                 }
                 else if (KeyWord == 12) // Chinese
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Chinese, oldBible.m_English, m_Chapter, oldBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", oldBible.m_Chinese, oldBible.m_English, m_Chapter, oldBible.m_Count);
                     bibleName = oldBible.m_Chinese;
                 }
                 else if (KeyWord == 13) // Korean
@@ -2555,62 +2640,62 @@ public class BibleStudy : MonoBehaviour
 
                 if (KeyWord == 1) // English
                 {
-                    labelBibleChapter.text = string.Format("▼ {0} {1}({2})", newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0} {1}({2})", newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_English;
                 }
                 else if (KeyWord == 2) // Portuguese
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Portuguese, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Portuguese, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Portuguese;
                 }
                 else if (KeyWord == 3) // Japanese
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Japanese, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Japanese, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Japanese;
                 }
                 else if (KeyWord == 4) // German
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_German, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_German, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_German;
                 }
                 else if (KeyWord == 5) // Romanian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Romanian, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Romanian, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Romanian;
                 }
                 else if (KeyWord == 6) // French
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_French, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_French, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_French;
                 }
                 else if (KeyWord == 7) // Spanish
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Spanish, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Spanish, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Spanish;
                 }
                 else if (KeyWord == 8) // Italian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Italian, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Italian, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Italian;
                 }
                 else if (KeyWord == 9) // Hungarian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Hungarian, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Hungarian, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Hungarian;
                 }
                 else if (KeyWord == 10) // Hindi
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Hindi, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Hindi, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Hindi;
                 }
                 else if (KeyWord == 11) // Russian
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Russian, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Russian, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Russian;
                 }
                 else if (KeyWord == 12) // Chinese
                 {
-                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Chinese, newBible.m_English, m_Chapter, newBible.m_Count); 
+                    labelBibleChapter.text = string.Format("▼ {0}({1}) {2}({3})", newBible.m_Chinese, newBible.m_English, m_Chapter, newBible.m_Count);
                     bibleName = newBible.m_Chinese;
                 }
                 else if (KeyWord == 13) // Korean
@@ -2793,7 +2878,7 @@ public class BibleStudy : MonoBehaviour
             if (PlayerPrefs.GetInt(EKeyword.OldKoreanBible.ToString()) == (int)EKoreanBibleType.NewStandardTranslation) selectedKorean = Old.m_NewStandardTranslation + m_Chapter;
             if (PlayerPrefs.GetInt(EKeyword.OldKoreanBible.ToString()) == (int)EKoreanBibleType.KoreanBible) selectedKorean = Old.m_KoreanBible + m_Chapter;
             if (PlayerPrefs.GetInt(EKeyword.OldKoreanBible.ToString()) == (int)EKoreanBibleType.RevisedRevision) selectedKorean = Old.m_RevisedRevision + m_Chapter;
-            
+
         }
         else if (m_NationType == ENationType.Chinese)
         {
@@ -3348,10 +3433,10 @@ public class BibleStudy : MonoBehaviour
     {
         if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 0) // 만일 int값이 0이라면 초기화를 위해서 int값을 1로 설정, 폰트 사이즈는 75
         {
-            PlayerPrefs.SetInt(EKeyword.IsPhone.ToString(), 1);
+            PlayerPrefs.SetInt(EKeyword.IsPhone.ToString(), 2);
             PlayerPrefs.Save();
         }
-        
+
         if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 1) label.fontSize = 75; // 성경을 보여주는 UILabel의 폰트 사이즈 조절
         else if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 2) label.fontSize = 50;
         else if (PlayerPrefs.GetInt(EKeyword.IsPhone.ToString()) == 3) label.fontSize = 67;
@@ -3439,7 +3524,7 @@ public class BibleStudy : MonoBehaviour
     /// <summary>
     /// PanelOption패널에서 성경의 내용을 작게 보기위한 토글. 탭에서 보기 위한. 
     /// </summary>
-    public UIToggle m_CheckboxPad;    
+    public UIToggle m_CheckboxPad;
     /// <summary>
     /// PanelBible에서 성경의 정보를 표시.
     /// </summary>
@@ -3498,7 +3583,7 @@ public class BibleStudy : MonoBehaviour
 
     public void SetBackgroundImagesHalf()
     {
-        m_BackgroundImages[1].color = new Color(70f/ 255f, 70f / 255f, 70f / 255f, 1);
+        m_BackgroundImages[1].color = new Color(70f / 255f, 70f / 255f, 70f / 255f, 1);
     }
 
     /// <summary>
@@ -3535,7 +3620,7 @@ public class BibleStudy : MonoBehaviour
     float PlayerPrefsGetFloatm_ScrollBarPanelMan()
     {
         return PlayerPrefs.GetFloat(EKeyword.m_ScrollBarPanelMan.ToString());
-    }   
+    }
     /// <summary>
     /// 성경 명언의 TypeWriterEffect 이펙트가 끝나면 성경 명언을 서서히 없애줌
     /// </summary>
@@ -3815,7 +3900,7 @@ public class BibleStudy : MonoBehaviour
                 ShowBible(); // 바이블의 내용을 표시
                 return;
             }
-            
+
             m_Chapter--; // 이전 챕터로 감.
             PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), m_Chapter);
             PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString());
@@ -3839,17 +3924,17 @@ public class BibleStudy : MonoBehaviour
                 PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), m_Chapter);
                 PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString());
                 PlayerPrefs.SetString(EKeyword.m_NewTestamentType.ToString(), m_NewTestamentType.ToString());
-                
+
                 ShowBible(); // 바이블의 내용을 표시
                 return;
             }
-            
+
             m_Chapter--; // 이전 챕터로 감.
             PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), m_Chapter);
             PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString());
             PlayerPrefs.SetString(EKeyword.m_NewTestamentType.ToString(), m_NewTestamentType.ToString());
             m_Chapter = Mathf.Clamp(m_Chapter, 1, m_MaxChapter); // 챕터는 1과 맥스챕터 사이로 제한.
-            
+
             ShowBible(); // 바이블의 내용을 표시
         }
 
@@ -3900,17 +3985,17 @@ public class BibleStudy : MonoBehaviour
                 PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), m_Chapter);
                 PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString());
                 PlayerPrefs.SetString(EKeyword.m_OldTestamentType.ToString(), m_OldTestamentType.ToString());
-                
+
                 ShowBible(); // 바이블의 내용을 표시
                 return;
             }
-            
+
             m_Chapter++; // 이후 챕터로 감.
             PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), m_Chapter);
             PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString());
             PlayerPrefs.SetString(EKeyword.m_OldTestamentType.ToString(), m_OldTestamentType.ToString());
             m_Chapter = Mathf.Clamp(m_Chapter, 1, m_MaxChapter); // 챕터는 1과 맥스챕터 사이로 제한.
-            
+
             ShowBible(); // 바이블의 내용을 표시
         }
         else if (m_BibleType == EBibleType.NewTestament)
@@ -3929,23 +4014,23 @@ public class BibleStudy : MonoBehaviour
                 PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), m_Chapter);
                 PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString());
                 PlayerPrefs.SetString(EKeyword.m_NewTestamentType.ToString(), m_NewTestamentType.ToString());
-                
+
                 ShowBible(); // 바이블의 내용을 표시
                 return;
             }
-            
+
             m_Chapter++; // 이후 챕터로 감.
             PlayerPrefs.SetInt(EKeyword.m_Chapter.ToString(), m_Chapter);
             PlayerPrefs.SetString(EKeyword.m_BibleType.ToString(), m_BibleType.ToString());
             PlayerPrefs.SetString(EKeyword.m_NewTestamentType.ToString(), m_NewTestamentType.ToString());
             m_Chapter = Mathf.Clamp(m_Chapter, 1, m_MaxChapter); // 챕터는 1과 맥스챕터 사이로 제한.
-            
+
             ShowBible(); // 바이블의 내용을 표시
         }
 
         Invoke("SetScrollbarInit", 0.01f);
     }
-    
+
     /// <summary>
     /// 구약성서를 선택하는 버튼.
     /// </summary>
@@ -3991,7 +4076,7 @@ public class BibleStudy : MonoBehaviour
     {
         var bibleOld = OldTestamentTable.GetAllList(); // 구약성서의 내용을 가져옴.
         var bibleNew = NewTestamentTable.GetAllList(); // 신약성서의 내용을 가져움.
-        
+
         if (m_TempBibleType == EBibleType.OldTestament) // 만일 구약성서를 선택했다면?
         {
             for (int i = 27; i < 39; i++) m_BibleItems[i].gameObject.SetActive(true);
@@ -4096,12 +4181,12 @@ public class BibleStudy : MonoBehaviour
         var bibleNew = NewTestamentTable.GetAllList(); // 엑셀 테이블의 내용을 가져옴. 
 
         if (m_TempBibleType == EBibleType.OldTestament) // 만일 현재 임시로 선택된 성경이 구약성경이라면?
-        {   
+        {
             int count = bibleOld[(int)m_TempOldTestamentType].m_Count;  // 구약성경중에 어느 성경이 선택되었는지 알기 위해서 몇장으로 이루어졌는지? 
             SpawnChapterItemes(count); // 장수만큼 아이템 생성.  
         }
         else if (m_TempBibleType == EBibleType.NewTestament) // 만일 현재 임시로 선택된 성경이 신약성경이라면?
-        {   
+        {
             int count = bibleNew[(int)m_TempNewTestamentType].m_Count; // 신약성경중에 어느 성경이 선택되었는지 알기 위해서 몇장으로 이루어졌는지? 
             SpawnChapterItemes(count);  // 장수만큼 아이템 생성.  
         }
@@ -4199,7 +4284,7 @@ public class BibleStudy : MonoBehaviour
                 if (www.result == UnityWebRequest.Result.Success)
                 {
                     AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
-                    
+
                     if (clip != null)
                     {
                         audioSource.clip = clip;
@@ -4211,6 +4296,7 @@ public class BibleStudy : MonoBehaviour
                 else Debug.LogError("Error: " + www.error);
             }
             yield return new WaitForSeconds(CollectStrings[i].Length * DelayTimes[i]);
+            // yield return new WaitForSeconds(2.0f);
         }
     }
     /// <summary>
@@ -4226,7 +4312,7 @@ public class BibleStudy : MonoBehaviour
         for (int i = 0; i < DelayTimes.Length; i++)
         {
             string url = @"https://translate.google.com/translate_tts?ie=UTF-8&total=1&idx=0&textlen=32&client=tw-ob&q=" + CollectStrings[i] + GetNationVoice(ENationType.English);
-            
+
             using (UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(url, AudioType.MPEG))
             {
                 yield return www.SendWebRequest();
@@ -4234,7 +4320,7 @@ public class BibleStudy : MonoBehaviour
                 if (www.result == UnityWebRequest.Result.Success)
                 {
                     AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
-                   
+
                     if (clip != null)
                     {
                         audioSource.clip = clip;
@@ -4246,6 +4332,7 @@ public class BibleStudy : MonoBehaviour
                 else Debug.LogError("Error: " + www.error);
             }
             yield return new WaitForSeconds(CollectStrings[i].Length * DelayTimes[i]);
+            // yield return new WaitForSeconds(2.0f);
         }
     }
 
@@ -4283,9 +4370,9 @@ public class BibleStudy : MonoBehaviour
             else
             {
                 // if (string.IsNullOrEmpty(bibleName))
-                    m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, i + 1, collectKorean.Count - 1);
+                m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, i + 1, collectKorean.Count - 1);
                 // else
-                    // m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, i + 1, collectKorean.Count - 1);
+                // m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, i + 1, collectKorean.Count - 1);
             }
 
             List<string> CollectKoreanEnglish = new List<string>();
@@ -4347,42 +4434,42 @@ public class BibleStudy : MonoBehaviour
                                 else Debug.LogError("Error: " + www.error);
                             }
                             yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
-                    }
+                        }
 
-                    if (collectKorean[i].Length >= 200)
-                    {
-                        List<string> tempCollect = ReturnOver200CharactersResult(collectKorean[i]);
-                        string temmpCount = string.Empty;
+                        if (collectKorean[i].Length >= 200)
+                        {
+                            List<string> tempCollect = ReturnOver200CharactersResult(collectKorean[i]);
+                            string temmpCount = string.Empty;
 
-                        for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
+                            for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
 
-                        if (IsDebug)
-                            m_TempTemp.text = temmpCount;
+                            if (IsDebug)
+                                m_TempTemp.text = temmpCount;
+                            else
+                                m_TempTemp.text = string.Empty;
+
+                            if (tempCollect.Count == 2)
+                            {
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
+                                StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
+                            }
+                            else if (tempCollect.Count == 3)
+                            {
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
+                                StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
+                            }
+                            else if (tempCollect.Count == 4)
+                            {
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
+                                StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
+                            }
+                            yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
+                        }
                         else
-                            m_TempTemp.text = string.Empty;
+                        {
 
-                        if (tempCollect.Count == 2)
-                        {
-                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
-                            StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
                         }
-                        else if (tempCollect.Count == 3)
-                        {
-                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
-                            StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
-                        }
-                        else if (tempCollect.Count == 4)
-                        {
-                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayEnd(m_NationType) };
-                            StartCoroutine(DownloadTheAudioForKorean(tempCollect, TempDelay));
-                        }
-                        yield return new WaitForSeconds(collectKorean[i].Length * GetDelayEnd(m_NationType));
                     }
-                    else
-                    {
-
-                    }
-                }
                     else
                     {
                         isPlay = false;
@@ -4426,42 +4513,42 @@ public class BibleStudy : MonoBehaviour
                                 else Debug.LogError("Error: " + www.error);
                             }
                             yield return new WaitForSeconds(collectEnglish[i].Length * GetDelayEnd(ENationType.English));
-                    }
+                        }
 
-                    if (collectEnglish[i].Length >= 200)
-                    {
-                        List<string> tempCollect = ReturnOver200CharactersResult(collectEnglish[i]);
-                        string temmpCount = string.Empty;
+                        if (collectEnglish[i].Length >= 200)
+                        {
+                            List<string> tempCollect = ReturnOver200CharactersResult(collectEnglish[i]);
+                            string temmpCount = string.Empty;
 
-                        for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
+                            for (int k = 0; k < tempCollect.Count; k++) temmpCount += tempCollect[k].Length + ",";
 
-                        if (IsDebug)
-                            m_TempTemp.text = temmpCount;
+                            if (IsDebug)
+                                m_TempTemp.text = temmpCount;
+                            else
+                                m_TempTemp.text = string.Empty;
+
+                            if (tempCollect.Count == 2)
+                            {
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), 0.2f };
+                                StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
+                            }
+                            else if (tempCollect.Count == 3)
+                            {
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
+                                StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
+                            }
+                            else if (tempCollect.Count == 4)
+                            {
+                                float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
+                                StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
+                            }
+                            yield return new WaitForSeconds(collectEnglish[i].Length * 0.2f);
+                        }
                         else
-                            m_TempTemp.text = string.Empty;
+                        {
 
-                        if (tempCollect.Count == 2)
-                        {
-                            float[] TempDelay = { GetDelayMiddle(m_NationType), 0.2f };
-                            StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
                         }
-                        else if (tempCollect.Count == 3)
-                        {
-                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
-                            StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
-                        }
-                        else if (tempCollect.Count == 4)
-                        {
-                            float[] TempDelay = { GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), GetDelayMiddle(m_NationType), 0.2f };
-                            StartCoroutine(DownloadTheAudioForEnglish(tempCollect, TempDelay));
-                        }
-                        yield return new WaitForSeconds(collectEnglish[i].Length * 0.2f);
                     }
-                    else
-                    {
-
-                    }
-                }
                     else
                     {
                         isPlay = false;
@@ -4510,7 +4597,7 @@ public class BibleStudy : MonoBehaviour
         if (!string.IsNullOrEmpty(inputFieldBibleSearch.value))
         {
             CollectSearchForWordInBible.Clear();
-            
+
             for (int i = 0; i < CollectAllFiles.Length; i++) // 모든 성경 텍스트에셋을 대상으로 반복문 처리합니다. 
             {
                 string textValue = CollectAllFiles[i].text; // 성경 텍스트에셋을 문자열로 변경해서 저장합니다. 
@@ -4552,14 +4639,14 @@ public class BibleStudy : MonoBehaviour
         collectKoreanEnglish = new List<string>(); // 텍스트에셋을 문자열 배열로 변경해서 저장할 배열입니다. 
         CollectSearchForWordInBible.Clear(); // 성경 문자열에 찾을 문자열이 포함되어 있다면 성경 문자열을 저장할 배열입니다. 
         searchForWord = inputFieldBibleSearch.value; // 찾을 문자열을 저장합니다. 
-        
+
         if (!string.IsNullOrEmpty(inputFieldBibleSearch.value))
         {
             for (int i = 0; i < CollectAllFiles.Length; i++) // 모든 성경 텍스트에셋을 대상으로 반복문 처리합니다.
             {
                 string textValue = CollectAllFiles[i].text; // 성경 텍스트에셋을 문자열로 변경해서 저장합니다. 
                 collectKoreanEnglish = new List<string>(textValue.Split('\n')); // 문자열을 \n로 구분한 뒤 배열에 저장합니다. 
-                
+
                 for (int j = 0; j < collectKoreanEnglish.Count; j++) // 배열을 대상으로 반복문 처리합니다. 
                 {
                     if (collectKoreanEnglish[j].Contains(searchForWord)) // 만일 성경 문자열에 찾을 문자열이 포함 되어 있다면? 
@@ -4645,7 +4732,7 @@ public class BibleStudy : MonoBehaviour
             Application.OpenURL(@"File://" + outputFilePath);
         }
     }
-    
+
     /// <summary>
     /// 화살표 좌, 우 키를 눌렀을 때 문장이 나오는데, 문장이 들어있는 배열의 인덱스
     /// </summary>
@@ -4708,7 +4795,7 @@ public class BibleStudy : MonoBehaviour
 
                     if (www.result == UnityWebRequest.Result.Success)
                     {
-                        
+
                         AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
                         if (clip != null)
                         {
@@ -4718,7 +4805,7 @@ public class BibleStudy : MonoBehaviour
                         }
                         else Debug.LogError("DownloadHandlerAudioClip.GetContent returned null");
                     }
-                    else Debug.LogError("Error: " + www.error);  
+                    else Debug.LogError("Error: " + www.error);
                 }
             }
         }
@@ -4781,7 +4868,7 @@ public class BibleStudy : MonoBehaviour
                     if (www.result == UnityWebRequest.Result.Success)
                     {
                         AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
-                        
+
                         if (clip != null)
                         {
                             audioSource.clip = clip;
@@ -4834,7 +4921,7 @@ public class BibleStudy : MonoBehaviour
             //if (!string.IsNullOrEmpty(bibleName))
             //    m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
             //else
-                m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
+            m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
 
         }
 
@@ -4860,9 +4947,9 @@ public class BibleStudy : MonoBehaviour
             CollectKoreanEnglish.Add(collectKorean[readBibleIndex]); //+ "\n - " + bibleName + " " + bibleChapter + "장 " + (readBibleIndex + 1) + "절  - ");
             StartCoroutine(ReadSelectBible(collectEnglish[readBibleIndex]));
         }
-        
+
         StringBuilder stringBuilder = new StringBuilder(); // 스트링빌더 객체 생성.
-        
+
         for (int j = 0; j < CollectKoreanEnglish.Count; j++) stringBuilder.AppendLine(CollectKoreanEnglish[j]); // 최종리스트를 대상으로 반복문 처리.
 
         m_LabelShowBible.text = stringBuilder.ToString(); // 성격의 내용을 표시.
@@ -4898,7 +4985,7 @@ public class BibleStudy : MonoBehaviour
             //if (!string.IsNullOrEmpty(bibleName))
             //    m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
             //else
-                m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
+            m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
 
         }
 
@@ -4924,9 +5011,9 @@ public class BibleStudy : MonoBehaviour
             CollectKoreanEnglish.Add(collectKorean[readBibleIndex]); // + "\n - " + bibleName + " " + bibleChapter + "장 " + (readBibleIndex + 1) + "절  - ");
             StartCoroutine(ReadSelectBible(collectEnglish[readBibleIndex]));
         }
-        
+
         StringBuilder stringBuilder = new StringBuilder(); // 스트링빌더 객체 생성.
-        
+
         for (int j = 0; j < CollectKoreanEnglish.Count; j++) stringBuilder.AppendLine(CollectKoreanEnglish[j]); // 최종리스트를 대상으로 반복문 처리.
 
         m_LabelShowBible.text = stringBuilder.ToString(); // 성격의 내용을 표시.
@@ -4956,7 +5043,7 @@ public class BibleStudy : MonoBehaviour
             //if (!string.IsNullOrEmpty(bibleName))
             //    m_LabelBibleInfo.text = string.Format("{0}({1}) {2}:{3}({4})", bibleNameEnglish, bibleName, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
             //else
-                m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
+            m_LabelBibleInfo.text = string.Format("{0} {1}:{2}({3})", bibleNameEnglish, bibleChapter, readBibleIndex + 1, collectKorean.Count - 1);
 
         }
 
@@ -4984,7 +5071,7 @@ public class BibleStudy : MonoBehaviour
         }
 
         StringBuilder stringBuilder = new StringBuilder(); // 스트링빌더 객체 생성.
-        
+
         for (int j = 0; j < CollectKoreanEnglish.Count; j++) stringBuilder.AppendLine(CollectKoreanEnglish[j]); // 최종리스트를 대상으로 반복문 처리.
 
         m_LabelShowBible.text = stringBuilder.ToString(); // 성격의 내용을 표시.
@@ -5000,7 +5087,7 @@ public class BibleStudy : MonoBehaviour
 
     List<string> ReturnOver200CharactersResult(string source)
     {
-      
+
         List<string> ResultAll = new List<string>();
         ResultAll = source.Split('#').ToList();
 
@@ -5038,7 +5125,7 @@ public class BibleStudy : MonoBehaviour
 
                     if (www.result == UnityWebRequest.Result.Success)
                     {
-                        
+
                         AudioClip clip = DownloadHandlerAudioClip.GetContent(www);
                         if (clip != null)
                         {
@@ -5067,18 +5154,18 @@ public class BibleStudy : MonoBehaviour
         PlayerPrefs.DeleteAll();
         m_TempTemp.text = Type.ToString();
         Startinit();
-        
+
     }
 
     private void Update()
     {
         if (Input.GetKeyUp(KeyCode.F8))
         {
-            TextAsset[] CollectAllFiles = Resources.LoadAll<TextAsset>(@"BibleMessage"); // 바이블 텍스트에셋을 모두 불러옵니다. 
-            string textValue = CollectAllFiles[0].text;
-            Collects.Clear();
-            Collects = new List<string>(textValue.Split('\n'));
-            StartCoroutine(ShowMessage());
+            //TextAsset[] CollectAllFiles = Resources.LoadAll<TextAsset>(@"BibleMessage"); // 바이블 텍스트에셋을 모두 불러옵니다. 
+            //string textValue = CollectAllFiles[0].text;
+            //Collects.Clear();
+            //Collects = new List<string>(textValue.Split('\n'));
+            //StartCoroutine(ShowMessage());
         }
 
         if (Input.GetKeyUp(KeyCode.F4))
@@ -5093,7 +5180,7 @@ public class BibleStudy : MonoBehaviour
 
         if (Input.GetKeyUp(KeyCode.F7))
         {
-            OOPSButtonNext(); // ButtonNext 함수를 1초마다 계속 눌러줌. 
+            // OOPSButtonNext(); // ButtonNext 함수를 1초마다 계속 눌러줌. 
             // Show함수에서 SetSavedBibleName() 호출 // 200자 넘는 문장을 저장하기 위한. 빌드할 때는 주석처리 해줌. 
 
             string[] Koreankeywords = { "창", "출", "레", "민", "신", "수", "삿", "룻", "삼상", "삼하", "왕상", "왕하", "대상", "대하", "스", "느", "에", "욥", "시", "잠", "전", "아", "사", "렘", "애", "겔", "단", "호", "욜", "암", "옵", "욘", "미", "나", "합", "습", "학", "슥", "말", "마", "막", "눅", "요", "행", "롬", "고전", "고후", "갈", "엡", "빌", "골", "살전", "살후", "딤전", "딤후", "딛", "몬", "히", "약", "벧전", "벧후", "요일", "요이", "요삼", "유", "계" };
@@ -5113,7 +5200,7 @@ public class BibleStudy : MonoBehaviour
         if (Input.GetKeyUp(KeyCode.Tab))
         {
             if (m_CheckboxReadBible.value == true) return; // 성경을 자동으로 읽어주지 않을 때만 수동으로 보여줌
-            
+
             if (labelBible.enabled == true) return; // 기본화면에서 성경이 보여지고 있을때는 동작안하게
 
             string folderPath = @"c:\Bible\"; // 결과를 저장할 폴더입니다. 
@@ -5124,7 +5211,7 @@ public class BibleStudy : MonoBehaviour
             m_LabelConfirm.text = BibleMessageThird + " is Saved. !!";
             m_LabelConfirm.GetComponent<TweenAlpha>().ResetToBeginning();
             m_LabelConfirm.GetComponent<TweenAlpha>().enabled = true;
-            string path = @"c:\Bible\" + m_KoreanBibleName + "(" + m_EnglishBibleName + ") " + bibleName + "(" + bibleNameEnglish + ")"; // 저장될 경로입니다. 
+            string path = @"c:\Bible\" + m_KoreanBibleName + "(" + m_EnglishBibleName + ") " + "-" + bibleNameEnglish + "-"; // 저장될 경로입니다. 
             StreamWriter streamWriter = new StreamWriter(path + ".txt", true); // 파일을 저장할 준비를 합니다. 
             streamWriter.WriteLine("");
             streamWriter.WriteLine(BibleMessageFirst + "\n" + BibleMessageSecond);
@@ -5138,34 +5225,34 @@ public class BibleStudy : MonoBehaviour
 
         if (Input.GetKeyUp(KeyCode.PageDown))
         {
-            if (m_CheckboxReadBible.value == true) return; // 성경을 자동으로 읽어주지 않을 때만 수동으로 보여줌
-            
-            if (labelBible.enabled == true) return; // 기본화면에서 성경이 보여지고 있을때는 동작안하게
+            //if (m_CheckboxReadBible.value == true) return; // 성경을 자동으로 읽어주지 않을 때만 수동으로 보여줌
 
-            string folderPath = @"c:\Bible\"; // 결과를 저장할 폴더입니다. 
-            DirectoryInfo di = new DirectoryInfo(folderPath);
+            //if (labelBible.enabled == true) return; // 기본화면에서 성경이 보여지고 있을때는 동작안하게
 
-            if (di.Exists == false) di.Create(); // 만약 폴더가 존재하지 않으면
+            //string folderPath = @"c:\Bible\"; // 결과를 저장할 폴더입니다. 
+            //DirectoryInfo di = new DirectoryInfo(folderPath);
 
-            m_LabelConfirm.text = BibleMessageThird + " is Saved. !!";
-            m_LabelConfirm.GetComponent<TweenAlpha>().ResetToBeginning();
-            m_LabelConfirm.GetComponent<TweenAlpha>().enabled = true;
-            string path = @"c:\Bible\" + "WordOfGod " + bibleName + "(" + bibleNameEnglish + ")"; // 저장될 경로입니다. 
-            StreamWriter streamWriter = new StreamWriter(path + ".txt", true); // 파일을 저장할 준비를 합니다. 
-            streamWriter.WriteLine("");
-            streamWriter.WriteLine
-                (
-                BibleMessageEasyBible + "\n" + 
-                BibleMessageKoreanBible + "\n" +
-                BibleMessageNewStandardTranslation + "\n" +
-                BibleMessageRevisedRevision + "\n" +
-                BibleMessageNIV + "\n" +
-                BibleMessageESV + "\n" +
-                BibleMessageNewRSV + "\n" +
-                BibleMessageNewKJV + "\n" +
-                BibleMessageKJV
-                );
-            streamWriter.Close();
+            //if (di.Exists == false) di.Create(); // 만약 폴더가 존재하지 않으면
+
+            //m_LabelConfirm.text = BibleMessageThird + " is Saved. !!";
+            //m_LabelConfirm.GetComponent<TweenAlpha>().ResetToBeginning();
+            //m_LabelConfirm.GetComponent<TweenAlpha>().enabled = true;
+            //string path = @"c:\Bible\" + "WordOfGod " + bibleName + "(" + bibleNameEnglish + ")"; // 저장될 경로입니다. 
+            //StreamWriter streamWriter = new StreamWriter(path + ".txt", true); // 파일을 저장할 준비를 합니다. 
+            //streamWriter.WriteLine("");
+            //streamWriter.WriteLine
+            //    (
+            //    BibleMessageEasyBible + "\n" + 
+            //    BibleMessageKoreanBible + "\n" +
+            //    BibleMessageNewStandardTranslation + "\n" +
+            //    BibleMessageRevisedRevision + "\n" +
+            //    BibleMessageNIV + "\n" +
+            //    BibleMessageESV + "\n" +
+            //    BibleMessageNewRSV + "\n" +
+            //    BibleMessageNewKJV + "\n" +
+            //    BibleMessageKJV
+            //    );
+            //streamWriter.Close();
         }
 
         if (Input.GetKeyUp(KeyCode.RightArrow))
