@@ -1542,7 +1542,7 @@ public class BibleStudy : MonoBehaviour
 
     private void Start()
     {
-        VersionInfo = "v4.00";
+        VersionInfo = "6000.6.5f1";
 
         // IsDebug = false;
 
