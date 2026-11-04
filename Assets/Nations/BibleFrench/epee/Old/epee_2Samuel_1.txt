@@ -1,5 +1,5 @@
 "Après que Saül fut mort, David, étant revenu de la défaite des Amalécites, demeura à Tsiklag deux jours;"
-"Et le troisième jour on vit paraître un homme qui revenait du camp, d'auprès de Saül, ayant ses vêtements déchirés et de la terre sur sa tête; et, étant venu vers David, il se jeta contre terre et se prosterna."
+"Et le troisième jour on vit paraître un homme qui revenait du camp, d'auprès de Saül, ayant ses vêtements déchirés et #de la terre sur sa tête; et, étant venu vers David, il se jeta contre terre et se prosterna."
 "Et David lui dit
 "David lui dit
 "Et David dit au jeune homme qui lui donnait ces nouvelles
@@ -7,9 +7,9 @@
 "Et, regardant en arrière, il me vit, et m'appela; et je répondis
 "Et il me dit
 "Alors il me dit
-"Je me suis donc approché de lui et je l'ai fait mourir; car je savais qu'il ne vivrait pas après s'être ainsi jeté sur son épée; puis j'ai pris la couronne qui était sur sa tête, et le bracelet qui était à son bras, et je les ai apportés ici à mon seigneur."
+"Je me suis donc approché de lui et je l'ai fait mourir; car je savais qu'il ne vivrait pas après s'être ainsi jeté sur son épée; puis #j'ai pris la couronne qui était sur sa tête, et le bracelet qui était à son bras, et je les ai apportés ici à mon seigneur."
 "Alors David prit ses vêtements, et les déchira; et tous les hommes qui étaient avec lui firent de même."
-"Et ils menèrent deuil, et pleurèrent, et jeûnèrent jusqu'au soir à cause de Saül, et de Jonathan, son fils, et du peuple de l'Éternel, et de la maison d'Israël; parce qu'ils étaient tombés par l'épée."
+"Et ils menèrent deuil, et pleurèrent, et jeûnèrent jusqu'au soir à cause de Saül, et de Jonathan, son #fils, et du peuple de l'Éternel, et de la maison d'Israël; parce qu'ils étaient tombés par l'épée."
 "Mais David dit au jeune homme qui lui avait donné ces nouvelles
 "Et David lui dit
 "Alors David appela l'un de ses gens, et lui dit
@@ -18,7 +18,7 @@
 "Qu'il ordonna d'enseigner aux enfants de Juda, la complainte de l'Arc; voici, elle est écrite au livre du Juste
 "Ta gloire, ô Israël, a péri sur tes collines! Comment sont tombés les hommes vaillants?"
 "N'allez point le dire dans Gath, ne l'annoncez point dans les places d'Askélon; de peur que les filles des Philistins ne se réjouissent, de peur que les filles des incirconcis ne triomphent."
-"Montagnes de Guilboa, que la rosée et la pluie ne tombent plus sur vous, qu'il n'y ait plus de champs dont on offre les prémices; car c'est là qu'a été jeté le bouclier des hommes forts, le bouclier de Saül, comme s'il n'eût pas été oint d'huile."
+"Montagnes de Guilboa, que la rosée et la pluie ne tombent plus sur vous, qu'il n'y ait plus de champs dont on offre les #prémices; car c'est là qu'a été jeté le bouclier des hommes forts, le bouclier de Saül, comme s'il n'eût pas été oint d'huile."
 "L'arc de Jonathan ne revenait jamais sans être teint du sang des blessés et de la graisse des vaillants; et l'épée de Saül ne retournait pas sans effet."
 "Saül et Jonathan, aimables et agréables pendant leur vie, n'ont point été séparés dans leur mort; ils étaient plus légers que les aigles, ils étaient plus forts que les lions."
 "Filles d'Israël, pleurez sur Saül, qui vous revêtait d'écarlate, dans les délices; qui vous faisait porter des ornements d'or sur vos habits!"

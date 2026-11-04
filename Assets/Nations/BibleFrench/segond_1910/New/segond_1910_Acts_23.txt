@@ -12,13 +12,13 @@
 "Quand le jour fut venu, les Juifs formèrent un complot, et firent des imprécations contre eux-mêmes, en disant qu'ils s'abstiendraient de manger et de boire jusqu'à ce qu'ils eussent tué Paul."
 "Ceux qui formèrent ce complot étaient plus de quarante,"
 "et ils allèrent trouver les principaux sacrificateurs et les anciens, auxquels ils dirent
-"Vous donc, maintenant, adressez-vous avec le sanhédrin au tribun, pour qu'il l'amène devant vous, comme si vous vouliez examiner sa cause plus exactement; et nous, avant qu'il approche, nous sommes prêts à le tuer."
+"Vous donc, maintenant, adressez-vous avec le sanhédrin au tribun, pour qu'il l'amène devant vous, comme si vous vouliez #examiner sa cause plus exactement; et nous, avant qu'il approche, nous sommes prêts à le tuer."
 "Le fils de la soeur de Paul, ayant eu connaissance du guet-apens, alla dans la forteresse en informer Paul."
 "Paul appela l'un des centeniers, et dit
 "Le centenier prit le jeune homme avec lui, le conduisit vers le tribun, et dit
 "Le tribun, prenant le jeune homme par la main, et se retirant à l'écart, lui demanda
 "Il répondit
-"Ne les écoute pas, car plus de quarante d'entre eux lui dressent un guet-apens, et se sont engagés, avec des imprécations contre eux-mêmes, à ne rien manger ni boire jusqu'à ce qu'ils l'aient tué; maintenant ils sont prêts, et n'attendent que ton consentement."
+"Ne les écoute pas, car plus de quarante d'entre eux lui dressent un guet-apens, et se sont engagés, avec des imprécations contre #eux-mêmes, à ne rien manger ni boire jusqu'à ce qu'ils l'aient tué; maintenant ils sont prêts, et n'attendent que ton consentement."
 "Le tribun renvoya le jeune homme, après lui avoir recommandé de ne parler à personne de ce rapport qu'il lui avait fait."
 "Ensuite il appela deux des centeniers, et dit
 "Qu'il y ait aussi des montures pour Paul, afin qu'on le mène sain et sauf au gouverneur Félix."

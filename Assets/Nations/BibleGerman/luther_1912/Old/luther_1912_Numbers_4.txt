@@ -12,8 +12,8 @@
 "Alle Gerät, womit sie schaffen im Heiligtum, sollen sie nehmen und blaue Decken darüber tun und mit einer Decke von Dachsfellen bedecken und auf Stangen legen.{~}"
 "Sie sollen auch die Asche vom Altar fegen und eine Decke von rotem Purpurüber ihn breiten"
 "und alle seine Geräte darauf schaffen, Kohlenpfannen, Gabeln, Schaufeln, Becken mit allem Gerät des Altars; und sollen darüber breiten eine Decke von Dachsfellen und seine Stangen daran tun.{~}"
-"Wenn nun Aaron und seine Söhne solches ausgerichtet und das Heiligtum und all sein Gerät bedeckt haben, wenn das Heer aufbricht, darnach sollen die Kinder Kahath hineingehen, daß sie es tragen; und sollen das Heiligtum nicht anrühren, daß sie nicht sterben. Dies sind die Lasten der Kinder Kahath an der Hütte des Stifts."
-"Und Eleasar, Aarons, des Priesters, Sohn, soll das Amt haben, daß er ordne dasÖl zum Licht und die Spezerei zum Räuchwerk und das tägliche Speisopfer und das Salböl, daß er beschicke die ganze Wohnung und alles, was darin ist, im Heiligtum und seinem Geräte."
+"Wenn nun Aaron und seine Söhne solches ausgerichtet und das Heiligtum und all sein Gerät bedeckt haben, wenn das Heer aufbricht, darnach sollen die Kinder Kahath hineingehen, #daß sie es tragen; und sollen das Heiligtum nicht anrühren, daß sie nicht sterben. Dies sind die Lasten der Kinder Kahath an der Hütte des Stifts."
+"Und Eleasar, Aarons, des Priesters, Sohn, soll das Amt haben, daß er ordne dasÖl zum Licht und die Spezerei zum Räuchwerk und das #tägliche Speisopfer und das Salböl, daß er beschicke die ganze Wohnung und alles, was darin ist, im Heiligtum und seinem Geräte."
 "Und der HERR redete mit Mose und Aaron und sprach
 "Ihr sollt den Stamm der Geschlechter der Kahathiter nicht lassen sich verderben unter den Leviten;"
 "sondern das sollt ihr mit ihnen tun, daß sie leben und nicht sterben, wo sie werden anrühren das Hochheilige
@@ -23,7 +23,7 @@
 "von dreißig Jahren an und darüber bis ins fünfzigste Jahr, und ordne sie alle, die da zum Dienst tüchtig sind, daß sie ein Amt haben in der Hütte des Stifts."
 "Das soll aber der Geschlechter der Gersoniter Amt sein, das sie schaffen und tragen
 "sie sollen die Teppiche der Wohnung und der Hütte des Stifts tragen und ihre Decke und die Decke von Dachsfellen, die obendrüber ist, und das Tuch in der Hütte des Stifts"
-"und die Umhänge des Vorhofs und das Tuch in der Tür des Tores am Vorhof, welcher um die Wohnung und den Altar her geht, und ihre Seile und alle Geräte ihres Amtes und alles, was zu ihrem Amt gehört."
+"und die Umhänge des Vorhofs und das Tuch in der Tür des Tores am Vorhof, welcher um die Wohnung und #den Altar her geht, und ihre Seile und alle Geräte ihres Amtes und alles, was zu ihrem Amt gehört."
 "Nach dem Wort Aarons und seiner Söhne soll alles Amt der Kinder Gerson geschehen, alles, was sie tragen und schaffen sollen, und ihr sollt zusehen, daß sie aller ihrer Last warten."
 "Das soll das Amt der Geschlechter der Kinder der Gersoniter sein in der Hütte des Stifts; und ihr Dienst soll unter der Hand Ithamars sein, des Sohnes Aarons, des Priesters."
 "Die Kinder Merari nach ihren Geschlechtern und Vaterhäusern sollst du auch ordnen,"

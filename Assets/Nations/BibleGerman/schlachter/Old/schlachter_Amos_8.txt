@@ -7,7 +7,7 @@
 "Der HERR hat geschworen bei allem, worauf Jakob stolz ist
 "Sollte darob nicht das Land in Aufregung geraten und jeder trauern, der darin wohnt? Sollten sich nicht alle erheben wie der Nil und aufwogen und sich senken wie der StromÄgyptens?"
 "Und es soll geschehen an jenem Tage, spricht Gott, der HERR, da will ich die Sonne am Mittag untergehen lassen undüber die Erde Finsternis bringen am lichten Tage."
-"Dann will ich eure Feste in Trauer verwandeln und alle eure Lieder in Klagegesang und will machen, daß um alle Lenden ein Sack und auf alle Häupter eine Glatze kommt; man wird trauern wie um einen einzigen Sohn, und das Ende wird sein ein bitterer Tag."
+"Dann will ich eure Feste in Trauer verwandeln und alle eure Lieder in Klagegesang und will machen, daß um alle Lenden ein Sack und #auf alle Häupter eine Glatze kommt; man wird trauern wie um einen einzigen Sohn, und das Ende wird sein ein bitterer Tag."
 "Siehe, es kommen Tage, spricht Gott, der HERR, da ich einen Hunger senden werde ins Land, nicht einen Hunger nach Brot, noch einen Durst nach Wasser, sondern darnach, das Wort des HERRN zu hören;"
 "da wird man hin und her wanken von einem Meer zum andern und herumziehen vom Norden bis zum Osten, um das Wort des HERRN zu suchen, und wird es doch nicht finden."
 "An jenem Tage werden die schönen Jungfrauen und Jünglinge vor Durst verschmachten,"

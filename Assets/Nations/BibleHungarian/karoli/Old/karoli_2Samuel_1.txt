@@ -7,7 +7,7 @@
 "Hátratekintvén pedig [Saul,] megláta engem és szólíta, és mondék
 "Monda pedig nékem
 "Akkor monda nékem
-"Annakokáért [én] mellé állván, megölém õtet, mert tudtam, hogy meg nem él, miután elesett, és elhozám a koronát, mely az õ fején [vala,] és az aranypereczet, mely az õ karján [volt,] és azokat [ímé] ide hoztam az én uramnak."
+"Annakokáért [én] mellé állván, megölém õtet, mert tudtam, hogy meg nem él, miután elesett, és elhozám a koronát, mely az #õ fején [vala,] és az aranypereczet, mely az õ karján [volt,] és azokat [ímé] ide hoztam az én uramnak."
 "Akkor megragadá Dávid a maga ruháit és megszaggatá, úgyszintén a többi emberek is, a kik õ vele [valának.]"
 "És nagy zokogással sírának, és bõjtölének mind estvéig, Saulon és Jonathánon, az õ fián, és az Úrnak népén és Izráelnek házán, mivelhogy fegyver által hullottak el."
 "És monda Dávid az ifjúnak, a ki [ezt] elbeszélé néki
@@ -18,7 +18,7 @@
 "És monda ([íjdal ez,] hogy megtanulják Júda fiai, mely be van írva a Jásár könyvébe)
 "Izráel! a te ékességed elesett halmaidon
 "Meg ne mondjátok Gáthban, ne hirdessétek Askelon utczáin, hogy ne örvendjenek a Filiszteusok leányai, és ne ujjongjanak a körülmetéletlenek leányai."
-"Gilboa hegyei, se harmat, se esõ ti reátok ne [szálljon, ]és mezõtök [ne teremjen semmi] áldozatra valót; mert ott hányatott el az erõs [vitézek] paizsa, Saulnak paizsa, mintha meg nem kenettetett volna olajjal."
+"Gilboa hegyei, se harmat, se esõ ti reátok ne [szálljon, ]és mezõtök [ne teremjen semmi] áldozatra valót; #mert ott hányatott el az erõs [vitézek] paizsa, Saulnak paizsa, mintha meg nem kenettetett volna olajjal."
 "A megöletteknek vérétõl és a hõsöknek kövérétõl Jonathán kézíve hátra nem tért, és a Saul fegyvere hiába nem járt."
 "Sault és Jonathánt, a kik egymást szerették és kedvelték míg éltek, a halál sem szakította el; a saskeselyûknél gyorsabbak és az oroszlánoknál erõsebbek valának."
 "Izráel leányai! sirassátok Sault, ki karmazsinba öltöztetett gyönyörûen, és aranynyal ékesíté fel ruhátokat."

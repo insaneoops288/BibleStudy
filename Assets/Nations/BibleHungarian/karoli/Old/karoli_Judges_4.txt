@@ -18,7 +18,7 @@
 "És kiméne Jáhel Sisera elé, és monda néki
 "[Az] pedig monda néki
 "És [az annakfelette] monda néki
-"Ekkor Jáhel, a Héber felesége vevé a sátorszöget, és põrölyt võn kezébe, és beméne õ hozzá halkan, és beveré a szöget halántékába, úgy hogy beszegezõdék a földbe. Amaz pedig nagy fáradtság miatt mélyen aludt vala, és így meghala."
+"Ekkor Jáhel, a Héber felesége vevé a sátorszöget, és põrölyt võn kezébe, és beméne õ hozzá halkan, és beveré a #szöget halántékába, úgy hogy beszegezõdék a földbe. Amaz pedig nagy fáradtság miatt mélyen aludt vala, és így meghala."
 "És ímé, a mint Bárák ûzve [keresné] Siserát, Jáhel kiméne elébe, és monda néki
 "Így alázá meg Isten azon a napon Jábint, a Kanaán királyát az Izráel fiai elõtt."
 "Az Izráel fiainak keze pedig mind jobban ránehezedék Jábinra, a Kanaán királyára, mígnem kiirták Jábint, a Kanaán királyát."

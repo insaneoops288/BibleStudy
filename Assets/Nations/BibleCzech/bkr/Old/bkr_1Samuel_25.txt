@@ -5,7 +5,7 @@
 "Poslal deset služebníků, a řekl David těm služebníkům
 "A rcete jemu takto
 "Slyšel jsem, že máš střižce, a pastýři tvoji bývali s námi; neučinili jsme jim žádné křivdy, aniž jim co zhynulo po všecky dny, v nichž byli na Karmeli."
-"Ptej se služebníků svých, a povědí tobě. Nyní tedy nechť naleznou mládenci milost před očima tvýma, nebo v den veselý přišli jsme; dej, prosím, což máš před rukama, služebníkům svým a synu svému Davidovi."
+"Ptej se služebníků svých, a povědí tobě. Nyní tedy nechť naleznou mládenci milost před očima tvýma, nebo v #den veselý přišli jsme; dej, prosím, což máš před rukama, služebníkům svým a synu svému Davidovi."
 "Přišedše tedy mládenci ti Davidovi, mluvili Nábalovi podlé všech slov těchto jménem Davidovým, a umlkli."
 "Odpověděl pak Nábal služebníkům Davidovým a řekl
 "Ano, vezmu já chléb svůj, a vodu svou a pokrmy své, kteréž jsem připravil střižcům svým, a dám je těm lidem, kterýchž neznám, ani vím, odkud jsou?"
@@ -22,8 +22,8 @@
 "Toto učiň Bůh nepřátelům Davidovým a toto přidej, jestliže zanechám do jitra ze všeho, což má, až do toho, kterýž močí na stěnu.)"
 "Tedy uzřevši Abigail Davida, rychle ssedla s osla, a padla před Davidem na tvář svou, a poklonila se až k zemi."
 "A padši k nohám jeho, řekla
-"Nechť se neobrací, prosím, pán můj myslí svou za mužem tím bezbožným Nábalem; nebo jakéž jest jméno jeho, takovýž jest. Nábal jméno jeho jest, a bláznovství jest při něm. Já pak služebnice tvá neviděla jsem služebníků pána mého, kteréž jsi byl poslal."
-"Protož nyní, pane můj, živť jest Hospodin, a živať jest duše tvá, že tě tobě zbránil Hospodin vylíti krve, a abys nemstil sám sebe. A protož nyní buďtež jako Nábal nepřátelé tvoji, a ti, kteříž hledají zlého pánu mému."
+"Nechť se neobrací, prosím, pán můj myslí svou za mužem tím bezbožným Nábalem; nebo jakéž jest jméno jeho, takovýž jest. Nábal jméno #jeho jest, a bláznovství jest při něm. Já pak služebnice tvá neviděla jsem služebníků pána mého, kteréž jsi byl poslal."
+"Protož nyní, pane můj, živť jest Hospodin, a živať jest duše tvá, že tě tobě zbránil Hospodin vylíti krve, a #abys nemstil sám sebe. A protož nyní buďtež jako Nábal nepřátelé tvoji, a ti, kteříž hledají zlého pánu mému."
 "Teď pak dar tento, kterýž přinesla děvka tvá pánu svému, nechť jest dán služebníkům, kteříž chodí za pánem mým."
 "Odpusť, prosím, provinění děvce své, neboť jistě vzdělá Hospodin pánu mému dům stálý, poněvadž boje Hospodinovy pán můj vede, a nic zlého se nenalézá při tobě až posavad."
 "A byť i povstal člověk, aby tě stihal a hledal bezhrdlí tvého, budeť však duše pána mého svázána v svazku živých u Hospodina Boha tvého, duši pak nepřátel tvých jako z praku pryč zahodí."
@@ -33,7 +33,7 @@
 "A požehnaná řeč tvá, i ty požehnaná, že jsi zdržela mne dnes, abych nevylil krve a nemstil sám sebe."
 "A jistě, jako živ jest Hospodin Bůh Izraelský, kterýž mi zbránil, ať bych zle nečinil, že kdybys nebyla pospíšila a nevyšla mi v cestu, nebyl by zůstal Nábalovi do jitra ani močící na stěnu."
 "I přijal David z ruky její, což byla přinesla jemu, a řekl jí
-"A tak navrátila se Abigail k Nábalovi, an měl hody v domě svém jako hody královské; a srdce Nábalovo rozveselilo se bylo v něm, a byl opilý velmi. Pročež ona neoznámila jemu nejmenšího slova až do jitra."
+"A tak navrátila se Abigail k Nábalovi, an měl hody v domě svém jako hody královské; a srdce Nábalovo #rozveselilo se bylo v něm, a byl opilý velmi. Pročež ona neoznámila jemu nejmenšího slova až do jitra."
 "Nazejtří pak, když z vína vystřízlivěl Nábal, tedy oznámila jemu žena jeho ty věci. I zmrtvělo v něm srdce jeho, a učiněn jest jako kámen."
 "A když pominulo takměř deset dní, porazil Hospodin Nábale,i umřel."
 "Uslyšev pak David, že by Nábal umřel, řekl

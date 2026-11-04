@@ -9,7 +9,7 @@
 "Wtedy wstał za nim i Dawid, wyszedł z jaskini oraz zawołał za Saulem, mówiąc
 "I Dawid powiedział do Saula
 "Oto dzisiejszego dnia twoje własne oczy widziały, że dziś, w jaskini, WIEKUISTY wydał cię w moją moc i namawiano mnie, abym cię zabił – ale cię oszczędziłem i pomyślałem
-"Zatem zobacz, mój ojcze, ujrzyj w mej ręce skrawek twojego płaszcza. Z tego bowiem, że uciąłem skrawek twojego płaszcza – nie zabijając cię, możesz poznać, że nie myślę nic złego, ani występnego, oraz że nie zgrzeszyłem przeciw tobie. A ty czyhasz na moje życie, by mi je zabrać."
+"Zatem zobacz, mój ojcze, ujrzyj w mej ręce skrawek twojego płaszcza. Z tego bowiem, że uciąłem skrawek twojego płaszcza – nie zabijając cię, możesz poznać, #że nie myślę nic złego, ani występnego, oraz że nie zgrzeszyłem przeciw tobie. A ty czyhasz na moje życie, by mi je zabrać."
 "Niech WIEKUISTY rozsądzi pomiędzy mną, a tobą! Niech nad tobą pomści się za mnie WIEKUISTY! Lecz moja ręka nie zwróci się przeciw tobie!"
 "Jak to starożytne przysłowie głosi
 "Za kim wyruszył król Israela? Kogo ścigasz? Zdechłego psa? Jakąś pchłę?!"

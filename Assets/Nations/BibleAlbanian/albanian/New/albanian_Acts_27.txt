@@ -14,7 +14,7 @@
 "Por, pak më vonë, shpërtheu mbi ishull një erë e vrullshme, që e quajnë euroklidon."
 "Duke qenë se anija po ikte pa qenë në gjendje t'i qëndronte erës, e lamë në mëshirë të fatit dhe kështu filluam të shkojmë sa andej-këtej."
 "Si kaluam me të shpejtë pranë një ishulli të vogël, që quhet Klauda, arritëm me vështirësi ta vëmë nën kontroll sandallin."
-"Dhe, mbasi e ngritën në bordin, detarët përdorën të gjitha mënyrat për ta ngjeshur nga poshtë anijen dhe, nga frika se mos ngecnin në cekëtinat ranore të Sirtës, i ulën velat dhe kështu shkonin andej-këtej."
+"Dhe, mbasi e ngritën në bordin, detarët përdorën të gjitha mënyrat për ta ngjeshur nga poshtë anijen dhe, #nga frika se mos ngecnin në cekëtinat ranore të Sirtës, i ulën velat dhe kështu shkonin andej-këtej."
 "Por mbasi furtuna na vuri përpara me forcë, të nesërmen filluan ta hedhim në det ngarkesën."
 "Ditën e tretë, hodhën me duart e tyre, pajisjet e anijes në det."
 "Dhe, duke qenë se prej shumë ditësh nuk dukeshin as dielli as yjet, dhe furtuna po tërbohej, humbi tashmë çdo shpresë shpëtimi."

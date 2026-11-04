@@ -26,8 +26,8 @@
 "Wenn sie nun zu euch sagen werden
 "Denn wie der Blitz vom Osten ausfährt und bis zum Westen scheint, so wird auch die Ankunft des Menschensohnes sein."
 "Wo das Aas ist, da sammeln sich die Adler."
-"Bald aber nach der Trübsal jener Tage wird die Sonne verfinstert werden, und der Mond wird seinen Schein nicht mehr geben, und die Sterne werden vom Himmel fallen und die Kräfte des Himmels in Bewegung geraten."
-"Und dann wird das Zeichen des Menschensohnes am Himmel erscheinen, und dann werden alle Geschlechter der Erde sich an die Brust schlagen und werden des Menschen Sohn kommen sehen auf den Wolken des Himmels mit großer Kraft und Herrlichkeit."
+"Bald aber nach der Trübsal jener Tage wird die Sonne verfinstert werden, und der Mond wird seinen Schein nicht #mehr geben, und die Sterne werden vom Himmel fallen und die Kräfte des Himmels in Bewegung geraten."
+"Und dann wird das Zeichen des Menschensohnes am Himmel erscheinen, und dann werden alle Geschlechter der Erde sich an die #Brust schlagen und werden des Menschen Sohn kommen sehen auf den Wolken des Himmels mit großer Kraft und Herrlichkeit."
 "Und er wird seine Engel aussenden mit starkem Posaunenschall, und sie werden seine Auserwählten versammeln von den vier Winden her, von einem Ende des Himmels bis zum andern."
 "Am Feigenbaum aber lernet das Gleichnis
 "Also auch ihr, wenn ihr dies alles sehet, so merket, daß er nahe vor der Türe ist."

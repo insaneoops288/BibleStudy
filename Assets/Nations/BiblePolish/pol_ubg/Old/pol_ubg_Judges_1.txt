@@ -24,7 +24,7 @@
 "A gdy szpiedzy zobaczyli człowieka wychodzącego z miasta, powiedzieli do niego
 "I pokazał im wejście do miasta, a oni pobili miasto ostrzem miecza, lecz tego człowieka wraz z całą jego rodziną puścili wolno."
 "I tak człowiek ten udał się do ziemi Chetytów, zbudował miasto i nadał mu nazwę Luz. To jest jego nazwa aż do dziś."
-"Manasses nie wypędził też mieszkańców Bet-Szean i jego miasteczek ani mieszkańców Tanaku i jego miasteczek, ani mieszkańców Dor i jego miasteczek, ani mieszkańców Jibleam i jego miasteczek, ani mieszkańców Megiddo i jego miasteczek. Kananejczycy nadal mieszkali więc w tej ziemi."
+"Manasses nie wypędził też mieszkańców Bet-Szean i jego miasteczek ani mieszkańców Tanaku i jego miasteczek, ani mieszkańców Dor i jego miasteczek, #ani mieszkańców Jibleam i jego miasteczek, ani mieszkańców Megiddo i jego miasteczek. Kananejczycy nadal mieszkali więc w tej ziemi."
 "A gdy Izrael się wzmocnił, kazał Kananejczykom płacić daninę i nie wygnał ich."
 "Także i Efraim nie wypędził Kananejczyków mieszkających w Gezer, dlatego Kananejczycy mieszkali wśród nich w Gezer."
 "Zebulon również nie wypędził mieszkańców Kitron ani mieszkańców Nahalol, dlatego Kananejczycy mieszkali wśród nich i płacili im daninę."

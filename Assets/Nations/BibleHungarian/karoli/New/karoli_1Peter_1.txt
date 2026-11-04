@@ -9,7 +9,7 @@
 "Elérvén hitetek czélját, a lélek idvességét."
 "A mely idvesség felõl tudakozódtak és nyomozódtak a próféták, a kik az irántatok való kegyelem felõl jövendöltek
 "Nyomozódván, hogy mely vagy milyen idõre jelenté [azt] ki a Krisztusnak õ bennök levõ Lelke, a ki eleve bizonyságot tett a Krisztus szenvedéseirõl és az azok után való dicsõségrõl."
-"A kiknek megjelentetett, hogy nem magoknak, hanem nékünk szolgáltak azokkal, a melyeket most hirdetnek néktek azok, a kik prédikálták néktek az evangyéliomot az egekbõl küldött Szent Lélek által; a mikbe angyalok vágyakoznak betekinteni."
+"A kiknek megjelentetett, hogy nem magoknak, hanem nékünk szolgáltak azokkal, a melyeket most hirdetnek néktek azok, a #kik prédikálták néktek az evangyéliomot az egekbõl küldött Szent Lélek által; a mikbe angyalok vágyakoznak betekinteni."
 "Annakokáért felövezvén elmétek derekait, mint józanok, tökéletesen reménykedjetek abban a kegyelemben, a melyet a Jézus Krisztus hoz néktek, mikor megjelen."
 "Mint engedelmes gyermekek ne szabjátok magatokat a ti elõbbi kívánságaitokhoz, a melyek tudatlanságotok alatt voltak bennetek;"
 "Hanem a miképen szent az, a ki elhívott titeket, ti is szentek legyetek teljes életetekben;"

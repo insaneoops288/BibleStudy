@@ -1,4 +1,4 @@
-"A synowie Rubena pierworodnego Izraelowego, (ten bowiem był pierworodny; ale gdy zgwałcił łoże ojca swego, dane jest pierworodztwo jego synom Józefa, syna Izraelowego, tak jednak, że go nie poczytano za pierworodnego
+"A synowie Rubena pierworodnego Izraelowego, (ten bowiem był pierworodny; ale gdy zgwałcił łoże ojca swego, dane #jest pierworodztwo jego synom Józefa, syna Izraelowego, tak jednak, że go nie poczytano za pierworodnego
 "Bo Judas był najmężniejsz między braćmi swymi, a książęciem między nimi; ale pierworodztwo należało Józefowi.)"
 "Synowie mówię Rubena, pierworodnego Izraelowego, byli
 "Synowie Joelowi
@@ -15,7 +15,7 @@
 "Achy, syn Abdyjela, syna Gunowego, książę w domu ojców ich."
 "I mieszkali w Galaad, w Bazan, i w miasteczkach jego, i po wszystkich przedmieściach Saron aż do ich granic."
 "Wszyscy ci policzeni byli za dni Jotama, króla Judzkiego, i za dni Jeroboama, króla Izraelskiego."
-"Synów Rubenowych, i Gadowych, i połowy pokolenia Manasesowego, ludzi walecznych, mężów noszących tarczę i miecz, i ciągnących łuk, i ćwiczonych ku bojowi, czterdzieści i cztery tysiące, siedm set i sześćdziesiąt, wychodzących do bitwy."
+"Synów Rubenowych, i Gadowych, i połowy pokolenia Manasesowego, ludzi walecznych, mężów noszących tarczę i miecz, i ciągnących #łuk, i ćwiczonych ku bojowi, czterdzieści i cztery tysiące, siedm set i sześćdziesiąt, wychodzących do bitwy."
 "Ci wiedli wojnę z Agareńczykami, z Jeturejczykami, i z Nafejczykami, i Nodabczykami,"
 "A mieli pomoc przeciwko nim. I podani są w rękę ich Agareńczycy ze wszystkim, co mieli, przeto iż do Boga wołali w bitwie, a on ich wysłuchał, iż ufali w nim."
 "I zabrali dobytki ich, wielbłądów ich pięćdziesiąt tysięcy, a owiec dwieście i pięćdziesiąt tysięcy, osłów dwa tysiące, a ludzi sto tysięcy."

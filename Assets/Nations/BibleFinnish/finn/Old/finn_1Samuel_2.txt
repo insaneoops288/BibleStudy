@@ -5,9 +5,9 @@
 "Jotka ennen ravitut olivat, ne ovat itsensä myyneet leivän edestä, jotka nälkää kärsivät, ei silleen isoa, siihen asti että hedelmätöin seitsemän synnytti, ja jolla monta lasta oli, tuli heikoksi."
 "Herra kuolettaa ja virvoittaa, vie suureen ahdistukseen ja siitä ulos jälleen."
 "Herra tekee köyhäksi ja rikkaaksi, hän alentaa ja ylentää."
-"Hän nostaa tomusta köyhän ja ylentää vaivaisen loasta, istuttaaksensa häntä päämiesten sekaan ja antaaksensa hänen kunnian istuimen periä; sillä maan perustukset ovat Herran, ja maan piirin on hän asettanut niiden päälle."
+"Hän nostaa tomusta köyhän ja ylentää vaivaisen loasta, istuttaaksensa häntä päämiesten sekaan ja antaaksensa hänen kunnian #istuimen periä; sillä maan perustukset ovat Herran, ja maan piirin on hän asettanut niiden päälle."
 "Hän varjelee pyhäin jalat, mutta jumalattomat pitää vaikenemaan pimeydessä; sillä oma suuri voima ei mitään auta."
-"Ne, jotka riitelevät Herran kanssa, pitää muserrettaman rikki, hän jylisee taivaassa heidän ylitsensä. Herra tuomitsee maan ääret, ja antaa kuninkaallensa väkevyyden, ja ylentää voideltunsa sarven."
+"Ne, jotka riitelevät Herran kanssa, pitää muserrettaman rikki, hän jylisee taivaassa heidän ylitsensä. #Herra tuomitsee maan ääret, ja antaa kuninkaallensa väkevyyden, ja ylentää voideltunsa sarven."
 "Ja Elkana meni Ramaan huoneesensa; vaan nuorukainen palveli Herraa papin Elin edessä."
 "Mutta Elin pojat olivat ilkiät ja ei totelleet Herraa,"
 "Eikä myös pappein oikeutta kansan edessä
@@ -26,11 +26,11 @@
 "Mutta nuorukainen Samuel vaelsi ja kasvoi, ja oli otollinen sekä Herran että ihmisten edessä."
 "Ja Jumalan mies tuli Elin tykö ja sanoi hänelle
 "Ja minä valitsin hänen minulle papiksi kaikista Israelin sukukunnista uhraamaan minun alttarilleni, ja sytyttämään suitsutusta, ja kantamaan päällisvaatetta minun edessäni
-"Miksi siis te potkitte minun uhriani vastaan ja ruokauhriani, jonka minä olen käskenyt uhrata seurakunnan majassa, ja enemmän kunnioitit poikias kuin minua, lihoittaaksenne teitänne kaikista minun kansani Israelin ruokauhrein uutisista?"
+"Miksi siis te potkitte minun uhriani vastaan ja ruokauhriani, jonka minä olen käskenyt uhrata seurakunnan majassa, #ja enemmän kunnioitit poikias kuin minua, lihoittaaksenne teitänne kaikista minun kansani Israelin ruokauhrein uutisista?"
 "Sentähden sanoo Herra Israelin Jumala
 "Katso, se aika tulee, että minä murran sinun käsivartes ja sinun isäs huoneen käsivarren, ettei yksikään vanha pidä sinun huoneessas oleman."
 "Ja sinun pitää näkemän sinun vastaanseisojas majassa, kaikessa hyvyydessä, mikä Israelille tapahtuu; ja ei yksikään vanha pidä oleman sinun huoneessas ijankaikkisesti."
-"En minä kuitenkaan hävitä kaikkia lapsias minun alttariltani, että minä kulutan sinun silmäs, ja sinun sielus murheesen saatan; mutta kaikki sinun huonees paljous pitää kuoleman, kuin ne ovat mieheksi tulleet."
+"En minä kuitenkaan hävitä kaikkia lapsias minun alttariltani, että minä kulutan sinun silmäs, ja sinun sielus #murheesen saatan; mutta kaikki sinun huonees paljous pitää kuoleman, kuin ne ovat mieheksi tulleet."
 "Ja tämä pitää oleman sinulle merkiksi, mikä sinun poikais Hophnin ja Pinehaan päälle pitää tuleman
 "Ja minä herätän minulleni uskollisen papin
 "Ja tapahtuu, että se joka jää jälkeen sinun huoneeses, pitää tuleman ja kumartaman häntä hopiapenningin ja leivän kappaleen edestä, ja pitää sanoman

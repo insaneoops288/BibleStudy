@@ -5,7 +5,7 @@
 "Novamente plantarás vinhas nos montes de Samaria; os plantadores plantarão, e [delas] desfrutarão."
 "Pois haverá dia [em que] os vigilantes no monte de Efraim gritarão
 "Porque assim diz o SENHOR
-"Eis que eu os trarei da terra do norte, e os juntarei desde os confins da terra, entre os quais haverá cegos e aleijados, mulheres grávidas e as que tiveram parto juntamente; em grande multidão voltarão para cá."
+"Eis que eu os trarei da terra do norte, e os juntarei desde os confins da terra, entre os quais #haverá cegos e aleijados, mulheres grávidas e as que tiveram parto juntamente; em grande multidão voltarão para cá."
 "Virão com choro, e com suplicações os trarei; e os guiarei a ribeiros de águas, por um caminho plano, em que não tropeçarão; porque sou um pai para Israel, e Efraim é meu primogênito."
 "Ouvi a palavra do SENHOR, ó nações, e [a] anunciai nas terras litorâneas de longe, e dizei
 "Pois o SENHOR resgatou a Jacó, o livrou da mão do mais forte que ele."
@@ -17,7 +17,7 @@
 "E há esperança para o teu futuro,diz o SENHOR, pois os [teus] filhos voltarão a suas [próprias] fronteiras."
 "De fato ouvi Efraim se queixar, [dizendo]
 "Pois depois que me desviei, arrependi-me; depois que entendi, golpeei-me na coxa; envergonhei-me, e me senti humilhado, porque levei a vergonha de minha juventude."
-"Por acaso não é Efraim um filho precioso para mim? Não é ele um filho do meu agrado? Pois mesmo tendo eu falado contra ele, eu me lembro dele constantemente. Por isso minhas entranhas se comovem por ele; certamente terei compaixão dele,diz o SENHOR."
+"Por acaso não é Efraim um filho precioso para mim? Não é ele um filho do meu agrado? Pois mesmo tendo eu falado #contra ele, eu me lembro dele constantemente. Por isso minhas entranhas se comovem por ele; certamente terei compaixão dele,diz o SENHOR."
 "Levanta para ti sinais, põe para ti marcos altos; presta atenção à vereda, ao caminho [por onde] vieste; volta-te, ó virgem de Israel, volta-te para estas tuas cidades."
 "Até quando andarás sem rumo, ó filha rebelde? Pois o SENHOR criará uma coisa nova sobre a terra
 "Assim diz o SENHOR dos exércitos, Deus de Israel
@@ -37,4 +37,4 @@
 "Assim diz o SENHOR
 "Diz o SENHOR
 "E a linha de medir sairá também diante dela, até sobre à colina de Garebe, e virará ao redor até Goa."
-"E todo o vale dos cadáveres e da cinza, e todas os campos até o ribeiro de Cedrom, até a esquina da porta dos cavalos ao oriente, serão consagrados ao SENHOR; nunca mais será arrancada nem derrubada."
+"E todo o vale dos cadáveres e da cinza, e todas os campos até o ribeiro de Cedrom, até #a esquina da porta dos cavalos ao oriente, serão consagrados ao SENHOR; nunca mais será arrancada nem derrubada."

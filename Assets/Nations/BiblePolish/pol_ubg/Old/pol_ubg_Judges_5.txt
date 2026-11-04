@@ -27,5 +27,5 @@
 "Zwinął się u jej nóg, padł, leżał; zwinął się u jej nóg, padł; gdzie się zwinął, tam padł zabity."
 "Matka Sisery wyglądała przez okno i wołała przez kratę
 "Najmądrzejsze z jej kobiet odpowiedziały, jak i ona sama sobie odpowiadała
-"Czyż nie trafili na łup i nie dzielą go? Każdy mężczyzna dostanie pannę albo dwie; różnobarwne łupy oddają Siserze, różnobarwne łupy haftowane, różnobarwne łupy haftowane z obu stron, na szyję biorących łupy."
+"Czyż nie trafili na łup i nie dzielą go? Każdy mężczyzna dostanie pannę albo dwie; różnobarwne łupy #oddają Siserze, różnobarwne łupy haftowane, różnobarwne łupy haftowane z obu stron, na szyję biorących łupy."
 "Tak niech zginą wszyscy twoi wrogowie, PANIE. A ci, którzy ciebie miłują, niech będą jak słońce, gdy wschodzi w swojej mocy. I ziemia żyła w pokoju przez czterdzieści lat."

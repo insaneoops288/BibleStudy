@@ -6,7 +6,7 @@
 "Und das Volk zog aus ins Feld, Israel entgegen; und die Schlacht fand statt im Walde Ephraim."
 "Und das Volk von Israel wurde daselbst vor den Knechten Davids geschlagen, und die Niederlage wurde daselbst groß an jenem Tage
 "Und die Schlacht breitete sich daselbst ausüber das ganze Land; und der Wald fraß mehr unter dem Volke, als das Schwert an jenem Tage fraß."
-"Und Absalom stieß auf die Knechte Davids; und Absalom ritt auf einem Maultier, und das Maultier kam unter die verschlungenen Zweige einer großen Terebinthe; und er blieb mit dem Haupte an der Terebinthe hangen, und schwebte zwischen Himmel und Erde; das Maultier aber, das unter ihm war, lief davon."
+"Und Absalom stieß auf die Knechte Davids; und Absalom ritt auf einem Maultier, und das Maultier kam unter die verschlungenen Zweige einer großen Terebinthe; und #er blieb mit dem Haupte an der Terebinthe hangen, und schwebte zwischen Himmel und Erde; das Maultier aber, das unter ihm war, lief davon."
 "Und ein Mann sah es und berichtete es Joab und sprach
 "Da sprach Joab zu dem Manne, der es ihm berichtete
 "Aber der Mann sprach zu Joab

@@ -1,7 +1,7 @@
 "Dies ist das Geschlecht Aarons und Mose's zu der Zeit, da der HERR mit Mose redete auf dem Berge Sinai."
 "Und dies sind die Namen der Söhne Aarons
 "Das sind die Namen der Söhne Aarons, die zu Priestern gesalbt waren und deren Hände gefüllt wurden zum Priestertum."
-"Aber Nadab und Abihu starben vor dem HERRN, da sie fremdes Feuer opferten vor dem HERRN in der Wüste Sinai, und hatten keine Söhne. Eleasar aber und Ithamar pflegten des Priesteramtes unter ihrem Vater Aaron."
+"Aber Nadab und Abihu starben vor dem HERRN, da sie fremdes Feuer opferten vor dem HERRN in der #Wüste Sinai, und hatten keine Söhne. Eleasar aber und Ithamar pflegten des Priesteramtes unter ihrem Vater Aaron."
 "Und der HERR redete mit Mose und sprach
 "Bringe den Stamm Levi herzu und stelle sie vor den Priester Aaron, daß sie ihm dienen"
 "und seiner und der ganzen Gemeinde Hut warten vor der Hütte des Stifts und dienen am Dienst der Wohnung"
@@ -10,7 +10,7 @@
 "Aaron aber und seine Söhne sollst du setzen, daß sie ihres Priestertums warten. Wo ein Fremder sich herzutut, der soll sterben."
 "Und der HERR redete mit Mose und sprach
 "Siehe, ich habe die Leviten genommen unter den Kindern Israel für alle Erstgeburt, welche die Mutter bricht, unter den Kindern Israel, also daß die Leviten sollen mein sein."
-"Denn die Erstgeburten sind mein seit der Zeit, da ich alle Erstgeburt schlug inÄgyptenland; da heiligte ich mir alle Erstgeburt in Israel, vom Menschen an bis auf das Vieh, daß sie mein sein sollen, ich, der HERR."
+"Denn die Erstgeburten sind mein seit der Zeit, da ich alle Erstgeburt schlug inÄgyptenland; da heiligte ich mir alle #Erstgeburt in Israel, vom Menschen an bis auf das Vieh, daß sie mein sein sollen, ich, der HERR."
 "Und der HERR redete mit Mose in der Wüste Sinai und sprach
 "Zähle die Kinder Levi nach ihren Vaterhäusern und Geschlechtern, alles, was männlich ist, einen Monat alt und darüber.{~}"
 "Also zählte sie Mose nach dem Wort des HERRN, wie er geboten hatte."
@@ -35,7 +35,7 @@
 "Ihr Oberster sei Zuriel, der Sohn Abihails. Und sollen sich lagern an die Seite der Wohnung gegen Mitternacht."
 "Und ihr Amt soll sein, zu warten der Bretter und Riegel und Säulen und Füße der Wohnung und alles ihres Gerätes und ihres Dienstes,"
 "dazu der Säulen um den Vorhof her mit den Füßen und Nägeln und Seilen."
-"Aber vor der Wohnung und vor der Hütte des Stifts gegen Morgen sollen sich lagern Mose und Aaron und seine Söhne, daß sie des Heiligtums warten für die Kinder Israel. Wenn sich ein Fremder herzutut, der soll sterben."
+"Aber vor der Wohnung und vor der Hütte des Stifts gegen Morgen sollen sich lagern Mose und Aaron und seine #Söhne, daß sie des Heiligtums warten für die Kinder Israel. Wenn sich ein Fremder herzutut, der soll sterben."
 "Alle Leviten zusammen, die Mose und Aaron zählten nach ihren Geschlechtern nach dem Wort des HERRN eitel Mannsbilder einen Monat alt und darüber, waren zweiundzwanzigtausend."
 "Und der HERR sprach zu Mose
 "Und sollst die Leviten mir, dem HERRN, aussondern für alle Erstgeburt der Kinder Israel und der Leviten Vieh für alle Erstgeburt unter dem Vieh der Kinder Israel."

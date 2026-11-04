@@ -10,7 +10,7 @@
 "Wer im Kleinsten treu ist, der ist auch im Großen treu; und wer im Kleinsten ungerecht ist, der ist auch im Großen ungerecht."
 "Wenn ihr nun in dem ungerechten Mammon nicht treu waret, wer wird euch das Wahre anvertrauen?"
 "Und wenn ihr mit dem fremden[Gut] nicht treu waret, wer wird euch das Eure geben?"
-"Kein Knecht kann zwei Herren dienen; denn entweder wird er den einen hassen und den andern lieben, oder er wird dem einen anhangen und den andern verachten. Ihr könnt nicht Gott dienen und dem Mammon!"
+"Kein Knecht kann zwei Herren dienen; denn entweder wird er den einen hassen und den andern lieben, oder #er wird dem einen anhangen und den andern verachten. Ihr könnt nicht Gott dienen und dem Mammon!"
 "Das alles hörten aber auch die Pharisäer, die waren geldgierig und verspotteten ihn."
 "Und er sprach zu ihnen
 "Das Gesetz und die Propheten gehen bis auf Johannes; von da an wird das Reich Gottes durch das Evangelium verkündigt, und jedermann vergreift sich daran."
@@ -23,7 +23,7 @@
 "Und als er im Totenreich seine Augen erhob, da er Qualen litt, sieht er Abraham von ferne und Lazarus in seinem Schoß."
 "Und er rief und sprach
 "Abraham aber sprach
-"Und zu alledem ist zwischen uns und euch eine große Kluft befestigt, so daß die, welche von hier zu euch hinübersteigen wollen, es nicht können, noch die von dort es vermögen, zu uns herüberzukommen."
+"Und zu alledem ist zwischen uns und euch eine große Kluft befestigt, so daß die, welche von hier #zu euch hinübersteigen wollen, es nicht können, noch die von dort es vermögen, zu uns herüberzukommen."
 "Da sprach er
 "denn ich habe fünf Brüder, daß er sie warne, damit nicht auch sie kommen an diesen Ort der Qual!"
 "Spricht zu ihm Abraham

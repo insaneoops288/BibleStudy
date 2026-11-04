@@ -1,4 +1,4 @@
-"Dëgjoni këtë, o shtëpi e Jakobit, ju që ju thërrasin me emrin e Izraelit dhe që keni dalë nga burimet e Judës, ju që betoheni për emrin e Zotit dhe që përmendni Perëndinë e Izraelit, por jo me të vërtetë dhe me drejtësi."
+"Dëgjoni këtë, o shtëpi e Jakobit, ju që ju thërrasin me emrin e Izraelit dhe që keni dalë nga burimet e Judës, #ju që betoheni për emrin e Zotit dhe që përmendni Perëndinë e Izraelit, por jo me të vërtetë dhe me drejtësi."
 "Duke qenë se quhen me emrin e qytetit të shenjtë dhe mbështeten mbi Perëndinë e Izraelit, emri i të cilit është Zoti i ushtrive;"
 """Unë i shpalla gjërat e kaluara që në fillim; kishin dalë nga goja ime dhe kisha bërë që t'i dëgjonin; pastaj veprova papritmas dhe ato ndodhën."
 "Sepse e dija që ishe kokëfortë, që qafa jote ishte një brez i hekurt dhe balli yt prej bronzi,"
@@ -16,7 +16,7 @@
 "Afrohuni tek unë, dëgjoni këtë
 "Kështu thotë Zoti, Çliruesi yt, i Shenjti i Izraelit
 "Ah, sikur t'u kishe kushtuar kujdes urdhërimeve të mia! Paqja jote do të ishte si një lumë dhe drejtësia jote si valët e detit."
-"Trashëgimia jote do të ishte si rëra dhe ata që kanë lindur nga të përbrëndëshmet e tua do të ishin të pallogaritshëm si kokrrizat e saj; emri i tij nuk do të fshihej as do të shkatërrohej para meje""."
+"Trashëgimia jote do të ishte si rëra dhe ata që kanë lindur nga të përbrëndëshmet e tua do të ishin #të pallogaritshëm si kokrrizat e saj; emri i tij nuk do të fshihej as do të shkatërrohej para meje""."
 "Dilni nga Babilonia, ikni nga Kaldeasit! Me një zë të gëzuar kumtojeni, shpalleni këtë gjë, përhapeni deri në skajet e tokës. Thoni
 "Ata nuk patën etje kur i çoi nëpër shkretëtirë. Ai bëri që të burojë për ta ujë nga shkëmbi; e çau shkëmbin dhe dolën ujërat."
 """Nuk ka paqe për të pabesët"", thotë Zoti."

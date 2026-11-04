@@ -9,7 +9,7 @@
 "At habang sila'y nagsisibaba mula sa bundok, ay iniutos sa kanila ni Jesus, na nagsasabi, Huwag ninyong sabihin kanino mang tao ang pangitain, hanggang sa ang Anak ng tao ay ibangon sa mga patay."
 "At tinanong siya ng kaniyang mga alagad, na nangagsasabi, Bakit nga sinasabi ng mga eskriba na kinakailangang pumarito muna si Elias?"
 "At sumagot siya, at sinabi, Katotohanang si Elias ay paririto, at isasauli ang lahat ng mga bagay
-"Datapuwa't sinasabi ko sa inyo, na naparito na si Elias, at hindi nila siya nakilala, kundi ginawa nila sa kaniya ang anomang kanilang inibig. Gayon din naman ang Anak ng tao ay magbabata sa kanila."
+"Datapuwa't sinasabi ko sa inyo, na naparito na si Elias, at hindi nila siya nakilala, kundi ginawa nila #sa kaniya ang anomang kanilang inibig. Gayon din naman ang Anak ng tao ay magbabata sa kanila."
 "Nang magkagayo'y napagunawa ng mga alagad na si Juan Bautista ang sa kanila'y sinasabi niya."
 "At pagdating nila sa karamihan, ay lumapit sa kaniya ang isang lalake, na sa kaniya'y lumuhod, at nagsasabi,"
 "Panginoon, mahabag ka sa aking anak na lalake
@@ -22,6 +22,6 @@
 "At samantalang sila'y nangakahimpil sa Galilea, ay sinabi sa kanila ni Jesus, Ang Anak ng tao ay ibibigay sa mga kamay ng mga tao;"
 "At siya'y papatayin nila, at sa ikatlong araw ay siya'y muling ibabangon. At sila'y lubhang nangamanglaw,"
 "At pagdating nila sa Capernaum, ay nangagsilapit kay Pedro ang mga maniningil ng kalahating siklo, at nangagsabi, Hindi baga pinagbabayaran ng inyong guro ang kalahating siklo?"
-"Sinabi niya, Oo. At nang pumasok siya sa bahay, ay pinangunahan siya ni Jesus, na nagsasabi, Anong akala mo, Simon? ang mga hari sa lupa, kanino baga sila nanganiningil ng kabayaran ng buwis? sa kanilang mga anak baga o sa nangaiiba?"
+"Sinabi niya, Oo. At nang pumasok siya sa bahay, ay pinangunahan siya ni Jesus, na nagsasabi, Anong akala mo, Simon? ang #mga hari sa lupa, kanino baga sila nanganiningil ng kabayaran ng buwis? sa kanilang mga anak baga o sa nangaiiba?"
 "At nang sabihin niya, Sa nangaiiba, ay sinabi sa kaniya ni Jesus, Kung gayo'y hindi nangagbabayad ang mga anak."
-"Datapuwa't, baka katisuran tayo nila, ay pumaroon ka sa dagat, at ihulog mo ang kawil, at kunin mo ang unang isdang lumitaw; at pagka naibuka mo na ang kaniyang bibig, ay masusumpungan mo ang isang siklo
+"Datapuwa't, baka katisuran tayo nila, ay pumaroon ka sa dagat, at ihulog mo ang kawil, at kunin mo ang #unang isdang lumitaw; at pagka naibuka mo na ang kaniyang bibig, ay masusumpungan mo ang isang siklo

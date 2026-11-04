@@ -2,7 +2,7 @@
 "Wtedy Paweł według swego zwyczaju wszedł do nich i przez trzy szabaty rozprawiał z nimi na podstawie Pisma;"
 "Wyjaśniając i nauczając, że Chrystus musiał cierpieć i powstać z martwych oraz
 "I niektórzy z nich uwierzyli i przyłączyli się do Pawła i Sylasa, również mnóstwo pobożnych Greków i niemało znamienitych kobiet."
-"Ale ci Żydzi, którzy nie uwierzyli, zdjęci zazdrością, dobrali sobie niektórych niegodziwych próżniaków, a kiedy zebrali dużą grupę, podburzyli miasto. Naszli dom Jazona i szukali ich, aby wyprowadzić ich przed lud."
+"Ale ci Żydzi, którzy nie uwierzyli, zdjęci zazdrością, dobrali sobie niektórych niegodziwych próżniaków, a kiedy zebrali #dużą grupę, podburzyli miasto. Naszli dom Jazona i szukali ich, aby wyprowadzić ich przed lud."
 "Gdy jednak ich nie znaleźli, zaciągnęli Jazona i niektórych braci przed przełożonych miasta, krzycząc
 "A Jazon ich przyjął. Oni wszyscy postępują wbrew dekretom cesarza, mówiąc, że jest inny król, Jezus."
 "W ten sposób zaniepokoili lud i przełożonych miasta, którzy to słyszeli."

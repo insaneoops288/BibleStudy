@@ -6,7 +6,7 @@
 "Ora, nunca seu pai o tinha contrariado, dizendo
 "E teve entendimento com Joab, filho de Seruia, e com o sacerdote Abiatar, os quais aderiram a ele e o ajudavam."
 "Mas Sadoc, o sacerdote, e Benaías, filho de Joiada, e Natan, o profeta, e Chimei, e Rei, e os valentes que David tinha, não eram por Adonias."
-"Adonias matou ovelhas, bois e animais cevados, junto à pedra de Zoélet, que está perto de En-Roguel; e convidou a todos os seus irmãos, os filhos do rei, e a todos os homens de Judá, servos do rei;"
+"Adonias matou ovelhas, bois e animais cevados, junto à pedra de Zoélet, que está perto de En-Roguel; e convidou a #todos os seus irmãos, os filhos do rei, e a todos os homens de Judá, servos do rei;"
 "porém a Natan, o profeta, e a Benaías, e aos valentes, e a Salomão, seu irmão, não os convidou."
 "Então falou Natan a Betsabé, mãe de Salomão, dizendo
 "Vem, pois, agora e deixa-me dar-te um conselho, para que salves a tua vida, e a de teu filho Salomão."
@@ -22,7 +22,7 @@
 "Enquanto ela ainda falava com o rei, eis que chegou o profeta Natan."
 "E o fizeram saber ao rei, dizendo
 "e disse
-"Pois ele hoje desceu, e matou bois, animais cevados e ovelhas em abundância, e convidou a todos os filhos do rei, e aos chefes do exército, e ao sacerdote Abiatar; e eis que comem e bebem perante ele, e dizem
+"Pois ele hoje desceu, e matou bois, animais cevados e ovelhas em abundância, e convidou a todos os filhos do rei, #e aos chefes do exército, e ao sacerdote Abiatar; e eis que comem e bebem perante ele, e dizem
 "Porém a mim teu servo, e ao sacerdote Sadoc, e a Benaías, filho de Joiada, e ao teu servo Salomão, não convidou."
 "Foi feito isso da parte do rei meu senhor? e não fizeste saber a teu servo quem havia de assentar-se no teu trono depois de ti?"
 "Respondeu o rei David

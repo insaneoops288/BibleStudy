@@ -4,7 +4,7 @@
 "Après qu'il eut défait Sihon, roi des Amoréens, qui habitait à Hesbon, et Og, roi de Bassan, qui habitait à Ashtaroth et à Édréi."
 "Moïse commença à expliquer cette loi, au delà du Jourdain, dans le pays de Moab, en disant
 "L'Éternel notre Dieu nous parla en Horeb, et nous dit
-"Tournez-vous et partez, et allez vers la montagne des Amoréens, et dans tous les lieux circonvoisins, dans la campagne, dans la montagne, et dans la plaine, et vers le Midi, et sur la côte de la mer, au pays des Cananéens, et au Liban, jusqu'au grand fleuve, le fleuve d'Euphrate."
+"Tournez-vous et partez, et allez vers la montagne des Amoréens, et dans tous les lieux circonvoisins, dans la campagne, dans la montagne, et dans la plaine, #et vers le Midi, et sur la côte de la mer, au pays des Cananéens, et au Liban, jusqu'au grand fleuve, le fleuve d'Euphrate."
 "Voyez, j'ai mis devant vous le pays; entrez et possédez le pays que l'Éternel a juré de donner à vos pères, Abraham, Isaac et Jacob, et à leur postérité après eux."
 "Et je vous parlai en ce temps là, et je vous dis
 "L'Éternel votre Dieu vous a multipliés, et vous voici, aujourd'hui, nombreux comme les étoiles du ciel."
@@ -12,11 +12,11 @@
 "Comment porterais-je moi seul vos peines, vos fardeaux et vos procès?"
 "Prenez dans vos tribus des hommes sages, intelligents et connus, et je les établirai chefs sur vous."
 "Et vous me répondîtes, et dîtes
-"Alors je pris les chefs de vos tribus, des hommes sages et connus, et je les établis chefs sur vous, gouverneurs de milliers, de centaines, de cinquantaines et de dizaines, et officiers dans vos tribus."
+"Alors je pris les chefs de vos tribus, des hommes sages et connus, et je les établis chefs #sur vous, gouverneurs de milliers, de centaines, de cinquantaines et de dizaines, et officiers dans vos tribus."
 "Et je commandai à vos juges, en ce temps-là, en disant
-"Vous n'aurez point égard à l'apparence de la personne, dans le jugement; vous écouterez le petit comme le grand; vous ne craindrez personne, car le jugement est à Dieu; et vous ferez venir devant moi la cause qui sera trop difficile pour vous, et je l'entendrai."
+"Vous n'aurez point égard à l'apparence de la personne, dans le jugement; vous écouterez le petit comme le grand; vous ne craindrez personne, car #le jugement est à Dieu; et vous ferez venir devant moi la cause qui sera trop difficile pour vous, et je l'entendrai."
 "Et je vous ordonnai, en ce temps-là, toutes les choses que vous deviez faire."
-"Puis, nous avons parti d'Horeb, et nous avons marché par tout ce grand et affreux désert que vous avez vu, dans la direction de la montagne des Amoréens, ainsi que l'Éternel notre Dieu nous l'avait commandé; et nous sommes venu jusqu'à Kadès-Barnéa."
+"Puis, nous avons parti d'Horeb, et nous avons marché par tout ce grand et affreux désert que vous avez vu, dans la #direction de la montagne des Amoréens, ainsi que l'Éternel notre Dieu nous l'avait commandé; et nous sommes venu jusqu'à Kadès-Barnéa."
 "Alors je vous dis
 "Vois, l'Éternel ton Dieu met devant toi le pays; monte, prends-en possession, comme l'Éternel, le Dieu de tes pères, te l'a dit; ne crains point, et ne t'effraie point."
 "Et vous vous êtes approché tous de moi, et vous avez dit
@@ -36,7 +36,7 @@
 "Excepté Caleb, fils de Jephunné. Lui, il le verra; et je lui donnerai, à lui et à ses enfants, le pays sur lequel il a marché, parce qu'il a pleinement suivi l'Éternel."
 "L'Éternel se mit même en colère contre moi à cause de vous, en disant
 "Josué, fils de Nun, qui te sert, y entrera; encourage-le, car c'est lui qui mettra Israël en possession de ce pays;"
-"Et vos petits enfants, dont vous avez dit qu'ils y seraient une proie, et vos fils, qui aujourd'hui ne savent ce que c'est que le bien ou le mal, ce sont eux qui y entreront, et je leur donnerai ce pays, et ils le posséderont;"
+"Et vos petits enfants, dont vous avez dit qu'ils y seraient une proie, et vos fils, qui aujourd'hui ne savent ce que c'est #que le bien ou le mal, ce sont eux qui y entreront, et je leur donnerai ce pays, et ils le posséderont;"
 "Mais vous, retournez-vous-en, et partez pour le désert dans la direction de la mer Rouge."
 "Alors vous avez répondit, et vous m'avez dit
 "Et l'Éternel me dit

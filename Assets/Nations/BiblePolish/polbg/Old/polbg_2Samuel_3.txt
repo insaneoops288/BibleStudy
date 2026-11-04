@@ -26,7 +26,7 @@
 "Tedy odszedłszy Joab od Dawida, wyprawił posły za Abnerem, którzy go wrócili od studni Syra, o czem Dawid nie wiedział."
 "A gdy się wrócił Abner do Hebronu, odwiódł go Joab w pośród bramy, aby z nim po cichu (osobno) mówił, i przebił go tam pod piąte żebro, że umarł dla krwi Asaela, brata swego."
 "Co gdy potem usłyszał Dawid, rzekł
-"Niechaj przyjdzie na głowę Joabowę, i na wszystek dom ojca jego, i niech nie ustaje z domu Joabowego płynienie nasienia cierpiący, i trędowaty, i o kiju chodzący, i od miecza upadający, i nie mający chleba."
+"Niechaj przyjdzie na głowę Joabowę, i na wszystek dom ojca jego, i niech nie ustaje z domu Joabowego #płynienie nasienia cierpiący, i trędowaty, i o kiju chodzący, i od miecza upadający, i nie mający chleba."
 "A tak Joab i Abisaj, brat jego, zabili Abnera, przeto iż on też był zabił Asaela, brata ich, w bitwie u Gabaona."
 "Rzekł potem Dawid do Joaba i do wszystkiego ludu, który był z nim
 "A gdy pogrzebli Abnera w Hebronie, podniósł król głos swój, i płakał nad grobem Abnerowym; płakał też wszystek lud."

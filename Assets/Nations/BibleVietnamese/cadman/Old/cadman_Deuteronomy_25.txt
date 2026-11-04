@@ -2,7 +2,7 @@
 "Nhược bằng kẻ có tội đáng bị đánh đòn, quan án phải khiến người nằm xuống đất, đánh người trước mặt mình, số bao nhiêu đòn tùy theo lỗi của người đã phạm."
 "Quan án khiến đánh đòn người đến bốn chục, chớ đánh quá, kẻo nếu cứ đánh hơn, thì anh em ngươi vì cớ hình phạt thái quá ấy phải ra hèn trước mặt ngươi chăng."
 "Chớ khớp miệng con bò trong khi nó đạp lúa."
-"Khi anh em ruột ở chung nhau, có một người chết không con, thì vợ của người chết chớ kết đôi cùng người ngoài; anh em chồng phải đi đến cùng nàng, cưới nàng làm vợ, y theo bổn phận của anh em chồng vậy."
+"Khi anh em ruột ở chung nhau, có một người chết không con, thì vợ của người chết chớ kết đôi cùng người #ngoài; anh em chồng phải đi đến cùng nàng, cưới nàng làm vợ, y theo bổn phận của anh em chồng vậy."
 "Con đầu lòng mà nàng sanh ra sẽ nối danh cho người anh em chết, hầu cho danh của người ấy chớ tuyệt khỏi Y-sơ-ra-ên."
 "Ví bằng người kia không đẹp lòng lấy nàng, nàng phải lên đến cửa thành, tới cùng các trưởng lão mà nói rằng
 "Các trưởng lão của thành ấy sẽ gọi người và nói cùng người; nếu người cứ nói rằng
@@ -16,4 +16,4 @@
 "Vì Giê-hô-va Ðức Chúa Trời ngươi lấy làm gớm ghiếc người nào làm các điều nầy và phạm sự bất nghĩa."
 "Hãy nhớ điều A-ma-léc đã làm cho ngươi dọc đường, khi các ngươi ra khỏi xứ Ê-díp-tô;"
 "thế nào người không kính sợ Ðức Chúa Trời, đến đón ngươi trên đường, xông vào binh hậu ngươi, đánh các người yếu theo ngươi, trong khi chánh mình ngươi mỏi mệt và nhọc nhằn."
-"Vậy, khi Giê-hô-va Ðức Chúa Trời ngươi đã ban sự bình an cho, và giải cứu ngươi khỏi mọi kẻ thù nghịch vây phủ ngươi trong xứ mà Giê-hô-va Ðức Chúa Trời ngươi ban cho ngươi nhận lấy làm sản nghiệp, thì phải xóa sự ghi nhớ A-ma-léc khỏi dưới trời. Chớ hề quên!"
+"Vậy, khi Giê-hô-va Ðức Chúa Trời ngươi đã ban sự bình an cho, và giải cứu ngươi khỏi mọi kẻ thù nghịch vây phủ ngươi trong xứ mà #Giê-hô-va Ðức Chúa Trời ngươi ban cho ngươi nhận lấy làm sản nghiệp, thì phải xóa sự ghi nhớ A-ma-léc khỏi dưới trời. Chớ hề quên!"

@@ -1,5 +1,5 @@
 "E Pedro e João estavam subindo juntos para o Templo à hora da oração (a nona [hora] );"
-"E um certo homem estava sendo trazido, que era aleijado desde o ventre de sua mãe, ao qual todo dia colocavam à porta do Templo, chamada [Porta] Formosa, para pedir esmola aos que entravam no Templo."
+"E um certo homem estava sendo trazido, que era aleijado desde o ventre de sua mãe, ao qual todo #dia colocavam à porta do Templo, chamada [Porta] Formosa, para pedir esmola aos que entravam no Templo."
 "O qual, ao ver Pedro e João perto de entrarem no Templo, ele [lhes] pediu uma esmola."
 "E Pedro, olhando fixamente para ele, junto com João, disse
 "E [o aleijado] ficou prestando atenção neles, esperando receber deles alguma coisa."
@@ -10,7 +10,7 @@
 "E eles o reconheceram, que este era o que se sentava [para pedir] esmola perto da porta formosa do Templo; e ficaram cheios de surpresa e espanto, por causa do que tinha lhe acontecido."
 "E o aleijado que tinha sido curado, tendo se apegado a Pedro e a João, todo o povo correu maravilhado a eles ao alpendre, que se chama de Salomão."
 "E Pedro, vendo [isto] , respondeu ao povo
-"O Deus de Abraão, e de Isaque, e de Jacó, o Deus de nossos pais, glorificou a seu filho Jesus, ao qual vós entregastes, e diante do rosto de Pilatos o negastes, [mesmo] ele julgando que fosse solto."
+"O Deus de Abraão, e de Isaque, e de Jacó, o Deus de nossos pais, glorificou a seu filho Jesus, #ao qual vós entregastes, e diante do rosto de Pilatos o negastes, [mesmo] ele julgando que fosse solto."
 "Mas vós negastes ao santo e justo, e pedistes que um homem assassino fosse vos dado."
 "E vós matastes ao Príncipe da vida, ao qual Deus ressuscitou dos mortos, do que nós somos testemunhas."
 "E pela fé em seu nome, o nome dele deu firmeza a este, que vedes e conheceis; e a fé que é por meio dele deu a este perfeita saúde na presença de todos vós."

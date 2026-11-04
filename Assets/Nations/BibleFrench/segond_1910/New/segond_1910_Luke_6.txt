@@ -14,7 +14,7 @@
 "Simon, qu'il nomma Pierre; André, son frère; Jacques; Jean; Philippe; Barthélemy;"
 "Matthieu; Thomas; Jacques, fils d'Alphée; Simon, appelé le zélote;"
 "Jude, fils de Jacques; et Judas Iscariot, qui devint traître."
-"Il descendit avec eux, et s'arrêta sur un plateau, où se trouvaient une foule de ses disciples et une multitude de peuple de toute la Judée, de Jérusalem, et de la contrée maritime de Tyr et de Sidon. Ils étaient venus pour l'entendre, et pour être guéris de leurs maladies."
+"Il descendit avec eux, et s'arrêta sur un plateau, où se trouvaient une foule de ses disciples et une multitude de peuple de toute la Judée, #de Jérusalem, et de la contrée maritime de Tyr et de Sidon. Ils étaient venus pour l'entendre, et pour être guéris de leurs maladies."
 "Ceux qui étaient tourmentés par des esprits impurs étaient guéris."
 "Et toute la foule cherchait à le toucher, parce qu'une force sortait de lui et les guérissait tous."
 "Alors Jésus, levant les yeux sur ses disciples, dit
@@ -45,5 +45,5 @@
 "L'homme bon tire de bonnes choses du bon trésor de son coeur, et le méchant tire de mauvaises choses de son mauvais trésor; car c'est de l'abondance du coeur que la bouche parle."
 "Pourquoi m'appelez-vous Seigneur, Seigneur! et ne faites-vous pas ce que je dis?"
 "Je vous montrerai à qui est semblable tout homme qui vient à moi, entend mes paroles, et les met en pratique."
-"Il est semblable à un homme qui, bâtissant une maison, a creusé, creusé profondément, et a posé le fondement sur le roc. Une inondation est venue, et le torrent s'est jeté contre cette maison, sans pouvoir l'ébranler, parce qu'elle était bien bâtie."
+"Il est semblable à un homme qui, bâtissant une maison, a creusé, creusé profondément, et a posé le fondement sur le roc. #Une inondation est venue, et le torrent s'est jeté contre cette maison, sans pouvoir l'ébranler, parce qu'elle était bien bâtie."
 "Mais celui qui entend, et ne met pas en pratique, est semblable à un homme qui a bâti une maison sur la terre, sans fondement. Le torrent s'est jeté contre elle

@@ -1,5 +1,5 @@
 "Y Pedro y Juan subían juntos al templo a la hora novena, la de la oración."
-"Y un hombre que era cojo desde el vientre de su madre, era traído; al cual ponían cada día a la puerta del templo que se llama la Hermosa, para que pidiese limosna de los que entraban en el templo."
+"Y un hombre que era cojo desde el vientre de su madre, era traído; al cual ponían cada día a la #puerta del templo que se llama la Hermosa, para que pidiese limosna de los que entraban en el templo."
 "Éste, como vio a Pedro y a Juan que iban a entrar en el templo, les rogaba que le diesen limosna."
 "Y Pedro, con Juan, fijando en él los ojos, [le] dijo
 "Entonces él estuvo atento a ellos, esperando recibir de ellos algo."
@@ -10,7 +10,7 @@
 "Y sabían que él era el que se sentaba a pedir limosna a la puerta del templo, la Hermosa; y fueron llenos de asombro y de espanto por lo que le había sucedido."
 "Y teniendo asidos a Pedro y a Juan el cojo que había sido sanado, todo el pueblo, atónito, concurrió a ellos al pórtico que se llama de Salomón."
 "Y viendo esto Pedro, respondió al pueblo
-"El Dios de Abraham, de Isaac, y de Jacob; el Dios de nuestros padres ha glorificado a su Hijo Jesús, al cual vosotros entregasteis, y negasteis delante de Pilato, cuando éste había determinado dejarle en libertad."
+"El Dios de Abraham, de Isaac, y de Jacob; el Dios de nuestros padres ha glorificado a su Hijo #Jesús, al cual vosotros entregasteis, y negasteis delante de Pilato, cuando éste había determinado dejarle en libertad."
 "Mas vosotros al Santo y al Justo negasteis, y pedisteis que se os diese un hombre homicida;"
 "y matasteis al Autor de la vida, al cual Dios ha resucitado de los muertos; de lo cual nosotros somos testigos."
 "Y por la fe en su nombre, a éste, que vosotros veis y conocéis, en su nombre le ha confirmado
@@ -18,7 +18,7 @@
 "Pero Dios ha cumplido así lo que había antes anunciado por boca de todos sus profetas, que Cristo había de padecer."
 "Así que, arrepentíos y convertíos, para que sean borrados vuestros pecados; para que vengan tiempos de refrigerio de la presencia del Señor,"
 "y Él envíe a Jesucristo, que os fue antes predicado;"
-"a quien ciertamente es necesario que el cielo reciba hasta los tiempos de la restauración de todas las cosas, de que habló Dios por boca de todos sus santos profetas que han sido desde el principio del mundo."
+"a quien ciertamente es necesario que el cielo reciba hasta los tiempos de la restauración de todas las cosas, de #que habló Dios por boca de todos sus santos profetas que han sido desde el principio del mundo."
 "Porque Moisés en verdad dijo a los padres
 "Y será, que toda alma que no oyere a aquel profeta, será desarraigada del pueblo."
 "Sí, y todos los profetas desde Samuel y en adelante, cuantos han hablado, también han predicho estos días."

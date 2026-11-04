@@ -38,6 +38,6 @@
 "Estes registrados por [seus] nomes foram os líderes de suas famílias, e que foram multiplicados muito nas casas de seus pais."
 "E chegaram até a entrada de Gedor, até o oriente do vale, buscando pastos para suas ovelhas."
 "E acharam pastos férteis e bons, e a terra era espaçosa, quieta, e descansada, porque os de Cam tinham habitado ali antes."
-"Estes, pois, que foram escritos por seus nomes, vieram nos dias de Ezequias rei de Judá, e derrubaram as tendas e habitações dos que se acharam ali, e os destruíram até hoje; e habitaram ali em seu lugar, porque ali havia pastos para suas ovelhas."
+"Estes, pois, que foram escritos por seus nomes, vieram nos dias de Ezequias rei de Judá, e derrubaram as tendas e habitações dos #que se acharam ali, e os destruíram até hoje; e habitaram ali em seu lugar, porque ali havia pastos para suas ovelhas."
 "Também [alguns] deles, quinhentos homens dos filhos de Simeão, se foram ao monte de Seir, levando como capitães a Pelatias, Nearias, Refaías, e a Uziel, filhos de Isi;"
 "E mataram os que haviam restado dos amalequitas, e habitaram ali até hoje."

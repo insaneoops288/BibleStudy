@@ -1,4 +1,4 @@
-"Salomon s'allia par mariage avec Pharaon, roi d'Egypte. Il prit pour femme la fille de Pharaon, et il l'amena dans la ville de David, jusqu'à ce qu'il eût achevé de bâtir sa maison, la maison de l'Eternel, et le mur d'enceinte de Jérusalem."
+"Salomon s'allia par mariage avec Pharaon, roi d'Egypte. Il prit pour femme la fille de Pharaon, et il l'amena dans la ville #de David, jusqu'à ce qu'il eût achevé de bâtir sa maison, la maison de l'Eternel, et le mur d'enceinte de Jérusalem."
 "Le peuple ne sacrifiait que sur les hauts lieux, car jusqu'à cette époque il n'avait point été bâti de maison au nom de l'Eternel."
 "Salomon aimait l'Eternel, et suivait les coutumes de David, son père. Seulement c'était sur les hauts lieux qu'il offrait des sacrifices et des parfums."
 "Le roi se rendit à Gabaon pour y sacrifier, car c'était le principal des hauts lieux. Salomon offrit mille holocaustes sur l'autel."
@@ -12,7 +12,7 @@
 "voici, j'agirai selon ta parole. Je te donnerai un coeur sage et intelligent, de telle sorte qu'il n'y aura eu personne avant toi et qu'on ne verra jamais personne de semblable à toi."
 "Je te donnerai, en outre, ce que tu n'as pas demandé, des richesses et de la gloire, de telle sorte qu'il n'y aura pendant toute ta vie aucun roi qui soit ton pareil."
 "Et si tu marches dans mes voies, en observant mes lois et mes commandements, comme l'a fait David, ton père, je prolongerai tes jours."
-"Salomon s'éveilla. Et voilà le songe. Salomon revint à Jérusalem, et se présenta devant l'arche de l'alliance de l'Eternel. Il offrit des holocaustes et des sacrifices d'actions de grâces, et il fit un festin à tous ses serviteurs."
+"Salomon s'éveilla. Et voilà le songe. Salomon revint à Jérusalem, et se présenta devant l'arche de l'alliance de l'Eternel. Il #offrit des holocaustes et des sacrifices d'actions de grâces, et il fit un festin à tous ses serviteurs."
 "Alors deux femmes prostituées vinrent chez le roi, et se présentèrent devant lui."
 "L'une des femmes dit
 "Trois jours après, cette femme est aussi accouchée. Nous habitions ensemble, aucun étranger n'était avec nous dans la maison, il n'y avait que nous deux."

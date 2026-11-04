@@ -1,6 +1,6 @@
 "Entonces todo Israel se juntó a David en Hebrón, diciendo
 "Y además antes de ahora, aún mientras Saúl reinaba, tú sacabas y metías a Israel. También Jehová tu Dios te ha dicho
-"Y vinieron todos los ancianos de Israel al rey en Hebrón, y David hizo con ellos pacto delante de Jehová; y ungieron a David por rey sobre Israel, conforme a la palabra de Jehová por mano de Samuel."
+"Y vinieron todos los ancianos de Israel al rey en Hebrón, y David hizo con ellos pacto delante de Jehová; #y ungieron a David por rey sobre Israel, conforme a la palabra de Jehová por mano de Samuel."
 "Entonces se fue David con todo Israel a Jerusalén, la cual es Jebús; donde estaban los jebuseos que eran los habitantes de aquella tierra."
 "Y los moradores de Jebús dijeron a David
 "Y David había dicho
@@ -15,11 +15,11 @@
 "Y tres de los treinta principales descendieron a la peña a David, a la cueva de Adulam, estando el campamento de los filisteos en el valle de Refaim."
 "Y David estaba entonces en la fortaleza, y el destacamento de los filisteos estaba en Belén."
 "David deseó entonces, y dijo
-"Y aquellos tres irrumpieron por el campamento de los filisteos, y sacaron agua del pozo de Belén, que está a la puerta, y tomaron y la trajeron a David; mas él no la quiso beber, sino que la derramó a Jehová, y dijo
+"Y aquellos tres irrumpieron por el campamento de los filisteos, y sacaron agua del pozo de Belén, que está a la puerta, #y tomaron y la trajeron a David; mas él no la quiso beber, sino que la derramó a Jehová, y dijo
 "Guárdeme mi Dios de hacer esto
 "Y Abisai, hermano de Joab, era cabeza de los tres, el cual blandió su lanza contra trescientos, a los cuales mató; y tuvo renombre entre los tres."
 "De los tres fue más ilustre que los otros dos, pues era el capitán de ellos; mas no llegó a los tres primeros."
-"Benaía hijo de Joiada, hijo de un hombre valiente, de grandes hazañas, de Cabseel; que mató a dos hombres de Moab [que eran] fieros como leones; también descendió y mató a un león dentro de un foso, en tiempo de nieve."
+"Benaía hijo de Joiada, hijo de un hombre valiente, de grandes hazañas, de Cabseel; que mató a dos hombres de Moab #[que eran] fieros como leones; también descendió y mató a un león dentro de un foso, en tiempo de nieve."
 "El mismo venció a un egipcio, hombre de cinco codos de estatura
 "Esto hizo Benaía hijo de Joiada, y fue nombrado entre los tres valientes."
 "Y fue el más distinguido de los treinta, mas no llegó a los tres primeros. A éste puso David en su consejo."

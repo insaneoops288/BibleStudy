@@ -2,7 +2,7 @@
 "Et Pharaon se mit en colère contre ses deux officiers, contre le chef intendant et le chef boulanger;"
 "Et il les fit mettre en prison dans la maison du chef des gardes, dans la forteresse, lieu où Joseph était enfermé."
 "Et le chef des gardes établit Joseph auprès d'eux, et il les servait; et ils furent quelque temps en prison."
-"Et tous les deux eurent un songe, chacun le sien, dans une même nuit, chacun un songe d'une signification particulière, tant l'intendant que le boulanger du roi d'Égypte qui étaient enfermés dans la forteresse."
+"Et tous les deux eurent un songe, chacun le sien, dans une même nuit, chacun un songe d'une #signification particulière, tant l'intendant que le boulanger du roi d'Égypte qui étaient enfermés dans la forteresse."
 "Et Joseph, venant vers eux le matin, les regarda, et voici, ils étaient tristes."
 "Et il interrogea ces officiers de Pharaon, qui étaient avec lui en prison dans la maison de son maître, et leur dit
 "Et ils lui répondirent

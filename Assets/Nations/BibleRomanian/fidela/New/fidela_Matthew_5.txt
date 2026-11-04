@@ -16,7 +16,7 @@
 "Astfel să lumineze lumina voastră înaintea oamenilor, ca să vadă faptele voastre bune și să îl glorifice pe Tatăl vostru care este în cer."
 "Să nu gândiți că am venit să distrug legea sau profeții; nu am venit să distrug, ci să împlinesc."
 "Fiindcă adevărat vă spun
-"De aceea, oricine va strica una dintre cele mai mici din aceste porunci și va învăța pe oameni astfel, va fi chemat cel mai mic în împărăția cerului; dar oricine le va împlini și [îi] va învăța [pe alții], acela va fi chemat mare în împărăția cerului."
+"De aceea, oricine va strica una dintre cele mai mici din aceste porunci și va învăța pe oameni astfel, va fi chemat cel mai #mic în împărăția cerului; dar oricine le va împlini și [îi] va învăța [pe alții], acela va fi chemat mare în împărăția cerului."
 "Căci vă spun că
 "Ați auzit că s-a spus de către cei din vechime
 "Dar eu vă spun că

@@ -2,7 +2,7 @@
 "Xin các ông hãy hỏi hết thảy người Si-chem, mà nói rằng
 "Các cậu người nói giùm người, đem các lời nầy thuật lại cho hết thảy dân Si-chem nghe, và lòng chúng nghiêng về A-bi-mê-léc, vì chúng nói rằng
 "Chúng bèn ban cho người bảy mươi miếng bạc của miếu Ba-anh-Bê-rít; A-bi-mê-léc lấy bạc đó mướn những kẻ bại hoại hoang đàng đi theo mình."
-"Ðoạn, người đi đến nhà cha mình tại Oùp-ra, và trên một hòn đá, giết các anh em mình, tức những con trai của Giê-ru-ba-anh, số là bảy mươi người. Chỉ một mình Giô-tham, con út của Giê-ru-ba-anh, còn sống, bởi vì chàng ẩn mình."
+"Ðoạn, người đi đến nhà cha mình tại Oùp-ra, và trên một hòn đá, giết các anh em mình, tức những con trai #của Giê-ru-ba-anh, số là bảy mươi người. Chỉ một mình Giô-tham, con út của Giê-ru-ba-anh, còn sống, bởi vì chàng ẩn mình."
 "Bấy giờ, hết thảy những người Si-chem nhóm hiệp với cả họ Mi-lô, đi đến cây dẻ bộp bia-đá ở tại Si-chem, mà tôn A-bi-mê-léc làm vua."
 "Giô-tham hay đặng điều đó, bèn đi lên đứng trên chót núi Ga-ri-xim, cất tiếng la rằng
 "Các cây cối đều đi đặng xức dầu cho một vua cai trị chúng nó. Chúng nó nói cùng cây ô-li-ve rằng
@@ -15,7 +15,7 @@
 "Gai góc đáp cùng các cây cối rằng
 "Bây giờ, có phải các ngươi cư xử chơn thật và công bình mà tôn A-bi-mê-léc làm vua chăng? Các ngươi có hậu đãi Giê-ru-ba-anh và nhà người chăng? Có báo đáp điều người đã làm cho các ngươi chăng?"
 "Vì cha ta có tranh chiến cho các ngươi, liều mình mà giải cứu các ngươi khỏi tay dân Ma-đi-an."
-"Nhưng ngày nay các ngươi lại dấy lên cùng nhà cha ta, đã giết trên một hòn đá các con trai người, số là bảy mươi người, và lấy A-bi-mê-léc, con trai của con đòi người, mà tôn lên làm vua của dân Si-chem, vì hắn là anh em các ngươi."
+"Nhưng ngày nay các ngươi lại dấy lên cùng nhà cha ta, đã giết trên một hòn đá các con trai người, số là bảy mươi #người, và lấy A-bi-mê-léc, con trai của con đòi người, mà tôn lên làm vua của dân Si-chem, vì hắn là anh em các ngươi."
 "Vậy, ví bằng ngày nay các ngươi có lấy sự chơn thật và chánh trực mà đãi Giê-ru-ba-anh và nhà người, thì A-bi-mê-léc khá vui mừng nơi các ngươi, và các ngươi hãy vui mừng nơi hắn!"
 "Bằng chẳng, nguyện lửa ra từ A-bi-mê-léc thiêu nuốt những người Si-chem cùng họ Mi-lô; và nguyện lửa ra từ những người Si-chem cùng họ Mi-lô mà thiêu nuốt A-bi-mê-léc!"
 "Ðoạn, Giô-tham trốn, đi ẩn náu tại Bê-rê, và ở đó, vì sợ A-bi-mê-léc, anh mình."
@@ -46,7 +46,7 @@
 "Nghe tin nầy, hết thảy dân sự ở tháp Si-chem đều rút về trong đồn của miếu thần Bê-rít."
 "Người ta đem tin cho A-bi-mê-léc hay rằng hết thảy dân sự tháp Si-chem đều hiệp lại tại trong đồn."
 "A-bi-mê-léc bèn đi lên núi Sanh-môn với cả đạo binh theo mình. Người cầm lấy nơi tay một cái rìu chặt một nhánh cây, đỡ nó lên và vác trên vai; rồi nói cùng quân theo mình rằng
-"Vậy, mỗi người chặt một nhánh cây, rồi đi theo A-bi-mê-léc. Họ dựng sắp nhánh cây đó nơi đồn, châm lửa vào, và thiêu đồn cùng những người ở trong. Như vậy hết thảy những người ở tháp Si-chem, nam và nữ, đều chết, số ước một ngàn."
+"Vậy, mỗi người chặt một nhánh cây, rồi đi theo A-bi-mê-léc. Họ dựng sắp nhánh cây đó nơi đồn, châm lửa vào, và thiêu đồn #cùng những người ở trong. Như vậy hết thảy những người ở tháp Si-chem, nam và nữ, đều chết, số ước một ngàn."
 "A-bi-mê-léc liền đi đánh Thê-bết, vây và chiếm lấy nó."
 "Giữa thành phố có một cái tháp vững bền, hết thảy dân sự của thành, nam và nữ, đều chạy vô núp tại đó, và đóng cửa lại, rồi lên trên đỉnh tháp."
 "A-bi-mê-léc tấn tới tháp, xông hãm nó, và đi lại gần cửa đặng phóng hỏa."

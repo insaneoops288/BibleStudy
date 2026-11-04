@@ -10,7 +10,7 @@
 "Mutta kuhunka kaupunkiin te tulette sisälle, ja ei he teitä ota vastaan, niin menkäät ulos sen kaduille, ja sanokaat
 "Tomunkin, joka teidän kaupungistanne tarttui meihin, me pudistamme teille
 "Minä sanon teille
-"Voi sinua Koratsin! voi sinua Betsaida! sillä jos Tyrossa ja Sidonissa olisivat senkaltaiset voimalliset työt tehdyt kuin teidän tykönänne ovat tehdyt, niin he olisivat jo aikaa säkissä ja tuhassa istuneet ja parannuksen tehneet."
+"Voi sinua Koratsin! voi sinua Betsaida! sillä jos Tyrossa ja Sidonissa olisivat senkaltaiset voimalliset työt tehdyt kuin #teidän tykönänne ovat tehdyt, niin he olisivat jo aikaa säkissä ja tuhassa istuneet ja parannuksen tehneet."
 "Kuitenkin Tyrolle ja Sidonille pitää huokiampi tuomiolle oleman kuin teille."
 "Ja sinä Kapernaum, joka olet taivaasen asti korotettu, sinä pitää hamaan helvettiin alas sysättämän."
 "Joka teitä kuulee, se minua kuulee, ja joka teidät katsoo ylön, se katsoo ylön minun; mutta joka minun katsoo ylön, hän katsoo ylön sen, joka minun lähetti."

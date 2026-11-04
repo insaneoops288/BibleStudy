@@ -9,7 +9,7 @@
 "O Sion, ti që sjell lajmin e mirë, ngjitu mbi një mal të lartë! O Jeruzalem, ti që sjell lajmin e mirë, ngrije zërin me forcë! Ngrije zërin, mos ki frikë! Thuaju qyteteve të Judës
 "Ja, Perëndia, Zoti, vjen i fuqishëm dhe krahu i tij sundon për të. Ja, e ka shpërblimin me vete, dhe shpërblimi i tij e pararend."
 "Ai do të kullosë kopenë e tij si një bari, do t'i mbledhë qengjat me krahun e tij dhe do t'i mbajë në gji të tij, dhe do të udhëheqë me ëmbëlsi dhe kujdes delet që kanë të vegjëlit e tyre."
-"Kush i ka matur ujëat me gropën e dorës, kush ka marrë përmasat e qiellit me pëllëmbë, kush ka mbledhur pluhurin e tokës në një masë apo ka peshuar malet me një peshore dhe kodrat e tyre me një kandar?"
+"Kush i ka matur ujëat me gropën e dorës, kush ka marrë përmasat e qiellit me pëllëmbë, kush ka mbledhur pluhurin #e tokës në një masë apo ka peshuar malet me një peshore dhe kodrat e tyre me një kandar?"
 "Kush i ka marrë përmasat e Frymës së Zotit, ose si këshilltari i tij i ka dhënë mësime?"
 "Me kë është konsultuar, që t'i jepte mend, t'i mësonte shtegun e drejtësisë, t'i jepte dituri dhe t'i tregonte rrugën e arsyes?"
 "Ja, kombet janë si një pikë ujë në një kovë, konsiderohen si pluhuri i një peshoreje; ja, ai i ngre ishujt si të ishin një send shumë i vogël."

@@ -3,7 +3,7 @@
 "i Moabiti ebbero grande spavento del popolo; perciocchè era in gran numero; talchè i Moabiti erano in angoscia per tema dei figliuoli d’Israele."
 "Perciò i Moabiti dissero agli Anziani di Madian
 "Ed egli mandò ambasciatori a Balaam, figliuolo di Beor, in Petor, città posta in sul Fiume, ch’era la patria d’esso, per chiamarlo, dicendo
-"ora dunque vieni, ti prego, e maledicimi questo popolo; perciocchè egli è troppo potente per me; forse potrò fare in maniera che noi lo sconfiggeremo, e che io lo scaccerò dal paese; perciocchè io so che chi tu benedici è benedetto, e maledetto chi tu maledici."
+"ora dunque vieni, ti prego, e maledicimi questo popolo; perciocchè egli è troppo potente per me; forse potrò fare in maniera che noi lo #sconfiggeremo, e che io lo scaccerò dal paese; perciocchè io so che chi tu benedici è benedetto, e maledetto chi tu maledici."
 "E gli Anziani di Moab, e gli Anziani di Madian, andarono, avendo in mano gl’indovinamenti. E, giunti a Balaam, gli rapportarono le parole di Balac."
 "Ed egli disse loro
 "E Iddio venne a Balaam, e gli disse
@@ -20,7 +20,7 @@
 "E Iddio venne di notte a Balaam, e gli disse
 "Balaam adunque si levò la mattina, e sellò la sua asina, e andò co’ principi di Moab."
 "E l’ira di Dio si accese, perciocchè egli andava; e l’Angelo del Signore si presentò in su la strada, per contrariarlo. Or egli cavalcava la sua asina, e avea seco due suoi fanti."
-"E l’asina vide l’Angelo del Signore che stava in su la strada, con la sua spada nuda in mano; e l’asina si rivolse dalla strada, e andava per li campi. E Balaam percosse l’asina, per farla ritornar nella strada."
+"E l’asina vide l’Angelo del Signore che stava in su la strada, con la sua spada nuda in mano; e #l’asina si rivolse dalla strada, e andava per li campi. E Balaam percosse l’asina, per farla ritornar nella strada."
 "E l’Angelo del Signore si fermò in un sentier di vigne, dove era una chiusura di muro secco di qua e di là."
 "E l’asina, vedendo l’Angelo del Signore, si strinse contro al muro, e stringeva il piè di Balaam al muro; laonde egli da capo la percosse."
 "E l’Angelo del Signore passò di nuovo oltre, e si fermò in un luogo stretto, ove non v’era spazio da volgersi nè a destra nè a sinistra."
@@ -28,7 +28,7 @@
 "Allora il Signore aperse la bocca all’asina; ed ella disse a Balaam
 "E Balaam disse all’asina
 "E l’asina disse a Balaam
-"Allora il Signore aperse gli occhi a Balaam; ed egli vide l’Angelo del Signore, che stava in su la strada, avendo in mano la sua spada nuda. E Balaam si chinò, e si prostese in terra sopra la sua faccia."
+"Allora il Signore aperse gli occhi a Balaam; ed egli vide l’Angelo del Signore, che stava in su la strada, avendo #in mano la sua spada nuda. E Balaam si chinò, e si prostese in terra sopra la sua faccia."
 "E l’Angelo del Signore gli disse
 "Ma l’asina mi ha veduto; e, veggendomi, si è rivolta già tre volte; forse si è ella rivolta per tema di me; perciocchè già avrei ucciso te, e lei avrei lasciata vivere."
 "E Balaam disse all’Angelo del Signore

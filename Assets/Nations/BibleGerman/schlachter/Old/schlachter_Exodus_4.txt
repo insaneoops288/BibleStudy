@@ -6,7 +6,7 @@
 "Und der HERR sprach weiter zu ihm
 "Und er sprach
 "Wenn sie nun dir nicht glauben und nicht auf das erste Zeichen hören, so werden sie doch der Stimme des andern Zeichens glauben."
-"Wenn sie aber auch diesem Zeichen nicht glauben, so nimm Wasser aus dem Fluß und gieß es auf das trockene Land, so wird das Wasser, das du aus dem Flusse genommen hast, auf dem trockenen Lande zu Blut werden."
+"Wenn sie aber auch diesem Zeichen nicht glauben, so nimm Wasser aus dem Fluß und gieß es auf das trockene #Land, so wird das Wasser, das du aus dem Flusse genommen hast, auf dem trockenen Lande zu Blut werden."
 "Mose aber sprach zum HERRN
 "Da sprach der HERR zu ihm
 "So geh nun hin

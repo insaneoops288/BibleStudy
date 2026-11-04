@@ -6,7 +6,7 @@
 "En die HERE het verder vir hom gesê
 "En Hy sê
 "En as hulle jou nie glo en aan die eerste teken geen gehoor gee nie, dan sal hulle die laaste teken glo."
-"En as hulle ook hierdie twee tekens nie glo en na jou stem nie luister nie, neem dan van die Nyl se water en giet dit op die droë grond uit; dan sal die water wat jy uit die Nyl neem, op die droë grond bloed word."
+"En as hulle ook hierdie twee tekens nie glo en na jou stem nie luister nie, neem dan van die Nyl se water en #giet dit op die droë grond uit; dan sal die water wat jy uit die Nyl neem, op die droë grond bloed word."
 "Toe sê Moses aan die HERE
 "En die HERE antwoord hom
 "Gaan dan nou heen, en Ek sal met jou mond wees en jou leer wat jy moet sê."

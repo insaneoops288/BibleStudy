@@ -4,7 +4,7 @@
 "I Saul powiedział do swego giermka
 "A gdy jego giermek zobaczył, że Saul umarł, rzucił się i on na swój miecz i umarł razem z nim."
 "Tego dnia umarli więc razem Saul, jego trzej synowie, jego giermek oraz wszyscy jego ludzie."
-"A gdy Izraelici, którzy mieszkali po tamtej stronie doliny i którzy mieszkali za Jordanem, zobaczyli, że Izraelici uciekali i że Saul i jego synowie umarli, opuścili miasta i uciekli. Przyszli więc Filistyni i mieszkali w nich."
+"A gdy Izraelici, którzy mieszkali po tamtej stronie doliny i którzy mieszkali za Jordanem, zobaczyli, że Izraelici uciekali i #że Saul i jego synowie umarli, opuścili miasta i uciekli. Przyszli więc Filistyni i mieszkali w nich."
 "Kiedy nazajutrz Filistyni przyszli, aby złupić zabitych, znaleźli Saula i jego trzech synów leżących na górze Gilboa."
 "Odcięli mu głowę, zdarli z niego zbroję i posłali po całej ziemi filistyńskiej, aby obwieścić o tym w świątyni swoich bożków i wśród ludu."
 "Jego zbroję położyli w świątyni Asztarty, a jego ciało przybili do muru Bet-Szean."

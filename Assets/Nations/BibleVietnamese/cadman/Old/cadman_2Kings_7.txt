@@ -5,7 +5,7 @@
 "Vậy, lúc chạng vạng, các người phung chổi dậy đặng đi đến trại quân của sân Sy-ri; khi tới đầu trại quân, họ chẳng thấy ai ở đó hết."
 "Vì Chúa đã khiến trại quân Sy-ri nghe tiếng xe, ngựa và tiếng đạo binh lớn; nên nỗi dân Sy-ri nói với nhau rằng
 "Chúng liền chổi dậy, chạy trốn lúc chạng vạng, bỏ các trại, ngựa, và lừa mình, để trại quân mình như cũ; chúng trốn đặng cứu mạng sống mình."
-"Khi các người phung kia đến đầu trại quân, bèn vào trong một trại, ăn và uống; đoạn họ lấy bạc, vàng, và quần áo đem đi giấu. Chúng trở lại, vào trong một trại khác, ở đó, cũng lấy những của cải mà đem đi giấu luôn."
+"Khi các người phung kia đến đầu trại quân, bèn vào trong một trại, ăn và uống; đoạn họ lấy bạc, vàng, và quần áo #đem đi giấu. Chúng trở lại, vào trong một trại khác, ở đó, cũng lấy những của cải mà đem đi giấu luôn."
 "Bấy giờ, họ bèn nói với nhau rằng
 "Chúng liền đi, gọi quân canh cửa thành, thuật cho họ rằng
 "Quân canh cửa bèn gọi người đi báo tin ấy vào trong đền vua."

@@ -20,6 +20,6 @@
 "Y mandaron á los hijos de Benjamín, diciendo
 "Y estad atentos
 "Y cuando vinieren los padres de ellas ó sus hermanos á demandárnoslo, nosotros les diremos
-"Y los hijos de Benjamín lo hicieron así; pues tomaron mujeres conforme á su número, pillando de las que danzaban; y yéndose luego, tornáronse á su heredad, y reedificaron las ciudades, y habitaron en ellas."
+"Y los hijos de Benjamín lo hicieron así; pues tomaron mujeres conforme á su número, pillando de las #que danzaban; y yéndose luego, tornáronse á su heredad, y reedificaron las ciudades, y habitaron en ellas."
 "Entonces los hijos de Israel se fueron también de allí, cada uno á su tribu y á su familia, saliendo de allí cada uno á su heredad."
 "En estos días no había rey en Israel

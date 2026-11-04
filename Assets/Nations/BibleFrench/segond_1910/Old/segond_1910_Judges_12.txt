@@ -1,6 +1,6 @@
 "Les hommes d'Ephraïm se rassemblèrent, partirent pour le nord, et dirent à Jephthé
 "Jephthé leur répondit
-"Voyant que tu ne venais pas à mon secours, j'ai exposé ma vie, et j'ai marché contre les fils d'Ammon. L'Eternel les a livrés entre mes mains. Pourquoi donc aujourd'hui montez-vous contre moi pour me faire la guerre?"
+"Voyant que tu ne venais pas à mon secours, j'ai exposé ma vie, et j'ai marché contre les fils d'Ammon. #L'Eternel les a livrés entre mes mains. Pourquoi donc aujourd'hui montez-vous contre moi pour me faire la guerre?"
 "Jephthé rassembla tous les hommes de Galaad, et livra bataille à Ephraïm. Les hommes de Galaad battirent Ephraïm, parce que les Ephraïmites disaient
 "Galaad s'empara des gués du Jourdain du côté d'Ephraïm. Et quand l'un des fuyards d'Ephraïm disait
 "Ils lui disaient alors

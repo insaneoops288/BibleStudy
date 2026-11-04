@@ -5,7 +5,7 @@
 "Jéthro, beau-père de Moïse, avec les fils et la femme de Moïse, vint au désert où il campait, à la montagne de Dieu."
 "Il fit dire à Moïse
 "Moïse sortit au-devant de son beau-père, il se prosterna, et il le baisa. Ils s'informèrent réciproquement de leur santé, et ils entrèrent dans la tente de Moïse."
-"Moïse raconta à son beau-père tout ce que l'Eternel avait fait à Pharaon et à l'Egypte à cause d'Israël, toutes les souffrances qui leur étaient survenues en chemin, et comment l'Eternel les avait délivrés."
+"Moïse raconta à son beau-père tout ce que l'Eternel avait fait à Pharaon et à l'Egypte à cause #d'Israël, toutes les souffrances qui leur étaient survenues en chemin, et comment l'Eternel les avait délivrés."
 "Jéthro se réjouit de tout le bien que l'Eternel avait fait à Israël, et de ce qu'il l'avait délivré de la main des Egyptiens."
 "Et Jéthro dit
 "Je reconnais maintenant que l'Eternel est plus grand que tous les dieux; car la méchanceté des Egyptiens est retombée sur eux."
@@ -18,8 +18,8 @@
 "Tu t'épuiseras toi-même, et tu épuiseras ce peuple qui est avec toi; car la chose est au-dessus de tes forces, tu ne pourras pas y suffire seul."
 "Maintenant écoute ma voix; je vais te donner un conseil, et que Dieu soit avec toi! Sois l'interprète du peuple auprès de Dieu, et porte les affaires devant Dieu."
 "Enseigne-leur les ordonnances et les lois; et fais-leur connaître le chemin qu'ils doivent suivre, et ce qu'ils doivent faire."
-"Choisis parmi tout le peuple des hommes capables, craignant Dieu, des hommes intègres, ennemis de la cupidité; établis-les sur eux comme chefs de mille, chefs de cent, chefs de cinquante et chefs de dix."
-"Qu'ils jugent le peuple en tout temps; qu'ils portent devant toi toutes les affaires importantes, et qu'ils prononcent eux-mêmes sur les petites causes. Allège ta charge, et qu'ils la portent avec toi."
+"Choisis parmi tout le peuple des hommes capables, craignant Dieu, des hommes intègres, ennemis de la cupidité; établis-les #sur eux comme chefs de mille, chefs de cent, chefs de cinquante et chefs de dix."
+"Qu'ils jugent le peuple en tout temps; qu'ils portent devant toi toutes les affaires importantes, et qu'ils #prononcent eux-mêmes sur les petites causes. Allège ta charge, et qu'ils la portent avec toi."
 "Si tu fais cela, et que Dieu te donne des ordres, tu pourras y suffire, et tout ce peuple parviendra heureusement à sa destination."
 "Moïse écouta la voix de son beau-père, et fit tout ce qu'il avait dit."
 "Moïse choisit des hommes capables parmi tout Israël, et il les établit chefs du peuple, chefs de mille, chefs de cent, chefs de cinquante et chefs de dix."

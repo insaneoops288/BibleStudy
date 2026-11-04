@@ -22,7 +22,7 @@
 "Zatem owi mężowie tam się skierowali i stamtąd poszli do Sedomu; zaś Abraham stał jeszcze przed WIEKUISTYM."
 "Potem Abraham podszedł i powiedział
 "Może w tym mieście jest pięćdziesięciu sprawiedliwych; czy ich także zgładzisz i nie przepuścisz temu miejscu z powodu pięćdziesięciu sprawiedliwych, którzy w nim są?"
-"Dalekie to od Ciebie, abyś tą rzecz uczynił, byś zabił sprawiedliwego wraz z niegodziwym; żeby sprawiedliwy był jak niegodziwy; dalekie to od Ciebie. Czyżby sędzia całej ziemi nie spełniał sprawiedliwości?"
+"Dalekie to od Ciebie, abyś tą rzecz uczynił, byś zabił sprawiedliwego wraz z niegodziwym; żeby sprawiedliwy #był jak niegodziwy; dalekie to od Ciebie. Czyżby sędzia całej ziemi nie spełniał sprawiedliwości?"
 "A WIEKUISTY powiedział
 "A Abraham odpowiedział i rzekł
 "Może braknie pięciu do pięćdziesięciu sprawiedliwych; czyżbyś z powodu pięciu zgładził całe miasto? Zatem powiedział

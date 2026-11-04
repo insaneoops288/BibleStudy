@@ -5,7 +5,7 @@
 "Jethro, pra, vjehrri i Moisiut, erdhi te Moisiu bashkë me bijtë e tij dhe bashkëshorten e tij, në shkretëtirë ku ishte vendosur ai, në malin e Perëndisë."
 "I kishte çuar fjalë Moisiut
 "Kështu Moisiu doli për të takuar vjehrrin e tij, u përkul dhe e puthi; pyetën njëri tjetrin për shëndetin e tyre, pastaj hynë në çadër."
-"Atëherë Moisiu i tregoi vjehrrit të tij të gjitha ato që Zoti u kishte bërë Faraonit dhe Egjiptasve për shkak të Izraelit, të gjitha fatkeqësitë e pësuara gjatë udhëtimit, dhe si i kishte shpëtuar Zoti."
+"Atëherë Moisiu i tregoi vjehrrit të tij të gjitha ato që Zoti u kishte bërë Faraonit dhe Egjiptasve #për shkak të Izraelit, të gjitha fatkeqësitë e pësuara gjatë udhëtimit, dhe si i kishte shpëtuar Zoti."
 "Dhe Jethro u gëzua për të gjitha të mirat që Zoti i kishte bërë Izraelit, duke e shpëtuar nga dora e Egjiptasve."
 "Pastaj Jethro i tha
 "Tani e di që Zoti është më i madhi nga tërë perënditë; po, ai ua vërtetoi atyre me sa krenari, kur vepruan me kryelartësi kundër Izraelit""."
@@ -18,8 +18,8 @@
 "Do të rraskapitesh më në fund, ti dhe ky popull që është me ty, sepse detyra që ke marrë përsipër është shumë e vështirë. Nuk mund t'ia dalësh në krye vetëm."
 "Tani dëgjomë; unë do të të jap një këshillë dhe Perëndia qoftë me ty
 "Mësoju atyre statutet dhe ligjet dhe tregohu rrugën nëpër të cilën duhet të ecin dhe atë që duhet të bëjnë."
-"Por zgjidh në mes të të gjithë popullit disa njerëz të aftë që kanë frikë nga Perëndia, njerëz të besuar, që e urrejnë fitimin e padrejtë dhe vendosi mbi popullin si krerë të mijërave, krerë të qindrave, krerë të pesëdhjetrave dhe krerë të dhjetrave."
-"Dhe lejo që të jenë ata që do ta gjykojnë popullin në çdo kohë; ata do të të parashtrojnë çdo problem me rëndësi të madhe, ndërsa për probleme të vogla do të vendosin vetë. Kështu do të jetë më lehtë për ty, dhe ata do ta mbajnë peshën bashkë me ty."
+"Por zgjidh në mes të të gjithë popullit disa njerëz të aftë që kanë frikë nga Perëndia, njerëz të besuar, që e urrejnë #fitimin e padrejtë dhe vendosi mbi popullin si krerë të mijërave, krerë të qindrave, krerë të pesëdhjetrave dhe krerë të dhjetrave."
+"Dhe lejo që të jenë ata që do ta gjykojnë popullin në çdo kohë; ata do të të parashtrojnë çdo problem me rëndësi të madhe, ndërsa #për probleme të vogla do të vendosin vetë. Kështu do të jetë më lehtë për ty, dhe ata do ta mbajnë peshën bashkë me ty."
 "Në qoftë se ti vepron kështu, dhe kështu të urdhëron Perëndia, mund të mbahesh; dhe tërë ky popull do të arrijë faqebardhë në vendin e caktuar për të""."
 "Moisiu e dëgjoi zërin e vjehrrit të tij, dhe bëri gjithçka që i kishte thënë."
 "Kështu Moisiu zgjodhi në tërë Izraelin disa njerëz të aftë dhe i vuri si krerë të popullit

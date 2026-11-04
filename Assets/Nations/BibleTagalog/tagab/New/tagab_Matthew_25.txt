@@ -21,7 +21,7 @@
 "Sinabi sa kaniya ng kaniyang panginoon, Mabuting gawa, mabuti at tapat na alipin
 "At lumapit naman ang tumanggap ng dalawang talento at sinabi, Panginoon, binigyan mo ako ng dalawang talento
 "Sinabi sa kaniya ng kaniyang panginoon, Mabuting gawa, mabuti at tapat na alipin
-"At lumapit naman ang tumanggap ng isang talento at sinabi, Panginoon, nakikilala kita na ikaw ay taong mapagmatigas, na gumagapas ka doon sa hindi mo hinasikan, at nagaani ka doon sa hindi mo sinabugan;"
+"At lumapit naman ang tumanggap ng isang talento at sinabi, Panginoon, nakikilala kita na ikaw ay taong mapagmatigas, #na gumagapas ka doon sa hindi mo hinasikan, at nagaani ka doon sa hindi mo sinabugan;"
 "At ako'y natakot, at ako'y yumaon at aking itinago sa lupa ang talento mo
 "Datapuwa't sumagot ang kaniyang panginoon at sinabi sa kaniya, Ikaw na aliping masama at tamad, nalalaman mong ako'y gumagapas sa hindi ko hinasikan, at nagaani doon sa hindi ko sinabugan;"
 "Gayon pala'y ibinigay mo sana ang aking salapi sa nagsisipangalakal ng salapi, at nang sa aking pagdating ay tinanggap ko sana ang ganang akin pati ng pakinabang."
@@ -41,6 +41,6 @@
 "Kung magkagayo'y sasabihin naman niya sa mga nasa kaliwa, Magsilayo kayo sa akin, kayong mga sinumpa, at pasa apoy na walang hanggan na inihanda sa diablo at sa kaniyang mga anghel
 "Sapagka't ako'y nagutom, at hindi ninyo ako pinakain; ako'y nauhaw, at hindi ninyo ako pinainom;"
 "Ako'y naging isang taga ibang bayan, at hindi ninyo ako pinatuloy; hubad, at hindi ninyo ako pinaramtan; maysakit at nasa bilangguan, at hindi ako dinalaw."
-"Kung magkagayo'y sila nama'y magsisisagot, na magsisipagsabi, Panginoon, kailan ka namin nakitang nagugutom, o nauuhaw, o isang taga ibang bayan, o hubad, o may-sakit, o nasa bilangguan, at hindi ka namin pinaglingkuran?"
+"Kung magkagayo'y sila nama'y magsisisagot, na magsisipagsabi, Panginoon, kailan ka namin nakitang nagugutom, o nauuhaw, o isang #taga ibang bayan, o hubad, o may-sakit, o nasa bilangguan, at hindi ka namin pinaglingkuran?"
 "Kung magkagayo'y sila'y sasagutin niya, na sasabihin, Katotohanang sinasabi ko sa inyo, na yamang hindi ninyo ginawa sa maliliit na ito, ay hindi ninyo ginawa sa akin."
 "At ang mga ito'y mangapaparoon sa walang hanggang kaparusahan

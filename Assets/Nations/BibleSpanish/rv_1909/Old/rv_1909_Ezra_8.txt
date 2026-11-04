@@ -14,7 +14,7 @@
 "Y de los hijos de Bigvai, Utai y Zabud, y con ellos sesenta varones."
 "Y juntélos junto al río que viene á Ahava, y reposamos allí tres días
 "Entonces despaché á Eliezer, y á Ariel, y á Semaías, y á Elnathán, y á Jarib, y á Elnathán, y á Nathán, y á Zacarías, y á Mesullam, principales; asimismo á Joiarib y á Elnathán, hombres doctos;"
-"Y enviélos á Iddo, jefe en el lugar de Casipia, y puse en boca de ellos las palabras que habían de hablar á Iddo, y á sus hermanos los Nethineos en el lugar de Casipia, para que nos trajesen ministros para la casa de nuestro Dios."
+"Y enviélos á Iddo, jefe en el lugar de Casipia, y puse en boca de ellos las palabras que habían de hablar á Iddo, #y á sus hermanos los Nethineos en el lugar de Casipia, para que nos trajesen ministros para la casa de nuestro Dios."
 "Y trajéronnos, según la buena mano de nuestro Dios sobre nosotros, un varón entendido de los hijos de Mahalí, hijo de Leví, hijo de Israel; y á Serabías con sus hijos y sus hermanos, dieciocho;"
 "Y á Hasabías, y con él á Isaía de los hijos de Merari, á sus hermanos y á sus hijos, veinte;"
 "Y de los Nethineos, á quienes David con los príncipes puso para el ministerio de los Levitas, doscientos y veinte Nethineos
@@ -30,7 +30,7 @@
 "Los sacerdotes pues y Levitas recibieron el peso de la plata y del oro y de los vasos, para traerlo á Jerusalem á la casa de nuestro Dios."
 "Y partimos del río de Ahava el doce del mes primero, para ir á Jerusalem
 "Y llegamos á Jerusalem, y reposamos allí tres días."
-"Al cuarto día fué luego pesada la plata, y el oro, y los vasos, en la casa de nuestro Dios, por mano de Meremoth hijo de Urías sacerdote, y con él Eleazar hijo de Phinees; y con ellos Jozabad hijo de Jesuá, y Noadías hijo de Binnui, Levitas;"
+"Al cuarto día fué luego pesada la plata, y el oro, y los vasos, en la casa de nuestro Dios, por mano de Meremoth hijo #de Urías sacerdote, y con él Eleazar hijo de Phinees; y con ellos Jozabad hijo de Jesuá, y Noadías hijo de Binnui, Levitas;"
 "Por cuenta y por peso todo
-"Los que habían venido de la cautividad, los hijos de la transmigración, ofrecieron holocaustos al Dios de Israel, doce becerros por todo Israel, noventa y seis carneros, setenta y siete corderos, doce machos cabríos por expiación
+"Los que habían venido de la cautividad, los hijos de la transmigración, ofrecieron holocaustos al Dios de Israel, doce #becerros por todo Israel, noventa y seis carneros, setenta y siete corderos, doce machos cabríos por expiación
 "Y dieron los despachos del rey á sus gobernadores y capitanes del otro lado del río, los cuales favorecieron al pueblo y á la casa de Dios."

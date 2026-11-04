@@ -34,7 +34,7 @@
 "Porque donde está vuestro tesoro, allí también estará vuestro corazón."
 "Estén ceñidos vuestros lomos, y <I>vuestras</I>  lámparas encendidos;"
 "y vosotros semejantes a hombres que esperan cuando su señor ha de volver de las bodas; para que cuando viniere, y tocare, luego le abran."
-"Bienaventurados aquellos siervos, <I>a</I>  los cuales cuando el Señor viniere, hallare velando; de cierto os digo, que <I>él</I>  se ceñirá, y hará que se sienten a la mesa, y pasando les servirá."
+"Bienaventurados aquellos siervos, <I>a</I>  los cuales cuando el Señor viniere, hallare velando; de cierto os digo, que #<I>él</I>  se ceñirá, y hará que se sienten a la mesa, y pasando les servirá."
 "Y aunque venga a la segunda vigilia, y aunque venga a la tercera vigilia, y los hallare así, bienaventurados son los tales siervos."
 "Pero esto sabed, que si supiese el padre de familia a qué hora había de venir el ladrón, velaría ciertamente, y no dejaría minar su casa."
 "Vosotros pues también, estad apercibidos; porque a la hora que no pensáis, el Hijo del hombre vendrá."
@@ -45,7 +45,7 @@
 "Mas si el tal siervo dijere en su corazón
 "vendrá el señor de aquel siervo el día que <I>él</I>  no espera, y a la hora que <I>él</I>  no sabe, y le apartará, y pondrá su parte con los infieles."
 "Porque el siervo que entendió la voluntad de su señor, y no <I>se</I>  apercibió, ni hizo conforme a su voluntad, será azotado mucho."
-"Mas el que no entendió, e hizo cosas dignas de azotes, será azotado poco; porque a cualquiera que fue dado mucho, mucho será vuelto a demandar de él; y al que encomendaron mucho, más le será pedido."
+"Mas el que no entendió, e hizo cosas dignas de azotes, será azotado poco; porque a cualquiera que fue #dado mucho, mucho será vuelto a demandar de él; y al que encomendaron mucho, más le será pedido."
 "Fuego vine a meter en la tierra; ¿y qué quiero, sino que se encienda?"
 "Pero de <I>un</I>  bautismo me es necesario ser bautizado; y ¡cómo me angustio hasta que sea cumplido!"
 "¿Pensáis que he venido a la tierra a dar paz? No, os digo; sino disensión."

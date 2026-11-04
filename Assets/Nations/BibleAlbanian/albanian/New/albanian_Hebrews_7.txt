@@ -6,7 +6,7 @@
 "Dhe s'ka kundërshtim se më i vogli bekohet nga më i madhi."
 "Veç kësaj ata që i marrin të dhjetat janë njerëzit që vdesin, kurse atje i merr ai për të cilin dëshmohet se rron."
 "Dhe, që të them kështu, vetë Levi, që merr të dhjetat, dha të dhjeta te Abrahami, sepse ishte ende në mesin e t'et, kur Melkisedeku i doli përpara."
-"Sepse, po të ishte përkryerja me anë të priftërisë levitike (sepse populli e mori ligji nën atë), ç'nevojë kishte të dilte një prift tjetër sipas rendit të Melkisedekut dhe të mos caktohet sipas rendit të Aaronit?"
+"Sepse, po të ishte përkryerja me anë të priftërisë levitike (sepse populli e mori ligji nën atë), ç'nevojë kishte #të dilte një prift tjetër sipas rendit të Melkisedekut dhe të mos caktohet sipas rendit të Aaronit?"
 "Sepse, po të ndërrohet priftëria, domosdo ndërrohet edhe ligji."
 "Sepse ai për të cilin bëhet fjalë i përket një fisi tjetër, prej të cilit askush nuk i ka shërbyer ndonjëherë altarit;"
 "sepse dihet se Perëndia ynë lindi nga fisi i Judës, për të cilin Moisiu nuk tha asgjë lidhur me priftërinë."

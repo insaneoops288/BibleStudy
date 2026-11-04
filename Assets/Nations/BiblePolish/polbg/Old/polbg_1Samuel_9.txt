@@ -10,10 +10,10 @@
 "Tedy rzekł Saul do sługi swego
 "A gdy wstępowali na górę miasta, a potkali dzieweczki, wychodzące czerpać wodę, rzekli im
 "Które odpowiadając im,rzekły
-"Skoro wnijdziecie do miasta, znajdziecie go, pierwej niż pójdzie na górę, aby jadł; albowiem lud nie będzie jadł, aż on przyjdzie; bo on będzie błogosławił ofierze, potem będą jeść wezwani. A przetoż idźcie, bo go o tej godzinie znajdziecie."
+"Skoro wnijdziecie do miasta, znajdziecie go, pierwej niż pójdzie na górę, aby jadł; albowiem lud nie będzie jadł, aż on #przyjdzie; bo on będzie błogosławił ofierze, potem będą jeść wezwani. A przetoż idźcie, bo go o tej godzinie znajdziecie."
 "Weszli tedy do miasta; a gdy przyszli w pośrodek miasta, oto, Samuel wychodził przeciwko nim, aby szedł na górę."
 "A Pan objawił był Samuelowi dzień przedtem, niźli Saul przyszedł, mówiąc
-"O tym czasie jutro poślę do ciebie męża z ziemi Benjamin, którego pomażesz za wodza nad ludem moim Izraelskim; a on wybawi lud mój z rąk Filistyńskich. Bom wejrzał na lud mój, gdyż przyszło wołanie jego do mnie."
+"O tym czasie jutro poślę do ciebie męża z ziemi Benjamin, którego pomażesz za wodza nad ludem moim Izraelskim; a #on wybawi lud mój z rąk Filistyńskich. Bom wejrzał na lud mój, gdyż przyszło wołanie jego do mnie."
 "A gdy Samuel wejrzał na Saula, rzekł mu Pan. Otóż mąż, o którymemci powiedział; tenci będzie panował nad ludem moim."
 "A tak przystąpił Saul do Samuela w pośrodku bramy, i rzekł
 "I odpowiedział Samuel, Saulowi, mówiąc

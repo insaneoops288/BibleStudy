@@ -30,7 +30,7 @@
 "A klásti budeš na ten stůl chleby předložení před tvář mou ustavičně."
 "Uděláš také svícen z zlata čistého, z taženého zlata ať jest ten svícen; sloupec jeho i prutové jeho, misky jeho a koule jeho, i květové jeho z něho budou."
 "A šest prutů vycházeti bude z boků jeho, tři prutové svícnu s jedné strany jeho,a tři prutové s druhé strany jeho."
-"Tři misky udělané na způsob pecky mandlové ať jsou na prutu jednom, a koule a květ, a tři misky udělané na způsob pecky mandlové na prutu druhém, a koule a květ; takž i na jiných šesti prutech z svícnu vycházejících."
+"Tři misky udělané na způsob pecky mandlové ať jsou na prutu jednom, a koule a květ, a tři misky udělané na #způsob pecky mandlové na prutu druhém, a koule a květ; takž i na jiných šesti prutech z svícnu vycházejících."
 "Na svícnu také budou čtyři misky udělané na způsob mandlové pecky, a koule jeho, i květové jeho."
 "A bude koule pode dvěma pruty z něho, koule též pod druhými dvěma pruty z něho, koule opět pod jinými dvěma pruty z něho; a tak pod šesti pruty vycházejícími z svícna."
 "Koule jejich i prutové jejich z něho budou; všecko to z cela kované z zlata čistého."

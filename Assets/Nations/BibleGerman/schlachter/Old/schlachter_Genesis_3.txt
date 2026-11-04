@@ -3,9 +3,9 @@
 "aber von der Frucht des Baumes mitten im Garten hat Gott gesagt
 "Da sprach die Schlange zum Weibe
 "Sondern Gott weiß
-"Als nun das Weib sah, daß von dem Baume gut zu essen wäre und daß er eine Lust für die Augen und ein wertvoller Baum wäre, weil er klug machte, da nahm sie von dessen Frucht und aß und gab zugleich auch ihrem Mann davon, und er aß."
+"Als nun das Weib sah, daß von dem Baume gut zu essen wäre und daß er eine Lust für die Augen und ein wertvoller Baum #wäre, weil er klug machte, da nahm sie von dessen Frucht und aß und gab zugleich auch ihrem Mann davon, und er aß."
 "Da wurden ihrer beider Augen aufgetan, und sie wurden gewahr, daß sie nackt waren; und sie banden Feigenblätter um und machten sich Schürzen."
-"Und sie hörten die Stimme Gottes, des HERRN, der im Garten wandelte beim Wehen des Abendwindes; und der Mensch und sein Weib versteckten sich vor dem Angesicht Gottes des HERRN hinter die Bäume des Gartens."
+"Und sie hörten die Stimme Gottes, des HERRN, der im Garten wandelte beim Wehen des Abendwindes; und der #Mensch und sein Weib versteckten sich vor dem Angesicht Gottes des HERRN hinter die Bäume des Gartens."
 "Da rief Gott der HERR dem Menschen und sprach
 "Er sprach
 "Da sprach er

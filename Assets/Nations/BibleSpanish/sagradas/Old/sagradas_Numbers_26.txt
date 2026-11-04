@@ -59,7 +59,7 @@
 "Y la mujer de Amram se llamó Jocabed, hija de Leví, la cual <I>le</I>  nació a Leví en Egipto
 "Y de Aarón nacieron Nadab y Abiú, Eleazar e Itamar."
 "Mas Nadab y Abiú murieron, cuando ofrecieron fuego extraño delante del SEÑOR."
-"Y los contados de los levitas fueron veintitrés mil, todos varones de un mes arriba; porque no fueron contados entre los hijos de Israel, por cuanto no les había de ser dada heredad entre los hijos de Israel."
+"Y los contados de los levitas fueron veintitrés mil, todos varones de un mes arriba; porque no fueron contados entre #los hijos de Israel, por cuanto no les había de ser dada heredad entre los hijos de Israel."
 "Estos <I>son</I>  los contados por Moisés y Eleazar el sacerdote, los cuales contaron los hijos de Israel en los campos de Moab, junto al Jordán de Jericó."
 "Y entre éstos ninguno hubo de los contados por Moisés y Aarón el sacerdote, los cuales contaron a los hijos de Israel en el desierto de Sinaí."
 "Porque el SEÑOR les dijo

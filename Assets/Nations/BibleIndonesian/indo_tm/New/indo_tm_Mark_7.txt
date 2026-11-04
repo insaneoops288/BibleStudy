@@ -1,8 +1,8 @@
 "Maka orang Parisi serta beberapa orang ahli Taurat, yang sudah datang dari Yeruzalem, berhimpun kepada-Nya."
 "Apabila dilihatnya beberapa orang murid-Nya makan roti dengan tangan yang cemar, yaitu yang tiada berbasuh dahulu,"
 "(karena orang Parisi dan segala orang Yahudi tiadalah makan, kecuali orang-orang itu membasuh tangannya dengan tertibnya, yaitu menurut adat istiadat orang tua-tua."
-"Demikian juga apabila pulang dari pasar, tiada mereka itu makan, sebelum membasuh rata dirinya; dan lagi banyak perkara lain, yang diterimanya dan diturutnya, seperti basuhan segala cawan dan tempat minuman kayu, dan periuk tembaga),"
-"lalu orang Parisi dan ahli Taurat bertanya kepada-Nya, ""Apakah sebabnya murid-murid-Mu tiada melakukan dirinya sebagai adat istiadat orang tua-tua, tetapi mereka itu makan roti dengan tiada membasuh tangannya?"""
+"Demikian juga apabila pulang dari pasar, tiada mereka itu makan, sebelum membasuh rata dirinya; dan lagi banyak perkara #lain, yang diterimanya dan diturutnya, seperti basuhan segala cawan dan tempat minuman kayu, dan periuk tembaga),"
+"lalu orang Parisi dan ahli Taurat bertanya kepada-Nya, ""Apakah sebabnya murid-murid-Mu tiada melakukan dirinya sebagai #adat istiadat orang tua-tua, tetapi mereka itu makan roti dengan tiada membasuh tangannya?"""
 "Maka kata Yesus kepada mereka itu, ""Benar sekali barang yang Nabi Yesaya telah bernubuat akan hal kamu, orang munafik, seperti yang tersurat
 "Sia-sialah mereka itu menyembah Aku, karena mereka itu mengajarkan hukum-hukum akal manusia."
 "Hukum Allah kamu tinggalkan, tetapi adat istiadat manusia kamu pegang."""

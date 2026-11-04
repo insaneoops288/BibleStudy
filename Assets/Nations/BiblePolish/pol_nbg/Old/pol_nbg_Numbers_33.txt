@@ -51,6 +51,6 @@
 "Oświadcz synom Israela i im powiedz
 "wtedy wypędzicie sprzed waszego oblicza wszystkich mieszkańców tej ziemi, zniszczycie wszystkie ich rzeźby, zniszczycie wszystkie ich lite posągi oraz zburzycie wszystkie ich ołtarze."
 "Zawładniecie tą ziemią i na niej osiądziecie, bowiem oddaję wam tę ziemię, byście nią zawładnęli."
-"Zajmiecie tą ziemię według losu, według waszych rodzin dla liczniejszego wyznaczycie większy udział, a dla mniej licznego mniejszy udział gdzie komu przypadnie los, tam mu się dostanie. Weźmiecie sobie udziały według pokoleń waszych ojców."
-"Zaś jeśli nie wypędzicie sprzed waszego oblicza mieszkańców tej ziemi, to pozostali z nich będą cierniami dla waszych oczu i kolcami dla waszych boków; będą wam wrogami na ziemi, na której osiądziecie."
+"Zajmiecie tą ziemię według losu, według waszych rodzin dla liczniejszego wyznaczycie większy udział, a dla mniej licznego mniejszy #udział gdzie komu przypadnie los, tam mu się dostanie. Weźmiecie sobie udziały według pokoleń waszych ojców."
+"Zaś jeśli nie wypędzicie sprzed waszego oblicza mieszkańców tej ziemi, to pozostali z nich będą cierniami dla #waszych oczu i kolcami dla waszych boków; będą wam wrogami na ziemi, na której osiądziecie."
 "I stanie się, że co zaplanowałem im uczynić wam uczynię."

@@ -10,7 +10,7 @@
 "Zaś WIEKUISTY powiedział do Mojżesza
 "Aby byli gotowi na trzeci dzień, gdyż trzeciego dnia WIEKUISTY zejdzie na górę Synai, przed oczami całego ludu."
 "Nadto odgraniczysz lud wokoło i powiesz
-"Niechaj jej nie tknie ręka, gdyż zostanie ukamienowany, bądź zastrzelony; czy to baran idący na czele stada, czy człowiek. Gdy odezwie się przeciągły głos rogu, a zechce wejść na górę nie zostanie żywym."
+"Niechaj jej nie tknie ręka, gdyż zostanie ukamienowany, bądź zastrzelony; czy to baran idący na czele stada, #czy człowiek. Gdy odezwie się przeciągły głos rogu, a zechce wejść na górę nie zostanie żywym."
 "A Mojżesz zszedł z góry do ludu oraz przygotował lud; zatem wyprali swoje szaty."
 "Powiedział także do ludu
 "A trzeciego dnia, z nastaniem poranku się wydarzyło, że pojawiły się gromy, błyskawice i gęsty obłok nad górą oraz bardzo potężny głos trąby; więc zadrżał cały lud, który był w obozie."

@@ -4,7 +4,7 @@
 "At ang gayong pagkakatiwala sa Dios ay taglay namin sa pamamagitan ni Cristo
 "Hindi sa kami ay sapat na sa aming sarili, upang isiping ang anoman ay mula sa ganang aming sarili; kundi ang aming kasapatan ay mula sa Dios;"
 "Na sa amin naman ay nagpapaging sapat na mga ministro ng bagong tipan; hindi ng titik, kundi ng espiritu
-"Nguni't kung ang pangangasiwa ng kamatayan, na nasusulat, at nauukit sa mga bato, ay nangyaring may kaluwalhatian, ano pa't ang mga anak ni Israel ay hindi makatitig sa mukha ni Moises, dahil sa kaluwalhatian ng kaniyang mukha; na ang kaluwalhatiang ito'y lumilipas
+"Nguni't kung ang pangangasiwa ng kamatayan, na nasusulat, at nauukit sa mga bato, ay nangyaring may kaluwalhatian, ano pa't ang mga anak #ni Israel ay hindi makatitig sa mukha ni Moises, dahil sa kaluwalhatian ng kaniyang mukha; na ang kaluwalhatiang ito'y lumilipas
 "Paanong hindi lalong magkakaroon ng kaluwalhatian ang pangangasiwa ng espiritu?"
 "Sapagka't kung ang pangangasiwa ng kahatulan ay may kaluwalhatian, ay bagkus pa ngang higit na sagana sa kaluwalhatian ang pangasiwang ukol sa katuwiran."
 "Sapagka't katotohanang ang pinaluwalhati ay hindi pinaluwalhati sa bagay na ito, ng dahil sa kaluwalhatiang sumasagana."
@@ -15,4 +15,4 @@
 "Datapuwa't hanggang sa araw na ito, kailan ma't binabasa ang mga aklat ni Moises, ay may isang talukbong na nakatakip sa kanilang puso."
 "Nguni't kailan ma't magbalik sa Panginoon, ay maaalis ang talukbong."
 "Ngayon ang Panginoon ay siyang Espiritu
-"Datapuwa't tayong lahat, na walang talukbong ang mukha na tumitinging gaya ng sa isang salamin sa kaluwalhatian ng Panginoon, ay nababago tayo sa gayon ding larawan mula sa kaluwalhatian hanggang sa kaluwalhatian, na gaya ng mula sa Panginoon na Espiritu."
+"Datapuwa't tayong lahat, na walang talukbong ang mukha na tumitinging gaya ng sa isang salamin sa kaluwalhatian ng Panginoon, ay nababago #tayo sa gayon ding larawan mula sa kaluwalhatian hanggang sa kaluwalhatian, na gaya ng mula sa Panginoon na Espiritu."

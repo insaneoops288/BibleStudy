@@ -9,7 +9,7 @@
 "Şi Dumnezeu i-a spus lui Avraam
 "Acesta [este] legământul meu, pe care voi îl veţi ţine, între mine şi tine şi sămânţa ta după tine
 "Şi veţi circumcide pielea prepuţului vostru şi aceasta va fi un semn al legământului dintre mine şi voi."
-"Şi cel ce este în vârstă de opt zile va fi circumcis între voi, fiecare copil de parte bărbătească în generaţiile voastre, cel născut în casă, sau cumpărat cu bani de la vreun străin, care nu [este] din sămânţa ta."
+"Şi cel ce este în vârstă de opt zile va fi circumcis între voi, fiecare copil de parte bărbătească în generaţiile #voastre, cel născut în casă, sau cumpărat cu bani de la vreun străin, care nu [este] din sămânţa ta."
 "Cel născut în casa ta şi cel cumpărat cu banii tăi trebuie să fie circumcis, şi legământul meu va fi în carnea voastră ca legământ fără de sfârşit."
 "Şi copilul de parte bărbătească necircumcis, a cărui piele a prepuţului său nu este circumcisă, acel suflet va fi stârpit din poporul său; el a rupt legământul meu."
 "Şi Dumnezeu i-a spus lui Avraam
@@ -20,7 +20,7 @@
 "Şi cât despre Ismael, te-am auzit
 "Dar legământul meu îl voi întemeia cu Isaac, pe care Sara ţi-l va naşte la timpul cuvenit, în anul viitor."
 "Şi a terminat de vorbit cu el, iar Dumnezeu s-a înălţat de la Avraam."
-"Şi Avraam a luat pe Ismael, fiul său, şi pe toţi cei născuţi în casa lui şi pe toţi cei cumpăraţi cu banii lui, fiecare parte bărbătească între oamenii casei lui Avraam, şi a circumcis pielea prepuţului lor chiar în aceeaşi zi, aşa cum Dumnezeu îi spusese."
+"Şi Avraam a luat pe Ismael, fiul său, şi pe toţi cei născuţi în casa lui şi pe toţi cei cumpăraţi cu banii lui, #fiecare parte bărbătească între oamenii casei lui Avraam, şi a circumcis pielea prepuţului lor chiar în aceeaşi zi, aşa cum Dumnezeu îi spusese."
 "Şi Avraam [era] în vârstă de nouăzeci şi nouă de ani când a fost circumcis în pielea prepuţului său."
 "Şi Ismael, fiul său, avea treisprezece ani când a fost circumcis în pielea prepuţului său."
 "Chiar în aceeaşi zi a fost Avraam circumcis şi Ismael, fiul său."

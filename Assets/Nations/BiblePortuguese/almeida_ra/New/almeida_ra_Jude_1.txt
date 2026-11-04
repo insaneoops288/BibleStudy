@@ -1,7 +1,7 @@
 "Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, amados em Deus Pai, e guardados em Jesus Cristo
 "Misericórdia, paz e amor vos sejam multiplicados."
-"Amados, enquanto eu empregava toda a diligência para escrever-vos acerca da salvação que nos é comum, senti a necessidade de vos escrever, exortando-vos a pelejar pela fé que de uma vez para sempre foi entregue aos santos."
-"Porque se introduziram furtivamente certos homens, que já desde há muito estavam destinados para este juízo, homens ímpios, que convertem em dissolução a graça de nosso Deus, e negam o nosso único Soberano e Senhor, Jesus Cristo."
+"Amados, enquanto eu empregava toda a diligência para escrever-vos acerca da salvação que nos é comum, senti a necessidade #de vos escrever, exortando-vos a pelejar pela fé que de uma vez para sempre foi entregue aos santos."
+"Porque se introduziram furtivamente certos homens, que já desde há muito estavam destinados para este juízo, homens ímpios, que #convertem em dissolução a graça de nosso Deus, e negam o nosso único Soberano e Senhor, Jesus Cristo."
 "Ora, quero lembrar-vos, se bem que já de uma vez para sempre soubestes tudo isto, que, havendo o Senhor salvo um povo, tirando-o da terra do Egipto, destruiu depois os que não creram;"
 "aos anjos que não guardaram o seu principado, mas deixaram a sua própria habitação, ele os tem reservado em prisões eternas na escuridão para o juízo do grande dia,"
 "assim como Sodoma e Gomorra, e as cidades circunvizinhas, que, havendo-se prostituído como aqueles anjos, e ido após outra carne, foram postas como exemplo, sofrendo a pena do fogo eterno."
@@ -9,7 +9,7 @@
 "Mas quando o arcanjo Miguel, discutindo com o Diabo, disputava a respeito do corpo de Moisés, não ousou pronunciar contra ele juízo de maldição, mas disse
 "Estes, porém, blasfemam de tudo o que não entendem; e, naquilo que compreendem de modo natural, como os seres irracionais, mesmo nisso se corrompem."
 "Ai deles! porque foram pelo caminho de Caim, e por amor do lucro se atiraram ao erro de Balaão, e pereceram na rebelião de Coré."
-"Estes são os escolhidos em vossos ágapes, quando se banqueteiam convosco, pastores que se apascentam a si mesmos sem temor; são nuvens sem água, levadas pelos ventos; são árvores sem folhas nem fruto, duas vezes mortas, desarraigadas;"
+"Estes são os escolhidos em vossos ágapes, quando se banqueteiam convosco, pastores que se apascentam a si mesmos sem #temor; são nuvens sem água, levadas pelos ventos; são árvores sem folhas nem fruto, duas vezes mortas, desarraigadas;"
 "ondas furiosas do mar, espumando as suas próprias torpezas, estrelas errantes, para as quais tem sido reservado para sempre o negrume das trevas."
 "Para estes também profetizou Enoque, o sétimo depois de Adão, dizendo
 "para executar juízo sobre todos e convencer a todos os ímpios de todas as obras de impiedade, que impiamente cometeram, e de todas as duras palavras que ímpios pecadores contra ele proferiram."

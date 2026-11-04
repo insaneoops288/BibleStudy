@@ -20,4 +20,4 @@
 "Bugbog kung bugbog, mata kung mata, ngipin kung ngipin
 "At ang pumatay ng isang hayop ay magpapalit, at ang pumatay sa isang tao ay papatayin."
 "Magkakaroon kayo ng isa lamang kautusan sa taga ibang bayan, na gaya sa tubo sa lupain
-"At nagsalita si Moises sa mga anak ni Israel at siya na nanglait ay inilabas nila sa kampamento, at siya'y pinagbatuhanan ng mga bato. At ginawa ng mga anak ni Israel, ayon sa iniutos ng Panginoon kay Moises."
+"At nagsalita si Moises sa mga anak ni Israel at siya na nanglait ay inilabas nila sa kampamento, at siya'y #pinagbatuhanan ng mga bato. At ginawa ng mga anak ni Israel, ayon sa iniutos ng Panginoon kay Moises."

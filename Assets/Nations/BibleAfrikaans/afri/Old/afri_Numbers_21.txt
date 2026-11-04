@@ -10,7 +10,7 @@
 "En die kinders van Israel het weggetrek en laer opgeslaan in Obot."
 "Daarna het hulle weggetrek van Obot af en laer opgeslaan in Ijje-Haäbárim in die woestyn wat oostelik aan Moab vas lê."
 "Daarvandaan het hulle weggetrek en laer opgeslaan by die spruit Sered."
-"Daarvandaan het hulle weggetrek en laer opgeslaan oorkant die Arnon wat in die woestyn is en uit die grondgebied van die Amoriete kom; want die Arnon is die grens van Moab, tussen Moab en die Amoriete."
+"Daarvandaan het hulle weggetrek en laer opgeslaan oorkant die Arnon wat in die woestyn is en uit die grondgebied #van die Amoriete kom; want die Arnon is die grens van Moab, tussen Moab en die Amoriete."
 "Daarom word gesê in die Boek van die Oorloë van die HERE
 "en die hang van die spruite wat na die streek van Ar afloop en leun teen die grondgebied van Moab."
 "En daarvandaan het hulle na Beër getrek. Dit is die put waarvan die HERE aan Moses gesê het
@@ -19,9 +19,9 @@
 "en van Mattána na Naháliël; en van Naháliël na Bamot;"
 "en van Bamot na die dal wat in die veld van Moab lê, by die top van Pisga, en oor die wildernis afkyk."
 "En Israel het boodskappers gestuur na Sihon, die koning van die Amoriete, en gesê
-"Laat my deur jou land trek. Ons sal nie wegdraai in die lande of in die wingerde nie; ons sal die water van die putte nie drink nie; ons sal die koningsweg hou tot ons deur jou grondgebied getrek het."
-"Maar Sihon het Israel nie toegelaat om deur sy grondgebied te trek nie; maar Sihon het al sy manskappe versamel en uitgetrek na die woestyn, Israel tegemoet; en toe hy by Jahas kom, het hy teen Israel geveg."
-"Maar Israel het hom verslaan met die skerpte van die swaard en sy land in besit geneem van die Arnon af tot by die Jabbok, tot by die kinders van Ammon; want die grens van die kinders van Ammon was sterk."
+"Laat my deur jou land trek. Ons sal nie wegdraai in die lande of in die wingerde nie; ons sal die #water van die putte nie drink nie; ons sal die koningsweg hou tot ons deur jou grondgebied getrek het."
+"Maar Sihon het Israel nie toegelaat om deur sy grondgebied te trek nie; maar Sihon het al sy manskappe versamel #en uitgetrek na die woestyn, Israel tegemoet; en toe hy by Jahas kom, het hy teen Israel geveg."
+"Maar Israel het hom verslaan met die skerpte van die swaard en sy land in besit geneem van die Arnon af #tot by die Jabbok, tot by die kinders van Ammon; want die grens van die kinders van Ammon was sterk."
 "So het Israel dan al hierdie stede ingeneem, en Israel het gewoon in al die stede van die Amoriete, in Hesbon en in al sy onderhorige plekke."
 "Want Hesbon was die stad van Sihon, die koning van die Amoriete; hy het naamlik oorlog gevoer teen die vorige koning van die Moabiete en het dié se hele land tot by die Arnon uit sy hand geruk."
 "Daarom sê die spreukdigters

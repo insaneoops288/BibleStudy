@@ -13,12 +13,12 @@
 "Përsa i përket Jozefit, ai tha
 "me frytet e çmuara të diellit, me prodhimet e çmuara të çdo muaji,"
 "me prodhimet më të mira të maleve të lashta, me dhuratat e çmuara të kodrave të përjetshme,"
-"me dhuratat e çmuara të tokës dhe të të gjitha gjërave që ajo përmban. Favori i atij që ishte në ferrishte të bjerë mbi kryet e Jozefit, mbi majën e kokës së atij që është zgjedhur ndërmjet vëllezërve të tij!"
-"Madhështia e tij është si ajo e demit të tij të parëlindur, brirët e tij janë si brirët e një bualli. Me to do të shpojë tërë popujt, deri në skajet e dheut. Këto janë moritë e Efraimit. Këto janë mijërat e Manasit""."
+"me dhuratat e çmuara të tokës dhe të të gjitha gjërave që ajo përmban. Favori i atij që ishte në ferrishte #të bjerë mbi kryet e Jozefit, mbi majën e kokës së atij që është zgjedhur ndërmjet vëllezërve të tij!"
+"Madhështia e tij është si ajo e demit të tij të parëlindur, brirët e tij janë si brirët e një bualli. Me #to do të shpojë tërë popujt, deri në skajet e dheut. Këto janë moritë e Efraimit. Këto janë mijërat e Manasit""."
 "Përsa i përket Zabulonit, ai tha
 "Ata do të thërrasin popujt në mal dhe aty do të ofrojnë flijime drejtësie; sepse ata do të thithin bollëkun e detrave dhe thesaret e fshehura në rërë""."
 "Përsa i përket Gadit, ai tha
-"Ai shtie në dorë pjesën e parë për veten e tij, sepse aty ishte pjesa e parë e rezervuar e udhëheqësit; ai erdhi me krerët e popullit dhe zbatoi drejtësinë e Zotit dhe dekretet e tij me Izraelin""."
+"Ai shtie në dorë pjesën e parë për veten e tij, sepse aty ishte pjesa e parë e rezervuar e #udhëheqësit; ai erdhi me krerët e popullit dhe zbatoi drejtësinë e Zotit dhe dekretet e tij me Izraelin""."
 "Përsa i përket Danit, ai tha
 "Përsa i përket Neftalit, ai tha
 "Përsa i përket Asherit, ai tha
@@ -26,4 +26,4 @@
 "Askush nuk është barabar me Perëndinë e Jeshurunit, që shkon me kalë nëpër qiejtë në ndihmën tënde dhe shkon mbi retë me madhështinë e tij."
 "Perëndia i kohëve të lashta është streha jote dhe poshtë teje ndodhen krahët e tij të përjetshëm. Ai do ta dëbojë armikun para teje dhe do të thotë
 "Atëherë Izraeli do ta ndiejë veten të sigurtë, në një vend gruri dhe mushti; dhe qielli i tij di të japë vesë."
-"Ti je i lumtur, o Izrarel! Kush është barabar me ty, o popull i shpëtuar nga Zoti? Ai është mburoja që të ndihmon dhe shpata e lavdisë sate. Armiqtë e tu do të të nënshtrohen dhe ti do të shkelësh vendet e tyre të larta""."
+"Ti je i lumtur, o Izrarel! Kush është barabar me ty, o popull i shpëtuar nga Zoti? Ai është mburoja që të ndihmon #dhe shpata e lavdisë sate. Armiqtë e tu do të të nënshtrohen dhe ti do të shkelësh vendet e tyre të larta""."

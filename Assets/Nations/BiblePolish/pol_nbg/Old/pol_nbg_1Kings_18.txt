@@ -9,8 +9,8 @@
 "On jednak powiedział
 "Żywy jest WIEKUISTY, twój Bóg, że nie ma prawie narodu, czy królestwa, dokąd nie posłał mój pan, aby cię szukano. Lecz mówili
 "A teraz ty mówisz
-"Może się stać, że ja od ciebie odejdę, a ciebie uniesie Duch WIEKUISTEGO, i nie będę wiedział dokąd. Pójdę opowiedzieć Ahabowi, a kiedy ciebie nie znajdzie – wtedy mnie zabije; choć twój sługa obawiał się WIEKUISTEGO od swojej młodości."
-"Czyżby nie powiedziano mojemu panu, co uczyniłem, gdy Izebel tępiła proroków WIEKUISTEGO? Z proroków WIEKUISTEGO ukryłem wtedy stu mężów, po pięćdziesięciu mężów w jaskini i żywiłem ich chlebem, i wodą."
+"Może się stać, że ja od ciebie odejdę, a ciebie uniesie Duch WIEKUISTEGO, i nie będę wiedział dokąd. Pójdę opowiedzieć #Ahabowi, a kiedy ciebie nie znajdzie – wtedy mnie zabije; choć twój sługa obawiał się WIEKUISTEGO od swojej młodości."
+"Czyżby nie powiedziano mojemu panu, co uczyniłem, gdy Izebel tępiła proroków WIEKUISTEGO? Z proroków WIEKUISTEGO ukryłem #wtedy stu mężów, po pięćdziesięciu mężów w jaskini i żywiłem ich chlebem, i wodą."
 "A teraz ty mówisz
 "A Eliasz powiedział
 "Więc Obadjasz poszedł na spotkanie z Ahabem oraz mu to powiedział; po czym Ahab wyszedł aby spotkać Eliasza."
@@ -20,7 +20,7 @@
 "Zatem Ahab rozesłał pomiędzy wszystkich synów Israela oraz zgromadził tych proroków przy górze Karmel."
 "Zaś Eliasz podszedł do całego ludu i powiedział
 "Więc Eliasz powiedział do ludu
-"Niech więc dadzą nam dwa cielce i niech sobie wybiorą jednego cielca, porąbią go i położą na drwa; niech jednak nie podkładają ognia; ja też przygotuję drugiego cielca i włożę go na drwa, a ognia nie podłożę."
+"Niech więc dadzą nam dwa cielce i niech sobie wybiorą jednego cielca, porąbią go i położą na drwa; niech #jednak nie podkładają ognia; ja też przygotuję drugiego cielca i włożę go na drwa, a ognia nie podłożę."
 "Po czym wzywajcie imienia waszych bogów i ja będę wzywał Imienia WIEKUISTEGO; a Bóg, który odpowie ogniem – ten będzie Bogiem. A cały lud odpowiedział
 "Zatem Eliasz powiedział do proroków Baala
 "Więc wzięli cielca, którego im dał, przygotowali go i wzywali imienia Baala od rana do południa, wołając

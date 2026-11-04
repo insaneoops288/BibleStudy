@@ -9,7 +9,7 @@
 "Et il leur dit
 "Or, quand il fut en particulier, ceux qui étaient autour de lui, avec les Douze, l'interrogèrent sur la parabole."
 "Et il leur dit
-"De sorte qu'en voyant, ils voient et n'aperçoivent point; et qu'en entendant, ils entendent et ne comprennent point; de peur qu'ils ne se convertissent et que leurs péchés ne leur soient pardonnés."
+"De sorte qu'en voyant, ils voient et n'aperçoivent point; et qu'en entendant, ils entendent et ne comprennent #point; de peur qu'ils ne se convertissent et que leurs péchés ne leur soient pardonnés."
 "Et il leur dit
 "Le semeur sème la Parole."
 "Ceux qui sont le long du chemin, ce sont ceux en qui la Parole est semée, mais aussitôt qu'ils l'ont entendue, l'accusateur vient et enlève la Parole qui avait été semée dans leurs cœurs;"

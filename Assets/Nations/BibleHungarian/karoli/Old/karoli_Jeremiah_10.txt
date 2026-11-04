@@ -22,4 +22,4 @@
 "A hír hangja ímé megjött, és nagy zúgás [kél] észak földe felõl, hogy pusztává tegyék Júdának városait, és sakálok tanyájává."
 "Tudom Uram, hogy az embernek nincs hatalmában az õ útja, és egyetlen járókelõ sem teheti, hogy irányozza a maga lépését!"
 "Fenyíts meg engem, Uram, de mértékkel, nem haragodban, hogy szét ne morzsolj engem!"
-"Öntsd ki haragodat ama nemzetekre, a melyek nem ismernek téged, és ama nemzetségekre, a melyek nem hívják segítségül a te nevedet; mert megették Jákóbot, bizony megették õt, és elemésztették õt, és lakóhelyét elpusztították!"
+"Öntsd ki haragodat ama nemzetekre, a melyek nem ismernek téged, és ama nemzetségekre, a melyek nem hívják #segítségül a te nevedet; mert megették Jákóbot, bizony megették õt, és elemésztették õt, és lakóhelyét elpusztították!"

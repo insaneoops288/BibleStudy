@@ -9,7 +9,7 @@
 "Mivel pedig sok idõ mult el, és a hajózás más veszedelmes vala, mivelhogy a bõjt is elmult immár, inti vala Pál õket,"
 "Ezt mondván nékik
 "De a százados inkább hisz vala a kormányosmesternek és a hajótulajdonosnak, hogynem annak, a mit Pál mond vala."
-"Mivel pedig az a kikötõ telelésre nem volt alkalmas, a többség azt határozá, hogy hajózzanak el onnan is, ha valami módon eljutva Fénixbe, Kréta kikötõjébe, mely délnyugot és északnyugot felé néz, kitelelhetnének."
+"Mivel pedig az a kikötõ telelésre nem volt alkalmas, a többség azt határozá, hogy hajózzanak el onnan #is, ha valami módon eljutva Fénixbe, Kréta kikötõjébe, mely délnyugot és északnyugot felé néz, kitelelhetnének."
 "Mivel pedig déli szél kezdett lassan fúni, azt gondolván, hogy feltett szándékuknak uraivá lettek, elindulván, közelebb hajóztak el Kréta mellett."
 "Nemsokára azonban viharos szélvész csapott le oda, mely Észak-keleti szélnek neveztetik."
 "Mikor pedig a hajó elragadtatott, és nem bírt a széllel szembe menni, nekieresztvén [azt,] vitetünk vala tova."

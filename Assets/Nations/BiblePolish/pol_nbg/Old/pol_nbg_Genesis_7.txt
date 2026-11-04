@@ -11,7 +11,7 @@
 "Sześćsetnego roku życia Noacha, drugiego miesiąca, siedemnastego dnia tego miesiąca w ten dzień rozwarły się wszystkie źródła bezmiernej otchłani i otworzyły się spusty niebios."
 "A deszcz padał na ziemię przez czterdzieści dni i czterdzieści nocy."
 "Właśnie owego dnia wszedł do arki Noach oraz Szem, Cham i Jafet synowie Noacha, także żona Noacha, oraz z nimi trzy żony jego synów."
-"Oni oraz według swego rodzaju wszelki zwierz, wszelkie bydło według swojego rodzaju, wszelki płaz pełzający po ziemi według swojego rodzaju, oraz wszystko co lata według swego rodzaju wszelkie skrzydlate ptactwo."
+"Oni oraz według swego rodzaju wszelki zwierz, wszelkie bydło według swojego rodzaju, wszelki płaz pełzający po #ziemi według swojego rodzaju, oraz wszystko co lata według swego rodzaju wszelkie skrzydlate ptactwo."
 "Tak więc, do arki weszło z Noachem do pary z każdej cielesnej natury, w której było tchnienie życia."
 "A z tych, które weszły, wszedł samiec i samica z każdej cielesnej natury jak mu polecił Bóg. I WIEKUISTY, Bóg, zamknął za nim."
 "Zatem na ziemi był potop przez czterdzieści dni. I wody stały się wielkie oraz podniosły arkę, więc uniosła się wysoko nad ziemię."

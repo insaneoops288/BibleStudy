@@ -18,7 +18,7 @@
 "Et moi, je te dis que tu es Pierre, et que sur cette pierre je bâtirai mon Eglise, et que les portes du séjour des morts ne prévaudront point contre elle."
 "Je te donnerai les clefs du royaume des cieux
 "Alors il recommanda aux disciples de ne dire à personne qu'il était le Christ."
-"Dès lors Jésus commença à faire connaître à ses disciples qu'il fallait qu'il allât à Jérusalem, qu'il souffrît beaucoup de la part des anciens, des principaux sacrificateurs et des scribes, qu'il fût mis à mort, et qu'il ressuscitât le troisième jour."
+"Dès lors Jésus commença à faire connaître à ses disciples qu'il fallait qu'il allât à Jérusalem, qu'il souffrît beaucoup de la #part des anciens, des principaux sacrificateurs et des scribes, qu'il fût mis à mort, et qu'il ressuscitât le troisième jour."
 "Pierre, l'ayant pris à part, se mit à le reprendre, et dit
 "Mais Jésus, se retournant, dit à Pierre
 "Alors Jésus dit à ses disciples

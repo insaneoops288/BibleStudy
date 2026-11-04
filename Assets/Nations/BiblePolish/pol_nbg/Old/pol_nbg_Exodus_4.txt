@@ -6,7 +6,7 @@
 "I WIEKUISTY dalej mówił do niego
 "A Bóg powiedział
 "I będzie jeśli ci nie uwierzą oraz nie usłuchają głosu pierwszego znaku że uwierzą głosowi następnego znaku."
-"A jeżeli nie uwierzą tym dwóm znakom oraz nie usłuchają twojego głosu to weźmiesz wody z rzeki oraz wylejesz ją na ląd; a wtedy woda, którą weźmiesz z rzeki przemieni się, i na lądzie zamieni się w krew."
+"A jeżeli nie uwierzą tym dwóm znakom oraz nie usłuchają twojego głosu to weźmiesz wody z rzeki oraz wylejesz ją #na ląd; a wtedy woda, którą weźmiesz z rzeki przemieni się, i na lądzie zamieni się w krew."
 "Potem Mojżesz powiedział do WIEKUISTEGO
 "A WIEKUISTY do niego powiedział
 "Zatem idź, a Ja będę z twoimi ustami i nauczę cię, co masz mówić."

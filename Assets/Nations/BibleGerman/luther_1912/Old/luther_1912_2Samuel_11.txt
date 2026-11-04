@@ -1,4 +1,4 @@
-"Und da das Jahr um kam, zur Zeit, wann die Könige pflegen auszuziehen, sandte David Joab und seine Knechte mit ihm das ganze Israel, daß sie die Kinder Ammon verderbten und Rabba belagerten. David aber blieb zu Jerusalem."
+"Und da das Jahr um kam, zur Zeit, wann die Könige pflegen auszuziehen, sandte David Joab und seine Knechte mit #ihm das ganze Israel, daß sie die Kinder Ammon verderbten und Rabba belagerten. David aber blieb zu Jerusalem."
 "Und es begab sich, daß David um den Abend aufstand von seinem Lager und ging auf dem Dach des Königshauses und sah vom Dach ein Weib sich waschen; und das Weib war sehr schöner Gestalt."
 "Und David sandte hin und ließ nach dem Weibe fragen, und man sagte
 "Und David sandte Boten hin und ließ sie holen. Und da sie zu ihm hineinkam, schlief er bei ihr. Sie aber reinigte sich von ihrer Unreinigkeit und kehrte wieder zu ihrem Hause."
@@ -10,7 +10,7 @@
 "Da man aber David ansagte
 "Uria aber sprach zu David
 "David sprach zu Uria
-"Und David lud ihn, daß er vor ihm aß und trank, und machte ihn trunken. Aber des Abends ging er aus, daß er sich schlafen legte auf sein Lager mit seines Herrn Knechten, und ging nicht hinab in sein Haus."
+"Und David lud ihn, daß er vor ihm aß und trank, und machte ihn trunken. Aber des Abends ging er aus, #daß er sich schlafen legte auf sein Lager mit seines Herrn Knechten, und ging nicht hinab in sein Haus."
 "Des Morgens schrieb David einen Brief an Joab und sandte ihn durch Uria."
 "Er schrieb aber also in den Brief
 "Als nun Joab um die Stadt lag, stellte er Uria an den Ort, wo er wußte, daß streitbare Männer waren."

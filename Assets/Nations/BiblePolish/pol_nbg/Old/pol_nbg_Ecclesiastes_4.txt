@@ -5,7 +5,7 @@
 "Zaś bezmyślny składa swe ręce i pożera swoje własne ciało."
 "Lepsza pełna dłoń oraz spokój niż pełne obie garście, a przy tym trud oraz pogoń za wiatrem."
 "I znowu widziałem inną marność pod słońcem."
-"Oto jeden stoi samotnie, nie mając nikogo nie ma syna, ani brata a jednak nie ma też końca wszelkiej jego pracy, a jego oko nie może nasycić się bogactwem. Ale dla kogo ja pracuję oraz pozbawiam się dobrego? I to jest marność oraz czczy popęd."
+"Oto jeden stoi samotnie, nie mając nikogo nie ma syna, ani brata a jednak nie ma też końca wszelkiej jego pracy, a jego #oko nie może nasycić się bogactwem. Ale dla kogo ja pracuję oraz pozbawiam się dobrego? I to jest marność oraz czczy popęd."
 "Lepiej być we dwóch niż samemu; bowiem mają dobry pożytek ze swej pracy."
 "Gdyż jeśli jeden z nich upadnie drugi podźwignie swojego towarzysza. Ale biada samotnemu, gdyby upadł, bo nie ma drugiego, który by go podźwignął."
 "Tak też, kiedy dwóch leży razem jest im ciepło; ale jak się rozgrzeje jeden?"

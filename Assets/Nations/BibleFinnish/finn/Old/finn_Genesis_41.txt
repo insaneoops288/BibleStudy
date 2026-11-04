@@ -5,7 +5,7 @@
 "Ja hän nukkui jällensä, ja näki toisen kerran unta
 "Ja katso, seitsemän pientä ja itätuulelta surkastunutta tähkäpäätä kasvoivat niiden jälkeen."
 "Ja ne seitsemän laihaa tähkää nielivät ne seitsemän paksua ja täysinäistä tähkäpäätä. Niin Pharao heräsi ja näki, että se oli uni."
-"Ja aamulla oli hänen henkensä murheellinen, lähetti ja antoi kutsua kokoon kaikki Egyptin noidat ja tietäjät, ja Pharao jutteli heille unensa. Mutta ei ollut, joka sen taisi selittää Pharaon edessä."
+"Ja aamulla oli hänen henkensä murheellinen, lähetti ja antoi kutsua kokoon kaikki Egyptin noidat ja tietäjät, #ja Pharao jutteli heille unensa. Mutta ei ollut, joka sen taisi selittää Pharaon edessä."
 "Niin puhui ylimmäinen juomanlaskia Pharaolle, sanoen
 "Koska Pharao vihastui palveliainsa päälle, ja pani minun ja ylimmäisen leipojan vankiuteen, huovinhaltian huoneesen;"
 "Niin me molemmat näimme yhtenä yönä unta, kumpikin unensa selityksen jälkeen me uneksuimme."

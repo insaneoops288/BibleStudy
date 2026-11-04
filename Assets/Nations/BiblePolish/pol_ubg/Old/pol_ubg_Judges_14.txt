@@ -16,5 +16,5 @@
 "Płakała więc żona Samsona przed nim, mówiąc
 "I płakała przed nim przez siedem dni, póki trwało wesele. A siódmego dnia wyjaśnił jej, bo mu się naprzykrzała. A ona powiedziała zagadkę synom swego ludu."
 "A siódmego dnia przed zachodem słońca mężczyźni tego miasta powiedzieli do niego
-"Potem zstąpił na niego Duch PANA i poszedł do Aszkelonu, zabił trzydziestu mężczyzn spośród nich, zdjął z nich łupy i dał szaty zamienne tym, którzy rozwiązali zagadkę. I rozpalił się jego gniew, i poszedł do domu swojego ojca."
+"Potem zstąpił na niego Duch PANA i poszedł do Aszkelonu, zabił trzydziestu mężczyzn spośród nich, zdjął z nich łupy i #dał szaty zamienne tym, którzy rozwiązali zagadkę. I rozpalił się jego gniew, i poszedł do domu swojego ojca."
 "Żona Samsona zaś została oddana jego towarzyszowi, który był jego przyjacielem."

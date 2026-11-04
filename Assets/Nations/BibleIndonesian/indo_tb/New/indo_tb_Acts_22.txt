@@ -1,8 +1,8 @@
 """Hai saudara-saudara dan bapa-bapa, dengarkanlah, apa yang hendak kukatakan kepadamu sebagai pembelaan diri."""
 "Ketika orang banyak itu mendengar ia berbicara dalam bahasa Ibrani, makin tenanglah mereka. Ia berkata
-"""Aku adalah orang Yahudi, lahir di Tarsus di tanah Kilikia, tetapi dibesarkan di kota ini; dididik dengan teliti di bawah pimpinan Gamaliel dalam hukum nenek moyang kita, sehingga aku menjadi seorang yang giat bekerja bagi Allah sama seperti kamu semua pada waktu ini."
+"""Aku adalah orang Yahudi, lahir di Tarsus di tanah Kilikia, tetapi dibesarkan di kota ini; dididik dengan teliti di bawah pimpinan Gamaliel #dalam hukum nenek moyang kita, sehingga aku menjadi seorang yang giat bekerja bagi Allah sama seperti kamu semua pada waktu ini."
 "Dan aku telah menganiaya pengikut-pengikut Jalan Tuhan sampai mereka mati; laki-laki dan perempuan kutangkap dan kuserahkan ke dalam penjara."
-"Tentang hal itu baik Imam Besar maupun Majelis Tua-Tua dapat memberi kesaksian. Dari mereka aku telah membawa surat-surat untuk saudara-saudara di Damsyik dan aku telah pergi ke sana untuk menangkap penganut-penganut Jalan Tuhan, yang terdapat juga di situ dan membawa mereka ke Yerusalem untuk dihukum."
+"Tentang hal itu baik Imam Besar maupun Majelis Tua-Tua dapat memberi kesaksian. Dari mereka aku telah membawa surat-surat untuk saudara-saudara di Damsyik dan #aku telah pergi ke sana untuk menangkap penganut-penganut Jalan Tuhan, yang terdapat juga di situ dan membawa mereka ke Yerusalem untuk dihukum."
 "Tetapi dalam perjalananku ke sana, ketika aku sudah dekat Damsyik, yaitu waktu tengah hari, tiba-tiba memancarlah cahaya yang menyilaukan dari langit mengelilingi aku."
 "Maka rebahlah aku ke tanah dan aku mendengar suatu suara yang berkata kepadaku
 "Jawabku
@@ -21,10 +21,10 @@
 "Tetapi kata Tuhan kepadaku
 "Rakyat mendengarkan Paulus sampai kepada perkataan itu; tetapi sesudah itu, mereka mulai berteriak, katanya
 "Mereka terus berteriak sambil melemparkan jubah mereka dan menghamburkan debu ke udara."
-"Karena itu kepala pasukan memberi perintah untuk membawa Paulus ke markas dan menyuruh memeriksa dan menyesah dia, supaya dapat diketahui apa sebabnya orang banyak itu berteriak-teriak sedemikian terhadap dia."
+"Karena itu kepala pasukan memberi perintah untuk membawa Paulus ke markas dan menyuruh memeriksa dan #menyesah dia, supaya dapat diketahui apa sebabnya orang banyak itu berteriak-teriak sedemikian terhadap dia."
 "Tetapi ketika Paulus ditelentangkan untuk disesah, berkatalah ia kepada perwira yang bertugas
 "Mendengar perkataan itu perwira itu melaporkannya kepada kepala pasukan, katanya
 "Maka datanglah kepala pasukan itu kepada Paulus dan berkata
 "Lalu kata kepala pasukan itu
 "Maka mereka yang harus menyesah dia, segera mundur; dan kepala pasukan itu juga takut, setelah ia tahu, bahwa Paulus, yang ia suruh ikat itu, adalah orang Rum."
-"Namun kepala pasukan itu ingin mengetahui dengan teliti apa yang dituduhkan orang-orang Yahudi kepada Paulus. Karena itu pada keesokan harinya ia menyuruh mengambil Paulus dari penjara dan memerintahkan, supaya imam-imam kepala dan seluruh Mahkamah Agama berkumpul. Lalu ia membawa Paulus dari markas dan menghadapkannya kepada mereka."
+"Namun kepala pasukan itu ingin mengetahui dengan teliti apa yang dituduhkan orang-orang Yahudi kepada Paulus. Karena itu pada keesokan harinya ia menyuruh mengambil Paulus #dari penjara dan memerintahkan, supaya imam-imam kepala dan seluruh Mahkamah Agama berkumpul. Lalu ia membawa Paulus dari markas dan menghadapkannya kepada mereka."

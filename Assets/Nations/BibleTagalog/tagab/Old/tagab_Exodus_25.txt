@@ -17,9 +17,9 @@
 "At gagawa ka ng isang luklukan ng awa, na taganas na ginto
 "At gagawa ka ng dalawang querubing ginto; na yari sa pamukpok iyong gagawin, sa dalawang dulo ng luklukan ng awa."
 "At gawin mo ang isang querubin sa isang dulo, at ang isang querubin sa kabilang dulo
-"At ibubuka ng mga querubin ang kanilang pakpak na paitaas, na nilililiman ang luklukan ng awa, ng kanilang mga pakpak, na ang kanilang mukha ay nagkakaharap, sa dakong luklukan ng awa ihaharap ang mga mukha ng mga querubin."
+"At ibubuka ng mga querubin ang kanilang pakpak na paitaas, na nilililiman ang luklukan ng awa, ng kanilang mga pakpak, #na ang kanilang mukha ay nagkakaharap, sa dakong luklukan ng awa ihaharap ang mga mukha ng mga querubin."
 "At iyong ilalagay ang luklukan ng awa sa ibabaw ng kaban; at sa loob ng kaban, ay iyong ilalagay ang mga kinalalagdaan ng patotoo, na aking ibibigay sa iyo."
-"At diya'y makikipagkita ako sa iyo, at makikipanayam sa iyo mula sa ibabaw ng luklukan ng awa, sa gitna ng dalawang querubin na nangasa ibabaw ng kaban ng patotoo, tungkol sa lahat ng mga bagay na ibibigay ko sa iyong utos sa mga anak ni Israel."
+"At diya'y makikipagkita ako sa iyo, at makikipanayam sa iyo mula sa ibabaw ng luklukan ng awa, sa gitna ng dalawang querubin na nangasa #ibabaw ng kaban ng patotoo, tungkol sa lahat ng mga bagay na ibibigay ko sa iyong utos sa mga anak ni Israel."
 "At gagawa ka ng isang dulang na kahoy na akasia
 "At iyong babalutin ng taganas na ginto, at igagawa mo ng isang kornisang ginto sa palibot."
 "At igagawa mo ng isang gilid na may isang palad ng kamay ang luwang sa palibot, at igagawa mo ng isang kornisang ginto ang palibot ng gilid niyaon."
@@ -30,9 +30,9 @@
 "At ilalagay mo sa dulang ang tinapay na handog sa harap ko na palagi."
 "At gagawa ka ng isang kandelerong taganas na ginto
 "At magkakaroon ng anim na sangang lumalabas sa mga tagiliran niyaon; tatlong sanga ng kandelero'y sa isang tagiliran niyaon, at ang tatlong sanga ng kandelero ay sa kabilang tagiliran niyaon
-"At magkakaroon ng tatlong kopang anyong bulaklak ng almendro sa isang sanga, isang globito at isang bulaklak; at tatlong kopang anyong bulaklak ng almendro sa kabilang sanga, isang globito at isang bulaklak; at gayon sa anim na sangang lumalabas sa kandelero."
+"At magkakaroon ng tatlong kopang anyong bulaklak ng almendro sa isang sanga, isang globito at isang bulaklak; at tatlong kopang anyong #bulaklak ng almendro sa kabilang sanga, isang globito at isang bulaklak; at gayon sa anim na sangang lumalabas sa kandelero."
 "At sa haligi ng kandelero'y magkakaroon ng apat na kopang anyong bulaklak ng almendro, sangpu ng mga globito niyaon, at ng mga bulaklak niyaon
-"At magkakaroon ng isang globito sa ilalim ng dalawa sa mga sanga, at isang globito sa ilalim ng kabilang dalawa sa mga sanga na kaputol niyaon, at isang globito sa ilalim ng dalawang sangang nalalabi ayon sa anim na sanga na lumalabas sa kandelero."
+"At magkakaroon ng isang globito sa ilalim ng dalawa sa mga sanga, at isang globito sa ilalim ng kabilang dalawa sa mga sanga #na kaputol niyaon, at isang globito sa ilalim ng dalawang sangang nalalabi ayon sa anim na sanga na lumalabas sa kandelero."
 "Ang magiging mga globito at mga sanga niyaon ay kaputol
 "At igagawa mo ng kaniyang mga ilawan, na pito
 "At ang magiging mga gunting at mga pinggan niyaon ay taganas na ginto."

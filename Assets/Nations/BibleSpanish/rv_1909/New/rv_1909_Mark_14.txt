@@ -1,6 +1,6 @@
 "Y DOS días después era la Pascua y los días de los panes sin levadura
 "Y decían
-"Y estando él en Bethania en casa de Simón el leproso, y sentado á la mesa, vino una mujer teniendo un alabastro de ungüento de nardo espique de mucho precio; y quebrando el alabastro, derramóselo sobre su cabeza."
+"Y estando él en Bethania en casa de Simón el leproso, y sentado á la mesa, vino una mujer teniendo #un alabastro de ungüento de nardo espique de mucho precio; y quebrando el alabastro, derramóselo sobre su cabeza."
 "Y hubo algunos que se enojaron dentro de sí, y dijeron
 "Porque podía esto ser vendido por más de trescientos denarios, y darse á los pobres. Y murmuraban contra ella."
 "Mas Jesús dijo

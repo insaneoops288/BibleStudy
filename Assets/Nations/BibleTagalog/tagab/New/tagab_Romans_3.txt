@@ -16,13 +16,13 @@
 "Kagibaan at kahirapan ang nasa kanilang mga daan;"
 "At ang daan ng kapayapaan ay hindi nila nakilala;"
 "Walang pagkatakot sa Dios sa harap ng kanilang mga mata."
-"Ngayon ay nalalaman natin na ang anomang sinasabi ng kautusan, yaon ay sinasabi sa nangasa ilalim ng kautusan; upang matikom ang bawa't bibig, at ang buong sanglibutan ay mapasa ilalim ng hatol ng Dios
+"Ngayon ay nalalaman natin na ang anomang sinasabi ng kautusan, yaon ay sinasabi sa nangasa ilalim ng kautusan; #upang matikom ang bawa't bibig, at ang buong sanglibutan ay mapasa ilalim ng hatol ng Dios
 "Sapagka't sa pamamagitan ng mga gawa ng kautusan ay walang laman na aariing-ganap sa paningin niya; sapagka't sa pamamagitan ng kautusan ay ang pagkakilala ng kasalanan."
 "Datapuwa't ngayon bukod sa kautusan ay ipinahahayag ang isang katuwiran ng Dios, na sinasaksihan ng kautusan at ng mga propeta;"
 "Sa makatuwid baga'y ang katuwiran ng Dios sa pamamagitan ng pananampalataya kay Jesucristo sa lahat ng mga nagsisisampalataya; sapagka't walang pagkakaiba;"
 "Sapagka't ang lahat ay nangagkasala nga, at hindi nangakaabot sa kaluwalhatian ng Dios;"
 "Palibhasa'y inaring-ganap na walang bayad ng kaniyang biyaya sa pamamagitan ng pagtubos na nasa kay Cristo Jesus
-"Na siyang inilagay ng Dios na maging pangpalubagloob, sa pamamagitan ng pananampalataya, sa kaniyang dugo, upang maipakilala ang kaniyang katuwiran dahil sa hindi pagpansin sa mga kasalanan na nagawa nang nagdaang panahon sa pagpapahinuhod ng Dios;"
+"Na siyang inilagay ng Dios na maging pangpalubagloob, sa pamamagitan ng pananampalataya, sa kaniyang dugo, upang maipakilala ang kaniyang #katuwiran dahil sa hindi pagpansin sa mga kasalanan na nagawa nang nagdaang panahon sa pagpapahinuhod ng Dios;"
 "Sa pagpapakilala'y aking sinasabi, ng kaniyang katuwiran sa panahong kasalukuyan, upang siya'y maging ganap at tagaaring-ganap sa may pananampalataya kay Cristo."
 "Kaya nga saan naroon ang pagmamapuri? Ito'y inihiwalay na. Sa pamamagitan ng anong kautusan? ng mga gawa? Hindi
 "Kaya nga maipasisiya natin na ang tao ay inaaring-ganap sa pananampalataya na hiwalay sa mga gawa ng kautusan."

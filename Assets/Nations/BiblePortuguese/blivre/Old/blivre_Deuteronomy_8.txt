@@ -1,6 +1,6 @@
 "Cuidareis de pôr por obra todo mandamento que eu vos ordeno hoje, para que vivais, e sejais multiplicados, e entreis, e possuais a terra, da qual jurou o SENHOR a vossos pais."
-"E te lembrarás de todo o caminho por onde te trouxe o SENHOR teu Deus estes quarenta anos no deserto, para afligir-te, para provar-te, para saber o que estava em teu coração, se havias de guardar ou não seus mandamentos."
-"E te afligiu, e te fez ter fome, e te sustentou com maná, comida que não conhecias tu, nem teus pais a conheciam; para fazer-te saber que o homem não viverá de só pão, mas de tudo o que sai da boca do SENHOR viverá o homem."
+"E te lembrarás de todo o caminho por onde te trouxe o SENHOR teu Deus estes quarenta anos no deserto, para #afligir-te, para provar-te, para saber o que estava em teu coração, se havias de guardar ou não seus mandamentos."
+"E te afligiu, e te fez ter fome, e te sustentou com maná, comida que não conhecias tu, nem teus pais a conheciam; para #fazer-te saber que o homem não viverá de só pão, mas de tudo o que sai da boca do SENHOR viverá o homem."
 "Tua roupa nunca se envelheceu sobre ti, nem o pé se te inchou por estes quarenta anos."
 "Reconhece assim em teu coração, que como castiga o homem a seu filho, assim o SENHOR teu Deus te castiga."
 "Guardarás, pois, os mandamentos do SENHOR teu Deus, andando em seus caminhos, e temendo-o."

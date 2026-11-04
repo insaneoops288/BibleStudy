@@ -1,5 +1,5 @@
 """U thoni vëllezërve tuaj
-"Protestoni kundër nënës suaj, protestoni, sepse ajo nuk është gruaja ime dhe unë nuk jam burri i saj. Le të heqë nga fytyra e saj shenjat e prostitucioneve të saj dhe shenjat e shkeljeve të kurorës nga sisët e saj;"
+"Protestoni kundër nënës suaj, protestoni, sepse ajo nuk është gruaja ime dhe unë nuk jam burri i saj. Le të heqë #nga fytyra e saj shenjat e prostitucioneve të saj dhe shenjat e shkeljeve të kurorës nga sisët e saj;"
 "përndryshe do ta zhvesh lakuriq dhe do ta bëj si në ditën e lindjes së saj; do ta katandis në një shkreti, do ta bëj si një tokë të zhuritur dhe do ta bëj të vdesë nga etja."
 "Nuk do të kem mëshirë për bijtë e saj, sepse janë bij prostitucioni."
 "Nëna e tyre u kurvërua në fakt, ajo që është ngjizur është sjellë në mënyrë të turpshme, sepse ka thënë
@@ -15,7 +15,7 @@
 "Atëherë do t'i jap vreshtat e saj dhe luginën e Akorit si portë e shpresës; atje ajo do të këndojë si në ditët e rinisë së saj, ashtu si veproi kur dolin nga vendi i Egjiptit."
 "Atë ditë do të ndodhë, thotë Zoti, që ti do të më quash
 "Do të heq nga goja e saj emrat e Baalëve dhe nuk do t'i kujtojnë më emrat e tyre."
-"Atë ditë do të bëj për ta një besëlidhje me kafshët e fushave, me shpendët e qiellit dhe me rrëshqanorët e tokës. Do të thyej harkun, shpatën dhe luftën duke i eliminuar nga toka dhe do të bëj të prehen të qetë."
+"Atë ditë do të bëj për ta një besëlidhje me kafshët e fushave, me shpendët e qiellit dhe me rrëshqanorët e tokës. #Do të thyej harkun, shpatën dhe luftën duke i eliminuar nga toka dhe do të bëj të prehen të qetë."
 "Do të fejohesh me mua përjetë; do të fejohesh me mua në drejtësi, në paanshmëri, në mirësi dhe në dhembshuri."
 "Do të fejohesh me mua në besnikëri, dhe ti do të njohësh Zotin."
 "Atë ditë do të ndodhë që unë do të përgjigjem"", thotë Zoti. ""Do t'i përgjigjem qiellit dhe ky do t'i përgjigjet tokës;"

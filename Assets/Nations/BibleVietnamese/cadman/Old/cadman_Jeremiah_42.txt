@@ -3,7 +3,7 @@
 "Xin Giê-hô-va Ðức Chúa Trời ông, chỉ cho chúng tôi đường phải theo và sự phải làm!"
 "Tiên tri Giê-rê-mi bèn đáp rằng
 "Các người ấy nói cùng Giê-rê-mi rằng
-"Không cứ điều lành hoặc điều dữ, chúng tôi sẽ vâng theo tiếng Giê-hô-va Ðức Chúa Trời chúng tôi, là Ðấng mà chúng tôi sai ông đến; để khi vâng lời Giê-hô-va Ðức Chúa Trời chúng tôi, thì chúng tôi sẽ được phước."
+"Không cứ điều lành hoặc điều dữ, chúng tôi sẽ vâng theo tiếng Giê-hô-va Ðức Chúa Trời chúng tôi, là Ðấng mà #chúng tôi sai ông đến; để khi vâng lời Giê-hô-va Ðức Chúa Trời chúng tôi, thì chúng tôi sẽ được phước."
 "Khỏi mười ngày, có lời Ðức Giê-hô-va phán cùng Giê-rê-mi."
 "Người gọi Giô-ha-nan, con trai Ca-rê-át, hết thảy các đầu đảng và cả dân sự, kẻ nhỏ người lớn đều đến,"
 "mà nói cùng họ rằng

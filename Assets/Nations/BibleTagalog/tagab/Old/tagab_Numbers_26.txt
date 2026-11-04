@@ -1,13 +1,13 @@
 "At nangyari, pagkatapos ng salot, na sinalita ng Panginoon kay Moises at kay Eleazar na anak ni Aaron na saserdote, na sinasabi,"
-"Bilangin mo ang buong kapisanan ng mga anak ni Israel mula sa dalawang pung taong gulang na patanda, ayon sa mga sangbahayan ng kanilang mga magulang, yaong lahat na makalalabas sa Israel sa pakikibaka."
+"Bilangin mo ang buong kapisanan ng mga anak ni Israel mula sa dalawang pung taong gulang na patanda, #ayon sa mga sangbahayan ng kanilang mga magulang, yaong lahat na makalalabas sa Israel sa pakikibaka."
 "At si Moises at si Eleazar na saserdote ay nakipagsalitaan sa kanila sa mga kapatagan ng Moab sa siping ng Jordan sa Jerico, na sinasabi,"
 "Bilangin ninyo ang bayan, mula sa dalawang pung taong gulang na patanda; gaya ng iniutos ng Panginoon kay Moises at sa mga anak ni Israel, na lumabas sa lupain ng Egipto."
 "Si Ruben ang panganay ni Israel
 "Kay Hesron, ang angkan ng mga Hesronita; kay Carmi, ang angkan ng mga Carmita."
 "Ito ang mga angkan ng mga Rubenita
 "At ang mga anak ni Phallu; ay si Eliab."
-"At ang mga anak ni Eliab; ay si Nemuel, at si Dathan, at si Abiram. Ito yaong Dathan at Abiram, na tinawag sa kapisanan na siya ngang nagsilaban kay Moises at kay Aaron, sa pulutong ni Core, nang sila'y lumaban sa Panginoon;"
-"At ibinuka ng lupain ang kaniyang bibig, at nilamon sila pati ni Core, nang mamatay ang pulutong na yaon; noong panahong lamunin ng apoy ang dalawang daan at limang pung tao, at sila'y naging isang tanda."
+"At ang mga anak ni Eliab; ay si Nemuel, at si Dathan, at si Abiram. Ito yaong Dathan at Abiram, na tinawag #sa kapisanan na siya ngang nagsilaban kay Moises at kay Aaron, sa pulutong ni Core, nang sila'y lumaban sa Panginoon;"
+"At ibinuka ng lupain ang kaniyang bibig, at nilamon sila pati ni Core, nang mamatay ang pulutong na yaon; #noong panahong lamunin ng apoy ang dalawang daan at limang pung tao, at sila'y naging isang tanda."
 "Gayon ma'y hindi namatay ang mga anak ni Core."
 "Ang mga anak ni Simeon ayon sa kanilang mga angkan; kay Nemuel, ang angkan ng mga Nemuelita
 "Kay Zera, ang angkan ng mga Zeraita; kay Saul, ang angkan ng mga Saulita."
@@ -62,4 +62,4 @@
 "At yaong nangabilang sa kanila ay dalawang pu't tatlong libo, lahat ng lalake mula sa isang buwang gulang na patanda
 "Ito yaong nangabilang ni Moises at ni Eleazar na saserdote, na bumilang ng mga anak ni Israel sa mga kapatagan ng Moab sa siping ng Jordan sa Jerico."
 "Nguni't sa mga ito ay walang tao sa kanila, na ibinilang ni Moises at ni Aaron na saserdote, na bumilang ng mga anak ni Israel sa ilang ng Sinai."
-"Sapagka't sinabi ng Panginoon tungkol sa kanila, Sila'y mamamatay na walang pagsala sa ilang. At walang natira kahi't isang tao sa kanila, liban kay Caleb na anak ni Jephone, at kay Josue na anak ni Nun."
+"Sapagka't sinabi ng Panginoon tungkol sa kanila, Sila'y mamamatay na walang pagsala sa ilang. At walang natira kahi't isang #tao sa kanila, liban kay Caleb na anak ni Jephone, at kay Josue na anak ni Nun."

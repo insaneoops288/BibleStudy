@@ -6,7 +6,7 @@
 "Disse, porém, Josafat
 "Ao que o rei de Israel respondeu a Josafat
 "Então o rei de Israel chamou um eunuco, e disse
-"Ora, o rei de Israel e Josafat, rei de Judá, vestidos de seus trajes reais, estavam assentados cada um no seu trono, na praça à entrada da porta de Samaria; e todos os profetas profetizavam diante deles."
+"Ora, o rei de Israel e Josafat, rei de Judá, vestidos de seus trajes reais, estavam assentados cada um #no seu trono, na praça à entrada da porta de Samaria; e todos os profetas profetizavam diante deles."
 "E Zedequias, filho de Canaana, fez para si uns chifres de ferro, e disse
 "E todos os profetas profetizavam o mesmo, dizendo
 "O mensageiro que fora chamar Micaías lhe falou, dizendo

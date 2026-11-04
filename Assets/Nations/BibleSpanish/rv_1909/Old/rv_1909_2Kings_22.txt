@@ -11,10 +11,10 @@
 "Y cuando el rey hubo oído las palabras del libro de la ley, rasgó sus vestidos."
 "Luego mandó el rey á Hilcías el sacerdote, y á Ahicam hijo de Saphán, y á Achbor hijo de Michâía, y á Saphán escriba, y á Asaía siervo del rey, diciendo
 "Id, y preguntad á Jehová por mí, y por el pueblo, y por todo Judá, acerca de las palabras de este libro que se ha hallado
-"Entonces fué Hilcías el sacerdote, y Ahicam y Achbor y Saphán y Asaía, á Hulda profetisa, mujer de Sallum hijo de Ticva hijo de Araas, guarda de las vestiduras, la cual moraba en Jerusalem en la segunda parte de la ciudad, y hablaron con ella."
+"Entonces fué Hilcías el sacerdote, y Ahicam y Achbor y Saphán y Asaía, á Hulda profetisa, mujer de Sallum hijo de Ticva hijo #de Araas, guarda de las vestiduras, la cual moraba en Jerusalem en la segunda parte de la ciudad, y hablaron con ella."
 "Y ella les dijo
 "Así dijo Jehová
 "Por cuanto me dejaron á mí, y quemaron perfumes á dioses ajenos, provocándome á ira en toda obra de sus manos; y mi furor se ha encendido contra este lugar, y no se apagará."
 "Mas al rey de Judá que os ha enviado para que preguntaseis á Jehová, diréis así
-"Y tu corazón se enterneció, y te humillaste delante de Jehová, cuando oíste lo que yo he pronunciado contra este lugar y contra sus moradores, que vendrían á ser asolados y malditos, y rasgaste tus vestidos, y lloraste en mi presencia, también yo te he oí"
+"Y tu corazón se enterneció, y te humillaste delante de Jehová, cuando oíste lo que yo he pronunciado contra este lugar y contra sus #moradores, que vendrían á ser asolados y malditos, y rasgaste tus vestidos, y lloraste en mi presencia, también yo te he oí"
 "Por tanto, he aquí yo te recogeré con tus padres, y tú serás recogido á tu sepulcro en paz, y no verán tus ojos todo el mal que yo traigo sobre este lugar. Y ellos dieron al rey la respuesta."

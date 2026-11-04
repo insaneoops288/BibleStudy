@@ -5,9 +5,9 @@
 "Foi, pois, Amasa a juntar a Judá; mas deteve-se mais do tempo que lhe havia sido assinalado."
 "E disse Davi a Abisai
 "Então saíram depois dele os homens de Joabe, e os quereteus e peleteus, e todos os valentes
-"E estando eles próximo da grande penha que está em Gibeão, saiu-lhes Amasa ao encontro. Agora bem, a vestimenta que Joabe tinha sobreposta estava-lhe cingida, e sobre ela o cinto de um punhal apegado a seus lombos em sua bainha, da que assim quando ele avançou, o punhal caiu."
+"E estando eles próximo da grande penha que está em Gibeão, saiu-lhes Amasa ao encontro. Agora bem, a vestimenta que Joabe tinha sobreposta estava-lhe cingida, #e sobre ela o cinto de um punhal apegado a seus lombos em sua bainha, da que assim quando ele avançou, o punhal caiu."
 "Então Joabe disse a Amasa
-"E como Amasa não se cuidou do punhal que Joabe na mão tinha, feriu-lhe este com ela na quinta costela, e derramou suas entranhas por terra, e caiu morto sem dar-lhe segundo golpe. Depois Joabe e seu irmão Abisai perseguiram Seba filho de Bicri."
+"E como Amasa não se cuidou do punhal que Joabe na mão tinha, feriu-lhe este com ela na quinta costela, e derramou suas #entranhas por terra, e caiu morto sem dar-lhe segundo golpe. Depois Joabe e seu irmão Abisai perseguiram Seba filho de Bicri."
 "E um dos criados de Joabe se parou junto a ele, dizendo
 "E Amasa se havia revolvido no sangue no meio do caminho
 "Logo, pois, que foi afastado do caminho, passaram todos os que seguiam a Joabe, para ir atrás de Seba filho de Bicri."
@@ -19,7 +19,7 @@
 "Eu sou das pacíficas e fiéis de Israel
 "E Joabe respondeu, dizendo
 "A coisa não é assim
-"A mulher foi logo a todo aquele povo com sua sabedoria; e eles cortaram a cabeça a Seba filho de Bicri, e lançaram-na a Joabe. E ele tocou a trombeta, e dispersaram-se da cidade, cada um à sua morada. E Joabe se voltou ao rei a Jerusalém."
+"A mulher foi logo a todo aquele povo com sua sabedoria; e eles cortaram a cabeça a Seba filho de Bicri, e lançaram-na a #Joabe. E ele tocou a trombeta, e dispersaram-se da cidade, cada um à sua morada. E Joabe se voltou ao rei a Jerusalém."
 "Assim ficou Joabe sobre todo aquele exército de Israel; e Benaia filho de Joiada sobre os quereteus e peleteus;"
 "E Adorão sobre os tributos; e Josafá filho de Ailude, o cronista;"
 "E Seva, escriba; e Zadoque e Abiatar, sacerdotes;"

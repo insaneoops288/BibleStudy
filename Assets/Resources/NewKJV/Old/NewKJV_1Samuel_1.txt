@@ -8,7 +8,7 @@ So it was, year by year, when she went up to the house of the LORD, that she pro
 Then Elkanah her husband said to her, "Hannah, why do you weep? Why do you not eat? And why is your heart grieved? Am I not better to you than ten sons?"
 So Hannah arose after they had finished eating and drinking in Shiloh. Now Eli the priest was sitting on the seat by the doorpost of the tabernacle of the LORD.
 And she was in bitterness of soul, and prayed to the LORD and wept in anguish.
-Then she made a vow and said, "O LORD of hosts, if You will indeed look on the affliction of Your maidservant and remember me, and not forget Your maidservant, but will give Your maidservant a male child, then I will give him to the LORD all the days of his life, and no razor shall come upon his head."
+Then she made a vow and said, "O LORD of hosts, if You will indeed look on the affliction of Your maidservant and remember me, and not forget Your maidservant, but #will give Your maidservant a male child, then I will give him to the LORD all the days of his life, and no razor shall come upon his head."
 And it happened, as she continued praying before the LORD, that Eli watched her mouth.
 Now Hannah spoke in her heart; only her lips moved, but her voice was not heard. Therefore Eli thought she was drunk.
 So Eli said to her, "How long will you be drunk? Put your wine away from you!"
@@ -20,7 +20,7 @@ Then they rose early in the morning and worshiped before the LORD, and returned 
 So it came to pass in the process of time that Hannah conceived and bore a son, and called his name Samuel, saying, "Because I have asked for him from the LORD."
 Now the man Elkanah and all his house went up to offer to the LORD the yearly sacrifice and his vow.
 But Hannah did not go up, for she said to her husband, "Not until the child is weaned; then I will take him, that he may appear before the LORD and remain there forever."
-And Elkanah her husband said to her, "Do what seems best to you; wait until you have weaned him. Only let the LORD establish His word." So the woman stayed and nursed her son until she had weaned him.
+And Elkanah her husband said to her, "Do what seems best to you; wait until you have weaned him. Only #let the LORD establish His word." So the woman stayed and nursed her son until she had weaned him.
 Now when she had weaned him, she took him up with her, with three bulls, one ephah of flour, and a skin of wine, and brought him to the house of the LORD in Shiloh. And the child was young.
 Then they slaughtered a bull, and brought the child to Eli.
 And she said, "O my lord! As your soul lives, my lord, I am the woman who stood by you here, praying to the LORD.

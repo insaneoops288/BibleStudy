@@ -8,7 +8,7 @@
 "Mas les resistía Elimas el encantador (que así se interpreta su nombre), procurando apartar de la fe al procónsul."
 "Entonces Saulo, que también es Pablo, lleno del Espíritu Santo, poniendo en él los ojos,"
 "Dijo
-"Ahora pues, he aquí la mano del Señor es contra ti, y serás ciego, que no veas el sol por tiempo. Y luego cayeron en él obscuridad y tinieblas; y andando alrededor, buscaba quién le condujese por la mano."
+"Ahora pues, he aquí la mano del Señor es contra ti, y serás ciego, que no veas el sol por #tiempo. Y luego cayeron en él obscuridad y tinieblas; y andando alrededor, buscaba quién le condujese por la mano."
 "Entonces el procónsul, viendo lo que había sido hecho, creyó, maravillado de la doctrina del Señor."
 "Y partidos de Papho, Pablo y sus compañeros arribaron á Perge de Pamphylia
 "Y ellos pasando de Perge, llegaron á Antioquía de Pisidia, y entrando en la sinagoga un día de sábado, sentáronse."

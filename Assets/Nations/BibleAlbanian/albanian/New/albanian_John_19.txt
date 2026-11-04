@@ -28,14 +28,14 @@
 "Pas kësaj, Jezusi, duke ditur që tashmë çdo gjë ishte kryer, që të përmbushej Shkrimi, tha
 "Por aty ishte një enë plot me uthull. Pasi shtinë një sfungjer në uthull dhe e vunë në majë të një dege hisopi, ia afruan te goja."
 "Kur Jezusi e mori uthullën, tha
-"Duke qenë se ishte dita e Përgatitjes, me qëllim që trupat të mos qëndronin në kryq të shtunën, sepse ajo e shtunë ishte një ditë me rëndësi të veçantë, Judenjtë i kërkuan Pilatit që atyre t'u thyheshin kërcinjtë dhe të hiqeshin që andej."
+"Duke qenë se ishte dita e Përgatitjes, me qëllim që trupat të mos qëndronin në kryq të shtunën, sepse ajo e shtunë #ishte një ditë me rëndësi të veçantë, Judenjtë i kërkuan Pilatit që atyre t'u thyheshin kërcinjtë dhe të hiqeshin që andej."
 "Ushtarët, pra, erdhën dhe ia thyen kërcinjtë të parit dhe pastaj edhe tjetrit që ishte kryqëzuar me të;"
 "por, kur erdhën te Jezusi, dhe si panë se ai tashmë kishte vdekur, nuk ia thyen kërcinjtë,"
 "por njëri nga ushtarët ia tejshpoi brinjën me një heshtë, dhe menjëherë i doli gjak e ujë."
 "Dhe ai që ka parë, ka dëshmuar për këtë, dhe dëshmia e tij është e vërtetë; dhe ai e di se thotë të vërtetën, që ju të besoni."
 "Këto gjëra në fakt ndodhën që të përmbushet Shkrimi
 "Dhe akoma një Shkrim tjetër thotë
-"Pas këtyre gjërave, Jozefi nga Arimatea, që ishte dishepull i Jezusit, por fshehtas nga druajtja e Judenjve, i kërkoi Pilatit që mund ta merrte trupin e Jezusit; dhe Pilati i dha leje. Atëherë ai erdhi dhe e mori trupin e Jezusit."
+"Pas këtyre gjërave, Jozefi nga Arimatea, që ishte dishepull i Jezusit, por fshehtas nga druajtja e Judenjve, i kërkoi Pilatit që #mund ta merrte trupin e Jezusit; dhe Pilati i dha leje. Atëherë ai erdhi dhe e mori trupin e Jezusit."
 "Por erdhi dhe Nikodemi, i cili më përpara kishte vajtur te Jezusi natën, duke sjellë një përzierje prej mirre dhe aloe, prej rreth njëqind librash."
 "Ata, pra, e morën trupin e Jezusit dhe e mbështollën në pëlhura liri me erëra të këndëshme, sipas zakonit të varrimit që ndiqnin Judenjtë."
 "Por në atë vend ku ai u kryqëzua ishte një kopsht, dhe në kopsht një varr i ri, në të cilën ende nuk ishte vënë askush."

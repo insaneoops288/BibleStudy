@@ -16,10 +16,10 @@
 "Și Obadia, fiul lui Șemaia, fiul lui Galal, fiul lui Iedutun și Berechia, fiul lui Așa, fiul lui Elcana, care au locuit în satele netofatiților."
 "Și portarii [erau]
 "Care până atunci [au așteptat ]în poarta împăratului spre est, ei [erau ]portari în cetele copiilor lui Levi."
-"Și Șalum fiul lui Kore, fiul lui Ebiasaf, fiul lui Core și frații săi, din casa tatălui său, coreiții, [erau ]peste munca serviciului, păzitori ai porților tabernacolului; și părinții lor, [fiind ]peste oștirea DOMNULUI, [erau ]păzitori ai intrării."
+"Și Șalum fiul lui Kore, fiul lui Ebiasaf, fiul lui Core și frații săi, din casa tatălui său, coreiții, [erau #]peste munca serviciului, păzitori ai porților tabernacolului; și părinții lor, [fiind ]peste oștirea DOMNULUI, [erau ]păzitori ai intrării."
 "Și Fineas, fiul lui Eleazar, a fost odinioară conducător peste ei și[ ]DOMNUL [a fost ]cu el."
 "Și Zaharia, fiul lui Meșelemia, [era ]portar al ușii tabernacolului întâlnirii."
-"Toți aceștia aleși să fie portari la porți [erau ]două sute doisprezece. Aceștia erau numărați prin genealogiile lor, în satele lor, pe aceștia David și Samuel, văzătorul, i-au rânduit în serviciul lor."
+"Toți aceștia aleși să fie portari la porți [erau ]două sute doisprezece. Aceștia erau numărați prin genealogiile #lor, în satele lor, pe aceștia David și Samuel, văzătorul, i-au rânduit în serviciul lor."
 "Astfel ei și copiii lor [au avut ]supravegherea, prin gărzi, a porților casei DOMNULUI, casa tabernacolului."
 "Portarii erau spre cele patru vânturi
 "Și frații lor, [care erau ]în satele lor, veneau pentru șapte zile, din când în când, cu ei."

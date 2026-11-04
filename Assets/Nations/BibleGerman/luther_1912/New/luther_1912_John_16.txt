@@ -10,7 +10,7 @@
 "um die Gerechtigkeit aber, daß ich zum Vater gehe und ihr mich hinfort nicht sehet;"
 "um das Gericht, daß der Fürst dieser Welt gerichtet ist."
 "Ich habe euch noch viel zu sagen; aber ihr könnt es jetzt nicht tragen."
-"Wenn aber jener, der Geist der Wahrheit, kommen wird, der wird euch in alle Wahrheit leiten. Denn er wird nicht von sich selber reden; sondern was er hören wird, das wird er reden, und was zukünftig ist, wird er euch verkünden."
+"Wenn aber jener, der Geist der Wahrheit, kommen wird, der wird euch in alle Wahrheit leiten. Denn er wird nicht von #sich selber reden; sondern was er hören wird, das wird er reden, und was zukünftig ist, wird er euch verkünden."
 "Derselbe wird mich verklären; denn von dem Meinen wird er's nehmen und euch verkündigen."
 "Alles, was der Vater hat, das ist mein. Darum habe ich euch gesagt
 "ber ein kleines, so werdet ihr mich nicht sehen; und aberüber ein kleines, so werdet ihr mich sehen, denn ich gehe zum Vater."
@@ -18,7 +18,7 @@
 "Da sprachen sie
 "Da merkte Jesus, daß sie ihn fragen wollten, und sprach zu ihnen
 "Wahrlich, wahrlich ich sage euch
-"Ein Weib, wenn sie gebiert, so hat sie Traurigkeit; denn ihre Stunde ist gekommen. Wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Angst um der Freude willen, daß der Mensch zur Welt geboren ist."
+"Ein Weib, wenn sie gebiert, so hat sie Traurigkeit; denn ihre Stunde ist gekommen. Wenn sie aber das Kind geboren #hat, denkt sie nicht mehr an die Angst um der Freude willen, daß der Mensch zur Welt geboren ist."
 "Und ihr habt auch nun Traurigkeit; aber ich will euch wiedersehen, und euer Herz soll sich freuen, und eure Freude soll niemand von euch nehmen."
 "Und an dem Tage werdet ihr mich nichts fragen. Wahrlich, wahrlich ich sage euch
 "Bisher habt ihr nichts gebeten in meinem Namen. Bittet, so werdet ihr nehmen, daß eure Freude vollkommen sei."

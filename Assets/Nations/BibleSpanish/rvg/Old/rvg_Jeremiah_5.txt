@@ -1,6 +1,6 @@
 "Recorred las calles de Jerusalén, y mirad ahora, y sabed, y buscad en sus plazas si podéis hallar algún hombre, si hay [alguno] que haga juicio, que busque verdad; y yo la perdonaré."
 "Y aunque digan
-"Oh Jehová, ¿no miran tus ojos a la verdad? Los azotaste, y no les dolió; los consumiste, [pero] no quisieron recibir corrección; endurecieron sus rostros más que la piedra, no quisieron arrepentirse."
+"Oh Jehová, ¿no miran tus ojos a la verdad? Los azotaste, y no les dolió; los consumiste, #[pero] no quisieron recibir corrección; endurecieron sus rostros más que la piedra, no quisieron arrepentirse."
 "Pero yo dije
 "Me iré a los grandes, y les hablaré; porque ellos conocen el camino de Jehová, el juicio de su Dios. Pero ellos también quebraron el yugo [y] rompieron las coyundas."
 "Por tanto, el león de la selva los herirá, los destruirá el lobo del desierto, el leopardo acechará sobre sus ciudades; cualquiera que de ellas saliere, será despedazado
@@ -14,12 +14,12 @@
 "Por tanto, así dice Jehová Dios de los ejércitos
 "He aquí yo traigo sobre vosotros gente de lejos, oh casa de Israel, dice Jehová; gente robusta, gente antigua, gente cuya lengua ignorarás, y no entenderás lo que hablare."
 "Su aljaba [es] como sepulcro abierto, todos ellos [son] valientes."
-"Y comerán tu mies y tu pan, [que habían] de comer tus hijos y tus hijas; comerán tus ovejas y tus vacas, comerán tus viñas y tus higueras; y espada destruirán tus ciudades fortificadas en que tú confías."
+"Y comerán tu mies y tu pan, [que habían] de comer tus hijos y tus hijas; comerán tus ovejas y #tus vacas, comerán tus viñas y tus higueras; y espada destruirán tus ciudades fortificadas en que tú confías."
 "Mas en aquellos días, dice Jehová, no os destruiré del todo."
 "Y será que cuando dijereis
 "Anunciad esto en la casa de Jacob, y haced que esto se oiga en Judá, diciendo
 "Oíd ahora esto, pueblo necio y sin corazón, que tiene ojos y no ve, que tiene oídos y no oye."
-"¿A mí no me temeréis? dice Jehová; ¿no os amedrentaréis ante mi presencia, que al mar puse arena por término, por ordenación eterna, la cual no quebrantará? Se levantarán tempestades, mas no prevalecerán; bramarán sus ondas, mas no lo pasarán."
+"¿A mí no me temeréis? dice Jehová; ¿no os amedrentaréis ante mi presencia, que al mar puse arena por término, por #ordenación eterna, la cual no quebrantará? Se levantarán tempestades, mas no prevalecerán; bramarán sus ondas, mas no lo pasarán."
 "Pero este pueblo tiene corazón falso y rebelde; se volvieron y se fueron."
 "Y no dijeron en su corazón
 "Vuestras iniquidades han estorbado estas cosas; y vuestros pecados detuvieron de vosotros el bien."

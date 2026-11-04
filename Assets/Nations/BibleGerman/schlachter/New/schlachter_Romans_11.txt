@@ -3,7 +3,7 @@
 "«Herr, sie haben deine Propheten getötet und deine Altäre zerstört, und ich bin alleinübriggeblieben, und sie trachten mir nach dem Leben!»"
 "Aber was sagt ihm die göttliche Antwort?«Ich habe mir siebentausend Mannübrigbleiben lassen, die kein Knie gebeugt haben vor Baal.»"
 "So ist auch in der jetzigen Zeit ein Rest vorhanden, dank der Gnadenwahl."
-"Wenn aber aus Gnade, so ist es nicht mehr um der Werke willen, sonst würde die Gnade nicht mehr Gnade sein; wenn aber um der Werke willen, so ist es nicht mehr aus Gnade, sonst wäre das Werk nicht mehr Werk."
+"Wenn aber aus Gnade, so ist es nicht mehr um der Werke willen, sonst würde die Gnade nicht mehr Gnade sein; #wenn aber um der Werke willen, so ist es nicht mehr aus Gnade, sonst wäre das Werk nicht mehr Werk."
 "Wie nun? Was Israel sucht, das hat es nicht erlangt; die Auswahl aber hat es erlangt, dieübrigen aber wurden verstockt,"
 "wie geschrieben steht
 "Und David spricht
@@ -21,8 +21,8 @@
 "Denn wenn Gott die natürlichen Zweige nicht verschont hat, so wird er wohl auch dich nicht verschonen."
 "So schaue nun die Güte und die Strenge Gottes; die Strenge an denen, die gefallen sind; die Güte aber an dir, sofern du in der Güte bleibst, sonst wirst auch du abgehauen werden!"
 "Jene dagegen, wenn sie nicht im Unglauben verharren, sollen wieder eingepfropft werden; denn Gott vermag sie wohl wieder einzupfropfen."
-"Denn wenn du aus dem von Natur wildenÖlbaum herausgeschnitten und wider die Natur in den edlenÖlbaum eingepfropft worden bist, wieviel eher können diese, die natürlichen Zweige, wieder in ihren eigenenÖlbaum eingepfropft werden!"
-"Denn ich will nicht, meine Brüder, daß euch dieses Geheimnis unbekannt bleibe, damit ihr euch nicht selbst klug dünket, daß Israel zum Teil Verstockung widerfahren ist, bis daß die Vollzahl der Heiden eingegangen sein wird"
+"Denn wenn du aus dem von Natur wildenÖlbaum herausgeschnitten und wider die Natur in den edlenÖlbaum eingepfropft #worden bist, wieviel eher können diese, die natürlichen Zweige, wieder in ihren eigenenÖlbaum eingepfropft werden!"
+"Denn ich will nicht, meine Brüder, daß euch dieses Geheimnis unbekannt bleibe, damit ihr euch nicht selbst klug #dünket, daß Israel zum Teil Verstockung widerfahren ist, bis daß die Vollzahl der Heiden eingegangen sein wird"
 "und also ganz Israel gerettet werde, wie geschrieben steht
 "und
 "Nach dem Evangelium zwar sind sie Feinde um euretwillen, nach der Erwählung aber Geliebte um der Väter willen."

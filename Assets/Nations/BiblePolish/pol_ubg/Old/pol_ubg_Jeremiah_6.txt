@@ -8,11 +8,11 @@
 "Przyjmij upomnienie, Jerozolimo, aby moja dusza nie odstąpiła od ciebie, bym cię nie zamienił w pustkowie, ziemię bezludną."
 "Tak mówi PAN zastępów
 "Do kogo będę mówić i kogo ostrzegę, aby słyszeli? Oto ich uszy są nieobrzezane, tak że nie mogą słuchać. Oto słowo PANA uważają za hańbę i nie mają w nim upodobania."
-"Dlatego jestem pełen zapalczywości PANA, zamęczam się, aby ją powstrzymać. Wyleję ją zarówno na dzieci na ulicy, jak i na gromadę młodzieńców, gdyż będą pojmani – mąż z żoną, starzec z podeszłym w wieku."
+"Dlatego jestem pełen zapalczywości PANA, zamęczam się, aby ją powstrzymać. Wyleję ją zarówno na dzieci na ulicy, jak #i na gromadę młodzieńców, gdyż będą pojmani – mąż z żoną, starzec z podeszłym w wieku."
 "Ich domy przypadną innym, także ich pola i żony, gdyż wyciągnę swoją rękę na mieszkańców tej ziemi, mówi PAN;"
 "Gdyż od najmniejszego z nich aż do największego – wszyscy oddani są chciwości i od proroka aż do kapłana – wszyscy popełniają oszustwo."
 "I leczą rany córki mego ludu tylko powierzchownie, mówiąc
-"Czy zawstydzili się, że popełnili obrzydliwość? Bynajmniej, wcale nie wstydzili się ani nie potrafili rumienić. Dlatego upadną wśród tych, którzy mają upaść. W czasie gdy ich nawiedzę, upadną, mówi PAN."
+"Czy zawstydzili się, że popełnili obrzydliwość? Bynajmniej, wcale nie wstydzili się ani nie potrafili rumienić. Dlatego #upadną wśród tych, którzy mają upaść. W czasie gdy ich nawiedzę, upadną, mówi PAN."
 "Tak mówi PAN
 "I ustanowiłem nad wami stróżów, mówiąc
 "Dlatego słuchajcie, narody; poznaj, o zgromadzenie, co się wśród nich dzieje."

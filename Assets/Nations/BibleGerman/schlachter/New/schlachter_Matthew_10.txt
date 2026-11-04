@@ -38,5 +38,5 @@
 "Und wer nicht sein Kreuz nimmt und mir nachfolgt, der ist meiner nicht wert."
 "Wer sein Leben findet, der wird es verlieren; und wer sein Leben verliert um meinetwillen, der wird es finden."
 "Wer euch aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt den auf, der mich gesandt hat."
-"Wer einen Propheten aufnimmt, weil er ein Prophet heißt, der wird den Lohn eines Propheten empfangen; und wer einen Gerechten aufnimmt, weil er ein Gerechter heißt, der wird den Lohn eines Gerechten empfangen;"
+"Wer einen Propheten aufnimmt, weil er ein Prophet heißt, der wird den Lohn eines Propheten empfangen; und #wer einen Gerechten aufnimmt, weil er ein Gerechter heißt, der wird den Lohn eines Gerechten empfangen;"
 "und wer einen dieser Geringen auch nur mit einem Becher kalten Wassers tränkt, weil er ein Jünger heißt, wahrlich, ich sage euch, der wird seinen Lohn nicht verlieren!"

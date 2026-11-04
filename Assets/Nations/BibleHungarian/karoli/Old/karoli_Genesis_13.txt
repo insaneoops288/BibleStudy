@@ -7,7 +7,7 @@
 "Versengés is támada az Ábrám barompásztorai között, és a Lót barompásztorai között; és a Kananeusok és a Perizeusok is ott laknak vala akkor azon a földön."
 "Monda azért Ábrám Lótnak
 "Avagy nincsen-é elõtted mind az egész föld? Válj el kérlek, tõlem; ha te balra tartasz, én jobbra megyek; ha te jobbra menéndesz, én balra térek."
-"Felemelé azért Lót az õ szemeit, és látá, hogy a Jordán egész melléke bõvizû föld; mert minekelõtte elvesztette volna az Úr Sodomát és Gomorát, mind Czoárig olyan vala az, mint az Úr kertje, mint Égyiptom földe."
+"Felemelé azért Lót az õ szemeit, és látá, hogy a Jordán egész melléke bõvizû föld; mert minekelõtte elvesztette volna #az Úr Sodomát és Gomorát, mind Czoárig olyan vala az, mint az Úr kertje, mint Égyiptom földe."
 "És választá Lót magának a Jordán egész mellékét, és elköltözék Lót kelet felé
 "Ábrám lakozik vala a Kanaán földén, Lót pedig lakozik vala a [Jordán- ]melléki városokban, és sátoroz vala Sodomáig."
 "Sodoma lakosai pedig nagyon gonoszok és bûnösök valának az Úr elõtt."

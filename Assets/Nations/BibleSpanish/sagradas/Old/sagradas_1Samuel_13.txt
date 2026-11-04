@@ -1,8 +1,8 @@
 "Como un hijo de <I>un</I>  año era Saúl cuando <I>comenzó</I>  a reinar; y dos años reinó sobre Israel,"
-"cuando se escogió tres mil de Israel; los dos mil estuvieron con Saúl en Micmas y en el monte de Bet-el, y los mil estuvieron con Jonatán en Gabaa de Benjamín; y envió a todo el otro pueblo cada uno a sus tiendas."
+"cuando se escogió tres mil de Israel; los dos mil estuvieron con Saúl en Micmas y en el monte de Bet-el, y #los mil estuvieron con Jonatán en Gabaa de Benjamín; y envió a todo el otro pueblo cada uno a sus tiendas."
 "Y Jonatán hirió la guarnición de los filisteos que <I>había</I>  en el collado, y <I>lo</I>  oyeron los filisteos. E hizo Saúl tocar trompeta por toda la tierra, diciendo
 "Y todo Israel oyó lo que se decía
-"Entonces los filisteos se juntaron para pelear con Israel, treinta mil carros, y seis mil caballos, y pueblo como la arena que <I>está</I>  a la orilla del mar en multitud; y subieron, y asentaron campamento en Micmas, al  oriente de Bet-avén."
+"Entonces los filisteos se juntaron para pelear con Israel, treinta mil carros, y seis mil caballos, y pueblo como la arena que #<I>está</I>  a la orilla del mar en multitud; y subieron, y asentaron campamento en Micmas, al  oriente de Bet-avén."
 "Mas los hombres de Israel, viéndose puestos en estrecho, (porque el pueblo estaba en aprieto), se escondió el pueblo en cuevas, en fosos, en peñascos, en rocas y en cisternas."
 "<I>Y algunos de</I>  los hebreos pasaron el Jordán a la tierra de Gad y de Galaad; y Saúl se estaba aún en Gilgal, y todo el pueblo iba tras él temblando."
 "Y <I>él</I>  esperó siete días, conforme al plazo que Samuel <I>había dicho</I> ; pero Samuel no venía a Gilgal, y el pueblo se le desertaba."

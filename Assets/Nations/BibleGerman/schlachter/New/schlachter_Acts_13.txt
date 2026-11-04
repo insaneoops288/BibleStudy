@@ -1,4 +1,4 @@
-"Es waren aber zu Antiochia in der dortigen Gemeinde etliche Propheten und Lehrer, nämlich Barnabas und Simeon, genannt Niger, und Lucius von Kyrene und Manahen, der mit dem Vierfürsten Herodes erzogen worden war, und Saulus."
+"Es waren aber zu Antiochia in der dortigen Gemeinde etliche Propheten und Lehrer, nämlich Barnabas und Simeon, genannt #Niger, und Lucius von Kyrene und Manahen, der mit dem Vierfürsten Herodes erzogen worden war, und Saulus."
 "Als sie nun dem Herrn dienten und fasteten, sprach der heilige Geist
 "Da fasteten und beteten sie, legten ihnen die Hände auf und ließen sie ziehen."
 "Diese nun, vom heiligen Geist ausgesandt, zogen hinab gen Seleucia und fuhren von dort zu Schiff nach Cypern."
@@ -8,7 +8,7 @@
 "Aber es widersetzte sich ihnen Elymas, der Zauberer(denn so wird sein Nameübersetzt), und suchte den Statthalter vom Glauben abzuhalten."
 "Saulus aber, der auch Paulus heißt, voll heiligen Geistes, blickte ihn an"
 "und sprach
-"Und nun siehe, die Hand des Herrn kommtüber dich, und du wirst blind sein und die Sonne nicht sehen eine Zeitlang. Alsbald aber fiel Dunkel und Finsternis auf ihn, und er tappte umher und suchte Leute, die ihn führen könnten."
+"Und nun siehe, die Hand des Herrn kommtüber dich, und du wirst blind sein und die Sonne nicht sehen eine Zeitlang. #Alsbald aber fiel Dunkel und Finsternis auf ihn, und er tappte umher und suchte Leute, die ihn führen könnten."
 "Als nun der Statthalter sah, was geschehen war, wurde er gläubig, betroffen von der Lehre des Herrn."
 "Paulus aber und seine Gefährten fuhren von Paphos ab und kamen nach Perge in Pamphylien; Johannes aber trennte sich von ihnen und kehrte nach Jerusalem zurück."
 "Sie aber zogen von Perge weiter und kamen nach Antiochia in Pisidien und gingen am Sabbattag in die Synagoge und setzten sich."
@@ -40,7 +40,7 @@
 "So sehet nun zu, daß nichtüber euch komme, was in den Propheten gesagt ist
 "«Sehet, ihr Verächter, und verwundert euch und verschwindet, denn ich tue ein Werk in euren Tagen, ein Werk, das ihr nicht glauben werdet, wenn es euch jemand erzählt!»"
 "Als sie aber aus der Versammlung gingen, bat man sie, daß ihnen diese Worte[auch] am nächsten Sabbat gepredigt werden möchten."
-"Nachdem aber die[Versammlung in der] Synagoge sich aufgelöst hatte, folgten viele Juden und gottesfürchtige Proselyten dem Paulus und Barnabas nach, welche zu ihnen redeten und sie ermahnten, bei der Gnade Gottes zu beharren."
+"Nachdem aber die[Versammlung in der] Synagoge sich aufgelöst hatte, folgten viele Juden und gottesfürchtige Proselyten dem Paulus #und Barnabas nach, welche zu ihnen redeten und sie ermahnten, bei der Gnade Gottes zu beharren."
 "Und am folgenden Sabbat versammelte sich fast die ganze Stadt, um das Wort Gottes zu hören."
 "Als aber die Juden die Volksmenge sahen, wurden sie voll Eifersucht und widersprachen dem, was Paulus sagte, und lästerten."
 "Da sprachen Paulus und Barnabas freimütig

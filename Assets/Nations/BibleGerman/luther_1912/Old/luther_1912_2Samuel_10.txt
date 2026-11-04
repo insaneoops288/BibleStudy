@@ -3,7 +3,7 @@
 "sprachen die Gewaltigen der Kinder Ammon zu ihrem Herrn, Hanun
 "Da nahm Hanun die Knechte David und schor ihnen den Bart halb und schnitt ihnen die Kleider halb ab bis an den Gürtel und ließ sie gehen."
 "Da das David ward angesagt, sandte er ihnen entgegen; denn die Männer waren sehr geschändet. Und der König ließ ihnen sagen
-"Da aber die Kinder Ammon sahen, daß sie vor David stinkend geworden waren, sandten sie hin und dingten die Syrer des Hauses Rehob und die Syrer zu Zoba, zwanzigtausend Mann Fußvolk, und von dem König Maachas tausend Mann und von Is-Tob zwölftausend Mann."
+"Da aber die Kinder Ammon sahen, daß sie vor David stinkend geworden waren, sandten sie hin und dingten die Syrer des Hauses #Rehob und die Syrer zu Zoba, zwanzigtausend Mann Fußvolk, und von dem König Maachas tausend Mann und von Is-Tob zwölftausend Mann."
 "Da das David hörte, sandte er Joab mit dem ganzen Heer der Kriegsleute."
 "Und die Kinder Ammon zogen aus und rüsteten sich zum Streit vor dem Eingang des Tors. Die Syrer aber von Zoba, von Rehob, von Is-Tob und von Maacha waren allein im Felde."
 "Da Joab nun sah, daß der Streit auf ihn gestellt war vorn und hinten, erwählte er aus aller jungen Mannschaft in Israel und stellte sich wider die Syrer."
@@ -16,4 +16,4 @@
 "Und Hadadeser sandte hin und brachte heraus die Syrer jenseit des Stromes und führte herein ihre Macht; und Sobach, der Feldhauptmann Hadadesers, zog vor ihnen her."
 "Da das David ward angesagt, sammelte er zuhauf das ganze Israel und zogüber den Jordan und kam gen Helam. Und die Syrer stellten sich wider David, mit ihm zu streiten."
 "Aber die Syrer flohen vor Israel. Und David verderbte der Syrer siebenhundert Wagen und vierzigtausend Reiter; dazu Sobach, den Feldhauptmann, schlug er, daß er daselbst starb."
-"Da aber die Könige, die unter Hadadeser waren, sahen, daß sie geschlagen waren vor Israel, machten sie Frieden mit Israel und wurden ihnen untertan. Und die Syrer fürchteten sich, den Kindern Ammon mehr zu helfen."
+"Da aber die Könige, die unter Hadadeser waren, sahen, daß sie geschlagen waren vor Israel, machten sie Frieden #mit Israel und wurden ihnen untertan. Und die Syrer fürchteten sich, den Kindern Ammon mehr zu helfen."

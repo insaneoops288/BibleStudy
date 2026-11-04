@@ -14,7 +14,7 @@
 "Simon, den er auch Petrus nannte, und Andreas, seinen Bruder, und Jakobus und Johannes, und Philippus und Bartholomäus,"
 "und Matthäus und Thomas, und Jakobus, Alphäus' Sohn, und Simon, genannt Zelotes,"
 "und Judas, Jakobus' Bruder, und Judas Iskariot, der auch sein Verräter wurde."
-"Und als er mit ihnen herabgestiegen war, stand er auf einem ebenen Platze, und eine Menge seiner Jünger und eine große Menge des Volkes von ganz Judäa und Jerusalem und von der Seeküste von Tyrus und Sidon, welche kamen, ihn zu hören und von ihren Krankheiten geheilt zu werden;"
+"Und als er mit ihnen herabgestiegen war, stand er auf einem ebenen Platze, und eine Menge seiner Jünger und eine große Menge des Volkes von #ganz Judäa und Jerusalem und von der Seeküste von Tyrus und Sidon, welche kamen, ihn zu hören und von ihren Krankheiten geheilt zu werden;"
 "und die von unreinen Geistern Geplagten wurden geheilt."
 "Und die ganze Volksmenge suchte ihn anzurühren, denn es ging Kraft von ihm aus und heilte alle."
 "Und er hob seine Augen auf zu seinen Jüngern und sprach
@@ -32,7 +32,7 @@
 "Und wenn ihr liebet, die euch lieben, was für Dank ist es euch? Denn auch die Sünder lieben, die sie lieben."
 "Und wenn ihr denen Gutes tut, die euch Gutes tun, was für Dank ist es euch? Denn auch die Sünder tun dasselbe."
 "Und wenn ihr denen leihet, von welchen ihr wieder zu empfangen hoffet, was für Dank ist es euch? Denn auch die Sünder leihen Sündern, auf daß sie das gleiche wieder empfangen."
-"Doch liebet eure Feinde, und tut Gutes, und leihet, ohne etwas wieder zu hoffen, und euer Lohn wird groß sein, und ihr werdet Söhne des Höchsten sein; denn er ist gütig gegen die Undankbaren und Bösen."
+"Doch liebet eure Feinde, und tut Gutes, und leihet, ohne etwas wieder zu hoffen, und euer Lohn wird groß #sein, und ihr werdet Söhne des Höchsten sein; denn er ist gütig gegen die Undankbaren und Bösen."
 "Seid nun barmherzig, wie auch euer Vater barmherzig ist."
 "Und richtet nicht, und ihr werdet nicht gerichtet werden; verurteilet nicht, und ihr werdet nicht verurteilt werden. Lasset los, und ihr werdet losgelassen werden."
 "Gebet, und es wird euch gegeben werden
@@ -45,5 +45,5 @@
 "Der gute Mensch bringt aus dem guten Schatze seines Herzens das Gute hervor, und der böse bringt aus dem bösen das Böse hervor; denn aus der Fülle des Herzens redet sein Mund."
 "Was heißet ihr mich aber
 "Jeder, der zu mir kommt und meine Worte hört und sie tut, ich will euch zeigen, wem er gleich ist."
-"Er ist einem Menschen gleich, der ein Haus baute, welcher grub und vertiefte und den Grund auf den Felsen legte; als aber eine Flut kam, schlug der Strom an jenes Haus und vermochte es nicht zu erschüttern, denn es war auf den Felsen gegründet."
-"Der aber gehört und nicht getan hat, ist einem Menschen gleich, der ein Haus auf die Erde baute ohne Grundlage, an welches der Strom schlug, und alsbald fiel es, und der Sturz jenes Hauses war groß."
+"Er ist einem Menschen gleich, der ein Haus baute, welcher grub und vertiefte und den Grund auf den Felsen legte; als aber eine #Flut kam, schlug der Strom an jenes Haus und vermochte es nicht zu erschüttern, denn es war auf den Felsen gegründet."
+"Der aber gehört und nicht getan hat, ist einem Menschen gleich, der ein Haus auf die Erde baute ohne #Grundlage, an welches der Strom schlug, und alsbald fiel es, und der Sturz jenes Hauses war groß."

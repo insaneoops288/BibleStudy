@@ -13,7 +13,7 @@
 "Askush s'ka dashuri më të madhe nga kjo
 "Ju jeni miqtë e mi, nëse bëni gjërat që unë ju urdhëroj."
 "Unë nuk ju quaj më shërbëtorë, sepse shërbëtori nuk e di ç'bën i zoti; por unë ju kam quajtur miq, sepse ju bëra të njihni të gjitha gjëra që kam dëgjuar nga Ati im."
-"Nuk më keni zgjedhur ju mua, por unë ju kam zgjedhur juve; dhe ju caktova të shkoni dhe të jepni fryt, dhe fryti juaj të jetë i qëndrueshëm, që, çfarëdo gjë që t'i kërkoni Atit në emrin tim, ai t'jua japë."
+"Nuk më keni zgjedhur ju mua, por unë ju kam zgjedhur juve; dhe ju caktova të shkoni dhe të jepni fryt, #dhe fryti juaj të jetë i qëndrueshëm, që, çfarëdo gjë që t'i kërkoni Atit në emrin tim, ai t'jua japë."
 "Këtë ju urdhëroj
 "Nëse bota ju urren, ta dini se më ka urryer mua para jush."
 "Po të ishit nga bota, bota do të donte të vetët; por sepse nuk jeni nga bota, por unë ju kam zgjedhur nga bota, prandaj bota ju urren."

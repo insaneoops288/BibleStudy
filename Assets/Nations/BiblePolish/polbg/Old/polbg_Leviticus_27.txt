@@ -25,7 +25,7 @@
 "A każdy szacunek twój będzie wedle sykla świątnicy, a dwadzieścia pieniędzy sykiel waży."
 "Wszakże pierworodnego, a które prawem pierworodztwa bywa ofiarowane Panu z bydła, nikt go nie poświęci, bądź wół bądź owca, ponieważ Pańskie są."
 "A jeźliby z bydląt nieczystych było, odkupi je według szacunku twego, i przyda piątą część nad to; a jeźliby go nie odkupiono, niechże sprzedane będzie według szacunku twego."
-"Każda jednak rzecz poślubiona, którą by kto poślubił Panu ze wszystkiego, co ma z ludzi, i z bydła, i z ról osiadłości swojej, nie będzie sprzedawana, ani odkupowana; bo wszelka rzecz poślubiona najświętsza jest Panu."
+"Każda jednak rzecz poślubiona, którą by kto poślubił Panu ze wszystkiego, co ma z ludzi, i z bydła, #i z ról osiadłości swojej, nie będzie sprzedawana, ani odkupowana; bo wszelka rzecz poślubiona najświętsza jest Panu."
 "Wszelkie bydlę poślubione, które się pod ślubem oddawa, od człowieka nie będzie odkupione, ale śmiercią umrze."
 "Wszystkie także dziesięciny ziemi z nasienia ziemi, z owocu drzewa, Pańskie są; bo poświęcone są Panu."
 "Ale kto by chciał odkupić co z dziesięcin swoich, piątą część ceny przyda do nich."

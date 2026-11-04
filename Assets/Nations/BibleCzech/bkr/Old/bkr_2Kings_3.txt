@@ -22,6 +22,6 @@
 "Potom ráno vstavše, když slunce vzešlo nad těmi vodami, uzřeli Moábští naproti ty vody rdějící se jako krev."
 "A řekli
 "Tedy povstavše Izraelští, porazili Moábské, kteříž utíkali před nimi, a oni porazili je porážkou velikou, také i v jejich krajině."
-"Nebo města jejich zbořili, a na všeliké pole výborné házejíce jeden každý kamením svým, naplnili je, i všecky studnice vod zasypali, a všecko stromoví dobré zporáželi, tak že toliko nechali u Kirchareset zdi jeho. Protož shlukše se prakovníci, dobývali ho."
+"Nebo města jejich zbořili, a na všeliké pole výborné házejíce jeden každý kamením svým, naplnili je, i všecky studnice vod zasypali, #a všecko stromoví dobré zporáželi, tak že toliko nechali u Kirchareset zdi jeho. Protož shlukše se prakovníci, dobývali ho."
 "A vida král Moábský, že jsou mu silní bojovníci ti, vzal s sebou sedm set mužů bojovných, chtě se probiti skrze vojska krále Idumejského. Ale nemohli."
-"Pročež jav syna jeho prvorozeného, kterýž měl kralovati místo něho, obětoval jej v obět zápalnou na zdi. I stalo se rozhněvání veliké proti Izraelovi; protož odtrhše od něho, navrátili se do země své."
+"Pročež jav syna jeho prvorozeného, kterýž měl kralovati místo něho, obětoval jej v obět zápalnou na zdi. #I stalo se rozhněvání veliké proti Izraelovi; protož odtrhše od něho, navrátili se do země své."

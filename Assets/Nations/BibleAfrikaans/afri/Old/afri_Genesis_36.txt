@@ -3,7 +3,7 @@
 "en Basmat, die dogter van Ismael, die suster van Nébajot."
 "En Ada het vir Esau gebaar Élifas, en Basmat het gebaar Réhuel."
 "En Oholibáma het gebaar Jehus en Jáelam en Korag. Dit is die seuns van Esau wat vir hom gebore is in die land Kanaän."
-"Toe neem Esau sy vroue en sy seuns en sy dogters en al die mense van sy huis, sy vee en al sy diere en al sy besittings wat hy in die land Kanaän verwerf het, en hy trek na 'n land, wég van sy broer Jakob af;"
+"Toe neem Esau sy vroue en sy seuns en sy dogters en al die mense van sy huis, sy vee en al sy diere en #al sy besittings wat hy in die land Kanaän verwerf het, en hy trek na 'n land, wég van sy broer Jakob af;"
 "want hulle besittings was te groot om saam te woon, en die land van hulle vreemdelingskap kon hulle nie dra vanweë hulle vee nie."
 "En Esau het gaan woon in die gebergte Seïr. Esau, dit is Edom."
 "Dit is dan die geskiedenis van Esau, die vader van die Edomiete, in die gebergte Seïr."
@@ -36,7 +36,7 @@
 "En ná die dood van Hadad het Samla van Másreka in sy plek geregeer."
 "En ná die dood van Samla het Saul van Réhobot, aan die rivier, in sy plek geregeer."
 "En ná die dood van Saul het Baäl-Hanan, die seun van Akbor, in sy plek geregeer."
-"En ná die dood van Baäl-Hanan, die seun van Akbor, het Hadar in sy plek geregeer; en die naam van sy stad was Pahu; en die naam van sy vrou was Mehetábeël, die dogter van Matred, die dogter van Mésahab."
+"En ná die dood van Baäl-Hanan, die seun van Akbor, het Hadar in sy plek geregeer; en die naam van sy #stad was Pahu; en die naam van sy vrou was Mehetábeël, die dogter van Matred, die dogter van Mésahab."
 "Dit is die name van die stamhoofde van Esau, volgens hulle geslagte, volgens hulle woonplekke, met hulle name
 "die stamhoof Oholibáma, die stamhoof Ela, die stamhoof Pinon,"
 "die stamhoof Kenas, die stamhoof Teman, die stamhoof Mibsar,"

@@ -1,6 +1,6 @@
 "Und Abraham war alt, wohlbetagt, und Jehova hatte Abraham gesegnet in allem."
 "Und Abraham sprach zu seinem Knechte, demältesten seines Hauses, der alles verwaltete, was er hatte
-"und ich werde dich schwören lassen bei Jehova, dem Gott des Himmels und dem Gott der Erde, daß du meinem Sohne nicht ein Weib nehmen wirst von den Töchtern der Kanaaniter, in deren Mitte ich wohne;"
+"und ich werde dich schwören lassen bei Jehova, dem Gott des Himmels und dem Gott der Erde, daß du #meinem Sohne nicht ein Weib nehmen wirst von den Töchtern der Kanaaniter, in deren Mitte ich wohne;"
 "sondern in mein Land und zu meiner Verwandtschaft sollst du gehen und ein Weib nehmen meinem Sohne, dem Isaak."
 "Und der Knecht sprach zu ihm
 "Da sprach Abraham zu ihm
@@ -12,7 +12,7 @@
 "Und er sprach
 "Siehe, ich stehe bei der Wasserquelle, und die Töchter der Leute der Stadt kommen heraus, um Wasser zu schöpfen;"
 "möge es nun geschehen, daß das Mädchen, zu dem ich sagen werde
-"Und es geschah, er hatte noch nicht ausgeredet, siehe, da kam Rebekka heraus, die dem Bethuel geboren worden, dem Sohne der Milka, des Weibes Nahors, des Bruders Abrahams, mit ihrem Kruge auf ihrer Schulter."
+"Und es geschah, er hatte noch nicht ausgeredet, siehe, da kam Rebekka heraus, die dem Bethuel geboren worden, #dem Sohne der Milka, des Weibes Nahors, des Bruders Abrahams, mit ihrem Kruge auf ihrer Schulter."
 "Und das Mädchen war sehr schön von Ansehen, eine Jungfrau, und kein Mann hatte sie erkannt; und sie stieg zur Quelle hinab und füllte ihren Krug und stieg wieder herauf."
 "Und der Knecht lief ihr entgegen und sprach
 "Und sie sprach
@@ -24,7 +24,7 @@
 "Und sie sprach zu ihm
 "Und sie sprach zu ihm
 "Da verneigte sich der Mann und warf sich nieder vor Jehova und sprach
-"Gepriesen sei Jehova, der Gott meines Herrn Abraham, der von seiner Güte und seiner Wahrheit nicht abgelassen hat gegen meinen Herrn! Mich hat Jehova geleitet auf den Weg zum Hause der Brüder meines Herrn."
+"Gepriesen sei Jehova, der Gott meines Herrn Abraham, der von seiner Güte und seiner Wahrheit nicht abgelassen hat #gegen meinen Herrn! Mich hat Jehova geleitet auf den Weg zum Hause der Brüder meines Herrn."
 "Und das Mädchen lief und berichtete diese Dinge dem Hause ihrer Mutter."
 "Und Rebekka hatte einen Bruder, sein Name war Laban; und Laban lief zu dem Manne hinaus zur Quelle."
 "Und es geschah, als er den Ring sah und die Spangen an den Armen seiner Schwester, und als er die Worte seiner Schwester Rebekka hörte, welche sagte
@@ -45,7 +45,7 @@
 "Ich hatte in meinem Herzen noch nicht ausgeredet, siehe, da kam Rebekka heraus mit ihrem Kruge auf ihrer Schulter; und sie stieg zur Quelle hinab und schöpfte. Da sprach ich zu ihr
 "Und eilends ließ sie ihren Krug von ihrer Schulter hernieder und sprach
 "Und ich fragte sie und sprach
-"und ich verneigte mich und warf mich nieder vor Jehova; und ich pries Jehova, den Gott meines Herrn Abraham, der mich den rechten Weg geleitet hat, um die Tochter des Bruders meines Herrn für seinen Sohn zu nehmen."
+"und ich verneigte mich und warf mich nieder vor Jehova; und ich pries Jehova, den Gott meines Herrn Abraham, der #mich den rechten Weg geleitet hat, um die Tochter des Bruders meines Herrn für seinen Sohn zu nehmen."
 "Und nun, wenn ihr Güte und Treue an meinem Herrn erweisen wollt, so tut es mir kund; und wenn nicht, so tut es mir kund, und ich werde mich zur Rechten oder zur Linken wenden."
 "Da antworteten Laban und Bethuel und sprachen
 "Siehe, Rebekka ist vor dir

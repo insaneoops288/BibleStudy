@@ -24,7 +24,7 @@
 "Mutta Saulukselle ilmoitettiin heidän väijymisensä. Ja he vartioitsivat portissa yötä ja päivää tappaaksensa häntä."
 "Niin opetuslapset ottivat hänen yöllä, päästivät alas ylitse muurin, ja laskivat korissa maahan."
 "Mutta kuin Saulus tuli Jerusalemiin, tahtoi hän itsiänsä antaa opetuslasten sekaan, mutta he pelkäsivät kaikki häntä, eikä uskoneet häntä opetuslapseksi."
-"Vaan Barnabas otti hänen ja vei apostolien tykö, ja jutteli heille, kuinka hän tiellä Herran nähnyt oli, ja että hän oli puhunut hänen kanssansa, ja kuinka hän oli rohkiasti Damaskussa Jesuksen nimestä puhunut."
+"Vaan Barnabas otti hänen ja vei apostolien tykö, ja jutteli heille, kuinka hän tiellä Herran nähnyt oli, #ja että hän oli puhunut hänen kanssansa, ja kuinka hän oli rohkiasti Damaskussa Jesuksen nimestä puhunut."
 "Ja niin hän oli heidän kanssansa Jerusalemissa, kävi sisälle ja ulos, ja saarnasi pelkäämättä Herran Jesuksen nimeen."
 "Hän puhui myös ja kamppaili Grekiläisiä vastaan; mutta ne pyysivät häntä tappaa."
 "Kuin veljet sen ymmärsivät, niin he veivät hänen Kesareaan ja lähettivät Tarsiin."
@@ -36,7 +36,7 @@
 "Mutta Jopessa oli yksi opetuspiika, nimeltä Tabita, joka tulkiten on niin paljon sanottu kuin
 "Niin tapahtui niinä päivinä, että se sairasti ja kuoli; jonka he pesivät ja panivat saliin."
 "Ja että Lydda oli läsnä Joppea, niin opetuslapset, kuin he kuulivat Pietarin siellä olevan, lähettivät hänen tykönsä kaksi miestä rukoilemaan, ettei hän viivyttelisi heidän tykönsä tulla."
-"Niin Pietari nousi ja tuli heidän kanssansa; ja kuin hän sinne tuli, veivät he hänen saliin. Ja hänen ympärillänsä seisoivat kaikki lesket, jotka itkivät ja osoittivat hänelle niitä hameita ja vaatteita, joita Dorkas heille tehnyt oli, ollessansa heidän kanssansa."
+"Niin Pietari nousi ja tuli heidän kanssansa; ja kuin hän sinne tuli, veivät he hänen saliin. Ja hänen ympärillänsä seisoivat #kaikki lesket, jotka itkivät ja osoittivat hänelle niitä hameita ja vaatteita, joita Dorkas heille tehnyt oli, ollessansa heidän kanssansa."
 "Mutta kuin Pietari oli heidät kaikki ajanut ulos, laski hän polvillensa ja rukoili, ja käänsi itsensä ruumiin puoleen, ja sanoi
 "Ja hän antoi hänelle kättä ja ojensi hänen, ja kutsui pyhät ja lesket, ja antoi hänen heille elävänä."
 "Ja se tuli kaikelle Jopelle tiettäväksi; ja moni uskoi Herran päälle."

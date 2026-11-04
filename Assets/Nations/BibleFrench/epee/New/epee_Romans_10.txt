@@ -11,7 +11,7 @@
 "En effet, l'Écriture dit
 "Car il n'y a point de distinction entre le Juif et le Grec, parce que tous ont un même Seigneur, qui est riche pour tous ceux qui l'invoquent."
 "Car quiconque invoquera le nom du Seigneur, sera sauvé."
-"Comment donc invoqueront-ils celui auquel ils n'ont point cru? Et comment croiront-ils en celui dont ils n'ont pas entendu parler? Et comment en entendront-ils parler, s'il n'y a pas quelqu'un qui prêche?"
+"Comment donc invoqueront-ils celui auquel ils n'ont point cru? Et comment croiront-ils en celui dont ils n'ont #pas entendu parler? Et comment en entendront-ils parler, s'il n'y a pas quelqu'un qui prêche?"
 "Et comment prêchera-t-on, si l'on n'est pas envoyé? selon ce qui est écrit
 "Mais tous n'ont pas été soumis à l'Évangile; car Ésaïe dit
 "La foi vient donc de ce qu'on entend; et ce qu'on entend, vient de la PAROLE DE DIEU."

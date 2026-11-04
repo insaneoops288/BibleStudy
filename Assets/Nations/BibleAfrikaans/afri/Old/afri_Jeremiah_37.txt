@@ -7,7 +7,7 @@
 "So spreek die HERE, die God van Israel
 "en die Chaldeërs sal terugkom en teen hierdie stad oorlog voer en dit inneem en dit met vuur verbrand."
 "So spreek die HERE
-"Want al sou julle die hele leër van die Chaldeërs wat teen julle oorlog voer, verslaan, sodat daar onder hulle net swaar gewondes oorbly, dan sou hulle elkeen in sy tent opstaan en hierdie stad met vuur verbrand."
+"Want al sou julle die hele leër van die Chaldeërs wat teen julle oorlog voer, verslaan, sodat daar onder hulle #net swaar gewondes oorbly, dan sou hulle elkeen in sy tent opstaan en hierdie stad met vuur verbrand."
 "En toe die leër van die Chaldeërs van Jerusalem af opgetrek het vanweë die leër van Farao,"
 "wou Jeremia Jerusalem verlaat om in die land Benjamin te gaan, om daar te midde van die volk 'n erfdeel in ontvangs te neem."
 "Toe hy in die Benjaminspoort kom, was daar 'n voorman van die wag met die naam Jiría, die seun van Selémja, die seun van Hanánja; en hy het die profeet Jeremia gevang, met die woorde
@@ -18,4 +18,4 @@
 "Verder het Jeremia aan die koning Sedekía gesê
 "En waar is julle profete wat vir julle geprofeteer het met die woorde
 "Luister dan nou tog, my heer die koning! Laat tog my smeking voor u kom en laat my nie terugbring in die huis van die skrywer Jónatan, dat ek daar nie sterwe nie."
-"Toe gee koning Sedekía bevel dat hulle Jeremia onder toesig moet hou in die voorhof van bewaking en aan hom daagliks 'n skyf brood uit die Bakkerstraat moet gee, totdat al die brood van die stad op was. So het Jeremia dan in die voorhof van bewaking gebly."
+"Toe gee koning Sedekía bevel dat hulle Jeremia onder toesig moet hou in die voorhof van bewaking en aan hom daagliks 'n skyf brood uit #die Bakkerstraat moet gee, totdat al die brood van die stad op was. So het Jeremia dan in die voorhof van bewaking gebly."

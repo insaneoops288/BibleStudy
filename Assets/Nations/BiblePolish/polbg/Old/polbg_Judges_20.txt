@@ -7,7 +7,7 @@
 "Otoście wy wszyscy synowie Izraelscy; uważcież to między sobą, a radźcie o tem."
 "I powstał wszystek lud jednostajnie, mówiąc
 "Ale teraz to uczynimy miastu Gabaa, rzuciwszy los przeciwko niemu;"
-"Weźmiemy dziesięć mężów ze sta w każdem pokoleniu Izraelskiem, a sto z tysiąca, a tysiąc z dziesięciu tysięcy, żeby dodawali żywności ludowi, który przyciągnie do Gabaa Benjamin, i pomści się nad nim wszystkiej sprosności, której się dopuścili w Izraelu."
+"Weźmiemy dziesięć mężów ze sta w każdem pokoleniu Izraelskiem, a sto z tysiąca, a tysiąc z dziesięciu tysięcy, żeby dodawali #żywności ludowi, który przyciągnie do Gabaa Benjamin, i pomści się nad nim wszystkiej sprosności, której się dopuścili w Izraelu."
 "A tak zebrał się wszystek lud Izraelski przeciwko miastu, zmówiwszy się jednostajnie."
 "I posłały pokolenia Izraelskie posły do wszystkich domów synów Benjaminowych, mówiąc
 "Przetoż teraz wydajcie męże niepobożne, którzy są w Gabaa, abyśmy je pozabijali, a uprzątnęli złe z Izraela; ale nie chcieli synowie Benjaminowi słuchać głosu braci swych, synów Izraelskich."
@@ -23,12 +23,12 @@
 "Pierwej jednak poszli synowie Izraelscy, i płakali przed Panem aż do wieczora, i pytali się Pana, mówiąc
 "I ruszyli się synowie Izraelscy przeciwko synom Benjaminowym drugiego dnia."
 "A wypadłszy synowie Benjaminowi przeciwko nim z Gabaa drugiego dnia, porazili synów Izraelskich znowu osiemnaście tysięcy mężów na głowę, wszystko mężów walecznych."
-"Przetoż szli wszyscy synowie Izraelscy, i wszystek lud, a przyszli do domu Bożego, i płacząc trwali tam przed Panem, i pościli dnia onego aż do wieczora, ofiarując całopalenia, i ofiary spokojne przed obliczem Pańskiem."
+"Przetoż szli wszyscy synowie Izraelscy, i wszystek lud, a przyszli do domu Bożego, i płacząc trwali tam przed #Panem, i pościli dnia onego aż do wieczora, ofiarując całopalenia, i ofiary spokojne przed obliczem Pańskiem."
 "I pytali synowie Izraelscy Pana, (bo tam była skrzynia przymierza Bożego na on czas;"
 "A Finees, syn Eleazara, syna Aaronowego, stał przed nią na ten czas,) mówiąc
 "Tedy poczynił Izrael zasadzki przeciw Gabaa zewsząd w około."
 "A ruszywszy się synowie Izraelscy przeciwko synom Benjaminowym dnia trzeciego, uszykowali się przeciw Gabaa, jako pierwszy i wtóry raz."
-"Wyszli też synowie Benjaminowi przeciwko ludowi, o odsadziwszy się od miasta, poczęli bić lud i siec, jako pierwszy i wtóry raz po drogach, (z których jedna szła do Betel, a druga do Gabaa,) i po polu, a zabili około trzydziestu mężów z Izraela."
+"Wyszli też synowie Benjaminowi przeciwko ludowi, o odsadziwszy się od miasta, poczęli bić lud i siec, jako pierwszy i wtóry raz po #drogach, (z których jedna szła do Betel, a druga do Gabaa,) i po polu, a zabili około trzydziestu mężów z Izraela."
 "I rzekli synowie Benjaminowi
 "Zatem wszyscy synowie Izraelscy wstawszy z miejsca swego uszykowali się w Baaltamar; zasadzki też Izraelskie wyszły z miejsca swego, z łąk Gabaa."
 "A tak przeszło przez Gabaa dziesięć tysięcy mężów na wybór ze wszystkiego Izraela, i była bitwa sroga, a oni nie widzieli, że ich nieszczęście potkać miało."
@@ -45,4 +45,4 @@
 "A z tych, którzy obróciwszy się uciekali na puszczą, na skałę Remmon, łapiąc je po drogach, zabili pięć tysięcy mężów, a gonili je aż do Giedeon, gdzie zamordowali z nich dwa tysiące mężów."
 "A tak było wszystkich, którzy polegli z Benjamina dnia onego, dwadzieścia i pięć tysięcy mężów walecznych, wszystko mężów dużych."
 "Tylko się obróciło i uciekło na puszczę, na skałę Remmon, sześć set mężów, i zostali na skale Remmon przez cztery miesiące."
-"Potem mężowie Izraelscy wróciwszy się do synów Benjaminowych, wybili je ostrzem miecza, w mieście, począwszy od ludzi aż do bydlęcia, i do wszystkiego, co znaleźli; przytem i wszystkie miasta, które pozostały, popalili ogniem."
+"Potem mężowie Izraelscy wróciwszy się do synów Benjaminowych, wybili je ostrzem miecza, w mieście, począwszy od ludzi #aż do bydlęcia, i do wszystkiego, co znaleźli; przytem i wszystkie miasta, które pozostały, popalili ogniem."

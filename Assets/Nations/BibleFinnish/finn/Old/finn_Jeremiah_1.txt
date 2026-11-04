@@ -12,7 +12,7 @@
 "Ja Herra sanoi minulle
 "Ja Herran sana tapahtui toisen kerran minulle ja sanoi
 "Ja Herra sanoi minulle
-"Sillä katso, minä kutsun kaikki valtakuntain sukukunnat, jotka ovat pohjassa, sanoo Herra; ja he tulevat ja kukin asettaa istuimensa Jerusalemin portin eteen, ja ympäri kaikkia hänen muurejansa, ja kaikkia Juudan kaupungeita,"
+"Sillä katso, minä kutsun kaikki valtakuntain sukukunnat, jotka ovat pohjassa, sanoo Herra; ja he tulevat ja #kukin asettaa istuimensa Jerusalemin portin eteen, ja ympäri kaikkia hänen muurejansa, ja kaikkia Juudan kaupungeita,"
 "Ja minä annan oikeuden käydä heidän päällensä kaiken heidän pahuutensa tähden; että he ovat minun hyljänneet, ja muille jumalille suitsuttaneet, ja kumartaneet omaa käsialaansa."
 "Niin vyötä nyt kupees, nouse ja saarnaa heille kaikki, mitä minä sinun käsken; älä pelkää heitä, etten minä sinua surmaisi heidän edessänsä."
 "Ja katso, minä teen tänäpänä sinun vahvaksi kaupungiksi, rautapatsaaksi ja vaskimuuriksi koko maassa

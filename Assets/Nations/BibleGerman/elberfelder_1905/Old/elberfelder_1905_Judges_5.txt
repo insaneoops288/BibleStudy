@@ -8,7 +8,7 @@
 "Es erwählte neue Götter; da war Streit an den Toren! Ward wohl Schild und Lanze gesehen unter vierzigtausend in Israel?"
 "Mein Herz gehört den Führern Israels, denen, die sich freiwillig stellten im Volke. Preiset Jehova!"
 "Die ihr reitet auf weißroten Eselinnen, die ihr sitzet auf Teppichen, und die ihr wandelt auf dem Wege, singet!"
-"Fern von der Stimme der Bogenschützen, zwischen den Schöpfrinnen, dort sollen sie preisen die gerechten Taten Jehovas, die gerechten Taten an seinen Landstädten in Israel. Da zog das Volk Jehovas hinab zu den Toren."
+"Fern von der Stimme der Bogenschützen, zwischen den Schöpfrinnen, dort sollen sie preisen die gerechten Taten Jehovas, die #gerechten Taten an seinen Landstädten in Israel. Da zog das Volk Jehovas hinab zu den Toren."
 "Wache auf, wache auf, Debora! Wache auf, wache auf, sprich ein Lied! Mache dich auf, Barak, und führe gefangen deine Gefangenen, Sohn Abinoams!"
 "Da zog hinab einÜberrest der Edlen und des Volkes; Jehova zog zu mir herab unter den Helden."
 "Von Ephraim zogen hinab, deren Stammsitz unter Amalek ist; hinter dir her Benjamin, unter deinen Völkern; von Makir zogen hinab die Führer, und von Sebulon, die den Feldherrnstab halten."
@@ -27,5 +27,5 @@
 "Zwischen ihren Füßen krümmte er sich, fiel, lag da; zwischen ihren Füßen krümmte er sich, fiel; da, wo er sich krümmte, fiel erüberwältigt."
 "Durchs Fenster schaute aus Siseras Mutter und riefängstlich durch das Gitter
 "Die Klugen unter ihren Edelfrauen antworten ihr, und sie selbst erwidert sich ihre Reden
-"Finden sie nicht, teilen sie nicht Beute? Ein Mädchen, zwei Mädchen auf den Kopf eines Mannes? Beute an bunten Gewändern für Sisera, Beute an buntgewirkten Gewändern; zwei buntgewirkte Gewänder für den Hals der Gefangenen.-"
+"Finden sie nicht, teilen sie nicht Beute? Ein Mädchen, zwei Mädchen auf den Kopf eines Mannes? Beute an #bunten Gewändern für Sisera, Beute an buntgewirkten Gewändern; zwei buntgewirkte Gewänder für den Hals der Gefangenen.-"
 "Also mögen umkommen alle deine Feinde, Jehova! Aber die ihn lieben, seien wie die Sonne aufgeht in ihrer Kraft! Und das Land hatte Ruhe vierzig Jahre."

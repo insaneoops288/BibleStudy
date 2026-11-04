@@ -22,8 +22,8 @@
 "Joseph on hedelmällisen puun oksa, hedelmällisen puun oksa lähteen tykönä
 "Ja vaikka ampujat saattivat hänen mielensä karvaaksi, riitelivät hänen kanssansa ja vihasivat häntä,"
 "On kuitenkin hänen joutsensa vahvana pysynyt, ja hänen käsivartensa miehustunut, sen väkevän kätten kautta Jakobissa; hänestä on paimen ja kivi Israelissa."
-"Sinun isäs Jumalalta on hän sinulle avun tuottava, ja ynnä kaikkivaltiaan kanssa on hän sinua siunaava taivaan siunauksella ylhäältä, ja syvyyden siunauksella alhaalta, niin myös nisäin ja kohtuin siunauksella."
-"Sinun isäs siunaukset minun isäini siunausten sivussa, ulottuvat voimallisesti niihin kalliimpihin asti maailman kukkuloilla; jotka tulevat Josephin pään päälle, ja Natsirein pään laelle, hänen veljeinsä keskellä."
+"Sinun isäs Jumalalta on hän sinulle avun tuottava, ja ynnä kaikkivaltiaan kanssa on hän sinua #siunaava taivaan siunauksella ylhäältä, ja syvyyden siunauksella alhaalta, niin myös nisäin ja kohtuin siunauksella."
+"Sinun isäs siunaukset minun isäini siunausten sivussa, ulottuvat voimallisesti niihin kalliimpihin asti maailman kukkuloilla; #jotka tulevat Josephin pään päälle, ja Natsirein pään laelle, hänen veljeinsä keskellä."
 "BenJamin on raatelevainen susi, aamulla hän syö saaliin, ja ehtoona saaliin jakaa."
 "Nämät kaikki ovat kaksitoistakymmentä Israelin sukukuntaa. Ja tämä on se kuin heidän isänsä heille puhui siunatessansa heitä
 "Ja hän käski heitä, ja sanoi heille

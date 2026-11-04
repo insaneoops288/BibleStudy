@@ -8,7 +8,7 @@
 "<I>También</I>  tomamos en aquel tiempo de mano de <I>los</I>  dos reyes amorreos que <I>estaban</I>  a este lado del Jordán, la tierra desde el arroyo de Arnón hasta el monte de Hermón."
 "(Los sidonios llaman a Hermón Sirión; y los amorreos, Senir.)"
 "Todas las ciudades de la llanura, y todo Galaad, y todo Basán hasta Salca y Edrei, ciudades del reino de Og en Basán."
-"Porque sólo Og rey de Basán había quedado del resto de los gigantes. He aquí su cama, una cama de hierro, ¿no está en Rabá de los hijos de Amón? La longitud <I>de ella</I>  de nueve codos, y su anchura de cuatro codos, al  codo de un hombre."
+"Porque sólo Og rey de Basán había quedado del resto de los gigantes. He aquí su cama, una cama de hierro, ¿no está en Rabá de #los hijos de Amón? La longitud <I>de ella</I>  de nueve codos, y su anchura de cuatro codos, al  codo de un hombre."
 "Y esta tierra <I>que</I>  heredamos entonces desde Aroer, que <I>está junto</I>  al arroyo de Arnón, y la mitad del monte de Galaad con sus ciudades, di a los rubenitas y a los gaditas;"
 "y el resto de Galaad, y toda la Basán (<I>la tierra fértil</I> ), del reino de Og, lo di a la media tribu de Manasés; toda la tierra de Argob, todo Basán, que se llamaba la tierra de los gigantes."
 "Jair hijo de Manasés tomó toda la tierra de Argob hasta el término de Gesur y Maaca; y la llamó por su nombre Basán-havot-jair, hasta hoy."
@@ -17,7 +17,7 @@
 "<I>Asimismo</I>  la campiña, y el Jordán, y el término, desde Cineret hasta el mar del llano, el mar Salado, las vertientes abajo del Pisga al oriente."
 "Y os mandé entonces, diciendo
 "Solamente vuestras mujeres, vuestros niños, y vuestros ganados, (<I>yo</I>  sé que tenéis mucho ganado,) quedarán en vuestras ciudades que os he dado,"
-"hasta que el SEÑOR dé reposo a vuestros hermanos, como a vosotros, y hereden también ellos la tierra que el SEÑOR vuestro Dios les da al otro lado del Jordán; <I>entonces os</I> volveréis cada uno a su heredad que <I>yo</I>  os he dado."
+"hasta que el SEÑOR dé reposo a vuestros hermanos, como a vosotros, y hereden también ellos la tierra que el SEÑOR vuestro Dios #les da al otro lado del Jordán; <I>entonces os</I> volveréis cada uno a su heredad que <I>yo</I>  os he dado."
 "Mandé también a Josué entonces, diciendo
 "No los temáis; que el SEÑOR vuestro Dios, él es el que pelea por vosotros."
 "Y oré al SEÑOR en aquel tiempo, diciendo

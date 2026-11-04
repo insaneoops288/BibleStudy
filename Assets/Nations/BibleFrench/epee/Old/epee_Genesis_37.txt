@@ -1,5 +1,5 @@
 "Or, Jacob demeura au pays où son père avait séjourné, au pays de Canaan."
-"Voici l'histoire des descendants de Jacob. Joseph, âgé de dix-sept ans, paissait les troupeaux avec ses frères; et il était jeune berger auprès des fils de Bilha, et auprès des fils de Zilpa, femmes de son père. Et Joseph rapporta à leur père leurs mauvais discours."
+"Voici l'histoire des descendants de Jacob. Joseph, âgé de dix-sept ans, paissait les troupeaux avec ses frères; et il était jeune berger auprès des #fils de Bilha, et auprès des fils de Zilpa, femmes de son père. Et Joseph rapporta à leur père leurs mauvais discours."
 "Or, Israël aimait Joseph plus que tous ses autres fils, car c'était le fils de sa vieillesse; et il lui fit une robe de diverses couleurs."
 "Mais ses frères, voyant que leur père l'aimait plus que tous ses frères, le haïssaient, et ne pouvaient lui parler avec douceur."
 "Et Joseph eut un songe, et le fit connaître à ses frères, et ils le haïrent encore plus."
@@ -22,7 +22,7 @@
 "Puis Ruben leur dit
 "Et dès que Joseph fut arrivé auprès de ses frères, ils le dépouillèrent de sa robe, de la robe de diverses couleurs qui était sur lui."
 "Et ils le saisirent, et le jetèrent dans la fosse. Or la fosse était vide; il n'y avait point d'eau."
-"Ensuite ils s'assirent pour manger le pain. Et, levant les yeux, ils regardèrent, et voici une caravane d'Ismaélites qui venait de Galaad; et leurs chameaux, chargés d'aromates, de baume, et de myrrhe, allaient les porter en Égypte."
+"Ensuite ils s'assirent pour manger le pain. Et, levant les yeux, ils regardèrent, et voici une caravane d'Ismaélites qui #venait de Galaad; et leurs chameaux, chargés d'aromates, de baume, et de myrrhe, allaient les porter en Égypte."
 "Et Juda dit à ses frères
 "Venez, et vendons-le aux Ismaélites, et que notre main ne soit point sur lui; car il est notre frère, notre chair. Et ses frères lui obéirent."
 "Et comme les marchands Madianites passaient, ils tirèrent et firent remonter Joseph de la fosse; et ils vendirent Joseph pour vingt pièces d'argent aux Ismaélites, qui l'emmenèrent en Égypte."

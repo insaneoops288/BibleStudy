@@ -18,7 +18,7 @@
 "Zamęczycie się i ty, i ten lud, który jest z tobą, bo ta sprawa jest zbyt ciężka dla ciebie. Sam jej nie podołasz."
 "Dlatego posłuchaj teraz mego głosu, poradzę ci, a Bóg będzie z tobą. Wstawiaj się za ludem przed Bogiem i zanoś sprawy Bogu;"
 "Nauczaj go też ustaw i praw, wskazuj im drogę, którą mają chodzić, i czyny, które mają spełniać."
-"Upatrz też sobie wśród całego ludu mężczyzn dzielnych i bojących się Boga, mężczyzn prawdomównych, którzy nienawidzą chciwości, i ustanów ich przełożonymi nad tysiącem, nad setką, nad pięćdziesiątką i nad dziesiątką."
+"Upatrz też sobie wśród całego ludu mężczyzn dzielnych i bojących się Boga, mężczyzn prawdomównych, którzy nienawidzą #chciwości, i ustanów ich przełożonymi nad tysiącem, nad setką, nad pięćdziesiątką i nad dziesiątką."
 "Niech oni sądzą lud w każdym czasie. A gdy będzie ważniejsza sprawa, zaniosą ją do ciebie, ale każdą mniej ważną sprawę sami będą sądzić. W ten sposób ulżysz sobie, gdy poniosą ciężar z tobą."
 "Jeśli tak uczynisz, a Bóg tak ci nakaże, wytrwasz i cały ten lud będzie wracać na swoje miejsce w pokoju."
 "Mojżesz usłuchał więc rady swego teścia i uczynił wszystko, jak mu powiedział."

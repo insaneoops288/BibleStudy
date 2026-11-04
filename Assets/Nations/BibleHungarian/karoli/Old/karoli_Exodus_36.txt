@@ -1,4 +1,4 @@
-"Elhívá azért Mózes Bésaléelt, és Aholiábot, és mindazokat a bölcs férfiakat, a kiknek elméjébe tudományt adott vala az Úr, és mind a kit szíve arra indíta, hogy járuljon annak a munkának végrehajtásához."
+"Elhívá azért Mózes Bésaléelt, és Aholiábot, és mindazokat a bölcs férfiakat, a kiknek elméjébe tudományt adott vala #az Úr, és mind a kit szíve arra indíta, hogy járuljon annak a munkának végrehajtásához."
 "És átvevék Mózestõl mind azt az ajándékot, a mit az Izráel fiai hoztak vala, a szent [hajlék] felépítésének szolgálatára. Azontúl is minden reggel önkéntes ajándékot is hoztak."
 "Eljövének azért mind azok a bölcsek, kik a szent hajlék minden munkáján dolgoztak, kiki a maga munkájától, a melyen dolgozott."
 "És ezt mondák Mózesnek

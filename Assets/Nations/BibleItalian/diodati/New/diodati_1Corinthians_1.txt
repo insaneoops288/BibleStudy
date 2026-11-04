@@ -1,5 +1,5 @@
 "PAOLO, chiamato ad essere apostolo di Gesù Cristo, per la volontà di Dio, e il fratello Sostene;"
-"alla chiesa di Dio, la quale è in Corinto, a’ santificati in Gesù Cristo, chiamati santi; insieme con tutti coloro, i quali in qualunque luogo invocano il nome di Gesù Cristo, Signor di loro, e di noi;"
+"alla chiesa di Dio, la quale è in Corinto, a’ santificati in Gesù Cristo, chiamati santi; insieme con tutti #coloro, i quali in qualunque luogo invocano il nome di Gesù Cristo, Signor di loro, e di noi;"
 "grazia, e pace a voi, da Dio, nostro Padre, e dal Signor Gesù Cristo."
 "Io del continuo rendo grazie di voi all’Iddio mio, per la grazia di Dio che vi è stata data in Cristo Gesù."
 "Perciocchè in lui siete stati arricchiti in ogni cosa, in ogni dono di parola, e in ogni conoscenza;"
@@ -7,7 +7,7 @@
 "Talchè non vi manca dono alcuno, aspettando la manifestazione del Signor nostro Gesù Cristo;"
 "il quale eziandio vi confermerà infino al fine, acciocchè siate senza colpa nel giorno del nostro Signor Gesù Cristo."
 "Fedele è Iddio, dal quale siete stati chiamati alla comunione del suo Figliuolo Gesù Cristo, nostro Signore."
-"ORA, fratelli, io vi esorto, per lo nome del nostro Signor Gesù Cristo, che abbiate tutti un medesimo parlare, e che non vi sieno fra voi scismi; anzi che siate uniti insieme in una medesima mente, e in un medesimo sentire."
+"ORA, fratelli, io vi esorto, per lo nome del nostro Signor Gesù Cristo, che abbiate tutti un medesimo parlare, e che #non vi sieno fra voi scismi; anzi che siate uniti insieme in una medesima mente, e in un medesimo sentire."
 "Perciocchè, fratelli miei, mi è stato di voi significato da que’ di casa Cloe, che vi son fra voi delle contenzioni."
 "Or questo voglio dire, che ciascun di voi dice
 "Cristo è egli diviso? Paolo è egli stato crocifisso per voi? ovvero siete voi stati battezzati nel nome di Paolo?"

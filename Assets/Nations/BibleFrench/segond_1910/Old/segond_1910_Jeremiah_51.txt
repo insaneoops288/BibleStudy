@@ -9,7 +9,7 @@
 "Nous avons voulu guérir Babylone, mais elle n'a pas guéri. Abandonnons-la, et allons chacun dans son pays; Car son châtiment atteint jusqu'aux cieux, Et s'élève jusqu'aux nues."
 "L'Eternel manifeste la justice de notre cause; Venez, et racontons dans Sion L'oeuvre de l'Eternel, notre Dieu."
 "Aiguisez les flèches, saisissez les boucliers! L'Eternel a excité l'esprit des rois de Médie, Parce qu'il veut détruire Babylone; Car c'est la vengeance de l'Eternel, La vengeance de son temple."
-"Elevez une bannière contre les murs de Babylone! Fortifiez les postes, placez des gardes, dressez des embuscades! Car l'Eternel a pris une résolution, Et il exécute ce qu'il a prononcé contre les habitants de Babylone."
+"Elevez une bannière contre les murs de Babylone! Fortifiez les postes, placez des gardes, dressez des embuscades! Car #l'Eternel a pris une résolution, Et il exécute ce qu'il a prononcé contre les habitants de Babylone."
 "Toi qui habites près des grandes eaux, Et qui as d'immenses trésors, Ta fin est venue, ta cupidité est à son terme!"
 "L'Eternel des armées l'a juré par lui-même
 "Il a crée la terre par sa puissance, Il a fondé le monde par sa sagesse, Il a étendu les cieux par son intelligence."
@@ -22,9 +22,9 @@
 "Par toi j'ai brisé l'homme et la femme; Par toi j'ai brisé le vieillard et l'enfant; Par toi j'ai brisé le jeune homme et la jeune fille."
 "Par toi j'ai brisé le berger et son troupeau; Par toi j'ai brisé le laboureur et ses boeufs; Par toi j'ai brisé les gouverneurs et les chefs."
 "Je rendrai à Babylone et à tous les habitants de la Chaldée Tout le mal qu'ils ont fait à Sion sous vos yeux, Dit l'Eternel."
-"Voici, j'en veux à toi, montagne de destruction, dit l'Eternel, A toi qui détruisais toute la terre! J'étendrai ma main sur toi, Je te roulerai du haut des rochers, Et je ferai de toi une montagne embrasée."
+"Voici, j'en veux à toi, montagne de destruction, dit l'Eternel, A toi qui détruisais toute la terre! J'étendrai ma #main sur toi, Je te roulerai du haut des rochers, Et je ferai de toi une montagne embrasée."
 "On ne tirera de toi ni pierres angulaires, ni pierres pour fondements; Car tu seras à jamais une ruine, dit l'Eternel..."
-"Elevez une bannière dans le pays! Sonnez de la trompette parmi les nations! Préparez les nations contre elle, Appelez contre elle les royaumes d'Ararat, de Minni et d'Aschkenaz! Etablissez contre elle des chefs! Faites avancer des chevaux comme des sauterelles hérissées!"
+"Elevez une bannière dans le pays! Sonnez de la trompette parmi les nations! Préparez les nations contre elle, Appelez contre elle #les royaumes d'Ararat, de Minni et d'Aschkenaz! Etablissez contre elle des chefs! Faites avancer des chevaux comme des sauterelles hérissées!"
 "Préparez contre elle les nations, les rois de Médie, Ses gouverneurs et tous ses chefs, Et tout le pays sous leur domination!"
 "La terre s'ébranle, elle tremble; Car le dessein de l'Eternel contre Babylone s'accomplit; Il va faire du pays de Babylone un désert sans habitants."
 "Les guerriers de Babylone cessent de combattre, Ils se tiennent dans les forteresses; Leur force est épuisée, ils sont comme des femmes. On met le feu aux habitations, On brise les barres."
@@ -43,7 +43,7 @@
 "Ses villes sont ravagées, La terre est aride et déserte; C'est un pays où personne n'habite, Où ne passe aucun homme."
 "Je châtierai Bel à Babylone, J'arracherai de sa bouche ce qu'il a englouti, Et les nations n'afflueront plus vers lui. La muraille même de Babylone est tombée!"
 "Sortez du milieu d'elle, mon peuple, Et que chacun sauve sa vie, En échappant à la colère ardente de l'Eternel!"
-"Que votre coeur ne se trouble point, et ne vous effrayez pas Des bruits qui se répandront dans le pays; Car cette année surviendra un bruit, Et l'année suivante un autre bruit, La violence régnera dans le pays, Et un dominateur s'élèvera contre un autre dominateur."
+"Que votre coeur ne se trouble point, et ne vous effrayez pas Des bruits qui se répandront dans le pays; Car cette année surviendra #un bruit, Et l'année suivante un autre bruit, La violence régnera dans le pays, Et un dominateur s'élèvera contre un autre dominateur."
 "C'est pourquoi voici, les jours viennent Où je châtierai les idoles de Babylone, Et tout son pays sera couvert de honte; Tous ses morts tomberont au milieu d'elle."
 "Sur Babylone retentiront les cris de joie des cieux et de la terre, Et de tout ce qu'ils renferment; Car du septentrion les dévastateurs fondront sur elle, Dit l'Eternel."
 "Babylone aussi tombera, ô morts d'Israël, Comme elle a fait tomber les morts de tout le pays."
@@ -53,10 +53,10 @@
 "Quand Babylone s'élèverait jusqu'aux cieux, Quand elle rendrait inaccessibles ses hautes forteresses, J'enverrai contre elle les dévastateurs, dit l'Eternel..."
 "Des cris s'échappent de Babylone, Et le désastre est grand dans le pays des Chaldéens."
 "Car l'Eternel ravage Babylone, Il en fait cesser les cris retentissants; Les flots des dévastateurs mugissent comme de grandes eaux, Dont le bruit tumultueux se fait entendre."
-"Oui, le dévastateur fond sur elle, sur Babylone; Les guerriers de Babylone sont pris, Leurs arcs sont brisés. Car l'Eternel est un Dieu qui rend à chacun selon ses oeuvres, Qui paie à chacun son salaire."
-"J'enivrerai ses princes et ses sages, Ses gouverneurs, ses chefs et ses guerriers; Ils s'endormiront d'un sommeil éternel, et ne se réveilleront plus, Dit le roi, dont l'Eternel des armées est le nom."
+"Oui, le dévastateur fond sur elle, sur Babylone; Les guerriers de Babylone sont pris, Leurs arcs sont brisés. Car #l'Eternel est un Dieu qui rend à chacun selon ses oeuvres, Qui paie à chacun son salaire."
+"J'enivrerai ses princes et ses sages, Ses gouverneurs, ses chefs et ses guerriers; Ils s'endormiront d'un sommeil #éternel, et ne se réveilleront plus, Dit le roi, dont l'Eternel des armées est le nom."
 "Ainsi parle l'Eternel des armées
-"Ordre donné par Jérémie, le prophète, à Seraja, fils de Nérija, fils de Machséja, lorsqu'il se rendit à Babylone avec Sédécias, roi de Juda, la quatrième année du règne de Sédécias. Or, Seraja était premier chambellan."
+"Ordre donné par Jérémie, le prophète, à Seraja, fils de Nérija, fils de Machséja, lorsqu'il se rendit à Babylone #avec Sédécias, roi de Juda, la quatrième année du règne de Sédécias. Or, Seraja était premier chambellan."
 "Jérémie écrivit dans un livre tous les malheurs qui devaient arriver à Babylone, toutes ces paroles qui sont écrites sur Babylone."
 "Jérémie dit à Seraja
 "et tu diras

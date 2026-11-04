@@ -10,7 +10,7 @@
 "Ezéchias répondit
 "Alors Esaïe, le prophète, invoqua l'Eternel, qui fit reculer l'ombre de dix degrés sur les degrés d'Achaz, où elle était descendue."
 "En ce même temps, Berodac-Baladan, fils de Baladan, roi de Babylone, envoya une lettre et un présent à Ezéchias, car il avait appris la maladie d'Ezéchias."
-"Ezéchias donna audience aux envoyés, et il leur montra le lieu où étaient ses choses de prix, l'argent et l'or, les aromates et l'huile précieuse, son arsenal, et tout ce qui se trouvait dans ses trésors
+"Ezéchias donna audience aux envoyés, et il leur montra le lieu où étaient ses choses de prix, l'argent et #l'or, les aromates et l'huile précieuse, son arsenal, et tout ce qui se trouvait dans ses trésors
 "Esaïe, le prophète, vint ensuite auprès du roi Ezéchias, et lui dit
 "Esaïe dit encore
 "Alors Esaïe dit à Ezéchias

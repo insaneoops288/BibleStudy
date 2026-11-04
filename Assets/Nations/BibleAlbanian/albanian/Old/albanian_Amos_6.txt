@@ -1,5 +1,5 @@
 "Mjerë ata që jetojnë në bollëk në Sion dhe që e ndjejnë veten të sigurt në malin e Samarias, njerëz të parisë të ballit të kombeve, ku po shkon shtëpia e Izraelit."
-"Kaloni në Kalneh dhe shikoni, që andej shkoni në Hamathin e madh, pastaj zbrisni në Gathin e Filistejve. A janë vallë ato më të mira nga këto mbretëri ose territori i tyre është më i madh nga ai juaji?"
+"Kaloni në Kalneh dhe shikoni, që andej shkoni në Hamathin e madh, pastaj zbrisni në Gathin e Filistejve. A janë #vallë ato më të mira nga këto mbretëri ose territori i tyre është më i madh nga ai juaji?"
 "Ju doni të largoni ditën e keqe, por e afroni selinë e dhunës."
 "Mjerë ata që rrinë shtrirë mbi shtretër prej fildishi, që shtrihen mbi divanet e tyre dhe hanë qengjat e kopesë dhe viçat që merren nga stalla."
 "Këndojnë me tingullin e harpës dhe ashtu si Davidi shpikin për vete vegla muzikore;"

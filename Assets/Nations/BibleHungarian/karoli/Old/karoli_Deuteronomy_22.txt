@@ -1,6 +1,6 @@
 "Ne nézd el, ha a te atyádfiának ökre vagy juha tévelyeg, és ne fordulj el azoktól, hanem bizony tereld vissza azokat a te atyádfiához."
 "Hogyha pedig nincs közel hozzád a te atyádfia, vagy nem is ismered õt
-"És ekképen cselekedjél szamarával, ekképen cselekedjél ruhájával és ekképen cselekedjél a te atyádfiának minden elveszett holmijával, a mi elveszett tõle és te megtaláltad; nem szabad félrevonulnod."
+"És ekképen cselekedjél szamarával, ekképen cselekedjél ruhájával és ekképen cselekedjél a te atyádfiának minden #elveszett holmijával, a mi elveszett tõle és te megtaláltad; nem szabad félrevonulnod."
 "Ha látod, hogy a te atyádfiának szamara vagy ökre az úton eldûlve fekszik, ne fordulj el azoktól, hanem vele együtt emeld fel [azokat.]"
 "Asszony ne viseljen férfiruházatot, se férfi ne öltözzék asszonyruhába; mert mind útálatos az Úr elõtt, a te Istened elõtt, a ki ezt míveli."
 "Ha madárfészek akad elédbe az úton valamely fán vagy a földön, madárfiakkal vagy tojásokkal, és az anya rajta ül a fiakon vagy a tojásokon
@@ -18,10 +18,10 @@
 "Akkor a város vénei fogják meg azt a férfit, és ostorozzák meg õt;"
 "És bírságolják meg száz ezüst [siklusra,] és adják ezt a leány atyjának; mert rossz hírbe kevert egy izráelita szûzet; és legyen annak felesége, [és] el nem bocsáthatja azt teljes életében."
 "Ha pedig igaz lesz a vádolás, és nem találtatik szûzesség a leányban
-"Akkor vigyék ki a leányt az õ atyjának háza elé, és az õ városának emberei kövezzék meg kõvel, hogy meghaljon; mert gyalázatosságot cselekedett Izráelben, paráználkodván az az õ atyjának házánál. Így tisztítsd ki közüled a gonoszt."
+"Akkor vigyék ki a leányt az õ atyjának háza elé, és az õ városának emberei kövezzék meg kõvel, hogy #meghaljon; mert gyalázatosságot cselekedett Izráelben, paráználkodván az az õ atyjának házánál. Így tisztítsd ki közüled a gonoszt."
 "Ha rajtakapnak valamely férfit, hogy férjes asszonynyal hál, õk mindketten is meghaljanak
 "Ha szûz leány van jegyben egy férfiúval, és megtalálja azt valaki a városban, és vele hál
-"Vigyétek ki mindkettõjöket annak a városnak kapuja elé, és kövezzétek meg õket kõvel, hogy meghaljanak. A leányt azért, hogy nem kiáltott a városban, a férfit pedig azért, hogy meggyalázta az õ felebarátjának feleségét. Így tisztítsd ki a gonoszt Izráelbõl."
+"Vigyétek ki mindkettõjöket annak a városnak kapuja elé, és kövezzétek meg õket kõvel, hogy meghaljanak. A leányt azért, hogy nem #kiáltott a városban, a férfit pedig azért, hogy meggyalázta az õ felebarátjának feleségét. Így tisztítsd ki a gonoszt Izráelbõl."
 "De hogyha mezõn találja a férfi a jegyben járó leányt, és erõszakoskodik rajta a férfi és vele hál
 "A leányt pedig ne bántsd, mert a leánynak nincsen halálos bûne, mivel olyan ez a dolog, mint a mikor valaki felebarátjára támad és azt agyonüti."
 "Mert a mezõn találta õt; kiálthatott a jegyben járó leány, de nem volt a ki megoltalmazza õt."

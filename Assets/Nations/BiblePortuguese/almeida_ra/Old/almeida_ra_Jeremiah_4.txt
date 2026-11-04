@@ -1,7 +1,7 @@
 "Se voltares, ó Israel, diz o Senhor, se voltares para mim e tirares as tuas abominações de diante de mim, e não andares mais vagueando;"
 "e se jurares
 "Porque assim diz o Senhor aos homens de Judá e a Jerusalém
-"Circuncidai-vos ao Senhor, e tirai os prepúcios do vosso coração, ó homens de Judá e habitadores de Jerusalém, para que a minha indignação não venha a sair como fogo, e arda de modo que ninguém o possa apagar, por causa da maldade das vossas obras."
+"Circuncidai-vos ao Senhor, e tirai os prepúcios do vosso coração, ó homens de Judá e habitadores de Jerusalém, para que a minha indignação #não venha a sair como fogo, e arda de modo que ninguém o possa apagar, por causa da maldade das vossas obras."
 "Anunciai em Judá, e publicai em Jerusalém; e dizei
 "Arvorai um estandarte no caminho para Sião; buscai refúgio, não demoreis; porque eu trago do norte um mal, sim, uma grande destruição."
 "Subiu um leão da sua ramada, um destruidor de nações; ele já partiu, saiu do seu lugar para fazer da tua terra uma desolação, a fim de que as tuas cidades sejam assoladas, e ninguém habite nelas."
@@ -16,7 +16,7 @@
 "Anunciai isto às nações; eis, proclamai contra Jerusalém que vigias vêm de uma terra remota; eles levantam a voz contra as cidades de Judá."
 "Como guardas de campo estão contra ela ao redor; porquanto ela se rebelou contra mim, diz o Senhor."
 "O teu caminho e as tuas obras te trouxeram essas coisas; essa e a tua iniquidade, e amargosa é, chegando até o coração."
-"Ah, entranhas minhas, entranhas minhas! Eu me torço em dores! Paredes do meu coração! O meu coração se aflige em mim. Não posso calar; porque tu, ó minha alma, ouviste o som da trombeta e o alarido da guerra."
+"Ah, entranhas minhas, entranhas minhas! Eu me torço em dores! Paredes do meu coração! O meu coração se aflige em #mim. Não posso calar; porque tu, ó minha alma, ouviste o som da trombeta e o alarido da guerra."
 "Destruição sobre destruição se apregoa; porque já toda a terra está assolada; de repente são destruídas as minhas tendas, e as minhas cortinas num momento."
 "Até quando verei o estandarte, e ouvirei a voz da trombeta?"
 "Deveras o meu povo é insensato, já me não conhece; são filhos obtusos, e não entendidos; são sábios para fazerem o mal, mas não sabem fazer o bem."
@@ -27,5 +27,5 @@
 "Pois assim diz o Senhor
 "Por isso lamentará a terra, e os céus em cima se enegrecerão; porquanto assim o disse eu, assim o propus, e não me arrependi, nem me desviarei disso."
 "Ao clamor dos cavaleiros e dos flecheiros fogem todas as cidades; entram pelas matas, e trepam pelos penhascos; todas as cidades ficam desamparadas, e já ninguém habita nelas."
-"Agora, pois, ó assolada, que farás? Embora te vistas de escarlate, e te adornes com enfeites de ouro, embora te pintes em volta dos olhos com antimónio, debalde te farias bela; os teus amantes te desprezam, e procuram tirar-te a vida."
+"Agora, pois, ó assolada, que farás? Embora te vistas de escarlate, e te adornes com enfeites de ouro, embora te pintes #em volta dos olhos com antimónio, debalde te farias bela; os teus amantes te desprezam, e procuram tirar-te a vida."
 "Pois ouvi uma voz, como a de mulher que está de parto, a angústia como a de quem dá à luz o seu primeiro filho; a voz da filha de Sião, ofegante, que estende as mãos, dizendo

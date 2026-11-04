@@ -13,11 +13,11 @@
 "Da sie aber hinweggezogen waren, siehe, da erschien der Engel des HERRN dem Joseph im Traum und sprach
 "Und er stand auf und nahm das Kindlein und seine Mutter zu sich bei der Nacht und entwich nachÄgyptenland."
 "Und blieb allda bis nach dem Tod des Herodes, auf daß erfüllet würde, was der HERR durch den Propheten gesagt hat, der da spricht
-"Da Herodes nun sah, daß er von den Weisen betrogen war, ward er sehr zornig und schickte aus und ließ alle Kinder zu Bethlehem töten und an seinen ganzen Grenzen, die da zweijährig und darunter waren, nach der Zeit, die er mit Fleiß von den Weisen erlernt hatte."
+"Da Herodes nun sah, daß er von den Weisen betrogen war, ward er sehr zornig und schickte aus und ließ alle Kinder zu Bethlehem töten #und an seinen ganzen Grenzen, die da zweijährig und darunter waren, nach der Zeit, die er mit Fleiß von den Weisen erlernt hatte."
 "Da ist erfüllt, was gesagt ist von dem Propheten Jeremia, der da spricht
 """Auf dem Gebirge hat man ein Geschrei gehört, viel Klagens, Weinens und Heulens; Rahel beweinte ihre Kinder und wollte sich nicht trösten lassen, denn es war aus mit ihnen."""
 "Da aber Herodes gestorben war, siehe, da erschien der Engel des HERRN dem Joseph im Traum inÄgyptenland"
 "und sprach
 "Und er stand auf und nahm das Kindlein und sein Mutter zu sich und kam in das Land Israel."
-"Da er aber hörte, daß Archelaus im jüdischen Lande König war anstatt seines Vaters Herodes, fürchtete er sich, dahin zu kommen. Und im Traum empfing er Befehl von Gott und zog in dieÖrter des galiläischen Landes."
+"Da er aber hörte, daß Archelaus im jüdischen Lande König war anstatt seines Vaters Herodes, fürchtete er sich, dahin #zu kommen. Und im Traum empfing er Befehl von Gott und zog in dieÖrter des galiläischen Landes."
 "und kam und wohnte in der Stadt die da heißt Nazareth; auf das erfüllet würde, was da gesagt ist durch die Propheten

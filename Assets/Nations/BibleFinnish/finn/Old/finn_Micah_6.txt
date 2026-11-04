@@ -4,7 +4,7 @@
 "Minä olen kuitenkin sinun Egyptin maalta vienyt ylös, ja lunastin sinun orjuuden huoneesta; ja lähetin sinun etees Moseksen, Aaronin ja Mirjamin."
 "Minun kansani, muista siis, mitä neuvoa Balak Moabin kuningas piti, ja mitä Bileam Peorin poika häntä vastasi, Sittimistä hamaan Gilgaliin asti, että te tietäisitte Herran vanhurskaita töitä."
 "Millä minun pitää Herraa lepyttämän? kumarruksellako korkian Jumalan edessä? pitääkö minun häntä lepyttämän polttouhrilla ja vuosikuntaisilla vasikoilla?"
-"Luuletkos, että Herra mielistyy moneen tuhanteen oinaasen, taikka öljyyn, vaikka sitä epälukuiset virrat täynnä olisivat? Eli pitääkö minun antaman esikoisen poikani minun ylitsekäymiseni tähden, eli minun ruumiini hedelmän minun sieluni synnin tähden?"
+"Luuletkos, että Herra mielistyy moneen tuhanteen oinaasen, taikka öljyyn, vaikka sitä epälukuiset virrat täynnä olisivat? Eli pitääkö #minun antaman esikoisen poikani minun ylitsekäymiseni tähden, eli minun ruumiini hedelmän minun sieluni synnin tähden?"
 "Se on sinulle sanottu, ihminen, mikä hyvä on, ja mitä Herra sinulta vaatii, nimittäin, ettäs kätket Jumalan sanan, ja harjoitat rakkautta, ja olet nöyrä sinun Jumalas edessä."
 "Herran äänen pitää kuuluman kaupungin ylitse, mutta joka sinun nimeäs pelkää, pitää menestymän
 "Eikö vielä ole väärä tavara jumalattomain huoneissa, ja vähä mitta kauhistukseksi?"
@@ -13,4 +13,4 @@
 "Sentähden minä rupeen myös sinua rankaisemaan, ja hävitän sinua sinun synteis tähden."
 "Sinä syöt, ja et taida ravituksi tulla, ja sinä pitää sinussas nöyryytettämän. Mitäs kätket, ei sen pidä pääsemän, ja mitä pääsee, sen minä miekalle annan."
 "Sinä kylvät, ja et leikkaa; sinä sotkut öljypuita, ja et saa itsiäs öljyllä voidella, ja kuurnitset viinaa, ja et saa sitä juoda."
-"Sillä Omrin säädyt ahkerasti pidetään, ja kaikki Ahabin huoneen teot, ja te vaellatte heidän neuvoissansa; sentähden tahdon minä sinun autioksi tehdä, ja sen maan asuvaiset pilkaksi, ja teidän pitää minun kansani häpiän kantaman."
+"Sillä Omrin säädyt ahkerasti pidetään, ja kaikki Ahabin huoneen teot, ja te vaellatte heidän neuvoissansa; sentähden tahdon #minä sinun autioksi tehdä, ja sen maan asuvaiset pilkaksi, ja teidän pitää minun kansani häpiän kantaman."

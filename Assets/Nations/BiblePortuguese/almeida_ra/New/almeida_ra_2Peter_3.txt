@@ -13,6 +13,6 @@
 "Nós, porém, segundo a sua promessa, aguardamos novos céus e uma nova terra, nos quais habita a justiça."
 "Pelo que, amados, como estais aguardando estas coisas, procurai diligentemente que por ele sejais achados imaculados e irrepreensível em paz;"
 "e tende por salvação a longanimidade de nosso Senhor; como também o nosso amado irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada;"
-"como faz também em todas as suas epístolas, nelas falando acerca destas coisas, mas quais há pontos difíceis de entender, que os indoutos e inconstantes torcem, como o fazem também com as outras Escrituras, para sua própria perdição."
+"como faz também em todas as suas epístolas, nelas falando acerca destas coisas, mas quais há pontos difíceis de entender, #que os indoutos e inconstantes torcem, como o fazem também com as outras Escrituras, para sua própria perdição."
 "Vós, portanto, amados, sabendo isto de antemão, guardai-vos de que pelo engano dos homens perversos sejais juntamente arrebatados, e descaiais da vossa firmeza;"
 "antes crescei na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja dada a glória, assim agora, como até o dia da eternidade."

@@ -1,6 +1,6 @@
 "Y fue Sansón a Gaza, y vio allí una mujer ramera, y entró a ella."
 "Y fue dicho a los de Gaza
-"Mas Sansón durmió hasta la medianoche; y a la medianoche se levantó, y tomando las puertas de la ciudad con sus dos pilares y su cerrojo, se las echó al hombro, y se fue, y se subió con ellas a la cumbre del monte que <I> está</I>  delante de Hebrón."
+"Mas Sansón durmió hasta la medianoche; y a la medianoche se levantó, y tomando las puertas de la ciudad con sus dos pilares y su cerrojo, #se las echó al hombro, y se fue, y se subió con ellas a la cumbre del monte que <I> está</I>  delante de Hebrón."
 "Después de esto aconteció que se enamoró de una mujer en el valle de Sorec, la cual se llamaba Dalila."
 "Y vinieron a ella los príncipes de los filisteos, y le dijeron
 "Y Dalila dijo a Sansón
@@ -24,7 +24,7 @@
 "Y viéndolo el pueblo, loaron a su dios, diciendo
 "Y aconteció que, yéndose alegrando el corazón de ellos, dijeron
 "Y Sansón dijo al joven que le guiaba de la mano
-"Y la casa <I>estaba</I>  llena de hombres y mujeres; y todos los príncipes de los filisteos <I>estaban</I>  allí; <I>y</I>  sobre el techo había como tres mil hombres y mujeres, que estaban mirando el escarnio de Sansón."
+"Y la casa <I>estaba</I>  llena de hombres y mujeres; y todos los príncipes de los filisteos <I>estaban</I>  allí; #<I>y</I>  sobre el techo había como tres mil hombres y mujeres, que estaban mirando el escarnio de Sansón."
 "<I>Entonces</I>  clamó Sansón al SEÑOR, y dijo
 "Asió luego Sansón las dos columnas del medio sobre las cuales se sustentaba la casa, y estribó en ellas, la una con la mano derecha, y la otra con la izquierda;"
 "y dijo Sansón

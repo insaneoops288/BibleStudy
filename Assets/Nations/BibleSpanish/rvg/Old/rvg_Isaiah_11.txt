@@ -8,7 +8,7 @@
 "Y el niño de pecho jugará sobre la cueva del áspid, y el recién destetado extenderá su mano sobre la guarida de la serpiente."
 "No harán mal ni dañarán en todo mi santo monte; porque la tierra será llena del conocimiento de Jehová, como las aguas cubren el mar."
 "Y acontecerá en aquel tiempo que la raíz de Isaí, la cual estará puesta por pendón a las naciones, será buscada de los gentiles; y su reposo será glorioso."
-"Y acontecerá en aquel tiempo, que Jehová volverá a extender su mano, por segunda vez, para recobrar el remanente de su pueblo que haya quedado de Asiria, de Egipto, de Patros, de Etiopía, de Elam, de Sinar, de Hamat y de las islas del mar."
+"Y acontecerá en aquel tiempo, que Jehová volverá a extender su mano, por segunda vez, para recobrar el remanente de su pueblo que #haya quedado de Asiria, de Egipto, de Patros, de Etiopía, de Elam, de Sinar, de Hamat y de las islas del mar."
 "Y levantará pendón a las naciones, y juntará a los desterrados de Israel, y reunirá a los esparcidos de Judá de los cuatro extremos de la tierra."
 "Y se disipará la envidia de Efraín, y los enemigos de Judá serán cortados. Efraín no tendrá envidia de Judá, ni Judá afligirá a Efraín;"
 "Mas volarán sobre los hombros de los filisteos al occidente, saquearán también a los del oriente. Edom y Moab les servirán, y los hijos de Amón les obedecerán."

@@ -16,7 +16,7 @@
 "Azok pedig hozának. És monda nékik
 "És felelvén Jézus, monda nékik
 "És jövének hozzá Sadduczeusok, a kik azt mondják, hogy nincsen feltámadás. És megkérdezék õt, mondván
-"Mester, Mózes azt írta nékünk, hogy ha valakinek fitestvére meghalt, és feleséget hagyott hátra, gyermekeket pedig nem hagyott, akkor az õ feleségét vegye el az õ fitestvére, és támasszon magot a fitestvérének."
+"Mester, Mózes azt írta nékünk, hogy ha valakinek fitestvére meghalt, és feleséget hagyott hátra, gyermekeket pedig nem #hagyott, akkor az õ feleségét vegye el az õ fitestvére, és támasszon magot a fitestvérének."
 "Heten valának tehát fitestvérek. És az elsõ feleséget võn, de meghalván, magot nem hagya."
 "És a második elvevé az asszonyt, de meghala, és magot õ sem hagya
 "És mind a hét elvevé azt, és magot nem hagyának. Legutoljára meghalt az asszony is."

@@ -9,9 +9,9 @@ So the child grew and was weaned. And Abraham made a great feast on the same day
 And Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, scoffing.
 Therefore she said to Abraham, "Cast out this bondwoman and her son; for the son of this bondwoman shall not be heir with my son, namely with Isaac."
 And the matter was very displeasing in Abraham's sight because of his son.
-But God said to Abraham, "Do not let it be displeasing in your sight because of the lad or because of your bondwoman. Whatever Sarah has said to you, listen to her voice; for in Isaac your seed shall be called.
+But God said to Abraham, "Do not let it be displeasing in your sight because of the lad or because of #your bondwoman. Whatever Sarah has said to you, listen to her voice; for in Isaac your seed shall be called.
 "Yet I will also make a nation of the son of the bondwoman, because he is your seed."
-So Abraham rose early in the morning, and took bread and a skin of water; and putting it on her shoulder, he gave it and the boy to Hagar, and sent her away. Then she departed and wandered in the Wilderness of Beersheba.
+So Abraham rose early in the morning, and took bread and a skin of water; and putting it on her shoulder, he #gave it and the boy to Hagar, and sent her away. Then she departed and wandered in the Wilderness of Beersheba.
 And the water in the skin was used up, and she placed the boy under one of the shrubs.
 Then she went and sat down across from him at a distance of about a bowshot; for she said to herself, "Let me not see the death of the boy." So she sat opposite him, and lifted her voice and wept.
 And God heard the voice of the lad. Then the angel of God called to Hagar out of heaven, and said to her, "What ails you, Hagar? Fear not, for God has heard the voice of the lad where he is.
@@ -20,7 +20,7 @@ Then God opened her eyes, and she saw a well of water. And she went and filled t
 So God was with the lad; and he grew and dwelt in the wilderness, and became an archer.
 He dwelt in the Wilderness of Paran; and his mother took a wife for him from the land of Egypt.
 And it came to pass at that time that Abimelech and Phichol, the commander of his army, spoke to Abraham, saying, "God is with you in all that you do.
-"Now therefore, swear to me by God that you will not deal falsely with me, with my offspring, or with my posterity; but that according to the kindness that I have done to you, you will do to me and to the land in which you have dwelt."
+"Now therefore, swear to me by God that you will not deal falsely with me, with my offspring, or with my posterity; but that according #to the kindness that I have done to you, you will do to me and to the land in which you have dwelt."
 And Abraham said, "I will swear."
 Then Abraham rebuked Abimelech because of a well of water which Abimelech's servants had seized.
 And Abimelech said, "I do not know who has done this thing; you did not tell me, nor had I heard of it until today."

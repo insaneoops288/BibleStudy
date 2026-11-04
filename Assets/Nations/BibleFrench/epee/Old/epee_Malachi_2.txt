@@ -1,5 +1,5 @@
 "Maintenant c'est à vous, sacrificateurs, que s'adresse ce commandement."
-"Si vous n'écoutez pas, et si vous ne prenez pas à coeur de donner gloire à mon nom, a dit l'Éternel des armées, j'enverrai sur vous la malédiction, et je maudirai vos bénédictions. Oui, je les maudirai, parce que vous ne le prenez point à coeur."
+"Si vous n'écoutez pas, et si vous ne prenez pas à coeur de donner gloire à mon nom, a dit l'Éternel des armées, j'enverrai #sur vous la malédiction, et je maudirai vos bénédictions. Oui, je les maudirai, parce que vous ne le prenez point à coeur."
 "Voici, je détruirai vos semences, et je répandrai sur vos visages de la fiente, la fiente de vos victimes de fêtes; et on vous emportera avec elle."
 "Et vous saurez que je vous ai envoyé ce commandement, afin qu'il soit mon alliance avec Lévi, dit l'Éternel des armées."
 "Mon alliance avec lui était la vie et la paix, et je les lui donnai pour qu'il eût de la crainte; et il me craignit, et il trembla devant mon nom."
@@ -12,6 +12,6 @@
 "L'Éternel retranchera des tentes de Jacob l'homme qui fait cela, celui qui veille, et celui qui répond, et celui qui présente l'offrande à l'Éternel des armées."
 "Et voici une seconde chose que vous faites
 "Et vous dites
-"Personne n'a fait cela, ayant un reste d'esprit. Et pourquoi le seul (Abraham) l'a-t-il fait? Il cherchait une postérité de Dieu. Prenez donc garde à votre esprit, et qu'il n'y ait pas d'infidélité envers la femme de ta jeunesse."
+"Personne n'a fait cela, ayant un reste d'esprit. Et pourquoi le seul (Abraham) l'a-t-il fait? Il cherchait une postérité de #Dieu. Prenez donc garde à votre esprit, et qu'il n'y ait pas d'infidélité envers la femme de ta jeunesse."
 "Car je hais la répudiation, dit l'Éternel, le Dieu d'Israël, et celui qui couvre de violence son vêtement, dit l'Éternel des armées. Prenez donc garde à votre esprit, et ne soyez pas infidèles."
 "Vous fatiguez l'Éternel par vos paroles, et vous dites

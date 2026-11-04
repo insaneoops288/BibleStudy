@@ -2,8 +2,8 @@
 "Tetapi Nadab dan Abihu mati lebih dahulu dari pada ayah mereka dengan tidak mempunyai anak laki-laki, maka yang memegang jabatan imam ialah Eleazar dan Itamar."
 "Daud, bersama-sama Zadok dari bani Eleazar dan Ahimelekh dari bani Itamar, membagi-bagi mereka menurut jabatan mereka dalam penyelenggaraan ibadah."
 "Lalu ternyata bahwa di antara keturunan Eleazar ada lebih banyak kepala kaum dari pada di antara keturunan Itamar, sebab itu orang membagi-bagi mereka sebagai berikut
-"Dan orang membagi-bagi mereka dengan membuang undi tanpa mengadakan perbedaan, sebab ada ""pemimpin-pemimpin kudus"" dan ""pemimpin-pemimpin Allah"", baik di antara keturunan Eleazar maupun di antara keturunan Itamar."
-"Dan Semaya bin Netaneel, panitera itu, seorang Lewi, menulis nama mereka di depan raja, di depan pembesar-pembesar, imam Zadok, Ahimelekh bin Abyatar dan di depan kepala-kepala puak para imam dan orang Lewi; setiap kali satu puak diambil dari Eleazar, dan demikian pula satu puak dari Itamar."
+"Dan orang membagi-bagi mereka dengan membuang undi tanpa mengadakan perbedaan, sebab ada ""pemimpin-pemimpin kudus"" #dan ""pemimpin-pemimpin Allah"", baik di antara keturunan Eleazar maupun di antara keturunan Itamar."
+"Dan Semaya bin Netaneel, panitera itu, seorang Lewi, menulis nama mereka di depan raja, di depan pembesar-pembesar, imam Zadok, Ahimelekh bin Abyatar dan di #depan kepala-kepala puak para imam dan orang Lewi; setiap kali satu puak diambil dari Eleazar, dan demikian pula satu puak dari Itamar."
 "Undian yang pertama jatuh pada Yoyarib; yang kedua pada Yedaya;"
 "yang ketiga pada Harim; yang keempat pada Seorim;"
 "yang kelima pada Malkia; yang keenam pada Miyamin;"
@@ -16,7 +16,7 @@
 "yang kesembilan belas pada Petahya; yang kedua puluh pada Yehezkel;"
 "yang kedua puluh satu pada Yakhin; yang kedua puluh dua pada Gamul;"
 "yang kedua puluh tiga pada Delaya; yang kedua puluh empat pada Maazya."
-"Itulah jabatan mereka dalam menyelenggarakan ibadah setelah mereka masuk rumah TUHAN, sesuai dengan peraturan yang diberikan kepada mereka dengan perantaraan Harun, bapa leluhur mereka, seperti yang diperintahkan kepadanya oleh TUHAN, Allah Israel."
+"Itulah jabatan mereka dalam menyelenggarakan ibadah setelah mereka masuk rumah TUHAN, sesuai dengan peraturan yang diberikan kepada #mereka dengan perantaraan Harun, bapa leluhur mereka, seperti yang diperintahkan kepadanya oleh TUHAN, Allah Israel."
 "Golongan yang masih tinggal dari bani Lewi, dari anak-anak Amram ialah Subael, dari anak-anak Subael ialah Yehdeya;"
 "dari anak-anak Rehabya ialah Yisia, seorang kepala;"
 "dari orang Yizhar ialah Selomot; dari anak-anak Selomot ialah Yahat."
@@ -28,4 +28,4 @@
 "Dari Mahli ialah Eleazar; dia ini tidak mempunyai anak."
 "Dari Kish
 "Anak-anak Musi ialah Mahli, Eder dan Yerimot. Itulah bani Lewi menurut puak mereka."
-"Mereka inipun, sama seperti saudara-saudara sesuku mereka, anak-anak Harun, membuang undi di depan raja Daud, di depan Zadok, Ahimelekh dan para kepala puak, para imam dan orang Lewi. Dalam hal ini seorang kepala puak sama dengan saudaranya yang terkecil."
+"Mereka inipun, sama seperti saudara-saudara sesuku mereka, anak-anak Harun, membuang undi di depan raja Daud, di depan Zadok, Ahimelekh dan #para kepala puak, para imam dan orang Lewi. Dalam hal ini seorang kepala puak sama dengan saudaranya yang terkecil."

@@ -2,7 +2,7 @@
 "Vaan hän vaelsi Israelin kuningasten teillä, ja teki myös Baalille valetuita kuvia."
 "Ja hän suitsutti Hinnomin poikain laaksossa, ja poltti poikansa tulella pakanain kauhistusten jälkeen, jotka Herra Israelin lasten edestä oli ajanut pois."
 "Ja hän uhrasi ja suitsutti korkeuksilla ja kukkuloilla, ja kaikkein viheriäisten puiden alla."
-"Sentähden antoi Herra hänen Jumalansa hänen Syrian kuninkaan käsiin, niin että he löivät häntä, ja veivät heistä suuren joukon vangiksi Damaskuun. Hän annettiin myös Israelin kuninkaan käsiin, joka heistä sangen paljon tappoi."
+"Sentähden antoi Herra hänen Jumalansa hänen Syrian kuninkaan käsiin, niin että he löivät häntä, ja veivät heistä #suuren joukon vangiksi Damaskuun. Hän annettiin myös Israelin kuninkaan käsiin, joka heistä sangen paljon tappoi."
 "Sillä Peka Remalian poika löi Juudasta sata ja kaksikymmentä tuhatta yhtenä päivänä, jotka kaikki väkevät miehet olivat, että he hylkäsivät Herran isäinsä Jumalan."
 "Ja Sikri Ephraimin väkevä tappoi kuninkaan pojan Maesejan, ja Asrikamin kuninkaan huoneen päämiehen, ja Elkanan, joka kuningasta lähimmäinen oli."
 "Ja Israelin lapset veivät vankina veljistänsä kaksisataa tuhatta, vaimoja, poikia ja tyttäriä, ja ryöstivät myös heiltä paljon saalista, jonka he veivät Samariaan."
@@ -12,10 +12,10 @@
 "Silloin nousivat muutamat Ephraimin lasten ylimmäisistä
 "Ja sanoivat heille
 "Niin sotaväki päästi vangit vallallensa ja asetti saaliin ylimmäisten ja kaiken kansan eteen."
-"Ja ne miehet nousivat, jotka nimeltänsä nimitetyt olivat, ja ottivat vangit ja kaikki jotka heidän seassansa alasti olivat, ja vaatettivat siitä saaliista. Ja kuin he heidät olivat vaatettaneet ja kengittäneet, antoivat he heille ruokaa ja juomaa, ja voitelivat heitä, ja veivät kaikki ne aasein päällä jotka heikoimmat olivat, ja saattivat heidät Jerihon Palmukaupunkiin veljeinsä tykö, ja palasivat sitte Samariaan."
+"Ja ne miehet nousivat, jotka nimeltänsä nimitetyt olivat, ja ottivat vangit ja kaikki jotka heidän seassansa alasti olivat, ja vaatettivat siitä saaliista. Ja kuin he heidät olivat vaatettaneet ja kengittäneet, #antoivat he heille ruokaa ja juomaa, ja voitelivat heitä, ja veivät kaikki ne aasein päällä jotka heikoimmat olivat, ja saattivat heidät Jerihon Palmukaupunkiin veljeinsä tykö, ja palasivat sitte Samariaan."
 "Siihen aikaan lähetti kuningas Ahas Assurin kuningasten tykö, että he olisivat auttaneet häntä;"
 "Sillä Edomilaiset tulivat vielä, ja löivät Juudan ja veivät heitä vankina pois."
-"Ja Philistealaiset hajoittivat itsensä ketokaupunkeihin, etelän puolelle Juudaa, ja voittivat Betsemeksen, Ajalonin, Gederotin ja Sokon kylinensä, ja Timnan kylinensä ja Gimson kylinensä, ja asuivat siellä."
+"Ja Philistealaiset hajoittivat itsensä ketokaupunkeihin, etelän puolelle Juudaa, ja voittivat Betsemeksen, Ajalonin, Gederotin #ja Sokon kylinensä, ja Timnan kylinensä ja Gimson kylinensä, ja asuivat siellä."
 "Sillä Herra nöyryytti Juudaa Ahaksen Israelin kuninkaan tähden, että hän oli vietellyt Juudan, ja teki väärin Herraa vastaan."
 "Ja hänen tykönsä tuli TiglatPilsener Assurin kuningas, joka piiritti hänen, ja ei häntä voittanut."
 "Sillä Ahas otti yhden osan Herran huoneesta ja kuninkaan ja ylimmäisten huoneesta, jotka hän antoi Assyrin kuninkaalle, vaan ei se häntä mitään auttanut."

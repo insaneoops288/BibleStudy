@@ -11,9 +11,9 @@
 "Protož, synu můj, Hospodin bude s tebou, a šťastněť se povede, a vystavíš dům Hospodina Boha svého, jakož mluvil o tobě."
 "A však dejž tobě Hospodin rozum a moudrost, a ustanoviž tě nad Izraelem, abys ostříhal zákona Hospodina Boha svého."
 "A tehdyť se šťastně povede, když ostříhati a činiti budeš ustanovení a soudy, kteréž přikázal Hospodin skrze Mojžíše lidu Izraelskému. Posilniž se a zmocni, neboj se, ani lekej."
-"A aj, já v nevolech svých připravil jsem k domu Hospodinovu sto tisíců centnéřů zlata, a stříbra tisíc tisíců centnéřů, mědi pak a železa bez váhy; nebo toho mnoho jest. Dříví také i kamení připravil jsem, a k tomu ostatek přidáš."
+"A aj, já v nevolech svých připravil jsem k domu Hospodinovu sto tisíců centnéřů zlata, a stříbra tisíc tisíců centnéřů, mědi #pak a železa bez váhy; nebo toho mnoho jest. Dříví také i kamení připravil jsem, a k tomu ostatek přidáš."
 "Přes to máš u sebe hojně dělníků, kameníků a zedníků, i tesařů i jiných zběhlých ve všelijakém díle."
 "Zlata, stříbra, mědi a železa není počtu; snažiž se a dělej, a Hospodin budiž s tebou."
 "Přikázal také David všechněm knížatům Izraelským, aby pomáhali Šalomounovi synu jeho, řka
 "Zdaliž Hospodin Bůh váš není s vámi, kterýž vám způsobil vůkol a vůkol odpočinutí? Nebo dal v ruku mou obyvatele země této, a podmaněna jest země Hospodinu a lidu jeho."
-"Nyní tedy vydejte se srdcem svým a duší svou k hledání Hospodina Boha svého, a přičiníce se, vystavějte svatyni Hospodinu Bohu, abyste tam vnesli truhlu smlouvy Hospodinovy, a nádobí Bohu posvěcená do domu vystaveného jménu Hospodinovu."
+"Nyní tedy vydejte se srdcem svým a duší svou k hledání Hospodina Boha svého, a přičiníce se, vystavějte svatyni #Hospodinu Bohu, abyste tam vnesli truhlu smlouvy Hospodinovy, a nádobí Bohu posvěcená do domu vystaveného jménu Hospodinovu."

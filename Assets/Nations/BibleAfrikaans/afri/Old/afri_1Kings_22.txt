@@ -7,7 +7,7 @@
 "Maar Jósafat sê
 "En die koning van Israel antwoord Jósafat
 "Daarop roep die koning van Israel 'n hofdienaar en sê
-"Onderwyl die koning van Israel en Jósafat, die koning van Juda, elkeen op sy troon sit, bekleed met koninklike klere, op 'n dorsvloer by die ingang van die poort van Samaría, en al die profete voor hulle profeteer,"
+"Onderwyl die koning van Israel en Jósafat, die koning van Juda, elkeen op sy troon sit, bekleed met koninklike klere, #op 'n dorsvloer by die ingang van die poort van Samaría, en al die profete voor hulle profeteer,"
 "het Sedekía, die seun van Kenaäna, vir hom ysterhorings gemaak en gesê
 "En al die profete het so geprofeteer en gesê
 "Toe sê die boodskapper wat gegaan het om Miga te roep, vir hom dít
@@ -36,7 +36,7 @@
 "En teen sonsondergang gaan 'n geskreeu deur die leër
 "En die koning het dood in Samaría aangekom, en die koning is in Samaría begrawe."
 "En toe hulle die wa uitspoel by die dam van Samaría, het die honde sy bloed gelek (terwyl die hoere hulle daarin was), volgens die woord van die HERE wat Hy gespreek het."
-"En die verdere geskiedenis van Agab en alles wat hy gedoen het, en die ivoorhuis wat hy gebou het, en al die stede wat hy gebou het, is dit nie beskrywe in die Kroniekboek van die konings van Israel nie?"
+"En die verdere geskiedenis van Agab en alles wat hy gedoen het, en die ivoorhuis wat hy gebou het, en al #die stede wat hy gebou het, is dit nie beskrywe in die Kroniekboek van die konings van Israel nie?"
 "En Agab het ontslaap met sy vaders, en sy seun Ahásia het in sy plek koning geword."
 "En Jósafat, die seun van Asa, het koning geword oor Juda in die vierde jaar van Agab, die koning van Israel."
 "Jósafat was vyf en dertig jaar oud toe hy koning geword het, en hy het vyf en twintig jaar in Jerusalem geregeer; en die naam van sy moeder was Asúba, die dogter van Silhi."
@@ -50,5 +50,5 @@
 "Toe sê Ahásia, die seun van Agab, vir Jósafat
 "En Jósafat het ontslaap met sy vaders en is by sy vaders begrawe in die stad van sy vader Dawid; en sy seun Joram het koning geword in sy plek."
 "Ahásia, die seun van Agab, het koning geword oor Israel in Samaría in die sewentiende jaar van Jósafat, die koning van Juda, en het twee jaar oor Israel geregeer."
-"En hy het gedoen wat verkeerd was in die oë van die HERE,hy het gewandel in die weg van sy vader en in die weg van sy moeder en in die weg van Jeróbeam, die seun van Nebat, wat Israel laat sondig het."
+"En hy het gedoen wat verkeerd was in die oë van die HERE,hy het gewandel in die weg van sy vader en #in die weg van sy moeder en in die weg van Jeróbeam, die seun van Nebat, wat Israel laat sondig het."
 "En hy het Baäl gedien en voor hom neergebuig en die HERE, die God van Israel, geterg, net soos sy vader gedoen het."

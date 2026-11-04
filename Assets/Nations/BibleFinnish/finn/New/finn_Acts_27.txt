@@ -9,7 +9,7 @@
 "Koska paljo aikaa oli kulunut, ja purjehdus oli vaarallinen, ja paaston aika oli jo kulunut, neuvoi Paavali heitä,"
 "Sanoen
 "Mutta sadanpäämies uskoi enemmin haahdenhaltiaa ja peränpitäjää kuin Paavalin sanoja."
-"Ja kuin ei satama ollut sovelias yli talvea olla, niin he enimmitten mielistyivät siihen neuvoon, että sieltä piti laskettaman pois, jos he jollakin muotoa olisivat voineet tulla Phoinikaan talvea pitämään, joka on Kretan satama, etelälänteä ja luodepohjaa päin."
+"Ja kuin ei satama ollut sovelias yli talvea olla, niin he enimmitten mielistyivät siihen neuvoon, että sieltä piti laskettaman pois, #jos he jollakin muotoa olisivat voineet tulla Phoinikaan talvea pitämään, joka on Kretan satama, etelälänteä ja luodepohjaa päin."
 "Mutta kuin etelätuuli rupesi puhaltamaan, luulivat he aikomisensa käyvän edes, läksivät matkaan ja purjehtivat Kretan ohitse lähempänä maata."
 "Mutta ei kauvan aikaa jälkeen löi sen päälle ankara puuskatuuli, joka itäpohjaksi kutsutaan."
 "Ja kuin haaksi tuli sen valtaan eikä voinut tuulta vastaan seisoa, laskimme me sen tuulen haltuun kulkemaan."

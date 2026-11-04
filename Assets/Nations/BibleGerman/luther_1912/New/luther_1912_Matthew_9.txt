@@ -14,7 +14,7 @@
 "Indes kamen die Jünger des Johannes zu ihm und sprachen
 "Jesus sprach zu ihnen
 "Niemand flickt ein altes Kleid mit einem Lappen von neuem Tuch; denn der Lappen reißt doch wieder vom Kleid, und der Riß wirdärger."
-"Man faßt auch nicht Most in alte Schläuche; sonst zerreißen die Schläuche und der Most wird verschüttet, und die Schläuche kommen um. Sondern man faßt Most in neue Schläuche, so werden sie beide miteinander erhalten."
+"Man faßt auch nicht Most in alte Schläuche; sonst zerreißen die Schläuche und der Most wird verschüttet, und #die Schläuche kommen um. Sondern man faßt Most in neue Schläuche, so werden sie beide miteinander erhalten."
 "Da er solches mit ihnen redete, siehe, da kam der Obersten einer und fiel vor ihm nieder und sprach
 "Und Jesus stand auf und folgte ihm nach und seine Jünger."
 "Und siehe, ein Weib, das zwölf Jahre den Blutgang gehabt, trat von hinten zu ihm und rührte seines Kleides Saum an."

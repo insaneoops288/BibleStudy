@@ -5,7 +5,7 @@
 "E por que nos fizestes subir do Egipto, para nos trazer a este mau lugar? lugar onde não há semente, nem figos, nem vides, nem romãs, nem mesmo água para beber."
 "Então Moisés e Arão se foram da presença da assembleia até a porta da tenda da revelação, e se lançaram com o rosto em terra; e a glória do Senhor lhes apareceu."
 "E o Senhor disse a Moisés
-"Toma a vara, e ajunta a congregação, tu e Arão, teu irmão, e falai à rocha perante os seus olhos, que ela dê as suas águas. Assim lhes tirarás água da rocha, e darás a beber à congregação e aos seus animais."
+"Toma a vara, e ajunta a congregação, tu e Arão, teu irmão, e falai à rocha perante os seus olhos, que ela #dê as suas águas. Assim lhes tirarás água da rocha, e darás a beber à congregação e aos seus animais."
 "Moisés, pois, tomou a vara de diante do senhor, como este lhe ordenou."
 "Moisés e Arão reuniram a assembleia diante da rocha, e Moisés disse-lhes
 "Então Moisés levantou a mão, e feriu a rocha duas vezes com a sua vara, e saiu água copiosamente, e a congregação bebeu, e os seus animais."
@@ -14,7 +14,7 @@
 "De Cades, Moisés enviou mensageiros ao rei de Edom, dizendo
 "como nossos pais desceram ao Egipto, e nós no Egipto habitamos muito tempo; e como os egípcios nos maltrataram, a nós e a nossos pais;"
 "e quando clamamos ao Senhor, ele ouviu a nossa voz, e mandou um anjo, e nos tirou do Egipto; e eis que estamos em Cades, cidade na extremidade dos teus termos."
-"Deixa-nos, pois, passar pela tua terra; não passaremos pelos campos, nem pelas vinhas, nem beberemos a água dos poços; iremos pela estrada real, não nos desviando para a direita nem para a esquerda, até que tenhamos passado os teus termos."
+"Deixa-nos, pois, passar pela tua terra; não passaremos pelos campos, nem pelas vinhas, nem beberemos a água dos poços; iremos pela #estrada real, não nos desviando para a direita nem para a esquerda, até que tenhamos passado os teus termos."
 "Respondeu-lhe Edom
 "Os filhos de Israel lhe replicaram
 "Edom, porém, respondeu

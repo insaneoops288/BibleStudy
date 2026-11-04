@@ -28,7 +28,7 @@
 "Por ai u tha
 "Duke qenë se turmat po i shtyheshin përreth, ai filloi të thotë
 "Sepse, ashtu si Jona qe një shenjë për Ninivasit, kështu edhe Biri i njeriut do të jetë një shenjë për këtë brez."
-"Mbretëresha e Mesditës do të ngrihet ditën e gjyqit me njerëzit e këtij brezi dhe do t'i dënojë, sepse ajo po vjen nga skaji i dheut për të dëgjuar urtësinë e Salomonit; dhe ja, këtu është dikush më i madh se Salomoni."
+"Mbretëresha e Mesditës do të ngrihet ditën e gjyqit me njerëzit e këtij brezi dhe do t'i dënojë, sepse ajo po vjen #nga skaji i dheut për të dëgjuar urtësinë e Salomonit; dhe ja, këtu është dikush më i madh se Salomoni."
 "Ninivasit, ditën e gjyqit, do të ringjallen me këtë brez dhe do ta dënojnë, sepse ata u penduan për predikimin e Jonas; dhe ja, këtu është dikush më i madh se Jona''."
 "Asnjëri, kur ndez një llambë, nuk e vë në një vend të fshehtë ose nën babunë, po përmbi dritëmbajtësen, që të shohin dritë ata që hyjnë."
 "Llamba e trupit është syri; në se syri yt është i shëndoshë, gjithë trupi yt do të jetë i ndriçuar; por në se syri yt është i sëmurë, edhe gjithë trupi yt do të jetë plot me errësirë."
@@ -39,7 +39,7 @@
 "Dhe Zoti i tha
 "Të pamend! Ai që bëri anën e jashtme, vallë nuk bëri edhe të brendshmen?"
 "Por jepni si lëmoshë atë që është përbrenda, dhe çdo gjë do të jetë e pastër për ju."
-"Por mjerë ju, o farisenj! Sepse ju paguani të dhjetën e ryzës, të mendrës dhe të çdo barishteje, dhe pastaj lini pas dore drejtësinë dhe dashurinë e Perëndisë. Këto gjëra duhet t'i bënit, pa i lënë pas dore të tjerat."
+"Por mjerë ju, o farisenj! Sepse ju paguani të dhjetën e ryzës, të mendrës dhe të çdo barishteje, dhe pastaj lini #pas dore drejtësinë dhe dashurinë e Perëndisë. Këto gjëra duhet t'i bënit, pa i lënë pas dore të tjerat."
 "Mjerë ju, o farisenj! Sepse ju e doni vendin e parë ndër sinagoga dhe përshëndetjet nëpër sheshe."
 "Mjerë ju, skribë dhe farisenj hipokritë! Sepse jeni si varret që nuk shihen dhe njërëzit ecin sipër tyre, pa e ditur''."
 "Atëherë, duke u përgjigjur, një nga mësuesit e ligjit, i tha

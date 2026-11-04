@@ -13,7 +13,7 @@
 "Též z synů Elizafanových
 "A z synů Hémanových
 "I shromáždili bratří své, kteříž posvětivše se, přišli podlé rozkázaní králova a slov Hospodinových, aby vyčistili dům Hospodinův."
-"A všedše kněží do domu Hospodinova, aby jej vyčistili, vynesli všelikou nečistotu, kterouž našli v chrámě Hospodinově, do síně domu Hospodinova. Levítové pak probravše to, vynesli ven ku potoku Cedron."
+"A všedše kněží do domu Hospodinova, aby jej vyčistili, vynesli všelikou nečistotu, kterouž našli v chrámě #Hospodinově, do síně domu Hospodinova. Levítové pak probravše to, vynesli ven ku potoku Cedron."
 "Začali pak prvního dne měsíce prvního posvěcovati, a dne osmého téhož měsíce vešli do síně Hospodinovy, a posvěcovali domu Hospodinova za osm dní, a dne šestnáctého měsíce prvního dokonali."
 "Tedy vešli k Ezechiášovi králi, a řekli
 "Všecky také nádoby, kteréž byl zavrhl král Achas za kralování svého, když převráceně činil, připravili jsme a posvětili, a aj, jsou před oltářem Hospodinovým."
@@ -22,7 +22,7 @@
 "Takž zbili voly ty, a kněží berouce krev jejich, kropili na oltář. Zbili též i skopce a pokropovali krví jejich oltáře; zbili také i beránky, a krví jejich kropili na oltář."
 "Přivedli i kozly k oběti za hřích před krále i shromáždění, kteřížto vložili ruce své na ně."
 "I zbili je kněží a vyčistili krví jejich oltář k očištění všeho Izraele; nebo za všecken lid Izraelský rozkázal král obětovati zápal a oběti za hřích."
-"Postavil zase i Levíty v domě Hospodinově s cymbály, loutnami a harfami podlé rozkázaní Davidova, a Gáda proroka královského, a Nátana proroka; nebo od Hospodina bylo to přikázáno skrze proroky jeho."
+"Postavil zase i Levíty v domě Hospodinově s cymbály, loutnami a harfami podlé rozkázaní Davidova, a #Gáda proroka královského, a Nátana proroka; nebo od Hospodina bylo to přikázáno skrze proroky jeho."
 "A tak stáli Levítové s nástroji Davidovými a kněží s trubami."
 "I rozkázal Ezechiáš, aby obětovali zápal na oltáři. A když se začala obět zápalná, začal se zpěv Hospodinův a troubení i zpěvové na nástroje Davida, krále Izraelského."
 "Všecko pak shromáždění klanělo se, když zpěváci zpívali, a trubači troubili, a to vše, až se dokonal zápal."
@@ -31,6 +31,6 @@
 "Potom mluvil Ezechiáš, řka
 "Tak že počet obětí zápalných, kteréž přivedlo shromáždění to, byl volů sedmdesáte, skopců sto, beránků dvě stě, všecko to na obět zápalnou Hospodinu."
 "Jiných pak věcí posvěcených bylo volů šest set, a ovec tři tisíce."
-"Kněží však bylo málo, tak že nemohli postačiti vytahovati z koží všech obětí zápalných. Pročež pomáhali jim bratří jejich Levítové, až i dokonali dílo to, a dokudž se neposvětili jiní kněží; nebo Levítové byli hotovější ku posvěcení se, nežli kněží."
+"Kněží však bylo málo, tak že nemohli postačiti vytahovati z koží všech obětí zápalných. Pročež pomáhali jim bratří jejich Levítové, až #i dokonali dílo to, a dokudž se neposvětili jiní kněží; nebo Levítové byli hotovější ku posvěcení se, nežli kněží."
 "K tomu k zápalům bylo množství veliké tuků z obětí pokojných a obětí mokrých, kromě jiných zápalů. A tak vykonána byla služba domu Hospodinova."
 "A veselil se Ezechiáš i všecken lid, že Bůh byl nastrojil lid, tak aby se ta věc rychle spravila."

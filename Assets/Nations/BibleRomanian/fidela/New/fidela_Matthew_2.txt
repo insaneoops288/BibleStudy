@@ -13,7 +13,7 @@
 "Și după ce au plecat, iată, îngerul Domnului se arată lui Iosif în vis, spunând
 "După ce s-a ridicat, a luat copilul și [pe] mama lui în noapte și a plecat în Egipt."
 "Și a fost acolo până la moartea lui Irod; ca să se împlinească ce fusese spus de Domnul prin profetul, care a spus
-"Atunci Irod, văzând că fusese batjocorit de magi, s-a înfuriat foarte tare și a trimis și a ucis pe toți copiii de la doi ani în jos, care erau în Betleem și în toate împrejurimile lui, conform timpului pe care îl aflase în amănunțime de la magi."
+"Atunci Irod, văzând că fusese batjocorit de magi, s-a înfuriat foarte tare și a trimis și a ucis pe toți copiii de la doi #ani în jos, care erau în Betleem și în toate împrejurimile lui, conform timpului pe care îl aflase în amănunțime de la magi."
 "Atunci s-a împlinit ce fusese spus de către Ieremia, profetul, zicând
 "O voce s-a auzit în Rama, tânguire și plângere și jale mare
 "Dar după ce Irod a murit, iată, un înger al Domnului se arată în vis lui Iosif în Egipt,"

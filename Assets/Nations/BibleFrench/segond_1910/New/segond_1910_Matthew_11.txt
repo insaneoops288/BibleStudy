@@ -18,9 +18,9 @@
 "Car Jean est venu, ne mangeant ni ne buvant, et ils disent
 "Le Fils de l'homme est venu, mangeant et buvant, et ils disent
 "Alors il se mit à faire des reproches aux villes dans lesquelles avaient eu lieu la plupart de ses miracles, parce qu'elles ne s'étaient pas repenties."
-"Malheur à toi, Chorazin! malheur à toi, Bethsaïda! car, si les miracles qui ont été faits au milieu de vous avaient été faits dans Tyr et dans Sidon, il y a longtemps qu'elles se seraient repenties, en prenant le sac et la cendre."
+"Malheur à toi, Chorazin! malheur à toi, Bethsaïda! car, si les miracles qui ont été faits au milieu de vous avaient été #faits dans Tyr et dans Sidon, il y a longtemps qu'elles se seraient repenties, en prenant le sac et la cendre."
 "C'est pourquoi je vous le dis
-"Et toi, Capernaüm, seras-tu élevée jusqu'au ciel? Non. Tu seras abaissée jusqu'au séjour des morts; car, si les miracles qui ont été faits au milieu de toi avaient été faits dans Sodome, elle subsisterait encore aujourd'hui."
+"Et toi, Capernaüm, seras-tu élevée jusqu'au ciel? Non. Tu seras abaissée jusqu'au séjour des morts; car, si les miracles #qui ont été faits au milieu de toi avaient été faits dans Sodome, elle subsisterait encore aujourd'hui."
 "C'est pourquoi je vous le dis
 "En ce temps-là, Jésus prit la parole, et dit
 "Oui, Père, je te loue de ce que tu l'as voulu ainsi."

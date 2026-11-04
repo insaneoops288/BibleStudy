@@ -6,7 +6,7 @@
 "Ja hänen isänsä ei tahtonut tehdä häntä surulliseksi eläissänsä, että hän olis sanonut
 "Ja hän puhui Joabin ZeruJan pojan kanssa ja papin Abjatarin kanssa; ja he auttivat Adoniaa."
 "Mutta Zadok pappi, ja BenaJa Jojadan poika, ja Natan propheta, ja Simei, ja Rei, ja Davidin sankarit ei olleet Adonian kanssa."
-"Ja kuin Adonia uhrasi lampaita ja härkiä ja myös syötettyä karjaa Soheletin kiven tykönä, joka on läsnä Rogelin kaivoa, kutsui hän kaikki veljensä, kuninkaan pojat, ja kaikki Juudan miehet kuninkaan palveliat."
+"Ja kuin Adonia uhrasi lampaita ja härkiä ja myös syötettyä karjaa Soheletin kiven tykönä, joka on #läsnä Rogelin kaivoa, kutsui hän kaikki veljensä, kuninkaan pojat, ja kaikki Juudan miehet kuninkaan palveliat."
 "Mutta Natan prophetaa, ja Benajaa ja sankareita, ja veljeänsä Salomoa hän ei kutsunut."
 "Niin puhui Natan BatSeballe Salomon äidille, sanoen
 "Niin tule nyt, minä annan sinulle neuvoa, ettäs vapahtaisit sielus ja poikas Salomon sielun."
@@ -22,7 +22,7 @@
 "Ja katso, vielä hänen puhuissansa kuninkaan kanssa, tuli Natan propheta."
 "Ja he ilmoittivat kuninkaalle sanoen
 "Ja Natan sanoi
-"Sillä hän on tänäpänä mennyt ja uhrannut härkiä, ja syötettyjä karjaa, ja monta lammasta, ja on kutsunut kaikki kuninkaan pojat ja sodanpäämiehet, niin myös papin AbJatarin, ja katso, he syövät ja juovat hänen edessänsä, ja sanovat
+"Sillä hän on tänäpänä mennyt ja uhrannut härkiä, ja syötettyjä karjaa, ja monta lammasta, ja on kutsunut kaikki kuninkaan #pojat ja sodanpäämiehet, niin myös papin AbJatarin, ja katso, he syövät ja juovat hänen edessänsä, ja sanovat
 "Mutta minua sinun palveliaas, ja pappia Zadokia, ja BenaJaa Jojadan poikaa, ja palveliaas Salomoa ei ole hän kutsunut."
 "Onko se niin herraltani kuninkaalta käsketty, ja et sinä ole sitä asiata antanut tietää palvelialles, kuka herrani kuninkaan istuimella hänen jälkeensä on istuva?"
 "Kuningas David vastasi ja sanoi

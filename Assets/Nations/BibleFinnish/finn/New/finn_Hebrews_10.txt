@@ -31,7 +31,7 @@
 "Hirmuinen on langeta elävän Jumalan käsiin."
 "Muistakaa siis entisiä päiviä, joina te valistetut olitte ja kärsitte monen vaivan kilvoituksen
 "Puolittain silloin, kuin te sekä pilkkain että tuskain kautta kaikille ihmeeksi olitte
-"Sillä te olette myös niistä vaivoista, jotka minun siteistäni tapahtuivat, osalliset olleet, ja teidän hyvyytenne raatelemisen olette te ilolla kärsineet, tietäen, että teillä on parempi ja pysyväisempi tavara taivaissa."
+"Sillä te olette myös niistä vaivoista, jotka minun siteistäni tapahtuivat, osalliset olleet, ja teidän hyvyytenne #raatelemisen olette te ilolla kärsineet, tietäen, että teillä on parempi ja pysyväisempi tavara taivaissa."
 "Älkäät siis heittäkö pois teidän uskallustanne, jolla suuri palkan makso on."
 "Sillä kärsivällisyys on teille tarpeellinen, tehdäksenne Jumalan tahtoa, että te lupauksen saisitte."
 "Sillä vähän hetken perästä tulee se, joka tuleva on, ja ei viivyttele."

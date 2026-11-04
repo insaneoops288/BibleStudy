@@ -5,7 +5,7 @@
 "E chamaram Lot e disseram-lhe
 "Então, saiu Lot a eles à porta, e fechou a porta atrás de si,"
 "e disse
-"Eis aqui, duas filhas tenho, que ainda não conheceram varão; fora vo-las trarei, e fareis delas como bom for nos vossos olhos; somente nada façais a estes varões, porque por isso vieram à sombra do meu telhado."
+"Eis aqui, duas filhas tenho, que ainda não conheceram varão; fora vo-las trarei, e fareis delas como bom for #nos vossos olhos; somente nada façais a estes varões, porque por isso vieram à sombra do meu telhado."
 "Eles, porém, disseram
 "Aqueles varões, porém, estenderam a sua mão, e fizeram entrar a Lot consigo na casa, e fecharam a porta;"
 "e feriram de cegueira os varões que estavam à porta da casa, desde o menor até ao maior, de maneira que se cansaram para achar a porta."
@@ -13,10 +13,10 @@
 "pois nós vamos destruir este lugar, porque o seu clamor tem engrossado diante da face do SENHOR, e o SENHOR nos enviou a destruí-lo."
 "Então, saiu Lot, e falou a seus genros, aos que haviam de tomar as suas filhas, e disse
 "E, ao amanhecer, os anjos apertaram com Lot, dizendo
-"Ele, porém, demorava-se, e aqueles varões lhe pegaram pela mão, e pela mão de sua mulher, e pela mão de suas duas filhas, sendo-lhe o Senhor misericordioso, e tiraram-no, e puseram-no fora da cidade."
+"Ele, porém, demorava-se, e aqueles varões lhe pegaram pela mão, e pela mão de sua mulher, e pela #mão de suas duas filhas, sendo-lhe o Senhor misericordioso, e tiraram-no, e puseram-no fora da cidade."
 "E aconteceu que, tirando-os fora, disse
 "E Lot disse-lhe
-"Eis que, agora, o teu servo tem achado graça aos teus olhos, e engrandeceste a tua misericórdia que a mim me fizeste, para guardar a minha alma em vida; mas não posso escapar no monte, pois que tenho medo que me apanhe este mal, e eu morra."
+"Eis que, agora, o teu servo tem achado graça aos teus olhos, e engrandeceste a tua misericórdia que a mim me fizeste, para guardar #a minha alma em vida; mas não posso escapar no monte, pois que tenho medo que me apanhe este mal, e eu morra."
 "Eis, agora, aquela cidade está perto, para fugir para lá, e é pequena; ora, para ali me escaparei (não é pequena?), para que minha alma viva."
 "E disse-lhe
 "Apressa-te, escapa-te para ali; porque nada poderei fazer, enquanto não tiveres ali chegado. Por isso, se chamou o nome da cidade Zoar. {que significa pequena}"

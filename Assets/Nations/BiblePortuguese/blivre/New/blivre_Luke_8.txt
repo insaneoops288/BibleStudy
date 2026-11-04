@@ -26,7 +26,7 @@
 "E navegaram para a terra dos gadarenos, que é vizinha à Galileia."
 "E saindo ele à terra, veio da cidade ao seu encontro um homem, que já de muito tempo atrás tinha demônios, e não andava vestido, e não parava em casa nenhuma, mas [ficava entre] as sepulturas."
 "E vendo a Jesus, e exclamando, prostrou-se diante dele, e disse com grande voz
-"Porque mandava ao espírito imundo que saísse daquele homem; porque muitas vezes ele o tomava. E o mantinham preso com cadeias e prendedores de pés; mas ele, quebrando o que lhe prendia, era levado pelo demônio aos desertos."
+"Porque mandava ao espírito imundo que saísse daquele homem; porque muitas vezes ele o tomava. E o mantinham preso com #cadeias e prendedores de pés; mas ele, quebrando o que lhe prendia, era levado pelo demônio aos desertos."
 "E perguntou-lhe Jesus, dizendo
 "E rogavam-lhe que não os mandasse ir para o abismo."
 "E havia ali uma manada de muitos porcos, que comiam no monte; e rogaram-lhe que lhes concedesse entrar neles; e ele lhes concedeu."

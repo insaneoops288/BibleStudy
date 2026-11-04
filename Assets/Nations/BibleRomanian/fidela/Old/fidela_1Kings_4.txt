@@ -10,7 +10,7 @@
 "Fiul lui Hesed, în Arubot; lui [îi aparţinea] Soco şi toată ţara Hefer;"
 "Fiul lui Abinadab, în toată regiunea Dorului; care avea pe Tafat, fiica lui Solomon, de soţie;"
 "Baana, fiul lui Ahilud, [lui îi aparţinea] Taanac şi Meghido şi tot Bet-Şeanul, care [este] lângă Ţartan sub Izreel, de la Bet-Şean până la Abel-Mehola, până dincolo de Iocmeam;"
-"Fiul lui Gheber, în Ramot-Galaad; lui îi [aparţineau] oraşele lui Iair, fiul lui Manase, care [sunt] în Galaad; lui [de asemenea ]îi [aparţinea ]regiunea Argob, care [este] în Basan, şaizeci de cetăţi mari cu ziduri şi zăvoare de aramă;"
+"Fiul lui Gheber, în Ramot-Galaad; lui îi [aparţineau] oraşele lui Iair, fiul lui Manase, care [sunt] în Galaad; lui [de #asemenea ]îi [aparţinea ]regiunea Argob, care [este] în Basan, şaizeci de cetăţi mari cu ziduri şi zăvoare de aramă;"
 "Ahinadab, fiul lui Ido, [avea] Mahanaim;"
 "Ahimaaţ [era ]în Neftali; el de asemenea a luat pe Basmat, fiica lui Solomon, de soţie;"
 "Baana, fiul lui Huşai, [era ]în Aşer şi în Bealot;"

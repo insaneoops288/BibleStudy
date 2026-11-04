@@ -6,7 +6,7 @@
 "Lud wyruszył więc w pole przeciw Izraelowi i doszło do bitwy w lesie Efraima."
 "Lud Izraela został tam pobity przez sługi Dawida i stała się wielka klęska tego dnia
 "Bitwa bowiem rozproszyła się na całą okolicę, a las pochłonął tego dnia więcej ludzi, niż pożarł miecz."
-"I Absalom natknął się na sługi Dawida. Absalom jechał na mule, a muł wbiegł pod gęste gałęzie wielkiego dębu. Wtedy jego głowa zaczepiła się o dąb i zawisł między niebem a ziemią. Lecz muł, który był pod nim, poszedł dalej."
+"I Absalom natknął się na sługi Dawida. Absalom jechał na mule, a muł wbiegł pod gęste gałęzie wielkiego dębu. Wtedy jego #głowa zaczepiła się o dąb i zawisł między niebem a ziemią. Lecz muł, który był pod nim, poszedł dalej."
 "Zobaczył to pewien człowiek i powiadomił Joaba
 "Wtedy Joab powiedział do człowieka, który go o tym powiadomił
 "Człowiek ten odpowiedział Joabowi

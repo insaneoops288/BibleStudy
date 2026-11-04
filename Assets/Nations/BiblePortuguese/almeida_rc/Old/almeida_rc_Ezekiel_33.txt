@@ -3,7 +3,7 @@
 "e, vendo ele que a espada vem sobre a terra, tocar a trombeta e avisar o povo;"
 "se aquele que ouvir o som da trombeta não se der por avisado, e vier a espada e o tomar, o seu sangue será sobre a sua cabeça."
 "Ele ouviu o som da trombeta e não se deu por avisado; o seu sangue será sobre ele; mas o que se dá por avisado salvará a sua vida."
-"Mas, se, quando o atalaia vir que vem a espada, não tocar a trombeta, e não for avisado o povo; se a espada vier e levar uma vida dentre eles, este tal foi levado na sua iniquidade, mas o seu sangue demandarei da mão do atalaia."
+"Mas, se, quando o atalaia vir que vem a espada, não tocar a trombeta, e não for avisado o povo; se a espada vier #e levar uma vida dentre eles, este tal foi levado na sua iniquidade, mas o seu sangue demandarei da mão do atalaia."
 "A ti, pois, ó filho do homem, te constituí por atalaia sobre a casa de Israel; tu, pois, ouvirás a palavra da minha boca e lha anunciarás da minha parte."
 "Se eu disser ao ímpio
 "Mas, quando tu tiveres falado para desviar o ímpio do seu caminho, para que se converta dele, e ele se não converter do seu caminho, ele morrerá na sua iniquidade, mas tu livraste a tua alma."
@@ -19,7 +19,7 @@
 "E, convertendo-se o ímpio da sua impiedade e fazendo juízo e justiça, ele viverá por isto mesmo."
 "Todavia, vós dizeis
 "E sucedeu que, no ano duodécimo, no décimo mês, aos cinco do mês do nosso cativeiro, veio a mim um que tinha escapado de Jerusalém, dizendo
-"Ora, a mão do SENHOR estivera sobre mim pela tarde, antes que viesse o que tinha escapado; abriu a minha boca, até que veio a mim pela manhã; e abriu-se a minha boca, e não fiquei mais em silêncio."
+"Ora, a mão do SENHOR estivera sobre mim pela tarde, antes que viesse o que tinha escapado; abriu a minha #boca, até que veio a mim pela manhã; e abriu-se a minha boca, e não fiquei mais em silêncio."
 "Então, veio a mim a palavra do SENHOR, dizendo
 "Filho do homem, os moradores destes lugares desertos da terra de Israel falam, dizendo
 "Diz-lhes, portanto
@@ -28,6 +28,6 @@
 "E tornarei a terra em assolação e espanto, e cessará a soberba da sua força; e os montes de Israel ficarão tão assolados, que ninguém passará por eles."
 "Então, saberão que eu sou o SENHOR, quando eu tornar a terra em assolação e espanto, por todas as abominações que cometeram."
 "Quanto a ti, ó filho do homem, os filhos do teu povo falam de ti junto às paredes e nas portas das casas; e fala um com o outro, cada um a seu irmão, dizendo
-"E eles vêm a ti, como o povo costuma vir, e se assentam diante de ti como meu povo, e ouvem as tuas palavras, mas não as põem por obra; pois lisonjeiam com a sua boca, mas o seu coração segue a sua avareza."
+"E eles vêm a ti, como o povo costuma vir, e se assentam diante de ti como meu povo, e ouvem as tuas #palavras, mas não as põem por obra; pois lisonjeiam com a sua boca, mas o seu coração segue a sua avareza."
 "E eis que tu és para eles como uma canção de amores, canção de quem tem voz suave e que bem tange; porque ouvem as tuas palavras, mas não as põem por obra."
 "Mas, quando vier isto (eis que está para vir), então, saberão que houve no meio deles um profeta."

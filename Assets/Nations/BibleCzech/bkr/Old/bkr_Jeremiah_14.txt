@@ -1,6 +1,6 @@
 "Slovo, kteréž se stalo k Jeremiášovi o suchu."
 "Kvíliti bude země Judská, a brány její zemdlejí, smutek ponesou na zemi, a naříkání Jeruzaléma vzejde."
-"Také nejznamenitější z nich rozsílati budou i nejšpatnější své pro vodu. Přijdouce k čisternám, a nenaleznouce vody, navrátí se s nádobami svými prázdnými, hanbíce a stydíce se; protož přikryjí hlavu svou."
+"Také nejznamenitější z nich rozsílati budou i nejšpatnější své pro vodu. Přijdouce k čisternám, a nenaleznouce #vody, navrátí se s nádobami svými prázdnými, hanbíce a stydíce se; protož přikryjí hlavu svou."
 "I oráči stydíce se, přikryjí hlavu svou příčinou země vyprahlé, proto že deště nebude na zemi."
 "Anobrž i laň na poli, což porodí, opustí; nebo mladistvé trávy nebude."
 "A divocí oslové stojíce na vysokých místech, hltati budou vítr jako draci; přehledí se oči jejich, nebo nebude žádné trávy."
@@ -13,7 +13,7 @@
 "Tedy řekl jsem
 "I řekl Hospodin ke mně
 "Protož takto praví Hospodin o prorocích, kteříž prorokují ve jménu mém, ješto jsem já jich neposlal, a kteříž říkají
-"Lid pak ten, jemuž oni prorokují, rozmetán bude po ulicích Jeruzalémských hladem a mečem, aniž bude, kdo by je pochovával, je, manželky jejich, a syny jejich, a dcery jejich. Tak vyleji na ně nešlechetnost jejich."
+"Lid pak ten, jemuž oni prorokují, rozmetán bude po ulicích Jeruzalémských hladem a mečem, aniž bude, kdo by #je pochovával, je, manželky jejich, a syny jejich, a dcery jejich. Tak vyleji na ně nešlechetnost jejich."
 "Protož rciž jim slovo toto
 "Vyjdu-li na pole, aj, tam zbití mečem; pakli vejdu do města, aj, tam nemocní hladem. Nebo jakož prorok tak kněz obcházejíce, kupčí zemí, a lidé toho neznají."
 "Zdaliž do konce zamítáš Judu? Zdali Sion oškliví sobě duše tvá? Proč nás biješ, tak abychom již nebyli uzdraveni? Čekáme-li pokoje, a aj, nic dobrého pakli času uzdravení, a aj, hrůza."

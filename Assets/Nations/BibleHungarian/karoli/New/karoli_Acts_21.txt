@@ -18,11 +18,11 @@
 "Másnap pedig beméne Pál velünk együtt Jakabhoz; és a vének mindnyájan ott valának."
 "És köszöntvén õket, elbeszélé egyenként, a miket az Isten a pogányok között az õ szolgálata által cselekedett."
 "Azok pedig [ezt] hallván, dicsõíték az Urat; és mondának néki
-"Felõled pedig azt hallották, hogy te mindazokat a zsidókat, kik a pogányok között vannak, Mózestõl való elszakadásra tanítod, azt mondván, hogy ne metéljék körül fiaikat, se a [zsidó] szokások szerint ne járjanak."
+"Felõled pedig azt hallották, hogy te mindazokat a zsidókat, kik a pogányok között vannak, Mózestõl való elszakadásra #tanítod, azt mondván, hogy ne metéljék körül fiaikat, se a [zsidó] szokások szerint ne járjanak."
 "Micsoda annakokáért? Mindenesetre össze kell gyülekezni a sokaságnak; mert meghallják, hogy ide jöttél."
 "Ezt míveld azért, a mit néked mondunk
 "Ezeket magad mellé vévén, tisztulj meg velök, és költs rájok, hogy megnyíressék fejöket
-"A pogányokból lett hívõk felõl pedig mi írtunk, azt végezvén, hogy õk semmi ilyenfélét ne tartsanak meg, hanem csak oltalmazzák meg magokat mind a bálványoknak áldozott hústól, mind a vértõl, mind a fúlvaholt állattól, mind a paráznaságtól."
+"A pogányokból lett hívõk felõl pedig mi írtunk, azt végezvén, hogy õk semmi ilyenfélét ne tartsanak meg, hanem csak #oltalmazzák meg magokat mind a bálványoknak áldozott hústól, mind a vértõl, mind a fúlvaholt állattól, mind a paráznaságtól."
 "Akkor Pál maga mellé véve azokat a férfiakat, másnap õ velök megtisztulván, beméne a templomba, bejelentvén a tisztulás napjainak eltelését, a míg mindegyikökért elvégeztetik az áldozat."
 "Mikor pedig a hét nap immár eltelõben volt, az Ázsiából való zsidók, meglátván õt a templomban, felindíták az egész sokaságot, és reá veték kezöket,"
 "Kiáltván

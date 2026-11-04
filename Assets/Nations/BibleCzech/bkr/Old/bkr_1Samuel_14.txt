@@ -1,7 +1,7 @@
 "Stalo se pak jednoho dne, že řekl Jonata syn Saulův služebníku, kterýž nosil zbroj jeho
 "Saul však zůstával na kraji pahrbku pod jabloní zrnatou, kteráž byla v Migron; a lidu, kterýž byl s ním, bylo okolo šesti set mužů,"
 "Tolikéž Achiáš syn Achitobův, bratra Ichabodova, syna Fínesova, syna Elí, kněze Hospodinova v Sílo, kterýž nosil efod. Ale lid nevěděl, že by odšel Jonata."
-"Mezi těmi pak průchody, jimiž pokoušel se Jonata přejíti k stráži Filistinských, byla skála příkrá k přecházení s této strany, též skála příkrá k přecházení s oné strany; jméno jedné Bóses, a jméno druhé Seneh."
+"Mezi těmi pak průchody, jimiž pokoušel se Jonata přejíti k stráži Filistinských, byla skála příkrá k přecházení s #této strany, též skála příkrá k přecházení s oné strany; jméno jedné Bóses, a jméno druhé Seneh."
 "Jedna skála byla na půlnoci proti Michmas, a druhá na poledne proti Gabaa."
 "I řekl Jonata služebníku, kterýž nosil zbroj jeho
 "Odpověděl oděnec jeho
@@ -44,7 +44,7 @@
 "Odpověděl Saul
 "I řekl lid Saulovi
 "Tedy odtáhl Saul od Filistinských; Filistinští také navrátili se k místu svému."
-"Saul pak uvázav se v království nad Izraelem, bojoval vůkol se všemi nepřátely svými, s Moábskými a s syny Ammon, a s Edomem, i s králi Soba, a s Filistinskými; a kamž se koli obracel, ukrutnost provodil."
+"Saul pak uvázav se v království nad Izraelem, bojoval vůkol se všemi nepřátely svými, s Moábskými a s syny #Ammon, a s Edomem, i s králi Soba, a s Filistinskými; a kamž se koli obracel, ukrutnost provodil."
 "Sebrav také vojska, porazil Amalecha, a vysvobodil Izraele z ruky zhoubců jeho."
 "Byli pak synové Saulovi
 "A jméno manželky Saulovy Achinoam, dcera Achimaasova; jméno pak hejtmana vojska jeho Abner, syn Ner, strýce Saulova."

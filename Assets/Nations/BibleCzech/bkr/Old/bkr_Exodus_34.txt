@@ -4,7 +4,7 @@
 "Tedy Mojžíš vytesal dvě dsky kamenné podobné prvním, a vstav ráno, vstoupil na horu Sinai, jakž mu přikázal Hospodin, a vzal v ruku svou dvě dsky kamenné."
 "I sstoupil Hospodin v oblaku, a stál s ním tam, a zavolal ze jména
 "Nebo pomíjeje Hospodin tvář jeho, volal
-"Milosrdenství čině tisícům, odpouštěje nepravost a přestoupení i hřích, a kterýž nikoli neospravedlňuje vinného, navštěvuje nepravost otců na synech, a na synech synů do třetího i čtvrtého pokolení."
+"Milosrdenství čině tisícům, odpouštěje nepravost a přestoupení i hřích, a kterýž nikoli neospravedlňuje vinného, navštěvuje #nepravost otců na synech, a na synech synů do třetího i čtvrtého pokolení."
 "Mojžíš pak rychle sklonil hlavu k zemi, a poklonu učinil."
 "A řekl
 "Kterýžto řekl

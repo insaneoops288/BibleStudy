@@ -3,8 +3,8 @@
 "Darnach trat er ins Innere hinein und maß den Türpfeiler
 "Und er fand die Länge
 "Er maß die Wand des Haues
-"Der Seitengemächer aber waren je drei, einsüber dem andern, und zwar dreißigmal. Sie stützten sich auf die Mauer, die am Hause für die Seitengemächer ringsumher gemacht war, so daß sie sich festhielten; aber sie waren nicht in die Mauer des Hauses eingelassen."
-"Und[das Bauwerk] wurde breiter in dem Maße, als die Seitengemächer sich höher und höher um das Haus herumzogen, so daß der Umfang des Hauses nach oben zu rings um das Haus größer wurde. Also war es ein Breiterwerden des Hauses nach oben zu. Und man stieg vom untern zum obern[Stockwerk] durch das mittlere."
+"Der Seitengemächer aber waren je drei, einsüber dem andern, und zwar dreißigmal. Sie stützten sich auf die Mauer, die am Hause für #die Seitengemächer ringsumher gemacht war, so daß sie sich festhielten; aber sie waren nicht in die Mauer des Hauses eingelassen."
+"Und[das Bauwerk] wurde breiter in dem Maße, als die Seitengemächer sich höher und höher um das Haus herumzogen, so daß der Umfang des Hauses nach oben zu #rings um das Haus größer wurde. Also war es ein Breiterwerden des Hauses nach oben zu. Und man stieg vom untern zum obern[Stockwerk] durch das mittlere."
 "Ich sah auch eine Terrasse rings um das Haus herum. Die Fundamente der Seitengemächer waren eine volle Rute, das ist sechs Ellen, bis zur Achsel."
 "Die Dicke deräußern Mauer des Seitenbaues betrug fünf Ellen; und es war ein Raum freigelassen längs des Seitenbaues am Tempel."
 "Und zwischen den Kammern war[ein Hofraum von] zwanzig Ellen Breite rings um das Haus herum."
@@ -13,7 +13,7 @@
 "Er maß auch das Tempelhaus
 "Auch die Breite der Vorderseite des Hauses und des abgegrenzten Raumes nach Osten zu betrug hundert Ellen."
 "Und er maß die Länge des Gebäudes nach dem abgegrenzten Hofe zu, welcher hinter demselben liegt, samt seinen Galerien an beiden Seiten
-"die Schwellen und die vergitterten Fenster und die Galerien ringsumher auf seinen drei Seiten, der Schwelle gegenüber, waren durchwegs mit Holz getäfelt, vom Boden bis zu den Fenstern, und die Fenster waren verkleidet."
+"die Schwellen und die vergitterten Fenster und die Galerien ringsumher auf seinen drei Seiten, der Schwelle gegenüber, #waren durchwegs mit Holz getäfelt, vom Boden bis zu den Fenstern, und die Fenster waren verkleidet."
 "Obenüber der Tür und bis zum innern Hause, auch außerhalb und an allen Wänden um und um, in und außerhalb, waren Felder[im Getäfel],"
 "die waren besetzt mit Cherubim und Palmen, so daß stets ein Palmbaum zwischen zwei Cherubim war. Jeder Cherub hatte zwei Angesichter,"
 "und zwar war eines Menschen Angesicht gegen die eine Palme, und eines Löwen Angesicht gegen die andere Palme gerichtet. Also war es am ganzen Hause ringsum gemacht."

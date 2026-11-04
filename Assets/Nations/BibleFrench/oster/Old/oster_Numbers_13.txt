@@ -24,7 +24,7 @@
 "Et ils vinrent jusqu'au torrent d'Eshcol, et y coupèrent un sarment avec une grappe de raisins, et ils la portèrent à deux avec une perche, ainsi que des grenades et des figues."
 "On appela ce lieu Torrent d'Eshcol (Torrent de la grappe), à cause de la grappe que les enfants d'Israël y coupèrent."
 "Or ils revinrent d'explorer le pays au bout de quarante jours."
-"Et étant arrivés, ils vinrent vers Moïse et vers Aaron, et vers toute l'assemblée des enfants d'Israël, au désert de Paran, à Kadès, et ils leur rendirent compte, ainsi qu'à toute l'assemblée, et leur montrèrent du fruit du pays."
+"Et étant arrivés, ils vinrent vers Moïse et vers Aaron, et vers toute l'assemblée des enfants d'Israël, au désert de #Paran, à Kadès, et ils leur rendirent compte, ainsi qu'à toute l'assemblée, et leur montrèrent du fruit du pays."
 "Ils lui firent donc leur rapport, et dirent
 "Seulement le peuple qui habite dans ce pays est robuste, et les villes sont closes et très grandes; nous y avons vu aussi des enfants d'Anak."
 "Les Amalécites habitent la contrée du Midi; et les Héthiens, les Jébusiens et les Amoréens habitent dans la montagne; et les Cananéens habitent près de la mer et le long du Jourdain."

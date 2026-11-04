@@ -1,5 +1,5 @@
 "A Piotr i Jan społem wstępowali do kościoła w godzinę modlitwy, dziewiątą."
-"A mąż niektóry będąc chromy, zaraz z żywota matki swojej był noszony, którego na każdy dzień sadzano u drzwi kościelnych, które zwano piękne, aby prosił jałmużny od tych, którzy wchodzili do kościoła."
+"A mąż niektóry będąc chromy, zaraz z żywota matki swojej był noszony, którego na każdy dzień sadzano #u drzwi kościelnych, które zwano piękne, aby prosił jałmużny od tych, którzy wchodzili do kościoła."
 "Ten ujrzawszy Piotra i Jana, że mieli wnijść do kościoła, prosił ich o jałmużnę."
 "A Piotr z Janem pilnie na niego patrząc, rzekli
 "Tedy on z pilnością patrzał na nie, spodziewając się co wziąć od nich."

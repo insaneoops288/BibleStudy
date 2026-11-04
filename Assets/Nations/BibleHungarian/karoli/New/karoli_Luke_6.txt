@@ -14,7 +14,7 @@
 "Simont, a kit Péternek is neveze, és Andrást, annak testvérét, Jakabot és Jánost, Filepet és Bertalant,"
 "Mátét és Tamást, Jakabot, az Alfeus fiát, és Simont, a ki Zelotesnek nevezteték,"
 "Júdást, a Jakab [fiát] és Iskariotes Júdást, a ki árulóvá is lõn;"
-"És alámenvén õ velök, megálla a síkságon, és az õ tanítványainak serege és a népnek nagy sokasága egész Júdeából és Jeruzsálembõl és Tírusnak és Sídonnak tengermelléki határából, a kik jöttek, hogy hallgassák õt és meggyógyíttassanak betegségeikbõl."
+"És alámenvén õ velök, megálla a síkságon, és az õ tanítványainak serege és a népnek nagy sokasága egész Júdeából #és Jeruzsálembõl és Tírusnak és Sídonnak tengermelléki határából, a kik jöttek, hogy hallgassák õt és meggyógyíttassanak betegségeikbõl."
 "És a kik tisztátalan lelkektõl gyötrettek, meggyógyulának."
 "És az egész sokaság igyekezik vala õt illetni
 "Õ pedig felemelvén szemeit az õ tanítványaira, monda

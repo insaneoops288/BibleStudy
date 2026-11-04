@@ -8,7 +8,7 @@
 "Ja Jestem Alfa i Omega, początek i wypełnienie mówi Pan, Ten będący i który był, i przychodzący, Wszechmocny."
 "Ja, Jan, wasz brat, współuczestnik w udręce, królestwie i wytrwałości Jezusa Chrystusa, byłem dla Słowa Boga oraz świadectwa Jezusa Chrystusa na wyspie zwanej Patmos."
 "W dniu Pańskim pojawiłem się w Duchu i usłyszałem za mną potężny głos jakby trąby, który mówił
-"Ja Jestem Alfa i Omega, Pierwszy i Ostatni. A co widzisz zapisz na zwoju oraz poślij siedmiu zgromadzeniom wybranych, które są w Azji do Efezu, do Smyrny, do Pergamonu, do Tiatyry, do Sardes, do Filadelfii i do Laodycei."
+"Ja Jestem Alfa i Omega, Pierwszy i Ostatni. A co widzisz zapisz na zwoju oraz poślij siedmiu zgromadzeniom wybranych, które #są w Azji do Efezu, do Smyrny, do Pergamonu, do Tiatyry, do Sardes, do Filadelfii i do Laodycei."
 "Zatem się odwróciłem, aby uważać na ten głos, co ze mną mówił. A kiedy się obróciłem, ujrzałem siedem złotych podstawek do lamp."
 "Zaś w centrum tych podstawek, kogoś podobnego do Syna Człowieka, odzianego powłóczystą szatą i przed piersiami przepasanego złotym pasem."
 "A jego głowa i włosy były białe jak biała wełna, jak śnieg; a jego oczy jak płomień ognia."
@@ -17,4 +17,4 @@
 "Więc kiedy go ujrzałem, upadłem do jego nóg jak martwy. I nałożył na mnie swoją prawą rękę, mówiąc
 "i Żyjący. Stałem się martwy, a oto jestem zaprawdę żyjący na wieki wieków. Mam też klucze Krainy Umarłych i śmierci."
 "Zapisz to, co ujrzałeś i rzeczy które są, i które mają się po tych wydarzyć."
-"Tajemnicę siedmiu gwiazd, które ujrzałeś na mej prawicy oraz siedmiu złotych podstawek do lamp. Siedem gwiazd są aniołami siedmiu zborów, a siedem podstawek do lamp są siedmioma zgromadzeniami wybranych."
+"Tajemnicę siedmiu gwiazd, które ujrzałeś na mej prawicy oraz siedmiu złotych podstawek do lamp. Siedem #gwiazd są aniołami siedmiu zborów, a siedem podstawek do lamp są siedmioma zgromadzeniami wybranych."

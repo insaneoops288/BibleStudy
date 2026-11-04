@@ -1,6 +1,6 @@
 "L'Eternel dit à Moïse
 "Si tu refuses de le laisser aller, je vais frapper par des grenouilles toute l'étendue de ton pays."
-"Le fleuve fourmillera de grenouilles; elles monteront, et elles entreront dans ta maison, dans ta chambre à coucher et dans ton lit, dans la maison de tes serviteurs et dans celles de ton peuple, dans tes fours et dans tes pétrins."
+"Le fleuve fourmillera de grenouilles; elles monteront, et elles entreront dans ta maison, dans ta chambre à coucher et dans ton #lit, dans la maison de tes serviteurs et dans celles de ton peuple, dans tes fours et dans tes pétrins."
 "Les grenouilles monteront sur toi, sur ton peuple, et sur tous tes serviteurs."
 "L'Eternel dit à Moïse
 "Aaron étendit sa main sur les eaux de l'Egypte; et les grenouilles montèrent et couvrirent le pays d'Egypte."
@@ -14,11 +14,11 @@
 "On les entassa par monceaux, et le pays fut infecté."
 "Pharaon, voyant qu'il y avait du relâche, endurcit son coeur, et il n'écouta point Moïse et Aaron, selon ce que l'Eternel avait dit."
 "L'Eternel dit à Moïse
-"Ils firent ainsi. Aaron étendit sa main, avec sa verge, et il frappa la poussière de la terre; et elle fut changée en poux sur les hommes et sur les animaux. Toute la poussière de la terre fut changée en poux, dans tout le pays d'Egypte."
+"Ils firent ainsi. Aaron étendit sa main, avec sa verge, et il frappa la poussière de la terre; et elle fut changée en poux #sur les hommes et sur les animaux. Toute la poussière de la terre fut changée en poux, dans tout le pays d'Egypte."
 "Les magiciens employèrent leurs enchantements pour produire les poux; mais ils ne purent pas. Les poux étaient sur les hommes et sur les animaux."
 "Et les magiciens dirent à Pharaon
 "L'Eternel dit à Moïse
-"Si tu ne laisses pas aller mon peuple, je vais envoyer les mouches venimeuses contre toi, contre tes serviteurs, contre ton peuple et contre tes maisons; les maisons des Egyptiens seront remplies de mouches, et le sol en sera couvert."
+"Si tu ne laisses pas aller mon peuple, je vais envoyer les mouches venimeuses contre toi, contre tes serviteurs, contre ton #peuple et contre tes maisons; les maisons des Egyptiens seront remplies de mouches, et le sol en sera couvert."
 "Mais, en ce jour-là, je distinguerai le pays de Gosen où habite mon peuple, et là il n'y aura point de mouches, afin que tu saches que moi, l'Eternel, je suis au milieu de ce pays."
 "J'établirai une distinction entre mon peuple et ton peuple. Ce signe sera pour demain."
 "L'Eternel fit ainsi. Il vint une quantité de mouches venimeuses dans la maison de Pharaon et de ses serviteurs, et tout le pays d'Egypte fut dévasté par les mouches."

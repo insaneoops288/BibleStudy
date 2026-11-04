@@ -6,7 +6,7 @@
 "És felele a szolga, az aratók felügyelõje, és monda
 "A ki mondá
 "És mondá Boáz Ruthnak
-"Szemeid legyenek a mezõn, a melyet aratnak, és járj utánok. Ímé meghagytam a szolgáknak, hogy ne bántsanak téged, és ha megszomjúhozol, menj az edényekhez és igyál abból, a mit a szolgák merítenek."
+"Szemeid legyenek a mezõn, a melyet aratnak, és járj utánok. Ímé meghagytam a szolgáknak, hogy ne bántsanak #téged, és ha megszomjúhozol, menj az edényekhez és igyál abból, a mit a szolgák merítenek."
 "Akkor ez arczra borula és meghajtá magát a földig, és monda néki
 "Boáz pedig felele, és monda néki
 "Fizessen meg az Úr a te cselekedetedért, és legyen teljes a te jutalmad az Úrtól, Izráelnek Istenétõl, a kinek szárnyai alatt oltalmat keresni jöttél."

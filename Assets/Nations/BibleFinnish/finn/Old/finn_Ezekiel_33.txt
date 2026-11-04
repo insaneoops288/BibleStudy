@@ -19,7 +19,7 @@
 "Ja jos jumalatoin parantaa itsensä jumalattomasta menostansa, ja tekee oikein ja hyvin, niin hän saa sentähden kaiketi elää."
 "Kuitenkin te sanotte
 "Ja tapahtui toisena vuotena toistakymmentä meidän vankiudestamme, viidentenä päivänä kymmennessä kuukaudessa, että minun tyköni tuli yksi paennut Jerusalemista, ja sanoi
-"Ja Herran käsi oli minun päälläni ehtoona, ennenkuin se paennut tuli, ja avasi minun suuni, siksi kuin hän tuli huomeneltain minun tyköni; ja niin hän avasi minun suuni, etten minä taitanut enää vaiti olla."
+"Ja Herran käsi oli minun päälläni ehtoona, ennenkuin se paennut tuli, ja avasi minun suuni, siksi kuin hän #tuli huomeneltain minun tyköni; ja niin hän avasi minun suuni, etten minä taitanut enää vaiti olla."
 "Ja Herran sana tapahtui minulle ja sanoi
 "Sinä ihmisen poika, tämän korven asuvaiset Israelin maalla sanovat näin
 "Sano siis heille
@@ -28,6 +28,6 @@
 "Sillä minä tahdon maan peräti hävittää, ja sen ylpeydelle ja voimalle lopun tehdä, että Israelin vuoret pitää niin autioksi tuleman, ettei kenenkään pidä vaeltaman siitä ohitse."
 "Ja heidän pitää tietämän, että minä olen Herra, koska minä olen maan peräti hävittänyt kaikkein heidän kauhistustensa tähden, joita he tehneet ovat."
 "Ja sinä ihmisen poika, sinun kansas lapset puhuvat sinua vastaan siellä ja täällä, seinillä ja ovien edessä, ja toinen sanoo toisellensa, kukin veljellensä, sanoen
-"Ja he tulevat sinun tykös seurakuntaan, ja istuvat sinun edessäs niinkuin minun kansani, ja kuulevat sinun sanas, mutta ei he tee ensinkään sen jälkeen; he tekevät tosin ystävyyttä suullansa, mutta sydämellänsä he seuraavat ahneuttansa."
+"Ja he tulevat sinun tykös seurakuntaan, ja istuvat sinun edessäs niinkuin minun kansani, ja kuulevat sinun sanas, mutta #ei he tee ensinkään sen jälkeen; he tekevät tosin ystävyyttä suullansa, mutta sydämellänsä he seuraavat ahneuttansa."
 "Ja katso, sinun täytyy olla heidän ilovirtensä, jota he mielellänsä laulavat ja soittavat; niin he sinun sanas kyllä kuulevat, mutta ei he tee sen jälkeen."
 "Mutta kuin se tulee, joka tuleva on, katso, niin he saavat nähdä, että propheta on heidän seassansa ollut."

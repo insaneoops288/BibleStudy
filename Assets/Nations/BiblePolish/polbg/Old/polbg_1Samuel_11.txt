@@ -8,7 +8,7 @@
 "I obliczył je w Bezeku; a było synów Izraelskich trzy kroć sto tysięcy, a mężów Juda trzydzieści tysięcy."
 "I rzekli posłom, którzy byli przyszli
 "Tedy rzekli mężowie Jabese Ammonitom
-"Nazajutrz tedy rozszykował Saul lud na trzy hufy; i wtargnął w pośrodek obozu przed świtaniem; i bił Ammonity, aż się dzień ogrzał; a którzy pozostali, rozpierzchnęli się, tak, iż nie zostało z nich i dwóch pospołu."
+"Nazajutrz tedy rozszykował Saul lud na trzy hufy; i wtargnął w pośrodek obozu przed świtaniem; i bił Ammonity, aż #się dzień ogrzał; a którzy pozostali, rozpierzchnęli się, tak, iż nie zostało z nich i dwóch pospołu."
 "I rzekł lud do Samuela
 "I rzekł Saul
 "Zatem rzekł Samuel do ludu

@@ -1,4 +1,4 @@
-"És lõn a Júda királyának, Akháznak, az Uzziás fiának, Jóthám fiának napjaiban, eljöve Reczin, Sziriának királya, és Remaljának fia, Pékah, Izráelnek királya Jeruzsálem ellen, hogy azt megostromolja; de nem veheté meg azt."
+"És lõn a Júda királyának, Akháznak, az Uzziás fiának, Jóthám fiának napjaiban, eljöve Reczin, Sziriának királya, és #Remaljának fia, Pékah, Izráelnek királya Jeruzsálem ellen, hogy azt megostromolja; de nem veheté meg azt."
 "És hírül vivék a Dávid házának, mondván
 "És mondá az Úr Ésaiásnak
 "És mondd néki

@@ -1,7 +1,7 @@
 "Në krahinën malore të Efraimit ishte një njeri që quhej Mikah."
 "Ai i tha nënes së tij
 "Kështu ai ia ktheu nënes së tij të një mijë e njëqind siklat prej argjendi dhe e ëma tha
-"Pas kthimit të argjendit nënes së tij, e ëma mori dyqind sikla argjendi dhe ia dha shkrirësit, i cili bëri një shëmbëlltyrë të gdhendur dhe një figurë me derdhje metali; dhe këto u vendosën në shtëpinë e Mikahut."
+"Pas kthimit të argjendit nënes së tij, e ëma mori dyqind sikla argjendi dhe ia dha shkrirësit, i cili bëri #një shëmbëlltyrë të gdhendur dhe një figurë me derdhje metali; dhe këto u vendosën në shtëpinë e Mikahut."
 "Kështu ky njeri, Mikahu, pati një shtëpi perëndish; bëri një efod dhe një shtëpi idhujsh, dhe shenjtëroi një nga bijtë e tij që i shërbente ai prift."
 "Në atë kohë nuk kishte mbret në Izrael; secili bënte atë që i dukej e drejtë në sytë e tij."
 "Ishte një i ri nga Betlemi i Judës, nga familja e Judës, i cili ishte Levit dhe banonte në atë vend si i huaj."

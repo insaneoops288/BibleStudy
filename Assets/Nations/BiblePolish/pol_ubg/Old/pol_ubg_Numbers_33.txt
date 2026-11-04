@@ -51,6 +51,6 @@
 "Przemów do synów Izraela i powiedz im
 "Wtedy wypędzicie przed sobą wszystkich mieszkańców tej ziemi i zniszczycie wszystkie ich obrazy i wszystkie ich odlane posągi i spustoszycie wszystkie ich wyżyny."
 "A wypędziwszy mieszkańców ziemi, zamieszkacie w niej, gdyż dałem wam tę ziemię w posiadanie."
-"I rozdzielicie tę ziemię przez losowanie jako dziedzictwo, według waszych rodzin. Liczniejszemu dacie większe dziedzictwo, a mniej licznemu dacie mniejsze dziedzictwo. Gdzie komu los przypadnie, to będzie jego; otrzymacie dziedzictwo według pokolenia waszych ojców."
-"Jeśli jednak nie wypędzicie przed sobą mieszkańców tej ziemi, wtedy ci, których z nich pozostawicie, będą jak ciernie w waszych oczach i jak kolce dla waszych boków i będą was gnębić w tej ziemi, w której będziecie mieszkać."
+"I rozdzielicie tę ziemię przez losowanie jako dziedzictwo, według waszych rodzin. Liczniejszemu dacie większe dziedzictwo, a mniej licznemu #dacie mniejsze dziedzictwo. Gdzie komu los przypadnie, to będzie jego; otrzymacie dziedzictwo według pokolenia waszych ojców."
+"Jeśli jednak nie wypędzicie przed sobą mieszkańców tej ziemi, wtedy ci, których z nich pozostawicie, będą jak ciernie w waszych #oczach i jak kolce dla waszych boków i będą was gnębić w tej ziemi, w której będziecie mieszkać."
 "Wtedy uczynię wam to, co zamierzałem uczynić im."

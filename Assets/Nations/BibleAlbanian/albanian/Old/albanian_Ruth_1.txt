@@ -10,7 +10,7 @@
 "dhe i thanë
 "Por Naomi u përgjegj
 "Kthehuni mbrapa, bijat e mija, shkoni, sepse unë jam shumë e vjetër për t'u martuar prapë; edhe sikur të thoja
-"a do të prisnit ju sa të rriteshin? A do të hiqnit dorë nga martesa për këtë shkak? Jo, bijat e mija, sepse kushtet në të cilat ndodhem janë më të hidhura nga tuajat, sepse dora e Zotit është shtrirë kundër meje""."
+"a do të prisnit ju sa të rriteshin? A do të hiqnit dorë nga martesa për këtë shkak? Jo, bijat e mija, #sepse kushtet në të cilat ndodhem janë më të hidhura nga tuajat, sepse dora e Zotit është shtrirë kundër meje""."
 "Atëherë ato e ngritën zërin dhe qanë përsëri; pastaj Orpahu puthi vjehrrën, por Ruthi nuk i ndahej asaj."
 "Atëherë Naomi i tha Ruthit
 "Por Ruthi u përgjegj

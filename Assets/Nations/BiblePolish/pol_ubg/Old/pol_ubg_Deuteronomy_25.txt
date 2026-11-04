@@ -2,7 +2,7 @@
 "A jeśli niegodziwy zasłuży na karę chłosty, to sędzia każe go położyć i w jego obecności bić w liczbie odpowiadającej jego niegodziwości."
 "Może mu wymierzyć czterdzieści razów, ale nie więcej, gdyż przez większą liczbę razów twój brat zostałby wzgardzony w twoich oczach."
 "Nie zawiążesz pyska młócącemu wołowi."
-"Jeśli bracia mieszkają razem, a jeden z nich umrze, nie pozostawiając dziecka, żona zmarłego nie wyjdzie za mąż za obcego, lecz brat jej męża wejdzie do niej, pojmie ją sobie za żonę i wypełni wobec niej obowiązek powinowactwa."
+"Jeśli bracia mieszkają razem, a jeden z nich umrze, nie pozostawiając dziecka, żona zmarłego nie wyjdzie za mąż za obcego, #lecz brat jej męża wejdzie do niej, pojmie ją sobie za żonę i wypełni wobec niej obowiązek powinowactwa."
 "A pierworodny syn, którego ona urodzi, przejmie imię zmarłego brata, aby jego imię nie zginęło z Izraela."
 "A jeśli ten mężczyzna nie zechce pojąć swojej bratowej, to jego bratowa pójdzie do bramy, do starszych, i powie
 "Wtedy starsi miasta przywołają go i przemówią do niego. Jeśli będzie stał przy swoim i powie
@@ -16,4 +16,4 @@
 "Gdyż każdy, kto postępuje niesprawiedliwie, budzi odrazę u PANA, twego Boga."
 "Pamiętaj, co ci uczynił Amalek w drodze, kiedy wyszliście z Egiptu;"
 "Jak spotkał cię w drodze i napadł na twoje tyły, na wszystkich słabych idących za tobą, gdy byłeś zmęczony i znużony, i nie bał się Boga."
-"Gdy więc PAN, twój Bóg, da ci odpoczynek od wszystkich twych wrogów dokoła w ziemi, którą PAN, twój Bóg, daje ci w dziedziczne posiadanie, to wymażesz spod nieba pamięć o Amaleku. Nie zapominaj o tym."
+"Gdy więc PAN, twój Bóg, da ci odpoczynek od wszystkich twych wrogów dokoła w ziemi, którą PAN, twój #Bóg, daje ci w dziedziczne posiadanie, to wymażesz spod nieba pamięć o Amaleku. Nie zapominaj o tym."

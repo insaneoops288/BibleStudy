@@ -4,7 +4,7 @@
 "Díl ten země svatý jest. Kněží služebníků při svatyni býti má, těch, kteříž přistupují, aby přisluhovali Hospodinu, aby měli místo pro domy i místo svaté pro svatyni."
 "Těch pak pětmecítma tisíc loket dýlka a deset tisíc šířka ať jest také Levítům, služebníkům domu, jim k držení dvadceti komůrek."
 "Místo pak k vystavení na něm města oddělíte pět tisíc loket na šíř, a na dýl pětmecítma tisíc, naproti oběti místa svatého; bude pro všecken dům Izraelský."
-"Knížeti pak s obou stran té oběti místa svatého, i položení města před oběti místa svatého, a před položením města od strany západní díl k západu, a po straně východní díl k východu, dlouhost pak naproti každému z těch dílů od pomezí západního ku pomezí východnímu."
+"Knížeti pak s obou stran té oběti místa svatého, i položení města před oběti místa svatého, a před položením města od strany západní díl #k západu, a po straně východní díl k východu, dlouhost pak naproti každému z těch dílů od pomezí západního ku pomezí východnímu."
 "To bude míti za vládařství v Izraeli, a nebudou více utiskati knížata má lidu mého, ale rozdadí zemi domu Izraelskému po pokoleních jejich."
 "Takto praví Panovník Hospodin
 "Váhu spravedlivou a efi spravedlivou i bát spravedlivý míti budete."
@@ -14,7 +14,7 @@
 "Nařízení pak o oleji (bát jest míra oleje)
 "A dobytče jedno ze dvou set bravů z dobrých pastvišť Izraelských, k oběti suché a zápalné a k obětem pokojným, k očištění vás, praví Panovník Hospodin."
 "Všecken lid té země, i s knížetem Izraelským zavázán bude k té oběti zhůru pozdvižení."
-"Nebo kníže povinen bude zápaly, a suché i mokré oběti, v svátky a na novměsíce, i v soboty, na všecky slavnosti domu Izraelského; on obětovati bude za hřích, i obět suchou i zápalnou, i oběti pokojné, aby se očištění dálo za dům Izraelský."
+"Nebo kníže povinen bude zápaly, a suché i mokré oběti, v svátky a na novměsíce, i v soboty, na všecky slavnosti domu #Izraelského; on obětovati bude za hřích, i obět suchou i zápalnou, i oběti pokojné, aby se očištění dálo za dům Izraelský."
 "Takto praví Panovník Hospodin
 "I nabéře kněz krve té oběti za hřích, a pomaže veřejí domu, a čtyř rohů toho přepásání na oltáři, i veřeje brány síně vnitřní."
 "Takž také učiní sedmého dne téhož měsíce, za každého pobloudilého i za hloupého. Tak očistíte dům."

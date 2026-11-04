@@ -28,7 +28,7 @@
 "Mais plutôt, reprit Jésus, heureux ceux qui écoutent la parole de Dieu, et qui la mettent en pratique!"
 "Comme le peuple s'amassait en foule, Jésus se mit à dire
 "Car, comme Jonas fut un miracle pour les Ninivites, le Fils de l'homme en sera un pour cette génération."
-"La reine du Midi s'élèvera au jour du jugement contre les hommes de cette génération, et les condamnera, parce qu'elle vint des bornes de la terre pour entendre la sagesse de Salomon; et voici, il y a ici plus que Salomon."
+"La reine du Midi s'élèvera au jour du jugement contre les hommes de cette génération, et les condamnera, parce qu'elle vint #des bornes de la terre pour entendre la sagesse de Salomon; et voici, il y a ici plus que Salomon."
 "Les hommes de Ninive s'élèveront au jour du jugement contre cette génération, et la condamneront, parce qu'ils se repentirent à la prédication de Jonas; et voici, il y a ici plus que Jonas."
 "Personne n'allume une lampe pour la mettre dans un lieu caché, ou sous un boisseau; mais sur un chandelier, afin que ceux qui entrent, voient la lumière."
 "L'œil est la lumière du corps; si donc ton œil est sain, tout ton corps sera éclairé; mais s'il est mauvais, ton corps sera dans les ténèbres."
@@ -39,7 +39,7 @@
 "Et le Seigneur lui dit
 "Insensés! celui qui a fait le dehors n'a t-il pas aussi fait le dedans?"
 "Mais plutôt, donnez en aumônes ce que vous avez, et toutes choses seront pures pour vous."
-"Mais malheur à vous, pharisiens, qui payez la dîme de la menthe, de la rue et de toutes sortes d'herbes, tandis que vous négligez la justice et l'amour de Dieu. Ce sont là les choses qu'il fallait faire, sans néanmoins négliger les autres."
+"Mais malheur à vous, pharisiens, qui payez la dîme de la menthe, de la rue et de toutes sortes d'herbes, tandis que #vous négligez la justice et l'amour de Dieu. Ce sont là les choses qu'il fallait faire, sans néanmoins négliger les autres."
 "Malheur à vous, pharisiens, qui aimez à occuper les premières places dans les synagogues, et à être salués dans les places publiques."
 "Malheur à vous, scribes et pharisiens hypocrites, parce que vous ressemblez aux sépulcres qui ne paraissent point, et les hommes qui marchent dessus n'en savent rien."
 "Alors un des docteurs de la loi prit la parole et lui dit

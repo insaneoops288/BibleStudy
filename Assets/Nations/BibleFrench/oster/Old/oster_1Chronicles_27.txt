@@ -1,4 +1,4 @@
-"Or voici les enfants d'Israël selon leur nombre, chefs des pères, chefs de milliers et de centaines, et leurs officiers au service du roi, pour tout ce qui concernait les divisions, leur entrée et leur sortie, mois par mois, pendant tous les mois de l'année, chaque division étant de vingt-quatre mille hommes."
+"Or voici les enfants d'Israël selon leur nombre, chefs des pères, chefs de milliers et de centaines, et leurs officiers au service du roi, pour tout ce #qui concernait les divisions, leur entrée et leur sortie, mois par mois, pendant tous les mois de l'année, chaque division étant de vingt-quatre mille hommes."
 "Sur la première division, pour le premier mois, était préposé Jashobeam, fils de Zabdiel; et sa division était de vingt-quatre mille hommes."
 "Il était des enfants de Pharets et chef de tous les commandants de l'armée du premier mois."
 "Dodaï, Achochite, était préposé sur la division du second mois; Mikloth était chef de sa division; et il avait vingt-quatre mille hommes dans sa division."
@@ -21,7 +21,7 @@
 "De la demi-tribu de Manassé, en Galaad
 "De Dan
 "Et David ne fit point le compte des Israélites depuis l'âge de vingt ans et au-dessous, car l'Éternel avait dit qu'il multiplierait Israël comme les étoiles du ciel."
-"Joab, fils de Tséruja, avait commencé le dénombrement, mais il ne l'acheva pas, la colère de l'Éternel étant venue à ce sujet sur Israël; et ce dénombrement n'entra pas parmi les dénombrements des Chroniques du roi David."
+"Joab, fils de Tséruja, avait commencé le dénombrement, mais il ne l'acheva pas, la colère de l'Éternel étant venue #à ce sujet sur Israël; et ce dénombrement n'entra pas parmi les dénombrements des Chroniques du roi David."
 "Azmaveth, fils d'Adiel, était préposé sur les trésors du roi; Jonathan, fils d'Uzija, sur les provisions dans les champs, les villes, les villages et les tours;"
 "Ezri, fils de Kélub, sur les ouvriers des champs, pour la culture du sol;"
 "Shimeï, de Rama, sur les vignes; Zabdi, de Shépham, sur les provisions de vin dans les vignes;"

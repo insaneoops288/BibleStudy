@@ -19,7 +19,7 @@
 "Und ihr sollt einen Ziegenbock zum Sündopfer opfern und zwei einjährige Lämmer zum Friedensopfer."
 "Und der Priester soll sie weben samt dem Brote der Erstlinge als Webopfer vor Jehova, samt den zwei Lämmern
 "Und ihr sollt an diesem selbigen Tage einen Ruf ergehen lassen, eine heilige Versammlung soll euch sein; keinerlei Dienstarbeit sollt ihr tun
-"Und wenn ihr die Ernte eures Landes erntet, sollst du den Rand deines Feldes nicht gänzlich abernten, und sollst keine Nachlese deiner Ernte halten; für den Armen und für den Fremdling sollst du sie lassen. Ich bin Jehova, euer Gott."
+"Und wenn ihr die Ernte eures Landes erntet, sollst du den Rand deines Feldes nicht gänzlich abernten, und sollst keine Nachlese #deiner Ernte halten; für den Armen und für den Fremdling sollst du sie lassen. Ich bin Jehova, euer Gott."
 "Und Jehova redete zu Mose und sprach
 "Rede zu den Kindern Israel und sprich
 "Keinerlei Dienstarbeit sollt ihr tun, und ihr sollt Jehova ein Feueropfer darbringen."
@@ -34,9 +34,9 @@
 "Rede zu den Kindern Israel und sprich
 "Am ersten Tage soll eine heilige Versammlung sein, keinerlei Dienstarbeit sollt ihr tun."
 "Sieben Tage sollt ihr Jehova ein Feueropfer darbringen; am achten Tage soll euch eine heilige Versammlung sein, und ihr sollt Jehova ein Feueropfer darbringen
-"Das sind die Feste Jehovas, die ihr ausrufen sollt als heilige Versammlungen, um Jehova darzubringen Feueropfer, Brandopfer und Speisopfer, Schlachtopfer und Trankopfer, die Gebühr des Tages an seinem Tage
+"Das sind die Feste Jehovas, die ihr ausrufen sollt als heilige Versammlungen, um Jehova darzubringen #Feueropfer, Brandopfer und Speisopfer, Schlachtopfer und Trankopfer, die Gebühr des Tages an seinem Tage
 "außer den Sabbathen Jehovas und außer euren Gaben und außer allen euren Gelübden und außer allen euren freiwilligen Gaben, die ihr Jehova gebet."
-"Doch am fünfzehnten Tage des siebten Monats, wenn ihr den Ertrag des Landes eingesammelt habt, sollt ihr das Fest Jehovas feiern sieben Tage; am ersten Tage soll Ruhe sein, und am achten Tage soll Ruhe sein."
+"Doch am fünfzehnten Tage des siebten Monats, wenn ihr den Ertrag des Landes eingesammelt habt, sollt ihr das Fest #Jehovas feiern sieben Tage; am ersten Tage soll Ruhe sein, und am achten Tage soll Ruhe sein."
 "Und ihr sollt euch am ersten Tage Frucht von schönen Bäumen nehmen, Palmzweige und Zweige von dichtbelaubten Bäumen und von Bachweiden, und sollt euch vor Jehova, eurem Gott, freuen sieben Tage."
 "Und ihr sollt dasselbe sieben Tage im Jahre als Fest dem Jehova feiern
 "In Laubhütten sollt ihr wohnen sieben Tage; alle Eingeborenen in Israel sollen in Laubhütten wohnen;"

@@ -18,7 +18,7 @@
 "Puis il assembla tout le peuple, et leur dit
 "Maintenant convoquez auprès de moi tous les prophètes de Baal, tous ses serviteurs et tous ses prêtres, sans qu'il en manque un seul, car je veux offrir un grand sacrifice à Baal
 "Il dit
-"Il envoya des messagers dans tout Israël; et tous les serviteurs de Baal arrivèrent, il n'y en eut pas un qui ne vînt; ils entrèrent dans la maison de Baal, et la maison de Baal fut remplie d'un bout à l'autre."
+"Il envoya des messagers dans tout Israël; et tous les serviteurs de Baal arrivèrent, il n'y en eut pas un qui #ne vînt; ils entrèrent dans la maison de Baal, et la maison de Baal fut remplie d'un bout à l'autre."
 "Jéhu dit à celui qui avait la garde du vestiaire
 "Alors Jéhu vint à la maison de Baal avec Jonadab, fils de Récab, et il dit aux serviteurs de Baal
 "Et ils entrèrent pour offrir des sacrifices et des holocaustes. Jéhu avait placé dehors quatre-vingts hommes, en leur disant

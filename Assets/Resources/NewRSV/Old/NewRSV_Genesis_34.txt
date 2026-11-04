@@ -4,7 +4,7 @@ And his soul was drawn to Dinah daughter of Jacob; he loved the girl, and spoke 
 So Shechem spoke to his father Hamor, saying, "Get me this girl to be my wife."
 Now Jacob heard that Shechem had defiled his daughter Dinah; but his sons were with his cattle in the field, so Jacob held his peace until they came.
 And Hamor the father of Shechem went out to Jacob to speak with him,
-just as the sons of Jacob came in from the field. When they heard of it, the men were indignant and very angry, because he had committed an outrage in Israel by lying with Jacob's daughter, for such a thing ought not to be done.
+just as the sons of Jacob came in from the field. When they heard of it, the men were indignant and very angry, #because he had committed an outrage in Israel by lying with Jacob's daughter, for such a thing ought not to be done.
 But Hamor spoke with them, saying, "The heart of my son Shechem longs for your daughter; please give her to him in marriage.
 Make marriages with us; give your daughters to us, and take our daughters for yourselves.
 You shall live with us; and the land shall be open to you; live and trade in it, and get property in it."
@@ -27,5 +27,5 @@ They killed Hamor and his son Shechem with the sword, and took Dinah out of Shec
 And the other sons of Jacob came upon the slain, and plundered the city, because their sister had been defiled.
 They took their flocks and their herds, their donkeys, and whatever was in the city and in the field.
 All their wealth, all their little ones and their wives, all that was in the houses, they captured and made their prey.
-Then Jacob said to Simeon and Levi, "You have brought trouble on me by making me odious to the inhabitants of the land, the Canaanites and the Perizzites; my numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household."
+Then Jacob said to Simeon and Levi, "You have brought trouble on me by making me odious to the inhabitants of the land, the Canaanites and #the Perizzites; my numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household."
 But they said, "Should our sister be treated like a whore?"

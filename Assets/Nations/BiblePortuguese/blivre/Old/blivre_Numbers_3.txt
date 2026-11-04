@@ -10,7 +10,7 @@
 "E constituirás a Arão e a seus filhos, para que exerçam seu sacerdócio
 "E falou o SENHOR a Moisés, dizendo
 "E eis que eu tomei os levitas dentre os filhos de Israel em lugar de todos os primogênitos que abrem a madre entre os filhos de Israel; serão, pois, meus os levitas
-"Porque meu é todo primogênito; desde o dia que eu matei todos os primogênitos na terra do Egito, eu santifiquei a mim todos os primogênitos em Israel, tanto de homens como de animais; meus serão; Eu sou o SENHOR."
+"Porque meu é todo primogênito; desde o dia que eu matei todos os primogênitos na terra do Egito, eu santifiquei #a mim todos os primogênitos em Israel, tanto de homens como de animais; meus serão; Eu sou o SENHOR."
 "E o SENHOR falou a Moisés no deserto de Sinai, dizendo
 "Conta os filhos de Levi pelas casas de seus pais, por suas famílias
 "E Moisés os contou conforme a palavra do SENHOR, como lhe foi mandado."

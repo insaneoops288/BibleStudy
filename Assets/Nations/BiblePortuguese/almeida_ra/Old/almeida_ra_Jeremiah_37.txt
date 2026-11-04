@@ -7,7 +7,7 @@
 "Assim diz o Senhor, Deus de Israel
 "E voltarão os caldeus, e pelejarão contra esta cidade, e a tomarão, e a queimarão a fogo."
 "Assim diz o Senhor
-"Porque ainda que derrotásseis a todo o exército dos caldeus que peleja contra vós, e entre eles só ficassem homens feridos, contudo se levantariam, cada um na sua tenda, e queimariam a fogo esta cidade."
+"Porque ainda que derrotásseis a todo o exército dos caldeus que peleja contra vós, e entre eles só #ficassem homens feridos, contudo se levantariam, cada um na sua tenda, e queimariam a fogo esta cidade."
 "Ora, quando se retirou de Jerusalém o exército dos caldeus, por causa do exército de Faraó,"
 "saiu Jeremias de Jerusalém, a fim de ir à terra de Benjamim, para receber ali a sua parte no meio do povo."
 "E quando ele estava à porta de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Chelemias, filho de Hananias, o qual prendeu a Jeremias, o profeta, dizendo
@@ -18,4 +18,4 @@
 "Disse mais Jeremias ao rei Zedequias
 "Onde estão agora os vossos profetas que vos profetizavam, dizendo
 "Ora, pois, ouve agora, ó rei, meu senhor
-"Então ordenou o rei Zedequias que pusessem a Jeremias no átrio da guarda; e deram-lhe um bolo de pão cada dia, da rua dos padeiros, até que se gastou todo o pão da cidade. Assim ficou Jeremias no átrio da guarda."
+"Então ordenou o rei Zedequias que pusessem a Jeremias no átrio da guarda; e deram-lhe um bolo de pão cada dia, #da rua dos padeiros, até que se gastou todo o pão da cidade. Assim ficou Jeremias no átrio da guarda."

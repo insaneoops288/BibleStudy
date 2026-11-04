@@ -17,10 +17,10 @@
 "Y dijo Isaí a David su hijo
 "Llevarás asimismo estos diez quesos de leche al capitán de los mil, y cuida de ver si tus hermanos están bien, y toma prendas de ellos."
 "Y Saúl y ellos y todos los de Israel, [estaban] en el valle de Ela, peleando con los filisteos."
-"Se levantó, pues, David de mañana, y dejando las ovejas al cuidado de un guarda, se fue con su carga, como Isaí le había mandado; y llegó a la trinchera al momento que el ejército salía a la batalla dando el grito de guerra."
+"Se levantó, pues, David de mañana, y dejando las ovejas al cuidado de un guarda, se fue con su carga, como Isaí le #había mandado; y llegó a la trinchera al momento que el ejército salía a la batalla dando el grito de guerra."
 "Porque así los israelitas como los filisteos estaban en orden de batalla, escuadrón contra escuadrón."
 "Y David dejó de sobre sí la carga en mano del que guardaba el bagaje, y corrió hacia el escuadrón; y llegado que hubo, preguntó por sus hermanos, si estaban bien."
-"Y mientras él hablaba con ellos, he aquí aquel adalid que se ponía en medio de los dos campamentos, que se llamaba Goliat, el filisteo de Gat, salió de los escuadrones de los filisteos, y habló las mismas palabras; y David [las] oyó."
+"Y mientras él hablaba con ellos, he aquí aquel adalid que se ponía en medio de los dos campamentos, que se llamaba #Goliat, el filisteo de Gat, salió de los escuadrones de los filisteos, y habló las mismas palabras; y David [las] oyó."
 "Y todos los varones de Israel que veían aquel hombre, huían de su presencia, y tenían gran temor."
 "Y cada uno de los de Israel decía
 "Entonces habló David a los que junto a él estaban, diciendo
@@ -46,10 +46,10 @@
 "Jehová te entregará hoy en mi mano, y yo te venceré, y te cortaré la cabeza; y daré hoy los cuerpos de los filisteos a las aves del cielo y a las bestias de la tierra
 "Y sabrá toda esta congregación que Jehová no salva con espada y lanza; porque de Jehová es la batalla, y Él os entregará en nuestras manos."
 "Y aconteció que cuando el filisteo se levantó y venía acercándose al encuentro de David, David se dio prisa y corrió hacia el combate contra el filisteo."
-"Y metiendo David su mano en el saco, tomó de allí una piedra, y se la tiró con la honda, e hirió al filisteo en la frente; y la piedra le quedó clavada en la frente, y cayó sobre su rostro en tierra."
+"Y metiendo David su mano en el saco, tomó de allí una piedra, y se la tiró con la honda, e hirió #al filisteo en la frente; y la piedra le quedó clavada en la frente, y cayó sobre su rostro en tierra."
 "Así venció David al filisteo con honda y piedra; e hirió al filisteo y lo mató, sin [tener] David espada en su mano."
-"Entonces corrió David y se puso sobre el filisteo, y tomando la espada de él, sacándola de su vaina, lo mató, y le cortó con ella la cabeza. Y cuando los filisteos vieron muerto a su campeón, huyeron."
-"Y levantándose los de Israel y de Judá, gritaron, y persiguieron a los filisteos hasta llegar al valle, y hasta las puertas de Ecrón. Y cayeron los heridos de los filisteos por el camino de Saaraim, aun hasta Gat y Ecrón."
+"Entonces corrió David y se puso sobre el filisteo, y tomando la espada de él, sacándola de su vaina, lo #mató, y le cortó con ella la cabeza. Y cuando los filisteos vieron muerto a su campeón, huyeron."
+"Y levantándose los de Israel y de Judá, gritaron, y persiguieron a los filisteos hasta llegar al valle, y hasta las #puertas de Ecrón. Y cayeron los heridos de los filisteos por el camino de Saaraim, aun hasta Gat y Ecrón."
 "Regresaron luego los hijos de Israel de perseguir a los filisteos, y despojaron su campamento."
 "Y David tomó la cabeza del filisteo, y la trajo a Jerusalén, pero sus armas las puso en su tienda."
 "Y cuando Saúl vio a David que salía a encontrarse con el filisteo, dijo a Abner, general del ejército

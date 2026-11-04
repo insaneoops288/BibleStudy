@@ -2,7 +2,7 @@
 "Entonces la mujer se levantó, e hizo como el varón de Dios le dijo
 "Y aconteció que cuando habían pasado los siete años, la mujer volvió de la tierra de los filisteos y fue a clamar al rey por su casa y por sus tierras."
 "Y el rey estaba hablando con Giezi, criado del varón de Dios, diciéndole
-"Y sucedió que mientras él contaba al rey cómo había hecho vivir a un muerto, he aquí, la mujer a cuyo hijo él había hecho vivir, que clamaba al rey por su casa y por sus tierras. Entonces dijo Giezi
+"Y sucedió que mientras él contaba al rey cómo había hecho vivir a un muerto, he aquí, la mujer a cuyo #hijo él había hecho vivir, que clamaba al rey por su casa y por sus tierras. Entonces dijo Giezi
 "Y cuando el rey preguntó a la mujer, ella se lo contó. Entonces el rey le asignó un oficial, diciéndole
 "Eliseo se fue luego a Damasco, y Benadad, rey de Siria, estaba enfermo, al cual dieron aviso, diciendo
 "Y el rey dijo a Hazael
@@ -26,4 +26,4 @@
 "Veintidós años [tenía] Ocozías cuando comenzó a reinar, y reinó un año en Jerusalén. El nombre de su madre [fue] Atalía, hija de Omri, rey de Israel."
 "Y anduvo en el camino de la casa de Acab, e hizo lo malo en ojos de Jehová, como la casa de Acab; porque [era] yerno de la casa de Acab."
 "Y fue con Joram, hijo de Acab, a la guerra contra Hazael, rey de Siria, en Ramot de Galaad; y los sirios hirieron a Joram."
-"Y el rey Joram se volvió a Jezreel, para curarse de las heridas que los sirios le hicieron en Ramá, cuando peleó contra Hazael rey de Siria. Y descendió Ocozías, hijo de Joram, rey de Judá, a visitar a Joram, hijo de Acab, en Jezreel, porque estaba enfermo."
+"Y el rey Joram se volvió a Jezreel, para curarse de las heridas que los sirios le hicieron en Ramá, cuando peleó contra Hazael rey #de Siria. Y descendió Ocozías, hijo de Joram, rey de Judá, a visitar a Joram, hijo de Acab, en Jezreel, porque estaba enfermo."

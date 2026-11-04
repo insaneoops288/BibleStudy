@@ -2,7 +2,7 @@
 "Iar Pavel, după cum avea obiceiul, a intrat la ei, și trei zile de sabat a discutat cu ei din scripturi,"
 "Expunând și afirmând că trebuia să sufere Cristos și să învie dintre morți; și [spunând] că
 "Și unii dintre ei au crezut și s-au alăturat lui Pavel și Sila; și dintre grecii religioși o mare mulțime și nu puține dintre femeile de seamă."
-"Dar iudeii, care nu au crezut, împinși de invidie, au luat cu ei niște însoțitori desfrânați, de soi josnic, și au strâns o mulțime și au pus toată cetatea în tulburare și au asaltat casa lui Iason, căutând să îi aducă la popor."
+"Dar iudeii, care nu au crezut, împinși de invidie, au luat cu ei niște însoțitori desfrânați, de soi josnic, și au strâns #o mulțime și au pus toată cetatea în tulburare și au asaltat casa lui Iason, căutând să îi aducă la popor."
 "Și, negăsindu-i, au târât pe Iason și pe unii frați la magistrații cetății, strigând
 "Pe ei Iason i-a primit; și toți aceștia lucrează împotriva hotărârilor Cezarului, spunând că este un alt împărat, Isus."
 "Și au tulburat mulțimea și magistrații cetății, când au auzit acestea."

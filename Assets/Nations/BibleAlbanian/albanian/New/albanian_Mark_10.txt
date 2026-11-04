@@ -29,7 +29,7 @@
 "Jezusi, duke u përgjigjur, tha
 "që të mos marrë tani, në këtë kohë, njëqindfish shtëpi, vëllezër, motra, nëna, fëmijë e ara, së bashku me përndjekje, dhe në botën e ardhshme, jeta e përjetshme."
 "Por shumë të parë do të jenë të fundit dhe shumë të fundit do të jenë të parët''."
-"Ata ishin në udhëtim për t'u ngjitur në Jeruzalem, dhe Jezusi i paraprinte. Dhe ata ishin të tronditur dhe e ndiqnin me ndrojtje. Dhe ai i mblodhi përsëri të dymbëdhjetët mënjanë dhe nisi t'u thotë çfarë do t'i ndodhte
+"Ata ishin në udhëtim për t'u ngjitur në Jeruzalem, dhe Jezusi i paraprinte. Dhe ata ishin të tronditur dhe e #ndiqnin me ndrojtje. Dhe ai i mblodhi përsëri të dymbëdhjetët mënjanë dhe nisi t'u thotë çfarë do t'i ndodhte
 "''Ja, ne po ngjitemi në Jeruzalem dhe Biri i njeriut do t'u dorëzohet krerëve të priftërinjve dhe skribëve; dhe ata do ta dënojnë me vdekje dhe do ta dorëzojnë në duar të paganëve,"
 "të cilët do ta tallin, do ta fshikullojnë, do ta pështyjnë dhe do ta vrasin, por ai, ditën e tretë, do të ringjallet''."
 "Atëherë Jakobi dhe Gjoni, bij të Zebedeut, iu afruan dhe i thanë

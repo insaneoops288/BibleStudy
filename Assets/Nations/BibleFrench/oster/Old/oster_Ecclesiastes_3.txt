@@ -16,7 +16,7 @@
 "J'ai vu encore sous le soleil, qu'au lieu établi pour juger, il y a de la méchanceté, qu'au lieu établi pour la justice, il y a de la méchanceté."
 "Et j'ai dit en mon cœur
 "J'ai dit en mon cœur, au sujet des hommes, que Dieu les éprouverait, et qu'ils verraient eux-mêmes qu'ils ne sont que des bêtes."
-"Car l'accident qui arrive aux hommes, et l'accident qui arrive aux bêtes, est un même accident; telle qu'est la mort de l'un, telle est la mort de l'autre; ils ont tous un même souffle, et l'homme n'a nul avantage sur la bête; car tout est vanité."
+"Car l'accident qui arrive aux hommes, et l'accident qui arrive aux bêtes, est un même accident; telle qu'est la mort de l'un, telle est #la mort de l'autre; ils ont tous un même souffle, et l'homme n'a nul avantage sur la bête; car tout est vanité."
 "Tout va en un même lieu; tout a été fait de la poussière, et tout retourne dans la poussière."
 "Qui sait si l'esprit des hommes monte en haut, et si l'esprit de la bête descend en bas dans la terre?"
 "Et j'ai vu qu'il n'y a rien de mieux pour l'homme que de se réjouir de ses œuvres; puisque c'est là sa part. Car qui le ramènera pour voir ce qui sera après lui?"

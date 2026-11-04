@@ -9,7 +9,7 @@
 "Onézimussal együtt, a hû és szeretett atyafival, ki ti közületek való; minden itt való dolgot megismertetnek õk veletek."
 "Köszönt titeket Aristárkhus, az én fogolytársam, és Márk, a Barnabás unokatestvére, (ki felõl parancsolatokat vettetek
 "És Jézus, kit Justusnak [is] hívnak, kik a zsidók közül valók
-"Köszönt titeket Epafrás, ki ti közületek való, Krisztusnak szolgája, mindenkor tusakodván ti érettetek imádságaiban, hogy megállhassatok tökéletesen és teljes meggyõzõdéssel az Istennek minden akaratjában."
+"Köszönt titeket Epafrás, ki ti közületek való, Krisztusnak szolgája, mindenkor tusakodván ti érettetek #imádságaiban, hogy megállhassatok tökéletesen és teljes meggyõzõdéssel az Istennek minden akaratjában."
 "Mert bizonyságot teszek õ felõle, hogy sokat fárad érettetek és azokért, kik Laodiczeában és Jerápolisban vannak."
 "Köszönt titeket Lukács, ama szeretett orvos, és Démás."
 "Köszöntsétek az atyafiakat, kik Laodiczeában vannak, és Nimfást és a gyülekezetet, mely az õ házánál van."

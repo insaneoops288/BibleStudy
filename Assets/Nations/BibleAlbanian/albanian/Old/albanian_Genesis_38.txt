@@ -11,7 +11,7 @@
 "Atëherë Juda i tha Tamarës, nuses së birit të tij
 "Mbas një kohe të gjatë vdiq gruaja e Judës, që ishte e bija e Shuas; kur mbaroi zinë, Juda u ngjit tek ata që qethnin delet e tij në Timnah bashkë me mikun e tij Hirah, i quajtur Adullamiti."
 "Këtë e mori vesh Tamara dhe asaj i thanë
-"Atëherë ajo hoqi rrobat e saj të vejërisë, u mbulua me një velo dhe u mbështoll e tëra; pastaj u ul te porta e Enaimit, që ndodhet në rrugën drejt Timnahut; në fakt ajo kishte parë që Shelahu ishte rritur më në fund, por ajo nuk i ishte dhënë për grua."
+"Atëherë ajo hoqi rrobat e saj të vejërisë, u mbulua me një velo dhe u mbështoll e tëra; pastaj u ul te porta e Enaimit, që #ndodhet në rrugën drejt Timnahut; në fakt ajo kishte parë që Shelahu ishte rritur më në fund, por ajo nuk i ishte dhënë për grua."
 "Sa e pa Juda mendoi që ajo ishte prostitutë, sepse e kishte fytyrën të mbuluar."
 "Prandaj ai iu afrua asaj në rrugë dhe i tha
 "Atëherë ai i tha

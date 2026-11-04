@@ -3,7 +3,7 @@
 "Y daré á mis dos testigos, y ellos profetizarán por mil doscientos y sesenta días, vestidos de sacos."
 "Estas son las dos olivas, y los dos candeleros que están delante del Dios de la tierra."
 "Y si alguno les quisiere dañar, sale fuego de la boca de ellos, y devora á sus enemigos
-"Estos tienen potestad de cerrar el cielo, que no llueva en los días de su profecía, y tienen poder sobre las aguas para convertirlas en sangre, y para herir la tierra con toda plaga cuantas veces quisieren."
+"Estos tienen potestad de cerrar el cielo, que no llueva en los días de su profecía, y tienen poder #sobre las aguas para convertirlas en sangre, y para herir la tierra con toda plaga cuantas veces quisieren."
 "Y cuando ellos hubieren acabado su testimonio, la bestia que sube del abismo hará guerra contra ellos, y los vencerá, y los matará."
 "Y sus cuerpos serán echados en las plazas de la grande ciudad, que espiritualmente es llamada Sodoma y Egipto, donde también nuestro Señor fué crucificado."
 "Y los de los linajes, y de los pueblos, y de las lenguas, y de los Gentiles verán los cuerpos de ellos por tres días y medio, y no permitirán que sus cuerpos sean puestos en sepulcros."
@@ -15,5 +15,5 @@
 "Y el séptimo ángel tocó la trompeta, y fueron hechas grandes voces en el cielo, que decían
 "Y los veinticuatro ancianos que estaban sentados delante de Dios en sus sillas, se postraron sobre sus rostros, y adoraron á Dios,"
 "Diciendo
-"Y se han airado las naciones, y tu ira es venida, y el tiempo de los muertos, para que sean juzgados, y para que des el galardón á tus siervos los profetas, y á los santos, y á los que temen tu nombre, á los pequeñitos y á los grandes, y para que destruya"
+"Y se han airado las naciones, y tu ira es venida, y el tiempo de los muertos, para que sean juzgados, y para que des el galardón á #tus siervos los profetas, y á los santos, y á los que temen tu nombre, á los pequeñitos y á los grandes, y para que destruya"
 "Y el templo de Dios fué abierto en el cielo, y el arca de su testamento fué vista en su templo. Y fueron hechos relámpagos y voces y truenos y terremotos y grande granizo."

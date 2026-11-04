@@ -12,7 +12,7 @@
 "I staneť se, když dokoná Pán všecko dílo své na hoře Sion a v Jeruzalémě, že navštívím ovoce pyšného srdce krále Assyrského, a nádhernost vysokých očí jeho."
 "Nebo řekne
 "Anobrž jako hnízdo nalezla ruka má zboží národů, a jako zbírána bývají vejce opuštěná, tak všecku zemi já jsem sebral, aniž byl, kdo by křídlem hnul, aneb otevřel ústa a siptěl."
-"Zdaliž se bude sekera velebiti nad toho, kdož ní seká? Zdaliž se honositi bude pila nad toho, kdož ní tře? Jako by se zpínala metla proti tomu, kdož by ji zdvihl; jako by se chlubila hůl, že není dřevem."
+"Zdaliž se bude sekera velebiti nad toho, kdož ní seká? Zdaliž se honositi bude pila nad toho, kdož ní tře? #Jako by se zpínala metla proti tomu, kdož by ji zdvihl; jako by se chlubila hůl, že není dřevem."
 "Protož pošle Pán, Hospodin zástupů, na vytylé jeho vyzáblost, a po zpodku slávu jeho prudce zapálí, jako silný oheň."
 "Nebo světlo Izraelovo bude ohněm, a Svatý jeho plamenem, i spálí a sžíře trní i bodláčí jeho jednoho dne."
 "Též spanilost lesu jeho, i úrodných polí jeho, od duše až do těla, všecko vyhubí. I stane se, že předěšený jsa, bude utíkati."

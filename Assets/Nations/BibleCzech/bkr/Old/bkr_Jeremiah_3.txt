@@ -5,7 +5,7 @@
 "Zdaliž Bůh držeti bude hněv na věčnost? Zdali chovati jej bude na věky? Aj, mluvíš i pášeš zlé věci, jakž jen můžeš."
 "Tedy řekl mi Hospodin za dnů Joziáše krále
 "A ačkoli jsem řekl, když ty všecky věci ona činila
-"Pročež vidělo mi se pro ty všecky příčiny, poněvadž cizoložila zpurná dcera Izraelská, propustiti ji, a dáti jí lístek zapuzení jejího. Však se vždy neulekla zpronevěřilá sestra její, dcera Judská, ale šedši, smilnila také sama."
+"Pročež vidělo mi se pro ty všecky příčiny, poněvadž cizoložila zpurná dcera Izraelská, propustiti ji, a dáti jí #lístek zapuzení jejího. Však se vždy neulekla zpronevěřilá sestra její, dcera Judská, ale šedši, smilnila také sama."
 "I stalo se, že hanebným smilstvím svým poškvrnila země; nebo cizoložila s kamenem i s dřevem."
 "A však s tím se vším neobrátila se ke mně zpronevěřilá sestra její, dcera Judská, celým srdcem svým, ale pokrytě, praví Hospodin."
 "Protož řekl Hospodin ke mně
@@ -22,4 +22,4 @@
 "Navraťte se, synové zpurní, a uzdravím odvrácení vaše. Rcete
 "Právě marné jest v pahrbcích a v množství hor doufání; zajisté v Hospodinu Bohu našem jest spasení Izraelovo."
 "Nebo ohavnost ta zžírala práci otců našich od dětinství našeho, bravy jejich i skoty jejich, syny jejich i dcery jejich."
-"Ležíme v hanbě své, a přikrývá nás pohanění naše, že jsme proti Hospodinu Bohu svému hřešili, my i otcové naši, od dětinství svého až do dne tohoto, a neposlouchali jsme hlasu Hospodina Boha svého."
+"Ležíme v hanbě své, a přikrývá nás pohanění naše, že jsme proti Hospodinu Bohu svému hřešili, my i #otcové naši, od dětinství svého až do dne tohoto, a neposlouchali jsme hlasu Hospodina Boha svého."

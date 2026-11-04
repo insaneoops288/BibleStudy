@@ -23,6 +23,6 @@
 "Por ndodhi që një ditë të shtunë ai po kalonte nëpër ara dhe dishepujt e tij, duke kaluar, filluan të këpusin kallinj."
 "Dhe farisenjtë i thanë
 "Por ai u tha atyre
-"Se si hyri ai në shtëpinë e Perëndisë në kohën e kryepriftit Abiathar, dhe hëngri bukët e paraqitjes, të cilat nuk lejohet t'i hajë askush, përveç priftërinjve, dhe u dha edhe atyre që qenë me të?''."
+"Se si hyri ai në shtëpinë e Perëndisë në kohën e kryepriftit Abiathar, dhe hëngri bukët e paraqitjes, të #cilat nuk lejohet t'i hajë askush, përveç priftërinjve, dhe u dha edhe atyre që qenë me të?''."
 "Pastaj u tha atyre
 "Prandaj Biri i njeriut është zot edhe i së shtunës''."

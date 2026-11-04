@@ -6,7 +6,7 @@
 "Ale jeźliby z drobnego bydła była ofiara jego na ofiarę spokojną Panu, samca albo samicę zupełne ofiarować je będzie."
 "Jeźliby baranka ofiarował na ofiarę swoję, ofiarować go będzie przed obliczem Pańskiem."
 "A włoży rękę swą na głowę ofiary swojej, i zabije ją przed namiotem zgromadzenia; i wyleją synowie Aaronowi krew jej na wierzch ołtarza w około."
-"I będzie ofiarował z ofiary spokojnej ofiarę ognistą Panu, tłustość jej, ogon cały, który od grzbietu odejmie, także i tłustość, okrywającą wnętrzności, i wszystkę tłustość, która jest na wnętrznościach."
+"I będzie ofiarował z ofiary spokojnej ofiarę ognistą Panu, tłustość jej, ogon cały, który od #grzbietu odejmie, także i tłustość, okrywającą wnętrzności, i wszystkę tłustość, która jest na wnętrznościach."
 "Obie też nerki z tłustością, która jest na nich, i na polędwicach, i odzieczkę, która na wątrobie, z nerkami odejmie."
 "I zapali to kapłan na ołtarzu, pokarm to jest ofiary ognistej Panu."
 "Jeźliby zaś koza była ofiarą jego, tedy ją ofiarować będzie przed obliczem Pańskiem."

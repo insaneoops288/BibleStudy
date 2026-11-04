@@ -1,4 +1,4 @@
-"Więc powstał Eliaszib, najwyższy kapłan, i jego bracia kapłani, do odbudowy bramy Owczej. Zatem ją zbudowali, przyprawili wrota i traktowali to jako świętość aż do wieży Meaoraz do wieży Chananeel."
+"Więc powstał Eliaszib, najwyższy kapłan, i jego bracia kapłani, do odbudowy bramy Owczej. Zatem ją zbudowali, #przyprawili wrota i traktowali to jako świętość aż do wieży Meaoraz do wieży Chananeel."
 "A obok niego budowali mężowie z Jerycha; zaś obok nich budował Zakkur, syn Imrego."
 "A bramę Ryb budowali synowie Senaa, którzy ją wyłożyli belkami oraz wprawili jej wrota, jej zamki i jej zasuwy."
 "Zaś obok nich naprawiał Meremot, syn Urji, syna Hakkosa; a obok nich naprawiał Meszullam, syn Berechji, syna Meszezabela; a obok nich naprawiał Cadok, syn Baany."
@@ -12,7 +12,7 @@
 "A obok niego naprawiał Szallum, syn Lochesza, przełożony połowy okręgu jeruszalemskiego, on sam i jego córki."
 "Bramę Nad Doliną naprawiał Chanun oraz obywatele Zanoach; oni ją budowali i przyprawili jej wrota, jej zamki i jej zasuwy; nadto tysiąc łokci muru, aż do bramy Śmietnisk."
 "Zaś bramę Śmietnisk naprawiał Malkijjasz, syn Rechaba, przełożony nad okręgiem BethHakerem; on ją zbudował, przyprawił jej wrota, jej zamki i jej zasuwy."
-"Do bramy Źródła naprawiał Szallun, syn KolChozeka, przełożony nad okręgiem Micpa; on ja zbudował, pokrył, przyprawił jej wrota, jej zamki i jej zasuwy. Nadto mur nad stawem Sziloach, do królewskiego ogrodu i schodów, którymi schodzą z miasta Dawida."
+"Do bramy Źródła naprawiał Szallun, syn KolChozeka, przełożony nad okręgiem Micpa; on ja zbudował, pokrył, przyprawił jej wrota, jej zamki #i jej zasuwy. Nadto mur nad stawem Sziloach, do królewskiego ogrodu i schodów, którymi schodzą z miasta Dawida."
 "Następnie naprawiał Nehemiasz,syn Azbuka, przełożony nad połową okręgu Beth Cur, aż naprzeciwko grobów Dawida i zrobionego stawu, oraz do domu mocarzy."
 "Za nim naprawiali Lewici
 "Za nim naprawiali ich bracia

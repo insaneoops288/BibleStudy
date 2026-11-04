@@ -7,7 +7,7 @@
 "O SENHOR jurou pela glória de Jacó
 "A terra não se abalará por causa disto, e todo habitante dela não chorará? Certamente ela se levantará como um rio, se agitará, e se afundará como o rio do Egito."
 "E será naquele dia,diz o Senhor DEUS, que farei o sol se pôr ao meio-dia, e escurecerei a terra no dia claro."
-"E tornarei vossas festas em luto, e todas as vossas canções em pranto; e farei com que todos se vistam de saco, e se façam calvas sobre todas as cabeças; e farei com que haja luto como de um filho único, e seu fim será como um dia amargo."
+"E tornarei vossas festas em luto, e todas as vossas canções em pranto; e farei com que todos se vistam de saco, e se façam #calvas sobre todas as cabeças; e farei com que haja luto como de um filho único, e seu fim será como um dia amargo."
 "Eis que vêm dias,diz o Senhor DEUS, nos quais enviarei fome à terra; fome não de pão, nem sede de água, mas sim de ouvir as palavras do SENHOR."
 "E irão sem rumo de mar a mar, do norte até o oriente; correrão de um lado para o outro em busca da palavra do SENHOR, mas não a encontrarão."
 "Naquele tempo as belas virgens e os rapazes desmaiarão de sede."

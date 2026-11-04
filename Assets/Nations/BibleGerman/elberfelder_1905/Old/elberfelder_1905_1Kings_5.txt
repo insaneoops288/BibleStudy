@@ -3,10 +3,10 @@
 "Du weißt ja, daß mein Vater David nicht vermochte, dem Namen Jehovas, seines Gottes, ein Haus zu bauen, wegen der Kriege, mit welchen sie ihn umgaben, bis Jehova sie unter seine Fußsohlen legte."
 "Nun aber hat Jehova, mein Gott, mir Ruhe geschafft ringsum; da ist kein Widersacher mehr und kein schlimmes Begegnis."
 "Und siehe, ich gedenke dem Namen Jehovas, meines Gottes, ein Haus zu bauen, so wie Jehova zu meinem Vater David geredet und gesagt hat
-"Und nun gebiete, daß man mir Zedern vom Libanon haue; und meine Knechte sollen mit deinen Knechten sein; und den Lohn deiner Knechte will ich dir geben nach allem, was du sagen wirst; denn du weißt ja, daß niemand unter uns ist, der Holz zu hauen versteht wie die Zidonier."
+"Und nun gebiete, daß man mir Zedern vom Libanon haue; und meine Knechte sollen mit deinen Knechten sein; und den Lohn deiner Knechte will ich dir #geben nach allem, was du sagen wirst; denn du weißt ja, daß niemand unter uns ist, der Holz zu hauen versteht wie die Zidonier."
 "Und es geschah, als Hiram die Worte Salomos hörte, da freute er sich sehr; und er sprach
 "Und Hiram sandte zu Salomo und ließ ihm sagen
-"Meine Knechte sollen es vom Libanon an das Meer hinabbringen; und ich werde auf dem Meere Flöße daraus machen und sie bis an den Ort bringen lassen, den du mir angeben wirst, und dort will ich sie zerlegen lassen; und du sollst es abholen. Du aber sollst mein Begehr tun, indem du den Speisebedarf meines Hauses gibst."
+"Meine Knechte sollen es vom Libanon an das Meer hinabbringen; und ich werde auf dem Meere Flöße daraus machen und sie bis an den Ort bringen lassen, den du #mir angeben wirst, und dort will ich sie zerlegen lassen; und du sollst es abholen. Du aber sollst mein Begehr tun, indem du den Speisebedarf meines Hauses gibst."
 "Und so gab Hiram dem Salomo Zedernholz und Zypressenholz nach all seinem Begehr."
 "Salomo aber gab Hiram zwanzigtausend Kor Weizen zur Nahrung für sein Haus, und zwanzig Kor zerstoßenesÖl
 "Und Jehova gab Salomo Weisheit, so wie er zu ihm geredet hatte; und es war Friede zwischen Hiram und Salomo, und sie machten einen Bund miteinander."

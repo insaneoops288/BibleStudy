@@ -1,4 +1,4 @@
-"Und es geschah an dem Tage, da Mose das Aufrichten der Wohnung vollendet und sie gesalbt und sie geheiligt hatte mit allen ihren Geräten, sowie den Altar und alle seine Geräte, und er sie gesalbt und sie geheiligt hatte,"
+"Und es geschah an dem Tage, da Mose das Aufrichten der Wohnung vollendet und sie gesalbt und sie geheiligt hatte #mit allen ihren Geräten, sowie den Altar und alle seine Geräte, und er sie gesalbt und sie geheiligt hatte,"
 "da brachten die Fürsten Israels, die Häupter ihrer Vaterhäuser, sie, die Fürsten der Stämme, die Vorsteher der Gemusterten,"
 "sie brachten ihre Opfergabe dar vor Jehova
 "Und Jehova redete zu Mose und sprach
@@ -85,5 +85,5 @@
 "hundertdreißig Sekel eine silberne Schüssel, und siebzig eine Sprengschale
 "zwölf goldene Schalen voll Räucherwerk, je zehn Sekel eine Schale, nach dem Sekel des Heiligtums
 "Aller Rinder zum Brandopfer waren zwölf Farren; dazu zwölf Widder, zwölf einjährige Lämmer, nebst ihrem Speisopfer; und zwölf Ziegenböcke zum Sündopfer."
-"Und aller Rinder zum Friedensopfer waren vierundzwanzig Farren; dazu sechzig Widder, sechzig Böcke, sechzig einjährige Lämmer. Das war die Einweihungsgabe des Altars, nachdem er gesalbt worden war."
-89 "Und wenn Mose in das Zelt der Zusammenkunft hineinging, um mit ihm zu reden, so hörte er die Stimme zu ihm reden von dem Deckel herab, der auf der Lade des Zeugnisses war, zwischen den beiden Cherubim hervor; und er redete zu ihm."
+"Und aller Rinder zum Friedensopfer waren vierundzwanzig Farren; dazu sechzig Widder, sechzig Böcke, sechzig #einjährige Lämmer. Das war die Einweihungsgabe des Altars, nachdem er gesalbt worden war."
+89 "Und wenn Mose in das Zelt der Zusammenkunft hineinging, um mit ihm zu reden, so hörte er die Stimme zu ihm reden #von dem Deckel herab, der auf der Lade des Zeugnisses war, zwischen den beiden Cherubim hervor; und er redete zu ihm."

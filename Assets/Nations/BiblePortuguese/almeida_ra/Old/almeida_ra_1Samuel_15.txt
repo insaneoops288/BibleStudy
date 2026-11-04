@@ -6,7 +6,7 @@
 "E disse Saul aos queneus
 "Depois Saul feriu os amalequitas desde Havilá até chegar a Sur, que está defronte do Egipto."
 "E tomou vivo a Agague, rei dos amalequitas, porém a todo o povo destruiu ao fio da espada."
-"Mas Saul e o povo pouparam a Agague, como também ao melhor das ovelhas, dos bois, e dos animais engordados, e aos cordeiros, e a tudo o que era bom, e não os quiseram destruir totalmente; porém a tudo o que era vil e desprezível destruíram totalmente."
+"Mas Saul e o povo pouparam a Agague, como também ao melhor das ovelhas, dos bois, e dos animais engordados, e aos cordeiros, e #a tudo o que era bom, e não os quiseram destruir totalmente; porém a tudo o que era vil e desprezível destruíram totalmente."
 "Então veio a palavra do Senhor a Samuel, dizendo
 "Arrependo-me de haver posto a Saul como rei; porquanto deixou de me seguir, e não cumpriu as minhas palavras. Então Samuel se contristou, e clamou ao Senhor a noite toda."
 "E Samuel madrugou para encontrar-se com Saul pela manhã; e foi dito a Samuel

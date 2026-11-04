@@ -11,5 +11,5 @@
 "Tani në kanë rrethuar, ndjekin hapat tona; na ngulin sytë e tyre për të na rrëzuar."
 "Armiku im i përngjan një luani që digjet nga dëshira që të shqyejë, dhe të një luani të vogël që rri në pritë në vënde të fshehta."
 "Çohu, o Zot, përballoje, rrëzoje; çliro shpirtin tim nga i pabesi me shpatën tënde."
-"O Zot, më çliro me dorën tënde nga njerëzit, nga njerëzit e kësaj bote që bën pjesë në këtë jetë, dhe barkun e të cilëve ti e mbush me thesaret e tua të fshehta; bijtë e tyre ngopen dhe u lënë fëmijëve të tyre ato që mbetet nga pasuritë e tyre."
+"O Zot, më çliro me dorën tënde nga njerëzit, nga njerëzit e kësaj bote që bën pjesë në këtë jetë, dhe barkun e të cilëve ti #e mbush me thesaret e tua të fshehta; bijtë e tyre ngopen dhe u lënë fëmijëve të tyre ato që mbetet nga pasuritë e tyre."
 "Sa për mua, për hir të drejtësisë do të shoh fytyrën tënde; do të ngopem nga prania jote kur të zgjohem."

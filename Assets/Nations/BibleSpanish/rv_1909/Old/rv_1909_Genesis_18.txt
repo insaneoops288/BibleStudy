@@ -16,7 +16,7 @@
 "Y los varones se levantaron de allí, y miraron hacia Sodoma
 "Y Jehová dijo
 "Habiendo de ser Abraham en una nación grande y fuerte, y habiendo de ser benditas en él todas las gentes de la tierra?"
-"Porque yo lo he conocido, sé que mandará á sus hijos y á su casa después de sí, que guarden el camino de Jehová, haciendo justicia y juicio, para que haga venir Jehová sobre Abraham lo que ha hablado acerca de él."
+"Porque yo lo he conocido, sé que mandará á sus hijos y á su casa después de sí, que guarden el camino #de Jehová, haciendo justicia y juicio, para que haga venir Jehová sobre Abraham lo que ha hablado acerca de él."
 "Entonces Jehová le dijo
 "Descenderé ahora, y veré si han consumado su obra según el clamor que ha venido hasta mí; y si no, saberlo he."
 "Y apartáronse de allí los varones, y fueron hacia Sodoma

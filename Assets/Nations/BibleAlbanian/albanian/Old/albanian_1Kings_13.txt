@@ -30,5 +30,5 @@
 "E vendosi kufomën në varrin e tij; dhe filluan ta qajnë, duke thënë
 "Mbas varrimit, profeti plak u tha bijve të tij
 "Sepse me siguri do të vërtetohet fjala e thënë prej tij me urdhër të Zotit kundër altarit të Bethelit dhe kundër tërë shenjtërorëve të vendeve të larta në qytetet e Samarisë""."
-"Mbas kësaj ngjarjeje, Jeroboami nuk u tërhoq nga rruga e tij e keqe, por bëri priftërinj të tjerë për vendet e larta, duke i marrë nga çdo shtresë personash; kushdo që e dëshironte, shenjtërohej prej tij dhe bëhej prift i vendeve të larta."
+"Mbas kësaj ngjarjeje, Jeroboami nuk u tërhoq nga rruga e tij e keqe, por bëri priftërinj të tjerë për vendet e larta, #duke i marrë nga çdo shtresë personash; kushdo që e dëshironte, shenjtërohej prej tij dhe bëhej prift i vendeve të larta."
 "Ky qe mëkati i shtëpisë së Jeroboamit, që shkaktoi shkatërrimin e saj dhe shfarosjen e saj nga faqja e dheut."

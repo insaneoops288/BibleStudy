@@ -2,7 +2,7 @@
 "De a paráznaság miatt minden férfiúnak tulajdon felesége legyen, és minden asszonynak tulajdon férje."
 "A feleségének adja meg a férj a köteles jóakaratot; hasonlóképen a feleség is a férjének."
 "A feleség nem ura a maga testének, hanem a férje; hasonlóképen a férj sem ura a maga testének, hanem a felesége."
-"Ne foszszátok meg egymást, hanemha egyenlõ akaratból bizonyos ideig, hogy ráérjetek a bõjtölésre és az imádkozásra, azután ismét együvé térjetek, hogy a Sátán meg ne kísértsen titeket, mivelhogy magatokat meg nem tartóztathatjátok."
+"Ne foszszátok meg egymást, hanemha egyenlõ akaratból bizonyos ideig, hogy ráérjetek a bõjtölésre és az imádkozásra, azután #ismét együvé térjetek, hogy a Sátán meg ne kísértsen titeket, mivelhogy magatokat meg nem tartóztathatjátok."
 "Ezt pedig kedvezésképen mondom, nem parancsolat szerint."
 "Mert szeretném, ha minden ember úgy volna, mint én magam is; de kinek kinek tulajdon kegyelmi ajándéka vagyon Istentõl, egynek így, másnak pedig úgy."
 "Mondom pedig a nem házasoknak és az özvegyasszonyoknak, hogy jó nékik, ha úgy maradhatnak, mint én is."
@@ -31,7 +31,7 @@
 "És a kik élnek e világgal, mintha nem élnének
 "Azt akarnám pedig, hogy ti gond nélkül legyetek. A ki házasság nélkül van, arra visel gondot, a mi az Úré, mimódon kedveskedhessék az Úrnak;"
 "A ki pedig feleséget vett, a világiakra visel gondot, mimódon kedveskedhessék a feleségének."
-"Különbözik egymástól az asszony és a hajadon. A ki nem ment férjhez, az Úr dolgaira visel gondot, hogy szent legyen mind testében, mind lelkében; a ki pedig férjhez ment, a világiakra visel gondot, mimódon kedveskedhessék a férjének."
+"Különbözik egymástól az asszony és a hajadon. A ki nem ment férjhez, az Úr dolgaira visel gondot, hogy szent #legyen mind testében, mind lelkében; a ki pedig férjhez ment, a világiakra visel gondot, mimódon kedveskedhessék a férjének."
 "Ezt pedig a ti hasznotokra mondom; nem hogy tõrt vessek néktek, hanem hogy illendõképen és állhatatosan ragaszkodjatok az Úrhoz háboríthatatlanul."
 "De ha valaki szégyennek tartja az õ hajadon leányára, ha virágzó idejét múlja, és úgy kell történnie, a mit akar, azt cselekedje, nem vétkezik; menjenek férjhez."
 "A ki pedig szilárdan áll a szívében és a szükség nem kényszeríti, hatalma pedig van a tulajdon akarata fölött, és azt végezte el szívében, hogy megtartja hajadon leányát, jól cselekszi."

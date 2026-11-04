@@ -1,14 +1,14 @@
 "És te, embernek fia, prófétálj Izráel hegyei felõl, és mondjad
 "Így szól az Úr Isten
 "Ennekokáért prófétálj, és mondjad
-"Ezokáért, Izráel hegyei, halljátok meg az Úr Isten beszédét! Így szól az Úr Isten a hegyeknek és halmoknak, a mélységeknek és völgyeknek, és az elpusztult romoknak és az elhagyott városoknak, melyek ragadományra és csúfolásra lõnek a pogányok maradékának köröskörül."
+"Ezokáért, Izráel hegyei, halljátok meg az Úr Isten beszédét! Így szól az Úr Isten a hegyeknek és halmoknak, a mélységeknek #és völgyeknek, és az elpusztult romoknak és az elhagyott városoknak, melyek ragadományra és csúfolásra lõnek a pogányok maradékának köröskörül."
 "Azért ezt mondja az Úr Isten
 "Ezokáért prófétálj Izráel földjérõl, és mondjad a hegyeknek és halmoknak, a mélységeknek és a völgyeknek
 "Ennekokáért ezt mondja az Úr Isten
 "Ti pedig, Izráel hegyei, neveljétek ágaitokat és hozzátok gyümölcsötöket az én népemnek, Izráelnek, mert közel vannak, hogy hazajõjjenek."
 "Mert ímé, én hozzátok [hajlok] és hozzátok fordulok, és megmívelnek és bevetnek titeket."
 "És megsokasítom rajtatok az embereket, Izráel házát egészen, és lakják a városokat, és a romokat megépítik."
-"És megsokasítom rajtatok az embereket és barmokat, hogy sokasodjanak és szaporodjanak, és lakatom [õket] rajtatok, mint régi idõtökben, és több jóval lészek [hozzátok,] mint elsõ napjaitokban, s megtudjátok, hogy én vagyok az Úr."
+"És megsokasítom rajtatok az embereket és barmokat, hogy sokasodjanak és szaporodjanak, és lakatom [õket] rajtatok, mint régi #idõtökben, és több jóval lészek [hozzátok,] mint elsõ napjaitokban, s megtudjátok, hogy én vagyok az Úr."
 "És járatok rajtatok embereket, az én népemet, Izráelt, és bírjanak téged, s te légy nékik örökségül, s többé nem teszed õket gyermektelenné."
 "Így szól az Úr Isten
 "Ennekokáért embert nem eszel többé, és népedet gyermektelenné nem teszed többé, ezt mondja az Úr Isten."
@@ -20,7 +20,7 @@
 "És bemenvén a pogányokhoz, a kikhez menének, megfertéztették az én szent nevemet, mikor ezt mondták rólok
 "Ekkor könyörültem szent nevemért, melyet megfertéztetett Izráel háza a pogányok közt, a kikhez menének."
 "Ennekokáért mondjad Izráel házának
-"És megszentelem az én nagy nevemet, mely megfertéztetett a pogányok között, melyet ti fertéztettetek meg köztök; és megtudják a pogányok, hogy én vagyok az Úr, ezt mondja az Úr Isten, mikor megszentelem magamat rajtatok az õ szemök láttára."
+"És megszentelem az én nagy nevemet, mely megfertéztetett a pogányok között, melyet ti fertéztettetek meg köztök; és megtudják a pogányok, #hogy én vagyok az Úr, ezt mondja az Úr Isten, mikor megszentelem magamat rajtatok az õ szemök láttára."
 "És fölveszlek titeket a pogányok közül, s egybegyûjtelek titeket minden tartományból, és beviszlek titeket a ti földetekre."
 "És hintek reátok tiszta vizet, hogy megtisztuljatok, minden tisztátalanságtoktól és minden bálványaitoktól megtisztítlak titeket."
 "És adok néktek új szívet, és új lelket adok belétek, és elveszem a kõszívet testetekbõl, és adok néktek hússzívet."

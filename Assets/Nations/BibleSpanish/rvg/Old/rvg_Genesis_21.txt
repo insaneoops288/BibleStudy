@@ -11,7 +11,7 @@
 "Este dicho pareció grave en gran manera a Abraham a causa de su hijo."
 "Entonces dijo Dios a Abraham
 "Y también del hijo de la sierva haré una nación, porque es tu simiente."
-"Entonces Abraham se levantó muy de mañana, y tomó pan, y un odre de agua, y lo dio a Agar, poniéndolo sobre su hombro, y le entregó el muchacho, y la despidió. Y ella partió, y andaba errante por el desierto de Beerseba."
+"Entonces Abraham se levantó muy de mañana, y tomó pan, y un odre de agua, y lo dio a Agar, poniéndolo sobre #su hombro, y le entregó el muchacho, y la despidió. Y ella partió, y andaba errante por el desierto de Beerseba."
 "Y faltó el agua del odre, y echó al muchacho debajo de un árbol;"
 "Y se fue y se sentó enfrente, alejándose como a un tiro de arco; porque decía
 "Y oyó Dios la voz del muchacho; y el Ángel de Dios llamó a Agar desde el cielo, y le dijo

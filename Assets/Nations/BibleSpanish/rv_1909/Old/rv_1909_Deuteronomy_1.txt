@@ -4,7 +4,7 @@
 "Después que hirió á Sehón rey de los Amorrheos, que habitaba en Hesbón, y á Og rey de Basán, que habitaba en Astarot en Edrei
 "De esta parte del Jordán, en tierra de Moab, resolvió Moisés declarar esta ley, diciendo
 "Jehová nuestro Dios nos habló en Horeb, diciendo
-"Volveos, partíos é id al monte del Amorrheo, y á todas sus comarcas, en el llano, en el monte, y en los valles, y al mediodía, y á la costa de la mar, á la tierra del Cananeo, y el Líbano, hasta el gran río, el río Eufrates."
+"Volveos, partíos é id al monte del Amorrheo, y á todas sus comarcas, en el llano, en el monte, y en los valles, y al #mediodía, y á la costa de la mar, á la tierra del Cananeo, y el Líbano, hasta el gran río, el río Eufrates."
 "Mirad, yo he dado la tierra en vuestra presencia; entrad y poseed la tierra que Jehová juró á vuestros padres Abraham, Isaac, y Jacob, que les daría á ellos y á su simiente después de ellos."
 "Y yo os hablé entonces, diciendo
 "Jehová vuestro Dios os ha multiplicado, y he aquí sois hoy vosotros como las estrellas del cielo en multitud."
@@ -12,7 +12,7 @@
 "¿Cómo llevaré yo solo vuestras molestias, vuestras cargas, y vuestros pleitos?"
 "Dad me de entre vosotros, de vuestras tribus, varones sabios y entendidos y expertos, para que yo los ponga por vuestros jefes."
 "Y me respondisteis, y dijisteis
-"Y tomé los principales de vuestras tribus, varones sabios y expertos, y púselos por jefes sobre vosotros, jefes de millares, y jefes de cientos, y jefes de cincuenta, y cabos de diez, y gobernadores á vuestras tribus."
+"Y tomé los principales de vuestras tribus, varones sabios y expertos, y púselos por jefes sobre vosotros, jefes de #millares, y jefes de cientos, y jefes de cincuenta, y cabos de diez, y gobernadores á vuestras tribus."
 "Y entonces mandé á vuestros jueces, diciendo
 "No tengáis respeto de personas en el juicio
 "Os mandé, pues, en aquel tiempo todo lo que habíais de hacer."

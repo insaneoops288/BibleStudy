@@ -2,7 +2,7 @@
 "që të mos lëkundet askush në këto pikëllime, sepse ju e dini vetë se për këtë jemi caktuar."
 "Sepse, edhe kur ishim midis jush, ju parashikuam se do të heqim vështirësi, pikërisht sikurse ndodhi, dhe ju këtë e dini."
 "Për këtë arsye edhe unë, mbasi nuk rezistoja më, dërgova të marr vesh për besimin tuaj, se mos ju kishte tunduar tunduesi, dhe mundimi ynë të kishte shkuar kot."
-"Por tani që u kthye Timoteu prej jush dhe na solli lajme të mira për besimin dhe dashurinë tuaj, dhe se ju ruani gjithnjë një kujtim të mirë për ne dhe keni mall të madh që të na shihni, sikurse edhe ne t'ju shohim juve,"
+"Por tani që u kthye Timoteu prej jush dhe na solli lajme të mira për besimin dhe dashurinë tuaj, dhe se ju ruani #gjithnjë një kujtim të mirë për ne dhe keni mall të madh që të na shihni, sikurse edhe ne t'ju shohim juve,"
 "prandaj, o vëllezër, ne u ngushëlluam për ju, me gjithë pikëllimin dhe vuajtjet tona, për hir të besimit tuaj,"
 "sepse tani rrojmë me të vërtetë, në qoftë se ju qëndroni të patundur në Zotin."
 "Sepse çfarë falënderimi mund t'i drejtojmë Perëndisë për ju, për gjithë gëzimin që ndiejmë për shkakun tuaj përpara Perëndisë sonë,"

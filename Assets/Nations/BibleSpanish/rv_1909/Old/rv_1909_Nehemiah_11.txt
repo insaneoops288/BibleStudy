@@ -1,6 +1,6 @@
 "Y HABITARON los príncipes del pueblo en Jerusalem; mas el resto del pueblo echó suertes para traer uno de diez que morase en Jerusalem, ciudad santa, y las nueve partes en las otras ciudades."
 "Y bendijo el pueblo á todos los varones que voluntariamente se ofrecieron á morar en Jerusalem."
-"Y estos son los principales de la provincia que moraron en Jerusalem; mas en las ciudades de Judá habitaron cada uno en su posesión en sus ciudades, de Israel, de los sacerdotes, y Levitas, y Nethineos, y de los hijos de los siervos de Salomón."
+"Y estos son los principales de la provincia que moraron en Jerusalem; mas en las ciudades de Judá habitaron cada uno en su #posesión en sus ciudades, de Israel, de los sacerdotes, y Levitas, y Nethineos, y de los hijos de los siervos de Salomón."
 "En Jerusalem pues habitaron de los hijos de Judá, y de los hijos de Benjamín. De los hijos de Judá
 "Y Maasías hijo de Baruch, hijo de Colhoze, hijo de Hazaías, hijo de Adaías, hijo de Joiarib, hijo de Zacarías, hijo de Siloni."
 "Todos los hijos de Phares que moraron en Jerusalem, fueron cuatrocientos setenta y ocho hombres fuertes."
@@ -14,7 +14,7 @@
 "Y sus hermanos, hombres de grande vigor, ciento veintiocho
 "Y de los Levitas
 "Y Sabethai y Jozabad, de los principales de los Levitas, sobrestantes de la obra exterior de la casa de Dios;"
-"Y Mattanías hijo de Michâ, hijo de Zabdi, hijo de Asaph, el principal, el que empezaba las alabanzas y acción de gracias al tiempo de la oración; y Bacbucías el segundo de entre sus hermanos; y Abda hijo de Samua, hijo de Galal, hijo de Jeduthún."
+"Y Mattanías hijo de Michâ, hijo de Zabdi, hijo de Asaph, el principal, el que empezaba las alabanzas y acción de gracias al tiempo #de la oración; y Bacbucías el segundo de entre sus hermanos; y Abda hijo de Samua, hijo de Galal, hijo de Jeduthún."
 "Todos los Levitas en la santa ciudad fueron doscientos ochenta y cuatro."
 "Y los porteros, Accub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos."
 "Y el resto de Israel, de los sacerdotes, de los Levitas, en todas las ciudades de Judá, cada uno en su heredad."

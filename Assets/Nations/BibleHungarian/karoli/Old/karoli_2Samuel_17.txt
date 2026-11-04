@@ -14,7 +14,7 @@
 "És monda Absolon és Izráelnek minden férfia
 "Monda pedig Khúsai Sádók és Abjátár papoknak
 "Azért sietve küldjetek el, és izenjétek meg Dávidnak ilyen szóval
-"Jonathán pedig és Akhimás a Rógel forrásánál állanak vala, a hová méne egy leányzó, ki megmondá [ezeket] nékik, és õk elmenvén, megmondák Dávid királynak, mert nem akarják vala magokat megmutatni, bemenvén a városba."
+"Jonathán pedig és Akhimás a Rógel forrásánál állanak vala, a hová méne egy leányzó, ki megmondá [ezeket] #nékik, és õk elmenvén, megmondák Dávid királynak, mert nem akarják vala magokat megmutatni, bemenvén a városba."
 "Meglátá mindazáltal õket egy szolga, és megmondá Absolonnak
 "Az asszony pedig egy terítõt võn és beteríté a kút száját, arra pedig darált árpát hintett; és nem vevék észre."
 "Menének pedig az Absolon szolgái az asszonyhoz a házba, és mondának
@@ -22,8 +22,8 @@
 "Felkele azért Dávid és mind a vele való nép, és általkelének a Jordánon, míg megvirrada; egy sem hiányzék, a ki által nem ment volna a Jordánon."
 "Látván pedig Akhitófel, hogy az õ tanácsát nem hajtották végre
 "És midõn Dávid Mahanáimba érkezett, átkele Absolon a Jordánon, õ és Izráelnek férfiai mindnyájan õ vele."
-"És Amasát tevé Absolon fõvezérré a sereg felett Joáb helyett. Amasa pedig egy férfi fia vala, a kinek a neve az Izráelita Jithra vala, a ki beméne Abigailhoz, a Náhás leányához, ki Sérujának, a Joáb anyjának nõvére vala."
+"És Amasát tevé Absolon fõvezérré a sereg felett Joáb helyett. Amasa pedig egy férfi fia vala, a kinek a neve #az Izráelita Jithra vala, a ki beméne Abigailhoz, a Náhás leányához, ki Sérujának, a Joáb anyjának nõvére vala."
 "És tábort jára Izráel és Absolon a Gileád földén."
-"Lõn pedig, hogy mikor Dávid Mahanáimba jutott, ímé Sóbi, az Ammoniták [városából], Rabbából való Náhásnak fia, és a Ló- Debár [városból] való Ammielnek fia, Mákir, és a Gileád [tartományában,] Rógelimban lakozó Barzillai."
+"Lõn pedig, hogy mikor Dávid Mahanáimba jutott, ímé Sóbi, az Ammoniták [városából], Rabbából való Náhásnak fia, és #a Ló- Debár [városból] való Ammielnek fia, Mákir, és a Gileád [tartományában,] Rógelimban lakozó Barzillai."
 "Ágynemût, medenczéket és cserépedényeket, búzát, árpát, lisztet, pergelt búzát, babot, lencsét, pergelt [árpát,]"
 "Mézet, vajat, juhot, ünõsajtokat hozának Dávidnak és az õ vele való népnek eleségül. Mert azt gondolják vala magokban

@@ -11,6 +11,6 @@ When the cloud went away from over the tent, Miriam had become leprous, as white
 Then Aaron said to Moses, "Oh, my lord, do not punish us for a sin that we have so foolishly committed.
 Do not let her be like one stillborn, whose flesh is half consumed when it comes out of its mother's womb."
 And Moses cried to the LORD, "O God, please heal her."
-But the LORD said to Moses, "If her father had but spit in her face, would she not bear her shame for seven days? Let her be shut out of the camp for seven days, and after that she may be brought in again."
+But the LORD said to Moses, "If her father had but spit in her face, would she not bear her shame for seven #days? Let her be shut out of the camp for seven days, and after that she may be brought in again."
 So Miriam was shut out of the camp for seven days; and the people did not set out on the march until Miriam had been brought in again.
 After that the people set out from Hazeroth, and camped in the wilderness of Paran.

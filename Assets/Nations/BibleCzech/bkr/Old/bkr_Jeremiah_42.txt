@@ -14,7 +14,7 @@
 "A říkajíce
 "Protož nyní slyštež slovo Hospodinovo, ostatkové Judští
 "Jistě stane se to, že meč, kteréhož se bojíte, tam v zemi Egyptské vás postihne, a hlad, jehož se obáváte, přijde na vás v Egyptě, a tam pomřete."
-"Tak se stane všechněm těm mužům, kteříž uložili předce jíti do Egypta, aby tam byli pohostinu, že zhynou mečem, hladem a morem, a nezůstane z nich žádného, aniž kdo znikne toho zlého, kteréž já uvedu na ně."
+"Tak se stane všechněm těm mužům, kteříž uložili předce jíti do Egypta, aby tam byli pohostinu, že zhynou mečem, #hladem a morem, a nezůstane z nich žádného, aniž kdo znikne toho zlého, kteréž já uvedu na ně."
 "Nebo takto praví Hospodin zástupů, Bůh Izraelský
 "K vámť mluví Hospodin, ó ostatkové Judští
 "Poněvadž jste se neupřímě ke mně měli v myšleních svých, poslavše mne k Hospodinu Bohu vašemu, řkouce

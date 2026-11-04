@@ -15,10 +15,10 @@
 "Naliczycie także sobie od dnia pierwszego po sabacie, od dnia, któregoście ofiarowali snop podnoszenia, siedem tygodni zupełnych niech będzie."
 "Aż do pierwszego dnia po siódmym tygodniu naliczycie pięćdziesiąt dni; tedy ofiarować będziecie ofiarę śniedną nową Panu."
 "Z domów waszych przyniesiecie chleby na obracanie tam i sam; dwa chleby, ze dwu dziesiątych części pszennej mąki z kwasem upieczone będą; pierwiastki to Panu."
-"A ofiarować z tym chlebem będziecie siedem baranków rocznych zupełnych, i cielca jednego, i dwu baranów; na ofiarę całopalenia będą Panu z ofiarą śniedną ich i z mokremi ofiarami ich; ofiara to ognista na wdzięczną wonność Panu."
+"A ofiarować z tym chlebem będziecie siedem baranków rocznych zupełnych, i cielca jednego, i dwu baranów; na ofiarę całopalenia #będą Panu z ofiarą śniedną ich i z mokremi ofiarami ich; ofiara to ognista na wdzięczną wonność Panu."
 "Zabijecie też kozła jednego za grzech, i dwa baranki roczne na ofiarę spokojną."
 "I będzie je obracał tam i sam kapłan z chlebem pierwiastek na ofiarę sam i tam obracania przed obliczem Pańskiem, i ze dwiema barankami; i będą święte rzeczy Panu dla kapłana."
-"I ogłosicie w ten dzień święto; zgromadzenie święte mieć będziecie; żadnej roboty służebniczej czynić nie będziecie; ustawa to będzie wieczna we wszystkich mieszkaniach waszych, w narodziech waszych."
+"I ogłosicie w ten dzień święto; zgromadzenie święte mieć będziecie; żadnej roboty służebniczej czynić #nie będziecie; ustawa to będzie wieczna we wszystkich mieszkaniach waszych, w narodziech waszych."
 "A gdy żąć będziecie zboże ziemi waszej, nie będziesz do końca pola twego dożynał, i kłosów pozostałych żniwa twego zbierać nie będziesz
 "Zatem rzekł Pan do Mojżesza, mówiąc
 "Powiedz synom Izraelskim, mówiąc
@@ -33,11 +33,11 @@
 "Rzekł zaś Pan do Mojżesza, mówiąc
 "Powiedz synom Izraelskim, i rzecz
 "Dnia pierwszego zgromadzenie święte będzie; żadnej roboty służebniczej czynić nie będziecie."
-"Przez siedem dni ofiarować będziecie ofiarę ognistą Panu; dnia ósmego zgromadzenie święte mieć będziecie, a będziecie ofiarowali ofiarę ognistą Panu; święto jest, żadnej roboty służebniczej nie będziecie czynili."
-"Teć są święta uroczyste Pańskie, które obchodzić będziecie, zgromadzenia święte, abyście ofiarowali ofiarę ognistą Panu, całopalenie, i ofiarę śniedną, i ofiarę spokojną i ofiary mokre, każdą w dzień swój."
+"Przez siedem dni ofiarować będziecie ofiarę ognistą Panu; dnia ósmego zgromadzenie święte mieć będziecie, a #będziecie ofiarowali ofiarę ognistą Panu; święto jest, żadnej roboty służebniczej nie będziecie czynili."
+"Teć są święta uroczyste Pańskie, które obchodzić będziecie, zgromadzenia święte, abyście ofiarowali ofiarę ognistą Panu, #całopalenie, i ofiarę śniedną, i ofiarę spokojną i ofiary mokre, każdą w dzień swój."
 "Oprócz sabatów Pańskich, i oprócz darów waszych, i oprócz wszystkich ślubów waszych, i oprócz wszystkich dobrowolnych podarków waszych, które oddawać będziecie Panu."
 "Wszakże piętnastego dnia miesiąca siódmego, gdy zbierzecie urodzaj ziemi, będziecie obchodzili święto Panu przez siedem dni; dnia pierwszego odpocznienie, także dnia ósmego odpocznienie będzie."
-"Tedy weźmiecie sobie pierwszego dnia owocu z drzewa co najpiękniejszego, i gałązek palmowych, i gałązek drzewa gęstego, i wierzbiny od potoku, i weselić się będziecie przed Panem Bogiem waszym przez siedem dni."
+"Tedy weźmiecie sobie pierwszego dnia owocu z drzewa co najpiękniejszego, i gałązek palmowych, i gałązek drzewa gęstego, #i wierzbiny od potoku, i weselić się będziecie przed Panem Bogiem waszym przez siedem dni."
 "A obchodzić będziecie to święto Panu przez siedem dni na każdy rok. Ustawa to wieczna w narodziech waszych; każdego miesiąca siódmego obchodzić je będziecie."
 "W kuczkach mieszkać będziecie przez siedem dni; każdy zrodzony w Izraelu mieszkać będzie w kuczkach,"
 "Aby wiedzieli potomkowie wasi, iżem w namiotach kazał mieszkać synom Izraelskim, gdym je wywiódł z ziemi Egipskiej; Ja Pan, Bóg wasz."

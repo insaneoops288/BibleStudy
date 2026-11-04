@@ -10,10 +10,10 @@
 "Ang bumaba ay siya rin namang umakyat sa kaitaasan ng buong sangkalangitan, upang kaniyang mapuspos ang lahat ng mga bagay.)"
 "At pinagkalooban niya ang mga iba na maging mga apostol; at ang mga iba'y propeta; at ang mga iba'y evangelista; at ang mga iba'y pastor at mga guro;"
 "Sa ikasasakdal ng mga banal, sa gawaing paglilingkod sa ikatitibay ng katawan ni Cristo
-"Hanggang sa abutin nating lahat ang pagkakaisa ng pananampalataya, at ang pagkakilala sa Anak ng Dios, hanggang sa lubos na paglaki ng tao, hanggang sa sukat ng pangangatawan ng kapuspusan ni Cristo
-"Upang tayo'y huwag nang maging mga bata pa, na napapahapay dito't doon at dinadala sa magkabikabila ng lahat na hangin ng aral, sa pamamagitan ng mga daya ng mga tao, sa katusuhan, ayon sa mga lalang ng kamalian;"
+"Hanggang sa abutin nating lahat ang pagkakaisa ng pananampalataya, at ang pagkakilala sa Anak ng Dios, hanggang #sa lubos na paglaki ng tao, hanggang sa sukat ng pangangatawan ng kapuspusan ni Cristo
+"Upang tayo'y huwag nang maging mga bata pa, na napapahapay dito't doon at dinadala sa magkabikabila ng lahat na hangin #ng aral, sa pamamagitan ng mga daya ng mga tao, sa katusuhan, ayon sa mga lalang ng kamalian;"
 "Kundi sa pagsasalita ng katotohanan na may pagibig, ay mangagsilaki sa lahat ng mga bagay sa kaniya, na siyang pangulo, sa makatuwid baga'y si Cristo;"
-"Na dahil sa kaniya'y ang buong katawan na nakalapat na mabuti at nagkakalakip sa pamamagitan ng tulong ng bawa't kasukasuan, ayon sa paggawang nauukol sa bawa't iba't ibang sangkap, ay nagpapalaki sa katawan sa ikatitibay ng kaniyang sarili sa pagibig."
+"Na dahil sa kaniya'y ang buong katawan na nakalapat na mabuti at nagkakalakip sa pamamagitan ng tulong ng bawa't kasukasuan, ayon #sa paggawang nauukol sa bawa't iba't ibang sangkap, ay nagpapalaki sa katawan sa ikatitibay ng kaniyang sarili sa pagibig."
 "Ito nga ang sinasabi ko, at sinasaksihan sa Panginoon, na kayo'y hindi na nagsisilakad pa na gaya naman ng lakad ng mga Gentil, sa pagpapalalo sa kanilang pagiisip,"
 "Na sa kadiliman ng kanilang pagiisip, ay nangahiwalay sa buhay ng Dios, dahil sa kahangalang nasa kanila, dahil sa pagmamatigas ng kanilang puso;"
 "Na sila sa di pagkaramdam ng kahihiyan ay napahikayat sa kalibugan, upang kalakalin ang lahat ng karumihan ng buong kasakiman."

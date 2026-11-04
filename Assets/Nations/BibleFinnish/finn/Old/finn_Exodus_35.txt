@@ -19,7 +19,7 @@
 "Virkavaatteet pyhän palvelukseen
 "Silloin meni koko Israelin lasten seurakunta ulos Moseksen kasvoin edestä."
 "Ja tuli jokainen, jonka sydän kehoitettiin, ja jolla oli hyvänsuopainen henki, ja toivat ylennysuhrin Herralle, seurakunnan majan tarpeeksi, ja kaikkeen sen palvelukseen, ja pyhiin vaatteisiin."
-"Ja tulivat sekä miehet että vaimot, kaikki, joilla oli hyvänsuopainen sydän, ja toivat rannerenkaita, korvarenkaita, sormuksia ja solkia, ja kaikkinaisia kultaisia astioita; toi myös joka mies kultaa häälytysuhriksi Herralle."
+"Ja tulivat sekä miehet että vaimot, kaikki, joilla oli hyvänsuopainen sydän, ja toivat rannerenkaita, korvarenkaita, #sormuksia ja solkia, ja kaikkinaisia kultaisia astioita; toi myös joka mies kultaa häälytysuhriksi Herralle."
 "Ja jokainen toi, joka tyköänsä löysi sinisiä, ja purpuraisia, ja tulipunaisia villoja, ja kallista liinaa, ja vuohenkarvoja, punalla painetuita oinaan nahkoja, ja tekasjim-nahkoja."
 "Jokainen joka hopiaa ja vaskea ylensi, hän sen toi ylennysuhriksi Herralle. Ja jokainen, joka tyköänsä löysi sittimipuita, hän toi niitä kaikkinaiseksi Jumalan palveluksen tarpeeksi."
 "Ja kaikki taitavat vaimot kehräsivät käsillänsä, ja toivat kehräyksensä sinisistä, ja purpuraisista ja tulipunaisista villoista, ja kalliista liinasta."
@@ -32,4 +32,4 @@
 "Ja taitavasti ylösajattelemaan sitä, mitä tehdä taidetaan kullasta, hopiasta ja vaskesta,"
 "Taitavasti kaivamaan ja sisälle kiinnittämään kalliita kiviä, veistämään puita, ja tekemään taitavasti kaikkinaista visua työtä;"
 "Ja on antanut taidon hänen sydämeensä opettaa
-"Ja on täyttänyt heidän sydämensä taidolla, tekemään kaikkinaista visua työtä, kaivamaan, kutomaan ja neulomaan sinisiä, ja purpuraisia ja tulipunaisia villoja, ja kallista liinaa, niin että he tekevät ja ylösajattelevat kaikkinaisia, taitavasti."
+"Ja on täyttänyt heidän sydämensä taidolla, tekemään kaikkinaista visua työtä, kaivamaan, kutomaan ja neulomaan sinisiä, ja #purpuraisia ja tulipunaisia villoja, ja kallista liinaa, niin että he tekevät ja ylösajattelevat kaikkinaisia, taitavasti."

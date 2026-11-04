@@ -6,7 +6,7 @@
 "En die dienaar, die opsigter oor die snyers, antwoord en sê
 "en sy het gesê
 "Toe sê Boas vir Rut
-"Met die oë op die land wat hulle afsny, moet jy agter hulle aan loop. Het ek die dienaars nie bevel gegee om jou nie aan te raak nie? En as jy dors het, gaan dan na die kanne en drink van wat die dienaars skep."
+"Met die oë op die land wat hulle afsny, moet jy agter hulle aan loop. Het ek die dienaars nie bevel gegee om jou #nie aan te raak nie? En as jy dors het, gaan dan na die kanne en drink van wat die dienaars skep."
 "Toe val sy op haar aangesig en buig na die aarde toe en sê vir hom
 "En Boas antwoord en sê vir haar
 "Mag die HERE jou daad vergelde, en mag jou loon volkome wees van die HERE, die God van Israel, onder wie se vleuels jy kom skuil het."

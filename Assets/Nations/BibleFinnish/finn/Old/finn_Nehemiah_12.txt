@@ -24,7 +24,7 @@
 "Ja Leviläisten päämiehet
 "Mattania, Bakbukia, Obadia, Mesullam, Talmon ja Akkub olivat ovenvartiat, tavaraporttein vartioitsemisessa."
 "Nämät olivat Jojakimin Jesuan pojan Jotsadakin pojan aikana, ja Nehemian maanvanhimman, ja Esran papin, kirjanoppineen, aikana."
-"Ja Jerusalemin muurin vihkimiselle etsivät he Leviläisiä kaikista heidän paikoistansa, tuodaksensa heitä Jerusalemiin pitämään vihkimistä ilolla, kiitoksella, virsillä, symbaleilla, psalmeilla ja harpuilla."
+"Ja Jerusalemin muurin vihkimiselle etsivät he Leviläisiä kaikista heidän paikoistansa, tuodaksensa heitä #Jerusalemiin pitämään vihkimistä ilolla, kiitoksella, virsillä, symbaleilla, psalmeilla ja harpuilla."
 "Ja veisaajain lapset tulivat kokoon Jerusalemin ympäristöltä ja Netophatin kylistä,"
 "Ja Gilgalin huoneesta, ja Gibean ja Asmavetin pelloilta; sillä veisaajat olivat rakentaneet itsellensä taloja Jerusalemin ympärillä."
 "Ja papit ja Leviläiset puhdistivat itsensä
@@ -41,7 +41,7 @@
 "Ja papit Eliakim, Maeseja, Minjamin, Mikaja, Eljoenai, Sakaria, Hanania olivat vaskitorvein kanssa,"
 "Ja Maeseja, Semaja, Eleatsar, Ussi, Johanan, Malkia, Elam ja Asar. Ja veisaajat veisasivat korkiasti, ja Jisrahia oli esimiehenä."
 "Ja he uhrasivat sinä päivänä suuret uhrit, ja olivat iloiset; sillä Jumala oli heitä iloittanut suurella ilolla, että myös vaimot ja lapsetkin iloitsivat, ja Jerusalemin ilo kuului kauvas."
-"Siihen aikaan asetettiin miehet tavarakammioin päälle, joissa ylennykset, ensimäiset hedelmät ja kymmenykset olivat, joita heidän piti kokooman kaupunkein pelloista, papeille ja Leviläisille jaettaa lain jälkeen; sillä Juudalaisilla oli ilo papeista ja Leviläisistä, jotka seisoivat."
+"Siihen aikaan asetettiin miehet tavarakammioin päälle, joissa ylennykset, ensimäiset hedelmät ja kymmenykset olivat, joita heidän piti kokooman kaupunkein #pelloista, papeille ja Leviläisille jaettaa lain jälkeen; sillä Juudalaisilla oli ilo papeista ja Leviläisistä, jotka seisoivat."
 "Ja he pitivät vaarin Jumalan vartiosta ja puhdistuksen vartiosta, niin myös veisaajista ja ovenvartioista, Davidin ja Salomon hänen poikansa käskyn jälkeen,"
 "Sillä Davidin ja Asaphin aikana olivat muinen asetetut ylimmäiset veisaajat, ja kiitosvirret ja kiitokset Jumalalle."
 "Mutta koko Israel antoi veisaajille ja ovenvartioille osan, Serubbabelin ja Nehemian aikana, joka päivä heidän osansa; ja pyhittivät sen Leviläisille, ja Leviläiset pyhittivät Aaronin lapsille."

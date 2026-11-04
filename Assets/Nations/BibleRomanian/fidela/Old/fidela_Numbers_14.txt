@@ -6,16 +6,16 @@
 "Și Iosua, fiul lui Nun, și Caleb, fiul lui Iefune, [care erau] dintre cei ce au cercetat țara și-au rupt hainele,"
 "Și au vorbit întregii adunări a copiilor lui Israel, spunând
 "Dacă DOMNUL va găsi plăcere în noi, atunci ne va aduce în această țară și ne-o va da; o țară în care curge lapte și miere."
-"Numai să nu vă răzvrătiți împotriva DOMNULUI, nici să nu vă temeți de poporul țării; căci ei [sunt] pâine pentru noi, apărarea lor s-a depărtat de la ei și DOMNUL [este] cu noi; să nu vă temeți de ei."
+"Numai să nu vă răzvrătiți împotriva DOMNULUI, nici să nu vă temeți de poporul țării; căci ei [sunt] pâine pentru #noi, apărarea lor s-a depărtat de la ei și DOMNUL [este] cu noi; să nu vă temeți de ei."
 "Dar toată adunarea a cerut să îi ucidă cu pietre. Și gloria DOMNULUI a apărut în tabernacolul întâlnirii înaintea tuturor copiilor lui Israel."
 "Și DOMNUL i-a spus lui Moise
 "Îi voi lovi cu ciumă și îi voi dezmoșteni și voi face din tine o națiune mai mare și mai tare decât ei."
 "Și Moise a spus DOMNULUI
-"Și [o] vor spune locuitorilor acestei țări, [pentru că] ei au auzit că tu, DOMNUL, [ești] în mijlocul acestui popor, că tu DOMNUL ești văzut față în față și [că] norul tău stă deasupra lor și [că] mergi înaintea lor, ziua într-un stâlp de nor și noaptea într-un stâlp de foc."
+"Și [o] vor spune locuitorilor acestei țări, [pentru că] ei au auzit că tu, DOMNUL, [ești] în mijlocul acestui popor, că tu DOMNUL ești văzut față #în față și [că] norul tău stă deasupra lor și [că] mergi înaintea lor, ziua într-un stâlp de nor și noaptea într-un stâlp de foc."
 "Acum [dacă] o să ucizi [tot] poporul acesta ca pe un singur om, atunci națiunile care au auzit de faima ta vor vorbi, spunând
 "Pentru că DOMNUL nu a fost în stare să ducă acest popor în țara pe care le-a jurat-o, de aceea i-a ucis în pustiu."
 "Și acum, te implor, să fie puterea Domnului meu mare, conform cu ceea ce ai vorbit, spunând
-"DOMNUL [este] îndelung răbdător și bogat în milă, iertând nelegiuirea și fărădelegea și în niciun fel dezvinovățind [pe vinovat], pedepsind nelegiuirea părinților peste copii până la a treia și a patra [generație]."
+"DOMNUL [este] îndelung răbdător și bogat în milă, iertând nelegiuirea și fărădelegea și în niciun fel dezvinovățind #[pe vinovat], pedepsind nelegiuirea părinților peste copii până la a treia și a patra [generație]."
 "Iartă, te implor, nelegiuirea acestui popor conform măreției milei tale și precum ai iertat acest popor, din Egipt până acum."
 "Și DOMNUL a spus
 "Dar [pe cât] este de adevărat [că] eu trăiesc, tot pământul va fi umplut cu gloria DOMNULUI."
@@ -31,7 +31,7 @@
 "Dar micuții voștri, [despre] care ați spus că vor fi o pradă, pe ei îi voi duce înăuntru și vor cunoaște țara pe care ați disprețuit-o."
 "Dar [cât despre] voi, trupurile voastre moarte vor cădea în acest pustiu."
 "Și copiii voștri vor rătăci în pustiu patruzeci de ani și vor purta curviile voastre, până ce trupurile voastre moarte vor fi risipite în pustiu."
-"După numărul zilelor în care ați cercetat țara, [adică] patruzeci de zile, fiecare zi pentru un an, veți purta nelegiuirile voastre, [adică] patruzeci de ani și veți cunoaște cum îmi rup promisiunea."
+"După numărul zilelor în care ați cercetat țara, [adică] patruzeci de zile, fiecare zi pentru un an, #veți purta nelegiuirile voastre, [adică] patruzeci de ani și veți cunoaște cum îmi rup promisiunea."
 "Eu DOMNUL am spus
 "Și bărbații, pe care Moise i-a trimis să cerceteze țara, care s-au întors și au făcut întreaga adunare să cârtească împotriva lui, aducând defăimare asupra țării,"
 "Chiar acei bărbați care au adus raportul rău despre țară, au murit printr-o plagă înaintea DOMNULUI."

@@ -13,7 +13,7 @@
 "Não lhe tocará mão, mas será apedrejado ou flechado; seja animal ou seja homem, não viverá. Em havendo soado longamente a trombeta, subirão ao monte."
 "E desceu Moisés do monte ao povo, e santificou ao povo; e lavaram suas roupas."
 "E disse ao povo
-"E aconteceu ao terceiro dia quando veio a manhã, que vieram trovões e relâmpagos, e espessa nuvem sobre o monte, e som de trombeta muito forte; e estremeceu-se todo o povo que estava no acampamento."
+"E aconteceu ao terceiro dia quando veio a manhã, que vieram trovões e relâmpagos, e espessa nuvem sobre #o monte, e som de trombeta muito forte; e estremeceu-se todo o povo que estava no acampamento."
 "E Moisés tirou do acampamento ao povo a receber a Deus; e puseram-se ao abaixo do monte."
 "E todo o monte de Sinai fumegava, porque o SENHOR havia descido sobre ele em fogo
 "E o som da trombeta ia fortalecendo-se em extremo

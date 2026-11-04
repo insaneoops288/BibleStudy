@@ -39,5 +39,5 @@
 "dhe priftin Tsadok dhe priftërinjtë vëllezër të tij përpara tabernakullit të Zotit, në vendin e lartë që ishte në Gabaon,"
 "me qëllim që ata t'i ofronin Zotit olokauste mbi altarin e olokausteve, vazhdimisht në mëngjes e në mbrëmje, sipas tërë atyre që janë shkruar në ligjin e Zotit, që ai ia kishte imponuar Izraelit."
 "Dhe me ta ishin Hemani, Jeduthuni dhe të tjerët që ishin zgjedhur dhe caktuar me emër për të lëvduar Zotin, sepse mirësia e tij është e përjetshme."
-"Me ta ishin gjithashtu Hemani dhe Jeduthuni me bori dhe cembale, për ata që do t'u binin veglave, dhe me vegla muzikore për të shoqëruar këngët e Perëndisë. Bijtë e Jeduthunit duhet të rrinin te porta."
+"Me ta ishin gjithashtu Hemani dhe Jeduthuni me bori dhe cembale, për ata që do t'u binin veglave, dhe #me vegla muzikore për të shoqëruar këngët e Perëndisë. Bijtë e Jeduthunit duhet të rrinin te porta."
 "Më në fund tërë populli u kthye, secili në shtëpinë e vet, dhe Davidi u kthye për të bekuar shtëpinë e vet."

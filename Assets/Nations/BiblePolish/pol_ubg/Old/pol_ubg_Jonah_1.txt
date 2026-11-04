@@ -1,8 +1,8 @@
 "Słowo PANA doszło do Jonasza, syna Amittaja, mówiące
 "Wstań, idź do Niniwy, tego wielkiego miasta, i wołaj przeciwko niej, bo jej niegodziwość wzniosła się przed moje oblicze."
-"Ale Jonasz wstał, aby uciec do Tarszisz sprzed oblicza PANA, i przybył do Jafy. Znalazł okręt, który płynął do Tarszisz, zapłacił za przejazd i wsiadł na niego, aby płynąć z nimi do Tarszisz i uciec sprzed oblicza PANA."
+"Ale Jonasz wstał, aby uciec do Tarszisz sprzed oblicza PANA, i przybył do Jafy. Znalazł okręt, który płynął do Tarszisz, #zapłacił za przejazd i wsiadł na niego, aby płynąć z nimi do Tarszisz i uciec sprzed oblicza PANA."
 "Lecz PAN zesłał gwałtowny wiatr na morze i powstała potężna burza na morzu, tak że zdawało się, że okręt się rozbije."
-"A żeglarze przestraszyli się i każdy z nich wołał do swego boga, a wyrzucali do morza ładunek, który był na okręcie, aby ten był lżejszy. Ale Jonasz zszedł wcześniej na niższy pokład okrętu, położył się i twardo zasnął."
+"A żeglarze przestraszyli się i każdy z nich wołał do swego boga, a wyrzucali do morza ładunek, który był na #okręcie, aby ten był lżejszy. Ale Jonasz zszedł wcześniej na niższy pokład okrętu, położył się i twardo zasnął."
 "Przyszedł więc do niego sternik i zapytał go
 "Wtedy powiedzieli jeden do drugiego
 "I powiedzieli do niego

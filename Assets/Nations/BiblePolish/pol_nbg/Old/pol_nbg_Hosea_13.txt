@@ -12,4 +12,4 @@
 "Zebranesą winy Efraima i przechowane jego grzechy!"
 "Już go ogarniają bóle rodzącej! O, niemądre dziecko! Nadszedł czas, lecz go nie starcza do porodu."
 "Czy mam ich wykupić z mocy grobu? Wybawić od śmierci? Gdzie twoje zarazy, o śmierci! Gdzie twoje dżumy, Kraino Umarłych? Litość skryje się przed Moimi oczami."
-"Choćby wśród bujnych niw się rozkwitał nadejdzie wschodni wiatr, wicher WIEKUISTEGO, który się zrywa od puszczy. Wsiąknie jego źródło, wyschnie jego zdrój; tak wydrze mu skarbiec wszystkich cennych rzeczy."
+"Choćby wśród bujnych niw się rozkwitał nadejdzie wschodni wiatr, wicher WIEKUISTEGO, który się zrywa od #puszczy. Wsiąknie jego źródło, wyschnie jego zdrój; tak wydrze mu skarbiec wszystkich cennych rzeczy."

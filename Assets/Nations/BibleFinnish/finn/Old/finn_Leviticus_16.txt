@@ -1,7 +1,7 @@
 "Ja Herra puhui Mosekselle, sittekuin ne kaksi Aaronin poikaa kuolleet olivat; sillä uhratessansa Herran edessä kuolivat he."
 "Ja Herra sanoi Mosekselle
 "Mutta näiden kanssa pitää Aaronin käymän pyhään sisälle
-"Ja pitää pukeman pyhän liinahameen yllensä ja liinaisen alusvaatteen ihonsa päälle, ja vyöttämään itsensä liinaisella vyöllä, ja paneman liinahiipan päähänsä; sillä ne ovat pyhät vaatteet, ja pitää viruttaman ihonsa vedellä, ja ne pukeman päällensä."
+"Ja pitää pukeman pyhän liinahameen yllensä ja liinaisen alusvaatteen ihonsa päälle, ja vyöttämään itsensä liinaisella vyöllä, ja paneman #liinahiipan päähänsä; sillä ne ovat pyhät vaatteet, ja pitää viruttaman ihonsa vedellä, ja ne pukeman päällensä."
 "Ja pitää ottaman Israelin lasten joukolta kaksi kaurista rikosuhriksi ja yhden oinaan polttouhriksi."
 "Ja Aaronin pitää tuoman mullin rikosuhriksensa ja sovittaman itsensä huoneinensa,"
 "Ja sitte ottaman ne kaksi kaurista asettaaksensa Herran eteen, seurakunnan majan ovella."
@@ -12,13 +12,13 @@
 "Ja ottaman astian täynnänsä tulisia hiiliä alttarilta, joka on Herran edessä, ja pivonsa täyden survottua Pyhää savua ja kantaman sisälliselle puolen esirippua,"
 "Ja paneman sitä tulen päälle Herran eteen, niin että pyhän savun suitsu armo-istuimen peittäis, joka on todistuksen päällä, ettei hän kuolisi,"
 "Ja ottaman mullin verta, priiskottaaksensa sormellansa armo-istuimen puoleen, etiselle puolelle itään päin
-"Sitte pitää hänen teurastaman kansan rikosuhrin kauriin ja kantaman hänen verestänsä esiripun sisälliselle puolelle, ja pitää tekemän sen veren kanssa, niinkuin hän teki mullin veren kanssa, ja priiskottaman sitä armo-istuimen päälle, ja armo-istuimen edessä,"
+"Sitte pitää hänen teurastaman kansan rikosuhrin kauriin ja kantaman hänen verestänsä esiripun sisälliselle puolelle, ja pitää tekemän sen #veren kanssa, niinkuin hän teki mullin veren kanssa, ja priiskottaman sitä armo-istuimen päälle, ja armo-istuimen edessä,"
 "Ja niin sovittaman pyhän, Israelin lasten riettaudesta ja heidän vääryydestänsä, kaikissa heidän synneissänsä
 "Ei pidä yhdenkään ihmisen oleman seurakunnan majassa, koska hän käy sovittamaan pyhässä, siihenasti että hän sieltä käy ulos
 "Ja koska hän menee ulos alttarin tykö, joka on Herran edessä, pitää hänen sovittaman sen ja ottaman mullin verta, ja kauriin verta, ja sivuman alttarin sarvein päälle ympärinsä."
 "Ja priiskottaman sormellansa verta seitsemän kertaa sen päälle ja puhdistaman ja pyhittämän sen Israelin lasten saastaisuudesta."
 "Ja koska hän on täyttänyt pyhän ja seurakunnan majan ja alttarin sovinnon, niin pitää hänen tuoman elävän kauriin."
-"Ja Aaronin pitää paneman molemmat kätensä elävän kauriin pään päälle, ja tunnustaman sen päällä kaikki Israelin rikokset ja heidän pahat tekonsa kaikissa heidän synneissänsä, ja ne paneman kauriin pään päälle, ja lähettämän sen jonkun soveliaan miehen kanssa korpeen
+"Ja Aaronin pitää paneman molemmat kätensä elävän kauriin pään päälle, ja tunnustaman sen päällä kaikki Israelin rikokset ja heidän pahat #tekonsa kaikissa heidän synneissänsä, ja ne paneman kauriin pään päälle, ja lähettämän sen jonkun soveliaan miehen kanssa korpeen
 "Että kauriin pitää kantaman kaikki heidän pahat tekonsa erämaahan, ja hänen pitää jättämän kauriin korpeen."
 "Ja Aaronin pitää käymän seurakunnan majaan, ja riisuman liinavaatteet yltänsä, jotka hän ennen pukenut oli käydessänsä pyhään, ja jättämän ne sinne."
 "Ja pitää pesemän ihonsa vedellä pyhässä siassa, ja pukeman yllensä omat vaatteensa, ja menemän ulos, ja tekemän sekä oman että kansan polttouhrin, ja niin sovittaman sekä itsensä että kansan,"

@@ -6,7 +6,7 @@
 "Z pokolenia Asera dwanaście tysięcy opieczętowanych, z pokolenia Neftalego dwanaście tysięcy opieczętowanych, z pokolenia Manassesa dwanaście tysięcy opieczętowanych;"
 "Z pokolenia Symeona dwanaście tysięcy opieczętowanych, z pokolenia Lewiego dwanaście tysięcy opieczętowanych, z pokolenia Issachara dwanaście tysięcy opieczętowanych;"
 "Z pokolenia Zabulona dwanaście tysięcy opieczętowanych, z pokolenia Józefa dwanaście tysięcy opieczętowanych, z pokolenia Beniamina dwanaście tysięcy opieczętowanych."
-"Potem zobaczyłem, a oto wielki tłum, którego nikt nie mógł policzyć, z każdego narodu, plemienia, ludu i języka, który stał przed tronem i przed Barankiem ubrani w białe szaty, a palmy w ich rękach."
+"Potem zobaczyłem, a oto wielki tłum, którego nikt nie mógł policzyć, z każdego narodu, plemienia, ludu i języka, #który stał przed tronem i przed Barankiem ubrani w białe szaty, a palmy w ich rękach."
 "I wołali donośnym głosem
 "A wszyscy aniołowie stali dokoła tronu i starszych, i czterech stworzeń, i upadli przed tronem na twarze, i oddali pokłon Bogu;"
 "Mówiąc

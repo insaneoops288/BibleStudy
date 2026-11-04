@@ -25,6 +25,6 @@
 "I wydam cię w ręce tych, którzy czyhają na twoje życie, i w ręce tych, których twarzy ty się lękasz, to jest, w ręce Nabuchodonozora, króla Babilonu, i w ręce Chaldejczyków;"
 "Wyrzucę ciebie i twoją matkę, która cię urodziła, do obcej ziemi, w której się nie urodziliście, i tam pomrzecie."
 "Lecz do ziemi, za którą będą tęsknić, aby tam wrócić, nie wrócą."
-"Czy ten człowiek, Choniasz, jest posągiem wzgardzonym i zdruzgotanym? Albo naczyniem, w którym nie ma żadnego piękna? Czemu zostali odrzuceni on i jego potomstwo i wyrzuceni do ziemi, której nie znają?"
+"Czy ten człowiek, Choniasz, jest posągiem wzgardzonym i zdruzgotanym? Albo naczyniem, w którym nie ma żadnego #piękna? Czemu zostali odrzuceni on i jego potomstwo i wyrzuceni do ziemi, której nie znają?"
 "Ziemio, ziemio, ziemio! Słuchaj słowa PANA."
 "Tak mówi PAN

@@ -26,4 +26,4 @@
 "A kiedy Bóg przyszedł z pomocą Lewitom, niosącym Skrzynię Przymierza WIEKUISTEGO, stało się, że ofiarowali siedem byków i siedem baranów."
 "Dawid był ubrany w szatę z bisioru, jak również wszyscy Lewici, co nieśli Skrzynię śpiewacy i Kenanjasz – rządca noszących śpiewaków; nadto Dawid miał na sobie lniany efod."
 "Więc cały Israel z weselem prowadził Skrzynię Przymierza WIEKUISTEGO; z dźwiękiem kornetu, trąby oraz cymbałów, grając na lutniach i cytrach."
-"A gdy Skrzynia Przymierza WIEKUISTEGO wchodziła do miasta Dawida, stało się, że Michal, córka Saula, wyglądając przez okno, ujrzała króla Dawida skaczącego i grającego; więc wzgardziła nim w swoim sercu."
+"A gdy Skrzynia Przymierza WIEKUISTEGO wchodziła do miasta Dawida, stało się, że Michal, córka Saula, wyglądając #przez okno, ujrzała króla Dawida skaczącego i grającego; więc wzgardziła nim w swoim sercu."

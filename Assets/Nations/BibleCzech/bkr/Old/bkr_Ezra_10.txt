@@ -6,14 +6,14 @@
 "A vstav Ezdráš od domu Božího, odšel do pokojíka Jochananova, syna Eliasibova, i všel tam, a nejedl chleba, ani vody nepil; nebo zámutek měl pro přestoupení těch, jenž se přestěhovali."
 "Zatím dali provolati v Judstvu a v Jeruzalémě všechněm přestěhovaným, aby se shromáždili do Jeruzaléma,"
 "Kdo by pak koli nepřišel ve třech dnech, podlé rady knížat a starších, aby všecken statek svůj propadl, a sám odloučen byl od shromáždění přestěhovaných."
-"A protož shromáždili se všickni muži Judští i Beniamin do Jeruzaléma ke dni třetímu, dvadcátého dne měsíce, (a ten měsíc byl devátý). I seděl všecken lid na ulici domu Božího, třesouce se pro tu věc i pro déšť."
+"A protož shromáždili se všickni muži Judští i Beniamin do Jeruzaléma ke dni třetímu, dvadcátého dne měsíce, (a ten měsíc #byl devátý). I seděl všecken lid na ulici domu Božího, třesouce se pro tu věc i pro déšť."
 "Tedy vyvstal Ezdráš kněz a řekl k nim
 "Protož již vyznejte se Hospodinu Bohu otců svých, a čiňte vůli jeho, a oddělte se od národů cizích, i od žen cizozemek."
 "I odpovědělo všecko to shromáždění, a řekli hlasem velikým
 "Ale lidu mnoho jest, a prška, a nemůžeme vně státi. K tomu není ta práce jednoho dne ani dvou, nebo mnoho jest nás, kteříž jsme v tom přestoupili."
-"Nechť jsou postavena, prosíme, knížata naše ze všeho shromáždění, a kdož koli jest v městech našich, kterýž pojal ženy cizozemky, ať přijde v čas uložený, a s nimi starší z jednoho každého města i soudcové jejich, až bychom tak odvrátili hněv prchlivosti Boha našeho od sebe pro tu věc."
+"Nechť jsou postavena, prosíme, knížata naše ze všeho shromáždění, a kdož koli jest v městech našich, kterýž pojal ženy cizozemky, ať přijde v čas uložený, #a s nimi starší z jednoho každého města i soudcové jejich, až bychom tak odvrátili hněv prchlivosti Boha našeho od sebe pro tu věc."
 "Takž Jonatan syn Azahelův, a Jachziáš syn Tekue, postaveni byli nad tím, Mesullam pak a Sabbetai, Levítové, pomáhali jim."
-"Tedy učinili tak při těch, jenž přestěhováni byli. I odděleni jsou Ezdráš kněz a muži přední čeledí otcovských po domích otců svých, všickni ti ze jména, a zasedli prvního dne měsíce desátého, aby to vyhledali."
+"Tedy učinili tak při těch, jenž přestěhováni byli. I odděleni jsou Ezdráš kněz a muži přední čeledí otcovských #po domích otců svých, všickni ti ze jména, a zasedli prvního dne měsíce desátého, aby to vyhledali."
 "Což i konali při všech mužích, kteříž byli pojali ženy cizozemky, až do prvního dne prvního měsíce."
 "Našli se pak z synů kněžských, jenž zpojímali ženy cizozemky tito
 "Ale povolili, aby zapudili ženy své. A ti, kteříž provinili, obětovali skopce z stáda za vinu svou."

@@ -1,7 +1,7 @@
 "Zoti i foli akoma Moisiut, duke i thënë
 """Urdhëro bijtë e Izraelit dhe u thuaj atyre
 "Kufiri juaj jugor do të fillojë në shkretëtirën e Tsinit, gjatë kufirit të Edomit; kështu kufiri juaj do të shtrihet nga skaji i Detit të Kripur në drejtim të lindjes;"
-"kufiri juaj do të shkojë pastaj nga e përpjeta e Akrabimit, do të kalojë nëpër Tsin dhe do të shtrihet në jug të Kadesh-Barneas; do të vazhdojë pastaj në drejtim të Hatsar-Adarit dhe do të kalojë nëpër Atsmoni."
+"kufiri juaj do të shkojë pastaj nga e përpjeta e Akrabimit, do të kalojë nëpër Tsin dhe do të shtrihet #në jug të Kadesh-Barneas; do të vazhdojë pastaj në drejtim të Hatsar-Adarit dhe do të kalojë nëpër Atsmoni."
 "Nga Atsmoni kufiri do të kthejë deri në përroin e Egjiptit dhe do të përfundojë në det."
 "Kufiri juaj në perëndim do të jetë Deti i Madh; ky do të jetë kufiri juaj perëndimor."
 "Ky do të jetë kufiri juaj verior
@@ -11,7 +11,7 @@
 "kufiri do të zbresë nga Shefami në drejtim të Riblahut, në lindje të Ainit; pastaj kufiri do të zbresë dhe do të shtrihet deri sa të arrijë bregun lindor të detit të Kinerethit;"
 "pastaj kufiri do të zbresë në drejtim të Jordanit, për të arritur deri në Detin e Kripur. Ky do të jetë vendi juaj me kufijtë e tij rreth e qark""."
 "Kështu Moisiu u njoftoi këtë urdhër bijve të Izraelit dhe u tha atyre
-"sepse fisi i bijve të Rubenit, në bazë të shtëpive të etërve të tyre, dhe fisi i bijve të Gadit, në bazë të shtëpive të etërve të tyre, dhe gjysma e fisit të Manasit e kanë marrë trashëgiminë e tyre."
+"sepse fisi i bijve të Rubenit, në bazë të shtëpive të etërve të tyre, dhe fisi i bijve të Gadit, në #bazë të shtëpive të etërve të tyre, dhe gjysma e fisit të Manasit e kanë marrë trashëgiminë e tyre."
 "Këto dy fise e gjysmë e kanë marrë trashëgiminë e tyre në lindje të Jordanit, mbi bregun përballë Jerikos, në drejtim të lindjes""."
 "Zoti i foli akoma Moisiut, duke i thënë
 """Këta janë emrat e burrave që do të kryejnë ndarjen e vendit midis jush

@@ -25,7 +25,7 @@
 "¿Nunca has oído que mucho tiempo ha yo lo hice, y de días antiguos lo he formado? Y ahora lo he hecho venir, y fué para desolación de ciudades fuertes en montones de ruinas."
 "Y sus moradores, cortos de manos, quebrantados y confusos, fueron cual hierba del campo, como legumbre verde, y heno de los tejados, que antes que venga á madurez es seco."
 "Yo he sabido tu asentarte, tu salir y tu entrar, y tu furor contra mí."
-"Por cuanto te has airado contra mí, y tu estruendo ha subido á mis oídos, yo por tanto pondré mi anzuelo en tus narices, y mi bocado en tus labios, y te haré volver por el camino por donde viniste."
+"Por cuanto te has airado contra mí, y tu estruendo ha subido á mis oídos, yo por tanto pondré mi anzuelo #en tus narices, y mi bocado en tus labios, y te haré volver por el camino por donde viniste."
 "Y esto te será por señal Ezechîas
 "Y lo que hubiere escapado, lo que habrá quedado de la casa de Judá, tornará á echar raíz abajo, y hará fruto arriba."
 "Porque saldrán de Jerusalem reliquias, y los que escaparán, del monte de Sión

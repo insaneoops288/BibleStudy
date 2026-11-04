@@ -7,7 +7,7 @@
 "kaq sa nuk ju mungon asnjë dhunti, ndërsa prisni zbulesën e Zotit tonë Jezu Krishtit,"
 "i cili edhe do t'ju vërtetojë deri në fund, që të jeni të paqortueshëm në ditën e Zotit tonë Jezu Krishtit."
 "Besnik është Perëndia, nga i cili jeni thirrur në bashkësinë e Birit të tij Jezu Krishtit, Zotit tonë."
-"Tani vëllezër, ju bëj thirrje në emër të Zotit tonë Jezu Krishtit të flisni që të gjithë të njëjtën gjë dhe të mos keni ndasi midis jush, por të jeni plotësisht të bashkuar, duke pasur një mendje dhe një vullnet."
+"Tani vëllezër, ju bëj thirrje në emër të Zotit tonë Jezu Krishtit të flisni që të gjithë të njëjtën gjë dhe #të mos keni ndasi midis jush, por të jeni plotësisht të bashkuar, duke pasur një mendje dhe një vullnet."
 "Sepse më është treguar për ju, o vë-llezër, nga ata të shtëpisë së Kloes, se në mes jush ka grindje."
 "Dhe dua të them këtë, që secili nga ju thotë
 "Vallë i ndarë qenka Krishti? Mos Pali u kryqëzua për ju? Apo ju u pagëzuat në emër të Palit?"

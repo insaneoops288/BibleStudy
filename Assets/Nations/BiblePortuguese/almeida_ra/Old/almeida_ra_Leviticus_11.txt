@@ -29,7 +29,7 @@
 "Estes também vos serão por imundos entre os animais que se arrastam sobre a terra
 "o musaranho, o crocodilo da água, a lagartixa, o lagarto e a toupeira."
 "Esses vos serão imundos dentre todos os animais rasteiros; qualquer que os tocar, depois de mortos, será imundo até a tarde;"
-"e tudo aquilo sobre o que cair o cadáver de qualquer deles será imundo; seja vaso de madeira, ou vestidura, ou pele, ou saco, seja qualquer instrumento com que se faz alguma obra, será metido na água, e será imundo até a tarde; então será limpo."
+"e tudo aquilo sobre o que cair o cadáver de qualquer deles será imundo; seja vaso de madeira, ou vestidura, ou pele, ou saco, #seja qualquer instrumento com que se faz alguma obra, será metido na água, e será imundo até a tarde; então será limpo."
 "E quanto a todo vaso de barro dentro do qual cair algum deles, tudo o que houver nele será imundo, e o vaso quebrareis."
 "Todo alimento depositado nele, que se pode comer, sobre o qual vier água, será imundo; e toda bebida que se pode beber, sendo depositada em qualquer destes vasos será imunda."
 "E tudo aquilo sobre o que cair
@@ -39,7 +39,7 @@
 "E se morrer algum dos animais de que vos é lícito comer, quem tocar no seu cadáver será imundo até a tarde;"
 "e quem comer do cadáver dele lavará as suas vestes, e será imundo até a tarde; igualmente quem levar o cadáver dele lavará as suas vestes, e será imundo até a tarde."
 "Também todo animal rasteiro que se move sobre a terra será abominação; não se comerá."
-"Tudo o que anda sobre o ventre, tudo o que anda sobre quatro pés, e tudo o que tem muitos pés, enfim todos os animais rasteiros que se movem sobre a terra, desses não comereis, porquanto são abomináveis."
+"Tudo o que anda sobre o ventre, tudo o que anda sobre quatro pés, e tudo o que tem muitos #pés, enfim todos os animais rasteiros que se movem sobre a terra, desses não comereis, porquanto são abomináveis."
 "Não vos tomareis abomináveis por nenhum animal rasteiro, nem neles vos contaminareis, para não vos tornardes imundos por eles."
 "Porque eu sou o Senhor vosso Deus; portanto santificai-vos, e sede santos, porque eu sou santo; e não vos contaminareis com nenhum animal rasteiro que se move sobre a terra;"
 "porque eu sou o Senhor, que vos fiz subir da terra do Egipto, para ser o vosso Deus, sereis pois santos, porque eu sou santo."

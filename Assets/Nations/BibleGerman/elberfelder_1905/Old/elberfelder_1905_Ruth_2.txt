@@ -6,7 +6,7 @@
 "Und der Knecht, derüber die Schnitter bestellt war, antwortete und sprach
 "und sie sprach
 "Und Boas sprach zu Ruth
-"Deine Augen seien auf das Feld gerichtet, welches man schneidet, und gehe hinter ihnen her; habe ich nicht den Knaben geboten, dich nicht anzutasten? Und wenn dich dürstet, so gehe zu den Gefäßen und trinke von dem, was die Knaben schöpfen."
+"Deine Augen seien auf das Feld gerichtet, welches man schneidet, und gehe hinter ihnen her; habe ich nicht den Knaben geboten, #dich nicht anzutasten? Und wenn dich dürstet, so gehe zu den Gefäßen und trinke von dem, was die Knaben schöpfen."
 "Da fiel sie auf ihr Angesicht und beugte sich zur Erde nieder und sprach zu ihm
 "Und Boas antwortete und sprach zu ihr
 "Jehova vergelte dir dein Tun, und voll sei dein Lohn von Jehova, dem Gott Israels, unter dessen Flügeln Zuflucht zu suchen du gekommen bist!"

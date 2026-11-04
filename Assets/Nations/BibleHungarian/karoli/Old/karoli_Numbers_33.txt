@@ -35,7 +35,7 @@
 "És elindulának Abronából, és tábort ütének Eczjon-Geberben."
 "És elindulának Eczjon-Geberbõl, és tábort ütének Czin pusztájában; ez Kádes."
 "És elindulának Kádesbõl, és tábort ütének a Hór hegyénél, az Edom földének szélén."
-"Felméne pedig Áron, a pap, a Hór hegyére az Úr rendelése szerint, és meghala ott a negyvenedik esztendõben, Izráel fiainak Égyiptom földébõl való kijövetelök után, az ötödik hónapban, a hónap elsején."
+"Felméne pedig Áron, a pap, a Hór hegyére az Úr rendelése szerint, és meghala ott a #negyvenedik esztendõben, Izráel fiainak Égyiptom földébõl való kijövetelök után, az ötödik hónapban, a hónap elsején."
 "Áron pedig száz és huszonhárom esztendõs vala, mikor meghala a Hór hegyén."
 "Hallott pedig a Kananeus, Arad királya (ez pedig dél felõl lakozik vala a Kanaán földén) Izráel fiainak jövetele felõl."
 "És elindulának a Hór hegyétõl, és tábort ütének Czalmonában."
@@ -51,6 +51,6 @@
 "Szólj Izráel fiainak, és mondd meg nékik
 "Ûzzétek ki akkor a földnek minden lakosát a ti színetek elõl, és veszessétek el minden írott képeiket, és minden õ öntött bálványképeiket is elveszessétek, és minden magaslataikat rontsátok el!"
 "Ûzzétek ki a földnek [lakóit,] és lakozzatok abban; mert néktek adtam azt a földet, hogy bírjátok azt."
-"Azt a földet pedig sorsvetés által vegyétek birtokotokba a ti nemzetségeitek szerint. A nagyobb számúnak nagyobbítsátok az õ örökségét, a kisebb számúnak kisebbítsd az õ örökségét. A hová a sors esik valaki számára, az legyen az övé. A ti atyáitoknak törzsei szerint vegyétek át birtokotokat."
-"Ha pedig nem ûzitek ki annak a földnek lakosait a ti színetek elõl, akkor, a kiket meghagytok közülök, szálkákká lesznek a ti szemeitekben, és tövisekké a ti oldalaitokban, és ellenségeitek lesznek néktek a földön, a melyen lakoztok."
+"Azt a földet pedig sorsvetés által vegyétek birtokotokba a ti nemzetségeitek szerint. A nagyobb számúnak nagyobbítsátok az õ örökségét, a kisebb számúnak kisebbítsd #az õ örökségét. A hová a sors esik valaki számára, az legyen az övé. A ti atyáitoknak törzsei szerint vegyétek át birtokotokat."
+"Ha pedig nem ûzitek ki annak a földnek lakosait a ti színetek elõl, akkor, a kiket meghagytok közülök, szálkákká #lesznek a ti szemeitekben, és tövisekké a ti oldalaitokban, és ellenségeitek lesznek néktek a földön, a melyen lakoztok."
 "És akkor a miképen gondoltam, hogy cselekszem azokkal, úgy cselekszem majd veletek."

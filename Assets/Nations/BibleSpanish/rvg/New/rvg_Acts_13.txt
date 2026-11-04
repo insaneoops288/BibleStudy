@@ -1,4 +1,4 @@
-"Había entonces en la iglesia que estaba en Antioquía ciertos profetas y maestros; Bernabé, y Simón el que se llamaba Niger, y Lucio cireneo, y Manahén, que había sido criado con Herodes el tetrarca, y Saulo."
+"Había entonces en la iglesia que estaba en Antioquía ciertos profetas y maestros; Bernabé, y Simón el que se #llamaba Niger, y Lucio cireneo, y Manahén, que había sido criado con Herodes el tetrarca, y Saulo."
 "Ministrando éstos al Señor, y ayunando, dijo el Espíritu Santo
 "Y habiendo ayunado y orado, les impusieron las manos, y los enviaron."
 "Así que ellos, enviados por el Espíritu Santo, descendieron a Seleucia; y de allí navegaron a Chipre."
@@ -8,7 +8,7 @@
 "Mas les resistía Elimas, el hechicero (que así se interpreta su nombre), procurando apartar de la fe al procónsul."
 "Entonces Saulo, que también es Pablo, lleno del Espíritu Santo, fijando sus ojos en él,"
 "dijo
-"Ahora pues, he aquí la mano del Señor es contra ti, y serás ciego, y no verás el sol por un tiempo. Y al instante cayeron sobre él oscuridad y tinieblas; y andando alrededor, buscaba quién le condujese de la mano."
+"Ahora pues, he aquí la mano del Señor es contra ti, y serás ciego, y no verás el sol por un #tiempo. Y al instante cayeron sobre él oscuridad y tinieblas; y andando alrededor, buscaba quién le condujese de la mano."
 "Entonces el procónsul, viendo lo que había sido hecho, creyó, maravillado de la doctrina del Señor."
 "Y zarpando de Pafos, Pablo y sus compañeros arribaron a Perge de Panfilia. Y Juan, apartándose de ellos, se regresó a Jerusalén."
 "Y ellos pasando de Perge, llegaron a Antioquía de Pisidia, y entrando en la sinagoga un día de sábado, se sentaron."

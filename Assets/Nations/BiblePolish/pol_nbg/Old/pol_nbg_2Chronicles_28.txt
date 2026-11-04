@@ -2,7 +2,7 @@
 "ale chodził drogami królów israelskich; nadto ulał i bałwochwalcze wizerunki."
 "I sam kadził w dolinie Ben Hinnom, a swoich synów palił ogniem, według obrzydliwości pogan, których WIEKUISTY wygnał przed synami Israela."
 "Ofiarował też i kadził na wyżynach, na pagórkach, i pod każdym rozłożystym drzewem."
-"Dlatego WIEKUISTY, jego Bóg, wydał go w rękę króla Aramu. Zatem go porazili i z jego ludu uprowadzili w niewolę wielu więźniów, przyprowadzając ich do Damaszku. Nadto został podany i w rękę króla Israela, który go poraził wielką porażką."
+"Dlatego WIEKUISTY, jego Bóg, wydał go w rękę króla Aramu. Zatem go porazili i z jego ludu uprowadzili w niewolę #wielu więźniów, przyprowadzając ich do Damaszku. Nadto został podany i w rękę króla Israela, który go poraził wielką porażką."
 "Bowiem Pekach, syn Remalji, jednego dnia pobił w Judzie sto dwadzieścia tysięcy, samych walecznych mężów, bo opuścili WIEKUISTEGO, Boga swoich przodków."
 "Także Zychry, mocarz efraimski, zabił syna królewskiego Masejasza; Azrikama, przełożonego jego domu i Elkana, drugiego po królu."
 "Nadto synowie israelscy zabrali ze swoich braci do niewoli dwieście tysięcy niewiast, synów i córek; także pobrali od nich wiele łupów, a zdobycz uprowadzili do Szomronu."
@@ -12,7 +12,7 @@
 "Zatem przeciwko tym, którzy wracali z wojny, wyruszyli mężowie z władców, potomków Efraima
 "i do nich powiedzieli
 "Dlatego owo wojsko zostawiło więźniów oraz swe łupy przed władcami i całym zgromadzeniem."
-"Więc powstali mężowie, którzy byli mianowani z imienia oraz wzięli tych więźniów, a wszystkich obnażonych przyodziali z łupów. A gdy ich przyodziali, dali im obuwie, nakarmili ich, napoili ich oraz ich namaścili, i na osłach odprowadzili każdego słabego, wprowadzając ich do Jerycha, miasta palm, do ich braci; po czym wrócili się do Szomronu."
+"Więc powstali mężowie, którzy byli mianowani z imienia oraz wzięli tych więźniów, a wszystkich obnażonych przyodziali z łupów. A gdy ich przyodziali, dali im obuwie, nakarmili ich, #napoili ich oraz ich namaścili, i na osłach odprowadzili każdego słabego, wprowadzając ich do Jerycha, miasta palm, do ich braci; po czym wrócili się do Szomronu."
 "W owym czasie król Achaz posłał do królów Aszuru, aby mu udzielili pomocy;"
 "gdyż jeszcze przyciągnęli Edomici i porazili Judę oraz nabrali jeńców."
 "Nadto Pelisztini wtargnęli do miast na równinach i na południe od Judy, i wzięli Beth Szemesz, Ajalon, Gederoth, Socho i jego wsie, Thimnę i jej wsie, oraz Gimzę i jej wsie, i w nich mieszkali."

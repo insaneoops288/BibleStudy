@@ -1,4 +1,4 @@
-"Slyštež to, dome Jákobův, kteříž se nazýváte jménem Izraelovým, a z vod Judových jste pošli, kteříž přisaháte ve jménu Hospodinovu, a Boha Izraelského připomínáte, však ne v pravdě, ani v spravedlnosti,"
+"Slyštež to, dome Jákobův, kteříž se nazýváte jménem Izraelovým, a z vod Judových jste pošli, kteříž #přisaháte ve jménu Hospodinovu, a Boha Izraelského připomínáte, však ne v pravdě, ani v spravedlnosti,"
 "Ačkoli od města svatého se jmenujete, a na Boha Izraelského, jehož jméno jest Hospodin zástupů, zpoléháte."
 "Předešlé věci zdávna jsem oznamoval, a což vyšlo z úst mých, i což jsem ohlašoval, brzce jsem činíval, a stávalo se."
 "Věděl jsem, že jsi zatvrdilý, a houžev železná šíje tvá, a čelo tvé ocelivé."

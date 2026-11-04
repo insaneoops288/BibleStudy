@@ -3,7 +3,7 @@
 "Babai dhe nëna e tij i thanë
 "Por i ati dhe e ëma nuk e dinin se kjo vinte nga Zoti dhe që Sansoni kërkonte një rast kundër Filistejve. Në atë kohë, Filistejtë sundonin në Izrael."
 "Pastaj Sansoni zbriti me të atin dhe me të ëmën në Timnah; sapo arritën në vreshtat e Timnahut, një luan i vogël u doli përpara duke ulëritur."
-"Atëherë Fryma e Zotit zbriti në mënyrë të fuqishme mbi të dhe ai, pa pasur asgjë në dorë, e shqeu luanin, ashtu si shqyhet një kec; por nuk i tha asgjë atit dhe nënes së tij për atë që kishte bërë."
+"Atëherë Fryma e Zotit zbriti në mënyrë të fuqishme mbi të dhe ai, pa pasur asgjë në dorë, e shqeu luanin, #ashtu si shqyhet një kec; por nuk i tha asgjë atit dhe nënes së tij për atë që kishte bërë."
 "Pastaj zbriti dhe i foli gruas, dhe ajo i pëlqeu Sansonit."
 "Mbas disa ditësh ai u kthye për ta marrë me vete dhe doli nga rruga për të parë skeletin e luanit; dhe ja, në trupin e luanit kishte një mori bletësh dhe mjaltë."
 "Ai mori pak mjaltë në dorë dhe filloi ta hajë ndërsa po ecte; kur arriti tek i ati dhe tek e ëma, u dha edhe atyre dhe ata e hëngrën; por nuk u tha që e kishte marrë mjaltin nga trupi i luanit."
@@ -16,5 +16,5 @@
 "Gruaja e Sansonit qau para tij dhe i tha
 "Ajo qau para tij gjatë shtatë ditëve të festës. Kështu ditën e shtatë Sansoni ia shpjegoi, sepse e mërziste; pastaj ua shpjegoi gjëzën bijve të popullit të saj."
 "Njerëzit e qytetit, ditën e shtatë, para se të perëndonte dita, i thanë Sansonit
-"Atëherë Fryma e Zotit erdhi mbi të në mënyrë të fuqishme, dhe ai zbriti deri në Ashkelon, vrau tridhjetë njerëz nga ata, mori plaçkat e tyre dhe u dha ndërresat e rrobave atyre që e kishin shpjeguar gjëzën. Kështu zemërimi i tij u ndez; pastaj ai u ngjit përsëri në shtëpinë e të atit."
+"Atëherë Fryma e Zotit erdhi mbi të në mënyrë të fuqishme, dhe ai zbriti deri në Ashkelon, vrau tridhjetë njerëz nga ata, mori plaçkat e tyre dhe u #dha ndërresat e rrobave atyre që e kishin shpjeguar gjëzën. Kështu zemërimi i tij u ndez; pastaj ai u ngjit përsëri në shtëpinë e të atit."
 "Por gruan e Sansonit ia dhanë shokut të tij, që kishte qenë shoku i tij më i mirë."

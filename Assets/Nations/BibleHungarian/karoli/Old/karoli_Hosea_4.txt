@@ -3,7 +3,7 @@
 "Azért búsul a föld és elerõtlenül minden, a mi azon lakik, a mezõ vada és az ég madara egyaránt, bizony a tenger halai is elveszíttetnek."
 "Mindazáltal senki se perlekedjék, és senki se feddõzzék! hiszen a te néped olyan, mint azok, a kik a pappal czivódnak."
 "De elesel nappal, és elesik veled a próféta is éjjel; anyádat is elveszítem."
-"Elvész az én népem, mivelhogy tudomány nélkül való. Mivelhogy te megvetetted a tudományt, én is megvetlek téged, hogy papom ne légy. És mivelhogy elfeledkeztél Istened törvényérõl, elfeledkezem én is a te fiaidról."
+"Elvész az én népem, mivelhogy tudomány nélkül való. Mivelhogy te megvetetted a tudományt, én is megvetlek téged, #hogy papom ne légy. És mivelhogy elfeledkeztél Istened törvényérõl, elfeledkezem én is a te fiaidról."
 "Mennél számosabbak lettek, annál inkább vétkeztek ellenem; [de ]gyalázatra fordítom dicsõségöket!"
 "Népem vétkébõl élõsködnek õk és bûneik után áhítozik lelkök."
 "De úgy jár a pap is, mint a nép; megbüntetem õket az õ útaikért, és megfizetek néki cselekedeteiért."

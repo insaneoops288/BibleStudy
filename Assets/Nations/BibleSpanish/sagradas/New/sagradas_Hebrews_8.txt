@@ -6,7 +6,7 @@
 "Mas ahora <I>tanto</I>  mejor ministerio es el suyo, cuanto de un mejor testamento es Mediador, el cual es hecho de mejores promesas."
 "Porque si aquel primero fuera sin falta, ciertamente no se hubiera procurado lugar del segundo."
 "Porque reprendiéndolos dice
-"no como el testamento que hice a vuestros padres el día que los tomé por la mano que los sacaría de la tierra de Egipto; porque ellos no permanecieron en mi testamento, y yo los menosprecié a ellos, dice el Señor;"
+"no como el testamento que hice a vuestros padres el día que los tomé por la mano que los sacaría de #la tierra de Egipto; porque ellos no permanecieron en mi testamento, y yo los menosprecié a ellos, dice el Señor;"
 "por lo cual este es el testamento que ordenaré a la Casa de Israel después de aquellos días, dice el Señor
 "Y ninguno enseñará a su prójimo, ni ninguno a su hermano diciendo
 "Porque seré propicio a sus iniquidades, y a sus pecados; y de sus iniquidades no me acordaré más."

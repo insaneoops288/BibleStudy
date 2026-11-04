@@ -7,11 +7,11 @@
 "Orang-orang Israel beranak cucu dan tak terbilang jumlahnya; mereka bertambah banyak dan dengan dahsyat berlipat ganda, sehingga negeri itu dipenuhi mereka."
 "Kemudian bangkitlah seorang raja baru memerintah tanah Mesir, yang tidak mengenal Yusuf."
 "Berkatalah raja itu kepada rakyatnya
-"Marilah kita bertindak dengan bijaksana terhadap mereka, supaya mereka jangan bertambah banyak lagi dan,jika terjadi peperangan,jangan bersekutu nanti dengan musuh kita dan memerangi kita, lalu pergi dari negeri ini."""
+"Marilah kita bertindak dengan bijaksana terhadap mereka, supaya mereka jangan bertambah banyak lagi dan,jika terjadi #peperangan,jangan bersekutu nanti dengan musuh kita dan memerangi kita, lalu pergi dari negeri ini."""
 "Sebab itu pengawas-pengawas rodi ditempatkan atas mereka untuk menindas mereka dengan kerja paksa
 "Tetapi makin ditindas, makin bertambah banyak dan berkembang mereka, sehingga orang merasa takut kepada orang Israel itu."
 "Lalu dengan kejam orang Mesir memaksa orang Israel bekerja,"
-"dan memahitkan hidup mereka dengan pekerjaan yang berat, yaitu mengerjakan tanah liat dan batu bata, dan berbagai-bagai pekerjaan di padang, ya segala pekerjaan yang dengan kejam dipaksakan orang Mesir kepada mereka itu."
+"dan memahitkan hidup mereka dengan pekerjaan yang berat, yaitu mengerjakan tanah liat dan batu bata, dan berbagai-bagai #pekerjaan di padang, ya segala pekerjaan yang dengan kejam dipaksakan orang Mesir kepada mereka itu."
 "Raja Mesir juga memerintahkan kepada bidan-bidan yang menolong perempuan Ibrani, seorang bernama Sifra dan yang lain bernama Pua, katanya
 """Apabila kamu menolong perempuan Ibrani pada waktu bersalin, kamu harus memperhatikan waktu anak itu lahir
 "Tetapi bidan-bidan itu takut akan Allah dan tidak melakukan seperti yang dikatakan raja Mesir kepada mereka, dan membiarkan bayi-bayi itu hidup."

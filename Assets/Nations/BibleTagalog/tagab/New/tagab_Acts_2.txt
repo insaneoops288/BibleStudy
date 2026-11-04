@@ -11,7 +11,7 @@
 "Mga Cretense at mga Arabe, ay nangaririnig nating nagsisipagsalita sila sa ating mga wika ng mga makapangyarihang gawa ng Dios."
 "At silang lahat ay nangagtaka at nangalito, na sinasabi ng isa sa isa, Anong kahulugan nito?"
 "Datapuwa't ang mga iba'y nanganglilibak na nangagsabi, Sila'y puno ng bagong alak."
-"Datapuwa't pagtindig ni Pedro na kasama ang labingisa, ay itinaas ang kaniyang tinig, at sa kanila'y nagsaysay, na sinasabing, Kayong mga lalaking taga Judea, at kayong lahat na nangananahan sa Jerusalem, mangaalaman nawa ninyong lahat ito, at inyong pakinggan ang aking mga salita."
+"Datapuwa't pagtindig ni Pedro na kasama ang labingisa, ay itinaas ang kaniyang tinig, at sa kanila'y nagsaysay, na sinasabing, Kayong mga lalaking #taga Judea, at kayong lahat na nangananahan sa Jerusalem, mangaalaman nawa ninyong lahat ito, at inyong pakinggan ang aking mga salita."
 "Sapagka't ang mga ito'y hindi mga lasing, na gaya ng inyong inaakala; yamang ngayo'y oras na ikatlo lamang ng araw;"
 "Datapuwa't ito'y yaong sinalita na sa pamamagitan ng propeta Joel
 "At mangyayari sa mga huling araw, sabi ng Dios, Na ibubuhos ko ang aking Espiritu sa lahat ng laman
@@ -35,7 +35,7 @@
 "Hanggang sa gawin ko ang mga kaaway mo na tuntungan ng iyong mga paa."
 "Pakatalastasin nga ng buong angkan ni Israel, na ginawa ng Dios na Panginoon at Cristo itong si Jesus na inyong ipinako sa krus."
 "Nang marinig nga nila ito, ay nangasaktan ang kanilang puso, at sinabi kay Pedro at sa ibang mga apostol, Mga kapatid, anong gagawin namin?"
-"At sinabi sa kanila ni Pedro, Mangagsisi kayo, at mangagbautismo ang bawa't isa sa inyo sa pangalan ni Jesucristo sa ikapagpapatawad ng inyong mga kasalanan; at tatanggapin ninyo ang kaloob ng Espiritu Santo."
+"At sinabi sa kanila ni Pedro, Mangagsisi kayo, at mangagbautismo ang bawa't isa sa inyo sa pangalan #ni Jesucristo sa ikapagpapatawad ng inyong mga kasalanan; at tatanggapin ninyo ang kaloob ng Espiritu Santo."
 "Sapagka't sa inyo ang pangako, at sa inyong mga anak, at sa lahat ng nangasa malayo, maging ilan man ang tawagin ng Panginoon nating Dios sa kaniya."
 "At sa iba pang maraming salita ay nagpatotoo siya, at nangaral sa kanila, na sinasabi, Magsiligtas kayo sa likong lahing ito."
 "Yaon ngang nagsitanggap ng kaniyang salita ay nangabautismuhan
@@ -43,5 +43,5 @@
 "At ang takot ay dumating sa bawa't kaluluwa
 "At ang lahat ng mga nagsisampalataya ay nangagkakatipon, at lahat nilang pag-aari ay sa kalahatan;"
 "At ipinagbili nila ang kanilang mga pag-aari at kayamanan, at ipinamahagi sa lahat, ayon sa pangangailangan ng bawa't isa."
-"At araw-araw sila'y nagsisipanatiling matibay sa pagkakaisa sa templo, at sa pagpuputolputol ng tinapay sa bahay-bahay, at nagsisikain sila ng kanilang pagkain na may galak at may katapatan ng puso."
+"At araw-araw sila'y nagsisipanatiling matibay sa pagkakaisa sa templo, at sa pagpuputolputol ng tinapay sa bahay-bahay, #at nagsisikain sila ng kanilang pagkain na may galak at may katapatan ng puso."
 "Na nangagpupuri sa Dios, at nangagtatamo ng paglingap ng buong bayan. At idinaragdag sa kanila ng Panginoon araw-araw yaong nangaliligtas."

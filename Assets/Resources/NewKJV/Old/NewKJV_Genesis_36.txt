@@ -3,7 +3,7 @@ Esau took his wives from the daughters of Canaan, Adah the daughter of Elon the 
 and Basemath, Ishmael's daughter, sister of Nebajoth.
 Now Adah bore Eliphaz to Esau, and Basemath bore Reuel.
 And Aholibamah bore Jeush, Jaalam, and Korah. These were the sons of Esau who were born to him in the land of Canaan.
-Then Esau took his wives, his sons, his daughters, and all the persons of his household, his cattle and all his animals, and all his goods which he had gained in the land of Canaan, and went to a country away from the presence of his brother Jacob.
+Then Esau took his wives, his sons, his daughters, and all the persons of his household, his cattle and all his animals, and all his #goods which he had gained in the land of Canaan, and went to a country away from the presence of his brother Jacob.
 For their possessions were too great for them to dwell together, and the land where they were strangers could not support them because of their livestock.
 So Esau dwelt in Mount Seir. Esau is Edom.
 And this is the genealogy of Esau the father of the Edomites in Mount Seir.
@@ -14,7 +14,7 @@ These were the sons of Reuel, Nahath, Zerah, Shammah, and Mizzah. These were the
 These were the sons of Aholibamah, Esau's wife, the daughter of Anah, the daughter of Zibeon. And she bore to Esau, Jeush, Jaalam, and Korah.
 These were the chiefs of the sons of Esau. The sons of Eliphaz, the firstborn son of Esau, were Chief Teman, Chief Omar, Chief Zepho, Chief Kenaz,
 Chief Korah, Chief Gatam, and Chief Amalek. These were the chiefs of Eliphaz in the land of Edom. They were the sons of Adah.
-These were the sons of Reuel, Esau's son, Chief Nahath, Chief Zerah, Chief Shammah, and Chief Mizzah. These were the chiefs of Reuel in the land of Edom. These were the sons of Basemath, Esau's wife.
+These were the sons of Reuel, Esau's son, Chief Nahath, Chief Zerah, Chief Shammah, and Chief Mizzah. These were #the chiefs of Reuel in the land of Edom. These were the sons of Basemath, Esau's wife.
 And these were the sons of Aholibamah, Esau's wife, Chief Jeush, Chief Jaalam, and Chief Korah. These were the chiefs who descended from Aholibamah, Esau's wife, the daughter of Anah.
 These were the sons of Esau, who is Edom, and these were their chiefs.
 These were the sons of Seir the Horite who inhabited the land, Lotan, Shobal, Zibeon, Anah,

@@ -12,7 +12,7 @@
 "Y el día siguiente, como salieron de Bethania, tuvo hambre."
 "Y viendo de lejos una higuera que tenía hojas, se acercó, si quizá hallaría en ella algo
 "Entonces Jesús respondiendo, dijo á la higuera
-"Vienen, pues, á Jerusalem; y entrando Jesús en el templo, comenzó á echar fuera á los que vendían y compraban en el templo; y trastornó las mesas de los cambistas, y las sillas de los que vendían palomas;"
+"Vienen, pues, á Jerusalem; y entrando Jesús en el templo, comenzó á echar fuera á los que vendían y compraban #en el templo; y trastornó las mesas de los cambistas, y las sillas de los que vendían palomas;"
 "Y no consentía que alguien llevase vaso por el templo."
 "Y les enseñaba diciendo
 "Y lo oyeron los escribas y los príncipes de los sacerdotes, y procuraban cómo le matarían; porque le tenían miedo, por cuanto todo el pueblo estaba maravillado de su doctrina."

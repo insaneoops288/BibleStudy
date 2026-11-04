@@ -7,7 +7,7 @@ And ye know that with all my power I have served your father.
 And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
 If he said thus, The speckled shall be thy wages; then all the cattle bare speckled, and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked.
 Thus God hath taken away the cattle of your father, and given [them] to me.
-And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle [were] ringstraked, speckled, and grisled.
+And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and #saw in a dream, and, behold, the rams which leaped upon the cattle [were] ringstraked, speckled, and grisled.
 And the angel of God spake unto me in a dream, [saying], Jacob, And I said, Here [am] I.
 And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle [are] ringstraked, speckled, and grisled, for I have seen all that Laban doeth unto thee.
 I [am] the God of Bethel, where thou anointedst the pillar, [and] where thou vowedst a vow unto me, now arise, get thee out from this land, and return unto the land of thy kindred.
@@ -39,8 +39,8 @@ This twenty years [have] I [been] with thee; thy ewes and thy she goats have not
 That which was torn [of beasts] I brought not unto thee; I bare the loss of it; of my hand didst thou require it, [whether] stolen by day, or stolen by night.
 [Thus] I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
 Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle, and thou hast changed my wages ten times.
-Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked [thee] yesternight.
-And Laban answered and said unto Jacob, [These] daughters [are] my daughters, and [these] children [are] my children, and [these] cattle [are] my cattle, and all that thou seest [is] mine, and what can I do this day unto these my daughters, or unto their children which they have born?
+Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst #sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked [thee] yesternight.
+And Laban answered and said unto Jacob, [These] daughters [are] my daughters, and [these] children [are] my children, and [these] cattle [are] my cattle, and all #that thou seest [is] mine, and what can I do this day unto these my daughters, or unto their children which they have born?
 Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.
 And Jacob took a stone, and set it up [for] a pillar.
 And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap, and they did eat there upon the heap.

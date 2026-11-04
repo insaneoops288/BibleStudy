@@ -7,7 +7,7 @@
 "E o sacerdote fará expiação por ele diante do SENHOR, e obterá perdão de qualquer de todas as coisas em que costuma ofender."
 "Falou ainda o SENHOR a Moisés, dizendo
 "Manda a Arão e a seus filhos dizendo
-"O sacerdote se porá sua vestimenta de linho, e se vestirá calções de linho sobre sua carne; e quando o fogo houver consumido o holocausto, apartará ele as cinzas de sobre o altar, e as porá junto ao altar."
+"O sacerdote se porá sua vestimenta de linho, e se vestirá calções de linho sobre sua carne; e quando o #fogo houver consumido o holocausto, apartará ele as cinzas de sobre o altar, e as porá junto ao altar."
 "Depois se desnudará de suas vestimentas, e se porá outras vestiduras, e tirará as cinzas fora do acampamento ao lugar limpo."
 "E o fogo acendido sobre o altar não há de apagar-se, mas sim que o sacerdote porá nele lenha cada manhã, e acomodará sobre ele o holocausto, e queimará sobre ele a gordura pacífica."
 "O fogo há de arder continuamente no altar; não se apagará."

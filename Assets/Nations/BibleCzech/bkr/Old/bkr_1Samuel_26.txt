@@ -2,7 +2,7 @@
 "Protož povstal Saul a táhl na poušť Zif, a s ním tři tisíce mužů vybraných z Izraele, aby hledal Davida na poušti Zif."
 "I položil se Saul na pahrbku Hachila, kterýž jest proti Jesimon při cestě. David pak trvaje na poušti, srozuměl, že Saul za ním přitáhl na poušť."
 "Nebo poslav David špehéře, vyzvěděl jistotně, že Saul přitáhl."
-"Tedy vstav David, šel k místu, na němž se položil Saul s vojskem. I spatřil David místo, na kterémž ležel Saul a Abner syn Nerův, hejtman vojska jeho. Saul pak spal, jsa vozy otočen, lid také ležení svá měl vůkol něho."
+"Tedy vstav David, šel k místu, na němž se položil Saul s vojskem. I spatřil David místo, na kterémž ležel Saul #a Abner syn Nerův, hejtman vojska jeho. Saul pak spal, jsa vozy otočen, lid také ležení svá měl vůkol něho."
 "I mluvil David a řekl Achimelechovi Hetejskému a Abizai synu Sarvie, bratru Joábovu, řka
 "A tak přišel David a Abizai k lidu v noci, a aj, Saul leže, spal, jsa vozy otočen, a kopí jeho vetknuté bylo v zemi u hlavy jeho, Abner pak i lid spali vůkol něho."
 "Tedy řekl Abizai Davidovi
@@ -13,7 +13,7 @@
 "A přešed David na druhou stranu, postavil se na vrchu hory zdaleka; nebo bylo mezi nimi nemalé místo."
 "I zavolal David na lid a na Abnera syna Ner, řka
 "I řekl David Abnerovi
-"Neníť to dobře, co jsi učinil. Živť jest Hospodin, že jste hodni smrti, proto že neostříháte pána svého, pomazaného Hospodinova. Ale nyní pohleď, kde jest kopí královo a číše vodná, kteráž byla u hlavy jeho."
+"Neníť to dobře, co jsi učinil. Živť jest Hospodin, že jste hodni smrti, proto že neostříháte pána svého, #pomazaného Hospodinova. Ale nyní pohleď, kde jest kopí královo a číše vodná, kteráž byla u hlavy jeho."
 "Tedy poznal Saul hlas Davidův a řekl
 "Řekl také
 "Protož nyní poslyš, prosím, pane můj králi, slov služebníka svého

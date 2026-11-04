@@ -22,9 +22,9 @@
 "Potem znowu ów prorok podszedł do króla israelskiego i powiedział
 "Zaś słudzy króla aramejskiego powiedzieli do niego
 "Dlatego uczyń tak
-"Po czym zbierz sobie wojsko, które wyrówna siłą to, co utraciłeś, tyle samo koni i wozów, a stoczymy z nimi bitwę na równinie i wtedy niewątpliwie ich pokonamy. Zatem usłuchał ich rady i tak uczynił."
+"Po czym zbierz sobie wojsko, które wyrówna siłą to, co utraciłeś, tyle samo koni i wozów, a stoczymy #z nimi bitwę na równinie i wtedy niewątpliwie ich pokonamy. Zatem usłuchał ich rady i tak uczynił."
 "Następnego roku Benhadad zlustrował Aramejczyków oraz nadciągnął do Afek, by stoczyć bitwę z Israelitami."
-"Zarządzono również przegląd Israelitów, zaopatrzono ich w zapasy, po czym wyszli na ich spotkanie. Synowie Israela obozowali naprzeciwko nich, jak dwie gromadki kóz, podczas gdy Aramejczycy zapełniali okolicę."
+"Zarządzono również przegląd Israelitów, zaopatrzono ich w zapasy, po czym wyszli na ich spotkanie. Synowie #Israela obozowali naprzeciwko nich, jak dwie gromadki kóz, podczas gdy Aramejczycy zapełniali okolicę."
 "I podszedł ów mąż Boży oraz przemówił do króla israelskiego, mówiąc
 "Tak więc przez siedem dni, jedni obozowali naprzeciwko drugich; jednak siódmego dnia zaczął się bój i synowie Israela porazili Aramejczyków – jednego dnia sto tysięcy pieszych."
 "Zaś pozostali schronili się do miasta Afek, ale na pozostałych dwadzieścia siedem tysięcy ludzi runął mur. Zaś Benhaded przybył do miasta i chronił się, przebiegając z jednej komnaty do drugiej."

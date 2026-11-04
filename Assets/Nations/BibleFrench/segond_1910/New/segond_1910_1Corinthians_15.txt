@@ -12,7 +12,7 @@
 "Or, si l'on prêche que Christ est ressuscité des morts, comment quelques-uns parmi vous disent-ils qu'il n'y a point de résurrection des morts?"
 "S'il n'y a point de résurrection des morts, Christ non plus n'est pas ressuscité."
 "Et si Christ n'est pas ressuscité, notre prédication est donc vaine, et votre foi aussi est vaine."
-"Il se trouve même que nous sommes de faux témoins à l'égard de Dieu, puisque nous avons témoigné contre Dieu qu'il a ressuscité Christ, tandis qu'il ne l'aurait pas ressuscité, si les morts ne ressuscitent point."
+"Il se trouve même que nous sommes de faux témoins à l'égard de Dieu, puisque nous avons témoigné contre #Dieu qu'il a ressuscité Christ, tandis qu'il ne l'aurait pas ressuscité, si les morts ne ressuscitent point."
 "Car si les morts ne ressuscitent point, Christ non plus n'est pas ressuscité."
 "Et si Christ n'est pas ressuscité, votre foi est vaine, vous êtes encore dans vos péchés,"
 "et par conséquent aussi ceux qui sont morts en Christ sont perdus."

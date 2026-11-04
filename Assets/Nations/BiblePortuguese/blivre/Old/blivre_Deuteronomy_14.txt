@@ -20,10 +20,10 @@
 "Toda ave limpa comereis."
 "Nenhuma coisa morta comereis
 "Indispensavelmente dizimarás todo o produto de tua semente, que render o campo cada ano."
-"E comerás diante do SENHOR teu Deus no lugar que ele escolher para fazer habitar ali seu nome, o dízimo de teu grão, de teu vinho, e de teu azeite, e os primogênitos de tuas manadas, e de tuas gados, para que aprendas a temer ao SENHOR teu Deus todos os dias."
+"E comerás diante do SENHOR teu Deus no lugar que ele escolher para fazer habitar ali seu nome, o dízimo de teu grão, de teu vinho, e #de teu azeite, e os primogênitos de tuas manadas, e de tuas gados, para que aprendas a temer ao SENHOR teu Deus todos os dias."
 "E se o caminho for tão longo que tu não possas levá-lo por ele, por estar longe de ti o lugar que o SENHOR teu Deus houver escolhido para pôr nele seu nome, quando o SENHOR teu Deus te abençoar,"
 "Então o venderás, e atarás o dinheiro em tua mão, e virás ao lugar que o SENHOR teu Deus escolher;"
 "E darás o dinheiro por tudo o que desejar tua alma, por vacas, ou por ovelhas, ou por vinho, ou por bebida forte, ou por qualquer coisa que tua alma te pedir
 "E não desampararás ao levita que habitar em tuas povoações; porque não tem parte nem herança contigo."
 "Ao fim de cada três anos tirarás todo o dízimo de teus produtos daquele ano, e o guardarás em tuas cidades
-"E virá o levita, que não tem parte nem herança contigo, e o estrangeiro, e o órfão, e a viúva, que houver em tuas povoações, e comerão e serão saciados; para que o SENHOR teu Deus te abençoe em toda obra de tuas mãos que fizeres."
+"E virá o levita, que não tem parte nem herança contigo, e o estrangeiro, e o órfão, e a viúva, que houver em tuas #povoações, e comerão e serão saciados; para que o SENHOR teu Deus te abençoe em toda obra de tuas mãos que fizeres."

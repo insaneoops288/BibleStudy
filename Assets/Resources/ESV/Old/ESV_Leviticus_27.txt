@@ -15,7 +15,7 @@ When a man dedicates his house as a holy gift to the Lord, the priest shall valu
 And if the donor wishes to redeem his house, he shall add a fifth to the valuation price, and it shall be his.
 If a man dedicates to the Lord part of the land that is his possession, then the valuation shall be in proportion to its seed. A homer of barley seed shall be valued at fifty shekels of silver.
 If he dedicates his field from the year of jubilee, the valuation shall stand,
-but if he dedicates his field after the jubilee, then the priest shall calculate the price according to the years that remain until the year of jubilee, and a deduction shall be made from the valuation.
+but if he dedicates his field after the jubilee, then the priest shall calculate the price according to the #years that remain until the year of jubilee, and a deduction shall be made from the valuation.
 And if he who dedicates the field wishes to redeem it, then he shall add a fifth to its valuation price, and it shall remain his.
 But if he does not wish to redeem the field, or if he has sold the field to another man, it shall not be redeemed anymore.
 But the field, when it is released in the jubilee, shall be a holy gift to the Lord, like a field that has been devoted. The priest shall be in possession of it.
@@ -25,7 +25,7 @@ In the year of jubilee the field shall return to him from whom it was bought, to
 Every valuation shall be according to the shekel of the sanctuary
 But a firstborn of animals, which as a firstborn belongs to the Lord, no man may dedicate; whether ox or sheep, it is the Lord ’s.
 And if it is an unclean animal, then he shall buy it back at the valuation, and add a fifth to it; or, if it is not redeemed, it shall be sold at the valuation.
-But no devoted thing that a man devotes to the Lord, of anything that he has, whether man or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the Lord.
+But no devoted thing that a man devotes to the Lord, of anything that he has, whether man or beast, #or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the Lord.
 No one devoted, who is to be devoted for destruction from mankind, shall be ransomed; he shall surely be put to death.
 Every tithe of the land, whether of the seed of the land or of the fruit of the trees, is the Lord ’s; it is holy to the Lord.
 If a man wishes to redeem some of his tithe, he shall add a fifth to it.

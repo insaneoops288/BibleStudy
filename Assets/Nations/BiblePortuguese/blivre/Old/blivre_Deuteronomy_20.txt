@@ -16,5 +16,5 @@
 "Porém das cidades destes povos que o SENHOR teu Deus te dá por herança, nenhuma pessoa deixarás com vida;"
 "Antes por completo os destruirás
 "Para que não vos ensinem a fazer segundo todas suas abominações, que eles fazem a seus deuses, e pequeis contra o SENHOR vosso Deus."
-"Quando puseres cerco a alguma cidade, lutando contra ela muitos dias para tomá-la, não destruas seu arvoredo metendo nele machado, porque dele comerás; e não o cortarás, que não é homem a árvore do campo para vir contra ti no cerco."
+"Quando puseres cerco a alguma cidade, lutando contra ela muitos dias para tomá-la, não destruas seu arvoredo metendo nele machado, porque #dele comerás; e não o cortarás, que não é homem a árvore do campo para vir contra ti no cerco."
 "Mas a árvore que souberes que não é árvore para comer, o destruirás e o cortarás, e constrói baluarte contra a cidade que luta contigo, até subjugá-la."

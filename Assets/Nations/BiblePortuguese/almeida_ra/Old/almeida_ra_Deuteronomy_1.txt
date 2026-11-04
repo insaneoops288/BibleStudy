@@ -4,7 +4,7 @@
 "depois que derrotou a Síon, rei dos amorreus, que habitava em Hesbon, e a Ogue, rei de Basan, que habitava em Astarot, em Edrei."
 "Além do Jordão, na terra de Moab, Moisés se pôs a explicar esta lei, e disse
 "O Senhor nosso Deus nos falou em Horebe, dizendo
-"Voltai-vos, ponde-vos a caminho, e ide à região montanhosa dos amorreus, e a todos os lugares vizinhos, na Arabá, na região montanhosa, no vale e no sul; à beira do mar, à terra dos cananeus, e ao Líbano, até o grande rio, o rio Eufrates."
+"Voltai-vos, ponde-vos a caminho, e ide à região montanhosa dos amorreus, e a todos os lugares vizinhos, na Arabá, na região montanhosa, no #vale e no sul; à beira do mar, à terra dos cananeus, e ao Líbano, até o grande rio, o rio Eufrates."
 "Eis que tenho posto esta terra diante de vós; entrai e possuí a terra que o Senhor prometeu com juramento dar a vossos pais, Abraão, Isaque, e Jacob, a eles e à sua descendência depois deles."
 "Nesse mesmo tempo eu vos disse
 "o Senhor vosso Deus já vos tem multiplicado, e eis que hoje sois tão numerosos como as estrelas do céu."
@@ -12,11 +12,11 @@
 "Como posso eu sozinho suportar o vosso peso, as vossas cargas e as vossas contendas?"
 "Tomai-vos homens sábios, entendidos e experimentados, segundo as vossas tribos, e eu os porei como cabeças sobre vós."
 "Então me respondestes
-"Tomei, pois, os cabeças de vossas tribos, homens sábios e experimentados, e os constituí por cabeças sobre vós, chefes de mil, chefes de cem, chefes de cinquenta e chefes de dez, por oficiais, segundo as vossas tribos."
+"Tomei, pois, os cabeças de vossas tribos, homens sábios e experimentados, e os constituí por cabeças sobre vós, chefes #de mil, chefes de cem, chefes de cinquenta e chefes de dez, por oficiais, segundo as vossas tribos."
 "E no mesmo tempo ordenei a vossos juízes, dizendo
-"Não fareis acepção de pessoas em juízo; de um mesmo modo ouvireis o pequeno e o grande; não temereis a face de ninguém, porque o juízo é de Deus; e a causa que vos for difícil demais, a trareis a mim, e eu a ouvirei."
+"Não fareis acepção de pessoas em juízo; de um mesmo modo ouvireis o pequeno e o grande; não temereis a face de ninguém, #porque o juízo é de Deus; e a causa que vos for difícil demais, a trareis a mim, e eu a ouvirei."
 "Assim naquele tempo vos ordenei todas as coisas que devíeis fazer."
-"Então partimos de Horebe, e caminhamos por todo aquele grande e terrível deserto que vistes, pelo caminho das montanhas dos amorreus, como o Senhor nosso Deus nos ordenara; e chegamos a Cades-Barnéia."
+"Então partimos de Horebe, e caminhamos por todo aquele grande e terrível deserto que vistes, pelo caminho #das montanhas dos amorreus, como o Senhor nosso Deus nos ordenara; e chegamos a Cades-Barnéia."
 "Então eu vos disse
 "Eis aqui o Senhor teu Deus tem posto esta terra diante de ti; sobe, apodera-te dela, como te falou o Senhor Deus de teus pais; não temas, e não te assustes."
 "Então todos vós vos chegastes a mim, e dissestes

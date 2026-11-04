@@ -29,7 +29,7 @@
 "Y éstos tendréis por inmundos de los animales que se arrastran sobre la tierra; la comadreja y el ratón, y la tortuga según su especie,"
 "y el erizo, y el camaleón, y la iguana, y el caracol y el topo."
 "Estos tendréis por inmundos de entre todos los animales; cualquiera que los tocare cuando estuvieren muertos, será inmundo hasta la tarde."
-"Y todo aquello sobre que cayere alguno de ellos después de muertos, será inmundo; así vaso de madera, como vestido, o piel, o saco, cualquier instrumento con que se hace obra, será metido en agua, y será inmundo hasta la tarde, y así será limpio."
+"Y todo aquello sobre que cayere alguno de ellos después de muertos, será inmundo; así vaso de madera, como vestido, o piel, o #saco, cualquier instrumento con que se hace obra, será metido en agua, y será inmundo hasta la tarde, y así será limpio."
 "Y toda vasija de barro dentro de la cual cayere alguno de ellos, todo lo que estuviere en ella será inmundo, y quebraréis la vasija
 "Toda vianda que se come, sobre la cual viniere el agua de tales vasijas, será inmunda; y toda bebida que se bebiere, será en todas esas vasijas inmunda
 "Y todo aquello sobre que cayere algo del cuerpo muerto de ellos, será inmundo; el horno u hornillos se derribarán; son inmundos, y por inmundos los tendréis."

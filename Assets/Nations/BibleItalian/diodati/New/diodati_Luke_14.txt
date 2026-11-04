@@ -28,7 +28,7 @@
 "Perciocchè, chi è colui d’infra voi, il quale, volendo edificare una torre, non si assetti prima, e non faccia ragion della spesa, se egli ha da poterla finire?"
 "Che talora, avendo posto il fondamento, e non potendola finire, tutti coloro che la vedranno non prendano a beffarlo, dicendo
 "Quest’uomo cominciò ad edificare, e non ha potuto finire."
-"Ovvero, qual re, andando ad affrontarsi in battaglia con un altro re, non si assetta prima, e prende consiglio, se può con diecimila incontrarsi con quell’altro, che vien contro a lui con ventimila?"
+"Ovvero, qual re, andando ad affrontarsi in battaglia con un altro re, non si assetta prima, e #prende consiglio, se può con diecimila incontrarsi con quell’altro, che vien contro a lui con ventimila?"
 "Se no, mentre quel l’altro è ancora lontano, gli manda un’ambasciata, e lo richiede di pace."
 "Così adunque, niun di voi, il qual non rinunzia a tutto ciò ch’egli ha, può esser mio discepolo."
 "Il sale è buono, ma se il sale diviene insipido, con che lo si condirà egli?"

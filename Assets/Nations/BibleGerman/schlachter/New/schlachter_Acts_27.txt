@@ -9,7 +9,7 @@
 "Da aber schon geraume Zeit verflossen war und die Schiffahrt gefährlich wurde, weil auch die Fastenzeit bereits vorüber war, warnte Paulus und sprach zu ihnen
 "Ihr Männer, ich sehe, daß die Schiffahrt mit Schädigung und großem Verlust nicht nur für die Ladung und das Schiff, sondern auch für unser Leben verbunden sein wird!"
 "Aber der Hauptmann glaubte dem Steuermann und dem Schiffsherrn mehr, als dem, was Paulus sagte."
-"Da aber der Hafen ungeeignet war zumÜberwintern, gab die Mehrzahl den Rat, von dort abzufahren, um womöglich nach Phönix, einem Hafen von Kreta, der gegen Südwest und Nordwest liegt, zu gelangen, und daselbst zuüberwintern."
+"Da aber der Hafen ungeeignet war zumÜberwintern, gab die Mehrzahl den Rat, von dort abzufahren, um womöglich nach #Phönix, einem Hafen von Kreta, der gegen Südwest und Nordwest liegt, zu gelangen, und daselbst zuüberwintern."
 "Da nun ein schwacher Südwind wehte, meinten sie, sie hätten ihre Absicht erreicht, lichteten die Anker und fuhren nahe bei der Küste von Kreta hin."
 "Aber nicht lange darnach fegte von der Insel ein Wirbelwind daher,«Nord-Ost» genannt;"
 "der riß das Schiff mit sich fort, und da es dem Winde nicht widerstehen konnte, gaben wir es preis und ließen uns treiben."
@@ -40,5 +40,5 @@
 "Und so schnitten sie die Anker ab und ließen sie ins Meer und lösten zugleich die Bande der Steuerruder; dann zogen sie das Vordersegel auf, gegen den Wind, und hielten dem Gestade zu."
 "Da sie aber an eine Landzunge gerieten, stießen sie mit dem Schiffe auf; und das Vorderteil blieb unbeweglich stecken, das Hinterteil aber zerbrach von der Gewalt der Wellen."
 "Von den Soldaten aber wurde vorgeschlagen, man solle die Gefangenen töten, damit keiner schwimmend entfliehe."
-"Der Hauptmann aber, der den Paulus retten wollte, verhinderte ihr Vorhaben und befahl, wer schwimmen könne, solle sich zuerst ins Meer werfen, um ans Land zu kommen, und dieübrigen teils auf Brettern, teils auf Schiffstrümmern."
+"Der Hauptmann aber, der den Paulus retten wollte, verhinderte ihr Vorhaben und befahl, wer schwimmen könne, solle sich #zuerst ins Meer werfen, um ans Land zu kommen, und dieübrigen teils auf Brettern, teils auf Schiffstrümmern."
 "Und so geschah es, daß alle ans Land gerettet wurden."

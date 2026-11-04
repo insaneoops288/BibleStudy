@@ -15,7 +15,7 @@
 "Denn da David in Edom war und Joab, der Feldhauptmann, hinaufzog, die Erschlagenen zu begraben, schlug er was ein Mannsbild war in Edom."
 "(Denn Joab blieb sechs Monate daselbst und das ganze Israel, bis er ausrottete alles, was ein Mannsbild war in Edom.)"
 "Da floh Hadad und mit ihm etliche Männer der Edomiter von seines Vaters Knechten, daß sie nachÄgypten kämen; Hadad aber war ein junger Knabe."
-"Und sie machten sich auf von Midian und kamen gen Pharan und nahmen Leute mit sich aus Pharan und kamen nachÄgypten zu Pharao, dem König inÄgypten; der gab ihm ein Haus und Nahrung und wies ihm ein Land an.{~}"
+"Und sie machten sich auf von Midian und kamen gen Pharan und nahmen Leute mit sich aus Pharan und kamen #nachÄgypten zu Pharao, dem König inÄgypten; der gab ihm ein Haus und Nahrung und wies ihm ein Land an.{~}"
 "Und Hadad fand große Gnade vor dem Pharao, daß er ihm auch seines Weibes Thachpenes, der Königin, Schwester zum Weibe gab."
 "Und die Schwester der Thachpenes gebar ihm Genubath, seinen Sohn; und Thachpenes zog ihn auf im Hause Pharaos, daß Genubath war im Hause Pharaos unter den Kindern Pharaos."
 "Da nun Hadad hörte inÄgypten, daß David entschlafen war mit seinen Vätern und daß Joab, der Feldhauptmann, tot war, sprach er zu Pharao
@@ -30,8 +30,8 @@
 "Und Ahia faßte den neuen Mantel, den er anhatte, und riß ihn in zwölf Stücke"
 "und sprach zu Jerobeam
 "einen Stamm soll er haben um meines Knechtes David willen und um der Stadt Jerusalem willen, die ich erwählt habe aus allen Stämmen Israels,"
-"darum daß sie mich verlassen und angebetet haben Asthoreth, die Göttin der Sidonier, Kamos, den Gott der Moabiter, und Milkom, den Gott der Kinder Ammon, und nicht gewandelt haben in meinen Wegen, daß sie täten, was mir wohl gefällt, meine Gebote und Rechte, wie David, sein Vater."
-"Ich will aber nicht das ganze Reich aus seiner Hand nehmen; sondern ich will ihn zum Fürsten machen sein Leben lang um Davids, meines Knechtes, willen, den ich erwählt habe, der meine Gebote und Rechte gehalten hat."
+"darum daß sie mich verlassen und angebetet haben Asthoreth, die Göttin der Sidonier, Kamos, den Gott der Moabiter, und Milkom, den Gott der Kinder #Ammon, und nicht gewandelt haben in meinen Wegen, daß sie täten, was mir wohl gefällt, meine Gebote und Rechte, wie David, sein Vater."
+"Ich will aber nicht das ganze Reich aus seiner Hand nehmen; sondern ich will ihn zum Fürsten machen sein #Leben lang um Davids, meines Knechtes, willen, den ich erwählt habe, der meine Gebote und Rechte gehalten hat."
 "Aus der Hand seines Sohnes will ich das Königreich nehmen und will dir zehn Stämme{~}"
 "und seinem Sohn einen Stamm geben, auf daß David, mein Knecht, vor mir eine Leuchte habe allewege in der Stadt Jerusalem, die ich mir erwählt habe, daß ich meinen Namen dahin stellte."
 "So will ich nun dich nehmen, daß du regierestüber alles, was dein Herz begehrt, und sollst König seinüber Israel."

@@ -12,7 +12,7 @@
 "At sinomang nagmamataas ay mabababa; at sinomang nagpapakababa ay matataas."
 "Datapuwa't sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't sinasarhan ninyo ang kaharian ng langit laban sa mga tao
 "Sa aba ninyo, mga eskriba't mga Fariseo, mga mapagpaimbabaw! Sapagka't sinasakmal ninyo ang mga bahay ng mga babaing bao, at inyong dinadahilan ang mahahabang panalangin
-"Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't inyong nililibot ang dagat at ang lupa sa paghanap ng isa ninyong makakampi; at kung siya'y magkagayon na, ay inyong ginagawa siyang makaibayo pang anak ng impierno kay sa inyong sarili."
+"Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't inyong nililibot ang dagat at ang lupa sa paghanap ng isa #ninyong makakampi; at kung siya'y magkagayon na, ay inyong ginagawa siyang makaibayo pang anak ng impierno kay sa inyong sarili."
 "Sa aba ninyo, kayong mga tagaakay na bulag, na inyong sinasabi, Kung ipanumpa ninoman ang templo, ay walang anoman; datapuwa't kung ipanumpa ninoman ang ginto ng templo, ay nagkakautang nga siya."
 "Kayong mga mangmang at mga bulag
 "At, kung ipanumpa ninoman ang dambana, ay walang anoman; datapuwa't kung ipanumpa ninoman ang handog na nasa ibabaw nito, ay nagkakautang nga siya."
@@ -20,11 +20,11 @@
 "Kaya't ang nanunumpa sa pamamagitan ng dambana, ay ipinanunumpa ito, at ang lahat ng mga bagay na nangasa ibabaw nito."
 "At ang nanunumpa sa pamamagitan ng templo, ay ipinanumpa ito, at yaong tumatahan sa loob nito."
 "Ang nanunumpa sa pamamagitan ng langit, ay ipinanumpa ang luklukan ng Dios, at yaong nakaluklok doon."
-"Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't nangagbibigay kayo ng sa ikapu ng yerbabuena, at ng anis at ng komino, at inyong pinababayaang di ginagawa ang lalong mahahalagang bagay ng kautusan, na dili iba't ang katarungan, at ang pagkahabag, at ang pananampalataya
+"Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't nangagbibigay kayo ng sa ikapu ng yerbabuena, at ng anis at ng komino, #at inyong pinababayaang di ginagawa ang lalong mahahalagang bagay ng kautusan, na dili iba't ang katarungan, at ang pagkahabag, at ang pananampalataya
 "Kayong mga tagaakay na bulag na inyong sinasala ang lamok, at nilulunok ninyo ang kamelyo!"
 "Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpapaimbabaw! sapagka't inyong nililinis ang labas ng saro at ng pinggan, datapuwa't sa loob ay puno sila ng panglulupig at katakawan."
 "Ikaw bulag na Fariseo, linisin mo muna ang loob ng saro at ng pinggan, upang luminis naman ang kaniyang labas."
-"Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't tulad kayo sa mga libingang pinaputi, na may anyong maganda sa labas, datapuwa't sa loob ay puno ng mga buto ng mga patay na tao, at ng lahat na karumaldumal."
+"Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't tulad kayo sa mga libingang pinaputi, na may anyong maganda #sa labas, datapuwa't sa loob ay puno ng mga buto ng mga patay na tao, at ng lahat na karumaldumal."
 "Gayon din naman kayo, sa labas ay nangagaanyong matuwid sa mga tao, datapuwa't sa loob ay puno kayo ng pagpapaimbabaw at ng katampalasanan."
 "Sa aba ninyo, mga eskriba at mga Fariseo, mga mapagpaimbabaw! sapagka't itinatayo ninyo ang mga libingan ng mga propeta, at inyong ginayakan ang mga libingan ng mga matuwid,"
 "At sinasabi ninyo, Kung kami sana ang nangabubuhay nang mga kaarawan ng aming mga magulang disi'y hindi kami nangakaramay nila sa dugo ng mga propeta."
@@ -32,8 +32,8 @@
 "Punuin nga ninyo ang takalan ng inyong mga magulang."
 "Kayong mga ahas, kayong mga lahi ng mga ulupong, paanong mangakawawala kayo sa kahatulan sa impierno?"
 "Kaya't, narito, sinusugo ko sa inyo ang mga propeta, at mga pantas na lalake, at mga eskriba
-"Upang mabubo sa inyo ang lahat na matuwid na dugo na nabuhos sa ibabaw ng lupa, buhat sa dugo ng matuwid na si Abel hanggang sa dugo ni Zacarias na anak ni Baraquias na pinatay ninyo sa pagitan ng santuario at ng dambana."
+"Upang mabubo sa inyo ang lahat na matuwid na dugo na nabuhos sa ibabaw ng lupa, buhat sa dugo ng matuwid na #si Abel hanggang sa dugo ni Zacarias na anak ni Baraquias na pinatay ninyo sa pagitan ng santuario at ng dambana."
 "Katotohanang sinasabi ko sa inyo, Ang lahat ng mga bagay na ito ay darating sa lahing ito."
-"Oh Jerusalem, Jerusalem, na pumapatay sa mga propeta, at bumabato sa mga sinusugo sa kaniya! makailang inibig kong tipunin ang iyong mga anak, na gaya ng pagtitipon ng inahing manok sa kaniyang mga sisiw sa ilalim ng kaniyang mga pakpak, ay ayaw kayo!"
+"Oh Jerusalem, Jerusalem, na pumapatay sa mga propeta, at bumabato sa mga sinusugo sa kaniya! makailang inibig kong tipunin ang iyong mga #anak, na gaya ng pagtitipon ng inahing manok sa kaniyang mga sisiw sa ilalim ng kaniyang mga pakpak, ay ayaw kayo!"
 "Narito, ang inyong bahay ay iniiwan sa inyong wasak."
 "Sapagka't sinasabi ko sa inyo, Buhat ngayon ay hindi ninyo ako makikita, hanggang sa inyong sabihin, Mapalad ang pumaparito sa pangalan ng Panginoon."

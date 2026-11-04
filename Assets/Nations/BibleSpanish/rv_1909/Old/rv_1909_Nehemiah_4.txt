@@ -4,7 +4,7 @@
 "Oye, oh Dios nuestro, que somos en menosprecio, y vuelve el baldón de ellos sobre su cabeza, y dalos en presa en la tierra de su cautiverio
 "Y no cubras su iniquidad, ni su pecado sea raído delante de tu rostro; porque se airaron contra los que edificaban."
 "Edificamos pues el muro, y toda la muralla fué junta hasta su mitad
-"Mas acaeció que oyendo Sanballat y Tobías, y los Arabes, y los Ammonitas, y los de Asdod, que los muros de Jerusalem eran reparados, porque ya los portillos comenzaban á cerrarse, encolerizáronse mucho;"
+"Mas acaeció que oyendo Sanballat y Tobías, y los Arabes, y los Ammonitas, y los de Asdod, #que los muros de Jerusalem eran reparados, porque ya los portillos comenzaban á cerrarse, encolerizáronse mucho;"
 "Y conspiraron todos á una para venir á combatir á Jerusalem, y á hacerle daño."
 "Entonces oramos á nuestro Dios, y por causa de ellos pusimos guarda contra ellos de día y de noche."
 "Y dijo Judá

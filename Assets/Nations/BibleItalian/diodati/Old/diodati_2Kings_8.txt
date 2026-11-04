@@ -2,7 +2,7 @@
 "Quella donna dunque si levò, e fece come l’uomo di Dio le avea detto, e se ne andò con la sua famiglia, e dimorò nel paese de’ Filistei sette anni."
 "Ed in capo di sette anni, quella donna ritornò dal paese de’ Filistei; poi uscì, per richiamarsi al re della sua casa, e delle sue possessioni."
 "Or il re parlava con Ghehazi, servitor dell’uomo di Dio, dicendo
-"E mentre egli raccontava al re come egli avea tornato in vita un morto, ecco, la donna, il cui figliuolo Eliseo avea tornato in vita, venne a richiamarsi al re della sua casa, e delle sue possessioni. E Ghehazi disse
+"E mentre egli raccontava al re come egli avea tornato in vita un morto, ecco, la donna, il cui figliuolo Eliseo #avea tornato in vita, venne a richiamarsi al re della sua casa, e delle sue possessioni. E Ghehazi disse
 "E il re ne domandò la donna, ed ella gli raccontò il fatto. E il re le diede un eunuco, al quale disse
 "ORA Eliseo venne in Damasco. E Ben-hadad, re di Siria, era infermo, e gli fu rapportato che l’uomo di Dio era venuto là."
 "E il re disse ad Hazael
@@ -26,4 +26,4 @@
 "Achazia era d’età di ventidue anni, quando cominciò a regnare; e regnò un anno in Gerusalemme. E il nome di sua madre era Atalia, figliuola di Omri, re d’Israele."
 "Ed egli camminò per la via della casa di Achab, e fece quello che dispiace al Signore, come la casa di Achab; perciocchè egli era genero della casa di Achab."
 "Ed egli andò con Gioram, figliuolo di Achab, alla guerra contro ad Hazael, re di Siria, in Ramot di Galaad; ed i Siri ferirono Gioram."
-"E il re Gioram se ne ritornò, per farsi medicare in Izreel delle ferite che i Siri gli aveano date in Rama, quando egli combattè contro ad Hazael, re di Siria. Ed Achazia, figliuolo di Gioram, re di Giuda, scese per visitar Gioram, figliuolo di Achab, in Izreel; perciocchè egli era infermo."
+"E il re Gioram se ne ritornò, per farsi medicare in Izreel delle ferite che i Siri gli aveano date in Rama, quando egli combattè contro ad #Hazael, re di Siria. Ed Achazia, figliuolo di Gioram, re di Giuda, scese per visitar Gioram, figliuolo di Achab, in Izreel; perciocchè egli era infermo."

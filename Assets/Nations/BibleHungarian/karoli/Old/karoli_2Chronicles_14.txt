@@ -10,6 +10,6 @@
 "Kiméne Asa is õ ellene, és viadalhoz készülének a Sefáta völgyben, Marésa mellett."
 "Akkor kiálta Asa az Úrhoz, az õ Istenéhez, és monda
 "Megveré azért az Úr a szerecseneket Asa és Júda elõtt, és elfutának a szerecsenek."
-"És üldözé õket Asa az õ seregével Gerárig, és elhullának a szerecsenek közül sokan, hogy közülök senki sem marada életben, mert leverettek az Úr elõtt és az õ serege elõtt; és hozának nagy zsákmányt."
+"És üldözé õket Asa az õ seregével Gerárig, és elhullának a szerecsenek közül sokan, hogy közülök senki sem #marada életben, mert leverettek az Úr elõtt és az õ serege elõtt; és hozának nagy zsákmányt."
 "És Gérár környékén elpusztítának minden várost, mert az Úrtól való rettegés szállotta meg õket. És a városokat mind feldúlták, mivelhogy sok ragadomány vala azokban."
 "A barmok tanyáit is lerombolták, és sok juhot és tevét elhajtának, s úgy tértek vissza Jeruzsálembe."

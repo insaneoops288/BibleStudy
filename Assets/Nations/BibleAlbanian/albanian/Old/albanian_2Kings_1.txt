@@ -14,5 +14,5 @@
 "Ja, një zjarr zbriti nga qielli dhe zhduku dy kapitenët e parë të pesëdhjetëshes me pesëdhjetë njerëzit e tyre; por tani jeta ime qoftë e çmuar në sytë e tu""."
 "Engjëlli i Zotit i tha Elias
 "dhe i tha
-"Kështu Ashaziahu vdiq, sipas fjalës së Zotit, të cilën e shqiptoi Elia. Me qenë se nuk kishte bij, Jerohami filloi të mbretërojë në vend të tij, gjatë vitit të dytë të Jerohamit, birit të Jozafatit, mbretit të Judës."
+"Kështu Ashaziahu vdiq, sipas fjalës së Zotit, të cilën e shqiptoi Elia. Me qenë se nuk kishte bij, Jerohami filloi #të mbretërojë në vend të tij, gjatë vitit të dytë të Jerohamit, birit të Jozafatit, mbretit të Judës."
 "Pjesa tjetër e bëmave të kryera nga Ashaziahu a nuk është e shkruar vallë në librin e Kronikave të mbretërve të Izraelit?"

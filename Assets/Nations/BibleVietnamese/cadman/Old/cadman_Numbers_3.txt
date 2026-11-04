@@ -1,7 +1,7 @@
 "Nầy là dòng dõi của A-rôn và Môi-se, về ngày Ðức Giê-hô-va phán cùng Môi-se tại trên núi Si-na -i."
 "Nầy là tên các con trai A-rôn
 "Ðó là tên các con trai A-rôn, tức những thầy tế lễ đã chịu phép xức dầu, và được lập lên để làm chức tế lễ."
-"Vả, Na-đáp và A-bi-hu đã thác trước mặt Ðức Giê-hô-va khi hai người dâng một thứ lửa lạ trước mặt Ðức Giê-hô-va tại trong đồng vắng Si-na -i. Hai người nầy không có con. Còn Ê-lê-a-sa và Y-tha-ma làm chức tế lễ trước mặt A-rôn, là cha mình."
+"Vả, Na-đáp và A-bi-hu đã thác trước mặt Ðức Giê-hô-va khi hai người dâng một thứ lửa lạ trước mặt Ðức Giê-hô-va tại trong đồng #vắng Si-na -i. Hai người nầy không có con. Còn Ê-lê-a-sa và Y-tha-ma làm chức tế lễ trước mặt A-rôn, là cha mình."
 "Ðức Giê-hô-va bèn phán cùng Môi-se rằng
 "Hãy khiến chi phái Lê-vi lại gần, đặt trước thầy tế lễ A-rôn, để người Lê-vi phục sự người."
 "Người Lê-vi sẽ giữ chức phận của người và chức phận của cả hội chúng về trước hội mạc mà làm những công việc của đền tạm."
@@ -10,7 +10,7 @@
 "Vậy, ngươi sẽ lập A-rôn và các con trai người, để làm chức tế lễ; người ngoại đến gần sẽ bị xử tử."
 "Ðức Giê-hô-va phán cùng Môi-se rằng
 "Nầy, từ giữa dân Y-sơ-ra-ên ta chọn lấy người Lê-vi thế cho hết thảy con đầu lòng của dân Y-sơ-ra-ên; vậy, người Lê-vi sẽ thuộc về ta."
-"Vì hết thảy con đầu lòng đều thuộc về ta; ngày xưa khi ta hành hại các con đầu lòng trong xứ Ê-díp-tô, ta đã biệt riêng ra thánh cho ta hết thảy con đầu lòng trong Y-sơ-ra-ên, bất luận loài người hay thú vật; chúng nó đều sẽ thuộc về ta. Ta là Ðức Giê-hô-va."
+"Vì hết thảy con đầu lòng đều thuộc về ta; ngày xưa khi ta hành hại các con đầu lòng trong xứ Ê-díp-tô, ta đã biệt riêng ra thánh #cho ta hết thảy con đầu lòng trong Y-sơ-ra-ên, bất luận loài người hay thú vật; chúng nó đều sẽ thuộc về ta. Ta là Ðức Giê-hô-va."
 "Ðức Giê-hô-va lại phán cùng Môi-se tại trong đồng vắng Si-na -i mà rằng
 "Hãy kê sổ con cháu Lê-vi, tùy theo tông tộc và họ hàng chúng nó, kê hết thảy nam đinh từ một tháng sắp lên."
 "Môi-se bèn kê sổ người Lê-vi theo mạng của Ðức Giê-hô-va, y như Ngài đã phán dặn người vậy."
@@ -35,14 +35,14 @@
 "Quan trưởng của tông tộc Mê-ra-ri là Xu-ri-ên, con trai của A-bi-hai. Con cháu Mê-ra-ri đóng trại bên hông đền tạm về phía bắc,"
 "có phần coi sóc các tấm ván của đền tạm, cây xà ngang, trụ, lỗ trụ, những đồ đạc, và mọi việc thuộc về đó,"
 "những trụ ở chung quanh hành lang và lỗ trụ, những nọc và dây chạc của trụ."
-"Những người đóng trại trước đền tạm về phía đông, tức trước hội mạc về phía mặt trời mọc, là Môi-se, A-rôn và các con trai người, có chức phận săn sóc nơi thánh thế cho dân Y-sơ-ra-ên. Người ngoại đến gần sẽ bị xử tử."
+"Những người đóng trại trước đền tạm về phía đông, tức trước hội mạc về phía mặt trời mọc, là Môi-se, A-rôn và các #con trai người, có chức phận săn sóc nơi thánh thế cho dân Y-sơ-ra-ên. Người ngoại đến gần sẽ bị xử tử."
 "Hết thảy người Lê-vi mà Môi-se và A-rôn vâng mạng Ðức Giê-hô-va tu bộ, tùy theo họ hàng của họ, kể mọi nam đinh từ một tháng sắp lên, số là hai mươi hai ngàn người."
 "Ðoạn, Ðức Giê-hô-va phán cùng Môi-se rằng
-"Ta là Ðức Giê-hô-va. Ngươi phải chọn lấy cho ta người Lê-vi thế cho các con trưởng nam trong dân Y-sơ-ra-ên; cũng phải bắt súc vật của người Lê-vi thế cho mọi con súc vật đầu lòng của dân Y-sơ-ra-ên."
+"Ta là Ðức Giê-hô-va. Ngươi phải chọn lấy cho ta người Lê-vi thế cho các con trưởng nam trong dân Y-sơ-ra-ên; #cũng phải bắt súc vật của người Lê-vi thế cho mọi con súc vật đầu lòng của dân Y-sơ-ra-ên."
 "Vậy, Môi-se kê sổ các con trưởng nam của dân Y-sơ-ra-ên, y như Ðức Giê-hô-va đã phán dặn người."
 "Hết thảy những con trưởng nam kể từng tên, từ tuổi một tháng sắp lên, theo sự kê sổ họ, là hai mươi hai ngàn hai trăm bảy mươi ba người."
 "Ðức Giê-hô-va phán cùng Môi-se rằng
-"Hãy chọn lấy những người Lê-vi thế cho hết thảy con trưởng nam của dân Y-sơ-ra-ên, và súc vật của người Lê-vi thế cho súc vật của dân Y-sơ-ra-ên; vậy, các người Lê-vi sẽ thuộc về ta. Ta là Ðức Giê-hô-va."
+"Hãy chọn lấy những người Lê-vi thế cho hết thảy con trưởng nam của dân Y-sơ-ra-ên, và súc vật của người #Lê-vi thế cho súc vật của dân Y-sơ-ra-ên; vậy, các người Lê-vi sẽ thuộc về ta. Ta là Ðức Giê-hô-va."
 "Còn về sự chuộc lại con trưởng nam của dân Y-sơ-ra-ên, kê sổ hơn số người Lê-vi hai trăm bảy mươi ba,"
 "thì ngươi phải thâu mỗi người năm siếc-lơ, tùy theo siếc-lơ nơi thánh; một siếc-lơ là hai chục ghê-ra."
 "Ngươi phải giao bạc cho A-rôn và các con trai người; ấy là bạc chuộc lại những con trưởng nam trổi hơn."

@@ -5,12 +5,12 @@
 "Et David dit à Jonathan
 "Si ton père vient à s'informer de moi, tu répondras
 "S'il dit ainsi
-"Fais donc cette grâce à ton serviteur, puisque tu as fait entrer ton serviteur en alliance avec toi au nom de l'Éternel. Mais s'il y a quelque iniquité en moi, fais-moi mourir toi-même; car pourquoi me mènerais-tu à ton père?"
+"Fais donc cette grâce à ton serviteur, puisque tu as fait entrer ton serviteur en alliance avec toi au nom de #l'Éternel. Mais s'il y a quelque iniquité en moi, fais-moi mourir toi-même; car pourquoi me mènerais-tu à ton père?"
 "Et Jonathan lui dit
 "Et David répondit à Jonathan
 "Et Jonathan dit à David
 "Alors Jonathan dit à David
-"Que l'Éternel traite Jonathan avec la dernière rigueur! Que s'il plaît à mon père de te faire du mal, je te le ferai savoir aussi; et je te laisserai aller, et tu t'en iras en paix; et que l'Éternel soit avec toi comme il a été avec mon père!"
+"Que l'Éternel traite Jonathan avec la dernière rigueur! Que s'il plaît à mon père de te faire du mal, je te le ferai savoir aussi; #et je te laisserai aller, et tu t'en iras en paix; et que l'Éternel soit avec toi comme il a été avec mon père!"
 "Mais aussi, si je suis encore vivant, n'useras-tu pas envers moi de la bonté de l'Éternel, en sorte que je ne meure point,"
 "Et que tu ne retires point ta bonté de ma maison, à jamais, non pas même quand l'Éternel aura retranché tous les ennemis de David de dessus la face de la terre?"
 "Et Jonathan traita alliance avec la maison de David, et dit
@@ -38,5 +38,5 @@
 "Et Jonathan cria après le garçon
 "Mais le garçon ne savait rien; il n'y avait que David et Jonathan qui connussent l'affaire."
 "Et Jonathan donna ses armes au garçon qu'il avait avec lui, et lui dit
-"Le garçon partit; et David se leva du côté du Midi, se jeta le visage contre terre, et se prosterna trois fois; puis ils s'embrassèrent l'un l'autre, et pleurèrent tous deux, et même David pleura extrêmement."
+"Le garçon partit; et David se leva du côté du Midi, se jeta le visage contre terre, et se #prosterna trois fois; puis ils s'embrassèrent l'un l'autre, et pleurèrent tous deux, et même David pleura extrêmement."
 "Et Jonathan dit David

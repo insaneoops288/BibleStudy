@@ -5,7 +5,7 @@
 "Dhe pse na bëtë të dalim nga Egjipti për të na sjellë në këtë vend të keq? Nuk është një vend që prodhon grurë, fiq, rrush ose shegë dhe mungon uji për të pirë""."
 "Atëherë Moisiu dhe Aaroni u larguan nga asambleja për të vajtur në hyrje të çadrës së mbledhjes dhe ranë përmbys me fytyrën për tokë; dhe lavdia e Zotit iu shfaq atyre."
 "Pastaj Zoti i foli Moisiut, duke i thënë
-"""Merr bastunin; ti dhe vëllai yt Aaron thirrni asamblenë dhe para syve të tyre i flisni shkëmbit, dhe ai do të japë ujin e tij; kështu do të nxjerrësh për ta ujë nga shkëmbi dhe do t'u japësh të pinë njerëzve dhe bagëtisë së tyre""."
+"""Merr bastunin; ti dhe vëllai yt Aaron thirrni asamblenë dhe para syve të tyre i flisni shkëmbit, dhe ai do të japë ujin #e tij; kështu do të nxjerrësh për ta ujë nga shkëmbi dhe do t'u japësh të pinë njerëzve dhe bagëtisë së tyre""."
 "Moisiu mori, pra, bastunin që ishte përpara Zotit, ashtu si e kishte urdhëruar Zoti."
 "Kështu Moisiu dhe Aaroni thirrën asamblenë përpara shkëmbit dhe Moisiu u tha atyre
 "Pastaj Moisiu ngriti dorën, goditi shkëmbin me bastunin e tij dy herë dhe prej tij doli ujë me bollëk; kështu asambleja dhe bagëtia pinë ujë."
@@ -14,7 +14,7 @@
 "Pastaj Moisiu dërgoi lajmëtarë në Kadesh te mbreti i Edomit për t'i thënë
 "si zbritën etërit tanë në Egjipt dhe ne qëndruam një kohë të gjatë në atë vend, dhe Egjiptasit na keqtrajtuan ne dhe etërit tanë."
 "Por, kur i thirrëm Zotit, ai e dëgjoi zërin tonë dhe dërgoi një Engjëll dhe na nxori nga Egjipti; dhe tani jemi në Kadesh, një qytet në afërsi të kufijve tuaj."
-"Po na lejo të kalojmë nëpër vendin tënd; ne nuk do të shkelim as arat as vreshtat tuaja, nuk do të pijmë ujin e puseve; do të ndjekim rrugën mbretërore, pa u kthyer as djathtas as majtas, deri sa të kalojmë kufijtë e tu""."
+"Po na lejo të kalojmë nëpër vendin tënd; ne nuk do të shkelim as arat as vreshtat tuaja, nuk do të pijmë ujin #e puseve; do të ndjekim rrugën mbretërore, pa u kthyer as djathtas as majtas, deri sa të kalojmë kufijtë e tu""."
 "Por Edomi iu përgjigj
 "Bijtë e Izraelit i thanë
 "Por ai u përgjigj

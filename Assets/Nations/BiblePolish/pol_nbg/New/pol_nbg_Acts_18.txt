@@ -1,5 +1,5 @@
 "Zaś po tych wydarzeniach, Paweł odszedł z Aten i przyszedł do Koryntu."
-"Znalazł też pewnego Żyda imieniem Akwilan, rodem z Pontu, który niedawno przybył z Italii wraz ze swą żoną Pryscyllą dlatego, bo Klaudiusz rozporządził, żeby wszyscy Żydzi odjechali z Rzymu. Zatem do nich poszedł."
+"Znalazł też pewnego Żyda imieniem Akwilan, rodem z Pontu, który niedawno przybył z Italii wraz ze swą #żoną Pryscyllą dlatego, bo Klaudiusz rozporządził, żeby wszyscy Żydzi odjechali z Rzymu. Zatem do nich poszedł."
 "A ponieważ uprawiał to samo rzemiosło gdyż ich rzemiosłem było sporządzanie namiotów mieszkał u nich oraz pracował."
 "Zaś podczas każdego szabatu rozmawiał w bóżnicy, zjednując Żydów i Greków."
 "A gdy Sylas i Tymoteusz przyszli z Macedonii, Paweł przynaglał Ducha, zaklinając się Żydom, że Jezus jest Chrystusem"

@@ -1,5 +1,5 @@
 "Za czasów, kiedy rządy sprawowali sędziowie, nastał w kraju głód. Wtedy pewien mąż z Betlechem w Judei, wyjechał wraz z żoną oraz dwoma swoimi synami, by zamieszkać w moabskiej krainie."
-"Zaś imię tego męża było Elimelech, a imię jego żony to Naemi, a imiona dwóch jego synów to Machlon i Kiljon. Byli to Efratydzi z Betlechem w Judei. A gdy przybyli do moabskiej krainy tam też osiedli."
+"Zaś imię tego męża było Elimelech, a imię jego żony to Naemi, a imiona dwóch jego synów to Machlon #i Kiljon. Byli to Efratydzi z Betlechem w Judei. A gdy przybyli do moabskiej krainy tam też osiedli."
 "Potem umarł Elimelech mąż Naemi, zatem ona pozostała z dwoma swoimi synami."
 "Ci pojęli sobie moabskie żony; imię jednej to Orpa, a imię drugiej to Ruth. I tak przebywali tam około dziesięciu lat."
 "Po czym i oni obaj Machlon i Kiljon też umarli, a pozostała owa kobieta, osierocona po obu synach oraz po swoim mężu."
@@ -10,7 +10,7 @@
 "i do niej powiedziały
 "Ale Naemi odpowiedziała
 "Zawróćcie, moje córki, idźcie. Jestem już za stara, aby wyjść za mąż. Ale choćbym myślała
-"czy będziecie czekać aż podrosną? Czy się dla nich zamkniecie i nie będziecie wychodziły za mąż? Nie, moje córki. Jest mi z waszego powodu bardzo gorzko, bo zwróciła się przeciw mnie ręka WIEKUISTEGO."
+"czy będziecie czekać aż podrosną? Czy się dla nich zamkniecie i nie będziecie wychodziły za mąż? Nie, #moje córki. Jest mi z waszego powodu bardzo gorzko, bo zwróciła się przeciw mnie ręka WIEKUISTEGO."
 "Wtedy na nowo zaczęły głośno płakać. Potem Orpa ucałowała swą teściową, ale Ruth do niej przylgnęła."
 "Zaś ta powiedziała
 "Ale Ruth odparła

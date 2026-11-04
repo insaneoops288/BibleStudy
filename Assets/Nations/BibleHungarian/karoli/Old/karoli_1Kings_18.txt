@@ -9,8 +9,8 @@
 "Õ pedig monda
 "Él az Úr a te Istened
 "És most te azt mondod
-"Ha most elmegyek tõled, téged pedig olyan helyre ragad el az Úrnak Lelke, a melyet én nem tudok, és én elmegyek, hogy megmondjam Akhábnak, és ha õ téged nem talál meg, engem öl meg; pedig a te szolgád féli az Urat gyermekségétõl fogva."
-"Nem mondották-é meg az én uramnak, mit cselekedtem, mikor Jézabel megölette az Úr prófétáit? hogy hogyan rejtettem el az Úr prófétái közül száz férfiút ötvenenként egy-egy barlangba és tápláltam õket kenyérrel és vízzel."
+"Ha most elmegyek tõled, téged pedig olyan helyre ragad el az Úrnak Lelke, a melyet én nem tudok, és én elmegyek, hogy #megmondjam Akhábnak, és ha õ téged nem talál meg, engem öl meg; pedig a te szolgád féli az Urat gyermekségétõl fogva."
+"Nem mondották-é meg az én uramnak, mit cselekedtem, mikor Jézabel megölette az Úr prófétáit? hogy hogyan rejtettem #el az Úr prófétái közül száz férfiút ötvenenként egy-egy barlangba és tápláltam õket kenyérrel és vízzel."
 "És te mégis azt mondod
 "És felele Illés
 "Elméne azért Abdiás Akháb eleibe, és megjelenté ezt néki, és eleibe méne Akháb Illésnek."
@@ -20,7 +20,7 @@
 "És elkülde Akháb mind az egész Izráel fiaihoz, és egybegyûjté a prófétákat a Kármel hegyre."
 "És odamenvén Illés az egész sokasághoz, monda
 "Akkor monda Illés a népnek
-"Adjatok azért nékünk két tulkot, és [õk] válaszszák magoknak az egyik tulkot, a melyet vagdaljanak darabokra, és rakják a fákra; de tüzet ne tegyenek alája; én pedig a másikat készítem el, a melyet a fákra rakok, de tüzet én sem teszek alája."
+"Adjatok azért nékünk két tulkot, és [õk] válaszszák magoknak az egyik tulkot, a melyet vagdaljanak darabokra, és rakják a fákra; de tüzet #ne tegyenek alája; én pedig a másikat készítem el, a melyet a fákra rakok, de tüzet én sem teszek alája."
 "Akkor hívjátok segítségül a ti istenteknek nevét, és én is segítségül hívom az Úrnak nevét; és a mely isten tûz által felel, az az Isten. És felelvén az egész sokaság, monda
 "És monda Illés a Baál prófétáinak
 "És vevék a tulkot, a melyet nékik adott, és azt elkészíték, és segítségül hívák a Baálnak nevét reggeltõl fogva délig, mondván

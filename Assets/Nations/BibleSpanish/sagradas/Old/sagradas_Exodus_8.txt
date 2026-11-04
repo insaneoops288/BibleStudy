@@ -14,12 +14,12 @@
 "Y las juntaron en montones, y la tierra se corrompió."
 "Y viendo Faraón que le habían dado reposo, agravó su corazón, y no los escuchó; como el SEÑOR lo había dicho."
 "Entonces el SEÑOR dijo a Moisés
-"Y ellos lo hicieron así; y Aarón extendió su mano con su vara, e hirió el polvo de la tierra, el cual se volvió piojos, así en los hombres como en las bestias; todo el polvo de la tierra se volvió piojos en toda la tierra  de Egipto."
+"Y ellos lo hicieron así; y Aarón extendió su mano con su vara, e hirió el polvo de la tierra, el cual se volvió piojos, #así en los hombres como en las bestias; todo el polvo de la tierra se volvió piojos en toda la tierra  de Egipto."
 "Y los encantadores hicieron así también, para sacar piojos con sus encantamientos; mas no pudieron. Y había piojos así en los hombres como en las bestias."
 "Entonces los magos dijeron al Faraón
 "Y el SEÑOR dijo a Moisés
-"Porque si no dejares ir a mi pueblo, he aquí yo enviaré sobre ti, y sobre tus siervos, y sobre tu pueblo, y sobre tus casas toda suerte de moscas; y las casas de los egipcios se llenarán de toda suerte de moscas, y asimismo  la tierra donde ellos estuvieren."
-"Y aquel día <I>yo</I>  apartaré la tierra de Gosén, en la cual mi pueblo habita, <I>para</I>  que ninguna suerte de moscas haya en ella; a fin de que sepas que yo <I>soy</I>  el SEÑOR en medio de la tierra."
+"Porque si no dejares ir a mi pueblo, he aquí yo enviaré sobre ti, y sobre tus siervos, y sobre tu pueblo, y sobre tus casas #toda suerte de moscas; y las casas de los egipcios se llenarán de toda suerte de moscas, y asimismo  la tierra donde ellos estuvieren."
+"Y aquel día <I>yo</I>  apartaré la tierra de Gosén, en la cual mi pueblo habita, <I>para</I>  que ninguna suerte de #moscas haya en ella; a fin de que sepas que yo <I>soy</I>  el SEÑOR en medio de la tierra."
 "Y <I>yo</I>  pondré redención entre mi pueblo y el tuyo. Mañana será esta señal."
 "Y el SEÑOR lo hizo así
 "Entonces <I>el</I>  Faraón llamó a Moisés y a Aarón, y les dijo

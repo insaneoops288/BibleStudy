@@ -4,6 +4,6 @@
 "Atë ditë do të ndodhë që secili profet do të ndiejë turp për vegimin e vet, kur të profetizojë dhe nuk do të veshë më qyrkun për të mashtruar."
 "Po secili do të thotë
 "Pastaj në qoftë se dikush do t'i thotë
-"""Zgjohu, o shpatë, kundër bariut tim dhe kundër njeriut që është shoku im"", thotë Zoti i ushtrive. ""Godite bariun dhe delet le të shpërndahen; pastaj do ta drejtoj dorën time kundër të vegjëlve."
+"""Zgjohu, o shpatë, kundër bariut tim dhe kundër njeriut që është shoku im"", thotë Zoti i ushtrive. #""Godite bariun dhe delet le të shpërndahen; pastaj do ta drejtoj dorën time kundër të vegjëlve."
 "Dhe në gjithë vendin do të ndodhë"", thotë Zoti, ""që dy të tretat do të shfarosen dhe do të vdesin, por një e treta do të mbetet."
-"Këtë të tretë do ta bëj të kalojë nëpër zjarr, do ta rafinoj ashtu si rafinohet argjendi dhe do ta vë në provë ashtu si provohet ari. Ata do të thërresin emrin tim dhe unë do t'i kënaq. Unë do të them
+"Këtë të tretë do ta bëj të kalojë nëpër zjarr, do ta rafinoj ashtu si rafinohet argjendi dhe do ta vë në #provë ashtu si provohet ari. Ata do të thërresin emrin tim dhe unë do t'i kënaq. Unë do të them

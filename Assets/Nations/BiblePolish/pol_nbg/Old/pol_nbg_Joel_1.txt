@@ -10,7 +10,7 @@
 "Spustoszone są pola, smuci się gleba, bowiem zboże zostało poniszczone, wysechł moszcz, zginęła oliwa."
 "Biadajcie winiarze; z powodu pszenicy i jęczmienia truchlejcie oracze, bowiem zginęło żniwo pola."
 "Uschła winorośl, zwiędło figowe drzewo, granat, palma, jabłoń oraz poschły wszystkie polne drzewa; tak, odeszła radość od wszystkich ludzkich synów."
-"Kapłani! Przepaszcie się i narzekajcie! Biadajcie słudzy ołtarza! Wejdźcie do Świątyni aby nocować w worach, słudzy mojego Boga! Gdyż z Domu waszego Boga została usunięta ofiara z pokarmów i zalewka."
+"Kapłani! Przepaszcie się i narzekajcie! Biadajcie słudzy ołtarza! Wejdźcie do Świątyni aby nocować w worach, słudzy #mojego Boga! Gdyż z Domu waszego Boga została usunięta ofiara z pokarmów i zalewka."
 "Ogłoście post, zwołajcie uroczyste zgromadzenie; do Domu WIEKUISTEGO, waszego Boga, zbierzcie starszyznę oraz wszystkich mieszkańców kraju i wołajcie do WIEKUISTEGO!"
 "Biada w ten dzień! Bo bliski jest dzień WIEKUISTEGO, a nadchodzi jako pogrom od Wszechmocnego."
 "Czy nie na waszych oczach został odjęty pokarm, a z Domu naszego Boga radość i wesele?"

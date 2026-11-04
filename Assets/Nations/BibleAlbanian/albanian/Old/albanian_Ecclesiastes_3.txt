@@ -16,7 +16,7 @@
 "Kam parë gjithashtu nën diell që në vend të arsyes kishte paudhësi, që në vend të drejtësisë kishte paudhësi."
 "Kështu thashë në zemrën time
 "Thashë në zemrën time
-"Në fakt të gjitha ato që u ndodhin bijve të njerëzve u ndodhin kafshëve; të dy palëve u ndodh e njëjta gjë. Ashtu si vdes njeri, kështu vdes tjetri. Po, të gjithë kanë po atë frymë; dhe njeriu nuk ka asnjë epërsi mbi kafshën, sepse gjithçka është kotësi."
+"Në fakt të gjitha ato që u ndodhin bijve të njerëzve u ndodhin kafshëve; të dy palëve u ndodh e njëjta gjë. Ashtu si vdes #njeri, kështu vdes tjetri. Po, të gjithë kanë po atë frymë; dhe njeriu nuk ka asnjë epërsi mbi kafshën, sepse gjithçka është kotësi."
 "Të gjithë shkojnë në po atë vend; të gjithë vijnë nga pluhuri dhe kthehen në pluhur."
 "Kush e di në se fryma e bijve të njerëzve ngjitet lart dhe në se fryma e kafshës zbret poshtë në tokë?"
 "Kështu e kuptova që nuk ka gjë më të mirë për njeriun se sa të gëzohet në punën e tij, sepse kjo është pjesa e tij. Kush do ta çojë në fakt të shohë atë që ka për të ndodhur pas tij?"

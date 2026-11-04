@@ -5,7 +5,7 @@
 "És szólíták Lótot, mondván néki
 "És kiméne Lót õ hozzájok az ajtó eleibe, és bezárá maga után az ajtót."
 "És monda
-"Ímé van énnékem két leányom, a kik még nem ismertek férfiat, kihozom azokat ti hozzátok, és cselekedjetek velök a mint néktek tetszik, csakhogy ezekkel az emberekkel ne csináljatok semmit, mivelhogy az én hajlékom árnyéka alá jöttenek."
+"Ímé van énnékem két leányom, a kik még nem ismertek férfiat, kihozom azokat ti hozzátok, és cselekedjetek velök a #mint néktek tetszik, csakhogy ezekkel az emberekkel ne csináljatok semmit, mivelhogy az én hajlékom árnyéka alá jöttenek."
 "Azok pedig mondának
 "De kinyújták azok a férfiak kezeiket, és bevonák Lótot magokhoz a házba és bezárák az ajtót."
 "Az embereket pedig, kik a ház ajtaja elõtt valának, vaksággal verék meg kicsinytõl nagyig, annyira, hogy elfáradának az ajtó keresésében."

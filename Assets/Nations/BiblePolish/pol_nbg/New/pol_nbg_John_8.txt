@@ -41,7 +41,7 @@
 "Wy robicie uczynki waszego ojca. Zatem mu powiedzieli
 "Powiedział im Jezus
 "Dlaczego nie rozumiecie mojej mowy? Gdyż nie możecie słuchać mojego słowa."
-"Wy jesteście z tego oszczerczego ojca i chcecie czynić pragnienia waszego ojca. On był od początku zabójcą człowieka i nie trwał w prawdzie, gdyż w nim nie ma prawdy; kiedy mówi kłamstwo, mówi ze swoich własnych, bo jest kłamcą i jego ojcem."
+"Wy jesteście z tego oszczerczego ojca i chcecie czynić pragnienia waszego ojca. On był od początku zabójcą człowieka i nie trwał w #prawdzie, gdyż w nim nie ma prawdy; kiedy mówi kłamstwo, mówi ze swoich własnych, bo jest kłamcą i jego ojcem."
 "A mnie, ponieważ mówię prawdę, mnie nie wierzycie."
 "Kto z was oskarża mnie co do grzechu? Jeżeli mówię prawdę, dlaczego mi nie wierzycie?"
 "Kto jest z Boga słucha spraw Boga; wy nie słuchacie dlatego, bo nie jesteście z Boga."

@@ -1,4 +1,4 @@
-"Voi siunas hävittäjä! luuletkos, ettei sinun pidä hävitetyksi tuleman? ja sinuas ylönkatsoja! luuletkos, ettei sinua ylönkatsota? Koska sinä olet täyttänyt hävitykses, niin sinun myös pitää tuleman hävitetyksi; koska sinä olet täyttänyt ylönkatsees, niin sinua pitää jälleen katsottaman ylön."
+"Voi siunas hävittäjä! luuletkos, ettei sinun pidä hävitetyksi tuleman? ja sinuas ylönkatsoja! luuletkos, ettei sinua ylönkatsota? Koska sinä olet täyttänyt #hävitykses, niin sinun myös pitää tuleman hävitetyksi; koska sinä olet täyttänyt ylönkatsees, niin sinua pitää jälleen katsottaman ylön."
 "Herra, ole meille armollinen; sillä me odotamme sinua
 "Kansat pakenevat sitä suurta pauhinaa; pakanat hajoitetaan, kuin sinä korotetaan."
 "Silloin pitää teidän saalinne korjattaman niinkuin perhonen otetaan, ja niinkuin heinäsirkat karkoitetaan, koska heidän päällensä tullaan."
@@ -12,13 +12,13 @@
 "Sillä kansa pitää poltettaman kalkiksi, niinkuin hakatut orjantappurat tulelle sytytetään."
 "Niin kuulkaat nyt te, jotka kaukana olette, mitä minä olen tehnyt; ja te, jotka olette läsnä, havaitkaat minun väkevyteni."
 "Syntiset Zionissa ovat peljästyneet, hämmästys on tullut ulkokullattuin päälle (ja sanovat)
-"Joka vanhurskaudessa vaeltaa ja puhuu oikeutta; joka vääryyttä ja ahneutta vihaa, ja vetää kätensä pois, ettei hän ota lahjoja; joka tukitsee korvansa kuulemasta veren vikoja, ja peittää silmänsä näkemästä pahaa
+"Joka vanhurskaudessa vaeltaa ja puhuu oikeutta; joka vääryyttä ja ahneutta vihaa, ja vetää kätensä pois, ettei #hän ota lahjoja; joka tukitsee korvansa kuulemasta veren vikoja, ja peittää silmänsä näkemästä pahaa
 "Hän on korkeudessa asuva, ja kalliot ovat hänen linnansa ja tukeensa
 "Sinun silmäs näkevät kuninkaan kunniassansa
 "Sinun sydämes ihmettelee, (ja sanoo
 "Etkä myös sinä ole näkevä sitä väkevää kansaa, sitä syväkielistä kansaa, jota ei ymmärretä, ja oudosta kielestä, jota ei taideta ymärtää."
-"Katso Zionia, juhlakaupunkiamme; sinun silmäs on näkevä Jerusalemin kauniin asumuksen, majan, jota ei viedä pois, jonka paanuja ei ikänä pidä temmattaman ylös, ja jonka köysiä ei ikänä pidä katkottaman."
+"Katso Zionia, juhlakaupunkiamme; sinun silmäs on näkevä Jerusalemin kauniin asumuksen, majan, jota ei viedä pois, #jonka paanuja ei ikänä pidä temmattaman ylös, ja jonka köysiä ei ikänä pidä katkottaman."
 "Sillä Herra on siellä oleva väkevä meidän tykönämme, ja siellä pitää oleman leviät virrat ja ojat; ei venheellä taideta mennä sieltä ylitse, eikä laiva taida sinne purjehtia;"
 "Sillä Herra on meidän tuomarimme, Herra on meidän opettajamme; Herra on meidän kuninkaamme, hän auttaa meitä."
-"Anna heidän pingoittaa köytensä, ei ne pidä kuitenkaan pitämän, niin ei pidä myös heidän hajoittaman lippua pielten päälle; sillä paljo kalliimpi saalis pitää jaettaman, niin että ontuvat myös ryöstävät."
+"Anna heidän pingoittaa köytensä, ei ne pidä kuitenkaan pitämän, niin ei pidä myös heidän hajoittaman #lippua pielten päälle; sillä paljo kalliimpi saalis pitää jaettaman, niin että ontuvat myös ryöstävät."
 "Ja ei yhdenkään asuvaisen pidä sanoman

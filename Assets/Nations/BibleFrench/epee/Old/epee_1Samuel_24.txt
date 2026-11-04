@@ -8,7 +8,7 @@
 "Après cela, David se leva, et sortit de la caverne, et cria après Saül, en disant
 " Et David dit à Saül
 "Voici, tes yeux ont vu, en ce jour, que l'Éternel t'avait livré aujourd'hui entre mes mains, dans la caverne, et l'on m'a dit de te tuer; mais je t'ai épargné, et j'ai dit
-"Regarde, mon père, regarde le pan de ton manteau que j'ai à la main; puisque j'ai coupé le pan de ton manteau, et que je ne t'ai pas tué, sache et reconnais qu'il n'y a point de mal ni d'injustice en moi, et que je n'ai point péché contre toi; et toi tu épies ma vie pour me l'ôter!"
+"Regarde, mon père, regarde le pan de ton manteau que j'ai à la main; puisque j'ai coupé le pan de ton manteau, et que je ne t'ai pas tué, sache #et reconnais qu'il n'y a point de mal ni d'injustice en moi, et que je n'ai point péché contre toi; et toi tu épies ma vie pour me l'ôter!"
 "L'Éternel sera juge entre moi et toi, et l'Éternel me vengera de toi; mais ma main ne sera point sur toi."
 "Le mal vient des méchants, comme dit le proverbe des anciens; aussi ma main ne sera point sur toi."
 "Après qui est sorti le roi d'Israël? Qui poursuis-tu? Un chien mort, une puce!"

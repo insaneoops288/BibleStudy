@@ -9,7 +9,7 @@
 "Cantique d'Ezéchias, roi de Juda, sur sa maladie et sur son rétablissement."
 "Je disais
 "Je disais
-"Ma demeure est enlevée et transportée loin de moi, Comme une tente de berger; Je sens le fil de ma vie coupé comme par un tisserand Qui me retrancherait de sa trame. Du jour à la nuit tu m'auras achevé!"
+"Ma demeure est enlevée et transportée loin de moi, Comme une tente de berger; Je sens le fil de ma vie #coupé comme par un tisserand Qui me retrancherait de sa trame. Du jour à la nuit tu m'auras achevé!"
 "Je me suis contenu jusqu'au matin; Comme un lion, il brisait tous mes os, Du jour à la nuit tu m'auras achevé!"
 "Je poussais des cris comme une hirondelle en voltigeant, Je gémissais comme la colombe; Mes yeux s'élevaient languissants vers le ciel
 "Que dirai-je? Il m'a répondu, et il m'a exaucé. Je marcherai humblement jusqu'au terme de mes années, Après avoir été ainsi affligé."

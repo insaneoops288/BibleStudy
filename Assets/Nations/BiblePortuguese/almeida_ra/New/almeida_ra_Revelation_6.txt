@@ -5,10 +5,10 @@
 "Quando abriu o terceiro selo, ouvi o terceiro ser vivente dizer
 "E ouvi como que uma voz no meio dos quatro seres viventes, que dizia
 "Quando abriu o quarto selo, ouvi a voz do quarto ser vivente dizer
-"E olhei, e eis um cavalo amarelo, e o que estava montado nele chamava-se Morte; e o inferno seguia com ele; e foi-lhe dada autoridade sobre a quarta parte da terra, para matar com a espada, e com a fome, e com a peste, e com as feras da terra."
+"E olhei, e eis um cavalo amarelo, e o que estava montado nele chamava-se Morte; e o inferno seguia com ele; e foi-lhe dada autoridade sobre #a quarta parte da terra, para matar com a espada, e com a fome, e com a peste, e com as feras da terra."
 "Quando abriu o quinto selo, vi debaixo do altar as almas dos que tinham sido mortos por causa da palavra de Deus e por causa do testemunho que deram."
 "E clamaram com grande voz, dizendo
-"E foram dadas a cada um deles compridas vestes brancas e foi-lhes dito que repousassem ainda por um pouco de tempo, até que se completasse o número de seus conservos, que haviam de ser mortos, como também eles o foram."
+"E foram dadas a cada um deles compridas vestes brancas e foi-lhes dito que repousassem ainda por um pouco de tempo, #até que se completasse o número de seus conservos, que haviam de ser mortos, como também eles o foram."
 "E vi quando abriu o sexto selo, e houve um grande terremoto; e o sol tornou-se negro como saco de cilício, e a lua toda tornou-se como sangue;"
 "e as estrelas do céu caíram sobre a terra, como quando a figueira, sacudida por um vento forte, deixa cair os seus figos verdes."
 "E o céu recolheu-se como um livro que se enrola; e todos os montes e ilhas foram removidos dos seus lugares."

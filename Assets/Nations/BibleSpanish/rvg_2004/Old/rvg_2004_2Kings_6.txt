@@ -22,7 +22,7 @@
 "Y él le respondió
 "Entonces les fue aparejada grande comida; y como hubieron comido y bebido, los envió, y ellos se volvieron a su señor. Y nunca más vinieron cuadrillas de Siria a la tierra de Israel."
 "Después de esto aconteció, que Benadad rey de Siria juntó todo su ejército, y subió, y puso cerco a Samaria."
-"Y hubo grande hambre en Samaria, teniendo ellos cerco sobre ella; tanto, que la cabeza de un asno era vendida por ochenta piezas de plata, y la cuarta de un cabo de estiércol de palomas por cinco piezas de plata."
+"Y hubo grande hambre en Samaria, teniendo ellos cerco sobre ella; tanto, que la cabeza de un asno era vendida por #ochenta piezas de plata, y la cuarta de un cabo de estiércol de palomas por cinco piezas de plata."
 "Y pasando el rey de Israel por el muro, una mujer le dio voces, y dijo
 "Y él dijo
 "Y le dijo el rey

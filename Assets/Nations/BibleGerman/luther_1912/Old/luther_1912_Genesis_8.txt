@@ -6,7 +6,7 @@
 "Nach vierzig Tagen tat Noah das Fenster auf an dem Kasten, das er gemacht hatte,"
 "und ließ einen Raben ausfliegen; der flog immer hin und wieder her, bis das Gewässer vertrocknete auf Erden."
 "Darnach ließ er eine Taube von sich ausfliegen, auf daß er erführe, ob das Gewässer gefallen wäre auf Erden."
-"Da aber die Taube nicht fand, da ihr Fuß ruhen konnte, kam sie wieder zu ihm in den Kasten; denn das Gewässer war noch auf dem ganzen Erdboden. Da tat er die Hand heraus und nahm sie zu sich in den Kasten."
+"Da aber die Taube nicht fand, da ihr Fuß ruhen konnte, kam sie wieder zu ihm in den Kasten; denn das Gewässer #war noch auf dem ganzen Erdboden. Da tat er die Hand heraus und nahm sie zu sich in den Kasten."
 "Da harrte er noch weitere sieben Tage und ließ abermals eine Taube fliegen aus dem Kasten."
 "Die kam zu ihm zur Abendzeit, und siehe, einÖlblatt hatte sie abgebrochen und trug's in ihrem Munde. Da merkte Noah, daß das Gewässer gefallen wäre auf Erden."
 "Aber er harrte noch weiter sieben Tage und ließ eine Taube ausfliegen; die kam nicht wieder zu ihm."
@@ -14,7 +14,7 @@
 "Also ward die Erde ganz trocken am siebenundzwanzigsten Tage des zweiten Monats."
 "Da redete Gott mit Noah und sprach
 "Gehe aus dem Kasten, du und dein Weib, deine Söhne und deiner Söhne Weiber mit dir."
-"Allerlei Getier, das bei dir ist, von allerlei Fleisch, an Vögeln, an Vieh und an allerlei Gewürm, das auf Erden kriecht, das gehe heraus mit dir, daß sie sich regen auf Erden und fruchtbar seien und sich mehren auf Erden."
+"Allerlei Getier, das bei dir ist, von allerlei Fleisch, an Vögeln, an Vieh und an allerlei Gewürm, das auf Erden kriecht, #das gehe heraus mit dir, daß sie sich regen auf Erden und fruchtbar seien und sich mehren auf Erden."
 "Also ging Noah heraus mit seinen Söhnen und seinem Weibe und seiner Söhne Weibern,"
 "dazu allerlei Getier, allerlei Gewürm, allerlei Vögel und alles, was auf Erden kriecht; das ging aus dem Kasten, ein jegliches mit seinesgleichen."
 "Noah aber baute dem HERRN einen Altar und nahm von allerlei reinem Vieh und von allerlei reinem Geflügel und opferte Brandopfer auf dem Altar."

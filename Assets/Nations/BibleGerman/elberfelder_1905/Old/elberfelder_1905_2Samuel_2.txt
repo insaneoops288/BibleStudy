@@ -10,7 +10,7 @@
 "Vierzig Jahre war Isboseth, der Sohn Sauls, alt, als er König wurdeüber Israel, und er regierte zwei Jahre; nur das Haus Juda folgte David nach."
 "Und die Zahl der Tage, welche David in Hebronüber das Haus Juda König war, betrug sieben Jahre und sechs Monate."
 "Und Abner, der Sohn Ners, und die Knechte Isboseths, des Sohnes Sauls, zogen aus von Machanaim nach Gibeon;"
-"und auch Joab, der Sohn der Zeruja, und die Knechte Davids zogen aus; und sie stießen bei dem Teiche von Gibeon aufeinander. Und diese ließen sich nieder auf dieser Seite des Teiches, und jene auf jener Seite des Teiches."
+"und auch Joab, der Sohn der Zeruja, und die Knechte Davids zogen aus; und sie stießen bei dem Teiche von #Gibeon aufeinander. Und diese ließen sich nieder auf dieser Seite des Teiches, und jene auf jener Seite des Teiches."
 "Da sprach Abner zu Joab
 "Und sie machten sich auf und gingen hinüber, nach der Zahl
 "Und sie ergriffen einer den anderen beim Kopfe, und jeder stieß sein Schwert dem anderen in die Seite, und sie fielen zusammen. Und man nannte selbigen Ort Helkath-Hazzurim, der bei Gibeon ist."
@@ -20,7 +20,7 @@
 "Da wandte sich Abner um und sprach
 "Da sprach Abner zu ihm
 "Da sprach Abner nochmals zu Asael
-"Aber er weigerte sich zu weichen. Da schlug ihn Abner mit dem hinteren Ende des Speeres in den Bauch, daß der Speer hinten herausfuhr; und er fiel daselbst und starb an seiner Stelle. Und es geschah, jeder, der an den Ort kam, wo Asael gefallen und gestorben war, der blieb stehen."
+"Aber er weigerte sich zu weichen. Da schlug ihn Abner mit dem hinteren Ende des Speeres in den Bauch, daß der Speer hinten herausfuhr; und er #fiel daselbst und starb an seiner Stelle. Und es geschah, jeder, der an den Ort kam, wo Asael gefallen und gestorben war, der blieb stehen."
 "Und Joab und Abisai jagten Abner nach; und die Sonne ging unter, als sie zum Hügel Amma kamen, der vor Giach liegt, auf dem Wege zur Wüste Gibeon."
 "Und die Kinder Benjamin sammelten sich hinter Abner her und wurden zu einem Haufen, und sie stellten sich auf den Gipfel eines Hügels."
 "Und Abner rief Joab zu und sprach

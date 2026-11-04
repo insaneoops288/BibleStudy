@@ -18,8 +18,8 @@
 "Monda azután
 "Akkor megharaguvék reá az Isten embere, és monda
 "Azután meghalt Elizeus, és eltemették. A moábita portyázó csapatok pedig az országba törtek a következõ esztendõben."
-"És történt, hogy egy embert temettek, és mikor meglátták a csapatokat, gyorsan odatették azt az embert az Elizeus sírjába; de a mint odajutott és hozzáért az Elizeus tetemeihez, megelevenedett és lábaira állott."
+"És történt, hogy egy embert temettek, és mikor meglátták a csapatokat, gyorsan odatették azt az embert az #Elizeus sírjába; de a mint odajutott és hozzáért az Elizeus tetemeihez, megelevenedett és lábaira állott."
 "Hazáel pedig, Siria királya nyomorgatá az Izráelt Joákház minden napjaiban."
-"De megkegyelmezett az Úr nékik, és megkönyörült rajtok, és hozzájok tért az õ szövetségéért, a melyet kötött volt Ábrahámmal, Izsákkal és Jákóbbal, és nem akarta õket elveszíteni, sem el nem vetette õket az õ orczája elõl mind ez ideig."
+"De megkegyelmezett az Úr nékik, és megkönyörült rajtok, és hozzájok tért az õ szövetségéért, a melyet kötött volt Ábrahámmal, Izsákkal #és Jákóbbal, és nem akarta õket elveszíteni, sem el nem vetette õket az õ orczája elõl mind ez ideig."
 "És meghalt Hazáel, Siria királya, és az õ fia, Benhadád lett helyette a király."
-"És visszavevé Joás, a Joákház fia Benhadádnak, a Hazáel fiának kezébõl a városokat, a melyeket erõvel elvett volt Joákháznak, az õ atyjának kezébõl. Háromszor veré meg õt Joás, és visszaszerezte Izráel városait."
+"És visszavevé Joás, a Joákház fia Benhadádnak, a Hazáel fiának kezébõl a városokat, a melyeket erõvel elvett #volt Joákháznak, az õ atyjának kezébõl. Háromszor veré meg õt Joás, és visszaszerezte Izráel városait."

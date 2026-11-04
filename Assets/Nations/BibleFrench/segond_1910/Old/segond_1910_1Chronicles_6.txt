@@ -29,7 +29,7 @@
 "Fils de Merari
 "Schimea, son fils; Hagguija, son fils; Asaja, son fils."
 "Voici ceux que David établit pour la direction du chant dans la maison de l'Eternel, depuis que l'arche eut un lieu de repos
-"ils remplirent les fonctions de chantres devant le tabernacle, devant la tente d'assignation, jusqu'à ce que Salomon eût bâti la maison de l'Eternel à Jérusalem, et ils faisaient leur service d'après la règle qui leur était prescrite."
+"ils remplirent les fonctions de chantres devant le tabernacle, devant la tente d'assignation, jusqu'à ce que Salomon eût bâti #la maison de l'Eternel à Jérusalem, et ils faisaient leur service d'après la règle qui leur était prescrite."
 "Voici ceux qui officiaient avec leurs fils. -D'entre les fils des Kehathites
 "fils d'Elkana, fils de Jerocham, fils d'Eliel, fils de Thoach,"
 "fils de Tsuph, fils d'Elkana, fils de Machath, fils d'Amasaï,"
@@ -46,7 +46,7 @@
 "fils d'Amtsi, fils de Bani, fils de Schémer,"
 "fils de Machli, fils de Muschi, fils de Merari, fils de Lévi."
 "Leurs frères, les Lévites, étaient chargés de tout le service du tabernacle, de la maison de Dieu."
-"Aaron et ses fils offraient les sacrifices sur l'autel des holocaustes et l'encens sur l'autel des parfums, ils remplissaient toutes les fonctions dans le lieu très saint, et faisaient l'expiation pour Israël, selon tout ce qu'avait ordonné Moïse, serviteur de Dieu."
+"Aaron et ses fils offraient les sacrifices sur l'autel des holocaustes et l'encens sur l'autel des parfums, ils remplissaient toutes les #fonctions dans le lieu très saint, et faisaient l'expiation pour Israël, selon tout ce qu'avait ordonné Moïse, serviteur de Dieu."
 "Voici les fils d'Aaron
 "Bukki, son fils; Uzzi, son fils; Zerachja, son fils;"
 "Merajoth, son fils; Amaria, son fils; Achithub, son fils;"

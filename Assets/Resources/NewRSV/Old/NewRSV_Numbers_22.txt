@@ -2,8 +2,8 @@ The Israelites set out, and camped in the plains of Moab across the Jordan from 
 Now Balak son of Zippor saw all that Israel had done to the Amorites.
 Moab was in great dread of the people, because they were so numerous; Moab was overcome with fear of the people of Israel.
 And Moab said to the elders of Midian, "This horde will now lick up all that is around us, as an ox licks up the grass of the field." Now Balak son of Zippor was king of Moab at that time.
-He sent messengers to Balaam son of Beor at Pethor, which is on the Euphrates, in the land of Amaw, to summon him, saying, "A people has come out of Egypt; they have spread over the face of the earth, and they have settled next to me.
-Come now, curse this people for me, since they are stronger than I; perhaps I shall be able to defeat them and drive them from the land; for I know that whomever you bless is blessed, and whomever you curse is cursed."
+He sent messengers to Balaam son of Beor at Pethor, which is on the Euphrates, in the land of Amaw, to summon him, saying, #"A people has come out of Egypt; they have spread over the face of the earth, and they have settled next to me.
+Come now, curse this people for me, since they are stronger than I; perhaps I shall be able to defeat them and #drive them from the land; for I know that whomever you bless is blessed, and whomever you curse is cursed."
 So the elders of Moab and the elders of Midian departed with the fees for divination in their hand; and they came to Balaam, and gave him Balak's message.
 He said to them, "Stay here tonight, and I will bring back word to you, just as the LORD speaks to me"; so the officials of Moab stayed with Balaam.
 God came to Balaam and said, "Who are these men with you?"
@@ -20,7 +20,7 @@ You remain here, as the others did, so that I may learn what more the LORD may s
 That night God came to Balaam and said to him, "If the men have come to summon you, get up and go with them; but do only what I tell you to do."
 So Balaam got up in the morning, saddled his donkey, and went with the officials of Moab.
 God's anger was kindled because he was going, and the angel of the LORD took his stand in the road as his adversary. Now he was riding on the donkey, and his two servants were with him.
-The donkey saw the angel of the LORD standing in the road, with a drawn sword in his hand; so the donkey turned off the road, and went into the field; and Balaam struck the donkey, to turn it back onto the road.
+The donkey saw the angel of the LORD standing in the road, with a drawn sword in his hand; so the donkey #turned off the road, and went into the field; and Balaam struck the donkey, to turn it back onto the road.
 Then the angel of the LORD stood in a narrow path between the vineyards, with a wall on either side.
 When the donkey saw the angel of the LORD, it scraped against the wall, and scraped Balaam's foot against the wall; so he struck it again.
 Then the angel of the LORD went ahead, and stood in a narrow place, where there was no way to turn either to the right or to the left.

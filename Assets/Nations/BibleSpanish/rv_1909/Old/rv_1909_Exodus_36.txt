@@ -1,11 +1,11 @@
-"HIZO, pues, Bezaleel y Aholiab, y todo hombre sabio de corazón, á quien Jehová dió sabiduría é inteligencia para que supiesen hacer toda la obra del servicio del santuario, todas las cosas que había mandado Jehová."
-"Y Moisés llamó á Bezaleel y á Aholiab, y á todo varón sabio de corazón, en cuyo corazón había dado Jehová sabiduría, y á todo hombre á quien su corazón le movió á llegarse á la obra, para trabajar en ella;"
-"Y tomaron de delante de Moisés toda la ofrenda que los hijos de Israel habían traído para la obra del servicio del santuario, á fin de hacerla. Y ellos le traían aún ofrenda voluntaria cada mañana."
+"HIZO, pues, Bezaleel y Aholiab, y todo hombre sabio de corazón, á quien Jehová dió sabiduría é inteligencia para #que supiesen hacer toda la obra del servicio del santuario, todas las cosas que había mandado Jehová."
+"Y Moisés llamó á Bezaleel y á Aholiab, y á todo varón sabio de corazón, en cuyo corazón había dado Jehová #sabiduría, y á todo hombre á quien su corazón le movió á llegarse á la obra, para trabajar en ella;"
+"Y tomaron de delante de Moisés toda la ofrenda que los hijos de Israel habían traído para la obra #del servicio del santuario, á fin de hacerla. Y ellos le traían aún ofrenda voluntaria cada mañana."
 "Vinieron, por tanto, todos los maestros que hacían toda la obra del santuario, cada uno de la obra que hacía."
 "Y hablaron á Moisés, diciendo
 "Entonces Moisés mandó pregonar por el campo, diciendo
 "Pues tenia material abundante para hacer toda la obra, y sobraba."
-"Y todos los sabios de corazón entre los que hacían la obra, hicieron el tabernáculo de diez cortinas, de lino torcido, y de jacinto, y de púrpura y carmesí; las cuales hicieron de obra prima, con querubines."
+"Y todos los sabios de corazón entre los que hacían la obra, hicieron el tabernáculo de diez cortinas, de #lino torcido, y de jacinto, y de púrpura y carmesí; las cuales hicieron de obra prima, con querubines."
 "La longitud de la una cortina era de veintiocho codos, y la anchura de cuatro codos
 "Y juntó las cinco cortinas la una con la otra
 "E hizo las lazadas de color de jacinto en la orilla de la una cortina, en el borde, á la juntura; y así hizo en la orilla al borde de la segunda cortina, en la juntura."

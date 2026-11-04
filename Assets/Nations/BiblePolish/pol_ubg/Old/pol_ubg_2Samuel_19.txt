@@ -3,8 +3,8 @@
 "I lud wkradał się tego dnia, gdy wchodzili do miasta, tak jak wkrada się lud, który jest okryty hańbą i ucieka z bitwy."
 "A król zasłonił swoją twarz i wołał donośnym głosem
 "Wtedy Joab wszedł do króla do domu i powiedział
-"Miłujesz tych, którzy cię nienawidzą, a nienawidzisz tych, którzy cię miłują. Pokazałeś bowiem dziś, że dowódcy i słudzy są dla ciebie niczym. Gdyż dzisiaj poznałem, że gdyby Absalom przeżył, a my wszyscy dziś poleglibyśmy, to by ci się bardzo spodobało."
-"Teraz wstań więc, wyjdź i przemów łagodnie do swoich sług. Przysięgam bowiem na PANA, że jeśli nie wyjdziesz, nikt nie pozostanie przy tobie tej nocy, a będzie to gorsze niż całe zło, jakie spotkało cię od twej młodości aż dotąd."
+"Miłujesz tych, którzy cię nienawidzą, a nienawidzisz tych, którzy cię miłują. Pokazałeś bowiem dziś, że dowódcy i słudzy są dla ciebie #niczym. Gdyż dzisiaj poznałem, że gdyby Absalom przeżył, a my wszyscy dziś poleglibyśmy, to by ci się bardzo spodobało."
+"Teraz wstań więc, wyjdź i przemów łagodnie do swoich sług. Przysięgam bowiem na PANA, że jeśli nie wyjdziesz, nikt nie pozostanie #przy tobie tej nocy, a będzie to gorsze niż całe zło, jakie spotkało cię od twej młodości aż dotąd."
 "Wtedy król wstał i zasiadł w bramie. Zawiadomiono cały lud
 "I cały lud, we wszystkich pokoleniach, rozprawiał ze sobą
 "Lecz Absalom, którego namaściliśmy nad sobą, zginął w bitwie. Czemu więc teraz nic nie mówicie o sprowadzeniu króla z powrotem?"
@@ -25,16 +25,16 @@
 "I kiedy przybył na spotkanie króla w Jerozolimie, zapytał go król
 "A on mu odpowiedział
 "On zaś oczernił twego sługę przed moim panem, królem. Lecz mój pan, król, jest jak anioł Boga. Uczyń więc, co jest dobre w twoich oczach."
-"Wszyscy bowiem z domu mego ojca byliśmy godni śmierci przed moim panem, królem. A jednak ty posadziłeś twego sługę między tymi, którzy jadają u twego stołu. Jakie mam więc prawo skarżenia się jeszcze przed królem?"
+"Wszyscy bowiem z domu mego ojca byliśmy godni śmierci przed moim panem, królem. A jednak ty posadziłeś twego #sługę między tymi, którzy jadają u twego stołu. Jakie mam więc prawo skarżenia się jeszcze przed królem?"
 "Wtedy król powiedział mu
 "A Mefiboszet powiedział do króla
 "Również Barzillaj Gileadczyk przybył z Rogelim, przeprawił się z królem przez Jordan, aby go odprowadzić za Jordan."
 "A Barzillaj był bardzo stary, miał osiemdziesiąt lat. On to zaopatrywał króla, dopóki przebywał w Machanaim, bo był bardzo bogatym człowiekiem."
 "Król powiedział do Barzillaja
 "Lecz Barzillaj odpowiedział królowi
-"Mam dzisiaj osiemdziesiąt lat. Czy mogę rozróżnić między dobrem a złem? Czy twój sługa poczuje smak tego, co je albo pije? Czy mogę jeszcze słuchać głosu śpiewaków i śpiewaczek? Po co więc twój sługa miałby być jeszcze ciężarem dla swego pana, króla?"
+"Mam dzisiaj osiemdziesiąt lat. Czy mogę rozróżnić między dobrem a złem? Czy twój sługa poczuje smak tego, co je albo pije? Czy #mogę jeszcze słuchać głosu śpiewaków i śpiewaczek? Po co więc twój sługa miałby być jeszcze ciężarem dla swego pana, króla?"
 "Twój sługa pójdzie jeszcze trochę za Jordan z królem. Czemu król miałby mi dawać taką nagrodę?"
-"Pozwól, proszę, twemu słudze powrócić, abym umarł w swoim mieście, przy grobie swego ojca i swej matki. Lecz oto twój sługa Kimham, niech on pójdzie z moim panem, królem. Uczyń mu to, co jest dobre w twoich oczach."
+"Pozwól, proszę, twemu słudze powrócić, abym umarł w swoim mieście, przy grobie swego ojca i swej matki. Lecz oto twój #sługa Kimham, niech on pójdzie z moim panem, królem. Uczyń mu to, co jest dobre w twoich oczach."
 "Król odpowiedział
 "I cały lud przeprawił się przez Jordan. Gdy król przeprawił się, pocałował król Barzillaja i błogosławił mu. Ten zaś wrócił do swego miejsca."
 "Potem król udał się do Gilgal, poszedł też z nim Kimham. Cały lud Judy towarzyszył królowi, a także połowa ludu Izraela."

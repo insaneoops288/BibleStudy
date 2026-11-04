@@ -6,7 +6,7 @@
 "Afrohuni te Perëndia dhe ai do t'ju afrohet juve; pastroni duart tuaja, o mëkatarë; dhe pastroni zemrat o njerëz me dy mendje!"
 "Pikëllohuni, mbani zi dhe qani; të qeshurit tuaj le të kthehet në zi, dhe gëzimi në trishtim."
 "Përuluni përpara Zotit, dhe ai do t'ju lartësojë!"
-"Mos flisni keq për njeri tjetrin, vë-llezër; ai që flet kundër vëllait dhe e gjykon vëllanë e vet, flet kundër ligjit dhe gjykon ligjin; dhe, po të gjykosh ligjin, ti nuk je zbatues i ligjit, por gjykatës."
+"Mos flisni keq për njeri tjetrin, vë-llezër; ai që flet kundër vëllait dhe e gjykon vëllanë e vet, flet #kundër ligjit dhe gjykon ligjin; dhe, po të gjykosh ligjin, ti nuk je zbatues i ligjit, por gjykatës."
 "Ka vetëm një Ligjdhënës, që mund të të shpëtojë ose të të çojë në humbje; por ti kush je që gjykon një tjetër?"
 "Dhe tani, ju që thoni
 "ndërsa nuk dini për të nesërmen. Sepse ç'është jeta? Éshtë avull që duket për pak, dhe pastaj humbet."

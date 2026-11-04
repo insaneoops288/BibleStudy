@@ -29,7 +29,7 @@
 "Los hijos de Merari
 "Simea su hijo, Haguía su hijo, Asaías su hijo."
 "Estos son a los que David dio cargo de las cosas de la música de la Casa del SEÑOR, después que el arca tuvo reposo."
-"Los cuales servían delante de la tienda del tabernáculo del testimonio en cantares, hasta que Salomón edificó la Casa del SEÑOR en Jerusalén; <I>después</I>  estuvieron en su ministerio según su costumbre."
+"Los cuales servían delante de la tienda del tabernáculo del testimonio en cantares, hasta que Salomón edificó #la Casa del SEÑOR en Jerusalén; <I>después</I>  estuvieron en su ministerio según su costumbre."
 "Estos, <I>pues</I> , con sus hijos asistían
 "hijo de Elcana, hijo de Jeroham, hijo de Eliel, hijo de Toa;"
 "hijo de Zuf, hijo de Elcana, hijo Mahat, hijo de Amasai;"
@@ -46,7 +46,7 @@
 "hijo de Amsi, hijo de Bani, hijo de Semer;"
 "hijo de Mahli, hijo de Musi, hijo de Merari, hijo de Leví."
 "Y sus hermanos los levitas <I>fueron</I>  entregados a todo el ministerio del tabernáculo de la Casa de Dios."
-"Mas Aarón y sus hijos ofrecían incienso sobre el altar del holocausto, y sobre el altar del incienso, en toda la obra del lugar santísimo, y para hacer las expiaciones sobre Israel, conforme a todo lo que Moisés siervo de  Dios había mandado."
+"Mas Aarón y sus hijos ofrecían incienso sobre el altar del holocausto, y sobre el altar del incienso, en toda la obra del #lugar santísimo, y para hacer las expiaciones sobre Israel, conforme a todo lo que Moisés siervo de  Dios había mandado."
 "Y los hijos de Aarón <I>son</I>  estos
 "Buqui su hijo, Uzi su hijo, Zeraías su hijo;"
 "Meraiot su hijo, Amarías su hijo, Ahitob su hijo;"

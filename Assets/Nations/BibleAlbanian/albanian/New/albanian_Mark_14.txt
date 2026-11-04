@@ -1,6 +1,6 @@
 "Tani dy ditë më vonë ishte Pashka dhe festa e të Ndormëve; dhe krerët e priftërinjve dhe skribët kërkonin mënyrën se si ta kapnin Jezusin me mashtrim dhe ta vrisnin."
 "Por thonin
-"Tani ai ishte në Betania, në shtëpinë e Simonit lebroz, dhe ndërsa ishte në tryezë, hyri një grua me një enë alabastri me vaj të parfumuar me nard të vërtetë, shumë të kushtueshëm; ajo e theu enën prej alabastri dhe ia derdhi vajin mbi krye."
+"Tani ai ishte në Betania, në shtëpinë e Simonit lebroz, dhe ndërsa ishte në tryezë, hyri një grua me një enë alabastri me #vaj të parfumuar me nard të vërtetë, shumë të kushtueshëm; ajo e theu enën prej alabastri dhe ia derdhi vajin mbi krye."
 "Disa u indinjuan midis tyre dhe thanë
 "Sepse ky vaj mund të shitej për më shumë se treqind denarë dhe këto t'u jepeshin të varfërve''. Dhe ishin të indinjuar ndaj asaj."
 "Por Jezusi tha

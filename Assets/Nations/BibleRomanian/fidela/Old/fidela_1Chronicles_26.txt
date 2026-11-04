@@ -27,6 +27,6 @@
 "[O parte] din prăzile câștigate în bătălii le-au dedicat pentru a întreține casa DOMNULUI."
 "Și tot ceea ce Samuel, văzătorul, și Saul, fiul lui Chiș, și Abner, fiul lui Ner, și Ioab, fiul Țeruiei, au dedicat și[ ]oricine dedicase [ceva, era ]sub mâna lui Șelomit și a fraților săi."
 "Dintre ițehariți
-"[Și ]dintre hebroniți, Hașabia și frații săi, bărbați viteji, o mie șapte sute, [erau ]conducători printre cei din Israel, pe partea aceasta a Iordanului spre vest, în toată lucrarea DOMNULUI și în serviciul împăratului."
-"Printre hebroniți [a fost ]Ieriia, mai marele printre hebroniți, conform generațiilor părinților lor. În al patruzecilea an al domniei lui David au fost căutați și s-au găsit printre ei, războinici viteji la Iaezerul Galaadului."
-"Și frații săi, bărbați viteji, [erau ]două mii șapte sute părinți mai mari, pe care împăratul David i-a făcut conducători peste rubeniți, gadiți și jumătate din tribul lui Manase, pentru orice lucru referitor la Dumnezeu și la afacerile împăratului."
+"[Și ]dintre hebroniți, Hașabia și frații săi, bărbați viteji, o mie șapte sute, [erau ]conducători printre cei din #Israel, pe partea aceasta a Iordanului spre vest, în toată lucrarea DOMNULUI și în serviciul împăratului."
+"Printre hebroniți [a fost ]Ieriia, mai marele printre hebroniți, conform generațiilor părinților lor. În al patruzecilea an al #domniei lui David au fost căutați și s-au găsit printre ei, războinici viteji la Iaezerul Galaadului."
+"Și frații săi, bărbați viteji, [erau ]două mii șapte sute părinți mai mari, pe care împăratul David i-a făcut conducători #peste rubeniți, gadiți și jumătate din tribul lui Manase, pentru orice lucru referitor la Dumnezeu și la afacerile împăratului."

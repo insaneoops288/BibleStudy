@@ -3,7 +3,7 @@
 "Ja David määräsi heitä näin
 "Ja usiammat väkevät päämiehet löydettiin Eleasarin kuin Itamarin lapsista, koska he heitä niin määräsivät
 "Ja he määräsivät heitä arvalla sekä näitä että niitä; sillä molemmat Eleasarin ja Itamarin lapset olivat päämiehet pyhässä ja päämiehet Jumalan edessä."
-"Ja Semaja kirjoittaja, Netaneelin poika Leviläisistä, kirjoitti heidät kuninkaan edessä, ja päämiesten ja papin Zadokin, ja Ahimelekin Abjatarin pojan, ja pappein ja Leviläisten, ja ylimmäisten isäin edessä
+"Ja Semaja kirjoittaja, Netaneelin poika Leviläisistä, kirjoitti heidät kuninkaan edessä, ja päämiesten ja papin #Zadokin, ja Ahimelekin Abjatarin pojan, ja pappein ja Leviläisten, ja ylimmäisten isäin edessä
 "Ja ensimäinen arpa lankesi Jojaribin päälle, toinen Jedatjan,"
 "Kolmas Harimin, neljäs Seorimin,"
 "Viides Malkian, kuudes Mijamin,"
@@ -28,4 +28,4 @@
 "Mutta Mahelilla oli Eleasar, ja hänellä ei ollut yhtään poikaa."
 "Kisistä, Kisin lapset
 "Musin lapset
-"Ja nämät myös heittivät arpaa veljeinsä Aaronin lasten kanssa kuningas Davidin edessä, ja Zadokin ja Ahimelekin, ja ylimmäisten isäin edessä, pappein ja Leviläisten seassa; ylimmäinen isäin seassa pienimmänkin veljensä kanssa."
+"Ja nämät myös heittivät arpaa veljeinsä Aaronin lasten kanssa kuningas Davidin edessä, ja Zadokin ja Ahimelekin, #ja ylimmäisten isäin edessä, pappein ja Leviläisten seassa; ylimmäinen isäin seassa pienimmänkin veljensä kanssa."

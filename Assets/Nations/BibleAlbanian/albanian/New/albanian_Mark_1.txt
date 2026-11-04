@@ -42,4 +42,4 @@
 "Dhe, posa tha këto, menjëherë lebra e la dhe u shërua."
 "Pastaj, mbasi e paralajmëroi rreptësisht, menjëherë e largoi,"
 "duke i thënë
-"Por ai, sapo doli, filloi ta shpallë dhe ta përhapë fort faktin, sa që Jezusi nuk mund të hynte më publikisht në qytet, por qëndronte përjashta nëpër vende të vetmuara; dhe nga çdo anë vinin tek ai."
+"Por ai, sapo doli, filloi ta shpallë dhe ta përhapë fort faktin, sa që Jezusi nuk mund të hynte #më publikisht në qytet, por qëndronte përjashta nëpër vende të vetmuara; dhe nga çdo anë vinin tek ai."

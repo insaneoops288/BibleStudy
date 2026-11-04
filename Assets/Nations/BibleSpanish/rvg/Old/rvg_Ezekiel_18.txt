@@ -21,7 +21,7 @@
 "Mas si el impío se apartare de todos sus pecados que hizo, y guardare todas mis estatutos, e hiciere juicio y justicia, de cierto vivirá; no morirá."
 "Todas sus rebeliones que cometió, no le serán recordadas; en su justicia que hizo vivirá."
 "¿Quiero yo la muerte del impío? dice Jehová el Señor. ¿No vivirá, si se apartare de sus caminos?"
-"Mas si el justo se apartare de su justicia, y cometiere maldad, e hiciere conforme a todas las abominaciones que el impío hizo; ¿vivirá él? Ninguna de las justicias que hizo le serán recordadas; por su rebelión con que prevaricó, y por su pecado que cometió, por ello morirá."
+"Mas si el justo se apartare de su justicia, y cometiere maldad, e hiciere conforme a todas las abominaciones que el impío hizo; ¿vivirá él? #Ninguna de las justicias que hizo le serán recordadas; por su rebelión con que prevaricó, y por su pecado que cometió, por ello morirá."
 "Y si dijereis
 "Cuando el justo se apartare de su justicia, e hiciere iniquidad, él morirá por ello; por su iniquidad que hizo, morirá."
 "Y cuando el impío se apartare de su impiedad que hizo, e hiciere juicio y justicia, hará vivir su alma."

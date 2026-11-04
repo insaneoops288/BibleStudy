@@ -4,7 +4,7 @@
 "dopo ch’ebbe sconfitto Sihon, re degli Amorrei, il quale abitava in Hesbon, e. Og, re di Basan, che abitava in Astarot, e in Edrei."
 "Di qua dal Giordano, nel paese di Moab, Mosè imprese a dichiarar questa Legge dicendo
 "Il Signore Iddio nostro parlò a noi in Horeb, dicendo
-"Mettetevi in cammino, partitevi di qui, ed entrate ne’ monti degli Amorrei, e in tutte le lor vicinanze, nella campagna, nel monte, nella pianura, nella parte meridionale, e nella costa del mare, nel paese de’ Cananei, e nel Libano, fino al gran Fiume, ch’è il fiume Eufrate."
+"Mettetevi in cammino, partitevi di qui, ed entrate ne’ monti degli Amorrei, e in tutte le lor vicinanze, nella campagna, nel monte, nella pianura, #nella parte meridionale, e nella costa del mare, nel paese de’ Cananei, e nel Libano, fino al gran Fiume, ch’è il fiume Eufrate."
 "Ecco, io ho posto il paese in vostro potere
 "E in quel tempo io vi parlai, dicendo
 "Il Signore Iddio vostro vi ha moltiplicati, ed ecco, oggi voi siete come le stelle del cielo, in moltitudine."
@@ -12,9 +12,9 @@
 "Come potrei io portar solo la fatica, e il carico di voi, e le vostre liti?"
 "Datemi d’infra le vostre tribù degli uomini savi, e intendenti, e ben riconosciuti, e io ve li costituirò per Capi."
 "E voi mi rispondeste, e diceste
-"Allora io presi de’ principali delle vostre tribù, uomini savi, e ben riconosciuti, e li costituii Capi sopra voi, Capi di migliaia, Capi di centinaia, Capi di cinquantine, Capi di decine, e Ufficiali per le vostre tribù."
+"Allora io presi de’ principali delle vostre tribù, uomini savi, e ben riconosciuti, e li costituii Capi sopra voi, #Capi di migliaia, Capi di centinaia, Capi di cinquantine, Capi di decine, e Ufficiali per le vostre tribù."
 "E in quel tempo comandai, e dissi a’ vostri giudici
-"Non riguardate alla qualità della persona nel giudicio; ascoltate così il piccolo, come il grande; non temete di alcun uomo; conciossiachè il giudicio appartenga a Dio; e rapportate a me le cose che saranno troppo difficili per voi, ed io le udirò."
+"Non riguardate alla qualità della persona nel giudicio; ascoltate così il piccolo, come il grande; non temete di alcun uomo; conciossiachè il #giudicio appartenga a Dio; e rapportate a me le cose che saranno troppo difficili per voi, ed io le udirò."
 "In quel tempo ancora vi comandai tutte le cose che dovete fare."
 "Poi noi ci partimmo di Horeb, e camminammo per tutto quel grande e spaventevole deserto, il qual voi avete veduto, traendo al monte degli Amorrei, come il Signore Iddio nostro ci avea comandato
 "Allora io vi dissi

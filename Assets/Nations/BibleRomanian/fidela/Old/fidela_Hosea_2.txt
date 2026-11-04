@@ -1,5 +1,5 @@
 "Spuneţi fraţilor voştri
-"Certaţi-vă cu mama voastră, certaţi-vă [cu ea], căci ea nu [este] soţia mea, nici eu nu [sunt] soţul ei; de aceea să pună deoparte curviile ei dinaintea ochilor ei, şi faptele ei de adulter dintre sânii ei;"
+"Certaţi-vă cu mama voastră, certaţi-vă [cu ea], căci ea nu [este] soţia mea, nici eu nu [sunt] soţul ei; #de aceea să pună deoparte curviile ei dinaintea ochilor ei, şi faptele ei de adulter dintre sânii ei;"
 "Ca nu cumva să o dezbrac de tot şi să o pun ca în ziua în care s-a născut şi să o pustiesc şi să o pun ca pe un pământ uscat şi să o ucid de sete."
 "Şi nu voi avea milă de copiii ei; fiindcă ei [sunt ]copii ai curviilor."
 "Fiindcă mama lor a făcut pe curva; cea care i-a conceput a făcut [fapte ]ruşinoase, fiindcă a spus
@@ -15,7 +15,7 @@
 "Şi de acolo îi voi da viile ei şi valea Acor ca o uşă a speranţei; şi ea va cânta acolo, ca în zilele tinereţii ei şi ca în ziua când a urcat din ţara Egiptului."
 "Şi se va întâmpla în acea zi, spune DOMNUL, [că,] tu mă vei numi Işi, şi nu mă vei mai numi Baali."
 "Fiindcă voi lua numele Baalilor din gura ei şi nu vor mai fi amintiţi după numele lor."
-"Şi în acea zi voi face un legământ pentru ei cu fiarele câmpului şi cu păsările cerului şi [cu] târâtoarele pământului; şi voi frânge arcul şi sabia şi bătălia de pe pământ şi le voi face să se culce în siguranţă."
+"Şi în acea zi voi face un legământ pentru ei cu fiarele câmpului şi cu păsările cerului şi [cu] târâtoarele pământului; #şi voi frânge arcul şi sabia şi bătălia de pe pământ şi le voi face să se culce în siguranţă."
 "Şi te voi logodi cu mine pentru totdeauna; da, te voi logodi cu mine în dreptate şi în judecată şi în bunătate iubitoare şi în îndurări."
 "Chiar în credincioşie te voi logodi cu mine; şi tu vei cunoaşte pe DOMNUL."
 "Şi se va întâmpla în acea zi [că,] voi asculta, spune DOMNUL, voi asculta cerurile, şi ele vor asculta pământul;"

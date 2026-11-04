@@ -6,7 +6,7 @@
 "Nhưng Giô-sa-phát tiếp rằng
 "Vua Y-sơ-ra-ên đáp với Giô-sa-phát rằng
 "Vua Y-sơ-ra-ên bèn gọi một hoạn quan đến mà bảo rằng
-"Vả, vua Y-sơ-ra-ên và Giô-sa-phát, vua Giu-đa, mỗi người đều mặc đồ triều phục, đương ngồi trên ngai mình, ở nơi sân đạp lúa tại cửa thành Sa-ma-ri; còn hết thảy các tiên tri nói tiên tri ở trước mặt hai vua."
+"Vả, vua Y-sơ-ra-ên và Giô-sa-phát, vua Giu-đa, mỗi người đều mặc đồ triều phục, đương ngồi trên ngai mình, ở nơi sân #đạp lúa tại cửa thành Sa-ma-ri; còn hết thảy các tiên tri nói tiên tri ở trước mặt hai vua."
 "Sê-đê-kia, con trai Kê-na-na, làm lấy những sừng bằng sắt, và nói rằng
 "Các tiên tri đều nói một cách mà rằng
 "Vả, sứ giả đã đi đòi Mi-chê, nói với người rằng

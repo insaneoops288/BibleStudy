@@ -1,6 +1,6 @@
 "Szedł tedy Samson do Tamnaty, a ujrzał tam niewiastę z córek Filistyńskich."
 "A przyszedłszy oznajmił ojcu swemu i matce swojej, mówiąc; Niewiastem widział w Tamnacie z córek Filistyńskich; przetoż teraz weźmijcie mi ją za żonę."
-"I rzekł mu ojciec jego, i matka jego; Azaż nie masz między córkami braci twych, i we wszystkim ludu moim niewiasty, że chcesz iść a wziąć sobie żonę z Filistynów nieobrzezanych? Odpowiedział Samson ojcu swemu
+"I rzekł mu ojciec jego, i matka jego; Azaż nie masz między córkami braci twych, i we wszystkim #ludu moim niewiasty, że chcesz iść a wziąć sobie żonę z Filistynów nieobrzezanych? Odpowiedział Samson ojcu swemu
 "A ojciec jego i matka jego nie wiedzieli, że to było od Pana; bo on przyczyny szukał na Filistyny, gdy na on czas Filistyni panowali nad Izraelem."
 "Tedy szedł Samson z ojcem swym i z matką swoją do Tamnaty, a przychodząc ku winnicom Tamnaty, oto, lew młody ryczący zabieżał mu."
 "I przypadł nań Duch Pański, a rozdarł go, jakoby rozdarł koźlę, choć nic nie miał w rękach swych; i nie oznajmił ojcu swemu i matce swojej, co uczynił."
@@ -16,5 +16,5 @@
 "Płakała tedy żona Samsonowa nań, mówiąc
 "I płakała nań przez one siedem dni, póki mieli wesele. Stało się tedy dnia siódmego, że jej oznajmił, bo mu się uprzykrzała. A ona powiedziała onę zagadkę synom ludu swego."
 "Przetoż rzekli do niego mężowie onego miasta siódmego dnia przed zachodem słońca
-"I przypadł nań Duch Pański, a szedłszy do Aszkalonu, zabił z nich trzydzieści mężów a wziąwszy łupy z nich, dał szaty odmienne onym, którzy zgadli zagadkę, i rozgniewawszy się bardzo poszedł do domu ojca swego."
+"I przypadł nań Duch Pański, a szedłszy do Aszkalonu, zabił z nich trzydzieści mężów a wziąwszy łupy z #nich, dał szaty odmienne onym, którzy zgadli zagadkę, i rozgniewawszy się bardzo poszedł do domu ojca swego."
 "I dostała się żona Samsonowa towarzyszowi jego, z którym miał towarzystwo."

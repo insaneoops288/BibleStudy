@@ -14,7 +14,7 @@
 "mit der köstlichen Frucht, die in der Sonne reift, und mit den köstlichen Früchten, welche die Monde sprossen lassen;"
 "mit dem Besten, was auf den uralten Bergen wächst, und mit den köstlichen Früchten, welche die ewigen Hügel tragen;"
 "mit dem Besten, was auf der Erde wächst und sie erfüllt; und das Wohlgefallen dessen, der im Busche wohnt, komme auf Josephs Haupt und auf den Scheitel des Geweihten unter seinen Brüdern!"
-"Prächtig ist er wie sein erstgeborener Stier, Hörner hat er wie ein Büffel; damit stößt er die Völker allzumal bis an die Enden der Erde. Das sind die Zehntausende von Ephraim und jenes die Tausende von Manasse!"
+"Prächtig ist er wie sein erstgeborener Stier, Hörner hat er wie ein Büffel; damit stößt er die Völker allzumal #bis an die Enden der Erde. Das sind die Zehntausende von Ephraim und jenes die Tausende von Manasse!"
 "Und zu Sebulon sprach er
 "Sie werden Völker auf den Berg einladen, um daselbst Opfer der Gerechtigkeit darzubringen; denn den Reichtum des Meeres werden sie saugen und die verborgenen Schätze des Sandes."
 "Und zu Gad sprach er
@@ -26,4 +26,4 @@
 "Niemand ist gleich dem Gott Jeschuruns, der dir zu Hilfe am Himmel einherfährt und auf den Wolken in seiner Majestät."
 "Eine Zuflucht ist der alte Gott, und unter dir breitet er ewige Arme aus. Er hat die Feinde vor dir her gejagt und zu dir gesagt
 "Und so kann Israel sicher wohnen; abgesondert der Quell Jakobs, in einem Lande voll Korn und Most; und sein Himmel träufelt Tau."
-"Wohl dir, Israel! Wer ist dir gleich, du Volk, das durch den HERRN gerettet ist? Er ist dein hilfreicher Schild und dein siegreiches Schwert. Deine Feinde werden dir schmeicheln, du aber sollstüber ihre Höhen wegschreiten."
+"Wohl dir, Israel! Wer ist dir gleich, du Volk, das durch den HERRN gerettet ist? Er ist dein #hilfreicher Schild und dein siegreiches Schwert. Deine Feinde werden dir schmeicheln, du aber sollstüber ihre Höhen wegschreiten."

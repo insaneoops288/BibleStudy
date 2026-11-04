@@ -29,7 +29,7 @@
 "Diese sollen euch auch unrein sein unter den Tieren, die auf Erden kriechen
 "der Igel, der Molch, die Eidechse, die Blindschleiche und der Maulwurf;"
 "die sind euch unrein unter allem, was da kriecht; wer ihr Aas anrührt, der wird unrein sein bis auf den Abend."
-"Und alles, worauf ein solch totes Aas fällt, das wird unrein, es sei allerlei hölzernes Gefäß oder Kleider oder Fell oder Sack; und alles Gerät, womit man etwas schafft, soll man ins Wasser tun, und es ist unrein bis auf den Abend; alsdann wird's rein."
+"Und alles, worauf ein solch totes Aas fällt, das wird unrein, es sei allerlei hölzernes Gefäß oder Kleider oder Fell oder Sack; und #alles Gerät, womit man etwas schafft, soll man ins Wasser tun, und es ist unrein bis auf den Abend; alsdann wird's rein."
 "Allerlei irdenes Gefäß, wo solcher Aas hineinfällt, wird alles unrein, was darin ist; und sollt's zerbrechen."
 "Alle Speise, die man ißt, so solch Wasser hineinkommt, ist unrein; und aller Trank, den man trinkt in allerlei solchem Gefäß, ist unrein."
 "Und alles, worauf solches Aas fällt, wird unrein, es sei ein Ofen oder Kessel, so soll man's zerbrechen; denn es ist unrein und soll euch unrein sein."
@@ -41,7 +41,7 @@
 "Was auf Erden schleicht, das soll euch eine Scheu sein, und man soll's nicht essen.{~}"
 "Alles, was auf dem Bauch kriecht, und alles, was auf vier oder mehr Füßen geht, unter allem, was auf Erden schleicht, sollt ihr nicht essen; denn es soll euch eine Scheu sein."
 "Macht eure Seelen nicht zum Scheusal und verunreinigt euch nicht an ihnen, daß ihr euch besudelt."
-"Denn ich bin der HERR, euer Gott. Darum sollt ihr euch heiligen, daß ihr heilig seid, denn ich bin heilig, und sollt eure Seelen nicht verunreinigen an irgend einem kriechenden Tier, das auf Erden schleicht."
+"Denn ich bin der HERR, euer Gott. Darum sollt ihr euch heiligen, daß ihr heilig seid, denn ich #bin heilig, und sollt eure Seelen nicht verunreinigen an irgend einem kriechenden Tier, das auf Erden schleicht."
 "Denn ich bin der HERR, der euch ausÄgyptenland geführt hat, daß ich euer Gott sei. Darum sollt ihr heilig sein, denn ich bin heilig."
 "Dies ist das Gesetz von den Tieren und Vögeln und allerlei Tieren, die sich regen im Wasser, und allerlei Tieren, die auf Erden schleichen,"
 "daß ihr unterscheiden könnt, was unrein und rein ist, und welches Tier man essen und welches man nicht essen soll."

@@ -28,5 +28,5 @@
 "Umřel pak Háran prvé než Táre otec jeho v zemi narození svého, totiž v Ur Kaldejských."
 "I zpojímali sobě ženy Abram a Náchor; jméno ženy Abramovy Sarai, a jméno ženy Náchorovy Melcha, dcera Háranova, kterýž byl otec Melchy a Jeschy."
 "Byla pak Sarai neplodná, a neměla dětí."
-"I vzal Táre Abrama syna svého, a Lota syna Háranova, vnuka svého, a Sarai nevěstu svou, ženu Abrama syna svého, a vyšli spolu z Ur Kaldejských, aby se brali do země Kananejské, a přišli až do Cháran, a bydlili tam."
+"I vzal Táre Abrama syna svého, a Lota syna Háranova, vnuka svého, a Sarai nevěstu svou, ženu Abrama syna svého, a #vyšli spolu z Ur Kaldejských, aby se brali do země Kananejské, a přišli až do Cháran, a bydlili tam."
 "A byli dnové Táre dvě stě a pět let; i umřel Táre v Cháran."

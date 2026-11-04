@@ -12,7 +12,7 @@
 "Známo buď králi, že Židé, kteříž se vrátili od tebe, přišedše k nám do Jeruzaléma, město odporné a škodlivé stavějí, i zdi dělají, a základy spojují."
 "Protož nyní buď vědomo králi, bude-li to město vystaveno, a zdi dodělány, platuť, cla a úroku dávati nebudou, a tak komoře královské újma bude."
 "Nyní tedy poněvadž dobrodiní paláce užíváme, na obnažování krále neslušelo se nám dívati. Tou příčinou poslali jsme a oznámili to králi,"
-"Aby dal hledati v knihách kronik otců svých, a najdeš v nich, i zvíš, že město to jest město odporné a škodlivé králům i krajinám, a že se v něm puntovávají od starodávna, pročež to město prvé zkaženo bylo."
+"Aby dal hledati v knihách kronik otců svých, a najdeš v nich, i zvíš, že město to jest město odporné #a škodlivé králům i krajinám, a že se v něm puntovávají od starodávna, pročež to město prvé zkaženo bylo."
 "Nadto známoť činíme králi, že bude-li to město vystaveno, a zdi dodělány, tedy vládařství za řekou míti nebudeš."
 "Tedy odeslal odpověd král Rechumovi kancléři a Simsaiovi písaři i jiným tovaryšům jejich, kteříž bydlili v Samaří, a jiným za řekou v Selam i v Cheet
 "Psání, kteréž jste k nám poslali, zjevně čteno jest přede mnou."

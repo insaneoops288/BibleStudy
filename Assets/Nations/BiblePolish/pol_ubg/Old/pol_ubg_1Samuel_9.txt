@@ -10,10 +10,10 @@
 "Wtedy Saul powiedział do swego sługi
 "A gdy wchodzili na górę do miasta, spotkali dziewczęta, które wyszły naczerpać wody. I zapytali je
 "One odpowiedziały im
-"Gdy wejdziecie do miasta, znajdziecie go, zanim pójdzie na wyżynę na posiłek. Lud bowiem nie będzie jadł, dopóki on nie przyjdzie, gdyż on błogosławi ofiarę. Dopiero potem jedzą zaproszeni. Idźcie więc, bo właśnie teraz go spotkacie."
+"Gdy wejdziecie do miasta, znajdziecie go, zanim pójdzie na wyżynę na posiłek. Lud bowiem nie będzie jadł, dopóki on #nie przyjdzie, gdyż on błogosławi ofiarę. Dopiero potem jedzą zaproszeni. Idźcie więc, bo właśnie teraz go spotkacie."
 "Ruszyli więc do miasta. A gdy wchodzili do miasta, oto Samuel wychodził im naprzeciw, udając się na wyżynę."
 "A PAN wyjawił Samuelowi na dzień przed przybyciem Saula, mówiąc mu
-"Jutro w tym czasie wyślę do ciebie człowieka z ziemi Beniamina. Jego namaścisz na wodza nad moim ludem Izraelem; a on wybawi mój lud z rąk Filistynów. Wejrzałem bowiem na swój lud, gdyż jego lament dotarł do mnie."
+"Jutro w tym czasie wyślę do ciebie człowieka z ziemi Beniamina. Jego namaścisz na wodza nad moim ludem Izraelem; a #on wybawi mój lud z rąk Filistynów. Wejrzałem bowiem na swój lud, gdyż jego lament dotarł do mnie."
 "A gdy Samuel zobaczył Saula, PAN mu powiedział
 "Wtedy Saul zbliżył się do Samuela w bramie i powiedział
 "Samuel odpowiedział Saulowi

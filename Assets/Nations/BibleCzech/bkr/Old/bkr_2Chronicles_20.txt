@@ -6,7 +6,7 @@
 "A řekl
 "Zdaliž jsi ty, Bože náš, nevyhnal obyvatelů země této před tváří lidu svého Izraelského, a dal jsi ji semeni Abrahama, milovníka svého na věky?"
 "Kteřížto bydlili v ní, a vzdělali tobě v ní svatyni, jménu tvému, řkouce
-"Jestliže by na nás přišly zlé věci, meč pomsty, buď morová rána, buď hlad, postavíme se před tímto domem a před tebou, (poněvadž jméno tvé jest v domě tomto), a budeme volati k tobě v úzkostech svých, i vyslyšíš a vysvobodíš."
+"Jestliže by na nás přišly zlé věci, meč pomsty, buď morová rána, buď hlad, postavíme se před tímto domem a před #tebou, (poněvadž jméno tvé jest v domě tomto), a budeme volati k tobě v úzkostech svých, i vyslyšíš a vysvobodíš."
 "A nyní, aj, synové Ammon a Moáb, a hora Seir, skrze něž jsi nedopustil jíti Izraelovi, když se brali z země Egyptské, ale uhnuli se od nich, a nepohubili jich,"
 "Aj hle, oni odplacejí se nám, přitáhše, aby nás vyhnali z dědictví tvého, kteréž jsi právem dědičným dal nám."
 "Bože náš, zdali jich souditi nebudeš? V násť zajisté není žádné síly proti množství tomuto velikému, kteréž táhne proti nám, aniž my víme, co bychom činiti měli, toliko na tě patří oči naše."
@@ -22,7 +22,7 @@
 "Tu chvíli pak, když oni začali zpěv a chválení, obrátil Hospodin ty, kteříž byli v zálohách, na syny Ammon, Moáb a obyvatele hory Seir, ješto však byli přitáhli proti Judovi, a tak sami se bili."
 "Nebo povstali synové Ammon a Moábští proti obyvatelům hory Seir, aby zmordovali a shladili je. A když dokonali boj proti obyvatelům hory Seir, pomáhali sobě a hubili jedni druhé."
 "Mezi tím lid Judský přitáhl k stráži, kteráž jest na poušti, a uzřeli to množství, a aj, mrtví leží na zemi, aniž kdo ušel."
-"Pročež přistoupil Jozafat s lidem svým, aby rozebrali loupeže jejich, a nalezli u nich hojnost zboží i klénotů na tělích zbitých. I rozbitovali toho mezi sebou, tak že unesti nemohli; za tři dni dělili ty loupeže, proto že jich mnoho bylo."
+"Pročež přistoupil Jozafat s lidem svým, aby rozebrali loupeže jejich, a nalezli u nich hojnost zboží i klénotů na tělích zbitých. #I rozbitovali toho mezi sebou, tak že unesti nemohli; za tři dni dělili ty loupeže, proto že jich mnoho bylo."
 "V den pak čtvrtý shromáždili se do údolí Beracha, a že tu dobrořečili Hospodinu, protož nazvali jméno místa toho údolí Beracha až do dnešního dne."
 "Zatím obrátili se všickni muži Judští a Jeruzalémští, a Jozafat před nimi, aby se navrátili do Jeruzaléma s veselím; nebo byl obveselil je Hospodin nad nepřátely jejich."
 "I vešli do Jeruzaléma s loutnami a harfami a s trubami do domu Hospodinova."

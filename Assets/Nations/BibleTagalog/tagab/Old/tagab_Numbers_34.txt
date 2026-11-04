@@ -1,5 +1,5 @@
 "At sinalita ng Panginoon kay Moises, na sinasabi,"
-"Iutos mo sa mga anak ni Israel, at sabihin mo sa kanila, Pagpasok ninyo sa lupain ng Canaan, (na ito ang lupaing mahuhulog sa inyo na pinakamana, ang lupain ng Canaan ayon sa mga hangganan niyaon),"
+"Iutos mo sa mga anak ni Israel, at sabihin mo sa kanila, Pagpasok ninyo sa lupain ng Canaan, (na #ito ang lupaing mahuhulog sa inyo na pinakamana, ang lupain ng Canaan ayon sa mga hangganan niyaon),"
 "At inyong hahantungan ang dakong timugan mula sa ilang ng Zin hanggang sa gilid ng Edom, at ang inyong hangganang timugan ay magiging mula sa dulo ng Dagat na Alat sa dakong silanganan
 "At ang inyong hangganan ay paliko sa dakong timugan sa sampahan ng Acrabbim, at patuloy hanggang sa Zin
 "At ang hangganan ay paliko mula sa Asmon hanggang sa batis ng Egipto, at ang magiging mga labasan niyaon ay sa dagat."
@@ -11,7 +11,7 @@
 "At ang hangganan ay pababa mula sa Sepham hanggang sa Ribla, sa dakong silanganan ng Ain; at ang hangganan ay pababa at abot hanggang sa gilid ng dagat ng Cinnereth sa dakong silanganan
 "At ang hangganan ay pababa sa Jordan, at ang magiging mga labasan niyaon ay abot sa Dagat na Alat
 "At iniutos ni Moises sa mga anak ni Israel, na sinasabi, Ito ang lupain na inyong mamanahin sa pamamagitan ng sapalaran, na iniutos ng Panginoon na ibigay sa siyam na lipi, at sa kalahating lipi;"
-"Sapagka't ang lipi ng mga anak ni Ruben ayon sa mga sangbahayan ng kanilang mga magulang, at ang lipi ng mga anak ni Gad ayon sa mga sangbahayan ng kanilang mga magulang, ay nagsitanggap na, at gayon din naman ang kalahating lipi ni Manases ay nagsitanggap na ng kanilang mana
+"Sapagka't ang lipi ng mga anak ni Ruben ayon sa mga sangbahayan ng kanilang mga magulang, at ang lipi ng mga anak ni Gad ayon sa #mga sangbahayan ng kanilang mga magulang, ay nagsitanggap na, at gayon din naman ang kalahating lipi ni Manases ay nagsitanggap na ng kanilang mana
 "Ang dalawang lipi na ito, at ang kalahating lipi ay nagsitanggap na ng kanilang mana sa dako roon ng Jordan sa dakong silanganan ng Jerico, sa dakong sinisikatan ng araw."
 "At sinalita ng Panginoon kay Moises, na sinasabi,"
 "Ito ang mga pangalan ng mga lalake na magbabahagi ng lupain sa inyo na pinakamana

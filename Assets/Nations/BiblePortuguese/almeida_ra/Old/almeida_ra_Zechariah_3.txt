@@ -6,5 +6,5 @@
 "E o anjo do Senhor protestou a Josué, dizendo
 "Assim diz o Senhor dos exércitos
 "Ouve, pois, Josué, sumo sacerdote, tu e os teus companheiros que se assentam diante de ti, porque são homens portentosos; eis que eu farei vir o meu servo, o Renovo."
-"Pois eis aqui a pedra que pus diante de Josué; sobre esta pedra única estão sete olhos. Eis que eu esculpirei a sua escultura, diz o Senhor dos exércitos, e tirarei a iniquidade desta terra num só dia."
+"Pois eis aqui a pedra que pus diante de Josué; sobre esta pedra única estão sete olhos. Eis que eu #esculpirei a sua escultura, diz o Senhor dos exércitos, e tirarei a iniquidade desta terra num só dia."
 "Naquele dia, diz o Senhor dos exércitos, cada um de vós convidará o seu vizinho para debaixo da videira e para debaixo da figueira."

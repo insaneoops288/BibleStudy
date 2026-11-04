@@ -17,4 +17,4 @@
 "Heureux es-tu, pays, dont le roi est de race illustre, et dont les princes mangent quand il est temps, pour réparer leurs forces, et non pour se livrer à la boisson!"
 "A cause des mains paresseuses le plancher s'affaisse; et à cause des mains lâches, la maison a des gouttières."
 "On fait des repas pour se réjouir, et le vin égaie la vie, et l'argent répond à tout."
-"Ne dis point de mal du roi, pas même dans ta pensée; et ne dis point de mal du riche dans la chambre où tu couches; car l'oiseau des cieux emporterait ta voix, et ce qui a des ailes révélerait tes paroles."
+"Ne dis point de mal du roi, pas même dans ta pensée; et ne dis point de mal du riche dans la #chambre où tu couches; car l'oiseau des cieux emporterait ta voix, et ce qui a des ailes révélerait tes paroles."

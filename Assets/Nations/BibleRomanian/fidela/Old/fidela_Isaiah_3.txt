@@ -21,6 +21,6 @@
 "Inelele şi bijuteriile pentru nas,"
 "Costumele preţioase de haine şi mantiile şi şalurile şi ondulatoarele,"
 "Oglinzile şi inul subţire şi glugile şi vălurile."
-"Şi se va întâmpla, [că ]în loc de miros dulce va fi putoare; şi în loc de brâu, o sfâşietură; şi în loc de păr bine aranjat, o chelie; şi în loc de corsaj, un brâu de pânză de sac; [şi un semn de ]înfierare în loc de frumuseţe."
+"Şi se va întâmpla, [că ]în loc de miros dulce va fi putoare; şi în loc de brâu, o sfâşietură; şi în loc de păr #bine aranjat, o chelie; şi în loc de corsaj, un brâu de pânză de sac; [şi un semn de ]înfierare în loc de frumuseţe."
 "Bărbaţii tăi vor cădea prin sabie şi puternicii tăi în război."
 "Şi porţile ei vor plânge şi vor jeli; şi ea, pustiită, va şedea la pământ."

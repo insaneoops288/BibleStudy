@@ -13,7 +13,7 @@
 "[Amazok] mondának
 "József pedig monda nékik
 "Ezzel lesztek próbára téve
-"Küldjetek el közûletek egyet, hogy hozza ide testvérteket; ti pedig fogva lesztek. Így lesz próbára téve beszédetek, hogy igaz járatban vagytok-é vagy nem? Úgy éljen a Faraó, hogy ti kémek vagytok."
+"Küldjetek el közûletek egyet, hogy hozza ide testvérteket; ti pedig fogva lesztek. Így lesz próbára téve #beszédetek, hogy igaz járatban vagytok-é vagy nem? Úgy éljen a Faraó, hogy ti kémek vagytok."
 "Annakokáért fogságban tartá õket harmadnapig."
 "Harmadnap pedig monda nékik József
 "Ha igaz emberek vagytok, maradjon fogva egyik testvéretek a ti tömlöczötökben, ti pedig menjetek el, vigyetek gabonát házaitok szükségére."

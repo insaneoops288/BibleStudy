@@ -9,7 +9,7 @@
 "Dhe Moisiu i tha Jozueut
 "Jozueu bëri ashtu siç i kishte thënë Moisiu dhe luftoi kundër Amalekut, ndërsa Moisiu, Aaroni dhe Huri u ngjitën në majë të kodrës."
 "Dhe ndodhi që, kur Moisiu ngrinte dorën e tij, Izraeli fitonte; përkundrazi, kur e ulte dorën, fitonte Amaleku."
-"Por duart e Moisiut ishin rënduar, kështu që ata morën një gur dhe ia vunë poshtë, ai u ul mbi të ndërsa Aaroni dhe Huri ia mbanin duart, njëri nga një krah, tjetri nga krahu tjetër; kështu duart e tij mbetën të palëvizura deri në perëndimin e diellit."
+"Por duart e Moisiut ishin rënduar, kështu që ata morën një gur dhe ia vunë poshtë, ai u ul mbi të ndërsa Aaroni dhe Huri #ia mbanin duart, njëri nga një krah, tjetri nga krahu tjetër; kështu duart e tij mbetën të palëvizura deri në perëndimin e diellit."
 "Prandaj Jozueu mundi Amalekun dhe njerëzit e tij, duke i prerë me shpata."
 "Pastaj Zoti i tha Moisiut
 "Moisiu ndërtoi pastaj një altar, të cilit i vuri emrin

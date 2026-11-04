@@ -29,10 +29,10 @@
 "Y él respondió
 "Porque poco tenías antes de mi venida, y ha crecido en gran número; y Jehová te ha bendecido con mi llegada
 "Y él dijo
-"Yo pasaré hoy por todo tu rebaño, poniendo aparte todas las ovejas manchadas y pintadas, y todas las ovejas de color oscuro entre las manadas, y las manchadas y las pintadas entre las cabras; y esto será mi salario."
-"Así responderá por mí mi justicia mañana cuando me viniere mi salario delante de ti; toda la que no fuere pintada ni manchada en las cabras y de color oscuro en las ovejas mías, se me ha de contar como de hurto."
+"Yo pasaré hoy por todo tu rebaño, poniendo aparte todas las ovejas manchadas y pintadas, y todas las ovejas de #color oscuro entre las manadas, y las manchadas y las pintadas entre las cabras; y esto será mi salario."
+"Así responderá por mí mi justicia mañana cuando me viniere mi salario delante de ti; toda la que no fuere pintada ni #manchada en las cabras y de color oscuro en las ovejas mías, se me ha de contar como de hurto."
 "Y dijo Labán
-"Y apartó aquel día los machos cabríos rayados y manchados; y todas las cabras manchadas y pintadas, y toda aquella que tenía en sí algo de blanco, y todas las de color oscuro entre las ovejas, y las puso en manos de sus hijos;"
+"Y apartó aquel día los machos cabríos rayados y manchados; y todas las cabras manchadas y pintadas, y toda aquella que tenía en #sí algo de blanco, y todas las de color oscuro entre las ovejas, y las puso en manos de sus hijos;"
 "Y puso tres días de camino entre sí y Jacob
 "Y se tomó Jacob varas de álamo verdes y de avellano, y de castaño, y descortezó en ellas mondaduras blancas, descubriendo así lo blanco de las varas."
 "Y puso las varas que había mondado delante de los rebaños, en los canales de los abrevaderos del agua donde venían a beber las ovejas, las cuales concebían cuando venían a beber."

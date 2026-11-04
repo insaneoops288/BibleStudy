@@ -1,6 +1,6 @@
-"Y habitaron los príncipes del pueblo en Jerusalén; mas el resto del pueblo echó suertes para traer uno de diez que morase en Jerusalén, ciudad santa, y las nueve partes en las <I>otras</I>  ciudades."
+"Y habitaron los príncipes del pueblo en Jerusalén; mas el resto del pueblo echó suertes para traer uno #de diez que morase en Jerusalén, ciudad santa, y las nueve partes en las <I>otras</I>  ciudades."
 "Y bendijo el pueblo a todos los varones que voluntariamente se ofrecieron a morar en Jerusalén."
-"Y éstos <I>son</I>  los cabezas de la provincia que moraron en Jerusalén; mas en las ciudades de Judá habitaron cada uno en su posesión en sus ciudades, de Israel, de los sacerdotes, levitas, netineos, y de los hijos de los  siervos de Salomón."
+"Y éstos <I>son</I>  los cabezas de la provincia que moraron en Jerusalén; mas en las ciudades de Judá habitaron cada uno en #su posesión en sus ciudades, de Israel, de los sacerdotes, levitas, netineos, y de los hijos de los  siervos de Salomón."
 "En Jerusalén, <I>pues</I> , habitaron de los hijos de Judá, y de los hijos de Benjamín. De los hijos de Judá
 "y Maasías hijo de Baruc, hijo de Colhoze, hijo de Hazaías, hijo de Adaías, hijo de Joiarib, hijo de Zacarías, hijo de Siloni."
 "Todos los hijos de Fares que moraron en Jerusalén, <I>fueron</I>  cuatrocientos setenta y ocho varones fuertes."
@@ -14,7 +14,7 @@
 "y sus hermanos, valientes de fuerza, ciento veintiocho, capitán de los cuales era Zabdiel, hijo de Gedolim."
 "Y de los levitas
 "y Sabetai y Jozabad, de los principales de los levitas, capataces de la obra exterior de la Casa de Dios;"
-"y Matanías hijo de Micaía, hijo de Zabdi, hijo de Asaf, el principal, el que empezaba las alabanzas <I>y acción de gracias al tiempo</I>  de la oración; y Bacbuquías el segundo de entre sus hermanos; y Abda hijo de Samúa,  hijo de Galal, hijo de Jedutún."
+"y Matanías hijo de Micaía, hijo de Zabdi, hijo de Asaf, el principal, el que empezaba las alabanzas <I>y acción de gracias al tiempo</I>  #de la oración; y Bacbuquías el segundo de entre sus hermanos; y Abda hijo de Samúa,  hijo de Galal, hijo de Jedutún."
 "Todos los levitas en la santa ciudad <I>fueron</I>  doscientos ochenta y cuatro."
 "Y los porteros, Acub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos."
 "Y el resto de Israel, de los sacerdotes, de los levitas, en todas las ciudades de Judá, cada uno en su heredad."

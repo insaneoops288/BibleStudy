@@ -6,7 +6,7 @@
 "Siihen aikaan läksi kuningas Joram Samariasta ja luki kaiken Israelin,"
 "Ja meni ja lähetti Josaphatille Juudan kuninkaalle sanomaan
 "Ja sanoi
-"Ja niin läksi Israelin kuningas ja Juudan kuningas ja Edomin kuningas. Ja koska he olivat vaeltaneet ympäri seitsemän päivän matkan, ja ei ollut vettä sotaväellä ja juhdilla, jotka heitä seurasivat,"
+"Ja niin läksi Israelin kuningas ja Juudan kuningas ja Edomin kuningas. Ja koska he olivat vaeltaneet #ympäri seitsemän päivän matkan, ja ei ollut vettä sotaväellä ja juhdilla, jotka heitä seurasivat,"
 "Niin sanoi Israelin kuningas
 "Mutta Josaphat sanoi
 "Josaphat sanoi
@@ -22,6 +22,6 @@
 "Mutta kuin he aamulla varhain nousivat, ja aurinko nousi veden yli, niin näkivät Moabilaiset, että vesi oli heitä vastaan punainen niinkuin veri,"
 "Ja sanoivat
 "Mutta kuin he tulivat Israelin leiriin, niin nousi Israel ja löi Moabilaisia; ja ne pakenivat heidän edellänsä; mutta he kiiruhtivat ja löivät Moabin,"
-"Ja kukistivat kaupungit, ja itsekukin heitti kivensä kaikkiin hyviin peltoihin ja täyttivät ne, ja tukitsivat kaikki vesilähteet, ja kaasivat kaikki hyvät puut, siihenasti että he ainoasti Hasaretin muuriin kiviä jättivät; ja he piirittivät sen lingoilla ja löivät sen."
-"Kuin Moabilaisten kuningas näki sodan olevan ylen väkevän itsiänsä vastaan, otti hän seitsemänsataa miestä tykönsä, jotka vetivät miekan ulos, karataksensa Edomin kuninkaan päälle; vaan ei he voineet."
-"Niin otti hän ensimäisen poikansa, joka hänen siaansa piti kuninkaaksi tuleman, ja uhrasi sen polttouhriksi muurin päällä. Silloin tuli Israel sangen vihaiseksi, niin että he menivät pois hänen tyköänsä ja palasivat omalle maallensa."
+"Ja kukistivat kaupungit, ja itsekukin heitti kivensä kaikkiin hyviin peltoihin ja täyttivät ne, ja tukitsivat kaikki vesilähteet, ja kaasivat kaikki #hyvät puut, siihenasti että he ainoasti Hasaretin muuriin kiviä jättivät; ja he piirittivät sen lingoilla ja löivät sen."
+"Kuin Moabilaisten kuningas näki sodan olevan ylen väkevän itsiänsä vastaan, otti hän seitsemänsataa miestä #tykönsä, jotka vetivät miekan ulos, karataksensa Edomin kuninkaan päälle; vaan ei he voineet."
+"Niin otti hän ensimäisen poikansa, joka hänen siaansa piti kuninkaaksi tuleman, ja uhrasi sen polttouhriksi muurin päällä. #Silloin tuli Israel sangen vihaiseksi, niin että he menivät pois hänen tyköänsä ja palasivat omalle maallensa."

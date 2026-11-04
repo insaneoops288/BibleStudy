@@ -20,7 +20,7 @@
 "A Bóg był z chłopcem; więc podrósł, zamieszkał na pustyni i stał się strzelcem łucznikiem."
 "Osiadł na pustyni Paran, a jego matka wzięła mu żonę z ziemi Micraim."
 "Owego czasu także się stało, że Abimelech powiedział do Abrahama wobec Pichola dowódcy swoich wojsk, jak następuje
-"Dlatego przysięgnij mi tutaj na Boga, że nie sprzeniewierzysz się ani mnie, ani mojemu synowi, ani mojemu wnukowi. Według łaski, którą ci wyświadczyłem wyświadczysz także mnie oraz ziemi, w której gościłeś."
+"Dlatego przysięgnij mi tutaj na Boga, że nie sprzeniewierzysz się ani mnie, ani mojemu synowi, ani #mojemu wnukowi. Według łaski, którą ci wyświadczyłem wyświadczysz także mnie oraz ziemi, w której gościłeś."
 "Zaś Abraham powiedział
 "Ale Abraham przymawiał Abimelechowi odnośnie studni z wodą, którą słudzy Abilemecha zawładnęli przemocą."
 "Więc Abimelech powiedział

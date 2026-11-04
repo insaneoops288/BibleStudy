@@ -15,7 +15,7 @@
 "Ja kohta kuin kaikki kansa näki hänen, hämmästyivät he ja juosten tykö tervehtivät häntä."
 "Ja hän kysyi kirjanoppineilta
 "Niin yksi kansan seasta vastasi ja sanoi
-"Ja kuin hän rupee hänen kimppuunsa, niin hän repelee häntä, ja hän vaahtuu, ja kiristelee hampaitansa, ja kuivettuu. Ja minä sanoin sinun opetuslapsilles, että he ajaisivat hänen ulos, ja ei he voineet."
+"Ja kuin hän rupee hänen kimppuunsa, niin hän repelee häntä, ja hän vaahtuu, ja kiristelee hampaitansa, ja #kuivettuu. Ja minä sanoin sinun opetuslapsilles, että he ajaisivat hänen ulos, ja ei he voineet."
 "Niin hän vastasi ja sanoi
 "Ja he toivat sen hänen tykönsä. Ja kuin hän näki hänen, repäisi kohta henki häntä, ja hän lankesi maahan, ja kieritteli itsiänsä ja vaahtui."
 "Ja hän kysyi hänen isältänsä

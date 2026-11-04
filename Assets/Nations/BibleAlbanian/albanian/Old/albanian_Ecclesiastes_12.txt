@@ -2,7 +2,7 @@
 "para se të errësohet dielli, drita, hëna dhe yjet, dhe të kthehen retë pas shiut;"
 "në moshën gjatë së cilës rojtarët e shtëpisë dridhen, njerëzit e fortë përkulen, ato që bluajnë nuk punojnë më se kanë mbetur pak, ata që shikojnë nga dritaret errësohen"
 "dhe portat mbi rrugë mbyllen; kur pakësohet zhurma e mokrës, dikush çohet me këngën e një zogu, dhe gjithë bijat e këngës dobësohen;"
-"kur dikush ka frikë nga lartësitë dhe nga tmerret e rrugës; kur bajamja lulëzon, karkaleci është një peshë, dhe dëshira pakësohet, sepse njeriu shkon në banesën e tij të përjetshme dhe qaramanët enden rrugëve."
+"kur dikush ka frikë nga lartësitë dhe nga tmerret e rrugës; kur bajamja lulëzon, karkaleci është një peshë, #dhe dëshira pakësohet, sepse njeriu shkon në banesën e tij të përjetshme dhe qaramanët enden rrugëve."
 "Kujto Krijuesin tënd përpara se të këputet kordoni prej argjendi, të thyhet vazoja prej ari, të thyhet shtamba te burimi dhe të bëhet copë-copë çikriku në pus,"
 "dhe pluhuri t'i kthehet tokës siç ishte më parë dhe fryma t'i kthehet Perëndisë që e ka dhënë."
 """Kotësi e kotësive"", thotë Predikuesi, ""gjithçka është kotësi""."

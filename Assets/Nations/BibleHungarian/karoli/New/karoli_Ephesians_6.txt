@@ -9,7 +9,7 @@
 "Ti is urak, ugyanazt cselekedjétek õ velök, elhegyván a fenyegetést; tudván, hogy a ti Uratok is mennyben van, és személyválogatás nincsen Õ nála."
 "Végezetre, atyámfiai, legyetek erõsek az Úrban, és az õ hatalmas erejében."
 "Öltözzétek föl az Isten minden fegyverét, hogy megállhassatok az ördögnek minden ravaszságával szemben."
-"Mert nem vér és test ellen van nékünk tusakodásunk, hanem a fejedelemségek ellen, a hatalmasságok ellen, ez élet sötétségének világbírói ellen, a gonoszság lelkei ellen, melyek a magasságban vannak."
+"Mert nem vér és test ellen van nékünk tusakodásunk, hanem a fejedelemségek ellen, a hatalmasságok #ellen, ez élet sötétségének világbírói ellen, a gonoszság lelkei ellen, melyek a magasságban vannak."
 "Annakokáért vegyétek föl az Istennek minden fegyverét, hogy ellentállhassatok ama gonosz napon, és mindeneket elvégezvén megállhassatok."
 "Álljatok hát elõ, körül övezvén derekatokat igazlelkûséggel, és felöltözvén az igazságnak mellvasába,"
 "És felsarúzván lábaitokat a békesség evangyéliomának készségével;"

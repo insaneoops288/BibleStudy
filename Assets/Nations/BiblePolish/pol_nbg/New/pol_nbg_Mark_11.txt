@@ -12,7 +12,7 @@
 "A nazajutrz, gdy wyszli z Betanii, łaknął."
 "I ujrzał z daleka figę mającą liście, zatem wyruszył sprawdzić, czy właśnie na niej czegoś nie znajdzie. A kiedy do niej dotarł, nie znalazł nic, tylko liście; bo nie była to pora fig."
 "Więc oddzielając ją, Jezus jej powiedział
-"Przychodzą też do Jerozolimy; a Jezus wszedł do Świątyni i zaczął wyganiać sprzedających oraz kupujących w Świątyni, poprzewracał stoły tych, co handlowali pieniędzmi i stołki sprzedających gołębie."
+"Przychodzą też do Jerozolimy; a Jezus wszedł do Świątyni i zaczął wyganiać sprzedających oraz #kupujących w Świątyni, poprzewracał stoły tych, co handlowali pieniędzmi i stołki sprzedających gołębie."
 "Także nie dopuszczał, aby ktoś przeniósł rzecz przez Świątynię."
 "I nauczał, mówiąc im
 "A usłyszeli to uczeni w Piśmie oraz przedniejsi kapłani, więc szukali sposobu jakby go zgładzić; bo bali się go dlatego, że cały lud zdumiewał się nad jego nauką."

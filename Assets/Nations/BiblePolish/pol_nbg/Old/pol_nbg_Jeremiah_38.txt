@@ -3,10 +3,10 @@
 "Ponieważ tak mówi WIEKUISTY
 "Dlatego owi przywódcy powiedzieli do króla
 "Więc król Cydkjasz powiedział
-"Zatem zabrali Jeremjasza oraz wrzucili go do cysterny Malkijjasza, królewskiego potomka, która była na dziedzińcu straży, więc spuścili Jeremjasza po powrozach. Zaś w cysternie nie było wody, tylko błoto, i Jeremjasz ugrzązł w tym błocie."
+"Zatem zabrali Jeremjasza oraz wrzucili go do cysterny Malkijjasza, królewskiego potomka, która była na dziedzińcu straży, więc spuścili #Jeremjasza po powrozach. Zaś w cysternie nie było wody, tylko błoto, i Jeremjasz ugrzązł w tym błocie."
 "Gdy jednak Ebed–Melek, Kuszyta, człowiek eunuch, który był w domu królewskim, usłyszał, że Jeremjasza wrzucono do cysterny a król przebywał w bramie Binjamina"
 "Ebed–Melek wyszedł z domu królewskiego i powiedział do króla te słowa
-"Panie mój i królu! Źle postąpili ci mężowie tym wszystkim, co uczynili prorokowi Jeremjaszowi, którego teraz wrzucili do cysterny, tak, żeby na tym miejscu umarł z głodu, gdyż brakuje już chleba w mieście."
+"Panie mój i królu! Źle postąpili ci mężowie tym wszystkim, co uczynili prorokowi Jeremjaszowi, którego teraz wrzucili #do cysterny, tak, żeby na tym miejscu umarł z głodu, gdyż brakuje już chleba w mieście."
 "Zatem król polecił Ebed–Melekowi, Kuszycie, mówiąc
 "Więc Ebed–Melek zabrał ze sobą tych ludzi, wszedł do domu królewskiego, pod skarbiec, i nabrał stamtąd podartych oraz znoszonych szmat oraz spuścił je na powrozach do Jeremjasza, do tej cysterny."
 "Po czym Ebed–Melek, Kuszyta, powiedział do Jeremjasza
@@ -24,5 +24,5 @@
 "Więc Cydkjasz powiedział do Jeremjasza
 "Jednak gdyby przywódcy usłyszeli, że z tobą rozmawiałem, przyszli do ciebie oraz ci powiedzieli
 "Wtedy im odpowiesz
-"I rzeczywiście, przybyli do Jeremjasza wszyscy przywódcy oraz go się wypytywali; ale im odpowiedział zgodnie ze wszystkimi słowami, które polecił król. Więc milcząc, odeszli od niego, tak, aby to się nie rozniosło."
+"I rzeczywiście, przybyli do Jeremjasza wszyscy przywódcy oraz go się wypytywali; ale im odpowiedział zgodnie ze wszystkimi #słowami, które polecił król. Więc milcząc, odeszli od niego, tak, aby to się nie rozniosło."
 "Zaś Jeremjasz pozostawał na dziedzińcu straży aż do dnia, w którym zdobyto Jeruszalaim i był tam gdy zdobywano Jeruszalaim."

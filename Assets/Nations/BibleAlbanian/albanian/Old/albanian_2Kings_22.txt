@@ -10,11 +10,11 @@
 "Shafani, sekretari, i tha gjithashtu mbretit
 "Kur mbreti dëgjoi fjalët e ligjit, ai grisi rrobat e tij."
 "Pastaj mbreti urdhëroi priftin Hilkiah, Ahikamin, birin e Shafanit, Agborin, birin e Mikajahut, Shafanin, sekretarin, dhe Asajahun, shërbëtorin e mbretit
-"""Shkoni dhe konsultohuni me Zotin për mua për popullin dhe për tërë Judën, lidhur me fjalët e këtij libri që u gjet; sepse i madh është zemërimi i Zotit kundër nesh, sepse etërit tanë nuk iu bindën fjalëve të këtij libri dhe nuk kanë vepruar në përshtatje me të gjitha ato që janë shkruar për ne""."
-"Atëherë prifti Hilkiah, Ahikami, Akbori, Shafani dhe Asajahu shkuan te profetesha Huldah, bashkëshorte e Shalumit të Tikvahut, që ishte i biri i Harahsit, ruajtësit të rrobave, (ajo banonte në Jeruzalem, në lagjen e dytë) dhe folën me të."
+"""Shkoni dhe konsultohuni me Zotin për mua për popullin dhe për tërë Judën, lidhur me fjalët e këtij libri që u gjet; sepse i madh është zemërimi i Zotit #kundër nesh, sepse etërit tanë nuk iu bindën fjalëve të këtij libri dhe nuk kanë vepruar në përshtatje me të gjitha ato që janë shkruar për ne""."
+"Atëherë prifti Hilkiah, Ahikami, Akbori, Shafani dhe Asajahu shkuan te profetesha Huldah, bashkëshorte e Shalumit të Tikvahut, që ishte i #biri i Harahsit, ruajtësit të rrobave, (ajo banonte në Jeruzalem, në lagjen e dytë) dhe folën me të."
 "Ajo u përgjigj
 """Kështu thotë Zoti
-"sepse ata më kanë braktisur dhe u kanë djegur temjan perëndive të tjera për të më zemëruar me të gjitha veprat e duarve të tyre. Prandaj zemërimi im u ndez kundër këtij vendi dhe nuk do të shuhet""."
+"sepse ata më kanë braktisur dhe u kanë djegur temjan perëndive të tjera për të më zemëruar me të gjitha #veprat e duarve të tyre. Prandaj zemërimi im u ndez kundër këtij vendi dhe nuk do të shuhet""."
 "Por mbretit të Judës, që ju ka dërguar për t'u konsultuar me Zotin, do t'i thoni kështu
-"sepse zemra jote u mallëngjye dhe ti u përule përpara Zotit kur dëgjove atë që kam thënë kundër këtij vendi dhe banorëve të tij, që do të bëheshin një dëshpërim dhe një mallkim, dhe grise rrobat dhe qave përpara meje, edhe unë të dëgjova"", tha Zoti."
-"""Prandaj, ja, unë do të të bashkoj me etërit e tu dhe ty do të të vendosin në paqe në varrin tënd; dhe sytë e tu nuk kanë për të parë tërë të keqen që unë do t'i sjell këtij vendi"""". Dhe ata ia njoftuan mbretit këtë mesazh."
+"sepse zemra jote u mallëngjye dhe ti u përule përpara Zotit kur dëgjove atë që kam thënë kundër këtij vendi dhe banorëve të tij, #që do të bëheshin një dëshpërim dhe një mallkim, dhe grise rrobat dhe qave përpara meje, edhe unë të dëgjova"", tha Zoti."
+"""Prandaj, ja, unë do të të bashkoj me etërit e tu dhe ty do të të vendosin në paqe në varrin tënd; dhe sytë e #tu nuk kanë për të parë tërë të keqen që unë do t'i sjell këtij vendi"""". Dhe ata ia njoftuan mbretit këtë mesazh."

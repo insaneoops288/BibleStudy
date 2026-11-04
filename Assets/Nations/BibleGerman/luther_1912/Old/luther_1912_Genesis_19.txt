@@ -5,7 +5,7 @@
 "und forderten Lot und sprachen zu ihm
 "Lot ging heraus zu ihnen vor die Tür und schloß die Tür hinter sich zu"
 "und sprach
-"Siehe, ich habe zwei Töchter, die haben noch keinen Mann erkannt, die will ich herausgeben unter euch, und tut mit ihnen, was euch gefällt; allein diesen Männern tut nichts, denn darum sind sie unter den Schatten meines Daches eingegangen."
+"Siehe, ich habe zwei Töchter, die haben noch keinen Mann erkannt, die will ich herausgeben unter euch, und tut mit #ihnen, was euch gefällt; allein diesen Männern tut nichts, denn darum sind sie unter den Schatten meines Daches eingegangen."
 "Sie aber sprachen
 "griffen die Männer hinaus und zogen Lot hinein zu sich ins Haus und schlossen die Tür zu."
 "Und die Männer vor der Tür wurden mit Blindheit geschlagen, klein und groß, bis sie müde wurden und die Tür nicht finden konnten.{~}"
@@ -16,7 +16,7 @@
 "Da er aber verzog, ergriffen die Männer ihn und sein Weib und seine zwei Töchter bei der Hand, darum daß der HERR ihn verschonte, und führten ihn hinaus und ließen ihn draußen vor der Stadt.{~}{~}"
 "Und als sie ihn hatten hinausgebracht, sprach er
 "Aber Lot sprach zu ihnen
-"Siehe, dieweil dein Knecht Gnade gefunden hat vor deinen Augen, so wollest du deine Barmherzigkeit groß machen, die du an mir getan hast, daß du meine Seele am Leben erhieltest. Ich kann mich nicht auf den Berg retten; es möchte mich ein Unfall ankommen, daß ich stürbe."
+"Siehe, dieweil dein Knecht Gnade gefunden hat vor deinen Augen, so wollest du deine Barmherzigkeit groß machen, die du an mir getan hast, daß #du meine Seele am Leben erhieltest. Ich kann mich nicht auf den Berg retten; es möchte mich ein Unfall ankommen, daß ich stürbe."
 "Siehe, da ist eine Stadt nahe, darein ich fliehen kann, und sie ist klein; dahin will ich mich retten(ist sie doch klein), daß meine Seele lebendig bleibe."
 "Da sprach er zu ihm
 "Eile und rette dich dahin; denn ich kann nichts tun, bis daß du hineinkommst. Daher ist diese Stadt genannt Zoar."

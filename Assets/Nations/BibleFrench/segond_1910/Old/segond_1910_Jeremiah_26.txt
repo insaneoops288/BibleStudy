@@ -12,12 +12,12 @@
 "Jérémie dit à tous les chefs et à tout le peuple
 "Maintenant réformez vos voies et vos oeuvres, écoutez la voix de l'Eternel, votre Dieu, et l'Eternel se repentira du mal qu'il a prononcé contre vous."
 "Pour moi, me voici entre vos mains; traitez-moi comme il vous semblera bon et juste."
-"Seulement sachez que, si vous me faites mourir, vous vous chargez du sang innocent, vous, cette ville et ses habitants; car l'Eternel m'a véritablement envoyé vers vous pour prononcer à vos oreilles toutes ces paroles."
+"Seulement sachez que, si vous me faites mourir, vous vous chargez du sang innocent, vous, cette ville et #ses habitants; car l'Eternel m'a véritablement envoyé vers vous pour prononcer à vos oreilles toutes ces paroles."
 "Les chefs et tout le peuple dirent aux sacrificateurs et aux prophètes
 "Et quelques-uns des anciens du pays se levèrent, et dirent à toute l'assemblée du peuple
 "Michée, de Moréscheth, prophétisait du temps d'Ezéchias, roi de Juda, et il disait à tout le peuple de Juda
-"Ezéchias, roi de Juda, et tout Juda l'ont-ils fait mourir? Ezéchias ne craignit-il pas l'Eternel? N'implora-t-il pas l'Eternel? Alors l'Eternel se repentit du mal qu'il avait prononcé contre eux. Et nous, nous chargerions notre âme d'un si grand crime!"
-"Il y eut aussi un homme qui prophétisait au nom de l'Eternel, Urie, fils de Schemaeja, de Kirjath-Jearim. Il prophétisa contre cette ville et contre ce pays entièrement les mêmes choses que Jérémie."
+"Ezéchias, roi de Juda, et tout Juda l'ont-ils fait mourir? Ezéchias ne craignit-il pas l'Eternel? N'implora-t-il pas l'Eternel? Alors l'Eternel #se repentit du mal qu'il avait prononcé contre eux. Et nous, nous chargerions notre âme d'un si grand crime!"
+"Il y eut aussi un homme qui prophétisait au nom de l'Eternel, Urie, fils de Schemaeja, de #Kirjath-Jearim. Il prophétisa contre cette ville et contre ce pays entièrement les mêmes choses que Jérémie."
 "Le roi Jojakim, tous ses vaillants hommes, et tous ses chefs, entendirent ses paroles, et le roi chercha à le faire mourir. Urie, qui en fut informé, eut peur, prit la fuite, et alla en Egypte."
 "Le roi Jojakim envoya des gens en Egypte, Elnathan, fils d'Acbor, et des gens avec lui en Egypte."
 "Ils firent sortir d'Egypte Urie et l'amenèrent au roi Jojakim, qui le fit mourir par l'épée et jeta son cadavre sur les sépulcres des enfants du peuple."

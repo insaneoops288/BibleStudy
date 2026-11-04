@@ -2,11 +2,11 @@
 "Ainsi parle l'Eternel
 "Car les coutumes des peuples ne sont que vanité. On coupe le bois dans la forêt; La main de l'ouvrier le travaille avec la hache;"
 "On l'embellit avec de l'argent et de l'or, On le fixe avec des clous et des marteaux, Pour qu'il ne branle pas."
-"Ces dieux sont comme une colonne massive, et ils ne parlent point; On les porte, parce qu'ils ne peuvent marcher. Ne les craignez pas, car ils ne sauraient faire aucun mal, Et ils sont incapables de faire du bien."
+"Ces dieux sont comme une colonne massive, et ils ne parlent point; On les porte, parce qu'ils ne peuvent marcher. #Ne les craignez pas, car ils ne sauraient faire aucun mal, Et ils sont incapables de faire du bien."
 "Nul n'est semblable à toi, ô Eternel! Tu es grand, et ton nom est grand par ta puissance."
 "Qui ne te craindrait, roi des nations? C'est à toi que la crainte est due; Car, parmi tous les sages des nations et dans tous leurs royaumes, Nul n'est semblable à toi."
 "Tous ensemble, ils sont stupides et insensés; Leur science n'est que vanité, c'est du bois!"
-"On apporte de Tarsis des lames d'argent, et d'Uphaz de l'or, L'ouvrier et la main de l'orfèvre les mettent en oeuvre; Les vêtements de ces dieux sont d'étoffes teintes en bleu et en pourpre, Tous sont l'ouvrage d'habiles artisans."
+"On apporte de Tarsis des lames d'argent, et d'Uphaz de l'or, L'ouvrier et la main de l'orfèvre les mettent en #oeuvre; Les vêtements de ces dieux sont d'étoffes teintes en bleu et en pourpre, Tous sont l'ouvrage d'habiles artisans."
 "Mais l'Eternel est Dieu en vérité, Il est un Dieu vivant et un roi éternel; La terre tremble devant sa colère, Et les nations ne supportent pas sa fureur."
 "Vous leur parlerez ainsi
 "Il a créé la terre par sa puissance, Il a fondé le monde par sa sagesse, Il a étendu les cieux par son intelligence."

@@ -3,12 +3,12 @@
 "Ainsi parle l'Eternel
 "Et les chefs dirent au roi
 "Le roi Sédécias répondit
-"Alors ils prirent Jérémie, et le jetèrent dans la citerne de Malkija, fils du roi, laquelle se trouvait dans la cour de la prison; ils descendirent Jérémie avec des cordes. Il n'y avait point d'eau dans la citerne, mais il y avait de la boue; et Jérémie enfonça dans la boue."
+"Alors ils prirent Jérémie, et le jetèrent dans la citerne de Malkija, fils du roi, laquelle se trouvait dans la cour de la prison; ils descendirent #Jérémie avec des cordes. Il n'y avait point d'eau dans la citerne, mais il y avait de la boue; et Jérémie enfonça dans la boue."
 "Ebed-Mélec, l'Ethiopien, eunuque qui était dans la maison du roi, apprit qu'on avait mis Jérémie dans la citerne. Le roi était assis à la porte de Benjamin."
 "Ebed-Mélec sortit de la maison du roi, et parla ainsi au roi
 "O roi, mon seigneur, ces hommes ont mal agi en traitant de la sorte Jérémie, le prophète, en le jetant dans la citerne; il mourra de faim là où il est, car il n'y a plus de pain dans la ville."
 "Le roi donna cet ordre à Ebed-Mélec, l'Ethiopien
-"Ebed-Mélec prit avec lui les hommes, et se rendit à la maison du roi, dans un lieu au-dessous du trésor; il en sortit des lambeaux usés et de vieux haillons, et les descendit à Jérémie dans la citerne, avec des cordes."
+"Ebed-Mélec prit avec lui les hommes, et se rendit à la maison du roi, dans un lieu au-dessous du trésor; il #en sortit des lambeaux usés et de vieux haillons, et les descendit à Jérémie dans la citerne, avec des cordes."
 "Ebed-Mélec, l'Ethiopien, dit à Jérémie
 "Ils tirèrent Jérémie avec les cordes, et le firent monter hors de la citerne. Jérémie resta dans la cour de la prison."
 "Le roi Sédécias envoya chercher Jérémie, le prophète, et le fit venir auprès de lui dans la troisième entrée de la maison de l'Eternel. Et le roi dit à Jérémie
@@ -24,5 +24,5 @@
 "Sédécias dit à Jérémie
 "Si les chefs apprennent que je t'ai parlé, et s'ils viennent te dire
 "tu leur répondras
-"Tous les chefs vinrent auprès de Jérémie et le questionnèrent. Il leur répondit entièrement comme le roi l'avait ordonné. Ils gardèrent alors le silence et se retirèrent, car la chose ne s'était pas répandue."
+"Tous les chefs vinrent auprès de Jérémie et le questionnèrent. Il leur répondit entièrement comme le roi l'avait #ordonné. Ils gardèrent alors le silence et se retirèrent, car la chose ne s'était pas répandue."
 "Jérémie resta dans la cour de la prison jusqu'au jour de la prise de Jérusalem. Lorsque Jérusalem fut prise, -"

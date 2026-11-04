@@ -24,7 +24,7 @@
 "Los cabezas de los levitas
 "Matanías, y Bacbucías, Abdías, Mesulam, Talmón, Acub, guardas, eran porteros para la guardia a las entradas de las puertas."
 "Éstos fueron en los días de Joiacim, hijo de Jesúa, hijo de Josadac, y en los días del gobernador Nehemías, y del sacerdote Esdras, escriba."
-"Y para la dedicación del muro de Jerusalén buscaron a los levitas de todos los lugares, para traerlos a Jerusalén, para hacer la dedicación y la fiesta con alabanzas y con cánticos, con címbalos, salterios y cítaras."
+"Y para la dedicación del muro de Jerusalén buscaron a los levitas de todos los lugares, para traerlos a #Jerusalén, para hacer la dedicación y la fiesta con alabanzas y con cánticos, con címbalos, salterios y cítaras."
 "Y fueron reunidos los hijos de los cantores, así de la región de alrededor de Jerusalén como de las aldeas de Netofati;"
 "y de la casa de Gilgal, y de los campos de Geba, y de Azmavet; porque los cantores se habían edificado aldeas alrededor de Jerusalén."
 "Y se purificaron los sacerdotes y los levitas; y purificaron al pueblo, y las puertas, y el muro."
@@ -40,8 +40,8 @@
 "Pararon luego los dos coros en la casa de Dios; y yo, y la mitad de los magistrados conmigo;"
 "y los sacerdotes, Eliaquim, Maasías, Miniamín, Micaías, Elioenai, Zacarías, y Hananías, con trompetas;"
 "y Maasías, y Semaías, y Eleazar, y Uzi, y Johanán, y Malquías, y Elam, y Ezer. Y los cantores cantaban alto, e Izrahías era el prefecto."
-"Y sacrificaron aquel día grandes víctimas, e hicieron alegrías; porque Dios los había recreado con grande contentamiento; se alegraron también las mujeres y los niños; y el alborozo de Jerusalén fue oído desde lejos."
-"Y en aquel día fueron puestos varones sobres las cámaras de los tesoros, de las ofrendas, de las primicias, y de los diezmos, para juntar en ellas de los campos de las ciudades las porciones legales para los sacerdotes y levitas; porque era grande el gozo de Judá con respecto a los sacerdotes y levitas que servían."
+"Y sacrificaron aquel día grandes víctimas, e hicieron alegrías; porque Dios los había recreado con grande contentamiento; se #alegraron también las mujeres y los niños; y el alborozo de Jerusalén fue oído desde lejos."
+"Y en aquel día fueron puestos varones sobres las cámaras de los tesoros, de las ofrendas, de las primicias, y de los diezmos, para juntar en ellas de los #campos de las ciudades las porciones legales para los sacerdotes y levitas; porque era grande el gozo de Judá con respecto a los sacerdotes y levitas que servían."
 "Y los cantores y los porteros guardaron la ordenanza de su Dios y la ordenanza de la expiación conforme al estatuto de David y de Salomón su hijo."
 "Porque desde el tiempo de David y de Asaf, ya de antiguo, había príncipes de cantores, y cántico y alabanza, y acción de gracias a Dios."
 "Y todo Israel en días de Zorobabel, y en días de Nehemías, daba raciones a los cantores y a los porteros, cada cosa en su día

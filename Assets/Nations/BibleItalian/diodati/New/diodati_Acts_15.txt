@@ -1,5 +1,5 @@
 "OR alcuni, discesi di Giudea, insegnavano i fratelli
-"Onde essendo nato turbamento e quistione non piccola di Paolo e di Barnaba contro a loro, fu ordinato che Paolo, e Barnaba, ed alcuni altri di loro, salissero in Gerusalemme agli apostoli, ed anziani, per questa quistione."
+"Onde essendo nato turbamento e quistione non piccola di Paolo e di Barnaba contro a loro, fu ordinato che #Paolo, e Barnaba, ed alcuni altri di loro, salissero in Gerusalemme agli apostoli, ed anziani, per questa quistione."
 "Essi adunque, accompagnati dalla chiesa fuor della città, traversarono la Fenicia, e la Samaria, raccontando la conversion dei Gentili; e portarono grande allegrezza a tutti i fratelli."
 "Ed essendo giunti in Gerusalemme, furono accolti dalla chiesa, e dagli apostoli, e dagli anziani; e rapportarono quanto gran cose Iddio avea fatte con loro."
 "Ma, dicevano, alcuni della setta de’ Farisei, i quali hanno creduto, si son levati, dicendo che convien circoncidere i Gentili, e comandar loro d’osservar la legge di Mosè."
@@ -21,7 +21,7 @@
 "Perciocchè, quant’è a Mosè, già dalle età antiche egli ha persone che lo predicano per ogni città, essendo ogni sabato letto nelle sinagoghe."
 "Allora parve bene agli apostoli, ed agli anziani, con tutta la chiesa, di mandare in Antiochia, con Paolo e Barnaba, certi uomini eletti d’infra loro, cioè
 "scrivendo per lor mani queste cose
-"Perciocchè abbiamo inteso che alcuni, partiti d’infra noi, vi hanno turbati con parole, sovvertendo le anime vostre, dicendo che conviene che siate circoncisi, ed osserviate la legge; a’ quali però non ne avevamo data alcuna commissione;"
+"Perciocchè abbiamo inteso che alcuni, partiti d’infra noi, vi hanno turbati con parole, sovvertendo le anime vostre, dicendo che #conviene che siate circoncisi, ed osserviate la legge; a’ quali però non ne avevamo data alcuna commissione;"
 "essendoci raunati, siamo di pari consentimento convenuti in questo parere, di mandarvi certi uomini eletti, insieme co’ cari nostri Barnaba, e Paolo;"
 "uomini, che hanno esposte le vite loro per lo nome del Signor nostro Gesù Cristo."
 "Abbiamo adunque mandati Giuda, e Sila, i quali ancora a bocca vi faranno intendere le medesime cose."

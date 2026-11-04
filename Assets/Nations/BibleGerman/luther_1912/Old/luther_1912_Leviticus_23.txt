@@ -1,6 +1,6 @@
 "Und der HERR redete mit Mose und sprach
 "Sage den Kindern Israel und sprich zu ihnen
-"Sechs Tage sollst du arbeiten; der siebente Tag aber ist der große, heilige Sabbat, da ihr zusammenkommt. Keine Arbeit sollt ihr an dem tun; denn es ist der Sabbat des HERRN in allen euren Wohnungen."
+"Sechs Tage sollst du arbeiten; der siebente Tag aber ist der große, heilige Sabbat, da ihr zusammenkommt. Keine #Arbeit sollt ihr an dem tun; denn es ist der Sabbat des HERRN in allen euren Wohnungen."
 "Dies sind aber die Feste des HERRN, die ihr die heiligen Feste heißen sollt, da ihr zusammenkommt."
 "Am vierzehnten Tage des ersten Monats gegen Abend ist des HERRN Passah."
 "Und am fünfzehnten desselben Monats ist das Fest der ungesäuerten Brote des HERRN; da sollt ihr sieben Tage ungesäuertes Brot essen."
@@ -15,11 +15,11 @@
 "Darnach sollt ihr Zählen vom Tage nach dem Sabbat, da ihr die Webegarbe brachtet, sieben ganze Wochen;{~}"
 "bis an den Tag nach dem siebenten Sabbat, nämlich fünfzig Tage, sollt ihr zählen und neues Speisopfer dem HERRN opfern,"
 "und sollt's aus euren Wohnungen opfern, nämlich zwei Webebrote von zwei Zehntel Semmelmehl, gesäuert und gebacken, zu Erstlingen dem HERRN."
-"Und sollt herzubringen neben eurem Brot sieben jährige Lämmer ohne Fehl und einen jungen Farren und zwei Widder, die sollen des HERRN Brandopfer sein, mit ihrem Speisopfern und Trankopfern, ein Opfer eines süßen Geruchs dem HERRN."
+"Und sollt herzubringen neben eurem Brot sieben jährige Lämmer ohne Fehl und einen jungen Farren und zwei Widder, die #sollen des HERRN Brandopfer sein, mit ihrem Speisopfern und Trankopfern, ein Opfer eines süßen Geruchs dem HERRN."
 "Dazu sollt ihr machen einen Ziegenbock zum Sündopfer und zwei jährige Lämmer zum Dankopfer."
 "Und der Priester soll's weben samt den Erstlingsbroten vor dem HERRN; die sollen samt den zwei Lämmern dem HERRN heilig sein und dem Priester gehören.{~}"
-"Und sollt diesen Tag ausrufen; denn er soll unter euch heilig heißen, da ihr zusammenkommt; keine Dienstarbeit sollt ihr tun. Ein ewiges Recht soll das sein bei euren Nachkommen in allen euren Wohnungen."
-"Wenn ihr aber euer Land erntet sollt ihr nicht alles bis an die Enden des Feldes abschneiden, auch nicht alles genau auflesen, sondern sollt's den Armen und Fremdlingen lassen. Ich bin der HERR, euer Gott.{~}"
+"Und sollt diesen Tag ausrufen; denn er soll unter euch heilig heißen, da ihr zusammenkommt; keine Dienstarbeit #sollt ihr tun. Ein ewiges Recht soll das sein bei euren Nachkommen in allen euren Wohnungen."
+"Wenn ihr aber euer Land erntet sollt ihr nicht alles bis an die Enden des Feldes abschneiden, auch #nicht alles genau auflesen, sondern sollt's den Armen und Fremdlingen lassen. Ich bin der HERR, euer Gott.{~}"
 "Und der HERR redete mit Mose und sprach
 "Rede mit den Kindern Israel und sprich
 "da sollt ihr keine Dienstarbeit tun und sollt dem HERRN opfern."
@@ -33,10 +33,10 @@
 "Und der HERR redete mit Mose und sprach
 "Rede mit den Kindern Israel und sprich
 "Der erste Tag soll heilig heißen, daß ihr zusammenkommt; keine Dienstarbeit sollt ihr tun."
-"Sieben Tage sollt ihr dem HERRN opfern. Der achte Tag soll auch heilig heißen, daß ihr zusammenkommt, und sollt eure Opfer dem HERRN tun; denn es ist der Tag der Versammlung; keine Dienstarbeit sollt ihr tun."
+"Sieben Tage sollt ihr dem HERRN opfern. Der achte Tag soll auch heilig heißen, daß ihr zusammenkommt, und sollt #eure Opfer dem HERRN tun; denn es ist der Tag der Versammlung; keine Dienstarbeit sollt ihr tun."
 "Das sind die Feste des HERRN, die ihr sollt für heilig halten, daß ihr zusammenkommt und dem HERRN Opfer tut
 "außer was die Sabbate des HERRN und eure Gaben und Gelübde und freiwillige Gaben sind, die ihr dem HERRN gebt."
-"So sollt ihr nun am fünfzehnten Tage des siebenten Monats, wenn ihr die Früchte des Landes eingebracht habt, das Fest des HERRN halten sieben Tage lang. Am ersten Tage ist es Sabbat, und am achten Tage ist es auch Sabbat."
+"So sollt ihr nun am fünfzehnten Tage des siebenten Monats, wenn ihr die Früchte des Landes eingebracht habt, das Fest des #HERRN halten sieben Tage lang. Am ersten Tage ist es Sabbat, und am achten Tage ist es auch Sabbat."
 "Und sollt am ersten Tage Früchte nehmen von schönen Bäumen, Palmenzweige und Maien von dichten Bäumen und Bachweiden und sieben Tage fröhlich sein vor dem HERRN, eurem Gott."
 "Und sollt also dem HERRN das Fest halten sieben Tage des Jahres. Das soll ein ewiges Recht sein bei euren Nachkommen, daß sie im siebenten Monat also feiern."
 "Sieben Tage sollt ihr in Laubhütten wohnen; wer einheimisch ist in Israel, der soll in Laubhütten wohnen,"

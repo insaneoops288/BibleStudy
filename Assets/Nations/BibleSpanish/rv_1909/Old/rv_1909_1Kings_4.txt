@@ -10,7 +10,7 @@
 "El hijo de Hesed, en Aruboth; éste tenía también á Sochô y toda la tierra de Ephet."
 "El hijo de Abinadab, en todos los términos de Dor
 "Baana hijo de Ahilud, en Taanach y Megiddo, y en toda Beth-san, que es cerca de Zaretán, por bajo de Jezreel, desde Beth-san hasta Abel-mehola, y hasta la otra parte de Jocmeam;"
-"El hijo de Geber, en Ramoth de Galaad; éste tenía también las ciudades de Jair hijo de Manasés, las cuales estaban en Galaad; tenía también la provincia de Argob, que era en Basán, sesenta grandes ciudades con muro y cerraduras de bronce;"
+"El hijo de Geber, en Ramoth de Galaad; éste tenía también las ciudades de Jair hijo de Manasés, las cuales estaban en #Galaad; tenía también la provincia de Argob, que era en Basán, sesenta grandes ciudades con muro y cerraduras de bronce;"
 "Ahinadab hijo de Iddo, en Mahanaim;"
 "Ahimaas en Nephtalí; éste tomó también por mujer á Basemath hija de Salomón."
 "Baana hijo de Husai, en Aser y en Aloth;"

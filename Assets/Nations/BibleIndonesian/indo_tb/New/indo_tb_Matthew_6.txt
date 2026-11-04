@@ -1,9 +1,9 @@
 """Ingatlah, jangan kamu melakukan kewajiban agamamu di hadapan orang supaya dilihat mereka, karena jika demikian, kamu tidak beroleh upah dari Bapamu yang di sorga."
-"Jadi apabila engkau memberi sedekah, janganlah engkau mencanangkan hal itu, seperti yang dilakukan orang munafik di rumah-rumah ibadat dan di lorong-lorong, supaya mereka dipuji orang. Aku berkata kepadamu
+"Jadi apabila engkau memberi sedekah, janganlah engkau mencanangkan hal itu, seperti yang dilakukan orang munafik #di rumah-rumah ibadat dan di lorong-lorong, supaya mereka dipuji orang. Aku berkata kepadamu
 "Tetapi jika engkau memberi sedekah, janganlah diketahui tangan kirimu apa yang diperbuat tangan kananmu."
 "Hendaklah sedekahmu itu diberikan dengan tersembunyi, maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu."""
-"""Dan apabila kamu berdoa, janganlah berdoa seperti orang munafik. Mereka suka mengucapkan doanya dengan berdiri dalam rumah-rumah ibadat dan pada tikungan-tikungan jalan raya, supaya mereka dilihat orang. Aku berkata kepadamu
-"Tetapi jika engkau berdoa, masuklah ke dalam kamarmu, tutuplah pintu dan berdoalah kepada Bapamu yang ada di tempat tersembunyi. Maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu."
+"""Dan apabila kamu berdoa, janganlah berdoa seperti orang munafik. Mereka suka mengucapkan doanya dengan berdiri dalam #rumah-rumah ibadat dan pada tikungan-tikungan jalan raya, supaya mereka dilihat orang. Aku berkata kepadamu
+"Tetapi jika engkau berdoa, masuklah ke dalam kamarmu, tutuplah pintu dan berdoalah kepada Bapamu yang #ada di tempat tersembunyi. Maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu."
 "Lagipula dalam doamu itu janganlah kamu bertele-tele seperti kebiasaan orang yang tidak mengenal Allah. Mereka menyangka bahwa karena banyaknya kata-kata doanya akan dikabulkan."
 "Jadi janganlah kamu seperti mereka, karena Bapamu mengetahui apa yang kamu perlukan, sebelum kamu minta kepada-Nya."
 "Karena itu berdoalah demikian
@@ -21,9 +21,9 @@
 "Karena di mana hartamu berada, di situ juga hatimu berada."
 "Mata adalah pelita tubuh. Jika matamu baik, teranglah seluruh tubuhmu;"
 "jika matamu jahat, gelaplah seluruh tubuhmu. Jadi jika terang yang ada padamu gelap, betapa gelapnya kegelapan itu."
-"Tak seorangpun dapat mengabdi kepada dua tuan. Karena jika demikian, ia akan membenci yang seorang dan mengasihi yang lain, atau ia akan setia kepada yang seorang dan tidak mengindahkan yang lain. Kamu tidak dapat mengabdi kepada Allah dan kepada Mamon."""
+"Tak seorangpun dapat mengabdi kepada dua tuan. Karena jika demikian, ia akan membenci yang seorang dan mengasihi yang lain, atau ia #akan setia kepada yang seorang dan tidak mengindahkan yang lain. Kamu tidak dapat mengabdi kepada Allah dan kepada Mamon."""
 """Karena itu Aku berkata kepadamu
-"Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, namun diberi makan oleh Bapamu yang di sorga. Bukankah kamu jauh melebihi burung-burung itu?"
+"Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, #namun diberi makan oleh Bapamu yang di sorga. Bukankah kamu jauh melebihi burung-burung itu?"
 "Siapakah di antara kamu yang karena kekuatirannya dapat menambahkan sehasta saja pada jalan hidupnya?"
 "Dan mengapa kamu kuatir akan pakaian? Perhatikanlah bunga bakung di ladang, yang tumbuh tanpa bekerja dan tanpa memintal,"
 "namun Aku berkata kepadamu

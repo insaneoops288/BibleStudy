@@ -14,7 +14,7 @@
 "Simonin, jonka hän myös Pietariksi kutsui, ja Andreaksen, hänen veljensä, Jakobin ja Johanneksen, Philippuksen ja Bartolomeuksen,"
 "Matteuksen ja Toomaan, Jakobin Alphein pojan, ja Simonin, joka kutsutaan Zelotes,"
 "Juudaan Jakobin pojan, ja Juudas Iskariotin, joka myös oli pettäjä."
-"Ja kuin hän meni alas heidän kanssansa, seisoi hän lakialla paikalla, ja hänen opetuslastensa joukko, ja suuri kansan paljous kaikesta Juudeasta ja Jerusalemista, ja rantalaiset Tyrosta ja Sidonista, jotka olivat tulleet häntä kuulemaan, ja että he parannettaisiin taudeistansa,"
+"Ja kuin hän meni alas heidän kanssansa, seisoi hän lakialla paikalla, ja hänen opetuslastensa joukko, ja suuri kansan paljous kaikesta #Juudeasta ja Jerusalemista, ja rantalaiset Tyrosta ja Sidonista, jotka olivat tulleet häntä kuulemaan, ja että he parannettaisiin taudeistansa,"
 "Ja jotka vaivattiin riettasilta hengiltä; ja he paranivat."
 "Ja kaikki kansa pyysi häneen ruveta; sillä voima läksi hänestä ja paransi kaikki."
 "Ja hän nosti silmänsä opetuslastensa puoleen, ja sanoi
@@ -45,5 +45,5 @@
 "Hyvä ihminen tuottaa edes sydämensä hyvästä tavarasta hyvää, ja paha ihminen sydämensä pahasta tavarasta tuottaa edes pahaa. Sillä sydämen kyllyydestä hänen suunsa puhuu."
 "Mitä te siis minua kutsutte Herra, Herra! ja ette tee, mitä minä sanon?"
 "Kuka ikänä tulee minun tyköni, ja kuulee minun sanani, ja tekee ne, sen minä osoitan teille, kenen kaltainen hän on."
-"Hän on sen ihmisen kaltainen, joka huoneensa rakensi, ja kaivoi syvään, ja pani perustuksen kallion päälle. Kuin siis vuo tuli, sysäsi virta sitä huonetta, ja ei voinut häntä liikuttaa; sillä se oli perustettu kallion päälle."
+"Hän on sen ihmisen kaltainen, joka huoneensa rakensi, ja kaivoi syvään, ja pani perustuksen kallion päälle. Kuin siis #vuo tuli, sysäsi virta sitä huonetta, ja ei voinut häntä liikuttaa; sillä se oli perustettu kallion päälle."
 "Mutta joka kuulee ja ei tee, se on sen ihmisen kaltainen, joka huoneensa rakensi maan päälle ilman perustusta, jota virta sysäsi, ja se kohta kukistui

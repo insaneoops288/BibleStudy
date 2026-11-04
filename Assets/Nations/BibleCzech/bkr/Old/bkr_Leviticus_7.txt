@@ -9,7 +9,7 @@
 "Nadto všeliká obět suchá, kteráž v peci pečena bude, a všecko, což na pánvici aneb v kotlíku strojeno bude, knězi, kterýž to obětuje, přináležeti bude."
 "Tolikéž všeliká obět suchá olejem zadělaná aneb upražená, všechněm synům Aronovým přináležeti bude, a to jednomu jako druhému."
 "Tento pak bude řád oběti pokojné, kterouž by obětoval Hospodinu
-"Jestliže by ji obětoval v oběti chvály, tedy obětovati bude v obět chvály koláče nekvašené, olejem zadělané a oplatky nekvašené, olejem pomazané a mouku bělnou smaženou, s těmi koláči olejem zadělanými."
+"Jestliže by ji obětoval v oběti chvály, tedy obětovati bude v obět chvály koláče nekvašené, olejem #zadělané a oplatky nekvašené, olejem pomazané a mouku bělnou smaženou, s těmi koláči olejem zadělanými."
 "Mimo ty koláče také chléb kvašený obětovati bude obět svou, v obět chvály pokojných obětí svých."
 "A budeť obětovati z něho jeden pecník, ze vší té oběti Hospodinu obět ku pozdvižení, a ten přináležeti bude tomu knězi, kterýž kropil krví té oběti pokojné."
 "Maso pak obět, z té oběti chvály, jenž jest obět pokojná, v den obětování jejího jedeno bude, aniž co zůstane z něho do jitra."

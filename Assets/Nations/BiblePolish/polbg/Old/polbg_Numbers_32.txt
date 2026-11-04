@@ -30,7 +30,7 @@
 "Ale jeźli nie zbrojno z wami przejdą, tedy niech mają dziedzictwo między wami w ziemi Chananejskiej."
 "I odpowiedzieli synowie Gadowi, i synowie Rubenowi, mówiąc
 "Pójdziemy zbrojno przed Panem do ziemi Chananejskiej, a zostanie przy nas osiadłość dziedzictwa naszego z tej strony Jordanu."
-"Dał tedy Mojżesz synom Gadowym, i synom Rubenowym, i połowie pokolenia Manasesa, syna Józefowego, królestwo Sehona, króla Amorejskiego, i królestwo Oga, króla Basańskiego, ziemię z miasty jej, z granicami, i miasta ziemi onej w około."
+"Dał tedy Mojżesz synom Gadowym, i synom Rubenowym, i połowie pokolenia Manasesa, syna Józefowego, królestwo Sehona, króla Amorejskiego, #i królestwo Oga, króla Basańskiego, ziemię z miasty jej, z granicami, i miasta ziemi onej w około."
 "I pobudowali synowie Gadowi Dybon, i Atarot, i Aroer;"
 "I Atrot, i Sofan, i Jazer, i Jegba,"
 "I Betnimera, i Betaran, miasta obronne, i obory dla bydła."

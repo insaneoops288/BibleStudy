@@ -1,7 +1,7 @@
 "Und Jehova redete zu Mose und sprach
 "Gebiete den Kindern Israel und sprich zu ihnen
 "Und die Südseite soll euch sein von der Wüste Zin an, Edom entlang, und die Südgrenze soll euch sein vom Ende des Salzmeeres gegen Osten."
-"Und die Grenze soll sich euch südlich von der Anhöhe Akrabbim wenden und nach Zin hinübergehen, und ihr Ausgang sei südlich von Kades-Barnea; und sie laufe nach Hazar-Addar hin, und gehe hinüber nach Azmon;"
+"Und die Grenze soll sich euch südlich von der Anhöhe Akrabbim wenden und nach Zin hinübergehen, und ihr #Ausgang sei südlich von Kades-Barnea; und sie laufe nach Hazar-Addar hin, und gehe hinüber nach Azmon;"
 "und die Grenze wende sich von Azmon nach dem BacheÄgyptens, und ihr Ausgang sei nach dem Meere hin.-"
 "Und die Westgrenze
 "Und dies soll euch die Nordgrenze sein

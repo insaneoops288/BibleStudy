@@ -16,8 +16,8 @@
 "Er wird kommen und diese Weingärtner umbringen und seinen Weinberg andern austun. Da sie das hörten, sprachen sie
 "Er aber sah sie an und sprach
 "Wer auf diesen Stein fällt, der wird zerschellen; auf wen aber er fällt, den wird er zermalmen."
-"Und die Hohenpriester und Schriftgelehrten trachteten darnach, wie sie die Hände an ihn legten zu derselben Stunde; und fürchteten sich vor dem Volk, denn sie verstanden, daß er auf sie dies Gleichnis gesagt hatte."
-"Und sie stellten ihm nach und sandten Laurer aus, die sich stellen sollten, als wären sie fromm, auf daß sie ihn in der Rede fingen, damit sie ihnüberantworten könnten der Obrigkeit und Gewalt des Landpflegers."
+"Und die Hohenpriester und Schriftgelehrten trachteten darnach, wie sie die Hände an ihn legten zu derselben Stunde; und #fürchteten sich vor dem Volk, denn sie verstanden, daß er auf sie dies Gleichnis gesagt hatte."
+"Und sie stellten ihm nach und sandten Laurer aus, die sich stellen sollten, als wären sie fromm, auf #daß sie ihn in der Rede fingen, damit sie ihnüberantworten könnten der Obrigkeit und Gewalt des Landpflegers."
 "Und sie fragten ihn und sprachen
 "Ist's recht, daß wir dem Kaiser den Schoß geben, oder nicht?"
 "Er aber merkte ihre List und sprach zu ihnen

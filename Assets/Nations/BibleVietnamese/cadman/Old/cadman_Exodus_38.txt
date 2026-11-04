@@ -15,7 +15,7 @@
 "bên tả của hành lang cũng mười lăm thước bố vi, ba cây trụ và ba lỗ trụ."
 "Hết thảy bố vi của hành lang ở chung quanh đều bằng vải gai đậu mịn;"
 "các lỗ trụ bằng đồng, đinh, nuông bằng bạc, và đầu trụ bọc bạc. Hết thảy trụ của hành lang đều nhờ có nuông bạc chắp với nhau."
-"Tấm màn nơi cửa hành lang làm thêu thùa bằng chỉ tím, đỏ điều, đỏ sặm, và vải gai đậu mịn; bề dài hai chục thước, bề cao (tùy theo bề khổ của vải) năm thước, đồng cỡ với bề cao của các bố vi chung quanh hành lang."
+"Tấm màn nơi cửa hành lang làm thêu thùa bằng chỉ tím, đỏ điều, đỏ sặm, và vải gai đậu mịn; bề dài hai chục #thước, bề cao (tùy theo bề khổ của vải) năm thước, đồng cỡ với bề cao của các bố vi chung quanh hành lang."
 "Bốn cây trụ và bốn lỗ trụ bằng đồng, đinh, đồ bọc đầu trụ, và những nuông đều bằng bạc."
 "Các nọc của đền tạm và của hành lang chung quanh đều bằng đồng."
 "Ðây là sổ tổng cộng về đền tạm, là đền tạm chứng cớ theo lịnh truyền của Môi-se biểu người Lê-vi làm ra, nhờ Y-tha-ma, con trai của thầy tế lễ cả A-rôn, cai quản."

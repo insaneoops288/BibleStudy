@@ -10,7 +10,7 @@
 "Con trai của Si-mê -i là Gia-hát, Xi-na, Giê-úc, và Bê-ri-a. Ấy là bốn con trai của Si-mê -i."
 "Gia-hát làm trưởng, còn Xi-xa là con thứ; nhưng Giê-úc và Bê-ri-a không có con cháu nhiều; nên khi lấy số thì kể chúng như một nhà."
 "Con trai Kê-hát là Am-ram, Dít-sê-ha, Hếp-rôn, U-xi-ên, bốn người."
-"Con trai của Am-ram là A-rôn và Môi-se; A-rôn và con cháu người được phân biệt ra, để biệt riêng ra các vật chí thánh, và đời đời xông hương, hầu việc trước mặt Ðức Giê-hô-va, cùng nhân danh Ngài mà chúc phước cho."
+"Con trai của Am-ram là A-rôn và Môi-se; A-rôn và con cháu người được phân biệt ra, để biệt riêng ra các vật #chí thánh, và đời đời xông hương, hầu việc trước mặt Ðức Giê-hô-va, cùng nhân danh Ngài mà chúc phước cho."
 "Còn về Môi-se, người của Ðức Chúa Trời, các con trai người đều được kể vào chi phái Lê-vi."
 "Con trai của Môi-se là Ghẹt-sôn và Ê-li-ê-xe."
 "Con trai của Ghẹt-sôn là Sê-bu-ên làm trưởng."
@@ -28,5 +28,5 @@
 "Chức của chúng là ở bên con cháu A-rôn, đặng làm công việc của đền Ðức Giê-hô-va, canh giữ hành lang và các phòng, giữ tinh sạch các vật thánh, và coi làm công việc của đền Ðức Chúa Trời
 "lại lo về bánh trần thiết, về bột mịn dùng làm của lễ chay, về bánh tráng không men, về đồ nướng trên vỉ, về đồ trộn với dầu, và về các đồ để lường và để đo;"
 "mỗi buổi sớm và buổi chiều, họ phải đứng tại đó cảm tạ và ngợi khen Ðức Giê-hô-va;"
-"còn mỗi ngày sa-bát, ngày mồng một, và ngày lễ trọng thể, thì phải giúp dâng luôn luôn tại trước mặt Ðức Giê-hô-va những của lễ thiêu thường dâng cho Ðức Giê-hô-va theo lệ đã định trong luật về của lễ ấy;"
+"còn mỗi ngày sa-bát, ngày mồng một, và ngày lễ trọng thể, thì phải giúp dâng luôn luôn tại trước mặt Ðức #Giê-hô-va những của lễ thiêu thường dâng cho Ðức Giê-hô-va theo lệ đã định trong luật về của lễ ấy;"
 "chúng cũng lo coi sóc hội mạc và nơi thánh, cùng giúp đỡ con cháu A-rôn, là anh em mình, đặng hầu việc trong đền của Ðức Giê-hô-va."

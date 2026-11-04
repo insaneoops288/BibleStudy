@@ -9,7 +9,7 @@
 "I koupil jsem od Chanameele syna strýce svého ten dvůr, kterýž jest v Anatot, a odvážil jsem jemu peněz sedmnácte lotů stříbra."
 "A zapsav to do cedule, zapečetil jsem, a osvědčil jsem svědky, odváživ peníze na váze."
 "Potom vzal jsem, podlé přikázaní a ustanovení, cedule té koupě zapečetěnou i otevřenou,"
-"A dal jsem ceduli té koupě Báruchovi synu Neriášovu, synu Maaseiášovu, před očima Chanameele strýce svého, a před očima svědků, kteříž se podepsali v ceduli té koupě, před očima všech Judských, kteříž se byli posadili v síni stráže."
+"A dal jsem ceduli té koupě Báruchovi synu Neriášovu, synu Maaseiášovu, před očima Chanameele strýce svého, a před očima svědků, #kteříž se podepsali v ceduli té koupě, před očima všech Judských, kteříž se byli posadili v síni stráže."
 "A přikázal jsem Báruchovi před očima jejich, řka
 "Takto praví Hospodin zástupů, Bůh Izraelský
 "Nebo takto praví Hospodin zástupů, Bůh Izraelský
@@ -20,7 +20,7 @@
 "Kterýž jsi činil divy a zázraky v zemi Egyptské až do tohoto dne, jakož v Izraelovi tak mezi jinými lidmi, a dobyls sobě jména, jakéž jest po dnešní den."
 "Nebo vyvedl jsi lid svůj Izraelský z země Egyptské v divích a v zázracích, a rukou silnou, a ramenem vztaženým, a v strachu velikém,"
 "A dals jim zemi tuto, kterouž jsi přisáhl dáti otcům jejich, zemi oplývající mlékem a strdí."
-"Ale že všedše do ní, a dědičně ujavše ji, neposlouchali hlasu tvého, a v zákoně tvém nechodili, všeho, což jsi koli přikázal jim činiti, nečinili, protož způsobils to, aby je potkalo všecko toto zlé."
+"Ale že všedše do ní, a dědičně ujavše ji, neposlouchali hlasu tvého, a v zákoně tvém nechodili, všeho, #což jsi koli přikázal jim činiti, nečinili, protož způsobils to, aby je potkalo všecko toto zlé."
 "Aj, střelci přitáhli na město, aby je vzali, a město skrze meč a hlad a mor dáno jest v ruku Kaldejských, bojujících proti němu; a tak, což jsi koli promluvil, děje se, jakž to sám vidíš."
 "Ty pak pravíš mi, Panovníče Hospodine
 "I stalo se slovo Hospodinovo k Jeremiášovi, řkoucí
@@ -29,10 +29,10 @@
 "A vejdouce Kaldejští, kteříž bojují proti městu tomuto, zapálí ohněm toto město, a vypálí je, i domy ty, na jejichž střechách kadívali Bálovi, a obětovali oběti mokré bohům cizím, aby mne hněvali."
 "Nebo synové Izraelští a synové Judští od dětinství svého jen toliko činí to, což jest zlého před očima mýma; synové, pravím, Izraelští jen toliko hněvají mne dílem rukou svých, dí Hospodin."
 "Toto zajisté město od toho dne, jakž je vystavěli, až do tohoto dne k hněvu mému a prchlivosti mé popouzí mne, tak že je sklidím od tváři své,"
-"Pro všelikou nešlechetnost synů Izraelských a synů Judských, kterouž páchali, aby mne k hněvu popouzeli, oni, králové jejich, knížata jejich, kněží jejich i proroci jejich, jakož muži Judští, tak obyvatelé Jeruzalémští,"
+"Pro všelikou nešlechetnost synů Izraelských a synů Judských, kterouž páchali, aby mne k hněvu popouzeli, oni, #králové jejich, knížata jejich, kněží jejich i proroci jejich, jakož muži Judští, tak obyvatelé Jeruzalémští,"
 "Obracejíce se ke mně hřbetem, a ne tváří. A když je učím, ráno přivstávaje, a to ustavičně, však nikoli neposlouchají, aby přijímali naučení."
 "Nadto nastavěli ohavností svých v domě tom, kterýž nazván jest od jména mého, aby jej zanečistili."
-"Nastavěli, pravím, výsostí Bálovi, kteréž jsou v údolí Benhinnom, aby vodili syny své a dcery své Molochovi, ješto jsem jim toho nepřikázal, aniž vstoupilo na srdce mé, aby páchati měli tu ohavnost, a Judu k hřešení přivodili."
+"Nastavěli, pravím, výsostí Bálovi, kteréž jsou v údolí Benhinnom, aby vodili syny své a dcery své Molochovi, ješto jsem #jim toho nepřikázal, aniž vstoupilo na srdce mé, aby páchati měli tu ohavnost, a Judu k hřešení přivodili."
 "A nyní z příčiny té takto dí Hospodin. Bůh Izraelský, o městě tomto, o kterémž vy říkáte
 "Aj, já shromáždím je ze všech zemí, do nichž jsem je rozehnal v hněvě svém, a v rozpálení svém, i v prchlivosti veliké, a přivedu je zase na toto místo, a způsobím to, aby bydlili bezpečně."
 "I budou lidem mým, a já budu jejich Bohem."
@@ -41,4 +41,4 @@
 "I veseliti se budu z nich, dobře jim čině, když je štípím v zemi této pevně, celým srdcem svým a vší duší svou."
 "Nebo takto praví Hospodin
 "Tehdáž kupováno bude pole v zemi této, o níž vy říkáte
-"Pole za peníze kupovati budou, a zapisovati do cedulí, a zpečetíce, svědky osvědčovati v zemi Beniaminově a vůkol Jeruzaléma v městech Judských, jakož v městech, kteráž jsou při horách, tak v městech na rovinách, a v městech poledních, když zase přivedu zajaté jejich, dí Hospodin."
+"Pole za peníze kupovati budou, a zapisovati do cedulí, a zpečetíce, svědky osvědčovati v zemi Beniaminově a vůkol Jeruzaléma v městech Judských, jakož #v městech, kteráž jsou při horách, tak v městech na rovinách, a v městech poledních, když zase přivedu zajaté jejich, dí Hospodin."

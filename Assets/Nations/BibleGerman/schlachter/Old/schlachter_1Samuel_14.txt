@@ -12,7 +12,7 @@
 "Und die Leute, welche auf Posten standen, riefen Jonatan und seinem Waffenträger und sprachen
 "Und Jonatan kletterte auf Händen und Füßen hinauf und sein Waffenträger ihm nach. Und jene fielen vor Jonatan, und sein Waffenträger tötete sie hinter ihm her;"
 "so daß Jonatan und sein Waffenträger in diesem ersten Gefecht auf ungefähr einer halben Juchart Ackerland etwa zwanzig Mann erlegten."
-"Und es kam ein Schrecken in das Lager auf dem Felde und unter das ganze Volk; auch die, welche auf Posten standen und die streifenden Rotten erschraken, und das Land erbebte, und es wurde zu einem Schrecken Gottes."
+"Und es kam ein Schrecken in das Lager auf dem Felde und unter das ganze Volk; auch die, welche auf #Posten standen und die streifenden Rotten erschraken, und das Land erbebte, und es wurde zu einem Schrecken Gottes."
 "Und die Späher Sauls zu Gibea-Benjamin schauten aus und siehe, die Menge wogte hin und her."
 "Da sprach Saul zu dem Volk, das bei ihm war
 "Da sprach Saul zu Achija
@@ -24,7 +24,7 @@
 "Aber die Männer Israels wurden an jenem Tageüberangestrengt; denn Saul beschwor alles Volk und sprach
 "Und das ganze Land hatte sich mit Bienenzucht befaßt, und Bienenstöcke befanden sich auf freiem Felde."
 "Als nun das Volk zu den Stöcken kam, siehe, da floß der Honig; aber niemand tat von demselben mit der Hand zu seinem Munde; denn das Volk fürchtete sich vor dem Schwur."
-"Jonatan aber hatte es nicht gehört, als sein Vater das Volk beschwor; und er streckte die Spitze seines Stabes aus, den er in seiner Hand hatte, und tauchte ihn in einen Honigwaben und nahm eine Handvoll in den Mund; da wurden seine Augen munter."
+"Jonatan aber hatte es nicht gehört, als sein Vater das Volk beschwor; und er streckte die Spitze seines Stabes aus, den er in #seiner Hand hatte, und tauchte ihn in einen Honigwaben und nahm eine Handvoll in den Mund; da wurden seine Augen munter."
 "Aber einer aus dem Volk hob an und sprach
 "Da sprach Jonatan
 "Wieviel mehr, wenn das Volk heute von der Beute seiner Feinde, die es vorfand, gegessen hätte! So aber ist die Niederlage der Philister nicht groß geworden."
@@ -44,7 +44,7 @@
 "Jonatan sagte es ihm und sprach
 "Aber das Volk sprach zu Saul
 "Da zog Saul von der Verfolgung der Philister herauf, und die Philister zogen an ihren Ort."
-"Als aber Saul die Herrschaftüber Israel bekommen hatte, stritt er wider alle seine Feinde ringsumher, wider die Moabiter, wider die Ammoniter, wider die Edomiter, wider die Könige von Zoba und wider die Philister; und wohin er sich wandte, da war er siegreich."
+"Als aber Saul die Herrschaftüber Israel bekommen hatte, stritt er wider alle seine Feinde ringsumher, wider die Moabiter, wider die Ammoniter, wider #die Edomiter, wider die Könige von Zoba und wider die Philister; und wohin er sich wandte, da war er siegreich."
 "Und er bewies Tapferkeit und schlug die Amalekiter und errettete Israel von der Hand aller, die sie beraubten."
 "Saul aber hatte Söhne
 "Und das Weib Sauls hieß Achinoam[und war] eine Tochter des Ahimaaz. Und sein Feldhauptmann hieß Abner, ein Sohn Ners, Sauls Oheim."

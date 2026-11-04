@@ -11,14 +11,14 @@
 "Nevezmeš jména Hospodina Boha svého nadarmo, neboť nenechá bez pomsty Hospodin toho, kdož by bral jméno jeho nadarmo."
 "Ostříhej dne sobotního, abys jej světil, jakož přikázal tobě Hospodin Bůh tvůj."
 "Šest dní pracovati budeš, a dělati všeliké dílo své;"
-"Ale dne sedmého odpočinutí jest Hospodina Boha tvého. Nebudeš dělati žádného díla, ty i syn tvůj i dcera tvá, i služebník tvůj i děvka tvá, vůl i osel tvůj i všeliké hovado tvé, i příchozí tvůj, kterýž jest v branách tvých, aby odpočinul služebník tvůj a děvka tvá jako i ty."
+"Ale dne sedmého odpočinutí jest Hospodina Boha tvého. Nebudeš dělati žádného díla, ty i syn tvůj i dcera tvá, i služebník tvůj i děvka tvá, vůl #i osel tvůj i všeliké hovado tvé, i příchozí tvůj, kterýž jest v branách tvých, aby odpočinul služebník tvůj a děvka tvá jako i ty."
 "A pamatuj, že jsi byl služebníkem v zemi Egyptské, a vyvedl tě Hospodin Bůh tvůj odtud v ruce silné, a v rameni vztaženém. Protož přikázal tobě Hospodin Bůh tvůj, abys světil den sváteční."
 "Cti otce svého i matku svou, jakož přikázal tobě Hospodin Bůh tvůj, aby se prodleli dnové tvoji, a aby tobě dobře bylo na zemi, kterouž Hospodin Bůh tvůj dá tobě."
 Nezabiješ.
 Nesesmilníš.
 Nepokradeš.
 "Nepromluvíš proti bližnímu svému křivého svědectví."
-"Nepožádáš manželky bližního svého, aniž požádáš domu bližního svého, pole jeho, neb služebníka jeho, aneb děvky jeho, vola jeho neb osla jeho, aneb čehokoli z těch věcí, kteréž jsou bližního tvého."
+"Nepožádáš manželky bližního svého, aniž požádáš domu bližního svého, pole jeho, neb služebníka jeho, aneb děvky #jeho, vola jeho neb osla jeho, aneb čehokoli z těch věcí, kteréž jsou bližního tvého."
 "Ta slova mluvil Hospodin ke všemu shromáždění vašemu na hoře z prostředku ohně, oblaku a mrákoty, hlasem velikým, a nepřidal nic více, a napsal je na dvou dskách kamenných, kteréž mně dal."
 "Vy pak když jste uslyšeli hlas z prostředku tmy, (nebo hora ohněm hořela), přistoupili jste ke mně všickni vůdcové pokolení vašich a starší vaši,"
 "A řekli jste

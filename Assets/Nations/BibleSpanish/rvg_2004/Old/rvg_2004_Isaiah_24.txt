@@ -1,5 +1,5 @@
 "He aquí que Jehová vacía la tierra y la desnuda, y trastorna su faz, y dispersa sus moradores."
-"Y sucederá así como al pueblo, también al sacerdote; como al siervo, así a su señor; como a la criada, así a su señora; como al que compra, así al que vende; como al que presta, así al que toma prestado; como al que da a logro, así al que se da a logro."
+"Y sucederá así como al pueblo, también al sacerdote; como al siervo, así a su señor; como a la criada, así a su señora; como al que compra, #así al que vende; como al que presta, así al que toma prestado; como al que da a logro, así al que se da a logro."
 "Del todo será vaciada la tierra, y totalmente saqueada; porque Jehová ha pronunciado esta palabra."
 "Se destruyó, cayó la tierra; enfermó, cayó el mundo; enfermaron los altos pueblos de la tierra."
 "Y la tierra se corrompió bajo sus moradores; porque traspasaron las leyes, falsearon el derecho, rompieron el pacto sempiterno."
@@ -15,7 +15,7 @@
 "Glorificad por esto a Jehová en los valles; en las islas del mar sea nombrado Jehová Dios de Israel."
 "De lo postrero de la tierra oímos cánticos
 "Terror, y foso y lazo sobre ti, oh morador de la tierra."
-"Y acontecerá que el que huyere de la voz del terror, caerá en el foso; y el que saliere de en medio del foso, será preso en el lazo; porque de lo alto se abrieron ventanas, y temblarán los fundamentos de la tierra."
+"Y acontecerá que el que huyere de la voz del terror, caerá en el foso; y el que saliere de en medio #del foso, será preso en el lazo; porque de lo alto se abrieron ventanas, y temblarán los fundamentos de la tierra."
 "Se quebrantará del todo la tierra, enteramente desmenuzada será la tierra, en gran manera será conmovida la tierra."
 "Temblará la tierra, temblará como un borracho, y será removida como una choza; y se agravará sobre ella su pecado, y caerá, y nunca más se levantará."
 "Y acontecerá en aquel día, que Jehová visitará sobre el ejército sublime en lo alto, y sobre los reyes de la tierra que hay sobre la tierra."

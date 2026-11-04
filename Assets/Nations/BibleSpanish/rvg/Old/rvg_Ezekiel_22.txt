@@ -1,7 +1,7 @@
 "Y vino a mí palabra de Jehová, diciendo
 "Y tú, hijo de hombre, ¿no juzgarás tú, no juzgarás tú a la ciudad derramadora de sangre? Sí, tú le mostrarás todas sus abominaciones."
 "Dirás, pues
-"En tu sangre que derramaste has pecado, y te has contaminado en tus ídolos que hiciste; y has hecho acercar tus días, y has llegado al término de tus años; por tanto, te he dado en oprobio a las naciones, y en escarnio a todas las tierras."
+"En tu sangre que derramaste has pecado, y te has contaminado en tus ídolos que hiciste; y has hecho acercar tus días, y has #llegado al término de tus años; por tanto, te he dado en oprobio a las naciones, y en escarnio a todas las tierras."
 "[Las que están] cerca de ti y las que están lejos se reirán de ti, [que eres] amancillada de nombre [y] de gran turbación."
 "He aquí que los príncipes de Israel, cada uno según su poder, estuvieron en ti para derramar sangre."
 "Despreciaron en ti al padre y a la madre; al extranjero trataron con violencia en medio de ti; y despojaron en ti al huérfano y a la viuda."
@@ -23,7 +23,7 @@
 "Y vino a mí palabra de Jehová, diciendo
 "Hijo de hombre, di a ella
 "[Hay] conspiración de sus profetas en medio de ella, como león rugiente que arrebata presa; devoraron almas, tomaron haciendas y honra, aumentaron sus viudas en medio de ella."
-"Sus sacerdotes quebrantaron mi ley, y contaminaron mis santuarios; entre lo santo y lo profano no hicieron diferencia, ni distinguieron entre inmundo y limpio; y de mis sábados escondieron sus ojos, y yo he sido profanado en medio de ellos."
+"Sus sacerdotes quebrantaron mi ley, y contaminaron mis santuarios; entre lo santo y lo profano no hicieron diferencia, ni distinguieron entre #inmundo y limpio; y de mis sábados escondieron sus ojos, y yo he sido profanado en medio de ellos."
 "Sus príncipes en medio de ella [como] lobos que arrebataban presa, derramando sangre, para destruir las almas, para obtener ganancia deshonesta."
 "Y sus profetas los recubrieron con [lodo] suelto, profetizándoles vanidad, y adivinándoles mentira, diciendo
 "El pueblo de la tierra usaba de opresión y cometía robo, y al pobre y menesteroso hacían violencia, y al extranjero oprimían sin derecho."

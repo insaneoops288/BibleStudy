@@ -24,7 +24,7 @@
 "A Ja Pan będę im Bogiem, a sługa mój Dawid książęciem w pośrodku nich, Ja Pan mówiłem to."
 "I uczynię z nimi przymierze pokoju, a wygubię zły zwierz z ziemi; i będą na puszczy bezpiecznie mieszkać, a w lasach sypiać będą;"
 "Nadto dam im, i okolicy pagórka mego, błogasławieństwo, i spuszczać będę deszcz czasu swego; deszcze to błogosłwieństwa będą;"
-"I wypuści drzewo polne owoc swój, a ziemia wyda urodzaj swój, i będą na ziemi swojej bezpieczni, a dowiedzą się, żem Ja Pan, gdy połamię zawory jarzma ich, a wyrwię je z ręki tych, którzy je zniewalają."
+"I wypuści drzewo polne owoc swój, a ziemia wyda urodzaj swój, i będą na ziemi swojej bezpieczni, a dowiedzą #się, żem Ja Pan, gdy połamię zawory jarzma ich, a wyrwię je z ręki tych, którzy je zniewalają."
 "I nie będą więcej łupem narodom, a zwierz ziemiski pożerać ich nie będzie; ale mieszkać będą bezpiecznie, a nie będzie, ktoby je straszył."
 "I wzbudzę im latorośl sławną, że nie będą więcej głodem niszczeni na ziemi, ani poniosą pohańbienia od pogan."
 "I dowiedzą się, żem Ja Pan, Bóg ich, z nimi, a oni lud mój, dom Izraelski, mówi panujący Pan."

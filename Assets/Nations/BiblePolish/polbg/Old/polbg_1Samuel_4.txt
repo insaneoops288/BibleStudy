@@ -16,7 +16,7 @@
 "Tedy rzekł on mąż do Heliego
 "I odpowiedzał on poseł, i rzekł
 "A gdy wspomniał skrzynię Bożą, spadł Heli z stołka na wznak u bramy, a złamawszy sobie szyję umarł; albowiem był człowiek stary i ociężały. A on sądził Izraela przez czterdzieści lat."
-"Synowa też jego, żona Fineesowa, będąc brzemienną i bliską porodzenia, gdy usłyszała oną nowinę, iż wzięta jest skrzynia Boża, i że umarł świekier jej, i mąż jej, tedy się nachyliła, i porodziła; bo przypadły na nię bole jej."
+"Synowa też jego, żona Fineesowa, będąc brzemienną i bliską porodzenia, gdy usłyszała oną nowinę, iż wzięta jest skrzynia Boża, i #że umarł świekier jej, i mąż jej, tedy się nachyliła, i porodziła; bo przypadły na nię bole jej."
 "A gdy umierała, rzekły niewiasty, które były przy niej
 "I nazwała dzieciątko Ichabod, mówiąc
 "Prztoż rzekła

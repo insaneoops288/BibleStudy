@@ -5,9 +5,9 @@
 "Atunci Absalom a spus
 "Și când Hușai a venit la Absalom, Absalom i-a vorbit, spunând
 "Și Hușai i-a spus lui Absalom
-"Fiindcă, a spus Hușai, tu cunoști pe tatăl tău și pe oamenii lui, că [sunt] războinici și ei [sunt ]amărâți la suflet, ca o ursoaică jefuită de puii ei pe câmp; și tatăl tău [este] un bărbat de război și nu va găzdui cu poporul."
+"Fiindcă, a spus Hușai, tu cunoști pe tatăl tău și pe oamenii lui, că [sunt] războinici și ei [sunt ]amărâți la suflet, ca #o ursoaică jefuită de puii ei pe câmp; și tatăl tău [este] un bărbat de război și nu va găzdui cu poporul."
 "Iată, el este ascuns acum în vreo groapă, sau în [alt ]loc; și se va întâmpla, când unii dintre ei vor fi doborâți la început, că oricine aude va spune
-"Și chiar și cel viteaz, a cărui inimă [este] ca inima unui leu, se va topi în întregime, pentru că tot Israelul știe că tatăl tău [este] un războinic și [cei] care [sunt] cu el [sunt] bărbați viteji."
+"Și chiar și cel viteaz, a cărui inimă [este] ca inima unui leu, se va topi în întregime, pentru că #tot Israelul știe că tatăl tău [este] un războinic și [cei] care [sunt] cu el [sunt] bărbați viteji."
 "De aceea eu sfătuiesc ca tot Israelul cu stăruință să fie adunat la tine, de la Dan până la Beer-Șeba, atât de mult ca nisipul care [este] lângă mare; și tu însuți să mergi la luptă."
 "Astfel vom veni peste el în vreun loc unde se găsește și vom cădea asupra lui precum cade roua pe pământ; și din el și din toți oamenii care [sunt] cu el nu va rămâne nici măcar unul."
 "Mai mult, dacă a mers într-o cetate, atunci tot Israelul va aduce funii la acea cetate și o vom trage în râu, până nu se va mai găsi nicio pietricică."
@@ -20,7 +20,7 @@
 "Și când servitorii lui Absalom au venit la femeie în casă, au spus
 "Și s-a întâmplat, după ce s-au depărtat, că ei au ieșit din fântână și au mers și au spus împăratului David și i-au spus lui David
 "Atunci David s-a ridicat, și tot poporul care [era] cu el și au trecut Iordanul până la lumina dimineții nu a lipsit niciunul care să nu fi trecut Iordanul."
-"Și când Ahitofel a văzut că sfatul lui nu a fost urmat și-a înșeuat măgarul și s-a ridicat și s-a dus acasă în cetatea sa; și și-a pus casa în ordine și s-a spânzurat și a murit și a fost îngropat în mormântul tatălui său."
+"Și când Ahitofel a văzut că sfatul lui nu a fost urmat și-a înșeuat măgarul și s-a ridicat și s-a dus acasă în #cetatea sa; și și-a pus casa în ordine și s-a spânzurat și a murit și a fost îngropat în mormântul tatălui său."
 "Atunci David a venit la Mahanaim. Și Absalom a trecut Iordanul, el și toți bărbații lui Israel cu el."
 "Și Absalom l-a pus pe Amasa căpetenia oștirii în locul lui Ioab; acest Amasa [era] fiul unui om numit Itra, un israelit, care intrase la Abigail, fiica lui Nahaș, sora Țeruiei, mama lui Ioab."
 "Astfel Israel și Absalom și-au întins corturile în țara lui Galaad."

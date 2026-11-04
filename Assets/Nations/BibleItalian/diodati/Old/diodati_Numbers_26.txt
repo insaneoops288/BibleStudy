@@ -6,7 +6,7 @@
 "di Hesron, la nazione degli Hesroniti; di Carmi, la nazione dei Carmiti."
 "Queste sono le nazioni de’ Rubeniti, e gli annoverati fra loro furono quarantatremila settecentrenta."
 "Di Pallu fu figliuolo Eliab."
-"E i figliuoli di Eliab furono Nemuel, Datan e Abiram. Questo è quel Datan e quell’Abiram, d’infra quelli che si chiamavano alla raunata del popolo, i quali si sollevarono contro a Mosè e contro ad Aaronne, quando Core fece la sua massa, ed essi si sollevarono contro al Signore."
+"E i figliuoli di Eliab furono Nemuel, Datan e Abiram. Questo è quel Datan e quell’Abiram, d’infra quelli che si chiamavano alla raunata del popolo, #i quali si sollevarono contro a Mosè e contro ad Aaronne, quando Core fece la sua massa, ed essi si sollevarono contro al Signore."
 "E la terra aperse la sua bocca, e li tranghiottì; insieme con Core, che morì quando morì quella raunata, quando il fuoco consumò i dugencinquanta uomini, i quali furono per segno."
 "Or i figliuoli di Core non morirono."
 "I figliuoli di Simeone, distinti per le lor nazioni, furono, di Nemuel, la nazione de’ Nemueliti; di Giamin, la nazione de’ Giaminiti; di Giachin, la nazione de’ Giachiniti;"
@@ -59,7 +59,7 @@
 "E il nome della moglie di Amram fu Iochebed, che fu figliuola di Levi, la qual gli nacque in Egitto; ed essa partorì ad Amram Aaronne, Mosè, e Maria, lor sorella."
 "E ad Aaronne nacquero Nadab, e Abihu, ed Eleazaro, e Itamar."
 "Or Nadab e Abihu morirono quando presentarono fuoco strano davanti al Signore."
-"E gli annoverati d’infra i Leviti furono ventitremila, tutti maschi, dall’età d’un mese in su; conciossiachè non fossero annoverati fra’ figliuoli d’Israele; perciocchè non era lor data eredità fra’ figliuoli d’Israele."
+"E gli annoverati d’infra i Leviti furono ventitremila, tutti maschi, dall’età d’un mese in su; conciossiachè #non fossero annoverati fra’ figliuoli d’Israele; perciocchè non era lor data eredità fra’ figliuoli d’Israele."
 "Questi sono quelli che furono annoverati da Mosè, e dal Sacerdote Eleazaro, i quali annoverarono i figliuoli d’Israele nelle campagne di Moab, presso al Giordano di Gerico."
 "E fra costoro non vi fu alcuno di quelli ch’erano stati annoverati da Mosè, e dal Sacerdote Aaronne, i quali annoverarono i figliuoli d’Israele nel deserto di Sinai."
 "Conciossiachè il Signore avesse detto di quelli

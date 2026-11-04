@@ -2,7 +2,7 @@
 "então, sairão os teus anciãos e os teus juízes e medirão o espaço até às cidades que estiverem em redor do morto."
 "E, na cidade mais chegada ao morto, os anciãos da mesma cidade tomarão uma bezerra da manada, que não tenha trabalhado, nem tenha puxado com o jugo."
 "E os anciãos daquela cidade trarão a bezerra a um vale áspero, que nunca foi lavrado nem semeado; e ali, naquele vale, degolarão a bezerra."
-"Então, se achegarão os sacerdotes, filhos de Levi (pois o SENHOR, teu Deus, os escolheu para o servirem, e para abençoarem em nome do SENHOR; e, pelo seu dito, se determinará toda demanda e toda ferida)."
+"Então, se achegarão os sacerdotes, filhos de Levi (pois o SENHOR, teu Deus, os escolheu para o servirem, e #para abençoarem em nome do SENHOR; e, pelo seu dito, se determinará toda demanda e toda ferida)."
 "E todos os anciãos da mesma cidade, mais chegados ao morto, lavarão as suas mãos sobre a bezerra degolada no vale,"
 "e protestarão, e dirão
 "Sê propício ao teu povo Israel, que tu, ó SENHOR, resgataste, e não ponhas o sangue inocente no meio do teu povo Israel. E aquele sangue lhes será expiado."
@@ -20,4 +20,4 @@
 "e dirão aos anciãos da cidade
 "Então, todos os homens da sua cidade o apedrejarão com pedras, até que morra; e tirarás o mal do meio de ti, para que todo o Israel o ouça e tema."
 "Quando também em alguém houver pecado, digno do juízo de morte, e haja de morrer, e o pendurares num madeiro,"
-"o seu cadáver não permanecerá no madeiro, mas certamente o enterrarás no mesmo dia, porquanto o pendurado é maldito de Deus; assim, não contaminarás a tua terra, que o SENHOR, teu Deus, te dá em herança."
+"o seu cadáver não permanecerá no madeiro, mas certamente o enterrarás no mesmo dia, porquanto o pendurado é maldito #de Deus; assim, não contaminarás a tua terra, que o SENHOR, teu Deus, te dá em herança."

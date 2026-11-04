@@ -2,8 +2,8 @@
 "A mi pedig egyébiránt a sáfárokban megkívántatik, az, hogy mindenik hívnek találtassék."
 "Rám nézve pedig igen csekély dolog, hogy ti tõletek ítéltessem meg, vagy emberi [ítélet]naptól; sõt magam sem ítélem meg magamat."
 "Mert semmit sem tudok magamra, de nem ebben vagyok megigazulva; a ki ugyanis engem megítél, az Úr az."
-"Azért idõ elõtt semmit se ítéljetek, míg el nem jõ az Úr, a ki egyrészt világra hozza a sötétségnek titkait, másrészt megjelenti a szíveknek tanácsait; és akkor mindenkinek az Istentõl lészen a dícsérete."
-"Ezeket pedig, atyámfiai, példában szabtam magamra és Apollósra ti érettetek, hogy rajtunk tanuljátok meg, hogy annakfelette a mi írva van, nem kell bölcselkedni; hogy senki se fuvalkodjék fel az egyikért a másik ellen."
+"Azért idõ elõtt semmit se ítéljetek, míg el nem jõ az Úr, a ki egyrészt világra hozza #a sötétségnek titkait, másrészt megjelenti a szíveknek tanácsait; és akkor mindenkinek az Istentõl lészen a dícsérete."
+"Ezeket pedig, atyámfiai, példában szabtam magamra és Apollósra ti érettetek, hogy rajtunk tanuljátok meg, hogy annakfelette a #mi írva van, nem kell bölcselkedni; hogy senki se fuvalkodjék fel az egyikért a másik ellen."
 "Mert kicsoda különböztet meg téged? Mid van ugyanis, a mit nem kaptál volna? Ha pedig úgy kaptad, mit dicsekedel, mintha nem kaptad volna?"
 "Immár beteltetek, immár meggazdagodtatok, nálunk nélkül uralkodásra jutottatok; vajha csakugyan uralkodásra jutottatok volna, hogy mi is veletek egybe uralkodhatnánk."
 "Mert úgy vélem, hogy az Isten minket, az apostolokat, utolsókul állított, mintegy halálra szántakul

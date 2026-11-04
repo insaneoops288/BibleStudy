@@ -4,7 +4,7 @@
 "Mert terhes igáját és háta vesszejét, az õt nyomorgatónak botját összetöröd, mint a Midián napján;"
 "Mert a vitézek harczi saruja és a vérbe fertõztetett öltözet megég, és tûznek eledele lészen;"
 "Mert egy gyermek születik nékünk, fiú adatik nékünk, és az uralom az õ vállán lészen, és hívják nevét
-"Uralma növekedésének és békéjének nem lesz vége a Dávid trónján és királysága felett, hogy fölemelje és megerõsítse azt jogosság és igazság által mostantól mindörökké. A seregek Urának buzgó szerelme mívelendi ezt!"
+"Uralma növekedésének és békéjének nem lesz vége a Dávid trónján és királysága felett, hogy fölemelje és #megerõsítse azt jogosság és igazság által mostantól mindörökké. A seregek Urának buzgó szerelme mívelendi ezt!"
 "Beszédet küldött az Úr Jákóbnak, és leesett Izráelben,"
 "Hogy megértse az egész nép
 "Téglák omlottak le, és mi faragott kõbõl építünk; fügefák vágattak ki, és mi czédrusokat ültetünk helyökre!"
@@ -14,7 +14,7 @@
 "Ezért kivágja az Úr Izráelbõl a fõt és farkat, a pálmaágat és a kákát egy napon."
 "A fõ
 "Mert e nép vezérei hitetõkké lettek, és a kiket vezetének, elvesztek."
-"Ezért ifjaiban sem gyönyörködik az Úr, s árváin és özvegyein sem könyörül; mert mindnyájan istentelenek és gonosztevõk, és minden száj bolondságot beszél. Mindezekkel haragja el nem múlt, és keze még felemelve van."
+"Ezért ifjaiban sem gyönyörködik az Úr, s árváin és özvegyein sem könyörül; mert mindnyájan istentelenek és gonosztevõk, #és minden száj bolondságot beszél. Mindezekkel haragja el nem múlt, és keze még felemelve van."
 "Mert a gonoszság felgerjedt, mint a tûz, s tövist és gazt emészt, és meggyújtja a sûrû erdõt, és felgomolyg az füst oszlopában."
 "A seregek Urának haragja miatt kiégett a föld, és a nép a tûznek eledele lõn
 "Jobbkézre vág és megéhezik, eszik balkézre és nem elégszik meg; mindnyájan karjoknak húsát eszik,"

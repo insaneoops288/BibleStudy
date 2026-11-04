@@ -14,7 +14,7 @@
 "Mais Pierre dit
 "Et pour la seconde fois la voix se fit encore entendre à lui
 "Cela arriva jusqu'à trois fois; et aussitôt après, l'objet fut retiré dans le ciel."
-"Tandis que Pierre ne savait en lui-même que penser du sens de la vision qu'il avait eue, voici, les hommes envoyés par Corneille, s'étant informés de la maison de Simon, se présentèrent à la porte,"
+"Tandis que Pierre ne savait en lui-même que penser du sens de la vision qu'il avait eue, voici, #les hommes envoyés par Corneille, s'étant informés de la maison de Simon, se présentèrent à la porte,"
 "et demandèrent à haute voix si c'était là que logeait Simon, surnommé Pierre."
 "Et comme Pierre était à réfléchir sur la vision, l'Esprit lui dit
 "lève-toi, descends, et pars avec eux sans hésiter, car c'est moi qui les ai envoyés."
@@ -35,7 +35,7 @@
 "mais qu'en toute nation celui qui le craint et qui pratique la justice lui est agréable."
 "Il a envoyé la parole aux fils d'Israël, en leur annonçant la paix par Jésus-Christ, qui est le Seigneur de tous."
 "Vous savez ce qui est arrivé dans toute la Judée, après avoir commencé en Galilée, à la suite du baptême que Jean a prêché;"
-"vous savez comment Dieu a oint du Saint-Esprit et de force Jésus de Nazareth, qui allait de lieu en lieu faisant du bien et guérissant tous ceux qui étaient sous l'empire du diable, car Dieu était avec lui."
+"vous savez comment Dieu a oint du Saint-Esprit et de force Jésus de Nazareth, qui allait de lieu en lieu #faisant du bien et guérissant tous ceux qui étaient sous l'empire du diable, car Dieu était avec lui."
 "Nous sommes témoins de tout ce qu'il a fait dans le pays des Juifs et à Jérusalem. Ils l'ont tué, en le pendant au bois."
 "Dieu l'a ressuscité le troisième jour, et il a permis qu'il apparût,"
 "non à tout le peuple, mais aux témoins choisis d'avance par Dieu, à nous qui avons mangé et bu avec lui, après qu'il fut ressuscité des morts."

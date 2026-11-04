@@ -9,9 +9,9 @@
 "Sentähden, te paimenet, kuulkaat Herran sanaa
 "Näin sanoo Herra, Herra
 "Sillä näin sanoo Herra, Herra
-"Niinkuin paimen etsii lampaitansa, kuin he laumastansa eksyneet ovat, niin tahdon minä myös minun lampaitani etsiä; ja tahdon heitä kaikista paikoista pelastaa, joihin he hajoitetut ovat, siihen aikaan kuin sumu ja pimiä oli."
+"Niinkuin paimen etsii lampaitansa, kuin he laumastansa eksyneet ovat, niin tahdon minä myös minun lampaitani etsiä; ja #tahdon heitä kaikista paikoista pelastaa, joihin he hajoitetut ovat, siihen aikaan kuin sumu ja pimiä oli."
 "Ja tahdon heitä kaikista kansoista viedä ulos, ja kaikista maakunnista koota, ja heitä omalle maallensa viedä; ja kaita heitä Israelin vuorilla, ojain tykönä kaikissa suloisissa paikoissa,"
-"Ja heitä parhaalle laitumelle viedä, ja heidän majansa pitää korkeilla Israelin vuorilla seisoman; siinä heidän pitää levollisessa varjossa makaaman, ja heillä pitää oleman lihava laidun Israelin vuorilla."
+"Ja heitä parhaalle laitumelle viedä, ja heidän majansa pitää korkeilla Israelin vuorilla seisoman; siinä #heidän pitää levollisessa varjossa makaaman, ja heillä pitää oleman lihava laidun Israelin vuorilla."
 "Minä tahdon itse minun lampaani ruokkia, ja minä tahdon heitä sioittaa, sanoo Herra, Herra."
 "Kadonneet tahdon minä etsiä ja eksyneet tallelle tuottaa, haavoitetut sitoa, heikkoja vahvistaa; lihavia ja väkeviä tahdon minä hävittää, ja kaitsen heitä toimellisesti."
 "Mutta teille, minun laumani, sanoo Herra, Herra näin
@@ -24,7 +24,7 @@
 "Ja minä Herra tahdon olla heidän Jumalansa, mutta minun palveliani David on heidän seassansa päämies oleva; minä Herra olen sen puhunut."
 "Ja minä tahdon rauhan liiton heidän kanssansa tehdä, ja kaikki pahat eläimet maalta ajaa pois, että he surutoinna korvessa asuisivat ja metsissä makaisivat."
 "Ja tahdon heidät ja kaikki minun kukkulani siunata; ja annan heille sataa oikialla ajalla, joka on armon sade oleva,"
-"Että puut kedolla hedelmänsä kantavat ja maa antaa kasvunsa, ja he asuvat surutoinna maassa; ja heidän pitää tietämän, että minä olen Herra, koska minä heidän ikeensä jutan katkaisen, ja heitä olen pelastanut niiden käsistä, joita heidän pitää palveleman."
+"Että puut kedolla hedelmänsä kantavat ja maa antaa kasvunsa, ja he asuvat surutoinna maassa; ja heidän pitää tietämän, että minä #olen Herra, koska minä heidän ikeensä jutan katkaisen, ja heitä olen pelastanut niiden käsistä, joita heidän pitää palveleman."
 "Ja ei heidän pidä enään pakanoille raatelukseksi oleman, ja ei maan pedot pidä enään heitä syömän, mutta heidän pitää surutoinna ja pelkäämättä asuman."
 "Ja minä tahdon heille kuuluisan vesan herättää; ettei heidän pidä enään nälkää maalla kärsimän, eikä heidän pilkkansa pakanain seassa kantaman."
 "Ja heidän pitää tietämän, että minä Herra, Heidän Jumalansa, olen heidän tykönänsä, ja Israelin huone on minun kansani, sanoo Herra, Herra."

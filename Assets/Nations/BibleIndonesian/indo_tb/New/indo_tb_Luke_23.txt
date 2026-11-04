@@ -5,7 +5,7 @@
 "Tetapi mereka makin kuat mendesak, katanya
 "Ketika Pilatus mendengar itu ia bertanya, apakah orang itu seorang Galilea."
 "Dan ketika ia tahu, bahwa Yesus seorang dari wilayah Herodes, ia mengirim Dia menghadap Herodes, yang pada waktu itu ada juga di Yerusalem."
-"Ketika Herodes melihat Yesus, ia sangat girang. Sebab sudah lama ia ingin melihat-Nya, karena ia sering mendengar tentang Dia, lagipula ia mengharapkan melihat bagaimana Yesus mengadakan suatu tanda."
+"Ketika Herodes melihat Yesus, ia sangat girang. Sebab sudah lama ia ingin melihat-Nya, karena ia #sering mendengar tentang Dia, lagipula ia mengharapkan melihat bagaimana Yesus mengadakan suatu tanda."
 "Ia mengajukan banyak pertanyaan kepada Yesus, tetapi Yesus tidak memberi jawaban apapun."
 "Sementara itu imam-imam kepala dan ahli-ahli Taurat maju ke depan dan melontarkan tuduhan-tuduhan yang berat terhadap Dia."
 "Maka mulailah Herodes dan pasukannya menista dan mengolok-olokkan Dia, ia mengenakan jubah kebesaran kepada-Nya lalu mengirim Dia kembali kepada Pilatus."
@@ -22,8 +22,8 @@
 "Kata Pilatus untuk ketiga kalinya kepada mereka
 "Tetapi dengan berteriak mereka mendesak dan menuntut, supaya Ia disalibkan, dan akhirnya mereka menang dengan teriak mereka."
 "Lalu Pilatus memutuskan, supaya tuntutan mereka dikabulkan."
-"Dan ia melepaskan orang yang dimasukkan ke dalam penjara karena pemberontakan dan pembunuhan itu sesuai dengan tuntutan mereka, tetapi Yesus diserahkannya kepada mereka untuk diperlakukan semau-maunya."
-"Ketika mereka membawa Yesus, mereka menahan seorang yang bernama Simon dari Kirene, yang baru datang dari luar kota, lalu diletakkan salib itu di atas bahunya, supaya dipikulnya sambil mengikuti Yesus."
+"Dan ia melepaskan orang yang dimasukkan ke dalam penjara karena pemberontakan dan pembunuhan itu #sesuai dengan tuntutan mereka, tetapi Yesus diserahkannya kepada mereka untuk diperlakukan semau-maunya."
+"Ketika mereka membawa Yesus, mereka menahan seorang yang bernama Simon dari Kirene, yang baru datang dari #luar kota, lalu diletakkan salib itu di atas bahunya, supaya dipikulnya sambil mengikuti Yesus."
 "Sejumlah besar orang mengikuti Dia; di antaranya banyak perempuan yang menangisi dan meratapi Dia."
 "Yesus berpaling kepada mereka dan berkata
 "Sebab lihat, akan tiba masanya orang berkata

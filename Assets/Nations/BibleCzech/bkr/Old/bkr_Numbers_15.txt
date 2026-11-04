@@ -1,6 +1,6 @@
 "Mluvil opět Hospodin k Mojžíšovi, řka
 "Mluv k synům Izraelským a rci jim
-"A budete chtíti obětovati obět ohnivou Hospodinu v zápal, aneb obět buď slíbenou, buď dobrovolnou, aneb při slavnostech vašich, abyste učinili vůni spokojující Hospodina, buďto z skotů, aneb z drobného dobytku
+"A budete chtíti obětovati obět ohnivou Hospodinu v zápal, aneb obět buď slíbenou, buď dobrovolnou, aneb #při slavnostech vašich, abyste učinili vůni spokojující Hospodina, buďto z skotů, aneb z drobného dobytku
 "Tedy kdož by koli obětoval dar svůj Hospodinu, obětuj obět suchou, desátý díl efi mouky bělné, zadělané olejem, jehož bude čtvrtý díl míry hin."
 "A vína v obět mokrou čtvrtinku hin obětovati budeš při zápalu, aneb při oběti vítězné k jednomu každému beránku."
 "Při beranu pak obětovati budeš obět suchou, mouky bělné dvě desetiny, zadělané olejem, třetinkou míry hin."
@@ -21,8 +21,8 @@
 "Z prvotin těsta vašeho dávati budete Hospodinu obět vzhůru pozdvižení, vy i potomci vaši."
 "A když byste pozbloudili, a neučinili všech přikázaní těch, kteráž mluvil Hospodin k Mojžíšovi,"
 "Totiž všech věcí, kteréž přikázal Hospodin vám skrze Mojžíše, od toho dne, v kterémž přikázaní vydal Hospodin, i potom v pronárodech vašich
-"Tedy jestliže z nedopatření všeho shromáždění to stalo se, obětovati bude všecko množství volka mladého jednoho v obět zápalnou, k vůni spokojující Hospodina, též obět suchou, a obět mokrou při něm podlé pořádku, a kozla jednoho v obět za hřích."
-"I očistí kněz všecko množství synů Izraelských, a odpuštěno jim bude; nebo poblouzení jest. A oni také obětovati budou obět svou, obět ohnivou Hospodinu, a obět za hřích svůj před Hospodinem za poblouzení své."
+"Tedy jestliže z nedopatření všeho shromáždění to stalo se, obětovati bude všecko množství volka mladého jednoho v obět zápalnou, k vůni #spokojující Hospodina, též obět suchou, a obět mokrou při něm podlé pořádku, a kozla jednoho v obět za hřích."
+"I očistí kněz všecko množství synů Izraelských, a odpuštěno jim bude; nebo poblouzení jest. A oni také obětovati #budou obět svou, obět ohnivou Hospodinu, a obět za hřích svůj před Hospodinem za poblouzení své."
 "I bude odpuštěno všemu shromáždění synů Izraelských i příchozímu, kterýž jest pohostinu u prostřed nich; nebo všeho lidu poblouzení jest."
 "Jestliže by pak člověk jeden zhřešil z poblouzení, bude obětovati kozu roční v obět za hřích."
 "I očistí kněz duši pobloudilou, kteráž zhřešila poblouzením před Hospodinem; očistí ji, a budeť jí odpuštěno."
@@ -36,6 +36,6 @@
 "A protož vyvedli jej všecko množství ven za stany, a uházeli ho kamením, až umřel, jakož rozkázal Hospodin."
 "I mluvil Hospodin k Mojžíšovi, řka
 "Mluv k synům Izraelským a rci jim, ať sobě dělají třepení široké na podolcích oděvů svých všickni rodové jejich, a ať dávají nad třepením šňůrku modrou."
-"A to budete míti za premování, na něžto hledíce, rozpomínati se budete na všecka přikázaní Hospodinova, abyste je činili, a nepustíte se po žádosti srdce svého, a po očích svých, jichžto následujíce, smilnili byste,"
+"A to budete míti za premování, na něžto hledíce, rozpomínati se budete na všecka přikázaní Hospodinova, abyste je #činili, a nepustíte se po žádosti srdce svého, a po očích svých, jichžto následujíce, smilnili byste,"
 "Ale abyste pamatovali a činili všecka přikázaní má, a byli svatí Bohu svému."
 "Já jsem Hospodin Bůh váš, kterýž jsem vyvedl vás z země Egyptské, abych vám byl za Boha

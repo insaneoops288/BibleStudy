@@ -26,7 +26,7 @@
 "I rzekł mu Izaak, ojciec jego
 "Tedy przystąpiwszy pocałował go, a skoro poczuł wonność szat jego, błogosławił mu, mówiąc
 "Niechajżeć da Bóg z rosy niebieskiej, i z tłustości ziemskiej, i obfitość zboża i wina."
-"Niechaj ci służą ludzie, a niech ci się kłaniają narodowie. Bądź panem braci twojej, a niech ci się kłaniają synowie matki twojej; którzy by cię przeklinali, niech będą przeklętymi, a którzy by cię błogosławili, niech będą błogosławionymi."
+"Niechaj ci służą ludzie, a niech ci się kłaniają narodowie. Bądź panem braci twojej, a niech ci się kłaniają #synowie matki twojej; którzy by cię przeklinali, niech będą przeklętymi, a którzy by cię błogosławili, niech będą błogosławionymi."
 "I stało się, gdy przestał Izaak błogosławić Jakóbowi, i ledwie Jakób odszedł od oblicza Izaaka, ojca swego, tedy Ezaw brat jego, przyszedł z łowu swego."
 "Który nagotowawszy potrawy smaczne, przyniósł je ojcu swemu, i mówił do ojca swego
 "Tedy mu rzekł Izaak, ojciec jego

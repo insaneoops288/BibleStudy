@@ -6,7 +6,7 @@
 "At ang mga sugo ay nagsipagbalik kay Jacob, na nagsipagsabi, Dumating kami sa iyong kapatid na kay Esau, at siya rin naman ay sumasalubong sa iyo, at apat na raang tao ang kasama niya."
 "Nang magkagayo'y natakot na mainam si Jacob at nahapis at kaniyang binahagi ang bayang kasama niya, at ang mga kawan, at ang mga bakahan, at ang mga kamelyo ng dalawang pulutong."
 "At kaniyang sinabi, Kung dumating si Esau sa isang pulutong, at kaniyang saktan, ang pulutong ngang natitira ay tatanan."
-"At sinabi ni Jacob, Oh Dios ng aking amang si Abraham, at Dios ng aking amang si Isaac, Oh Panginoon, na nagsabi sa akin, Magbalik ka sa iyong lupain at sa iyong kamaganakan, at gagawan kita ng magaling
+"At sinabi ni Jacob, Oh Dios ng aking amang si Abraham, at Dios ng aking amang si Isaac, Oh Panginoon, #na nagsabi sa akin, Magbalik ka sa iyong lupain at sa iyong kamaganakan, at gagawan kita ng magaling
 "Hindi ako marapat sa kababababaan ng lahat ng kaawaan, at ng buong katotohanan na iyong ipinakita sa iyong lingkod
 "Iligtas mo ako, ipinamamanhik ko sa iyo, sa kamay ng aking kapatid, sa kamay ni Esau; sapagka't ako'y natatakot sa kaniya, baka siya'y dumating at ako'y saktan niya, ang ina pati ng mga anak."
 "At ikaw ang nagsabi, Tunay na ikaw ay gagawan ko ng magaling, at gagawin ko ang iyong binhi na parang buhangin sa dagat, na hindi mabibilang dahil sa karamihan."
@@ -17,7 +17,7 @@
 "At iniutos sa una, na sinasabi, Pagka ikaw ay nasumpungan ni Esau na aking kapatid, at ikaw ay tinanong na sinasabi, Kanino ka? at saan ka paroroon? at kanino itong nangasa unahan mo."
 "Kung magkagayo'y sasabihin mo, Sa iyong lingkod na kay Jacob; isang kaloob nga, na padala sa aking panginoong kay Esau
 "At iniutos din sa ikalawa, at sa ikatlo, at sa lahat ng sumusunod sa mga kawan, na sinasabi, Sa ganitong paraan sasalitain ninyo kay Esau, pagkasumpong ninyo sa kaniya;"
-"At sasabihin ninyo, Saka, narito, ang iyong lingkod na si Jacob, ay nasa hulihan namin, sapagka't kaniyang sinabi, Paglulubagin ko ang kaniyang galit sa pamamagitan ng kaloob na sumasaunahan ko, at pagkatapos ay makikita ko ang kaniyang mukha; marahil ay tatanggapin niya ako."
+"At sasabihin ninyo, Saka, narito, ang iyong lingkod na si Jacob, ay nasa hulihan namin, sapagka't kaniyang sinabi, Paglulubagin ko ang kaniyang #galit sa pamamagitan ng kaloob na sumasaunahan ko, at pagkatapos ay makikita ko ang kaniyang mukha; marahil ay tatanggapin niya ako."
 "Gayon isinaunahan niya ang mga kaloob; at siya'y natira ng gabing yaon sa pulutong."
 "At siya'y bumangon ng gabing yaon, at isinama niya ang kaniyang dalawang asawa, at ang kaniyang dalawang alilang babae, at ang kaniyang labing isang anak at tumawid sa tawiran ng Jaboc."
 "At sila'y kaniyang isinama at itinawid sa batis, at kaniyang itinawid ang kaniyang tinatangkilik."

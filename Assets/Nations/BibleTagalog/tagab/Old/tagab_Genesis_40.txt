@@ -2,10 +2,10 @@
 "At naginit si Faraon laban sa kaniyang dalawang tagapamahala, sa puno ng mga katiwala ng saro at sa puno ng mga magtitinapay."
 "At pinagpipiit sa bilangguan, sa bahay ng kapitan ng bantay, sa bilangguang kinabibilangguan ni Jose."
 "At ibinigay ng kapitan ng bantay kay Jose ang pamamahala sa kanila at pinaglingkuran niya sila
-"At ang katiwala at ang magtitinapay ng hari sa Egipto na nangabibilango sa bilangguan, ay kapuwa nanaginip ng kanikaniyang panaginip sa isang gabi, na bawa't isa ayon sa paliwanag ng kanikaniyang panaginip."
+"At ang katiwala at ang magtitinapay ng hari sa Egipto na nangabibilango sa bilangguan, ay kapuwa nanaginip #ng kanikaniyang panaginip sa isang gabi, na bawa't isa ayon sa paliwanag ng kanikaniyang panaginip."
 "At pinaroonan sila ni Jose sa kinaumagahan, at sila'y tiningnan, at, narito, sila'y mapanglaw."
 "At kaniyang tinanong ang mga tagapamahala ni Faraon, na mga kasama niya sa bilangguan sa bahay ng kaniyang panginoon, na sinasabi, Bakit kayo'y mapanglaw ngayon?"
-"At kanilang sinabi sa kaniya, Kami ay nanaginip ng panaginip, at walang sinomang makapagpaliwanag. At sinabi sa kanila ni Jose, Hindi ba ukol sa Dios ang mga paliwanag? Isinasamo ko sa inyo, na inyong saysayin sa akin."
+"At kanilang sinabi sa kaniya, Kami ay nanaginip ng panaginip, at walang sinomang makapagpaliwanag. At sinabi sa kanila ni #Jose, Hindi ba ukol sa Dios ang mga paliwanag? Isinasamo ko sa inyo, na inyong saysayin sa akin."
 "At sinaysay ng puno ng mga katiwala ng saro kay Jose ang kaniyang panaginip, at nagsabi sa kaniya, Sa aking panaginip, narito, ang isang puno ng ubas ay nasa harap ko;"
 "At sa puno ng ubas, ay may tatlong sanga
 "At ang saro ni Faraon ay nasa aking kamay; at kumuha ako ng mga ubas at aking pinagpipiga sa saro ni Faraon, at ibinigay ko ang saro sa kamay ni Faraon."

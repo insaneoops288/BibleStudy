@@ -6,7 +6,7 @@
 "Atëherë Samueli i tha popullit
 "Prandaj paraqituni që unë të kem mundësi para Zotit të vë në dukje bashkë me ju veprat e drejta që Zoti ka kryer për ju dhe për etërit tuaj."
 "Pas vajtjes së Jakobit në Egjipt dhe mbas thirrjeve të etërve tuaj drejtuar Zotit, Zoti dërgoi Moisiun dhe Aaronin që i nxorën etërit tuaj nga Egjipti dhe i bëri të banojnë në këtë vend."
-"Por ata e harruan Zotin, Perëndinë e tyre, dhe ai i shiti në duart e Siseras, komandantit të ushtrisë së Hatsorit, dhe në pushtetin e Filistejve dhe të mbretit të Moabit, të cilët u shpallën luftë atyre."
+"Por ata e harruan Zotin, Perëndinë e tyre, dhe ai i shiti në duart e Siseras, komandantit të ushtrisë #së Hatsorit, dhe në pushtetin e Filistejve dhe të mbretit të Moabit, të cilët u shpallën luftë atyre."
 "Atëherë i thirrën Zotit dhe i thanë
 "Dhe kështu Zoti dërgoi Jerubaalin, Bedanin, Jeftin dhe Samuelin, dhe ju çliroi nga duart e armiqve tuaj që ndodheshin rreth e rrotull, dhe ju jetuat në siguri."
 "Por kur patë që Nabashi, mbret i bijve të Amonit, filloi të lëvizë kundër jush, më thatë
@@ -14,7 +14,7 @@
 "Në qoftë se keni frikë nga Zoti, i shërbeni dhe dëgjoni zërin e tij, dhe nuk ngrini krye kundër urdhërimeve të Zotit, atëherë ju dhe mbreti që mbretëron mbi ju do të ndiqni Zotin, Perëndinë tuaj."
 "Por në rast se nuk i bindeni zërit të Zotit dhe kundërshtoni urdhërimet e tij, atëherë dora e Zotit do të ngrihet kundër jush, ashtu si është ngritur kundër etërve tuaj."
 "Prandaj tani ndaluni dhe shikoni këtë gjë të madhe që Zoti do të bëjë para syve tuaj."
-"A nuk jemi vallë në kohën e korrjes së grurit? Unë do të kërkoj ndihmën e Zotit dhe ai do të dërgojë bubullima dhe shi; kështu do të kuptoni dhe do të shihni se e keqja që keni bërë duke kërkuar një mbret për ju, është e madhe në sytë e Zotit""."
+"A nuk jemi vallë në kohën e korrjes së grurit? Unë do të kërkoj ndihmën e Zotit dhe ai do të dërgojë bubullima dhe shi; kështu do #të kuptoni dhe do të shihni se e keqja që keni bërë duke kërkuar një mbret për ju, është e madhe në sytë e Zotit""."
 "Atëherë Samueli kërkoi ndihmën e Zotit dhe ai dërgoi atë ditë bubullima dhe shi; dhe tërë populli pati një frikë të madhe nga Zoti dhe nga Samueli."
 "Pastaj tërë populli i tha Samuelit
 "Samueli iu përgjegj popullit

@@ -14,7 +14,7 @@
 "Ja koska sinun poikas kysyy sinulta tästedes
 "Sillä se tapahtui, koska Pharao kovuutti itsensä ja ei tahtonut meitä päästää, että Herra löi kuoliaaksi jokaisen esikoisen Egyptin maalla, ihmisen esikoisesta niin eläinten esikoiseen asti
 "Ja tämän pitää oleman merkiksi sinun kädessäs, ja muistoksi sinun edessäs
-"Ja tapahtui, koska Pharao oli päästänyt kansan, niin ei Jumala johdattanut heitä tietä Philistealaisten maan lävitse, joka tärkin oli; sillä Jumala sanoi, ettei kansa joskus katuisi, koska he näkisivät sodan heitänsä vastaan, ja palajaisi Egyptiin."
+"Ja tapahtui, koska Pharao oli päästänyt kansan, niin ei Jumala johdattanut heitä tietä Philistealaisten maan lävitse, joka tärkin #oli; sillä Jumala sanoi, ettei kansa joskus katuisi, koska he näkisivät sodan heitänsä vastaan, ja palajaisi Egyptiin."
 "Sentähden hän johdatti kansan ympärinsä, korven lävitse Punaista merta kohden. Ja Israelin lapset läksivät viisin joukoin Egyptin maalta."
 "Ja Moses otti myötänsä Josephin luut
 "Niin he läksivät Sukkotista, ja sioittivat heitänsä Etamiin, joka on korven ääressä."

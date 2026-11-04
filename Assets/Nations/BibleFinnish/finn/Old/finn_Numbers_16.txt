@@ -6,11 +6,11 @@
 "Tehkäät näin
 "Ja pankaat niihin tulta, ja heittäkäät niihin suitsutusta Herran eteen huomenna, ja se mies, jonka Herra valitsee, olkoon pyhä
 "Ja Moses sanoi Koralle
-"Vähäkö se teille on, että Israelin Jumala on teidät eroittanut Israelin kansasta ja antanut tulla tykönsä palvelusta tekemään Herran Tabernaklin virassa, ja seisomaan seurakunnan edessä, ja heitä palvelemaan?"
+"Vähäkö se teille on, että Israelin Jumala on teidät eroittanut Israelin kansasta ja antanut tulla #tykönsä palvelusta tekemään Herran Tabernaklin virassa, ja seisomaan seurakunnan edessä, ja heitä palvelemaan?"
 "Hän on ottanut sinun ja kaikki sinun veljes Levin lapset tykönsä
 "Sinä ja kaikki sinun joukkos nostatte kapinan Herraa vastaan. Mikä Aaron on, että te napisette häntä vastaan?"
 "Ja Moses lähetti kutsumaan Datania ja Abiramia Eliabin poikia; mutta he sanoivat
-"Vähäkö se on, että sinä olet meidät maalta tuonut ulos, jossa rieskaa ja hunajaa vuotaa, tappaakses meitä korvessa, vaan teet sinus vielä päämieheksi meidän ylitsemme, ja tahdot myös hallita meitä?"
+"Vähäkö se on, että sinä olet meidät maalta tuonut ulos, jossa rieskaa ja hunajaa vuotaa, tappaakses #meitä korvessa, vaan teet sinus vielä päämieheksi meidän ylitsemme, ja tahdot myös hallita meitä?"
 "Jalosti sinä olet meidät johdattanut siihen maahan, jossa rieskaa ja hunajaa vuotaa, ja annoit pellot ja viinamäet perinnöksi. Tahdotkos vielä näiltä miehiltä silmät puhkaista? emme tule sinne."
 "Silloin vihastui Moses sangen kovin, ja sanoi Herralle
 "Ja Moses sanoi Koralle
@@ -27,7 +27,7 @@
 "Ja he pakenivat Koran, Datanin ja Abiramin majain ympäriltä; mutta Datan ja Abiram kävivät ulos, ja seisoivat majainsa ovella emäntinensä, poikinensa ja lapsinensa."
 "Ja Moses sanoi
 "Jos he kuolevat niinkuin kaikki ihmiset kuolevat, eli kostetaan, niinkuin kaikille ihmisille kostetaan, niin ei Herra ole minua lähettänyt."
-"Mutta jos Herra tässä jotakin uutta tekee, niin että maa avaa suunsa ja nielee heidät kaikkein kanssa, mitä heillä on, niin että he elävinä menevät helvettiin, niin teidän pitää tietämän, että nämät miehet pilkkasivat Herraa."
+"Mutta jos Herra tässä jotakin uutta tekee, niin että maa avaa suunsa ja nielee heidät kaikkein kanssa, mitä #heillä on, niin että he elävinä menevät helvettiin, niin teidän pitää tietämän, että nämät miehet pilkkasivat Herraa."
 "Ja tapahtui, koska hän kaikki nämät sanat puhunut oli, halkesi maa heidän altansa."
 "Ja maa avasi suunsa ja nieli heidät, ja heidän huoneensa, ja kaikki ne ihmiset, jotka Koran tykönä olivat, ja kaiken heidän tavaransa."
 "Ja he menivät elävänä helvettiin, kaikkinensa kuin heillä oli, ja maa peitti heidät, ja he hukkuivat kansan seasta."
@@ -35,9 +35,9 @@
 "Ja tuli läksi Herralta, ja poltti ne kaksisataa ja viisikymmentä miestä, jotka suitsutusta uhrasivat."
 "Ja Herra puhui Mosekselle, sanoen
 "Sano Eleatsarille papin Aaronin pojalle, että hän ottaa savuastiat tulipalosta, ja hajoittaa tulen sinne ja tänne; sillä ne ovat pyhät."
-"Näiden savuastiat, jotka syntiä tekivät sielujansa vastaan, ne takokaat leveiksi, ohukaisiksi kiskoiksi, joilla alttari peitetään; sillä ne ovat Herran eteen uhratut ja pyhitetyt. Ja ne pitää oleman merkiksi Israelin lapsille."
+"Näiden savuastiat, jotka syntiä tekivät sielujansa vastaan, ne takokaat leveiksi, ohukaisiksi kiskoiksi, joilla alttari peitetään; sillä #ne ovat Herran eteen uhratut ja pyhitetyt. Ja ne pitää oleman merkiksi Israelin lapsille."
 "Ja Eleatsar pappi otti ne vaskiastiat, joissa palaneet miehet olivat uhranneet, ja taotti ne leveiksi, ohukaisiksi kiskoiksi, alttarin peitteeksi,"
-"Israelin lapsille muistoksi, ettei yksikään muukalainen, joka ei ole Aaronin siemenestä, lähestyisi uhraamaan suitsutusta Herran eteen, ettei hänelle tapahtuisi, niinkuin Koralle ja hänen joukollensa, niinkuin Herra hänelle sanoi Moseksen kautta."
+"Israelin lapsille muistoksi, ettei yksikään muukalainen, joka ei ole Aaronin siemenestä, lähestyisi uhraamaan suitsutusta Herran eteen, #ettei hänelle tapahtuisi, niinkuin Koralle ja hänen joukollensa, niinkuin Herra hänelle sanoi Moseksen kautta."
 "Toisena päivänä taas napisivat koko Israelin lasten joukko Mosesta ja Aaronia vastaan, ja sanoivat
 "Ja koska kansa kokoontui Mosesta ja Aaronia vastaan, ja kuin he käänsivät heitänsä seurakunnan majaan päin, katso, pilvi peitti sen ja Herran kunnia näkyi."
 "Ja Moses ja Aaron menivät seurakunnan majan eteen."

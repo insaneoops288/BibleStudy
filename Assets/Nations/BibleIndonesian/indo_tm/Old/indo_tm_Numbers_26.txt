@@ -6,8 +6,8 @@
 "dari Hezron turunlah bangsa Hezroni, dari Kharmi turunlah bangsa Kharmi."
 "Maka sekalian inilah bangsa orang Rubin, segala orang yang dibilang jumlahnya empat puluh tiga ribu tujuh ratus tiga puluh."
 "Maka anak Palu itu Eliab."
-"Maka anak-anak laki-laki Eliab itu Nemuil dan Datan dan Abiram, yang terpanggil kepada perhimpunan itu dan yang mendurhaka kepada Musa dan Harun di antara orang yang sefakat dengan Korah, tatkala mereka itu mendurhaka kepada Tuhan,"
-"dan bumipun mengangakan mulutnya serta menelan akan mereka itu dan Korahpun binasalah serta dengan segala orang lain yang sefakat, tatkala dua ratus lima puluh orang itu dimakan api dan menjadi suatu tanda alamat."
+"Maka anak-anak laki-laki Eliab itu Nemuil dan Datan dan Abiram, yang terpanggil kepada perhimpunan itu dan yang mendurhaka #kepada Musa dan Harun di antara orang yang sefakat dengan Korah, tatkala mereka itu mendurhaka kepada Tuhan,"
+"dan bumipun mengangakan mulutnya serta menelan akan mereka itu dan Korahpun binasalah serta dengan segala orang lain #yang sefakat, tatkala dua ratus lima puluh orang itu dimakan api dan menjadi suatu tanda alamat."
 "Tetapi anak-anak laki-laki Korah itu tiada mati sertanya."
 "Lalu segala anak-anak laki-laki Simeon seturut bangsa-bangsanya
 "dari Zerah turunlah bangsa Zerahi, dari Saul turunlah bangsa Sauli."
@@ -51,7 +51,7 @@
 "Maka sekalian inilah orang terbilang dari pada bani Israel enam keti seribu tujuh ratus tiga puluh banyaknya."
 "Arakian, maka befirmanlah Tuhan kepada Musa demikian
 "Kepada segala orang itulah akan dibahagi-bahagi tanah itu menjadi pusakanya, yaitu atas bilangan nama-namanya."
-"Bagi orang yang banyak bilangannya hendaklah kaulebihkan pusakanya dan bagi orang yang sedikit bilangannya hendaklah kaukurangkan pusakanya; kepada masing-masing sekadar bilangannya hendaklah diberikan pusakanya."
+"Bagi orang yang banyak bilangannya hendaklah kaulebihkan pusakanya dan bagi orang yang sedikit #bilangannya hendaklah kaukurangkan pusakanya; kepada masing-masing sekadar bilangannya hendaklah diberikan pusakanya."
 "Kendatilah demikian hendaklah tanah itu juga dibahagi-bahagi dengan dibuang undi, seturut segala nama suku bangsa dan kaum hendaklah mereka itu beroleh pusaka."
 "Ditentukan dengan undi hendaklah dibahagi-bahagi pusaka kepada masing-masing, kepada yang banyak bilangannya dan kepada yang sedikit bilangannya."
 "Bermula, maka sekalian inilah orang terbilang dari pada Lewi dengan bangsa-bangsanya
@@ -59,7 +59,7 @@
 "Maka nama bini Amram itu Yokhebed, anak Lewi, yang diperanakkan bagi Lewi di Mesir; maka diperanakannyalah bagi Amram akan Harun dan Musa dan Miryam, saudara perempuan mereka itu."
 "Maka bagi Harun diperanakkanlah Nadab dan Abihu dan Eliazar dan Itamar."
 "Tetapi matilah Nadab dan Abihu pada masa dibawanya api lain ke hadapan hadirat Tuhan."
-"Maka jumlah segala orangnya yang terbilang itu dua puluh tiga ribu, semuanya orang laki-laki yang umur sebulan atau lebih; maka tiada dibilang akan mereka itu bersama-sama dengan segala bani Israel, sebab kepada mereka itu tiada diberikan pusaka di antara segala bani Israel."
+"Maka jumlah segala orangnya yang terbilang itu dua puluh tiga ribu, semuanya orang laki-laki yang umur sebulan atau lebih; maka tiada dibilang #akan mereka itu bersama-sama dengan segala bani Israel, sebab kepada mereka itu tiada diberikan pusaka di antara segala bani Israel."
 "Maka sekalian inilah orang yang dibilang oleh Musa dan Eliazar, yang imam, yang membilang banyak bani Israel di padang-padang Moab di tepi sungai Yarden bertentangan dengan Yerikho."
 "Maka di antara segala orang ini seorangpun tiada dari pada segala orang yang dibilang dahulu oleh Musa dan Harun, yang imam, yaitu yang dibilang oleh bani Israel di padang belantara Sinai."
 "Karena firman Tuhan akan halnya demikian

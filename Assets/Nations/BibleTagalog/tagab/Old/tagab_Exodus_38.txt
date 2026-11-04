@@ -18,13 +18,13 @@
 "At ang tabing sa pintuang daan ng looban ay yari ng mangbuburda, na kayong bughaw, at kulay-ube, at pula, at linong pinili
 "At ang mga haligi ay apat, at ang mga tungtungan ay apat, tanso; ang mga sima ay pilak, at ang mga balot ng kapitel, at ang mga pilete ay pilak."
 "At lahat ng mga tulos ng tabernakulo, at ng looban sa palibot, ay tanso."
-"Ito ang mga bilang ng mga bagay sa tabernakulo, sa makatuwid baga'y sa tabernakulo ng patotoo, gaya ng binilang nila, ayon sa utos ni Moises para sa paglilingkod ng mga Levita sa pamamagitan ni Ithamar na anak ni Aaron na saserdote."
+"Ito ang mga bilang ng mga bagay sa tabernakulo, sa makatuwid baga'y sa tabernakulo ng patotoo, gaya ng binilang nila, ayon #sa utos ni Moises para sa paglilingkod ng mga Levita sa pamamagitan ni Ithamar na anak ni Aaron na saserdote."
 "At ginawa ni Bezaleel na anak ni Uri, na anak ni Hur, sa lipi ni Juda, yaong lahat na iniutos ng Panginoon kay Moises."
 "At kasama niya si Aholiab, na anak ni Ahisamac, sa lipi ni Dan, na tagapagukit, at bihasang manggagawa, at mangbuburda sa bughaw at sa kulay-ube, at sa pula, at sa lino."
-"Lahat ng ginto na ginamit sa gagawin sa buong gawain sa santuario, sa makatuwid baga'y ang gintong handog ay dalawangpu't siyam na talento, at pitong daan at tatlongpung siklo, ayon sa siklo ng santuario."
+"Lahat ng ginto na ginamit sa gagawin sa buong gawain sa santuario, sa makatuwid baga'y ang gintong handog #ay dalawangpu't siyam na talento, at pitong daan at tatlongpung siklo, ayon sa siklo ng santuario."
 "At ang pilak niyaong mga nabilang sa kapisanan ay isang daang talento, at isang libo't pitong daan at pitongpu't limang siklo, ayon sa siklo ng santuario
-"Na tigisang beka bawa't ulo, samakatuwid, kalahati ng isang siklo, ayon sa siklo ng santuario, sa bawa't isa na nasanib sa mga nabilang, magmula sa dalawangpung taong gulang na patanda, sa anim na raan at tatlong libo at limang daan at limangpung lalake."
-"At ang isang daang talentong pilak ay ginamit sa pagbububo ng mga tungtungan ng santuario, at ng mga tungtungan ng mga haligi ng lambong; isang daang tungtungan sa isang daang talento, isang talento sa bawa't tungtungan."
+"Na tigisang beka bawa't ulo, samakatuwid, kalahati ng isang siklo, ayon sa siklo ng santuario, sa bawa't isa na nasanib sa mga #nabilang, magmula sa dalawangpung taong gulang na patanda, sa anim na raan at tatlong libo at limang daan at limangpung lalake."
+"At ang isang daang talentong pilak ay ginamit sa pagbububo ng mga tungtungan ng santuario, at ng mga tungtungan #ng mga haligi ng lambong; isang daang tungtungan sa isang daang talento, isang talento sa bawa't tungtungan."
 "At sa isang libo't pitong daan at pitong pu't limang siklo, ay naigawa ng sima ang mga haligi at binalot ang mga kapitel, at iginawa ng mga pilete."
 "At ang tansong handog ay pitongpung talento, at dalawang libo at apat na raang siklo."
 "At siyang ipinaggawa ng mga tungtungan sa pintuan ng tabernakulo ng kapisanan, at ng dambanang tanso, at ng salang tanso niyaon, at ng lahat ng kasangkapan ng dambana,"

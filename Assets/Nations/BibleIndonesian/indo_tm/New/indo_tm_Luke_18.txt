@@ -13,7 +13,7 @@
 "Akan tetapi orang pemungut cukai itu berdiri dari jauh, tiada berani ia menengadah ke langit, melainkan menepuk dadanya sahaja, serta berkata
 "Maka Aku berkata kepadamu
 "Maka orang pun membawa juga kanak-kanak kepada Yesus, supaya dijamah-Nya; tetapi serta murid-murid-Nya melihat hal itu, lalu murid itu pun menengking mereka itu."
-"Tetapi Yesus memanggil kanak-kanak itu datang kepada-Nya, sambil kata-Nya, ""Biarkanlah kanak-kanak itu datang kepada-Ku, jangan dilarangkan mereka itu, karena orang yang sama seperti inilah yang empunya kerajaan Allah."
+"Tetapi Yesus memanggil kanak-kanak itu datang kepada-Nya, sambil kata-Nya, ""Biarkanlah kanak-kanak itu datang kepada-Ku, jangan #dilarangkan mereka itu, karena orang yang sama seperti inilah yang empunya kerajaan Allah."
 "Sesungguhnya Aku berkata kepadamu, barangsiapa yang tiada menyambut kerajaan Allah sama seperti kanak-kanak itu, tiadalah dapat masuk ke dalamnya."""
 "Adalah seorang penghulu bertanya kepada Yesus, katanya, ""Ya Guru yang baik, apakah wajib hamba perbuat, supaya hamba menjadi waris hidup yang kekal?"""
 "Maka kata Yesus kepadanya, ""Apakah sebabnya engkau katakan Aku ini baik? Seorang pun tiada yang baik, hanya Satu, yaitu Allah."
@@ -26,9 +26,9 @@
 "Maka orang yang mendengar itu pun berkatalah, ""Kalau begitu, siapakah akan beroleh selamat?"""
 "Tetapi kata Yesus, ""Barang yang mustahil kepada manusia, bukannya mustahil kepada Allah."""
 "Maka kata Petrus, ""Tengoklah, kami ini sudah meninggalkan milik kami serta mengikut Rabbi."""
-"Maka kata Yesus kepada mereka itu, ""Sesungguhnya Aku berkata kepadamu, tiadalah seorang jua pun yang meninggalkan rumah, atau bini, atau sanak-saudara, atau ibu bapa, atau anak-anak sebab karena kerajaan Allah,"
+"Maka kata Yesus kepada mereka itu, ""Sesungguhnya Aku berkata kepadamu, tiadalah seorang jua pun yang meninggalkan #rumah, atau bini, atau sanak-saudara, atau ibu bapa, atau anak-anak sebab karena kerajaan Allah,"
 "yang tiada menerima pula banyak gandanya pada masa ini, dan di dalam akhirat hidup yang kekal."""
-"Maka dibawanya kedua belas murid itu, serta berkata kepada mereka itu, ""Bahwa kita ini berjalan naik ke Yeruzalem, maka segala sesuatu yang disuratkan oleh nabi-nabi akan disampaikan atas Anak manusia."
+"Maka dibawanya kedua belas murid itu, serta berkata kepada mereka itu, ""Bahwa kita ini berjalan naik #ke Yeruzalem, maka segala sesuatu yang disuratkan oleh nabi-nabi akan disampaikan atas Anak manusia."
 "Karena Ia akan diserahkan ke tangan orang kafir, dan Ia diolok-olokkan, dan dinistakan, serta diludahi orang;"
 "dan mereka itu pun menyesah lalu membunuh Dia, maka pada hari yang ketiga Ia akan bangkit pula."""
 "Maka tiadalah mereka itu mengerti suatu apa pun; dan perkataan ini tersembunyilah daripadanya, tiada diketahuinya akan hal yang dikatakan itu."

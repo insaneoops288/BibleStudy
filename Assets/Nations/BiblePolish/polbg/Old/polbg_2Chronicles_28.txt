@@ -2,7 +2,7 @@
 "Ale chodził drogami królów Izraelskich; nadto ulał i słupy bałwochwalskie."
 "Także i sam kadził w dolinie Benhennon, i palił synów swych ogniem według obrzydliwości pogan, których wygnał Pan przed synami Izraelskimi."
 "Ofiarował też i kadził na wyżynach, i na pagórkach, i pod każdem drzewem gałęzistem."
-"Przetoż dał go Pan, Bóg jego, w rękę króla Syryjskiego, którzy poraziwszy go, pojmali z ludu jego więźniów wiele, a przywiedli ich do Damaszku. Nadto i w rękę króla Izraelskiego podany jest, który go poraził porażką wielka."
+"Przetoż dał go Pan, Bóg jego, w rękę króla Syryjskiego, którzy poraziwszy go, pojmali z ludu jego więźniów wiele, #a przywiedli ich do Damaszku. Nadto i w rękę króla Izraelskiego podany jest, który go poraził porażką wielka."
 "Albowiem Facejasz, syn Romelijaszowy, pobił w Judzie sto i dwadzieścia tysięcy dnia jednego, wszystko mężów walecznych, przeto, iż opuścili Pana, Boga ojców swoich."
 "Zychry także, mocarz Efraimski, zabił Maasajasza, syna królewskiego, i Asrykama, przełożonego domu jego, i Elkana, wtórego po królu."
 "Nadto pojmali synowie Izraelscy z braci swych dwa kroć sto tysięcy niewiast, synów, i córek, i bardzo wiele łupów pobrali od nich, i zaprowadzili korzyść do Samaryi."
@@ -12,7 +12,7 @@
 "Tedy powstali mężowie z książąt synów Efraimowych
 "I rzekli do nich
 "Przetoż ono wojsko zostawiło i więźniów i łupy swe przed książętami, i przed wszystkiem zgromadzeniem."
-"A powstawszy mężowie, którzy są z imienia mianowani, wzięli onych więźniów, a wszystkich obnażonych między nimi przyodziali z onych korzyści, a przyodziawszy ich i dawszy im obuwie, nakarmili ich, i napoili ich, i pomazali ich, i odprowadzili na osłach każdego słabego, a przyprowadzili ich do Jerycha, miasta palm, do braci ich
+"A powstawszy mężowie, którzy są z imienia mianowani, wzięli onych więźniów, a wszystkich obnażonych między nimi przyodziali z onych korzyści, a przyodziawszy ich i dawszy im #obuwie, nakarmili ich, i napoili ich, i pomazali ich, i odprowadzili na osłach każdego słabego, a przyprowadzili ich do Jerycha, miasta palm, do braci ich
 "Naonczas posłał król Achaz do królów Assyryjskich, aby mu pomoc dali
 "Bo jeszcze byli przyciągnęli i Edomczycy, i porazili Judę, a nabrali więźniów."
 "Nadto i Filistynowie wtargnęli do miast w równinach, i na południe do Judy, a wzięli Betsemes, i Ajalon, i Gaderot, i Sokot i wsi jego, i Tamne i wsi jego, i Gimzo i wsi jego, a mieszkali w nich."

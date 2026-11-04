@@ -1,5 +1,5 @@
 "Und Gott segnete Noah und seine Söhne und sprach
-"Furcht und Schrecken vor euch seiüber alle Tiere auf Erden undüber alle Vögel unter dem Himmel,über alles, was auf dem Erdboden kriecht, undüber alle Fische im Meer; in eure Hände seien sie gegeben."
+"Furcht und Schrecken vor euch seiüber alle Tiere auf Erden undüber alle Vögel unter dem Himmel,über alles, #was auf dem Erdboden kriecht, undüber alle Fische im Meer; in eure Hände seien sie gegeben."
 "Alles, was sich regt und lebt, das sei eure Speise; wie das grüne Kraut habe ich's euch alles gegeben."
 "Allein eßt das Fleisch nicht, das noch lebt in seinem Blut."
 "Auch will ich eures Leibes Blut rächen und will's an allen Tieren rächen und will des Menschen Leben rächen an einem jeglichen Menschen als dem, der sein Bruder ist.{~}{~}"
@@ -20,7 +20,7 @@
 "Noah aber fing an und ward ein Ackermann und pflanzte Weinberge."
 "Und da er von dem Wein trank, ward er trunken und lag in der Hütte aufgedeckt."
 "Da nun Ham, Kanaans Vater, sah seines Vaters Blöße, sagte er's seinen beiden Brüdern draußen."
-"Da nahmen Sem und Japheth ein Kleid und legten es auf ihrer beider Schultern und gingen rücklings hinzu und deckten des Vaters Blöße zu; und ihr Angesicht war abgewandt, daß sie ihres Vater Blöße nicht sahen."
+"Da nahmen Sem und Japheth ein Kleid und legten es auf ihrer beider Schultern und gingen rücklings hinzu und #deckten des Vaters Blöße zu; und ihr Angesicht war abgewandt, daß sie ihres Vater Blöße nicht sahen."
 "Als nun Noah erwachte von seinem Wein und erfuhr, was ihm sein jüngster Sohn getan hatte,"
 "sprach er
 "und sprach weiter

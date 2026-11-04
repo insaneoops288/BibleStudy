@@ -13,7 +13,7 @@
 "A tak přítrž učiním hluku zpěvů tvých, a zvuku citar tvých aby nebylo slýcháno více."
 "A obrátím tě v skálu vysedlou, budeš k vysušování sítí, nebudeš vystaven více; nebo já Hospodin mluvil jsem, praví Panovník Hospodin."
 "Takto praví Panovník Hospodin Týru
-"A vyvstanou z stolic svých všecka knížata pomořská, a složí z sebe pláště své, i roucha svá krumpovaná svlekou; v hrůzu se oblekou, na zemi seděti budou, a třesouce se každé chvíle, trnouti budou nad tebou."
+"A vyvstanou z stolic svých všecka knížata pomořská, a složí z sebe pláště své, i roucha svá krumpovaná svlekou; #v hrůzu se oblekou, na zemi seděti budou, a třesouce se každé chvíle, trnouti budou nad tebou."
 "I vydadí se nad tebou v naříkání, a řeknou tobě
 "Tehdáž třásti se budou ostrovové v den pádu tvého; předěšeni, pravím, budou ostrovové, kteříž jsou na moři, nad zahynutím tvým."
 "Nebo tak praví Panovník Hospodin

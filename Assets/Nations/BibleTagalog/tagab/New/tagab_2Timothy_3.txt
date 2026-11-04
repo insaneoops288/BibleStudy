@@ -5,7 +5,7 @@
 "Na may anyo ng kabanalan, datapuwa't tinanggihan ang kapangyarihan nito
 "Sapagka't sa mga ito ang nanganggagapang sa mga bahay, at binibihag ang babaing haling na lipos ng mga kasalanan, hinihila ng mga iba't ibang pita,"
 "Na laging nagsisipagaral, at kailan pa man ay hindi nakararating sa pagkaalam ng katotohanan."
-"At kung paanong si Janes at si Jambres ay nagsilaban kay Moises, ay gayon din naman ang mga ito'y nagsisilaban sa katotohanan; mga taong masasama ang pagiisip, mga itinakuwil tungkol sa pananampalataya."
+"At kung paanong si Janes at si Jambres ay nagsilaban kay Moises, ay gayon din naman ang #mga ito'y nagsisilaban sa katotohanan; mga taong masasama ang pagiisip, mga itinakuwil tungkol sa pananampalataya."
 "Nguni't sila'y hindi mangagpapatuloy
 "Nguni't sinunod mo ang aking aral, ugali, akala, pananampalataya, pagpapahinuhod, pagibig, pagtitiis,"
 "Mga paguusig, mga pagbabata; anomang mga bagay ang nangyari sa akin sa Antioquia, sa Iconio, sa Listra; anomang mga paguusig ang tiniis ko

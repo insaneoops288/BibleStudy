@@ -12,7 +12,7 @@
 "A obejrzawszy się tam i sam, gdy widział, że nikogo nie masz, zabił Egipczanina, i zagrzebł go w piasek."
 "A wyszedłszy zaś dnia wtórego, ujrzał, a oto, dwaj mężowie Hebrejscy wadzili się; i rzekł onemu, który krzywdę czynił
 "Czemuż bijesz bliźniego swego? Ale mu odpowiedział
-"Pewnie się ta rzecz wyjawiła. Usłyszał tedy Farao tę rzecz, i szukał zabić Mojżesza. Lecz Mojżesz uciekł od twarzy Faraonowej, i mieszkał w ziemi Madyjańskiej; a przyszedłszy tam siedział u studni."
+"Pewnie się ta rzecz wyjawiła. Usłyszał tedy Farao tę rzecz, i szukał zabić Mojżesza. Lecz Mojżesz #uciekł od twarzy Faraonowej, i mieszkał w ziemi Madyjańskiej; a przyszedłszy tam siedział u studni."
 "A kapłan Madyjański miał siedem córek, które wyszedłszy czerpały wodę, i nalewały do koryt, aby napoiły trzodę ojca swego;"
 "A przyszedłszy pasterze odganiali je. Tedy wstawszy Mojżesz obronił ich, i napoił bydło ich."
 "A gdy się wróciły do Raguela, ojca swego, rzekł

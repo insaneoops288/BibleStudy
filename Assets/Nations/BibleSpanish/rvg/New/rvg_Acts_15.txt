@@ -1,5 +1,5 @@
 "Entonces algunos que venían de Judea enseñaban a los hermanos, [diciendo]
-"Así que, cuando Pablo y Bernabé tuvieron una disensión y contienda no pequeña con ellos, determinaron que Pablo y Bernabé, y algunos otros de ellos, subiesen a Jerusalén a los apóstoles y a los ancianos, para tratar esta cuestión."
+"Así que, cuando Pablo y Bernabé tuvieron una disensión y contienda no pequeña con ellos, determinaron que Pablo y Bernabé, #y algunos otros de ellos, subiesen a Jerusalén a los apóstoles y a los ancianos, para tratar esta cuestión."
 "Ellos, pues, siendo encaminados por la iglesia, pasaron por Fenicia y Samaria, contando la conversión de los gentiles; y causaban gran gozo a todos los hermanos."
 "Y cuando llegaron a Jerusalén, fueron recibidos por la iglesia y los apóstoles y los ancianos, y les contaron todas las cosas que Dios había hecho con ellos."
 "Pero algunos de la secta de los fariseos, que habían creído, se levantaron, diciendo que era necesario circuncidarlos y mandarles que guardasen la ley de Moisés."
@@ -19,7 +19,7 @@
 "Por lo cual yo juzgo, que no se moleste a los que de los gentiles se convierten a Dios;"
 "sino que les escribamos que se abstengan de las contaminaciones de los ídolos, y de fornicación, y de estrangulado y de sangre."
 "Porque Moisés desde los tiempos antiguos tiene en cada ciudad quien lo predique en las sinagogas, donde es leído cada sábado."
-"Entonces pareció bien a los apóstoles y a los ancianos, con toda la iglesia, elegir varones de ellos, y enviarlos a Antioquía con Pablo y Bernabé; a Judas que tenía por sobrenombre Barsabás, y a Silas, varones principales entre los hermanos,"
+"Entonces pareció bien a los apóstoles y a los ancianos, con toda la iglesia, elegir varones de ellos, y enviarlos a #Antioquía con Pablo y Bernabé; a Judas que tenía por sobrenombre Barsabás, y a Silas, varones principales entre los hermanos,"
 "y escribir por mano de ellos, de esta manera
 "Por cuanto hemos oído que algunos que han salido de nosotros, os han inquietado con palabras, turbando vuestras almas, mandando circuncidaros y guardar la ley, a los cuales no dimos [tal] mandato,"
 "nos ha parecido bien, congregados en uno, elegir varones, y enviarlos a vosotros con nuestros amados Bernabé y Pablo,"

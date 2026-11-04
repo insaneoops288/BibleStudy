@@ -10,7 +10,7 @@
 "Por në çdo qytet ku të hyni, nëse nuk ju pranojnë, dilni në rrugët e tij dhe thoni
 """Ne po shkundim kundër jush edhe pluhurin e qytetit tuaj që na u ngjit; veç ta dini se mbretëria e Perëndisë ju është afruar""."
 "Unë ju them se atë ditë Sodoma do ta ketë më të lehtë sesa ai qytet."
-"Mjerë ti, Korazin! Mjerë ti, Betsaida! Sepse, po të ishin bërë në Tiro dhe në Sidon mrekullitë që u bënë te ju, ata prej kohësh do të kishin bërë pendesë duke u veshur me thasë dhe duke u ulur në hi."
+"Mjerë ti, Korazin! Mjerë ti, Betsaida! Sepse, po të ishin bërë në Tiro dhe në Sidon mrekullitë që u bënë te #ju, ata prej kohësh do të kishin bërë pendesë duke u veshur me thasë dhe duke u ulur në hi."
 "Prandaj ditën e gjyqit Tiro dhe Sidoni do ta kenë më lehtë se ju."
 "Dhe ti, Kapernaum, që të kanë ngritur deri në qiell, do të poshtërohesh deri në ferr."
 "Kush ju dëgjon, më dëgjon mua; kush ju përbuz, më përbuz mua; dhe kush më përbuz, përbuz atë që më ka dërguar''."

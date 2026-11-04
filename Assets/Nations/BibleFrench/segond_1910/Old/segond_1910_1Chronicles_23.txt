@@ -21,11 +21,11 @@
 "Fils de Merari
 "Eléazar mourut sans avoir de fils; mais il eut des filles, que prirent pour femmes les fils de Kis, leurs frères. -"
 "Fils de Muschi
-"Ce sont là les fils de Lévi, selon leurs maisons paternelles, les chefs des maisons paternelles, d'après le dénombrement qu'on en fit en comptant les noms par tête. Ils étaient employés au service de la maison de l'Eternel, depuis l'âge de vingt ans et au-dessus."
+"Ce sont là les fils de Lévi, selon leurs maisons paternelles, les chefs des maisons paternelles, d'après le dénombrement qu'on en fit en #comptant les noms par tête. Ils étaient employés au service de la maison de l'Eternel, depuis l'âge de vingt ans et au-dessus."
 "Car David dit
 "et les Lévites n'auront plus à porter le tabernacle et tous les ustensiles pour son service."
 "Ce fut d'après les derniers ordres de David qu'eut lieu le dénombrement des fils de Lévi depuis l'âge de vingt ans et au-dessus."
-"Placés auprès des fils d'Aaron pour le service de la maison de l'Eternel, ils avaient à prendre soin des parvis et des chambres, de la purification de toutes les choses saintes, des ouvrages concernant le service de la maison de Dieu,"
+"Placés auprès des fils d'Aaron pour le service de la maison de l'Eternel, ils avaient à prendre soin des parvis et #des chambres, de la purification de toutes les choses saintes, des ouvrages concernant le service de la maison de Dieu,"
 "des pains de proposition, de la fleur de farine pour les offrandes, des galettes sans levain, des gâteaux cuits sur la plaque et des gâteaux frits, de toutes les mesures de capacité et de longueur
 "ils avaient à se présenter chaque matin et chaque soir, afin de louer et de célébrer l'Eternel,"
 "et à offrir continuellement devant l'Eternel tous les holocaustes à l'Eternel, aux sabbats, aux nouvelles lunes et aux fêtes, selon le nombre et les usages prescrits."

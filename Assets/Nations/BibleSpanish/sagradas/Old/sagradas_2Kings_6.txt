@@ -22,7 +22,7 @@
 "Y él le respondió
 "Entonces les fue aparejada grande comida; y cuando habían comido y bebido, los envió, y ellos se volvieron a su señor. Y nunca más vinieron escuadrones de Siria a la tierra de Israel."
 "Después de esto aconteció, que Ben-adad rey de Siria juntó todo su ejército, y subió, y puso cerco a Samaria."
-"Y hubo grande hambre en Samaria, teniendo ellos cerco sobre ella; tanto, que la cabeza de un asno era <I>vendida</I>  por ochenta <I>piezas</I>  de plata, y la cuarta de un cabo de estiércol de palomas por cinco <I>piezas</I>  de plata."
+"Y hubo grande hambre en Samaria, teniendo ellos cerco sobre ella; tanto, que la cabeza de un asno era <I>vendida</I>  por #ochenta <I>piezas</I>  de plata, y la cuarta de un cabo de estiércol de palomas por cinco <I>piezas</I>  de plata."
 "Y pasando el rey de Israel por el muro, una mujer le dio voces, y dijo
 "Y él dijo
 "Y le dijo el rey

@@ -3,7 +3,7 @@
 "I Basemat, córkę Ismaelowę, siostrę Nebajotowę."
 "I urodziła Ada Ezawowi Elifasa, a Basemat urodziła Rehuela."
 "Oolibama też urodziła Jehusa, i Jeloma, i Korego. Ci są synowie Ezawowi, którzy mu się urodzili w ziemi Chananejskiej."
-"I wziął Ezaw żony swoje, i syny swoje, i córki swoje, i wszystkie dusze domu swego, i trzody swoje, i wszystko bydło swoje, i wszystkę majętność swoję, której był nabył w ziemi Chananejskiej, i odszedł do ziemi inszej od Jakóba, brata swego;"
+"I wziął Ezaw żony swoje, i syny swoje, i córki swoje, i wszystkie dusze domu swego, i trzody swoje, i wszystko bydło #swoje, i wszystkę majętność swoję, której był nabył w ziemi Chananejskiej, i odszedł do ziemi inszej od Jakóba, brata swego;"
 "Bo była majętność ich wielka, że nie mogli mieszkać pospołu, i nie mogła ich znieść ziemia pielgrzymowania ich, dla mnóstwa stad ich."
 "I mieszkał Ezaw na górze Seir, a ten Ezaw jest Edom."
 "A teć są pokolenia Ezawa, ojca Edomczyków, na górze Seir."

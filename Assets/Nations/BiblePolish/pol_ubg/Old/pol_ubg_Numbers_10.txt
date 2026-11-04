@@ -7,7 +7,7 @@
 "Ale gdy będziecie zwoływać lud, zatrąbicie bez wydawania urywanego dźwięku."
 "A synowie Aarona, kapłani, zadmą w trąby. Będzie to wieczysta ustawa dla was przez wszystkie wasze pokolenia."
 "A gdy w waszej ziemi wyruszycie na wojnę przeciw wrogowi, który was gnębi, zadmiecie w trąby urwanym dźwiękiem; a przypomnicie się PANU, waszemu Bogu, i zostaniecie wybawieni od waszych wrogów."
-"Także w dniu waszej radości, w wasze uroczyste święta oraz podczas waszych nowiów zadmiecie w trąby przy waszych ofiarach całopalnych i przy waszych ofiarach pojednawczych; będą one dla was pamiątką przed waszym Bogiem. Ja jestem PAN, wasz Bóg."
+"Także w dniu waszej radości, w wasze uroczyste święta oraz podczas waszych nowiów zadmiecie w trąby przy waszych ofiarach całopalnych #i przy waszych ofiarach pojednawczych; będą one dla was pamiątką przed waszym Bogiem. Ja jestem PAN, wasz Bóg."
 "I w drugim roku, drugiego miesiąca, dwudziestego dnia tego miesiąca uniósł się obłok znad Przybytku Świadectwa."
 "I synowie Izraela wyruszyli z pustyni Synaj, a obłok zatrzymał się na pustyni Paran."
 "I po raz pierwszy wyruszyli tak, jak PAN rozkazał przez Mojżesza."

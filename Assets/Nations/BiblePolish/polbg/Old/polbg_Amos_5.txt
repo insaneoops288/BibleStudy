@@ -8,7 +8,7 @@
 "Tego, który uczynił Baby na niebie i Oriona, który cień śmierci w poranek odmienia i dzień w ciemności nocne; który przywołuje wody morskie, a wylewa je na oblicze ziemi, Pan jest imię jego;"
 "Który pokrzepia słabego przeciwko mocarzowi, tak że ten osłabiały do twierdzy uchodzi."
 "Mają w nienawiści tego, który ich w bramie karze; a tym, co mówi rzeczy dobre, brzydzą się."
-"Przetoż, iż uciskacie ubogiego, a brzemię zboża bierzecie od niego, domuweście wprawdzie z ciosanego kamienia nabudowali, ale nie będziecie w nich mieszkać; winnic rozkosznych nasadziliście, ale wina z nich pić nie będziecie."
+"Przetoż, iż uciskacie ubogiego, a brzemię zboża bierzecie od niego, domuweście wprawdzie z ciosanego kamienia nabudowali, ale #nie będziecie w nich mieszkać; winnic rozkosznych nasadziliście, ale wina z nich pić nie będziecie."
 "Bo wiem o wielkich przestępstwach waszych, i srogich grzechach waszych, że ciemiężycie sprawiedliwego, biorąc poczty, a ubogich sprawy w bramie podwracacie."
 "Przetoż roztropny czasu onego milczeć musi; bo czas zły jest."
 "Szukajcie dobrego a nie złego, abyście żyli; a będzie tak Pan Bóg zastępów z wami, jako mówicie."

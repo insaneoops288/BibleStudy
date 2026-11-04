@@ -1,5 +1,5 @@
 "En Petrus en Johannes het saam na die tempel opgegaan op die uur van die gebed, die negende uur."
-"En daar is 'n sekere man aangedra wat van sy geboorte af kreupel was; hulle het hom elke dag neergesit by die tempelpoort wat die Skone genoem word, om 'n aalmoes te vra van die wat in die tempel ingaan."
+"En daar is 'n sekere man aangedra wat van sy geboorte af kreupel was; hulle het hom elke dag neergesit by #die tempelpoort wat die Skone genoem word, om 'n aalmoes te vra van die wat in die tempel ingaan."
 "Toe hy sien dat Petrus en Johannes die tempel wou binnegaan, het hy om 'n aalmoes gevra."
 "En Petrus saam met Johannes het hom stip aangekyk en gesê
 "En hy het sy oë op hulle gehou in die verwagting dat hy iets van hulle sou ontvang."
@@ -13,7 +13,7 @@
 "Die God van Abraham en Isak en Jakob, die God van ons vaders, het sy Kind Jesus verheerlik, Hom wat julle oorgelewer en voor Pilatus verloën het toe hy besluit het om Hom los te laat."
 "En julle het die Heilige en Regverdige verloën en gevra dat 'n moordenaar aan julle geskenk sou word,"
 "en die Leidsman tot die lewe het julle gedood. God het Hom uit die dode opgewek, waarvan ons getuies is."
-"En deur die geloof in sy Naam het sy Naam hierdie man, wat julle sien en ken, sterk gemaak, en die geloof wat deur Hom is, het hom hierdie volkome gesondheid gegee in die teenwoordigheid van julle almal."
+"En deur die geloof in sy Naam het sy Naam hierdie man, wat julle sien en ken, sterk gemaak, en #die geloof wat deur Hom is, het hom hierdie volkome gesondheid gegee in die teenwoordigheid van julle almal."
 "En nou, broeders, ek weet dat julle dit in onwetendheid gedoen het, net soos julle owerstes;"
 "maar God het op dié manier vervul wat Hy tevore verkondig het deur die mond van al sy profete, dat die Christus sou ly."
 "Kom dan tot inkeer en bekeer julle, sodat julle sondes uitgewis kan word en tye van verkwikking van die aangesig van die Here mag kom,"

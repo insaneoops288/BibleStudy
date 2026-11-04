@@ -1,8 +1,8 @@
 "Und Jehova rief Mose, und er redete zu ihm aus dem Zelte der Zusammenkunft und sprach
 "Rede zu den Kindern Israel und sprich zu ihnen
-"Wenn seine Opfergabe ein Brandopfer ist vom Rindvieh, so soll er sie darbringen, ein Männliches ohne Fehl; an dem Eingang des Zeltes der Zusammenkunft soll er sie darbringen, zum Wohlgefallen für ihn vor Jehova."
+"Wenn seine Opfergabe ein Brandopfer ist vom Rindvieh, so soll er sie darbringen, ein Männliches ohne Fehl; an #dem Eingang des Zeltes der Zusammenkunft soll er sie darbringen, zum Wohlgefallen für ihn vor Jehova."
 "Und er soll seine Hand auf den Kopf des Brandopfers legen, und es wird wohlgefällig für ihn sein, um Sühnung für ihn zu tun."
-"Und er soll das junge Rind schlachten vor Jehova; und die Söhne Aarons, die Priester, sollen das Blut herzubringen und das Blut ringsum an den Altar sprengen, der an dem Eingang des Zeltes der Zusammenkunft ist."
+"Und er soll das junge Rind schlachten vor Jehova; und die Söhne Aarons, die Priester, sollen das Blut herzubringen #und das Blut ringsum an den Altar sprengen, der an dem Eingang des Zeltes der Zusammenkunft ist."
 "Und er soll dem Brandopfer die Haut abziehen und es in seine Stücke zerlegen."
 "Und die Söhne Aarons, des Priesters, sollen Feuer auf den Altar legen und Holz auf dem Feuer zurichten;"
 "und die Söhne Aarons, die Priester, sollen die Stücke, den Kopf und das Fett auf dem Holze zurichtenüber dem Feuer, das auf dem Altar ist."

@@ -12,7 +12,7 @@
 "Mert nem ajánljuk ismét magunkat néktek, hanem alkalmat adunk ti néktek a velünk való dicsekedésre, hogy legyen mit felelnetek a színbõl és nem szívbõl dicsekedõknek."
 "Ha azért bolondok vagyunk, Istenért; ha eszesek vagyunk, érettetek van [az.]"
 "Mert a Krisztusnak szerelme szorongat minket,"
-"Úgy vélekedvén, hogy ha egy meghalt mindenkiért, tehát mindazok meghaltak; és azért halt meg mindenkiért, hogy a kik élnek, ezután ne magoknak éljenek, hanem annak, a ki érettök meghalt és feltámasztatott."
+"Úgy vélekedvén, hogy ha egy meghalt mindenkiért, tehát mindazok meghaltak; és azért halt meg mindenkiért, hogy #a kik élnek, ezután ne magoknak éljenek, hanem annak, a ki érettök meghalt és feltámasztatott."
 "Azért mi ezentúl senkit sem ismerünk test szerint; sõt ha ismertük is Krisztust test szerint, de már többé nem ismerjük."
 "Azért ha valaki Krisztusban van, új teremtés [az]; a régiek elmúltak, ímé, újjá lett minden."
 "Mindez pedig Istentõl van, a ki minket magával megbékéltetett a Jézus Krisztus által, és a ki nékünk adta a békéltetés szolgálatát;"

@@ -31,14 +31,14 @@
 "Jésus leur dit
 "Ils partirent donc dans une barque, pour aller à l'écart dans un lieu désert."
 "Beaucoup de gens les virent s'en aller et les reconnurent, et de toutes les villes on accourut à pied et on les devança au lieu où ils se rendaient."
-"Quand il sortit de la barque, Jésus vit une grande foule, et fut ému de compassion pour eux, parce qu'ils étaient comme des brebis qui n'ont point de berger; et il se mit à leur enseigner beaucoup de choses."
+"Quand il sortit de la barque, Jésus vit une grande foule, et fut ému de compassion pour eux, parce qu'ils #étaient comme des brebis qui n'ont point de berger; et il se mit à leur enseigner beaucoup de choses."
 "Comme l'heure était déjà avancée, ses disciples s'approchèrent de lui, et dirent
 "renvoie-les, afin qu'ils aillent dans les campagnes et dans les villages des environs, pour s'acheter de quoi manger."
 "Jésus leur répondit
 "Et il leur dit
 "Alors il leur commanda de les faire tous asseoir par groupes sur l'herbe verte,"
 "et ils s'assirent par rangées de cent et de cinquante."
-"Il prit les cinq pains et les deux poissons et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les pains, et les donna aux disciples, afin qu'ils les distribuassent à la foule. Il partagea aussi les deux poissons entre tous."
+"Il prit les cinq pains et les deux poissons et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les #pains, et les donna aux disciples, afin qu'ils les distribuassent à la foule. Il partagea aussi les deux poissons entre tous."
 "Tous mangèrent et furent rassasiés,"
 "et l'on emporta douze paniers pleins de morceaux de pain et de ce qui restait des poissons."
 "Ceux qui avaient mangé les pains étaient cinq mille hommes."
@@ -53,4 +53,4 @@
 "Après avoir traversé la mer, ils vinrent dans le pays de Génésareth, et ils abordèrent."
 "Quand ils furent sortis de la barque, les gens, ayant aussitôt reconnu Jésus,"
 "parcoururent tous les environs, et l'on se mit à apporter les malades sur des lits, partout où l'on apprenait qu'il était."
-"En quelque lieu qu'il arrivât, dans les villages, dans les villes ou dans les campagnes, on mettait les malades sur les places publiques, et on le priait de leur permettre seulement de toucher le bord de son vêtement. Et tous ceux qui le touchaient étaient guéris."
+"En quelque lieu qu'il arrivât, dans les villages, dans les villes ou dans les campagnes, on mettait les malades sur les places publiques, et #on le priait de leur permettre seulement de toucher le bord de son vêtement. Et tous ceux qui le touchaient étaient guéris."

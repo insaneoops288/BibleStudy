@@ -9,7 +9,7 @@
 "Dávid is felkelt ezután, és kiment a barlangból, és Saul után kiálta, mondván
 "És monda Dávid Saulnak
 "Ímé a mai napon látták a te szemeid, hogy az Úr téged kezembe adott ma a barlangban, és azt mondották, hogy öljelek meg téged, de én kedvezék néked, és azt mondám
-"Azért atyám! nézd, ugyan nézd felsõ ruhádnak szárnyát kezemben, mert mikor levágtam felsõ ruhádnak szárnyát, nem öltelek meg téged! Azért tudd meg és lássad, hogy nincsen az én kezemben hamisság és semmi gonoszság és nem vétkeztem ellened, de te mégis életem után leselkedel, hogy elveszessed azt."
+"Azért atyám! nézd, ugyan nézd felsõ ruhádnak szárnyát kezemben, mert mikor levágtam felsõ ruhádnak szárnyát, nem öltelek meg téged! Azért tudd meg és lássad, #hogy nincsen az én kezemben hamisság és semmi gonoszság és nem vétkeztem ellened, de te mégis életem után leselkedel, hogy elveszessed azt."
 "Az Úr tegyen ítéletet közöttem és közötted, és álljon bosszút az Úr érettem rajtad, de az én kezem nem lesz ellened."
 "A mint a régi példabeszéd mondja
 "Ki ellen jött ki Izráelnek királya? Kit kergetsz? Egy holt ebet, vagy egy bolhát?"

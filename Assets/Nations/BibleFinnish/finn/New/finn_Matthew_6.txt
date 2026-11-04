@@ -2,7 +2,7 @@
 "Kuin siis almua annat, niin älä edelläs torvella soita, niinkuin ulkokullatut synagogissa ja kujilla tekevät, että he ihmisiltä kunnioitettaisiin. Totisesti sanon minä teille
 "Mutta kuin sinä almua annat, niin älköön vasen kätes tietäkö, mitä oikia kätes tekee,"
 "Että almus olis salaisuudessa, ja Isäs, joka salaisuudessa näkee, maksais sinulle julkisesti."
-"Ja kuin rukoilet, niin ei sinun pidä oleman niinkuin ulkokullatut; sillä he mielellänsä seisovat ja rukoilevat synagogissa ja kujain kulmissa, että he ihmisiltä nähtäisiin. Totisesti sanon minä teille
+"Ja kuin rukoilet, niin ei sinun pidä oleman niinkuin ulkokullatut; sillä he mielellänsä seisovat ja #rukoilevat synagogissa ja kujain kulmissa, että he ihmisiltä nähtäisiin. Totisesti sanon minä teille
 "Vaan kuin sinä rukoilet, niin mene kammioos, ja sulje oves, ja rukoile Isääs, joka on salaisuudessa
 "Ja kuin te rukoilette, niin älkää olko paljon puhuvaiset, niinkuin pakanat; sillä he luulevat heitä paljon puheensa tähden kuultavan."
 "Sentähden älkäät olko heidän kaltaisensa; sillä Isänne tietää kyllä, mitä tarvitsette, ennen kuin te häneltä rukoilettekaan."

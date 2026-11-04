@@ -20,5 +20,5 @@
 "Evitând aceasta, ca nimeni să nu ne învinovățească în această abundență care este administrată de noi;"
 "Îngrijind de cele oneste, nu numai înaintea Domnului, ci și înaintea oamenilor."
 "Și am trimis cu ei pe fratele nostru, [despre] care deseori noi am dovedit [că este ]sârguincios în multe, dar acum [se arată] mult mai sârguincios datorită marii încrederi pe care [o am] în voi."
-"Dacă se întreabă [cineva ]despre Titus, [el este] partenerul meu și conlucrător referitor la voi; sau, [dacă se întreabă despre] frații noștri, [ei sunt] mesagerii bisericilor[ și] gloria lui Cristos."
+"Dacă se întreabă [cineva ]despre Titus, [el este] partenerul meu și conlucrător referitor la voi; sau, #[dacă se întreabă despre] frații noștri, [ei sunt] mesagerii bisericilor[ și] gloria lui Cristos."
 "De aceea arătați pentru ei, și în fața bisericilor, dovada dragostei voastre și a falei noastre referitor la voi."

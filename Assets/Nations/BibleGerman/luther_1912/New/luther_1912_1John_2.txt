@@ -11,7 +11,7 @@
 "Wer aber seinen Bruder haßt, der ist in der Finsternis und wandelt in der Finsternis und weiß nicht, wo er hin geht; denn die Finsternis hat seine Augen verblendet."
 "Liebe Kindlein, ich schreibe euch; denn die Sünden sind euch vergeben durch seinen Namen."
 "Ich schreibe euch Vätern; denn ihr kennt den, der von Anfang ist. Ich schreibe euch Jünglingen; denn ihr habt den Bösewichtüberwunden."
-"Ich habe euch Kindern geschrieben; denn ihr kennet den Vater. Ich habe euch Vätern geschrieben; denn ihr kennt den, der von Anfang ist. Ich habe euch Jünglingen geschrieben; denn ihr seid stark, und das Wort Gottes bleibt bei euch, und ihr habt den Bösewichtüberwunden."
+"Ich habe euch Kindern geschrieben; denn ihr kennet den Vater. Ich habe euch Vätern geschrieben; denn ihr kennt den, der von Anfang ist. #Ich habe euch Jünglingen geschrieben; denn ihr seid stark, und das Wort Gottes bleibt bei euch, und ihr habt den Bösewichtüberwunden."
 "Habt nicht lieb die Welt noch was in der Welt ist. So jemand die Welt liebhat, in dem ist nicht die Liebe des Vaters."
 "Denn alles, was in der Welt ist
 "Und die Welt vergeht mit ihrer Lust; wer aber den Willen Gottes tut, der bleibt in Ewigkeit."
@@ -24,6 +24,6 @@
 "Was ihr nun gehört habt von Anfang, das bleibe bei euch. So bei euch bleibt, was ihr von Anfang gehört habt, so werdet ihr auch bei dem Sohn und dem Vater bleiben."
 "Und das ist die Verheißung, die er uns verheißen hat
 "Solches habe ich euch geschrieben von denen, die euch verführen."
-"Und die Salbung, die ihr von ihm empfangen habt, bleibt bei euch, und ihr bedürfet nicht, daß euch jemand lehre; sondern wie euch die Salbung alles lehrt, so ist's wahr und ist keine Lüge, und wie sie euch gelehrt hat, so bleibet bei ihm."
+"Und die Salbung, die ihr von ihm empfangen habt, bleibt bei euch, und ihr bedürfet nicht, daß euch jemand lehre; sondern wie euch #die Salbung alles lehrt, so ist's wahr und ist keine Lüge, und wie sie euch gelehrt hat, so bleibet bei ihm."
 "Und nun, Kindlein, bleibet bei ihm, auf daß, wenn er offenbart wird, wir Freudigkeit haben und nicht zu Schanden werden vor ihm bei seiner Zukunft."
 "So ihr wisset, daß er gerecht ist, so erkennet ihr auch, daß, wer recht tut, der ist von ihm geboren."

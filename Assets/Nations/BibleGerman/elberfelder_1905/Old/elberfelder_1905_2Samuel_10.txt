@@ -3,7 +3,7 @@
 "Da sprachen die Fürsten der Kinder Ammon zu Hanun, ihrem Herrn
 "Da nahm Hanun die Knechte Davids und ließ ihnen die Hälfte des Bartes abscheren und ihre Oberkleider zur Hälfte abschneiden, bis an ihre Gesäße; und er entließ sie."
 "Und man berichtete es dem David. Da sandte er ihnen entgegen, denn die Männer schämten sich sehr; und der König ließ ihnen sagen
-"Als nun die Kinder Ammon sahen, daß sie sich bei David stinkend gemacht hatten, da sandten die Kinder Ammon hin und dingten die Syrer von Beth-Rechob und die Syrer von Zoba, zwanzigtausend Mann zu Fuß, und den König von Maaka, tausend Mann, und die Männer von Tob, zwölftausend Mann."
+"Als nun die Kinder Ammon sahen, daß sie sich bei David stinkend gemacht hatten, da sandten die Kinder Ammon hin und dingten die Syrer von #Beth-Rechob und die Syrer von Zoba, zwanzigtausend Mann zu Fuß, und den König von Maaka, tausend Mann, und die Männer von Tob, zwölftausend Mann."
 "Und als David es hörte, sandte er Joab hin und das ganze Heer, die Helden."
 "Und die Kinder Ammon zogen aus und stellten sich am Eingang des Tores in Schlachtordnung auf; und die Syrer von Zoba und Rechob und die Männer von Tob und Maaka waren für sich auf dem Felde."
 "Und als Joab sah, daß der Streit von vorn und von hinten gegen ihn gerichtet war, da erwählte er von allen Auserlesenen Israels und stellte sich auf, den Syrern gegenüber;"
@@ -16,4 +16,4 @@
 "Und Hadareser sandte hin und ließ die Syrer ausziehen, die jenseit des Stromes waren; und sie kamen nach Helam, und Schobak, der Heeroberste Hadaresers, vor ihnen her."
 "Und es wurde David berichtet; da versammelte er ganz Israel und gingüber den Jordan und kam nach Helam; und die Syrer stellten sich David gegenüber auf und stritten mit ihm."
 "Und die Syrer flohen vor Israel, und David tötete von den Syrern siebenhundert Wagenkämpfer und vierzigtausend Reiter; und er erschlug Schobak, ihren Heerobersten, und er starb daselbst."
-"Und als alle die Könige, welche Knechte Hadaresers waren, sahen, daß sie vor Israel geschlagen waren, da machten sie Frieden mit Israel und dienten ihnen. Und die Syrer fürchteten sich, den Kindern Ammon fernerhin zu helfen."
+"Und als alle die Könige, welche Knechte Hadaresers waren, sahen, daß sie vor Israel geschlagen waren, da machten sie #Frieden mit Israel und dienten ihnen. Und die Syrer fürchteten sich, den Kindern Ammon fernerhin zu helfen."

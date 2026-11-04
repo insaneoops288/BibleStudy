@@ -29,7 +29,7 @@
 "Jesus antwortete und sprach
 "der nicht hundertfältig empfange
 "Viele aber werden die Letzten sein, die die Ersten sind, und die Ersten sein, die die Letzten sind."
-"Sie waren aber auf dem Wege und gingen hinauf gen Jerusalem; und Jesus ging vor ihnen, und sie entsetzten sich, folgten ihm nach und fürchteten sich. Und Jesus nahm abermals zu sich die Zwölf und sagte ihnen, was ihm widerfahren würde
+"Sie waren aber auf dem Wege und gingen hinauf gen Jerusalem; und Jesus ging vor ihnen, und sie entsetzten sich, folgten #ihm nach und fürchteten sich. Und Jesus nahm abermals zu sich die Zwölf und sagte ihnen, was ihm widerfahren würde
 "Siehe, wir gehen hinauf gen Jerusalem, und des Menschen Sohn wirdüberantwortet werden den Hohenpriestern und Schriftgelehrten; und sie werden ihn verdammen zum Tode undüberantworten den Heiden."
 "Die werden ihn verspotten und geißeln und verspeien und töten; und am dritten Tag wird er auferstehen."
 "Da gingen zu ihm Jakobus und Johannes, die Söhne des Zebedäus, und sprachen

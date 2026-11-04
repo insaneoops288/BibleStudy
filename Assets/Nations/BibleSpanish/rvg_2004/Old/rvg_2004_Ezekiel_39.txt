@@ -8,7 +8,7 @@
 "He aquí, ha venido, y se ha cumplido, dice Jehová el Señor; éste es el día del cual he hablado."
 "Y los moradores de las ciudades de Israel saldrán, y encenderán y quemarán armas, y escudos, y paveses, arcos y saetas, y bastones de mano, y lanzas; y las quemarán en fuego por siete años."
 "Y no traerán leña del campo, ni cortarán de los bosques, sino que quemarán las armas en el fuego; y despojarán a sus despojadores, y robarán a los que los robaron, dice Jehová el Señor."
-"Y será en aquel tiempo, que yo daré a Gog lugar para sepultura allí en Israel, el valle de los que pasan al oriente del mar, y obstruirá el paso a los transeúntes, pues allí enterrarán a Gog y a toda su multitud; y lo llamarán, el Valle de Hamón-gog."
+"Y será en aquel tiempo, que yo daré a Gog lugar para sepultura allí en Israel, el valle de los que pasan al oriente del mar, #y obstruirá el paso a los transeúntes, pues allí enterrarán a Gog y a toda su multitud; y lo llamarán, el Valle de Hamón-gog."
 "Y la casa de Israel los estará enterrando por siete meses, para limpiar la tierra
 "Todo el pueblo de la tierra los enterrará; y será célebre para ellos el día que yo sea glorificado, dice Jehová el Señor."
 "Y tomarán hombres a jornal, que vayan por el país con los que viajen, para enterrar a los que queden sobre la faz de la tierra, a fin de limpiarla; al cabo de siete meses harán el reconocimiento."
@@ -20,7 +20,7 @@
 "Y os hartaréis sobre mi mesa, de caballos, y de jinetes fuertes, y de todos los hombres de guerra, dice Jehová el Señor."
 "Y pondré mi gloria entre las naciones, y todas las naciones verán mi juicio que habré hecho, y mi mano que sobre ellos puse."
 "Y de aquel día en adelante sabrá la casa de Israel que yo soy Jehová su Dios."
-"Y sabrán las naciones que la casa de Israel fue llevada cautiva por su pecado; por cuanto se rebelaron contra mí, y yo escondí de ellos mi rostro, y los entregué en mano de sus enemigos, y cayeron todos a espada."
+"Y sabrán las naciones que la casa de Israel fue llevada cautiva por su pecado; por cuanto se rebelaron contra mí, #y yo escondí de ellos mi rostro, y los entregué en mano de sus enemigos, y cayeron todos a espada."
 "Conforme a su inmundicia y conforme a sus rebeliones hice con ellos; y de ellos escondí mi rostro."
 "Por tanto, así dice Jehová el Señor
 "Y ellos sentirán su vergüenza, y toda su rebelión con que prevaricaron contra mí, cuando habiten seguros en su tierra, sin que nadie los espante;"

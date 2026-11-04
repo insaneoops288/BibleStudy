@@ -8,13 +8,13 @@
 "Niin tekivät teidän isännekin, koska minä lähetin heidät KadesBarneasta katsomaan tätä maata,"
 "Ja kuin he tulivat Eskolin ojalle ja näkivät maan, käänsivät he Israelin lasten sydämen, niin ettei he siihen maahan tahtoneet mennä, jonka Herra heille tahtoi antaa."
 "Ja Herran viha julmistui sinä päivänä ja hän vannoi, sanoen
-"Tämä kansa, joka Egyptistä lähtenyt on, kahdenkymmenen vuoden vanhasta ja sen ylitse, ei suinkaan pidä näkemän sitä maata, jonka minä Abrahamille, Isaakille ja Jakobille vannonut olen, ettei he minua uskollisesti seuranneet,"
+"Tämä kansa, joka Egyptistä lähtenyt on, kahdenkymmenen vuoden vanhasta ja sen ylitse, ei suinkaan pidä näkemän #sitä maata, jonka minä Abrahamille, Isaakille ja Jakobille vannonut olen, ettei he minua uskollisesti seuranneet,"
 "Paitsi Kalebia Jephunnen Kenisiläisen poikaa, ja Josuaa Nunin poikaa; sillä he uskollisesti seurasivat Herraa."
 "Niin Herran viha julmistui Israelissa, ja laski heidät menemään korpeen sinne ja tänne neljäksikymmeneksi vuodeksi, siihenasti kuin kaikki se sukukunta hukkui, joka Herran edessä pahaa tehnyt oli."
 "Ja katso, te olette nousseet isäinne siaan, syntisten joukko, lisäämään vielä Herran vihan julmuutta Israelia vastaan;"
 "Sillä jos te käännytte hänestä pois, niin hän antaa teidän enemmän aikaa viipyä korvessa, ja niin te turmelette kaiken tämän kansan."
 "Niin he kävivät edes ja sanoivat
-"Mutta me tahdomme olla joudukkaat varustettuina käymään Israelin lasten edellä, siihenasti että me johdatamme heitä sioillensa; vaan lapsemme ovat näissä vahvoissa kaupungeissa maan asuvaisten tähden."
+"Mutta me tahdomme olla joudukkaat varustettuina käymään Israelin lasten edellä, siihenasti että me #johdatamme heitä sioillensa; vaan lapsemme ovat näissä vahvoissa kaupungeissa maan asuvaisten tähden."
 "Emme myös palaja huoneisiimme, siihenasti että Israelin lapset itsekukin saavat perintönsä."
 "Sillä emme tahdo heidän kanssa periä toisella puolella Jordania eli etempää; vaan meidän perintömme olkoon tällä puolella Jordania itään päin."
 "Ja Moses sanoi heille

@@ -26,7 +26,7 @@
 "Maka jawab tuannya, serta berkata kepadanya
 "sebab itu, wajiblah engkau menyerahkan uangku kepada orang yang menjalankan uang, supaya apabila aku datang kelak, boleh aku mendapat uangku kembali beserta dengan bunganya."
 "Sebab itu ambillah daripadanya talenta itu, berikanlah kepada orang yang menaruh sepuluh talenta itu."
-"Karena barangsiapa yang mempunyai barang sesuatu, kepadanya akan diberi lagi, dan ia akan beroleh dengan limpahnya; tetapi barangsiapa yang tiada mempunyai sesuatu itu, maka daripadanya juga akan diambil barang yang ada padanya;"
+"Karena barangsiapa yang mempunyai barang sesuatu, kepadanya akan diberi lagi, dan ia akan beroleh dengan limpahnya; tetapi #barangsiapa yang tiada mempunyai sesuatu itu, maka daripadanya juga akan diambil barang yang ada padanya;"
 "maka hamba yang tiada berguna itu, buangkanlah ke dalam gelap yang di luar; di sanalah kelak tangisan dan kertak gigi."""
 """Apabila Anak manusia datang kelak dengan kemuliaan-Nya, dan segala malaekat-Nya pun serta-Nya, lalu Ia akan duduk di atas takhta kemuliaan-Nya;"
 "maka sekalian bangsa manusia pun akan dihimpunkan di hadapan-Nya, dan Ia akan mengasingkan mereka itu seorang daripada seorang, sama seperti gembala mengasingkan domba daripada kambing."

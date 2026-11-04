@@ -15,12 +15,12 @@
 "Ci cu [acela ]care stă în picioare aici astăzi cu noi înaintea DOMNULUI Dumnezeul nostru şi de asemenea cu [cel] care nu [este ]astăzi aici, cu noi,"
 "(Pentru că ştiţi cum am locuit noi în ţara Egiptului; şi cum am trecut prin mijlocul naţiunilor printre care aţi trecut;"
 "Şi aţi văzut urâciunile lor şi idolii lor, lemn şi piatră, argint şi aur, care [erau] printre ei),"
-"Ca nu cumva să fie între voi vreun bărbat, sau femeie sau familie sau trib, a cărui inimă să se întoarcă astăzi de la DOMNUL Dumnezeul nostru, ca să meargă [şi ]să servească dumnezeilor acestor naţiuni, ca nu cumva să fie între voi o rădăcină care aduce fiere şi pelin;"
+"Ca nu cumva să fie între voi vreun bărbat, sau femeie sau familie sau trib, a cărui inimă să se întoarcă astăzi de la DOMNUL Dumnezeul #nostru, ca să meargă [şi ]să servească dumnezeilor acestor naţiuni, ca nu cumva să fie între voi o rădăcină care aduce fiere şi pelin;"
 "Şi să se întâmple, când aude cuvintele acestui blestem, să se binecuvânteze singur în inima sa, spunând
-"DOMNUL nu îl va scuti, ci furia DOMNULUI şi gelozia lui vor fumega împotriva acelui bărbat şi vor veni peste el toate blestemele care sunt scrise în cartea aceasta şi DOMNUL îi va şterge numele de sub cer."
+"DOMNUL nu îl va scuti, ci furia DOMNULUI şi gelozia lui vor fumega împotriva acelui bărbat şi vor veni peste #el toate blestemele care sunt scrise în cartea aceasta şi DOMNUL îi va şterge numele de sub cer."
 "Şi DOMNUL îl va separa ca rău dintre toate triburile lui Israel, conform cu toate blestemele legământului care sunt scrise în cartea aceasta a legii,"
-"Astfel încât generaţia care va veni din copiii voştri, care se va ridica după voi şi străinul care va veni dintr-o ţară îndepărtată, vor spune când vor vedea plăgile ţării acesteia şi bolile pe care DOMNUL le-a pus pe ea;"
-"[Şi că] toată ţara ei [este] pucioasă şi sare, arzând, că nu este semănată, nici nu rodeşte, nici nu creşte vreo iarbă în ea, ca dărâmarea Sodomei şi Gomorei, Admei şi Ţeboimului, pe care le-a dărâmat DOMNUL în furia sa şi în mânia sa,"
+"Astfel încât generaţia care va veni din copiii voştri, care se va ridica după voi şi străinul care va veni dintr-o #ţară îndepărtată, vor spune când vor vedea plăgile ţării acesteia şi bolile pe care DOMNUL le-a pus pe ea;"
+"[Şi că] toată ţara ei [este] pucioasă şi sare, arzând, că nu este semănată, nici nu rodeşte, nici nu creşte vreo iarbă în #ea, ca dărâmarea Sodomei şi Gomorei, Admei şi Ţeboimului, pe care le-a dărâmat DOMNUL în furia sa şi în mânia sa,"
 "Chiar toate naţiunile vor spune
 "Atunci ei vor spune
 "Fiindcă au mers şi au servit altor dumnezei şi li s-au închinat, dumnezei pe care ei nu i-au cunoscut şi el nu li i-a dat,"

@@ -18,4 +18,4 @@
 "A pitvar hossza száz sing, és szélessége ötven-ötven, magassága pedig öt sing; [leplei] sodrott lenbõl, talpai pedig rézbõl legyenek."
 "A hajlék minden edénye, az ahhoz való mindennemû szolgálatban, és minden szege, és a pitvarnak is minden szege rézbõl legyen."
 "Te pedig parancsold meg az Izráel fiainak, hogy hozzanak néked tiszta faolajat, a melyet a világításhoz sajtoltak, hogy szünet nélkül égõ lámpát gyujthassanak."
-"A gyülekezet sátorában a függönyön kivül, a mely a bizonyság elõtt van, készítsék el azt Áron és az õ fiai, estvétõl fogva reggelig az Úr elõtt. Örök rendtartás [legyen] [ez] az õ nemzetségöknél Izráel fiai között."
+"A gyülekezet sátorában a függönyön kivül, a mely a bizonyság elõtt van, készítsék el azt Áron és az õ #fiai, estvétõl fogva reggelig az Úr elõtt. Örök rendtartás [legyen] [ez] az õ nemzetségöknél Izráel fiai között."

@@ -1,10 +1,10 @@
 "E quando repartirdes por sortes a terra em herança, proporcionareis uma oferta ao SENHOR
 "Deste [terreno] serão para o santuário quinhentas [canas] de comprimento, e quinhentas de largura, em quadrado ao redor; terá cinquenta côvados ao redor para seus espaços abertos."
 "E desta medida medirás o comprimento de vinte e cinco mil [côvados] , e a largura de dez mil; e ali estará o santuário, [e] o lugar santíssimo."
-"Este será o lugar santo da terra. Eles será para os sacerdotes que trabalham no santuário, que se achegam para servir ao SENHOR; e lhes servirá de lugar para casas, e de lugar santo para o santuário."
+"Este será o lugar santo da terra. Eles será para os sacerdotes que trabalham no santuário, que se achegam #para servir ao SENHOR; e lhes servirá de lugar para casas, e de lugar santo para o santuário."
 "E os levitas trabalhadores do templo terão como propriedade [uma área de] vinte e cinco mil [côvados] de comprimento, e dez mil de largura, com vinte câmaras."
 "E [para] propriedade da cidade dareis cinco mil [canas] de largura e vinte e cinco mil de comprimento, em frente da oferta para o santuário; [esta] será para toda a casa de Israel."
-"E o príncipe terá [sua parte] de um lado e do outro da oferta ao santuário e da propriedade da cidade, diante da oferta para o santuário, e diante da propriedade da cidade, desde o canto ocidental para o ocidente, e desde o canto oriental para o oriente; e será o comprimento, em frente de uma das partes, desde o limite ocidental até o limite oriental."
+"E o príncipe terá [sua parte] de um lado e do outro da oferta ao santuário e da propriedade da cidade, diante da oferta para o santuário, e diante da propriedade da cidade, desde #o canto ocidental para o ocidente, e desde o canto oriental para o oriente; e será o comprimento, em frente de uma das partes, desde o limite ocidental até o limite oriental."
 "Esta terra será sua propriedade em Israel, e meus príncipes nunca mais oprimirão a meu povo; ao invés disso entregarão a terra para a casa de Israel, conforme suas tribos."
 "Assim diz o Senhor DEUS
 "Tereis balanças justas, efa justo, e bato justo."
@@ -14,7 +14,7 @@
 "E quanto ao estatuto do azeite, [oferecereis] um bato de azeite, (o bato que é a décima parte de um coro, [que] é um ômer de dez batos; porque dez batos são um ômer)."
 "E uma cordeira de cada duzentas do rebanho, da mais regada terra de Israel, para oferta de alimento, para oferta de queima e oferta de gratidão, para fazer expiação por eles, diz o Senhor DEUS."
 "Todo o povo do país terá que dar esta oferta para o príncipe de Israel."
-"E o príncipe terá que dar as ofertas de queima, as ofertas de alimento, e as ofertas de bebidas, nas solenidades, nas luas novas, nos sábados, e em todas as festas da casa de Israel; ele fará a expiação pelo pecado, a oferta de alimento, a oferta de queima, e as ofertas de gratidão, para fazer expiação pela casa de Israel."
+"E o príncipe terá que dar as ofertas de queima, as ofertas de alimento, e as ofertas de bebidas, nas solenidades, nas luas novas, nos sábados, e em todas as festas #da casa de Israel; ele fará a expiação pelo pecado, a oferta de alimento, a oferta de queima, e as ofertas de gratidão, para fazer expiação pela casa de Israel."
 "Assim diz o Senhor DEUS
 "E o sacerdote tomará do sangue do sacrifício pela expiação, e porá [dele] sobre os umbrais da casa, e sobre as quatro pontas da aresta do altar, e sobre os umbrais da porta do pátio interno."
 "Assim também farás no sétimo [dia] do mês pelos que pecaram sem intenção ou por ignorância; assim expiarás a casa."

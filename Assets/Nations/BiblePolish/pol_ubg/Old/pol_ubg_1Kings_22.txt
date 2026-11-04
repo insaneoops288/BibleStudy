@@ -40,7 +40,7 @@
 "I Achab zasnął ze swymi ojcami, a królował jego syn Achazjasz w jego miejsce."
 "A Jehoszafat, syn Asy, zaczął królować nad Judą w czwartym roku Achaba, króla Izraela."
 "Jehoszafat miał trzydzieści pięć lat, gdy zaczął królować, a dwadzieścia pięć lat królował w Jerozolimie. Jego matka miała na imię Azuba i była córką Szilchiego."
-"I szedł wszystkimi drogami Asy, swego ojca, i nie zboczył z nich, czyniąc to, co było dobre w oczach PANA. Jednak wyżyn nie usunięto. Lud bowiem jeszcze składał ofiary i palił kadzidło na wyżynach."
+"I szedł wszystkimi drogami Asy, swego ojca, i nie zboczył z nich, czyniąc to, co było dobre w #oczach PANA. Jednak wyżyn nie usunięto. Lud bowiem jeszcze składał ofiary i palił kadzidło na wyżynach."
 "Jehoszafat także zawarł pokój z królem Izraela."
 "A pozostałe sprawy Jehoszafata i jego potęga, którą pokazywał, i to, jak walczył – czyż nie są zapisane w kronikach królów Judy?"
 "Usunął też z ziemi resztę sodomitów, którzy pozostali za dni Asy, jego ojca."

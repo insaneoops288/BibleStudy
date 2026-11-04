@@ -10,12 +10,12 @@
 "Und wer etwas heiligt, das soll auch sein sein; und wer etwas dem Priester gibt, das soll auch sein sein."
 "Und der HERR redete mit Mose und sprach
 "Sage den Kindern Israel und sprich zu ihnen
-"und jemand bei ihr liegt, und es würde doch dem Manne verborgen vor seinen Augen und würde entdeckt, daß sie unrein geworden ist, und er kann sie nichtüberführen, denn sie ist nicht dabei ergriffen,{~}"
+"und jemand bei ihr liegt, und es würde doch dem Manne verborgen vor seinen Augen und würde entdeckt, #daß sie unrein geworden ist, und er kann sie nichtüberführen, denn sie ist nicht dabei ergriffen,{~}"
 "und der Eifergeist entzündet ihn, daß er um sein Weib eifert, sie sei unrein oder nicht unrein,{~}{~}{~}{~}{~}"
-"so soll er sie zum Priester bringen und ein Opferüber sie bringen, ein zehntel Epha Gerstenmehl, und soll keinÖl darauf gießen noch Weihrauch darauf tun. Denn es ist ein Eiferopfer und Rügeopfer, das Missetat rügt."
+"so soll er sie zum Priester bringen und ein Opferüber sie bringen, ein zehntel Epha Gerstenmehl, und soll #keinÖl darauf gießen noch Weihrauch darauf tun. Denn es ist ein Eiferopfer und Rügeopfer, das Missetat rügt."
 "Da soll der Priester sie herzuführen und vor den HERRN stellen"
 "und heiliges Wasser nehmen in ein irdenes Gefäß und Staub vom Boden der Wohnung ins Wasser tun.{~}{~}{~}"
-"Und soll das Weib vor den HERRN stellen und ihr Haupt entblößen und das Rügeopfer, das ein Eiferopfer ist, auf ihre Hand legen; und der Priester soll in seiner Hand bitteres verfluchtes Wasser haben{~}"
+"Und soll das Weib vor den HERRN stellen und ihr Haupt entblößen und das Rügeopfer, das ein Eiferopfer #ist, auf ihre Hand legen; und der Priester soll in seiner Hand bitteres verfluchtes Wasser haben{~}"
 "und soll das Weib beschwören und zu ihr sagen
 "Wo du aber deinem Mann untreu geworden bist, daß du unrein wurdest, und hat jemand bei dir gelegen außer deinem Mann,"
 "so soll der Priester das Weib beschwören mit solchem Fluch und soll zu ihr sagen

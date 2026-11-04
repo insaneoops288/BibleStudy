@@ -11,4 +11,4 @@
 "Finalmente, hermanos, gozaos, sed perfectos, tened consolación, sed de una misma mente, tened paz; y el Dios de amor y paz será con vosotros."
 "Saludaos los unos a los otros con ósculo santo."
 "Todos los santos os saludan."
-"La gracia del Señor Jesucristo, y el amor de Dios, y la comunión del Espíritu Santo sea con todos vosotros. Amén.[Segunda epístola a los corintios. Fue enviada de Filipos de Macedonia con Tito y Lucas.]"
+"La gracia del Señor Jesucristo, y el amor de Dios, y la comunión del Espíritu Santo sea con #todos vosotros. Amén.[Segunda epístola a los corintios. Fue enviada de Filipos de Macedonia con Tito y Lucas.]"

@@ -12,7 +12,7 @@
 "Car on donnera à celui qui a, et il aura encore davantage; mais pour celui qui n'a pas, on lui ôtera même ce qu'il a."
 "C'est à cause de cela que je leur parle en similitudes, parce qu'en voyant ils ne voient point, et qu'en entendant ils n'entendent et ne comprennent point."
 "Ainsi s'accomplit en eux la prophétie d'Ésaïe, qui dit
-"Car le cœur de ce peuple est appesanti; ils entendent dur de leurs oreilles, ils ont fermé les yeux, de peur qu'ils ne voient de leurs yeux, et qu'ils n'entendent de leurs oreilles, et qu'ils ne comprennent du cœur, et qu'ils ne se convertissent, et que je ne les guérisse."
+"Car le cœur de ce peuple est appesanti; ils entendent dur de leurs oreilles, ils ont fermé les yeux, de peur qu'ils ne voient de leurs #yeux, et qu'ils n'entendent de leurs oreilles, et qu'ils ne comprennent du cœur, et qu'ils ne se convertissent, et que je ne les guérisse."
 "Mais vous êtes heureux d'avoir des yeux qui voient et des oreilles qui entendent."
 "Car je vous dis en vérité que plusieurs prophètes et justes ont désiré de voir ce que vous voyez, et ne l'ont pas vu; et d'entendre ce que vous entendez, et ne l'ont pas entendu."
 "Vous donc entendez la parabole du semeur
@@ -20,7 +20,7 @@
 "Et celui qui a reçu la semence dans des endroits pierreux, c'est celui qui entend la parole, et qui la reçoit aussitôt avec joie;"
 "Mais il n'a point de racine en lui-même, il ne dure qu'un moment, et lorsque l'affliction ou la persécution survient à cause de la parole, il se scandalise aussitôt."
 "Et celui qui a reçu la semence parmi les épines, c'est celui qui entend la parole; mais les soucis de ce monde et la séduction des richesses étouffent la parole, et elle devient infructueuse."
-"Mais celui qui a reçu la semence dans une bonne terre, c'est celui qui entend la parole, et qui la comprend, et qui porte du fruit; en sorte qu'un grain en produit cent, un autre soixante, et un autre trente."
+"Mais celui qui a reçu la semence dans une bonne terre, c'est celui qui entend la parole, et qui la comprend, #et qui porte du fruit; en sorte qu'un grain en produit cent, un autre soixante, et un autre trente."
 "Jésus leur proposa une autre parabole, en disant
 "Mais pendant que les hommes dormaient, son ennemi vint, qui sema de l'ivraie parmi le blé, et s'en alla."
 "Et après que la semence eut poussé, et qu'elle eut produit du fruit, l'ivraie parut aussi."
@@ -29,7 +29,7 @@
 "Et il dit
 "Laissez-les croître tous deux ensemble jusqu'à la moisson; et au temps de la moisson, je dirai aux moissonneurs
 "Il leur proposa une autre parabole, en disant
-"Ce grain est la plus petite de toutes les semences; mais quand il a crû, il est plus grand que les légumes, et il devient un arbre; tellement que les oiseaux du ciel viennent habiter dans ses branches."
+"Ce grain est la plus petite de toutes les semences; mais quand il a crû, il est plus grand que #les légumes, et il devient un arbre; tellement que les oiseaux du ciel viennent habiter dans ses branches."
 "Il leur dit une autre parabole
 "Jésus dit toutes ces choses au peuple en similitudes, et il ne leur parlait point sans similitudes."
 "De sorte que ce qui avait été dit par le prophète en ces termes, fut accompli

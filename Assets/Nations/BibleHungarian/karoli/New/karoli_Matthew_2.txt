@@ -13,7 +13,7 @@
 "Mikor pedig azok visszatérnek vala, ímé megjelenék az Úrnak angyala Józsefnek álomban, és monda
 "Õ pedig fölkelvén, vevé a gyermeket és annak anyját éjjel, és Égyiptomba távozék."
 "És ott vala egész a Heródes haláláig, hogy beteljesedjék, a mit az Úr mondott a próféta által, a ki így szólt
-"Ekkor Heródes látván, hogy a bölcsek megcsúfolták õt, szerfölött felháborodék, és kiküldvén, megölete Bethlehemben és annak egész környékén minden gyermeket, két esztendõstõl és azon alól, az idõ szerint, a melyet szorgalmasan tudakolt a bölcsektõl."
+"Ekkor Heródes látván, hogy a bölcsek megcsúfolták õt, szerfölött felháborodék, és kiküldvén, megölete Bethlehemben és annak egész környékén #minden gyermeket, két esztendõstõl és azon alól, az idõ szerint, a melyet szorgalmasan tudakolt a bölcsektõl."
 "Ekkor teljesedék be, a mit Jeremiás próféta mondott, a midõn így szólt
 "Szó hallatszott Rámában
 "Mikor pedig Heródes meghalt, ímé az Úrnak angyala megjelenék álomban Józsefnek Égyiptomban."

@@ -6,7 +6,7 @@
 "Y dijo Saúl al ceneo
 "Y Saúl hirió a Amalec, desde Havila hasta llegar a Shur, que <I>está</I>  a la frontera de Egipto."
 "Y tomó vivo a Agag rey de Amalec, mas a todo el pueblo mató a filo de espada."
-"Y Saúl y el pueblo perdonaron a Agag, y a lo mejor de las ovejas, y al ganado mayor, a los gruesos y a los carneros, y <I>finalmente</I>  a todo lo bueno, que no lo quisieron destruir; mas todo lo que era vil y flaco destruyeron."
+"Y Saúl y el pueblo perdonaron a Agag, y a lo mejor de las ovejas, y al ganado mayor, a los gruesos y a #los carneros, y <I>finalmente</I>  a todo lo bueno, que no lo quisieron destruir; mas todo lo que era vil y flaco destruyeron."
 "Y vino palabra del SEÑOR a Samuel, diciendo
 "Me pesa de haber puesto por rey a Saúl, porque se ha vuelto de en pos de mí, y no ha cumplido mis palabras. Y pesó a Samuel, y clamó al SEÑOR toda aquella noche."
 "Y Samuel madrugó para ir a encontrar a Saúl por la mañana; y fue dado aviso a Samuel, diciendo
@@ -20,7 +20,7 @@
 "Y Saúl respondió a Samuel
 "Mas el pueblo tomó del despojo ovejas y vacas, las primicias del anatema, para sacrificarlas al SEÑOR tu Dios en Gilgal."
 "Y Samuel dijo
-"Porque la rebelión <I>es</I>  pecado de hechicería, e ídolo e idolatría el quebrantar <I>la palabra de Dios</I> . Y por cuanto tú desechaste la palabra del SEÑOR, <I>él también</I>  te ha desechado para que no seas rey."
+"Porque la rebelión <I>es</I>  pecado de hechicería, e ídolo e idolatría el quebrantar <I>la palabra de Dios</I> . Y #por cuanto tú desechaste la palabra del SEÑOR, <I>él también</I>  te ha desechado para que no seas rey."
 "Entonces Saúl dijo a Samuel
 "Y vuelve conmigo para que adore al SEÑOR."
 "Y Samuel respondió a Saúl

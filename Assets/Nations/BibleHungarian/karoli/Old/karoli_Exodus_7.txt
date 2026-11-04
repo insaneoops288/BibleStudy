@@ -17,7 +17,7 @@
 "Így szólt az Úr
 "És a hal, a mely a folyóvízben van, meghal, a folyóvíz pedig megbüdösödik és irtózni fognak az Égyiptombeliek vizet inni a folyóból."
 "Monda azért az Úr Mózesnek
-"Mózes és Áron pedig úgy cselekedének, a mint az Úr parancsolta vala. És felemelé a vesszõt és megsujtá a vizet, a mely a folyóban vala a Faraó elõtt és az õ szolgái elõtt, és mind vérré változék a víz, a mely a folyóban vala."
+"Mózes és Áron pedig úgy cselekedének, a mint az Úr parancsolta vala. És felemelé a vesszõt és megsujtá a vizet, a mely a #folyóban vala a Faraó elõtt és az õ szolgái elõtt, és mind vérré változék a víz, a mely a folyóban vala."
 "A hal pedig, a mely a folyóvízben vala, meghala, és megbüdösödék a folyóvíz, és nem ihatának az Égyiptombeliek a folyónak vizébõl; és vér vala az egész Égyiptom földén."
 "De úgy cselekedének Égyiptom írástudói is az õ varázslásukkal, és kemény maradt a Faraó szíve és nem hallgata reájok; a mint az Úr megmondotta vala."
 "És elfordula a Faraó és haza méne és ezen sem indula meg az õ szíve."

@@ -2,7 +2,7 @@
 "pus Hanani, meu irmão, e Hananias, governador do castelo, sobre Jerusalém; pois ele era homem fiel e temente a Deus, mais do que muitos;"
 "e eu lhes disse
 "Ora, a cidade era larga e grande, mas o povo dentro dela era pouco, e ainda as casa não estavam edificadas."
-"Então o meu Deus me pôs no coração que ajuntasse os nobres, os magistrados e o povo, para registrar as genealogias. E achei o livro da genealogia dos que tinham subido primeiro e achei escrito nele o seguinte
+"Então o meu Deus me pôs no coração que ajuntasse os nobres, os magistrados e o povo, para registrar as #genealogias. E achei o livro da genealogia dos que tinham subido primeiro e achei escrito nele o seguinte
 "Este são os filhos da província que subiram do cativeiro dentre os exilados, que Nabucodonosor, rei da Babilónia, transportara e que voltaram para Jerusalém e para Judá, cada um para a sua cidade,"
 "os quais vieram com Zorobabel, Jesua, Neemias, Azarias, Raamias, Naamani, Mardoqueu, Bilchan, Misperet, Bigvai, Neum e Baana. Este é o número dos homens do povo de Israel
 "foram os filhos de Parós, dois mil cento e setenta e dois;"
@@ -70,4 +70,4 @@
 "Ora, alguns dos cabeças das casas paternas contribuíram para a obra. O governador deu para a tesouraria mil dários de ouro, cinquenta bacias, e quinhentas e trinta vestes sacerdotais."
 "E alguns dos cabeças das casas paternas deram para a tesouraria da obra vinte mil dáricos de ouro, e duas mil e duzentas minas de prata."
 "O que o resto do povo deu foram vinte mil dáricos de ouro, duas mil minas de prata, e sessenta e sete vestes sacerdotais."
-"Os sacerdotes, os levitas, os porteiros, os cantores, alguns dentre o povo, os natineus e todo o Israel habitaram nas suas cidades. Quando chegou o sétimo mês, já se achavam os filhos de Israel nas suas cidades."
+"Os sacerdotes, os levitas, os porteiros, os cantores, alguns dentre o povo, os natineus e todo o Israel habitaram #nas suas cidades. Quando chegou o sétimo mês, já se achavam os filhos de Israel nas suas cidades."

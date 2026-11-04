@@ -4,7 +4,7 @@
 "Depois que feriu a Seom rei dos amorreus, que habitava em Hesbom, e a Ogue rei de Basã, que habitava em Astarote em Edrei
 "Desta parte do Jordão, em terra de Moabe, resolveu Moisés declarar esta lei, dizendo
 "O SENHOR nosso Deus nos falou em Horebe, dizendo
-"Voltai-vos, parti-vos e ide ao monte dos amorreus, e a todos seus vizinhos, na planície, no monte, e nos vales, e ao sul, e à costa do mar, à terra dos cananeus, e o Líbano, até o grande rio, o rio Eufrates."
+"Voltai-vos, parti-vos e ide ao monte dos amorreus, e a todos seus vizinhos, na planície, no monte, e nos vales, e ao #sul, e à costa do mar, à terra dos cananeus, e o Líbano, até o grande rio, o rio Eufrates."
 "Olhai, eu dei a terra em vossa presença; entrai e possuí a terra que o SENHOR jurou a vossos pais Abraão, Isaque, e Jacó, que lhes daria a eles e à sua descendência depois deles."
 "E eu vos falei então, dizendo
 "O SENHOR vosso Deus vos multiplicou, e eis que sois hoje vós como as estrelas do céu em abundância."
@@ -12,7 +12,7 @@
 "Como levarei eu só vossos problemas, vossas cargas, e vossos pleitos?"
 "Dai-me dentre vós, de vossas tribos, homens sábios e entendidos e experientes, para que eu os ponha por vossos chefes."
 "E me respondestes, e dissestes
-"E tomei os principais de vossas tribos, homens sábios e experientes, e os pus por chefes sobre vós, chefes de milhares, e chefes de centenas, e chefes de cinquenta, e líderes de dez, e governadores a vossas tribos."
+"E tomei os principais de vossas tribos, homens sábios e experientes, e os pus por chefes sobre vós, chefes de #milhares, e chefes de centenas, e chefes de cinquenta, e líderes de dez, e governadores a vossas tribos."
 "E então mandei a vossos juízes, dizendo
 "Não tenhais acepção de pessoas no juízo
 "Eu vos mandei, pois, naquele tempo tudo o que havíeis de fazer."

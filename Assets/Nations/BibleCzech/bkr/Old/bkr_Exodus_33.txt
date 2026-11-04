@@ -13,7 +13,7 @@
 "Již tedy, jestliže jsem jen nalezl milost před tebou, oznam mi, prosím, cestu svou, abych tě poznal, a abych nalezl milost před tebou; a pohleď, že národ tento jest lid tvůj."
 "I odpověděl
 "I řekl
-"Nebo po čem poznáno bude zde, že jsem nalezl milost před tebou, já i lid tvůj? Zdali ne po tom, když půjdeš s námi, a když odděleni budeme, já a lid tvůj, ode všeho lidu, kterýž jest na tváři země?"
+"Nebo po čem poznáno bude zde, že jsem nalezl milost před tebou, já i lid tvůj? Zdali ne po tom, když #půjdeš s námi, a když odděleni budeme, já a lid tvůj, ode všeho lidu, kterýž jest na tváři země?"
 "I řekl Hospodin Mojžíšovi
 "Řekl opět
 "Kterýž odpověděl

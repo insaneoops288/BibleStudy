@@ -9,8 +9,8 @@
 "Áp-đia tiếp rằng
 "Tôi chỉ Giê-hô-va Ðức Chúa Trời hằng sống của ông mà thề, chẳng dân nào nước nào mà chủ tôi không sai đến tìm ông và khi người ta đáp rằng
 "Mà bây giờ, ông lại nói với tôi tớ rằng
-"Rồi khi tôi lìa khỏi ông, sẽ có thần của Ðức Giê-hô-va đem ông đi nơi nào tôi chẳng biết; vậy, khi tôi đi thuật lại cùng A-háp, mà người không thấy ông, ắt sẽ giết tôi đi. Vả, kẻ tôi tớ ông kính sợ Ðức Giê-hô-va từ khi thơ ấu."
-"Khi Giê-sa-bên giết các tiên tri của Ðức Giê-hô-va, thì tôi có giấu một trăm tiên tri của Ðức Giê-hô-va trong hai hang đá, mỗi hang năm mươi người, dùng bánh và nước mà nuôi họ; người ta há không có thuật điều đó cho chúa tôi hay sao?"
+"Rồi khi tôi lìa khỏi ông, sẽ có thần của Ðức Giê-hô-va đem ông đi nơi nào tôi chẳng biết; vậy, khi tôi đi thuật lại #cùng A-háp, mà người không thấy ông, ắt sẽ giết tôi đi. Vả, kẻ tôi tớ ông kính sợ Ðức Giê-hô-va từ khi thơ ấu."
+"Khi Giê-sa-bên giết các tiên tri của Ðức Giê-hô-va, thì tôi có giấu một trăm tiên tri của Ðức Giê-hô-va trong hai hang đá, mỗi #hang năm mươi người, dùng bánh và nước mà nuôi họ; người ta há không có thuật điều đó cho chúa tôi hay sao?"
 "Và bây giờ, ông biểu tôi
 "Ê-li đáp rằng
 "Vậy, Áp-đia đi đón A-háp, và thuật lại cho người. A-háp bèn đi đón Ê-li."

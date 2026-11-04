@@ -28,7 +28,7 @@
 "Po tym Jezus widząc, że wszystko jest już dokonane, aby się wypełniło Pismo, mówi
 "A był tam ustawiony pojemnik pełny winnego octu; więc włożyli na hyzop gąbkę wypełnioną octem i przybliżyli ją do jego ust."
 "A gdy Jezus przyjął ocet, powiedział
-"Następnie Żydzi ponieważ było Przygotowanie aby w odpoczynek ciała nie pozostały na krzyżu (bowiem czas tego odpoczynku był długi ), poprosili Piłata by zostały połamane ich golenie oraz zostali usunięci."
+"Następnie Żydzi ponieważ było Przygotowanie aby w odpoczynek ciała nie pozostały na krzyżu (bowiem czas tego #odpoczynku był długi ), poprosili Piłata by zostały połamane ich golenie oraz zostali usunięci."
 "Zatem przyszli żołnierze i połamali golenie pierwszego oraz drugiego, razem z nim ukrzyżowanego."
 "Zaś gdy podeszli do Jezusa, zobaczyli go już zmarłego, więc nie połamali jego goleni."
 "Ale jeden z żołnierzy przebił włócznią jego bok, więc zaraz wyszła krew i woda."

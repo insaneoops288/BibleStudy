@@ -29,7 +29,7 @@
 "Jézus pedig felelvén, monda
 "A ki százannyit ne kapna most ebben az idõben, házakat, fitestvéreket, nõtestvéreket, anyákat, gyermekeket és szántóföldeket, üldözésekkel együtt; a jövendõ világon pedig örök életet."
 "Sok elsõk pedig lesznek utolsók, és sok utolsók elsõk."
-"Útban valának pedig Jeruzsálembe menve fel; és elõttök megy vala Jézus, õk pedig álmélkodának, és követvén õt, félnek vala. És õ a tizenkettõt ismét maga mellé vévén, kezde nékik szólni azokról a dolgokról, a mik majd vele történnek,"
+"Útban valának pedig Jeruzsálembe menve fel; és elõttök megy vala Jézus, õk pedig álmélkodának, és követvén õt, félnek vala. És #õ a tizenkettõt ismét maga mellé vévén, kezde nékik szólni azokról a dolgokról, a mik majd vele történnek,"
 "Mondván
 "És megcsúfolják õt, és megostorozzák õt, és megköpdösik õt, és megölik õt; de harmadnapon feltámad."
 "És hozzájárulának Jakab és János, a Zebedeus fiai, ezt mondván

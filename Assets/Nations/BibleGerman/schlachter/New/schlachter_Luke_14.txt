@@ -28,7 +28,7 @@
 "Denn wer von euch, der einen Turm bauen will, setzt sich nicht zuvor hin und berechnet die Kosten, ob er genug habe zur gänzlichen Ausführung,"
 "damit nicht etwa, wenn er den Grund gelegt hat und es nicht zu vollenden vermag, alle, die es sehen, anfangen,über ihn zu spotten"
 "und zu sagen
-"Oder welcher König, der auszieht, um mit einem andern König Krieg zu führen, setzt sich nicht zuvor hin und berät, ob er imstande sei, mit zehntausend dem zu begegnen, der mit zwanzigtausend gegen ihn anrückt?"
+"Oder welcher König, der auszieht, um mit einem andern König Krieg zu führen, setzt sich nicht zuvor hin #und berät, ob er imstande sei, mit zehntausend dem zu begegnen, der mit zwanzigtausend gegen ihn anrückt?"
 "Wenn aber nicht, so sendet er, solange jener noch fern ist, eine Botschaft und bittet um die Friedensbedingungen."
 "So kann auch keiner von euch, der nicht allem entsagt, was er hat, mein Jünger sein."
 "Das Salz ist gut; wenn aber auch das Salz fade wird, womit soll es gewürzt werden?"

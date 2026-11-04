@@ -3,10 +3,10 @@
 "Tu sais que David, mon père, n'a pu bâtir une maison au nom de l'Éternel son Dieu, à cause de la guerre dont ses ennemis l'environnaient, jusqu'à ce que l'Éternel les eût mis sous ses pieds."
 "Et maintenant l'Éternel mon Dieu m'a donné du repos de toutes parts; je n'ai point d'adversaire ni d'affaire fâcheuse."
 "Voici donc, je me propose de bâtir une maison au nom de l'Éternel mon Dieu, selon que l'Éternel en a parlé à David, mon père, en disant
-"Et maintenant, commande qu'on me coupe des cèdres du Liban; mes serviteurs seront avec tes serviteurs; et je te donnerai pour tes serviteurs le salaire que tu demanderas; car tu sais qu'il n'y a personne parmi nous qui s'entende à couper les bois comme les Sidoniens."
+"Et maintenant, commande qu'on me coupe des cèdres du Liban; mes serviteurs seront avec tes serviteurs; et je te donnerai pour tes serviteurs le #salaire que tu demanderas; car tu sais qu'il n'y a personne parmi nous qui s'entende à couper les bois comme les Sidoniens."
 "Quand Hiram entendit les paroles de Salomon, il en eut une grande joie, et il dit
 "Et Hiram envoya vers Salomon, pour lui dire
-"Mes serviteurs les descendront du Liban à la mer; puis je les ferai mettre sur la mer en radeaux, jusqu'au lieu que tu m'auras marqué, et je les ferai délivrer là; tu les y prendras; mais, de ton côté, tu me satisferas en fournissant de vivres ma maison."
+"Mes serviteurs les descendront du Liban à la mer; puis je les ferai mettre sur la mer en radeaux, jusqu'au lieu que tu m'auras marqué, #et je les ferai délivrer là; tu les y prendras; mais, de ton côté, tu me satisferas en fournissant de vivres ma maison."
 "Hiram donc donna du bois de cèdre et du bois de cyprès à Salomon, autant qu'il en voulut."
 "Et Salomon donnait à Hiram vingt mille cores de froment, pour la nourriture de sa maison, et vingt cores d'huile très pure. Salomon en donnait autant à Hiram chaque année."
 "L'Éternel donna donc de la sagesse à Salomon, comme il lui en avait parlé. Et il y eut paix entre Hiram et Salomon, et ils traitèrent alliance ensemble."

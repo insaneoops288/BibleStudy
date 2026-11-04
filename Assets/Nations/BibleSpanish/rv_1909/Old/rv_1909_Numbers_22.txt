@@ -20,7 +20,7 @@
 "Y vino Dios á Balaam de noche, y díjole
 "Así Balaam se levantó por la mañana, y cinchó su asna, y fué con los príncipes de Moab."
 "Y el furor de Dios se encendió porque él iba; y el ángel de Jehová se puso en el camino por adversario suyo. Iba, pues, él montado sobre su asna, y con él dos mozos suyos."
-"Y el asna vió al ángel de Jehová, que estaba en el camino con su espada desnuda en su mano; y apartóse el asna del camino, é iba por el campo. Entonces hirió Balaam al asna para hacerla volver al camino."
+"Y el asna vió al ángel de Jehová, que estaba en el camino con su espada desnuda en su mano; y #apartóse el asna del camino, é iba por el campo. Entonces hirió Balaam al asna para hacerla volver al camino."
 "Mas el ángel de Jehová se puso en una senda de viñas que tenía pared de una parte y pared de otra."
 "Y viendo el asna al ángel de Jehová, pegóse á la pared, y apretó contra la pared el pie de Balaam
 "Y el ángel de Jehová pasó más allá, y púsose en una angostura, donde no había camino para apartarse ni á diestra ni á siniestra."

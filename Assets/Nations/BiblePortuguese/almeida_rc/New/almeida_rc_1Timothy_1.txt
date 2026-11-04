@@ -6,7 +6,7 @@
 "Do que desviando-se alguns, se entregaram a vãs contendas;"
 "Querendo ser doutores da lei, e não entendendo nem o que dizem, nem o que afirmam."
 "Sabemos, porém, que a lei é boa, se alguém dela usa legitimamente;"
-"Sabendo isto, que a lei não é feita para o justo, mas para os injustos e obstinados, para os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas,"
+"Sabendo isto, que a lei não é feita para o justo, mas para os injustos e obstinados, para #os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas,"
 "Para os devassos, para os sodomitas, para os roubadores de homens, para os mentirosos, para as perjuros, e para o que for contrário à sã doutrina,"
 "Conforme o evangelho da glória de Deus bem-aventurado, que me foi confiado."
 "E dou graças ao que me tem confortado, a Cristo Jesus Senhor nosso, porque me teve por fiel, pondo-me no ministério;"

@@ -8,6 +8,6 @@
 "Sentähden pitäkäämme juhlaa, ei vanhassa hapatuksessa, eikä pahuuden ja vääryyden hapatuksessa, vaan vakuuden ja totuuden happamattomassa taikinassa."
 "Minä olen teille lähetyskirjassa kirjoittanut, ettei teidän pitäisi sekaantuman huorintekiäin kanssa."
 "Ja ei kaiketi tämän maailman huorintekiäin kanssa, eli ahneitten, eli raateliain, eli epäjumalain palveliain; sillä niin tulis teidän maailmasta paeta pois."
-"Mutta nyt minä olen kirjoittanut, ettei teidän pidä heihin sekaantuman, jos joku, joka veljeksi kutsutaan, olis huorintekiä, taikka ahne, eli epäjumalain palvelia, taikka pilkkaaja, eli juomari, taikka raatelia; älkäät senkaltaisen kanssa syökö;"
+"Mutta nyt minä olen kirjoittanut, ettei teidän pidä heihin sekaantuman, jos joku, joka veljeksi kutsutaan, olis huorintekiä, #taikka ahne, eli epäjumalain palvelia, taikka pilkkaaja, eli juomari, taikka raatelia; älkäät senkaltaisen kanssa syökö;"
 "Sillä mitä minun tulee tuomita niitä, jotka ulkona ovat? Ettekö te niitä tuomitse, jotka sisällä ovat?"
 "Mutta Jumala ne tuomitsee, jotka ulkona ovat. Ajakaat itsekin paha pois tyköänne."

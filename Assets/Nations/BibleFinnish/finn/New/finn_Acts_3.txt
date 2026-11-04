@@ -10,7 +10,7 @@
 "Ja tunsi hänen siksi, joka almun tähden istui templin Kauniin oven edessä; ja he olivat täynnänsä pelkoa ja suurta hämmästystä siitä, mitä hänelle tapahtunut oli."
 "Mutta kuin tämä saattamatoin, joka parannettu oli, piti itsensä Pietarin ja Johanneksen tykö, juoksi kaikki kansa hämmästyksissä heidän tykönsä porstuaan, joka kutsutaan Salomon porstuaksi."
 "Kuin Pietari sen näki, vastasi hän kansalle
-"Abrahamin ja Isaakin ja Jakobin Jumala, meidän isäimme Jumala, on Poikansa Jesuksen kirkastanut, jonka te annoitte ylön ja kielsitte Pilatuksen edessä, kuin hän tuomitsi, että hän piti päästettämän."
+"Abrahamin ja Isaakin ja Jakobin Jumala, meidän isäimme Jumala, on Poikansa Jesuksen kirkastanut, jonka te #annoitte ylön ja kielsitte Pilatuksen edessä, kuin hän tuomitsi, että hän piti päästettämän."
 "Mutta te kielsitte pyhän ja hurskaan, ja anoitte teillenne murhamiestä annettaa;"
 "Mutta elämän Pääruhtinaan te tapoitte
 "Ja uskon kautta hänen nimensä päälle on hän tässä, jonka te näette ja tunnette, nimensä vahvistanut

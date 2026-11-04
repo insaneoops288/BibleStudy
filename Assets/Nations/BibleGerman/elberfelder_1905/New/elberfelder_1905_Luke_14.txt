@@ -23,12 +23,12 @@
 "Und der Herr sprach zu dem Knechte
 "denn ich sage euch, daß nicht einer jener Männer, die geladen waren, mein Abendmahl schmecken wird."
 "Es gingen aber große Volksmengen mit ihm; und er wandte sich um und sprach zu ihnen
-"Wenn jemand zu mir kommt und haßt nicht seinen Vater und seine Mutter und sein Weib und seine Kinder und seine Brüder und Schwestern, dazu aber auch sein eigenes Leben, so kann er nicht mein Jünger sein;"
+"Wenn jemand zu mir kommt und haßt nicht seinen Vater und seine Mutter und sein Weib und seine Kinder #und seine Brüder und Schwestern, dazu aber auch sein eigenes Leben, so kann er nicht mein Jünger sein;"
 "und wer nicht sein Kreuz trägt und mir nachkommt, kann nicht mein Jünger sein."
 "Denn wer unter euch, der einen Turm bauen will, setzt sich nicht zuvor nieder und berechnet die Kosten, ob er das Nötige zur Ausführung habe?"
 "Auf daß nicht etwa, wenn er den Grund gelegt hat und nicht zu vollenden vermag, alle, die es sehen, anfangen ihn zu verspotten"
 "und sagen
-"Oder welcher König, der auszieht, um sich mit einem anderen König in Krieg einzulassen, setzt sich nicht zuvor nieder und ratschlagt, ob er imstande sei, dem mit Zehntausend entgegen zu treten, der wider ihn kommt mit Zwanzigtausend?"
+"Oder welcher König, der auszieht, um sich mit einem anderen König in Krieg einzulassen, setzt sich nicht zuvor nieder #und ratschlagt, ob er imstande sei, dem mit Zehntausend entgegen zu treten, der wider ihn kommt mit Zwanzigtausend?"
 "Wenn aber nicht, so sendet er, während er noch fern ist, eine Gesandtschaft und bittet um die Friedensbedingungen."
 "Also nun jeder von euch, der nicht allem entsagt, was er hat, kann nicht mein Jünger sein."
 "Das Salz nun ist gut; wenn aber auch das Salz kraftlos geworden ist, womit soll es gewürzt werden?"

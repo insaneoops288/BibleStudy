@@ -1,5 +1,5 @@
 "Ahora, pues, oh sacerdotes, para vosotros <I>es</I>  este mandamiento."
-"Si no oyereis, y si no acordareis dar gloria a mi Nombre, dijo el SEÑOR de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no <I>lo</I>  ponéis en <I>vuestro</I>  corazón."
+"Si no oyereis, y si no acordareis dar gloria a mi Nombre, dijo el SEÑOR de los ejércitos, enviaré maldición sobre #vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no <I>lo</I>  ponéis en <I>vuestro</I>  corazón."
 "He aquí, reprendo su simiente, y esparciré el estiércol sobre vuestros rostros, el estiércol de vuestras solemnidades, y con él seréis removidos."
 "Y sabréis que <I>yo</I>  os envié este mandamiento, haciendo mi pacto con Leví, dijo el SEÑOR de los ejércitos."
 "Mi pacto fue con él de vida y de paz, las cuales cosas yo le di por el temor; porque me temió, y delante de mi Nombre fue quebrantado."

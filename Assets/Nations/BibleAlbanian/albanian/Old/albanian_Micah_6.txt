@@ -13,4 +13,4 @@
 "Prandaj edhe unë do të të bëj të vuash, duke të goditur dhe duke bërë që të jesh i shkretë për shkak të mëkateve të tua."
 "Ti do të hash, por nuk do të ngopesh dhe uria do të mbetet brenda teje; do të vësh mënjanë por nuk do të shpëtosh asgjë, dhe atë që do të shpëtosh do t'ia dorëzoj shpatës."
 "Ti do të mbjellësh, por nuk do të korrësh; do t'i shtypësh ullinjtë, por nuk do të lyhesh me vaj; do të bësh musht, por nuk do të pish verë."
-"Ju ndiqni statutet e Omrit dhe tërë praktikat e shtëpisë së Ashabit, dhe ju ecni sipas këshillave të tyre, që unë t'ju katandis në një shkreti, dhe banorët e tu në një objekt talljeje. Kështu ju do të mbani turpin e popullit tim!""."
+"Ju ndiqni statutet e Omrit dhe tërë praktikat e shtëpisë së Ashabit, dhe ju ecni sipas këshillave të tyre, që unë t'ju #katandis në një shkreti, dhe banorët e tu në një objekt talljeje. Kështu ju do të mbani turpin e popullit tim!""."

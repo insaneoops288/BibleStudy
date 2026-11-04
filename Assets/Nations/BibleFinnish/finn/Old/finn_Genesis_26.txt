@@ -26,7 +26,7 @@
 "Niin Abimelek meni hänen tykönsä Gerarista
 "Mutta Isaak sanoi heille
 "He sanoivat
-"Ettes tekisi meille mitään vahinkoa, niinkuin emme mekään ole sinuun ryhtyneet, ja niinkuin emme myös tehneet sinulle muuta kuin hyvää, ja laskimme sinun rauhassa menemään. Sinä olet nyt Herran siunattu."
+"Ettes tekisi meille mitään vahinkoa, niinkuin emme mekään ole sinuun ryhtyneet, ja niinkuin emme myös tehneet #sinulle muuta kuin hyvää, ja laskimme sinun rauhassa menemään. Sinä olet nyt Herran siunattu."
 "Ja hän valmisti heille pidon, ja he söivät ja joivat."
 "Ja nousivat aamulla varhain, ja vannoivat toinen toisellensa, ja Isaak laski heidät menemään, ja menivät pois hänen tyköänsä rauhassa."
 "Sinä samana päivänä tulivat Isaakin palveliat, ja ilmoittivat hänelle kaivosta, jonka he kaivaneet olivat, ja sanoivat hänelle

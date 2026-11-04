@@ -4,7 +4,7 @@
 "Niin että vuoret sulavat hänen allansa, ja laaksot halkeevat, niinkuin medenvaha sulaa tulen edessä, ja niinkuin vedet, jotka korkialta alas vuotavat."
 "Kaikki nämät tapahtuvat Jakobin ylitsekäymisen tähden, ja Israelin huoneen syntein tähden. Kuka siis on Jakobin ylitsekäymys? Eikö Samari? ja kutka ovat Juudan korkeudet? Eikö Jerusalem?"
 "Minä teen Samarian kiviraunioksi kedolla, joka pannaan viinamäen ympäri, ja vieritän hänen kivensä laaksoon, ja särjen perustukseen asti maahan."
-"Kaikki heidän epäjumalansa pitää rikottaman, ja kaikki heidän palkkansa tulella poltettaman, ja minä hävitän kaikki heidän kuvansa; sillä he ovat porton palkasta kootut; sentähden pitää heidän jälleen porton palkaksi tuleman."
+"Kaikki heidän epäjumalansa pitää rikottaman, ja kaikki heidän palkkansa tulella poltettaman, ja minä hävitän kaikki heidän #kuvansa; sillä he ovat porton palkasta kootut; sentähden pitää heidän jälleen porton palkaksi tuleman."
 "Sitä minun täytyy valittaa ja parkua, minun täytyy riisuttuna ja alasti käydä; minun pitää valittaman niinkuin lohikärmeet ja murehtiman niinkuin nälkäkurki."
 "Sillä tähän vitsaukseen ei ole yhtään neuvoa; joka jo Juudaan asti on tullut, ja pitää ulottuman minun kansani porttiin asti, Jerusalemiin asti."
 "Älkäät sitä Gatissa ilmoittako, älkäät antako kuulla teidän itkuanne; vaan menkäät tuhkahuoneeseen ja istukaat tuhkaan."

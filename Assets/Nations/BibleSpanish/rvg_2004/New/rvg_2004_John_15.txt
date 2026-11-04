@@ -13,7 +13,7 @@
 "Nadie tiene mayor amor que éste, que alguno ponga su vida por sus amigos."
 "Vosotros sois mis amigos, si hacéis lo que yo os mando."
 "Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor; mas os he llamado amigos, porque os he dado a saber todas las cosas que recibí de mi Padre."
-"No me elegisteis vosotros a mí; sino que yo os elegí a vosotros; y os he puesto para que vayáis y llevéis fruto, y vuestro fruto permanezca; para que todo lo que pidiereis al Padre en mi nombre; Él os lo dé."
+"No me elegisteis vosotros a mí; sino que yo os elegí a vosotros; y os he puesto para que vayáis y llevéis #fruto, y vuestro fruto permanezca; para que todo lo que pidiereis al Padre en mi nombre; Él os lo dé."
 "Esto os mando
 "Si el mundo os aborrece, sabed que a mí me ha aborrecido antes que a vosotros."
 "Si fuerais del mundo, el mundo amaría lo suyo; mas porque no sois del mundo, antes yo os elegí del mundo, por eso el mundo os aborrece."

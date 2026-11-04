@@ -31,7 +31,7 @@
 "Ja jotka tätä maailmaa viljelevät, ettei he sitä väärin käyttäisi; sillä tämän maailman meno on menevä."
 "Mutta minä tahtoisin, että te ilman murhetta olisitte
 "Mutta joka nai, hän suree maailmallisista, kuinka hän emännällensä kelpais."
-"Nämät ovat eroitetut, vaimo ja neitsy, joka ei naitu ole, se murehtii niitä, jotka Herran ovat, että hän pyhä olis sekä ruumiilla että hengellä; mutta se, joka naitu on, murehtii maailmallisista, kuinka hänen pitää miehellensä kelpaaman."
+"Nämät ovat eroitetut, vaimo ja neitsy, joka ei naitu ole, se murehtii niitä, jotka Herran ovat, että hän pyhä #olis sekä ruumiilla että hengellä; mutta se, joka naitu on, murehtii maailmallisista, kuinka hänen pitää miehellensä kelpaaman."
 "Mutta senkaltaista sanon minä teidän tarpeeksenne
 "Mutta jos joku luulee, ettei se sovi hänen neitseellensä, sittekuin hän jo naitavissa on, eikä saa toisin olla, niin tehkään, mitä hän tahtoo, ei hän syntiä tee; sallikaan hänen huolla."
 "Mutta joka seisoo vahvana sydämessänsä ja ei ole vaadittu, vaan hänellä on oma ehtonsa ja päättää sen sydämessänsä, että hän tahtoo neitseensä pitää, se tekee hyvin."

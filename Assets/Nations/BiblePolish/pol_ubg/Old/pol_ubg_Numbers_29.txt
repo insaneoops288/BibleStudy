@@ -3,7 +3,7 @@
 "A ich ofiarą pokarmową z mąki pszennej zmieszanej z oliwą będzie
 "I jedna dziesiąta na każdego baranka z tych siedmiu baranków;"
 "Oraz jednego kozła z kóz jako ofiarę za grzech, by dokonać za was przebłagania;"
-"Oprócz comiesięcznego całopalenia i jego ofiary pokarmowej, oprócz nieustannego całopalenia i jego ofiary pokarmowej oraz ich ofiar z płynów, zgodnie z ich przepisem, na miłą woń; będzie to ofiara spalana dla PANA."
+"Oprócz comiesięcznego całopalenia i jego ofiary pokarmowej, oprócz nieustannego całopalenia i jego ofiary pokarmowej oraz ich ofiar #z płynów, zgodnie z ich przepisem, na miłą woń; będzie to ofiara spalana dla PANA."
 "Dziesiątego dnia tego siódmego miesiąca będziecie mieć święte zgromadzenie i będziecie trapić swoje dusze. Nie będziecie wykonywać żadnej ciężkiej pracy."
 "I złożycie PANU całopalenie, na miłą woń, jednego młodego cielca, jednego barana i siedem rocznych baranków. Mają być bez skazy."
 "A ich ofiarą pokarmową z mąki pszennej zmieszanej z oliwą będzie
@@ -36,5 +36,5 @@
 "Złożycie całopalenie jako ofiarę spalaną, na miłą woń dla PANA, jednego cielca, jednego barana, siedem rocznych baranków bez skazy;"
 "Ich ofiarę pokarmową i ich ofiary z płynów do cielca, do barana i do każdego baranka, według ich liczby i według ich przepisów;"
 "Oraz jednego kozła na ofiarę za grzech oprócz nieustannego całopalenia, jego ofiary pokarmowej i jego ofiary z płynów."
-"To wszystko będziecie składać PANU podczas waszych uroczystych świąt oprócz waszych ślubów i dobrowolnych ofiar na wasze całopalenia, na wasze ofiary pokarmowe, na wasze ofiary z płynów i na wasze ofiary pojednawcze."
+"To wszystko będziecie składać PANU podczas waszych uroczystych świąt oprócz waszych ślubów i dobrowolnych ofiar na wasze #całopalenia, na wasze ofiary pokarmowe, na wasze ofiary z płynów i na wasze ofiary pojednawcze."
 "I Mojżesz powiedział synom Izraela wszystko, co PAN mu rozkazał."

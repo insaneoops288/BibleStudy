@@ -1,4 +1,4 @@
-"Koskas menet sotaan vihollisias vastaan, ja näet hevoset ja vaunut, ja kansan joka on suurempi sinua, niin älä pelkää heitä; sillä Herra sinun Jumalas, joka sinun johdatti ulos Egyptin maalta, on sinun kanssas."
+"Koskas menet sotaan vihollisias vastaan, ja näet hevoset ja vaunut, ja kansan joka on suurempi sinua, niin #älä pelkää heitä; sillä Herra sinun Jumalas, joka sinun johdatti ulos Egyptin maalta, on sinun kanssas."
 "Ja kuin te lähestytte sotaa, niin astukaan pappi edes ja puhukaan kansalle,"
 "Ja sanokaan heille
 "Sillä Herra teidän Jumalanne käy kanssanne, sotimaan edestänne vihollisianne vastaan, ja auttaa teitä."
@@ -16,5 +16,5 @@
 "Mutta näiden kansain kaupungeissa, jotka Herra sinun Jumalas sinulle perimiseksi antaa, älä jätä elämään yhtäkään henkeä;"
 "Vaan hukuta ne peräti
 "Ettei he opettaisi teitä tekemään kaikkia niitä kauhistuksia, joita he tekivät jumalillensa, ettette myös tekisi syntiä Herraa teidän Jumalaanne vastaan."
-"Jos sinä kauvan olet jonkun kaupungin edessä, jota vastaan sinä sodit omistaakses sitä, niin älä hävitä sen puita, älä myös kirveellä raiskaa niitä; sillä sinä saat niistä syödä, sentähden älä hakkaa niitä maahan; sillä ihmisellä on metsäpuitakin, tulemaan varustukseksi sinun etees."
+"Jos sinä kauvan olet jonkun kaupungin edessä, jota vastaan sinä sodit omistaakses sitä, niin älä hävitä sen puita, älä myös kirveellä #raiskaa niitä; sillä sinä saat niistä syödä, sentähden älä hakkaa niitä maahan; sillä ihmisellä on metsäpuitakin, tulemaan varustukseksi sinun etees."
 "Vaan ne puut, joista tiedät, ettei ne ole syötäviä, hävitä ja hakkaa maahan, ja rakenna varustus kaupunkia vastaan, jonka kanssa sinä sodit, siksi kuin sinä voitat sen."

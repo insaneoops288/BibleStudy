@@ -5,7 +5,7 @@
 "Y éste será nuestra paz. Cuando Assur viniere á nuestra tierra, y cuando pisare nuestros palacios, entonces levantaremos contra él siete pastores, y ocho hombres principales;"
 "Y comerán la tierra de Assur á cuchillo, y la tierra de Nimrod con sus espadas
 "Y será el residuo de Jacob en medio de muchos pueblos, como el rocío de Jehová, como las lluvias sobre la hierba, las cuales no esperan varón, ni aguardan á hijos de hombres."
-"Asimismo será el resto de Jacob entre las gentes, en medio de muchos pueblos, como el león entre las bestias de la montaña, como el cachorro del león entre las manadas de las ovejas, el cual si pasare, y hollare, y arrebatare, no hay quien escape."
+"Asimismo será el resto de Jacob entre las gentes, en medio de muchos pueblos, como el león entre las bestias de la montaña, como #el cachorro del león entre las manadas de las ovejas, el cual si pasare, y hollare, y arrebatare, no hay quien escape."
 "Tu mano se alzará sobre tus enemigos, y todos tus adversarios serán talados."
 "Y acontecerá en aquel día, dice Jehová, que haré matar tus caballos de en medio de ti, y haré destruir tus carros."
 "Haré también destruir las ciudades de tu tierra, y arruinaré todas tus fortalezas."

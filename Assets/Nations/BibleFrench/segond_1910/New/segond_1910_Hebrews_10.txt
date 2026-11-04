@@ -1,4 +1,4 @@
-"En effet, la loi, qui possède une ombre des biens à venir, et non l'exacte représentation des choses, ne peut jamais, par les mêmes sacrifices qu'on offre perpétuellement chaque année, amener les assistants à la perfection."
+"En effet, la loi, qui possède une ombre des biens à venir, et non l'exacte représentation des choses, ne #peut jamais, par les mêmes sacrifices qu'on offre perpétuellement chaque année, amener les assistants à la perfection."
 "Autrement, n'aurait-on pas cessé de les offrir, parce que ceux qui rendent ce culte, étant une fois purifiés, n'auraient plus eu aucune conscience de leurs péchés?"
 "Mais le souvenir des péchés est renouvelé chaque année par ces sacrifices;"
 "car il est impossible que le sang des taureaux et des boucs ôte les péchés."
@@ -26,7 +26,7 @@
 "Car, si nous péchons volontairement après avoir reçu la connaissance de la vérité, il ne reste plus de sacrifice pour les péchés,"
 "mais une attente terrible du jugement et l'ardeur d'un feu qui dévorera les rebelles."
 "Celui qui a violé la loi de Moïse meurt sans miséricorde, sur la déposition de deux ou de trois témoins;"
-"de quel pire châtiment pensez-vous que sera jugé digne celui qui aura foulé aux pieds le Fils de Dieu, qui aura tenu pour profane le sang de l'alliance, par lequel il a été sanctifié, et qui aura outragé l'Esprit de la grâce?"
+"de quel pire châtiment pensez-vous que sera jugé digne celui qui aura foulé aux pieds le Fils de Dieu, qui aura tenu #pour profane le sang de l'alliance, par lequel il a été sanctifié, et qui aura outragé l'Esprit de la grâce?"
 "Car nous connaissons celui qui a dit
 "C'est une chose terrible que de tomber entre les mains du Dieu vivant."
 "Souvenez-vous de ces premiers jours, où, après avoir été éclairés, vous avez soutenu un grand combat au milieu des souffrances,"

@@ -1,7 +1,7 @@
-"Y OYENDO la reina de Seba la fama de Salomón, vino á Jerusalem con un muy grande séquito, con camellos cargados de aroma, y oro en abundancia, y piedras preciosas, para tentar á Salomón con preguntas difíciles. Y luego que vino á Salomón, habló con él tod"
+"Y OYENDO la reina de Seba la fama de Salomón, vino á Jerusalem con un muy grande séquito, con camellos cargados de aroma, y #oro en abundancia, y piedras preciosas, para tentar á Salomón con preguntas difíciles. Y luego que vino á Salomón, habló con él tod"
 "Pero Salomón le declaró todas sus palabras
 "Y viendo la reina de Seba la sabiduría de Salomón, y la casa que había edificado,"
-"Y las viandas de su mesa, y el asiento de sus siervos, y el estado de sus criados, y los vestidos de ellos, sus maestresalas y sus vestidos, y su subida por donde subía á la casa de Jehová, no quedó más espíritu en ella."
+"Y las viandas de su mesa, y el asiento de sus siervos, y el estado de sus criados, y los vestidos de ellos, #sus maestresalas y sus vestidos, y su subida por donde subía á la casa de Jehová, no quedó más espíritu en ella."
 "Y dijo al rey
 "Mas yo no creía las palabras de ellos, hasta que he venido, y mis ojos han visto
 "Bienaventurados tus hombres, y dichosos estos tus siervos, que están siempre delante de ti, y oyen tu sabiduría."
@@ -26,6 +26,6 @@
 "Y tuvo señorío sobre todos los reyes desde el río hasta la tierra de los Filisteos, y hasta el término de Egipto."
 "Y puso el rey plata en Jerusalem como piedras, y cedros como los cabrahigos que nacen por las campiñas en abundancia."
 "Sacaban también caballos para Salomón, de Egipto y de todas las provincias."
-"Lo demás de los hechos de Salomón, primeros y postreros, ¿no está todo escrito en los libros de Nathán profeta, y en la profecía de Ahías Silonita, y en las profecías del vidente Iddo contra Jeroboam hijo de Nabat?"
+"Lo demás de los hechos de Salomón, primeros y postreros, ¿no está todo escrito en los libros de Nathán profeta, #y en la profecía de Ahías Silonita, y en las profecías del vidente Iddo contra Jeroboam hijo de Nabat?"
 "Y reinó Salomón en Jerusalem sobre todo Israel cuarenta años."
 "Y durmió Salomón con sus padres, y sepultáronlo en la ciudad de David su padre

@@ -1,5 +1,5 @@
 "Nguni't sa mga huling araw ay mangyayari, na ang bundok ng bahay ng Panginoon ay matatatag sa taluktok ng mga bundok, at matataas sa mga burol; at mga tao'y paroroon sa kaniya."
-"At maraming bansa'y magsisiparoo't mangagsasabi, Magsiparito kayo, at tayo'y magsiahon sa bundok ng Panginoon, at sa bahay ng Dios ni Jacob; at siya'y magtuturo sa atin ng kaniyang mga daan, at tayo'y magsisilakad sa kaniyang mga landas. Sapagka't sa Sion ay lalabas ang kautusan, at ang salita ng Panginoon ay mula sa Jerusalem;"
+"At maraming bansa'y magsisiparoo't mangagsasabi, Magsiparito kayo, at tayo'y magsiahon sa bundok ng Panginoon, at sa bahay ng Dios ni Jacob; at siya'y magtuturo sa atin ng #kaniyang mga daan, at tayo'y magsisilakad sa kaniyang mga landas. Sapagka't sa Sion ay lalabas ang kautusan, at ang salita ng Panginoon ay mula sa Jerusalem;"
 "At siya'y hahatol sa gitna ng maraming bayan, at sasaway sa mga matibay na bansa sa malayo
 "Kundi sila'y uupo bawa't isa sa ilalim ng kaniyang punong ubas at sa ilalim ng kaniyang punong igos; at walang tatakot sa kanila
 "Sapagka't ang lahat na bayan ay magsisilakad bawa't isa sa pangalan ng kanikaniyang dios

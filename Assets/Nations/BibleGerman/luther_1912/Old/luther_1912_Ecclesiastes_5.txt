@@ -5,7 +5,7 @@
 "Es ist besser, du gelobst nichts, denn daß du nicht hältst, was du gelobst."
 "Laß deinem Mund nicht zu, daß er dein Fleisch verführe; und sprich vor dem Engel nicht
 "Wo viel Träume sind, da ist Eitelkeit und viel Worte; aber fürchte du Gott."
-"Siehst du dem Armen Unrecht tun und Recht und Gerechtigkeit im Lande wegreißen, wundere dich des Vornehmens nicht; denn es ist ein hoher Hüterüber den Hohen und sind noch Höhereüber die beiden.{~}{~}"
+"Siehst du dem Armen Unrecht tun und Recht und Gerechtigkeit im Lande wegreißen, wundere dich des Vornehmens #nicht; denn es ist ein hoher Hüterüber den Hohen und sind noch Höhereüber die beiden.{~}{~}"
 "Und immer ist's Gewinn für ein Land, wenn ein König da ist für das Feld, das man baut."
 "Wer Geld liebt, wird Geldes nimmer satt; und wer Reichtum liebt, wird keinen Nutzen davon haben. Das ist auch eitel."
 "Denn wo viel Guts ist, da sind viele, die es essen; und was genießt davon, der es hat, außer daß er's mit Augen ansieht?"
@@ -15,6 +15,6 @@
 "Wie er nackt ist von seine Mutter Leibe gekommen, so fährt er wieder hin, wie er gekommen ist, und nimmt nichts mit sich von seiner Arbeit in seiner Hand, wenn er hinfährt."
 "Das ist ein bösesÜbel, daß er hinfährt, wie er gekommen ist. Was hilft's ihm denn, daß er in den Wind gearbeitet hat?{~}"
 "Sein Leben lang hat er im Finstern gegessen und in großem Grämen und Krankheit und Verdruß."
-"So sehe ich nun das für gut an, daß es fein sei, wenn man ißt und trinkt und gutes Muts ist in aller Arbeit, die einer tut unter der Sonne sein Leben lang, das Gott ihm gibt; denn das ist sein Teil.{~}"
+"So sehe ich nun das für gut an, daß es fein sei, wenn man ißt und trinkt und gutes Muts ist in #aller Arbeit, die einer tut unter der Sonne sein Leben lang, das Gott ihm gibt; denn das ist sein Teil.{~}"
 "Denn welchem Menschen Gott Reichtum und Güter gibt und die Gewalt, daß er davon ißt und trinkt für sein Teil und fröhlich ist in seiner Arbeit, das ist eine Gottesgabe."
 "Denn er denkt nicht viel an die Tage seines Lebens, weil Gott sein Herz erfreut.{~}"

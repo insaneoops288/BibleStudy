@@ -3,8 +3,8 @@
 "Dan Basyemat, anak Ismail, yaitu saudara perempuan Nebayot."
 "Maka Adah itu beranaklah Elifaz bagi Esaf, dan Basyemat beranaklah Rehuil."
 "Maka Aholibama beranaklah Yehusy dan Yaelam dan Korah. Maka sekalian inilah anak laki-laki Esaf, yang telah diperanakkan baginya di tanah Kanaan."
-"Adapun Esaf itupun membawa akan segala bininya dan segala anak-anaknya laki-laki dan perempuan dan segala orang isi rumahnya dan lembu kambingnya dan segala binatangnya dan segala harta bendanya, yang telah diperolehnya di tanah Kanaan, lalu pergilah ia kepada suatu tanah yang jauh dari pada Yakub, saudaranya."
-"Karena harta benda mereka itu terlalu banyak, sehingga tiada boleh mereka itu duduk bersama-sama, dan tanah tempat mereka itu menumpang seperti orang dagang itu tiada termuat akan mereka itu oleh sebab banyak binatangnya."
+"Adapun Esaf itupun membawa akan segala bininya dan segala anak-anaknya laki-laki dan perempuan dan segala orang isi rumahnya dan lembu kambingnya dan segala binatangnya #dan segala harta bendanya, yang telah diperolehnya di tanah Kanaan, lalu pergilah ia kepada suatu tanah yang jauh dari pada Yakub, saudaranya."
+"Karena harta benda mereka itu terlalu banyak, sehingga tiada boleh mereka itu duduk bersama-sama, dan tanah tempat #mereka itu menumpang seperti orang dagang itu tiada termuat akan mereka itu oleh sebab banyak binatangnya."
 "Sebab itu duduklah Esaf di gunung Seir, maka Esaf itupun Edom."
 "Maka inilah anak cucu Esaf, bapa orang Edom di gunung Seir;"
 "dan inilah nama-nama segala anak laki-laki Esaf

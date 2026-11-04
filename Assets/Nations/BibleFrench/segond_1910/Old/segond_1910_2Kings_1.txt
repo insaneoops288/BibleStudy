@@ -10,7 +10,7 @@
 "Elie répondit au chef de cinquante
 "Achazia envoya de nouveau vers lui un autre chef de cinquante avec ses cinquante hommes. Ce chef prit la parole et dit à Elie
 "Elie leur répondit
-"Achazia envoya de nouveau un troisième chef de cinquante avec ses cinquante hommes. Ce troisième chef de cinquante monta; et à son arrivée, il fléchit les genoux devant Elie, et lui dit en suppliant
+"Achazia envoya de nouveau un troisième chef de cinquante avec ses cinquante hommes. Ce troisième chef de cinquante #monta; et à son arrivée, il fléchit les genoux devant Elie, et lui dit en suppliant
 "Voici, le feu est descendu du ciel et a consumé les deux premiers chefs de cinquante et leurs cinquante hommes
 "L'ange de l'Eternel dit à Elie
 "Il lui dit

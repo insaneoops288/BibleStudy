@@ -16,12 +16,12 @@
 "Ja vaimon isä sanokaan vanhimmille
 "Ja katso, hän soimaa häntä häpiällisiin asioihin vikapääksi, ja sanoo
 "Niin kaupungin vanhimmat ottakaan sen miehen, ja rangaiskaan häntä."
-"Ja sakoittakaan hänen sataan hopiasikliin ja antakaan ne nuoren vaimon isälle, että hän häpäisi neitseen Israelissa, ja hänen pitää pitämän hänen emäntänänsä, eikä saa häntä hyljätä kaikkena elinaikanansa."
+"Ja sakoittakaan hänen sataan hopiasikliin ja antakaan ne nuoren vaimon isälle, että hän häpäisi neitseen #Israelissa, ja hänen pitää pitämän hänen emäntänänsä, eikä saa häntä hyljätä kaikkena elinaikanansa."
 "Ja jos se tosi on, ettei vaimo löydetty neitseeksi;"
 "Niin vietäkään vaimo isänsä huoneen ovelle, ja kaupungin kansa kivittäkään hänen kuoliaaksi, että hän teki tyhmyyden Israelissa, ja että hän salavuoteudessa makasi isänsä huoneessa
 "Jos joku löydetään maanneeksi vaimon tykönä, jolla aviomies on, niin pitää molempain kuoleman, sekä miehen, että vaimon, jonka tykönä hän makasi; ja niin pahuus otetaan pois Israelista."
 "Jos joku piika on mieheltä kihlattu, ja joku häneen ryhtyy kaupungissa, ja makaa hänen;"
-"Niin pitää ne molemmat vietämän kaupungin porttiin, ja molemmat kivitettämän kuoliaaksi, piika, ettei hän huutanut, sillä hän oli kaupungissa, mies, että hän lähimmäisensä vaimon häpäisi; ja niin sinä eroitat pahan tyköäs."
+"Niin pitää ne molemmat vietämän kaupungin porttiin, ja molemmat kivitettämän kuoliaaksi, piika, ettei hän huutanut, sillä #hän oli kaupungissa, mies, että hän lähimmäisensä vaimon häpäisi; ja niin sinä eroitat pahan tyköäs."
 "Jos joku löytää kihlatun piian kedolla, ryövää ja makaa hänen, niin mies pitää yksin tapettaman, joka makasi hänen;"
 "Vaan piialle ei sinun pidä mitään tekemän; sillä ei piika yhtään kuoleman syntiä tehnyt, vaan niinkuin joku karkais lähimmäistänsä vastaan, ja löis hänen kuoliaaksi, niin on myös tämä asia."
 "Sillä hän löysi hänen kedolla

@@ -15,4 +15,4 @@
 "Ten dzień będzie dniem gniewu, dniem niedoli i ucisku, dniem grozy i spustoszenia,dniem ciemności i mroku, dniem chmury i mgły."
 "Dniem trąb oraz wojennej trwogi przeciwko warownym miastom i wysokim, obronnym zwieńczeniom."
 "Ucisnę ludzi, zatem będą się błąkać jak niewidomi, gdyż zgrzeszyli przeciwko WIEKUISTEMU. Ich krew będzie rozbryzganą jak proch, a ich cielesna natura jak pomiot."
-"W dzień uniesienia WIEKUISTEGO nie zdoła ich ocalić ich srebro i złoto, gdyż ogniem Jego żarliwości będzie pochłonięta cała ziemia, bo nadszedł kres; tak nagłą zgubę przygotuje On wszystkim mieszkańcom ziemi."
+"W dzień uniesienia WIEKUISTEGO nie zdoła ich ocalić ich srebro i złoto, gdyż ogniem Jego żarliwości #będzie pochłonięta cała ziemia, bo nadszedł kres; tak nagłą zgubę przygotuje On wszystkim mieszkańcom ziemi."

@@ -9,7 +9,7 @@
 "Dan setelah mereka kembali dari kubur, mereka menceriterakan semuanya itu kepada kesebelas murid dan kepada semua saudara yang lain."
 "Perempuan-perempuan itu ialah Maria dari Magdala, dan Yohana, dan Maria ibu Yakobus. Dan perempuan-perempuan lain juga yang bersama-sama dengan mereka memberitahukannya kepada rasul-rasul."
 "Tetapi bagi mereka perkataan-perkataan itu seakan-akan omong kosong dan mereka tidak percaya kepada perempuan-perempuan itu."
-"Sungguhpun demikian Petrus bangun, lalu cepat-cepat pergi ke kubur itu. Ketika ia menjenguk ke dalam, ia melihat hanya kain kapan saja. Lalu ia pergi, dan ia bertanya dalam hatinya apa yang kiranya telah terjadi."
+"Sungguhpun demikian Petrus bangun, lalu cepat-cepat pergi ke kubur itu. Ketika ia menjenguk ke dalam, ia melihat hanya #kain kapan saja. Lalu ia pergi, dan ia bertanya dalam hatinya apa yang kiranya telah terjadi."
 "Pada hari itu juga dua orang dari murid-murid Yesus pergi ke sebuah kampung bernama Emaus, yang terletak kira-kira tujuh mil jauhnya dari Yerusalem,"
 "dan mereka bercakap-cakap tentang segala sesuatu yang telah terjadi."
 "Ketika mereka sedang bercakap-cakap dan bertukar pikiran, datanglah Yesus sendiri mendekati mereka, lalu berjalan bersama-sama dengan mereka."

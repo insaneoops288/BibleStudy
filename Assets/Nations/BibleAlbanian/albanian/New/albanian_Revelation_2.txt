@@ -6,10 +6,10 @@
 "Kush ka veshë, le të dëgjojë atë që u thotë Fryma kishave
 "''Dhe engjëllit të kishës në Smirnë, shkruaji
 "Unë i njoh veprat e tua, dhe shtrengimin e varfërinë (por ti je i pasur) dhe blasfeminë e atyre që e quajnë veten Judenj, por nuk janë, por janë një sinagogë e Satanit."
-"Mos ki frikë nga ato për të cilat do të vuash; ja, djalli do të hedhë disa prej jush në burg, që të provoheni, dhe ju do të keni shtrengim për dhjetë ditë. Ji besnik deri në vdekje dhe unë do të të jap kurorën e jetës."
+"Mos ki frikë nga ato për të cilat do të vuash; ja, djalli do të hedhë disa prej jush në burg, që të provoheni, #dhe ju do të keni shtrengim për dhjetë ditë. Ji besnik deri në vdekje dhe unë do të të jap kurorën e jetës."
 "Kush ka veshë, le të dëgjojë atë që Fryma u thotë kishave
 "''Dhe engjëllit të kishës në Pergam, shkruaji
-"Unë i di veprat e tua dhe ku banon, atje ku është froni i Satanit; dhe ti mbahesh fort tek emri im dhe nuk e mohove besimin në mua, edhe në ato ditë kur Antipa, dëshmitari im, besnik, u vra midis jush, atje ku banon Satani."
+"Unë i di veprat e tua dhe ku banon, atje ku është froni i Satanit; dhe ti mbahesh fort tek emri im dhe nuk #e mohove besimin në mua, edhe në ato ditë kur Antipa, dëshmitari im, besnik, u vra midis jush, atje ku banon Satani."
 "Por kam disa gjëra kundër teje
 "Kështu ti ke edhe disa që mbajnë mësimin e Nikolaitëve, të cilën gjë e urrej."
 "Pendohu, përndryshe do të vij së shpejti te ti dhe do të luftoj kundër tyre me shpatën e gojës sime."

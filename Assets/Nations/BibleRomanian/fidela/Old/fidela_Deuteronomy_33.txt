@@ -13,8 +13,8 @@
 "Şi despre Iosif a spus
 "Şi cu roadele preţioase [aduse de] soare şi cu lucrurile preţioase date de lună,"
 "Şi cu lucrurile de seamă ale munţilor străvechi şi cu lucrurile preţioase ale dealurilor veşnice,"
-"Şi cu lucrurile preţioase ale pământului şi ale plinătăţii lui şi [cu] bunăvoinţa celui care locuia în rug, să vină [binecuvântarea ]peste capul lui Iosif şi peste creştetul capului celui separat de fraţii săi."
-"Gloria lui [este] [ca] întâiul născut al taurului său şi coarnele lui [sunt] coarnele unicornilor, cu ele va împunge laolaltă popoarele până la marginile pământului, şi ei [sunt] zecile de mii ale lui Efraim şi ei [sunt ]miile lui Manase."
+"Şi cu lucrurile preţioase ale pământului şi ale plinătăţii lui şi [cu] bunăvoinţa celui care locuia în rug, #să vină [binecuvântarea ]peste capul lui Iosif şi peste creştetul capului celui separat de fraţii săi."
+"Gloria lui [este] [ca] întâiul născut al taurului său şi coarnele lui [sunt] coarnele unicornilor, cu ele va împunge laolaltă popoarele #până la marginile pământului, şi ei [sunt] zecile de mii ale lui Efraim şi ei [sunt ]miile lui Manase."
 "Şi despre Zabulon a spus
 "Ei vor chema popoarele la munte; acolo vor aduce ofrande ale dreptăţii, pentru că vor suge [din ]abundenţa mărilor şi [din ]tezaurele ascunse în nisip."
 "Şi despre Gad a spus
@@ -26,4 +26,4 @@
 "Nimeni nu [este] ca Dumnezeul lui Ieşurun, [care] călăreşte pe cer în ajutorul tău şi în cer în măreţia sa."
 "Dumnezeul cel etern [este ]scăparea [ta ]şi dedesubt [sunt] braţele cele veşnice, şi el va alunga pe duşman dinaintea ta; şi va spune
 "Atunci Israel va locui singur în siguranţă, fântâna lui Iacob [va fi] într-o ţară de grâne şi de vin, de asemenea, cerurile sale vor picura rouă."
-"Fericit [eşti ]tu, Israele, cine [este] ca tine, O tu popor salvat de DOMNUL, scutul ajutorului tău şi cine [este ]sabia măreţiei tale! Şi duşmanii tăi vor fi găsiţi mincinoşi înaintea ta; şi vei călca peste înălţimile lor."
+"Fericit [eşti ]tu, Israele, cine [este] ca tine, O tu popor salvat de DOMNUL, scutul ajutorului tău şi cine [este #]sabia măreţiei tale! Şi duşmanii tăi vor fi găsiţi mincinoşi înaintea ta; şi vei călca peste înălţimile lor."

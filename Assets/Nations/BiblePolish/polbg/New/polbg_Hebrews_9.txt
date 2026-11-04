@@ -12,11 +12,11 @@
 "Ani przez krew kozłów i cielców, ale przez własną krew swoję wszedł raz do świątnicy, znalazłszy wieczne odkupienie."
 "Albowiem jeźli krew wołów i kozłów, i popiół jałowicy pokrapiający splugawione poświęca ku oczyszczeniu ciała
 "Jakoż daleko więcej krew Chrystusowa, który przez Ducha wiecznego samego siebie ofiarował nienaganionym Bogu, oczyści sumienie wasze od uczynków martwych ku służeniu Bogu żywemu?"
-"I dlatego jest nowego testamentu pośrednikiem, aby gdyby śmierć nastąpiła na odkupienie onych występków, które były pod pierwszym testamentem, ci którzy są powołani, wzięli obietnicę wiecznego dziedzictwa."
+"I dlatego jest nowego testamentu pośrednikiem, aby gdyby śmierć nastąpiła na odkupienie onych występków, #które były pod pierwszym testamentem, ci którzy są powołani, wzięli obietnicę wiecznego dziedzictwa."
 "Albowiem gdzie jest testament, potrzeba, aby śmierć nastąpiła tego, który czyni testament."
 "Bo testament tych, którzy zmarli, mocny jest, gdyż jeszcze nie jest ważny, póki żyje ten, co testament uczynił."
 "Skąd ani on pierwszy testament bez krwi nie był poświęcony."
-"Albowiem gdy Mojżesz wszystko przykazanie według zakonu opowiedział wszystkiemu ludowi, wziąwszy krew cielców i kozłów z wodą i z wełną szarłatową, i z hizopem, i same księgi, i lud wszystek pokropił,"
+"Albowiem gdy Mojżesz wszystko przykazanie według zakonu opowiedział wszystkiemu ludowi, wziąwszy krew cielców i kozłów z #wodą i z wełną szarłatową, i z hizopem, i same księgi, i lud wszystek pokropił,"
 "Mówiąc
 "Do tego i przybytek, i wszystko naczynie do służby Bożej należące krwią także pokropił."
 "A niemal wszystko według zakonu krwią oczyszczone bywa, a bez rozlania krwi nie bywa odpuszczenie grzechów."

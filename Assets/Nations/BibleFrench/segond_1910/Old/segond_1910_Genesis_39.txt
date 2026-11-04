@@ -2,7 +2,7 @@
 "L'Eternel fut avec lui, et la prospérité l'accompagna; il habitait dans la maison de son maître, l'Egyptien."
 "Son maître vit que l'Eternel était avec lui, et que l'Eternel faisait prospérer entre ses mains tout ce qu'il entreprenait."
 "Joseph trouva grâce aux yeux de son maître, qui l'employa à son service, l'établit sur sa maison, et lui confia tout ce qu'il possédait."
-"Dès que Potiphar l'eut établi sur sa maison et sur tout ce qu'il possédait, l'Eternel bénit la maison de l'Egyptien, à cause de Joseph; et la bénédiction de l'Eternel fut sur tout ce qui lui appartenait, soit à la maison, soit aux champs."
+"Dès que Potiphar l'eut établi sur sa maison et sur tout ce qu'il possédait, l'Eternel bénit la maison de l'Egyptien, à cause #de Joseph; et la bénédiction de l'Eternel fut sur tout ce qui lui appartenait, soit à la maison, soit aux champs."
 "Il abandonna aux mains de Joseph tout ce qui lui appartenait, et il n'avait avec lui d'autre soin que celui de prendre sa nourriture. Or, Joseph était beau de taille et beau de figure."
 "Après ces choses, il arriva que la femme de son maître porta les yeux sur Joseph, et dit
 "Il refusa, et dit à la femme de son maître

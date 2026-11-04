@@ -10,4 +10,4 @@
 "Mutta nyt sen täytyy tyhjennetyksi, peräti paljastetuksi ja hävitetyksi tulla; sydän on rauvennut pois, polvet horjuvat, ja kaikki lanteet vapisevat, ja kaikkein kasvot mustaksi muuttuvat."
 "Kussa nyt on jalopeurain asuinsia ja nuorten jalopeurain laidun, johon jalopeura meni, ja naaras jalopeura, jalopeuran penikan kanssa, ja ei tohtinut kenkään heitä karkottaa?"
 "Vaan jalopeura raateli kyllä penikoillensa ja mursi naarasjalopeuroillensa; ja täytti luolansa raateluksesta ja pesänsä ryöstämisestä."
-"Katso, minä tulen sinun tykös, sanoo Herra Zebaot, ja sytytän sinun rattaas savuun, ja miekan pitää sinun nuoret jalopeuras syömän; ja minä teen lopun sinun ryöstämisestäs maassa, ettei enään pidä sinun sanansaattajas ääntä kuuluman."
+"Katso, minä tulen sinun tykös, sanoo Herra Zebaot, ja sytytän sinun rattaas savuun, ja miekan pitää sinun nuoret #jalopeuras syömän; ja minä teen lopun sinun ryöstämisestäs maassa, ettei enään pidä sinun sanansaattajas ääntä kuuluman."

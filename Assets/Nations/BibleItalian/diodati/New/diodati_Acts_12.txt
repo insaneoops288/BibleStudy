@@ -7,7 +7,7 @@
 "Ed ecco, un angelo del Signore sopraggiunse, ed una luce risplendè nella casa; e l’angelo, percosso il fianco a Pietro, lo svegliò, dicendo
 "E l’angelo gli disse
 "Pietro adunque, essendo uscito, lo seguitava, e non sapeva che fosse vero quel che si faceva dall’angelo; anzi pensava vedere una visione."
-"Ora, com’ebbero passata la prima e la seconda guardia, vennero alla porta di ferro che conduce alla città, la qual da sè stessa si aperse loro; ed essendo usciti, passarono una strada, e in quello stante l’angelo si dipartì da lui."
+"Ora, com’ebbero passata la prima e la seconda guardia, vennero alla porta di ferro che conduce alla città, la qual da #sè stessa si aperse loro; ed essendo usciti, passarono una strada, e in quello stante l’angelo si dipartì da lui."
 "E Pietro, ritornato in sè, disse
 "E considerando la cosa, venne in casa di Maria, madre di Giovanni, soprannominato Marco, ove molti fratelli erano raunati, ed oravano."
 "Ed avendo Pietro picchiato all’uscio dell’antiporto, una fanticella, chiamata per nome Rode, si accostò chetamente per sottascoltare."
@@ -17,7 +17,7 @@
 "Ma egli, fatto lor cenno con la mano che tacessero, raccontò loro come il Signore l’avea tratto fuor di prigione. Poi disse
 "Ora, fattosi giorno, vi fu non piccol turbamento fra i soldati, che cosa Pietro fosse divenuto."
 "Ed Erode, ricercatolo, e non avendolo trovato, dopo avere esaminate le guardie, comandò che fosser menate al supplicio. Poi discese di Giudea in Cesarea, e quivi dimorò alcun tempo."
-"Or Erode era indegnato contro a’ Tirii, e Sidonii, ed avea nell’animo di far lor guerra; ma essi di pari consentimento si presentarono a lui; e, persuaso Blasto, cameriere del re, chiedevano pace; perciocchè il lor paese era nudrito di quel del re."
+"Or Erode era indegnato contro a’ Tirii, e Sidonii, ed avea nell’animo di far lor guerra; ma essi di pari consentimento si #presentarono a lui; e, persuaso Blasto, cameriere del re, chiedevano pace; perciocchè il lor paese era nudrito di quel del re."
 "E in un certo giorno assegnato, Erode, vestito d’una vesta reale, e sedendo sopra il tribunale, arringava loro."
 "E il popolo gli fece delle acclamazioni, dicendo
 "E in quello stante un angelo del Signore lo percosse, perciocchè non avea data gloria a Dio; e morì, roso da’ vermini."

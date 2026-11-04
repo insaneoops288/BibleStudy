@@ -20,7 +20,7 @@
 "E começou Noé a cultivar a terra e plantou uma vinha."
 "Bebeu do vinho, e embriagou-se; e achava-se nu dentro da sua tenda."
 "E Cão, pai de Canaã, viu a nudez de seu pai, e o contou a seus dois irmãos que estavam fora."
-"Então tomaram Sem e Jafet uma capa, e puseram-na sobre os seus ombros, e andando virados para trás, cobriram a nudez de seu pai, tendo os rostos virados, de maneira que não viram a nudez de seu pai."
+"Então tomaram Sem e Jafet uma capa, e puseram-na sobre os seus ombros, e andando virados para trás, cobriram a #nudez de seu pai, tendo os rostos virados, de maneira que não viram a nudez de seu pai."
 "Despertado que foi Noé do seu vinho, soube o que seu filho mais moço lhe fizera;"
 "e disse
 "Disse mais

@@ -23,7 +23,7 @@
 "Mas Gedeón respondió
 "Y díjoles Gedeón
 "Y ellos respondieron
-"Y fué el peso de los zarcillos de oro que él pidió, mil y setecientos siclos de oro; sin las planchas, y joyeles, y vestidos de púrpura, que traían los reyes de Madián, y sin los collares que traían sus camellos al cuello."
+"Y fué el peso de los zarcillos de oro que él pidió, mil y setecientos siclos de oro; sin las planchas, y #joyeles, y vestidos de púrpura, que traían los reyes de Madián, y sin los collares que traían sus camellos al cuello."
 "Y Gedeón hizo de ellos un ephod, el cual hizo guardar en su ciudad de Ophra
 "Así fué humillado Madián delante de los hijos de Israel, y nunca más levantaron su cabeza. Y reposó la tierra cuarenta años en los días de Gedeón."
 "Y Jerobaal hijo de Joas fué, y habitó en su casa."

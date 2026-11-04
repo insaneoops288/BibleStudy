@@ -3,7 +3,7 @@
 "Mutta vähän minä sitä tottelen, että minä teiltä tuomitaan eli inhimilliseltä päivältä
 "Sillä en minä tiedä mitään kanssani; mutta en minä sentähden vanhurskautettu ole, vaan Herra on se, joka minun tuomitsee."
 "Sentähden älkäät tuomitko ennen aikaa, siihenasti kuin Herra tulee, joka nekin valkeuteen saattaa, mitkä pimeydessä peitetyt ovat, ja ilmoittaa sydänten aivoitukset
-"Mutta näitä, rakkaat veljet, olen minä minustani ja Apollosta ulostoimittanut teidän tähtenne, että te meistä oppisitte, ettei kenkään enempää itsestänsä ajattelisi kuin kirjoitettu on, ettei yksikään teistä toistansa vastaan pidä jonkun tähden itsiänsä paisuttaman."
+"Mutta näitä, rakkaat veljet, olen minä minustani ja Apollosta ulostoimittanut teidän tähtenne, että te meistä oppisitte, ettei kenkään #enempää itsestänsä ajattelisi kuin kirjoitettu on, ettei yksikään teistä toistansa vastaan pidä jonkun tähden itsiänsä paisuttaman."
 "Sillä kuka sinun eroittaa? Taikka mitä sinulla on, jota et sinä ole saanut? Jos siitä siis saanut olet, mitäs kerskaat niinkuin et sinä saanut olisi?"
 "Jo te olette ravitut, jo te olette rikastuneet, ilman meitä te vallitsette
 "Sillä minä luulen, että Jumala on meitä apostoleita viimeisiksi asettanut, niinkuin surmattaviksi; sillä me olemme maailmalle, ja enkeleille, ja ihmisille ihmeeksi tulleet."
@@ -14,7 +14,7 @@
 "En minä näitä kirjoita häväistäkseni teitä, vaan minä neuvon teitä niinkuin rakkaita lapsiani."
 "Sillä ehkä teillä olis kymmenentuhatta opettajaa Kristuksessa, niin ei teillä kuitenkaan ole monta isää; sillä minä olen teitä Kristuksessa Jesuksessa siittänyt evankeliumin kautta."
 "Sentähden neuvon minä teitä, olkaat minun tavoittajani."
-"Sentähden lähetin minä teille Timoteuksen, joka on minun rakas ja uskollinen poikani Herrassa, jonka pitää muistuttaman teille minun tieni, jotka ovat Kristuksessa, niinkuin minä joka paikassa kaikissa seurakunnissa opetan."
+"Sentähden lähetin minä teille Timoteuksen, joka on minun rakas ja uskollinen poikani Herrassa, jonka pitää #muistuttaman teille minun tieni, jotka ovat Kristuksessa, niinkuin minä joka paikassa kaikissa seurakunnissa opetan."
 "Mutta muutamat ovat teistä paisuneet, niinkuin en minä teidän tykönne tuleva oliskaan."
 "Mutta ennen paljoa aikaa tulen minä teidän tykönne, jos Herra tahtoo, ja tahdon tietää, ei paisuneitten sanojen, vaan voimaa."
 "Sillä Jumalan valtakunta ei ole puheessa, vaan voimassa."

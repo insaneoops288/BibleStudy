@@ -1,7 +1,7 @@
 "Si volvieres a mí, oh Israel, dijo el SEÑOR, tendrás reposo; y si quitares de delante de mí tus abominaciones, no pasarás <I>a cautividad</I> ."
 "Y jurarás, <I>diciendo</I> , Vive el SEÑOR, con verdad, con juicio, y con justicia; y se bendecirán en él los gentiles, y en él se gloriarán."
 "Porque así dijo el SEÑOR a todo varón de Judá y de Jerusalén
-"Circuncidaos al SEÑOR, y quitad los prepucios de vuestro corazón, varones de Judá y moradores de Jerusalén; no sea que mi ira salga como fuego, y se encienda y no haya quien apague, por la malicia de vuestras obras."
+"Circuncidaos al SEÑOR, y quitad los prepucios de vuestro corazón, varones de Judá y moradores de Jerusalén; no sea que #mi ira salga como fuego, y se encienda y no haya quien apague, por la malicia de vuestras obras."
 "Denunciad en Judá, y haced oír en Jerusalén, y decid
 "Alzad bandera en Sion, juntaos, no os detengáis; porque yo hago venir mal del aquilón, y quebrantamiento grande."
 "El león sube de su guarida, y el destruidor de gentiles ha partido; salió de su asiento para poner tu tierra en soledad; tus ciudades serán asoladas sin morador."
@@ -26,6 +26,6 @@
 "Miré, y he aquí el Carmelo desierto, y todas sus ciudades eran asoladas a la presencia del SEÑOR, a la presencia de la ira de su furor."
 "Porque así dijo el SEÑOR
 "Por esto la tierra será asolada, y los cielos arriba se oscurecerán, porque hablé, pensé, y no me arrepentí, ni me tornaré de ello."
-"Del estruendo de la gente de <I>a</I>  caballo y de los flecheros huyó toda la ciudad; se entraron en las espesuras de los bosques, y se subieron en peñascos; toda ciudad fue desamparada, y no habita en ellas varón alguno."
-"Y tú, destruida, ¿qué harás? Aunque te vistas de grana, aunque te adornes con atavíos de oro, aunque pintes con antimonio tus ojos, en vano te engalanas; te menospreciarán los amadores, buscarán tu vida."
+"Del estruendo de la gente de <I>a</I>  caballo y de los flecheros huyó toda la ciudad; se entraron en las #espesuras de los bosques, y se subieron en peñascos; toda ciudad fue desamparada, y no habita en ellas varón alguno."
+"Y tú, destruida, ¿qué harás? Aunque te vistas de grana, aunque te adornes con atavíos de oro, aunque #pintes con antimonio tus ojos, en vano te engalanas; te menospreciarán los amadores, buscarán tu vida."
 "Porque voz oí como de mujer que está de parto, angustia como de primeriza; voz de la hija de Sion <I>que</I>  lamenta y extiende sus manos, <I>diciendo</I>

@@ -13,7 +13,7 @@
 "PAN wyruszy jak mocarz, jak mąż waleczny wzbudzi swoją gorliwość. Zawoła, nawet zagrzmi i odniesie zwycięstwo nad swoimi wrogami;"
 "Mówiąc
 "Góry i pagórki zamienię w pustynię i całą ich zieleń wysuszę. Zamienię rzeki w wyspy, a jeziora wysuszę."
-"Powiodę ślepych drogą, której nie znali, poprowadzę ich ścieżkami, o których nie wiedzieli. Ciemność zamienię w światłość przed nimi, a miejsca nierówne – w równinę. To są rzeczy, które dla nich uczynię, a nie opuszczę ich."
+"Powiodę ślepych drogą, której nie znali, poprowadzę ich ścieżkami, o których nie wiedzieli. Ciemność zamienię w światłość przed nimi, #a miejsca nierówne – w równinę. To są rzeczy, które dla nich uczynię, a nie opuszczę ich."
 "Cofną się i bardzo zawstydzą się ci, którzy ufają rzeźbionym posągom, którzy mówią odlanym posągom
 "O głusi, słuchajcie! Wy, ślepi, przejrzyjcie, abyście widzieli."
 "Kto jest ślepy, jeśli nie mój sługa, i głuchy, jeśli nie mój posłaniec, którego posłałem? Kto jest tak ślepy jak ten, który jest doskonały, kto tak ślepy jak sługa PANA?"

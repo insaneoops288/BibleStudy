@@ -5,7 +5,7 @@
 "Los saciados se alquilaron por pan; y los hambrientos dejaron de estarlo; aun la estéril dio a luz a siete, y la que tenía muchos hijos languidece."
 "Jehová mata, y Él da vida
 "Jehová empobrece, y Él enriquece
-"Él levanta del polvo al pobre, y del muladar exalta al menesteroso, para hacerle sentar con príncipes, y hacerle heredar un trono de honor. Porque de Jehová son las columnas de la tierra, y Él asentó sobre ellas el mundo."
+"Él levanta del polvo al pobre, y del muladar exalta al menesteroso, para hacerle sentar con príncipes, y hacerle heredar un #trono de honor. Porque de Jehová son las columnas de la tierra, y Él asentó sobre ellas el mundo."
 "Él guarda los pies de sus santos, mas los impíos perecen en tinieblas; porque nadie prevalecerá por su propia fuerza."
 "Delante de Jehová serán quebrantados sus adversarios, y sobre ellos tronará desde los cielos
 "Y Elcana se volvió a su casa en Ramá; y el niño ministraba a Jehová delante del sacerdote Elí."
@@ -25,8 +25,8 @@
 "Si pecare el hombre contra el hombre, los jueces le juzgarán; mas si alguno pecare contra Jehová, ¿quién rogará por él? Mas ellos no oyeron la voz de su padre, porque Jehová los quería matar."
 "Y el joven Samuel crecía, y tenía gracia delante de Dios y de los hombres."
 "Y vino un varón de Dios a Elí, y le dijo
-"Y yo le escogí por mi sacerdote entre todas las tribus de Israel, para que ofreciese sobre mi altar, y quemase incienso, y trajese efod delante de mí; y di a la casa de tu padre todas las ofrendas de los hijos de Israel."
-"¿Por qué habéis hollado mis sacrificios y mis presentes, que yo mandé ofrecer en el tabernáculo; y has honrado a tus hijos más que a mí, engordándoos de lo principal de todas las ofrendas de mi pueblo Israel?"
+"Y yo le escogí por mi sacerdote entre todas las tribus de Israel, para que ofreciese sobre mi altar, y quemase incienso, y #trajese efod delante de mí; y di a la casa de tu padre todas las ofrendas de los hijos de Israel."
+"¿Por qué habéis hollado mis sacrificios y mis presentes, que yo mandé ofrecer en el tabernáculo; y has honrado a #tus hijos más que a mí, engordándoos de lo principal de todas las ofrendas de mi pueblo Israel?"
 "Por tanto, Jehová el Dios de Israel dice
 "He aquí vienen días, en que cortaré tu brazo, y el brazo de la casa de tu padre, que no haya viejo en tu casa."
 "Y verás a un enemigo en mi habitación, en todas las riquezas que Dios dará a Israel; y en ningún tiempo habrá anciano en tu casa."

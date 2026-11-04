@@ -1,7 +1,7 @@
 "Wtedy przystąpili naczelnicy spośród ojców synów Gileada, syna Makira, syna Manassesa, z domów Józefa, i mówili przed Mojżeszem i przed książętami, naczelnikami ojców synów Izraela
 "PAN nakazał memu panu rozdzielić ziemię w dziedzictwo synom Izraela przez losowanie; mojemu panu rozkazano też przez PANA dać dziedzictwo naszego brata Selofchada jego córkom."
-"Jeśli więc któryś z synów innego pokolenia synów Izraela pojmie je za żony, to ich dziedzictwo zostanie odjęte od dziedzictwa naszych ojców i przyłączone do dziedzictwa pokolenia, do którego będą należeć; w ten sposób nasze dziedzictwo się zmniejszy."
-"A gdy nadejdzie rok jubileuszowy dla synów Izraela, wtedy ich dziedzictwo zostanie przyłączone do dziedzictwa pokolenia, do którego będą należeć; i tak ich dziedzictwo zostanie odjęte od dziedzictwa pokolenia naszych ojców."
+"Jeśli więc któryś z synów innego pokolenia synów Izraela pojmie je za żony, to ich dziedzictwo zostanie odjęte od dziedzictwa #naszych ojców i przyłączone do dziedzictwa pokolenia, do którego będą należeć; w ten sposób nasze dziedzictwo się zmniejszy."
+"A gdy nadejdzie rok jubileuszowy dla synów Izraela, wtedy ich dziedzictwo zostanie przyłączone do dziedzictwa pokolenia, #do którego będą należeć; i tak ich dziedzictwo zostanie odjęte od dziedzictwa pokolenia naszych ojców."
 "Wtedy Mojżesz rozkazał synom Izraela zgodnie ze słowem PANA
 "Oto co PAN rozkazał w sprawie córek Selofchada
 "Aby dziedzictwo synów Izraela nie było przenoszone z jednego pokolenia na drugie pokolenie. Każdy bowiem z synów Izraela ma pozostać przy dziedzictwie pokolenia swoich ojców."

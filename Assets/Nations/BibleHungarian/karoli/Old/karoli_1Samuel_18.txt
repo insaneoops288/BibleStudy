@@ -3,7 +3,7 @@
 "És szövetséget kötének Jonathán és Dávid [egymással,] mivel úgy szerette õt, mint a saját lelkét."
 "És Jonathán leveté felsõ ruháját, a mely rajta volt, és Dávidnak adta, sõt hadi öltözetét is, saját kardját, kézívét és övét."
 "És elméne Dávid mindenüvé, a hová Saul küldé, és magát eszesen viseli vala. És Saul a harczosok fölé tevé õt, és kedves lõn az egész nép elõtt, és a Saul szolgái elõtt is."
-"És a mint [hazafelé] jövének, mikor Dávid visszatért, miután a Filiszteusokat leverte, kimentek az asszonyok Saul király elé Izráelnek minden városaiból, hogy énekeljenek és körben tánczoljanak, dobokkal, vígassággal és tomborákkal."
+"És a mint [hazafelé] jövének, mikor Dávid visszatért, miután a Filiszteusokat leverte, kimentek az asszonyok Saul #király elé Izráelnek minden városaiból, hogy énekeljenek és körben tánczoljanak, dobokkal, vígassággal és tomborákkal."
 "És énekelni kezdének az asszonyok, kik vígadozának és mondának
 "Saul pedig igen megharaguvék, és gonosznak tetszék az õ szemei elõtt ez a beszéd, és monda
 "Saul azért attól a naptól kezdve rossz szemmel néz vala Dávidra, sõt azután is."
@@ -24,7 +24,7 @@
 "És megmondák Saulnak az õ szolgái, mondván
 "Saul pedig monda
 "Megmondák azért az õ szolgái Dávidnak e beszédeket; és tetszék ez a dolog Dávidnak, hogy a király veje legyen. A [kitûzött] napok még el sem telének,"
-"Mikor Dávid felkelt, és elment embereivel együtt, és levágott a Filiszteusok közül kétszáz férfit; és elhozá Dávid elõbõreiket, és mind beadta azokat a királynak, hogy a királynak veje lehessen. És néki adá Saul az õ leányát, Mikált, feleségül."
+"Mikor Dávid felkelt, és elment embereivel együtt, és levágott a Filiszteusok közül kétszáz férfit; és elhozá Dávid elõbõreiket, és mind #beadta azokat a királynak, hogy a királynak veje lehessen. És néki adá Saul az õ leányát, Mikált, feleségül."
 "Mikor pedig Saul látta és megtudta, hogy az Úr Dáviddal van, és Mikál, a Saul leánya szereti õt
 "Akkor Saul még inkább félni kezde Dávidtól. És Saul ellensége lõn Dávidnak teljes életében."
 "A Filiszteusok vezérei pedig [gyakran] betörnek vala, de valahányszor betörének, Dávid Saul minden szolgáinál eszesebben viselé magát; azért felette híressé lõn az õ neve."

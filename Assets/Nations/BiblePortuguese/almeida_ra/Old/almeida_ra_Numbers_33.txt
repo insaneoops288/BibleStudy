@@ -35,7 +35,7 @@
 "Partiram de Abrona, e acamparam-se em Ecion-Guéber."
 "Partiram de Ecion-Guéber, e acamparam-se no deserto de Zim, que é Cades."
 "Partiram de Cades, e acamparam-se no monte Hor, na fronteira da terra de Edom."
-"Então Arão, o sacerdote, subiu ao monte Hor, conforme o mandado do Senhor, e ali morreu no quadragésimo ano depois da saída dos filhos de Israel da terra do Egipto, no quinto mês, no primeiro dia do mês."
+"Então Arão, o sacerdote, subiu ao monte Hor, conforme o mandado do Senhor, e ali morreu no quadragésimo ano depois #da saída dos filhos de Israel da terra do Egipto, no quinto mês, no primeiro dia do mês."
 "E Arão tinha cento e vinte e três anos de idade, quando morreu no monte Hor."
 "Ora, o cananeu, rei de Arade, que habitava o sul da terra de Canaã, ouviu que os filhos de Israel chegavam."
 "Partiram do monte Hor, e acamparam-se em Salmona."
@@ -49,8 +49,8 @@
 "isto é, acamparam-se junto ao Jordão, desde Bet-Haiechimot até Abel-Sitim, nas planícies de Moab."
 "Também disse o Senhor a Moisés, nas planícies de Moab, junto ao Jordão, na altura de Jericó
 "Fala aos filhos de Israel, e diz-lhes
-"lançareis fora todos os habitantes da terra de diante de vós, e destruireis todas as suas pedras em que há figuras; também destruireis todas as suas imagens de fundição, e desfareis todos os seus altos;"
+"lançareis fora todos os habitantes da terra de diante de vós, e destruireis todas as suas pedras em #que há figuras; também destruireis todas as suas imagens de fundição, e desfareis todos os seus altos;"
 "e tomareis a terra em possessão, e nela habitareis; porquanto a vós vos tenho dado esta terra para a possuirdes."
 "Herdareis a terra por meio de sortes, segundo as vossas famílias
-"Mas se não lançardes fora os habitantes da terra de diante de vós, os que deixardes ficar vos serão como espinhos nos olhos, e como abrolhos nas ilhargas, e vos perturbarão na terra em que habitardes;"
+"Mas se não lançardes fora os habitantes da terra de diante de vós, os que deixardes ficar vos serão #como espinhos nos olhos, e como abrolhos nas ilhargas, e vos perturbarão na terra em que habitardes;"
 "e eu vos farei a vós como pensei em fazer-lhes a eles."

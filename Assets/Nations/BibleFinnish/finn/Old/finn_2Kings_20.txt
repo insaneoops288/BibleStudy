@@ -3,14 +3,14 @@
 "Oi, Herra! muista että minä olen uskollisesti ja vaalla sydämellä vaeltanut sinun edessäs ja tehnyt, mikä sinulle otollinen ollut on! Ja Hiskia itki hartaasti."
 "Mutta kuin Jesaia ei ollut vielä puoli kaupunkiin käynyt ulos, tuli Herran sana hänen tykönsä ja sanoi
 "Palaja ja sano Hiskialle, kansani päämiehelle
-"Ja minä lisään sinun ikääs viisitoistakymmentä ajastaikaa, ja vapahdan sinun ja tämän kaupungin Assyrian kuninkaan kädestä, ja varjelen tämän kaupungin minun tähteni ja minun palveliani Davidin tähden."
+"Ja minä lisään sinun ikääs viisitoistakymmentä ajastaikaa, ja vapahdan sinun ja tämän kaupungin Assyrian #kuninkaan kädestä, ja varjelen tämän kaupungin minun tähteni ja minun palveliani Davidin tähden."
 "Ja Jesaia sanoi
 "Hiskia sanoi Jesaialle
 "Jesaia sanoi
 "Ja Hiskia sanoi
 "Niin rukoili Jesaia Herraa, ja hän veti varjon kymmenen piirtoa takaperin, jotka hän oli käynyt edeskäsin Ahaksen säjärissä."
 "Silloin lähetti Berodak Baladan Baladanin poika Babelin kuningas kirjoituksen ja lahjoja Hiskialle; sillä hän oli kuullut Hiskian sairastuneeksi."
-"Ja Hiskia kuuli heitä, ja osoitti heille koko tavarahuoneensa, hopian, kullan, kalliit yrtit, ja parhaan öljyn, ja koko asehuoneensa ja kaikki, mitä hänen tavaroissansa oli. Ja ei mitään ollut hänen huoneessansa ja kaikessa hänen vallassansa, jota ei Hiskia heille osoittanut."
+"Ja Hiskia kuuli heitä, ja osoitti heille koko tavarahuoneensa, hopian, kullan, kalliit yrtit, ja parhaan öljyn, ja koko asehuoneensa ja kaikki, #mitä hänen tavaroissansa oli. Ja ei mitään ollut hänen huoneessansa ja kaikessa hänen vallassansa, jota ei Hiskia heille osoittanut."
 "Niin tuli propheta Jesaia kuningas Hiskian tykö ja sanoi hänelle
 "Hän sanoi
 "Niin sanoi Jesaia Hiskialle

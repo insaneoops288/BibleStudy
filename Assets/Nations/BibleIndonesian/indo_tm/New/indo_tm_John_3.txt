@@ -1,11 +1,11 @@
 "Adalah seorang orang Parisi, namanya Nikodemus, seorang penghulu orang Yahudi."
-"Ia datang kepada Yesus pada malam, lalu berkata kepada-Nya, ""Ya Rabbi, kami tahu Rabbi seorang Guru yang datang daripada Allah, karena tiadalah seorang pun dapat memperbuat segala tanda ajaib, seperti Guru perbuat, jikalau tiada Allah ada sertanya."""
+"Ia datang kepada Yesus pada malam, lalu berkata kepada-Nya, ""Ya Rabbi, kami tahu Rabbi seorang Guru yang datang daripada #Allah, karena tiadalah seorang pun dapat memperbuat segala tanda ajaib, seperti Guru perbuat, jikalau tiada Allah ada sertanya."""
 "Maka Yesus pun menjawab serta berkata kepadanya, ""Sesungguh-sungguhnya Aku berkata kepadamu, jikalau seorang tiada diperanakkan pula, tiada dapat ia melihat kerajaan Allah."""
 "Maka kata Nikodemus kepada-Nya, ""Bagaimanakah orang dapat diperanakkan pada masa tuanya? Dapatkah ia masuk kembali ke dalam rahim ibunya, dan diperanakkan pula?"""
 "Maka jawab Yesus, ""Sesungguh-sungguhnya Aku berkata kepadamu
 "Barang yang diperanakkan daripada tabiat tubuh, tubuh juga; dan barang yang diperanakkan daripada Roh, Roh juga."
 "Jangan engkau heran, sebab sudah Kukatakan kepadamu
-"Angin bertiup barang ke mana dikehendakinya, dan engkau mendengar bunyi derunya, tetapi tiada engkau tahu dari mana datangnya dan ke mana perginya. Demikianlah hal tiap-tiap orang, yang jadi daripada Roh itu."""
+"Angin bertiup barang ke mana dikehendakinya, dan engkau mendengar bunyi derunya, tetapi tiada engkau tahu dari #mana datangnya dan ke mana perginya. Demikianlah hal tiap-tiap orang, yang jadi daripada Roh itu."""
 "Maka sahut Nikodemus serta berkata kepada-Nya, ""Bagaimanakah segala perkara ini boleh jadi?"""
 "Maka kata Yesus kepadanya, ""Engkaukah guru orang Israel, dan tiadalah engkau mengerti perkara ini?"
 "Sesungguh-sungguhnya Aku berkata kepadamu
@@ -23,10 +23,10 @@
 "Tetapi Yahya ada juga membaptiskan orang di Ainun dekat Salim, karena banyak air di situ, maka datanglah orang, lalu dibaptiskannya."
 "Karena pada masa itu Yahya belum lagi dibuang ke dalam penjara."
 "Tatkala itu terbitlah suatu perselisihan antara beberapa murid Yahya dengan seorang Yahudi dari hal perbasuhan."
-"Lalu datanglah mereka itu kepada Yahya serta berkata kepadanya, ""Ya Rabbi, adapun orang yang bersama-sama dengan Rabbi di seberang Yarden, yang Rabbi saksikan, tengoklah, Ia pun membaptiskan orang, dan sekalian orang datang kepada-Nya."""
+"Lalu datanglah mereka itu kepada Yahya serta berkata kepadanya, ""Ya Rabbi, adapun orang yang bersama-sama dengan Rabbi #di seberang Yarden, yang Rabbi saksikan, tengoklah, Ia pun membaptiskan orang, dan sekalian orang datang kepada-Nya."""
 "Maka jawab Yahya, katanya, ""Seorang pun tiada dapat mengambil barang sesuatu, jikalau tiada dikaruniakan kepadanya dari surga."
 "Maka kamu sendiri juga menyaksikan kepadaku, bahwa aku telah berkata demikian
-"Adapun orang yang empunya mempelai perempuan, itulah mempelai laki-laki; tetapi sahabat mempelai laki-laki yang berdiri dan mendengar dia, bersukacita sangat sebab mendengar suara mempelai laki-laki itu; sekarang ini kesukaanku sudah genap."
+"Adapun orang yang empunya mempelai perempuan, itulah mempelai laki-laki; tetapi sahabat mempelai laki-laki yang berdiri dan #mendengar dia, bersukacita sangat sebab mendengar suara mempelai laki-laki itu; sekarang ini kesukaanku sudah genap."
 "Patutlah Ia makin bertambah, dan berkata-kata dari hal bumi, tetapi aku ini makin kurang."
 "Adapun Yang datang dari atas, ada di atas sekalian; maka yang daripada bumi ini, terhisab kepada bumi, tetapi Yang datang dari surga, Ia lebih daripada sekalian."
 "Maka Ia pun menyaksikan tentang barang yang dilihat-Nya dan yang didengar-Nya, tetapi seorang pun tiada menerima kesaksian-Nya itu."

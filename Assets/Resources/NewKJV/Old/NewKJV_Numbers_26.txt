@@ -6,7 +6,7 @@ Reuben was the firstborn of Israel. The children of Reuben were, of Hanoch, the 
 of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.
 These are the families of the Reubenites, those who were numbered of them were forty-three thousand seven hundred and thirty.
 And the son of Pallu was Eliab.
-The sons of Eliab were Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, representatives of the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the LORD;
+The sons of Eliab were Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, representatives of the congregation, #who contended against Moses and Aaron in the company of Korah, when they contended against the LORD;
 and the earth opened its mouth and swallowed them up together with Korah when that company died, when the fire devoured two hundred and fifty men; and they became a sign.
 Nevertheless the children of Korah did not die.
 The sons of Simeon according to their families were, of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;
@@ -54,12 +54,12 @@ Then the LORD spoke to Moses, saying,
 "To a large tribe you shall give a larger inheritance, and to a small tribe you shall give a smaller inheritance. Each shall be given its inheritance according to those who were numbered of them.
 "But the land shall be divided by lot; they shall inherit according to the names of the tribes of their fathers.
 "According to the lot their inheritance shall be divided between the larger and the smaller."
-And these are those who were numbered of the Levites according to their families, of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.
-These are the families of the Levites, the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, and the family of the Korathites. And Kohath begot Amram.
+And these are those who were numbered of the Levites according to their families, of Gershon, the family #of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.
+These are the families of the Levites, the family of the Libnites, the family of the Hebronites, the family #of the Mahlites, the family of the Mushites, and the family of the Korathites. And Kohath begot Amram.
 The name of Amram's wife was Jochebed the daughter of Levi, who was born to Levi in Egypt; and to Amram she bore Aaron and Moses and their sister Miriam.
 To Aaron were born Nadab and Abihu, Eleazar and Ithamar.
 And Nadab and Abihu died when they offered profane fire before the LORD.
-Now those who were numbered of them were twenty-three thousand, every male from a month old and above; for they were not numbered among the other children of Israel, because there was no inheritance given to them among the children of Israel.
+Now those who were numbered of them were twenty-three thousand, every male from a month old and above; for they were not #numbered among the other children of Israel, because there was no inheritance given to them among the children of Israel.
 These are those who were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by the Jordan, across from Jericho.
 But among these there was not a man of those who were numbered by Moses and Aaron the priest when they numbered the children of Israel in the Wilderness of Sinai.
 For the LORD had said of them, "They shall surely die in the wilderness." So there was not left a man of them, except Caleb the son of Jephunneh and Joshua the son of Nun.

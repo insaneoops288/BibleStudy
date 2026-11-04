@@ -15,7 +15,7 @@
 "Havendo eles pois já jantado, disse Jesus a Simão Pedro
 "Voltou a lhe a dizer a segunda vez
 "Disse-lhe a terceira vez
-"Em verdade, em verdade te digo, que quando eras mais jovem, tu mesmo te vestias, e andava por onde querias; mas quando fores já velho, estenderás tuas mãos, e outro te vestirá, e te levará para onde tu não queres."
+"Em verdade, em verdade te digo, que quando eras mais jovem, tu mesmo te vestias, e andava por onde querias; mas #quando fores já velho, estenderás tuas mãos, e outro te vestirá, e te levará para onde tu não queres."
 "E disse isto, fazendo entender que [Pedro] glorificaria a Deus com [sua] morte. E tendo dito isto, [Jesus] lhe disse
 "E virando-se Pedro, viu que [o] seguia aquele discípulo a quem Jesus amava, o que também na ceia se recostara a seu peito, e dissera
 "Vendo Pedro a este, disse a Jesus

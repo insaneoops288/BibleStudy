@@ -2,9 +2,9 @@
 "komandën e Jeruzalemit ia dhashë Hananit, vëllait tim, dhe Hananiahut, qeveritarit të fortesës, sepse ishte njeri besnik dhe kishte frikë nga Perëndia më tepër se shumë të tjerë."
 "Dhe u thashë atyre
 "Qyteti ishte i madh dhe i gjerë, por brenda tij kishte pak njerëz dhe nuk ndërtoheshin shtëpi."
-"Atëherë Perëndia im më vuri në zemër detyrën të mbledh parinë, gjyqtarët dhe popullin, për t'i regjistruar sipas gjenealogjive të tyre. Dhe gjeta regjistrin gjenealogjik të atyre që ishin kthyer nga"
+"Atëherë Perëndia im më vuri në zemër detyrën të mbledh parinë, gjyqtarët dhe popullin, për t'i #regjistruar sipas gjenealogjive të tyre. Dhe gjeta regjistrin gjenealogjik të atyre që ishin kthyer nga"
 "Këta janë ata të krahinës që u kthyen nga robëria, ata që Nebukadnetsari, mbret i Babilonisë, kishte internuar dhe që ishin kthyer në Jeruzalem dhe në Judë, secili në qytetin e tij."
-"Këta janë ata që u kthyen me Zorobabelin, Jeshuan, Nehemian, Azarian, Raamiahun, Nahamanin, Mardokeon, Bilshanin, Misperethin, Bigvain, Nehumin dhe Banaahun. Numri i njerëzve të popullit të Izraelit
+"Këta janë ata që u kthyen me Zorobabelin, Jeshuan, Nehemian, Azarian, Raamiahun, Nahamanin, Mardokeon, #Bilshanin, Misperethin, Bigvain, Nehumin dhe Banaahun. Numri i njerëzve të popullit të Izraelit
 "bijtë e Paroshit, dy mijë e njëqind shtatëdhjetë e dy veta."
 "Bijtë e Shefatiahut, treqind e shtatëdhjetë e dy veta."
 "Bijtë e Arahut, gjashtëqind e pesëdhjetë e dy veta."
@@ -58,7 +58,7 @@
 "bijtë e Jaalas, bijtë e Darkonit, bijtë e Gidelit,"
 "bijtë e Shefatiahut, bijtë e Hatilit, bijtë e Pokerethit nga Tsebaimi, bijtë e Amonit."
 "Shuma e Nethinejve dhe bijve të shërbëtorëve të Salomonit, treqind e nëntëdhjetë e dy veta."
-"Këta janë ata që u kthyen nga Tel-Melahu, nga Tel-Harsha, nga Kerubi, nga Adoni dhe nga Imeri, dhe që nuk qenë në gjendje të përcaktonin shtëpinë e tyre atërore ose pasardhjen e tyre, për të vërtetuar që i përkisnin Izraelit;"
+"Këta janë ata që u kthyen nga Tel-Melahu, nga Tel-Harsha, nga Kerubi, nga Adoni dhe nga Imeri, dhe që nuk qenë #në gjendje të përcaktonin shtëpinë e tyre atërore ose pasardhjen e tyre, për të vërtetuar që i përkisnin Izraelit;"
 "bijtë e Delajahut, bijtë e Tobiahut, bijtë e Nekodas, gjashtëqind e dyzet e dy veta."
 "Midis priftërinjve
 "Këta kërkuan listat e tyre midis atyre që ishin regjistruar në gjenealogjitë, por nuk i gjetën; prandaj u përjashtuan nga priftëria si të papastër;"
@@ -70,4 +70,4 @@
 "Disa të parë të shtëpive atërore bënë dhurata për punën e ndërtimit. Qeveritari i dha thesarit një mijë darikë ari, pesëdhjetë kupa, pesëqind e tridhjetë rroba priftërinjsh."
 "Disa të parë të shtëpive atërore i dhanë thesarit për punën e ndërtimit njëzet mijë darikë ari dhe dy mijë mina argjendi."
 "Pjesa tjetër e popullit dha njëzet mijë darikë ari, dy mijë mina argjendi dhe gjashtëdhjetë e shtatë rroba priftërinjsh."
-"Kështu priftërinjtë, Levitët, derëtarët, këngëtarët, disa nga populli, Nethinejtë dhe tërë Izraelitët u vendosën në qytetet e tyre. Kur arriti muaji i shtatë, bijtë e Izraelit ishin në qytetet e tyre."
+"Kështu priftërinjtë, Levitët, derëtarët, këngëtarët, disa nga populli, Nethinejtë dhe tërë Izraelitët u vendosën në qytetet #e tyre. Kur arriti muaji i shtatë, bijtë e Izraelit ishin në qytetet e tyre."

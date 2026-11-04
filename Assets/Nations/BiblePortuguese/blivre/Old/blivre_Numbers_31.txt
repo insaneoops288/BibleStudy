@@ -27,7 +27,7 @@
 "E partirás pela metade a presa entre os que lutaram, os que saíram à guerra, e toda a congregação."
 "E separarás para o SENHOR o tributo dos homens de guerra, que saíram à guerra
 "Da metade deles o tomarás; e darás a Eleazar o sacerdote a oferta do SENHOR."
-"E da metade pertencente aos filhos de Israel tomarás um de cinquenta, das pessoas, dos bois, dos asnos, e das ovelhas, de todo animal; e os darás aos levitas, que têm a guarda do tabernáculo do SENHOR."
+"E da metade pertencente aos filhos de Israel tomarás um de cinquenta, das pessoas, dos bois, dos asnos, e #das ovelhas, de todo animal; e os darás aos levitas, que têm a guarda do tabernáculo do SENHOR."
 "E fizeram Moisés e Eleazar o sacerdote como o SENHOR mandou a Moisés."
 "E foi a presa, o resto da presa que tomaram os homens de guerra, seiscentas e setenta e cinco mil ovelhas,"
 "E setenta e dois mil bois,"
@@ -44,7 +44,7 @@
 "E dos bois, trinta e seis mil;"
 "E dos asnos, trinta mil e quinhentos;"
 "E das pessoas, dezesseis mil
-"Da metade, pois, para os filhos de Israel tomou Moisés um de cada cinquenta, tanto das pessoas como dos animais, e deu-os aos levitas, que tinham a guarda do tabernáculo do SENHOR; como o SENHOR o havia mandado a Moisés."
+"Da metade, pois, para os filhos de Israel tomou Moisés um de cada cinquenta, tanto das pessoas como dos animais, e #deu-os aos levitas, que tinham a guarda do tabernáculo do SENHOR; como o SENHOR o havia mandado a Moisés."
 "E chegaram a Moisés os chefes dos milhares daquele exército, os comandantes de mil e comandantes de cem;"
 "E disseram a Moisés
 "Pelo qual temos oferecido ao SENHOR oferta, cada um do que achou, objetos de ouro, braceletes, pulseiras, anéis, pendentes, e correntes, para fazer expiação por nossas almas diante do SENHOR."

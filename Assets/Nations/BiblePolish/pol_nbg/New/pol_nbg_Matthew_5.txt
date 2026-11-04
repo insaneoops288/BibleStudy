@@ -16,7 +16,7 @@
 "Tak niech przed ludźmi zaświeci wasze światło, aby mogli widzieć wasze szlachetne czyny i chwalić waszego Ojca, który jest w niebiosach."
 "Nie mniemajcie, że przyszedłem rozluźnić Prawo lub Proroków; nie przyszedłem rozluźnić, ale dopełnić."
 "Bo zaprawdę, powiadam wam
-"Jeśli więc, ktoś by rozluźnił jedno z tych najmniejszych przykazań, i tak by nauczał ludzi najmniejszym będzie nazwany w Królestwie Niebios; a ktokolwiek by czynił i nauczał, ten będzie nazwany wielkim w Królestwie Niebios."
+"Jeśli więc, ktoś by rozluźnił jedno z tych najmniejszych przykazań, i tak by nauczał ludzi najmniejszym będzie nazwany #w Królestwie Niebios; a ktokolwiek by czynił i nauczał, ten będzie nazwany wielkim w Królestwie Niebios."
 "Bo powiadam wam
 "Słyszeliście, że powiedziano praojcom
 "Ale ja wam powiadam, że każdy, kto bez przyczyny gniewa się na swojego brata, będzie podległy sądowi; a ktokolwiek by powiedział swojemu bratu

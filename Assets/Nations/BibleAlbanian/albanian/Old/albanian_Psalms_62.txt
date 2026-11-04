@@ -6,7 +6,7 @@
 "Vetëm ai është kështjella ime dhe shpëtimi im; ai është streha ime e lartë; unë nuk do të luaj kurrë."
 "Te Perëndia është shpëtimi im dhe lavdia ime; kështjella ime e fortë dhe streha ime janë te Perëndia."
 "Ki besim tek ai vazhdimisht, o popull, hap zemrën tënde para tij; Perëndia është streha jonë. (Sela)"
-"Me siguri, njerëzit e shtresës së ulët nuk janë veçse avull dhe njerëzit e shtresës së lartë nuk janë veçse gënjeshtarë; po t'i vësh mbi peshore të gjithë së bashku janë më të lehtë se vetë avulli."
+"Me siguri, njerëzit e shtresës së ulët nuk janë veçse avull dhe njerëzit e shtresës së lartë nuk janë #veçse gënjeshtarë; po t'i vësh mbi peshore të gjithë së bashku janë më të lehtë se vetë avulli."
 "Mos kini besim te zhvatja dhe mos ushqeni shpresa të kota te grabitja; mos shkoni mbas kotësisë; në rast se pasuritë janë të bollshme, mos u kushtoni zemrën."
 "Perëndia ka folur një herë; dy herë kam dëgjuar këtë, që fuqia i përket Perëndisë;"
 "edhe ty, o Zot, të përket mirësia, sepse do të shpërblesh cilindo sipas veprave të tij."

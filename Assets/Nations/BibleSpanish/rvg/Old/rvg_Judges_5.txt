@@ -8,7 +8,7 @@
 "Escogieron nuevos dioses, la guerra [estaba] a las puertas
 "Mi corazón [es] para los príncipes de Israel, los que se ofrecieron voluntariamente entre el pueblo. ¡Bendecid a Jehová!"
 "Vosotros los que cabalgáis en asnas blancas, los que presidís en juicio, y vosotros los que viajáis, hablad."
-"Lejos del ruido de los arqueros, en los abrevaderos, allí repetirán los hechos justos de Jehová, los hechos justos [para con los habitantes] de sus aldeas en Israel; entonces descenderá el pueblo de Jehová a las puertas."
+"Lejos del ruido de los arqueros, en los abrevaderos, allí repetirán los hechos justos de Jehová, los hechos justos #[para con los habitantes] de sus aldeas en Israel; entonces descenderá el pueblo de Jehová a las puertas."
 "Despierta, despierta, Débora; Despierta, despierta, profiere un cántico. Levántate, Barac, y lleva tus cautivos, hijo de Abinoam."
 "Entonces ha hecho que el que quedó del pueblo, señoree sobre los nobles
 "De Efraín [salió su] raíz contra Amalec, tras ti, Benjamín, con tus pueblos; de Maquir descendieron príncipes, y de Zabulón los que solían manejar punzón de escribiente."
@@ -27,5 +27,5 @@
 "Cayó encorvado entre sus pies, quedó tendido; entre sus pies cayó encorvado; donde se encorvó, allí cayó muerto."
 "La madre de Sísara se asoma a la ventana, y por entre las celosías a voces dice
 "Las más avisadas de sus damas le respondían; y aun ella se respondía a sí misma."
-"¿Acaso no han hallado despojo, y lo están repartiendo? A cada uno una doncella, o dos; las prendas de colores para Sísara, las prendas bordadas de colores; la ropa de color bordada de ambos lados, para los cuellos de [los que han tomado] el despojo."
+"¿Acaso no han hallado despojo, y lo están repartiendo? A cada uno una doncella, o dos; las prendas de colores para Sísara, las #prendas bordadas de colores; la ropa de color bordada de ambos lados, para los cuellos de [los que han tomado] el despojo."
 "Así perezcan todos tus enemigos, oh Jehová; mas los que te aman, [sean] como el sol cuando sale en su fuerza. Y la tierra reposó cuarenta años."

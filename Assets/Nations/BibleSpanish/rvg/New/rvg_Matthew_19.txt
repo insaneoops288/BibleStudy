@@ -9,7 +9,7 @@
 "‹Y yo os digo
 "Le dijeron sus discípulos
 "Entonces Él les dijo
-"‹Porque hay eunucos que nacieron así del vientre de su madre; y hay eunucos que fueron hechos eunucos por los hombres, y hay eunucos que a sí mismos se hicieron eunucos por causa del reino de los cielos. El que sea capaz de recibir esto, que lo reciba.›"
+"‹Porque hay eunucos que nacieron así del vientre de su madre; y hay eunucos que fueron hechos eunucos por los hombres, y hay eunucos que #a sí mismos se hicieron eunucos por causa del reino de los cielos. El que sea capaz de recibir esto, que lo reciba.›"
 "Entonces le fueron presentados unos niños, para que pusiese las manos sobre ellos, y orase; y los discípulos les reprendieron."
 "Pero Jesús dijo
 "Y habiendo puesto [sus] manos sobre ellos, partió de allí."

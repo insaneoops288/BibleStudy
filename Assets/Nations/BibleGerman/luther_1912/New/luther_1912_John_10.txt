@@ -9,7 +9,7 @@
 "Ich bin die Tür; so jemand durch mich eingeht, der wird selig werden und wird ein und aus gehen und Weide finden."
 "Ein Dieb kommt nur, daß er stehle, würge und umbringe."
 "Ich bin gekommen, daß sie das Leben und volle Genüge haben sollen."
-"Ich bin der gute Hirte. Der gute Hirte läßt sein Leben für seine Schafe. Der Mietling aber, der nicht Hirte ist, des die Schafe nicht eigen sind, sieht den Wolf kommen und verläßt die Schafe und flieht; und der Wolf erhascht und zerstreut die Schafe."
+"Ich bin der gute Hirte. Der gute Hirte läßt sein Leben für seine Schafe. Der Mietling aber, der nicht Hirte ist, des die #Schafe nicht eigen sind, sieht den Wolf kommen und verläßt die Schafe und flieht; und der Wolf erhascht und zerstreut die Schafe."
 "Der Mietling aber flieht; denn er ist ein Mietling und achtet der Schafe nicht."
 "Ich bin der gute Hirte und erkenne die Meinen und bin bekannt den Meinen,"
 "wie mich mein Vater kennt und ich kenne den Vater. Und ich lasse mein Leben für die Schafe."

@@ -13,7 +13,7 @@
 "Y Samuel tomó el cuerno del aceite, y lo ungió de entre sus hermanos; y desde aquel día en adelante el Espíritu de Jehová tomó a David. Se levantó luego Samuel, y se volvió a Ramá."
 "Y el Espíritu de Jehová se apartó de Saúl, y le atormentaba un espíritu malo de parte de Jehová."
 "Y los criados de Saúl le dijeron
-"Diga ahora nuestro señor a tus siervos que están delante de ti, que busquen alguno que sepa tocar el arpa; para que cuando fuere sobre ti el espíritu malo de parte de Dios, él toque con su mano, y tengas alivio."
+"Diga ahora nuestro señor a tus siervos que están delante de ti, que busquen alguno que sepa tocar el arpa; para #que cuando fuere sobre ti el espíritu malo de parte de Dios, él toque con su mano, y tengas alivio."
 "Y Saúl respondió a sus criados
 "Entonces uno de los criados respondió, diciendo
 "Y Saúl envió mensajeros a Isaí, diciendo

@@ -16,7 +16,7 @@
 "Il viendra, et fera périr ces vignerons et il donnera la vigne à d'autres. Les Juifs ayant entendu cela, dirent
 "Qu'ainsi n'advienne! Alors Jésus les regardant, leur dit
 "Celui qui tombera sur cette pierre sera brisé, et elle écrasera celui sur qui elle tombera."
-"Alors les principaux sacrificateurs et les scribes cherchèrent à l'heure même à jeter les mains sur lui; car ils avaient reconnu qu'il avait dit cette parabole contre eux; mais ils craignirent le peuple."
+"Alors les principaux sacrificateurs et les scribes cherchèrent à l'heure même à jeter les mains sur lui; #car ils avaient reconnu qu'il avait dit cette parabole contre eux; mais ils craignirent le peuple."
 "C'est pourquoi, l'observant de près, ils envoyèrent des gens qui contrefaisaient des gens de bien, pour le surprendre dans ses paroles, afin de le livrer au magistrat et au pouvoir du gouverneur."
 "Ces gens lui adressèrent cette question
 "Nous est-il permis de payer le tribut à César, ou non?"
@@ -43,5 +43,5 @@
 "Jusqu'à ce que j'aie fait de tes ennemis le marchepied de tes pieds."
 "Si donc David l'appelle l'Éternel, comment est-il son fils?"
 "Et comme tout le peuple écoutait, il dit à ses disciples
-"Gardez-vous des scribes qui se plaisent à se promener en longues robes, et qui aiment les salutations dans les places, et les premiers sièges dans les synagogues, et les premières places dans les festins;"
+"Gardez-vous des scribes qui se plaisent à se promener en longues robes, et qui aiment les salutations dans #les places, et les premiers sièges dans les synagogues, et les premières places dans les festins;"
 "Qui dévorent les maisons des veuves, tout en affectant de faire de longues prières; ils encourront une plus grande condamnation."

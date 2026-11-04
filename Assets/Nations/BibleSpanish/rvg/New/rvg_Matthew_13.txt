@@ -12,7 +12,7 @@
 "‹Porque a cualquiera que tiene, se le dará, y tendrá más; mas al que no tiene, aun lo que tiene le será quitado.›"
 "‹Por eso les hablo por parábolas; porque viendo no ven, y oyendo no oyen, ni entienden.›"
 "‹Y en ellos se cumple la profecía de Isaías, que dijo
-"‹Porque el corazón de este pueblo se ha engrosado, y con los oídos oyen pesadamente, y han cerrado sus ojos; para que no vean con los ojos, y oigan con los oídos, y con el corazón entiendan, y se conviertan, y yo los sane.›"
+"‹Porque el corazón de este pueblo se ha engrosado, y con los oídos oyen pesadamente, y han cerrado sus ojos; para que no #vean con los ojos, y oigan con los oídos, y con el corazón entiendan, y se conviertan, y yo los sane.›"
 "‹Mas bienaventurados vuestros ojos, porque ven, y vuestros oídos porque oyen.›"
 "‹Porque de cierto os digo, que muchos profetas y justos desearon ver lo que veis, y no lo vieron; y oír lo que oís, y no lo oyeron.›"
 "‹Oíd, pues, vosotros la parábola del sembrador.›"

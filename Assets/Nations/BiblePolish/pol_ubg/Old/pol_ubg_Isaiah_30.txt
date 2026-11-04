@@ -3,7 +3,7 @@
 "Dlatego siła faraona będzie dla was zawstydzeniem, a schronienie w cieniu Egiptu waszą hańbą."
 "Jego książęta bowiem byli w Soan i jego posłowie dotarli do Chanes."
 "Wszyscy zawstydzili się przez lud, który nie był dla nich użyteczny ani pomocny i nie przynosił żadnych korzyści, lecz tylko wstyd i hańbę."
-"Brzemię zwierząt południa. Do ziemi ucisku i utrapienia, skąd pochodzi lew i lwiątko, żmija i ognisty smok latający, zaniosą swoje bogactwa na grzbietach osłów i swe skarby na garbach wielbłądów do ludu, który im nic nie pomoże;"
+"Brzemię zwierząt południa. Do ziemi ucisku i utrapienia, skąd pochodzi lew i lwiątko, żmija i ognisty smok latający, zaniosą #swoje bogactwa na grzbietach osłów i swe skarby na garbach wielbłądów do ludu, który im nic nie pomoże;"
 "Bo pomoc Egipcjan będzie daremna i próżna. Dlatego ogłaszam, że ich siłą jest siedzieć w pokoju."
 "Teraz idź, napisz to na tablicy przy nich i utrwal w księdze, aby zostało to zachowane na przyszłość i aż na wieki wieków
 "Że ten lud jest uparty, że to synowie kłamliwi, synowie, którzy nie chcą słuchać prawa PANA;"
@@ -30,4 +30,4 @@
 "Gdy PAN da usłyszeć swój wspaniały głos i pokaże swoje wyciągnięte ramię w zapalczywości swego gniewu, w płomieniu trawiącego ognia, z rozproszeniem, wśród nawałnic i gradu."
 "Bo głosem PANA zostanie starty Asyryjczyk, który bił kijem."
 "I każde uderzenie utwierdzoną rózgą, którą go PAN uderzy, zadane będzie z bębnami i harfami. A w srogich bitwach będzie walczyć z nim."
-"Od dawna bowiem przygotowane jest piekło, także dla samego króla jest przygotowane; uczynił je głębokim i szerokim, jego stos to ogień i wiele drew. Tchnienie PANA, jak strumień siarki, rozpala je."
+"Od dawna bowiem przygotowane jest piekło, także dla samego króla jest przygotowane; uczynił je głębokim i #szerokim, jego stos to ogień i wiele drew. Tchnienie PANA, jak strumień siarki, rozpala je."

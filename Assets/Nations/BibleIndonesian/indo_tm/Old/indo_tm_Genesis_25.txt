@@ -3,7 +3,7 @@
 "Maka Yoksanpun beranak Syeba dan Dedan. Maka bani Dedan itulah orang Asyurim dan Letusyim dan Liumim."
 "Maka segala anak laki-laki Midian itulah Efa dan Efir dan Hanokh dan Abida dan Eldaa; maka sekalian inilah anak laki-laki Ketura."
 "Maka kepada Ishaklah diberikan oleh Ibrahim segala sesuatu yang ada padanya."
-"Tetapi akan segala anak laki-laki yang diperoleh Ibrahim dari pada gundik-gundik itu diberikannya beberapa hadiah, kemudian disuruhnya sekalian mereka itu pergi dari pada Ishak, anaknya, tatkala Ibrahim lagi hidup, yaitu ke sebelah timur, ke negeri timur itu."
+"Tetapi akan segala anak laki-laki yang diperoleh Ibrahim dari pada gundik-gundik itu diberikannya beberapa hadiah, kemudian disuruhnya sekalian mereka #itu pergi dari pada Ishak, anaknya, tatkala Ibrahim lagi hidup, yaitu ke sebelah timur, ke negeri timur itu."
 "Maka inilah panjang umur Ibrahim dan lama hidupnya seratus tujuh puluh lima tahun."
 "Maka Ibrahimpun putuslah nyawanya dan matilah ia baik-baik tua, dan sepuas-puas umurnya, serta ia dihimpunkan dengan kaumnya."
 "Maka Ishak dan Ismail, kedua anaknyapun menguburkan dia dalam gua Makhpela, yang di ladang Eferon bin Zohar, orang Heti itu, yang di sebelah timur Mamre."
@@ -23,7 +23,7 @@
 "Maka firman Tuhan kepadanya
 "Hata, setelah genaplah harinya akan bersalin itu, sesungguhnya adalah anak kembar dalam rahimnya."
 "Maka keluarlah yang pertama itu merah warnanya, sama sekali seperti kulit yang berbulu rupanya; sebab itu dinamainya akan dia Esaf."
-"Kemudian keluarlah saudaranya laki-laki, maka tangannya adalah memegang tumit Esaf itu; sebab itu dinamai oranglah akan dia Yakub. Maka umur Ishak itu enam puluh tahun tatkala kanak-kanak itu jadi."
+"Kemudian keluarlah saudaranya laki-laki, maka tangannya adalah memegang tumit Esaf itu; sebab itu dinamai oranglah #akan dia Yakub. Maka umur Ishak itu enam puluh tahun tatkala kanak-kanak itu jadi."
 "Maka kedua budak itupun makinlah besar, maka Esaf itu pandai berburu, dan ialah seorang peladang, tetapi Yakub seorang pendiam, yang duduk dalam kemah."
 "Maka Esaf itu dikasihi oleh Ishak, sebab Ishak suka makan perburuannya, tetapi Ribkah itu mengasihi Yakub."
 "Hata, pada sekali peristiwa Yakub telah merebus suatu rebusan, maka datanglah Esaf dari padang dengan lelahnya."

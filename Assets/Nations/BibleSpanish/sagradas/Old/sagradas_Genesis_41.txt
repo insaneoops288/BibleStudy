@@ -45,7 +45,7 @@
 "Y llamó <I>el</I>  Faraón el nombre de José, Zafnat-panea; y le dio por mujer a Asenat, hija de Potifera, sacerdote de On. Y salió José por toda la tierra de Egipto."
 "Y era José de edad de treinta años cuando fue presentado delante del Faraón, rey de Egipto
 "E hizo la tierra en aquellos siete años de abundancia a montones."
-"Y <I>él</I>  juntó todo el mantenimiento de los siete años que fueron en la tierra de Egipto, y guardó mantenimiento en las ciudades, poniendo en cada ciudad el mantenimiento del campo de sus alrededores."
+"Y <I>él</I>  juntó todo el mantenimiento de los siete años que fueron en la tierra de Egipto, #y guardó mantenimiento en las ciudades, poniendo en cada ciudad el mantenimiento del campo de sus alrededores."
 "Y acopió José trigo como arena del mar, mucho en extremo, hasta no poderse contar, porque no <I>tenía</I>  número."
 "Y nacieron a José dos hijos antes que viniese el primer año del hambre, los cuales le dio a luz Asenat, hija de Potifera, príncipe de On."
 "Y llamó José el nombre del primogénito Manasés; porque Dios (dijo) me hizo olvidar de todo mi trabajo, y de toda la casa de mi padre."

@@ -1,4 +1,4 @@
-"Ezek pedig a parancsolatok, a rendelések és a végzések, a melyek felõl parancsolta az Úr, a ti Istenetek, hogy megtanítsam azokat néktek, hogy azok szerint cselekedjetek azon a földön, a melyre átmenõben vagytok, hogy bírjátok azt;"
+"Ezek pedig a parancsolatok, a rendelések és a végzések, a melyek felõl parancsolta az Úr, a ti Istenetek, hogy #megtanítsam azokat néktek, hogy azok szerint cselekedjetek azon a földön, a melyre átmenõben vagytok, hogy bírjátok azt;"
 "Hogy féljed az Urat, a te Istenedet, és megtartsad minden õ rendelését és parancsolatát, a melyeket én parancsolok néked
 "Halld meg azért Izráel, és vigyázz, hogy megcselekedjed, hogy jól legyen dolgod, és hogy igen megsokasodjál a tejjel és mézzel folyó földön, a miképen megigérte az Úr, a te atyáidnak Istene néked."
 "Halld Izráel
@@ -21,5 +21,5 @@
 "Akkor azt mondjad a te fiadnak
 "És tõn az Úr Égyiptomban nagy és veszedelmes jeleket és csudákat a Faraón és az õ egész háznépén, a mi szemeink láttára."
 "Minket pedig kihoza onnét, hogy bevigyen minket, és nékünk adja azt a földet, a mely felõl megesküdött a mi atyáinknak."
-"És megparancsolta nékünk az Úr, hogy cselekedjünk mind e rendelések szerint, hogy féljük az Urat, a mi Istenünket, hogy jó dolgunk legyen teljes életünkben, hogy megtartson minket az életben, mint e mai napon."
+"És megparancsolta nékünk az Úr, hogy cselekedjünk mind e rendelések szerint, hogy féljük az Urat, a mi #Istenünket, hogy jó dolgunk legyen teljes életünkben, hogy megtartson minket az életben, mint e mai napon."
 "És ez lesz nékünk igazságunk, ha vigyázunk arra, hogy megtartsuk mind e parancsolatokat, az Úr elõtt, a mi Istenünk elõtt, a miképen megparancsolta nékünk."

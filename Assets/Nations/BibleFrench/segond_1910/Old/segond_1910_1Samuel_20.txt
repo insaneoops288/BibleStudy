@@ -5,12 +5,12 @@
 "Et David lui répondit
 "Si ton père remarque mon absence, tu diras
 "Et s'il dit
-"Montre donc ton affection pour ton serviteur, puisque tu as fait avec ton serviteur une alliance devant l'Eternel. Et, s'il y a quelque crime en moi, ôte-moi la vie toi-même, car pourquoi me mènerais-tu jusqu'à ton père?"
+"Montre donc ton affection pour ton serviteur, puisque tu as fait avec ton serviteur une alliance devant l'Eternel. Et, #s'il y a quelque crime en moi, ôte-moi la vie toi-même, car pourquoi me mènerais-tu jusqu'à ton père?"
 "Jonathan lui dit
 "David dit à Jonathan
 "Et Jonathan dit à David
 "Jonathan dit à David
-"que l'Eternel traite Jonathan dans toute sa rigueur! Dans le cas où mon père trouverait bon de te faire du mal, je t'informerai aussi et je te laisserai partir, afin que tu t'en ailles en paix; et que l'Eternel soit avec toi, comme il a été avec mon père!"
+"que l'Eternel traite Jonathan dans toute sa rigueur! Dans le cas où mon père trouverait bon de te faire du mal, je t'informerai aussi et #je te laisserai partir, afin que tu t'en ailles en paix; et que l'Eternel soit avec toi, comme il a été avec mon père!"
 "Si je dois vivre encore, veuille user envers moi de la bonté de l'Eternel; et si je meurs,"
 "ne retire jamais ta bonté envers ma maison, pas même lorsque l'Eternel retranchera chacun des ennemis de David de dessus la face de la terre."
 "Car Jonathan a fait alliance avec la maison de David. Que l'Eternel tire vengeance des ennemis de David!"
@@ -28,7 +28,7 @@
 "Jonathan répondit à Saül
 "Il a dit
 "Alors la colère de Saül s'enflamma contre Jonathan, et il lui dit
-"Car aussi longtemps que le fils d'Isaï sera vivant sur la terre, il n'y aura point de sécurité ni pour toi ni pour ta royauté. Et maintenant, envoie-le chercher, et qu'on me l'amène, car il est digne de mort."
+"Car aussi longtemps que le fils d'Isaï sera vivant sur la terre, il n'y aura point de sécurité ni pour #toi ni pour ta royauté. Et maintenant, envoie-le chercher, et qu'on me l'amène, car il est digne de mort."
 "Jonathan répondit à Saül, son père, et lui dit
 "Et Saül dirigea sa lance contre lui, pour le frapper. Jonathan comprit que c'était chose résolue chez son père que de faire mourir David."
 "Il se leva de table dans une ardente colère, et ne participa point au repas le second jour de la nouvelle lune; car il était affligé à cause de David, parce que son père l'avait outragé."
@@ -38,5 +38,5 @@
 "Il lui cria encore
 "Le garçon ne savait rien; Jonathan et David seuls comprenaient la chose."
 "Jonathan remit ses armes à son garçon, et lui dit
-"Après le départ du garçon, David se leva du côté du midi, puis se jeta le visage contre terre et se prosterna trois fois. Les deux amis s'embrassèrent et pleurèrent ensemble, David surtout fondit en larmes."
+"Après le départ du garçon, David se leva du côté du midi, puis se jeta le visage contre terre #et se prosterna trois fois. Les deux amis s'embrassèrent et pleurèrent ensemble, David surtout fondit en larmes."
 "Et Jonathan dit à David

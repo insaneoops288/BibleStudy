@@ -2,7 +2,7 @@
 "Poručil jsem Chananovi bratru svému, a Chananiášovi hejtmanu hradu Jeruzalémského, (proto že on byl muž věrný a bohabojný nad mnohé),"
 "A řekl jsem jim
 "Město pak to bylo široké a veliké, ale lidu málo v ohradě jeho, a domové nebyli vystaveni."
-"Protož dal mi to Bůh můj v srdce mé, že jsem shromáždil přednější, a knížata i lid, aby byli vyčteni podlé pořádku rodů. I nalezl jsem knihu o rodu těch, kteříž se byli prvé přestěhovali, a našel jsem v ní napsáno
+"Protož dal mi to Bůh můj v srdce mé, že jsem shromáždil přednější, a knížata i lid, aby byli vyčteni podlé #pořádku rodů. I nalezl jsem knihu o rodu těch, kteříž se byli prvé přestěhovali, a našel jsem v ní napsáno
 "Tito jsou lidé té krajiny, kteříž šli z zajetí a přestěhování toho, jakž je byl přestěhoval Nabuchodonozor král Babylonský, a navrátili se do Jeruzaléma a do Judstva, jeden každý do města svého."
 "Kteříž přišli s Zorobábelem, s Jesua, s Nehemiášem, Azariášem, Raamiášem, Nachamanem, Mardocheem, Bilsanem, Misperetem, Bigvajem, Nechumem, Baanou, počet mužů z lidu Izraelského
 "Synů Farosových dva tisíce, sto sedmdesát dva;"

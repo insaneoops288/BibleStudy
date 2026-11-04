@@ -10,7 +10,7 @@ So Moses made a serpent of bronze, and put it upon a pole; and whenever a serpen
 The Israelites set out, and camped in Oboth.
 They set out from Oboth, and camped at Iye-abarim, in the wilderness bordering Moab toward the sunrise.
 From there they set out, and camped in the Wadi Zered.
-From there they set out, and camped on the other side of the Arnon, in the wilderness that extends from the boundary of the Amorites; for the Arnon is the boundary of Moab, between Moab and the Amorites.
+From there they set out, and camped on the other side of the Arnon, in the wilderness that extends from #the boundary of the Amorites; for the Arnon is the boundary of Moab, between Moab and the Amorites.
 Wherefore it is said in the Book of the Wars of the LORD, "Waheb in Suphah and the wadis. The Arnon
 and the slopes of the wadis that extend to the seat of Ar, and lie along the border of Moab."
 From there they continued to Beer; that is the well of which the LORD said to Moses, "Gather the people together, and I will give them water."
@@ -31,5 +31,5 @@ So their posterity perished from Heshbon to Dibon, and we laid waste until fire 
 Thus Israel settled in the land of the Amorites.
 Moses sent to spy out Jazer; and they captured its villages, and dispossessed the Amorites who were there.
 Then they turned and went up the road to Bashan; and King Og of Bashan came out against them, he and all his people, to battle at Edrei.
-But the LORD said to Moses, "Do not be afraid of him; for I have given him into your hand, with all his people, and all his land. You shall do to him as you did to King Sihon of the Amorites, who ruled in Heshbon."
+But the LORD said to Moses, "Do not be afraid of him; for I have given him into your hand, with all his people, #and all his land. You shall do to him as you did to King Sihon of the Amorites, who ruled in Heshbon."
 So they killed him, his sons, and all his people, until there was no survivor left; and they took possession of his land.

@@ -19,7 +19,7 @@
 "Harás, pues, un querubín en un extremo, y un querubín en el otro extremo
 "Y los querubines extenderán por encima las alas, cubriendo con sus alas el propiciatorio
 "Y pondrás el propiciatorio sobre del arca, y en el arca pondrás el testimonio que yo te daré."
-"Y de allí me encontraré contigo, y hablaré contigo de sobre el propiciatorio, de entre los dos querubines que están sobre el arca del testimonio, todo lo que yo te mandare para los hijos de Israel."
+"Y de allí me encontraré contigo, y hablaré contigo de sobre el propiciatorio, de entre los dos querubines que #están sobre el arca del testimonio, todo lo que yo te mandare para los hijos de Israel."
 "Harás también una mesa de madera de acacia
 "Y la cubrirás de oro puro, y le harás una cornisa de oro alrededor."
 "Le harás también una moldura alrededor, de un palmo de ancho, y harás a la moldura una cornisa de oro alrededor."
@@ -32,7 +32,7 @@
 "Y saldrán seis brazos de sus lados
 "Tres copas en forma de flor de almendro en un brazo, una manzana y una flor; y tres copas, figura de flor de almendro en otro brazo, una manzana y una flor
 "Y en el candelero cuatro copas en forma de flor de almendro, sus manzanas y sus flores."
-"Habrá una manzana debajo de los dos brazos del mismo, otra manzana debajo de los otros dos brazos del mismo, y otra manzana debajo de los otros dos brazos del mismo, en conformidad a los seis brazos que salen del candelero."
+"Habrá una manzana debajo de los dos brazos del mismo, otra manzana debajo de los otros dos brazos del mismo, y #otra manzana debajo de los otros dos brazos del mismo, en conformidad a los seis brazos que salen del candelero."
 "Sus manzanas y sus brazos serán del mismo, todo ello una pieza labrada a martillo, de oro puro."
 "Y les harás siete candilejas, las cuales encenderás para que alumbren a la parte de su delantera
 "También sus despabiladeras y sus platillos, de oro puro."

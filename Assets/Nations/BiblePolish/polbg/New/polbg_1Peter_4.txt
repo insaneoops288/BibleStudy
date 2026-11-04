@@ -8,7 +8,7 @@
 "Przetoż trzeźwymi bądźcie i czułymi ku modlitwom, a nade wszystko miejcie uprzejmą miłość jedni ku drugim; albowiem miłość zakryje mnóstwo grzechów."
 "Gościnnymi bądźcie jedni ku drugim bez szemrania."
 "Każdy jako wziął dar, tak nim jeden drugiemu usługujcie, jako dobrzy szafarze rozlicznej łaski Bożej."
-"Jeźli kto mówi, niech mówi jako wyroki Boże, jeźli kto posługuje, niech to czyni jako z siły, której Bóg dodaje, aby we wszystkiem chwalony był Bóg przez Jezusa Chrystusa, któremu należy chwała i panowanie na wieki wieków. Amen."
+"Jeźli kto mówi, niech mówi jako wyroki Boże, jeźli kto posługuje, niech to czyni jako z siły, której Bóg dodaje, #aby we wszystkiem chwalony był Bóg przez Jezusa Chrystusa, któremu należy chwała i panowanie na wieki wieków. Amen."
 "Najmilsi! niech wam nie będzie rzeczą dziwną ten ogień, który na was przychodzi ku doświadczeniu waszemu, jakoby co obcego na was przychodziło;"
 "Ale radujcie się z tego, żeście uczestnikami ucierpienia Chrystusowego, abyście się i w objawienie chwały jego z radością weselili."
 "Jeźli was lżą dla imienia Chrystusowego, błogosławieni jesteście, gdyż on Duch chwały a Duch Boży odpoczywa na was, który względem nich bywa bluźniony, ale względem was bywa uwielbiony."

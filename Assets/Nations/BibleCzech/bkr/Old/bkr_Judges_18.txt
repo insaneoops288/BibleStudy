@@ -4,7 +4,7 @@
 "Odpověděl jim
 "I řekli jemu
 "Odpověděl jim kněz
-"Tedy odešlo pět mužů těch, a přišli do Lais, a viděli lid, kterýž tam byl, bezpečně bydlící, vedlé obyčeje Sidonských v zahálce a bezpečnosti, a že nebylo, co by je kormoutiti mělo v té zemi, ani kdo by dědičně ujíti chtěl království. K tomu i od Sidonských vzdáleni byli, aniž spříznění jaké s kým měli."
+"Tedy odešlo pět mužů těch, a přišli do Lais, a viděli lid, kterýž tam byl, bezpečně bydlící, vedlé obyčeje Sidonských v zahálce a bezpečnosti, a že nebylo, co #by je kormoutiti mělo v té zemi, ani kdo by dědičně ujíti chtěl království. K tomu i od Sidonských vzdáleni byli, aniž spříznění jaké s kým měli."
 "Když se pak navrátili k bratřím svým do Zaraha a Estaol, řekli jim bratří jejich
 "I odpověděli
 "(Když přijdete, vejdete k lidu bezpečnému, a do země prostranné;) nebo dal ji Bůh v ruku vaši, místo, v němž není žádného nedostatku jakýchkoli věcí, kteréž na zemi býti mohou."

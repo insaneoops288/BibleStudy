@@ -25,8 +25,8 @@
 "I jego syn Refach, i Reszef, a jego syn Telach, jego syn Tachan;"
 "Jego syn Ladan, jego syn Ammihud, jego syn Eliszama;"
 "Jego syn Nun, jego syn Jozue."
-"A ich posiadłości i miejsca zamieszkania to Betel i należące do niego miejscowości, na wschód – Naaran, a na zachód – Gezer i należące do niego miejscowości, a także Sychem i należące do niego miejscowości; aż do Gazy i należących do niej miejscowości."
-"I aż do granic synów Manassesa, które stanowiły Bet-Szean i należące do niego miejscowości, Tanak i należące do niego miejscowości, Megiddo i należące do niego miejscowości oraz Dor i należące do niego miejscowości. W nich mieszkali synowie Józefa, syna Izraela."
+"A ich posiadłości i miejsca zamieszkania to Betel i należące do niego miejscowości, na wschód – Naaran, a na zachód – Gezer #i należące do niego miejscowości, a także Sychem i należące do niego miejscowości; aż do Gazy i należących do niej miejscowości."
+"I aż do granic synów Manassesa, które stanowiły Bet-Szean i należące do niego miejscowości, Tanak i należące do niego miejscowości, Megiddo #i należące do niego miejscowości oraz Dor i należące do niego miejscowości. W nich mieszkali synowie Józefa, syna Izraela."
 "Synowie Aszera
 "Synowie Berii
 "A Cheber spłodził Jafleta, Szomera, Chotama oraz ich siostrę Szuę."

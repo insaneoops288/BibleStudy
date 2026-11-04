@@ -18,7 +18,7 @@
 "Datapuwa't kung kayo'y pinapatnubayan ng Espiritu, ay wala kayo sa ilalim ng kautusan."
 "At hayag ang mga gawa ng laman, sa makatuwid ay ang mga ito
 "Pagsamba sa diosdiosan, pangkukulam, mga pagtataniman, mga pagtatalo, mga paninibugho, mga pagkakaalitan, mga pagkakampikampi, mga pagkakabahabahagi, mga hidwang pananampalataya,"
-"Mga kapanaghilian, mga paglalasing, mga kalayawan, at ang mga katulad nito; tungkol sa mga bagay na ito ay aking ipinagpapaunang ipaalaala sa inyo, tulad sa aking pagpapaalaala nang una sa inyo, na ang mga nagsisigawa ng gayong mga bagay ay hindi magsisipagmana ng kaharian ng Dios."
+"Mga kapanaghilian, mga paglalasing, mga kalayawan, at ang mga katulad nito; tungkol sa mga bagay na ito ay aking ipinagpapaunang ipaalaala sa inyo, tulad #sa aking pagpapaalaala nang una sa inyo, na ang mga nagsisigawa ng gayong mga bagay ay hindi magsisipagmana ng kaharian ng Dios."
 "Datapuwa't ang bunga ng Espiritu ay pagibig, katuwaan, kapayapaan, pagpapahinuhod, kagandahang-loob, kabutihan, pagtatapat,"
 "Kaamuan, pagpipigil; laban sa mga gayong bagay ay walang kautusan."
 "At ipinako sa krus ng mga na kay Cristo Jesus ang laman na kasama ang mga masasamang pita at mga kahalayan nito."

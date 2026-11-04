@@ -1,5 +1,5 @@
 "AHORA pues, oh sacerdotes, á vosotros es este mandamiento."
-"Si no oyereis, y si no acordareis dar gloria á mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no lo ponéis en vuestro corazón."
+"Si no oyereis, y si no acordareis dar gloria á mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición #sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no lo ponéis en vuestro corazón."
 "He aquí, yo os daño la sementera, y esparciré el estiércol sobre vuestros rostros, el estiércol de vuestras solemnidades, y con él seréis removidos."
 "Y sabréis que yo os envié este mandamiento, para que fuese mi pacto con Leví, ha dicho Jehová de los ejércitos."
 "Mi pacto fué con él de vida y de paz, las cuales cosas yo le dí por el temor; porque me temió, y delante de mi nombre estuvo humillado."
@@ -12,6 +12,6 @@
 "Jehová talará de las tiendas de Jacob al hombre que hiciere esto, al que vela, y al que responde, y al que ofrece presente á Jehová de los ejércitos."
 "Y esta otra vez haréis cubrir el altar de Jehová de lágrimas, de llanto, y de clamor; así que no miraré más á presente, para aceptarlo con gusto de vuestra mano."
 "Mas diréis
-"Pues qué ¿no hizo él uno solo aunque tenía la abundancia del espíritu? ¿Y por qué uno? Para que procurara una simiente de Dios. Guardaos pues en vuestros espíritus, y contra la mujer de vuestra mocedad no seáis desleales."
-"Porque Jehová Dios de Israel ha dicho que él aborrece que sea repudiada; y cubra la iniquidad con su vestido, dijo Jehová de los ejércitos. Guardaos pues en vuestros espíritus, y no seáis desleales."
+"Pues qué ¿no hizo él uno solo aunque tenía la abundancia del espíritu? ¿Y por qué uno? Para que procurara #una simiente de Dios. Guardaos pues en vuestros espíritus, y contra la mujer de vuestra mocedad no seáis desleales."
+"Porque Jehová Dios de Israel ha dicho que él aborrece que sea repudiada; y cubra la iniquidad con #su vestido, dijo Jehová de los ejércitos. Guardaos pues en vuestros espíritus, y no seáis desleales."
 "Habéis hecho cansar á Jehová con vuestras palabras. Y diréis

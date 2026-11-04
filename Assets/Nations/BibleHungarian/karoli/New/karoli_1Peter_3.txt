@@ -4,7 +4,7 @@
 "Hanem a szívnek elrejtett embere, a szelíd és csendes lélek romolhatatlanságával, a mi igen becses az Isten elõtt."
 "Mert így ékesítették magokat hajdan ama szent asszonyok is, a kik Istenben reménykedtek, engedelmeskedvén az õ férjöknek."
 "Miként Sára engedelmeskedett Ábrahámnak, urának nevezvén õt, a kinek gyermekei lettetek, ha jót cselekesztek, és semmi félelemtõl nem rettegtek."
-"A férfiak hasonlóképen, együtt lakjanak értelmes módon [feleségükkel,]az asszonyi nemnek, mint gyöngébb edénynek, tisztességet tévén, mint a kik örökös társaik az élet kegyelmében; hogy a ti imádságaitok meg ne hiúsuljanak."
+"A férfiak hasonlóképen, együtt lakjanak értelmes módon [feleségükkel,]az asszonyi nemnek, mint gyöngébb edénynek, tisztességet tévén, mint #a kik örökös társaik az élet kegyelmében; hogy a ti imádságaitok meg ne hiúsuljanak."
 "Végezetre mindnyájan [legyetek] egyértelmûek, rokonérzelmûek, atyafiszeretõk, irgalmasak, kegyesek
 "Nem fizetvén gonoszszal a gonoszért, avagy szidalommal a szidalomért; sõt ellenkezõleg áldást mondván, tudva, hogy arra hivattatok el, hogy áldást örököljetek,"
 "Mert a ki akarja az életet szeretni, jó napokat látni, tiltsa meg nyelvét a gonosztól, és ajkait, hogy ne szóljanak álnokságot

@@ -15,4 +15,4 @@
 "Tên người nữ Ma-đi-an bị giết là Cốt-bi, con gái Xu-rơ, đầu trưởng của một tông tộc Ma-đi-an."
 "Ðức Giê-hô-va lại phán cùng Môi-se rằng
 "Hãy khuấy rối người Ma-đi-an và hãm đánh chúng nó;"
-"vì chúng nó đã lấy mưu chước mình mà khuấy rối các ngươi, dỗ dành các ngươi về việc cúng thờ Phê-ô, và trong việc của Cốt-bi, con gái quan trưởng Ma-đi-an, là chị chúng nó đã bị giết trong ngày tai vạ, vì cớ việc cúng thờ Phê-ô."
+"vì chúng nó đã lấy mưu chước mình mà khuấy rối các ngươi, dỗ dành các ngươi về việc cúng thờ Phê-ô, và trong việc #của Cốt-bi, con gái quan trưởng Ma-đi-an, là chị chúng nó đã bị giết trong ngày tai vạ, vì cớ việc cúng thờ Phê-ô."

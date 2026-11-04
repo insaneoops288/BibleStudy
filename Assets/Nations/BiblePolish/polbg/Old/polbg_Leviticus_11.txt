@@ -29,7 +29,7 @@
 "Także i te za nieczyste mieć będziecie między płazami, które się włóczą po ziemi, łasica, i mysz, i żaba według rodzajów swoich;"
 "I jeż, i jaszczurka, i tchórz, i ślimak, i kret."
 "Te nieczyste wam będą między wszystkiemi płazami; kto by się dotknął zdechliny ich, nieczystym będzie aż do wieczora."
-"A każda rzecz, na którą by co zdechłego z tych rzeczy upadło, nieczysta będzie, tak drzewiane naczynie, jako szata, tak skóra, jako wór; owa każde naczynie, w którem co sprawują, do wody włożone będzie, i nieczyste zostanie aż do wieczora, potem czyste będzie."
+"A każda rzecz, na którą by co zdechłego z tych rzeczy upadło, nieczysta będzie, tak drzewiane naczynie, jako szata, tak skóra, jako #wór; owa każde naczynie, w którem co sprawują, do wody włożone będzie, i nieczyste zostanie aż do wieczora, potem czyste będzie."
 "Wszelkie zaś naczynie gliniane, w które by co z tych rzeczy wpadło, ze wszystkiem, coby w niem było, nieczyste się stanie, a samo stłuczone będzie."
 "Każda też potrawa, którą jadają, gdyby wody nieczystej do niej wlano, nieczystą będzie; i wszelki napój, który pijają z każdego takiego naczynia, nieczystym będzie."
 "Owa wszystko, na coby upadło co z onych zdechlin, nieczyste będzie; piec i ognisko rozwalone będą, bo nieczyste są, i za nieczyste wam będą."

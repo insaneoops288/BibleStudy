@@ -1,5 +1,5 @@
 "Nach diesem aber schied er von Athen und kam nach Korinth."
-"Und als er einen gewissen Juden fand, mit Namen Aquila, aus Pontus gebürtig, der kürzlich aus Italien gekommen war, und Priscilla, sein Weib,(weil Klaudius befohlen hatte, daß alle Juden sich aus Rom entfernen sollten), ging er zu ihnen,"
+"Und als er einen gewissen Juden fand, mit Namen Aquila, aus Pontus gebürtig, der kürzlich aus Italien gekommen war, und #Priscilla, sein Weib,(weil Klaudius befohlen hatte, daß alle Juden sich aus Rom entfernen sollten), ging er zu ihnen,"
 "und weil er gleichen Handwerks war, blieb er bei ihnen und arbeitete; denn sie waren Zeltmacher ihres Handwerks."
 "Er unterredete sich aber in der Synagoge an jedem Sabbath undüberzeugte Juden und Griechen."
 "Als aber sowohl Silas als Timotheus aus Macedonien herabkamen, wurde Paulus hinsichtlich des Wortes gedrängt und bezeugte den Juden, daß Jesus der Christus sei."
@@ -15,7 +15,7 @@
 "wenn es aber Streitfragen sindüber Worte und Namen und das Gesetz, das ihr habt, so sehet ihr selbst zu, dennüber diese Dinge will ich nicht Richter sein."
 "Und er trieb sie von dem Richterstuhl hinweg."
 "Alle aber ergriffen Sosthenes, den Vorsteher der Synagoge, und schlugen ihn vor dem Richterstuhl; und Gallion bekümmerte sich nicht um dies alles."
-"Nachdem aber Paulus noch viele Tage dageblieben war, nahm er Abschied von den Brüdern und segelte nach Syrien ab, und mit ihm Priscilla und Aquila, nachdem er zu Kenchreä das Haupt geschoren hatte, denn er hatte ein Gelübde."
+"Nachdem aber Paulus noch viele Tage dageblieben war, nahm er Abschied von den Brüdern und segelte nach Syrien ab, und #mit ihm Priscilla und Aquila, nachdem er zu Kenchreä das Haupt geschoren hatte, denn er hatte ein Gelübde."
 "Er kam aber nach Ephesus und ließ jene daselbst; er selbst aber ging in die Synagoge und unterredete sich mit den Juden."
 "Als sie ihn aber baten, daß er längere Zeit bei ihnen bleiben möchte, willigte er nicht ein,"
 "sondern nahm Abschied von ihnen und sagte

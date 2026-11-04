@@ -2,7 +2,7 @@
 "Y había un hombre de Zora, de la tribu de Dan, el cual se llamaba Manoa; y su mujer <I>era</I>  estéril, que nunca había tenido hijos."
 "A <I>esta</I>  mujer apareció el ángel del SEÑOR, y le dijo
 "Ahora, pues, mira que ahora no bebas vino, ni sidra, ni comas cosa inmunda."
-"Porque tú te concebirás, y darás a luz <I>un</I>  hijo; y no subirá navaja sobre su cabeza, porque aquel niño nazareo será de Dios desde el vientre, y él comenzará a salvar a Israel de mano de los filisteos."
+"Porque tú te concebirás, y darás a luz <I>un</I>  hijo; y no subirá navaja sobre su cabeza, porque aquel niño #nazareo será de Dios desde el vientre, y él comenzará a salvar a Israel de mano de los filisteos."
 "Y la mujer vino y lo contó a su marido, diciendo
 "Y me dijo
 "Y oró Manoa al SEÑOR, y dijo
@@ -17,7 +17,7 @@
 "<I>Entonces</I>  dijo Manoa al ángel del SEÑOR
 "Y el ángel del SEÑOR respondió
 "Y Manoa tomó un cabrito de las cabras y un presente, y lo sacrificó sobre una peña al SEÑOR; y <I>el ángel</I>  hizo milagro a vista de Manoa y de su mujer."
-"Porque aconteció que cuando la llama subía del altar hacia el cielo, el ángel del SEÑOR subió en la llama del altar a vista de Manoa y de su mujer, los cuales se postraron en tierra sobre sus rostros."
+"Porque aconteció que cuando la llama subía del altar hacia el cielo, el ángel del SEÑOR subió en la llama #del altar a vista de Manoa y de su mujer, los cuales se postraron en tierra sobre sus rostros."
 "Y el ángel del SEÑOR no volvió a aparecer a Manoa ni a su mujer. Entonces conoció Manoa que era el ángel del SEÑOR."
 "Y dijo Manoa a su mujer
 "Y su mujer le respondió

@@ -28,11 +28,11 @@
 "Ils répondirent
 "Et vous, leur demanda-t-il, qui dites-vous que je suis? Pierre lui répondit
 "Jésus leur recommanda sévèrement de ne dire cela de lui à personne."
-"Alors il commença à leur apprendre qu'il fallait que le Fils de l'homme souffrît beaucoup, qu'il fût rejeté par les anciens, par les principaux sacrificateurs et par les scribes, qu'il fût mis à mort, et qu'il ressuscitât trois jours après."
+"Alors il commença à leur apprendre qu'il fallait que le Fils de l'homme souffrît beaucoup, qu'il fût rejeté par les anciens, #par les principaux sacrificateurs et par les scribes, qu'il fût mis à mort, et qu'il ressuscitât trois jours après."
 "Il leur disait ces choses ouvertement. Et Pierre, l'ayant pris à part, se mit à le reprendre."
 "Mais Jésus, se retournant et regardant ses disciples, réprimanda Pierre, et dit
 "Puis, ayant appelé la foule avec ses disciples, il leur dit
 "Car celui qui voudra sauver sa vie la perdra, mais celui qui perdra sa vie à cause de moi et de la bonne nouvelle la sauvera."
 "Et que sert-il à un homme de gagner tout le monde, s'il perd son âme?"
 "Que donnerait un homme en échange de son âme?"
-"Car quiconque aura honte de moi et de mes paroles au milieu de cette génération adultère et pécheresse, le Fils de l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges."
+"Car quiconque aura honte de moi et de mes paroles au milieu de cette génération adultère et pécheresse, le Fils de #l'homme aura aussi honte de lui, quand il viendra dans la gloire de son Père, avec les saints anges."

@@ -1,10 +1,10 @@
 "Ja hän vei minun templin, ja mittasi patsaat seiniä myöten, ja ne olivat joka taholla kuusi kyynärää leveät, niin leveältä kuin huone oli."
-"Ja ovi oli kymmenen kyynärää leveä, mutta kukin seinä molemmin puolin ovea viisi kynärää leveä. Ja hän mittasi sian templissä, se oli neljäkymmentä kyynärää pituudelle ja kaksi kymmentä kyynärää leveydelle."
+"Ja ovi oli kymmenen kyynärää leveä, mutta kukin seinä molemmin puolin ovea viisi kynärää leveä. Ja #hän mittasi sian templissä, se oli neljäkymmentä kyynärää pituudelle ja kaksi kymmentä kyynärää leveydelle."
 "Ja hän meni sisimäiselle puolelle, ja mittasi oven patsaat kaksi kyynärää, ja ovi oli kuusi kyynärää, ja oven leveys seitsemän kyynärää."
 "Ja hän mittasi sen pituuden kaksikymmentä kyynärää ja leveyden kaksikymmentä kyynärää templissä, ja sanoi minulle
 "Ja hän mittasi huoneen seinän kuusi kyynärää
-"Ja sivulla kammiot kaikilla puolilla kolmeneljättäkymmentä toinen toisessansa kiinni; ja siinä olivat patsaat huoneen seinää myöten kaikki ympäri, jotka niitä kiinnittivät; ja ei kuitenkaan olleet huoneen seinässä kiinni."
-"Ja ylhäällä näiden päällä olivat vielä usiammat käytävät ympärinsä, ja ne ylimmäiset käytävät ympäri huoneen olivat leveämmät, niin että alimmaisesta mentiin keskimmäiseen ja keskimmäisestä ylimmäiseen."
+"Ja sivulla kammiot kaikilla puolilla kolmeneljättäkymmentä toinen toisessansa kiinni; ja siinä olivat patsaat huoneen seinää #myöten kaikki ympäri, jotka niitä kiinnittivät; ja ei kuitenkaan olleet huoneen seinässä kiinni."
+"Ja ylhäällä näiden päällä olivat vielä usiammat käytävät ympärinsä, ja ne ylimmäiset käytävät #ympäri huoneen olivat leveämmät, niin että alimmaisesta mentiin keskimmäiseen ja keskimmäisestä ylimmäiseen."
 "Ja minä näin huoneen korkeuden joka taholta, ja kammioin perustukset olevan täyttä mittaa kuusi kyynärää."
 "Ja seinän leveys, joka oli kammion ulkoisella puolella, oli viisi kyynärää; ne muut olivat huoneen käytävät sisimäisellä puolella."
 "Ja kammioiden välillä ympäri huoneen oli leveys kaksikymmentä kyynärää."

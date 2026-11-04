@@ -10,7 +10,7 @@
 "Fusha është shkretuar, vendi është në zi, sepse gruri u prish, mushti u tha dhe vaji humbi."
 "Pikëllohuni, o bujq, vajtoni, o vreshtarë, për grurin dhe për elbin, sepse të korrat e arave humbën."
 "Hardhia u tha, fiku u tha, shega, hurma, molla dhe tërë drurët e fushës u thanë; nuk ka gëzim midis bijve të njerëzve."
-"Ngjeshuni me thes dhe mbani zi, o priftërinj, vajtoni, ministra të altarit. Ejani, rrini tërë natën të veshur me thasë, o ministra të Perëndisë tim, sepse oferta e ushqimit dhe libacioni u zhduk nga shtëpia e Perëndisë tuaj."
+"Ngjeshuni me thes dhe mbani zi, o priftërinj, vajtoni, ministra të altarit. Ejani, rrini tërë natën të veshur me thasë, #o ministra të Perëndisë tim, sepse oferta e ushqimit dhe libacioni u zhduk nga shtëpia e Perëndisë tuaj."
 "Shpallni agjërim, thërrisni një kuvend solemn. Mblidhni pleqtë dhe tërë banorët e vendit në shtëpinë e Zotit, Perëndisë tuaj, dhe i klithni Zotit."
 "Mjerë ajo ditë! Sepse dita e Zotit është e afërt; po, do të vijë si një shkatërrim nga i Plotfuqishmi."
 "A nuk u hoq vallë ushqimi para syve tona, dhe gëzimi dhe hareja nga shtëpia e Perëndisë tonë?"

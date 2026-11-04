@@ -10,7 +10,7 @@
 "Imádkozásaimban mindenkor könyörögvén, vajha egyszer már jó szerencsés út adódnék nékem Istennek akaratából, hogy hozzátok mehessek;"
 "Mert kívánlak titeket látni, hogy valami lelki ajándékot közölhessek veletek a ti megerõsítésetekre,"
 "Azaz, hogy együtt felbuzduljunk ti nálatok egymás hite által, a tiétek meg az enyém által."
-"Nem akarom pedig, hogy ne tudjátok atyámfiai, hogy én gyakran elvégeztem magamban, hogy elmegyek hozzátok (de mindez ideig megakadályoztattam), hogy köztetek is nyerjek valami lelki gyümölcsöt, mint a többi pogányok közt is."
+"Nem akarom pedig, hogy ne tudjátok atyámfiai, hogy én gyakran elvégeztem magamban, hogy elmegyek hozzátok (de mindez #ideig megakadályoztattam), hogy köztetek is nyerjek valami lelki gyümölcsöt, mint a többi pogányok közt is."
 "Mind a görögöknek, mind a barbároknak, mind a bölcseknek, mind a tudatlanoknak köteles vagyok."
 "Azért a mi rajtam áll, kész vagyok néktek is, a kik Rómában vagytok, az evangyéliomot hirdetni."
 "Mert nem szégyenlem a Krisztus evangyéliomát; mert Istennek hatalma az minden hívõnek idvességére, zsidónak elõször meg görögnek."
@@ -24,7 +24,7 @@
 "Annakokáért adta is õket az Isten szívök kivánságaiban tisztátalanságra, hogy egymás testét megszeplõsítsék;"
 "Mint a kik az Isten igazságát hazugsággá változtatták, és a teremtett dolgokat tisztelték és szolgálták a teremtõ helyett, a ki mind örökké áldott. Ámen."
 "Annakokáért adta õket az Isten tisztátalan indulatokra; mert az õ asszonynépeik is elváltoztatták a természet folyását természetellenesre
-"Hasonlóképen a férfiak is elhagyván az asszonynéppel való természetes élést, egymásra gerjedtek bujaságukban, férfiak férfiakkal fertelmeskedvén, és az õ tévelygésöknek méltó jutalmát elvevén önmagokban."
+"Hasonlóképen a férfiak is elhagyván az asszonynéppel való természetes élést, egymásra gerjedtek bujaságukban, #férfiak férfiakkal fertelmeskedvén, és az õ tévelygésöknek méltó jutalmát elvevén önmagokban."
 "És a miképen nem méltatták az Istent arra, hogy ismeretökben megtartsák, azonképen oda adták õket az Isten méltatlan gondolkozásra, hogy illetlen dolgokat cselekedjenek;"
 "A kik teljesek minden hamissággal, paráznasággal, gonoszsággal, kapzsisággal, rosszasággal; rakvák, írigységgel, gyilkossággal, versengéssel, álnoksággal, rossz erkölcscsel;"
 "Súsárlók, rágalmazók, istengyûlölõk, dölyfösek, kevélyek, dicsekedõk, rosszban mesterkedõk, szüleiknek engedetlenek,"

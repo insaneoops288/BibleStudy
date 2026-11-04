@@ -28,5 +28,5 @@
 "A čehožkoli byl posvětil Samuel prorok, a Saul syn Cis, a Abner syn Nerův, a Joáb syn Sarvie. Kdokoli posvěcoval čeho, dával do rukou Selomita a bratří jeho."
 "Z Izarských Chenaniáš a synové jeho, nad dílem, kteréž vně děláno, byli v Izraeli za úředníky a soudce."
 "Z Hebronských Chasabiáš a bratří jeho, mužů silných tisíc a sedm set bylo v přednosti nad Izraelem, za Jordánem k západu, ve všelikém díle Hospodinově a v službě královské."
-"Mezi kterýmiž Hebronskými Jeriáš kníže byl nad Hebronskými v pokolení jejich, po čeledech otcovských; nebo léta čtyřidcátého kralování Davidova vyhledáváni byli, a nalezeni jsou mezi nimi muži udatní v Jazar Galádské,"
-"A bratří jeho, mužů silných, dva tisíce a sedm set, knížat otcovských čeledí. Kteréž ustanovil David král nad Rubenskými a Gádskými, a nad polovicí pokolení Manassesova, ve všech věcech Božských i věcech královských."
+"Mezi kterýmiž Hebronskými Jeriáš kníže byl nad Hebronskými v pokolení jejich, po čeledech otcovských; nebo léta #čtyřidcátého kralování Davidova vyhledáváni byli, a nalezeni jsou mezi nimi muži udatní v Jazar Galádské,"
+"A bratří jeho, mužů silných, dva tisíce a sedm set, knížat otcovských čeledí. Kteréž ustanovil David král #nad Rubenskými a Gádskými, a nad polovicí pokolení Manassesova, ve všech věcech Božských i věcech královských."

@@ -1,6 +1,6 @@
 "És elment Sámson Gázába, és meglátott ott egy parázna asszonyt, és bement hozzá."
 "A gázabelieknek pedig [mikor] [megmondották,] mondván
-"És aluvék Sámson éjfélig. Éjfélkor pedig felkelt, és megfogván a város kapujának szárnyait, a kapufélfákkal és a závárokkal együtt kiszakította azokat, és vállaira vette, és felvitte a hegy tetejére, mely Hebronnal szemben fekszik."
+"És aluvék Sámson éjfélig. Éjfélkor pedig felkelt, és megfogván a város kapujának szárnyait, a kapufélfákkal és a #závárokkal együtt kiszakította azokat, és vállaira vette, és felvitte a hegy tetejére, mely Hebronnal szemben fekszik."
 "És történt azután, hogy megszeretett egy asszonyt a Sórek völgyében, a kinek neve Delila volt."
 "És felmenének õ hozzá a Filiszteusok fejedelmei, és mondának néki
 "És monda Delila Sámsonnak

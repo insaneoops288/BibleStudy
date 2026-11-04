@@ -19,6 +19,6 @@
 "dhe jo vetëm kaq, por ai u zgjodh nga kishat që të jetë shoku ynë në udhëtim me këtë dhuratë që ne administrojmë për lavdinë e Zotit vetë, për të treguar gatishmërinë e zemrës suaj,"
 "duke shmangur qortimin e ndonjërit në këtë dhuratë bujare që administrohet prej nesh,"
 "sepse kujdesemi të veprojmë mirë jo vetëm përpara Zotit, por edhe përpara njerëzve."
-"Edhe ne dërguam bashkë me ta vëllanë tonë, të cilin e kemi vënë në sprovë shumë herë në shumë gjëra dhe doli i zellshëm, por tani është edhe më i zellshëm për shkak të besimit të madh që ka ndaj jush."
+"Edhe ne dërguam bashkë me ta vëllanë tonë, të cilin e kemi vënë në sprovë shumë herë në shumë gjëra dhe #doli i zellshëm, por tani është edhe më i zellshëm për shkak të besimit të madh që ka ndaj jush."
 "Sa për Titin, ai është bashkëpunëtori im dhe shok i veprës midis jush; sa për vëllezërit, ata janë apostuj të kishave, lavdi e Krishtit."
 "U tregoni atyre provën e dashurisë suaj dhe pse mburremi me ju edhe përpara kishave."

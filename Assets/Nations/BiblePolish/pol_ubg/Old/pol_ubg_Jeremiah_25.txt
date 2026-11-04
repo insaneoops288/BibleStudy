@@ -1,12 +1,12 @@
 "Słowo, które doszło do Jeremiasza o całym ludzie Judy w czwartym roku Joakima, syna Jozjasza, króla Judy, a był to pierwszy rok Nabuchodonozora, króla Babilonu;"
 "Które wypowiedział prorok Jeremiasz do całego ludu Judy i do wszystkich mieszkańców Jerozolimy, mówiąc
-"Od trzynastego roku Jozjasza, syna Amona, króla Judy, aż do dziś, to znaczy już przez dwadzieścia trzy lata, dochodziło do mnie słowo PANA i przemawiałem do was z wczesnym wstawaniem i mówieniem, ale nie słuchaliście."
+"Od trzynastego roku Jozjasza, syna Amona, króla Judy, aż do dziś, to znaczy już przez dwadzieścia trzy lata, #dochodziło do mnie słowo PANA i przemawiałem do was z wczesnym wstawaniem i mówieniem, ale nie słuchaliście."
 "PAN też posyłał do was wszystkie swoje sługi, proroków, z wczesnym wstawaniem i przesłaniem, ale nie usłuchaliście ani nie nakłoniliście swego ucha, aby usłyszeć."
 "Oni mówili
 "Nie chodźcie za innymi bogami, aby im służyć i oddawać im pokłon, i nie pobudzajcie mnie do gniewu uczynkami waszych rąk, a ja nie uczynię wam nic złego."
 "Ale nie usłuchaliście mnie, mówi PAN, pobudzając mnie do gniewu uczynkami swoich rąk na własne nieszczęście."
 "Dlatego tak mówi PAN zastępów
-"Oto poślę po wszystkie rody północne i zbiorę je, mówi PAN, i Nabuchodonozora, króla Babilonu, swego sługę, i sprowadzę ich na tę ziemię, na jej mieszkańców i na te wszystkie okoliczne narody, a doszczętnie zniszczę ich i uczynię ich przedmiotem zdumienia i świstania, i wiecznym spustoszeniem."
+"Oto poślę po wszystkie rody północne i zbiorę je, mówi PAN, i Nabuchodonozora, króla Babilonu, swego sługę, i sprowadzę ich na tę ziemię, na #jej mieszkańców i na te wszystkie okoliczne narody, a doszczętnie zniszczę ich i uczynię ich przedmiotem zdumienia i świstania, i wiecznym spustoszeniem."
 "I sprawię, że zaniknie głos wesela i głos radości, głos oblubieńca i głos oblubienicy, odgłos żaren i światło pochodni."
 "I cała ta ziemia stanie się spustoszeniem i zdumieniem, a te narody będą służyć królowi Babilonu przez siedemdziesiąt lat."
 "A gdy się dopełni siedemdziesiąt lat, ukarzę króla Babilonu i ten naród, mówi PAN, za ich nieprawość, oraz ziemię Chaldejczyków, i zamienię ją w wieczne spustoszenie."
@@ -26,7 +26,7 @@
 "I wszystkich królów Północy, bliskich i dalekich, jednego po drugim; wszystkie królestwa ziemi, jakie są na powierzchni ziemi. A król Szeszak będzie po nich pił."
 "I powiesz im
 "A jeśli nie zechcą wziąć kubka z twojej ręki, aby pić, wtedy im powiesz
-"Oto bowiem na to miasto, nad którym jest wzywane moje imię, zaczynam sprowadzać nieszczęście, a wy mielibyście pozostać nieukarani? Nie ujdziecie karze, bo ja przyzywam miecz na wszystkich mieszkańców tej ziemi, mówi PAN zastępów."
+"Oto bowiem na to miasto, nad którym jest wzywane moje imię, zaczynam sprowadzać nieszczęście, a wy mielibyście pozostać #nieukarani? Nie ujdziecie karze, bo ja przyzywam miecz na wszystkich mieszkańców tej ziemi, mówi PAN zastępów."
 "Dlatego ty prorokuj przeciwko nim wszystkie te słowa i powiedz im
 "I dojdzie wrzawa aż do krańców ziemi, bo PAN prowadzi spór z tymi narodami, sprawuje sąd nad wszelkim ciałem, bezbożnych wyda pod miecz, mówi PAN."
 "Tak mówi PAN zastępów

@@ -1,8 +1,8 @@
-"Huszonötödik esztendejében fogságunknak, az esztendõnek kezdetén, a hónap tizedikén, a tizennegyedik esztendõben az után, hogy a város megveretett, épen ezen a napon lõn az Úr keze én rajtam, és elvitt engemet oda."
+"Huszonötödik esztendejében fogságunknak, az esztendõnek kezdetén, a hónap tizedikén, a tizennegyedik esztendõben az után, hogy a város #megveretett, épen ezen a napon lõn az Úr keze én rajtam, és elvitt engemet oda."
 "Isteni látásokban vitt engem Izráel földjére, és letõn engem egy igen magas hegyre, s azon vala mint egy város épülete dél felõl."
 "És oda vitt engem, és ímé egy férfiú vala ott, tekintete mint az ércznek tekintete, és len-zsinór vala kezében és mérõpálcza; és a kapuban áll vala."
 "És szóla nékem az a férfiú
-"És ímé, kõfal vala a házon kivül köröskörül; és a férfiú kezében a mérõpálcza vala hat singnyi (a [köz]singben s egy tenyérben); és méré az épület szélességét egy pálczányira s magasságát egy pálczányira."
+"És ímé, kõfal vala a házon kivül köröskörül; és a férfiú kezében a mérõpálcza vala hat singnyi #(a [köz]singben s egy tenyérben); és méré az épület szélességét egy pálczányira s magasságát egy pálczányira."
 "És méne egy kapuhoz, mely napkeletre néz vala, és felméne grádicsain, és méré a kapu küszöbét egy pálczányi szélességre, a másik küszöböt is egy pálczányi szélességre;"
 "És az õrkamarát egy pálczányi hosszúságra és egy pálczányi szélességre, és az õrkamarák közét öt singnyire, és a kapu küszöbét, a kapu tornácza mellett belõl, egy pálczányira."
 "És méré a kapu tornáczát belõl egy pálczányira."
@@ -41,7 +41,7 @@
 "Négy asztal egyfelõl, és másfelõl is négy asztal a kapu oldalán; nyolcz asztal, ezeken ölik vala [az áldozatot."
 "És négy asztal vala az égõáldozatra faragott kõbõl, másfél sing hosszú és másfél sing széles és egy sing magas; ezekre teszik a szerszámokat, melyekkel az égõáldozatot és egyéb áldozatot ölnek."
 "És a szegek valának egy tenyérnyiek, oda erõsítve belõl köröskörül, s az asztalokra [jöve] az áldozat húsa."
-"A belsõ kapun kivül pedig vala két kamara az énekesek számára a belsõ pitvarban, egyik oldalt az északi kaputól, melynek eleje dél felé vala, s a másik oldalt a déli kaputól, melynek eleje észak felé vala."
+"A belsõ kapun kivül pedig vala két kamara az énekesek számára a belsõ pitvarban, egyik oldalt az északi kaputól, #melynek eleje dél felé vala, s a másik oldalt a déli kaputól, melynek eleje észak felé vala."
 "És szóla nékem
 "Az a kamara pedig, mely északra néz, azoké a papoké, kik az oltárhoz való szolgálatban foglalatosak, ezek a Sádók fiai, kik az Úrhoz járulnak a Lévi fiai közül, hogy szolgáljanak néki."
 "És megméré a pitvart; hosszúsága száz sing és szélessége is száz sing, négyszögre; és az oltár vala a ház elõtt."

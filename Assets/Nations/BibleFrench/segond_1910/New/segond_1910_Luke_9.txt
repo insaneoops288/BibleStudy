@@ -19,7 +19,7 @@
 "Ils répondirent
 "Et vous, leur demanda-t-il, qui dites-vous que je suis? Pierre répondit
 "Jésus leur recommanda sévèrement de ne le dire à personne."
-"Il ajouta qu'il fallait que le Fils de l'homme souffrît beaucoup, qu'il fût rejeté par les anciens, par les principaux sacrificateurs et par les scribes, qu'il fût mis à mort, et qu'il ressuscitât le troisième jour."
+"Il ajouta qu'il fallait que le Fils de l'homme souffrît beaucoup, qu'il fût rejeté par les anciens, par les #principaux sacrificateurs et par les scribes, qu'il fût mis à mort, et qu'il ressuscitât le troisième jour."
 "Puis il dit à tous
 "Car celui qui voudra sauver sa vie la perdra, mais celui qui la perdra à cause de moi la sauvera."
 "Et que servirait-il à un homme de gagner tout le monde, s'il se détruisait ou se perdait lui-même?"

@@ -9,8 +9,8 @@
 "Ja hän sanoi
 "Niin totta kuin Herra sinun Jumalas elää, ei ole yhtään kansaa eli valtakuntaa, kuhunka minun herrani ei ole lähettänyt, sinua etsimään. Ja koska he ovat sanoneet
 "Ja nyt sinä sanot
-"Ja taitais tapahtua, kuin minä menisin pois sinun tyköäs, niin ottais Herran henki sinun pois, ja en minä tietäisi kuhunka, ja minä sitte tulisin ja sanoisin sen Ahabille, ja hän ei löytäisi sinua, niin hän tappais minun. Mutta minä sinun palvelias pelkään Herraa hamasta nuoruudestani."
-"Eikö minun herralleni ole sanottu, mitä minä tehnyt olen, kuin Isebel tappoi Herran prophetat? ja minä kätkin sata Herran prophetaa luoliin, viisikymmentä tänne ja viisikymmentä sinne, ja ruokin heidät leivällä ja vedellä."
+"Ja taitais tapahtua, kuin minä menisin pois sinun tyköäs, niin ottais Herran henki sinun pois, ja en minä tietäisi kuhunka, ja minä sitte #tulisin ja sanoisin sen Ahabille, ja hän ei löytäisi sinua, niin hän tappais minun. Mutta minä sinun palvelias pelkään Herraa hamasta nuoruudestani."
+"Eikö minun herralleni ole sanottu, mitä minä tehnyt olen, kuin Isebel tappoi Herran prophetat? ja minä kätkin #sata Herran prophetaa luoliin, viisikymmentä tänne ja viisikymmentä sinne, ja ruokin heidät leivällä ja vedellä."
 "Ja nyt sinä sanot
 "Elia sanoi
 "Niin meni Obadia Ahabia vastaan ja sanoi nämät hänelle, ja Ahab meni Eliaa vastaan."

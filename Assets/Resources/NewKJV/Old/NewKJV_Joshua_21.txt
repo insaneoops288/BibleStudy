@@ -1,7 +1,7 @@
 Then the heads of the fathers' houses of the Levites came near to Eleazar the priest, to Joshua the son of Nun, and to the heads of the fathers' houses of the tribes of the children of Israel.
 And they spoke to them at Shiloh in the land of Canaan, saying, "The LORD commanded through Moses to give us cities to dwell in, with their common-lands for our livestock."
 So the children of Israel gave to the Levites from their inheritance, at the commandment of the LORD, these cities and their common-lands,
-Now the lot came out for the families of the Kohathites. And the children of Aaron the priest, who were of the Levites, had thirteen cities by lot from the tribe of Judah, from the tribe of Simeon, and from the tribe of Benjamin.
+Now the lot came out for the families of the Kohathites. And the children of Aaron the priest, who were of the Levites, #had thirteen cities by lot from the tribe of Judah, from the tribe of Simeon, and from the tribe of Benjamin.
 The rest of the children of Kohath had ten cities by lot from the families of the tribe of Ephraim, from the tribe of Dan, and from the half-tribe of Manasseh.
 And the children of Gershon had thirteen cities by lot from the families of the tribe of Issachar, from the tribe of Asher, from the tribe of Naphtali, and from the half-tribe of Manasseh in Bashan.
 The children of Merari according to their families had twelve cities from the tribe of Reuben, from the tribe of Gad, and from the tribe of Zebulun.
@@ -24,7 +24,7 @@ and from the tribe of Dan, Eltekeh with its common-land, Gibbethon with its comm
 Aijalon with its common-land, and Gath Rimmon with its common-land, four cities;
 and from the half-tribe of Manasseh, Tanach with its common-land and Gath Rimmon with its common-land, two cities.
 All the ten cities with their common-lands were for the rest of the families of the children of Kohath.
-Also to the children of Gershon, of the families of the Levites, from the other half-tribe of Manasseh, they gave Golan in Bashan with its common-land (a city of refuge for the slayer), and Be Eshterah with its common-land, two cities;
+Also to the children of Gershon, of the families of the Levites, from the other half-tribe of Manasseh, they gave Golan #in Bashan with its common-land (a city of refuge for the slayer), and Be Eshterah with its common-land, two cities;
 and from the tribe of Issachar, Kishion with its common-land, Daberath with its common-land,
 Jarmuth with its common-land, and En Gannim with its common-land, four cities;
 and from the tribe of Asher, Mishal with its common-land, Abdon with its common-land,

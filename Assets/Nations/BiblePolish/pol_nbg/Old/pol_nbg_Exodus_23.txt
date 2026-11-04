@@ -12,7 +12,7 @@
 "Sześć dni wykonuj twoje czynności, ale dnia siódmego odpoczywaj, aby odpoczął twój byk, twój osioł, żeby wytchnął syn twojej niewolnicy i cudzoziemiec."
 "We wszystkim, co wam powiedziałem bądźcie ostrożni; i imienia cudzych bogów nie wspominajcie; niech nie będzie słyszane z twoich ust."
 "Trzy razy do roku będziesz obchodził dla Mnie święto."
-"Przestrzegaj święta Przaśników. Tak, jak ci przykazałem, w oznaczonym czasie miesiąca Kłosów siedem dni będziesz jadał przaśniki, gdyż w nim wyszedłeś z Micraim. I niech się nie ukażą przed Mym obliczem z pustą ręką."
+"Przestrzegaj święta Przaśników. Tak, jak ci przykazałem, w oznaczonym czasie miesiąca Kłosów siedem dni będziesz jadał przaśniki, gdyż #w nim wyszedłeś z Micraim. I niech się nie ukażą przed Mym obliczem z pustą ręką."
 "Także święta Żniwa pierwocin twoich plonów, tego co wysiałeś na polu. A z końcem roku święta Zbiorów, gdy zbierzesz z pola twoje plony."
 "Cały twój męski lud ukaże się trzy razy do roku przed obliczem Pana, WIEKUISTEGO."
 "Nie rozlewaj przy kwaszonym krwi Mojej ofiary; nie może przeleżeć do rana tłuszcz Mojej świątecznej ofiary."

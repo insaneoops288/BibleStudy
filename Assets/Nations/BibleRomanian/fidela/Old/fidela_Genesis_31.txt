@@ -39,7 +39,7 @@
 "Ce a fost sfâşiat de [fiare] nu am adus la tine; eu am purtat pierderea aceea; din mâna mea ai cerut-o, [fie] [că a fost] furată ziua sau furată noaptea."
 "[Astfel] am fost; în timpul zilei seceta mă mistuia şi bruma în timpul nopţii; şi somnul mi s-a depărtat de la ochii mei."
 "Astfel am fost eu douăzeci de ani în casa ta; ţi-am servit paisprezece ani pentru cele două fiice ale tale şi şase ani pentru vitele tale; şi ai schimbat plăţile mele de zece ori."
-"Dacă Dumnezeul tatălui meu, Dumnezeul lui Avraam şi teama lui Isaac, nu ar fi fost cu mine, cu adevărat m-ai fi trimis acum gol. Dumnezeu a văzut necazul meu şi munca mâinilor mele şi [te]-a mustrat aseară."
+"Dacă Dumnezeul tatălui meu, Dumnezeul lui Avraam şi teama lui Isaac, nu ar fi fost cu mine, cu adevărat #m-ai fi trimis acum gol. Dumnezeu a văzut necazul meu şi munca mâinilor mele şi [te]-a mustrat aseară."
 "Şi Laban a răspuns şi i-a zis lui Iacob
 "De aceea vino acum, să facem un legământ, eu şi tu; şi să fie acesta pentru o mărturie între mine şi tine."
 "Şi Iacob a luat o piatră şi a aşezat-o [drept] stâlp."
@@ -49,7 +49,7 @@
 "Şi Miţpa, căci el a spus
 "Dacă vei chinui pe fiicele mele, sau dacă vei lua [alte] soţii pe lângă fiicele mele, niciun bărbat nu [este] cu noi; vezi, Dumnezeu [este] martor între mine şi tine."
 "Şi Laban i-a spus lui Iacob
-"Această movilă[ fie] mărturie şi [acest] stâlp[ fie] mărturie, că nu voi trece peste această movilă la tine şi că nu vei trece peste această movilă şi peste [acest] stâlp la mine, pentru a face rău."
+"Această movilă[ fie] mărturie şi [acest] stâlp[ fie] mărturie, că nu voi trece peste această movilă la tine şi #că nu vei trece peste această movilă şi peste [acest] stâlp la mine, pentru a face rău."
 "Dumnezeul lui Avraam şi Dumnezeul lui Nahor, Dumnezeul Tatălui lor, să judece între noi. Şi Iacob a jurat pe teama tatălui său Isaac."
 "Atunci Iacob a oferit sacrificii pe munte şi a chemat pe fraţii săi să mănânce pâine şi au mâncat pâine şi au rămas toată noaptea pe munte."
 "Şi devreme dimineaţa Laban s-a ridicat şi a sărutat pe fiii săi şi pe fiicele sale şi i-a binecuvântat; şi Laban a plecat şi s-a întors la locul său."

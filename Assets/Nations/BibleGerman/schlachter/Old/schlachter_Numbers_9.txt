@@ -10,8 +10,8 @@
 "Sage den Kindern Israel und sprich
 "Im zweiten Monat, am vierzehnten Tage, gegen Abend, sollen sie es halten und sollen es mit ungesäuertem Brot und bittern Kräutern essen,"
 "und sollen nichts davonübriglassen bis zum Morgen, auch kein Bein daran zerbrechen; nach der ganzen Passahordnung sollen sie es halten."
-"Wer aber rein und nicht auf der Reise ist, und läßt es anstehen, das Passah zu halten, eine solche Seele soll ausgerottet werden, weil sie des HERRN Opfergabe nicht zur bestimmten Zeit dargebracht hat; sie soll ihre Sünde tragen!"
-"Und wenn ein Fremdling bei euch wohnt und dem HERRN das Passah halten will, so soll er es nach der Satzung und dem Rechte des Passah halten. Einerlei Satzung soll für euch gelten, für den Fremdling wie für die Landeskinder."
+"Wer aber rein und nicht auf der Reise ist, und läßt es anstehen, das Passah zu halten, eine solche Seele #soll ausgerottet werden, weil sie des HERRN Opfergabe nicht zur bestimmten Zeit dargebracht hat; sie soll ihre Sünde tragen!"
+"Und wenn ein Fremdling bei euch wohnt und dem HERRN das Passah halten will, so soll er es nach der Satzung #und dem Rechte des Passah halten. Einerlei Satzung soll für euch gelten, für den Fremdling wie für die Landeskinder."
 "An dem Tage aber, als die Wohnung aufgerichtet ward, bedeckte die Wolke die Wohnung der Hütte des Zeugnisses, und vom Abend bis zum Morgen war sieüber der Wohnung anzusehen wie Feuer."
 "So war es beständig; die Wolke bedeckte sie, aber bei Nacht war sie anzusehen wie Feuer."
 "Sooft sich die Wolke von der Hütte erhob, brachen die Kinder Israel auf; wo aber die Wolke blieb, da lagerten sich die Kinder Israel."

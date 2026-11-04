@@ -10,12 +10,12 @@
 "Puis vous venez vous présenter devant moi, Dans cette maison sur laquelle mon nom est invoqué, Et vous dites
 "Est-elle à vos yeux une caverne de voleurs, Cette maison sur laquelle mon nom est invoqué? Je le vois moi-même, dit l'Eternel."
 "Allez donc au lieu qui m'était consacré à Silo, Où j'avais fait autrefois résider mon nom. Et voyez comment je l'ai traité, A cause de la méchanceté de mon peuple d'Israël."
-"Et maintenant, puisque vous avez commis toutes ces actions, Dit l'Eternel, Puisque je vous ai parlé dès le matin et que vous n'avez pas écouté, Puisque je vous ai appelés et que vous n'avez pas répondu,"
+"Et maintenant, puisque vous avez commis toutes ces actions, Dit l'Eternel, Puisque je vous ai parlé dès le matin #et que vous n'avez pas écouté, Puisque je vous ai appelés et que vous n'avez pas répondu,"
 "Je traiterai la maison sur laquelle mon nom est invoqué, Sur laquelle vous faites reposer votre confiance, Et le lieu que j'ai donné à vous et à vos pères, De la même manière que j'ai traité Silo;"
 "Et je vous rejetterai loin de ma face, Comme j'ai rejeté tous vos frères, Toute la postérité d'Ephraïm."
 "Et toi, n'intercède pas en faveur de ce peuple, N'élève pour eux ni supplications ni prières, Ne fais pas des instances auprès de moi; Car je ne t'écouterai pas."
 "Ne vois-tu pas ce qu'ils font dans les villes de Juda Et dans les rues de Jérusalem?"
-"Les enfants ramassent du bois, Les pères allument le feu, Et les femmes pétrissent la pâte, Pour préparer des gâteaux à la reine du ciel, Et pour faire des libations à d'autres dieux, Afin de m'irriter."
+"Les enfants ramassent du bois, Les pères allument le feu, Et les femmes pétrissent la pâte, Pour préparer des #gâteaux à la reine du ciel, Et pour faire des libations à d'autres dieux, Afin de m'irriter."
 "Est-ce moi qu'ils irritent? dit l'Eternel; N'est-ce pas eux-mêmes, A leur propre confusion?"
 "C'est pourquoi ainsi parle le Seigneur, l'Eternel
 "Ainsi parle l'Eternel des armées, le Dieu d'Israël
@@ -29,6 +29,6 @@
 "Coupe ta chevelure, et jette-la au loin; Monte sur les hauteurs, et prononce une complainte! Car l'Eternel rejette Et repousse la génération qui a provoqué sa fureur."
 "Car les enfants de Juda ont fait ce qui est mal à mes yeux, Dit l'Eternel; Ils ont placé leurs abominations Dans la maison sur laquelle mon nom est invoqué, Afin de la souiller."
 "Ils ont bâti des hauts lieux à Topheth dans la vallée de Ben-Hinnom, Pour brûler au feu leurs fils et leurs filles
-"C'est pourquoi voici, les jours viennent, dit l'Eternel, Où l'on ne dira plus Topheth et la vallée de Ben-Hinnom, Mais où l'on dira la vallée du carnage; Et l'on enterrera les morts à Topheth par défaut de place."
+"C'est pourquoi voici, les jours viennent, dit l'Eternel, Où l'on ne dira plus Topheth et la vallée de Ben-Hinnom, Mais #où l'on dira la vallée du carnage; Et l'on enterrera les morts à Topheth par défaut de place."
 "Les cadavres de ce peuple seront la pâture Des oiseaux du ciel et des bêtes de la terre; Et il n'y aura personne pour les troubler."
-"Je ferai cesser dans les villes de Juda et dans les rues de Jérusalem Les cris de réjouissance et les cris d'allégresse, Les chants du fiancé et les chants de la fiancée; Car le pays sera un désert."
+"Je ferai cesser dans les villes de Juda et dans les rues de Jérusalem Les cris de réjouissance et les #cris d'allégresse, Les chants du fiancé et les chants de la fiancée; Car le pays sera un désert."

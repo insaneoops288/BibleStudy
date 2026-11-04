@@ -3,7 +3,7 @@
 "und Basmath, die Tochter Ismaels, die Schwester Nebajoths."
 "Und Ada gebar dem Esau Eliphas, und Basmath gebar Reghuel."
 "Und Oholibama gebar Jeghusch und Jaghlam und Korach. Das sind die Söhne Esaus, welche ihm im Lande Kanaan geboren wurden."
-"Und Esau nahm seine Weiber und seine Söhne und seine Töchter und alle Seelen seines Hauses, und seine Herden und all sein Vieh und all sein Besitztum, das er im Lande Kanaan erworben hatte, und zog in ein Land, von seinem Bruder Jakob hinweg."
+"Und Esau nahm seine Weiber und seine Söhne und seine Töchter und alle Seelen seines Hauses, und seine Herden und all sein Vieh #und all sein Besitztum, das er im Lande Kanaan erworben hatte, und zog in ein Land, von seinem Bruder Jakob hinweg."
 "Denn ihre Habe war zu groß, daß sie hätten beieinander wohnen können, und das Land ihres Aufenthaltes vermochte sie nicht zu tragen wegen ihrer Herden."
 "Und Esau wohnte auf dem Gebirge Seir. Esau, das ist Edom."
 "Und dies sind die Geschlechter Esaus, des Vaters von Edom, auf dem Gebirge Seir."
@@ -36,7 +36,7 @@
 "Und Hadad starb; und es ward König an seiner Statt Samla aus Masreka."
 "Und Samla starb; und es ward König an seiner Statt Saul aus Rechoboth am Strome."
 "Und Saul starb, und es ward König an seiner Statt Baal-Hanan, der Sohn Akbors."
-"Und Baal-Hanan, der Sohn Akbors, starb; und es ward König an seiner Statt Hadar; und der Name seiner Stadt war Paghu, und der Name seines Weibes Mehetabeel, die Tochter Matreds, der Tochter Mesahabs."
+"Und Baal-Hanan, der Sohn Akbors, starb; und es ward König an seiner Statt Hadar; und der Name #seiner Stadt war Paghu, und der Name seines Weibes Mehetabeel, die Tochter Matreds, der Tochter Mesahabs."
 "Und dies sind die Namen der Fürsten Esaus, nach ihren Familien, nach ihren Ortschaften, mit ihren Namen
 "der Fürst Oholibama, der Fürst Ela, der Fürst Pinon,"
 "der Fürst Kenas, der Fürst Teman, der Fürst Mibzar,"

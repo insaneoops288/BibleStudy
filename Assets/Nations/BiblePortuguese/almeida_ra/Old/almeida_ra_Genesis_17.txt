@@ -9,7 +9,7 @@
 "Disse mais Deus a Abraão
 "Este é o meu pacto, que guardareis entre mim e vós, e a tua descendência depois de ti
 "Circuncidar-vos-eis na carne do prepúcio; e isto será por sinal de pacto entre mim e vós."
-"À idade de oito dias, todo varão dentre vós será circuncidado, por todas as vossas gerações, tanto o nascido em casa como o comprado por dinheiro a qualquer estrangeiro, que não for da tua linhagem."
+"À idade de oito dias, todo varão dentre vós será circuncidado, por todas as vossas gerações, tanto o #nascido em casa como o comprado por dinheiro a qualquer estrangeiro, que não for da tua linhagem."
 "Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; assim estará o meu pacto na vossa carne como pacto perpétuo."
 "Mas o incircunciso, que não se circuncidar na carne do prepúcio, essa alma será extirpada do seu povo; violou o meu pacto."
 "Disse Deus a Abraão
@@ -20,7 +20,7 @@
 "E quanto a Ismael, também te tenho ouvido; eis que o tenho abençoado, e fá-lo-ei frutificar, e multiplicá-lo-ei grandissimamente; doze príncipes gerará, e dele farei uma grande nação."
 "O meu pacto, porém, estabelecerei com Isaque, que Sara te dará à luz neste tempo determinado, no ano vindouro."
 "Ao acabar de falar com Abraão, subiu Deus diante dele."
-"Logo tomou Abraão a seu filho Ismael, e a todos os nascidos na sua casa e a todos os comprados por seu dinheiro, todo varão entre os da casa de Abraão, e lhes circuncidou a carne do prepúcio, naquele mesmo dia, como Deus lhe ordenara."
+"Logo tomou Abraão a seu filho Ismael, e a todos os nascidos na sua casa e a todos os comprados por seu dinheiro, #todo varão entre os da casa de Abraão, e lhes circuncidou a carne do prepúcio, naquele mesmo dia, como Deus lhe ordenara."
 "Abraão tinha noventa e nove anos, quando lhe foi circuncidada a carne do prepúcio;"
 "E Ismael, seu filho, tinha treze anos, quando lhe foi circuncidada a carne do prepúcio."
 "No mesmo dia foram circuncidados Abraão e seu filho Ismael."

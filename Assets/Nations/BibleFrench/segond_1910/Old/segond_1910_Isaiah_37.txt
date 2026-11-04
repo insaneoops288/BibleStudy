@@ -1,7 +1,7 @@
 "Lorsque le roi Ezéchias eut entendu cela, il déchira ses vêtements, se couvrit d'un sac, et alla dans la maison de l'Eternel."
 "Il envoya Eliakim, chef de la maison du roi, Schebna, le secrétaire, et les plus anciens des sacrificateurs, couverts de sacs, vers Esaïe, le prophète, fils d'Amots."
 "Et ils lui dirent
-"Peut-être l'Eternel, ton Dieu, a-t-il entendu les paroles de Rabschaké, que le roi d'Assyrie, son maître, a envoyé pour insulter le Dieu vivant, et peut-être l'Eternel, ton Dieu, exercera-t-il ses châtiments à cause des paroles qu'il a entendues. Fais donc monter une prière pour le reste qui subsiste encore."
+"Peut-être l'Eternel, ton Dieu, a-t-il entendu les paroles de Rabschaké, que le roi d'Assyrie, son maître, a envoyé pour insulter le Dieu vivant, et peut-être #l'Eternel, ton Dieu, exercera-t-il ses châtiments à cause des paroles qu'il a entendues. Fais donc monter une prière pour le reste qui subsiste encore."
 "Les serviteurs du roi Ezéchias allèrent donc auprès d'Esaïe."
 "Et Esaïe leur dit
 "Je vais mettre en lui un esprit tel que, sur une nouvelle qu'il recevra, il retournera dans son pays; et je le ferai tomber par l'épée dans son pays."
@@ -23,10 +23,10 @@
 "Qui as-tu insulté et outragé? Contre qui as-tu élevé la voix? Tu as porté tes yeux en haut Sur le Saint d'Israël."
 "Par tes serviteurs tu as insulté le Seigneur, Et tu as dit
 "J'ai ouvert des sources, et j'en ai bu les eaux, Et je tarirai avec la plante de mes pieds Tous les fleuves de l'Egypte."
-"N'as-tu pas appris que j'ai préparé ces choses de loin, Et que je les ai résolues dès les temps anciens? Maintenant j'ai permis qu'elles s'accomplissent, Et que tu réduisisses des villes fortes en monceaux de ruines."
+"N'as-tu pas appris que j'ai préparé ces choses de loin, Et que je les ai résolues dès les temps #anciens? Maintenant j'ai permis qu'elles s'accomplissent, Et que tu réduisisses des villes fortes en monceaux de ruines."
 "Leurs habitants sont impuissants, Epouvantés et confus; Ils sont comme l'herbe des champs et la tendre verdure, Comme le gazon des toits Et le blé qui sèche avant la formation de sa tige."
 "Mais je sais quand tu t'assieds, quand tu sors et quand tu entres, Et quand tu es furieux contre moi."
-"Parce que tu es furieux contre moi, Et que ton arrogance est montée à mes oreilles, Je mettrai ma boucle à tes narines et mon mors entre tes lèvres, Et je te ferai retourner par le chemin par lequel tu es venu."
+"Parce que tu es furieux contre moi, Et que ton arrogance est montée à mes oreilles, Je mettrai ma boucle à tes #narines et mon mors entre tes lèvres, Et je te ferai retourner par le chemin par lequel tu es venu."
 "Que ceci soit un signe pour toi
 "Ce qui aura été sauvé de la maison de Juda, ce qui sera resté poussera encore des racines par-dessous, et portera du fruit par-dessus."
 "Car de Jérusalem il sortira un reste, et de la montagne de Sion des réchappés. Voilà ce que fera le zèle de l'Eternel des armées."
@@ -35,4 +35,4 @@
 "Je protégerai cette ville pour la sauver, A cause de moi, et à cause de David, mon serviteur."
 "L'ange de l'Eternel sortit, et frappa dans le camp des Assyriens cent quatre-vingt-cinq mille hommes. Et quand on se leva le matin, voici, c'étaient tous des corps morts."
 "Alors Sanchérib, roi d'Assyrie, leva son camp, partit et s'en retourna; et il resta à Ninive."
-"Or, comme il était prosterné dans la maison de Nisroc, son dieu, Adrammélec et Scharetser, ses fils, le frappèrent par l'épée, et s'enfuirent au pays d'Ararat. Et Esar-Haddon, son fils, régna à sa place."
+"Or, comme il était prosterné dans la maison de Nisroc, son dieu, Adrammélec et Scharetser, ses fils, le #frappèrent par l'épée, et s'enfuirent au pays d'Ararat. Et Esar-Haddon, son fils, régna à sa place."

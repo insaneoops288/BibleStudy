@@ -1,5 +1,5 @@
 "paçi hir dhe paqe nga Perëndia, Ati ynë, dhe nga Zoti Jezu Krisht."
-"Ne e kemi për detyrë ta falënderojmë gjithnjë Perëndinë për ju, o vëllezër, sikurse është fort e drejtë, sepse besimi juaj po rritet shumë dhe dashuria e secilit prej jush për njëri-tjetrin po tepron,"
+"Ne e kemi për detyrë ta falënderojmë gjithnjë Perëndinë për ju, o vëllezër, sikurse është fort e drejtë, #sepse besimi juaj po rritet shumë dhe dashuria e secilit prej jush për njëri-tjetrin po tepron,"
 "aq sa ne vetë po krenohemi me ju në kishat e Perëndisë, për qëndresën tuaj dhe për besimin në të gjitha përndjekjet dhe vështirësitë që po hiqni."
 "Ky është një dëftim i gjyqit të drejtë të Përendisë, që ju të çmoheni të denjë për mbretërinë e Perëndisë për të cilën edhe vuani,"
 "sepse është e drejtë, nga ana e Perëndisë, t'u jepet mundim atyre që po ju mundojnë,"

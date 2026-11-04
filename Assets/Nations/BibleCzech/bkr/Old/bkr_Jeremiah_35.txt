@@ -11,7 +11,7 @@
 "Stalo se pak, když vtrhl Nabuchodonozor král Babylonský do země, že jsme řekli
 "Tedy stalo se slovo Hospodinovo k Jeremiášovi, řkoucí
 "Takto praví Hospodin zástupů, Bůh Izraelský
-"K vykonání přichází všeliké slovo Jonadaba syna Rechabova, kterýž přikázal synům svým, aby nepili vína. Nepili zajisté až do tohoto dne, nebo poslouchají přikázaní otce svého. Já pak mluvím k vám, ráno přivstávaje, a to ustavičně, a však neposloucháte mne."
+"K vykonání přichází všeliké slovo Jonadaba syna Rechabova, kterýž přikázal synům svým, aby nepili vína. Nepili zajisté až do tohoto dne, #nebo poslouchají přikázaní otce svého. Já pak mluvím k vám, ráno přivstávaje, a to ustavičně, a však neposloucháte mne."
 "Nadto posílám k vám všecky služebníky své proroky, ráno přivstávaje, a to ustavičně, říkaje
 "Ješto synové Jonadabovi syna Rechabova plní přikázaní otce svého, kteréž přikázal jim, lid pak tento neposlouchají mne."
 "Protož takto praví Hospodin Bůh zástupů, Bůh Izraelský

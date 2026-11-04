@@ -7,7 +7,7 @@
 "Não tomarás o nome do SENHOR, teu Deus, em vão; porque o SENHOR não terá por inocente o que tomar o seu nome em vão."
 "Lembra-te do dia do sábado, para o santificar."
 "Seis dias trabalharás e farás toda a tua obra,"
-"mas o sétimo dia é o sábado do SENHOR, teu Deus; não farás nenhuma obra, nem tu, nem o teu filho, nem a tua filha, nem o teu servo, nem a tua serva, nem o teu animal, nem o teu estrangeiro que está dentro das tuas portas."
+"mas o sétimo dia é o sábado do SENHOR, teu Deus; não farás nenhuma obra, nem tu, nem o teu filho, nem a tua #filha, nem o teu servo, nem a tua serva, nem o teu animal, nem o teu estrangeiro que está dentro das tuas portas."
 "Porque em seis dias fez o SENHOR os céus e a terra, o mar e tudo que neles há e ao sétimo dia descansou; portanto, abençoou o SENHOR o dia do sábado e o santificou."
 "Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na terra que o SENHOR, teu Deus, te dá."
 "Não matarás."
@@ -21,6 +21,6 @@
 "E o povo estava em pé de longe; Moisés, porém, se chegou à escuridade, onde Deus estava."
 "Então, disse o SENHOR a Moisés
 "Não fareis outros deuses comigo; deuses de prata ou deuses de ouro não fareis para vós."
-"Um altar de terra me farás e sobre ele sacrificarás os teus holocaustos, e as tuas ofertas pacíficas, e as tuas ovelhas, e as tuas vacas; em todo lugar onde eu fizer celebrar a memória do meu nome, virei a ti e te abençoarei."
+"Um altar de terra me farás e sobre ele sacrificarás os teus holocaustos, e as tuas ofertas pacíficas, e as tuas ovelhas, e #as tuas vacas; em todo lugar onde eu fizer celebrar a memória do meu nome, virei a ti e te abençoarei."
 "E, se me fizeres um altar de pedras, não o farás de pedras lavradas; se sobre ele levantares o teu buril, profaná-lo-ás."
 "Não subirás também por degraus ao meu altar, para que a tua nudez não seja descoberta diante deles."

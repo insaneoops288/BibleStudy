@@ -9,8 +9,8 @@
 "At sinabi ni Herodes, Pinugutan ko ng ulo si Juan
 "At nang magsibalik ang mga apostol, ay isinaysay nila sa kaniya kung anong mga bagay ang kanilang ginawa. At sila'y isinama niya, at lumigpit na bukod sa isang bayan na tinatawag na Betsaida."
 "Datapuwa't nang maalaman ng mga karamihan ay nagsisunod sa kaniya
-"At nagpasimulang kumiling ang araw; at nagsilapit ang labingdalawa, at nangagsabi sa kaniya, Paalisin mo ang karamihan, upang sila'y magsiparoon sa mga nayon at sa mga lupaing nasa palibotlibot, at mangakapanuluyan, at mangakakuha ng pagkain
-"Datapuwa't sinabi niya sa kanila, Bigyan ninyo sila ng makakain. At sinabi nila, Wala tayo kundi limang tinapay at dalawang isda; malibang kami'y magsiyaon at ibili ng pagkain ang lahat ng mga taong ito."
+"At nagpasimulang kumiling ang araw; at nagsilapit ang labingdalawa, at nangagsabi sa kaniya, Paalisin mo ang karamihan, upang #sila'y magsiparoon sa mga nayon at sa mga lupaing nasa palibotlibot, at mangakapanuluyan, at mangakakuha ng pagkain
+"Datapuwa't sinabi niya sa kanila, Bigyan ninyo sila ng makakain. At sinabi nila, Wala tayo kundi limang tinapay #at dalawang isda; malibang kami'y magsiyaon at ibili ng pagkain ang lahat ng mga taong ito."
 "Sapagka't sila'y may limang libong lalake. At sinabi niya sa kaniyang mga alagad, Paupuin ninyo sila ng pulupulutong, na may tiglilimangpu bawa't isa."
 "At gayon ang ginawa nila, at pinaupo silang lahat."
 "At kinuha niya ang limang tinapay at ang dalawang isda, at pagtingala sa langit, ay kaniyang pinagpala, at pinagputolputol; at ibinigay sa mga alagad upang ihain sa harap ng karamihan."
@@ -23,7 +23,7 @@
 "At sinabi niya sa lahat, Kung ang sinomang tao ay ibig sumunod sa akin, ay tumanggi sa kaniyang sarili, at pasanin sa arawaraw ang kaniyang krus, at sumunod sa akin."
 "Sapagka't ang sinomang magibig iligtas ang kaniyang buhay, ay mawawalan nito; datapuwa't sinomang mawalan ng kaniyang buhay dahil sa akin, ay maililigtas nito yaon."
 "Sapagka't ano ang pakikinabangin ng tao, kung makamtan niya ang buong sanglibutan, at mawawala o mapapahamak ang kaniyang sarili?"
-"Sapagka't ang sinomang magmakahiya sa akin at sa aking mga salita, ay ikahihiya siya ng Anak ng tao, pagparito niyang nasa kaniyang sariling kaluwalhatian, at sa kaluwalhatian ng Ama, at ng mga banal na anghel."
+"Sapagka't ang sinomang magmakahiya sa akin at sa aking mga salita, ay ikahihiya siya ng Anak ng tao, #pagparito niyang nasa kaniyang sariling kaluwalhatian, at sa kaluwalhatian ng Ama, at ng mga banal na anghel."
 "Datapuwa't katotohanang sinasabi ko sa inyo, May ilan sa nangakatayo rito, na hindi matitikman sa anomang paraan ang kamatayan, hanggang sa mangakita nila ang kaharian ng Dios."
 "At nangyari, nang makaraan ang may mga walong araw pagkatapos ng mga pananalitang ito, na isinama niya si Pedro at si Juan at si Santiago, at umahon sa bundok upang manalangin."
 "At samantalang siya'y nananalangin, ay nagbago ang anyo ng kaniyang mukha, at ang kaniyang damit ay pumuti, at nakasisilaw."
@@ -39,7 +39,7 @@
 "At narito, inaalihan siya ng isang espiritu, at siya'y biglang nagsisigaw; at siya'y nililiglig, na pinabubula ang bibig, at bahagya nang siya'y hiwalayan, na siya'y totoong pinasasakitan."
 "At ipinamanhik ko sa iyong mga alagad na palabasin siya; at hindi nila magawa."
 "At sumagot si Jesus at nagsabi, Oh lahing walang pananampalataya at taksil, hanggang kailan makikisama ako sa inyo at magtitiis sa inyo? dalhin mo rito ang anak mo."
-"At samantalang siya'y lumalapit, ay ibinuwal siya ng demonio, at pinapangatal na mainam. Datapuwa't pinagwikaan ni Jesus ang karumaldumal na espiritu, at pinagaling ang bata, at isinauli siya sa kaniyang ama."
+"At samantalang siya'y lumalapit, ay ibinuwal siya ng demonio, at pinapangatal na mainam. Datapuwa't pinagwikaan ni #Jesus ang karumaldumal na espiritu, at pinagaling ang bata, at isinauli siya sa kaniyang ama."
 "At nangagtaka silang lahat sa karangalan ng Dios. Datapuwa't samantalang ang lahat ay nagsisipanggilalas sa lahat ng mga bagay na kaniyang ginagawa, ay sinabi niya sa kaniyang mga alagad,"
 "Manuot sa inyong mga tainga ang mga salitang ito
 "Datapuwa't hindi nila napaguunawa ang sabing ito, at sa kanila'y nalilingid, upang ito'y huwag mapagunawa; at nangatatakot silang magsipagtanong sa kaniya ng tungkol sa sabing ito."

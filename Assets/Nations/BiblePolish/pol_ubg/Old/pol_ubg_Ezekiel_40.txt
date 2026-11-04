@@ -2,7 +2,7 @@
 "W widzeniach Bożych przywiódł mnie do ziemi Izraela i postawił na bardzo wysokiej górze, na której było coś jakby budowa miasta, na południu."
 "I zaprowadził mnie tam, a oto mąż, który z wyglądu był jakby ze spiżu, miał lniany sznur w ręku i pręt mierniczy, a stał w bramie."
 "I przemówił do mnie ten mąż
-"I oto mur otaczał dom ze wszystkich stron dokoła, a w ręku tego męża był pręt mierniczy na sześć łokci – liczonych jako łokieć i szerokość dłoni – i wymierzył grubość budowli – jeden pręt, i wysokość – jeden pręt."
+"I oto mur otaczał dom ze wszystkich stron dokoła, a w ręku tego męża był pręt mierniczy na sześć łokci – #liczonych jako łokieć i szerokość dłoni – i wymierzył grubość budowli – jeden pręt, i wysokość – jeden pręt."
 "Potem wszedł do bramy, która była zwrócona ku wschodowi, wszedł po schodach i zmierzył próg bramy
 "Każda wnęka miała jeden pręt długości i jeden pręt szerokości, a między wnękami był odstęp na pięć łokci; próg bramy obok przedsionka bramy od wewnątrz wynosił jeden pręt."
 "I zmierzył przedsionek bramy od wewnątrz – jeden pręt."
@@ -39,9 +39,9 @@
 "W przedsionku bramy były dwa stoły po jednej stronie i dwa stoły po drugiej stronie, na których zabijano ofiarę całopalną, ofiarę za grzech i ofiarę za przewinienie."
 "Na stronie zewnętrznej, przy wejściu bramy północnej, były dwa stoły, także i po drugiej stronie, która jest przy przedsionku bramy, były dwa stoły."
 "Cztery stoły z jednej i cztery stoły z drugiej strony, z boku bramy; wszystkich stołów, na których zabijano ofiary, było osiem."
-"Te cztery stoły do całopalenia były z kamienia ciosanego, długie na półtora łokcia, szerokie na półtora łokcia i wysokie na jeden łokieć. Na nich kładziono sprzęt do zabijania ofiary całopalnej i innych ofiar."
+"Te cztery stoły do całopalenia były z kamienia ciosanego, długie na półtora łokcia, szerokie na półtora łokcia #i wysokie na jeden łokieć. Na nich kładziono sprzęt do zabijania ofiary całopalnej i innych ofiar."
 "Wokoło były też przymocowane haki o grubości jednej dłoni, a mięso leżało na stołach dla ofiar."
-"Na zewnątrz bramy wewnętrznej, na dziedzińcu wewnętrznym, były komory dla śpiewaków. Jeden rząd był z boku bramy północnej, zwrócony w kierunku południa, drugi rząd był z boku bramy wschodniej, zwrócony w kierunku północy."
+"Na zewnątrz bramy wewnętrznej, na dziedzińcu wewnętrznym, były komory dla śpiewaków. Jeden rząd był z boku bramy #północnej, zwrócony w kierunku południa, drugi rząd był z boku bramy wschodniej, zwrócony w kierunku północy."
 "I powiedział do mnie
 "Te zaś komory, które są zwrócone w kierunku północy, są dla kapłanów, którzy pełnią straż przy ołtarzu. Są to synowie Sadoka, którzy spośród synów Lewiego zbliżają się do PANA, aby mu służyć."
 "I zmierzył dziedziniec

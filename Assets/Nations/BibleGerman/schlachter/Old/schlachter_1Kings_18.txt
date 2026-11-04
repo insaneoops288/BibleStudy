@@ -9,8 +9,8 @@
 "Er aber sprach
 "So wahr der HERR, dein Gott, lebt, es gibt kein Volk noch Königreich, dahin mein Herr nicht gesandt hätte, dich zu suchen. Und wenn sie sprachen
 "Und du sprichst nun
-"Wenn ich nun von dir ginge, so würde dich der Geist des HERRN hinwegnehmen, ich weiß nicht wohin; und wenn ich dann käme und es Ahab sagte, und er fände dich nicht, so würde er mich töten; und doch fürchtet dein Knecht den HERRN von Jugend auf!"
-"Ist meinem HERRN nicht gesagt worden, was ich getan habe, als Isebel die Propheten des HERRN tötete, daß ich von den Propheten des HERRN hundert verbarg, hier fünfzig und dort fünfzig, in Höhlen, und sie mit Brot und Wasser versorgte?"
+"Wenn ich nun von dir ginge, so würde dich der Geist des HERRN hinwegnehmen, ich weiß nicht wohin; und wenn ich dann käme und #es Ahab sagte, und er fände dich nicht, so würde er mich töten; und doch fürchtet dein Knecht den HERRN von Jugend auf!"
+"Ist meinem HERRN nicht gesagt worden, was ich getan habe, als Isebel die Propheten des HERRN tötete, daß ich von den #Propheten des HERRN hundert verbarg, hier fünfzig und dort fünfzig, in Höhlen, und sie mit Brot und Wasser versorgte?"
 "Und du sprichst nun
 "Elia sprach
 "Da ging Obadja hin, Ahab entgegen, und sagte es ihm; Ahab aber kam Elia entgegen."
@@ -20,7 +20,7 @@
 "Also sandte Ahab hin unter alle Kinder Israel und versammelte die Propheten auf dem Karmel."
 "Da trat Elia zu allem Volk und sprach
 "Da sprach Elia zum Volk
-"So gebt uns nun zwei Farren und lasset sie den einen Farren erwählen und ihn zerstücken und auf das Holz legen und kein Feuer daran legen; so will ich den andern Farren zurichten und auf das Holz legen und auch kein Feuer daran legen."
+"So gebt uns nun zwei Farren und lasset sie den einen Farren erwählen und ihn zerstücken und auf das Holz legen und kein #Feuer daran legen; so will ich den andern Farren zurichten und auf das Holz legen und auch kein Feuer daran legen."
 "Dann rufet ihr den Namen eures Gottes an, und ich will den Namen des HERRN anrufen. Welcher Gott mit Feuer antworten wird, der sei Gott! Da antwortete das ganze Volk und sprach
 "Und Elia sprach zu den Propheten Baals
 "Und sie nahmen den Farren, den er ihnen gab, und richteten ihn zu und riefen den Namen Baals an vom Morgen bis zum Mittag und sprachen

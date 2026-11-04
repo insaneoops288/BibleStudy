@@ -5,7 +5,7 @@
 "Po co wyprowadziliście nas z Egiptu, aby nas wprowadzić na to złe miejsce; na miejsce, w którym nie ma ani zboża, ani fig, ani winogron, ani jabłek granatu, nie ma nawet wody do picia?"
 "Wtedy Mojżesz i Aaron przeszli sprzed ludu przed wejście do Namiotu Zgromadzenia i upadli na twarze. A chwała PANA ukazała się im."
 "I PAN powiedział do Mojżesza
-"Weź laskę, zgromadźcie cały lud, ty i twój brat Aaron, i przemówcie na ich oczach do tej skały, a ona wyda z siebie wodę; wydobędziesz dla nich wodę ze skały i dasz pić całemu zgromadzeniu oraz ich zwierzętom."
+"Weź laskę, zgromadźcie cały lud, ty i twój brat Aaron, i przemówcie na ich oczach do tej skały, a ona #wyda z siebie wodę; wydobędziesz dla nich wodę ze skały i dasz pić całemu zgromadzeniu oraz ich zwierzętom."
 "Wziął więc Mojżesz laskę sprzed oblicza PANA, tak jak mu rozkazał."
 "I Mojżesz z Aaronem zgromadzili cały lud przed skałą, i Mojżesz mówił do nich
 "Następnie Mojżesz podniósł rękę i uderzył swoją laską dwa razy w skałę. Wtedy wypłynęła obficie woda i napiło się zgromadzenie oraz jego bydło."
@@ -14,7 +14,7 @@
 "Potem Mojżesz wysłał z Kadesz posłańców do króla Edomu, mówiąc
 "Jak nasi ojcowie zstąpili do Egiptu i mieszkaliśmy w Egipcie wiele lat; i Egipcjanie dręczyli nas i naszych ojców;"
 "I wołaliśmy do PANA, a wysłuchał naszego głosu i posłał Anioła, i wyprowadził nas z Egiptu. Teraz jesteśmy w Kadesz, w mieście przy twojej granicy."
-"Pozwól nam, proszę, przejść przez twoją ziemię; nie pójdziemy przez pola ani przez winnice i nie będziemy pić wód ze studni. Pójdziemy drogą królewską, nie zboczymy ani w prawo, ani w lewo, dopóki nie przejdziemy twoich granic."
+"Pozwól nam, proszę, przejść przez twoją ziemię; nie pójdziemy przez pola ani przez winnice i nie będziemy pić wód #ze studni. Pójdziemy drogą królewską, nie zboczymy ani w prawo, ani w lewo, dopóki nie przejdziemy twoich granic."
 "Edom odpowiedział mu
 "I synowie Izraela powiedzieli mu
 "A on odpowiedział

@@ -1,6 +1,6 @@
 "Szóla ismét az Úr Mózesnek, mondván
 "Szólj Izráel fiaihoz, és mondd nékik
-"Ne cselekedjetek úgy, a mint Égyiptom földén cselekesznek, a hol laktatok; úgy se cselekedjetek, a mint Kanaán földén cselekesznek, a hová beviszlek titeket; se azoknak rendtartásai szerint ne járjatok."
+"Ne cselekedjetek úgy, a mint Égyiptom földén cselekesznek, a hol laktatok; úgy se cselekedjetek, a #mint Kanaán földén cselekesznek, a hová beviszlek titeket; se azoknak rendtartásai szerint ne járjatok."
 "Az én végzéseim szerint cselekedjetek, és az én rendeleteimet tartsátok meg, azok szerint járván. Én vagyok az Úr, a ti Istenetek."
 "Tartsátok meg azért az én rendeleteimet és az én végzéseimet, a melyeket ha megcselekszik az ember, él azok által. Én vagyok az Úr."
 "Senki se közelgessen valamely vér szerint való rokonához, hogy felfedje annak szemérmét. Én vagyok az Úr."
@@ -14,7 +14,7 @@
 "A te atyád fiútestvérének szemérmét fel ne fedd, annak feleségéhez ne közelgess, nagynénéd õ."
 "A te menyednek szemérmét fel ne fedd; a te fiadnak felesége õ
 "A te fiútestvéred feleségének szemérmét fel ne fedd; a te fiútestvérednek szemérme az."
-"Valamely asszonynak és az õ leányának szemérmét fel ne fedd; az õ fiának leányát, vagy leányának leányát el ne vedd, hogy annak szemérmét felfedjed; mert vér szerint való rokonok õk; fajtalankodás ez."
+"Valamely asszonynak és az õ leányának szemérmét fel ne fedd; az õ fiának leányát, vagy leányának leányát #el ne vedd, hogy annak szemérmét felfedjed; mert vér szerint való rokonok õk; fajtalankodás ez."
 "De feleségül se végy senkit az õ leánytestvére mellé, hogy ellenkezés ne legyen, ha felfeded õ mellette amannak szemérmét az õ életében."
 "Asszonyhoz ne közelgess, az õ havi tisztátalansága alatt, hogy felfedjed az õ szemérmét."
 "És a te felebarátodnak feleségéhez se add magad közösülésre, hogy azzal magadat megfertõztessed."
@@ -27,4 +27,4 @@
 "(Mert mindezeket az útálatosságokat megcselekedték annak a földnek lakosai, a mely elõttetek van; és fertelmessé lõn az a föld),"
 "Hogy ki ne okádjon titeket az a föld, ha megfertõztetitek azt, a mint kiokádja azt a népet, a mely elõttetek van."
 "Mert a ki megcselekszik valamit ez útálatosságokból, mind kiirtatik az így cselekvõ ember az õ népe közül."
-"Tartsátok meg azért a mit én megtartani rendelek, hogy egyet se kövessetek amaz útálatos szokásokból, a melyeket követtek ti elõttetek, és meg ne fertõztessétek magatokat azokkal. Én, az Úr, vagyok a ti Istenetek."
+"Tartsátok meg azért a mit én megtartani rendelek, hogy egyet se kövessetek amaz útálatos szokásokból, a melyeket #követtek ti elõttetek, és meg ne fertõztessétek magatokat azokkal. Én, az Úr, vagyok a ti Istenetek."

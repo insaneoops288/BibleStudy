@@ -3,8 +3,8 @@
 "Niech tedy nie mówi cudzoziemiec, który przystaje do Pana, mówiąc
 "Albowiem tak mówi Pan o trzebieńcach, którzyby przestrzegali sabatów moich, a obrali to, co mi się podoba, i trzymali przymierze moje
 "Żeć im dam w domu swym i między murami mojemi miejsce, i imię lepsze niżeli synów i córek; dam im imię wieczne, które nie będzie wygładzone."
-"A cudzoziemców, którzyby przystali do Pana, aby mu służyli, a miłowali imię Pańskie, będąc u niego za sługi, wszystkich przestrzegających sabaty, aby go nie splugawili, i zachowujących przymierze moje;"
-"Tych przywiodę na górę świętobliwości mojej, a uweselę ich w domu modlitwy mojej; całopalenia ich i ofiary ich przyjemne będą na ołtarzu moim; bo dom mój domem modlitwy nazwany będzie u wszystkich narodów."
+"A cudzoziemców, którzyby przystali do Pana, aby mu służyli, a miłowali imię Pańskie, będąc u #niego za sługi, wszystkich przestrzegających sabaty, aby go nie splugawili, i zachowujących przymierze moje;"
+"Tych przywiodę na górę świętobliwości mojej, a uweselę ich w domu modlitwy mojej; całopalenia ich i ofiary #ich przyjemne będą na ołtarzu moim; bo dom mój domem modlitwy nazwany będzie u wszystkich narodów."
 "Tak mówi panujący Pan, który zgromadza rozpędzonych z Izraela
 "Wszystkie zwierzęta polne przyjdźcie na pożarcie, i wszystkie zwierzęta leśne."
 "Stróżowie jego ślepi, wszyscy zgoła nic nie umieją, wszyscy są psami niememi, nie mogą szczekać; ospałymi są, leżą, kochają się w drzemaniu."

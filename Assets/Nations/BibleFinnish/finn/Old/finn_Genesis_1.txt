@@ -18,7 +18,7 @@
 "Ja hallitsemaan päivää ja yötä, ja eroittamaan valkeutta ja pimeyttä. Ja Jumala näki sen hyväksi."
 "Ja tuli ehtoosta ja aamusta naljäs päivä."
 "Ja Jumala sanoi
-"Ja Jumala loi suuret valaskalat, ja kaikkinaiset liikkuvaiset eläimet, jotka vedet kuohuttivat yltäkyllä kunkin lajinsa jälkeen, ja kaikkinaiset siivilliset linnut, lajinsa jälkeen. Ja Jumala näki sen hyväksi."
+"Ja Jumala loi suuret valaskalat, ja kaikkinaiset liikkuvaiset eläimet, jotka vedet kuohuttivat yltäkyllä kunkin #lajinsa jälkeen, ja kaikkinaiset siivilliset linnut, lajinsa jälkeen. Ja Jumala näki sen hyväksi."
 "Ja Jumala siunasi heitä, ja sanoi
 "Ja tuli ehtoosta ja aamusta viides päivä."
 "Ja Jumala sanoi

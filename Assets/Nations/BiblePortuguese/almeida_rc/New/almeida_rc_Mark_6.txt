@@ -8,7 +8,7 @@
 "E ordenou-lhes que nada tomassem para o caminho, senão somente um bordão; nem alforge, nem pão, nem dinheiro no cinto;"
 "Mas que calçassem alparcas, e que não vestissem duas túnicas."
 "E dizia-lhes
-"E, quando alguns vos não receberem, nem vos ouvirem, saindo dali, sacudi o pó que estiver debaixo dos vossos pés, em testemunho contra eles. Em verdade vos digo que haverá mais tolerância no dia de juízo para Sodoma e Gomorra do que para os daquela cidade."
+"E, quando alguns vos não receberem, nem vos ouvirem, saindo dali, sacudi o pó que estiver debaixo dos vossos pés, em testemunho contra eles. #Em verdade vos digo que haverá mais tolerância no dia de juízo para Sodoma e Gomorra do que para os daquela cidade."
 "E, saindo eles, pregavam que se arrependessem."
 "E expulsavam muitos demónios, e ungiam muitos enfermos com óleo, e os curavam."
 "E ouviu isto o rei Herodes (porque o nome de Jesus se tornara notório), e disse
@@ -38,7 +38,7 @@
 "E ele disse-lhes
 "E ordenou-lhes que fizessem assentar a todos, em ranchos, sobre a erva verde."
 "E assentaram-se repartidos de cem em cem, e de cinquenta em cinquenta."
-"E, tomando ele os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou e partiu os pães, e deu-os aos seus discípulos para que os pusessem diante deles. E repartiu os dois peixes por todos;"
+"E, tomando ele os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou e partiu os pães, #e deu-os aos seus discípulos para que os pusessem diante deles. E repartiu os dois peixes por todos;"
 "E todos comeram, e ficaram fartos."
 "E levantaram doze cestos cheios de pedaços de pão e de peixe."
 "E os que comeram os pães eram quase cinco mil homens."
@@ -53,4 +53,4 @@
 "E, quando já estavam na outra banda, dirigiram-se à terra de Genezaré, e ali atracaram."
 "E, saindo eles do barco, logo o conheceram;"
 "E, correndo toda a terra em redor, começaram a trazer em leitos, aonde quer que sabiam que ele estava, os que se achavam enfermos."
-"E, onde quer que entrava, ou em cidade, ou aldeias, ou no campo, apresentavam os enfermos nas praças, e rogavam-lhe que os deixasse tocar ao menos na orla do seu vestido; e todos os que lhe tocavam saravam."
+"E, onde quer que entrava, ou em cidade, ou aldeias, ou no campo, apresentavam os enfermos nas praças, e rogavam-lhe #que os deixasse tocar ao menos na orla do seu vestido; e todos os que lhe tocavam saravam."

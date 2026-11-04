@@ -1,6 +1,6 @@
 "Všelikého přikázaní, kteréž já přikazuji tobě dnes, skutečně ostříhejte, abyste živi byli a rozmnožili se, a vešli k dědičnému obdržení země, kterouž s přísahou zaslíbil Hospodin otcům vašim."
-"A rozpomínati se budeš na všecku cestu, kterouž tě vedl Hospodin Bůh tvůj již teď čtyřidceti let po poušti, aby ponížil tebe a zkusil tě, aby známé bylo, co jest v srdci tvém, budeš-li ostříhati přikázaní jeho, čili nic."
-"I ponížil tě a dopustil na tebe hlad, potom tě krmil mannou, kteréž jsi ty neznal, ani otcové tvoji, aby známé učinil tobě, že ne samým chlebem živ bude člověk, ale vším tím, což vychází z úst Hospodinových, živ bude člověk."
+"A rozpomínati se budeš na všecku cestu, kterouž tě vedl Hospodin Bůh tvůj již teď čtyřidceti let po poušti, aby #ponížil tebe a zkusil tě, aby známé bylo, co jest v srdci tvém, budeš-li ostříhati přikázaní jeho, čili nic."
+"I ponížil tě a dopustil na tebe hlad, potom tě krmil mannou, kteréž jsi ty neznal, ani otcové tvoji, aby známé #učinil tobě, že ne samým chlebem živ bude člověk, ale vším tím, což vychází z úst Hospodinových, živ bude člověk."
 "Roucho tvé nevetšelo na tobě, a noha tvá se neodhnetla, již od čtyřidceti let."
 "Znejž tedy v srdci svém, že jakož cvičí člověk syna svého, tak Hospodin Bůh tvůj cvičí tebe."
 "A ostříhej přikázaní Hospodina Boha svého, chodě po cestách jeho, a boje se jeho."

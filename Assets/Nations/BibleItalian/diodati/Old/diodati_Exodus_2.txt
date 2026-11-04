@@ -2,7 +2,7 @@
 "E quella donna concepette, e partorì un figliuolo; e, veggendolo bello, lo tenne nascosto lo spazio di tre mesi."
 "Ma non potendo più tenerlo nascosto, ella prese una cestella fatta di giunchi, e la impiastrò di bitume e di pece; e, postovi dentro il fanciullo, la mise nella giuncaia, in su la riva del fiume."
 "E la sorella del fanciullo se ne stava da lungi, per saper ciò che gli avverrebbe."
-"Or la figliuola di Faraone discese per bagnarsi nel fiume; e le sue donzelle passeggiavano su la riva del fiume; ed ella vide quella cestella per mezzo la giuncaia, e mandò una sua servente, e la fece torre."
+"Or la figliuola di Faraone discese per bagnarsi nel fiume; e le sue donzelle passeggiavano su la riva del fiume; #ed ella vide quella cestella per mezzo la giuncaia, e mandò una sua servente, e la fece torre."
 "E apertala vide quel bambino; ed ecco, il fanciullo piangeva; ed ella ne ebbe compassione, e disse
 "E la sorella di esso disse alla figliuola di Faraone
 "E la figliuola di Faraone le disse
@@ -20,6 +20,6 @@
 "Ed egli disse alla sue figliuole
 "E Mosè acconsentì di dimorar con quell’uomo
 "Ed ella partorì un figliuolo, ed egli gli pose nome Ghersom; perciocchè disse
-"Or avvenne che in quel mezzo tempo, che fu lungo, il re di Egitto morì; e i figliuoli d’Israele sospirarono per la servitù, e gridarono; e le lor grida, che gittarono per la servitù, salirono a Dio."
+"Or avvenne che in quel mezzo tempo, che fu lungo, il re di Egitto morì; e i figliuoli d’Israele #sospirarono per la servitù, e gridarono; e le lor grida, che gittarono per la servitù, salirono a Dio."
 "E Iddio intese i loro stridi, e si ricordò del suo patto con Abrahamo, con Isacco, e con Giacobbe."
 "E Iddio riguardò a’ figliuoli d’Israele, e ne prese conoscenza."

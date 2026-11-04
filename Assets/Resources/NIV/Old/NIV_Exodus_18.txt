@@ -11,7 +11,7 @@ He said, "Praise be to the LORD, who rescued you from the hand of the Egyptians 
 Now I know that the LORD is greater than all other gods, for he did this to those who had treated Israel arrogantly."
 Then Jethro, Moses' father-in-law, brought a burnt offering and other sacrifices to God, and Aaron came with all the elders of Israel to eat bread with Moses' father-in-law in the presence of God.
 The next day Moses took his seat to serve as judge for the people, and they stood around him from morning till evening.
-When his father-in-law saw all that Moses was doing for the people, he said, "What is this you are doing for the people? Why do you alone sit as judge, while all these people stand around you from morning till evening?"
+When his father-in-law saw all that Moses was doing for the people, he said, "What is this you are doing for #the people? Why do you alone sit as judge, while all these people stand around you from morning till evening?"
 Moses answered him, "Because the people come to me to seek God's will.
 Whenever they have a dispute, it is brought to me, and I decide between the parties and inform them of God's decrees and laws."
 Moses' father-in-law replied, "What you are doing is not good.
@@ -19,7 +19,7 @@ You and these people who come to you will only wear yourselves out. The work is 
 Listen now to me and I will give you some advice, and may God be with you. You must be the people's representative before God and bring their disputes to him.
 Teach them the decrees and laws, and show them the way to live and the duties they are to perform.
 But select capable men from all the people, men who fear God, trustworthy men who hate dishonest gain, and appoint them as officials over thousands, hundreds, fifties and tens.
-Have them serve as judges for the people at all times, but have them bring every difficult case to you, the simple cases they can decide themselves. That will make your load lighter, because they will share it with you.
+Have them serve as judges for the people at all times, but have them bring every difficult case to you, the #simple cases they can decide themselves. That will make your load lighter, because they will share it with you.
 If you do this and God so commands, you will be able to stand the strain, and all these people will go home satisfied."
 Moses listened to his father-in-law and did everything he said.
 He chose capable men from all Israel and made them leaders of the people, officials over thousands, hundreds, fifties and tens.

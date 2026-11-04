@@ -29,7 +29,7 @@
 "Trong loài đi bò trên mặt đất, nầy là những loài lấy làm không sạch cho các ngươi
 "con cắc kè, kỳ đà, con thạch sùng, con kỳ nhông và con cắc ké."
 "Trong các loài côn trùng, những loài đó lấy làm không sạch cho các ngươi
-"Bất luận vật nào, hễ loài nầy chết rớt nhằm trên, thì đều bị ô uế, hoặc đồ bằng cây, áo xống, da, bao, tức các vật người ta thường dùng; phải ngâm đồ đó trong nước, sẽ bị ô uế cho đến chiều tối, rồi mới tinh sạch lại."
+"Bất luận vật nào, hễ loài nầy chết rớt nhằm trên, thì đều bị ô uế, hoặc đồ bằng cây, áo xống, da, bao, tức các #vật người ta thường dùng; phải ngâm đồ đó trong nước, sẽ bị ô uế cho đến chiều tối, rồi mới tinh sạch lại."
 "Nếu vật chi của nó rớt nhằm đồ sành, các vật chi đựng ở trong đều sẽ bị ô uế; phải đập bể đồ sành đó đi."
 "Phàm đồ ăn nào và các vật uống, mặc dầu để trong đồ sành nào mà bị nước đồ sành đó nhểu vào, sẽ lây ô uế."
 "Phàm vật nào bị một vài miếng xác chết nó rớt nhằm, sẽ lây ô uế; dầu lò, dầu bếp, cũng phải phá tan; nó đã bị ô uế; các ngươi phải cầm nó là ô uế vậy."
@@ -41,7 +41,7 @@
 "Phàm loài côn trùng nào bò trên mặt đất đều là sự gớm ghiếc, không nên ăn thịt nó."
 "Vậy, không nên ăn thịt các loài côn trùng đi bò trên mặt đất, là con nào bò bằng bụng, con nào đi bốn cẳng hay là đi nhiều cẳng, vì chúng nó là một sự gớm ghiếc."
 "Các ngươi chớ vì một con nào trong loài côn trùng mà lây cho thân mình phải gớm ghiếc, không tinh sạch hay là ô uế."
-"Vì ta là Giê-hô-va Ðức Chúa Trời của các ngươi; ta là thánh, nên các ngươi phải nên thánh, thì sẽ được thánh. Các ngươi chớ vì một con nào của loài côn trùng trên mặt đất mà làm lây ô uế cho thân mình."
+"Vì ta là Giê-hô-va Ðức Chúa Trời của các ngươi; ta là thánh, nên các ngươi phải nên thánh, thì sẽ được thánh. #Các ngươi chớ vì một con nào của loài côn trùng trên mặt đất mà làm lây ô uế cho thân mình."
 "Vì ta là Ðức Giê-hô-va, Ðấng đã đem các ngươi ra khỏi xứ Ê-díp-tô đặng làm Ðức Chúa Trời của các ngươi; các ngươi phải nên thánh, vì ta là thánh."
 "Ðó là luật lệ về loài súc vật, loài chim trời, các sinh vật động dưới nước và các loài côn trùng trên mặt đất,"
 "để phân biệt con không sạch với con tinh sạch, con thú ăn được cùng con thú không ăn được."

@@ -12,7 +12,7 @@
 "Und die Männer der Aufstellung antworteten Jonathan und seinem Waffenträger und sprachen
 "Und Jonathan stieg auf seinen Händen und auf seinen Füßen hinauf, und sein Waffenträger ihm nach. Und sie fielen vor Jonathan, und sein Waffenträger tötete hinter ihm her."
 "Und die erste Niederlage, welche Jonathan und sein Waffenträger anrichteten, war bei zwanzig Mann, etwa auf der halben Furchenlänge eines Jucharts Ackers."
-"Und ein Schrecken entstand im Lager, auf dem Felde und unter dem ganzen Volke; die Aufstellung und der Verheerungszug, auch sie erschraken; und das Land erbebte, und es wurde zu einem Schrecken Gottes."
+"Und ein Schrecken entstand im Lager, auf dem Felde und unter dem ganzen Volke; die Aufstellung und #der Verheerungszug, auch sie erschraken; und das Land erbebte, und es wurde zu einem Schrecken Gottes."
 "Und die Wächter Sauls zu Gibea-Benjamin sahen, und siehe, die Menge zerrann und lief dahin und dorthin."
 "Und Saul sprach zu dem Volke, das bei ihm war
 "Da sprach Saul zu Ahija
@@ -24,7 +24,7 @@
 "Die Männer von Israel waren aber sehr angestrengt an jenem Tage; und Saul beschwor das Volk und sprach
 "Und das ganze Volk kam in den Wald, und Honig war auf der Fläche des Feldes."
 "Und als das Volk in den Wald kam
-"Jonathan aber hatte es nicht gehört, als sein Vater das Volk beschwor; und er streckte das Ende seines Stabes aus, der in seiner Hand war, und tauchte ihn in den Honigseim und brachte seine Hand wieder zu seinem Munde, und seine Augen wurden hell."
+"Jonathan aber hatte es nicht gehört, als sein Vater das Volk beschwor; und er streckte das Ende seines Stabes aus, der in seiner #Hand war, und tauchte ihn in den Honigseim und brachte seine Hand wieder zu seinem Munde, und seine Augen wurden hell."
 "Und einer von dem Volke hob an und sprach
 "Und Jonathan sprach
 "Was wäre es gewesen, wenn das Volk heute ungehindert von der Beute seiner Feinde gegessen hätte, die es gefunden hat! Denn wäre dann nicht die Niederlage der Philister groß gewesen?"
@@ -44,7 +44,7 @@
 "Und Saul sprach
 "Aber das Volk sprach zu Saul
 "Und Saul zog von der Verfolgung der Philister herauf, und die Philister zogen an ihren Ort."
-"Und Saul nahm das Königtum einüber Israel; und er stritt ringsum wider alle seine Feinde, wider Moab und wider die Kinder Ammon und wider Edom und wider die Könige von Zoba und wider die Philister; undüberall, wohin er sich wandte,übte er Strafe."
+"Und Saul nahm das Königtum einüber Israel; und er stritt ringsum wider alle seine Feinde, wider Moab und wider die Kinder Ammon #und wider Edom und wider die Könige von Zoba und wider die Philister; undüberall, wohin er sich wandte,übte er Strafe."
 "Und er tat Mächtiges und schlug Amalek, und errettete Israel aus der Hand seines Plünderers."
 "Und die Söhne Sauls waren
 "Und der Name des Weibes Sauls war Achinoam, die Tochter Achimaaz'. Und der Name seines Heerobersten war Abner, der Sohn Ners, des Oheims Sauls;"

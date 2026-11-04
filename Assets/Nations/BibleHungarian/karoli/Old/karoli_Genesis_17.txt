@@ -20,7 +20,7 @@
 "Ismáel felõl is meghallgattalak
 "Az én szövetségemet pedig megerõsítem Izsákkal, kit néked szûl Sára ez idõkorban a következõ esztendõben."
 "És elvégezé vele való beszédét, és felméne az Isten Ábrahámtól."
-"Vevé azért Ábrahám Ismáelt az õ fiát, és háza minden szülöttét, és mind a pénzén vetteket, minden férfiat Ábrahám házanépe közûl és körûlmetélé férfitestöknek bõrét ugyanazon napon, a mikor szólott vala vele az Isten."
+"Vevé azért Ábrahám Ismáelt az õ fiát, és háza minden szülöttét, és mind a pénzén vetteket, minden férfiat #Ábrahám házanépe közûl és körûlmetélé férfitestöknek bõrét ugyanazon napon, a mikor szólott vala vele az Isten."
 "Ábrahám pedig kilenczvenkilencz esztendõs vala, mikor körûlmetélé az õ férfitestének bõrét."
 "Ismáel pedig az õ fia tizenhárom esztendõs vala, mikor körûlmetélék az õ férfitestének bõrét."
 "Ugyanazon napon metéltetett körûl Ábrahám és Ismáel az õ fia."

@@ -15,4 +15,4 @@
 "Atë ditë do të ndodhë që Tiro të harrohet për shtatëdhjetë vjet, aq sa janë vitet e një mbreti. Pas shtatëdhjetë vjetve do të ndodhë në Tiro ashtu siç thotë kënga e prostitutës
 """Merr qesten, sillu nëpër qytet, o prostitutë e harruar; bjeri me zotësi veglës, shumo këngët që të mund të të kujtojnë""."
 "Pas shtatëdhjetë vjetve do të ndodhë që Zoti do të vizitojë Tiron, që do të kthehet në pagën e vet dhe do të kurvërohet me të gjitha mbretëritë e botës mbi faqen e dheut."
-"Por fitimi nga tregtia e tij dhe paga e tij do t'i shenjtërohen Zotit; nuk do të mblidhet as nuk do të vihet mënjanë, sepse fitimi nga tregtia e tij do t'u shkojë atyre që banojnë përpara Zotit, me qëllim që të hanë sa të ngopen dhe të vishen në mënyrë të shkëlqyeshme."
+"Por fitimi nga tregtia e tij dhe paga e tij do t'i shenjtërohen Zotit; nuk do të mblidhet as nuk do të vihet mënjanë, sepse fitimi nga #tregtia e tij do t'u shkojë atyre që banojnë përpara Zotit, me qëllim që të hanë sa të ngopen dhe të vishen në mënyrë të shkëlqyeshme."

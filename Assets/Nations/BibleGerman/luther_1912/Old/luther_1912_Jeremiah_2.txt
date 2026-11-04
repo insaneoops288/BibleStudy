@@ -16,12 +16,12 @@
 "Dazu zerschlagen die von Noph und Thachpanhes dir den Kopf."
 "Solches machst du dir selbst, weil du den HERRN, deinen Gott, verläßt, so oft er dich den rechten Weg leiten will."
 "Was hilft's dir, daß du nachÄgypten ziehst und willst vom Wasser Sihor trinken? Und was hilft's dir, daß du nach Assyrien ziehst und willst vom Wasser des Euphrat trinken?"
-"Es ist deiner Bosheit Schuld, daß du so gestäupt wirst, und deines Ungehorsams, daß du so gestraft wirst. Also mußt du innewerden und erfahren, was es für Jammer und Herzeleid bringt, den HERRN, deinen Gott, verlassen und ihn nicht fürchten, spricht der HERR HERR Zebaoth."
+"Es ist deiner Bosheit Schuld, daß du so gestäupt wirst, und deines Ungehorsams, daß du so gestraft wirst. Also mußt du innewerden und #erfahren, was es für Jammer und Herzeleid bringt, den HERRN, deinen Gott, verlassen und ihn nicht fürchten, spricht der HERR HERR Zebaoth."
 "Denn du hast immerdar dein Joch zerbrochen und deine Bande zerrissen und gesagt
 "Ich aber hatte dich gepflanzt zu einem süßen Weinstock, einen ganz rechtschaffenen Samen. Wie bist du mir denn geraten zu einem bitteren, wilden Weinstock?"
 "Und wenn du dich gleich mit Lauge wüschest und nähmest viel Seife dazu, so gleißt doch deine Untugend desto mehr vor mir, spricht der HERR HERR."
 "Wie darfst du denn sagen
-"Du läufst umher wie eine Kamelstute in der Brunst, und wie ein Wild in der Wüste pflegt, wenn es vor großer Brunst lechzt und läuft, daß es niemand aufhalten kann. Wer's wissen will, darf nicht weit laufen; am Feiertage sieht man es wohl."
+"Du läufst umher wie eine Kamelstute in der Brunst, und wie ein Wild in der Wüste pflegt, wenn es vor großer Brunst #lechzt und läuft, daß es niemand aufhalten kann. Wer's wissen will, darf nicht weit laufen; am Feiertage sieht man es wohl."
 "Schone doch deiner Füße, daß sie nicht bloß, und deines Halses das er nicht durstig werde. Aber du sprichst
 "Wie ein Dieb zu Schanden wird, wenn er ergriffen wird, also wird das Haus Israel zu Schanden werden samt ihren Königen, Fürsten, Priestern und Propheten,"
 "die zum Holz sagen

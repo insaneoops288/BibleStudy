@@ -1,4 +1,4 @@
-"Saulus juga setuju, bahwa Stefanus mati dibunuh. (8-1b) Pada waktu itu mulailah penganiayaan yang hebat terhadap jemaat di Yerusalem. Mereka semua, kecuali rasul-rasul, tersebar ke seluruh daerah Yudea dan Samaria."
+"Saulus juga setuju, bahwa Stefanus mati dibunuh. (8-1b) Pada waktu itu mulailah penganiayaan yang hebat terhadap #jemaat di Yerusalem. Mereka semua, kecuali rasul-rasul, tersebar ke seluruh daerah Yudea dan Samaria."
 "Orang-orang saleh menguburkan mayat Stefanus serta meratapinya dengan sangat."
 "Tetapi Saulus berusaha membinasakan jemaat itu dan ia memasuki rumah demi rumah dan menyeret laki-laki dan perempuan ke luar dan menyerahkan mereka untuk dimasukkan ke dalam penjara."
 "Mereka yang tersebar itu menjelajah seluruh negeri itu sambil memberitakan Injil."
@@ -9,7 +9,7 @@
 "Seorang yang bernama Simon telah sejak dahulu melakukan sihir di kota itu dan mentakjubkan rakyat Samaria, serta berlagak seolah-olah ia seorang yang sangat penting."
 "Semua orang, besar kecil, mengikuti dia dan berkata
 "Dan mereka mengikutinya, karena sudah lama ia mentakjubkan mereka oleh perbuatan sihirnya."
-"Tetapi sekarang mereka percaya kepada Filipus yang memberitakan Injil tentang Kerajaan Allah dan tentang nama Yesus Kristus, dan mereka memberi diri mereka dibaptis, baik laki-laki maupun perempuan."
+"Tetapi sekarang mereka percaya kepada Filipus yang memberitakan Injil tentang Kerajaan Allah dan tentang #nama Yesus Kristus, dan mereka memberi diri mereka dibaptis, baik laki-laki maupun perempuan."
 "Simon sendiri juga menjadi percaya, dan sesudah dibaptis, ia senantiasa bersama-sama dengan Filipus, dan takjub ketika ia melihat tanda-tanda dan mujizat-mujizat besar yang terjadi."
 "Ketika rasul-rasul di Yerusalem mendengar, bahwa tanah Samaria telah menerima firman Allah, mereka mengutus Petrus dan Yohanes ke situ."
 "Setibanya di situ kedua rasul itu berdoa, supaya orang-orang Samaria itu beroleh Roh Kudus."

@@ -16,8 +16,8 @@
 "Huwag kayong maghahatid dumapit sa inyong bayan, ni titindig laban sa dugo ng inyong kapuwa
 "Huwag ninyong kapopootan ang inyong kapatid sa inyong puso; tunay na inyong sasawayin ang inyong kapuwa, at huwag kayong magtaglay ng kasalanan dahil sa kaniya."
 "Huwag kayong manghihiganti o magtatanim laban sa mga anak ng inyong bayan, kungdi iibigin ninyo ang inyong kapuwa na gaya ng sa inyong sarili
-"Iingatan ninyo ang aking mga palatuntunan. Huwag ninyong pagaasawahin ang dalawang hayop ninyong magkaiba; huwag kayong maghahasik sa inyong bukid ng dalawang magkaibang binhi; ni damit na hinabi na may magkahalong dalawang magkaibang kayo ay huwag kayong magsusuot."
-"At kung ang sinomang lalake ay sumiping sa isang babaing aliping may asawa, na hindi pa natutubos, o hindi pa man nabibigyan ng kalayaan; ay kapuwa parurusahan; hindi sila papatayin, sapagka't siya'y hindi laya."
+"Iingatan ninyo ang aking mga palatuntunan. Huwag ninyong pagaasawahin ang dalawang hayop ninyong magkaiba; huwag kayong maghahasik sa inyong bukid #ng dalawang magkaibang binhi; ni damit na hinabi na may magkahalong dalawang magkaibang kayo ay huwag kayong magsusuot."
+"At kung ang sinomang lalake ay sumiping sa isang babaing aliping may asawa, na hindi pa natutubos, o #hindi pa man nabibigyan ng kalayaan; ay kapuwa parurusahan; hindi sila papatayin, sapagka't siya'y hindi laya."
 "At kaniyang dadalhin sa Panginoon ang kaniyang handog dahil sa pagkakasala, sa pintuan ng tabernakulo ng kapisanan, sa makatuwid baga'y isang tupang lalake na pinakahandog dahil sa pagkakasala
 "At itutubos sa kaniya ng saserdote sa pamamagitan ng tupang handog dahil sa pagkakasala sa harap ng Panginoon, dahil sa kaniyang kasalanan niyang pinagkasalahan
 "At pagka kayo'y papasok sa lupain, at nakapagtanim na kayo ng sarisaring punong kahoy na pagkain, ay aariin ninyo ang bunga niyaon na parang hindi sa tuli

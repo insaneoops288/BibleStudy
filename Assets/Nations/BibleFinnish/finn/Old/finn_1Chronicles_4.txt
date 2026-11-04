@@ -38,6 +38,6 @@
 "Nämät nimitettiin päämiehiksi sukukuntainsa seassa; ja heidän isäinsä huone hajoitti itsensä paljouden tähden."
 "Ja he menivät pois ja tulivat hamaan Gedoriin asti itäiselle puolelle laaksoa, etsimään laidunta lampaillensa."
 "Ja he löysivät lihavan ja hyvän laitumen ja maan, joka oli avara ja lavia, rauhallinen ja levollinen; sillä Hamin lapset olivat ennen siellä asuneet."
-"Ja jotka nimenomattain kirjoitetut olivat, tulivat Hiskian Juudan kuninkaan aikaan, ja he löivät muiden majat ja Meonilaiset jotka sieltä löydettiin, ja hävittivät heidät hamaan tähän päivään asti, ja asuivat heidän siallansa; sillä siellä olivat laitumet heidän lampaillensa."
+"Ja jotka nimenomattain kirjoitetut olivat, tulivat Hiskian Juudan kuninkaan aikaan, ja he löivät muiden majat ja Meonilaiset jotka sieltä #löydettiin, ja hävittivät heidät hamaan tähän päivään asti, ja asuivat heidän siallansa; sillä siellä olivat laitumet heidän lampaillensa."
 "Ja silloin meni heistä liki viisisataa miestä, jotka olivat Simeonin lapsia, Seirin vuorelle; ja Pelatia, Nearia, Rephaja ja Ussiel Jisein lapset olivat heidän päämiehensä,"
 "Ja tappoivat päässeet ja jääneet Amalekilaisista, ja asuivat siinä tähän päivään asti."

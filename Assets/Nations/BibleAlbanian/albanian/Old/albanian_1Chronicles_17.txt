@@ -14,11 +14,11 @@
 "Unë do ta bëj të qëndrueshëm për gjithnjë në shtëpinë time dhe në mbretërinë time, dhe froni i tij do të jetë i qëndrueshëm gjithnjë""""."
 "Nathani i foli Davidit duke përdorur tërë këto fjalë dhe sipas gjithë vizionit të tij."
 "Atëherë mbreti David hyri, u ul përballë Zotit dhe tha
-"Megjithatë kjo t'u duk një gjë e vogël para syve të tu, o Perëndi; ti fole edhe për shtëpinë e shërbëtorit tënd për një të ardhme të largët dhe më konsiderove sikur të isha një njeri i rangut të lartë, o Zot Perëndi."
+"Megjithatë kjo t'u duk një gjë e vogël para syve të tu, o Perëndi; ti fole edhe për shtëpinë e shërbëtorit tënd #për një të ardhme të largët dhe më konsiderove sikur të isha një njeri i rangut të lartë, o Zot Perëndi."
 "Çfarë mund të thotë akoma Davidi për nderin që i ke bërë shërbëtorit tënd? Ti e njeh në të vërtetë shërbëtorin tënd."
 "O Zot, për dashurinë e shërbëtorit tënd dhe sipas zemrës sate, ti ke kryer gjithë këto vepra të fuqishme për t'i bërë të njohura tërë këto gjëra të mëdha."
 "O Zot, askush nuk është i ngjashëm me ty dhe nuk ka tjetër Perëndi veç teje, sipas tërë ato që kemi dëgjuar me veshët tona."
-"Dhe kush është si populli yt i Izraelit, i vetmi komb mbi tokë që Perëndia erdhi për ta çliruar dhe për ta bërë popullin e tij, për të të dhënë një emër me gjëra të mëdha dhe të tmerrshme, duke i dëbuar kombet përpara popullit tënd që ti ke çliruar nga Egjipti?"
+"Dhe kush është si populli yt i Izraelit, i vetmi komb mbi tokë që Perëndia erdhi për ta çliruar dhe për ta bërë popullin e tij, për #të të dhënë një emër me gjëra të mëdha dhe të tmerrshme, duke i dëbuar kombet përpara popullit tënd që ti ke çliruar nga Egjipti?"
 "Ti e ke bërë popullin e Izraelit popullin tënd për gjithnjë; dhe ti, o Zot, je bërë Perëndia i tyre."
 "Prandaj fjala që ke shqiptuar, o Zot, përsa i përket shërbëtorit tënd dhe shtëpisë së tij, të ruajë vlerën e saj për gjithnjë! Bëj siç ke thënë!"
 "Po, të mbetet e vlefshme, me qëllim që emri yt të shkëlqejë për gjithnjë dhe të kemi mundësinë të themi

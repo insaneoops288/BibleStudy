@@ -14,7 +14,7 @@
 "A Simón, al cual también llamó Pedro, y á Andrés su hermano, Jacobo y Juan, Felipe y Bartolomé,"
 "Mateo y Tomás, Jacobo hijo de Alfeo, y Simón el que se llama Celador,"
 "Judas hermano de Jacobo, y Judas Iscariote, que también fué el traidor."
-"Y descendió con ellos, y se paró en un lugar llano, y la compañía de sus discípulos, y una grande multitud de pueblo de toda Judea y de Jerusalem, y de la costa de Tiro y de Sidón, que habían venido á oirle, y para ser sanados de sus enfermedades;"
+"Y descendió con ellos, y se paró en un lugar llano, y la compañía de sus discípulos, y una grande multitud de pueblo de toda Judea #y de Jerusalem, y de la costa de Tiro y de Sidón, que habían venido á oirle, y para ser sanados de sus enfermedades;"
 "Y los que habían sido atormentados de espíritus inmundos
 "Y toda la gente procuraba tocarle; porque salía de él virtud, y sanaba á todos."
 "Y alzando él los ojos á sus discípulos, decía

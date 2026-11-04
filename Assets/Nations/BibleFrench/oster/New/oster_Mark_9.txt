@@ -42,7 +42,7 @@
 "Mais quiconque scandalisera l'un de ces petits qui croient en moi, il vaudrait mieux pour lui qu'on lui mît une meule au cou, et qu'on le jetât dans la mer."
 "Que si ta main te fait tomber, coupe-la; il vaut mieux pour toi que tu entres dans la vie, n'ayant qu'une main, que d'avoir deux mains, et d'aller dans la géhenne, au feu qui ne s'éteint point,"
 "Où leur ver ne meurt point, et où le feu ne s'éteint point."
-"Et si ton pied te fait tomber, coupe-le; il vaut mieux pour toi que tu entres dans la vie, n'ayant qu'un pied, que d'avoir deux pieds, et d'être jeté dans la géhenne, dans le feu qui ne s'éteint point,"
+"Et si ton pied te fait tomber, coupe-le; il vaut mieux pour toi que tu entres dans la vie, n'ayant #qu'un pied, que d'avoir deux pieds, et d'être jeté dans la géhenne, dans le feu qui ne s'éteint point,"
 "Où leur ver ne meurt point, et où le feu ne s'éteint point."
 "Et si ton œil te fait tomber, arrache-le; il vaut mieux pour toi que tu entres dans le royaume de Dieu, n'ayant qu'un œil, que d'avoir deux yeux, et d'être jeté dans la géhenne de feu;"
 "Où leur ver ne meurt point, et où le feu ne s'éteint point."

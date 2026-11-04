@@ -10,7 +10,7 @@
 "Les champs sont ravagés, La terre est attristée; Car les blés sont détruits, Le moût est tari, l'huile est desséchée."
 "Les laboureurs sont consternés, les vignerons gémissent, A cause du froment et de l'orge, Parce que la moisson des champs est perdue."
 "La vigne est confuse, Le figuier languissant; Le grenadier, le palmier, le pommier, Tous les arbres des champs sont flétris... La joie a cessé parmi les fils de l'homme!"
-"Sacrificateurs, ceignez-vous et pleurez! Lamentez-vous, serviteurs de l'autel! Venez, passez la nuit revêtus de sacs, Serviteurs de mon Dieu! Car offrandes et libations ont disparu de la maison de votre Dieu."
+"Sacrificateurs, ceignez-vous et pleurez! Lamentez-vous, serviteurs de l'autel! Venez, passez la nuit revêtus de sacs, Serviteurs #de mon Dieu! Car offrandes et libations ont disparu de la maison de votre Dieu."
 "Publiez un jeûne, une convocation solennelle! Assemblez les vieillards, tous les habitants du pays, Dans la maison de l'Eternel, votre Dieu, Et criez à l'Eternel!"
 "Ah! quel jour! Car le jour de l'Eternel est proche
 "La nourriture n'est-elle pas enlevée sous nos yeux? La joie et l'allégresse n'ont-elles pas disparu de la maison de notre Dieu?"

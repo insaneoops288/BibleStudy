@@ -19,14 +19,14 @@
 "Abner parla aussi à Benjamin, et il alla rapporter aux oreilles de David à Hébron ce qu'avaient résolu Israël et toute la maison de Benjamin."
 "Il arriva auprès de David à Hébron, accompagné de vingt hommes; et David fit un festin à Abner et à ceux qui étaient avec lui."
 "Abner dit à David
-"Voici, Joab et les gens de David revinrent d'une excursion, et amenèrent avec eux un grand butin. Abner n'était plus auprès de David à Hébron, car David l'avait renvoyé, et il s'en était allé en paix."
+"Voici, Joab et les gens de David revinrent d'une excursion, et amenèrent avec eux un grand butin. Abner n'était #plus auprès de David à Hébron, car David l'avait renvoyé, et il s'en était allé en paix."
 "Lorsque Joab et toute sa troupe arrivèrent, on fit à Joab ce rapport
 "Joab se rendit chez le roi, et dit
 "Tu connais Abner, fils de Ner! c'est pour te tromper qu'il est venu, pour épier tes démarches, et pour savoir tout ce que tu fais."
 "Et Joab, après avoir quitté David, envoya sur les traces d'Abner des messagers, qui le ramenèrent depuis la citerne de Sira
 "Lorsque Abner fut de retour à Hébron, Joab le tira à l'écart au milieu de la porte, comme pour lui parler en secret, et là il le frappa au ventre et le tua, pour venger la mort d'Asaël, son frère."
 "David l'apprit ensuite, et il dit
-"Que ce sang retombe sur Joab et sur toute la maison de son père! Qu'il y ait toujours quelqu'un dans la maison de Joab, qui soit atteint d'un flux ou de la lèpre, ou qui s'appuie sur un bâton, ou qui tombe par l'épée, ou qui manque de pain!"
+"Que ce sang retombe sur Joab et sur toute la maison de son père! Qu'il y ait toujours quelqu'un dans la maison de Joab, qui #soit atteint d'un flux ou de la lèpre, ou qui s'appuie sur un bâton, ou qui tombe par l'épée, ou qui manque de pain!"
 "Ainsi Joab et Abischaï, son frère, tuèrent Abner, parce qu'il avait donné la mort à Asaël, leur frère, à Gabaon, dans la bataille."
 "David dit à Joab et à tout le peuple qui était avec lui
 "On enterra Abner à Hébron. Le roi éleva la voix et pleura sur le sépulcre d'Abner, et tout le peuple pleura."

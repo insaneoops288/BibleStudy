@@ -2,7 +2,7 @@
 "karena kata bapanya
 "Lalu kata Simson kepada mereka itu
 "Maka pergilah Simson, lalu ditangkapnya serigala, tiga ratus ekor, maka diambilnya damar beberapa batang, diikatnya ekor dengan ekor dan dibubuhnya damar sebatang di tengah tiap-tiap dua ekor."
-"Maka segala damar itupun dipasangnya dengan api, lalu dilepaskannya segala serigala itu kepada perhumaan gandum orang Filistin, dinyalakannya baik segala timbunan gandum baik segala gandum yang lagi terdiri, sampai segala pokok anggur dan segala pohon zaitpun."
+"Maka segala damar itupun dipasangnya dengan api, lalu dilepaskannya segala serigala itu kepada perhumaan gandum orang Filistin, dinyalakannya baik #segala timbunan gandum baik segala gandum yang lagi terdiri, sampai segala pokok anggur dan segala pohon zaitpun."
 "Maka kata orang Filistin
 "Tetapi kata Simson kepada mereka itu
 "Maka dipalunya akan mereka itu sampai pahanya dan pangkal pahanyapun, dengan suatu kemenangan yang besar; setelah itu turunlah ia, lalu duduk di dalam suatu gua di bukit Etam."
@@ -11,7 +11,7 @@
 "Setelah itu maka turunlah tiga ribu orang dari Yehuda ke gua di bukit Etam, lalu katanya kepada Simson
 "Maka kata mereka itu
 "Maka sahut mereka itu kepadanya
-"Arakian, setelah sampai Simson di Lekhi, maka bersorak-sorak orang Filistin sambil mendapatkan dia; tetapi tiba-tiba datanglah Roh Tuhan atas Simson, maka segala tali yang pada lengannya itu menjadi seperti benang kapas yang dimakan api dan segala pengikatpun hancur, lucutlah dari pada tangannya."
+"Arakian, setelah sampai Simson di Lekhi, maka bersorak-sorak orang Filistin sambil mendapatkan dia; tetapi tiba-tiba datanglah Roh Tuhan atas Simson, maka segala #tali yang pada lengannya itu menjadi seperti benang kapas yang dimakan api dan segala pengikatpun hancur, lucutlah dari pada tangannya."
 "Maka didapatinya akan sebatang tulang rahang keledai yang lagi basah, diulurkannya tangannya, dipungutnya akan dia, lalu dipalunya dengan dia akan orang seribu."
 "Setelah itu maka kata Simson
 "Hata, setelah sudah ia berkata demikian, maka dibuangnya tulang rahang itu dari pada tangannya, lalu dinamainya akan tempat itu Ramat-Lekhi."

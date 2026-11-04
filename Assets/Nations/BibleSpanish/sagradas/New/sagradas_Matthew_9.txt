@@ -14,7 +14,7 @@
 "Entonces los discípulos de Juan vinieron a él, diciendo
 "Y Jesús les dijo
 "Y nadie echa remiendo de paño nuevo en vestido viejo; porque el tal remiendo tira del vestido, y se hace peor la rotura."
-"Ni echan vino nuevo en odres viejos; de otra manera los odres se rompen, y el vino se derrama, y se pierden los odres; mas echan el vino nuevo en odres nuevos, y lo uno y lo otro se conserva juntamente."
+"Ni echan vino nuevo en odres viejos; de otra manera los odres se rompen, y el vino se derrama, y se #pierden los odres; mas echan el vino nuevo en odres nuevos, y lo uno y lo otro se conserva juntamente."
 "Hablando él estas cosas a ellos, he aquí vino un principal, y le adoró, diciendo
 "Y se levantó Jesús, y le siguió <I>con</I>  sus discípulos."
 "Y he aquí una mujer enferma de flujo de sangre hacía doce años, llegándose por detrás, tocó la franja de su vestido,"

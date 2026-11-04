@@ -14,7 +14,7 @@
 "Da kamen die Jünger des Johannes zu ihm und sprachen
 "Und Jesus sprach zu ihnen
 "Niemand aber setzt einen Lappen von ungewalktem Tuch auf ein altes Kleid, denn der Lappen reißt von dem Kleide ab, und der Riß wirdärger."
-"Man faßt auch nicht neuen Wein in alte Schläuche, sonst zerreißen die Schläuche und der Wein wird verschüttet und die Schläuche kommen um; sondern man faßt neuen Wein in neue Schläuche, so bleiben beide miteinander erhalten."
+"Man faßt auch nicht neuen Wein in alte Schläuche, sonst zerreißen die Schläuche und der Wein wird verschüttet und #die Schläuche kommen um; sondern man faßt neuen Wein in neue Schläuche, so bleiben beide miteinander erhalten."
 "Und da er solches mit ihnen redete, siehe, da kam ein Vorsteher, fiel vor ihm nieder und sprach
 "Und Jesus stand auf und folgte ihm samt seinen Jüngern."
 "Und siehe, eine Frau, die zwölf Jahre blutflüssig war, trat von hinten herzu und rührte den Saum seines Kleides an."

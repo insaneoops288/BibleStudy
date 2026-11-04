@@ -22,7 +22,7 @@
 "Y Jehová dijo á Moisés
 "Y Moisés extendió su vara hacia el cielo, y Jehová hizo tronar y granizar, y el fuego discurría por la tierra; y llovió Jehová granizo sobre la tierra de Egipto."
 "Hubo pues granizo, y fuego mezclado con el granizo, tan grande, cual nunca hubo en toda la tierra de Egipto desde que fué habitada."
-"Y aquel granizo hirió en toda la tierra de Egipto todo lo que estaba en el campo, así hombres como bestias; asimismo hirió el granizo toda la hierba del campo, y desgajó todos los árboles del país."
+"Y aquel granizo hirió en toda la tierra de Egipto todo lo que estaba en el campo, así hombres #como bestias; asimismo hirió el granizo toda la hierba del campo, y desgajó todos los árboles del país."
 "Solamente en la tierra de Gosén, donde los hijos de Israel estaban, no hubo granizo."
 "Entonces Faraón envió á llamar á Moisés y á Aarón, y les dijo
 "Orad á Jehová

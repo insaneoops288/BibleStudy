@@ -18,7 +18,7 @@
 "Ja paiskasivat kätensä apostolitten päälle ja panivat heidät yhteiseen vankihuoneesen."
 "Mutta Herran enkeli avasi yöllä tornin oven, ja vei heidät sieltä ulos ja sanoi
 "Menkäät, seisokaat ja puhukaat templissä kansalle kaikki tämän elämän sanat."
-"Mutta kuin he sen kuulivat, menivät he varhain aamulla templiin ja opettivat. Niin ylimmäinen pappi tuli, ja ne, jotka hänen kanssansa olivat, kutsuivat raadin kokoon ja kaikki Israelin lasten vanhimmat, ja lähettivät vankihuoneesen heitä noutamaan."
+"Mutta kuin he sen kuulivat, menivät he varhain aamulla templiin ja opettivat. Niin ylimmäinen pappi tuli, ja ne, #jotka hänen kanssansa olivat, kutsuivat raadin kokoon ja kaikki Israelin lasten vanhimmat, ja lähettivät vankihuoneesen heitä noutamaan."
 "Kuin palveliat menivät, eikä heitä tornista löytäneet, niin he palasivat ja ilmoittivat,"
 "Sanoen
 "Kuin ylimmäinen pappi ja templin esimies ja pappein päämiehet nämät kuulivat, epäilivät he heistä, miksi se viimeinkin tulis."

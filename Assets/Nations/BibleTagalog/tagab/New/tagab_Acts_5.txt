@@ -1,12 +1,12 @@
 "Datapuwa't isang lalake na tinatawag na Ananias, na kasama ng kaniyang asawang si Safira, ay nagbili ng isang pag-aari,"
 "At inilingid ang isang bahagi ng halaga, na nalalaman din ito ng kaniyang asawa, at dinala ang isang bahagi, at inilagay sa mga paanan ng mga apostol."
 "Datapuwa't sinabi ni Pedro, Ananias, bakit pinuspos ni Satanas ang iyong puso upang magsinungaling sa Espiritu Santo, at upang maglingid ng isang bahagi ng halaga ng lupa?"
-"Nang yao'y nananatili pa, hindi baga yao'y nanatiling iyong sarili? at nang maipagbili na, hindi baga nasa iyo ring kapangyarihan? Ano't inisip mo pa ang bagay na ito sa iyong puso? hindi ka nagsinungaling sa mga tao, kundi sa Dios."
+"Nang yao'y nananatili pa, hindi baga yao'y nanatiling iyong sarili? at nang maipagbili na, hindi baga nasa iyo ring kapangyarihan? Ano't #inisip mo pa ang bagay na ito sa iyong puso? hindi ka nagsinungaling sa mga tao, kundi sa Dios."
 "At nang marinig ni Ananias ang mga salitang ito ay nahandusay at nalagot ang hininga
 "At nagsitindig ang mga kabinataan at siya'y binalot, at kanilang dinala siya sa labas at inilibing."
 "At may tatlong oras ang nakaraan, nang ang kaniyang asawa, na di nalalaman ang nangyari, ay pumasok."
 "At sinabi sa kaniya ni Pedro, Sabihin mo sa akin kung ipinagbili ninyo ng gayon ang lupa. At sinabi niya, Oo, sa gayon."
-"Datapuwa't sinabi sa kaniya ni Pedro, Bakit kayo'y nagkasundo upang tuksuhin ang Espiritu ng Panginoon? narito, nangasa pintuan ang mga paa ng mga nagsipaglibing sa iyong asawa, at kanilang dadalhin ka sa labas."
+"Datapuwa't sinabi sa kaniya ni Pedro, Bakit kayo'y nagkasundo upang tuksuhin ang Espiritu ng Panginoon? narito, nangasa #pintuan ang mga paa ng mga nagsipaglibing sa iyong asawa, at kanilang dadalhin ka sa labas."
 "At pagdaka'y nahandusay sa paanan niya ang babae, at nalagot ang hininga
 "At sinidlan ng malaking takot ang buong iglesia, at ang lahat ng nangakarinig ng mga bagay na ito."
 "At sa pamamagitan ng mga kamay ng mga apostol ay ginawa ang maraming tanda at kababalaghan sa gitna ng mga tao
@@ -18,7 +18,7 @@
 "At kanilang sinunggaban ang mga apostol, at kanilang inilagay sila sa bilangguang bayan."
 "Datapuwa't nang gabi na ay binuksan ng isang anghel ng Panginoon ang mga pintuan ng bilangguan, at sila'y inilabas, at sinabi,"
 "Magsihayo kayo, at magsitayo kayo sa templo, at sabihin ninyo sa bayan ang lahat ng mga salita ng Buhay na ito."
-"At nang marinig nila ito, ay nagsipasok sila sa templo nang magbubukang liwayway, at nangagturo. Datapuwa't dumating ang dakilang saserdote, at ang mga kasamahan niya, at pinulong ang sanedrin, at ang buong senado sa mga anak ni Israel, at nagpautos sa bilangguan upang sila'y dalhin doon."
+"At nang marinig nila ito, ay nagsipasok sila sa templo nang magbubukang liwayway, at nangagturo. Datapuwa't dumating ang dakilang saserdote, at ang mga kasamahan #niya, at pinulong ang sanedrin, at ang buong senado sa mga anak ni Israel, at nagpautos sa bilangguan upang sila'y dalhin doon."
 "Datapuwa't ang mga punong kawal na nagsiparoon ay hindi sila nangasumpungan sa bilangguan; at sila'y nangagbalik, at nangagbigay alam,"
 "Na sinasabi, Aming naratnang totoong mabuti ang pagkalapat ng bilangguan, at nangakatayo sa mga pintuan ang mga bantay
 "Nang marinig nga ang mga salitang ito ng puno sa templo, at ng mga pangulong saserdote, ay nangalitong totoo tungkol sa mga ito kung ano ang magiging wakas niyaon."

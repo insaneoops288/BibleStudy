@@ -7,7 +7,7 @@
 "De maneira que nenhum dom vos falta, esperando a manifestação de nosso SENHOR Jesus Cristo,"
 "O qual vos confirmará também até ao fim, para serdes irrepreensíveis no dia de nosso SENHOR Jesus Cristo."
 "Fiel é Deus, pelo qual fostes chamados para a comunhão de seu Filho Jesus Cristo nosso SENHOR."
-"Rogo-vos, porém, irmãos, pelo nome de nosso SENHOR Jesus Cristo, que digais todos uma mesma coisa, e que não haja entre vós dissensões; antes sejais unidos em um mesmo sentido e em um mesmo parecer."
+"Rogo-vos, porém, irmãos, pelo nome de nosso SENHOR Jesus Cristo, que digais todos uma mesma coisa, e que #não haja entre vós dissensões; antes sejais unidos em um mesmo sentido e em um mesmo parecer."
 "Porque a respeito de vós, irmãos meus, me foi comunicado pelos da família de Cloé que há contendas entre vós."
 "Quero dizer com isto, que cada um de vós diz
 "Está Cristo dividido? Foi Paulo crucificado por vós? Ou fostes vós baptizados em nome de Paulo?"

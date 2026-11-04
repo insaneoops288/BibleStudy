@@ -10,7 +10,7 @@
 "Ni murmuréis, como algunos de ellos murmuraron, y perecieron por el destructor."
 "Y estas cosas les acontecieron como figura; y son escritas para nuestra amonestación, en quien los fines de los siglos ha parado."
 "Así que, el que piensa estar <I>firme</I> , mire <I>que</I>  no caiga."
-"No os ha tomado tentación, sino la humana; mas fiel <I>es</I>  Dios, que no os dejará ser tentados más de lo que podéis <I>llevar</I> ; antes dará también juntamente con la tentación <I>la</I>  salida, para que podáis  aguantar."
+"No os ha tomado tentación, sino la humana; mas fiel <I>es</I>  Dios, que no os dejará ser tentados más de #lo que podéis <I>llevar</I> ; antes dará también juntamente con la tentación <I>la</I>  salida, para que podáis  aguantar."
 "Por lo cual, amados míos, huid de la idolatría."
 "Como a sabios hablo; juzgad vosotros lo que digo."
 "La copa de bendición que bendecimos, ¿no es <I>la</I>  confraternidad de la sangre del Cristo? El pan que partimos, ¿no es <I>la</I>  confraternidad del cuerpo del Cristo?"

@@ -1,6 +1,6 @@
 "Und etliche kamen von Judäa herab und lehrten die Brüder
-"Als nun ein Zwiespalt entstand und ein nicht geringer Wortwechsel zwischen ihnen und dem Paulus und Barnabas, ordneten sie an, daß Paulus und Barnabas und etliche andere von ihnen zu den Aposteln undÄltesten nach Jerusalem hinaufgehen sollten wegen dieser Streitfrage."
-"Sie nun, nachdem sie von der Versammlung das Geleit erhalten hatten, durchzogen Phönicien und Samaria und erzählten die Bekehrung derer aus den Nationen; und sie machten allen Brüdern große Freude."
+"Als nun ein Zwiespalt entstand und ein nicht geringer Wortwechsel zwischen ihnen und dem Paulus und Barnabas, ordneten sie an, daß #Paulus und Barnabas und etliche andere von ihnen zu den Aposteln undÄltesten nach Jerusalem hinaufgehen sollten wegen dieser Streitfrage."
+"Sie nun, nachdem sie von der Versammlung das Geleit erhalten hatten, durchzogen Phönicien und Samaria und #erzählten die Bekehrung derer aus den Nationen; und sie machten allen Brüdern große Freude."
 "Als sie aber nach Jerusalem gekommen waren, wurden sie von der Versammlung und den Aposteln undÄltesten aufgenommen, und sie verkündeten alles, was Gott mit ihnen getan hatte."
 "Etliche aber derer von der Sekte der Pharisäer, welche glaubten, traten auf und sagten
 "Die Apostel aber und dieÄltesten versammelten sich, um diese Angelegenheit zu besehen."
@@ -21,7 +21,7 @@
 "Denn Moses hat von alten Zeiten her in jeder Stadt solche, die ihn predigen, indem er an jedem Sabbath in den Synagogen gelesen wird."
 "Dann deuchte es den Aposteln und denÄltesten samt der ganzen Versammlung gut, Männer aus sich zu erwählen und sie mit Paulus und Barnabas nach Antiochien zu senden
 "Und sie schrieben und sandten durch ihre Hand folgendes
-"Weil wir gehört haben, daß etliche, die aus unserer Mitte ausgegangen sind, euch mit Worten beunruhigt haben, indem sie eure Seelen verstören und sagen, ihr müßtet beschnitten werden und das Gesetz halten denen wir keine Befehle gegeben haben,"
+"Weil wir gehört haben, daß etliche, die aus unserer Mitte ausgegangen sind, euch mit Worten beunruhigt haben, indem sie eure #Seelen verstören und sagen, ihr müßtet beschnitten werden und das Gesetz halten denen wir keine Befehle gegeben haben,"
 "deuchte es uns, einstimmig geworden, gut, Männer auszuerwählen und sie mit unseren Geliebten, Barnabas und Paulus, zu euch zu senden,"
 "mit Männern, die ihr Leben hingegeben haben für den Namen unseres Herrn Jesus Christus."
 "Wir haben nun Judas und Silas gesandt, die auch selbst mündlich dasselbe verkündigen werden."

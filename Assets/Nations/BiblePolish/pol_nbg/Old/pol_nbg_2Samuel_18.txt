@@ -6,7 +6,7 @@
 "Tak lud wyruszył w pole przeciwko Israelowi. Po czym stoczyli bitwę w efraimskim lesie."
 "I tam, przez sługi Dawida, lud israelski został porażony tak, że owego dnia nastąpiła wielka klęska – poległo dwadzieścia tysięcy."
 "Bo gdy bój się rozproszył na przestrzeni całej okolicy, tego dnia las wytępił więcej niż miecz."
-"A Absalom zetknął się przypadkowo ze sługami Dawida. Mianowicie Absalom jechał na mule, a muł dostał się między rozgałęzienie wielkiego dębu, tak, że swą głową zaczepił o dąb. I gdy muł, co był pod nim, popędził dalej zawisnął między niebem, a ziemią."
+"A Absalom zetknął się przypadkowo ze sługami Dawida. Mianowicie Absalom jechał na mule, a muł dostał się między rozgałęzienie wielkiego dębu, tak, #że swą głową zaczepił o dąb. I gdy muł, co był pod nim, popędził dalej zawisnął między niebem, a ziemią."
 "Spostrzegł to ktoś i doniósł Joabowi, mówiąc
 "A Joab odpowiedział człowiekowi, który mu przyniósł tą wiadomość
 "Zaś ów człowiek odpowiedział Joabowi

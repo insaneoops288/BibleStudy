@@ -4,7 +4,7 @@
 "Wtedy lud tej ziemi zaczął zniechęcać lud Judy i przeszkadzał im w budowie."
 "Ponadto przekupywał przeciwko nim radców, aby udaremnić ich zamiar po wszystkie dni Cyrusa, króla Persji, aż do panowania Dariusza, króla Persji."
 "Za panowania Aswerusa, na początku jego panowania, napisali skargę przeciwko obywatelom Judy i Jerozolimy;"
-"A za czasów Artakserksesa Biszlam, Mitredat, Tabeel wraz z pozostałymi towarzyszami napisali do Artakserksesa, króla Persji. List był sporządzony pismem syryjskim i przetłumaczony na język syryjski."
+"A za czasów Artakserksesa Biszlam, Mitredat, Tabeel wraz z pozostałymi towarzyszami napisali do Artakserksesa, #króla Persji. List był sporządzony pismem syryjskim i przetłumaczony na język syryjski."
 "Kanclerz Rechum i pisarz Szimszaj napisali do króla Artakserksesa list przeciwko Jerozolimie następującej treści
 "Kanclerz Rechum, pisarz Szimszaj i pozostali ich towarzysze
 "I reszta narodów, które wielki i sławny Asnappar przyprowadził i osiedlił w miastach Samarii, oraz pozostali, którzy są za rzeką – otóż;"
@@ -12,7 +12,7 @@
 "Niech królowi będzie wiadomo, że Żydzi, którzy wyszli od ciebie, przybyli do nas, do Jerozolimy, i odbudowują to buntownicze i niegodziwe miasto, już wznosili mury i położyli fundamenty."
 "Niech więc będzie królowi wiadomo, że jeśli to miasto zostanie odbudowane i jego mury będą wzniesione, wtedy podatku, danin ani cła oni nie będą płacić, a to przyniesie szkodę dochodom króla."
 "Teraz więc, ponieważ jesteśmy na utrzymaniu twego pałacu i nie przystoi nam patrzeć na zniewagę króla, posyłamy królowi tę wiadomość;"
-"Aby poszukano w księdze kronik twoich ojców, a znajdziesz w niej i dowiesz się, że to miasto jest miastem buntowniczym i przynosi szkodę królom i prowincjom i że od dawien dawna wzniecano w nim bunty. Z tego powodu to miasto zostało zburzone."
+"Aby poszukano w księdze kronik twoich ojców, a znajdziesz w niej i dowiesz się, że to miasto jest miastem buntowniczym i przynosi #szkodę królom i prowincjom i że od dawien dawna wzniecano w nim bunty. Z tego powodu to miasto zostało zburzone."
 "Zawiadamiamy króla, że jeśli to miasto zostanie odbudowane i jego mury będą wzniesione, wtedy już nie będziesz miał udziału za rzeką."
 "Wtedy król wysłał taką odpowiedź
 "List, który do nas przysłaliście, został przede mną dokładnie odczytany."

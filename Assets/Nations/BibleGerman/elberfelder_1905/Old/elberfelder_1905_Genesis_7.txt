@@ -11,7 +11,7 @@
 "Im sechshundertsten Jahre des Lebens Noahs, im zweiten Monat, am siebzehnten Tage des Monats, an diesem Tage brachen auf alle Quellen der großen Tiefe, und die Fenster des Himmels taten sich auf."
 "Und der Regen fiel auf die Erde vierzig Tage und vierzig Nächte."
 "An ebendemselben Tage gingen Noah und Sem und Ham und Japhet, die Söhne Noahs, und das Weib Noahs und die drei Weiber seiner Söhne mit ihnen in die Arche
-"sie und alles Getier nach seiner Art und alles Vieh nach seiner Art und alles Gewürm, das sich auf der Erde regt, nach seiner Art und alles Gevögel nach seiner Art, jeder Vogel von allerlei Gefieder."
+"sie und alles Getier nach seiner Art und alles Vieh nach seiner Art und alles Gewürm, das sich auf #der Erde regt, nach seiner Art und alles Gevögel nach seiner Art, jeder Vogel von allerlei Gefieder."
 "Und sie gingen zu Noah in die Arche, je zwei und zwei von allem Fleische, in welchem ein Hauch des Lebens war."
 "Und die hineingingen, waren ein Männliches und ein Weibliches von allem Fleische, wie Gott ihm geboten hatte. Und Jehova schloß hinter ihm zu."
 "Und die Flut kam vierzig Tage langüber die Erde. Und die Wasser mehrten sich und hoben die Arche empor; und sie erhob sichüber die Erde."
@@ -20,5 +20,5 @@
 "Fünfzehn Ellen darüber nahmen die Wasserüberhand, und die Berge wurden bedeckt."
 "Da verschied alles Fleisch, das sich auf der Erde regte, an Gevögel und an Vieh und an Getier und an allem Gewimmel, das auf der Erde wimmelte, und alle Menschen;"
 "alles starb, in dessen Nase ein Odem des Lebenshauches war, von allem, was auf dem Trockenen war."
-"Und vertilgt wurde alles Bestehende, das auf der Fläche des Erdbodens war, vom Menschen bis zum Vieh, bis zum Gewürm und bis zum Gevögel des Himmels; und sie wurden vertilgt von der Erde. Und nur Noah bliebübrig und was mit ihm in der Arche war."
+"Und vertilgt wurde alles Bestehende, das auf der Fläche des Erdbodens war, vom Menschen bis zum Vieh, bis zum Gewürm und bis zum #Gevögel des Himmels; und sie wurden vertilgt von der Erde. Und nur Noah bliebübrig und was mit ihm in der Arche war."
 "Und die Wasser hattenüberhand auf der Erde hundertfünfzig Tage."

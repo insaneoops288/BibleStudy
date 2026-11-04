@@ -23,7 +23,7 @@
 "(H13-24) Y llegaron hasta el arroyo de Escol, y de allí cortaron un sarmiento con un racimo de uvas, el cual trejeron dos en un palo, y de las granadas y de los higos."
 "(H13-25) Y llamóse aquel lugar Nahal-escol por el racimo que cortaron de allí los hijos de Israel."
 "(H13-26) Y volvieron de reconocer la tierra al cabo de cuarenta días."
-"(H13-27) Y anduvieron y vinieron á Moisés y á Aarón, y á toda la congregación de los hijos de Israel, en el desierto de Parán, en Cades, y diéronles la respuesta, y á toda la congregación, y les mostraron el fruto de la tierra."
+"(H13-27) Y anduvieron y vinieron á Moisés y á Aarón, y á toda la congregación de los hijos de Israel, en el desierto #de Parán, en Cades, y diéronles la respuesta, y á toda la congregación, y les mostraron el fruto de la tierra."
 "(H13-28) Y le contaron, y dijeron
 "(H13-29) Mas el pueblo que habita aquella tierra es fuerte, y las ciudades muy grandes y fuertes; y también vimos allí los hijos de Anac."
 "(H13-30) Amalec habita la tierra del mediodía; y el Hetheo, y el Jebuseo, y el Amorrheo, habitan en el monte; y el Cananeo habita junto á la mar, y á la ribera del Jordán."

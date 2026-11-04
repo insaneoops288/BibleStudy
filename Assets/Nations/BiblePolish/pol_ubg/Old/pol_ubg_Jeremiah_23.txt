@@ -29,7 +29,7 @@
 "Czy moje słowo nie jest jak ogień? – mówi PAN – i jak młot, który kruszy skałę?"
 "Dlatego oto powstaję przeciwko tym prorokom, mówi PAN, którzy kradną moje słowa, każdy kradnie je swojemu bliźniemu."
 "Oto powstaję przeciwko tym prorokom, mówi PAN, którzy używają swego języka, aby mówić
-"Oto powstaję, mówi PAN, przeciwko tym, którzy prorokują sny kłamliwe, opowiadają je i zwodzą mój lud swymi kłamstwami i plotkami, chociaż ja ich nie posłałem ani im niczego nie rozkazałem. Dlatego nic nie pomagają temu ludowi, mówi PAN."
+"Oto powstaję, mówi PAN, przeciwko tym, którzy prorokują sny kłamliwe, opowiadają je i zwodzą mój lud swymi kłamstwami i plotkami, #chociaż ja ich nie posłałem ani im niczego nie rozkazałem. Dlatego nic nie pomagają temu ludowi, mówi PAN."
 "A gdy ten lud albo prorok lub kapłan zapytają cię
 "A proroka i kapłana oraz ten lud, którzy powiedzą
 "Ale tak mówcie każdy do swego bliźniego i każdy do swego brata

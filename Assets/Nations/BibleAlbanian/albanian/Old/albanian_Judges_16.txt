@@ -1,6 +1,6 @@
 "Pastaj Sansoni shkoi në Gaza dhe aty pa një prostitutë, dhe hyri tek ajo."
 "Kur u thanë atyre të Gazës
-"Sansoni ndejti shtrirë deri në mesnatë; pastaj në mesnatë u ngrit, kapi kanatet e portës së qytetit dhe dy shtalkat e saj i shkuli nga vendi bashkë me shufrat prej hekuri, i ngarkoi mbi kurriz dhe i çoi në majë të malit që ndodhet përballë Hebronit."
+"Sansoni ndejti shtrirë deri në mesnatë; pastaj në mesnatë u ngrit, kapi kanatet e portës së qytetit dhe dy shtalkat e saj i shkuli #nga vendi bashkë me shufrat prej hekuri, i ngarkoi mbi kurriz dhe i çoi në majë të malit që ndodhet përballë Hebronit."
 "Mbas kësaj ra në dashuri me një grua nga lugina e Sorekut, që quhej Delilah."
 "Atëherë princat e Filistejve shkuan tek ajo dhe i thanë
 "Kështu Delilah i tha Sansonit
@@ -24,8 +24,8 @@
 "Kur populli e pa, filloi të lavdërojë perëndinë e vet dhe të thotë
 "Kështu në gëzimin e zemrës së tyre, ata thanë
 "Atëherë Sansoni i tha fëmijës, që e mbante prej dore
-"që të mund të mbështetem në to"". Shtëpia ishte pot me burra dhe gra; aty ndodheshin tërë princat e Filistejve, dhe mbi çati tre mijë veta, burra e gra, që shikonin Sansonin ndërsa ky bënte palaçon."
+"që të mund të mbështetem në to"". Shtëpia ishte pot me burra dhe gra; aty ndodheshin tërë princat e #Filistejve, dhe mbi çati tre mijë veta, burra e gra, që shikonin Sansonin ndërsa ky bënte palaçon."
 "Atëherë Sansoni kërkoi ndihmën e Zotit dhe tha
 "Pastaj Sansoni kapi dy shtyllat qendrore, që mbanin tempullin, dhe u mbështet tek ato, tek njera me dorën e djathtë dhe tek tjetra me dorën e majtë;"
 "pastaj Sansoni tha
-"Pastaj vëllezërit e tij dhe tërë shtëpia e atit të tij zbritën dhe e morën; dhe e çuan ta varrosin midis Tsorahut dhe Eshtaolit, në varrin e Manoahut, të atit të tij. Ai qe gjyqtar i Izraelit njëzet vjet me radhë."
+"Pastaj vëllezërit e tij dhe tërë shtëpia e atit të tij zbritën dhe e morën; dhe e çuan ta varrosin midis #Tsorahut dhe Eshtaolit, në varrin e Manoahut, të atit të tij. Ai qe gjyqtar i Izraelit njëzet vjet me radhë."

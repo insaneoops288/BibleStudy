@@ -18,7 +18,7 @@
 "y echaron mano a los apóstoles, y los pusieron en la cárcel pública."
 "Mas el ángel del Señor, abriendo de noche las puertas de la cárcel, y sacándolos, dijo
 "Id, y estando en el Templo, hablad al pueblo todas las palabras de esta vida."
-"Y cuando hubieron oído esto, entraron de mañana en el Templo, y enseñaban. Entre tanto, viniendo el príncipe de los sacerdotes, y los que estaban con él, convocaron el concilio, y a todos los ancianos de los hijos de Israel,  y enviaron a la cárcel para que fuesen traídos."
+"Y cuando hubieron oído esto, entraron de mañana en el Templo, y enseñaban. Entre tanto, viniendo el príncipe de los sacerdotes, y los que estaban con #él, convocaron el concilio, y a todos los ancianos de los hijos de Israel,  y enviaron a la cárcel para que fuesen traídos."
 "Pero cuando llegaron los alguaciles, y no los hallaron en la cárcel, volvieron, y dieron aviso,"
 "diciendo
 "Y cuando oyeron estas palabras el sumo sacerdote y el capitán del Templo y los príncipes de los sacerdotes, dudaban en qué vendría a parar aquello."
@@ -33,7 +33,7 @@
 "Ellos, oyendo esto, regañaban, y consultaban matarlos."
 "Entonces levantándose en el concilio un fariseo llamado Gamaliel, doctor de la ley, venerable a todo el pueblo, mandó que sacasen fuera un poco a los apóstoles."
 "Y les dijo
-"Porque antes de estos días se levantó Teudas, diciendo que era alguien; al que se agregó un número de hombres como cuatrocientos, el cual fue muerto; y todos los que le creyeron fueron dispersos, y reducidos a nada."
+"Porque antes de estos días se levantó Teudas, diciendo que era alguien; al que se agregó un número de hombres #como cuatrocientos, el cual fue muerto; y todos los que le creyeron fueron dispersos, y reducidos a nada."
 "Después de éste, se levantó Judas el galileo en los días del empadronamiento, y llevó mucho pueblo tras sí. Pereció también aquel; y todos los que consintieron con él, fueron derramados."
 "Y ahora os digo
 "mas si es de Dios, no la podréis deshacer; no seáis tal vez hallados resistiendo a Dios."

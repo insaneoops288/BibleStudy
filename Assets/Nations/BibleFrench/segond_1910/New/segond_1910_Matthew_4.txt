@@ -18,8 +18,8 @@
 "Comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient un filet dans la mer; car ils étaient pêcheurs."
 "Il leur dit
 "Aussitôt, ils laissèrent les filets, et le suivirent."
-"De là étant allé plus loin, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, qui étaient dans une barque avec Zébédée, leur père, et qui réparaient leurs filets. Il les appela,"
+"De là étant allé plus loin, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, #qui étaient dans une barque avec Zébédée, leur père, et qui réparaient leurs filets. Il les appela,"
 "et aussitôt ils laissèrent la barque et leur père, et le suivirent."
 "Jésus parcourait toute la Galilée, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple."
-"Sa renommée se répandit dans toute la Syrie, et on lui amenait tous ceux qui souffraient de maladies et de douleurs de divers genres, des démoniaques, des lunatiques, des paralytiques; et il les guérissait."
+"Sa renommée se répandit dans toute la Syrie, et on lui amenait tous ceux qui souffraient de maladies #et de douleurs de divers genres, des démoniaques, des lunatiques, des paralytiques; et il les guérissait."
 "Une grande foule le suivit, de la Galilée, de la Décapole, de Jérusalem, de la Judée, et d'au delà du Jourdain."

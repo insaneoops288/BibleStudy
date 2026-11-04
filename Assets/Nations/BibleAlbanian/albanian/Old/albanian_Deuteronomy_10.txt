@@ -1,7 +1,7 @@
 """Në atë kohë Zoti më tha
 "Unë do të shkruaj mbi pllakat fjalët që ishin mbi pllakat e para që ti copëtove, dhe ti do t'i vësh në arkë""."
 "Kështu bëra një arkë prej dru akacjeje dhe preva dy pllaka prej guri të njëllojta me të parat; pastaj u ngjita në mal me dy pllakat në dorë."
-"Dhe Zoti shkroi mbi pllakat atë që kishte shkruar herën e parë, domethënë dhjetë urdhërimet që Zoti kishte shpallur për ju në mal, në mes të zjarrit, ditën e asamblesë. Pastaj Zoti m'i dorëzoi mua."
+"Dhe Zoti shkroi mbi pllakat atë që kishte shkruar herën e parë, domethënë dhjetë urdhërimet që Zoti kishte #shpallur për ju në mal, në mes të zjarrit, ditën e asamblesë. Pastaj Zoti m'i dorëzoi mua."
 "Atëherë u ktheva dhe zbrita nga mali; i vura pllakat në arkën që kisha bërë; dhe ato ndodhen aty, ashtu si më kishte urdhëruar Zoti."
 "(Bijtë e Izraelit u nisën nga puset e bijve të Jakaanit në drejtim të Moserahut. Aty vdiq Aaroni dhe aty u varros; dhe Eleazari bir i tij, u bë prift në vend të tij."
 "Që andej u nisën në drejtim të Gudgodahut dhe nga Gudgodahu për në Jotbathah, vendi me rrjedha ujore."
@@ -9,7 +9,7 @@
 "Prandaj Levi nuk ka pjesë, as trashëgimi me vëllezërit e tij; Zoti është trashëgimia e tij, ashtu si Zoti, Perëndia yt, u kishte premtuar)."
 "Unë mbeta në mal dyzet ditë e dyzet net me radhë si herën e parë; Zoti më dëgjoi edhe këtë herë dhe nuk pranoi të të shkatërrojë."
 "Atëherë Zoti më tha
-"Dhe tani, o Izrael, çfarë kërkon nga ti Zoti, Perëndia yt? Të kesh frikë nga Zoti, Perëndia yt, të ecësh në tërë rrugët e tij, ta duash dhe t'i shërbesh Zotit, Perëndisë tënd, me gjithë zemër e me gjithë shpirt,"
+"Dhe tani, o Izrael, çfarë kërkon nga ti Zoti, Perëndia yt? Të kesh frikë nga Zoti, Perëndia yt, të ecësh në #tërë rrugët e tij, ta duash dhe t'i shërbesh Zotit, Perëndisë tënd, me gjithë zemër e me gjithë shpirt,"
 "dhe të respektosh për të mirën tënde të gjitha urdhërimet dhe statutet e Zotit që sot të urdhëroj."
 "Ja, Zotit, Perëndisë tënd, i përkasin qiejtë, qiejtë e qiejve, toka dhe gjithçka ajo përmban;"
 "por Zoti u fali dashurinë e tij vetëm etërve të tu dhe i deshi ata; dhe mbas tyre midis tërë popujve zgjodhi pasardhësit e tyre, domethënë ju, ashtu siç po ndodh sot."

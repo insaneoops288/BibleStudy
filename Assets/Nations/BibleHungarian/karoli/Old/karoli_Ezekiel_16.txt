@@ -5,7 +5,7 @@
 "Szem meg nem szánt téged, hogy ezekbõl valamit veled cselekedett volna, könyörülvén rajtad; hanem kivetettek a nyilt mezõre, mert útáltak, a mely napon születtél."
 "Ekkor elmenék melletted és látálak véredben eltapodva, és mondék néked
 "Sok ezerekre szaporítottalak, mint a mezei füvet, és megszaporodál és fölnevekedél és jutál nagy szépségre; emlõid duzzadának s szõröd kinõtt vala, de te mezítelen és befedezetlen valál."
-"Ekkor elmenék melletted, és látálak, és ímé a te korod a szerelem kora vala, és kiterjesztém fölötted szárnyamat s befödözém mezítelenségedet, és megesküvém néked s frigyre léptem veled; azt mondja az Úr Isten, és lõl az enyém."
+"Ekkor elmenék melletted, és látálak, és ímé a te korod a szerelem kora vala, és kiterjesztém fölötted szárnyamat s #befödözém mezítelenségedet, és megesküvém néked s frigyre léptem veled; azt mondja az Úr Isten, és lõl az enyém."
 "És megmosálak vízzel és elmosám rólad véredet, és megkenélek olajjal."
 "És felöltöztetélek hímes ruhába, és felsaruztalak borjúfóka bõrrel, s övezélek fehér gyolcscsal s befedélek selyemmel."
 "És felékesítélek ékeségekkel, s adtam karpereczeket kezeidre és lánczot nyakadra."
@@ -34,13 +34,13 @@
 "És lõn különbség közted és más asszonyok közt paráznaságaidban; mert utánad nem jártak a paráznák; te adál bért nékik és bért õk nem adának néked, így lõn különbséged."
 "Azért te rima, halld meg az Úr beszédét!"
 "Így szól az Úr Isten
-"Ezokáért ímé egybegyûjtöm minden szeretõdet, kiknek kedves valál, és mindazokat, a kiket szerettél, együtt azokkal, a kiket gyûlöltél, és egybegyûjtöm õket ellened mindenfelõl, és föltakarom mezítelenségedet elõttök, hogy lássák minden te mezítelenségedet."
+"Ezokáért ímé egybegyûjtöm minden szeretõdet, kiknek kedves valál, és mindazokat, a kiket szerettél, együtt azokkal, a kiket #gyûlöltél, és egybegyûjtöm õket ellened mindenfelõl, és föltakarom mezítelenségedet elõttök, hogy lássák minden te mezítelenségedet."
 "És megítéllek téged a házasságtörõ és vért ontó asszonyok ítéletével, és véredet kiontatom búsulásomban és féltõ szerelmemben."
 "És adlak téged kezökbe, és leszakítják tetõdet és lerontják magaslataidat és lehúzzák rólad ruháidat és elveszik ékességeidet, és hagynak mezítelenül s ruhátalanul."
 "És összehoznak gyûlést ellened, és megköveznek és összevagdalnak fegyvereikkel."
 "És megégetik házaidat tûzzel, és ítéletet cselekesznek rajtad sok asszony szeme láttára, és megszüntetem paráznaságodat, és bért sem adsz többé."
 "És megnyugotom búsulásomat rajtad, hogy eltávozzék féltõ szerelmem te tõled, s megnyugoszom és többé nem haragszom."
-"Mivelhogy meg nem emlékeztél ifjúságod napjairól, és ingerlettél engem mindezekkel, azért ímé én is fejedhez verem útadat, ezt mondja az Úr Isten, és többé nem cselekszed a fajtalanságot minden útálatosságod mellett."
+"Mivelhogy meg nem emlékeztél ifjúságod napjairól, és ingerlettél engem mindezekkel, azért ímé én is fejedhez verem #útadat, ezt mondja az Úr Isten, és többé nem cselekszed a fajtalanságot minden útálatosságod mellett."
 "Ímé, valaki közmondással él, rólad veszi azt, mondván
 "Anyád leánya vagy te, a ki megútálta férjét s fiait, és öcséidnek nénje vagy, a kik megútálták férjeiket és fiaikat; anyátok Hitteus asszony és atyátok Emoreus."
 "És a te nénéd Samaria vala, õ és leányai, ki balkezed felõl lakik vala; és öcséd, a ki jobbkezed felõl lakik vala, Sodoma és leányai."
@@ -49,7 +49,7 @@
 "Ímé, ez volt a vétke Sodomának, a te öcsédnek
 "És felfuvalkodának s cselekedének útálatosságot elõttem, és elveszítém õket, mikor [ezt] megláttam."
 "És Samaria félannyit sem vétkezett, mint te, mert többek a te útálatosságaid, mint az övék; és így nõtestvéreidet nálad igazabbaknak bizonyítád minden útálatosságiddal, a melyeket cselekvél."
-"Te is azért viseld gyalázatodat, a melyre pedig nénédet ítélted; a te bûneid miatt, melyekben nálok útálatosabban cselekvél, igazabbak õk nálad. Szégyenülj meg hát te is s viseld gyalázatodat, hogy nõtestvéreidet nálad igazabbaknak bizonyítád."
+"Te is azért viseld gyalázatodat, a melyre pedig nénédet ítélted; a te bûneid miatt, melyekben nálok útálatosabban cselekvél, #igazabbak õk nálad. Szégyenülj meg hát te is s viseld gyalázatodat, hogy nõtestvéreidet nálad igazabbaknak bizonyítád."
 "És visszahozom foglyaikat, Sodomának s leányainak foglyait és Samariának s leányainak foglyait; s visszahozom a te foglyaidat is amazok közepette;"
 "Azért, hogy viseljed gyalázatodat és megszégyenülj mindazokért, miket cselekedtél, mikor azoknak vígasztalásukra leszel."
 "És nõtestvéreid, Sodoma és leányai visszatérnek elõbbi állapotjokba, és Samaria s leányai visszatérnek elõbbi állapotjokba, és te is és leányaid visszatértek elõbbi állapototokba."
@@ -58,6 +58,6 @@
 "Fajtalanságodat és útálatosságaidat magad viseled, azt mondja az Úr."
 "Mert ezt mondja az Úr Isten
 "Én megemlékezem frigyemrõl, a melyet veled ifjúságod napjaiban [kötöttem,] és örök frigyet vetek veled."
-"És te megemlékezel útaidról és megszégyenled magadat, mikor hozzád veszed nõtestvéreidet, a kik nagyobbak nálad, együtt azokkal, a kik kisebbek, s adom õket néked leányaidul, de nem a te frigyedbõl."
+"És te megemlékezel útaidról és megszégyenled magadat, mikor hozzád veszed nõtestvéreidet, a kik nagyobbak nálad, együtt #azokkal, a kik kisebbek, s adom õket néked leányaidul, de nem a te frigyedbõl."
 "És én megerõsítem frigyemet veled, s megismered, hogy én vagyok az Úr."
 "Hogy megemlékezzél és pirulj, és meg ne nyissad többé szádat szégyenletedben, mikor megkegyelmezek néked mindenekben, valamit cselekedtél, azt mondja az Úr Isten."

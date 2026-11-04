@@ -14,7 +14,7 @@
 "Y he aquí, vosotros habéis levantado en lugar de vuestros padres, prole de hombres pecadores, para añadir aún a la ira del SEÑOR contra Israel."
 "Si os volviereis de en pos de él, él volverá otra vez a dejaros en el desierto, y echaréis a perder a todo este pueblo."
 "Entonces ellos vinieron a él y dijeron
-"y nosotros nos armaremos, e iremos con diligencia delante de los hijos de Israel, hasta que los metamos en su lugar; y nuestros niños quedarán en ciudades fuertes a causa de los moradores de la tierra."
+"y nosotros nos armaremos, e iremos con diligencia delante de los hijos de Israel, hasta que los metamos en #su lugar; y nuestros niños quedarán en ciudades fuertes a causa de los moradores de la tierra."
 "No volveremos a nuestras casas hasta que los hijos de Israel posean cada uno su heredad."
 "Porque no tomaremos heredad con ellos al otro lado del Jordán ni adelante, por cuanto tendremos ya nuestra heredad de este lado del Jordán al oriente."
 "Entonces les respondió Moisés
@@ -30,7 +30,7 @@
 "Mas si no pasaren armados con vosotros, entonces tendrán posesión entre vosotros en la tierra de Canaán."
 "Y los hijos de Gad y los hijos de Rubén respondieron, diciendo
 "Nosotros pasaremos armados delante del SEÑOR a la tierra de Canaán, y la posesión de nuestra heredad será de este lado del Jordán."
-"Así les dio Moisés a los hijos de Gad y a los hijos de Rubén, y a la media tribu de Manasés hijo de José, el reino de Sehón rey amorreo, y el reino de Og rey de Basán, la tierra con sus ciudades y términos, las ciudades de  la tierra alrededor."
+"Así les dio Moisés a los hijos de Gad y a los hijos de Rubén, y a la media tribu de Manasés hijo de José, el reino #de Sehón rey amorreo, y el reino de Og rey de Basán, la tierra con sus ciudades y términos, las ciudades de  la tierra alrededor."
 "Y los hijos de Gad edificaron a Dibón, y a Atarot, y a Aroer,"
 "y a Atarot-sofán, y a Jazer, y a Jogbeha,"
 "y a Bet-nimra, y a Bet-arán, ciudades fuertes, y también majadas para ovejas."

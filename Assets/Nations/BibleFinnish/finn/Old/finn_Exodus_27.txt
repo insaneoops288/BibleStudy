@@ -18,4 +18,4 @@
 "Ja pihan pituus pitää oleman sata kyynärää, ja leveys kaikelta kohtaa viisikymmentä, ja korkeus viisi kyynärää, kalliista kerratusta liinasta
 "Kaikki Tabernaklin astiat, jotka kaikkinaiseen palvelukseen tarvitaan, kaikki hänen vaarnansa ja kaikki pihan vaarnat pitää oleman vaskesta."
 "Ja käske Israelin lapsille, että he toisivat sinulle kaikkein selkiämpää öljypuun öljyä puserrettua, valkeudeksi
-"Seurakunnan majassa ulkoisella puolella esirippua, joka on todistuksen edessä, pitää Aaron poikinensa sen toimittaman, (valistamaan) ehtoosta niin aamuun asti, Herran edessä. Se pitää teille oleman ijankaikkinen sääty heidän sukukunnissansa, Israelin lasten seassa."
+"Seurakunnan majassa ulkoisella puolella esirippua, joka on todistuksen edessä, pitää Aaron poikinensa sen toimittaman, (valistamaan) ehtoosta niin #aamuun asti, Herran edessä. Se pitää teille oleman ijankaikkinen sääty heidän sukukunnissansa, Israelin lasten seassa."

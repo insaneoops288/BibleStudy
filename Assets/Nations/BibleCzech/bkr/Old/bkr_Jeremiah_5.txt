@@ -19,7 +19,7 @@
 "Nebo stane se, když řeknete
 "Oznamtež to v domě Jákobově, a rozhlaste v Judstvu, řkouce
 "Slyštež nyní toto, lide bláznivý a nesmyslný, kteříž oči mají a nevidí, kteříž uši mají a neslyší
-"Což se mne nebudete báti? dí Hospodin. Což před oblíčejem mým nebudete se třásti? Kterýž jsem položil písek za cíl moři ustanovením věčným, jehož nepřekračuje. Ačkoli zmítají se, však neodolají, ačkoli zvučí vlnobití jeho, však ho nepřecházejí."
+"Což se mne nebudete báti? dí Hospodin. Což před oblíčejem mým nebudete se třásti? Kterýž jsem položil písek za #cíl moři ustanovením věčným, jehož nepřekračuje. Ačkoli zmítají se, však neodolají, ačkoli zvučí vlnobití jeho, však ho nepřecházejí."
 "Ale lid tento má srdce zarputilé a zpurné, odstoupili a odešli."
 "Ani neřekli v srdci svém
 "Nepravostiť vaše překážku činí těm věcem, a hříchové vaši připravují vás o to dobré."

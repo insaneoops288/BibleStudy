@@ -17,4 +17,4 @@
 "Beato te, o paese, il cui re è di legnaggio nobile, ed i cui principi mangiano a tempo convenevole, per ristoro, e non per ebbrezza!"
 "Per la pigrizia di ambe le mani il solaio scade, e per le mani spenzolate gocciola in casa."
 "I conviti si fanno per gioire, e il vino rallegra i viventi; ed i danari rispondono a tutto."
-"Non dir male del re, non pur nel tuo pensiero; e non dir male del ricco nella camera dove tu giaci; perciocchè alcun uccello del cielo potrebbe portarne la voce, ed alcun animale alato rapportarne le parole."
+"Non dir male del re, non pur nel tuo pensiero; e non dir male del ricco nella camera dove #tu giaci; perciocchè alcun uccello del cielo potrebbe portarne la voce, ed alcun animale alato rapportarne le parole."

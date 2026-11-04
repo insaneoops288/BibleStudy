@@ -3,7 +3,7 @@
 "Oto koniom wędzidła w gęby wprawujemy, aby nam powolne były i wszystkiem ciałem ich kierujemy."
 "Oto i okręty, choć tak wielkie są i tęgiemi wiatrami pędzone bywają, wszak i najmniejszym sterem bywają kierowane, gdziekolwiek jest wola sternikowa;"
 "Tak i język mały jest członek, wszakże bardzo się wynosi. Oto maluczki ogień, jako wielki las zapala!"
-"I język jest ogień i świat niesprawiedliwości; takci jest postanowiony język między członkami naszemi, który szpeci wszystko ciało i zapala koło urodzenia naszego, i bywa zapalony od ognia piekielnego."
+"I język jest ogień i świat niesprawiedliwości; takci jest postanowiony język między członkami naszemi, który #szpeci wszystko ciało i zapala koło urodzenia naszego, i bywa zapalony od ognia piekielnego."
 "Albowiem wszelkie przyrodzenie i dzikich zwierząt, i ptaków, i gadzin, i morskich potworów bywa okrócone i jest okrócone od ludzi;"
 "Ale języka żaden z ludzi okrócić nie może, który jest nieokrócone złe i pełne jadu śmiertelnego."
 "Przez niego błogosławimy Boga i Ojca, i przez niego przeklinamy ludzi, którzy na podobieństwo Boże stworzeni są;"

@@ -6,7 +6,7 @@
 "E, depois dos dias dos pães asmos, navegámos de Filipos, e em cinco dias fomos ter com eles a Tróade, onde estivemos sete dias."
 "E no primeiro dia da semana, ajuntando-se os discípulos para partir no dia seguinte, falava com eles; e alargou a prática até à meia noite."
 "E havia muitas luzes no cenáculo onde estavam juntos."
-"E, estando um certo mancebo, por nome Eutico, assentado numa janela, caiu do terceiro andar, tomado de um sono profundo que lhe sobreveio durante o extenso discurso de Paulo, e foi levantado morto."
+"E, estando um certo mancebo, por nome Eutico, assentado numa janela, caiu do terceiro andar, tomado de #um sono profundo que lhe sobreveio durante o extenso discurso de Paulo, e foi levantado morto."
 "Paulo, porém, descendo, inclinou-se sobre ele e, abraçando-o, disse
 "E subindo, e partindo o pão, e comendo, ainda lhes falou largamente até à alvorada; e assim partiu."
 "E levaram vivo o mancebo, e ficaram não pouco consolados."

@@ -26,7 +26,7 @@
 "Pendant six jours vous en ramasserez; mais le septième jour, qui est le sabbat, il n'y en aura point."
 "Le septième jour, quelques-uns du peuple sortirent pour en ramasser, et ils n'en trouvèrent point."
 "Alors l'Eternel dit à Moïse
-"Considérez que l'Eternel vous a donné le sabbat; c'est pourquoi il vous donne au sixième jour de la nourriture pour deux jours. Que chacun reste à sa place, et que personne ne sorte du lieu où il est au septième jour."
+"Considérez que l'Eternel vous a donné le sabbat; c'est pourquoi il vous donne au sixième jour de la nourriture pour deux #jours. Que chacun reste à sa place, et que personne ne sorte du lieu où il est au septième jour."
 "Et le peuple se reposa le septième jour."
 "La maison d'Israël donna à cette nourriture le nom de manne. Elle ressemblait à de la graine de coriandre; elle était blanche, et avait le goût d'un gâteau au miel."
 "Moïse dit

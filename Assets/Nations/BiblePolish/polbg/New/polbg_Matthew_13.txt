@@ -12,7 +12,7 @@
 "Albowiem kto ma, będzie mu dano, i obfitować będzie, ale kto nie ma, i to, co ma, będzie od niego odjęto."
 "Dlategoć im w podobieństwach mówię, iż widząc nie widzą, i słysząc nie słyszą, ani rozumieją."
 "I pełni się w nich proroctwo Izajaszowe, które mówi
-"Albowiem zatyło serce ludu tego, a uszyma ciężko słyszeli, i oczy swe zamrużyli, żeby kiedy oczyma nie widzieli i uszyma nie słyszeli, a sercem nie zrozumieli, i nie nawrócili się, a uzdrowiłbym je."
+"Albowiem zatyło serce ludu tego, a uszyma ciężko słyszeli, i oczy swe zamrużyli, żeby kiedy oczyma nie #widzieli i uszyma nie słyszeli, a sercem nie zrozumieli, i nie nawrócili się, a uzdrowiłbym je."
 "Ale oczy wasze błogosławione, że widzą, i uszy wasze, że słyszą;"
 "Bo zaprawdę powiadam wam, iż wiele proroków i sprawiedliwych żądało widzieć to, co wy widzicie, ale nie widzieli, i słyszeć to, co słyszycie, ale nie słyszeli ."
 "Wy tedy słuchajcie podobieństwa onego rozsiewcy."
@@ -29,7 +29,7 @@
 "A on rzekł
 "Dopuśćcie obojgu społem rość aż do żniwa; a czasu żniwa rzekę żeńcom
 "Insze podobieństwo przełożył im, mówiąc
-"Które najmniejszeć jest ze wszystkich nasion; ale kiedy urośnie, największe jest ze wszystkich jarzyn, i staje się drzewem, tak iż ptaki niebieskie przylatując, gniazda sobie czynią na gałązkach jego."
+"Które najmniejszeć jest ze wszystkich nasion; ale kiedy urośnie, największe jest ze wszystkich jarzyn, i #staje się drzewem, tak iż ptaki niebieskie przylatując, gniazda sobie czynią na gałązkach jego."
 "Insze podobieństwo powiedział im
 "To wszystko mówił Jezus w podobieństwach do ludu, a bez podobieństwa nie mówił do nich;"
 "Aby się wypełniło, co powiedziano przez proroka mówiącego

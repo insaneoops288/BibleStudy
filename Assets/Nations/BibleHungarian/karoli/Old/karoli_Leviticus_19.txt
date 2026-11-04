@@ -31,7 +31,7 @@
 "Ne menjetek ígézõkhöz, és a jövendõmondókat ne tudakozzátok, hogy magatokat azokkal megfertõztessétek. Én vagyok az Úr, a ti Istenetek."
 "Az õsz ember elõtt kelj fel, és a vén ember orczáját becsüld meg, és félj a te Istenedtõl. Én vagyok az Úr."
 "Hogyha jövevény tartózkodik nálad, a ti földeteken, ne nyomorgassátok õt."
-"Olyan legyen néktek a jövevény, a ki nálatok tartózkodik, mintha közületek való benszülött volna, és szeressed azt mint magadat, mert jövevények voltatok Égyiptom földén. Én vagyok az Úr, a ti Istenetek."
+"Olyan legyen néktek a jövevény, a ki nálatok tartózkodik, mintha közületek való benszülött volna, és szeressed #azt mint magadat, mert jövevények voltatok Égyiptom földén. Én vagyok az Úr, a ti Istenetek."
 "Ne kövessetek el igazságtalanságot az ítéletben, a hosszmértékben, súlymértékben és ürmértékben."
 "Igaz mérték, igaz font, igaz efa, és igaz hin legyen közöttetek. Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földébõl."
 "Tartsátok meg azért minden rendelésemet és minden végzésemet, és cselekedjetek azok szerint. Én vagyok az Úr."

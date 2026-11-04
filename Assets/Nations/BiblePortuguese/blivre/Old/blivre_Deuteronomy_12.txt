@@ -3,7 +3,7 @@
 "E derrubareis seus altares, e quebrareis suas imagens, e seus bosques consumireis com fogo
 "Não fareis assim ao SENHOR vosso Deus."
 "Mas o lugar que o SENHOR vosso Deus escolher de todas as vossas tribos, para pôr ali seu nome para sua habitação, esse buscareis, e ali ireis
-"E ali levareis vossos holocaustos, e vossos sacrifícios, e vossos dízimos, e a oferta elevada de vossas mãos, e vossos votos, e vossas ofertas voluntárias, e os primogênitos de vossas vacas e de vossas ovelhas
+"E ali levareis vossos holocaustos, e vossos sacrifícios, e vossos dízimos, e a oferta elevada de vossas mãos, #e vossos votos, e vossas ofertas voluntárias, e os primogênitos de vossas vacas e de vossas ovelhas
 "E comereis ali diante do SENHOR vosso Deus, e vos alegrareis, vós e vossas famílias, em toda obra de vossas mãos em que o SENHOR teu Deus te houver abençoado."
 "Não fareis como tudo o que nós fazemos aqui agora, cada um o que lhe parece,"
 "Porque ainda até agora não entrastes ao repouso e à herança que vos dá o SENHOR vosso Deus."
@@ -14,11 +14,11 @@
 "Mas no lugar que o SENHOR escolher, em uma de tuas tribos, ali oferecerás teus holocaustos, e ali farás tudo o que eu te mando."
 "Contudo, poderás matar e comer carne em todas tuas povoações conforme o desejo de tua alma, segundo a bênção do SENHOR teu Deus que ele te houver dado
 "Salvo que sangue não comereis; sobre a terra o derramareis como água."
-"Nem poderás comer em tuas povoações o dízimo de teu grão, ou de teu vinho, ou de teu azeite, nem os primogênitos de tuas vacas, nem de tuas ovelhas, nem teus votos que prometeres, nem tuas ofertas voluntárias, nem as elevadas ofertas de tuas mãos
+"Nem poderás comer em tuas povoações o dízimo de teu grão, ou de teu vinho, ou de teu azeite, nem os primogênitos de #tuas vacas, nem de tuas ovelhas, nem teus votos que prometeres, nem tuas ofertas voluntárias, nem as elevadas ofertas de tuas mãos
 "Mas diante do SENHOR teu Deus as comerás, no lugar que o SENHOR teu Deus houver escolhido, tu, e teu filho, e tua filha, e teu servo, e tua serva, e o levita que está em tuas povoações
 "Tem cuidado de não desamparar ao levita em todos os teus dias sobre tua terra."
 "Quando o SENHOR teu Deus alargar teu termo, como ele te disse, e tu disseres
-"Quando estiver longe de ti o lugar que o SENHOR teu Deus houver escolhido, para pôr ali seu nome, matarás de tuas vacas e de tuas ovelhas, que o SENHOR te houver dado, como te mandei eu, e comerás em tuas portas segundo tudo o que desejar tua alma."
+"Quando estiver longe de ti o lugar que o SENHOR teu Deus houver escolhido, para pôr ali seu nome, matarás de tuas vacas e de #tuas ovelhas, que o SENHOR te houver dado, como te mandei eu, e comerás em tuas portas segundo tudo o que desejar tua alma."
 "O mesmo que se come o corço e o cervo, assim as comerás
 "Somente que te esforces a não comer sangue
 "Não o comerás

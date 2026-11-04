@@ -39,7 +39,7 @@
 "At kung ang anomang hayop na inyong makakain ay mamatay; ang makahipo ng bangkay niyaon ay magiging karumaldumal hanggang sa hapon."
 "At ang kumain ng bangkay niyaon ay maglalaba ng kaniyang suot, at magiging karumaldumal hanggang sa hapon
 "At bawa't umuusad na nagsisiusad sa ibabaw ng lupa, ay karumaldumal; hindi kakanin."
-"Lahat ng lumalakad ng kaniyang tiyan, at lahat ng lumalakad ng apat na paa o mayroong maraming paa, sa lahat ng bagay na umuusad sa ibabaw ng lupa, ay huwag ninyong kakanin; sapagka't mga karumaldumal nga."
+"Lahat ng lumalakad ng kaniyang tiyan, at lahat ng lumalakad ng apat na paa o mayroong maraming paa, sa #lahat ng bagay na umuusad sa ibabaw ng lupa, ay huwag ninyong kakanin; sapagka't mga karumaldumal nga."
 "Huwag kayong magpakarumal sa anomang umuusad, o huwag kayong magpakalinis man sa mga iyan, na anopa't huwag kayong mangahawa riyan,"
 "Sapagka't ako ang Panginoon ninyong Dios
 "Sapagka't ako ang Panginoon na nagsampa sa inyo mula sa lupain ng Egipto, upang ako'y inyong maging Dios

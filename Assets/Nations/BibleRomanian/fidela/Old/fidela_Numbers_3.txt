@@ -1,7 +1,7 @@
 "Acestea [sunt] de asemenea generațiile lui Aaron și Moise în ziua[ în care] DOMNUL a vorbit cu Moise pe muntele Sinai."
 "Și acestea [sunt] numele fiilor lui Aaron, Nadab întâiul născut și Abihu, Eleazar și Itamar."
 "Acestea [sunt] numele fiilor lui Aaron, preoții care au fost unși, pe care el i-a consacrat să servească în serviciul de preot."
-"Și Nadab și Abihu au murit înaintea DOMNULUI, când au oferit foc străin înaintea DOMNULUI, în pustiul Sinai și nu au avut copii și Eleazar și Itamar au servit în serviciul de preot înaintea ochilor tatălui lor Aaron."
+"Și Nadab și Abihu au murit înaintea DOMNULUI, când au oferit foc străin înaintea DOMNULUI, în pustiul Sinai și nu #au avut copii și Eleazar și Itamar au servit în serviciul de preot înaintea ochilor tatălui lor Aaron."
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Apropie tribul lui Levi și prezintă-i înaintea lui Aaron preotul, ca ei să îi servească."
 "Și ei să păzească însărcinarea lui și însărcinarea întregii adunări înaintea tabernacolului întâlnirii, pentru a face serviciul tabernacolului."
@@ -10,7 +10,7 @@
 "Și să rânduiești pe Aaron și pe fiii săi, iar ei să servească în serviciul lor preoțesc și străinul care se apropie să fie dat morții."
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Și eu, iată, am luat pe leviți dintre copiii lui Israel în locul tuturor întâilor născuți care deschid pântecele printre copiii lui Israel; de aceea leviții să fie ai mei;"
-"Deoarece toți întâii născuți [sunt] ai mei, [pentru că] în ziua în care am lovit pe toți întâii născuți în țara Egiptului mi-am sfințit pe toți întâii născuți în Israel, deopotrivă om și animal; ai mei vor fi
+"Deoarece toți întâii născuți [sunt] ai mei, [pentru că] în ziua în care am lovit pe toți întâii născuți în #țara Egiptului mi-am sfințit pe toți întâii născuți în Israel, deopotrivă om și animal; ai mei vor fi
 "Și DOMNUL i-a vorbit lui Moise în pustiul Sinai, spunând
 "Numără copiii lui Levi după casa părinților lor, după familiile lor, să îi numeri fiecare parte bărbătească de la vârsta de o lună în sus."
 "Și Moise i-a numărat conform cu cuvântul DOMNULUI, precum i s-a poruncit."
@@ -35,12 +35,12 @@
 "Și mai marele casei tatălui familiilor lui Merari [a fost] Țuriel, fiul lui Abihail, [aceștia] să își așeze [corturile] în partea de nord a tabernacolului."
 "Și [sub] custodia și însărcinarea fiilor lui Merari [să fie] scândurile tabernacolului și drugii lui și stâlpii lui și soclurile lor și toate vasele lui și tot ce servește acolo,"
 "Și stâlpii curții de jur împrejur și soclurile lor și țărușii lor și frânghiile lor."
-"Dar cei ce își așază tabăra înaintea tabernacolului spre est, înaintea tabernacolului întâlnirii spre est, [să fie] Moise și Aaron și fiii săi, având însărcinarea sanctuarului ca sarcină a copiilor lui Israel; și străinul care se apropie să fie dat morții."
-"Toți cei numărați dintre leviți, pe care Moise și Aaron i-au numărat la porunca DOMNULUI, prin toate familiile lor, toți cei de parte bărbătească în vârstă de la o lună în sus, [au fost] douăzeci și două de mii."
+"Dar cei ce își așază tabăra înaintea tabernacolului spre est, înaintea tabernacolului întâlnirii spre est, [să fie] Moise și Aaron și #fiii săi, având însărcinarea sanctuarului ca sarcină a copiilor lui Israel; și străinul care se apropie să fie dat morții."
+"Toți cei numărați dintre leviți, pe care Moise și Aaron i-au numărat la porunca DOMNULUI, prin toate familiile lor, toți #cei de parte bărbătească în vârstă de la o lună în sus, [au fost] douăzeci și două de mii."
 "Și DOMNUL i-a spus lui Moise
 "Și să iei pe leviți pentru mine (eu [sunt] DOMNUL) în locul tuturor întâilor născuți ai copiilor lui Israel; și vitele leviților în locul întâilor pui născuți ai vitelor copiilor lui Israel."
 "Și Moise a numărat precum DOMNUL i-a poruncit, pe toți întâii născuți dintre copiii lui Israel."
-"Și toți întâii născuți de parte bărbătească după numărul numelor, de la vârsta de o lună în sus, dintre cei care au fost numărați dintre ei, erau douăzeci și două de mii două sute șaptezeci și trei."
+"Și toți întâii născuți de parte bărbătească după numărul numelor, de la vârsta de o lună în sus, dintre #cei care au fost numărați dintre ei, erau douăzeci și două de mii două sute șaptezeci și trei."
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Ia pe leviți în locul tuturor întâilor născuți ai copiilor lui Israel și vitele leviților în locul vitelor acelora; și leviții să fie ai mei
 "Și pentru cei care trebuie răscumpărați, cei două sute șaptezeci și trei dintre întâii născuți ai copiilor lui Israel, care sunt mai mulți decât leviții,"

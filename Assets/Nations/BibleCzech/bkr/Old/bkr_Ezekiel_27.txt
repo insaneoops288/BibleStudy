@@ -24,7 +24,7 @@
 "Ti bývali kupci tvoji na jarmarcích tvých s nejvýbornějšími věcmi, s štoučkami postavce modrého, a s krumpováním i s klénoty drahých věcí, kteréž se provazy svazují a zavírají do cedru."
 "Lodí mořské předek měly v kupectví tvém. Summou, naplněno jsi i zvelebeno náramně u prostřed moře."
 "Na vodu velikou zavezli tě ti, kteříž tě vesly táhli; vítr východní potříská tě u prostřed moře."
-"Zboží tvá i jarmarkové tvoji, kupectví tvá, plavci tvoji a správcové tvoji, i ti, kteříž opravovali zbořeniny tvé, a směňovali s tebou kupectví, a všickni muži váleční tvoji, kteříž byli v tobě, i všecko shromáždění tvé, kteréž bylo u prostřed tebe, padnou do hlubokosti mořské v den pádu tvého."
+"Zboží tvá i jarmarkové tvoji, kupectví tvá, plavci tvoji a správcové tvoji, i ti, kteříž opravovali zbořeniny tvé, a směňovali s tebou kupectví, a všickni #muži váleční tvoji, kteříž byli v tobě, i všecko shromáždění tvé, kteréž bylo u prostřed tebe, padnou do hlubokosti mořské v den pádu tvého."
 "Od hřmotu křiku správců tvých zbouří se i vlnobití."
 "I vystoupí z lodí svých všickni ti, kteříž táhnou veslem, plavci i všickni správcové lodí mořských na zemi stanou,"
 "A hlasem velikým nad tebou naříkati a žalostně křičeti budou, a sypouce prach na hlavy své, v popele se váleti."

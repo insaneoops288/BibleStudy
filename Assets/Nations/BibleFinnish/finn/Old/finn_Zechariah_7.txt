@@ -11,4 +11,4 @@
 "Mutta ei he näistä tahtoneet ottaa vaaria, vaan käänsivät selkänsä minua vastaan, ja tukitsivat korviansa, ettei he kuulisi;"
 "Ja asettivat sydämensä niinkuin timantin, ettei he kuulisi lakia ja sanoja, jotka Herra Zebaot hengellänsä lähetti entisten prophetain kautta
 "Ja se on niin tapahtunut kuin saarnattiinkin; mutta ettei he tahtoneet kuulla, niin en minäkään tahtonut kuulla, kuin he huusivat, sanoo Herra Zebaot."
-"Ja niin minä olen heidät hajoittanut kaikkein pakanain sekaan, joita ei he tunteneet; ja maa on heidän jälkeensä autioksi jäänyt, ettei kenkään siinä vaella eikä asu; sillä he ovat sen ihanan maan hävittäneet."
+"Ja niin minä olen heidät hajoittanut kaikkein pakanain sekaan, joita ei he tunteneet; ja maa on heidän #jälkeensä autioksi jäänyt, ettei kenkään siinä vaella eikä asu; sillä he ovat sen ihanan maan hävittäneet."

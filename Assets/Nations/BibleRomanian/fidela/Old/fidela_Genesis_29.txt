@@ -7,10 +7,10 @@
 "Iar el a spus
 "Iar ei au spus
 "Şi în timp ce el încă vorbea cu ei, Rahela a venit cu oile tatălui ei, pentru că ea le păzea."
-"Şi s-a întâmplat, când Iacob a văzut-o pe Rahela, fiica lui Laban, fratele mamei sale, şi oile lui Laban, fratele mamei sale, că Iacob s-a apropiat şi a rostogolit piatra de la gura fântânii şi a adăpat turma lui Laban, fratele mamei sale."
+"Şi s-a întâmplat, când Iacob a văzut-o pe Rahela, fiica lui Laban, fratele mamei sale, şi oile lui Laban, fratele mamei sale, #că Iacob s-a apropiat şi a rostogolit piatra de la gura fântânii şi a adăpat turma lui Laban, fratele mamei sale."
 "Şi Iacob a sărutat pe Rahela şi el şi-a ridicat vocea şi a plâns."
 "Şi Iacob a povestit Rahelei că el [era] fratele tatălui ei şi că el [era] fiul Rebecăi; şi ea a alergat şi a povestit tatălui ei."
-"Şi s-a întâmplat, când Laban a auzit veştile despre Iacob, fiul surorii lui, că el a alergat să îl întâlnească şi l-a îmbrăţişat şi l-a sărutat şi l-a adus în casa lui. Şi el a povestit lui Laban toate aceste lucruri."
+"Şi s-a întâmplat, când Laban a auzit veştile despre Iacob, fiul surorii lui, că el a alergat să îl întâlnească şi #l-a îmbrăţişat şi l-a sărutat şi l-a adus în casa lui. Şi el a povestit lui Laban toate aceste lucruri."
 "Şi Laban i-a spus
 "Şi Laban i-a spus lui Iacob
 "Şi Laban avea două fiice; numele celei mai în vârstă [era] Leea şi numele celei mai tinere [era] Rahela."

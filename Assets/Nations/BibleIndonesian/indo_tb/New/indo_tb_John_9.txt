@@ -18,7 +18,7 @@
 "Tetapi orang-orang Yahudi itu tidak percaya, bahwa tadinya ia buta dan baru dapat melihat lagi, sampai mereka memanggil orang tuanya"
 "dan bertanya kepada mereka
 "Jawab orang tua itu
-"tetapi bagaimana ia sekarang dapat melihat, kami tidak tahu, dan siapa yang memelekkan matanya, kami tidak tahu juga. Tanyakanlah kepadanya sendiri, ia sudah dewasa, ia dapat berkata-kata untuk dirinya sendiri."""
+"tetapi bagaimana ia sekarang dapat melihat, kami tidak tahu, dan siapa yang memelekkan matanya, kami tidak #tahu juga. Tanyakanlah kepadanya sendiri, ia sudah dewasa, ia dapat berkata-kata untuk dirinya sendiri."""
 "Orang tuanya berkata demikian, karena mereka takut kepada orang-orang Yahudi, sebab orang-orang Yahudi itu telah sepakat bahwa setiap orang yang mengaku Dia sebagai Mesias, akan dikucilkan."
 "Itulah sebabnya maka orang tuanya berkata
 "Lalu mereka memanggil sekali lagi orang yang tadinya buta itu dan berkata kepadanya

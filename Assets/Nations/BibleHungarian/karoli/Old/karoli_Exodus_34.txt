@@ -26,7 +26,7 @@
 "Földed zsengéibõl az elsõt vidd fel az Úrnak a te Istenednek házába. Ne fõzz gödölyét az anyja tejében."
 "És monda az Úr Mózesnek
 "És ott vala az Úrral negyven nap és negyven éjjel
-"És lõn, a mikor Mózes a Sinai hegyrõl leszálla, (a Mózes kezében vala a bizonyság két táblája, mikor a hegyrõl leszálla) Mózes nem tudta, hogy az õ orczájának bõre sugárzik, mivelhogy Õvele szólott."
+"És lõn, a mikor Mózes a Sinai hegyrõl leszálla, (a Mózes kezében vala a bizonyság két táblája, #mikor a hegyrõl leszálla) Mózes nem tudta, hogy az õ orczájának bõre sugárzik, mivelhogy Õvele szólott."
 "És a mint Áron és az Izráel minden fiai meglátták Mózest, hogy az õ orczájának bõre sugárzik
 "Mózes pedig megszólítá õket, és Áron és a gyülekezetnek fejei mind hozzá menének, és szóla velök Mózes."
 "Azután az Izráel fiai is mind hozzá járulának, és megparancsolá nékik mind azt, a mit az Úr mondott néki a Sinai hegyen."

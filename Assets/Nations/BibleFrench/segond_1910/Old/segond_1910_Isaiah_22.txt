@@ -2,7 +2,7 @@
 "Ville bruyante, pleine de tumulte, Cité joyeuse! Tes morts ne périront pas par l'épée, Ils ne mourront pas en combattant."
 "Tous tes chefs fuient ensemble, Ils sont faits prisonniers par les archers; Tous tes habitants deviennent à la fois captifs, Tandis qu'ils prennent au loin la fuite."
 "C'est pourquoi je dis
-"Car c'est un jour de trouble, d'écrasement et de confusion, Envoyé par le Seigneur, l'Eternel des armées, Dans la vallée des visions. On démolit les murailles, Et les cris de détresse retentissent vers la montagne."
+"Car c'est un jour de trouble, d'écrasement et de confusion, Envoyé par le Seigneur, l'Eternel des armées, Dans #la vallée des visions. On démolit les murailles, Et les cris de détresse retentissent vers la montagne."
 "Elam porte le carquois; Des chars de combattants, des cavaliers, s'avancent; Kir met à nu le bouclier."
 "Tes plus belles vallées sont remplies de chars, Et les cavaliers se rangent en bataille à tes portes."
 "Les derniers retranchements de Juda sont forcés, Et en ce jour tu visites les armures de la maison de la forêt."

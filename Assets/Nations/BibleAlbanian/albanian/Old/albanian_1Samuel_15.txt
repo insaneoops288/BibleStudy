@@ -6,7 +6,7 @@
 "pastaj Sauli u tha Kenejve
 "Sauli i mundi Amalekitët nga Havilahu deri në Shur, që ndodhet përballë Egjiptit."
 "Ai e zuri të gjallë Agagun, mbretin e Amalekitëve, dhe vendosi shfarosjen e të gjithë popullit, duke i vrarë me shpatë."
-"Por Sauli dhe populli kursyen Agagun dhe pjesën më të mirë të deleve dhe të lopëve, të kafshëve të majme, të qengjave dhe të kafshëve më të mira, duke mos vendosur shkatërrimin e tyre; por vendosën zhdukjen e tërë sendeve që ishin të një cilësie të dobët dhe pa asnjë vlerë."
+"Por Sauli dhe populli kursyen Agagun dhe pjesën më të mirë të deleve dhe të lopëve, të kafshëve të majme, të qengjave dhe të kafshëve më #të mira, duke mos vendosur shkatërrimin e tyre; por vendosën zhdukjen e tërë sendeve që ishin të një cilësie të dobët dhe pa asnjë vlerë."
 "Atëherë fjala e Zotit iu drejtua Samuelit, duke i thënë
 """Unë jam penduar që e kam bërë Saulin mbret, sepse ai është larguar nga unë dhe nuk ka zbatuar urdhërat e mia"". Samueli u trishtua dhe i klithi tërë natën Zotit."
 "Në mëngjes herët Samueli u ngrit për t'i dalë përpara Saulit; por erdhën t'i thonë Samuelit
@@ -20,7 +20,7 @@
 "Sauli i tha Samuelit
 "Por populli mori gjërat më të mira që duhet të ishin shfarosur, për t'i bërë flijime Zotit, Perëndisë tënd, në Gilgal""."
 "Samueli i tha
-"Sepse rebelimi është si mëkati i shortarisë dhe kryeneçësia është si kulti i idhujve dhe i perëndive shtëpiake. Duke qenë se ke hedhur poshtë fjalën e Zotit, edhe ai të ka hedhur poshtë si mbret""."
+"Sepse rebelimi është si mëkati i shortarisë dhe kryeneçësia është si kulti i idhujve dhe i perëndive shtëpiake. #Duke qenë se ke hedhur poshtë fjalën e Zotit, edhe ai të ka hedhur poshtë si mbret""."
 "Atëherë Sauli i tha Samuelit
 "Por tani, të lutem, falma mëkatin tim dhe kthehu me mua, që unë të mund të bie përmbys para Zotit""."
 "Por Samueli iu përgjegj Saulit

@@ -16,8 +16,8 @@
 "Ei sinun pidä oleman panettelian sinun kansas seassa. Ei sinun pidä myös asettaman sinuas lähimmäises verta vastaan; sillä minä olen Herra."
 "Ei sinun pidä vihaaman veljeäs sinun sydämessäs; vaan sinun pitää kaiketi nuhteleman lähimmäistäs, ettes vikapääksi tulisi hänen tähtensä."
 "Ei sinun pidä kostaman, eikä vihaaman kansas lapsia. Sinun pitää rakastaman lähimmäistäs, niinkuin itse sinuas; sillä minä olen Herra."
-"Minun säätyni pitää teidän pitämän. Ei sinun pidä antaman karjas sekoittaa heitänsä muiden eläinten laihin. Ja älä kylvä peltoas sekoitetulla siemenellä. Ja ei yksikään vaate pidä tuleman sinun ylles, joka villaisesta ja liinaisesta kudottu on."
-"Jos mies makaa vaimon tykönä ja ryhtyy häneen, ja se on orja, ja jo on toiselta maattu, kuitenkaan ei ole irrallensa eli vapaaksi laskettu, se pitää suomittaman, vaan ei pidä heidän kuoleman, sillä ei hän ollut vapaa."
+"Minun säätyni pitää teidän pitämän. Ei sinun pidä antaman karjas sekoittaa heitänsä muiden eläinten laihin. Ja älä kylvä #peltoas sekoitetulla siemenellä. Ja ei yksikään vaate pidä tuleman sinun ylles, joka villaisesta ja liinaisesta kudottu on."
+"Jos mies makaa vaimon tykönä ja ryhtyy häneen, ja se on orja, ja jo on toiselta maattu, kuitenkaan ei #ole irrallensa eli vapaaksi laskettu, se pitää suomittaman, vaan ei pidä heidän kuoleman, sillä ei hän ollut vapaa."
 "Mutta miehen pitää tuoman Herralle vikansa edestä oinaan vikauhriksi, seurakunnan majan oven eteen."
 "Ja papin pitää sovittaman hänen vikauhrinsa oinaalla Herran edessä siitä rikoksesta, jolla hän on rikkonut; niin hänelle (Jumalalta) armo tapahtuu hänen rikoksestansa, jolla hän rikkonut on."
 "Koska te tulette siihen maahan ja istutatte kaikkinaisia puita, joita syödään, pitää teidän leikkaaman pois niiden hedelmän esinahan
@@ -31,7 +31,7 @@
 "Ei teidän pidä kääntämän teitänne tietäjäin tykö, ja älkäät kysykö velhoilta, ettette saastuisi heistä; sillä minä olen Herra teidän Jumalanne."
 "Harmaapään edessä pitää sinun nouseman, ja kunnioittaman vanhaa, ja pelkäämän Jumalaas; sillä minä olen Herra."
 "Jos joku muukalainen on sinun tykönäs teidän maallanne asuva, ei teidän pidä sitä ryöstämän."
-"Hänen pitää asuman teidän tykönänne, niinkuin omainen teidän seassanne. Ja sinun pitää rakastaman häntä, niinkuin itse sinuas; sillä te olitte myös muukalaiset Egyptin maalla. Minä olen Herra teidän Jumalanne."
+"Hänen pitää asuman teidän tykönänne, niinkuin omainen teidän seassanne. Ja sinun pitää rakastaman häntä, niinkuin #itse sinuas; sillä te olitte myös muukalaiset Egyptin maalla. Minä olen Herra teidän Jumalanne."
 "Ei pidä teidän vääryyttä tekemän tuomiolla
 "Oikia vaaka, oikia leiviskä, oikia vakka, oikia kannu pitää oleman teidän tykönänne; sillä minä olen Herra teidän Jumalanne, joka teitä olen johdattanut Egyptin maalta
 "Että teidän pitää pitämän ja tekemän kaikki minun säätyni, ja kaikki minun oikeuteni; sillä minä olen Herra."

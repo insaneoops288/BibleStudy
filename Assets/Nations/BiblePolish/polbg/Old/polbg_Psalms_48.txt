@@ -11,4 +11,4 @@
 "Jakie jest imię twoje, Boże! taka też jest chwała twoja aż do kończyn ziemi; sprawiedliwości pełna jest prawica twoja."
 "NIech się rozweseli góra Syon
 "Otoczcie Syon, i obstąpcie go; policzcie wieże jego."
-"Przypatrujcie się pilnie basztom jego, a oglądajcie pałace jego, abyście umieli powiadać narodowi potomnemu. Że ten Bóg jest Bogiem naszym na wieki wieczne, a iż on naszym hetmanem będzie aż do śmierci."
+"Przypatrujcie się pilnie basztom jego, a oglądajcie pałace jego, abyście umieli powiadać narodowi potomnemu. Że ten Bóg #jest Bogiem naszym na wieki wieczne, a iż on naszym hetmanem będzie aż do śmierci."

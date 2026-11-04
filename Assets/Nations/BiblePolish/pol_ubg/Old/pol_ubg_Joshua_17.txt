@@ -8,7 +8,7 @@
 "Ziemia Tappuach należała do Manassesa, ale Tappuach na granicy Manassesa należało do synów Efraima."
 "Granica ta biegła do potoku Kana, na południe od tego potoku. Te miasta Efraimitów leżą wśród miast Manassesa, ale granica Manassesa biegła od północy tego potoku, a kończyła się przy morzu."
 "Na południu był dział Efraima, a na północy Manassesa, a jego granicą było morze. Z Aszerem graniczy na północy, a z Issacharem na wschodzie."
-"I Manasses posiadał w działach Issachara i Aszera Bet-Szean i przyległe do niego miasteczka, Jibleam i przyległe do niego miasteczka, mieszkańców Dor i przyległe do niego miasteczka, mieszkańców Endor i przyległe do niego miasteczka, mieszkańców Tanaku i przyległe do niego miasteczka oraz mieszkańców Megiddo i przyległe do niego miasteczka – trzy okręgi."
+"I Manasses posiadał w działach Issachara i Aszera Bet-Szean i przyległe do niego miasteczka, Jibleam i przyległe do niego miasteczka, mieszkańców Dor i przyległe do niego miasteczka, #mieszkańców Endor i przyległe do niego miasteczka, mieszkańców Tanaku i przyległe do niego miasteczka oraz mieszkańców Megiddo i przyległe do niego miasteczka – trzy okręgi."
 "Lecz synowie Manassesa nie mogli wypędzić z tych miast ich mieszkańców, dlatego Kananejczycy dalej mieszkali w tej ziemi."
 "A gdy synowie Izraela wzmocnili się, kazali Kananejczykom płacić daninę, ale nie wypędzili ich całkowicie."
 "Wtedy synowie Józefa powiedzieli do Jozuego

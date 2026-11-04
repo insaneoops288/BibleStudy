@@ -8,7 +8,7 @@
 "Fiindcă lungimea camerelor care [erau] în curtea exterioară [era] de cincizeci de coți; și, iată, înaintea templului [erau] o sută de coți."
 "Și sub aceste camere [era] intrarea dinspre partea de est, precum cineva intră în ele din curtea exterioară."
 "Camerele [erau ]în grosimea zidului curții dinspre est, în fața locului despărțit și în fața clădirii."
-"Și calea înaintea lor[ era] ca forma camerelor dinspre nord, la fel de lungă ca ele [și ]la fel de lată ca ele; și toate ieșirile lor [erau ]deopotrivă conform cu modelele lor și conform ușilor lor."
+"Și calea înaintea lor[ era] ca forma camerelor dinspre nord, la fel de lungă ca ele [și ]la fel #de lată ca ele; și toate ieșirile lor [erau ]deopotrivă conform cu modelele lor și conform ușilor lor."
 "Și conform ușilor camerelor dinspre sud [era] o ușă la capătul căii, a căii drept înaintea zidului spre est, precum cineva intră în ele."
 "Apoi el mi-a spus
 "Când preoții intră înăuntru, atunci nu vor ieși din [locul] sfânt în curtea exterioară, ci acolo își vor pune hainele în care servesc
@@ -17,4 +17,4 @@
 "A măsurat latura de nord, cinci sute de trestii, cu trestia de măsurat, de jur împrejur."
 "A măsurat latura de sud, cinci sute de trestii, cu trestia de măsurat."
 "S-a întors spre latura de vest [și ]a măsurat cinci sute de trestii cu trestia de măsurat."
-"A măsurat-o pe cele patru laturi; aceasta avea un zid de jur împrejur, lung de cinci sute de [trestii, ]și lat de cinci sute, pentru a face o deosebire între sanctuar și locul [care] nu [este] sfânt."
+"A măsurat-o pe cele patru laturi; aceasta avea un zid de jur împrejur, lung de cinci sute de [trestii, #]și lat de cinci sute, pentru a face o deosebire între sanctuar și locul [care] nu [este] sfânt."

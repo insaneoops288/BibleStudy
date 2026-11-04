@@ -12,7 +12,7 @@
 "Mert a ki magát felmagasztalja, megaláztatik; és a ki magát megalázza, felmagasztaltatik."
 "De jaj néktek képmutató írástudók és farizeusok, mert a mennyeknek országát bezárjátok az emberek elõtt; mivelhogy ti nem mentek be, a kik be akarnának menni, azokat sem bocsátjátok be."
 "Jaj néktek képmutató írástudók és farizeusok, mert felemésztitek az özvegyek házát, és színbõl hosszan imádkoztok; ezért annál súlyosabb lesz a ti büntetéstek."
-"Jaj néktek képmutató írástudók és farizeusok! mert megkerülitek a tengert és a földet, hogy egy pogányt zsidóvá tegyetek; és ha azzá lett, a gyehenna fiává teszitek õt, kétszerte inkább magatoknál."
+"Jaj néktek képmutató írástudók és farizeusok! mert megkerülitek a tengert és a földet, hogy egy pogányt #zsidóvá tegyetek; és ha azzá lett, a gyehenna fiává teszitek õt, kétszerte inkább magatoknál."
 "Jaj néktek vak vezérek, a kik ezt mondjátok
 "Bolondok és vakok
 "És
@@ -34,6 +34,6 @@
 "Annakokáért ímé prófétákat, bölcseket és írástudókat küldök én hozzátok
 "Hogy reátok szálljon minden igaz vér, a mely kiömlött a földön, az igaz Ábelnek vérétõl Zakariásnak, a Barakiás fiának véréig, a kit a templom és az oltár között megöltetek."
 "Bizony mondom néktek, mindezek reá következnek erre a nemzetségre."
-"Jeruzsálem, Jeruzsálem! Ki megölöd a prófétákat és megkövezed azokat, a kik te hozzád küldettek, hányszor akartam egybegyûjteni a te fiaidat, miképen a tyúk egybegyûjti kis csirkéit szárnya alá; és te nem akartad."
+"Jeruzsálem, Jeruzsálem! Ki megölöd a prófétákat és megkövezed azokat, a kik te hozzád küldettek, hányszor akartam egybegyûjteni #a te fiaidat, miképen a tyúk egybegyûjti kis csirkéit szárnya alá; és te nem akartad."
 "Ímé, pusztán hagyatik néktek a ti házatok."
 "Mert mondom néktek

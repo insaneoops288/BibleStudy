@@ -8,7 +8,7 @@
 "E, se escolhia deuses novos, logo a guerra estava às portas; via-se, por isso, escudo ou lança entre quarenta mil em Israel?"
 "Meu coração é para os legisladores de Israel, que voluntariamente se ofereceram entre o povo; louvai ao SENHOR."
 "Vós, os que cavalgais sobre jumentas brancas, que vos assentais em juízo e que andais pelo caminho, falai disto."
-"Onde se ouve o estrondo dos flecheiros, entre os lugares onde se tiram águas, ali falai das justiças do SENHOR, das justiças que fez às suas aldeias em Israel; então, o povo do SENHOR descia às portas."
+"Onde se ouve o estrondo dos flecheiros, entre os lugares onde se tiram águas, ali falai das justiças do #SENHOR, das justiças que fez às suas aldeias em Israel; então, o povo do SENHOR descia às portas."
 "Desperta, desperta, Débora, desperta, desperta, entoa um cântico; levanta-te, Baraque, e leva presos teus prisioneiros, tu, filho de Abinoão."
 "Então, o Senhor fez dominar sobre os magníficos, entre o povo ao que ficou de resto; fez-me o SENHOR dominar sobre os valentes."
 "De Efraim saiu a sua raiz contra Amaleque; e após ti vinha Benjamim dentre os teus povos; de Maquir e Zabulão desceram os legisladores, passando com o cajado do escriba."
@@ -27,5 +27,5 @@
 "Entre os seus pés, se encurvou, caiu, ficou estirado; entre os seus pés, se encurvou, caiu; onde se encurvou, ali ficou abatido."
 "A mãe de Sísera olhava pela janela e exclamava pela grade
 "As mais sábias das suas damas responderam; e até ela respondia a si mesma
-"Porventura não achariam e repartiriam despojos? Uma ou duas moças a cada homem? Para Sísera despojos de várias cores, despojos de várias cores de bordados; de várias cores bordados de ambas as bandas, para os pescoços do despojo?"
+"Porventura não achariam e repartiriam despojos? Uma ou duas moças a cada homem? Para Sísera despojos de várias cores, despojos #de várias cores de bordados; de várias cores bordados de ambas as bandas, para os pescoços do despojo?"
 "Assim, ó SENHOR, pereçam todos os teus inimigos! Porém os que o amam sejam como o sol quando sai na sua força. (5-32) E sossegou a terra quarenta anos."

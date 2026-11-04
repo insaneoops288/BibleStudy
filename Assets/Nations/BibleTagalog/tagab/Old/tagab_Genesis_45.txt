@@ -1,4 +1,4 @@
-"Nang magkagayon ay hindi nakapagpigil si Jose sa harap nilang lahat na nakatayo sa siping niya; at sumigaw, Paalisin ninyo ang lahat ng tao sa aking harap. At walang taong tumayo na kasama niya samantalang si Jose ay napakikilala sa kaniyang mga kapatid."
+"Nang magkagayon ay hindi nakapagpigil si Jose sa harap nilang lahat na nakatayo sa siping niya; at sumigaw, Paalisin ninyo ang lahat #ng tao sa aking harap. At walang taong tumayo na kasama niya samantalang si Jose ay napakikilala sa kaniyang mga kapatid."
 "At siya'y umiyak ng malakas
 "At sinabi ni Jose sa kaniyang mga kapatid, Ako'y si Jose; buhay pa ba ang aking ama? At ang kaniyang mga kapatid ay hindi mangakasagot sa kaniya
 "At sinabi ni Jose sa kaniyang mga kapatid, Lumapit kayo sa akin, isinasamo ko sa inyo. At sila'y lumapit. At kaniyang sinabi
@@ -7,7 +7,7 @@
 "At sinugo ako ng Dios sa unahan ninyo upang papanatilihin kayong pinakalahi sa lupa, at upang iligtas kayong buhay sa pamamagitan ng dakilang pagliligtas."
 "Hindi nga kayo ang nagsugo sa akin dito, kundi ang Dios
 "Magmadali kayo, at pumaroon kayo sa aking ama, at sabihin ninyo sa kaniya
-"At ikaw ay tatahan sa lupain ng Gosen, at malalapit ka sa akin, ikaw at ang iyong mga anak, at ang mga anak ng iyong mga anak, at ang iyong mga kawan, at ang iyong mga bakahan, at ang iyong buong tinatangkilik."
+"At ikaw ay tatahan sa lupain ng Gosen, at malalapit ka sa akin, ikaw at ang iyong mga anak, at ang mga #anak ng iyong mga anak, at ang iyong mga kawan, at ang iyong mga bakahan, at ang iyong buong tinatangkilik."
 "At doo'y kakandilihin kita; sapagka't may limang taong kagutom pa; baka ikaw ay madukha, ikaw at ang iyong sangbahayan, at ang lahat ng iyo."
 "At, narito, nakikita ng inyong mga mata at ng mga mata ng aking kapatid na si Benjamin, na ang aking bibig ang nagsasalita sa inyo."
 "At inyong sasaysayin sa aking ama ang aking buong kaluwalhatian sa Egipto, at ang inyong buong nakita; at kayo'y magmamadali at inyong ibababa rito ang aking ama."
@@ -20,7 +20,7 @@
 "Huwag din ninyong lingapin ang inyong pag-aari; dahil sa ang buti ng buong lupain ng Egipto ay inyo."
 "At ginawang gayon ng mga anak ni Israel
 "Sa kanilang lahat ay nagbigay siya ng mga pangpalit na bihisan; nguni't kay Benjamin ay nagbigay siya ng tatlong daang putol na pilak, at limang pangpalit na bihisan."
-"At sa kaniyang ama ay nagpadala siya ng ganitong paraan; sangpung asnong may pasang mabuting mga bagay sa Egipto, at sangpung asna na may pasang trigo at tinapay at pagkain ng kaniyang ama sa daan."
+"At sa kaniyang ama ay nagpadala siya ng ganitong paraan; sangpung asnong may pasang mabuting mga bagay sa #Egipto, at sangpung asna na may pasang trigo at tinapay at pagkain ng kaniyang ama sa daan."
 "Sa ganito ay kaniyang pinapagpaalam ang kaniyang mga kapatid, at sila'y yumaon
 "At sila'y sumumpa mula sa Egipto, at naparoon sa lupain ng Canaan, kay Jacob na kanilang ama."
 "At kanilang isinaysay sa kaniya, na sinasabi, Si Jose ay buhay pa, at siya'y puno sa buong lupain ng Egipto. At ang kaniyang puso ay nanglupaypay, sapagka't di niya pinaniwalaan sila."

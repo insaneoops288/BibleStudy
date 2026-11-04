@@ -6,7 +6,7 @@
 "És beméne Hámán, és monda néki a király
 "És monda Hámán a királynak
 "Hozzanak királyi ruhát, a melyben a király jár, és lovat, a melyen a király szokott ülni és a melynek fejére királyi koronát szoktak tenni."
-"És adják azt a ruhát és lovat a király egyik legelsõ fejedelmének a kezébe, és öltöztessék fel azt a férfiút, a kinek a király tisztességet kiván, és hordozzák õt a lovon a város utczáin, és kiáltsák elõtte
+"És adják azt a ruhát és lovat a király egyik legelsõ fejedelmének a kezébe, és öltöztessék fel azt a #férfiút, a kinek a király tisztességet kiván, és hordozzák õt a lovon a város utczáin, és kiáltsák elõtte
 "Akkor monda a király Hámánnak
 "Elõhozá azért Hámán a ruhát és a lovat, és felöltözteté Márdokeust, és lovon hordozá õt a város utczáján, és kiáltá elõtte
 "És Márdokeus megtére a király kapujához. Hámán pedig siete házába, búsulva és fejét betakarva."

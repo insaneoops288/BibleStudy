@@ -10,11 +10,11 @@
 "Sinong makabibilang ng alabok ng Jacob, O ng bilang ng ikaapat na bahagi ng Israel? Mamatay nawa ako ng kamatayan ng matuwid, At ang aking wakas ay magiging gaya nawa ng kaniya!"
 "At sinabi ni Balac kay Balaam, Anong ginawa mo sa akin? Ipinagsama kita upang sumpain mo ang aking mga kaaway, at, narito, iyong pinagpala silang totoo."
 "At siya'y sumagot, at nagsabi, Hindi ba nararapat na aking pagingatang salitain yaong isinasa bibig ko ng Panginoon?"
-"At sinabi sa kaniya ni Balac, Isinasamo ko sa iyo, na sumama ka sa akin sa ibang dako, na iyong pagkakakitaan sa kanila; ang iyo lamang makikita ay ang kahulihulihang bahagi nila, at hindi mo makikita silang lahat
+"At sinabi sa kaniya ni Balac, Isinasamo ko sa iyo, na sumama ka sa akin sa ibang dako, na iyong #pagkakakitaan sa kanila; ang iyo lamang makikita ay ang kahulihulihang bahagi nila, at hindi mo makikita silang lahat
 "At dinala niya siya sa parang ng Sophim, sa taluktok ng Pisga, at nagtayo roon ng pitong dambana, at naghandog ng isang toro, at ng isang tupang lalake sa bawa't dambana."
 "At kaniyang sinabi kay Balac, Tumayo ka rito sa tabi ng iyong handog na susunugin, samantalang aking sinasalubong ang Panginoon doon."
 "At sinalubong ng Panginoon si Balaam, at pinapagsalita siya ng salita sa kaniyang bibig, at sinabi, bumalik ka kay Balac, at ganito ang iyong sasalitain."
-"At siya'y naparoon sa kaniya, at, narito, siya'y nakatayo sa tabi ng kaniyang handog na susunugin, at ang mga prinsipe sa Moab na kasama niya. At sinabi sa kaniya ni Balac, Anong sinalita ng Panginoon?"
+"At siya'y naparoon sa kaniya, at, narito, siya'y nakatayo sa tabi ng kaniyang handog na susunugin, at ang #mga prinsipe sa Moab na kasama niya. At sinabi sa kaniya ni Balac, Anong sinalita ng Panginoon?"
 "At kaniyang ibinadya ang kaniyang talinghaga, at sinabi, Tumindig ka, Balac, at iyong dinggin; Makinig ka sa akin, ikaw anak ni Zippor
 "Ang Dios ay hindi tao na magsisinungaling, Ni anak ng tao na magsisisi; Sinabi ba niya, at hindi niya gagawin? O sinalita ba niya, at hindi niya isasagawa?"
 "Narito, ako'y tumanggap ng utos na magpala

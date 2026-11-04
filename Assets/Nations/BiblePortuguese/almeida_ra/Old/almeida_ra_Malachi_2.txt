@@ -1,5 +1,5 @@
 "Agora, ó sacerdotes, este mandamento e para vós."
-"Se não ouvirdes, e se não propuserdes no vosso coração dar honra ao meu nome, diz o Senhor dos exércitos, enviarei a maldição contra vós, e amaldiçoarei as vossas bênçãos; e já as tenho amaldiçoado, porque não aplicais a isso o vosso coração."
+"Se não ouvirdes, e se não propuserdes no vosso coração dar honra ao meu nome, diz o Senhor dos exércitos, enviarei a #maldição contra vós, e amaldiçoarei as vossas bênçãos; e já as tenho amaldiçoado, porque não aplicais a isso o vosso coração."
 "Eis que vos reprovarei a posteridade, e espalharei sobre os vossos rostos o esterco, sim, o esterco dos vossos sacrifícios; e juntamente com este sereis levados para fora."
 "Então sabereis que eu vos enviei este mandamento, para que o meu pacto fosse com Levi, diz o Senhor dos exércitos."
 "Meu pacto com ele foi de vida e de paz; e eu lhas dei para que me temesse; e ele me temeu, e assombrou-se por causa do meu nome."
@@ -12,6 +12,6 @@
 "O Senhor extirpará das tendas de Jacob o homem que fizer isto, o que vela, e o que responde, e o que oferece dons ao Senhor dos exércitos."
 "Ainda fazeis isto
 "Todavia perguntais
-"E não fez ele somente um, ainda que lhe sobejava espírito? E por que somente um? Não é que buscava descendência piedosa? Portanto guardai-vos em vosso espírito, e que ninguém seja infiel para com a mulher da sua mocidade."
+"E não fez ele somente um, ainda que lhe sobejava espírito? E por que somente um? Não é que buscava #descendência piedosa? Portanto guardai-vos em vosso espírito, e que ninguém seja infiel para com a mulher da sua mocidade."
 "Pois eu detesto o divórcio, diz o Senhor Deus de Israel, e aquele que cobre de violência o seu vestido; portanto cuidai de vós mesmos, diz o Senhor dos exércitos; e não sejais infiéis."
 "Tendes enfadado ao Senhor com vossas palavras; e ainda dizeis

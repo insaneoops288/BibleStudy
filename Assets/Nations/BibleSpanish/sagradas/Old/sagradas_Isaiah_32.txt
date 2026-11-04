@@ -3,7 +3,7 @@
 "No se cegarán entonces los ojos de los que ven, y los oídos de los oyentes oirán <I>atentos</I> ."
 "Y el corazón de los tontos entenderá para saber, y la lengua de los tartamudos será desenvuelta para hablar claramente."
 "El mezquino nunca más será llamado liberal, ni será dicho generoso el avariento."
-"Porque el mezquino hablará mezquindades, y su corazón fabricará iniquidad, para hacer la impiedad; y para hablar escarnio contra el SEÑOR; dejando vacía el alma hambrienta, y quitando la bebida al sediento."
+"Porque el mezquino hablará mezquindades, y su corazón fabricará iniquidad, para hacer la impiedad; y para hablar #escarnio contra el SEÑOR; dejando vacía el alma hambrienta, y quitando la bebida al sediento."
 "Cierto los avaros malas medidas <I>tienen</I> ; él maquina pensamientos para enredar a los simples con palabras cautelosas; y para hablar en juicio <I>contra</I>  el pobre."
 "Mas el liberal pensará liberalidades; y por liberalidades subirá."
 "Mujeres reposadas, levantaos; oíd mi voz; mujeres confiadas, escuchad mi razón."

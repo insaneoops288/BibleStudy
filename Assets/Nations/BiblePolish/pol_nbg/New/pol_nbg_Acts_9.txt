@@ -36,7 +36,7 @@
 "Zaś w Joppie była pewna uczennica, imieniem Tabita, co tłumacząc powiem Gazela; ta była pełna szlachetnych uczynków oraz jałmużn, które czyniła."
 "Lecz w owych dniach zdarzyło się, że ona zachorowała i umarła. Zatem ją umyli oraz położyli w górnej komnacie."
 "Ale Lidda była blisko Joppy, więc uczniowie usłyszeli, że jest w niej Piotr i posłali do niego dwóch mężów, prosząc
-"Zatem Piotr wstał i poszedł razem z nimi. A kiedy przybył, zaprowadzili go do górnej komnaty. Obstąpiły go także wszystkie wdowy, płacząc i pokazując suknie, i płaszcze, które robiła Gazela, gdy była z nimi."
+"Zatem Piotr wstał i poszedł razem z nimi. A kiedy przybył, zaprowadzili go do górnej komnaty. Obstąpiły go #także wszystkie wdowy, płacząc i pokazując suknie, i płaszcze, które robiła Gazela, gdy była z nimi."
 "A Piotr oddalił wszystkich na zewnątrz, zgiął kolana, pomodlił się i zwrócił się do ciała, mówiąc
 "Więc podał jej rękę, podniósł ją, zwołał świętych i wdowy, i oddał ją żyjącą."
 "Zatem stało się to znane wzdłuż całej Joppy, i wielu uwierzyło w Pana."

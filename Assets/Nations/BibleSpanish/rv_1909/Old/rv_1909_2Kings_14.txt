@@ -22,8 +22,8 @@
 "Edificó él á Elath, y la restituyó á Judá, después que el rey durmió con sus padres."
 "El año quince de Amasías hijo de Joas rey de Judá, comenzó á reinar Jeroboam hijo de Joas sobre Israel en Samaria; y reinó cuarenta y un años."
 "E hizo lo malo en ojos de Jehová, y no se apartó de todos los pecados de Jeroboam hijo de Nabat, el que hizo pecar á Israel."
-"El restituyó los términos de Israel desde la entrada de Amath hasta la mar de la llanura, conforme á la palabra de Jehová Dios de Israel, la cual había él hablado por su siervo Jonás hijo de Amittai, profeta que fué de Gath-hepher."
+"El restituyó los términos de Israel desde la entrada de Amath hasta la mar de la llanura, conforme á la palabra de #Jehová Dios de Israel, la cual había él hablado por su siervo Jonás hijo de Amittai, profeta que fué de Gath-hepher."
 "Por cuanto Jehová miró la muy amarga aflicción de Israel; que no había guardado ni desamparado, ni quien diese ayuda á Israel;"
 "Y Jehová no había determinado raer el nombre de Israel de debajo del cielo
-"Y lo demás de los hechos de Jeroboam, y todas las cosas que hizo, y su valentía, y todas las guerras que hizo, y cómo restituyó á Judá en Israel á Damasco y á Hamath, ¿no está escrito en el libro de las crónicas de los reyes de Israel?"
+"Y lo demás de los hechos de Jeroboam, y todas las cosas que hizo, y su valentía, y todas las guerras que hizo, y cómo #restituyó á Judá en Israel á Damasco y á Hamath, ¿no está escrito en el libro de las crónicas de los reyes de Israel?"
 "Y durmió Jeroboam con sus padres, los reyes de Israel, y reinó en su lugar Zachârías su hijo."

@@ -8,7 +8,7 @@
 "Dhe ju, zotërinj, bëni po kështu ndaj tyre, duke i lënë kërcënimet, duke ditur që i tyre dhe juaji Zot është në qiell dhe se tek ai nuk ka asnjë anësi."
 "Për çfarë mbetet, vëllezërit e mi, forcohuni në Zotin dhe në forcën e fuqisë së tij."
 "Vishni gjithë armatimin e Perëndisë që të mund të qëndroni kundër kurtheve të djallit,"
-"sepse beteja jonë nuk është kundër gjakut dhe mishit, por kundër principatave, kundër pushteteve, kundër sunduesve të botës së errësirës të kësaj epoke, kundër frymërave të mbrapshta në vendet qiellore."
+"sepse beteja jonë nuk është kundër gjakut dhe mishit, por kundër principatave, kundër pushteteve, kundër sunduesve #të botës së errësirës të kësaj epoke, kundër frymërave të mbrapshta në vendet qiellore."
 "Prandaj merreni të gjithë armatimin e Perëndisë, që të mund të rezistoni në ditën e mbrapshtë dhe të mbeteni më këmbë pasi t'i keni kryer çdo gjë."
 "Qëndroni, pra, të fortë, duke patur në ijë brezin e së vërtetës, të veshur me parzmoren e drejtësisë,"
 "dhe duke mbathur këmbët me gatishmërinë e ungjillit të paqes,"

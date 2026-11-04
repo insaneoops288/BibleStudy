@@ -9,11 +9,11 @@
 "Ja Herra puhui Gadille, Davidin näkiälle, sanoen
 "Mene ja puhu Davidille, sanoen
 "Ja kuin Gad tuli Davidin tykö, sanoi hän hänelle
-"Taikka kolme nälkävuotta, taikka kolmen kuukauden pako vihollistes edessä ja vainollises miekan edessä, että se on käsittävä sinun, eli kolmeksi päiväksi Herran miekka ja ruttotauti maalle, niin että Herran enkeli kadottaa kaikki Israelin rajoilla. Niin ajattele siis nyt, mitä minun pitää häntä vastaamaan, joka minun on lähettänyt."
+"Taikka kolme nälkävuotta, taikka kolmen kuukauden pako vihollistes edessä ja vainollises miekan edessä, että se on käsittävä sinun, eli kolmeksi päiväksi Herran miekka ja #ruttotauti maalle, niin että Herran enkeli kadottaa kaikki Israelin rajoilla. Niin ajattele siis nyt, mitä minun pitää häntä vastaamaan, joka minun on lähettänyt."
 "David sanoi Gadille
 "Ja Herra antoi ruttotaudin tulla Israeliin, niin että Israelista lankesi seitsemänkymmentä tuhatta miestä."
 "Ja Jumala lähetti enkelin Jerusalemiin hukuttamaan sitä; ja hukuttaissa katsoi Herra siihen ja katui sitä pahaa, ja sanoi enkelille, joka hukutti
-"Ja David nosti silmänsä ja sai nähdä Herran enkelin seisovan maan ja taivaan välillä, ja ulosvedetyn miekan hänen kädessänsä ojennetun Jerusalemin päälle. Niin lankesi David ja vanhimmat kasvoillensa, puetetut säkeillä."
+"Ja David nosti silmänsä ja sai nähdä Herran enkelin seisovan maan ja taivaan välillä, ja ulosvedetyn #miekan hänen kädessänsä ojennetun Jerusalemin päälle. Niin lankesi David ja vanhimmat kasvoillensa, puetetut säkeillä."
 "Ja David sanoi Jumalalle
 "Ja Herran enkeli sanoi Gadille että hän sanois Davidille, että David menis ja rakentais Herralle alttarin Ornanin Jebusilaisen riiheen."
 "Ja David meni Gadin sanan jälkeen, jonka hän Herran nimeen puhunut oli."

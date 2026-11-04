@@ -6,7 +6,7 @@
 "Flisnin kështu për ta vënë në provë dhe për të pasur diçka për ta paditur. Por Jezusi, duke u shtënë se nuk dëgjoi, u përkul dhe shkruante me gisht në dhe."
 "Dhe, kur ata vazhdonin ta pyesnin, ai u drejtua dhe u tha atyre
 "Pastaj u përkul përsëri dhe shkruante në dhe."
-"Atëherë ata, e dëgjuan këtë dhe të bindur nga ndërgjegjja, u larguan një nga një, duke filluar nga më të vjetrit e deri te të fundit; kështu Jezusi mbeti vetëm me atë grua, që qëndronte atje në mes."
+"Atëherë ata, e dëgjuan këtë dhe të bindur nga ndërgjegjja, u larguan një nga një, duke filluar nga më të #vjetrit e deri te të fundit; kështu Jezusi mbeti vetëm me atë grua, që qëndronte atje në mes."
 "Jezusi atëherë u ngrit dhe, duke mos parë tjetër përveç gruas, i tha
 "Dhe ajo u përgjigj
 "Dhe Jezusi u foli atyre përsëri duke thënë
@@ -41,7 +41,7 @@
 "Ju bëni veprat e atit tuaj''. Prandaj ata i thanë
 "Atëherë Jezusi u tha atyre
 "Përse nuk e kuptoni thënien time? Sepse nuk mund të dëgjoni fjalën time."
-"Ju jeni nga djalli, që është ati juaj, dhe doni të bëni dëshirat e atit tuaj; ai ishte vrasës që nga fillimi dhe nuk qëndroi në të vërtetën, sepse në të nuk ka të vërtetë. Kur thotë të rrema, flet nga vetvetja, sepse është gënjeshtar dhe ati i rrenës."
+"Ju jeni nga djalli, që është ati juaj, dhe doni të bëni dëshirat e atit tuaj; ai ishte vrasës që nga fillimi dhe nuk qëndroi #në të vërtetën, sepse në të nuk ka të vërtetë. Kur thotë të rrema, flet nga vetvetja, sepse është gënjeshtar dhe ati i rrenës."
 "Kurse mua, duke qenë se ju them të vërtetën, nuk më besoni."
 "Cili nga ju më bind për mëkat? Nëse flas të vërtetën, përse nuk më besoni?"
 "Kush është prej Perëndisë, i dëgjon fjalët e Perëndisë; prandaj ju nuk dëgjoni, se nuk jeni prej Perëndisë''."

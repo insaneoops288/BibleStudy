@@ -10,7 +10,7 @@
 "Y el mandamiento que era para vida, yo encontré que era para muerte."
 "Porque el pecado, tomando ocasión por el mandamiento, me engañó, y por él me mató."
 "De manera que la ley a la verdad [es] santa, y el mandamiento [es] santo, y justo, y bueno."
-"¿Entonces lo que es bueno, vino a ser muerte para mí? ¡En ninguna manera! Pero el pecado, para mostrarse pecado, obró muerte en mí por lo que es bueno, a fin de que por el mandamiento, el pecado llegase a ser sobremanera pecaminoso."
+"¿Entonces lo que es bueno, vino a ser muerte para mí? ¡En ninguna manera! Pero el pecado, para mostrarse pecado, obró muerte #en mí por lo que es bueno, a fin de que por el mandamiento, el pecado llegase a ser sobremanera pecaminoso."
 "Porque sabemos que la ley es espiritual; pero yo soy carnal, vendido bajo pecado."
 "Porque lo que hago, no lo entiendo, pues no hago lo que quiero; sino lo que aborrezco, aquello hago."
 "Y si lo que no quiero, esto hago, apruebo que la ley es buena."

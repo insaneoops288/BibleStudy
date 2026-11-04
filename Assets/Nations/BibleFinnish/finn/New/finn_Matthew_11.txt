@@ -20,7 +20,7 @@
 "Silloin hän rupesi soimaamaan niitä kaupungeita, joissa olivat tehdyt usiammat hänen väkevät työnsä, ettei he itsiänsä parantaneet."
 "Voi sinuas Koratsin, voi sinus Betsaida! Jos senkaltaiset väkevät työt olisivät tehdyt Tyrossa ja Sidonissa kuin teissä tehdyt ovat, niin he olisivat aikaa säkissä ja tuhassa tehneet parannuksen."
 "Jonka tähden sanon minä teille
-"Ja sinä Kapernaum, joka olet korotettu taivaaseen asti! sinä pitää hamaan helvettiin sysättämän; sillä jos Sodomassa olisivat senkaltaiset väkevät työt tehdyt kuin sinussa, niin he vielä tänäpänä seisoisivat."
+"Ja sinä Kapernaum, joka olet korotettu taivaaseen asti! sinä pitää hamaan helvettiin sysättämän; sillä jos #Sodomassa olisivat senkaltaiset väkevät työt tehdyt kuin sinussa, niin he vielä tänäpänä seisoisivat."
 "Jonka tähden sanon minä teille
 "Sillä ajalla vastasi Jesus ja sanoi
 "Tosin Isä, sillä niin oli sinun hyvä tahtos."

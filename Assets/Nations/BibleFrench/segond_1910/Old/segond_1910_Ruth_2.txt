@@ -6,7 +6,7 @@
 "Le serviteur chargé de surveiller les moissonneurs répondit
 "Elle a dit
 "Boaz dit à Ruth
-"Regarde où l'on moissonne dans le champ, et va après elles. J'ai défendu à mes serviteurs de te toucher. Et quand tu auras soif, tu iras aux vases, et tu boiras de ce que les serviteurs auront puisé."
+"Regarde où l'on moissonne dans le champ, et va après elles. J'ai défendu à mes serviteurs de te toucher. Et #quand tu auras soif, tu iras aux vases, et tu boiras de ce que les serviteurs auront puisé."
 "Alors elle tomba sur sa face et se prosterna contre terre, et elle lui dit
 "Boaz lui répondit
 "Que l'Eternel te rende ce que tu as fait, et que ta récompense soit entière de la part de l'Eternel, le Dieu d'Israël, sous les ailes duquel tu es venue te réfugier!"

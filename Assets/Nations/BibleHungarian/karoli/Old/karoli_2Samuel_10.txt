@@ -3,7 +3,7 @@
 "Mondának az Ammon fiainak vezérei Hánonnak, az õ uroknak
 "Elfogatá azért Hánon a Dávid szolgáit, és szakáloknak felét lenyiratá, és ruháikat félben elmetszeté az alfelekig, és elbocsátá õket."
 "A mint ezt Dávidnak hírül hozták, eleikbe külde, (mert ezek az emberek igen meggyaláztattak) és ezt izené a király
-"Látván pedig az Ammon fiai, hogy gyûlöltekké lettek Dávid elõtt, követet küldének az Ammon fiai, és felfogadák Siriában a Béth-Réhóbbelieket és ugyancsak Siriában a Czóbeusokat, húszezer gyalogot, és Maakának királyát ezer emberrel, és a Tóbbelieket, tizenkétezer embert."
+"Látván pedig az Ammon fiai, hogy gyûlöltekké lettek Dávid elõtt, követet küldének az Ammon fiai, és felfogadák Siriában a #Béth-Réhóbbelieket és ugyancsak Siriában a Czóbeusokat, húszezer gyalogot, és Maakának királyát ezer emberrel, és a Tóbbelieket, tizenkétezer embert."
 "A mint ezt Dávid meghallá, elküldötte Joábot és a vitézeknek egész seregét."
 "Kivonulának az Ammon fiai is, és csatarendbe állottak a kapu bejárata elõtt. A Siriabeli Czóbeusok, Réhóbbeliek, Tóbbeliek és Maaka magukban valának a mezõn."
 "Látván pedig Joáb, hogy mind elõl, mind hátul ellenség van õ ellene, kiválogatá az Izráel népének színét, és a Siriabeliek ellenében állítá fel."
@@ -16,4 +16,4 @@
 "És elkülde Hadadézer, és elhozatá a Siriabelieket, a kik a vizen túl [valának,] és jövének Helámba; és Sobák, Hadadézernek fõvezére volt élükön."
 "Megizenék pedig Dávidnak, a ki egybegyûjté egész Izráelt, és általméne a Jordánon, és juta Hélámhoz
 "De a Siriabeliek megfutamodtak Izráel elõtt, és levága Dávid a Siriabeliek közül hétszáz szekerest és negyvenezer lovagot, Sobákot is, a seregnek fõvezérét megölé; és ugyanott meghala."
-"Mikor pedig látták mindazok a királyok, a kik Hadadézernek szolgái valának, hogy az Izráel által megverettek, békét kötöttek Izráellel és nékik szolgálának; és nem merének többé a Siriabeliek kijõni az Ammon fiainak segítségére."
+"Mikor pedig látták mindazok a királyok, a kik Hadadézernek szolgái valának, hogy az Izráel által megverettek, békét #kötöttek Izráellel és nékik szolgálának; és nem merének többé a Siriabeliek kijõni az Ammon fiainak segítségére."

@@ -28,5 +28,5 @@
 "Y murió Harán antes que su padre Taré en la tierra de su nacimiento, en Ur de los caldeos."
 "Y Abram y Nacor tomaron esposas para sí; el nombre de la esposa de Abram [era] Sarai, y el nombre de la esposa de Nacor, Milca, hija de Harán, padre de Milca y de Isca."
 "Mas Sarai era estéril, y no [tenía] hijo."
-"Y tomó Taré a Abram su hijo, y a Lot, hijo de Harán, hijo de su hijo, y a Sarai su nuera, esposa de Abram su hijo; y salió con ellos de Ur de los caldeos, para ir a la tierra de Canaán; y vinieron hasta Harán, y asentaron allí."
+"Y tomó Taré a Abram su hijo, y a Lot, hijo de Harán, hijo de su hijo, y a Sarai su nuera, esposa de Abram su #hijo; y salió con ellos de Ur de los caldeos, para ir a la tierra de Canaán; y vinieron hasta Harán, y asentaron allí."
 "Y fueron los días de Taré doscientos cinco años; y murió Taré en Harán."

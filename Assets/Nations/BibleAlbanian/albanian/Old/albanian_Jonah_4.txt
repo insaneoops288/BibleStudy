@@ -8,4 +8,4 @@
 "Kur u ngrit dielli Perëndia solli një erë mbytëse nga lindja, dhe dielli i ra në kokë Jonas, që e ndjeu veten të ligështuar dhe kërkoi të vdesë, duke thënë
 "Perëndia i tha Jonas
 "Por Zoti tha
-"Dhe mua nuk duhet të më vijë keq për Niniven, qytetin e madh, në të cilin ka njëqind e njëzetmijë veta që nuk dijnë të dallojnë të djathtën e tyre nga e majta e tyre, dhe një sasi të madhe kafshësh?""."
+"Dhe mua nuk duhet të më vijë keq për Niniven, qytetin e madh, në të cilin ka njëqind e njëzetmijë veta #që nuk dijnë të dallojnë të djathtën e tyre nga e majta e tyre, dhe një sasi të madhe kafshësh?""."

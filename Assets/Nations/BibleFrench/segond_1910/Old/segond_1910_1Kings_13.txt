@@ -8,7 +8,7 @@
 "L'homme de Dieu dit au roi
 "car cet ordre m'a été donné, par la parole de l'Eternel
 "Et il s'en alla par un autre chemin, il ne prit pas à son retour le chemin par lequel il était venu à Béthel."
-"Or il y avait un vieux prophète qui demeurait à Béthel. Ses fils vinrent lui raconter toutes les choses que l'homme de Dieu avait faites à Béthel ce jour-là, et les paroles qu'il avait dites au roi. Lorsqu'ils en eurent fait le récit à leur père,"
+"Or il y avait un vieux prophète qui demeurait à Béthel. Ses fils vinrent lui raconter toutes les choses que l'homme de Dieu avait #faites à Béthel ce jour-là, et les paroles qu'il avait dites au roi. Lorsqu'ils en eurent fait le récit à leur père,"
 "il leur dit
 "Et il dit à ses fils
 "Il alla après l'homme de Dieu, et il le trouva assis sous un térébinthe. Il lui dit
@@ -30,5 +30,5 @@
 "Il mit son cadavre dans le sépulcre, et l'on pleura sur lui, en disant
 "Après l'avoir enterré, il dit à ses fils
 "Car elle s'accomplira, la parole qu'il a criée, de la part de l'Eternel, contre l'autel de Béthel et contre toutes les maisons des hauts lieux qui sont dans les villes de Samarie."
-"Après cet événement, Jéroboam ne se détourna point de sa mauvaise voie. Il créa de nouveau des prêtres des hauts lieux pris parmi tout le peuple; quiconque en avait le désir, il le consacrait prêtre des hauts lieux."
+"Après cet événement, Jéroboam ne se détourna point de sa mauvaise voie. Il créa de nouveau des prêtres des hauts #lieux pris parmi tout le peuple; quiconque en avait le désir, il le consacrait prêtre des hauts lieux."
 "Ce fut là une occasion de péché pour la maison de Jéroboam, et c'est pour cela qu'elle a été exterminée et détruite de dessus la face de la terre."

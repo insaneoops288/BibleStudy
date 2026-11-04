@@ -14,7 +14,7 @@
 "Dhe ai do të jetë për ty shkak gëzimi dhe hareje, dhe shumë vetë do të gëzohen për lindjen e tij."
 "Sepse ai do të jetë i madh përpara Zotit; nuk do të pijë as verë as pije dehëse dhe do të jetë i përplotë me Frymën e Shenjtë që në barkun e s'ëmës."
 "Dhe do t'i kthejë shumë prej bijve të Izraelit te Zoti, Perëndia i tyre."
-"Dhe do të shkojë përpara tij në frymë dhe pushtet të Elias, për t'i kthyer zemrat e prindërve te fëmijët dhe rebelët në urtinë e të drejtëve, për t'ia bërë gati Zotit një popull të përgatitur mirë''."
+"Dhe do të shkojë përpara tij në frymë dhe pushtet të Elias, për t'i kthyer zemrat e prindërve te #fëmijët dhe rebelët në urtinë e të drejtëve, për t'ia bërë gati Zotit një popull të përgatitur mirë''."
 "Dhe Zakaria i tha engjëllit
 "Dhe engjëlli, duke iu përgjigjur, i tha
 "Dhe ja, ti do të jesh i pagojë dhe nuk do të mund të flasësh deri në atë ditë kur do të ndodhin këto gjëra, sepse nuk u ke besuar fjalëve të mia, të cilat do të përmbushen në kohën e tyre''."

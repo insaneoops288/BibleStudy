@@ -13,5 +13,5 @@
 "I bude, že hned jakž se zastaví kněží, nesoucí truhlu Hospodina Panovníka vší země, u vodě Jordánské, vody Jordánu rozdělí se, a vody tekoucí s vrchu zůstanou v jedné hromadě."
 "Stalo se tedy, když se bral lid z stanů svých, aby šli přes Jordán, a kněží, kteříž nesli truhlu smlouvy, před nimi,"
 "A když ti, kteříž nesli truhlu, přišli až k Jordánu, a kněží, nesoucí truhlu, omočili nohy v kraji vod
-"Že se zastavily vody, kteréž s hůry přicházely, a shrnuly se v hromadu jednu velmi daleko od Adam města, kteréž leží k straně Sartan, kteréž pak odcházely k moři dolů, k moři slanému sešly a sběhly, a lid přešel naproti Jerichu."
+"Že se zastavily vody, kteréž s hůry přicházely, a shrnuly se v hromadu jednu velmi daleko od Adam města, kteréž leží #k straně Sartan, kteréž pak odcházely k moři dolů, k moři slanému sešly a sběhly, a lid přešel naproti Jerichu."
 "Stáli pak kněží, kteříž nesli truhlu smlouvy Hospodinovy na suše u prostřed Jordánu, nehýbajíce se, (a všecken Izrael šel po suše), až se lid všecken přepravil přes Jordán."

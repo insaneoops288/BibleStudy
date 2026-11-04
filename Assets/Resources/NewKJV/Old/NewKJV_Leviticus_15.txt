@@ -10,7 +10,7 @@ And the LORD spoke to Moses and Aaron, saying,
 'Whoever touches anything that was under him shall be unclean until evening. He who carries any of those things shall wash his clothes and bathe in water, and be unclean until evening.
 'And whomever the one who has the discharge touches, and has not rinsed his hands in water, he shall wash his clothes and bathe in water, and be unclean until evening.
 'The vessel of earth that he who has the discharge touches shall be broken, and every vessel of wood shall be rinsed in water.
-'And when he who has a discharge is cleansed of his discharge, then he shall count for himself seven days for his cleansing, wash his clothes, and bathe his body in running water; then he shall be clean.
+'And when he who has a discharge is cleansed of his discharge, then he shall count for himself seven days #for his cleansing, wash his clothes, and bathe his body in running water; then he shall be clean.
 'On the eighth day he shall take for himself two turtledoves or two young pigeons, and come before the LORD, to the door of the tabernacle of meeting, and give them to the priest.
 'Then the priest shall offer them, the one as a sin offering and the other as a burnt offering. So the priest shall make atonement for him before the LORD because of his discharge.
 'If any man has an emission of semen, then he shall wash all his body in water, and be unclean until evening.
@@ -22,7 +22,7 @@ And the LORD spoke to Moses and Aaron, saying,
 'And whoever touches anything that she sat on shall wash his clothes and bathe in water, and be unclean until evening.
 'If anything is on her bed or on anything on which she sits, when he touches it, he shall be unclean until evening.
 'And if any man lies with her at all, so that her impurity is on him, he shall be unclean seven days; and every bed on which he lies shall be unclean.
-'If a woman has a discharge of blood for many days, other than at the time of her customary impurity, or if it runs beyond her usual time of impurity, all the days of her unclean discharge shall be as the days of her customary impurity. She shall be unclean.
+'If a woman has a discharge of blood for many days, other than at the time of her customary impurity, or if it runs beyond her #usual time of impurity, all the days of her unclean discharge shall be as the days of her customary impurity. She shall be unclean.
 'Every bed on which she lies all the days of her discharge shall be to her as the bed of her impurity; and whatever she sits on shall be unclean, as the uncleanness of her impurity.
 'Whoever touches those things shall be unclean; he shall wash his clothes and bathe in water, and be unclean until evening.
 'But if she is cleansed of her discharge, then she shall count for herself seven days, and after that she shall be clean.

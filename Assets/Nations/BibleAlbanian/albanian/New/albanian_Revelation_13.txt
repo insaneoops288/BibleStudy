@@ -11,7 +11,7 @@
 "Pastaj pashë një bishë tjetër, që ngjitej nga dheu, dhe kishte dy brirë që u ngjanin atyre të qengjit, por fliste si një dragua."
 "Ajo ushtronte gjithë pushtetin e bishës së parë përpara saj dhe bënte që dheu dhe banorët e tij të adhurojnë bishën e parë, së cilës iu shërua plaga vdekjeprurëse."
 "Edhe bënte shenja të mëdha, sa që edhe zjarr bënte të zbresë nga qielli mbi dhe në prani të njerëzve,"
-"dhe i mashtronte banorët e dheut me anë të shenjave që i ishin dhënë për të bërë përpara bishës, duke u thënë banorëve të dheut t'i bëjnë një figurë bishës, që kishte plagën e shpatës dhe u kthye në jetë."
+"dhe i mashtronte banorët e dheut me anë të shenjave që i ishin dhënë për të bërë përpara bishës, duke u #thënë banorëve të dheut t'i bëjnë një figurë bishës, që kishte plagën e shpatës dhe u kthye në jetë."
 "Dhe iu dha t'i japë një frymë figurës së bishës, aq sa figura e bishës të flasë, edhe të bëjë që të gjithë ata të cilët nuk e adhuronin figurën e bishës, të vriteshin."
 "Veç kësaj bëri që të gjithëve, të vegjël e të mëdhenj, dhe të pasur dhe të varfër, dhe të lirë dhe skllevër, t'u vihet një damkë mbi dorën e tyre të djathtë ose mbi ballin e tyre,"
 "dhe që askush të mos mund të blinte ose të shiste, po të mos kishte damkën ose emrin e bishës ose numrin e emrit të saj."

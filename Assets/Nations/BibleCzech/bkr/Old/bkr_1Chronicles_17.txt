@@ -18,7 +18,7 @@
 "Což ještě více mluviti má David před tebou o zvelebení služebníka tvého? Ty zajisté znáš služebníka svého."
 "Hospodine, pro služebníka svého a podlé srdce svého činíš velikou věc tuto, abys v známost uvedl všecky převeliké věci."
 "Hospodine, neníť tobě rovného, anobrž není žádného Boha kromě tebe, podlé toho všeho, jakž jsme slýchali ušima svýma."
-"Nebo kde jest který národ na zemi, jako lid tvůj Izraelský, jehož by Bůh šel, aby vykoupil sobě lid a dobyl sobě jména, čině veliké a hrozné věci, vyháněje před tváří lidu svého, kterýž jsi vykoupil z Egypta, pohany?"
+"Nebo kde jest který národ na zemi, jako lid tvůj Izraelský, jehož by Bůh šel, aby vykoupil sobě lid a #dobyl sobě jména, čině veliké a hrozné věci, vyháněje před tváří lidu svého, kterýž jsi vykoupil z Egypta, pohany?"
 "Zvolil jsi zajisté lid svůj Izraelský sobě za lid až na věky, a ty, Hospodine, sám jsi jejich Bohem."
 "Nyní tedy, Hospodine, slovo to, jímž jsi zamluvil se služebníku svému a domu jeho, budiž jisté až na věky, a učiň tak, jakž jsi mluvil."
 "Budiž, pravím, jisté, tak aby velebeno bylo jméno tvé až na věky, a říkáno

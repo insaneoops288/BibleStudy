@@ -14,7 +14,7 @@
 "Ang kahubaran ng kapatid na lalake ng iyong ama ay huwag mong ililitaw, sa asawa niya ay huwag kang sisiping
 "Ang kahubaran ng iyong manugang na babae ay huwag mong ililitaw
 "Ang kahubaran ng asawa ng iyong kapatid na lalake ay huwag mong ililitaw
-"Ang kahubaran ng isang babae at ng kaniyang anak na babae ay huwag mong ililitaw; huwag mong pakikisamahan ang anak na babae ng kaniyang anak na lalake o ang anak na babae ng kaniyang anak na babae, upang ilitaw ang kaniyang kahubaran; sila'y kamaganak na malapit
+"Ang kahubaran ng isang babae at ng kaniyang anak na babae ay huwag mong ililitaw; huwag mong pakikisamahan ang anak na babae ng kaniyang #anak na lalake o ang anak na babae ng kaniyang anak na babae, upang ilitaw ang kaniyang kahubaran; sila'y kamaganak na malapit
 "At huwag kang makikisama sa isang babaing kalakip ng kaniyang kapatid, na magiging kaagaw niya, na iyong ililitaw ang kahubaran nito, bukod sa kahubaran niyaon, sa buong buhay niya."
 "At huwag kang sisiping sa isang babae na ililitaw ang kahubaran niya habang siya'y marumi sa kaniyang karumalan."
 "At huwag kang sisiping sa asawa ng iyong kapuwa, na magpapakadumi sa kaniya."
@@ -23,7 +23,7 @@
 "At huwag kang sisiping sa anomang hayop na magpapakadumi riyan
 "Huwag kayong magpakarumi sa alin man sa mga bagay na ito; sapagka't lahat ng ito ay nangadumhan ang mga bansang aking palayasin sa harap ninyo
 "At nadumhan ang lupain
-"Inyo ngang iingatan ang aking mga palatuntunan, at ang aking mga kahatulan, at huwag kayong gagawa ng anoman sa mga karumaldumal na ito; maging ang mga tubo sa lupain o ang mga taga ibang bayan man na nakikipamayan sa inyo
+"Inyo ngang iingatan ang aking mga palatuntunan, at ang aking mga kahatulan, at huwag kayong gagawa ng anoman sa mga karumaldumal #na ito; maging ang mga tubo sa lupain o ang mga taga ibang bayan man na nakikipamayan sa inyo
 "(Sapagka't ang lahat ng karumaldumal na ito, ay ginawa ng mga tao sa lupaing iyan, na mga una kaysa inyo; at ang lupain ay nadumhan);"
 "Upang huwag naman kayong iluwa ng lupain, sa pagkahawa ninyo, na gaya ng pagluluwa sa bansang nagsitahan ng una kaysa inyo."
 "Sapagka't yaong lahat na gumawa ng alin man sa mga kahalayang ito, sa makatuwid baga'y ang mga taong magsigawa ng gayon ay ihihiwalay sa kanilang bayan."

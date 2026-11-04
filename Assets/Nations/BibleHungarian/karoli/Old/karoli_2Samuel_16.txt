@@ -1,4 +1,4 @@
-"Mikor pedig Dávid egy kevéssé alább ment a [hegy] tetejérõl, eleibe jöve Siba, a Mefibóset szolgája, két megnyergelt szamárral, melyeken kétszáz kenyér és száz kötés aszúszõlõ és száz csomó füge és egy tömlõ bor vala."
+"Mikor pedig Dávid egy kevéssé alább ment a [hegy] tetejérõl, eleibe jöve Siba, a Mefibóset szolgája, két megnyergelt #szamárral, melyeken kétszáz kenyér és száz kötés aszúszõlõ és száz csomó füge és egy tömlõ bor vala."
 "És monda a király Sibának
 "És monda a király
 "És monda a király Sibának
@@ -20,4 +20,4 @@
 "Monda pedig Absolon Akhitófelnek
 "Felele Akhitófel Absolonnak
 "Sátort vonának azért Absolonnak a tetõn, és beméne Absolon az õ atyjának ágyasaihoz, az egész Izráelnek szeme láttára."
-"És Akhitófel tanácsa, melyet adott, olyannak [tekintetett] abban az idõben, mintha valaki az Isten szavát kérdezte volna; olyan volt Akhitófelnek minden tanácsa mind Dávid elõtt, mind Absolon elõtt."
+"És Akhitófel tanácsa, melyet adott, olyannak [tekintetett] abban az idõben, mintha valaki az Isten szavát #kérdezte volna; olyan volt Akhitófelnek minden tanácsa mind Dávid elõtt, mind Absolon elõtt."

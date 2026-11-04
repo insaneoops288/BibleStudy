@@ -10,7 +10,7 @@
 "Ben-Héssed, em Arubot; também este tinha Socó e toda a terra de Héfer;"
 "Ben-Aminadab, em toda a região alta de Dor; tinha este a Tafat, filha de Salomão, por mulher;"
 "Baana, filho de Ailud, em Taanac e Megido, e em toda a Bet-Chan, que está junto a Sartan, abaixo de Jezrael, desde Bet-Chan até Abel-Meolá, para além de Joquemeam;"
-"o filho de Guéber, em Ramot de Guilead; tinha este as aldeias de Jair, filho de Manassés, as quais estão em Guilead; também tinha a região de Argob, o qual está em Basan, sessenta grandes cidades com muros e ferrolhos de bronze
+"o filho de Guéber, em Ramot de Guilead; tinha este as aldeias de Jair, filho de Manassés, as quais estão em Guilead; #também tinha a região de Argob, o qual está em Basan, sessenta grandes cidades com muros e ferrolhos de bronze
 "Ainadab, filho de Ido, em Maanaim;"
 "Aimaás, em Neftali; também este tomou a Basemate, filha de Salomão, por mulher;"
 "Baana, filho de Huchai, em Aser e em Halot;"

@@ -11,7 +11,7 @@
 "Então, três mil homens de Judá desceram até à cova da rocha de Etã e disseram a Sansão
 "E disseram-lhe
 "E eles lhe falaram, dizendo
-"E, vindo ele a Leí, os filisteus lhe saíram ao encontro, jubilando; porém o Espírito do SENHOR possantemente se apossou dele, e as cordas que ele tinha nos braços se tornaram como fios de linho que estão queimados, e as suas amarraduras se desfizeram das suas mãos."
+"E, vindo ele a Leí, os filisteus lhe saíram ao encontro, jubilando; porém o Espírito do SENHOR possantemente se apossou dele, e as cordas #que ele tinha nos braços se tornaram como fios de linho que estão queimados, e as suas amarraduras se desfizeram das suas mãos."
 "E achou uma queixada fresca de um jumento, e estendeu a sua mão, e tomou-a, e feriu com ela mil homens."
 "Então, disse Sansão
 "E aconteceu que, acabando ele de falar, lançou a queixada da sua mão e chamou àquele lugar Ramate-Leí."

@@ -4,7 +4,7 @@
 "Mas el rey, cubierto el rostro, clamaba en alta voz
 "Y entrando Joab en casa al rey, le dijo
 "Amando a los que te aborrecen, y aborreciendo a los que te aman
-"Levántate pues, ahora, y sal, y habla bondadosamente a tus siervos; porque juro por Jehová, que si no sales, no quedará ni uno contigo esta noche; y esto te será peor que todos los males que te han sobrevenido desde tu juventud hasta ahora."
+"Levántate pues, ahora, y sal, y habla bondadosamente a tus siervos; porque juro por Jehová, que si no sales, no quedará ni uno #contigo esta noche; y esto te será peor que todos los males que te han sobrevenido desde tu juventud hasta ahora."
 "Entonces se levantó el rey, y se sentó a la puerta; y fue declarado a todo el pueblo, diciendo
 "Y todo el pueblo contendía por todas las tribus de Israel, diciendo
 "Y Absalón, a quien habíamos ungido sobre nosotros, ha muerto en la batalla. ¿Por qué, pues, estáis callados con respecto a hacer volver al rey?"
@@ -21,7 +21,7 @@
 "Pero Abisai hijo de Sarvia, respondió y dijo
 "David entonces dijo
 "Y dijo el rey a Simeí
-"También Mefiboset hijo de Saúl descendió a recibir al rey; no había lavado sus pies, ni había cortado su barba, ni tampoco había lavado sus vestiduras, desde el día que el rey salió hasta el día que vino en paz."
+"También Mefiboset hijo de Saúl descendió a recibir al rey; no había lavado sus pies, ni había cortado su barba, ni #tampoco había lavado sus vestiduras, desde el día que el rey salió hasta el día que vino en paz."
 "Y luego que vino él a Jerusalén a recibir al rey, el rey le dijo
 "Y él dijo
 "Pero él ha calumniado a tu siervo delante de mi señor el rey; mas mi señor el rey es como un ángel de Dios; haz, pues, lo que bien te pareciere."
@@ -32,9 +32,9 @@
 "Y era Barzilai muy viejo, de ochenta años, el cual había dado provisión al rey cuando estaba en Mahanaim, porque era hombre muy rico."
 "Y el rey dijo a Barzilai
 "Mas Barzilai dijo al rey
-"Yo soy hoy día de edad de ochenta años, ¿podré distinguir entre lo bueno y lo malo? ¿Tomará gusto ahora tu siervo en lo que coma o beba? ¿Oiré más la voz de los cantores y de las cantoras? ¿Para qué, pues, sería aún tu siervo molesto a mi señor el rey?"
+"Yo soy hoy día de edad de ochenta años, ¿podré distinguir entre lo bueno y lo malo? ¿Tomará gusto ahora tu siervo en lo que coma o #beba? ¿Oiré más la voz de los cantores y de las cantoras? ¿Para qué, pues, sería aún tu siervo molesto a mi señor el rey?"
 "Pasará tu siervo un poco más allá del Jordán con el rey; ¿por qué me ha de dar el rey tan grande recompensa?"
-"Yo te ruego que dejes volver a tu siervo, y que muera en mi ciudad, junto al sepulcro de mi padre y de mi madre. He aquí tu siervo Quimam; que pase él con mi señor el rey, y haz a él lo que bien te pareciere."
+"Yo te ruego que dejes volver a tu siervo, y que muera en mi ciudad, junto al sepulcro de mi padre y de mi #madre. He aquí tu siervo Quimam; que pase él con mi señor el rey, y haz a él lo que bien te pareciere."
 "Y el rey dijo
 "Y todo el pueblo pasó el Jordán; y luego que el rey hubo también pasado, el rey besó a Barzilai, y lo bendijo; y él se volvió a su casa."
 "El rey entonces pasó a Gilgal, y con él pasó Quimam; y todo el pueblo de Judá, con la mitad del pueblo de Israel, pasaron al rey."

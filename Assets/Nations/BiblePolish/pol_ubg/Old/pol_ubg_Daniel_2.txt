@@ -6,7 +6,7 @@
 "Ale jeśli oznajmicie mi sen i jego znaczenie, otrzymacie ode mnie dary i nagrody oraz wielką cześć. Dlatego oznajmijcie mi sen i jego znaczenie."
 "Odpowiedzieli powtórnie
 "Król odpowiedział
-"Jeśli więc nie oznajmicie mi snu, jest dla was tylko jeden dekret. Postanowiliście bowiem mówić wobec mnie słowa kłamliwe i przewrotne, aż czas upłynie. Dlatego oznajmijcie mi sen, a przekonam się, że będziecie mogli objaśnić mi jego znaczenie."
+"Jeśli więc nie oznajmicie mi snu, jest dla was tylko jeden dekret. Postanowiliście bowiem mówić wobec mnie słowa kłamliwe i #przewrotne, aż czas upłynie. Dlatego oznajmijcie mi sen, a przekonam się, że będziecie mogli objaśnić mi jego znaczenie."
 "Chaldejczycy odpowiedzieli królowi
 "Rzecz, której król wymaga, jest trudna, a nie ma nikogo, kto by mógł ją oznajmić królowi, oprócz bogów, którzy nie mieszkają wśród ludzi."
 "Z tej przyczyny król się rozzłościł i bardzo się rozgniewał, i rozkazał wytracić wszystkich mędrców Babilonu."
@@ -25,7 +25,7 @@
 "Wtedy Arioch z pośpiechem wprowadził Daniela do króla i tak mu powiedział
 "Król odpowiedział Danielowi, któremu na imię było Belteszassar
 "Daniel odpowiedział królowi
-"Jest jednak Bóg w niebie, który objawia tajemnice, i on oznajmił królowi Nabuchodonozorowi, co nastąpi w ostatecznych dniach. Twój sen i widzenia w twojej głowie, które miałeś na swoim łożu, są takie;"
+"Jest jednak Bóg w niebie, który objawia tajemnice, i on oznajmił królowi Nabuchodonozorowi, co nastąpi w ostatecznych #dniach. Twój sen i widzenia w twojej głowie, które miałeś na swoim łożu, są takie;"
 "Tobie, królu, przychodziły na twoim łożu myśli o tym, co ma nastąpić później. Ten zaś, który objawia tajemnice, oznajmił ci to, co nastąpi."
 "I mnie została objawiona tajemnica, nie za jakąś mądrość, jakbym miał jej więcej niż wszyscy żyjący, ale przez modlitwę, aby znaczenie snu było oznajmione królowi i abyś poznał myśli swego serca."
 "Ty, królu, miałeś takie widzenie
@@ -38,11 +38,11 @@
 "I dał w twoją rękę wszystko to, gdzie mieszkają synowie ludzi, zwierzęta polne i ptactwo niebieskie, i ustanowił cię panem nad tym wszystkim. Ty jesteś tą głową ze złota."
 "Ale po tobie powstanie inne królestwo, mniejsze od twojego, a potem trzecie królestwo z brązu, które będzie panować nad całą ziemią."
 "Czwarte królestwo będzie mocne jak żelazo, bo jak żelazo kruszy i miażdży wszystko, jak żelazo łamie wszystko, tak i ono połamie i pokruszy wszystko."
-"A że widziałeś stopy i palce częściowo z gliny garncarskiej, a częściowo z żelaza – oznacza to, że królestwo będzie podzielone. Będzie w nim nieco siły żelaza, tak jak widziałeś żelazo zmieszane z mulistą gliną;"
+"A że widziałeś stopy i palce częściowo z gliny garncarskiej, a częściowo z żelaza – oznacza to, że #królestwo będzie podzielone. Będzie w nim nieco siły żelaza, tak jak widziałeś żelazo zmieszane z mulistą gliną;"
 "A palce stóp częściowo z żelaza a częściowo z gliny znaczą, że królestwo będzie częściowo silne, a częściowo kruche."
 "A że widziałeś żelazo zmieszane z mulistą gliną, oznacza to, że się zmieszają ze sobą ludzie, ale nie będzie się trzymał jeden drugiego, tak jak żelaza nie można zmieszać z gliną."
-"Ale w dniach tych królów Bóg nieba wzbudzi królestwo, które nigdy nie będzie zniszczone. To królestwo nie przejdzie na inny lud, ale połamie i zniszczy wszystkie te królestwa, samo zaś będzie trwać na wieki."
-"To, że widziałeś, jak kamień został odcięty z góry bez pomocy rąk i skruszył żelazo, brąz, glinę, srebro i złoto, oznacza, że wielki Bóg oznajmił królowi, co nastąpi potem. Sen jest prawdziwy i jego znaczenie pewne."
+"Ale w dniach tych królów Bóg nieba wzbudzi królestwo, które nigdy nie będzie zniszczone. To królestwo nie przejdzie #na inny lud, ale połamie i zniszczy wszystkie te królestwa, samo zaś będzie trwać na wieki."
+"To, że widziałeś, jak kamień został odcięty z góry bez pomocy rąk i skruszył żelazo, brąz, glinę, srebro i #złoto, oznacza, że wielki Bóg oznajmił królowi, co nastąpi potem. Sen jest prawdziwy i jego znaczenie pewne."
 "Wtedy król Nabuchodonozor padł na twarz, oddał pokłon Danielowi i rozkazał, aby złożono mu ofiarę i kadzidło."
 "Następnie król zwrócił się do Daniela i powiedział
 "Potem król wywyższył Daniela i dał mu wiele wielkich darów, i uczynił go panem nad całą prowincją Babilonu i głównym przełożonym nad wszystkimi mędrcami Babilonu."

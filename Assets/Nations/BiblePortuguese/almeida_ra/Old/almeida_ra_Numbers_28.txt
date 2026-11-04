@@ -9,9 +9,9 @@
 "No dia de sábado oferecerás dois cordeiros de um ano, sem defeito, e dois décimos de efá de flor de farinha, misturada com azeite, em oferta de cereais, com a sua oferta de libação;"
 "é o holocausto de todos os sábados, além do holocausto contínuo e a sua oferta de libação."
 "Nos princípios dos vossos meses oferecereis em holocausto ao Senhor
-"e três décimos de efá de flor de farinha, misturada com azeite, em oferta de cereais, para cada novilho; e dois décimos de efá de flor de farinha, misturada com azeite, em oferta de cereais, para o carneiro;"
+"e três décimos de efá de flor de farinha, misturada com azeite, em oferta de cereais, para cada novilho; e #dois décimos de efá de flor de farinha, misturada com azeite, em oferta de cereais, para o carneiro;"
 "e um décimo de efá de flor de farinha, misturada com azeite, em oferta de cereais, para cada cordeiro; é holocausto de cheiro suave, oferta queimada ao Senhor."
-"As ofertas de libação do mesmo serão a metade de um him de vinho para um novilho, e a terça parte de um him para um carneiro, e a quarta parte de um him para um cordeiro; este é o holocausto de cada mês, por todos os meses do ano."
+"As ofertas de libação do mesmo serão a metade de um him de vinho para um novilho, e a terça parte de um him para um #carneiro, e a quarta parte de um him para um cordeiro; este é o holocausto de cada mês, por todos os meses do ano."
 "Também oferecerás ao Senhor um bode como oferta pelo pecado; oferecer-se-á esse além do holocausto contínuo, com a sua oferta de libação."
 "No primeiro mês, aos catorze dias do mês, é a páscoa do Senhor."
 "E aos quinze dias do mesmo mês haverá festa; por sete dias se comerão pães ázimos."

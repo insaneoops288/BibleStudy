@@ -17,7 +17,7 @@
 "Niin Saul sanoi Mikalille
 "Ja David pakeni ja pääsi, ja tuli Samuelin tykö, joka oli Ramassa, ja ilmoitti hänelle kaikki, mitä Saul oli hänelle tehnyt; ja hän meni Samuelin kanssa ja oleskeli Najotissa."
 "Ja se ilmoitettiin Saulille, sanoen
-"Niin Saul lähetti sanansaattajat tuomaan Davidia; ja he näkivät prophetain kokouksen propheteeraavan ja Samuelin seisovan, asetetun heidän päällensä. Niin Jumalan henki tuli Saulin sanansaattajain päälle, että ne myös propheteerasivat."
+"Niin Saul lähetti sanansaattajat tuomaan Davidia; ja he näkivät prophetain kokouksen propheteeraavan ja Samuelin seisovan, #asetetun heidän päällensä. Niin Jumalan henki tuli Saulin sanansaattajain päälle, että ne myös propheteerasivat."
 "Kuin se ilmoitettiin Saulille, lähetti hän toiset sanansaattajat, ne myös propheteerasivat; ja hän lähetti vielä kolmannet sanansaattajat, jotka myös propheteerasivat."
 "Niin meni hän itse viimein Ramaan, ja kuin hän tuli sen suuren kaivon tykö, joka on Sekossa, kysyi hän ja sanoi
 "Ja hän meni Raman Najotiin; ja Jumalan henki tuli hänenkin päällensä, ja hän käyskenteli ja propheteerasi siihenasti kuin hän tuli Raman Najotiin."

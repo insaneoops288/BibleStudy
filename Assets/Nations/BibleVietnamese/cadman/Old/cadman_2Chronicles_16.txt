@@ -11,4 +11,4 @@
 "Nầy các công việc của A-sa, từ đầu đến cuối, đều đã chép trong sách các vua Giu-đa và Y-sơ-ra-ên."
 "Năm thứ ba mươi chín đời A-sa trị vì, A-sa bị đau chơn, đến đỗi nặng lắm; trong cơn bịnh người không tìm kiếm Ðức Giê-hô-va, nhưng tìm kiếm những thầy thuốc."
 "A-sa an giấc cùng tổ phụ người, băng hà năm thứ bốn mươi mốt đời người trị vì."
-"Người ta chôn người nơi mồ mả chính người đã đào cho mình trong thành Ða-vít, để người nằm trên một cái giường đầy thuốc thơm, chế theo phép hòa hương; đoạn người ta xông hương cho người rất nhiều."
+"Người ta chôn người nơi mồ mả chính người đã đào cho mình trong thành Ða-vít, để người nằm trên một #cái giường đầy thuốc thơm, chế theo phép hòa hương; đoạn người ta xông hương cho người rất nhiều."

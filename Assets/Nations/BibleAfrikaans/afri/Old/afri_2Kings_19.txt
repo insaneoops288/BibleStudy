@@ -1,7 +1,7 @@
 "En toe koning Hiskía dit hoor, het hy sy klere geskeur en hom met 'n roukleed bedek en in die huis van die HERE gegaan."
 "Daarna stuur hy Éljakim wat oor die paleis was, en Sebna, die skrywer, en die oudstes van die priesters, met rouklere bedek, na die profeet Jesaja, die seun van Amos."
 "En hulle sê vir hom
-"Miskien sal die HERE u God al die woorde hoor van die rábsake wat deur sy heer, die koning van Assirië, gestuur is om die lewende God te smaad, en sal Hy hom straf oor die woorde wat die HERE u God gehoor het; hef dan 'n gebed op vir die oorblyfsel wat nog aanwesig is."
+"Miskien sal die HERE u God al die woorde hoor van die rábsake wat deur sy heer, die koning van Assirië, gestuur is om die lewende God te smaad, #en sal Hy hom straf oor die woorde wat die HERE u God gehoor het; hef dan 'n gebed op vir die oorblyfsel wat nog aanwesig is."
 "En toe die dienaars van koning Hiskía by Jesaja kom,"
 "sê Jesaja vir hulle
 "Kyk, Ek sal 'n gees in hom gee, dat hy 'n gerug hoor en na sy land terugtrek, en Ek sal hom in sy land deur die swaard laat val."
@@ -32,6 +32,6 @@
 "Daarom, so sê die HERE aangaande die koning van Assirië
 "Met die pad wat hy gekom het, sal hy teruggaan; maar in hierdie stad sal hy nie inkom nie, spreek die HERE."
 "En Ek sal hierdie stad beskut, om dit te verlos, ter wille van My en my kneg Dawid."
-"En in dieselfde nag het die engel van die HERE uitgetrek en in die laer van die Assiriërs honderd vyf en tagtig duisend verslaan; en toe hulle die môre vroeg hul klaarmaak,was dit almal dooie liggame!"
+"En in dieselfde nag het die engel van die HERE uitgetrek en in die laer van die Assiriërs honderd #vyf en tagtig duisend verslaan; en toe hulle die môre vroeg hul klaarmaak,was dit almal dooie liggame!"
 "En Sánherib, die koning van Assirië, het opgebreek en weggetrek en teruggegaan en in Ninevé gebly."
-"En toe hy hom neerbuig in die tempel van sy god Nisrog, het sy seuns Adramméleg en Saréser hom met die swaard neergeslaan; maar hulle het ontvlug na die land Ararat; en sy seun Esar-Haddon het in sy plek koning geword."
+"En toe hy hom neerbuig in die tempel van sy god Nisrog, het sy seuns Adramméleg en Saréser hom met die #swaard neergeslaan; maar hulle het ontvlug na die land Ararat; en sy seun Esar-Haddon het in sy plek koning geword."

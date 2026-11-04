@@ -21,7 +21,7 @@
 "i pari i gjysmës së fisit të Manasit në Galaad, Ido, bir i Zakarias; i pari i Beniaminit, Jaasieli, bir i Abnerit;"
 "i pari i Danit, Azareeli, bir i Jerohamit. Këta ishin të parët e fiseve të Izraelit."
 "Por Davidi nuk bëri regjistrimin e atyre që ishin më pak se njëzet vjeç, sepse Zoti i kishte thënë që do ta shumëzonte Izraelin si yjet e qiellit."
-"Joabi, bir i Tserujahut, kishte filluar regjistrimin e popullsisë por nuk e kishte përfunduar; prandaj zëmërimi i Zotit goditi Izraelin dhe numri i të regjistruarve nuk u përfshi në Kronikat e mbretit David."
+"Joabi, bir i Tserujahut, kishte filluar regjistrimin e popullsisë por nuk e kishte përfunduar; prandaj zëmërimi i #Zotit goditi Izraelin dhe numri i të regjistruarve nuk u përfshi në Kronikat e mbretit David."
 "Azmavethi, bir i Adielit, ishte ngarkuar me thesaret e mbretit; Jonathani, bir i Uziahut, ishte ngarkuar me thesaret që ndodheshin në fshatrat, në qytetet dhe në kalatë;"
 "Ezri, bir i Kelubit, ishte caktuar për punonjësit që punonin tokën;"
 "Shimei nga Ramahu ishte caktuar për vreshtat; Zabdihu i Sefamit ishte caktuar për prodhimin e vreshtave që depozitohej në kantina;"

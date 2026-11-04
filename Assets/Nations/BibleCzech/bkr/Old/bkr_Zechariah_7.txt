@@ -4,7 +4,7 @@
 "I stalo se slovo Hospodina zástupů ke mně, řkoucí
 "Rci všemu lidu této země i kněžím takto
 "A když jíte aneb pijete, zdaliž ne pro sebe jíte a ne pro sebe pijete?"
-"Zdaliž tato nejsou slova, kteráž prohlásil Hospodin skrze proroky předešlé, když ještě Jeruzalém seděl bezpečně a užíval pokoje, i města jeho vůkol něho, a lid v straně polední i na rovinách bydlil?"
+"Zdaliž tato nejsou slova, kteráž prohlásil Hospodin skrze proroky předešlé, když ještě Jeruzalém seděl bezpečně a užíval #pokoje, i města jeho vůkol něho, a lid v straně polední i na rovinách bydlil?"
 "I stalo se slovo Hospodinovo k Zachariášovi, řkoucí
 "Takto mluvíval Hospodin zástupů, řka
 "A vdovy ani sirotka, příchozího ani chudého neutiskejte, a zlého žádný bližnímu svému neobmýšlejte v srdci svém."

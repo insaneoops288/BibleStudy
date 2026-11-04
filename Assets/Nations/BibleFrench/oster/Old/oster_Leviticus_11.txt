@@ -7,7 +7,7 @@
 "Le porc, car il a l'ongle divisé et le pied fourché, mais il ne rumine pas; il vous sera souillé;"
 "Vous ne mangerez point de leur chair, vous ne toucherez point leur cadavre; ils vous seront souillés."
 "Voici ce que vous mangerez de tout ce qui est dans les eaux
-"Mais tout ce qui n'a point de nageoires ni d'écailles, dans les mers et dans les rivières, parmi tout ce qui fourmille dans les eaux, et parmi tout être vivant dans les eaux, vous sera en abomination."
+"Mais tout ce qui n'a point de nageoires ni d'écailles, dans les mers et dans les rivières, parmi tout #ce qui fourmille dans les eaux, et parmi tout être vivant dans les eaux, vous sera en abomination."
 "Ils vous seront en abomination; vous ne mangerez point de leur chair, et vous tiendrez pour abominable leur cadavre."
 "Tout ce qui n'a pas de nageoires et d'écailles dans les eaux, vous sera en abomination."
 "Et voici parmi les oiseaux ceux que vous tiendrez pour abominables; on ne les mangera pas, c'est une abomination
@@ -29,7 +29,7 @@
 "Et voici ce qui sera souillé pour vous parmi les animaux qui rampent sur la terre
 "La musaraigne, la grenouille, la tortue, la limace et le caméléon."
 "Ceux-là sont souillés pour vous entre tous les reptiles; quiconque les touchera morts, sera souillé jusqu'au soir."
-"Tout objet sur lequel il en tombera quand ils seront morts, sera souillé, ustensile de bois, vêtement, peau, sac, tout objet dont on fait usage; il sera mis dans l'eau, et sera souillé jusqu'au soir, puis il sera pur."
+"Tout objet sur lequel il en tombera quand ils seront morts, sera souillé, ustensile de bois, vêtement, peau, sac, tout #objet dont on fait usage; il sera mis dans l'eau, et sera souillé jusqu'au soir, puis il sera pur."
 "Et s'il en tombe quelque chose dans un vase de terre, tout ce qui se trouvera dedans sera souillé, et vous briserez le vase."
 "Tout aliment qu'on mange, sur lequel il sera tombé de cette eau, sera souillé; et tout breuvage qu'on boit, dans quelque vase que ce soit, en sera souillé."
 "Tout objet sur lequel tombera quelque chose de leur corps mort, sera souillé; le four et le foyer seront détruits; ils sont souillés, et ils vous seront souillés."
@@ -39,7 +39,7 @@
 "Et quand une des bêtes qui vous sert de nourriture mourra, celui qui en touchera le cadavre, sera souillé jusqu'au soir."
 "Celui qui mangera de son corps mort lavera ses vêtements, et sera souillé jusqu'au soir; et celui qui portera son corps mort, lavera ses vêtements, et sera souillé jusqu'au soir."
 "Tout reptile qui rampe sur la terre est une abomination; on n'en mangera point."
-"Vous ne mangerez point, parmi les reptiles qui rampent sur la terre, ceux qui marchent sur le ventre, ni ceux qui marchent sur quatre pieds, ou sur un grand nombre de pieds; car ils sont une abomination."
+"Vous ne mangerez point, parmi les reptiles qui rampent sur la terre, ceux qui marchent sur le ventre, ni #ceux qui marchent sur quatre pieds, ou sur un grand nombre de pieds; car ils sont une abomination."
 "Ne rendez point vos personnes abominables par aucun reptile qui rampe, ne vous rendez point impurs par eux, ne vous souillez point par eux."
 "Car je suis l'Éternel, votre Dieu; vous vous sanctifierez, et vous serez saints; car je suis saint. Et vous ne souillerez point vos personnes par aucun de ces reptiles qui rampent sur la terre."
 "Car je suis l'Éternel, qui vous ai fait monter du pays d'Égypte, pour être votre Dieu; vous serez saints, car je suis saint."

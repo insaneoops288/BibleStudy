@@ -18,8 +18,8 @@
 "Sa araw na yaon ay magkakaroon ng limang bayan sa lupain ng Egipto, na mangagsasalita ng wika ng Canaan, at magsisisumpa sa Panginoon ng mga hukbo; isa'y tatawagin
 "Sa araw na yaon ay magkakaroon ng isang dambana sa Panginoon sa gitna ng lupain ng Egipto, at isang haligi sa hangganan niyaon sa Panginoon."
 "At magiging pinakatanda at pinakasaksi sa Panginoon ng mga hukbo sa lupain ng Egipto
-"At ang Panginoon ay makikilala sa Egipto, at makikilala ng mga Egipcio ang Panginoon sa araw na yaon; oo, sila'y magsisisamba na may hain at alay, at magsisipanata ng panata sa Panginoon, at tutuparin."
+"At ang Panginoon ay makikilala sa Egipto, at makikilala ng mga Egipcio ang Panginoon sa araw na yaon; #oo, sila'y magsisisamba na may hain at alay, at magsisipanata ng panata sa Panginoon, at tutuparin."
 "At sasaktan ng Panginoon ang Egipto, na nananakit at magpapagaling; at sila'y manunumbalik sa Panginoon, at siya'y madadalanginan nila, at pagagalingin niya sila."
-"Sa araw na yaon ay magkakaroon ng lansangan mula sa Egipto hanggang sa Asiria, at ang mga taga Asiria ay magsisipasok sa Egipto, at ang mga Egipcio ay sa Asiria, at ang mga Egipcio ay magsisisambang kasama ng mga taga Asiria."
+"Sa araw na yaon ay magkakaroon ng lansangan mula sa Egipto hanggang sa Asiria, at ang mga taga Asiria ay magsisipasok #sa Egipto, at ang mga Egipcio ay sa Asiria, at ang mga Egipcio ay magsisisambang kasama ng mga taga Asiria."
 "Sa araw na yao'y magiging pangatlo ang Israel sa Egipto at sa Asiria, na pagpapala sa gitna ng lupain
 "Sapagka't pinagpala sila ng Panginoon ng mga hukbo, na sinasabi, Pagpalain ang bayan kong Egipto, at ang Asiria na gawa ng aking mga kamay, at ang Israel na aking mana."

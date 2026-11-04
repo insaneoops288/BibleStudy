@@ -8,4 +8,4 @@
 "Sõt Jeruzsálemben is beállíta némelyeket Jósafát a Léviták, papok és az Izráel nemzetségeibõl való fejedelmek közül az Úr ítéletére és a perlekedésekre. És õk Jeruzsálembe visszatérének."
 "És meghagyá nékik, mondván
 "Ha valamely pert elõtökbe hoznak a ti atyátokfiai, a kik lakoznak az õ városaikban, emberhalál, törvény és parancsolat, a rendtartások és ítéletek miatt
-"És ímé Amária pap lesz a fõ ti köztetek az Úrnak minden dolgaiban; és Zebádia, az Ismáel fia lesz a Júda házának vezére a király minden dolgában; a Léviták is elõljáróitok lesznek. Legyetek azért erõsek a ti tisztetekben és az Úr mellette lesz az igaznak."
+"És ímé Amária pap lesz a fõ ti köztetek az Úrnak minden dolgaiban; és Zebádia, az Ismáel fia lesz a Júda házának vezére #a király minden dolgában; a Léviták is elõljáróitok lesznek. Legyetek azért erõsek a ti tisztetekben és az Úr mellette lesz az igaznak."

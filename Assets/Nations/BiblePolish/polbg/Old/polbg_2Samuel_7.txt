@@ -20,7 +20,7 @@
 "I cóż więcej ma mówić Dawid przed tobą? albowiem ty znasz sługę twego, o Panie Boże."
 "Dla słowa twego, a według serca twego uczyniłeś te wszystkie wielkie rzeczy, oznajmując je słudze twemu."
 "Przetoż wielmożnym jesteś, Panie Boże; bo nie masz podobnego tobie, i nie masz Boga oprócz ciebie, według wszystkiego, cośmy słyszeli w uszy nasze."
-"I gdzież jest taki lud na ziemi, jako Izrael? dla któregoby Bóg szedł aby go sobie odkupił za lud, i uczynił sobie imię, i sprawił wam wielkie i straszne rzeczy w ziemi twojej, przed obliczem ludu twego, któryś sobie wykupił z Egiptu, z pogaństw a i z bogów ich;"
+"I gdzież jest taki lud na ziemi, jako Izrael? dla któregoby Bóg szedł aby go sobie odkupił za lud, i uczynił sobie imię, i sprawił #wam wielkie i straszne rzeczy w ziemi twojej, przed obliczem ludu twego, któryś sobie wykupił z Egiptu, z pogaństw a i z bogów ich;"
 "I zmocniłeś sobie lud twój Izraelski, abyć był ludem aż na wieki; a ty Panie stałeś się im za Boga."
 "Przetoż teraz, o Panie Boże, słowo, któreś powiedział o słudze twoim i o domu jego, utwierdź aż na wieki, a uczyń tak jakoś mówił,"
 "Aby uwielbione było imię twoje aż na wieki, żeby mówiono

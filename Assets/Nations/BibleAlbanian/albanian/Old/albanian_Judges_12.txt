@@ -1,9 +1,9 @@
 "Njerëzit e Efraimit u mblodhën, kaluan në Tsafon dhe i thanë Jefteut
 "Jefteu iu përgjegj atyre
-"Kështu, duke parë se nuk më vinit në ndihmë, vura në rrezik jetën time dhe marshova kundër bijve të Amonit, dhe Zoti m'i dha në duart e mia. Pse, pra, jeni ngritur sot kundër meje për të më luftuar?""."
+"Kështu, duke parë se nuk më vinit në ndihmë, vura në rrezik jetën time dhe marshova kundër bijve të Amonit, #dhe Zoti m'i dha në duart e mia. Pse, pra, jeni ngritur sot kundër meje për të më luftuar?""."
 "Pastaj Jefteu mblodhi tërë njerëzit e Galaadit dhe u ndesh me Efraimin; dhe njerëzit e Galaadit e mundën Efraimin, sepse këta thonin
 "Njerëzit e Galaadit zunë vatë e Jordanit para se të arrinin ata të Efraimit; kështu kur ndonje nga ikanakët e Efraimit thoshte
-"""Atëherë thuaj Shiboleth; në rast se ai thoshte ""Shiboleth"", sepse nuk mund ta shqiptonte si duhet, e kapnin dhe e vrisnin pranë vaut të Jordanit. Në atë kohë u vranë në këtë mënyrë dyzet e dy mijë njerëz të Efraimit."
+"""Atëherë thuaj Shiboleth; në rast se ai thoshte ""Shiboleth"", sepse nuk mund ta shqiptonte si duhet, e kapnin dhe e vrisnin #pranë vaut të Jordanit. Në atë kohë u vranë në këtë mënyrë dyzet e dy mijë njerëz të Efraimit."
 "Jefteu ushtroi funksionin e gjyqtarit gjashtë vjet me radhë. Pastaj Jefteu, Galaaditi, vdiq dhe u varros në një nga qytetet e Galaadit."
 "Mbas tij gjyqtar i Izraelit u bë Ibtsani nga Betlemi."
 "Ai pati tridhjetë bij; martoi tridhjetë bijat e tij dhe solli nga jashtë tridhjetë vajza për bijtë e tij. Qe gjyqtar i Izraelit shtatë vjet me radhë."

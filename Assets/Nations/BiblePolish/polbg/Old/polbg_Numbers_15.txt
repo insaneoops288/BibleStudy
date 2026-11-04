@@ -21,8 +21,8 @@
 "Z pierwszych ciast waszych ofiarować będziecie Panu ofiarę podnoszenia w narodziech waszych."
 "A gdybyście pobłądzili, i nie uczynilibyście wszystkich przykazań tych, które rozkazał Pan przez Mojżesza;"
 "Wszystkiego, co wam Pan rozkazał przez Mojżesza, od onego dnia, którego wydał Pan przykazanie, i potem w narodziech waszych
-"Tedy jeźliby z niewiadomości zgromadzenia stało się to pobłądzenie, wszystko zgromadzenie ofiarować będzie cielca młodego jednego na całopalenie, na wdzięczną wonność Panu, także śniedną ofiarę jego, i mokrą ofiarę jego według zwyczaju, i kozła jednego z stada za grzech."
-"Tak oczyści kapłan wszystko zgromadzenie synów Izraelskich, i będzie im odpuszczona, gdyż się z niewiadomości stało. A oni ofiarować będą ofiarę swoję na ofiarę ognistą Panu, i na ofiarę za grzech swój przed Panem za obłądzenie swoje."
+"Tedy jeźliby z niewiadomości zgromadzenia stało się to pobłądzenie, wszystko zgromadzenie ofiarować będzie cielca młodego jednego na całopalenie, na wdzięczną #wonność Panu, także śniedną ofiarę jego, i mokrą ofiarę jego według zwyczaju, i kozła jednego z stada za grzech."
+"Tak oczyści kapłan wszystko zgromadzenie synów Izraelskich, i będzie im odpuszczona, gdyż się z niewiadomości stało. A oni ofiarować #będą ofiarę swoję na ofiarę ognistą Panu, i na ofiarę za grzech swój przed Panem za obłądzenie swoje."
 "I będzie odpuszczono wszystkiemu zgromadzeniu synów Izraelskich, i przychodniowi, który mieszka między nimi, ponieważ wszystkiego ludu pobłądzenie jest."
 "A jeźliby kto sam tylko zgrzeszył z niewiadomości, tedy przyniesie Panu kozę roczną na ofiarę za grzech;"
 "I oczyści kapłan człowieka obłądzonego, któryby zgrzeszył z niewiadomości; przed Panem oczyści go, i będzie mu odpuszczono."
@@ -36,6 +36,6 @@
 "I wywiedli go wszystko zgromadzenie za obóz, i ciskali nań kamieniem, aż umarł, jako rozkazał Pan Mojżeszowi."
 "Zatem rzekł Pan do Mojżesza, mówiąc
 "Mów do synów Izraelskich, a powiedz im, aby sobie poczynili bramy na krajach szat swoich w narodziech swych, a niech przyprawią do bram sznurek hijacyntowy."
-"I będziecie mieli te bramy, żebyście poglądając na nie, wspominali sobie na wszystkie przykazania Pańskie, abyście je czynili, i abyście się nie unosili za sercem waszem, i za oczyma waszemi, za któremi wy idąc cudzołożylibyście."
+"I będziecie mieli te bramy, żebyście poglądając na nie, wspominali sobie na wszystkie przykazania Pańskie, abyście je czynili, #i abyście się nie unosili za sercem waszem, i za oczyma waszemi, za któremi wy idąc cudzołożylibyście."
 "Ale żebyście pamiętali i czynili wszystkie przykazania moje, a byli świętymi Bogu waszemu."
 "Ja Pan, Bóg wasz, którym was wywiódł z ziemi Egipskiej, abym wam był za Boga; Jam Pan, Bóg wasz."

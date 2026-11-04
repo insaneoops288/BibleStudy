@@ -18,7 +18,7 @@
 "Pois nenhum homem em quem houver alguma deformidade se chegará
 "ou homem que tiver o pé quebrado, ou quebrada a mão,"
 "ou corcovado, ou anão, ou que tiver belida no olho, ou sarna, ou impigens, ou que tiver testículo quebrado."
-"Nenhum homem da semente de Arão, o sacerdote, em quem houver alguma deformidade, se chegará para oferecer as ofertas queimadas do SENHOR; falta nele há; não se chegará para oferecer o pão do seu Deus."
+"Nenhum homem da semente de Arão, o sacerdote, em quem houver alguma deformidade, se chegará para oferecer as #ofertas queimadas do SENHOR; falta nele há; não se chegará para oferecer o pão do seu Deus."
 "O pão do seu Deus, das santidades de santidades e das coisas santas, poderá comer."
 "Porém até ao véu não entrará, nem se chegará ao altar, porquanto falta há nele, para que não profane os meus santuários; porque eu sou o SENHOR que os santifico."
 "E Moisés falou isso a Arão, e a seus filhos, e a todos os filhos de Israel."

@@ -1,4 +1,4 @@
-"Or il y avait à Samarie soixante-dix fils d'Achab. Et Jéhu écrivit des lettres et les envoya à Samarie, aux principaux chefs de Jizréel, aux anciens, et aux gouverneurs des enfants d'Achab, pour leur dire
+"Or il y avait à Samarie soixante-dix fils d'Achab. Et Jéhu écrivit des lettres et les envoya à #Samarie, aux principaux chefs de Jizréel, aux anciens, et aux gouverneurs des enfants d'Achab, pour leur dire
 "Maintenant, dès que cette lettre vous sera parvenue, à vous qui avez avec vous les fils de votre maître, les chars, les chevaux, une ville forte, et les armes,"
 "Voyez quel est parmi les fils de votre maître celui qui vous plaît et vous convient le mieux, mettez-le sur le trône de son père et combattez pour la maison de votre seigneur."
 "Alors ils eurent une fort grande peur, et dirent
@@ -16,9 +16,9 @@
 "Puis il dit
 "Et, étant entré à Samarie, il frappa tous ceux qui restaient d'Achab à Samarie, jusqu'à ce qu'il les eût exterminés selon la parole que l'Éternel avait dite à Élie."
 "Puis Jéhu assembla tout le peuple, et lui dit
-"Et maintenant, convoquez vers moi tous les prophètes de Baal, tous ses serviteurs et tous ses prêtres; qu'il n'en manque pas un; car j'ai à offrir un grand sacrifice à Baal. Quiconque y manquera ne vivra point. Or Jéhu agissait par finesse, pour faire périr ceux qui servaient Baal."
+"Et maintenant, convoquez vers moi tous les prophètes de Baal, tous ses serviteurs et tous ses prêtres; qu'il n'en manque pas un; car j'ai à #offrir un grand sacrifice à Baal. Quiconque y manquera ne vivra point. Or Jéhu agissait par finesse, pour faire périr ceux qui servaient Baal."
 "Et Jéhu dit
-"Puis Jéhu envoya par tout Israël, et tous les serviteurs de Baal vinrent; il n'y en eut pas un qui n'y vînt. Ils entrèrent dans la maison de Baal, et la maison de Baal fut remplie d'un bout à l'autre."
+"Puis Jéhu envoya par tout Israël, et tous les serviteurs de Baal vinrent; il n'y en eut pas un qui n'y #vînt. Ils entrèrent dans la maison de Baal, et la maison de Baal fut remplie d'un bout à l'autre."
 "Alors il dit à celui qui avait la charge du vestiaire
 "Et Jéhu entra, avec Jonadab, fils de Récab, dans la maison de Baal, et il dit aux serviteurs de Baal
 "Ils entrèrent donc pour offrir des sacrifices et des holocaustes. Or Jéhu avait posté dehors quatre-vingts hommes, et leur avait dit

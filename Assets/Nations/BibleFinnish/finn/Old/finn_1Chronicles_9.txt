@@ -16,10 +16,10 @@
 "Ja Obadia Semajan poika, Galalin pojan, Jedutunin pojan, ja Berekia Asan poika, Elkanan pojan, joka asui Netophatilaisten kylissä."
 "Ja ovenvartiat olivat Sallum, Akkub, Talmon, Ahiman ja heidän veljensä
 "Sillä he olivat tähän saakka vartioineet itäisellä puolella kuninkaan porttia
-"Ja Sallum Koren poika Ebjasaphin pojan, Koran pojan ja hänen veljensä hänen isänsä huoneesta, ne Korhilaiset, heidän virkansa menoissa, vartioitsemaan seurakunnan majan ovipieleen; ja heidän isänsä pitää vartioitseman Herran leirissä sisällekäymistä."
+"Ja Sallum Koren poika Ebjasaphin pojan, Koran pojan ja hänen veljensä hänen isänsä huoneesta, ne Korhilaiset, #heidän virkansa menoissa, vartioitsemaan seurakunnan majan ovipieleen; ja heidän isänsä pitää vartioitseman Herran leirissä sisällekäymistä."
 "Mutta Pinehas Eleasarin poika oli ennen ollut heidän päämiehensä; sillä Herra oli hänen kanssansa."
 "Ja Sakaria Meselemian poika oli vartia seurakunnan majan ovella."
-"Kaikki nämät olivat valitut ovea vartioitsemaan, kaksisataa ja kaksitoistakymmentä, jotka olivat luetut polviluvun jälkeen heidän kylissänsä. Ja David ja Samuel, näkiä, asettivat heitä virkaan heidän uskollisuudessansa,"
+"Kaikki nämät olivat valitut ovea vartioitsemaan, kaksisataa ja kaksitoistakymmentä, jotka olivat luetut polviluvun jälkeen #heidän kylissänsä. Ja David ja Samuel, näkiä, asettivat heitä virkaan heidän uskollisuudessansa,"
 "Niin että he ja heidän lapsensa ottivat Herran huoneesta vaarin, seurakunnan majan huoneesta, että he sitä vartioitsivat."
 "Ja ovenvartiat olivat asetetut neljää ilmaa kohden
 "Mutta heidän veljensä olivat maakylissänsä, niin kuitenkin, että heidän piti tuleman sisälle seitsemäntenä päivänä, ja ajasta niin aikaan heidän tykönänsä oleman."

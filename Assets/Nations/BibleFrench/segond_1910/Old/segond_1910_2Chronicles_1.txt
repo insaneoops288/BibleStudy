@@ -14,4 +14,4 @@
 "Salomon rassembla des chars et de la cavalerie; il avait quatorze cents chars et douze mille cavaliers, qu'il plaça dans les villes où il tenait ses chars et à Jérusalem près du roi."
 "Le roi rendit l'argent et l'or aussi communs à Jérusalem que les pierres, et les cèdres aussi communs que les sycomores qui croissent dans la plaine."
 "C'était de l'Egypte que Salomon tirait ses chevaux; une caravane de marchands du roi allait les chercher par troupes à un prix fixe;"
-"on faisait monter et sortir d'Egypte un char pour six cents sicles d'argent, et un cheval pour cent cinquante sicles. Ils en amenaient de même avec eux pour tous les rois des Héthiens et pour les rois de Syrie."
+"on faisait monter et sortir d'Egypte un char pour six cents sicles d'argent, et un cheval pour cent cinquante sicles. #Ils en amenaient de même avec eux pour tous les rois des Héthiens et pour les rois de Syrie."

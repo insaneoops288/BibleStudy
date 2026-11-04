@@ -20,6 +20,6 @@
 "Ordenaram, pois, aos filhos de Benjamim, dizendo
 "e vigiai; ao saírem as filhas de Silo a dançar nos coros, saí vós das vinhas, arrebatai cada um sua mulher, das filhas de Silo, e ide-vos para a terra de Benjamim."
 "Então quando seus pais e seus irmãos vierem queixar-se a nós, nós lhes diremos
-"Assim fizeram os filhos de Benjamim; e conforme o seu número tomaram para si mulheres, arrebatando-as dentre as que dançavam; e, retirando-se, voltaram à sua herança, reedificaram as cidades e habitaram nelas."
+"Assim fizeram os filhos de Benjamim; e conforme o seu número tomaram para si mulheres, arrebatando-as dentre #as que dançavam; e, retirando-se, voltaram à sua herança, reedificaram as cidades e habitaram nelas."
 "Nesse mesmo tempo os filhos de Israel partiram dali, cada um para a sua tribo e para a sua família; assim voltaram cada um para a sua herança."
 "Naqueles dias não havia rei em Israel; cada um fazia o que parecia bem aos seus olhos."

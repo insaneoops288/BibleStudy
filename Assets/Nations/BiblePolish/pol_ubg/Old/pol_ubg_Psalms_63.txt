@@ -1,4 +1,4 @@
-"Psalm Dawida, gdy przebywał na Pustyni Judzkiej. Boże, ty jesteś moim Bogiem, od rana cię szukam; pragnie ciebie moja dusza, tęskni do ciebie moje ciało w ziemi suchej i spragnionej, w której nie ma wody;"
+"Psalm Dawida, gdy przebywał na Pustyni Judzkiej. Boże, ty jesteś moim Bogiem, od rana cię szukam; pragnie ciebie #moja dusza, tęskni do ciebie moje ciało w ziemi suchej i spragnionej, w której nie ma wody;"
 "Abym widział twoją moc i chwałę tak, jak cię ujrzałem w twojej świątyni;"
 "Skoro lepsze jest twoje miłosierdzie niż życie, moje wargi będą cię chwaliły;"
 "Tak błogosławić cię będę póki żyję, wzniosę swe ręce w imię twoje."

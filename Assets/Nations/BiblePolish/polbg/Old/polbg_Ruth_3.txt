@@ -10,7 +10,7 @@
 "A on rzekł
 "Przetoż teraz, córko moja, nie bój się; bo wszystko, cokolwiek rzeczesz, uczynię, gdyż wie całe miasto ludu mego, żeś ty niewiasta cnotliwa."
 "A teraz prawdać to, żem ja jest pokrewny twój, wszakże jeszcze jest pokrewny bliższy nad mię."
-"Zostańże tu tej nocy. A gdy będzie rano, jeźli cię będzie chciał pojąć prawem bliskości, dobrze, niech pojmie; jeźli cię nie będzie chciał pojąć, ja cię pojmę prawem bliskości; żywie Pan! Śpijże tu aż do poranku."
+"Zostańże tu tej nocy. A gdy będzie rano, jeźli cię będzie chciał pojąć prawem bliskości, dobrze, niech pojmie; jeźli #cię nie będzie chciał pojąć, ja cię pojmę prawem bliskości; żywie Pan! Śpijże tu aż do poranku."
 "A tak spała u nóg jego aż do poranku, a wstała przedtem niż mógł rozeznać jeden drugiego; bo rzekł Booz
 "Nadto rzekł
 "A przyszła do świekry swej, która jej spytała

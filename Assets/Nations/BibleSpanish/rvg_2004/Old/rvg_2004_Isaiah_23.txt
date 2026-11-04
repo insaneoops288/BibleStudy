@@ -15,4 +15,4 @@
 "Y acontecerá en aquel día, que Tiro será puesta en olvido por setenta años, como días de un rey. Después de los setenta años, cantará Tiro canción como de ramera."
 "Toma arpa, y rodea la ciudad, oh ramera olvidada; haz buena melodía, canta muchas canciones, para que seas recordada."
 "Y acontecerá, que al fin de los setenta años visitará Jehová a Tiro
-"Pero sus negocios y sus ganancias serán consagrados a Jehová; no se guardarán ni se atesorarán, porque sus ganancias serán para los que estuvieren delante de Jehová, para que coman hasta saciarse, y vistan honradamente."
+"Pero sus negocios y sus ganancias serán consagrados a Jehová; no se guardarán ni se atesorarán, porque sus #ganancias serán para los que estuvieren delante de Jehová, para que coman hasta saciarse, y vistan honradamente."

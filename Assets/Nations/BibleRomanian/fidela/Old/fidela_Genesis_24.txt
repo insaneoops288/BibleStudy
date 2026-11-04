@@ -7,7 +7,7 @@
 "DOMNUL Dumnezeul cerului, care m-a luat din casa tatălui meu şi din ţara rudelor mele şi care mi-a vorbit şi care mi-a jurat, spunând
 "Şi dacă femeia nu va voi să te urmeze, atunci vei fi eliberat de acest jurământ al meu, numai nu duce pe fiul meu înapoi acolo."
 "Şi servitorul şi-a pus mâna sub coapsa lui Avraam, stăpânul său, şi i-a jurat referitor la acel lucru."
-"Şi servitorul a luat zece cămile dintre cămilele stăpânului său şi a plecat, pentru că toate bunurile stăpânului său [erau] în mâna sa; şi el s-a ridicat şi a mers în Mesopotamia, în cetatea lui Nahor."
+"Şi servitorul a luat zece cămile dintre cămilele stăpânului său şi a plecat, pentru că toate bunurile stăpânului său #[erau] în mâna sa; şi el s-a ridicat şi a mers în Mesopotamia, în cetatea lui Nahor."
 "Şi a pus cămilele sale să îngenuncheze în afara cetăţii, lângă o fântână de apă, la timpul înserării, la timpul când femeile ies să scoată [apă]."
 "Şi a spus
 "Iată, stau [aici] lângă fântâna de apă; şi fiicele bărbaţilor cetăţii ies să scoată apă,"
@@ -19,7 +19,7 @@
 "Şi după ce a terminat să îi dea de băut, a spus
 "Şi s-a grăbit şi şi-a golit ulciorul în adăpătoare şi a alergat din nou la fântână să scoată [apă] şi a scos pentru toate cămilele lui."
 "Şi bărbatul, mirându-se de ea, tăcea, [voind] să cunoască dacă DOMNUL făcuse călătoria lui prosperă sau nu."
-"Şi s-a întâmplat, pe când cămilele terminaseră de băut, că bărbatul a luat un cercel de aur de o jumătate de şekel în greutate şi două brăţări pentru mâinile ei, în greutate de zece [şekeli] de aur;"
+"Şi s-a întâmplat, pe când cămilele terminaseră de băut, că bărbatul a luat un cercel de aur de o #jumătate de şekel în greutate şi două brăţări pentru mâinile ei, în greutate de zece [şekeli] de aur;"
 "Şi a spus
 "Iar ea i-a spus
 "[Şi] i-a mai spus
@@ -45,7 +45,7 @@
 "Şi înainte să termin de vorbit în inima mea, iată, Rebeca a ieşit afară cu ulciorul ei pe umăr; şi a coborât la fântână şi a scos [apă], iar eu i-am spus
 "Iar ea s-a grăbit şi şi-a coborât ulciorul de pe [umăr] şi a spus
 "Şi am întrebat-o şi am spus
-"Şi am plecat capul meu şi m-am închinat DOMNULUI şi am binecuvântat pe DOMNUL Dumnezeul stăpânului meu Avraam, care m-a condus pe calea dreaptă, să iau pe fiica fratelui stăpânului meu pentru fiul său."
+"Şi am plecat capul meu şi m-am închinat DOMNULUI şi am binecuvântat pe DOMNUL Dumnezeul stăpânului meu Avraam, #care m-a condus pe calea dreaptă, să iau pe fiica fratelui stăpânului meu pentru fiul său."
 "Şi acum dacă voiţi să lucraţi cu bunătate şi adevăr cu stăpânul meu, spuneţi-mi; şi dacă nu, spuneţi-mi; ca să mă întorc la dreapta sau la stânga."
 "Atunci Laban şi Betuel au răspuns şi au zis
 "Iată, Rebeca [este] în faţa ta, ia[-o] şi mergi şi ea să fie soţia fiului stăpânului tău, aşa cum DOMNUL a vorbit."

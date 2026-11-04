@@ -3,7 +3,7 @@
 "Y David los repartió, siendo Sadoc de los hijos de Eleazar, y Ahimelech de los hijos de Ithamar, por sus turnos en su ministerio."
 "Y los hijos de Eleazar fueron hallados, cuanto á sus principales varones, muchos más que los hijos de Ithamar; y repartiéronlos así
 "Repartiéronlos pues por suerte los unos con los otros
-"Y Semeías escriba, hijo de Nathanael, de los Levitas, escribiólos delante del rey y de los príncipes, y delante de Sadoc el sacerdote, y de Ahimelech hijo de Abiathar, y de los príncipes de las familias de los sacerdotes y Levitas
+"Y Semeías escriba, hijo de Nathanael, de los Levitas, escribiólos delante del rey y de los príncipes, y delante de Sadoc #el sacerdote, y de Ahimelech hijo de Abiathar, y de los príncipes de las familias de los sacerdotes y Levitas
 "Y la primera suerte salió por Joiarib, la segunda por Jedaía;"
 "La tercera por Harim, la cuarta por Seorim;"
 "La quinta por Malchîas, la sexta por Miamim;"
@@ -16,7 +16,7 @@
 "La décimanona por Pethaía, la vigésima por Hezeciel;"
 "La vigésimaprima por Jachim, la vigésimasegunda por Hamul;"
 "La vigésimatercia por Delaía, la vigésimacuarta por Maazía."
-"Estos fueron contados en su ministerio, para que entrasen en la casa de Jehová, conforme á su ordenanza, bajo el mando de Aarón su padre, de la manera que le había mandado Jehová el Dios de Israel."
+"Estos fueron contados en su ministerio, para que entrasen en la casa de Jehová, conforme á su ordenanza, bajo #el mando de Aarón su padre, de la manera que le había mandado Jehová el Dios de Israel."
 "Y de los hijos de Leví que quedaron
 "Y de los hijos de Rehabía, Isias el principal."
 "De los Ishareos, Selemoth; é hijo de Selemoth, Jath."

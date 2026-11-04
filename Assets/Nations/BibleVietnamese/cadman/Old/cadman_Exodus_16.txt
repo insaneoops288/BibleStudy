@@ -26,7 +26,7 @@
 "Các ngươi lượm trong sáu ngày, nhưng qua ngày thứ bảy là ngày Sa-bát, sẽ chẳng có đâu."
 "Ngày thứ bảy, một vài người trong vòng dân sự ra đặng lượm lấy, nhưng tìm chẳng thấy chi hết."
 "Ðức Giê-hô-va bèn phán cùng Môi-se rằng
-"Hãy suy nghĩ rằng Ðức Giê-hô-va đã cho các ngươi ngày Sa-bát; vậy nên, đến ngày thứ sáu Ngài lại cho các ngươi lương thực đủ hai ngày. Trong ngày thứ bảy, mỗi người phải ở yên chỗ mình, chớ ai ra khỏi nhà."
+"Hãy suy nghĩ rằng Ðức Giê-hô-va đã cho các ngươi ngày Sa-bát; vậy nên, đến ngày thứ sáu Ngài lại cho các ngươi #lương thực đủ hai ngày. Trong ngày thứ bảy, mỗi người phải ở yên chỗ mình, chớ ai ra khỏi nhà."
 "Thế thì, ngày thứ bảy dân sự đều nghỉ ngơi."
 "Nhà Y-sơ-ra-ên đặt tên lương thực nầy là ma-na; nó giống như hột ngò, sắc trắng, mùi như bánh ngọt pha mật ong."
 "Môi-se nói rằng

@@ -11,7 +11,7 @@
 "Bo kalają się, zarówno prorok jak i kapłan; nawet w Moim Domu napotkałem ich niegodziwości mówi WIEKUISTY."
 "Więc ich droga będzie dla nich jak ślizgawice w ciemności, na których się poślizgną i upadną; gdyż przyprowadzę na nich klęskę, rok ich nawiedzenia mówi WIEKUISTY."
 "Widziałem obmierzłość i u proroków Szomronu; prorokowali przez Baala oraz zwodzili Mój lud Israela."
-"Ale u proroków Jeruszalaim widziałem zgrozę; oni są cudzołożni, chodzą w kłamstwie i utwierdzają ręce złoczyńców, aby żaden się nie odwrócił od swojej niegodziwości; wszyscy stali Mi się jak Sedom, a jej mieszkańcy jak Amora."
+"Ale u proroków Jeruszalaim widziałem zgrozę; oni są cudzołożni, chodzą w kłamstwie i utwierdzają ręce złoczyńców, aby żaden #się nie odwrócił od swojej niegodziwości; wszyscy stali Mi się jak Sedom, a jej mieszkańcy jak Amora."
 "Dlatego tak mówi WIEKUISTY Zastępów o prorokach
 "Tak mówi WIEKUISTY Zastępów
 "Ustawicznie zapewniają bluźnierców
@@ -29,7 +29,7 @@
 "Czy Moje słowo nie jest raczej jak ogień mówi WIEKUISTY, oraz jako młot, co kruszy skałę?"
 "Tak oto powstanę przeciwko tym prorokom mówi WIEKUISTY, co jeden z drugim, kradną Me słowa!"
 "Oto powstanę przeciwko tym prorokom, którzy przynosząc swój własny język, mówią
-"Oto powstanę przeciwko tym, co prorokują kłamliwe sny mówi WIEKUISTY, opowiadają je oraz zwodzą Mój lud swymi kłamstwami i swoją lekkomyślnością; chociaż Ja ich nie posłałem, ani im nie rozkazałem – więc pomóc, nie pomagają temu ludowi mówi WIEKUISTY."
+"Oto powstanę przeciwko tym, co prorokują kłamliwe sny mówi WIEKUISTY, opowiadają je oraz zwodzą Mój lud swymi kłamstwami i swoją #lekkomyślnością; chociaż Ja ich nie posłałem, ani im nie rozkazałem – więc pomóc, nie pomagają temu ludowi mówi WIEKUISTY."
 "A gdyby ten lud się ciebie zapytał, albo któryś prorok, czy kapłan, mówiąc
 "Lecz proroka, kapłana, albo któregoś z ludu, kto by powtórzył
 "Ale mówcie tak, każdy do swojego bliźniego oraz każdy do swego brata

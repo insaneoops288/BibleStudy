@@ -13,9 +13,9 @@
 "Jy was in Eden, die tuin van God; allerhande edelgesteentes was jou bedekking
 "Jy was 'n gérub met uitgespreide vlerke wat beskut, en Ek het jou gestel op 'n heilige berg; 'n god was jy; jy het gewandel tussen vurige gesteentes."
 "Jy was volkome in jou weë van die dag af dat jy geskape is, totdat daar ongeregtigheid in jou gevind is."
-"Weens die grootheid van jou koophandel het hulle jou binneste met geweld gevul, en jy het gesondig; daarom het Ek jou as onheilige van die godeberg afgedrywe, en Ek het jou tussen die vurige gesteentes uit vernietig, o gérub wat beskut!"
-"Hoogmoedig het jou hart geword oor jou skoonheid; jy het jou wysheid verderwe weens jou glans. Ek het jou op die grond gewerp, Ek het jou oorgegee voor die aangesig van konings, dat hulle op jou neer kan sien."
-"Weens die menigte van jou ongeregtighede, deur die onreg van jou koophandel, het jy jou heiligdomme ontheilig; daarom het Ek 'n vuur uit jou binneste laat uitgaan; dit het jou verteer, en Ek het jou tot as gemaak op die aarde voor die oë van almal wat jou gesien het."
+"Weens die grootheid van jou koophandel het hulle jou binneste met geweld gevul, en jy het gesondig; daarom het Ek jou #as onheilige van die godeberg afgedrywe, en Ek het jou tussen die vurige gesteentes uit vernietig, o gérub wat beskut!"
+"Hoogmoedig het jou hart geword oor jou skoonheid; jy het jou wysheid verderwe weens jou glans. Ek het jou op #die grond gewerp, Ek het jou oorgegee voor die aangesig van konings, dat hulle op jou neer kan sien."
+"Weens die menigte van jou ongeregtighede, deur die onreg van jou koophandel, het jy jou heiligdomme ontheilig; daarom het Ek 'n vuur uit jou binneste laat #uitgaan; dit het jou verteer, en Ek het jou tot as gemaak op die aarde voor die oë van almal wat jou gesien het."
 "Al jou bekendes onder die volke is ontsteld oor jou; jy het 'n verskrikking geword en sal daar nie meer wees tot in ewigheid nie."
 "Verder het die woord van die HERE tot my gekom en gesê
 "Mensekind, rig jou aangesig teen Sidon en profeteer teen hom"
@@ -23,4 +23,4 @@
 "En Ek sal die pes in hom stuur en bloed op sy strate, en die gewondes sal in hom val deur die swaard wat teen hom is van alle kante, en hulle sal weet dat Ek die HERE is."
 "En daar sal vir die huis van Israel geen steekdoring en smartlike distel meer wees onder almal wat rondom hulle is nie, wat hulle verag; en hulle sal weet dat Ek die Here HERE is."
 "So sê die Here HERE
-"En hulle sal daarin veilig woon en huise bou en wingerde plant; ja, hulle sal veilig woon as Ek strafgerigte voltrek teen almal wat hulle van alle kante verag; en hulle sal weet dat Ek die HERE hulle God is."
+"En hulle sal daarin veilig woon en huise bou en wingerde plant; ja, hulle sal veilig woon as Ek strafgerigte voltrek #teen almal wat hulle van alle kante verag; en hulle sal weet dat Ek die HERE hulle God is."

@@ -6,7 +6,7 @@
 "Pour nous, après les jours des pains sans levain, nous nous embarquâmes à Philippes, et en cinq jours nous les rejoignîmes à Troas, où nous demeurâmes sept jours."
 "Et le premier jour de la semaine, les disciples étant assemblés pour rompre le pain, Paul discourait avec eux, devant partir le lendemain, et il prolongea son discours jusqu'à minuit."
 "Or, il y avait beaucoup de lampes dans la chambre haute où ils étaient assemblés."
-"Et un jeune homme, nommé Eutyche, qui était assis sur la fenêtre, fut accablé d'un profond sommeil, pendant le long discours de Paul, et tout endormi, il tomba du troisième étage en bas, et fut relevé mort."
+"Et un jeune homme, nommé Eutyche, qui était assis sur la fenêtre, fut accablé d'un profond sommeil, pendant le #long discours de Paul, et tout endormi, il tomba du troisième étage en bas, et fut relevé mort."
 "Mais Paul étant descendu, se pencha sur lui, et le prenant entre ses bras, il dit
 "Puis étant remonté, et ayant rompu le pain, et mangé, il parla longtemps jusqu'au point du jour, après quoi il partit."
 "Or, on emmena le jeune homme vivant, et ils furent extrêmement consolés."
@@ -21,7 +21,7 @@
 "Prêchant et aux Juifs et aux Grecs, la repentance envers Dieu, et la foi en Jésus-Christ notre Seigneur."
 "Et maintenant, lié par l'Esprit, je vais à Jérusalem, ne sachant pas ce qui m'y arrivera;"
 "Si ce n'est que le Saint-Esprit m'avertit de ville en ville, que des liens et des afflictions m'attendent."
-"Mais je ne me mets en peine de rien, et ma vie ne m'est point précieuse, pourvu que j'achève avec joie ma course et le ministère que j'ai reçu du Seigneur Jésus, pour annoncer la bonne nouvelle de la grâce de Dieu."
+"Mais je ne me mets en peine de rien, et ma vie ne m'est point précieuse, pourvu que j'achève avec joie ma #course et le ministère que j'ai reçu du Seigneur Jésus, pour annoncer la bonne nouvelle de la grâce de Dieu."
 "Et maintenant voici, je sais que vous ne verrez plus mon visage, vous tous parmi lesquels j'ai passé en prêchant le royaume de Dieu."
 "C'est pourquoi je proteste aujourd'hui devant vous, que je suis net du sang de vous tous."
 "Car je vous ai annoncé tout le dessein de Dieu, sans en rien cacher."

@@ -26,4 +26,4 @@
 "Era Acazias de vinte e dois anos de idade quando começou a reinar e reinou um ano em Jerusalém; e era o nome de sua mãe Atália, filha de Onri, rei de Israel."
 "E andou no caminho da casa de Acabe e fez mal aos olhos do SENHOR, como a casa de Acabe, porque era genro da casa de Acabe."
 "E foi com Jorão, filho de Acabe, a Ramote-Gileade, à peleja contra Hazael, rei da Síria; e os siros feriram Jorão."
-"Então, voltou o rei Jorão para se curar em Jezreel das feridas que os siros lhe fizeram em Ramá, quando pelejou contra Hazael, rei da Síria; e desceu Acazias, filho de Jeorão, rei de Judá, para ver a Jorão, filho de Acabe, em Jezreel, porquanto estava doente."
+"Então, voltou o rei Jorão para se curar em Jezreel das feridas que os siros lhe fizeram em Ramá, quando pelejou contra Hazael, rei #da Síria; e desceu Acazias, filho de Jeorão, rei de Judá, para ver a Jorão, filho de Acabe, em Jezreel, porquanto estava doente."

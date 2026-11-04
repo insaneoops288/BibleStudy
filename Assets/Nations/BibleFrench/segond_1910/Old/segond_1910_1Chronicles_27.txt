@@ -1,4 +1,4 @@
-"Enfants d'Israël selon leur nombre, chefs de maisons paternelles, chefs de milliers et de centaines, et officiers au service du roi pour tout ce qui concernait les divisions, leur arrivée et leur départ, mois par mois, pendant tous les mois de l'année, chaque division étant de vingt-quatre mille hommes."
+"Enfants d'Israël selon leur nombre, chefs de maisons paternelles, chefs de milliers et de centaines, et officiers au service du roi pour tout ce qui #concernait les divisions, leur arrivée et leur départ, mois par mois, pendant tous les mois de l'année, chaque division étant de vingt-quatre mille hommes."
 "A la tête de la première division, pour le premier mois, était Jaschobeam, fils de Zabdiel; et il avait une division de vingt-quatre mille hommes."
 "Il était des fils de Pérets, et il commandait tous les chefs des troupes du premier mois."
 "A la tête de la division du second mois était Dodaï, l'Achochite; Mikloth était l'un des chefs de sa division; et il avait une division de vingt-quatre mille hommes."
@@ -21,7 +21,7 @@
 "de la demi-tribu de Manassé en Galaad
 "de Dan
 "David ne fit point le dénombrement de ceux d'Israël qui étaient âgés de vingt ans et au-dessous, car l'Eternel avait promis de multiplier Israël comme les étoiles du ciel."
-"Joab, fils de Tseruja, avait commencé le dénombrement, mais il ne l'acheva pas, l'Eternel s'étant irrité contre Israël à cause de ce dénombrement, qui ne fut point porté parmi ceux des Chroniques du roi David."
+"Joab, fils de Tseruja, avait commencé le dénombrement, mais il ne l'acheva pas, l'Eternel s'étant irrité contre Israël #à cause de ce dénombrement, qui ne fut point porté parmi ceux des Chroniques du roi David."
 "Azmaveth, fils d'Adiel, était préposé sur les trésors du roi; Jonathan, fils d'Ozias, sur les provisions dans les champs, les villes, les villages et les tours;"
 "Ezri, fils de Kelub, sur les ouvriers de la campagne qui cultivaient la terre;"
 "Schimeï, de Rama, sur les vignes; Zabdi, de Schepham, sur les provisions de vin dans les vignes;"

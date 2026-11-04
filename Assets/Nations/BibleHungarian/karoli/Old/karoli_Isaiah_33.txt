@@ -12,7 +12,7 @@
 "A népek égetett mészszé lesznek, levágott tövisekké; tûzben hamvadnak el."
 "Halljátok meg távol valók, a mit cselekedtem, és tudjátok meg közel valók az én hatalmamat!"
 "Megrettentek a bûnösök Sionban, félelem fogja el a gazokat
-"A ki igazságban jár és egyenesen beszél, a ki megveti a zsarolt nyereséget, a ki kezeit rázván, nem vesz ajándékot, a ki fülét bedugja, hogy véres tervet ne halljon, és szemeit befogja, hogy gonoszt ne lásson
+"A ki igazságban jár és egyenesen beszél, a ki megveti a zsarolt nyereséget, a ki kezeit rázván, nem vesz #ajándékot, a ki fülét bedugja, hogy véres tervet ne halljon, és szemeit befogja, hogy gonoszt ne lásson
 "Az magasságban lakozik, kõszálak csúcsa a bástyája, kenyerét megkapja, vize el nem fogy."
 "A királyt ékességében látják szemeid; látnak széles országot."
 "Szíved elgondolja a [mult] félelmét

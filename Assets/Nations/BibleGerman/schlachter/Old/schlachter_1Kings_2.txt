@@ -1,11 +1,11 @@
 "Als nun die Zeit kam, daß David sterben sollte, gebot er seinem Sohne Salomo und sprach
 "Ich gehe hin den Weg aller Welt. So sei nun stark und sei ein Mann"
-"und beobachte die Verordnungen des HERRN, deines Gottes, daß du in seinen Wegen wandelst, seine Satzungen, seine Gebote, seine Rechte und seine Zeugnisse haltest, wie im Gesetze Moses geschrieben steht, auf daß du weislich vollbringest alles, was du tust und wohin du dich wendest;"
+"und beobachte die Verordnungen des HERRN, deines Gottes, daß du in seinen Wegen wandelst, seine Satzungen, seine Gebote, seine Rechte und seine Zeugnisse #haltest, wie im Gesetze Moses geschrieben steht, auf daß du weislich vollbringest alles, was du tust und wohin du dich wendest;"
 "daß der HERR sein Wort bestätige, das erüber mich geredet hat, indem er sagte
-"Du weißt aber auch, was mir Joab, der Sohn der Zeruja, getan hat, wie er an den beiden Heerführern Israels, an Abner, dem Sohne Ners, und an Amasa, dem Sohne Jeters, gehandelt hat, wie er sie umgebracht und also Kriegsblut[mitten] im Frieden vergossen und Kriegsblut an seinen Gürtel getan hat, der um seine Lenden war, und an die Schuhe, die an seinen Füßen waren."
+"Du weißt aber auch, was mir Joab, der Sohn der Zeruja, getan hat, wie er an den beiden Heerführern Israels, an Abner, dem Sohne Ners, und an Amasa, dem Sohne Jeters, gehandelt hat, #wie er sie umgebracht und also Kriegsblut[mitten] im Frieden vergossen und Kriegsblut an seinen Gürtel getan hat, der um seine Lenden war, und an die Schuhe, die an seinen Füßen waren."
 "So handle nun nach deiner Weisheit, daß du seine grauen Haare nicht in Frieden ins Totenreich fahren lässest!"
-"Aber den Kindern Barsillais, des Gileaditers, sollst du Barmherzigkeit erweisen, daß sie unter denen seien, die an deinem Tische essen, denn ebenso hielten sie sich zu mir, als ich vor deinem Bruder Absalom floh."
-"Und siehe, du hast bei dir Simei, den Sohn Geras, den Benjaminiter, von Bachurim, der mir bitter und schändlich fluchte zu der Zeit, als ich nach Mahanaim ging. Als er aber dann an den Jordan herab mir entgegenkam, da schwur ich ihm bei dem HERRN und sprach
+"Aber den Kindern Barsillais, des Gileaditers, sollst du Barmherzigkeit erweisen, daß sie unter denen seien, die an deinem #Tische essen, denn ebenso hielten sie sich zu mir, als ich vor deinem Bruder Absalom floh."
+"Und siehe, du hast bei dir Simei, den Sohn Geras, den Benjaminiter, von Bachurim, der mir bitter und schändlich fluchte zu der Zeit, als #ich nach Mahanaim ging. Als er aber dann an den Jordan herab mir entgegenkam, da schwur ich ihm bei dem HERRN und sprach
 "Nun aber laß du ihn nicht ungestraft; denn du bist ein weiser Mann und wirst wohl wissen, was du ihm tun sollst, daß du seine grauen Haare mit Blut ins Totenreich hinunter bringest."
 "Und David entschlief mit seinen Vätern und ward begraben in der Stadt Davids."
 "Die Zeit aber, die Davidüber Israel regierte, betrug vierzig Jahre. Sieben Jahre lang war er König zu Hebron und dreiunddreißig Jahre lang zu Jerusalem."
@@ -16,7 +16,7 @@
 "Nun habe ich eine Bitte an dich; die wollest du mir nicht abschlagen. Sie sprach zu ihm
 "Sage her! Er sprach
 "Batseba sprach
-"Also kam Batseba hinein zum König Salomo, mit ihm zu reden wegen Adonia. Und der König stand auf und ging ihr entgegen und verneigte sich vor ihr und setzte sich auf seinen Thron. Und auch der Mutter des Königs ward ein Thron hingestellt, daß sie sich zu seiner Rechten setzte."
+"Also kam Batseba hinein zum König Salomo, mit ihm zu reden wegen Adonia. Und der König stand auf und ging ihr entgegen und verneigte sich vor #ihr und setzte sich auf seinen Thron. Und auch der Mutter des Königs ward ein Thron hingestellt, daß sie sich zu seiner Rechten setzte."
 "Und sie sprach
 "Sie sprach
 "Da antwortete der König Salomo und sprach zu seiner Mutter
@@ -29,7 +29,7 @@
 "Und es ward dem König Salomo gesagt
 "Als nun Benaja zum Zelte des HERRN kam, sprach er zu ihm
 "Der König sprach zu ihm
-"und daß der HERR sein Blut auf seinen eigenen Kopf kommen lasse, weil er zwei Männer erschlagen hat, die gerechter und besser waren als er, und sie mit dem Schwert umgebracht hat, da mein Vater David nichts darum wußte
+"und daß der HERR sein Blut auf seinen eigenen Kopf kommen lasse, weil er zwei Männer erschlagen hat, die gerechter #und besser waren als er, und sie mit dem Schwert umgebracht hat, da mein Vater David nichts darum wußte
 "Ihr Blut komme auf Joabs Kopf und auf den Kopf seines Samens ewiglich; David aber und sein Same, sein Haus und sein Thron, habe ewiglich Frieden von dem HERRN!"
 "Da ging Benaja, der Sohn Jojadas, hinauf und schlug ihn und tötete ihn; und er ward in seinem Hause begraben in der Wüste."
 "Da setzte der König Benaja, den Sohn Jojadas, an seine Stattüber das Heer; den Priester Zadok aber setzte der König an Abjatars Statt."

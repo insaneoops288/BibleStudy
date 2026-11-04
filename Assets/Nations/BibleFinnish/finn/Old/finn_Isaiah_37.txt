@@ -1,7 +1,7 @@
 "Kuin kuningas Hiskia tämän kuuli, repäisi hän vaatteensa, ja kääri säkin ympärillensä, ja meni Herran huoneeseen,"
 "Ja lähetti Eliakimin, huoneenhaltian, ja Sebnan, kirjoittajan, ylimmäisten pappein kanssa, puettuna säkkeihin, propheta Jesaian Amotsin pojan tykö,"
 "Sanomaan hänelle
-"Jospa siis Herra sinun Jumalas tahtois kuulla Rabsaken sanat, jonka hänen herransa Assyrian kuningas lähetti häpäisemään elävää Jumalaa, ja pilkkaamaan senkaltaisilla sanoilla kuin Herra sinun Jumalas on kuullut; ja ettäs tahtoisit korottaa rukoukses jääneiden edestä, jotka vielä käsissä ovat."
+"Jospa siis Herra sinun Jumalas tahtois kuulla Rabsaken sanat, jonka hänen herransa Assyrian kuningas lähetti häpäisemään elävää Jumalaa, ja pilkkaamaan #senkaltaisilla sanoilla kuin Herra sinun Jumalas on kuullut; ja ettäs tahtoisit korottaa rukoukses jääneiden edestä, jotka vielä käsissä ovat."
 "Ja kuningas Hiskian palveliat tulivat Jesaian tykö."
 "Mutta Jesaia sanoi heille
 "Katso, minä annan hänelle hengen, ja hänen pitää saaman kuulla sanoman, ja palajaman omalle maallensa; ja minä tahdon kaataa hänen miekalla hänen maassansa."
@@ -24,9 +24,9 @@
 "Sinun palveliais kautta olet sinä häväissyt Herraa, ja sanonut
 "Minä olen kaivanut ja juonut vettä; ja minun jalkapöytäni on kuivannut kaikki piiritetyt ojat."
 "Etkös ole kaukaa kuullut, että minä muinen juuri niin tehnyt ja sen toimittanut olen, ja vielä nyt niin teen, että vahvat kaupungit kukistetaan kiviraunioiksi?"
-"Ja heidän asujansa voimattomiksi ja epäileväisiksi tulevat, ja häpiään joutuvat; ja tulevat niinkuin kedon ruoho ja viheriäinen ruoho, niinkuin ruoho kattoin päällä, joka ennen kuivettuu kuin tuleentuu."
+"Ja heidän asujansa voimattomiksi ja epäileväisiksi tulevat, ja häpiään joutuvat; ja tulevat niinkuin kedon #ruoho ja viheriäinen ruoho, niinkuin ruoho kattoin päällä, joka ennen kuivettuu kuin tuleentuu."
 "Mutta minä tiedän sinun asumukses hyvin, sinun uloslähtemises ja sisällekäymises; ja sinun kiukuitsemises minua vastaan."
-"Ettäs kiukuitset minua vastaan, ja sinun ylpeytes on joutunut minun korvilleni, panen minä renkaani sinun sieraimiis ja suitseni sinun suuhus, ja vien sinun sitä tietä jälleen takaperin, jotas tullutkin olet."
+"Ettäs kiukuitset minua vastaan, ja sinun ylpeytes on joutunut minun korvilleni, panen minä renkaani sinun sieraimiis #ja suitseni sinun suuhus, ja vien sinun sitä tietä jälleen takaperin, jotas tullutkin olet."
 "Ja tämä pitää oleman sinulle merkiksi
 "Ja pelastettuin ja jääneiden Juudan huoneesta pitää taas alhaalta juurtuman,ja ylhäältä kantaman hedelmän."
 "Sillä Jerusalemista pitää vielä nyt jääneiden tuleman ulos, ja vapahdetut Zionin vuorelta. Tätä on Herran Zebaotin kiivaus tekevä."
@@ -35,4 +35,4 @@
 "Sillä minä varjelen tämän kaupungin, niin että minä autan häntä, minun tähteni ja minun palveliani Davidin tähden."
 "Silloin läksi Herran enkeli ja löi Assyrian leirissä sata ja viisiyhdeksättäkymmentä tuhatta miestä. Ja kuin he varhain huomeneltain nousivat, katso, ne kaikki olivat kuolleiden ruumiit."
 "Ja Assyrian kuningas Sanherib läksi matkaansa ja palasi, ja asui Ninivessä."
-"Ja tapahtui, kuin hän rukoili jumalansa Nisrokin huoneessa, löivät hänen poikansa Adramelek ja Saretser hänen miekalla, ja pakenivat Araratin maalle. Ja hänen poikansa Assarhaddon tuli kuinkaaksi hänen siaansa."
+"Ja tapahtui, kuin hän rukoili jumalansa Nisrokin huoneessa, löivät hänen poikansa Adramelek ja Saretser hänen #miekalla, ja pakenivat Araratin maalle. Ja hänen poikansa Assarhaddon tuli kuinkaaksi hänen siaansa."

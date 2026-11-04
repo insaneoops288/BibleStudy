@@ -13,7 +13,7 @@
 "Atëherë ata thanë
 "Por Jozefi u tha atyre
 "Ja si do të viheni në provë
-"Dërgoni njerin prej jush të marrë vëllanë tuaj; dhe ju do të qëndroni këtu në burg, që fjalët tuaja të provohen dhe të shihet nëse thoni të vërtetën; për ndryshe, ashtu siç është e vërtetë që Faraoni jeton, ju jeni spiunë!""."
+"Dërgoni njerin prej jush të marrë vëllanë tuaj; dhe ju do të qëndroni këtu në burg, që fjalët tuaja të provohen #dhe të shihet nëse thoni të vërtetën; për ndryshe, ashtu siç është e vërtetë që Faraoni jeton, ju jeni spiunë!""."
 "Kështu i futi bashkë në burg për tri ditë."
 "Ditën e tretë, Jozefi u tha atyre
 "Në rast se jeni njerëz të ndershëm, njeri nga ju vëllezërit të rrijë i lidhur me zinxhir në burgun tonë, dhe ju shkoni t'u çoni grurë familjeve tuaja që vdesin urie;"

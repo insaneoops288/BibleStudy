@@ -1,9 +1,9 @@
 "Era Josué já velho e avançado em anos, quando lhe disse o Senhor
 "A terra que ainda fica é esta
-"desde Sior, que está defronte do Egipto, até o termo de Ecron para o norte, que se tem como pertencente aos cananeus; os cinco chefes dos filisteus; o gazeu, o asdodeu, o asqueloneu, o giteu, e o ecroneu; também os aveus;"
+"desde Sior, que está defronte do Egipto, até o termo de Ecron para o norte, que se tem como pertencente aos #cananeus; os cinco chefes dos filisteus; o gazeu, o asdodeu, o asqueloneu, o giteu, e o ecroneu; também os aveus;"
 "no sul toda a terra, dos cananeus, e Meara, que pertence aos sidónios, até Afeca, até o termo dos amorreus;"
 "como também a terra dos guebalitas, e todo o Líbano para o nascente do sol, desde Baal-Gade, ao pé do monte Hermon, até a entrada de Hamate;"
-"todos os habitantes da região montanhosa desde o Líbano até Misrefot-Maim, a saber, todos os sidónios. Eu os lançarei de diante dos filhos de Israel; tão-somente reparte a terra a Israel por herança, como já te mandei."
+"todos os habitantes da região montanhosa desde o Líbano até Misrefot-Maim, a saber, todos os sidónios. Eu os lançarei #de diante dos filhos de Israel; tão-somente reparte a terra a Israel por herança, como já te mandei."
 "Reparte, pois, agora esta terra por herança às nove tribos, e à meia tribo de Manassés."
 "Com a outra meia tribo os rubenitas e os gaditas já haviam recebido a sua herança do Jordão para o oriente, a qual Moisés, servo do Senhor, lhes tinha dado
 "desde Aroer, que está à borda do vale do Arnom, e a cidade que está no meio do vale, e todo o planalto de Madabá até Dibon;"
@@ -28,6 +28,6 @@
 "Essa região, com as suas cidades e aldeias, foi a herança dos filhos da Gade, segundo as suas famílias."
 "Também deu Moisés herança à meia tribo de Manassés; a qual foi repartida à meia tribo dos filhos de Manassés segundo as suas famílias."
 "Foi o seu território desde Maanaim; toda a Basan, todo o reino de Ogue, rei de Basan, e todas as aldeias de Jair, que estão em Basan, sessenta ao todo;"
-"e metade de Guilead, e Astarot, e Edrei, cidades do reino de Ogue, em Basan, foram para os filhos de Maquir, filho de Manassés, isto é, para a metade dos filhos de Maquir, segundo as suas famílias."
+"e metade de Guilead, e Astarot, e Edrei, cidades do reino de Ogue, em Basan, foram para os filhos #de Maquir, filho de Manassés, isto é, para a metade dos filhos de Maquir, segundo as suas famílias."
 "Isso é o que Moisés repartiu em herança nas planícies de Moab, do Jordão para o oriente, na altura de Jericó."
 "Contudo, à tribo de Levi Moisés não deu herança; o Senhor, Deus de Israel, é a sua herança, como lhe tinha dito."

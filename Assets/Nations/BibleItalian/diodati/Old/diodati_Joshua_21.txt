@@ -1,7 +1,7 @@
 "OR i Capi delle nazioni paterne dei Leviti vennero al Sacerdote Eleazaro, e a Giosuè, figliuolo di Nun, e ai Capi delle nazioni paterne delle tribù de’ figliuoli d’Israele;"
 "e parlarono loro, in Silo, nel paese di Canaan, dicendo
 "E i figliuoli d’Israele diedero della loro eredità a’ Leviti, secondo il comandamento del Signore, queste città co’ lor contorni."
-"E la sorte essendo tratta per le nazioni de’ Chehatiti, scaddero a sorte a’ figliuoli del Sacerdote Aaronne, d’infra i Leviti, tredici città della tribù di Giuda, e della tribù di Simeone, e della tribù di Beniamino."
+"E la sorte essendo tratta per le nazioni de’ Chehatiti, scaddero a sorte a’ figliuoli del Sacerdote Aaronne, d’infra #i Leviti, tredici città della tribù di Giuda, e della tribù di Simeone, e della tribù di Beniamino."
 "E al rimanente de’ figliuoli di Chehat, scaddero a sorte dieci città delle nazioni della tribù di Efraim, e della tribù di Dan, e della mezza tribù di Manasse."
 "E a’ figliuoli di Gherson scaddero a sorte tredici città delle nazioni della tribù d’Issacar, e della tribù di Aser, e della tribù di Neftali, e della mezza tribù di Manasse, in Basan."
 "Ai figliuoli di Merari, secondo le lor nazioni, scaddero dodici città, della tribù di Ruben, e della tribù di Gad, e della tribù di Zabulon."

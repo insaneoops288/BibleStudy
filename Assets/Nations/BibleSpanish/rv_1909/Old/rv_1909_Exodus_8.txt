@@ -18,7 +18,7 @@
 "Y los encantadores hicieron así también, para sacar piojos con sus encantamientos; mas no pudieron. Y había piojos así en los hombres como en las bestias."
 "Entonces los magos dijeron á Faraón
 "Y Jehová dijo á Moisés
-"Porque si no dejares ir á mi pueblo, he aquí yo enviaré sobre ti, y sobre tus siervos, y sobre tu pueblo, y sobre tus casas toda suerte de moscas; y las casas de los Egipcios se henchirán de toda suerte de moscas, y asimismo la tierra donde ellos estuvier"
+"Porque si no dejares ir á mi pueblo, he aquí yo enviaré sobre ti, y sobre tus siervos, y sobre tu pueblo, y sobre tus casas #toda suerte de moscas; y las casas de los Egipcios se henchirán de toda suerte de moscas, y asimismo la tierra donde ellos estuvier"
 "Y aquel día yo apartaré la tierra de Gosén, en la cual mi pueblo habita, para que ninguna suerte de moscas haya en ella; á fin de que sepas que yo soy Jehová en medio de la tierra."
 "Y yo pondré redención entre mi pueblo y el tuyo. Mañana será esta señal."
 "Y Jehová lo hizo así

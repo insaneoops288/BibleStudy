@@ -1,5 +1,5 @@
 "Potem król Dawid przemówił do całego zgromadzenia
-"Według wszystkich swoich sił przygotowałem na dom swojego Boga złoto na przedmioty złote, srebro – na srebrne, brąz – na brązowe, żelazo – na żelazne, drewno – na drewniane, kamienie onyksowe i do osadzania, kamienia błyszczące i różnokolorowe, wszelkiego rodzaju drogie kamienie i marmur w obfitości."
+"Według wszystkich swoich sił przygotowałem na dom swojego Boga złoto na przedmioty złote, srebro – na srebrne, brąz – na brązowe, żelazo – na #żelazne, drewno – na drewniane, kamienie onyksowe i do osadzania, kamienia błyszczące i różnokolorowe, wszelkiego rodzaju drogie kamienie i marmur w obfitości."
 "Ponadto z miłości do domu swego Boga oddaję ze swojego skarbca na dom mego Boga złota i srebra – poza tym wszystkim, co już przygotowałem na święty dom;"
 "Mianowicie trzy tysiące talentów złota, złota z Ofiru, i siedem tysięcy talentów najczystszego srebra na pokrycie ścian budynków;"
 "Złoto – na przedmioty złote, a srebro – na srebrne i na wszelkie ręczne prace rzemieślników. A kto jeszcze chciałby dziś dobrowolnie złożyć PANU dar?"
@@ -8,13 +8,13 @@
 "Ci, którzy mieli drogie kamienie, oddali je do skarbca domu PANA na rękę Jechiela Gerszonity."
 "I radował się lud z tego, że tak dobrowolnie złożono dary, gdyż sercem doskonałym, chętnie ofiarowywano PANU. Także i król Dawid wielce się radował."
 "Dawid więc błogosławił PANU przed całym zgromadzeniem i powiedział
-"Twoja, PANIE, jest wielkość, moc, chwała, zwycięstwo i majestat. Wszystko bowiem, co jest na niebie i na ziemi, jest twoje. Do ciebie należy królestwo, a ty jako głowa jesteś wyniesiony ponad wszystko."
+"Twoja, PANIE, jest wielkość, moc, chwała, zwycięstwo i majestat. Wszystko bowiem, co jest na niebie i na #ziemi, jest twoje. Do ciebie należy królestwo, a ty jako głowa jesteś wyniesiony ponad wszystko."
 "I bogactwo, i sława pochodzą od ciebie i ty panujesz nad wszystkimi; w twoich rękach jest moc i siła i w twojej ręce jest to, aby wywyższyć i umocnić wszystko."
 "Teraz więc, Boże nasz, dziękujemy ci i wychwalamy chwalebne imię twoje."
 "Lecz kim ja jestem i czym jest mój lud, żebyśmy zdołali ofiarować dobrowolnie te rzeczy? Od ciebie bowiem pochodzi wszystko i daliśmy tobie to, co z twojej ręki otrzymaliśmy."
 "Jesteśmy bowiem pielgrzymami i przychodniami przed tobą, tak jak wszyscy nasi ojcowie. Nasze dni na ziemi są jak cień i nie ma czego oczekiwać."
 "O PANIE, Boże nasz, cały ten dostatek, który przygotowaliśmy dla ciebie na budowę domu dla twojego świętego imienia, pochodzi z twojej ręki i twoje jest to wszystko."
-"Wiem ja, mój Boże, że badasz serca i upodobałeś sobie prawość. Dlatego w prawości swego serca dobrowolnie złożyłem w ofierze to wszystko. Teraz z radością widzę, że również twój lud, który znajduje się tutaj, dobrowolnie składa ci ofiary."
+"Wiem ja, mój Boże, że badasz serca i upodobałeś sobie prawość. Dlatego w prawości swego serca dobrowolnie złożyłem w ofierze #to wszystko. Teraz z radością widzę, że również twój lud, który znajduje się tutaj, dobrowolnie składa ci ofiary."
 "PANIE, Boże Abrahama, Izaaka i Izraela, naszych ojców, zachowaj na wieki te zamiary i myśli serca swego ludu i skłoń jego serca ku sobie."
 "Salomonowi, mojemu synowi, daj serce doskonałe, aby strzegł twoich przykazań, świadectw i ustaw, aby wykonał to wszystko i aby zbudował dom, do którego poczyniłem przygotowania."
 "Potem Dawid przemówił do całego zgromadzenia

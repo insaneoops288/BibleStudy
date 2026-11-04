@@ -1,7 +1,7 @@
 "COSÌ ha detto il Signore
 "Ascolta la parola del Signore o re di Giuda, che siedi sopra il trono di Davide; tu, e i tuoi servitori, e il tuo popolo ch’entrate per queste porte."
 "Così ha detto il Signore
-"Perciocchè, se pur mettete ad affetto questa parola, i re del legnaggio di Davide, che seggono sopra il suo trono, entreranno per le porte di questa Casa, montati sopra carri, e sopra cavalli, essi, ed i lor servitori, ed il lor popolo."
+"Perciocchè, se pur mettete ad affetto questa parola, i re del legnaggio di Davide, che seggono sopra il suo trono, entreranno per #le porte di questa Casa, montati sopra carri, e sopra cavalli, essi, ed i lor servitori, ed il lor popolo."
 "Ma se voi non ascoltate queste parole, io giuro per me stesso, dice il Signore, che questa Casa sarà messa in desolazione."
 "Perciocchè, così ha detto il Signore intorno alla casa del re di Giuda
 "Io ordinerò contro a te de’ guastatori, che avranno ciascuno le sue armi; e taglieranno la scelta de’ tuoi cedri, e li gitteranno nel fuoco."
@@ -25,6 +25,6 @@
 "e ti darò in man di quelli che cercano l’anima tua, e in man di quelli de’ quali tu hai spavento, e in man di Nebucadnesar, re di Babilonia, e in man de’ Caldei."
 "E caccerò te, e tua madre che ti ha partorito, in un paese strano, dove non siete nati; e quivi morrete."
 "E quant’è al paese, al quale essi hanno l’animo intento, per tornarvi, non vi torneranno."
-"È quest’uomo Conia un idolo sprezzato, e rotto in pezzi? è egli un vaso, del quale non si fa stima alcuna? perchè dunque sono stati cacciati egli, e la sua progenie, e gettati in un paese, che non conoscono?"
+"È quest’uomo Conia un idolo sprezzato, e rotto in pezzi? è egli un vaso, del quale non si fa stima #alcuna? perchè dunque sono stati cacciati egli, e la sua progenie, e gettati in un paese, che non conoscono?"
 "O paese, o paese, o paese, ascolta la parola del Signore!"
 "Così ha detto il Signore

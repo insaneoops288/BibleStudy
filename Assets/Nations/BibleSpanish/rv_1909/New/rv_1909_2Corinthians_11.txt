@@ -23,7 +23,7 @@
 "¿Son ministros de Cristo? (como poco sabio hablo) yo más
 "De los judíos cinco veces he recibido cuarenta azotes menos uno."
 "Tres veces he sido azotado con varas; una vez apedreado; tres veces he padecido naufragio; una noche y un día he estado en lo profundo de la mar;"
-"En caminos muchas veces, peligros de ríos, peligros de ladrones, peligros de los de mi nación, peligros de los Gentiles, peligros en la ciudad, peligros en el desierto, peligros en la mar, peligros entre falsos hermanos;"
+"En caminos muchas veces, peligros de ríos, peligros de ladrones, peligros de los de mi nación, peligros de los #Gentiles, peligros en la ciudad, peligros en el desierto, peligros en la mar, peligros entre falsos hermanos;"
 "En trabajo y fatiga, en muchas vigilias, en hambre y sed, en muchos ayunos, en frío y en desnudez;"
 "Sin otras cosas además, lo que sobre mí se agolpa cada día, la solicitud de todas las iglesias."
 "¿Quién enferma, y yo no enfermo? ¿Quién se escandaliza, y yo no me quemo?"

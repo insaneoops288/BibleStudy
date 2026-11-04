@@ -12,7 +12,7 @@
 "Służyli bożkom, o których PAN im powiedział
 "A PAN świadczył przeciw Izraelowi i przeciw Judzie przez wszystkich proroków i wszystkich widzących, mówiąc
 "Lecz nie słuchali, ale uczynili twardym swój kark, jak kark ich ojców, którzy nie wierzyli w PANA, swego Boga."
-"I wzgardzili jego nakazami i przymierzem, które zawarł z ich ojcami, oraz jego świadectwami, którymi świadczył przeciwko nim, i chodzili za marnościami, stali się próżni i naśladowali pogan, którzy ich otaczali, co do których PAN im rozkazał, aby nie czynili tak jak oni."
+"I wzgardzili jego nakazami i przymierzem, które zawarł z ich ojcami, oraz jego świadectwami, którymi świadczył przeciwko nim, i chodzili za marnościami, #stali się próżni i naśladowali pogan, którzy ich otaczali, co do których PAN im rozkazał, aby nie czynili tak jak oni."
 "I opuścili wszystkie przykazania PANA, swego Boga, i wykonali sobie lane posągi – dwa cielce. Zrobili sobie też gaje, oddawali pokłon wszystkim zastępom niebieskim i służyli Baalowi."
 "Przeprowadzali swoich synów i swoje córki przez ogień, uprawiali wróżbiarstwo i czarnoksięstwo i zaprzedali się, aby czynić to, co złe w oczach PANA, pobudzając go do gniewu."
 "Dlatego PAN bardzo się rozgniewał na Izraela i odrzucił go sprzed swego oblicza. Nic nie pozostało oprócz samego pokolenia Judy."
@@ -21,7 +21,7 @@
 "Oderwał bowiem Izraela od domu Dawida, a oni ustanowili królem Jeroboama, syna Nebata. Jeroboam zaś odwiódł Izraela od naśladowania PANA i przywiódł go do popełnienia wielkiego grzechu."
 "I synowie Izraela chodzili we wszystkich grzechach Jeroboama, które czynił, a nie odstąpili od nich;"
 "Aż PAN odrzucił Izraela sprzed swego oblicza, jak zapowiedział przez wszystkie swoje sługi, proroków. I tak Izrael został uprowadzony ze swojej ziemi do Asyrii, i tak jest aż do dziś."
-"Potem król Asyrii sprowadził ludzi z Babilonu, z Kuta, z Awwa i z Chamat, i z Sefarwaim i osiedlił ich w miastach Samarii zamiast synów Izraela. Oni zaś posiedli Samarię i mieszkali w jej miastach."
+"Potem król Asyrii sprowadził ludzi z Babilonu, z Kuta, z Awwa i z Chamat, i z Sefarwaim i #osiedlił ich w miastach Samarii zamiast synów Izraela. Oni zaś posiedli Samarię i mieszkali w jej miastach."
 "A gdy zaczęli tam mieszkać, nie bali się PANA. PAN więc zesłał na nich lwy, które ich zabijały."
 "I doniesiono o tym królowi Asyrii
 "Wtedy król Asyrii rozkazał

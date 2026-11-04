@@ -17,7 +17,7 @@
 "A Iszaj powiedział do swojego syna Dawida
 "Również zaniesiesz tysiącznikowi dziesięć śmietankowych krajanek, rozpytasz się o powodzenie twych braci i przyniesiesz mi pewne świadectwo."
 "Saul i ci wszyscy mężowie israelscy znajdują się w dolinie Dębów, walcząc z Pelisztynami."
-"Zatem Dawid wstał wczesnym rankiem, powierzył trzodę stróżowi, zabrał juki i poszedł tam, gdzie polecił mu Iszaj. A kiedy przybył do taboru, właśnie wojsko wyruszyło w wojennym szyku i podniesiono wojenny okrzyk."
+"Zatem Dawid wstał wczesnym rankiem, powierzył trzodę stróżowi, zabrał juki i poszedł tam, gdzie polecił mu Iszaj. #A kiedy przybył do taboru, właśnie wojsko wyruszyło w wojennym szyku i podniesiono wojenny okrzyk."
 "W szyku stali zarówno Israelici, jak i Pelisztini szeregi naprzeciw szeregom."
 "Zatem Dawid zrzucił z siebie juki, przekazał je pod rękę stróża bagażów i pobiegł do bojowego szyku. A gdy przybył, zapytał się o swych braci oraz o ich powodzenie."
 "I gdy jeszcze z nimi rozmawiał, oto właśnie z pelisztyńskich szeregów wystąpił ten szermierz, imieniem Goljath, Pelisztyńczyk z Gath, oraz wygłosił wymienione słowa, więc Dawid je usłyszał."
@@ -43,13 +43,13 @@
 "Więc Pelisztyn powiedział
 "I Pelisztyn powiedział do Dawida
 "Zaś Dawid odpowiedział Pelisztynowi
-"Dzisiejszego dnia WIEKUISTY wyda cię w moją moc, pokonam cię oraz zdejmę ci twoją głowę; dzisiejszego dnia podam trupy pelisztyńskiego obozu ptactwu nieba oraz polnemu zwierzowi; a cała ziemia pozna, że Bóg jest w Israelu."
+"Dzisiejszego dnia WIEKUISTY wyda cię w moją moc, pokonam cię oraz zdejmę ci twoją głowę; dzisiejszego dnia podam #trupy pelisztyńskiego obozu ptactwu nieba oraz polnemu zwierzowi; a cała ziemia pozna, że Bóg jest w Israelu."
 "Cały ten tłum też pozna, że WIEKUISTY wspomaga nie mieczem ani nie włócznią; bo walka jest sprawą WIEKUISTEGO, więc On was podda w naszą moc."
 "Kiedy zatem Pelisztyn wyruszył i podszedł, zbliżając się do Dawida – Dawid pospieszył i pobiegł naprzeciw pelisztyńskiego szyku."
 "Nadto Dawid sięgnął swą ręką do torby, wyjął stamtąd kamień, rzucił go procą i trafił Pelisztyna w czoło. Kamień utkwił w jego czole tak, że upadł twarzą na ziemię."
 "Tak Dawid przemógł Pelisztyna procą oraz kamieniem; powalił Pelisztyńczyka i go zabił, choć Dawid nie miał w ręce miecza."
 "Zatem Dawid pobiegł, stanął przy Pelisztynie, wziął jego miecz i wyciągnął go z jego pochwy; po czy go dobił i uciął mu jego głowę. Zaś Pelisztini widząc, że zginął ich rycerz – uciekli."
-"A mężowie Israela i Judy powstali, wydali radosny okrzyk i puścili się w pogoń za Pelisztynami, aż do doliny oraz bram Ekronu; tak, że pelisztyńskie trupy padały jeszcze po drodze do Szaaraim, do Gad, i do Ekronu."
+"A mężowie Israela i Judy powstali, wydali radosny okrzyk i puścili się w pogoń za Pelisztynami, aż do doliny #oraz bram Ekronu; tak, że pelisztyńskie trupy padały jeszcze po drodze do Szaaraim, do Gad, i do Ekronu."
 "Potem synowie Israela wrócili z pościgu za Pelisztynami i splądrowali ich obozowiska."
 "Zaś Dawid wziął głowę Pelisztyna i przyniósł ją do Jeruszalaim, a jego zbroję umieścił w swoim namiocie."
 "Kiedy Saul ujrzał Dawida występującego przeciwko Pelisztynowi, zapytał się Abnera, wodza wojsk

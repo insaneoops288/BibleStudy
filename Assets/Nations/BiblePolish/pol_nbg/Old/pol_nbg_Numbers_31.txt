@@ -20,14 +20,14 @@
 "Oczyśćcie też każdą szatę, każdą skórzaną rzecz, każdy wyrób z koziej sierści i każde drewniane naczynie."
 "A kapłan Elazar powiedział do wojowników, którzy wyszli na wojnę
 "Złoto, srebro, miedź, żelazo, cynę i ołów,"
-"wszystko, co przechodzi przez ogień przeprowadźcie przez ogień, a będzie czyste; jednak musi być oczyszczone także wodą oczyszczającą. Zaś wszystko, co nie przechodzi przez ogień przeprowadźcie przez wodę."
+"wszystko, co przechodzi przez ogień przeprowadźcie przez ogień, a będzie czyste; jednak musi być oczyszczone #także wodą oczyszczającą. Zaś wszystko, co nie przechodzi przez ogień przeprowadźcie przez wodę."
 "Siódmego dnia wypierzcie też swoje szaty oraz się oczyśćcie, a następnie możecie wejść do obozu."
 "Nadto WIEKUISTY oświadczył Mojżeszowi, mówiąc
 "Zbierz zastęp całej pojmanej zdobyczy z ludzi i bydła – ty, kapłan Elazar oraz naczelnicy rodów w zborze."
 "Potem rozdziel tę zdobycz na pół, pomiędzy czynnych na wojnie, którzy przystępowali do boju, oraz pomiędzy cały zbór."
 "I pobierzesz dział WIEKUISTEGO
 "Weźmiecie to z ich połowy, jako daninę dla WIEKUISTEGO, i oddasz to Elazarowi, kapłanowi."
-"Zaś z połowy synów Israela weźmiesz po jednym z pięćdziesięciu z ludzi, z rogacizny, z osłów, z trzód i z wszelkiego domowego bydła i oddasz to Lewitom, którzy trzymają straż przy Przybytku WIEKUISTEGO."
+"Zaś z połowy synów Israela weźmiesz po jednym z pięćdziesięciu z ludzi, z rogacizny, z osłów, z #trzód i z wszelkiego domowego bydła i oddasz to Lewitom, którzy trzymają straż przy Przybytku WIEKUISTEGO."
 "Zatem Mojżesz uczynił wraz z kapłanem Elazarem tak, jak WIEKUISTY rozkazał Mojżeszowi."
 "A było tej zdobyczy z pozostałości łupów, które zagrabił lud wojenny
 "siedemdziesiąt dwa tysiące byków,"
@@ -44,7 +44,7 @@
 "trzydzieści sześć tysięcy byków,"
 "trzydzieści tysięcy pięćset osłów,"
 "zaś dusz ludzkich szesnaście tysięcy."
-"I Mojżesz wziął z tej połowy należącej do synów Israela po jednym z pięćdziesięciu z ludzi i z bydła i oddał to Lewitom, co trzymali straż przy Przybytku WIEKUISTEGO, jak WIEKUISTY rozkazał Mojżeszowi."
+"I Mojżesz wziął z tej połowy należącej do synów Israela po jednym z pięćdziesięciu z ludzi i #z bydła i oddał to Lewitom, co trzymali straż przy Przybytku WIEKUISTEGO, jak WIEKUISTY rozkazał Mojżeszowi."
 "Potem podeszli do Mojżesza wodzowie tysięcy wojska tysięcznicy oraz setnicy"
 "i powiedzieli do Mojżesza
 "Więc przynosimy na ofiarę dla WIEKUISTEGO co każdy zdobył

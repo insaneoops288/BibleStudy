@@ -1,6 +1,6 @@
 "plakat si nëna, të rejat si motra, me plot dlirësi."
 "Ndero vejushat që janë me të vërtetë të veja."
-"Por në qoftë se një e ve ka djem a nipa, këta le të mësojnë më parë të tregojnë perëndishmëri ndaj atyre të familjes së vet dhe t'ua shpërblejnë prindërve të tyre, sepse kjo është e mirë dhe e pëlqyer përpara Perëndisë."
+"Por në qoftë se një e ve ka djem a nipa, këta le të mësojnë më parë të tregojnë perëndishmëri ndaj atyre #të familjes së vet dhe t'ua shpërblejnë prindërve të tyre, sepse kjo është e mirë dhe e pëlqyer përpara Perëndisë."
 "Dhe ajo që është me të vërtetë e ve, dhe ka mbetur e vetme, e ka shpresën në Perëndinë dhe qëndron në lutje dhe në të falura natë e ditë."
 "Ndërsa ajo që jeton e shthurur, ndonëse rron, është e vdekur."
 "Porosit edhe këto gjëra, që të jenë të patëmeta."

@@ -16,7 +16,7 @@
 "Nebudeš choditi jako utrhač v lidu svém, aniž státi budeš na hrdlo bližnímu svému
 "Nebudeš nenáviděti bratra svého v srdci svém; svobodně potresceš bližního svého, a nesneseš na něm hříchu."
 "Nebudeš se mstíti, aniž držeti budeš hněvu proti synům lidu svého, ale milovati budeš bližního svého jako sebe samého
-"Ustanovení mých ostříhejte. Hovadu svému nedáš se scházeti s hovadem jiného pokolení. Pole svého neposeješ rozdílným semenem, a rouchem z rozdílných věcí, jako z vlny a ze lnu, setkaným nebudeš se odívati."
+"Ustanovení mých ostříhejte. Hovadu svému nedáš se scházeti s hovadem jiného pokolení. Pole svého neposeješ rozdílným semenem, #a rouchem z rozdílných věcí, jako z vlny a ze lnu, setkaným nebudeš se odívati."
 "Jestliže by muž spal s ženou, a obcoval s ní, kteráž děvkou jsuc, byla by zasnoubená jinému muži, a nebyla by žádnou mzdou vykoupena, ani propuštěna
 "On pak přivede obět za vinu svou Hospodinu ke dveřím stánku úmluvy, skopce za vinu."
 "I očistí jej kněz skopcem, kterýž se obětuje za vinu před Hospodinem, od hříchů jeho, kterýmž zhřešil, a bude mu odpuštěn hřích jeho."

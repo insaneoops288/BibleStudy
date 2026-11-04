@@ -18,9 +18,9 @@
 "Y en Tafnes se oscurecerá el día, cuando quiebre yo el yugo de Egipto, y cesará en ella la soberbia de su poderío; una nube la cubrirá, y sus hijas irán en cautiverio."
 "Ejecutaré, pues, juicios en Egipto y sabrán que yo soy Jehová."
 "Y aconteció en el año undécimo, en el mes primero, a los siete del mes, que vino a mí palabra de Jehová, diciendo
-"Hijo de hombre, he quebrado el brazo de Faraón rey de Egipto; y he aquí que no ha sido vendado para que pueda sanar, ni le han puesto faja para ligarlo, a fin de fortalecerle para que pueda sostener la espada."
+"Hijo de hombre, he quebrado el brazo de Faraón rey de Egipto; y he aquí que no ha sido vendado para #que pueda sanar, ni le han puesto faja para ligarlo, a fin de fortalecerle para que pueda sostener la espada."
 "Por tanto, así dice Jehová el Señor
 "Y esparciré a los egipcios entre las naciones, y los dispersaré por las tierras."
 "Y fortaleceré los brazos del rey de Babilonia, y pondré mi espada en su mano; mas quebraré los brazos de Faraón, y delante de aquél gemirá con gemidos de herido de muerte."
-"Fortaleceré, pues, los brazos del rey de Babilonia, y los brazos de Faraón caerán; y sabrán que yo soy Jehová, cuando yo ponga mi espada en la mano del rey de Babilonia, y él la extendiere contra la tierra de Egipto."
+"Fortaleceré, pues, los brazos del rey de Babilonia, y los brazos de Faraón caerán; y sabrán que yo soy Jehová, cuando #yo ponga mi espada en la mano del rey de Babilonia, y él la extendiere contra la tierra de Egipto."
 "Y esparciré a los egipcios entre las naciones, y los dispersaré por las tierras; y sabrán que yo soy Jehová."

@@ -10,7 +10,7 @@
 "Gdy też wyruszysz na wojnę przeciwko swoim wrogom i PAN, twój Bóg, wyda ich w twoje ręce, i weźmiesz z nich jeńców;"
 "I zobaczysz wśród jeńców piękną kobietę, którą sobie upodobasz, i chciałbyś pojąć ją za żonę;"
 "Wtedy przyprowadzisz ją do swego domu, a ona ogoli swoją głowę i obetnie sobie paznokcie;"
-"I złoży z siebie szatę, w której została pojmana, zostanie w twoim domu i będzie opłakiwać swego ojca i matkę przez cały miesiąc. Potem będziesz z nią obcował i będziesz jej mężem, a ona będzie twoją żoną."
+"I złoży z siebie szatę, w której została pojmana, zostanie w twoim domu i będzie opłakiwać swego ojca i #matkę przez cały miesiąc. Potem będziesz z nią obcował i będziesz jej mężem, a ona będzie twoją żoną."
 "A jeśli nie będzie ci się podobać, wtedy pozwolisz jej odejść, dokąd zechce; żadną miarą nie sprzedasz jej za pieniądze i nie będziesz nią kupczyć, gdyż ją poniżyłeś."
 "Gdyby mężczyzna miał dwie żony, jedną kochaną, a drugą znienawidzoną, i one urodzą mu synów – kochana i znienawidzona – a pierworodny będzie synem znienawidzonej;"
 "To gdy będzie przydzielał dobra swoim synom w dziedzictwo, nie będzie mógł ustanowić pierworodnym syna kochanej przed pierworodnym synem znienawidzonej;"
@@ -20,4 +20,4 @@
 "I powiedzą do starszych miasta
 "Wtedy wszyscy mężczyźni tego miasta ukamienują go na śmierć; w ten sposób usuniesz zło spośród siebie, a cały Izrael usłyszy o tym i będzie się bać."
 "A jeśli ktoś popełni grzech zasługujący na śmierć i poniesie śmierć, a powiesisz go na drzewie;"
-"Jego trup nie pozostanie na drzewie przez noc, lecz musisz go pochować tego samego dnia, bo ten, kto wisi, jest przeklęty przez Boga. Nie będziesz plugawił twojej ziemi, którą PAN, twój Bóg, daje ci w dziedzictwo."
+"Jego trup nie pozostanie na drzewie przez noc, lecz musisz go pochować tego samego dnia, bo ten, kto wisi, #jest przeklęty przez Boga. Nie będziesz plugawił twojej ziemi, którą PAN, twój Bóg, daje ci w dziedzictwo."

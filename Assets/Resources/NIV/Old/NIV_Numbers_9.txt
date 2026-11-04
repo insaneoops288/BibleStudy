@@ -10,8 +10,8 @@ Then the LORD said to Moses,
 "Tell the Israelites, 'When any of you or your descendants are unclean because of a dead body or are away on a journey, they may still celebrate the LORD'S Passover.
 They are to celebrate it on the fourteenth day of the second month at twilight. They are to eat the lamb, together with unleavened bread and bitter herbs.
 They must not leave any of it till morning or break any of its bones. When they celebrate the Passover, they must follow all the regulations.
-But if a man who is ceremonially clean and not on a journey fails to celebrate the Passover, that person must be cut off from his people because he did not present the LORD'S offering at the appointed time. That man will bear the consequences of his sin.
-"'An alien living among you who wants to celebrate the LORD'S Passover must do so in accordance with its rules and regulations. You must have the same regulations for the alien and the native-born.'"
+But if a man who is ceremonially clean and not on a journey fails to celebrate the Passover, that person must be cut off from #his people because he did not present the LORD'S offering at the appointed time. That man will bear the consequences of his sin.
+"'An alien living among you who wants to celebrate the LORD'S Passover must do so in accordance with #its rules and regulations. You must have the same regulations for the alien and the native-born.'"
 On the day the tabernacle, the Tent of the Testimony, was set up, the cloud covered it. From evening till morning the cloud above the tabernacle looked like fire.
 That is how it continued to be, the cloud covered it, and at night it looked like fire.
 Whenever the cloud lifted from above the Tent, the Israelites set out, wherever the cloud settled, the Israelites encamped.

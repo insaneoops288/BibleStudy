@@ -1,8 +1,8 @@
 "Perciocchè della sovvenzione, che è per i santi, mi è soverchio scrivervene."
-"Poichè io conosco la prontezza dell’animo vostro, per la quale io mi glorio di voi presso i Macedoni, dicendo che l’Acaia è pronta fin dall’anno passato; e lo zelo da parte vostra ne ha provocati molti."
+"Poichè io conosco la prontezza dell’animo vostro, per la quale io mi glorio di voi presso i Macedoni, dicendo #che l’Acaia è pronta fin dall’anno passato; e lo zelo da parte vostra ne ha provocati molti."
 "Or io ho mandati questi fratelli, acciocchè il nostro vanto di voi non riesca vano in questa parte; affinchè, come io dissi, siate presti."
 "Che talora, se, quando i Macedoni saranno venuti meco, non vi trovano presti, non siamo svergognati noi per non dir voi, in questa ferma confidanza del nostro vanto."
-"Perciò ho reputato necessario d’esortare i fratelli, che vadano innanzi a voi, e prima dieno compimento alla già significata vostra benedizione; acciocchè sia presta, pur come benedizione, e non avarizia."
+"Perciò ho reputato necessario d’esortare i fratelli, che vadano innanzi a voi, e prima dieno compimento #alla già significata vostra benedizione; acciocchè sia presta, pur come benedizione, e non avarizia."
 "Or questo è ciò che è detto
 "Ciascuno faccia come è deliberato nel cuor suo, non di mala voglia, nè per necessità; perciocchè Iddio ama un donatore allegro."
 "Or Iddio è potente, da fare abbondare in voi ogni grazia; acciocchè, avendo sempre ogni sufficienza in ogni cosa, voi abbondiate in ogni buona opera;"

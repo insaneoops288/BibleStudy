@@ -6,7 +6,7 @@
 "Y salió entonces de Samaria el rey Joram, y reconoció a todo Israel."
 "Y fue y envió a decir a Josafat rey de Judá
 "Y dijo
-"Partieron, <I>pues</I> , el rey de Israel, y el rey de Judá, y el rey de Idumea; y como anduvieron rodeando por el desierto siete días de camino, les faltó agua para el ejército, y para las bestias que los seguían."
+"Partieron, <I>pues</I> , el rey de Israel, y el rey de Judá, y el rey de Idumea; y como anduvieron rodeando #por el desierto siete días de camino, les faltó agua para el ejército, y para las bestias que los seguían."
 "Entonces el rey de Israel dijo
 "Mas Josafat dijo
 "Y Josafat dijo
@@ -21,7 +21,7 @@
 "Y todos los de Moab, cuando oyeron que los reyes subían a pelear contra ellos, se juntaron desde todos los que ceñían talabarte arriba, y se pusieron en la frontera."
 "Y cuando se levantaron por la mañana, y el sol salió sobre las aguas, vieron los de Moab desde lejos las aguas bermejas como sangre;"
 "y dijeron
-"Mas cuando llegaron al campamento de Israel, se levantaron los israelitas e hirieron a los de Moab, los cuales huyeron delante de ellos; y los hirieron <I>de nuevo</I> ; y <I>siguieron empero</I>  hiriendo <I>todavía</I>   a los de Moab."
-"Y asolaron las ciudades, y en todas las heredades fértiles echó cada uno su piedra, y las llenaron; taparon <I>también</I>  todas las fuentes de las aguas, y derribaron todos los buenos árboles; hasta que en Kir-hareset  solamente dejaron sus piedras; porque los honderos la cercaron, y la hirieron."
+"Mas cuando llegaron al campamento de Israel, se levantaron los israelitas e hirieron a los de Moab, los cuales huyeron delante #de ellos; y los hirieron <I>de nuevo</I> ; y <I>siguieron empero</I>  hiriendo <I>todavía</I>   a los de Moab."
+"Y asolaron las ciudades, y en todas las heredades fértiles echó cada uno su piedra, y las llenaron; taparon <I>también</I>  todas las fuentes de las #aguas, y derribaron todos los buenos árboles; hasta que en Kir-hareset  solamente dejaron sus piedras; porque los honderos la cercaron, y la hirieron."
 "Y cuando el rey de Moab vio que la batalla lo vencía, tomó consigo setecientos varones que sacaban espada, para romper contra el rey de Idumea; mas no pudieron."
 "Entonces arrebató a su primogénito que había de reinar en su lugar, y lo sacrificó en holocausto sobre el muro. Y hubo grande enojo en Israel; y se retiraron de él, y se volvieron a su tierra."

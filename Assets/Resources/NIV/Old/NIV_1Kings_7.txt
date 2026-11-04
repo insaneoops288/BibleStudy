@@ -11,7 +11,7 @@ The foundations were laid with large stones of good quality, some measuring ten 
 Above were high-grade stones, cut to size, and cedar beams.
 The great courtyard was surrounded by a wall of three courses of dressed stone and one course of trimmed cedar beams, as was the inner courtyard of the temple of the LORD with its portico.
 King Solomon sent to Tyre and brought Huram,
-whose mother was a widow from the tribe of Naphtali and whose father was a man of Tyre and a craftsman in bronze. Huram was highly skilled and experienced in all kinds of bronze work. He came to King Solomon and did all the work assigned to him.
+whose mother was a widow from the tribe of Naphtali and whose father was a man of Tyre and a craftsman in bronze. Huram was #highly skilled and experienced in all kinds of bronze work. He came to King Solomon and did all the work assigned to him.
 He cast two bronze pillars, each eighteen cubits high and twelve cubits around, by line.
 He also made two capitals of cast bronze to set on the tops of the pillars, each capital was five cubits high.
 A network of interwoven chains festooned the capitals on top of the pillars, seven for each capital.
@@ -28,7 +28,7 @@ He also made ten movable stands of bronze, each was four cubits long, four wide 
 This is how the stands were made, They had side panels attached to uprights.
 On the panels between the uprights were lions, bulls and cherubim, and on the uprights as well. Above and below the lions and bulls were wreaths of hammered work.
 Each stand had four bronze wheels with bronze axles, and each had a basin resting on four supports, cast with wreaths on each side.
-On the inside of the stand there was an opening that had a circular frame one cubit deep. This opening was round, and with its basework it measured a cubit and a half. Around its opening there was engraving. The panels of the stands were square, not round.
+On the inside of the stand there was an opening that had a circular frame one cubit deep. This opening was round, and with its #basework it measured a cubit and a half. Around its opening there was engraving. The panels of the stands were square, not round.
 The four wheels were under the panels, and the axles of the wheels were attached to the stand. The diameter of each wheel was a cubit and a half.
 The wheels were made like chariot wheels, the axles, rims, spokes and hubs were all of cast metal.
 Each stand had four handles, one on each corner, projecting from the stand.
@@ -47,5 +47,5 @@ The king had them cast in clay molds in the plain of the Jordan between Succoth 
 Solomon left all these things unweighed, because there were so many, the weight of the bronze was not determined.
 Solomon also made all the furnishings that were in the LORD'S temple, the golden altar, the golden table on which was the bread of the Presence,
 the lampstands of pure gold (five on the right and five on the left, in front of the inner sanctuary); the gold floral work and lamps and tongs,
-the pure gold basins, wick trimmers, sprinkling bowls, dishes and censers, and the gold sockets for the doors of the innermost room, the Most Holy Place, and also for the doors of the main hall of the temple.
-When all the work King Solomon had done for the temple of the LORD was finished, he brought in the things his father David had dedicated, the silver and gold and the furnishings, and he placed them in the treasuries of the LORD'S temple.
+the pure gold basins, wick trimmers, sprinkling bowls, dishes and censers, and the gold sockets for the doors of the #innermost room, the Most Holy Place, and also for the doors of the main hall of the temple.
+When all the work King Solomon had done for the temple of the LORD was finished, he brought in the things his father #David had dedicated, the silver and gold and the furnishings, and he placed them in the treasuries of the LORD'S temple.

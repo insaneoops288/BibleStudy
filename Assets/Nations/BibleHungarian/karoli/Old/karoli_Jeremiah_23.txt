@@ -29,7 +29,7 @@
 "Nem olyan-é az én igém, mint a tûz? azt mondja az Úr, mint a sziklazúzó põröly?"
 "Azért ímé én a prófétákra [támadok,] azt mondja az Úr, a kik az én beszédeimet ellopják egyik a másikától."
 "Ímé, én a prófétákra [támadok,] azt mondja az Úr, a kik felemelik nyelvöket és azt mondják
-"Ímé, én a [próféták]ra [támadok,] a kik hazug álmokat prófétálnak, azt mondja az Úr, és beszélik azokat, és megcsalják az én népemet az õ hazugságaikkal és hízelkedéseikkel, holott én nem küldtem õket, sem nem parancsoltam nékik, és használni sem használtak e népnek, azt mondja az Úr."
+"Ímé, én a [próféták]ra [támadok,] a kik hazug álmokat prófétálnak, azt mondja az Úr, és beszélik azokat, és megcsalják az én népemet az õ #hazugságaikkal és hízelkedéseikkel, holott én nem küldtem õket, sem nem parancsoltam nékik, és használni sem használtak e népnek, azt mondja az Úr."
 "Mikor pedig megkérdez téged e nép, vagy a próféta, vagy a pap, mondván
 "A mely próféta vagy pap, vagy község azt mondja
 "Kiki ezt mondja az õ barátjának és kiki az õ atyjafiának

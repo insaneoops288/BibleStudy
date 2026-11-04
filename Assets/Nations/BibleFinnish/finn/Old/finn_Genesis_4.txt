@@ -11,7 +11,7 @@
 "Ja nyt kirottu ole sinä
 "Koskas maata viljelet, niin ei pidä sen tästedes sinulle väkeänsä antaman; kulkian ja pakenevaisen pitää sinun oleman maan päällä."
 "Ja Kain sanoi Herralle
-"Katsos, sinä ajat minun pois tänäpäivänä maalta, ja minun pitää sinun kasvois edestä lymymän ja tulen kulkiaksi ja pakenevaiseksi maan päällä. Ja niin minun käy, kuka ikänänsä minun löytää, se tappaa minun."
+"Katsos, sinä ajat minun pois tänäpäivänä maalta, ja minun pitää sinun kasvois edestä lymymän ja tulen kulkiaksi #ja pakenevaiseksi maan päällä. Ja niin minun käy, kuka ikänänsä minun löytää, se tappaa minun."
 "Mutta Herra sanoi hänelle
 "Ja niin Kain läksi Herran kasvoin edestä, ja asui Nodin maalla, itään päin Edenistä."
 "Ja Kain tunsi emäntänsä, joka tuli raskaaksi, ja synnytti Hanokin. Ja hän rakensi kaupungin, jonka hän kutsui poikansa nimellä Hanok."

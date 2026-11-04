@@ -4,7 +4,7 @@
 "Y tal confianza tenemos mediante Cristo para con Dios;"
 "no que seamos suficientes de nosotros mismos para pensar algo como de nosotros mismos, sino que nuestra suficiencia viene de Dios;"
 "el cual también nos ha hecho ministros suficientes del nuevo testamento; no de la letra, sino del espíritu; porque la letra mata, mas el espíritu vivifica."
-"Y si el ministerio de muerte escrito y grabado en piedras fue glorioso, tanto que los hijos de Israel no podían fijar los ojos en el rostro de Moisés a causa de la gloria de su parecer, la cual había de fenecer,"
+"Y si el ministerio de muerte escrito y grabado en piedras fue glorioso, tanto que los hijos de Israel no podían fijar #los ojos en el rostro de Moisés a causa de la gloria de su parecer, la cual había de fenecer,"
 "¿cómo no será más glorioso el ministerio del espíritu?"
 "Porque si el ministerio de condenación fue glorioso, mucho más abundará en gloria el ministerio de la justificación."
 "Porque aun lo que fue glorioso, no es glorioso en este respecto, en comparación a la gloria más excelente."

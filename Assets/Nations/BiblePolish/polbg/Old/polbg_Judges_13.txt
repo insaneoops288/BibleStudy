@@ -11,7 +11,7 @@
 "A wstawszy Manue szedł za żoną swoją; a przyszedłszy do onego męża, rzekł mu
 "I rzekł Manue
 "I odpowiedział Anioł Pański Manuemu
-"Żadnej rzeczy, która pochodzi z winnej macicy, niechaj nie je; także wina ani napoju mocnego, niech nie pije, ani żadnej rzeczy nieczystej niech nie je, a com jej kolwiek przykazał, tego niech przestrzega."
+"Żadnej rzeczy, która pochodzi z winnej macicy, niechaj nie je; także wina ani napoju mocnego, niech nie #pije, ani żadnej rzeczy nieczystej niech nie je, a com jej kolwiek przykazał, tego niech przestrzega."
 "Tedy rzekł Manue do Anioła Pańskiego
 "Ale Anioł Pański odpowiedział Manuemu
 "Tedy rzekł Manue do Anioła Pańskiego

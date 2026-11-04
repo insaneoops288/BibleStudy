@@ -10,7 +10,7 @@
 "Ben-Hesede, em Arubote; também este tinha a Socó e a toda a terra de Héfer;"
 "Ben-Abinadabe, em todo o termo de Dor; tinha este a Tafate, filha de Salomão, por mulher;"
 "Baaná, filho de Ailude, tinha a Taanaque, e a Megido, e a toda a Bete-Seã, que está junto a Zaretã, abaixo de Jezreel, desde Bete-Seã até Abel-Meolá, até dalém de Jocmeão."
-"O filho de Geber, em Ramote-Gileade; tinha este as aldeias de Jair, filho de Manassés, as quais estão em Gileade; também tinha o termo de Argobe, o qual está em Basan, sessenta grandes cidades com muros e ferrolhos de cobre;"
+"O filho de Geber, em Ramote-Gileade; tinha este as aldeias de Jair, filho de Manassés, as quais estão em Gileade; também #tinha o termo de Argobe, o qual está em Basan, sessenta grandes cidades com muros e ferrolhos de cobre;"
 "Ainadabe, filho de Ido, em Maanaim;"
 "Aimaás, em Neftali; também este tomou a Basemate, filha de Salomão, por mulher;"
 "Baaná, filho de Husai, em Aser e em Bealote;"

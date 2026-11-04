@@ -10,11 +10,11 @@
 "Y esperó aún otros siete días, y volvió á enviar la paloma fuera del arca."
 "Y la paloma volvió á él á la hora de la tarde
 "Y esperó aún otros siete días, y envió la paloma, la cual no volvió ya más á él."
-"Y sucedió que en el año seiscientos y uno de Noé, en el mes primero, al primero del mes, las aguas se enjugaron de sobre la tierra y quitó Noé la cubierta del arca, y miró, y he aquí que la faz de la tierra estaba enjuta."
+"Y sucedió que en el año seiscientos y uno de Noé, en el mes primero, al primero del mes, las aguas se enjugaron de #sobre la tierra y quitó Noé la cubierta del arca, y miró, y he aquí que la faz de la tierra estaba enjuta."
 "Y en el mes segundo, á los veintisiete días del mes, se secó la tierra."
 "Y habló Dios á Noé diciendo
 "Sal del arca tú, y tu mujer, y tus hijos, y las mujeres de tus hijos contigo."
-"Todos los animales que están contigo de toda carne, de aves y de bestias y de todo reptil que anda arrastrando sobre la tierra, sacarás contigo; y vayan por la tierra, y fructifiquen, y multiplíquense sobre la tierra."
+"Todos los animales que están contigo de toda carne, de aves y de bestias y de todo reptil que anda #arrastrando sobre la tierra, sacarás contigo; y vayan por la tierra, y fructifiquen, y multiplíquense sobre la tierra."
 "Entonces salió Noé, y sus hijos, y su mujer, y las mujeres de sus hijos con él."
 "Todos los animales, y todo reptil y toda ave, todo lo que se mueve sobre la tierra según sus especies, salieron del arca."
 "Y edificó Noé un altar á Jehová y tomó de todo animal limpio y de toda ave limpia, y ofreció holocausto en el altar."

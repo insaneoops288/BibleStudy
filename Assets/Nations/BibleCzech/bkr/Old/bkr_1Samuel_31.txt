@@ -4,7 +4,7 @@
 "I řekl Saul oděnci svému
 "Tedy vida oděnec jeho, že umřel Saul, nalehl i on na meč svůj a umřel s ním."
 "A tak umřel Saul a tři synové jeho, a oděnec jeho, ano i všickni muži jeho v ten den spolu."
-"Když pak uzřeli synové Izraelští, kteříž bydlili za tím údolím, a kteříž bydlili za Jordánem, že zutíkali muži Izraelští, nadto že Saul i synové jeho zahynuli, opustivše města, také utíkali. I přišli Filistinští a bydlili v nich."
+"Když pak uzřeli synové Izraelští, kteříž bydlili za tím údolím, a kteříž bydlili za Jordánem, že zutíkali muži Izraelští, #nadto že Saul i synové jeho zahynuli, opustivše města, také utíkali. I přišli Filistinští a bydlili v nich."
 "A když bylo nazejtří, přišli Filistinští, aby zloupili pobité; i nalezli Saule a tři syny jeho ležící na hoře Gelboe."
 "I sťali hlavu jeho a svlékli odění jeho, a poslali po zemi Filistinské vůkol, aby to ohlášeno bylo v chrámě modl jejich i lidu."
 "I složili odění jeho v chrámě Astarot, tělo pak jeho přibili na zdi Betsan."

@@ -1,9 +1,9 @@
 "Én is a méd Dárius elsõ esztendejében mellette állék, hogy õt támogassam és segítségére legyek."
 "És most igazságot jelentek néked
 "És támad egy erõs király és uralkodik nagy hatalommal és tetszése szerint cselekszik."
-"De alighogy támadt, megrontatik az õ országa és elosztatik az égnek négy tája szerint, de nem [száll] az õ maradékira, és nem az õ hatalma szerint, a melylyel õ uralkodott, mert szétszaggattatik az õ birodalma, és másoknak [adatik] ezeken kivül."
+"De alighogy támadt, megrontatik az õ országa és elosztatik az égnek négy tája szerint, de nem [száll] az õ maradékira, és #nem az õ hatalma szerint, a melylyel õ uralkodott, mert szétszaggattatik az õ birodalma, és másoknak [adatik] ezeken kivül."
 "És elhatalmasodik a déli király, de az õ vezérei közül is [egyik, ]és [ez] hatalmat vesz rajta és uralkodik, nagy uralkodás lesz az õ uralkodása."
-"És esztendõk mulva szövetkeznek, és a déli király leánya az északi királyhoz megy, hogy békéltessen, de a kar erejét meg nem tarthatja, és õ sem áll meg, sem az õ karja, hanem kiszolgáltatják õt és az õ kisérõit és az õ nemzõjét és azt, a ki õt egy ideig gyámolította."
+"És esztendõk mulva szövetkeznek, és a déli király leánya az északi királyhoz megy, hogy békéltessen, de a kar erejét meg nem tarthatja, és õ sem áll #meg, sem az õ karja, hanem kiszolgáltatják õt és az õ kisérõit és az õ nemzõjét és azt, a ki õt egy ideig gyámolította."
 "De támad helyébe az õ gyökerének csemetéje közül, a ki a had ellen jön majd, és tör az északi király erõsségeire, és azokat megszállja és beveszi."
 "És azoknak isteneit is bálványaikkal és drága arany- és ezüstedényeikkel együtt fogságba viszi Égyiptomba, és néhány esztendeig erõsebb lesz, mint az északi király."
 "Ez ugyan bemegy a déli király országába, de visszatér az õ földére."
@@ -33,7 +33,7 @@
 "És a nép értelmesei sokakat oktatnak, de hullanak fegyver és tûz miatt, fogság és rablás miatt napokig."
 "És miközben elhullanak, megsegíttetnek kicsiny segítséggel, és sokan csatlakoznak hozzájok képmutató beszédekkel."
 "És elhullanak az értelmesek közül is, hogy megpróbáltassanak, megtisztíttassanak és megfehéríttessenek a vég idejéig; mert a rendelt idõ még [hátra] van."
-"És a király a maga tetszése szerint cselekszik és felfuvalkodik és felmagasztalja magát minden isten felett, és az istenek Istene ellen is vakmerõn szól, és szerencsés lesz, mígnem betelik a harag; mert a mi elhatároztatott, az végre [is] hajtatik."
+"És a király a maga tetszése szerint cselekszik és felfuvalkodik és felmagasztalja magát minden isten felett, és az istenek Istene #ellen is vakmerõn szól, és szerencsés lesz, mígnem betelik a harag; mert a mi elhatároztatott, az végre [is] hajtatik."
 "Nem gondol atyáinak isteneivel, nem gondol az asszonyok kedvenczével, és egy istennel sem; hanem mindennek fölibe magasztalja magát."
 "De a helyett tiszteli az erõdök istenét annak helyén; és azt az istent, a kit nem ismertek az õ atyái, tiszteli aranynyal, ezüsttel, drágakövekkel és becses [ajándékok]kal."
 "És az erõdített városokban így teszen az idegen istenek nevében

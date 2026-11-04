@@ -10,8 +10,8 @@
 "Fala aos filhos de Israel, dizendo
 "No segundo mês, no dia
 "Dela não deixarão nada até pela manhã, nem quebrarão dela osso algum; segundo todo o estatuto da páscoa a celebrarão."
-"Mas o homem que, estando limpo e não se achando em viagem, deixar de celebrar a páscoa, essa alma será extirpada do seu povo; porquanto não ofereceu a oferta do Senhor a seu tempo determinado, tal homem levará o seu pecado."
-"Também se um estrangeiro peregrinar entre vós e celebrar a páscoa ao Senhor, segundo o estatuto da páscoa e segundo a sua ordenança a celebrará; haverá um só estatuto, quer para o estrangeiro, quer para o natural da terra."
+"Mas o homem que, estando limpo e não se achando em viagem, deixar de celebrar a páscoa, essa alma será extirpada #do seu povo; porquanto não ofereceu a oferta do Senhor a seu tempo determinado, tal homem levará o seu pecado."
+"Também se um estrangeiro peregrinar entre vós e celebrar a páscoa ao Senhor, segundo o estatuto da páscoa e segundo #a sua ordenança a celebrará; haverá um só estatuto, quer para o estrangeiro, quer para o natural da terra."
 "No dia em que foi levantado o tabernáculo, a nuvem cobriu o tabernáculo, isto é, a própria tenda do testemunho; e desde a tarde até pela manhã havia sobre o tabernáculo uma aparência de fogo."
 "Assim acontecia de contínuo
 "Mas sempre que a nuvem se alçava de sobre a tenda, os filhos de Israel partiam; e no lugar em que a nuvem parava, ali os filhos de Israel se acampavam."
@@ -19,5 +19,5 @@
 "E, quando a nuvem se detinha sobre o tabernáculo muitos dias, os filhos de Israel cumpriam o mandado do Senhor, e não partiam."
 "Às vezes a nuvem ficava poucos dias sobre o tabernáculo; então à ordem do Senhor permaneciam acampados, e à ordem do Senhor partiam."
 "Outras vezes ficava a nuvem desde a tarde até pela manhã; e quando pela manhã a nuvem se alçava, eles partiam; ou de dia ou de noite, alçando-se a nuvem, partiam."
-"Quer fosse por dois dias, quer por um mês, quer por mais tempo, que a nuvem se detinha sobre o tabernáculo, enquanto ficava sobre ele os filhos de Israel permaneciam acampados, e não partiam; mas, alçando-se ela, eles partiam."
+"Quer fosse por dois dias, quer por um mês, quer por mais tempo, que a nuvem se detinha sobre o #tabernáculo, enquanto ficava sobre ele os filhos de Israel permaneciam acampados, e não partiam; mas, alçando-se ela, eles partiam."
 "À ordem do Senhor se acampavam, e à ordem do Senhor partiam; cumpriam o mandado do Senhor, que ele lhes dera por intermédio de Moisés."

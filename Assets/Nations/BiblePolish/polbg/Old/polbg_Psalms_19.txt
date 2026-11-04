@@ -11,4 +11,4 @@
 "Pożądliwsze nad złoto, i nad wiele najwyborniejszego złota, i słodsze nad miód i nad plastr miodowy."
 "Sługa też twój bywa oświecony przez nie; a kto ich przestrzega, odnosi zapłatę wielką."
 "Ale występki któż zrozumie? od tajemnych występków oczyść mię."
-"I od swawolnych zachowaj sługę twego, aby nie panowali nademną; tedy doskonałym będę, a będę oczyszczony od przestępstwa wielkiego. Niechże będą przyjemne słowa ust moich, i rozmyślanie serca mego przed obliczem twojem, Panie, skało moja, i odkupicielu mój!"
+"I od swawolnych zachowaj sługę twego, aby nie panowali nademną; tedy doskonałym będę, a będę oczyszczony od przestępstwa wielkiego. Niechże #będą przyjemne słowa ust moich, i rozmyślanie serca mego przed obliczem twojem, Panie, skało moja, i odkupicielu mój!"

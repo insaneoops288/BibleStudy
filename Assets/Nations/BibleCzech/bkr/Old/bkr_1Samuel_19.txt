@@ -2,7 +2,7 @@
 "I oznámil to Jonata Davidovi, řka
 "Ale jáť vyjdu a státi budu při boku otci svému na poli, kdež ty budeš, a budu mluviti o tobě s otcem svým, a čemuž vyrozumím, oznámím tobě."
 "I mluvil Jonata o Davidovi dobře Saulovi otci svému, a řekl
-"Nebo se opovážil života svého a zabil Filistinského, a učinil Hospodin vysvobození veliké všemu Izraeli. Viděls to a radoval jsi se. Pročež bys tedy hřešil proti krvi nevinné, chtěje zabiti Davida bez příčiny?"
+"Nebo se opovážil života svého a zabil Filistinského, a učinil Hospodin vysvobození veliké všemu Izraeli. Viděls to #a radoval jsi se. Pročež bys tedy hřešil proti krvi nevinné, chtěje zabiti Davida bez příčiny?"
 "I uposlechl Saul řeči Jonatovy a přisáhl Saul, řka
 "Tedy Jonata povolal Davida, a oznámil jemu Jonata všecka slova tato. A přivedl Jonata Davida k Saulovi, i byl před ním jako i prvé."
 "Vznikla pak opět válka; a vytáh David, bojoval proti Filistinským, a porazil je porážkou velikou, a utekli před ním."

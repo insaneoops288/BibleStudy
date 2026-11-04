@@ -10,7 +10,7 @@
 "E não murmureis, como alguns deles murmuraram, e pereceram pelo destruidor."
 "Ora, tudo isto lhes acontecia como exemplo, e foi escrito para aviso nosso, para quem já são chegados os fins dos séculos."
 "Aquele, pois, que pensa estar em pé, olhe não caia."
-"Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus, o qual não deixará que sejais tentados acima do que podeis resistir, antes com a tentação dará também o meio de saída, para que a possais suportar."
+"Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus, o qual não deixará que sejais tentados acima do #que podeis resistir, antes com a tentação dará também o meio de saída, para que a possais suportar."
 "Portanto, meus amados, fugi da idolatria."
 "Falo como a entendidos; julgai vós mesmos o que digo."
 "Porventura o cálice de bênção que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos, não é porventura a comunhão do corpo de Cristo?"

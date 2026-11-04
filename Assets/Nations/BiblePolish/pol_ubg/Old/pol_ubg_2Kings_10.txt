@@ -16,9 +16,9 @@
 "Potem powiedział
 "A gdy przyjechał do Samarii, zabił wszystkich, którzy pozostali z domu Achaba w Samarii, i wytracił ich według słowa PANA, które wypowiedział do Eliasza."
 "Potem Jehu zebrał cały lud i powiedział do niego
-"Teraz więc zwołajcie do mnie wszystkich proroków Baala, wszystkie jego sługi i wszystkich jego kapłanów, niech nikogo nie zabraknie. Złożę bowiem wielką ofiarę Baalowi. Ktokolwiek się nie stawi, nie pozostanie przy życiu. Lecz Jehu działał podstępnie, chcąc wytracić czcicieli Baala."
+"Teraz więc zwołajcie do mnie wszystkich proroków Baala, wszystkie jego sługi i wszystkich jego kapłanów, niech nikogo nie zabraknie. Złożę bowiem #wielką ofiarę Baalowi. Ktokolwiek się nie stawi, nie pozostanie przy życiu. Lecz Jehu działał podstępnie, chcąc wytracić czcicieli Baala."
 "Jehu dalej rozkazał
-"Potem Jehu rozesłał posłańców po całym Izraelu. I zeszli się wszyscy czciciele Baala, tak że nie było spośród nich nikogo, kto by nie przyszedł. Weszli do domu Baala i wypełnił się dom Baala od krańca aż do krańca."
+"Potem Jehu rozesłał posłańców po całym Izraelu. I zeszli się wszyscy czciciele Baala, tak że nie było spośród nich nikogo, #kto by nie przyszedł. Weszli do domu Baala i wypełnił się dom Baala od krańca aż do krańca."
 "Następnie powiedział przełożonemu szatni
 "Wtedy Jehu wraz z Jonadabem, synem Rechaba, wszedł do domu Baala i powiedział czcicielom Baala
 "Weszli więc, aby złożyć ofiary i całopalenia. Lecz Jehu postawił sobie na zewnątrz osiemdziesięciu mężczyzn, którym powiedział

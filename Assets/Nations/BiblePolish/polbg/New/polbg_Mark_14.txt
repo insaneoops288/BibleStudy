@@ -1,6 +1,6 @@
 "A po dwóch dniach była wielkanoc, święto przaśników; i szukali przedniejsi kapłani i nauczeni w Piśmie, jakoby go zdradą pojmawszy, zabili."
 "Lecz mówili
-"A gdy on był w Betanii, w domu Szymona trędowatego, gdy siedział u stołu, przyszła niewiasta, mając słoik alabastrowy maści szpikanardowej płynącej, bardzo kosztownej, a stłukłszy słoik alabastrowy, wylała ją na głowę jego."
+"A gdy on był w Betanii, w domu Szymona trędowatego, gdy siedział u stołu, przyszła niewiasta, mając #słoik alabastrowy maści szpikanardowej płynącej, bardzo kosztownej, a stłukłszy słoik alabastrowy, wylała ją na głowę jego."
 "I gniewali się niektórzy sami w sobie, a mówili
 "Albowiem się to mogło sprzedać drożej niż za trzysta groszy, i rozdać ubogim; i szemrali przeciwko niej."
 "Ale Jezus rzekł

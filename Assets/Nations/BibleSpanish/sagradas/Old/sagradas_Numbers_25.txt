@@ -3,7 +3,7 @@
 "Y se allegó el pueblo a Baal-peor; y el furor del SEÑOR se encendió contra Israel."
 "Y el SEÑOR dijo a Moisés
 "Entonces Moisés dijo a los jueces de Israel
-"Entonces he aquí un varón de los hijos de Israel vino y trajo una madianita a sus hermanos, a ojos de Moisés y de toda la congregación de los hijos de Israel, llorando ellos a la puerta del tabernáculo del testimonio."
+"Entonces he aquí un varón de los hijos de Israel vino y trajo una madianita a sus hermanos, a ojos de #Moisés y de toda la congregación de los hijos de Israel, llorando ellos a la puerta del tabernáculo del testimonio."
 "Y lo vio Finees, hijo de Eleazar, hijo de Aarón sacerdote, y se levantó de en medio de la congregación, y tomó una lanza en su mano;"
 "y fue tras el varón de Israel a la tienda, y los alanceó a ambos, al varón de Israel, y a la mujer por su vientre. Y cesó la mortandad de los hijos de Israel."
 "Y murieron de aquella mortandad veinticuatro mil."
@@ -15,4 +15,4 @@
 "Y el nombre de la mujer madianita muerta, <I>era</I>  Cozbi, hija de Zur, príncipe de pueblos, padre de familia en Madián."
 "Y el SEÑOR habló a Moisés, diciendo
 "Afligiréis a los madianitas, y los heriréis;"
-"por cuanto ellos os afligieron a vosotros con sus engaños, con que os han engañado en el negocio de Peor, y en el negocio de Cozbi, hija del príncipe de Madián, su hermana, la cual fue muerta el día de la mortandad por causa  de Peor."
+"por cuanto ellos os afligieron a vosotros con sus engaños, con que os han engañado en el negocio de Peor, y en el negocio #de Cozbi, hija del príncipe de Madián, su hermana, la cual fue muerta el día de la mortandad por causa  de Peor."

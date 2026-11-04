@@ -3,7 +3,7 @@
 "Pha-ra-ôn hỏi
 "Rồi lại tâu rằng
 "Pha-ra-ôn phán cùng Giô-sép như vầy
-"vậy, xứ Ê-díp-tô sẵn dành cho ngươi; hãy cho cha và anh em ở chốn nào tốt hơn hết trong xứ; hãy cho ở tại xứ Gô-sen vậy. Và nếu trong các người đó, ngươi biết ai giỏi, hãy đặt họ chăn các bầy súc vật của ta."
+"vậy, xứ Ê-díp-tô sẵn dành cho ngươi; hãy cho cha và anh em ở chốn nào tốt hơn hết trong xứ; hãy cho ở tại #xứ Gô-sen vậy. Và nếu trong các người đó, ngươi biết ai giỏi, hãy đặt họ chăn các bầy súc vật của ta."
 "Ðoạn, Giô-sép dẫn Gia-cốp, cha mình, đến yết-kiến Pha-ra-ôn. Gia-cốp chúc phước cho Pha-ra-ôn."
 "Pha-ra-ôn hỏi Gia-cốp rằng
 "Gia-cốp tâu rằng
@@ -16,10 +16,10 @@
 "Giô-sép đáp rằng
 "Ðoạn, dân chúng bèn dẫn súc vật lại cho Giô-sép; Giô-sép phát lương thực đổi lấy ngựa, bầy chiên, bầy bò, và lừa. Năm đó, người thâu các bầy súc vật của họ mà đổi thế lương thực cho."
 "Mãn năm rồi, năm sau dân chúng lại đến kêu cùng người rằng
-"Lẽ nào chúng tôi và đất ruộng phải hao mòn trước mặt chúa sao? Hãy mua đổi lấy lương thực chúng tôi và đất ruộng luôn đi. Vậy, chúng tôi cùng đất ruộng sẽ làm tôi mọi cho Pha-ra-ôn. Hãy cho giống chi đặng gieo, hầu cho chúng tôi sống khỏi chết, và đất không phải bỏ hoang."
+"Lẽ nào chúng tôi và đất ruộng phải hao mòn trước mặt chúa sao? Hãy mua đổi lấy lương thực chúng tôi và đất ruộng luôn đi. Vậy, chúng tôi #cùng đất ruộng sẽ làm tôi mọi cho Pha-ra-ôn. Hãy cho giống chi đặng gieo, hầu cho chúng tôi sống khỏi chết, và đất không phải bỏ hoang."
 "Giô-sép bèn mua hết thảy ruộng đất trong xứ Ê-díp-tô cho Pha-ra-ôn; vì sự đói kém thúc giục nên mọi người Ê-díp-tô đều đem bán ruộng mình; vậy, ruộng đất đều thuộc về Pha-ra-ôn."
 "Còn dân chúng, từ đầu nầy đến đầu kia, người đều dời về ở trong các thành."
-"Song ruộng đất của những thầy cả thì Giô-sép không mua đến, vì những thầy cả có lãnh một phần lương của Pha-ra-ôn đã định; vậy, họ ăn phần lương thực của Pha-ra-ôn đã cấp cho. Thế cho nên những thầy cả chẳng đem bán đất của mình."
+"Song ruộng đất của những thầy cả thì Giô-sép không mua đến, vì những thầy cả có lãnh một phần lương của Pha-ra-ôn đã định; #vậy, họ ăn phần lương thực của Pha-ra-ôn đã cấp cho. Thế cho nên những thầy cả chẳng đem bán đất của mình."
 "Giô-sép nói cùng dân chúng rằng
 "Ðến mùa gặt, phải nộp cho Pha-ra-ôn một phần năm, còn bốn phần kia để cho các ngươi làm giống gieo mạ, dùng lương thực cho mình, cho người nhà cùng cho các con nhỏ mình."
 "Dân chúng nói rằng

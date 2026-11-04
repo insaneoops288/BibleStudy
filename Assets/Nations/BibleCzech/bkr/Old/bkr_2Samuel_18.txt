@@ -6,7 +6,7 @@
 "A tak vytáhl lid do pole proti lidu Izraelskému, a byla bitva v lese Efraim."
 "I poražen jest tu lid Izraelský od služebníků Davidových, a stala se tu porážka veliká v ten den až do dvadceti tisíců."
 "Nebo když ta bitva rozšířila se po vší krajině, více pohubil lidu les, nežli jich požral meč toho dne."
-"Potkal se pak Absolon s služebníky Davidovými. Kterýžto Absolon jel na mezku, (i podšel mezek pod hustý dub veliký), a uvázl za hlavu v stromu tom, tak že visel mezi nebem a zemí. Ale mezek, kterýž pod ním byl, odběhl pryč."
+"Potkal se pak Absolon s služebníky Davidovými. Kterýžto Absolon jel na mezku, (i podšel mezek pod hustý dub veliký), a uvázl #za hlavu v stromu tom, tak že visel mezi nebem a zemí. Ale mezek, kterýž pod ním byl, odběhl pryč."
 "To uzřev jeden, oznámil Joábovi, řka
 "I řekl Joáb muži, kterýž mu to oznámil
 "Odpověděl muž ten Joábovi

@@ -10,10 +10,10 @@
 "Dijo entonces Saúl a su criado
 "Y cuando subían por la cuesta de la ciudad, hallaron unas doncellas que salían por agua, a las cuales dijeron
 "Y ellas respondiéndoles, dijeron
-"Y cuando entrareis en la ciudad, le encontraréis luego, antes que suba al lugar alto a comer; pues el pueblo no comerá hasta que él haya venido, porque él es quien bendice el sacrificio; y después comerán los convidados. Subid, pues, ahora, porque ahora le hallaréis."
+"Y cuando entrareis en la ciudad, le encontraréis luego, antes que suba al lugar alto a comer; pues el pueblo no comerá hasta que #él haya venido, porque él es quien bendice el sacrificio; y después comerán los convidados. Subid, pues, ahora, porque ahora le hallaréis."
 "Ellos entonces subieron a la ciudad; y cuando en medio de la ciudad estuvieron, he aquí Samuel que delante de ellos salía para subir al lugar alto."
 "Y un día antes que Saúl viniese, Jehová había revelado al oído de Samuel, diciendo
-"Mañana a esta misma hora yo enviaré a ti un varón de la tierra de Benjamín, al cual ungirás por príncipe sobre mi pueblo Israel, y salvará a mi pueblo de mano de los filisteos; pues yo he mirado a mi pueblo, porque su clamor ha llegado hasta mí."
+"Mañana a esta misma hora yo enviaré a ti un varón de la tierra de Benjamín, al cual ungirás por príncipe sobre mi pueblo Israel, #y salvará a mi pueblo de mano de los filisteos; pues yo he mirado a mi pueblo, porque su clamor ha llegado hasta mí."
 "Y luego que Samuel vio a Saúl, Jehová le dijo
 "Y llegando Saúl a Samuel en medio de la puerta, le dijo
 "Y Samuel respondió a Saúl, y dijo

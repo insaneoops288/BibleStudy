@@ -2,7 +2,7 @@
 "Kunkin vaatten pituus pitää oleman kahdeksan kyynärää kolmattakymmentä, ja leveys pitää oleman neljä kyynärää
 "Viisi vaatetta pitää yhdistettämän toinen toiseensa, ja taas viisi yhdistettämän toinen toiseensa."
 "Sinun pitää myös tekemän silmukset sinisistä villoista ensimäisen vaatteen reunaan, äärimäiset kulmat yhteen sidottaa
-"Sinun pitää tekemän viisikymmentä silmusta ensimäiseen vaatteesen, niin myös viisikymmentä silmusta äärelle vaatetta, joka toisessa yhdistyksessä on; ja silmukset pitää oleman toinen toisensa kohdalla."
+"Sinun pitää tekemän viisikymmentä silmusta ensimäiseen vaatteesen, niin myös viisikymmentä silmusta äärelle vaatetta, #joka toisessa yhdistyksessä on; ja silmukset pitää oleman toinen toisensa kohdalla."
 "Ja sinun pitää tekemän viisikymmentä kultaista koukkua, ja ne vaatteet yhdistämän toinen toiseensa niillä koukuilla, niin että se tulis yhdeksi Tabernakliksi."
 "Ja sinun pitää tekemän yksitoistakymmentä vaatetta vuohen karvoista, peitteeksi Tabernaklin päälle."
 "Jokaisen vaatteen pituuden pitää oleman kolmekymmentä kyynärää, ja leveyden neljä kyynärää, ja leveyden neljä kyynärää. Ja kaikki yksitoistakymmentä pitää oleman yhdensuuruiset."

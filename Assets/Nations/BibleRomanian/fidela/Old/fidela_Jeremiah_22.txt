@@ -1,7 +1,7 @@
 "Astfel spune DOMNUL
 "Și spune
 "Astfel spune DOMNUL
-"Căci dacă veți împlini, cu adevărat, acest lucru, atunci vor intra pe porțile casei acesteia împărați șezând pe tronul lui David, stând în care și călărind pe cai, el și servitorii lui și poporul lui."
+"Căci dacă veți împlini, cu adevărat, acest lucru, atunci vor intra pe porțile casei acesteia împărați șezând pe #tronul lui David, stând în care și călărind pe cai, el și servitorii lui și poporul lui."
 "Dar dacă nu veți asculta aceste cuvinte, jur pe mine însumi, spune DOMNUL, că această casă va deveni o pustiire."
 "Pentru că astfel spune DOMNUL casei împăratului lui Iuda
 "Și voi pregăti nimicitori împotriva ta, pe fiecare cu armele lui, și vor tăia cedrii tăi aleși și [îi ]vor arunca în foc."
@@ -25,6 +25,6 @@
 "Și te voi da în mâna celor care îți caută viața și în mâna [acelora] de ale căror fețe te temi, chiar în mâna lui Nebucadnețar împăratul Babilonului și în mâna caldeenilor."
 "Și te voi arunca afară, pe tine și pe mama ta care te-a născut, într-o altă țară, în care nu v-ați născut și acolo veți muri."
 "Dar în țara în care ei doresc să se întoarcă, acolo nu se vor întoarce."
-"Este acest bărbat, Conia, un idol spart [și] disprețuit? [Este el] un vas în care nu [este ]plăcere? Pentru ce sunt ei aruncați, el și sămânța lui, și sunt aruncați într-o țară pe care nu o cunosc?"
+"Este acest bărbat, Conia, un idol spart [și] disprețuit? [Este el] un vas în care nu [este ]plăcere? Pentru #ce sunt ei aruncați, el și sămânța lui, și sunt aruncați într-o țară pe care nu o cunosc?"
 "O pământule, pământule, pământule, ascultă cuvântul DOMNULUI."
 "Astfel spune DOMNUL

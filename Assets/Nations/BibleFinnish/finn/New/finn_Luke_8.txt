@@ -32,7 +32,7 @@
 "Niin siellä oli suuri lauma sikoja syömässä vuorella. Ja he rukoilivat häntä, että hän sallis heidän niihin mennä. Ja hän salli heidät."
 "Niin perkeleet läksivät ulos ihmisestä ja menivät sikoihin, ja lauma syöksi itsensä äkisti jyrkältä mereen ja läkähtyi."
 "Mutta kuin paimenet näkivät, mitä tapahtui, pakenivat he, menivät pois ja ilmoittivat sen kaupungissa ja kylissä."
-"Niin he menivät ulos katsomaan sitä, mikä tapahtunut oli, ja tulivat Jesuksen tykö, ja löysivät sen ihmisen, josta perkeleet lähteneet olivat, istuvan vaatetettuna ja taidossansa Jesuksen jalkain juuressa; ja he pelkäsivät."
+"Niin he menivät ulos katsomaan sitä, mikä tapahtunut oli, ja tulivat Jesuksen tykö, ja löysivät sen #ihmisen, josta perkeleet lähteneet olivat, istuvan vaatetettuna ja taidossansa Jesuksen jalkain juuressa; ja he pelkäsivät."
 "Mutta myös ne, jotka sen nähneet olivat, ilmoittivat heille, kuinka se perkeleeltä riivattu oli terveeksi tullut."
 "Ja kaikki Gadaralaiset lähimaakunnan joukko rukoili häntä menemään pois heidän tyköänsä; sillä heidän päällensä oli tullut suuri pelko. Niin hän meni haahteen ja tuli jälleen takaisin."
 "Mutta mies, josta perkeleet olivat lähteneet ulos, rukoili häntä, että hän sais olla hänen kanssansa. Mutta Jesus laski hänen pois, sanoen
@@ -44,7 +44,7 @@
 "Mutta kuin hän kävi takana ja rupesi hänen vaatteensa palteesen, niin kohta hänen verensä juoksu asettui."
 "Ja Jesus sanoi
 "Mutta Jesus sanoi
-"Mutta kuin vaimo näki, ettei se salaa ollut, tuli hän vapisten, ja maahan lankesi hänen eteensä, ja julisti kaikelle kansalle, minkä syyn tähden hän oli häneen ruvennut, ja kuinka hän niin äkisti terveeksi tuli."
+"Mutta kuin vaimo näki, ettei se salaa ollut, tuli hän vapisten, ja maahan lankesi hänen eteensä, ja julisti #kaikelle kansalle, minkä syyn tähden hän oli häneen ruvennut, ja kuinka hän niin äkisti terveeksi tuli."
 "Mutta hän sanoi hänelle
 "Kuin hän vielä puhui, tuli yksi synagogan päämiehiltä, sanoen hänelle
 "Vaan kuin Jesus sen kuuli, vastasi hän häntä, sanoen

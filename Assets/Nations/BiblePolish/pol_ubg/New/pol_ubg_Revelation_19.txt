@@ -17,5 +17,5 @@
 "I zobaczyłem jednego anioła stojącego w słońcu. I zawołał donośnym głosem do wszystkich ptaków latających środkiem nieba
 "Aby jeść ciała królów, ciała wodzów i ciała mocarzy, ciała koni i ich jeźdźców, i ciała wszystkich
 "I zobaczyłem bestię i królów ziemi, i ich wojska zgromadzone, by stoczyć bitwę z tym, który siedzi na koniu, i z jego wojskiem."
-"I schwytana została bestia, a z nią fałszywy prorok, który czynił przed nią cuda, jakimi zwiódł tych, którzy przyjęli znamię bestii i oddawali pokłon jej wizerunkowi. Oboje zostali żywcem wrzuceni do jeziora ognia, płonącego siarką."
+"I schwytana została bestia, a z nią fałszywy prorok, który czynił przed nią cuda, jakimi zwiódł tych, którzy #przyjęli znamię bestii i oddawali pokłon jej wizerunkowi. Oboje zostali żywcem wrzuceni do jeziora ognia, płonącego siarką."
 "Pozostali zaś zostali zabici mieczem wychodzącym z ust tego, który siedział na koniu. I wszystkie ptaki najadły się ich ciałami."

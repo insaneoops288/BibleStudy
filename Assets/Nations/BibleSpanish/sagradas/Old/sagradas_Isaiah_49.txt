@@ -2,7 +2,7 @@
 "Y puso mi boca como espada aguda, con la sombra de su mano me cubrió; y me puso por saeta limpia, me guardó en su aljaba."
 "Y me dijo
 "Pero yo dije
-"Ahora pues, dice el SEÑOR, el que me formó desde el vientre para ser su siervo, para que <I>se</I>  convierta a él a Jacob. Mas <I>si</I>  Israel no se juntara, con todo, <I>yo</I> sin embargo estimado seré en los ojos del  SEÑOR, y el Dios mío <I>será</I>  mi fortaleza."
+"Ahora pues, dice el SEÑOR, el que me formó desde el vientre para ser su siervo, para que <I>se</I>  convierta a él a Jacob. Mas <I>si</I> # Israel no se juntara, con todo, <I>yo</I> sin embargo estimado seré en los ojos del  SEÑOR, y el Dios mío <I>será</I>  mi fortaleza."
 "Y dijo
 "Así dijo el SEÑOR, Redentor de Israel, Santo suyo, al menospreciado de alma, al abominado de los gentiles, al siervo de los tiranos
 "Así dijo el SEÑOR
@@ -20,7 +20,7 @@
 "Aun los hijos de tu orfandad dirán a tus oídos
 "Y dirás en tu corazón
 "Así dijo el Señor DIOS
-"Y reyes serán tus ayos; y sus reinas, tus amas <I>de leche</I> ; el rostro inclinado a tierra te adorarán, y lamerán el polvo de tus pies; y conocerás que yo <I>soy</I>  el SEÑOR, que no se avergonzarán los que me esperan."
+"Y reyes serán tus ayos; y sus reinas, tus amas <I>de leche</I> ; el rostro inclinado a tierra te adorarán, y lamerán #el polvo de tus pies; y conocerás que yo <I>soy</I>  el SEÑOR, que no se avergonzarán los que me esperan."
 "¿Quitarán la presa al valiente? o ¿la cautividad justa será dada por libre?"
 "Así pues dice el SEÑOR
-"Y a los que te despojaron, haré comer sus <I>propias</I>  carnes, y con su sangre serán embriagados como con mosto; y toda carne conocerá que yo <I>soy</I>  el SEÑOR, Salvador tuyo, y Redentor tuyo, el Fuerte de Jacob."
+"Y a los que te despojaron, haré comer sus <I>propias</I>  carnes, y con su sangre serán embriagados como con mosto; #y toda carne conocerá que yo <I>soy</I>  el SEÑOR, Salvador tuyo, y Redentor tuyo, el Fuerte de Jacob."

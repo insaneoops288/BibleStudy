@@ -1,11 +1,11 @@
 "At nangyari, nang si Saul ay bumalik na mula sa paghabol sa mga Filisteo, na nasaysay sa kaniya, na sinasabi, Narito, si David ay nasa ilang ng En-gaddi."
 "Nang magkagayo'y kumuha si Saul ng tatlong libong piling lalake sa buong Israel, at yumaong inusig si David at ang kaniyang mga lalake sa mga bundok ng maiilap na kambing."
-"At siya'y naparoon sa mga kulungan ng kawan sa daan, na kinaroroonan ng isang yungib; at pumasok si Saul upang takpan ang kaniyang mga paa. Si David nga at ang kaniyang mga tao ay tumatahan sa pinakaloob na bahagi ng yungib."
-"At sinabi ng mga tao ni David sa kaniya, Narito, ang araw na sinabi ng Panginoon sa iyo, Narito, aking ibibigay ang iyong kaaway sa iyong kamay, at iyong gagawin sa kaniya kung ano ang mabutihin mo. Nang magkagayo'y tumindig si David at pinutol na lihim ang laylayan ng balabal ni Saul."
+"At siya'y naparoon sa mga kulungan ng kawan sa daan, na kinaroroonan ng isang yungib; at pumasok si Saul upang takpan #ang kaniyang mga paa. Si David nga at ang kaniyang mga tao ay tumatahan sa pinakaloob na bahagi ng yungib."
+"At sinabi ng mga tao ni David sa kaniya, Narito, ang araw na sinabi ng Panginoon sa iyo, Narito, aking ibibigay ang iyong kaaway sa iyong kamay, #at iyong gagawin sa kaniya kung ano ang mabutihin mo. Nang magkagayo'y tumindig si David at pinutol na lihim ang laylayan ng balabal ni Saul."
 "At nangyari pagkatapos, na nagdamdam ang puso ni David, sapagka't kaniyang pinutol ang laylayan ng balabal ni Saul."
-"At kaniyang sinabi sa kaniyang mga lalake, Huwag itulot ng Panginoon na ako'y gumawa ng ganitong bagay sa aking panginoon, na pinahiran ng langis ng Panginoon, na aking iunat ang aking kamay laban sa kaniya, yamang siya ang pinahiran ng langis ng Panginoon."
+"At kaniyang sinabi sa kaniyang mga lalake, Huwag itulot ng Panginoon na ako'y gumawa ng ganitong bagay sa aking panginoon, na pinahiran #ng langis ng Panginoon, na aking iunat ang aking kamay laban sa kaniya, yamang siya ang pinahiran ng langis ng Panginoon."
 "Sa gayo'y pinigilan ni David ang kaniyang mga tao ng mga salitang ito, at hindi niya sila binayaang bumangon laban kay Saul. At tumindig si Saul sa yungib at nagpatuloy ng kaniyang lakad."
-"Si David naman ay tumindig pagkatapos, at lumabas sa yungib, at hiniyawan si Saul, na sinasabi, Panginoon ko na hari. At nang lumingon si Saul ay iniyukod ni David ang kaniyang mukha sa lupa, at nagbigay galang."
+"Si David naman ay tumindig pagkatapos, at lumabas sa yungib, at hiniyawan si Saul, na sinasabi, Panginoon ko na #hari. At nang lumingon si Saul ay iniyukod ni David ang kaniyang mukha sa lupa, at nagbigay galang."
 "At sinabi ni David kay Saul, Bakit ka nakikinig sa mga salita ng mga tao, na nagsasabi, Narito, pinagsisikapan kang saktan ni David?"
 "Narito, nakita ngayon ng iyong mga mata kung paanong ibinigay ka ngayon ng Panginoon sa aking kamay sa yungib
 "Bukod dito'y iyong tingnan, ama ko, oo, tingnan mo ang laylayan ng iyong balabal sa aking kamay

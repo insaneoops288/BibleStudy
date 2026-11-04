@@ -6,9 +6,9 @@
 "Denn viele werden unter meinem Namen kommen und sagen
 "Wenn ihr aber von Kriegen und Kriegsgeschrei hören werdet, so erschrecket nicht; denn es muß geschehen, aber es ist noch nicht das Ende."
 "Denn ein Volk wird sich erheben wider das andere und ein Reich wider das andere; es wird hier und dort Erdbeben geben, und Hungersnöte und Unruhen werden sein. Das ist der Wehen Anfang."
-"Ihr aber, sehet auf euch selbst! Denn sie werden euch den Gerichtenüberliefern, und in den Synagogen werdet ihr geschlagen werden, und man wird euch vor Fürsten und Könige stellen um meinetwillen, ihnen zum Zeugnis."
+"Ihr aber, sehet auf euch selbst! Denn sie werden euch den Gerichtenüberliefern, und in den Synagogen werdet ihr #geschlagen werden, und man wird euch vor Fürsten und Könige stellen um meinetwillen, ihnen zum Zeugnis."
 "Und unter allen Völkern muß zuvor das Evangelium gepredigt werden."
-"Wenn sie euch aber hinführen undüberliefern werden, so sorget nicht zum voraus, was ihr reden sollt, sondern was euch zu jener Stunde gegeben wird, das redet. Denn nicht ihr seid es, die da reden, sondern der heilige Geist."
+"Wenn sie euch aber hinführen undüberliefern werden, so sorget nicht zum voraus, was ihr reden sollt, sondern was euch zu #jener Stunde gegeben wird, das redet. Denn nicht ihr seid es, die da reden, sondern der heilige Geist."
 "Es wird aber ein Bruder den andern zum Todeüberliefern und der Vater das Kind, und Kinder werden sich wider die Eltern erheben und werden sie zum Tode bringen;"
 "und ihr werdet von jedermann gehaßt sein um meines Namens willen. Wer aber ausharrt bis ans Ende, der wird gerettet werden."
 "Wenn ihr aber den Greuel der Verwüstung da stehen sehet, wo er nicht soll(wer es liest, der merke darauf!), alsdann fliehe, wer im jüdischen Lande ist, auf die Berge."

@@ -25,7 +25,7 @@
 "Y todo lo que apreciares será conforme al siclo del santuario; el siclo tiene veinte óbolos."
 "Pero el primogénito de los animales, que por la primogenitura es del SEÑOR, nadie lo santificará; sea buey u oveja, del SEÑOR es."
 "Mas si <I>fuere</I>  de los animales inmundos, lo redimirán conforme a tu estimación, y añadirán sobre ella su quinto; y si no lo redimieren, se venderá conforme a tu estimación."
-"Pero ningún anatema, que alguno santificare al SEÑOR de todo lo que tuviere, de hombres y animales, y de las tierras de su posesión, no se venderá, ni se redimirá. Todo anatema será <I>cosa</I>  santísima al SEÑOR."
+"Pero ningún anatema, que alguno santificare al SEÑOR de todo lo que tuviere, de hombres y animales, y de las #tierras de su posesión, no se venderá, ni se redimirá. Todo anatema será <I>cosa</I>  santísima al SEÑOR."
 "Cualquier anatema de hombres que se consagrare no será redimido; indefectiblemente morirá."
 "Y todos los diezmos de la tierra, así de la simiente de la tierra como del fruto de los árboles, del SEÑOR son; <I>es</I>  santidad al SEÑOR."
 "Y si alguno quisiere redimir <I>algo</I>  de sus diezmos, añadirá su quinto a ello."

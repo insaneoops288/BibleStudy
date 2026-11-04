@@ -2,7 +2,7 @@
 "Por, për shkak të kurvërimit, le të ketë secili gruan e vet dhe secila grua burrin e vet."
 "Burri le të kryejë detyrën martesore ndaj gruas, po ashtu edhe gruaja ndaj burrit."
 "Gruaja nuk ka pushtet mbi trupin e vet, por burri; gjithashtu burri nuk ka pushtet mbi trupin e vet, por gruaja."
-"Mos ia privoni njëri-tjetrit, rveç në qoftë se jeni marrë vesh, për një farë kohe, që t'i kushtoheni agjërimit dhe lutjes, dhe përsëri ejani bashkë që të mos ju tundojë Satani për shkak të mungesës së vetkontrollit tuaj."
+"Mos ia privoni njëri-tjetrit, rveç në qoftë se jeni marrë vesh, për një farë kohe, që t'i kushtoheni agjërimit dhe #lutjes, dhe përsëri ejani bashkë që të mos ju tundojë Satani për shkak të mungesës së vetkontrollit tuaj."
 "Dhe këtë unë e them si leje, jo si urdhërim,"
 "sepse do të doja që të gjithë njerëzit të ishin si unë; por secili ka dhunti të veçantë nga Perëndia, njeri kështu dhe tjetri ashtu."
 "Por të pamartuarve dhe grave të veja po u them se për ta është mirë nëse qëndrojnë si unë,"

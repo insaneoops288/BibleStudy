@@ -3,7 +3,7 @@
 "Il prit aussi Basmath, fille d'Ismaël, soeur de Nébajoth."
 "Ada enfanta à Ésaü Éliphaz, et Basmath enfanta Réuël."
 "Et Oholibama enfanta Jéush, Jaelam et Korah. Voilà les fils d'Ésaü, qui lui naquirent au pays de Canaan."
-"Et Ésaü prit ses femmes, et ses fils et ses filles, et toutes les personnes de sa maison, et ses troupeaux, et tout son bétail, et tout le bien qu'il avait acquis au pays de Canaan; et il s'en alla dans un autre pays, loin de Jacob, son frère."
+"Et Ésaü prit ses femmes, et ses fils et ses filles, et toutes les personnes de sa maison, et ses troupeaux, et tout son bétail, #et tout le bien qu'il avait acquis au pays de Canaan; et il s'en alla dans un autre pays, loin de Jacob, son frère."
 "Car leurs biens étaient trop grands pour qu'ils pussent demeurer ensemble, et le pays où ils séjournaient ne pouvait pas les contenir, à cause de leurs troupeaux."
 "Et Ésaü habita sur la montagne de Séir. Ésaü est Édom."
 "Et voici les descendants d'Ésaü, père des Iduméens, sur la montagne de Séir."

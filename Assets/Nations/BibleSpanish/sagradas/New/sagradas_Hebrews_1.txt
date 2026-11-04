@@ -1,6 +1,6 @@
 "Dios, habiendo hablado muchas veces y de muchas maneras en otro tiempo a los padres por los profetas,"
 "en estos postreros tiempos nos ha hablado por el Hijo, al cual constituyó por heredero de todo, por el cual asimismo hizo los siglos;"
-"el cual siendo el resplandor de su gloria, y la <I>misma</I>  imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó a la  diestra de la majestad en las alturas,"
+"el cual siendo el resplandor de su gloria, y la <I>misma</I>  imagen de su sustancia, y sustentando todas las cosas con la palabra de #su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó a la  diestra de la majestad en las alturas,"
 "hecho tanto más excelente que los ángeles, <I>por</I>  cuanto alcanzó <I>por herencia</I>  más excelente nombre que ellos."
 "Porque ¿A cuál de los ángeles dijo <I>Dios</I>  jamás
 "Y otra vez, cuando metiendo al Primogénito en la redondez de la tierra, dice

@@ -16,8 +16,8 @@ Then the LORD spoke to Moses, saying,
 "For they are wholly given to Me from among the children of Israel; I have taken them for Myself instead of all who open the womb, the firstborn of all the children of Israel.
 "For all the firstborn among the children of Israel are Mine, both man and beast; on the day that I struck all the firstborn in the land of Egypt I sanctified them to Myself.
 "I have taken the Levites instead of all the firstborn of the children of Israel.
-"And I have given the Levites as a gift to Aaron and his sons from among the children of Israel, to do the work for the children of Israel in the tabernacle of meeting, and to make atonement for the children of Israel, that there be no plague among the children of Israel when the children of Israel come near the sanctuary."
-Thus Moses and Aaron and all the congregation of the children of Israel did to the Levites; according to all that the LORD commanded Moses concerning the Levites, so the children of Israel did to them.
+"And I have given the Levites as a gift to Aaron and his sons from among the children of Israel, to do the work for the children of Israel in the tabernacle #of meeting, and to make atonement for the children of Israel, that there be no plague among the children of Israel when the children of Israel come near the sanctuary."
+Thus Moses and Aaron and all the congregation of the children of Israel did to the Levites; according to #all that the LORD commanded Moses concerning the Levites, so the children of Israel did to them.
 And the Levites purified themselves and washed their clothes; then Aaron presented them, like a wave offering before the LORD, and Aaron made atonement for them to cleanse them.
 After that the Levites went in to do their work in the tabernacle of meeting before Aaron and his sons; as the LORD commanded Moses concerning the Levites, so they did to them.
 Then the LORD spoke to Moses, saying,

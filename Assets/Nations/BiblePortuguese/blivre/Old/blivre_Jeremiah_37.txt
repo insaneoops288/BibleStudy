@@ -7,7 +7,7 @@
 "Assim diz o SENHOR Deus de Israel
 "E os caldeus voltarão, e lutarão contra esta cidade; e a tomarão, e a queimarão a fogo."
 "Assim diz o SENHOR
-"Porque mesmo se ferísseis todo o exército dos caldeus que lutam contra vós, e restassem deles [apenas] homens feridos, ainda assim cada um se levantaria em sua tenda, e queimaria esta cidade a fogo."
+"Porque mesmo se ferísseis todo o exército dos caldeus que lutam contra vós, e restassem deles [apenas] homens #feridos, ainda assim cada um se levantaria em sua tenda, e queimaria esta cidade a fogo."
 "E aconteceu que, quando o exército dos caldeus havia saído de Jerusalém por causa do exército de Faraó,"
 "Jeremias saiu de Jerusalém para ir à terra de Benjamim, para ali receber sua parte no meio do povo."
 "Porém quando ele chegou à porta de Benjamim, estava ali um capitão dos da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias; o qual prendeu ao profeta Jeremias, dizendo
@@ -18,4 +18,4 @@
 "Disse mais Jeremias ao rei Zedequias
 "E onde estão vossos profetas que vos profetizavam, dizendo
 "Agora pois, ouve, por favor, ó rei, meu senhor
-"Então o rei Zedequias mandou que pusessem a Jeremias no pátio da guarda, e que lhe dessem uma porção de pão por dia, da rua dos padeiros, até todo o pão da cidade ter se acabado. Assim Jeremias ficou no pátio da guarda."
+"Então o rei Zedequias mandou que pusessem a Jeremias no pátio da guarda, e que lhe dessem uma porção de pão por #dia, da rua dos padeiros, até todo o pão da cidade ter se acabado. Assim Jeremias ficou no pátio da guarda."

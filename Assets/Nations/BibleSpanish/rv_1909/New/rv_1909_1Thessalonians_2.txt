@@ -10,8 +10,8 @@
 "Vosotros sois testigos, y Dios, de cuán santa y justa é irreprensiblemente nos condujimos con vosotros que creísteis
 "Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos,"
 "Y os protestábamos que anduvieseis como es digno de Dios, que os llamó á su reino y gloria."
-"Por lo cual, también nosotros damos gracias á Dios sin cesar, de que habiendo recibido la palabra de Dios que oísteis de nosotros, recibisteis no palabra de hombres, sino según es en verdad, la palabra de Dios, el cual obra en vosotros los que creísteis."
-"Porque vosotros, hermanos, habéis sido imitadores de las iglesias de Dios en Cristo Jesús que están en Judea; pues habéis padecido también vosotros las mismas cosas de los de vuestra propia nación, como también ellos de los Judíos;"
+"Por lo cual, también nosotros damos gracias á Dios sin cesar, de que habiendo recibido la palabra de Dios que oísteis de nosotros, #recibisteis no palabra de hombres, sino según es en verdad, la palabra de Dios, el cual obra en vosotros los que creísteis."
+"Porque vosotros, hermanos, habéis sido imitadores de las iglesias de Dios en Cristo Jesús que están en Judea; pues habéis #padecido también vosotros las mismas cosas de los de vuestra propia nación, como también ellos de los Judíos;"
 "Los cuales aun mataron al Señor Jesús y á sus propios profetas, y á nosotros nos han perseguido; y no agradan á Dios, y se oponen á todos los hombres;"
 "Prohibiéndonos hablar á los Gentiles, á fin de que se salven, para henchir la medida de sus pecados siempre
 "Mas nosotros, hermanos, privados de vosotros por un poco de tiempo, de vista, no de corazón, tanto más procuramos con mucho deseo ver vuestro rostro."

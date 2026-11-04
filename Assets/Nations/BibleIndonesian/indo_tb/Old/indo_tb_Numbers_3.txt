@@ -1,7 +1,7 @@
 "Inilah keturunan Harun dan Musa pada waktu TUHAN berfirman kepada Musa di gunung Sinai."
 "Nama anak-anak Harun, ialah
 "Itulah nama anak-anak Harun, imam-imam yang diurapi, yang telah ditahbiskan untuk memegang jabatan imam."
-"Tetapi Nadab dan Abihu sudah mati di hadapan TUHAN di padang gurun Sinai, ketika mereka mempersembahkan api yang asing ke hadapan TUHAN. Mereka tidak mempunyai anak. Jadi ketika Harun, ayah mereka, masih hidup, yang memegang jabatan imam ialah Eleazar dan Itamar."
+"Tetapi Nadab dan Abihu sudah mati di hadapan TUHAN di padang gurun Sinai, ketika mereka mempersembahkan api yang asing ke hadapan #TUHAN. Mereka tidak mempunyai anak. Jadi ketika Harun, ayah mereka, masih hidup, yang memegang jabatan imam ialah Eleazar dan Itamar."
 "TUHAN berfirman kepada Musa
 """Suruhlah suku Lewi mendekat dan menghadap imam Harun, supaya mereka melayani dia."
 "Mereka harus mengerjakan tugas-tugas bagi Harun dan bagi segenap umat Israel di depan Kemah Pertemuan dan dengan demikian melakukan pekerjaan jabatannya pada Kemah Suci."
@@ -10,7 +10,7 @@
 "Tetapi Harun dan anak-anaknya haruslah kautugaskan untuk memegang jabatannya sebagai imam, sedang orang awam yang mendekat harus dihukum mati."""
 "TUHAN berfirman kepada Musa
 """Sesungguhnya, Aku mengambil orang Lewi dari antara orang Israel ganti semua anak sulung mereka, yang terdahulu lahir dari kandungan, supaya orang Lewi menjadi kepunyaan-Ku,"
-"sebab Akulah yang punya semua anak sulung. Pada waktu Aku membunuh semua anak sulung di tanah Mesir, maka Aku menguduskan bagi-Ku semua anak sulung yang ada pada orang Israel, baik dari manusia maupun dari hewan; semuanya itu kepunyaan-Ku; Akulah TUHAN."""
+"sebab Akulah yang punya semua anak sulung. Pada waktu Aku membunuh semua anak sulung di tanah Mesir, maka Aku menguduskan bagi-Ku #semua anak sulung yang ada pada orang Israel, baik dari manusia maupun dari hewan; semuanya itu kepunyaan-Ku; Akulah TUHAN."""
 "TUHAN berfirman kepada Musa di padang gurun Sinai
 """Catatlah bani Lewi menurut puak-puak dan kaum-kaum mereka; semua laki-laki yang berumur satu bulan ke atas harus kaucatat."""
 "Lalu Musa mencatat mereka sesuai dengan titah TUHAN, seperti yang diperintahkan kepadanya."
@@ -28,14 +28,14 @@
 "Jumlah pencatatan mereka ketika semua laki-laki yang berumur satu bulan ke atas dicatat ada delapan ribu enam ratus orang, yakni mereka yang memelihara barang-barang kudus."
 "Kaum-kaum bani Kehat ini berkemah pada sisi Kemah Suci sebelah selatan."
 "Pemimpin puak Kehat dan kaum-kaumnya ialah Elisafan bin Uziel."
-"Yang harus dipelihara mereka ialah tabut, meja, kandil, mezbah-mezbah, perkakas tempat kudus yang dipakai untuk menyelenggarakan ibadah, juga tirai, termasuk segala pekerjaan yang berhubungan dengan semuanya itu."
+"Yang harus dipelihara mereka ialah tabut, meja, kandil, mezbah-mezbah, perkakas tempat kudus yang dipakai #untuk menyelenggarakan ibadah, juga tirai, termasuk segala pekerjaan yang berhubungan dengan semuanya itu."
 "Adapun pemimpin tertinggi orang Lewi ialah Eleazar, anak imam Harun, yang mengawasi mereka yang memelihara barang-barang kudus."
 "Puak Merari terdiri dari kaum Mahli dan kaum Musi; itulah kaum-kaum Merari."
 "Jumlah pencatatan mereka ketika semua laki-laki yang berumur satu bulan ke atas dicatat ada enam ribu dua ratus orang."
 "Pemimpin puak Merari dan kaum-kaumnya ialah Zuriel bin Abihail. Mereka berkemah pada sisi Kemah Suci sebelah utara."
-"Yang ditugaskan kepada bani Merari untuk dipelihara ialah papan Kemah Suci, kayu lintangnya, tiang-tiangnya, alasnya, segala perabotannya, termasuk segala pekerjaan yang berhubungan dengan semuanya itu,"
+"Yang ditugaskan kepada bani Merari untuk dipelihara ialah papan Kemah Suci, kayu lintangnya, #tiang-tiangnya, alasnya, segala perabotannya, termasuk segala pekerjaan yang berhubungan dengan semuanya itu,"
 "juga tiang pelataran sekelilingnya, alas, patok dan talinya."
-"Yang berkemah di depan Kemah Suci di sebelah timur, di depan Kemah Pertemuan, ialah Musa, dan Harun serta anak-anaknya, yang mengerjakan tugas pemeliharaan tempat kudus bagi orang Israel; tetapi orang awam yang mendekat, haruslah dihukum mati."
+"Yang berkemah di depan Kemah Suci di sebelah timur, di depan Kemah Pertemuan, ialah Musa, dan Harun serta anak-anaknya, #yang mengerjakan tugas pemeliharaan tempat kudus bagi orang Israel; tetapi orang awam yang mendekat, haruslah dihukum mati."
 "Jumlah orang Lewi yang sesuai dengan titah TUHAN dicatat oleh Musa dan Harun, menurut kaum-kaum mereka, yakni semua laki-laki yang berumur satu bulan ke atas, ada dua puluh dua ribu orang."
 "Lalu berfirmanlah TUHAN kepada Musa
 "dan ambillah orang-orang Lewi bagi-Ku,Akulah TUHAN,sebagai ganti semua anak sulung yang ada pada orang Israel, juga hewan orang Lewi ganti semua anak sulung di antara hewan orang Israel."""

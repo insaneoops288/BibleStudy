@@ -40,7 +40,7 @@
 "Meglássátok azért, hogy rajtatok ne essék, a mit a próféták megmondottak
 "Lássátok meg, ti megvetõk, és csodálkozzatok és semmisüljetek meg; mert én [oly] dolgot cselekszem a ti idõtökben, [oly] dolgot, melyet nem hinnétek, ha valaki elmondaná néktek."
 "Mikor pedig kimentek a zsidók zsinagógájából, kérék a pogányok, hogy a következõ szombaton prédikálják nékik ezen beszédeket."
-"Mikor pedig eloszlott a gyülekezet, sokan a zsidók közül és az istenfélõ prozelitusok közül követék Pált és Barnabást; a kik szólván hozzájuk, biztaták õket, hogy maradjanak meg az Isten kegyelmében."
+"Mikor pedig eloszlott a gyülekezet, sokan a zsidók közül és az istenfélõ prozelitusok közül követék Pált #és Barnabást; a kik szólván hozzájuk, biztaták õket, hogy maradjanak meg az Isten kegyelmében."
 "A következõ szombaton aztán majdnem az egész város egybegyûle az Isten ígéjének hallgatására,"
 "Mikor pedig látták a zsidók a sokaságot, betelének irigységgel, és ellene mondának azoknak, miket Pál mond vala, ellenkezve és káromlást szólva."
 "Akkor Pál és Barnabás nagy bátorsággal szólva mondának

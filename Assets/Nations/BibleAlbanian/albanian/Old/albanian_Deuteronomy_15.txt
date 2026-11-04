@@ -3,7 +3,7 @@
 "Mund ta kërkosh borxhin nga i huaji; por do t'i falësh vëllait tënd atë që ai të ka marrë hua."
 "Nuk do të ketë asnjë nevojtar midis jush, sepse Zoti do të të bekojë me të madhe në vendin që Zoti, Perëndia yt, po të jep si trashgimi, që ti ta zotërosh,"
 "por vetëm me kusht që ti t'i bindesh me zell zërit të Zotit, Perëndisë tënd, duke pasur kujdes të zbatosh në praktikë të gjitha këta urdhërimet, që sot të cakton."
-"Sepse Zoti, Perëndia yt, do të të bekojë siç të ka premtuar; atëherë do t'u japësh hua shumë kombeve, por ti nuk do të kërkosh hua; do të sundosh mbi shumë kombe, por ato nuk do të sundojnë mbi ty."
+"Sepse Zoti, Perëndia yt, do të të bekojë siç të ka premtuar; atëherë do t'u japësh hua shumë kombeve, por ti #nuk do të kërkosh hua; do të sundosh mbi shumë kombe, por ato nuk do të sundojnë mbi ty."
 "Në rast se ke ndonjë vëlla nevojtar midis jush, midis ndonjë prej qyteteve që Zoti, Perëndia yt, po të jep, nuk do të fortësosh zemrën dhe nuk do të mbyllësh dorën para vëllait tënd nevojtar;"
 "por do t'i hapësh me zemërgjerësi dorën tënde dhe do t'i japësh hua aq sa i nevojitet për të përballuar nevojat që ka."
 "Ki kujdes që të mos ketë asnjë mendim të keq në zemrën tënde, i cili të të bëjë të thuash
@@ -16,7 +16,7 @@
 "Por në rast se ai të thotë
 "atëherë do të marrësh një fëndyell, do t'i shposh veshin kundër portës dhe ai do të jetë skllavi yt për gjithnjë. Po ashtu do të veprosh me skllaven tënde."
 "Nuk duhet të të duket e vështirë ta nisësh të lirë, sepse të ka shërbyer gjashtë vjet me gjysmën e pagës së një argati; dhe Zoti, Perëndia yt, do të bekojë të gjitha veprimet e tua."
-"Do t'i shenjtërosh Zotit, Perëndisë tënd, tërë pjelljet e para meshkuj të bagëtive të tua të trasha dhe të imta. Nuk do të bësh asnjë punë me pjelljen e parë të lopës sate dhe nuk do të qethësh pjelljen e parë të deles sate."
+"Do t'i shenjtërosh Zotit, Perëndisë tënd, tërë pjelljet e para meshkuj të bagëtive të tua të trasha dhe të imta. Nuk do të #bësh asnjë punë me pjelljen e parë të lopës sate dhe nuk do të qethësh pjelljen e parë të deles sate."
 "Do t'i hash çdo vit, ti dhe familja jote, përpara Zotit, Perëndisë tënd, në vendin që Zoti ka zgjedhur."
 "Por në qoftë se kafsha ka ndonjë të metë, në rast se është e çalë, e verbër, apo ka ndonjë të metë tjetër të rëndë, nuk do t'ia flijosh Zotit, Perëndisë tënd;"
 "do ta hash brenda portave të tua; të papastrin dhe të pastrin mund ta hanë njëlloj sikur të ishte një gazelë apo një dre."

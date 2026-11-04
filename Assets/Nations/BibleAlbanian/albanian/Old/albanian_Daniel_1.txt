@@ -1,8 +1,8 @@
 "Në vitin e tretë të mbretërimit të Jehojakimit; mbretit të Judës, Nebukadnetsari, mbreti i Babilonisë, u nis kundër Jeruzalemit dhe e rethoi."
-"Zoti atëherë dha në duart e tij Jehojakimin, mbretin e Judës, bashkë me një pjesë të orendive të shtëpisë së Perëndisë, që ai i transportoi në vendin e Shinarit, në shtëpinë e perëndisë së tij dhe i vendosi orenditë në shtëpinë e thesarit të perëndisë së tij."
+"Zoti atëherë dha në duart e tij Jehojakimin, mbretin e Judës, bashkë me një pjesë të orendive të shtëpisë së Perëndisë, që ai i #transportoi në vendin e Shinarit, në shtëpinë e perëndisë së tij dhe i vendosi orenditë në shtëpinë e thesarit të perëndisë së tij."
 "Pastaj mbreti i tha Ashpenazit, kreut të eunukëve të tij, t'i sjellë disa nga djemtë e Izraelit, qofshin prej fisi mbretëror apo prej familjesh fisnike,"
-"të rinj që të mos kishin asnjë të metë, por të hijshëm, të pajisur me urti, që të kishin njohuri dhe të mësonin shpejt, që të ishin të aftë të shërbenin në pallatin e mbretit dhe të cilëve të mund t'u mësohej letërsia dhe gjuha e Kaldeasve."
-"Mbreti u caktoi atyre një racion të përditshëm ushqimesh të shijshme nga ato të mbretit dhe verë nga ajo që ai vetë pinte; ata duhet të edukoheshin në tre vjet, në mbarim të të cilëve do të kalonin në shërbim të mbretit."
+"të rinj që të mos kishin asnjë të metë, por të hijshëm, të pajisur me urti, që të kishin njohuri dhe të mësonin shpejt, #që të ishin të aftë të shërbenin në pallatin e mbretit dhe të cilëve të mund t'u mësohej letërsia dhe gjuha e Kaldeasve."
+"Mbreti u caktoi atyre një racion të përditshëm ushqimesh të shijshme nga ato të mbretit dhe verë nga ajo që ai vetë #pinte; ata duhet të edukoheshin në tre vjet, në mbarim të të cilëve do të kalonin në shërbim të mbretit."
 "Midis tyre ishin bijtë e Judës
 "Kreu i eunukëve u vuri atyre emra të tjerë
 "Por Danieli vendosi në zemër të tij të mos e ndotë veten me ushqimet e shijshme të mbretit dhe me verën që pinte ai vetë; dhe i kërkoi kreut të eunukëve ta lejonte që të mos ndotej."

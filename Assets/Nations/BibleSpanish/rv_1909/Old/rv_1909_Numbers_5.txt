@@ -5,12 +5,12 @@
 "Además habló Jehová á Moisés, diciendo
 "Habla á los hijos de Israel
 "Confesarán su pecado que cometieron, y compensarán su ofensa enteramente, y añadirán su quinto sobre ello, y lo darán á aquel contra quien pecaron."
-"Y si aquel hombre no tuviere pariente al cual sea resarcida la ofensa, daráse la indemnización del agravio á Jehová, al sacerdote, á más del carnero de las expiaciones, con el cual hará expiación por él."
+"Y si aquel hombre no tuviere pariente al cual sea resarcida la ofensa, daráse la indemnización del agravio á #Jehová, al sacerdote, á más del carnero de las expiaciones, con el cual hará expiación por él."
 "Y toda ofrenda de todas las cosas santas que los hijos de Israel presentaren al sacerdote, suya será."
 "Y lo santificado de cualquiera será suyo
 "Y Jehová habló á Moisés, diciendo
 "Habla á los hijos de Israel, y diles
-"Que alguno se hubiere echado con ella en carnal ayuntamiento, y su marido no lo hubiese visto por haberse ella contaminado ocultamente, ni hubiere testigo contra ella, ni ella hubiere sido cogida en el acto;"
+"Que alguno se hubiere echado con ella en carnal ayuntamiento, y su marido no lo hubiese visto por #haberse ella contaminado ocultamente, ni hubiere testigo contra ella, ni ella hubiere sido cogida en el acto;"
 "Si viniere sobre él espíritu de celo, y tuviere celos de su mujer, habiéndose ella contaminado; ó viniere sobre él espíritu de celo, y tuviere celos de su mujer, no habiéndose ella contaminado;"
 "Entonces el marido traerá su mujer al sacerdote, y traerá su ofrenda con ella, la décima de un epha de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso
 "Y el sacerdote la hará acercar, y la hará poner delante de Jehová."
@@ -24,7 +24,7 @@
 "Y dará á beber á la mujer las aguas amargas que traen maldición; y las aguas que obran maldición entrarán en ella por amargas."
 "Después tomará el sacerdote de la mano de la mujer el presente de los celos, y mecerálo delante de Jehová, y lo ofrecerá delante del altar
 "Y tomará el sacerdote un puñado del presente, en memoria de ella, y lo quemará sobre el altar, y después dará á beber las aguas á la mujer."
-"Darále pues á beber las aguas; y será, que si fuere inmunda y hubiere hecho traición contra su marido, las aguas que obran maldición entrarán en ella en amargura, y su vientre se hinchará, y caerá su muslo; y la mujer será por maldición en medio de su pue"
+"Darále pues á beber las aguas; y será, que si fuere inmunda y hubiere hecho traición contra su marido, las aguas que obran maldición entrarán #en ella en amargura, y su vientre se hinchará, y caerá su muslo; y la mujer será por maldición en medio de su pue"
 "Mas si la mujer no fuere inmunda, sino que estuviere limpia, ella será libre, y será fecunda."
 "Esta es la ley de los celos, cuando la mujer hiciere traición á su marido, y se amancillare;"
 "O del marido, sobre el cual pasare espíritu de celo, y tuviere celos de su mujer

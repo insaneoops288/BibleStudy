@@ -1,7 +1,7 @@
 "Ainsi a dit l'Éternel
 "Dis
 "Ainsi a dit l'Éternel
-"Car si vous agissez suivant cette parole, les rois assis sur le trône de David entreront par les portes de cette maison, montés sur des chars et sur des chevaux, eux, leurs serviteurs et leur peuple."
+"Car si vous agissez suivant cette parole, les rois assis sur le trône de David entreront par les portes #de cette maison, montés sur des chars et sur des chevaux, eux, leurs serviteurs et leur peuple."
 "Mais si vous n'écoutez pas ces paroles, j'ai juré par moi-même, dit l'Éternel, que cette maison sera réduite en ruines."
 "Car ainsi a dit l'Éternel touchant la maison du roi de Juda
 "Je prépare contre toi des destructeurs, chacun avec ses armes, qui couperont et jetteront au feu l'élite de tes cèdres."
@@ -22,7 +22,7 @@
 "Le vent se repaîtra de tous ceux qui te paissent, et ceux qui t'aiment iront en captivité. Certainement alors tu seras honteuse et dans l'ignominie, à cause de toute ta malice."
 "Toi qui habites le Liban et qui fais ton nid dans les cèdres, que tu seras à plaindre quand te surviendront les douleurs et l'angoisse, comme à la femme en travail!"
 "Je suis vivant! dit l'Éternel; quand Chonia, fils de Jéhojakim, roi de Juda, serait un cachet à ma main droite, je t'arracherais de là!"
-"Je te livrerai entre les mains de ceux qui cherchent ta vie, entre les mains de ceux dont la présence te fait peur, et entre les mains de Nébucadnetsar, roi de Babylone, et entre les mains des Caldéens."
+"Je te livrerai entre les mains de ceux qui cherchent ta vie, entre les mains de ceux dont la présence #te fait peur, et entre les mains de Nébucadnetsar, roi de Babylone, et entre les mains des Caldéens."
 "Je te jetterai, toi et ta mère qui t'a enfanté, dans cet autre pays où vous n'êtes point nés, et c'est là que vous mourrez."
 "Et quant au pays où leur âme aspire à retourner, ils n'y retourneront point."
 "Est-il donc, ce Chonia, un vase de rebut, mis en pièces? un ustensile qui ne fait plus de plaisir? Pourquoi sont-ils jetés, lui et sa postérité, lancés dans un pays qu'ils ne connaissent pas?"

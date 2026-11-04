@@ -14,7 +14,7 @@
 "Nie mamy tu bowiem miasta trwałego, lecz tego przyszłego szukamy."
 "Przez niego więc nieustannie składajmy Bogu ofiarę chwały, to jest owoc warg, które wyznają jego imię."
 "Nie zapominajcie też o dobroczynności i udzieleniu dóbr, takie bowiem ofiary podobają się Bogu."
-"Bądźcie posłuszni waszym przywódcom i bądźcie im ulegli, ponieważ oni czuwają nad waszymi duszami jako ci, którzy muszą zdać z tego sprawę. Niech to czynią z radością, a nie ze wzdychaniem, bo to nie byłoby dla was korzystne."
+"Bądźcie posłuszni waszym przywódcom i bądźcie im ulegli, ponieważ oni czuwają nad waszymi duszami jako ci, którzy muszą zdać z #tego sprawę. Niech to czynią z radością, a nie ze wzdychaniem, bo to nie byłoby dla was korzystne."
 "Módlcie się za nas. Ufamy bowiem, że mamy czyste sumienie, gdyż chcemy we wszystkim dobrze postępować."
 "A tym bardziej proszę was, abyście to czynili, abym jak najszybciej został wam przywrócony."
 "A Bóg pokoju, który przez krew wiecznego przymierza wyprowadził spośród umarłych wielkiego pasterza owiec, naszego Pana Jezusa;"

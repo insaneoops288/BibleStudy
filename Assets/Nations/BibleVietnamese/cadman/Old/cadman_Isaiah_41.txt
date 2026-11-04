@@ -1,5 +1,5 @@
 "Hỡi các cù lao, hãy nín lặng trước mặt ta; các dân tộc hãy lấy sức mới; hãy đến gần, thì mới nói! Chúng ta hãy đến gần nhau để xét đoán!"
-"Ai đã khiến người kia dấy lên từ phương đông, lấy sự công bình gọi người đến kề chơn mình? Ngài phó các dân tộc trước mặt Người, khiến người cai trị các vua, phó họ như bụi cho gươm người, giống như rác rến bị gió thổi cho cung người."
+"Ai đã khiến người kia dấy lên từ phương đông, lấy sự công bình gọi người đến kề chơn mình? Ngài phó các dân tộc trước #mặt Người, khiến người cai trị các vua, phó họ như bụi cho gươm người, giống như rác rến bị gió thổi cho cung người."
 "Người đuổi theo họ trên con đường chưa hề đặt chơn, mà vẫn vô sự lướt dặm."
 "Ai đã làm và thành tựu việc nầy? Ấy là chính ta, Ðức Giê-hô-va, là đầu tiên, mà cũng sẽ ở với cuối cùng."
 "Các cù lao thấy và thất kinh; các đầu cùng đất đều run rẩy. Chúng nó đều đến gần và nhóm lại,"
@@ -19,11 +19,11 @@
 "Ta sẽ đặt trong đồng vắng những cây hương bách, cây tạo giáp, cây sim và cây dầu. Ta sẽ trồng chung nơi sa mạc những cây tùng, cây sam, cây hoàng dương,"
 "hầu cho mọi người xem thấy và biết, ngẫm nghĩ và cùng nhau hiểu rằng tay Ðức Giê-hô-va đã làm sự đó, Ðấng Thánh của Y-sơ-ra-ên đã dựng nên sự đó."
 "Ðức Giê-hô-va phán
-"Phải, hãy thuật lại đi! Hãy rao cho chúng ta điều sẽ xảy đến! Hãy tỏ ra những điều đã có lúc trước, cho chúng ta để ý nghiệm sự cuối cùng nó là thế nào, hãy là bảo cho chúng ta biết những sự hầu đến."
+"Phải, hãy thuật lại đi! Hãy rao cho chúng ta điều sẽ xảy đến! Hãy tỏ ra những điều đã có lúc trước, cho #chúng ta để ý nghiệm sự cuối cùng nó là thế nào, hãy là bảo cho chúng ta biết những sự hầu đến."
 "Hãy rao những việc sẽ xảy đến sau nầy, cho chúng ta biết các ngươi là thần, cũng hãy xuống phước hoặc xuống họa đi, hầu cho chúng ta cùng nhau xem thấy và lấy làm lạ."
 "Nầy các ngươi chẳng ra gì, sự các ngươi làm cũng là vô ích; kẻ lựa chọn các ngươi là đáng gớm ghiếc!"
 "Ta dấy lên một người từ phương bắc, và người đã đến; người kêu cầu danh ta từ phía mặt trời mọc, giẵm lên trên các quan trưởng như giẵm trên đất vôi, khác nào thự gốm nhồi đất sét."
-"Ai đã tỏ ra điều đó từ lúc ban đầu cho chúng ta biết? Ai đã rao ra từ trước đặng chúng ta nói rằng, người là công bình? Nhưng chẳng ai rao hết, chẳng ai báo hết, chẳng ai từng nghe tiếng các ngươi."
+"Ai đã tỏ ra điều đó từ lúc ban đầu cho chúng ta biết? Ai đã rao ra từ trước đặng chúng ta #nói rằng, người là công bình? Nhưng chẳng ai rao hết, chẳng ai báo hết, chẳng ai từng nghe tiếng các ngươi."
 "Ấy chính ta đã phán trước nhứt cùng Si-ôn rằng
 "Ta xem rồi, chẳng có ai hết; trong đám họ cũng chẳng có một người mưu sĩ, để mà khi ta hỏi họ, có thể đáp một lời."
 "Thật, họ chỉ là hư vô hết thảy; công việc họ cũng thành không, tượng đúc của họ chẳng qua là gió và sự lộn lạo."

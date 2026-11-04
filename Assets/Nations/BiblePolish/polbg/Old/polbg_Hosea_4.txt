@@ -3,7 +3,7 @@
 "Dlatego ziemia kwilić będzie, a zemdleje wszystko, co na niej mieszka; zwierz polny i ptastwo niebieskie, nawet i ryby morskie zginą."
 "A wszakże niech się nikt z nimi nie spiera, ani ich kto strofuje; bo lud twój jest jako ci, którzy się z kapłanem wadzą."
 "Przetoż upadniesz we dnie, upadnie też i prorok z tobą w nocy; zagładzę i matkę twoję."
-"Lud mój wygładzony będzie dla nieumiejętności; a ponieważeś ty odrzucił umiejętność , i Ja też ciebie odrzucę, abyś mi kapłańskiego urzędu nie odprawował; a iżeś zapomniał zakonu Boga twego, Ja też zapomnę na synów twoich."
+"Lud mój wygładzony będzie dla nieumiejętności; a ponieważeś ty odrzucił umiejętność , i Ja też ciebie odrzucę, abyś #mi kapłańskiego urzędu nie odprawował; a iżeś zapomniał zakonu Boga twego, Ja też zapomnę na synów twoich."
 "Czem się więcej rozmnożyli, tem więcej grzeszyli przeciwko mnie; dlatego sławę ich odmienię w hańbę."
 "Ofiary za grzech ludu mego jedzą
 "Przetoż stanie się jako ludowie, tak i kapłanowi; bo nawiedzę na nim drogi jego, a uczynki jego oddam mu."
@@ -11,7 +11,7 @@
 "Wszeteczństwo, i wino, i moszcz odejmuje serce."
 "Lud mój drewna swego się pyta, a kij jego odpowiada mu; bo ich duch wszeteczeństwa w błąd prowadzi, aby nierząd płodzili, odstępując od Boga swego."
 "Na wierzchach gór ofiarują, a na pagórkach kadzą pod dębiną i pod topoliną, i pod więziną, bo dobry jest cień ich; dlatego wszeteczeństwo płodzą córki wasze, a niewiasty wasze cudzołożą."
-"Nie miałżebym nawiedzić córek waszych, gdy nierząd płodzą? i niewiast waszych, gdy cudzołożą? Albo gdy się i oni sami z nierządnicami odłączają, i z wszetecznicami ofiarują? Owszem, lud, który sobie tego w rozum nie bierze, upadnie."
+"Nie miałżebym nawiedzić córek waszych, gdy nierząd płodzą? i niewiast waszych, gdy cudzołożą? Albo gdy się i oni sami #z nierządnicami odłączają, i z wszetecznicami ofiarują? Owszem, lud, który sobie tego w rozum nie bierze, upadnie."
 "Jeźli nierząd płodzisz, ty Izraelu! niechże wżdy nie występuje Juda; przetoż nie chodźcie do Galgal, ani wstępujcie do Bet Awen, ani przysięgajcie mówiąc
 "Bo Izrael jest nieokrócony jako jałowica nieokrócona
 "Stowarzyszył się Efraim z bałwanami; zaniechaj go."

@@ -2,8 +2,8 @@
 "Că am dat fratelui meu Hanani și lui Hanania, conducătorul palatului, sarcina asupra Ierusalimului
 "Și le-am spus
 "Și cetatea [era] întinsă și mare, dar poporul [era ]puțin în ea și casele nu [erau] construite."
-"Și Dumnezeul meu a pus în inima mea să adun pe nobili și pe conducători și pe popor, ca să fie socotiți prin genealogie. Și am găsit un registru al genealogiei celor care se urcaseră întâi și am găsit scris în el,"
-"Aceștia [sunt] copiii provinciei, care s-au urcat din captivitate, dintre cei care fuseseră duși [în captivitate], pe care Nebucadnețar, împăratul Babilonului, i-a dus, și [care] s-au întors la Ierusalim și în Iuda, fiecare la cetatea lui;"
+"Și Dumnezeul meu a pus în inima mea să adun pe nobili și pe conducători și pe popor, ca să fie socotiți #prin genealogie. Și am găsit un registru al genealogiei celor care se urcaseră întâi și am găsit scris în el,"
+"Aceștia [sunt] copiii provinciei, care s-au urcat din captivitate, dintre cei care fuseseră duși [în captivitate], pe care Nebucadnețar, #împăratul Babilonului, i-a dus, și [care] s-au întors la Ierusalim și în Iuda, fiecare la cetatea lui;"
 "Care au venit cu Zorobabel, Ieșua, Neemia, Azaria, Raamia, Nahamani, Mardoheu, Bilșan, Misperet, Bigvai, Nehum, Baana. Numărul, [spun eu], al bărbaților poporului lui Israel [era acesta]
 "Copiii lui Pareoș, două mii o sută șaptezeci și doi."
 "Copiii lui Șefatia, trei sute șaptezeci și doi."
@@ -70,4 +70,4 @@
 "Și unii dintre mai marii părinților au dat pentru lucrare. Tirșata a dat pentru tezaur o mie de drahme de aur, cincizeci de oale, cinci sute treizeci de haine preoțești."
 "Și [unii ]dintre mai marii părinților au dat pentru tezaurul lucrării douăzeci de mii de drahme de aur și două mii două sute de mine de argint."
 "Și [ceea ]ce restul poporului a dat [a fost] douăzeci de mii de drahme de aur și două mii două sute de mine de argint și șaizeci și șapte de haine preoțești."
-"Astfel preoții și leviții și portarii și cântăreții și [unii] din popor și netinimii și tot Israelul au locuit în cetățile lor; și când a venit luna a șaptea, copiii lui Israel [erau] în cetățile lor."
+"Astfel preoții și leviții și portarii și cântăreții și [unii] din popor și netinimii și tot Israelul au locuit #în cetățile lor; și când a venit luna a șaptea, copiii lui Israel [erau] în cetățile lor."

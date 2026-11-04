@@ -37,7 +37,7 @@
 "Nguni't bagaman gumawa siya sa harap nila ng gayon maraming mga tanda, gayon ma'y hindi sila nagsisampalataya sa kaniya
 "Upang maganap ang salita ng propeta Isaias, na kaniyang sinalita, Panginoon, sino ang naniwala sa aming balita? At kanino nahayag ang bisig ng Panginoon?"
 "Dahil dito'y hindi sila makapaniwala, sapagka't muling sinabi ni Isaias,"
-"Binulag niya ang kanilang mga mata, at pinatigas niya ang kanilang mga puso; Baka sila'y mangakakita ng kanilang mga mata, at mangakaunawa ng kanilang puso At mangagbalik-loob, At sila'y mapagaling ko."
+"Binulag niya ang kanilang mga mata, at pinatigas niya ang kanilang mga puso; Baka sila'y mangakakita #ng kanilang mga mata, at mangakaunawa ng kanilang puso At mangagbalik-loob, At sila'y mapagaling ko."
 "Ang mga bagay na ito'y sinabi ni Isaias, sapagka't nakita niya ang kaniyang kaluwalhatian; at siya'y nagsalita ng tungkol sa kaniya."
 "Gayon man maging sa mga pinuno ay maraming nagsisampalataya sa kaniya; datapuwa't dahil sa mga Fariseo ay hindi nila ipinahayag, baka sila'y mapalayas sa sinagoga
 "Sapagka't iniibig nila ng higit ang kaluwalhatian sa mga tao kay sa kaluwalhatian sa Dios."
@@ -46,5 +46,5 @@
 "Ako'y naparito na isang ilaw sa sanglibutan, upang ang sinomang sumampalataya sa akin ay huwag manatili sa kadiliman."
 "At kung ang sinomang tao'y nakikinig sa aking mga pananalita, at hindi ingatan, ay hindi ko siya hinahatulan
 "Ang nagtatakuwil sa akin, at hindi tumatanggap sa aking mga pananalita, ay mayroong isang hahatol sa kaniya
-"Sapagka't ako'y hindi nagsasalita na mula sa aking sarili; kundi ang Ama na sa akin ay nagsugo, ay siyang nagbigay sa akin ng utos, kung ano ang dapat kong sabihin, at kung ano ang dapat kong salitain."
+"Sapagka't ako'y hindi nagsasalita na mula sa aking sarili; kundi ang Ama na sa akin ay nagsugo, ay siyang #nagbigay sa akin ng utos, kung ano ang dapat kong sabihin, at kung ano ang dapat kong salitain."
 "At nalalaman ko na ang kaniyang utos ay buhay na walang hanggan; ang mga bagay nga na sinasalita ko, ay ayon sa sinabi sa akin ng Ama, gayon ko sinasalita."

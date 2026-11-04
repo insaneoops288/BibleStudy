@@ -16,7 +16,7 @@
 "E os homens se levantaram dali, e olharam até Sodoma
 "E o SENHOR disse
 "Havendo de ser Abraão em uma nação grande e forte, e havendo de ser benditas nele todas as nações da terra?"
-"Porque eu o conheci, sei que mandará a seus filhos e a sua casa depois de si, que guardem o caminho do SENHOR, fazendo justiça e juízo, para que faça vir o SENHOR sobre Abraão o que falou acerca dele."
+"Porque eu o conheci, sei que mandará a seus filhos e a sua casa depois de si, que guardem o caminho #do SENHOR, fazendo justiça e juízo, para que faça vir o SENHOR sobre Abraão o que falou acerca dele."
 "Então o SENHOR lhe disse
 "Descerei agora, e verei se consumaram sua obra segundo o clamor que veio até mim; e se não, eu o saberei."
 "E apartaram-se dali os homens, e foram até Sodoma

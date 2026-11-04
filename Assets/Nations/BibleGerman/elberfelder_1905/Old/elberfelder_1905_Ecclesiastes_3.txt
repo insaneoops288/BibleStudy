@@ -19,4 +19,4 @@
 "Denn was das Geschick der Menschenkinder und das Geschick der Tiere betrifft, so haben sie einerlei Geschick
 "Alles geht an einen Ort; alles ist aus dem Staube geworden, und alles kehrt zum Staube zurück."
 "Wer weiß von dem Odem der Menschenkinder, ob er aufwärts fährt, und von dem Odem der Tiere, ob er niederwärts zur Erde hinabfährt?"
-"Und so habe ich gesehen, daß nichts besser ist, als daß der Mensch sich freue an seinen Werken; denn das ist sein Teil. Denn wer wird ihn dahin bringen, daß er Einsicht gewinne in das, was nach ihm werden wird?"
+"Und so habe ich gesehen, daß nichts besser ist, als daß der Mensch sich freue an seinen Werken; denn das ist #sein Teil. Denn wer wird ihn dahin bringen, daß er Einsicht gewinne in das, was nach ihm werden wird?"

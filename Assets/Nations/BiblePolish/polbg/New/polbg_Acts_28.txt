@@ -20,11 +20,11 @@
 "Dla tej tedy przyczyny zwołałem was, abym się z wami ujrzał i rozmówił; albowiem dla nadziei ludu Izraelskiego tym łańcuchem jestem opasany."
 "Lecz oni rzekli do niego
 "Wszakże byśmy radzi od ciebie słyszeli, co rozumiesz; albowiem o tej sekcie wiemy, iż wszędzie przeciwko niej mówią."
-"A postanowiwszy mu dzień, przyszło ich do niego do gospody niemało, którym z doświadczeniem wykładał królestwo Boże, namawiając ich do tych rzeczy, które są o Jezusie, z zakonu Mojżeszowego i z proroków, od poranku aż do wieczora."
+"A postanowiwszy mu dzień, przyszło ich do niego do gospody niemało, którym z doświadczeniem wykładał królestwo Boże, namawiając ich #do tych rzeczy, które są o Jezusie, z zakonu Mojżeszowego i z proroków, od poranku aż do wieczora."
 "Tedy niektórzy uwierzyli temu, co mówił, a niektórzy nie uwierzyli."
 "A będąc niezgodnymi między sobą, rozeszli się, gdy Paweł rzekł to jedno słowo
 "Mówiąc
-"Albowiem zgrubiało serce ludu tego, a ciężko uszyma słyszeli i zamrużyli oczy swe, aby snać oczyma nie widzieli, a uszyma nie słyszeli, i sercem nie zrozumieli, i nie nawrócili się, a uzdrowiłbym je."
+"Albowiem zgrubiało serce ludu tego, a ciężko uszyma słyszeli i zamrużyli oczy swe, aby snać oczyma nie #widzieli, a uszyma nie słyszeli, i sercem nie zrozumieli, i nie nawrócili się, a uzdrowiłbym je."
 "Niechże wam tedy wiadomo będzie, iż poganom posłane jest to zbawienie Boże, a oni słuchać będą."
 "A gdy to on rzekł, odeszli Żydowie, mając między sobą wielki spór."
 "I mieszkał Paweł przez całe dwa lata w najemnej gospodzie swojej, i przyjmował wszystkich, którzy przychodzili do niego;"

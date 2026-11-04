@@ -36,7 +36,7 @@
 "Por në Jopë ishte një dishepull me emër Tabitha, që do të thotë Gazelë; ajo bënte shumë vepra të mira dhe jepte shumë lëmoshë."
 "Por në ato ditë ndodhi që ajo u sëmur dhe vdiq. Pasi e lanë, e vunë në një dhomë në katin e sipërm."
 "Dhe, duke qenë se Lida është afër Jopës, dishepujt, kur morën vesh se Pjetri ndodhej atje, i dërguan dy burra që ta lutnin të vijë tek ata pa vonesë."
-"Atëherë Pjetri u ngrit dhe u nis bashkë me ta. Sapo arriti, e çuan në dhomën lart; të gjitha gratë e veja i dolën atij duke qarë dhe i treguan tunikat dhe veshjet që kishte punuar Gazela, sa ishte bashkë me to."
+"Atëherë Pjetri u ngrit dhe u nis bashkë me ta. Sapo arriti, e çuan në dhomën lart; të gjitha gratë e veja #i dolën atij duke qarë dhe i treguan tunikat dhe veshjet që kishte punuar Gazela, sa ishte bashkë me to."
 "Atëherë Pjetri, mbasi i nxori jashtë të gjithë, u ngjunjëzua dhe u lut. Pastaj iu kthye trupit dhe tha
 "Ai i dha dorën dhe e ndihmoi të ngrihet; dhe, si thirri shenjtorët dhe gratë e veja, ua tregoi të gjallë."
 "Kjo u muar vesh në mbarë Jopën, dhe shumë veta besuan në Zotin."

@@ -1,8 +1,8 @@
 """Hai Tuan-tuan, Saudara-saudara dan orang tua-tua, dengarlah kiranya akan jawab yang aku katakan sekarang ini kepadamu!"""
 "Setelah mereka itu mendengar ia bertutur dengan bahasa Ibrani makin senyaplah mereka itu. Lalu kata Paulus,"
-"""Aku ini orang Yahudi, lahir di Tarsus, di tanah Kilikia, tetapi dididik di dalam negeri ini, berguru kepada Gamaliel yang telah mengajarkan dengan tertibnya hukum nenek moyang kita, dan dengan gairah pula aku beribadat kepada Allah sama seperti kamu sekalian pada hari ini."
+"""Aku ini orang Yahudi, lahir di Tarsus, di tanah Kilikia, tetapi dididik di dalam negeri ini, berguru kepada Gamaliel yang telah mengajarkan #dengan tertibnya hukum nenek moyang kita, dan dengan gairah pula aku beribadat kepada Allah sama seperti kamu sekalian pada hari ini."
 "Aku sudah menganiayakan orang yang menurut jalan agama ini sehingga membunuh, mengikat dan menyerahkan orang ke dalam penjara, baik laki-laki baik perempuan."
-"Dan lagi Imam Besar juga dapat menyaksikan halku, serta segenap Majelis orang tua-tua pun; daripada mereka itu juga aku terima beberapa pucuk surat kiriman untuk saudara-saudara itu, lalu pergi ke Damsyik hendak membawa juga orang yang di sana berikat ke Yeruzalem, supaya disiksakan."
+"Dan lagi Imam Besar juga dapat menyaksikan halku, serta segenap Majelis orang tua-tua pun; daripada mereka itu juga aku terima beberapa pucuk #surat kiriman untuk saudara-saudara itu, lalu pergi ke Damsyik hendak membawa juga orang yang di sana berikat ke Yeruzalem, supaya disiksakan."
 "Maka berlakulah, tatkala aku lagi berjalan hampir dengan Damsyik, bahwa sekira-kira tengah hari tiba-tiba bersinar-sinarlah dari langit suatu cahaya yang besar sekeliling aku."
 "Lalu rebahlah aku ke tanah, serta terdengar suatu suara mengatakan kepadaku, ""Hai Saul, Saul, apakah sebabnya engkau aniayakan Aku?"""
 "Maka jawabku
@@ -26,5 +26,5 @@
 "Apabila penghulu laskar itu mendengar demikian, maka pergilah ia kepada panglima laskar memberitahu hal itu sambil berkata, ""Apakah Tuan hendak lakukan? Karena orang ini orang Rum."""
 "Maka panglima laskar itu pun datanglah serta berkata kepadanya, ""Katakanlah kepadaku, engkau ini sungguhkah orang Rum?"" Maka katanya, ""Sungguh."""
 "Maka jawab panglima laskar itu, ""Aku ini sudah beroleh hak menjadi anak negeri itu dengan membelanjakan jumlah besar."" Maka kata Paulus, ""Tetapi hamba ini peranakan Rum."""
-"Lalu segala orang yang sedang hendak memeriksai dia itu pun segeralah undur daripadanya, dan panglima laskar itu pun takut juga sebab mengetahui bahwa ia orang Rum, dan sebab ia sudah mengikat Paulus itu."
-"Tetapi pada keesokan harinya, sebab hendak mengetahui halnya dengan sah yang menyebabkan ia dituduh oleh orang Yahudi itu, dioraknya pengikatnya, disuruhnya kepala-kepala imam dan segenap Majelis Besar itu berhimpun, lalu dibawanya Paulus turun, serta dihadapkannya dia ke hadapan mereka itu."
+"Lalu segala orang yang sedang hendak memeriksai dia itu pun segeralah undur daripadanya, dan panglima laskar itu #pun takut juga sebab mengetahui bahwa ia orang Rum, dan sebab ia sudah mengikat Paulus itu."
+"Tetapi pada keesokan harinya, sebab hendak mengetahui halnya dengan sah yang menyebabkan ia dituduh oleh orang Yahudi itu, dioraknya pengikatnya, disuruhnya #kepala-kepala imam dan segenap Majelis Besar itu berhimpun, lalu dibawanya Paulus turun, serta dihadapkannya dia ke hadapan mereka itu."

@@ -11,7 +11,7 @@ Then the LORD spoke to Moses, saying,
 'the border shall go down from Shepham to Riblah on the east side of Ain; the border shall go down and reach to the eastern side of the Sea of Chinnereth;
 'the border shall go down along the Jordan, and it shall end at the Salt Sea. This shall be your land with its surrounding boundaries.'"
 Then Moses commanded the children of Israel, saying, "This is the land which you shall inherit by lot, which the LORD has commanded to give to the nine tribes and to the half-tribe.
-"For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and the half-tribe of Manasseh has received its inheritance.
+"For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of #Gad according to the house of their fathers, have received their inheritance; and the half-tribe of Manasseh has received its inheritance.
 "The two tribes and the half-tribe have received their inheritance on this side of the Jordan, across from Jericho eastward, toward the sunrise."
 And the LORD spoke to Moses, saying,
 "These are the names of the men who shall divide the land among you as an inheritance, Eleazar the priest and Joshua the son of Nun.

@@ -7,7 +7,7 @@
 "Portanto assim diz o Senhor dos exércitos
 "uma flecha mortífera é a língua deles; fala engano; com a sua boca fala cada um de paz com o seu próximo, mas no coração arma-lhe ciladas."
 "Não hei de castigá-los por estas coisas? diz o Senhor; ou não me vingarei de uma nação tal como esta?"
-"Pelos montes levantai choro e pranto, e pelas pastagens do deserto lamentação; porque já estão queimadas, de modo que ninguém passa por elas; nem se ouve mugido de gado; desde as aves dos céus até os animais, fugiram e se foram."
+"Pelos montes levantai choro e pranto, e pelas pastagens do deserto lamentação; porque já estão queimadas, de modo que ninguém passa #por elas; nem se ouve mugido de gado; desde as aves dos céus até os animais, fugiram e se foram."
 "E farei de Jerusalém montões de pedras, morada de chacais, e das cidades de Judá farei uma desolação, de sorte que fiquem sem habitantes."
 "Quem é o homem sábio, que entenda isto? e a quem falou a boca do Senhor, para que o possa anunciar? Por que razão pereceu a terra, e se queimou como um deserto, de sorte que ninguém passa por ela?"
 "E diz o Senhor
@@ -23,4 +23,4 @@
 "Assim diz o Senhor
 "mas o que se gloriar, glorie-se nisto
 "Eis que vêm dias, diz o Senhor, em que castigarei a todo circuncidado pela sua incircuncisão
-"ao Egipto, a Judá e a Edom, aos filhos de Amon e a Moab, e a todos os que cortam os cantos da sua cabeleira e habitam no deserto; pois todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração."
+"ao Egipto, a Judá e a Edom, aos filhos de Amon e a Moab, e a todos os que cortam os cantos da #sua cabeleira e habitam no deserto; pois todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração."

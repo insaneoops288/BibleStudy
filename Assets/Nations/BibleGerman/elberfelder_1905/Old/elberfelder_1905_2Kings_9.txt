@@ -1,5 +1,5 @@
 "Und Elisa, der Prophet, rief einen von den Söhnen der Propheten und sprach zu ihm
-"Und wenn du dahin gekommen bist, so sieh dich daselbst nach Jehu um, dem Sohne Josaphats, des Sohnes Nimsis; und gehe hinein, und laß ihn aufstehen aus der Mitte seiner Brüder und führe ihn in ein inneres Gemach;"
+"Und wenn du dahin gekommen bist, so sieh dich daselbst nach Jehu um, dem Sohne Josaphats, des Sohnes Nimsis; und #gehe hinein, und laß ihn aufstehen aus der Mitte seiner Brüder und führe ihn in ein inneres Gemach;"
 "und nimm dieÖlflasche und gieße sieüber sein Haupt aus und sprich
 "Und der Jüngling, der Knabe des Propheten, ging nach Ramoth-Gilead."
 "Und er kam hinein, und siehe, da saßen die Obersten des Heeres. Und er sprach
@@ -12,7 +12,7 @@
 "Und sie sprachen
 "Da eilten sie und nahmen ein jeder sein Kleid und legten es unter ihn, auf die Stufen selbst; und sie stießen in die Posaune und sprachen
 "Und so machte Jehu, der Sohn Josaphats, des Sohnes Nimsis, eine Verschwörung gegen Joram.(Joram aber, er und ganz Israel, hatte Ramoth-Gilead gegen Hasael, den König von Syrien, verteidigt;"
-"und der König Joram war zurückgekehrt, um sich in Jisreel von den Wunden heilen zu lassen, welche ihm die Syrer geschlagen hatten, als er wider Hasael, den König von Syrien, stritt.) Und Jehu sprach
+"und der König Joram war zurückgekehrt, um sich in Jisreel von den Wunden heilen zu lassen, welche ihm #die Syrer geschlagen hatten, als er wider Hasael, den König von Syrien, stritt.) Und Jehu sprach
 "Und Jehu saß auf und zog nach Jisreel; denn Joram lag daselbst. Und Ahasja, der König von Juda, war hinabgezogen, um Joram zu besuchen."
 "Und der Wächter stand auf dem Turme zu Jisreel und sah den Haufen Jehus, wie er herankam, und sprach
 "Ist es Friede? Da ritt der Berittene ihm entgegen und sprach
@@ -23,7 +23,7 @@
 "Da wandte Joram um und floh, und sprach zu Ahasja
 "Jehu aber nahm seinen Bogen zur Hand und traf Joram zwischen seine Arme, so daß der Pfeil ihm durch das Herz fuhr; und er sank nieder in seinem Wagen."
 "Und er sprach zu Bidkar, seinem Anführer
-"Wenn ich nicht das Blut Naboths und das Blut seiner Söhne gestern gesehen habe! spricht Jehova; und ich werde es dir vergelten auf diesem Grundstück, spricht Jehova. Und nun nimm ihn auf, wirf ihn auf das Grundstück, nach dem Worte Jehovas."
+"Wenn ich nicht das Blut Naboths und das Blut seiner Söhne gestern gesehen habe! spricht Jehova; und ich werde es dir #vergelten auf diesem Grundstück, spricht Jehova. Und nun nimm ihn auf, wirf ihn auf das Grundstück, nach dem Worte Jehovas."
 "Als Ahasja, der König von Juda, das sah, floh er des Weges zum Gartenhause. Und Jehu jagte ihm nach und sprach
 "Und seine Knechte führten ihn zu Wagen nach Jerusalem, und sie begruben ihn in seinem Begräbnis, bei seinen Vätern, in der Stadt Davids.-"
 "Und im elften Jahre Jorams, des Sohnes Ahabs, war Ahasja König gewordenüber Juda."

@@ -12,7 +12,7 @@
 "A drugiego dnia, gdy wychodzili z Betanii, łaknął."
 "I ujrzawszy z daleka figowe drzewo, mające liście, przyszedł, jeźliby snać co na niem znalazł; a gdy do niego przyszedł, nic nie znalazł, tylko liście; bo nie był czas figom."
 "A odpowiadając Jezus, rzekł mu
-"I przyszli do Jeruzalemu; a wszedłszy Jezus do kościoła, począł wyganiać sprzedawające i kupujące w kościele, i poprzewracał stoły tych, co pieniędzmi handlowali, i stołki tych, co sprzedawali gołębie;"
+"I przyszli do Jeruzalemu; a wszedłszy Jezus do kościoła, począł wyganiać sprzedawające i kupujące w #kościele, i poprzewracał stoły tych, co pieniędzmi handlowali, i stołki tych, co sprzedawali gołębie;"
 "A nie dopuścił, żeby kto miał nieść naczynie przez kościół."
 "I nauczał, mówiąc im
 "A słyszeli to nauczeni w Piśmie i przedniejsi kapłani i szukali, jakoby go stracili; albowiem się go bali, przeto iż wszystek lud zdumiewał się nad nauką jego."

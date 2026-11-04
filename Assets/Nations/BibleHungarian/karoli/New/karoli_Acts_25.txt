@@ -8,7 +8,7 @@
 "Mivelhogy õ a maga mentségére ezt feleli vala
 "Festus pedig a zsidóknak kedveskedni akarván, felelvén Pálnak, monda
 "Pál azonban monda
-"Mert ha vétkes vagyok és valami halálra méltót cselekedtem, nem vonakodom a haláltól; ha azonban semmi sincs azokban, a mikkel ezek vádolnak engem, senki sem ajándékozhat oda engem azoknak. A császárra appellálok!"
+"Mert ha vétkes vagyok és valami halálra méltót cselekedtem, nem vonakodom a haláltól; ha azonban semmi sincs #azokban, a mikkel ezek vádolnak engem, senki sem ajándékozhat oda engem azoknak. A császárra appellálok!"
 "Akkor Festus tanácsával értekezvén, felele
 "Néhány nap elmúltával pedig Agrippa király és Bernicé érkezék Czézáreába, hogy köszöntsék Festust."
 "Mikor pedig több napig idõztek ott, Festus elébe adá a királynak a Pál dolgát, mondván

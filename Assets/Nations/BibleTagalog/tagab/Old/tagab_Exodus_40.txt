@@ -12,7 +12,7 @@
 "At iyong dadalhin si Aaron at ang kaniyang mga anak sa pintuan ng tabernakulo ng kapisanan, at iyong paliliguan ng tubig."
 "At iyong isusuot kay Aaron ang mga banal na kasuutan; at iyong papahiran ng langis siya, at iyong papagbanalin siya, upang siya'y makapangasiwa sa akin sa katungkulang saserdote."
 "At iyong dadalhin ang kaniyang mga anak, at iyong susuutan sila ng mga kasuutan
-"At iyong papahiran ng langis sila gaya ng iyong pagkapahid sa kanilang ama, upang sila'y makapangasiwa sa akin sa katungkulang saserdote, at ang pagpapahid sa kanila ay maging sa kanila'y pinakatanda ng walang hanggang pagka-saserdote sa buong panahon ng kanilang lahi."
+"At iyong papahiran ng langis sila gaya ng iyong pagkapahid sa kanilang ama, upang sila'y makapangasiwa sa akin sa katungkulang saserdote, #at ang pagpapahid sa kanila ay maging sa kanila'y pinakatanda ng walang hanggang pagka-saserdote sa buong panahon ng kanilang lahi."
 "Gayon ginawa ni Moises, ayon sa lahat ng iniutos ng Panginoon sa kaniya, ay gayong ginawa niya."
 "At nangyari sa unang buwan nang ikalawang taon nang unang araw ng buwan, na ang tabernakulo'y itinayo."
 "At itinayo ni Moises ang tabernakulo, at inilagay ang mga tungtungan, at ipinatong ang mga malaking tabla, at isinuot ang mga barakilan, at itinayo ang mga haligi niyaon."
@@ -26,7 +26,7 @@
 "At kaniyang inilagay ang dambanang ginto sa loob ng tabernakulo ng kapisanan sa harap ng lambong."
 "At siya'y nagsunog doon ng kamangyan na mabangong espesia; gaya ng iniutos ng Panginoon kay Moises."
 "At kaniyang inilagay ang tabing ng pintuan sa tabernakulo."
-"At kaniyang inilagay ang dambanang pagsusunugan ng handog sa pintuan ng tabernakulo ng kapisanan, at pinaghandugan ng handog na susunugin, at ng handog na harina; gaya ng iniutos ng Panginoon kay Moises."
+"At kaniyang inilagay ang dambanang pagsusunugan ng handog sa pintuan ng tabernakulo ng kapisanan, at pinaghandugan ng #handog na susunugin, at ng handog na harina; gaya ng iniutos ng Panginoon kay Moises."
 "At kaniyang inilagay ang hugasan sa pagitan ng tabernakulo, ng kapisanan at ng dambana, at sinidlan ng tubig upang paghugasan."
 "At si Moises at si Aaron at ang kaniyang mga anak, ay nagsipaghugas doon ng kanilang mga kamay at ng kanilang mga paa;"
 "Pagka sila'y pumapasok sa tabernakulo ng kapisanan, at pagka sila'y lumalapit sa dambana ay naghuhugas sila

@@ -1,6 +1,6 @@
 "La fête de Pâque et des pains sans levain devait être deux jours après; et les scribes cherchaient comment ils pourraient se saisir de Jésus par ruse et le faire mourir."
 "Mais ils disaient
-"Et Jésus étant à Béthanie, à table, dans la maison de Simon le lépreux, une femme vint à lui avec un vase d'albâtre, plein d'un parfum de nard pur et de grand prix, qu'elle lui répandit sur la tête, ayant rompu le vase."
+"Et Jésus étant à Béthanie, à table, dans la maison de Simon le lépreux, une femme vint à lui avec un vase #d'albâtre, plein d'un parfum de nard pur et de grand prix, qu'elle lui répandit sur la tête, ayant rompu le vase."
 "Et quelques-uns en furent indignés en eux-mêmes, et dirent
 "Car on pouvait le vendre plus de trois cents deniers, et les donner aux pauvres. Ainsi ils murmuraient contre elle."
 "Mais Jésus dit
@@ -40,7 +40,7 @@
 "Et étant revenu, il les trouva encore endormis, car leurs yeux étaient appesantis; et ils ne savaient que lui répondre."
 "Et il revint pour la troisième fois, et leur dit
 "Levez-vous, allons, voici, celui qui me trahit s'approche."
-"Et aussitôt, comme il parlait encore, Judas, l'un des douze, vint, et avec lui une grande troupe de gens armés d'épées et de bâtons, de la part des principaux sacrificateurs, des scribes et des anciens."
+"Et aussitôt, comme il parlait encore, Judas, l'un des douze, vint, et avec lui une grande troupe de #gens armés d'épées et de bâtons, de la part des principaux sacrificateurs, des scribes et des anciens."
 "Et celui qui le trahissait avait donné ce signal
 "Aussitôt donc qu'il fut arrivé, il s'approcha de lui et lui dit
 "Alors ils jetèrent les mains sur Jésus, et le saisirent."

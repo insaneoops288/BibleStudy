@@ -16,9 +16,9 @@
 "Ja sanoi
 "Kuin hän Samariaan tuli, löi hän kaikki Ahabista jääneet Samariassa, siihenasti että hän hänen hävitti, Herran sanan jälkeen, jonka hän puhunut oli Elialle."
 "Ja Jehu kokosi kaiken kansan ja antoi heille sanoa
-"Sentähden kutsukaat kaikki Baalin prophetat kokoon, kaikki hänen palveliansa ja kaikki hänen pappinsa minun tyköni, niin ettei yksikään heistä jää; sillä minä teen suuren uhrin Baalille, ja joka ikänä jää pois, ei sen pidä elämän. Mutta Jehu teki sen kavaluudella, että hän olis saanut hävittää Baalin palveliat."
+"Sentähden kutsukaat kaikki Baalin prophetat kokoon, kaikki hänen palveliansa ja kaikki hänen pappinsa minun tyköni, niin ettei yksikään heistä jää; sillä minä teen suuren #uhrin Baalille, ja joka ikänä jää pois, ei sen pidä elämän. Mutta Jehu teki sen kavaluudella, että hän olis saanut hävittää Baalin palveliat."
 "Ja Jehu sanoi
-"Ja Jehu lähetti kaikkeen Israeliin, ja kaikki Baalin palveliat tulivat, niin ettei yksikään heistä jäänyt, joka ei tullut; ja he tulivat sisälle Baalin huoneesen ja täyttivät Baalin huoneen joka loukkaan."
+"Ja Jehu lähetti kaikkeen Israeliin, ja kaikki Baalin palveliat tulivat, niin ettei yksikään heistä jäänyt, joka #ei tullut; ja he tulivat sisälle Baalin huoneesen ja täyttivät Baalin huoneen joka loukkaan."
 "Silloin sanoi hän vaatehuoneen haltialle
 "Ja Jehu meni Jonadabin Rekabin pojan kanssa Baalin huoneesen ja sanoi Baalin palvelioille
 "Kuin he tulivat sisälle tekemään uhria ja polttouhria, asetti Jehu kahdeksankymmentä miestä ulos ja sanoi
@@ -28,7 +28,7 @@
 "Näin hävitti Jehu Baalin Israelista."
 "Mutta ei Jehu lakannut Jerobeamin Nebatin pojan synneistä, joka oli saattanut Israelin syntiä tekemään, kultaisilla vasikoilla Betelissä ja Danissa."
 "Ja Herra sanoi Jehulle
-"Mutta ei Jehu kuitenkaan pysynyt, että hän Herran Israelin Jumalan laissa kaikesta sydämestänsä vaeltanut olis; sillä ei hän lakannut Jerobeamin synneistä, joka Israelin oli saattanut syntiä tekemään."
+"Mutta ei Jehu kuitenkaan pysynyt, että hän Herran Israelin Jumalan laissa kaikesta sydämestänsä vaeltanut #olis; sillä ei hän lakannut Jerobeamin synneistä, joka Israelin oli saattanut syntiä tekemään."
 "Silloin rupesi Herra Israelista lohkaisemaan; sillä Hasael löi heidät kaikissa Israelin rajoissa,"
 "Hamasta auringon ylenemisen puolelta Jordania, ja kaiken Gileadin, Gadilaisten, Rubenilaisten ja Manasselaisten maan, hamasta Aroerista, joka on Arnonin ojan tykönä, ja Gileadin ja Basanin."
 "Mitä enempi Jehusta on sanottavaa, ja kaikista hänen töistänsä, ja kaikesta hänen voimastansa

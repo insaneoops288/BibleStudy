@@ -1,5 +1,5 @@
 "En in die veertiende jaar van koning Hiskía het Sánherib, die koning van Assirië, opgetrek teen al die versterkte stede van Juda en dit verower."
-"Toe stuur die koning van Assirië die rábsake uit Lagis na Jerusalem, na koning Hiskía met 'n swaar leër; en hy het gaan staan by die watervoor van die Boonste Dam, by die grootpad van die Bleikveld."
+"Toe stuur die koning van Assirië die rábsake uit Lagis na Jerusalem, na koning Hiskía met 'n swaar leër; #en hy het gaan staan by die watervoor van die Boonste Dam, by die grootpad van die Bleikveld."
 "Daarop gaan Éljakim, die seun van Hilkía, wat oor die paleis was, en Sebna, die skrywer, en Joa, die seun van Asaf, die kanselier, na hom toe uit."
 "En die rábsake sê vir hulle
 "Jy dink
@@ -19,4 +19,4 @@
 "Waar is die gode van Hamat en Arpad? Waar die gode van Sefarváim? En het hulle miskien Samaría gered uit my hand?"
 "Wie is daar onder al die gode van hierdie lande wat hulle land gered het uit my hand, dat die HERE Jerusalem uit my hand sou red?"
 "Maar hulle het stilgebly en hom niks geantwoord nie; want dit was die bevel van die koning
-"Toe het Éljakim, die seun van Hilkía, wat oor die paleis was, en Sebna, die skrywer, en Joa, die seun van Asaf, die kanselier, met geskeurde klere by Hiskía gekom en hom die woorde van die rábsake te kenne gegee."
+"Toe het Éljakim, die seun van Hilkía, wat oor die paleis was, en Sebna, die skrywer, en Joa, die seun van #Asaf, die kanselier, met geskeurde klere by Hiskía gekom en hom die woorde van die rábsake te kenne gegee."

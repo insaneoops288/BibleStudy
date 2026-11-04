@@ -11,7 +11,7 @@
 "Ja tämä sana oli Abrahamin mielestä sangen karvas, hänen poikansa tähden."
 "Mutta Jumala sanoi Abrahamille
 "Minä teen myös piikas pojan (suureksi) kansaksi; että hän sinun siemenes on."
-"Niin nousi Abraham aamulla varhain, ja otti leipiä ja vesileilin; ja antoi Hagarille, ja pani hänen selkäänsä, ja (antoi hänelle) pojan, ja laski hänen menemään. Ja hän meni matkaansa, ja eksyi BerSaban korvessa."
+"Niin nousi Abraham aamulla varhain, ja otti leipiä ja vesileilin; ja antoi Hagarille, ja pani hänen selkäänsä, #ja (antoi hänelle) pojan, ja laski hänen menemään. Ja hän meni matkaansa, ja eksyi BerSaban korvessa."
 "Koska vesi oli loppunut leilistä, heitti hän pojan puun alle."
 "Ja meni pois, ja istui hänen kohdallensa taamma, liki joutsen kantamalle; sillä hän sanoi
 "Ja Jumala kuuli pojan äänen, ja Jumalan enkeli huusi Hagaria taivaasta, ja sanoi hänelle
@@ -20,7 +20,7 @@
 "Ja Jumala oli pojan kanssa, ja hän kasvoi; ja asui korvessa, ja tuli tarkaksi joutsimieheksi."
 "Ja asui Paranin korvessa; ja hänen äitinsä otti hänelle emännän Egyptin maalta."
 "Sillä ajalla puhui Abimelek ja hänen sotapäämiehensä Phikol Abrahamille, sanoen
-"Niin vanno nyt minulle tässä Jumalan kautta, ettes ole minulle, ja minun pojalleni, ja poikanipojalle petollinen; vaan sen laupiuden jälkeen, jonka minä tein sinun kanssas, tee sinä myös minun kanssani, ja sen maan kanssa, jossa sinä olet muukalainen."
+"Niin vanno nyt minulle tässä Jumalan kautta, ettes ole minulle, ja minun pojalleni, ja poikanipojalle petollinen; vaan sen laupiuden jälkeen, #jonka minä tein sinun kanssas, tee sinä myös minun kanssani, ja sen maan kanssa, jossa sinä olet muukalainen."
 "Niin sanoi Abraham
 "Ja Abraham nuhteli Abimelekiä, sen vesikaivon tähden, kun Abimelekin palveliat olivat väkivallalla ottaneet."
 "Ja Abimelek sanoi

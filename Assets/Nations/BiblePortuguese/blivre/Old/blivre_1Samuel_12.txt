@@ -1,6 +1,6 @@
 "E disse Samuel a todo Israel
 "Agora, pois, eis que vosso rei vai diante de vós. Eu sou já velho e grisalho
-"Aqui estou; testemunhai contra mim diante do SENHOR e diante de seu ungido, se tomei o boi de alguém, ou se tomei o asno de alguém, ou se caluniei a alguém, ou se oprimi a alguém, ou se de alguém tomei suborno pelo qual tenha coberto meus olhos; e eu vos restituirei."
+"Aqui estou; testemunhai contra mim diante do SENHOR e diante de seu ungido, se tomei o boi de alguém, ou se tomei o asno de alguém, ou #se caluniei a alguém, ou se oprimi a alguém, ou se de alguém tomei suborno pelo qual tenha coberto meus olhos; e eu vos restituirei."
 "Então disseram
 "E ele lhes disse
 "Então Samuel disse ao povo

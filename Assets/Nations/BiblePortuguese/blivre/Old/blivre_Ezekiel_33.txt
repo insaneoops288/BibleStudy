@@ -3,7 +3,7 @@
 "E ele vir que a espada está vindo sobre a terra, e tocar trombeta, e alertar ao povo;"
 "Se alguém ouvir o som da trombeta, e não der atenção ao alerta, quando a espada vier, e o tomar, seu sangue será sobre sua própria cabeça."
 "Ouviu o som da trombeta, e não deu atenção ao alerta; seu sangue será sobre ele; mas o que der atenção ao alerta salvará sua vida."
-"Porém se o vigilante vir que a espada está vindo, e não tocar a trombeta, e o povo não for alertado, e a espada vier, e tomar alguém do [povo] , por causa de sua maldade foi tomado, mas exigirei seu sangue da mão do vigilante."
+"Porém se o vigilante vir que a espada está vindo, e não tocar a trombeta, e o povo não for alertado, e a espada #vier, e tomar alguém do [povo] , por causa de sua maldade foi tomado, mas exigirei seu sangue da mão do vigilante."
 "A ti, pois, filho do homem, eu te pus como vigilante para casa de Israel; por isso ouvirás a palavra de minha boca, e os alerta de minha parte."
 "Quando eu disser ao perverso
 "Mas quando tu alertares ao perverso de seu caminho, para que dele se converta, e ele não se converter de seu caminho, ele morrerá em sua maldade, porém tu livraste tua alma."
@@ -28,6 +28,6 @@
 "Porque tornarei a terra em desolação e ruínas, e a soberba de sua força cessará; e os montes de Israel serão desolados de tal maneira que ninguém passe [por eles] ."
 "Então saberão que eu sou o SENHOR, quando eu tornar a terra em desolação e ruínas, por causa de todas as suas abominações que fizeram."
 "E tu, ó filho do homem, os filhos de teu povo falam de ti junto às paredes e às portas das casas, e um fala com o outro, cada um com seu irmão, dizendo
-"E eles vem a ti, como o povo costuma vir, e se sentam diante de ti [como se fosse] meu povo, e ouvem tuas palavras, mas não as praticam; em vez disso lisonjeiam com suas bocas, [porém] seus corações buscam o interesse próprio."
+"E eles vem a ti, como o povo costuma vir, e se sentam diante de ti [como se fosse] meu povo, e #ouvem tuas palavras, mas não as praticam; em vez disso lisonjeiam com suas bocas, [porém] seus corações buscam o interesse próprio."
 "E eis que tu és para eles como um cantor de amores, de bela voz e que canta bem; então ouvem tuas palavras, mas não as praticam."
 "Porém quando isso vier a acontecer (eis que virá) saberão que houve profeta no meio deles."

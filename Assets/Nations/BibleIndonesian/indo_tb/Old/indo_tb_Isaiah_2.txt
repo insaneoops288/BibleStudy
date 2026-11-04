@@ -1,9 +1,9 @@
 "Firman yang dinyatakan kepada Yesaya bin Amos tentang Yehuda dan Yerusalem."
 "Akan terjadi pada hari-hari yang terakhir
 "dan banyak suku bangsa akan pergi serta berkata
-"Ia akan menjadi hakim antara bangsa-bangsa dan akan menjadi wasit bagi banyak suku bangsa; maka mereka akan menempa pedang-pedangnya menjadi mata bajak dan tombak-tombaknya menjadi pisau pemangkas; bangsa tidak akan lagi mengangkat pedang terhadap bangsa, dan mereka tidak akan lagi belajar perang."
+"Ia akan menjadi hakim antara bangsa-bangsa dan akan menjadi wasit bagi banyak suku bangsa; maka mereka akan menempa pedang-pedangnya menjadi mata bajak #dan tombak-tombaknya menjadi pisau pemangkas; bangsa tidak akan lagi mengangkat pedang terhadap bangsa, dan mereka tidak akan lagi belajar perang."
 "Hai kaum keturunan Yakub, mari kita berjalan di dalam terang TUHAN!"
-"Sungguh, telah Kaubuang umat-Mu, yakni kaum keturunan Yakub, sebab di mana-mana mereka melakukan tenung seperti yang di Timur dan sihir seperti orang Filistin, dan orang-orang asing di antara mereka terlalu banyak."
+"Sungguh, telah Kaubuang umat-Mu, yakni kaum keturunan Yakub, sebab di mana-mana mereka melakukan tenung seperti yang #di Timur dan sihir seperti orang Filistin, dan orang-orang asing di antara mereka terlalu banyak."
 "Negerinya penuh emas dan perak dan tak terbatas harta bendanya; negerinya penuh kuda dan tak terbatas jumlah keretanya."
 "Negerinya penuh berhala-berhala; mereka sujud menyembah kepada buatan tangannya sendiri dan kepada yang dikerjakan oleh tangannya."
 "Maka manusia ditundukkan dan orang direndahkan,janganlah ampuni mereka!"
@@ -18,5 +18,5 @@
 "Sedang berhala-berhala akan hilang sama sekali."
 "Maka orang akan masuk ke dalam gua-gua di gunung batu dan ke dalam liang-liang di tanah terhadap kedahsyatan TUHAN dan terhadap semarak kemegahan-Nya, pada waktu Ia bangkit menakut-nakuti bumi."
 "Pada hari itu berhala-berhala perak dan berhala-berhala emas yang dibuat manusia untuk sujud menyembah kepadanya akan dilemparkannya kepada tikus dan kelelawar,"
-"dan ia akan masuk ke dalam lekuk-lekuk di gunung batu dan ke dalam celah-celah di bukit batu terhadap kedahsyatan TUHAN dan terhadap semarak kemegahan-Nya, pada waktu Ia bangkit menakut-nakuti bumi."
+"dan ia akan masuk ke dalam lekuk-lekuk di gunung batu dan ke dalam celah-celah di bukit #batu terhadap kedahsyatan TUHAN dan terhadap semarak kemegahan-Nya, pada waktu Ia bangkit menakut-nakuti bumi."
 "Jangan berharap pada manusia, sebab ia tidak lebih dari pada embusan nafas, dan sebagai apakah ia dapat dianggap?"

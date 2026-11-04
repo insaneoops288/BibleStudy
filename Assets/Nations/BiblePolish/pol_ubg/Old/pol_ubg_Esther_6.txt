@@ -6,7 +6,7 @@
 "I Haman wszedł. A król zapytał go
 "Odpowiedział Haman królowi
 "Niech przyniosą szatę królewską, w którą się ubiera król, niech przyprowadzą konia, na którym jeździ król, i niech włożą mu koronę królewską na głowę;"
-"Potem niech przekażą tę szatę i konia do rąk jednego z najznakomitszych książąt, niech ubiorą tego mężczyznę, którego król chce uczcić, niech go prowadzą na koniu po placu miejskim i niech wołają przed nim
+"Potem niech przekażą tę szatę i konia do rąk jednego z najznakomitszych książąt, niech ubiorą tego mężczyznę, którego #król chce uczcić, niech go prowadzą na koniu po placu miejskim i niech wołają przed nim
 "Wtedy król powiedział do Hamana
 "Haman wziął więc szatę i konia, ubrał Mardocheusza i prowadził go na koniu po placu miejskim, wołając przed nim
 "Potem wrócił Mardocheusz do bramy królewskiej, Haman zaś pospieszył się do swego domu smutny, z nakrytą głową."

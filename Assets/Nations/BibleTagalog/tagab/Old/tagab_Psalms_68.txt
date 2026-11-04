@@ -15,7 +15,7 @@
 "Bundok ng Dios ay ang bundok ng Basan; mataas na bundok ang bundok ng Basan."
 "Bakit kayo'y nagsisiirap, kayong matataas na mga bundok, sa bundok na ninasa ng Dios na maging kaniyang tahanan? Oo, tatahan doon ang Panginoon magpakailan man."
 "Ang mga karo ng Dios ay dalawang pung libo sa makatuwid baga'y libolibo
-"Sumampa ka sa mataas, pinatnubayan mo ang iyong bihag sa pagkabihag; tumanggap ka ng mga kaloob sa gitna ng mga tao, Oo, pati sa mga mapanghimagsik, upang makatahang kasama nila ang Panginoong Dios."
+"Sumampa ka sa mataas, pinatnubayan mo ang iyong bihag sa pagkabihag; tumanggap ka ng mga kaloob sa #gitna ng mga tao, Oo, pati sa mga mapanghimagsik, upang makatahang kasama nila ang Panginoong Dios."
 "Purihin ang Panginoon na nagpapasan araw-araw ng aming pasan, sa makatuwid baga'y ang Dios na siyang aming kaligtasan. (Selah)"
 "Ang Dios sa amin ay Dios ng mga kaligtasan; at kay Jehova na Panginoon ukol ang pagpapalaya sa kamatayan."
 "Nguni't sasaktan ng Dios ang ulo ng kaniyang mga kaaway. Ang bunbunang mabuhok ng nagpapatuloy sa kaniyang sala."
@@ -27,7 +27,7 @@
 "Doo'y ang munting Benjamin ay siyang kanilang puno, ang mga pangulo ng Juda at ang kanilang pulong, ang mga pangulo ng Zabulon, ang mga pangulo ng Nephtali."
 "Ang Dios mo'y nagutos ng iyong kalakasan
 "Dahil sa iyong templo sa Jerusalem mga hari ay mangagdadala ng mga kaloob sa iyo."
-"Sawayin mo ang mga mailap na hayop sa mga puno ng tambo, ang karamihan ng mga toro na kasama ng mga guya ng mga bayan, na niyayapakan sa ilalim ng paa ang mga putol ng pilak; iyong pinangalat ang mga bayan na nangagagalak sa pagdidigma."
+"Sawayin mo ang mga mailap na hayop sa mga puno ng tambo, ang karamihan ng mga toro na kasama ng mga guya ng #mga bayan, na niyayapakan sa ilalim ng paa ang mga putol ng pilak; iyong pinangalat ang mga bayan na nangagagalak sa pagdidigma."
 "Mga pangulo ay magsisilabas sa Egipto; magmamadali ang Etiopia na igawad ang kaniyang mga kamay sa Dios."
 "Magsiawit kayo sa Dios, kayong mga kaharian sa lupa; Oh magsiawit kayo ng mga pagpuri sa Panginoon."
 "Sa kaniya na sumasakay sa langit ng mga langit, na noon pang una

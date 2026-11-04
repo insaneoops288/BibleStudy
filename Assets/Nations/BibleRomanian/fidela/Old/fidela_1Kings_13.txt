@@ -8,7 +8,7 @@
 "Şi omul lui Dumnezeu a spus împăratului
 "Pentru că astfel mi s-a poruncit prin cuvântul DOMNULUI, spunând
 "Astfel el a mers pe altă cale şi nu s-a întors pe calea pe care venise la Betel."
-"Şi acolo în Betel locuia un profet bătrân; şi fiii săi au venit şi i-au spus toate lucrările pe care omul lui Dumnezeu le făcuse în acea zi în Betel; cuvintele pe care le spusese împăratului, pe acestea le-au spus de asemenea tatălui lor."
+"Şi acolo în Betel locuia un profet bătrân; şi fiii săi au venit şi i-au spus toate lucrările pe care omul lui Dumnezeu #le făcuse în acea zi în Betel; cuvintele pe care le spusese împăratului, pe acestea le-au spus de asemenea tatălui lor."
 "Şi tatăl lor le-a spus
 "Şi a spus fiilor săi
 "Şi a mers după omul lui Dumnezeu şi l-a găsit şezând sub un stejar; şi i-a spus
@@ -30,5 +30,5 @@
 "Şi a pus trupul său mort în propriul său mormânt; şi ei l-au jelit, [spunând]
 "Şi s-a întâmplat, după ce l-a îngropat, că a vorbit fiilor săi, spunând
 "Fiindcă spusa pe care el a strigat-o prin cuvântul DOMNULUI împotriva altarului din Betel şi împotriva tuturor caselor înălţimilor care [sunt] în cetăţile din Samaria, se va întâmpla negreşit."
-"După acest lucru Ieroboam nu s-a întors de la calea lui cea rea, ci a făcut din nou, din oamenii cei mai de jos, preoţi ai înălţimilor; oricine voia, îl consacra şi el devenea [unul ]din preoţii înălţimilor."
+"După acest lucru Ieroboam nu s-a întors de la calea lui cea rea, ci a făcut din nou, din oamenii #cei mai de jos, preoţi ai înălţimilor; oricine voia, îl consacra şi el devenea [unul ]din preoţii înălţimilor."
 "Şi acest lucru a fost păcat casei lui Ieroboam, chiar până la stârpire şi nimicire de pe faţa pământului."

@@ -1,7 +1,7 @@
 "Ja Herra puhui Mosekselle, sanoen
 "Käske Israelin lapsille, ja sano heille
 "Etelän puoli pitää rupeeman Sinin korvesta Edomin tyköä, niin että teidän rajanne etelään päin pitää käymän Suolaisen meren äärestä, joka itään päin on."
-"Ja se raja pitää teille käymän ympäri etelästä Akrabimin palttaa myöten ja menemän Siniin, niin että sen uloskäyminen eteläpuolelta on KadesBarneaan päin, että se ulottuu Hatsar Adariin, ja menee Asmoniin."
+"Ja se raja pitää teille käymän ympäri etelästä Akrabimin palttaa myöten ja menemän Siniin, niin että #sen uloskäyminen eteläpuolelta on KadesBarneaan päin, että se ulottuu Hatsar Adariin, ja menee Asmoniin."
 "Sitte pitää rajan menemän ympäri Asmonista Egyptin virtaan asti, niin että sen loppu on meressä."
 "Mutta raja länteen päin pitää oleman teille suuri meri
 "Ja tämä pitää raja pohjaa päin oleman

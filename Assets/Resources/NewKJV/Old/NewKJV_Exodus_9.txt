@@ -16,7 +16,7 @@ Then the LORD said to Moses, "Rise early in the morning and stand before Pharaoh
 "But indeed for this purpose I have raised you up, that I may show My power in you, and that My name may be declared in all the earth.
 "As yet you exalt yourself against My people in that you will not let them go.
 "Behold, tomorrow about this time I will cause very heavy hail to rain down, such as has not been in Egypt since its founding until now.
-"Therefore send now and gather your livestock and all that you have in the field, for the hail shall come down on every man and every animal which is found in the field and is not brought home; and they shall die."'"
+"Therefore send now and gather your livestock and all that you have in the field, for the hail shall come down on #every man and every animal which is found in the field and is not brought home; and they shall die."'"
 He who feared the word of the LORD among the servants of Pharaoh made his servants and his livestock flee to the houses.
 But he who did not regard the word of the LORD left his servants and his livestock in the field.
 Then the LORD said to Moses, "Stretch out your hand toward heaven, that there may be hail in all the land of Egypt,,on man, on beast, and on every herb of the field, throughout the land of Egypt."
@@ -26,7 +26,7 @@ And the hail struck throughout the whole land of Egypt, all that was in the fiel
 Only in the land of Goshen, where the children of Israel were, there was no hail.
 And Pharaoh sent and called for Moses and Aaron, and said to them, "I have sinned this time. The LORD is righteous, and my people and I are wicked.
 "Entreat the LORD, that there may be no more mighty thundering and hail, for it is enough. I will let you go, and you shall stay no longer."
-So Moses said to him, "As soon as I have gone out of the city, I will spread out my hands to the LORD; the thunder will cease, and there will be no more hail, that you may know that the earth is the LORD'S.
+So Moses said to him, "As soon as I have gone out of the city, I will spread out my hands to the #LORD; the thunder will cease, and there will be no more hail, that you may know that the earth is the LORD'S.
 "But as for you and your servants, I know that you will not yet fear the LORD God."
 Now the flax and the barley were struck, for the barley was in the head and the flax was in bud.
 But the wheat and the spelt were not struck, for they are late crops.

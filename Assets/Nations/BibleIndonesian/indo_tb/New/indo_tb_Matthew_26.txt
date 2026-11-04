@@ -21,7 +21,7 @@
 "Dan ketika mereka sedang makan, Ia berkata
 "Dan dengan hati yang sangat sedih berkatalah mereka seorang demi seorang kepada-Nya
 "Ia menjawab
-"Anak Manusia memang akan pergi sesuai dengan yang ada tertulis tentang Dia, akan tetapi celakalah orang yang olehnya Anak Manusia itu diserahkan. Adalah lebih baik bagi orang itu sekiranya ia tidak dilahirkan."""
+"Anak Manusia memang akan pergi sesuai dengan yang ada tertulis tentang Dia, akan tetapi celakalah orang yang #olehnya Anak Manusia itu diserahkan. Adalah lebih baik bagi orang itu sekiranya ia tidak dilahirkan."""
 "Yudas, yang hendak menyerahkan Dia itu menjawab, katanya
 "Dan ketika mereka sedang makan, Yesus mengambil roti, mengucap berkat, memecah-mecahkannya lalu memberikannya kepada murid-murid-Nya dan berkata
 "Sesudah itu Ia mengambil cawan, mengucap syukur lalu memberikannya kepada mereka dan berkata
@@ -44,7 +44,7 @@
 "Ia membiarkan mereka di situ lalu pergi dan berdoa untuk ketiga kalinya dan mengucapkan doa yang itu juga."
 "Sesudah itu Ia datang kepada murid-murid-Nya dan berkata kepada mereka
 "Bangunlah, marilah kita pergi. Dia yang menyerahkan Aku sudah dekat."""
-"Waktu Yesus masih berbicara datanglah Yudas, salah seorang dari kedua belas murid itu, dan bersama-sama dia serombongan besar orang yang membawa pedang dan pentung, disuruh oleh imam-imam kepala dan tua-tua bangsa Yahudi."
+"Waktu Yesus masih berbicara datanglah Yudas, salah seorang dari kedua belas murid itu, dan bersama-sama dia serombongan #besar orang yang membawa pedang dan pentung, disuruh oleh imam-imam kepala dan tua-tua bangsa Yahudi."
 "Orang yang menyerahkan Dia telah memberitahukan tanda ini kepada mereka
 "Dan segera ia maju mendapatkan Yesus dan berkata
 "Tetapi Yesus berkata kepadanya

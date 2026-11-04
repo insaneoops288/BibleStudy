@@ -2,8 +2,8 @@
 "Nguni't si Nadab at si Abiu ay namatay na una sa kanilang ama, at hindi nangagkaanak
 "At si David na kasama ni Sadoc sa mga anak ni Eleazar, at si Ahimelech sa mga anak ni Ithamar, ay siyang bumahagi sa kanila ayon sa kanilang paglilingkod."
 "At may higit na mga pinuno na nasumpungan sa mga anak ni Eleazar kay sa mga anak ni Ithamar
-"Ganito nila binahagi sa pamamagitan ng sapalaran, ng isa't isa sa kanila; sapagka't may mga prinsipe sa santuario, at mga prinsipe ng Dios, sa mga anak ni Eleazar, at gayon din sa mga anak ni Ithamar."
-"At si Semeias na anak ni Nathanael na kalihim, na sa mga Levita ay isinulat sila sa harapan ng hari, at ng mga prinsipe, at si Sadoc na saserdote, at ni Ahimelech na anak ni Abiathar, at ng mga pangulo sa mga sangbahayan ng mga magulang ng mga saserdote, at ng mga Levita
+"Ganito nila binahagi sa pamamagitan ng sapalaran, ng isa't isa sa kanila; sapagka't may mga prinsipe sa santuario, at #mga prinsipe ng Dios, sa mga anak ni Eleazar, at gayon din sa mga anak ni Ithamar."
+"At si Semeias na anak ni Nathanael na kalihim, na sa mga Levita ay isinulat sila sa harapan ng hari, at ng mga prinsipe, at si Sadoc #na saserdote, at ni Ahimelech na anak ni Abiathar, at ng mga pangulo sa mga sangbahayan ng mga magulang ng mga saserdote, at ng mga Levita
 "Ang una ngang kapalaran ay lumabas kay Joiarib, ang ikalawa'y kay Jedaia;"
 "Ang ikatlo ay kay Harim, ang ikaapat ay kay Seorim;"
 "Ang ikalima ay kay Malchias, ang ikaanim ay kay Miamim;"
@@ -16,7 +16,7 @@
 "Ang ikalabing siyam ay kay Pethaia, ang ikadalawangpu ay kay Hezeciel;"
 "Ang ikadalawangpu't isa ay kay Jachin, ang ikadalawangpu't dalawa ay kay Hamul;"
 "Ang ikadalawangpu't tatlo ay kay Delaia, ang ikadalawangpu't apat ay kay Maazia."
-"Ito ang ayos nila sa kanilang paglilingkod, upang pumasok sa bahay ng Panginoon ayon sa alituntunin na ibinigay sa kanila sa pamamagitan ng kamay ni Aaron na kanilang magulang, gaya ng iniutos sa kaniya ng Panginoon, ng Dios ng Israel."
+"Ito ang ayos nila sa kanilang paglilingkod, upang pumasok sa bahay ng Panginoon ayon sa alituntunin na ibinigay sa kanila sa #pamamagitan ng kamay ni Aaron na kanilang magulang, gaya ng iniutos sa kaniya ng Panginoon, ng Dios ng Israel."
 "At sa nalabi sa mga anak ni Levi
 "Kay Rehabia
 "Sa mga Isharita, si Selomoth; sa mga anak ni Selomoth, si Jath."
@@ -28,4 +28,4 @@
 "Kay Mahali
 "Kay Cis
 "At ang mga anak ni Musi
-"Ang mga ito nama'y nagsapalaran din na gaya ng kanilang mga kapatid na mga anak ni Aaron, sa harap ni David na hari, at ni Sadoc, at ni Ahimelech at ng mga pangulo sa mga sangbahayan ng mga magulang ng mga saserdote at ng mga Levita
+"Ang mga ito nama'y nagsapalaran din na gaya ng kanilang mga kapatid na mga anak ni Aaron, sa harap ni David na hari, at #ni Sadoc, at ni Ahimelech at ng mga pangulo sa mga sangbahayan ng mga magulang ng mga saserdote at ng mga Levita

@@ -1,5 +1,5 @@
 "Şi va fi astfel, când vei intra în ţara, pe care ţi-o dă DOMNUL Dumnezeul tău [ca] moştenire, şi o vei stăpâni şi vei locui în ea,"
-"Să iei din primele roade ale pământului, pe care le vei aduce din ţara ta, pe care ţi-o dă DOMNUL Dumnezeul tău, şi să [le] pui într-un coş şi să mergi la locul pe care îl va alege DOMNUL Dumnezeul tău să îşi pună numele acolo."
+"Să iei din primele roade ale pământului, pe care le vei aduce din ţara ta, pe care ţi-o dă DOMNUL Dumnezeul tău, şi să #[le] pui într-un coş şi să mergi la locul pe care îl va alege DOMNUL Dumnezeul tău să îşi pună numele acolo."
 "Şi să mergi la preotul care va fi în zilele acelea şi să îi spui
 "Şi preotul să ia coşul din mâna ta şi să îl pună jos înaintea altarului DOMNULUI Dumnezeul tău."
 "Şi să vorbeşti şi să spui înaintea DOMNULUI Dumnezeul tău
@@ -9,9 +9,9 @@
 "Şi ne-a adus în locul acesta şi ne-a dat ţara aceasta, ţară în care curge lapte şi miere."
 "Şi acum, iată, am adus primele roade ale ţării, pe care tu, DOAMNE, mi-ai dat-o. Şi să le pui înaintea DOMNULUI Dumnezeul tău şi să te închini înaintea DOMNULUI Dumnezeul tău."
 "Şi să te bucuri în fiecare [lucru ]bun, pe care ţi l-a dat DOMNUL Dumnezeul tău, ţie şi casei tale, [tu] şi levitul şi străinul care [este] printre voi."
-"Când vei termina de strâns toate zeciuielile din venitul tău în anul al treilea, anul zeciuielii, şi le vei da levitului, străinului, celui fără tată şi văduvei, ca ei să mănânce înăuntrul porţilor tale şi să fie săturaţi,"
+"Când vei termina de strâns toate zeciuielile din venitul tău în anul al treilea, anul zeciuielii, şi le vei da #levitului, străinului, celui fără tată şi văduvei, ca ei să mănânce înăuntrul porţilor tale şi să fie săturaţi,"
 "Atunci să spui înaintea DOMNULUI Dumnezeul tău
-"Nu am mâncat din ele în jalea mea, nici nu am îndepărtat din ele pentru [vreo folosire ]necurată, nici nu am dat din ele pentru morţi, [ci ]am dat ascultare vocii DOMNULUI Dumnezeul meu[ şi ]am făcut conform cu tot ce mi-ai poruncit."
+"Nu am mâncat din ele în jalea mea, nici nu am îndepărtat din ele pentru [vreo folosire ]necurată, nici nu am dat #din ele pentru morţi, [ci ]am dat ascultare vocii DOMNULUI Dumnezeul meu[ şi ]am făcut conform cu tot ce mi-ai poruncit."
 "Priveşte jos din locuinţa ta cea sfântă, din cer, şi binecuvântează pe poporul tău Israel şi ţara pe care ne-ai dat-o, precum ai jurat părinţilor noştri, o ţară în care curge lapte şi miere."
 "Astăzi DOMNUL Dumnezeul tău ţi-a poruncit să împlineşti aceste statute şi judecăţi şi să le ţii de aceea şi să le împlineşti cu toată inima ta şi cu tot sufletul tău."
 "Tu ai declarat astăzi pe DOMNUL ca Dumnezeu al tău, şi [că] vei umbla în căile lui şi vei ţine statutele lui şi poruncile lui şi judecăţile lui şi [că] vei da ascultare vocii lui,"

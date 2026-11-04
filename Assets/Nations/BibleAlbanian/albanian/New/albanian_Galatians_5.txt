@@ -17,7 +17,7 @@
 "Por në qoftë se udhëhiqeni nga Fryma, ju nuk jeni nën ligj."
 "Dhe veprat e mishit janë të zbuluar dhe janë
 "idhujtaria, magjia, armiqësimi, grindjet, xhelozitë, mëritë, zënkat, përçarjet, tarafet,"
-"smira, vrasjet, të dehurit, grykësia dhe gjëra të ngjashme me këto, për të cilat po ju paralajmëroj, si kurse ju thashë edhe më parë, se ata që i bëjnë këto gjëra nuk do të trashëgojnë mbretërinë e Perëndisë."
+"smira, vrasjet, të dehurit, grykësia dhe gjëra të ngjashme me këto, për të cilat po ju paralajmëroj, si kurse ju #thashë edhe më parë, se ata që i bëjnë këto gjëra nuk do të trashëgojnë mbretërinë e Perëndisë."
 "Por fryti i Frymës është
 "Kundër këtyre gjërave nuk ka ligj."
 "Edhe ata që janë të Krishtit e kanë kryqëzuar mishin bashkë me pasionet dhe lakmitë të tij."

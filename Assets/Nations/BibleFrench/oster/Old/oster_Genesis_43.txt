@@ -29,6 +29,6 @@
 "Et, levant les yeux, il vit Benjamin son frère, fils de sa mère, et dit
 "Et Joseph se hâta, car ses entrailles étaient émues pour son frère, et il chercha un lieu pour pleurer; et il entra dans la chambre intérieure et y pleura."
 "Puis il se lava le visage et sortit; et, se faisant violence, il dit
-"Et on le servit à part, et eux à part; et les Égyptiens qui mangeaient avec lui furent aussi servis à part, parce que les Égyptiens ne peuvent manger le pain avec les Hébreux; car c'est une abomination pour les Égyptiens."
+"Et on le servit à part, et eux à part; et les Égyptiens qui mangeaient avec lui furent aussi servis à #part, parce que les Égyptiens ne peuvent manger le pain avec les Hébreux; car c'est une abomination pour les Égyptiens."
 "Ils s'assirent donc en sa présence, l'aîné selon son droit d'aînesse, et le plus jeune selon son âge. Et ces hommes se regardaient l'un l'autre avec étonnement."
 "Et il leur fit porter des mets de devant lui; mais la portion de Benjamin était cinq fois plus grosse que les portions de tous les autres; et ils burent et firent bonne chère avec lui."

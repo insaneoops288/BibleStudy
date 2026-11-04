@@ -5,7 +5,7 @@
 "Mengapa kamu memimpin kami keluar dari Mesir, untuk membawa kami ke tempat celaka ini, yang bukan tempat menabur, tanpa pohon ara, anggur dan delima, bahkan air minumpun tidak ada?"""
 "Maka pergilah Musa dan Harun dari umat itu ke pintu Kemah Pertemuan, lalu sujud. Kemudian tampaklah kemuliaan TUHAN kepada mereka."
 "TUHAN berfirman kepada Musa
-"""Ambillah tongkatmu itu dan engkau dan Harun, kakakmu, harus menyuruh umat itu berkumpul; katakanlah di depan mata mereka kepada bukit batu itu supaya diberi airnya; demikianlah engkau mengeluarkan air dari bukit batu itu bagi mereka dan memberi minum umat itu serta ternaknya."""
+"""Ambillah tongkatmu itu dan engkau dan Harun, kakakmu, harus menyuruh umat itu berkumpul; katakanlah di depan mata mereka kepada bukit batu itu #supaya diberi airnya; demikianlah engkau mengeluarkan air dari bukit batu itu bagi mereka dan memberi minum umat itu serta ternaknya."""
 "Lalu Musa mengambil tongkat itu dari hadapan TUHAN, seperti yang diperintahkan-Nya kepadanya."
 "Ketika Musa dan Harun telah mengumpulkan jemaah itu di depan bukit batu itu, berkatalah ia kepada mereka
 "Sesudah itu Musa mengangkat tangannya, lalu memukul bukit batu itu dengan tongkatnya dua kali, maka keluarlah banyak air, sehingga umat itu dan ternak mereka dapat minum."
@@ -14,7 +14,7 @@
 "Kemudian Musa mengirim utusan dari Kadesh kepada raja Edom dengan pesan
 "bahwa nenek moyang kami pergi ke Mesir, dan kami lama diam di Mesir dan kami dan nenek moyang kami diperlakukan dengan jahat oleh orang Mesir;"
 "bahwa kami berteriak kepada TUHAN, dan Ia mendengarkan suara kami, mengutus seorang malaikat dan menuntun kami keluar dari Mesir. Sekarang ini kami ada di Kadesh, sebuah kota di tepi perbatasanmu."
-"Izinkanlah kiranya kami melalui negerimu; kami tidak akan berjalan melalui ladang-ladang dan kebun-kebun anggurmu dan kami tidak akan minum air sumurmu; jalan besar saja akan kami jalani dengan tidak menyimpang ke kanan atau ke kiri, sampai kami melalui batas daerahmu."""
+"Izinkanlah kiranya kami melalui negerimu; kami tidak akan berjalan melalui ladang-ladang dan kebun-kebun anggurmu dan kami tidak akan minum air sumurmu; #jalan besar saja akan kami jalani dengan tidak menyimpang ke kanan atau ke kiri, sampai kami melalui batas daerahmu."""
 "Tetapi orang Edom berkata kepada mereka
 "Lalu berkatalah orang Israel kepadanya
 "Tetapi jawab mereka

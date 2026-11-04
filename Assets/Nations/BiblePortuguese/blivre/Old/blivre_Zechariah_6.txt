@@ -12,4 +12,4 @@
 "E fala com ele, dizendo
 "Ele mesmo edificará o templo do SENHOR, e levará sobre si majestade; e se sentará e dominará em seu trono, e será sacerdote em seu trono; e haverá conselho de paz entre ambos."
 "E as coroas serão para Helem, Tobias, e Jedaías, e Hem, filho de Sofonias, como memorial no templo do SENHOR."
-"E os que estão longe virão e participarão da construção do templo do SENHOR, e vós sabereis que o SENHOR dos exércitos me enviou a vós. Isto acontecerá se verdadeiramente ouvirdes à voz do SENHOR vosso Deus."
+"E os que estão longe virão e participarão da construção do templo do SENHOR, e vós sabereis que o #SENHOR dos exércitos me enviou a vós. Isto acontecerá se verdadeiramente ouvirdes à voz do SENHOR vosso Deus."

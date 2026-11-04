@@ -18,6 +18,6 @@
 "Õk pedig mondák
 "Figyelmezz reám Uram, és az én pereseimnek szavát [is] halld meg!"
 "Hát roszszal fizetnek-é a jóért, hogy [õk] vermet ásnak nékem? Emlékezzél! Elõtted álltam, hogy javokra beszéljek, hogy elfordítsam rólok haragodat."
-"Azért juttasd fiaikat éhségre és hányd õket fegyver hegyére, hogy legyenek az õ asszonyaik magtalanokká és özvegyekké; férjeik pedig legyenek halál martalékává, ifjaikat fegyver verje le a harczon."
+"Azért juttasd fiaikat éhségre és hányd õket fegyver hegyére, hogy legyenek az õ asszonyaik magtalanokká #és özvegyekké; férjeik pedig legyenek halál martalékává, ifjaikat fegyver verje le a harczon."
 "Kiáltás hallattassék házaikból, mikor sereggel törsz reájok hirtelen, mert vermet ástak, hogy elfogjanak engem, és tõrt vetettek lábaimnak."
-"Te pedig Uram, tudod minden ellenem való gyilkos szándékukat; ne kegyelmezz meg bûneik miatt, és ne töröld ki vétkeiket orczád elõl, hanem veszni valók legyenek elõtted; a te haragod idején bánj el velök!"
+"Te pedig Uram, tudod minden ellenem való gyilkos szándékukat; ne kegyelmezz meg bûneik miatt, és ne töröld #ki vétkeiket orczád elõl, hanem veszni valók legyenek elõtted; a te haragod idején bánj el velök!"

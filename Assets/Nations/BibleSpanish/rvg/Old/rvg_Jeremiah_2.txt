@@ -16,7 +16,7 @@
 "Aun los hijos de Nof y de Tafnes te quebrantaron la coronilla."
 "¿No te acarreaste esto tú mismo, al haber dejado a Jehová tu Dios, cuando Él te guiaba por camino?"
 "Ahora pues, ¿qué tienes tú en el camino de Egipto, para que bebas agua del Nilo? ¿Y qué tienes tú en el camino de Asiria, para que bebas agua del río?"
-"Tu maldad te castigará, y tus rebeldías te condenarán; sabe, pues, y ve cuán malo y amargo [es] el haber dejado tú a Jehová tu Dios, y faltar mi temor en ti, dice el Señor, Jehová de los ejércitos."
+"Tu maldad te castigará, y tus rebeldías te condenarán; sabe, pues, y ve cuán malo y amargo [es] el haber #dejado tú a Jehová tu Dios, y faltar mi temor en ti, dice el Señor, Jehová de los ejércitos."
 "Porque desde hace mucho quebré tu yugo, [y] rompí tus ataduras; y dijiste
 "Y yo te planté como vid escogida, simiente verdadera toda ella
 "Aunque te laves con lejía, y amontones jabón sobre ti, tu pecado está sellado delante de mí, dice el Señor Jehová."

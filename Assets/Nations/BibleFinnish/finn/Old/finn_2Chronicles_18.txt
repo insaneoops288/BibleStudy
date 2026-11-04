@@ -1,5 +1,5 @@
 "Ja Josaphatilla oli suuri rikkaus ja kunnia; ja hän teki nuoteutta Ahabin kanssa."
-"Ja jonkun vuoden perästä sen jälkeen meni hän Ahabin tykö Samariaan. Ja Ahab antoi teurastaa hänelle ja hänen väellensä, joka oli hänen kanssansa, monta lammasta ja härkää; ja hän yllytti hänen menemään ylös Gileadin Ramotiin."
+"Ja jonkun vuoden perästä sen jälkeen meni hän Ahabin tykö Samariaan. Ja Ahab antoi teurastaa hänelle ja hänen #väellensä, joka oli hänen kanssansa, monta lammasta ja härkää; ja hän yllytti hänen menemään ylös Gileadin Ramotiin."
 "Ja Ahab Israelin kuningas sanoi Josaphatille Juudan kuninkaalle
 "Mutta Josaphat sanoi Israelin kuninkaalle
 "Ja Israelin kuningas kokosi prophetaita neljäsataa miestä ja sanoi heille

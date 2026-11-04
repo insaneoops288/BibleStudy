@@ -46,7 +46,7 @@
 "bir i Amtsit, bir i Banit, bir i Shemerit,"
 "bir i Mahlit, bir i Mushit, bir i Merarit, bir i Levit."
 "Vëllezërit e tyre, Levitët, ishin caktuar për çdo lloj shërbimi në tabernakullin e shtëpisë së Perëndisë."
-"Por Aaroni dhe bijtë e tij ofronin flijime mbi altarin e olokausteve dhe mbi altarin e temjanit, duke e bërë gjithë shërbimin në vendin shumë të shenjtë, dhe për të bërë shlyerjen për Izraelin, sipas gjithë atyre që kishte urdhëruar Moisiu, shërbëtor i Perëndisë."
+"Por Aaroni dhe bijtë e tij ofronin flijime mbi altarin e olokausteve dhe mbi altarin e temjanit, duke e bërë gjithë shërbimin në #vendin shumë të shenjtë, dhe për të bërë shlyerjen për Izraelin, sipas gjithë atyre që kishte urdhëruar Moisiu, shërbëtor i Perëndisë."
 "Këta ishin bijtë e Aaronit
 "bir i të cilit ishte Buki, bir i të cilit ishte Uzi, bir i të cilit ishte Zerahiah,"
 "bir i të cilit ishte Merajothi, bir i të cilit ishte Amariahu, bir i të cilit ishte Ahitubi,"
@@ -57,7 +57,7 @@
 "Bijve të Aaronit iu dha Hebroni, një ndër qytetet e strehimit, Libnahu me tokat e tij për kullotë, Jatiri, Eshteoma me tokat e tij për kullotë,"
 "Hileni me tokat e tij për kullotë, Debiri me tokat e tij për kullotë,"
 "Ashani me tokat e tij për kullotë, Beth-Semeshu me tokat e tij për kullotë."
-"Nga fisi i Beniaminëve morën Gebën me tokat e tij për kullotë, Alemethin me tokat e tij për kullotë dhe Anathothin me tokat e tij për kullotë. Të gjitha qytetet që u ndanë midis familjeve të tyre ishin gjithsej trembëdhjetë."
+"Nga fisi i Beniaminëve morën Gebën me tokat e tij për kullotë, Alemethin me tokat e tij për kullotë dhe Anathothin #me tokat e tij për kullotë. Të gjitha qytetet që u ndanë midis familjeve të tyre ishin gjithsej trembëdhjetë."
 "Pjesës tjetër të bijve të Kehathit iu dhanë me short dhjetë qytete nga ana e familjes së fisit, që iu morën gjysmës së fisit, domethënë nga gjysma e fisit të Manasit."
 "Bijve të Ghershomit, sipas familjeve të tyre, iu dhanë trembëdhjetë qytete, që iu morën fisit të Isakar, nga fisi i Asherit, fisit të Neftalit dhe fisit të Manasët në Bashanit."
 "Bijve të Merarit, sipas familjeve të tyre, iu dhanë me short dymbëdhjetë qytete, që iu morën fisit të Rubenit, fisit të Gadit dhe fisit të Zabulonit."

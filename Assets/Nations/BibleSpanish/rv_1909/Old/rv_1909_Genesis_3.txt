@@ -3,7 +3,7 @@
 "Mas del fruto del árbol que está en medio del huerto dijo Dios
 "Entonces la serpiente dijo á la mujer
 "Mas sabe Dios que el día que comiereis de él, serán abiertos vuestros ojos, y seréis como dioses sabiendo el bien y el mal."
-"Y vió la mujer que el árbol era bueno para comer, y que era agradable á los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dió también á su marido, el cual comió así como ella."
+"Y vió la mujer que el árbol era bueno para comer, y que era agradable á los ojos, y árbol codiciable para alcanzar #la sabiduría; y tomó de su fruto, y comió; y dió también á su marido, el cual comió así como ella."
 "Y fueron abiertos los ojos de entrambos, y conocieron que estaban desnudos
 "Y oyeron la voz de Jehová Dios que se paseaba en el huerto al aire del día
 "Y llamó Jehová Dios al hombre, y le dijo

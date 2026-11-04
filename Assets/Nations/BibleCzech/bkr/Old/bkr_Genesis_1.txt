@@ -18,7 +18,7 @@
 "A aby správu držela nade dnem a nocí, a oddělovala světlo od tmy. A viděl Bůh, že to bylo dobré."
 "I byl večer a bylo jitro, den čtvrtý."
 "Řekl ještě Bůh
-"I stvořil Bůh velryby veliké a všelijakou duši živou, hýbající se, kteroužto v hojnosti vydaly vody podlé pokolení jejich, a všeliké ptactvo křídla mající, podlé pokolení jeho. A viděl Bůh, že to bylo dobré."
+"I stvořil Bůh velryby veliké a všelijakou duši živou, hýbající se, kteroužto v hojnosti vydaly vody podlé pokolení #jejich, a všeliké ptactvo křídla mající, podlé pokolení jeho. A viděl Bůh, že to bylo dobré."
 "I požehnal jim Bůh, řka
 "I byl večer a bylo jitro, den pátý."
 "Řekl též Bůh

@@ -7,10 +7,10 @@
 "Ja asettivat heidät keskellensä ja kysyivät heiltä
 "Niin Pietari, täynnänsä Pyhää Henkeä, sanoi heille
 "Jos me tänäpänä tuomitaan sen hyvän työn edestä sille sairaalle miehelle, jonka kautta hän parannettu on,"
-"Niin olkoon teille ja kaikelle Israelin kansalle tiettävä, että Jesuksen Kristuksen Natsarealaisen nimeen, jonka te ristiinnaulitsitte, jonka Jumala kuolleista herätti, sen kautta tämä seisoo teidän edessänne terveenä."
+"Niin olkoon teille ja kaikelle Israelin kansalle tiettävä, että Jesuksen Kristuksen Natsarealaisen nimeen, jonka #te ristiinnaulitsitte, jonka Jumala kuolleista herätti, sen kautta tämä seisoo teidän edessänne terveenä."
 "Hän on se kivi, joka teiltä rakentajilta hyljätty on, joka on nurkkakiveksi tullut."
 "Ja ei yhdessäkään toisessa ole autuutta; sillä ei myös ole muuta nimeä taivaan alla ihmisille annettu, jossa meidän pitää autuaaksi tuleman."
-"Mutta kuin he näkivät Pietarin ja Johanneksen puheen rohkeuden, sillä he ymmärsivät heidät oppimattomiksi ja kirjantaitamattomiksi miehiksi, ihmettelivät he ja tunsivat heidät, että he Jesuksen kanssa olleet olivat."
+"Mutta kuin he näkivät Pietarin ja Johanneksen puheen rohkeuden, sillä he ymmärsivät heidät oppimattomiksi ja #kirjantaitamattomiksi miehiksi, ihmettelivät he ja tunsivat heidät, että he Jesuksen kanssa olleet olivat."
 "Mutta kuin he näkivät sen ihmisen seisovan heidän kanssansa, joka parannettu oli, ei he taitaneet mitään sitä vastaan puhua."
 "Mutta he käskivät heitä ulos raadista mennä pois, ja pitivät neuvoa keskenänsä,"
 "Sanoen

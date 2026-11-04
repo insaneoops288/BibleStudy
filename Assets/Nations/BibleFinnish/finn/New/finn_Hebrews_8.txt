@@ -6,7 +6,7 @@
 "Mutta nyt on hän paremman viran saanut, niinkuin hän paremman Testamentinkin välimies on, joka parempain lupausten päällä seisoo."
 "Sillä jos entinen olis puuttumatoin ollut, niin ei toiselle olisi siaa tehty;"
 "Sillä hän nuhtelee heitä ja sanoo
-"En sen Testamentin jälkeen, jonka minä heidän isillensä sinä päivänä annoin, kuin minä heidän käteensä rupesin, heitä Egyptin maalta johdattaakseni; sillä ei he pysyneet minun Testamentissani, niin en minäkään ole heistä lukua pitänyt, sanoo Herra."
+"En sen Testamentin jälkeen, jonka minä heidän isillensä sinä päivänä annoin, kuin minä heidän käteensä rupesin, heitä Egyptin #maalta johdattaakseni; sillä ei he pysyneet minun Testamentissani, niin en minäkään ole heistä lukua pitänyt, sanoo Herra."
 "Sillä tämä on se Testamentti, jonka minä tahdon säätää Israelin huoneelle, niiden päiväin jälkeen, sanoo Herra
 "Ja ei yhdenkään pidä lähimmäistänsä opettaman eikä veljeänsä, ja sanoman
 "Sillä minä tulen lepytetyksi heidän vääryydestänsä ja heidän synneistänsä, ja heidän vääryyttänsä en minä tahdo enempi muistaa."

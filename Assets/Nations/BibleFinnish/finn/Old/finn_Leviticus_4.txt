@@ -4,13 +4,13 @@
 "Ja pitää tuoman mullin Herran eteen, seurakunnan majan oven tykö, ja laskeman kätensä mullin pään päälle, ja teurastaman mullin Herran edessä."
 "Ja pappi kuin voideltu on, pitää ottaman mullin verestä, ja kantaman seurakunna majaan."
 "Ja papin pitää kastaman sormensa vereen ja priiskottaman sitä verta seitsemän kertaa Herran ja pyhän esiripun edessä."
-"Ja papin pitää siitä verestä paneman suitsutusalttarin sarvein päälle, joka on Herran edessä seurakunnan majassa, ja kaiken muun veren kaataman polttouhrin alttarin pohjalle, joka on seurakunnan majan oven edessä."
+"Ja papin pitää siitä verestä paneman suitsutusalttarin sarvein päälle, joka on Herran edessä seurakunnan majassa, #ja kaiken muun veren kaataman polttouhrin alttarin pohjalle, joka on seurakunnan majan oven edessä."
 "Ja kaiken rikosuhrin mullin lihavuuden pitää hänen ylentämän
 "Ja kaksi munaskuuta sen lihavuuden kanssa, joka niiden päällä on lanteissa, ja maksan kalvon munaskuiden kanssa eroittaman,"
 "Niinkuin ylennetään kiitosuhri härjästä
 "Mutta mullin vuodan, kaiken lihan, pään ja jalkain kanssa, ja sisällykset ja ravan,"
 "Niin myös koko mullin pitää hänen leiristä viemän ulos puhtaaseen paikkaan, johonka tuhkat heitetään, ja se pitää poltettaman puiden päällä tulessa
-"Jos koko Israelin seurakunta eksyis, ja se olis heidän silmäinsä edessä peitetty, niin että he olisivat tehneet jotakuta Herran käskyä vastaan, jota ei heidän tulisi tehdä, ja niin tulisivat vikapääksi,"
+"Jos koko Israelin seurakunta eksyis, ja se olis heidän silmäinsä edessä peitetty, niin että he olisivat #tehneet jotakuta Herran käskyä vastaan, jota ei heidän tulisi tehdä, ja niin tulisivat vikapääksi,"
 "Ja sitte ymmärtäisivät rikoksensa, jonka he olivat tehneet, niin pitää heidän tuoman nuoren mullin rikosuhriksi, ja asettaman sen seurakunnan majan eteen."
 "Ja seurakunnan vanhimmat pitää laskeman kätensä mullin pään päälle Herran edessä, ja teurastaman mullin Herran edessä."
 "Ja pappi, joka voideltu on, pitää kantaman mullin veren seurakunnan majaan."
@@ -32,4 +32,4 @@
 "Mutta jos hän tuo lampaansa rikosuhriksi, niin tuokaan virheettömän uuhen."
 "Ja laskekaan kätensä rikosuhrin pään päälle ja teurastakaan sen rikosuhriksi siinä paikassa, missä polttouhri teurastetaan."
 "Ja papin pitää sormellansa ottaman rikosuhrin verta, ja paneman polttouhrin alttarin sarvein päälle, ja kaataman kaiken muun veren alttarin pohjaan."
-"Mutta kaiken lihavuuden pitää hänen eroittaman niinkuin kiitosuhrin lampaan lihavuus eroitettiin, ja papin pitää polttaman sen alttarilla Herran tuleksi. Ja niin pitää papin hänen rikoksensa sovittaman, jolla hän on rikkonut, ja se hänelle annetaan anteeksi."
+"Mutta kaiken lihavuuden pitää hänen eroittaman niinkuin kiitosuhrin lampaan lihavuus eroitettiin, ja papin pitää polttaman sen alttarilla Herran #tuleksi. Ja niin pitää papin hänen rikoksensa sovittaman, jolla hän on rikkonut, ja se hänelle annetaan anteeksi."

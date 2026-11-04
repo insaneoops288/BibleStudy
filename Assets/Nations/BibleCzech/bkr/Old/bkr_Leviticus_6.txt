@@ -1,5 +1,5 @@
 "Mluvil opět Hospodin k Mojžíšovi, řka
-"Kdyby člověk zhřešil a přestoupením přestoupil proti Hospodinu, buď že by oklamal bližního svého v věci sobě svěřené, aneb v spolku nějakém, aneb mocí by vzal něco, aneb lstivě podvedl bližního svého,"
+"Kdyby člověk zhřešil a přestoupením přestoupil proti Hospodinu, buď že by oklamal bližního svého v věci sobě #svěřené, aneb v spolku nějakém, aneb mocí by vzal něco, aneb lstivě podvedl bližního svého,"
 "Buď že nalezna ztracenou věc, za přelby mu ji, buď že by přisáhl falešně, kteroukoli věcí z těch, kterouž přihází se člověku učiniti a zhřešiti jí,"
 "Když by tedy zhřešil a vinen byl
 "Aneb o kterékoli věci falešně přisáhl

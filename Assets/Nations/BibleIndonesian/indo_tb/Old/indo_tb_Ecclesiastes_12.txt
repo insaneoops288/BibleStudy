@@ -1,8 +1,8 @@
 "Ingatlah akan Penciptamu pada masa mudamu, sebelum tiba hari-hari yang malang dan mendekat tahun-tahun yang kaukatakan
 "sebelum matahari dan terang, bulan dan bintang-bintang menjadi gelap, dan awan-awan datang kembali sesudah hujan,"
-"pada waktu penjaga-penjaga rumah gemetar, dan orang-orang kuat membungkuk, dan perempuan-perempuan penggiling berhenti karena berkurang jumlahnya, dan yang melihat dari jendela semuanya menjadi kabur,"
+"pada waktu penjaga-penjaga rumah gemetar, dan orang-orang kuat membungkuk, dan perempuan-perempuan penggiling berhenti #karena berkurang jumlahnya, dan yang melihat dari jendela semuanya menjadi kabur,"
 "dan pintu-pintu di tepi jalan tertutup, dan bunyi penggilingan menjadi lemah, dan suara menjadi seperti kicauan burung, dan semua penyanyi perempuan tunduk,"
-"juga orang menjadi takut tinggi, dan ketakutan ada di jalan, pohon badam berbunga, belalang menyeret dirinya dengan susah payah dan nafsu makan tak dapat dibangkitkan lagi,karena manusia pergi ke rumahnya yang kekal dan peratap-peratap berkeliaran di jalan,"
+"juga orang menjadi takut tinggi, dan ketakutan ada di jalan, pohon badam berbunga, belalang menyeret dirinya dengan susah payah #dan nafsu makan tak dapat dibangkitkan lagi,karena manusia pergi ke rumahnya yang kekal dan peratap-peratap berkeliaran di jalan,"
 "sebelum rantai perak diputuskan dan pelita emas dipecahkan, sebelum tempayan dihancurkan dekat mata air dan roda timba dirusakkan di atas sumur,"
 "dan debu kembali menjadi tanah seperti semula dan roh kembali kepada Allah yang mengaruniakannya."
 "Kesia-siaan atas kesia-siaan, kata Pengkhotbah, segala sesuatu adalah sia-sia."

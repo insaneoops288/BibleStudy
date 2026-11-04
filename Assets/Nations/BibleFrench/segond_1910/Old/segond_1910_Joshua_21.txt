@@ -1,7 +1,7 @@
 "Les chefs de famille des Lévites s'approchèrent du sacrificateur Eléazar, de Josué, fils de Nun, et des chefs de famille des tribus des enfants d'Israël."
 "Ils leur parlèrent à Silo, dans le pays de Canaan, et dirent
 "Les enfants d'Israël donnèrent alors aux Lévites, sur leur héritage, les villes suivantes et leurs banlieues, d'après l'ordre de l'Eternel."
-"On tira le sort pour les familles des Kehathites; et les Lévites, fils du sacrificateur Aaron, eurent par le sort treize villes de la tribu de Juda, de la tribu de Siméon et de la tribu de Benjamin;"
+"On tira le sort pour les familles des Kehathites; et les Lévites, fils du sacrificateur Aaron, eurent par le sort #treize villes de la tribu de Juda, de la tribu de Siméon et de la tribu de Benjamin;"
 "les autres fils de Kehath eurent par le sort dix villes des familles de la tribu d'Ephraïm, de la tribu de Dan et de la demi-tribu de Manassé."
 "Les fils de Guerschon eurent par le sort treize villes des familles de la tribu d'Issacar, de la tribu d'Aser, de la tribu de Nephthali et de la demi-tribu de Manassé en Basan."
 "Les fils de Merari, selon leurs familles, eurent douze villes de la tribu de Ruben, de la tribu de Gad et de la tribu de Zabulon."

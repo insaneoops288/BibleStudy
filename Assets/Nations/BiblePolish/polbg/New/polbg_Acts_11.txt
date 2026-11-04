@@ -2,7 +2,7 @@
 "A gdy Piotr przyszedł do Jeruzalemu, spierali się z nim ci, którzy byli z obrzezania,"
 "Mówiąc
 "Tedy począwszy Piotr, powiadał im porządnie, mówiąc
-"Byłem w mieście Joppie, modląc się; i widziałem w zachwyceniu widzenie, naczynie niejakie zstępujące jako prześcieradło wielkie, za cztery rogi uwiązane, i spuszczone z nieba, i przyszło aż do mnie."
+"Byłem w mieście Joppie, modląc się; i widziałem w zachwyceniu widzenie, naczynie niejakie zstępujące jako prześcieradło #wielkie, za cztery rogi uwiązane, i spuszczone z nieba, i przyszło aż do mnie."
 "W które pilnie wejrzawszy, obaczyłem i widziałem czworonogie ziemskie zwierzęta i bestyje, i gadziny, i ptastwo niebieskie;"
 "I usłyszałem głos mówiący do mnie
 "I rzekłem

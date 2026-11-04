@@ -61,6 +61,6 @@
 "A była tam Maryja Magdalena, i druga Maryja, które siedziały przeciwko grobowi."
 "A drugiego dnia, który był pierwszy po przygotowaniu, zgromadzili się przedniejsi kapłani i Faryzeuszowie do Piłata."
 "Mówiąc
-"Rozkaż tedy obwarować grób aż do dnia trzeciego, by snać przyszedłszy uczniowie jego w nocy, nie ukradli go, i nie powiedzieli ludowi, iż powstał od umarłych; i będzie pośledni błąd gorszy niż pierwszy."
+"Rozkaż tedy obwarować grób aż do dnia trzeciego, by snać przyszedłszy uczniowie jego w nocy, nie ukradli #go, i nie powiedzieli ludowi, iż powstał od umarłych; i będzie pośledni błąd gorszy niż pierwszy."
 "Rzekł im Piłat
 "A oni poszedłszy, osadzili grób strażą, zapieczętowawszy kamień."

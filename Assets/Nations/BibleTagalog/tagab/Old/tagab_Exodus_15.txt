@@ -13,15 +13,15 @@
 "Iyong pinapatnubayan sa iyong awa ang bayan na iyong tinubos
 "Narinig ng mga bayan; at sila'y nanginig
 "Nang magkagayo'y natulig ang mga pangulo sa Edom; Sa matatapang sa Moab, ay panginginig ang sumasakanila
-"Sindak at gulat ang suma-sakanila; Sa kadakilaan ng iyong bisig ay nagiging walang kibo sila na parang bato; Hanggang sa ang iyong bayan ay makaraan, Oh Panginoon, Hanggang sa makaraan ang bayang ito na iyong kinamtan."
-"Sila'y iyong papapasukin, at sila'y iyong itatayo sa bundok na iyong pamana, Sa dako, Oh Panginoon, na iyong ginawa sa iyo, upang iyong tahanan, Sa santuario, Oh Panginoon, na itinatag ng iyong mga kamay."
+"Sindak at gulat ang suma-sakanila; Sa kadakilaan ng iyong bisig ay nagiging walang kibo sila na parang bato; Hanggang #sa ang iyong bayan ay makaraan, Oh Panginoon, Hanggang sa makaraan ang bayang ito na iyong kinamtan."
+"Sila'y iyong papapasukin, at sila'y iyong itatayo sa bundok na iyong pamana, Sa dako, Oh Panginoon, na iyong #ginawa sa iyo, upang iyong tahanan, Sa santuario, Oh Panginoon, na itinatag ng iyong mga kamay."
 "Ang Panginoon ay maghahari magpakailan man."
-"Sapagka't ang mga kabayo ni Faraon, ay nagsipasok pati ng kaniyang mga karro at pati ng kaniyang mga nangangabayo sa dagat, at pinapanumbalik ng Panginoon ang tubig ng dagat sa kanila; datapuwa't lumakad ang mga anak ni Israel sa tuyong lupa sa gitna ng dagat."
+"Sapagka't ang mga kabayo ni Faraon, ay nagsipasok pati ng kaniyang mga karro at pati ng kaniyang mga nangangabayo sa dagat, at pinapanumbalik #ng Panginoon ang tubig ng dagat sa kanila; datapuwa't lumakad ang mga anak ni Israel sa tuyong lupa sa gitna ng dagat."
 "At si Miriam na propetisa na kapatid ni Aaron, ay tumangan ng isang pandereta sa kaniyang kamay; at sumunod ang lahat ng mga babae sa kaniya, na may mga pandereta at nagsayawan."
 "At sila'y sinagot ni Miriam, Umawit kayo sa Panginoon, sapagka't siya'y nagtagumpay ng kaluwaluwalhati; Ang kabayo at ang sakay niyaon ay ibinulusok niya sa dagat."
 "At pinatnubayan ni Moises ang Israel mula sa Dagat na Mapula, at sila'y lumabas sa ilang ng Shur; at sila'y lumakad na tatlong araw sa ilang, at hindi nakasumpong ng tubig."
 "At nang sila'y dumating sa Mara, ay hindi sila makainom ng tubig sa Mara, sapagka't mapait
 "At inupasala ng bayan si Moises, na sinasabi, Anong aming iinumin?"
-"At siya'y dumaing sa Panginoon; at pinapagkitaan siya ng Panginoon ng isang puno ng kahoy, at inihagis niya sa tubig, at ang tubig ay tumabang. Doon inatangan niya ng palatuntunan, at ng tagubilin at doon sila sinubok niya;"
-"At sinabi, Kung iyong didinggin ng buong sikap ang tinig ng Panginoon mong Dios, at iyong gagawin ang matuwid sa kaniyang mga mata, at iyong didinggin ang kaniyang mga utos, at iyong gaganapin ang lahat niyang mga palatuntunan ay wala akong ilalagay na karamdaman sa iyo, na gaya ng inilagay ko sa mga Egipcio
+"At siya'y dumaing sa Panginoon; at pinapagkitaan siya ng Panginoon ng isang puno ng kahoy, at inihagis niya sa tubig, #at ang tubig ay tumabang. Doon inatangan niya ng palatuntunan, at ng tagubilin at doon sila sinubok niya;"
+"At sinabi, Kung iyong didinggin ng buong sikap ang tinig ng Panginoon mong Dios, at iyong gagawin ang matuwid sa kaniyang mga mata, at iyong didinggin ang kaniyang #mga utos, at iyong gaganapin ang lahat niyang mga palatuntunan ay wala akong ilalagay na karamdaman sa iyo, na gaya ng inilagay ko sa mga Egipcio
 "At sila'y dumating sa Elim, na doo'y mayroong labingdalawang bukal ng tubig, at pitongpung puno ng palma; at sila'y humantong doon sa tabi ng mga tubig."

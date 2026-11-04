@@ -10,7 +10,7 @@
 "Kush është besnik në të vogla, është besnik edhe në të mëdhatë; dhe kush është i padrejtë në të vogla, është i padrejtë edhe në të mëdhatë."
 "Pra, në qoftë se ju nuk keni qenë besnikë në pasuritë e padrejta, kush do t'ju besojë pasuritë e vërteta?"
 "Dhe, në qoftë se nuk keni qenë besnikë në pasurinë e tjetrit, kush do t'ju japë tuajën?"
-"Asnjë shërbëtor nuk mund t'u shërbejë dy zotërinjve; sepse ose do ta urrejë njerin e tjetrin do ta dojë, ose do të lidhet me njerin dhe tjetrin do ta përbuzë; ju nuk mund t'i shërbeni Perëndisë dhe mamonit''."
+"Asnjë shërbëtor nuk mund t'u shërbejë dy zotërinjve; sepse ose do ta urrejë njerin e tjetrin do ta dojë, ose #do të lidhet me njerin dhe tjetrin do ta përbuzë; ju nuk mund t'i shërbeni Perëndisë dhe mamonit''."
 "Dhe farisenjtë, të cilët ishin shumë të dhënë pas parasë, i dëgjonin të gjitha këto dhe e tallnin."
 "Dhe ai u tha atyre
 "Ligji dhe profetët arrijnë deri në kohën e Gjonit; që atëherë shpallet mbretëria e Perëndisë dhe gjithkush përpiqet të hyjë aty."

@@ -32,7 +32,7 @@
 "Y saldrán seis brazos de sus lados
 "Tres copas en forma de almendras en el un brazo, una manzana y una flor; y tres copas, figura de almendras en el otro brazo, una manzana y una flor
 "Y en el candelero cuatro copas en forma de almendras, sus manzanas y sus flores."
-"Habrá una manzana debajo de los dos brazos de lo mismo, otra manzana debajo de los otros dos brazos de lo mismo, y otra manzana debajo de los otros dos brazos de lo mismo, en conformidad á los seis brazos que salen del candelero."
+"Habrá una manzana debajo de los dos brazos de lo mismo, otra manzana debajo de los otros dos brazos de lo mismo, y #otra manzana debajo de los otros dos brazos de lo mismo, en conformidad á los seis brazos que salen del candelero."
 "Sus manzanas y sus brazos serán de lo mismo, todo ello una pieza labrada á martillo, de oro puro."
 "Y hacerle has siete candilejas, las cuales encenderás para que alumbren á la parte de su delantera
 "También sus despabiladeras y sus platillos, de oro puro."

@@ -1,6 +1,6 @@
 "Kung ako'y magsalita ng mga wika ng mga tao at ng mga anghel, datapuwa't wala akong pagibig, ay ako'y naging tanso na tumutunog, o batingaw na umaalingawngaw."
-"At kung magkaroon ako ng kaloob na panghuhula, at maalaman ko ang lahat ng mga hiwaga at ang lahat ng mga kaalaman; at kung magkaroon ako ng buong pananampalataya, na ano pa't mapalipat ko ang mga bundok, datapuwa't wala akong pagibig, ay wala akong kabuluhan."
-"At kung ipagkaloob ko ang lahat ng aking mga tinatangkilik upang ipakain sa mga dukha, at kung ibigay ko ang aking katawan upang sunugin, datapuwa't wala akong pagibig, ay walang pakikinabangin sa akin."
+"At kung magkaroon ako ng kaloob na panghuhula, at maalaman ko ang lahat ng mga hiwaga at ang lahat ng mga kaalaman; at #kung magkaroon ako ng buong pananampalataya, na ano pa't mapalipat ko ang mga bundok, datapuwa't wala akong pagibig, ay wala akong kabuluhan."
+"At kung ipagkaloob ko ang lahat ng aking mga tinatangkilik upang ipakain sa mga dukha, at kung #ibigay ko ang aking katawan upang sunugin, datapuwa't wala akong pagibig, ay walang pakikinabangin sa akin."
 "Ang pagibig ay mapagpahinuhod, at magandang-loob; ang pagibig ay hindi nananaghili; ang pagibig ay hindi nagmamapuri, hindi mapagpalalo."
 "Hindi naguugaling mahalay, hindi hinahanap ang kaniyang sarili, hindi nayayamot, hindi inaalumana ang masama;"
 "Hindi nagagalak sa kalikuan, kundi nakikigalak sa katotohanan;"

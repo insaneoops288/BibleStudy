@@ -3,8 +3,8 @@
 "O Panie! izali oczy twoje nie patrzą na prawdę? Bijesz ich, ale ich nie boli; wniwecz ich obracasz, ale nie chcą przyjąć karania; zatwardzili oblicza swe nad opokę, nie chcą się nawrócić."
 "Tedym Ja rzekł
 "Pójdę do celniejszych, i będę mówił do nich; bo oni są powiadomi drogi Pańskiej, i sądu Boga swego; ale i ci wespół połamali jarzmo, potargali związki."
-"Przetoż ich pobije lew z lasu, wilk wieczorny wygubi ich, lampart czyhać będzie u miast ich. Ktokolwiek wyjdzie z nich, rozszarpany będzie; bo się rozmnożyły przestępstwa ich, i zmogły się odwrócenia ich."
-"Jestże co, dlaczegobym ci miał przepuścić? Synowie twoi opuścili mię, a przysięgają przez onych, którzy nie są bogami. Jakom ich jedno nakarmił, zaraz cudzołożą, a do domu wszetecznicy hurmem się walą."
+"Przetoż ich pobije lew z lasu, wilk wieczorny wygubi ich, lampart czyhać będzie u miast ich. Ktokolwiek #wyjdzie z nich, rozszarpany będzie; bo się rozmnożyły przestępstwa ich, i zmogły się odwrócenia ich."
+"Jestże co, dlaczegobym ci miał przepuścić? Synowie twoi opuścili mię, a przysięgają przez onych, którzy nie #są bogami. Jakom ich jedno nakarmił, zaraz cudzołożą, a do domu wszetecznicy hurmem się walą."
 "Rano wstawając są jako konie wytuczone, każdy z nich rży do żony bliźniego swego."
 "Izali dlatego nawiedzić ich nie mam? mówi Pan; izali się nad takim narodem nie ma mścić dusza moja?"
 "Wstąpcie na mury jego, a rozwalcie je, wszakże ich do gruntu nie znoście; znieście filarzyki murów jego, gdyż nie są Pańskie."
@@ -19,7 +19,7 @@
 "Albowiem gdy rzeczecie
 "Oznajmijcie to domowi Jakóbowemu, a rozgłoście w Judzie, mówiąc
 "Słuchajcież teraz tego, ludu głupi! który niemasz serca, który oczy mając, a nie widzisz, który uszy mając, a nie słyszysz."
-"I nie będziecież się mnie bali? mówi Pan; a przed obliczem mojem nie będziecież się lękali? którym położył morzu piasek za granicę ustawą wieczną, a nie przestąpi jej. Choć się wzruszą, wszakże nie przemogą; choć się wzburzą wały jego, wszakże nie przeskoczą go."
+"I nie będziecież się mnie bali? mówi Pan; a przed obliczem mojem nie będziecież się lękali? którym położył morzu piasek za granicę #ustawą wieczną, a nie przestąpi jej. Choć się wzruszą, wszakże nie przemogą; choć się wzburzą wały jego, wszakże nie przeskoczą go."
 "Ale ten lud ma serce ociążałe i odporne; odstąpili odemnie i odeszli;"
 "Ani rzekli w sercu swem
 "Ale nieprawości wasze odwróciły to, a grzechy wasze zahamowały to dobro od was."

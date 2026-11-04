@@ -1,6 +1,6 @@
 "Rappelle-leur d'être soumis aux magistrats et aux autorités, d'obéir, d'être prêts à toute bonne oeuvre,"
 "de ne médire de personne, d'être pacifiques, modérés, pleins de douceur envers tous les hommes."
-"Car nous aussi, nous étions autrefois insensés, désobéissants, égarés, asservis à toute espèce de convoitises et de voluptés, vivant dans la méchanceté et dans l'envie, dignes d'être haïs, et nous haïssant les uns les autres."
+"Car nous aussi, nous étions autrefois insensés, désobéissants, égarés, asservis à toute espèce de convoitises et de voluptés, #vivant dans la méchanceté et dans l'envie, dignes d'être haïs, et nous haïssant les uns les autres."
 "Mais, lorsque la bonté de Dieu notre Sauveur et son amour pour les hommes ont été manifestés,"
 "il nous a sauvés, non à cause des oeuvres de justice que nous aurions faites, mais selon sa miséricorde, par le baptême de la régénération et le renouvellement du Saint-Esprit,"
 "qu'il a répandu sur nous avec abondance par Jésus-Christ notre Sauveur,"

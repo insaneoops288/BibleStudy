@@ -9,7 +9,7 @@
 "Y el rey dijo
 "Pero Absalón envió espías por todas las tribus de Israel, diciendo
 "Y fueron con Absalón doscientos hombres de Jerusalén por él convidados, los cuales iban inocentemente, sin saber nada."
-"Y Absalón envió por Ahitofel gilonita, consejero de David, a Gilo su ciudad, mientras ofrecía sus sacrificios. Y la conspiración vino a ser grande, pues se iba aumentando el pueblo que seguía a Absalón."
+"Y Absalón envió por Ahitofel gilonita, consejero de David, a Gilo su ciudad, mientras ofrecía sus sacrificios. Y #la conspiración vino a ser grande, pues se iba aumentando el pueblo que seguía a Absalón."
 "Y vino el aviso a David, diciendo
 "Entonces David dijo a todos sus siervos que [estaban] con él en Jerusalén
 "Y los siervos del rey dijeron al rey
@@ -21,13 +21,13 @@
 "Y respondió Itai al rey, diciendo
 "Entonces David dijo a Itai
 "Y todo el país lloró en alta voz; pasó luego toda la gente el torrente de Cedrón; asimismo pasó el rey, y todo el pueblo pasó, al camino que va al desierto."
-"Y he aquí, también iba Sadoc, y con él todos los levitas que llevaban el arca del pacto de Dios; y asentaron el arca del pacto de Dios. Y subió Abiatar después que hubo acabado de salir de la ciudad todo el pueblo."
+"Y he aquí, también iba Sadoc, y con él todos los levitas que llevaban el arca del pacto de Dios; y asentaron #el arca del pacto de Dios. Y subió Abiatar después que hubo acabado de salir de la ciudad todo el pueblo."
 "Y el rey dijo a Sadoc
 "Pero si Él dijere
 "Dijo además el rey al sacerdote Sadoc
 "Mirad, yo me detendré en las llanuras del desierto, hasta que venga respuesta de vosotros que me dé aviso."
 "Entonces Sadoc y Abiatar volvieron el arca de Dios a Jerusalén; y se quedaron allí."
-"Y David subió la cuesta del [monte de los] Olivos; y la subió llorando, llevando la cabeza cubierta, y los pies descalzos. También todo el pueblo que [íba] con él cubrió cada uno su cabeza y subieron, llorando mientras subían."
+"Y David subió la cuesta del [monte de los] Olivos; y la subió llorando, llevando la cabeza cubierta, y los pies #descalzos. También todo el pueblo que [íba] con él cubrió cada uno su cabeza y subieron, llorando mientras subían."
 "Y dieron aviso a David, diciendo
 "Y aconteció que cuando David llegó a la cumbre [del monte] para adorar allí a Dios, he aquí Husai arquita que le salió al encuentro, trayendo rota su ropa, y tierra sobre su cabeza."
 "Y le dijo David

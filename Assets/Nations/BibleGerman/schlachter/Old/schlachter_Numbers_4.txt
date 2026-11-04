@@ -4,16 +4,16 @@
 "Das soll aber der Dienst der Kinder Kahat an der Stiftshütte sein
 "Wenn das Heer aufbricht, so sollen Aaron und seine Söhne hineingehen und den Vorhang abnehmen und die Lade des Zeugnisses damit bedecken,"
 "und sollen eine Decke von Seehundsfellen darauf tun und oben darüber ein Tuch von ganz blauem Purpur breiten und die Stangen einstecken."
-"Auchüber den Schaubrottisch sollen sie ein Tuch von blauem Purpur breiten und darauf setzen die Schüsseln, die Kellen, die Opferschalen und die Trankopferkannen; auch soll das beständige Brot darauf liegen."
+"Auchüber den Schaubrottisch sollen sie ein Tuch von blauem Purpur breiten und darauf setzen die Schüsseln, #die Kellen, die Opferschalen und die Trankopferkannen; auch soll das beständige Brot darauf liegen."
 "Und sie sollen ein Tuch von Karmesinfarbe darüber breiten und dasselbe mit einer Decke von Seehundsfellen bedecken und seine Stangen einstecken."
-"Sie sollen auch ein Tuch von blauem Purpur nehmen und damit den Licht spendenden Leuchter bedecken und seine Lampen, samt seinen Lichtscheren und Löschnäpflein und allenÖlgeschirren, mit welchen er bedient wird."
+"Sie sollen auch ein Tuch von blauem Purpur nehmen und damit den Licht spendenden Leuchter bedecken #und seine Lampen, samt seinen Lichtscheren und Löschnäpflein und allenÖlgeschirren, mit welchen er bedient wird."
 "Und sollen um alle diese Geräte eine Decke von Seehundsfellen tun und es auf ein Gestell legen."
 "Also sollen sie auchüber den goldenen Altar ein Tuch von blauem Purpur breiten, und ihn mit einer Decke von Seehundsfellen bedecken und seine Stangen einstecken."
 "Alle Geräte des Dienstes, womit man im Heiligtum dient, sollen sie nehmen und ein Tuch von blauem Purpur darüber tun und sie mit einer Decke von Seehundsfellen decken und auf ein Gestell legen."
 "Sie sollen auch den Altar von der Asche reinigen, und ein Tuch von rotem Purpur darüber breiten."
-"Alle seine Geräte, womit sie auf demselben dienen, sollen sie darauf legen, Kohlenpfannen, Gabeln, Schaufeln und Sprengbecken, samt allen Geräten des Altars, und sollen eine Decke von Seehundsfellen darüber breiten und seine Stangen einstecken."
-"Wen nun Aaron und seine Söhne solches ausgerichtet und das Heiligtum und alle seine Geräte bedeckt haben, und wenn das Heer aufbricht, dann sollen die Kinder Kahat hineingehen, um es zu tragen; und sie sollen das Heiligtum nicht anrühren, sonst würden sie sterben. Das ist die Arbeit der Kinder Kahat an der Stiftshütte."
-"Eleasar aber, der Sohn Aarons, soll die Aufsicht habenüber dasÖl für den Leuchter, undüber die Spezerei zum Räucherwerk, undüber das beständige Speisopfer und das Salböl, dazu die Aufsichtüber die ganze Wohnung und alles, was darin ist,über das Heiligtum und seine Geräte."
+"Alle seine Geräte, womit sie auf demselben dienen, sollen sie darauf legen, Kohlenpfannen, Gabeln, Schaufeln und Sprengbecken, samt #allen Geräten des Altars, und sollen eine Decke von Seehundsfellen darüber breiten und seine Stangen einstecken."
+"Wen nun Aaron und seine Söhne solches ausgerichtet und das Heiligtum und alle seine Geräte bedeckt haben, und wenn das Heer aufbricht, dann sollen die Kinder Kahat #hineingehen, um es zu tragen; und sie sollen das Heiligtum nicht anrühren, sonst würden sie sterben. Das ist die Arbeit der Kinder Kahat an der Stiftshütte."
+"Eleasar aber, der Sohn Aarons, soll die Aufsicht habenüber dasÖl für den Leuchter, undüber die Spezerei zum Räucherwerk, undüber das beständige #Speisopfer und das Salböl, dazu die Aufsichtüber die ganze Wohnung und alles, was darin ist,über das Heiligtum und seine Geräte."
 "Und der HERR redete zu Mose und Aaron und sprach
 "Ihr sollt dafür sorgen, daß der Stamm des Geschlechts der Kahatiter nicht ausgerottet werde unter den Leviten!"
 "Darum sollt ihr solches mit ihnen tun, damit sie leben und nicht sterben, wenn sie sich dem Allerheiligsten nahen
@@ -23,8 +23,8 @@
 "von dreißig Jahren an und darüber, bis zum fünfzigsten Jahr sollst du sie zählen, alle Diensttauglichen zur Arbeit an der Stiftshütte."
 "Das soll aber das Amt des Geschlechts der Gersoniter sein, wo sie dienen und was sie tragen sollen
 "Sie sollen die Teppiche der Wohnung und die Stiftshütte tragen, ihre Decken und die Decke von Seehundsfellen, die oben darüber ist und den Vorhang in der Tür der Stiftshütte;"
-"auch die Vorhänge des Vorhofs und den Vorhang der Tür des Tors am Vorhof, rings um die Wohnung und den Altar her, auch ihre Seile und ihre Dienstgeräte, samt allem, womit gearbeitet wird; das sollen sie besorgen."
-"Nach dem Befehl Aarons und seiner Söhne soll der ganze Dienst der Gersoniter geschehen, alles, was sie zu tragen und was sie zu verrichten haben; ihr sollt ihnen alle ihre Aufgaben pünktlich anweisen."
+"auch die Vorhänge des Vorhofs und den Vorhang der Tür des Tors am Vorhof, rings um die Wohnung und #den Altar her, auch ihre Seile und ihre Dienstgeräte, samt allem, womit gearbeitet wird; das sollen sie besorgen."
+"Nach dem Befehl Aarons und seiner Söhne soll der ganze Dienst der Gersoniter geschehen, alles, was sie #zu tragen und was sie zu verrichten haben; ihr sollt ihnen alle ihre Aufgaben pünktlich anweisen."
 "Das ist der Dienst des Geschlechts der Gersoniter in der Stiftshütte und was sie unter der Hand Itamars, des Sohnes Aarons, des Priesters zu besorgen haben."
 "Auch die Kinder Merari sollst du mustern, nach ihrem Vaterhaus und ihren Familien."
 "Von dreißig Jahren an und darüber, bis ins fünfzigste Jahr sollst du sie zählen, alle Diensttauglichen zur Arbeit an der Stiftshütte."

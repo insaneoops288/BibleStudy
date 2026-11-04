@@ -6,17 +6,17 @@
 "At pasampa ang hangganan sa Beth-hogla, at patuloy sa hilagaan ng Beth-araba; at ang hangganan ay pasampa sa bato ni Bohan na anak ni Ruben
 "At ang hangganan ay pasampa sa Debir mula sa libis ng Achor, at gayon sa dakong hilagaang paharap sa dakong Gilgal, na nasa tapat ng pagsampa sa Adumin, na nasa dakong timugan ng ilog
 "At ang hangganan ay pasampa sa libis ng anak ni Hinnom hanggang sa dako ng Jebuseo na dakong timugan (na siya ring Jerusalem)
-"At ang hangganan ay paabot mula sa taluktok ng bundok hanggang sa bukal ng tubig ng Nephtoa, at palabas sa mga bayan ng bundok ng Ephron, at ang hangganan ay paabot sa Baala (na siya ring Chiriath-jearim)
-"At ang hangganan ay paliko mula sa Baala sa dakong kalunuran sa bundok ng Seir, at patuloy sa tabi ng bundok Jearim sa hilagaan (na siya ring Chesalon), at pababa sa Beth-semes at patuloy sa Timna."
-"At ang hangganan ay palabas sa siping ng Ecron na dakong hilagaan; at ang hangganan ay paabot sa Sicheron, at patuloy sa bundok ng Baala, at palabas sa Jabneel; at ang mga labasan ng hangganan ay sa dagat."
+"At ang hangganan ay paabot mula sa taluktok ng bundok hanggang sa bukal ng tubig ng Nephtoa, at palabas #sa mga bayan ng bundok ng Ephron, at ang hangganan ay paabot sa Baala (na siya ring Chiriath-jearim)
+"At ang hangganan ay paliko mula sa Baala sa dakong kalunuran sa bundok ng Seir, at patuloy sa tabi #ng bundok Jearim sa hilagaan (na siya ring Chesalon), at pababa sa Beth-semes at patuloy sa Timna."
+"At ang hangganan ay palabas sa siping ng Ecron na dakong hilagaan; at ang hangganan ay paabot sa Sicheron, at #patuloy sa bundok ng Baala, at palabas sa Jabneel; at ang mga labasan ng hangganan ay sa dagat."
 "At ang hangganang kalunuran ay ang malaking dagat, at ang hangganan niyaon. Ito ang hangganan ng mga anak ni Juda sa palibot, ayon sa kanilang mga angkan."
-"At kay Caleb na anak ni Jephone ay nagbigay siya ng isang bahagi sa gitna ng mga anak ni Juda, ayon sa utos ng Panginoon kay Josue, sa makatuwid baga'y ang Chiriath-arba, na siyang Arba na ama ni Anac (na siya ring Hebron)."
+"At kay Caleb na anak ni Jephone ay nagbigay siya ng isang bahagi sa gitna ng mga anak ni Juda, ayon sa #utos ng Panginoon kay Josue, sa makatuwid baga'y ang Chiriath-arba, na siyang Arba na ama ni Anac (na siya ring Hebron)."
 "At pinalayas ni Caleb mula roon ang tatlong anak ni Anac
 "At siya'y sumampa mula roon laban sa mga taga Debir
 "At sinabi ni Caleb, Ang sumakit sa Chiriath-sepher at sumakop, sa kaniya ko papagaasawahin si Axa na aking anak na babae."
 "At sinakop ni Othoniel na anak ni Cenez, na kapatid ni Caleb
 "At nangyari, nang si Axa ay malakip sa kaniya, na kinilos nito siya na humingi sa kaniyang ama ng isang parang
-"At kaniyang sinabi, Pagpalain mo ako; sapagka't inilagay mo ako sa lupaing Timugan, ay bigyan mo rin ako ng mga bukal ng tubig. At ibinigay niya sa kaniya ang mga bukal sa itaas at ang mga bukal sa ibaba."
+"At kaniyang sinabi, Pagpalain mo ako; sapagka't inilagay mo ako sa lupaing Timugan, ay bigyan mo rin ako ng mga #bukal ng tubig. At ibinigay niya sa kaniya ang mga bukal sa itaas at ang mga bukal sa ibaba."
 "Ito ang mana ng lipi ng mga anak ni Juda ayon sa kanilang mga angkan."
 "At ang mga kaduluduluhang bayan ng lipi ng mga anak ni Juda sa dako ng hangganan ng Edom sa timugan ay Cabseel, at Eder, at Jagur,"
 "At Cina, at Dimona, at Adada,"

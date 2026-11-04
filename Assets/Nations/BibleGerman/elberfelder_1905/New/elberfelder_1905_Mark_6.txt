@@ -38,7 +38,7 @@
 "Er aber spricht zu ihnen
 "Und er befahl ihnen, daß sie alle sich lagern ließen, in Gruppen, auf dem grünen Grase."
 "Und sie lagerten sich in Abteilungen zu je hundert und je fünfzig."
-"Und er nahm die fünf Brote und die zwei Fische, blickte auf gen Himmel, segnete und brach die Brote und gab sie seinen Jüngern, auf daß sie ihnen vorlegten; und die zwei Fische verteilte er unter alle."
+"Und er nahm die fünf Brote und die zwei Fische, blickte auf gen Himmel, segnete und brach die Brote #und gab sie seinen Jüngern, auf daß sie ihnen vorlegten; und die zwei Fische verteilte er unter alle."
 "Und sie aßen alle und wurden gesättigt."
 "Und sie hoben auf an Brocken zwölf Handkörbe voll, und von den Fischen."
 "Und es waren derer, welche von den Broten gegessen hatten, fünftausend Männer."
@@ -53,4 +53,4 @@
 "Und als sie hinübergefahren waren, kamen sie in das Land Genezareth und legten an."
 "Und als sie aus dem Schiffe gestiegen waren, erkannten sie ihn alsbald"
 "und liefen in jener ganzen Umgegend umher und fingen an, die Leidenden auf den Betten umherzutragen, wo sie hörten, daß er sei."
-"Und wo irgend er eintrat in Dörfer oder Städte oder aufs Land, legten sie die Kranken auf den Marktplätzen hin und baten ihn, daß sie nur die Quaste seines Kleides anrühren dürften; und so viele irgend ihn anrührten, wurden geheilt."
+"Und wo irgend er eintrat in Dörfer oder Städte oder aufs Land, legten sie die Kranken auf den Marktplätzen hin und #baten ihn, daß sie nur die Quaste seines Kleides anrühren dürften; und so viele irgend ihn anrührten, wurden geheilt."

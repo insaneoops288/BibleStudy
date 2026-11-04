@@ -1,7 +1,7 @@
 "Mluvil pak Hospodin k Mojžíšovi po smrti dvou synů Aronových, kteřížto, když předstoupili před Hospodina, zemřeli,"
 "A řekl Hospodin Mojžíšovi
 "S tímto vcházeti bude Aron do svatyně
-"V sukni lněnou svatou obleče se, a košilku lněnou bude míti na těle hanby své, pasem také lněným opáše se, a čepici lněnou vstaví na hlavu, roucha zajisté svatá jsou tato; i umyje vodou tělo své a obleče se v ně."
+"V sukni lněnou svatou obleče se, a košilku lněnou bude míti na těle hanby své, pasem také lněným opáše se, a #čepici lněnou vstaví na hlavu, roucha zajisté svatá jsou tato; i umyje vodou tělo své a obleče se v ně."
 "Od shromáždění pak synů Izraelských vezme dva kozly k oběti za hřích, a jednoho berana k zápalné oběti."
 "I bude obětovati Aron volka svého v obět za hřích, a očistí sebe i dům svůj."
 "Potom vezme ty dva kozly a postaví je před Hospodinem u dveří stánku úmluvy."
@@ -18,7 +18,7 @@
 "Vyjde pak k oltáři, kterýž jest před Hospodinem, a očistí jej. A vezma krve volka toho, a ze krve kozla, dá na rohy oltáře vůkol."
 "A pokropí ho svrchu krví tou prstem svým sedmkrát, a očistí jej i posvětí ho od nečistot synů Izraelských."
 "A když by dokonal očištění svatyně a stánku úmluvy a oltáře, obětovati bude kozla živého."
-"A vlože Aron obě ruce své na hlavu kozla živého, vyznávati bude nad ním všecky nepravosti synů Izraelských, a všecka přestoupení jejich se všemi hříchy jejich, a vloží je na hlavu kozla, a vyžene ho člověk k tomu zřízený na poušť."
+"A vlože Aron obě ruce své na hlavu kozla živého, vyznávati bude nad ním všecky nepravosti synů Izraelských, a všecka přestoupení #jejich se všemi hříchy jejich, a vloží je na hlavu kozla, a vyžene ho člověk k tomu zřízený na poušť."
 "(Kozel ten zajisté ponese na sobě všecky nepravosti jejich do země pusté.) A pustí kozla toho na poušti."
 "Potom pak přijda Aron do stánku úmluvy, svleče s sebe roucha lněná, v něž se byl oblékl, když vjíti měl do svatyně, a nechá jich tu."
 "A umyje tělo své vodou na místě svatém, a obleče se zase v roucha svá, a vyjda, obětovati bude obět zápalnou svou a obět zápalnou lidu, a očistí sebe i lid."

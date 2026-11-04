@@ -11,7 +11,7 @@
 "Ja siinä oli myös eripaikka niiden edessä, niinkuin niidenkin kammioiden pohjoista päin, ja kaikilla oli yksi pituus ja leveys; ja kaikki heidän uloskäymisensä heidän muotonsa ja oviensa jälkeen."
 "Ja niiden kammioiden ovien muodon jälkeen, jotka etelään päin olivat, oli ovi tien suussa, joka oli sen jalon muurin edessä, josta itään päin kohdastansa mennään."
 "Ja hän sanoi minulle
-"Ja kuin papit siihen sisälle menevät, niin ei heidän pidä jälleen tuleman pyhästä ulos äärimäiseen kartanoon, mutta pitää ennen riisuman vaatteensa, joissa he ovat palvelleet; sillä ne ovat pyhät. Ja heidän pitää ottaman toiset vaatteet yllensä, ja sitte menemän kansan sekaan."
+"Ja kuin papit siihen sisälle menevät, niin ei heidän pidä jälleen tuleman pyhästä ulos äärimäiseen kartanoon, mutta pitää ennen riisuman vaatteensa, #joissa he ovat palvelleet; sillä ne ovat pyhät. Ja heidän pitää ottaman toiset vaatteet yllensä, ja sitte menemän kansan sekaan."
 "Ja kuin hän kaiken huoneen oli sisältä mitannut, vei hän minun ulos porttiin itään päin, ja mittasi siitä kaiken ympärinsä."
 "Itään päin mittasi hän mittariuvulla viisisataa riukumittaa joka taholta."
 "Pohjoista päin mittasi hän myös viisisataa riukumittaa mittariuvulla ympäri."

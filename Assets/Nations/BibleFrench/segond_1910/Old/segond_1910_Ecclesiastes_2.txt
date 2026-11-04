@@ -1,6 +1,6 @@
 "J'ai dit en mon coeur
 "J'ai dit du rire
-"Je résolus en mon coeur de livrer ma chair au vin, tandis que mon coeur me conduirait avec sagesse, et de m'attacher à la folie jusqu'à ce que je visse ce qu'il est bon pour les fils de l'homme de faire sous les cieux pendant le nombre des jours de leur vie."
+"Je résolus en mon coeur de livrer ma chair au vin, tandis que mon coeur me conduirait avec sagesse, et de m'attacher à la folie jusqu'à ce #que je visse ce qu'il est bon pour les fils de l'homme de faire sous les cieux pendant le nombre des jours de leur vie."
 "J'exécutai de grands ouvrages
 "je me fis des jardins et des vergers, et j'y plantai des arbres à fruit de toute espèce;"
 "je me créai des étangs, pour arroser la forêt où croissaient les arbres."
@@ -8,7 +8,7 @@
 "Je m'amassai de l'argent et de l'or, et les richesses des rois et des provinces. Je me procurai des chanteurs et des chanteuses, et les délices des fils de l'homme, des femmes en grand nombre."
 "Je devins grand, plus grand que tous ceux qui étaient avant moi dans Jérusalem. Et même ma sagesse demeura avec moi."
 "Tout ce que mes yeux avaient désiré, je ne les en ai point privés; je n'ai refusé à mon coeur aucune joie; car mon coeur prenait plaisir à tout mon travail, et c'est la part qui m'en est revenue."
-"Puis, j'ai considéré tous les ouvrages que mes mains avaient faits, et la peine que j'avais prise à les exécuter; et voici, tout est vanité et poursuite du vent, et il n'y a aucun avantage à tirer de ce qu'on fait sous le soleil."
+"Puis, j'ai considéré tous les ouvrages que mes mains avaient faits, et la peine que j'avais prise à les exécuter; et voici, tout #est vanité et poursuite du vent, et il n'y a aucun avantage à tirer de ce qu'on fait sous le soleil."
 "Alors j'ai tourné mes regards vers la sagesse, et vers la sottise et la folie. -Car que fera l'homme qui succédera au roi? Ce qu'on a déjà fait."
 "Et j'ai vu que la sagesse a de l'avantage sur la folie, comme la lumière a de l'avantage sur les ténèbres;"
 "le sage a ses yeux à la tête, et l'insensé marche dans les ténèbres. Mais j'ai reconnu aussi qu'ils ont l'un et l'autre un même sort."
@@ -23,4 +23,4 @@
 "Tous ses jours ne sont que douleur, et son partage n'est que chagrin; même la nuit son coeur ne repose pas. C'est encore là une vanité."
 "Il n'y a de bonheur pour l'homme qu'à manger et à boire, et à faire jouir son âme du bien-être, au milieu de son travail; mais j'ai vu que cela aussi vient de la main de Dieu."
 "Qui, en effet, peut manger et jouir, si ce n'est moi?"
-"Car il donne à l'homme qui lui est agréable la sagesse, la science et la joie; mais il donne au pécheur le soin de recueillir et d'amasser, afin de donner à celui qui est agréable à Dieu. C'est encore là une vanité et la poursuite du vent."
+"Car il donne à l'homme qui lui est agréable la sagesse, la science et la joie; mais il donne au pécheur le soin de #recueillir et d'amasser, afin de donner à celui qui est agréable à Dieu. C'est encore là une vanité et la poursuite du vent."

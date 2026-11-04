@@ -5,7 +5,7 @@
 " Es ist besser, du gelobest nichts, als daß du gelobest und es nicht haltest."
 " Laß dich durch deinen Mund nicht in Schuld stürzen und sage nicht vor dem Boten
 " Denn wo man viel träumt, da werden auch viel unnütze Worte gemacht. Du aber fürchte Gott!"
-" Wenn du Unterdrückung des Armen und Beraubung im Namen von Recht und Gerechtigkeit in deinem Bezirke siehst, so werde darob nicht irre! Denn es wacht noch ein Höhererüber dem Hohen undüber ihnen allen der Höchste;"
+" Wenn du Unterdrückung des Armen und Beraubung im Namen von Recht und Gerechtigkeit in deinem Bezirke siehst, so #werde darob nicht irre! Denn es wacht noch ein Höhererüber dem Hohen undüber ihnen allen der Höchste;"
 "und ein Vorteil für ein Land ist bei alledem ein König, der dem Ackerbau ergeben ist."
 " Wer Geld liebt, wird des Geldes nimmer satt, und wer Reichtum liebt, bekommt nie genug. Auch das ist eitel!"
 " Wo viele Güter sind, da sind auch viele, die davon zehren, und was hat ihr Besitzer mehr davon als eine Augenweide?"
@@ -15,6 +15,6 @@
 " So nackt, wie er von seiner Mutter Leibe gekommen ist, geht er wieder dahin und kann gar nichts für seine Mühe mitnehmen, das er in seiner Hand davontragen könnte."
 " Das ist auch ein bösesÜbel, daß er gerade so, wie er gekommen ist, wieder gehen muß; und was nützt es ihm, daß er sich um Wind abgemüht hat?"
 " Dazu muß er sein Leben lang mit Kummer essen und hat vielÄrger, Verdruß und Zorn."
-"Siehe, was ich für gut und für schön ansehe, ist das, daß einer esse und trinke und Gutes genieße bei all seiner Arbeit, womit er sich abmüht unter der Sonne alle Tage seines Lebens, welche Gott ihm gibt; denn das ist sein Teil."
+"Siehe, was ich für gut und für schön ansehe, ist das, daß einer esse und trinke und Gutes genieße bei all seiner #Arbeit, womit er sich abmüht unter der Sonne alle Tage seines Lebens, welche Gott ihm gibt; denn das ist sein Teil."
 " Auch wenn Gott irgend einem Menschen Reichtum und Schätze gibt und ihm gestattet, davon zu genießen und sein Teil zu nehmen, daß er sich freue in seiner Mühe, so ist das eine Gabe Gottes."
 " Denn er soll nicht viel denken an seine Lebenstage; denn Gott stimmt der Freude seines Herzens zu."

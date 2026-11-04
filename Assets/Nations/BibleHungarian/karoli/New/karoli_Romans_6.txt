@@ -10,7 +10,7 @@
 "Mert hogy meghalt, a bûnnek halt meg egyszer; hogy pedig él, az Istennek él."
 "Ezenképen gondoljátok ti is, hogy meghaltatok a bûnnek, de éltek az Istennek a mi Urunk Jézus Krisztusban."
 "Ne uralkodjék tehát a bûn a ti halandó testetekben, hogy engedjetek néki az õ kívánságaiban
-"Se ne szánjátok oda a ti tagjaitokat hamisságnak fegyvereiül a bûnnek; hanem szánjátok oda magatokat az Istennek, mint a kik a halálból életre keltetek, és a ti tagjaitokat igazságnak fegyvereiül az Istennek."
+"Se ne szánjátok oda a ti tagjaitokat hamisságnak fegyvereiül a bûnnek; hanem szánjátok oda magatokat az Istennek, #mint a kik a halálból életre keltetek, és a ti tagjaitokat igazságnak fegyvereiül az Istennek."
 "Mert a bûn ti rajtatok nem uralkodik; mert nem vagytok törvény alatt, hanem kegyelem alatt."
 "Mit is tehát? Vétkezzünk-é mivelhogy nem vagyunk törvény alatt, hanem kegyelem alatt? Távol legyen."
 "Avagy nem tudjátok, hogy a kinek oda szánjátok magatokat szolgákul az engedelmességre, annak vagytok szolgái, a kinek engedelmeskedtek

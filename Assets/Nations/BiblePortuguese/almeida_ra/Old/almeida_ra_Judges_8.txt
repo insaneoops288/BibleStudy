@@ -7,7 +7,7 @@
 "Replicou-lhes Gedeão
 "Dali subiu a Penuel, e falou da mesma maneira aos homens desse lugar, que lhe responderam como os homens de Sucote lhe haviam respondido."
 "Por isso falou também aos homens de Penuel, dizendo
-"Zeba e Zalmuna estavam em Carcor com o seu exército, cerca de quinze mil homens, os restantes de todo o exército dos filhos do oriente; pois haviam caído cento e vinte mil homens que puxavam da espada."
+"Zeba e Zalmuna estavam em Carcor com o seu exército, cerca de quinze mil homens, os restantes de todo #o exército dos filhos do oriente; pois haviam caído cento e vinte mil homens que puxavam da espada."
 "subiu Gedeão pelo caminho dos que habitavam em tendas, ao oriente de Noba e Jogboa, e feriu aquele exército, porquanto se dava por seguro."
 "E, fugindo Zeba e Zalmuna, Gedeão os perseguiu, tomou presos esses dois reis dos midianitas e desbaratou todo o exército."
 "Voltando, pois, Gedeão, filho de Joás, da peleja pela subida de Heres,"
@@ -23,7 +23,7 @@
 "Gedeão, porém, lhes respondeu
 "Disse-lhes mais Gedeão
 "Ao que disseram eles
-"E foi o peso das arrecadas de ouro que ele pediu, mil e setecentos siclos de ouro, afora os crescentes, as cadeias e as vestes de púrpura que os reis de Midiã trajavam, afora as correntes que os camelos traziam ao pescoço."
+"E foi o peso das arrecadas de ouro que ele pediu, mil e setecentos siclos de ouro, afora os crescentes, as cadeias #e as vestes de púrpura que os reis de Midiã trajavam, afora as correntes que os camelos traziam ao pescoço."
 "Disso fez Gedeão um éfode, e o pôs na sua cidade, em Ofra; e todo o Israel se prostituiu ali após ele; e foi um laço para Gedeão e para sua casa."
 "Assim foram abatidos os midianitas diante dos filhos de Israel, e nunca mais levantaram a cabeça. E a terra teve sossego, por quarenta anos nos dias de Gedeão."
 "Então foi Jerubaal, filho de Joás, e habitou em sua casa."

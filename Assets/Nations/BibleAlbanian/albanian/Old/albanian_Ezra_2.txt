@@ -1,4 +1,4 @@
-"Këta janë njerëzit e provincës që u kthyen nga robëria, midis atyre që Nebukadnetsari, mbret i Babilonisë, kishte çuar në robëri në Babiloni, dhe që u kthyen në Jeruzalem dhe në Judë, secili në qytetin e tij."
+"Këta janë njerëzit e provincës që u kthyen nga robëria, midis atyre që Nebukadnetsari, mbret i Babilonisë, kishte çuar #në robëri në Babiloni, dhe që u kthyen në Jeruzalem dhe në Judë, secili në qytetin e tij."
 "Ata që erdhën me Zorobabelin ishin Jeshua, Nehemia, Serajahu, Relajahu, Mardokeo, Bilshani, Mispari, Bigvai, Rehumi dhe Baanahu."
 "Bijtë e Paroshit, dy mijë e njëqind e shtatëdhjetë e dy."
 "Bijtë e Shefatiahut, treqind e shtatëdhjetë e dy."
@@ -56,7 +56,7 @@
 "bijtë e Jaalas, bijtë e Darkonit, bijtë e Gidelit,"
 "bijtë e Shefatiahut, bijtë e Hatilit, bijtë e Pokereth-Hatsebaimit, bijtë e Amit."
 "Tërë Nethinejtë dhe bijtë e shërbëtorëve të Salomonit ishin treqind e nëntëdhjetë e dy."
-"Këta qenë ata që u kthyen nga Tel-Melahu, nga Tel-Harsha, nga Kerub-Adani dhe nga Imeri; por ata nuk qenë në gjendje të tregonin shtëpinë e tyre atërore dhe pasardhësit e tyre, për të provuar në se ishin nga Izraeli;"
+"Këta qenë ata që u kthyen nga Tel-Melahu, nga Tel-Harsha, nga Kerub-Adani dhe nga Imeri; por ata nuk qenë në #gjendje të tregonin shtëpinë e tyre atërore dhe pasardhësit e tyre, për të provuar në se ishin nga Izraeli;"
 "bijtë e Delajahut, bijtë e Tobiahut, bijtë e Nekodas, gjithsej gjashtëqind e pesëdhjetë e dy."
 "Midis bijve të priftërinjve
 "Këta kërkuan listën e tyre midis atyre të regjistruar në gjenealogjitë, por nuk e gjetën; prandaj u përjashtuan nga priftëria si të papastër."
@@ -65,6 +65,6 @@
 "Pa llogaritur shërbëtorët dhe shërbëtoret e tyre, që arrinin shtatë mijë e treqind e tridhjetë e shtatë; midis tyre kishte gjithashtu dyqind këngëtarë dhe këngëtare."
 "Ata kishin shtatëqind e tridhjetë e gjashtë kuaj, dyqind e dyzet e pesë mushka,"
 "katërqind e tridhjetë e pesë deve dhe gjashtë mijë e shtatëqind e njëzet gomarë."
-"Disa të parë të shtëpive atërore, kur arritën në shtëpinë e Zotit që është në Jeruzalem, dhanë bujarisht dhurata për shtëpinë e Perëndisë, në mënyrë që ajo të ngrihej përsëri në vendin e mëparshëm."
+"Disa të parë të shtëpive atërore, kur arritën në shtëpinë e Zotit që është në Jeruzalem, dhanë bujarisht #dhurata për shtëpinë e Perëndisë, në mënyrë që ajo të ngrihej përsëri në vendin e mëparshëm."
 "I dhanë thesarit të veprës, sipas mjeteve të tyre, gjashtëdhjetë e një mijë darikë ari, pesë mijë mina argjendi dhe njëqind veshje prifti."
 "Kështu priftërinjtë, Levitët, njerëzit e popullit, këngëtarët, derëtarët dhe Nethinejtë, u vendosën në qytetet e tyre, dhe gjithë Izraelitët në qytetet e tyre."

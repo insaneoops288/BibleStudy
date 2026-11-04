@@ -6,7 +6,7 @@
 "Te elhagytál engem, azt mondja az Úr, másfelé jártál; azért kinyújtom kezemet ellened, és elvesztelek téged; belefáradtam a szánakozásba!"
 "Elszórom õket szórólapáttal e földnek kapuiban; gyermektelenné teszem, elvesztem az én népemet; nem tértek vissza útaikról."
 "Özvegyei számosabbak lesznek a tenger fövenyénél; pusztítót viszek reájok, az ifjúság anyjára délben; bocsátok reája nagy hirtelen észvesztést és rettentéseket."
-"Elsenyved, a ki hét fiút szûl; kileheli lelkét; lehanyatlik az õ napja, mikor még nappal volna; megszégyenül és pironkodik; a maradékaikat pedig fegyverre vetem az õ ellenségeik elõtt, azt mondja az Úr!"
+"Elsenyved, a ki hét fiút szûl; kileheli lelkét; lehanyatlik az õ napja, mikor még nappal volna; megszégyenül #és pironkodik; a maradékaikat pedig fegyverre vetem az õ ellenségeik elõtt, azt mondja az Úr!"
 "Jaj nékem, anyám, mert versengés férfiává és az egész föld ellen perlekedõ férfiúvá szültél engemet! Nem adtam kölcsönt és nékem sem adtak kölcsönt
 "Monda az Úr
 "Vajjon eltöri-é a vas az északi vasat és rezet?"

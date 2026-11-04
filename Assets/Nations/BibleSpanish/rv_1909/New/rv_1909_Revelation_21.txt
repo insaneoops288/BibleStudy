@@ -5,7 +5,7 @@
 "Y el que estaba sentado en el trono dijo
 "Y díjome
 "El que venciere, poseerá todas las cosas; y yo seré su Dios, y él será mi hijo."
-"Mas á los temerosos é incrédulos, á los abominables y homicidas, á los fornicarios y hechiceros, y á los idólatras, y á todos los mentirosos, su parte será en el lago ardiendo con fuego y azufre, que es la muerte segunda."
+"Mas á los temerosos é incrédulos, á los abominables y homicidas, á los fornicarios y hechiceros, y á los idólatras, y #á todos los mentirosos, su parte será en el lago ardiendo con fuego y azufre, que es la muerte segunda."
 "Y vino á mí uno de los siete ángeles que tenían las siete copas llenas de las siete postreras plagas, y habló conmigo, diciendo
 "Y llevóme en Espíritu á un grande y alto monte, y me mostró la grande ciudad santa de Jerusalem, que descendía del cielo de Dios,"
 "Teniendo la claridad de Dios

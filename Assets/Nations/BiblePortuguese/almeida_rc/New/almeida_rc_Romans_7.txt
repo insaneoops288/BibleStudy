@@ -10,7 +10,7 @@
 "E o mandamento que era para vida achei eu que me era para morte."
 "Porque o pecado, tomando ocasião pelo mandamento, me enganou, e por ele me matou."
 "E assim a lei é santa, e o mandamento santo, justo e bom."
-"Logo tornou-se-me o bom em morte? De modo nenhum; mas o pecado, para que se mostrasse pecado; operou em mim a morte pelo bem; a fim de que pelo mandamento o pecado se fizesse excessivamente maligno."
+"Logo tornou-se-me o bom em morte? De modo nenhum; mas o pecado, para que se mostrasse pecado; operou em #mim a morte pelo bem; a fim de que pelo mandamento o pecado se fizesse excessivamente maligno."
 "Porque bem sabemos que a lei é espiritual
 "Porque o que faço não o aprovo; pois o que quero isso não faço, mas o que aborreço isso faço."
 "E, se faço o que não quero, consinto com a lei, que é boa."

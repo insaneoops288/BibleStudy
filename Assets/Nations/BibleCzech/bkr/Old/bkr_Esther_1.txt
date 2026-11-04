@@ -3,7 +3,7 @@
 "Léta třetího kralování svého, učinil u sebe hody všechněm knížatům svým a služebníkům svým, nejznamenitějším Perským a Médským, hejtmanům a vládařům nad krajinami,"
 "Ukazuje bohatství, slávu království svého a čest, i ozdobu důstojnosti své za mnoho dnů, totiž za sto a osmdesáte dnů."
 "(A když se vyplnili dnové ti, učinil král všemu lidu, což ho koli bylo v Susan městě královském, od největšího až do nejmenšího, hody za sedm dní na paláci v zahradě při domě královském.)"
-"Též čalouny bílé, zelené a z postavce modrého, zavěšené na provázcích kmentových a šarlatových u kroužků stříbrných, na sloupích mramorových, lůžka zlatá a stříbrná na podlaze porfyretové a mramorové, pariové a socharetové."
+"Též čalouny bílé, zelené a z postavce modrého, zavěšené na provázcích kmentových a šarlatových u kroužků stříbrných, #na sloupích mramorových, lůžka zlatá a stříbrná na podlaze porfyretové a mramorové, pariové a socharetové."
 "Nápoj pak dávali v nádobách zlatých, a to v nádobách jiných a jiných, i vína královského v hojnosti, jakž slušelo na krále."
 "Ale ku pití, podlé nařízení, žádný nenutil. Nebo tak poručil král všechněm správcům domu svého, aby činili podlé vůle jednoho každého."
 "Také i královna Vasti učinila hody ženám v domě královském krále Asvera."
@@ -16,7 +16,7 @@
 "Tedy řekl Memuchan před králem i knížaty
 "Nebo když se donese to, co učinila královna, všech žen, zlehčí sobě muže své a řeknou
 "Nýbrž ještě tohoto dne budou to mluviti kněžny Perské a Médské, (kteréž slyšely, co učinila královna), všechněm knížatům královským, i naplodí se hojně pýchy a zpoury."
-"Jestliže se tedy králi za dobré vidí, nechť se stane výpověď královská od oblíčeje jeho, a nechť jest vepsána mezi práva Perská a Médská, kteráž by nemohla změněna býti, že nechtěla přijíti Vasti před oblíčej krále Asvera, pročež království její dá král jiné, lepší nežli ona."
+"Jestliže se tedy králi za dobré vidí, nechť se stane výpověď královská od oblíčeje jeho, a nechť jest vepsána mezi práva Perská a Médská, #kteráž by nemohla změněna býti, že nechtěla přijíti Vasti před oblíčej krále Asvera, pročež království její dá král jiné, lepší nežli ona."
 "Tak když uslyší výpověd královskou, kterouž vyhlásiti dá po všem království svém, jakkoli veliké jest, všecky ženy v poctivosti míti budou manžely své, od největšího až do nejmenšího."
 "I líbila se ta rada králi i knížatům, a učinil král podlé rady Memuchanovy."
-"A rozeslal listy do všech krajin královských, do jedné každé krajiny písmem jejím, a do každého národu jazykem jeho, aby každý muž byl pánem domu svého. Což oznámil každý hejtman lidu jazykem jeho."
+"A rozeslal listy do všech krajin královských, do jedné každé krajiny písmem jejím, a do každého národu #jazykem jeho, aby každý muž byl pánem domu svého. Což oznámil každý hejtman lidu jazykem jeho."

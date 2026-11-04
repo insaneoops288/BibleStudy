@@ -2,7 +2,7 @@
 "Měsíce sedmého, dvadcátého prvního dne téhož měsíce, stalo se slovo Hospodinovo skrze Aggea proroka, řkoucí
 "Mluv nyní k Zorobábelovi synu Salatielovu, knížeti Judskému, a Jozue synu Jozadakovu, knězi nejvyššímu, i k ostatkům lidu, řka
 "Kdo jest mezi vámi pozůstalý, ješto viděl dům ten v slávě jeho první? A jaký vy jej nyní vidíte? Zdaliž není proti onomu jako nic před očima vašima?"
-"A však nyní posilň se Zorobábeli, praví Hospodin, posilň se i Jozue synu Jozadakův, kněže nejvyšší, a posilň se všecken lide země této, praví Hospodin, a dodělejte; nebo já s vámi jsem, praví Hospodin zástupů,"
+"A však nyní posilň se Zorobábeli, praví Hospodin, posilň se i Jozue synu Jozadakův, kněže nejvyšší, a posilň #se všecken lide země této, praví Hospodin, a dodělejte; nebo já s vámi jsem, praví Hospodin zástupů,"
 "Podlé slova, jímž jsem smlouvu učinil s vámi, když jste vycházeli z Egypta. Duch také můj stane u prostřed vás, nebojtež se."
 "Nebo takto praví Hospodin zástupů
 "Pohnu, pravím, všemi národy, a přijdou k Žádoucímu všechněm národům, i naplním dům tento slávou, praví Hospodin zástupů."

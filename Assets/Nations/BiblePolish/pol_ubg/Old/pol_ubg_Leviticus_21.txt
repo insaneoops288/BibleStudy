@@ -7,7 +7,7 @@
 "Nie pojmą sobie za żonę nierządnicy lub naruszonej w panieństwie; nie będą także pojmować kobiety oddalonej przez jej męża, gdyż każdy z nich jest święty dla swego Boga."
 "Miej go więc za świętego, bo on składa w ofierze chleb twego Boga; dlatego będzie święty dla ciebie, bo ja, PAN, który was poświęca, jestem święty."
 "Jeśli córka kapłana zbezcześci się przez nierząd, zbezcześci swego ojca. Będzie spalona w ogniu."
-"Najwyższy kapłan wśród swoich braci, na którego głowę została wylana oliwa namaszczenia i który został poświęcony, aby wkładać na siebie święte szaty, nie będzie odsłaniał swej głowy i nie rozedrze swoich szat;"
+"Najwyższy kapłan wśród swoich braci, na którego głowę została wylana oliwa namaszczenia i który został poświęcony, aby #wkładać na siebie święte szaty, nie będzie odsłaniał swej głowy i nie rozedrze swoich szat;"
 "I nie zbliży się do żadnego zmarłego, nawet nie zanieczyści się z powodu swego ojca lub z powodu swej matki."
 "Nie wyjdzie ze świątyni i nie zbezcześci świątyni swego Boga, gdyż korona oliwy namaszczenia swego Boga jest na nim
 "I weźmie sobie dziewicę za żonę."

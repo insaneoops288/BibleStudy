@@ -1,5 +1,5 @@
 "Deshalb nun, da wir eine so große Wolke von Zeugen um uns haben, laßt auch uns, indem wir jede Bürde und die leicht umstrickende Sünde ablegen, mit Ausharren laufen den vor uns liegenden Wettlauf,"
-"hinschauend auf Jesum, den Anfänger und Vollender des Glaubens, welcher, der Schande nicht achtend, für die vor ihm liegende Freude das Kreuz erduldete und sich gesetzt hat zur Rechten des Thrones Gottes."
+"hinschauend auf Jesum, den Anfänger und Vollender des Glaubens, welcher, der Schande nicht achtend, für die vor #ihm liegende Freude das Kreuz erduldete und sich gesetzt hat zur Rechten des Thrones Gottes."
 "Denn betrachtet den, der so großen Widerspruch von den Sündern gegen sich erduldet hat, auf daß ihr nicht ermüdet, indem ihr in euren Seelen ermattet."
 "Ihr habt noch nicht, wider die Sünde ankämpfend, bis aufs Blut widerstanden,"
 "und habt der Ermahnung vergessen, die zu euch als zu Söhnen spricht
@@ -8,7 +8,7 @@
 "Wenn ihr aber ohne Züchtigung seid, welcher alle teilhaftig geworden sind, so seid ihr denn Bastarde und nicht Söhne."
 "Zudem hatten wir auch unsere Väter nach dem Fleische zu Züchtigern und scheuten sie; sollen wir nicht viel mehr dem Vater der Geister unterwürfig sein und leben?"
 "Denn jene freilich züchtigten uns für wenige Tage nach ihrem Gutdünken, er aber zum Nutzen, damit wir seiner Heiligkeit teilhaftig werden."
-"Alle Züchtigung aber scheint für die Gegenwart nicht ein Gegenstand der Freude, sondern der Traurigkeit zu sein; hernach aber gibt sie die friedsame Frucht der Gerechtigkeit denen, die durch sie geübt sind."
+"Alle Züchtigung aber scheint für die Gegenwart nicht ein Gegenstand der Freude, sondern der Traurigkeit zu sein; #hernach aber gibt sie die friedsame Frucht der Gerechtigkeit denen, die durch sie geübt sind."
 "Darum""richtet auf die erschlafften Hände und die gelähmten Knie"","
 "und""machet gerade Bahn für eure Füße!"", auf daß nicht das Lahme vom Wege abgewandt, sondern vielmehr geheilt werde."
 "Jaget dem Frieden nach mit allen und der Heiligkeit, ohne welche niemand den Herrn schauen wird;"

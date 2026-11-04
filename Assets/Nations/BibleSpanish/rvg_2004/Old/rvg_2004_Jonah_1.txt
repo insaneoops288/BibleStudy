@@ -1,6 +1,6 @@
 "Y la palabra de Jehová vino a Jonás, hijo de Amitai, diciendo
 "Levántate, y ve a Nínive, ciudad grande, y pregona contra ella; porque su maldad ha subido delante de mí."
-"Y Jonás se levantó para huir de la presencia de Jehová a Tarsis, y descendió a Jope; y halló un navío que partía para Tarsis; y pagando su pasaje entró en él, para irse con ellos a Tarsis de delante de Jehová."
+"Y Jonás se levantó para huir de la presencia de Jehová a Tarsis, y descendió a Jope; y halló un navío que #partía para Tarsis; y pagando su pasaje entró en él, para irse con ellos a Tarsis de delante de Jehová."
 "Mas Jehová hizo levantar un gran viento en el mar, y se hizo una tan gran tempestad en el mar, que se pensó se rompería la nave."
 "Y los marineros tuvieron miedo, y cada uno llamaba a su dios
 "Y el maestre de la nave vino a él y le dijo

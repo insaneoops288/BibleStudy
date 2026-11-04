@@ -1,5 +1,5 @@
 "Ja, Zoti zbras tokën dhe e bën të shkretë, prish faqen e saj dhe shpërndan banorët e saj."
-"Do t'i ndodhë e njëjta gjë popullit ashtu si priftit, shërbëtorit ashtu si padronit të tij, shërbëtores ashtu si padrones së saj, blerësit ashtu si shitësit, ai që jep borxh ashtu si ai që merr borxh, huadhënësit ashtu si huamarrësit."
+"Do t'i ndodhë e njëjta gjë popullit ashtu si priftit, shërbëtorit ashtu si padronit të tij, shërbëtores ashtu si padrones së #saj, blerësit ashtu si shitësit, ai që jep borxh ashtu si ai që merr borxh, huadhënësit ashtu si huamarrësit."
 "Toka do të zbrazet plotësisht dhe do të plaçkitet plotësisht, sepse Zoti ka thënë këtë fjalë."
 "Toka është në zi dhe vuan, bota po ligështohet dhe po meket, njerëzit me poste nga populli i dheut ligështohen."
 "Toka është përdhosur nga banorët e saj, sepse këta kanë shkelur ligjet, kanë ndryshuar statutin, kanë marrë nëpër këmbë besëlidhjen e përjetshme."
@@ -15,7 +15,7 @@
 """Lëvdoni, pra, Zotin në krahinat e agimit, emrin e Zotit, Perëndinë e Izraelit në ishujt e detit!""."
 "Nga skaji i tokës dëgjojmë këngë
 "Tmerri, gropa dhe laku të kërcënojnë, o banor i dheut."
-"Dhe ka për të ndodhur që ai që do të ikë përballë britmës së tmerrit do të bjerë në gropë, dhe kush do të dalë nga gropa do të kapet nga laku. Sepse nga lart do të hapen ujëvara dhe themelet e dheut do të tronditen."
+"Dhe ka për të ndodhur që ai që do të ikë përballë britmës së tmerrit do të bjerë në gropë, dhe kush do të #dalë nga gropa do të kapet nga laku. Sepse nga lart do të hapen ujëvara dhe themelet e dheut do të tronditen."
 "Toka do të çahet e tëra; toka do të kriset tërësisht, toka do të dridhet me forcë."
 "Toka do të lëkundet si një i dehur, do të tronditet si një kasolle. Mëkati i saj rëndon mbi të, do të rrëzohet dhe nuk do të ngrihet më."
 "Atë ditë do të ndodhë që Zoti do të dënojë ushtrinë që është atje lart, dhe poshtë mbi tokë mbretërit e dheut;"

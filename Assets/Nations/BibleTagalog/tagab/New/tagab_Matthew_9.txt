@@ -3,7 +3,7 @@
 "At narito, ang ilan sa mga eskriba ay nangagsabi sa kanilang sarili, Ang taong ito'y namumusong."
 "At pagkaunawa ni Jesus ng kanilang mga kaisipan, ay sinabi, Bakit nangagiisip kayo ng masama sa inyong mga puso?"
 "Sapagka't alin baga ang lalong magaang sabihin, Ipinatatawad na ang iyong mga kasalanan; o sabihin, Magtindig ka, at lumakad ka?"
-"Datapuwa't upang maalaman ninyo na ang Anak ng tao'y may kapamahalaan sa lupa na magpatawad ng mga kasalanan (sinabi nga niya sa lumpo), Magtindig ka, buhatin mo ang iyong higaan, at umuwi ka sa iyong bahay."
+"Datapuwa't upang maalaman ninyo na ang Anak ng tao'y may kapamahalaan sa lupa na magpatawad ng mga kasalanan (sinabi #nga niya sa lumpo), Magtindig ka, buhatin mo ang iyong higaan, at umuwi ka sa iyong bahay."
 "At nagtindig siya, at umuwi sa kaniyang bahay."
 "Datapuwa't nang makita ito ng karamihan, ay nangatakot sila, at kanilang niluwalhati ang Dios, na nagbigay ng gayong kapamahalaan sa mga tao."
 "At pagdaraan doon ni Jesus, ay nakita niya ang isang tao, na kung tawagi'y Mateo, na nakaupo sa paningilan ng buwis
@@ -12,7 +12,7 @@
 "Datapuwa't nang ito'y marinig niya, ay kaniyang sinabi, Ang mga walang sakit ay hindi nangangailangan ng manggagamot, kundi ang mga may sakit."
 "Datapuwa't magsihayo kayo at inyong pagaralan kung ano ang kahulugan nito, Habag ang ibig ko, at hindi hain
 "Nang magkagayo'y nagsilapit sa kaniya ang mga alagad ni Juan, na nangagsabi, Bakit kami at ang mga Fariseo ay nangagaayunong madalas, datapuwa't hindi nangagaayuno ang mga alagad mo?"
-"At sinabi sa kanila ni Jesus, Mangyayari bagang mangagluksa ang mga abay sa kasalan, samantalang ang kasintahang lalake ay kasama nila? datapuwa't darating ang mga araw, na ang kasintahang lalake ay aalisin sa kanila, at kung magkagayo'y mangagaayuno sila."
+"At sinabi sa kanila ni Jesus, Mangyayari bagang mangagluksa ang mga abay sa kasalan, samantalang ang kasintahang lalake ay kasama #nila? datapuwa't darating ang mga araw, na ang kasintahang lalake ay aalisin sa kanila, at kung magkagayo'y mangagaayuno sila."
 "At sinoma'y hindi nagtatagpi ng bagong kayo sa damit na luma; sapagka't ang tagpi ay bumabatak sa damit, at lalong lumalala ang punit."
 "Hindi rin nagsisilid ng bagong alak sa mga balat na luma
 "Samantalang sinasalita niya ang mga bagay na ito sa kanila, narito, dumating ang isang pinuno, at siya'y sinamba, na nagsasabi, Kamamatay pa lamang ng aking anak na babae
@@ -32,7 +32,7 @@
 "At samantalang sila'y nagsisialis, narito, sa kaniya'y dinala ang isang lalaking pipi na inaalihan ng demonio."
 "At nang mapalabas ang demonio, ay nagsalita ang lalaking pipi
 "Datapuwa't sinabi ng mga Fariseo, sa pamamagitan ng prinsipe ng mga demonio ay nagpapalabas siya ng mga demonio."
-"At nililibot ni Jesus ang lahat ng mga bayan at mga nayon, na nagtuturo sa mga sinagoga nila, at ipinangangaral ang evangelio ng kaharian, at pinagagaling ang sarisaring sakit at ang sarisaring karamdaman."
+"At nililibot ni Jesus ang lahat ng mga bayan at mga nayon, na nagtuturo sa mga sinagoga #nila, at ipinangangaral ang evangelio ng kaharian, at pinagagaling ang sarisaring sakit at ang sarisaring karamdaman."
 "Datapuwa't nang makita niya ang mga karamihan, ay nahabag siya sa kanila, sapagka't pawang nangahahapis at nangangalat, na gaya ng mga tupa na walang pastor."
 "Nang magkagayo'y sinabi niya sa kaniyang mga alagad, Katotohana'y ang aanihin ay marami, datapuwa't kakaunti ang mga manggagawa."
 "Idalangin nga ninyo sa Panginoon ng aanihin, na magpadala siya ng mga manggagawa sa kaniyang aanihin."

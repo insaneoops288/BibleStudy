@@ -5,7 +5,7 @@
 "Tedy rzekł
 "Zatem rzekł
 "I rzekł Pan
-"Przetoż zstąpiłem, abym go wybawił z ręki Egipskiej i wywiódł go z ziemi tej do ziemi dobrej i przestronnej, do ziemi opływającej mlekiem i miodem, na miejsce Chananejczyka, i Hetejczyka, i Amorejczyka, i Ferezejczyka, i Hewejczyka, i Jebuzejczyka."
+"Przetoż zstąpiłem, abym go wybawił z ręki Egipskiej i wywiódł go z ziemi tej do ziemi dobrej i przestronnej, do #ziemi opływającej mlekiem i miodem, na miejsce Chananejczyka, i Hetejczyka, i Amorejczyka, i Ferezejczyka, i Hewejczyka, i Jebuzejczyka."
 "A teraz oto krzyk synów Izraelskich przyszedł przed mię
 "Przetoż teraz, pójdź, a poślę cię do Faraona, abyś wywiódł lud mój, syny Izraelskie z Egiptu."
 "I rzekł Mojżesz do Boga

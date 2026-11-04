@@ -18,4 +18,4 @@
 "Und die Länge des Hofes soll hundert Ellen sein, die Breite fünfzig Ellen, die Höhe fünf Ellen, von gezwirnter weißer Leinwand, und seine Füße sollen ehern sein.{~}"
 "Auch alle Geräte der Wohnung zu allerlei Amt und alle ihre Nägel und alle Nägel des Hofes sollen ehern sein."
 "Gebiete den Kindern Israel, daß sie zu dir bringen das allerreinste, lautereÖl vonÖlbäumen, gestoßen, zur Leuchte, daß man täglich Lampen aufsetze"
-"in der Hütte des Stifts, außen vor dem Vorhang, der vor dem Zeugnis hängt. Und Aaron und seine Söhne sollen sie zurichten des Morgens und des Abends vor dem HERRN. Das soll euch eine ewige Weise sein auf eure Nachkommen unter den Kindern Israel."
+"in der Hütte des Stifts, außen vor dem Vorhang, der vor dem Zeugnis hängt. Und Aaron und seine Söhne sollen sie zurichten des #Morgens und des Abends vor dem HERRN. Das soll euch eine ewige Weise sein auf eure Nachkommen unter den Kindern Israel."

@@ -4,7 +4,7 @@
 "Mojżesz wyciosał więc dwie kamienne tablice podobne do pierwszych, a gdy wstał rano, wstąpił na górę Synaj, jak PAN mu rozkazał, i wziął w ręce dwie kamienne tablice."
 "I PAN zstąpił w obłoku, stanął tam z nim, i wypowiedział imię PANA."
 "Wtedy przechodził PAN przed nim i wołał
-"Zachowujący miłosierdzie nad tysiącami, przebaczający nieprawość, przestępstwo i grzech, lecz nieusprawiedliwiający winnego, nawiedzający nieprawość ojców na synach i na synach ich synów do trzeciego i czwartego pokolenia."
+"Zachowujący miłosierdzie nad tysiącami, przebaczający nieprawość, przestępstwo i grzech, lecz nieusprawiedliwiający winnego, nawiedzający nieprawość #ojców na synach i na synach ich synów do trzeciego i czwartego pokolenia."
 "Mojżesz więc spiesznie pochylił się do ziemi i oddał pokłon;"
 "I powiedział
 "Odpowiedział

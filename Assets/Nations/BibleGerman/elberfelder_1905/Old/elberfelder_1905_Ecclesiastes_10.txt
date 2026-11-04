@@ -17,4 +17,4 @@
 "Glücklich, du Land, dessen König ein Sohn der Edlen ist, und dessen Fürsten zu rechter Zeit speisen, als Männer und nicht als Schwelger!-"
 "Durch Faulenzen senkt sich das Gebälk, und durch Lässigkeit der Hände tropft das Haus.-"
 "Um sich zu belustigen, hält man Mahlzeiten, und Wein erheitert das Leben, und das Geld gewährt alles.-"
-"Auch in deinen Gedanken fluche dem Könige nicht, und in deinen Schlafgemächern fluche nicht dem Reichen; denn das Gevögel des Himmels möchte die Stimme entführen, und das Geflügelte das Wort anzeigen."
+"Auch in deinen Gedanken fluche dem Könige nicht, und in deinen Schlafgemächern fluche nicht dem Reichen; #denn das Gevögel des Himmels möchte die Stimme entführen, und das Geflügelte das Wort anzeigen."

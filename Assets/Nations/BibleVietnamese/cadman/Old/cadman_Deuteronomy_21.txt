@@ -2,7 +2,7 @@
 "thì các trưởng lão và quan án của ngươi phải đi ra, đo bề xa từ người bị giết đến các thành ở chung quanh người."
 "Ðoạn, các trưởng lão của thành gần người bị giết hơn hết, phải bắt một con bò cái tơ, chưa làm việc hay mang ách,"
 "dẫn nó đến một dòng nước hằng chảy, gần đó không ai cày và gieo; rồi, tại nơi ấy, trong khe, vặn cổ con bò cái tơ."
-"Những thầy tế lễ, là con trai Lê-vi, sẽ đến gần; vì Giê-hô-va Ðức Chúa Trời ngươi đã chọn các người ấy đặng phục sự Ngài, và nhân danh Ðức Giê-hô-va mà chúc phước cho; tùy lời miệng họ làm bằng, phải quyết phán các sự tranh tụng và thương tích."
+"Những thầy tế lễ, là con trai Lê-vi, sẽ đến gần; vì Giê-hô-va Ðức Chúa Trời ngươi đã chọn các người ấy đặng phục sự Ngài, #và nhân danh Ðức Giê-hô-va mà chúc phước cho; tùy lời miệng họ làm bằng, phải quyết phán các sự tranh tụng và thương tích."
 "Bấy giờ, hết thảy những trưởng lão của thành ở gần người bị giết hơn hết, sẽ rửa tay mình trên con bò cái tơ mới bị vặn cổ trong khe;"
 "đoạn, cất tiếng nói rằng
 "Lạy Ðức Giê-hô-va cầu xin Ngài tha tội cho dân sự Ngài mà Ngài đã chuộc! Xin chớ kể huyết vô tội cho dân Y-sơ-ra-ên của Ngài! Rồi tội sát nhân sẽ được tha cho họ."
@@ -20,4 +20,4 @@
 "Ðoạn, cha mẹ sẽ nói cùng các trưởng lão của thành mình rằng
 "Bấy giờ, chúng dân thành ấy sẽ ném đá cho nó chết; như vậy ngươi sẽ cất sự ác khỏi giữa mình, và cả Y-sơ-ra-ên sẽ hay điều đó mà bắt sợ."
 "Khi một người nào phạm tội đáng chết, thì hãy giết nó, và treo lên trụ hình,"
-"thây nó chớ để treo trên trụ hình cách đêm, song phải chôn trong nội ngày đó; vì kẻ nào bị treo ắt bị Ðức Chúa Trời rủa sả. Như vậy, ngươi chẳng làm ô uế đất mà Giê-hô-va Ðức Chúa Trời ngươi ban cho ngươi làm sản nghiệp."
+"thây nó chớ để treo trên trụ hình cách đêm, song phải chôn trong nội ngày đó; vì kẻ nào bị treo ắt bị Ðức #Chúa Trời rủa sả. Như vậy, ngươi chẳng làm ô uế đất mà Giê-hô-va Ðức Chúa Trời ngươi ban cho ngươi làm sản nghiệp."

@@ -5,7 +5,7 @@
 "E colui che sedeva in sul trono disse
 "Poi mi disse
 "Chi vince, erederà queste cose; ed io gli sarò Dio, ed egli mi sarà figliuolo."
-"Ma, quant’è a’ codardi, ed agl’increduli, ed a’ peccatori, ed agli abbominevoli, ed a’ micidiali, ed a’ fornicatori, ed a’ maliosi, ed agli idolatri, ed a tutti i mendaci, la parte loro sarà nello stagno ardente di fuoco, e di zolfo, che è la morte seconda."
+"Ma, quant’è a’ codardi, ed agl’increduli, ed a’ peccatori, ed agli abbominevoli, ed a’ micidiali, ed a’ fornicatori, ed a’ maliosi, ed agli idolatri, #ed a tutti i mendaci, la parte loro sarà nello stagno ardente di fuoco, e di zolfo, che è la morte seconda."
 "ALLORA venne uno de’ sette angeli, che aveano le sette coppe piene delle sette ultime piaghe; e parlò meco, dicendo
 "Ed egli mi trasportò in ispirito sopra un grande ed alto monte; e mi mostrò la gran città, la santa Gerusalemme, che scendeva dal cielo, d’appresso a Dio;"
 "che avea la gloria di Dio; e il suo luminare era simile ad una pietra preziosissima, a guisa d’una pietra di diaspro trasparente come cristallo."
@@ -13,7 +13,7 @@
 "Dall’Oriente v’erano tre porte, dal Settentrione tre porte, dal Mezzodì tre porte, e dall’Occidente tre porte."
 "E il muro della città avea dodici fondamenti, e sopra quelli erano i dodici nomi de’ dodici apostoli dell’Agnello."
 "E colui che parlava meco avea una canna d’oro, da misurar la città, e le sue porte, e il suo muro."
-"E la città era di figura quadrangolare, e la sua lunghezza era uguale alla larghezza; ed egli misurò la città con quella canna, ed era di dodicimila stadi; la lunghezza, la larghezza, e l’altezza sua erano uguali."
+"E la città era di figura quadrangolare, e la sua lunghezza era uguale alla larghezza; ed egli misurò la #città con quella canna, ed era di dodicimila stadi; la lunghezza, la larghezza, e l’altezza sua erano uguali."
 "Misurò ancora il muro d’essa; ed era di cenquarantaquattro cubiti, a misura di uomo, che era quella dell’angelo."
 "E la fabbrica del suo muro era di diaspro; e la città era d’oro puro, simile a vetro puro."
 "E i fondamenti del muro della città erano adorni d’ogni pietra preziosa; il primo fondamento era di diaspro, il secondo di zaffiro, il terzo di calcedonio, il quarto di smeraldo,"

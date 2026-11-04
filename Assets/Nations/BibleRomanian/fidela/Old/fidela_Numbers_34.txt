@@ -11,7 +11,7 @@
 "Și ținutul va merge în jos de la Șefam la Ribla, pe partea de est a Ainului; și granița va coborî și va ajunge până la țărmul mării Chineret spre est;"
 "Și granița va coborî la Iordan și ieșirile ei vor fi la Marea Sărată, aceasta va fi țara voastră cu granițele ei de jur împrejurul ei."
 "Și Moise le-a poruncit copiilor lui Israel, spunând
-"Pentru că tribul copiilor lui Ruben conform cu casa părinților lor și tribul copiilor lui Gad conform cu casa părinților lor, au primit [moștenirea lor]; și jumătate din tribul lui Manase au primit moștenirea lor;"
+"Pentru că tribul copiilor lui Ruben conform cu casa părinților lor și tribul copiilor lui Gad conform cu #casa părinților lor, au primit [moștenirea lor]; și jumătate din tribul lui Manase au primit moștenirea lor;"
 "Cele două triburi și jumătatea de trib au primit moștenirea lor de această parte a Iordanului, [lângă] Ierihon spre est, spre răsăritul soarelui."
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Acestea [sunt] numele bărbaților care vă vor împărți țara

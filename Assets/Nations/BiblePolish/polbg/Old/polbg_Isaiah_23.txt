@@ -15,4 +15,4 @@
 "I stanie się dnia onego, że w zapamiętaniu będzie Tyr przez siedmdziesiąt lat, przez wiek króla jednego. A po siedmdziesięciu latach Tyr znowu będzie miał piosnkę, jako piosnkę nierządnicy."
 "Weźmij lutnię, obchodź miasto, o nierządnico w zapomnienie podana! graj dobrze, długo śpiewaj, abyś na pamięć przyszła."
 "I stanie się po wyjściu siedmdziesięciu lat, że Tyr Pan nawiedzi; ale się on zaś wróci do nierządniczego zysku swego, i będzie nierząd płodził ze wszystkiemi królestwami ziemi, na obliczu ziemi."
-"Wszakże kupiectwo jego, i zysk jego będzie poświęcony Panu. Do skarbu odłożony, i schowany nie będzie; ale tym, którzy mieszkają przed Panem, pożyteczne będzie kupiectwo jego, aby jedli do sytości, a mieli odzienie dobre."
+"Wszakże kupiectwo jego, i zysk jego będzie poświęcony Panu. Do skarbu odłożony, i schowany nie będzie; ale tym, #którzy mieszkają przed Panem, pożyteczne będzie kupiectwo jego, aby jedli do sytości, a mieli odzienie dobre."

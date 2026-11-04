@@ -1,7 +1,7 @@
 "La parola che Isaia, figliuolo di Amos, ebbe in visione, intorno a Giuda ed a Gerusalemme."
 "OR avverrà negli ultimi giorni, che il monte della Casa del Signore sarà fermato nel sommo de’ monti, e sarà alzato sopra i colli; e tutte le genti concorreranno ad esso."
 "E molti popoli andranno, e diranno
-"Ed egli farà giudicii fra le genti, e castigamenti sopra molti popoli; ed essi delle loro spade fabbricheranno zappe, e delle lor lance falci; una nazione non alzerà più la spada contro all’altra nazione, e non impareranno più la guerra."
+"Ed egli farà giudicii fra le genti, e castigamenti sopra molti popoli; ed essi delle loro spade fabbricheranno zappe, e delle #lor lance falci; una nazione non alzerà più la spada contro all’altra nazione, e non impareranno più la guerra."
 "O casa di Giacobbe, venite, e camminiamo nella luce del Signore."
 "Perciocchè tu, Signore, hai abbandonato il tuo popolo, la casa di Giacobbe; perchè son pieni d’Oriente, e son pronosticatori come i Filistei; dànno la mano a’ figliuoli de’ forestieri."
 "E il lor paese si è riempiuto d’argento e d’oro, talchè hanno tesori senza fine; il lor paese si è eziandio riempiuto di cavalli, ed hanno carri senza fine."

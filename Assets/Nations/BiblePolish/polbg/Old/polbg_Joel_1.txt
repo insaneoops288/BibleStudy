@@ -10,7 +10,7 @@
 "Spustoszone jest pole, i smuci się ziemia, przeto, że popsowano zboże; wysechł moszcz, oliwa zginęła."
 "Wstydzą się oracze, narzekają winiarze dla pszenicy i dla jęczmienia; bo zginęło żniwo polne."
 "Winna macica uschła, a figowe drzewo uwiędło; drzewo granatowe i palma, i jabłoń, i wszystkie drzewa polne poschły, i wesele zginęło od synów ludzkich."
-"Przepaszcie się, a płaczcie, o kapłani! narzekajcie słudzy ołtarza; wnijdźcie a legajcie w nocy w worach, słudzy Boga mojego! bo zawściągniona jest od domu Boga waszego ofiara śniedna i ofiara mokra."
+"Przepaszcie się, a płaczcie, o kapłani! narzekajcie słudzy ołtarza; wnijdźcie a legajcie w nocy w worach, #słudzy Boga mojego! bo zawściągniona jest od domu Boga waszego ofiara śniedna i ofiara mokra."
 "Poświęćcie post, zwołajcie zgromadzenia, zbierzcie starców i wszystkich obywateli ziemi do domu Pana, Boga waszego, i wołajcie do Pana
 "Ach biada na ten dzień! bo bliski jest dzień Pański, a przychodzi jako spustoszenie od Wszechmocnego."
 "Izali przed oczyma naszemi nie zginęła żywność, a z domu Boga naszego radość i wesele?"

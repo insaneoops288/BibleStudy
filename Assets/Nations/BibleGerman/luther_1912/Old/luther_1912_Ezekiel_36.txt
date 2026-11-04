@@ -1,14 +1,14 @@
 "Und du, Menschenkind, weissage den Bergen Israels und sprich
 "So spricht der HERR HERR
 "darum weissage und sprich
-"darum hört, ihr Berge Israels, das Wort des HERRN HERRN! So spricht der HERR HERR zu den Bergen und Hügeln, zu den Bächen und Tälern, zu denöden Wüsten und verlassenen Städten, welche denübrigen Heiden ringsumher zum Raub und Spott geworden sind
+"darum hört, ihr Berge Israels, das Wort des HERRN HERRN! So spricht der HERR HERR zu den Bergen und Hügeln, zu #den Bächen und Tälern, zu denöden Wüsten und verlassenen Städten, welche denübrigen Heiden ringsumher zum Raub und Spott geworden sind
 "ja, so spricht der HERR HERR
 "Darum weissage von dem Lande Israel und sprich zu den Bergen und Hügeln, zu den Bächen und Tälern
 "Darum spricht der HERR HERR also
 "Aber ihr Berge Israels sollt wieder grünen und eure Frucht bringen meinem Volk Israel; und es soll in kurzem geschehen."
 "Denn siehe, ich will mich wieder zu euch wenden und euch ansehen, daß ihr gebaut und besät werdet;"
 "und will bei euch der Leute viel machen, das ganze Israel allzumal; und die Städte sollen wieder bewohnt und die Wüsten erbaut werden."
-"Ja, ich will bei euch der Leute und des Viehs viel machen, daß sie sich mehren und wachsen sollen. Und ich will euch wieder bewohnt machen wie vorher und will euch mehr Gutes tun denn zuvor je; und ihr sollt erfahren, daß ich der HERR sei."
+"Ja, ich will bei euch der Leute und des Viehs viel machen, daß sie sich mehren und wachsen sollen. Und ich will euch wieder #bewohnt machen wie vorher und will euch mehr Gutes tun denn zuvor je; und ihr sollt erfahren, daß ich der HERR sei."
 "Ich will euch Leute herzubringen, mein Volk Israel, die werden dich besitzen; und sollst ihr Erbteil sein und sollst sie nicht mehr ohne Erben machen."
 "So spricht der HERR HERR
 "darum sollst du nun nicht mehr Leute fressen noch dein Volk ohne Erben machen, spricht der HERR HERR."
@@ -20,7 +20,7 @@
 "Und sie hielten sich wie die Heiden, zu denen sie kamen, und entheiligten meinen heiligen Namen, daß man von ihnen sagte
 "Aber ich schonte meines heiligen Namens, welchen das Haus Israel entheiligte unter den Heiden, dahin sie kamen."
 "Darum sollst du zum Hause Israel sagen
-"Denn ich will meinen großen Namen, der vor den Heiden entheiligt ist, den ihr unter ihnen entheiligt habt, heilig machen. Und die Heiden sollen erfahren, daß ich der HERR sei, spricht der HERR HERR, wenn ich mich vor ihnen an euch erzeige, daß ich heilig sei."
+"Denn ich will meinen großen Namen, der vor den Heiden entheiligt ist, den ihr unter ihnen entheiligt habt, heilig machen. Und die Heiden sollen #erfahren, daß ich der HERR sei, spricht der HERR HERR, wenn ich mich vor ihnen an euch erzeige, daß ich heilig sei."
 "Denn ich will euch aus den Heiden holen und euch aus allen Landen versammeln und wieder in euer Land führen."
 "Und will reines Wasserüber euch sprengen, daß ihr rein werdet; von all eurer Unreinigkeit und von allen euren Götzen will ich euch reinigen."
 "Und ich will euch ein neues Herz und einen neuen Geist in euch geben und will das steinerne Herz aus eurem Fleische wegnehmen und euch ein fleischernes Herz geben;{~}"

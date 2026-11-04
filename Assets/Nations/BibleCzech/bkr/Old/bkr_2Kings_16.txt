@@ -7,7 +7,7 @@
 "I poslal Achas posly k Tiglatfalazarovi králi Assyrskému, řka
 "A pobrav Achas stříbro a zlato, kteréž se nalézti mohlo v domě Hospodinově a v pokladích domu královského, poslal králi Assyrskému dar."
 "Tedy povolil jemu král Assyrský, a přitáhl k Damašku a dobyl ho, a přenesl obyvatele jeho do Kir, Rezina pak zabil."
-"I vypravil se král Achas vstříc Tiglatfalazarovi králi Assyrskému do Damašku. A uzřev král Achas oltář v Damašku, poslal k Uriášovi knězi podobenství toho oltáře, a formu jeho vedlé všelikého díla jeho."
+"I vypravil se král Achas vstříc Tiglatfalazarovi králi Assyrskému do Damašku. A uzřev král Achas oltář v #Damašku, poslal k Uriášovi knězi podobenství toho oltáře, a formu jeho vedlé všelikého díla jeho."
 "I vzdělal Uriáš kněz oltář vedlé všeho toho, což byl poslal král Achas z Damašku. Tak učinil kněz Uriáš, prvé než se vrátil král Achas z Damašku."
 "Když se pak navrátil král z Damašku, uzřev ten oltář přistoupil k němu a obětoval na něm."
 "A tak zapálil zápal svůj i suchou obět svou, a obětoval obět mokrou svou, a pokropil krví oltáře z pokojných obětí svých."

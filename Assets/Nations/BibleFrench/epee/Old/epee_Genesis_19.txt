@@ -5,7 +5,7 @@
 "Et appelant Lot, ils lui dirent
 "Alors Lot sortit vers eux à l'entrée de la maison, et il ferma la porte après lui,"
 "Et il leur dit
-"Voici, j'ai deux filles, qui n'ont point connu d'homme; je vous les amènerai, et vous leur ferez ce qu'il vous plaira; seulement ne faites rien à ces hommes, puisqu'ils sont venus à l'ombre de mon toit."
+"Voici, j'ai deux filles, qui n'ont point connu d'homme; je vous les amènerai, et vous leur ferez ce qu'il #vous plaira; seulement ne faites rien à ces hommes, puisqu'ils sont venus à l'ombre de mon toit."
 "Mais ils lui dirent
 "Mais ces hommes, avançant leurs mains, firent rentrer Lot vers eux dans la maison, et fermèrent la porte."
 "Puis ils frappèrent d'éblouissement les hommes qui étaient à l'entrée de la maison, depuis le plus petit jusqu'au plus grand; de sorte qu'ils se lassèrent à chercher la porte."
@@ -13,10 +13,10 @@
 "Car nous allons détruire ce lieu, parce que le cri contre ses habitants est grand devant l'Éternel, et l'Éternel nous a envoyés pour le détruire."
 "Alors Lot sortit et parla à ses gendres, qui avaient pris ses filles, et leur dit
 "Et dès que l'aurore se leva, les messagers  pressèrent Lot, en disant
-"Et comme il tardait, ces hommes le prirent par la main; ils prirent aussi par la main sa femme et ses deux filles, parce que l'Éternel voulait l'épargner; et ils l'emmenèrent, et le mirent hors de la ville."
+"Et comme il tardait, ces hommes le prirent par la main; ils prirent aussi par la main sa femme et #ses deux filles, parce que l'Éternel voulait l'épargner; et ils l'emmenèrent, et le mirent hors de la ville."
 "Or, dès qu'ils les eurent fait sortir, l'un d'eux dit
 "Et Lot leur répondit
-"Voici, ton serviteur a trouvé grâce devant tes yeux, et tu as signalé ta miséricorde envers moi, en me sauvant la vie. Mais moi, je ne puis me sauver vers la montagne, que le désastre ne m'atteigne, et que je ne meure."
+"Voici, ton serviteur a trouvé grâce devant tes yeux, et tu as signalé ta miséricorde envers moi, en me sauvant la vie. #Mais moi, je ne puis me sauver vers la montagne, que le désastre ne m'atteigne, et que je ne meure."
 "Voici, je te prie, cette ville est assez proche pour s'y enfuir, et elle est insignifiante; que je m'y sauve, je te prie.  N'est-ce pas une petite chose que mon âme vive?"
 "Et il lui dit
 "Hâte-toi de t'y sauver; car je ne puis rien faire jusqu'à ce que tu y sois entré. C'est pour cela qu'on appela cette ville Tsoar (l'insignifiante)."

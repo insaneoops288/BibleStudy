@@ -1,8 +1,8 @@
 "Bărbați, frați și părinți, ascultați acum apărarea mea față de voi."
 "(Iar [ei], când au auzit că le vorbește în limba ebraică, au păstrat și mai mare tăcere, iar el a spus)
-"Eu sunt într-adevăr bărbat iudeu, născut în Tarsul Ciliciei, dar crescut în această cetate la picioarele lui Gamaliel, învățat conform cu exactitatea legii părinților și am fost zelos pentru Dumnezeu, așa cum sunteți voi toți în această zi."
+"Eu sunt într-adevăr bărbat iudeu, născut în Tarsul Ciliciei, dar crescut în această cetate la picioarele lui Gamaliel, învățat conform #cu exactitatea legii părinților și am fost zelos pentru Dumnezeu, așa cum sunteți voi toți în această zi."
 "Și am persecutat această cale până la moarte, legând și punând în închisori, deopotrivă bărbați și femei."
-"Astfel și marele preot îmi aduce mărturie și toată adunarea bătrânilor, de la care am și primit scrisori pentru frați și m-am dus la Damasc să îi aduc pe cei de acolo legați, la Ierusalim, pentru a fi pedepsiți."
+"Astfel și marele preot îmi aduce mărturie și toată adunarea bătrânilor, de la care am și primit scrisori pentru frați #și m-am dus la Damasc să îi aduc pe cei de acolo legați, la Ierusalim, pentru a fi pedepsiți."
 "Dar s-a întâmplat, în călătoria și apropierea mea de Damasc, că pe la prânz, dintr-o dată a strălucit din cer o lumină mare în jurul meu."
 "Și am căzut la pământ și am auzit o voce, spunându-mi
 "Și eu am răspuns
@@ -27,4 +27,4 @@
 "Atunci căpetenia a venit și i-a zis
 "Și căpetenia a răspuns
 "Atunci, îndată s-au îndepărtat de el cei ce trebuiau să îl cerceteze; iar căpeteniei îi era și ei teamă după ce a aflat că era roman și pentru că îl legase."
-"Iar a doua zi, pentru că voia să știe într-adevăr pentru ce fusese acuzat de iudei, l-a dezlegat din legăturile [sale] și a poruncit marilor preoți și întregului lor consiliu să vină; și l-a adus jos pe Pavel și l-a pus înaintea lor."
+"Iar a doua zi, pentru că voia să știe într-adevăr pentru ce fusese acuzat de iudei, l-a dezlegat din legăturile [sale] și #a poruncit marilor preoți și întregului lor consiliu să vină; și l-a adus jos pe Pavel și l-a pus înaintea lor."

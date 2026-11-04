@@ -5,8 +5,8 @@
 "Porque ¿quién tendrá compasión de ti, oh Jerusalén? ¿O quién se entristecerá por tu causa? ¿O quién ha de venir a preguntar por tu paz?"
 "Tú me dejaste, dice el SEÑOR, atrás te volviste; por tanto, yo extendí sobre ti mi mano, y te eché a perder; estoy cansado de arrepentirme."
 "Y los aventé con aventador hasta las puertas de la tierra; desahijé, desperdicié mi pueblo; no se tornaron de sus caminos."
-"Sus viudas se me multiplicaron más que la arena del mar; traje contra ellos destruidor a mediodía sobre la compañía de jóvenes; hice caer sobre ella de repente ciudad <I>de enemigos</I>  y terrores."
-"Se enflaqueció la que dio a luz siete; se llenó de dolor su alma; su sol se le puso siendo aún de día; se avergonzó y se llenó de confusión; y lo que de ella quedare, <I>lo</I>  entregaré a cuchillo delante de sus enemigos,  dijo el SEÑOR."
+"Sus viudas se me multiplicaron más que la arena del mar; traje contra ellos destruidor a mediodía sobre #la compañía de jóvenes; hice caer sobre ella de repente ciudad <I>de enemigos</I>  y terrores."
+"Se enflaqueció la que dio a luz siete; se llenó de dolor su alma; su sol se le puso siendo aún de día; se avergonzó #y se llenó de confusión; y lo que de ella quedare, <I>lo</I>  entregaré a cuchillo delante de sus enemigos,  dijo el SEÑOR."
 "¡Ay de mí, madre mía, que me has engendrado hombre de contienda y hombre de discordia a toda la tierra! Nunca les di a interés, ni lo tomé de ellos; y todos me maldicen."
 "Dijo el SEÑOR
 "¿Por ventura el hierro quebrará al hierro de la parte del aquilón, y al bronce?"

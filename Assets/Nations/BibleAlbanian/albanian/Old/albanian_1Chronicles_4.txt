@@ -38,6 +38,6 @@
 "Këta, që u përmendën në emër, ishin princër në familjet e tyre dhe shtëpitë e tyre atërore u rritën shumë."
 "Shkuan drejt hyrjes së Gedorit deri në perëndim të luginës për të kërkuar kullota për kopetë e tyre."
 "Gjetën kullota të bollshme dhe të mira, dhe vendi ishte i gjërë, i qetë, sepse më parë banonin aty pasuesit e Kamit."
-"Ata që u përmendën me emër, në kohën e Ezekias, mbretit të Judës, erdhën dhe i sulmuan çadrat e tyre dhe Menuitët, që gjendeshin aty, dhe i shfarosën krejt deri në ditën e sotme; pastaj u vendosën në vendin e tyre, sepse aty kishte kullota për kopetë e tyre."
+"Ata që u përmendën me emër, në kohën e Ezekias, mbretit të Judës, erdhën dhe i sulmuan çadrat e tyre dhe Menuitët, që gjendeshin aty, #dhe i shfarosën krejt deri në ditën e sotme; pastaj u vendosën në vendin e tyre, sepse aty kishte kullota për kopetë e tyre."
 "Pastaj disa prej tyre, pesëqind burra nga bijtë e Simeonit, shkuan në malin Seir të udhëhequr nga Pelatiahu, Neariahu dhe Uzieli, bij të Ishit."
 "Pastaj ata vranë mbeturinat e Amalekitëve që kishin shpëtuar dhe banuar deri ditën e sotme atje."

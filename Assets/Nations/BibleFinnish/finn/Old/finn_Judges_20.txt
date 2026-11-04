@@ -7,7 +7,7 @@
 "Katso, te olette kaikki Israelin lapset tässä, pitäkäät neuvoa ja tehkäät jotain tähän asiaan."
 "Niin kaikki kansa nousi niinkuin yksi mies ja sanoi
 "Mutta sen me nyt teemme Gibeaa vastaan, me heitämme arpaa häntä vastaan,"
-"Ja otamme kymmenen miestä sadasta ja sata tuhannesta ja tuhannen kymmenestätuhannesta, kaikista Israelin sukukunnista, ottamaan kansalle ravintoa, tulemaan ja tekemään Gibealle, joka BenJaminissa on, kaiken sen hulluuden jälkeen, kuin he ovat tehneet Israelissa."
+"Ja otamme kymmenen miestä sadasta ja sata tuhannesta ja tuhannen kymmenestätuhannesta, kaikista Israelin sukukunnista, ottamaan kansalle ravintoa, #tulemaan ja tekemään Gibealle, joka BenJaminissa on, kaiken sen hulluuden jälkeen, kuin he ovat tehneet Israelissa."
 "Niin kokosivat heitänsä kaikki Israelin miehet kaupunkiin, niinkuin yksi mies, ja tekivät liiton keskenänsä."
 "Ja Israelin sukukunnat lähettivät miehiä kaikkein BenJaminin sukukuntain tykö, ja käskivät heille sanoa
 "Antakaat siis nyt ne ilkiät miehet Gibeasta, meidän tappaaksemme ja ottaaksemme pahuutta Israelista pois. Mutta BenJaminin lapset ei tahtoneet kuulla veljeinsä Israelin lasten ääntä."
@@ -23,12 +23,12 @@
 "Ja Israelin lapset menivät ylös ja itkivät Herran edessä ehtoosen asti, ja kysyivät Herralta, sanoen
 "Ja Israelin lapset kävivät edes toisena päivänä BenJaminin lapsia vastaan;"
 "Ja BenJaminilaiset läksivät Gibeasta toisena päivänä heitä vastaan ja löivät vielä nyt kahdeksantoistakymmentä tuhatta miestä Israelin lapsista maahan, jotka kaikki miekkaa vetivät ulos."
-"Silloin menivät kaikki Israelin lapset ja kaikki kansa ylös ja tulivat Jumalan huoneesen, itkivät ja oleskelivat siellä Herran edessä, ja paastosivat sen päivän ehtoosen asti, ja uhrasivat polttouhria ja kiitosuhria Herran edessä."
+"Silloin menivät kaikki Israelin lapset ja kaikki kansa ylös ja tulivat Jumalan huoneesen, itkivät ja oleskelivat siellä #Herran edessä, ja paastosivat sen päivän ehtoosen asti, ja uhrasivat polttouhria ja kiitosuhria Herran edessä."
 "Ja Israelin lapset kysyivät Herralta; ja Jumalan liitonarkki oli siihen aikaan siellä."
 "Ja Pinehas Eleatsarin poika, Aaronin pojan, seisoi hänen edessänsä sillä ajalla ja sanoi
 "Ja Israelin lapset panivat väijytykset joka taholta Gibean ympärille."
 "Ja Israelin lapset menivät kolmantena päivänä BenJaminin lapsia vastaan ja asettivat heitänsä Gibeaa vastaan, niinkuin he ennenkin kaksi kertaa tekivät."
-"Niin menivät BenJaminin lapset kansaa vastaan, ja erkausivat kaupungista, rupesivat lyömään ja haavoittamaan monikahtoja kansasta, niinkuin ennenkin niillä kahdella erällä, kedolla kahden tien päällä, joista yksi menee BetEliin ja toinen Gibeaan, liki kolmekymmentä miestä Israelista."
+"Niin menivät BenJaminin lapset kansaa vastaan, ja erkausivat kaupungista, rupesivat lyömään ja haavoittamaan monikahtoja kansasta, niinkuin ennenkin niillä #kahdella erällä, kedolla kahden tien päällä, joista yksi menee BetEliin ja toinen Gibeaan, liki kolmekymmentä miestä Israelista."
 "Niin BenJaminin lapset sanoivat
 "Niin nousivat kaikki miehet Israelista, jokainen siastansa, ja asettivat heitänsä BaalTamariin; ja Israelin väijyjät nousivat siastansa Gabaan luolasta."
 "Ja kymmenentuhatta valittua miestä kaikesta Israelista tuli Gibeaa vastaan, ja sota tuli sangen raskaaksi; mutta ei ne tietäneet onnettomuuden heitä lähestyvän."
@@ -42,7 +42,7 @@
 "Ja he käänsivät itsensä Israelin miesten edessä korven tielle; mutta sota saavutti heidät
 "Ja ne piirittivät BenJaminin, ja ajoivat takaa Menuaan asti, ja tallasivat niitä Gibean kohdalla, auringon ylenemistä päin."
 "Ja BenJaminista lankesi kahdeksantoistakymmentä tuhatta miestä, jotka kaikki olivat vahvat sotamiehet."
-"Niin käänsivät he itsensä ja pakenivat korpeen päin Rimmonin vuorelle, mutta sillä tiellä löivät he viisituhatta miestä, ja ajoivat heitä takaa Gibeoniin asti, ja löivät heistä kaksituhatta miestä."
+"Niin käänsivät he itsensä ja pakenivat korpeen päin Rimmonin vuorelle, mutta sillä tiellä löivät he #viisituhatta miestä, ja ajoivat heitä takaa Gibeoniin asti, ja löivät heistä kaksituhatta miestä."
 "Ja kaikki jotka sinä päivänä BenJaminista lankesivat, olivat viisikolmattakymmentä tuhatta miestä, jotka miekkaa vetivät ulos, ja olivat kaikki vahvat sotamiehet."
 "Ainoasti kuusisataa miestä käänsi itsensä ja pakeni jälleen korpeen Rimmonin vuorelle, ja jäivät Rimmonin vuorelle neljäksi kuukaudeksi."
-"Ja Israelin lapset tulivat jällensä BenJaminin lasten tykö ja löivät ne kaupungista miekan terällä, sekä kansan että eläimet, ja kaikki mitä he löysivät; ja kaikki kaupungit jotka he löysivät, polttivat he tulella."
+"Ja Israelin lapset tulivat jällensä BenJaminin lasten tykö ja löivät ne kaupungista miekan terällä, sekä kansan että #eläimet, ja kaikki mitä he löysivät; ja kaikki kaupungit jotka he löysivät, polttivat he tulella."

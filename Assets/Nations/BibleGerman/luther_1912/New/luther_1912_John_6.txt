@@ -19,7 +19,7 @@
 "Da sie nun gerudert hatten bei fünfundzwanzig oder dreißig Feld Wegs, sahen sie Jesum auf dem Meere dahergehen und nahe zum Schiff kommen; und sie fürchteten sich."
 "Er aber sprach zu ihnen
 "Da wollten sie ihn in das Schiff nehmen; und alsbald war das Schiff am Lande, da sie hin fuhren."
-"Des anderen Tages sah das Volk, das diesseit des Meeres stand, daß kein anderes Schiff daselbst war denn das eine, darin seine Jünger getreten waren, und daß Jesus nicht mit seinen Jüngern in das Schiff getreten war, sondern allein seine Jünger waren weggefahren."
+"Des anderen Tages sah das Volk, das diesseit des Meeres stand, daß kein anderes Schiff daselbst war denn das eine, darin seine #Jünger getreten waren, und daß Jesus nicht mit seinen Jüngern in das Schiff getreten war, sondern allein seine Jünger waren weggefahren."
 "Es kamen aber andere Schiffe von Tiberias nahe zur Stätte, da sie das Brot gegessen hatten durch des HERRN Danksagung."
 "Da nun das Volk sah, daß Jesus nicht da war noch seine Jünger, traten sie auch in Schiffe und kamen gen Kapernaum und suchten Jesum."
 "Und da sie ihn fanden jenseit des Meeres, sprachen sie zu ihm
@@ -48,7 +48,7 @@
 "Ich bin das Brot des Lebens."
 "Eure Väter haben Manna gegessen in der Wüste und sind gestorben."
 "Dies ist das Brot, das vom Himmel kommt, auf daß, wer davon isset, nicht sterbe."
-"Ich bin das lebendige Brot, vom Himmel gekommen. Wer von diesem Brot essen wird, der wird leben in Ewigkeit. Und das Brot, daß ich geben werde, ist mein Fleisch, welches ich geben werde für das Leben der Welt."
+"Ich bin das lebendige Brot, vom Himmel gekommen. Wer von diesem Brot essen wird, der wird leben in Ewigkeit. Und #das Brot, daß ich geben werde, ist mein Fleisch, welches ich geben werde für das Leben der Welt."
 "Da zankten die Juden untereinander und sprachen
 "Jesus sprach zu ihnen
 "Wer mein Fleisch isset und trinket mein Blut, der hat das ewige Leben, und ich werde ihn am Jüngsten Tage auferwecken."

@@ -13,4 +13,4 @@
 "Dlatego i Ja ciężko cię porażę, niszcząc, z uwagi na twoje grzechy."
 "Będziesz jadł, ale się nie nasycisz; twa pustka w tobie p"
 "Będziesz siał, ale nie zbierzesz; będziesz tłoczył oliwki, lecz nie będziesz namaszczał się oliwą; będziesz wyciskał moszcz, lecz wina pił nie będziesz."
-"Tak, pilnie przestrzegano ustaw Omriego oraz wszelkiego zwyczaju domu Achaba. Postępowaliście według ich rad, bym cię podał na spustoszenie, jej mieszkańców na pośmiewisko i byście ponieśli hańbę u narodów."
+"Tak, pilnie przestrzegano ustaw Omriego oraz wszelkiego zwyczaju domu Achaba. Postępowaliście według ich rad, bym #cię podał na spustoszenie, jej mieszkańców na pośmiewisko i byście ponieśli hańbę u narodów."

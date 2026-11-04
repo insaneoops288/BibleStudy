@@ -19,7 +19,7 @@
 "A szolgálati ruhákat, a szent hajlékban való szolgálathoz, a szent ruhákat Áron papnak, és az õ fiainak ruháit, a papi szolgálatra."
 "Azután kiméne az Izráel fiainak egész gyülekezete Mózes elõl."
 "És eljöve mindenki, a kit a szíve indíta, és a kit lelke hajt vala, és hozának áldozatot az Úrnak, a gyülekezet hajlékának készítéséhez, és annak minden szolgálatához, és a szent ruhákhoz valókat."
-"És jövének férfiak és asszonyok együtt, mind, a kit szíve indított, hozának kapcsokat, függõket, gyûrûket, karpereczet, mindenféle arany eszközöket; a férfiak is, mind a kik aranyból hoztak áldozatot az Úrnak."
+"És jövének férfiak és asszonyok együtt, mind, a kit szíve indított, hozának kapcsokat, függõket, gyûrûket, karpereczet, #mindenféle arany eszközöket; a férfiak is, mind a kik aranyból hoztak áldozatot az Úrnak."
 "És minden ember, kinek a mije vala, hozott kék, bíborpiros, és karmazsinszínû, és [lenfonalat], kecskeszõrt, veresre festett kosbõröket és borzbõröket."
 "Minden, a ki ezüstöt vagy rezet vihetett, felhozá azt áldozatul az Úrnak, és a kiknél sittim-fa találtaték a szolgálat különbözõ szükségeire, felhozák azt."
 "Az asszonyok közûl pedig mind, a kik ahhoz értettek, saját kezeikkel fonának, és felvivék azt a mit fontak, a kék, és a bíborpiros, és a karmazsinszínû, és a [lenfonalat]."
@@ -32,4 +32,4 @@
 "Hogy tudjon kigondolni mindent a mit aranyból, ezüstbõl és rézbõl kell csinálni;"
 "És foglalásra való köveket metszeni, és fát faragni; és minden mesterséges munkát végezni."
 "Azontúl alkalmatossá tette arra is, hogy tanítson, mind õ, mind Aholiáb az Akhiszamák fia, a Dán nemzetségébõl."
-"Betöltötte õket bölcseség lelkével, hogy tudjanak mindenféle faragó, és kötõ, és hímzõ munkát készíteni, kék és bíborpiros, karmazsinszínû és lenfonálból, és takácsmunkát, a kik készítenek ilyenféle munkát és kigondolnak mestermûveket. [ (Exodus 35
+"Betöltötte õket bölcseség lelkével, hogy tudjanak mindenféle faragó, és kötõ, és hímzõ munkát készíteni, kék és bíborpiros, #karmazsinszínû és lenfonálból, és takácsmunkát, a kik készítenek ilyenféle munkát és kigondolnak mestermûveket. [ (Exodus 35

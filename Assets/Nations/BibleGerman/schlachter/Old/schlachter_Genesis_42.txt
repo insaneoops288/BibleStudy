@@ -13,7 +13,7 @@
 "Sie antworteten
 "Aber Joseph sprach zu ihnen
 "Daran will ich euch prüfen; so wahr der Pharao lebt, sollt ihr von hier nicht fortgehen, es komme denn euer jüngster Bruder her!"
-"Schickt einen von euch hin, daß er euren Bruder hole, ihr aber sollt in Haft behalten werden; so wird es sich herausstellen, ob ihr mit der Wahrheit umgeht; wo aber nicht, dann seid ihr Kundschafter, so wahr der Pharao lebt!"
+"Schickt einen von euch hin, daß er euren Bruder hole, ihr aber sollt in Haft behalten werden; so wird es sich #herausstellen, ob ihr mit der Wahrheit umgeht; wo aber nicht, dann seid ihr Kundschafter, so wahr der Pharao lebt!"
 "Und er tat sie alle zusammen in Verwahrung, drei Tage lang."
 "Am dritten Tag aber sprach Joseph zu ihnen
 "Wenn ihr aufrichtig seid, so lasset einen von euch Brüdern hier gebunden im Gefängnis zurück; ihr andern aber geht hin und bringet heim, was eure Familien zur Stillung des Hungers bedürfen."
@@ -31,7 +31,7 @@
 "Wir aber sagten
 "wir sind unser zwölf Brüder, Söhne unsres Vaters; einer ist nicht mehr da, der jüngste aber ist gegenwärtig bei unserm Vater im Lande Kanaan."
 "Da sprach der Mann, des Landes Herr, zu uns
-"und bringet euren jüngeren Bruder zu mir, damit ich erkenne, daß ihr keine Kundschafter, sondern aufrichtig seid. Dann will ich euch euren Bruder herausgeben und ihr könnt ungehindert im Lande verkehren."
+"und bringet euren jüngeren Bruder zu mir, damit ich erkenne, daß ihr keine Kundschafter, sondern aufrichtig #seid. Dann will ich euch euren Bruder herausgeben und ihr könnt ungehindert im Lande verkehren."
 "Als sie aber ihre Säcke ausleerten, siehe, da hatte jeder sein Bündlein Geld in seinem Sack! Als sie und ihr Vater ihre Bündlein Geld sahen, erschraken sie."
 "Und ihr Vater Jakob sprach zu ihnen
 "Da sprach Ruben zu seinem Vater

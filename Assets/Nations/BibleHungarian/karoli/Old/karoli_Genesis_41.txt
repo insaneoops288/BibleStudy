@@ -5,7 +5,7 @@
 "És elaluvék és másodszor is álmot láta, és ímé hét gabonafej nevekedik vala egy száron, mind teljes és szép."
 "És ímé azok után hét vékony s keleti széltõl kiszáradt gabonafej nevekedik vala."
 "És elnyelék a vékony gabonafejek a hét kövér és teljes gabonafejet. És felserkene a Faraó, és ímé álom [vala.]"
-"Reggelre kelvén, nyugtalankodék lelkében, elkülde azért és egybehívatá Égyiptom minden jövendõmondóját, és minden bölcsét és elbeszélé nékik a Faraó az õ álmát, de senki sem vala, ki azokat megmagyarázta volna a Faraónak."
+"Reggelre kelvén, nyugtalankodék lelkében, elkülde azért és egybehívatá Égyiptom minden jövendõmondóját, és minden bölcsét és elbeszélé nékik #a Faraó az õ álmát, de senki sem vala, ki azokat megmagyarázta volna a Faraónak."
 "Szóla azért a fõpohárnok a Faraónak, mondván
 "A Faraó megharagudt vala az õ szolgáira, és fogságba vettetett vala engem a testõrök fõhadnagyának házába, engem és a fõsütõmestert."
 "És álmot látánk egy éjjel, én is, az is; mindegyikünk a maga álmának értelme szerint álmoda."

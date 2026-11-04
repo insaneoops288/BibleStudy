@@ -13,7 +13,7 @@
 "Atëherë Samueli mori bririn e vajit dhe e vajosi para vëllezërve të tij; që nga ajo ditë Fryma e Zotit zbriti te Davidi. Pastaj Samueli u ngrit dhe shkoi në Ramah."
 "Fryma e Zotit ishte larguar nga Sauli dhe një frym i keq e terrorizonte nga ana e Zotit."
 "Shërbëtorët e Saulit i thanë ""Ja, një frym i keq të shqetëson nga ana e Perëndisë."
-"Zoti ynë të urdhërojë, pra, që shërbëtorët e tu që rrinë përpara teje të gjejnë një njeri që i bie mirë harpës; kur pastaj fryma e keq nga ana e Perëndisë do të të zotërojë, ai do t'i bjerë harpës dhe ti do ta ndjesh veten mirë""."
+"Zoti ynë të urdhërojë, pra, që shërbëtorët e tu që rrinë përpara teje të gjejnë një njeri që i bie mirë harpës; kur pastaj #fryma e keq nga ana e Perëndisë do të të zotërojë, ai do t'i bjerë harpës dhe ti do ta ndjesh veten mirë""."
 "Sauli u tha shërbëtorëve të tij
 "Atëherë një nga shërbëtorët filloi të thotë
 "Sauli, pra, i dërgoi lajmëtarë Isait për t'i thënë

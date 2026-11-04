@@ -1,6 +1,6 @@
 "Lõn pedig éhség az országban, amaz elsõ éhség után, mely Ábrahám idejében vala. Elméne azért Izsák Abimélekhez a Filiszteusok királyához Gérárba."
 "Mert megjelent vala néki az Úr és ezt mondotta vala
-"Tartózkodjál ezen a földön, és én veled leszek és megáldalak téged; mert tenéked és a te magodnak adom mind ezeket a földeket, hogy megerõsítsem az esküvést, melylyel megesküdtem Ábrahámnak a te atyádnak."
+"Tartózkodjál ezen a földön, és én veled leszek és megáldalak téged; mert tenéked és a te magodnak #adom mind ezeket a földeket, hogy megerõsítsem az esküvést, melylyel megesküdtem Ábrahámnak a te atyádnak."
 "És megsokasítom a te magodat mint az ég csillagait, és a te magodnak adom mind ezeket a földeket
 "Mivelhogy hallgata Ábrahám az én szavamra
 "Lakozék azért Izsák Gérárban."
@@ -15,7 +15,7 @@
 "És mindazokat a kútakat, melyeket az õ atyjának szolgái Ábrahámnak az õ atyjának idejében ástak vala, behányák a Filiszteusok, és betölték azokat földdel."
 "És monda Abimélek Izsáknak
 "Elméne azért onnan Izsák, és Gérár völgyében voná fel sátrait, és ott lakék."
-"És ismét megásá Izsák a kútakat, a melyeket ástak vala az õ atyjának Ábrahámnak idejében, de a melyeket Ábrahám holta után behánytak vala a Filiszteusok, és azokkal a nevekkel nevezé azokat, a mely neveket adott vala azoknak az õ atyja."
+"És ismét megásá Izsák a kútakat, a melyeket ástak vala az õ atyjának Ábrahámnak idejében, de a melyeket Ábrahám holta után #behánytak vala a Filiszteusok, és azokkal a nevekkel nevezé azokat, a mely neveket adott vala azoknak az õ atyja."
 "Izsák szolgái pedig ásnak vala a völgyben, és élõ víznek forrására akadának ott."
 "Gérár pásztorai pedig versengének Izsák pásztoraival, mondván
 "Más kútat is ásának s azon is versengének, azért annak nevét Szitnának nevezé."

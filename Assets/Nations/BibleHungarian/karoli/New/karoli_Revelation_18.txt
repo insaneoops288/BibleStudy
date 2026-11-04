@@ -9,7 +9,7 @@
 "És siratják õt, és jajgatnak õ rajta a föld királyai, a kik vele paráználkodtak és dobzódtak, mikor az õ égésének füstjét látják,"
 "Nagy távol állva az õ kínjától való félelem miatt, mondván
 "A föld kalmárai is siratják és jajgatják õt, mert az õ árúikat immár senki nem veszi;"
-"Arany és ezüst, és drágakõ és gyöngy, és gyolcs és bíbor, és selyem és skárlátczikkeket; és minden thinfát és minden elefántcsontedényt, és drágafából és rézbõl és vasból és márványkõbõl [csinált] minden edényt;"
+"Arany és ezüst, és drágakõ és gyöngy, és gyolcs és bíbor, és selyem és skárlátczikkeket; és minden #thinfát és minden elefántcsontedényt, és drágafából és rézbõl és vasból és márványkõbõl [csinált] minden edényt;"
 "És fahajat és illatszereket, és kenetet és tömjént, és bort és olajat, és zsemlyelisztet és gabonát, és barmokat és juhokat, és lovakat és kocsikat, és rabokat és emberek lelkeit."
 "És a gyümölcs, a mit a te lelked kívánt, eltávozott tõled, és minden a mi ínyes és pompás, eltávozott tõled, és többé azokat meg nem találod."
 "Ezeknek árosai, a kik meggazdagodtak õ tõle, távol állanak az õ kínjától való félelem miatt, sírván és jajgatván,"
@@ -19,6 +19,6 @@
 "És port hányván az õ fejökre, kiáltának sírván és jajgatván, és ezt mondván
 "Örülj õ rajta menny, és ti szent apostolok és próféták; mert az Isten büntette meg õt érettetek való büntetéssel."
 "És egy erõs angyal egy nagy malomkõhöz hasonló követ felvõn és a tengerbe veté, ezt mondván
-"És hárfásoknak és muzsikásoknak, és síposoknak és trombitásoknak szava te benned többé nem hallatik; és semmi mesterségnek mestere nem találtatik többé te benned; és malomnak zúgása sem hallatik többé te benned;"
-"És szövétneknek világossága többé te benned nem fénylik; és võlegénynek és menyasszonynak szava sem hallatik többé te benned; mert a te kalmáraid valának a földnek fejedelmei; mert a te bûvöléseidtõl eltévelyedtek mind a népek."
+"És hárfásoknak és muzsikásoknak, és síposoknak és trombitásoknak szava te benned többé nem hallatik; és semmi #mesterségnek mestere nem találtatik többé te benned; és malomnak zúgása sem hallatik többé te benned;"
+"És szövétneknek világossága többé te benned nem fénylik; és võlegénynek és menyasszonynak szava sem hallatik többé te benned; #mert a te kalmáraid valának a földnek fejedelmei; mert a te bûvöléseidtõl eltévelyedtek mind a népek."
 "És abban prófétáknak és szenteknek vére találtatott, és mindeneknek, a kik megölettek a földön."

@@ -51,7 +51,7 @@
 "Tels sont ceux des enfants d'Israël dont on fit le dénombrement
 "L'Eternel parla à Moïse, et dit
 "Le pays sera partagé entre eux, pour être leur propriété, selon le nombre des noms."
-"A ceux qui sont en plus grand nombre tu donneras une portion plus grande, et à ceux qui sont en plus petit nombre tu donneras une portion plus petite; on donnera à chacun sa portion d'après le dénombrement."
+"A ceux qui sont en plus grand nombre tu donneras une portion plus grande, et à ceux qui sont en #plus petit nombre tu donneras une portion plus petite; on donnera à chacun sa portion d'après le dénombrement."
 "Mais le partage du pays aura lieu par le sort; ils le recevront en propriété selon les noms des tribus de leurs pères."
 "C'est par le sort que le pays sera partagé entre ceux qui sont en grand nombre et ceux qui sont en petit nombre."
 "Voici les Lévites dont on fit le dénombrement, selon leurs familles
@@ -59,7 +59,7 @@
 "Le nom de la femme d'Amram était Jokébed, fille de Lévi, laquelle naquit à Lévi, en Egypte; elle enfanta à Amram
 "Il naquit à Aaron
 "Nadab et Abihu moururent, lorsqu'ils apportèrent devant l'Eternel du feu étranger."
-"Ceux dont on fit le dénombrement, tous les mâles depuis l'âge d'un mois et au-dessus, furent vingt-trois mille. Ils ne furent pas compris dans le dénombrement des enfants d'Israël, parce qu'il ne leur fut point donné de possession au milieu des enfants d'Israël."
+"Ceux dont on fit le dénombrement, tous les mâles depuis l'âge d'un mois et au-dessus, furent vingt-trois mille. Ils ne furent pas #compris dans le dénombrement des enfants d'Israël, parce qu'il ne leur fut point donné de possession au milieu des enfants d'Israël."
 "Tels sont ceux des enfants d'Israël dont Moïse et le sacrificateur Eléazar firent le dénombrement dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho."
 "Parmi eux, il n'y avait aucun des enfants d'Israël dont Moïse et le sacrificateur Aaron avaient fait le dénombrement dans le désert de Sinaï."
 "Car l'Eternel avait dit

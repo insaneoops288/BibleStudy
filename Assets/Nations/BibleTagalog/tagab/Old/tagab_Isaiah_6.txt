@@ -7,7 +7,7 @@
 "At hinipo niya niyaon ang aking bibig, at nagsabi, Narito, hinipo nito ang iyong mga labi; at ang iyong kasamaan ay naalis, at ang iyong kasalanan ay naalis."
 "At narinig ko ang tinig ng Panginoon, na nagsasabi, Sinong susuguin ko, at sinong yayaon sa ganang amin? Nang magkagayo'y sinabi ko
 "At sinabi niya, Ikaw ay yumaon, at saysayin mo sa bayang ito, inyong naririnig nga, nguni't hindi ninyo nauunawa; at nakikita nga ninyo, nguni't hindi ninyo namamalas."
-"Patabain mo ang puso ng bayang ito, at iyong pabigatin ang kanilang mga pakinig, at iyong ipikit ang kanilang mga mata; baka sila'y mangakakita ng kanilang mga mata; at mangakarinig ng kanilang mga pakinig, at mangakaunawa ng kanilang puso, at mangagbalik loob, at magsigaling."
-"Nang magkagayo'y sinabi ko, Panginoon, hanggang kailan? At siya'y sumagot, Hanggang sa ang mga bayan ay mangagiba na walang tumahan, at ang mga bahay ay mangawalan ng tao, at ang lupain ay maging lubos na giba,"
+"Patabain mo ang puso ng bayang ito, at iyong pabigatin ang kanilang mga pakinig, at iyong ipikit ang kanilang mga mata; baka sila'y #mangakakita ng kanilang mga mata; at mangakarinig ng kanilang mga pakinig, at mangakaunawa ng kanilang puso, at mangagbalik loob, at magsigaling."
+"Nang magkagayo'y sinabi ko, Panginoon, hanggang kailan? At siya'y sumagot, Hanggang sa ang mga bayan ay mangagiba na walang #tumahan, at ang mga bahay ay mangawalan ng tao, at ang lupain ay maging lubos na giba,"
 "At ilayo ng Panginoon ang mga tao, at ang mga nilimot na dako ay magsidami sa gitna ng lupain."
 "At kung magkaroon ng ikasangpung bahagi roon, mapupugnaw uli

@@ -1,7 +1,7 @@
 "Darnach war ein Fest der Juden, und Jesus zog hinauf gen Jerusalem."
 "Es ist aber zu Jerusalem bei dem Schaftor ein Teich, der heißt auf hebräisch Bethesda und hat fünf Hallen,"
 "in welchem lagen viele Kranke, Blinde, Lahme, Verdorrte, die warteten, wann sich das Wasser bewegte."
-"(Denn ein Engel fuhr herab zu seiner Zeit in den Teich und bewegte das Wasser.) Welcher nun zuerst, nachdem das Wasser bewegt war, hineinstieg, der ward gesund, mit welcherlei Seuche er behaftet war."
+"(Denn ein Engel fuhr herab zu seiner Zeit in den Teich und bewegte das Wasser.) Welcher nun #zuerst, nachdem das Wasser bewegt war, hineinstieg, der ward gesund, mit welcherlei Seuche er behaftet war."
 "Es war aber ein Mensch daselbst, achtunddreißig Jahre lang krank gelegen."
 "Da Jesus ihn sah liegen und vernahm, daß er so lange gelegen hatte, spricht er zu ihm
 "Der Kranke antwortete ihm
@@ -33,7 +33,7 @@
 "Ihr schicktet zu Johannes, und er zeugte von der Wahrheit."
 "Ich aber nehme nicht Zeugnis von Menschen; sondern solches sage ich, auf daß ihr selig werdet."
 "Er war ein brennend und scheinend Licht; ihr aber wolltet eine kleine Weile fröhlich sein in seinem Lichte."
-"Ich aber habe ein größeres Zeugnis; denn des Johannes Zeugnis; denn die Werke, die mir der Vater gegeben hat, daß ich sie vollende, eben diese Werke, die ich tue, zeugen von mir, daß mich der Vater gesandt habe."
+"Ich aber habe ein größeres Zeugnis; denn des Johannes Zeugnis; denn die Werke, die mir der Vater gegeben hat, daß #ich sie vollende, eben diese Werke, die ich tue, zeugen von mir, daß mich der Vater gesandt habe."
 "Und der Vater, der mich gesandt hat, derselbe hat von mir gezeugt. Ihr habt nie weder seine Stimme gehört noch seine Gestalt gesehen,"
 "und sein Wort habt ihr nicht in euch wohnend; denn ihr glaubt dem nicht, den er gesandt hat."
 "Suchet in der Schrift; denn ihr meinet, ihr habet das ewige Leben darin; und sie ist's, die von mir zeuget;"

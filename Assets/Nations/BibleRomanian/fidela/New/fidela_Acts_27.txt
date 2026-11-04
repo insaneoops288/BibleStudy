@@ -9,7 +9,7 @@
 "Și, trecând mult timp și navigarea fiind de acum periculoasă, pentru că postul trecuse deja, Pavel [i-]a avertizat,"
 "Și le-a spus
 "Cu toate acestea, centurionul l-a crezut pe căpetenia vasului și pe proprietarul corăbiei mai mult decât cele spuse de Pavel."
-"Iar pentru că limanul nu era bun pentru iernat, cei mai mulți s-au înțeles să plece și de acolo, dacă ar fi posibil să ajungă cumva să ierneze la Fenix, un liman din Creta și [care este] orientat spre sud-vest și nord-vest."
+"Iar pentru că limanul nu era bun pentru iernat, cei mai mulți s-au înțeles să plece și de acolo, dacă ar fi #posibil să ajungă cumva să ierneze la Fenix, un liman din Creta și [care este] orientat spre sud-vest și nord-vest."
 "Iar când vântul de sud a suflat ușor, presupunând că [și]-au atins scopul, ridicând ancora, au navigat aproape de Creta."
 "Dar nu după mult [timp] s-a ridicat împotriva acesteia un vânt violent, numit Euroclidon."
 "Iar când corabia a fost apucată și nu putea face față vântului, ne-am lăsat purtați [de ea]."

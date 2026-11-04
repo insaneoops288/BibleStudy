@@ -12,11 +12,11 @@
 "E Jeremias falou a todos os príncipes e a todo o povo, dizendo
 "Agora, portanto, melhorai vossos caminhos e vossas ações, e ouvi à voz do SENHOR vosso Deus; então o SENHOR mudará de ideia quanto ao mal que falou contra vós."
 "Eu, porém, eis que estou em vossas mãos
-"Mas sabei certamente que, se vós me matardes, então trareis sangue inocente sobre vós, e sobre esta cidade, e sobre seus moradores; porque em verdade o SENHOR me enviou a vós para falar aos vossos ouvidos todas estas palavras."
+"Mas sabei certamente que, se vós me matardes, então trareis sangue inocente sobre vós, e sobre esta cidade, e sobre #seus moradores; porque em verdade o SENHOR me enviou a vós para falar aos vossos ouvidos todas estas palavras."
 "Então os príncipes e todo o povo disseram aos sacerdotes e profetas
 "E se levantaram alguns dos anciãos da terra, e falaram a todo o ajuntamento do povo, dizendo
 "Miqueias, o morastita, profetizou nos dias de Ezequias rei de Judá, e falou a todo o povo de Judá, dizendo
-"Por acaso foi ele morto por Ezequias rei de Judá e todo Judá? Por acaso [Ezequias] não temeu ao SENHOR, e orou na presença do SENHOR, e o SENHOR mudou de ideia quanto ao mal que tinha falado contra eles? E nós, faremos pois tão grande mal contra nossas [próprias] almas?"
+"Por acaso foi ele morto por Ezequias rei de Judá e todo Judá? Por acaso [Ezequias] não temeu ao SENHOR, e orou na presença do SENHOR, #e o SENHOR mudou de ideia quanto ao mal que tinha falado contra eles? E nós, faremos pois tão grande mal contra nossas [próprias] almas?"
 "Houve também um homem que profetizava em nome do SENHOR
 "E quando ouviu suas palavras o rei Jeoaquim, e todos seus grandes, e todos seus príncipes, então o rei procurou matá-lo; e Urias, ao ouvir [isso] , teve medo, fugiu, e foi ao Egito;"
 "Porém o rei Jeoaquim enviou [alguns] homens a Egito

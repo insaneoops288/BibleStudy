@@ -3,7 +3,7 @@
 "Ai që ha të mos e përbuzë atë që nuk ha, dhe ai që nuk ha të mos gjykojë atë që ha, sepse Perëndia e ka pranuar."
 "Kush je ti që gjykon shërbyesin e tjetrit? A qëndron mbi këmbë ose rrëzohet, është punë e zotit të tij, por ai do të qëndrojë, sepse Perëndia është i zoti ta bëjë atë të qëndrojë në këmbë."
 "Sepse dikush e çmon një ditë më shumë se një tjetër, dhe tjetri i çmon të gjitha ditët njëlloj; gjithsecili të jetë plotësisht i bindur në mendjen e tij."
-"Ai që e çmon ditën, për Zotin e çmon; ai që nuk e çmon ditën, për Zotin nuk e ruan; kush ha, për Zotin ha dhe i falet nderit Perëndisë; dhe kush nuk ha, për Zotin nuk ha dhe i falet nderit Perëndisë."
+"Ai që e çmon ditën, për Zotin e çmon; ai që nuk e çmon ditën, për Zotin nuk e ruan; kush ha, #për Zotin ha dhe i falet nderit Perëndisë; dhe kush nuk ha, për Zotin nuk ha dhe i falet nderit Perëndisë."
 "Sepse asnjë nga ne nuk jeton për veten e tij dhe askush nuk vdes për veten e tij,"
 "sepse, edhe nëse rrojmë, rrojmë për Zotin; edhe nëse vdesim, vdesim për Zotin; pra, edhe po të rrojmë ose të vdesim, të Zotit jemi."
 "Sepse për këtë edhe vdiq Krishti dhe u ngjall e u kthye në jetë

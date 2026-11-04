@@ -12,7 +12,7 @@
 "Dhe e quanin Barnabën Jupiter, Palin Mërkur, sepse ai fliste më shumë."
 "Atëherë prifti i Jupiterit, që e kishte tempullin në hyrje të qytetit të tyre, solli dema me kurora pranë portave dhe donte të ofronte një flijim bashkë me turmën."
 "Por apostujt Barnaba dhe Pal, kur dëgjuan këtë, i grisën rrobat e tyre dhe u turrën në mes të turmës, duke thirrur e duke thënë
-"''O burra, pse bëni këto gjëra? Edhe ne jemi njerëz me të njëjtën natyrë si ju, dhe po ju shpallim lajmin e mirë, që ju nga këto gjëra të kota të ktheheni te Perëndia e gjallë që ka bërë qiellin, dheun, detin dhe të gjitha gjërat që janë në ta."
+"''O burra, pse bëni këto gjëra? Edhe ne jemi njerëz me të njëjtën natyrë si ju, dhe po ju shpallim lajmin e mirë, që ju nga #këto gjëra të kota të ktheheni te Perëndia e gjallë që ka bërë qiellin, dheun, detin dhe të gjitha gjërat që janë në ta."
 "Në brezat që shkuan ai la që të gjitha kombet të ndjekin rrugët e tyre;"
 "por nuk e la veten e vet pa dëshmi, duke bërë mirë, duke na dhënë shira prej qiellit dhe stinë të frytshme dhe duke i mbushur zemrat tona me ushqim dhe gëzim''."
 "Duke thënë këto gjëra, mundën t'i ndalin me vështirësi turmat që të mos u bëjnë flijim."

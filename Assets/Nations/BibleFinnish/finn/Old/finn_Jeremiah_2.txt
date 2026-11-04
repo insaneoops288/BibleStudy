@@ -16,7 +16,7 @@
 "Nophin ja Tahpanheksen lapset musertavat myös sinun pääs."
 "Näitä sinä itselles teet, ettäs hylkäät Herran, sinun Jumalas, kuin hän sinua tahtoo viedä oikiaa tietä."
 "Ja nyt, mitä sinun on Egyptin tiellä, ettäs tahdot juoda Sihorin vettä? eli mitä sinun on Assyria tiellä, ettäs tahdot juoda virran vedestä."
-"Sinun pahuutes tähden sinua nuhdellaan, ja sinun tottelemattomuutes tähden sinua kuritetaan; niin tiedä ja näe, kuinka viheliäinen ja surkia se on, ettäs hylkäät Herran, sinun Jumalas, ja et pelkää minua, sanoo Herra, Herra Zebaot."
+"Sinun pahuutes tähden sinua nuhdellaan, ja sinun tottelemattomuutes tähden sinua kuritetaan; niin tiedä ja näe, kuinka viheliäinen ja #surkia se on, ettäs hylkäät Herran, sinun Jumalas, ja et pelkää minua, sanoo Herra, Herra Zebaot."
 "Sillä minä olen jo vanhasta taittanut sinun ikees, ja särkenyt sinun juttas, ja sinä sanoit
 "Mutta minä olen istuttanut sinun parhaaksi viinapuuksi ja totiseksi siemeneksi; kuinka sinä olet nyt muuttunut niin karvaaksi ja metsäviikunapuuksi."
 "Sillä jos sinä vielä lipiällä pesisit itses ja ottaisit paljon saippuaa, kuitenkin sinun pahuutes näkyy minun edessäni, sanoo Herra, Herra."
@@ -25,7 +25,7 @@
 "Älä ole paljasjaloin ja älä janoa kärsi . Mutta sinä sanoit
 "Niinkuin varas tulee häpiään, kuin hän saadaan kiinni, niin pitää myös Israelin huoneen häpiään tuleman, kuningastensa, valtamiestensä, pappeinsa ja prophetainsa kanssa."
 "Jotka puulle sanovat
-"Kussa ovat jumalas, jotka sinä itselles tehnyt olet? Nouskaan ne, katso, taitavatko he sinua auttaa sinun hätäs aikana; sillä niin monta kuin sinulla, Juuda, on kaupunkia, niin monta on myös sinulla jumalaa."
+"Kussa ovat jumalas, jotka sinä itselles tehnyt olet? Nouskaan ne, katso, taitavatko he sinua auttaa sinun hätäs #aikana; sillä niin monta kuin sinulla, Juuda, on kaupunkia, niin monta on myös sinulla jumalaa."
 "Miksi te tahdotte vielä riidellä minun kanssani? Te olette kaikki minusta luopuneet, sanoo Herra."
 "Turhaan minä rankaisin teidän lapsianne, ei he ota kuritusta; sillä teidän miekkanne syö teidän prophetanne, niinkuin turmeleva jalopeura."
 "Sinä paha sukukunta, ota vaari Herran sanasta

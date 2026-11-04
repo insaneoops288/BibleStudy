@@ -16,7 +16,7 @@
 "A zdělal nádoby, kteréž byly na stole, misy jeho a lžice jeho, a koflíky jeho, a přikryvadla k přikrývání z čistého zlata."
 "Udělal také svícen z zlata čistého, z taženého zlata udělal svícen; sloupec jeho i prutové jeho, misky jeho, koule jeho i květové jeho z něho byli."
 "Šest pak prutů bylo po stranách jeho, tři prutové s jedné strany jeho, a tři prutové s druhé strany jeho."
-"Tři misky na způsob pecky mandlové udělány byly na prutu jednom, a koule a květ, a tři misky na způsob pecky mandlové udělány na prutu druhém, a koule a květ; tak i na jiných šesti prutech z svícnu vycházejících."
+"Tři misky na způsob pecky mandlové udělány byly na prutu jednom, a koule a květ, a tři misky na způsob #pecky mandlové udělány na prutu druhém, a koule a květ; tak i na jiných šesti prutech z svícnu vycházejících."
 "Na svícnu také byly čtyři misky, udělané na způsob mandlové pecky, a koule jeho i květové jeho."
 "A byla koule pode dvěma pruty z něho, a koule druhá pode dvěma pruty z něho, a koule třetí pode dvěma pruty z něho, a tak pod šesti pruty vycházejícími z něho."
 "Koule jejich i prutové jejich z něho byli, všecko hned jedním tažením z zlata čistého."

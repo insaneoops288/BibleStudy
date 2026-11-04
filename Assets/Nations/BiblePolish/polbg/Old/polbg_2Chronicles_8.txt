@@ -10,9 +10,9 @@
 "Z tych było przedniejszych przełożonych, których miał król Salomon, dwieście i pięćdziesiąt panujących nad ludem."
 "Lecz córkę Faraonową przeniósł Salomon z miasta Dawidowego do domu, który jej był zbudował; albowiem mówił
 "Tedy Salomon ofiarował całopalenia Panu na ołtarzu Pańskim, który był zbudował przed przysionkiem."
-"Cokolwiek zwyczajnie na każdy dzień ofiarować miano według rozkazania Mojżeszowego w sabaty, na nowiu miesiąca, i w święta uroczyste, trzy kroć do roku, w święto przaśników, i w święto tygodni, i w święto kuczek."
-"I postanowił według rozrządzenia Dawida, ojca swego, rozdziały kapłanów w posługiwaniu ich, i Lewitów w powinnościach ich, aby chwalili Boga, i służyli przy kapłanach według zwyczaju każdego dnia; odźwiernych też w rzędach ich przy każdej bramie ; albowiem tak było rozkazanie Dawida, męża Bożego."
+"Cokolwiek zwyczajnie na każdy dzień ofiarować miano według rozkazania Mojżeszowego w sabaty, na nowiu miesiąca, i w święta #uroczyste, trzy kroć do roku, w święto przaśników, i w święto tygodni, i w święto kuczek."
+"I postanowił według rozrządzenia Dawida, ojca swego, rozdziały kapłanów w posługiwaniu ich, i Lewitów w powinnościach ich, aby chwalili Boga, i służyli przy #kapłanach według zwyczaju każdego dnia; odźwiernych też w rzędach ich przy każdej bramie ; albowiem tak było rozkazanie Dawida, męża Bożego."
 "I nie ustąpili od rozkazania królewskiego o kapłanach i o Lewitach, około wszystkich rzeczy i około skarbów."
 "A tak dogotowano wszystkiego dzieła Salomonowego, od onego dnia, którego założony był dom Pański, aż do wystawienia jego; i tak dokończony był dom Pański."
 "Tedy jechał Salomon do Asyjongaber i do Elot, które jest nad brzegiem morskim w ziemi Edomskiej."
-"I posłał mu Hiram przez rękę sług swoich okręty i żeglarzy świadomych morza, którzy jechali z sługami Salomonowymi do Ofir, a wziąwszy stamtąd czterysta i pięćdziesiąt talentów złota, przynieśli je do króla Salomona."
+"I posłał mu Hiram przez rękę sług swoich okręty i żeglarzy świadomych morza, którzy jechali z sługami #Salomonowymi do Ofir, a wziąwszy stamtąd czterysta i pięćdziesiąt talentów złota, przynieśli je do króla Salomona."

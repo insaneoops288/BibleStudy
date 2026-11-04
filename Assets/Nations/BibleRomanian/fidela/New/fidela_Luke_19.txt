@@ -34,7 +34,7 @@
 "Iar ei au spus
 "Și l-au adus la Isus; și și-au aruncat hainele pe măgăruș și l-au așezat pe Isus călare pe el."
 "Și pe când mergea el, ei își așterneau hainele pe cale."
-"Și pe când se apropia, chiar la coborâșul muntelui Măslinilor, toată mulțimea discipolilor a început să se bucure și să laude pe Dumnezeu cu voce tare din cauza tuturor faptelor puternice pe care le văzuseră,"
+"Și pe când se apropia, chiar la coborâșul muntelui Măslinilor, toată mulțimea discipolilor a început să se bucure #și să laude pe Dumnezeu cu voce tare din cauza tuturor faptelor puternice pe care le văzuseră,"
 "Spunând
 "Și unii dintre fariseii din mulțime, i-au spus
 "Iar el a răspuns și le-a zis

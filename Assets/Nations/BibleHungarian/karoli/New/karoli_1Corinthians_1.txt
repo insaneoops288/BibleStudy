@@ -1,5 +1,5 @@
 "Pál, Jézus Krisztusnak Isten akaratából elhívott apostola, és Sosthenes, az atyafi."
-"Az Isten gyülekezetének, a mely Korinthusban van, a Krisztus Jézusban megszentelteknek, elhívott szenteknek, mindazokkal egybe, a kik a mi Urunk Jézus Krisztus nevét segítségül hívják bármely helyen, a magokén és a miénken
+"Az Isten gyülekezetének, a mely Korinthusban van, a Krisztus Jézusban megszentelteknek, elhívott szenteknek, mindazokkal egybe, a kik #a mi Urunk Jézus Krisztus nevét segítségül hívják bármely helyen, a magokén és a miénken
 "Kegyelem néktek és békesség Istentõl, a mi Atyánktól, és az Úr Jézus Krisztustól."
 "Hálát adok az én Istenemnek mindenkor ti felõletek az Isten ama kegyelméért, mely néktek a Krisztus Jézusban adatott,"
 "Mivelhogy mindenben meggazdagodtatok õ benne, minden beszédben és minden ismeretben,"
@@ -7,7 +7,7 @@
 "Úgy, hogy semmi kegyelmi ajándék nélkül nem szûkölködtök, várván a mi Urunk Jézus Krisztusnak megjelenését,"
 "A ki meg is erõsít titeket mindvégig feddhetetlenségben, a mi Urunk Jézus Krisztusnak napján."
 "Hû az Isten, ki elhívott titeket az õ Fiával, a mi Urunk Jézus Krisztussal való közösségre,"
-"Kérlek azonban titeket atyámfiai, a mi Urunk Jézus Krisztus nevére, hogy mindnyájan egyképen szóljatok és ne legyenek köztetek szakadások, de legyetek teljesen egyek ugyanazon értelemben és ugyanazon véleményben."
+"Kérlek azonban titeket atyámfiai, a mi Urunk Jézus Krisztus nevére, hogy mindnyájan egyképen szóljatok és #ne legyenek köztetek szakadások, de legyetek teljesen egyek ugyanazon értelemben és ugyanazon véleményben."
 "Mert megtudtam felõletek atyámfiai a Kloé embereitõl, hogy versengések vannak köztetek."
 "Azt értem pedig, hogy mindenitek ezt mondja
 "Vajjon részekre osztatott-é a Krisztus? Vajjon Pál feszíttetett-é meg érettetek, vagy a Pál nevére kereszteltettetek-é meg?"

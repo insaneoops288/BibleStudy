@@ -14,4 +14,4 @@
 "Në qoftë se ofrimi i tij për Zotin është një olokaust zogjsh, të sjellë turtuj ose pëllumba të rinj."
 "Prifti do t'i paraqesë në altar, do t'u këpusë kokën, do t'i tymosë këto mbi altar, dhe gjaku i tij do të rrjedhë mbi një krah të altarit."
 "Pastaj do t'u heqë gushën me gjithë puplat dhe do t'i hedhë pranë altarit, në drejtim të lindjes, në vendin e hirit."
-"Do t'i thyejë pastaj duke i mbajtur nga krahët, por pa i ndarë në dy pjesë, dhe prifti do t'i tymosë mbi altar, mbi drutë e vëna mbi zjarr. Ky është një olokaust, një flijim i bërë me zjarr me erë të këndshme për Zotin""."
+"Do t'i thyejë pastaj duke i mbajtur nga krahët, por pa i ndarë në dy pjesë, dhe prifti do t'i tymosë mbi altar, #mbi drutë e vëna mbi zjarr. Ky është një olokaust, një flijim i bërë me zjarr me erë të këndshme për Zotin""."

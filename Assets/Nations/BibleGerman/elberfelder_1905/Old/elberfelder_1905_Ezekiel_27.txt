@@ -24,7 +24,7 @@
 "Sie handelten mit dir in Prachtgewändern, in Mänteln von blauem Purpur und Buntwirkerei, und in Schätzen von gezwirnten Garnen, in gewundenen und festen Schnüren, gegen deine Waren."
 "Die Tarsisschiffe waren deine Karawanen für deinen Tauschhandel. Und du wurdest angefüllt und sehr herrlich im Herzen der Meere."
 "Deine Ruderer führten dich auf großen Wassern; der Ostwind zerschellte dich im Herzen der Meere."
-"Deine Güter und dein Absatz, deine Tauschwaren, deine Seeleute und deine Steuermänner, die Ausbesserer deiner Lecke und die deine Waren eintauschten, und alle deine Kriegsleute, die in dir sind, samt deiner ganzen Schar, die in deiner Mitte ist, werden ins Herz der Meere fallen am Tage deines Sturzes."
+"Deine Güter und dein Absatz, deine Tauschwaren, deine Seeleute und deine Steuermänner, die Ausbesserer deiner Lecke und die deine Waren eintauschten, und alle deine Kriegsleute, #die in dir sind, samt deiner ganzen Schar, die in deiner Mitte ist, werden ins Herz der Meere fallen am Tage deines Sturzes."
 "Von dem Getöse des Geschreies deiner Steuermänner werden die Gefilde erbeben."
 "Und alle, die das Ruder führen, die Seeleute, alle Steuermänner des Meeres, werden aus ihren Schiffen steigen, werden ans Land treten;"
 "und sie werden ihre Stimmeüber dich hören lassen und bitterlich schreien; und sie werden Staub auf ihre Häupter werfen und sich in der Asche wälzen."

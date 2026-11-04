@@ -4,7 +4,7 @@
 "Zemërbutësia juaj le të njihet nga të gjithë njerëzit; Zoti është afër."
 "Mos u shqetësoni për asgjë, por, në çdo gjë, ia parashtroni kërkesat tuaja Perëndisë me anë lutjesh dhe përgjërimesh, me falënderim."
 "Dhe paqja e Perëndisë, që ia tejkalon çdo zgjuarësie, do të ruajë zemrat tuaja dhe mendjet tuaja në Krishtin Jezus."
-"Së fundi, vëllezër, të gjitha gjërat që janë të vërteta, të gjitha gjërat që janë të ndershme, të gjitha gjërat që janë të drejta, të gjitha gjërat që janë të pastra, të gjitha gjërat që janë të dashura, të gjitha gjërat që janë me famë të mirë, nëse ka ndonjë virtyt dhe nëse ka ndonjë lëvdim, këto mendoni."
+"Së fundi, vëllezër, të gjitha gjërat që janë të vërteta, të gjitha gjërat që janë të ndershme, të gjitha gjërat që janë të drejta, të gjitha gjërat që janë të #pastra, të gjitha gjërat që janë të dashura, të gjitha gjërat që janë me famë të mirë, nëse ka ndonjë virtyt dhe nëse ka ndonjë lëvdim, këto mendoni."
 "Ato gjëra që keni mësuar, marrë dhe dëgjuar nga mua dhe patë në mua, i bëni, dhe Perëndia i paqes do të jetë me ju."
 "Dhe u gëzova shumë në Zotin, sepse më në fund kujdesi juaj për mua u rigjallërua; në realitet ju edhe e kishit në mendje, por nuk kishit rast."
 "Nuk e them këtë se jam në nevojë, sepse unë jam mësuar të kënaqem në gjëndjen që jam."

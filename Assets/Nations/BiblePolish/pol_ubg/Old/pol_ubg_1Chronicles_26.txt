@@ -28,5 +28,5 @@
 "I wszystko, co poświęcił Samuel, widzący, a także Saul, syn Kisza, Abner, syn Nera, i Joab, syn Serui, oraz wszystko, co zostało poświęcone, było pod opieką Szelomita i jego braci."
 "Spośród Isharytów
 "Spośród Chebronitów
-"Spośród Chebronitów pochodził Jeriasz, naczelnik Chebronitów, według rodowodów jego ojców. W czterdziestym roku panowania Dawida szukano i znaleziono pośród nich bardzo dzielnych ludzi w Jazer w Gileadzie."
-"A jego braci, ludzi dzielnych, było dwa tysiące siedmiuset naczelników rodów, których król Dawid ustanowił zwierzchnikami nad Rubenitami, nad Gadytami i nad połową pokolenia Manassesa, by byli odpowiedzialni za wszystkie sprawy Boże i sprawy króla."
+"Spośród Chebronitów pochodził Jeriasz, naczelnik Chebronitów, według rodowodów jego ojców. W czterdziestym roku panowania #Dawida szukano i znaleziono pośród nich bardzo dzielnych ludzi w Jazer w Gileadzie."
+"A jego braci, ludzi dzielnych, było dwa tysiące siedmiuset naczelników rodów, których król Dawid ustanowił zwierzchnikami nad Rubenitami, #nad Gadytami i nad połową pokolenia Manassesa, by byli odpowiedzialni za wszystkie sprawy Boże i sprawy króla."

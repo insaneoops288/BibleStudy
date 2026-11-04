@@ -6,7 +6,7 @@
 "Niin käske nyt hakata minulle sedripuita Libanonista, ja että minun palveliani olisivat sinun palveliais kanssa
 "Mutta kuin Hiram kuuli Salomon puheen, iloitsi hän suuresti ja sanoi
 "Ja Hiram lähetti Salomon tykö, sanoen
-"Ja minun palveliani pitää ne vetämän Libanonista mereen, ja minä annan ne panna lauttoihin merellä, ja vien siihen paikkaan, kuhunka sinä minun käsket, ja minä hajoittelen ne siellä, ja anna sinä ne sieltä ottaa. Mutta tee sinä myös minun tahtoni, ettäs annat minun perheelleni leivän ainetta."
+"Ja minun palveliani pitää ne vetämän Libanonista mereen, ja minä annan ne panna lauttoihin merellä, ja vien siihen paikkaan, kuhunka sinä minun käsket, ja #minä hajoittelen ne siellä, ja anna sinä ne sieltä ottaa. Mutta tee sinä myös minun tahtoni, ettäs annat minun perheelleni leivän ainetta."
 "Ja niin antoi Hiram Salomolle sedripuita ja honkia, niin paljo kuin hän tahtoi."
 "Ja Salomo antoi Hiramille kaksikymmentä tuhatta koria nisuja, hänen perheellensä ravinnoksi, ja kaksikymmentä koria survottua öljyä
 "Ja Herra antoi Salomolle taidon, niinkuin hän hänelle luvannut oli. Ja Salomon ja Hiramin välillä oli rauha, ja he tekivät myös liiton keskenänsä."

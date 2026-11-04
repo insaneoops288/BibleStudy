@@ -1,4 +1,4 @@
-"És lakozának a nép fejedelmei Jeruzsálemben, a többi nép pedig sorsot vete, hogy minden tíz emberbõl vinnének egyet Jeruzsálembe, a szent városba lakóul, a többi kilencz pedig [marad a maga] városában."
+"És lakozának a nép fejedelmei Jeruzsálemben, a többi nép pedig sorsot vete, hogy minden tíz emberbõl #vinnének egyet Jeruzsálembe, a szent városba lakóul, a többi kilencz pedig [marad a maga] városában."
 "És áldá a nép mindazon férfiakat, a kik önkéntesen vállalkozának arra, hogy Jeruzsálemben lakoznak."
 "Ezek pedig a tartomány fejei, a kik Jeruzsálemben megtelepedének; de Júda városaiban lakozék kiki az õ örökségében, városaikban
 "Jeruzsálemben azért megtelepedének a Júda fiai közül és Benjámin fiai közül
@@ -14,7 +14,7 @@
 "És az õ atyjokfiai, vitéz férfiak, százhuszonnyolczan, elõljárójok volt pedig Zabdiel, a Haggedólim fia."
 "A Léviták közül pedig
 "És Sabbethai és Józabád, az Isten házának külsõ munkája felett felügyelõk valának a Léviták fejei közül,"
-"És Mattánia, - a Mika fia, ki Zabdi fia, ki Asáf fia vala, - a ki vezetõje volt a hálaadó éneklésnek, s elkezdé azt az imádság után, és Bakbukia, a ki másodrendû vala atyjafiai között, és Abda, Sammua fia, ki Gálál fia, ki Jeduthun fia vala;"
+"És Mattánia, - a Mika fia, ki Zabdi fia, ki Asáf fia vala, - a ki vezetõje volt a hálaadó éneklésnek, s elkezdé azt #az imádság után, és Bakbukia, a ki másodrendû vala atyjafiai között, és Abda, Sammua fia, ki Gálál fia, ki Jeduthun fia vala;"
 "A Léviták összesen a szent városban
 "A kapunállók pedig
 "A többi Izráeliták pedig, a papok, a Léviták [lakozának] Júdának minden városaiban, kiki az õ örökségében."

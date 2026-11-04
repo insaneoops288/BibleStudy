@@ -11,7 +11,7 @@ Jethro said, "Blessed be the LORD, who has delivered you from the Egyptians and 
 Now I know that the LORD is greater than all gods, because he delivered the people from the Egyptians, when they dealt arrogantly with them."
 And Jethro, Moses' father-in-law, brought a burnt offering and sacrifices to God; and Aaron came with all the elders of Israel to eat bread with Moses' father-in-law in the presence of God.
 The next day Moses sat as judge for the people, while the people stood around him from morning until evening.
-When Moses' father-in-law saw all that he was doing for the people, he said, "What is this that you are doing for the people? Why do you sit alone, while all the people stand around you from morning until evening?"
+When Moses' father-in-law saw all that he was doing for the people, he said, "What is this that you are doing #for the people? Why do you sit alone, while all the people stand around you from morning until evening?"
 Moses said to his father-in-law, "Because the people come to me to inquire of God.
 When they have a dispute, they come to me and I decide between one person and another, and I make known to them the statutes and instructions of God."
 Moses' father-in-law said to him, "What you are doing is not good.
@@ -19,7 +19,7 @@ You will surely wear yourself out, both you and these people with you. For the t
 Now listen to me. I will give you counsel, and God be with you! You should represent the people before God, and you should bring their cases before God;
 teach them the statutes and instructions and make known to them the way they are to go and the things they are to do.
 You should also look for able men among all the people, men who fear God, are trustworthy, and hate dishonest gain; set such men over them as officers over thousands, hundreds, fifties and tens.
-Let them sit as judges for the people at all times; let them bring every important case to you, but decide every minor case themselves. So it will be easier for you, and they will bear the burden with you.
+Let them sit as judges for the people at all times; let them bring every important case to you, but decide #every minor case themselves. So it will be easier for you, and they will bear the burden with you.
 If you do this, and God so commands you, then you will be able to endure, and all these people will go to their home in peace."
 So Moses listened to his father-in-law and did all that he had said.
 Moses chose able men from all Israel and appointed them as heads over the people, as officers over thousands, hundreds, fifties, and tens.

@@ -14,9 +14,9 @@
 "I rozpálila se prchlivost Hospodinova na Izraele, a vydal je v ruku loupežníků, kteříž je zloupili; vydal je, pravím, v ruku nepřátel jejich vůkol, tak že nemohli více ostáti před nepřátely svými."
 "Kamžkoli vycházeli, ruka Hospodinova byla proti nim ke zlému, jakož byl mluvil Hospodin, a jakož byl zapřisáhl jim Hospodin; i ssouženi byli náramně."
 "Vzbuzoval pak Hospodin soudce, kteříž vysvobozovali je z rukou zhoubců jejich."
-"Ale ani soudců svých neposlouchali, nebo smilnili, odcházejíce za bohy cizími, a klaněli se jim. Odcházeli rychle s cesty, po kteréž chodili otcové jejich, tak že poslouchati majíce přikázaní Hospodinových, nečinili toho."
-"A když vzbuzoval jim Hospodin soudce, býval Hospodin s každým soudcím, a vysvobozoval je z ruky nepřátel jejich po všecky dny soudce; (nebo želel Hospodin naříkání jejich, k němuž je přivodili ti, kteříž je ssužovali a utiskali)."
-"Po smrti pak soudce navracejíce se zase, pohoršovali cest svých více nežli otcové jejich, odcházejíce za bohy cizími, a sloužíce i klanějíce se jim; nic neulevili z skutků jejich zlých a cesty jejich převrácené."
+"Ale ani soudců svých neposlouchali, nebo smilnili, odcházejíce za bohy cizími, a klaněli se jim. Odcházeli rychle #s cesty, po kteréž chodili otcové jejich, tak že poslouchati majíce přikázaní Hospodinových, nečinili toho."
+"A když vzbuzoval jim Hospodin soudce, býval Hospodin s každým soudcím, a vysvobozoval je z ruky nepřátel jejich po #všecky dny soudce; (nebo želel Hospodin naříkání jejich, k němuž je přivodili ti, kteříž je ssužovali a utiskali)."
+"Po smrti pak soudce navracejíce se zase, pohoršovali cest svých více nežli otcové jejich, odcházejíce za bohy cizími, #a sloužíce i klanějíce se jim; nic neulevili z skutků jejich zlých a cesty jejich převrácené."
 "Protož rozpálila se prchlivost Hospodinova proti Izraelovi, a řekl
 "Já také více nevyhladím žádného od tváři jejich z národů, kterýchž zanechal Jozue, když umřel,"
 "Abych skrze ně zkušoval Izraele, budou-li ostříhati cesty přikázaní Hospodinových, chodíce v nich, jakož ostříhali otcové jejich, čili nic."

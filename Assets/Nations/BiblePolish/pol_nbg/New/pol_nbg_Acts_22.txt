@@ -1,6 +1,6 @@
 "Mężowie, bracia i ojcowie! Posłuchajcie teraz mojej obrony względem was."
 "A kiedy usłyszeli, że przemawia do nich hebrajskim językiem, bardziej okazali spokój. Więc powiedział
-"Ja jestem mężem żydowskim, który się urodził w Tarsie Cylicji, zaś wychował w tym mieście, u nóg Gamaliela. Zatem wykształconym w zgodzie z dokładnością ojczystego Prawa oraz będącym gorliwym wielbicielem Boga, jak wy wszyscy dzisiaj jesteście."
+"Ja jestem mężem żydowskim, który się urodził w Tarsie Cylicji, zaś wychował w tym mieście, u nóg Gamaliela. Zatem #wykształconym w zgodzie z dokładnością ojczystego Prawa oraz będącym gorliwym wielbicielem Boga, jak wy wszyscy dzisiaj jesteście."
 "Nadto tym, co prześladował tę naukę aż do śmierci, wiążąc oraz wydając do więzień mężczyzn i kobiety,"
 "na co jest mi świadkiem arcykapłan oraz cała starszyzna. Od nich wziąłem listy do braci i wyruszyłem do Damaszku, by tych, co tam będą związać i przyprowadzić do Jerozolimy, aby zostali ukarani."
 "Zaś kiedy wyruszyłem i koło południa zbliżałem się do Damaszku, zdarzyło mi się, że nagle, z nieba, wokół, ogarnęło mnie blaskiem wielkie światło."
@@ -27,4 +27,4 @@
 "Zaś tysiącznik podszedł i mu powiedział
 "A tysiącznik odpowiedział
 "Więc zaraz odstąpili od niego ci, co zamierzali go przesłuchiwać; a tysiącznik zaczął się bać bo poznał, że jest Rzymianinem i że zdarzyło się go związać."
-"Zaś nazajutrz, chcąc niezawodnie poznać o co został oskarżony przez Żydów, uwolnił go z pęt oraz kazał się zejść arcykapłanom i całemu ich Sanhedrynowi. Sprowadził także Pawła oraz postawił go przed nimi."
+"Zaś nazajutrz, chcąc niezawodnie poznać o co został oskarżony przez Żydów, uwolnił go z pęt oraz kazał #się zejść arcykapłanom i całemu ich Sanhedrynowi. Sprowadził także Pawła oraz postawił go przed nimi."

@@ -1,7 +1,7 @@
 "Y dijo Dios a Jacob
 "Entonces Jacob dijo a su familia y a todos los que con él <I>estaban</I>
 "Y levantémonos, y subamos a Bet-el; y allí haré altar al Dios que me respondió en el día de mi angustia, y ha sido conmigo en el camino que he andado."
-"Así dieron a Jacob todos los dioses ajenos que <I>había</I>  en poder de ellos, y los zarcillos que <I>estaban</I>  en sus orejas; y Jacob los escondió debajo de <I>un</I>  alcornoque, que <I>estaba</I>  en Siquem."
+"Así dieron a Jacob todos los dioses ajenos que <I>había</I>  en poder de ellos, y los zarcillos que <I>estaban</I> # en sus orejas; y Jacob los escondió debajo de <I>un</I>  alcornoque, que <I>estaba</I>  en Siquem."
 "Y salieron, y el terror de Dios fue sobre las ciudades que <I>había</I>  en sus alrededores, y no siguieron tras los hijos de Jacob."
 "Y llegó Jacob a Luz, que <I>está</I>  en tierra de Canaán, (esta es Bet-el) él y todo el pueblo que con él <I>estaba</I> ;"
 "y edificó allí un altar, y llamó el lugar El-betel, porque allí se le había aparecido Dios, cuando huía de su hermano."

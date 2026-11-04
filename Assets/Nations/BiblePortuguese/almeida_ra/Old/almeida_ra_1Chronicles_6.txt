@@ -46,7 +46,7 @@
 "filho de Ameci, filho de Bani, filho de Semer,"
 "filho de Mali, filho de Musi, filho de Merári, filho de Levi."
 "Mas Arão e seus irmãos, os levitas, foram designados para todo o serviço do tabernáculo da casa de Deus."
-"Mas Arão e seus filhos ofereciam os sacrifícios sobre o altar do holocausto e o incenso sobre o altar do incenso, para todo o serviço do lugar santíssimo, e para fazer expiação a favor de Israel, conforme tudo quanto Moisés, servo de Deus, havia ordenado
+"Mas Arão e seus filhos ofereciam os sacrifícios sobre o altar do holocausto e o incenso sobre o altar do incenso, para todo #o serviço do lugar santíssimo, e para fazer expiação a favor de Israel, conforme tudo quanto Moisés, servo de Deus, havia ordenado
 "Estes foram os filhos de Arão
 "de quem foi filho Buqui, de quem foi filho Uzi, de quem foi filho Zeraías,"
 "de quem foi filho Meraiot, de quem foi filho Amarias, de quem foi filho Aitub,"

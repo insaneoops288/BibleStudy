@@ -6,7 +6,7 @@
 "Kështu, mbas dyzet ditësh, ndodhi që Noeu hapi dritaren që kishte bërë në arkë,"
 "dhe nisi jashtë korbin, që vazhdoi të shkojë para dhe prapa, deri sa u thanë ujërat mbi tokë."
 "Pastaj lëshoi pëllumbin për të parë në se ujërat ishin pakësuar mbi sipërfaqen e tokës."
-"Por pëllumbi nuk gjeti dot vendin ku të mbështeste këmbën e tij dhe u kthye përsëri në arkë, sepse kishte ende ujëra mbi sipërfaqen e tërë tokës; dhe ai shtriu dorën, e kapi dhe e tërhoqi brenda arkës."
+"Por pëllumbi nuk gjeti dot vendin ku të mbështeste këmbën e tij dhe u kthye përsëri në arkë, sepse kishte #ende ujëra mbi sipërfaqen e tërë tokës; dhe ai shtriu dorën, e kapi dhe e tërhoqi brenda arkës."
 "Priti atëherë shtatë ditë të tjera, pastaj e dërgoi përsëri pëllumbin jashtë arkës."
 "Dhe pëllumbi u kthye tek ai aty nga mbrëmja; dhe ja, ai kishte në sqep një gjethe ulliri të këputur, të njomë; kështu Noeu kuptoi se ujërat ishin tërhequr nga toka."
 "Atëherë priti shtatë ditë të tjera, pastaj e lëshoi jashtë pëllumbin, por ky nuk u kthye më tek ai."

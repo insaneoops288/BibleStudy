@@ -46,7 +46,7 @@
 "Amsin pojan, Banin pojan, Samerin pojan,"
 "Mahelin pojan, Musin pojan, Merarin pojan, Levin pojan."
 "Ja Leviläiset heidän veljensä olivat annetut kaikkinaisiin virkoihin Jumalan huoneen asuinsiassa."
-"Ja Aaron ja hänen poikansa olivat sytyttäjät polttouhrin alttarilla ja suitsutusalttarilla kaikkinaisissa töissä siinä kaikkein pyhimmässä, sovittamassa Israelia, juuri niinkuin Moses Jumalan palvelia käskenyt oli."
+"Ja Aaron ja hänen poikansa olivat sytyttäjät polttouhrin alttarilla ja suitsutusalttarilla kaikkinaisissa töissä #siinä kaikkein pyhimmässä, sovittamassa Israelia, juuri niinkuin Moses Jumalan palvelia käskenyt oli."
 "Nämät ovat Aaronin lapset
 "Bukki hänen poikansa, Ussi hänen poikansa, Seraja hänen poikansa,"
 "Merajot hänen poikansa, Amaria hänen poikansa, Ahitob hänen poikansa,"

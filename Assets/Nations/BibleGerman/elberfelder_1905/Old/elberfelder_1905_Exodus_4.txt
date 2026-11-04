@@ -6,7 +6,7 @@
 "Und Jehova sprach weiter zu ihm
 "Und er sprach
 "Und es wird geschehen, wenn sie dir nicht glauben und nicht auf die Stimme des ersten Zeichens hören, so werden sie der Stimme des anderen Zeichens glauben."
-"Und es wird geschehen, wenn sie selbst diesen zwei Zeichen nicht glauben und nicht auf deine Stimme hören, so sollst du von dem Wasser des Stromes nehmen und es auf das Trockene gießen; und das Wasser, das du aus dem Strome nehmen wirst, es wird zu Blut werden auf dem Trockenen."
+"Und es wird geschehen, wenn sie selbst diesen zwei Zeichen nicht glauben und nicht auf deine Stimme hören, so sollst du von dem Wasser des Stromes #nehmen und es auf das Trockene gießen; und das Wasser, das du aus dem Strome nehmen wirst, es wird zu Blut werden auf dem Trockenen."
 "Und Mose sprach zu Jehova
 "Da sprach Jehova zu ihm
 "Und nun gehe hin, und ich will mit deinem Munde sein und dich lehren, was du reden sollst."

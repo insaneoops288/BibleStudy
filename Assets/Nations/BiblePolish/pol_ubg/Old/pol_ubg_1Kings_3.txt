@@ -12,7 +12,7 @@
 "Oto uczyniłem według twoich słów
 "Dam ci także to, o co nie prosiłeś, a więc bogactwo i sławę, tak że wśród królów nie będzie nikogo równego tobie po wszystkie twoje dni."
 "A jeśli będziesz chodził moimi drogami, przestrzegając moich ustaw i przykazań, jak postępował Dawid, twój ojciec, wtedy przedłużę twoje dni."
-"A gdy Salomon obudził się, zrozumiał, że to był sen. Wrócił więc do Jerozolimy, stanął przed arką przymierza PANA i złożył całopalenia i ofiary pojednawcze oraz wyprawił ucztę wszystkim swoim sługom."
+"A gdy Salomon obudził się, zrozumiał, że to był sen. Wrócił więc do Jerozolimy, stanął przed #arką przymierza PANA i złożył całopalenia i ofiary pojednawcze oraz wyprawił ucztę wszystkim swoim sługom."
 "Wtedy przyszły do króla dwie kobiety, nierządnice, i stanęły przed nim."
 "Jedna z kobiet powiedziała
 "A trzeciego dnia po moim porodzie urodziła również ta kobieta. I byłyśmy razem, nie było z nami nikogo innego w domu; tylko my dwie byłyśmy w tym domu."

@@ -7,14 +7,14 @@
 "Huwag silang makikisama sa patutot o lapastangan, ni makikisama sa babaing inihiwalay ng kaniyang asawa
 "Papagbabanalin mo nga siya; sapagka't siya ang naghahandog ng tinapay ng inyong Dios
 "At kung ang anak na babae ng isang saserdote ay magpakarumi sa pagpapatutot, ay kaniyang binigyan ng kahihiyan ang kaniyang ama
-"At ang pangulong saserdote sa kanilang magkakapatid, na binuhusan ang ulo ng langis na pang-pahid, at itinalaga, upang makapagbihis ng mga banal na bihisan ay huwag maglulugay ng buhok ng kaniyang ulo ni huwag hahapakin ang kaniyang mga suot;"
+"At ang pangulong saserdote sa kanilang magkakapatid, na binuhusan ang ulo ng langis na pang-pahid, at itinalaga, upang makapagbihis ng #mga banal na bihisan ay huwag maglulugay ng buhok ng kaniyang ulo ni huwag hahapakin ang kaniyang mga suot;"
 "Ni papasok sa kinaroroonan ng bangkay nino man, ni magpapakahawa dahil sa kaniyang ama, o dahil sa kaniyang ina;"
 "Ni lalabas sa santuario, ni lalapastanganin ang santuario ng kaniyang Dios; sapagka't ang talaga na langis na pang-pahid ng kaniyang Dios ay nasa ulo niya
 "At siya'y magaasawa sa isang dalagang malinis."
 "Sa bao o inihiwalay, sa lamas o patutot ay huwag siyang magaasawa; kundi sa isang dalagang malinis sa kaniyang sariling bayan magaasawa siya."
 "At huwag niyang dudumhan ang kaniyang mga binhi sa gitna ng kaniyang bayan
 "At sinalita ng Panginoon kay Moises, na sinasabi,"
-"Iyong salitain kay Aaron, na iyong sasabihin, Sinoman sa iyong mga binhi, sa buong panahon ng kaniyang lahi, na magkaroon ng anomang kapintasan, ay huwag lumapit na maghandog ng tinapay ng kaniyang Dios."
+"Iyong salitain kay Aaron, na iyong sasabihin, Sinoman sa iyong mga binhi, sa buong panahon ng kaniyang #lahi, na magkaroon ng anomang kapintasan, ay huwag lumapit na maghandog ng tinapay ng kaniyang Dios."
 "Sapagka't sinomang magkaroon ng kapintasan ay huwag lalapit; maging ang taong bulag, o pilay, o magkaroon ng ilong na ungod, o ang mayroong kuntil,"
 "O ang taong magkaroon ng paang bali o kamay na bali,"
 "O taong kuba, o unano, o magkaroon ng kapintasan sa kaniyang mata, o galisin, o langibin, o luslusin

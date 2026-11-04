@@ -9,7 +9,7 @@
 "Y pasado mucho tiempo, y siendo ya peligrosa la navegación, habiendo ya pasado el ayuno, Pablo [les] amonestaba,"
 "diciéndoles
 "Pero el centurión creía más al piloto y al patrón de la nave, que a lo que Pablo decía."
-"Y porque el puerto era incómodo para invernar, la mayoría acordaron zarpar también de allí, por si pudiesen arribar a Fenice, [que es] un puerto de Creta que mira hacia el nordeste y sudeste, e invernar allí."
+"Y porque el puerto era incómodo para invernar, la mayoría acordaron zarpar también de allí, por si pudiesen arribar #a Fenice, [que es] un puerto de Creta que mira hacia el nordeste y sudeste, e invernar allí."
 "Y soplando una suave brisa del sur, pareciéndoles que ya tenían lo que deseaban, izando velas, iban costeando Creta."
 "Pero no mucho después se levantó en su contra un viento tempestuoso, que se llama Euroclidón."
 "Y siendo arrebatada la nave, y no pudiendo resistir contra el viento, resignados, dejamos [la nave] a la deriva."

@@ -1,6 +1,6 @@
 "Tenía Noemí un pariente de su marido, varón valiente <I>y</I>  de esfuerzo, de la familia de Elimelec, el cual se llamaba Booz."
 "Y Rut la moabita dijo a Noemí
-"Fue pues, y llegando, espigó en el campo en pos de los segadores; y aconteció a caso, que la suerte (<I>o heredad</I> ) del campo <I>era</I>  de Booz, el cual <I>era</I>  de la parentela de Elimelec."
+"Fue pues, y llegando, espigó en el campo en pos de los segadores; y aconteció a caso, que la suerte #(<I>o heredad</I> ) del campo <I>era</I>  de Booz, el cual <I>era</I>  de la parentela de Elimelec."
 "Y he aquí que Booz vino de Belén, y dijo a los segadores
 "Y Booz dijo a su criado, el que estaba <I>puesto</I>  sobre los segadores
 "Y el criado, que estaba <I>puesto</I>  sobre los segadores, respondió y dijo

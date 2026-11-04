@@ -1,7 +1,7 @@
 "Toe het die familiehoofde van die Leviete nader gekom na Eleásar, die priester, en na Josua, die seun van Nun, en na die familiehoofde van die stamme van die kinders van Israel,"
 "en met hulle gespreek in Silo, in die land Kanaän, en gesê
 "Toe het die kinders van Israel aan die Leviete, volgens die bevel van die HERE, uit hulle erfdeel die volgende stede met hulle weiveld afgestaan
-"Die lot het uitgekom vir die geslagte van die Kehatiete; en die kinders van Aäron, die priester, uit die Leviete, het ontvang uit die stam van Juda en uit die stam van Símeon en uit die stam van Benjamin, deur die lot, dertien stede;"
+"Die lot het uitgekom vir die geslagte van die Kehatiete; en die kinders van Aäron, die priester, uit die Leviete, het ontvang uit #die stam van Juda en uit die stam van Símeon en uit die stam van Benjamin, deur die lot, dertien stede;"
 "en die ander kinders van Kehat, uit die geslagte van die stam van Efraim en uit die stam van Dan en uit die halwe stam van Manasse, deur die lot, tien stede;"
 "en die kinders van Gerson, uit die geslagte van die stam van Issaskar en uit die stam van Aser en uit die stam van Náftali en uit die halwe stam van Manasse in Basan, deur die lot, dertien stede;"
 "en die kinders van Merári, volgens hulle geslagte, uit die stam van Ruben en uit die stam van Gad en uit die stam van Sébulon, twaalf stede."
@@ -41,5 +41,5 @@
 "Al die stede van die Leviete, tussen die besitting van die kinders van Israel in, was agt en veertig stede met hulle weiveld."
 "Hierdie stede het stad vir stad rondom hulle weiveld gehad; so was dit met al hierdie stede."
 "So het die HERE dan die hele land aan Israel gegee wat Hy hulle vaders met 'n eed beloof het om hulle te gee; en hulle het dit in besit geneem en daarin gaan woon."
-"En die HERE het hulle aan alle kante rus gegee net soos Hy hulle vaders met 'n eed beloof het; en niemand van al hul vyande het voor hulle standgehou nie; al hulle vyande het die HERE in hulle hand gegee."
+"En die HERE het hulle aan alle kante rus gegee net soos Hy hulle vaders met 'n eed beloof het; en #niemand van al hul vyande het voor hulle standgehou nie; al hulle vyande het die HERE in hulle hand gegee."
 "Geen woord van al die goeie woorde wat die HERE met die huis van Israel gespreek het, het onvervuld gebly nie; alles het uitgekom."

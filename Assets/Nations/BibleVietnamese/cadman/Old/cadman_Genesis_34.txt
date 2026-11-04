@@ -4,7 +4,7 @@
 "Si-chem nói cùng Hê-mô, cha mình, rằng
 "Vả, Gia-cốp hay được rằng chàng làm hư danh giá Ði-na, con gái mình, nhưng các con trai mình mắc ở ngoài đồng cùng súc vật, nên người làm thinh đến khi họ trở về."
 "Lúc đó, Hê-mê, cha Si-chem, đến cùng Gia-cốp đặng nói chuyện cùng người."
-"Các con trai Gia-cốp ở ngoài đồng trở về, vừa hay được việc ấy, bèn nổi nóng và giận lắm, vì việc ô danh mà Si-chem đã xui cho họ Y-sơ-ra-ên, nằm cùng con gái của Gia-cốp, là việc chẳng bao giờ nên làm."
+"Các con trai Gia-cốp ở ngoài đồng trở về, vừa hay được việc ấy, bèn nổi nóng và giận lắm, vì việc ô #danh mà Si-chem đã xui cho họ Y-sơ-ra-ên, nằm cùng con gái của Gia-cốp, là việc chẳng bao giờ nên làm."
 "Hê-mô nói cùng họ rằng
 "Hãy kết sui-gia cùng nhau; các ông gả con gái cho chúng tôi, rồi cưới các con gái chúng tôi lại."
 "Hãy ở cùng chúng tôi; xứ sẵn dành cho các ông; hãy ở, buôn bán và dựng cơ nghiệp tại đó."
@@ -22,7 +22,7 @@
 "Nhưng họ bằng lòng ở cùng chúng ta đặng thành một dân, miễn khi nào các người nam trong bọn mình phải chịu phép cắt bì chính như mọi người nam của họ vậy."
 "Thế thì, há rằng các súc vật, các tài sản và các bầy của họ sẽ chẳng thuộc về chúng ta sao? thôi, ta hãy nhận theo họ điều đó đi, để họ ở chung cùng chúng ta."
 "Mọi người đi ra cửa thành mình đều nghe theo lời Hê-mô và Si-chem, con trai người, và hết thảy người nam đi ra cửa thành mình đều chịu phép cắt bì."
-"Ðến ngày thứ ba, khi mọi người đương đau đớn, thì hai con trai Gia-cốp, là Si-mê-ôn và Lê-vi, anh nàng Ði-na, cầm mỗi người một thanh gươm, thừa khi ai nấy yên ổn, xông vào thành giết hết thảy người nam."
+"Ðến ngày thứ ba, khi mọi người đương đau đớn, thì hai con trai Gia-cốp, là Si-mê-ôn và Lê-vi, anh nàng Ði-na, #cầm mỗi người một thanh gươm, thừa khi ai nấy yên ổn, xông vào thành giết hết thảy người nam."
 "Hai người lại lấy gươm giết Hê-mô và Si-chem, con trai người, đem nàng Ði-na ra khỏi nhà Si-chem, rồi đi."
 "Vì cớ họ làm mất danh giá em gái mình, nên các con trai Gia-cốp xông vào những xác chết và phá cướp thành;"
 "bắt các bầy chiên, bò, lừa, cùng vật chi trong thành và ngoài đồng;"

@@ -2,8 +2,8 @@
 "io commisi la guardia di Gerusalemme ad Hanani, mio fratello; e ad Hanania, mastro del palazzo conciossiachè veramente egli fosse uomo leale, e temesse Iddio più che molti altri;"
 "e dissi loro
 "Or la città era ampia e grande, e vi era poco popolo dentro, e le case non erano riedificate."
-"E L’IDDIO mio mi mise in cuore d’adunar gli uomini notabili, i magistrati, e il popolo, per descriverli secondo le lor genealogie. Ed io trovai il libro della descrizione di quelli che erano ritornati la prima volta; ed in esso trovai scritto così
-"Questi son quei della provincia che ritornarono dalla cattività, d’infra i prigioni che Nebucadnesar, re di Babilonia, trasportò; ed i quali se ne rivennero in Gerusalemme, e in Giuda, ciascuno alla sua città;"
+"E L’IDDIO mio mi mise in cuore d’adunar gli uomini notabili, i magistrati, e il popolo, per descriverli secondo le lor genealogie. #Ed io trovai il libro della descrizione di quelli che erano ritornati la prima volta; ed in esso trovai scritto così
+"Questi son quei della provincia che ritornarono dalla cattività, d’infra i prigioni che Nebucadnesar, re di Babilonia, #trasportò; ed i quali se ne rivennero in Gerusalemme, e in Giuda, ciascuno alla sua città;"
 "i quali vennero con Zorobabel, Iesua, Neemia, Azaria, Raamia, Nahamani, Mardocheo, Bilsan, Misperet, Bigvai, Nehum, e Baana. Il numero degli uomini del popolo d’Israele, era questo
 "I figliuoli di Paros erano duemila censettantadue;"
 "i figliuoli di Sefatia, trecensettantadue;"
@@ -70,4 +70,4 @@
 "Or una parte de’ capi delle famiglie paterne fecero doni per l’opera. Hattirsata diede nel tesoro mille dramme d’oro, cinquanta bacini, e cinquecentrenta robe da sacerdoti."
 "Ed altri dei capi delle famiglie paterne diedero nel tesoro della fabbrica ventimila dramme d’oro, e duemila dugento mine d’argento."
 "E ciò che il rimanente del popolo diede, fu ventimila dramme d’oro, e duemila mine d’argento, e sessantasette robe da sacerdoti."
-"E i sacerdoti, e i Leviti, e i portinai, e i cantori, e que’ del popolo, e i Netinei, e in somma tutto Israele, abitarono nelle lor città; e il settimo mese essendo giunto, i figliuoli d’Israele erano nelle lor città."
+"E i sacerdoti, e i Leviti, e i portinai, e i cantori, e que’ del popolo, e i Netinei, e in #somma tutto Israele, abitarono nelle lor città; e il settimo mese essendo giunto, i figliuoli d’Israele erano nelle lor città."

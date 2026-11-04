@@ -6,7 +6,7 @@
 "Od czego niektórzy odstąpili i zwrócili się ku czczej gadaninie;"
 "Chcąc być nauczycielami prawa, nie rozumiejąc ani tego, co mówią, ani tego, co stanowczo twierdzą."
 "Wiemy zaś, że prawo jest dobre, jeśli ktoś je właściwie stosuje."
-"Rozumiemy, że prawo nie jest ustanowione dla sprawiedliwego, ale dla nieprawych i nieposłusznych, dla bezbożnych i grzeszników, dla niegodziwych i nieczystych, dla ojcobójców, matkobójców i morderców;"
+"Rozumiemy, że prawo nie jest ustanowione dla sprawiedliwego, ale dla nieprawych i nieposłusznych, dla #bezbożnych i grzeszników, dla niegodziwych i nieczystych, dla ojcobójców, matkobójców i morderców;"
 "Dla rozpustników, mężczyzn współżyjących ze sobą, handlarzy ludźmi, dla kłamców, krzywoprzysięzców i dla wszystkiego, co jest przeciwne zdrowej nauce;"
 "Zgodnie z chwalebną ewangelią błogosławionego Boga, którą mi powierzono."
 "Dziękuję więc temu, który mnie umocnił, Chrystusowi Jezusowi, naszemu Panu, że uznał mnie za wiernego, przeznaczając mnie do posługi;"

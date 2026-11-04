@@ -7,7 +7,7 @@
 "Disse, porém, Josafá
 "Então, disse o rei de Israel a Josafá
 "Então, o rei de Israel chamou um eunuco e disse
-"E o rei de Israel e Josafá, rei de Judá, estavam assentados cada um no seu trono, vestidos de vestiduras reais, na praça, à entrada da porta de Samaria; e todos os profetas profetizavam na sua presença."
+"E o rei de Israel e Josafá, rei de Judá, estavam assentados cada um no seu trono, vestidos de #vestiduras reais, na praça, à entrada da porta de Samaria; e todos os profetas profetizavam na sua presença."
 "E Zedequias, filho de Quenaana, fez para si uns chifres de ferro e disse
 "E todos os profetas profetizaram assim, dizendo
 "E o mensageiro que foi chamar a Micaías falou-lhe, dizendo
@@ -40,7 +40,7 @@
 "Assim, dormiu Acabe com seus pais; e Acazias, seu filho, reinou em seu lugar."
 "E Josafá, filho de Asa, começou a reinar sobre Judá no quarto ano de Acabe, rei de Israel."
 "E era Josafá da idade de trinta e cinco anos quando começou a reinar; e vinte e cinco anos reinou em Jerusalém; e era o nome de sua mãe Azuba, filha de Sili."
-"E andou em todos os caminhos de Asa, seu pai, não se desviou deles, fazendo o que era recto aos olhos do SENHOR. Todavia, os altos não se tiraram; ainda o povo sacrificava e queimava incenso nos altos."
+"E andou em todos os caminhos de Asa, seu pai, não se desviou deles, fazendo o que era recto aos #olhos do SENHOR. Todavia, os altos não se tiraram; ainda o povo sacrificava e queimava incenso nos altos."
 "E Josafá esteve em paz com o rei de Israel."
 "Quanto ao mais dos actos de Josafá, e ao poder que mostrou, e como guerreou, porventura, não está escrito no Livro das Crónicas dos Reis de Judá?"
 "Também desterrou da terra o resto dos rapazes escandalosos que ficaram nos dias de Asa, seu pai."

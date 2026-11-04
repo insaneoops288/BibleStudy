@@ -6,7 +6,7 @@
 "Sehingga apabila seorang memegang saudaranya di rumah ayahnya dan berkata
 "maka pada waktu itu saudaranya akan menjawab
 "Sungguh, Yerusalem telah runtuh dan Yehuda telah rubuh; sebab perkataan mereka dan perbuatan mereka melawan TUHAN dan mereka menantang kemuliaan hadirat-Nya."
-"Air muka mereka menyatakan kejahatan mereka, dan seperti orang Sodom, mereka dengan terang-terangan menyebut-nyebut dosanya, tidak lagi disembunyikannya. Celakalah orang-orang itu! Sebab mereka mendatangkan malapetaka kepada dirinya sendiri."
+"Air muka mereka menyatakan kejahatan mereka, dan seperti orang Sodom, mereka dengan terang-terangan menyebut-nyebut dosanya, #tidak lagi disembunyikannya. Celakalah orang-orang itu! Sebab mereka mendatangkan malapetaka kepada dirinya sendiri."
 "Katakanlah berbahagia orang benar! Sebab mereka akan memakan hasil pekerjaannya."
 "Celakalah orang fasik! Malapetaka akan menimpanya, sebab mereka akan diperlakukan menurut perbuatannya sendiri."
 "Adapun umat-Ku, penguasa mereka ialah anak-anak, dan perempuan-perempuan memerintah atasnya. Hai umat-Ku, pemimpin-pemimpinmu adalah penyesat, dan jalan yang kamu tempuh mereka kacaukan!"
@@ -21,6 +21,6 @@
 "cincin meterai dan anting-anting hidung;"
 "pakaian-pakaian pesta, jubah-jubah, selendang-selendang dan pundi-pundi;"
 "cermin-cermin, baju-baju dalam dari kain lenan, ikat-ikat kepala dan baju-baju luar."
-"Maka sebagai ganti rempah-rempah harum akan ada bau busuk, sebagai ganti ikat pinggang seutas tali, sebagai ganti selampit rambut kepala yang gundul, sebagai ganti pakaian hari raya sehelai kain kabung; dan tanda selar sebagai ganti kemolekan."
+"Maka sebagai ganti rempah-rempah harum akan ada bau busuk, sebagai ganti ikat pinggang seutas tali, sebagai ganti selampit rambut #kepala yang gundul, sebagai ganti pakaian hari raya sehelai kain kabung; dan tanda selar sebagai ganti kemolekan."
 "Orang-orangmu akan tewas oleh pedang, dan pahlawan-pahlawanmu oleh perang."
 "Pintu-pintu gerbang Sion akan mengaduh dan berkabung, dan kota itu akan seperti perempuan bulus yang duduk di bumi."

@@ -3,7 +3,7 @@
 "Të vrarët e tyre do të hidhen tutje, kufomat e tyre do të qelben dhe malet do të shkrihen me gjakun e tyre."
 "Tërë ushtria e qiellit do të zhduket, qiejtë do të mblidhen rrotull si një libër, por tërë ushtria e tyre do të bjerë, ashtu si bie gjethi nga hardhia, si bie një fryt i fishkur nga fiku."
 "Me qenë se shpata ime është dehur në qiell, ja ajo po gatitet të bjerë mbi Edomin, mbi popullin që kam vendosur të shfaroset, për të vënë në vend drejtësinë."
-"Shpata e Zotit është plot me gjak, është ngopur me dhjamë, me gjakun e qengjave dhe të cjepve, me dhjamin e veshkave të deshve; sepse Zoti bën një flijim në Botsrah dhe një kërdi të madhe në vendin e Edomit."
+"Shpata e Zotit është plot me gjak, është ngopur me dhjamë, me gjakun e qengjave dhe të cjepve, me dhjamin e #veshkave të deshve; sepse Zoti bën një flijim në Botsrah dhe një kërdi të madhe në vendin e Edomit."
 "Bashkë me ta bien buaj, mëzetër tok me dema; toka e tyre është vaditur me gjak, pluhuri i tyre është ngopur me dhjamë."
 "Sepse është dita e hakmarrjes të Zotit, viti i shpërblimit për çështjen e Sionit."
 "Përrenjtë do të kthehen në katran, pluhuri i vet në squfur, toka e vet do të bëhet rrëshirë e zjarrtë."

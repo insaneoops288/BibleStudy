@@ -8,7 +8,7 @@
 "Synom także Izraelskim powiedz, mówiąc
 "A jeśliby nie miał i córki, tedy dacie dziedzictwo jego braci jego."
 "A jeśliby i braci nie miał, tedy dacie dziedzictwo jego braci ojca jego."
-"A jeśliby nie było braci ojca jego, tedy dacie dziedzictwo jego pokrewnemu jego, najbliższemu jego z domu jego, aby je odziedziczył. A będzie to synom Izraelskim za ustawę prawną, jako rozkazał Pan Mojżeszowi."
+"A jeśliby nie było braci ojca jego, tedy dacie dziedzictwo jego pokrewnemu jego, najbliższemu jego z domu #jego, aby je odziedziczył. A będzie to synom Izraelskim za ustawę prawną, jako rozkazał Pan Mojżeszowi."
 "Potem rzekł Pan do Mojżesza
 "A gdy ją oglądasz, przyłączon będziesz do ludu twego i ty, jako jest przyłączony Aaron, brat twój."
 "Przeto żeście byli odpornymi słowu mojemu na puszczy Syn, przy poswarku zgromadzenia, i nie poświęciliście mię przy wodach przed oczyma ich. Oneć to są wody poswarku w Kades, na puszczy Syn."

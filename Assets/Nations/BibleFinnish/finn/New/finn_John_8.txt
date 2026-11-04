@@ -41,7 +41,7 @@
 "Te teette teidän isänne tekoja. Niin he sanoivat hänelle
 "Jesus sanoi heille
 "Miksi ette ymmärrä tätä minun puhettani? Ette taida kuulla sitä minun sanaani."
-"Te olette isästä perkeleestä, ja teidän isänne himoja te tahdotte tehdä. Hän on ollut murhaaja alusta, ja ei pysynyt totuudessa; sillä ei totuus ole hänessä. Kuin hän puhuu valhetta, niin hän puhuu omastansa; sillä hän on valehtelia ja valheen isä."
+"Te olette isästä perkeleestä, ja teidän isänne himoja te tahdotte tehdä. Hän on ollut murhaaja alusta, ja ei pysynyt totuudessa; sillä #ei totuus ole hänessä. Kuin hän puhuu valhetta, niin hän puhuu omastansa; sillä hän on valehtelia ja valheen isä."
 "Mutta että minä sanon totuuden, niin ette usko minua."
 "Kuka teistä nuhtelee minua synnin tähden? jos minä sanon teille totuuden, miksi ette usko minua?"
 "Joka on Jumalasta, se kuulee Jumalan sanat; sentähden ette kuule, ettette Jumalasta ole."

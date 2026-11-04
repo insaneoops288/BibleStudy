@@ -1,4 +1,4 @@
-"No décimo quinto ano do reinado de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes tetrarca da Galileia, seu irmão Filipe tetrarca da região da Itureia e de Traconites, e Lisânias tetrarca de Abilene,"
+"No décimo quinto ano do reinado de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes tetrarca da #Galileia, seu irmão Filipe tetrarca da região da Itureia e de Traconites, e Lisânias tetrarca de Abilene,"
 "sendo Anás e Caifás sumos sacerdotes, veio a palavra de Deus a João, filho de Zacarias, no deserto."
 "E ele percorreu toda a circunvizinhança do Jordão, pregando o baptismo de arrependimento para remissão de pecados;"
 "como está escrito no livro das palavras do profeta Isaías

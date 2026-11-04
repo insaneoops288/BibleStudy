@@ -1,7 +1,7 @@
 "Wtedy PAN posłał Natana do Dawida. Ten przybył do niego i powiedział
 "Bogaty miał bardzo dużo owiec i wołów."
 "A ubogi nie miał nic oprócz jednej małej owieczki, którą kupił i żywił. Wyrosła przy nim wraz z jego dziećmi, jadła jego chleb i piła z jego kubka, spała na jego łonie i była mu jak córka."
-"I przyszedł gość do tego bogatego, a jemu było żal wziąć ze swoich owiec albo ze swoich wołów, aby przyrządzić ucztę dla gościa, który do niego przyszedł. Wziął więc owieczkę tego ubogiego i przyrządził ją dla człowieka, który do niego przyszedł."
+"I przyszedł gość do tego bogatego, a jemu było żal wziąć ze swoich owiec albo ze swoich wołów, aby przyrządzić ucztę #dla gościa, który do niego przyszedł. Wziął więc owieczkę tego ubogiego i przyrządził ją dla człowieka, który do niego przyszedł."
 "Wtedy Dawid mocno zapłonął gniewem na tego człowieka i powiedział do Natana
 "Za owcę wynagrodzi poczwórnie, dlatego że tak uczynił i nie miał litości."
 "Wtedy Natan powiedział do Dawida
@@ -17,7 +17,7 @@
 "I starsi jego domu przyszli do niego, aby go podnieść z ziemi. On jednak nie chciał i nie jadł z nimi chleba."
 "A siódmego dnia dziecko umarło. I słudzy Dawida bali się powiedzieć mu, że dziecko umarło. Mówili bowiem
 "Gdy jednak Dawid zobaczył, że jego słudzy szepcą między sobą, zrozumiał, że dziecko umarło. Dawid więc zapytał swoich sług
-"Wtedy Dawid wstał z ziemi, umył się i namaścił, zmienił swoje szaty i wszedł do domu PANA, aby oddać mu pokłon. Potem wrócił do swego domu i kazał przynieść posiłek, i położyli przed nim chleb, i jadł."
+"Wtedy Dawid wstał z ziemi, umył się i namaścił, zmienił swoje szaty i wszedł do domu PANA, aby oddać #mu pokłon. Potem wrócił do swego domu i kazał przynieść posiłek, i położyli przed nim chleb, i jadł."
 "Jego słudzy zapytali go
 "Odpowiedział
 "Lecz teraz, gdy już umarło, dlaczego miałbym pościć? Czy mogę je przywrócić do życia? Ja pójdę do niego, ale ono do mnie nie wróci."
@@ -28,4 +28,4 @@
 "Teraz więc zbierz resztę ludu, oblegaj miasto i zdobądź je, abym to nie ja zdobył miasto i aby nie przypisano zwycięstwa memu imieniu."
 "Dawid zebrał więc cały lud, udał się do Rabby, walczył przeciwko niej i zdobył ją."
 "Zdjął też koronę z głowy jej króla, która ważyła talent złota i była ozdobiona drogocennymi kamieniami. I włożono ją na głowę Dawida. Wywiózł też z miasta bardzo wielki łup."
-"Wyprowadził mieszkańców miasta i podał ich pod piły, żelazne brony i żelazne siekiery i zmusił ich do przejścia przez piec do wypalania cegieł. Tak uczynił ze wszystkimi miastami synów Ammona. Potem Dawid wrócił wraz z całym ludem do Jerozolimy."
+"Wyprowadził mieszkańców miasta i podał ich pod piły, żelazne brony i żelazne siekiery i zmusił ich do przejścia przez piec #do wypalania cegieł. Tak uczynił ze wszystkimi miastami synów Ammona. Potem Dawid wrócił wraz z całym ludem do Jerozolimy."

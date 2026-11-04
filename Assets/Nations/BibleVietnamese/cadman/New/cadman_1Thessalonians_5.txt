@@ -20,7 +20,7 @@
 "chớ khinh dể các lời tiên tri;"
 "hãy xem xét mọi việc, điều chi lành thì giữ lấy."
 "Bất cứ việc gì tựa như điều ác, thì phải tránh đi."
-"Nguyền xin chính Ðức Chúa Trời bình an khiến anh em nên thánh trọn vẹn, và nguyền xin tâm thần, linh hồn, và thân thể của anh em đều được giữ vẹn, không chỗ trách được, khi Ðức Chúa Jêsus Christ chúng ta đến!"
+"Nguyền xin chính Ðức Chúa Trời bình an khiến anh em nên thánh trọn vẹn, và nguyền xin tâm thần, linh hồn, và #thân thể của anh em đều được giữ vẹn, không chỗ trách được, khi Ðức Chúa Jêsus Christ chúng ta đến!"
 "Ðấng đã gọi anh em là thành tín, chính Ngài sẽ làm việc đó."
 "Hỡi anh em, hãy cầu nguyện cho chúng tôi với."
 "Hãy lấy cái hôn thánh mà chào hết thảy anh em."

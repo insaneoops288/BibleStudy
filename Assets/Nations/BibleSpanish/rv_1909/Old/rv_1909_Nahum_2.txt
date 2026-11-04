@@ -10,4 +10,4 @@
 "Vacía, y agotada, y despedazada está, y el corazón derretido
 "¿Qué es de la morada de los leones, y de la majada de los cachorros de los leones, donde se recogía el león, y la leona, y los cachorros del león, y no había quien les pusiese miedo?"
 "El león arrebataba en abundancia para sus cachorros, y ahogaba para sus leonas, y henchía de presa sus cavernas, y de robo sus moradas."
-"Heme aquí contra ti, dice Jehová de los ejércitos. Encenderé y reduciré á humo tus carros, y espada devorará tus leoncillos; y raeré de la tierra tu robo, y nunca más se oirá voz de tus embajadores."
+"Heme aquí contra ti, dice Jehová de los ejércitos. Encenderé y reduciré á humo tus carros, y espada devorará #tus leoncillos; y raeré de la tierra tu robo, y nunca más se oirá voz de tus embajadores."

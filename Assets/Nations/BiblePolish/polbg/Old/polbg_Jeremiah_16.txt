@@ -1,7 +1,7 @@
 "I stało się słowo Pańskie do mnie, mówiąc
 "Nie pojmuj sobie żony, ani miej synów ani córek na tem miejscu."
 "Albowiem tak mówi Pan o synach i o córkach spłodzonych na tem miejscu, i o matkach ich, które ich zrodziły, i o ojcach ich, którzy ich spłodzili w tej ziemi
-"Śmierciami ciężkiemi pomrą; nie będą ich płakać, ani ich pochowają, ale miasto gnoju na wierzchu ziemi będą; a mieczem i głodem wytraceni będą; i będą trupy ich pokarmem ptastwu niebieskiemu i i zwierzowi ziemskiemu."
+"Śmierciami ciężkiemi pomrą; nie będą ich płakać, ani ich pochowają, ale miasto gnoju na wierzchu ziemi będą; a #mieczem i głodem wytraceni będą; i będą trupy ich pokarmem ptastwu niebieskiemu i i zwierzowi ziemskiemu."
 "Bo tak mówi Pan
 "Gdy pomrą wielcy i mali w tej ziemi, nie będą pogrzebieni, ani ich płakać będą; i nie będą się rzezać, ani sobie łysiny czynić dla nich;"
 "Ani im dadzą jeść, aby ich w smutku cieszyli nad umarłym; ani im dadzą pić z kubka pocieszenia po ojcu ich i po matce ich;"

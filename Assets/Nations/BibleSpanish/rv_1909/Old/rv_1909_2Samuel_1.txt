@@ -18,7 +18,7 @@
 "(Dijo también que enseñasen al arco á los hijos de Judá. He aquí que está escrito en el libro del derecho
 "Perecido ha la gloria de Israel sobre tus montañas! ­Cómo han caído los valientes!"
 "No lo denunciéis en Gath, No deis las nuevas en las plazas de Ascalón; Porque no se alegren las hijas de los Filisteos, Porque no salten de gozo las hijas de los incircuncisos."
-"Montes de Gilboa, Ni rocío ni lluvia caiga sobre vosotros, ni seáis tierras de ofrendas; Porque allí fué desechado el escudo de los valientes, El escudo de Saúl, como si no hubiera sido ungido con aceite."
+"Montes de Gilboa, Ni rocío ni lluvia caiga sobre vosotros, ni seáis tierras de ofrendas; Porque allí fué desechado #el escudo de los valientes, El escudo de Saúl, como si no hubiera sido ungido con aceite."
 "Sin sangre de muertos, sin grosura de valientes, El arco de Jonathán nunca volvió, Ni la espada de Saúl se tornó vacía."
 "Saúl y Jonathán, amados y queridos en su vida, En su muerte tampoco fueron apartados
 "Hijas de Israel, llorad sobre Saúl, Que os vestía de escarlata en regocijos, Que adornaba vuestras ropas con ornamentos de oro."

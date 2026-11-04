@@ -16,13 +16,13 @@
 "Así alumbre vuestra luz delante de los hombres, para que vean vuestras obras buenas, y glorifiquen a vuestro Padre que está en los cielos."
 "No penséis que he venido para desatar la ley o los profetas; no he venido para desatarla, sino para cumplirla."
 "Porque de cierto os digo, <I>que</I>  hasta que perezca el cielo y la tierra, ni una jota ni una tilde perecerá de la Ley, hasta que todas las cosas sean cumplidas."
-"De manera que cualquiera que desatare uno de estos mandamientos muy pequeños, y así enseñare a los hombres, muy pequeño será llamado en el Reino de los cielos; mas cualquiera que <I>los</I>  hiciere y <I>los</I>  enseñare,  éste será llamado grande en el Reino de los cielos."
+"De manera que cualquiera que desatare uno de estos mandamientos muy pequeños, y así enseñare a los hombres, muy pequeño será llamado en el Reino #de los cielos; mas cualquiera que <I>los</I>  hiciere y <I>los</I>  enseñare,  éste será llamado grande en el Reino de los cielos."
 "Porque os digo, que si vuestra justicia <I>(rectitud)</I>  no fuere mayor que la de los escribas y de los fariseos, no entraréis en el Reino de los cielos."
 "Oísteis que fue dicho a los antiguos
 "Mas yo os digo, que cualquiera que se enojare descontroladamente con su hermano, será culpado del juicio; y cualquiera que dijere a su hermano
 "Por tanto, si trajeres tu presente al altar, y allí te acordares de que tu hermano tiene algo contra ti,"
 "deja allí tu presente delante del altar, y ve, vuelve primero en amistad con tu hermano, y entonces ven y ofrece tu presente."
-"Concíliate con tu adversario presto, entre tanto que estás con él en el camino; para que no acontezca que el adversario te entregue al juez, y el juez te entregue al alguacil, y seas echado en prisión."
+"Concíliate con tu adversario presto, entre tanto que estás con él en el camino; para que no acontezca que #el adversario te entregue al juez, y el juez te entregue al alguacil, y seas echado en prisión."
 "De cierto te digo, que no saldrás de allí, hasta que pagues el último cuadrante."
 "Oísteis que fue dicho a los antiguos
 "Mas yo os digo, que cualquiera que mira a <I>la</I>  mujer para codiciarla, ya adulteró con ella en su corazón."

@@ -26,7 +26,7 @@
 "Jego ojciec Izaak powiedział mu
 "Podszedł więc i pocałował go. Gdy poczuł zapach jego szat, błogosławił mu, mówiąc
 "Niech Bóg da ci z rosy nieba i żyzność ziemi oraz obfitość zboża i wina."
-"Niech ludzie ci służą i niech ci się kłaniają narody. Bądź panem twoich braci i niech ci się kłaniają synowie twojej matki. Niech będzie przeklęty, kto cię przeklina, a niech będzie błogosławiony, kto cię błogosławi."
+"Niech ludzie ci służą i niech ci się kłaniają narody. Bądź panem twoich braci i niech ci się #kłaniają synowie twojej matki. Niech będzie przeklęty, kto cię przeklina, a niech będzie błogosławiony, kto cię błogosławi."
 "Gdy Izaak skończył błogosławić Jakuba i ledwie Jakub odszedł sprzed oblicza swego ojca Izaaka, jego brat Ezaw wszedł z łowów."
 "On także przygotował smaczną potrawę, przyniósł ją swemu ojcu i powiedział mu
 "Jego ojciec Izaak zapytał go

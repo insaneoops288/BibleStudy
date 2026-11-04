@@ -12,13 +12,13 @@
 "Ðến sáng, người Giu-đa họp đảng lập mưu, mà thề nguyện rằng chẳng ăn chẳng uống cho đến giết được Phao-lô."
 "Có hơn bốn mươi người đã lập mưu đó."
 "Họ đến kiếm các thầy tế lễ cả và các trưởng lão mà rằng
-"Vậy bây giờ các ông với tòa công luận hãy xin quản cơ bắt nó đến đứng trước mặt các ông, như là muốn tra xét việc nó cho kỹ càng hơn nữa; còn chúng tôi sửa soạn sẵn để khi nó chưa đến đây thì giết đi."
+"Vậy bây giờ các ông với tòa công luận hãy xin quản cơ bắt nó đến đứng trước mặt các ông, như là muốn tra #xét việc nó cho kỹ càng hơn nữa; còn chúng tôi sửa soạn sẵn để khi nó chưa đến đây thì giết đi."
 "Nhưng có con trai của chị Phao-lô biết được mưu gian ấy, đến nơi đồn, vào nói trước cho Phao-lô."
 "Phao-lô bèn gọi một đội trưởng mà nói rằng
 "Vậy, đội trưởng đem chàng đi, dẫn đến nhà quản cơ, và thưa rằng
 "Quản cơ nắm tay người trai trẻ, kéo xê ra, hỏi rằng
 "Thưa rằng
-"Nhưng xin quan chớ tin họ, vì có hơn bốn mươi người trong bọn họ lập kế hại Phao-lô, đã thề nguyện với nhau chẳng ăn uống chi hết trước khi chưa giết được người; hiện bây giờ, họ đã sắm sẵn, chỉ đợi quan trả lời đó thôi."
+"Nhưng xin quan chớ tin họ, vì có hơn bốn mươi người trong bọn họ lập kế hại Phao-lô, đã thề nguyện với nhau chẳng #ăn uống chi hết trước khi chưa giết được người; hiện bây giờ, họ đã sắm sẵn, chỉ đợi quan trả lời đó thôi."
 "Quản cơ cho gã trai trẻ ấy về, cấm không cho nói với ai về điều người đã tỏ ra cùng mình."
 "Ðoạn, quản cơ đòi hai viên đội trưởng, dặn rằng
 "Lại cũng phải sắm ngựa nữa, để đưa Phao-lô vô sự đến nơi quan tổng đốc Phê-lít."

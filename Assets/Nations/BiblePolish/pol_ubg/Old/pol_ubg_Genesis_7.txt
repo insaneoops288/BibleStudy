@@ -11,7 +11,7 @@
 "W sześćsetnym roku życia Noego, w drugim miesiącu, siedemnastego dnia tego miesiąca, w tym właśnie dniu, przerwały się wszystkie źródła wielkiej głębi i otworzyły się okna nieba."
 "I deszcz padał na ziemię czterdzieści dni i czterdzieści nocy."
 "W tym właśnie dniu weszli do arki Noe oraz jego synowie – Sem, Cham i Jafet, a z nimi żona Noego i trzy żony jego synów."
-"Oni i wszelkie zwierzęta według swego rodzaju, wszelkie bydło według swego rodzaju, wszelkie zwierzęta pełzające, które pełzają po ziemi według swego rodzaju, wszelkie ptaki według swego rodzaju i wszelkie stworzenia skrzydlate."
+"Oni i wszelkie zwierzęta według swego rodzaju, wszelkie bydło według swego rodzaju, wszelkie zwierzęta pełzające, które #pełzają po ziemi według swego rodzaju, wszelkie ptaki według swego rodzaju i wszelkie stworzenia skrzydlate."
 "I tak weszły do Noego do arki, po parze z każdego ciała, w którym było tchnienie życia."
 "A te, które weszły, samiec i samica z każdego ciała weszły, jak mu Bóg rozkazał. I zamknął PAN za nim drzwi."
 "A potop trwał na ziemi czterdzieści dni i wody wezbrały, i podniosły arkę, i unosiła się nad ziemią."
@@ -20,5 +20,5 @@
 "Wody wezbrały na piętnaście łokci wzwyż i góry zostały zakryte."
 "Zginęło więc wszelkie ciało poruszające się na ziemi
 "Wszystko, co miało w nozdrzach tchnienie życia, wszystko, co żyło na suchym lądzie, zginęło."
-"Tak zostało zgładzone wszelkie stworzenie, które było na powierzchni ziemi, od człowieka aż do bydła, zwierząt pełzających i ptactwa niebieskiego. Wszystko to zostało zgładzone z ziemi. Pozostał tylko Noe i ci, którzy z nim byli w arce."
+"Tak zostało zgładzone wszelkie stworzenie, które było na powierzchni ziemi, od człowieka aż do bydła, zwierząt pełzających i ptactwa #niebieskiego. Wszystko to zostało zgładzone z ziemi. Pozostał tylko Noe i ci, którzy z nim byli w arce."
 "A wody wezbrały nad ziemią sto pięćdziesiąt dni."

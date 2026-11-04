@@ -1,6 +1,6 @@
 "Atunci Samson a mers la Gaza și a văzut acolo o curvă și a intrat la ea."
 "[Și li s-a spus ]gaziților, zicând
-"Și Samson s-a culcat până la miezul nopții; și la miezul nopții s-a sculat și a luat porțile cetății și cei doi stâlpi, cu tot cu zăvor, și a plecat cu ele și [le]-a pus pe umerii săi și le-a dus pe vârful unui deal care [este] înaintea Hebronului."
+"Și Samson s-a culcat până la miezul nopții; și la miezul nopții s-a sculat și a luat porțile cetății și cei doi stâlpi, cu tot #cu zăvor, și a plecat cu ele și [le]-a pus pe umerii săi și le-a dus pe vârful unui deal care [este] înaintea Hebronului."
 "Și s-a întâmplat, după aceasta, că a iubit o femeie în Valea Sorec al cărei nume [era] Dalila."
 "Și domnii filistenilor s-au urcat la ea și i-au spus
 "Și Dalila i-a spus lui Samson
@@ -28,4 +28,4 @@
 "Și Samson a chemat pe DOMNUL și a spus
 "Și Samson a apucat cei doi stâlpi din mijloc pe care stătea casa și de care era susținută, pe unul cu mâna lui dreaptă și pe celălalt cu stânga lui."
 "Și Samson a spus
-"Atunci frații săi și toată casa tatălui său au coborât și l-au luat și [l]-au urcat și l-au îngropat între Țoreea și Eștaol, în locul de îngropare al lui Manoah, tatăl său. Și el judecase pe Israel douăzeci de ani."
+"Atunci frații săi și toată casa tatălui său au coborât și l-au luat și [l]-au urcat și l-au îngropat între Țoreea #și Eștaol, în locul de îngropare al lui Manoah, tatăl său. Și el judecase pe Israel douăzeci de ani."

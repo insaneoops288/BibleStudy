@@ -10,8 +10,8 @@
 "Sa kakapalan ng pader ng looban sa dakong silanganan, sa harap ng bukod na dako, at sa harap ng bahay, may mga silid."
 "At ang daan sa harap ng mga yaon ay gaya ng anyo ng daan sa mga silid na nangasa dakong hilagaan; ayon sa haba ay gayon ang luwang
 "At ayon sa mga pintuan ng mga silid na nangasa dakong timugan ay may isang pintuan sa bukana ng daan, sa daang tuwid na patuloy sa pader sa dakong silanganan, sa papasok sa mga yaon."
-"Nang magkagayo'y sinabi niya sa akin, Ang silid na hilagaan at ang silid na timugan na nasa harap ng bukod na dako, mga itinalagang silid, na pagkakanan ng mga kabanalbanalang bagay ng mga saserdote na malapit sa Panginoon
-"Pagka ang mga saserdote ay nagsisipasok, hindi nga sila magsisilabas sa banal na dako na papasok sa looban sa labas, kundi doon nila ilalapag ang kanilang mga kasuutan na kanilang ipinangangasiwa; sapagka't mga banal
+"Nang magkagayo'y sinabi niya sa akin, Ang silid na hilagaan at ang silid na timugan na nasa harap ng bukod #na dako, mga itinalagang silid, na pagkakanan ng mga kabanalbanalang bagay ng mga saserdote na malapit sa Panginoon
+"Pagka ang mga saserdote ay nagsisipasok, hindi nga sila magsisilabas sa banal na dako na papasok sa looban #sa labas, kundi doon nila ilalapag ang kanilang mga kasuutan na kanilang ipinangangasiwa; sapagka't mga banal
 "Nang matapos nga niyang masukat ang lalong loob ng bahay, inilabas niya ako sa daan ng pintuang-daan na nakaharap sa dakong silanganan, at sinukat sa palibot."
 "Sinukat niya sa dakong silanganan ng panukat na tambo, na limang daang tambo, ng panukat na tambo sa palibot."
 "Sinukat niya sa dakong hilagaan, na limang daang tambo ng panukat na tambo sa palibot."

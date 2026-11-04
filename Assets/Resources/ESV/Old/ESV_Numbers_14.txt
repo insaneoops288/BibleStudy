@@ -11,11 +11,11 @@ Then all the congregation said to stone them with stones. But the glory of the L
 And the Lord said to Moses, How long will this people despise me? And how long will they not believe in me, in spite of all the signs that I have done among them?
 I will strike them with the pestilence and disinherit them, and I will make of you a nation greater and mightier than they.
 But Moses said to the Lord, Then the Egyptians will hear of it, for you brought up this people in your might from among them,
-and they will tell the inhabitants of this land. They have heard that you, O Lord, are in the midst of this people. For you, O Lord, are seen face to face, and your cloud stands over them and you go before them, in a pillar of cloud by day and in a pillar of fire by night.
+and they will tell the inhabitants of this land. They have heard that you, O Lord, are in the midst of this people. For you, O Lord, are seen face #to face, and your cloud stands over them and you go before them, in a pillar of cloud by day and in a pillar of fire by night.
 Now if you kill this people as one man, then the nations who have heard your fame will say,
 It is because the Lord was not able to bring this people into the land that he swore to give to them that he has killed them in the wilderness.
 And now, please let the power of the Lord be great as you have promised, saying,
-The Lord is slow to anger and abounding in steadfast love, forgiving iniquity and transgression, but he will by no means clear the guilty, visiting the iniquity of the fathers on the children, to the third and the fourth generation.
+The Lord is slow to anger and abounding in steadfast love, forgiving iniquity and transgression, but he will by no means #clear the guilty, visiting the iniquity of the fathers on the children, to the third and the fourth generation.
 Please pardon the iniquity of this people, according to the greatness of your steadfast love, just as you have forgiven this people, from Egypt until now.
 Then the Lord said, I have pardoned, according to your word.
 But truly, as I live, and as all the earth shall be filled with the glory of the Lord,

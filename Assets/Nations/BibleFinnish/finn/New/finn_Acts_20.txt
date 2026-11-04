@@ -6,7 +6,7 @@
 "Mutta me purjehdimme jälkeen pääsiäisen Philipistä ja tulimme heidän tykönsä Troadaan viitenä päivänä, ja viivyimme siellä seitsemän päivää."
 "Mutta ensimmäisenä viikonpäivänä, kuin opetuslapset kokoontuivat leipää taittamaan, saarnasi heille Paavali, ja aikoen toisena päivänä matkustaa, pitensi saarnan puoli-yöhön asti."
 "Ja monta kynttilää oli sytytetty salissa, jossa me olimme koossa."
-"Niin nuorukainen, nimeltä Eutykus, istui akkunalla, ja raukesi syvään uneen, ja Paavalin kauvan puhuessa, tuli hän unelta voitetuksi ja putosi alas kolmannesta ullakosta, ja otettiin kuolleena ylös."
+"Niin nuorukainen, nimeltä Eutykus, istui akkunalla, ja raukesi syvään uneen, ja Paavalin kauvan puhuessa, #tuli hän unelta voitetuksi ja putosi alas kolmannesta ullakosta, ja otettiin kuolleena ylös."
 "Niin Paavali astui alas, ja laski itsensä hänen päällensä, ja otti syliinsä, ja sanoi
 "Niin hän nousi, ja taitti leipää, ja söi, ja puheli kauvan heidän kanssansa, päivän koittamaan asti, niin hän läksi matkaansa."
 "Niin he toivat nuorukaisen elävänä ja tulivat siitä lohdutetuksi."

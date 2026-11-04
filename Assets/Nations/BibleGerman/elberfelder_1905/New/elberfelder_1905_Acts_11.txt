@@ -2,7 +2,7 @@
 "und als Petrus nach Jerusalem hinaufkam, stritten die aus der Beschneidung mit ihm"
 "und sagten
 "Petrus aber fing an und setzte es ihnen der Reihe nach auseinander und sprach
-"Ich war in der Stadt Joppe im Gebet, und ich sah in einer Entzückung ein Gesicht, wie ein gewisses Gefäß herabkam, gleich einem großen leinenen Tuche, an vier Zipfeln herniedergelassen aus dem Himmel; und es kam bis zu mir."
+"Ich war in der Stadt Joppe im Gebet, und ich sah in einer Entzückung ein Gesicht, wie ein gewisses Gefäß #herabkam, gleich einem großen leinenen Tuche, an vier Zipfeln herniedergelassen aus dem Himmel; und es kam bis zu mir."
 "Und als ich es unverwandt anschaute, bemerkte und sah ich die vierfüßigen Tiere der Erde und die wilden Tiere und die kriechenden und das Gevögel des Himmels."
 "Ich hörte aber auch eine Stimme, die zu mir sagte
 "Ich sprach aber

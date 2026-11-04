@@ -1,4 +1,4 @@
-"L'année suivante, au temps où les rois se mettaient en campagne, David envoya Joab, avec ses serviteurs et tout Israël, pour détruire les fils d'Ammon et pour assiéger Rabba. Mais David resta à Jérusalem."
+"L'année suivante, au temps où les rois se mettaient en campagne, David envoya Joab, avec ses serviteurs et #tout Israël, pour détruire les fils d'Ammon et pour assiéger Rabba. Mais David resta à Jérusalem."
 "Un soir, David se leva de sa couche; et, comme il se promenait sur le toit de la maison royale, il aperçut de là une femme qui se baignait, et qui était très belle de figure."
 "David fit demander qui était cette femme, et on lui dit
 "Et David envoya des gens pour la chercher. Elle vint vers lui, et il coucha avec elle. Après s'être purifiée de sa souillure, elle retourna dans sa maison."
@@ -10,7 +10,7 @@
 "On en informa David, et on lui dit
 "Urie répondit à David
 "David dit à Urie
-"David l'invita à manger et à boire en sa présence, et il l'enivra; et le soir, Urie sortit pour se mettre sur sa couche, avec les serviteurs de son maître, mais il ne descendit point dans sa maison."
+"David l'invita à manger et à boire en sa présence, et il l'enivra; et le soir, Urie sortit pour se #mettre sur sa couche, avec les serviteurs de son maître, mais il ne descendit point dans sa maison."
 "Le lendemain matin, David écrivit une lettre à Joab, et l'envoya par la main d'Urie."
 "Il écrivit dans cette lettre
 "Joab, en assiégeant la ville, plaça Urie à l'endroit qu'il savait défendu par de vaillants soldats."
@@ -18,7 +18,7 @@
 "Joab envoya un messager pour faire rapport à David de tout ce qui s'était passé dans le combat."
 "Il donna cet ordre au messager
 "peut-être se mettra-t-il en fureur et te dira-t-il
-"Qui a tué Abimélec, fils de Jerubbéscheth? n'est-ce pas une femme qui lança sur lui du haut de la muraille un morceau de meule de moulin, et n'en est-il pas mort à Thébets? Pourquoi vous êtes-vous approchés de la muraille? Alors tu diras
+"Qui a tué Abimélec, fils de Jerubbéscheth? n'est-ce pas une femme qui lança sur lui du haut de la muraille un morceau #de meule de moulin, et n'en est-il pas mort à Thébets? Pourquoi vous êtes-vous approchés de la muraille? Alors tu diras
 "Le messager partit
 "Le messager dit à David
 "les archers ont tiré du haut de la muraille sur tes serviteurs, et plusieurs des serviteurs du roi ont été tués, et ton serviteur Urie, le Héthien, est mort aussi."

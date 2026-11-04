@@ -6,7 +6,7 @@
 "Ovejas perdidas fueron mi pueblo; sus pastores las hicieron errar, por los montes las descarriaron; anduvieron de monte en collado, se olvidaron de sus majadas."
 "Todos los que los hallaban, los comían; y decían sus enemigos
 "Huid de en medio de Babilonia, y salid de la tierra de los caldeos, y sed como los machos cabríos delante del ganado."
-"Porque he aquí que yo levanto y hago subir contra Babilonia reunión de grandes pueblos de la tierra del norte; y desde allí se prepararán contra ella, y será tomada; sus flechas como de valiente diestro, ninguno se volverá vacío."
+"Porque he aquí que yo levanto y hago subir contra Babilonia reunión de grandes pueblos de la tierra del norte; y #desde allí se prepararán contra ella, y será tomada; sus flechas como de valiente diestro, ninguno se volverá vacío."
 "Y Caldea será para despojo; todos los que la saquearen, quedarán saciados, dice Jehová."
 "Porque os alegrasteis, porque os gozasteis destruyendo mi heredad, porque os llenasteis como becerra sobre la hierba, y mugís como toros."
 "Vuestra madre será en gran manera avergonzada, se avergonzará la que os engendró; he aquí la última de las naciones [será] un desierto, tierra seca, y páramo."
@@ -41,6 +41,6 @@
 "He aquí viene un pueblo del norte; y una nación grande, y muchos reyes se levantarán de los extremos de la tierra."
 "Arco y lanza manejarán; serán crueles, y no tendrán misericordia; su voz sonará como el mar, y montarán sobre caballos; se apercibirán como hombre para la batalla, contra ti, oh hija de Babilonia."
 "Oyó la noticia el rey de Babilonia, y sus manos se debilitaron; angustia le tomó, dolor como de mujer de parto."
-"He aquí que como león subirá de la hinchazón del Jordán a la morada fuerte; porque muy pronto le haré huir de ella, y al que fuere escogido la encargaré; porque ¿quién es semejante a mí? ¿Y quién me citará a juicio? ¿O quién será aquel pastor que me podrá resistir?"
+"He aquí que como león subirá de la hinchazón del Jordán a la morada fuerte; porque muy pronto le haré huir de ella, y al que #fuere escogido la encargaré; porque ¿quién es semejante a mí? ¿Y quién me citará a juicio? ¿O quién será aquel pastor que me podrá resistir?"
 "Por tanto, oíd el consejo de Jehová, que ha acordado sobre Babilonia, y sus pensamientos que ha formado sobre la tierra de los caldeos
 "Al grito de la toma de Babilonia la tierra tembló, y el clamor se oyó entre las naciones."

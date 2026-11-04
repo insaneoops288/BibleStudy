@@ -9,10 +9,10 @@
 "Sillä Moseksen laissa on kirjoitettu
 "Taikka, eikö hän sitä kaiketi meidän tähtemme sano? sillä meidän tähtemme on se kirjoitettu
 "Jos me olemme teille hengellisiä kylväneet; paljoko se on, jos me teidän ruumiillisianne niitämme?"
-"Jos muut ovat tässä vallassa osalliset teidän tykönänne, miksi emme siis paljoa enemmin? mutta emmepä me ole sitä valtaa pitäneet, vaan me kärsimme kaikkinaisia, ettemme Kristuksen evankeliumille mitään estettä tekisi."
+"Jos muut ovat tässä vallassa osalliset teidän tykönänne, miksi emme siis paljoa enemmin? mutta emmepä me #ole sitä valtaa pitäneet, vaan me kärsimme kaikkinaisia, ettemme Kristuksen evankeliumille mitään estettä tekisi."
 "Ettekö te tiedä, että ne, jotka uhraavat, ne syövät uhrista, ja ne, jotka alttaria valmistavat, ne alttarista osalliseksi tulevat?"
 "Niin on myös Herra säätänyt, että ne, jotka evankeliumia ilmoittavat, pitää evankeliumista elatuksensa saaman."
-"Mutta en minä ole kuitenkaan mitään näistä tehnyt. Vaan en minä sentähden sitä kirjoita, että niin pitäis minun kanssani tapahtuman. Parempi olis minun kuolla kuin että joku minun kerskaamiseni tyhjäksi tekis."
+"Mutta en minä ole kuitenkaan mitään näistä tehnyt. Vaan en minä sentähden sitä kirjoita, että niin #pitäis minun kanssani tapahtuman. Parempi olis minun kuolla kuin että joku minun kerskaamiseni tyhjäksi tekis."
 "Mutta että minä evankeliumia saarnaan, niin ei minun tarvitse siitä öykätä; sillä minun tulee se tehdä. Voi minua, ellen minä evankeliumia ilmoita!"
 "Sillä jos minä sen mielelläni teen, niin minulla on palkka; mutta jos minä ylönmielin sen teen, niin on se virka kuitenkin minulle uskottu."
 "Mitäs siis minun palkkani on? että minä Kristuksen evankeliumia saarnaan, ja teen sen ilman vapauttani evankeliumissa."

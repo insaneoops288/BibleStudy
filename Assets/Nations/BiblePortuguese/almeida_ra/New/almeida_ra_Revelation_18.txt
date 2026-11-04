@@ -9,7 +9,7 @@
 "E os reis da terra, que com ela se prostituíram e viveram em delícias, sobre ela chorarão e prantearão, quando virem a fumaça do seu incêndio;"
 "e, estando de longe por medo do tormento dela, dirão
 "E sobre ela choram e lamentam os mercadores da terra; porque ninguém compra mais as suas mercadorias
-"mercadorias de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda e de escarlate; e toda espécie de madeira odorífera, e todo objecto de marfim, de madeira preciosíssima, de bronze, de ferro e de mármore;"
+"mercadorias de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda e de escarlate; e #toda espécie de madeira odorífera, e todo objecto de marfim, de madeira preciosíssima, de bronze, de ferro e de mármore;"
 "e canela, especiarias, perfume, mirra e incenso; e vinho, azeite, flor de farinha e trigo; e gado, ovelhas, cavalos e carros; e escravos, e até almas de homens."
 "Também os frutos que a tua alma cobiçava foram-se de ti; e todas as coisas delicadas e sumptuosas se foram de ti, e nunca mais se acharão."
 "Os mercadores destas coisas, que por ela se enriqueceram, ficarão de longe por medo do tormento dela, chorando e lamentando,"
@@ -20,5 +20,5 @@
 "Exulta sobre ela, ó céu, e vós, santos e apóstolos e profetas; porque Deus vindicou a vossa causa contra ela."
 "Um forte anjo levantou uma pedra, qual uma grande mó, e lançou-a no mar, dizendo
 "E em ti não se ouvirá mais o som de harpistas, de músicos, de flautistas e de trombeteiros; e nenhum artífice de arte alguma se achará mais em ti; e em ti não mais se ouvirá ruído de mó;"
-"e luz de candeia não mais brilhará em ti, e voz de noivo e de noiva não mais em ti se ouvirá; porque os teus mercadores eram os grandes da terra; porque todas as nações foram enganadas pelas tuas feitiçarias."
+"e luz de candeia não mais brilhará em ti, e voz de noivo e de noiva não mais em ti se #ouvirá; porque os teus mercadores eram os grandes da terra; porque todas as nações foram enganadas pelas tuas feitiçarias."
 "E nela se achou o sangue dos profetas, e dos santos, e de todos os que foram mortos na terra."

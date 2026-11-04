@@ -1,6 +1,6 @@
 "Sentähden minun rakkaat ja ihanat veljeni, minun iloni ja minun kruununi, seisokaat niin Herrassa, minun rakkaani."
 "Euodiaa minä neuvon ja Syntykeä minä neuvon, että he Herrassa yksimieliset olisivat."
-"Ja minä rukoilen sinua, minun uskollinen kumppanini, ole niille avullinen, jotka minun kanssani evankeliumissa kilvoitelleet ovat, ynnä Klementin ja muiden minun auttajaini kanssa, joiden nimet elämän kirjassa ovat."
+"Ja minä rukoilen sinua, minun uskollinen kumppanini, ole niille avullinen, jotka minun kanssani evankeliumissa kilvoitelleet #ovat, ynnä Klementin ja muiden minun auttajaini kanssa, joiden nimet elämän kirjassa ovat."
 "Iloitkaat aina Herrassa, ja taas minä sanon
 "Olkoon teidän siveytenne kaikille ihmisille tiettävä
 "Älkäät mistään murehtiko, vaan olkoon teidän anomuksenne kaikissa asioissa Jumalalle tiettävä, kaikella rukouksella ja pyytämisellä kiitoksen kanssa."

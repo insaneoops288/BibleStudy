@@ -9,7 +9,7 @@
 "A tak zostaje jeszcze odpocznienie ludowi Bożemu."
 "Albowiem ktobykolwiek wszedł do odpocznienia jego i on także odpoczął od spraw swoich, jako i Bóg od swoich."
 "Starajmyż się tedy, abyśmy weszli do onego odpocznienia, żeby kto nie wpadł w tenże przykład niedowiarstwa."
-"Boć żywe jest słowo Boże i skuteczne, i przeraźliwsze nad wszelki miecz po obu stronach ostry, i przenikające aż do rozdzielenia i duszy, i ducha, i stawów, i szpików, i rozeznawające myśli i zdania serdeczne."
+"Boć żywe jest słowo Boże i skuteczne, i przeraźliwsze nad wszelki miecz po obu stronach ostry, i przenikające #aż do rozdzielenia i duszy, i ducha, i stawów, i szpików, i rozeznawające myśli i zdania serdeczne."
 "A nie masz żadnego stworzenia, które by nie było jawne przed obliczem jego; owszem wszystkie rzeczy obnażone są i odkryte oczom tego, o którym mówimy."
 "Przetoż mając najwyższego kapłana wielkiego, który przeniknął niebiosa, Jezusa, Syna Bożego, trzymajmyż się tego wyznania."
 "Albowiem nie mamy najwyższego kapłana, który by nie mógł z nami cierpieć krewkości naszych, lecz skuszonego we wszystkiem na podobieństwo nas, oprócz grzechu."

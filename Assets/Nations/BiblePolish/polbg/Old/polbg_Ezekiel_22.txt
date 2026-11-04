@@ -1,7 +1,7 @@
 "I stało się słowo Pańskie do mnie, mówiąc
 "A ty, synu człowieczy! izalibyś się zastawiał, izalibyś się zastawiał za to miasto krwi? Raczej mu oznajmij wszystkie obrzydliwości jego."
 "I rzecz
-"Tyś wylaniem krwi twojej zgrzeszyło, i plugawemi bałwanami swemi, którycheś naczyniło, siebieś skalało, i sprawiłoś, że się przybliżyły dni twoje, a żeś przyszło aż do lat swoich; przetoż cię podam na pohańbienie narodom, i na pośmiech wszystkim ziemiom."
+"Tyś wylaniem krwi twojej zgrzeszyło, i plugawemi bałwanami swemi, którycheś naczyniło, siebieś skalało, i sprawiłoś, że się przybliżyły dni twoje, #a żeś przyszło aż do lat swoich; przetoż cię podam na pohańbienie narodom, i na pośmiech wszystkim ziemiom."
 "Biliskie i dalekie od ciebie będą się naśmiewać z ciebie, o miasto złej sławy i zwad pełne!"
 "Oto książęta Izraelscy, każdy wszystką siłą na to się udali, aby krew w tobie przelewali."
 "Ojca i matkę znieważają w tobie, przychodniowi krzywdę czynią w pośród ciebie, sierotę i wdowę uciskają w tobie."
@@ -17,13 +17,13 @@
 "Potem się stało słowo Pańskie do mnie, mówiąc
 "Synu człowieczy, dom Izraaelski mi się obrócił w zużelicę; wszyscy zgoła są miedzią i cyną i żelazam i ołowiem w pośród pieca, zużelicą srebra się stali."
 "Przetoż tak mówi panujący Pan
-"Jako zgromadzają srebro, i miedź, i żelazo, i ołów i cynę w pośród pieca, aby rozdymano ogień koło nich dla roztopienia, tak was zgromadzę w zapalczywości mojej i w gniewie moim, a złożywszy roztapiać was będę."
+"Jako zgromadzają srebro, i miedź, i żelazo, i ołów i cynę w pośród pieca, aby rozdymano ogień koło nich #dla roztopienia, tak was zgromadzę w zapalczywości mojej i w gniewie moim, a złożywszy roztapiać was będę."
 "Owa zgromadzę was a rozedmę około was ogień popędliwości mojej, i roztopieni będziecie w pośrodku niego."
 "Jako się srebro topi w pośrodku pieca, tak się roztopicie w pośrodku niego, a dowiesie się, że Ja Pan wylałem na was popędliwość swoję."
 "Nadto stało się słowo Pańskie do mnie mówiąc
 "Synu człowieczy! mów do tej ziemi
 "Sprzysiężenie proroków jej jest w pośrodku jej; podobni są lwowi ryczącemu, obłów chwytającemu; dusze pożerają, bogactwa i drogie rzeczy zbierają, a czynią wiele wdów w pośrodku niej."
-"Kapłani jej gwałcą zakon mój, i święte rzeczy moje splugawiają; między świętym i pospolitym różności nie czynią, a między nieczystym a czystym nie rozsądzają. Nadto od sabatów moich zakrywają oczy swe, tak, iż zelżony bywam między nimi."
+"Kapłani jej gwałcą zakon mój, i święte rzeczy moje splugawiają; między świętym i pospolitym różności nie czynią, a między #nieczystym a czystym nie rozsądzają. Nadto od sabatów moich zakrywają oczy swe, tak, iż zelżony bywam między nimi."
 "Książęta jej w pośrodku jej są jako wilki chwytające łup, wylewający krew, tracący dusze, udawający się za zyskiem."
 "A prorocy ich tynkują wapnem nieczynionem, prorokując marność, a wróżąc im kłamstwo mówiąc
 "Lud tej ziemi gwałt czyni, gwałtem biorąc, co jest cudzego; ubogiemu i nędznemu krzywdę czynią, a przychodnia bezprawnie uciskają."

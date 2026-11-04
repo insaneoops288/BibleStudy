@@ -34,8 +34,8 @@
 "Kemudian Anak Manusia datang, Ia makan dan minum, dan kamu berkata
 "Tetapi hikmat dibenarkan oleh semua orang yang menerimanya."""
 "Seorang Farisi mengundang Yesus untuk datang makan di rumahnya. Yesus datang ke rumah orang Farisi itu, lalu duduk makan."
-"Di kota itu ada seorang perempuan yang terkenal sebagai seorang berdosa. Ketika perempuan itu mendengar, bahwa Yesus sedang makan di rumah orang Farisi itu, datanglah ia membawa sebuah buli-buli pualam berisi minyak wangi."
-"Sambil menangis ia pergi berdiri di belakang Yesus dekat kaki-Nya, lalu membasahi kaki-Nya itu dengan air matanya dan menyekanya dengan rambutnya, kemudian ia mencium kaki-Nya dan meminyakinya dengan minyak wangi itu."
+"Di kota itu ada seorang perempuan yang terkenal sebagai seorang berdosa. Ketika perempuan itu mendengar, bahwa Yesus #sedang makan di rumah orang Farisi itu, datanglah ia membawa sebuah buli-buli pualam berisi minyak wangi."
+"Sambil menangis ia pergi berdiri di belakang Yesus dekat kaki-Nya, lalu membasahi kaki-Nya itu dengan air #matanya dan menyekanya dengan rambutnya, kemudian ia mencium kaki-Nya dan meminyakinya dengan minyak wangi itu."
 "Ketika orang Farisi yang mengundang Yesus melihat hal itu, ia berkata dalam hatinya
 "Lalu Yesus berkata kepadanya
 """Ada dua orang yang berhutang kepada seorang pelepas uang. Yang seorang berhutang lima ratus dinar, yang lain lima puluh."

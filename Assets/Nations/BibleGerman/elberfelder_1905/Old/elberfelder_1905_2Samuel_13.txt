@@ -33,7 +33,7 @@
 "Und nun nehme mein Herr, der König, die Sache nicht zu Herzen, daß er spreche
 "Und Absalom entfloh. Und der Knabe, der Wächter, erhob seine Augen und sah
 "Da sprach Jonadab zu dem König
-"Und es geschah, sowie er ausgeredet hatte, siehe, da kamen die Söhne des Königs und erhoben ihre Stimme und weinten; und auch der König und alle seine Knechte brachen in ein sehr großes Weinen aus."
+"Und es geschah, sowie er ausgeredet hatte, siehe, da kamen die Söhne des Königs und erhoben ihre Stimme #und weinten; und auch der König und alle seine Knechte brachen in ein sehr großes Weinen aus."
 "Absalom aber entfloh und ging zu Talmai, dem Sohne Ammihurs, dem König von Gesur. Und David trauerte um seinen Sohn alle Tage."
 "Absalom aber entfloh und ging nach Gesur; und er war daselbst drei Jahre."
 "Und der König David sehnte sich, zu Absalom hinauszuziehen; denn er hatte sichüber Amnon getröstet, daß er tot war."

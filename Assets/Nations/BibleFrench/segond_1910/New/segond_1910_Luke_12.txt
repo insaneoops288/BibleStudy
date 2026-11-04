@@ -30,7 +30,7 @@
 "Car toutes ces choses, ce sont les païens du monde qui les recherchent. Votre Père sait que vous en avez besoin."
 "Cherchez plutôt le royaume de Dieu; et toutes ces choses vous seront données par-dessus."
 "Ne crains point, petit troupeau; car votre Père a trouvé bon de vous donner le royaume."
-"Vendez ce que vous possédez, et donnez-le en aumônes. Faites-vous des bourses qui ne s'usent point, un trésor inépuisable dans les cieux, où le voleur n'approche point, et où la teigne ne détruit point."
+"Vendez ce que vous possédez, et donnez-le en aumônes. Faites-vous des bourses qui ne s'usent point, un trésor #inépuisable dans les cieux, où le voleur n'approche point, et où la teigne ne détruit point."
 "Car là où est votre trésor, là aussi sera votre coeur."
 "Que vos reins soient ceints, et vos lampes allumées."
 "Et vous, soyez semblables à des hommes qui attendent que leur maître revienne des noces, afin de lui ouvrir dès qu'il arrivera et frappera."
@@ -45,7 +45,7 @@
 "Mais, si ce serviteur dit en lui-même
 "le maître de ce serviteur viendra le jour où il ne s'y attend pas et à l'heure qu'il ne connaît pas, il le mettra en pièces, et lui donnera sa part avec les infidèles."
 "Le serviteur qui, ayant connu la volonté de son maître, n'a rien préparé et n'a pas agi selon sa volonté, sera battu d'un grand nombre de coups."
-"Mais celui qui, ne l'ayant pas connue, a fait des choses dignes de châtiment, sera battu de peu de coups. On demandera beaucoup à qui l'on a beaucoup donné, et on exigera davantage de celui à qui l'on a beaucoup confié."
+"Mais celui qui, ne l'ayant pas connue, a fait des choses dignes de châtiment, sera battu de peu de coups. On #demandera beaucoup à qui l'on a beaucoup donné, et on exigera davantage de celui à qui l'on a beaucoup confié."
 "Je suis venu jeter un feu sur la terre, et qu'ai-je à désirer, s'il est déjà allumé?"
 "Il est un baptême dont je dois être baptisé, et combien il me tarde qu'il soit accompli!"
 "Pensez-vous que je sois venu apporter la paix sur la terre? Non, vous dis-je, mais la division."
@@ -55,5 +55,5 @@
 "Et quand vous voyez souffler le vent du midi, vous dites
 "Hypocrites! vous savez discerner l'aspect de la terre et du ciel; comment ne discernez-vous pas ce temps-ci?"
 "Et pourquoi ne discernez-vous pas de vous-mêmes ce qui est juste?"
-"Lorsque tu vas avec ton adversaire devant le magistrat, tâche en chemin de te dégager de lui, de peur qu'il ne te traîne devant le juge, que le juge ne te livre à l'officier de justice, et que celui-ci ne te mette en prison."
+"Lorsque tu vas avec ton adversaire devant le magistrat, tâche en chemin de te dégager de lui, de peur qu'il ne te traîne #devant le juge, que le juge ne te livre à l'officier de justice, et que celui-ci ne te mette en prison."
 "Je te le dis, tu ne sortiras pas de là que tu n'aies payé jusqu'à la dernière pite."

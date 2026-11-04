@@ -1,7 +1,7 @@
 "At pagka ang sinoman ay maghahandog sa Panginoon ng alay na handog na harina, ay mainam na harina ang kaniyang iaalay; at kaniyang bubuhusan ng langis, at lalagyan ng kamangyan
-"At dadalhin niya sa mga saserdote, na mga anak ni Aaron; at siya'y kukuha ng isang dakot na mainam na harina at ng langis, sangpu ng buong kamangyan niyaon. At susunugin ng saserdote sa ibabaw ng dambana na pinakaalaala, na isang handog nga na pinaraan sa apoy na pinakamasarap na amoy sa Panginoon
+"At dadalhin niya sa mga saserdote, na mga anak ni Aaron; at siya'y kukuha ng isang dakot na mainam na harina at ng langis, sangpu ng buong #kamangyan niyaon. At susunugin ng saserdote sa ibabaw ng dambana na pinakaalaala, na isang handog nga na pinaraan sa apoy na pinakamasarap na amoy sa Panginoon
 "At ang kalabisan sa handog na harina ay mapapasa kay Aaron at sa kaniyang mga anak
-"At pagka ikaw ay maghahandog ng alay na handog na harina na luto sa hurno, ay mga munting tinapay na walang lebadura ang iaalay mo na mainam na harina, na hinaluan ng langis, o mga manipis na tinapay na walang lebadura, na hinaluan ng langis."
+"At pagka ikaw ay maghahandog ng alay na handog na harina na luto sa hurno, ay mga munting tinapay na walang lebadura ang #iaalay mo na mainam na harina, na hinaluan ng langis, o mga manipis na tinapay na walang lebadura, na hinaluan ng langis."
 "At kung ang iyong alay ay handog na harina, na luto sa kawali, ay mainam na harina ang iaalay mo na walang lebadura, na hinaluan ng langis."
 "Iyong pagpuputolputulin, at bubuhusan mo ng langis
 "At kung ang iyong alay ay handog na harina na luto sa kawaling bakal, ay yari sa mainam na harina na may langis ang iaalay mo."

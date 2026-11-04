@@ -18,13 +18,13 @@
 "Te rog, nu te depărta de aici, până voi veni la tine și îmi voi aduce darul și [îl ]voi pune înaintea ta. Iar el a spus
 "Și Ghedeon a intrat și a pregătit un ied și azime, dintr-o efă de făină, carnea a pus-o într-un coș și zeama a pus-o într-o oală și i [le]-a adus afară sub stejar și i [le]-a prezentat."
 "Și îngerul lui Dumnezeu i-a spus
-"Atunci îngerul DOMNULUI a întins vârful toiagului care [era] în mâna lui și a atins carnea și azimele; și s-a ridicat foc din stâncă și a mistuit carnea și azimele. Atunci îngerul DOMNULUI s-a depărtat dinaintea ochilor lui."
+"Atunci îngerul DOMNULUI a întins vârful toiagului care [era] în mâna lui și a atins carnea și azimele; și s-a #ridicat foc din stâncă și a mistuit carnea și azimele. Atunci îngerul DOMNULUI s-a depărtat dinaintea ochilor lui."
 "Și după ce Ghedeon a văzut că [a fost ]un înger al DOMNULUI, Ghedeon a spus
 "Și DOMNUL i-a spus
 "Atunci Ghedeon a zidit acolo un altar DOMNULUI și l-a numit Iehova-Șalom; până în ziua aceasta el [este] încă în Ofra abiezriților."
 "Și s-a întâmplat, în aceeași noapte, că DOMNUL i-a spus
 "Și zidește un altar DOMNULUI Dumnezeul tău pe vârful acestei stânci, în felul rânduit și ia al doilea taur și oferă un sacrificiu ars cu lemnele dumbrăvii, pe care o vei reteza."
-"Atunci Ghedeon a luat zece bărbați dintre servitorii săi și a făcut precum îi spusese DOMNUL; și [așa] a fost, fiindcă s-a temut de casa tatălui său și de bărbații cetății, că a făcut acest lucru noaptea, nu ziua."
+"Atunci Ghedeon a luat zece bărbați dintre servitorii săi și a făcut precum îi spusese DOMNUL; și [așa] a fost, #fiindcă s-a temut de casa tatălui său și de bărbații cetății, că a făcut acest lucru noaptea, nu ziua."
 "Și când s-au trezit bărbații cetății dis-de-dimineață, iată, altarul lui Baal era dărâmat și dumbrava, care era lângă el, era retezată, și taurul al doilea era oferit pe altarul [care era] zidit."
 "Și ei au spus unul către altul
 "Atunci bărbații cetății i-au spus lui Ioas

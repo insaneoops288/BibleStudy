@@ -9,7 +9,7 @@
 "Dlatego, pasterze, słuchajcie słowa PANA."
 "Tak mówi Pan BÓG
 "Tak bowiem mówi Pan BÓG
-"Jak pasterz troszczy się o swoją trzodę, kiedy znajduje się wśród swoich rozproszonych owiec, tak ja będę troszczył się o moje owce i wyrwę je ze wszystkich miejsc, dokąd zostały rozproszone w dzień pochmurny i mroczny."
+"Jak pasterz troszczy się o swoją trzodę, kiedy znajduje się wśród swoich rozproszonych owiec, tak ja będę troszczył się #o moje owce i wyrwę je ze wszystkich miejsc, dokąd zostały rozproszone w dzień pochmurny i mroczny."
 "Wyprowadzę je z narodów, zgromadzę je z ziem i przyprowadzę je do ich ziemi, i będę je pasł na górach Izraela nad strumieniami i po wszystkich zamieszkałych miejscach tej ziemi."
 "Będę je pasł na dobrym pastwisku, a ich pastwisko będzie na wysokich górach Izraela. Tam będą odpoczywać na bujnych błoniach i na tłustych pastwiskach będą się pasły na górach Izraela."
 "Ja sam będę pasł moje owce i sprawię, że położą się, mówi Pan BÓG."
@@ -24,7 +24,7 @@
 "A ja, PAN, będę ich Bogiem, a mój sługa Dawid będzie księciem pośród nich. Ja, PAN, to powiedziałem."
 "Zawrę z nimi przymierze pokoju i wytępię dzikie zwierzęta z ziemi. I będą bezpiecznie mieszkały na pustyni, i spały w lasach."
 "Ponadto dam błogosławieństwo im oraz okolicy mojego pagórka. Będę zsyłał deszcz w swoim czasie, będą to deszcze błogosławieństwa."
-"Drzewo polne wyda swój owoc i ziemia wyda swój plon. Będą oni bezpieczni na swojej ziemi i poznają, że ja jestem PANEM, gdy połamię drążki ich jarzma i wyrwę ich z ręki tych, którzy ich zniewolili."
+"Drzewo polne wyda swój owoc i ziemia wyda swój plon. Będą oni bezpieczni na swojej ziemi i poznają, że #ja jestem PANEM, gdy połamię drążki ich jarzma i wyrwę ich z ręki tych, którzy ich zniewolili."
 "I już nie będą łupem narodów ani zwierzęta ziemi nie będą ich pożerały, ale będą bezpiecznie mieszkali i nikt ich nie będzie straszył."
 "Wzbudzę im sławną latorośl i już nie będą niszczeni głodem w ziemi, ani nie będą znosili zniewag pogan."
 "I poznają, że ja, PAN, ich Bóg, jestem z nimi, a oni, dom Izraela, są moim ludem, mówi Pan BÓG."

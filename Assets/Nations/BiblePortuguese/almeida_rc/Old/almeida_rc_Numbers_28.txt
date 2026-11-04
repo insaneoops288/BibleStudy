@@ -11,7 +11,7 @@
 "E nos princípios dos vossos meses oferecereis, em holocausto ao SENHOR, dois bezerros e um carneiro, sete cordeiros de um ano, sem mancha;"
 "e três décimas de flor de farinha misturada com azeite, em oferta de manjares, para um bezerro; e duas décimas de flor de farinha misturada com azeite, em oferta de manjares, para um carneiro;"
 "e uma décima de flor de farinha misturada com azeite, em oferta de manjares, para um cordeiro; holocausto é de cheiro suave, oferta queimada ao SENHOR."
-"E as suas libações serão a metade de um him de vinho para um bezerro, e a terça parte de um him para um carneiro, e a quarta parte de um him para um cordeiro; este é o holocausto da lua nova de cada mês, segundo os meses do ano."
+"E as suas libações serão a metade de um him de vinho para um bezerro, e a terça parte de um him para um carneiro, e #a quarta parte de um him para um cordeiro; este é o holocausto da lua nova de cada mês, segundo os meses do ano."
 "Também um bode, para expiação do pecado, ao SENHOR, além do holocausto contínuo, com a sua libação se oferecerá."
 "Porém, no primeiro mês, aos catorze dias do mês, é a Páscoa do SENHOR."
 "E, aos quinze dias do mesmo mês, haverá festa; sete dias se comerão pães asmos."

@@ -3,7 +3,7 @@
 "Igen megrémüle Moáb a néptõl, mivelhogy sok vala az, és búsula Moáb Izráel fiai miatt."
 "Monda azért Moáb Midián véneinek
 "Külde azért követeket Bálámhoz, a Beór fiához Péthorba, a mely vala a folyóvíz mellett, az õ népe fiainak földére, hogy hívják õt, mondván
-"Most azért kérlek jöjj el, átkozd meg érettem e népet, mert erõsebb nálamnál; talán erõt vehetek rajta, megverjük õt, és kiûzhetem õt e földbõl; mert jól tudom, hogy a kit megáldasz, meg lesz áldva, és a kit megátkozol, átkozott lesz."
+"Most azért kérlek jöjj el, átkozd meg érettem e népet, mert erõsebb nálamnál; talán erõt vehetek rajta, megverjük õt, és kiûzhetem #õt e földbõl; mert jól tudom, hogy a kit megáldasz, meg lesz áldva, és a kit megátkozol, átkozott lesz."
 "Elmenének azért Moábnak vénei és Midiánnak vénei, és a jövendõmondásnak jutalma kezeikben vala, és jutának Bálámhoz, és megmondák néki Bálák izenetét."
 "Õ pedig monda nékik
 "Eljöve pedig az Isten Bálámhoz, és monda
@@ -20,7 +20,7 @@
 "És eljöve Isten Bálámhoz éjjel, és monda néki
 "Felkele azért Bálám reggel, és megnyergelé az õ szamarát, és elméne a Moáb fejedelmeivel."
 "De megharaguvék Isten, hogy elmegy vala õ. És megálla az Úrnak angyala az útban, hogy ellenkezzék vele; õ pedig üget vala az õ szamarán, és két szolgája vala vele."
-"És meglátá a szamár az Úrnak angyalát, a mint áll vala az úton, és mezítelen fegyvere a kezében; letére azért a szamár az útról, és méne a mezõre; Bálám pedig veré az õ szamarát, hogy visszatérítse azt az útra."
+"És meglátá a szamár az Úrnak angyalát, a mint áll vala az úton, és mezítelen fegyvere a kezében; letére azért #a szamár az útról, és méne a mezõre; Bálám pedig veré az õ szamarát, hogy visszatérítse azt az útra."
 "Azután megálla az Úrnak angyala a szõlõk ösvényén, holott innen is garád, onnan is garád vala."
 "A mint meglátá a szamár az Úrnak angyalát, a falhoz szorula, és a Bálám lábát is oda szorítá a falhoz; ezért ismét megveré azt."
 "Az Úr angyala pedig ismét tovább méne, és megálla szoros helyen, hol nem volt út a kitérésre, sem jobbra, sem balra."

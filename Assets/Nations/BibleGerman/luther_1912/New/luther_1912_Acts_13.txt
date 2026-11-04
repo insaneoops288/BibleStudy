@@ -1,4 +1,4 @@
-"Es waren aber zu Antiochien in der Gemeinde Propheten und Lehrer, nämlich Barnabas und Simon, genannt Niger, und Luzius von Kyrene und Manahen, der mit Herodes dem Vierfürsten erzogen war, und Saulus."
+"Es waren aber zu Antiochien in der Gemeinde Propheten und Lehrer, nämlich Barnabas und Simon, genannt Niger, #und Luzius von Kyrene und Manahen, der mit Herodes dem Vierfürsten erzogen war, und Saulus."
 "Da sie aber dem HERRN dienten und fasteten, sprach der heilige Geist
 "Da fasteten sie und beteten und legten die Hände auf sie und ließen sie gehen."
 "Diese nun, wie sie ausgesandt waren vom heiligen Geist, kamen sie gen Seleucia, und von da schifften sie gen Zypern."
@@ -8,7 +8,7 @@
 "Da widerstand ihnen der Zauberer Elymas(denn also wird sein Name gedeutet) und trachtete, daß er den Landvogt vom Glauben wendete."
 "Saulus aber, der auch Paulus heißt, voll heiligen Geistes, sah ihn an"
 "und sprach
-"und nun siehe, die Hand des HERRN kommtüber dich, und du sollst blind sein und die Sonne eine Zeitlang nicht sehen! Und von Stund an fiel auf ihn Dunkelheit und Finsternis, und er ging umher und suchte Handleiter."
+"und nun siehe, die Hand des HERRN kommtüber dich, und du sollst blind sein und die Sonne eine Zeitlang nicht #sehen! Und von Stund an fiel auf ihn Dunkelheit und Finsternis, und er ging umher und suchte Handleiter."
 "Als der Landvogt die Geschichte sah, glaubte er und verwunderte sich der Lehre des HERRN."
 "Da aber Paulus und die um ihn waren, von Paphos schifften, kamen sie gen Perge im Lande Pamphylien. Johannes aber wich von ihnen und zog wieder gen Jerusalem."
 "Sie aber zogen weiter von Perge und kamen gen Antiochien im Lande Pisidien und gingen in die Schule am Sabbattage und setzten sich."
@@ -40,7 +40,7 @@
 "Seht nun zu, daß nichtüber euch komme, was in den Propheten gesagt ist
 """Seht, ihr Verächter, und verwundert euch und werdet zunichte! denn ich tue ein Werk zu euren Zeiten, welches ihr nicht glauben werdet, so es euch jemand erzählen wird."""
 "Da aber die Juden aus der Schule gingen, baten die Heiden, daß sie am nächsten Sabbat ihnen die Worte sagten."
-"Und als die Gemeinde der Schule voneinander ging, folgten Paulus und Barnabas nach viele Juden und gottesfürchtige Judengenossen. Sie aber sagten ihnen und ermahnten sie, daß sie bleiben sollten in der Gnade Gottes."
+"Und als die Gemeinde der Schule voneinander ging, folgten Paulus und Barnabas nach viele Juden und gottesfürchtige #Judengenossen. Sie aber sagten ihnen und ermahnten sie, daß sie bleiben sollten in der Gnade Gottes."
 "Am folgenden Sabbat aber kam zusammen fast die ganze Stadt, das Wort Gottes zu hören."
 "Da aber die Juden das Volk sahen, wurden sie voll Neides und widersprachen dem, was von Paulus gesagt ward, widersprachen und lästerten."
 "Paulus aber und Barnabas sprachen frei undöffentlich

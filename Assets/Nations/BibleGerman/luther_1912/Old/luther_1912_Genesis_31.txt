@@ -39,7 +39,7 @@
 "was die Tiere zerrissen, brachte ich dir nicht, ich mußte es bezahlen; du fordertest es von meiner Hand, es mochte mir des Tages oder des Nachts gestohlen sein.{~}"
 "Des Tages verschmachtete ich vor Hitze und des Nachts vor Frost, und kam kein Schlaf in meine Augen."
 "Also habe ich diese zwanzig Jahre in deinem Hause gedient, vierzehn um deine Töchter und sechs um deine Herde, und du hast mir meinen Lohn zehnmal verändert."
-"Wo nicht der Gott meines Vaters, der Gott Abrahams und die Furcht Isaaks, auf meiner Seite gewesen wäre, du hättest mich leer lassen ziehen. Aber Gott hat mein Elend und meine Mühe angesehen und hat dich gestern gestraft."
+"Wo nicht der Gott meines Vaters, der Gott Abrahams und die Furcht Isaaks, auf meiner Seite gewesen wäre, du hättest #mich leer lassen ziehen. Aber Gott hat mein Elend und meine Mühe angesehen und hat dich gestern gestraft."
 "Laban antwortete und sprach zu Jakob
 "So komm nun und laß uns einen Bund machen, ich und du, der ein Zeugnis sei zwischen mir und dir."
 "Da nahm Jakob einen Stein und richtete ihn auf zu einem Mal."

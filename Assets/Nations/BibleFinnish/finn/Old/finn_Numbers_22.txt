@@ -3,7 +3,7 @@
 "Ja että Moabilaiset sangen suuresti pelkäsivät sitä kansaa heidän paljoutensa tähden, ja että Moabilaiset kauhistuivat Israelin lapsia,"
 "Niin sanoivat he Midianilaisten vanhimmille
 "Ja hän lähetti sanan Petoriin, Bileamille Beorin pojalle, joka asui virran tykönä, kansansa lasten maalla, kutsumaan häntä, sanoen
-"Tule siis nyt ja kiroo minulle tämä kansa; sillä se on minua väkevämpi, että minä löisin häntä, ja hänen maaltani karkottaisin ulos; sillä minä tiedän, ketä sinä siunaat, se on siunattu, ja jota sinä kiroot, se on kirottu."
+"Tule siis nyt ja kiroo minulle tämä kansa; sillä se on minua väkevämpi, että minä löisin häntä, ja hänen maaltani #karkottaisin ulos; sillä minä tiedän, ketä sinä siunaat, se on siunattu, ja jota sinä kiroot, se on kirottu."
 "Ja Moabilaisten vanhimmat ynnä Midianilaisten vanhimpain kanssa menivät sinne, ja heillä oli noitumisen palkka kädessänsä. Ja koska he tulivat Bileamin tykö, sanoivat he hänelle Balakin sanat."
 "Ja hän sanoi heille
 "Ja Jumala tuli Bileamin tykö ja sanoi

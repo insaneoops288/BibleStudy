@@ -6,7 +6,7 @@
 "Deoarece nu [este] nimeni asemenea ție, DOAMNE; tu [ești] mare și numele tău [este] mare în putere."
 "Cine nu s-ar teme de tine, Împărate al națiunilor? Pentru că ție ți se cuvine [teama]; deoarece printre toți înțelepții națiunilor și în toate împărățiile lor, nu [este] nimeni asemenea ție."
 "Dar ei sunt cu toții neghiobi și nebuni; trunchiul [este ]o doctrină a deșertăciunilor."
-"Argintul întins în plăci este adus din Tarsis și aurul din Ufaz, lucrarea meșteșugarului și a mâinilor topitorului; albastru și purpuriu [este ]îmbrăcămintea lor; toate [sunt] lucrarea celor[ ]iscusiți."
+"Argintul întins în plăci este adus din Tarsis și aurul din Ufaz, lucrarea meșteșugarului și #a mâinilor topitorului; albastru și purpuriu [este ]îmbrăcămintea lor; toate [sunt] lucrarea celor[ ]iscusiți."
 "Dar DOMNUL [este] adevăratul Dumnezeu, el [este] Dumnezeul cel viu și un împărat veșnic; la furia lui pământul se va cutremura și națiunile nu vor fi în stare să suporte indignarea lui."
 "Astfel să le spuneți
 "El a făcut pământul prin puterea lui, el a întemeiat lumea prin înțelepciunea lui și a întins cerurile prin discernământul lui."

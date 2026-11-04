@@ -6,7 +6,7 @@
 "I rzekł mu Pan jeszcze
 "I rzekł
 "I stanie się, jeźlić nie uwierzą i nie usłuchają głosu znaku pierwszego, tedy uwierzą głosowi znaku pośledniego."
-"I stanie się, jeźli nie uwierzą ani tym dwom znakom, i nie usłuchają głosu twego, weźmiesz wody rzecznej, i wylejesz ją na ziemię; tedy się przemieni woda ona, którą weźmiesz z rzeki, a obróci się w krew na ziemi."
+"I stanie się, jeźli nie uwierzą ani tym dwom znakom, i nie usłuchają głosu twego, weźmiesz wody rzecznej, i wylejesz #ją na ziemię; tedy się przemieni woda ona, którą weźmiesz z rzeki, a obróci się w krew na ziemi."
 "I rzekł Mojżesz do Pana. Proszę Panie, nie jestem ja mężem wymownym ani przedtem ani odtąd, jakoś mówił do sługi twego
 "A Pan mu rzekł
 "Idźże teraz, a Ja będę z usty twojemi, i nauczę cię, co byś miał mówić."

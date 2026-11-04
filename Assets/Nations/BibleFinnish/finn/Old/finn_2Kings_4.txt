@@ -5,7 +5,7 @@
 "Hän meni pois hänen tyköänsä, sulki oven jälkeensä ja poikainsa jälkeen. He kantoivat astiat hänen eteensä, ja hän kaasi niihin."
 "Ja kuin astiat olivat täytetyt, sanoi hän pojallensa
 "Ja hän tuli ja ilmoitti sen Jumalan miehelle. Hän sanoi
-"Ja se tapahtui siihen aikaan, että Elisa meni Sunemiin, ja siellä oli varallinen vaimo, joka vaati häntä syömään tykönänsä. Ja niin usein kuin hän sen kautta vaelsi, poikkesi hän sinne syömään leipää."
+"Ja se tapahtui siihen aikaan, että Elisa meni Sunemiin, ja siellä oli varallinen vaimo, joka vaati häntä #syömään tykönänsä. Ja niin usein kuin hän sen kautta vaelsi, poikkesi hän sinne syömään leipää."
 "Ja hän sanoi miehellensä
 "Tehkäämme siis tähän ylistupa, ja pankaamme hänelle sinne vuode, pöytä, istuin ja kynttiläjalka, että hän sinne menis, kuin hän meidän tykömme tulee."
 "Niin tapahtui siihen aikaan, että hän tuli sinne; ja hän meni ylistupaan ja makasi siellä."
@@ -31,7 +31,7 @@
 "Mutta Gehatsi meni pois heidän edellänsä, ja laski sauvansa pojan kasvoille, vaan ei ollut ääntä eikä tuntoa. Niin hän palasi ja kohtasi hänen, ilmoitti hänelle ja sanoi
 "Ja kuin Elisa tuli huoneesen, katso, poika makasi kuolleena hänen vuoteellansa."
 "Ja hän meni sisälle ja sulki oven molempain perään; ja hän rukoili Herraa,"
-"Nousi ja laski itsensä lapsen päälle, ja pani suunsa hänen suunsa päälle, ja silmänsä hänen silmäinsä päälle, ja kätensä hänen kättensä päälle, ja niin ojensi itsensä hänen päällensä, että lapsen ruumis tuli lämpimäksi."
+"Nousi ja laski itsensä lapsen päälle, ja pani suunsa hänen suunsa päälle, ja silmänsä hänen silmäinsä päälle, #ja kätensä hänen kättensä päälle, ja niin ojensi itsensä hänen päällensä, että lapsen ruumis tuli lämpimäksi."
 "Ja hän nousi jälleen ja kävi kerran sinne ja tänne huoneessa, nousi ja laski itsensä hänen päällensä. Niin poika aivasti seitsemän kertaa, sitte avasi poika silmänsä."
 "Ja hän kutsui Gehatsin ja sanoi
 "Niin hän tuli ja lankesi hänen jalkainsa juureen, kumarsi itsensä maahan, ja otti poikansa ja meni ulos."

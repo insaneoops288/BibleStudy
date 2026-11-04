@@ -1,4 +1,4 @@
-"Ein Psalm von David, als er in der Wüste Juda war. Gott, du bist mein Gott! Frühe suche ich dich. Es dürstet nach dir meine Seele, nach dir schmachtet mein Fleisch in einem dürren und lechzenden Lande ohne Wasser,"
+"Ein Psalm von David, als er in der Wüste Juda war. Gott, du bist mein Gott! Frühe suche ich dich. #Es dürstet nach dir meine Seele, nach dir schmachtet mein Fleisch in einem dürren und lechzenden Lande ohne Wasser,"
 "gleichwie ich dich angeschaut habe im Heiligtum, um deine Macht und deine Herrlichkeit zu sehen."
 "Denn deine Güte ist besser als Leben; meine Lippen werden dich rühmen."
 "Also werde ich dich preisen während meines Lebens, meine Hände aufheben in deinem Namen."

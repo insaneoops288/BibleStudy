@@ -13,7 +13,7 @@
 "A gdy oni odeszli, oto Anioł Pański ukazał się we śnie Józefowi mówiąc
 "Który wstawszy, wziął dzieciątko i matkę jego w nocy, i uszedł do Egiptu;"
 "I był tam aż do śmierci Herodowej, aby się wypełniło, co powiedziano od Pana przez proroka, mówiącego
-"Tedy Herod ujrzawszy, że był oszukany od mędrców, rozgniewał się bardzo, a posławszy pobił wszystkie dziatki, które były w Betlehemie i po wszystkich granicach jego, od dwóch lat i niżej, według czasu, o którym się był pilnie wywiedział od mędrców."
+"Tedy Herod ujrzawszy, że był oszukany od mędrców, rozgniewał się bardzo, a posławszy pobił wszystkie dziatki, które były w Betlehemie i #po wszystkich granicach jego, od dwóch lat i niżej, według czasu, o którym się był pilnie wywiedział od mędrców."
 "Tedy się wypełniło, co powiedziano przez Jeremijasza proroka, mówiącego
 "Głos w Ramie słyszany jest, lament, i płacz, i narzekanie wielkie
 "A gdy umarł Herod, oto Anioł Pański ukazał się we śnie Józefowi w Egipcie,"

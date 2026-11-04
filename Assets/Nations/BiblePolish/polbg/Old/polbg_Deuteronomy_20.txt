@@ -16,5 +16,5 @@
 "Ale z miast narodów tych, które Pan, Bóg twój, podawa tobie w dziedzictwo, żadnej duszy żywić nie będziesz."
 "Lecz do szczętu wytracisz je, Hetejczyka, Amorejczyka, Chananejczyka, i Ferezejczyka, Hewejczyka, i Jebuzejczyka, jakoć rozkazał Pan, Bóg twój;"
 "Przeto żeby nie uczyli was czynić według wszystkich obrzydliwości swoich, które czynili bogom swym, i zgrzeszylibyście przeciw Panu, Bogu waszemu."
-"Gdy oblężesz jakie miasto, a przez wiele dni dobywać go będziesz, abyś je wziął, nie psuj drzewa jego, wycinając je siekierą, bo z niego jeść będziesz; przetoż go nie wycinaj, (bo azaż są ludźmi drzewa polne?) abyś ich używał do oblężenia."
+"Gdy oblężesz jakie miasto, a przez wiele dni dobywać go będziesz, abyś je wziął, nie psuj drzewa jego, wycinając je siekierą, #bo z niego jeść będziesz; przetoż go nie wycinaj, (bo azaż są ludźmi drzewa polne?) abyś ich używał do oblężenia."
 "Tylko drzewa, które obaczysz, że owocu nie rodzą, te psować będziesz i wycinać

@@ -8,6 +8,6 @@
 "Inyong alalahanin ito, at mangagpakalalake kayo
 "Inyong alalahanin ang mga dating bagay ng una
 "Na nagpapahayag ng wakas mula sa pasimula, at mula nang mga unang panahon, ng mga bagay na hindi pa nangyayari; na nagsasabi, Ang payo ko ay mananayo, at gagawin ko ang aking buong kaligayahan
-"Na tumatawag ng ibong mangdadagit mula sa silanganan, ng taong gumagawa ng aking payo mula sa malayong lupain; oo, aking sinalita, akin namang papangyayarihin; aking, pinanukala, akin namang gagawin."
+"Na tumatawag ng ibong mangdadagit mula sa silanganan, ng taong gumagawa ng aking payo mula #sa malayong lupain; oo, aking sinalita, akin namang papangyayarihin; aking, pinanukala, akin namang gagawin."
 "Inyong dinggin ako, ninyong may mapagmatigas na loob; na malayo sa katuwiran
 "Aking inilalapit ang aking katuwiran, hindi maglalaon at ang aking pagliligtas ay hindi magluluwat

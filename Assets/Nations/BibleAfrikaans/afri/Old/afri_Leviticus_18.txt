@@ -1,6 +1,6 @@
 "Verder het die HERE met Moses gespreek en gesê
 "Spreek met die kinders van Israel en sê vir hulle
-"Volgens die werke van die land van Egipte waar julle in gewoon het, mag julle nie doen nie; en volgens die werke van die land Kanaän waarheen Ek julle bring, mag julle nie doen nie, en julle mag in hulle insettinge nie wandel nie."
+"Volgens die werke van die land van Egipte waar julle in gewoon het, mag julle nie doen nie; en volgens die werke van #die land Kanaän waarheen Ek julle bring, mag julle nie doen nie, en julle mag in hulle insettinge nie wandel nie."
 "My verordeninge moet julle doen en my insettinge hou om daarin te wandel. Ek is die HERE julle God."
 "Hou dan my insettinge en my verordeninge wat die mens moet doen, dat hy daardeur kan lewe. Ek is die HERE."
 "Niemand van julle mag naby sy naaste bloedverwant kom om die skaamte te ontbloot nie. Ek is die HERE."
@@ -14,7 +14,7 @@
 "Jy mag die skaamte van jou vader se broer nie ontbloot nie
 "Jy mag die skaamte van jou skoondogter nie ontbloot nie; sy is jou seun se vrou
 "Jy mag die skaamte van jou broer se vrou nie ontbloot nie; dit is die skaamte van jou broer."
-"Jy mag die skaamte van 'n vrou en haar dogter nie ontbloot nie; haar seun se dogter en haar dogter se dogter mag jy nie neem om haar skaamte te ontbloot nie. Hulle is bloedverwante. Bloedskande is dit."
+"Jy mag die skaamte van 'n vrou en haar dogter nie ontbloot nie; haar seun se dogter en haar dogter #se dogter mag jy nie neem om haar skaamte te ontbloot nie. Hulle is bloedverwante. Bloedskande is dit."
 "Jy mag ook geen vrou by haar suster as mededingster byneem om haar skaamte gelyk met die ander een, terwyl dié nog lewe, te ontbloot nie."
 "Ook mag jy nie naby 'n vrou kom terwyl sy onrein is deur haar onreinheid, om haar skaamte te ontbloot nie."
 "En jy mag geen vleeslike gemeenskap met jou naaste se vrou hê om jou met haar te verontreinig nie."

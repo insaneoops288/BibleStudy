@@ -9,7 +9,7 @@
 "És legyen Égyiptom földje pusztasággá és sivataggá, és megtudják, hogy én vagyok az Úr. Mivelhogy azt mondja
 "Ezokáért ímé, én ellened [megyek,] és folyóid ellen, és teszem Égyiptom földjét nagy pusztaságok pusztaságává Migdoltól fogva Siénéig, és Szerecsenország határáig."
 "Ne menjen át azon emberi láb, se baromi láb ne menjen át rajta, és ne lakják negyven esztendeig."
-"És adom Égyiptom földjét pusztaságra az elpusztult földek között, s városai lesznek az elpusztult városok közt pusztaságban negyven esztendeig, és eloszlatom az égyiptomiakat a nemzetek közé, s szétszórom õket a tartományokba."
+"És adom Égyiptom földjét pusztaságra az elpusztult földek között, s városai lesznek az elpusztult városok közt #pusztaságban negyven esztendeig, és eloszlatom az égyiptomiakat a nemzetek közé, s szétszórom õket a tartományokba."
 "Mert így szól az Úr Isten
 "És visszahozom Égyiptom foglyait s visszaviszem õket Pathrós földjére, az õ eredetök földjére, és ott lesznek alacsony királyság."
 "A [többi] királyságokhoz képest alacsony lészen s többé nem emeli magát a nemzetek fölé; és megkevesbítem õket, hogy el ne tapodják a nemzeteket."

@@ -1,7 +1,7 @@
 "Ang mga bagay na ito'y aking sinalita sa inyo, upang kayo'y huwag mangatisod."
 "Kayo'y palalayasin nila sa mga sinagoga
 "At ang mga bagay na ito'y gagawin nila, sapagka't hindi nila nakikilala ang Ama, ni ako man."
-"Datapuwa't ang mga bagay na ito'y sinalita ko sa inyo, upang kung dumating ang kanilang oras, ay inyong mangaalaala, kung paanong sinabi ko sa inyo. At ang mga bagay na ito'y hindi ko sinabi sa inyo buhat pa nang una, sapagka't ako'y sumasa inyo."
+"Datapuwa't ang mga bagay na ito'y sinalita ko sa inyo, upang kung dumating ang kanilang oras, ay inyong mangaalaala, kung paanong sinabi ko #sa inyo. At ang mga bagay na ito'y hindi ko sinabi sa inyo buhat pa nang una, sapagka't ako'y sumasa inyo."
 "Datapuwa't ngayong ako'y paroroon sa nagsugo sa akin; at sinoman sa inyo ay walang nagtatanong sa akin, Saan ka paroroon?"
 "Nguni't sapagka't sinalita ko ang mga bagay na ito sa inyo, ay napuno ng kalumbayan ang inyong puso."
 "Gayon ma'y sinasalita ko sa inyo ang katotohanan
@@ -16,11 +16,11 @@
 "Sangdali na lamang, at ako'y hindi na ninyo makikita; at muling sandali pa, at ako'y inyong makikita."
 "Ang ilan sa kaniyang mga alagad nga ay nangagsangusapan, Ano itong sinasabi niya sa atin, Sangdali na lamang, at ako'y hindi na ninyo makikita; at muling sangdali pa, at ako'y inyong makikita
 "Sinabi nga nila, Ano nga itong sinasabi niya, Sangdali na lamang? Hindi namin nalalaman kung ano ang sinasabi niya."
-"Natalastas ni Jesus na sa kaniya'y ibig nilang itanong, at sa kanila'y sinabi niya, Nangagtatanungan kayo tungkol dito sa aking sinabi, Sangdali na lamang, at ako'y hindi na ninyo makikita, at muling sangdali pa, at ako'y inyong makikita?"
+"Natalastas ni Jesus na sa kaniya'y ibig nilang itanong, at sa kanila'y sinabi niya, Nangagtatanungan kayo tungkol dito sa aking #sinabi, Sangdali na lamang, at ako'y hindi na ninyo makikita, at muling sangdali pa, at ako'y inyong makikita?"
 "Katotohanan, katotohanang sinasabi ko sa inyo, na kayo'y magsisiiyak at magsisipanaghoy, datapuwa't ang sanglibutan ay magagalak
 "Ang babae pagka nanganganak ay nalulumbay, sapagka't dumating ang kaniyang oras
 "At kayo nga sa ngayon ay may kalumbayan
-"At sa araw na yaon ay hindi kayo magtatanong sa akin ng anomang tanong. Katotohanan, katotohanang sinasabi ko sa inyo, Kung kayo'y hihingi ng anoman sa Ama, ay ibibigay niya sa inyo sa aking pangalan."
+"At sa araw na yaon ay hindi kayo magtatanong sa akin ng anomang tanong. Katotohanan, katotohanang sinasabi ko #sa inyo, Kung kayo'y hihingi ng anoman sa Ama, ay ibibigay niya sa inyo sa aking pangalan."
 "Hanggang ngayo'y wala pa kayong hinihinging anoman sa pangalan ko
 "Sinalita ko sa inyo ang mga bagay na ito sa malalabong pananalita
 "Sa araw na yao'y magsisihingi kayo sa aking pangalan

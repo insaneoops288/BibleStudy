@@ -3,7 +3,7 @@
 """Kështu thotë Ben-Hadadi
 "Mbreti i Izraelit u përgjigj
 "Lajmëtarët e kthyen përsëri dhe thanë
-"por nesër, në këtë orë, do të dërgoj te ti shërbëtorët e mi, të cilët do të bastisin shtëpinë tënde dhe shtëpinë e shërbëtorëve të tu; ata do të marrin të gjitha gjërat që janë me të shtrenjta për ty""""."
+"por nesër, në këtë orë, do të dërgoj te ti shërbëtorët e mi, të cilët do të bastisin shtëpinë tënde dhe #shtëpinë e shërbëtorëve të tu; ata do të marrin të gjitha gjërat që janë me të shtrenjta për ty""""."
 "Atëherë mbreti i Izraelit thirri tërë pleqtë e vendit dhe u tha
 "Tërë pleqtë dhe tërë populli thanë
 "Ashabi iu përgjigj pastaj lajmëtarëve të Ben-Hadadit
@@ -12,7 +12,7 @@
 "Kur Ben-Hadadi mori këtë përgjigje, ai ndodhej bashkë me mbretërit duke pirë në çadrat, dhe u tha shërbëtorëve të tij
 "Por ja që një profet iu afrua Ashabit, mbretit të Izraelit, dhe i tha
 "Ashabi i tha
-"Atëherë Ashabi kaloi në revistë të rinjtë që ishin në shërbim të krerëve të krahinave; ata ishin dyqind e tridhjetë e dy veta. Pastaj kaloi në revistë tërë popullin, tërë bijtë e Izraelit; ishin shtatë mijë veta."
+"Atëherë Ashabi kaloi në revistë të rinjtë që ishin në shërbim të krerëve të krahinave; ata ishin dyqind e #tridhjetë e dy veta. Pastaj kaloi në revistë tërë popullin, tërë bijtë e Izraelit; ishin shtatë mijë veta."
 "Në mesditë bënë një dalje, ndërsa Ben-Hadadi ishte duke pirë dhe duke u dehur bashkë me tridhjetë e dy mbretërit që i kishin ardhur në ndihmë."
 "Të rinjtë në shërbim të krerëve të krahinave dolën të parët. Ben-Hadadi dërgoi njerëz për të parë dhe ata i njoftuan
 "Mbreti tha
@@ -22,9 +22,9 @@
 "Atëherë profeti iu afrua mbretit të Izraelit dhe i tha
 "Shërbëtorët e mbretit të Sirisë i thanë
 "Prandaj vepro kështu
-"Mblidh një ushtri baras me atë që ke humbur, me po aq kuaj dhe qerre; pastaj do të ndeshemi në fushë dhe me siguri do të jemi më të fortë se ata"". Ai pranoi këshillën e tyre dhe veproi ashtu siç i thanë."
+"Mblidh një ushtri baras me atë që ke humbur, me po aq kuaj dhe qerre; pastaj do të ndeshemi në fushë dhe #me siguri do të jemi më të fortë se ata"". Ai pranoi këshillën e tyre dhe veproi ashtu siç i thanë."
 "Pas një viti Ben-Hadadi kaloi në revistë Sirët dhe doli në drejtim të Afekut për të luftuar Izraelin."
-"Edhe bijtë e Izraelit u thirrën për t'u mbledhur dhe u furnizuan me ushqime; pastaj u nisën kundër Sirëve dhe ngritën kampin e tyre përballë tyre; dukeshin si dy kope të vogla dhish, ndërsa Sirët e kishin mbushur vendin."
+"Edhe bijtë e Izraelit u thirrën për t'u mbledhur dhe u furnizuan me ushqime; pastaj u nisën kundër Sirëve dhe #ngritën kampin e tyre përballë tyre; dukeshin si dy kope të vogla dhish, ndërsa Sirët e kishin mbushur vendin."
 "Atëherë një njeri i Perëndisë iu afrua mbretit të Izraelit dhe i tha
 "Shtatë ditë me radhë qëndruan në kampet e tyre njeri përballë tjetrit, por ditën e shtatë filloi beteja dhe bijtë e Izraelit vranë brenda një dite të vetme njëqind mijë këmbësorë sirë."
 "Ata që shpëtuan ikën në qytetin e Afekut, ku muret ranë mbi njëzet e shtatë mijë prej tyre. Edhe Ben-Hadadi iku dhe shkoi në qytet përt'u fshehur në një dhomë të brendshme."

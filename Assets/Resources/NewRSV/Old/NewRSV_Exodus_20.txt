@@ -2,7 +2,7 @@ Then God spoke all these words,
 I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery;
 you shall have no other gods before me.
 You shall not make for yourself an idol, whether in the form of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth.
-You shall not bow down to them or worship them; for I the LORD your God am a jealous God, punishing children for the iniquity of parents, to the third and the fourth generation of those who reject me,
+You shall not bow down to them or worship them; for I the LORD your God am a jealous God, #punishing children for the iniquity of parents, to the third and the fourth generation of those who reject me,
 but showing steadfast love to the thousandth generation of those who love me and keep my commandments.
 You shall not make wrongful use of the name of the LORD your God, for the LORD will not acquit anyone who misuses his name.
 Remember the sabbath day, and keep it holy.
@@ -21,6 +21,6 @@ Moses said to the people, "Do not be afraid; for God has come only to test you a
 Then the people stood at a distance, while Moses drew near to the thick darkness where God was.
 The LORD said to Moses, Thus you shall say to the Israelites, "You have seen for yourselves that I spoke with you from heaven.
 You shall not make gods of silver alongside me, nor shall you make for yourselves gods of gold.
-You need make for me only an altar of earth and sacrifice on it your burnt offerings and your offerings of well-being, your sheep and your oxen; in every place where I cause my name to be remembered I will come to you and bless you.
+You need make for me only an altar of earth and sacrifice on it your burnt offerings and your offerings of well-being, your sheep #and your oxen; in every place where I cause my name to be remembered I will come to you and bless you.
 But if you make for me an altar of stone, do not build it of hewn stones; for if you use a chisel upon it you profane it.
 You shall not go up by steps to my altar, so that your nakedness may not be exposed on it."

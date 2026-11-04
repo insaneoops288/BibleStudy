@@ -24,7 +24,7 @@
 "Ale odpłacę Babilonowi i wszystkim mieszkańcom Chaldei za całe ich zło, które czynili na Syjonie na waszych oczach, mówi PAN."
 "Oto jestem przeciwko tobie, góro niszczycielska, mówi PAN, która niszczysz całą ziemię. Wyciągnę swoją rękę przeciwko tobie i strącę cię ze skał, i uczynię cię górą wypaloną."
 "A nie wezmą z ciebie kamienia węgielnego ani kamienia na fundamenty, bo staniesz się wiecznym pustkowiem, mówi PAN."
-"Podnieście sztandar w ziemi, zadmijcie w trąbę wśród narodów, przygotujcie przeciwko niemu narody, zwołajcie przeciwko niemu królestwa Ararat, Minni i Aszkenaz; ustanówcie przeciwko niemu dowódcę, sprowadźcie konie jak najeżone szarańcze."
+"Podnieście sztandar w ziemi, zadmijcie w trąbę wśród narodów, przygotujcie przeciwko niemu narody, zwołajcie przeciwko niemu #królestwa Ararat, Minni i Aszkenaz; ustanówcie przeciwko niemu dowódcę, sprowadźcie konie jak najeżone szarańcze."
 "Przygotujcie przeciwko niemu narody, królów Medii, ich dowódców i wszystkich ich rządców, oraz całą ziemię pod ich władzą;"
 "Wtedy ziemia zadrży i będzie w bólach, gdyż spełnią się przeciwko Babilonowi zamiary PANA, aby zamienić ziemię Babilonu w pustkowie, bez mieszkańców."
 "Mocarze Babilonu przestali walczyć, siedzą w warowniach, osłabło ich męstwo, stali się jak kobiety. Spalono jego mieszkania, wyłamano jego rygle."
@@ -56,7 +56,7 @@
 "Niszczyciel bowiem nadciąga na niego, na Babilon, i jego mocarze zostaną pojmani, ich łuki będą połamane. PAN bowiem, Bóg odpłaty, odpłaci im niezawodnie;"
 "Upiję jego książąt i mędrców, jego dowódców i rządców oraz jego mocarzy, aby zasnęli wiecznym snem i już się nie obudzili, mówi Król, PAN zastępów to jego imię."
 "Tak mówi PAN zastępów
-"Słowo, które prorok Jeremiasz polecił Serajaszowi, synowi Neriasza, syna Machsejasza, gdy ten udał się z Sedekiaszem, królem Judy, do Babilonu, w czwartym roku jego królowania. A Serajasz był spokojnym księciem."
+"Słowo, które prorok Jeremiasz polecił Serajaszowi, synowi Neriasza, syna Machsejasza, gdy ten udał się z Sedekiaszem, #królem Judy, do Babilonu, w czwartym roku jego królowania. A Serajasz był spokojnym księciem."
 "Jeremiasz więc spisał w jednej księdze całe nieszczęście, które miało spaść na Babilon, wszystkie słowa, które zostały napisane przeciwko Babilonowi."
 "I Jeremiasz powiedział do Serajasza
 "Powiesz

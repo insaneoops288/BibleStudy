@@ -10,7 +10,7 @@ and he made him king over Gilead and the Ashurites and Jezreel and Ephraim and B
 Ish-bosheth, Saul’s son, was forty years old when he began to reign over Israel, and he reigned two years. But the house of Judah followed David.
 And the time that David was king in Hebron over the house of Judah was seven years and six months.
 Abner the son of Ner, and the servants of Ish-bosheth the son of Saul, went out from Mahanaim to Gibeon.
-And Joab the son of Zeruiah and the servants of David went out and met them at the pool of Gibeon. And they sat down, the one on the one side of the pool, and the other on the other side of the pool.
+And Joab the son of Zeruiah and the servants of David went out and met them at the pool of Gibeon. And they #sat down, the one on the one side of the pool, and the other on the other side of the pool.
 And Abner said to Joab, Let the young men arise and compete before us. And Joab said, Let them arise.
 Then they arose and passed over by number, twelve for Benjamin and Ish-bosheth the son of Saul, and twelve of the servants of David.
 And each caught his opponent by the head and thrust his sword in his opponent’s side, so they fell down together. Therefore that place was called Helkath-hazzurim, which is at Gibeon.
@@ -20,7 +20,7 @@ And Asahel pursued Abner, and as he went, he turned neither to the right hand no
 Then Abner looked behind him and said, Is it you, Asahel? And he answered, It is I.
 Abner said to him, Turn aside to your right hand or to your left, and seize one of the young men and take his spoil. But Asahel would not turn aside from following him.
 And Abner said again to Asahel, Turn aside from following me. Why should I strike you to the ground? How then could I lift up my face to your brother Joab?
-But he refused to turn aside. Therefore Abner struck him in the stomach with the butt of his spear, so that the spear came out at his back. And he fell there and died where he was. And all who came to the place where Asahel had fallen and died, stood still.
+But he refused to turn aside. Therefore Abner struck him in the stomach with the butt of his spear, so that the spear came out at his #back. And he fell there and died where he was. And all who came to the place where Asahel had fallen and died, stood still.
 But Joab and Abishai pursued Abner. And as the sun was going down they came to the hill of Ammah, which lies before Giah on the way to the wilderness of Gibeon.
 And the people of Benjamin gathered themselves together behind Abner and became one group and took their stand on the top of a hill.
 Then Abner called to Joab, Shall the sword devour forever? Do you not know that the end will be bitter? How long will it be before you tell your people to turn from the pursuit of their brothers?

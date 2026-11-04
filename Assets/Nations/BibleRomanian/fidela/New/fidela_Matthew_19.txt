@@ -9,7 +9,7 @@
 "Și vă spun
 "Discipolii lui îi spun
 "Dar el le-a spus
-"Fiindcă sunt fameni care au fost născuți așa din pântecele mamei; și sunt fameni care au fost făcuți fameni de către oameni; și sunt fameni care ei înșiși s-au făcut fameni din cauza împărăției cerului. Cine este în stare să primească, să primească."
+"Fiindcă sunt fameni care au fost născuți așa din pântecele mamei; și sunt fameni care au fost făcuți fameni de către oameni; #și sunt fameni care ei înșiși s-au făcut fameni din cauza împărăției cerului. Cine este în stare să primească, să primească."
 "Atunci i s-au adus copilași ca să pună mâinile peste ei și să se roage; și discipolii i-au mustrat."
 "Dar Isus a spus
 "Și a pus mâinile peste ei și a plecat de acolo."

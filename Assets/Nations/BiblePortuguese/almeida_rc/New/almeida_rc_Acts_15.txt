@@ -1,5 +1,5 @@
 "ENTÃO alguns que tinham descido da Judeia ensinavam assim os irmãos
-"Tendo tido Paulo e Barnabé não pequena discussão e contenda contra eles, resolveu-se que Paulo e Barnabé, e alguns de entre eles, subissem a Jerusalém, aos apóstolos e aos anciãos sobre aquela questão."
+"Tendo tido Paulo e Barnabé não pequena discussão e contenda contra eles, resolveu-se que Paulo e Barnabé, #e alguns de entre eles, subissem a Jerusalém, aos apóstolos e aos anciãos sobre aquela questão."
 "E eles, sendo acompanhados pela igreja, passavam pela Fenícia e por Samaria, contando a conversão dos gentios; e davam grande alegria a todos os irmãos."
 "E, quando chegaram a Jerusalém, foram recebidos pela igreja e pelos apóstolos e anciãos, e lhes anunciaram quão grandes coisas Deus tinha feito com eles."
 "Alguns, porém, da seita dos fariseus, que tinham crido, se levantaram, dizendo que era mister circuncidá-los e mandar-lhes que guardassem a lei de Moisés."

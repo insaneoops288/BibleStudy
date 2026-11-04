@@ -1,4 +1,4 @@
-"Vậy hỡi người kia, ngươi là ai mặc lòng, hễ đoán xét kẻ khác thì không thể chữa mình được; vì trong khi đoán xét họ, ngươi cũng lên án cho chính mình ngươi nữa, bởi ngươi đoán xét họ, mà cũng làm các việc như họ."
+"Vậy hỡi người kia, ngươi là ai mặc lòng, hễ đoán xét kẻ khác thì không thể chữa mình được; vì trong khi đoán #xét họ, ngươi cũng lên án cho chính mình ngươi nữa, bởi ngươi đoán xét họ, mà cũng làm các việc như họ."
 "Vả, Chúng ta biết rằng sự phán xét của Ðức Chúa Trời đối với kẻ làm những việc như thế, là hiệp với lẽ thật."
 "Hỡi người đoán xét kẻ phạm những việc dường ấy mà mình cũng phạm kia, vậy ngươi tưởng rằng chính mình ngươi sẽ tránh khỏi sự phán xét của Ðức Chúa Trời sao?"
 "Hay là ngươi khinh dể sự dư dật của lòng nhơn từ, nhịn nhục, khoan dung Ngài, mà không nhận biết lòng nhơn từ của Ðức Chúa Trời đem ngươi đến sự ăn năn sao?"
@@ -26,4 +26,4 @@
 "Vậy nếu kẻ chưa chịu cắt bì giữ các điều răn của luật pháp thì sự chưa chịu cắt bì đó há chẳng cầm như đã chịu sao?"
 "Kẻ vốn không chịu cắt bì, mà làm trọn luật pháp sẽ đoán xét ngươi, là kẻ dẫu có chữ của luật pháp và phép cắt bì, lại phạm luật pháp."
 "Vì người nào chỉ bề ngoài là người Giu-đa, thì không phải là người Giu-đa, còn phép cắt bì làm về xác thịt ở ngoài, thì không phải là phép cắt bì;"
-"nhưng bề trong là người Giu-đa mới là người Giu-đa, phép cắt bì bởi trong lòng, làm theo cách thiêng liêng, không theo chữ nghĩa, mới là phép cắt bì thật. Một người Giu-đa như vậy được khen ngợi, chẳng phải bởi loài người, bèn là bởi Ðức Chúa Trời."
+"nhưng bề trong là người Giu-đa mới là người Giu-đa, phép cắt bì bởi trong lòng, làm theo cách thiêng liêng, không theo chữ nghĩa, mới #là phép cắt bì thật. Một người Giu-đa như vậy được khen ngợi, chẳng phải bởi loài người, bèn là bởi Ðức Chúa Trời."

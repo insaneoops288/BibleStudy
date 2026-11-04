@@ -1,7 +1,7 @@
 "Një ditë ndodhi që Jonathani, bir i Saulit, i tha shqyrtarit të tij të ri
 "Sauli rrinte atëherë në skajin e Gibeahut nën shegën që është në Migron, dhe njerëzit që ishin me të arrinin në rreth gjashtë qind veta."
 "Ahijahu, bir i Ahitubit, vëllai i Ikabodit, birit të Finehasit, birit të Elit, prift i Zotit, në Shiloh kishte veshur efodin. Por populli nuk e dinte që Jonathani kishte ikur."
-"Ndërmjet kalimeve nëpër të cilat Jonathani kërkonte të arrinte në pozicionin e Filistejve, kishte një shkëmb që ngrihej nga një anë dhe një shkëmb që ngrihej nga ana tjetër; njëri quhej Botsets dhe tjetri Seneh."
+"Ndërmjet kalimeve nëpër të cilat Jonathani kërkonte të arrinte në pozicionin e Filistejve, kishte një shkëmb që ngrihej #nga një anë dhe një shkëmb që ngrihej nga ana tjetër; njëri quhej Botsets dhe tjetri Seneh."
 "Njeri nga shkëmbinjtë ngrihej në veri, përballë Mikmashit dhe tjetri në jug, përballë Gibeahut."
 "Jonathani i tha shqyrtarit të ri
 "Shqyrtari i tij iu përgjegj
@@ -24,7 +24,7 @@
 "Por atë ditë njerëzit e Izraelit ishin të rraskapitur, sepse Sauli e kishte vënë popullin të betohej
 "Tërë populli hyri në një pyll, ku kishte mjaltë për tokë."
 "Me të hyrë populli në pyll, ai pa mjaltin që kullonte; por askush nuk e çoi dorën në gojë, sepse populli kishte frikë nga betimi që kishte bërë."
-"Por Jonathani nuk e kishte dëgjuar atin e tij kur ai e kishte vënë popullin të betohej; prandaj zgjati majën e bastunit që kishte në dorë, e ngjeu në hojet e mjaltit dhe e çoi në gojë; kështu shikimi i tij u bë më i qartë."
+"Por Jonathani nuk e kishte dëgjuar atin e tij kur ai e kishte vënë popullin të betohej; prandaj zgjati majën e bastunit që kishte #në dorë, e ngjeu në hojet e mjaltit dhe e çoi në gojë; kështu shikimi i tij u bë më i qartë."
 "Njeri nga populli mori fjalën dhe tha
 "Atëherë Jonathani tha
 "Sa më mirë do të kishte qenë sikur populli të kishte ngrënë sot lirisht plaçkën që gjeti te armiqtë! A nuk do të kishte pasur një masakër më të madhe të Filistejve?""."

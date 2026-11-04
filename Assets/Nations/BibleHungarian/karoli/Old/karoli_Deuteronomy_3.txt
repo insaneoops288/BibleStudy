@@ -8,8 +8,8 @@
 "És elvettük abban az idõben az Emoreusok két királyának kezébõl azt a földet, a mely a Jordánon túl vala, az Arnon pataktól fogva a Hermon hegyéig."
 "(A Sidoniak a Hermont Szirjonnak, az Emoreusok pedig Szenirnek hívják.)"
 "A síkságnak minden városát, és az egész Gileádot, meg az egész Básánt Szalkáig és Edreig, a melyek a Básánbeli Óg országának városai voltak."
-"Mert egyedül Óg, Básánnak királya maradt meg az óriások maradéka közül. Ímé az õ ágya vas-ágy, nemde Rabbátban az Ammon fiainál van-é? Kilencz sing a hosszasága és négy sing a szélessége, férfi könyök szerint."
-"Ezt a földet pedig, a [melyet] abban az idõben örökségünkké tettünk, Aróertõl fogva, a mely az Arnon patak mellett van, és a Gileád hegyének felét, és annak városait odaadtam a Rúbenitáknak és Gáditáknak."
+"Mert egyedül Óg, Básánnak királya maradt meg az óriások maradéka közül. Ímé az õ ágya vas-ágy, nemde Rabbátban #az Ammon fiainál van-é? Kilencz sing a hosszasága és négy sing a szélessége, férfi könyök szerint."
+"Ezt a földet pedig, a [melyet] abban az idõben örökségünkké tettünk, Aróertõl fogva, a mely az Arnon #patak mellett van, és a Gileád hegyének felét, és annak városait odaadtam a Rúbenitáknak és Gáditáknak."
 "A Gileád többi részét pedig, és az egész Básánt, az Óg országát odaadtam a Manassé fél törzsének, Argóbnak egész vidékét. Ezt az egész Básánt óriások földének hívták."
 "Jair, Manassénak fia, kapta Argóbnak egész vidékét, a Gessuriták és Maakátiták határáig; és azokat a Básánnal együtt az õ nevérõl Jair faluinak hívják mind e mai napig."
 "Mákirnak pedig adtam Gileádot."
@@ -17,11 +17,11 @@
 "És a síkságot és határul a Jordánt, a Kinnerettõl a Síkság tengeréig, a Sóstengerig, a mely a Piszga-[hegy] lába alatt van napkelet felõl."
 "És parancsolék abban az idõben néktek, mondván
 "Csak feleségeitek, kicsinyeitek és barmaitok ([mert] tudom, hogy sok barmotok van) maradjanak a ti városaitokban, a melyeket én adtam néktek."
-"Mindaddig, a míg nyugodalmat ád az Úr a ti atyátokfiainak, mint néktek, és azok is bírhatják a földet, a melyet az Úr, a ti Istenetek ád nékik a Jordánon túl. Azután térjetek vissza, kiki az õ örökségébe, a melyet adtam néktek."
+"Mindaddig, a míg nyugodalmat ád az Úr a ti atyátokfiainak, mint néktek, és azok is bírhatják a földet, a melyet az #Úr, a ti Istenetek ád nékik a Jordánon túl. Azután térjetek vissza, kiki az õ örökségébe, a melyet adtam néktek."
 "Józsuénak is parancsolék abban az idõben, mondván
 "Ne féljetek tõlök, mert az Úr, a ti Istenetek, maga hadakozik ti érettetek!"
 "Könyörgék is az Úrnak abban az idõben, mondván
-"Uram, Isten, te elkezdetted megmutatni a te szolgádnak a te nagyságodat és hatalmas kezedet! Mert kicsoda olyan Isten mennyben és földön, a ki cselekedhetnék a te cselekedeteid és hatalmad szerint?"
+"Uram, Isten, te elkezdetted megmutatni a te szolgádnak a te nagyságodat és hatalmas kezedet! Mert kicsoda #olyan Isten mennyben és földön, a ki cselekedhetnék a te cselekedeteid és hatalmad szerint?"
 "Hadd menjek át kérlek, és hadd lássam meg azt a jó földet, a mely a Jordánon túl van, és azt a jó hegyet, és a Libanont!"
 "De megharaguvék az Úr én reám ti miattatok, és nem hallgatott meg engem; hanem ezt mondá az Úr nékem
 "Menj fel a Piszga tetejére, és emeld fel a te szemeidet napnyugot felé és észak felé, dél felé és napkelet felé, és nézz szét a te szemeiddel, mert nem mégy át ezen a Jordánon."

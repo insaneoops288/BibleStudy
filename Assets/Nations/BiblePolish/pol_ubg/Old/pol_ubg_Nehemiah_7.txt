@@ -2,7 +2,7 @@
 "Nad Jerozolimą postawiłem Chananiego, swojego brata, a Chananiasza ustanowiłem dowódcą pałacu. On bowiem był wiernym człowiekiem i bał się Boga bardziej niż wielu innych;"
 "I powiedziałem do nich
 "A miasto było przestronne i wielkie, ale ludu w jego murach było niewiele, a domy jeszcze nie zostały odbudowane."
-"I mój Bóg położył mi na sercu, abym zebrał dostojników, przełożonych i lud, aby zostali spisani według rodowodów. Wtedy znalazłem księgę rodowodów tych, którzy pierwsi powrócili, a znalazłem w niej taki zapis."
+"I mój Bóg położył mi na sercu, abym zebrał dostojników, przełożonych i lud, aby zostali spisani według #rodowodów. Wtedy znalazłem księgę rodowodów tych, którzy pierwsi powrócili, a znalazłem w niej taki zapis."
 "Oto ludzie tej prowincji, którzy przybyli z niewoli, dokąd zostali uprowadzeni, których uprowadził Nabuchodonozor, król Babilonu, a powrócili do Jerozolimy i do Judy, każdy do swego miasta."
 "Przyszli z Zorobabelem, z Jeszuą, Nehemiaszem, Azariaszem, Raamiaszem, Nachamanim, Mardocheuszem, Bilszanem, Misperetem, Bigwajem, Nechumem i Baaną. Oto liczba mężczyzn ludu Izraela
 "Synów Parosza – dwa tysiące stu siedemdziesięciu dwóch;"

@@ -7,7 +7,7 @@
 "Şi a fost o ceartă între păzitorii vitelor lui Avram şi păzitorii vitelor lui Lot; şi canaanitul şi perizitul locuiau pe atunci în ţară."
 "Şi Avram i-a spus lui Lot
 "Nu [este] întreaga ţară înaintea ta? Desparte-te, te rog, de mine; dacă [o vei lua] la stânga, atunci eu voi merge la dreapta, sau dacă [mergi] la dreapta, atunci eu voi merge la stânga."
-"Şi Lot şi-a ridicat ochii şi a privit toată câmpia Iordanului, că aceasta[ era] bine udată peste tot, înainte ca DOMNUL să fi distrus Sodoma şi Gomora, [era] ca grădina DOMNULUI, asemenea ţării Egiptului, cum vii la Ţoar."
+"Şi Lot şi-a ridicat ochii şi a privit toată câmpia Iordanului, că aceasta[ era] bine udată peste tot, înainte ca #DOMNUL să fi distrus Sodoma şi Gomora, [era] ca grădina DOMNULUI, asemenea ţării Egiptului, cum vii la Ţoar."
 "Atunci Lot a ales pentru el toată câmpia Iordanului; şi Lot a călătorit spre est; şi ei s-au despărţit unul de celălalt."
 "Avram a locuit în ţara lui Canaan şi Lot a locuit în cetăţile din câmpie şi [şi]-a întins cortul spre Sodoma."
 "Dar oamenii din Sodoma erau peste măsură de stricaţi şi păcătoşi înaintea DOMNULUI."

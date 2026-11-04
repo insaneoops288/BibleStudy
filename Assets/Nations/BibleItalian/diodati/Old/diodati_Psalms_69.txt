@@ -1,7 +1,7 @@
 "Salmo di Davide, dato al capo de’ Musici, sopra Sosannim. SALVAMI, o Dio; Perciocchè le acque son pervenute infino all’anima."
 "Io sono affondato in un profondo pantano, Ove non vi è luogo da fermare il piè; Io son giunto alle profondità dell’acqua, e la corrente m’inonda."
 "Io sono stanco di gridare, io ho la gola asciutta; Gli occhi mi son venuti meno, aspettando l’Iddio mio."
-"Quelli che mi odiano senza cagione Sono in maggior numero che i capelli del mio capo; Quelli che mi disertano, e che mi sono nemici a torto, si fortificano; Ecco là, io ho renduto ciò che non aveva rapito."
+"Quelli che mi odiano senza cagione Sono in maggior numero che i capelli del mio capo; Quelli che mi disertano, #e che mi sono nemici a torto, si fortificano; Ecco là, io ho renduto ciò che non aveva rapito."
 "O Dio, tu conosci la mia follia; E le mie colpe non ti sono occulte."
 "O Signore, Dio degli eserciti, Quelli che sperano in te non sieno confusi per cagion di me; Quelli che ti cercano non sieno svergognati per me, O Dio d’Israele."
 "Perciocchè per l’amor di te io soffro vituperio; Vergogna mi ha coperta la faccia."

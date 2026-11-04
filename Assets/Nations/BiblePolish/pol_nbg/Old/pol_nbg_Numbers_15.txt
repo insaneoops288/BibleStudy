@@ -1,6 +1,6 @@
 "Potem WIEKUISTY oświadczył Mojżeszowi, mówiąc
 "Oświadcz synom Israela i im powiedz
-"a zechcecie spełnić ofiarę ogniową WIEKUISTEMU całopalenie, albo ofiarę rzeźną, przeznaczając ją według ślubu, bądź na dobrowolny dar, bądź na wasze uroczystości, by uczynić zapach przyjemny WIEKUISTEMU z rogacizny, czy trzód"
+"a zechcecie spełnić ofiarę ogniową WIEKUISTEMU całopalenie, albo ofiarę rzeźną, przeznaczając ją według ślubu, bądź na #dobrowolny dar, bądź na wasze uroczystości, by uczynić zapach przyjemny WIEKUISTEMU z rogacizny, czy trzód"
 "to niech ten, co składa swoją ofiarę WIEKUISTEMU, przyniesie przy tym ofiarę z pokarmów
 "Zaś na zalewkę czwartą część hynu wina. Tak masz przynosić zarówno przy całopaleniu, jak i przy ofierze rzeźnej, do każdego jagnięcia."
 "Przy baranie także przyniesiesz ofiarę z pokarmów dwie dziesiąte części efy przedniej mąki, zaczynionej trzecią częścią hynu oliwy."
@@ -11,7 +11,7 @@
 "Tak należy czynić przy każdym byku oraz przy każdym baranie lub jagnięciu z owiec, czy z kóz."
 "To uczynicie przy każdej, według liczby składanych przez was ofiar; stosownie do ich liczby."
 "W ten sposób uczyni to każdy krajowiec, który składa ofiarę ogniową na zapach przyjemny dla WIEKUISTEGO."
-"A gdyby oprócz was gościem był cudzoziemiec, albo będący między wami w waszych pokoleniach, a zechce spełnić ofiarę ogniową na zapach przyjemny dla WIEKUISTEGO to jak wy czynicie, tak i on będzie czynił."
+"A gdyby oprócz was gościem był cudzoziemiec, albo będący między wami w waszych pokoleniach, a zechce spełnić #ofiarę ogniową na zapach przyjemny dla WIEKUISTEGO to jak wy czynicie, tak i on będzie czynił."
 "Ogólnie jedna ustawa jest dla was oraz dla przybysza cudzoziemca; to jest długotrwała ustawa w waszych pokoleniach; jak wy, tak też i cudzoziemiec będzie przed obliczem WIEKUISTEGO."
 "Jedno prawo i jeden wyrok będzie dla was oraz dla cudzoziemca, który u was przebywa."
 "Nadto WIEKUISTY oświadczył Mojżeszowi, mówiąc
@@ -21,7 +21,7 @@
 "W waszych pokoleniach, z pierwociny waszego ciasta oddawajcie daninę WIEKUISTEMU."
 "A gdybyście zbłądzili i nie spełnili któregoś ze wszystkich tych przykazań, które WIEKUISTY wypowiedział do Mojżesza;"
 "z wszystkiego, co WIEKUISTY wam rozkazał przez Mojżesza, od dnia, którego WIEKUISTY wam to rozkazał i nadal w waszych pokoleniach;"
-"to jeżeli z nieuwagi zboru popełniony był ten błąd, niech cały zbór złoży według przepisu jednego, młodego cielca na całopalenie, na zapach przyjemny dla WIEKUISTEGO, wraz z jego ofiarą z pokarmów i zalewką oraz jednego kozła na ofiarę zagrzeszną."
+"to jeżeli z nieuwagi zboru popełniony był ten błąd, niech cały zbór złoży według przepisu jednego, młodego cielca na całopalenie, #na zapach przyjemny dla WIEKUISTEGO, wraz z jego ofiarą z pokarmów i zalewką oraz jednego kozła na ofiarę zagrzeszną."
 "A kapłan oczyści cały zbór synów Israela i będzie im odpuszczone; bo to był błąd, a oni przynieśli WIEKUISTEMU za swój błąd swoją ofiarę ogniową, oraz przed WIEKUISTEGO swoją ofiarę zagrzeszną."
 "Więc będzie odpuszczone całemu zborowi synów Israela oraz cudzoziemcowi, który pośród nich przebywa; gdyż cały lud popełnił to nierozmyślnie."
 "A jeśli ktoś sam tylko nierozmyślnie zgrzeszył, to niech złoży roczną kozę na ofiarę zagrzeszną."
@@ -36,6 +36,6 @@
 "Więc cały zbór wyprowadził go poza obóz oraz ukamienował go kamieniami, i umarł, jak WIEKUISTY rozkazał Mojżeszowi."
 "Nadto WIEKUISTY powiedział Mojżeszowi, mówiąc
 "Powiedz synom Israela i im poleć, by w swoich pokoleniach zrobili sobie strzępki na skrajach swoich szat, i umieścili na tych narożnych strzępkach nić z błękitu."
-"Niech to będzie dla was strzępkiem, abyście spoglądając na niego, wspominali wszystkie przykazania WIEKUISTEGO oraz je spełniali, a nie unosili się za waszym sercem oraz za waszymi oczami, za którymi się uganiacie."
+"Niech to będzie dla was strzępkiem, abyście spoglądając na niego, wspominali wszystkie przykazania WIEKUISTEGO oraz je spełniali, #a nie unosili się za waszym sercem oraz za waszymi oczami, za którymi się uganiacie."
 "Abyście pamiętali oraz spełniali wszystkie Moje przykazania, i byli świętymi dla waszego Boga."
 "Ja jestem WIEKUISTY, wasz Bóg, który was wyprowadził z ziemi Micraim, aby dla was być Bogiem; Ja, WIEKUISTY, wasz Bóg."

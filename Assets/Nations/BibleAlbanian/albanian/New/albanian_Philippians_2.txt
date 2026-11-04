@@ -11,7 +11,7 @@
 "Prandaj, të dashurit e mi, ashtu sikur keni qenë gjithnjë të bindur jo vetëm kur isha i pranishëm, por edhe më shumë tani që jam larg, punoni për shpëtimin tuaj me frikë e me dridhje,"
 "sepse Perëndia është ai që vepron në ju vullnetin dhe veprimtarinë, sipas pëlqimit të tij."
 "Bëni çdo gjë pa u ankuar dhe pa kundërshtime,"
-"që të jeni të paqortueshëm dhe të pastër, bij të Perëndisë pa të meta në mes të një brezi të padrejtë dhe të çoroditur, në mes të të cilit ju ndriçoni si pishtarë në botë, duke e mbajtur lart fjalën e jetës,"
+"që të jeni të paqortueshëm dhe të pastër, bij të Perëndisë pa të meta në mes të një brezi të padrejtë dhe #të çoroditur, në mes të të cilit ju ndriçoni si pishtarë në botë, duke e mbajtur lart fjalën e jetës,"
 "që unë të kem me se të krenohem në ditën e Krishtit, se nuk vrapova kot dhe as nuk u mundova kot."
 "Por, edhe sikur unë të jem derdhur si flijim dhe shërbesë të besimit tuaj, gëzohem dhe ngazëlloj me ju të gjithë."
 "Po ashtu edhe ju gëzohuni dhe ngazëllohuni me mua."

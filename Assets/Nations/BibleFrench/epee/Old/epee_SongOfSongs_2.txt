@@ -11,7 +11,7 @@
 "Car voici, l'hiver est passé, la pluie a cessé, elle s'en est allée;"
 "Les fleurs paraissent sur la terre, le temps des chansons est venu, et la voix de la tourterelle se fait entendre dans nos campagnes."
 "Le figuier a poussé ses premières figues, et les vignes ont des grappes et exhalent leur odeur. Lève-toi, ma bien-aimée, ma belle, et viens!"
-"Ma colombe, qui te tiens dans les fentes du rocher, qui te caches dans les lieux escarpés, fais-moi voir ton regard, et fais-moi entendre ta voix; car ta voix est douce, et ton regard est gracieux."
+"Ma colombe, qui te tiens dans les fentes du rocher, qui te caches dans les lieux escarpés, fais-moi voir #ton regard, et fais-moi entendre ta voix; car ta voix est douce, et ton regard est gracieux."
 "Prenez-nous les renards, les petits renards, qui gâtent les vignes, depuis que nos vignes ont des grappes."
 "Mon bien-aimé est à moi, et je suis à lui; il paît son troupeau parmi les lis."
 "Avant que le vent du jour souffle, et que les ombres fuient, reviens, mon bien-aimé, comme la gazelle, ou le faon des biches, sur les montagnes qui nous séparent."

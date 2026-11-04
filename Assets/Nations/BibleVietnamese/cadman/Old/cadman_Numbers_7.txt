@@ -85,5 +85,5 @@
 "mỗi cái đĩa bạc nặng một trăm ba mươi siếc-lơ, và mỗi cái chậu bạc nặng bảy chục siếc-lơ. Tổng cộng số bạc của các đĩa và chậu là hai ngàn bốn trăm siếc-lơ, theo siếc-lơ của nơi thánh."
 "Mười hai cái chén vàng đầy thuốc thơm, mỗi cái mười siếc-lơ, theo siếc-lơ của nơi thánh; tổng cộng số vàng của chén nặng được một trăm hai mươi siếc-lơ."
 "Tổng cộng số bò đực về của lễ thiêu là mười hai con, với mười hai con chiên đực, mười hai con chiên con giáp năm cùng những của lễ chay cặp theo, và mười hai con dê đực dùng về của lễ chuộc tội."
-"Tổng cộng số bò đực về của lễ thù ân là hai mươi bốn con với sáu mươi con chiên đực, sáu mươi con dê đực, sáu mươi con chiên con giáp năm. Ấy là lễ vật dâng về cuộc khánh thành bàn thờ, sau khi bàn thờ được xức dầu rồi."
-89 "Khi Môi-se vào hội mạc đặng hầu chuyện cùng Ðức Giê-hô-va, thì người nghe Tiếng nói cùng mình từ trên nắp thi ân để trên hòm bảng chứng, ở giữa hai chê-ru-bin, người hầu chuyện cùng Ðức Giê-hô-va vậy."
+"Tổng cộng số bò đực về của lễ thù ân là hai mươi bốn con với sáu mươi con chiên đực, sáu mươi con dê đực, sáu #mươi con chiên con giáp năm. Ấy là lễ vật dâng về cuộc khánh thành bàn thờ, sau khi bàn thờ được xức dầu rồi."
+89 "Khi Môi-se vào hội mạc đặng hầu chuyện cùng Ðức Giê-hô-va, thì người nghe Tiếng nói cùng mình từ trên #nắp thi ân để trên hòm bảng chứng, ở giữa hai chê-ru-bin, người hầu chuyện cùng Ðức Giê-hô-va vậy."

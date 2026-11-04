@@ -1,6 +1,6 @@
 "Ðức Giê-hô-va lại phán cùng Môi-se rằng
 "Hãy nói cùng dân Y-sơ-ra-ên rằng
-"nếu là thầy tế lễ chịu xức dầu rồi mà phạm tội, và vì cớ đó gây cho dân sự phải mắc tội, thì vì tội mình đã phạm, người phải dâng cho Ðức Giê-hô-va một con bò tơ không tì vít chi, đặng làm của lễ chuộc tội."
+"nếu là thầy tế lễ chịu xức dầu rồi mà phạm tội, và vì cớ đó gây cho dân sự phải mắc tội, thì vì #tội mình đã phạm, người phải dâng cho Ðức Giê-hô-va một con bò tơ không tì vít chi, đặng làm của lễ chuộc tội."
 "Người sẽ dẫn bò tơ đó đến cửa hội mạc trước mặt Ðức Giê-hô-va, nhận tay mình trên đầu nó, rồi giết nó trước mặt Ðức Giê-hô-va."
 "Thầy tế lễ chịu xức dầu rồi sẽ lấy huyết bò tơ đem vào trong hội mạc,"
 "nhúng ngón tay mình trong huyết, rảy bảy lần trước mặt Ðức Giê-hô-va, đối ngang bức màn nơi đền thánh."
@@ -32,4 +32,4 @@
 "Nếu của lễ chuộc tội người bằng chiên con, thì phải dâng một con cái chẳng tì vít chi,"
 "nhận tay mình trên đầu con sinh tế chuộc tội, rồi giết nó tại nơi giết con sinh dùng làm của lễ thiêu."
 "Ðoạn, thầy tế lễ sẽ nhúng ngón tay mình trong huyết, bôi trên các sừng bàn thờ về của lễ thiêu, và đổ hết huyết dưới chân bàn thờ;"
-"gỡ hết mỡ như cách gỡ mỡ của chiên con dùng làm của lễ thù ân, đem xông trên bàn thờ như các của lễ dùng lửa dâng cho Ðức Giê-hô-va. Ấy vậy, thầy tế lễ sẽ chuộc tội cho người đó, thì tội người sẽ được tha."
+"gỡ hết mỡ như cách gỡ mỡ của chiên con dùng làm của lễ thù ân, đem xông trên bàn thờ như các của lễ #dùng lửa dâng cho Ðức Giê-hô-va. Ấy vậy, thầy tế lễ sẽ chuộc tội cho người đó, thì tội người sẽ được tha."

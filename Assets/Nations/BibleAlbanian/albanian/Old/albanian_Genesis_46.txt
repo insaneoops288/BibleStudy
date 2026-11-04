@@ -31,4 +31,4 @@
 "Atëherë Jozefi u tha vëllezërve të tij dhe familjes të atit të tij
 "Ata janë barinj, sepse kanë qenë gjithnjë rritës bagëtish, dhe kanë sjellë me vete kopetë e tyre dhe gjithçka zotërojnë""."
 "Kur Faraoni do t'ju thërrasë dhe do t'ju thotë
-"""Shërbëtorët e tu kanë qënë rritës bagëtish nga fëmijëria e deri sot, si ne ashtu dhe etërit tanë"", që të keni mundësi të banoni në vendin e Goshenit. Sepse Egjiptasit ndiejnë neveri për tërë barinjtë""."
+"""Shërbëtorët e tu kanë qënë rritës bagëtish nga fëmijëria e deri sot, si ne ashtu dhe etërit tanë"", #që të keni mundësi të banoni në vendin e Goshenit. Sepse Egjiptasit ndiejnë neveri për tërë barinjtë""."

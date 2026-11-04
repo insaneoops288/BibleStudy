@@ -1,7 +1,7 @@
 "Darnach war ein Fest der Juden, und Jesus zog hinauf nach Jerusalem."
 "Es ist aber zu Jerusalem beim Schaftor ein Teich, der auf hebräisch Bethesda heißt und der fünf Säulenhallen hat."
 "In diesen lag eine große Menge von Kranken, Blinden, Lahmen, Abgezehrten, welche auf die Bewegung des Wassers warteten."
-"Denn ein Engel stieg zu gewissen Zeiten in den Teich hinab und bewegte das Wasser. Wer nun nach der Bewegung des Wassers zuerst hineinstieg, der wurde gesund, mit welcherlei Krankheit er auch behaftet war."
+"Denn ein Engel stieg zu gewissen Zeiten in den Teich hinab und bewegte das Wasser. Wer nun nach #der Bewegung des Wassers zuerst hineinstieg, der wurde gesund, mit welcherlei Krankheit er auch behaftet war."
 "Es war aber ein Mensch daselbst, der achtunddreißig Jahre in seiner Krankheit zugebracht hatte."
 "Als Jesus diesen daliegen sah und erfuhr, daß es schon so lange Zeit mit ihm währte, spricht er zu ihm
 "Der Kranke antwortete ihm
@@ -33,7 +33,7 @@
 "Ihr habt zu Johannes gesandt, und er hat der Wahrheit Zeugnis gegeben."
 "Ich aber nehme das Zeugnis nicht von einem Menschen, sondern ich sage solches, damit ihr gerettet werdet."
 "Jener war die brennende und scheinende Leuchte, ihr aber wolltet euch nur eine Stunde an ihrem Scheine ergötzen."
-"Ich aber habe ein Zeugnis, welches größer ist als das des Johannes; denn die Werke, die mir der Vater gegeben hat, daß ich sie vollbringe, eben die Werke, die ich tue, zeugen von mir, daß der Vater mich gesandt hat."
+"Ich aber habe ein Zeugnis, welches größer ist als das des Johannes; denn die Werke, die mir der Vater gegeben hat, #daß ich sie vollbringe, eben die Werke, die ich tue, zeugen von mir, daß der Vater mich gesandt hat."
 "Und der Vater, der mich gesandt hat, hat selbst von mir gezeugt. Ihr habt nie weder seine Stimme gehört noch seine Gestalt gesehen;"
 "und sein Wort habt ihr nicht bleibend in euch, weil ihr dem nicht glaubet, den er gesandt hat."
 "Ihr erforschet die Schriften, weil ihr meinet, darin das ewige Leben zu haben; und sie sind es, die von mir zeugen."

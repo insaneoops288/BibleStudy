@@ -6,7 +6,7 @@
 "Y el Espíritu de Jehová cayó sobre él, y lo despedazó como quien despedaza un cabrito, [sin tener] nada en su mano; pero no contó ni a su padre ni a su madre lo que había hecho."
 "Vino pues, y habló a la mujer que había agradado a Sansón."
 "Y volviendo después de algunos días para tomarla, se apartó [del camino] para ver el cuerpo muerto del león, y he aquí que en el cuerpo del león [había] un enjambre de abejas, y un panal de miel."
-"Y tomándolo en sus manos, se fue comiéndolo por el camino; y cuando llegó [adonde estaban] su padre y su madre, les dio también a ellos que comiesen; pero no les contó que había tomado aquella miel del cuerpo del león."
+"Y tomándolo en sus manos, se fue comiéndolo por el camino; y cuando llegó [adonde estaban] su padre y su madre, #les dio también a ellos que comiesen; pero no les contó que había tomado aquella miel del cuerpo del león."
 "Vino, pues, su padre a la mujer, y Sansón hizo allí banquete; porque así solían hacer los jóvenes."
 "Y aconteció que cuando ellos le vieron, tomaron treinta compañeros que estuviesen con él;"
 "A los cuales Sansón dijo
@@ -16,5 +16,5 @@
 "Y la esposa de Sansón lloró delante de él, y dijo
 "Y ella lloró delante de él los siete días que ellos tuvieron banquete; y sucedió que el séptimo día él se lo declaró, porque ella lo presionaba; y ella declaró el enigma a los hijos de su pueblo."
 "Y al séptimo día, antes que el sol se pusiese, los de la ciudad le dijeron
-"Y el Espíritu de Jehová cayó sobre él, y descendió a Ascalón, e hirió treinta hombres de ellos; y tomando el despojo, dio las mudas de ropa a los que habían explicado el enigma; y encendido en enojo se fue a casa de su padre."
+"Y el Espíritu de Jehová cayó sobre él, y descendió a Ascalón, e hirió treinta hombres de ellos; y tomando el despojo, dio #las mudas de ropa a los que habían explicado el enigma; y encendido en enojo se fue a casa de su padre."
 "Y la esposa de Sansón fue [dada] a su compañero, con el cual él antes se acompañaba."

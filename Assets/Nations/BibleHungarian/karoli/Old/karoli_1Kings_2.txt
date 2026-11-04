@@ -2,10 +2,10 @@
 "Én elmegyek az egész földnek útján; erõsítsd meg magad és légy férfiú."
 "És õrízd meg az Úrnak a te Istenednek õrizetit, hogy az õ útain járj, és megõrizzed az õ rendeléseit, parancsolatit és ítéleteit, és bizonyságtételeit, a mint meg van írva a Mózes törvényében
 "Hogy megteljesítse az Úr az õ beszédét, melyet szólott nékem, mondván
-"Azt is jól tudod, mit cselekedett én velem Joáb, a Séruja fia, mit cselekedett az Izráel seregeinek két fõvezérével, Abnerrel, a Nér fiával, és Amasával, a Jéter fiával, a kiket megölt, harczi vért ontván békességnek idején, és hintett harczi vért az õ derekának övére és az õ lábának saruira."
+"Azt is jól tudod, mit cselekedett én velem Joáb, a Séruja fia, mit cselekedett az Izráel seregeinek két fõvezérével, Abnerrel, a Nér fiával, és Amasával, #a Jéter fiával, a kiket megölt, harczi vért ontván békességnek idején, és hintett harczi vért az õ derekának övére és az õ lábának saruira."
 "Cselekedjél a te bölcseséged szerint, és ne engedd, hogy megõszülvén, békességgel menjen a koporsóba."
 "De a gileádbeli Barzillainak fiaival cselekedjél irgalmasságot, és legyenek a te asztalod vendégei, mert így közeledtek õk is hozzám, mikor Absolon, a te testvéred elõl menekültem."
-"És ímé veled van Sémei, Gérának fia, a Bahurimbeli Benjáminita, a ki gyalázatosan szidalmazott akkor, mikor Mahanáimba mentem; de aztán, mikor elém alájött a Jordánhoz, megesküdtem néki az Úrra, és mondék
+"És ímé veled van Sémei, Gérának fia, a Bahurimbeli Benjáminita, a ki gyalázatosan szidalmazott akkor, mikor #Mahanáimba mentem; de aztán, mikor elém alájött a Jordánhoz, megesküdtem néki az Úrra, és mondék
 "Te azonban ne hagyd õt büntetés nélkül, és mivel eszes férfiú vagy, tudod, mit kelljen cselekedned vele, hogy az õ vénségét vérrel bocsássad a koporsóba."
 "Azután elaludt Dávid az õ atyáival, és eltemetteték a Dávid városában."
 "Az idõ pedig, a melyben uralkodék Dávid Izráelen, negyven esztendõ. Hebronban uralkodék hét esztendeig, Jeruzsálemben pedig uralkodék harminchárom esztendeig."
@@ -16,7 +16,7 @@
 "Most egy kérést kérek tõled, ne szégyenítsd meg orczámat. Az pedig monda
 "És monda
 "Felele Bethsabé
-"És beméne Bethsabé Salamon királyhoz, hogy beszéljen vele Adónia érdekében; és felkele a király, és elébe menvén meghajtá magát elõtte, és leüle királyi székibe; és széket tétete a király anyjának, hogy üljön az õ jobbkeze felõl."
+"És beméne Bethsabé Salamon királyhoz, hogy beszéljen vele Adónia érdekében; és felkele a király, és elébe menvén meghajtá magát #elõtte, és leüle királyi székibe; és széket tétete a király anyjának, hogy üljön az õ jobbkeze felõl."
 "És monda [Bethsabé]
 "Monda õ
 "Akkor felele Salamon király, és monda az õ anyjának
@@ -29,7 +29,7 @@
 "Hírül adák pedig Salamon királynak, hogy Joáb az Úrnak sátorához futott, és ímé az oltár mellett áll. Ekkor elküldé Salamon Benáját, a Jójada fiát, mondván
 "Mikor pedig Benája az Úrnak sátorához ért, monda néki
 "És monda néki a király
-"És fordítsa az Úr az õ fejére az õ vérét, a miért nálánál igazabb és jobb két férfira támadott, és megölé õket fegyverrel az én atyámnak, Dávidnak tudta nélkül, [tudniillik] Abnert, Nérnek fiát, az Izráel seregének fõvezérét és Amasát, Jéternek fiát, Júda vitézeinek fõvezérét."
+"És fordítsa az Úr az õ fejére az õ vérét, a miért nálánál igazabb és jobb két férfira támadott, és megölé õket fegyverrel #az én atyámnak, Dávidnak tudta nélkül, [tudniillik] Abnert, Nérnek fiát, az Izráel seregének fõvezérét és Amasát, Jéternek fiát, Júda vitézeinek fõvezérét."
 "Ezeknek a vére térjen Joáb fejére és az õ magvának fejére mindörökké
 "És elméne Benája, Jójada fia, és reá rohanván megölé õt; és eltemetteték az õ házában, a pusztában."
 "Rendelé pedig a király a Jójada fiát õ helyette a sereg fölé, és Sádók papot rendelé a király Abjátár helyett."

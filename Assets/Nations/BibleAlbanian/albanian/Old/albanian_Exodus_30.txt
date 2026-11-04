@@ -7,9 +7,9 @@
 "Mbi të Aaroni do të djegë temjan të parfumuar; do ta djegë çdo mëngjes, kur rregullon llambat."
 "Kur Aaroni ndez llambat në të ngrysur, do të djegë temjanin
 "Nuk do të ofroni mbi të as temjan të huaj, as olokaust, as blatim; dhe mbi të nuk do të derdhni libacione."
-"Dhe Aaroni do të bëjë një herë në vit shlyerjen e mëkatit mbi brirët e tij; me gjakun e flisë së shlyerjes së mëkatit do të bëjë mbi të shlyerjen një herë në vit, brez pas brezi. Do të jetë gjë shumë e shenjtë, e shenjtë për Zotin""."
+"Dhe Aaroni do të bëjë një herë në vit shlyerjen e mëkatit mbi brirët e tij; me gjakun e flisë së shlyerjes së mëkatit do #të bëjë mbi të shlyerjen një herë në vit, brez pas brezi. Do të jetë gjë shumë e shenjtë, e shenjtë për Zotin""."
 "Zoti i foli akoma Moisiut, duke thënë
-"""Kur do të bësh llogarinë e bijve të Izraelit, për regjistrimin e tyre, secili do t'i japë Zotit shpengimin e jetës së tij, kur do të numërohen, me qëllim që të mos goditen nga ndonjë plagë, kur do të bësh regjistrimin e tyre."
+"""Kur do të bësh llogarinë e bijve të Izraelit, për regjistrimin e tyre, secili do t'i japë Zotit shpengimin e jetës së #tij, kur do të numërohen, me qëllim që të mos goditen nga ndonjë plagë, kur do të bësh regjistrimin e tyre."
 "Kjo është ajo që do të japë secili nga ata që paguajnë taksë
 "Kushdo që do të përfshihet nga regjistrimi, njëzet vjeç e lart, do t'i japë Zotit këtë ofertë."
 "I pasuri nuk do të japë më tepër, as i varfëri më pak se gjysmë sikli, kur do t'i bëhet kjo ofertë Zotit për të shlyer fajet e jetës suaj."

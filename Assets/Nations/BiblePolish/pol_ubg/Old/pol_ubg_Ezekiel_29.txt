@@ -9,7 +9,7 @@
 "A ziemia Egiptu będzie spustoszeniem i pustkowiem; i poznają, że ja jestem PANEM, ponieważ mówiłeś
 "Dlatego oto ja będę przeciwko tobie i przeciwko twojej rzece i zamienię ziemię Egiptu w straszną ruinę i spustoszenie, od wieży Sewene aż do granic Etiopii."
 "Nie przejdzie przez nią noga człowieka ani też nie przejdzie przez nią noga zwierzęcia, i nie będzie zamieszkana przez czterdzieści lat."
-"I uczynię z ziemi Egiptu pustkowie pośród spustoszonych ziem, a jej miasta wśród zrujnowanych miast będą spustoszone przez czterdzieści lat. I rozproszę Egipcjan między narodami, i rozrzucę ich po ziemiach."
+"I uczynię z ziemi Egiptu pustkowie pośród spustoszonych ziem, a jej miasta wśród zrujnowanych miast będą #spustoszone przez czterdzieści lat. I rozproszę Egipcjan między narodami, i rozrzucę ich po ziemiach."
 "Jednak tak mówi Pan BÓG
 "I odwrócę niewolę Egiptu, i przyprowadzę ich do ziemi Patros, do ziemi ich zamieszkania, i będą tam nieznacznym królestwem."
 "Będzie ono najmniej znaczące spośród królestw i nie wyniesie się więcej nad inne narody. Umniejszę ich, aby nie panowali nad narodami."

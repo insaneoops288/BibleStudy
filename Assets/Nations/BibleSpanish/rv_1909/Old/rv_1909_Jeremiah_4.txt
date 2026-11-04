@@ -1,7 +1,7 @@
 "SI te has de convertir, oh Israel, dice Jehová, conviértete á mí; y si quitares de delante de mí tus abominaciones, no andarás de acá para allá."
 "Y jurarás, diciendo, Vive Jehová, con verdad, con juicio, y con justicia
 "Porque así dice Jehová á todo varón de Judá y de Jerusalem
-"Circuncidaos á Jehová, y quitad los prepucios de vuestro corazón, varones de Judá y moradores de Jerusalem; no sea que mi ira salga como fuego, y se encienda y no haya quien apague, por la malicia de vuestras obras."
+"Circuncidaos á Jehová, y quitad los prepucios de vuestro corazón, varones de Judá y moradores de Jerusalem; no sea que #mi ira salga como fuego, y se encienda y no haya quien apague, por la malicia de vuestras obras."
 "Denunciad en Judá, y haced oid en Jerusalem, y decid
 "Alzad bandera en Sión, juntaos, no os detengáis; porque yo hago venir mal del aquilón, y quebrantamiento grande."
 "El león sube de su guarida, y el destruidor de gentes ha partido; salido ha de su asiento para poner tu tierra en soledad; tus ciudades serán asoladas, y sin morador."
@@ -26,6 +26,6 @@
 "Miré, y he aquí el Carmelo desierto, y todas sus ciudades eran asoladas á la presencia de Jehová, á la presencia del furor de su ira."
 "Porque así dijo Jehová
 "Por esto se enlutará la tierra, y los cielos arriba se oscurecerán, porque hablé, pensé, y no me arrepentí, ni me tornaré de ello."
-"Del estruendo de la gente de á caballo y de los flecheros huyó toda la ciudad; entráronse en las espesuras de los bosques, y subiéronse en peñascos; todas las ciudades fueron desamparadas, y no quedó en ellas morador alguno."
-"Y tú, destruída, ¿qué harás? Bien que te vistas de grana, aunque te adornes con atavíos de oro, aunque pintes con antimonio tus ojos, en vano te engalanas; menospreciáronte los amadores, buscarán tu alma."
+"Del estruendo de la gente de á caballo y de los flecheros huyó toda la ciudad; entráronse en las espesuras #de los bosques, y subiéronse en peñascos; todas las ciudades fueron desamparadas, y no quedó en ellas morador alguno."
+"Y tú, destruída, ¿qué harás? Bien que te vistas de grana, aunque te adornes con atavíos de oro, #aunque pintes con antimonio tus ojos, en vano te engalanas; menospreciáronte los amadores, buscarán tu alma."
 "Porque voz oí como de mujer que está de parto, angustia como de primeriza; voz de la hija de Sión que lamenta y extiende sus manos, diciendo

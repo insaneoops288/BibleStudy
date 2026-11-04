@@ -11,7 +11,7 @@
 "Kjo gjë s'i pëlqeu aspak Abrahamit, për shkak të djalit të tij."
 "Por Perëndia i tha Abrahamit
 "Edhe nga djali i kësaj shërbyeses unë do të bëj një komb, sepse është një pasardhës i yt""."
-"Abrahami u ngrit herët në mëngjes, mori bukë dhe një calik ujë dhe ia dha Agarit; vuri gjithçka mbi shpatullat e saj dhe e nisi bashkë me fëmijën. Kështu ajo u nis dhe filloi të bredhë nëpër shkretëtirën e Beer-Shebas."
+"Abrahami u ngrit herët në mëngjes, mori bukë dhe një calik ujë dhe ia dha Agarit; vuri gjithçka mbi shpatullat e #saj dhe e nisi bashkë me fëmijën. Kështu ajo u nis dhe filloi të bredhë nëpër shkretëtirën e Beer-Shebas."
 "Kur uji i calikut mbaroi, ajo e vuri fëmijën poshtë një kaçubeje."
 "Dhe shkoi e u ul përballë tij, në një largësi sa një goditje me hark, sepse thoshte
 "Dhe Perëndia dëgjoi zërin e djaloshit dhe engjëlli i Perëndisë thirri Agarin nga qielli dhe i tha
@@ -20,7 +20,7 @@
 "Dhe Perëndia qe me djaloshin; ai u rrit, banoi në shkretëtirë dhe u bë shenjëtar harku."
 "Ai banoi në shkretëtirën e Paranit dhe nëna e tij e martoi me një grua nga Egjipti."
 "Në atë kohë Abimeleku, së bashku me Pikolin, kreu i ushtrisë së tij, i foli Abrahamit duke i thënë
-"prandaj betohu këtu në emër të Perëndisë që ti s'ke për të gënjyer as mua, as bijtë e mi, as nipërit e mi, që ti do të përdorësh ndaj meje dhe vendit ku ke banuar si i huaj po atë dashamirësi që unë kam treguar ndaj teje""."
+"prandaj betohu këtu në emër të Perëndisë që ti s'ke për të gënjyer as mua, as bijtë e mi, as nipërit e mi, që #ti do të përdorësh ndaj meje dhe vendit ku ke banuar si i huaj po atë dashamirësi që unë kam treguar ndaj teje""."
 "Abrahami u përgjegj
 "Pastaj Abrahami e qortoi Abimelekun për shkak të një pusi uji që shërbyesit e Abimelekut e kishin shtënë në dorë."
 "Abimeleku tha

@@ -28,5 +28,5 @@
 "Und Haran starb vor dem Angesicht seines Vaters Tarah, in dem Lande seiner Geburt, zu Ur in Chaldäa."
 "Und Abram und Nahor nahmen sich Weiber; der Name des Weibes Abrams war Sarai, und der Name des Weibes Nahors Milka, die Tochter Harans, des Vaters der Milka und des Vaters der Jiska."
 "Und Sarai war unfruchtbar, sie hatte kein Kind."
-"Und Tarah nahm seinen Sohn Abram und Lot, den Sohn Harans, seines Sohnes Sohn, und Sarai, seine Schwiegertochter, das Weib seines Sohnes Abram; und sie zogen miteinander aus Ur in Chaldäa, um in das Land Kanaan zu gehen; und sie kamen bis Haran und wohnten daselbst."
+"Und Tarah nahm seinen Sohn Abram und Lot, den Sohn Harans, seines Sohnes Sohn, und Sarai, seine Schwiegertochter, das Weib seines Sohnes Abram; und #sie zogen miteinander aus Ur in Chaldäa, um in das Land Kanaan zu gehen; und sie kamen bis Haran und wohnten daselbst."
 "Und die Tage Tarahs waren zweihundertfünf Jahre, und Tarah starb in Haran."

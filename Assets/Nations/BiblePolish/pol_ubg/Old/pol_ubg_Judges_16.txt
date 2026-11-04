@@ -1,6 +1,6 @@
 "Potem Samson poszedł do Gazy i gdy zobaczył tam nierządnicę, obcował z nią."
 "I powiadomiono mieszkańców Gazy
-"Ale Samson spał do północy, a o północy wstał, chwycił wrota bramy miejskiej z dwoma słupami i wyrwał je z zasuwą, potem włożył na swoje ramiona i zaniósł je na szczyt góry, która była naprzeciw Hebronu."
+"Ale Samson spał do północy, a o północy wstał, chwycił wrota bramy miejskiej z dwoma słupami i wyrwał je #z zasuwą, potem włożył na swoje ramiona i zaniósł je na szczyt góry, która była naprzeciw Hebronu."
 "Potem w dolinie Sorek zakochał się w kobiecie, która miała na imię Dalila."
 "I przyszli do niej książęta Filistynów i powiedzieli jej
 "Powiedziała więc Dalila do Samsona

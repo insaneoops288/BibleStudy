@@ -12,7 +12,7 @@
 "Ja hänen silmänsä ovat niinkuin tulen liekki, ja hänen päässänsä on monta kruunua, ja hänellä oli kirjoitettu nimi, jota ei kenkään tietänyt, vaan hän itse."
 "Ja hän oli vaatetettu vereen kastetulla vaatteella. Ja sen nimi kutsutaan Jumalan sanaksi."
 "Ja sotajoukko, joka taivaassa on, seurasi häntä valkeilla hevosilla, vaatetetut valkialla puhtaalla kalliilla liinalla."
-"Ja hänen suustansa kävi ulos terävä miekka, jolla hänen pitää pakanoita lyömän, joita hän on hallitseva rautaisella vitsalla. Ja hän on sotkuva kaikkivaltiaan Jumalan närkästyksen ja vihan viinakuurnan."
+"Ja hänen suustansa kävi ulos terävä miekka, jolla hänen pitää pakanoita lyömän, joita hän on #hallitseva rautaisella vitsalla. Ja hän on sotkuva kaikkivaltiaan Jumalan närkästyksen ja vihan viinakuurnan."
 "Ja hänellä on vaatteessansa ja reidessänsä nimi kirjoitettu
 "Ja minä näin enkelin seisovan auringossa, joka huusi suurella äänellä ja sanoi kaikille linnuille, jotka taivaan alla lentävät
 "Syömään kuningasten lihaa ja päämiesten lihaa, ja väkeväin lihaa, ja orhitten lihaa, ja niillä ajavaisten, ja kaikkein vapaitten ja orjain, sekä pienten että suurten."

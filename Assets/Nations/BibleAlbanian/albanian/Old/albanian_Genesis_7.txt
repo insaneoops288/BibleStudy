@@ -11,7 +11,7 @@
 "Në vitin e gjashtëqindtë të jetës së Noeut, në muajin e dytë dhe në ditën e shtatëmbëdhjetë të muajit, në atë ditë tërë burimet e humnerës së madhe shpërthyen dhe kataraktet e qiellit u hapën."
 "Dhe ra shi mbi tokë për dyzet ditë dhe dyzet net."
 "Po atë ditë hynë në arkë Noeu dhe bijtë e tij Semi, Kami dhe Jafeti, gruaja e Noeut si dhe tri gratë e bijve të tij me ta;"
-"ata dhe të gjitha bishat simbas llojit, tërë bagëtia simbas llojit të saj, të gjithë rrëshqanorët që zvarriten mbi tokën simbas llojit të tyre, tërë zogjtë simbas llojit të tyre, tërë zogjtë e çfarëdo lloji."
+"ata dhe të gjitha bishat simbas llojit, tërë bagëtia simbas llojit të saj, të gjithë rrëshqanorët që zvarriten #mbi tokën simbas llojit të tyre, tërë zogjtë simbas llojit të tyre, tërë zogjtë e çfarëdo lloji."
 "Ata erdhën te Noeu në arkë, dy nga dy, prej çdo mishi që ka frymë jete;"
 "hynë, mashkull e femër, nga çdo mish, ashtu si Perëndia e kishte porositur Noeun; pastaj Zoti i mbylli brenda."
 "Dhe përmbytja ra mbi tokë për dyzet ditë me radhë; dhe ujërat u rritën dhe e ngritën arkën lart mbi tokë."

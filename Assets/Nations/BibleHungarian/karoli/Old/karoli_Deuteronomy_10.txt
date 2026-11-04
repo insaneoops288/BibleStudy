@@ -9,7 +9,7 @@
 "Ezért nem volt része és öröksége a Lévinek az õ atyafiaival; az Úr az õ öröksége, a miképen megmondotta vala néki az Úr, a te Istened."
 "Én pedig ott állottam a hegyen, mint az elõbbi napokban, negyven nap és negyven éjjel
 "És monda az Úr nékem
-"Most pedig, óh Izráel! mit kíván az Úr, a te Istened tõled? Csak azt, hogy féljed az Urat, a te Istenedet; hogy minden õ utain járj, és szeresd õt, és tiszteljed az Urat, a te Istenedet teljes szívedbõl, és teljes lelkedbõl,"
+"Most pedig, óh Izráel! mit kíván az Úr, a te Istened tõled? Csak azt, hogy féljed az Urat, a te Istenedet; #hogy minden õ utain járj, és szeresd õt, és tiszteljed az Urat, a te Istenedet teljes szívedbõl, és teljes lelkedbõl,"
 "Megtartván az Úrnak parancsolatait és rendeléseit, a melyeket én ma parancsolok néked, hogy jól legyen dolgod!"
 "Ímé az Úréi, a te Istenedéi az egek, és az egeknek egei, a föld, és minden, a mi rajta van!"
 "De egyedül a ti atyáitokat kedvelte az Úr, hogy szeresse õket, és az õ magvokat

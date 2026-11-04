@@ -11,7 +11,7 @@
 "Et cette parole déplut fort à Abraham, à cause de son fils."
 "Mais Dieu dit à Abraham
 "Mais je ferai aussi du fils de la servante une nation, parce qu'il est ta race."
-"Et Abraham se leva de bon matin, prit du pain et une outre d'eau, et les donna à Agar; il les mit sur son épaule; il lui donna aussi l'enfant et la renvoya. Et elle s'en alla et erra dans le désert de Béer-Shéba."
+"Et Abraham se leva de bon matin, prit du pain et une outre d'eau, et les donna à Agar; il les mit sur #son épaule; il lui donna aussi l'enfant et la renvoya. Et elle s'en alla et erra dans le désert de Béer-Shéba."
 "Quand l'eau de l'outre fut épuisée, elle laissa l'enfant sous un des arbrisseaux."
 "Et elle s'en alla, et s'assit vis-à-vis, environ à la distance d'une portée d'arc; car elle dit
 "Et Dieu entendit la voix du jeune garçon, et l'ange de Dieu appela des cieux Agar, et lui dit
@@ -20,7 +20,7 @@
 "Et Dieu fut avec le jeune garçon, qui devint grand, et habita dans le désert; et il fut tireur d'arc."
 "Et il habita dans le désert de Paran. Et sa mère lui prit une femme du pays d'Égypte."
 "Et il arriva qu'en ce temps-là Abimélec, accompagné de Picol, chef de son armée, parla à Abraham, en disant
-"Maintenant donc, jure-moi ici par le nom de Dieu, que tu ne tromperas ni moi, ni mes enfants, ni ma race. Tu agiras envers moi et envers le pays où tu as séjourné, avec la même bonté avec laquelle j'ai agi envers toi."
+"Maintenant donc, jure-moi ici par le nom de Dieu, que tu ne tromperas ni moi, ni mes enfants, ni ma race. Tu #agiras envers moi et envers le pays où tu as séjourné, avec la même bonté avec laquelle j'ai agi envers toi."
 "Et Abraham répondit
 "Mais Abraham se plaignit à Abimélec à cause d'un puits d'eau, dont les serviteurs d'Abimélec s'étaient emparés."
 "Et Abimélec dit

@@ -1,5 +1,5 @@
 "Después de esto aconteció, que David hirió a los filisteos, y los humilló; y tomó David a Metegama de mano de los filisteos."
-"Hirió también a los de Moab, y los midió con cordel, haciéndolos echar por tierra; y midió con dos cordeles para muerte, y un cordel entero para vida; y los moabitas vinieron a ser siervos de David, y le traían tributos."
+"Hirió también a los de Moab, y los midió con cordel, haciéndolos echar por tierra; y midió con dos cordeles para #muerte, y un cordel entero para vida; y los moabitas vinieron a ser siervos de David, y le traían tributos."
 "Asimismo hirió David a Hadad-ezer hijo de Rehob, rey de Soba, yendo él a recuperar su término hasta el río Éufrates."
 "Y tomó David de ellos mil setecientos hombres de a caballo, y veinte mil hombres de a pie; y desjarretó David los caballos de todos los carros, excepto cien carros de ellos que dejó."
 "Y vinieron los sirios de Damasco a dar ayuda a Hadad-ezer rey de Soba; y David hirió de los sirios a veintidós mil hombres."
@@ -7,7 +7,7 @@
 "Y tomó David los escudos de oro que traían los siervos de Hadad-ezer, y los llevó a Jerusalén."
 "Asimismo de Beta y de Berotai, ciudades de Hadad-ezer, tomó el rey David gran cantidad de bronce."
 "Entonces oyendo Toi, rey de Hamat, que David había herido todo el ejército de Hadad-ezer,"
-"envió Toi a Joram su hijo al rey David, a saludarle pacíficamente y a bendecirle, porque había peleado con Hadad-ezer y lo había vencido; porque Toi era enemigo de Hadad-ezer. Y Joram llevaba en su mano vasos de plata, y vasos de oro, y de bronce;"
+"envió Toi a Joram su hijo al rey David, a saludarle pacíficamente y a bendecirle, porque había peleado con Hadad-ezer y lo había vencido; #porque Toi era enemigo de Hadad-ezer. Y Joram llevaba en su mano vasos de plata, y vasos de oro, y de bronce;"
 "los cuales el rey David dedicó a Jehová, con la plata y el oro que tenía dedicado de todas las naciones que había sometido
 "De Siria, de Moab, de los hijos de Amón, de los filisteos, de Amalec, y del despojo de Hadad-ezer hijo de Rehob, rey de Soba."
 "Y David ganó fama cuando regresó de herir de los sirios a dieciocho mil hombres en el valle de la Sal."

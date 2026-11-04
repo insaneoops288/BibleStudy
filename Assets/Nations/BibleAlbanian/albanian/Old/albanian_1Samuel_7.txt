@@ -11,7 +11,7 @@
 "Njerëzit e Izraelit dolën nga Mitspahu, i ndoqën Filistejtë dhe i mundën deri poshtë Beth-Karit."
 "Atherë Samueli mori një gur e ngriti midis Mitspahut dhe Shenit dhe e quajti Eben-Ezer, duke thënë
 "Kështu Filistejtë u poshtëruan dhe nuk u kthyen më të shkelin territorin e Izraelit; dhe dora e Zotit u ngrit kundër Filistejve gjatë gjithë kohës së Samuelit."
-"Edhe qytetet që Filistejtë i kishin marrë Izraelit iu kthyen Izraelit, nga Ekroni deri në Gath. Izraeli çliroi territorin e tij nga duart e Filistejve. Dhe u vendos paqja midis Izraelit dhe Amorejve."
+"Edhe qytetet që Filistejtë i kishin marrë Izraelit iu kthyen Izraelit, nga Ekroni deri në Gath. Izraeli #çliroi territorin e tij nga duart e Filistejve. Dhe u vendos paqja midis Izraelit dhe Amorejve."
 "Samueli qe gjykatës i Izraelit gjatë gjithë jetës së tij."
 "Çdo vit ai i binte përqark Bethelit, Gilgalit dhe Mitspahut dhe ushtronte funksionin e gjyqtarit të Izraelit mbi tërë këto vende."
 "Pastaj kthehej në Ramah, sepse aty ishte shtëpia e tij. Aty e gjykonte Izraelin dhe po aty ngriti një altar për Zotin."

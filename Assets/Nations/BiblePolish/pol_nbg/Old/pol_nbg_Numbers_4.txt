@@ -11,8 +11,8 @@
 "Rozciągną także zasłonę z błękitu na ołtarz kadzidlany, nakryją go pokrowcem z borsuczej skóry oraz założą jego drążki."
 "Nadto wezmą wszystkie służbowe przybory, którymi posługują się w Świątyni, włożą w zasłonę z błękitu, nakryją je pokrowcem z borsuczej skóry oraz położą na nosze."
 "Oczyszczą z popiołu ofiarnicę, rozciągną na niej purpurową zasłonę,"
-"oraz włożą na nią wszystkie jej przybory, którymi się przy niej posługują węglarki, widełki, łopatki i kropielnice wszystkie przybory ofiarnicy; po czym rozciągną na niej pokrowiec z borsuczej skóry oraz założą jej drążki."
-"A kiedy, przy wyruszaniu obozu, Ahron dopełni wraz z jego synami okrycia sanktuarium oraz wszystkich przyborów świętego miejsca, wtedy podejdą synowie Kahatha, aby nieść; lecz nie będą dotykali się świętych rzeczy, by nie pomarli. Oto ciężar synów Kahatha przy Przybytku Zboru."
+"oraz włożą na nią wszystkie jej przybory, którymi się przy niej posługują węglarki, widełki, łopatki i kropielnice #wszystkie przybory ofiarnicy; po czym rozciągną na niej pokrowiec z borsuczej skóry oraz założą jej drążki."
+"A kiedy, przy wyruszaniu obozu, Ahron dopełni wraz z jego synami okrycia sanktuarium oraz wszystkich przyborów świętego miejsca, wtedy podejdą synowie #Kahatha, aby nieść; lecz nie będą dotykali się świętych rzeczy, by nie pomarli. Oto ciężar synów Kahatha przy Przybytku Zboru."
 "A pod nadzorem Elazara, syna kapłana Ahrona, będzie
 "Potem WIEKUISTY oświadczył Mojżeszowi i Ahronowi, mówiąc
 "Nie podcinajcie szczepu rodzin Kehatha spośród Lewitów."
@@ -23,7 +23,7 @@
 "od wieku lat trzydziestu i wyżej do pięćdziesięciu lat, i ich policz wszystkich wstępujących w szeregi dla pełnienia posług w Przybytku Zboru."
 "Oto służba rodzin Gerszonidów przy robocie oraz przy noszeniu
 "Mają oni nosić zasłony Przybytku, Przybytek Zboru, jego pokrowiec i pokrowiec borsuczy, który jest na nim z wierzchu, oraz kotarę wejścia do Przybytku Zboru."
-"Nadto zasłony dziedzińca, kotarę wejścia do bramy dziedzińca, który otacza Przybytek oraz wokoło ofiarnicę, ich sznury oraz wszystkie ich służbowe przybory. Zatem wszystko, co przy nich należy robić niech oni to czynią."
+"Nadto zasłony dziedzińca, kotarę wejścia do bramy dziedzińca, który otacza Przybytek oraz wokoło ofiarnicę, ich sznury oraz #wszystkie ich służbowe przybory. Zatem wszystko, co przy nich należy robić niech oni to czynią."
 "Wszelka służba synów Geszrona odbywać się będzie według rozkazu Ahrona i jego synów; zarówno każdy ciężar, jak i każda ich robota; ustanówcie nad nimi straż przy wszystkich ich ciężarach."
 "Oto służba rodzin synów Geszrona przy Przybytku Zboru; zaś nadzór nad nimi w ręce Ithamara, syna Ahrona, kapłana."
 "Także policzysz synów Merarego, według ich rodzin i według ich domów rodowych."

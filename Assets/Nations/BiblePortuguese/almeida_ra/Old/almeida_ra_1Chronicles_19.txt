@@ -4,7 +4,7 @@
 "Pelo que Hanun tomou os servos de David, raspou-lhes a barba, e lhes cortou as vestes pelo meio até o alto das coxas, e os despediu."
 "Então foram alguns e avisaram a David acerca desses homens; pelo que ele mandou mensageiros ao seu encontro, pois estavam sobremaneira envergonhados. Disse o rei
 "Vendo os amonitas que se tinham feito odiosos para com David, Hanun e os amonitas enviaram mil talentos de prata, para alugarem para si carros e cavaleiros de Mesopotâmia, de Aran-Maaca e de Soba."
-"E alugaram para si trinta e dois mil carros e o rei de Maaca com a sua gente, os quais vieram e se acamparam diante de Madabá; também os amonitas se ajuntaram das suas cidades e vieram para a guerra."
+"E alugaram para si trinta e dois mil carros e o rei de Maaca com a sua gente, os quais vieram #e se acamparam diante de Madabá; também os amonitas se ajuntaram das suas cidades e vieram para a guerra."
 "David, quando soube disto, enviou Joab e todo o exército de homens valentes."
 "Os amonitas saíram e ordenaram a batalha à porta da cidade; porém os reis que tinham vindo se puseram à parte no campo."
 "Ora, quando Joab viu que a batalha estava ordenada contra ele pela frente e pela retaguarda, escolheu os melhores dentre os homens de Israel, e os pôs em ordem contra os sírios;"

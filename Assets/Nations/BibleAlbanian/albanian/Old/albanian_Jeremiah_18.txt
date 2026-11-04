@@ -18,6 +18,6 @@
 "Pastaj ata thanë
 "Kushtomë kujdes, o Zot, dhe dëgjo zërin e atyre që grinden me mua."
 "A shpërblehet vallë e mira me të keqen? Sepse ata i kanë hapur një gropë jetës sime. Kujto se jam paraqitur para teje për të folur në favor të tyre dhe për të larguar prej tyre zemërimin tënd."
-"Prandaj braktisi urisë bijtë e tyre dhe jepi në pushtetin e shpatës; gratë e tyre mbetshin pa fëmijë dhe të veja, burrat e tyre u plagosshin për vdekje; të rinjtë e tyre u vrafshin nga shpata në betejë."
+"Prandaj braktisi urisë bijtë e tyre dhe jepi në pushtetin e shpatës; gratë e tyre mbetshin pa fëmijë dhe të #veja, burrat e tyre u plagosshin për vdekje; të rinjtë e tyre u vrafshin nga shpata në betejë."
 "U dëgjoftë një britmë nga shtëpitë e tyre, kur do të lëshosh papritmas mbi ta një aradhe ushtarësh, sepse kanë hapur një gropë për të më kapur dhe kanë ngritur leqe te këmbët e mia."
-"Por ti o Zot, i njeh tërë qëllimet e tyre kundër meje për të shkaktuar vdekjen time; mos ua fal paudhësinë e tyre, mos fshij mëkatin e tyre nga prania jote. U rrëzofshin para teje. Trajtoji ashpër ditën e zemërimit tënd."
+"Por ti o Zot, i njeh tërë qëllimet e tyre kundër meje për të shkaktuar vdekjen time; mos ua fal paudhësinë #e tyre, mos fshij mëkatin e tyre nga prania jote. U rrëzofshin para teje. Trajtoji ashpër ditën e zemërimit tënd."

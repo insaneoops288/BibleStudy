@@ -1,5 +1,5 @@
 "Annakokáért, mivelhogy ilyen szolgálatban vagyunk, a mint a kegyelmet nyertük, nem csüggedünk el;"
-"Hanem lemondtunk a szégyen takargatásáról, mint a kik nem járunk ravaszságban, és nem is hamisítjuk meg az Isten ígéjét, de a nyilvánvaló igazsággal kelletjük magunkat minden ember lelkiismeretének az Isten elõtt."
+"Hanem lemondtunk a szégyen takargatásáról, mint a kik nem járunk ravaszságban, és nem is hamisítjuk meg #az Isten ígéjét, de a nyilvánvaló igazsággal kelletjük magunkat minden ember lelkiismeretének az Isten elõtt."
 "Ha mégis leplezett a mi evangyéliomunk, azoknak leplezett, a kik elvesznek
 "A kikben e világ Istene megvakította a hitetlenek elméit, hogy ne lássák a Krisztus dicsõséges evangyéliomának világosságát, a ki az Isten képe."
 "Mert nem magunkat prédikáljuk, hanem az Úr Jézus Krisztust; magunkat pedig, mint a ti szolgáitokat, a Jézusért."

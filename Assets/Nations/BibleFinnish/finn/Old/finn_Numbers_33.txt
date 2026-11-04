@@ -35,7 +35,7 @@
 "Ja he matkustivat Abronasta, ja sioittivat itsensä Etseongeberiin."
 "Ja he matkustivat Etseongeberistä, ja sioittivat itsensä Sinin korpeen, se on Kades."
 "Ja he matkustivat Kadeksesta, ja sioittivat itsensä Horin vuorelle, joka on Edomin maan rajoilla."
-"Siinä meni pappi Aaron Horin vuorelle, Herran käskyn jälkeen, ja kuoli siellä neljäntenäkymmenentenä vuotena, sittekuin Israelin lapset olivat lähteneet Egyptin maalta, ensimäisenä päivänä viidennestä kuusta."
+"Siinä meni pappi Aaron Horin vuorelle, Herran käskyn jälkeen, ja kuoli siellä neljäntenäkymmenentenä #vuotena, sittekuin Israelin lapset olivat lähteneet Egyptin maalta, ensimäisenä päivänä viidennestä kuusta."
 "Ja Aaron oli sadan ja kolmenkolmattakymmentä vuotinen kuollessansa Horin vuorella."
 "Silloin kuuli Arad Kanaanealaisten kuningas, joka asui etelään päin Kanaanin maalla, että Israelin lapset tulleet olivat."
 "Ja he matkustivat Horin vuorelta, ja sioittivat itsensä Salmonaan."
@@ -51,6 +51,6 @@
 "Puhu Israelin lapsille, ja sano heille
 "Niin teidän pitää kaikki sen maan asuvaiset teidän edestänne ajaman pois, ja kaikki heidän maalauksensa ja valetut kuvansa hukuttaman, ja kaikki heidän korkeutensa hävittämän,"
 "Ja niin teidän pitää maan omistaman ja asuman siinä; sillä teille olen minä maan antanut omistaaksenne sen."
-"Ja teidän pitää maan jakaman arvalla teidän sukukunnillenne. Joita usiampi on, niille pitää teidän enempi antaman perinnöksensä, ja joita vähempi on, niille vähemmän perinnöksensä; kuin arpa lankee kullekin, niin pitää hänen sen ottaman
-"Mutta jollette maan asuvaisia aja ulos teidän edestänne, niin pitää ne, jotka te heistä jätätte, oleman teille niinkuin orjantappurat silmissänne, ja keihäs kyljessänne; sillä heidän pitää ahdistaman teitä sillä maalla, kussa te asutte."
+"Ja teidän pitää maan jakaman arvalla teidän sukukunnillenne. Joita usiampi on, niille pitää teidän enempi antaman perinnöksensä, #ja joita vähempi on, niille vähemmän perinnöksensä; kuin arpa lankee kullekin, niin pitää hänen sen ottaman
+"Mutta jollette maan asuvaisia aja ulos teidän edestänne, niin pitää ne, jotka te heistä jätätte, oleman teille #niinkuin orjantappurat silmissänne, ja keihäs kyljessänne; sillä heidän pitää ahdistaman teitä sillä maalla, kussa te asutte."
 "Niin tapahtuu, että minä teen niin teille, kuin minä aioin heille tehdä."

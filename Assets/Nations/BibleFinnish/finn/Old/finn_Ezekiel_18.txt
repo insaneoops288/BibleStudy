@@ -17,7 +17,7 @@
 "Ei vaivaisille tee vääryyttä, ei ota korkoa eikä voittoa, mutta pitää minun oikeuteni, ja elää minun säätyini jälkeen
 "Mutta hänen isänsä, joka paljon väkivaltaa ja suurta vääryyttä tehnyt on veljeänsä vastaan, ja kansansa seassa tehnyt on sitä mikä ei kelpaa, katso, hänen pitää kuoleman pahan tekonsa tähden."
 "Niin te sanotte
-"Sillä se sielu, joka syntiä tekee, sen pitää kuoleman; ei pojan pidä kantaman isänsä syntiä, eikä isän pojan syntiä; mutta vanhurskaan vanhurskaus pitää hänen itse päällänsä oleman, ja väärän pahuus pitää hänen päällänsä oleman."
+"Sillä se sielu, joka syntiä tekee, sen pitää kuoleman; ei pojan pidä kantaman isänsä syntiä, eikä isän pojan #syntiä; mutta vanhurskaan vanhurskaus pitää hänen itse päällänsä oleman, ja väärän pahuus pitää hänen päällänsä oleman."
 "Mutta jos jumalatoin kääntyy kaikista synneistänsä, joita hän tehnyt on, ja pitää kaikki minun säätyni, ja tekee oikeuden ja vanhurskauden, niin hän saa totisesti elää, ja ei pidä kuoleman."
 "Kaikkia hänen ylitsekäymisiänsä, joita hän tehnyt on, ei pidä muistettaman; mutta hän saa elää vanhurskauden tähden, jonka hän tehnyt on."
 "Luuletkos, että minulla on joku ilo jumalattoman kuolemasta, sanoo Herra, Herra, ja ei paljo enempi, että hän palajaa teistänsä, ja saa elää?"
@@ -27,6 +27,6 @@
 "Ja koska jumalatoin kääntyy vääryydestänsä, jonka hän tehnyt on, ja tekee oikeuden ja vanhurskauden, hän saa pitää sielunsa elävänä."
 "Sillä koska hän näkee, ja lakkaa pahuudestansa, niin hänen pitää totisesti elämän ja ei kuoleman."
 "Ja Israelin huone sanoo
-"Sentähden tahdon minä tuomita teitä, te Israelin huoneesta, jokaisen hänen tiensä jälkeen, sanoo Herra, Herra. Sentähden kääntykäät, ja palatkaat kaikesta vääryydestänne, ettette lankeaisi pahan tekonne tähden."
+"Sentähden tahdon minä tuomita teitä, te Israelin huoneesta, jokaisen hänen tiensä jälkeen, sanoo Herra, #Herra. Sentähden kääntykäät, ja palatkaat kaikesta vääryydestänne, ettette lankeaisi pahan tekonne tähden."
 "Heittäkäät pois tyköänne kaikki ylitsekäymisenne, jolla te rikkoneet olette, ja tehkää teillenne uusi sydän ja uusi henki; sillä miksi pitäis teidän kuoleman, sinä Israelin huone?"
 "Sillä ei minulla ole yhtään iloa hänen kuolemastansa, joka kuolee, sanoo Herra, Herra

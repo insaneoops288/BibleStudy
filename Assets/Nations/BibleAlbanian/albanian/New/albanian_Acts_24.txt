@@ -1,6 +1,6 @@
 "Por pas pesë ditësh erdhi kryeprifti Anania bashkë me pleqtë dhe me një gojtar, një farë Tertuli; ata dolën përpara qeveritarit për të akuzuar Palin."
 "Kur u thirr Pali, Tertuli filloi ta akuzojë duke thënë
-"''Fort i shkëlqyeri Feliks, ne e pranojmë në gjithçka e për gjithçka dhe me mirënjohje të thellë se paqja të cilën gëzojmë dhe reformat dobiprurëse që janë zbatuar për këtë komb janë vepër e masave të tua largpamëse."
+"''Fort i shkëlqyeri Feliks, ne e pranojmë në gjithçka e për gjithçka dhe me mirënjohje të thellë se paqja të #cilën gëzojmë dhe reformat dobiprurëse që janë zbatuar për këtë komb janë vepër e masave të tua largpamëse."
 "Por, për të mos të shqetësuar më gjatë, të lutem me mirësinë tënde, të na dëgjosh shkurtimisht."
 "Ne kemi gjetur se ky njeri është një murtajë dhe shkakton trazira midis gjithë Judenjve që janë në botë dhe është kryetari i sektit të Nazarenasve."
 "Ai, madje, u përpoq të përdhosë tempullin; dhe ne e zumë dhe deshëm ta gjykonim sipas ligjit tonë."

@@ -3,9 +3,9 @@
 "At hindi na magkakaroon pa ng sumpa
 "At makikita nila ang kaniyang mukha; at ang kaniyang pangalan ay sasa kanilang mga noo."
 "At hindi na magkakaroon pa ng gabi, at sila'y hindi nangangailangan ng liwanag ng ilawan, ni ng liwanag man ng araw; sapagka't liliwanagan sila ng Panginoong Dios
-"At sinabi niya sa akin, Ang mga salitang ito'y tapat at tunay, at ang Panginoon, ang Dios ng mga espiritu ng mga propeta, ay nagsugo ng kaniyang anghel upang ipakita sa kaniyang mga alipin ang mga bagay na kinakailangang mangyari madali."
+"At sinabi niya sa akin, Ang mga salitang ito'y tapat at tunay, at ang Panginoon, ang Dios ng mga espiritu ng #mga propeta, ay nagsugo ng kaniyang anghel upang ipakita sa kaniyang mga alipin ang mga bagay na kinakailangang mangyari madali."
 "At narito, ako'y madaling pumaparito. Mapalad ang tumutupad ng mga salita ng hula ng aklat na ito."
-"At akong si Juan, ako ang nakarinig at nakakita ng mga bagay na ito. At nang aking marinig at makita, ay nagpatirapa ako upang sumamba sa harapan ng anghel na nagpakita sa akin ng mga bagay na ito."
+"At akong si Juan, ako ang nakarinig at nakakita ng mga bagay na ito. At nang aking marinig at makita, #ay nagpatirapa ako upang sumamba sa harapan ng anghel na nagpakita sa akin ng mga bagay na ito."
 "At sinasabi niya sa akin, Ingatan mong huwag gawin iyan
 "At sinasabi niya sa akin, Huwag mong tatakan ang mga salita ng hula ng aklat na ito; sapagka't malapit na ang panahon."
 "Ang liko, ay magpakaliko pa

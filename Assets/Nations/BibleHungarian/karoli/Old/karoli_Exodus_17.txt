@@ -9,7 +9,7 @@
 "És monda Mózes Józsuénak
 "És úgy cselekedék Józsué a mint mondotta vala néki Mózes, megütközék Amálekkel
 "És lõn, mikor Mózes felemelé kezét, Izráel gyõz vala; mikor pedig leereszté kezét, Amálek gyõz vala."
-"Mikor azért Mózes kezei elnehezedének, követ hozának és alája tevék, hogy arra ûljön; Áron pedig és Húr tartják vala az õ kezeit, egy felõl az egyik, más felõl a másik, és felemelve maradának kezei a nap lementéig."
+"Mikor azért Mózes kezei elnehezedének, követ hozának és alája tevék, hogy arra ûljön; Áron pedig és Húr tartják vala #az õ kezeit, egy felõl az egyik, más felõl a másik, és felemelve maradának kezei a nap lementéig."
 "Józsué pedig leveré Amáleket és az õ népét fegyver élivel."
 "És monda az Úr Mózesnek
 "És építe Mózes oltárt és nevezé nevét Jehova-Niszszi-nek."

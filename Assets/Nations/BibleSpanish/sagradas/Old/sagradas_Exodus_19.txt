@@ -13,7 +13,7 @@
 "No le tocará mano, porque será apedreado o asaeteado; sea animal o sea hombre, no vivirá. En habiendo sonado <I>largamente</I>  la trompeta, subirán al monte."
 "Y descendió Moisés del monte al pueblo, y santificó al pueblo; y lavaron sus vestidos."
 "Y dijo al pueblo
-"Y aconteció al tercer día cuando vino la mañana, que vinieron truenos y relámpagos, y espesa nube sobre el monte, y <I>un</I>  sonido de trompeta muy fuerte; y se estremeció todo el pueblo que <I>estaba</I>  en el real."
+"Y aconteció al tercer día cuando vino la mañana, que vinieron truenos y relámpagos, y espesa nube sobre el monte, y #<I>un</I>  sonido de trompeta muy fuerte; y se estremeció todo el pueblo que <I>estaba</I>  en el real."
 "Y Moisés sacó del real al pueblo a recibir a Dios; y se pusieron a lo bajo del monte."
 "Y todo el monte de Sinaí humeaba, porque el SEÑOR había descendido sobre él en fuego; y el humo de él subía como el humo de un horno, y todo el monte se estremeció en gran manera."
 "Y el sonido de la trompeta iba esforzándose en extremo

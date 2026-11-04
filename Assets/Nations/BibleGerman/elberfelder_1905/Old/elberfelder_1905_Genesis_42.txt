@@ -13,7 +13,7 @@
 "Und sie sprachen
 "Da sprach Joseph zu ihnen
 "Daran sollt ihr geprüft werden
-"Sendet einen von euch hin, daß er euren Bruder hole; ihr aber bleibet gefangen, und eure Worte sollen geprüft werden, ob Wahrheit bei euch ist; und wenn nicht beim Leben des Pharao! so seid ihr Kundschafter."
+"Sendet einen von euch hin, daß er euren Bruder hole; ihr aber bleibet gefangen, und eure Worte sollen geprüft #werden, ob Wahrheit bei euch ist; und wenn nicht beim Leben des Pharao! so seid ihr Kundschafter."
 "Und er setzte sie drei Tage zusammen in Gewahrsam."
 "Und am dritten Tage sprach Joseph zu ihnen
 "Wenn ihr redlich seid, so bleibe einer eurer Brüder gefangen im Hause eures Gewahrsams; ihr aber, ziehet hin, bringet Getreide für den Bedarf eurer Häuser;"

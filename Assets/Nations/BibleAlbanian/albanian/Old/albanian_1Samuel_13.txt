@@ -2,7 +2,7 @@
 "ai zgjodhi tre mijë ushtarë të Izraelit
 "Jonathani e mundi garnizonin e Filistejve që ndodhej në Geba, dhe Filistejtë e mësuan këtë ngjarje; Atëherë Sauli urdhëroi që t'u binin borive në tërë vendin, duke thënë
 "Dhe në tëtë Izraelin filluan të thonë
-"Edhe Filistejtë u mblodhën për të luftuar kundër Izraelit, me tridhjetë mijë qerre, gjashtë mijë kalorës dhe shumë njerëz, si rëra në bregun e detit. Ata u nisën pra, dhe u vendosën në Mikmash, në lindje të Beth-Avenit."
+"Edhe Filistejtë u mblodhën për të luftuar kundër Izraelit, me tridhjetë mijë qerre, gjashtë mijë kalorës dhe shumë njerëz, si #rëra në bregun e detit. Ata u nisën pra, dhe u vendosën në Mikmash, në lindje të Beth-Avenit."
 "Kur Izraelitët e panë se ishin në rrezik (pse populli u gjend ngushtë), u fshehën në shpella, në gëmusha, ndër shkëmbinj, në guva dhe në hauze."
 "Disa Hebrenj kaluan Jordanin për të vajtur në vendin e Gadit dhe të Galaadit. Sauli ishte akoma në Gilgal dhe tërë populli shkonte pas tij duke u dridhur."
 "Ai priti shtatë ditë simbas kohës së caktuar nga Samueli; por Samueli nuk po vinte në Gilgal dhe populli kishte filluar të shpërndahej larg tij."
@@ -11,7 +11,7 @@
 "Por Samueli i tha
 """Tani Filistejtë do të më sulen në Gilgal dhe unë akoma nuk i jam lutur Zotit"". Prandaj e mblodha veten dhe ofrova olokastin""."
 "Atëherë Samueli i tha Saulit
-"Tani përkundrazi mbretëria jote nuk ka për të vazhduar, Zoti ka kërkuar një njeri simbas zemrës së tij, dhe Zoti e ka caktuar princ të populli të tij, sepse ti nuk ke respektuar atë që Zoti të pati urdhëruar""."
+"Tani përkundrazi mbretëria jote nuk ka për të vazhduar, Zoti ka kërkuar një njeri simbas zemrës së tij, dhe Zoti #e ka caktuar princ të populli të tij, sepse ti nuk ke respektuar atë që Zoti të pati urdhëruar""."
 "Pastaj Samueli u ngrit dhe u ngjit nga Gilgali në Gibeah të Beniaminit, dhe Sauli kaloi në revistë popullin që gjendej me të; ishin rreth gjashtë qind veta."
 "Sauli, Jonathani, bir i tij, dhe njerëzit që mbetën me ta qëndruan në Gibeah të Beniaminit, ndërsa Filistejtë ishin vendosur në Mikmash."
 "Pastaj nga kampi i Filistejve dolën disa cuba, të ndarë në tri grupe

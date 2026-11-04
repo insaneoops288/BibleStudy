@@ -2,10 +2,10 @@
 "Manda a los hijos de Israel, que den a los levitas de la posesión de su heredad ciudades en que habiten
 "Y tendrán ellos las ciudades para habitar, y los ejidos de ellas serán para sus animales, y para sus ganados, y para todas sus bestias."
 "Y los ejidos de las ciudades que daréis a los levitas, serán mil codos alrededor, desde el muro de la ciudad para afuera."
-"Luego mediréis fuera de la ciudad a la parte del oriente dos mil codos, y a la parte del sur dos mil codos, y a la parte del occidente dos mil codos, y a la parte del norte dos mil codos, y la ciudad en medio
+"Luego mediréis fuera de la ciudad a la parte del oriente dos mil codos, y a la parte del sur dos mil codos, y #a la parte del occidente dos mil codos, y a la parte del norte dos mil codos, y la ciudad en medio
 "Y de las ciudades que daréis a los levitas, seis ciudades serán de refugio, las cuales daréis para que el homicida se refugie allá; y además de éstas daréis cuarenta y dos ciudades."
 "Todas las ciudades que daréis a los levitas serán cuarenta y ocho ciudades; ellas con sus ejidos."
-"Y las ciudades que diereis de la heredad de los hijos de Israel, del que mucho tomaréis mucho, y del que poco tomaréis poco; cada uno dará de sus ciudades a los levitas según la posesión que heredará."
+"Y las ciudades que diereis de la heredad de los hijos de Israel, del que mucho tomaréis mucho, y del #que poco tomaréis poco; cada uno dará de sus ciudades a los levitas según la posesión que heredará."
 "Y habló Jehová a Moisés, diciendo
 "Habla a los hijos de Israel, y diles
 "os señalaréis ciudades, ciudades de refugio tendréis, donde huya el homicida que hiriere a alguno de muerte por yerro."
@@ -22,7 +22,7 @@
 "Mas si casualmente lo empujó sin enemistades, o echó sobre él cualquier instrumento sin asechanzas,"
 "o bien, sin verlo, hizo caer sobre él alguna piedra, de que pudo morir, y muriere, y él no era su enemigo, ni procuraba su mal;"
 "entonces la congregación juzgará entre el heridor y el pariente del muerto conforme a estas leyes
-"Y la congregación librará al homicida de mano del pariente del muerto, y la congregación lo hará volver a su ciudad de refugio, en la cual se había refugiado; y morará en ella hasta que muera el sumo sacerdote, el cual fue ungido con el aceite santo."
+"Y la congregación librará al homicida de mano del pariente del muerto, y la congregación lo hará volver a su ciudad de refugio, en #la cual se había refugiado; y morará en ella hasta que muera el sumo sacerdote, el cual fue ungido con el aceite santo."
 "Y si el homicida saliere fuera del término de su ciudad de refugio, en la cual se refugió,"
 "y el pariente del muerto le hallare fuera del término de la ciudad de su refugio, y el pariente del muerto al homicida matare, no se le culpará por ello
 "Pues en su ciudad de refugio deberá aquél habitar hasta que muera el sumo sacerdote

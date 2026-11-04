@@ -10,7 +10,7 @@
 "A ten, kdož by smetl popel té jalovice, zpéře roucha svá a nečistý bude až do večera. A budou to míti synové Izraelští i příchozí, kterýž jest pohostinu u prostřed nich, za ustanovení věčné."
 "Kdo by se dotkl těla kteréhokoli mrtvého člověka, nečistý bude za sedm dní."
 "Takový očišťovati se bude tou vodou dne třetího a dne sedmého, i bude čistý; neočistí-li se pak dne třetího a dne sedmého, nebudeť čistý."
-"Kdo by koli, dotkna se těla mrtvého člověka, kterýž umřel, neočistil se, příbytku Hospodinova poškvrnil. Protož vyhlazena bude duše ta z Izraele, nebo vodou očišťování není pokropen; nečistýť bude, a nečistota jeho zůstává na něm."
+"Kdo by koli, dotkna se těla mrtvého člověka, kterýž umřel, neočistil se, příbytku Hospodinova poškvrnil. Protož vyhlazena bude #duše ta z Izraele, nebo vodou očišťování není pokropen; nečistýť bude, a nečistota jeho zůstává na něm."
 "Tento jest také zákon, kdyby člověk umřel v stanu
 "Tolikéž všeliká nádoba odkrytá, kteráž by neměla svrchu přikryvadla na sobě, nečistá bude."
 "Tak kdož by se koli dotkl na poli buď mečem zabitého, aneb mrtvého, buďto kosti člověka, aneb hrobu, nečistý bude za sedm dní."

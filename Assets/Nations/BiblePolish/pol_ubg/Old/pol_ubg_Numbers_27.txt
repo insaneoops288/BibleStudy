@@ -18,6 +18,6 @@
 "PAN powiedział do Mojżesza
 "I postaw go przed kapłanem Eleazarem i przed całym zgromadzeniem, i na ich oczach daj mu polecenie;"
 "I przenieś na niego część swojej godności, aby go słuchało całe zgromadzenie synów Izraela."
-"Będzie on stawał przed kapłanem Eleazarem, aby ten za niego radził się przed PANEM za pośrednictwem sądu Urim. Na jego rozkaz będą wychodzić i na jego rozkaz będą wchodzić – on, a z nim wszyscy synowie Izraela, całe zgromadzenie."
+"Będzie on stawał przed kapłanem Eleazarem, aby ten za niego radził się przed PANEM za pośrednictwem sądu Urim. Na jego #rozkaz będą wychodzić i na jego rozkaz będą wchodzić – on, a z nim wszyscy synowie Izraela, całe zgromadzenie."
 "I Mojżesz uczynił tak, jak PAN mu rozkazał. Wziął Jozuego i postawił go przed kapłanem Eleazarem i przed całym zgromadzeniem."
 "Następnie położył na niego swoje ręce i dał mu polecenie, tak jak PAN nakazał przez Mojżesza."

@@ -1,7 +1,7 @@
 "Y los principales de los padres de los levitas vinieron al sacerdote Eleazar y a Josué, hijo de Nun, y a los principales de los padres de las tribus de los hijos de Israel;"
 "y les hablaron en Silo en la tierra de Canaán, diciendo
 "Entonces los hijos de Israel dieron a los levitas de sus posesiones, conforme a la palabra de Jehová, estas villas con sus ejidos."
-"Y salió la suerte por las familias de los coatitas; y fueron dadas por suerte a los hijos de Aarón sacerdote, [que eran] de los levitas, por la tribu de Judá, por la de Simeón y por la de Benjamín, trece ciudades."
+"Y salió la suerte por las familias de los coatitas; y fueron dadas por suerte a los hijos de Aarón sacerdote, [que #eran] de los levitas, por la tribu de Judá, por la de Simeón y por la de Benjamín, trece ciudades."
 "Y a los otros hijos de Coat [se dieron] por suerte diez ciudades de las familias de la tribu de Efraín, y de la tribu de Dan, y de la media tribu de Manasés;"
 "Y a los hijos de Gersón, por las familias de la tribu de Isacar, y de la tribu de Aser, y de la tribu de Neftalí, y de la media tribu de Manasés en Basán, [fueron dadas] por suerte trece ciudades."
 "A los hijos de Merari por sus familias [se dieron] doce ciudades por la tribu de Rubén, y por la tribu de Gad, y por la tribu de Zabulón."
@@ -24,7 +24,7 @@
 "a Ajalón con sus ejidos y a Gat-rimón con sus ejidos; cuatro ciudades."
 "Y de la media tribu de Manasés, a Taanac con sus ejidos, y a Gat-rimón con sus ejidos; dos ciudades."
 "Todas las ciudades para el resto de las familias de los hijos de Coat fueron diez con sus ejidos."
-"A los hijos de Gersón de las familias de los levitas, [dieron] la ciudad de refugio para los homicidas, de la media tribu de Manasés; a Golán en Basán con sus ejidos, y a Beestera con sus ejidos; dos ciudades."
+"A los hijos de Gersón de las familias de los levitas, [dieron] la ciudad de refugio para los homicidas, de la #media tribu de Manasés; a Golán en Basán con sus ejidos, y a Beestera con sus ejidos; dos ciudades."
 "Y de la tribu de Isacar, a Cisón con sus ejidos, a Daberat con sus ejidos,"
 "a Jarmut con sus ejidos, y a En-ganim con sus ejidos; cuatro ciudades."
 "Y de la tribu de Aser, a Miseal con sus ejidos, a Abdón con sus ejidos,"

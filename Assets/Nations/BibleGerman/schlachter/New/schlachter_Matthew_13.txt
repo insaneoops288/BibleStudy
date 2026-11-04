@@ -12,7 +12,7 @@
 "Denn wer da hat, dem wird gegeben werden, und er wirdÜberfluß haben; wer aber nicht hat, von dem wird auch das genommen werden, was er hat."
 "Darum rede ich in Gleichnissen zu ihnen, weil sie sehen und doch nicht sehen, und hören und doch nicht hören und nicht verstehen;"
 "und es wird an ihnen die Weissagung des Jesaja erfüllt, welche also lautet
-"Denn das Herz dieses Volkes ist verstockt, und mit den Ohren hören sie schwer, und ihre Augen haben sie verschlossen, daß sie nicht etwa mit den Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren und ich sie heile»."
+"Denn das Herz dieses Volkes ist verstockt, und mit den Ohren hören sie schwer, und ihre Augen haben sie verschlossen, daß sie nicht #etwa mit den Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren und ich sie heile»."
 "Aber selig sind eure Augen, daß sie sehen, und eure Ohren, daß sie hören."
 "Denn wahrlich, ich sage euch, viele Propheten und Gerechte haben begehrt zu sehen, was ihr sehet, und haben es nicht gesehen; und zu hören, was ihr höret, und haben es nicht gehört."
 "So höret nun ihr das Gleichnis vom Sämann

@@ -7,11 +7,11 @@
 "Uslyšavše pak Filistinští, že synové Izraelští shromáždili se do Masfa, vytáhla knížata Filistinská proti Izraelovi. Což když uslyšeli synové Izraelští, báli se příchodu Filistinských."
 "Pročež řekli synové Izraelští Samuelovi
 "Vzav tedy Samuel beránka jednoho, kterýž ještě ssal, obětoval ho celého v obět zápalnou Hospodinu. I modlil se Samuel Hospodinu za Izraele, a uslyšel jej Hospodin."
-"I bylo, že když Samuel obětoval obět zápalnou, Filistinští přiblížili se, aby bojovali proti Izraelovi, ale zahřměl Hospodin hřímáním náramným v ten den nad Filistinskými, a potřel je, i poraženi jsou před tváří Izraele."
+"I bylo, že když Samuel obětoval obět zápalnou, Filistinští přiblížili se, aby bojovali proti Izraelovi, ale zahřměl Hospodin #hřímáním náramným v ten den nad Filistinskými, a potřel je, i poraženi jsou před tváří Izraele."
 "Vytáhše pak muži Izraelští z Masfa, stihali Filistinské, a bili je až pod Betchar."
 "Tehdy vzav Samuel kámen jeden, položil jej mezi Masfa a mezi Sen, a nazval jméno jeho Eben-Ezer; nebo řekl
 "A tak sníženi jsou Filistinští, a netáhli více na pomezí Izraelské; a byla ruka Hospodinova proti Filistinským po všecky dny Samuelovy."
-"Navrácena jsou také města Izraelovi, kteráž byli Filistinští odtrhli od Izraele, počna od Akaron až do Gát; i pomezí jejich vysvobodil Izrael z ruky Filistinských. A byl pokoj mezi Izraelem a Amorejskými."
+"Navrácena jsou také města Izraelovi, kteráž byli Filistinští odtrhli od Izraele, počna od Akaron až do Gát; #i pomezí jejich vysvobodil Izrael z ruky Filistinských. A byl pokoj mezi Izraelem a Amorejskými."
 "I soudil Samuel Izraele po všecky dny života svého."
 "A chodě každého roku, obcházel Bethel a Galgala i Masfa, a soudil Izraele na všech těch místech."
 "(Potom navracoval se do Ramata, nebo tam byl dům jeho, a tam soudil Izraele.) Tam také vzdělal oltář Hospodinu."

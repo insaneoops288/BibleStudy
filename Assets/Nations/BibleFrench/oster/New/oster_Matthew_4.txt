@@ -20,6 +20,6 @@
 "Et eux, laissant aussitôt leurs filets, le suivirent."
 "De là étant allé plus avant, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, dans une barque, avec Zébédée, leur père, qui raccommodaient leurs filets, et il les appela."
 "Et eux, laissant aussitôt leur barque et leur père, le suivirent."
-"Et Jésus allait par toute la Galilée, enseignant dans leurs synagogues, prêchant l'évangile du royaume de Dieu, et guérissant toutes sortes de maladies et toutes sortes de langueurs parmi le peuple."
-"Et sa renommée se répandit par toute la Syrie; et on lui présentait tous ceux qui étaient malades, et atteints de divers maux et tourments, des démoniaques, des lunatiques, des paralytiques; et il les guérissait."
+"Et Jésus allait par toute la Galilée, enseignant dans leurs synagogues, prêchant l'évangile du royaume de #Dieu, et guérissant toutes sortes de maladies et toutes sortes de langueurs parmi le peuple."
+"Et sa renommée se répandit par toute la Syrie; et on lui présentait tous ceux qui étaient malades, #et atteints de divers maux et tourments, des démoniaques, des lunatiques, des paralytiques; et il les guérissait."
 "Et une grande multitude le suivit de la Galilée, de la Décapole, de Jérusalem, de la Judée, et d'au-delà du Jourdain."

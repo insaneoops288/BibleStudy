@@ -11,8 +11,8 @@
 "Zatem rzekł Pan do Mojżesza, mówiąc
 "Mów do synów Izraelskich, a powiedz im
 "A złączyłby się inszy z nią złączeniem nasienia, a byłoby to skryte przed oczyma męża jej, i taiłaby się, będąc splugawioną, a świadka by nie było przeciwko niej, aniby jej zastano;"
-"Jednak przypadłby nań duch zapalczywości, i miałby w podejrzeniu żonę swą, która by splugawiona była; albo żeby przypadł nań duch zapalczywości, i miałby w podejrzeniu żonę swą, która by splugawiona nie była
-"Tedy przywiedzie on mąż żonę swoję do kapłana, i przyniesie z nią ofiarę jej, dziesiątą część efy mąki jęczmiennej nie lejąc na nią oliwy, ani kładąc na nią kadzidła; albowiem jest ofiara podejrzenia, ofiara śniedna, pamiętna, przywodząca na pamięć grzech."
+"Jednak przypadłby nań duch zapalczywości, i miałby w podejrzeniu żonę swą, która by splugawiona była; albo żeby #przypadł nań duch zapalczywości, i miałby w podejrzeniu żonę swą, która by splugawiona nie była
+"Tedy przywiedzie on mąż żonę swoję do kapłana, i przyniesie z nią ofiarę jej, dziesiątą część efy mąki jęczmiennej nie lejąc #na nią oliwy, ani kładąc na nią kadzidła; albowiem jest ofiara podejrzenia, ofiara śniedna, pamiętna, przywodząca na pamięć grzech."
 "A tak będzie ją ofiarował kapłan, i stawi ją przed oblicznością Pańską."
 "I weźmie kapłan wody świętej w naczynie gliniane, i prochu, który będzie na tle przybytku, weźmie kapłan, a wsypie do wody."
 "Potem postawi kapłan niewiastę przed Panem, i odkryje głowę niewiasty, a da w ręce jej ofiarę śniedną pamiętną; ofiara to śniedna podejrzenia; a kapłan będzie miał w ręce wodę gorzką przeklęstwa."
@@ -24,7 +24,7 @@
 "I da się napić niewieście wody gorzkiej przeklęstwa, i przenikną ją wody przeklęstwa, i obrócą się w gorzkość."
 "Potem weźmie kapłan z rąk niewiasty onej ofiarę śniedną podejrzenia, a będzie ją podnosił przed Panem, ofiarując ją na ołtarzu;"
 "Weźmie też kapłan na garść pamiętnego z ofiary śniednej, i spali to na ołtarzu, potem da wypić wodę niewieście."
-"A gdy się jej da napić onej wody, stanie się, jeźliby splugawiona była, i wystąpiła grzechem przeciwko mężowi swemu, że ją przenikną wody przeklęstwa, i obrócą się w gorzkość, i opuchnie żywot jej, i wypadnie łono jej, i stanie się niewiasta ona przeklęstwem między ludem swoim."
+"A gdy się jej da napić onej wody, stanie się, jeźliby splugawiona była, i wystąpiła grzechem przeciwko mężowi swemu, że ją przenikną wody przeklęstwa, #i obrócą się w gorzkość, i opuchnie żywot jej, i wypadnie łono jej, i stanie się niewiasta ona przeklęstwem między ludem swoim."
 "A jeźliby nie była splugawiona niewiasta, aleby czysta była, niewinna zostanie, i dziatki rodzić będzie."
 "Tać jest ustawa podejrzenia, gdyby ustąpiła żona od męża swego, i byłaby splugawiona;"
 "Albo żeby na męża przypadł duch zapalczywy, a miałby w podejrzeniu żonę swoję, i postawiłby ją przed Panem, a uczyniłby z nią kapłan wszystko według tej ustawy;"

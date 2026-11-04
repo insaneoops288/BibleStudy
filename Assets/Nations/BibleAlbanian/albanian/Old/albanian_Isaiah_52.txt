@@ -2,7 +2,7 @@
 "Shkunde pluhurin që ke në kurriz, çohu dhe ulu ndenjur, o Jeruzalem; zgjidhi zinxhirët që ke në qafë, o bijë e Sionit, që je në robëri!"
 "Sepse kështu thotë Zoti
 "Sepse kështu thotë Zoti, Zoti
-"Dhe tani çfarë po bëj unë këtu?"", thotë Zoti, ""ndërsa popullin tim e kanë hequr larg për asgjë? Ata që e sundojnë, bëjnë që ai të rënkojë"", thotë Zoti, ""dhe emri im shahet vazhdimisht tërë ditën."
+"Dhe tani çfarë po bëj unë këtu?"", thotë Zoti, ""ndërsa popullin tim e kanë hequr larg për asgjë? Ata #që e sundojnë, bëjnë që ai të rënkojë"", thotë Zoti, ""dhe emri im shahet vazhdimisht tërë ditën."
 "Prandaj populli im do të njohë emrin tim, prandaj do të kuptojë atë ditë që jam unë që kam folur
 "Sa të bukura janë mbi malet këmbët e lajmëtarit që sjell lajme të mira që njofton paqen, që sjell lajme të bukura mbi gjëra të mira, që shpall shpëtimin, që i thotë Sionit
 "Dëgjo! Rojet e tua ngrenë zërin dhe lëshojnë bashkë britma gëzimi, sepse shohin me sytë e tyre Zotin që kthehet në Sion."

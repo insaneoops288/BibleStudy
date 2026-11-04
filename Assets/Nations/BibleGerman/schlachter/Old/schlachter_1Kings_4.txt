@@ -10,7 +10,7 @@
 "der Sohn Heseds zu Arubbot,über Socho und das ganze Land Hepher;"
 "der Sohn Abinadabsüber ganz Naphet-Dor. Dieser hatte Taphat, Salomos Tochter, zum Weibe."
 "Baana, der Sohn Achiluds, zu Taanach und Megiddo undüber das ganze Beth-Sean, welches neben Zartan unterhalb Jesreel liegt, von Beth-Sean bis nach Abel-Mechola, bis jenseits Jokmeam."
-"Der Sohn Gebers zu Ramot in Gilead, der hatte die Dörfer Jairs, des Sohnes Manasses, in Gilead und die Gegend Argob, die in Basan liegt; sechzig große Städte, mit Mauern und ehernen Riegeln verwahrt."
+"Der Sohn Gebers zu Ramot in Gilead, der hatte die Dörfer Jairs, des Sohnes Manasses, in Gilead und #die Gegend Argob, die in Basan liegt; sechzig große Städte, mit Mauern und ehernen Riegeln verwahrt."
 "Achinadab, der Sohn Iddos, zu Mahanaim; Achimaaz in Naphtali;"
 "auch er hatte eine Tochter Salomos, Basmat, zum Weibe."
 "Baana, der Sohn Husais, in Asser und Bealot."

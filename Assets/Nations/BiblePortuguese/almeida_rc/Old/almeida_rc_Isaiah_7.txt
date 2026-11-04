@@ -1,4 +1,4 @@
-"Sucedeu, pois, nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram a Jerusalém, para pelejarem contra ela, mas nada puderam contra ela."
+"Sucedeu, pois, nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria, e #Peca, filho de Remalias, rei de Israel, subiram a Jerusalém, para pelejarem contra ela, mas nada puderam contra ela."
 "E deram aviso à casa de David, dizendo
 "Então, disse o SENHOR a Isaías
 "E diz-lhe
@@ -22,4 +22,4 @@
 "E acontecerá que, por causa da abundância do leite que elas hão de dar, comerá manteiga; e manteiga e mel comerá todo aquele que ficar de resto no meio da terra."
 "Sucederá, também, naquele dia, que todo lugar em que houver mil vides do valor de mil moedas de prata será para sarças e para espinheiros."
 "Com arco e flechas se entrará nele, porque as sarças e os espinheiros cobrirão toda a terra."
-"E também a todos os montes que costumam cavar com enxadas se não irá, por causa do temor das sarças e dos espinheiros; mas servirão para se mandarem para lá os bois e para serem pisados pelas ovelhas."
+"E também a todos os montes que costumam cavar com enxadas se não irá, por causa do temor das sarças #e dos espinheiros; mas servirão para se mandarem para lá os bois e para serem pisados pelas ovelhas."

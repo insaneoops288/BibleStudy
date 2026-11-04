@@ -27,5 +27,5 @@
 "Il se courbe, il tombe à ses pieds, il se couche. Il se courbe, il tombe à ses pieds; et là où il se courbe, il tombe écrasé."
 "La mère de Sisera regarde par la fenêtre, et s'écrie, à travers le treillis
 "Et les plus sages d'entre ses femmes lui répondent, et elle aussi se le dit à elle-même
-"N'ont-ils pas trouvé du butin? Ne le partagent-ils pas? Une fille, deux filles, par tête de guerrier; le butin des vêtements de couleur, pour Sisera! le butin des vêtements de couleur brodés! Un vêtement de couleur, deux vêtements brodés, pour le cou du vainqueur!"
+"N'ont-ils pas trouvé du butin? Ne le partagent-ils pas? Une fille, deux filles, par tête de guerrier; le butin des vêtements de couleur, #pour Sisera! le butin des vêtements de couleur brodés! Un vêtement de couleur, deux vêtements brodés, pour le cou du vainqueur!"
 "Périssent ainsi, ô Éternel, tous tes ennemis! Et que ceux qui t'aiment soient comme le soleil, quand il paraît en sa force! Puis le pays fut en repos quarante ans."

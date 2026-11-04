@@ -4,10 +4,10 @@
 "Zatem obmyśliłem odsłonić to twoim uszom, mówiąc
 "A Boaz rzekł
 "Zatem ów powinowaty odpowiedział
-"A był starodawny zwyczaj w Israelu przy wykupie, albo przy zamianie, kiedy należało cokolwiek stwierdzić wtedy jedna ze stron zdejmowała trzewik i podawała go drugiej; służyło to jako świadectwo ustępowania dóbr w Israelu."
+"A był starodawny zwyczaj w Israelu przy wykupie, albo przy zamianie, kiedy należało cokolwiek stwierdzić wtedy jedna #ze stron zdejmowała trzewik i podawała go drugiej; służyło to jako świadectwo ustępowania dóbr w Israelu."
 "Zatem ów powinowaty powiedział do Boaza
 "Więc Boaz powiedział do starszych oraz do całego ludu
-"Również i Ruth, Moabitkę, żonę Machlona, nabyłem sobie za żonę, bym utwierdził imię zmarłego na swym dziedzictwie, oraz by nie zostało wytępione imię zmarłego pośród jego braci i z bramy jego siedziby. Jesteście dzisiaj świadkami."
+"Również i Ruth, Moabitkę, żonę Machlona, nabyłem sobie za żonę, bym utwierdził imię zmarłego na swym dziedzictwie, oraz #by nie zostało wytępione imię zmarłego pośród jego braci i z bramy jego siedziby. Jesteście dzisiaj świadkami."
 "A cały lud w bramie, jak i starsi, zawołali
 "I niech twój dom będzie jak dom Pereca, którego Judzie urodziła Tamara przez ten ród, który ci da WIEKUISTY z tej młodej niewiasty."
 "I tak Boaz pojął Ruthę, i była mu żoną, więc do niej poszedł, a WIEKUISTY sprawił, że poczęła, i urodziła syna."

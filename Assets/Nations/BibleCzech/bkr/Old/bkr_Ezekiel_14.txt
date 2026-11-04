@@ -4,7 +4,7 @@
 "Protož mluv jim a rci jim
 "Abych polapil dům Izraelský v srdci jejich, že se odvrátili ode mne k ukydaným bohům svým všickni napořád."
 "Protož rci domu Izraelskému
-"Nebo kdož by koli z domu Izraelského i z pohostinných, kteříž jsou pohostinu v Izraeli, odvrátil se od následování mne, a složil by ukydané bohy své v srdci svém, a nepravost, kteráž mu k urážce jest, položil by před tvář svou a přišel by k proroku, aby se mne tázal skrze něho
+"Nebo kdož by koli z domu Izraelského i z pohostinných, kteříž jsou pohostinu v Izraeli, odvrátil se od následování mne, a složil by ukydané bohy své v #srdci svém, a nepravost, kteráž mu k urážce jest, položil by před tvář svou a přišel by k proroku, aby se mne tázal skrze něho
 "A obrátím tvář svou hněvivou proti muži tomu, a dám jej za znamení a za přísloví, a vytnu jej z prostřed lidu svého, i zvíte, že já jsem Hospodin."
 "Prorok pak, dal-li by se přivábiti, aby mluvil slovo, já Hospodin přivábil jsem proroka toho. Než vztáhnuť ruku svou na něj, a vyhladím jej z prostřed lidu svého Izraelského."
 "A tak ponesou nepravost svou. Jakáž pokuta na toho, kdož by se tázal, takováž pokuta na proroka bude,"

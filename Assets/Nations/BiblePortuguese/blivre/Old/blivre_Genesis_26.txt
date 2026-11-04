@@ -15,7 +15,7 @@
 "E todos os poços que os criados de Abraão seu pai haviam aberto em seus dias, os filisteus os haviam fechado e enchido da terra."
 "E disse Abimeleque a Isaque
 "E Isaque se foi dali; e assentou suas tendas no vale de Gerar, e habitou ali."
-"E voltou a abrir Isaque os poços de água que haviam aberto nos dias de Abraão seu pai, e que os filisteus haviam fechado, depois de Abraão ter morrido; e chamou-os pelos nomes que seu pai os havia chamado."
+"E voltou a abrir Isaque os poços de água que haviam aberto nos dias de Abraão seu pai, e que #os filisteus haviam fechado, depois de Abraão ter morrido; e chamou-os pelos nomes que seu pai os havia chamado."
 "E os servos de Isaque cavaram no vale, e acharam ali um poço de águas vivas."
 "E os pastores de Gerar brigaram com os pastores de Isaque, dizendo
 "E abriram outro poço, e também brigaram sobre ele

@@ -8,7 +8,7 @@
 "Tak, z ręki dwóch królów Emorei, zabraliśmy wówczas ziemię, która jest po tej stronie Jardenu; od potoku Arnon aż do góry Chermon."
 "Cydończycy nazywają Chermon Syrjonem, zaś Emorejczycy nazywają go Senir."
 "Wzięliśmy wszystkie miasta na równinie, cały Gilead i cały Baszan, aż do Salchy i Edrei stołecznych miast Oga baszańskiego."
-"Gdyż tylko Og, król Baszanu, pozostał z resztki olbrzymów. Oto jego łoże, łoże żelazne, które znajduje się u synów Ammonu, w Rabba jego długość to dziewięć łokci, a jego szerokość to cztery łokcie, licząc na łokieć męski."
+"Gdyż tylko Og, król Baszanu, pozostał z resztki olbrzymów. Oto jego łoże, łoże żelazne, które znajduje się u synów #Ammonu, w Rabba jego długość to dziewięć łokci, a jego szerokość to cztery łokcie, licząc na łokieć męski."
 "Tę oto ziemię wówczas zdobyliśmy. Od Aroeru, który jest nad potokiem Arnon i połowę góry Gilead wraz z jej miastami, oddałem Reubenidom i Gadydom."
 "Zaś pozostałą część Gileadu i cały Baszan królestwo Oga, oddałem połowie pokolenia Menaszy cały obwód Argob; ten cały Baszan nazywają ziemią olbrzymów."
 "Jair, syn Menaszy, zabrał cały obwód Argob, aż do granic Geszuryty i Maachyty, i oprócz Baszanu nazwał go od swojego imienia siołami Jaira, aż po dzisiejszy dzień."
@@ -21,7 +21,7 @@
 "Wówczas też zapowiedziałem Jezusowi, synowi Nuna, mówiąc
 "Nie obawiajcie się ich, gdyż WIEKUISTY, wasz Bóg, Sam za was walczy."
 "Wtedy też błagałem WIEKUISTEGO, mówiąc
-"Panie, WIEKUISTY! Ty zacząłeś okazywać Twojemu słudze Twoją wielkość oraz Twoją potężną rękę; bo gdzie jest bóg na niebie, albo na ziemi, który mógłby spełnić coś podobnego do Twych dzieł oraz do Twoich czynów?"
+"Panie, WIEKUISTY! Ty zacząłeś okazywać Twojemu słudze Twoją wielkość oraz Twoją potężną rękę; bo gdzie jest bóg na #niebie, albo na ziemi, który mógłby spełnić coś podobnego do Twych dzieł oraz do Twoich czynów?"
 "Niech więc przejdę i zobaczę tą piękną ziemię, która jest za Jardenem, ową piękną górę, i Liban."
 "Ale WIEKUISTY uniósł się na mnie z waszej przyczyny oraz mnie nie wysłuchał. Nadto WIEKUISTY do mnie powiedział
 "Wejdź na szczyt Pisgi i podnieś twoje oczy ku zachodowi, ku północy, ku południowi i ku wschodowi, i popatrz swoimi oczyma; ponieważ za Jarden nie przejdziesz."

@@ -11,7 +11,7 @@
 "At sinabi niya, Wala sinoman, Panginoon. At sinabi ni Jesus, Ako man ay hindi rin hahatol sa iyo
 "Muli ngang nagsalita sa kanila si Jesus, na sinasabi, Ako ang ilaw ng sanglibutan
 "Sinabi nga sa kaniya ng mga Fariseo, Nagpapatotoo ka sa iyong sarili; hindi totoo ang patotoo mo."
-"Sumagot si Jesus at sa kanila'y sinabi, Bagama't ako'y nagpapatotoo sa akin din, ay totoo ang aking patotoo; sapagka't nalalaman ko kung saan ako nanggaling, at kung saan ako paroroon; datapuwa't hindi ninyo nalalaman kung saan ako nanggaling, o kung saan ako paroroon."
+"Sumagot si Jesus at sa kanila'y sinabi, Bagama't ako'y nagpapatotoo sa akin din, ay totoo ang aking patotoo; sapagka't nalalaman ko kung #saan ako nanggaling, at kung saan ako paroroon; datapuwa't hindi ninyo nalalaman kung saan ako nanggaling, o kung saan ako paroroon."
 "Nagsisihatol kayo ayon sa laman; ako'y hindi humahatol sa kanino mang tao."
 "Oo, at kung ako'y humahatol, ang hatol ko'y totoo; sapagka't hindi ako nagiisa, kundi ako at ang Ama na nagsugo sa akin."
 "Oo, at sa inyong kautusan ay nasusulat, na ang patotoo ng dalawang tao ay totoo."
@@ -25,7 +25,7 @@
 "Sa kaniya nga'y kanilang sinabi, Sino ka baga? Sinabi sa kanila ni Jesus, Siya rin na sinalita ko sa inyo mula pa nang una."
 "Mayroon akong maraming bagay na sasalitain at hahatulan tungkol sa inyo
 "Hindi nila napagunawa na tungkol sa Ama ang kaniyang sinasalita sa kanila."
-"Sinabi nga ni Jesus, Kung maitaas na ninyo ang Anak ng tao, saka ninyo makikilala na ako nga ang Cristo, at wala akong ginagawa sa aking sarili, kundi sinalita ko ang mga bagay na ito, ayon sa itinuro sa akin ng Ama."
+"Sinabi nga ni Jesus, Kung maitaas na ninyo ang Anak ng tao, saka ninyo makikilala na ako nga ang Cristo, at wala #akong ginagawa sa aking sarili, kundi sinalita ko ang mga bagay na ito, ayon sa itinuro sa akin ng Ama."
 "At ang nagsugo sa akin ay sumasa akin; hindi niya ako binayaang nagiisa; sapagka't ginagawa kong lagi ang mga bagay na sa kaniya'y nakalulugod."
 "Samantalang sinasalita niya ang mga bagay na ito, ay maraming nagsisampalataya sa kaniya."
 "Sinabi nga ni Jesus sa mga Judiong yaon na nagsisisampalataya sa kaniya, Kung kayo'y magsisipanatili sa aking salita, kung magkagayo'y tunay nga kayong mga alagad ko;"
@@ -41,7 +41,7 @@
 "Ginagawa ninyo ang mga gawa ng inyong ama. Sinabi nila sa kaniya, Hindi kami inianak sa pakikiapid; may isang Ama kami, ang Dios."
 "Sinabi sa kanila ni Jesus, Kung ang Dios ang inyong ama, ay inyong iibigin ako
 "Bakit hindi ninyo napaguunawa ang aking pananalita? sapagka't hindi ninyo mangyayaring dinggin ang aking salita."
-"Kayo'y sa inyong amang diablo, at ang mga nais ng inyong ama ang ibig ninyong gawin. Siya'y isang mamamatay-tao buhat pa nang una, at hindi nananatili sa katotohanan, sapagka't walang katotohanan sa kaniya. Pagka nagsasalita siya ng kasinungalingan, ay nagsasalita siya ng sa ganang kaniya
+"Kayo'y sa inyong amang diablo, at ang mga nais ng inyong ama ang ibig ninyong gawin. Siya'y isang mamamatay-tao buhat pa nang una, #at hindi nananatili sa katotohanan, sapagka't walang katotohanan sa kaniya. Pagka nagsasalita siya ng kasinungalingan, ay nagsasalita siya ng sa ganang kaniya
 "Nguni't dahil sa sinasabi ko ang katotohanan, ay hindi ninyo ako sinasampalatayanan."
 "Sino sa inyo ang makasusumbat sa akin tungkol sa kasalanan? Kung sinasabi ko ang katotohanan, bakit hindi ninyo ako sinasampalatayanan?"
 "Ang sa Dios ay nakikinig ng mga salita ng Dios
@@ -49,7 +49,7 @@
 "Sumagot si Jesus, Ako'y walang demonio; kundi pinapupurihan ko ang aking Ama, at ako'y inyong sinisiraan ng puri."
 "Nguni't hindi ko hinahanap ang aking sariling kaluwalhatian
 "Katotohanan, katotohanang sinasabi ko sa inyo, Kung ang sinoman ay tutupad ng aking salita, ay hindi siya makakakita magpakailan man ng kamatayan."
-"Sinabi ng mga Judio sa kaniya, Ngayo'y nalalaman naming mayroon kang demonio. Namatay si Abraham, at ang mga propeta; at sinasabi mo, Kung ang sinoman ay tutupad ng aking salita, ay hindi niya matitikman magpakailan man ang kamatayan."
+"Sinabi ng mga Judio sa kaniya, Ngayo'y nalalaman naming mayroon kang demonio. Namatay si Abraham, at ang mga propeta; at #sinasabi mo, Kung ang sinoman ay tutupad ng aking salita, ay hindi niya matitikman magpakailan man ang kamatayan."
 "Dakila ka pa baga sa aming amang Abraham, na namatay? at nangamatay ang mga propeta
 "Sumagot si Jesus, Kung niluluwalhati ko ang aking sarili, ang kaluwalhatian ko ay walang anoman
 "At hindi ninyo siya napagkilala

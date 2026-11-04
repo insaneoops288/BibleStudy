@@ -1,4 +1,4 @@
-"Ja kuin hän sieltä läksi, tuli hän Juudan maan äärille sen maakunnan kautta, joka on sillä puolella Jordania. Ja kansa kokoontui taas hänen tykönsä, ja niinkuin hän oli tottunut, niin hän taas opetti heitä."
+"Ja kuin hän sieltä läksi, tuli hän Juudan maan äärille sen maakunnan kautta, joka on sillä puolella Jordania. #Ja kansa kokoontui taas hänen tykönsä, ja niinkuin hän oli tottunut, niin hän taas opetti heitä."
 "Ja Pharisealaiset tulivat ja kysyivät häneltä
 "Mutta hän vastaten sanoi heille
 "He sanoivat
@@ -29,7 +29,7 @@
 "Mutta Jesus vastasi ja sanoi
 "Ellei hän saa jälleen satakertaisesti nyt tällä ajalla huoneita ja veljiä, ja sisaria, ja äitejä, ja lapsia, ja peltoja vastoinkäymisillä , ja tulevaisessa maailmassa ijankaikkisen elämän."
 "Mutta monta ensimäistä tulee jälkimäiseksi, ja jälkimäistä ensimäiseksi."
-"Mutta he olivat tiellä menemässä ylös Jerusalemiin; ja Jesus kävi heidän edellänsä, ja he hämmästyivät, ja seurasivat häntä ja pelkäsivät. Ja hän otti taas ne kaksitoistakymmentä tykönsä ja rupesi heille sanomaan, mitä hänelle tapahtuva oli
+"Mutta he olivat tiellä menemässä ylös Jerusalemiin; ja Jesus kävi heidän edellänsä, ja he hämmästyivät, ja seurasivat häntä #ja pelkäsivät. Ja hän otti taas ne kaksitoistakymmentä tykönsä ja rupesi heille sanomaan, mitä hänelle tapahtuva oli
 "Katso, me menemme ylös Jerusalemiin, ja Ihmisen Poika annetaan ylön pappein päämiehille ja kirjanoppineille, ja he tuomitsevat hänen kuolemaan ja antavat ylön hänen pakanoille;"
 "Ja he pilkkaavat häntä, ja pieksävät hänen, ja sylkevät hänen päällensä, ja tappavat hänen; ja kolmantena päivänä hän nousee ylös."
 "Niin tuli hänen tykönsä Jakob ja Johannes, Zebedeuksen pojat, sanoen

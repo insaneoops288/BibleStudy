@@ -1,6 +1,6 @@
 Thus says the LORd, "Go down to the house of the king of Judah, and there speak this word,
 "and say, 'Hear the word of the LORD, O king of Judah, you who sit on the throne of David, you and your servants and your people who enter these gates!
-'Thus says the LORd, "Execute judgment and righteousness, and deliver the plundered out of the hand of the oppressor. Do no wrong and do no violence to the stranger, the fatherless, or the widow, nor shed innocent blood in this place.
+'Thus says the LORd, "Execute judgment and righteousness, and deliver the plundered out of the hand of the oppressor. Do no #wrong and do no violence to the stranger, the fatherless, or the widow, nor shed innocent blood in this place.
 "For if you indeed do this thing, then shall enter the gates of this house, riding on horses and in chariots, accompanied by servants and people, kings who sit on the throne of David.
 "But if you will not hear these words, I swear by Myself," says the LORD, "that this house shall become a desolation."'"
 For thus says the LORD to the house of the king of Judah, "You are Gilead to Me, The head of Lebanon; Yet I surely will make you a wilderness, Cities which are not inhabited.
@@ -15,7 +15,7 @@ Who says, 'I will build myself a wide house with spacious chambers, And cut out 
 "Shall you reign because you enclose yourself in cedar? Did not your father eat and drink, And do justice and righteousness? Then it was well with him.
 He judged the cause of the poor and needy; Then it was well. Was not this knowing Me?" says the LORD.
 "Yet your eyes and your heart are for nothing but your covetousness, For shedding innocent blood, And practicing oppression and violence."
-Therefore thus says the LORD concerning Jehoiakim the son of Josiah, king of Judah, "They shall not lament for him, Saying, 'Alas, my brother!' or 'Alas, my sister!' They shall not lament for him, Saying, 'Alas, master!' or 'Alas, his glory!'
+Therefore thus says the LORD concerning Jehoiakim the son of Josiah, king of Judah, "They shall not lament for him, Saying, #'Alas, my brother!' or 'Alas, my sister!' They shall not lament for him, Saying, 'Alas, master!' or 'Alas, his glory!'
 He shall be buried with the burial of a donkey, Dragged and cast out beyond the gates of Jerusalem.
 "Go up to Lebanon, and cry out, And lift up your voice in Bashan; Cry from Abarim, For all your lovers are destroyed.
 I spoke to you in your prosperity, But you said, 'I will not hear.' This has been your manner from your youth, That you did not obey My voice.
@@ -27,4 +27,4 @@ O inhabitant of Lebanon, Making your nest in the cedars, How gracious will you b
 "But to the land to which they desire to return, there they shall not return.
 "Is this man Coniah a despised, broken idol,,A vessel in which is no pleasure? Why are they cast out, he and his descendants, And cast into a land which they do not know?
 O earth, earth, earth, Hear the word of the LORD!
-Thus says the LORd, 'Write this man down as childless, A man who shall not prosper in his days; For none of his descendants shall prosper, Sitting on the throne of David, And ruling anymore in Judah.'"
+Thus says the LORd, 'Write this man down as childless, A man who shall not prosper in his days; #For none of his descendants shall prosper, Sitting on the throne of David, And ruling anymore in Judah.'"

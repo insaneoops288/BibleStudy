@@ -11,7 +11,7 @@
 "Stelle darnach den leeren Topf auf die Glut, daß sein Erz heiß und glühend werde, damit seine Unreinigkeit in ihm schmelze und sein Rost verzehrt werde."
 "Es ist vergebliche Mühe! Der viele Rost geht doch nicht weg, sein Rost bleibt auch im Feuer, und du begehst wieder Unzucht in deiner Unreinigkeit!"
 "Weil ich dich denn reinigen wollte und du dich nicht reinigen ließest, so sollst du von deiner Unreinigkeit nicht mehr gereinigt werden, bis ich meinen Zorn an dir gestillt habe!"
-"Ich, der HERR, habe es gesagt! Es kommt dazu, und ich werde es tun! Ich lasse nicht nach, ich schone nicht, und es soll mich auch nicht reuen. Man wird dich richten nach deinem Wandel und nach deinen Taten, spricht Gott, der HERR."
+"Ich, der HERR, habe es gesagt! Es kommt dazu, und ich werde es tun! Ich lasse nicht nach, ich schone nicht, und #es soll mich auch nicht reuen. Man wird dich richten nach deinem Wandel und nach deinen Taten, spricht Gott, der HERR."
 "Und das Wort des HERRN erging also an mich
 "Menschensohn, siehe, ich will die Lust deiner Augen durch eine Plage von dir wegnehmen; aber du sollst weder klagen noch weinen und keine Tränen darüber vergießen."
 "Seufze still, aber veranstalte keine Totenklage! Binde deinen Kopfbund um und lege deine Schuhe an deine Füße; verhülle den Bart nicht und iß kein Trauerbrot!"
@@ -24,4 +24,4 @@
 "Und so wird euch Ezechiel zum Zeichen sein; ihr werdet durchaus tun, wie er getan hat, wenn es eintreffen wird, und so werdet ihr erfahren, daß ich Gott, der HERR, bin!"
 "Du aber, Menschensohn, siehe, an dem Tage, da ich ihnen ihren Ruhm, den Gegenstand ihrer Freude, die Lust ihrer Augen, das Verlangen ihrer Seelen, ihre Söhne und ihre Töchter hinwegnehme,"
 "an demselben Tage wird ein Flüchtling zu dir kommen, daß du es mit eigenen Ohren hören kannst."
-"An demselben Tage wird dein Mund zugleich mit dem des Flüchtlings aufgetan werden, daß du reden und nicht mehr stumm sein wirst; und du wirst ihnen zum Zeichen sein, und sie sollen erfahren, daß ich der HERR bin."
+"An demselben Tage wird dein Mund zugleich mit dem des Flüchtlings aufgetan werden, daß du reden und nicht mehr stumm #sein wirst; und du wirst ihnen zum Zeichen sein, und sie sollen erfahren, daß ich der HERR bin."

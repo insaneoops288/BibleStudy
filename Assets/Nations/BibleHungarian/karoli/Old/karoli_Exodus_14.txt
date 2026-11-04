@@ -24,7 +24,7 @@
 "És lõn hajnalkor, rátekinte az Úr az Égyiptombeliek táborára a tûz- és felhõ-oszlopból és megzavará az Égyiptombeliek táborát."
 "És megállítá szekereik kerekeit és nehezen vonszoltatá azokat. És mondának az Égyiptombeliek
 "És szóla az Úr Mózesnek
-"És kinyújtá Mózes az õ kezét a tengerre, és reggel felé visszatére a tenger az õ elébbi állapotjára; az Égyiptombeliek pedig eleibe futnak vala, és az Úr beleveszté az égyiptomiakat a tenger közepébe."
+"És kinyújtá Mózes az õ kezét a tengerre, és reggel felé visszatére a tenger az õ elébbi #állapotjára; az Égyiptombeliek pedig eleibe futnak vala, és az Úr beleveszté az égyiptomiakat a tenger közepébe."
 "Visszatérének tehát a vizek és elboríták a szekereket és a lovasokat, a Faraónak minden seregét, melyek utánok bementek vala a tengerbe; egy sem marada meg közülök."
 "De Izráel fiai szárazon menének át a tenger közepén; a vizek pedig kõfal gyanánt valának nékik jobb- és balkezök felõl."
 "És megszabadítá az Úr azon a napon Izráelt az Égyiptombeliek kezébõl; és látá Izráel a megholt Égyiptombelieket a tenger partján."

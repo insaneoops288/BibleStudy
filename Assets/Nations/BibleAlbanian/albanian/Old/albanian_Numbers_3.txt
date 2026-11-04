@@ -1,7 +1,7 @@
 "Këta janë pasardhësit e Aaronit dhe të Moisiut në kohën kur Zoti i foli Moisiut në malin Sinai."
 "Këta janë emrat e bijve të Aaronit
 "Këta janë emrat e bijve të Aaronit, të vajosur si priftërinj, që ai i shenjtëroi për të shërbyer si priftërinj."
-"Nadabi dhe Abihu vdiqën para Zotit, kur ofruan një zjarr të palejueshëm para Zotit në shkretëtirën e Sinait; ata nuk patën bij. Kështu Eleazari dhe Ithamari shërbyen si priftërinj në prani të Aaronit, atit të tyre."
+"Nadabi dhe Abihu vdiqën para Zotit, kur ofruan një zjarr të palejueshëm para Zotit në shkretëtirën e Sinait; ata #nuk patën bij. Kështu Eleazari dhe Ithamari shërbyen si priftërinj në prani të Aaronit, atit të tyre."
 "Pastaj Zoti i foli Moisiut, duke i thënë
 """Afro fisin e Levitëve dhe paraqite para priftit Aaron, që të vihet në shërbim të tij."
 "Ata do të zbatojnë të gjitha udhëzimet e tij dhe do të kryejnë të gjitha detyrat që lidhen me tërë asamblenë para çadrës së mbledhjes, duke kryer shërbimin e tabernakullit."
@@ -10,7 +10,7 @@
 "Ti do të vendosësh Aaronin dhe bijtë e tij në mënyrë që ata të kryejnë funksionet e priftërisë së tyre; por çdo i huaj tjetër që afrohet do të dënohet me vdekje""."
 "Zoti i foli akoma Moisiut, duke i thënë
 """Ja, unë i mora Levitët nga gjiri i bijve të Izraelit në vend të çdo të parëlinduri që çel barkun e nënës midis bijve të Izraelit; prandaj Levitët do të jenë të mitë,"
-"sepse çdo i parëlindur është imi; ditën që godita të gjithë të parëlindurit në vendin e Egjiptit, unë ia shenjtërova vetvetes të gjithë të parëlindurit në Izrael, qoftë të njerëzve, qoftë të kafshëve; ata do të jenë të mitë. Unë jam Zoti."
+"sepse çdo i parëlindur është imi; ditën që godita të gjithë të parëlindurit në vendin e Egjiptit, unë ia shenjtërova vetvetes të #gjithë të parëlindurit në Izrael, qoftë të njerëzve, qoftë të kafshëve; ata do të jenë të mitë. Unë jam Zoti."
 "Pastaj Zoti i foli Moisiut në shkretëtirën e Sinait, duke i thënë
 """Bëj regjistrimin e bijve të Levit në bazë të shtëpive të etërve të tyre dhe të familjeve të tyre; do të bësh regjistrimin e të gjithë meshkujve një muajsh e lart""."
 "Kështu Moisiu bëri regjistrimin simbas urdhërit të Zotit ashtu siç ishte urdhëruar."
@@ -33,9 +33,9 @@
 "Nga Merari rrjedhin familja e Mahlitëve dhe familja e Mushitëve; këto janë familjet e Merarit."
 "Ata që u regjistruan, duke numëruar tërë meshkujt nga mosha një muajsh e lart, ishin gjashtë mijë e dyqind."
 "Prijësi i shtëpisë së etërve të familjeve të Merarit ishte Tsurieli, bir i Abihailit. Ata duhet të zinin vend në krahun verior të tabernakullit."
-"Detyrat e caktuara për bijtë e Merarit kishin të bënin me dërrasat e tabernakullit, me traversat e tij, me shtyllat dhe bazat e tyre, me tërë veglat e tij dhe tërë punën që ka të bëjë me këto gjëra,"
+"Detyrat e caktuara për bijtë e Merarit kishin të bënin me dërrasat e tabernakullit, me traversat e tij, me shtyllat #dhe bazat e tyre, me tërë veglat e tij dhe tërë punën që ka të bëjë me këto gjëra,"
 "me shtyllat e oborrit rreth e qark, me bazat e tyre, me kunjat dhe me litarët e tyre."
-"Përpara tabernakullit, në krahun e tij lindor, përballë çadrës së mbledhjes, nga ana lindjes së diellit, duhet të zinin vend Moisiu, Aaroni dhe bijtë e tij; ata kujdeseshin për shenjtëroren duke plotësuar detyrat e bijve të Izraelit; por çdo i huaj tjetër që do të afrohej, do të dënohej me vdekje."
+"Përpara tabernakullit, në krahun e tij lindor, përballë çadrës së mbledhjes, nga ana lindjes së diellit, duhet të zinin vend Moisiu, Aaroni dhe bijtë e tij; #ata kujdeseshin për shenjtëroren duke plotësuar detyrat e bijve të Izraelit; por çdo i huaj tjetër që do të afrohej, do të dënohej me vdekje."
 "Tërë Levitët e regjistruar nga Moisiu dhe Aaroni në bazë të familjeve të tyre simbas urdhrit të Zotit, të gjithë meshkujt që nga mosha një muajsh e lart ishin njëzet mijë."
 "Pastaj Zoti i tha Moisiut
 "Do t'i marrësh Levitët për mua, unë jam Zoti, në vend të të gjithë të parëlindurve ndër bijtë e Izraelit dhe bagëtinë e Levitëve në vend të të parëlindurve ndër bagëtitë e bijve të Izraelit""."

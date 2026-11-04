@@ -5,7 +5,7 @@
 "Hän sanoi
 "Ja hän vielä sanoi
 "Ja Herra sanoi
-"Ja olen astunut alas heitä vapahtamaan Egyptiläisten käsistä, ja viemään heitä tältä maalta hyvään ja laviaan maahan, siihen maahan, jossa rieskaa ja hunajaa vuotaa, sille paikalle, jossa Kanaanealaiset, Hetiläiset, Amorilaiset, Pheresiläiset, Heviläiset ja Jebusilaiset asuvat."
+"Ja olen astunut alas heitä vapahtamaan Egyptiläisten käsistä, ja viemään heitä tältä maalta hyvään ja laviaan maahan, siihen #maahan, jossa rieskaa ja hunajaa vuotaa, sille paikalle, jossa Kanaanealaiset, Hetiläiset, Amorilaiset, Pheresiläiset, Heviläiset ja Jebusilaiset asuvat."
 "Ja katso, Israelin lasten huuto on tullut minun eteeni, ja minä myös olen nähnyt heidän ahdistuksensa, jolla Egyptiläiset heitä ahdistavat."
 "Ja nyt mene, ja minä tahdon lähettää sinun Pharaon tykö, ja sinun pitää johdattaman minun kansaani Israelin lapsia ulos Egyptistä."
 "Ja Moses sanoi Jumalalle

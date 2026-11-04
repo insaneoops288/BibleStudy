@@ -6,8 +6,8 @@
 "Minä tahdon sanoa pohjoiselle
 "Kaikki, jotka minun nimelläni ovat nimitetyt, jotka minä luonut olen, valmistanut ja tehnyt minun kunniakseni."
 "Tuo edes sokia kansa, jolla kuitenkin silmät ovat, ja kuurot, joilla kuitenkin korvat ovat."
-"Anna kaikki pakanat tulla kokoon, ja kansan kokoontua, kuka on heidän seassansa, joka näitä ilmoittaa tietää, ja kuuluttaa meille edellä, mitä tapahtuman pitää? Anna heidän tuoda edes todistuksensa ja asiansa oikiaksi tehdä, niin saadaan kuulla, ja sanoa
-"Mutta te olette minun todistajani, sanoo Herra, ja minun palveliani, jonka minä valitsin, että te tietäisitte, ja uskoisitte minua, ja ymmärtäisitte, että minä se olen. Ei yhtään Jumalaa ole minun edelläni tehty, ei myös kenkään tule minun jälkeeni."
+"Anna kaikki pakanat tulla kokoon, ja kansan kokoontua, kuka on heidän seassansa, joka näitä ilmoittaa tietää, ja kuuluttaa meille #edellä, mitä tapahtuman pitää? Anna heidän tuoda edes todistuksensa ja asiansa oikiaksi tehdä, niin saadaan kuulla, ja sanoa
+"Mutta te olette minun todistajani, sanoo Herra, ja minun palveliani, jonka minä valitsin, että te tietäisitte, ja uskoisitte minua, ja #ymmärtäisitte, että minä se olen. Ei yhtään Jumalaa ole minun edelläni tehty, ei myös kenkään tule minun jälkeeni."
 "Minä, minä olen Herra, ja paitsi minua ei ole yhtään vapahtajaa."
 "Minä sen olen ilmoittanut, ja olen myös auttanut, ja olen sen teille antanut sanoa, ja ei ole muukalainen (Jumala) teidän seassanne
 "Ja minä olen itse ennenkuin joku päivä olikaan, ja ei kenkään voi minun kädestäni pelastaa; minä vaikutan, ja kuka tahtoo sitä estää?"
@@ -21,7 +21,7 @@
 "Tämän kansan olen minä minulleni valmistanut
 "Ja et sinä Jakob huutanut minua avukses, ja et sinä Israel ole työtä tehnyt minun tähteni."
 "Etpä sinä minulle tuonut edes polttouhris lampaita, etkä kunnioittanut minua sinun uhrillas. En minä sinua saattanut ruokauhrias uhraamaan, enkä myös vaatinut sinua pyhää savuas tekemään."
-"Etpä sinä minulle ostanut rahalla hajavaa kalmusta, et myös minua uhris rasvalla täyttänyt; vaan sinä sait minun työtä tekemään sinun synnissäs, ja olet tehnyt minulle vaivaa sinun pahoissa teoissas."
+"Etpä sinä minulle ostanut rahalla hajavaa kalmusta, et myös minua uhris rasvalla täyttänyt; vaan sinä #sait minun työtä tekemään sinun synnissäs, ja olet tehnyt minulle vaivaa sinun pahoissa teoissas."
 "Minä, minä pyyhin sinun ylitsekäymises pois minun tähteni, ja en muista sinun syntejäs."
 "Muistuta minulle, koetelkaamme oikeudella
 "Sinun ensimäinen isäs on syntiä tehnyt, ja sinun opettajas ovat minua vastaan vääryyttä tehneet."

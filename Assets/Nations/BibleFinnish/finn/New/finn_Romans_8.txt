@@ -8,7 +8,7 @@
 "Mutta jotka lihassa ovat, ei ne taida olla Jumalalle otolliset."
 "Mutta ette ole lihassa, vaan hengessä, jos muutoin Jumalan Henki asuu teissä; mutta jolla ei ole Kristuksen Henkeä, ei se ole hänen omansa."
 "Jos siis Kristus teissä on, niin ruumis tosin on kuollut synnin tähden, mutta henki on elämä vanhurskauden tähden."
-"Jos nyt sen Henki, joka Jesuksen kuolleista herätti, asuu teissä, niin myös se, joka Kristuksen kuolleista herätti, on teidän kuolevaiset ruumiinne eläväksi tekevä, sen teissä asuvaisen hengen kautta."
+"Jos nyt sen Henki, joka Jesuksen kuolleista herätti, asuu teissä, niin myös se, joka Kristuksen #kuolleista herätti, on teidän kuolevaiset ruumiinne eläväksi tekevä, sen teissä asuvaisen hengen kautta."
 "Niin emme nyt ole, rakkaat veljet, velkapäät lihalle, lihan jälkeen elämään."
 "Sillä jos te lihan jälkeen elätte, niin teidän pitää kuoleman; mutta jos te lihan työt hengen kautta kuoletatte, niin te saatte elää."
 "Sillä kaikki, jotka Jumalan Hengeltä vaikutetaan, ne ovat Jumalan lapset."

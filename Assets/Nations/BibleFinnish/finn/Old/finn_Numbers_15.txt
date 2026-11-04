@@ -12,7 +12,7 @@
 "Sen luvun jälkeen kuin te yhdelle teette, niin pitää teidän tekemän kullekin heidän lukunsa jälkeen."
 "Jokainen omainen pitää tämän näin tekemän, uhrataksensa ne Herralle lepytyshajun tuleksi."
 "Ja jos joku muukalainen asuu teidän tykönänne, eli on teidän sukuinne seassa, ja tahtoo tehdä Herralle tuliuhria makiaksi hajuksi, hän tehkään niinkuin teidän tekemän pitää."
-"Kaikella kansalla pitää oleman yksi sääty, sekä teillä että muukalaisilla. Ijankaikkinen sääty pitää se oleman teidän sukukunnillenne, niin että Herran edessä pitää muukalaisen oleman niinkuin tekin."
+"Kaikella kansalla pitää oleman yksi sääty, sekä teillä että muukalaisilla. Ijankaikkinen sääty pitää se #oleman teidän sukukunnillenne, niin että Herran edessä pitää muukalaisen oleman niinkuin tekin."
 "Yksi laki ja yksi oikeus pitää oleman teillä ja muukalaisilla, jotka asuvat teidän tykönänne."
 "Ja Herra puhui Mosekselle, sanoen
 "Puhu Israelin lapsille, ja sano heille
@@ -21,8 +21,8 @@
 "Niin pitää teidän myös antaman Herralle taikinanne alkeista ylennykseksi, teidän sukukunnissanne."
 "Ja jos te tietämättä eksytte, ja ette tee kaikkia näitä käskyjä, joita Herra Mosekselle käskenyt on,"
 "Kaikki mitä Herra Moseksen kautta teille käskenyt on, siitä päivästä, jona hän rupesi käskemään, niin teidän lapsiinne asti
-"Jos siis koko kansa jossakin tietämättömyydestä erehtyy, niin pitää kaiken kansan tekemän polttouhriksi nuoren mullin karjasta, makiaksi hajuksi Herralle heidän ruokauhrinsa ja juomauhrinsa kanssa, kuin se tulee heidän tehdäksensä, ja yhden kauriin syntiuhriksi."
-"Ja papin pitää näin sovittaman koko joukon Israelin lapsista, ja se heille annetaan anteeksi; sillä se on tietämättömyys. Ja heidän pitää kantaman lahjansa tuliuhriksi Herralle, ja syntiuhrinsa Herran eteen tietämättömyytensä tähden,"
+"Jos siis koko kansa jossakin tietämättömyydestä erehtyy, niin pitää kaiken kansan tekemän polttouhriksi nuoren mullin karjasta, makiaksi #hajuksi Herralle heidän ruokauhrinsa ja juomauhrinsa kanssa, kuin se tulee heidän tehdäksensä, ja yhden kauriin syntiuhriksi."
+"Ja papin pitää näin sovittaman koko joukon Israelin lapsista, ja se heille annetaan anteeksi; sillä se #on tietämättömyys. Ja heidän pitää kantaman lahjansa tuliuhriksi Herralle, ja syntiuhrinsa Herran eteen tietämättömyytensä tähden,"
 "Niin se annetaan anteeksi koko Israelin lasten joukolle, niin myös muukalaisille, jotka asuvat heidän seassansa; sillä kaikki kansa on siinä tietämättömyydessä."
 "Mutta kuin yksi sielu tietämätä syntiä tekee, hänen pitää tuoman vuosikuntaisen vuohen syntiuhriksi."
 "Ja papin pitää eksyneen sielun sovittaman, koska hän tietämättömyydestä syntiä tekee Herran edessä, niin että hän sovittaa hänen, ja se annetaan hänelle anteeksi."
@@ -36,6 +36,6 @@
 "Niin kaikki kansa vei hänen leiristä ulos, ja kivitti hänen kuoliaaksi, niinkuin Herra Mosekselle käskenyt oli."
 "Ja Herra puhui Mosekselle, sanoen
 "Puhu Israelin lapsille, ja sano heille
-"Ja ne tilkat pitää oleman teille merkiksi, ja katsoissanne niiden päälle pitää teidän kaikki Herran käskyt muistaman ja tekemän ne, ettette tekisi teidän sydämenne ajatuksen jälkeen, ettekä myös huorin tekisi teidän silmäinne näyn jälkeen."
+"Ja ne tilkat pitää oleman teille merkiksi, ja katsoissanne niiden päälle pitää teidän kaikki Herran käskyt muistaman ja #tekemän ne, ettette tekisi teidän sydämenne ajatuksen jälkeen, ettekä myös huorin tekisi teidän silmäinne näyn jälkeen."
 "Sentähden pitää teidän muistaman ja tekemän kaikki minun käskyni, ja oleman pyhät teidän Jumalallenne."
 "Minä olen Herra teidän Jumalanne, joka teidät Egyptin maalta ulos johdatin, ollakseni teidän Jumalanne

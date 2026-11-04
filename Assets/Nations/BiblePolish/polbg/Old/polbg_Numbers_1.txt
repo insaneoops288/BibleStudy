@@ -15,11 +15,11 @@
 "Z pokolenia Neftalimowego Achyra, syn Enanów."
 "Ci zwoływani będą najzacniejsi z ludu książęta w pokoleniach ojców swych; wodzami wojsk Izraelskich będą."
 "Przyzwali tedy do siebie Mojżesz i Aaron mężów tych, którzy z imienia mianowani są."
-"I zebrali wszystko zgromadzenie dnia pierwszego miesiąca wtórego, i przyznawali się do rodzajów swych według familii swych, według domów ojców swych i według liczby imion, od dwudziestu lat i wyżej, według osób swych."
+"I zebrali wszystko zgromadzenie dnia pierwszego miesiąca wtórego, i przyznawali się do rodzajów swych według familii swych, #według domów ojców swych i według liczby imion, od dwudziestu lat i wyżej, według osób swych."
 "Jako rozkazał Pan Mojżeszowi, tak je policzył na puszczy Synaj."
-"I było synów Rubena, pierworodnego Izraelowego, rodzajów ich według familii ich, według domów ojców ich, według liczby imion, według osób ich, wszystkiego pogłowia męskiego od dwudziestu lat i wyżej, wszystkich wychodzących na wojnę;"
+"I było synów Rubena, pierworodnego Izraelowego, rodzajów ich według familii ich, według domów ojców ich, według liczby #imion, według osób ich, wszystkiego pogłowia męskiego od dwudziestu lat i wyżej, wszystkich wychodzących na wojnę;"
 "Naliczono ich z pokolenia Rubenowego czterdzieści i sześć tysięcy i pięć set."
-"Z synów Symeonowych rodzajów ich, według familii ich, według domów ojców ich, naliczonych jego, według liczby imion, według osób ich, wszystkiego pogłowia męskiego od dwudziestu lat i wyżej, wszystkich wychodzących na wojnę;"
+"Z synów Symeonowych rodzajów ich, według familii ich, według domów ojców ich, naliczonych jego, według liczby imion, #według osób ich, wszystkiego pogłowia męskiego od dwudziestu lat i wyżej, wszystkich wychodzących na wojnę;"
 "Naliczono ich z pokolenia Symeonowego pięćdziesiąt i dziewięć tysięcy i trzy sta."
 "Z synów Gadowych rodzajów ich według familii ich, według domów ojców ich, według liczby imion, od dwudziestu lat i wyżej, wszystkich wychodzących na wojnę."
 "Naliczono ich z pokolenia Gadowego czterdzieści i pięć tysięcy i sześć set i pięćdziesiąt."
@@ -47,7 +47,7 @@
 "Ale Lewitowie według pokolenia ojców swych nie byli policzeni między nimi."
 "Bo rozkazał był Pan Mojżeszowi, mówiąc
 "Tylko pokolenia Lewi nie będziesz liczył, a sumy ich nie policzysz między syny Izraelskie;"
-"Ale postanowisz Lewity nad przybytkiem świadectwa, i nad wszystkiem naczyniem jego, i nad wszystkiem co należy do niego. Oni nosić będą przybytek i wszystkie naczynia jego; oni też służyć będą w nim, a około przybytku obozem się kłaść będą."
+"Ale postanowisz Lewity nad przybytkiem świadectwa, i nad wszystkiem naczyniem jego, i nad wszystkiem co należy do niego. Oni nosić #będą przybytek i wszystkie naczynia jego; oni też służyć będą w nim, a około przybytku obozem się kłaść będą."
 "A gdy się będzie ruszał przybytek, składać go będą Lewitowie; także gdy stanowić się będzie przybytek, stawiać go będą Lewitowie; a kto by obcy do niego przystąpił, umrze."
 "I będą stawać obozem synowie Izraelscy, każdy według pułków swoich, i każdy pod chorągwią swoją, w wojsku swem."
 "Ale Lewitowie kłaść się będą obozem około przybytku świadectwa, aby nie przyszedł gniew mój na zgromadzenie synów Izraelskich

@@ -10,7 +10,7 @@
 "Ben-Hesede, em Arubote; este tinha também a Socó e toda a terra de Hefer."
 "Ben-Abinadabe, em toda a região de Dor
 "Baana filho de Ailude, em Taanaque e Megido, e em toda Bete-Seã, que é próxima de Zaretã, por abaixo de Jezreel, desde Bete-Seã até Abel-Meolá, e até a outra parte de Jocmeão;"
-"Ben-Geber, em Ramote de Gileade; este tinha também as cidades de Jair filho de Manassés, as quais estavam em Gileade; tinha também a província de Argobe, que era em Basã, sessenta grandes cidades com muro e fechaduras de bronze;"
+"Ben-Geber, em Ramote de Gileade; este tinha também as cidades de Jair filho de Manassés, as quais estavam em Gileade; #tinha também a província de Argobe, que era em Basã, sessenta grandes cidades com muro e fechaduras de bronze;"
 "Ainadabe filho de Ido, em Maanaim;"
 "Aimaás em Naftali; este tomou também por mulher a Basemate filha de Salomão."
 "Baaná filho de Husai, em Aser e em Alote;"

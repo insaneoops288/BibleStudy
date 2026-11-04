@@ -2,7 +2,7 @@
 "Sapagka't kung may pumapasok sa inyong sinagoga ang isang tao na may singsing na ginto, at may magandang kasuotan, at may pumapasok namang isang dukha na may damit na hamak;"
 "At inyong itangi ang may suot na damit na maganda, at inyong sabihin, Maupo ka rito sa dakong mabuti; at sa dukha ay inyong sabihin, Tumayo ka riyan, o maupo ka sa ibaba ng aking tungtungan;"
 "Hindi baga kayo'y nagtatangi sa inyong sarili, at nagiging mga hukom na may masasamang pagiisip?"
-"Dinggin ninyo, mga minamahal kong kapatid; hindi baga pinili ng Dios ang mga dukha sa sanglibutang ito upang maging mayayaman sa pananampalataya, at mga tagapagmana ng kahariang ipinangako niya sa mga nagsisiibig sa kaniya?"
+"Dinggin ninyo, mga minamahal kong kapatid; hindi baga pinili ng Dios ang mga dukha sa sanglibutang ito upang #maging mayayaman sa pananampalataya, at mga tagapagmana ng kahariang ipinangako niya sa mga nagsisiibig sa kaniya?"
 "Nguni't inyong niwalang-puri ang dukha. Hindi baga kayo'y pinahihirapan ng mayayaman, at sila rin ang kumakaladkad sa inyo sa harapan ng mga hukuman?"
 "Hindi baga nilalapastangan nila yaong marangal na pangalan na sa inyo'y itinatawag?"
 "Gayon man kung inyong ganapin ang kautusang hari, ayon sa kasulatan, Iibigin mo ang iyong kapuwa na gaya ng sa iyong sarili, ay nagsisigawa kayo ng mabuti
@@ -13,7 +13,7 @@
 "Sapagka't ang paghuhukom ay walang awa doon sa hindi nagpakita ng awa
 "Anong pakikinabangin, mga kapatid ko, kung sinasabi ng sinoman na siya'y may pananampalataya, nguni't walang mga gawa? makapagliligtas baga sa kaniya ang pananampalatayang iyan?"
 "Kung ang isang kapatid na lalake o babae ay hubad at walang kakanin araw-araw,"
-"At ang isa sa inyo ay magsabi sa kanila, Magsiyaon kayong payapa, kayo'y mangagpainit at mangagpakabusog; at gayon ma'y hindi ninyo ibinibigay sa kanila ang mga bagay na kinakailangan ng katawan; anong mapapakinabang dito?"
+"At ang isa sa inyo ay magsabi sa kanila, Magsiyaon kayong payapa, kayo'y mangagpainit at mangagpakabusog; at gayon #ma'y hindi ninyo ibinibigay sa kanila ang mga bagay na kinakailangan ng katawan; anong mapapakinabang dito?"
 "Gayon din naman ang pananampalataya na walang mga gawa, ay patay sa kaniyang sarili."
 "Oo, sasabihin ng isang tao, Ikaw ay mayroong pananampalataya, at ako'y mayroong mga gawa
 "Ikaw ay sumasampalataya na ang Dios ay iisa; mabuti ang iyong ginagawa

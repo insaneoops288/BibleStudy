@@ -1,4 +1,4 @@
-"Y Saulo consentía en su muerte. Y en aquel día se hizo una gran persecución en la Iglesia que <I>estaba</I>  en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles."
+"Y Saulo consentía en su muerte. Y en aquel día se hizo una gran persecución en la Iglesia que <I>estaba</I> # en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles."
 "Y llevaron a enterrar a Esteban varones píos, e hicieron gran llanto sobre él."
 "Entonces Saulo asolaba la Iglesia, entrando por las casas; y trayendo hombres y mujeres, los entregaba en la cárcel."
 "Mas los que fueron esparcidos, pasaban <I>por la tierra</I>  anunciando la Palabra del Evangelio."

@@ -3,7 +3,7 @@
 "Se eu os mandar em jejum para suas casas, desfalecerão no caminho; e alguns deles vieram de longe."
 "E seus discípulos lhe responderam
 "Perguntou-lhes Jesus
-"Logo mandou ao povo que se sentasse no chão; e tomando os sete pães e havendo dado graças, partiu-os e os entregava a seus discípulos para que os distribuíssem; e eles os distribuíram pela multidão."
+"Logo mandou ao povo que se sentasse no chão; e tomando os sete pães e havendo dado graças, #partiu-os e os entregava a seus discípulos para que os distribuíssem; e eles os distribuíram pela multidão."
 "Tinham também alguns peixinhos, os quais ele abençoou, e mandou que estes também fossem distribuídos."
 "Comeram, pois, e se fartaram; e dos pedaços que sobejavam levantaram sete alcofas."
 "Ora, eram cerca de quatro mil homens. E Jesus os despediu."
@@ -28,11 +28,11 @@
 "Responderam-lhe eles
 "Então lhes perguntou
 "E ordenou-lhes Jesus que a ninguém dissessem aquilo a respeito dele."
-"Começou então a ensinar-lhes que era necessário que o Filho do homem padecesse muitas coisas, que fosse rejeitado pelos anciãos e principais sacerdotes e pelos escribas, que fosse morto, e que depois de três dias ressurgisse."
+"Começou então a ensinar-lhes que era necessário que o Filho do homem padecesse muitas coisas, que fosse rejeitado pelos #anciãos e principais sacerdotes e pelos escribas, que fosse morto, e que depois de três dias ressurgisse."
 "E isso dizia abertamente. Ao que Pedro, tomando-o à parte, começou a repreendê-lo."
 "Mas ele, virando-se olhando para seus discípulos, repreendeu a Pedro, dizendo
 "E chamando a si a multidão com os discípulos, disse-lhes
 "Pois quem quiser salvar a sua vida, perdê-la-á; mas quem perder a sua vida por amor de mim e do evangelho, salvá-la-á."
 "Pois que aproveita ao homem ganhar o mundo inteiro e perder a sua vida?"
 "Ou que diria o homem em troca da sua vida?"
-"Porquanto, qualquer que, entre esta geração adúltera e pecadora, se envergonhar de mim e das minhas palavras, também dele se envergonhará o Filho do homem quando vier na glória de seu Pai com os santos anjos."
+"Porquanto, qualquer que, entre esta geração adúltera e pecadora, se envergonhar de mim e das minhas palavras, também dele #se envergonhará o Filho do homem quando vier na glória de seu Pai com os santos anjos."

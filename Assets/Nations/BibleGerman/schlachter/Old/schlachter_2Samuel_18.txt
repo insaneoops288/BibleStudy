@@ -6,7 +6,7 @@
 "So zogen denn die Leute ins Feld, Israel entgegen; und der Kampf entspann sich im Walde Ephraim."
 "Und das Volk Israel ward daselbst von den Knechten Davids geschlagen, und es fand an jenem Tage dort ein großes Gemetzel statt von zwanzigtausend Mann;"
 "und der Kampf breitete sich daselbstüber das ganze Land aus, und der Wald fraß an jenem Tage viel mehr Volk, als das Schwert es getan hatte."
-"Absalom aber geriet von ungefähr unter die Augen der Knechte Davids. Absalom ritt nämlich auf dem Maultier. Als nun das Maultier unter die dichten Zweige einer großen Eiche kam, da blieb er mit dem Kopf in der Eiche hängen, so daß er zwischen Himmel und Erde schwebte, denn das Maultier lief unter ihm weg."
+"Absalom aber geriet von ungefähr unter die Augen der Knechte Davids. Absalom ritt nämlich auf dem Maultier. Als nun das Maultier unter die dichten Zweige einer großen Eiche #kam, da blieb er mit dem Kopf in der Eiche hängen, so daß er zwischen Himmel und Erde schwebte, denn das Maultier lief unter ihm weg."
 "Das sah ein Mann; der zeigte es Joab an und sprach
 "Da sprach Joab zu dem Manne, der ihm solches anzeigte
 "Der Mann aber sprach zu Joab

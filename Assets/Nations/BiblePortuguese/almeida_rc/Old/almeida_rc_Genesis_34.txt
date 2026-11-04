@@ -4,7 +4,7 @@
 "Falou também Siquém a Hamor, seu pai, dizendo
 "Quando Jacob ouviu que fora contaminada Dina, sua filha, estavam os seus filhos no campo com o gado; e calou-se Jacob até que viessem."
 "E saiu Hamor, pai de Siquém, a Jacob, para falar com ele."
-"E vieram os filhos de Jacob do campo; e, ouvindo isso, entristeceram-se os varões e iraram-se muito, pois aquele fizera doidice em Israel, deitando-se com a filha de Jacob, o que não se devia fazer assim."
+"E vieram os filhos de Jacob do campo; e, ouvindo isso, entristeceram-se os varões e iraram-se muito, pois aquele #fizera doidice em Israel, deitando-se com a filha de Jacob, o que não se devia fazer assim."
 "Então, falou Hamor com eles, dizendo
 "Aparentai-vos connosco, dai-nos as vossas filhas e tomai as nossas filhas para vós;"
 "e habitareis connosco; e a terra estará diante da vossa face; habitai, e negociai nela, e tomai possessão nela."
@@ -18,11 +18,11 @@
 "E suas palavras foram boas aos olhos de Hamor e aos olhos de Siquém, filho de Hamor."
 "E não tardou o jovem em fazer isto; porque a filha de Jacob lhe agradava, e ele era o mais honrado de toda a casa de seu pai."
 "Vieram, pois, Hamor e Siquém, seu filho, à porta da sua cidade e falaram aos varões da sua cidade, dizendo
-"Estes varões são pacíficos connosco; portanto, habitarão nesta terra e negociarão nela; eis que a terra é larga de espaço diante da sua face; tomaremos nós as suas filhas por mulheres e lhes daremos as nossas filhas."
+"Estes varões são pacíficos connosco; portanto, habitarão nesta terra e negociarão nela; eis que a terra é larga de #espaço diante da sua face; tomaremos nós as suas filhas por mulheres e lhes daremos as nossas filhas."
 "Mas somente consentirão aqueles varões habitar connosco, para que sejamos um só povo, se todo macho entre nós se circuncidar, como eles são circuncidados."
 "O seu gado, e as suas possessões, e todos os seus animais não serão nossos? Consintamos somente com eles, e habitarão connosco."
 "E deram ouvidos a Hamor e a Siquém, seu filho, todos os que saíam da porta da cidade; e foi circuncidado todo macho, de todos os que saíam pela porta da sua cidade."
-"E aconteceu que, ao terceiro dia, quando estavam com a mais violenta dor, dois filhos de Jacob, Simeão e Levi, irmãos de Dina, tomaram cada um a sua espada, e entraram afoitamente na cidade, e mataram todo macho."
+"E aconteceu que, ao terceiro dia, quando estavam com a mais violenta dor, dois filhos de Jacob, Simeão e Levi, #irmãos de Dina, tomaram cada um a sua espada, e entraram afoitamente na cidade, e mataram todo macho."
 "Mataram também a fio de espada a Hamor, e a seu filho Siquém; e tomaram Dina da casa de Siquém e saíram."
 "Vieram os filhos de Jacob aos mortos e saquearam a cidade, porquanto haviam contaminado a sua irmã."
 "As suas ovelhas, e as suas vacas, e os seus jumentos, e o que na cidade e o que no campo havia tomaram;"

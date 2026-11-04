@@ -19,7 +19,7 @@
 "Ty pak synu člověčí, předlož sobě dvě cesty, kudy by jíti měl meč krále Babylonského. Z země jedné ať vycházejí obě dvě, a na rozcestí vybeř tu k městu, tu vybeř."
 "Ukaž cestu, kudy by jíti měl meč, k Rabbat-li synů Ammon, čili k Judstvu, na Jeruzalémské pevnosti,"
 "Proto že stane král Babylonský na rozcestí, na počátku dvou cest, obíraje se s hádáním, vyčistí střely, doptávati se bude modl, hleděti bude do jater."
-"Po pravé ruce jeho hádání ukáže Jeruzalém, aby sšikoval hejtmany, kteříž by ponoukali k mordování, a pozdvihovali hlasu s prokřikováním, aby přistavili berany válečné proti branám, aby vysypán byl násyp, a vzdělání byli šancové."
+"Po pravé ruce jeho hádání ukáže Jeruzalém, aby sšikoval hejtmany, kteříž by ponoukali k mordování, a pozdvihovali hlasu #s prokřikováním, aby přistavili berany válečné proti branám, aby vysypán byl násyp, a vzdělání byli šancové."
 "I budou to míti za hádání marné před očima svýma ti, jenž se zavázali přísahami; a toť přivede na pamět nepravost, kterouž by popadeni byli."
 "Protož takto praví Panovník Hospodin
 "Ty pak nečistý bezbožníče, kníže Izraelské, jehož den přichází, a čas skonání nepravosti,"

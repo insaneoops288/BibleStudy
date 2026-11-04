@@ -5,7 +5,7 @@
 "A gdy usnął, śniło mu się po wtóre; a ono siedem kłosów wyrastało z jednego źdźbła, pełnych i cudnych."
 "Oto, też siedem kłosów cienkich i wysuszonych od wiatru wschodniego wyrastało za nimi."
 "I pożarły te kłosy cienkie, siedem onych kłosów pięknych i zupełnych; i ocknął się Farao."
-"A toć był sen. A gdy było rano, strwożony był duch jego; i posławszy wezwał wszystkich wieszczków Egipskich, i wszystkich mędrców jego, i opowiedział im Farao sny swoje; a nie było, kto by je wyłożył Faraonowi."
+"A toć był sen. A gdy było rano, strwożony był duch jego; i posławszy wezwał wszystkich wieszczków Egipskich, i #wszystkich mędrców jego, i opowiedział im Farao sny swoje; a nie było, kto by je wyłożył Faraonowi."
 "Zatem rzekł przełożony nad podczaszymi do Faraona, mówiąc
 "Farao rozgniewawszy się na sługi swe, dał mię był pod straż do domu hetmana żołnierzów, mnie i przełożonego nad piekarzami."
 "Tam się nam śnił sen jednejże nocy, mnie i jemu; każdemu według wykładu snu jego śniło się."

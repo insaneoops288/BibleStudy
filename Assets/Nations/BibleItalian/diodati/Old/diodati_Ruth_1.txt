@@ -1,5 +1,5 @@
 "OR al tempo che i Giudici giudicavano, fu una fame nel paese. E un uomo di Bet-lehem di Giuda andò a dimorare nelle contrade di Moab, con la sua moglie, e con due suoi figliuoli."
-"E il nome di quell’uomo era Elimelec, e il nome della sua moglie Naomi, e i nomi de’ suoi due figliuoli Malon e Chilion; ed erano Efratei, da Bet-lehem di Giuda. Vennero adunque nelle contrade di Moab, e stettero quivi."
+"E il nome di quell’uomo era Elimelec, e il nome della sua moglie Naomi, e i nomi de’ suoi due figliuoli #Malon e Chilion; ed erano Efratei, da Bet-lehem di Giuda. Vennero adunque nelle contrade di Moab, e stettero quivi."
 "Or Elimelec, marito di Naomi, morì, ed essa rimase co’ suoi due figliuoli."
 "Ed essi si presero delle mogli Moabite; il nome dell’una era Orpa, e il nome dell’altra Rut; e dimorarono quivi intorno a dieci anni."
 "Poi amendue, Malon e Chilion, morirono anch’essi; e quella donna rimase priva de’ suoi due figliuoli, e del suo marito."
@@ -10,7 +10,7 @@
 "E le dissero
 "Ma Naomi disse
 "Ritornate, figliuole mie, andate; perciocchè io son troppo vecchia, per rimaritarmi; e, benchè io dicessi d’averne speranza, e anche questa notte fossi maritata, e anche partorissi figliuoli,"
-"aspettereste voi per ciò finchè fossero diventati grandi? stareste voi per ciò a bada senza maritarvi? No, figliuole mie; benchè ciò mi sia cosa molto più amara che a voi; perciocchè la mano del Signore è stata stesa contro a me."
+"aspettereste voi per ciò finchè fossero diventati grandi? stareste voi per ciò a bada senza maritarvi? No, figliuole mie; benchè ciò #mi sia cosa molto più amara che a voi; perciocchè la mano del Signore è stata stesa contro a me."
 "Allora esse alzarono la voce, e piansero di nuovo. E Orpa baciò la sua suocera; ma Rut restò appresso di lei."
 "E Naomi le disse
 "Ma Rut rispose

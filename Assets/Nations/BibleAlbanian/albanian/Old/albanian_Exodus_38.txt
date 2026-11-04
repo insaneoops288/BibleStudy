@@ -14,8 +14,8 @@
 "nga njëri krah kishte pesëdhjetë kubitë perde, me tri shtyllat dhe tri bazat e tyre;"
 "dhe nga ana tjetër (si këtej ashtu dhe matanë portës së hyrjes në oborr) kishte pesëmbëdhjetë kubitë perde, me tri shtyllat dhe tri bazat e tyre."
 "Të gjitha perdet rreth oborrit ishin prej liri të hollë të përdredhur;"
-"bazat e shtyllave ishin prej bronzi, grremçat e shtyllave dhe shtizat e tyre ishin prej argjendi, kapitelet e shtyllave ishin të veshura me argjend dhe të gjitha shtyllat e oborrit ishin të lidhura me disa shtiza argjendi."
-"Perdja për hyrjen në oborr ishte e qëndisur, me fill ngjyrë vjollce, të purpurt dhe të kuq të ndezur, dhe me li të përdredhur; kishte një gjatësi prej njëzet kubitësh, një lartësi prej pesë kubitësh, dhe korrespondonte me perdet e oborrit."
+"bazat e shtyllave ishin prej bronzi, grremçat e shtyllave dhe shtizat e tyre ishin prej argjendi, kapitelet e shtyllave #ishin të veshura me argjend dhe të gjitha shtyllat e oborrit ishin të lidhura me disa shtiza argjendi."
+"Perdja për hyrjen në oborr ishte e qëndisur, me fill ngjyrë vjollce, të purpurt dhe të kuq të ndezur, dhe me #li të përdredhur; kishte një gjatësi prej njëzet kubitësh, një lartësi prej pesë kubitësh, dhe korrespondonte me perdet e oborrit."
 "Kishte katër shtylla me katër bazat e tyre prej bronzi; grremçat e tyre ishin prej argjendi dhe kapitelet e tyre dhe shtizat e tyre ishin të veshura me argjend."
 "Të gjitha kunjat e tabernakullit dhe të rrethojës së oborrit ishin prej bronzi."
 "Kjo është lista e sendeve të tabernakullit, të tabernakullit të dëshmisë, që u renditën me urdhër të Moisiut, për shërbimin e Levitëve, nën drejtimin e Ithamarit, birit të priftit Aaron."
@@ -23,7 +23,7 @@
 "duke pasur me vete Oholiabin, birin e Ahisamakut, nga fisi i Danit, gdhendës, vizatues dhe qëndistar i stofave ngjyrë vjollcë, të purpurta, të kuqe të ndezur dhe prej liri të hollë."
 "Gjithë ari i përdorur për të gjitha punimet për vendin e shenjtë, domethënë ari i ofertave, qe njëzet e nëntë talente dhe shtatëqind e tridhjetë sikla, simbas siklit të shenjtërores."
 "Dhe argjendi, që u mblodh me rastin e regjistrimit të asamblesë, ishte njëqind talente dhe një mijë e shtatëqind e shtatëdhjetë e pesë sikla, simbas siklit të shenjtërores
-"një beka për frymë, (domethënë një gjysmë sikli, simbas siklit të shenjtërores), për çdo burrë që e kapte regjistrimi, nga mosha njëzet vjeç e lart, pra, gjashtëqind e tre mijë e pesëqind e pesëdhjetë burra."
+"një beka për frymë, (domethënë një gjysmë sikli, simbas siklit të shenjtërores), për çdo burrë që e kapte #regjistrimi, nga mosha njëzet vjeç e lart, pra, gjashtëqind e tre mijë e pesëqind e pesëdhjetë burra."
 "Njëqind talentet prej argjendi shërbyen për të shkrirë bazat e shenjtërores dhe bazat e velit
 "Dhe me një mijë e shtatëqind e shtatëdhjetë e pesë sikla ai bëri grremçat për shtyllat, i veshi kapitelet e tyre dhe bëri shtizat për shtyllat."
 "Bronzi i ofertave arrinte në shtatëdhjetë talente dhe dy mijë e katërqind sikla."

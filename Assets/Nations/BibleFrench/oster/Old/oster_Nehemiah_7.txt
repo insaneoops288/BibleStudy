@@ -2,7 +2,7 @@
 "Je donnai mes ordres à Hanani, mon frère, et à Hanania, commandant de la forteresse de Jérusalem, car c'était un homme fidèle et craignant Dieu, plus que beaucoup d'autres;"
 "Et je leur dis
 "Or la ville était spacieuse et grande, mais le peuple peu nombreux, et les maisons n'étaient point bâties."
-"Alors mon Dieu me mit au cœur d'assembler les principaux, les magistrats et le peuple, pour en faire le dénombrement; et je trouvai le registre du dénombrement de ceux qui étaient montés la première fois. Or j'y trouvai écrit ce qui suit
+"Alors mon Dieu me mit au cœur d'assembler les principaux, les magistrats et le peuple, pour en faire le dénombrement; et je #trouvai le registre du dénombrement de ceux qui étaient montés la première fois. Or j'y trouvai écrit ce qui suit
 "Voici ceux de la province qui remontèrent de la captivité, d'entre ceux que Nébucadnetsar, roi de Babylone, avait transportés, et qui retournèrent à Jérusalem et en Juda, chacun en sa ville;"
 "Qui vinrent avec Zorobabel, Jéshua, Néhémie, Azaria, Raamia, Nachamani, Mardochée, Bilshan, Mispéreth, Bigvaï, Néhum et Baana. Nombre des hommes du peuple d'Israël
 "Les enfants de Parosh, deux mille cent soixante-douze;"
@@ -70,4 +70,4 @@
 "Quelques-uns des chefs des pères contribuèrent pour l'ouvrage. Le gouverneur donna au trésor mille dariques d'or, cinquante bassins, cinq cent trente tuniques de sacrificateurs."
 "Et d'entre les chefs des pères, plusieurs donnèrent pour le trésor de l'ouvrage, vingt mille dariques d'or, et deux mille deux cents mines d'argent."
 "Et ce que le reste du peuple donna fut vingt mille dariques d'or, deux mille mines d'argent, et soixante-sept tuniques de sacrificateurs."
-"Et les sacrificateurs, les Lévites, les portiers, les chantres, les gens du peuple, les Néthiniens, et tous ceux d'Israël, habitèrent dans leurs villes. Ainsi, quand arriva le septième mois, les enfants d'Israël étaient dans leurs villes."
+"Et les sacrificateurs, les Lévites, les portiers, les chantres, les gens du peuple, les Néthiniens, et tous ceux d'Israël, #habitèrent dans leurs villes. Ainsi, quand arriva le septième mois, les enfants d'Israël étaient dans leurs villes."

@@ -29,7 +29,7 @@
 "Di Merari fu figliuolo Mahali, di cui fu figliuolo Libni, di cui fu figliuolo Simi, di cui fu figliuolo Uzza,"
 "di cui fu figliuolo Sima, di cui fu figliuolo Hagghia, di cui fu figliuolo Asaia."
 "Or costoro son quelli che Davide costituì sopra l’ufficio del canto della Casa del Signore, dopo che l’Arca fu posata in luogo fermo."
-"Ed essi esercitarono il lor ministerio nel canto, davanti al padiglione del Tabernacolo della convenenza, finchè Salomone ebbe edificata la Casa del Signore in Gerusalemme; ed essi attendevano al loro ufficio, secondo ch’era loro ordinato."
+"Ed essi esercitarono il lor ministerio nel canto, davanti al padiglione del Tabernacolo della convenenza, finchè Salomone ebbe #edificata la Casa del Signore in Gerusalemme; ed essi attendevano al loro ufficio, secondo ch’era loro ordinato."
 "Questi, dico, son quelli che ministravano in ciò co’ lor figliuoli. D’infra i figliuoli dei Chehatiti, Heman cantore, figliuolo di Ioel, figliuolo di Samuele,"
 "figliuolo di Elcana, figliuolo di Ieroham, figliuolo di Eliel, figliuolo di Toa,"
 "figliuolo di Suf, figliuolo di Elcana, figliuolo di Mahat,"
@@ -46,7 +46,7 @@
 "figliuolo di Amsi, figliuolo di Bani, figliuolo di Semer,"
 "figliuolo di Mahali, figliuolo di Musi, figliuolo di Merari, figliuolo di Levi."
 "E gli altri Leviti, lor fratelli, furono ordinati per fare tutto il servigio del Tabernacolo della Casa di Dio."
-"Ma Aaronne ed i suoi figliuoli ardevano i sacrificii e le offerte sopra l’Altare degli olocausti e sopra l’Altare de’ profumi, secondo tutto ciò che si conveniva fare nel Luogo santissimo, e per far purgamento per Israele, secondo tutto ciò che Mosè, servitor di Dio, avea comandato."
+"Ma Aaronne ed i suoi figliuoli ardevano i sacrificii e le offerte sopra l’Altare degli olocausti e sopra l’Altare de’ profumi, secondo tutto ciò #che si conveniva fare nel Luogo santissimo, e per far purgamento per Israele, secondo tutto ciò che Mosè, servitor di Dio, avea comandato."
 "E questi furono i figliuoli d’Aaronne
 "di cui fu figliuolo Bucchi, di cui fu figliuolo Uzzi, di cui fu figliuolo Zerahia,"
 "di cui fu figliuolo Meraiot, di cui fu figliuolo Amaria, di cui fu figliuolo Ahitub,"

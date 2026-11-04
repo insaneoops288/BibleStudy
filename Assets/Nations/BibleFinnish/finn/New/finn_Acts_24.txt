@@ -1,6 +1,6 @@
 "Viiden päivän perästä meni Ananias, ylimmäinen pappi, vanhimpain ja selväkielisen Tertulluksen kanssa maanvanhimman tykö Paavalia vastaan."
 "Ja kuin hän oli eteen kutsuttu, rupesi Tertullus kantamaan, sanoen
-"Me elämme hyvässä rauhassa sinun kauttas, ja ne asiat, jotka tässä kansassa oikein ja hyvin tehnyt ovat sinun toimellas, voimallinen Feliks, me aina ja joka paikassa hyväksi otamme kaikella kiitoksella."
+"Me elämme hyvässä rauhassa sinun kauttas, ja ne asiat, jotka tässä kansassa oikein ja hyvin tehnyt #ovat sinun toimellas, voimallinen Feliks, me aina ja joka paikassa hyväksi otamme kaikella kiitoksella."
 "Vaan etten minä sinua kauvan viivyttäisi, rukoilen minä sinua, ettäs pikimiltäs meitä kuulisit, sinun vakuutes tähden."
 "Sillä me olemme löytäneet tämän miehen vahingolliseksi, joka nostaa kapinan kaikille Juudalaisille ympäri koko maanpiirin, ja on Natsarealaisten eriseuran päämies."
 "Hän on kiusannut templiäkin riivata; jonka tähden me otimme hänen kiinni ja tahdoimme tuomita hänen meidän lakimme jälkeen."
@@ -11,7 +11,7 @@
 "Sillä sinä taidat ymmärtää, ettei enempi ole kuin kaksitoistakymmentä päivää, sittekuin minä menin ylös Jerusalemiin rukoilemaan."
 "Ja ei he ole minua templissäkään löytäneet kamppailemasta yhdenkään kanssa, ei kapinaa nostamasta kansan seassa, ei synagogissa, eikä kaupungissa."
 "Ei he myös taida niitä vahvistaa, mitä he nyt minun päälleni kantavat."
-"Mutta sen minä sinulle tunnustan, että minä tämän tien kautta, jonka he eriseuraksi kutsuvat, niin palvelen minun isäini Jumalaa, että minä uskon kaikki, mitkä laissa ja prophetaissa kirjoitetut ovat,"
+"Mutta sen minä sinulle tunnustan, että minä tämän tien kautta, jonka he eriseuraksi kutsuvat, niin #palvelen minun isäini Jumalaa, että minä uskon kaikki, mitkä laissa ja prophetaissa kirjoitetut ovat,"
 "Ja pidän sen toivon Jumalan puoleen, jota hekin itse odottavat, että kuolleiden ylösnousemus pitää oleman, sekä vanhurskasten että vääräin."
 "Ja sentähden minä harjoitan itsiäni aina pitämään pahentamattoman omantunnon Jumalan ja ihmisten edessä."
 "Mutta kuin minä monen ajastajan perästä tulin almua ja uhria kansalleni tekemään

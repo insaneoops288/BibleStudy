@@ -1,5 +1,5 @@
 "En Jakob het gewoon in die land van die vreemdelingskap van sy vader, in die land Kanaän."
-"Dit is die geskiedenis van Jakob. Josef het as seun van sewentien jaar die kleinvee opgepas saam met sy broers,hy was nog jonk,met die seuns van Bilha en die seuns van Silpa, die vroue van sy vader. En Josef het die slegte gerug oor hulle na hulle vader oorgebring."
+"Dit is die geskiedenis van Jakob. Josef het as seun van sewentien jaar die kleinvee opgepas saam met sy broers,hy was nog jonk,met die seuns #van Bilha en die seuns van Silpa, die vroue van sy vader. En Josef het die slegte gerug oor hulle na hulle vader oorgebring."
 "En Israel het Josef meer lief gehad as al sy seuns; want hy was vir hom 'n seun van die ouderdom; en hy het vir hom 'n lang rok met moue gemaak."
 "Toe sy broers sien dat hulle vader hom meer as al sy broers liefhet, het hulle hom gehaat en kon nie vriendelik met hom praat nie."
 "Ook het Josef 'n droom gehad wat hy aan sy broers vertel het. Daaroor het hulle hom nog meer gehaat."
@@ -22,10 +22,10 @@
 "Ruben het ook vir hulle gesê
 "En toe Josef by sy broers kom, trek hulle Josef se rok uit, die rok met lang moue wat hy aangehad het,"
 "en hulle neem hom en gooi hom in die put. Maar die put was leeg; daar was geen water in nie."
-"Daarna het hulle gaan sit om brood te eet; en toe hulle hul oë opslaan, sien hulle meteens 'n reisgeselskap Ismaeliete wat uit Gílead kom,hulle kamele gelaai met speserye en balsem en gom op pad om dit na Egipte af te bring."
+"Daarna het hulle gaan sit om brood te eet; en toe hulle hul oë opslaan, sien hulle meteens 'n reisgeselskap Ismaeliete wat #uit Gílead kom,hulle kamele gelaai met speserye en balsem en gom op pad om dit na Egipte af te bring."
 "Toe sê Juda aan sy broers
 "Kom, laat ons hom aan die Ismaeliete verkoop, maar laat ons hand nie teen hom wees nie, want hy is ons broer, ons vlees. En sy broers het na hom geluister."
-"En toe die Midianitiese koopmans verbykom, het hulle Josef uit die put uit opgetrek en uitgehaal en Josef aan die Ismaeliete verkoop vir twintig sikkels silwer. En húlle het Josef na Egipte gebring."
+"En toe die Midianitiese koopmans verbykom, het hulle Josef uit die put uit opgetrek en uitgehaal en #Josef aan die Ismaeliete verkoop vir twintig sikkels silwer. En húlle het Josef na Egipte gebring."
 "Toe Ruben by die put terugkom, was Josef nie in die put nie! Daarop skeur hy sy klere,"
 "en hy gaan na sy broers terug en sê
 "Toe neem hulle Josef se rok, en hulle slag 'n bok en steek die rok in die bloed,"

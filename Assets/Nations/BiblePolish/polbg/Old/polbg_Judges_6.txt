@@ -18,7 +18,7 @@
 "Nie odchodź proszę stąd, aż zaś przyjdę do ciebie, a przyniosęć ofiarę moję, i położę ją przed tobą. I odpowiedział
 "Odszedłszy tedy Giedeon zgotował koźlątko z stada a z miary mąki przaśne chleby, a mięso włożył w kosz, a polewkę mięsną wlał w garnek, i przyniósł to do niego pod dąb, i ofiarował."
 "I rzekł do niego Anioł Boży
-"Zatem ściągnął Anioł Pański koniec laski, którą miał w ręce swojej, i dotknął się mięsa i przaśników, i wyszedł ogień z skały, a spalił mięso i chleby przaśne; a między tem Anioł Pański odszedł od oczu jego."
+"Zatem ściągnął Anioł Pański koniec laski, którą miał w ręce swojej, i dotknął się mięsa i przaśników, i wyszedł #ogień z skały, a spalił mięso i chleby przaśne; a między tem Anioł Pański odszedł od oczu jego."
 "A widząc Giedeon, iż to był Anioł Pański, rzekł
 "I rzekł mu Pan
 "Przetoż zbudował tam Giedeon ołtarz Panu, i nazwał go

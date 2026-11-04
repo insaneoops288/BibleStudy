@@ -15,7 +15,7 @@
 "Als sie nun gefrühstückt hatten, spricht Jesus zu Simon Petrus
 "Wiederum spricht er, zum zweitenmal
 "Und zum drittenmal fragt er ihn
-"Wahrlich, wahrlich, ich sage dir, als du jünger warst, gürtetest du dich selbst und wandeltest, wohin du wolltest; wenn du aber alt geworden bist, wirst du deine Hände ausstrecken, und ein anderer wird dich gürten und führen, wohin du nicht willst."
+"Wahrlich, wahrlich, ich sage dir, als du jünger warst, gürtetest du dich selbst und wandeltest, wohin du wolltest; wenn du aber #alt geworden bist, wirst du deine Hände ausstrecken, und ein anderer wird dich gürten und führen, wohin du nicht willst."
 "Solches aber sagte er, um anzudeuten, durch welchen Tod er Gott verherrlichen werde. Und nachdem er das gesagt hatte, spricht er zu ihm
 "Petrus aber wandte sich um und sah den Jünger folgen, den Jesus liebte, der sich auch beim Abendmahl an seine Brust gelehnt und gefragt hatte
 "Als Petrus diesen sah, spricht er zu Jesus

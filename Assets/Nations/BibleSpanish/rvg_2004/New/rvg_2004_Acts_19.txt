@@ -6,7 +6,7 @@
 "Y habiéndoles impuesto Pablo las manos, vino sobre ellos el Espíritu Santo; y hablaban en lenguas, y profetizaban."
 "Y eran por todos unos doce varones."
 "Y entrando en la sinagoga, habló con denuedo por espacio de tres meses, disputando y persuadiendo acerca del reino de Dios."
-"Pero cuando algunos se endurecieron y no creyeron, sino que maldijeron el Camino delante de la multitud, él se apartó de ellos y apartó a los discípulos, disputando cada día en la escuela de un [tal] Tyrano."
+"Pero cuando algunos se endurecieron y no creyeron, sino que maldijeron el Camino delante de la multitud, él se #apartó de ellos y apartó a los discípulos, disputando cada día en la escuela de un [tal] Tyrano."
 "Y esto fue hecho por espacio de dos años; de manera que todos los que habitaban en Asia, judíos y griegos, oyeron la palabra del Señor Jesús."
 "Y hacía Dios milagros incomparables por mano de Pablo;"
 "de tal manera que aun los pañuelos o delantales de su cuerpo eran llevados a los enfermos, y las enfermedades se iban de ellos, y los malos espíritus salían de ellos."
@@ -24,7 +24,7 @@
 "Porque un platero llamado Demetrio, que hacía de plata templecillos de Diana, daba a los artífices no poca ganancia;"
 "a los cuales, reunidos con los obreros del mismo oficio, dijo
 "y veis y oís que este Pablo, no solamente en Éfeso, sino en casi toda Asia, ha persuadido y apartado a muchas gentes, diciendo que no son dioses los que se hacen con las manos."
-"Y no solamente hay peligro de que este negocio se nos deshaga, sino también que el templo de la gran diosa Diana sea desechado, y venga a ser destruida su majestad, la cual adora toda Asia y el mundo."
+"Y no solamente hay peligro de que este negocio se nos deshaga, sino también que el templo de la gran #diosa Diana sea desechado, y venga a ser destruida su majestad, la cual adora toda Asia y el mundo."
 "Y oyendo [esto], se llenaron de ira, y gritaron, diciendo
 "Y toda la ciudad se llenó de confusión; y arrebatando a Gayo y a Aristarco, macedonios, compañeros de Pablo, a una se abalanzaron al teatro."
 "Y queriendo Pablo salir al pueblo, los discípulos no le dejaron."

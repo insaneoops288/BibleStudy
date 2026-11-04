@@ -2,7 +2,7 @@
 "Și a fost un anumit bărbat din Țoreea, din familia daniților, al cărui nume [era] Manoah; și soția lui [era] stearpă și nu năștea."
 "Și îngerul DOMNULUI s-a arătat femeii și i-a spus
 "Și acum ia seama, te rog, și să nu bei vin, nici băutură tare și să nu mănânci vreun lucru[ ]necurat,"
-"Pentru că, iată, vei rămâne însărcinată și vei naște un fiu; și brici nu va trece pe capul lui, căci copilul va fi nazireu pentru Dumnezeu din pântece; și el va începe să elibereze pe Israel din mâna filistenilor."
+"Pentru că, iată, vei rămâne însărcinată și vei naște un fiu; și brici nu va trece pe capul lui, căci #copilul va fi nazireu pentru Dumnezeu din pântece; și el va începe să elibereze pe Israel din mâna filistenilor."
 "Atunci femeia a venit și a spus soțului ei, zicând
 "Ci mi-a zis
 "Atunci Manoah a implorat pe DOMNUL și a spus

@@ -8,7 +8,7 @@
 "Ale rzekł mąż Boży do króla
 "Bo mi tak Pan rozkazał słowem swojem, mówiąc
 "Odszedł tedy inszą drogą, a nie wrócił się tą drogą, którą był przyszedł do Betel."
-"A prorok niejaki stary mieszkał w Betel, którego syn przyszedłszy, opowiedział mu wszystkę sprawę, którą był uczynił onegoż dnia mąż Boży w Betel, i słowa, które mówił do króla, opowiedzieli ojcu swemu."
+"A prorok niejaki stary mieszkał w Betel, którego syn przyszedłszy, opowiedział mu wszystkę sprawę, którą był uczynił #onegoż dnia mąż Boży w Betel, i słowa, które mówił do króla, opowiedzieli ojcu swemu."
 "I rzekł im ojciec ich
 "Zatem rzekł synom swym
 "I jechał za mężem Bożym, a znalazł go siedzącego pod dębem, i rzekł mu

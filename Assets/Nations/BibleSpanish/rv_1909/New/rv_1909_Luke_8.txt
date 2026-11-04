@@ -44,7 +44,7 @@
 "Llegándose por las espaldas, tocó el borde de su vestido; y luego se estancó el flujo de su sangre."
 "Entonces Jesús dijo
 "Y Jesús dijo
-"Entonces, como la mujer vió que no se había ocultado, vino temblando, y postrándose delante de él declaróle delante de todo el pueblo la causa por qué le había tocado, y cómo luego había sido sana."
+"Entonces, como la mujer vió que no se había ocultado, vino temblando, y postrándose delante de él declaróle delante #de todo el pueblo la causa por qué le había tocado, y cómo luego había sido sana."
 "Y él dijo
 "Estando aún él hablando, vino uno del príncipe de la sinagoga á decirle
 "Y oyéndolo Jesús, le respondió

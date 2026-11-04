@@ -7,7 +7,7 @@
 "Lalu sangat takutlah Yakub dan merasa sesak hati; maka dibaginyalah orang-orangnya yang bersama-sama dengan dia, kambing dombanya, lembu sapi dan untanya menjadi dua pasukan."
 "Sebab pikirnya
 "Kemudian berkatalah Yakub
-"sekali-kali aku tidak layak untuk menerima segala kasih dan kesetiaan yang Engkau tunjukkan kepada hamba-Mu ini, sebab aku membawa hanya tongkatku ini waktu aku menyeberangi sungai Yordan ini, tetapi sekarang telah menjadi dua pasukan."
+"sekali-kali aku tidak layak untuk menerima segala kasih dan kesetiaan yang Engkau tunjukkan kepada hamba-Mu ini, sebab aku #membawa hanya tongkatku ini waktu aku menyeberangi sungai Yordan ini, tetapi sekarang telah menjadi dua pasukan."
 "Lepaskanlah kiranya aku dari tangan kakakku, dari tangan Esau, sebab aku takut kepadanya, jangan-jangan ia datang membunuh aku, juga ibu-ibu dengan anak-anaknya."
 "Bukankah Engkau telah berfirman
 "Lalu bermalamlah ia di sana pada malam itu. Kemudian diambilnyalah dari apa yang ada padanya suatu persembahan untuk Esau, kakaknya,"

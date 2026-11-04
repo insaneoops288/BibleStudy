@@ -30,12 +30,12 @@
 "Tedy wziąwszy Achyjasz płaszcz nowy, który miał na sobie, rozdarł go na dwanaście sztuk."
 "I rzekł do Jeroboama
 "Jedno tylko pokolenie zostanie mu dla sługi mego Dawida, i dla miasta Jeruzalem, którem obrał ze wszystkich pokoleń Izraelskich;"
-"Przeto, że mię opuścili, a kłaniali się Astarocie, bogini Sydońskiej, i Chamosowi, bogu Moabskiemu, i Molochowi, bogu synów Ammonowych, a nie chodzili drogami mojemi, aby czynili to, co się mnie podoba, ani też strzegli wyroków moich, i sądów mo ich, jako Dawid, ojciec jego."
-"Wszakże nie odejmę wszystkiego królestwa z ręki jego, owszem zostawię go książęciem po wszystkie dni żywota jego dla Dawida, sługi mego, któregom obrał, który strzegł rozkazania mego i wyroków moich."
+"Przeto, że mię opuścili, a kłaniali się Astarocie, bogini Sydońskiej, i Chamosowi, bogu Moabskiemu, i Molochowi, bogu synów Ammonowych, a nie chodzili drogami #mojemi, aby czynili to, co się mnie podoba, ani też strzegli wyroków moich, i sądów mo ich, jako Dawid, ojciec jego."
+"Wszakże nie odejmę wszystkiego królestwa z ręki jego, owszem zostawię go książęciem po wszystkie dni żywota #jego dla Dawida, sługi mego, któregom obrał, który strzegł rozkazania mego i wyroków moich."
 "Ale wziąwszy królestwo z ręki syna jego, dam tobie z niego dziesięć pokoleń
 "A synowi jego dam pokolenie jedno, aby została pochodnia Dawidowi, słudze memu, po wszystkie dni przedemną w mieście Jeruzalemie, którem sobie obrał, aby tam przebywało imię moje;"
 "A ciebie wezmę, abyś królował nad wszystkiem, czego żąda dusza twoja, a będziesz królem nad Izraelem."
-"Przetoż jeźli będziesz słuchał wszystkiego, coć przykażę, a będziesz chodził drogami mojemi, czyniąc to, co dobrego jest w oczach moich, strzegąc wyroków moich, i przykazań moich, jako czynił Dawid, sługa mój
+"Przetoż jeźli będziesz słuchał wszystkiego, coć przykażę, a będziesz chodził drogami mojemi, czyniąc to, co dobrego #jest w oczach moich, strzegąc wyroków moich, i przykazań moich, jako czynił Dawid, sługa mój
 "I trapić będę nasienie Dawidowe dla tego; a wszakże nie po wszystkie dni."
 "Przetoż Salomon chciał zabić Jaroboama; ale wstawszy Jeroboam uciekł do Egiptu, do Sesaka, króla Egipskiego, i był w Egipcie aż do śmierci Salomonowej."
 "A inne sprawy Salomonowe, którekolwiek czynił, i mądrość jego, izali nie są wypisane w księgach spraw Salomonowych?"

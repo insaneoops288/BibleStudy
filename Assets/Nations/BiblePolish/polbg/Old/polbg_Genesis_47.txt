@@ -16,7 +16,7 @@
 "Na to odpowiedział Józef
 "I przygnali bydła swe do Józefa; i dał im Józef chleba za konie, i za stada owiec, i za stada wołów, i za osły, i przechował je chlebem za wszystkie bydła ich, onego roku."
 "A gdy wyszedł rok on, przyszli do niego roku drugiego, mówiąc mu
-"A czemuż umierać mamy przed oczyma twemi? i nas, i role nasze kupuj i ziemię naszę za chleb, a będziemy, my i ziemia nasza, w niewoli u Faraona; tylko nam daj nasienia, abyśmy żyli a nie pomarli, i ziemia nie spustoszała."
+"A czemuż umierać mamy przed oczyma twemi? i nas, i role nasze kupuj i ziemię naszę za chleb, a będziemy, my #i ziemia nasza, w niewoli u Faraona; tylko nam daj nasienia, abyśmy żyli a nie pomarli, i ziemia nie spustoszała."
 "A tak kupił Józef wszystkę ziemię Egipską Faraonowi; bo sprzedali Egipczanie, każdy rolą swoję, gdyż się był wzmógł między nimi głód; i dostała się Faraonowi wszystka ziemia."
 "I przeniósł lud do miast, od ostatnich granic Egiptu aż do końca jego."
 "Tylko ziemi kapłańskiej nie kupił; bo kapłani mieli obrok postanowiony od Faraona, i żywili się obrokiem swym, który im dał Farao; dlategoż nie sprzedawali ziemi swej."

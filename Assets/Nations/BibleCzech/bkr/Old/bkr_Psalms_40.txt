@@ -3,7 +3,7 @@
 "A vytáhl mne z čisterny hlučící, i z bláta bahnivého, a postavil na skále nohy mé, a kroky mé utvrdil."
 "A tak vložil v ústa má píseň novou, chválu Bohu našemu, což když uhlédají mnozí, i báti se, i doufání skládati budou v Hospodinu."
 "Blahoslavený ten člověk, kterýž skládá v Hospodinu svou naději, a neohlédá se na pyšné, ani na ty, kteříž se ke lži uchylují."
-"Mnohé věci činíš ty, Hospodine Bože můj, a divní jsou skutkové tvoji i myšlení tvá o nás; není, kdo by je pořád vyčísti mohl před tebou. Já chtěl-li bych je vymluviti a vypraviti, mnohem více jich jest, nežli vypraveno býti může."
+"Mnohé věci činíš ty, Hospodine Bože můj, a divní jsou skutkové tvoji i myšlení tvá o nás; není, kdo by je #pořád vyčísti mohl před tebou. Já chtěl-li bych je vymluviti a vypraviti, mnohem více jich jest, nežli vypraveno býti může."
 "Oběti a daru neoblíbils, ale uši jsi mi otevřel; zápalu a oběti za hřích nežádal jsi."
 "Tehdy řekl jsem
 "Abych činil vůli tvou, Bože můj, líbost mám; nebo zákon tvůj jest u prostřed vnitřností mých."

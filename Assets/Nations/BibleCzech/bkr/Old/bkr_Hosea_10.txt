@@ -2,7 +2,7 @@
 "Klade díly srdce jejich, pročež vinni jsou. Onť poboří oltáře jejich, popléní obrazy jejich,"
 "Poněvadž i říkají
 "Mluví slova, klnouce se lživě, když činí smlouvu, a soud podobný jedu roste na záhonech polí mých."
-"Z příčiny jalovic Betavenských děsiti se budou obyvatelé Samařští, když kvíliti bude nad nimi lid jejich i kněží jejich, (kteříž příčinou jejich nyní pléší), proto že sláva jejich zastěhuje se od nich."
+"Z příčiny jalovic Betavenských děsiti se budou obyvatelé Samařští, když kvíliti bude nad nimi lid jejich i #kněží jejich, (kteříž příčinou jejich nyní pléší), proto že sláva jejich zastěhuje se od nich."
 "Ano i sám lid do Assyrie zaveden bude v dar králi, kterýž obhájce býti měl; Efraim hanbu ponese, a Izrael styděti se bude za své předsevzetí."
 "Vyhlazen bude král Samařský jako pěna na svrchku vody."
 "Vypléněny budou také výsosti Avenu, hřích Izraelských, trní a hloží zroste na oltářích jejich. I dějí horám

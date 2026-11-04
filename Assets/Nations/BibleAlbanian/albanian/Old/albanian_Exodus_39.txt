@@ -1,4 +1,4 @@
-"Pastaj me stofa ngjyrë vjollce, të purpurt dhe flakë të kuqe, bëri rroba të punuara mirë për të shërbyer në shenjtërore, dhe bënë rrobat e shenjta për Aaronin, ashtu siç e kishte urdhëruar Zoti Moisiun."
+"Pastaj me stofa ngjyrë vjollce, të purpurt dhe flakë të kuqe, bëri rroba të punuara mirë për të #shërbyer në shenjtërore, dhe bënë rrobat e shenjta për Aaronin, ashtu siç e kishte urdhëruar Zoti Moisiun."
 "Ai bëri efodin prej ari e me fill ngjyrë vjollce, të purpurt dhe flakë të kuqe, dhe me li të hollë të përdredhur."
 "Dhe e rrahën arin në peta dhe e prenë në fije, për ta endur në stofën ngjyrë vjollce, të purpurt dhe flakë të kuqe dhe në lirin e hollë të përdredhur
 "I bënë edhe supore të bashkuara; kështu efodi mbahej tok në të dy skajet e tij."
@@ -18,7 +18,7 @@
 "pas kësaj fiksuan dy majat e dy kordonëve në të dy rrathët dhe i vendosën mbi dy suporet e efodit, në pjesën e përparme të tij."
 "Bënë gjithashtu dy unaza ari dhe i vunë në dy skajet e pektoralit, në buzën e tij, që ndodhet në pjesën e brendshme të efodit."
 "Bënë gjithashtu dy unaza të tjera ari dhe i vunë mbi dy suporet e efodit poshtë, nga përpara, pranë pikës së bashkimit, mbi brezin e punuar artistikisht të efodit."
-"Pastaj i lidhën unazat e pektoralit me unazat e efodit me një kordon ngjyrë vjollce, me qëllim që pektorali të rrinte mbi brezin e punuar artistikisht të efodit, dhe të mos shkëputej prej këtij të fundit, ashtu si e kishte urdhëruar Zoti Moisiun."
+"Pastaj i lidhën unazat e pektoralit me unazat e efodit me një kordon ngjyrë vjollce, me qëllim që pektorali të rrinte mbi #brezin e punuar artistikisht të efodit, dhe të mos shkëputej prej këtij të fundit, ashtu si e kishte urdhëruar Zoti Moisiun."
 "Ai bëri gjithashtu mantelin e efodit, i tëri ngjyrë vjollce, një punim prej endësi."
 "Në mes të mantelit kishte një hapje, për të futur kokën; rreth e qark hapjes kishte një buzë stofi të punuar, ashtu si hapja e një parzmoreje, me qëllim që të mos shqyhej."
 "Mbi buzën e mantelit bënë disa shegë në ngjyrë vjollce, të purpurt dhe flakë të kuqe, me fill të përdredhur."

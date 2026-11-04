@@ -9,7 +9,7 @@
 "lalu orang yang sudah menjemput engkau dan dia, datang sambil berkata kepada engkau
 "Melainkan apabila engkau dijemput orang, pergilah engkau duduk di tempat yang di bawah sekali, supaya apabila orang, yang menjemput engkau, datang, berkata kepada engkau
 "Karena tiap-tiap orang, yang meninggikan dirinya, ia itu akan direndahkan, dan barangsiapa yang merendahkan dirinya, ia itu akan ditinggikan."""
-"Maka berkatalah juga Yesus kepada orang yang menjemput Dia, ""Apabila engkau membuat perjamuan tengah hari atau malam, jangan dipanggil sahabatmu atau saudaramu atau kaum keluargamu, atau orang sekampungmu yang kaya-kaya; supaya jangan mereka itu dapat membalas jemputanmu."
+"Maka berkatalah juga Yesus kepada orang yang menjemput Dia, ""Apabila engkau membuat perjamuan tengah hari atau malam, jangan dipanggil #sahabatmu atau saudaramu atau kaum keluargamu, atau orang sekampungmu yang kaya-kaya; supaya jangan mereka itu dapat membalas jemputanmu."
 "Melainkan apabila engkau membuat perjamuan, jemputlah orang yang miskin, dan kudung, dan timpang, dan buta;"
 "maka berbahagialah engkau kelak, sebab tiada apa hendak dibalaskannya kepada engkau; karena engkau dibalas pada hari kebangkitan orang benar."""
 "Setelah didengar demikian oleh seorang dari antara mereka itu yang duduk makan serta-Nya, maka berkatalah ia kepada Yesus, ""Berbahagialah orang yang akan dijamu di dalam kerajaan Allah."""
@@ -23,12 +23,12 @@
 "Maka kata tuan itu kepada hambanya
 "Karena Aku berkata kepadamu
 "Maka teramatlah banyak orang berjalan mengiringkan Yesus; lalu Ia berpaling sambil berkata kepada mereka itu,"
-"""Jikalau barang seorang datang kepada-Ku dan tiada membenci bapanya, dan ibu, dan bini, dan anak, dan saudara laki-laki, dan saudara yang perempuan, bahkan, nyawanya sendiri pun, tiada dapat ia menjadi murid-Ku."
+"""Jikalau barang seorang datang kepada-Ku dan tiada membenci bapanya, dan ibu, dan bini, dan anak, dan #saudara laki-laki, dan saudara yang perempuan, bahkan, nyawanya sendiri pun, tiada dapat ia menjadi murid-Ku."
 "Barangsiapa yang tiada menanggung salibnya serta mengikut Aku, tiada dapat ia menjadi murid-Ku."
 "Karena siapakah di antara kamu, yang hendak membangunkan sebuah menara, tiada duduk dahulu menganggarkan belanjanya, kalau-kalau cukup akan melengkapkannya?"
 "Supaya jangan, setelah dibubuhnya alas, maka tiada dapat menyudahkan, lalu segala orang yang melihat hal itu mulai mengolok-olokkan dia,"
 "katanya
-"Atau raja manakah hendak pergi melanggar berperang dengan seorang raja lain, yang tiada duduk dahulu bermusyawarat kalau-kalau ia boleh tahan dengan sepuluh ribu orang menghadap dua puluh ribu musuh?"
+"Atau raja manakah hendak pergi melanggar berperang dengan seorang raja lain, yang tiada duduk dahulu #bermusyawarat kalau-kalau ia boleh tahan dengan sepuluh ribu orang menghadap dua puluh ribu musuh?"
 "Jikalau tiada, sedang raja lain itu berjauhan, maka disuruhkannyalah utusannya bertanyakan syarat perdamaian."
 "Sedemikian juga barangsiapa di antara kamu, yang tiada meninggalkan segala sesuatu yang dipunyainya, tiada dapat menjadi murid-Ku."
 "Adapun garam itu baik; tetapi jikalau garam itu menjadi tawar, dengan apakah dapat ia dimasinkan pula?"

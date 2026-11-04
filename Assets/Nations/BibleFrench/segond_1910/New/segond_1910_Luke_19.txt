@@ -12,7 +12,7 @@
 "Il dit donc
 "Il appela dix de ses serviteurs, leur donna dix mines, et leur dit
 "Mais ses concitoyens le haïssaient, et ils envoyèrent une ambassade après lui, pour dire
-"Lorsqu'il fut de retour, après avoir été investi de l'autorité royale, il fit appeler auprès de lui les serviteurs auxquels il avait donné l'argent, afin de connaître comment chacun l'avait fait valoir."
+"Lorsqu'il fut de retour, après avoir été investi de l'autorité royale, il fit appeler auprès de lui #les serviteurs auxquels il avait donné l'argent, afin de connaître comment chacun l'avait fait valoir."
 "Le premier vint, et dit
 "Il lui dit
 "Le second vint, et dit
@@ -34,7 +34,7 @@
 "Ils répondirent
 "Et ils amenèrent à Jésus l'ânon, sur lequel ils jetèrent leurs vêtements, et firent monter Jésus."
 "Quand il fut en marche, les gens étendirent leurs vêtements sur le chemin."
-"Et lorsque déjà il approchait de Jérusalem, vers la descente de la montagne des oliviers, toute la multitude des disciples, saisie de joie, se mit à louer Dieu à haute voix pour tous les miracles qu'ils avaient vus."
+"Et lorsque déjà il approchait de Jérusalem, vers la descente de la montagne des oliviers, toute la multitude des disciples, #saisie de joie, se mit à louer Dieu à haute voix pour tous les miracles qu'ils avaient vus."
 "Ils disaient
 "Quelques pharisiens, du milieu de la foule, dirent à Jésus
 "Et il répondit

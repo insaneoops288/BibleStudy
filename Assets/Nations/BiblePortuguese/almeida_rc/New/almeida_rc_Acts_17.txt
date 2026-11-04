@@ -2,7 +2,7 @@
 "E Paulo, como tinha por costume, foi ter com eles; e por três sábados disputou com eles sobre as Escrituras,"
 "Expondo e demonstrando que convinha que o Cristo padecesse e ressuscitasse dos mortos. E este Jesus, que vos anuncio, dizia ele, é o Cristo."
 "E alguns deles creram, e ajuntaram-se com Paulo e Silas; e também uma grande multidão de gregos religiosos, e não poucas mulheres principais."
-"Mas os judeus desobedientes, movidos de inveja, tomaram consigo alguns homens perversos, de entre os vadios, e, ajuntando o povo, alvoroçaram a cidade, e, assaltando a casa de Jason, procuravam tirá-los para junto do povo."
+"Mas os judeus desobedientes, movidos de inveja, tomaram consigo alguns homens perversos, de entre os vadios, e, ajuntando #o povo, alvoroçaram a cidade, e, assaltando a casa de Jason, procuravam tirá-los para junto do povo."
 "E, não os achando, trouxeram Jason e alguns irmãos, à presença dos magistrados da cidade, clamando
 "Os quais Jason recolheu; e todos estes procedem contra os decretos de César, dizendo que há outro rei, Jesus."
 "E alvoroçaram a multidão e os principais da cidade, que ouviram estas coisas."

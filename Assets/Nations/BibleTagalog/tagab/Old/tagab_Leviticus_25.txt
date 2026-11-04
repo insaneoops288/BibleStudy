@@ -19,18 +19,18 @@
 "At ang lupain ay magbubunga, at kakain kayo hanggang sa mabusog at tatahan kayong tiwasay doon."
 "At kung sasabihin ninyo, Anong aming kakanin sa ikapitong taon? narito, hindi kami maghahasik ni magtitipon ng aming mga bunga
 "At aking igagawad ang aking pagpapala sa inyo sa ikaanim na taon, at magbubunga ng kasya sa tatlong taon."
-"At maghahasik kayo sa ikawalong taon, at kakain kayo ng dating kinamalig na mga bunga hanggang sa ikasiyam na taon, hanggang sa dumating ang pagbubunga ng ikawalo ay kakain kayo ng dating kinamalig."
+"At maghahasik kayo sa ikawalong taon, at kakain kayo ng dating kinamalig na mga bunga hanggang sa #ikasiyam na taon, hanggang sa dumating ang pagbubunga ng ikawalo ay kakain kayo ng dating kinamalig."
 "At ang lupain ay hindi maipagbibili ng magpakailan man; sapagka't akin ang lupain
 "At sa buong lupain na iyong pag-aari ay magkakaloob kayo ng pangtubos sa lupain."
 "Kung ang iyong kapatid ay maghirap, at ipagbili ang anoman sa kaniyang pag-aari, ay paroroon ang kaniyang kamaganak na pinakamalapit sa kaniya, at tutubusin ang ipinagbili ng kaniyang kapatid."
 "At kung ang taong yaon ay walang manunubos, at siya'y yumaman at nakasumpong ng kasapatan upang matubos yaon;"
 "Ay kaniyang bilangin ang mga taon pagkatapos na kaniyang naipagbili, at isasauli ang labis sa taong kaniyang pinagbilhan; at babalik siya sa kaniyang pag-aari."
-"Nguni't kung siya'y walang kasapatan, upang maibalik niya sa kaniya, ang ipinagbili ay matitira nga sa kapangyarihan ng bumili hanggang sa taon ng jubileo; at sa jubileo ay maaalis sa kapangyarihan niyaon, at ang may-ari ay babalik sa kaniyang pag-aari."
-"At kung ang isang tao ay magbili ng bahay na tahanan sa nakukutaang bayan ay matutubos niya sa loob ng isang buong taon pagkatapos na maipagbili; sapagka't isang buong taon ang kaniyang matuwid ng pagtubos."
+"Nguni't kung siya'y walang kasapatan, upang maibalik niya sa kaniya, ang ipinagbili ay matitira nga sa kapangyarihan ng bumili hanggang sa #taon ng jubileo; at sa jubileo ay maaalis sa kapangyarihan niyaon, at ang may-ari ay babalik sa kaniyang pag-aari."
+"At kung ang isang tao ay magbili ng bahay na tahanan sa nakukutaang bayan ay matutubos niya sa #loob ng isang buong taon pagkatapos na maipagbili; sapagka't isang buong taon ang kaniyang matuwid ng pagtubos."
 "At kung hindi matubos sa loob ng isang buong taon, ang bahay na nasa nakukutaang bayan ay lalagi magpakailan man, na pag-aari niyaong bumili, sa buong panahon ng kaniyang lahi
 "Nguni't ang mga bahay sa mga nayon na walang kuta sa palibot, ay aariing para ng sa mga bukirin sa lupain
 "Gayon ma'y sa mga bayan ng mga Levita, kailan ma'y maaaring matubos ng mga Levita ang mga bahay sa mga bayan ng kanilang pag-aari."
-"At kung ang isa sa mga Levita ay tumubos, ang bahay na ipinagbili at ang bayang kaniyang pag-aari, ay maaalis sa jubileo, sapagka't ang mga bahay sa mga bayan ng mga Levita ay kanilang pag-aari sa gitna ng mga anak ni Israel."
+"At kung ang isa sa mga Levita ay tumubos, ang bahay na ipinagbili at ang bayang kaniyang pag-aari, ay maaalis sa jubileo, #sapagka't ang mga bahay sa mga bayan ng mga Levita ay kanilang pag-aari sa gitna ng mga anak ni Israel."
 "Datapuwa't ang mga bukid sa palibot ng mga bayan nila, ay hindi maipagbibili, sapagka't pag-aari nila magpakailan man."
 "At kung maghirap ang iyong kapatid at manglupaypay sa iyong siping, ay iyo siyang aalalayan na patutuluyin mo, na manunuluyan sa iyong parang taga ibang bayan at nakikipamayan."
 "Huwag kang kukuha sa kaniya ng patubo o pakinabang, kundi matakot ka sa iyong Dios
@@ -44,9 +44,9 @@
 "At tungkol sa iyong mga aliping lalake at babae na magkakaroon ka; sa mga bansang nasa palibot ninyo, ay makabibili kayo sa kanila ng mga aliping lalake at babae."
 "Saka sa mga anak ng mga taga ibang lupa na nakikipamayan sa inyo, sa mga ito'y makabibili kayo, at sa kanilang mga sangbahayan na nasa inyo, na mga ipinanganak nila sa inyong lupain
 "At inyong iiwang pinakapamana sa inyong mga anak pagkamatay ninyo, na pinakapag-aari; sa mga iyan kukuha kayo ng inyong mga alipin magpakailan man
-"At kung ang taga ibang lupa o ang nakikipamayan na kasama mo ay yumaman, at ang iyong kapatid ay maghirap sa siping niya, at pabili sa taga ibang bayan o nakikipamayan sa iyo o sa sinomang kasangbahay ng taga ibang lupa;"
+"At kung ang taga ibang lupa o ang nakikipamayan na kasama mo ay yumaman, at ang iyong kapatid ay maghirap sa #siping niya, at pabili sa taga ibang bayan o nakikipamayan sa iyo o sa sinomang kasangbahay ng taga ibang lupa;"
 "Pagkatapos na siya'y maipagbili ay kaniyang matutubos
-"O ang kaniyang amain o ang anak ng kaniyang amain ay makatutubos sa kaniya; o sinomang kamaganak na malapit niya sa kaniyang sangbahayan ay makatutubos sa kaniya; o kung yumaman siya ay makatutubos siya sa kaniyang sarili."
+"O ang kaniyang amain o ang anak ng kaniyang amain ay makatutubos sa kaniya; o sinomang kamaganak na malapit #niya sa kaniyang sangbahayan ay makatutubos sa kaniya; o kung yumaman siya ay makatutubos siya sa kaniyang sarili."
 "At kaniyang bibilangan yaong bumili sa kaniya, mula sa taong bilhin siya hanggang sa taon ng jubileo
 "Kung maraming taon pa ang kulang niya, ayon sa dami ng mga iyan, ay isasauli ang halaga ng kaniyang pagkatubos sa kaniya na salaping sa kaniya'y ibinili."
 "At kung kaunti ang mga taong nagkukulang hanggang sa taon ng jubileo ay ibibilang sa kaniya; ayon sa kaniyang mga taon na nagkukulang ay isasauli ang halaga ng kaniyang katubusan."

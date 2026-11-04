@@ -12,7 +12,7 @@
 "Fiindcă celui ce are i se va da și va avea din abundență; dar celui ce nu are, de la el se va lua și ce are."
 "Din această cauză le vorbesc în parabole, pentru că [ei] văzând nu văd și auzind nu aud, nici nu înțeleg."
 "Și în ei este împlinită profeția lui Isaia, care spune
-"Fiindcă inima acestui popor s-a îngroșat și urechile [lor] sunt greoaie la auzire și au închis ochii lor, ca nu cumva să vadă cu ochii [lor] și să audă cu urechile [lor ]și să înțeleagă cu inima și să se întoarcă și să îi vindec."
+"Fiindcă inima acestui popor s-a îngroșat și urechile [lor] sunt greoaie la auzire și au închis ochii lor, ca nu cumva să vadă #cu ochii [lor] și să audă cu urechile [lor ]și să înțeleagă cu inima și să se întoarcă și să îi vindec."
 "Dar binecuvântați [sunt] ochii voștri, pentru că văd; și urechile voastre, pentru că aud."
 "Fiindcă adevărat vă spun că mulți profeți și [oameni] drepți au dorit să vadă ce vedeți voi și nu au văzut; și să audă ce auziți voi și nu au auzit."
 "Voi așadar ascultați parabola semănătorului."

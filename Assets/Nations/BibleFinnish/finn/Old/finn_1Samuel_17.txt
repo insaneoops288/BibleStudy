@@ -6,7 +6,7 @@
 "Ja vaskiset saappaat jaloissansa ja vaskikilpi hartioillansa,"
 "Ja hänen keihäänsä varsi oli niinkuin kankaan orsi, ja hänen keihäänsä rauta painoi kuusisataa sikliä rautaa. Ja hänen kilpensä kantaja kävi hänen edellänsä."
 "Ja hän seisoi ja huusi Israelin joukolle, ja sanoi heille
-"Jos hän voi sotia minua vastaan ja lyö minun, niin me olemme teidän palvelianne, mutta jos minä hänen voitan ja lyön hänen, niin teidän pitää oleman meidän palveliamme ja teidän pitää meitä palveleman."
+"Jos hän voi sotia minua vastaan ja lyö minun, niin me olemme teidän palvelianne, mutta jos minä #hänen voitan ja lyön hänen, niin teidän pitää oleman meidän palveliamme ja teidän pitää meitä palveleman."
 "Ja Philistealainen sanoi
 "Kuin Saul ja koko Israel kuuli nämät Philistealaisten puheet, hämmästyivät he, ja pelkäsivät suuresti."
 "Mutta David oli Ephratin miehen poika Juudan Betlehemistä, joka kutsuttiin Isai, hänellä oli kahdeksan poikaa, ja oli vanha mies Saulin aikaan ja ijällinen miesten seassa."
@@ -17,7 +17,7 @@
 "Ja Isai sanoi pojallensa Davidille
 "Ja kanna nämät kymmenen tuoretta juustoa päämiehelle; ja etsi veljiäs, jos he rauhassa ovat, ja pane mielees, mitä he sinulle käskevät."
 "Mutta Saul ja he kaikki Israelin miehet olivat Tammilaaksossa ja sotivat Philistealaisia vastaan."
-"Niin David nousi varhain aamulla ja jätti lampaat paimenen haltuun, kantoi ja meni matkaansa, niinkuin Isai häntä käskenyt oli, ja tuli leiriin, ja sotaväki oli lähtenyt ulos sotaan, ja huusivat suurella äänellä sotimaan."
+"Niin David nousi varhain aamulla ja jätti lampaat paimenen haltuun, kantoi ja meni matkaansa, niinkuin Isai häntä #käskenyt oli, ja tuli leiriin, ja sotaväki oli lähtenyt ulos sotaan, ja huusivat suurella äänellä sotimaan."
 "Sillä Israel ja Philistealaiset olivat valmistaneet itsensä sotimaan toinen toistansa vastaan."
 "Niin David jätti kalut, jotka hän kantoi, kalunvartijalle, ja juoksi sodan rintaan, ja tuli ja tervehti veljiänsä."
 "Kuin hän parhaallansa heitä puhutteli, katso, se välimies, hänen nimensä oli Goljat, Philistealainen Gatista, nousi Philistealaisten sotajoukosta, ja puhui niikuin ennenkin; ja David kuuli sen."
@@ -48,7 +48,7 @@
 "Kuin Philistealainen nousi ja kävi ja lähestyi Davidia, niin David riensi ja juoksi sotajoukon eteen Philistealaista vastaan,"
 "Ja pisti kätensä kukkaroon, otti sieltä kiven, ja linkosi ja paiskasi Philistealaista otsaan, että kivi meni hänen otsansa sisälle, ja hän lankesi maahan kasvoillensa."
 "Niin David voitti Philistealaisen lingolla ja kivellä, löi Philistealaisen ja tappoi hänen. Ja ettei Davidilla ollut miekkaa,"
-"Juoksi hän ja seisahti Philistealaisen tykö, ja otti hänen miekkansa ja veti tupesta ulos, ja tappoi hänen, ja sillä hakkasi pois hänen päänsä. Kuin Philistealaiset sen näkivät, että heidän väkevimpänsä kuollut oli, niin he pakenivat."
+"Juoksi hän ja seisahti Philistealaisen tykö, ja otti hänen miekkansa ja veti tupesta ulos, ja tappoi hänen, ja #sillä hakkasi pois hänen päänsä. Kuin Philistealaiset sen näkivät, että heidän väkevimpänsä kuollut oli, niin he pakenivat."
 "Ja Israelin ja Juudan miehet nousivat, huusivat ja ajoivat Philistealaisia takaa laaksoon ja Ekronin porttiin asti; ja Philistealaiset lankesivat lyötynä Saarimin tiellä, Gatiin ja Ekroniin asti."
 "Ja Israelin lapset palasivat ajamasta Philistealaisia takaa ja ryöstivät heidän leirinsä."
 "Mutta David otti Philistealaisen pään ja vei Jerusalemiin

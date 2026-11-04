@@ -9,6 +9,6 @@
 "Și, fiind făcut desăvârșit, a devenit autorul salvării eterne pentru toți cei ce ascultă de [el];"
 "Numit de Dumnezeu mare preot după rânduiala lui Melchisedec."
 "Despre care avem multe de spus și greu de explicat în vorbire, văzând că sunteți greoi la auzire."
-"Fiindcă aveți nevoie să vă învețe cineva din nou care [sunt] principiile începătoare ale oracolelor lui Dumnezeu și ați devenit precum cei care au nevoie de lapte și nu de hrană tare, când voi de mult trebuia să fiți învățători."
+"Fiindcă aveți nevoie să vă învețe cineva din nou care [sunt] principiile începătoare ale oracolelor lui Dumnezeu și ați devenit precum #cei care au nevoie de lapte și nu de hrană tare, când voi de mult trebuia să fiți învățători."
 "Fiindcă oricine folosește lapte [este] neiscusit în cuvântul dreptății, fiindcă este prunc."
 "Dar hrana tare este a celor maturi, aceia care din cauza folosirii și-au antrenat simțurile ca să discearnă deopotrivă binele și răul."

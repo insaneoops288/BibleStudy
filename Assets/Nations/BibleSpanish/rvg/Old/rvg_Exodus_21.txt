@@ -19,7 +19,7 @@
 "si se levantare y anduviere fuera sobre su báculo, entonces el que le hirió será absuelto; solamente le compensará por el tiempo perdido, y hará que le curen."
 "Y si alguno hiriere a su siervo o a su sierva con palo, y muriere bajo de su mano, será castigado
 "Mas si durare por un día o dos, no será castigado, porque su dinero es."
-"Si algunos riñeren, e hiriesen a mujer embarazada, y ésta abortare, pero sin haber otro daño, será penado conforme a lo que le impusiere el marido de la mujer, y pagará según [determinen] los jueces."
+"Si algunos riñeren, e hiriesen a mujer embarazada, y ésta abortare, pero sin haber otro daño, será penado #conforme a lo que le impusiere el marido de la mujer, y pagará según [determinen] los jueces."
 "Mas si hubiere [algún] otro daño, entonces pagarás vida por vida,"
 "ojo por ojo, diente por diente, mano por mano, pie por pie,"
 "quemadura por quemadura, herida por herida, golpe por golpe."

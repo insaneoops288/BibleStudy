@@ -1,5 +1,5 @@
 "E falou o SENHOR a Moisés e a Arão, dizendo
-"Quando o homem tiver na pele de sua carne inchaço, ou pústula, ou mancha branca, e houver na pele de sua carne como chaga de lepra, será trazido a Arão o sacerdote, ou a um dos sacerdotes seus filhos
+"Quando o homem tiver na pele de sua carne inchaço, ou pústula, ou mancha branca, e houver na pele de #sua carne como chaga de lepra, será trazido a Arão o sacerdote, ou a um dos sacerdotes seus filhos
 "E o sacerdote olhará a chaga na pele da carne
 "E se na pele de sua carne houver mancha branca, mas não parecer mais profunda que a pele, nem seu pelo se houver tornado branco, então o sacerdote encerrará ao que tem chagas por sete dias;"
 "E ao sétimo dia o sacerdote o olhará; e se a chaga a seu parecer se houver parado, não havendo-se estendido na pele, então o sacerdote lhe voltará a encerrar por outros sete dias."
@@ -22,7 +22,7 @@
 "E se se for estendendo pela pele, então o sacerdote o dará por impuro
 "Porém se a mancha branca estiver em seu lugar, que não tenha estendido, é a cicatriz da úlcera; e o sacerdote o dará por limpo."
 "Assim quando a carne tiver em sua pele queimadura de fogo, e houver no sarado do fogo mancha esbranquiçada, avermelhada ou branca,"
-"O sacerdote a olhará; e se o pelo se houver tornado branco na mancha, e parecer estar mais profunda que a pele, é lepra que saiu na queimadura; e o sacerdote declarará ao sujeito impuro, por ser chaga de lepra."
+"O sacerdote a olhará; e se o pelo se houver tornado branco na mancha, e parecer estar mais profunda que a #pele, é lepra que saiu na queimadura; e o sacerdote declarará ao sujeito impuro, por ser chaga de lepra."
 "Mas se o sacerdote a olhar, e não parecer na mancha pelo branco, nem estiver mais baixa que a pele, mas sim que está escura, lhe encerrará o sacerdote por sete dias;"
 "E ao sétimo dia o sacerdote a reconhecerá
 "Porém se a mancha estiver em seu lugar, e não se houver estendido na pele, a não ser que está escura, inchaço é da queimadura
@@ -52,7 +52,7 @@
 "Será queimada a roupa, ou urdidura ou trama, de lã ou de linho, ou qualquer obra de peles em que houver tal praga; porque lepra roedora é; ao fogo será queimada."
 "E se o sacerdote olhar, e não parecer que a praga se tenha estendido na roupa, ou urdidura, ou na trama, ou em qualquer obra de peles;"
 "Então o sacerdote mandará que lavem onde está a praga, e o encerrará outra vez por sete dias."
-"E o sacerdote olhará depois que a praga for lavada; e se parecer que a praga não mudou seu aspecto, ainda que não tenha estendido a praga, impura é; a queimarás ao fogo; corrosão é penetrante, esteja o estragado na face ou no verso daquela coisa."
+"E o sacerdote olhará depois que a praga for lavada; e se parecer que a praga não mudou seu aspecto, ainda que não tenha #estendido a praga, impura é; a queimarás ao fogo; corrosão é penetrante, esteja o estragado na face ou no verso daquela coisa."
 "Mas se o sacerdote a vir, e parecer que a praga se escureceu depois que foi lavada, a cortará da roupa, ou da pele, ou da urdidura, ou da trama."
 "E se parecer mais no vestido, ou urdidura, ou trama, ou em qualquer coisa de peles, esverdeando nela, queimarás ao fogo aquilo onde estiver a praga."
 "Porém a roupa, ou urdidura, ou trama, ou qualquer coisa de pele que lavares, e que se lhe tirar a praga, se lavará segunda vez, e então será limpa."

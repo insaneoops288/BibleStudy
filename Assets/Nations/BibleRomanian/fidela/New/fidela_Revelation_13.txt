@@ -11,7 +11,7 @@
 "Și am văzut o altă fiară ridicându-se din pământ; și avea două coarne asemănătoare unui miel și vorbea ca un dragon."
 "Și exercită toată puterea primei fiare de dinaintea ei și face ca pământul și cei ce locuiesc pe el să se închine primei fiare, a cărei rană mortală fusese vindecată."
 "Și face minuni mari, așa încât coboară foc din cer pe pământ, înaintea oamenilor."
-"Și înșală pe cei ce locuiesc pe pământ prin [mijlocirea] acelor miracole pe care ea avea putere să le facă înaintea fiarei, spunând celor ce locuiesc pe pământ să facă o icoană fiarei care a avut rana de sabie și trăia."
+"Și înșală pe cei ce locuiesc pe pământ prin [mijlocirea] acelor miracole pe care ea avea putere să le facă înaintea #fiarei, spunând celor ce locuiesc pe pământ să facă o icoană fiarei care a avut rana de sabie și trăia."
 "Și ea avea putere să dea viață icoanei fiarei, pentru ca icoana fiarei deopotrivă să vorbească și să facă să fie uciși atâția câți nu se închină icoanei fiarei."
 "Și face pe toți, deopotrivă mici și mari și bogați și săraci și liberi și sclavi, să primească un semn pe mâna lor dreaptă, sau pe frunțile lor;"
 "Ca nimeni să nu poată cumpăra sau vinde, decât cel ce avea semnul, sau numele fiarei, sau numărul numelui său."

@@ -11,4 +11,4 @@
 "Sillä katso, Herra on käskenyt lyödä suuria huoneita rikki, ja vähiä huoneita hajoomaan."
 "Taitavatko hevoset kalliolla samota? taidetaanko sitä härjillä kyntää? sillä te muuttelette oikeuden sapeksi ja vanhurskauden hedelmän koiruohoksi,"
 "Ja iloitsette tyhjästä asiasta, ja sanotte
-"Sentähden katso, minä tahdon teidän päällenne, te Israelin huone, kansan herättää, sanoo Herra Jumala Zebaot; joka teitä pitää siitä paikasta ahdistaman, kuin Hamatiin mennään, hamaan korven ojaan asti."
+"Sentähden katso, minä tahdon teidän päällenne, te Israelin huone, kansan herättää, sanoo Herra Jumala Zebaot; #joka teitä pitää siitä paikasta ahdistaman, kuin Hamatiin mennään, hamaan korven ojaan asti."

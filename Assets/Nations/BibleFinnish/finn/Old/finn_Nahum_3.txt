@@ -7,13 +7,13 @@
 "Ja pitää tapahtuman, että kaikki, jotka sinun näkevät, pitää sinua pakeneman, ja sanoman
 "Oletkos parempi kuin hallitsiain kaupunki No? joka virtain keskellä oli, ja vesi juoksi hänen ympärillänsä, jonka muurit ja vahvistukset olivat meren reunassa."
 "Etiopia ja Egypti oli hänen lukematoin väkensä; Put ja Lybia olivat sinun apunas."
-"Ja kuitenkin hänen täytyi pois ajettuna olla, ja mennä pois vangittuna; ja hänen lapsensa ovat kaikkein katuin suissa lyödyt, ja hänen kunniallisistansa heitettiin arpaa, ja kaikki hänen ylimmäisensä pantiin kahleisiin."
+"Ja kuitenkin hänen täytyi pois ajettuna olla, ja mennä pois vangittuna; ja hänen lapsensa ovat kaikkein #katuin suissa lyödyt, ja hänen kunniallisistansa heitettiin arpaa, ja kaikki hänen ylimmäisensä pantiin kahleisiin."
 "Juuri niin täytyy sinun myös juopua, ja sinuas lymyttää, ja turvaa vihollistes edestä etsiä."
 "Kaikki sinun vahvat kaupunkis ovat niinkuin fikunapuut, joissa kypsät fikunat ovat
 "Katso, sinun kansas pitää tuleman niinkuin vaimot, ja sinun maas ovet pitää sinun vihollisilles kokonansa aukeneman, ja tulen pitää sinun salpas syömän."
 "Ammunna sinulles vettä siinä, missä sinä piiritetään; vahvista sinun linnas, mene saveen ja sotke sitä, ja tee vahvoja tiilejä."
 "Mutta tulen pitää sinua syömän, ja miekan sinua surmaaman; sen pitää sinun syömän niinkuin paarmat; sen pitää lankeeman sinun päälles niinkuin ruohomadot."
 "Enempi sinulla on kauppamiehiä kuin tähtiä taivaassa; mutta nyt heidän pitää itsensä hajoittaman niinkuin paarmat, ja lentämän siitä pois."
-"Sinun ylimmäistäs on niin monta niinkuin ruohomatoja, ja päämiehiäs niinkuin paarmoja, jotka heitänsä aidoille vilun aikana sioittavat; mutta kuin aurinko nousee, niin he sieltä lähtevät, ettei siaakaan tuta, kussa he olivat."
+"Sinun ylimmäistäs on niin monta niinkuin ruohomatoja, ja päämiehiäs niinkuin paarmoja, jotka heitänsä aidoille vilun aikana #sioittavat; mutta kuin aurinko nousee, niin he sieltä lähtevät, ettei siaakaan tuta, kussa he olivat."
 "Sinun paimenes, sinä Assurin kunigas, pitää makaaman, ja sinun voimallises pitää maata paneman; sinun kansas pitää vuorille hajoitettaman, ja ei pidä kenenkään heitä kokooman."
-"Ei pidä kenenkään sinun vahinkoas parantaman, eikä sinun rangaistuksestas sureman; vaan kaikki, jotka näitä sinusta kuulevat, pitää käsiänsä sinusta yhteen lyömän; sillä ketä ei ole sinun pahuutes ilman lakkaamata kohdannut."
+"Ei pidä kenenkään sinun vahinkoas parantaman, eikä sinun rangaistuksestas sureman; vaan kaikki, jotka näitä sinusta kuulevat, #pitää käsiänsä sinusta yhteen lyömän; sillä ketä ei ole sinun pahuutes ilman lakkaamata kohdannut."

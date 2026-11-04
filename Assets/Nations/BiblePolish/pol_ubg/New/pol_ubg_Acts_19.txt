@@ -24,7 +24,7 @@
 "Bo pewien złotnik, imieniem Demetriusz, który wyrabiał ze srebra świątyńki Diany, zapewniał rzemieślnikom niemały zarobek."
 "Zebrał ich i innych, zajmujących się podobnym rzemiosłem, i powiedział
 "Widzicie też i słyszycie, że ten Paweł nie tylko w Efezie, ale prawie w całej Azji przekonał i odwiódł wielu ludzi, mówiąc, że nie są bogami ci, którzy rękami ludzkimi są uczynieni."
-"Należy więc obawiać się nie tylko tego, że nasze rzemiosło zostanie zlekceważone, ale też że świątynia wielkiej bogini Diany, czczonej w całej Azji i w całym świecie, zostanie poczytana za nic i zostanie zniszczony jej majestat."
+"Należy więc obawiać się nie tylko tego, że nasze rzemiosło zostanie zlekceważone, ale też że świątynia wielkiej bogini Diany, #czczonej w całej Azji i w całym świecie, zostanie poczytana za nic i zostanie zniszczony jej majestat."
 "Gdy to usłyszeli, ogarnął ich gniew i zaczęli krzyczeć
 "I całe miasto napełniło się wrzawą. Porwawszy Gajusa i Arystarcha, Macedończyków, towarzyszy podróży Pawła, jednomyślnie ruszyli do teatru."
 "Gdy Paweł chciał wejść między lud, uczniowie mu nie pozwolili."

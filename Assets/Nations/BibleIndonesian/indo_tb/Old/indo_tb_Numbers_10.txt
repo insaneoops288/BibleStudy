@@ -6,8 +6,8 @@
 "apabila kamu meniup tanda semboyan kedua kalinya, maka haruslah berangkat laskar-laskar yang berkemah di sebelah selatan. Jadi tanda semboyan harus ditiup untuk menyuruh mereka berangkat;"
 "tetapi untuk menyuruh jemaah itu berkumpul kamu harus meniup saja tanpa memberi tanda semboyan."
 "Nafiri-nafiri itu harus ditiup oleh anak-anak imam Harun; itulah yang harus menjadi ketetapan untuk selama-lamanya bagimu turun-temurun."
-"Dan apabila kamu maju berperang di negerimu melawan musuh yang menyesakkan kamu, kamu harus memberi tanda semboyan dengan nafiri, supaya kamu diingat di hadapan TUHAN, Allahmu, dan diselamatkan dari pada musuhmu."
-"Juga pada hari-hari kamu bersukaria, pada perayaan-perayaanmu dan pada bulan-bulan barumu haruslah kamu meniup nafiri itu pada waktu mempersembahkan korban-korban bakaranmu dan korban-korban keselamatanmu; maksudnya supaya kamu diingat di hadapan Allahmu; Akulah TUHAN, Allahmu."""
+"Dan apabila kamu maju berperang di negerimu melawan musuh yang menyesakkan kamu, kamu harus memberi tanda #semboyan dengan nafiri, supaya kamu diingat di hadapan TUHAN, Allahmu, dan diselamatkan dari pada musuhmu."
+"Juga pada hari-hari kamu bersukaria, pada perayaan-perayaanmu dan pada bulan-bulan barumu haruslah kamu meniup nafiri itu pada waktu #mempersembahkan korban-korban bakaranmu dan korban-korban keselamatanmu; maksudnya supaya kamu diingat di hadapan Allahmu; Akulah TUHAN, Allahmu."""
 "Pada tahun yang kedua, pada bulan yang kedua, pada tanggal dua puluh bulan itu, naiklah awan itu dari atas Kemah Suci, tempat hukum Allah."
 "Lalu berangkatlah orang Israel dari padang gurun Sinai menurut aturan keberangkatan mereka, kemudian diamlah awan itu di padang gurun Paran."
 "Itulah pertama kali mereka berangkat menurut titah TUHAN dengan perantaraan Musa."
@@ -30,7 +30,7 @@
 "Tetapi jawabnya kepada Musa
 "Kata Musa
 "Jika engkau ikut bersama-sama dengan kami, maka kebaikan yang akan dilakukan TUHAN kepada kami akan kami lakukan juga kepadamu."""
-"Lalu berangkatlah mereka dari gunung TUHAN dan berjalan tiga hari perjalanan jauhnya, sedang tabut perjanjian TUHAN berangkat di depan mereka dan berjalan tiga hari perjalanan jauhnya untuk mencari tempat perhentian bagi mereka."
+"Lalu berangkatlah mereka dari gunung TUHAN dan berjalan tiga hari perjalanan jauhnya, sedang tabut perjanjian TUHAN berangkat #di depan mereka dan berjalan tiga hari perjalanan jauhnya untuk mencari tempat perhentian bagi mereka."
 "Dan awan TUHAN ada di atas mereka pada siang hari, apabila mereka berangkat dari tempat perkemahan."
 "Apabila tabut itu berangkat, berkatalah Musa
 "Dan apabila tabut itu berhenti, berkatalah ia

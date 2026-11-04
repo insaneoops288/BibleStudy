@@ -41,5 +41,5 @@
 "Maka tergeraklah hati-Nya oleh belas kasihan, lalu Ia mengulurkan tangan-Nya, menjamah orang itu dan berkata kepadanya
 "Seketika itu juga lenyaplah penyakit kusta orang itu, dan ia menjadi tahir."
 "Segera Ia menyuruh orang itu pergi dengan peringatan keras
-"""Ingatlah, janganlah engkau memberitahukan apa-apa tentang hal ini kepada siapapun, tetapi pergilah, perlihatkanlah dirimu kepada imam dan persembahkanlah untuk pentahiranmu persembahan, yang diperintahkan oleh Musa, sebagai bukti bagi mereka."""
-"Tetapi orang itu pergi memberitakan peristiwa itu dan menyebarkannya kemana-mana, sehingga Yesus tidak dapat lagi terang-terangan masuk ke dalam kota. Ia tinggal di luar di tempat-tempat yang sepi; namun orang terus juga datang kepada-Nya dari segala penjuru."
+"""Ingatlah, janganlah engkau memberitahukan apa-apa tentang hal ini kepada siapapun, tetapi pergilah, perlihatkanlah dirimu kepada #imam dan persembahkanlah untuk pentahiranmu persembahan, yang diperintahkan oleh Musa, sebagai bukti bagi mereka."""
+"Tetapi orang itu pergi memberitakan peristiwa itu dan menyebarkannya kemana-mana, sehingga Yesus tidak dapat lagi terang-terangan masuk ke dalam #kota. Ia tinggal di luar di tempat-tempat yang sepi; namun orang terus juga datang kepada-Nya dari segala penjuru."

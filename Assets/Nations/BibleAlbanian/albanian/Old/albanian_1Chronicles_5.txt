@@ -1,4 +1,4 @@
-"Bijtë e Rubenit, të parëlindurit të Izraelit. Ai ishte me të vërtetë i parëlinduri, por me qenë se kishte përdhosur shtratin e të atit, parëbirnia iu dha bijve të Jozefit, birit të Izraelit; kështu gjenealogjia nuk jepet në bazë të parëbirnisë."
+"Bijtë e Rubenit, të parëlindurit të Izraelit. Ai ishte me të vërtetë i parëlinduri, por me qenë se kishte përdhosur shtratin #e të atit, parëbirnia iu dha bijve të Jozefit, birit të Izraelit; kështu gjenealogjia nuk jepet në bazë të parëbirnisë."
 "Ndonëse Juda mbizotëroi mbi vëllezërit e tij dhe nga ai rrodhi një shef, e drejta e parëbirnisë i takonte Jozefit."
 "Bijtë e Rubenit, të parëlindurit të Izraelit, ishin Hanoku, Pallu, Hetsroni dhe Karmi."
 "Bijtë e Joelit ishin Shemejahu, bir i të cilit ishte Gogu, bir i të cilit ishte Shimei,"
@@ -15,12 +15,12 @@
 "Ahi, bir i Abdielit, birit të Gunit, ishte i pari i shtëpisë së tyre prindërore."
 "Ata banonin në Galaad dhe në Bashan, në fshatrat e tij dhe në të gjitha tokat për kullotë të Sharonit deri atje ku shtriheshin."
 "Të gjitha këto toka u regjistruan në listat gjenealogjike të përpiluara në kohën e Jothamit, mbretit të Judës, dhe në kohën e Jeroboamit, mbretit të Izraelit."
-"Bijtë e Rubenit, Gaditët dhe gjysma e fisit të Manasit kishin dyzet e katër mijë e shtatëqind e gjashtëdhjetë njerëz trima, njerëz që mbanin mburoja dhe shpata, përdornin harkun dhe ishin të stërvitur"
+"Bijtë e Rubenit, Gaditët dhe gjysma e fisit të Manasit kishin dyzet e katër mijë e shtatëqind #e gjashtëdhjetë njerëz trima, njerëz që mbanin mburoja dhe shpata, përdornin harkun dhe ishin të stërvitur"
 "Ata u shpallën luftë Hagarenëve, Jeturëve, Nafishëve dhe Nodabëve."
-"Ata u ndihmuan kundër tyre, sepse gjatë betejës i thirrën Perëndisë, që e dëgjoi lutjen e tyre, sepse ata kishin pasur besim tek ai; kështu Hagarenët dhe tërë ata që ishin bashkë me ta u dorëzuan në duart e tyre."
+"Ata u ndihmuan kundër tyre, sepse gjatë betejës i thirrën Perëndisë, që e dëgjoi lutjen e tyre, sepse ata kishin pasur #besim tek ai; kështu Hagarenët dhe tërë ata që ishin bashkë me ta u dorëzuan në duart e tyre."
 "Pastaj ata muarrën bagëtinë e tyre
 "Në të vërtetë shumë njerëz ranë të vrarë, sepse këtë luftë e kishte dashur Perëndia. Ata u vendosën pastaj në vendin e tyre deri sa ranë në robëri."
 "Kështu bijtë e gjysmës së fisit të Manasit banuan në vend; ata u shtrinë nga Bashani deri në Baal-Hermon, në Senir dhe në malin Hermon."
 "Këta ishin krerët e shtëpive të tyre atërore
 "Por ata u treguan jobesnikë ndaj Perëndisë të etërve të tyre dhe u kurvëruan, duke shkuar pas perëndive të popujve të vendit që Perëndia kishte shkatërruar para tyre."
-"Prandaj Perëndia i Izraelit nxiti frymën e Pulit, mbretit të Asirisë, domethënë frymën e Tilgath-Pilniserit, mbretit të Asirisë, që internoi Rubenitët, Gaditët dhe gjysmën e fisit të Manasit, dhe i vendosi në Halah, në Habor, në Hara dhe pranë lumit të Gozanit, ku gjenden edhe sot."
+"Prandaj Perëndia i Izraelit nxiti frymën e Pulit, mbretit të Asirisë, domethënë frymën e Tilgath-Pilniserit, mbretit të Asirisë, që internoi Rubenitët, Gaditët dhe gjysmën #e fisit të Manasit, dhe i vendosi në Halah, në Habor, në Hara dhe pranë lumit të Gozanit, ku gjenden edhe sot."

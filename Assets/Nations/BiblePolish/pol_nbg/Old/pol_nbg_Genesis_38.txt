@@ -11,7 +11,7 @@
 "Zatem Jehuda powiedział do swojej synowej Thamary
 "Upłynęło wiele dni i umarła córka Szuego, żona Jehudy. A Jehuda pocieszywszy się, poszedł do postrzygaczy swych owiec, do Thimny; on i jego przyjaciel Chira, Adullamita."
 "Więc doniesiono Thamarze, mówiąc
-"Zatem zdjęła z siebie szaty swojego wdowieństwa, okryła się zasłoną, otuliła się i siadła u wrót Enaimu, które jest na drodze do Thimny; gdyż wiedziała, że Szela wyrósł, a ona nie została mu oddana za żonę."
+"Zatem zdjęła z siebie szaty swojego wdowieństwa, okryła się zasłoną, otuliła się i siadła u wrót Enaimu, które jest #na drodze do Thimny; gdyż wiedziała, że Szela wyrósł, a ona nie została mu oddana za żonę."
 "Zobaczył ją Jehuda oraz wziął ją za prostytutkę, ponieważ zakryła swoją twarz."
 "Więc zawrócił do niej na drodze i powiedział
 "Zatem powiedział

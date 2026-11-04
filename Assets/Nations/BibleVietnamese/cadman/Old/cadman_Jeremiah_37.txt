@@ -7,7 +7,7 @@
 "Giê-hô-va, Ðức Chúa Trời của Y-sơ-ra-ên, phán như vầy
 "Những người Canh-đê sẽ trở lại, đánh thành nầy, chiếm lấy, và dùng lửa đốt đi."
 "Ðức Giê-hô-va phán như vầy
-"Dầu các ngươi đánh cả đạo binh của người Canh-đê đến đánh trận nghịch cùng các ngươi, trong chúng nó chỉ còn lại những kẻ bị thương tích, nhưng ai nấy cũng sẽ từ trong trại mình dấy lên mà dùng lửa đốt thành nầy."
+"Dầu các ngươi đánh cả đạo binh của người Canh-đê đến đánh trận nghịch cùng các ngươi, trong chúng nó chỉ còn lại #những kẻ bị thương tích, nhưng ai nấy cũng sẽ từ trong trại mình dấy lên mà dùng lửa đốt thành nầy."
 "Khi đạo binh người Canh-đê mở vây khỏi thành Giê-ru-sa-lem, vì sự đạo binh Pha-ra-ôn,"
 "thì Giê-rê-mi ra khỏi Giê-ru-sa-lem đặng đi trong đất Bên-gia-min, để nhận phần của mình giữa dân đó."
 "Nhưng lúc đến cửa Bên-gia-min, thì có người đốc canh tên là Gi-rê-gia, con trai Sê-lê-mia, cháu Ha-na-nia, ở đó; tên nầy bắt tiên tri Giê-rê-mi mà rằng
@@ -18,4 +18,4 @@
 "Kế đó, Giê-rê-mi nói cùng vua Sê-đê-kia rằng
 "Các tiên tri đã nói tiên tri rằng
 "Bây giờ, Hỡi vua, chúa tôi, xin hãy nghe, mong rằng lời cầu xin của tôi được vua nhận lấy! Xin chớ giao tôi lại trong nhà thơ ký Giô-na-than, kẻo tôi sẽ chết tại đó."
-"Vua Sê-đê-kia bèn truyền giữ Giê-rê-mi trong nơi hành lang lính canh, mỗi ngày phát cho một chiếc bánh của phố hàng bánh, cho đến chừng bánh trong thành hết trơn. Giê-rê-mi ở trong hành lang lính canh là như vậy."
+"Vua Sê-đê-kia bèn truyền giữ Giê-rê-mi trong nơi hành lang lính canh, mỗi ngày phát cho một chiếc bánh của phố #hàng bánh, cho đến chừng bánh trong thành hết trơn. Giê-rê-mi ở trong hành lang lính canh là như vậy."

@@ -1,6 +1,6 @@
 "Or avvenne che in Iconio pure Paolo e Barnaba entrarono nella sinagoga dei Giudei e parlarono in maniera che una gran moltitudine di Giudei e di Greci credette."
 "Ma i Giudei, rimasti disubbidienti, misero su e inasprirono gli animi dei Gentili contro i fratelli."
-"Essi dunque dimoraron quivi molto tempo, predicando con franchezza, fidenti nel Signore, il quale rendeva testimonianza alla parola della sua grazia, concedendo che per le lor mani si facessero segni e prodigi."
+"Essi dunque dimoraron quivi molto tempo, predicando con franchezza, fidenti nel Signore, il quale rendeva testimonianza alla #parola della sua grazia, concedendo che per le lor mani si facessero segni e prodigi."
 "Ma la popolazione della città era divisa; gli uni tenevano per i Giudei, e gli altri per gli apostoli."
 "Ma essendo scoppiato un moto dei Gentili e dei Giudei coi loro capi, per recare ingiuria agli apostoli e lapidarli,"
 "questi, conosciuta la cosa, se ne fuggirono nelle città di Licaonia, Listra e Derba e nel paese d’intorno;"
@@ -12,7 +12,7 @@
 "E chiamavano Barnaba, Giove, e Paolo, Mercurio, perché era il primo a parlare."
 "E il sacerdote di Giove, il cui tempio era all’entrata della città, menò dinanzi alle porte tori e ghirlande, e volea sacrificare con le turbe."
 "Ma gli apostoli Barnaba e Paolo, udito ciò, si stracciarono i vestimenti, e saltarono in mezzo alla moltitudine, esclamando
-"Uomini, perché fate queste cose? Anche noi siamo uomini della stessa natura che voi; e vi predichiamo che da queste cose vane vi convertiate all’Iddio vivente, che ha fatto il cielo, la terra, il mare e tutte le cose che sono in essi;"
+"Uomini, perché fate queste cose? Anche noi siamo uomini della stessa natura che voi; e vi predichiamo che da queste cose vane #vi convertiate all’Iddio vivente, che ha fatto il cielo, la terra, il mare e tutte le cose che sono in essi;"
 "che nelle età passate ha lasciato camminare nelle loro vie tutte le nazioni,"
 "benché non si sia lasciato senza testimonianza, facendo del bene, mandandovi dal cielo piogge e stagioni fruttifere, dandovi cibo in abbondanza, e letizia ne’ vostri cuori."
 "E dicendo queste cose, a mala pena trattennero le turbe dal sacrificar loro."

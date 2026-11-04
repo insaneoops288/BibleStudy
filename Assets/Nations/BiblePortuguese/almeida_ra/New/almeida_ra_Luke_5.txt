@@ -14,7 +14,7 @@
 "Ordenou-lhe, então, que a ninguém contasse isto. Mas vai, disse ele, mostra-te ao sacerdote e faz a oferta pela tua purificação, conforme Moisés determinou, para lhes servir de testemunho."
 "A sua fama, porém, se divulgava cada vez mais, e grandes multidões se ajuntavam para ouvi-lo e serem curadas das suas enfermidades."
 "Mas ele se retirava para os desertos, e ali orava."
-"Um dia, quando ele estava ensinando, achavam-se ali sentados fariseus e doutores da lei, que tinham vindo de todas as aldeias da Galileia e da Judeia, e de Jerusalém; e o poder do Senhor estava com ele para curar."
+"Um dia, quando ele estava ensinando, achavam-se ali sentados fariseus e doutores da lei, que tinham vindo de todas as #aldeias da Galileia e da Judeia, e de Jerusalém; e o poder do Senhor estava com ele para curar."
 "E eis que uns homens, trazendo num leito um paralítico, procuravam introduzi-lo e pô-lo diante dele."
 "Mas, não achando por onde o pudessem introduzir por causa da multidão, subiram ao eirado e, por entre as telhas, o baixaram com o leito, para o meio de todos, diante de Jesus."
 "E vendo-lhes a fé, disse ele

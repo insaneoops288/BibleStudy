@@ -8,7 +8,7 @@
 "Közeledjetek az Istenhez, és közeledni fog hozzátok. Tisztítsátok meg kezeiteket, ti bûnösök, és szenteljétek meg szíveiteket ti kétszívûek."
 "Nyomorkodjatok és gyászoljatok és sírjatok; a ti nevetéstek gyászra forduljon, és örömötök szomorúságra."
 "Alázzátok meg magatokat az Úr elõtt, és felmagasztal titeket."
-"Ne szóljátok meg egymást atyámfiai. A ki megszólja atyjafiát, és a ki kárhoztatja atyjafiát, az a törvény ellen szól, és a törvényt kárhoztatja. Ha pedig a törvényt kárhoztatod, nem megtartója, hanem bírája vagy a törvénynek."
+"Ne szóljátok meg egymást atyámfiai. A ki megszólja atyjafiát, és a ki kárhoztatja atyjafiát, az a törvény ellen #szól, és a törvényt kárhoztatja. Ha pedig a törvényt kárhoztatod, nem megtartója, hanem bírája vagy a törvénynek."
 "Egy a törvényhozó, a ki hatalmas megtartani és elveszíteni
 "Nosza immár ti, a kik azt mondjátok
 "A kik nem tudjátok mit hoz a holnap

@@ -1,10 +1,10 @@
 "Wtedy słowo PANA doszło do Jehu, syna Chananiego, przeciw Baszy
-"Ponieważ wywyższyłem cię z prochu i ustanowiłem cię wodzem nad swoim ludem Izraelem, a ty poszedłeś drogą Jeroboama i skłoniłeś do grzechu mój lud, Izraela, aby mnie pobudzić do gniewu jego grzechami;"
+"Ponieważ wywyższyłem cię z prochu i ustanowiłem cię wodzem nad swoim ludem Izraelem, a ty poszedłeś drogą #Jeroboama i skłoniłeś do grzechu mój lud, Izraela, aby mnie pobudzić do gniewu jego grzechami;"
 "Oto zgładzę potomstwo Baszy i potomstwo jego domu i postąpię z twoim domem jak z domem Jeroboama, syna Nebata."
 "Tego, kto z rodu Baszy umrze w mieście, zjedzą psy, a tego, kto umrze na polu, zjedzą powietrzne ptaki."
 "A pozostałe dzieje Baszy i to, co czynił, i jego potęga, czyż nie są zapisane w kronikach królów Izraela?"
 "Potem Basza zasnął ze swoimi ojcami i został pogrzebany w Tirsie, a jego syn Ela królował w jego miejsce."
-"Ponownie przez proroka Jehu, syna Chananiego, doszło słowo PANA przeciw Baszy i przeciw jego domowi za całe zło, które czynił w oczach PANA, pobudzając go do gniewu czynami swoich rąk, stając się podobnym do domu Jeroboama, i za to, że go zabił."
+"Ponownie przez proroka Jehu, syna Chananiego, doszło słowo PANA przeciw Baszy i przeciw jego domowi za całe zło, które czynił w oczach #PANA, pobudzając go do gniewu czynami swoich rąk, stając się podobnym do domu Jeroboama, i za to, że go zabił."
 "W dwudziestym szóstym roku Asy, króla Judy, nad Izraelem w Tirsie zaczął królować Ela, syn Baszy, i królował dwa lata."
 "A jego sługa Zimri, dowódca połowy rydwanów, uknuł spisek przeciw niemu, gdy w Tirsie Ela oddawał się pijaństwu w domu Arsy, szafarza domu królewskiego w Tirsie."
 "Zimri wszedł tam, uderzył go i zabił – w dwudziestym siódmym roku Asy, króla Judy, i królował w jego miejsce."
@@ -31,4 +31,4 @@
 "A jakby nie wystarczyło mu popełnianie grzechów Jeroboama, syna Nebata, to jeszcze pojął za żonę Jezabel, córkę Etbaala, króla Sydończyków, i zaczął służyć Baalowi i oddawać mu pokłon."
 "I wzniósł ołtarz dla Baala w domu Baala, który zbudował w Samarii."
 "Achab zasadził też gaj. Achab czynił więcej, by pobudzać PANA, Boga Izraela, do gniewu niż wszyscy królowie Izraela, którzy byli przed nim."
-"Za jego czasów Chiel z Betel odbudował Jerycho. Założył fundamenty na Abiramie, swoim pierworodnym, a na Segubie, swoim najmłodszym synu, postawił jego bramy – według słowa PANA, które wypowiedział przez Jozuego, syna Nuna."
+"Za jego czasów Chiel z Betel odbudował Jerycho. Założył fundamenty na Abiramie, swoim pierworodnym, a na Segubie, #swoim najmłodszym synu, postawił jego bramy – według słowa PANA, które wypowiedział przez Jozuego, syna Nuna."

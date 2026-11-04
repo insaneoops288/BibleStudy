@@ -11,6 +11,6 @@
 "At sinabi ni Aaron kay Moises, Oh panginoon ko, isinasamo ko sa iyo na huwag mong iparatang ang kasalanan sa amin, sapagka't ginawa namin na may kamangmangan, at sapagka't kami ay nagkasala."
 "Huwag mong itulot sa kaniya, isinasamo ko sa iyo, na maging parang isang patay na tunaw ang kalahati ng kaniyang laman paglabas sa tiyan ng kaniyang ina."
 "At humibik si Moises sa Panginoon, na sinasabi, Pagalingin mo siya, Oh Dios, ipinamamanhik ko sa iyo."
-"At sinabi ng Panginoon kay Moises, Kung siya'y niluran ng kaniyang ama sa kaniyang mukha, hindi ba siya mahihiyang pitong araw? kulungin siyang pitong araw sa labas ng kampamento, at pagkatapos ay madadala siyang muli sa loob."
+"At sinabi ng Panginoon kay Moises, Kung siya'y niluran ng kaniyang ama sa kaniyang mukha, hindi ba siya mahihiyang #pitong araw? kulungin siyang pitong araw sa labas ng kampamento, at pagkatapos ay madadala siyang muli sa loob."
 "At si Miriam ay kinulong na pitong araw sa labas ng kampamento
 "At pagkatapos nito ay naglakbay ang bayan mula sa Haseroth, at humantong sa ilang ng Paran."

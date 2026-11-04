@@ -1,11 +1,11 @@
-"Fez, pois, Bezalel e Aoliabe, e todo homem sábio de coração, a quem o SENHOR deu sabedoria e inteligência para que soubessem fazer toda a obra do serviço do santuário, todas as coisas que havia mandado o SENHOR."
-"E Moisés chamou a Bezalel e a Aoliabe, e a todo homem sábio de coração, em cujo coração havia dado o SENHOR sabedoria, e a todo homem a quem seu coração lhe moveu a chegar-se à obra, para trabalhar nela;"
+"Fez, pois, Bezalel e Aoliabe, e todo homem sábio de coração, a quem o SENHOR deu sabedoria e inteligência para #que soubessem fazer toda a obra do serviço do santuário, todas as coisas que havia mandado o SENHOR."
+"E Moisés chamou a Bezalel e a Aoliabe, e a todo homem sábio de coração, em cujo coração havia dado o #SENHOR sabedoria, e a todo homem a quem seu coração lhe moveu a chegar-se à obra, para trabalhar nela;"
 "E tomaram de diante de Moisés toda a oferta que os filhos de Israel haviam trazido para a obra do serviço do santuário, a fim de fazê-la. E eles lhe traziam ainda oferta voluntária cada manhã."
 "Vieram, portanto, todos os mestres que faziam toda a obra do santuário, cada um da obra que fazia."
 "E falaram a Moisés, dizendo
 "Então Moisés mandou apregoar pelo acampamento, dizendo
 "Pois tinha material abundante para fazer toda a obra, e sobrava."
-"E todos os sábios de coração entre os que faziam a obra, fizeram o tabernáculo de dez cortinas, de linho torcido, e de material azul, e de púrpura e carmesim; as quais fizeram de obra prima, com querubins."
+"E todos os sábios de coração entre os que faziam a obra, fizeram o tabernáculo de dez cortinas, de linho #torcido, e de material azul, e de púrpura e carmesim; as quais fizeram de obra prima, com querubins."
 "O comprimento da uma cortina era de vinte e oito côvados, e a largura de quatro côvados
 "E juntou as cinco cortinas a uma com a outra
 "E fez as laçadas de cor de material azul na orla de uma cortina, na margem, à juntura; e assim fez na orla à extremidade da segunda cortina, na juntura."

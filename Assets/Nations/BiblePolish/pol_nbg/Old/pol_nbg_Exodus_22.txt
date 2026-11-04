@@ -5,7 +5,7 @@
 "Kiedy wyniknie ogień, zajmie żywopłot z cierni i spali stóg, albo stojące zboże, albo pole to zapłaci ten, który wzniecił pożar."
 "Jeśli ktoś powierzył swojemu bliźniemu pieniądze, albo naczynia do przechowania, a zostanie to wykradzione z domu tego człowieka i zostanie wykryty złodziej zapłaci on w dwójnasób."
 "Zaś jeśli złodziej nie został wykryty to pan domu stawi się w tej sprawie przed sędziów, że nie wyciągnął swojej ręki na własność swojego bliźniego."
-"O każdy przedmiot sprzeniewierzenia, o byka, o osła, o jagnię, o szatę; o każdą zgubę, o której ktokolwiek powie, że to tak sprawa obydwu przyjdzie przed sędziów. A kogo sędziowie skażą ten w dwójnasób zapłaci swojemu bliźniemu."
+"O każdy przedmiot sprzeniewierzenia, o byka, o osła, o jagnię, o szatę; o każdą zgubę, o której ktokolwiek powie, #że to tak sprawa obydwu przyjdzie przed sędziów. A kogo sędziowie skażą ten w dwójnasób zapłaci swojemu bliźniemu."
 "Jeżeli ktoś da swojemu bliźniemu do chowania osła, albo byka, albo jagnię, albo inne bydło a zdechnie, zostanie okaleczone, albo zabrane, a nikt by tego nie widział,"
 "to pomiędzy obydwoma będzie przysięga na WIEKUISTEGO, że nie wyciągnął swej ręki na własność swojego bliźniego; i właściciel ją przyjmie a tamten nie będzie płacił."
 "Lecz jeżeli została mu skradziona winien zapłacić jej właścicielowi."

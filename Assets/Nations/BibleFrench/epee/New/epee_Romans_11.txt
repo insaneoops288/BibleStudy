@@ -3,7 +3,7 @@
 "Seigneur, ils ont tué tes prophètes, et ils ont démoli tes autels; et je suis demeuré seul, et ils cherchent à m'ôter la vie?"
 "Mais quel lui fut la réponse de Dieu? Je me suis réservé sept mille hommes, qui n'ont point fléchi le genou devant Bahal."
 "Et même en ce temps présent, il existe un reste selon l'élection de la grâce."
-"Or, si c'est par grâce, ce n'est plus par les oeuvres; autrement la grâce ne serait plus une grâce; au contraire, si c'est par les oeuvres, ce n'est plus par la grâce; autrement les oeuvres ne seraient plus des oeuvres."
+"Or, si c'est par grâce, ce n'est plus par les oeuvres; autrement la grâce ne serait plus une grâce; au contraire, #si c'est par les oeuvres, ce n'est plus par la grâce; autrement les oeuvres ne seraient plus des oeuvres."
 "Quoi donc? Ce qu'Israël recherche, il ne l'a point obtenu, mais les élus l'ont obtenu, et les autres ont été aveuglés,"
 "Selon qu'il est écrit
 "Et David dit
@@ -19,10 +19,10 @@
 "Tu diras
 "Fort bien; ils ont été éloignés à cause de leur incrédulité; mais toi, tu subsistes par la foi; ne t'enorgueillis point, mais crains."
 "Car si Dieu n'a point toléré les rameaux naturels, prends garde qu'il ne t'approuve pas non plus."
-"Considère donc la bonté et la sévérité de Dieu; sa sévérité à l'égard de ceux qui sont tombés, mais sa bonté envers toi, si tu persévères dans cette bonté; autrement, sans la foi, toi aussi tu seras attristé."
+"Considère donc la bonté et la sévérité de Dieu; sa sévérité à l'égard de ceux qui sont tombés, mais sa #bonté envers toi, si tu persévères dans cette bonté; autrement, sans la foi, toi aussi tu seras attristé."
 "Et quant à eux, s'ils ne persévèrent pas dans l'incrédulité, ils seront entés; car Dieu a le pouvoir de les enter de nouveau."
-"En effet, si tu as été coupé de l'olivier sauvage de sa nature, et si contre l'ordre de la nature, tu as été enté sur un olivier franc; combien plus ceux-ci qui sont les rameaux naturels seront-ils entés sur leur propre olivier?"
-"Car je ne veux pas, frères, que vous ignoriez ce mystère, afin que vous ne soyez pas sages à vos propres yeux; c'est qu'une partie d'Israël est tombée dans l'aveuglement, pour que toute la multitude des Gentils soit pénétrée de l'Évangile."
+"En effet, si tu as été coupé de l'olivier sauvage de sa nature, et si contre l'ordre de la nature, tu as #été enté sur un olivier franc; combien plus ceux-ci qui sont les rameaux naturels seront-ils entés sur leur propre olivier?"
+"Car je ne veux pas, frères, que vous ignoriez ce mystère, afin que vous ne soyez pas sages à vos propres #yeux; c'est qu'une partie d'Israël est tombée dans l'aveuglement, pour que toute la multitude des Gentils soit pénétrée de l'Évangile."
 "Et de la même manière que les Gentils, Israël sera racheté, comme il est écrit
 "Et ce sera mon alliance avec eux, lorsque j'effacerai leurs péchés."
 "Il est vrai qu'ils sont ennemis par rapport à l'Évangile, à cause de vous; mais à l'égard de l'élection, ils sont aimés à cause de leurs pères,"

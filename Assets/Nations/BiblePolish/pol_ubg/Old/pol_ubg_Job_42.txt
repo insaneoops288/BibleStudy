@@ -5,10 +5,10 @@
 "Dotąd tylko moje ucho słyszało o tobie, lecz teraz moje oko cię ujrzało."
 "Dlatego żałuję i pokutuję w prochu i popiele."
 "A gdy PAN wypowiedział te słowa do Hioba, powiedział PAN do Elifaza z Temanu
-"Teraz więc weźcie sobie siedem cielców i siedem baranów, idźcie do mego sługi Hioba i złóżcie całopalenie za siebie; a Hiob, mój sługa, będzie się modlił za was, bo jego przyjmę, abym nie uczynił z wami według waszej głupoty. Nie mówiliście bowiem o mnie prawdy jak mój sługa Hiob."
+"Teraz więc weźcie sobie siedem cielców i siedem baranów, idźcie do mego sługi Hioba i złóżcie całopalenie za siebie; a Hiob, mój sługa, będzie się #modlił za was, bo jego przyjmę, abym nie uczynił z wami według waszej głupoty. Nie mówiliście bowiem o mnie prawdy jak mój sługa Hiob."
 "Poszli więc Elifaz z Temanu, Bildad z Szuach i Sofar z Naamy i uczynili, jak PAN im rozkazał. PAN także przyjął Hioba."
 "PAN przywrócił to, co zostało zabrane Hiobowi, gdy się modlił za swoich przyjaciół. PAN także pomnożył Hiobowi w dwójnasób wszystko, co miał."
-"Wtedy zeszli się do niego wszyscy jego bracia, wszystkie jego siostry i wszyscy dawni znajomi i jedli z nim chleb w jego domu. Ubolewali nad nim i pocieszali go z powodu wszystkich nieszczęść, które PAN sprowadził na niego. Każdy dał mu po jednym srebrniku i każdy po jednym złotym kolczyku."
+"Wtedy zeszli się do niego wszyscy jego bracia, wszystkie jego siostry i wszyscy dawni znajomi i jedli z nim chleb w jego domu. Ubolewali nad nim #i pocieszali go z powodu wszystkich nieszczęść, które PAN sprowadził na niego. Każdy dał mu po jednym srebrniku i każdy po jednym złotym kolczyku."
 "I tak PAN błogosławił ostatnie lata Hioba bardziej niż początkowe. Miał bowiem czternaście tysięcy owiec, sześć tysięcy wielbłądów, tysiąc jarzm wołów i tysiąc oślic."
 "Miał też siedmiu synów i trzy córki."
 "I nadał pierwszej imię Jemima, drugiej Kecja i trzeciej Kerenhappuk."

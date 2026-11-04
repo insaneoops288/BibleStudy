@@ -1,7 +1,7 @@
 "Agurnak, a Jáké fiának beszédei, próféczia, melyet mondott a férfiú Itielnek, Itielnek és Ukálnak."
 "Minden embernél tudatlanabb vagyok én, és nincs emberi értelem én bennem."
 "És nem tanultam a bölcseséget, hogy a Szentnek ismeretét tudnám."
-"Kicsoda ment fel az égbe, hogy onnan leszállott volna? Kicsoda fogta össze a szelet az õ markába? Kicsoda kötötte a vizet az õ köntösébe? Ki állapította meg a földnek minden határit? Kicsoda ennek neve? Avagy kicsoda ennek fiának neve, ha tudod?"
+"Kicsoda ment fel az égbe, hogy onnan leszállott volna? Kicsoda fogta össze a szelet az õ markába? Kicsoda kötötte a vizet #az õ köntösébe? Ki állapította meg a földnek minden határit? Kicsoda ennek neve? Avagy kicsoda ennek fiának neve, ha tudod?"
 "Az Istennek teljes beszéde igen tiszta, és paizs az ahhoz folyamodóknak."
 "Ne tégy az õ beszédéhez; hogy meg ne feddjen téged, és hazug ne légy."
 "Kettõt kérek tõled; ne tartsd meg én tõlem, mielõtt meghalnék."

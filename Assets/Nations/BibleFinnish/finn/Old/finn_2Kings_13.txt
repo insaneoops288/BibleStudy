@@ -4,7 +4,7 @@
 "Mutta Joahas rukoili Herran kasvoja, ja Herra kuuli häntä; sillä hän näki Israelin ahdistuksen, kuinka Syrian kuningas ahdisti heitä,"
 "Ja Herra antoi Israelille pelastajan, joka heidät johdatti ulos Syrialaisten käsistä, niin että Israelin lapset asuivat majassansa niinkuin ennenkin."
 "Ei he kuitenkaan luopuneet Jerobeamin huoneen synneistä, joka Israelin saatti syntiä tekemään, vaan hekin vaelsivat niissä; ja metsistö seisoi Samariassa."
-"Mutta Joahaksen kansasta ei enempää jäänyt, kuin viisikymmentä hevosmiestä, ja kymmenen vaunua, ja kymmenentuhatta jalkamiestä; sillä Syrian kuningas oli heidät hukuttanut ja tehnyt niinkuin tomun, riihtä tapettaissa."
+"Mutta Joahaksen kansasta ei enempää jäänyt, kuin viisikymmentä hevosmiestä, ja kymmenen vaunua, ja kymmenentuhatta #jalkamiestä; sillä Syrian kuningas oli heidät hukuttanut ja tehnyt niinkuin tomun, riihtä tapettaissa."
 "Mitä enempi Joahaksesta sanomista on, ja kaikista, mitä hän tehnyt on, ja hänen voimastansa
 "Ja Joahas nukkui isäinsä kanssa, ja he hautasivat hänen Samariaan; ja hänen poikansa Joas tuli kuninkaaksi hänen siaansa."
 "Joaksen Juudan kuninkaan seitsemäntenä vuonna neljättäkymmentä oli Joas Joahaksen poika Israelin kuningas Samariassa kuusitoistakymmentä ajastaikaa,"
@@ -18,8 +18,8 @@
 "Ja hän sanoi
 "Niin Jumalan mies närkästyi hänen päällensä ja sanoi
 "Kuin Elisa oli kuollut, ja he olivat hänen haudanneet, tuli Moabilaisten sotajoukko maakuntaan sinä vuonna."
-"Ja tapahtui, että he hautasivat yhtä miestä, ja kuin he saivat nähdä sotajoukon, heittivät he miehen Elisan hautaan; ja kuin hän sinne tuli ja sattui Elisan luihin, tuli hän eläväksi ja nousi jaloillensa."
+"Ja tapahtui, että he hautasivat yhtä miestä, ja kuin he saivat nähdä sotajoukon, heittivät he miehen Elisan #hautaan; ja kuin hän sinne tuli ja sattui Elisan luihin, tuli hän eläväksi ja nousi jaloillensa."
 "Ja Hasael Syrian kuningas ahdisti Israelia, niinkauvan kuin Joahas eli."
-"Mutta Herra teki armon heidän kanssansa, ja armahti heidän päällensä, ja käänsi itsensä heidän puoleensa, liittonsa tähden Abrahamin, Isaakin ja Jakobin kanssa, ja ei tahtonut kadottaa heitä, eikä heittänyt heitä pois kasvoinsa edestä tähän asti."
+"Mutta Herra teki armon heidän kanssansa, ja armahti heidän päällensä, ja käänsi itsensä heidän puoleensa, liittonsa tähden Abrahamin, #Isaakin ja Jakobin kanssa, ja ei tahtonut kadottaa heitä, eikä heittänyt heitä pois kasvoinsa edestä tähän asti."
 "Ja Hasael Syrian kuningas kuoli, ja hänen poikansa Benhadad tuli kuninkaaksi hänen siaan."
-"Ja Joas Joahaksen poika palasi ja otti ne kaupungit Benhadadilta Hasaelin pojalta jälleen, jotka hän hänen isältänsä Joahakselta sodalla ottanut oli. Joas löi kolmasti häntä, ja sai Israelin kaupungit jälleen."
+"Ja Joas Joahaksen poika palasi ja otti ne kaupungit Benhadadilta Hasaelin pojalta jälleen, jotka hän hänen #isältänsä Joahakselta sodalla ottanut oli. Joas löi kolmasti häntä, ja sai Israelin kaupungit jälleen."

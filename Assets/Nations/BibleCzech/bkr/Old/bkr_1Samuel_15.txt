@@ -1,6 +1,6 @@
 "Řekl pak Samuel Saulovi
 "Takto praví Hospodin zástupů
-"Protož i hned táhni a zkaz Amalecha, a zahlaďte jako proklaté všecko, což má. Neslitovávejž se nad ním, ale zahub od muže až do ženy, od malého až do toho, kterýž prsí požívá, od vola také až do ovce, a od velblouda až do osla."
+"Protož i hned táhni a zkaz Amalecha, a zahlaďte jako proklaté všecko, což má. Neslitovávejž se nad ním, ale zahub od muže až #do ženy, od malého až do toho, kterýž prsí požívá, od vola také až do ovce, a od velblouda až do osla."
 "Sebral tedy Saul lid, a sečtl je v Telaim, dvakrát sto tisíc pěších, a deset tisíc mužů Judských."
 "A přitáhl Saul až k městu Amalechovu, aby bojoval v údolí jeho."
 "I řekl Saul Cinejským

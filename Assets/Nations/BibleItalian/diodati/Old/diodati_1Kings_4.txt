@@ -10,7 +10,7 @@
 "Il figliuolo di Hesed, in Arubbot; del suo ripartimento era Soco, e tutto il paese di Hefer."
 "Il figliuolo di Abinadab, in tutta la contrada di Dor; costui ebbe per moglie Tafat, figliuola di Salomone."
 "Baana, figliuolo di Ahilud, in Taanac, ed in Meghiddo, ed in tutta la contrada di Bet-sean, che è presso di Sartan, disotto ad Izreel, da Bet-sean fino ad Abel-mehola, fin di là da Iocmeam."
-"Il figliuolo di Gheber, in Ramot di Galaad; del suo ripartimento erano le villate di Iair, figliuol di Manasse, che sono in Galaad; ed anche la contrada di Argob che è in Basan; sessanta gran città murate, con isbarre di rame."
+"Il figliuolo di Gheber, in Ramot di Galaad; del suo ripartimento erano le villate di Iair, figliuol di Manasse, che sono #in Galaad; ed anche la contrada di Argob che è in Basan; sessanta gran città murate, con isbarre di rame."
 "Ahinadab, figliuolo d’Iddo, in Mahanaim."
 "Ahimaas, in Neftali; ancora costui prese una figliuola di Salomone, cioè
 "Baana, figliuolo di Husai, in Aser, ed in Alot."
@@ -18,7 +18,7 @@
 "Simi, figliuolo di Ela, in Beniamino."
 "Gheber, figliuolo di Uri, nel paese di Galaad, che fu il paese di Sihon, re degli Amorrei, e di Og, re di Basan; ed era solo commissario in quel paese."
 "Giuda ed Israele erano in gran numero; erano come la rena ch’è in sul lito del mare, in moltitudine; mangiavano, e beveano, e si rallegravano."
-"E Salomone signoreggiava sopra tutti i regni di qua dal Fiume, infino al paese de’ Filistei, ed infino a’ confini di Egitto; essi portavano presenti a Salomone, e furono suoi soggetti tutto il tempo della vita sua."
+"E Salomone signoreggiava sopra tutti i regni di qua dal Fiume, infino al paese de’ Filistei, ed infino a’ #confini di Egitto; essi portavano presenti a Salomone, e furono suoi soggetti tutto il tempo della vita sua."
 "Ora la provvisione della vittuaglia di Salomone, per ciascun giorno, era di trenta cori di fior di farina, e di sessanta cori d’altra farina;"
 "di dieci buoi grassi, e di venti buoi di pasco, e di cento montoni, oltre a’ cervi, e cavriuoli, e daini, e pollame di stia."
 "Perciocchè egli signoreggiava in tutto il paese di qua del Fiume, da Tifsa fino in Gaza, sopra tutti i re ch’erano di qua dal Fiume; ed avea pace d’intorno a sè da ogni lato."

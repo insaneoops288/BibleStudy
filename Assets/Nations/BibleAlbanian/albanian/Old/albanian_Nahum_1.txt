@@ -12,4 +12,4 @@
 "Kështu thotë Zoti
 "Tani do të thyej zgjedhën e saj nga trupi yt dhe do t'i shkul lidhjet e tua""."
 "Por lidhur me ty Zoti ka dhënë këtë urdhër
-"Ja mbi male këmbët e atij që njofton lajme të mira dhe që shpall paqen! Kremto festat e tua solemne, o Judë, plotëso betimet e tua, sepse i ligu nuk do të kalojë më në mes teje; ai do të shfaroset krejt."
+"Ja mbi male këmbët e atij që njofton lajme të mira dhe që shpall paqen! Kremto festat e tua solemne, o Judë, #plotëso betimet e tua, sepse i ligu nuk do të kalojë më në mes teje; ai do të shfaroset krejt."

@@ -23,7 +23,7 @@
 "Vyšpehujtež tedy a vyzvězte všecky skrejše, v nichž se kryje, a navraťte se ke mně s věcí jistou, i potáhnu s vámi, a jestliže v zemi jest, hledati ho budu ve všech tisících Judských."
 "Kteřížto vstavše, navrátili se do Zif před Saulem; David pak a muži jeho byli na poušti Maon, na rovinách po pravé straně pouště."
 "Nebo jakž vytáhl Saul s lidem svým hledati ho, oznámeno bylo to Davidovi, kterýž sstoupil s skály a bydlil na poušti Maon. O čemž Saul uslyšav, honil Davida po poušti Maon."
-"A tak Saul táhl s jedné strany hory, David pak a muži jeho po druhé straně hory. A pospíšil David, aby mohl utéci od tváři Saulovy; nebo Saul s lidem svým obkličovali Davida i muže jeho, aby je zjímali."
+"A tak Saul táhl s jedné strany hory, David pak a muži jeho po druhé straně hory. A pospíšil David, #aby mohl utéci od tváři Saulovy; nebo Saul s lidem svým obkličovali Davida i muže jeho, aby je zjímali."
 "V tom přišel posel k Saulovi, řka
 "A protož navrátil se Saul od honění Davida, táhl proti Filistinským. Pročež nazvali to místo
 

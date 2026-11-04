@@ -6,7 +6,7 @@
 "(I ati i tij nuk e kishte qortuar kurrë në jetën e tij, duke i thënë
 "Ai u mor vesh me Joabin, birin e Tserujahut, dhe me priftin Abiathar, të cilët i vajtën pas Adonijahut dhe e ndihmuan."
 "Por prifti Tsadok, Benajathi, bir i Jehojadit, profeti Nathan, Shimei, Rei dhe trimat e Davidit nuk ishin me Adonijahun."
-"Adonijahu flijoi dele, qe dhe viça të majmë pranë shkëmbit të Zoheletit, që ndodhet afër kroit të Rogelit dhe ftoi të gjithë vëllezërit e tij, bij të mbretit, dhe të gjithë njerëzit e Judës që ishin në shërbim të mbretit."
+"Adonijahu flijoi dele, qe dhe viça të majmë pranë shkëmbit të Zoheletit, që ndodhet afër kroit të Rogelit dhe ftoi të #gjithë vëllezërit e tij, bij të mbretit, dhe të gjithë njerëzit e Judës që ishin në shërbim të mbretit."
 "Por nuk ftoi profetin Nathan, as Banajahun, as trimat, as Salomonin, vëllanë e tij."
 "Atëherë Nathani i foli Bath-Shebës, nënës së Salomonit, dhe i tha
 "Prandaj më lejo të të jap një këshillë, që të shpëtosh jetën tënde dhe atë të birit tënd, Salomonit."
@@ -22,7 +22,7 @@
 "Ndërsa ajo fliste akoma me mbretin, arriti profeti Nathan."
 "Atëherë ia njoftuan mbretit ngjarjen, duke thënë
 "Nathani tha
-"Në fakt sot ai zbriti dhe flijoi një numër të madh qesh, viçash të majmë dhe delesh, ftoi tërë bijtë e mbretit, krerët e ushtrisë dhe priftin Abiathar; dhe ja tani ata po hanë e pinë përpara tij dhe thonë
+"Në fakt sot ai zbriti dhe flijoi një numër të madh qesh, viçash të majmë dhe delesh, ftoi tërë bijtë e #mbretit, krerët e ushtrisë dhe priftin Abiathar; dhe ja tani ata po hanë e pinë përpara tij dhe thonë
 "Por ai nuk më ka ftuar mua, shërbëtorin tënd, as priftin Tsadok, as Benajahun, birin e Jehojadit, as Salomonin, shërbëtorin tënd."
 "Kjo, a u bë pikërisht nga mbreti, zoti im, pa i njoftuar shërbëtorit tënd kush do të ulet në fronin e mbretit, të zotit tim, mbas tij?""."
 "Mbreti David, duke u përgjigjur, tha

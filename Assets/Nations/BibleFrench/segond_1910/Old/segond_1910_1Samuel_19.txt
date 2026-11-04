@@ -2,7 +2,7 @@
 "Mais Jonathan, fils de Saül, qui avait une grande affection pour David, l'en informa et lui dit
 "Je sortirai et je me tiendrai à côté de mon père dans le champ où tu seras; je parlerai de toi à mon père, je verrai ce qu'il dira, et je te le rapporterai."
 "Jonathan parla favorablement de David à Saül, son père
-"il a exposé sa vie, il a tué le Philistin, et l'Eternel a opéré une grande délivrance pour tout Israël. Tu l'as vu, et tu t'en es réjoui. Pourquoi pécherais-tu contre le sang innocent, et ferais-tu sans raison mourir David?"
+"il a exposé sa vie, il a tué le Philistin, et l'Eternel a opéré une grande délivrance pour tout Israël. Tu #l'as vu, et tu t'en es réjoui. Pourquoi pécherais-tu contre le sang innocent, et ferais-tu sans raison mourir David?"
 "Saül écouta la voix de Jonathan, et il jura, disant
 "Jonathan appela David, et lui rapporta toutes ces paroles; puis il l'amena auprès de Saül, en présence de qui David fut comme auparavant."
 "La guerre continuait. David marcha contre les Philistins, et se battit avec eux; il leur fit éprouver une grande défaite, et ils s'enfuirent devant lui."
@@ -17,7 +17,7 @@
 "Saül dit à Mical
 "C'est ainsi que David prit la fuite et qu'il échappa. Il se rendit auprès de Samuel à Rama, et lui raconta tout ce que Saül lui avait fait. Puis il alla avec Samuel demeurer à Najoth."
 "On le rapporta à Saül, en disant
-"Saül envoya des gens pour prendre David. Ils virent une assemblée de prophètes qui prophétisaient, ayant Samuel à leur tête. L'esprit de Dieu saisit les envoyés de Saül, et ils se mirent aussi à prophétiser eux-mêmes."
+"Saül envoya des gens pour prendre David. Ils virent une assemblée de prophètes qui prophétisaient, ayant Samuel à leur #tête. L'esprit de Dieu saisit les envoyés de Saül, et ils se mirent aussi à prophétiser eux-mêmes."
 "On en fit rapport à Saül, qui envoya d'autres gens, et eux aussi prophétisèrent. Il en envoya encore pour la troisième fois, et ils prophétisèrent également."
 "Alors Saül alla lui-même à Rama. Arrivé à la grande citerne qui est à Sécou, il demanda
 "Et il se dirigea vers Najoth, près de Rama. L'esprit de Dieu fut aussi sur lui; et Saül continua son chemin en prophétisant, jusqu'à son arrivée à Najoth, près de Rama."

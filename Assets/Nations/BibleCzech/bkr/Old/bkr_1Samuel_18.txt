@@ -3,7 +3,7 @@
 "I učinil Jonata s Davidem smlouvu, proto že ho miloval jako duši svou."
 "A složiv Jonata s sebe plášť, kterýmž byl odín, dal jej Davidovi, i roucho své, až do meče svého, a až do lučiště svého, i do pasu svého."
 "Vycházel pak David, k čemuž ho koli posílal Saul, opatrně sobě počínaje. I ustanovil ho Saul nad vojáky, a líbil se všemu lidu, též i služebníkům Saulovým."
-"Stalo se pak, když se oni domů brali, a David též se navracoval od zabití Filistinského, že vyšly ženy z každého města Izraelského, zpívajíce a plésajíce, vstříc Saulovi králi s bubny, s veselím a s husličkami."
+"Stalo se pak, když se oni domů brali, a David též se navracoval od zabití Filistinského, že vyšly ženy #z každého města Izraelského, zpívajíce a plésajíce, vstříc Saulovi králi s bubny, s veselím a s husličkami."
 "A prozpěvovaly jedny po druhých ženy ty, hrajíce, a řekly
 "I rozhněval se Saul náramně, nebo nelíbila se mu ta řeč. Pročež řekl
 "Protož Saul zlobivě hleděl na Davida od toho dne i vždycky."
@@ -24,7 +24,7 @@
 "Tedy služebníci Saulovi oznámili jemu, řkouce
 "I řekl Saul
 "Protož oznámili služebníci jeho Davidovi slova ta, a líbilo se to Davidovi, aby byl zetěm královým. Ještě se pak nebyli vyplnili dnové ti,"
-"Když vstav David, odšel, on i muži jeho, a zbil z Filistinských dvě stě mužů, jejichž obřízky přinesl David, a z úplna je dali králi, aby byl zetěm královým. I dal jemu Saul Míkol dceru svou za manželku."
+"Když vstav David, odšel, on i muži jeho, a zbil z Filistinských dvě stě mužů, jejichž obřízky přinesl David, a #z úplna je dali králi, aby byl zetěm královým. I dal jemu Saul Míkol dceru svou za manželku."
 "A vida Saul, nýbrž zkušené maje, že jest Hospodin s Davidem, a že Míkol dcera jeho miluje ho,"
 "Ještě tím více Saul obával se Davida. I byl Saul nepřítelem Davidovým po všecky dny."
 "Vtrhovali pak do země knížata Filistinská; i bývalo, že kdyžkoli vycházeli, opatrněji sobě počínal David proti nim nade všecky služebníky Saulovy, pročež i jméno jeho bylo velmi slavné."

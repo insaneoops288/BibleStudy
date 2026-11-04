@@ -12,4 +12,4 @@
 "Astfel spune DOMNUL
 "Fiindcă acum voi sfărâma jugul lui de pe tine și îţi voi rupe legăturile."
 "Și DOMNUL a dat o poruncă referitor la tine, [ca] numele tău să nu mai fie semănat; din casa dumnezeilor tăi voi stârpi chipul cioplit și chipul turnat; îţi voi săpa mormântul, căci ești nemernic."
-"Iată, pe munţi picioarele celui ce aduce vești bune, care vestește pacea! Iudo, ţine-ţi sărbătorile solemne, împlinește-ţi promisiunile, căci cel stricat nu va mai trece prin tine; el este stârpit deplin."
+"Iată, pe munţi picioarele celui ce aduce vești bune, care vestește pacea! Iudo, ţine-ţi sărbătorile solemne, #împlinește-ţi promisiunile, căci cel stricat nu va mai trece prin tine; el este stârpit deplin."

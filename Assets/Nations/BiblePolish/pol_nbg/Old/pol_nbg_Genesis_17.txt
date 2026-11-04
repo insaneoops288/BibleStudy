@@ -9,7 +9,7 @@
 "Bóg także powiedział do Abrahama
 "Oto Moje Przymierze, którego będziecie przestrzegać, pomiędzy Mną a wami oraz twoim potomstwem po tobie
 "Obrzeżcie więc, ciało waszego napletka i to będzie znakiem przymierza pomiędzy Mną a wami."
-"W wieku ośmiu dni, w waszych pokoleniach ma być u was obrzezana cała płeć męska; zarówno urodzony w domu, jak i nabyty za pieniądze z jakiegokolwiek, cudzego rodu, który nie jest z twojego potomstwa."
+"W wieku ośmiu dni, w waszych pokoleniach ma być u was obrzezana cała płeć męska; zarówno urodzony w #domu, jak i nabyty za pieniądze z jakiegokolwiek, cudzego rodu, który nie jest z twojego potomstwa."
 "Obrzezanym ma być urodzony w twoim domu oraz nabyty za twe pieniądze. I niech Moje Przymierze wobec S waszej cielesnej natury będzie przymierzem wiecznym."
 "Zaś nieobrzezany mężczyzna, który by nie obrzezał cielesnej natur swojego napletka ta osoba ma być wytępiona ze swego ludu, gdyż zerwał Moje Przymierze."
 "Bóg powiedział też do Abrahama
@@ -20,7 +20,7 @@
 "Ale też wysłuchałem cię względem Iszmaela
 "Ale Moje Przymierze utwierdzę z Ic'hakiem, którego w następnym roku, o obecnej porze urodzi ci Sara."
 "Po czym przestał z nim mówić oraz Bóg wzniósł się od Abrahama."
-"Zatem Abraham wziął swojego syna Iszmael, wszystkich urodzonych w swoim domu i wszystkich nabytych za swe pieniądze wszystkich płci męskiej pomiędzy domownikami Abrahama, i tego samego dnia obrzezał ich napletek, tak, jak Bóg z nim mówił."
+"Zatem Abraham wziął swojego syna Iszmael, wszystkich urodzonych w swoim domu i wszystkich nabytych za swe pieniądze wszystkich płci #męskiej pomiędzy domownikami Abrahama, i tego samego dnia obrzezał ich napletek, tak, jak Bóg z nim mówił."
 "A Abraham miał dziewięćdziesiąt dziewięć lat, gdy obrzezano cielesną naturę jego napletka."
 "Zaś jego syn Iszmael miał trzynaście lat, gdy obrzezano cielesną naturę jego napletka."
 "Tego samego dnia został obrzezany Abraham oraz jego syn Iszmael."

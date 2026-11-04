@@ -1,7 +1,7 @@
 "Pastaj i çova përsëri sytë dhe pashë, dhe ja një rrotull që fluturonte."
 "Engjëlli më tha
 "Atëherë ai më tha
-"Unë do ta bëj të dalë"", thotë Zoti i ushtrive, ""dhe ai do të hyjë në shtëpinë e vjedhësit dhe në shtëpinë e atij që bën betim të rremë në emrin tim; do të mbetet në atë shtëpi dhe do ta konsumojë bashkë me lëndën e saj dhe me gurët e saj""."
+"Unë do ta bëj të dalë"", thotë Zoti i ushtrive, ""dhe ai do të hyjë në shtëpinë e vjedhësit dhe në shtëpinë e atij që bën betim #të rremë në emrin tim; do të mbetet në atë shtëpi dhe do ta konsumojë bashkë me lëndën e saj dhe me gurët e saj""."
 "Pastaj Engjëlli që fliste me mua doli dhe më tha
 "Unë thashë
 "Pastaj, ja, u ngrit një kapak plumbi, dhe kështu në mes të efas rrinte ulur një grua."

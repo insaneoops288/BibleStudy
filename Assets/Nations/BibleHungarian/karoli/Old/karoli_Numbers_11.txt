@@ -22,14 +22,14 @@
 "Nemde juhok és ökrök vágattatnak-é nékik, hogy elég legyen nékik? vagy a tengernek minden hala összegyûjtetik-é nékik, hogy elég legyen nékik?"
 "Akkor monda az Úr Mózesnek
 "Kiméne azért Mózes, és elmondá a népnek az Úr beszédét, és összegyûjte hetven férfiút a nép vénei közül, és állatá õket a sátor körül."
-"Akkor leszálla az Úr felhõben, és szóla néki, és elszakaszta abból a lélekbõl, a mely vala õ benne, és adá a hetven vén férfiúba. Mihelyt pedig megnyugovék õ rajtok a lélek, menten prófétálának, de nem többé."
-"Két férfiú azonban elmaradt vala a táborban; egyiknek neve Eldád, a másiknak neve Médád, és ezeken is megnyugodott vala a lélek; mert azok is az összeírottak közül valók, de nem mentek vala el a sátorhoz, és mégis prófétálának a táborban."
+"Akkor leszálla az Úr felhõben, és szóla néki, és elszakaszta abból a lélekbõl, a mely vala õ benne, és #adá a hetven vén férfiúba. Mihelyt pedig megnyugovék õ rajtok a lélek, menten prófétálának, de nem többé."
+"Két férfiú azonban elmaradt vala a táborban; egyiknek neve Eldád, a másiknak neve Médád, és ezeken is megnyugodott vala a lélek; #mert azok is az összeírottak közül valók, de nem mentek vala el a sátorhoz, és mégis prófétálának a táborban."
 "Elfutamodék azért egy ifjú, és megjelenté Mózesnek, és monda
 "Akkor felele Józsué, a Nún fia, Mózes szolgája, az õ választottai közül való, és monda
 "És felele néki Mózes
 "Ezután visszatére Mózes a táborba, õ és az Izráel vénei."
-"És szél jöve ki az Úrtól, és hoza fürjeket a tengertõl, és bocsátá a táborra egynapi járásnyira egy felõl, és egynapi járásnyira más felõl a tábor körül, és mintegy két sing magasságnyira a földnek színén."
-"Akkor felkele a nép [és] azon az egész napon, és egész éjjel, és az egész következõ napon gyûjtének magoknak fürjeket, a ki keveset gyûjtött is, gyûjtött tíz hómert, és kiteregeték azokat magoknak a tábor körül."
+"És szél jöve ki az Úrtól, és hoza fürjeket a tengertõl, és bocsátá a táborra egynapi járásnyira egy #felõl, és egynapi járásnyira más felõl a tábor körül, és mintegy két sing magasságnyira a földnek színén."
+"Akkor felkele a nép [és] azon az egész napon, és egész éjjel, és az egész következõ napon gyûjtének #magoknak fürjeket, a ki keveset gyûjtött is, gyûjtött tíz hómert, és kiteregeték azokat magoknak a tábor körül."
 "A hús még foguk között vala, és meg sem emésztették vala, a mikor az Úrnak haragja felgerjede a népre és megveré az Úr a népet igen nagy csapással."
 "És elnevezék azt a helyet Kibrot-thaavának
 "Kibrot-thaavától elméne a nép Haseróthba; és ott valának Haseróthban."

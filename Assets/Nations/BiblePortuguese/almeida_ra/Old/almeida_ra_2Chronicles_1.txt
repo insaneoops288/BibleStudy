@@ -14,4 +14,4 @@
 "Salomão ajuntou carros e cavaleiros; teve mil e quatrocentos carros e doze mil cavaleiros, que colocou nas cidades dos carros e junto de si em Jerusalém."
 "E o rei tornou o ouro e a prata tão comuns em Jerusalém como as pedras, e os cedros tantos em abundância como os sicómoros que há na baixada."
 "Os cavalos que Salomão tinha eram trazidos do Egipto e de Coa; e os mercadores do rei os recebiam de Coa por preço determinado."
-"E faziam subir e sair do Egipto cada carro por seiscentos siclos de prata, e cada cavalo por cento e cinquenta; e assim por meio deles eram exportados para todos os reis dos heteus, e para os reis da Síria."
+"E faziam subir e sair do Egipto cada carro por seiscentos siclos de prata, e cada cavalo por cento e cinquenta; #e assim por meio deles eram exportados para todos os reis dos heteus, e para os reis da Síria."

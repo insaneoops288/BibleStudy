@@ -16,7 +16,7 @@
 "Zece coți [să fie] lungimea unei scânduri și un cot și jumătate [să fie] lățimea unei scânduri."
 "Două cepuri [să fie] într-o scândură, așezate în ordine unul în dreptul altuia
 "Și să faci scândurile tabernacolului
-"Și fă patruzeci de socluri de argint sub cele douăzeci de scânduri; două socluri sub o [singură] scândură pentru cele două mânere ale ei și două socluri sub o altă scândură pentru cele două mânere ale ei."
+"Și fă patruzeci de socluri de argint sub cele douăzeci de scânduri; două socluri sub o [singură] scândură pentru #cele două mânere ale ei și două socluri sub o altă scândură pentru cele două mânere ale ei."
 "Și pentru partea următoare a tabernacolului, pe partea de nord, [să fie] douăzeci de scânduri;"
 "Și cele patruzeci de socluri ale lor [de] argint
 "Și pentru părțile de vest ale tabernacolului să faci șase scânduri."

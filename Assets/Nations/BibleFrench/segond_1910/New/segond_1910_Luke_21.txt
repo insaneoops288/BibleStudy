@@ -9,7 +9,7 @@
 "Quand vous entendrez parler de guerres et de soulèvements, ne soyez pas effrayés, car il faut que ces choses arrivent premièrement. Mais ce ne sera pas encore la fin."
 "Alors il leur dit
 "il y aura de grands tremblements de terre, et, en divers lieux, des pestes et des famines; il y aura des phénomènes terribles, et de grands signes dans le ciel."
-"Mais, avant tout cela, on mettra la main sur vous, et l'on vous persécutera; on vous livrera aux synagogues, on vous jettera en prison, on vous mènera devant des rois et devant des gouverneurs, à cause de mon nom."
+"Mais, avant tout cela, on mettra la main sur vous, et l'on vous persécutera; on vous livrera aux synagogues, on #vous jettera en prison, on vous mènera devant des rois et devant des gouverneurs, à cause de mon nom."
 "Cela vous arrivera pour que vous serviez de témoignage."
 "Mettez-vous donc dans l'esprit de ne pas préméditer votre défense;"
 "car je vous donnerai une bouche et une sagesse à laquelle tous vos adversaires ne pourront résister ou contredire."
@@ -21,7 +21,7 @@
 "Alors, que ceux qui seront en Judée fuient dans les montagnes, que ceux qui seront au milieu de Jérusalem en sortent, et que ceux qui seront dans les champs n'entrent pas dans la ville."
 "Car ce seront des jours de vengeance, pour l'accomplissement de tout ce qui est écrit."
 "Malheur aux femmes qui seront enceintes et à celles qui allaiteront en ces jours-là! Car il y aura une grande détresse dans le pays, et de la colère contre ce peuple."
-"Ils tomberont sous le tranchant de l'épée, ils seront emmenés captifs parmi toutes les nations, et Jérusalem sera foulée aux pieds par les nations, jusqu'à ce que les temps des nations soient accomplis."
+"Ils tomberont sous le tranchant de l'épée, ils seront emmenés captifs parmi toutes les nations, et Jérusalem #sera foulée aux pieds par les nations, jusqu'à ce que les temps des nations soient accomplis."
 "Il y aura des signes dans le soleil, dans la lune et dans les étoiles. Et sur la terre, il y aura de l'angoisse chez les nations qui ne sauront que faire, au bruit de la mer et des flots,"
 "les hommes rendant l'âme de terreur dans l'attente de ce qui surviendra pour la terre; car les puissances des cieux seront ébranlées."
 "Alors on verra le Fils de l'homme venant sur une nuée avec puissance et une grande gloire."

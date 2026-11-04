@@ -1,7 +1,7 @@
 "Ja Philistealaiset ottivat Jumalan arkin ja veivät sen EbenEtseristä Asdodiin,"
 "Ja veivät sen sisälle Dagonin huoneesen ja asettivat sen Dagonin rinnalle."
 "Ja Asdodilaiset nousivat toisena päivänä varhain, ja katso, Dagon makasi suullansa maassa Herran arkin edessä; mutta he ottivat Dagonin ja nostivat entiselle siallensa."
-"Ja he nousivat toisena huomenna, ja katso, Dagon makasi suullansa maassa Herran arkin edessä, mutta Dagonin pää ja molemmat hänen kätensä olivat poikki hakattuina kynnyksellä, ja muu ruumis vain oli jälellä."
+"Ja he nousivat toisena huomenna, ja katso, Dagon makasi suullansa maassa Herran arkin edessä, mutta Dagonin #pää ja molemmat hänen kätensä olivat poikki hakattuina kynnyksellä, ja muu ruumis vain oli jälellä."
 "Sentähden Dagonin papit ja kaikki jotka Dagonin huoneesen menevät, ei astu Dagonin kynnykselle Asdodissa tähän päivään asti."
 "Mutta Herran käsi oli raskas Asdodilaisten päällä ja hävitti heidät, ja löi Asdodin ja kaiken ympäristön ajoksilla."
 "Kuin Asdodin miehet näkivät niin olevan, sanoivat he

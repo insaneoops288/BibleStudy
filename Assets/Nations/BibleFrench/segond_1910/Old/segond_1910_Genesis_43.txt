@@ -11,7 +11,7 @@
 "Israël, leur père, leur dit
 "Prenez avec vous de l'argent au double, et remportez l'argent qu'on avait mis à l'entrée de vos sacs
 "Prenez votre frère, et levez-vous; retournez vers cet homme."
-"Que le Dieu tout-puissant vous fasse trouver grâce devant cet homme, et qu'il laisse revenir avec vous votre autre frère et Benjamin! Et moi, si je dois être privé de mes enfants, que j'en sois privé!"
+"Que le Dieu tout-puissant vous fasse trouver grâce devant cet homme, et qu'il laisse revenir avec vous votre autre #frère et Benjamin! Et moi, si je dois être privé de mes enfants, que j'en sois privé!"
 "Ils prirent le présent; ils prirent avec eux de l'argent au double, ainsi que Benjamin; ils se levèrent, descendirent en Egypte, et se présentèrent devant Joseph."
 "Dès que Joseph vit avec eux Benjamin, il dit à son intendant
 "Cet homme fit ce que Joseph avait ordonné, et il conduisit ces gens dans la maison de Joseph."
@@ -29,6 +29,6 @@
 "Joseph leva les yeux; et, jetant un regard sur Benjamin, son frère, fils de sa mère, il dit
 "Ses entrailles étaient émues pour son frère, et il avait besoin de pleurer; il entra précipitamment dans une chambre, et il y pleura."
 "Après s'être lavé le visage, il en sortit; et, faisant des efforts pour se contenir, il dit
-"On servit Joseph à part, et ses frères à part; les Egyptiens qui mangeaient avec lui furent aussi servis à part, car les Egyptiens ne pouvaient pas manger avec les Hébreux, parce que c'est à leurs yeux une abomination."
+"On servit Joseph à part, et ses frères à part; les Egyptiens qui mangeaient avec lui furent aussi servis à #part, car les Egyptiens ne pouvaient pas manger avec les Hébreux, parce que c'est à leurs yeux une abomination."
 "Les frères de Joseph s'assirent en sa présence, le premier-né selon son droit d'aînesse, et le plus jeune selon son âge; et ils se regardaient les uns les autres avec étonnement."
 "Joseph leur fit porter des mets qui étaient devant lui, et Benjamin en eut cinq fois plus que les autres. Ils burent, et s'égayèrent avec lui."

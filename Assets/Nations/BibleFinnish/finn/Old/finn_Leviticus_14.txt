@@ -6,8 +6,8 @@
 "Ja ottakaan elävän linnun sedripuun kanssa, tulipunalla painetun villan ja isopin, ja kastakaan tapetun linnun vereen, vuotavan veden tykönä."
 "Ja priiskottakaan spitalista puhdistettavan päälle seitsemän kertaa
 "Mutta puhdistettu peskään vaatteensa, ja ajelkaan kaikki hiuksensa, ja peskään itsensä vedessä ja niin on hän puhdas. Menkään sitte leiriin, kuitenkin asukaan ulkona majastansa seitsemän päivää."
-"Ja seitsemäntenä päivänä pitää hänen ajeleman kaikki hiukset päästänsä, ja partansa ja karvat silmäkulmistansa, niin että kaikki karvat ovat ajellut, ja pitää pesemän vaatteensa, ja pesemän ihonsa vedellä, niin on hän puhdas."
-"Ja kahdeksantena päivänä pitää hänen ottaman kaksi virheetöintä karitsaa, ja virheettömän vuosikuntaisen lampaan, niin myös kolme kymmenestä sämpyläjauhoja ruokauhriksi, öljyllä sekoitettuja, ja yhden login öljyä."
+"Ja seitsemäntenä päivänä pitää hänen ajeleman kaikki hiukset päästänsä, ja partansa ja karvat silmäkulmistansa, niin että kaikki #karvat ovat ajellut, ja pitää pesemän vaatteensa, ja pesemän ihonsa vedellä, niin on hän puhdas."
+"Ja kahdeksantena päivänä pitää hänen ottaman kaksi virheetöintä karitsaa, ja virheettömän vuosikuntaisen lampaan, #niin myös kolme kymmenestä sämpyläjauhoja ruokauhriksi, öljyllä sekoitettuja, ja yhden login öljyä."
 "Niin pitää papin, joka puhdisti, asettaman puhdistetun ja tämän kalun, Herran eteen seurakunnan majan oven edessä."
 "Ja papin pitää ottaman yhden karitsan, ja uhraaman vikauhriksi, öljylogin kanssa, ja pitää ne häälyttämäm häälytykseksi Herran edessä."
 "Ja sitte teurastaman karitsan sillä paikalla, kussa rikosuhri ja polttouhri teurastetaan, pyhässä siassa; sillä niinkuin rikosuhri, niin myös vikauhrikin on papin oma; sillä se on kaikkein pyhin."
@@ -18,7 +18,7 @@
 "Käteensä jääneen öljyn, pitää papin paneman puhdistetun pään päälle, ja papin pitää sovittaman häntä Herran edessä."
 "Ja papin pitää tekemän rikosuhrin, ja sovittaman puhdistetun hänen saastaisuudestansa, ja sen jälkeen teurastaman polttouhrin."
 "Ja papin pitää uhraaman polttouhrin ja ruokauhrin alttarilla, ja papin pitää sovittaman häntä, niin hän on puhdas."
-"Jos hän on köyhä eikä ole hänellä varaa, niin ottakaan karitsan vikauhrinsa edestä häälytykseksi, sovittaakseen häntä, ja yhden kymmeneksen sämpyläjauhoja, sekoitetun öljyllä, ruokauhriksi, ja login öljyä,"
+"Jos hän on köyhä eikä ole hänellä varaa, niin ottakaan karitsan vikauhrinsa edestä häälytykseksi, #sovittaakseen häntä, ja yhden kymmeneksen sämpyläjauhoja, sekoitetun öljyllä, ruokauhriksi, ja login öljyä,"
 "Ja kaksi mettistä eli kaksi kyyhkyläisen poikaa, jotka hän voi saada
 "Ja kantakaan sen papille kahdeksantena päivänä puhdistukseksensa, seurakunnan majan oven eteen, Herran edessä."
 "Niin pitää papin ottaman vikauhrin karitsan, ja login öljyä, ja papin pitää ne häälyttämän häälytykseksi Herran edessä,"

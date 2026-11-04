@@ -1,9 +1,9 @@
 "Giô-suê đã già tuổi cao, Ðức Giê-hô-va bèn phán cùng người rằng
 "Xứ còn lại là đây
-"từ sông Si-cô đối ngang xứ Ê-díp-tô, cho đến giới hạn Éc-rôn về phía bắc, vốn kể là miền Ca-na-an, thuộc về năm vua Phi-li-tin, là vua Ga-xam vua Ách-đốt, vua Ách-ca-lôn, vua Gát, vua Éc-rôn và vua dân A-vim;"
+"từ sông Si-cô đối ngang xứ Ê-díp-tô, cho đến giới hạn Éc-rôn về phía bắc, vốn kể là miền Ca-na-an, thuộc #về năm vua Phi-li-tin, là vua Ga-xam vua Ách-đốt, vua Ách-ca-lôn, vua Gát, vua Éc-rôn và vua dân A-vim;"
 "lại về phía nam, cả xứ Ca-na-an và Mê-a-ra, vốn thuộc về dân Si-đôn, cho đến A-phéc, cho đến giới hạn dân A-mô-rít;"
 "còn luôn xứ dân Ghi-bê-lít, và cả Li-ban về phía mặt trời mọc, từ Ba-anh-Gát ở dưới chơn núi Hẹt-môn, cho đến nơi vào ranh Ha-mát;"
-"lại còn dân ở trên núi, từ Li-ban cho đến Mít-rê-phốt-Ma-im, tức là các dân Si-đôn. Ấy chính ta sẽ đuổi chúng nó khỏi trước mặt dân Y-sơ-ra-ên. Song ngươi hãy bắt thăm chia xứ này cho Y-sơ-ra-ên làm sản nghiệp, y như ta đã truyền cho ngươi."
+"lại còn dân ở trên núi, từ Li-ban cho đến Mít-rê-phốt-Ma-im, tức là các dân Si-đôn. Ấy chính ta sẽ đuổi chúng nó khỏi trước #mặt dân Y-sơ-ra-ên. Song ngươi hãy bắt thăm chia xứ này cho Y-sơ-ra-ên làm sản nghiệp, y như ta đã truyền cho ngươi."
 "Vậy bây giờ, hãy chia xứ này cho chín chi phái, và phân nửa chi phái Ma-na-se."
 "Người Ru-bên, người Gát, và phân nửa chi phái Ma-na-se đã lãnh bởi Môi-se phần sản nghiệp mình ở bên kia sông Giô-đanh về phía đông, y như Môi-se, tôi tớ Ðức Giê-hô-va, đã phát cho chúng nó;"
 "tức là xứ từ A-rô -e ở trên mé khe Aït-nôn và thành ở giữa trũng, cùng cả xứ đồng bằng tự Mê-đê-ba chí Ði-bôn;"
@@ -18,7 +18,7 @@
 "Gia-hát, Kê-đê-mốt, Mê-phát,"
 "Ki-ri-a-ta-im, Síp-ma, Xê-rết-Ha-sa-cha ở trên núi của trũng,"
 "Bết-Phê -o, các triền núi Phích-ga, Bết-Giê-si-mốt,"
-"các thành của xứ đồng bằng, toàn nước Si-hôn, vua dân A-mô-rít, vốn cai trị tại Hết-bôn, mà Môi-se đã đánh bại, với quan trưởng Ma-đi-an, là Ê-vi, Rê-kem, Xu-rơ, và Rê-ba, tức các quan trưởng làm chư hầu Si-hôn, và ở trong xứ."
+"các thành của xứ đồng bằng, toàn nước Si-hôn, vua dân A-mô-rít, vốn cai trị tại Hết-bôn, mà Môi-se đã đánh bại, với #quan trưởng Ma-đi-an, là Ê-vi, Rê-kem, Xu-rơ, và Rê-ba, tức các quan trưởng làm chư hầu Si-hôn, và ở trong xứ."
 "Trong những người mà dân Y-sơ-ra-ên dùng gươm giết, thì có thuật sĩ Ba-la-am, con trai của Bê-ô."
 "Ðịa phận người Ru-bên có sông Giô-đanh làm giới hạn. Ðó là sản nghiệp của người Ru-bên, tùy theo những họ hàng, thành ấp, và làng xóm của họ."
 "Môi-se cũng có phát một phần cho chi phái Gát, tùy theo họ hàng của chúng."

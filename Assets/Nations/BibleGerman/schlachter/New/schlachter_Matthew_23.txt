@@ -12,7 +12,7 @@
 "Wer sich aber selbst erhöht, der wird erniedrigt werden, und wer sich selbst erniedrigt, der wird erhöht werden."
 "Aber wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr das Himmelreich vor den Menschen zuschließet! Ihr selbst geht nicht hinein, und die hinein wollen, die laßt ihr nicht hinein."
 "Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr der Witwen Häuser fresset und zum Schein lange betet. Darum werdet ihr ein schwereres Gericht empfangen!"
-"Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr Meer und Land durchziehet, um einen einzigen Judengenossen zu machen, und wenn er es geworden ist, macht ihr ein Kind der Hölle aus ihm, zwiefältig mehr, als ihr seid!"
+"Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr Meer und Land durchziehet, um einen einzigen Judengenossen zu machen, und #wenn er es geworden ist, macht ihr ein Kind der Hölle aus ihm, zwiefältig mehr, als ihr seid!"
 "Wehe euch, ihr blinden Führer, die ihr saget
 "Ihr Narren und Blinde, was ist denn größer, das Gold oder der Tempel, der das Gold heiligt?"
 "Und
@@ -20,7 +20,7 @@
 "Darum, wer beim Altar schwört, der schwört bei ihm und bei allem, was darauf ist."
 "Und wer beim Tempel schwört, der schwört bei ihm und bei dem, der darin wohnt."
 "Und wer beim Himmel schwört, der schwört bei dem Throne Gottes und bei dem, der darauf sitzt."
-"Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr die Minze und den Anis und den Kümmel verzehntet und das Wichtigere im Gesetz vernachlässiget, nämlich das Gericht und das Erbarmen und den Glauben! Dies sollte man tun und jenes nicht lassen."
+"Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr die Minze und den Anis und den Kümmel verzehntet und das Wichtigere #im Gesetz vernachlässiget, nämlich das Gericht und das Erbarmen und den Glauben! Dies sollte man tun und jenes nicht lassen."
 "Ihr blinden Führer, die ihr Mücken seihet und Kamele verschlucket!"
 "Wehe euch, Schriftgelehrte und Pharisäer, ihr Heuchler, daß ihr dasÄußere des Bechers und der Schüssel reiniget; inwendig aber sind sie voller Raub und Unmäßigkeit!"
 "Du blinder Pharisäer, reinige zuerst das Inwendige des Bechers und der Schüssel, damit auch dasÄußere rein werde!"
@@ -31,9 +31,9 @@
 "So gebt ihr jaüber euch selbst das Zeugnis, daß ihr Söhne der Prophetenmörder seid."
 "Ja, machet nur das Maß eurer Väter voll!"
 "Ihr Schlangen! Ihr Otterngezüchte! Wie wollt ihr dem Gerichte der Hölle entgehen?"
-"Darum, siehe, ich sende zu euch Propheten und Weise und Schriftgelehrte; und etliche von ihnen werdet ihr töten und kreuzigen, und etliche werdet ihr in euren Synagogen geißeln und sie verfolgen von einer Stadt zur andern;"
-"auf daßüber euch komme alles gerechte Blut, das auf Erden vergossen worden ist, vom Blute Abels, des Gerechten, an bis auf das Blut Zacharias, des Sohnes Barachias, welchen ihr zwischen dem Tempel und dem Altar getötet habt."
+"Darum, siehe, ich sende zu euch Propheten und Weise und Schriftgelehrte; und etliche von ihnen werdet ihr töten und #kreuzigen, und etliche werdet ihr in euren Synagogen geißeln und sie verfolgen von einer Stadt zur andern;"
+"auf daßüber euch komme alles gerechte Blut, das auf Erden vergossen worden ist, vom Blute Abels, des Gerechten, an #bis auf das Blut Zacharias, des Sohnes Barachias, welchen ihr zwischen dem Tempel und dem Altar getötet habt."
 "Wahrlich, ich sage euch, dies alles wirdüber dieses Geschlecht kommen."
-"Jerusalem, Jerusalem, die du tötest die Propheten und steinigst, die zu dir gesandt sind! Wie oft habe ich deine Kinder sammeln wollen, wie eine Henne ihre Küchlein unter die Flügel sammelt, aber ihr habt nicht gewollt!"
+"Jerusalem, Jerusalem, die du tötest die Propheten und steinigst, die zu dir gesandt sind! Wie oft habe ich deine #Kinder sammeln wollen, wie eine Henne ihre Küchlein unter die Flügel sammelt, aber ihr habt nicht gewollt!"
 "Siehe, euer Haus wird euchöde gelassen werden;"
 "denn ich sage euch

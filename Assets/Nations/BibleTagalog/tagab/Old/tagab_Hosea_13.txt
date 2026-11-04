@@ -5,12 +5,12 @@
 "Nakilala kita sa ilang, sa lupain ng malaking katuyuan."
 "Ayon sa pastulan sa kanila, gayon sila nangabusog; sila'y nangabusog, at ang kanilang puso ay nagmalaki
 "Kaya't ako'y magiging parang leon sa kanila; parang leopardo na ako'y magbabantay sa tabi ng daan;"
-"Aking sasalubungin sila na gaya ng oso na ninakawan ng kaniyang mga anak, at aking babakahin ang lamak ng kanilang puso; at doo'y lalamunin ko sila ng gaya ng leon; lalapain sila ng mabangis na hayop."
+"Aking sasalubungin sila na gaya ng oso na ninakawan ng kaniyang mga anak, at aking babakahin ang lamak ng #kanilang puso; at doo'y lalamunin ko sila ng gaya ng leon; lalapain sila ng mabangis na hayop."
 "Siyang iyong kapahamakan Oh Israel, na ikaw ay laban sa akin, laban sa iyong katulong."
 "Saan nandoon ngayon ang iyong hari upang mailigtas ka niya sa lahat ng iyong bayan? at ang iyong mga hukom, na iyong pinagsasabihan, Bigyan mo ako ng hari at mga prinsipe?"
 "Aking binigyan ka ng hari sa aking kagalitan, at inalis ko siya sa aking poot."
 "Ang kasamaan ng Ephraim ay nababalot; ang kaniyang kasalanan ay nabubunton."
 "Ang mga kapanglawan ng nagdaramdam na babae ay dadanasin niya
-"Aking tutubusin sila mula sa kapangyarihan ng Sheol; aking tutubusin sila mula sa kamatayan. Oh kamatayan, saan nandoon ang iyong mga salot? Oh Sheol, saan nandoon ang iyong kasiraan? pagsisisi ay malilingid sa aking mga mata."
-"Bagaman siya'y mabunga sa kaniyang mga kapatid, isang hanging silanganan ay darating, ang hinga ng Panginoon ay umiilanglang mula sa ilang; at ang kaniyang tipunan ng tubig ay magiging tuyo, at ang kaniyang bukal ay matutuyo
+"Aking tutubusin sila mula sa kapangyarihan ng Sheol; aking tutubusin sila mula sa kamatayan. Oh kamatayan, saan nandoon ang #iyong mga salot? Oh Sheol, saan nandoon ang iyong kasiraan? pagsisisi ay malilingid sa aking mga mata."
+"Bagaman siya'y mabunga sa kaniyang mga kapatid, isang hanging silanganan ay darating, ang hinga ng Panginoon ay umiilanglang mula #sa ilang; at ang kaniyang tipunan ng tubig ay magiging tuyo, at ang kaniyang bukal ay matutuyo
 "Tataglayin ng Samaria ang kaniyang sala; sapagka't siya'y nanghimagsik laban sa kaniyang Dios

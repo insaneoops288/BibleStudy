@@ -25,7 +25,7 @@
 "Hogy ne legyen hasonlás a testben, hanem ugyanarról gondoskodjanak egymásért a tagok."
 "És akár szenved egy tag, vele együtt szenvednek a tagok mind; akár tisztességgel illettetik egy tag, vele együtt örülnek a tagok mind."
 "Ti pedig a Krisztus teste vagytok, és tagjai rész szerint."
-"És pedig némelyeket rendelt az Isten az anyaszentegyházban elõször apostolokul, másodszor prófétákul, harmadszor tanítókul; azután csodatévõ erõket, aztán gyógyításnak ajándékait, gyámolokat, kormányokat, nyelvek nemeit."
+"És pedig némelyeket rendelt az Isten az anyaszentegyházban elõször apostolokul, másodszor prófétákul, harmadszor #tanítókul; azután csodatévõ erõket, aztán gyógyításnak ajándékait, gyámolokat, kormányokat, nyelvek nemeit."
 "Avagy mindnyájan apostolok-é? Vagy mindnyájan próféták-é? Avagy mindnyájan tanítók-é? Vagy mindnyájan csodatévõ erõk-é?"
 "Avagy mindnyájoknak van-é gyógyításra való ajándéka? Vagy mindnyájan szólnak-é nyelveken? Vagy mindnyájan magyaráznak-é?"
 "Igyekezzetek pedig a hasznosabb ajándékokra. És ezenfelül még egy kiváltképen való útat mutatok néktek."

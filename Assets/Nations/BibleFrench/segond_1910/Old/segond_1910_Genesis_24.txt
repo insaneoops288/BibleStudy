@@ -29,10 +29,10 @@
 "Rebecca avait un frère, nommé Laban. Et Laban courut dehors vers l'homme, près de la source."
 "Il avait vu l'anneau et les bracelets aux mains de sa soeur, et il avait entendu les paroles de Rebecca, sa soeur, disant
 "et il dit
-"L'homme arriva à la maison. Laban fit décharger les chameaux, et il donna de la paille et du fourrage aux chameaux, et de l'eau pour laver les pieds de l'homme et les pieds des gens qui étaient avec lui."
+"L'homme arriva à la maison. Laban fit décharger les chameaux, et il donna de la paille et du fourrage aux #chameaux, et de l'eau pour laver les pieds de l'homme et les pieds des gens qui étaient avec lui."
 "Puis, il lui servit à manger. Mais il dit
 "Alors il dit
-"L'Eternel a comblé de bénédictions mon seigneur, qui est devenu puissant. Il lui a donné des brebis et des boeufs, de l'argent et de l'or, des serviteurs et des servantes, des chameaux et des ânes."
+"L'Eternel a comblé de bénédictions mon seigneur, qui est devenu puissant. Il lui a donné des brebis et #des boeufs, de l'argent et de l'or, des serviteurs et des servantes, des chameaux et des ânes."
 "Sara, la femme de mon seigneur, a enfanté dans sa vieillesse un fils à mon seigneur; et il lui a donné tout ce qu'il possède."
 "Mon seigneur m'a fait jurer, en disant
 "mais tu iras dans la maison de mon père et de ma famille prendre une femme pour mon fils."
@@ -45,7 +45,7 @@
 "Avant que j'eusse fini de parler en mon coeur, voici, Rebecca est sortie, sa cruche sur l'épaule; elle est descendue à la source, et a puisé. Je lui ai dit
 "Elle s'est empressée d'abaisser sa cruche de dessus son épaule, et elle a dit
 "Je l'ai interrogée, et j'ai dit
-"Puis je me suis incliné et prosterné devant l'Eternel, et j'ai béni l'Eternel, le Dieu de mon seigneur Abraham, qui m'a conduit fidèlement, afin que je prisse la fille du frère de mon seigneur pour son fils."
+"Puis je me suis incliné et prosterné devant l'Eternel, et j'ai béni l'Eternel, le Dieu de mon seigneur Abraham, #qui m'a conduit fidèlement, afin que je prisse la fille du frère de mon seigneur pour son fils."
 "Maintenant, si vous voulez user de bienveillance et de fidélité envers mon seigneur, déclarez-le-moi; sinon, déclarez-le-moi, et je me tournerai à droite ou à gauche."
 "Laban et Bethuel répondirent, et dirent
 "Voici Rebecca devant toi; prends et va, et qu'elle soit la femme du fils de ton seigneur, comme l'Eternel l'a dit."

@@ -9,7 +9,7 @@
 "Tetapi Aku berkata kepadamu
 "Murid-murid itu berkata kepada-Nya
 "Akan tetapi Ia berkata kepada mereka
-"Ada orang yang tidak dapat kawin karena ia memang lahir demikian dari rahim ibunya, dan ada orang yang dijadikan demikian oleh orang lain, dan ada orang yang membuat dirinya demikian karena kemauannya sendiri oleh karena Kerajaan Sorga. Siapa yang dapat mengerti hendaklah ia mengerti."""
+"Ada orang yang tidak dapat kawin karena ia memang lahir demikian dari rahim ibunya, dan ada orang yang dijadikan demikian oleh orang lain, #dan ada orang yang membuat dirinya demikian karena kemauannya sendiri oleh karena Kerajaan Sorga. Siapa yang dapat mengerti hendaklah ia mengerti."""
 "Lalu orang membawa anak-anak kecil kepada Yesus, supaya Ia meletakkan tangan-Nya atas mereka dan mendoakan mereka; akan tetapi murid-murid-Nya memarahi orang-orang itu."
 "Tetapi Yesus berkata
 "Lalu Ia meletakkan tangan-Nya atas mereka dan kemudian Ia berangkat dari situ."
@@ -26,5 +26,5 @@
 "Yesus memandang mereka dan berkata
 "Lalu Petrus menjawab dan berkata kepada Yesus
 "Kata Yesus kepada mereka
-"Dan setiap orang yang karena nama-Ku meninggalkan rumahnya, saudaranya laki-laki atau saudaranya perempuan, bapa atau ibunya, anak-anak atau ladangnya, akan menerima kembali seratus kali lipat dan akan memperoleh hidup yang kekal."
+"Dan setiap orang yang karena nama-Ku meninggalkan rumahnya, saudaranya laki-laki atau saudaranya perempuan, bapa atau ibunya, #anak-anak atau ladangnya, akan menerima kembali seratus kali lipat dan akan memperoleh hidup yang kekal."
 "Tetapi banyak orang yang terdahulu akan menjadi yang terakhir, dan yang terakhir akan menjadi yang terdahulu."""

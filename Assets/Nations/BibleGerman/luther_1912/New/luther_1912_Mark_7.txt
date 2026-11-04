@@ -1,7 +1,7 @@
 "Und es kamen zu ihm die Pharisäer und etliche von den Schriftgelehrten, die von Jerusalem gekommen waren."
 "Und da sie sahen etliche seiner Jünger mit gemeinen(das ist ungewaschenen) Händen das Brot essen, tadelten sie es."
 "(Denn die Pharisäer und alle Juden essen nicht, sie waschen denn die Hände manchmal, und halten also die Aufsätze derÄltesten;"
-"und wenn sie vom Markt kommen, essen sie nicht, sie waschen sich denn. Und des Dinges ist viel, das sie zu halten haben angenommen, von Trinkgefäßen und Krügen und ehernen Gefäßen und Tischen zu waschen.)"
+"und wenn sie vom Markt kommen, essen sie nicht, sie waschen sich denn. Und des Dinges ist viel, #das sie zu halten haben angenommen, von Trinkgefäßen und Krügen und ehernen Gefäßen und Tischen zu waschen.)"
 "Da fragten ihn nun die Pharisäer und Schriftgelehrten
 "Er aber antwortete und sprach zu ihnen
 "Vergeblich aber ist's, daß sie mir dienen, dieweil sie lehren solche Lehre die nichts ist denn Menschengebot."

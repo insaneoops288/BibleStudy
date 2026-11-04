@@ -10,7 +10,7 @@
 "Wer im Geringsten treu ist, ist auch in vielem treu, und wer im Geringsten ungerecht ist, ist auch in vielem ungerecht."
 "Wenn ihr nun in dem ungerechten Mammon nicht treu gewesen seid, wer wird euch das Wahrhaftige anvertrauen?"
 "Und wenn ihr in dem Fremden nicht treu gewesen seid, wer wird euch das Eurige geben?"
-"Kein Hausknecht kann zwei Herren dienen; denn entweder wird er den einen hassen und den anderen lieben, oder er wird dem einen anhangen und den anderen verachten. Ihr könnt nicht Gott dienen und dem Mammon."
+"Kein Hausknecht kann zwei Herren dienen; denn entweder wird er den einen hassen und den anderen lieben, oder #er wird dem einen anhangen und den anderen verachten. Ihr könnt nicht Gott dienen und dem Mammon."
 "Dies alles hörten aber auch die Pharisäer, welche geldliebend waren, und sie verhöhnten ihn."
 "Und er sprach zu ihnen
 "Das Gesetz und die Propheten waren bis auf Johannes; von da an wird das Evangelium des Reiches Gottes verkündigt, und jeder dringt mit Gewalt hinein."
@@ -23,7 +23,7 @@
 "Und in dem Hades seine Augen aufschlagend, als er in Qualen war, sieht er Abraham von ferne und Lazarus in seinem Schoße."
 "Und er rief und sprach
 "Abraham aber sprach
-"Und zu diesem allem ist zwischen uns und euch eine große Kluft befestigt, damit die, welche von hier zu euch hinübergehen wollen, nicht können, noch die, welche von dort zu uns herüberkommen wollen."
+"Und zu diesem allem ist zwischen uns und euch eine große Kluft befestigt, damit die, welche von #hier zu euch hinübergehen wollen, nicht können, noch die, welche von dort zu uns herüberkommen wollen."
 "Er sprach aber
 "denn ich habe fünf Brüder, damit er ihnen ernstlich Zeugnis gebe, auf daß sie nicht auch kommen an diesen Ort der Qual."
 "Abraham aber spricht zu ihm

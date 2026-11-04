@@ -1,4 +1,4 @@
-"PORQUE la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofrecen continuamente cada año, hacer perfectos á los que se allegan."
+"PORQUE la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca #puede, por los mismos sacrificios que ofrecen continuamente cada año, hacer perfectos á los que se allegan."
 "De otra manera cesarían de ofrecerse; porque los que tributan este culto, limpios de una vez, no tendrían más conciencia de pecado."
 "Empero en estos sacrificios cada año se hace conmemoración de los pecados."
 "Porque la sangre de los toros y de los machos cabríos no puede quitar los pecados."
@@ -26,7 +26,7 @@
 "Porque si pecáremos voluntariamente después de haber recibido el conocimiento de la verdad, ya no queda sacrificio por el pecado,"
 "Sino una horrenda esperanza de juicio, y hervor de fuego que ha de devorar á los adversarios."
 "El que menospreciare la ley de Moisés, por el testimonio de dos ó de tres testigos muere sin ninguna misericordia
-"¿Cuánto pensáis que será más digno de mayor castigo, el que hollare al Hijo de Dios, y tuviere por inmunda la sangre del testamento, en la cual fué santificado, é hiciere afrenta al Espíritu de gracia?"
+"¿Cuánto pensáis que será más digno de mayor castigo, el que hollare al Hijo de Dios, y tuviere por #inmunda la sangre del testamento, en la cual fué santificado, é hiciere afrenta al Espíritu de gracia?"
 "Sabemos quién es el que dijo
 "Horrenda cosa es caer en las manos del Dios vivo."
 "Empero traed á la memoria los días pasados, en los cuales, después de haber sido iluminados, sufristeis gran combate de aflicciones

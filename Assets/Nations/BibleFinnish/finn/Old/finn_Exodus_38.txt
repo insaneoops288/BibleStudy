@@ -15,7 +15,7 @@
 "Ja toisella sivulla molemmin puolin, pihan läpikäytävän tykönä, olivat vaatteet viisitoistakymmentä kyynärää
 "Ja kaikki pihan vaatteet ympärinsä olivat valkiasta kerratusta liinasta,"
 "Ja patsasten jalat vaskesta, ja heidän koukkunsa ja vyönsä hopiasta, niin että heidän nuppinsa olivat silatut hopialla
-"Ja peitevaatteet pihan sisällekäytävään teki hän sinisistä ja purpuraisista ja tulipunaisista villoista, ja valkiasta kerratusta liinasta, taitavasti neulotut, kaksikymmentä kyynärää pitkäksi, ja viisi kyynärää korkiaksi leveydessä pihan vaatteen kohdalla,"
+"Ja peitevaatteet pihan sisällekäytävään teki hän sinisistä ja purpuraisista ja tulipunaisista villoista, ja valkiasta kerratusta #liinasta, taitavasti neulotut, kaksikymmentä kyynärää pitkäksi, ja viisi kyynärää korkiaksi leveydessä pihan vaatteen kohdalla,"
 "Niin myös niiden neljä patsasta ja niiden neljä jalkaa vaskesta, ja heidän koukkunsa hopiasta, ja heidän päänsä silatut ja vyötetyt hopiavöillä."
 "Ja kaikki vaarnat majassa, ja koko piha ympärinsä, olivat vaskesta."
 "Tämä on kaluin luku joka todistuksen majaan tarvittiin, jotka ovat luetut Moseksen käskyn jälkeen

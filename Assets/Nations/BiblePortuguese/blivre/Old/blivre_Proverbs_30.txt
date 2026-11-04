@@ -1,7 +1,7 @@
 "Palavras de Agur, filho de Jaque, o de fala solene; [Este] homem diz a Itiel; a Itiel e a Ucal
 "Certamente eu sou o mais bruto dos homens, e não tenho entendimento humano."
 "Não aprendi sabedoria, nem tenho conhecimento do Santo [Deus] ."
-"Quem subiu ao céu, e desceu? Quem juntou os ventos com suas mãos? Quem amarrou as águas numa capa? Quem estabeleceu todos os limites da terra? Qual é o seu nome? e qual é o nome de seu filho, se tu o sabes?"
+"Quem subiu ao céu, e desceu? Quem juntou os ventos com suas mãos? Quem amarrou as águas numa capa? Quem estabeleceu todos #os limites da terra? Qual é o seu nome? e qual é o nome de seu filho, se tu o sabes?"
 "Toda palavra de Deus é pura; é escudo para os que nele confiam."
 "Nada acrescentes às suas palavras, para que ele não te repreenda, e sejas mostrado como mentiroso."
 "Duas coisas eu te pedi; não [as] negues a mim antes que eu morra."

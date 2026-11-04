@@ -3,7 +3,7 @@
 "Welcher ißt, der verachte den nicht, der da nicht ißt; und welcher nicht ißt, der richte den nicht, der da ißt; denn Gott hat ihn aufgenommen."
 "Wer bist du, daß du einen fremden Knecht richtest? Er steht oder fällt seinem HERRN. Er mag aber wohl aufgerichtet werden; denn Gott kann ihn wohl aufrichten."
 "Einer hält einen Tag vor dem andern; der andere aber hält alle Tage gleich. Ein jeglicher sei in seiner Meinung gewiß."
-"Welcher auf die Tage hält, der tut's dem HERRN; und welcher nichts darauf hält, der tut's auch dem HERRN. Welcher ißt, der ißt dem HERRN, denn er dankt Gott; welcher nicht ißt, der ißt dem HERRN nicht und dankt Gott."
+"Welcher auf die Tage hält, der tut's dem HERRN; und welcher nichts darauf hält, der tut's auch dem HERRN. Welcher ißt, #der ißt dem HERRN, denn er dankt Gott; welcher nicht ißt, der ißt dem HERRN nicht und dankt Gott."
 "Denn unser keiner lebt sich selber, und keiner stirbt sich selber."
 "Leben wir, so leben wir dem HERRN; sterben wir, so sterben wir dem HERRN. Darum, wir leben oder sterben, so sind wir des HERRN."
 "Denn dazu ist Christus auch gestorben und auferstanden und wieder lebendig geworden, daß erüber Tote und Lebendige HERR sei."

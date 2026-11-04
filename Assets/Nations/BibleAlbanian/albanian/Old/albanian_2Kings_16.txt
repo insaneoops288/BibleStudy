@@ -1,5 +1,5 @@
 "Në vitin e shtatëmbëdhjetë të Pekahiahut, birit të Remaliahut, filloi të mbretërojë Ashazi, biri i Jothamit, mbret i Judës."
-"Kur filloi të mbretërojë, Ashazi ishte njëzet vjeç dhe qëndroi në fron gjashtëmbëdhjetë vjet në Jeruzalem. Ai nuk bëri atë që është e drejtë në sytë e Zotit, Perëndisë të tij, ashtu si kishte bërë Davidi, ati i tij;"
+"Kur filloi të mbretërojë, Ashazi ishte njëzet vjeç dhe qëndroi në fron gjashtëmbëdhjetë vjet në Jeruzalem. Ai nuk bëri atë #që është e drejtë në sytë e Zotit, Perëndisë të tij, ashtu si kishte bërë Davidi, ati i tij;"
 "por ndoqi rrugën e mbretërve të Izraelit dhe bëri madje të kalojë nëpër zjarr edhe të birin, sipas riteve të neveritshme të kombeve që Zoti kishte dëbuar para bijve të Izraelit;"
 "përveç kësaj bënte flijime dhe digjte temjan në vendet e larta, në kodrat dhe poshtë drurëve që gjelbëronin."
 "Atëherë Retsini, mbret i Sirisë, dhe Pekahu, bir i Remaliahut, dolën për të luftuar kundër Jeruzalemit; rrethuan aty Ashazin, por nuk arritën ta mundin."
@@ -7,7 +7,7 @@
 "Ashazi i dërgoi lajmëtarë Tiglath-Pileserit, mbretit të Asirëve, për t'i thënë
 "Ashazi mori pastaj argjendin dhe arin që ndodhej në shtëpinë e Zotit dhe në thesaret e pallatit mbretëror dhe ia dërgoi si dhuratë mbretit të Asirisë."
 "Atëherë mbreti i Asirisë e dëgjoi; pastaj mbreti i Asirisë doli kundër Damaskut, e pushtoi dhe internoi banorët e tij në Kir, dhe vrau Retsinin."
-"Atëherë mbreti Ashaz shkoi në Damask për të takuar Tiglath-Peleserin, mbretin e Asirisë; pasi pa altarin që ishte në Damask, mbreti Ashaz i dërgoi priftit Uria vizatimin dhe modelin e altarit, me gjitha hollësitë për ndërtimin e tij."
+"Atëherë mbreti Ashaz shkoi në Damask për të takuar Tiglath-Peleserin, mbretin e Asirisë; pasi pa altarin që ishte në Damask, #mbreti Ashaz i dërgoi priftit Uria vizatimin dhe modelin e altarit, me gjitha hollësitë për ndërtimin e tij."
 "Kështu prifti Uria ndërtoi një altar, sipas porosive që mbreti Ashaz i kishte dërguar nga Damasku; prifti Uria e ndërtoi para se mbreti Ashaz të kthehej nga Damasku."
 "Kur u kthye nga Damasku, mbreti pa altarin; pastaj mbreti iu afrua altarit dhe ofroi flijime mbi të."
 "Pastaj dogji mbi të olokaustin e tij dhe ofertën e tij ushqimore, derdhi libacionin e tij dhe spërkati mbi altarin gjakun e flijimeve të tij të falenderimit."

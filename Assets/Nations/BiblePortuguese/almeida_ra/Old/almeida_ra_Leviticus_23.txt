@@ -15,11 +15,11 @@
 "Contareis para vós, desde o dia depois do sábado, isto é, desde o dia em que houverdes trazido o molho da oferta de movimento, sete semanas inteiras;"
 "até o dia seguinte ao sétimo sábado, contareis cinquenta dias; então oferecereis nova oferta de cereais ao Senhor."
 "Das vossas habitações trareis, para oferta de movimento, dois pães de dois décimos de efá; serão de flor de farinha, e levedados se cozerão; são primícias ao Senhor."
-"Com os pães oferecereis sete cordeiros sem defeito, de um ano, um novilho e dois carneiros; serão holocausto ao Senhor, com as respectivas ofertas de cereais e de libação, por oferta queimada de cheiro suave ao Senhor."
+"Com os pães oferecereis sete cordeiros sem defeito, de um ano, um novilho e dois carneiros; serão holocausto ao #Senhor, com as respectivas ofertas de cereais e de libação, por oferta queimada de cheiro suave ao Senhor."
 "Também oferecereis um bode para oferta pelo pecado, e dois cordeiros de um ano para sacrifício de ofertas pacíficas."
 "Então o sacerdote os moverá, juntamente com os pães das primícias, por oferta de movimento perante o Senhor, com os dois cordeiros; santos serão ao Senhor para uso do sacerdote."
 "E fareis proclamação nesse mesmo dia, pois tereis santa convocação; nenhum trabalho servil fareis; é estatuto perpétuo em todas as vossas habitações pelas vossas gerações."
-"Quando fizeres a sega da tua terra, não segarás totalmente os cantos do teu campo, nem colherás as espigas caídas da tua sega; para o pobre e para o estrangeiro as deixarás. Eu sou o Senhor vosso Deus."
+"Quando fizeres a sega da tua terra, não segarás totalmente os cantos do teu campo, nem colherás as espigas caídas #da tua sega; para o pobre e para o estrangeiro as deixarás. Eu sou o Senhor vosso Deus."
 "Disse mais o Senhor a Moisés
 "Fala aos filhos de Israel
 "Nenhum trabalho servil fareis, e oferecereis oferta queimada ao Senhor."
@@ -34,9 +34,9 @@
 "Fala aos filhos de Israel, dizendo
 "No primeiro dia haverá santa convocação; nenhum trabalho servil fareis."
 "Por sete dias oferecereis ofertas queimadas ao Senhor; ao oitavo dia tereis santa convocação, e oferecereis oferta queimada ao Senhor; será uma assembleia solene; nenhum trabalho servil fareis."
-"Estas são as festas fixas do Senhor, que proclamareis como santas convocações, para oferecer-se ao Senhor oferta queimada, holocausto e oferta de cereais, sacrifícios e ofertas de libação, cada qual em seu dia próprio;"
+"Estas são as festas fixas do Senhor, que proclamareis como santas convocações, para oferecer-se ao Senhor oferta queimada, #holocausto e oferta de cereais, sacrifícios e ofertas de libação, cada qual em seu dia próprio;"
 "além dos sábados do Senhor, e além dos vossos dons, e além de todos os vossos votos, e além de todas as vossas ofertas voluntárias que derdes ao Senhor."
-"Desde o dia quinze do sétimo mês, quando tiverdes colhido os frutos da terra, celebrareis a festa do Senhor por sete dias; no primeiro dia haverá descanso solene, e no oitavo dia haverá descanso solene."
+"Desde o dia quinze do sétimo mês, quando tiverdes colhido os frutos da terra, celebrareis a festa do #Senhor por sete dias; no primeiro dia haverá descanso solene, e no oitavo dia haverá descanso solene."
 "No primeiro dia tomareis para vós o fruto de árvores formosas, folhas de palmeiras, ramos de árvores frondosas e salgueiros de ribeiras; e vos alegrareis perante o Senhor vosso Deus por sete dias."
 "E celebrá-la-eis como festa ao Senhor por sete dias cada ano; estatuto perpétuo será pelas vossas gerações; no mês sétimo a celebrareis."
 "Por sete dias habitareis em tendas de ramos; todos os naturais em Israel habitarão em tendas de ramos,"

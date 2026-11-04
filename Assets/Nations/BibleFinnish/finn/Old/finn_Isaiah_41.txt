@@ -1,5 +1,5 @@
 "Luodot olkaan ääneti minun edessäni, ja kansa vahvistukoon; astukaan edes ja puhukaan
-"Kuka on herättänyt vanhurskaan idästä? kuka hänen kutsui käymään? kuka antoi pakanat ja kuninkaat hänen eteensä, että hän tuli voimalliseksi heidän päällensä, ja antoi heidän hänen miekallensa niinkuin tomun, ja hänen joutsellensa niinkuin akanat, jotka hajoitetaan?"
+"Kuka on herättänyt vanhurskaan idästä? kuka hänen kutsui käymään? kuka antoi pakanat ja kuninkaat hänen eteensä, että hän tuli #voimalliseksi heidän päällensä, ja antoi heidän hänen miekallensa niinkuin tomun, ja hänen joutsellensa niinkuin akanat, jotka hajoitetaan?"
 "Ja hän ajoi heitä takaa, ja pääsi rauhassa sitä tietä, jota ei hänen jalkansa ennen käyneet."
 "Kuka tekee ja toimittaa sen, ja kutsuu sukukunnat alusta? Minä Herra olen ensimäinen, niin myös viimeinen, itse minä."
 "Kuin luodot näkivät sen, pelkäsivät he, ja maan ääret peljästyivät; he lähestyivät ja astuivat edes,"
@@ -19,7 +19,7 @@
 "Minä annan korvessa sedripuita, sittimipuita, myrttejä, ja öljypuita; minä annan kedolla honkia, böökejä ja buksipuita ynnä,"
 "Nähtää, tuta ja ymmärtää ja huomattaa, että Herran käsi on nämät tehnyt, ja Israelin Pyhä on nämät luonut."
 "Antakaat siis teidän asianne tulla edes, sanoo Herra; antakaat teidän väkevänne tulla edes, sanoo Jakobin kuningas."
-"Anna heidän astua edes ja ilmoittaa meille tulevaisia asioita, ilmoittakaat ja ennustakaat jotain edellä, ja me tahdomme ottaa sydämellemme vaarin ja ajatella, kuinka tästedes tuleva on, eli antakaat meidän kuulla, mitä tuleman pitää."
+"Anna heidän astua edes ja ilmoittaa meille tulevaisia asioita, ilmoittakaat ja ennustakaat jotain edellä, ja me tahdomme #ottaa sydämellemme vaarin ja ajatella, kuinka tästedes tuleva on, eli antakaat meidän kuulla, mitä tuleman pitää."
 "Ilmoittakaat, mitä tästedes on tuleva, niin me ymmärrämme teidän olevan jumalat; tehkäät hyvää eli pahaa, niin me puhumme siitä ja katselemme ynnä."
 "Katso, te olette tyhjästä, ja teidän tekonne on myös tyhjästä; ja joka teitä valitsee, se on kauhistus."
 "Mutta minä herätän yhden pohjasta, ja hän tulee; idästä hän on heille saarnaava minun nimeeni; ja hän käy voimallisten päällä niinkuin saven, ja sotkuu savea niinkuin savenvalaja."

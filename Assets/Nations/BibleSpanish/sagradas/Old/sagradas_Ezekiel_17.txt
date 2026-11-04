@@ -3,8 +3,8 @@
 "Y dirás
 "Arrancó el principal de sus renuevos, y lo llevó a la tierra de mercaderes, y lo puso en la ciudad de los negociantes."
 "Tomó también de la simiente de la tierra, y la puso en <I>un</I>  campo bueno para sembrar, la plantó junto a grandes aguas, la puso como un sauce."
-"Y reverdeció, y se hizo <I>una</I>  vid de mucha rama, baja de estatura, que sus ramas la miraban, y sus raíces <I>estaban</I>  debajo de ella; así que se hizo una vid, y arrojó sarmientos, y echó mugrones."
-"Y fue otra gran águila, de grandes alas y de muchas plumas; y he aquí que esta vid juntó cerca de ella sus raíces, y extendió hacia ella sus ramas, para ser regada por ella por los surcos de su plantío."
+"Y reverdeció, y se hizo <I>una</I>  vid de mucha rama, baja de estatura, que sus ramas la miraban, y #sus raíces <I>estaban</I>  debajo de ella; así que se hizo una vid, y arrojó sarmientos, y echó mugrones."
+"Y fue otra gran águila, de grandes alas y de muchas plumas; y he aquí que esta vid juntó cerca de #ella sus raíces, y extendió hacia ella sus ramas, para ser regada por ella por los surcos de su plantío."
 "En <I>un</I>  buen campo, junto a muchas aguas fue plantada, para que hiciese ramas y llevase fruto, y para que fuese vid robusta."
 "Di
 "Y he aquí que plantada está ella, ¿será prosperada? ¿No se secará del todo cuando el viento solano la tocare? En los surcos de su verdor se secará."

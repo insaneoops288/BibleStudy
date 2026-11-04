@@ -1,4 +1,4 @@
-"Et toute l'assemblée des enfants d'Israël partit du désert de Sin, suivant leurs étapes, d'après le commandement de l'Éternel. Et ils campèrent à Réphidim; et il n'y avait point d'eau à boire pour le peuple."
+"Et toute l'assemblée des enfants d'Israël partit du désert de Sin, suivant leurs étapes, d'après le commandement de #l'Éternel. Et ils campèrent à Réphidim; et il n'y avait point d'eau à boire pour le peuple."
 "Et le peuple contesta avec Moïse; et ils dirent
 "Le peuple eut donc soif dans ce lieu, faute d'eau; et le peuple murmura contre Moïse, et dit
 "Et Moïse cria à l'Éternel, en disant
@@ -9,7 +9,7 @@
 "Et Moïse dit à Josué
 "Et Josué fit comme Moïse lui avait dit, pour combattre contre Amalek. Moïse, Aaron et Hur montèrent au sommet de la colline."
 "Et il arrivait, lorsque Moïse élevait sa main, qu'Israël était le plus fort, mais quand il reposait sa main, Amalek était le plus fort."
-"Et les mains de Moïse étant devenues pesantes, ils prirent une pierre et la mirent sous lui, et il s'assit dessus; et Aaron et Hur soutinrent ses mains, l'un d'un côté et l'autre de l'autre; et ses mains furent fermes jusqu'au coucher du soleil."
+"Et les mains de Moïse étant devenues pesantes, ils prirent une pierre et la mirent sous lui, et il s'assit dessus; et Aaron #et Hur soutinrent ses mains, l'un d'un côté et l'autre de l'autre; et ses mains furent fermes jusqu'au coucher du soleil."
 "Et Josué défit Amalek et son peuple par le tranchant de l'épée."
 "Alors l'Éternel dit à Moïse
 "Et Moïse bâtit un autel, et le nomma

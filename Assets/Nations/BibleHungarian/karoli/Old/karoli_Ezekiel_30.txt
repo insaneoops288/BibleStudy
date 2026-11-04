@@ -22,5 +22,5 @@
 "Ennekokáért így szól az Úr Isten
 "És eloszlatom az Égyiptombelieket a nemzetek közé, és szétszórom õket a tartományokba."
 "És megerõsítem Babilon királyának karjait, és adom az én fegyveremet kezébe, és eltöröm a Faraó karjait, és nyögni fog elõtte, mint a megsebesültek szoktak."
-"Megerõsítem azért Babilon királyának karjait, a Faraó karjai pedig leessenek, hogy megtudják, hogy én vagyok az Úr, mikor adom fegyveremet Babilon királyának kezébe, hogy azt kinyújtsa Égyiptomnak földje ellen."
+"Megerõsítem azért Babilon királyának karjait, a Faraó karjai pedig leessenek, hogy megtudják, hogy én vagyok #az Úr, mikor adom fegyveremet Babilon királyának kezébe, hogy azt kinyújtsa Égyiptomnak földje ellen."
 "És eloszlatom az égyiptomiakat a nemzetek közé, és szétszórom õket a tartományokba, hogy megtudják, hogy én vagyok az Úr."

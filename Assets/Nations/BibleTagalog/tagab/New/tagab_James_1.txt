@@ -22,6 +22,6 @@
 "Datapuwa't maging tagatupad kayo ng salita, at huwag tagapakinig lamang, na inyong dinadaya ang inyong sarili."
 "Sapagka't kung ang sinoman ay tagapakinig ng salita at hindi tagatupad, ay katulad siya ng isang tao na tinitingnan ang kaniyang talagang mukha sa salamin
 "Sapagka't minamasdan niya ang kaniyang sarili, at siya'y umaalis at pagdaka'y kaniyang nalilimutan kung ano siya."
-"Nguni't ang nagsisiyasat ng sakdal na kautusan, ang kautusan ng kalayaan, at nananatiling gayon, na hindi tagapakinig na lumilimot, kundi tagatupad na gumagawa, ay pagpapalain ang taong ito sa kaniyang ginagawa."
+"Nguni't ang nagsisiyasat ng sakdal na kautusan, ang kautusan ng kalayaan, at nananatiling gayon, na hindi #tagapakinig na lumilimot, kundi tagatupad na gumagawa, ay pagpapalain ang taong ito sa kaniyang ginagawa."
 "Kung ang sinoman ay nagiisip na siya'y relihioso samantalang hindi pinipigil ang kaniyang dila, kundi dinadaya ang kaniyang puso, ang relihion ng taong ito ay walang kabuluhan."
-"Ang dalisay na relihion at walang dungis sa harapan ng ating Dios at Ama ay ito, dalawin ang mga ulila at mga babaing bao sa kanilang kapighatian, at pagingatang walang dungis ang kaniyang sarili sa sanglibutan."
+"Ang dalisay na relihion at walang dungis sa harapan ng ating Dios at Ama ay ito, dalawin ang mga #ulila at mga babaing bao sa kanilang kapighatian, at pagingatang walang dungis ang kaniyang sarili sa sanglibutan."

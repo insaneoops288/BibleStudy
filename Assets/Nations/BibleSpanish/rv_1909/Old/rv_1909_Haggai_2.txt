@@ -9,7 +9,7 @@
 "La gloria de aquesta casa postrera será mayor que la de la primera, ha dicho Jehová de los ejércitos; y daré paz en este lugar, dice Jehová de los ejércitos."
 "A veinticuatro del noveno mes, en el segundo año de Darío, fué palabra de Jehová por mano del profeta Haggeo, diciendo
 "Así ha dicho Jehová de los ejércitos
-"Si llevare alguno las carnes sagradas en la falda de su ropa, y con el vuelo de ella tocare el pan, ó la vianda, ó el vino, ó el aceite, ú otra cualquier comida, ¿será santificado? Y respondieron los sacerdotes, y dijeron
+"Si llevare alguno las carnes sagradas en la falda de su ropa, y con el vuelo de ella tocare el pan, ó #la vianda, ó el vino, ó el aceite, ú otra cualquier comida, ¿será santificado? Y respondieron los sacerdotes, y dijeron
 "Y dijo Haggeo
 "Y respondió Haggeo y dijo
 "Ahora pues, poned vuestro corazón desde este día en adelante, antes que pusiesen piedra sobre piedra en el templo de Jehová,"
@@ -19,5 +19,5 @@
 "¿Aun no está la simiente en el granero? ni la vid, ni la higuera, ni el granado, ni el árbol de la oliva ha todavía florecido
 "Y fué segunda vez palabra de Jehová á Haggeo, á los veinticuatro del mismo mes, diciendo
 "Habla á Zorobabel, gobernador de Judá, diciendo
-"Y trastornaré el trono de los reinos, y destruiré la fuerza del reino de las gentes; y trastornaré el carro, y los que en él suben; y vendrán abajo los caballos, y los que en ellos montan, cada cual por la espada de su hermano."
+"Y trastornaré el trono de los reinos, y destruiré la fuerza del reino de las gentes; y trastornaré el carro, y los que #en él suben; y vendrán abajo los caballos, y los que en ellos montan, cada cual por la espada de su hermano."
 "En aquel día, dice Jehová de los ejércitos, te tomaré, oh Zorobabel, hijo de Sealtiel, siervo mío, dice Jehová, y ponerte he como anillo de sellar

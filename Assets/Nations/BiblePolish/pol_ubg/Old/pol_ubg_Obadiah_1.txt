@@ -2,7 +2,7 @@
 "Oto uczyniłem cię małym wśród narodów, jesteś bardzo wzgardzony."
 "Pycha twego serca zwiodła cię, ty, który mieszkasz w rozpadlinach skalnych, masz swoje mieszkanie na wysokości; ty, który mówisz w swoim sercu
 "Choćbyś wywyższył się jak orzeł, choćbyś założył swoje gniazdo wśród gwiazd, stamtąd cię strącę, mówi PAN."
-"Jakże jesteś zniszczony! Gdyby złodzieje przyszli do ciebie, gdyby rabusie zjawili się w nocy, czy nie kradliby tyle, ile potrzebują? Gdyby przyszli do ciebie zbieracze winogron, czy nie zostawiliby trochę winogron?"
+"Jakże jesteś zniszczony! Gdyby złodzieje przyszli do ciebie, gdyby rabusie zjawili się w nocy, czy nie #kradliby tyle, ile potrzebują? Gdyby przyszli do ciebie zbieracze winogron, czy nie zostawiliby trochę winogron?"
 "Jakże przeszukane są skarby Ezawa, a przetrząśnięte jego skryte rzeczy!"
 "Aż do granicy wypchnęli cię wszyscy twoi sprzymierzeńcy. Ci, z którymi miałeś pokój, zdradzili cię i pokonali; ci, którzy jedli twój chleb, zranili cię zdradliwie. Nie ma zrozumienia u niego."
 "Czyż w owym dniu – mówi PAN – nie wytracę mędrców z Edomu, a rozumu – z góry Ezawa?"

@@ -1,6 +1,6 @@
 "Y dos días después [era la fiesta de] la pascua, y de los panes sin levadura; y los príncipes de los sacerdotes y los escribas buscaban cómo prenderle por engaño y matarle."
 "Y decían
-"Y estando Él en Betania, en casa de Simón el leproso, sentado Él a la mesa, vino una mujer trayendo un frasco de alabastro de ungüento de nardo puro, de mucho precio, y quebrando el frasco de alabastro, se lo derramó sobre su cabeza."
+"Y estando Él en Betania, en casa de Simón el leproso, sentado Él a la mesa, vino una mujer trayendo un frasco de #alabastro de ungüento de nardo puro, de mucho precio, y quebrando el frasco de alabastro, se lo derramó sobre su cabeza."
 "Y hubo algunos que se indignaron dentro de sí, y dijeron
 "Porque podía esto haberse vendido por más de trescientos denarios, y haberse dado a los pobres. Y murmuraban contra ella."
 "Mas Jesús dijo

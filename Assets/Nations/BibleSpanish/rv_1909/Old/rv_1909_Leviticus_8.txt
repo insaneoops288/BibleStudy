@@ -12,7 +12,7 @@
 "Y derramó del aceite de la unción sobre la cabeza de Aarón, y ungiólo para santificarlo."
 "Después Moisés hizo llegar los hijos de Aarón, y vistióles las túnicas, y ciñólos con cintos, y ajustóles los chapeos (tiaras), como Jehová lo había mandado á Moisés."
 "Hizo luego llegar el becerro de la expiación, y Aarón y sus hijos pusieron sus manos sobre la cabeza del becerro de la expiación."
-"Y degollólo; y Moisés tomó la sangre, y puso con su dedo sobre los cuernos del altar alrededor, y purificó el altar; y echó la demás sangre al pie del altar, y santificólo para reconciliar sobre él."
+"Y degollólo; y Moisés tomó la sangre, y puso con su dedo sobre los cuernos del altar alrededor, y #purificó el altar; y echó la demás sangre al pie del altar, y santificólo para reconciliar sobre él."
 "Después tomó todo el sebo que estaba sobre los intestinos, y el redaño del hígado, y los dos riñones, y el sebo de ellos, é hízolo Moisés arder sobre el altar."
 "Mas el becerro, y su cuero, y su carne, y su estiércol, quemólo al fuego fuera del real; como Jehová lo había mandado á Moisés."
 "Después hizo llegar el carnero del holocausto, y Aarón y sus hijos pusieron sus manos sobre la cabeza del carnero
@@ -27,7 +27,7 @@
 "Y púsolo todo en las manos de Aarón, y en las manos de sus hijos, é hízolo mecer
 "Después tomó aquellas cosas Moisés de las manos de ellos, é hízolas arder en el altar sobre el holocausto
 "Y tomó Moisés el pecho, y meciólo, ofrenda agitada delante de Jehová
-"Luego tomó Moisés del aceite de la unción, y de la sangre que estaba sobre el altar, y roció sobre Aarón, y sobre sus vestiduras, sobre sus hijos, y sobre las vestiduras de sus hijos con él; y santificó á Aarón, y sus vestiduras, y á sus hijos, y las vest"
+"Luego tomó Moisés del aceite de la unción, y de la sangre que estaba sobre el altar, y roció sobre Aarón, y sobre sus vestiduras, sobre #sus hijos, y sobre las vestiduras de sus hijos con él; y santificó á Aarón, y sus vestiduras, y á sus hijos, y las vest"
 "Y dijo Moisés á Aarón y á sus hijos
 "Y lo que sobrare de la carne y del pan, habéis de quemarlo al fuego."
 "De la puerta del tabernáculo del testimonio no saldréis en siete días, hasta el día que se cumplieren los días de vuestras consagraciones

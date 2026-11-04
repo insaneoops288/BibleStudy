@@ -8,7 +8,7 @@
 "También David se levantó después, y saliendo de la cueva dio voces a las espaldas de Saúl, diciendo
 "Y dijo David a Saúl
 "He aquí han visto hoy tus ojos cómo el SEÑOR te ha puesto hoy en mis manos en <I>esta</I>  cueva; y dijeron que te matase, mas te perdoné, porque dije
-"Y mira, padre mío, mira aún la orilla de tu ropa en mi mano; porque <I>yo</I>  corté la orilla de tu manto, y no te maté. Conoce, pues, y ve que no hay mal ni traición en mi mano, ni he pecado contra ti; <I>con todo</I> ,  tú andas a caza de mi vida para quitármela."
+"Y mira, padre mío, mira aún la orilla de tu ropa en mi mano; porque <I>yo</I>  corté la orilla de tu manto, y no te maté. Conoce, pues, y #ve que no hay mal ni traición en mi mano, ni he pecado contra ti; <I>con todo</I> ,  tú andas a caza de mi vida para quitármela."
 "Juzgue el SEÑOR entre mí y ti, y véngueme de ti el SEÑOR; pero mi mano no será contra ti."
 "Como dice el proverbio del antiguo
 "¿Tras quién ha salido el rey de Israel? ¿A quién persigues? ¿A un perro muerto? ¿A una pulga?"

@@ -7,10 +7,10 @@
 "Powiedział też
 "Ale odpowiedzieli
 "A gdy jeszcze z nimi rozmawiał, z trzodą swojego ojca nadeszła Rachela, bowiem była pasterką."
-"Zaś kiedy Jakób ujrzał Rachelę, córkę Labana, brata jego matki oraz trzodę Labana, brata jego matki, stało się, że Jakób podszedł, stoczył kamień znad otworu studni oraz napoił trzodę Labana, brata jego matki."
+"Zaś kiedy Jakób ujrzał Rachelę, córkę Labana, brata jego matki oraz trzodę Labana, brata jego matki, stało #się, że Jakób podszedł, stoczył kamień znad otworu studni oraz napoił trzodę Labana, brata jego matki."
 "Jakób ucałował też Rachelę oraz podniósł swój głos i zapłakał."
 "I Jakób oznajmił Racheli, że jest siostrzeńcem jej ojca, synem Ribki; więc pobiegła oraz opowiedziała to swojemu ojcu."
-"A gdy Laban usłyszał wiadomość o synu swojej siostry Jakóbie, stało się, że pobiegł na jego spotkanie, uścisnął go, ucałował oraz wprowadził go do swojego domu; wtedy opowiedział Labanowi o wszystkim."
+"A gdy Laban usłyszał wiadomość o synu swojej siostry Jakóbie, stało się, że pobiegł na jego #spotkanie, uścisnął go, ucałował oraz wprowadził go do swojego domu; wtedy opowiedział Labanowi o wszystkim."
 "A Laban powiedział do niego
 "Wtedy Laban powiedział do Jakóba
 "A Laban miał dwie córki; imię starszej to Lea, a imię młodszej to Rachela."

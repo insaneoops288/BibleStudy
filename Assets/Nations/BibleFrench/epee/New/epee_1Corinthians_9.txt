@@ -7,9 +7,9 @@
 "Qui est-ce qui va jamais à la guerre à sa propre solde? Qui plante une vigne, et ne mange pas de son fruit? Ou, qui paît un troupeau, et ne mange pas du lait du troupeau?"
 "Dis-je ceci selon la coutume des hommes? La loi ne le dit-elle pas aussi?"
 "Car il est écrit dans la loi de Moïse
-"Ou n'est-ce pas réellement pour nous qu'il a dit cela? C'est pour nous qu'il a écrit que celui qui laboure, doit labourer avec espérance, et celui qui foule le grain, le fouler avec espérance d'avoir part à ce qu'il espère."
+"Ou n'est-ce pas réellement pour nous qu'il a dit cela? C'est pour nous qu'il a écrit que celui qui laboure, doit #labourer avec espérance, et celui qui foule le grain, le fouler avec espérance d'avoir part à ce qu'il espère."
 "Si nous avons semé pour vous les choses spirituelles, est-ce beaucoup que nous moissonnions de vous les charnelles?"
-"Si d'autres usent de ce droit sur vous, n'en userions-nous pas plutôt? Cependant, nous n'avons point usé de ce droit, au contraire, nous endurons tout, afin de n'apporter aucun obstacle à l'Évangile de Christ."
+"Si d'autres usent de ce droit sur vous, n'en userions-nous pas plutôt? Cependant, nous n'avons point usé de #ce droit, au contraire, nous endurons tout, afin de n'apporter aucun obstacle à l'Évangile de Christ."
 "Ne savez-vous pas que ceux qui font le service sacré, mangent des choses sacrées, et que ceux qui servent à l'autel, ont part à l'autel?"
 "De même aussi, le Seigneur a ordonné à ceux qui annoncent l'Évangile, de vivre de l'Évangile."
 "Mais pour moi, je n'ai usé d'aucun de ces droits, et je n'écris point ceci, afin d'obtenir rien de semblable; car j'aimerais mieux mourir, que si quelqu'un m'ôtait ce sujet de gloire."

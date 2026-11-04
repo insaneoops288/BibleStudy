@@ -4,7 +4,7 @@
 "sondern sie sollen bei dir sein, daß sie des Dienstes warten an der Hütte des Stifts in allem Amt der Hütte; und kein Fremder soll sich zu euch tun."
 "So wartet nun des Dienstes des Heiligtums und des Dienstes des Altars, daß hinfort nicht mehr ein Wüten kommeüber die Kinder Israel."
 "Denn siehe, ich habe die Leviten, eure Brüder, genommen aus den Kindern Israel, dem HERRN zum Geschenk, und euch gegeben, daß sie des Amts pflegen an der Hütte des Stifts."
-"Du aber und deine Söhne mit dir sollt eures Priestertums warten, daß ihr dienet in allerlei Geschäft des Altars und inwendig hinter dem Vorhang; denn euer Priestertum gebe ich euch zum Amt, zum Geschenk. Wenn ein Fremder sich herzutut, der soll sterben."
+"Du aber und deine Söhne mit dir sollt eures Priestertums warten, daß ihr dienet in allerlei Geschäft des Altars und inwendig hinter #dem Vorhang; denn euer Priestertum gebe ich euch zum Amt, zum Geschenk. Wenn ein Fremder sich herzutut, der soll sterben."
 "Und der HERR sagte zu Aaron
 "Das sollst du haben von dem Hochheiligen
 "An einem heiligen Ort sollst du es essen. Was männlich ist, soll davon essen; denn es soll dir heilig sein."
@@ -12,15 +12,15 @@
 "Alles besteÖl und alles Beste vom Most und Korn, nämlich ihre Erstlinge, die sie dem HERRN geben, habe ich dir gegeben."
 "Die erste Frucht, die sie dem HERRN bringen von allem, was in ihrem Lande ist, soll dein sein; wer rein ist in deinem Hause, soll davon essen."
 "Alles Verbannte in Israel soll dein sein."
-"Alles, was die Mutter bricht unter allem Fleisch, das sie dem HERRN bringen, es sei ein Mensch oder Vieh, soll dein sein; doch daß du die erste Menschenfrucht lösen lassest und die erste Frucht eines unreinen Viehs auch lösen lassest."
+"Alles, was die Mutter bricht unter allem Fleisch, das sie dem HERRN bringen, es sei ein Mensch oder Vieh, soll dein #sein; doch daß du die erste Menschenfrucht lösen lassest und die erste Frucht eines unreinen Viehs auch lösen lassest."
 "Sie sollen's aber lösen, wenn's einen Monat alt ist; und sollst es zu lösen geben um Geld, um fünf Silberlinge nach dem Lot des Heiligtums, das hat zwanzig Gera."
-"Aber die erste Frucht eines Rindes oder Schafes oder einer Ziege sollst du nicht zu lösen geben, denn sie sind heilig; ihr Blut sollst du sprengen auf den Altar, und ihr Fett sollst du anzünden zum Opfer des süßen Geruchs dem HERRN."
+"Aber die erste Frucht eines Rindes oder Schafes oder einer Ziege sollst du nicht zu lösen geben, denn sie sind heilig; ihr #Blut sollst du sprengen auf den Altar, und ihr Fett sollst du anzünden zum Opfer des süßen Geruchs dem HERRN."
 "Ihr Fleisch soll dein sein, wie auch die Webebrust und die rechte Schulter dein ist."
-"Alle Hebeopfer, die die Kinder Israel heiligen dem HERRN, habe ich dir gegeben und deinen Söhnen und deinen Töchtern samt dir zum ewigen Recht. Das soll ein unverweslicher Bund sein ewig vor dem HERRN, dir und deinem Samen samt dir."
+"Alle Hebeopfer, die die Kinder Israel heiligen dem HERRN, habe ich dir gegeben und deinen Söhnen und deinen Töchtern samt dir #zum ewigen Recht. Das soll ein unverweslicher Bund sein ewig vor dem HERRN, dir und deinem Samen samt dir."
 "Und der HERR sprach zu Aaron
 "Den Kindern Levi aber habe ich alle Zehnten gegeben in Israel zum Erbgut für ihr Amt, das sie mir tun an der Hütte des Stifts.{~}"
 "Daß hinfort die Kinder Israel nicht zur Hütte des Stifts sich tun, Sünde auf sich zu laden, und sterben;"
-"sondern die Leviten sollen des Amts pflegen an der Hütte des Stifts, und sie sollen jener Missetat tragen zu ewigem Recht bei euren Nachkommen. Und sie sollen unter den Kindern Israel kein Erbgut besitzen;"
+"sondern die Leviten sollen des Amts pflegen an der Hütte des Stifts, und sie sollen jener Missetat tragen #zu ewigem Recht bei euren Nachkommen. Und sie sollen unter den Kindern Israel kein Erbgut besitzen;"
 "Denn den Zehnten der Kinder Israel, den sie dem HERRN heben, habe ich den Leviten zum Erbgut gegeben. Darum habe ich zu ihnen gesagt, daß sie unter den Kindern Israel kein Erbgut besitzen sollen."
 "Und der HERR redete mit Mose und sprach
 "Sage den Leviten und sprich zu ihnen

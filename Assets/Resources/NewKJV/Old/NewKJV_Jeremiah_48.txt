@@ -8,7 +8,7 @@ For because you have trusted in your works and your treasures, You also shall be
 And the plunderer shall come against every city; No one shall escape. The valley also shall perish, And the plain shall be destroyed, As the LORD has spoken.
 "Give wings to Moab, That she may flee and get away; For her cities shall be desolate, Without any to dwell in them.
 Cursed is he who does the work of the LORD deceitfully, And cursed is he who keeps back his sword from blood.
-"Moab has been at ease from his youth; He has settled on his dregs, And has not been emptied from vessel to vessel, Nor has he gone into captivity. Therefore his taste remained in him, And his scent has not changed.
+"Moab has been at ease from his youth; He has settled on his dregs, And has not been emptied from vessel #to vessel, Nor has he gone into captivity. Therefore his taste remained in him, And his scent has not changed.
 "Therefore behold, the days are coming," says the LORD, "That I shall send him wine-workers Who will tip him over And empty his vessels And break the bottles.
 Moab shall be ashamed of Chemosh, As the house of Israel was ashamed of Bethel, their confidence.
 "How can you say, 'We are mighty And strong men for the war'?
@@ -42,6 +42,6 @@ Kerioth is taken, And the strongholds are surprised; The mighty men's hearts in 
 And Moab shall be destroyed as a people, Because he exalted himself against the LORD.
 Fear and the pit and the snare shall be upon you, O inhabitant of Moab," says the LORD.
 "He who flees from the fear shall fall into the pit, And he who gets out of the pit shall be caught in the snare. For upon Moab, upon it I will bring The year of their punishment," says the LORD.
-"Those who fled stood under the shadow of Heshbon Because of exhaustion. But a fire shall come out of Heshbon, A flame from the midst of Sihon, And shall devour the brow of Moab, The crown of the head of the sons of tumult.
+"Those who fled stood under the shadow of Heshbon Because of exhaustion. But a fire shall come out of Heshbon, A flame from #the midst of Sihon, And shall devour the brow of Moab, The crown of the head of the sons of tumult.
 Woe to you, O Moab! The people of Chemosh perish; For your sons have been taken captive, And your daughters captive.
 "Yet I will bring back the captives of Moab In the latter days," says the LORD. Thus far is the judgment of Moab.

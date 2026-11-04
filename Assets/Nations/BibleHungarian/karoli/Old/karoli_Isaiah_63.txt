@@ -4,7 +4,7 @@
 "Mert bosszúállás napja volt szívemben, és megváltottaim esztendeje eljött."
 "Körültekinték és nem vala segítõ, s álmélkodám és nem vala gyámolító, és segített nékem karom, és haragom gyámolított engem!"
 "És megtapodtam népeket búsulásomban, és megrészegítem õket haragomban, és ontám a földre véröket!"
-"Az Úrnak kegyelmességeirõl emlékezem, az Úr dicséreteirõl mind a szerint, a mit az Úr velünk cselekedett; az Izráel házához való sok jóságáról, a melyet velök cselekedett irgalma és kegyelmének sokasága szerint."
+"Az Úrnak kegyelmességeirõl emlékezem, az Úr dicséreteirõl mind a szerint, a mit az Úr velünk cselekedett; #az Izráel házához való sok jóságáról, a melyet velök cselekedett irgalma és kegyelmének sokasága szerint."
 "És õ mondá
 "Minden szenvedésöket Õ is szenvedte, és orczájának angyala megszabadítá õket, szerelmében és kegyelmében váltotta Õ meg õket, fölvette és hordozá õket a régi idõk minden napjaiban."
 "Õk pedig engedetlenek voltak és megszomoríták szentségének lelkét, és õ ellenségükké lõn, hadakozott ellenök."

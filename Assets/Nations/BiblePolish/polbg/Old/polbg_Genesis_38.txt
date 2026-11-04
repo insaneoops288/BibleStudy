@@ -11,7 +11,7 @@
 "Zatem rzekł Judas do Tamary, niewiasty swej
 "A gdy minęło wiele dni, umarła córka Suego, żona Judasowa; i pocieszywszy się Judas, szedł do tych, co strzygli owce jego, sam i Chyra, towarzysz jego, Odolamita, do Timnat."
 "I oznajmiono to Tamarze, mówiąc
-"Która złożywszy z siebie szaty wdowieństwa swego, okryła się rąbkiem, i zatknęła się, i usiadła na rozstaniu drogi, która wiedzie do Timnat; bo widziała, że był urósł Sela, a ona nie była mu dana za żonę."
+"Która złożywszy z siebie szaty wdowieństwa swego, okryła się rąbkiem, i zatknęła się, i usiadła na rozstaniu drogi, która #wiedzie do Timnat; bo widziała, że był urósł Sela, a ona nie była mu dana za żonę."
 "A ujrzawszy ją Judas, mniemał, że to nierządnica, bo zakryła była twarz swoję."
 "Tedy ustąpiwszy do niej z drogi, mówił
 "I odpowiedział

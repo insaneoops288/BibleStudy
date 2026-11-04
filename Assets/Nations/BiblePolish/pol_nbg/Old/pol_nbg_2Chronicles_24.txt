@@ -8,10 +8,10 @@
 "Dlatego król rozkazał, aby zrobiono jedną skrzynię i postawiono ją przed bramą Domu WIEKUISTEGO."
 "Więc obwołano w Judzie i w Jeruszalaim, aby znoszono WIEKUISTEMU dar ustanowiony dla Israela na pustyni, przez sługę Boga Mojżesza."
 "Zatem weselili się wszyscy władcy oraz cały lud, i przynosząc, rzucali do owej skrzyni, aż ją napełnili."
-"A kiedy na królewski rozkaz przynosili skrzynię przez ręce Lewitów (widząc, że było wiele pieniędzy) przychodził królewski pisarz i delegat najwyższego kapłana, i wypróżniali skrzynię; potem ją odnosili, i stawiali ją na swoim miejscu. Tak czynili w każdy dzień, więc zebrali bardzo wiele pieniędzy."
-"A król i Jehojada oddawali je przełożonym nad pracami w Domu WIEKUISTEGO; zaś oni wynajmowali kamieniarzy i cieśli do poprawy Domu WIEKUISTEGO; nadto kowali od żelaza i miedzi, w celu wzmocnieniu Domu WIEKUISTEGO."
+"A kiedy na królewski rozkaz przynosili skrzynię przez ręce Lewitów (widząc, że było wiele pieniędzy) przychodził królewski pisarz i delegat najwyższego kapłana, i #wypróżniali skrzynię; potem ją odnosili, i stawiali ją na swoim miejscu. Tak czynili w każdy dzień, więc zebrali bardzo wiele pieniędzy."
+"A król i Jehojada oddawali je przełożonym nad pracami w Domu WIEKUISTEGO; zaś oni wynajmowali kamieniarzy i #cieśli do poprawy Domu WIEKUISTEGO; nadto kowali od żelaza i miedzi, w celu wzmocnieniu Domu WIEKUISTEGO."
 "A robotnicy pracowali, zatem przez ich ręce podnosiło się owo dzieło. I doprowadzili Dom Boga do swojej całości oraz go wzmocnili."
-"Zaś kiedy dokończyli, przynieśli przed króla i Jehojadę resztę pieniędzy, więc zrobiono z nich sprzęty do Domu WIEKUISTEGO naczynia do posługiwania i ofiarowania, czasze oraz inne, złote i srebrne naczynia. I ustawicznie, po wszystkie dni Jehojady, składali całopalenia w Domu WIEKUISTEGO."
+"Zaś kiedy dokończyli, przynieśli przed króla i Jehojadę resztę pieniędzy, więc zrobiono z nich sprzęty do Domu WIEKUISTEGO naczynia do posługiwania #i ofiarowania, czasze oraz inne, złote i srebrne naczynia. I ustawicznie, po wszystkie dni Jehojady, składali całopalenia w Domu WIEKUISTEGO."
 "Potem Jehojada się zestarzał, a będąc sytym dni, umarł; zaś kiedy umarł miał sto trzydzieści lat."
 "Wiec pochowano go z królami, w mieście Dawida, dlatego, że słusznie czynił w Israelu, stał Bogiem i jego Domem."
 "A kiedy Jehojada umarł, przyszli judzcy władcy i pokłonili się królowi; zatem ich król usłuchał."
@@ -22,6 +22,6 @@
 "A król Joasz nie pamiętał miłosierdzia, które uczynił dla niego Jehojada, jego ojciec, lecz zabił jego syna. Zaś on, gdy umierał, mówił
 "A po roku się stało, że przyciągnęło przeciw niemu wojsko aramejskie. Przyszło do Judy i Jeruszalaim oraz zgładzili wszystkich władców ludu, a wszystkie ich łupy posłali królowi Damaszku."
 "I choć wojsko aramejskie przyciągnęło w małym zastępie ludu, jednak WIEKUISTY podał w ich ręce wielkie wojsko; gdyż opuścili WIEKUISTEGO, Boga swoich przodków. Zatem wykonali sądy nad Joaszem."
-"A kiedy odciągnęli od niego, zostawiając go w wielkich cierpieniach, sprzysięgli się przeciw niemu jego słudzy z powodu krwi synów kapłana Jehojady, po czym go zabili na jego łożu. Więc umarł i pochowano go w mieście Dawida; ale nie pochowano go w grobach królewskich."
+"A kiedy odciągnęli od niego, zostawiając go w wielkich cierpieniach, sprzysięgli się przeciw niemu jego słudzy z powodu krwi synów kapłana Jehojady, po #czym go zabili na jego łożu. Więc umarł i pochowano go w mieście Dawida; ale nie pochowano go w grobach królewskich."
 "A ci się przeciw niemu sprzysięgli
 "A o jego synach, wielkich jego brzemionach i o naprawie Domu Boga to wszystko zostało napisane w Księgach Królów; i zamiast niego panował Amacjasz, jego syn."

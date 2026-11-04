@@ -5,7 +5,7 @@
 "¿Y por qué nos has hecho venir de Egipto, a este mal lugar? No <I>es</I>  lugar de sementera, de higueras, de viñas, ni granadas; ni aun <I>hay</I>  agua para beber."
 "Y se fueron Moisés y Aarón de delante de la congregación a la puerta del tabernáculo del testimonio, y se postraron sobre sus rostros; y la gloria del SEÑOR apareció sobre ellos."
 "Y habló el SEÑOR a Moisés, diciendo
-"Toma la vara y reúne la congregación, tú y Aarón tu hermano, y hablad a la peña en ojos de ellos; y ella dará su agua, y les sacarás aguas de la peña, y darás de beber a la congregación, y a sus bestias."
+"Toma la vara y reúne la congregación, tú y Aarón tu hermano, y hablad a la peña en ojos de ellos; y ella #dará su agua, y les sacarás aguas de la peña, y darás de beber a la congregación, y a sus bestias."
 "Entonces Moisés tomó la vara de delante del SEÑOR, como él le mandó."
 "Y juntaron Moisés y Aarón <I>a</I>  la congregación delante de la peña, y les dijo
 "Entonces alzó Moisés su mano, e hirió la peña con su vara dos veces; y salieron muchas aguas, y bebió la congregación, y sus bestias."
@@ -14,7 +14,7 @@
 "Y envió Moisés embajadores al rey de Edom desde Cades, <I>diciendo</I>
 "cómo nuestros padres descendieron a Egipto, y estuvimos en Egipto largo tiempo, y los egipcios nos maltrataron, y a nuestros padres;"
 "y clamamos al SEÑOR, el cual oyó nuestra voz, y envió un ángel, y nos sacó de Egipto; y he aquí estamos en Cades, ciudad al extremo de tu término."
-"Te rogamos que pasemos por tu tierra; no pasaremos por labranza, ni por viña, ni beberemos agua de pozos; por el camino real iremos, sin apartarnos a diestra ni a siniestra, hasta que hayamos pasado tu término."
+"Te rogamos que pasemos por tu tierra; no pasaremos por labranza, ni por viña, ni beberemos agua de pozos; #por el camino real iremos, sin apartarnos a diestra ni a siniestra, hasta que hayamos pasado tu término."
 "Y Edom le respondió
 "Y los hijos de Israel dijeron
 "Y él respondió

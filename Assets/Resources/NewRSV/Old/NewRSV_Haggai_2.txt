@@ -1,7 +1,7 @@
 In the second year of King Darius, in the seventh month, on the twenty-first day of the month, the word of the LORD came by the prophet Haggai, saying,
 Speak now to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, and to the remnant of the people, and say,
 Who is left among you that saw this house in its former glory? How does it look to you now? Is it not in your sight as nothing?
-Yet now take courage, O Zerubbabel, says the LORD; take courage, O Joshua, son of Jehozadak, the high priest; take courage, all you people of the land, says the LORD; work, for I am with you, says the LORD of hosts,
+Yet now take courage, O Zerubbabel, says the LORD; take courage, O Joshua, son of Jehozadak, the high priest; take courage, #all you people of the land, says the LORD; work, for I am with you, says the LORD of hosts,
 according to the promise that I made you when you came out of Egypt. My spirit abides among you; do not fear.
 For thus says the LORD of hosts, Once again, in a little while, I will shake the heavens and the earth and the sea and the dry land;
 and I will shake all the nations, so that the treasure of all nations shall come, and I will fill this house with splendor, says the LORD of hosts.
@@ -19,5 +19,5 @@ Consider from this day on, from the twenty-fourth day of the ninth month. Since 
 Is there any seed left in the barn? Do the vine, the fig tree, the pomegranate, and the olive tree still yield nothing? From this day on I will bless you.
 The word of the LORD came a second time to Haggai on the twenty-fourth day of the month,
 Speak to Zerubbabel, governor of Judah, saying, I am about to shake the heavens and the earth,
-and to overthrow the throne of kingdoms; I am about to destroy the strength of the kingdoms of the nations, and overthrow the chariots and their riders; and the horses and their riders shall fall, every one by the sword of a comrade.
+and to overthrow the throne of kingdoms; I am about to destroy the strength of the kingdoms of the nations, and overthrow #the chariots and their riders; and the horses and their riders shall fall, every one by the sword of a comrade.
 On that day, says the LORD of hosts, I will take you, O Zerubbabel my servant, son of Shealtiel, says the LORD, and make you like a signet ring; for I have chosen you, says the LORD of hosts.

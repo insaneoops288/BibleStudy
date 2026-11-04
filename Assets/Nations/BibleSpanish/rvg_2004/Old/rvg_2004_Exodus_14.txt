@@ -6,7 +6,7 @@
 "Y unció su carro, y tomó consigo a su pueblo;"
 "y tomó seiscientos carros escogidos, y todos los carros de Egipto, y los capitanes sobre ellos."
 "Y Jehová endureció el corazón de Faraón rey de Egipto, y siguió a los hijos de Israel; pero los hijos de Israel habían salido con mano poderosa."
-"Siguiéndolos, pues, los egipcios, con toda la caballería y carros de Faraón, su gente de a caballo, y todo su ejército, los alcanzaron acampando junto al mar, al lado de Pihahirot, delante de Baal-zefón."
+"Siguiéndolos, pues, los egipcios, con toda la caballería y carros de Faraón, su gente de a caballo, y #todo su ejército, los alcanzaron acampando junto al mar, al lado de Pihahirot, delante de Baal-zefón."
 "Y cuando Faraón se hubo acercado, los hijos de Israel alzaron sus ojos, y he aquí los egipcios que venían tras ellos; por lo que los hijos de Israel temieron en gran manera, y clamaron a Jehová."
 "Y dijeron a Moisés
 "¿No es esto lo que te hablamos en Egipto, diciendo
@@ -17,7 +17,7 @@
 "Y yo, he aquí yo endureceré el corazón de los egipcios, para que los sigan; y yo me glorificaré en Faraón, y en todo su ejército, y en sus carros, y en su caballería;"
 "Y sabrán los egipcios que yo soy Jehová, cuando me glorifique en Faraón, en sus carros, y en su gente de a caballo."
 "Y el Ángel de Dios que iba delante del campamento de Israel, se apartó, e iba en pos de ellos; y asimismo la columna de nube que iba delante de ellos, se apartó, y se puso a sus espaldas,"
-"e iba entre el campamento de los egipcios y el campamento de Israel; y era nube y tinieblas para aquéllos, y alumbraba a Israel de noche; y en toda aquella noche no se acercaron los unos a los otros."
+"e iba entre el campamento de los egipcios y el campamento de Israel; y era nube y tinieblas para aquéllos, #y alumbraba a Israel de noche; y en toda aquella noche no se acercaron los unos a los otros."
 "Y extendió Moisés su mano sobre el mar, e hizo Jehová que el mar se retirase por recio viento oriental toda aquella noche; y tornó el mar en seco, y las aguas quedaron divididas."
 "Entonces los hijos de Israel entraron por medio del mar en seco, teniendo las aguas como muro a su derecha y a su izquierda
 "Y siguiéndolos los egipcios, entraron tras ellos hasta el medio del mar, toda la caballería de Faraón, sus carros, y su gente de a caballo."

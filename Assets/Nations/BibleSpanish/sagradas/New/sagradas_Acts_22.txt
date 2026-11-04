@@ -1,8 +1,8 @@
 "Varones hermanos y padres, oíd la razón que ahora os doy."
 "(Y como oyeron que les hablaba en lengua hebrea, guardaron más silencio.) Y dijo
-"Yo de cierto soy judío, nacido en Tarso de Cilicia, mas criado en esta ciudad a los pies de Gamaliel, enseñado conforme a la verdad de la ley de la patria, celoso de la Ley, como todos vosotros sois hoy."
+"Yo de cierto soy judío, nacido en Tarso de Cilicia, mas criado en esta ciudad a los pies de Gamaliel, enseñado #conforme a la verdad de la ley de la patria, celoso de la Ley, como todos vosotros sois hoy."
 "Que he perseguido este camino hasta la muerte, prendiendo y entregando en cárceles hombres y mujeres;"
-"como también el príncipe de los sacerdotes me es testigo, y todos los ancianos; de los cuales también tomando letras a los hermanos, iba a Damasco para traer presos a Jerusalén aun a los que estuviesen allí, para que fuesen  castigados."
+"como también el príncipe de los sacerdotes me es testigo, y todos los ancianos; de los cuales también tomando letras a los #hermanos, iba a Damasco para traer presos a Jerusalén aun a los que estuviesen allí, para que fuesen  castigados."
 "Mas aconteció que yendo yo, y llegando cerca de Damasco, como a mediodía, de repente me rodeó mucha luz del cielo;"
 "y caí al suelo, y oí una voz que me decía
 "Yo entonces respondí
@@ -27,4 +27,4 @@
 "Y viniendo el tribuno, le dijo
 "Y respondió el tribuno
 "Así que, luego se apartaron de él los que le habían de atormentar; y aun el tribuno también tuvo temor, entendido que era romano, por haberle atado."
-"Y al día siguiente, queriendo saber de cierto la causa por qué era acusado de los judíos, le soltó de las prisiones, y mandó venir a los príncipes de los sacerdotes, y a todo su concilio; y sacando a Pablo, le presentó  delante de ellos."
+"Y al día siguiente, queriendo saber de cierto la causa por qué era acusado de los judíos, le soltó de las prisiones, y mandó #venir a los príncipes de los sacerdotes, y a todo su concilio; y sacando a Pablo, le presentó  delante de ellos."

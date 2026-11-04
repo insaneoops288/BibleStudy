@@ -4,7 +4,7 @@
 "Eles se juntarão, pois, contigo, e terão o cargo do tabernáculo do testemunho em todo o serviço do tabernáculo; nenhum estranho se há de chegar a vós."
 "E tereis a guarda do santuário, e a guarda do altar, para que não seja mais a ira sobre os filhos de Israel."
 "Porque eis que eu tomei a vossos irmãos os levitas dentre os filhos de Israel, dados a vós em presente do SENHOR, para que sirvam no ministério do tabernáculo do testemunho."
-"Mas tu e teus filhos contigo guardareis vosso sacerdócio em todo negócio do altar, e do véu dentro, e ministrareis. Eu vos dei como presente o serviço de vosso sacerdócio; e o estranho que se chegar, morrerá."
+"Mas tu e teus filhos contigo guardareis vosso sacerdócio em todo negócio do altar, e do véu dentro, e #ministrareis. Eu vos dei como presente o serviço de vosso sacerdócio; e o estranho que se chegar, morrerá."
 "Disse mais o SENHOR a Arão
 "Isto será teu da oferta das coisas santas reservadas do fogo
 "No santuário a comerás; todo homem comerá dela

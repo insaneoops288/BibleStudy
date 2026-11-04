@@ -16,7 +16,7 @@
 "d'être ministre de Jésus-Christ parmi les païens, m'acquittant du divin service de l'Evangile de Dieu, afin que les païens lui soient une offrande agréable, étant sanctifiée par l'Esprit-Saint."
 "J'ai donc sujet de me glorifier en Jésus-Christ, pour ce qui regarde les choses de Dieu."
 "Car je n'oserais mentionner aucune chose que Christ n'ait pas faite par moi pour amener les païens à l'obéissance, par la parole et par les actes,"
-"par la puissance des miracles et des prodiges, par la puissance de l'Esprit de Dieu, en sorte que, depuis Jérusalem et les pays voisins jusqu'en Illyrie, j'ai abondamment répandu l'Evangile de Christ."
+"par la puissance des miracles et des prodiges, par la puissance de l'Esprit de Dieu, en sorte #que, depuis Jérusalem et les pays voisins jusqu'en Illyrie, j'ai abondamment répandu l'Evangile de Christ."
 "Et je me suis fait honneur d'annoncer l'Evangile là où Christ n'avait point été nommé, afin de ne pas bâtir sur le fondement d'autrui,"
 "selon qu'il est écrit
 "C'est ce qui m'a souvent empêché d'aller vers vous."

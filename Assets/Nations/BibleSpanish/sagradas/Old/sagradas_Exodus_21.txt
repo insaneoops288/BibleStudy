@@ -26,7 +26,7 @@
 "Y cuando alguno hiriere el ojo de su siervo, o el ojo de su sierva, y lo dañare, le dará libertad por razón de su ojo."
 "Y si sacare el diente de su siervo, o el diente de su sierva, por su diente le dejará ir libre."
 "Si <I>un</I>  buey acorneare hombre o mujer, y <I>a causa de ello</I>  muriere, el buey será apedreado, y no se comerá su carne; mas el dueño del buey <I>será</I>  absuelto."
-"Pero si el buey <I>era</I>  acorneador desde ayer y antes de ayer, y a su dueño le fue hecho requerimiento, y no lo hubiere guardado, y matare hombre o mujer, el buey será apedreado, y también morirá su dueño."
+"Pero si el buey <I>era</I>  acorneador desde ayer y antes de ayer, y a su dueño le fue hecho requerimiento, #y no lo hubiere guardado, y matare hombre o mujer, el buey será apedreado, y también morirá su dueño."
 "Si le fuere impuesto rescate, entonces dará por el rescate de su persona cuanto le fuere impuesto."
 "Haya acorneado hijo, o haya acorneado hija, conforme a este juicio se hará con él."
 "Si el buey acorneare siervo o sierva, pagará treinta siclos de plata su señor, y el buey será apedreado."

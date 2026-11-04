@@ -4,7 +4,7 @@
 "Así dice Jehová Dios de Israel
 "Y pelearé contra vosotros con mano levantada y con brazo fuerte, y con furor, y enojo, e ira grande
 "Y heriré los moradores de esta ciudad; y los hombres y las bestias morirán de pestilencia grande."
-"Y después, así dice Jehová, entregaré a Sedequías rey de Judá, y a sus siervos, y al pueblo, y a los que quedaren en la ciudad de la pestilencia, y de la espada, y del hambre, en mano de Nabucodonosor rey de Babilonia, y en mano de sus enemigos, y en mano de los que buscan sus vidas; y él los herirá a filo de espada; no los perdonará, ni se compadecerá de ellos, ni les tendrá misericordia."
+"Y después, así dice Jehová, entregaré a Sedequías rey de Judá, y a sus siervos, y al pueblo, y a los que quedaren en la ciudad de la pestilencia, y de la espada, y del hambre, en mano de Nabucodonosor #rey de Babilonia, y en mano de sus enemigos, y en mano de los que buscan sus vidas; y él los herirá a filo de espada; no los perdonará, ni se compadecerá de ellos, ni les tendrá misericordia."
 "Y a este pueblo dirás
 "El que se quedare en esta ciudad, morirá a espada, o de hambre, o pestilencia
 "Porque mi rostro he puesto contra esta ciudad para mal, y no para bien, dice Jehová; en mano del rey de Babilonia será entregada, y la quemará a fuego."

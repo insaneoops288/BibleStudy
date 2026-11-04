@@ -5,7 +5,7 @@
 "Şi a adormit şi a visat a doua oară
 "Şi, iată, şapte spice subţiri şi prăjite de vântul de est au răsărit după ele."
 "Şi cele şapte spice subţiri au mâncat cele şapte spice grase şi pline. Şi Faraon s-a trezit şi, iată, [a fost] un vis."
-"Şi s-a întâmplat dimineaţa că duhul său era tulburat; şi a trimis şi a chemat pe toţi magicienii Egiptului şi pe toţi înţelepţii acestuia; şi Faraon le-a spus visul său; dar nu [era] niciunul care să le poată interpreta lui Faraon."
+"Şi s-a întâmplat dimineaţa că duhul său era tulburat; şi a trimis şi a chemat pe toţi magicienii Egiptului şi pe #toţi înţelepţii acestuia; şi Faraon le-a spus visul său; dar nu [era] niciunul care să le poată interpreta lui Faraon."
 "Atunci a vorbit mai marele paharnicilor lui Faraon, spunând
 "Faraon s-a înfuriat pe servitorii săi şi m-a pus sub pază în casa căpeteniei gărzii, pe mine şi pe mai marele brutarilor."
 "Şi noi am visat un vis într-o noapte, eu şi el; noi am visat, fiecare conform interpretării visului său."

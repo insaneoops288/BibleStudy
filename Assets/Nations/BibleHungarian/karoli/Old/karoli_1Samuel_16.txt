@@ -13,7 +13,7 @@
 "Vevé azért Sámuel, az olajos szarut, és felkené õt testvérei között. És attól a naptól fogva az Úrnak lelke Dávidra szálla, és azután is. Felkele azután Sámuel és elméne Rámába."
 "És az Úrnak lelke eltávozék Saultól, és gonosz lélek kezdé gyötörni õt, [mely] az Úrtól [küldetett]."
 "És mondának Saul szolgái néki
-"Parancsoljon azért a mi urunk szolgáidnak, kik körülötted vannak, hogy keressenek [olyan] embert, a ki tudja a hárfát pengetni, és mikor az Istentõl [küldött] gonosz lélek reád jön, pengesse kezével, hogy te megkönnyebbülj."
+"Parancsoljon azért a mi urunk szolgáidnak, kik körülötted vannak, hogy keressenek [olyan] embert, a ki tudja a #hárfát pengetni, és mikor az Istentõl [küldött] gonosz lélek reád jön, pengesse kezével, hogy te megkönnyebbülj."
 "És monda Saul az õ szolgáinak
 "Akkor felele egy a szolgák közül, és monda
 "Követeket külde azért Saul Isaihoz, és monda

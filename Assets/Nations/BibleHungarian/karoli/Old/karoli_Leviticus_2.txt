@@ -1,5 +1,5 @@
 "Mikor valaki ételáldozatot akar áldozni az Úrnak, lisztlángból áldozzék, és öntsön arra olajat, és temjént is tegyen arra."
-"És vigye azt az Áron fiaihoz, a papokhoz, és vegyen ki abból egy tele marokkal; annak lisztlángjából és olajából, az egész temjénével együtt, és füstölögtesse el a pap az oltáron annak emlékeztetõ részéül. Ez a tûzáldozat kedves illatú az Úrnak."
+"És vigye azt az Áron fiaihoz, a papokhoz, és vegyen ki abból egy tele marokkal; annak lisztlángjából és olajából, az egész #temjénével együtt, és füstölögtesse el a pap az oltáron annak emlékeztetõ részéül. Ez a tûzáldozat kedves illatú az Úrnak."
 "A mi pedig megmarad az ételáldozatból, Ároné és az õ fiaié legyen; szentséges [áldozat] ez az Úrnak tûzáldozatai között."
 "Hogyha pedig ételáldozatot kemenczében sültbõl akar áldozni valaki lisztlángból, olajjal elegyített kovásztalan lepényei, vagy olajjal megkent kovásztalan pogácsái legyenek."
 "Ha pedig a te áldozatod serpenyõben sült ételáldozat, olajjal elegyített kovásztalan lisztlángból legyen."

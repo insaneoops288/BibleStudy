@@ -18,14 +18,14 @@
 "Älä kumminkaan täältä lähde, siihenasti kuin minä tulen sinun tykös, ja kannan minun ruokauhrini ja panen sinun etees. Hän sanoi
 "Gideon tuli ja teurasti vohlan, ja otti ephan happamattomia jauhoja, ja pani lihan koriin ja lihan liemen pataan, ja vei hänen tykönsä tammen alle ja pani eteen."
 "Ja Jumalan enkeli sanoi hänelle
-"Ja Herran enkeli ojensi sauvansa pään, joka oli hänen kädessänsä, ja satutti lihaan ja happamattomaan leipään, ja tuli nousi kivestä ja kulutti lihan ja happamattoman leivän. Ja Herran enkeli katosi hänen silmäinsä edestä."
+"Ja Herran enkeli ojensi sauvansa pään, joka oli hänen kädessänsä, ja satutti lihaan ja happamattomaan leipään, ja #tuli nousi kivestä ja kulutti lihan ja happamattoman leivän. Ja Herran enkeli katosi hänen silmäinsä edestä."
 "Kun Gideon näki sen olevan Herran enkelin, sanoi hän
 "Mutta Herra sanoi hänelle
 "Ja Gideon rakensi Herralle alttarin siinä, jonka hän kutsui rauhan Herraksi. Se on vielä tänäpänä Abiesriläisten Ophrassa."
 "Ja sinä yönä sanoi Herra hänelle
 "Ja rakenna Herralle sinun Jumalalles alttari tälle korkialle vuorelle, sopivaiselle paikalle, ja ota toinen mulleista ja uhraa se polttouhriksi metsistön puilla jonka sinä hakkaat."
-"Silloin otti Gideon kymmenen miestä palvelioistansa ja teki niinkuin Herra hänelle sanonut oli. Mutta hän pelkäsi ei saavansa sitä päivällä tehdä isänsä huoneen ja kaupungin asuvaisten tähden, ja teki sen yöllä."
-"Kuin kaupungin kansa aamulla nousivat, katso, Baalin alttari oli kukistettu ja metsistö maahan hakattu, joka sen tykönä oli, ja toinen mulli pantu polttouhriksi alttarille, joka siihen rakennettu oli."
+"Silloin otti Gideon kymmenen miestä palvelioistansa ja teki niinkuin Herra hänelle sanonut oli. Mutta hän pelkäsi #ei saavansa sitä päivällä tehdä isänsä huoneen ja kaupungin asuvaisten tähden, ja teki sen yöllä."
+"Kuin kaupungin kansa aamulla nousivat, katso, Baalin alttari oli kukistettu ja metsistö maahan hakattu, joka #sen tykönä oli, ja toinen mulli pantu polttouhriksi alttarille, joka siihen rakennettu oli."
 "Ja he sanoivat toinen toisellensa
 "Niin kaupungin asuvaiset puhuivat Joakselle, sanoen
 "Niin Joas sanoi kaikille, jotka seisoivat häntä vastaan

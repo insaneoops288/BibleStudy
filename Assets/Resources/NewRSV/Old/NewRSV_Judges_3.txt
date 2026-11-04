@@ -12,7 +12,7 @@ So the land had rest forty years. Then Othniel son of Kenaz died.
 The Israelites again did what was evil in the sight of the LORD; and the LORD strengthened King Eglon of Moab against Israel, because they had done what was evil in the sight of the LORD.
 In alliance with the Ammonites and the Amalekites, he went and defeated Israel; and they took possession of the city of palms.
 So the Israelites served King Eglon of Moab eighteen years.
-But when the Israelites cried out to the LORD, the LORD raised up for them a deliverer, Ehud son of Gera, the Benjaminite, a left-handed man. The Israelites sent tribute by him to King Eglon of Moab.
+But when the Israelites cried out to the LORD, the LORD raised up for them a deliverer, Ehud son #of Gera, the Benjaminite, a left-handed man. The Israelites sent tribute by him to King Eglon of Moab.
 Ehud made for himself a sword with two edges, a cubit in length; and he fastened it on his right thigh under his clothes.
 Then he presented the tribute to King Eglon of Moab. Now Eglon was a very fat man.
 When Ehud had finished presenting the tribute, he sent the people who carried the tribute on their way.
@@ -25,7 +25,7 @@ After he had gone, the servants came. When they saw that the doors of the roof c
 So they waited until they were embarrassed. When he still did not open the doors of the roof chamber, they took the key and opened them. There was their lord lying dead on the floor.
 Ehud escaped while they delayed, and passed beyond the sculptured stones, and escaped to Seirah.
 When he arrived, he sounded the trumpet in the hill country of Ephraim; and the Israelites went down with him from the hill country, having him at their head.
-He said to them, "Follow after me; for the LORD has given your enemies the Moabites into your hand." So they went down after him, and seized the fords of the Jordan against the Moabites, and allowed no one to cross over.
+He said to them, "Follow after me; for the LORD has given your enemies the Moabites into your hand." So they went #down after him, and seized the fords of the Jordan against the Moabites, and allowed no one to cross over.
 At that time they killed about ten thousand of the Moabites, all strong, able-bodied men; no one escaped.
 So Moab was subdued that day under the hand of Israel. And the land had rest eighty years.
 After him came Shamgar son of Anath, who killed six hundred of the Philistines with an oxgoad. He too delivered Israel.

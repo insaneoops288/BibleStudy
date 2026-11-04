@@ -22,7 +22,7 @@
 "Mas ele disse
 "E apresentou-lhes um grande banquete, e comeram e beberam; e os despediu, e foram para seu senhor; e não entraram mais tropas de siros na terra de Israel."
 "E sucedeu, depois disso, que Ben-Hadade, rei da Síria, ajuntou todo o seu exército; e subiu e cercou a Samaria."
-"E houve grande fome em Samaria, porque eis que a cercaram, até que se vendeu uma cabeça de um jumento por oitenta peças de prata, e a quarta parte de um cabo de esterco de pombas, por cinco peças de prata."
+"E houve grande fome em Samaria, porque eis que a cercaram, até que se vendeu uma cabeça de um jumento por #oitenta peças de prata, e a quarta parte de um cabo de esterco de pombas, por cinco peças de prata."
 "E sucedeu que, passando o rei pelo muro, uma mulher lhe bradou, dizendo
 "E ele lhe disse
 "Disse-lhe mais o rei

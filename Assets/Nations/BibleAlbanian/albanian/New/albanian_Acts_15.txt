@@ -1,5 +1,5 @@
 "Dhe disa, që zbritën nga Judeja, mësonin vëllezërit
-"Duke qenë se u bë një grindje jo e vogël dhe një diskutim nga ana e Palit dhe e Barnabës me ata, u dha urdhër që Pali, Barnaba dhe disa të tjerë nga ata të ngjiten në Jeruzalem tek apostujt dhe te pleqtë për këtë çështje."
+"Duke qenë se u bë një grindje jo e vogël dhe një diskutim nga ana e Palit dhe e Barnabës me ata, u dha #urdhër që Pali, Barnaba dhe disa të tjerë nga ata të ngjiten në Jeruzalem tek apostujt dhe te pleqtë për këtë çështje."
 "Ata, pra, si u përcollën nga kisha, kaluan nëpër Feniki dhe Samari, duke treguar kthimin e johebrenjve dhe duke u sjellë gëzim të madh mbarë vëllezërve."
 "Kur arritën në Jeruzalem, u pritën nga kisha, nga apostujt dhe nga pleqtë dhe treguan për gjërat e mëdha që Perëndia kishte bërë me anën e tyre."
 "Por u ngritën disa nga sekti i farisenjve, që kishin besuar dhe thanë
@@ -21,7 +21,7 @@
 "Sepse Moisiu që nga kohët e lashta ka njerëz të cilët në çdo qytet e predikojnë atë, duke qënë i lexuar çdo të shtunë në sinagoga''."
 "Atëherë iu duk e mirë apostujve dhe pleqve me gjithë kishën të dërgojnë në Antioki, me Palin dhe Barnabën, disa njerëz të zgjedhur nga ata
 "me një letër të shkruar nga dora e tyre që thoshte
-"Duke qenë se morëm vesh se disa që erdhën prej nesh, por të cilëve ne nuk u kishim dhënë asnjë porosi, ju kanë shqetësuar me fjalë duke trazuar shpirtrat tuaj, duke thënë se ju duhet të rrethpriteni dhe të zbatoni ligjin,"
+"Duke qenë se morëm vesh se disa që erdhën prej nesh, por të cilëve ne nuk u kishim dhënë asnjë porosi, #ju kanë shqetësuar me fjalë duke trazuar shpirtrat tuaj, duke thënë se ju duhet të rrethpriteni dhe të zbatoni ligjin,"
 "na u duk e mirë neve, të mbledhur tok me një zemër, të zgjedhim disa njerëz dhe t'i dërgojmë bashkë me të dashurit tanë Barnaba dhe Pal,"
 "njerëz që kanë përkushtuar jetën e tyre për emrin e Zotit tonë Jezu Krishtit."
 "Kemi dërguar, pra, Judën dhe Silën; edhe ata do t'ju tregojnë me gojë të njëjtat gjëra."

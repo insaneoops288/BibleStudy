@@ -4,7 +4,7 @@
 "Bahwa kekayaan memperbanyakkan sahabat, tetapi orang miskin ditinggalkan oleh sahabat yang ada padanya."
 "Seorang saksi dusta tiada akan terlepas dari pada hukum dan seorang yang bernafas bohong itupun tiada akan luput."
 "Banyaklah orang yang memuji-muji akan orang bangsawan, dan masing-masing orang hendak bersahabat dengan orang yang memberikan anugerah."
-"Bahwa seorang miskin dibenci jikalau oleh saudara-saudaranya sekalipun, istimewa pula segala sahabatnya akan menjauhkan dirinya dari padanya. Maka ia mengejar akan mereka itu dengan katanya, tetapi tiada diindahkannya."
+"Bahwa seorang miskin dibenci jikalau oleh saudara-saudaranya sekalipun, istimewa pula segala sahabatnya akan menjauhkan dirinya #dari padanya. Maka ia mengejar akan mereka itu dengan katanya, tetapi tiada diindahkannya."
 "Barangsiapa yang membeli akal budi itu mengasihi akan jiwanya, dan orang yang membekalkan pengetahuan itu mendapat barang yang terutama."
 "Seorang saksi dusta tiada akan terlepas dari pada hukum dan seorang yang bernafas bohong itu akan binasa kelak."
 "Bahwa lezat kemuliaan tiada berpatutan dengan orang bodoh yang kaya, demikianpun tiada patut seorang hamba memerintahkan raja."

@@ -42,5 +42,5 @@
 "Mutta Rebekalle ilmoitettiin Esaun hänen vanhemman poikansa sanat
 "Nyt, minun poikani, ole minun äänelleni kuuliainen
 "Ja ole hänen tykönänsä kappale aikaa
-"Ja siihenasti että hänen vihansa lakkaa sinusta, ja hän onhottaa mitäs häntä vastaan tehnyt olet. Niin minä lähetän ja tuotan sinun sieltä. Miksi teidän molempain pitäis yhtenä päivänä minulta tuleman pois?"
+"Ja siihenasti että hänen vihansa lakkaa sinusta, ja hän onhottaa mitäs häntä vastaan tehnyt olet. Niin #minä lähetän ja tuotan sinun sieltä. Miksi teidän molempain pitäis yhtenä päivänä minulta tuleman pois?"
 "Ja Rebekka sanoi Isaakille

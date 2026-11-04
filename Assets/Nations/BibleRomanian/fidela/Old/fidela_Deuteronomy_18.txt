@@ -19,4 +19,4 @@
 "Şi se va întâmpla, [că ]oricui nu va da ascultare cuvintelor mele, pe care le va spune el în numele meu, îi voi cere socoteală."
 "Dar profetul care s-ar îngâmfa să vorbească în numele meu un cuvânt, pe care nu l-am poruncit să îl vorbească sau care va vorbi în numele altor dumnezei, acel profet să moară."
 "Şi dacă spui în inima ta
-"Când un profet vorbeşte în numele DOMNULUI şi lucrul nu se împlineşte, nici nu se întâmplă, acela [este] cuvântul pe care nu l-a vorbit DOMNUL; [ci ]profetul l-a vorbit cu îngâmfare, să nu te temi de el."
+"Când un profet vorbeşte în numele DOMNULUI şi lucrul nu se împlineşte, nici nu se întâmplă, acela [este] cuvântul #pe care nu l-a vorbit DOMNUL; [ci ]profetul l-a vorbit cu îngâmfare, să nu te temi de el."

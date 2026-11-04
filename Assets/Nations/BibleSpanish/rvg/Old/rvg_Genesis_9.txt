@@ -1,5 +1,5 @@
 "Y bendijo Dios a Noé y a sus hijos, y les dijo
-"Y el temor y el pavor de vosotros estarán sobre todo animal de la tierra, y sobre toda ave de los cielos, en todo lo que se mueva [sobre] la tierra, y en todos los peces del mar. En vuestra mano son entregados."
+"Y el temor y el pavor de vosotros estarán sobre todo animal de la tierra, y sobre toda ave de los cielos, #en todo lo que se mueva [sobre] la tierra, y en todos los peces del mar. En vuestra mano son entregados."
 "Todo lo que se mueve y vive, os será para mantenimiento; así como las legumbres y plantas verdes; os lo he dado todo."
 "Pero carne con su vida, [que es su] sangre, no comeréis."
 "Porque ciertamente demandaré la sangre de vuestras vidas; de mano de todo animal la demandaré, y de mano del hombre; de mano del varón su hermano demandaré la vida del hombre."
@@ -20,7 +20,7 @@
 "Y comenzó Noé a labrar la tierra, y plantó una viña;"
 "y bebió del vino, y se embriagó, y estaba descubierto en medio de su tienda."
 "Y Cam, padre de Canaán, vio la desnudez de su padre, y lo dijo a sus dos hermanos que estaban afuera."
-"Entonces Sem y Jafet tomaron la ropa, y [la] pusieron sobre sus propios hombros, y andando hacia atrás, cubrieron la desnudez de su padre teniendo vueltos sus rostros, y así no vieron la desnudez de su padre."
+"Entonces Sem y Jafet tomaron la ropa, y [la] pusieron sobre sus propios hombros, y andando hacia atrás, cubrieron #la desnudez de su padre teniendo vueltos sus rostros, y así no vieron la desnudez de su padre."
 "Y despertó Noé de su vino, y supo lo que había hecho con él su hijo el más joven;"
 "Y dijo
 "Dijo más

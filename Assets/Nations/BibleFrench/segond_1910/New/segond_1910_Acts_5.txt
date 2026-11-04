@@ -1,7 +1,7 @@
 "Mais un homme nommé Ananias, avec Saphira sa femme, vendit une propriété,"
 "et retint une partie du prix, sa femme le sachant; puis il apporta le reste, et le déposa aux pieds des apôtres."
 "Pierre lui dit
-"S'il n'eût pas été vendu, ne te restait-il pas? Et, après qu'il a été vendu, le prix n'était-il pas à ta disposition? Comment as-tu pu mettre en ton coeur un pareil dessein? Ce n'est pas à des hommes que tu as menti, mais à Dieu."
+"S'il n'eût pas été vendu, ne te restait-il pas? Et, après qu'il a été vendu, le prix n'était-il pas à ta disposition? Comment #as-tu pu mettre en ton coeur un pareil dessein? Ce n'est pas à des hommes que tu as menti, mais à Dieu."
 "Ananias, entendant ces paroles, tomba, et expira. Une grande crainte saisit tous les auditeurs."
 "Les jeunes gens, s'étant levés, l'enveloppèrent, l'emportèrent, et l'ensevelirent."
 "Environ trois heures plus tard, sa femme entra, sans savoir ce qui était arrivé."
@@ -18,7 +18,7 @@
 "mirent les mains sur les apôtres, et les jetèrent dans la prison publique."
 "Mais un ange du Seigneur, ayant ouvert pendant la nuit les portes de la prison, les fit sortir, et leur dit
 "Allez, tenez-vous dans le temple, et annoncez au peuple toutes les paroles de cette vie."
-"Ayant entendu cela, ils entrèrent dès le matin dans le temple, et se mirent à enseigner. Le souverain sacrificateur et ceux qui étaient avec lui étant survenus, ils convoquèrent le sanhédrin et tous les anciens des fils d'Israël, et ils envoyèrent chercher les apôtres à la prison."
+"Ayant entendu cela, ils entrèrent dès le matin dans le temple, et se mirent à enseigner. Le souverain sacrificateur et ceux qui étaient avec #lui étant survenus, ils convoquèrent le sanhédrin et tous les anciens des fils d'Israël, et ils envoyèrent chercher les apôtres à la prison."
 "Les huissiers, à leur arrivée, ne les trouvèrent point dans la prison. Ils s'en retournèrent, et firent leur rapport,"
 "en disant
 "Lorsqu'ils eurent entendu ces paroles, le commandant du temple et les principaux sacrificateurs ne savaient que penser des apôtres et des suites de cette affaire."

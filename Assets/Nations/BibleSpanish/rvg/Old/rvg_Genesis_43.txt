@@ -18,7 +18,7 @@
 "Y aquellos hombres tuvieron temor, cuando fueron metidos en casa de José, y decían
 "Y se acercaron al mayordomo de la casa de José, y le hablaron a la entrada de la casa."
 "Y dijeron
-"Y aconteció que cuando vinimos al mesón y abrimos nuestros costales, he aquí el dinero de cada uno estaba en la boca de su costal, nuestro dinero en su justo peso; y lo hemos vuelto a traer en nuestras manos."
+"Y aconteció que cuando vinimos al mesón y abrimos nuestros costales, he aquí el dinero de cada uno estaba en la #boca de su costal, nuestro dinero en su justo peso; y lo hemos vuelto a traer en nuestras manos."
 "Hemos también traído en nuestras manos otro dinero para comprar alimentos
 "Y él respondió
 "Y aquel varón trajo a los hombres a casa de José

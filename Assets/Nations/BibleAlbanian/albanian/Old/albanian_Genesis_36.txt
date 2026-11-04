@@ -3,7 +3,7 @@
 "dhe Basemathin, e bija e Ismaelit dhe motra e Nebajothit."
 "Ada i lindi Esaut Elifazin;"
 "Basemathi lindi Reuelin, kurse Oholibamahu lindi Jeushin, Jalamin dhe Korahin. Këta janë bijtë e Esaut që i lindën në vendin e Kanaanit."
-"Pastaj Esau mori gratë e tij, bijtë dhe bijat e tij, gjithë njerëzit e shtëpisë së tij, kopetë e tij, tërë bagëtinë e tij dhe tërë pasurinë që kishte blerë në vendin e Kanaanëve, dhe shkoi në një vend, larg vëllait të tij Jakob,"
+"Pastaj Esau mori gratë e tij, bijtë dhe bijat e tij, gjithë njerëzit e shtëpisë së tij, kopetë e tij, tërë bagëtinë e #tij dhe tërë pasurinë që kishte blerë në vendin e Kanaanëve, dhe shkoi në një vend, larg vëllait të tij Jakob,"
 "sepse pasuritë e tyre ishin tepër të mëdha, që ata të mund të banonin bashkë; vendi ku rrinin nuk ishte në gjendje t'i mbante për shkak të bagëtisë së tyre."
 "Kështu Esau u vendos mbi malin e Seirit; Esau është Edomi."
 "Këta janë pasardhësit e Esaut, atit të Edomitëve, në malin e Seirit."

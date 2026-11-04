@@ -7,10 +7,10 @@
 "Näin sanoo Herra Zebaot
 "Ja minä tahdon heitä saattaa Jerusalemiin asumaan; ja heidän pitää minun kansani oleman, ja minä tahdon olla heidän Jumalansa totuudessa ja vanhurskaudessa."
 "Näin sanoo Herra Zebaot
-"Sillä ennen näitä päiviä olivat ihmisten työt turhat, ei juhtain työ myös mitään ollut; eikä ollut niillä rauhaa vihollisilta, jotka menivät ulos ja sisälle; vaan minä sallin kaikki ihmiset mennä, jokaisen lähimmäistänsä vastaan."
+"Sillä ennen näitä päiviä olivat ihmisten työt turhat, ei juhtain työ myös mitään ollut; eikä ollut niillä #rauhaa vihollisilta, jotka menivät ulos ja sisälle; vaan minä sallin kaikki ihmiset mennä, jokaisen lähimmäistänsä vastaan."
 "Mutta en minä niin tahdo nyt tehdä tälle jääneelle kansalle, niinkuin entisinä päivinä, sanoo Herra Zebaot;"
 "Vaan heidän pitää rauhan siemen oleman
-"Ja pitää tapahtuman, että teitä, jotka Juudan ja Israelin huoneesta olette olleet kirous pakanain seassa, tahdon minä lunastaa, että teidän pitää siunauksen oleman. Niin älkäät siis peljätkö, mutta vahvistakaat kätenne."
+"Ja pitää tapahtuman, että teitä, jotka Juudan ja Israelin huoneesta olette olleet kirous pakanain seassa, tahdon #minä lunastaa, että teidän pitää siunauksen oleman. Niin älkäät siis peljätkö, mutta vahvistakaat kätenne."
 "Sillä näin sanoo Herra Zebaot
 "Niin minä nyt jälleen ajattelen näinä päivinä tehdä hyvää Jerusalemille ja Juudan huoneelle. Älkäät peljätkö."
 "Mutta tämä on se, minkä teidän tekemän pitää

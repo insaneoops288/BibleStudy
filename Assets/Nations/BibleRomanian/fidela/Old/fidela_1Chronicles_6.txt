@@ -29,7 +29,7 @@
 "Fiii lui Merari
 "Șimei, fiul său; Haghia, fiul său; Asaia, fiul său."
 "Și aceștia [sunt cei ]pe care David i-a pus peste serviciul cântării în casa DOMNULUI, după ce chivotul s-a odihnit."
-"Iar ei au servit înaintea locului de așezare a tabernacolului întâlnirii, cu cântare, până când Solomon a construit casa DOMNULUI în Ierusalim; și [apoi ]au făcut serviciul lor conform rândului lor."
+"Iar ei au servit înaintea locului de așezare a tabernacolului întâlnirii, cu cântare, până când Solomon #a construit casa DOMNULUI în Ierusalim; și [apoi ]au făcut serviciul lor conform rândului lor."
 "Și aceștia [sunt ]cei care au servit cu copiii lor. Dintre fiii Chehatiților
 "Fiul lui Elcana, fiul lui Ieroham, fiul lui Eliel, fiul lui Toah,"
 "Fiul lui Țuf, fiul lui Elcana, fiul lui Mahat, fiul lui Amasai,"
@@ -46,7 +46,7 @@
 "Fiul lui Amți, fiul lui Bani, fiul lui Șemer,"
 "Fiul lui Mahli, fiul lui Muși, fiul lui Merari, fiul lui Levi."
 "De asemenea frații lor, leviții, [erau ]rânduiți pentru tot felul de servicii ale tabernacolului casei lui Dumnezeu."
-"Dar Aaron și fiii săi au oferit pe altarul ofrandei arse și pe altarul de tămâiere și[ erau rânduiți ]pentru toată lucrarea [locului ]preasfânt și pentru a face ispășire pentru Israel, conform cu tot ceea ce Moise, servitorul lui Dumnezeu, poruncise."
+"Dar Aaron și fiii săi au oferit pe altarul ofrandei arse și pe altarul de tămâiere și[ erau rânduiți ]pentru toată #lucrarea [locului ]preasfânt și pentru a face ispășire pentru Israel, conform cu tot ceea ce Moise, servitorul lui Dumnezeu, poruncise."
 "Și aceștia [sunt ]fiii lui Aaron
 "Buchi, fiul său; Uzi, fiul său; Zerahia, fiul său;"
 "Meraiot, fiul său; Amaria, fiul său; Ahitub, fiul său;"

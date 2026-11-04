@@ -4,7 +4,7 @@
 "Así dijo el SEÑOR
 "Y meteré fuego en Judá, el cual consumirá los palacios de Jerusalén."
 "Así dijo el SEÑOR
-"Que anhelan porque haya <I>un</I>  polvo de tierra sobre la cabeza de los pobres, y tuercen el camino de los humildes; y el hombre y su padre entraron a <I>la misma</I>  joven, profanando mi santo Nombre."
+"Que anhelan porque haya <I>un</I>  polvo de tierra sobre la cabeza de los pobres, y tuercen el camino de #los humildes; y el hombre y su padre entraron a <I>la misma</I>  joven, profanando mi santo Nombre."
 "Y sobre las ropas empeñadas se acuestan junto a cualquier altar; y el vino de los penados beben en la casa de sus dioses."
 "Y yo destruí delante de ellos al amorreo, cuya altura <I>era</I>  como la altura de los cedros, y fuerte como un alcornoque; y destruí su fruto arriba, y sus raíces abajo."
 "Y yo os hice a vosotros subir de la tierra de Egipto, y os traje por el desierto cuarenta años, para que poseyeseis la tierra del amorreo."

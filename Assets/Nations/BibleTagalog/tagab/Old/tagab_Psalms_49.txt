@@ -8,7 +8,7 @@
 "(Sapagka't ang katubusan ng kanilang kaluluwa ay mahal, at ito'y naglilikat magpakailan man
 "Upang siya'y mabuhay na lagi, upang siya'y huwag makakita ng kabulukan."
 "Sapagka't nakikita niya na ang mga pantas ay nangamamatay, ang mangmang at gayon din ang hangal ay nililipol, at iniiwanan ang kanilang kayamanan sa mga iba."
-"Ang kanilang pagiisip sa loob ay, na ang kanilang mga bahay ay mananatili magpakailan man, at ang kanilang mga tahanang dako ay sa lahat ng sali't saling lahi; tinatawag nila ang kanilang mga lupain ayon sa kanilang sariling mga pangalan."
+"Ang kanilang pagiisip sa loob ay, na ang kanilang mga bahay ay mananatili magpakailan man, at ang kanilang mga tahanang dako #ay sa lahat ng sali't saling lahi; tinatawag nila ang kanilang mga lupain ayon sa kanilang sariling mga pangalan."
 "Nguni't ang tao'y hindi lalagi sa karangalan
 "Itong kanilang lakad ay kanilang kamangmangan
 "Sila'y nangatakda sa Sheol na parang kawan; kamatayan ay magiging pastor sa kanila

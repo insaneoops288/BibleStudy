@@ -1,7 +1,7 @@
 "Pierwsze przymierze miało przepisy Bożej służby, a także ziemskie Święte."
 "Gdyż został zbudowany pierwszy Przybytek, w którym jest miejsce nazywane Święte, nadto Świecznik, Stół i Chleby Pokładne."
 "Zaś za drugą zasłoną miejsce nazywane Święte Świętych,"
-"które ma Złotą Kadzielnicę oraz Skrzynię Przymierza, ze wszystkich stron powleczoną złotem. W niej był Złoty Dzban mający w sobie mannę, Kij Pasterski Aarona, który wypuścił pąki, oraz kamienne Płyty Przymierza."
+"które ma Złotą Kadzielnicę oraz Skrzynię Przymierza, ze wszystkich stron powleczoną złotem. W niej był Złoty #Dzban mający w sobie mannę, Kij Pasterski Aarona, który wypuścił pąki, oraz kamienne Płyty Przymierza."
 "A powyżej niej Cherubini chwały, co ocieniali Przebłagalnię. Odnośnie tych spraw z osobna, nie ma potrzeby, aby się teraz wypowiadać."
 "Zaś do tych miejsc, które są tak urządzone dla pierwszego Przybytku, z powodu każdego Israelity wchodzą kapłani; ci, co sprawują służby."
 "Lecz do drugiego raz w roku sam arcykapłan i to nie bez krwi, którą ofiarowuje za omyłki, swoje i ludu."

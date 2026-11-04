@@ -8,7 +8,7 @@
 "De tábuas o farás, oco
 "Também farás o átrio do tabernáculo
 "Suas vinte colunas, e suas vinte bases serão de bronze; os capitéis das colunas e suas molduras, de prata."
-"E da mesma maneira ao lado do norte haverá ao comprimento cortinas de cem côvados de comprimento, e suas vinte colunas, com suas vinte bases de bronze; os capitéis de suas colunas e suas molduras, de prata."
+"E da mesma maneira ao lado do norte haverá ao comprimento cortinas de cem côvados de comprimento, e suas #vinte colunas, com suas vinte bases de bronze; os capitéis de suas colunas e suas molduras, de prata."
 "E a largura do átrio do lado ocidental terá cortinas de cinquenta côvados; suas colunas dez, com suas dez bases."
 "E na largura do átrio pela parte do oriente, haverá cinquenta côvados."
 "E as cortinas de um lado serão de quinze côvados; suas colunas três, com suas três bases."
@@ -18,4 +18,4 @@
 "O comprimento do átrio será de cem côvados, e a largura cinquenta por um lado e cinquenta pelo outro, e a altura de cinco côvados
 "Todos os utensílios do tabernáculo em todo o seu serviço, e todos os seus pregos, e todos os pregos do átrio, serão de bronze."
 "E tu mandarás aos filhos de Israel que te tragam azeite puro de olivas, prensado, para a luminária, para fazer arder continuamente as lâmpadas."
-"No tabernáculo do testemunho, fora do véu que está diante do testemunho, as porá em ordem Arão e seus filhos, diante do SENHOR desde a tarde até a manhã, como estatuto perpétuo dos filhos de Israel por suas gerações."
+"No tabernáculo do testemunho, fora do véu que está diante do testemunho, as porá em ordem Arão e seus filhos, #diante do SENHOR desde a tarde até a manhã, como estatuto perpétuo dos filhos de Israel por suas gerações."

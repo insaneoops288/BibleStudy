@@ -10,7 +10,7 @@
 "Ni murmuréis, como algunos de ellos murmuraron, y fueron destruidos por el destructor."
 "Y todas estas cosas les acontecieron como ejemplo; y están escritas para amonestarnos a nosotros, sobre quienes los fines de los siglos han venido."
 "Así que, el que piensa estar firme, mire que no caiga."
-"No os ha tomado tentación, sino humana; mas fiel [es] Dios, que no os dejará ser tentados más de lo que podéis [soportar]; sino que con la tentación dará también la salida, para que podáis resistir."
+"No os ha tomado tentación, sino humana; mas fiel [es] Dios, que no os dejará ser tentados más de #lo que podéis [soportar]; sino que con la tentación dará también la salida, para que podáis resistir."
 "Por tanto, amados míos, huid de la idolatría."
 "Como a sabios hablo; juzgad vosotros lo que digo."
 "La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?"

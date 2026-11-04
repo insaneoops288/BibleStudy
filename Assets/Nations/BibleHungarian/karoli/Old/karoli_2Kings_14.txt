@@ -7,10 +7,10 @@
 "Ugyanõ megvert az Edomiták közül tízezeret a sós völgyben; és bevette Sélát ostrommal, és ezt nevezé Jokteélnek mind e mai napig."
 "Akkor követeket küldött Amásia Joáshoz, a Joákház fiához, a ki Jéhunak, az Izráel királyának volt a fia, ezt izenvén
 "És elkülde Joás, Izráel királya Amásiához, Júda királyához, ezt válaszolván
-"Megverted az Edomitákat, azért fuvalkodtál fel szívedben. Elégedjél meg a dicsõséggel és maradj otthon; miért akarsz a szerencsétlenséggel harczra kelni, hogy elessél magad is és Júda is veled együtt?"
+"Megverted az Edomitákat, azért fuvalkodtál fel szívedben. Elégedjél meg a dicsõséggel és maradj otthon; miért #akarsz a szerencsétlenséggel harczra kelni, hogy elessél magad is és Júda is veled együtt?"
 "De Amásia nem hallgatott reá, és felvonult Joás, Izráel királya, és szembe-szállottak egymással, õ és Amásia, Júda királya Bethsemesnél, amely Júdában van."
 "De megveretett Júda Izráeltõl, és kiki elfutott az õ sátorába."
-"És Amásiát, Júda királyát, Joásnak, az Akházia fiának fiát [is] elfogta Joás, Izráel királya Bethsemesnél; és Jeruzsálem ellen ment, és lerontotta Jeruzsálem kerítését, az Efraim kapujától egész a szegletkapuig, négyszáz singre."
+"És Amásiát, Júda királyát, Joásnak, az Akházia fiának fiát [is] elfogta Joás, Izráel királya Bethsemesnél; és #Jeruzsálem ellen ment, és lerontotta Jeruzsálem kerítését, az Efraim kapujától egész a szegletkapuig, négyszáz singre."
 "És elvitt minden aranyat, minden ezüstöt és minden edényt, a mely találtatott az Úr házában és a király házának kincsei között, és kezeseket [is vévén], visszatért Samariába."
 "Joás egyéb dolgai pedig, a melyeket cselekedett, és az õ erõssége, és miképen hadakozott Amásia, a Júda királya ellen, vajjon nincsenek-é megírva az Izráel királyainak krónika-könyvében?"
 "És elaluvék Joás az õ atyáival, és eltemetteték Samariában az Izráel királyaival együtt; és az õ fia, Jeroboám uralkodék õ helyette."
@@ -22,8 +22,8 @@
 "Õ építé meg Elátot, a melyet visszavett Júdának azután, hogy a király elaludt az õ atyáival."
 "Amásiának, Joásnak, a Júda királya fiának tizenötödik esztendejétõl fogva uralkodott Jeroboám, Joásnak, az Izráel királyának fia Samariában, negyvenegy esztendeig."
 "És gonoszul cselekedék az Úr szemei elõtt, mert Jeroboámnak, a Nébát fiának semmi bûnétõl el nem távozott, a ki bûnbe ejtette az Izráelt."
-"Õ szerezte vissza az Izráel határát Emáthtól fogva a pusztasági tengerig, az Úrnak, Izráel Istenének beszéde szerint, a melyet szólott volt az õ szolgája, Jónás próféta, az Amittai fia által, a ki Gáth-Kéferbõl való volt."
+"Õ szerezte vissza az Izráel határát Emáthtól fogva a pusztasági tengerig, az Úrnak, Izráel Istenének beszéde szerint, a #melyet szólott volt az õ szolgája, Jónás próféta, az Amittai fia által, a ki Gáth-Kéferbõl való volt."
 "Mert megtekintette az Úr az Izráel igen nagy nyomorúságát, hogy a berekesztetett és az elhagyatott is semmi és nincs senki, a ki az Izráelt megszabadítaná."
 "És nem mondta azt az Úr, hogy az Izráel nevét eltörli az ég alól; annakokáért megszabadította õket Jeroboám, a Joás fia által."
-"Jeroboám egyéb dolgai pedig és minden cselekedetei és az õ erõssége, hogy miképen hadakozott, és mi módon nyerte vissza Damaskust és a Júdához tartozó Hámátot az Izráelnek, vajjon nincsenek-é megírva az Izráel királyainak krónika-könyvében?"
+"Jeroboám egyéb dolgai pedig és minden cselekedetei és az õ erõssége, hogy miképen hadakozott, és mi módon nyerte #vissza Damaskust és a Júdához tartozó Hámátot az Izráelnek, vajjon nincsenek-é megírva az Izráel királyainak krónika-könyvében?"
 "És elaluvék Jeroboám az õ atyáival, Izráel királyaival, és uralkodék az õ fia, Zakariás, õ helyette."

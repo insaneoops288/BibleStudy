@@ -2,7 +2,7 @@
 "entonces tus ancianos y tus jueces saldrán y medirán hasta las ciudades que están alrededor del muerto
 "Y será, que los ancianos de aquella ciudad, de la ciudad más cercana al muerto, tomarán de la vacada una becerra que no haya servido, que no haya traído yugo;"
 "y los ancianos de aquella ciudad traerán la becerra a un valle áspero, que nunca haya sido arado ni sembrado, y cortarán el pescuezo a la becerra allí en el valle."
-"Entonces vendrán los sacerdotes hijos de Leví, porque a ellos escogió Jehová tu Dios para que le sirvan, y para bendecir en nombre de Jehová; y por el dicho de ellos se determinará todo pleito y toda llaga."
+"Entonces vendrán los sacerdotes hijos de Leví, porque a ellos escogió Jehová tu Dios para que le sirvan, y para #bendecir en nombre de Jehová; y por el dicho de ellos se determinará todo pleito y toda llaga."
 "Y todos los ancianos de aquella ciudad más cercana al muerto lavarán sus manos sobre la becerra degollada en el valle."
 "Y protestarán, y dirán
 "Sé misericordioso, oh Jehová, para con tu pueblo Israel, al cual tú redimiste; y no imputes la sangre inocente derramada en medio de tu pueblo Israel. Y la sangre les será perdonada."

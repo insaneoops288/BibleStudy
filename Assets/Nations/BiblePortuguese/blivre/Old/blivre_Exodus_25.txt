@@ -32,7 +32,7 @@
 "E sairão seis braços de seus lados
 "Três copos em forma de amêndoas em um braço, um botão e uma flor; e três copos, forma de amêndoas no outro braço, um botão e uma flor
 "E no candelabro quatro copos em forma de amêndoas, seus botões e suas flores."
-"Haverá um botão debaixo dos dois braços do mesmo, outro botão debaixo dos outros dois braços do mesmo, e outra botão debaixo dos outros dois braços do mesmo, em conformidade aos seis braços que saem do candelabro."
+"Haverá um botão debaixo dos dois braços do mesmo, outro botão debaixo dos outros dois braços do mesmo, e #outra botão debaixo dos outros dois braços do mesmo, em conformidade aos seis braços que saem do candelabro."
 "Seus botões e seus braços serão do mesmo, todo ele uma peça lavrada a martelo, de ouro puro."
 "E farás para ele sete lâmpadas, as quais acenderás para que iluminem à parte de sua dianteira
 "Também suas tenazes e seus apagadores, de ouro puro."

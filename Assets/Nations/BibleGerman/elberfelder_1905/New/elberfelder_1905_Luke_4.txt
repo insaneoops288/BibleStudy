@@ -15,7 +15,7 @@
 "Und er lehrte in ihren Synagogen, geehrt von allen."
 "Und er kam nach Nazareth, wo er erzogen war; und er ging nach seiner Gewohnheit am Sabbathtage in die Synagoge und stand auf, um vorzulesen."
 "Und es wurde ihm das Buch des Propheten Jesaias gereicht; und als er das Buch aufgerollt hatte, fand er die Stelle, wo geschrieben war
-"""Der Geist des Herrn ist auf mir, weil er mich gesalbt hat, Armen gute Botschaft zu verkündigen; er hat mich gesandt, Gefangenen Befreiung auszurufen und Blinden das Gesicht, Zerschlagene in Freiheit hinzusenden,"
+"""Der Geist des Herrn ist auf mir, weil er mich gesalbt hat, Armen gute Botschaft zu verkündigen; #er hat mich gesandt, Gefangenen Befreiung auszurufen und Blinden das Gesicht, Zerschlagene in Freiheit hinzusenden,"
 "auszurufen das angenehme Jahr des Herrn""."
 "Und als er das Buch zugerollt hatte, gab er es dem Diener zurück und setzte sich; und aller Augen in der Synagoge waren auf ihn gerichtet."
 "Er fing aber an, zu ihnen zu sagen

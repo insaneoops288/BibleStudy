@@ -24,6 +24,6 @@
 "A mit azért ti kezdettõl hallottatok, az maradjon meg bennetek. Ha bennetek marad az, a mit kezdettõl fogva hallottatok, ti is az Atyában és a Fiúban maradtok."
 "És az az ígéret, a melyet õ ígért nékünk
 "Ezeket írtam néktek azok felõl, a kik elhitetnek titeket."
-"És az a kenet, a melyet ti kaptatok tõle, bennetek marad, és [így] nincs szükségetek arra, hogy valaki tanítson titeket; hanem a mint az a kenet megtanít titeket mindenre, úgy igaz [is] az és nem hazugság, és a miként megtanított titeket, úgy maradjatok õ benne."
+"És az a kenet, a melyet ti kaptatok tõle, bennetek marad, és [így] nincs szükségetek arra, hogy valaki tanítson titeket; hanem a mint #az a kenet megtanít titeket mindenre, úgy igaz [is] az és nem hazugság, és a miként megtanított titeket, úgy maradjatok õ benne."
 "És most, fiacskáim, maradjatok õ benne; hogy mikor megjelenik, bizodalmunk legyen, és meg ne szégyenüljünk elõtte az õ eljövetelekor."
 "Ha tudjátok, hogy õ igaz, tudjátok, hogy a ki az igazságot cselekszi, az mind tõle született."

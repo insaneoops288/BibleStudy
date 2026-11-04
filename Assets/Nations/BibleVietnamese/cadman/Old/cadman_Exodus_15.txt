@@ -13,7 +13,7 @@
 "Ngài lấy lòng thương xót dìu dắt Dân nầy mà Ngài đã chuộc lại; Ngài đã dùng năng lực đưa nó Về nơi ở thánh của Ngài."
 "Các dân tộc nghe biết việc nầy đều run sợ, Cơn kinh hãi áp-hãm dân xứ Pha-lê-tin."
 "Các quan trưởng xứ Ê-đôm bèn lấy làm bối rối; Mấy mặt anh hùng nơi Mô-áp đều kinh hồn; Cả dân Ca-na-an đều mất vía"
-"Sự hoảng hốt kinh hãi giáng cho chúng nó; Hỡi Ðức Giê-hô-va! vì quyền cao nơi cánh tay Ngài, Chúng nó đều bị câm như đá, Cho đến chừng nào dân Ngài vượt qua; Cho đến khi dân mà Ngài đã chuộc, vượt qua rồi."
+"Sự hoảng hốt kinh hãi giáng cho chúng nó; Hỡi Ðức Giê-hô-va! vì quyền cao nơi cánh tay Ngài, Chúng nó đều bị #câm như đá, Cho đến chừng nào dân Ngài vượt qua; Cho đến khi dân mà Ngài đã chuộc, vượt qua rồi."
 "Hỡi Ðức Giê-hô-va! Ngài đưa dân ấy vào, và lập nơi núi cơ nghiệp Ngài, Tức là chốn Ngài đã sắm sẵn, để làm nơi ở của Ngài, Hỡi Chúa! là đền thánh mà tay Ngài đã lập."
 "Ðức Giê-hô-va sẽ cai trị đời đời kiếp kiếp."
 "Vì ngựa của Pha-ra-ôn, binh xa, cùng lính kỵ người đã xuống biển; Và Ðức Giê-hô-va đã vùi dập nước biển lên trên, Nhưng dân Y-sơ-ra-ên đi giữa biển như đi trên đất cạn."
@@ -22,6 +22,6 @@
 "Ðoạn, Môi-se đem dân Y-sơ-ra-ên đi khỏi Biển đỏ, đến nơi đồng vắng Su-rơ; trọn ba ngày đi trong đồng vắng, kiếm chẳng được nước đâu cả."
 "Kế đến đất Ma-ra, nhưng vì nước tại đó đắng, uống chẳng được, nên chi chỗ nầy gọi là Ma-ra."
 "Dân sự bèn oán trách Môi-se rằng
-"Môi-se kêu van Ðức Giê-hô-va; Ngài bèn chỉ cho người một cây gỗ, người lấy liệng xuống nước, nước bèn hóa ra ngọt. Ấy tại đó, Ðức Giê-hô-va định luật lệ cùng lập pháp độ cho dân sự, và tại đó Ngài thử họ."
+"Môi-se kêu van Ðức Giê-hô-va; Ngài bèn chỉ cho người một cây gỗ, người lấy liệng xuống nước, nước bèn hóa ra ngọt. #Ấy tại đó, Ðức Giê-hô-va định luật lệ cùng lập pháp độ cho dân sự, và tại đó Ngài thử họ."
 "Ngài phán rằng
 "Ðoạn, dân sự đến đất Ê-lim; nơi đó có mười hai suối nước, và bảy mươi cây chà là; dân sự đóng trại tại đó, gần bên suối nước."

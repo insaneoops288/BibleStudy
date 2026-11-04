@@ -18,7 +18,7 @@
 "Et ces hommes eurent peur de ce qu'on les menait à la maison de Joseph; et ils dirent
 "Alors ils s'approchèrent de l'intendant de la maison de Joseph, et lui parlèrent à la porte de la maison, et dirent
 "Pardon, mon seigneur! nous sommes descendus une première fois pour acheter des vivres;"
-"Et lorsque nous sommes arrivé à l'hôtellerie, et que nous avons ouvert nos sacs, voici, l'argent de chacun était à l'entrée de son sac, notre argent selon son poids; et nous l'avons rapporté en nos mains."
+"Et lorsque nous sommes arrivé à l'hôtellerie, et que nous avons ouvert nos sacs, voici, l'argent de chacun était #à l'entrée de son sac, notre argent selon son poids; et nous l'avons rapporté en nos mains."
 "Et nous avons apporté d'autre argent en nos mains, pour acheter des vivres; nous ne savons qui avait remis notre argent dans nos sacs."
 "Et il dit
 "Et cet homme les fit entrer dans la maison de Joseph; il leur donna de l'eau, et ils lavèrent leurs pieds; il donna aussi du fourrage à leurs ânes."
@@ -29,6 +29,6 @@
 "Et, levant les yeux, il vit Benjamin son frère, fils de sa mère, et dit
 "Et Joseph se hâta, car ses entrailles étaient émues pour son frère, et il chercha un lieu pour pleurer; et il entra dans la chambre intérieure et y pleura. ses entrailles."
 "Puis il se lava le visage et sortit; et, se faisant violence, il dit
-"Et on le servit à part, et eux à part; et les Égyptiens qui mangeaient avec lui furent aussi servis à part, parce que les Égyptiens ne peuvent manger le pain avec les Hébreux; car c'est une abomination pour les Égyptiens."
+"Et on le servit à part, et eux à part; et les Égyptiens qui mangeaient avec lui furent aussi servis à #part, parce que les Égyptiens ne peuvent manger le pain avec les Hébreux; car c'est une abomination pour les Égyptiens."
 "Ils s'assirent donc en sa présence, l'aîné selon son droit d'aînesse, et le plus jeune selon son âge. Et ces hommes se regardaient l'un l'autre avec étonnement."
 "Et il leur fit porter des mets de devant lui; mais la portion de Benjamin était cinq fois plus grosse que les portions de tous les autres; et ils burent et firent bonne chère avec lui."

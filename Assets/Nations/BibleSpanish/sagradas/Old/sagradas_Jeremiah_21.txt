@@ -1,5 +1,5 @@
 "Palabra que vino a Jeremías del SEÑOR, cuando el rey Sedequías envió a él a Pasur hijo de Malquías, y a Sofonías sacerdote, hijo de Maasías, que le dijesen
-"Pregunta ahora por nosotros al SEÑOR; porque Nabucodonosor rey de Babilonia hace guerra contra nosotros. Por ventura el SEÑOR hará con nosotros según todas sus maravillas, y <I>aquél</I>  se irá de sobre nosotros."
+"Pregunta ahora por nosotros al SEÑOR; porque Nabucodonosor rey de Babilonia hace guerra contra nosotros. Por ventura el #SEÑOR hará con nosotros según todas sus maravillas, y <I>aquél</I>  se irá de sobre nosotros."
 "Y Jeremías les dijo
 "Así dijo el SEÑOR Dios de Israel
 "Y pelearé contra vosotros con mano alzada y con brazo fuerte, y con furor, y enojo, e ira grande;"

@@ -4,7 +4,7 @@
 "Se juntarán, pues, contigo, y tendrán el cargo del tabernáculo del testimonio en todo el servicio del tabernáculo; ningún extraño se ha de llegar á vosotros."
 "Y tendréis la guarda del santuario, y la guarda del altar, para que no sea más la ira sobre los hijos de Israel."
 "Porque he aquí yo he tomado á vuestros hermanos los Levitas de entre los hijos de Israel, dados á vosotros en don de Jehová, para que sirvan en el ministerio del tabernáculo del testimonio."
-"Mas tú y tus hijos contigo guardaréis vuestro sacerdocio en todo negocio del altar, y del velo adentro, y ministraréis. Yo os he dado en don el servicio de vuestro sacerdocio; y el extraño que se llegare, morirá."
+"Mas tú y tus hijos contigo guardaréis vuestro sacerdocio en todo negocio del altar, y del velo adentro, y ministraréis. #Yo os he dado en don el servicio de vuestro sacerdocio; y el extraño que se llegare, morirá."
 "Dijo más Jehová á Aarón
 "Esto será tuyo de la ofrenda de las cosas santas reservadas del fuego
 "En el santuario la comerás; todo varón comerá de ella

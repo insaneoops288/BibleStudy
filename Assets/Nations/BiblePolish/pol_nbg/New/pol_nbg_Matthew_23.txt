@@ -20,7 +20,7 @@
 "Zatem ten, który przysięga na ołtarz, przysięga na niego i na wszystko, co na nim;"
 "a kto przysięga na Przybytek Świątyni, przysięga na niego oraz na Tego, który w nim przebywa;"
 "a kto przysięga na Niebo, przysięga na tron Boga oraz na Tego, który na nim siedzi."
-"Biada wam, uczeni w Piśmie i faryzeusze, obłudnicy, bo dajecie dziesięcinę z mięty, anyżku i kminku, a zaniedbujecie cięższe rzeczy Prawa sąd, prośbę o litość i wiarę; te rzeczy mieliście wydawać, a tamtych nie zaniedbywać."
+"Biada wam, uczeni w Piśmie i faryzeusze, obłudnicy, bo dajecie dziesięcinę z mięty, anyżku i kminku, a zaniedbujecie #cięższe rzeczy Prawa sąd, prośbę o litość i wiarę; te rzeczy mieliście wydawać, a tamtych nie zaniedbywać."
 "Ślepi przywódcy, którzy odcedzacie komara, a połykacie wielbłąda."
 "Biada wam, uczeni w Piśmie i faryzeusze, obłudnicy, że z zewnątrz oczyszczacie kubek i misę, a wewnątrz pełne są łupiestwa oraz braku opanowania."
 "Ślepy faryzeuszu, oczyść najpierw wnętrze kubka i misy, aby i to, co z ich zewnątrz, mogło się stać czystym."
@@ -31,9 +31,9 @@
 "Tak świadczycie sami sobie, że jesteście synami tych, którzy pomordowali proroków."
 "Więc wy także dopełnijcie miary waszych ojców!"
 "Węże, rodzaju żmijowy, jak będziecie mogli ujść od oddzielenia gehenny?"
-"Oto dlatego Ja wysyłam do was proroków, mędrców oraz uczonych w Piśmie; a niektórych z nich zabijecie i ukrzyżujecie, a niektórych z nich ubiczujecie w waszych bóżnicach oraz będziecie ścigać od miasta do miasta;"
-"aby przeszła na was cała, sprawiedliwa krew wylana na Ziemi Świętej, od krwi sprawiedliwego Abla, aż do krwi Zachariasza, syna Barachiasza, którego zamordowaliście pomiędzy Przybytkiem Świątyni, a ołtarzem."
+"Oto dlatego Ja wysyłam do was proroków, mędrców oraz uczonych w Piśmie; a niektórych z nich zabijecie i #ukrzyżujecie, a niektórych z nich ubiczujecie w waszych bóżnicach oraz będziecie ścigać od miasta do miasta;"
+"aby przeszła na was cała, sprawiedliwa krew wylana na Ziemi Świętej, od krwi sprawiedliwego Abla, #aż do krwi Zachariasza, syna Barachiasza, którego zamordowaliście pomiędzy Przybytkiem Świątyni, a ołtarzem."
 "Zaprawdę, powiadam wam
-"Jerozolimo, Jerozolimo, która zabijasz proroków oraz kamienujesz tych, którzy do ciebie są wysłani ilekroć chciałem zebrać twoje dzieci, tak jak kokosz zbiera pod skrzydła swe pisklęta, a nie chcieliście."
+"Jerozolimo, Jerozolimo, która zabijasz proroków oraz kamienujesz tych, którzy do ciebie są wysłani ilekroć chciałem #zebrać twoje dzieci, tak jak kokosz zbiera pod skrzydła swe pisklęta, a nie chcieliście."
 "Oto wasz dom jest zostawiany wam pusty."
 "Bowiem powiadam wam, że nie ujrzycie mnie od tego czasu, aż powiecie

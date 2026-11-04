@@ -6,7 +6,7 @@
 "Und es geschah nach Verlauf von vierzig Tagen, daöffnete Noah das Fenster der Arche, das er gemacht hatte, und ließ den Raben aus;"
 "und der flog hin und wieder, bis die Wasser von der Erde vertrocknet waren."
 "Und er ließ die Taube von sich aus, um zu sehen, ob die Wasser sich verlaufen hätten von der Fläche des Erdbodens;"
-"aber die Taube fand keinen Ruheplatz für ihren Fuß und kehrte zu ihm in die Arche zurück; denn die Wasser waren noch auf der Fläche der ganzen Erde; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die Arche."
+"aber die Taube fand keinen Ruheplatz für ihren Fuß und kehrte zu ihm in die Arche zurück; denn die Wasser waren noch auf #der Fläche der ganzen Erde; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die Arche."
 "Und er wartete noch sieben andere Tage und ließ die Taube abermals aus der Arche;"
 "und die Taube kam zu ihm um die Abendzeit, und siehe, ein abgerissenes Olivenblatt war in ihrem Schnabel. Und Noah erkannte, daß die Wasser sich verlaufen hatten von der Erde."
 "Und er wartete noch sieben andere Tage und ließ die Taube aus; und sie kehrte hinfort nicht wieder zu ihm zurück."
@@ -14,7 +14,7 @@
 "Und im zweiten Monat, am siebenundzwanzigsten Tage des Monats, war die Erde trocken."
 "Und Gott redete zu Noah und sprach
 "Gehe aus der Arche, du und dein Weib und deine Söhne und die Weiber deiner Söhne mit dir."
-"Alles Getier, das bei dir ist, von allem Fleische, an Gevögel und an Vieh und an allem Gewürm, das sich auf der Erde regt, laß mit dir hinausgehen, daß sie wimmeln auf Erden und fruchtbar seien und sich mehren auf Erden."
+"Alles Getier, das bei dir ist, von allem Fleische, an Gevögel und an Vieh und an allem Gewürm, das sich auf #der Erde regt, laß mit dir hinausgehen, daß sie wimmeln auf Erden und fruchtbar seien und sich mehren auf Erden."
 "Und Noah ging hinaus und seine Söhne und sein Weib und die Weiber seiner Söhne mit ihm."
 "Alles Getier, alles Gewürm und alles Gevögel, alles was sich auf der Erde regt, nach ihren Arten, gingen aus der Arche."
 "Und Noah baute Jehova einen Altar; und er nahm von allem reinen Vieh und von allem reinen Gevögel und opferte Brandopfer auf dem Altar."

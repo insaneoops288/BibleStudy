@@ -13,5 +13,5 @@
 "És monda az Úr nékem
 "Majd eltörém a másik pálczámat [is,] az egyességet, hogy felbontsam a testvérséget Júda között és Izráel között."
 "És mondá az Úr nékem
-"Mert ímé, én pásztort állítok e földre, a ki az elveszetteket meg nem keresi, a gyöngével nem törõdik, a megtépettet meg nem gyógyítja, a jó karban levõt nem táplálja, a kövérinek húsát megeszi, és körmeiket széttördeli."
+"Mert ímé, én pásztort állítok e földre, a ki az elveszetteket meg nem keresi, a gyöngével nem törõdik, a #megtépettet meg nem gyógyítja, a jó karban levõt nem táplálja, a kövérinek húsát megeszi, és körmeiket széttördeli."
 "Jaj a mihaszna pásztornak, a ki elhagyja a juhokat! Fegyver a karjára és jobb szemére. Karja szárazra száradjon és jobb szeme sötétre sötétedjék."

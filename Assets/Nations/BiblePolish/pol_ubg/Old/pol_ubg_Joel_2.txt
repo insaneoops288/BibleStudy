@@ -1,5 +1,5 @@
 "Zadmijcie w trąbę na Syjonie, krzyczcie na mojej świętej górze! Niech zadrżą wszyscy mieszkańcy ziemi, bo nadchodzi dzień PANA, bo już jest bliski;"
-"Dzień ciemności i mroku, dzień obłoku i chmury, jak zorza ranna rozciągnięta po górach. Lud wielki i potężny, któremu równego nie było od wieków i po nim nigdy nie będzie aż do lat najdalszych pokoleń."
+"Dzień ciemności i mroku, dzień obłoku i chmury, jak zorza ranna rozciągnięta po górach. Lud wielki i potężny, #któremu równego nie było od wieków i po nim nigdy nie będzie aż do lat najdalszych pokoleń."
 "Przed jego obliczem ogień pożerający, a za nim płomień palący. Ta ziemia jest przed nim jak ogród Eden, ale po nim będzie opustoszałe pustkowie – przed nim nie ujdzie nikt."
 "Ich wygląd jest podobny do wyglądu koni i pobiegną jak jeźdźcy."
 "Po wierzchołkach gór będą skakać jak grzmot rydwanów, jak szum płomienia ognia, co pożera ściernisko, jak lud potężny uszykowany do bitwy."
@@ -17,7 +17,7 @@
 "Niech kapłani, słudzy PANA, płaczą między przedsionkiem a ołtarzem i niech mówią
 "Wtedy PAN będzie zazdrosny o swoją ziemię i zlituje się nad swoim ludem."
 "I PAN odezwie się, i powie do swego ludu
-"Oddalę od was północne wojsko i zapędzę je do ziemi suchej i spustoszonej. Przednia jego straż obróci się ku morzu wschodniemu, a jego tylna straż – ku morzu zachodniemu; i rozejdzie się jego smród i zgnilizna, bo postępował wyniośle."
+"Oddalę od was północne wojsko i zapędzę je do ziemi suchej i spustoszonej. Przednia jego straż obróci się ku morzu #wschodniemu, a jego tylna straż – ku morzu zachodniemu; i rozejdzie się jego smród i zgnilizna, bo postępował wyniośle."
 "Nie bój się, ziemio! Ciesz się i raduj, bo PAN uczyni wielkie rzeczy."
 "Nie bójcie się, polne zwierzęta, bo zarosło pastwisko na pustyni, a drzewa wydają swoje owoce, drzewo figowe i winorośl wydają swoją moc."
 "I wy, synowie Syjonu, cieszcie się i radujcie w PANU, waszym Bogu. Da wam bowiem deszcz wczesny i ześle wam deszcz jesienny i wiosenny, jak dawniej."

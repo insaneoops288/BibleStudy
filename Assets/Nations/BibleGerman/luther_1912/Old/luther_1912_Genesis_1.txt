@@ -9,7 +9,7 @@
 "Und Gott sprach
 "Und Gott nannte das Trockene Erde, und die Sammlung der Wasser nannte er Meer. Und Gott sah, daß es gut war."
 "Und Gott sprach
-"Und die Erde ließ aufgehen Gras und Kraut, das sich besamte, ein jegliches nach seiner Art, und Bäume, die da Frucht trugen und ihren eigenen Samen bei sich selbst hatten, ein jeglicher nach seiner Art. Und Gott sah, daß es gut war."
+"Und die Erde ließ aufgehen Gras und Kraut, das sich besamte, ein jegliches nach seiner Art, und Bäume, die da Frucht trugen #und ihren eigenen Samen bei sich selbst hatten, ein jeglicher nach seiner Art. Und Gott sah, daß es gut war."
 "Da ward aus Abend und Morgen der dritte Tag."
 "Und Gott sprach
 "und seien Lichter an der Feste des Himmels, daß sie scheinen auf Erden. Und es geschah also."
@@ -18,7 +18,7 @@
 "und den Tag und die Nacht regierten und schieden Licht und Finsternis. Und Gott sah, daß es gut war."
 "Da ward aus Abend und Morgen der vierte Tag."
 "Und Gott sprach
-"Und Gott schuf große Walfische und allerlei Getier, daß da lebt und webt, davon das Wasser sich erregte, ein jegliches nach seiner Art, und allerlei gefiedertes Gevögel, ein jegliches nach seiner Art. Und Gott sah, daß es gut war."
+"Und Gott schuf große Walfische und allerlei Getier, daß da lebt und webt, davon das Wasser sich erregte, ein jegliches #nach seiner Art, und allerlei gefiedertes Gevögel, ein jegliches nach seiner Art. Und Gott sah, daß es gut war."
 "Und Gott segnete sie und sprach
 "Da ward aus Abend und Morgen der fünfte Tag."
 "Und Gott sprach

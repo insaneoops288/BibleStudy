@@ -25,7 +25,7 @@
 "Ora, toda tua avaliação se fará conforme o siclo do santuário; o siclo será de vinte jeiras."
 "Contudo o primogénito dum animal, que por ser primogénito já pertence ao senhor, ninguém o santificará; seja boi ou gado miúdo, pertence ao Senhor."
 "Mas se o primogénito for dum animal imundo, remir-se-á segundo a tua avaliação, e a esta se acrescentará a quinta parte; e se não for remido, será vendido segundo a tua avaliação."
-"Todavia, nenhuma coisa consagrada ao Senhor por alguém, daquilo que possui, seja homem, ou animal, ou campo da sua possessão, será vendida nem será remida; toda coisa consagrada será santíssima ao Senhor."
+"Todavia, nenhuma coisa consagrada ao Senhor por alguém, daquilo que possui, seja homem, ou animal, ou campo #da sua possessão, será vendida nem será remida; toda coisa consagrada será santíssima ao Senhor."
 "Nenhuma pessoa que dentre os homens for devotada será resgatada; certamente será morta."
 "Também todos os dízimos da terra, quer dos cereais, quer do fruto das árvores, pertencem ao senhor; santos são ao Senhor."
 "Se alguém quiser remir uma parte dos seus dízimos, acrescentar-lhe-á a quinta parte."

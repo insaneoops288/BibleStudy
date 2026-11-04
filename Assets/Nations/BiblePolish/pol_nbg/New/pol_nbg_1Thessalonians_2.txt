@@ -10,7 +10,7 @@
 "Wy jesteście świadkami oraz Bóg, że byliśmy dla was, wierzących świętymi, sprawiedliwymi i bez zarzutu."
 "Tak jak też wiecie, że byliśmy dla każdego jednego z was, jak ojciec dla swoich dzieci zachęcając was oraz pocieszając."
 "Poświadczając też co do waszego zachowania w sposób godny Boga, który was powołał do swojego królestwa i chwały."
-"Przez to, także i my nieustannie dziękujemy Bogu. Ponieważ gdy przyjęliście od nas słowo relacji Boga, wpuściliście nie słowo ludzi, ale tak jak jest w istocie Słowo Boga, które wykonuje się w was, wierzących."
+"Przez to, także i my nieustannie dziękujemy Bogu. Ponieważ gdy przyjęliście od nas słowo relacji Boga, wpuściliście nie #słowo ludzi, ale tak jak jest w istocie Słowo Boga, które wykonuje się w was, wierzących."
 "Bowiem wy, bracia w Jezusie Chrystusie, staliście się naśladowcami zborów Boga, które są w Judei. Wycierpieliście te same rzeczy od waszych ziomków, tak jak i oni od Żydów."
 "Tych, co zabili Pana Jezusa, prześladowali własnych proroków i nas wygnali, więc nie podobają się Bogu oraz wszystkim ludziom przeciwnych poglądów."
 "Oni nas również powstrzymują zawsze na dopełnienie ich grzechów aby nie głosić poganom, by zostali zbawieni; ale też na nich pierwsza przyszła zapalczywość, aż do spełnienia."

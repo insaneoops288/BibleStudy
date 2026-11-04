@@ -19,5 +19,5 @@
 "A vypálili dům Boží, a zbořili zed Jeruzalémskou, též i všecky paláce v něm popálili, ano i všelijaké klénoty drahé v něm zkazili."
 "A což jich pozůstalo po meči, to převedl do Babylona, a byli služebníci jeho i synů jeho, dokudž nekraloval král Perský,"
 "Aby se naplnila řeč Hospodinova skrze ústa Jeremiášova, dokudž země nevykonala sobot svých; po všecky dny, pokudž byla pustá, odpočívala, až se vyplnilo sedmdesáte let."
-"Potom léta prvního Cýra krále Perského, aby se naplnila řeč Hospodinova skrze ústa Jeremiášova, vzbudil Hospodin ducha Cýrova krále Perského. Kterýž dal provolati po všem království svém, ano také i rozepsal, řka
+"Potom léta prvního Cýra krále Perského, aby se naplnila řeč Hospodinova skrze ústa Jeremiášova, vzbudil Hospodin ducha #Cýrova krále Perského. Kterýž dal provolati po všem království svém, ano také i rozepsal, řka
 "Toto praví Cýrus král Perský

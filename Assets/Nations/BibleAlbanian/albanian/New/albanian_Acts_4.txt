@@ -7,7 +7,7 @@
 "Dhe, si i nxorën aty në mes, i pyetën
 "Atëherë Pjetri, i mbushur me Frymën e Shenjtë, u tha atyre
 "Nëse ne sot gjykohemi për një mirësi që iu bë një njeriu të sëmurë, për të ditur si u shërua ai,"
-"le ta njihni të gjithë ju dhe mbarë populli i Izraelit se kjo u bë në emër të Jezu Krishtit Nazareas, që ju e kryqëzuat dhe që Perëndia e ringjalli prej së vdekuri; me anë të tij ky njeri del para jush i shëruar plotësisht."
+"le ta njihni të gjithë ju dhe mbarë populli i Izraelit se kjo u bë në emër të Jezu Krishtit Nazareas, që ju #e kryqëzuat dhe që Perëndia e ringjalli prej së vdekuri; me anë të tij ky njeri del para jush i shëruar plotësisht."
 "Ky është guri që ju, ndërtuesit, e hodhët poshtë dhe që u bë guri i qoshes."
 "Dhe në asnjë tjetër nuk ka shpëtim, sepse nuk ka asnjë emër tjetër nën qiell që u është dhënë njerëzve dhe me anë të të cilit duhet të shpëtohemi''."
 "Ata, kur e panë çiltërsinë e Pjetrit dhe të Gjonit dhe duke kuptuar se ishin njerëz të pamësuar dhe pa arsim, u mrrekulluan dhe i njihnin se kishin qenë me Jezusin."

@@ -14,7 +14,7 @@
 "Pe Simon (pe care l-a numit și Petru) și pe Andrei, fratele lui; pe Iacov și pe Ioan, pe Filip și pe Bartolomeu;"
 "Pe Matei și pe Toma; pe Iacov, [fiul] lui Alfeu, și pe Simon, numit Zelotes,"
 "Pe Iuda, [fratele] lui Iacov; și pe Iuda Iscariot, care era și trădătorul."
-"Și el a coborât cu ei și a stat în picioare în câmp și mulțimea discipolilor lui și o mare mulțime de oameni din toată Iudeea și [din] Ierusalim și de pe lângă țărmul Tirului și al Sidonului, care au venit să îl audă și să fie vindecați de bolile lor,"
+"Și el a coborât cu ei și a stat în picioare în câmp și mulțimea discipolilor lui și o mare mulțime de oameni din toată Iudeea #și [din] Ierusalim și de pe lângă țărmul Tirului și al Sidonului, care au venit să îl audă și să fie vindecați de bolile lor,"
 "Și cei chinuiți de duhuri necurate și erau vindecați."
 "Și toată mulțimea căuta să îl atingă, pentru că din el ieșea o putere și [îi] vindeca pe toți."
 "Și el și-a ridicat ochii spre discipolii săi și a spus
@@ -32,7 +32,7 @@
 "Și, dacă iubiți pe cei ce vă iubesc, ce mulțumire aveți voi? Fiindcă și păcătoșii iubesc pe cei ce îi iubesc."
 "Și dacă faceți bine celor ce vă fac bine, ce mulțumire aveți voi? Fiindcă și păcătoșii fac la fel."
 "Și dacă dați cu împrumut [acelora] de la care sperați să primiți înapoi, ce mulțumire aveți voi? Fiindcă și păcătoșii dau cu împrumut păcătoșilor, ca să primească înapoi cât au dat."
-"Totuși, iubiți pe dușmanii voștri și faceți bine și împrumutați fără să sperați nimic înapoi; și răsplata voastră va fi mare și veți fi copiii Celui Preaînalt; fiindcă el este bun cu cei nemulțumitori și cu cei răi."
+"Totuși, iubiți pe dușmanii voștri și faceți bine și împrumutați fără să sperați nimic înapoi; și răsplata voastră va fi #mare și veți fi copiii Celui Preaînalt; fiindcă el este bun cu cei nemulțumitori și cu cei răi."
 "De aceea fiți milostivi, precum și Tatăl vostru este milostiv."
 "Nu judecați și nu veți fi judecați; nu condamnați și nu veți fi condamnați; iertați și veți fi iertați;"
 "Dați și vi se va da; o măsură bună, îndesată și scuturată și vărsându-se pe deasupra, oamenii vă vor turna în sân. Căci cu aceeași măsură cu care măsurați, vi se va măsura înapoi."
@@ -45,5 +45,5 @@
 "Un om bun, din tezaurul bun al inimii lui, scoate ce este bun; și un om rău, din tezaurul rău al inimii lui scoate ce este rău; fiindcă din abundența inimii vorbește gura lui."
 "Dar de ce mă chemați
 "Oricine vine la mine și aude cuvintele mele și le face, vă voi arăta cu cine se aseamănă;"
-"Este asemenea unui om care a zidit o casă și a săpat adânc și a așezat temelia pe o stâncă; și când a venit potopul, șuvoiul a bătut violent peste casa aceea și nu a putut să o clatine, pentru că a fost fondată pe stâncă."
+"Este asemenea unui om care a zidit o casă și a săpat adânc și a așezat temelia pe o stâncă; și când a venit #potopul, șuvoiul a bătut violent peste casa aceea și nu a putut să o clatine, pentru că a fost fondată pe stâncă."
 "Dar cel ce aude și nu face, este asemenea unui om care, fără temelie, a zidit o casă pe pământ, împotriva căreia șuvoiul a bătut violent și imediat a căzut; și ruina acelei case a fost mare."

@@ -1,11 +1,11 @@
 "At sinalita ng Panginoon kay Moises, Pasukin mo si Faraon at sabihin mo sa kaniya, Ganito ang sabi ng Panginoon, Tulutan mong yumaon ang aking bayan, upang ako'y mapaglingkuran nila."
 "At kung ayaw mo silang payaunin, ay narito, aking sasalutin ng mga palaka ang inyong buong lupain
-"At ang ilog ay mapupuno ng mga palaka, na magsisiahon at magsisipasok sa iyong bahay, at sa iyong tulugan, at sa iyong higaan, at sa bahay ng iyong mga lingkod, at sa iyong bayan, at sa iyong mga hurno, at sa iyong mga masa ng tinapay."
+"At ang ilog ay mapupuno ng mga palaka, na magsisiahon at magsisipasok sa iyong bahay, at sa iyong tulugan, at sa iyong higaan, at #sa bahay ng iyong mga lingkod, at sa iyong bayan, at sa iyong mga hurno, at sa iyong mga masa ng tinapay."
 "At kapuwa aakyatin ng mga palaka ikaw at ang iyong bayan, at lahat ng iyong mga lingkod."
-"At sinabi ng Panginoon kay Moises, Sabihin mo kay Aaron, Iunat mo ang iyong kamay pati ng iyong tungkod sa mga ilog, sa mga bangbang, at sa mga lawa, at magpaahon ka ng mga palaka sa lupain ng Egipto."
+"At sinabi ng Panginoon kay Moises, Sabihin mo kay Aaron, Iunat mo ang iyong kamay pati ng iyong tungkod sa #mga ilog, sa mga bangbang, at sa mga lawa, at magpaahon ka ng mga palaka sa lupain ng Egipto."
 "At iniunat ni Aaron ang kaniyang kamay sa tubig sa Egipto; at ang mga palaka ay nagsiahon, at tinakpan ang lupain ng Egipto."
 "At ang mga mahiko ay gumawa ng gayon din sa pamamagitan ng kanilang mga enkanto, at nagpaahon ng mga palaka sa lupain ng Egipto."
-"Nang magkagayo'y tinawag ni Faraon si Moises at si Aaron, at sinabi, Manalangin kayo sa Panginoon, na alisin ang mga palaka sa akin, at sa aking bayan; at aking tutulutang yumaon, ang bayan upang sila'y makapaghain sa Panginoon."
+"Nang magkagayo'y tinawag ni Faraon si Moises at si Aaron, at sinabi, Manalangin kayo sa Panginoon, na alisin ang mga #palaka sa akin, at sa aking bayan; at aking tutulutang yumaon, ang bayan upang sila'y makapaghain sa Panginoon."
 "At sinabi ni Moises kay Faraon, Magkaroon ka ng kaluwalhatiang ito sa akin
 "At kaniyang sinabi, Sa kinabukasan. At sinabi ni Moises, Mangyayari ayon sa iyong salita
 "At ang mga palaka ay magsisialis sa iyo, at sa iyong bahay, at sa iyong mga lingkod, at sa iyong bayan; mangatitira na lamang sa ilog."
@@ -14,7 +14,7 @@
 "At kanilang pinagpisan sa buntonbunton
 "Nguni't nang makita ni Faraon na may pahinga ay pinapagmatigas ang kaniyang puso, at hindi niya dininig sila; gaya ng sinalita ng Panginoon."
 "At sinabi ng Panginoon kay Moises, Sabihin mo kay Aaron
-"At kaniyang ginawang gayon; at iniunat ni Aaron ang kaniyang kamay pati ng kaniyang tungkod, at pinalo ang alabok ng lupa, at nagkakuto sa tao at sa hayop; lahat ng alabok ng lupa ay naging mga kuto sa buong lupain ng Egipto."
+"At kaniyang ginawang gayon; at iniunat ni Aaron ang kaniyang kamay pati ng kaniyang tungkod, at pinalo ang alabok ng lupa, at #nagkakuto sa tao at sa hayop; lahat ng alabok ng lupa ay naging mga kuto sa buong lupain ng Egipto."
 "At ang mga mahiko ay gumawa ng gayon sa pamamagitan ng kanilang mga enkanto, upang maglabas ng mga kuto, nguni't hindi nila nagawa
 "Nang magkagayo'y sinabi ng mga mahiko kay Faraon, Ito'y daliri ng Dios
 "At sinabi ng Panginoon kay Moises, Bumangon kang maaga sa kinaumagahan, at tumayo ka sa harap ni Faraon; narito, siya'y pasasa tubig, at sabihin mo sa kaniya, Ganito ang sabi ng Panginoon

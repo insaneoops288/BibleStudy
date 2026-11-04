@@ -8,7 +8,7 @@
 "Produisez donc du fruit digne de la repentance,"
 "et ne prétendez pas dire en vous-mêmes
 "Déjà la cognée est mise à la racine des arbres
-"Moi, je vous baptise d'eau, pour vous amener à la repentance; mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de porter ses souliers. Lui, il vous baptisera du Saint-Esprit et de feu."
+"Moi, je vous baptise d'eau, pour vous amener à la repentance; mais celui qui vient après moi est plus puissant que #moi, et je ne suis pas digne de porter ses souliers. Lui, il vous baptisera du Saint-Esprit et de feu."
 "Il a son van à la main; il nettoiera son aire, et il amassera son blé dans le grenier, mais il brûlera la paille dans un feu qui ne s'éteint point."
 "Alors Jésus vint de la Galilée au Jourdain vers Jean, pour être baptisé par lui."
 "Mais Jean s'y opposait, en disant

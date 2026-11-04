@@ -4,7 +4,7 @@
 "Gdy poraził Sehona, króla Amorejskiego, który mieszkał w Hesebon, i Oga, króla Basańskiego, który mieszkał w Astarot w Edrej."
 "Przed Jordanem w ziemi Moabskiej począł Mojżesz wykładać ten zakon, mówiąc
 "Pan, Bóg nasz, mówił do nas na górze Horeb, i rzekł
-"Obróćcież się, a ciągnąc idźcie do góry Amorejskiej, i na wszystkie miejsca pograniczne jej, na równiny, na góry, i na doliny, i ku południowi, i ku brzegu morskiemu, ku ziemi Chananejskiej, i do Libanu, aż do wielkiej rzeki, rzeki Eufrates."
+"Obróćcież się, a ciągnąc idźcie do góry Amorejskiej, i na wszystkie miejsca pograniczne jej, na równiny, na góry, i na doliny, #i ku południowi, i ku brzegu morskiemu, ku ziemi Chananejskiej, i do Libanu, aż do wielkiej rzeki, rzeki Eufrates."
 "Oto, dałem wam tę ziemię; wnijdźcież a posiądźcie tę ziemię, o którą przysiągł Pan ojcom waszym, Abrahamowi, Izaakowi i Jakóbowi, iż im ją dać miał, i nasieniu ich po nich."
 "I rzekłem do was na on czas, mówiąc
 "Pan, Bóg wasz, rozmnożył was, a otoście dziś jako gwiazdy niebieskie w mnóstwie swojem."
@@ -14,9 +14,9 @@
 "Tedyście mi odpowiedzieli, i rzekliście
 "I obrałem przedniejsze z pokoleń waszych, męże mądre, i doświadczone, i postanowiłem je przełożonymi nad wami
 "I rozkazałem sędziom waszym na on czas, mówiąc
-"Nie miejcie względu na osoby przy sądzie; tak małego jako wielkiego wysłuchywajcie; nie bójcie się nikogo, albowiem sąd Boży jest; a jeźliby co przytrudniejszem było na was, odniesiecie do mnie, a ja tego przesłucham."
+"Nie miejcie względu na osoby przy sądzie; tak małego jako wielkiego wysłuchywajcie; nie bójcie się nikogo, albowiem sąd #Boży jest; a jeźliby co przytrudniejszem było na was, odniesiecie do mnie, a ja tego przesłucham."
 "I przykazałem wam na on czas wszystko, coście czynić mieli."
-"Potem ruszywszy się z Horeb przeszliśmy wszystkę onę pustynią wielką i straszną, którąście widzieli, idąc drogą ku górze Amorejskiej, jako nam był rozkazał Pan, Bóg nasz, i przyszliśmy aż do Kades Barne"
+"Potem ruszywszy się z Horeb przeszliśmy wszystkę onę pustynią wielką i straszną, którąście widzieli, idąc drogą ku #górze Amorejskiej, jako nam był rozkazał Pan, Bóg nasz, i przyszliśmy aż do Kades Barne"
 "I rzekłem do was
 "Oto, podawa Pan, Bóg twój, tobie tę ziemię; idźże, a posiądź ją, jakoć powiedział Pan, Bóg ojców twoich, nie bój się ani się lękaj."
 "I przyszliście do mnie wszyscy, a mówiliście

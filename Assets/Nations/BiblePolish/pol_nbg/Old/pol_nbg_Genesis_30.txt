@@ -29,8 +29,8 @@
 "Więc Jakób powiedział do niego
 "Bo nielicznym było to, co miałeś przede mną, a rozmnożyło się w mnóstwo. Z moim przyjściem błogosławił ci WIEKUISTY, a teraz trzeba mi popracować dla mojego domu."
 "Więc powiedział
-"Dziś przejdę całą twoją trzodę i oddzielę z niej każde jagnię pstre oraz nakrapiane; niech moim wynagrodzeniem będzie każda płowa sztuka młodego bydła między owcami; a pstra, czy nakrapiana, między kozami."
-"A w przyszły dzień, gdy przyjdziesz, by stanęło przed tobą moje wynagrodzenie, będzie za mną świadczyła sprawiedliwość. Bo wszystko, co nie będzie nakrapiane i pstre między kozami, a płowe między owcami, to przy mnie zostanie uznane za kradzież."
+"Dziś przejdę całą twoją trzodę i oddzielę z niej każde jagnię pstre oraz nakrapiane; niech moim #wynagrodzeniem będzie każda płowa sztuka młodego bydła między owcami; a pstra, czy nakrapiana, między kozami."
+"A w przyszły dzień, gdy przyjdziesz, by stanęło przed tobą moje wynagrodzenie, będzie za mną świadczyła sprawiedliwość. Bo wszystko, co #nie będzie nakrapiane i pstre między kozami, a płowe między owcami, to przy mnie zostanie uznane za kradzież."
 "Więc Laban powiedział
 "Tego dnia oddzielił pręgowane i pstre kozły, wszystkie nakrapiane i pstre kozy, oraz wszystko płowe między owcami, a białe oddał w ręce swoich synów."
 "Naznaczył też odległość trzech dni drogi między sobą a Jakóbem; bo Jakób pasł pozostałą trzodę Labana."

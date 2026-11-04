@@ -1,6 +1,6 @@
 "Kaikki käskyt, jotka minä käsken sinulle tänäpänä, pitäkäät ja tehkäät, että eläisitte ja lisääntyisitte, tulisitte ja omistaisitte maan, josta Herra vannoi teidän isillenne."
-"Ja muista kaikkea sitä matkaa, jonka kautta Herra sinun Jumalas johdatti sinun näinä neljänäkymmenenä vuotena korvessa, vaivataksensa sinua ja koetellaksensa sinua, tietääksensä mitä sinun sydämessäs oli, pitäisitkö hänen käskynsä, vai etkö."
-"Ja hän vaivasi sinua ja antoi sinun isota, ja ravitsi sinun mannalla, jota et sinä eikä sinun isäs tunteneet, antaaksensa sinun tietää, ettei ihminen elä ainoastansa leivästä; vaan kaikesta mikä Herran suusta lähtee, elää ihminen."
+"Ja muista kaikkea sitä matkaa, jonka kautta Herra sinun Jumalas johdatti sinun näinä neljänäkymmenenä vuotena korvessa, #vaivataksensa sinua ja koetellaksensa sinua, tietääksensä mitä sinun sydämessäs oli, pitäisitkö hänen käskynsä, vai etkö."
+"Ja hän vaivasi sinua ja antoi sinun isota, ja ravitsi sinun mannalla, jota et sinä eikä sinun isäs #tunteneet, antaaksensa sinun tietää, ettei ihminen elä ainoastansa leivästä; vaan kaikesta mikä Herran suusta lähtee, elää ihminen."
 "Ei sinun vaattees vanhuudesta kuluneet yltäs ja sinun jalkas ei kuulettuneet, näinä neljänäkymmenenä vuotena."
 "Niin tiedä sydämessäs, että Herra sinun Jumalas on kurittanut sinua, niinkuin mies kurittaa poikaansa."
 "Ja pidä Herran sinun Jumalas käskyt vaeltaakses hänen tiellänsä ja peljätäkses häntä."
@@ -15,6 +15,6 @@
 "Ja on sinun johdattanut suuren ja hirmuisen korven lävitse, jossa tuliset kärmeet, ja skorpionit, ja kuivuus oli, ja ei ensinkään vettä ollut, ja hän antoi veden vuotaa sinulle kovasta kalliosta."
 "Ja ravitsi sinun mannalla korvessa, josta ei sinun isäs tietäneet, vaivataksensa ja koetellaksensa sinua, ja viimeiseltä hyvää tehdäksensä sinulle."
 "Muutoin sinä sanoisit sydämessäs
-"Vaan muista Herraa Jumalaas; sillä hän on se, joka sinulle voiman antaa, tekemään senkaltaisia voimallisia tekoja, että hän vahvistais liittonsa, jonka hän vannoi sinun isilles, niinkuin se tänäkin päivänä tapahtuu."
+"Vaan muista Herraa Jumalaas; sillä hän on se, joka sinulle voiman antaa, tekemään senkaltaisia voimallisia tekoja, #että hän vahvistais liittonsa, jonka hän vannoi sinun isilles, niinkuin se tänäkin päivänä tapahtuu."
 "Mutta jos sinä niin unhotat Herran sinun Jumalas, ja noudatat muita jumalia, palvelet ja kumarrat niitä, niin minä tänäpänä todistan teille, että teidän pitää peräti hukkuman."
 "Juuri niinkuin pakanat, jotka Herra hukuttaa teidän edestänne, niin teidän pitää hukkuman, ettette ole Herran teidän Jumalanne äänelle kuuliaiset."

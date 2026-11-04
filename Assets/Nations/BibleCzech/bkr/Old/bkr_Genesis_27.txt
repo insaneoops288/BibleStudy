@@ -26,7 +26,7 @@
 "I řekl jemu Izák otec jeho
 "I přistoupil a políbil ho. A jakž ucítil Izák vůni roucha jeho, požehnal mu, řka
 "Dejž tobě Bůh z rosy nebeské, a z tučnosti zemské, i hojnost obilé a vína."
-"Nechažť slouží tobě lidé, a sklánějí se před tebou národové. Budiž pánem bratří svých, a ať se sklánějí před tebou synové matky tvé. Kdož by zlořečili tobě, nechť jsou zlořečení, a kdo by dobrořečili tobě, požehnaní."
+"Nechažť slouží tobě lidé, a sklánějí se před tebou národové. Budiž pánem bratří svých, a ať se sklánějí před #tebou synové matky tvé. Kdož by zlořečili tobě, nechť jsou zlořečení, a kdo by dobrořečili tobě, požehnaní."
 "A když přestal Izák požehnání dávati Jákobovi, a sotva že vyšel Jákob od Izáka otce svého, Ezau bratr jeho přišel z lovu svého."
 "A připraviv i on krmě chutné, přinesl otci svému a řekl mu
 "I řekl jemu Izák otec jeho

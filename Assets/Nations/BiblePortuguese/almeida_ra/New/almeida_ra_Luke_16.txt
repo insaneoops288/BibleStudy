@@ -10,7 +10,7 @@
 "Quem é fiel no pouco, também é fiel no muito; quem é injusto no pouco, também é injusto no muito."
 "Se, pois, nas riquezas injustas não fostes fiéis, quem vos confiará as verdadeiras?"
 "E se no alheio não fostes fiéis, quem vos dará o que é vosso?"
-"Nenhum servo pode servir dois senhores; porque ou há de odiar a um e amar ao outro, o há de odiar a um e amar ao outro, o há de dedicar-se a um e desprezar o outro. Não podeis servir a Deus e às riquezas."
+"Nenhum servo pode servir dois senhores; porque ou há de odiar a um e amar ao outro, o há de odiar a um #e amar ao outro, o há de dedicar-se a um e desprezar o outro. Não podeis servir a Deus e às riquezas."
 "Os fariseus, que eram gananciosos, ouviam todas essas coisas e zombavam dele."
 "E ele lhes disse
 "A lei e os profetas vigoraram até João; desde então é anunciado o evangelho do reino de Deus, e todo homem esforça-se por entrar nele."

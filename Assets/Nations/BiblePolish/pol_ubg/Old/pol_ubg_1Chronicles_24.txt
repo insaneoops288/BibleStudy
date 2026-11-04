@@ -3,7 +3,7 @@
 "I Dawid podzielił ich, to jest Sadoka z synów Eleazara i Achimeleka z synów Itamara, według ich urzędu w ich służbie."
 "I okazało się, że spośród synów Eleazara było więcej naczelników niż spośród synów Itamara. Tak więc ich podzielono
 "A zostali podzieleni przez losowanie, zarówno jedni, jak i drudzy, gdyż przełożeni świątyni i przełożeni domu Bożego byli spośród synów Eleazara, jak i spośród synów Itamara."
-"A Szemajasz, syn Netaneela, pisarz z pokolenia Lewiego, spisał ich wobec króla i książąt, kapłana Sadok, Achimeleka, syna Abiatara, oraz naczelników rodów kapłańskich i lewickich. Losowano na przemian jeden dom z rodu Eleazara, drugi – z Itamara."
+"A Szemajasz, syn Netaneela, pisarz z pokolenia Lewiego, spisał ich wobec króla i książąt, kapłana Sadok, Achimeleka, syna Abiatara, #oraz naczelników rodów kapłańskich i lewickich. Losowano na przemian jeden dom z rodu Eleazara, drugi – z Itamara."
 "Pierwszy los padł na Jehojariba, drugi na Jedajasza;"
 "Trzeci na Charima, czwarty na Seorima;"
 "Piąty na Malkiasza, szósty na Mijamina;"
@@ -28,4 +28,4 @@
 "Z Machliego
 "Z Kisza, synowie Kisza
 "A synowie Musziego
-"Oni również rzucali losy tak samo jak ich bracia, synowie Aarona, przed królem Dawidem, Sadokiem, Achimelekiem oraz naczelnikami rodów kapłańskich i lewickich – naczelnicy rodów na równi z młodszymi ich braćmi."
+"Oni również rzucali losy tak samo jak ich bracia, synowie Aarona, przed królem Dawidem, Sadokiem, Achimelekiem #oraz naczelnikami rodów kapłańskich i lewickich – naczelnicy rodów na równi z młodszymi ich braćmi."

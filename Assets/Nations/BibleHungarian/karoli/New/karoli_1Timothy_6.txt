@@ -14,7 +14,7 @@
 "Hogy tartsd meg a parancsolatot mocsoktalanul, feddhetetlenül a mi Urunk Jézus Krisztus megjelenéséig,"
 "A mit a maga idejében megmutat ama boldog és egyedül hatalmas, a királyoknak Királya és az uraknak Ura,"
 "Kié egyedül a halhatatlanság, a ki hozzáférhetetlen világosságban lakozik; a kit az emberek közül senki nem látott, sem nem láthat
-"Azoknak, a kik gazdagok e világon, mondd meg, hogy ne fuvalkodjanak fel, se ne reménykedjenek a bizonytalan gazdagságban, hanem az élõ Istenben, a ki bõségesen megad nékünk mindent a mi tápláltatásunkra;"
+"Azoknak, a kik gazdagok e világon, mondd meg, hogy ne fuvalkodjanak fel, se ne reménykedjenek a #bizonytalan gazdagságban, hanem az élõ Istenben, a ki bõségesen megad nékünk mindent a mi tápláltatásunkra;"
 "Hogy jót tegyenek, legyenek gazdagok a jó cselekedetekben, legyenek szíves adakozók, közlõk,"
 "Kincset gyûjtvén magoknak jó alapul a jövõre, hogy elnyerjék az örök életet."
 "Óh Timótheus, õrizd meg a mi rád van bízva, elfordulván a szentségtelen üres beszédektõl és a hamis nevû ismeretnek ellenvetéseitõl;"

@@ -16,7 +16,7 @@
 "Monda néki Jézus
 "Monda néki Jézus
 "Elméne Mária Magdaléna, hirdetvén a tanítványoknak, hogy látta az Urat, és [hogy] ezeket mondotta néki."
-"Mikor azért estve vala, azon a napon, a hétnek elsõ napján, és mikor az ajtók zárva valának, a hol egybegyûltek vala a tanítványok, a zsidóktól való félelem miatt, eljöve Jézus és megálla a középen, és monda nékik
+"Mikor azért estve vala, azon a napon, a hétnek elsõ napján, és mikor az ajtók zárva valának, a hol #egybegyûltek vala a tanítványok, a zsidóktól való félelem miatt, eljöve Jézus és megálla a középen, és monda nékik
 "És ezt mondván, megmutatá nékik a kezeit és az oldalát. Örvendezének azért a tanítványok, hogy látják vala az Urat."
 "Ismét monda azért nékik Jézus
 "És mikor ezt mondta, rájuk lehelle, és monda nékik

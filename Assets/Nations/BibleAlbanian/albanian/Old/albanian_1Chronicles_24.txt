@@ -3,7 +3,7 @@
 "Pastaj Davidi, së bashku me Tsadokun, nga bijtë e Eleazarit, dhe me Ahimelekun, nga bijtë e Ithamarit, i ndau sipas detyrave të shërbimit të tyre."
 "Me qenë se kishte më tepër familjarë midis bijve të Eleazarit sesa midis bijve të Ithamarit, ata u ndanë në këtë mënyrë
 "Ata u ndanë me short, si njera palë ashtu dhe pala tjetër, sepse kishte princa të shenjtërores dhe princa të Perëndisë qoftë midis bijve të Eleazarit, qoftë midis bijve të Ithamarit."
-"Shkruesi Shemajahu, bir i Nathaneelit, një Levit i regjistroi në prani të mbretit, të princave, të priftit Tsadok, të Ahimelekut, birit të Abiathsarit, dhe të të parëve të shtëpive atërore të priftërinjve dhe të Levitëve. U hodh në short një shtëpi atërore për Eleazarin dhe një tjetër për Ithamarin."
+"Shkruesi Shemajahu, bir i Nathaneelit, një Levit i regjistroi në prani të mbretit, të princave, të priftit Tsadok, të Ahimelekut, birit të Abiathsarit, dhe të #të parëve të shtëpive atërore të priftërinjve dhe të Levitëve. U hodh në short një shtëpi atërore për Eleazarin dhe një tjetër për Ithamarin."
 "I pari i caktuar nga shorti ishte Jehojaribi, i dyti Jedajahu,"
 "i treti Harimi, i katërti Seorimi,"
 "i pesti Malkijahu, i gjashti Mijamimi,"
@@ -28,4 +28,4 @@
 "Nga Mahli kemi Eleazarin, që nuk pati fëmijë."
 "Nga Kishi, birin e Kishit, Jerahmeelin."
 "Bijtë e Mushit ishin Mahli, Ederi dhe Jerimothi. Këta ishin bijtë e Levitëve sipas shtëpive të tyre atërore."
-"Edhe këta, ashtu si bijtë e Aaronit, vëllezër të tyre, hodhën në short në prani të mbretit David, të Tsadokut, të Ahimelekut dhe të të parëve të shtëpive atërore të priftërinjve dhe të Levitëve. Të parët e shtëpive atërore u trajtuan në të njëjtën mënyrë si vëllezërit e tyre të rinj."
+"Edhe këta, ashtu si bijtë e Aaronit, vëllezër të tyre, hodhën në short në prani të mbretit David, të Tsadokut, të Ahimelekut dhe të të parëve #të shtëpive atërore të priftërinjve dhe të Levitëve. Të parët e shtëpive atërore u trajtuan në të njëjtën mënyrë si vëllezërit e tyre të rinj."

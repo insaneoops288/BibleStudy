@@ -9,14 +9,14 @@
 "At nagsibalik mula sa libingan, at ibinalita ang lahat ng mga bagay na ito sa labingisa, at sa lahat ng mga iba pa."
 "Sila nga'y si Maria Magdalena, si Juana, at si Mariang ina ni Santiago
 "At ang mga salitang ito'y inakala nilang walang kabuluhan; at hindi nila pinaniwalaan."
-"Datapuwa't nagtindig si Pedro, at tumakbo sa libingan; at nang siya'y tumungo pagtingin niya sa loob, ay nakita niya ang mga kayong lino na nangasa isang tabi; at umuwi siya sa kaniyang bahay na nanggigilalas sa nangyaring yaon."
+"Datapuwa't nagtindig si Pedro, at tumakbo sa libingan; at nang siya'y tumungo pagtingin niya sa loob, ay nakita niya ang #mga kayong lino na nangasa isang tabi; at umuwi siya sa kaniyang bahay na nanggigilalas sa nangyaring yaon."
 "At narito, dalawa sa kanila ay naparoroon nang araw ding yaon sa isang nayong ngala'y Emaus, na may anim na pung estadio ang layo sa Jerusalem."
 "At kanilang pinaguusapan ang lahat ng mga bagay na nangyari."
 "At nangyari, na samantalang sila'y naguusap at nagtatanongan, na si Jesus din ay lumapit, at nakisabay sa kanila."
 "Datapuwa't sa mga mata nila'y may nakatatakip upang siya'y huwag nilang makilala."
 "At sinabi niya sa kanila, Ano ang mga salitaan ninyong ito sa inyong paglalakad? At sila'y nagsitigil, na nangalulumbay ang mga mukha."
 "At isa sa kanila, na nagngangalang Cleopas, sa pagsagot ay sinabi sa kaniya, Ikaw baga'y nakikipamayan lamang sa Jerusalem, at hindi nakaalam ng mga bagay na doo'y nangyari nang mga araw na ito?"
-"At sinabi niya sa kanila, Anong mga bagay? At sinabi nila sa kaniya, Ang mga bagay tungkol kay Jesus na Nazareno, na isang propetang makapangyarihan sa gawa at sa salita sa harap ng Dios at ng buong bayan
+"At sinabi niya sa kanila, Anong mga bagay? At sinabi nila sa kaniya, Ang mga bagay tungkol kay Jesus na #Nazareno, na isang propetang makapangyarihan sa gawa at sa salita sa harap ng Dios at ng buong bayan
 "At kung paano ang pagkabigay sa kaniya ng mga pangulong saserdote at ng mga pinuno upang hatulan sa kamatayan, at siya'y ipako sa krus."
 "Datapuwa't hinihintay naming siya ang tutubos sa Israel. Oo at bukod sa lahat ng mga ito ay ngayon ang ikatlong araw buhat nang mangyari ang mga bagay na ito."
 "Bukod sa rito iba sa mga babaing kasamahan namin na nagsiparoong maaga sa libingan, ay nakapagtaka sa amin;"
@@ -41,7 +41,7 @@
 "At samantalang hindi pa sila nagsisisampalataya dahil sa galak, at nagsisipanggilalas, ay sinabi niya sa kanila, Mayroon baga kayo ritong anomang makakain?"
 "At binigyan nila siya ng isang putol na isdang inihaw."
 "At kaniyang inabot yaon, at kumain sa harap nila."
-"At sinabi niya sa kanila, Ito ang aking mga salitang sinabi ko sa inyo, nang ako'y sumasa inyo pa, na kinakailangang matupad ang lahat ng mga bagay na nangasusulat tungkol sa akin sa kautusan ni Moises, at sa mga propeta, at sa mga awit."
+"At sinabi niya sa kanila, Ito ang aking mga salitang sinabi ko sa inyo, nang ako'y sumasa inyo pa, na kinakailangang matupad ang #lahat ng mga bagay na nangasusulat tungkol sa akin sa kautusan ni Moises, at sa mga propeta, at sa mga awit."
 "Nang magkagayo'y binuksan niya ang kanilang mga pagiisip, upang mapagunawa nila ang mga kasulatan;"
 "At sinabi niya sa kanila, Ganyan ang pagkasulat, na kinakailangang maghirap ang Cristo, at magbangong muli sa mga patay sa ikatlong araw;"
 "At ipangaral sa kaniyang pangalan ang pagsisisi at pagpapatawad ng mga kasalanan sa lahat ng mga bansa, magbuhat sa Jerusalem."

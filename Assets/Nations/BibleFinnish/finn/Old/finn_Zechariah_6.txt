@@ -12,4 +12,4 @@
 "Ja sano hänelle
 "Ja Herran templin on hän rakentava, ja hänen pitää kunnian kantaman, istuman ja hallitseman istuimellansa, ja oleman papin istuimellansa, ja heillä pitää molemmilla rauha oleman."
 "Ja ne kruunut pitää oleman Helemin, Tobian, Jedajan ja Henin, Zephanjan pojan, muistoksi Herran templissä."
-"Heidän pitää kaukaa tuleman ja rakentaman Herran templin, ja teidän pitää ymmärtämän Herran Zebaotin lähettäneen minun teidän tykönne. Tämä pitää tapahtuman, jos te muutoin Herran teidän Jumalanne äänelle hyvin kuuliaiset olette."
+"Heidän pitää kaukaa tuleman ja rakentaman Herran templin, ja teidän pitää ymmärtämän Herran Zebaotin lähettäneen minun #teidän tykönne. Tämä pitää tapahtuman, jos te muutoin Herran teidän Jumalanne äänelle hyvin kuuliaiset olette."

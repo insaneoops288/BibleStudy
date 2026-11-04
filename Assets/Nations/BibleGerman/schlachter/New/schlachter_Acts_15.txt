@@ -1,5 +1,5 @@
 "Und etliche kamen aus Judäa herab und lehrten die Brüder
-"Da sich nun Zwiespalt erhob und Paulus und Barnabas nicht geringen Streit mit ihnen hatten, ordneten sie an, daß Paulus und Barnabas und einige andere von ihnen dieser Streitfrage wegen zu den Aposteln undÄltesten nach Jerusalem hinaufziehen sollten."
+"Da sich nun Zwiespalt erhob und Paulus und Barnabas nicht geringen Streit mit ihnen hatten, ordneten sie an, daß Paulus #und Barnabas und einige andere von ihnen dieser Streitfrage wegen zu den Aposteln undÄltesten nach Jerusalem hinaufziehen sollten."
 "So durchzogen sie, nun als Abgeordnete der Gemeinde, Phönizien und Samarien, indem sie von der Bekehrung der Heiden erzählten und allen Brüdern große Freude bereiteten."
 "Als sie aber nach Jerusalem kamen, wurden sie von der Gemeinde, den Aposteln und denÄltesten empfangen und berichteten, wie vieles Gott mit ihnen getan habe."
 "Es standen aber etliche von der Sekte der Pharisäer, welche gläubig geworden waren, auf und sprachen
@@ -19,7 +19,7 @@
 "Darum halte ich dafür, daß man diejenigen aus den Heiden, die sich zu Gott bekehren, nicht weiter belästigen soll,"
 "sondern ihnen nur anbefehle, sich von der Verunreinigung durch die Götzen, von der Unzucht, vom Erstickten und vom Blut zu enthalten."
 "Denn Mose hat von alten Zeiten her in jeder Stadt Leute, die ihn predigen, da er in den Synagogen an jedem Sabbat vorgelesen wird."
-"Da gefiel es den Aposteln und denÄltesten samt der ganzen Gemeinde, Männer aus ihrer Mitte zu erwählen und mit Paulus und Barnabas nach Antiochia zu senden, nämlich Judas mit dem Zunamen Barsabbas, und Silas, leitende Männer unter den Brüdern."
+"Da gefiel es den Aposteln und denÄltesten samt der ganzen Gemeinde, Männer aus ihrer Mitte zu erwählen und mit Paulus #und Barnabas nach Antiochia zu senden, nämlich Judas mit dem Zunamen Barsabbas, und Silas, leitende Männer unter den Brüdern."
 "Und sie sandten durch ihre Hand folgendes Schreiben
 "Da wir gehört haben, daß etliche, die von uns ausgegangen sind, euch durch Reden verwirrt und eure Seelen unsicher gemacht haben, ohne daß wir sie dazu beauftragt hätten,"
 "so hat es uns, die wir einmütig versammelt waren, gefallen, Männer zu erwählen und zu euch zu senden mit unsren geliebten Barnabas und Paulus,"

@@ -11,6 +11,6 @@
 "Ha hallotta az õ férje és nem szólt arra, nem tiltotta meg azt
 "De ha a férje teljesen erõtlenné teszi azokat azon a napon, a melyen hallotta
 "Minden fogadását, és minden esküvéssel való kötelezését a maga megsanyargattatására, a férje teszi erõssé, és a férje teszi azt erõtlenné."
-"Hogyha nem szólván nem szól néki a férje egy naptól fogva más napig, akkor megerõsíti minden fogadását, vagy minden kötelezését, a melyeket magára vett; megerõsíti azokat, mert nem szól néki azon a napon, a melyen hallotta azt."
+"Hogyha nem szólván nem szól néki a férje egy naptól fogva más napig, akkor megerõsíti minden fogadását, vagy minden #kötelezését, a melyeket magára vett; megerõsíti azokat, mert nem szól néki azon a napon, a melyen hallotta azt."
 "Ha pedig azután teszi erõtelenekké azokat, minekutána hallotta vala
 "Ezek azok a rendelések, a melyeket parancsolt az Úr Mózesnek, a férj és az õ felesége között, az atya és leánya között, mikor még fiatalságában az õ atyjának házában [van.]"

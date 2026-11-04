@@ -8,8 +8,8 @@
 "I sečtl je v Bezeku; a bylo synů Izraelských třikrát sto tisíc, a mužů Juda třidceti tisíců."
 "I řekli těm poslům, kteříž byli přišli
 "Tedy řekli muži Jábes Ammonitským
-"Nazejtří pak rozdělil Saul lid na tři houfy; i vskočili do prostřed vojska v čas jitřního bdění, a bili Ammonitské, až slunce dobře vzešlo; kteříž pak byli pozůstali, rozprchli se, tak že nezůstalo z nich ani dvou pospolu."
+"Nazejtří pak rozdělil Saul lid na tři houfy; i vskočili do prostřed vojska v čas jitřního bdění, a bili Ammonitské, #až slunce dobře vzešlo; kteříž pak byli pozůstali, rozprchli se, tak že nezůstalo z nich ani dvou pospolu."
 "I řekl lid Samuelovi
 "Ale Saul řekl
 "I řekl Samuel lidu
-"Šel tedy všecken lid do Galgala, a ustanovili tam Saule za krále před Hospodinem v Galgala, a obětovali také tam oběti pokojné před Hospodinem. I veselil se tam Saul a všickni muži Izraelští velmi velice."
+"Šel tedy všecken lid do Galgala, a ustanovili tam Saule za krále před Hospodinem v Galgala, a obětovali #také tam oběti pokojné před Hospodinem. I veselil se tam Saul a všickni muži Izraelští velmi velice."

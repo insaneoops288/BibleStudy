@@ -16,4 +16,4 @@
 "I ke shumuar tregjet e tua më tepër se yjet e qiellit; larvat e karkalecave zhveshin çdo gjë dhe pastaj fluturojnë tutje."
 "Princat e tu janë si karkalecat, oficerët e tu si mizëri karkalecash që ndalen midis gjerdheve në ditët e ftohta; po, kur del dielli, fluturojnë tutje, por nuk dihet se ku kanë shkuar."
 "O mbret i Asirisë, barinjtë e tu po flenë, fisnikët e tu pushojnë; populli yt u shpërnda ndër male dhe kurrkush nuk po i mbledh."
-"Nuk ka ilaç për plagën tënde, plaga jote është vdekjeprurëse; të gjithë ata që do të dëgjojnë të flitet për ty, do të përplasin duart për fatin tënd. Sepse mbi kë nuk është ushtruar vazhdimisht ligësia jote?"
+"Nuk ka ilaç për plagën tënde, plaga jote është vdekjeprurëse; të gjithë ata që do të dëgjojnë të flitet #për ty, do të përplasin duart për fatin tënd. Sepse mbi kë nuk është ushtruar vazhdimisht ligësia jote?"

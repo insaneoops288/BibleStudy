@@ -20,7 +20,7 @@
 "At nagpasimula si Noe na maging mangbubukid, at naglagay ng isang ubasan."
 "At uminom ng alak at nalango; at siya'y nahubaran sa loob ng kaniyang tolda."
 "At si Cham na ama ni Canaan ay nakakita ng kahubaran ng kaniyang ama, at isinaysay sa kaniyang dalawang kapatid na nangasa labas."
-"At kumuha si Sem at si Japhet ng isang balabal, at isinabalikat nilang dalawa, at lumakad ng paurong, at tinakpan ang kahubaran ng kanilang ama; at ang mukha nila ay patalikod, at hindi nila nakita ang kahubaran ng kanilang ama."
+"At kumuha si Sem at si Japhet ng isang balabal, at isinabalikat nilang dalawa, at lumakad ng paurong, at tinakpan ang #kahubaran ng kanilang ama; at ang mukha nila ay patalikod, at hindi nila nakita ang kahubaran ng kanilang ama."
 "At nagising si Noe sa kaniyang pagkalango sa alak, at naalaman ang ginawa sa kaniya ng kaniyang bunsong anak."
 "At sinabi, Sumpain si Canaan! Siya'y magiging alipin ng mga alipin sa kaniyang mga kapatid."
 "At sinabi niya, Purihin ang Panginoon, ang Dios ni Sem! At si Canaan ay maging alipin niya."

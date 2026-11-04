@@ -2,7 +2,7 @@
 "Als sie aber hörten, daß er sie in hebräischer Mundart anredete, beobachteten sie desto mehr Stille."
 "Und er spricht
 "der ich diesen Weg verfolgt habe bis zum Tode, indem ich sowohl Männer als Weiber band und in die Gefängnisseüberlieferte,"
-"wie auch der Hohepriester und die ganzeÄltestenschaft mir Zeugnis gibt, von denen ich auch Briefe an die Brüder empfing und nach Damaskus reiste, um auch diejenigen, die dort waren, gebunden nach Jerusalem zu führen, auf daß sie gestraft würden."
+"wie auch der Hohepriester und die ganzeÄltestenschaft mir Zeugnis gibt, von denen ich auch Briefe an die Brüder empfing und #nach Damaskus reiste, um auch diejenigen, die dort waren, gebunden nach Jerusalem zu führen, auf daß sie gestraft würden."
 "Es geschah mir aber, als ich reiste und Damaskus nahte, daß um Mittag plötzlich aus dem Himmel ein großes Licht mich umstrahlte."
 "Und ich fiel zu Boden und hörte eine Stimme, die zu mir sprach
 "Ich aber antwortete
@@ -27,4 +27,4 @@
 "Der Oberste aber kam herzu und sprach zu ihm
 "Und der Oberste antwortete
 "Alsbald nun standen von ihm ab, die ihn ausforschen sollten; aber auch der Oberste fürchtete sich, als er erfuhr, daß er ein Römer sei, und weil er ihn gebunden hatte."
-"Des folgenden Tages aber, da er mit Gewißheit erfahren wollte, weshalb er von den Juden angeklagt sei, machte er ihn los und befahl, daß die Hohenpriester und das ganze Synedrium zusammenkommen sollten; und er führte Paulus hinab und stellte ihn vor sie."
+"Des folgenden Tages aber, da er mit Gewißheit erfahren wollte, weshalb er von den Juden angeklagt sei, machte er ihn los und #befahl, daß die Hohenpriester und das ganze Synedrium zusammenkommen sollten; und er führte Paulus hinab und stellte ihn vor sie."

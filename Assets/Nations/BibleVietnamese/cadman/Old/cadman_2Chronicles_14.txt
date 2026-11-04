@@ -10,6 +10,6 @@
 "A-sa ra đón người, dàn trận tại trong trũng Xê-pha-ta, gần Ma-rê-sa."
 "A-sa cầu khẩn Giê-hô-va Ðức Chúa Trời mình, mà rằng
 "Ðức Giê-hô-va bèn đánh dân Ê-thi-ô-bi tại trước mặt dân Giu-đa và vua A-sa; quân Ê-thi-ô-bi chạy trốn."
-"A-sa và quân lính theo người, đều đuổi chúng cho đến Ghê-ra; quân Ê-thi-ô-bi ngã chết nhiều, đến đỗi chẳng còn gượng lại được, vì chúng bị thua trước mặt Ðức Giê-hô-va và đạo binh của Ngài. Người Giu-đa đoạt được của giặc rất nhiều;"
-"cũng hãm đánh các thành chung quanh Ghê-ra, vì sự kinh khiếp của Ðức Giê-hô-va giáng trên các thành đó; rồi quân lính A-sa cướp lấy hết thảy của cải trong các thành ấy, vì trong nó có của cải rất nhiều."
+"A-sa và quân lính theo người, đều đuổi chúng cho đến Ghê-ra; quân Ê-thi-ô-bi ngã chết nhiều, đến đỗi chẳng còn gượng lại #được, vì chúng bị thua trước mặt Ðức Giê-hô-va và đạo binh của Ngài. Người Giu-đa đoạt được của giặc rất nhiều;"
+"cũng hãm đánh các thành chung quanh Ghê-ra, vì sự kinh khiếp của Ðức Giê-hô-va giáng trên các thành đó; rồi quân #lính A-sa cướp lấy hết thảy của cải trong các thành ấy, vì trong nó có của cải rất nhiều."
 "Lại cũng đánh phá các chuồng súc vật, bắt đem đi rất nhiều chiên và lạc đà; đoạn trở về Giê-ru-sa-lem."

@@ -59,7 +59,7 @@
 "Și numele soției lui Amram [a fost] Iochebed, fiica lui Levi, pe care [mama ei] i-a născut-o lui Levi în Egipt; și i-a născut lui Amram pe Aaron și Moise și pe Miriam sora lor."
 "Și lui Aaron i-a fost născut Nadab și Abihu, Eleazar și Itamar."
 "Și Nadab și Abihu au murit, când au oferit foc străin înaintea DOMNULUI."
-"Și cei numărați dintre ei erau douăzeci și trei de mii, toți de parte bărbătească de la vârsta de o lună în sus, și nu au fost numărați printre copiii lui Israel, pentru că lor nu le-a fost dată nicio moștenire în mijlocul copiilor lui Israel."
+"Și cei numărați dintre ei erau douăzeci și trei de mii, toți de parte bărbătească de la vârsta de o lună în sus, și #nu au fost numărați printre copiii lui Israel, pentru că lor nu le-a fost dată nicio moștenire în mijlocul copiilor lui Israel."
 "Aceștia [sunt] cei numărați de Moise și preotul Eleazar, care au numărat pe copiii lui Israel în câmpiile lui Moab lângă Iordan, [aproape] de Ierihon."
 "Dar printre aceștia nu a fost niciun bărbat dintre cei pe care Moise și preotul Aaron i-au numărat, când au numărat copiii lui Israel în pustiul Sinai."
 "Pentru că DOMNUL spusese despre ei

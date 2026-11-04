@@ -7,7 +7,7 @@
 "Dlatego tak mówi PAN zastępów
 "Ich język jest śmiercionośną strzałą, wypowiada oszustwa. Jeden mówi ustami o pokoju ze swym przyjacielem, ale w sercu zastawia na niego sidła."
 "Czyż za to nie powinienem ich nawiedzić? – mówi PAN. Czyż nad takim narodem moja dusza nie powinna się zemścić?"
-"Z powodu tych gór podniosę płacz i lament, z powodu pastwisk na pustkowiu – pieśń żałobną. Są bowiem spalone tak, że nikt tamtędy nie przechodzi ani odgłosu bydła nie słychać; ptactwo niebieskie i zwierzęta rozbiegły się i odeszły."
+"Z powodu tych gór podniosę płacz i lament, z powodu pastwisk na pustkowiu – pieśń żałobną. Są bowiem spalone tak, #że nikt tamtędy nie przechodzi ani odgłosu bydła nie słychać; ptactwo niebieskie i zwierzęta rozbiegły się i odeszły."
 "I zamienię Jerozolimę w gruzy, w legowisko smoków, a miasta Judy – w pustkowie, zostaną bez mieszkańca."
 "Któż jest tak mądry, aby mógł to zrozumieć? A do kogo mówiły usta PANA, aby mógł ogłosić, dlaczego ziemia ginie i jest spalona jak pustynia, tak że przez nią nikt nie przechodzi?"
 "PAN bowiem mówi

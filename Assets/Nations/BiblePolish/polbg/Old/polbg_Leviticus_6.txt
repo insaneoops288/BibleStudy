@@ -9,7 +9,7 @@
 "Rozkaż Aaronowi i synom jego, i rzecz
 "I oblecze się kapłan w odzienie swoje lniane, i ubiory lniane oblecze na ciało swoje, i zbierze popiół, gdy spali ogień ofiarę całopalenia na ołtarzu, a wysypie go podle ołtarza."
 "Potem zewlecze szaty swe, i oblecze się w szaty inne, a wyniesie popiół on za obóz na miejsce czyste."
-"A ogień na ołtarzu ustawicznie gorzeć będzie, nie będzie gaszony; a będzie zapalał na nim kapłan drwa na każdy poranek, i włoży nań ofiarę całopalenia, a palić będzie na nim tłustość ofiar spokojnych."
+"A ogień na ołtarzu ustawicznie gorzeć będzie, nie będzie gaszony; a będzie zapalał na nim kapłan drwa #na każdy poranek, i włoży nań ofiarę całopalenia, a palić będzie na nim tłustość ofiar spokojnych."
 "Ogień ustawicznie będzie gorzał na ołtarzu, nie będzie gaszony."
 "A tać też jest ustawa ofiary śniednej, którą ofiarować będą synowie Aaronowi przed obliczem Pańskiem u ołtarza."
 "Weźmie garść swoję pszennej mąki z tej ofiary śniednej, i z oliwy jej ze wszystkiem kadzidłem, które będzie na ofierze śniednej, i to spali na ołtarzu ku wdzięcznej wonności na pamiątkę jej Panu."

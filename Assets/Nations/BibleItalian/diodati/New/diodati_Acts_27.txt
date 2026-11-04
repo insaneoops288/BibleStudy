@@ -9,7 +9,7 @@
 "Ora, essendo già passato molto tempo, ed essendo la navigazione omai pericolosa; poichè anche il digiuno era già passato, Paolo ammonì que’ della nave, dicendo loro
 "Uomini, io veggo che la navigazione sarà con offesa, e grave danno, non solo del carico, e della nave, ma anche delle nostre proprie persone."
 "Ma il centurione prestava più fede al padron della nave, ed al nocchiero, che alle cose dette da Paolo."
-"E, perchè il porto non era ben posto da vernare, i più furono di parere di partirsi di là, per vernare in Fenice, porto di Creti, che riguarda verso il vento Libeccio, e Maestro; se pure in alcun modo potevano arrivarvi."
+"E, perchè il porto non era ben posto da vernare, i più furono di parere di partirsi di là, per vernare #in Fenice, porto di Creti, che riguarda verso il vento Libeccio, e Maestro; se pure in alcun modo potevano arrivarvi."
 "Ora, messosi a soffiar l’Austro, pensando esser venuti a capo del lor proponimento, levate le ancore, costeggiavano Creti più da presso."
 "Ma, poco stante, un vento turbinoso, che si domanda Euroclidone percosse l’isola."
 "Ed essendo la nave portata via, e non potendo reggere al vento, noi la lasciammo in abbandono; e così eravamo portati."

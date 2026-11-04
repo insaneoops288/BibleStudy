@@ -15,7 +15,7 @@
 "És a másik felõl is
 "A pitvarnak minden szõnyege köröskörül sodrott lenbõl vala."
 "Az oszlopok talpai rézbõl, az oszlopok horgai és általkötõi pedig ezüstbõl valának, azoknak fejei ezüsttel beborítva. A pitvar oszlopait is mind ezüst általkötõk övezték."
-"A pitvar kapujának leple hímzõmunka vala, kék, és bíborpiros, és karmazsinszínû, és sodrott lenbõl; hossza húsz sing volt, magassága pedig szélességében öt sing, a pitvar szõnyegeinek megfelelõleg."
+"A pitvar kapujának leple hímzõmunka vala, kék, és bíborpiros, és karmazsinszínû, és sodrott lenbõl; #hossza húsz sing volt, magassága pedig szélességében öt sing, a pitvar szõnyegeinek megfelelõleg."
 "Azoknak négy oszlopa és négy talpa rézbõl, horgai ezüstbõl valának; fejeiknek borítása, és általkötõik is ezüstbõl."
 "A hajléknak és a pitvarnak szegei pedig köröskörûl mind rézbõl valának."
 "Ezek a hajléknak, a bizonyság hajlékának részei, a mint megszámláltattak a Mózes meghagyásából, a Léviták szolgálatára, Ithamár, az Áron pap fia által."

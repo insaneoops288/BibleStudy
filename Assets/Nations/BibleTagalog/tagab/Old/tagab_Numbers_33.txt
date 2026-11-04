@@ -1,6 +1,6 @@
 "Ito ang mga paglalakbay ng mga anak ni Israel, nang sila'y magsilabas sa lupain ng Egipto, ayon sa kanilang mga hukbo sa ilalim ng kapangyarihan ni Moises at ni Aaron."
 "At isinulat ni Moises ang kanilang mga pagyao ayon sa kanilang mga paglalakbay alinsunod sa utos ng Panginoon
-"At sila'y nagsipaglakbay mula sa Rameses nang unang buwan, nang ikalabing limang araw ng unang buwan; nang kinabukasan pagkatapos ng paskua ay nagsialis ang mga anak ni Israel na may kamay na nakataas sa paningin ng lahat ng mga taga Egipto,"
+"At sila'y nagsipaglakbay mula sa Rameses nang unang buwan, nang ikalabing limang araw ng unang buwan; nang kinabukasan pagkatapos ng paskua #ay nagsialis ang mga anak ni Israel na may kamay na nakataas sa paningin ng lahat ng mga taga Egipto,"
 "Samantalang inililibing ng mga taga Egipto ang lahat ng kanilang panganay, na nilipol ng Panginoon sa gitna nila
 "At ang mga anak ni Israel ay naglakbay mula sa Rameses at humantong sa Succoth."
 "At sila'y naglakbay mula sa Succoth at humantong sa Etham na nasa gilid ng ilang."
@@ -35,7 +35,7 @@
 "At sila'y naglakbay mula sa Abrona, at humantong sa Esion-geber."
 "At sila'y naglakbay mula sa Esion-geber, at humantong sa ilang ng Zin (na siya ring Cades)."
 "At sila'y naglakbay mula sa Cades, at humantong sa bundok ng Hor, sa gilid ng lupain ng Edom."
-"At si Aaron na saserdote ay sumampa sa bundok ng Hor sa utos ng Panginoon, at namatay roon, sa ikaapat na pung taon, pagkaalis ng mga anak ni Israel sa lupain ng Egipto, sa ikalimang buwan, nang unang araw ng buwan."
+"At si Aaron na saserdote ay sumampa sa bundok ng Hor sa utos ng Panginoon, at namatay roon, sa ikaapat na #pung taon, pagkaalis ng mga anak ni Israel sa lupain ng Egipto, sa ikalimang buwan, nang unang araw ng buwan."
 "At si Aaron ay may isang daan at dalawang pu't tatlong taon nang siya'y mamatay sa bundok ng Hor."
 "At ang Cananeo na hari sa Arad, na tumatahan sa Timugan, sa lupain ng Canaan, ay nakarinig ng pagdating ng mga anak ni Israel."
 "At sila'y naglakbay mula sa bundok ng Hor, at humantong sa Salmona."
@@ -49,8 +49,8 @@
 "At sila'y humantong sa tabi ng Jordan, mula sa Beth-jesimoth hanggang sa Abel-sitim, sa mga kapatagan ng Moab."
 "At sinalita ng Panginoon kay Moises sa mga kapatagan ng Moab sa tabi ng Jordan, sa tapat ng Jerico, na sinasabi,"
 "Salitain mo sa mga anak ni Israel, at sabihin mo sa kanila, Pagtawid ninyo sa Jordan sa lupain ng Canaan,"
-"Ay inyo ngang palalayasin ang lahat ng nananahan sa lupain sa harap ninyo, at inyong sisirain ang lahat ng kanilang mga batong tinapyasan, at inyong sisirain ang lahat ng kanilang mga larawang binubo, at inyong gigibain ang lahat ng kanilang mga mataas na dako
+"Ay inyo ngang palalayasin ang lahat ng nananahan sa lupain sa harap ninyo, at inyong sisirain ang lahat ng kanilang mga batong tinapyasan, #at inyong sisirain ang lahat ng kanilang mga larawang binubo, at inyong gigibain ang lahat ng kanilang mga mataas na dako
 "At inyong ariin ang lupain, at tatahan kayo roon
 "At inyong aariin ang lupain sa sapalaran ayon sa inyong mga angkan; sa marami ay magbibigay kayo ng maraming mana, at sa kaunti ay magbibigay kayo ng kaunting mana
-"Nguni't kung hindi ninyo palalayasin ang mga nananahanan sa lupain sa harap ninyo; ay magiging parang mga tibo nga sa inyong mga mata, at parang mga tinik sa inyong mga tagiliran ang mga ititira ninyo sa kanila, at kanilang babagabagin kayo sa lupain na inyong tinatahanan."
+"Nguni't kung hindi ninyo palalayasin ang mga nananahanan sa lupain sa harap ninyo; ay magiging parang mga tibo nga sa inyong mga mata, at #parang mga tinik sa inyong mga tagiliran ang mga ititira ninyo sa kanila, at kanilang babagabagin kayo sa lupain na inyong tinatahanan."
 "At mangyayari, na kung ano ang iniisip kong gawin sa kanila, ay gayon ang gagawin ko sa inyo."

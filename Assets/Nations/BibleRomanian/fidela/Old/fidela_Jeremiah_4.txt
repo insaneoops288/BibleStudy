@@ -1,7 +1,7 @@
 "Dacă te vei întoarce, Israele, spune DOMNUL, întoarce-te la mine; și dacă vei îndepărta urâciunile tale dinaintea vederii mele, atunci nu te vei [mai] clinti."
 "Și vei jura
 "Pentru că astfel spune DOMNUL către bărbații lui Iuda și către Ierusalim
-"Circumcideți-vă pentru DOMNUL și îndepărtați prepuțurile inimii voastre, voi bărbați ai lui Iuda și locuitori ai Ierusalimului; ca nu cumva furia mea, ca un foc, să izbucnească și să ardă astfel [încât ]nimeni să nu [o] poată stinge, din cauza facerilor voastre de rău."
+"Circumcideți-vă pentru DOMNUL și îndepărtați prepuțurile inimii voastre, voi bărbați ai lui Iuda și locuitori ai Ierusalimului; ca nu cumva furia mea, ca #un foc, să izbucnească și să ardă astfel [încât ]nimeni să nu [o] poată stinge, din cauza facerilor voastre de rău."
 "Vestiți în Iuda și faceți cunoscut în Ierusalim și spuneți
 "Înălțați steagul spre Sion; retrageți-vă, nu vă opriți, pentru că voi aduce răul de la nord și o mare nimicire."
 "Leul s-a ridicat din desișul lui și nimicitorul neamurilor este pe drum; el a ieșit din locul său ca să îți prefacă țara în pustiu; [și ]cetățile tale vor fi risipite, fără vreun locuitor."
@@ -28,4 +28,4 @@
 "Pentru aceasta pământul va jeli și cerurile de deasupra [vor fi] negre, pentru că eu am vorbit [aceasta], am hotărât-[o] și nu mă voi pocăi, nici nu mă voi întoarce înapoi de la ea."
 "Întreaga cetate va fugi de vuietul călăreților și arcașilor; ei vor intra în desișuri și se vor cățăra pe stânci
 "Și [după ce ești ]prădată, ce vei face? Chiar dacă te îmbraci cu stacojiu, chiar dacă te împodobești cu podoabe de aur, chiar dacă îți vei mări ochii cu vopsea, în zadar te vei face frumoasă
-"Pentru că am auzit o voce ca a unei femei în durerile nașterii [și] chinul ca a celei care naște pe întâiul ei născut, vocea fiicei Sionului, [care ]se tânguie, [care ]își întinde mâinile, [spunând]
+"Pentru că am auzit o voce ca a unei femei în durerile nașterii [și] chinul ca a celei #care naște pe întâiul ei născut, vocea fiicei Sionului, [care ]se tânguie, [care ]își întinde mâinile, [spunând]

@@ -15,7 +15,7 @@
 "Car il enseignait dans leurs synagogues, et il était honoré de tout le monde."
 "Et Jésus vint à Nazareth, où il avait été élevé, et il entra, selon sa coutume, le jour du sabbat, dans la synagogue, et il se leva pour lire."
 "Et on lui présenta le livre du prophète Ésaïe, et ayant déroulé le livre, il trouva l'endroit où il était écrit
-"L'Esprit du Seigneur est sur moi, c'est pourquoi il m'a oint pour annoncer l'Évangile aux pauvres; il m'a envoyé pour guérir ceux qui ont le cœur brisé; pour publier la liberté aux captifs, et le recouvrement de la vue aux aveugles; pour renvoyer libres ceux qui sont dans l'oppression,"
+"L'Esprit du Seigneur est sur moi, c'est pourquoi il m'a oint pour annoncer l'Évangile aux pauvres; il m'a envoyé pour guérir ceux qui ont le #cœur brisé; pour publier la liberté aux captifs, et le recouvrement de la vue aux aveugles; pour renvoyer libres ceux qui sont dans l'oppression,"
 "Pour publier l'année favorable du Seigneur."
 "Et ayant replié le livre, et l'ayant rendu au ministre, il s'assit; et les yeux de tous, dans la synagogue, étaient arrêtés sur lui."
 "Alors il commença à leur dire

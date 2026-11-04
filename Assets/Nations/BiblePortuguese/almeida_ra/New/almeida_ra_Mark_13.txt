@@ -6,9 +6,9 @@
 "muitos virão em meu nome, dizendo
 "Quando, porém, ouvirdes falar em guerras e rumores de guerras, não vos perturbeis; forçoso é que assim aconteça
 "Pois se levantará nação contra nação, e reino contra reino; e haverá terremotos em diversos lugares, e haverá fomes. Isso será o princípio das dores."
-"Mas olhai por vós mesmos; pois por minha causa vos hão de entregar aos sinédrios e às sinagogas, e sereis açoitados; também sereis levados perante governadores e reis, para lhes servir de testemunho."
+"Mas olhai por vós mesmos; pois por minha causa vos hão de entregar aos sinédrios e às #sinagogas, e sereis açoitados; também sereis levados perante governadores e reis, para lhes servir de testemunho."
 "Mas importa que primeiro o evangelho seja pregado entre todas as nações."
-"Quando, pois, vos conduzirem para vos entregar, não vos preocupeis com o que haveis de dizer; mas, o que vos for dado naquela hora, isso falai; porque não sois vós que falais, mas sim o Espírito Santo."
+"Quando, pois, vos conduzirem para vos entregar, não vos preocupeis com o que haveis de dizer; mas, o que #vos for dado naquela hora, isso falai; porque não sois vós que falais, mas sim o Espírito Santo."
 "Um irmão entregará à morte a seu irmão, e um pai a seu filho; e filhos se levantarão contra os pais e os matarão."
 "E sereis odiados de todos por causa do meu nome; mas aquele que perseverar até o fim, esse será salvo."
 "Ora, quando vós virdes a abominação da desolação estar onde não deve estar (quem lê, entenda), então os que estiverem na Judeia fujam para os montes;"

@@ -1,6 +1,6 @@
 "Y fue Sansón a Gaza, y vio allí una mujer ramera, y entró a ella."
 "Y fue dicho a los de Gaza
-"Mas Sansón durmió hasta la media noche; y a la media noche se levantó, y tomando las puertas de la ciudad con sus dos pilares y su cerrojo, se las echó al hombro, y se fue, y se subió con ellas a la cumbre del monte que está delante de Hebrón."
+"Mas Sansón durmió hasta la media noche; y a la media noche se levantó, y tomando las puertas de la ciudad con sus dos pilares y #su cerrojo, se las echó al hombro, y se fue, y se subió con ellas a la cumbre del monte que está delante de Hebrón."
 "Después de esto aconteció que se enamoró de una mujer en el valle de Sorec, la cual se llamaba Dalila."
 "Y vinieron a ella los príncipes de los filisteos, y le dijeron
 "Y Dalila dijo a Sansón

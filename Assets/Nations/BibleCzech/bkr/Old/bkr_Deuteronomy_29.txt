@@ -15,12 +15,12 @@
 "Ale i s každým tím, jenž tuto dnes s námi stojí před Hospodinem Bohem naším, i s tím, jehož není tuto dnes s námi."
 "Nebo vy víte, kterak jsme bydlili v zemi Egyptské, a kterak jsme šli prostředkem těch národů, až jsme naskrze prošli."
 "A viděli jste ohavnosti jejich i modly jejich, dřevo i kámen, stříbro i zlato, kteréž jest při nich."
-"Hleďtež, ať nebývá mezi vámi muže, aneb ženy, aneb čeledi, aneb pokolení, jehož by srdce odvrátilo se dnes od Hospodina Boha našeho, a šel by sloužiti bohům těch národů; ať nebývá mezi vámi kořene plodícího jed a hořkost."
+"Hleďtež, ať nebývá mezi vámi muže, aneb ženy, aneb čeledi, aneb pokolení, jehož by srdce odvrátilo se dnes od Hospodina #Boha našeho, a šel by sloužiti bohům těch národů; ať nebývá mezi vámi kořene plodícího jed a hořkost."
 "I stalo by se, že uslyše takový slova zlořečení tohoto, dobrořečil by sobě v srdci svém, řka
-"Nechceť Hospodin odpustiti takovému, nebo tehdáž rozpálí se prchlivost Hospodinova a zůřivost jeho proti takovému člověku, tak že připadne na něj všeliké zlořečení, o kterémž psáno jest v knize této; i vyhladí Hospodin jméno jeho pod nebem."
+"Nechceť Hospodin odpustiti takovému, nebo tehdáž rozpálí se prchlivost Hospodinova a zůřivost jeho proti takovému člověku, tak že připadne #na něj všeliké zlořečení, o kterémž psáno jest v knize této; i vyhladí Hospodin jméno jeho pod nebem."
 "A odloučí jej Hospodin s jeho zlým ode všech pokolení Izraelských, vedlé všech zlořečení smlouvy zapsané v této knize zákona,"
 "Tak že řekne věk potomní, synové vaši, kteříž povstanou po vás, i cizozemec, kterýž přijde z země daleké, (když uzří rány země této, i neduhy její, kteréž uvedl na ni Hospodin,"
-"Sirou a solí vypálenou všecku tu zemi, a že se nemůž síti, ani co vzcházeti, ani jaké byliny růsti na ní, rovně jako na místě, kdež jest podvrácena Sodoma a Gomora, Adama a Seboim, kteréž podvrátil Hospodin v hněvě svém a v prchlivosti své),"
+"Sirou a solí vypálenou všecku tu zemi, a že se nemůž síti, ani co vzcházeti, ani jaké byliny růsti na ní, rovně jako #na místě, kdež jest podvrácena Sodoma a Gomora, Adama a Seboim, kteréž podvrátil Hospodin v hněvě svém a v prchlivosti své),"
 "Řeknou všickni národové
 "A bude odpovědíno
 "Nebo odcházejíce, sloužili bohům cizím a klaněli se jim, bohům, kterýchž neznali, kteříž se s nimi také ničímž dobrým nezdělili."

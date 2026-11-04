@@ -3,7 +3,7 @@
 "Maintenant qu'as-tu sous la main? Donne-moi cinq pains, ou ce qui se trouvera."
 "Le sacrificateur répondit à David
 "David répondit au sacrificateur
-"Alors le sacrificateur lui donna du pain consacré, car il n'y avait là d'autre pain que du pain de proposition, qu'on avait ôté de devant l'Eternel pour le remplacer par du pain chaud au moment où on l'avait pris."
+"Alors le sacrificateur lui donna du pain consacré, car il n'y avait là d'autre pain que du pain de proposition, #qu'on avait ôté de devant l'Eternel pour le remplacer par du pain chaud au moment où on l'avait pris."
 "Là, ce même jour, un homme d'entre les serviteurs de Saül se trouvait enfermé devant l'Eternel; c'était un Edomite, nommé Doëg, chef des bergers de Saül."
 "David dit à Achimélec
 "Le sacrificateur répondit

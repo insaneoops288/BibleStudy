@@ -2,7 +2,7 @@
 "Aber um der Hurerei willen habe ein jeder sein eigenes Weib, und eine jede habe ihren eigenen Mann."
 "Der Mann leiste dem Weibe die eheliche Pflicht, gleicherweise aber auch das Weib dem Manne."
 "Das Weib hat nicht Machtüber ihren eigenen Leib, sondern der Mann; gleicherweise aber hat auch der Mann nicht Machtüber seinen eigenen Leib, sondern das Weib."
-"Entziehet euch einander nicht, es sei denn etwa nachÜbereinkunft eine Zeitlang, auf daß ihr zum Beten Muße habet; und kommet wieder zusammen, auf daß der Satan euch nicht versuche wegen eurer Unenthaltsamkeit."
+"Entziehet euch einander nicht, es sei denn etwa nachÜbereinkunft eine Zeitlang, auf daß ihr zum Beten Muße #habet; und kommet wieder zusammen, auf daß der Satan euch nicht versuche wegen eurer Unenthaltsamkeit."
 "Dieses aber sage ich aus Nachsicht, nicht befehlsweise."
 "Ich wünsche aber, alle Menschen wären wie auch ich selbst; aber ein jeder hat seine eigene Gnadengabe von Gott, der eine so, der andere so."
 "Ich sage aber den Unverheirateten und den Witwen
@@ -31,7 +31,7 @@
 "und die der Welt Gebrauchenden als ihrer nicht als Eigentum Gebrauchende; denn die Gestalt dieser Welt vergeht."
 "Ich will aber, daß ihr ohne Sorge seid. Der Unverheiratete ist für die Dinge des Herrn besorgt, wie er dem Herrn gefallen möge;"
 "der Verheiratete aber ist für die Dinge der Welt besorgt, wie er dem Weibe gefallen möge."
-"Es ist ein Unterschied zwischen dem Weibe und der Jungfrau. Die Unverheiratete ist für die Dinge des Herrn besorgt, auf daß sie heilig sei, sowohl an Leib als Geist; die Verheiratete aber ist für die Dinge der Welt besorgt, wie sie dem Manne gefallen möge."
+"Es ist ein Unterschied zwischen dem Weibe und der Jungfrau. Die Unverheiratete ist für die Dinge des Herrn besorgt, auf daß sie heilig #sei, sowohl an Leib als Geist; die Verheiratete aber ist für die Dinge der Welt besorgt, wie sie dem Manne gefallen möge."
 "Dies aber sage ich zu eurem eigenen Nutzen, nicht auf daß ich euch eine Schlingeüberwerfe, sondern zur Wohlanständigkeit und zu ungeteiltem Anhangen an dem Herrn."
 "Wenn aber jemand denkt, er handle ungeziemend mit seiner Jungfrauschaft, wenn erüber die Jahre der Blüte hinausgeht, und es muß also geschehen, so tue er, was er will; er sündigt nicht
 "Wer aber im Herzen feststeht und keine Not, sondern Gewalt hatüber seinen eigenen Willen und dies in seinem Herzen beschlossen hat, seine Jungfrauschaft zu bewahren, der tut wohl."

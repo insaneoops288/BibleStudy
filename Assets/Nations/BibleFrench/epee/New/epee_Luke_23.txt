@@ -5,7 +5,7 @@
 "Mais ils insistaient, en disant
 "Quand Pilate entendit parler de la Galilée, il demanda si cet homme était Galiléen."
 "Et ayant appris qu'il était de la juridiction d'Hérode, il le renvoya à Hérode, qui était aussi à Jérusalem en ces jours-là."
-"Quand Hérode vit Jésus, il en eut une grande joie; car il y avait longtemps qu'il souhaitait de le voir, parce qu'il avait entendu dire beaucoup de choses de lui; et il espérait qu'il lui verrait faire quelque miracle."
+"Quand Hérode vit Jésus, il en eut une grande joie; car il y avait longtemps qu'il souhaitait de le voir, #parce qu'il avait entendu dire beaucoup de choses de lui; et il espérait qu'il lui verrait faire quelque miracle."
 "Il lui fit donc plusieurs questions; mais Jésus ne lui répondit rien."
 "Et les principaux sacrificateurs et les scribes étaient là qui l'accusaient avec véhémence."
 "Mais Hérode, avec les gens de sa garde, le traita avec mépris; et pour se moquer de lui, il le fit vêtir d'un habit éclatant, et le renvoya à Pilate."

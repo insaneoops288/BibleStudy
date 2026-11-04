@@ -10,14 +10,14 @@
 "dhe në atë hardhi kishte tri degë, të cilat sa vunë lastarë, lulëzuan dhe dhanë vile rrushi të pjekur."
 "Tani unë kisha në dorë kupën e Faraonit; mora rrushin, e shtrydha në kupën e Faraonit dhe e vura kupën në dorë të Faraonit""."
 "Jozefi i tha
-"në krye të tri ditëve Faraoni do të të bëjë të ngresh përsëri kokën lart, do të të rivendosë në detyrën tënde dhe ti do t'i japësh në dorë kupën Faraonit, siç bëje më parë, kur ishe kupëmbajtësi i tij."
+"në krye të tri ditëve Faraoni do të të bëjë të ngresh përsëri kokën lart, do të të rivendosë në detyrën #tënde dhe ti do t'i japësh në dorë kupën Faraonit, siç bëje më parë, kur ishe kupëmbajtësi i tij."
 "Por më kujto mua kur të jesh i lumtur; të lutem, trego dashamirësi ndaj meje, duke i folur për mua Faraonit, dhe më nxirr nga kjo shtëpi;"
 "sepse mua më sollën fshehurazi nga vendi i hebrejve, dhe këtu s'kam bërë gjë për t'u futur në këtë burg të nëndheshëm""."
 "kryebukëpjekësi, duke parë se interpretimi ishte i favorshëm, i tha Jozefit
 "dhe në shportën më të lartë kishte çdo lloj gjellësh të pjekura në furrë për Faraonin; dhe zogjtë i hanin nga shporta që kisha mbi krye""."
 "Atëherë Jozefi u përgjegj dhe tha
 "në krye të tri ditëve Faraoni do të të heqë kokën nga shpatullat, do të varë në një pemë, dhe zogjtë do të hanë mishrat e trupit tënd""."
-"Tani ditën e tretë, ditën e përvjetorit të Faraonit, ndodhi që ai shtroi një banket për të gjithë shërbëtorët e tij; dhe bëri që të ngrinin kokën lartë si kryekupëmbajtësi dhe kryebukëpjekësi, në mes të shërbëtorëve të tij."
+"Tani ditën e tretë, ditën e përvjetorit të Faraonit, ndodhi që ai shtroi një banket për të gjithë shërbëtorët e #tij; dhe bëri që të ngrinin kokën lartë si kryekupëmbajtësi dhe kryebukëpjekësi, në mes të shërbëtorëve të tij."
 "Kështu e rivendosi kryekupëmbajtësin në detyrën e tij si kupëmbajtës që t'i jepte kupën në dorë Faraonit,"
 "por bëri që ta varnin kryebukëpjekësin simbas interpretimit që Jozefi u kishte dhënë."
 "Por kryekupëmbajtësi nuk u kujtua për Jozefin, por e harroi."

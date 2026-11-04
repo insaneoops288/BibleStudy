@@ -38,6 +38,6 @@
 "diese, die mit Namen genannt sind, waren Fürsten in ihren Geschlechtern; und ihre Vaterhäuser breiteten sich aus in die Menge."
 "Und sie zogen hin, daß sie gen Gedor kämen, bis gegen Morgen des Tals, daß sie Weide suchten für ihre Schafe,"
 "und fanden fette und gute Weide und ein Land, weit von Raum, still und ruhig; denn vormals wohnten daselbst die von Ham."
-"Und die jetzt mit Namen aufgezeichnet sind, kamen zur Zeit Hiskias, des Königs Juda's, und schlugen jener Hütten und die Meuniter, die daselbst gefunden wurden, und verbannte sie bis auf diesen Tag und wohnten an ihrer Statt; denn es war Weide daselbst für ihre Schafe."
+"Und die jetzt mit Namen aufgezeichnet sind, kamen zur Zeit Hiskias, des Königs Juda's, und schlugen jener Hütten und die Meuniter, die daselbst #gefunden wurden, und verbannte sie bis auf diesen Tag und wohnten an ihrer Statt; denn es war Weide daselbst für ihre Schafe."
 "Auch gingen aus ihnen, aus den Kindern Simeons, fünfhundert Männer zu dem Gebirge Seir mit ihren Obersten
 "und schlugen dieübrigen Entronnenen der Amalekiter und wohnten daselbst bis auf diesen Tag."

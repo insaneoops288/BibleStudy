@@ -1,6 +1,6 @@
 "Daarna het die HERE met Moses gespreek en gesê
 "Spreek met die kinders van Israel en sê vir hulle
-"en julle 'n vuuroffer aan die HERE wil berei, 'n brandoffer of slagoffer,deur 'n besondere gelofte te volbring of as vrywillige offer of by julle feestye,om vir die HERE 'n lieflike geur van beeste of van kleinvee te berei,"
+"en julle 'n vuuroffer aan die HERE wil berei, 'n brandoffer of slagoffer,deur 'n besondere gelofte te volbring of as #vrywillige offer of by julle feestye,om vir die HERE 'n lieflike geur van beeste of van kleinvee te berei,"
 "dan moet die een wat sy offer aan die HERE bring, as spysoffer bring 'n tiende van 'n efa fynmeel, gemeng met 'n kwart-hin olie;"
 "en wyn vir die drankoffer, 'n kwart-hin, moet jy berei by die brandoffer of vir die slagoffer, vir elke lam."
 "Of vir 'n ram moet jy as spysoffer berei twee-tiendes van 'n efa fynmeel, met 'n derde van 'n hin olie gemeng."
@@ -21,8 +21,8 @@
 "Van die eerstelinge van julle growwe meel moet julle 'n offergawe aan die HERE gee in julle geslagte."
 "Verder, as julle jul misgaan en nie al hierdie gebooie doen wat die HERE aan Moses meegedeel het nie,"
 "alles wat die HERE julle deur Moses beveel het van die dag af dat die HERE dit beveel het en verder in julle geslagte,"
-"dan moet die hele vergadering, as dit buiten wete van die vergadering, in swakheid gebeur het, een jong bul berei vir 'n brandoffer as lieflike geur aan die HERE, met die spysoffer en die drankoffer wat volgens voorskrif daarby behoort; en een bokram as sondoffer."
-"En die priester moet versoening doen vir die hele vergadering van die kinders van Israel, en dit sal hulle vergewe word; want 'n swakheid was dit, en húlle het hul offer as vuuroffer aan die HERE en hul sondoffer, weens hulle swakheid, voor die aangesig van die HERE gebring."
+"dan moet die hele vergadering, as dit buiten wete van die vergadering, in swakheid gebeur het, een jong bul berei vir 'n brandoffer #as lieflike geur aan die HERE, met die spysoffer en die drankoffer wat volgens voorskrif daarby behoort; en een bokram as sondoffer."
+"En die priester moet versoening doen vir die hele vergadering van die kinders van Israel, en dit sal hulle vergewe word; want 'n swakheid was #dit, en húlle het hul offer as vuuroffer aan die HERE en hul sondoffer, weens hulle swakheid, voor die aangesig van die HERE gebring."
 "Dit sal dan die hele vergadering van die kinders van Israel vergewe word, ook die vreemdeling wat onder hulle vertoef; want dit het die hele volk deur swakheid oorgekom."
 "En as 'n enkele siel in swakheid sondig, moet dié 'n jaaroud bokooi as sondoffer bring."
 "En die priester moet versoening doen vir die siel wat hom misgaan het, weens sy sonde in swakheid voor die aangesig van die HERE begaan, om vir hom versoening te doen; en dit sal hom vergewe word."

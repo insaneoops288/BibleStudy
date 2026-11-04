@@ -13,9 +13,9 @@
 "On ne mettra pas la main sur lui, mais on le lapidera, ou on le percera de flèches
 "Moïse descendit de la montagne vers le peuple; il sanctifia le peuple, et ils lavèrent leurs vêtements."
 "Et il dit au peuple
-"Le troisième jour au matin, il y eut des tonnerres, des éclairs, et une épaisse nuée sur la montagne; le son de la trompette retentit fortement; et tout le peuple qui était dans le camp fut saisi d'épouvante."
+"Le troisième jour au matin, il y eut des tonnerres, des éclairs, et une épaisse nuée sur la montagne; le #son de la trompette retentit fortement; et tout le peuple qui était dans le camp fut saisi d'épouvante."
 "Moïse fit sortir le peuple du camp, à la rencontre de Dieu; et ils se placèrent au bas de la montagne."
-"La montagne de Sinaï était toute en fumée, parce que l'Eternel y était descendu au milieu du feu; cette fumée s'élevait comme la fumée d'une fournaise, et toute la montagne tremblait avec violence."
+"La montagne de Sinaï était toute en fumée, parce que l'Eternel y était descendu au milieu du #feu; cette fumée s'élevait comme la fumée d'une fournaise, et toute la montagne tremblait avec violence."
 "Le son de la trompette retentissait de plus en plus fortement. Moïse parlait, et Dieu lui répondait à haute voix."
 "Ainsi l'Eternel descendit sur la montagne de Sinaï, sur le sommet de la montagne; l'Eternel appela Moïse sur le sommet de la montagne. Et Moïse monta."
 "L'Eternel dit à Moïse

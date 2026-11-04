@@ -36,5 +36,5 @@
 "Y ofreceréis en holocausto, en ofrenda encendida de olor grato a Jehová, un novillo, un carnero, siete corderos de un año sin defecto;"
 "Sus presentes y sus libaciones con el novillo, con el carnero, y con los corderos, según el número de ellos, conforme a la ley;"
 "Y un macho cabrío por expiación
-"Estas cosas ofreceréis a Jehová en vuestras solemnidades, además de vuestros votos, y de vuestras ofrendas libres, para vuestros holocaustos, y para vuestros presentes, y para vuestras libaciones y para vuestras ofrendas de paz."
+"Estas cosas ofreceréis a Jehová en vuestras solemnidades, además de vuestros votos, y de vuestras ofrendas libres, para #vuestros holocaustos, y para vuestros presentes, y para vuestras libaciones y para vuestras ofrendas de paz."
 "Y Moisés dijo a los hijos de Israel, conforme a todo lo que Jehová le había mandado."

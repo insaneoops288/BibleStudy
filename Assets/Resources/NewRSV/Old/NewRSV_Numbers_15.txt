@@ -1,6 +1,6 @@
 The LORD spoke to Moses, saying,
 Speak to the Israelites and say to them, When you come into the land you are to inhabit, which I am giving you,
-and you make an offering by fire to the LORD from the herd or from the flock,,whether a burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or at your appointed festivals,,to make a pleasing odor for the LORD,
+and you make an offering by fire to the LORD from the herd or from the flock,,whether a burnt offering or a sacrifice, #to fulfill a vow or as a freewill offering or at your appointed festivals,,to make a pleasing odor for the LORD,
 then whoever presents such an offering to the LORD shall present also a grain offering, one-tenth of an ephah of choice flour, mixed with one-fourth of a hin of oil.
 Moreover, you shall offer one-fourth of a hin of wine as a drink offering with the burnt offering or the sacrifice, for each lamb.
 For a ram, you shall offer a grain offering, two-tenths of an ephah of choice flour mixed with one-third of a hin of oil;
@@ -21,8 +21,8 @@ From your first batch of dough you shall present a loaf as a donation; you shall
 Throughout your generations you shall give to the LORD a donation from the first of your batch of dough.
 But if you unintentionally fail to observe all these commandments that the LORD has spoken to Moses,,
 everything that the LORD has commanded you by Moses, from the day the LORD gave commandment and thereafter, throughout your generations,,
-then if it was done unintentionally without the knowledge of the congregation, the whole congregation shall offer one young bull for a burnt offering, a pleasing odor to the LORD, together with its grain offering and its drink offering, according to the ordinance, and one male goat for a sin offering.
-The priest shall make atonement for all the congregation of the Israelites, and they shall be forgiven; it was unintentional, and they have brought their offering, an offering by fire to the LORD, and their sin offering before the LORD, for their error.
+then if it was done unintentionally without the knowledge of the congregation, the whole congregation shall offer one young bull for a burnt offering, a pleasing #odor to the LORD, together with its grain offering and its drink offering, according to the ordinance, and one male goat for a sin offering.
+The priest shall make atonement for all the congregation of the Israelites, and they shall be forgiven; it was unintentional, and they #have brought their offering, an offering by fire to the LORD, and their sin offering before the LORD, for their error.
 All the congregation of the Israelites shall be forgiven, as well as the aliens residing among them, because the whole people was involved in the error.
 An individual who sins unintentionally shall present a female goat a year old for a sin offering.
 And the priest shall make atonement before the LORD for the one who commits an error, when it is unintentional, to make atonement for the person, who then shall be forgiven.

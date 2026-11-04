@@ -11,10 +11,10 @@
 "et enseigner aux enfants d'Israël toutes les lois que l'Eternel leur a données par Moïse."
 "Moïse dit à Aaron, à Eléazar et à Ithamar, les deux fils qui restaient à Aaron
 "Vous le mangerez dans un lieu saint; c'est ton droit et le droit de tes fils sur les offrandes consumées par le feu devant l'Eternel; car c'est là ce qui m'a été ordonné."
-"Vous mangerez aussi dans un lieu pur, toi, tes fils et tes filles avec toi, la poitrine qu'on a agitée de côté et d'autre et l'épaule qui a été présentée par élévation; car elles vous sont données, comme ton droit et le droit de tes fils, dans les sacrifices d'actions de grâces des enfants d'Israël."
+"Vous mangerez aussi dans un lieu pur, toi, tes fils et tes filles avec toi, la poitrine qu'on a agitée de côté et d'autre et l'épaule qui a #été présentée par élévation; car elles vous sont données, comme ton droit et le droit de tes fils, dans les sacrifices d'actions de grâces des enfants d'Israël."
 "Ils apporteront, avec les graisses destinées à être consumées par le feu, l'épaule que l'on présente par élévation et la poitrine que l'on agite de côté et d'autre devant l'Eternel
 "Moïse chercha le bouc expiatoire; et voici, il avait été brûlé. Alors il s'irrita contre Eléazar et Ithamar, les fils qui restaient à Aaron, et il dit
-"Pourquoi n'avez-vous pas mangé la victime expiatoire dans le lieu saint? C'est une chose très sainte; et l'Eternel vous l'a donnée, afin que vous portiez l'iniquité de l'assemblée, afin que vous fassiez pour elle l'expiation devant l'Eternel."
+"Pourquoi n'avez-vous pas mangé la victime expiatoire dans le lieu saint? C'est une chose très sainte; et l'Eternel vous #l'a donnée, afin que vous portiez l'iniquité de l'assemblée, afin que vous fassiez pour elle l'expiation devant l'Eternel."
 "Voici, le sang de la victime n'a point été porté dans l'intérieur du sanctuaire; vous deviez la manger dans le sanctuaire, comme cela m'avait été ordonné."
 "Aaron dit à Moïse
 "Moïse entendit et approuva ces paroles."

@@ -15,11 +15,11 @@
 "pour Nephthali
 "Tels sont ceux qui furent convoqués à l'assemblée, princes des tribus de leurs pères, chefs des milliers d'Israël."
 "Moïse et Aaron prirent ces hommes, qui avaient été désignés par leurs noms,"
-"et ils convoquèrent toute l'assemblée, le premier jour du second mois. On les enregistra selon leurs familles, selon les maisons de leurs pères, en comptant par tête les noms depuis l'âge de vingt ans et au-dessus."
+"et ils convoquèrent toute l'assemblée, le premier jour du second mois. On les enregistra selon leurs familles, selon les #maisons de leurs pères, en comptant par tête les noms depuis l'âge de vingt ans et au-dessus."
 "Moïse en fit le dénombrement dans le désert de Sinaï, comme l'Eternel le lui avait ordonné."
-"On enregistra les fils de Ruben, premier-né d'Israël, selon leurs familles, selon les maisons de leurs pères, en comptant par tête les noms de tous les mâles, depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
+"On enregistra les fils de Ruben, premier-né d'Israël, selon leurs familles, selon les maisons de leurs pères, en comptant par tête les #noms de tous les mâles, depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
 "les hommes de la tribu de Ruben dont on fit le dénombrement furent quarante-six mille cinq cents."
-"On enregistra les fils de Siméon, selon leurs familles, selon les maisons de leurs pères; on en fit le dénombrement, en comptant par tête les noms de tous les mâles depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
+"On enregistra les fils de Siméon, selon leurs familles, selon les maisons de leurs pères; on en fit le dénombrement, en comptant par #tête les noms de tous les mâles depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
 "les hommes de la tribu de Siméon dont on fit le dénombrement furent cinquante-neuf mille trois cents."
 "On enregistra les fils de Gad, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
 "les hommes de la tribu de Gad dont on fit le dénombrement furent quarante-cinq mille six cent cinquante."
@@ -29,7 +29,7 @@
 "les hommes de la tribu d'Issacar dont on fit le dénombrement furent cinquante-quatre mille quatre cents."
 "On enregistra les fils de Zabulon, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
 "les hommes de la tribu de Zabulon dont on fit le dénombrement furent cinquante-sept mille quatre cents."
-"On enregistra, d'entre les fils de Joseph, les fils d'Ephraïm, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
+"On enregistra, d'entre les fils de Joseph, les fils d'Ephraïm, selon leurs familles, selon les maisons de leurs pères, en #comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
 "les hommes de la tribu d'Ephraïm dont on fit le dénombrement furent quarante mille cinq cents."
 "On enregistra les fils de Manassé, selon leurs familles, selon les maisons de leurs pères, en comptant les noms depuis l'âge de vingt ans et au-dessus, tous ceux en état de porter les armes
 "les hommes de la tribu de Manassé dont on fit le dénombrement furent trente-deux mille deux cents."
@@ -47,7 +47,7 @@
 "Les Lévites, selon la tribu de leurs pères, ne firent point partie de ce dénombrement."
 "L'Eternel parla à Moïse, et dit
 "Tu ne feras point le dénombrement de la tribu de Lévi, et tu n'en compteras point les têtes au milieu des enfants d'Israël."
-"Remets aux soins des Lévites le tabernacle du témoignage, tous ses ustensiles et tout ce qui lui appartient. Ils porteront le tabernacle et tous ses ustensiles, ils en feront le service, et ils camperont autour du tabernacle."
+"Remets aux soins des Lévites le tabernacle du témoignage, tous ses ustensiles et tout ce qui lui appartient. Ils #porteront le tabernacle et tous ses ustensiles, ils en feront le service, et ils camperont autour du tabernacle."
 "Quand le tabernacle partira, les Lévites le démonteront; quand le tabernacle campera, les Lévites le dresseront; et l'étranger qui en approchera sera puni de mort."
 "Les enfants d'Israël camperont chacun dans son camp, chacun près de sa bannière, selon leurs divisions."
 "Mais les Lévites camperont autour du tabernacle du témoignage, afin que ma colère n'éclate point sur l'assemblée des enfants d'Israël; et les Lévites auront la garde du tabernacle du témoignage."

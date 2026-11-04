@@ -11,7 +11,7 @@
 "A ti hónapjaitok kezdetén is áldozzatok az Úrnak egészen égõáldozatul két fiatal tulkot, egy kost, és hét egyesztendõs, ép bárányt."
 "És egy-egy tulok mellé olajjal elegyített három tized efa lánglisztet ételáldozatul, egy-egy kos mellé pedig olajjal elegyített két tized efa lánglisztet ételáldozatul."
 "És egy-egy bárány mellé egy-egy tized efa lisztlángot olajjal elegyítve ételáldozatul; égõáldozat ez, kedves illatú tûzáldozat ez az Úrnak."
-"Az azokhoz való italáldozat pedig legyen fél hin bor egy tulok mellé, egy harmad hin egy kos mellé, és egy negyed hin egy bárány mellé. Ez a hónapos egészen égõáldozat [minden] hónap [kezdetén], az esztendõnek hónapjai szerint."
+"Az azokhoz való italáldozat pedig legyen fél hin bor egy tulok mellé, egy harmad hin egy kos mellé, és #egy negyed hin egy bárány mellé. Ez a hónapos egészen égõáldozat [minden] hónap [kezdetén], az esztendõnek hónapjai szerint."
 "És egy kecskebakot is készítsetek el bûnért való áldozatul az Úrnak, a szüntelen való egészen égõáldozaton kívül, annak italáldozatával egyben."
 "Az elsõ hónapban pedig, a hónapnak tizennegyedik napján az Úrnak páskhája van."
 "És e hónapnak tizenötödik napján is ünnep van; hét napon át kovásztalan kenyeret egyetek."

@@ -16,5 +16,5 @@
 "Ale z miast tych narodów, które PAN, twój Bóg, daje ci w dziedzictwo, żadnej duszy nie zostawisz przy życiu."
 "Lecz doszczętnie je wytępisz
 "Aby nie uczyli was czynić według wszystkich swoich obrzydliwości, jakie czynili swym bogom, i abyście nie zgrzeszyli przeciw PANU, swojemu Bogu."
-"Gdy przez wiele dni będziesz oblegał jakieś miasto, walcząc przeciwko niemu, aby je zdobyć, nie niszcz jego drzew, wycinając je siekierą. Będziesz bowiem z nich jeść, więc nie wycinaj ich (bo drzewa polne są dla życia człowieka), aby ich użyć do oblężenia."
+"Gdy przez wiele dni będziesz oblegał jakieś miasto, walcząc przeciwko niemu, aby je zdobyć, nie niszcz jego drzew, wycinając je siekierą. Będziesz #bowiem z nich jeść, więc nie wycinaj ich (bo drzewa polne są dla życia człowieka), aby ich użyć do oblężenia."
 "Tylko te drzewa, o których wiesz, że nie rodzą owoców, zniszczysz i wytniesz; i zbudujesz narzędzia przeciwko temu miastu, które z tobą walczy, aż je opanujesz."

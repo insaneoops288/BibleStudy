@@ -18,6 +18,6 @@
 "Et ils ont dit
 "Ecoute-moi, Eternel! Et entends la voix de mes adversaires!"
 "Le mal sera-t-il rendu pour le bien? Car ils ont creusé une fosse pour m'ôter la vie. Souviens-t'en, je me suis tenu devant toi, Afin de parler en leur faveur, Et de détourner d'eux ta colère."
-"C'est pourquoi livre leurs enfants à la famine, Précipite-les par le glaive; Que leurs femmes soient privées d'enfants et deviennent veuves, Et que leurs maris soient enlevés par la peste; Que leurs jeunes gens soient frappés par l'épée dans le combat!"
+"C'est pourquoi livre leurs enfants à la famine, Précipite-les par le glaive; Que leurs femmes soient privées d'enfants et deviennent veuves, #Et que leurs maris soient enlevés par la peste; Que leurs jeunes gens soient frappés par l'épée dans le combat!"
 "Qu'on entende des cris sortir de leurs maisons, Quand soudain tu feras fondre sur eux des bandes armées! Car ils ont creusé une fosse pour me prendre, Ils ont tendu des filets sous mes pieds."
-"Et toi, Eternel, tu connais tous leurs complots pour me faire mourir; Ne pardonne pas leur iniquité, N'efface pas leur péché de devant toi! Qu'ils soient renversés en ta présence! Agis contre eux au temps de ta colère!"
+"Et toi, Eternel, tu connais tous leurs complots pour me faire mourir; Ne pardonne pas leur iniquité, N'efface pas leur #péché de devant toi! Qu'ils soient renversés en ta présence! Agis contre eux au temps de ta colère!"

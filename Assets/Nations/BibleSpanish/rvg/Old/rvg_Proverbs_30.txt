@@ -1,7 +1,7 @@
 "Palabras de Agur, hijo de Jaqué
 "Ciertamente más rudo soy yo que ninguno, y no tengo entendimiento de hombre."
 "Yo ni aprendí sabiduría, ni tengo el conocimiento del Santo."
-"¿Quién subió al cielo, y descendió? ¿Quién encerró los vientos en sus puños? ¿Quién ató las aguas en un paño? ¿Quién afirmó todos los términos de la tierra? ¿Cuál [es] su nombre, y el nombre de su Hijo, si lo sabes?"
+"¿Quién subió al cielo, y descendió? ¿Quién encerró los vientos en sus puños? ¿Quién ató las aguas en un paño? ¿Quién #afirmó todos los términos de la tierra? ¿Cuál [es] su nombre, y el nombre de su Hijo, si lo sabes?"
 "Toda palabra de Dios [es] pura; es escudo a los que en Él esperan."
 "No añadas a sus palabras, no sea que Él te reprenda, y seas hallado mentiroso."
 "Dos [cosas] te he pedido, no me las niegues antes que muera."

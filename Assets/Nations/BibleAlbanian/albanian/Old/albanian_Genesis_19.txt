@@ -13,7 +13,7 @@
 "sepse ne po bëhemi gati ta shkatërrojmë këtë vend, sepse britma e banorëve të tij është e madhe përpara Zotit dhe Zoti na dërgoi për ta shkatërruar""."
 "Atëherë Loti doli e u foli dhëndurëve të tij që ishin martuar me bijat e tij, dhe tha
 "Sa doli agimi, engjëjt e nxitën Lotin duke thënë
-"Duke qenë se ai po ngurronte, ata njerëz e morën për dore atë, të shoqen dhe dy bijat e tij, sepse Zotit i kishte ardhur mëshirë për të, e nxorrën jashtë dhe i shpëtuan jetën duke e çuar jashtë qytetit."
+"Duke qenë se ai po ngurronte, ata njerëz e morën për dore atë, të shoqen dhe dy bijat e tij, sepse #Zotit i kishte ardhur mëshirë për të, e nxorrën jashtë dhe i shpëtuan jetën duke e çuar jashtë qytetit."
 "Ndërsa po i çonin jashtë, njëri prej tyre tha
 "Por Loti iu përgjegj atyre
 "Ja, shërbëtori yt gjeti hir para syve të tu dhe ti u tregove shpirtmadh ndaj meje, duke më shpëtuar jetën, por unë nuk do të mund të arrij malin para se të më zërë fatkeqësia dhe unë të vdes."

@@ -1,5 +1,5 @@
 "Ja Samuel sanoi kaikelle Israelille
-"Ja katso, nyt kuningas käy teidän edellänne, ja minä olen vanhaksi ja harmaaksi tullut, ja minun poikani ovat teidän tykönänne; ja minä olen käynyt teidän edellänne minun nuoruudestani tähän päivään asti."
+"Ja katso, nyt kuningas käy teidän edellänne, ja minä olen vanhaksi ja harmaaksi tullut, ja minun #poikani ovat teidän tykönänne; ja minä olen käynyt teidän edellänne minun nuoruudestani tähän päivään asti."
 "Katso, tässä minä olen; vastatkaat minua Herran ja hänen voideltunsa edessä
 "He vastasivat
 "Hän sanoi heille
@@ -11,10 +11,10 @@
 "Ja Herra lähetti Jerubbaalin, Bedanin, Jephtan ja Samuelin, ja pelasti teitä teidän vihamiestenne käsistä ympäriltänne, ja antoi teidän asua rauhallisesti."
 "Kuin te näitte Nahaksen Ammonin lasten kuninkaan tulevan teitä vastaan, sanoitte te minulle
 "Ja nyt katso, siinä on kuningas, jonka te olette valinneet ja anoneet; sillä katso, Herra on asettanut teille kuninkaan."
-"Jos te pelkäätte Herraa ja palvelette häntä, kuulette hänen äänensä ja ette ole Herran suulle tottelemattomat, niin sekä te että teidän kuninkaanne, joka teitä hallitsee, seuraa Herraa teidän Jumalaanne."
+"Jos te pelkäätte Herraa ja palvelette häntä, kuulette hänen äänensä ja ette ole Herran suulle #tottelemattomat, niin sekä te että teidän kuninkaanne, joka teitä hallitsee, seuraa Herraa teidän Jumalaanne."
 "Mutta jollette Herran ääntä kuule, vaan olette hänen suullensa tottelemattomat, niin Herran käsi on sekä teitä että teidän isiänne vastaan."
 "Niin käykäät siis tästä edes ja katsokaat tätä suurta asiaa, jota Herra on tekevä teidän silmäinne edessä."
-"Eikö nyt ole nisun elonaika? Vaan minä huudan Herran tykö, että hän antaisi jylistä ja sataa, ymmärtääksenne ja nähdäksenne sen suuren pahuuden, jonka te olette tehneet Herran edessä, anoissanne teillenne kuningasta."
+"Eikö nyt ole nisun elonaika? Vaan minä huudan Herran tykö, että hän antaisi jylistä ja sataa, #ymmärtääksenne ja nähdäksenne sen suuren pahuuden, jonka te olette tehneet Herran edessä, anoissanne teillenne kuningasta."
 "Ja kuin Samuel huusi Herran tykö, antoi Herra sinä päivänä jylistä ja sataa. Niin kaikki kansa suuresti pelkäsi Herraa ja Samuelia."
 "Ja sanoivat kaikki Samuelille
 "Ja Samuel sanoi kansalle

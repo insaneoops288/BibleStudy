@@ -7,7 +7,7 @@
 "Y el sacerdote hará expiación por él delante de Jehová, y obtendrá perdón de cualquiera de todas las cosas en que suele ofender."
 "Habló aún Jehová á Moisés, diciendo
 "Manda á Aarón y á sus hijos diciendo
-"El sacerdote se pondrá su vestimenta de lino, y se vestirá pañetes de lino sobre su carne; y cuando el fuego hubiere consumido el holocausto, apartará él las cenizas de sobre el altar, y pondrálas junto al altar."
+"El sacerdote se pondrá su vestimenta de lino, y se vestirá pañetes de lino sobre su carne; y cuando el #fuego hubiere consumido el holocausto, apartará él las cenizas de sobre el altar, y pondrálas junto al altar."
 "Después se desnudará de sus vestimentas, y se pondrá otras vestiduras, y sacará las cenizas fuera del real al lugar limpio."
 "Y el fuego encendido sobre el altar no ha de apagarse, sino que el sacerdote pondrá en él leña cada mañana, y acomodará sobre él el holocausto, y quemará sobre él los sebos de las paces."
 "El fuego ha de arder continuamente en el altar; no se apagará."

@@ -11,7 +11,7 @@
 "Ha valami módon eljuthatnék a halottak feltámadására."
 "Nem [mondom], hogy már elértem, vagy [hogy] már tökéletes volnék; hanem igyekezem, hogy el is érjem, a miért meg is ragadott engem a Krisztus Jézus."
 "Atyámfiai, én enmagamról nem gondolom, hogy már elértem volna
-"De egyet [cselekszem,] azokat, a melyek hátam megett vannak, elfelejtvén, azoknak pedig, a melyek elõttem vannak, nékik dõlvén, czélegyenest igyekszem az Istennek a Krisztus Jézusban onnét felülrõl való elhívása jutalmára."
+"De egyet [cselekszem,] azokat, a melyek hátam megett vannak, elfelejtvén, azoknak pedig, a melyek elõttem vannak, #nékik dõlvén, czélegyenest igyekszem az Istennek a Krisztus Jézusban onnét felülrõl való elhívása jutalmára."
 "Valakik annakokáért tökéletesek [vagyunk,] ilyen értelemben legyünk
 "Csakhogy a mire eljutottunk, ugyanabban egy szabály szerint járjunk, ugyanazon értelemben legyünk."
 "Legyetek én követõim, atyámfiai, és figyeljetek azokra, a kik úgy járnak, a miképen mi néktek példátok vagyunk."

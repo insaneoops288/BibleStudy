@@ -6,7 +6,7 @@
 "Ovce hynoucí jsou lid můj, pastýři jejich působí to, aby bloudily, a po horách se toulaly, s hůry na pahrbek chodily, zapomenuvše na příbytky své."
 "Všickni, kteříž je nalézají, zžírají je, a nepřátelé jejich říkají
 "Vystěhujte se z prostředku Babylona, a z země Kaldejské vyjděte, a buďte jako kozlové před stádem."
-"Nebo aj, já vzbudím a přivedu na Babylon shromáždění národů velikých z země půlnoční, kteřížto sšikují se proti němu, i bude dobyt odtud. Kterýchžto střely jsou jako silného, jenž sirobu uvodí; žádnáť se nenavrátí na prázdno."
+"Nebo aj, já vzbudím a přivedu na Babylon shromáždění národů velikých z země půlnoční, kteřížto sšikují se proti němu, #i bude dobyt odtud. Kterýchžto střely jsou jako silného, jenž sirobu uvodí; žádnáť se nenavrátí na prázdno."
 "I bude země Kaldejských v loupež; všickni, kteříž ji loupiti budou, nasytí se, dí Hospodin."
 "Proto že se veselíte, proto že pléšete, ó dráči dědictví mého, proto že jste zbujněli jako jalovice vytylá, a provyskujete jako rekové,"
 "Zahanbena bude matka vaše velice, a zapýří se rodička vaše
@@ -26,7 +26,7 @@
 "Přitáhněte na ni od konce země, zotvírejte obilnice její, šlapejte po ní jako po stozích, a zahlaďte ji jako proklatou, tak aby z ní ničeho nepozůstalo."
 "Zbíte mečem všecky volky její, nechť sstoupí k zabití; běda jim, když přijde den jejich, čas navštívení jejich."
 "Hlas utíkajících a ucházejících z země Babylonské, aby oznámili na Sionu pomstu Hospodina Boha našeho, pomštění chrámu jeho."
-"Shromažďte proti Babylonu nejudatnější, všickni natahující lučiště, položte se proti němu vůkol, ať nelze jemu ujíti. Odplaťte jemu podlé skutků jeho, všecko, jakž dělával, učiňte jemu; nebo proti Hospodinu pýchal, proti Svatému Izraelskému."
+"Shromažďte proti Babylonu nejudatnější, všickni natahující lučiště, položte se proti němu vůkol, ať nelze jemu ujíti. Odplaťte #jemu podlé skutků jeho, všecko, jakž dělával, učiňte jemu; nebo proti Hospodinu pýchal, proti Svatému Izraelskému."
 "Protož padnou mládenci jeho na ulicích jeho, a všickni muži bojovní jeho vypléněni budou v ten den, dí Hospodin."
 "Aj, já jsem proti tobě, ó pýcho, praví Panovník Hospodin zástupů; neboť přišel den tvůj, čas, abych tě navštívil."
 "Poklesne se zajisté ten pyšný a padne, a nebude žádného, kdo by jej zdvihl; a zanítím oheň v městech jeho, kterýžto zžíře všecka vůkolí jeho."
@@ -41,6 +41,6 @@
 "Aj, lid přitáhne od půlnoci, a národ veliký, i králové znamenití, vzbuzeni jsouce od stran země."
 "Lučiště a kopí pochytí, ukrutní budou, a neslitují se; hlas jejich jako moře zvučeti bude, a na koních pojedou, sšikovaní jako muž udatný k boji proti tobě, ó dcero Babylonská."
 "Král Babylonský jakž uslyší pověst o nich, opadnou ruce jeho, úzkost zachvátí jej, bolest jako rodičku."
-"Aj, jako lev vystupuje, více než zdutí Jordána proti příbytku Nejsilnějšího, a však v okamžení zaženu jej z této země, a toho, kterýž jest vyvolený, ustanovím nad ní. Nebo kdo jest mně rovný? A kdo mi složí rok? A kdo jest ten pastýř, kterýž by se postavil proti mně?"
+"Aj, jako lev vystupuje, více než zdutí Jordána proti příbytku Nejsilnějšího, a však v okamžení zaženu jej z této země, a toho, kterýž jest vyvolený, #ustanovím nad ní. Nebo kdo jest mně rovný? A kdo mi složí rok? A kdo jest ten pastýř, kterýž by se postavil proti mně?"
 "Protož slyšte radu Hospodinovu, kterouž zavřel o Babylonu, a to, což myslil proti zemi Kaldejské
 "Od zvuku při dobývání Babylona třásti se bude ta země, a křik mezi národy slyšán bude."

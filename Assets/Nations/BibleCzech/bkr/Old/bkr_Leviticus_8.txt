@@ -27,7 +27,7 @@
 "A dal to všecko v ruce Aronovy a v ruce synů jeho, rozkázav obraceti sem i tam v obět obracení před Hospodinem."
 "Potom vzav z rukou jejich, pálil to na oltáři v zápal. Posvěcení toto jest u vůni rozkošnou, obět ohnivá Hospodinu."
 "Vzal také Mojžíš hrudí a obracel je sem i tam v obět obracení před Hospodinem;a z skopce posvěcení dostal se Mojžíšovi díl, jakož mu byl přikázal Hospodin."
-"Vzal také Mojžíš oleje pomazání a krve, kteráž byla na oltáři, a pokropil Arona i roucha jeho, též synů Aronových a roucha jejich s ním. A tak posvětil Arona i roucha jeho, též synů jeho i roucha jejich s ním."
+"Vzal také Mojžíš oleje pomazání a krve, kteráž byla na oltáři, a pokropil Arona i roucha jeho, též synů Aronových a #roucha jejich s ním. A tak posvětil Arona i roucha jeho, též synů jeho i roucha jejich s ním."
 "I řekl Mojžíš Aronovi a synům jeho
 "Což by pak zůstalo masa i chleba toho, ohněm to spálíte."
 "A ze dveří stánku úmluvy za sedm dní nevycházejte až do dne, v kterémž by se vyplnili dnové svěcení vašeho; nebo za sedm dní posvěcovány budou ruce vaše."

@@ -7,7 +7,7 @@
 "Et Josaphat dit
 "Et le roi d'Israël dit à Josaphat
 "Alors le roi d'Israël appela un officier auquel il dit
-"Or, le roi d'Israël et Josaphat, roi de Juda, étaient assis, chacun sur son trône, revêtus de leurs habits, dans la place, vers l'entrée de la porte de Samarie; et tous les prophètes prophétisaient en leur présence."
+"Or, le roi d'Israël et Josaphat, roi de Juda, étaient assis, chacun sur son trône, revêtus de leurs habits, #dans la place, vers l'entrée de la porte de Samarie; et tous les prophètes prophétisaient en leur présence."
 "Alors Tsidkija, fils de Kénaana, s'étant fait des cornes de fer, dit
 "Et tous les prophètes prophétisaient de même, disant
 "Or le messager qui était allé appeler Michée, lui parla et lui dit
@@ -40,7 +40,7 @@
 "Et Achab s'endormit avec ses pères; et Achazia, son fils, régna à sa place."
 "Josaphat, fils d'Asa, avait commencé à régner sur Juda la quatrième année d'Achab, roi d'Israël."
 "Josaphat était âgé de trente-cinq ans quand il commença à régner, et il régna vingt-cinq ans à Jérusalem. Le nom de sa mère était Asuba, et elle était fille de Shilchi."
-"Il suivit entièrement la voie d'Asa, son père, et il ne s'en détourna point, faisant ce qui est droit aux yeux de l'Éternel.  Seulement, les hauts lieux ne furent point détruits; le peuple y sacrifiait encore, et y offrait de l'encens."
+"Il suivit entièrement la voie d'Asa, son père, et il ne s'en détourna point, faisant ce qui est droit aux yeux de #l'Éternel.  Seulement, les hauts lieux ne furent point détruits; le peuple y sacrifiait encore, et y offrait de l'encens."
 "Josaphat fut en paix avec le roi d'Israël."
 "Le reste des actions de Josaphat, les exploits qu'il fit et les guerres qu'il soutint, cela n'est-il pas écrit au livre des Chroniques des rois de Juda?"
 "Quant au reste de ceux qui se prostituaient, qui étaient demeurés depuis le temps d'Asa, son père, il les fit disparaître du pays."

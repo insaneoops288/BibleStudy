@@ -2,9 +2,9 @@
 "Höret, ihr Berge, den Rechtsstreit Jehovas, und ihr Unwandelbaren, ihr Grundfesten der Erde! Denn Jehova hat einen Rechtsstreit mit seinem Volke, und mit Israel wird er rechten."
 """Mein Volk, was habe ich dir getan, und womit habe ich dich ermüdet? Lege Zeugnis gegen mich ab!"
 "Denn ich habe dich aus dem LandeÄgypten heraufgeführt und aus dem Diensthause dich erlöst; und ich habe Mose, Aaron und Mirjam vor dir hergesandt."
-"Mein Volk, gedenke doch, was Balak, der König von Moab, beratschlagt, und was Bileam, der Sohn Beors, ihm geantwortet hat, dessen, was von Sittim bis Gilgal geschehen ist; auf daß du die gerechten Taten Jehovas erkennest."""
+"Mein Volk, gedenke doch, was Balak, der König von Moab, beratschlagt, und was Bileam, der Sohn Beors, ihm geantwortet #hat, dessen, was von Sittim bis Gilgal geschehen ist; auf daß du die gerechten Taten Jehovas erkennest."""
 """Womit soll ich vor Jehova treten, mich beugen vor dem Gott der Höhe? Soll ich vor ihn treten mit Brandopfern, mit einjährigen Kälbern?"
-"Wird Jehova Wohlgefallen haben an Tausenden von Widdern, an Zehntausenden von StrömenÖls? Soll ich meinen Erstgeborenen geben für meineÜbertretung, die Frucht meines Leibes für die Sünde meiner Seele?"""
+"Wird Jehova Wohlgefallen haben an Tausenden von Widdern, an Zehntausenden von StrömenÖls? Soll ich meinen #Erstgeborenen geben für meineÜbertretung, die Frucht meines Leibes für die Sünde meiner Seele?"""
 "Er hat dir kundgetan, o Mensch, was gut ist; und was fordert Jehova von dir, als Recht zuüben und Güte zu lieben, und demütig zu wandeln mit deinem Gott?"
 "Die Stimme Jehovas ruft der Stadt, und dein Name hat Weisheit im Auge
 "Sind noch im Hause des Gesetzlosen Schätze der Gesetzlosigkeit und das knappe, verfluchte Epha?"

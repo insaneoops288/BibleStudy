@@ -26,4 +26,4 @@
 "We dwudziestu i dwóch latach był Ochozyjasz, gdy królować począł, a rok jeden królował w Jeruzalemie; a imię matki jego było Atalija, córka Amrego, króla Izraelskiego."
 "Ten chodził drogą domu Achabowego, i czynił złe przed oczyma Pańskiemi, jako i dom Achabowy; bo był zięciem domu Achabowego."
 "Przetoż wychadzał z Joramem, synem Achabowym, na wojnę przeciw Hazaelowi, królowi Syryjskiemu, do Ramot Galaadskiego; ale porazili Syryjczycy Jorama."
-"A tak wrócił się król Joram, aby się leczył w Jezreelu na rany, które mu byli zadali Syryjczycy w Ramacie, gdy walczył z Hazaelem, królem Syryjskim. A Ochozyjasz, syn Jorama, króla Judzkiego, przyjechał nawiedzać Jorama, syna Achabowego, do Jezreela; bo tam chorował."
+"A tak wrócił się król Joram, aby się leczył w Jezreelu na rany, które mu byli zadali Syryjczycy w Ramacie, gdy walczył #z Hazaelem, królem Syryjskim. A Ochozyjasz, syn Jorama, króla Judzkiego, przyjechał nawiedzać Jorama, syna Achabowego, do Jezreela; bo tam chorował."

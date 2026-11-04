@@ -9,7 +9,7 @@
 "At pagka kayo'y nangakarinig ng mga digmaan at mga kaguluhan, ay huwag kayong mangasindak
 "Nang magkagayo'y sinabi niya sa kanila, Magtitindig ang isang bansa laban sa bansa, at ang isang kaharian laban sa kaharian;"
 "At magkakaroon ng malalakas na lindol, at sa iba't ibang dako ay magkakagutom at magkakasalot; at magkakaroon ng mga bagay na kakilakilabot, at ng mga dakilang tanda mula sa langit."
-"Datapuwa't bago mangyari ang lahat ng mga bagay na ito, ay huhulihin kayo, at paguusigin kayo, na kayo'y ibibigay sa mga sinagoga at sa mga bilangguan, na kayo'y dadalhin sa harapan ng mga hari at mga gobernador dahil sa aking pangalan."
+"Datapuwa't bago mangyari ang lahat ng mga bagay na ito, ay huhulihin kayo, at paguusigin kayo, na kayo'y ibibigay sa mga #sinagoga at sa mga bilangguan, na kayo'y dadalhin sa harapan ng mga hari at mga gobernador dahil sa aking pangalan."
 "Ito'y magiging patotoo sa inyo."
 "Pagtibayin nga ninyo ang inyong mga puso, na huwag munang isipin kung paano ang inyong isasagot
 "Sapagka't bibigyan ko kayo ng isang bibig at karunungan, na hindi mangyayaring masalangsang o matutulan man ng lahat ninyong mga kaalit."
@@ -31,7 +31,7 @@
 "Gayon din naman kayo, pagka nangakita ninyong nangyari ang mga bagay na ito, talastasin ninyo na malapit na ang kaharian ng Dios."
 "Katotohanang sinasabi ko sa inyo, Hindi lilipas ang lahing ito, hanggang sa maganap ang lahat ng mga bagay."
 "Ang langit at ang lupa ay lilipas
-"Datapuwa't mangagingat kayo sa inyong sarili, baka mangalugmok ang inyong mga puso sa katakawan, at sa kalasingan, at sa mga pagsusumakit ukol sa buhay na ito, at dumating na bigla sa inyo ang araw na yaon na gaya ng silo
+"Datapuwa't mangagingat kayo sa inyong sarili, baka mangalugmok ang inyong mga puso sa katakawan, at sa kalasingan, at sa mga pagsusumakit #ukol sa buhay na ito, at dumating na bigla sa inyo ang araw na yaon na gaya ng silo
 "Sapagka't gayon darating sa kanilang lahat na nangananahan sa ibabaw ng buong lupa."
 "Datapuwa't mangagpuyat kayo sa bawa't panahon, na mangagsidaing, upang kamtin ninyo ang makatakas sa lahat ng mga bagay na ito na mangyayari, at upang mangakatayo kayo sa harapan ng Anak ng tao."
 "At araw-araw ay nagtuturo siya sa templo; at lumalabas gabi-gabi at tumatahan sa bundok na tinatawag na Olivo."

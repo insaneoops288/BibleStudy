@@ -10,7 +10,7 @@
 "Lalu datanglah TUHAN, berdiri di sana dan memanggil seperti yang sudah-sudah
 "Lalu berfirmanlah TUHAN kepada Samuel
 "Pada waktu itu Aku akan menepati kepada Eli segala yang telah Kufirmankan tentang keluarganya, dari mula sampai akhir."
-"Sebab telah Kuberitahukan kepadanya, bahwa Aku akan menghukum keluarganya untuk selamanya karena dosa yang telah diketahuinya, yakni bahwa anak-anaknya telah menghujat Allah, tetapi ia tidak memarahi mereka!"
+"Sebab telah Kuberitahukan kepadanya, bahwa Aku akan menghukum keluarganya untuk selamanya karena dosa yang #telah diketahuinya, yakni bahwa anak-anaknya telah menghujat Allah, tetapi ia tidak memarahi mereka!"
 "Sebab itu Aku telah bersumpah kepada keluarga Eli, bahwa dosa keluarga Eli takkan dihapuskan dengan korban sembelihan atau dengan korban sajian untuk selamanya."""
 "Samuel tidur sampai pagi; kemudian dibukanya pintu rumah TUHAN. Samuel segan memberitahukan penglihatan itu kepada Eli."
 "Tetapi Eli memanggil Samuel, katanya

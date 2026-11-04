@@ -21,9 +21,9 @@
 "Zaś o tobie zostali poinformowani, że u pogan nauczasz wszystkich Żydów odstępstwa od Mojżesza, mówiąc, by nie obrzezywali dzieci oraz nie żyli według obyczajów."
 "Zatem, co jest? Zapewne zejdzie się lud, kiedy usłyszą, że przyszedłeś."
 "Uczyń to, co ci mówimy
-"Tych przyjmij, oczyść się razem z nimi; ponieś koszty, aby ogolić sobie głowę a wszyscy się przekonają, że to, w czym zostali o tobie pouczeni jest niczym; ale, że przestrzegając Prawa, sam się posuwasz w szeregu."
+"Tych przyjmij, oczyść się razem z nimi; ponieś koszty, aby ogolić sobie głowę a wszyscy się przekonają, że to, #w czym zostali o tobie pouczeni jest niczym; ale, że przestrzegając Prawa, sam się posuwasz w szeregu."
 "Zaś co do wierzących pogan myśmy rozstrzygnęli i ich zawiadomili, by żadnego takiego nakazu nie przestrzegali, tylko wystrzegali się ofiar dla wizerunków, krwi, uduszonego i nierządu."
-"Wtedy Paweł przyjął tych mężów, a następnego dnia został oczyszczony i razem z nimi wszedł do Świątyni, oznajmiając wypełnienie dni oczyszczenia, aż do czasu, gdy za każdego z nich zostanie złożona ofiara."
+"Wtedy Paweł przyjął tych mężów, a następnego dnia został oczyszczony i razem z nimi wszedł do Świątyni, #oznajmiając wypełnienie dni oczyszczenia, aż do czasu, gdy za każdego z nich zostanie złożona ofiara."
 "Zaś kiedy miało się wypełnić siedem dni, Żydzi z Azji zobaczyli go w Świątyni, wzburzyli cały tłum oraz narzucili na niego ręce,"
 "wołając
 "Gdyż wcześniej się zdarzyło, że w mieście widzieli z nim Trofima Efezjańczyka, o którym uważali, że Paweł go wprowadził do Świątyni."

@@ -12,7 +12,7 @@
 "Dan Allah berfirman
 "Busur-Ku Kutaruh di awan, supaya itu menjadi tanda perjanjian antara Aku dan bumi."
 "Apabila kemudian Kudatangkan awan di atas bumi dan busur itu tampak di awan,"
-"maka Aku akan mengingat perjanjian-Ku yang telah ada antara Aku dan kamu serta segala makhluk yang hidup, segala yang bernyawa, sehingga segenap air tidak lagi menjadi air bah untuk memusnahkan segala yang hidup."
+"maka Aku akan mengingat perjanjian-Ku yang telah ada antara Aku dan kamu serta segala makhluk yang hidup, #segala yang bernyawa, sehingga segenap air tidak lagi menjadi air bah untuk memusnahkan segala yang hidup."
 "Jika busur itu ada di awan, maka Aku akan melihatnya, sehingga Aku mengingat perjanjian-Ku yang kekal antara Allah dan segala makhluk yang hidup, segala makhluk yang ada di bumi."""
 "Berfirmanlah Allah kepada Nuh
 "Anak-anak Nuh yang keluar dari bahtera ialah Sem, Ham dan Yafet; Ham adalah bapa Kanaan."
@@ -20,7 +20,7 @@
 "Nuh menjadi petani; dialah yang mula-mula membuat kebun anggur."
 "Setelah ia minum anggur, mabuklah ia dan ia telanjang dalam kemahnya."
 "Maka Ham, bapa Kanaan itu, melihat aurat ayahnya, lalu diceritakannya kepada kedua saudaranya di luar."
-"Sesudah itu Sem dan Yafet mengambil sehelai kain dan membentangkannya pada bahu mereka berdua, lalu mereka berjalan mundur; mereka menutupi aurat ayahnya sambil berpaling muka, sehingga mereka tidak melihat aurat ayahnya."
+"Sesudah itu Sem dan Yafet mengambil sehelai kain dan membentangkannya pada bahu mereka berdua, lalu mereka #berjalan mundur; mereka menutupi aurat ayahnya sambil berpaling muka, sehingga mereka tidak melihat aurat ayahnya."
 "Setelah Nuh sadar dari mabuknya dan mendengar apa yang dilakukan anak bungsunya kepadanya,"
 "berkatalah ia
 "Lagi katanya

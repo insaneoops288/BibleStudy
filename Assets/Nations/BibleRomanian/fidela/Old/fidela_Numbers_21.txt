@@ -10,7 +10,7 @@
 "Și copiii lui Israel au mers înainte și au așezat [corturile] în Obot."
 "Și au călătorit de la Obot și au așezat [corturile] la Iie-Abarim, în pustiul care [este] înaintea lui Moab, spre răsăritul soarelui."
 "De acolo s-au mutat și au așezat [corturile] în valea Zered."
-"De acolo s-au mutat și au așezat [corturile] de partea cealaltă a Arnonului, care [este] în pustiul care iese din ținuturile amoriților, pentru că Arnon [este] granița lui Moab, între Moab și amoriți."
+"De acolo s-au mutat și au așezat [corturile] de partea cealaltă a Arnonului, care [este] în pustiul #care iese din ținuturile amoriților, pentru că Arnon [este] granița lui Moab, între Moab și amoriți."
 "Pentru aceasta s-a spus în cartea războaielor DOMNULUI
 "Și la scurgerile pâraielor care coboară în jos la locuința lui Ar și se întinde peste granița lui Moab."
 "Și de acolo [au] [mers] la Beer, care [este] fântâna despre care DOMNUL i-a vorbit lui Moise

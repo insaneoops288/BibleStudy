@@ -3,7 +3,7 @@
 "e a sua oferta de cereais, de flor de farinha misturada com azeite, três décimos de efá para o novilho, dois décimos para o carneiro,"
 "e um décimo para cada um dos sete cordeiros;"
 "e um bode para oferta pelo pecado, para fazer expiação por vós;"
-"além do holocausto do mês e a sua oferta de cereais, e do holocausto contínuo e a sua oferta de cereais, com as suas ofertas de libação, segundo a ordenança, em cheiro suave, oferta queimada ao Senhor."
+"além do holocausto do mês e a sua oferta de cereais, e do holocausto contínuo e a sua oferta #de cereais, com as suas ofertas de libação, segundo a ordenança, em cheiro suave, oferta queimada ao Senhor."
 "Também no dia dez deste sétimo mês tereis santa convocação, e afligireis as vossas almas; nenhum trabalho fareis;"
 "mas oferecereis um holocausto, em cheiro suave ao Senhor
 "e a sua oferta de cereais, de flor de farinha misturada com azeite, três décimos de efá para o novilho, dois décimos para o carneiro,"
@@ -36,5 +36,5 @@
 "mas oferecereis um holocausto em oferta queimada de cheiro suave ao Senhor
 "e a sua oferta de cereais, e as suas ofertas de libação para o novilho, para o carneiro e para os cordeiros, conforme o seu número, segundo a ordenança;"
 "e um bode para oferta pelo pecado, além do holocausto contínuo com a sua oferta de cereais e a sua oferta de libação."
-"Oferecereis essas coisas ao Senhor nas vossas festas fixas, além dos vossos votos, e das vossas ofertas voluntárias, tanto para os vossos holocaustos, como para as vossas ofertas de cereais, as vossas ofertas de libações e os vossos sacrifícios de ofertas pacíficas."
+"Oferecereis essas coisas ao Senhor nas vossas festas fixas, além dos vossos votos, e das vossas ofertas voluntárias, tanto para os vossos #holocaustos, como para as vossas ofertas de cereais, as vossas ofertas de libações e os vossos sacrifícios de ofertas pacíficas."
 "Falou, pois, Moisés aos filhos de Israel, conforme tudo o que o Senhor lhe ordenara."

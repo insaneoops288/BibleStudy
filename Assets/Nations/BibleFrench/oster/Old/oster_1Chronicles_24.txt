@@ -3,7 +3,7 @@
 "Or David les distribua, selon leur classement dans leur service, Tsadok d'entre les enfants d'Éléazar, et Achimélec d'entre les enfants d'Ithamar."
 "Il se trouva parmi les enfants d'Éléazar plus de chefs que parmi les enfants d'Ithamar, et on les partagea ainsi
 "On les classa par le sort, les uns avec les autres; car les chefs du sanctuaire et les chefs de la maison de Dieu étaient des enfants d'Éléazar et des enfants d'Ithamar."
-"Shémaja, le scribe, fils de Nathanael, de la tribu de Lévi, les inscrivit devant le roi et les princes, devant Tsadok, le sacrificateur, et Achimélec, fils d'Abiathar, et devant les chefs des pères des sacrificateurs et des Lévites. Une maison de père était tirée pour Éléazar, et une était tirée ensuite pour Ithamar."
+"Shémaja, le scribe, fils de Nathanael, de la tribu de Lévi, les inscrivit devant le roi et les princes, devant Tsadok, le sacrificateur, et Achimélec, fils d'Abiathar, #et devant les chefs des pères des sacrificateurs et des Lévites. Une maison de père était tirée pour Éléazar, et une était tirée ensuite pour Ithamar."
 "Le premier sort échut à Jéhojarib; le second, à Jédaeja;"
 "Le troisième, à Harim; le quatrième, à Séorim;"
 "Le cinquième, à Malkija; le sixième, à Mijamin;"
@@ -28,4 +28,4 @@
 "De Machli
 "De Kis, les fils de Kis
 "Fils de Mushi
-"Eux aussi, comme leurs frères, les enfants d'Aaron, ils tirèrent au sort devant le roi David, Tsadok et Achimélec, et les chefs des pères des sacrificateurs et des Lévites. Le chef de maison de pères tira tout comme le moindre de ses frères."
+"Eux aussi, comme leurs frères, les enfants d'Aaron, ils tirèrent au sort devant le roi David, Tsadok et Achimélec, et les chefs #des pères des sacrificateurs et des Lévites. Le chef de maison de pères tira tout comme le moindre de ses frères."

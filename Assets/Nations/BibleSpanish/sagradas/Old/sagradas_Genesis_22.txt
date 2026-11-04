@@ -10,11 +10,11 @@
 "Y extendió Abraham su mano, y tomó el cuchillo, para degollar a su hijo."
 "Entonces el ángel del SEÑOR le dio voces del cielo, y dijo
 "Y dijo
-"entonces alzó Abraham sus ojos, y miró, y he aquí un carnero a sus espaldas, trabado en <I>una</I>  mata por sus cuernos; y fue Abraham, y tomó el carnero, y lo ofreció en holocausto en lugar de su hijo."
+"entonces alzó Abraham sus ojos, y miró, y he aquí un carnero a sus espaldas, trabado en <I>una</I>  mata por #sus cuernos; y fue Abraham, y tomó el carnero, y lo ofreció en holocausto en lugar de su hijo."
 "Y llamó Abraham el nombre de aquel lugar, YHWH-jireh (<I>el SEÑOR verá</I> ). Por tanto se dice hoy, en el monte del SEÑOR será visto."
 "Y llamó el ángel del SEÑOR a Abraham la segunda vez desde el cielo,"
 "y dijo
-"bendiciendo te bendeciré, y multiplicando, multiplicaré tu simiente como las estrellas del cielo, y como la arena que <I>está</I>  a la orilla del mar; y tu simiente poseerá las puertas de sus enemigos
+"bendiciendo te bendeciré, y multiplicando, multiplicaré tu simiente como las estrellas del cielo, y como la arena que #<I>está</I>  a la orilla del mar; y tu simiente poseerá las puertas de sus enemigos
 "En tu simiente serán benditos todos los gentiles de la tierra, por cuanto escuchaste a mi voz."
 "Y se tornó Abraham a sus criados, y se levantaron y se fueron juntos a Beerseba; y habitó Abraham en Beerseba."
 "Y aconteció después de estas cosas, que fue dada nueva a Abraham, diciendo

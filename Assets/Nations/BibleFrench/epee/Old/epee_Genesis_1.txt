@@ -9,7 +9,7 @@
 "Puis Dieu dit
 "Et Dieu nomma le Continent, Terre; et il nomma l'amas des eaux, Océan; et Dieu vit que cela était bon."
 "Puis Dieu dit
-"Et la terre produisit de la végétation, des herbes portant semence selon leur espèce, et des arbres portant du fruit, qui avaient leur semence en eux-mêmes, selon leur espèce; et Dieu vit que cela était bon."
+"Et la terre produisit de la végétation, des herbes portant semence selon leur espèce, et des arbres portant du #fruit, qui avaient leur semence en eux-mêmes, selon leur espèce; et Dieu vit que cela était bon."
 "Et il y eut un soir, et il y eut un matin; ce fut le troisième jour."
 "Puis Dieu dit
 "Et qu'ils servent de luminaires dans l'étendue des cieux, pour éclairer la terre; et cela fut ainsi."
@@ -18,7 +18,7 @@
 "Et pour dominer sur le jour et sur la nuit, et pour séparer la lumière d'avec les ténèbres; et Dieu vit que cela était bon."
 "Et il y eut un soir, et il y eut un matin; ce fut le quatrième jour."
 "Puis Dieu dit
-"Et Dieu créa les grands poissons, et toutes les créatures vivantes qui se meuvent, dont les eaux foisonnèrent, selon leurs espèces, et tout oiseau ailé, selon son espèce; et Dieu vit que cela était bon."
+"Et Dieu créa les grands poissons, et toutes les créatures vivantes qui se meuvent, dont les eaux foisonnèrent, #selon leurs espèces, et tout oiseau ailé, selon son espèce; et Dieu vit que cela était bon."
 "Et Dieu les bénit, en disant
 "Et il y eut un soir, et il y eut un matin; ce fut le cinquième jour."
 "Puis Dieu dit

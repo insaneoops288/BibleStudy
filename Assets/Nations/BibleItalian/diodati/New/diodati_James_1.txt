@@ -8,7 +8,7 @@
 "essendo uomo doppio di cuore, instabile in tutte le sue vie."
 "Or il fratello che è in basso stato si glorii della sua altezza."
 "E il ricco, della sua bassezza; perciocchè egli trapasserà come fior d’erba."
-"Imperocchè, come quando è levato il sole con l’arsura, egli ha tosto seccata l’erba, e il suo fiore è caduto, e la bellezza della sua apparenza è perita, così ancora si appasserà il ricco nelle sue vie."
+"Imperocchè, come quando è levato il sole con l’arsura, egli ha tosto seccata l’erba, e il suo fiore è #caduto, e la bellezza della sua apparenza è perita, così ancora si appasserà il ricco nelle sue vie."
 "Beato l’uomo che sopporta la tentazione; perciocchè, essendosi reso approvato, egli riceverà la corona della vita, la quale il Signore ha promessa a coloro che l’amano."
 "Niuno, essendo tentato, dica
 "Ma ciascuno è tentato, essendo attratto e adescato dalla propria concupiscenza."
@@ -22,6 +22,6 @@
 "E siate facitori della parola, e non solo uditori; ingannando voi stessi."
 "Perciocchè, se alcuno è uditor della parola, e non facitore, egli è simile ad un uomo che considera la sua natia faccia in uno specchio."
 "Imperocchè, dopo ch’egli si è mirato, egli se ne va, e subito ha dimenticato quale egli fosse."
-"Ma chi avrà riguardato bene addentro nella legge perfetta, che è la legge della libertà, e sarà perseverato; esso, non essendo uditore dimentichevole, ma facitor dell’opera, sarà beato nel suo operare."
+"Ma chi avrà riguardato bene addentro nella legge perfetta, che è la legge della libertà, e #sarà perseverato; esso, non essendo uditore dimentichevole, ma facitor dell’opera, sarà beato nel suo operare."
 "Se alcuno pare esser religioso fra voi, e non tiene a freno la sua lingua, ma seduce il cuor suo, la religion di quel tale è vana."
 "La religione pura ed immacolata, dinanzi a Dio e Padre, è questa; visitar gli orfani, e le vedove, nelle loro afflizioni; e conservarsi puro dal mondo."

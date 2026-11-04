@@ -22,7 +22,7 @@
 "Da trat der Prophet zum König Israels und sprach zu ihm
 "Denn die Knechte des Königs von Syrien sprachen zu ihm
 "Tue also
-"und ordne dir ein Heer, wie das Heer war, das du verloren hast, und Roß und Wagen, wie jene waren, und laß uns wider sie streiten auf der Ebene. Was gilt's, wir wollen ihnen obliegen! Er gehorchte ihrer Stimme und tat also."
+"und ordne dir ein Heer, wie das Heer war, das du verloren hast, und Roß und Wagen, wie jene waren, und laß #uns wider sie streiten auf der Ebene. Was gilt's, wir wollen ihnen obliegen! Er gehorchte ihrer Stimme und tat also."
 "Als nun das Jahr um war, ordnete Benhadad die Syrer und zog herauf gen Aphek, wider Israel zu streiten."
 "Und die Kinder Israel ordneten sich auch und versorgten sich und zogen hin ihnen entgegen und lagerten sich gegen sie wie zwei kleine Herden Ziegen. Der Syrer aber war das Land voll."
 "Und es trat der Mann Gottes herzu und sprach zum König Israels

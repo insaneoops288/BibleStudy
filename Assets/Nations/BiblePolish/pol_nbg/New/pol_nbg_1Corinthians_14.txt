@@ -3,7 +3,7 @@
 "Zaś ten, co prorokuje wieści ludziom budowlę, zachętę i pocieszenie."
 "Kto mówi językiem samego siebie buduje; zaś ten, co prorokuje buduje zgromadzenie wybranych."
 "A chcę, byście wszyscy mówili językami, ale bardziej abyście prorokowali; gdyż kto prorokuje jest większy niż ten, który mówi językami; chyba żeby tłumaczył, by zbór odebrał budowanie."
-"A tymczasem, bracia, w czym bym was wspomógł, gdybym do was przyszedł i mówił językami, jeśli bym wam tego nie powiedział, czy to przez objawienie, czy to przez wyższe poznanie, czy to przez naukę?"
+"A tymczasem, bracia, w czym bym was wspomógł, gdybym do was przyszedł i mówił językami, jeśli bym wam #tego nie powiedział, czy to przez objawienie, czy to przez wyższe poznanie, czy to przez naukę?"
 "Wszak i nieżywe instrumenty, które wydają głos, czy to aulos, czy kitara, jeśli nie dadzą rozróżnienia dźwiękom, jak zostanie poznane to granie na aulosie, czy granie na kitarze?"
 "Bądź jeśli trąba wyda nieznany głos, kto będzie gotowym do bitwy?"
 "Także i wy, jeśli przez mowę nie wydajecie zrozumiałego słowa, jak zostanie poznane co jest mówione? Będziecie takimi, co mówią tylko do powietrza."

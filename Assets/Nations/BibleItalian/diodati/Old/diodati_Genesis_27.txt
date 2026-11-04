@@ -26,7 +26,7 @@
 "Poi Isacco suo padre gli disse
 "Ed egli si appressò, e lo baciò. E Isacco odorò l’odor dei vestimenti di esso, e lo benedisse; e disse
 "Iddio adunque ti dia della rugiada del cielo, E delle grassezze della terra, Ed abbondanza di frumento e di mosto."
-"Servanti i popoli, Ed inchininsi a te le nazioni; Sii pardrone de’ tuoi fratelli, Ed inchininsi a te i figliuoli di tua madre; Sieno maledetti coloro che ti malediranno, E benedetti coloro che ti benediranno."
+"Servanti i popoli, Ed inchininsi a te le nazioni; Sii pardrone de’ tuoi fratelli, Ed inchininsi a te #i figliuoli di tua madre; Sieno maledetti coloro che ti malediranno, E benedetti coloro che ti benediranno."
 "E come Isacco ebbe finito di benedir Giacobbe, ed essendo appena Giacobbe uscito d’appresso ad Isacco suo padre, Esaù suo fratello giunse dalla sua caccia."
 "E apparecchiò anch’egli delle vivande saporite, e le recò a suo padre, e gli disse
 "E Isacco suo padre gli disse
@@ -42,5 +42,5 @@
 "E le parole di Esaù, suo figliuol maggiore, furono rapportate a Rebecca; ed ella mandò a chiamar Giacobbe, suo figliuol minore, e gli disse
 "Ora dunque, figliuol mio, attendi alla mia voce; levati, fuggitene in Charan, a Labano, mio fratello."
 "E dimora con lui alquanto tempo, finchè l’ira del tuo fratello sia racquetata;"
-"finchè il cruccio del tuo fratello sia racquetato inverso te, e ch’egli abbia dimenticato ciò che tu gli hai fatto; e allora io manderò a farti tornar di là; perchè sarei io orbata di amendue voi in uno stesso giorno?"
+"finchè il cruccio del tuo fratello sia racquetato inverso te, e ch’egli abbia dimenticato ciò che tu gli hai fatto; e #allora io manderò a farti tornar di là; perchè sarei io orbata di amendue voi in uno stesso giorno?"
 "E Rebecca disse ad Isacco

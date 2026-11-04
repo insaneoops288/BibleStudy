@@ -20,6 +20,6 @@
 "Y dijo a sus hijas
 "Y Moisés acordó en morar con aquel varón; y él dio a Moisés a su hija Séfora,"
 "la cual le dio a luz un hijo, y él le puso por nombre Gersón, porque dijo
-"Y aconteció <I>que</I>  después de muchos días murió el rey de Egipto, y los hijos de Israel suspiraron a causa de la servidumbre, y clamaron, y su clamor subió a Dios desde <I>su</I>  servidumbre."
+"Y aconteció <I>que</I>  después de muchos días murió el rey de Egipto, y los hijos de Israel suspiraron #a causa de la servidumbre, y clamaron, y su clamor subió a Dios desde <I>su</I>  servidumbre."
 "Y oyó Dios el gemido de ellos, y se acordó de su pacto con Abraham, Isaac y Jacob."
 "Y miró Dios a los hijos de Israel, y los reconoció Dios."

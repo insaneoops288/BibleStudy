@@ -2,7 +2,7 @@
 "sairão os teus anciãos e os teus juízes, e medirão as distâncias dali até as cidades que estiverem em redor do morto;"
 "e será que, na cidade mais próxima do morto, os anciãos da mesma tomarão uma novilha da manada, que ainda não tenha trabalhado nem tenha puxado na canga,"
 "trarão a novilha a um vale de águas correntes, que nunca tenha sido lavrado nem semeado, e ali, naquele vale, quebrarão o pescoço à novilha."
-"Então se achegarão os sacerdotes, filhos de Levi; pois o Senhor teu Deus os escolheu para o servirem, e para abençoarem em nome do Senhor; e segundo a sua sentença se determinará toda demanda e todo ferimento;"
+"Então se achegarão os sacerdotes, filhos de Levi; pois o Senhor teu Deus os escolheu para o servirem, e #para abençoarem em nome do Senhor; e segundo a sua sentença se determinará toda demanda e todo ferimento;"
 "e todos os anciãos da mesma cidade, a mais próxima do morto, lavarão as mãos sobre a novilha cujo pescoço foi quebrado no vale,"
 "e, protestando, dirão
 "Perdoa, ó Senhor, ao teu povo Israel, que tu resgataste, e não ponhas o sangue inocente no meio de teu povo Israel. E aquele sangue lhe será perdoado."
@@ -20,4 +20,4 @@
 "e dirão aos anciãos da cidade
 "Então todos os homens da sua cidade o apedrejarão, até que morra; assim exterminarás o mal do meio de ti; e todo o Israel, ouvindo isso, temerá."
 "Se um homem tiver cometido um pecado digno de morte, e for morto, e o tiveres pendurado num madeiro,"
-"o seu cadáver não permanecerá toda a noite no madeiro, mas certamente o enterrarás no mesmo dia; porquanto aquele que é pendurado é maldito de Deus. Assim não contaminarás a tua terra, que o Senhor teu Deus te dá em herança."
+"o seu cadáver não permanecerá toda a noite no madeiro, mas certamente o enterrarás no mesmo dia; porquanto aquele que é #pendurado é maldito de Deus. Assim não contaminarás a tua terra, que o Senhor teu Deus te dá em herança."

@@ -23,7 +23,7 @@
 "Zoti iu përgjegj Moisiut
 "Pastaj Moisiu doli dhe i njoftoi popullit fjalët e Zotit; mblodhi pastaj shtatëdhjetë njerëz pleq të popullit dhe i vendosi rreth e qark çadrës së mbledhjes."
 "Atëherë Zoti zbriti në renë dhe i foli atij, mori nga Fryma që qëndronte mbi të dhe e çoi mbi të shtatëdhjetë pleqtë; por kur Fryma u vu mbi ta, ata bënë profeci, me gjithë se më vonë nuk bënë më."
-"Por dy njerëz, njëri quhej Eldad dhe tjetri Medad, kishin mbetur në kamp; dhe Fryma u vu edhe mbi ta; këta ishin ndër të regjistruarit, por nuk kishin dalë për të shkuar në çadër; megjithatë bënë profeci në kamp."
+"Por dy njerëz, njëri quhej Eldad dhe tjetri Medad, kishin mbetur në kamp; dhe Fryma u vu edhe mbi ta; #këta ishin ndër të regjistruarit, por nuk kishin dalë për të shkuar në çadër; megjithatë bënë profeci në kamp."
 "Një djalë shkoi me vrap t'ia referojë këtë gjë Moisiut dhe i tha
 "Atëherë Jozueu, bir i Nunit dhe shërbëtor i Moisiut, një nga të rinjtë e tij, filloi të thotë
 "Por Moisiu iu përgjegj

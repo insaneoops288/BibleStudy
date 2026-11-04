@@ -9,7 +9,7 @@
 "Tämä on Hiskian Juudan kuninkaan kirjoitus, kuin hän sairastanut oli, ja taudistansa terveeksi tullut
 "Minä sanoin minun päiviäni lyhennettäissä
 "Minä sanoin
-"Minun aikani kului ja on minulta otettu pois, niinkuin paimenen maja; ja minä leikkasin poikki elämäni niinkuin kankuri. Hän katkaisi minun niinkuin hienon langan, sinä lopetat minun huomenesta ehtooseen asti."
+"Minun aikani kului ja on minulta otettu pois, niinkuin paimenen maja; ja minä leikkasin poikki elämäni #niinkuin kankuri. Hän katkaisi minun niinkuin hienon langan, sinä lopetat minun huomenesta ehtooseen asti."
 "Minä asetin itseni niinkuin jalopeura aamuun asti; kuitenkin särki hän kaikki minun luuni; sinä lopetat minun huomenesta ehtooseen asti."
 "Minä kuikutin niinkuin kurki ja pääskynen, ja vaikeroitsin ninkuin mettinen; minun silmäni rupesivat puhkeemaan; Herra, minä kärsin tuskaa, huojenna se minulta."
 "Mitä minun pitää puhuman, että hän sen minulle lupasi, ja teki myös sen? Sentähden minä tahdon kaikkena elinaikanani tämän minun sieluni murheen tähden kartella."

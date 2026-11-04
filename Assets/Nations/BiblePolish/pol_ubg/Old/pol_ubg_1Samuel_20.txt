@@ -5,12 +5,12 @@
 "Wtedy Dawid powiedział do Jonatana
 "Jeśli twój ojciec będzie o mnie wypytywał, odpowiesz
 "Jeśli odpowie
-"Okaż więc miłosierdzie swemu słudze, gdyż doprowadziłeś swego sługę do przymierza PANA z tobą. Jeśli jednak jest we mnie jakaś nieprawość, to ty mnie zabij. Po co masz mnie prowadzić do swego ojca?"
+"Okaż więc miłosierdzie swemu słudze, gdyż doprowadziłeś swego sługę do przymierza PANA z tobą. Jeśli jednak jest #we mnie jakaś nieprawość, to ty mnie zabij. Po co masz mnie prowadzić do swego ojca?"
 "Jonatan odpowiedział
 "I Dawid powiedział do Jonatana
 "Jonatan odpowiedział Dawidowi
 "Wtedy Jonatan powiedział do Dawida
-"To niech PAN odpłaci Jonatanowi i do tego dorzuci. Lecz jeśli mój ojciec będzie chciał wyrządzić ci zło, to powiadomię cię o tym i odprawię cię, abyś mógł odejść w pokoju. A niech PAN będzie z tobą, jak był z moim ojcem."
+"To niech PAN odpłaci Jonatanowi i do tego dorzuci. Lecz jeśli mój ojciec będzie chciał wyrządzić ci zło, to powiadomię cię o #tym i odprawię cię, abyś mógł odejść w pokoju. A niech PAN będzie z tobą, jak był z moim ojcem."
 "I jeśli będę żył, okaż mi miłosierdzie PANA, ale choćbym i umarł;"
 "Nie odbieraj swego miłosierdzia memu domowi na wieki, nawet gdy PAN wytraci wszystkich wrogów Dawida z powierzchni ziemi."
 "Jonatan zawarł więc przymierze z domem Dawida, mówiąc

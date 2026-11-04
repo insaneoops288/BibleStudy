@@ -29,7 +29,7 @@
 "E estes tereis por impuros dos répteis que vão arrastando sobre a terra
 "E a lagartixa, e o lagarto pintado, e a lagartixa de parede, e a salamandra, e o camaleão."
 "Estes tereis por impuros de todos os répteis
-"E tudo aquilo sobre que cair algum deles depois de mortos, será impuro; tanto vaso de madeira, como roupa, ou pele, ou saco, qualquer instrumento com que se faz obra, será posto em água, e será impuro até à tarde, e assim será limpo."
+"E tudo aquilo sobre que cair algum deles depois de mortos, será impuro; tanto vaso de madeira, como roupa, ou pele, ou saco, #qualquer instrumento com que se faz obra, será posto em água, e será impuro até à tarde, e assim será limpo."
 "E toda vasilha de barro dentro da qual cair algum deles, tudo o que estiver nela será impuro, e quebrareis a vasilha
 "Toda comida que se come, sobre a qual vier a água de tais vasilhas, será imunda
 "E tudo aquilo sobre que cair algo do corpo morto deles, será impuro

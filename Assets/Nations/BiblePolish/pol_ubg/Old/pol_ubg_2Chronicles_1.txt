@@ -9,7 +9,7 @@
 "A teraz, PANIE Boże, niech się spełni twoje słowo, które powiedziałeś do mego ojca Dawida, bo uczyniłeś mnie królem nad ludem, który jest tak liczny, jak proch ziemi."
 "Daj mi więc mądrość i wiedzę, abym wychodził i wchodził przed tym ludem; któż bowiem zdoła sądzić ten twój lud, który jest tak wielki?"
 "Wtedy Bóg powiedział do Salomona
-"Mądrość i umiejętność będzie ci dana, ponadto dam ci bogactwo, majętności i sławę, jakich nie miał żaden z królów, którzy byli przed tobą, ani nie będzie miał żaden z tych, którzy po tobie nastąpią."
+"Mądrość i umiejętność będzie ci dana, ponadto dam ci bogactwo, majętności i sławę, jakich nie miał żaden z #królów, którzy byli przed tobą, ani nie będzie miał żaden z tych, którzy po tobie nastąpią."
 "Salomon wrócił z tej wyżyny, która była w Gibeonie, sprzed Namiotu Zgromadzenia, do Jerozolimy i królował nad Izraelem."
 "I Salomon zgromadził rydwany i jeźdźców, tak że miał tysiąc czterysta rydwanów i dwanaście tysięcy jeźdźców, których rozmieścił w miastach rydwanów i przy sobie w Jerozolimie."
 "Król złożył w Jerozolimie złota i srebra, jak kamieni, a cedrów złożył jak sykomor, których na równinie rośnie bardzo dużo."

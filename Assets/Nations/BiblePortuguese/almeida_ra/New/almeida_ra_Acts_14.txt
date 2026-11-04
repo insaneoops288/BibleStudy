@@ -1,6 +1,6 @@
 "Em Icónio entraram juntos na sinagoga dos judeus e falaram de tal modo que creu uma grande multidão tanto de judeus como de gregos."
 "Mas os judeus incrédulos excitaram e irritaram os ânimos dos gentios contra os irmãos."
-"Eles, entretanto, se demoraram ali por muito tempo, falando ousadamente acerca do Senhor, o qual dava testemunho à palavra da sua graça, concedendo que por suas mãos se fizessem sinais e prodígios."
+"Eles, entretanto, se demoraram ali por muito tempo, falando ousadamente acerca do Senhor, o qual dava testemunho #à palavra da sua graça, concedendo que por suas mãos se fizessem sinais e prodígios."
 "E se dividiu o povo da cidade; uns eram pelos judeus, e outros pelos apóstolos."
 "E, havendo um motim tanto dos gentios como dos judeus, juntamente com as suas autoridades, para os ultrajarem e apedrejarem,"
 "eles, sabendo-o, fugiram para Listra e Derbe, cidades da Licaónia, e a região circunvizinha;"

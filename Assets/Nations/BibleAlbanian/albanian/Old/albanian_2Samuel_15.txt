@@ -1,5 +1,5 @@
 "Mbas kësaj Absalomi gjeti një karrocë, disa kuaj dhe pesëdhjetë njerëz që të vraponin para tij."
-"Absalomi ngrihej herët në mëngjes dhe rrinte anës rrugës që të çonte te porta e qytetit. Kështu, në qoftë se dikush kishte ndonjë gjyq dhe shkonte te mbreti për të siguruar drejtësi, Absalomi e thërriste dhe i thoshte
+"Absalomi ngrihej herët në mëngjes dhe rrinte anës rrugës që të çonte te porta e qytetit. Kështu, në qoftë se #dikush kishte ndonjë gjyq dhe shkonte te mbreti për të siguruar drejtësi, Absalomi e thërriste dhe i thoshte
 "Atëherë Absalomi i thoshte
 "Pastaj Absalomi shtonte
 "Kur dikush afrohej për të rënë përmbys përpara tij, ai shtrinte dorën, e merrte dhe e puthte."
@@ -9,7 +9,7 @@
 "Mbreti i tha
 "Pastaj Absalomi dërgoi emisarë ndër të gjitha fiset e Izraelit për të thënë
 "Me Absalomin u nisën nga Jeruzalemi dyqind njerëz si të ftuar; ata shkuan pa të keq, pa ditur gjë."
-"Absalomi, ndërsa ofronte flijimet, dërgoi të thërrasë nga qyteti i tij Gjiloh Ahithofelin, Gilonitin, këshilltarin e Davidit. Kështu komloti bëhej më i fortë, sepse populli shtohej rreth Absalomit."
+"Absalomi, ndërsa ofronte flijimet, dërgoi të thërrasë nga qyteti i tij Gjiloh Ahithofelin, Gilonitin, këshilltarin #e Davidit. Kështu komloti bëhej më i fortë, sepse populli shtohej rreth Absalomit."
 "Pastaj arriti te Davidi një lajmëtar për të thënë
 "Atëherë Davidi u tha gjithë shërbëtorëve të tij që ishin me të në Jeruzalem
 "Shërbëtorët e mbretit i thanë
@@ -21,7 +21,7 @@
 "Por Itai iu përgjigj mbretit duke thënë
 "Atëherë Davidi i tha Itait
 "Tërë banorët e vendit qanin me zë të lartë, ndërsa tërë populli kalonte. Mbreti kapërceu përruan e Kidronit dhe tërë populli kaloi në drejtim të shkretëtirës."
-"Dhe ja po vinte edhe Tsadoku me tërë Levitët, të cilët mbanin arkën e besëlidhjes së Perëndisë Ata e vendosën arkën e Perëndisë dhe Abiathari ofroi flijime, deri sa tërë populli mbaroi daljen nga qyteti."
+"Dhe ja po vinte edhe Tsadoku me tërë Levitët, të cilët mbanin arkën e besëlidhjes së Perëndisë Ata #e vendosën arkën e Perëndisë dhe Abiathari ofroi flijime, deri sa tërë populli mbaroi daljen nga qyteti."
 "Pastaj mbreti i tha Tsadokut
 "Por në rast se thotë
 "Mbreti i tha akoma priftit Tsadok
@@ -32,6 +32,6 @@
 "Kur Davidi arriti në majë të malit; ku adhuroi Perëndinë, ja që doli përpara Hushai, Arkiti, me rroba të grisura dhe kokën të mbuluar me dhe."
 "Davidi i tha
 "por në rast se kthehesh në qytet dhe i thua Absalomit
-"Nuk do të kesh atje pranë teje priftërinjtë Tsadok dhe Abiathar? Të gjitha ato që do të dëgjosh që të thuhen nga ana e shtëpisë së mbretit, do t'ua bësh të njohura priftërinjve Tsadok dhe Abiathar."
+"Nuk do të kesh atje pranë teje priftërinjtë Tsadok dhe Abiathar? Të gjitha ato që do të dëgjosh që #të thuhen nga ana e shtëpisë së mbretit, do t'ua bësh të njohura priftërinjve Tsadok dhe Abiathar."
 "Ja, ata kanë atje me vete dy bijtë e tyre, Ahimats, birin e Tsadokut, dhe Jonathanin, birin e Abiatharit; me anë të tyre do të më njoftoni të gjitha ato që do të dëgjoni""."
 "Kështu Hushai, miku i Davidit, u kthye në qytet dhe Absalomi hyri në Jeruzalem."

@@ -18,14 +18,14 @@
 "Rogo-te que não te vás daqui, até que a ti volte, e tire meu presente, e o ponha diante de ti. E ele respondeu
 "E entrando-se Gideão preparou um cabrito, e pães sem levedura de um efa de farinha; e pôs a carne em um cesto, e o caldo em uma caçarola, e tirando-o apresentou-lhe debaixo daquele carvalho."
 "E o anjo de Deus lhe disse
-"E estendendo o anjo do SENHOR o bordão que tinha em sua mão, tocou com a ponta na carne e nos pães sem levedura; e subiu fogo da penha, o qual consumiu a carne e os pães sem levedura. E o anjo do SENHOR desapareceu de diante dele."
+"E estendendo o anjo do SENHOR o bordão que tinha em sua mão, tocou com a ponta na carne e nos pães sem levedura; e #subiu fogo da penha, o qual consumiu a carne e os pães sem levedura. E o anjo do SENHOR desapareceu de diante dele."
 "E vendo Gideão que era o anjo do SENHOR, disse
 "E o SENHOR lhe disse
 "E edificou ali Gideão altar ao SENHOR, ao que chamou O SENHOR é paz
 "E aconteceu que a mesma noite lhe disse o SENHOR
 "E edifica altar ao SENHOR teu Deus no cume deste penhasco em lugar conveniente; e tomando o segundo touro, sacrifica-o em holocausto sobre a lenha do bosque que haverás cortado."
 "Então Gideão tomou dez homens de seus servos, e fez como o SENHOR lhe disse. Mas temendo fazê-lo de dia, pela família de seu pai e pelos homens da cidade, o fez de noite."
-"E à manhã, quando os da cidade se levantaram, eis que o altar de Baal estava derrubado, e cortado o bosque que junto a ele estava, e sacrificado aquele segundo touro em holocausto sobre o altar edificado."
+"E à manhã, quando os da cidade se levantaram, eis que o altar de Baal estava derrubado, e cortado #o bosque que junto a ele estava, e sacrificado aquele segundo touro em holocausto sobre o altar edificado."
 "E diziam-se uns aos outros
 "Tira fora teu filho para que morra, porquanto derrubou o altar de Baal e cortou o bosque que junto a ele estava."
 "E Joás respondeu a todos os que estavam junto a ele

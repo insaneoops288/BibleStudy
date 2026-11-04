@@ -6,7 +6,7 @@
 "To tedy uczynicie
 "I nakładłszy w nie ognia, włóżcie nań kadzidła przed Panem jutro; i stanie się, że kogokolwiek obierze Pan, ten będzie świętym
 "Nad to rzekł Mojżesz do Korego
-"Izali wam to mało, że was oddzielił Bóg Izraelski od zgromadzenia Izraelskiego, abyście przystępowali do niego ku odprawowaniu usługi w przybytku Pańskim, a iżbyście stali przed zgromadzeniem, i służyli mu?"
+"Izali wam to mało, że was oddzielił Bóg Izraelski od zgromadzenia Izraelskiego, abyście przystępowali do niego #ku odprawowaniu usługi w przybytku Pańskim, a iżbyście stali przed zgromadzeniem, i służyli mu?"
 "I przyjął ciebie, i wszystkę bracią twoję, syny Lewiego z tobą, że jeszcze szukacie kapłaństwa?"
 "Dla tegoż, ty i wszystka rota twoja, zbuntowaliście się przeciw Panu; bo Aaron cóż jest, żeście szemrali przeciw niemu?"
 "Tedy posłał Mojżesz, aby zawołano Datana, i Abirona, synów Elijabowych, którzy odpowiedzieli
@@ -37,7 +37,7 @@
 "Rzecz do Eleazara, syna Aaronowego, kapłana, aby pozbierał kadzielnice z onego pogorzeliska, a ogień i tam i sam niech rozrzuci; bo są poświęcone."
 "A z kadzielnic tych, którzy zgrzeszyli przeciwko duszom swym, rozbiwszy je na blachy, niech obije ołtarz, bo iż w nich ofiarowali przed Panem, poświęcone są, przetoż będą na znak synom Izraelskim."
 "Tedy pozbierał Eleazar kapłan one miedziane kadzielnice, w których ofiarowali oni popaleni; i rozbito je na blachy, na obicie ołtarza."
-"Na pamiątkę synom Izraelskim, aby nie przystępował żaden obcy, któryby nie był z nasienia Aaronowego, do odprawowania kadzenia przed Panem, aby mu się nie stało jako Koremu, i jako rocie jego, jako mu był powiedział Pan przez Mojżesza."
+"Na pamiątkę synom Izraelskim, aby nie przystępował żaden obcy, któryby nie był z nasienia Aaronowego, do odprawowania kadzenia przed Panem, #aby mu się nie stało jako Koremu, i jako rocie jego, jako mu był powiedział Pan przez Mojżesza."
 "I szemrało wszystko zgromadzenie synów Izraelskich nazajutrz przeciwko Mojżeszowi, i przeciwko Aaronowi, mówiąc
 "I stało się, gdy się zbierał lud przeciw Mojżeszowi, i przeciw Aaronowi, że spojrzeli ku namiotowi zgromadzenia, a oto, okrył go obłok, i okazała się chwała Pańska."
 "I przyszedł Mojżesz z Aaronem przed namiot zgromadzenia."

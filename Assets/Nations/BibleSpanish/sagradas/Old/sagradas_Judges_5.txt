@@ -8,7 +8,7 @@
 "Al escoger nuevos dioses, la guerra <I>estaba</I>  a las puertas. ¿Se veía escudo o lanza entre cuarenta mil en Israel?"
 "Mi corazón <I>está</I>  por los príncipes de Israel, por los voluntarios en el pueblo; load al SEÑOR."
 "<I>Vosotros</I>  los que cabalgáis en asnas blancas, los que presidís en juicio, y <I>vosotros</I>  los que andáis <I>por el</I>  camino, hablad."
-"A causa del estruendo de los arqueros, <I>quitado de</I>  entre los que sacan las aguas, allí recuentan las justicias del SEÑOR, las justicias de sus aldeas en Israel. Ahora bajará el pueblo del SEÑOR a las puertas."
+"A causa del estruendo de los arqueros, <I>quitado de</I>  entre los que sacan las aguas, allí recuentan las justicias #del SEÑOR, las justicias de sus aldeas en Israel. Ahora bajará el pueblo del SEÑOR a las puertas."
 "Levántate, levántate, Débora; levántate, levántate; profiere un cántico. Levántate, Barac, y lleva tus cautivos, hijo de Abinoam."
 "Ahora ha hecho que el que quedó del pueblo, señoree a los magníficos; el SEÑOR me hizo enseñorear sobre los fuertes."
 "De Efraín salió su raíz contra Amalec, tras ti <I>vino</I>  Benjamín contra tus pueblos; de Maquir descendieron príncipes, y de Zabulón los que solían manejar punzón de escribiente."
@@ -27,5 +27,5 @@
 "Cayó encorvado entre sus pies, quedó tendido; entre sus pies cayó encorvado; donde se encorvó, allí cayó muerto."
 "La madre de Sísara asomándose a la ventana aulla, <I>mirando</I>  por entre las rejas, <I>diciendo</I>
 "Las sabias <I>mujeres</I>  de sus príncipes le respondían; y aun ella se respondía a sí misma."
-"¿No han hallado despojos, y <I>los</I>  están repartiendo? A cada uno una doncella, o dos; los despojos de colores para Sísara, los despojos bordados de colores; <I>la ropa de</I> color bordada de ambos lados, para el  capitán de <I>los que han tomado</I>  los despojos."
+"¿No han hallado despojos, y <I>los</I>  están repartiendo? A cada uno una doncella, o dos; los despojos de colores para Sísara, los despojos #bordados de colores; <I>la ropa de</I> color bordada de ambos lados, para el  capitán de <I>los que han tomado</I>  los despojos."
 "Así perezcan todos tus enemigos, oh SEÑOR; mas los que te aman, <I>sean</I>  como el sol cuando nace en su fuerza. Y la tierra reposó cuarenta años."

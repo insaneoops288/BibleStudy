@@ -4,7 +4,7 @@
 "Y Moisés alisó dos tablas de piedra como las primeras; y se levantó por la mañana, y subió al monte de Sinaí, como le mandó Jehová, y llevó en su mano las dos tablas de piedra."
 "Y Jehová descendió en la nube, y estuvo allí con él, proclamando el nombre de Jehová."
 "Y pasando Jehová por delante de él, proclamó
-"Que guarda la misericordia en millares, que perdona la iniquidad, la rebelión, y el pecado, y que de ningún modo dará por inocente al culpable; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, hasta la tercera, y cuarta generación."
+"Que guarda la misericordia en millares, que perdona la iniquidad, la rebelión, y el pecado, y que de ningún modo dará por inocente al culpable; #que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, hasta la tercera, y cuarta generación."
 "Entonces Moisés, apresurándose, bajó la cabeza hacia el suelo y adoró;"
 "Y dijo
 "Y Él dijo
@@ -17,7 +17,7 @@
 "No te harás dioses de fundición."
 "La fiesta de los panes sin levadura guardarás
 "Todo lo que abre matriz, mío es; y de tu ganado todo primerizo de vaca o de oveja que fuere macho."
-"Pero redimirás con cordero el primerizo del asno; y si no lo redimieres, entonces le quebrarás la cerviz. Redimirás todo primogénito de tus hijos, y ninguno se presentará delante de mí con las manos vacías."
+"Pero redimirás con cordero el primerizo del asno; y si no lo redimieres, entonces le quebrarás la cerviz. #Redimirás todo primogénito de tus hijos, y ninguno se presentará delante de mí con las manos vacías."
 "Seis días trabajarás, mas en el séptimo día descansarás
 "Y te harás la fiesta de las semanas a los principios de la siega del trigo
 "Tres veces en el año se presentarán todos tus varones delante de Jehová el Señor, Dios de Israel."
@@ -26,7 +26,7 @@
 "La primicia de los primeros frutos de tu tierra meterás en la casa de Jehová tu Dios. No cocerás el cabrito en la leche de su madre."
 "Y Jehová dijo a Moisés
 "Y él estuvo allí con Jehová cuarenta días y cuarenta noches
-"Y aconteció, que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía del monte, no sabía él que la tez de su rostro resplandecía, después que hubo con Él hablado."
+"Y aconteció, que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía #del monte, no sabía él que la tez de su rostro resplandecía, después que hubo con Él hablado."
 "Y miró Aarón y todos los hijos de Israel a Moisés, y he aquí la tez de su rostro era resplandeciente; y tuvieron miedo de acercarse a él."
 "Y los llamó Moisés; y Aarón y todos los príncipes de la congregación volvieron a él, y Moisés les habló."
 "Y después se acercaron todos los hijos de Israel, a los cuales mandó todas las cosas que Jehová le había dicho en el monte de Sinaí."

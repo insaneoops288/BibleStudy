@@ -8,7 +8,7 @@
 "Còn Phao-lô nói đặng binh vực mình, rằng
 "Nhưng Phê-tu muốn cho đẹp lòng dân Giu-đa, thì trả lời rằng
 "Phao-lô bèn thưa rằng
-"Ví bằng tôi có tội hay là phạm điều gì đáng chết, thì tôi chẳng từ chối chết đâu; trái lại, nếu trong đơn từ họ kiện tôi không có cớ gì hết, thì chẳng ai được nộp tôi cho họ. Tôi kêu nài sự đó đến Sê-sa."
+"Ví bằng tôi có tội hay là phạm điều gì đáng chết, thì tôi chẳng từ chối chết đâu; trái lại, nếu trong đơn từ #họ kiện tôi không có cớ gì hết, thì chẳng ai được nộp tôi cho họ. Tôi kêu nài sự đó đến Sê-sa."
 "Kế đó, Phê-tu bàn tán với công hội mình, bèn trả lời rằng
 "Cách đó mấy ngày, vua Aïc-ríp-ba với Bê-rê-nít đến thành Sê-sa-rê đặng chào Phê-tu."
 "Vì hai người ở lại đó mấy ngày, nên Phê-tu đem vụ Phao-lô trình với vua, rằng

@@ -1,4 +1,4 @@
-"A kék, és bíborpiros, és karmazsinszínû [fonálból] pedig csinálának szolgálati ruhákat a szenthelyen való szolgálatra. Áronnak is úgy készíték a szent ruhákat, a mint az Úr parancsolta vala Mózesnek."
+"A kék, és bíborpiros, és karmazsinszínû [fonálból] pedig csinálának szolgálati ruhákat a szenthelyen való szolgálatra. #Áronnak is úgy készíték a szent ruhákat, a mint az Úr parancsolta vala Mózesnek."
 "Az efódot csinálák aranyból, kék, és bíborpiros, és karmazsinszínû, és sodrott lenbõl."
 "És aranyból vékony lapokat verének, és azokat fonalakká metélék, hogy feldolgozzák a kék, és a bíborpiros, és a karmazsinszínû, és a lenfonál közé, mestermunkával."
 "Csinálának hozzá összekötött vállkötõket

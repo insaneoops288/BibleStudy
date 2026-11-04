@@ -6,7 +6,7 @@
 "Le peuple sortit dans les champs à la rencontre d'Israël, et la bataille eut lieu dans la forêt d'Ephraïm."
 "Là, le peuple d'Israël fut battu par les serviteurs de David, et il y eut en ce jour une grande défaite de vingt mille hommes."
 "Le combat s'étendit sur toute la contrée, et la forêt dévora plus de peuple ce jour-là que l'épée n'en dévora."
-"Absalom se trouva en présence des gens de David. Il était monté sur un mulet. Le mulet pénétra sous les branches entrelacées d'un grand térébinthe, et la tête d'Absalom fut prise au térébinthe; il demeura suspendu entre le ciel et la terre, et le mulet qui était sous lui passa outre."
+"Absalom se trouva en présence des gens de David. Il était monté sur un mulet. Le mulet pénétra sous les branches entrelacées d'un grand térébinthe, et #la tête d'Absalom fut prise au térébinthe; il demeura suspendu entre le ciel et la terre, et le mulet qui était sous lui passa outre."
 "Un homme ayant vu cela vint dire à Joab
 "Et Joab dit à l'homme qui lui apporta cette nouvelle
 "Mais cet homme dit à Joab

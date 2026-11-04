@@ -11,10 +11,10 @@
 "Pastaj Izraeli i tha Jozefit
 "Jozefi i tërhoqi nga gjunjët e të atit dhe u përul me fytyrën në tokë."
 "Pastaj Jozefi i mori që të dy
-"Atëherë Izraeli zgjati dorën e tij të djathtë dhe e vuri mbi kryet e Efraimit që ishte më i riu, dhe vuri dorën e tij të majtë mbi kryet e Manasit duke kryqëzuar duart, ndonëse Manasi ishte i parëlinduri."
+"Atëherë Izraeli zgjati dorën e tij të djathtë dhe e vuri mbi kryet e Efraimit që ishte më i riu, #dhe vuri dorën e tij të majtë mbi kryet e Manasit duke kryqëzuar duart, ndonëse Manasi ishte i parëlinduri."
 "Kështu bekoi Jozefi dhe tha
 "Engjëlli që më ka çliruar nga çdo e keqe, le t'i bekojë këta fëmijë! Le të quhen me emrin tim dhe me emrin e etërve të mi Abraham dhe Isak, dhe të shumohen fort mbi tokë!""."
-"Kur Jozefi pa që i ati kishte vënë dorën e djathtë mbi kokën e Efraimit, kjo nuk i pëlqeu; prandaj ai kapi dorën e atit të tij për ta hequr nga kryet e Efraimit dhe për ta vënë mbi kryet e Manasit."
+"Kur Jozefi pa që i ati kishte vënë dorën e djathtë mbi kokën e Efraimit, kjo nuk i pëlqeu; prandaj ai kapi #dorën e atit të tij për ta hequr nga kryet e Efraimit dhe për ta vënë mbi kryet e Manasit."
 "Pastaj Jozefi i tha atit të tij
 "Por i ati refuzoi dhe tha
 "Dhe atë ditë i bekoi duke thënë

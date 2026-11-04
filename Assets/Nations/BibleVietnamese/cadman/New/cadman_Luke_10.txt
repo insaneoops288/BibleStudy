@@ -10,7 +10,7 @@
 "Song hễ các ngươi vào thành nào, họ không tiếp rước, hãy đi ra ngoài chợ, mà nói rằng
 "Ðối với các ngươi, chúng ta cũng phủi bụi của thành các ngươi đã dính chơn chúng ta; nhưng phải biết nước Ðức Chúa Trời đã đến gần các ngươi rồi."
 "Ta phán cùng các ngươi, đến ngày cuối cùng, thành Sô-đôm sẽ chịu nhẹ hơn thành nầy."
-"Khốn cho mầy, thành Cô-ra-xin! Khốn cho mầy, thành Bết-sai-đa! Vì nếu các phép lạ đã làm giữa bay, đem làm trong thành Ty-rơ và thành Si-đôn, thì hai thành ấy đã mặc áo gai và đội tro mà ăn năn từ lâu rồi."
+"Khốn cho mầy, thành Cô-ra-xin! Khốn cho mầy, thành Bết-sai-đa! Vì nếu các phép lạ đã làm giữa bay, đem làm trong thành #Ty-rơ và thành Si-đôn, thì hai thành ấy đã mặc áo gai và đội tro mà ăn năn từ lâu rồi."
 "Vậy, đến ngày phán xét, thành Ty-rơ và thành Si-đôn sẽ chịu nhẹ hơn bay."
 "Còn mầy, thành Ca-bê-na-um, mầy sẽ được nhắc lên tận trời sao? Không, sẽ bị hạ tới dưới âm phủ!"
 "Ai nghe các ngươi, ấy là nghe ta; ai bỏ các ngươi, ấy là bỏ ta; còn ai bỏ ta, ấy là bỏ Ðấng đã sai ta."

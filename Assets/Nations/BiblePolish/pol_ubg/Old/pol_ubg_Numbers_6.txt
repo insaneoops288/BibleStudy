@@ -18,7 +18,7 @@
 "I nazirejczyk ogoli swoją poświęconą głowę u wejścia do Namiotu Zgromadzenia i weźmie włosy ze swojej poświęconej głowy, i położy je na ogień, który jest pod ofiarą pojednawczą."
 "Następnie kapłan weźmie ugotowaną łopatkę barana, jeden przaśny placek z kosza i jeden przaśny podpłomyk i złoży to w ręce nazirejczyka, gdy ten ogoli swoje poświęcone włosy;"
 "I kapłan będzie to kołysał jako ofiarę kołysania przed PANEM; jest to święta rzecz i należy do kapłana wraz z mostkiem kołysania i łopatką wzniesienia. Potem nazirejczyk będzie mógł pić wino."
-"Takie jest prawo dotyczące nazirejczyka, który składa ślub, jak i jego ofiary dla PANA za jego oddzielenie, oprócz tego, na co go stać. Zgodnie ze swoim ślubem, który złożył, tak uczyni według prawa swego oddzielenia."
+"Takie jest prawo dotyczące nazirejczyka, który składa ślub, jak i jego ofiary dla PANA za jego oddzielenie, oprócz #tego, na co go stać. Zgodnie ze swoim ślubem, który złożył, tak uczyni według prawa swego oddzielenia."
 "Potem PAN powiedział do Mojżesza
 "Powiedz Aaronowi i jego synom
 "Niech ci błogosławi PAN i niech cię strzeże;"

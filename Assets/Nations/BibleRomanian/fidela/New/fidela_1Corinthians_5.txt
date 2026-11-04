@@ -8,6 +8,6 @@
 "De aceea să ținem sărbătoarea nu cu dospeală veche, nici cu dospeala răutății și stricăciunii, ci cu azimele sincerității și ale adevărului."
 "V-am scris în epistolă să nu vă însoțiți cu curvarii;"
 "Și nu neapărat cu curvarii acestei lumi, sau cu cei lacomi, sau cu jecmănitorii, sau cu idolatrii, fiindcă atunci ar trebui să ieșiți din lume."
-"Dar acum v-am scris să nu vă însoțiți [cu] vreunul care, [măcar că] este numit frate, este curvar, sau lacom, sau idolatru, sau defăimător, sau bețiv, sau jecmănitor; cu unul ca acesta nici măcar să nu mâncați."
+"Dar acum v-am scris să nu vă însoțiți [cu] vreunul care, [măcar că] este numit frate, este curvar, sau #lacom, sau idolatru, sau defăimător, sau bețiv, sau jecmănitor; cu unul ca acesta nici măcar să nu mâncați."
 "Fiindcă ce am eu să judec și pe cei de afară? Nu îi judecați voi pe cei dinăuntru?"
 "Dar pe cei de afară, [îi] judecă Dumnezeu. De aceea dați afară pe acel [om] stricat dintre voi."

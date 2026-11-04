@@ -1,4 +1,4 @@
-"Quando saíres à peleja, contra teus inimigos, e vires cavalos, e carros, e povo mais numeroso do que tu, deles não terás temor, pois contigo está o Senhor teu Deus que te fez subir da terra do Egipto."
+"Quando saíres à peleja, contra teus inimigos, e vires cavalos, e carros, e povo mais numeroso do que tu, deles #não terás temor, pois contigo está o Senhor teu Deus que te fez subir da terra do Egipto."
 "Quando estiveres para entrar na peleja, o sacerdote se chegará e falará ao povo,"
 "e lhe dirá
 "pois e Senhor vosso Deus é o que vai convosco, a pelejar por vós contra os vossos inimigos, para vos salvar."
@@ -16,5 +16,5 @@
 "Mas, das cidades destes povos, que o Senhor teu Deus te dá em herança, nada que tem fôlego deixarás com vida;"
 "antes destruí-los-ás totalmente
 "para que não vos ensinem a fazer conforme todas as abominações que eles fazem a seus deuses, e assim pequeis contra o Senhor vosso Deus."
-"Quando sitiares uma cidade por muitos dias, pelejando contra ela para a tomar, não destruirás o seu arvoredo, metendo nele o machado, porque dele poderás comer; pelo que não o cortarás; porventura a árvore do campo é homem, para que seja sitiada por ti?"
+"Quando sitiares uma cidade por muitos dias, pelejando contra ela para a tomar, não destruirás o seu arvoredo, metendo nele o machado, porque #dele poderás comer; pelo que não o cortarás; porventura a árvore do campo é homem, para que seja sitiada por ti?"
 "Somente as árvores que souberes não serem árvores cujo fruto se pode comer, é que destruirás e cortarás, e contra a cidade que guerrear contra ti edificarás baluartes, até que seja vencida."

@@ -3,7 +3,7 @@
 "És nézze meg a pap azt a test bõrén lévõ fakadékot. Ha a szõr a fakadékban fehérré változott, és ha a fakadéknak felülete mélyebben van az õ testének bõrénél
 "Ha pedig fehér folt van a teste bõrén, de annak felülete nincs mélyebben a bõrnél, és a szõre sem változott meg fehérré, akkor rekeszsze külön a pap a fakadékos [embert] hét napig."
 "A hetedik napon pedig nézze meg õt a pap, s ha szerinte a fakadék egy állapotban van, át nem terjedt tovább a fakadék a bõrön, a pap másodszor is rekeszsze õt külön hét napig."
-"Nézze meg õt azután a pap a hetedik napon másodszor is, és ha a fakadék meghalványodott, és nem terjedt tovább a bõrön a fakadék, tisztának ítélje õt a pap; tarjagosság az, mossa meg azért a ruháit és legyen tiszta."
+"Nézze meg õt azután a pap a hetedik napon másodszor is, és ha a fakadék meghalványodott, és nem terjedt tovább #a bõrön a fakadék, tisztának ítélje õt a pap; tarjagosság az, mossa meg azért a ruháit és legyen tiszta."
 "De ha a tarjagosság tovább terjedt a bõrön, miután a papnál az õ megtisztulása végett jelentkezett
 "És ha látja a pap, hogy ímé tovább terjedt a tarjagosság a bõrön
 "Ha poklos fakadék lesz az emberen, vigyék tehát azt a paphoz."
@@ -49,10 +49,10 @@
 "És ha az a fakadék zöld vagy vörhenyes színû a ruhán, vagy bõrön, vagy szöveten, vagy fonadékon, vagy akármely bõrbõl való eszközön
 "És nézze meg a pap a fakadékot és rekeszsze külön [azt a min] a fakadék van, hét napig."
 "A hetedik napon pedig nézze meg a fakadékot. Ha terjed a fakadék a ruhán vagy szöveten, vagy fonadékon vagy bõrön, és akármely készítményen, a mivé a bõr feldolgoztatik
-"Azért égesse meg azt a ruhát, vagy a gyapjúból vagy a lenbõl készült szövetet vagy fonadékot, vagy akármely bõrbõl való eszközt, a melyen a fakadék leend; mert emésztõ poklosság az, tûzön égessék meg [azt.]"
+"Azért égesse meg azt a ruhát, vagy a gyapjúból vagy a lenbõl készült szövetet vagy fonadékot, vagy akármely #bõrbõl való eszközt, a melyen a fakadék leend; mert emésztõ poklosság az, tûzön égessék meg [azt.]"
 "De ha megnézi a pap, és ímé nem terjedt a fakadék a ruhán, vagy szöveten, vagy fonadékon, vagy akármely bõrbõl való eszközön
 "Akkor parancsolja meg a pap, hogy mossák meg azt, a min a fakadék van, és rekeszsze külön azt másodszor is hét napig."
-"Ha pedig megnézi azt a pap a mosás után, és ímé a fakadék nem változtatta meg a színét; ha nem terjedt is a fakadék, tisztátalan az, tûzben égesd meg azt; beevõdés az, akár a fonákján, akár a színén legyen az."
+"Ha pedig megnézi azt a pap a mosás után, és ímé a fakadék nem változtatta meg a színét; ha nem terjedt #is a fakadék, tisztátalan az, tûzben égesd meg azt; beevõdés az, akár a fonákján, akár a színén legyen az."
 "De ha látja a pap, hogy ímé meghalványodék a fakadék a megmosatása után
 "És ha mégis mutatkozik a ruhán vagy szöveten, vagy fonadékon, vagy akármely bõrbõl való eszközön
 "Azt a ruhát pedig, vagy szövetet, vagy fonadékot, vagy akármely bõrbõl való eszközt, a melyet megmostál, ha eltávozik rólok a fakadék, mosd meg másodszor is, és tiszta lesz."

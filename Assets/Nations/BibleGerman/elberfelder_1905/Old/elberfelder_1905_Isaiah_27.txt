@@ -1,4 +1,4 @@
-"An jenem Tage wird Jehova mit seinem Schwerte, dem harten und großen und starken, heimsuchen den Leviathan, die flüchtige Schlange, und den Leviathan, die gewundene Schlange, und wird das Ungeheuer töten, welches im Meere ist."
+"An jenem Tage wird Jehova mit seinem Schwerte, dem harten und großen und starken, heimsuchen den Leviathan, die #flüchtige Schlange, und den Leviathan, die gewundene Schlange, und wird das Ungeheuer töten, welches im Meere ist."
 "An jenem Tage wird man singen
 "Ich, Jehova, behüte ihn, bewässere ihn alle Augenblicke; daß nichts ihn heimsuche, behüte ich ihn Nacht und Tag."
 "Grimm habe ich nicht. O hätte ich Dornen und Disteln vor mir, im Kriege würde ich auf sie losschreiten, sie verbrennen allzumal!"
@@ -9,5 +9,5 @@
 "Deshalb wird dadurch gesühnt werden die Ungerechtigkeit Jakobs. Und dies ist die ganze Frucht der Hinwegnahme seiner Sünde
 "Denn die feste Stadt ist einsam, eine preisgegebene und verlassene Wohnstätte wie die Steppe; daselbst weiden Kälber, und daselbst lagern sie und fressen ihre Zweige ab;"
 "wenn ihre Reiser dürr geworden sind, werden sie abgebrochen
-"Und es wird geschehen an jenem Tage, da wird Jehova Getreide ausschlagen von der Strömung des Euphrat bis zum BacheÄgyptens; und ihr werdet zusammengelesen werden, einer zu dem anderen, ihr Kinder Israel."
-"Und es wird geschehen an jenem Tage, da wird in eine große Posaune gestoßen werden, und die Verlorenen im Lande Assyrien und die Vertriebenen im LandÄgypten werden kommen und Jehova anbeten auf dem heiligen Berge zu Jerusalem."
+"Und es wird geschehen an jenem Tage, da wird Jehova Getreide ausschlagen von der Strömung des Euphrat #bis zum BacheÄgyptens; und ihr werdet zusammengelesen werden, einer zu dem anderen, ihr Kinder Israel."
+"Und es wird geschehen an jenem Tage, da wird in eine große Posaune gestoßen werden, und die Verlorenen im #Lande Assyrien und die Vertriebenen im LandÄgypten werden kommen und Jehova anbeten auf dem heiligen Berge zu Jerusalem."

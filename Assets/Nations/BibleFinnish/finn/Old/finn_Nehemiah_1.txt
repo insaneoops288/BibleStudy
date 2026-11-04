@@ -3,9 +3,9 @@
 "Ja he sanoivat minulle
 "Kuin minä senkaltaiset sanat kuulin, niin minä istuin ja murehdin muutamat päivät, paastosin ja rukoilin taivaan Jumalan edessä,"
 "Ja sanoin
-"Anna korvas kuulla ja silmäs avoinna olla, kuulemaan palvelias rukousta, kuin minä nyt rukoilen sinun edessäs yöt ja päivät palveliais Israelin lasten edessä; ja minä tunnustan Israelin lasten synnit, jotka me olemme tehneet sinua vastaan; ja minä ja minun isäni huone olemme syntiä tehneet."
+"Anna korvas kuulla ja silmäs avoinna olla, kuulemaan palvelias rukousta, kuin minä nyt rukoilen sinun edessäs yöt ja päivät palveliais Israelin lasten edessä; #ja minä tunnustan Israelin lasten synnit, jotka me olemme tehneet sinua vastaan; ja minä ja minun isäni huone olemme syntiä tehneet."
 "Me olemme kovin turmelleet itsemme, ettemme ole pitäneet sinun käskyjäs, säätyjäs ja oikeuttas, joitas olet palvelialles Mosekselle käskenyt."
 "Mutta muista kuitenkin sitä sanaa, jonka sinä käskit Mosekselle palvelialles ja sanoit
 "Mutta jos te palajatte minun tyköni, ja pidätte minun käskyni ja teette ne
 "He ovat kuitenkin sinun palvelias ja sinun kansas, jotkas vapahdit suurella voimallas ja väkevällä kädelläs."
-"O Herra! olkoon korvas avoinna palvelias rukoukseen ja sinun palveliais rukouksiin, jotka pyytävät peljätä sinun nimeäs, ja anna palvelias tänäpänä menestyä, ja anna heille armo tämän miehen edessä! Sillä minä olin kuninkaan juomanlaskia."
+"O Herra! olkoon korvas avoinna palvelias rukoukseen ja sinun palveliais rukouksiin, jotka pyytävät peljätä sinun nimeäs, ja #anna palvelias tänäpänä menestyä, ja anna heille armo tämän miehen edessä! Sillä minä olin kuninkaan juomanlaskia."

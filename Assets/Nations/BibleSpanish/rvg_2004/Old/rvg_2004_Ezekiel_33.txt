@@ -3,7 +3,7 @@
 "y él viere venir la espada sobre la tierra, y tocare trompeta, y avisare al pueblo;"
 "cualquiera que oyere el sonido de la trompeta, y no se apercibiere, y viniendo la espada lo tomare, su sangre será sobre su cabeza."
 "El sonido de la trompeta oyó, y no se apercibió; su sangre será sobre él; mas el que se apercibiere, librará su vida."
-"Pero si el atalaya viere venir la espada, y no tocare la trompeta, y el pueblo no se apercibiere, y viniendo la espada, tomare de él a alguno; por causa de su pecado fue tomado, pero demandaré su sangre de mano del atalaya."
+"Pero si el atalaya viere venir la espada, y no tocare la trompeta, y el pueblo no se apercibiere, y viniendo la #espada, tomare de él a alguno; por causa de su pecado fue tomado, pero demandaré su sangre de mano del atalaya."
 "A ti, pues, hijo de hombre, te he puesto por atalaya a la casa de Israel, y oirás la palabra de mi boca, y los amonestarás de mi parte."
 "Cuando yo dijere al impío
 "Y si tú avisares al impío de su camino para que de él se aparte, y él no se apartare de su camino, él morirá por su pecado, pero tú libraste tu vida."
@@ -28,6 +28,6 @@
 "Y pondré la tierra en desierto y en soledad, y cesará la soberbia de su fortaleza; y los montes de Israel serán asolados, que no habrá quien pase."
 "Y sabrán que yo soy Jehová, cuando pusiere la tierra en soledad y desierto, por todas las abominaciones que han hecho."
 "Y tú, hijo de hombre, los hijos de tu pueblo se mofan de ti junto a las paredes y a las puertas de las casas, y habla el uno con el otro, cada uno con su hermano, diciendo
-"Y vendrán a ti como viene el pueblo, y estarán delante de ti [como] mi pueblo, y oirán tus palabras, y no las pondrán por obra; porque con su boca muestran mucho amor, pero su corazón va en pos de su avaricia."
+"Y vendrán a ti como viene el pueblo, y estarán delante de ti [como] mi pueblo, y oirán tus palabras, y no #las pondrán por obra; porque con su boca muestran mucho amor, pero su corazón va en pos de su avaricia."
 "Y he aquí que tú eres a ellos como cantor de amores, agradable de voz y que toca bien un instrumento; oyen tus palabras, pero no las ponen por obra."
 "Pero cuando esto sucediere (he aquí, viene), sabrán que hubo profeta entre ellos."

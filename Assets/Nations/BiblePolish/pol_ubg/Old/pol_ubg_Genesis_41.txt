@@ -5,7 +5,7 @@
 "A gdy usnął, śnił po raz drugi. A oto siedem pełnych i cudnych kłosów wyrastało z jednego źdźbła."
 "Oto też siedem kłosów cienkich i wysuszonych od wiatru wschodniego wyrastało za nimi."
 "I te cienkie kłosy pożarły siedem pięknych i pełnych kłosów. Wtedy faraon się obudził, a był to sen."
-"A gdy nastał ranek, był zaniepokojony w duchu i kazał wezwać wszystkich wróżbitów i mędrców Egiptu. I opowiedział im faraon swoje sny, ale nie było nikogo, kto by potrafił je faraonowi wytłumaczyć."
+"A gdy nastał ranek, był zaniepokojony w duchu i kazał wezwać wszystkich wróżbitów i mędrców Egiptu. I #opowiedział im faraon swoje sny, ale nie było nikogo, kto by potrafił je faraonowi wytłumaczyć."
 "Wtedy przełożony podczaszych powiedział do faraona
 "Faraon rozgniewał się na swoje sługi i oddał mnie pod straż w domu dowódcy straży, mnie i przełożonego piekarzy."
 "Tam jednej nocy śnił się nam sen, mnie i jemu; każdemu śnił się sen według jego wytłumaczenia."

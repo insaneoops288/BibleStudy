@@ -28,7 +28,7 @@
 "Căci, care dintre voi, vrând să zidească un turn, nu se așază mai întâi și socotește costul, dacă are [cu ce] să îl termine?"
 "Ca nu cumva, punând el temelia și nefiind în stare să termine, toți cei ce [îl] văd, să înceapă să își bată joc de el,"
 "Spunând
-"Sau, care împărat, mergând să facă război împotriva altui împărat, nu se așază mai întâi și se consultă dacă este în stare să îl întâmpine cu zece mii pe cel ce vine împotriva lui cu douăzeci de mii?"
+"Sau, care împărat, mergând să facă război împotriva altui împărat, nu se așază mai întâi și se consultă dacă este #în stare să îl întâmpine cu zece mii pe cel ce vine împotriva lui cu douăzeci de mii?"
 "Iar dacă nu, pe când celălalt este încă departe, trimițând o solie, cere condiții de pace."
 "Tot așa, oricine dintre voi care nu renunță la tot ce are, nu poate fi discipolul meu."
 "Sarea [este] bună, dar dacă sarea își pierde gustul, cu ce va fi dreasă;"

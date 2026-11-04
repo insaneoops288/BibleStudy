@@ -3,7 +3,7 @@
 "Mas fiel es el Señor, que os confirmará y guardará del mal."
 "Y tenemos confianza de vosotros en el Señor, que hacéis y haréis lo que os hemos mandado."
 "Y el Señor enderece vuestros corazones en la caridad de Dios, y en la esperanza del Cristo."
-"Pero os denunciamos, hermanos, en el nombre del Señor nuestro Jesús, el Cristo, que os apartéis de todo hermano que anduviere fuera de orden, y no conforme a la doctrina que recibieron de nosotros;"
+"Pero os denunciamos, hermanos, en el nombre del Señor nuestro Jesús, el Cristo, que os apartéis de todo #hermano que anduviere fuera de orden, y no conforme a la doctrina que recibieron de nosotros;"
 "porque vosotros sabéis de qué manera es necesario imitarnos, porque no anduvimos desordenadamente entre vosotros,"
 "ni comimos el pan de balde de ninguno; sino obrando con trabajo y fatiga de noche y de día, para no ser gravosos a ninguno de vosotros;"
 "no porque no tuviésemos potestad, sino por daros en nosotros un ejemplo, para que nos imitaseis."

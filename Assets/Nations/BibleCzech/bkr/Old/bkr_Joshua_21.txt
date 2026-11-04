@@ -41,5 +41,5 @@
 "A tak všech měst Levítských u prostřed vládařství synů Izraelských měst čtyřidceti osm s předměstími svými."
 "Mělo pak to město jedno každé obzvláštně svá předměstí vůkol sebe, a taková byla všecka ta města."
 "Dal tedy Hospodin Izraelovi všecku tu zemi, kterouž s přísahou zaslíbil dáti otcům jejich; i opanovali ji dědičně, a bydlili v ní."
-"Dal také Hospodin jim odpočinutí se všech stran podlé všeho, jakž byl s přísahou zaslíbil otcům jejich, aniž kdo byl, ješto by ostál proti nim ze všech nepřátel jejich; všecky nepřátely jejich dal Hospodin v ruku jejich."
+"Dal také Hospodin jim odpočinutí se všech stran podlé všeho, jakž byl s přísahou zaslíbil otcům jejich, aniž kdo #byl, ješto by ostál proti nim ze všech nepřátel jejich; všecky nepřátely jejich dal Hospodin v ruku jejich."
 "Nepominulo ani jedno slovo ze všelikého slova dobrého, kteréž mluvil Hospodin k domu Izraelskému, ale všecko se tak stalo."

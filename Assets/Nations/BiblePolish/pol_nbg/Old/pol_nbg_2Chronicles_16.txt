@@ -11,4 +11,4 @@
 "A oto sprawy Asy, te pierwsze i ostatnie, zapisane są w Księgach Królów Judy i Israela."
 "Zaś trzydziestego dziewiątego roku swojego panowania Asa zaniemógł na swoje nogi, bardzo ciężką chorobą; a jednak w swojej chorobie nie szukał WIEKUISTEGO, ale lekarzy."
 "I Asa zasnął ze swymi przodkami, a umarł czterdziestego pierwszego roku swojego panowania."
-"Więc pochowano go w jego grobie, który sobie kupiłw mieście Dawida. Położono go na łożu, które napełniono wonnościami i różnymi maściami aptekarskiej roboty. Podczas pogrzebu palili mu także bardzo wielki ogień."
+"Więc pochowano go w jego grobie, który sobie kupiłw mieście Dawida. Położono go na łożu, które #napełniono wonnościami i różnymi maściami aptekarskiej roboty. Podczas pogrzebu palili mu także bardzo wielki ogień."

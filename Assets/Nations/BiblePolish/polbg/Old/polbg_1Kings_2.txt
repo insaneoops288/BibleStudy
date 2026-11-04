@@ -1,11 +1,11 @@
 "A gdy się przybliżał czas śmierci Dawidowej, rozkazał Salomonowi, synowi swemu, mówiąc
 "Ja idę w drogę wszystkiej ziemi, a ty zmacniaj się, i bądź mężem."
-"Zachowywaj ustawy Pana, Boga twego, abyś chodził drogami jego, i przestrzegał wyroków jego, i przykazań jego i sądów jego, i świadectw jego, jako napisano w zakonie Mojżeszowym, abyć się szczęściło wszystko, co sprawować będziesz, i we wszystkiem, do czego się obrócisz
+"Zachowywaj ustawy Pana, Boga twego, abyś chodził drogami jego, i przestrzegał wyroków jego, i przykazań jego i sądów jego, i świadectw #jego, jako napisano w zakonie Mojżeszowym, abyć się szczęściło wszystko, co sprawować będziesz, i we wszystkiem, do czego się obrócisz
 "Żeby utwierdził Pan słowo swoje, które rzekł do mnie, mówiąc
-"A ty też wiesz, co mi uczynił Joab syn Sarwii, co uczynił dwom hetmanom wojsk Izraelskich, Abnerowi, synowi Nerowemu, i Amazie, synowi Jeterowemu, że je pozabijał, a wylał krew jako na wojnie czasu pokoju, i zmazał krwią jako na wojnie pas swój rycerski, który miał na biodrach swoich, i bóty swoje, które miał na nogach swoich."
+"A ty też wiesz, co mi uczynił Joab syn Sarwii, co uczynił dwom hetmanom wojsk Izraelskich, Abnerowi, synowi Nerowemu, i Amazie, synowi Jeterowemu, że je pozabijał, a wylał krew #jako na wojnie czasu pokoju, i zmazał krwią jako na wojnie pas swój rycerski, który miał na biodrach swoich, i bóty swoje, które miał na nogach swoich."
 "Uczynisz tedy według mądrości twojej, a nie dopuścisz zejść sędziwości jego w pokoju do grobu."
 "Ale nad synami Barsylai Galaadczyka użyjesz miłosierdzia, a niech jadają wespół z inszymi u stołu twego; albowiem oni takimże sposobem przyszli do mnie, gdym uciekał przed Absalomem, bratem twoim."
-"Oto też jest u ciebie Semej, syn Giery, syna Jemini, z Bahurym, który mi też złorzeczył złorzeczeniem wielkiem w on dzień, gdym szedł do Mahanaim; a wszakże zaszedł mi drogę u Jordanu, i przysiągłem mu przez Pana, mówiąc
+"Oto też jest u ciebie Semej, syn Giery, syna Jemini, z Bahurym, który mi też złorzeczył złorzeczeniem wielkiem w on #dzień, gdym szedł do Mahanaim; a wszakże zaszedł mi drogę u Jordanu, i przysiągłem mu przez Pana, mówiąc
 "Teraz jednak nie przepuszczaj mu tego, a iżeś jest mężem mądrym, będziesz wiedział, co mu masz uczynić, abyś wprowadził sędziwość jego ze krwią do grobu."
 "Zatem zasnął Dawid z ojcy swoimi, a pogrzebiony jest w mieście Dawidowem."
 "A dni, których królował Dawid nad Izraelem, było czterdzieści lat. W Hebronie królował siedm lat, a w Jeruzalemie królował trzydzieści i trzy lata."
@@ -16,7 +16,7 @@
 "Przetoż cię teraz proszę o jednę rzecz, a nie odmawiaj mi tego. A ona mu rzekła
 "Zatem on rzekł
 "I odpowiedziała Betsaba
-"A tak szła Betsaba do króla Salomona, aby z nim mówiła za Adonijaszem; i wstał król przeciwko niej, a pokłoniwszy się jej usiadł na stolicy swej; kazał też postawić stolicę matce swej, która siadła po prawicy jego."
+"A tak szła Betsaba do króla Salomona, aby z nim mówiła za Adonijaszem; i wstał król przeciwko niej, a #pokłoniwszy się jej usiadł na stolicy swej; kazał też postawić stolicę matce swej, która siadła po prawicy jego."
 "I rzekła
 "Tedy rzekła
 "Lecz odpowiedział król Salomon, i rzekł matce swojej

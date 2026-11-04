@@ -2,7 +2,7 @@
 "Kështu thotë Zoti
 "Sepse zakonet e popujve janë kotësi
 "E zbukurojnë me argjend dhe me ar, e fiksojnë me gozhda dhe çekiçë që të mos lëvizë nga vendi."
-"Idhujt qëndrojnë drejt si një palmë dhe nuk mund të flasin; duhet t'i mbartësh, sepse nuk mund të ecin. Mos kini frikë prej tyre, sepse nuk mund të bëjnë asnjë të keqe dhe as që kanë mundësinë të bëjnë të mirë""."
+"Idhujt qëndrojnë drejt si një palmë dhe nuk mund të flasin; duhet t'i mbartësh, sepse nuk mund të ecin. Mos kini #frikë prej tyre, sepse nuk mund të bëjnë asnjë të keqe dhe as që kanë mundësinë të bëjnë të mirë""."
 "Askush nuk është i ngjashëm me ty, o Zot; ti je i madh dhe emri i yt është i madh në fuqi."
 "Kush nuk do të kishte frikë prej teje, o mbret i kombeve? Po, kjo të detyrohet, sepse midis gjithë njerëzve të ditur të kombeve, në të gjitha mbretëritë e tyre nuk ka njeri të ngjashëm me ty."
 "Janë të gjithë budallenj dhe pa arsye; idhulli i tyre prej druri është një doktrinë pa asnjë vlerë."
@@ -22,4 +22,4 @@
 "Ja, po vjen një zhurmë lajmesh dhe një rrëmujë e madhe nga vendi i veriut, për t'i katandisur qytetet e Judës si shkretëtira, si strehim për çakejtë."
 "O Zot, unë e di që rruga e njeriut nuk varet nga fuqia e tij dhe njeriu që ecën nuk ka fuqi të drejtojë hapat e tij."
 "Më korrigjo, o Zot, por me drejtësi, jo në zemërimin tënd për të mos më reduktuar në asgjë."
-"Lëshoje zemërimin tënd mbi kombet që nuk të njohin dhe mbi popujt që nuk përmendin emrin tënd, sepse kanë gllabëruar Jakobin; po, e kanë gllabëruar dhe konsumuar dhe kanë shkatërruar banesën e tij."
+"Lëshoje zemërimin tënd mbi kombet që nuk të njohin dhe mbi popujt që nuk përmendin emrin tënd, #sepse kanë gllabëruar Jakobin; po, e kanë gllabëruar dhe konsumuar dhe kanë shkatërruar banesën e tij."

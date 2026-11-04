@@ -4,7 +4,7 @@
 "Și astfel de încredere avem prin Cristos către Dumnezeu,"
 "Nu că suntem suficienți prin noi înșine să gândim ceva ca din noi înșine, dar abilitatea noastră [este] de la Dumnezeu,"
 "Care de asemenea ne-a făcut servitori capabili ai noului testament; nu ai literei, ci ai duhului, fiindcă litera ucide, dar duhul dă viață."
-"Dar dacă serviciul morții scris [și] săpat în pietre era cu glorie, încât copiii lui Israel nu puteau să privească țintă la fața lui Moise din cauza gloriei feței lui, [glorie] care urma să fie desființată,"
+"Dar dacă serviciul morții scris [și] săpat în pietre era cu glorie, încât copiii lui Israel nu puteau să #privească țintă la fața lui Moise din cauza gloriei feței lui, [glorie] care urma să fie desființată,"
 "Cum să nu fie mai degrabă cu glorie serviciul duhului?"
 "Căci dacă serviciul condamnării [este] glorie, cu cât mai mult serviciul dreptății [îl] întrece în glorie;"
 "Fiindcă tocmai ce a fost făcut glorios în acest sens, nu avea glorie, din cauza gloriei care [o] întrece cu mult."

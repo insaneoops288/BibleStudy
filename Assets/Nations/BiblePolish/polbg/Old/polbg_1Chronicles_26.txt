@@ -28,5 +28,5 @@
 "I wszystko, co był poświęcił Samuel widzący, i Saul, syn Cysowy, i Abner, syn Nera, i Joab, syn Sarwii, i ktokolwiek co poświęcał, oddawał do rąk Salomitowych i braci jego."
 "Z Izaarytów
 "Z Hebrończyków
-"A z Hebrończyków był Jeryjasz przedniejszy nad Hebrończykami według narodów ich i domów ojcowskich. Bo roku czterdziestego królestwa Dawidowego szukano i znaleziono między nimi mężów bardzo mocnych w Jazer Galaadskiem."
-"A braci jego, mężów godnych, było dwa tysiące i siedm set przedniejszych w domach ojcowskich. I postanowił ich Dawid król nad Rubeńczykami, i nad Gadczykami, i nad połową pokolenia Manasesowego, nad wszystkiemi sprawami Bożemi i sprawami królewskiemi."
+"A z Hebrończyków był Jeryjasz przedniejszy nad Hebrończykami według narodów ich i domów ojcowskich. Bo roku #czterdziestego królestwa Dawidowego szukano i znaleziono między nimi mężów bardzo mocnych w Jazer Galaadskiem."
+"A braci jego, mężów godnych, było dwa tysiące i siedm set przedniejszych w domach ojcowskich. I postanowił ich Dawid #król nad Rubeńczykami, i nad Gadczykami, i nad połową pokolenia Manasesowego, nad wszystkiemi sprawami Bożemi i sprawami królewskiemi."

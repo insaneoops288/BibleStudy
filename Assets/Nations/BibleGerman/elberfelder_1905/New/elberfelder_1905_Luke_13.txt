@@ -31,5 +31,5 @@
 "In derselben Stunde kamen einige Pharisäer herzu und sagten zu ihm
 "Und er sprach zu ihnen
 "Doch ich muß heute und morgen und am folgenden Tage wandeln; denn es geht nicht an, daß ein Prophet außerhalb Jerusalems umkomme."
-"Jerusalem, Jerusalem, die da tötet die Propheten und steinigt, die zu ihr gesandt sind! Wie oft habe ich deine Kinder versammeln wollen, wie eine Henne ihre Brut unter die Flügel, und ihr habt nicht gewollt!"
+"Jerusalem, Jerusalem, die da tötet die Propheten und steinigt, die zu ihr gesandt sind! Wie oft habe ich #deine Kinder versammeln wollen, wie eine Henne ihre Brut unter die Flügel, und ihr habt nicht gewollt!"
 "Siehe, euer Haus wird euchüberlassen. Ich sage euch aber

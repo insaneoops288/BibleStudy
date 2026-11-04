@@ -2,7 +2,7 @@
 "Y había quien decía
 "Y había quienes decían
 "Y había quienes decían
-"Ahora bien, nuestra carne es como la carne de nuestros hermanos, nuestros hijos como sus hijos; y he aquí que nosotros sujetamos nuestros hijos y nuestras hijas á servidumbre, y hay algunas de nuestras hijas sujetas
+"Ahora bien, nuestra carne es como la carne de nuestros hermanos, nuestros hijos como sus hijos; y he aquí #que nosotros sujetamos nuestros hijos y nuestras hijas á servidumbre, y hay algunas de nuestras hijas sujetas
 "Y enojéme en gran manera cuando oí su clamor y estas palabras."
 "Medité lo entonces para conmigo, y reprendí á los principales y á los magistrados, y díjeles
 "Y díjeles
@@ -11,7 +11,7 @@
 "Ruégoos que les devolváis hoy sus tierras, sus viñas, sus olivares, y sus casas, y la centésima parte del dinero y grano, del vino y del aceite que demandáis de ellos."
 "Y dijeron
 "Además sacudí mi vestido, y dije
-"También desde el día que me mandó el rey que fuese gobernador de ellos en la tierra de Judá, desde el año veinte del rey Artajerjes hasta el año treinta y dos, doce años, ni yo ni mis hermanos comimos el pan del gobernador."
+"También desde el día que me mandó el rey que fuese gobernador de ellos en la tierra de Judá, desde el año veinte #del rey Artajerjes hasta el año treinta y dos, doce años, ni yo ni mis hermanos comimos el pan del gobernador."
 "Mas los primeros gobernadores que fueron antes de mí, cargaron al pueblo, y tomaron de ellos por el pan y por el vino sobre cuarenta siclos de plata
 "También en la obra de este muro instauré mi parte, y no compramos heredad
 "Además ciento y cincuenta hombres de los Judíos y magistrados, y los que venían á nosotros de las gentes que están en nuestros contornos, estaban á mi mesa."

@@ -9,5 +9,5 @@
 "Ju i dëboni gratë e popullit tim nga shtëpitë tyre të mrekullueshme dhe u rrëmbeni për gjithnjë lavdinë time fëmijëve të tyre."
 "Çohuni dhe ikni, sepse ky nuk është një vend prehjeje; duke qenë i ndotur do t'ju shkatërroj me një shkatërrim të llahtarshëm."
 "Edhe sikur një njeri të ecte me një frymë falsiteti dhe të përhapte gënjeshtra, duke thënë
-"""Do të mbledh me siguri gjithçka, o Jakob, do të mbledh me siguri mbeturinën e Izraelit; do t'i vë bashkë si delet në një vathë, si një kope në mes të kullotës së vet; do të bëjnë një zhurmë të madhe për shkak të morisë së njerëzve."
-"Kush do të hapë të çarën, do të ngjitet para tyre; ata do të depërtojnë, do të kalojnë nga porta dhe prej saj kanë për të dalë; mbreti i tyre do të ecë para tyre dhe Zoti do të jetë në krye të tyre""."
+"""Do të mbledh me siguri gjithçka, o Jakob, do të mbledh me siguri mbeturinën e Izraelit; do t'i vë bashkë si delet në një #vathë, si një kope në mes të kullotës së vet; do të bëjnë një zhurmë të madhe për shkak të morisë së njerëzve."
+"Kush do të hapë të çarën, do të ngjitet para tyre; ata do të depërtojnë, do të kalojnë nga porta dhe prej saj #kanë për të dalë; mbreti i tyre do të ecë para tyre dhe Zoti do të jetë në krye të tyre""."

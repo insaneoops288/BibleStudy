@@ -14,7 +14,7 @@
 "Et maintenant, voici, je m'en vais vers mon peuple. Viens, que je te déclare ce que ce peuple fera à ton peuple dans la suite des temps."
 "Alors il prononça son discours sentencieux, et dit
 "Oracle de celui qui entend les paroles de Dieu, qui connaît la science du Très-Haut, qui voit la vision du Tout-Puissant, qui se prosterne et dont les yeux sont ouverts."
-"Je le vois, mais non maintenant; je le contemple, mais non de près; une étoile est sortie de Jacob, et un sceptre s'est élevé d'Israël; il frappera les deux régions de Moab, il détruira tous les enfants du tumulte."
+"Je le vois, mais non maintenant; je le contemple, mais non de près; une étoile est sortie de Jacob, et #un sceptre s'est élevé d'Israël; il frappera les deux régions de Moab, il détruira tous les enfants du tumulte."
 "Édom sera possédé, Séir sera possédé par ses ennemis, et Israël agira vaillamment."
 "Et celui qui vient de Jacob dominera, et extirpera les réchappés des villes."
 "Il vit aussi Amalek. Et il prononça son discours sentencieux, et dit

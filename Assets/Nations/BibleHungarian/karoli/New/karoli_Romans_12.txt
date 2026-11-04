@@ -1,6 +1,6 @@
 "Kérlek azért titeket atyámfiai az Istennek irgalmasságára, hogy szánjátok oda a ti testeiteket élõ, szent és Istennek kedves áldozatul, mint a ti okos tiszteleteteket."
 "És ne szabjátok magatokat e világhoz, hanem változzatok el a ti elméteknek megújulása által, hogy megvizsgáljátok, mi az Istennek jó, kedves és tökéletes akarata."
-"Mert a nékem adott kegyelem által mondom mindenkinek közöttetek, hogy feljebb ne bölcselkedjék, mint a hogy kell bölcselkedni; hanem józanon bölcselkedjék, a mint az Isten adta kinek-kinek a hit mértékét."
+"Mert a nékem adott kegyelem által mondom mindenkinek közöttetek, hogy feljebb ne bölcselkedjék, mint a hogy #kell bölcselkedni; hanem józanon bölcselkedjék, a mint az Isten adta kinek-kinek a hit mértékét."
 "Mert miképen egy testben sok tagunk van, minden tagnak pedig nem ugyanazon cselekedete van
 "Azonképen sokan egy test vagyunk a Krisztusban, egyenként pedig egymásnak tagjai [vagyunk.]"
 "Minthogy azért külön-külön ajándékaink vannak a nékünk adott kegyelem szerint, akár írásmagyarázás, a hitnek szabálya szerint [teljesítsük;]"

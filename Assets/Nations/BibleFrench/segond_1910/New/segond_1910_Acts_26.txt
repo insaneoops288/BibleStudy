@@ -7,7 +7,7 @@
 "et à laquelle aspirent nos douze tribus, qui servent Dieu continuellement nuit et jour. C'est pour cette espérance, ô roi, que je suis accusé par des Juifs!"
 "Quoi! vous semble-t-il incroyable que Dieu ressuscite les morts?"
 "Pour moi, j'avais cru devoir agir vigoureusement contre le nom de Jésus de Nazareth."
-"C'est ce que j'ai fait à Jérusalem. J'ai jeté en prison plusieurs des saints, ayant reçu ce pouvoir des principaux sacrificateurs, et, quand on les mettait à mort, je joignais mon suffrage à celui des autres."
+"C'est ce que j'ai fait à Jérusalem. J'ai jeté en prison plusieurs des saints, ayant reçu ce pouvoir des #principaux sacrificateurs, et, quand on les mettait à mort, je joignais mon suffrage à celui des autres."
 "je les ai souvent châtiés dans toutes les synagogues, et je les forçais à blasphémer. Dans mes excès de fureur contre eux, je les persécutais même jusque dans les villes étrangères."
 "C'est dans ce but que je me rendis à Damas, avec l'autorisation et la permission des principaux sacrificateurs."
 "Vers le milieu du jour, ô roi, je vis en chemin resplendir autour de moi et de mes compagnons une lumière venant du ciel, et dont l'éclat surpassait celui du soleil."
@@ -15,11 +15,11 @@
 "Je répondis
 "Mais lève-toi, et tiens-toi sur tes pieds; car je te suis apparu pour t'établir ministre et témoin des choses que tu as vues et de celles pour lesquelles je t'apparaîtrai."
 "Je t'ai choisi du milieu de ce peuple et du milieu des païens, vers qui je t'envoie,"
-"afin que tu leur ouvres les yeux, pour qu'ils passent des ténèbres à la lumière et de la puissance de Satan à Dieu, pour qu'ils reçoivent, par la foi en moi, le pardon des péchés et l'héritage avec les sanctifiés."
+"afin que tu leur ouvres les yeux, pour qu'ils passent des ténèbres à la lumière et de la puissance de Satan #à Dieu, pour qu'ils reçoivent, par la foi en moi, le pardon des péchés et l'héritage avec les sanctifiés."
 "En conséquence, roi Agrippa, je n'ai point résisté à la vision céleste
 "à ceux de Damas d'abord, puis à Jérusalem, dans toute la Judée, et chez les païens, j'ai prêché la repentance et la conversion à Dieu, avec la pratique d'oeuvres dignes de la repentance."
 "Voilà pourquoi les Juifs se sont saisis de moi dans le temple, et ont tâché de me faire périr."
-"Mais, grâce au secours de Dieu, j'ai subsisté jusqu'à ce jour, rendant témoignage devant les petits et les grands, sans m'écarter en rien de ce que les prophètes et Moïse ont déclaré devoir arriver,"
+"Mais, grâce au secours de Dieu, j'ai subsisté jusqu'à ce jour, rendant témoignage devant les petits et les #grands, sans m'écarter en rien de ce que les prophètes et Moïse ont déclaré devoir arriver,"
 "savoir que le Christ souffrirait, et que, ressuscité le premier d'entre les morts, il annoncerait la lumière au peuple et aux nations."
 "Comme il parlait ainsi pour sa justification, Festus dit à haute voix
 "Je ne suis point fou, très excellent Festus, répliqua Paul; ce sont, au contraire, des paroles de vérité et de bon sens que je prononce."

@@ -21,7 +21,7 @@
 "Synowie Merarego to
 "I Elazar umarł, a nie miał synów, tylko córki, które pojmowali synowie Kisza, ich krewni."
 "Natomiast synowie Muszy’ego to
-"Ci są potomkami Lewiego według domów swych przodków; przedniejsi ojców, od dwudziestu lat i wyżej, którzy zostali policzeni z osobna według liczby swych imion i osób, i którzy sprawowali służbę usługiwania w Domu WIEKUISTEGO."
+"Ci są potomkami Lewiego według domów swych przodków; przedniejsi ojców, od dwudziestu lat i wyżej, którzy zostali policzeni #z osobna według liczby swych imion i osób, i którzy sprawowali służbę usługiwania w Domu WIEKUISTEGO."
 "Bowiem Dawid powiedział
 "Nadto i Lewici nie będą nosić Przybytku oraz wszystkich jego naczyń do usługiwania;"
 "więc według ostatniego postanowienia Dawida, zostali policzeni synowie Lewiego od dwudziestu lat i wyżej,"

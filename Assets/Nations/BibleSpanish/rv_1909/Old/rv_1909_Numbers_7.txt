@@ -10,13 +10,13 @@
 "Y ofrecieron los príncipes á la dedicación del altar el día que fué ungido, ofrecieron los príncipes su ofrenda delante del altar."
 "Y Jehová dijo á Moisés
 "Y el que ofreció su ofrenda el primer día fué Naasón hijo de Aminadab, de la tribu de Judá."
-"Y fué su ofrenda un plato de plata de peso de ciento y treinta siclos, y un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+"Y fué su ofrenda un plato de plata de peso de ciento y treinta siclos, y un jarro de plata #de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
 "Una cuchara de oro de diez siclos, llena de perfume;"
 "Un becerro, un carnero, un cordero de un año para holocausto;"
 "Un macho cabrío para expiación;"
 "Y para sacrificio de paces, dos bueyes, cinco carneros, cinco machos de cabrío, cinco corderos de un año. Esta fué la ofrenda de Naasón, hijo de Aminadab."
 "El segundo día ofreció Nathanael hijo de Suar, príncipe de Issachâr."
-"Ofreció por su ofrenda un plato de plata de ciento y treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+"Ofreció por su ofrenda un plato de plata de ciento y treinta siclos de peso, un jarro de plata #de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
 "Una cuchara de oro de diez siclos, llena de perfume;"
 "Un becerro, un carnero, un cordero de un año para holocausto;"
 "Un macho cabrío para expiación;"
@@ -85,5 +85,5 @@
 "Cada plato de ciento y treinta siclos, cada jarro de setenta
 "Las doce cucharas de oro llenas de perfume, de diez siclos cada cuchara, al siclo del santuario
 "Todos los bueyes para holocausto, doce becerros; doce los carneros, doce los corderos de un año, con su presente
-"Y todos los bueyes del sacrificio de las paces veinte y cuatro novillos, sesenta los carneros, sesenta los machos de cabrío, sesenta los corderos de un año. Esta fué la dedicación del altar, después que fué ungido."
-89 "Y cuando entraba Moisés en el tabernáculo del testimonio, para hablar con El, oía la Voz que le hablaba de encima de la cubierta que estaba sobre el arca del testimonio, de entre los dos querubines
+"Y todos los bueyes del sacrificio de las paces veinte y cuatro novillos, sesenta los carneros, sesenta los machos #de cabrío, sesenta los corderos de un año. Esta fué la dedicación del altar, después que fué ungido."
+89 "Y cuando entraba Moisés en el tabernáculo del testimonio, para hablar con El, oía la Voz que le #hablaba de encima de la cubierta que estaba sobre el arca del testimonio, de entre los dos querubines

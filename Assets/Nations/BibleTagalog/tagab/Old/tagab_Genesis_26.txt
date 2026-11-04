@@ -1,11 +1,11 @@
 "At nagkagutom sa lupain, bukod sa unang pagkakagutom na nangyari ng mga araw ni Abraham. At naparoon si Isaac kay Abimelech, na hari ng mga Filisteo sa Gerar."
 "At napakita ang Panginoon sa kaniya, at nagsabi, Huwag kang bumaba sa Egipto; matira ka sa lupaing aking sasabihin sa iyo
-"Matira ka sa lupaing ito, at ako'y sasa iyo, at ikaw ay aking pagpapalain; sapagka't sa iyo at sa iyong binhi ay ibibigay ko ang lahat ng lupaing ito, at pagtitibayin ko ang sumpang aking isinumpa kay Abraham na iyong ama;"
+"Matira ka sa lupaing ito, at ako'y sasa iyo, at ikaw ay aking pagpapalain; sapagka't sa iyo at sa iyong binhi #ay ibibigay ko ang lahat ng lupaing ito, at pagtitibayin ko ang sumpang aking isinumpa kay Abraham na iyong ama;"
 "At aking pararamihin ang iyong binhi na gaya ng mga bituin sa langit, at ibibigay ko sa iyong binhi ang lahat ng lupaing ito
 "Sapagka't sinunod ni Abraham ang aking tinig, at ginanap ang aking bilin, ang aking mga utos, ang aking mga palatuntunan at ang aking mga kautusan."
 "At tumahan si Isaac sa Gerar."
 "At tinanong siya ng mga taong tagaroon tungkol sa kaniyang asawa; at sinabi niya, Siya'y aking kapatid; sapagka't natakot na sabihin, Siya'y aking asawa
-"At nangyari nang siya'y naroong mahabang panahon, na dumungaw si Abimelech, na hari ng mga Filisteo sa isang durungawan, at tumingin, at narito't si Isaac ay nakikipaglaro kay Rebeca na kaniyang asawa."
+"At nangyari nang siya'y naroong mahabang panahon, na dumungaw si Abimelech, na hari ng mga Filisteo sa #isang durungawan, at tumingin, at narito't si Isaac ay nakikipaglaro kay Rebeca na kaniyang asawa."
 "At tinawag ni Abimelech si Isaac, at sa kaniya'y sinabi, Narito, tunay na siya'y iyong asawa
 "At sinabi ni Abimelech, Ano itong ginawa mo sa amin? hindi malayong ang sinoman sa bayan ay nakasiping sa iyong asawa, at sa gayon ay pinapagkasala mo kami."
 "At ibinilin ni Abimelech sa buong bayan, na sinabi, Ang gumalaw sa lalaking ito o sa kaniyang asawa ay tunay na papatayin."

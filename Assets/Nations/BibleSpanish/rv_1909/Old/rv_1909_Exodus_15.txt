@@ -16,7 +16,7 @@
 "Caiga sobre ellos temblor y espanto; A la grandeza de tu brazo enmudezcan como una piedra; Hasta que haya pasado tu pueblo, oh Jehová, Hasta que haya pasado este pueblo que tú rescataste."
 "Tú los introducirás y los plantarás en el monte de tu heredad, En el lugar de tu morada, que tú has aparejado, oh Jehová; En el santuario del Señor, que han afirmado tus manos."
 "Jehová reinará por los siglos de los siglos."
-"Porque Faraón entró cabalgando con sus carros y su gente de á caballo en la mar, y Jehová volvió á traer las aguas de la mar sobre ellos; mas los hijos de Israel fueron en seco por medio de la mar."
+"Porque Faraón entró cabalgando con sus carros y su gente de á caballo en la mar, y Jehová volvió á traer #las aguas de la mar sobre ellos; mas los hijos de Israel fueron en seco por medio de la mar."
 "Y María la profetisa, hermana de Aarón, tomó un pandero en su mano, y todas las mujeres salieron en pos de ella con panderos y danzas."
 "Y María les respondía
 "E hizo Moisés que partiese Israel del mar Bermejo, y salieron al desierto de Shur; y anduvieron tres días por el desierto sin hallar agua."

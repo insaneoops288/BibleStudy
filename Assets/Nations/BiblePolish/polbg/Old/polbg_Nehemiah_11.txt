@@ -1,6 +1,6 @@
 "Mieszkali tedy przedniejsi z ludu w Jeruzalemie, a inny lud miotali losy, aby wzięli dziesiątego człowieka na mieszkanie w Jeruzalemie, mieście świętem, a dziewięć części w innych miastach."
 "I błogosławił lud wszystkim mężom, którzy się dobrowolnie ofiarowali, aby mieszkali w Jeruzalemie."
-"A cić są przedniejsi onej krainy, którzy mieszkali w Jeruzalemie. (A w inszych miastach Judzkich mieszkał każdy w osiadłości swojej, i w miastach swych, Izraelczycy, kapłani, i Lewitowie, i Netynejczycy, i synowie sług Salomonowych.)"
+"A cić są przedniejsi onej krainy, którzy mieszkali w Jeruzalemie. (A w inszych miastach Judzkich mieszkał każdy w #osiadłości swojej, i w miastach swych, Izraelczycy, kapłani, i Lewitowie, i Netynejczycy, i synowie sług Salomonowych.)"
 "A tak w Jeruzalemie mieszkali niektórzy z synów Judowych i z synów Benjaminowych. Z synów Judowych
 "Także Maasejasz, syn Barucha, syna Cholhozowego, syna Hasajaszowego, syna Hadajaszowego, syna Jojarybowego, syna Zacharyjaszowego, syna Sylończykowego."
 "Wszystkich synów Faresowych, mieszkających w Jeruzalemie, cztery sta sześćdziesiąt i ośm mężów dużych."
@@ -14,7 +14,7 @@
 "A braci ich, mężów dużych, sta dwadzieścia i ośm, i przełożony nad nimi Zabdyjel, syn Giedolima."
 "A z Lewitów Semejasz, syn Hassuby, syna Asrykamowego, syna Hasabijaszowego, syna Bunni."
 "A Sabbataj i Jozabad byli nad robotą, która była z dworu przy domu Bożym, a cić byli z przedniejszych Lewitów."
-"A Matanijasz, syn Michasa, syna Zabadyjaszowego,syna Asafowego, był przedniejszy w zaczynaniu chwały przy modlitwie; a Bakbukijasz wtóry z braci jego, i Abda, syn Sammuj, syna Galilowego, syna Jedytunowego."
+"A Matanijasz, syn Michasa, syna Zabadyjaszowego,syna Asafowego, był przedniejszy w zaczynaniu chwały przy modlitwie; a #Bakbukijasz wtóry z braci jego, i Abda, syn Sammuj, syna Galilowego, syna Jedytunowego."
 "Wszystkich Lewitów było w mieście świętem dwieście ośmdziesiąt i czterech."
 "A z odźwiernych
 "A drudzy z Izraela, z kapłanów, z Lewitów, mieszkali we wszystkich miastach Judzkich, każdy w dziedzictwie swojem."

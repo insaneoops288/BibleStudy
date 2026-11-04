@@ -12,7 +12,7 @@
 "A dostanou se domové jejich jiným, též pole i ženy, když vztáhnu ruku svou na obyvatele této země, dí Hospodin."
 "Od nejmenšího zajisté z nich, až do největšího z nich, všickni napořád vydali se v lakomství, anobrž od proroka až do kněze všickni napořád provodí faleš."
 "A hojí potření dcery lidu mého povrchu, říkajíce
-"Styděli-liž se pak co proto, že ohavnost páchali? Aniž se lid co styděl, aniž jich proroci k zahanbení přivesti uměli. Protož padnou mezi padajícími; v čas, v němž je navštívím, klesnou, praví Hospodin."
+"Styděli-liž se pak co proto, že ohavnost páchali? Aniž se lid co styděl, aniž jich proroci k #zahanbení přivesti uměli. Protož padnou mezi padajícími; v čas, v němž je navštívím, klesnou, praví Hospodin."
 "Když takto říkával Hospodin
 "Když jsem pak ustanovil nad vámi strážné, řka
 "Protož slyšte, ó národové, a poznej, ó shromáždění, co se děje mezi nimi."

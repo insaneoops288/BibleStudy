@@ -1,8 +1,8 @@
 "Kolmantena Jojakimin, Juudan kuninkaan, valtakunnan vuotena tuli Nebukadnetsar, Babelin kuningas Jerusalemin eteen, ja piiritti sen."
-"Ja Herra antoi Jojakimin, Juudan kuninkaan hänen käsiinsä, ja muutamia astioita Jumalan huoneesta; ne antoi hän viedä Sinearin maalle, jumalansa huoneesen, ja pani ne astiat jumalansa tavarahuoneesen."
+"Ja Herra antoi Jojakimin, Juudan kuninkaan hänen käsiinsä, ja muutamia astioita Jumalan huoneesta; ne #antoi hän viedä Sinearin maalle, jumalansa huoneesen, ja pani ne astiat jumalansa tavarahuoneesen."
 "Ja kuningas sanoi Aspenaalle, ylimmäiselle kamaripalveliallensa, että hänen piti Israelin lapsista kuninkaallisesta suvusta ja berrain lapsista valitseman"
 "Virheettömiä poikia, kauniita, toimellisia, viisaita, ymmärtäväisiä, taitavia, jotka soveliaat olisivat palvelemaan kuninkaan huoneessa, ja piti opettaman heille Kaldean kirjoituksia ja kieltä."
-"Niille toimitti kuningas, mitä heille joka päivä annettaman piti kuninkaan ruasta ja sitä viinaa, jota hän itse joi; että he niin kolme vuotta kasvatettaman ja sitte kuninkaan edessä palveleman piti,"
+"Niille toimitti kuningas, mitä heille joka päivä annettaman piti kuninkaan ruasta ja sitä viinaa, jota hän #itse joi; että he niin kolme vuotta kasvatettaman ja sitte kuninkaan edessä palveleman piti,"
 "Joiden seassa olivat Juudan lapsista
 "Ja ylimmäinen kamaripalvelia antoi heille nimet, ja nimitti Danielin Belsatsariksi ja Hananian Sadrakiksi, ja Misaelin Mesakiksi, ja Asarian Abednegoksi."
 "Mutta Daniel aikoi sydämessänsä, ettei hän kuninkaan rualla eikä sillä viinalla, jota hän itse joi, itseänsä saastuttaisi; ja rukoili ylimmäistä kamaripalveliaa, ettei hän itseänsä saastuttaisi."

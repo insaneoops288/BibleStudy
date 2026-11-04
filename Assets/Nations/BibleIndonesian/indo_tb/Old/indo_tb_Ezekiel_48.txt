@@ -5,20 +5,20 @@
 "Berbatasan dengan wilayah Manasye, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat bagian Efraim."
 "Berbatasan dengan wilayah Efraim, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat bagian Ruben."
 "Berbatasan dengan wilayah Ruben, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat bagian Yehuda."
-"Berbatasan dengan wilayah Yehuda, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat persembahan khusus yang harus kamu khususkan, yaitu dua puluh lima ribu hasta lebarnya, dan panjangnya sama dengan panjang satu bagian, yaitu dari perbatasan sebelah timur sampai perbatasan sebelah barat, dan di tengah-tengahnya terdapat tempat kudus."
+"Berbatasan dengan wilayah Yehuda, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat persembahan khusus yang harus kamu khususkan, yaitu dua puluh lima ribu hasta #lebarnya, dan panjangnya sama dengan panjang satu bagian, yaitu dari perbatasan sebelah timur sampai perbatasan sebelah barat, dan di tengah-tengahnya terdapat tempat kudus."
 "Bagian persembahan khusus yang harus kamu khususkan bagi TUHAN, panjangnya dua puluh lima ribu hasta dan lebarnya dua puluh ribu hasta."
 "Dan bagi orang-orang inilah persembahan khusus yang kudus itu
 "Inilah bagian imam-imam, yang sudah dikuduskan, yaitu bani Zadok, yang memelihara kewajibannya terhadap Aku dan yang tidak turut sesat dalam kesesatan orang Israel, seperti orang-orang Lewi."
 "Ini adalah bagian khusus bagi mereka dari tanah yang sudah dikhususkan, suatu hal yang maha kudus, berbatasan dengan bagian orang-orang Lewi."
 "Bagian orang-orang Lewi ialah sejajar dengan wilayah imam-imam, panjangnya dua puluh lima ribu hasta dan lebarnya sepuluh ribu hasta. Jadi seluruhnya ialah
 "Mereka tidak boleh menjual sedikitpun dari situ atau menukarnya, dan mereka tidak boleh mewariskan yang terbaik dari negeri itu kepada orang lain, sebab itu kudus bagi TUHAN."
-"Yang tertinggal dari lebarnya, yaitu lima ribu hasta lagi, yang berbatasan dengan yang dua puluh lima ribu hasta itu adalah tidak kudus, tetapi itu untuk keperluan kota sebagai tempat tinggal dan tanah perladangan."
+"Yang tertinggal dari lebarnya, yaitu lima ribu hasta lagi, yang berbatasan dengan yang dua puluh lima ribu #hasta itu adalah tidak kudus, tetapi itu untuk keperluan kota sebagai tempat tinggal dan tanah perladangan."
 "Dan ukurannya adalah begini
 "Sekeliling kota itu ada tanah lapang, di sebelah utara dan selatan dua ratus lima puluh hasta, serta di sebelah timur dan barat dua ratus lima puluh hasta juga."
-"Yang tertinggal dari panjangnya, yang sejajar dengan persembahan khusus yang kudus itu, adalah sepuluh ribu hasta di sebelah timur dan sepuluh ribu hasta di sebelah barat dan hasilnya ialah menjadi makanan untuk pekerja-pekerja di kota itu."
+"Yang tertinggal dari panjangnya, yang sejajar dengan persembahan khusus yang kudus itu, adalah sepuluh ribu hasta di sebelah timur #dan sepuluh ribu hasta di sebelah barat dan hasilnya ialah menjadi makanan untuk pekerja-pekerja di kota itu."
 "Pekerja-pekerja ini, yang datang dari semua suku Israel, akan mengerjakannya."
-"Seluruh persembahan khusus itu adalah dua puluh lima ribu hasta kali dua puluh lima ribu hasta. Dalam bentuk empat persegi kamu harus mengkhususkan persembahan khusus yang kudus itu bersama milik kota itu."
-"Selebihnya adalah milik raja, yaitu di sebelah timur dan barat dari persembahan khusus yang kudus dan milik kota itu, dan berbatasan dengan yang dua puluh lima ribu hasta itu, ke timur sampai di perbatasan timur dan ke barat sampai di perbatasan barat dan sejajar dengan bagian suku-suku lain, adalah untuk raja. Di tengah-tengah bagian itu adalah persembahan khusus yang kudus dan Bait Suci."
+"Seluruh persembahan khusus itu adalah dua puluh lima ribu hasta kali dua puluh lima ribu hasta. Dalam #bentuk empat persegi kamu harus mengkhususkan persembahan khusus yang kudus itu bersama milik kota itu."
+"Selebihnya adalah milik raja, yaitu di sebelah timur dan barat dari persembahan khusus yang kudus dan milik kota itu, dan berbatasan dengan yang dua puluh lima ribu hasta itu, ke timur sampai #di perbatasan timur dan ke barat sampai di perbatasan barat dan sejajar dengan bagian suku-suku lain, adalah untuk raja. Di tengah-tengah bagian itu adalah persembahan khusus yang kudus dan Bait Suci."
 "Terkecuali milik orang-orang Lewi dan milik kota itu,yang terletak di tengah-tengah kepunyaan raja itu,maka yang diapit oleh wilayah Yehuda dan Benyamin adalah bagi raja."
 "Mengenai suku-suku yang lain
 "Berbatasan dengan wilayah Benyamin, dari perbatasan sebelah timur sampai perbatasan sebelah barat, terdapat bagian Simeon."

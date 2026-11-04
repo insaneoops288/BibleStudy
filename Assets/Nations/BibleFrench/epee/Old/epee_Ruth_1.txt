@@ -1,5 +1,5 @@
 "Il arriva, aux jours du gouvernement des juges, qu'il y eut une famine dans le pays, et un homme de Bethléhem de Juda s'en alla habiter la campagne de Moab, lui, sa femme, et ses deux fils."
-"Le nom de cet homme était Élimélec, et le nom de sa femme Naomi, et les noms de ses deux fils Machlon et Kiljon; ils étaient Éphratiens, de Bethléhem de Juda, et ils vinrent dans la campagne de Moab, et ils s'y établirent."
+"Le nom de cet homme était Élimélec, et le nom de sa femme Naomi, et les noms de ses deux fils Machlon #et Kiljon; ils étaient Éphratiens, de Bethléhem de Juda, et ils vinrent dans la campagne de Moab, et ils s'y établirent."
 "Or, Élimélec, mari de Naomi, mourut, et elle resta avec ses deux fils."
 "Ceux-ci épousèrent des femmes moabites, dont l'une s'appelait Orpa, et l'autre Ruth; et ils demeurèrent là environ dix ans."
 "Puis, Machlon et Kiljon étant morts aussi, cette femme demeura seule, privée de ses deux fils et de son mari."
@@ -10,7 +10,7 @@
 "Et lui dirent
 "Mais Naomi répondit
 "Retournez, mes filles, allez. Je suis trop âgée pour me remarier; et quand je dirais
-"Attendriez-vous jusqu'à ce qu'ils devinssent grands? Resteriez-vous confinées sans vous remarier? Non, mes filles; car je suis en plus grande amertume que vous, parce que la main de l'Éternel s'est appesantie sur moi."
+"Attendriez-vous jusqu'à ce qu'ils devinssent grands? Resteriez-vous confinées sans vous remarier? Non, mes filles; car je suis #en plus grande amertume que vous, parce que la main de l'Éternel s'est appesantie sur moi."
 "Alors elles élevèrent leur voix et pleurèrent encore. Et Orpa baisa sa belle-mère; mais Ruth s'attacha à elle."
 "Alors Naomi dit
 "Mais Ruth répondit

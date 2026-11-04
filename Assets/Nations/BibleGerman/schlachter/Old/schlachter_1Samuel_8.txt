@@ -9,7 +9,7 @@
 "So gehorche nun ihrer Stimme; doch verwarne sie ausdrücklich und verkündige ihnen das Recht des Königs, derüber sie herrschen wird."
 "Und Samuel sagte dem Volke, das einen König begehrte, alle Worte des HERRN"
 "und sprach
-"und daß er sie mache zu Oberstenüber Tausend und zu Oberstenüber Fünfzig; und daß sie seinen Acker pflügen und seine Ernte einbringen und daß sie ihm seine Kriegswaffen und sein Pferdegeschirr anfertigen."
+"und daß er sie mache zu Oberstenüber Tausend und zu Oberstenüber Fünfzig; und daß sie seinen Acker #pflügen und seine Ernte einbringen und daß sie ihm seine Kriegswaffen und sein Pferdegeschirr anfertigen."
 "Eure Töchter aber wird er nehmen und sie zu Salbenmischerinnen, Köchinnen und Bäckerinnen machen."
 "Auch eure bestenÄcker, eure Weinberge und eureÖlbäume wird er nehmen und seinen Knechten geben;"
 "dazu wird er den Zehnten von eurer Saat und von euren Weinbergen nehmen und ihn seinen Kämmerern und Knechten geben."

@@ -14,7 +14,7 @@
 "Dar Petru a spus
 "Și vocea [a venit] din nou la el, a doua oară
 "Iar aceasta s-a făcut de trei ori; și vasul a fost luat din nou la cer."
-"Și în timp ce Petru era nedumerit în sine, ce ar putea să însemne viziunea ce o văzuse, atunci, iată, bărbații care fuseseră trimiși de Corneliu cercetaseră, privind casa lui Simon, și stăteau în picioare înaintea porții,"
+"Și în timp ce Petru era nedumerit în sine, ce ar putea să însemne viziunea ce o văzuse, atunci, #iată, bărbații care fuseseră trimiși de Corneliu cercetaseră, privind casa lui Simon, și stăteau în picioare înaintea porții,"
 "Și strigau și întrebau dacă Simon, care era numit Petru, era găzduit acolo."
 "În timp ce Petru se gândea[ ]la viziune, Duhul i-a spus
 "Scoală-te așadar, coboară-te și du-te cu ei, neîndoindu-te de nimic, pentru că eu i-am trimis."

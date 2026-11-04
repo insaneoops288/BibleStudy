@@ -42,4 +42,4 @@
 "E, tendo ele dito isto, logo a lepra desapareceu, e ficou limpo."
 "E, advertindo-o severamente, logo o despediu,"
 "E disse-lhe
-"Mas, tendo ele saído, começou a apregoar muitas coisas, e a divulgar o que acontecera; de sorte que Jesus já não podia entrar publicamente na cidade, mas conservava-se fora em lugares desertos; e de todas as partes iam ter com ele."
+"Mas, tendo ele saído, começou a apregoar muitas coisas, e a divulgar o que acontecera; de sorte que Jesus já não #podia entrar publicamente na cidade, mas conservava-se fora em lugares desertos; e de todas as partes iam ter com ele."

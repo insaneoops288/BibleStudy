@@ -19,7 +19,7 @@
 "Dhe pasi kishin vozitur rreth njëzet e pesë ose tridhjetë stade, panë Jezusin që po ecte mbi det dhe po i afrohej barkës dhe patën frikë."
 "Por ai u tha atyre
 "Ata, pra, deshnin ta merrnin në barkë, dhe menjëherë barka u bregëzua në atë vend ku ishin drejtuar."
-"Të nesërmen turma, që kishte mbetur në bregun tjetër të detit, pa se atje nuk kishte tjetër përveç një barke të vogël, në të cilën kishin hipur dishepujt e Jezusit, dhe që ai nuk kishte hipur me ta, dhe që dishepujt e tij ishin nisur vetëm;"
+"Të nesërmen turma, që kishte mbetur në bregun tjetër të detit, pa se atje nuk kishte tjetër përveç një barke të vogël, në të #cilën kishin hipur dishepujt e Jezusit, dhe që ai nuk kishte hipur me ta, dhe që dishepujt e tij ishin nisur vetëm;"
 "ndërkaq kishin ardhur barka të tjera nga Tiberiada, afër vendit ku kishin ngrënë bukë, pasi Zoti kishte falënderuar."
 "Turma, kur pa se Jezusi nuk ishte më atje dhe as dishepujt e tij, hipi edhe ajo nëpër barka dhe erdhi në Kapernaum, duke kërkuar Jezusin."
 "Kur e gjetën përtej detit i thanë

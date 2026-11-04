@@ -1,10 +1,10 @@
 "Şi a fost aşa,[ ]după ce Solomon a terminat de construit casa DOMNULUI şi casa împăratului şi toată dorinţa lui Solomon pe care a dorit să o împlinească,"
 "DOMNUL i s-a arătat lui Solomon a doua oară, precum i se arătase la Gabaon."
 "Şi DOMNUL i-a spus
-"Şi dacă vei umbla înaintea mea, precum tatăl tău, David, a umblat în integritate a inimii şi în cinste, pentru a face conform cu tot ce ţi-am poruncit, şi vei păzi statutele mele şi judecăţile mele,"
+"Şi dacă vei umbla înaintea mea, precum tatăl tău, David, a umblat în integritate a inimii şi în cinste, #pentru a face conform cu tot ce ţi-am poruncit, şi vei păzi statutele mele şi judecăţile mele,"
 "Atunci voi întemeia tronul împărăţiei tale peste Israel pentru totdeauna, precum am vorbit lui David, tatăl tău, spunând
-"[Dar ]dacă cumva vă veţi întoarce de la a mă urma, voi sau copiii voştri, şi nu veţi păzi poruncile mele [şi] statutele mele pe care le-am pus înaintea voastră, ci veţi merge şi veţi servi altor dumnezei şi vă veţi închina lor,"
-"Atunci voi stârpi pe Israel din ţara pe care le-am dat-o; şi această casă, pe care am sfinţit-o pentru numele meu, o voi arunca dinaintea feţei mele; şi Israel va fi un proverb şi o zicătoare printre toate popoarele;"
+"[Dar ]dacă cumva vă veţi întoarce de la a mă urma, voi sau copiii voştri, şi nu veţi păzi poruncile mele [şi] #statutele mele pe care le-am pus înaintea voastră, ci veţi merge şi veţi servi altor dumnezei şi vă veţi închina lor,"
+"Atunci voi stârpi pe Israel din ţara pe care le-am dat-o; şi această casă, pe care am sfinţit-o pentru numele #meu, o voi arunca dinaintea feţei mele; şi Israel va fi un proverb şi o zicătoare printre toate popoarele;"
 "Şi această casă, [ce ]este înaltă, oricine va trece pe lângă ea va fi înmărmurit şi va şuiera către ea; şi vor spune
 "Şi vor răspunde
 "Şi s-a întâmplat, la sfârşitul a douăzeci de ani după ce Solomon construise cele două case, casa DOMNULUI şi casa împăratului,"
@@ -12,11 +12,11 @@
 "Şi Hiram a ieşit din Tir pentru a vedea cetăţile pe care Solomon i le dăduse; şi ele nu i-au plăcut."
 "Şi a spus
 "Şi Hiram a trimis împăratului o sută douăzeci de talanţi de aur."
-"Şi acesta [este] motivul pentru tributul de oameni pe care împăratul Solomon l-a ridicat, pentru a construi casa DOMNULUI şi propria lui casă şi Milo şi zidul Ierusalimului şi Haţor şi Meghido şi Ghezer."
+"Şi acesta [este] motivul pentru tributul de oameni pe care împăratul Solomon l-a ridicat, pentru a construi casa #DOMNULUI şi propria lui casă şi Milo şi zidul Ierusalimului şi Haţor şi Meghido şi Ghezer."
 "[ Fiindcă ]Faraon, împăratul Egiptului, se urcase şi luase Ghezerul şi îl arsese cu foc şi îi ucisese pe canaaniţii care locuiau în cetate şi o dăduse zestre fiicei sale, soţia lui Solomon."
 "Şi Solomon a construit Ghezerul şi Bet-Horonul de jos,"
 "Şi Baalatul şi Tadmorul în pustie, în ţară,"
-"Şi toate cetăţile pentru rezerve pe care Solomon le avea şi cetăţile pentru carele lui şi cetăţile pentru călăreţii lui şi tot ceea ce Solomon a dorit să construiască în Ierusalim şi în Liban şi în toată ţara stăpânirii sale."
+"Şi toate cetăţile pentru rezerve pe care Solomon le avea şi cetăţile pentru carele lui şi cetăţile pentru călăreţii lui şi #tot ceea ce Solomon a dorit să construiască în Ierusalim şi în Liban şi în toată ţara stăpânirii sale."
 "[Şi ]tot poporul [care] [era ]rămas dintre amoriţi, hetiţi, fereziţi, heviţi şi iebusiţi, care nu [erau] dintre copiii lui Israel,"
 "Pe copiii lor care rămăseseră după ei în ţară, pe care copiii lui Israel de asemenea nu i-au putut nimici în întregime, peste aceia Solomon a ridicat un tribut de robie până în această zi."
 "Dar dintre fiii lui Israel, Solomon nu a făcut robi; ci ei [erau] oameni de război şi servitori ai săi şi prinţi ai săi şi căpetenii ale sale şi conducători ai carelor sale şi călăreţi ai săi."

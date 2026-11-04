@@ -1,4 +1,4 @@
-"Zaś w dzień, w którym Mojżesz skończył wystawienie Przybytku, gdy go namaścił oraz poświęcił ze wszystkimi jego przyborami, kiedy namaścił oraz poświęcił ofiarnicę ze wszystkimi jej przyborami, stało się,"
+"Zaś w dzień, w którym Mojżesz skończył wystawienie Przybytku, gdy go namaścił oraz poświęcił ze #wszystkimi jego przyborami, kiedy namaścił oraz poświęcił ofiarnicę ze wszystkimi jej przyborami, stało się,"
 "że naczelnicy Israela, głowy swoich domów rodowych owi naczelnicy pokoleń, którzy zarządzali spisami przyprowadzili swoje ofiary."
 "Sprowadzili oni swoje ofiary przed oblicze WIEKUISTEGO
 "A WIEKUISTY oświadczył Mojżeszowi, mówiąc
@@ -86,4 +86,4 @@
 "Dwanaście złotych kadzielnic pełnych kadzidła; każda kadzielnica z dziesięciu szekli, według uświęconego szekla; wszystkiego złota w kadzielnicach było sto dwadzieścia szekli."
 "Wszystkiego bydła na całopalenie dwanaście cielców, dwanaście baranów, dwanaście rocznych jagniąt, z ich ofiarą z pokarmów; także dwanaście kozłów na ofiarę zagrzeszną."
 "Zaś wszystkiego bydła na ofiarę opłatną było
-89 "A gdy Mojżesz wchodził do Przybytku Zboru, aby z nim mówił wtedy z ponad wieka, które jest nad Arką Świadectwa, z pośród dwóch cherubów słyszał głos, który do niego przemawiał. Tak do niego przemawiał."
+89 "A gdy Mojżesz wchodził do Przybytku Zboru, aby z nim mówił wtedy z ponad wieka, które jest #nad Arką Świadectwa, z pośród dwóch cherubów słyszał głos, który do niego przemawiał. Tak do niego przemawiał."

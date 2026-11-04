@@ -29,7 +29,7 @@
 "Ou comment quelqu'un pourrait-il entrer dans la maison d'un homme fort, et piller son bien, s'il n'avait auparavant lié cet homme fort? Après quoi, il pourrait piller sa maison."
 "Celui qui n'est pas avec moi, est contre moi; et celui qui n'assemble pas avec moi, disperse."
 "C'est pourquoi je vous dis que tout péché et tout blasphème sera pardonné aux hommes; mais le blasphème contre l'Esprit ne leur sera point pardonné."
-"Et si quelqu'un a parlé contre le Fils de l'homme, il lui sera pardonné; mais celui qui aura parlé contre le Saint-Esprit n'en obtiendra le pardon, ni dans ce siècle, ni dans celui qui est à venir."
+"Et si quelqu'un a parlé contre le Fils de l'homme, il lui sera pardonné; mais celui qui aura parlé #contre le Saint-Esprit n'en obtiendra le pardon, ni dans ce siècle, ni dans celui qui est à venir."
 "Ou dites que l'arbre est bon, et son fruit bon; ou dites que l'arbre est mauvais, et son fruit mauvais; car on connaît l'arbre par le fruit."
 "Race de vipères! comment pourriez-vous dire de bonnes choses, étant méchants? car c'est de l'abondance du cœur que la bouche parle."
 "L'homme de bien tire de bonnes choses du bon trésor de son cour; mais le méchant tire de mauvaises choses du mauvais trésor de son cour."
@@ -42,7 +42,7 @@
 "La reine du Midi s'élèvera au Jugement contre cette nation, et la condamnera, car elle vint des bornes de la terre pour entendre la sagesse de Salomon; et il y a ici plus que Salomon."
 "Lorsqu'un esprit immonde est sorti d'un homme, il va par des lieux arides, cherchant du repos, et il n'en trouve point."
 "Alors il dit
-"Alors il s'en va, et prend avec lui sept autres esprits plus méchants que lui, et étant entrés dans la maison, ils y habitent; et la dernière condition de cet homme est pire que la première. Il en arrivera ainsi à cette méchante race."
+"Alors il s'en va, et prend avec lui sept autres esprits plus méchants que lui, et étant entrés dans la maison, ils y #habitent; et la dernière condition de cet homme est pire que la première. Il en arrivera ainsi à cette méchante race."
 "Et comme Jésus parlait encore au peuple, sa mère et ses frères étaient dehors, cherchant à lui parler."
 "Et quelqu'un lui dit
 "Mais il répondit et dit à celui qui lui avait parlé

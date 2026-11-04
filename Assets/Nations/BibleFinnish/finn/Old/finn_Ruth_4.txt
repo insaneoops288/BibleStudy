@@ -7,7 +7,7 @@
 "Ja muinen oli Israelissa lunastamisessa ja perimisessä vahvistukseksi kaikkiin asioihin, että mies riisui kenkänsä ja antoi lähimmäisellensä
 "Niin perillinen sanoi Boakselle
 "Boas anoi vanhimmille ja kaikelle kansalle
-"Ja myös Ruutin Moabilaisen, Mahlonin lesken, olen ottanut emännäkseni, herättääkseni kuolleelle nimeä hänen perimisessänsä, ja ettei kuolleen nimi hukkuisi veljeinsä seasta ja hänen siastansa portissa; sen päälle olette te tänäpäivänä todistajat."
+"Ja myös Ruutin Moabilaisen, Mahlonin lesken, olen ottanut emännäkseni, herättääkseni kuolleelle nimeä hänen perimisessänsä, ja ettei #kuolleen nimi hukkuisi veljeinsä seasta ja hänen siastansa portissa; sen päälle olette te tänäpäivänä todistajat."
 "Niin kansa ja vanhimmat, jotka portissa olivat, sanoivat
 "Ja sinun huonees olkoon niinkuin Peretsen huone, jonka Tamar synnytti Juudalle, siitä siemenestä, jonka Herra sinulle antaa tästä nuoresta vaimosta!"
 "Niin Boas otti Ruutin emännäksensä, ja hän meni hänen tykönsä; ja Herra antoi hänen tulla hedelmälliseksi, ja hän synnytti pojan."

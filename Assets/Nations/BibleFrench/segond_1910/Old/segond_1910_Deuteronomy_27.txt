@@ -1,6 +1,6 @@
 "Moïse et les anciens d'Israël donnèrent cet ordre au peuple
 "Lorsque vous aurez passé le Jourdain, pour entrer dans le pays que l'Eternel, ton Dieu, te donne, tu dresseras de grandes pierres, et tu les enduiras de chaux."
-"Tu écriras sur ces pierres toutes les paroles de cette loi, lorsque tu auras passé le Jourdain, pour entrer dans le pays que l'Eternel, ton Dieu, te donne, pays où coulent le lait et le miel, comme te l'a dit l'Eternel, le Dieu de tes pères."
+"Tu écriras sur ces pierres toutes les paroles de cette loi, lorsque tu auras passé le Jourdain, pour entrer dans le pays que l'Eternel, #ton Dieu, te donne, pays où coulent le lait et le miel, comme te l'a dit l'Eternel, le Dieu de tes pères."
 "Lorsque vous aurez passé le Jourdain, vous dresserez sur le mont Ebal ces pierres que je vous ordonne aujourd'hui de dresser, et tu les enduiras de chaux."
 "Là, tu bâtiras un autel à l'Eternel, ton Dieu, un autel de pierres, sur lesquelles tu ne porteras point le fer;"
 "tu bâtiras en pierres brutes l'autel de l'Eternel, ton Dieu. Tu offriras sur cet autel des holocaustes à l'Eternel, ton Dieu;"
@@ -12,7 +12,7 @@
 "Lorsque vous aurez passé le Jourdain, Siméon, Lévi, Juda, Issacar, Joseph et Benjamin, se tiendront sur le mont Garizim, pour bénir le peuple;"
 "et Ruben, Gad, Aser, Zabulon, Dan et Nephthali, se tiendront sur le mont Ebal, pour prononcer la malédiction."
 "Et les Lévites prendront la parole, et diront d'une voix haute à tout Israël
-"Maudit soit l'homme qui fait une image taillée ou une image en fonte, abomination de l'Eternel, oeuvre des mains d'un artisan, et qui la place dans un lieu secret! Et tout le peuple répondra, et dira
+"Maudit soit l'homme qui fait une image taillée ou une image en fonte, abomination de l'Eternel, oeuvre des mains #d'un artisan, et qui la place dans un lieu secret! Et tout le peuple répondra, et dira
 "Maudit soit celui qui méprise son père et sa mère! -Et tout le peuple dira
 "Maudit soit celui qui déplace les bornes de son prochain! -Et tout le peuple dira
 "Maudit soit celui qui fait égarer un aveugle dans le chemin! Et tout le peuple dira

@@ -1,5 +1,5 @@
 "Když pak vejdeš do země, kterouž Hospodin Bůh tvůj dává tobě v dědictví, a opanuje ji, bydliti v ní budeš
-"Vezmeš prvotin všeho ovoce země té, kteréž obětovati budeš z země své, již Hospodin Bůh tvůj dává tobě, a vlože do koše, půjdeš k místu, kteréž by Hospodin Bůh tvůj k přebývání tam jménu svému vyvolil."
+"Vezmeš prvotin všeho ovoce země té, kteréž obětovati budeš z země své, již Hospodin Bůh tvůj dává tobě, a #vlože do koše, půjdeš k místu, kteréž by Hospodin Bůh tvůj k přebývání tam jménu svému vyvolil."
 "A přijda k knězi, kterýž těch dnů bude, díš jemu
 "I vezma kněz z ruky tvé koš, postaví jej před oltářem Hospodina Boha tvého."
 "A mluviti budeš před Hospodinem Bohem svým, řka

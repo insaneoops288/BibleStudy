@@ -10,7 +10,7 @@
 "BenChesed w Arubot; do niego należało Socho i cała dzielnica Cheferu."
 "BenAbinadab – całe Nafat Dor; później miał on za żonę córkę Salomona – Tafatę."
 "Baana, syn Achiluda – Taanach, Megido i całe BethSzean, położone pod Jezreelem, przy Cartan, od BethSzeanu do Abel Mechola i aż po Jokmeam."
-"BenGeber w Ramot, w Gileadzie; do niego należały sioła Jaira, syna Menaszy, położone w Gileadzie oraz pas krainy Argob w Baszanie – sześćdziesiąt wielkich miast zaopatrzonych w mury oraz zamknięcia z kruszcu."
+"BenGeber w Ramot, w Gileadzie; do niego należały sioła Jaira, syna Menaszy, położone w Gileadzie oraz pas #krainy Argob w Baszanie – sześćdziesiąt wielkich miast zaopatrzonych w mury oraz zamknięcia z kruszcu."
 "Achinadab, syn Iddy, w Machanaim."
 "Achimaac w Naftali; później pojął on za żonę Bosmatę, córkę Salomona."
 "Baana, syn Chuszaja, w Aszer i Bealot."

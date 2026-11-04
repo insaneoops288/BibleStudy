@@ -10,7 +10,7 @@
 "Pelto on hävitetty, maa on murheissansa, että jyvät ovat turmellut, viina on kuivunut pois, ja öljy puuttunut."
 "Peltomiehet katsovat huonosti, ja viinamäen miehet parkuvat nisuin ja ohrain tähden, ettei vainiossa ole mitään tuloa."
 "Viinapuu kuivettui ja fikunapuu on lahonnut; granatipuu, palmupuu, omenapuu ja kaikki kedon puut ovat kuivettuneet; sillä ihmisten riemu on surkeudeksi tullut."
-"Sonnustakaat teitänne ja valittakaat, te papit! parkukaat, te alttarin palveliat, menkäät (templiin), ja levätkäät, te minun Jumalani palveliat, säkeissä oli yötä; sillä ruokauhri ja juomauhri on pois teidän Jumalanne huoneesta."
+"Sonnustakaat teitänne ja valittakaat, te papit! parkukaat, te alttarin palveliat, menkäät (templiin), ja levätkäät, te minun #Jumalani palveliat, säkeissä oli yötä; sillä ruokauhri ja juomauhri on pois teidän Jumalanne huoneesta."
 "Pyhittäkäät paasto, kutsukaat seurakunta kokoon, ja kootkaat vanhimmat, ja kaikki maakunnan asuvaiset, Herran teidän Jumalanne huoneesen, ja huutakaat Herran tykö
 "Voi, voi sitä päivää! sillä Herran päivä on juuri läsnä, ja tulee niinkuin kadotus Kaikkivaltiaalta."
 "Eikö ruoka oteta pois meidän silmäimme edestä, ja meidän Jumalamme huoneesta ilo ja riemu?"

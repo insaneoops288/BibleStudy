@@ -4,7 +4,7 @@
 "I vedl mne cestou k bráně půlnoční, k přední straně domu, i viděl jsem, a aj, naplnila sláva Hospodinova dům Hospodinův. I padl jsem na tvář svou."
 "I řekl ke mně Hospodin
 "A rci zpurnému domu Izraelskému
-"Že jste uvodili cizozemce neobřezaného srdce a neobřezaného těla, aby bývali v svatyni mé, a poškvrňovali i domu mého, když jste obětovali chléb můj, tuk i krev, ješto oni sic rušili smlouvu mou, mimo všecky ohavnosti vaše,"
+"Že jste uvodili cizozemce neobřezaného srdce a neobřezaného těla, aby bývali v svatyni mé, a poškvrňovali i domu mého, #když jste obětovali chléb můj, tuk i krev, ješto oni sic rušili smlouvu mou, mimo všecky ohavnosti vaše,"
 "A nedrželi jste stráže nad svatými věcmi mými, ale postavili jste strážné na stráži mé, v svatyni mé místo sebe."
 "Takto praví Panovník Hospodin
 "Nýbrž i Levítové, kteříž se vzdalovali ode mne, když bloudil Izrael, kteříž zbloudili ode mne za ukydanými bohy svými, ponesou nepravost svou."
@@ -12,11 +12,11 @@
 "Proto že přisluhovali jim před ukydanými bohy jejich, a byli domu Izraelskému příčinou pádu v nepravost. Pročež přisáhl jsem jim, praví Panovník Hospodin, že ponesou nepravost svou."
 "Aniž přistoupí ke mně, aby mi kněžský úřad konali, ovšem aby přistupovati měli k kterým svatým věcem mým, neb k nejsvětějším, ale ponesou pohanění své i ohavnosti své, kteréž páchali."
 "Protož postavím je za strážné u domu, ke vší službě jeho i ke všemu, což činěno býti má v něm."
-"Kněží pak Levítští, synové Sádochovi, kteříž drželi stráž nad svatyní mou, když zbloudili synové Izraelští ode mne, ti budou přistupovati ke mně, aby mi přisluhovali, a státi před tváří mou, obětujíce mi tuk i krev, praví Panovník Hospodin."
+"Kněží pak Levítští, synové Sádochovi, kteříž drželi stráž nad svatyní mou, když zbloudili synové Izraelští ode mne, ti budou přistupovati #ke mně, aby mi přisluhovali, a státi před tváří mou, obětujíce mi tuk i krev, praví Panovník Hospodin."
 "Ti přicházeti budou k svatyni mé, a ti přistupovati k stolu mému, aby mi sloužili a drželi stráž mou."
 "I stane se, když budou míti vcházeti do bran síně vnitřní, že roucha lněná oblekou, aniž na se vezmou vlněného, když by služby konati měli v branách síně vnitřní i u vnitřku."
 "Klobouky lněné míti budou na hlavě své, a košilky lněné ať mají na bedrách svých, a nepřepasují se ničímž, což by pot vyvodilo."
-"A majíce vyjíti do síně zevnitřní, do síně zevnitřní k lidu, svlekou roucha svá, v kterýchž služby konali, a nechají jich v komůrkách svatyně, a oblekou roucha jiná, a nebudou posvěcovati lidu rouchem svým."
+"A majíce vyjíti do síně zevnitřní, do síně zevnitřní k lidu, svlekou roucha svá, v kterýchž služby konali, #a nechají jich v komůrkách svatyně, a oblekou roucha jiná, a nebudou posvěcovati lidu rouchem svým."
 "Aniž hlavy své holiti budou, ani vlasů nositi, ale slušně ostříhají vlasy své."
 "Vína též nebude píti žádný z kněží, když budou míti vcházeti do síně vnitřní."
 "Vdovy také aneb zahnané nebudou sobě pojímati za manželky, ale panny z semene domu Izraelského, aneb vdovu, kteráž by ovdověla po knězi, pojíti mohou."
@@ -27,5 +27,5 @@
 "V ten den, v kterýž vejde do svatyně, do síně vnitřní, aby služby konal v svatyni, obětovati bude za hřích svůj, praví Panovník Hospodin."
 "Dědictví pak jejich toto
 "Oběti suché a za hřích i vinu, to oni jísti budou, i všelijaká věc, oddána Bohu v Izraeli, jejich bude."
-"I přední věci všech prvotin ze všeho, i každá obět zhůru pozdvižení všeliké věci, ze všech obětí zhůru pozdvižení vašich, kněžské bude. I prvotiny těsta vašeho dávati budete knězi, aby odpočinulo požehnání v domě tvém."
+"I přední věci všech prvotin ze všeho, i každá obět zhůru pozdvižení všeliké věci, ze všech obětí zhůru #pozdvižení vašich, kněžské bude. I prvotiny těsta vašeho dávati budete knězi, aby odpočinulo požehnání v domě tvém."
 "Žádné mrchy a udáveného, ani z ptactva ani z hovad nebudou jídati kněží."

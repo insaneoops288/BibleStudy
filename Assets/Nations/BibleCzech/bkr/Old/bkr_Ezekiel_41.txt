@@ -4,7 +4,7 @@
 "Změřil také dlouhost svatyně dvadcíti loket, a širokost dvadcíti loket v chrámě, a řekl mi
 "Změřil též zed domu šesti loket, a širokost pavlače čtyř loket, vůkol a vůkol okolo domu."
 "Ty pak pavlače, pavlač nad pavlačí, byly tři, a třidcíti noh zdélí, a scházely se při zdi domu vespolek, tak že se pavlače vůkol a vůkol držely, a nedržely se na zdi domu."
-"Nebo se rozšiřovala vůkol více a více, svrchu pro pavlače, kteréž byly okolo domu, od vrchu až dolů, vůkol a vůkol domu, poněvadž nejširší dům byl na hoře, a tak nejnižší porozšiřovala se k vrchu pro prostřední."
+"Nebo se rozšiřovala vůkol více a více, svrchu pro pavlače, kteréž byly okolo domu, od vrchu až dolů, vůkol #a vůkol domu, poněvadž nejširší dům byl na hoře, a tak nejnižší porozšiřovala se k vrchu pro prostřední."
 "Tak podobně spatřil jsem při domu pavlače, i nejvyšší vůkol a vůkol, jejichž půdy zouplna odměřeny byly šesti loket k výstupkům."
 "Širokost zdi, kteráž byla při pavlačích zevnitř, pěti loket byla, i plac pavlačí, kteréž byly při domu."
 "Mezi nimiž a komůrkami byla širokost dvadcíti loket okolo domu vůkol a vůkol."

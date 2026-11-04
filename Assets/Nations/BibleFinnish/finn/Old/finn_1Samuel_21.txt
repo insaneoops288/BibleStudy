@@ -3,7 +3,7 @@
 "Jos nyt on jotakin sinun kätes alla, anna minulle viisikin leipää, taikka mitäs löydät."
 "Pappi vastasi Davidia ja sanoi
 "David vastasi pappia ja sanoi hänelle
-"Niin antoi pappi hänelle pyhää; sillä ei siellä ollut muuta leipää kuin näkyleipiä, jotka olivat korjatut Herran kasvoin edestä, että sinne pantaisiin toiset vastauutiset leivät sinä päivänä, jona ne korjattiin."
+"Niin antoi pappi hänelle pyhää; sillä ei siellä ollut muuta leipää kuin näkyleipiä, jotka olivat korjatut #Herran kasvoin edestä, että sinne pantaisiin toiset vastauutiset leivät sinä päivänä, jona ne korjattiin."
 "Mutta sinne on sinä päivänä yksi mies Saulin palvelioista jäänyt Herran eteen, Doeg nimeltä Edomilainen, kaikkein voimallisin Saulin paimenista."
 "Ja David sanoi Ahimelekille
 "Mutta pappi vastasi

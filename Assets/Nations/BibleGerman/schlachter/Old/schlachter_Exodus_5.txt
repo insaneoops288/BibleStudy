@@ -5,7 +5,7 @@
 "Weiter sprach der Pharao
 "Und der Pharao befahl an demselben Tage den Treibern des Volks und seinen Amtleuten und sprach
 "Ihr sollt dem Volk kein Stroh mehr geben zum Ziegelstreichen, wie gestern und vorgestern. Laßt sie selbst hingehen und sich Stroh zusammensuchen."
-"Ihr sollt ihnen aber gleichwohl die bestimmte Zahl Ziegel, die sie gestern und vorgestern gemacht haben, auferlegen und davon nichts nachlassen; denn sie gehen müßig. Darum schreien sie und sprechen
+"Ihr sollt ihnen aber gleichwohl die bestimmte Zahl Ziegel, die sie gestern und vorgestern gemacht haben, #auferlegen und davon nichts nachlassen; denn sie gehen müßig. Darum schreien sie und sprechen
 "Man erschwere den Leuten die Arbeit, daß sie damit zu schaffen haben und sich nicht an falsche Worte kehren!"
 "Da gingen die Treiber des Volks und seine Amtleute aus, redeten mit dem Volk und sprachen
 "geht ihr selbst hin, nehmt euch Stroh, wo ihr es findet, aber von eurem Tagewerk wird euch nichts erlassen!»"

@@ -10,7 +10,7 @@
 "Sinun pitää kuoleman, niinkuin ympärileikkaamattomat, muukalaisten käsiin; sillä minä olen sen sanonut, sanoo Herra, Herra."
 "Ja Herran sana tapahtui minulle ja sanoi
 "Sinä, ihmisen poika, itke valitusitku Tyron kuninkaasta, ja sano hänelle
-"Sinä olet Edenissä, Jumalan yrttitarhassa, ja kaunistettu kaikkinaisilla kalliilla kivillä, sardilla, topasilla, timantilla, turkosilla, onikilla, jaspiksilla, saphirilla, rubinilla, smaragdilla ja kullalla
+"Sinä olet Edenissä, Jumalan yrttitarhassa, ja kaunistettu kaikkinaisilla kalliilla kivillä, sardilla, #topasilla, timantilla, turkosilla, onikilla, jaspiksilla, saphirilla, rubinilla, smaragdilla ja kullalla
 "Sinä olet niinkuin Kerub, voideltu peittämään; ja minä olen sinun asettanut, ja sinä olet Jumalan pyhällä vuorella, että sinun kuumain kivien seassa vaeltaman pitäis."
 "Ja olit vakaa sinun teissäs, siitä päivästä kuin sinä luotu olit, siihenasti kuin sinun pahuutes löydettiin."
 "Sillä sinä olet sisältä täynnä pahuutta sinun suuresta kaupastas, ja olet syntiä tehnyt
@@ -20,7 +20,7 @@
 "Ja Herran sana tapahtui minulle ja sanoi
 "Sinä ihmisen poika, aseta kasvos Zidonia vastaan, ja ennusta häntä vastaan,"
 "Ja sano
-"Ja lähetän ruton hänen sekaansa ja veren vuodatuksen hänen kaduillensa, ja heidän pitää kuolemahaavoissa lankeeman miekallas, jonka pitää tuleman heidän päällensä joka taholta; ja heidän pitää ymmärtämän, että minä olen Herra."
-"Ja ei pidä sitte ympäri Israelin huoneita, joissa heidän vihollisensa ovat, orjantappuroita, jotka pistävät, eikä ohdakkeita, jotka heitä vaivaavat, jäämän, että heidän pitää ymmärtämän, että minä olen Herra, Herra."
+"Ja lähetän ruton hänen sekaansa ja veren vuodatuksen hänen kaduillensa, ja heidän pitää kuolemahaavoissa lankeeman miekallas, #jonka pitää tuleman heidän päällensä joka taholta; ja heidän pitää ymmärtämän, että minä olen Herra."
+"Ja ei pidä sitte ympäri Israelin huoneita, joissa heidän vihollisensa ovat, orjantappuroita, jotka pistävät, eikä #ohdakkeita, jotka heitä vaivaavat, jäämän, että heidän pitää ymmärtämän, että minä olen Herra, Herra."
 "Näin sanoo Herra, Herra
-"Ja heidän pitää murheetoinna asuman siinä, ja huoneita rakentaman, ja istuttaman viinapuita, juuri murheetoinna he asuvat, kuin minä annan oikeuden käydä kaikkein heidän vihollistensa ylitse heidän ympäristöllänsä; ja heidän pitää ymmärtämän, että minä Herra olen heidän Jumalansa."
+"Ja heidän pitää murheetoinna asuman siinä, ja huoneita rakentaman, ja istuttaman viinapuita, juuri murheetoinna he asuvat, kuin minä annan #oikeuden käydä kaikkein heidän vihollistensa ylitse heidän ympäristöllänsä; ja heidän pitää ymmärtämän, että minä Herra olen heidän Jumalansa."

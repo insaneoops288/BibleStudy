@@ -1,11 +1,11 @@
 "Přišel pak tu náhodou člověk nešlechetný, jehož jméno bylo Seba, syn Bichri, muž Jemini. Ten zatroubil v troubu a řekl
 "A tak všickni muži Izraelští odstoupili od Davida za Sebou synem Bichri, ale muži Judští přídrželi se krále svého od Jordánu až do Jeruzaléma."
-"David pak přišel do domu svého do Jeruzaléma. A vzal král deset ženin, kterýchž byl nechal, aby hlídaly doma, a dal je pod stráž, a choval je, ale nevcházel k nim. A zůstaly zavřené až do dne smrti své v vdovství."
+"David pak přišel do domu svého do Jeruzaléma. A vzal král deset ženin, kterýchž byl nechal, aby hlídaly doma, a dal #je pod stráž, a choval je, ale nevcházel k nim. A zůstaly zavřené až do dne smrti své v vdovství."
 "Potom řekl král Amazovi
 "A tak odšel Amaza, aby svolal lid Judský, ale prodlil mimo určitý čas, kterýž mu byl uložil."
 "Protož řekl David Abizai
 "Tedy táhli za ním muži Joábovi, i Cheretejští, i Peletejští, a všickni udatní vytáhli z Jeruzaléma, aby honili Sebu syna Bichri."
-"A když byli u kamene toho velikého, kterýž jest v Gabaon, Amaza potkal se s nimi. Joáb pak byl opásán po sukni, v kterouž byl oblečen, na níž také měl připásaný meč k bedrám v pošvě své, kterýž snadně vytrhnouti i zase vstrčiti mohl."
+"A když byli u kamene toho velikého, kterýž jest v Gabaon, Amaza potkal se s nimi. Joáb pak byl opásán po sukni, v #kterouž byl oblečen, na níž také měl připásaný meč k bedrám v pošvě své, kterýž snadně vytrhnouti i zase vstrčiti mohl."
 "I řekl Joáb Amazovi
 "Ale Amaza nešetřil se meče, kterýž byl v ruce Joábově. I ranil ho jím pod páté žebro, a vykydl střeva jeho na zem jednou ranou, a umřel. I honili Joáb a Abizai, bratr jeho, Sebu syna Bichri."
 "Tedy stoje tu jeden podlé něho z služebníků Joábových, řekl
@@ -19,7 +19,7 @@
 "Jáť jsem jedno z pokojných a věrných Izraelských, ty pak usiluješ zkaziti město, a to ještě hlavní město v Izraeli. I pročež usiluješ sehltiti dědictví Hospodinovo?"
 "Tedy odpověděl Joáb a řekl
 "Neníť toho, ale muž z hory Efraim, jménem Seba, syn Bichri, pozdvihl ruky své proti králi Davidovi. Vydejte ho samého, a odtrhnemť od města. I řekla žena Joábovi
-"A tak zjednala to žena ta u všeho lidu moudrostí svou, že sťavše hlavu Seby syna Bichri, vyhodili ji Joábovi. Kterýžto když zatroubil v troubu, rozešli se od města jeden každý do stanů svých. Joáb také vrátil se do Jeruzaléma k králi."
+"A tak zjednala to žena ta u všeho lidu moudrostí svou, že sťavše hlavu Seby syna Bichri, vyhodili ji Joábovi. Kterýžto když #zatroubil v troubu, rozešli se od města jeden každý do stanů svých. Joáb také vrátil se do Jeruzaléma k králi."
 "Byl pak Joáb představen všemu vojsku Izraelskému, a Banaiáš syn Joiadův nad Cheretejskými a Peletejskými."
 "Též Aduram byl nad platy, a Jozafat syn Achiludův byl kanclířem,"
 "A Seiáš písařem, Sádoch pak a Abiatar byli kněžími."

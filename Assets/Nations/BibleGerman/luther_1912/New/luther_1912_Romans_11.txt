@@ -3,7 +3,7 @@
 """HERR, sie haben deine Propheten getötet und deine Altäre zerbrochen; und ich bin alleinübriggeblieben, und sie stehen mir nach meinem Leben""?"
 "Aber was sagt die göttliche Antwort?""Ich habe mir lassenübrig bleiben siebentausend Mann, die nicht haben ihre Kniee gebeugt vor dem Baal."""
 "Also gehet es auch jetzt zu dieser Zeit mit diesen, dieübriggeblieben sind nach der Wahl der Gnade."
-"Ist's aber aus Gnaden, so ist's nicht aus Verdienst der Werke; sonst würde Gnade nicht Gnade sein. Ist's aber aus Verdienst der Werke, so ist die Gnade nichts; sonst wäre Verdienst nicht Verdienst."
+"Ist's aber aus Gnaden, so ist's nicht aus Verdienst der Werke; sonst würde Gnade nicht Gnade sein. #Ist's aber aus Verdienst der Werke, so ist die Gnade nichts; sonst wäre Verdienst nicht Verdienst."
 "Wie denn nun? Was Israel sucht, das erlangte es nicht; die Auserwählten aber erlangten es. Die andern sind verstockt,"
 "wie geschrieben steht
 "Und David spricht

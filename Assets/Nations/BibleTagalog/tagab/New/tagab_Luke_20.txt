@@ -17,7 +17,7 @@
 "Datapuwa't kaniyang tinitigan sila, at sinabi, Ano nga baga ito na nasusulat, Ang batong itinakuwil ng nangagtatayo ng gusali. Ay siya ring ginawang pangulo sa panulok?"
 "Ang bawa't mahulog sa ibabaw ng batong yaon ay madudurog; datapuwa't sinomang kaniyang malagpakan, ay kaniyang pangangalating gaya ng alabok."
 "At pinagsisikapan siyang hulihin sa oras ding yaon ng mga eskriba at ng mga pangulong saserdote; at sila'y nangatatakot sa bayan
-"At siya'y inaabangan nila, at sila'y nangagsugo ng mga tiktik, na nangagpakunwaring mga matuwid, upang siya'y mahuli sa kaniyang salita, na siya'y maibigay sa pamiminuno at sa kapamahalaan ng gobernador."
+"At siya'y inaabangan nila, at sila'y nangagsugo ng mga tiktik, na nangagpakunwaring mga matuwid, upang siya'y #mahuli sa kaniyang salita, na siya'y maibigay sa pamiminuno at sa kapamahalaan ng gobernador."
 "At kanilang tinanong siya, na sinasabi, Guro, nalalaman namin na ikaw ay nagsasabi at nagtuturo ng matuwid, at wala kang itinatanging tao, kundi itinuturo mo ang katotohanan ng daan ng Dios."
 "Matuwid bagang kami ay bumuwis kay Cesar, o hindi?"
 "Datapuwa't napagkilala niya ang kanilang lalang, at sinabi sa kanila,"
@@ -25,7 +25,7 @@
 "At sinabi niya sa kanila, Kung gayo'y ibigay ninyo kay Cesar ang kay Cesar, at ang sa Dios ang sa Dios."
 "At sila'y hindi nakahuli sa kaniyang mga pananalita sa harap ng bayan
 "At may lumapit sa kaniyang ilan sa mga Saduceo, na nagsisipagsabi na walang pagkabuhay na maguli;"
-"At kanilang itinanong sa kaniya, na sinasabi, Guro, isinulat sa amin ni Moises, na kung ang kapatid na lalake ng isang lalake ay mamatay, na may asawa, at siya'y walang anak, ay kunin ng kaniyang kapatid ang asawa, at bigyang anak ang kaniyang kapatid."
+"At kanilang itinanong sa kaniya, na sinasabi, Guro, isinulat sa amin ni Moises, na kung ang kapatid na lalake ng isang lalake ay #mamatay, na may asawa, at siya'y walang anak, ay kunin ng kaniyang kapatid ang asawa, at bigyang anak ang kaniyang kapatid."
 "Mayroon ngang pitong lalaking magkakapatid
 "At ang pangalawa
 "At ang pangatlo'y nagasawa sa bao; at gayon din ang pito naman ay hindi nagiwan ng mga anak, at nangamatay."
@@ -43,5 +43,5 @@
 "Hanggang sa gawin ko ang iyong mga kaaway na tuntungan ng iyong mga paa."
 "Dahil dito tinatawag siyang Panginoon ni David, at paanong siya'y anak niya?"
 "At sinabi niya sa kaniyang mga alagad, na naririnig ng buong bayan,"
-"Mangagingat kayo sa mga eskriba na ibig magsilakad na may mahahabang damit, at iniibig nila ang sila'y pagpugayan sa mga pamilihan, at ang mga pangulong upuan sa mga sinagoga, at ang mga pangulong dako sa mga pigingan;"
+"Mangagingat kayo sa mga eskriba na ibig magsilakad na may mahahabang damit, at iniibig nila ang sila'y pagpugayan sa #mga pamilihan, at ang mga pangulong upuan sa mga sinagoga, at ang mga pangulong dako sa mga pigingan;"
 "Na sinasakmal nila ang mga bahay ng mga babaing bao, at sa pagpakunwaring banal ay nanalangin ng mahaba

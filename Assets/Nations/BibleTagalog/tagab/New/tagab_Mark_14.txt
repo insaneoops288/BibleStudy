@@ -1,6 +1,6 @@
 "Pagkaraan nga ng dalawang araw ay kapistahan ng paskua at ng mga tinapay na walang lebadura
 "Sapagka't sinasabi nila, Huwag sa kapistahan, baka magkagulo ang bayan."
-"At samantalang siya'y nasa Betania sa bahay ni Simon na ketongin, samantalang siya'y nakaupo sa pagkain, ay dumating ang isang babae na may dalang isang sisidlang alabastro na puno ng unguentong nardo na totoong mahalaga; at binasag niya ang sisidlan, at ibinuhos sa kaniyang ulo."
+"At samantalang siya'y nasa Betania sa bahay ni Simon na ketongin, samantalang siya'y nakaupo sa pagkain, ay dumating ang isang babae na may #dalang isang sisidlang alabastro na puno ng unguentong nardo na totoong mahalaga; at binasag niya ang sisidlan, at ibinuhos sa kaniyang ulo."
 "Datapuwa't may ilan na nangagalit sa kanilang sarili, na nagsipagsabi, Ano ang layon ng pagaaksayang ito ng unguento?"
 "Sapagka't ang unguentong ito'y maipagbibili ng mahigit sa tatlong daang denario, at maibibigay sa mga dukha. At inupasalaan nila ang babae."
 "Datapuwa't sinabi ni Jesus, Pabayaan ninyo siya; bakit ninyo siya binabagabag? mabuting gawa ang ginawa niya sa akin."
@@ -9,7 +9,7 @@
 "At katotohanang sinasabi ko sa inyo, Saan man ipangaral ang evangelio sa buong sanglibutan, ay sasaysayin din ang ginawa ng babaing ito sa pagaalaala sa kaniya."
 "At si Judas Iscariote, na isa sa labingdalawa, ay naparoon sa mga pangulong saserdote, upang maipagkanulo niya siya sa kanila."
 "At sila, pagkarinig nila nito, ay nangatuwa, at nagsipangakong siya'y bibigyan ng salapi. At pinagsikapan niya kung paanong siya ay kaniyang maipagkakanulo sa kapanahunan."
-"At nang unang araw ng mga tinapay na walang lebadura, nang kanilang inihahain ang kordero ng paskua, ay sinabi sa kaniya, ng kaniyang mga alagad, Saan mo ibig kaming magsiparoon at ipaghanda ka upang makakain ng kordero ng paskua?"
+"At nang unang araw ng mga tinapay na walang lebadura, nang kanilang inihahain ang kordero ng paskua, ay sinabi sa #kaniya, ng kaniyang mga alagad, Saan mo ibig kaming magsiparoon at ipaghanda ka upang makakain ng kordero ng paskua?"
 "At sinugo ang dalawa sa kaniyang mga alagad, at sa kanila'y sinabi, Magsiparoon kayo sa bayan, at doo'y masasalubong ninyo ang isang lalake na may dalang isang bangang tubig
 "At saan man siya pumasok, ay sabihin ninyo sa puno ng sangbahayan, Sinasabi ng Guro, Saan naroon ang aking tuluyan, na makakanan ko ng kordero ng paskua na kasalo ng aking mga alagad?"
 "At ituturo niya sa inyo ang isang malaking silid sa itaas na nagagayakan at handa na
@@ -40,7 +40,7 @@
 "At muli siyang nagbalik, at naratnang sila'y nangatutulog, sapagka't nangabibigatang totoo ang kanilang mga mata; at wala silang maalamang sa kaniya'y isagot."
 "At lumapit siyang bilang ikatlo, at sinabi sa kanila, Mangatulog na kayo, at mangagpahinga
 "Magsitindig kayo, hayo na tayo
-"At pagdaka, samantalang nagsasalita pa siya, ay dumating si Judas, na isa sa labingdalawa, at kasama niya ang isang karamihang may mga tabak at mga panghampas, na mula sa mga pangulong saserdote at sa mga eskriba at sa matatanda."
+"At pagdaka, samantalang nagsasalita pa siya, ay dumating si Judas, na isa sa labingdalawa, at kasama niya ang isang karamihang #may mga tabak at mga panghampas, na mula sa mga pangulong saserdote at sa mga eskriba at sa matatanda."
 "Ang nagkanulo nga sa kaniya ay nagbigay sa kanila ng isang hudyat, na sinasabi, Ang aking hagkan, ay yaon nga; hulihin ninyo siya, at dalhin ninyo siyang maingat."
 "At nang dumating siya, pagdaka'y lumapit siya sa kaniya, at nagsabi, Rabi; at siya'y hinagkan."
 "At siya'y sinunggaban nila, at siya'y kanilang dinakip."
@@ -69,4 +69,4 @@
 "At nakita siya ng alilang babae, at nagpasimulang magsabing muli sa nangaroroon, Ito ay isa sa kanila."
 "Datapuwa't muling ikinaila niya. At hindi nalaon, at ang nangaroon ay nangagsabing muli kay Pedro. Sa katotohanang ikaw ay isa sa kanila; sapagka't ikaw ay Galileo."
 "Datapuwa't siya'y nagpasimulang manungayaw, at manumpa, Hindi ko nakikilala ang taong ito na inyong sinasabi."
-"At pagdaka, bilang pangalawa'y tumilaok ang manok. At naalaala ni Pedro ang salitang sinabi ni Jesus sa kaniya, Bago tumilaok ang manok ng makalawa, ay ikakaila mo akong makaitlo. At nang maisip niya ito, ay tumangis siya."
+"At pagdaka, bilang pangalawa'y tumilaok ang manok. At naalaala ni Pedro ang salitang sinabi ni Jesus sa kaniya, Bago #tumilaok ang manok ng makalawa, ay ikakaila mo akong makaitlo. At nang maisip niya ito, ay tumangis siya."

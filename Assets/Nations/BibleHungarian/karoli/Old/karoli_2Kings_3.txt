@@ -22,6 +22,6 @@
 "És mikor felkeltek reggel, és a nap feljött a vizekre, úgy láták a Moábiták, mintha õ ellenökbe az a víz vereslenék, mint a vér."
 "És mondának
 "De mikor az Izráel táborához jutottak, felkeltek az Izráeliták, és megverték a Moábitákat, és azok megfutamodtak elõttök; betörtek hozzájok és leverték Moábot."
-"És városaikat lerontották, és a jó szántóföldekre kiki követ hányt, és elborították azt [kövekkel,] és minden kútfõt behánytak, és minden jótermõ fát kivágtak, úgy hogy csak Kir-Haréset kõfalait hagyták fenn; de körülvevék azt is a parittyások, és lerontották."
+"És városaikat lerontották, és a jó szántóföldekre kiki követ hányt, és elborították azt [kövekkel,] és minden kútfõt behánytak, és minden #jótermõ fát kivágtak, úgy hogy csak Kir-Haréset kõfalait hagyták fenn; de körülvevék azt is a parittyások, és lerontották."
 "Látván pedig a Moáb királya, hogy legyõzettetik a viadalban, maga mellé vett hétszáz fegyverfogó férfiút, hogy keresztül törjenek az Edom királyához; de nem bírtak."
-"Akkor vevé az õ elsõszülött fiát, a ki õ helyette uralkodandó volt, és égõáldozatul megáldozá a kõfalon. Mely dolog felett az Izráel népe igen felháborodék, és elmenének onnét, és megtérének az õ földjökbe."
+"Akkor vevé az õ elsõszülött fiát, a ki õ helyette uralkodandó volt, és égõáldozatul megáldozá a kõfalon. #Mely dolog felett az Izráel népe igen felháborodék, és elmenének onnét, és megtérének az õ földjökbe."

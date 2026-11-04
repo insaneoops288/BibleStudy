@@ -6,7 +6,7 @@
 "Son père ne lui avait de sa vie fait un reproche, en lui disant
 "Il eut un entretien avec Joab, fils de Tseruja, et avec le sacrificateur Abiathar; et ils embrassèrent son parti."
 "Mais le sacrificateur Tsadok, Benaja, fils de Jehojada, Nathan le prophète, Schimeï, Réï, et les vaillants hommes de David, ne furent point avec Adonija."
-"Adonija tua des brebis, des boeufs et des veaux gras, près de la pierre de Zohéleth, qui est à côté d'En-Roguel; et il invita tous ses frères, fils du roi, et tous les hommes de Juda au service du roi."
+"Adonija tua des brebis, des boeufs et des veaux gras, près de la pierre de Zohéleth, qui est à côté d'En-Roguel; #et il invita tous ses frères, fils du roi, et tous les hommes de Juda au service du roi."
 "Mais il n'invita point Nathan le prophète, ni Benaja, ni les vaillants hommes, ni Salomon, son frère."
 "Alors Nathan dit à Bath-Schéba, mère de Salomon
 "Viens donc maintenant, je te donnerai un conseil, afin que tu sauves ta vie et la vie de ton fils Salomon."
@@ -16,13 +16,13 @@
 "Bath-Schéba s'inclina et se prosterna devant le roi. Et le roi dit
 "Elle lui répondit
 "Et maintenant voici, Adonija règne! Et tu ne le sais pas, ô roi mon seigneur!"
-"Il a tué des boeufs, des veaux gras et des brebis en quantité; et il a invité tous les fils du roi, le sacrificateur Abiathar, et Joab, chef de l'armée, mais il n'a point invité Salomon, ton serviteur."
+"Il a tué des boeufs, des veaux gras et des brebis en quantité; et il a invité tous les fils #du roi, le sacrificateur Abiathar, et Joab, chef de l'armée, mais il n'a point invité Salomon, ton serviteur."
 "O roi mon seigneur, tout Israël a les yeux sur toi, pour que tu lui fasses connaître qui s'assiéra sur le trône du roi mon seigneur après lui."
 "Et lorsque le roi mon seigneur sera couché avec ses pères, il arrivera que moi et mon fils Salomon nous serons traités comme des coupables."
 "Tandis qu'elle parlait encore avec le roi, voici, Nathan le prophète arriva."
 "On l'annonça au roi, en disant
 "Et Nathan dit
-"Car il est descendu aujourd'hui, il a tué des boeufs, des veaux gras et des brebis en quantité; et il a invité tous les fils du roi, les chefs de l'armée, et le sacrificateur Abiathar. Et voici, ils mangent et boivent devant lui, et ils disent
+"Car il est descendu aujourd'hui, il a tué des boeufs, des veaux gras et des brebis en quantité; et il a invité tous les #fils du roi, les chefs de l'armée, et le sacrificateur Abiathar. Et voici, ils mangent et boivent devant lui, et ils disent
 "Mais il n'a invité ni moi qui suis ton serviteur, ni le sacrificateur Tsadok, ni Benaja, fils de Jehojada, ni Salomon, ton serviteur."
 "Est-ce bien par ordre de mon seigneur le roi que cette chose a lieu, et sans que tu aies fait connaître à ton serviteur qui doit s'asseoir sur le trône du roi mon seigneur après lui?"
 "Le roi David répondit
@@ -35,7 +35,7 @@
 "Vous monterez après lui; il viendra s'asseoir sur mon trône, et il régnera à ma place. C'est lui qui, par mon ordre, sera chef d'Israël et de Juda."
 "Benaja, fils de Jehojada, répondit au roi
 "Que l'Eternel soit avec Salomon comme il a été avec mon seigneur le roi, et qu'il élève son trône au-dessus du trône de mon seigneur le roi David!"
-"Alors le sacrificateur Tsadok descendit avec Nathan le prophète, Benaja, fils de Jehojada, les Kéréthiens et les Péléthiens; ils firent monter Salomon sur la mule du roi David, et ils le menèrent à Guihon."
+"Alors le sacrificateur Tsadok descendit avec Nathan le prophète, Benaja, fils de Jehojada, les Kéréthiens et les Péléthiens; #ils firent monter Salomon sur la mule du roi David, et ils le menèrent à Guihon."
 "Le sacrificateur Tsadok prit la corne d'huile dans la tente, et il oignit Salomon. On sonna de la trompette, et tout le peuple dit
 "Tout le peuple monta après lui, et le peuple jouait de la flûte et se livrait à une grande joie; la terre s'ébranlait par leurs cris."
 "Ce bruit fut entendu d'Adonija et de tous les conviés qui étaient avec lui, au moment où ils finissaient de manger. Joab, entendant le son de la trompette, dit

@@ -1,6 +1,6 @@
 "Kemudian berangkatlah Yakub dari situ dan pergi ke negeri Bani Timur."
-"Ketika ia memandang sekelilingnya, dilihatnya ada sebuah sumur di padang, dan ada tiga kumpulan kambing domba berbaring di dekatnya, sebab dari sumur itulah orang memberi minum kumpulan-kumpulan kambing domba itu. Adapun batu penutup sumur itu besar;"
-"dan apabila segala kumpulan kambing domba itu digiring berkumpul ke sana, maka gembala-gembala menggulingkan batu itu dari mulut sumur, lalu kambing domba itu diberi minum; kemudian dikembalikanlah batu itu lagi ke mulut sumur itu."
+"Ketika ia memandang sekelilingnya, dilihatnya ada sebuah sumur di padang, dan ada tiga kumpulan kambing domba berbaring di dekatnya, #sebab dari sumur itulah orang memberi minum kumpulan-kumpulan kambing domba itu. Adapun batu penutup sumur itu besar;"
+"dan apabila segala kumpulan kambing domba itu digiring berkumpul ke sana, maka gembala-gembala menggulingkan batu itu dari mulut #sumur, lalu kambing domba itu diberi minum; kemudian dikembalikanlah batu itu lagi ke mulut sumur itu."
 "Bertanyalah Yakub kepada mereka
 "Lagi katanya kepada mereka
 "Selanjutnya katanya kepada mereka
@@ -10,7 +10,7 @@
 "Ketika Yakub melihat Rahel, anak Laban saudara ibunya, serta kambing domba Laban, ia datang mendekat, lalu menggulingkan batu itu dari mulut sumur, dan memberi minum kambing domba itu."
 "Kemudian Yakub mencium Rahel serta menangis dengan suara keras."
 "Lalu Yakub menceritakan kepada Rahel, bahwa ia sanak saudara ayah Rahel, dan anak Ribka. Maka berlarilah Rahel menceritakannya kepada ayahnya."
-"Segera sesudah Laban mendengar kabar tentang Yakub, anak saudaranya itu, berlarilah ia menyongsong dia, lalu mendekap dan mencium dia, kemudian membawanya ke rumahnya. Maka Yakub menceritakan segala hal ihwalnya kepada Laban."
+"Segera sesudah Laban mendengar kabar tentang Yakub, anak saudaranya itu, berlarilah ia menyongsong dia, lalu mendekap #dan mencium dia, kemudian membawanya ke rumahnya. Maka Yakub menceritakan segala hal ihwalnya kepada Laban."
 "Kata Laban kepadanya
 "Kemudian berkatalah Laban kepada Yakub
 "Laban mempunyai dua anak perempuan; yang lebih tua namanya Lea dan yang lebih muda namanya Rahel."

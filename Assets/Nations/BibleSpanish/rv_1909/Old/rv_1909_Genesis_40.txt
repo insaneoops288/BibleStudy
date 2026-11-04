@@ -2,7 +2,7 @@
 "Y enojóse Faraón contra sus dos eunucos, contra el principal de los coperos, y contra el principal de los panaderos
 "Y púsolos en prisión en la casa del capitán de los de la guardia, en la casa de la cárcel donde José estaba preso."
 "Y el capitán de los de la guardia dió cargo de ellos á José, y él les servía
-"Y ambos á dos, el copero y el panadero del rey de Egipto, que estaban arrestados en la prisión, vieron un sueño, cada uno su sueño en una misma noche, cada uno conforme á la declaración de su sueño."
+"Y ambos á dos, el copero y el panadero del rey de Egipto, que estaban arrestados en la prisión, vieron #un sueño, cada uno su sueño en una misma noche, cada uno conforme á la declaración de su sueño."
 "Y vino á ellos José por la mañana, y mirólos, y he aquí que estaban tristes."
 "Y él preguntó á aquellos eunucos de Faraón, que estaban con él en la prisión de la casa de su señor, diciendo
 "Y ellos le dijeron

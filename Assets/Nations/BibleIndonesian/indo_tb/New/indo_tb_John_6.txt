@@ -19,12 +19,12 @@
 "Sesudah mereka mendayung kira-kira dua tiga mil jauhnya, mereka melihat Yesus berjalan di atas air mendekati perahu itu. Maka ketakutanlah mereka."
 "Tetapi Ia berkata kepada mereka
 "Mereka mau menaikkan Dia ke dalam perahu, dan seketika juga perahu itu sampai ke pantai yang mereka tujui."
-"Pada keesokan harinya orang banyak, yang masih tinggal di seberang, melihat bahwa di situ tidak ada perahu selain dari pada yang satu tadi dan bahwa Yesus tidak turut naik ke perahu itu bersama-sama dengan murid-murid-Nya, dan bahwa murid-murid-Nya saja yang berangkat."
+"Pada keesokan harinya orang banyak, yang masih tinggal di seberang, melihat bahwa di situ tidak ada perahu selain dari pada yang #satu tadi dan bahwa Yesus tidak turut naik ke perahu itu bersama-sama dengan murid-murid-Nya, dan bahwa murid-murid-Nya saja yang berangkat."
 "Tetapi sementara itu beberapa perahu lain datang dari Tiberias dekat ke tempat mereka makan roti, sesudah Tuhan mengucapkan syukur atasnya."
 "Ketika orang banyak melihat, bahwa Yesus tidak ada di situ dan murid-murid-Nya juga tidak, mereka naik ke perahu-perahu itu lalu berangkat ke Kapernaum untuk mencari Yesus."
 "Ketika orang banyak menemukan Yesus di seberang laut itu, mereka berkata kepada-Nya
 "Yesus menjawab mereka
-"Bekerjalah, bukan untuk makanan yang akan dapat binasa, melainkan untuk makanan yang bertahan sampai kepada hidup yang kekal, yang akan diberikan Anak Manusia kepadamu; sebab Dialah yang disahkan oleh Bapa, Allah, dengan meterai-Nya."""
+"Bekerjalah, bukan untuk makanan yang akan dapat binasa, melainkan untuk makanan yang bertahan sampai kepada hidup yang #kekal, yang akan diberikan Anak Manusia kepadamu; sebab Dialah yang disahkan oleh Bapa, Allah, dengan meterai-Nya."""
 "Lalu kata mereka kepada-Nya
 "Jawab Yesus kepada mereka
 "Maka kata mereka kepada-Nya
@@ -48,7 +48,7 @@
 "Akulah roti hidup."
 "Nenek moyangmu telah makan manna di padang gurun dan mereka telah mati."
 "Inilah roti yang turun dari sorga
-"Akulah roti hidup yang telah turun dari sorga. Jikalau seorang makan dari roti ini, ia akan hidup selama-lamanya, dan roti yang Kuberikan itu ialah daging-Ku, yang akan Kuberikan untuk hidup dunia."""
+"Akulah roti hidup yang telah turun dari sorga. Jikalau seorang makan dari roti ini, ia akan #hidup selama-lamanya, dan roti yang Kuberikan itu ialah daging-Ku, yang akan Kuberikan untuk hidup dunia."""
 "Orang-orang Yahudi bertengkar antara sesama mereka dan berkata
 "Maka kata Yesus kepada mereka
 "Barangsiapa makan daging-Ku dan minum darah-Ku, ia mempunyai hidup yang kekal dan Aku akan membangkitkan dia pada akhir zaman."

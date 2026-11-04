@@ -1,4 +1,4 @@
-"Pada suatu kali Yesus mulai pula mengajar di tepi danau. Maka datanglah orang banyak yang sangat besar jumlahnya mengerumuni Dia, sehingga Ia naik ke sebuah perahu yang sedang berlabuh lalu duduk di situ, sedangkan semua orang banyak itu di darat, di tepi danau itu."
+"Pada suatu kali Yesus mulai pula mengajar di tepi danau. Maka datanglah orang banyak yang sangat besar jumlahnya mengerumuni Dia, sehingga Ia naik #ke sebuah perahu yang sedang berlabuh lalu duduk di situ, sedangkan semua orang banyak itu di darat, di tepi danau itu."
 "Dan Ia mengajarkan banyak hal dalam perumpamaan kepada mereka. Dalam ajaran-Nya itu Ia berkata kepada mereka
 """Dengarlah! Adalah seorang penabur keluar untuk menabur."
 "Pada waktu ia menabur sebagian benih itu jatuh di pinggir jalan, lalu datanglah burung dan memakannya sampai habis."
@@ -17,7 +17,7 @@
 "tetapi mereka tidak berakar dan tahan sebentar saja. Apabila kemudian datang penindasan atau penganiayaan karena firman itu, mereka segera murtad."
 "Dan yang lain ialah yang ditaburkan di tengah semak duri, itulah yang mendengar firman itu,"
 "lalu kekuatiran dunia ini dan tipu daya kekayaan dan keinginan-keinginan akan hal yang lain masuklah menghimpit firman itu sehingga tidak berbuah."
-"Dan akhirnya yang ditaburkan di tanah yang baik, ialah orang yang mendengar dan menyambut firman itu lalu berbuah, ada yang tiga puluh kali lipat, ada yang enam puluh kali lipat, dan ada yang seratus kali lipat."""
+"Dan akhirnya yang ditaburkan di tanah yang baik, ialah orang yang mendengar dan menyambut firman itu lalu berbuah, ada #yang tiga puluh kali lipat, ada yang enam puluh kali lipat, dan ada yang seratus kali lipat."""
 "Lalu Yesus berkata kepada mereka
 "Sebab tidak ada sesuatu yang tersembunyi yang tidak akan dinyatakan, dan tidak ada sesuatu yang rahasia yang tidak akan tersingkap."
 "Barangsiapa mempunyai telinga untuk mendengar, hendaklah ia mendengar!"""
@@ -29,7 +29,7 @@
 "Apabila buah itu sudah cukup masak, orang itu segera menyabit, sebab musim menuai sudah tiba."""
 "Kata-Nya lagi
 "Hal Kerajaan itu seumpama biji sesawi yang ditaburkan di tanah. Memang biji itu yang paling kecil dari pada segala jenis benih yang ada di bumi."
-"Tetapi apabila ia ditaburkan, ia tumbuh dan menjadi lebih besar dari pada segala sayuran yang lain dan mengeluarkan cabang-cabang yang besar, sehingga burung-burung di udara dapat bersarang dalam naungannya."""
+"Tetapi apabila ia ditaburkan, ia tumbuh dan menjadi lebih besar dari pada segala sayuran yang #lain dan mengeluarkan cabang-cabang yang besar, sehingga burung-burung di udara dapat bersarang dalam naungannya."""
 "Dalam banyak perumpamaan yang semacam itu Ia memberitakan firman kepada mereka sesuai dengan pengertian mereka,"
 "dan tanpa perumpamaan Ia tidak berkata-kata kepada mereka, tetapi kepada murid-murid-Nya Ia menguraikan segala sesuatu secara tersendiri."
 "Pada hari itu, waktu hari sudah petang, Yesus berkata kepada mereka

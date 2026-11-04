@@ -2,7 +2,7 @@
 """Nämä eivät minua miellytä""; ennenkuin pimenee aurinko, päivänvalo, kuu ja tähdet, ja pilvet palajavat sateen jälkeenkin -"
 "jolloin huoneen vartijat vapisevat ja voiman miehet käyvät koukkuisiksi ja jauhajanaiset ovat joutilaina, kun ovat menneet vähiin, ja akkunoista-kurkistelijat jäävät pimeään,"
 "ja kadulle vievät ovet sulkeutuvat ja myllyn ääni heikkenee ja noustaan linnun lauluun ja kaikki laulun tyttäret hiljentyvät;"
-"myös peljätään mäkiä, ja tiellä on kauhuja, ja mantelipuu kukkii, ja heinäsirkka kulkee kankeasti, ja kapriisinnuppu on tehoton; sillä ihminen menee iankaikkiseen majaansa, ja valittajat kiertelevät kaduilla"
+"myös peljätään mäkiä, ja tiellä on kauhuja, ja mantelipuu kukkii, ja heinäsirkka kulkee kankeasti, #ja kapriisinnuppu on tehoton; sillä ihminen menee iankaikkiseen majaansa, ja valittajat kiertelevät kaduilla"
 "ennenkuin hopealanka katkeaa ja kultamalja särkyy ja vesiastia rikkoutuu lähteellä ja ammennuspyörä särkyneenä putoaa kaivoon."
 "Ja tomu palajaa maahan, niinkuin on ollutkin, ja henki palajaa Jumalan tykö, joka sen on antanutkin."
 "Turhuuksien turhuus, sanoi saarnaaja; kaikki on turhuutta!"

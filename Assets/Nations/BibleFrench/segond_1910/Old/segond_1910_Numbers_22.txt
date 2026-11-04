@@ -3,7 +3,7 @@
 "Et Moab fut très effrayé en face d'un peuple aussi nombreux, il fut saisi de terreur en face des enfants d'Israël."
 "Moab dit aux anciens de Madian
 "Il envoya des messagers auprès de Balaam, fils de Beor, à Pethor sur le fleuve, dans le pays des fils de son peuple, afin de l'appeler et de lui dire
-"Viens, je te prie, maudis-moi ce peuple, car il est plus puissant que moi; peut-être ainsi pourrai-je le battre et le chasserai-je du pays, car je sais que celui que tu bénis est béni, et que celui que tu maudis est maudit."
+"Viens, je te prie, maudis-moi ce peuple, car il est plus puissant que moi; peut-être ainsi pourrai-je le battre et le chasserai-je #du pays, car je sais que celui que tu bénis est béni, et que celui que tu maudis est maudit."
 "Les anciens de Moab et les anciens de Madian partirent, ayant avec eux des présents pour le devin. Ils arrivèrent auprès de Balaam, et lui rapportèrent les paroles de Balak."
 "Balaam leur dit
 "Dieu vint à Balaam, et dit

@@ -21,7 +21,7 @@
 "Pakli byse bezbožný odvrátil ode všech hříchu svých, kteréž činil, a ostříhal by všech ustanovení mých, a činil by soud a spravedlnost, jistě živ bude a neumře."
 "Žádná přestoupení jeho, jichž se dopustil, nebudou jemu připomínána; v spravedlnosti své, kterouž by činil, živ bude."
 "Zdaliž jakou líbost mám, když umírá bezbožný? dí Panovník Hospodin. Zdali ne raději když se odvrací od cest svých, aby živ byl?"
-"Pakli by se odvrátil spravedlivý od spravedlnosti své, a činil by nepravost, čině podlé všech ohavností, kteréž činí bezbožný, takový-liž by živ byl? Na žádné spravedlnosti jeho, kteréž činil, nebude pamatováno. Pro přestoupení své, jehož se dopouštěl, a pro hřích svůj, kterýž páchal, pro tyť věci umře."
+"Pakli by se odvrátil spravedlivý od spravedlnosti své, a činil by nepravost, čině podlé všech ohavností, kteréž činí bezbožný, takový-liž by živ byl? Na #žádné spravedlnosti jeho, kteréž činil, nebude pamatováno. Pro přestoupení své, jehož se dopouštěl, a pro hřích svůj, kterýž páchal, pro tyť věci umře."
 "Že pak říkáte
 "Když by se odvrátil spravedlivý od spravedlnosti své, a čině nepravost, v tom by umřel, pro nepravost svou, kterouž činil, umře."
 "A když by se odvrátil bezbožný od bezbožnosti své, kterouž činil, a činil by soud a spravedlnost, tenť duši svou zachová při životu."

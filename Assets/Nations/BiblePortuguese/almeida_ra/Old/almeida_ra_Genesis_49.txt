@@ -23,11 +23,11 @@
 "Os flecheiros lhe deram amargura, e o flecharam e perseguiram,"
 "mas o seu arco permaneceu firme, e os seus braços foram fortalecidos pelas mãos do Poderoso de Jacob, o Pastor, o Rochedo de Israel,"
 "pelo Deus de teu pai, o qual te ajudará, e pelo Todo-Poderoso, o qual te abençoara, com bênçãos dos céus em cima, com bênçãos do abismo que jaz embaixo, com bênçãos dos seios e da madre."
-"As bênçãos de teu pai excedem as bênçãos dos montes eternos, as coisas desejadas dos eternos outeiros; sejam elas sobre a cabeça de José, e sobre o alto da cabeça daquele que foi separado de seus irmãos."
+"As bênçãos de teu pai excedem as bênçãos dos montes eternos, as coisas desejadas dos eternos outeiros; sejam elas #sobre a cabeça de José, e sobre o alto da cabeça daquele que foi separado de seus irmãos."
 "Benjamim é lobo que despedaça; pela manhã devorará a presa, e à tarde repartirá o despojo."
 "Todas estas são as doze tribos de Israel
 "Depois lhes deu ordem, dizendo-lhes
-"na cova que está no campo de Macpela, que está em frente de Manre, na terra de Canaã, cova esta que Abraão comprou de Efron, o heteu, juntamente com o respectivo campo, como propriedade de sepultura."
+"na cova que está no campo de Macpela, que está em frente de Manre, na terra de Canaã, cova #esta que Abraão comprou de Efron, o heteu, juntamente com o respectivo campo, como propriedade de sepultura."
 "Ali sepultaram a Abraão e a Sara, sua mulher; ali sepultaram a Isaque e a Rebeca, sua mulher; e ali eu sepultei a Lia."
 "O campo e a cova que está nele foram comprados aos filhos de Hete."
 "Acabando Jacob de dar estas instruções a seus filhos, encolheu os seus pés na cama, expirou e foi congregado ao seu povo."

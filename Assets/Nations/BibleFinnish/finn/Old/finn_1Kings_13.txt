@@ -8,7 +8,7 @@
 "Mutta Jumalan mies sanoi kuninkaalle
 "Sillä niin käski minua Herran sanansa kautta, sanoen
 "Ja hän meni toista tietä ja ei palannut sitä tietä, jota hän Beteliin tullut oli."
-"Mutta Betelissä asui vanha propheta; hänen tykönsä tuli hänen poikansa ja jutteli hänelle kaikki, mitä Jumalan mies teki sinä päivänä Betelissä, ja sanat, jotka hän kuninkaalle sanonut oli, he juttelivat isällensä."
+"Mutta Betelissä asui vanha propheta; hänen tykönsä tuli hänen poikansa ja jutteli hänelle kaikki, mitä Jumalan #mies teki sinä päivänä Betelissä, ja sanat, jotka hän kuninkaalle sanonut oli, he juttelivat isällensä."
 "Ja heidän isänsä sanoi heille, mitä tietä hän meni? ja hänen poikansa osoittivat hänelle tien, jota Juudasta tullut Jumalan mies vaeltanut oli."
 "Mutta hän sanoi pojillensa
 "Ja meni sen Jumalan miehen perään, ja löysi hänen istumassa tammen alla, ja sanoi hänelle, sinäkö se Jumalan mies olet, joka Juudasta tullut olet? Hän sanoi
@@ -30,5 +30,5 @@
 "Ja hän pani ruumiin omaan hautaansa, ja he itkivät häntä
 "Ja kuin he olivat haudanneet hänen, puhui hän pojillensa, sanoen
 "Sillä se on tapahtuva, minkä hän alttaria ja Beteliä vastaan Herran sanan kautta huutanut oli, ja kaikkia korkeuden huoneita vastaan, jotka Samarian kaupungeissa ovat."
-"Mutta kuin nämät tapahtuneet olivat, ei Jerobeam kääntänytkään itseänsä pahalta tieltänsä pois, mutta meni ja teki taas korkeuden pappeja halvimmista kansan seassa; kenenkä hän tahtoi, sen käden hän täytti, ja se tuli korkeuden papiksi."
+"Mutta kuin nämät tapahtuneet olivat, ei Jerobeam kääntänytkään itseänsä pahalta tieltänsä pois, mutta meni ja teki taas korkeuden #pappeja halvimmista kansan seassa; kenenkä hän tahtoi, sen käden hän täytti, ja se tuli korkeuden papiksi."
 "Ja tämä asia tapahtui Jerobeamin huoneelle synniksi, ja että hän piti hävitettämän ja hukutettaman maan päältä."

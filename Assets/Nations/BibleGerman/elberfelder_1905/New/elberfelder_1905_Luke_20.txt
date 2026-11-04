@@ -16,8 +16,8 @@
 "Er wird kommen und diese Weingärtner umbringen und den Weinberg anderen geben. Als sie aber das hörten, sprachen sie
 "Er aber sah sie an und sprach
 "Jeder, der auf jenen Stein fällt, wird zerschmettert werden; auf welchen irgend er aber fallen wird, den wird er zermalmen."
-"Und die Hohenpriester und die Schriftgelehrten suchten zu derselben Stunde die Hände an ihn zu legen, und sie fürchteten das Volk; denn sie erkannten, daß er dieses Gleichnis auf sie geredet hatte."
-"Und sie beobachteten ihn und sandten Auflaurer aus, die sich verstellten, als ob sie gerecht wären, auf daß sie ihn in seiner Rede fingen, damit sie ihn der Obrigkeit und der Gewalt des Landpflegersüberliefern möchten."
+"Und die Hohenpriester und die Schriftgelehrten suchten zu derselben Stunde die Hände an ihn zu legen, und #sie fürchteten das Volk; denn sie erkannten, daß er dieses Gleichnis auf sie geredet hatte."
+"Und sie beobachteten ihn und sandten Auflaurer aus, die sich verstellten, als ob sie gerecht wären, auf daß #sie ihn in seiner Rede fingen, damit sie ihn der Obrigkeit und der Gewalt des Landpflegersüberliefern möchten."
 "Und sie fragten ihn und sagten
 "Ist es uns erlaubt, dem Kaiser Steuer zu geben oder nicht?"
 "Aber ihre Arglist wahrnehmend, sprach er zu ihnen
@@ -43,5 +43,5 @@
 "bis ich deine Feinde lege zum Schemel deiner Füße""?"
 "David also nennt ihn Herr, und wie ist er sein Sohn?"
 "Während aber das ganze Volk zuhörte, sprach er zu seinen Jüngern
-"Hütet euch vor den Schriftgelehrten, die in langen Gewändern einhergehen wollen und die Begrüßungen auf den Märkten lieben und die ersten Sitze in den Synagogen und die ersten Plätze bei den Gastmählern;"
+"Hütet euch vor den Schriftgelehrten, die in langen Gewändern einhergehen wollen und die Begrüßungen auf den Märkten #lieben und die ersten Sitze in den Synagogen und die ersten Plätze bei den Gastmählern;"
 "welche die Häuser der Witwen verschlingen und zum Schein lange Gebete halten. Diese werden ein schwereres Gericht empfangen."

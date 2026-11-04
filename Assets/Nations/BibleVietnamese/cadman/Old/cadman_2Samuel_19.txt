@@ -3,8 +3,8 @@
 "Nên nỗi, trong ngày đó, dân sự lén trở vào thành dường như một đạo binh mắc cỡ vì đã trốn khỏi chiến trận."
 "Vua trùm mặt, la lớn tiếng lên rằng
 "Giô-áp bèn vào nhà vua, và nói rằng
-"Vậy, vua thương những người ghét vua, và ghét những người thương vua; vì vua mới tỏ ra rằng những quan trưởng và các tôi tớ của vua chẳng ra chi với vua. Rầy tôi biết rõ ràng nếu Áp-sa-lôm còn sống, và chúng tôi chết hết thảy, thì vừa ý vua."
-"Thà vua chổi dậy, đi ra nói những lời giục lòng các tôi tớ vua; vì tôi chỉ Ðức Giê-hô-va mà thề rằng, nếu vua không chường ra, thì đêm nay sẽ không còn một người nào ở bên vua; và tai nạn ấy sẽ còn trọng hơn các tai nạn khác đã xảy đến cho vua từ khi thơ ấu tới ngày nay."
+"Vậy, vua thương những người ghét vua, và ghét những người thương vua; vì vua mới tỏ ra rằng những quan trưởng và các tôi tớ của #vua chẳng ra chi với vua. Rầy tôi biết rõ ràng nếu Áp-sa-lôm còn sống, và chúng tôi chết hết thảy, thì vừa ý vua."
+"Thà vua chổi dậy, đi ra nói những lời giục lòng các tôi tớ vua; vì tôi chỉ Ðức Giê-hô-va mà thề rằng, nếu vua không chường ra, thì đêm nay sẽ không #còn một người nào ở bên vua; và tai nạn ấy sẽ còn trọng hơn các tai nạn khác đã xảy đến cho vua từ khi thơ ấu tới ngày nay."
 "Bấy giờ, vua chổi dậy, ngồi tại cửa thành. Người ta cho cả dân sự biết rằng vua đã ngồi tại cửa thành. Cả dân sự bèn kéo đến trước mặt vua. Vả, Y-sơ-ra-ên ai nấy đều đã chạy trốn nơi trại mình."
 "Trong các chi phái Y-sơ-ra-ên người ta trách nhau rằng
 "Vả, Áp-sa-lôm mà chúng ta đã xức dầu cho làm vua chúng ta đã chết trong chiến trận. Vậy bây giờ, nhân sao các ngươi không nói đem vua trở về?"
@@ -32,9 +32,9 @@
 "Người đã già quá, được tám mươi tuổi, có cung cấp lương thực cho vua trọn lúc vua ở tại Ma-ha-na-im; vì người có nhiều của cải lắm."
 "Vua nói với Bát-xi-tai rằng
 "Nhưng Bát-xi-lai thưa cùng vua rằng
-"Ngày nay tôi được tám mươi tuổi, há còn có thế phân biệt điều tốt và điều xấu ư? Kẻ tôi tớ vua cũng chẳng nếm được mùi của vật mình ăn và uống. Há lại có thể vui nghe người nam nữ ca xướng sao? Kẻ tôi tớ vua sẽ làm bận vua chúa tôi mà làm chi?"
+"Ngày nay tôi được tám mươi tuổi, há còn có thế phân biệt điều tốt và điều xấu ư? Kẻ tôi tớ vua cũng chẳng nếm được mùi của vật #mình ăn và uống. Há lại có thể vui nghe người nam nữ ca xướng sao? Kẻ tôi tớ vua sẽ làm bận vua chúa tôi mà làm chi?"
 "Kẻ tôi tớ vua sẽ cùng vua đi tới một chút ở bên kia sông Giô-đanh. Cớ sau vua muốn thưởng cho tôi cách dường ấy?"
-"Xin cho phép tôi trở về, hầu cho tôi chết trong thành tôi, gần bên mộ của cha mẹ tôi. Nhưng nầy là Kim-ham, kẻ tôi tớ vua; nó sẽ đi qua sông Giô-đanh với vua chúa tôi, rồi vua phải đãi nó tùy ý vua lấy làm tốt."
+"Xin cho phép tôi trở về, hầu cho tôi chết trong thành tôi, gần bên mộ của cha mẹ tôi. Nhưng nầy là Kim-ham, kẻ #tôi tớ vua; nó sẽ đi qua sông Giô-đanh với vua chúa tôi, rồi vua phải đãi nó tùy ý vua lấy làm tốt."
 "Vua tiếp rằng
 "Vậy, cả dân sự đều qua sông Giô-đanh, chính mình vua cũng đi nữa. Ðoạn vua hôn và chúc phước cho Bát-xi-lai; rồi Bát-xi-lai trở về xứ sở mình."
 "Từ đó, vua đi qua Ghinh-ganh, có Kim-ham, cả dân Giu-đa, và hơn phân nửa dân Y-sơ-ra-ên đều theo."

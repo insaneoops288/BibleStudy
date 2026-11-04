@@ -6,7 +6,7 @@
 "Shërbëtori i caktuar të mbikqyrë korrësit u përgjigj
 "Ajo na tha
 "Atëherë Bozai i tha Ruthit
-"Mbaj sytë në arën që po korrin dhe shko prapa korrësve. A nuk i kam urdhëruar shërbyesit e mi të mos të të bezdisin? Kur ke etje, shko atje ku janë shtambat, për të pirë ujin që kanë nxjerrë shërbëtorët""."
+"Mbaj sytë në arën që po korrin dhe shko prapa korrësve. A nuk i kam urdhëruar shërbyesit e mi të mos #të të bezdisin? Kur ke etje, shko atje ku janë shtambat, për të pirë ujin që kanë nxjerrë shërbëtorët""."
 "Atëherë Ruthi u shtri përdhe, duke rënë përmbys me fytyrën për tokë dhe i tha
 "Boazi iu përgjegj duke thënë
 "Zoti të shpërbleftë për ato që ke bërë dhe shpërblimi yt të jetë i plotë nga ana e Zotit, Perënedisë së Izraelit, nën krahët e të cilit erdhe të strehohesh!""."

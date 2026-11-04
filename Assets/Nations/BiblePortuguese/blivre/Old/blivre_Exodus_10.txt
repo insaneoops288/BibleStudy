@@ -3,7 +3,7 @@
 "Então vieram Moisés e Arão a Faraó, e lhe disseram
 "E se ainda recusas deixá-lo ir, eis que trarei amanhã gafanhotos em teu território,"
 "os quais cobrirão a face da terra, de modo que não se possa ver a terra; e ela comerá o que restou salvo, o que vos restou do granizo; comerão também toda árvore que vos produz fruto no campo;"
-"e encherão tuas casas, e as casas de todos os teus servos, e as casas de todos os egípcios, que nunca viram teus pais nem teus avós, desde que eles existiram sobre a terra até hoje. E voltou-se, e saiu da presença de Faraó."
+"e encherão tuas casas, e as casas de todos os teus servos, e as casas de todos os egípcios, que nunca viram teus #pais nem teus avós, desde que eles existiram sobre a terra até hoje. E voltou-se, e saiu da presença de Faraó."
 "Então os servos de Faraó lhe disseram
 "E Moisés e Arão voltaram a ser chamados a Faraó, o qual lhes disse
 "E Moisés respondeu
@@ -11,8 +11,8 @@
 "Não será assim
 "Então o SENHOR disse a Moisés
 "E estendeu Moisés sua vara sobre a terra do Egito, e o SENHOR trouxe um vento oriental sobre o país todo aquele dia e toda aquela noite; e na manhã o vento oriental trouxe os gafanhotos;"
-"E os gafanhotos subiram sobre toda a terra do Egito, e pousaram em todos os termos do Egito, em gravíssima maneira; antes dela não houve gafanhotos semelhantes, nem depois deles vieram outros tais;"
-"E cobriram a face de todo o país, e escureceu-se a terra; e consumiram toda a erva da terra, e todo o fruto das árvores que o granizo havia deixado; que não restou coisa verde em árvores nem em erva do campo, por toda a terra do Egito."
+"E os gafanhotos subiram sobre toda a terra do Egito, e pousaram em todos os termos do #Egito, em gravíssima maneira; antes dela não houve gafanhotos semelhantes, nem depois deles vieram outros tais;"
+"E cobriram a face de todo o país, e escureceu-se a terra; e consumiram toda a erva da terra, e todo o fruto das árvores #que o granizo havia deixado; que não restou coisa verde em árvores nem em erva do campo, por toda a terra do Egito."
 "Então Faraó fez chamar depressa a Moisés e a Arão, e disse
 "Mas rogo agora que perdoes meu pecado somente esta vez, e que oreis ao SENHOR vosso Deus que tire de mim somente esta morte."
 "E saiu da presença de Faraó, e orou ao SENHOR."

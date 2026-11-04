@@ -13,15 +13,15 @@
 "Mas a videira lhes respondeu
 "Então todas as árvores disseram ao espinheiro
 "O espinheiro, porém, respondeu às árvores
-"Agora, pois, se de boa fé e com retidão procedestes, constituindo rei a Abimélec, e se bem fizestes para com Jerubaal e para com a sua casa, e se com ele usastes conforme o merecimento das suas mãos"
+"Agora, pois, se de boa fé e com retidão procedestes, constituindo rei a Abimélec, e se bem fizestes para com #Jerubaal e para com a sua casa, e se com ele usastes conforme o merecimento das suas mãos"
 "(porque meu pai pelejou por vós, desprezando a própria vida, e vos livrou da mão de Midiã;"
-"porém vós hoje vos levantastes contra a casa de meu pai, e matastes a seus filhos, setenta homens, sobre uma só pedra; e a Abimélec, filho da sua serva, fizestes reinar sobre os cidadãos de Siquém, porque é vosso irmão);"
+"porém vós hoje vos levantastes contra a casa de meu pai, e matastes a seus filhos, setenta homens, sobre uma só #pedra; e a Abimélec, filho da sua serva, fizestes reinar sobre os cidadãos de Siquém, porque é vosso irmão);"
 "se de boa fé e com retidão procedestes hoje para com Jerubaal e para com a sua casa, alegrai-vos em Abimélec, e também ele se alegre em vós;"
 "mas se não, saia fogo de Abimélec, e devore os cidadãos de Siquém, e a Bet-Milo; e saia fogo dos cidadãos de Siquém e de Bet-Milo, e devore Abimélec."
 "E partindo Jotam, fugiu e foi para Beer, e ali habitou, por medo de Abimélec, seu irmão."
 "Havendo Abimélec reinado três anos sobre Israel,"
 "Deus suscitou um espírito mau entre Abimélec e os cidadãos de Siquém; e estes procederam aleivosamente para com Abimélec;"
-"para que a violência praticada contra os setenta filhos de Jerubaal, como também o sangue deles, recaíssem sobre Abimélec, seu irmão, que os matara, e sobre os cidadãos de Siquém, que fortaleceram as mãos dele para matar a seus irmãos."
+"para que a violência praticada contra os setenta filhos de Jerubaal, como também o sangue deles, recaíssem sobre Abimélec, seu irmão, #que os matara, e sobre os cidadãos de Siquém, que fortaleceram as mãos dele para matar a seus irmãos."
 "E os cidadãos de Siquém puseram de emboscada contra ele, sobre os cumes dos montes, homens que roubavam a todo aquele que passava por eles no caminho. E contou-se isto a Abimélec."
 "Também veio Gaal, filho de Ébed, com seus irmãos, e estabeleceu-se em Siquém; e confiaram nele os cidadãos de Siquém."
 "Saindo ao campo, vindimaram as suas vinhas, pisaram as uvas e fizeram uma festa; e, entrando na casa de seu deus, comeram e beberam, e amaldiçoaram a Abimélec."
@@ -45,8 +45,8 @@
 "Abimélec pelejou contra a cidade todo aquele dia, tomou-a e matou o povo que nela se achava; e, assolando-a, a semeou de sal."
 "Tendo ouvido isso todos os cidadãos de Migdal-Siquém, entraram na fortaleza, na casa de El-Berit."
 "E contou-se a Abimélec que todos os cidadãos de Migdal-Siquém se haviam congregado."
-"Então Abimélec subiu ao monte Salmon, ele e todo o povo que com ele havia; e, tomando na mão um machado, cortou um ramo de árvore e, levantando-o, pô-lo ao seu ombro, e disse ao povo que estava com ele
-"Tendo, pois, cada um cortado o seu ramo, seguiram a Abimélec; e, pondo os ramos junto da fortaleza, queimaram-na a fogo com os que nela estavam; de modo que morreram também todos os de Migdal-Siquém, cerca de mil homens e mulheres."
+"Então Abimélec subiu ao monte Salmon, ele e todo o povo que com ele havia; e, tomando na mão um machado, #cortou um ramo de árvore e, levantando-o, pô-lo ao seu ombro, e disse ao povo que estava com ele
+"Tendo, pois, cada um cortado o seu ramo, seguiram a Abimélec; e, pondo os ramos junto da fortaleza, queimaram-na a fogo #com os que nela estavam; de modo que morreram também todos os de Migdal-Siquém, cerca de mil homens e mulheres."
 "Então Abimélec foi a Tebes, e a sitiou e tomou."
 "Havia, porém, no meio da cidade uma torre forte, na qual se refugiaram todos os habitantes da cidade, homens e mulheres; e fechando após si as portas, subiram ao eirado da torre."
 "E Abimélec, tendo chegado até a torre, atacou-a, e chegou-se à porta da torre, para lhe meter fogo."

@@ -22,7 +22,7 @@
 "Bà đương còn tâu với vua, thì tiên tri Na-than đến."
 "Người ta đến thưa cùng vua rằng
 "và nói rằng
-"Thật vậy, ngày nay, người đã đi xuống giết bò, bò tơ mập, và chiên rất nhiều, cùng mời hết thảy các vương tử, quan tướng, và thầy tế lễ A-bia-tha; kìa, họ ăn uống tại trước mặt người, và la lên rằng
+"Thật vậy, ngày nay, người đã đi xuống giết bò, bò tơ mập, và chiên rất nhiều, cùng mời hết thảy các #vương tử, quan tướng, và thầy tế lễ A-bia-tha; kìa, họ ăn uống tại trước mặt người, và la lên rằng
 "Còn tôi là kẻ tôi tớ vua, thầy tế lễ Xa-đốc, Bê-na-gia, con trai Giê-hô-gia-đa, và Sa-lô-môn, tôi tớ vua, thì người chẳng có mời."
 "Việc này há phải bởi vua chúa tôi mà ra? Và lại vua không cho các tôi tớ vua biết ai là người kế vua, phải ngồi trên ngai của vua chúa tôi."
 "Vua Ða-vít đáp rằng
@@ -35,7 +35,7 @@
 "Vua Sa-lô-môn vạn tuế! Các ngươi sẽ theo sau người mà ta đã lập làm vua của Y-sơ-ra-ên và Giu-đa."
 "Bê-na-gia, con trai Giê-hô-gia-đa tâu cùng vua rằng
 "Ðức Giê-hô-va đã ở cùng vua chúa tôi thể nào, nguyện Ngài cũng ở cùng Sa-lô-môn thể ấy, và khiến ngôi người còn cao trọng hơn ngôi của vua Ða-vít, là chúa tôi!"
-"Ðoạn, thầy tế lễ Xa-đốc, tiên tri Na-than, Bê-na-gia, con trai Giê-hô-gia-đa, những người Kê-rê-thít và Phê-lê-thít, đều đi xuống, đỡ Sa-lô-môn lên cỡi con la của vua Ða-vít rồi đưa người đến Ghi-hôn."
+"Ðoạn, thầy tế lễ Xa-đốc, tiên tri Na-than, Bê-na-gia, con trai Giê-hô-gia-đa, những người Kê-rê-thít và Phê-lê-thít, đều #đi xuống, đỡ Sa-lô-môn lên cỡi con la của vua Ða-vít rồi đưa người đến Ghi-hôn."
 "Thầy tế lễ Xa-đốc lấy cái sừng dầu trong Ðền tạm, và xức cho Sa-lô-môn. Người ta thổi kèn, cả dân sự đều hô lên rằng
 "Chúng đều theo người đi lên, thổi sáo, và vui mừng khôn xiết, đến nỗi đất rúng động bởi tiếng la của họ."
 "A-đô-ni-gia và hết thảy kẻ dự tiệc với mình đều nghe tiếng này khi vừa ăn xong. Lúc Giô-áp nghe tiếng kèn, thì nói

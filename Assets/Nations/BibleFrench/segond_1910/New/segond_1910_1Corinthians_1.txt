@@ -1,5 +1,5 @@
 "Paul, appelé à être apôtre de Jésus-Christ par la volonté de Dieu, et le frère Sosthène,"
-"l'Eglise de Dieu qui est à Corinthe, à ceux qui ont été sanctifiés en Jésus-Christ, appelés à être saints, et à tous ceux qui invoquent en quelque lieu que ce soit le nom de notre Seigneur Jésus-Christ, leur Seigneur et le nôtre
+"l'Eglise de Dieu qui est à Corinthe, à ceux qui ont été sanctifiés en Jésus-Christ, appelés à être saints, et à tous #ceux qui invoquent en quelque lieu que ce soit le nom de notre Seigneur Jésus-Christ, leur Seigneur et le nôtre
 "que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ!"
 "Je rends à mon Dieu de continuelles actions de grâces à votre sujet, pour la grâce de Dieu qui vous a été accordée en Jésus-Christ."
 "Car en lui vous avez été comblés de toutes les richesses qui concernent la parole et la connaissance,"
@@ -7,7 +7,7 @@
 "de sorte qu'il ne vous manque aucun don, dans l'attente où vous êtes de la manifestation de notre Seigneur Jésus-Christ."
 "Il vous affermira aussi jusqu'à la fin, pour que vous soyez irréprochables au jour de notre Seigneur Jésus-Christ."
 "Dieu est fidèle, lui qui vous a appelés à la communion de son Fils, Jésus-Christ notre Seigneur."
-"Je vous exhorte, frères, par le nom de notre Seigneur Jésus-Christ, à tenir tous un même langage, et à ne point avoir de divisions parmi vous, mais à être parfaitement unis dans un même esprit et dans un même sentiment."
+"Je vous exhorte, frères, par le nom de notre Seigneur Jésus-Christ, à tenir tous un même langage, et à ne point #avoir de divisions parmi vous, mais à être parfaitement unis dans un même esprit et dans un même sentiment."
 "Car, mes frères, j'ai appris à votre sujet, par les gens de Chloé, qu'il y a des disputes au milieu de vous."
 "Je veux dire que chacun de vous parle ainsi
 "Christ est-il divisé? Paul a-t-il été crucifié pour vous, ou est-ce au nom de Paul que vous avez été baptisés?"

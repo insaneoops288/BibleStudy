@@ -15,12 +15,12 @@
 "por edhe me ata që janë sot para Zotit, Perëndisë tonë, dhe me ata që sot nuk janë këtu me ne."
 "(Sepse ju e dini që kemi banuar në vendin e Egjiptit dhe kemi kaluar në mes të kombeve, që u keni rënë mes për mes;"
 "dhe keni parë gjërat e tyre të neveritshme, idhujt e tyre prej druri, guri, argjendi dhe ari, që ndodhen në mes tyre)."
-"Të mos ketë midis jush burrë a grua, familje a fis zemra e të cilit të largohet nga Zoti, Perëndia ynë, dhe të shkojë t'u shërbejë perëndive të këtyre kombeve, nuk duhet të ketë midis jush asnjë rrënjë që prodhon helmin dhe pelinin;"
+"Të mos ketë midis jush burrë a grua, familje a fis zemra e të cilit të largohet nga Zoti, Perëndia ynë, dhe #të shkojë t'u shërbejë perëndive të këtyre kombeve, nuk duhet të ketë midis jush asnjë rrënjë që prodhon helmin dhe pelinin;"
 "dhe të mos ndodhë që dikush, duke dëgjuar fjalët e këtij betimi, të vetëbekohet në zemër të tij, duke thënë
-"Por Zoti nuk mund ta falë kurrë; por në këtë rast zemërimi i Zotit dhe zilia e tij do të ndizen kundër tij dhe të gjitha mallkimet që janë shkruar në këtë libër do të bien mbi të, dhe Zoti do ta fshijë emrin e tij poshtë qiellit;"
+"Por Zoti nuk mund ta falë kurrë; por në këtë rast zemërimi i Zotit dhe zilia e tij do të ndizen kundër tij dhe të #gjitha mallkimet që janë shkruar në këtë libër do të bien mbi të, dhe Zoti do ta fshijë emrin e tij poshtë qiellit;"
 "Zoti do ta veçojë për ta shkatërruar nga të gjitha fiset e Izraelit, simbas të gjitha mallkimeve të besëlidhjes së shkruar në këtë libër të ligjit."
 "Kështu brezi i ardhshëm i bijve tuaj që do të dalë pas jush dhe i huaji që do të vijë nga një vend i largët, duke parë mjerimet dhe lëngatat që Zoti u ka dhënë, do të thonë
-"""Tërë toka është squfur, kripë, zjarrmi; nuk është mbjellë, nuk prodhon më asgjë dhe në të nuk rritet asnjë bar, ashtu si pas shkatërrimit të Sodomës, të Gomorrës, të Admahut dhe të Tseboimit, që Zoti shkatërroi gjatë zemërimit dhe tërbimit të tij""."
+"""Tërë toka është squfur, kripë, zjarrmi; nuk është mbjellë, nuk prodhon më asgjë dhe në të nuk rritet asnjë bar, ashtu si #pas shkatërrimit të Sodomës, të Gomorrës, të Admahut dhe të Tseboimit, që Zoti shkatërroi gjatë zemërimit dhe tërbimit të tij""."
 "Po, të gjitha kombet do të thonë
 "Atëherë do të përgjigjen
 "sepse ata shkuan t'u shërbejnë perëndive të tjera dhe ranë përmbys përpara tyre, perëndi që ata nuk i njihnin dhe që Zoti nuk u kishte dhënë atyre."

@@ -3,7 +3,7 @@
 "Sytë e atyre që shohin nuk do t'u erren më dhe veshët e atyre që dëgjojnë do të jenë të vëmendshëm."
 "Zemra e njerëzve të pamend do të fitojë njohuri dhe gjuha e atyre që belbëzojnë do të flasë shpejt dhe qartë."
 "Njeriu i përçmuar nuk do të thirret më fisnik, as i pandershmi nuk do të thirret i pavlerë."
-"Sepse njeriu i përçmuar thotë gjëra të neveritshme dhe zemra e tij jepet pas paudhësisë, për të kryer pabesi dhe për të thënë gjëra pa respekt kundër Zotit, për ta lënë bosh stomakun e të uriturit dhe për ta lënë thatë atë që vuan nga etja."
+"Sepse njeriu i përçmuar thotë gjëra të neveritshme dhe zemra e tij jepet pas paudhësisë, për të kryer pabesi dhe për të thënë gjëra #pa respekt kundër Zotit, për ta lënë bosh stomakun e të uriturit dhe për ta lënë thatë atë që vuan nga etja."
 "Armët e të pandershmit janë të poshtra; ai kurdis plane të këqija për të shkatërruar të mjerin me fjalë gënjeshtare, edhe kuri mjeri pohon të drejtën."
 "Por njeriu fisnik mendon plane fisnike dhe i vë vetes qëllime fisnike."
 "Çohuni, o gra që jetoni në bollëk, dhe dëgjoni zërin tim; o bija pa mend, ia vini veshin fjalës sime!"

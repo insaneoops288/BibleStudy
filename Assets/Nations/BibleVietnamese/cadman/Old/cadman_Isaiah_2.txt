@@ -1,7 +1,7 @@
 "Lời mà Ê-sai, con trai A-mốt, đã thấy về Giu-đa và Giê-ru-sa-lem."
 "Sẽ xảy ra trong những ngày sau rốt, núi của nhà Ðức Giê-hô-va sẽ được lập vững trên đỉnh các núi, cao hơn các đồi. Mọi nước sẽ đổ về đó,"
 "và nhiều dân tộc sẽ đến mà nói rằng
-"Ngài sẽ làm sự phán xét trong các nước, đoán định về nhiều dân. Bấy giờ họ sẽ lấy gươm rèn lưỡi cày, lấy giáo rèn lưỡi liềm. Nước nầy chẳng còn giá gươm lên nghịch cùng nước khác, người ta chẳng còn tập sự chiến tranh."
+"Ngài sẽ làm sự phán xét trong các nước, đoán định về nhiều dân. Bấy giờ họ sẽ lấy gươm rèn lưỡi cày, lấy #giáo rèn lưỡi liềm. Nước nầy chẳng còn giá gươm lên nghịch cùng nước khác, người ta chẳng còn tập sự chiến tranh."
 "Hỡi nhà Gia-cốp, hãy đến, chúng ta hãy bước đi trong sự sáng của Ðức Giê-hô-va."
 "Thật Chúa đã bỏ dân Ngài, là nhà Gia-cốp, vì họ đầy dẫy tục phương đông, và bói khoa như người Phi-li-tin, lại giao ước với con cái dân ngoại."
 "Xứ nó đầy bạc và vàng, của cải vô cùng; xứ nó đầy những ngữa, xe cộ vô số."

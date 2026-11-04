@@ -9,7 +9,7 @@
 "E tendo passado muito tempo, e sendo a navegação já perigosa, porque também já tinha passado o jejum, Paulo [os] exortava,"
 "Dizendo-lhes
 "Porém o centurião cria mais no capitão e no dono do navio do que no que Paulo dizia."
-"E não sendo aquele porto adequado para passar o inverno, a maioria preferiu partir dali, para ver se podiam chegar a Fênix, que é um porto de Creta, voltada para o lado do vento sudoeste e noroeste, para ali passarem o inverno."
+"E não sendo aquele porto adequado para passar o inverno, a maioria preferiu partir dali, para ver se podiam chegar a Fênix, #que é um porto de Creta, voltada para o lado do vento sudoeste e noroeste, para ali passarem o inverno."
 "E ao ventar brandamente ao sul, pareceu-lhes que eles já tinham o que queriam; e levantando a vela, foram por perto da costa de Creta."
 "Mas não muito depois houve contra ela um vento violento, chamado Euroaquilão."
 "E tendo o navio sido tomado por ele, e não podendo navegar contra o vento, nós deixamos sermos levados [por ele] ."
@@ -24,7 +24,7 @@
 "Dizendo
 "Portanto, homens, tende bom ânimo; porque eu creio em Deus que assim será, conforme o que me foi dito."
 "Mas é necessário que sejamos lançados a uma ilha."
-"E quando veio a décima quarta noite, sendo lançados de um lado para o outro no [mar] Adriático, por volta da meia noite os marinheiros suspeitaram de que estavam se aproximando de alguma terra [firme] ."
+"E quando veio a décima quarta noite, sendo lançados de um lado para o outro no [mar] Adriático, por #volta da meia noite os marinheiros suspeitaram de que estavam se aproximando de alguma terra [firme] ."
 "E tendo lançado o prumo, acharam vinte braças; e passando um pouco mais adiante, voltando a lançar o prumo, acharam quinze braças."
 "E temendo de irem de encontro a lugares rochosos, lançaram da popa quatro âncoras, desejando que o dia viesse [logo] ."
 "E [quando] os marinheiros estavam procurando fugir do navio, e baixando o barquinho de reserva ao mar, como que queriam largar as âncoras da proa,"

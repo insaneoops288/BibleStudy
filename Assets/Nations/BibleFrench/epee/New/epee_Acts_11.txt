@@ -2,7 +2,7 @@
 "Et lorsque Pierre fut de retour à Jérusalem, ceux de la circoncision disputaient contre lui,"
 "Et disaient
 "Mais Pierre se mit à leur raconter par ordre, et dit
-"J'étais en prière dans la ville de Joppe, lorsque étant ravi en extase, j'eus une vision; je vis descendre du ciel un vaisseau comme une grande nappe retenue par les quatre coins, et qui vint jusqu'à moi."
+"J'étais en prière dans la ville de Joppe, lorsque étant ravi en extase, j'eus une vision; je vis descendre #du ciel un vaisseau comme une grande nappe retenue par les quatre coins, et qui vint jusqu'à moi."
 "Et l'ayant considéré avec attention, j'y vis les quadrupèdes de la terre, les bêtes sauvages, les reptiles et les oiseaux du ciel."
 "Puis j'entendis une voix qui me dit
 "Et je répondis
@@ -23,7 +23,7 @@
 "Lorsqu'il fut arrivé, et qu'il eut vu la grâce de Dieu, il s'en réjouit, et les exhorta tous à demeurer attachés au Seigneur avec un cœur ferme."
 "Car c'était un homme de bien, plein du Saint-Esprit et de foi, et une grande multitude se joignit au Seigneur."
 "Barnabas s'en alla ensuite à Tarse, pour chercher Saul;"
-"Et l'ayant trouvé, il l'amena à Antioche; et pendant toute une année, ils s'assemblèrent et instruisirent un grand peuple dans l'Appel à Renaître, et ce fut à Antioche que pour la première fois les disciples furent nommés Christiens."
+"Et l'ayant trouvé, il l'amena à Antioche; et pendant toute une année, ils s'assemblèrent et instruisirent un grand peuple dans #l'Appel à Renaître, et ce fut à Antioche que pour la première fois les disciples furent nommés Christiens."
 "En ce temps-là, des prophètes descendirent de Jérusalem à Antioche."
 "Et l'un d'eux, nommé Agabus, se leva, et annonça par l'Esprit qu'il y aurait une grande famine par toute la terre; ce qui arriva en effet sous Claude César."
 "Et les disciples résolurent d'envoyer, chacun selon son pouvoir, un secours aux frères qui demeuraient en Judée."

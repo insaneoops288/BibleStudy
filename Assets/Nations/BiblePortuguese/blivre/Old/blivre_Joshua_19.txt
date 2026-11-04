@@ -44,8 +44,8 @@
 "E Elteque, Gibetom, e Baalate,"
 "E Jeúde, e Bene-Beraque, e Gate-Rimom,"
 "E Me-Jarcom, e Racom, com o termo que está diante de Jope."
-"E faltou-lhes termo aos filhos de Dã; e subiram os filhos de Dã e combateram a Lesém, e tomando-a feriram-na a fio de espada, e a possuíram, e habitaram nela; e chamaram a Lesém, Dã, do nome de Dã seu pai."
+"E faltou-lhes termo aos filhos de Dã; e subiram os filhos de Dã e combateram a Lesém, e tomando-a feriram-na a #fio de espada, e a possuíram, e habitaram nela; e chamaram a Lesém, Dã, do nome de Dã seu pai."
 "Esta é a herança da tribo dos filhos de Dã conforme suas famílias; estas cidades com suas aldeias."
 "E depois que acabaram de repartir a terra em herança por seus termos, deram os filhos de Israel herança a Josué filho de Num em meio deles
 "Segundo a palavra do SENHOR, lhe deram a cidade que ele pediu, Timnate-Heres, no monte de Efraim; e ele reedificou a cidade, e habitou nela."
-"Estas são as propriedades que Eleazar sacerdote, e Josué filho de Num, e os principais dos pais, entregaram por sorte em possessão às tribos dos filhos de Israel em Siló diante do SENHOR, à entrada do tabernáculo do testemunho; e acabaram de repartir a terra."
+"Estas são as propriedades que Eleazar sacerdote, e Josué filho de Num, e os principais dos pais, entregaram por sorte em possessão às #tribos dos filhos de Israel em Siló diante do SENHOR, à entrada do tabernáculo do testemunho; e acabaram de repartir a terra."

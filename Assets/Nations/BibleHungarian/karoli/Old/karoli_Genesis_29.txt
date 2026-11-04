@@ -7,7 +7,7 @@
 "És monda [Jákób
 "Azok pedig felelének
 "Még beszélget vala velõk, mikor megérkezék Rákhel az õ atyja juhaival, melyeket legeltet vala."
-"S lõn, a mint meglátá Jákób Rákhelt, Lábánnak az õ anyja bátyjának leányát, és Lábánnak az õ anyja bátyjának juhait, odalépett Jákób és elgördíté a követ a kút szájáról, és megitatá Lábánnak az õ anyja bátyjának juhait."
+"S lõn, a mint meglátá Jákób Rákhelt, Lábánnak az õ anyja bátyjának leányát, és Lábánnak az õ anyja bátyjának #juhait, odalépett Jákób és elgördíté a követ a kút szájáról, és megitatá Lábánnak az õ anyja bátyjának juhait."
 "És megcsókolá Jákób Rákhelt, és nagy felszóval síra."
 "S elbeszélé Jákób Rákhelnek, hogy õ az õ atyjának rokona és hogy Rebekának fia. Ez pedig elfuta, és megmondá az õ atyjának."
 "És lõn mikor Lábán Jákóbnak, az õ húga fiának hírét hallá, eleibe futa, megölelé és megcsókolá õt, és bevivé az õ házába, és az mindeneket elbeszéle Lábánnak."

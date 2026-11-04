@@ -4,7 +4,7 @@
 "Minekutána megverte vala Szihont az Emoreusok királyát, a ki lakik vala Hesbonban, és Ógot, Básánnak királyát Edreiben, a ki lakik vala Asthárótban
 "A Jordánon túl, a Moáb földén, kezdé Mózes magyarázni ezt a törvényt, mondván
 "Az Úr, a mi Istenünk szólott nékünk a Hóreben, ezt mondván
-"Forduljatok meg, és induljatok, és menjetek az Emoreusok hegyére, és annak minden szomszéd vidékére, a mezõségen, és a hegyes-völgyes földön, és dél felé, és a tengernek partján, a Kananeusok földére és a Libánusra, a nagy folyóvízig, az Eufrates folyóig."
+"Forduljatok meg, és induljatok, és menjetek az Emoreusok hegyére, és annak minden szomszéd vidékére, a mezõségen, és a hegyes-völgyes földön, #és dél felé, és a tengernek partján, a Kananeusok földére és a Libánusra, a nagy folyóvízig, az Eufrates folyóig."
 "Ímé elõtökbe adtam a földet; menjetek be, és bírjátok azt a földet, a mely felõl megesküdt az Úr a ti atyáitoknak, Ábrahámnak, Izsáknak és Jákóbnak, hogy nékik adja, és õ utánok az õ magvoknak."
 "És szólottam vala néktek abban az idõben, ezt mondván
 "Az Úr, a ti Istenetek megsokasított titeket elannyira, hogy oly sokan vagytok ti most, mint az égnek csillagai."
@@ -16,7 +16,7 @@
 "És megparancsolám abban az idõben a ti biráitoknak, mondván
 "Ne legyetek személyválogatók az ítéletben
 "És megparancsoltam néktek abban az idõben mindent, a mit cselekedjetek."
-"Azután elindulánk a Hórebtõl, és bejártuk ama nagy és rettenetes pusztát, a melyet láttatok, az Emoreusok hegyének menve, a miképen parancsolta volt az Úr, a mi Istenünk nékünk; és eljutánk Kádes-Barneához."
+"Azután elindulánk a Hórebtõl, és bejártuk ama nagy és rettenetes pusztát, a melyet láttatok, az Emoreusok #hegyének menve, a miképen parancsolta volt az Úr, a mi Istenünk nékünk; és eljutánk Kádes-Barneához."
 "És mondám néktek
 "Ímé elõdbe adta az Úr, a te Istened ezt a földet
 "Ti pedig mindnyájan hozzám járulátok és mondátok

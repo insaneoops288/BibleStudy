@@ -13,7 +13,7 @@
 "Unë vendosa njerëz të armatosur në vendet më të ulta prapa mureve; e vendosa popullin sipas familjeve, me shpatat e tyre, shtizat e tyre dhe harqet e tyre."
 "Mbasi e shqyrtova situatën u ngrita dhe u thashë parisë, gjyqtarëve dhe pjesës tjetër të popullit
 "Kur armiqtë tanë mësuan që ne ishim të informuar mbi këtë gjë dhe që Perëndia e kishte bërë të dështonte plani i tyre, ne të gjithë u kthyem tek muret, secili në punën e tij."
-"Qysh prej asaj dite, gjysma e shërbëtorëve të mi merrej me punët, ndërsa gjysma tjetër kishte rrokur shtizat, mburojat, harqet dhe kishte veshur parzmoret; komandantët qëndronin prapa tërë shtëpisë së Judës."
+"Qysh prej asaj dite, gjysma e shërbëtorëve të mi merrej me punët, ndërsa gjysma tjetër kishte #rrokur shtizat, mburojat, harqet dhe kishte veshur parzmoret; komandantët qëndronin prapa tërë shtëpisë së Judës."
 "Por ata që ndërtonin muret dhe ata që mbartnin o ngarkonin peshat, me një dorë merreshin me punimet dhe me dorën tjetër mbanin armën e tyre."
 "Tërë ndërtuesit, duke punuar, mbanin secili shpatën e ngjeshur në ijet, ndërsa borizani rrinte pranë meje."
 "Atëherë unë u thashë parisë, zyrtarëve dhe pjesës tjetër të popullit

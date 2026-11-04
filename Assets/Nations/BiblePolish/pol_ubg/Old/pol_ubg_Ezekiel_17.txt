@@ -12,7 +12,7 @@
 "Mów teraz do domu buntowniczego
 "Wziął też jednego z potomków króla, zawarł z nim przymierze i związał go przysięgą. Zabrał też możnych tej ziemi;"
 "Aby królestwo było poniżone, tak by się nie podnosiło, ale by tak trwało, zachowując jego przymierze."
-"Lecz on zbuntował się przeciwko niemu, wysyłając swych posłów do Egiptu, aby dano mu koni i liczny lud. Czy mu się poszczęści? Czy ujdzie zemsty ten, który tak czynił? Czy ocali się ten, który złamał przymierze?"
+"Lecz on zbuntował się przeciwko niemu, wysyłając swych posłów do Egiptu, aby dano mu koni i liczny lud. Czy #mu się poszczęści? Czy ujdzie zemsty ten, który tak czynił? Czy ocali się ten, który złamał przymierze?"
 "Jak żyję, mówi Pan BÓG, w miejscu tego króla, który go uczynił królem, a którego przysięgą wzgardził i którego przymierze złamał, u niego w Babilonie umrze."
 "I ani faraon z wielkim wojskiem i z licznym zastępem nie pomoże mu na wojnie, gdy usypie wały i pobuduje wieże, aby zniszczyć mnóstwo ludzi;"
 "Ponieważ wzgardził przysięgą, łamiąc przymierze. Oto bowiem dał na to swą rękę, a to wszystko uczynił. Nie ujdzie zemsty."
@@ -21,4 +21,4 @@
 "A wszyscy, którzy uciekli od niego wraz ze wszystkimi jego hufcami, od miecza polegną, a pozostali zostaną rozproszeni na wszystkie wiatry. I poznacie, że ja, PAN, to powiedziałem."
 "Tak mówi Pan BÓG
 "Na wysokiej górze Izraela ją zasadzę. Wypuści gałązki, wyda owoc i stanie się cedrem wspaniałym. I będzie mieszkać pod nim wszelkie ptactwo skrzydlate; pod cieniem jego gałęzi będą mieszkać."
-"A tak wszystkie drzewa polne poznają, że ja, PAN, poniżyłem drzewo wysokie, a wywyższyłem drzewo niskie, ususzyłem drzewo zielone, a sprawiłem, że zakwitło drzewo suche. Ja, PAN, to powiedziałem i uczynię."
+"A tak wszystkie drzewa polne poznają, że ja, PAN, poniżyłem drzewo wysokie, a wywyższyłem drzewo niskie, #ususzyłem drzewo zielone, a sprawiłem, że zakwitło drzewo suche. Ja, PAN, to powiedziałem i uczynię."

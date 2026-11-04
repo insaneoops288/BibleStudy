@@ -21,6 +21,6 @@
 "los anillos, y los joyeles de las narices;"
 "las ropas de gala, los mantoncillos, los velos, y las bolsas;"
 "los espejos, el lino fino, las mitras y los velos."
-"Y será que en vez de perfume aromático vendrá hediondez; y cuerda en vez de cinturón; y calvez en lugar de la compostura del cabello; y en lugar de ropa de gala ceñimiento de cilicio; y quemadura en vez de hermosura."
+"Y será que en vez de perfume aromático vendrá hediondez; y cuerda en vez de cinturón; y calvez en lugar de #la compostura del cabello; y en lugar de ropa de gala ceñimiento de cilicio; y quemadura en vez de hermosura."
 "Tus varones caerán a espada, y tus poderosos en la guerra."
 "Sus puertas se entristecerán y enlutarán, y ella, desamparada, se sentará en tierra."

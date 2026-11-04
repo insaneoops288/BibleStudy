@@ -18,7 +18,7 @@
 "E lançaram mão dos apóstolos, e os puseram na prisão pública."
 "Mas de noite um anjo do SENHOR abriu as portas da prisão, e, tirando-os para fora, disse
 "Ide e apresentai-vos ao templo, e dizei ao povo todas as palavras desta vida."
-"E, ouvindo eles isto, entraram de manhã cedo no templo, e ensinavam. Chegando, porém, o sumo sacerdote e os que estavam com ele, convocaram o conselho, e a todos os anciãos dos filhos de Israel, e enviaram ao cárcere, para que de lá os trouxessem."
+"E, ouvindo eles isto, entraram de manhã cedo no templo, e ensinavam. Chegando, porém, o sumo sacerdote e os que estavam com ele, #convocaram o conselho, e a todos os anciãos dos filhos de Israel, e enviaram ao cárcere, para que de lá os trouxessem."
 "Mas, tendo lá ido os servidores, não os acharam na prisão, e, voltando lho anunciaram,"
 "Dizendo
 "Então o capitão do templo e os principais dos sacerdotes, ouvindo estas palavras, estavam perplexos acerca deles e do que viria a ser aquilo."
@@ -33,7 +33,7 @@
 "E, ouvindo eles isto, se enfureciam, e deliberaram matá-los."
 "Mas, levantando-se no conselho, um certo fariseu, chamado Gamaliel, doutor da lei, venerado por todo o povo, mandou que por um pouco levassem para fora os apóstolos."
 "E disse-lhes
-"Porque antes destes dias levantou-se Teudas, dizendo ser alguém; a este se ajuntou o número de uns quatrocentos homens; o qual foi morto, e todos os que lhe deram ouvidos foram dispersos e reduzidos a nada."
+"Porque antes destes dias levantou-se Teudas, dizendo ser alguém; a este se ajuntou o número de uns quatrocentos homens; #o qual foi morto, e todos os que lhe deram ouvidos foram dispersos e reduzidos a nada."
 "Depois deste levantou-se Judas, o galileu, nos dias do alistamento, e levou muito povo após si; mas também este pereceu, e todos os que lhe deram ouvidos foram dispersos."
 "E agora digo-vos
 "Mas, se é de Deus, não podereis desfazê-la; para que não aconteça serdes também achados combatendo contra Deus."

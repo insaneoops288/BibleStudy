@@ -30,7 +30,7 @@
 "Et maintenant, tu es parti, parce que tu languissais après la maison de ton père; mais pourquoi as-tu dérobé mes dieux?"
 "Et Jacob répondit, et dit à Laban
 "Mais celui chez qui tu trouveras tes dieux, ne vivra point; en présence de nos frères, examine ce qui est chez moi, et prends-les. Or Jacob ignorait que Rachel les eût dérobés."
-"Alors Laban entra dans la tente de Jacob, et dans la tente de Léa, et dans la tente des deux servantes, et il ne les trouva point. Puis il sortit de la tente de Léa, et entra dans la tente de Rachel."
+"Alors Laban entra dans la tente de Jacob, et dans la tente de Léa, et dans la tente des deux servantes, et #il ne les trouva point. Puis il sortit de la tente de Léa, et entra dans la tente de Rachel."
 "Mais Rachel avait pris les théraphim, les avait mis dans le bât du chameau, et s'était assise dessus. Et Laban fouilla toute la tente, et ne les trouva point."
 "Et elle dit à son père
 "Alors Jacob se mit en colère, et querella Laban; et Jacob prit la parole et dit
@@ -39,7 +39,7 @@
 "Je ne t'ai point rapporté de bêtes déchirées; j'en ai moi-même subi la perte. Tu me réclamais ce qui avait été dérobé de jour, et ce qui avait été dérobé de nuit."
 "Le hâle me consumait pendant le jour, et le froid pendant la nuit; et le sommeil fuyait de mes yeux."
 "Voici vingt ans que je suis dans ta maison; je t'ai servi quatorze ans pour tes deux filles, et six ans pour tes troupeaux, et tu as changé dix fois mon salaire."
-"Si le Dieu de mon père, le Dieu d'Abraham, et Celui que craint Isaac, n'eût été pour moi, sans doute tu m'eusses maintenant renvoyé à vide. Dieu a regardé mon affliction et le travail de mes mains; et il a rendu justice la nuit passée."
+"Si le Dieu de mon père, le Dieu d'Abraham, et Celui que craint Isaac, n'eût été pour moi, sans doute tu m'eusses maintenant #renvoyé à vide. Dieu a regardé mon affliction et le travail de mes mains; et il a rendu justice la nuit passée."
 "Et Laban répondit et dit à Jacob
 "Maintenant donc, viens, traitons ensemble une alliance, et qu'elle serve de témoignage entre moi et toi."
 "Et Jacob prit une pierre, et la dressa en monument."
@@ -49,7 +49,7 @@
 "Et aussi Mitspa (poste d'observation), parce que Laban dit
 "Si tu maltraites mes filles, et si tu prends d'autres femmes que mes filles, ce n'est pas un homme qui sera témoin entre nous. Vois! c'est Dieu qui sera témoin entre moi et toi."
 "Et Laban dit à Jacob
-"Ce monceau est témoin, et ce monument est témoin, que je ne passerai point ce monceau, en allant vers toi, et que tu ne passeras point ce monceau et ce monument, en venant vers moi, pour nous nuire l'un à l'autre."
+"Ce monceau est témoin, et ce monument est témoin, que je ne passerai point ce monceau, en allant vers toi, et #que tu ne passeras point ce monceau et ce monument, en venant vers moi, pour nous nuire l'un à l'autre."
 "Que le Dieu d'Abraham et le Dieu de Nachor, le Dieu de leur père, juge entre nous! Et Jacob jura par Celui que craignait Isaac, son père."
 "Et Jacob offrit un sacrifice sur la montagne; et il invita ses frères à manger le pain. Ils mangèrent donc le pain, et passèrent la nuit sur la montagne."
 "Et Laban se leva de bon matin, baisa ses fils et ses filles, et les bénit, et s'en alla. Ainsi Laban retourna chez lui."

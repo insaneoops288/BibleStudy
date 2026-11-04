@@ -16,9 +16,9 @@
 "I rzekł
 "A gdy przyjechał do Samaryi, bił wszystkie, którzy byli pozostali z domu Achabowego w Samaryi, i wytracił je według słowa Pańskiego, który mówił do Elijasza."
 "Zatem zebrał Jehu wszystek lud, i rzekł do niego
-"Przetoż teraz wszystkich proroków Baalowych, i wszystkich sług jego, i wszystkich kapłanów jego, zwołajcie do mnie aż do jednego; albowiem ofiarę wielką będę sprawował Baalowi. Ktoby się kolwiek nie stawił, nie zostanie żyw. A to Jehu chytrze czynił, chcąc wytracić chwalce Baalowe."
+"Przetoż teraz wszystkich proroków Baalowych, i wszystkich sług jego, i wszystkich kapłanów jego, zwołajcie do mnie aż do jednego; albowiem ofiarę wielką #będę sprawował Baalowi. Ktoby się kolwiek nie stawił, nie zostanie żyw. A to Jehu chytrze czynił, chcąc wytracić chwalce Baalowe."
 "Nadto rzekł Jehu
-"I rozesłał Jehu do wszystkiego Izraela. I zeszli się wszyscy chwalcy Baalowi, tak że nie został żaden, któryby nie przyszedł. I weszli do kościoła Baalowego, a napełniony był dom Baalowy od końca aż do końca."
+"I rozesłał Jehu do wszystkiego Izraela. I zeszli się wszyscy chwalcy Baalowi, tak że nie został żaden, któryby #nie przyszedł. I weszli do kościoła Baalowego, a napełniony był dom Baalowy od końca aż do końca."
 "Tedy rzekł temu, który był nad szatami
 "Zatem wszedł Jehu i Jonadab, syn Rechabowy, do domu Baalowego, i rzekł chwalcom Baalowym
 "A tak weszli, aby sprawowali ofiary, i całopalenia. Ale Jehu sporządził był sobie na dworze ośmdziesiąt mężów, którym był rzekł

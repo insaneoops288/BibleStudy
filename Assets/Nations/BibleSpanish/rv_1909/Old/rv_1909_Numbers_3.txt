@@ -35,7 +35,7 @@
 "Y el jefe de la casa del padre de las familias de Merari, Suriel hijo de Abihail
 "Y á cargo de los hijos de Merari estará la custodia de las tablas del tabernáculo, y sus barras, y sus columnas, y sus basas, y todos sus enseres, con todo su servicio
 "Y las columnas en derredor del atrio, y sus basas, y sus estacas, y sus cuerdas."
-"Y los que acamparán delante del tabernáculo al oriente, delante del tabernáculo del testimonio al levante, serán Moisés, y Aarón y sus hijos, teniendo la guarda del santuario en lugar de los hijos de Israel
+"Y los que acamparán delante del tabernáculo al oriente, delante del tabernáculo del testimonio al levante, serán Moisés, #y Aarón y sus hijos, teniendo la guarda del santuario en lugar de los hijos de Israel
 "Todos los contados de los Levitas, que Moisés y Aarón conforme á la palabra de Jehová contaron por sus familias, todos los varones de un mes arriba, fueron veinte y dos mil."
 "Y Jehová dijo á Moisés
 "Y tomarás los Levitas para mí, yo Jehová, en lugar de todos los primogénitos de los hijos de Israel

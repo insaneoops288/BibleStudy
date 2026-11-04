@@ -3,7 +3,7 @@
 "És adom az én két tanúbizonyságomnak, hogy prófétáljanak, gyászruhákba öltözve, ezer kétszáz hatvan napig."
 "Ezek az a két olajfa, és a két gyertyatartó, a melyek a földnek Istene elõtt állanak."
 "És ha valaki akar nékik ártani, tûz származik az õ szájokból, a mely megöli az õ ellenségeiket; és ha valaki akar nékik ártani, úgy kell annak megöletni."
-"Ezeknek van hatalmuk arra, hogy bezárják az eget, hogy az õ prófétálásuknak idejében esõ ne legyen; és hatalmuk van a vizeken, hogy azokat vérré változtassák, és megverjék a földet akármi csapással, valamennyiszer akarják."
+"Ezeknek van hatalmuk arra, hogy bezárják az eget, hogy az õ prófétálásuknak idejében esõ ne legyen; és #hatalmuk van a vizeken, hogy azokat vérré változtassák, és megverjék a földet akármi csapással, valamennyiszer akarják."
 "És mikor elvégezik az õ bizonyságtételöket, a mélységbõl feljövõ fenevad hadakozik ellenök, és legyõzi õket, és megöli õket."
 "És az õ holttesteik [feküsznek] ama nagy városnak utczáin, a mely lélek szerint Sodomának és Égyiptomnak hivatik, a hol a mi Urunk is megfeszíttetett."
 "És a népek és ágazatok, és nyelvek és nemzetek közül valók látják azoknak holttestét három és fél nap, és azoknak holttestét nem engedik sírba tenni."
@@ -15,5 +15,5 @@
 "A hetedik angyal is trombitála, és nagy szózatok lõnek a mennyben, a melyek ezt mondják vala
 "És a huszonnégy Vén, a ki az Isten elõtt ül az õ királyiszékeiben, esék az õ orczájára és imádá az Istent,"
 "Ezt mondván
-"És megharagudtak a pogányok, és eljött a te haragod, és a halottak ideje, hogy megítéltessenek, és jutalmat adj a te szolgáidnak, a prófétáknak és a szenteknek, és a kik a te nevedet félik, kicsinyeknek és nagyoknak; és elpusztítsd azokat, a kik a földet pusztítják."
+"És megharagudtak a pogányok, és eljött a te haragod, és a halottak ideje, hogy megítéltessenek, és jutalmat adj a te szolgáidnak, a prófétáknak #és a szenteknek, és a kik a te nevedet félik, kicsinyeknek és nagyoknak; és elpusztítsd azokat, a kik a földet pusztítják."
 "És megnyilatkozék az Isten temploma a mennyben, és megláttaték az õ szövetségének ládája az õ templomában; és lõnek villámlások és szózatok és mennydörgések, és földindulás és nagy jégesõ."

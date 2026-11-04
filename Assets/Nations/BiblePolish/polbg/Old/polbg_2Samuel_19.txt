@@ -3,8 +3,8 @@
 "Zaczem wkradł się lud onego dnia wchodząc do miasta, jako się więc wkrada lud, który się wstydzi, uciekając z bitwy."
 "A król nakrywszy oblicze swoje, wołał głosem wielkim
 "Tedy wszedł Joab do króla w dom, i rzekł
-"Miłując te, którzy cię mają w nienawiści, a nienawidząc tych, którzy cię miłują. Albowiem pokazałeś dziś, że sobie nie poważasz hetmanów, i sług twoich; bom doznał tego dziś, że gdyby Absalom był żyw, choćbyśmy my wszyscy dziś byli pobici, tedyć by się to bardzo podobało."
-"Przetoż teraz wstań, wynijdź, a mów łagodnie do sług twoich. Boć przez Pana przysięgam, jeźli ty nie wynijdziesz, że nie zostanie żaden z tobą tej nocy, a będzieć to gorzej, niżli wszystko złe, którekolwiek na cię przychodziło od młodości twojej aż dotąd."
+"Miłując te, którzy cię mają w nienawiści, a nienawidząc tych, którzy cię miłują. Albowiem pokazałeś dziś, że sobie nie poważasz hetmanów, i sług #twoich; bom doznał tego dziś, że gdyby Absalom był żyw, choćbyśmy my wszyscy dziś byli pobici, tedyć by się to bardzo podobało."
+"Przetoż teraz wstań, wynijdź, a mów łagodnie do sług twoich. Boć przez Pana przysięgam, jeźli ty nie wynijdziesz, że nie zostanie żaden #z tobą tej nocy, a będzieć to gorzej, niżli wszystko złe, którekolwiek na cię przychodziło od młodości twojej aż dotąd."
 "Wstał tedy król, i siadł w bramie; i opowiedziano to wszystkiemu ludowi, mówiąc
 "I stało się, że się wszystek lud sprzeczał z sobą we wszystkich pokoleniach Izraelskich, mówiąc
 "Lecz Absalom, któregośmy byli pomazali nad sobą, zginął w bitwie; a teraz przeczże wy zaniedbywacie przyprowadzić zasię króla?"
@@ -21,7 +21,7 @@
 "Tedy odpowiedział Abisaj, syn Sarwii, i rzekł
 "Ale mu rzekł Dawid
 "I rzekł król do Semeja
-"Mefiboset także, wnuk Saula, wyjechał przeciw królowi; który ani obmył nóg swoich, ani czesał brody swojej, ani prał szat swoich, ode dnia, którego był wyszedł król aż do dnia, którego się wrócił w pokoju."
+"Mefiboset także, wnuk Saula, wyjechał przeciw królowi; który ani obmył nóg swoich, ani czesał brody swojej, ani prał #szat swoich, ode dnia, którego był wyszedł król aż do dnia, którego się wrócił w pokoju."
 "I stało się, gdy zabieżał w Jeruzalemie królowi, rzekł mu król
 "A on mu odpowiedział
 "I oskarżył sługę twego przed królem, panem moim; ale król, pan mój, jest jako Anioł Boży; przetoż czyń, co dobrego jest w oczach twoich."
@@ -32,7 +32,7 @@
 "A Barsylaj był bardzo stary, mając osiemdziesiąt lat, który podejmował króla, póki mieszkał w Mahanaim; bo był człowiekiem bogatym bardzo."
 "I rzekł król do Barsylajego
 "Ale Barsylaj odpowiedział królowi
-"Osiemdziesiąt lat mi dzisiaj; izali mogę rozeznać między dobrem a złem? izali poczuje smak sługa twój w tem, cobym jadł, albo cobym pił? izali słuchać mogę więcej głosu śpiewaków i śpiewaczek? a przeczżeby miał być sługa twój jeszcze ciężarem królowi, panu memu?"
+"Osiemdziesiąt lat mi dzisiaj; izali mogę rozeznać między dobrem a złem? izali poczuje smak sługa twój w tem, cobym jadł, albo cobym #pił? izali słuchać mogę więcej głosu śpiewaków i śpiewaczek? a przeczżeby miał być sługa twój jeszcze ciężarem królowi, panu memu?"
 "Jeszcze trochę pójdzie sługa twój za Jordan z królem
 "Niech się wróci proszę sługa twój, abym umarł w mieście mojem, przy grobie ojca mego i matki mojej; ale oto sługa twój Chymham pójdzie z królem, panem moim
 "I rzekł król

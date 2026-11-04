@@ -1,6 +1,6 @@
 "Että siis Kristus lihassa meidän edestämme on kärsinyt, niin te myös varustakaat teitänne sillä mielellä; sillä joka lihassa kärsii, se lakkaa synnistä,"
 "Ettei hän enään sitä aikaa, jonka hän lihassa edespäin on, ihmisten himon jälkeen, vaan Jumalan tahdon jälkeen eläisi."
-"Sillä kyllä siinä on, että me edesmenneen ajan elämästä kulutimme pakanain mielen jälkeen, vaeltaissamme irstaudessa, himoissa, juopumisessa, ylönsuömisessä, ylönjuomisessa ja hirmuisissa epäjumalan palveluksissa."
+"Sillä kyllä siinä on, että me edesmenneen ajan elämästä kulutimme pakanain mielen #jälkeen, vaeltaissamme irstaudessa, himoissa, juopumisessa, ylönsuömisessä, ylönjuomisessa ja hirmuisissa epäjumalan palveluksissa."
 "He oudoksuvat, ettette heidän kanssansa juokse samaan säädyttömän hekuman menoon, ja pilkkaavat."
 "Niiden pitää luvun tekemän hänelle, joka on valmis tuomitsemaan eläviä ja kuolleita."
 "Sillä sitä varten evankeliumi kuolleillekin saarnattu on, että he kyllä tuomittaisiin ihmisten jälkeen lihassa, mutta Jumalan jälkeen eläisivät hengessä."

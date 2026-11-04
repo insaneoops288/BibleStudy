@@ -1,7 +1,7 @@
 "Para pemungut cukai dan orang-orang berdosa biasanya datang kepada Yesus untuk mendengarkan Dia."
 "Maka bersungut-sungutlah orang-orang Farisi dan ahli-ahli Taurat, katanya
 "Lalu Ia mengatakan perumpamaan ini kepada mereka
-"""Siapakah di antara kamu yang mempunyai seratus ekor domba, dan jikalau ia kehilangan seekor di antaranya, tidak meninggalkan yang sembilan puluh sembilan ekor di padang gurun dan pergi mencari yang sesat itu sampai ia menemukannya?"
+"""Siapakah di antara kamu yang mempunyai seratus ekor domba, dan jikalau ia kehilangan seekor di antaranya, tidak meninggalkan #yang sembilan puluh sembilan ekor di padang gurun dan pergi mencari yang sesat itu sampai ia menemukannya?"
 "Dan kalau ia telah menemukannya, ia meletakkannya di atas bahunya dengan gembira,"
 "dan setibanya di rumah ia memanggil sahabat-sahabat dan tetangga-tetanggan serta berkata kepada mereka
 "Aku berkata kepadamu
@@ -17,7 +17,7 @@
 "Lalu ia menyadari keadaannya, katanya
 "Aku akan bangkit dan pergi kepada bapaku dan berkata kepadanya
 "aku tidak layak lagi disebutkan anak bapa; jadikanlah aku sebagai salah seorang upahan bapa."
-"Maka bangkitlah ia dan pergi kepada bapanya. Ketika ia masih jauh, ayahnya telah melihatnya, lalu tergeraklah hatinya oleh belas kasihan. Ayahnya itu berlari mendapatkan dia lalu merangkul dan mencium dia."
+"Maka bangkitlah ia dan pergi kepada bapanya. Ketika ia masih jauh, ayahnya telah melihatnya, lalu tergeraklah #hatinya oleh belas kasihan. Ayahnya itu berlari mendapatkan dia lalu merangkul dan mencium dia."
 "Kata anak itu kepadanya
 "Tetapi ayah itu berkata kepada hamba-hambanya
 "Dan ambillah anak lembu tambun itu, sembelihlah dia dan marilah kita makan dan bersukacita."

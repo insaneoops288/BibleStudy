@@ -23,8 +23,8 @@
 "Da wandte Joram seine Hand und floh und sprach zu Ahasja
 "Aber Jehu faßte den Bogen und schoß Joram zwischen die Arme, daß sein Pfeil durch sein Herz ausfuhr, und er fiel in seinen Wagen.{~}{~}"
 "Und er sprach zu seinem Ritter Bidekar
-"Was gilt's(sprach der HERR), ich will dir das Blut Naboths und seiner Kinder, das ich gestern sah, vergelten auf diesem Acker. So nimm nun und wirf ihn auf den Acker nach dem Wort des HERRN.{~}{~}{~}"
-"Da das Ahasja, der König Juda's, sah, floh er des Weges zum Hause des Gartens. Jehu aber jagte ihm nach und hieß ihn auch schlagen in dem Wagen auf der Höhe Gur, die bei Jibleam liegt. Und er floh gen Megiddo und starb daselbst."
+"Was gilt's(sprach der HERR), ich will dir das Blut Naboths und seiner Kinder, das ich gestern sah, vergelten #auf diesem Acker. So nimm nun und wirf ihn auf den Acker nach dem Wort des HERRN.{~}{~}{~}"
+"Da das Ahasja, der König Juda's, sah, floh er des Weges zum Hause des Gartens. Jehu aber jagte ihm nach und hieß ihn #auch schlagen in dem Wagen auf der Höhe Gur, die bei Jibleam liegt. Und er floh gen Megiddo und starb daselbst."
 "Und seine Knechte ließen ihn führen gen Jerusalem und begruben ihn in seinem Grabe mit seinen Vätern in der Stadt Davids."
 "Ahasja aber regierteüber Juda im elften Jahr Jorams, des Sohnes Ahabs.{~}"
 "Und da Jehu gen Jesreel kam und Isebel das erfuhr, schminkte sie ihr Angesicht und schmückte ihr Haupt und guckte zum Fenster hinaus."

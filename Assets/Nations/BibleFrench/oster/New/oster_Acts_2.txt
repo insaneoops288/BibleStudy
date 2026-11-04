@@ -14,7 +14,7 @@
 "Mais Pierre, se présentant avec les onze, éleva sa voix, et leur dit
 "Car ceux-ci ne sont point ivres, comme vous supposez, puisque c'est la troisième heure du jour."
 "Mais c'est ici ce qui a été prédit par le prophète Joël
-"Il arrivera dans les derniers jours, dit Dieu, que je répandrai de mon Esprit sur toute chair, vos fils et vos filles prophétiseront; vos jeunes gens auront des visions, et vos vieillards auront des songes."
+"Il arrivera dans les derniers jours, dit Dieu, que je répandrai de mon Esprit sur toute chair, vos #fils et vos filles prophétiseront; vos jeunes gens auront des visions, et vos vieillards auront des songes."
 "Et certes, dans ces jours-là, je répandrai de mon Esprit sur mes serviteurs et sur mes servantes, et ils prophétiseront;"
 "Et je ferai des prodiges en haut dans le ciel, et des signes en bas sur la terre, du sang et du feu, et une vapeur de fumée;"
 "Le soleil sera changé en ténèbres, et la lune en sang, avant que la grande et éclatante journée du Seigneur vienne;"

@@ -18,7 +18,7 @@
 "És úgy cselekedének az írástudók is az õ varázslásukkal, hogy tetveket hozzanak elõ, de nem teheték; és valának a tetvek emberen és barmon."
 "És mondák az írástudók a Faraónak
 "Az Úr pedig monda Mózesnek
-"Mert ha el nem bocsátod az én népemet, ímé én bocsátok te reád, a te szolgáidra és a te népedre és a te házaidra ártalmas bogarakat, és megtelnek az Égyiptombeliek házai ártalmas bogarakkal és a föld is, a melyen õk vannak."
+"Mert ha el nem bocsátod az én népemet, ímé én bocsátok te reád, a te szolgáidra és a te népedre és #a te házaidra ártalmas bogarakat, és megtelnek az Égyiptombeliek házai ártalmas bogarakkal és a föld is, a melyen õk vannak."
 "De különválasztom azon a napon a Gósen földét, a melyen az én népem lakik, hogy ne legyenek ott ártalmas bogarak, azért, hogy megtudd, hogy én vagyok az Úr ezen a földön."
 "És különbséget tészek az én népem között és a te néped között. Holnap lészen e jelenség."
 "És aképen cselekedék az Úr; jövének ugyanis ártalmas bogarak a Faraó házára és az õ szolgái házára, és egész Égyiptom földén pusztává lõn a föld az ártalmas bogarak miatt."

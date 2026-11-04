@@ -6,7 +6,7 @@
 "Tedy zawołał Salomona, syna swego, a przykazał mu, aby zbudował dom Panu, Bogu Izraelskiemu."
 "I rzekł Dawid do Salomona
 "Ale się stało do mnie słowo Pańskie, mówiąc
-"Oto syn, któryć się urodzi, będzie mężem spokojnym; bo mu dam odpocznienie od wszystkich nieprzyjaciół jego zewsząd. Przetoż Salomon będzie imię jego; albowiem pokój i odpocznienie dam Izraelowi za dni jego."
+"Oto syn, któryć się urodzi, będzie mężem spokojnym; bo mu dam odpocznienie od wszystkich nieprzyjaciół jego #zewsząd. Przetoż Salomon będzie imię jego; albowiem pokój i odpocznienie dam Izraelowi za dni jego."
 "On zbuduje dom imieniowi memu; on mi będzie za syna, a ja mu będę za ojca, i utwierdzę stolicę królestwa jego nad Izraelem aż na wieki."
 "Przetoż Pan będzie z tobą, synu mój! I będzieć się szczęściło, i zbudujesz dom Pana, Boga twego, jako mówił o tobie."
 "Wszakże niech ci da Pan roztropność, i zmysł, a niech cię postanowi nad Izraelem, abyś strzegł zakonu Pana Boga twego."
@@ -16,4 +16,4 @@
 "Złota, srebra, i miedzi, i żelaza niemasz liczby; wstańże a czyń, a Pan będzie z tobą."
 "I przykazał Dawid wszystkim książętom Izraelakim, aby pomagali Salomonowi synowi jego;"
 "Mówiąc
-"Teraz tedy oddajcie serce swe i duszę swoję, abyście szukali Pana, Boga waszego; i wstańcie, a budujcie świątnicę Panu Bogu, żebyście tam wnieśżli skrzynię przymierza Pańskiego, i naczynia święte Boże, do domu, który będzie zbudowany imieniowi Pańskiemu."
+"Teraz tedy oddajcie serce swe i duszę swoję, abyście szukali Pana, Boga waszego; i wstańcie, a budujcie świątnicę Panu #Bogu, żebyście tam wnieśżli skrzynię przymierza Pańskiego, i naczynia święte Boże, do domu, który będzie zbudowany imieniowi Pańskiemu."

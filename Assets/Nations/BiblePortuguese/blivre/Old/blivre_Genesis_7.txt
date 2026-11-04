@@ -11,7 +11,7 @@
 "No ano seiscentos da vida de Noé, no mês segundo, no dia dezessete do mês, naquele dia foram rompidas todas as fontes do grande abismo, e as comportas dos céus foram abertas;"
 "E houve chuva sobre a terra quarenta dias e quarenta noites."
 "Neste mesmo dia entrou Noé, e Sem, e Cam e Jafé, filhos de Noé, a mulher de Noé, e as três mulheres de seus filhos com ele na arca;"
-"Eles e todos os animais silvestres segundo suas espécies, e todos os animais mansos segundo suas espécies, e todo réptil que anda arrastando sobre a terra segundo sua espécie, e toda ave segundo sua espécie, todo pássaro, toda espécie de animal voador."
+"Eles e todos os animais silvestres segundo suas espécies, e todos os animais mansos segundo suas espécies, e todo réptil que anda #arrastando sobre a terra segundo sua espécie, e toda ave segundo sua espécie, todo pássaro, toda espécie de animal voador."
 "E vieram a Noé à arca, de dois em dois de toda carne em que havia espírito de vida."
 "E os que vieram, macho e fêmea de toda carne vieram, como lhe havia mandado Deus
 "E foi o dilúvio quarenta dias sobre a terra; e as águas cresceram, e levantaram a arca, e se elevou sobre a terra."
@@ -20,5 +20,5 @@
 "Quinze côvados em altura prevaleceram as águas; e foram cobertos os montes."
 "E morreu toda carne que se move sobre a terra, tanto de aves como de gados, e de animais, e de todo réptil que anda arrastando sobre a terra, e todo ser humano
 "Tudo o que tinha fôlego de espírito de vida em suas narinas, de tudo o que havia na terra, morreu."
-"Assim foi destruída toda criatura que vivia sobre a face da terra, desde o ser humano até o animal, e os répteis, e as aves do céu; e foram apagados da terra; e restou somente Noé, e os que com ele estavam na arca."
+"Assim foi destruída toda criatura que vivia sobre a face da terra, desde o ser humano até o animal, e os répteis, e #as aves do céu; e foram apagados da terra; e restou somente Noé, e os que com ele estavam na arca."
 "E prevaleceram as águas sobre a terra cento e cinquenta dias."

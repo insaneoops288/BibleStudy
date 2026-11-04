@@ -10,7 +10,7 @@
 "Wyście świadkami i Bóg, żeśmy świętobliwie i sprawiedliwie, i bez nagany żyli między wami, którzyście uwierzyli."
 "Jakoż wiecie, żeśmy każdego z was, jako ojciec dziatki swoje, napominali i cieszyli,"
 "I oświadczali się, abyście chodzili godnie Bogu, który was powołał do swego królestwa i do chwały."
-"Przetoż i my dziękujemy Bogu bez przestanku, iż przyjąwszy słowo Boże, któreście słyszeli od nas, przyjęliście nie jako słowo ludzkie, ale (jako w prawdzie jest) jako słowo Boże, które też skuteczne jest w was, którzy wierzycie."
+"Przetoż i my dziękujemy Bogu bez przestanku, iż przyjąwszy słowo Boże, któreście słyszeli od nas, przyjęliście nie jako słowo #ludzkie, ale (jako w prawdzie jest) jako słowo Boże, które też skuteczne jest w was, którzy wierzycie."
 "Albowiem wy, bracia! staliście się naśladowcami zborów Bożych, które są w żydowskiej ziemi, w Chrystusie Jezusie; boście i wy też cierpieli od ziomków waszych, jako i oni od Żydów."
 "Którzy i Pana Jezusa zabili, i swoich własnych proroków, i nas wygnali, a Bogu się nie podobają, i wszystkim ludziom są przeciwni,"
 "Zabraniając nam, żebyśmy nie mówili poganom, żeby byli zbawieni, aby tak zawsze dopełniali grzechów swoich; albowiem przyszedł na nich gniew aż do końca."

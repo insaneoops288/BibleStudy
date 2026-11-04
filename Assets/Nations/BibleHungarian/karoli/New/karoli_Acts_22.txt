@@ -1,6 +1,6 @@
 "Atyámfiai, férfiak és atyák, hallgassátok meg az én beszédemet, a melylyel most magamat elõttetek mentem."
 "Mikor pedig hallották, hogy zsidó nyelven szól hozzájok, még inkább nyugalmat tanusítottak. És monda
-"Én zsidó ember vagyok, születtem a czilicziai Tárzusban, fölneveltettem pedig ebben a városban a Gamáliel lábainál, taníttattam az atyák törvényének pontossága szerint, buzgó lévén az Istenhez, miként ti mindnyájan vagytok ma
+"Én zsidó ember vagyok, születtem a czilicziai Tárzusban, fölneveltettem pedig ebben a városban a Gamáliel lábainál, #taníttattam az atyák törvényének pontossága szerint, buzgó lévén az Istenhez, miként ti mindnyájan vagytok ma
 "És ezt a tudományt üldöztem mind halálig, megkötözvén és tömlöczbe vetvén mind férfiakat, mind asszonyokat."
 "Miképen a fõpap is bizonyságom nékem, és a véneknek egész tanácsa; kiktõl leveleket is vévén az atyafiakhoz, Damaskusba menék, hogy az odavalókat is fogva hozzam Jeruzsálembe, hogy bûnhõdjenek."
 "Lõn pedig, hogy a mint menék és közelgeték Damaskushoz, déltájban nagy hirtelenséggel az égbõl nagy világosság sugárzott körül engem."
@@ -27,4 +27,4 @@
 "Hozzámenvén azért az ezredes, monda néki
 "És felele az ezredes
 "Mindjárt eltávozának azért õ tõle, a kik õt vallatni akarák. Sõt az ezredes is megijede, mikor megértette, hogy római, és hogy õt megkötöztette."
-"Másnap pedig meg akarván tudni a bizonyos valóságot, miben vádoltatik a zsidóktól, feloldatá õt bilincseibõl, és megparancsolá, hogy a fõpapok az õ egész tanácsokkal egyben hozzá menjenek; és levezetvén Pált, eleikbe állatá."
+"Másnap pedig meg akarván tudni a bizonyos valóságot, miben vádoltatik a zsidóktól, feloldatá õt bilincseibõl, és megparancsolá, #hogy a fõpapok az õ egész tanácsokkal egyben hozzá menjenek; és levezetvén Pált, eleikbe állatá."

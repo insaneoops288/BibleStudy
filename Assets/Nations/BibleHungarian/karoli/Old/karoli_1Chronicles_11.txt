@@ -1,6 +1,6 @@
 "És gyûlének az Izráeliták mindnyájan Dávidhoz Hebronba, mondván
 "Ezelõtt is, még mikor Saul volt a király, te voltál az, a ki az Izráelt ki- és bevezetéd, és ezt mondotta a te Urad Istened néked
-"Elmenének azért mindnyájan az Izráel vénei a királyhoz Hebronba, és szövetséget tõn Dávid velök Hebronban az Úr elõtt; és királylyá kenték Dávidot Izráel felett, az Úrnak Sámuel által való beszéde szerint."
+"Elmenének azért mindnyájan az Izráel vénei a királyhoz Hebronba, és szövetséget tõn Dávid velök Hebronban az #Úr elõtt; és királylyá kenték Dávidot Izráel felett, az Úrnak Sámuel által való beszéde szerint."
 "Elméne akkor Dávid és az egész Izráel Jeruzsálembe; ez Jebus (ott a Jebuzeusok voltak a föld lakosai)."
 "És mondának Jebus lakói Dávidnak
 "Mert ezt mondotta vala Dávid
@@ -15,12 +15,12 @@
 "Továbbá, mikor alámentek hárman a harmincz fõember közül Dávidhoz, a kõsziklához, az Adullám barlangjába; a Filiszteusok pedig tábort járának a Réfaim völgyben."
 "(Dávid az erõsségben vala akkor, a Filiszteusok hada pedig Bethlehemnél.)"
 "Kivána Dávid [vizet,] és monda
-"Akkor keresztülvágták magokat hárman a Filiszteusok táborán, és vizet merítének a Bethlehem forrásából, mely a kapu elõtt vala, és felvivék, és menének Dávidhoz; de Dávid nem akara inni, hanem kitölté azt az Úrnak."
+"Akkor keresztülvágták magokat hárman a Filiszteusok táborán, és vizet merítének a Bethlehem forrásából, mely a kapu elõtt #vala, és felvivék, és menének Dávidhoz; de Dávid nem akara inni, hanem kitölté azt az Úrnak."
 "És monda
 "És Abisai, a Joáb testvére vala e háromnak elõljárója; õ ragadott vala dárdát háromszáz ellen, [a kiket] megsebesíte; és õ volt a leghíresebb a három között."
 "A három közül a kettõnél híresebb vala, azért volt azok elõljárója; de azért [egymaga] még sem ért föl a hárommal."
 "Benája, a Jojada fia, vitéz férfiúnak fia Kabséelbõl, a ki nagy dolgokat cselekedék; õ ölte meg Moáb két oroszlánját, és õ méne alá a verembe, s ölte meg az oroszlánt, mikor havas idõ volt."
-"Ugyanez ölé meg az Égyiptombeli férfit, akinek magassága öt sing volt, és oly dárda vala az Égyiptombeli férfiú kezében, mint a szövõ zugoly. Szembeszálla vele egy pálczával, s kiragadá az Égyiptombeli ember kezébõl a dárdát, és saját dárdájával általveré."
+"Ugyanez ölé meg az Égyiptombeli férfit, akinek magassága öt sing volt, és oly dárda vala az Égyiptombeli férfiú kezében, mint #a szövõ zugoly. Szembeszálla vele egy pálczával, s kiragadá az Égyiptombeli ember kezébõl a dárdát, és saját dárdájával általveré."
 "Ezeket cselekedte Benája, a Jojada fia, a ki híres vala a három hõs között."
 "Híres vala õ a harmincz között, de azzal a hárommal nem ért fel. És elõljáróvá tevé õt Dávid a tanácsosok között."
 "A seregnek pedig [ezek] vitézei

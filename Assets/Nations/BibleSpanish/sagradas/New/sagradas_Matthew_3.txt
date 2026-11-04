@@ -8,7 +8,7 @@
 "Haced pues frutos dignos de arrepentimiento,"
 "y no penséis decir dentro de vosotros
 "Ahora, ya también el hacha está puesta a la raíz de los árboles; y todo árbol que no hace buen fruto, es cortado y echado en el fuego."
-"Yo a la verdad os bautizo en agua para arrepentimiento; mas el que viene tras <I>de</I>  mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar. El os bautizará en Espíritu Santo y fuego."
+"Yo a la verdad os bautizo en agua para arrepentimiento; mas el que viene tras <I>de</I>  mí, más poderoso es #que yo; los zapatos del cual yo no soy digno de llevar. El os bautizará en Espíritu Santo y fuego."
 "Su aventador en su mano está, y aventará su era; y allegará su trigo en el alfolí, y quemará la paja en fuego que nunca se apagará."
 "Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado de él."
 "Mas Juan lo resistía mucho, diciendo

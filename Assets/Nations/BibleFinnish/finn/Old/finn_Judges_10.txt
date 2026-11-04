@@ -1,11 +1,11 @@
 "AbiMelekin jälkeen nousi Isaskarilainen Tola, Dodan pojan Puan poika, auttamaan Israelia. Ja hän asui Samirissa, Ephraimin vuorella,"
 "Ja tuomitsi Israelia kolmekolmattakymmentä ajastaikaa, ja kuoli ja haudattiin Samiriin."
 "Hänen jälkeensä nousi Jair Gileadilainen ja tuomitsi Israelia kaksikolmattakymmentä ajastaikaa."
-"Ja hänellä oli kolmekymmentä poikaa, jotka ajoivat kolmellakymmenellä aasin varsalla, ja heillä oli kolmekymmentä kaupunkia, jotka kutsuttiin Jairin kyliksi tähän päivään asti ja ovat Gileadin maalla."
+"Ja hänellä oli kolmekymmentä poikaa, jotka ajoivat kolmellakymmenellä aasin varsalla, ja heillä oli kolmekymmentä #kaupunkia, jotka kutsuttiin Jairin kyliksi tähän päivään asti ja ovat Gileadin maalla."
 "Ja Jair kuoli ja haudattiin Kamoniin."
-"Mutta Israelin lapset tekivät vielä pahaa Herran edessä, ja palvelivat Baalia ja Astarotia, ja Syrian jumalia, ja Zidonin jumalia, ja Moabin jumalia, ja Ammonin lasten jumalia, ja Philistealaisten jumalia, ja luopuivat Herrasta ja ei palvelleet häntä."
+"Mutta Israelin lapset tekivät vielä pahaa Herran edessä, ja palvelivat Baalia ja Astarotia, ja Syrian jumalia, ja Zidonin jumalia, #ja Moabin jumalia, ja Ammonin lasten jumalia, ja Philistealaisten jumalia, ja luopuivat Herrasta ja ei palvelleet häntä."
 "Niin julmistui Herran viha Israelin ylitse, ja hän myi heidät Philistealaisten ja Ammonin lasten käteen."
-"Ja he vaativat ja vaivasivat siitä vuodesta kaikkia Israelin lapsia kahdeksantoistakymmentä ajastaikaa, kaikkia Israelin lapsia, jotka olivat tällä puolella Jordania, Amorilaisten maalla, joka on Gileadissa."
+"Ja he vaativat ja vaivasivat siitä vuodesta kaikkia Israelin lapsia kahdeksantoistakymmentä ajastaikaa, kaikkia #Israelin lapsia, jotka olivat tällä puolella Jordania, Amorilaisten maalla, joka on Gileadissa."
 "Ja Ammonin lapset matkustivat Jordanin ylitse ja sotivat Juudaa, BenJaminia ja Ephraimin huonetta vastaan, ja Israel suuresti ahdistettiin."
 "Niin huusivat Israelin lapset Herran tykö, sanoen
 "Mutta Herra sanoi Israelin lapsille

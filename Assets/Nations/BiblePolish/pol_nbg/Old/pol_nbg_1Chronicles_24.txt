@@ -1,9 +1,9 @@
 "A synów Ahrona podzielono. Synowie Ahrona to
 "Ale Nadab i Abihu umarli przed obliczem swojego ojca, a nie mieli synów; dlatego czynności kapłańskie odprawiali Elazar i Ithamar."
 "Więc Dawid ich podzielił – Cadoka, z synów Elazara, i Achimeleka z synów Ithamara, według ich obciążenia w ich usługach."
-"A kiedy ich podzielił znalazło się więcej przedniejszych mężów, synów Elazara, niż synów Ithamara. Z synów Elazara szesnastu przedniejszych według ojcowskich domów; a synów Ithamara – ośmiu, według ojcowskich domów."
+"A kiedy ich podzielił znalazło się więcej przedniejszych mężów, synów Elazara, niż synów Ithamara. Z synów #Elazara szesnastu przedniejszych według ojcowskich domów; a synów Ithamara – ośmiu, według ojcowskich domów."
 "Zatem jedni od drugich zostali rozdzieleni losem; bo byli dostojnikami Świątyni i przedniejszymi przed Bogiem, tak z synów Elazara, jak i z synów Ithamara."
-"A spisał ich Szemaja, syn Nethaneela, pisarz z pokolenia Lewiego, przed królem, książętami, przed kapłanem Cadokiem i Achimelekiem, synem Abiatara oraz przedniejszymi z domów ojcowskich, kapłanów i Lewitów. I wyznaczono jeden dom ojcowski Elazarowi, a drugi wyznaczono Ithamarowi."
+"A spisał ich Szemaja, syn Nethaneela, pisarz z pokolenia Lewiego, przed królem, książętami, przed kapłanem Cadokiem i Achimelekiem, synem Abiatara #oraz przedniejszymi z domów ojcowskich, kapłanów i Lewitów. I wyznaczono jeden dom ojcowski Elazarowi, a drugi wyznaczono Ithamarowi."
 "Pierwszy los padł na Jehojariba, drugi na Jedaję,"
 "trzeci na Harima, czwarty na Seorima,"
 "piąty na Malkijjasza, szósty na Mijamina,"
@@ -28,4 +28,4 @@
 "Z Machlego Elazar, który nie miał synów."
 "Z Kisza; z synów Kisza Jerachmeel."
 "A synowie Muszy to
-"Ci także kładli losy przy swoich braciach, synach Ahrona, przed królem Dawidem, Cadokiem, Achimelechem i przedniejszymi z ojcowskich domów, kapłanów oraz Lewitów; przedniejszy ojciec obok swego młodszego brata."
+"Ci także kładli losy przy swoich braciach, synach Ahrona, przed królem Dawidem, Cadokiem, Achimelechem i #przedniejszymi z ojcowskich domów, kapłanów oraz Lewitów; przedniejszy ojciec obok swego młodszego brata."

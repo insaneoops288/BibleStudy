@@ -21,7 +21,7 @@
 "Pedig én úgy plántállak vala el téged, mint nemes szõlõvesszõt, mindenestõl hûséges magot
 "Még ha lúgban mosakodnál is, vagy szappanodat megsokasítanád is, feljegyezve marad a te álnokságod elõttem, mondja az Úr Isten."
 "Mimódon mondhatnád
-"Pusztához szokott nõstény vadszamár, a mely érzékiségének kívánságában levegõ után kapkod. Gerjedelmét kicsoda csillapíthatja le? Senki ne fáraszsza magát, a ki ezt keresi, megtalálja ezt a maga hónapjában."
+"Pusztához szokott nõstény vadszamár, a mely érzékiségének kívánságában levegõ után kapkod. Gerjedelmét kicsoda csillapíthatja le? #Senki ne fáraszsza magát, a ki ezt keresi, megtalálja ezt a maga hónapjában."
 "Tartóztasd meg lábadat a mezítelenségtõl, és torkodat a szomjúságtól! És te azt mondod
 "A miképen megszégyenül a tolvaj, ha rajtakapják, akképen szégyenül meg Izráel háza
 "A kik azt mondják a fának

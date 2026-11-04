@@ -3,7 +3,7 @@
 "Und David, und Zadok von den Söhnen Eleasars, und Ahimelech von den Söhnen Ithamars teilten sie ab nach ihrem Amte, in ihrem Dienste."
 "Und von den Söhnen Eleasars wurden mehr Familienhäupter gefunden, als von den Söhnen Ithamars; und so teilten sie sie so ab
 "Und zwar teilten sie sie durch Lose ab, diese wie jene; denn die Obersten des Heiligtums und die Obersten Gottes waren aus den Söhnen Eleasars und aus den Söhnen Ithamars."
-"Und Schemaja, der Sohn Nethaneels, der Schreiber aus Levi, schrieb sie auf in Gegenwart des Königs und der Obersten und Zadoks, des Priesters, und Ahimelechs, des Sohnes Abjathars, und der Häupter der Väter der Priester und der Leviten. Je ein Vaterhaus wurde ausgelost für Eleasar, und je eines wurde ausgelost für Ithamar."
+"Und Schemaja, der Sohn Nethaneels, der Schreiber aus Levi, schrieb sie auf in Gegenwart des Königs und der Obersten und Zadoks, des Priesters, und Ahimelechs, des Sohnes #Abjathars, und der Häupter der Väter der Priester und der Leviten. Je ein Vaterhaus wurde ausgelost für Eleasar, und je eines wurde ausgelost für Ithamar."
 "Und das erste Los kam heraus für Jehojarib, für Jedaja das zweite,"
 "für Harim das dritte, für Seorim das vierte,"
 "für Malkija das fünfte, für Mijamin das sechste,"
@@ -28,4 +28,4 @@
 "von Machli
 "von Kis, die Söhne Kis'
 "und die Söhne Musis
-"Und auch sie warfen Lose wie ihre Brüder, die Söhne Aarons, in Gegenwart des Königs David und Zadoks und Ahimelechs und der Häupter der Väter der Priester und der Leviten, das Haupt der Väter wie sein geringster Bruder."
+"Und auch sie warfen Lose wie ihre Brüder, die Söhne Aarons, in Gegenwart des Königs David und Zadoks und Ahimelechs #und der Häupter der Väter der Priester und der Leviten, das Haupt der Väter wie sein geringster Bruder."

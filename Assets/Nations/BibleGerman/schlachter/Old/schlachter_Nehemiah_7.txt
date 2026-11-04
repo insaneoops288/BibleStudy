@@ -2,8 +2,8 @@
 "Und ich gab meinem Bruder Hanani und Hananja, dem Obersten der Burg, den Oberbefehlüber Jerusalem; denn er war ein zuverlässiger Mann und gottesfürchtig vor vielen[andern]."
 "Und ich sprach zu ihnen
 "Nun war die Stadt weit und groß, das Volk darin aber spärlich, und die Häuser waren noch nicht aufgebaut."
-"Da gab mir mein Gott ins Herz, die Vornehmsten und die Vorsteher und das Volk zu versammeln, um sie nach ihren Geschlechtern aufzuzeichnen; und ich fand ein Geschlechtsregister derer, die zuerst heraufgezogen waren, und fand darin geschrieben
-"Folgendes sind die Landeskinder, die aus der Gefangenschaft heraufgekommen sind, welche Nebukadnezar, der König von Babel, hinweggeführt hatte, und die wieder nach Jerusalem und Juda gekommen sind, ein jeder in seine Stadt;"
+"Da gab mir mein Gott ins Herz, die Vornehmsten und die Vorsteher und das Volk zu versammeln, um sie #nach ihren Geschlechtern aufzuzeichnen; und ich fand ein Geschlechtsregister derer, die zuerst heraufgezogen waren, und fand darin geschrieben
+"Folgendes sind die Landeskinder, die aus der Gefangenschaft heraufgekommen sind, welche Nebukadnezar, der König von Babel, hinweggeführt #hatte, und die wieder nach Jerusalem und Juda gekommen sind, ein jeder in seine Stadt;"
 "die gekommen sind mit Serubbabel, Jesua, Nehemia, Asarja, Raamja, Nahemani, Mordechai, Bilsan, Misperet, Bigvai, Nehum und Baana. Dies ist die Zahl der Männer vom Volke Israel
 "Der Kinder Parhos waren 2172;"
 "der Kinder Sephatjas
@@ -70,4 +70,4 @@
 "Und sämtliche Familienhäupter gaben Beiträge zum Werk. Der Landpfleger gab für den Schatz 1000 Dareiken, 50 Sprengschalen, 530 Priesterröcke,"
 "und von den Familien ward beigesteuert an den Schatz für das Werk an Gold 20000 Dareiken, und an Silber 2000 Minen."
 "Und dasübrige Volk gab an Gold 20000 Dareiken und an Silber 2000 Minen und 67 Priesterröcke."
-"Und die Priester und Leviten, die Torhüter, Sänger und ein Teil des Volkes und die Tempeldiener und alle Israeliten ließen sich in ihren Städten nieder. Und als der siebente Monat nahte, waren die Kinder Israel in ihren Städten."
+"Und die Priester und Leviten, die Torhüter, Sänger und ein Teil des Volkes und die Tempeldiener und alle Israeliten ließen #sich in ihren Städten nieder. Und als der siebente Monat nahte, waren die Kinder Israel in ihren Städten."

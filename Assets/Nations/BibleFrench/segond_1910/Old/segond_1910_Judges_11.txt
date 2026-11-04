@@ -15,7 +15,7 @@
 "pour lui dire
 "Car lorsque Israël est monté d'Egypte, il a marché dans le désert jusqu'à la mer Rouge, et il est arrivé à Kadès."
 "Alors Israël envoya des messagers au roi d'Edom, pour lui dire
-"Puis il marcha par le désert, tourna le pays d'Edom et le pays de Moab, et vint à l'orient du pays de Moab; ils campèrent au delà de l'Arnon, sans entrer sur le territoire de Moab, car l'Arnon est la frontière de Moab."
+"Puis il marcha par le désert, tourna le pays d'Edom et le pays de Moab, et vint à l'orient du pays de #Moab; ils campèrent au delà de l'Arnon, sans entrer sur le territoire de Moab, car l'Arnon est la frontière de Moab."
 "Israël envoya des messagers à Sihon, roi des Amoréens, roi de Hesbon, et Israël lui dit
 "Mais Sihon n'eut pas assez confiance en Israël pour le laisser passer sur son territoire; il rassembla tout son peuple, campa à Jahats, et combattit Israël."
 "L'Eternel, le Dieu d'Israël, livra Sihon et tout son peuple entre les mains d'Israël, qui les battit. Israël s'empara de tout le pays des Amoréens établis dans cette contrée."
@@ -30,7 +30,7 @@
 "Jephthé fit un voeu à l'Eternel, et dit
 "quiconque sortira des portes de ma maison au-devant de moi, à mon heureux retour de chez les fils d'Ammon, sera consacré à l'Eternel, et je l'offrirai en holocauste."
 "Jephthé marcha contre les fils d'Ammon, et l'Eternel les livra entre ses mains."
-"Il leur fit éprouver une très grande défaite, depuis Aroër jusque vers Minnith, espace qui renfermait vingt villes, et jusqu'à Abel-Keramim. Et les fils d'Ammon furent humiliés devant les enfants d'Israël."
+"Il leur fit éprouver une très grande défaite, depuis Aroër jusque vers Minnith, espace qui renfermait #vingt villes, et jusqu'à Abel-Keramim. Et les fils d'Ammon furent humiliés devant les enfants d'Israël."
 "Jephthé retourna dans sa maison à Mitspa. Et voici, sa fille sortit au-devant de lui avec des tambourins et des danses. C'était son unique enfant; il n'avait point de fils et point d'autre fille."
 "Dès qu'il la vit, il déchira ses vêtements, et dit
 "Elle lui dit

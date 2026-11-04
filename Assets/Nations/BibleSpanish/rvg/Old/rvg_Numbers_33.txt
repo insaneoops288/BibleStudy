@@ -35,7 +35,7 @@
 "Y partieron de Abrona y acamparon en Ezión-geber."
 "Y partieron de Ezión-geber y acamparon en el desierto de Zin, que es Cades."
 "Y partieron de Cades y acamparon en el monte de Hor, en la extremidad del país de Edom."
-"Y subió Aarón el sacerdote al monte de Hor, conforme al dicho de Jehová, y allí murió a los cuarenta años de la salida de los hijos de Israel de la tierra de Egipto, en el mes quinto, en el primer [día] del mes."
+"Y subió Aarón el sacerdote al monte de Hor, conforme al dicho de Jehová, y allí murió a los cuarenta años de la #salida de los hijos de Israel de la tierra de Egipto, en el mes quinto, en el primer [día] del mes."
 "Y era Aarón de edad de ciento veintitrés años, cuando murió en el monte Hor."
 "Y el cananeo, rey de Arad, que habitaba al sur en la tierra de Canaán, oyó que habían venido los hijos de Israel."
 "Y partieron del monte de Hor y acamparon en Salmona."
@@ -52,5 +52,5 @@
 "echaréis a todos los moradores del país de delante de vosotros, y destruiréis todas sus pinturas, y todas sus imágenes de fundición, y arruinaréis todos sus altos;"
 "y echaréis [a los moradores] de la tierra, y habitaréis en ella; porque yo os la he dado para que la poseáis."
 "Y heredaréis la tierra por suertes por vuestras familias
-"Y si no echareis a los moradores de la tierra de delante de vosotros, sucederá que los que dejareis de ellos serán por aguijones en vuestros ojos, y por espinas en vuestros costados, y os afligirán sobre la tierra en que vosotros habitareis."
+"Y si no echareis a los moradores de la tierra de delante de vosotros, sucederá que los que dejareis de ellos serán #por aguijones en vuestros ojos, y por espinas en vuestros costados, y os afligirán sobre la tierra en que vosotros habitareis."
 "Será además, que haré a vosotros como yo pensé hacerles a ellos."

@@ -21,7 +21,7 @@
 "Die Kinder Meraris waren
 "Eleasar aber starb und hatte keine Söhne, sondern Töchter; und die Kinder des Kis, ihre Brüder, nahmen sie."
 "Die Kinder Musis waren
-"Das sind die Kinder Levi nach ihren Vaterhäusern, nämlich die Häupter der Vaterhäuser, die gerechnet wurden nach der Namen Zahl von Haupt zu Haupt, welche taten das Geschäft des Amts im Hause des HERRN, von zwanzig Jahren und darüber."
+"Das sind die Kinder Levi nach ihren Vaterhäusern, nämlich die Häupter der Vaterhäuser, die gerechnet wurden nach der Namen Zahl #von Haupt zu Haupt, welche taten das Geschäft des Amts im Hause des HERRN, von zwanzig Jahren und darüber."
 "Denn David sprach
 "So wurden auch die Kinder Levi gezählt von zwanzig Jahren und darüber, da sie ja die Wohnung nicht mehr zu tragen hatten mit all ihrem Geräte ihres Amts,"
 "sondern nach den letzten Worten Davids,{~}"

@@ -8,16 +8,16 @@
 "Anna sinuas kurittaa, Jerusalem, ettei minun sydämeni kääntyisi pois sinusta, etten minä sinua hävittäisi, niin ettei kenkään asu siinä maassa."
 "Näin sanoo Herra Zebaot
 "Kenelle siis minä puhun ja todistan, että joku kuulis? Katso, heidän korvansa ovat ympärileikkaamatta eikä taida kuulla; katso, he pitävät Herran sanan pilkkana ja ei kärsi sitä."
-"Sentähden olen minä niin täynnä Herran vihaa, etten minä taida lakata vuodattamasta, sekä lasten päälle kaduilla, ja myös nuorukaisten kokouksen päälle yhtä haavaa; sillä sekä mies että vaimo, ijällinen ja ikivanha pitää otettaman kiinni."
+"Sentähden olen minä niin täynnä Herran vihaa, etten minä taida lakata vuodattamasta, sekä lasten päälle kaduilla, ja myös #nuorukaisten kokouksen päälle yhtä haavaa; sillä sekä mies että vaimo, ijällinen ja ikivanha pitää otettaman kiinni."
 "Heidän huoneensa pitää tuleman muukalaisten käsiin, heidän peltonsa ja emäntänsä yhtä haavaa; sillä minä ojennan käteni maan asujain ylitse, sanoo Herra."
 "Sillä he kaikki ahnehtivat, sekä pienet että suuret; prophetat ja papit opettavat väärin,"
 "Ja lohduttavat kansaani hänen viheliäisyydessänsä, sitä halpana pitämään, ja sanovat
-"Sentähden pitää heidän häpiään tuleman, että he kauhistuksen tekevät; ja vaikka he tahtovat olla häpäisemättä, eikä taida hävetä, kuitenkin pitää heidän jokaisen lankeeman toinen toisensa päälle; ja koska minä heitä kuritan, silloin pitää heidän lankeeman, sanoo Herra."
+"Sentähden pitää heidän häpiään tuleman, että he kauhistuksen tekevät; ja vaikka he tahtovat olla häpäisemättä, eikä taida hävetä, kuitenkin #pitää heidän jokaisen lankeeman toinen toisensa päälle; ja koska minä heitä kuritan, silloin pitää heidän lankeeman, sanoo Herra."
 "Näin sanoo Herra
 "Ja minä olen pannut teille vartiat
 "Sentähden, te pakanat, kuulkaat, ja ota vaari, sinä kokous, niistä mitkä heidän seassansa tapahtuu."
 "Maa, kuule sinä; katso, minä annan tulla kovan onnen tälle kansalle, heidän ansaitun palkkansa, ettei he pidä lukua minun sanastani, mutta hylkäävät minun lakini."
-"Mitä minä lukua pidän pyhästä savusta, joka rikkaasta Arabiasta tulee, eli hyvästä kanelista, joka kaukaiselta maalta tulee? Teidän polttouhrinne ei ole minulle otollinen eikä teidän uhrinne kelpaa minulle."
+"Mitä minä lukua pidän pyhästä savusta, joka rikkaasta Arabiasta tulee, eli hyvästä kanelista, joka kaukaiselta #maalta tulee? Teidän polttouhrinne ei ole minulle otollinen eikä teidän uhrinne kelpaa minulle."
 "Sentähden sanoo Herra näin
 "Näin sanoo Herra
 "Jolla on joutset ja kilvet, hän on julma ja armotoin; heidän äänensä pauhaa niinkuin meri; he ajavat hevosilla, he ovat niinkuin varustettu sotaväki sinua vastaan, sinä tytär Zion."

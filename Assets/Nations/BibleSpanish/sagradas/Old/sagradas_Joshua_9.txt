@@ -1,4 +1,4 @@
-"Y aconteció <I>que</I>  cuando oyeron <I>estas cosas</I>  todos los reyes que <I>estaban</I>  a este lado del Jordán, así en las montañas como en los llanos; y en toda la costa del gran mar delante del Líbano, los heteos,  amorreos, cananeos, ferezeos, heveos, y jebuseos;"
+"Y aconteció <I>que</I>  cuando oyeron <I>estas cosas</I>  todos los reyes que <I>estaban</I>  a este lado del Jordán, así en las montañas como #en los llanos; y en toda la costa del gran mar delante del Líbano, los heteos,  amorreos, cananeos, ferezeos, heveos, y jebuseos;"
 "se juntaron a una, de un acuerdo, para pelear contra Josué e Israel."
 "Mas los moradores de Gabaón, cuando oyeron lo que Josué había hecho a Jericó y a Hai,"
 "ellos usaron también de astucia; pues fueron y se fingieron embajadores, y tomaron sacos viejos sobre sus asnos, y cueros viejos de vino, rotos y remendados,"

@@ -10,10 +10,10 @@
 "Und Jehova sprach zu Mose
 "Und sie seien bereit auf den dritten Tag; denn am dritten Tage wird Jehova vor den Augen des ganzen Volkes auf den Berg Sinai herabsteigen."
 "Und mache eine Grenze um das Volk ringsum und sprich
-"keine Hand soll ihn anrühren, denn es soll gewißlich gesteinigt oder erschossen werden; ob Vieh oder Mensch, es darf nicht leben. Wenn das Lärmhorn anhaltend ertönt, sollen sie gegen den Berg hinansteigen."
+"keine Hand soll ihn anrühren, denn es soll gewißlich gesteinigt oder erschossen werden; ob Vieh oder Mensch, #es darf nicht leben. Wenn das Lärmhorn anhaltend ertönt, sollen sie gegen den Berg hinansteigen."
 "Und Mose stieg vom Berge zu dem Volke hinab; und er heiligte das Volk, und sie wuschen ihre Kleider."
 "Und er sprach zu dem Volke
-"Und es geschah am dritten Tage, als es Morgen war, da waren Donner und Blitze und eine schwere Wolke auf dem Berge und ein sehr starker Posaunenschall; und das ganze Volk zitterte, das im Lager war."
+"Und es geschah am dritten Tage, als es Morgen war, da waren Donner und Blitze und eine schwere Wolke #auf dem Berge und ein sehr starker Posaunenschall; und das ganze Volk zitterte, das im Lager war."
 "Und Mose führte das Volk aus dem Lager hinaus, Gott entgegen; und sie stellten sich auf am Fuße des Berges."
 "Und der ganze Berg Sinai rauchte, darum, daß Jehova auf ihn herabstieg im Feuer; und sein Rauch stieg auf, wie der Rauch eines Schmelzofens, und der ganze Berg bebte sehr."
 "Und der Posaunenschall wurde fort und fort stärker; Mose redete, und Gott antwortete ihm mit einer Stimme."

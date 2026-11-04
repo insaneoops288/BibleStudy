@@ -1,4 +1,4 @@
-"Dalam tahun kelima belas dari pemerintahan Kaisar Tiberius, ketika Pontius Pilatus menjadi wali negeri Yudea, dan Herodes raja wilayah Galilea, Filipus, saudaranya, raja wilayah Iturea dan Trakhonitis, dan Lisanias raja wilayah Abilene,"
+"Dalam tahun kelima belas dari pemerintahan Kaisar Tiberius, ketika Pontius Pilatus menjadi wali negeri Yudea, dan Herodes #raja wilayah Galilea, Filipus, saudaranya, raja wilayah Iturea dan Trakhonitis, dan Lisanias raja wilayah Abilene,"
 "pada waktu Hanas dan Kayafas menjadi Imam Besar, datanglah firman Allah kepada Yohanes, anak Zakharia, di padang gurun."
 "Maka datanglah Yohanes ke seluruh daerah Yordan dan menyerukan
 "seperti ada tertulis dalam kitab nubuat-nubuat Yesaya
@@ -14,7 +14,7 @@
 "Dan prajurit-prajurit bertanya juga kepadanya
 "Tetapi karena orang banyak sedang menanti dan berharap, dan semuanya bertanya dalam hatinya tentang Yohanes, kalau-kalau ia adalah Mesias,"
 "Yohanes menjawab dan berkata kepada semua orang itu
-"Alat penampi sudah di tangan-Nya untuk membersihkan tempat pengirikan-Nya dan untuk mengumpulkan gandum-Nya ke dalam lumbung-Nya, tetapi debu jerami itu akan dibakar-Nya dalam api yang tidak terpadamkan."""
+"Alat penampi sudah di tangan-Nya untuk membersihkan tempat pengirikan-Nya dan untuk mengumpulkan gandum-Nya ke #dalam lumbung-Nya, tetapi debu jerami itu akan dibakar-Nya dalam api yang tidak terpadamkan."""
 "Dengan banyak nasihat lain Yohanes memberitakan Injil kepada orang banyak."
 "Akan tetapi setelah ia menegor raja wilayah Herodes karena peristiwa Herodias, isteri saudaranya, dan karena segala kejahatan lain yang dilakukannya,"
 "raja itu menambah kejahatannya dengan memasukkan Yohanes ke dalam penjara."

@@ -10,7 +10,7 @@
 "Sie werden der Könige spotten, und der Fürsten werden sie lachen. Alle Festungen werden ihnen ein Scherz sein; denn sie werden Erde aufschütten und sie gewinnen."
 "Alsdann werden sie einen neuen Mut nehmen, werden fortfahren und sich versündigen; also muß ihre Macht ihr Gott sein."
 "Aber du, HERR, mein Gott, mein Heiliger, der du von Ewigkeit her bist, laß uns nicht sterben; sondern laß sie uns, o HERR, nur eine Strafe sein und laß sie, o unser Hort, uns nur züchtigen!"
-"Deine Augen sind rein, daß duÜbles nicht sehen magst, und dem Jammer kannst du nicht zusehen. Warum siehst du denn den Räubern zu und schweigst, daß der Gottlose verschlingt den, der frömmer als er ist,"
+"Deine Augen sind rein, daß duÜbles nicht sehen magst, und dem Jammer kannst du nicht zusehen. Warum siehst #du denn den Räubern zu und schweigst, daß der Gottlose verschlingt den, der frömmer als er ist,"
 "und lässest die Menschen gehen wie Fische im Meer, wie Gewürm, das keinen HERRN hat?"
 "Sie ziehen alles mit dem Haken und fangen's mit ihrem Netz und sammeln's mit ihrem Garn; des freuen sie sich und sind fröhlich."
 "Darum opfern sie ihrem Netz und räuchern ihrem Garn, weil durch diese ihr Teil so fett und ihre Speise so völlig geworden ist."

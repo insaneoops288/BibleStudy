@@ -25,9 +25,9 @@
 "Entonces Arioch llevó prestamente á Daniel delante del rey, y díjole así
 "Respondió el rey, y dijo á Daniel, al cual llamaban Beltsasar
 "Daniel respondió delante del rey, y dijo
-"Mas hay un Dios en los cielos, el cual revela los misterios, y él ha hecho saber al rey Nabucodonosor lo que ha de acontecer á cabo de días. Tu sueño, y las visiones de tu cabeza sobre tu cama, es esto
+"Mas hay un Dios en los cielos, el cual revela los misterios, y él ha hecho saber al rey Nabucodonosor lo que #ha de acontecer á cabo de días. Tu sueño, y las visiones de tu cabeza sobre tu cama, es esto
 "Tú, oh rey, en tu cama subieron tus pensamientos por saber lo que había de ser en lo por venir; y el que revela los misterios te mostró lo que ha de ser."
-"Y á mí ha sido revelado este misterio, no por sabiduría que en mí haya, más que en todos los vivientes, sino para que yo notifique al rey la declaración, y que entiendieses los pensamientos de tu corazón."
+"Y á mí ha sido revelado este misterio, no por sabiduría que en mí haya, más que en todos los #vivientes, sino para que yo notifique al rey la declaración, y que entiendieses los pensamientos de tu corazón."
 "Tú, oh rey, veías, y he aquí una grande imagen. Esta imagen, que era muy grande, y cuya gloria era muy sublime, estaba en pie delante de ti, y su aspecto era terrible."
 "La cabeza de esta imagen era de fino oro; sus pechos y sus brazos, de plata; su vientre y sus muslos, de metal;"
 "Sus piernas de hierro; sus pies, en parte de hierro, y en parte de barro cocido."
@@ -38,12 +38,12 @@
 "Y todo lo que habitan hijos de hombres, bestias del campo, y aves del cielo, él ha entregado en tu mano, y te ha hecho enseñorear sobre todo
 "Y después de ti se levantará otro reino menor que tú; y otro tercer reino de metal, el cual se enseñoreará de toda la tierra."
 "Y el reino cuarto será fuerte como hierro; y como el hierro desmenuza y doma todas las cosas, y como el hierro que quebranta todas estas cosas, desmenuzará y quebrantará."
-"Y lo que viste de los pies y los dedos, en parte de barro cocido de alfarero, y en parte de hierro, el reino será dividido; mas habrá en él algo de fortaleza de hierro, según que viste el hierro mezclado con el tiesto de barro."
+"Y lo que viste de los pies y los dedos, en parte de barro cocido de alfarero, y en parte de hierro, el reino #será dividido; mas habrá en él algo de fortaleza de hierro, según que viste el hierro mezclado con el tiesto de barro."
 "Y por ser los dedos de los pies en parte de hierro, y en parte de barro cocido, en parte será el reino fuerte, y en parte será frágil."
 "Cuanto á aquello que viste, el hierro mezclado con tiesto de barro, mezclaránse con simiente humana, mas no se pegarán el uno con el otro, como el hierro no se mistura con el tiesto."
 "Y en los días de estos reyes, levantará el Dios del cielo un reino que nunca jamás se corromperá
-"De la manera que viste que del monte fué cortada una piedra, no con manos, la cual desmenuzó al hierro, al metal, al tiesto, á la plata, y al oro; el gran Dios ha mostrado al rey lo que ha de acontecer en lo por venir
+"De la manera que viste que del monte fué cortada una piedra, no con manos, la cual desmenuzó al hierro, al metal, al tiesto, #á la plata, y al oro; el gran Dios ha mostrado al rey lo que ha de acontecer en lo por venir
 "Entonces el rey Nabucodonosor cayó sobre su rostro, y humillóse á Daniel, y mandó que le sacrificasen presentes y perfumes."
 "El rey habló á Daniel, y dijo
-"Entonces el rey engrandeció á Daniel, y le dió muchos y grandes dones, y púsolo por gobernador de toda la provincia de Babilonia, y por príncipe de los gobernadores sobre todos los sabios de Babilonia."
+"Entonces el rey engrandeció á Daniel, y le dió muchos y grandes dones, y púsolo por gobernador de #toda la provincia de Babilonia, y por príncipe de los gobernadores sobre todos los sabios de Babilonia."
 "Y Daniel solicitó del rey, y él puso sobre los negocios de la provincia de Babilonia á Sadrach, Mesach, y Abed-nego

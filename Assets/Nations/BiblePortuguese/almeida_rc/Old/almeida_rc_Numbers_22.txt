@@ -3,7 +3,7 @@
 "E Moabe temeu muito diante deste povo, porque era muito; e Moabe andava angustiado por causa dos filhos de Israel."
 "Pelo que Moabe disse aos anciãos dos midianitas
 "Este enviou mensageiros a Balaão, filho de Beor, a Petor, que está junto ao rio, na terra dos filhos do seu povo, a chamá-lo, dizendo
-"Vem, pois, agora, rogo-te, amaldiçoa-me este povo, pois mais poderoso é do que eu; para ver se o poderei ferir e o lançarei fora da terra; porque eu sei que a quem tu abençoares será abençoado e a quem tu amaldiçoares será amaldiçoado."
+"Vem, pois, agora, rogo-te, amaldiçoa-me este povo, pois mais poderoso é do que eu; para ver se o poderei ferir e o #lançarei fora da terra; porque eu sei que a quem tu abençoares será abençoado e a quem tu amaldiçoares será amaldiçoado."
 "Então, foram-se os anciãos dos moabitas e os anciãos dos midianitas com o preço dos encantamentos nas mãos; e chegaram a Balaão e lhe disseram as palavras de Balaque."
 "E ele lhes disse
 "E veio Deus a Balaão e disse
@@ -20,7 +20,7 @@
 "Veio, pois, o Senhor a Balaão, de noite, e disse-lhe
 "Então, Balaão levantou-se pela manhã, e albardou a sua jumenta, e foi-se com os príncipes de Moabe."
 "E a ira de Deus acendeu-se, porque ele se ia; e o Anjo do SENHOR pôs-se-lhe no caminho por adversário; e ele ia caminhando, montado na sua jumenta, e dois de seus moços com ele."
-"Viu, pois, a jumenta o Anjo do SENHOR que estava no caminho, com a sua espada desembainhada na mão; pelo que desviou-se a jumenta do caminho e foi-se pelo campo; então, Balaão espancou a jumenta para fazê-la tornar ao caminho."
+"Viu, pois, a jumenta o Anjo do SENHOR que estava no caminho, com a sua espada desembainhada na mão; pelo que #desviou-se a jumenta do caminho e foi-se pelo campo; então, Balaão espancou a jumenta para fazê-la tornar ao caminho."
 "Mas o Anjo do SENHOR pôs-se numa vereda de vinhas, havendo uma parede desta banda e uma parede da outra."
 "Vendo, pois, a jumenta o Anjo do SENHOR, apertou-se contra a parede e apertou contra a parede o pé de Balaão; pelo que tornou a espancá-la."
 "Então, o Anjo do SENHOR passou mais adiante e pôs-se num lugar estreito, onde não havia caminho para se desviar nem para a direita nem para a esquerda."

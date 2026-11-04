@@ -20,5 +20,5 @@
 "Apele s-au înălţat cu cincisprezece coţi deasupra [lor] şi munţii au fost acoperiţi."
 "Şi a murit orice făptură care mişca pe pământ, deopotrivă pasăre şi vită şi fiară şi fiecare târâtoare care se târăşte pe pământ şi fiecare om;"
 "Toate în a căror nări [era] suflarea vieţii, toate câte [erau] pe uscat, au murit."
-"Şi orice lucru viu care a fost pe faţa pământului a fost nimicit, deopotrivă om şi vită şi târâtoarele şi pasărea cerului; şi acestea au fost nimicite de pe pământ; şi numai Noe a rămas [în viaţă] şi cei ce [erau] cu el în arcă."
+"Şi orice lucru viu care a fost pe faţa pământului a fost nimicit, deopotrivă om şi vită şi târâtoarele şi pasărea cerului; şi #acestea au fost nimicite de pe pământ; şi numai Noe a rămas [în viaţă] şi cei ce [erau] cu el în arcă."
 "Şi apele s-au înălţat asupra pământului o sută cincizeci de zile."

@@ -24,5 +24,5 @@
 "Maka disuruhnyalah saudaranya pergi, lalu berjalanlah mereka itu. Maka kata Yusuf kepadanya
 "Maka berjalanlah mereka itu dari negeri Mesir, lalu sampailah ke negeri Kanaan, kepada Yakub, bapanya."
 "Maka mereka itupun mengabarkanlah kepadanya, katanya
-"Tetapi setelah disampaikan mereka itu kepadanya segala perkataan Yusuf yang dikatakannya kepada mereka itu, dan setelah dilihatnya segala pedati yang dikirim Yusuf supaya membawa akan dia, maka roh Yakub bapanyapun segarlah pula."
+"Tetapi setelah disampaikan mereka itu kepadanya segala perkataan Yusuf yang dikatakannya kepada mereka itu, dan setelah dilihatnya #segala pedati yang dikirim Yusuf supaya membawa akan dia, maka roh Yakub bapanyapun segarlah pula."
 "Maka kata Israel

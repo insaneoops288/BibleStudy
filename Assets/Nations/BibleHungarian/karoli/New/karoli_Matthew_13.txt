@@ -12,7 +12,7 @@
 "Mert a kinek van, annak adatik, és bõvölködik; de a kinek nincs, az is elvétetik tõle, a mije van."
 "Azért szólok velök példázatokban, mert látván nem látnak, és hallván nem hallanak, sem nem értenek."
 "És beteljesedék rajtok Ésaiás jövendölése, a mely ezt mondja
-"Mert megkövéredett e népnek szíve, és füleikkel nehezen hallottak, és szemeiket behunyták; hogy valami módon ne lássanak szemeikkel, és ne halljanak füleikkel, és ne értsenek szívükkel, és meg ne térjenek, és meg ne gyógyítsam õket."
+"Mert megkövéredett e népnek szíve, és füleikkel nehezen hallottak, és szemeiket behunyták; hogy valami módon ne lássanak szemeikkel, #és ne halljanak füleikkel, és ne értsenek szívükkel, és meg ne térjenek, és meg ne gyógyítsam õket."
 "A ti szemeitek pedig boldogok, hogy látnak; és a ti füleitek, hogy hallanak."
 "Mert bizony mondom néktek, hogy sok próféta és igaz kívánta látni, a miket ti láttok, és nem látták; és hallani, a miket ti hallotok, és nem hallották."
 "Ti halljátok meg azért a magvetõ példázatát."
@@ -41,7 +41,7 @@
 "Az embernek Fia elküldi az õ angyalait, és az õ országából összegyûjtik a botránkozásokat mind, és azokat is, a kik gonoszságot cselekesznek,"
 "És bevetik õket a tüzes kemenczébe
 "Akkor az igazak fénylenek, mint a nap, az õ Atyjoknak országában. A kinek van füle a hallásra, hallja."
-"Ismét hasonlatos a mennyeknek országa a szántóföldben elrejtett kincshez, a melyet megtalálván az ember, elrejté azt; és a felett való örömében elmegy és eladván mindenét a mije van, megveszi azt a szántóföldet."
+"Ismét hasonlatos a mennyeknek országa a szántóföldben elrejtett kincshez, a melyet megtalálván az ember, elrejté azt; és #a felett való örömében elmegy és eladván mindenét a mije van, megveszi azt a szántóföldet."
 "Ismét hasonlatos a mennyeknek országa a kereskedõhöz, a ki igazgyöngyöket keres;"
 "A ki találván egy drágagyöngyre, elméne, és mindenét eladván a mije volt, megvevé azt."
 "Szintén hasonlatos a mennyeknek országa a tengerbe vetett gyalomhoz, a mely mindenféle fajtát összefogott;"

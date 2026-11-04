@@ -25,8 +25,8 @@
 "E foi seu filho Refa, e Resefe, e Tela, seu filho, e Taã, seu filho,"
 "seu filho Ladã, seu filho Amiúde, seu filho Elisama,"
 "seu filho Num, seu filho Josué."
-"E foi a sua possessão e habitação Betel, e os lugares da sua jurisdição; e ao oriente Naarã; e ao ocidente Gezer, e os lugares da sua jurisdição, e Siquém, e os lugares da sua jurisdição, até Aia, e os lugares da sua jurisdição;"
-"e da banda dos filhos de Manassés, Bete-Seã, e os lugares da sua jurisdição, Megido, e os lugares da sua jurisdição, Taanaque, e os lugares da sua jurisdição, Dor, e os lugares da sua jurisdição; nestas habitaram os filhos de José, filho de Israel."
+"E foi a sua possessão e habitação Betel, e os lugares da sua jurisdição; e ao oriente Naarã; e ao ocidente Gezer, e #os lugares da sua jurisdição, e Siquém, e os lugares da sua jurisdição, até Aia, e os lugares da sua jurisdição;"
+"e da banda dos filhos de Manassés, Bete-Seã, e os lugares da sua jurisdição, Megido, e os lugares da sua jurisdição, Taanaque, e #os lugares da sua jurisdição, Dor, e os lugares da sua jurisdição; nestas habitaram os filhos de José, filho de Israel."
 "Os filhos de Aser foram
 "E os filhos de Berias
 "E Héber gerou a Jaflete, e a Somer, e a Hotão, e a Suá, sua irmã."
@@ -37,4 +37,4 @@
 "e Bezer, e Hode, e Samá, e Silsa, e Itrã, e Beera."
 "E os filhos de Jéter
 "E os filhos de Ula
-"Todos estes foram filhos de Aser, chefes das casas paternas, escolhidos varões de valor, chefes dos príncipes, e contados nas suas genealogias, no exército para a guerra; foi seu número de vinte e seis mil homens."
+"Todos estes foram filhos de Aser, chefes das casas paternas, escolhidos varões de valor, chefes dos príncipes, e contados #nas suas genealogias, no exército para a guerra; foi seu número de vinte e seis mil homens."

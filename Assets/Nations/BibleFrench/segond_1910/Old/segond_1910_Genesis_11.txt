@@ -28,5 +28,5 @@
 "Et Haran mourut en présence de Térach, son père, au pays de sa naissance, à Ur en Chaldée. -"
 "Abram et Nachor prirent des femmes
 "Saraï était stérile
-"Térach prit Abram, son fils, et Lot, fils d'Haran, fils de son fils, et Saraï, sa belle-fille, femme d'Abram, son fils. Ils sortirent ensemble d'Ur en Chaldée, pour aller au pays de Canaan. Ils vinrent jusqu'à Charan, et ils y habitèrent."
+"Térach prit Abram, son fils, et Lot, fils d'Haran, fils de son fils, et Saraï, sa belle-fille, femme d'Abram, son fils. #Ils sortirent ensemble d'Ur en Chaldée, pour aller au pays de Canaan. Ils vinrent jusqu'à Charan, et ils y habitèrent."
 "Les jours de Térach furent de deux cent cinq ans; et Térach mourut à Charan."

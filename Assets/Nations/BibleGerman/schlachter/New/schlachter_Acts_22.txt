@@ -1,8 +1,8 @@
 "Ihr Männer, Brüder und Väter, höret jetzt meine Verteidigung vor euch an!"
 "Als sie aber hörten, daß er in hebräischer Sprache zu ihnen redete, wurden sie noch ruhiger; und er sprach
-"Ich bin ein jüdischer Mann, geboren zu Tarsus in Cilicien, aber erzogen in dieser Stadt, zu den Füßen Gamaliels, unterrichtet mit allem Fleiß im väterlichen Gesetz, und ich war ein Eiferer für Gott, wie ihr alle es heute seid."
+"Ich bin ein jüdischer Mann, geboren zu Tarsus in Cilicien, aber erzogen in dieser Stadt, zu den Füßen Gamaliels, unterrichtet #mit allem Fleiß im väterlichen Gesetz, und ich war ein Eiferer für Gott, wie ihr alle es heute seid."
 "Ich verfolgte diesen Weg bis auf den Tod, indem ich Männer und Frauen band und ins Gefängnisüberlieferte,"
-"wie mir auch der Hohepriester und der ganze Rat derÄltesten Zeugnis gibt. Von ihnen empfing ich sogar Briefe an die Brüder und zog nach Damaskus, um auch die, welche dort waren, gebunden nach Jerusalem zu führen, damit sie bestraft würden."
+"wie mir auch der Hohepriester und der ganze Rat derÄltesten Zeugnis gibt. Von ihnen empfing ich sogar Briefe an die Brüder #und zog nach Damaskus, um auch die, welche dort waren, gebunden nach Jerusalem zu führen, damit sie bestraft würden."
 "Es geschah mir aber, als ich auf meiner Reise in die Nähe von Damaskus kam, daß mich am Mittag plötzlich vom Himmel her ein helles Licht umstrahlte."
 "Und ich fiel zu Boden und hörte eine Stimme, die zu mir sprach
 "Ich aber antwortete
@@ -27,4 +27,4 @@
 "Da kam der Oberste herzu und sprach zu ihm
 "Und der Oberste erwiderte
 "Alsbald standen die, welche ihn peinlich verhören wollten, von ihm ab, und auch der Oberste fürchtete sich, da er vernommen hatte, daß er ein Römer sei, und weil er ihn hatte fesseln lassen."
-"Am folgenden Tage aber, da er mit Gewißheit erfahren wollte, wessen er von den Juden angeklagt werde, entledigte er ihn der Fesseln und ließ die Hohenpriester samt dem ganzen Hohen Rat zusammenkommen und führte Paulus hinab und stellte ihn vor sie."
+"Am folgenden Tage aber, da er mit Gewißheit erfahren wollte, wessen er von den Juden angeklagt werde, entledigte er ihn der #Fesseln und ließ die Hohenpriester samt dem ganzen Hohen Rat zusammenkommen und führte Paulus hinab und stellte ihn vor sie."

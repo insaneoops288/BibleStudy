@@ -14,4 +14,4 @@
 "Vanhurskaudella pitää sinun valmistetuksi tuleman
 "Katso, kuka tahtoo sinua vastaan koota ja sortaa sinua, jos he ilman minua kokoontuvat?"
 "Katso, minä teen sepän, joka hiilet tulessa lietsoo, ja tekee aseen työtänsä varten
-"Ei yksikään ase, joka valmistetaan sinua vastaan, pidä menestymän; ja kaikki kielet, jotka heitänsä asettavat sinua vastaan, pitää sinun tuomiollas kadotettaman. Tämä on Herran palveliain perimys, ja heidän vanhurskautensa minusta, sanoo Herra."
+"Ei yksikään ase, joka valmistetaan sinua vastaan, pidä menestymän; ja kaikki kielet, jotka heitänsä asettavat sinua vastaan, #pitää sinun tuomiollas kadotettaman. Tämä on Herran palveliain perimys, ja heidän vanhurskautensa minusta, sanoo Herra."

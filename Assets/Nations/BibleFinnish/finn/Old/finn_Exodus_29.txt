@@ -19,7 +19,7 @@
 "Toisen oinaan pitää sinun myös ottaman, ja Aaron poikinensa pitää paneman kätensä oinaan pään päälle."
 "Ja sinun pitää teurastaman oinaan ja ottaman hänen verestänsä, ja sivuman Aaronin ja hänen poikainsa oikian korvan lehteen, ja oikian käden peukaloon, ja heidän oikian jalkansa isoon varpaaseen
 "Ja sinun pitää ottaman verestä, kuin alttarilla on, ja voidellusöljystä, ja priiskottaman Aaronin ja hänen vaatettensa päälle, ja hänen poikainsa ja heidän vaatettensa päälle
-"Sitte pitää sinun ottaman oinaasta lihavuuden, ja saparon, ja sen lihavuuden kuin sisällykset peittää, ja maksan kalvon, ja molemmat munaskuut, niin myös sen lihavuuden kuin niiden päällä on, ja oikian lavan; sillä se on täyttämisen oinas."
+"Sitte pitää sinun ottaman oinaasta lihavuuden, ja saparon, ja sen lihavuuden kuin sisällykset peittää, ja maksan kalvon, ja molemmat #munaskuut, niin myös sen lihavuuden kuin niiden päällä on, ja oikian lavan; sillä se on täyttämisen oinas."
 "Ja yhden kyrsän leipää, ja yhden öljykyrsän, ja ohuen kyrsän korista, jossa happamattomat leivät ovat Herran edessä."
 "Ja sinun pitää paneman kaikki nämät Aaronin ja hänen poikainsa kätten päälle, ja häälyttämän ne häälytykseksi Herralle."
 "Ja niin pitää sinun ne ottaman heidän käsistänsä, ja polttaman alttarilla polttouhriksi ja makiaksi hajuksi Herralle; sillä se on Herran tuli."

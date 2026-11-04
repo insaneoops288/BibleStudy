@@ -16,16 +16,16 @@
 "der HERR aber sprach zu ihm
 "Er aber sprach zu ihm
 "weiche nicht, bis ich zu dir komme und bringe mein Speisopfer und es vor dir hinlege. Er sprach
-"Und Gideon kam und richtete zu ein Ziegenböcklein und ein Epha ungesäuerten Mehls und legte das Fleisch in einen Korb und tat die Brühe in einen Topf und brachte es zu ihm heraus unter die Eiche und trat herzu."
+"Und Gideon kam und richtete zu ein Ziegenböcklein und ein Epha ungesäuerten Mehls und legte das Fleisch in einen Korb #und tat die Brühe in einen Topf und brachte es zu ihm heraus unter die Eiche und trat herzu."
 "Aber der Engel Gottes sprach zu ihm
-"Da reckte der Engel des HERRN den Stecken aus, den er in der Hand hatte, und rührte mit der Spitze das Fleisch und das Ungesäuerte an. Und das Feuer fuhr aus dem Fels und verzehrte das Fleisch und das Ungesäuerte. Und der Engel des HERRN verschwand aus seinen Augen.{~}"
+"Da reckte der Engel des HERRN den Stecken aus, den er in der Hand hatte, und rührte mit der Spitze das Fleisch und das Ungesäuerte #an. Und das Feuer fuhr aus dem Fels und verzehrte das Fleisch und das Ungesäuerte. Und der Engel des HERRN verschwand aus seinen Augen.{~}"
 "Da nun Gideon sah, daß es der Engel des HERRN war, sprach er
 "Aber der HERR sprach zu ihm
 "Da baute Gideon daselbst dem HERRN einen Altar und hieß ihn
 "Und in derselben Nacht sprach der HERR zu ihm
-"und baue dem HERRN, deinem Gott, oben auf der Höhe dieses Felsens einen Altar und rüste ihn zu und nimm den andern Farren und opfere ein Brandopfer mit dem Holz des Ascherabildes, das du abgehauen hast."
-"Da nahm Gideon zehn Männer aus seinen Knechten und tat, wie ihm der HERR gesagt hatte. Aber er fürchtete sich, solches zu tun des Tages, vor seines Vaters Haus und den Leuten in der Stadt, und tat's bei der Nacht."
-"Da nun die Leute in der Stadt des Morgens früh aufstanden, siehe, da war der Altar Baals zerbrochen und das Ascherabild dabei abgehauen und der andere Farre ein Brandopfer auf dem Altar, der gebaut war."
+"und baue dem HERRN, deinem Gott, oben auf der Höhe dieses Felsens einen Altar und rüste ihn zu und #nimm den andern Farren und opfere ein Brandopfer mit dem Holz des Ascherabildes, das du abgehauen hast."
+"Da nahm Gideon zehn Männer aus seinen Knechten und tat, wie ihm der HERR gesagt hatte. Aber er fürchtete sich, solches #zu tun des Tages, vor seines Vaters Haus und den Leuten in der Stadt, und tat's bei der Nacht."
+"Da nun die Leute in der Stadt des Morgens früh aufstanden, siehe, da war der Altar Baals zerbrochen #und das Ascherabild dabei abgehauen und der andere Farre ein Brandopfer auf dem Altar, der gebaut war."
 "Und einer sprach zu dem andern
 "Da sprachen die Leute der Stadt zu Joas
 "Joas aber sprach zu allen, die bei ihm standen
@@ -34,7 +34,7 @@
 "erfüllte der Geist des HERRN den Gideon; und er ließ die Posaune blasen und rief die Abiesriter, daß sie ihm folgten,"
 "und sandte Botschaft zu ganz Manasse und rief sie an, daß sie ihm auch nachfolgten. Er sandte auch Botschaft zu Asser und Sebulon und Naphthali; die kamen herauf, ihm entgegen."
 "Und Gideon sprach zu Gott
-"so will ich ein Fell mit der Wolle auf die Tenne legen. Wird der Tau auf dem Fell allein sein und die ganze Erde umher trocken, so will ich merken, daß du Israel erlösen wirst durch meine Hand, wie du geredet hast."
+"so will ich ein Fell mit der Wolle auf die Tenne legen. Wird der Tau auf dem Fell allein sein und die #ganze Erde umher trocken, so will ich merken, daß du Israel erlösen wirst durch meine Hand, wie du geredet hast."
 "Und es geschah also. Und da er des andern Morgens früh aufstand, drückte er den Tau aus vom Fell und füllte eine Schale voll des Wassers.{~}{~}"
 "Und Gideon sprach zu Gott
 "Und Gott tat also dieselbe Nacht, daß es trocken war allein auf dem Fell und Tau auf der ganzen Erde.{~}"

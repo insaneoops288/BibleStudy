@@ -24,7 +24,7 @@
 "Ajjálont és annak legelõjét; Gath-Rimmont és annak legelõjét; négy várost."
 "A Manassé fél nemzetségébõl pedig
 "Összesen tíz várost és azoknak legelõit a Kehát fiai többi családjainak."
-"A Gerson fiainak pedig, a kik a Léviták családjaiból valának, [adák] a Manassé fél nemzetségébõl a gyilkosok menekülésének városát, Gólánt Básánban és annak legelõjét, és Beesterát és annak legelõjét
+"A Gerson fiainak pedig, a kik a Léviták családjaiból valának, [adák] a Manassé fél nemzetségébõl #a gyilkosok menekülésének városát, Gólánt Básánban és annak legelõjét, és Beesterát és annak legelõjét
 "Az Issakhár nemzetségébõl pedig
 "Jármutot és annak legelõjét, és Én-Gannimot és annak legelõjét
 "Az Áser nemzetségébõl pedig
@@ -41,5 +41,5 @@
 "A Lévitáknak összes városai az Izráel fiainak birtoka között
 "Valának ezek a városok a [tulajdonképeni] város és körülöttök azoknak legelõi. Így vala ez mind e városoknál."
 "Megadá azért az Úr Izráelnek mindazt a földet, a mely felõl megesküdött vala, hogy odaadja azt az õ atyáiknak. És bírák azt, és lakozának abban."
-"Nyugodalmat is ada nékik az Úr mindenfelõl, szintén úgy, a mint megesküdött vala az õ atyáiknak. És senki nem állott meg ellenökben valamennyi ellenségeik közül; minden ellenségöket kezökbe adá az Úr."
+"Nyugodalmat is ada nékik az Úr mindenfelõl, szintén úgy, a mint megesküdött vala az õ atyáiknak. #És senki nem állott meg ellenökben valamennyi ellenségeik közül; minden ellenségöket kezökbe adá az Úr."
 "Nem esett el csak egy szó is mindama jó szóból, a melyet szólott vala az Úr az Izráel házának. Mindaz betelt."

@@ -6,7 +6,7 @@
 "Vídají marnost a hádání lživé. Říkají
 "Zdaliž vidění marného nevídáte, a hádání lživého nevypravujete? A říkáte
 "Pročež takto praví Panovník Hospodin
-"Nebo bude ruka má proti prorokům, kteříž vídají marnost a hádají lež. V losu lidu mého nebudou, a v popisu domu Izraelského nebudou zapsáni, aniž do země Izraelské vejdou. I zvíte, že já jsem Panovník Hospodin,"
+"Nebo bude ruka má proti prorokům, kteříž vídají marnost a hádají lež. V losu lidu mého nebudou, a v #popisu domu Izraelského nebudou zapsáni, aniž do země Izraelské vejdou. I zvíte, že já jsem Panovník Hospodin,"
 "Proto, proto že v blud uvedli lid můj, říkajíce
 "Rciž těm, kteříž obmítají vápnem ničemným
 "A aj, když padne ta stěna, zdaliž vám nebude řečeno

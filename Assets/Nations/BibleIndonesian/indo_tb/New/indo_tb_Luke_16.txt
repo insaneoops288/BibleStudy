@@ -7,10 +7,10 @@
 "Kemudian ia berkata kepada yang kedua
 "Lalu tuan itu memuji bendahara yang tidak jujur itu, karena ia telah bertindak dengan cerdik. Sebab anak-anak dunia ini lebih cerdik terhadap sesamanya dari pada anak-anak terang."
 "Dan Aku berkata kepadamu
-"""Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa tidak benar dalam perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar."
+"""Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa #tidak benar dalam perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar."
 "Jadi, jikalau kamu tidak setia dalam hal Mamon yang tidak jujur, siapakah yang akan mempercayakan kepadamu harta yang sesungguhnya?"
 "Dan jikalau kamu tidak setia dalam harta orang lain, siapakah yang akan menyerahkan hartamu sendiri kepadamu?"
-"Seorang hamba tidak dapat mengabdi kepada dua tuan. Karena jika demikian ia akan membenci yang seorang dan mengasihi yang lain, atau ia akan setia kepada yang seorang dan tidak mengindahkan yang lain. Kamu tidak dapat mengabdi kepada Allah dan kepada Mamon."""
+"Seorang hamba tidak dapat mengabdi kepada dua tuan. Karena jika demikian ia akan membenci yang seorang dan mengasihi yang lain, atau #ia akan setia kepada yang seorang dan tidak mengindahkan yang lain. Kamu tidak dapat mengabdi kepada Allah dan kepada Mamon."""
 "Semuanya itu didengar oleh orang-orang Farisi, hamba-hamba uang itu, dan mereka mencemoohkan Dia."
 "Lalu Ia berkata kepada mereka
 "Hukum Taurat dan kitab para nabi berlaku sampai kepada zaman Yohanes; dan sejak waktu itu Kerajaan Allah diberitakan dan setiap orang menggagahinya berebut memasukinya."
@@ -23,7 +23,7 @@
 "Orang kaya itu juga mati, lalu dikubur. Dan sementara ia menderita sengsara di alam maut ia memandang ke atas, dan dari jauh dilihatnya Abraham, dan Lazarus duduk di pangkuannya."
 "Lalu ia berseru, katanya
 "Tetapi Abraham berkata
-"Selain dari pada itu di antara kami dan engkau terbentang jurang yang tak terseberangi, supaya mereka yang mau pergi dari sini kepadamu ataupun mereka yang mau datang dari situ kepada kami tidak dapat menyeberang."
+"Selain dari pada itu di antara kami dan engkau terbentang jurang yang tak terseberangi, supaya mereka yang mau #pergi dari sini kepadamu ataupun mereka yang mau datang dari situ kepada kami tidak dapat menyeberang."
 "Kata orang itu
 "sebab masih ada lima orang saudaraku, supaya ia memperingati mereka dengan sungguh-sungguh, agar mereka jangan masuk kelak ke dalam tempat penderitaan ini."
 "Tetapi kata Abraham

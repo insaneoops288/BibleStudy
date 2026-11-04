@@ -2,8 +2,8 @@
 "Et Paschhur frappa Jérémie, le prophète, et le mit dans la prison qui était à la porte supérieure de Benjamin, dans la maison de l'Eternel."
 "Mais le lendemain, Paschhur fit sortir Jérémie de prison. Et Jérémie lui dit
 "Car ainsi parle l'Eternel
-"Je livrerai toutes les richesses de cette ville, tout le produit de son travail, tout ce qu'elle a de précieux, je livrerai tous les trésors des rois de Juda entre les mains de leurs ennemis, qui les pilleront, les enlèveront et les transporteront à Babylone."
-"Et toi, Paschhur, et tous ceux qui demeurent dans ta maison, vous irez en captivité; tu iras à Babylone, et là tu mourras, et là tu seras enterré, toi et tous tes amis auxquels tu as prophétisé le mensonge."
+"Je livrerai toutes les richesses de cette ville, tout le produit de son travail, tout ce qu'elle a de précieux, je livrerai tous #les trésors des rois de Juda entre les mains de leurs ennemis, qui les pilleront, les enlèveront et les transporteront à Babylone."
+"Et toi, Paschhur, et tous ceux qui demeurent dans ta maison, vous irez en captivité; tu iras à Babylone, et #là tu mourras, et là tu seras enterré, toi et tous tes amis auxquels tu as prophétisé le mensonge."
 "Tu m'as persuadé, Eternel, et je me suis laissé persuader; Tu m'as saisi, tu m'as vaincu. Et je suis chaque jour un objet de raillerie, Tout le monde se moque de moi."
 "Car toutes les fois que je parle, il faut que je crie, Que je crie à la violence et à l'oppression! Et la parole de l'Eternel est pour moi Un sujet d'opprobre et de risée chaque jour."
 "Si je dis

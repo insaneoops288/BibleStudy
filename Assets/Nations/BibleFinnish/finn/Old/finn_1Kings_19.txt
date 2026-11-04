@@ -16,6 +16,6 @@
 "Ja voitele Jehu Nimsin poika Israelin kuninkaaksi; ja Elisa Saphatin poika, AbelMeholasta, voitele prophetaksi sinun siaas."
 "Ja tapahtuu, että joka välttää Hasaelin miekan, se tapetaan Jehulta, ja joka välttää Jehun miekan, se tapetaan Elisalta."
 "Mutta minä jätän seitsemäntuhatta Israeliin
-"Ja hän läksi sieltä ja kohtasi Elisan Saphatin pojan, joka kynti kahdellatoistakymmenellä parilla härkiä, ja hän itse oli niiden kahdentoistakymmenen seassa; ja Elia meni hänen tykönsä ja heitti hameensa hänen päällensä."
+"Ja hän läksi sieltä ja kohtasi Elisan Saphatin pojan, joka kynti kahdellatoistakymmenellä parilla härkiä, ja hän #itse oli niiden kahdentoistakymmenen seassa; ja Elia meni hänen tykönsä ja heitti hameensa hänen päällensä."
 "Ja hän jätti härjät ja juoksi Elian perässä, ja sanoi
 "Ja hän palasi hänen tykönsä, ja otti parin härkiä ja uhrasi sen, ja keitti lihan härkäin kaluilla, ja antoi kansalle syödä; ja hän nousi ja seurasi Eliaa, ja palveli häntä."

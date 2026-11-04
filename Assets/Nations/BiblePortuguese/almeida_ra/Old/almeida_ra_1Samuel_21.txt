@@ -3,7 +3,7 @@
 "Agora, pois, que tens à mão? Dá-me cinco pães, ou o que se achar."
 "Ao que, respondendo o sacerdote a David, disse
 "E respondeu David ao sacerdote, e lhe disse
-"Então o sacerdote lhe deu o pão sagrado; porquanto não havia ali outro pão senão os pães da proposição, que se haviam tirado de diante do Senhor no dia em que se tiravam para se pôr ali pão quente."
+"Então o sacerdote lhe deu o pão sagrado; porquanto não havia ali outro pão senão os pães da proposição, que #se haviam tirado de diante do Senhor no dia em que se tiravam para se pôr ali pão quente."
 "Ora, achava-se ali naquele dia um dos servos de Saul, detido perante o Senhor; e era seu nome Doeg, edomeu, chefe dos pastores de Saul."
 "E disse David a Aimélec
 "Respondeu o sacerdote

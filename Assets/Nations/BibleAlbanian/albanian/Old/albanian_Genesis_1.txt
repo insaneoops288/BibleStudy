@@ -18,7 +18,7 @@
 "për të qeverisur ditën dhe natën dhe për ta ndarë dritën nga errësira. Dhe Perëndia e pa që kjo ishte mirë."
 "Kështu erdhi mbrëmja dhe erdhi mëngjesi
 "Pastaj Perëndia tha
-"Kështu Perëndia krijoi kafshët e mëdha ujore dhe të gjitha gjallesat që lëvizin dhe që mbushin ujërat, secili simbas llojit të vet, e çdo shpend fluturues simbas llojit të vet. Dhe Perëndia e pa se kjo ishte mirë."
+"Kështu Perëndia krijoi kafshët e mëdha ujore dhe të gjitha gjallesat që lëvizin dhe që mbushin ujërat, secili simbas llojit #të vet, e çdo shpend fluturues simbas llojit të vet. Dhe Perëndia e pa se kjo ishte mirë."
 "Dhe Perëndia i bekoi duke thënë
 "Kështu erdhi mbrëmja dhe pastaj mëngjesi
 "Pastaj Perëndia tha

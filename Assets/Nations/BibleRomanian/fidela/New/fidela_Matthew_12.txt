@@ -39,10 +39,10 @@
 "Dar răspunzând, le-a zis
 "Fiindcă, așa cum Iona a fost trei zile și trei nopți în pântecele balenei, tot așa Fiul omului va fi trei zile și trei nopți în inima pământului."
 "Bărbații din Ninive se vor scula la judecată cu această generație și o vor condamna, pentru că s-au pocăit la predicarea lui Iona; și iată, aici[ este] [unul] mai mare decât Iona."
-"Împărăteasa sudului se va ridica la judecată cu această generație și o va condamna, pentru că a venit de la marginile pământului să audă înțelepciunea lui Solomon; și iată, aici[ este] [unul] mai mare decât Solomon."
+"Împărăteasa sudului se va ridica la judecată cu această generație și o va condamna, pentru că a venit de #la marginile pământului să audă înțelepciunea lui Solomon; și iată, aici[ este] [unul] mai mare decât Solomon."
 "Și, când duhul necurat iese dintr-un om, umblă prin locuri uscate căutând odihnă și nu găsește."
 "Atunci spune
-"Atunci se duce și ia cu sine alte șapte duhuri mai stricate decât el și intră și locuiesc acolo; și [starea ]de pe urmă[ ]a acelui om devine mai rea decât cea dintâi. Chiar așa va fi și cu această generație stricată."
+"Atunci se duce și ia cu sine alte șapte duhuri mai stricate decât el și intră și locuiesc acolo; și [starea ]de #pe urmă[ ]a acelui om devine mai rea decât cea dintâi. Chiar așa va fi și cu această generație stricată."
 "Pe când vorbea el încă oamenilor, iată, mama și frații lui stăteau afară în picioare, dorind să vorbească cu el."
 "Atunci cineva i-a spus
 "Dar el a răspuns și a zis celui ce i-a vorbit

@@ -6,7 +6,7 @@
 "Und der HERR sprach weiter zu ihm
 "Und er sprach
 "Wenn sie dir nun nicht werden glauben noch deine Stimme hören bei dem einen Zeichen, so werden sie doch glauben deine Stimme bei dem andern Zeichen."
-"Wenn sie aber diesen zwei Zeichen nicht glauben werden noch deine Stimme hören, so nimm Wasser aus dem Strom und gieß es auf das trockene Land, so wird das Wasser, das du aus dem Strom genommen hast, Blut werden auf dem trockenen Lande."
+"Wenn sie aber diesen zwei Zeichen nicht glauben werden noch deine Stimme hören, so nimm Wasser aus dem Strom und gieß es #auf das trockene Land, so wird das Wasser, das du aus dem Strom genommen hast, Blut werden auf dem trockenen Lande."
 "Mose aber sprach zu dem HERRN
 "Der HERR sprach zu ihm
 "So geh nun hin

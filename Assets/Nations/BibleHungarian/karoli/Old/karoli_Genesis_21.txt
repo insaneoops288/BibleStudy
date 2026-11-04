@@ -20,7 +20,7 @@
 "És vala Isten a gyermekkel, s az felnövekedék, és lakik vala a pusztában, és lõn íjászszá."
 "Lakozék pedig Párán pusztájában, és võn néki anyja feleséget Égyiptom földérõl."
 "És lõn abban az idõben, hogy Abimélek és Pikhól annak hadvezére megszólíták Ábrahámot mondván
-"Mostan azért esküdj meg énnékem az Istenre itt, hogy sem én ellenem, sem fiam, sem unokám ellen álnokságot nem cselekszel, hanem azzal a szeretettel, a melylyel én te irántad viseltettem, viseltetel te is én irántam és az ország iránt, a melyben jövevény voltál."
+"Mostan azért esküdj meg énnékem az Istenre itt, hogy sem én ellenem, sem fiam, sem unokám ellen álnokságot nem cselekszel, hanem azzal #a szeretettel, a melylyel én te irántad viseltettem, viseltetel te is én irántam és az ország iránt, a melyben jövevény voltál."
 "És monda Ábrahám
 "Megdorgálá pedig Ábrahám Abiméleket a kútért, melyet erõvel elvettek vala az Abimélek szolgái."
 "És monda Abimélek

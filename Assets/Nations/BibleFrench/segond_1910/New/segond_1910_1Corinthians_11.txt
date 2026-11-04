@@ -19,7 +19,7 @@
 "car il faut qu'il y ait aussi des sectes parmi vous, afin que ceux qui sont approuvés soient reconnus comme tels au milieu de vous. -"
 "Lors donc que vous vous réunissez, ce n'est pas pour manger le repas du Seigneur;"
 "car, quand on se met à table, chacun commence par prendre son propre repas, et l'un a faim, tandis que l'autre est ivre."
-"N'avez-vous pas des maisons pour y manger et boire? Ou méprisez-vous l'Eglise de Dieu, et faites-vous honte à ceux qui n'ont rien? Que vous dirai-je? Vous louerai-je? En cela je ne vous loue point."
+"N'avez-vous pas des maisons pour y manger et boire? Ou méprisez-vous l'Eglise de Dieu, et faites-vous honte à #ceux qui n'ont rien? Que vous dirai-je? Vous louerai-je? En cela je ne vous loue point."
 "Car j'ai reçu du Seigneur ce que je vous ai enseigné; c'est que le Seigneur Jésus, dans la nuit où il fut livré, prit du pain,"
 "et, après avoir rendu grâces, le rompit, et dit
 "De même, après avoir soupé, il prit la coupe, et dit

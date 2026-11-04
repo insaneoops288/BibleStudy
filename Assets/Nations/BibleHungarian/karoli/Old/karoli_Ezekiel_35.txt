@@ -8,7 +8,7 @@
 "És betöltöm hegyeit megölöttjeivel; halmaid és völgyeid és minden mélységed
 "Örök pusztasággá teszlek, és városaidat ne lakják, és megtudjátok, hogy én vagyok az Úr."
 "Mivelhogy ezt mondod
-"Annakokáért élek én, ezt mondja az Úr Isten, hogy a te haragod és fölgerjedésed szerint cselekszem veled, a melylyel te cselekedtél irántok való gyûlölségedbõl; és megjelentem magamat közöttök, mikor megítéllek."
+"Annakokáért élek én, ezt mondja az Úr Isten, hogy a te haragod és fölgerjedésed szerint cselekszem #veled, a melylyel te cselekedtél irántok való gyûlölségedbõl; és megjelentem magamat közöttök, mikor megítéllek."
 "És megtudod, hogy én, az Úr, meghallottam minden szidalmadat, melyeket Izráel hegyei ellen mondtál, mondván
 "Így kérkedtetek ellenem szátokkal, s szórtátok ellenem beszédeiteket
 "Így szól az Úr Isten

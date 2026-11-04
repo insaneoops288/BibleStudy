@@ -7,7 +7,7 @@
 "Y dijo Josafat
 "Y el rey de Israel respondió a Josafat
 "Entonces el rey de Israel llamó a un oficial, y le dijo
-"Y el rey de Israel y Josafat rey de Judá estaban sentados cada uno en su trono, vestidos de sus ropas reales, en la plaza junto a la entrada de la puerta de Samaria; y todos los profetas profetizaban delante de ellos."
+"Y el rey de Israel y Josafat rey de Judá estaban sentados cada uno en su trono, vestidos de sus ropas reales, #en la plaza junto a la entrada de la puerta de Samaria; y todos los profetas profetizaban delante de ellos."
 "Y Sedequías hijo de Quenaana se había hecho unos cuernos de hierro, y dijo
 "Y todos los profetas profetizaban de la misma manera, diciendo
 "Y el mensajero que había ido a llamar a Micaías, le habló, diciendo
@@ -40,7 +40,7 @@
 "Y durmió Acab con sus padres, y reinó en su lugar Ocozías su hijo."
 "Y Josafat hijo de Asa comenzó a reinar sobre Judá en el cuarto año de Acab rey de Israel."
 "Y era Josafat de treinta y cinco años cuando comenzó a reinar, y reinó veinticinco años en Jerusalén. El nombre de su madre fue Azuba hija de Silhi."
-"Y anduvo en todo el camino de Asa su padre, sin declinar de él, haciendo lo recto en los ojos de Jehová. Con todo eso, los lugares altos no fueron quitados; pues el pueblo aún sacrificaba y quemaba incienso en los lugares altos."
+"Y anduvo en todo el camino de Asa su padre, sin declinar de él, haciendo lo recto en los ojos de Jehová. #Con todo eso, los lugares altos no fueron quitados; pues el pueblo aún sacrificaba y quemaba incienso en los lugares altos."
 "Y Josafat hizo paz con el rey de Israel."
 "Los demás de los hechos de Josafat, y sus hazañas, y las guerras que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Judá?"
 "Barrió también de la tierra el resto de los sodomitas que habían quedado en el tiempo de su padre Asa."

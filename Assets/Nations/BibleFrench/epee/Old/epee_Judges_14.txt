@@ -6,7 +6,7 @@
 "Et l'Esprit de l'Éternel saisit Samson, et il déchira le lion comme il eût déchiré un chevreau, sans avoir rien en sa main. Et il ne raconta point à son père ni à sa mère ce qu'il avait fait."
 "Il descendit donc, et il parla à la femme, et elle plut aux yeux de Samson."
 "Puis, retournant quelques jours après pour la prendre, il se détourna pour voir le cadavre du lion; et voici, il y avait dans le corps du lion un essaim d'abeilles et du miel."
-"Et il en prit dans ses mains, et continua son chemin en mangeant. Puis, arrivé auprès de son père et de sa mère, il leur en donna, et ils en mangèrent; mais il ne leur raconta pas qu'il avait pris ce miel dans le corps du lion."
+"Et il en prit dans ses mains, et continua son chemin en mangeant. Puis, arrivé auprès de son père et de sa mère, il #leur en donna, et ils en mangèrent; mais il ne leur raconta pas qu'il avait pris ce miel dans le corps du lion."
 "Cependant son père descendit chez cette femme, et Samson fit là un festin; car c'était la coutume des jeunes gens."
 "Et sitôt qu'on le vit, on prit trente convives, pour lui faire compagnie."
 "Or Samson leur dit
@@ -16,5 +16,5 @@
 "La femme de Samson pleura auprès de lui, en disant
 "Elle pleura ainsi auprès de lui pendant les sept jours du festin; et au septième jour il la lui expliqua, parce qu'elle le tourmentait. Puis elle l'expliqua aux gens de son peuple."
 "Les hommes de la ville lui dirent donc le septième jour, avant que le soleil se couchât
-"Alors l'Esprit de l'Éternel le saisit, et il descendit à Askélon. Et, y ayant tué trente hommes, il prit leurs dépouilles, et donna les robes de rechange à ceux qui avaient expliqué l'énigme; puis, enflammé de colère, il remonta à la maison de son père."
+"Alors l'Esprit de l'Éternel le saisit, et il descendit à Askélon. Et, y ayant tué trente hommes, il prit leurs dépouilles, et donna #les robes de rechange à ceux qui avaient expliqué l'énigme; puis, enflammé de colère, il remonta à la maison de son père."
 "Et la femme de Samson fut donnée à son compagnon, avec lequel il s'était lié."

@@ -1,5 +1,5 @@
 "Jacob se mit en marche, et s'en alla au pays des fils de l'Orient."
-"Il regarda. Et voici, il y avait un puits dans les champs; et voici, il y avait à côté trois troupeaux de brebis qui se reposaient, car c'était à ce puits qu'on abreuvait les troupeaux. Et la pierre sur l'ouverture du puits était grande."
+"Il regarda. Et voici, il y avait un puits dans les champs; et voici, il y avait à côté trois troupeaux de brebis #qui se reposaient, car c'était à ce puits qu'on abreuvait les troupeaux. Et la pierre sur l'ouverture du puits était grande."
 "Tous les troupeaux se rassemblaient là; on roulait la pierre de dessus l'ouverture du puits, on abreuvait les troupeaux, et l'on remettait la pierre à sa place sur l'ouverture du puits."
 "Jacob dit aux bergers
 "Il leur dit
@@ -7,7 +7,7 @@
 "Il dit
 "Ils répondirent
 "Comme il leur parlait encore, survint Rachel avec le troupeau de son père; car elle était bergère."
-"Lorsque Jacob vit Rachel, fille de Laban, frère de sa mère, et le troupeau de Laban, frère de sa mère, il s'approcha, roula la pierre de dessus l'ouverture du puits, et abreuva le troupeau de Laban, frère de sa mère."
+"Lorsque Jacob vit Rachel, fille de Laban, frère de sa mère, et le troupeau de Laban, frère de sa mère, il #s'approcha, roula la pierre de dessus l'ouverture du puits, et abreuva le troupeau de Laban, frère de sa mère."
 "Et Jacob baisa Rachel, il éleva la voix et pleura."
 "Jacob apprit à Rachel qu'il était parent de son père, qu'il était fils de Rebecca. Et elle courut l'annoncer à son père."
 "Dès que Laban eut entendu parler de Jacob, fils de sa soeur, il courut au-devant de lui, il l'embrassa et le baisa, et il le fit venir dans sa maison. Jacob raconta à Laban toutes ces choses."

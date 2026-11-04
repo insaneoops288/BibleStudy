@@ -1,7 +1,7 @@
-"Es begab sich aber in demselben Jahre, im Anfang der Regierung Zedekias, des Königs von Juda, im vierten Jahre, im fünften Monat, daß Hananja, der Sohn Assurs, der Prophet von Gibeon, im Hause des HERRN vor den Priestern und dem ganzen Volk zu mir sagte
+"Es begab sich aber in demselben Jahre, im Anfang der Regierung Zedekias, des Königs von Juda, im vierten Jahre, im fünften Monat, daß #Hananja, der Sohn Assurs, der Prophet von Gibeon, im Hause des HERRN vor den Priestern und dem ganzen Volk zu mir sagte
 "So spricht der HERR der Heerscharen, der Gott Israels
 "binnen zwei Jahren bringe ich alle Geräte des Hauses des HERRN, welche der babylonische König Nebukadnezar von hier weggenommen und nach Babel gebracht hat, wieder an diesen Ort zurück;"
-"auch Jechonja, den Sohn Jojakims, den König von Juda, samt allen Gefangenen Judas, die nach Babel gekommen sind, bringe ich an diesen Ort zurück, spricht der HERR; denn ich will das Joch des babylonischen Königs zerbrechen!»"
+"auch Jechonja, den Sohn Jojakims, den König von Juda, samt allen Gefangenen Judas, die nach Babel gekommen sind, bringe #ich an diesen Ort zurück, spricht der HERR; denn ich will das Joch des babylonischen Königs zerbrechen!»"
 "Da sprach der Prophet Jeremia zu dem Propheten Hananja vor den Augen der Priester und vor den Augen des ganzen Volkes, die im Hause des HERRN standen,"
 "es sprach Jeremia, der Prophet
 "Höre jedoch dieses Wort, welches ich vor deinen Ohren und den Ohren des ganzen Volkes ausspreche

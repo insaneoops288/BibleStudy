@@ -10,7 +10,7 @@
 "Mas en cualquier ciudad donde entréis, y no os recibieren, saliendo por sus calles, decid
 "Aun el polvo que se nos ha pegado de vuestra ciudad sacudimos en vosotros; pero esto sabed, que el Reino de los cielos se ha llegado a vosotros."
 "Y os digo que <I>los de</I>  Sodoma tendrán más remisión aquel día, que aquella ciudad."
-"¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Que si en Tiro y en Sidón hubieran sido hechas las virtudes que se han hecho en vosotras, hace ya días que, sentados en cilicio y ceniza, se habrían arrepentido."
+"¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Que si en Tiro y en Sidón hubieran sido hechas las virtudes #que se han hecho en vosotras, hace ya días que, sentados en cilicio y ceniza, se habrían arrepentido."
 "Por tanto, Tiro y Sidón tendrán más remisión que vosotras en el juicio."
 "Y tú, Capernaum, que hasta los cielos estás levantada, hasta los infiernos serás abajada."
 "El que a vosotros oye, a mí oye; y el que a vosotros desecha, a mí desecha; y el que a mí desecha, desecha al que me envió."

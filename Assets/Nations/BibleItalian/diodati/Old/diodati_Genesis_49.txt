@@ -22,8 +22,8 @@
 "GIUSEPPE è un ramo di una vite fruttifera, Un ramo di una vite fruttifera appresso ad una fonte, I cui rampolli si distendono lungo il muro."
 "E benchè egli sia stato amaramente afflitto, E che degli arcieri l’abbiano saettato e nimicato;"
 "Pur è dimorato l’arco suo nella sua forza; E le sue braccia e le sue mani si son rinforzate, Per l’aiuto del Possente di Giacobbe
-"Ciò è proceduto dall’Iddio di tuo padre, il quale ancora ti aiuterà; E dall’Onnipotente, il quale ancora ti benedirà Delle benedizioni del cielo di sopra, Delle benedizioni dell’abisso che giace disotto, Delle benedizioni delle mammelle e della matrice."
-"Le benedizioni di tuo padre Hanno avanzate le benedizioni de’ miei genitori, E son giunte fino al sommo de’ colli eterni. Esse saranno sopra il capo di Giuseppe, E sopra la sommità del capo di lui, Ch’è stato messo da parte d’infra i suoi fratelli."
+"Ciò è proceduto dall’Iddio di tuo padre, il quale ancora ti aiuterà; E dall’Onnipotente, il quale ancora ti benedirà Delle #benedizioni del cielo di sopra, Delle benedizioni dell’abisso che giace disotto, Delle benedizioni delle mammelle e della matrice."
+"Le benedizioni di tuo padre Hanno avanzate le benedizioni de’ miei genitori, E son giunte fino al sommo de’ colli eterni. Esse saranno #sopra il capo di Giuseppe, E sopra la sommità del capo di lui, Ch’è stato messo da parte d’infra i suoi fratelli."
 "BENIAMINO è un lupo rapace; La mattina egli divorerà la preda, E in su la sera partirà le spoglie."
 "Tutti costoro sono i capi delle dodici tribù d’Israele; e questo è quello che il padre loro disse loro, quando il benedisse, benedicendo ciascuno di essi secondo la sua propria benedizione."
 "Poi comandò, e disse loro

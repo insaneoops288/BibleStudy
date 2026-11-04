@@ -15,11 +15,11 @@
 "Darnach sollt ihr vom Tage nach dem Sabbat, von dem Tage, da ihr die Webegarbe darbringt, sieben volle Wochen abzählen bis zum Tag,"
 "der auf den siebenten Sabbat folgt, nämlich fünfzig Tage sollt ihr zählen, und alsdann dem HERRN ein neues Speisopfer darbringen."
 "Ihr sollt nämlich aus euren Wohnsitzen zwei Webebrote bringen, von zwei Zehntel Semmelmehl zubereitet; die sollen gesäuert und dem HERRN zu Erstlingen gebacken werden."
-"Zu dem Brot aber sollt ihr sieben einjährige, tadellose Lämmer darbringen und einen jungen Farren und zwei Widder; das soll des HERRN Brandopfer sein; dazu ihr Speisopfer und ihr Trankopfer; ein Feueropfer, dem HERRN zum lieblichen Geruch."
+"Zu dem Brot aber sollt ihr sieben einjährige, tadellose Lämmer darbringen und einen jungen Farren und zwei Widder; das #soll des HERRN Brandopfer sein; dazu ihr Speisopfer und ihr Trankopfer; ein Feueropfer, dem HERRN zum lieblichen Geruch."
 "Ihr sollt auch einen Ziegenbock zum Sündopfer und zwei einjährige Lämmer zum Dankopfer zurichten;"
 "und der Priester soll sie samt den Erstlingsbroten weben, nebst den beiden Lämmern, als Webopfer vor dem HERRN. Die sollen dem HERRN heilig sein und dem Priester[gehören]."
 "Und ihr sollt an demselben Tag ausrufen lassen
-"Wenn ihr aber die Ernte eures Landes einbringt, so sollst du dein Feld nicht bis an den Rand abernten und nicht selbst Nachlese halten, sondern es dem Armen und Fremdlingüberlassen. Ich, der HERR, bin euer Gott."
+"Wenn ihr aber die Ernte eures Landes einbringt, so sollst du dein Feld nicht bis an den Rand abernten #und nicht selbst Nachlese halten, sondern es dem Armen und Fremdlingüberlassen. Ich, der HERR, bin euer Gott."
 "Und der HERR redete zu Mose und sprach
 "Rede mit den Kindern Israel und sprich
 "Ihr sollt keine Werktagsarbeit verrichten, sondern dem HERRN Feueropfer darbringen."
@@ -33,10 +33,10 @@
 "Und der HERR redete zu Mose und sprach
 "Rede mit den Kindern Israel und sprich
 "Am ersten Tage ist heilige Versammlung; da sollt ihr keine Arbeit verrichten."
-"Sieben Tage lang sollt ihr dem HERRN Feueropfer darbringen und am achten Tag eine heilige Versammlung halten und dem HERRN Feueropfer darbringen; es ist Festversammlung; da sollt ihr keine Arbeit verrichten."
+"Sieben Tage lang sollt ihr dem HERRN Feueropfer darbringen und am achten Tag eine heilige Versammlung #halten und dem HERRN Feueropfer darbringen; es ist Festversammlung; da sollt ihr keine Arbeit verrichten."
 "Das sind die Feste des HERRN, da ihr heilige Versammlungen einberufen sollt, um dem HERRN Feueropfer, Brandopfer, Speisopfer, Schlachtopfer und Trankopfer darzubringen, ein jedes an seinem Tag"
 "außer den Sabbaten des HERRN und außer euren Gaben, den gelobten und freiwilligen Gaben, die ihr dem HERRN gebet."
-"So sollt ihr nun am fünfzehnten Tage des siebenten Monats, wenn ihr den Ertrag des Landes eingebracht habt, das Fest des HERRN halten, sieben Tage lang; am ersten Tag ist Feiertag und am achten Tag ist auch Feiertag."
+"So sollt ihr nun am fünfzehnten Tage des siebenten Monats, wenn ihr den Ertrag des Landes eingebracht habt, das Fest #des HERRN halten, sieben Tage lang; am ersten Tag ist Feiertag und am achten Tag ist auch Feiertag."
 "Ihr sollt aber am ersten Tag Früchte nehmen von schönen Bäumen, Palmenzweige und Zweige von dichtbelaubten Bäumen und Bachweiden, und sieben Tage lang fröhlich sein vor dem HERRN, eurem Gott."
 "Und sollt also dem HERRN das Fest halten, sieben Tage lang im Jahr. Das soll eine ewige Ordnung sein für eure Geschlechter, daß ihr im siebenten Monat also feiert."
 "Sieben Tage lang sollt ihr in Laubhütten wohnen; alle Landeskinder in Israel sollen in Laubhütten wohnen,"

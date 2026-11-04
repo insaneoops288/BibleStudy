@@ -10,7 +10,7 @@
 "Ja odotti vielä toiset seitsemän päivää, ja antoi taas kyhkyisen lentää arkista."
 "Se palasi hänen tykönsä, ehtoopuolella, ja katso, hän toi suussansa öljypuun lehden, jonka hän murtanut oli. Niin Noa ymmärsi vedet maan päältä juosseeksi pois."
 "Mutta hän odotti vielä seitsemän päivää, ja antoi kyhkyisen lentää ulos, joka ei enää palannut."
-"Ja kuudennella sadalla ja ensimäisellä ajastajalla (Noan ijästä) ensimäisnä päivänä ensimäisessä kuukaudessa, kuivuivat vedet maan päältä. Niin avasi Noa arkin katon, ja näki, ja katso, maa oli kuivunut."
+"Ja kuudennella sadalla ja ensimäisellä ajastajalla (Noan ijästä) ensimäisnä päivänä ensimäisessä kuukaudessa, kuivuivat vedet maan #päältä. Niin avasi Noa arkin katon, ja näki, ja katso, maa oli kuivunut."
 "Niin maa tuli peräti kuivaksi seitsemäntenäkolmattakymmenentenä päivänä toisessa kuukaudessa."
 "Niin Jumala puhui Noalle sanoen
 "Lähde arkista, sinä ja sinun emäntäs, ja sinun poikas, ja sinun poikais emännät sinun kanssas."

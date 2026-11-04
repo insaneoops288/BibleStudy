@@ -10,7 +10,7 @@
 "Ai tha
 "Prandaj tani mos ki frikë, bija ime; unë do të bëj për ty gjithçka që më kërkon, sepse të gjithë njerëzit e qytetit tim e dinë që ti je një grua e virtytshme."
 "Éshtë e vërtetë që unë gëzoj të drejtën e shpengimit; por është një që është fis më i afërt se unë."
-"Kaloje këtu natën; dhe nesër në mëngjes, në rast se ai do të kërkojë të drejtën e tij ndaj teje, mirë, pra le ta bëjë; por në rast se nuk e kërkon të drejtën e tij mbi ty, unë do të kërkoj që të vlejë e drejta ime dhe do të të shpengoj ashtu siç është e vërtetë që Zoti rron! Rri shtrirë deri në mëngjes""."
+"Kaloje këtu natën; dhe nesër në mëngjes, në rast se ai do të kërkojë të drejtën e tij ndaj teje, mirë, pra le ta bëjë; por në rast se nuk e kërkon të drejtën #e tij mbi ty, unë do të kërkoj që të vlejë e drejta ime dhe do të të shpengoj ashtu siç është e vërtetë që Zoti rron! Rri shtrirë deri në mëngjes""."
 "Kështu ajo qëndroi shtrirë në këmbët e tij deri në mëngjes; por u ngrit përpara se një njeri të njohë tjetrin, sepse ai i kishte thënë
 "Pastaj shtoi
 "Kështu u kthye tek e vjehrra, që i tha

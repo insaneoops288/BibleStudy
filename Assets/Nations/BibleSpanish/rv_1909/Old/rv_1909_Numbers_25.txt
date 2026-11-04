@@ -3,7 +3,7 @@
 "Y allegóse el pueblo á Baal-peor; y el furor de Jehová se encendió contra Israel."
 "Y Jehová dijo á Moisés
 "Entonces Moisés dijo á los jueces de Israel
-"Y he aquí un varón de los hijos de Israel vino y trajo una Madianita á sus hermanos, á ojos de Moisés y de toda la congregación de los hijos de Israel, llorando ellos á la puerta del tabernáculo del testimonio."
+"Y he aquí un varón de los hijos de Israel vino y trajo una Madianita á sus hermanos, á ojos de #Moisés y de toda la congregación de los hijos de Israel, llorando ellos á la puerta del tabernáculo del testimonio."
 "Y viólo Phinees, hijo de Eleazar, hijo de Aarón el sacerdote, y levantóse de en medio de la congregación, y tomó una lanza en su mano
 "Y fué tras el varón de Israel á la tienda, y alanceólos á ambos, al varón de Israel, y á la mujer por su vientre. Y cesó la mortandad de los hijos de Israel."
 "Y murieron de aquella mortandad veinte y cuatro mil."
@@ -15,4 +15,4 @@
 "Y el nombre de la mujer Madianita muerta, era Cozbi, hija de Zur, príncipe de pueblos, padre de familia en Madián."
 "Y Jehová habló á Moisés, diciendo
 "Hostilizaréis á los Madianitas, y los heriréis
-"Por cuanto ellos os afligieron á vosotros con sus ardides, con que os han engañado en el negocio de Peor, y en el negocio de Cozbi, hija del príncipe de Madián, su hermana, la cual fué muerta el día de la mortandad por causa de Peor."
+"Por cuanto ellos os afligieron á vosotros con sus ardides, con que os han engañado en el negocio de Peor, y en el negocio #de Cozbi, hija del príncipe de Madián, su hermana, la cual fué muerta el día de la mortandad por causa de Peor."

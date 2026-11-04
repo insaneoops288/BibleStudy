@@ -8,7 +8,7 @@
 "Ja Leviläiset heidän kanssansa
 "Ja he opettivat Juudassa, ja pitivät Herran lakikirjan myötänsä, ja vaelsivat ympäri kaikki Juudan kaupungit, ja opettivat kansaa."
 "Ja Herran pelko tuli kaikkein valtakuntain päälle, niissä maakunnissa, jotka olivat Juudan ympäristöllä, niin ettei he sotineet Josaphatia vastaan."
-"Ja Philistealaiset toivat Josaphatille lahjoja ja rahaveron; ja Arabialaiset toivat myös hänelle pientä karjaa, seitsemäntuhatta ja seitsemänsataa oinasta, ja seitsemäntuhatta ja seitsemänsataa kaurista."
+"Ja Philistealaiset toivat Josaphatille lahjoja ja rahaveron; ja Arabialaiset toivat myös hänelle #pientä karjaa, seitsemäntuhatta ja seitsemänsataa oinasta, ja seitsemäntuhatta ja seitsemänsataa kaurista."
 "Niin menestyi Josaphat ja tuli aina suuremmaksi. Ja hän rakensi Juudassa linnoja ja tavarakaupungeita."
 "Ja hänellä oli paljo varaa Juudan kaupungeissa, ja sotamiehiä ja väkevää kansaa Jerusalemissa."
 "Ja tämä on järjestys heidän isäinsä huoneen vaiheella, jotka Juudassa tuhanten päämiehet olivat

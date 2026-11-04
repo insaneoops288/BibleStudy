@@ -5,7 +5,7 @@
 "En Dawid het vir Agis gesê
 "Daarop gee Agis dieselfde dag Siklag aan hom; daarom het Siklag aan die konings van Juda behoort tot vandag toe."
 "En die getal dae wat Dawid in die land van die Filistyne gewoon het, was een jaar en vier maande."
-"En Dawid het met sy manne opgetrek, en hulle het die Gesuriete en die Girsiete en die Amalekiete oorval, want hulle was van ouds die bewoners van die land in die rigting van Sur en tot aan Egipteland."
+"En Dawid het met sy manne opgetrek, en hulle het die Gesuriete en die Girsiete en die Amalekiete oorval, want #hulle was van ouds die bewoners van die land in die rigting van Sur en tot aan Egipteland."
 "En so dikwels as Dawid die land oorval, laat hy geen man of vrou lewe nie, en neem kleinvee en beeste en esels en kamele en klere saam. En as hy teruggaan en by Agis kom,"
 "vra Agis
 "Maar geen man of vrou het Dawid laat lewe om dié na Gat te bring nie, want hy het gedink

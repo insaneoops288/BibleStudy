@@ -1,4 +1,4 @@
-"Así dice Jehová a su ungido, a Ciro, al cual tomé yo por su mano derecha, para sujetar naciones delante de él y desatar lomos de reyes; para abrir delante de él puertas, y las puertas no se cerrarán
+"Así dice Jehová a su ungido, a Ciro, al cual tomé yo por su mano derecha, para sujetar naciones delante #de él y desatar lomos de reyes; para abrir delante de él puertas, y las puertas no se cerrarán
 "Yo iré delante de ti, y enderezaré los lugares torcidos; quebraré puertas de bronce, y cerrojos de hierro haré pedazos;"
 "y te daré los tesoros escondidos, y las riquezas de los lugares secretos; para que sepas que yo soy Jehová, el Dios de Israel, el que te llama por tu nombre."
 "Por amor a mi siervo Jacob y a Israel mi escogido, te he llamado por tu nombre; te puse sobrenombre, aunque tú no me has conocido."
@@ -17,7 +17,7 @@
 "Israel será salvo en Jehová con salvación eterna; no seréis avergonzados ni humillados, por toda la eternidad."
 "Porque así dice Jehová, que creó los cielos, el mismo Dios, el que formó e hizo la tierra, Él la estableció; no la creó en vano, para que fuese habitada la creó
 "No hablé en secreto, en un lugar oscuro de la tierra; no dije a la simiente de Jacob
-"Reuníos, y venid; acercaos, todos los [que habéis] escapado de las naciones. No tienen conocimiento aquellos que erigen el madero de su imagen esculpida, y los que ruegan a un dios que no puede salvar."
+"Reuníos, y venid; acercaos, todos los [que habéis] escapado de las naciones. No tienen conocimiento aquellos que erigen #el madero de su imagen esculpida, y los que ruegan a un dios que no puede salvar."
 "Publicad, y hacedlos llegar, y entren todos en consulta
 "Mirad a mí, y sed salvos, todos los términos de la tierra
 "Por mí mismo hice juramento, de mi boca salió palabra en justicia, y no será revocada. Que a mí se doblará toda rodilla, y jurará toda lengua."

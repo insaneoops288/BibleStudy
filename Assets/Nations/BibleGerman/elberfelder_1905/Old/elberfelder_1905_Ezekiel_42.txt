@@ -11,7 +11,7 @@
 "und ein Weg vor ihnen, von gleicher Gestalt wie die Zellen, die gegen Norden waren, wie nach ihrer Länge so nach ihrer Breite, und nach allen ihren Ausgängen wie nach ihren Einrichtungen."
 "Und wie ihre Eingänge, so waren auch die Eingänge der Zellen, welche gegen Süden waren
 "Und er sprach zu mir
-"Wenn die Priester hineingehen, so sollen sie nicht aus dem Heiligtum in denäußeren Vorhof hinausgehen, sondern sollen dort ihre Kleider niederlegen, in welchen sie den Dienst verrichten; denn sie sind heilig; sie sollen andere Kleider anziehen und sich dem nahen, was für das Volk ist."
+"Wenn die Priester hineingehen, so sollen sie nicht aus dem Heiligtum in denäußeren Vorhof hinausgehen, sondern sollen dort ihre Kleider niederlegen, in welchen #sie den Dienst verrichten; denn sie sind heilig; sie sollen andere Kleider anziehen und sich dem nahen, was für das Volk ist."
 "Und als er die Maße des inneren Hauses vollendet hatte, führte er mich hinaus des Weges zum Tore, das gegen Osten gerichtet war; und er maß es ringsherum."
 "Er maß die Ostseite mit der Meßrute, fünfhundert Ruten mit der Meßrute ringsum."
 "Er maß die Nordseite, fünfhundert Ruten mit der Meßrute ringsum."

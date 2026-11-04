@@ -12,7 +12,7 @@
 "Az Áron fejére is tölte a kenetnek olajából, és megkené õt, hogy felszentelje õt."
 "És elõállatá Mózes az Áron fiait is, és felöltözteté azokat is az õ köntöseikbe, és felövezé õket övvel, felköté nékik a süvegeket is, a mint az Úr parancsolta vala Mózesnek."
 "Azután elõhoza egy tulkot a bûnért való áldozatra, és Áron az õ fiaival egybe a bûnért való áldozat tulkának fejére tevé az õ kezét."
-"És miután megölték azt, võn Mózes annak vérébõl, és tõn az újjával az oltárnak szarvaira köröskörül, és megtisztítá az oltárt, a többi vért pedig önté az oltárnak aljára; és felszentelte azt, hogy engesztelést szerezzen rajta."
+"És miután megölték azt, võn Mózes annak vérébõl, és tõn az újjával az oltárnak szarvaira köröskörül, és megtisztítá #az oltárt, a többi vért pedig önté az oltárnak aljára; és felszentelte azt, hogy engesztelést szerezzen rajta."
 "Azután vevé mindazt a kövérséget, a mely annak a bélin vala, és a máj hártyáját, és a két veséjét és azoknak kövérségét, és elfüstölögteté Mózes [azokat] az oltáron."
 "A tulkot pedig, azaz annak bõrét, húsát és ganéját megégeté tûzzel a táboron kivül, a mint az Úr parancsolta vala Mózesnek."
 "Azután elõállatá az égõáldozatra való kost, és Áron és az õ fiai rátevék kezeiket a kos fejére."
@@ -27,7 +27,7 @@
 "És tevé mindezeket az Áron kezeire és az õ fiainak kezeire, és meglóbáltatá azokat az Úr elõtt."
 "Azután elvevé azokat Mózes az õ kezeikbõl, és elfüstölögteté az oltáron az egészen égõáldozattal egybe. Felavatási áldozatok ezek, kedves illatú tûzáldozat ez az Úrnak."
 "Elvevé pedig Mózes a szegyet, és meglóbálá azt az Úr elõtt; a felavatási kosból a Mózes része lõn ez, a mint megparancsolta vala az Úr Mózesnek."
-"Azután võn Mózes a kenetnek olajából és a vérbõl, a mely az oltáron vala, és meghinté Áront és az õ ruháit, az õ fiait és az õ fiainak ruháit õ vele együtt, és megszentelé Áront és az õ ruháit, és az õ fiait és az õ fiainak ruháit õ vele együtt."
+"Azután võn Mózes a kenetnek olajából és a vérbõl, a mely az oltáron vala, és meghinté Áront és az õ ruháit, az õ fiait és az #õ fiainak ruháit õ vele együtt, és megszentelé Áront és az õ ruháit, és az õ fiait és az õ fiainak ruháit õ vele együtt."
 "És monda Mózes Áronnak és az õ fiainak
 "A mi pedig megmarad a húsból és kenyérbõl, tûzzel égessétek meg."
 "De a gyülekezet sátorának nyílásán ki ne menjetek hét napig, addig a napig, a melyen betelnek a ti felavatástoknak napjai, mert hét nap avat fel benneteket [az] [Úr."

@@ -26,7 +26,7 @@
 "Und Isaak, sein Vater, sprach zu ihm
 "Und er trat hinzu und küßte ihn. Und als er den Geruch seiner Kleider roch, segnete er ihn und sprach
 "Gott gebe dir vom Tau des Himmels und vom fettesten Boden und Korn und Most die Fülle;"
-"Völker müssen dir dienen und Geschlechter sich vor dir bücken; sei ein Herrüber deine Brüder, und deiner Mutter Kinder müssen sich vor dir bücken. Verflucht sei, wer dir flucht, und gesegnet sei, wer dich segnet!"
+"Völker müssen dir dienen und Geschlechter sich vor dir bücken; sei ein Herrüber deine Brüder, und deiner Mutter #Kinder müssen sich vor dir bücken. Verflucht sei, wer dir flucht, und gesegnet sei, wer dich segnet!"
 "Als nun Isaak den Segenüber Jakob vollendet hatte, und Jakob kaum von seinem Vater Isaak hinausgegangen war, da kam sein Bruder Esau von der Jagd."
 "Der machte auch ein schmackhaftes Essen und trug es zu seinem Vater hinein und sprach zu ihm
 "Da antwortete ihm sein Vater Isaak
@@ -42,5 +42,5 @@
 "Es wurden aber der Rebekka die Worte Esaus, ihresälteren Sohnes, hinterbracht. Da schickte sie hin und ließ Jakob, ihren jüngeren Sohn, rufen und sprach zu ihm
 "Und nun gehorche meiner Stimme, mein Sohn
 "und bleib eine Zeitlang bei ihm, bis sich deines Bruders Grimm gelegt hat"
-"und bis sich sein Zorn von dir wendet und er vergißt, was du ihm angetan hast; so will ich dann nach dir schicken und dich von dannen holen lassen. Warum sollte ich euer beider beraubt werden auf einen Tag?"
+"und bis sich sein Zorn von dir wendet und er vergißt, was du ihm angetan hast; so will ich dann #nach dir schicken und dich von dannen holen lassen. Warum sollte ich euer beider beraubt werden auf einen Tag?"
 "Und Rebekka sprach zu Isaak

@@ -7,7 +7,7 @@
 "Pobral také David štíty zlaté, kteréž měli služebníci Hadadezerovi, a přinesl je do Jeruzaléma."
 "Z Betach též a z Berot, měst Hadadezerových, nabral král David velmi mnoho mědi."
 "A když uslyšel Tohi král Emat, že porazil David všecko vojsko Hadadezerovo,"
-"Poslal Tohi Jorama syna svého k králi Davidovi, aby ho pozdravil přátelsky, a spolu s ním se radoval z toho, že šťastně bojoval s Hadadezerem, a porazil ho; (nebo Hadadezer vedl válku proti Tohi). Kterýžto přinesl s sebou nádoby stříbrné, též nádoby zlaté a nádoby měděné."
+"Poslal Tohi Jorama syna svého k králi Davidovi, aby ho pozdravil přátelsky, a spolu s ním se radoval z toho, že šťastně bojoval s #Hadadezerem, a porazil ho; (nebo Hadadezer vedl válku proti Tohi). Kterýžto přinesl s sebou nádoby stříbrné, též nádoby zlaté a nádoby měděné."
 "Ty také obětoval král David Hospodinu s stříbrem a zlatem posvěceným ze všech národů, kteréž podmanil,"
 "Totiž z Syrských a Moábských, též z synů Ammon a z Filistinských, i z Amalechitských a z kořistí Hadadezera syna Rohobova, krále Soba."
 "Zvelebil také David své jméno, když se navracoval od pobití osmnácti tisíců Syrských v údolí solnatém."

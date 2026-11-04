@@ -13,13 +13,13 @@
 "Maka mereka itu pun membawa orang yang dahulu buta itu kepada orang Parisi."
 "Adapun hari itu hari Sabbat ketika Yesus membuat tanah itu lembik dan mencelikkan matanya."
 "Maka bertanyalah pula orang Parisi kepadanya, bagaimana halnya ia mendapat penglihatan. Maka katanya kepada mereka itu, ""Ditaruh-Nya tanah lembik pada mataku, dan aku basuh, lalu aku nampak."""
-"Maka berkatalah setengah orang Parisi itu, ""Orang itu bukan daripada Allah, karena tiada Ia menurut hukum hari Sabbat."" Ada pula orang yang berkata, ""Bagaimanakah seorang berdosa dapat mengadakan tanda yang demikian?"" Maka berpihak-pihaklah di antara mereka itu."
+"Maka berkatalah setengah orang Parisi itu, ""Orang itu bukan daripada Allah, karena tiada Ia menurut hukum hari Sabbat."" Ada #pula orang yang berkata, ""Bagaimanakah seorang berdosa dapat mengadakan tanda yang demikian?"" Maka berpihak-pihaklah di antara mereka itu."
 "Oleh sebab itu bertanyalah mereka itu kepada orang yang dahulu buta itu, ""Apakah kata engkau dari hal Dia, karena Ia sudah mencelikkan matamu?"" Maka sahutnya, ""Nabilah Ia."""
 "Maka tiadalah orang Yahudi itu percaya, bahwa dahulu Ia buta dan sekarang matanya nampak, sehingga dipanggilnya ibu bapa orang yang dapat penglihatannya itu,"
 "lalu bertanyalah mereka itu kepadanya, katanya, ""Ia inikah anakmu, yang kamu katakan ia buta dari mula jadinya? Bagaimanakah ia nampak sekarang ini?"""
 "Maka sahut ibu bapanya serta berkata, ""Kami kenal bahwa ia ini anak kami, dan lagi ia buta dari mula jadinya,"
-"tetapi bagaimana jalannya sekarang ia dapat penglihatan, tiadalah kami tahu, atau siapa yang mencelikkan matanya tiada juga kami tahu. Tanyalah dia sendiri, ia sudah akil balig, biarlah ia sendiri memberitahu akan hal dirinya."""
-"Ibu bapanya berkata demikian itu sebab mereka itu takut akan orang Yahudi; karena orang Yahudi sudah sepakat, bahwa jikalau ada orang mengaku Dia itu Kristus, orang itu dibuang dari rumah sembahyang."
+"tetapi bagaimana jalannya sekarang ia dapat penglihatan, tiadalah kami tahu, atau siapa yang mencelikkan matanya tiada juga #kami tahu. Tanyalah dia sendiri, ia sudah akil balig, biarlah ia sendiri memberitahu akan hal dirinya."""
+"Ibu bapanya berkata demikian itu sebab mereka itu takut akan orang Yahudi; karena orang Yahudi sudah #sepakat, bahwa jikalau ada orang mengaku Dia itu Kristus, orang itu dibuang dari rumah sembahyang."
 "Oleh sebab itu kata ibu bapanya
 "Maka mereka itu pun memanggil orang yang dahulunya buta itu sekali lagi, serta berkata kepadanya, ""Hormatkanlah Allah! Kami ini tahu, bahwa orang itu seorang berdosa."""
 "Lalu sahutnya, ""Entahkan Ia seorang berdosa tiadalah aku tahu, hanya satu perkara aku tahu

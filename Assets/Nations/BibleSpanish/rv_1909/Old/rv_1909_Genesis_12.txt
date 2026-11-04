@@ -2,7 +2,7 @@
 "Y haré de ti una nación grande, y bendecirte he, y engrandeceré tu nombre, y serás bendición
 "Y bendeciré á los que te bendijeren, y á los que te maldijeren maldeciré
 "Y fuése Abram, como Jehová le dijo; y fué con él Lot
-"Y tomó Abram á Sarai su mujer, y á Lot hijo de su hermano, y toda su hacienda que habían ganado, y las almas que habían adquirido en Harán, y salieron para ir á tierra de Canaán; y á tierra de Canaán llegaron."
+"Y tomó Abram á Sarai su mujer, y á Lot hijo de su hermano, y toda su hacienda que habían ganado, y #las almas que habían adquirido en Harán, y salieron para ir á tierra de Canaán; y á tierra de Canaán llegaron."
 "Y pasó Abram por aquella tierra hasta el lugar de Sichêm, hasta el valle de Moreh
 "Y apareció Jehová á Abram, y le dijo
 "Y pasóse de allí á un monte al oriente de Bethel, y tendió su tienda, teniendo á Bethel al occidente y Hai al oriente

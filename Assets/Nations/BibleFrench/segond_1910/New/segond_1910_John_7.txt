@@ -20,7 +20,7 @@
 "La foule répondit
 "Jésus leur répondit
 "Moïse vous a donné la circoncision, -non qu'elle vienne de Moïse, car elle vient des patriarches, -et vous circoncisez un homme le jour du sabbat."
-"Si un homme reçoit la circoncision le jour du sabbat, afin que la loi de Moïse ne soit pas violée, pourquoi vous irritez-vous contre moi de ce que j'ai guéri un homme tout entier le jour du sabbat?"
+"Si un homme reçoit la circoncision le jour du sabbat, afin que la loi de Moïse ne soit pas violée, #pourquoi vous irritez-vous contre moi de ce que j'ai guéri un homme tout entier le jour du sabbat?"
 "Ne jugez pas selon l'apparence, mais jugez selon la justice."
 "Quelques habitants de Jérusalem disaient
 "Et voici, il parle librement, et ils ne lui disent rien! Est-ce que vraiment les chefs auraient reconnu qu'il est le Christ?"

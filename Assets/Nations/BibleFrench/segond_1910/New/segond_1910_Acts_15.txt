@@ -1,5 +1,5 @@
 "Quelques hommes, venus de la Judée, enseignaient les frères, en disant
-"Paul et Barnabas eurent avec eux un débat et une vive discussion; et les frères décidèrent que Paul et Barnabas, et quelques-uns des leurs, monteraient à Jérusalem vers les apôtres et les anciens, pour traiter cette question."
+"Paul et Barnabas eurent avec eux un débat et une vive discussion; et les frères décidèrent que Paul et #Barnabas, et quelques-uns des leurs, monteraient à Jérusalem vers les apôtres et les anciens, pour traiter cette question."
 "Après avoir été accompagnés par l'Eglise, ils poursuivirent leur route à travers la Phénicie et la Samarie, racontant la conversion des païens, et ils causèrent une grande joie à tous les frères."
 "Arrivés à Jérusalem, ils furent reçus par l'Eglise, les apôtres et les anciens, et ils racontèrent tout ce que Dieu avait fait avec eux."
 "Alors quelques-uns du parti des pharisiens, qui avaient cru, se levèrent, en disant qu'il fallait circoncire les païens et exiger l'observation de la loi de Moïse."
@@ -19,7 +19,7 @@
 "C'est pourquoi je suis d'avis qu'on ne crée pas des difficultés à ceux des païens qui se convertissent à Dieu,"
 "mais qu'on leur écrive de s'abstenir des souillures des idoles, de l'impudicité, des animaux étouffés et du sang."
 "Car, depuis bien des générations, Moïse a dans chaque ville des gens qui le prêchent, puisqu'on le lit tous les jours de sabbat dans les synagogues."
-"Alors il parut bon aux apôtres et aux anciens, et à toute l'Eglise, de choisir parmi eux et d'envoyer à Antioche, avec Paul et Barnabas, Jude appelé Barsabas et Silas, hommes considérés entre les frères."
+"Alors il parut bon aux apôtres et aux anciens, et à toute l'Eglise, de choisir parmi eux et #d'envoyer à Antioche, avec Paul et Barnabas, Jude appelé Barsabas et Silas, hommes considérés entre les frères."
 "Ils les chargèrent d'une lettre ainsi conçue
 "Ayant appris que quelques hommes partis de chez nous, et auxquels nous n'avions donné aucun ordre, vous ont troublés par leurs discours et ont ébranlé vos âmes,"
 "nous avons jugé à propos, après nous être réunis tous ensemble, de choisir des délégués et de vous les envoyer avec nos bien-aimés Barnabas et Paul,"

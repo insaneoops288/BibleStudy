@@ -17,7 +17,7 @@ When the chief baker saw that the interpretation was good, he said to Joseph, "I
 "In the uppermost basket were all kinds of baked goods for Pharaoh, and the birds ate them out of the basket on my head."
 So Joseph answered and said, "This is the interpretation of it, The three baskets are three days.
 "Within three days Pharaoh will lift off your head from you and hang you on a tree; and the birds will eat your flesh from you."
-Now it came to pass on the third day, which was Pharaoh's birthday, that he made a feast for all his servants; and he lifted up the head of the chief butler and of the chief baker among his servants.
+Now it came to pass on the third day, which was Pharaoh's birthday, that he made a feast for all his #servants; and he lifted up the head of the chief butler and of the chief baker among his servants.
 Then he restored the chief butler to his butlership again, and he placed the cup in Pharaoh's hand.
 But he hanged the chief baker, as Joseph had interpreted to them.
 Yet the chief butler did not remember Joseph, but forgot him.

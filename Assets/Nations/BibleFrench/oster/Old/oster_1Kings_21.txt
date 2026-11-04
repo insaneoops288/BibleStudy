@@ -8,7 +8,7 @@
 "Et elle écrivit des lettres au nom d'Achab, et les scella de son sceau, et envoya ces lettres aux anciens et aux magistrats qui habitaient avec Naboth, dans sa ville."
 "Et elle écrivit dans ces lettres
 "Et faites tenir en face de lui deux scélérats, et qu'ils témoignent contre lui, en disant
-"Et les gens de la ville de Naboth, les anciens et les magistrats qui habitaient dans sa ville, firent comme Jésabel leur avait mandé, et selon qu'il était écrit dans les lettres qu'elle leur avait envoyées."
+"Et les gens de la ville de Naboth, les anciens et les magistrats qui habitaient dans sa ville, firent #comme Jésabel leur avait mandé, et selon qu'il était écrit dans les lettres qu'elle leur avait envoyées."
 "Ils publièrent un jeûne, et firent tenir Naboth à la tête du peuple."
 "Alors les deux scélérats entrèrent et se tinrent en face de lui; et ces scélérats témoignèrent contre Naboth, en la présence du peuple, en disant
 "Et ils envoyèrent dire à Jésabel
@@ -26,4 +26,4 @@
 "De sorte qu'il se rendit fort abominable, allant après les idoles, comme avaient fait les Amoréens que l'Éternel avait chassés devant les enfants d'Israël."
 "Et il arriva, aussitôt qu'Achab eut entendu ces paroles, qu'il déchira ses vêtements, et mit un sac sur sa chair et jeûna; et il couchait enveloppé du sac, et se traînait en marchant."
 "Alors la parole de l'Éternel fut adressée à Élie, le Thishbite, en ces mots
-"As-tu vu comment Achab s'est humilié devant moi? Parce qu'il s'est humilié devant moi, je ne ferai pas venir ce malheur de son temps; ce sera aux jours de son fils que je ferai venir le malheur sur sa maison."
+"As-tu vu comment Achab s'est humilié devant moi? Parce qu'il s'est humilié devant moi, je ne ferai pas venir ce malheur #de son temps; ce sera aux jours de son fils que je ferai venir le malheur sur sa maison."

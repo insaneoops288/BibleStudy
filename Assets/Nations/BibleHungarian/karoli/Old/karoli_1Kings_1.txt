@@ -16,7 +16,7 @@
 "És fejet hajta Bethsabé, és meghajtá magát a királynak. És monda a király
 "Felele néki [Bethsabé
 "És ímé mégis Adónia lett királylyá; és ímé, uram király, te nem tudsz errõl semmit."
-"Mert áldozott ökrökkel és nagy sok kövér barmokkal bõségesen, és vendégekké hívta a királynak minden fiait, és Abjátár papot és Joábot, a seregnek hadnagyát, csak Salamont, a te szolgádat nem hívta meg."
+"Mert áldozott ökrökkel és nagy sok kövér barmokkal bõségesen, és vendégekké hívta a királynak minden fiait, és #Abjátár papot és Joábot, a seregnek hadnagyát, csak Salamont, a te szolgádat nem hívta meg."
 "Még most te vagy, Uram, a király; az egész Izráel népének szemei reád néznek, hogy megjelentsed nékik, kicsoda fog ülni az én uramnak, a királynak székében, õ utána."
 "De ha az én uram, a király, az õ atyáival elaluszik
 "És ímé, mikor még a királylyal szólana, Nátán próféta megérkezék."

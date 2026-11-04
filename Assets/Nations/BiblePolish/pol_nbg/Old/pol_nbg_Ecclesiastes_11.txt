@@ -6,5 +6,5 @@
 "Z rana wysiewaj twoje ziarno i do wieczora nie opuszczaj twojej ręki; bo nie wiesz, co się powiedzie czy to, czy owo, lub czy tak samo dobre będą oba."
 "Zaprawdę, światło jest słodkie, a oczom przyjemnie jest widzieć słońce."
 "Ale choćby człowiek przeżył wiele lat, niech cieszy się w nich wszystkich i pamięta o dniach ciemności, że będzie ich wiele; wszystko, co jeszcze nastanie jest marnością."
-"Ciesz się młodzieńcze w twojej młodości, bądź wesołej myśli w twoich młodzieńczych latach; chodź, dokąd cię ciągnie serce i za widokiem twoich oczu; lecz pamiętaj, że za to wszystko Bóg cię przyprowadzi na sąd."
+"Ciesz się młodzieńcze w twojej młodości, bądź wesołej myśli w twoich młodzieńczych latach; chodź, dokąd cię ciągnie serce #i za widokiem twoich oczu; lecz pamiętaj, że za to wszystko Bóg cię przyprowadzi na sąd."
 "Tak więc usuń z twojego serca gniew oraz oddal złośliwość od twojej cielesnej natury gdyż wiek dziecięcy i młodzieńczy także są marne."

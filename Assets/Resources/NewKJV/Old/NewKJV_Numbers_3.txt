@@ -1,7 +1,7 @@
 Now these are the records of Aaron and Moses when the LORD spoke with Moses on Mount Sinai.
 And these are the names of the sons of Aaron, Nadab, the firstborn, and Abihu, Eleazar, and Ithamar.
 These are the names of the sons of Aaron, the anointed priests, whom he consecrated to minister as priests.
-Nadab and Abihu had died before the LORD when they offered profane fire before the LORD in the Wilderness of Sinai; and they had no children. So Eleazar and Ithamar ministered as priests in the presence of Aaron their father.
+Nadab and Abihu had died before the LORD when they offered profane fire before the LORD in the Wilderness of Sinai; #and they had no children. So Eleazar and Ithamar ministered as priests in the presence of Aaron their father.
 And the LORD spoke to Moses, saying,
 "Bring the tribe of Levi near, and present them before Aaron the priest, that they may serve him.
 "And they shall attend to his needs and the needs of the whole congregation before the tabernacle of meeting, to do the work of the tabernacle.
@@ -10,7 +10,7 @@ And the LORD spoke to Moses, saying,
 "So you shall appoint Aaron and his sons, and they shall attend to their priesthood; but the outsider who comes near shall be put to death."
 Then the LORD spoke to Moses, saying,
 "Now behold, I Myself have taken the Levites from among the children of Israel instead of every firstborn who opens the womb among the children of Israel. Therefore the Levites shall be Mine,
-"because all the firstborn are Mine. On the day that I struck all the firstborn in the land of Egypt, I sanctified to Myself all the firstborn in Israel, both man and beast. They shall be Mine, I am the LORD."
+"because all the firstborn are Mine. On the day that I struck all the firstborn in the land of Egypt, I #sanctified to Myself all the firstborn in Israel, both man and beast. They shall be Mine, I am the LORD."
 Then the LORD spoke to Moses in the Wilderness of Sinai, saying,
 "Number the children of Levi by their fathers' houses, by their families; you shall number every male from a month old and above."
 So Moses numbered them according to the word of the LORD, as he was commanded.
@@ -35,10 +35,10 @@ And those who were numbered, according to the number of all the males from a mon
 The leader of the fathers' house of the families of Merari was Zuriel the son of Abihail. These were to camp on the north side of the tabernacle.
 And the appointed duty of the children of Merari included the boards of the tabernacle, its bars, its pillars, its sockets, its utensils, all the work relating to them,
 and the pillars of the court all around, with their sockets, their pegs, and their cords.
-Moreover those who were to camp before the tabernacle on the east, before the tabernacle of meeting, were Moses, Aaron, and his sons, keeping charge of the sanctuary, to meet the needs of the children of Israel; but the outsider who came near was to be put to death.
+Moreover those who were to camp before the tabernacle on the east, before the tabernacle of meeting, were Moses, Aaron, and his sons, keeping charge #of the sanctuary, to meet the needs of the children of Israel; but the outsider who came near was to be put to death.
 All who were numbered of the Levites, whom Moses and Aaron numbered at the commandment of the LORD, by their families, all the males from a month old and above, were twenty-two thousand.
 Then the LORD said to Moses, "Number all the firstborn males of the children of Israel from a month old and above, and take the number of their names.
-"And you shall take the Levites for Me,,I am the LORD,,instead of all the firstborn among the children of Israel, and the livestock of the Levites instead of all the firstborn among the livestock of the children of Israel."
+"And you shall take the Levites for Me,,I am the LORD,,instead of all the firstborn among the children of Israel, #and the livestock of the Levites instead of all the firstborn among the livestock of the children of Israel."
 So Moses numbered all the firstborn among the children of Israel, as the LORD commanded him.
 And all the firstborn males, according to the number of names from a month old and above, of those who were numbered of them, were twenty-two thousand two hundred and seventy-three.
 Then the LORD spoke to Moses, saying,

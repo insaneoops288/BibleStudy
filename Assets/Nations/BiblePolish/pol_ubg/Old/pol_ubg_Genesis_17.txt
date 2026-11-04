@@ -9,7 +9,7 @@
 "Potem Bóg powiedział Abrahamowi
 "A takie jest moje przymierze, które będziecie zachowywać, między mną a wami i między twoim potomstwem po tobie
 "Obrzezacie więc ciało waszego napletka; to będzie znakiem przymierza między mną a wami."
-"Każdy syn wśród was w ósmym dniu życia będzie obrzezany, każdy mężczyzna przez wszystkie pokolenia, tak narodzony w domu, jak i nabyty za pieniądze od jakiegokolwiek cudzoziemca, który nie pochodzi z twego potomstwa."
+"Każdy syn wśród was w ósmym dniu życia będzie obrzezany, każdy mężczyzna przez wszystkie pokolenia, tak narodzony #w domu, jak i nabyty za pieniądze od jakiegokolwiek cudzoziemca, który nie pochodzi z twego potomstwa."
 "Urodzony w twoim domu i nabyty za twoje pieniądze musi być obrzezany. A moje przymierze będzie na waszym ciele jako wieczne przymierze."
 "A nieobrzezany mężczyzna, któremu nie obrzezano ciała jego napletka, ta dusza będzie wykluczona ze swego ludu, bo złamała moje przymierze."
 "Potem Bóg powiedział do Abrahama
@@ -20,7 +20,7 @@
 "Co do Izmaela też cię wysłuchałem. Oto błogosławiłem mu i uczynię go płodnym, i rozmnożę go bardzo obficie. Spłodzi on dwunastu książąt i uczynię go wielkim narodem."
 "Ale moje przymierze utwierdzę z Izaakiem, którego Sara urodzi ci za rok o tej porze."
 "Gdy skończył z nim rozmowę, Bóg wzniósł się nad Abrahama."
-"Wtedy Abraham wziął swego syna Izmaela, wszystkich urodzonych w swym domu oraz wszystkich nabytych za pieniądze, wszystkich mężczyzn wśród domowników Abrahama, i obrzezał ciała ich napletków tego samego dnia, jak Bóg mu mówił."
+"Wtedy Abraham wziął swego syna Izmaela, wszystkich urodzonych w swym domu oraz wszystkich nabytych za pieniądze, wszystkich #mężczyzn wśród domowników Abrahama, i obrzezał ciała ich napletków tego samego dnia, jak Bóg mu mówił."
 "Abraham miał dziewięćdziesiąt dziewięć lat, gdy obrzezano ciało jego napletka."
 "A jego syn Izmael miał trzynaście lat, gdy obrzezano ciało jego napletka."
 "Tego samego dnia obrzezano Abrahama i jego syna Izmaela."

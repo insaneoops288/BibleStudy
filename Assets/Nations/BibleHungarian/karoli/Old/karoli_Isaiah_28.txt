@@ -10,7 +10,7 @@
 "Mivel parancsra új parancs, parancsra új parancs, szabályra új szabály, szabályra új szabály; itt egy kicsi, ott egy kicsi."
 "Ezért dadogó ajakkal és idegen nyelven fog szólni e néphez,"
 "Õ, a ki ezt mondá nékik
-"És lõn nékik az Úr beszéde parancsra új parancs, parancsra új parancs, szabályra új szabály, szabályra új szabály; itt egy kicsi, ott egy kicsi; hogy járjanak és hátra essenek és összetöressenek és tõrbe jussanak és megfogassanak!"
+"És lõn nékik az Úr beszéde parancsra új parancs, parancsra új parancs, szabályra új szabály, szabályra új szabály; itt #egy kicsi, ott egy kicsi; hogy járjanak és hátra essenek és összetöressenek és tõrbe jussanak és megfogassanak!"
 "Ezért halljátok az Úrnak beszédét, csúfoló férfiak, a kik uralkodtok e népen, a mely Jeruzsálemben lakik."
 "Mert így szóltok
 "Ezért így szól az Úr Isten

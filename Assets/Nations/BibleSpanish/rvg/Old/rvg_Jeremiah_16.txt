@@ -1,7 +1,7 @@
 "Y vino a mí palabra de Jehová, diciendo
 "No tomarás esposa para ti, ni tendrás hijos ni hijas en este lugar."
 "Porque así dice Jehová acerca de los hijos y de las hijas que nacieren en este lugar, y de sus madres que los dieren a luz, y de los padres que los engendraren en esta tierra."
-"De dolorosas enfermedades morirán; no serán plañidos ni sepultados; serán como estiércol sobre la faz de la tierra; y con espada y con hambre serán consumidos, y sus cuerpos servirán de comida para las aves del cielo y para las bestias de la tierra."
+"De dolorosas enfermedades morirán; no serán plañidos ni sepultados; serán como estiércol sobre la faz de la tierra; y con espada y con #hambre serán consumidos, y sus cuerpos servirán de comida para las aves del cielo y para las bestias de la tierra."
 "Porque así dice Jehová
 "Morirán grandes y pequeños en esta tierra; no serán sepultados, ni los plañirán, ni se sajarán ni se raparán por ellos;"
 "ni partirán [pan] de luto por ellos, para consolarles de [sus] muertos; ni les darán a beber vaso de consolaciones por su padre o por su madre."

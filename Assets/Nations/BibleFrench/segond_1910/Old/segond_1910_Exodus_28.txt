@@ -27,7 +27,7 @@
 "Et tu feras deux autres anneaux d'or, que tu mettras au bas des deux épaulettes de l'éphod, sur le devant, près de la jointure, au-dessus de la ceinture de l'éphod."
 "On attachera le pectoral par ses anneaux aux anneaux de l'éphod avec un cordon bleu, afin que le pectoral soit au-dessus de la ceinture de l'éphod et qu'il ne puisse pas se séparer de l'éphod."
 "Lorsque Aaron entrera dans le sanctuaire, il portera sur son coeur les noms des fils d'Israël, gravés sur le pectoral du jugement, pour en conserver à toujours le souvenir devant l'Eternel. -"
-"Tu joindras au pectoral du jugement l'urim et le thummim, et ils seront sur le coeur d'Aaron, lorsqu'il se présentera devant l'Eternel. Ainsi, Aaron portera constamment sur son coeur le jugement des enfants d'Israël, lorsqu'il se présentera devant l'Eternel."
+"Tu joindras au pectoral du jugement l'urim et le thummim, et ils seront sur le coeur d'Aaron, lorsqu'il se présentera #devant l'Eternel. Ainsi, Aaron portera constamment sur son coeur le jugement des enfants d'Israël, lorsqu'il se présentera devant l'Eternel."
 "Tu feras la robe de l'éphod entièrement d'étoffe bleue."
 "Il y aura, au milieu, une ouverture pour la tête; et cette ouverture aura tout autour un bord tissé, comme l'ouverture d'une cotte de mailles, afin que la robe ne se déchire pas."
 "Tu mettras autour de la bordure, en bas, des grenades de couleur bleue, pourpre et cramoisi, entremêlées de clochettes d'or
@@ -35,9 +35,9 @@
 "Aaron s'en revêtira pour faire le service; quand il entrera dans le sanctuaire devant l'Eternel, et quand il en sortira, on entendra le son des clochettes, et il ne mourra point."
 "Tu feras une lame d'or pur, et tu y graveras, comme on grave un cachet
 "Tu l'attacheras avec un cordon bleu sur la tiare, sur le devant de la tiare."
-"Elle sera sur le front d'Aaron; et Aaron sera chargé des iniquités commises par les enfants d'Israël en faisant toutes leurs saintes offrandes; elle sera constamment sur son front devant l'Eternel, pour qu'il leur soit favorable."
+"Elle sera sur le front d'Aaron; et Aaron sera chargé des iniquités commises par les enfants d'Israël en faisant #toutes leurs saintes offrandes; elle sera constamment sur son front devant l'Eternel, pour qu'il leur soit favorable."
 "Tu feras la tunique de fin lin; tu feras une tiare de fin lin, et tu feras une ceinture brodée."
 "Pour les fils d'Aaron tu feras des tuniques, tu leur feras des ceintures, et tu leur feras des bonnets, pour marquer leur dignité et pour leur servir de parure."
 "Tu en revêtiras Aaron, ton frère, et ses fils avec lui. Tu les oindras, tu les consacreras, tu les sanctifieras, et ils seront à mon service dans le sacerdoce."
 "Fais-leur des caleçons de lin, pour couvrir leur nudité; ils iront depuis les reins jusqu'aux cuisses."
-"Aaron et ses fils les porteront, quand ils entreront dans la tente d'assignation, ou quand ils s'approcheront de l'autel, pour faire le service dans le sanctuaire; ainsi ils ne se rendront point coupables, et ne mourront point. C'est une loi perpétuelle pour Aaron et pour ses descendants après lui."
+"Aaron et ses fils les porteront, quand ils entreront dans la tente d'assignation, ou quand ils s'approcheront de l'autel, pour faire le service dans le #sanctuaire; ainsi ils ne se rendront point coupables, et ne mourront point. C'est une loi perpétuelle pour Aaron et pour ses descendants après lui."

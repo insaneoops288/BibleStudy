@@ -1,8 +1,8 @@
 "Uomini fratelli, e padri, ascoltate ciò che ora vi dico a mia difesa."
 "Ora, quando ebbero udito ch’egli parlava loro in lingua ebrea, tanto più fecero silenzio. Poi disse
-"Io certo son uomo Giudeo, nato in Tarso di Cilicia, ed allevato in questa città a’ piedi di Gamaliele, ammaestrato secondo l’isquisita maniera della legge de’ padri, zelatore di Dio, come voi tutti siete oggi."
+"Io certo son uomo Giudeo, nato in Tarso di Cilicia, ed allevato in questa città a’ piedi di #Gamaliele, ammaestrato secondo l’isquisita maniera della legge de’ padri, zelatore di Dio, come voi tutti siete oggi."
 "Ed ho perseguitata questa professione sino alla morte, mettendo ne’ legami, ed in prigione uomini e donne."
-"Come mi son testimoni il sommo sacerdote, e tutto il concistoro degli anziani; da cui eziandio avendo ricevute lettere a’ fratelli, io andava in Damasco, per menar prigioni in Gerusalemme quegli ancora ch’erano quivi, acciocchè fosser puniti."
+"Come mi son testimoni il sommo sacerdote, e tutto il concistoro degli anziani; da cui eziandio avendo ricevute lettere #a’ fratelli, io andava in Damasco, per menar prigioni in Gerusalemme quegli ancora ch’erano quivi, acciocchè fosser puniti."
 "Or avvenne che, mentre io era in cammino, e mi avvicinava a Damasco, in sul mezzodì, di subito una gran luce mi folgorò d’intorno dal cielo."
 "Ed io caddi in terra, ed udii una voce che mi disse
 "Ed io risposi
@@ -27,4 +27,4 @@
 "E il capitano venne a Paolo, e gli disse
 "Ed egli disse
 "Laonde coloro che doveano far l’inquisizion di lui si ritrassero subito da lui; e il capitano stesso ebbe paura, avendo saputo ch’egli era Romano; perciocchè egli l’avea legato."
-"E IL giorno seguente, volendo saper la certezza di ciò onde egli era accusato da’ Giudei, lo sciolse da’ legami, e comandò a’ principali sacerdoti, ed a tutto il lor concistoro, di venire. E, menato Paolo a basso, lo presentò davanti a loro."
+"E IL giorno seguente, volendo saper la certezza di ciò onde egli era accusato da’ Giudei, lo sciolse da’ legami, e comandò #a’ principali sacerdoti, ed a tutto il lor concistoro, di venire. E, menato Paolo a basso, lo presentò davanti a loro."

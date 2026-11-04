@@ -1,7 +1,7 @@
 "Người lại làm một cái bàn thờ đồng, bề dài hai mươi thước, bề ngang hai mươi thước và bề cao mười thước."
 "Người làm một cái biển đúc, từ mép này qua mép kia được mười thước, tròn tứ vi, và cao năm thước; một sợi dây ba mươi thước vấn chung quanh nó."
 "Ở dưới vòng chung quanh biển, có hình giống con bò, mỗi thước mười con, làm hai hàng, đúc một lượt với biển."
-"Biển để kê trên mười hai tượng con bò, ba con xây về hướng bắc, ba con xây về hướng tây, ba con xây về hướng nam, và ba con xây về hướng đông; biển ở trên các con bò ấy, thân sau chúng nó đều quay vào trong."
+"Biển để kê trên mười hai tượng con bò, ba con xây về hướng bắc, ba con xây về hướng tây, ba con xây về #hướng nam, và ba con xây về hướng đông; biển ở trên các con bò ấy, thân sau chúng nó đều quay vào trong."
 "Bề dày biển một gang, mép nó như mép cái chén, làm tợ hoa huệ nở; chứa được ba ngàn bát."
 "Người cũng làm mười cái thùng, để năm cái bên hữu và năm cái bên tả đặng rửa tại đó; người ta rửa trong đó vật gì thuộc về của lễ thiêu; còn những thầy tế lễ đều tắm rửa trong biển đúc."
 "Người làm mười cái chơn đèn bằng vàng, theo kiểu đã định; rồi để nó trong đền thờ, năm cái bên hữu, năm cái bên tả."

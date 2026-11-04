@@ -2,10 +2,10 @@
 "Il n'y avait point d'eau pour l'assemblée; et l'on se souleva contre Moïse et Aaron."
 "Le peuple chercha querelle à Moïse. Ils dirent
 "Pourquoi avez-vous fait venir l'assemblée de l'Eternel dans ce désert, pour que nous y mourions, nous et notre bétail?"
-"Pourquoi nous avez-vous fait monter hors d'Egypte, pour nous amener dans ce méchant lieu? Ce n'est pas un lieu où l'on puisse semer, et il n'y a ni figuier, ni vigne, ni grenadier, ni d'eau à boire."
+"Pourquoi nous avez-vous fait monter hors d'Egypte, pour nous amener dans ce méchant lieu? Ce n'est pas un lieu #où l'on puisse semer, et il n'y a ni figuier, ni vigne, ni grenadier, ni d'eau à boire."
 "Moïse et Aaron s'éloignèrent de l'assemblée pour aller à l'entrée de la tente d'assignation. Ils tombèrent sur leur visage; et la gloire de l'Eternel leur apparut."
 "L'Eternel parla à Moïse, et dit
-"Prends la verge, et convoque l'assemblée, toi et ton frère Aaron. Vous parlerez en leur présence au rocher, et il donnera ses eaux; tu feras sortir pour eux de l'eau du rocher, et tu abreuveras l'assemblée et leur bétail."
+"Prends la verge, et convoque l'assemblée, toi et ton frère Aaron. Vous parlerez en leur présence au rocher, et il #donnera ses eaux; tu feras sortir pour eux de l'eau du rocher, et tu abreuveras l'assemblée et leur bétail."
 "Moïse prit la verge qui était devant l'Eternel, comme l'Eternel le lui avait ordonné."
 "Moïse et Aaron convoquèrent l'assemblée en face du rocher. Et Moïse leur dit
 "Puis Moïse leva la main et frappa deux fois le rocher avec sa verge. Il sortit de l'eau en abondance. L'assemblée but, et le bétail aussi."
@@ -14,7 +14,7 @@
 "De Kadès, Moïse envoya des messagers au roi d'Edom, pour lui dire
 "Nos pères descendirent en Egypte, et nous y demeurâmes longtemps. Mais les Egyptiens nous ont maltraités, nous et nos pères."
 "Nous avons crié à l'Eternel, et il a entendu notre voix. Il a envoyé un ange, et nous a fait sortir de l'Egypte. Et voici, nous sommes à Kadès, ville à l'extrémité de ton territoire."
-"Laisse-nous passer par ton pays; nous ne traverserons ni les champs, ni les vignes, et nous ne boirons pas l'eau des puits; nous suivrons la route royale, sans nous détourner à droite ou à gauche, jusqu'à ce que nous ayons franchi ton territoire."
+"Laisse-nous passer par ton pays; nous ne traverserons ni les champs, ni les vignes, et nous ne boirons pas l'eau des puits; #nous suivrons la route royale, sans nous détourner à droite ou à gauche, jusqu'à ce que nous ayons franchi ton territoire."
 "Edom lui dit
 "Les enfants d'Israël lui dirent
 "Il répondit

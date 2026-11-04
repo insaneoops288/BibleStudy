@@ -10,7 +10,7 @@
 "Sinä olet kokonansa lyönyt Edomilaiset, siitä paisuu sinun sydämes
 "Mutta Amatsia ei totellut häntä. Niin meni Joas Israelin kuningas ylös, ja he katselivat toinen toistansa, hän ja Amatsia Juudan kuningas Betsemeksessä, joka Juudassa on."
 "Mutta Juuda lyötiin Israelilta, niin että jokainen pakeni majoillensa."
-"Ja Joas Israelin kuningas otti Amatsian Juudan kuninkaan Joaksen pojan, Ahasian pojan, Betsemeksessä kiinni, ja tuli Jerusalemiin, ja kukisti Jerusalemin muurit Ephraimin portista Kulmaporttiin asti, neljänsadan kyynärän pituudelta,"
+"Ja Joas Israelin kuningas otti Amatsian Juudan kuninkaan Joaksen pojan, Ahasian pojan, Betsemeksessä kiinni, ja #tuli Jerusalemiin, ja kukisti Jerusalemin muurit Ephraimin portista Kulmaporttiin asti, neljänsadan kyynärän pituudelta,"
 "Ja otti kaiken kullan ja hopian ja kaikki astiat, jotka löyttiin Herran huoneesta ja kuninkaan huoneen tavaroista, ja vielä hänen lapsensa pantiksi, ja palasi Samariaan."
 "Mitä enempi Joaksesta sanomista on, mitä hän tehnyt on, ja hänen väkevyydestänsä, ja kuinka hän Amatsian Juudan kuninkaan kanssa soti
 "Ja Joas nukkui isäinsä kanssa ja haudattiin Samariassa, Israelin kuningasten sekaan; ja hänen poikansa Jerobeam tuli kuninkaaksi hänen siaansa."
@@ -22,7 +22,7 @@
 "Hän rakensi Elatin ja saatti sen jälleen Juudan alle, sitte kuin kuningas isäinsä kanssa nukkunut oli."
 "Amatsian Joaksen pojan Juudan kuninkaan viidentenä vuonna toistakymmentä oli Jerobeam Joaksen poika Israelin kuningas Samariassa yhden ajastajan viidettäkymmentä,"
 "Ja teki pahaa Herran edessä, ja ei lakannut kaikista Jerobeamin Nebatin pojan synneistä, joka Israelin saatti syntiä tekemään."
-"Hän otti Israelin maan rajat jälleen, Hematista hamaan kedon mereen asti, Herran Israelin Jumalan sanan jälkeen, jonka hän sanonut oli palveliansa, propheta Jonan, Amittain pojan kautta, joka oli GatHepheristä."
+"Hän otti Israelin maan rajat jälleen, Hematista hamaan kedon mereen asti, Herran Israelin Jumalan sanan #jälkeen, jonka hän sanonut oli palveliansa, propheta Jonan, Amittain pojan kautta, joka oli GatHepheristä."
 "Sillä Herra näki Israelin suuren viheliäisyyden, niin ettei ollut suljettua, eikä hylättyä, eikä auttajaa Israelissa."
 "Ja Herra ei ollut sanonut tahtovansa pyyhkiä Israelin nimeä taivaan alta pois; mutta autti heitä Jerobeamin Joaksen pojan kautta."
 "Mitä enempi Jerobeamista sanomista on, ja kaikista mitä hän tehnyt on, ja hänen väkevyydestänsä, kuinka hän sotinut on, ja kuinka hän otti Damaskun jälleen ja Hematin Juudalle Israelissa

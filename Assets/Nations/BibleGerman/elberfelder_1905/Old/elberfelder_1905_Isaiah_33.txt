@@ -1,4 +1,4 @@
-"Wehe dir, Verwüster, und du selbst wurdest nicht verwüstet; und dir, Räuber, und man hat dich nicht beraubt! Sobald du das Verwüsten vollendet hast, wirst du verwüstet werden; sobald du mit dem Rauben fertig bist, wirst du beraubt werden.-"
+"Wehe dir, Verwüster, und du selbst wurdest nicht verwüstet; und dir, Räuber, und man hat dich nicht beraubt! Sobald du #das Verwüsten vollendet hast, wirst du verwüstet werden; sobald du mit dem Rauben fertig bist, wirst du beraubt werden.-"
 "Jehova, sei uns gnädig! Auf dich harren wir; sei ihr Arm jeden Morgen, ja, unsere Rettung zur Zeit der Bedrängnis!-"
 "Vor dem Brausen deines Getümmels entfliehen die Völker, vor deiner Erhebung zerstreuen sich die Nationen."
 "Und weggerafft wird eure Beute, wie die Heuschrecken wegraffen; wie Heuschrecken rennen, rennt man darauf los."
@@ -12,12 +12,12 @@
 "Und die Völker werden zu Kalkbränden, wie abgehauene Dornen, die im Feuer verbrannt werden."
 "Höret, ihr Fernen, was ich getan, und ihr Nahen, erkennet meine Macht!"
 "Die Sünder in Zion sind erschrocken, Beben hat die Ruchlosen ergriffen.""Wer von uns kann weilen bei verzehrendem Feuer? Wer von uns kann weilen bei ewigen Gluten?""-"
-"Wer in Gerechtigkeit wandelt und Aufrichtigkeit redet; wer den Gewinn der Bedrückungen verschmäht; wer seine Hände schüttelt, um keine Bestechung anzunehmen; wer sein Ohr verstopft, um nicht von Bluttaten zu hören, und seine Augen verschließt, um Böses nicht zu sehen
+"Wer in Gerechtigkeit wandelt und Aufrichtigkeit redet; wer den Gewinn der Bedrückungen verschmäht; wer seine Hände schüttelt, um keine Bestechung anzunehmen; #wer sein Ohr verstopft, um nicht von Bluttaten zu hören, und seine Augen verschließt, um Böses nicht zu sehen
 "der wird auf Höhen wohnen, Felsenfesten sind seine Burg; sein Brot wird ihm dargereicht, sein Wasser versiegt nie.-"
 "Deine Augen werden den König schauen in seiner Schönheit, sehen werden sie ein weithin offenes Land."
 "Dein Herz wird des Schreckens gedenken
 "Du wirst das freche Volk nicht mehr sehen, das Volk von unverständlicher Sprache, daß man sie nicht vernehmen, von stammelnder Zunge, die man nicht verstehen kann."
-"Schaue Zion an, die Stadt unserer Festversammlungen! Deine Augen werden Jerusalem sehen, eine ruhige Wohnstätte, ein Zelt, das nicht wandern wird, dessen Pflöcke ewiglich nicht herausgezogen, und von dessen Seilen keines je losgerissen werden wird;-"
+"Schaue Zion an, die Stadt unserer Festversammlungen! Deine Augen werden Jerusalem sehen, eine ruhige Wohnstätte, ein Zelt, das #nicht wandern wird, dessen Pflöcke ewiglich nicht herausgezogen, und von dessen Seilen keines je losgerissen werden wird;-"
 "sondern daselbst ist ein Mächtiger, Jehova, bei uns; ein Ort von Flüssen, von breiten Strömen
 "Denn Jehova ist unser Richter, Jehova unser Feldherr, Jehova unser König; er wird uns retten.-"
 "Schlaff hängen deine Taue; sie halten nicht fest das Gestell ihres Mastes, halten das Segel nicht ausgebreitet. Dann wird ausgeteilt des Raubes Beute in Menge, selbst Lahme plündern die Beute."

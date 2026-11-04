@@ -16,7 +16,7 @@
 "Eis que estas foram as que, por conselho de Balaão, deram ocasião aos filhos de Israel de prevaricar contra o SENHOR, no negócio de Peor, pelo que houve aquela praga entre a congregação do SENHOR."
 "Agora, pois, matai todo varão entre as crianças; e matai toda mulher que conheceu algum homem, deitando-se com ele."
 "Porém todas as crianças fêmeas que não conheceram algum homem, deitando-se com ele, para vós deixai viver."
-"E, vós, alojai-vos sete dias fora do arraial; qualquer que tiver matado alguma pessoa e qualquer que tiver tocado algum morto, ao terceiro dia e ao sétimo dia, vos purificareis, a vós e a vossos cativos."
+"E, vós, alojai-vos sete dias fora do arraial; qualquer que tiver matado alguma pessoa e qualquer que tiver tocado #algum morto, ao terceiro dia e ao sétimo dia, vos purificareis, a vós e a vossos cativos."
 "Também purificareis toda veste, e toda obra de peles, e toda obra de pêlos de cabras, e todo objecto de madeira."
 "E disse Eleazar, o sacerdote, aos homens de guerra que partiram à peleja
 "Contudo, o ouro, a prata, o cobre, o ferro, o estanho e o chumbo,"
@@ -27,7 +27,7 @@
 "e divide a presa em duas metades, entre os que, hábeis na peleja, saíram à guerra, e toda a congregação."
 "Então, para o SENHOR tomarás o tributo dos homens de guerra que saíram a esta guerra; de cada quinhentos, uma alma, tanto dos homens como dos bois, dos jumentos e das ovelhas."
 "Da sua metade o tomareis e o dareis ao sacerdote Eleazar, para a oferta alçada do SENHOR."
-"Mas, da metade dos filhos de Israel, tomarás de cada cinquenta, um, tanto dos homens como dos bois, dos jumentos e das ovelhas, de todos os animais; e os darás aos levitas que têm cuidado da guarda do tabernáculo do SENHOR."
+"Mas, da metade dos filhos de Israel, tomarás de cada cinquenta, um, tanto dos homens como dos bois, dos jumentos e #das ovelhas, de todos os animais; e os darás aos levitas que têm cuidado da guarda do tabernáculo do SENHOR."
 "E fizeram Moisés e Eleazar, o sacerdote, como o SENHOR ordenara a Moisés."
 "Foi, pois, a presa, o restante do despojo, que tomaram os homens de guerra, seiscentas e setenta e cinco mil ovelhas;"
 "e setenta e dois mil bois;"
@@ -44,7 +44,7 @@
 "e dos bois, trinta e seis mil;"
 "e dos jumentos, trinta mil e quinhentos;"
 "e das almas humanas, dezasseis mil.),"
-"desta metade dos filhos de Israel, Moisés tomou um de cada cinquenta, tanto de homens como de animais, e os deu aos levitas, que tinham cuidado da guarda do tabernáculo do SENHOR, como o SENHOR ordenara a Moisés."
+"desta metade dos filhos de Israel, Moisés tomou um de cada cinquenta, tanto de homens como de animais, e os #deu aos levitas, que tinham cuidado da guarda do tabernáculo do SENHOR, como o SENHOR ordenara a Moisés."
 "Então, chegaram-se a Moisés os capitães que estavam sobre os milhares do exército, os tribunos e os centuriões,"
 "e disseram a Moisés
 "Pelo que trouxemos uma oferta ao SENHOR, cada um o que achou

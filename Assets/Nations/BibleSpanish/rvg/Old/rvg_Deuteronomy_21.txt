@@ -2,7 +2,7 @@
 "entonces tus ancianos y tus jueces saldrán y medirán hasta las ciudades que están alrededor del muerto
 "Y será, que los ancianos de aquella ciudad, de la ciudad más cercana al muerto, tomarán de la vacada una becerra que no haya trabajado, que no haya llevado yugo;"
 "y los ancianos de aquella ciudad traerán la becerra a un valle áspero, que nunca haya sido arado ni sembrado, y cortarán el cuello a la becerra allí en el valle."
-"Entonces vendrán los sacerdotes hijos de Leví, porque a ellos escogió Jehová tu Dios para que le sirvan, y para bendecir en nombre de Jehová; y por la palabra de ellos se resolverá toda controversia y toda ofensa."
+"Entonces vendrán los sacerdotes hijos de Leví, porque a ellos escogió Jehová tu Dios para que le sirvan, y para #bendecir en nombre de Jehová; y por la palabra de ellos se resolverá toda controversia y toda ofensa."
 "Y todos los ancianos de aquella ciudad más cercana al muerto lavarán sus manos sobre la becerra degollada en el valle."
 "Y protestarán, y dirán
 "Sé misericordioso, oh Jehová, para con tu pueblo Israel, al cual tú redimiste; y no imputes la sangre inocente a tu pueblo Israel. Y la sangre les será perdonada."
@@ -20,4 +20,4 @@
 "y dirán a los ancianos de la ciudad
 "Entonces todos los hombres de su ciudad lo apedrearán con piedras, y morirá; así quitarás el mal de en medio de ti; y todo Israel oirá, y temerá."
 "Y si alguno hubiere cometido algún pecado digno de muerte, y lo hicieres morir, y lo colgareis de un madero,"
-"su cuerpo no ha de permanecer toda la noche en el madero, sino que sin falta lo enterrarás el mismo día, porque maldito por Dios es el colgado; y no contaminarás tu tierra que Jehová tu Dios te da por heredad."
+"su cuerpo no ha de permanecer toda la noche en el madero, sino que sin falta lo enterrarás el mismo día, #porque maldito por Dios es el colgado; y no contaminarás tu tierra que Jehová tu Dios te da por heredad."

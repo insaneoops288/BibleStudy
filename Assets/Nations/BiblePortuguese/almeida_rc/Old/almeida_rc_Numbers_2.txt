@@ -1,6 +1,6 @@
 "E falou o SENHOR a Moisés e a Arão, dizendo
 "Os filhos de Israel assentarão as suas tendas, cada um debaixo da sua bandeira, segundo as insígnias da casa de seus pais; ao redor, defronte da tenda da congregação, assentarão as suas tendas."
-"Os que assentarem as suas tendas da banda do oriente, para o nascente, serão os da bandeira do exército de Judá, segundo os seus esquadrões; e Naassom, filho de Aminadabe, será príncipe dos filhos de Judá."
+"Os que assentarem as suas tendas da banda do oriente, para o nascente, serão os da bandeira do exército #de Judá, segundo os seus esquadrões; e Naassom, filho de Aminadabe, será príncipe dos filhos de Judá."
 "E o seu exército e os que foram contados deles foram setenta e quatro mil e seiscentos."
 "E junto a ele assentará as suas tendas a tribo de Issacar; e Natanael, filho de Zuar, será príncipe dos filhos de Issacar."
 "E o seu exército e os que foram contados deles foram cinquenta e quatro mil e quatrocentos."
@@ -29,6 +29,6 @@
 "Depois, a tribo de Neftali; e Aira, filho de Enã, será príncipe dos filhos de Neftali."
 "E o seu exército e os que foram contados deles foram cinquenta e três mil e quatrocentos."
 "Todos os que foram contados no exército de Dã foram cento e cinquenta e sete mil e seiscentos; estes marcharão no último lugar; segundo as suas bandeiras."
-"Estes são os que foram contados dos filhos de Israel, segundo a casa de seus pais; todos os que foram contados dos exércitos pelos seus esquadrões foram seiscentos e três mil e quinhentos e cinquenta."
+"Estes são os que foram contados dos filhos de Israel, segundo a casa de seus pais; todos os #que foram contados dos exércitos pelos seus esquadrões foram seiscentos e três mil e quinhentos e cinquenta."
 "Mas os levitas não foram contados entre os filhos de Israel, como o SENHOR ordenara a Moisés."
-"E os filhos de Israel fizeram conforme tudo o que o SENHOR ordenara a Moisés; assim, assentaram o arraial segundo as suas bandeiras; e assim marcharam, cada qual segundo as suas gerações, segundo a casa de seus pais."
+"E os filhos de Israel fizeram conforme tudo o que o SENHOR ordenara a Moisés; assim, assentaram o arraial segundo #as suas bandeiras; e assim marcharam, cada qual segundo as suas gerações, segundo a casa de seus pais."

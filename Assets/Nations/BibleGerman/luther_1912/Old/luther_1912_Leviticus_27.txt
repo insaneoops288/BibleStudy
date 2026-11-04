@@ -5,7 +5,7 @@
 "Von fünf Jahren an bis auf zwanzig Jahre sollst du ihn schätzen auf zwanzig Silberlinge, wenn's ein Mannsbild ist, ein Weibsbild aber auf zehn Silberlinge."
 "Von einem Monat an bis auf fünf Jahre sollst du ihn schätzen auf fünf Silberlinge, wenn's ein Mannsbild ist, ein Weibsbild aber auf drei Silberlinge.{~}"
 "Ist er aber sechzig Jahre alt und darüber, so sollst du ihn schätzen auf fünfzehn Silberlinge, wenn's ein Mannsbild ist, ein Weibsbild aber auf zehn Silberlinge."
-"Ist er aber zu arm zu solcher Schätzung, so soll er sich vor den Priester stellen, und der Priester soll ihn schätzen; er soll ihn aber schätzen, nach dem die Hand des, der gelobt hat, erwerben kann."
+"Ist er aber zu arm zu solcher Schätzung, so soll er sich vor den Priester stellen, und der Priester #soll ihn schätzen; er soll ihn aber schätzen, nach dem die Hand des, der gelobt hat, erwerben kann."
 "Ist's aber ein Vieh, das man dem HERRN opfern kann
 "Man soll's nicht wechseln noch wandeln, ein gutes um ein böses, oder ein böses um ein gutes. Wird's aber jemand wechseln, ein Vieh um das andere, so sollen sie beide dem HERRN heilig sein."
 "Ist aber das Tier unrein, daß man's dem HERRN nicht opfern darf, so soll man's vor den Priester stellen,"

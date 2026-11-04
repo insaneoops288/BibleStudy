@@ -5,7 +5,7 @@
 "Iar el a spus
 "Mai mult, el a spus
 "Și DOMNUL a spus
-"Și am coborât să îi eliberez din mâna egiptenilor și să îi scot din acea țară într-o țară bună și largă, într-o țară în care curge lapte și miere; în locul canaaniților și al hitiților și al amoriților și al periziților și al hiviților și al iebusiților."
+"Și am coborât să îi eliberez din mâna egiptenilor și să îi scot din acea țară într-o țară bună și largă, într-o țară în #care curge lapte și miere; în locul canaaniților și al hitiților și al amoriților și al periziților și al hiviților și al iebusiților."
 "Și acum, iată, strigătul copiilor lui Israel a ajuns la mine; și eu de asemenea am văzut oprimarea cu care egiptenii îi oprimă."
 "Și acum vino și te voi trimite la Faraon, ca să scoți afară din Egipt pe poporul meu, copiii lui Israel."
 "Și Moise i-a spus lui Dumnezeu
@@ -19,4 +19,4 @@
 "Și sunt sigur că împăratul Egiptului nu vă va lăsa să mergeți, nu, nici chiar cu mână tare."
 "Și îmi voi întinde mâna și voi lovi Egiptul cu toate minunile mele pe care le voi face în mijlocul acestuia; și după aceea vă va lăsa să mergeți."
 "Și voi da acestui popor favoare înaintea ochilor egiptenilor; și se va întâmpla, când plecați, că nu veți pleca [cu mâinile] goale,"
-"Ci fiecare femeie va împrumuta de la vecina ei și de la cea care locuiește temporar în casa ei, bijuterii de argint și bijuterii de aur și haine; și voi [le] veți pune pe fiii voștri și pe fiicele voastre; și veți prăda pe egipteni."
+"Ci fiecare femeie va împrumuta de la vecina ei și de la cea care locuiește temporar în casa ei, bijuterii de argint și #bijuterii de aur și haine; și voi [le] veți pune pe fiii voștri și pe fiicele voastre; și veți prăda pe egipteni."

@@ -12,7 +12,7 @@
 "A wszyscy Judejczycy przynosili do magazynu dziesięciny zboża, moszczu oraz oliwy."
 "I zgromadziłem przełożonych nad magazynami
 "Dlatego zachowaj to w Sobie, mój Boże, i nie wymazuj moich dobroczynności, które czyniłem dla Domu mojego Boga oraz dla służby."
-"W tych dniach widziałem w Judzie takich, co tłoczyli prasy w szabat oraz nosili snopy, które kładli na osłach; nadto takich, którzy w dzień szabatu przynosili do Jeruszalaim winne grona, figi i każdy ciężar, więc tego dnia ich napomniałem, bo sprzedawali żywność."
+"W tych dniach widziałem w Judzie takich, co tłoczyli prasy w szabat oraz nosili snopy, które kładli na osłach; nadto takich, którzy #w dzień szabatu przynosili do Jeruszalaim winne grona, figi i każdy ciężar, więc tego dnia ich napomniałem, bo sprzedawali żywność."
 "Nadto Tyryjczycy, co w nim mieszkali, przynosili w szabat ryby oraz różne towary i sprzedawali to w Jeruszalaim synom Judy."
 "Dlatego napomniałem przełożonych w Judzie, mówiąc do nich
 "Czyż tego nie czynili wasi przodkowie, przez co Bóg przyprowadził na nas i na to miasto wszelkie zło? Zaś wy, znieważając szabat, przydajecie gniewu dla Israela."
@@ -23,7 +23,7 @@
 "W tych dniach dostrzegłem też Judejczyków, którzy pojęli aszdodyckie, ammonickie oraz moabskie żony."
 "A ich synowie w połowie mówili po aszdodycku, czy według języka narodów i nie umieli już mówić po hebrajsku."
 "Walczyłem z nimi, potrząsnąłem oraz ukarałem niektórych z nich, rwąc ich za włosy oraz zaklinałem na Boga, by nie dawali swoich córek ich synom, ani nie brali ich córek dla swych synów i siebie."
-"Czy z tego powodu nie zgrzeszył Salomon, król Israela? Choć pomiędzy wieloma narodami nie było podobnego króla, który by był tak miły Bogu, że Bóg go ustanowił królem nad całym Israelem – to przecież i jego cudzoziemskie niewiasty doprowadziły do grzechu."
+"Czy z tego powodu nie zgrzeszył Salomon, król Israela? Choć pomiędzy wieloma narodami nie było podobnego króla, który by był tak #miły Bogu, że Bóg go ustanowił królem nad całym Israelem – to przecież i jego cudzoziemskie niewiasty doprowadziły do grzechu."
 "Więc czy wam pozwolimy, popełniać to samo zło i występować przeciwko naszemu Bogu, pojmując cudzoziemskie żony?"
 "Także jeden z synów Jojady, syna Eliasziba, najwyższego kapłana, był zięciem Sanballata Choronity, zatem wypędziłem go od siebie."
 "Wspomnij na to, mój Boże! Przeciw tym, co plugawią kapłaństwo oraz kapłańskie i lewickie zobowiązanie."

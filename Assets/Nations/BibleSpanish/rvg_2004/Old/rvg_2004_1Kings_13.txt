@@ -8,7 +8,7 @@
 "Pero el varón de Dios dijo al rey
 "porque así me está ordenado por palabra de Jehová, diciendo
 "Se fue, pues, por otro camino, y no volvió por el camino por donde había venido a Betel."
-"Moraba entonces en Betel un viejo profeta, al cual vinieron sus hijos, y le contaron todo lo que el varón de Dios había hecho aquel día en Betel; le contaron también a su padre las palabras que había hablado al rey."
+"Moraba entonces en Betel un viejo profeta, al cual vinieron sus hijos, y le contaron todo lo que el varón de #Dios había hecho aquel día en Betel; le contaron también a su padre las palabras que había hablado al rey."
 "Y su padre les dijo
 "Y él dijo a sus hijos
 "Y fue tras el varón de Dios, y le halló sentado debajo de un alcornoque; y le dijo
@@ -30,5 +30,5 @@
 "Y puso su cuerpo en su propio sepulcro; y le endecharon, diciendo
 "Y después que le hubieron enterrado, habló a sus hijos, diciendo
 "Porque sin duda vendrá lo que él dijo a voces por palabra de Jehová contra el altar que está en Betel, y contra todas las casas de los lugares altos que están en las ciudades de Samaria."
-"Aun después de esto, Jeroboam no se volvió de su mal camino; sino que volvió a hacer sacerdotes de los lugares altos de entre la clase baja del pueblo, y a quien quería lo consagraba para que fuese de los sacerdotes de los lugares altos."
+"Aun después de esto, Jeroboam no se volvió de su mal camino; sino que volvió a hacer sacerdotes de los lugares altos de #entre la clase baja del pueblo, y a quien quería lo consagraba para que fuese de los sacerdotes de los lugares altos."
 "Y esto fue causa de pecado a la casa de Jeroboam; por lo cual fue cortada y raída de sobre la faz de la tierra."

@@ -15,7 +15,7 @@
 "En comparación de los otros reinos será humilde; ni más se alzará sobre las gentes
 "Y no será más á la casa de Israel por confianza, que haga acordar el pecado, mirando en pos de ellos; y sabrán que yo soy el Señor Jehová."
 "Y aconteció en el año veinte y siete, en el mes primero, al primero del mes, que fué á mí palabra de Jehová, diciendo
-"Hijo del hombre, Nabucodonosor rey de Babilonia hizo á su ejército prestar grande servicio contra Tiro. Toda cabeza se encalveció, y pelóse todo hombro; y ni para él ni para su ejército hubo paga de Tiro, por el servicio que prestó contra ella."
+"Hijo del hombre, Nabucodonosor rey de Babilonia hizo á su ejército prestar grande servicio contra Tiro. Toda cabeza se encalveció, y pelóse #todo hombro; y ni para él ni para su ejército hubo paga de Tiro, por el servicio que prestó contra ella."
 "Por tanto, así ha dicho el Señor Jehová
 "Por su trabajo con que sirvió contra ella le he dado la tierra de Egipto
 "En aquel tiempo haré reverdecer el cuerno á la casa de Israel, y te daré apertura de boca en medio de ellos; y sabrán que yo soy Jehová."

@@ -6,11 +6,11 @@
 "Toe het Noag aan die end van veertig dae die venster oopgemaak van die ark wat hy gebou het,"
 "en 'n kraai uitgestuur wat gedurig heen en weer gevlieg het totdat die waters weggedroog het van die aarde af."
 "Daarop laat hy 'n duif van hom af wegvlieg om te sien of die waters oor die aarde verminder het."
-"Maar die duif het geen rusplek vir die holte van sy voet gevind nie en na hom teruggekeer in die ark; want die waters was oor die hele aarde. So het hy dan sy hand uitgesteek en hom gegryp en in die ark by hom gebring."
+"Maar die duif het geen rusplek vir die holte van sy voet gevind nie en na hom teruggekeer in die ark; want die waters #was oor die hele aarde. So het hy dan sy hand uitgesteek en hom gegryp en in die ark by hom gebring."
 "Daarna het hy weer sewe dae gewag. Toe stuur hy die duif weer uit die ark."
 "En die duif het teen die aand na hom gekom, en daar was 'n groen olyfblad in sy bek! Toe merk Noag dat die waters oor die aarde verminder het."
 "Daarna wag hy weer sewe dae en stuur die duif uit. Maar hy het nie weer na hom teruggekeer nie."
-"In die ses honderd en eerste jaar, in die eerste maand, op die eerste van die maand, het die waters weggedroog van die aarde af. En Noag het die deksel van die ark weggeneem en uitgekyk, en die aarde was droog,"
+"In die ses honderd en eerste jaar, in die eerste maand, op die eerste van die maand, het die waters weggedroog #van die aarde af. En Noag het die deksel van die ark weggeneem en uitgekyk, en die aarde was droog,"
 "in die tweede maand, op die sewe en twintigste dag van die maand, was die aarde droog."
 "En God het met Noag gespreek en gesê
 "Gaan uit die ark, jy en jou vrou en jou seuns en die vroue van jou seuns saam met jou."

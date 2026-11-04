@@ -29,7 +29,7 @@
 "Taikka kuinka joku taitaa jonkun väkevän huoneeseen mennä, ja hänen kaluansa ryöstää, ellei hän ensin sido väkevää, ja sitte ryöstä hänen huonettansa?"
 "Joka ei ole minun kanssani, hän on minua vastaan, ja joka ei minun kanssani kokoo, hän hajoittaa."
 "Sentähden sanon minä teille
-"Ja kuka ikänä sanoo jonkun sanan Ihmisen Poikaa vastaan, se hänelle anteeksi annetaan; mutta joka sanoo jotakin Pyhää Henkeä vastaan, ei sitä hänelle anteeksi anneta, ei tässä eikä tulevaisessa maailmassa."
+"Ja kuka ikänä sanoo jonkun sanan Ihmisen Poikaa vastaan, se hänelle anteeksi annetaan; mutta joka sanoo #jotakin Pyhää Henkeä vastaan, ei sitä hänelle anteeksi anneta, ei tässä eikä tulevaisessa maailmassa."
 "Taikka tehkäät hyvä puu, niin hänen hedelmänsä tulee hyväksi, taikka tehkäät mädännyt puu, niin hänen hedelmänsä tulee mädänneeksi; sillä hedelmästä puu tunnetaan."
 "Te kyykärmetten sikiät, kuinka te taidatte hyvää puhua, koska te itse pahat olette? sillä sydämen kyllyydestä suu puhuu."
 "Hyvä ihminen tuo edes hyvästä sydämen tavarasta hyviä, ja paha ihminen tuo edes pahasta tavarasta pahoja."
@@ -42,7 +42,7 @@
 "Etelän kuningatar on nouseva tuomiolle tämän suvun kanssa ja hänen tuomitseva; sillä hän tuli maan ääristä kuulemaan Salomonin viisautta. Ja katso, tässä on enempi kuin Salomon."
 "Mutta kuin rietas henki on lähtenyt ihmisestä, niin hän vaeltaa lävitse kuivia paikkoja, etsein lepoa, ja ei löydä."
 "Silloin hän sanoo
-"Silloin hän menee ja ottaa kanssansa seitsemän muuta henkeä, itseänsä pahempaa, ja ne sisälle menevät ja asuvat siellä, ja sen ihmisen viimeiset tulevat pahemmaksi kuin ensimäiset. Näin myös tapahtuu tälle pahalle sukukunnalle."
+"Silloin hän menee ja ottaa kanssansa seitsemän muuta henkeä, itseänsä pahempaa, ja ne sisälle menevät ja asuvat #siellä, ja sen ihmisen viimeiset tulevat pahemmaksi kuin ensimäiset. Näin myös tapahtuu tälle pahalle sukukunnalle."
 "Kuin hän vielä kansalle puhui, katso, hänen äitinsä ja veljensä seisoivat ulkona ja pyysivät häntä puhutella."
 "Niin yksi sanoi hänelle
 "Niin hän vastasi ja sanoi sille, joka hänelle sitä sanoi

@@ -16,9 +16,9 @@
 """Eja me mua dhe do të shohësh zellin tim për Zotin!"". Pastaj e mori me vete në qerren e tij."
 "Me të arritur në Samari, vrau tërë ata që kishin mbetur nga shtëpia e Ashabit në Samari, deri në shkatërimin e plotë të saj, sipas fjalës që Zoti i kishte thënë Elias."
 "Pastaj Jehu mblodhi tërë popullin dhe i tha
-"Tani thirri pranë meje tërë profetët e Baalit, tërë shërbëtorët dhe priftërinjtë e tij; të mos mungojë asnjë prej tyre, sepse duhet t'i bëj një flijim të madh Baalit; ai që do të mungojë, nuk do mbetet i gjallë"". Por Jehu vepronte me mashtrim për të shkatërruar adhuruesit e Baalit."
+"Tani thirri pranë meje tërë profetët e Baalit, tërë shërbëtorët dhe priftërinjtë e tij; të mos mungojë asnjë prej tyre, sepse duhet t'i bëj një flijim #të madh Baalit; ai që do të mungojë, nuk do mbetet i gjallë"". Por Jehu vepronte me mashtrim për të shkatërruar adhuruesit e Baalit."
 "Pastaj Jehu urdhëroi
-"Pastaj Jehu dërgoi lajmëtarë nëpër gjithë Izraelin; kështu tërë adhuruesit e Baalit erdhën dhe nuk mungoi asnjë prej tyre; hynë në tempullin e Baalit dhe tempulli u mbush plot nga një anë në anën tjetër."
+"Pastaj Jehu dërgoi lajmëtarë nëpër gjithë Izraelin; kështu tërë adhuruesit e Baalit erdhën dhe nuk mungoi asnjë prej #tyre; hynë në tempullin e Baalit dhe tempulli u mbush plot nga një anë në anën tjetër."
 "Jehu i tha rojtarit të rrobave
 "Atëherë Jehu, bashkë me Jehonadabin, birin e Rekabit, hyri në tempullin e Baalit dhe u tha adhuruesve të Baalit
 "Kështu ata hynë për të ofruar flijime dhe olokauste. Jehu kishte vënë jashtë tempullit tetëdhjetë burra, të cilëve u kishte thënë

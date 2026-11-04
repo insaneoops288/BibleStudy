@@ -1,4 +1,4 @@
-"E Saulo também consentia na morte dele. E naquele dia foi feita uma grande perseguição contra a igreja que estava em Jerusalém; e todos foram dispersos pelas regiões da Judeia, e de Samaria, exceto os apóstolos."
+"E Saulo também consentia na morte dele. E naquele dia foi feita uma grande perseguição contra a igreja que #estava em Jerusalém; e todos foram dispersos pelas regiões da Judeia, e de Samaria, exceto os apóstolos."
 "E [alguns] homens devotos levaram juntos a Estêvão [para enterrá-lo] , e fizeram grande pranto por causa dele."
 "E Saulo tentava destruir a igreja, entrando nas casas, e puxando a homens e mulheres, entregava-os à prisão."
 "Os que, pois, estavam dispersos, passavam anunciando a palavra."
@@ -24,7 +24,7 @@
 "Mas respondendo Simão, disse
 "Tendo eles pois dado testemunho e falado a palavra do Senhor, voltaram a Jerusalém, e em muitas aldeias dos samaritanos anunciaram o Evangelho."
 "E um anjo do Senhor falou a Filipe, dizendo
-"E ele levantou-se, e foi, e eis que um homem etíope, eunuco, administrador [subordinado] a Candace, a rainha dos etíopes, que estava sobre [o controle] de todos os bens dela, tinha vindo a Jerusalém para adorar;"
+"E ele levantou-se, e foi, e eis que um homem etíope, eunuco, administrador [subordinado] a Candace, a rainha dos #etíopes, que estava sobre [o controle] de todos os bens dela, tinha vindo a Jerusalém para adorar;"
 "E ele estava voltando, sentado em sua carruagem, [e] lia ao profeta Isaías."
 "E o Espírito disse a Filipe
 "E Filipe, correndo, ouviu que ele estava lendo ao profeta Isaías, e disse

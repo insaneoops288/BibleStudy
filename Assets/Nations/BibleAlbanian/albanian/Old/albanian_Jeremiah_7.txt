@@ -28,7 +28,7 @@
 "Kështu do t'u thuash atyre
 "Pri flokët dhe hidhi tutje, nise vajtimin mbi lartësitë, sepse Zoti ka hedhur poshtë dhe e ka braktisur brezin e zemërimit të tij."
 "Bijtë e Judës kanë bërë atë që është e keqe për sytë e mi"", thotë Zoti. ""Kanë vendosur veprimet e tyre të neveritshme në tempullin ku permendet emri im, për ta ndotur."
-"Kanë ndërtuar vende të larta të Tofetit, që është në luginën e birit të Hinomit, për të djegur në zjarr bijtë e tyre dhe bijat e tyre, gjë që nuk e kisha urdhëruar dhe që nuk më kishte shkuar kurrë në mendje."
-"Prandaj ja, vijnë ditët"", thotë Zoti, ""në të cilat nuk do të quhet më ""Tofet"" as ""Lugina e birit të Hinomit"", por ""Lugina e masakrës"", dhe do të varrosen të vdekurit në Tofet, sepse nuk do të ketë vend gjetiu."
+"Kanë ndërtuar vende të larta të Tofetit, që është në luginën e birit të Hinomit, për të djegur në zjarr bijtë e #tyre dhe bijat e tyre, gjë që nuk e kisha urdhëruar dhe që nuk më kishte shkuar kurrë në mendje."
+"Prandaj ja, vijnë ditët"", thotë Zoti, ""në të cilat nuk do të quhet më ""Tofet"" as ""Lugina e birit të Hinomit"", #por ""Lugina e masakrës"", dhe do të varrosen të vdekurit në Tofet, sepse nuk do të ketë vend gjetiu."
 "Kufomat e këtij populli do të bëhen kështu ushqim për shpendët e qiellit dhe për kafshët e tokës, dhe askush nuk do t'i trembë."
 "Do të bëj që të pushojnë në qytetet e Judës dhe në rrugët e Jeruzalemit britmat e ngazëllimit dhe britmat e gëzimit, zëri i dhëndrit dhe zëri i nuses, sepse vendi do të bëhet shkretim""."

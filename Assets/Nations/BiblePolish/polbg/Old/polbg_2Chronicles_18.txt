@@ -6,7 +6,7 @@
 "Ale Jozafat rzekł
 "I rzekł król Izraelski do Jozafata
 "Tedy zawołał król Izraelski niektórego komornika, i rzekł
-"Międzytem król Izraelski, i Jozafat, król Judzki, siedzieli każdy z nich na stolicy swojej, ubrani w szaty królewskie, a siedzieli na placu u wrót bramy Samaryjskiej, a wszyscy prorocy prorokowali przed nimi."
+"Międzytem król Izraelski, i Jozafat, król Judzki, siedzieli każdy z nich na stolicy swojej, ubrani w szaty #królewskie, a siedzieli na placu u wrót bramy Samaryjskiej, a wszyscy prorocy prorokowali przed nimi."
 "A Sedechyjasz, syn Chanaanowy, sprawił sobie rogi żelazne, i rzekł
 "Toż wszyscy prorocy prorokowali, mówiąc
 "Tedy poseł, który chodził, aby przyzwał Micheasza, rzekł do niego, mówiąc

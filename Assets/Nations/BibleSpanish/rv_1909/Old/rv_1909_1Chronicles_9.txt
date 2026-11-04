@@ -16,10 +16,10 @@
 "Y Obadías hijo de Semeías, hijo de Galal, hijo de Iduthum
 "Y los porteros
 "Y hasta ahora entre las cuadrillas de los hijos de Leví han sido estos los porteros en la puerta del rey que está al oriente."
-"Y Sallum hijo de Core, hijo de Abiasath, hijo de Corah, y sus hermanos los Coraitas por la casa de su padre, tuvieron cargo de la obra del ministerio, guardando las puertas del tabernáculo; y sus padres fueron sobre la cuadrilla de Jehová guardas de la en"
+"Y Sallum hijo de Core, hijo de Abiasath, hijo de Corah, y sus hermanos los Coraitas por la casa de su padre, tuvieron cargo #de la obra del ministerio, guardando las puertas del tabernáculo; y sus padres fueron sobre la cuadrilla de Jehová guardas de la en"
 "Y Phinees hijo de Eleazar fué antes capitán sobre ellos, siendo Jehová con él."
 "Y Zacarías hijo de Meselemia era portero de la puerta del tabernáculo del testimonio."
-"Todos estos, escogidos para guardas en las puertas, eran doscientos doce cuando fueron contados por el orden de sus linajes en sus villas, á los cuales constituyó en su oficio David y Samuel el vidente."
+"Todos estos, escogidos para guardas en las puertas, eran doscientos doce cuando fueron contados por el orden de #sus linajes en sus villas, á los cuales constituyó en su oficio David y Samuel el vidente."
 "Así ellos y sus hijos eran porteros por sus turnos á las puertas de la casa de Jehová, y de la casa del tabernáculo."
 "Y estaban los porteros á los cuatro vientos, al oriente, al occidente, al septentrión, y al mediodía."
 "Y sus hermanos que estaban en sus aldeas, venían cada siete días por sus tiempos con ellos."

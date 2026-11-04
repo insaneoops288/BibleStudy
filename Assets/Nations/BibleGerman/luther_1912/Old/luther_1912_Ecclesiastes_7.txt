@@ -23,7 +23,7 @@
 "Solches alles habe ich versucht mit Weisheit. Ich gedachte, ich will weise sein; sie blieb aber ferne von mir."
 "Alles, was da ist, das ist ferne und sehr tief; wer will's finden?"
 "Ich kehrte mein Herz, zu erfahren und erforschen und zu suchen Weisheit und Kunst, zu erfahren der Gottlosen Torheit und Irrtum der Tollen,"
-"und fand, daß bitterer sei denn der Tod ein solches Weib, dessen Herz Netz und Strick ist und deren Hände Bande sind. Wer Gott gefällt, der wird ihr entrinnen; aber der Sünder wird durch sie gefangen.{~}"
+"und fand, daß bitterer sei denn der Tod ein solches Weib, dessen Herz Netz und Strick ist und deren #Hände Bande sind. Wer Gott gefällt, der wird ihr entrinnen; aber der Sünder wird durch sie gefangen.{~}"
 "Schau, das habe ich gefunden, spricht der Prediger, eins nach dem andern, daß ich Erkenntnis fände."
 "Und meine Seele sucht noch und hat's nicht gefunden
 "Allein schaue das

@@ -5,7 +5,7 @@
 "Ils appelèrent Lot, et lui dirent
 "Lot sortit vers eux à l'entrée de la maison, et ferma la porte derrière lui."
 "Et il dit
-"Voici, j'ai deux filles qui n'ont point connu d'homme; je vous les amènerai dehors, et vous leur ferez ce qu'il vous plaira. Seulement, ne faites rien à ces hommes puisqu'ils sont venus à l'ombre de mon toit."
+"Voici, j'ai deux filles qui n'ont point connu d'homme; je vous les amènerai dehors, et vous leur ferez ce #qu'il vous plaira. Seulement, ne faites rien à ces hommes puisqu'ils sont venus à l'ombre de mon toit."
 "Ils dirent
 "Les hommes étendirent la main, firent rentrer Lot vers eux dans la maison, et fermèrent la porte."
 "Et ils frappèrent d'aveuglement les gens qui étaient à l'entrée de la maison, depuis le plus petit jusqu'au plus grand, de sorte qu'ils se donnèrent une peine inutile pour trouver la porte."
@@ -16,7 +16,7 @@
 "Et comme il tardait, les hommes le saisirent par la main, lui, sa femme et ses deux filles, car l'Eternel voulait l'épargner; ils l'emmenèrent, et le laissèrent hors de la ville."
 "Après les avoir fait sortir, l'un d'eux dit
 "Lot leur dit
-"Voici, j'ai trouvé grâce à tes yeux, et tu as montré la grandeur de ta miséricorde à mon égard, en me conservant la vie; mais je ne puis me sauver à la montagne, avant que le désastre m'atteigne, et je périrai."
+"Voici, j'ai trouvé grâce à tes yeux, et tu as montré la grandeur de ta miséricorde à mon égard, en me #conservant la vie; mais je ne puis me sauver à la montagne, avant que le désastre m'atteigne, et je périrai."
 "Voici, cette ville est assez proche pour que je m'y réfugie, et elle est petite. Oh! que je puisse m'y sauver,... n'est-elle pas petite?... et que mon âme vive!"
 "Et il lui dit
 "Hâte-toi de t'y réfugier, car je ne puis rien faire jusqu'à ce que tu y sois arrivé. C'est pour cela que l'on a donné à cette ville le nom de Tsoar."

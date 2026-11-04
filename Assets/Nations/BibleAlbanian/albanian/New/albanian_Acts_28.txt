@@ -20,11 +20,11 @@
 "Për këtë arsye, pra, ju kam thirrur, ë t'ju shoh dhe t'ju flas, sepse për shpresën e Izraelit jam lidhur me këta hekura''."
 "Edhe ata i thanë
 "Por ne dëshirojmë të dëgjojmë prej teje ç'mendon, sepse për këtë sekt ne dimë se kudo flitet kundra''."
-"Dhe, mbasi i caktuan një ditë, erdhën shumë veta tek ai në banesën e tij; dhe ai shtjellonte dhe u dëshmonte atyre për mbretërinë e Perëndisë dhe, me anë të ligjit të Moisiut dhe të profetëve kërkonte"
+"Dhe, mbasi i caktuan një ditë, erdhën shumë veta tek ai në banesën e tij; dhe ai shtjellonte dhe #u dëshmonte atyre për mbretërinë e Perëndisë dhe, me anë të ligjit të Moisiut dhe të profetëve kërkonte"
 "Disa bindeshin nga ato që u thoshte, por të tjerë nuk besonin."
 "Dhe, duke qenë në mospajtim njëri me tjetrin, u larguan, pasi Pali u tha pikërisht këto fjalë
 "duke thënë
-"në fakt zemra e këtij populli u bë e ngurtë, dhe i janë rënduar veshët dhe kanë mbyllur sytë, që të mos shohin me sy dhe të mos dëgjojnë me veshë dhe të mos kuptojnë me zemër dhe të mos kthehen dhe unë të mos i shëroj."
+"në fakt zemra e këtij populli u bë e ngurtë, dhe i janë rënduar veshët dhe kanë mbyllur sytë, që të mos shohin me #sy dhe të mos dëgjojnë me veshë dhe të mos kuptojnë me zemër dhe të mos kthehen dhe unë të mos i shëroj."
 "Ta dini, pra, se ky shpëtim i Perëndisë iu dërgua johebrenjve, dhe ata do ta dëgjojnë!''."
 "Dhe si i tha këto fjalë, Judenjve ikën duke u ngrënë me shumë fjalë njëri me tjetrin."
 "Dhe Pali ndenji plot dy vjet në shtëpinë që kishte marrë me qira dhe priste të gjithë ata që vinin tek ai,"

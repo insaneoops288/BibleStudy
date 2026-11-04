@@ -1,6 +1,6 @@
 "Und dies sind die Gebote, die Satzungen und die Rechte, welche Jehova, euer Gott, geboten hat, euch zu lehren, damit ihr sie tuet in dem Lande, wohin ihr hinüberziehet, um es in Besitz zu nehmen;"
-"auf daß du Jehova, deinen Gott, fürchtest alle Tage deines Lebens, um zu beobachten alle seine Satzungen und seine Gebote, die ich dir gebiete, du und dein Sohn und deines Sohnes Sohn, und auf daß deine Tage sich verlängern."
-"So höre denn, Israel, und achte darauf, sie zu tun, damit es dir wohlgehe, und ihr euch sehr mehret, so wie Jehova, der Gott deiner Väter, zu dir geredet hat, in einem Lande, das von Milch und Honig fließt!"
+"auf daß du Jehova, deinen Gott, fürchtest alle Tage deines Lebens, um zu beobachten alle seine Satzungen und seine Gebote, #die ich dir gebiete, du und dein Sohn und deines Sohnes Sohn, und auf daß deine Tage sich verlängern."
+"So höre denn, Israel, und achte darauf, sie zu tun, damit es dir wohlgehe, und ihr euch sehr mehret, so #wie Jehova, der Gott deiner Väter, zu dir geredet hat, in einem Lande, das von Milch und Honig fließt!"
 "Höre Israel
 "Und du sollst Jehova, deinen Gott, lieben mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deiner ganzen Kraft."
 "Und diese Worte, die ich dir heute gebiete, sollen auf deinem Herzen sein."

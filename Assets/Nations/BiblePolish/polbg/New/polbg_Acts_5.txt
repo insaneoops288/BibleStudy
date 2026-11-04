@@ -18,7 +18,7 @@
 "I targnęli się rękoma na Apostoły i podali je do więzienia pospolitego."
 "Ale Anioł Pański w nocy otworzył drzwi u więzienia, a wywiódłszy je rzekł
 "Idźcież, a stawiwszy się, mówcie do ludu w kościele wszystkie słowa tego żywota."
-"Tedy oni usłyszawszy to, weszli na świtaniu do kościoła i uczyli. A przyszedłszy najwyższy kapłan i którzy z nim byli, zwołali radę i wszystkie starsze synów Izraelskich, i posłali do więzienia, aby byli przywiedzieni."
+"Tedy oni usłyszawszy to, weszli na świtaniu do kościoła i uczyli. A przyszedłszy najwyższy kapłan i którzy z #nim byli, zwołali radę i wszystkie starsze synów Izraelskich, i posłali do więzienia, aby byli przywiedzieni."
 "A gdy słudzy przyszli, nie znaleźli ich w więzieniu, co wróciwszy się, oznajmili, mówiąc
 "Więzienieć wprawdzie znaleźliśmy zamknione ze wszelką pilnością i stróże na dworze przede drzwiami stojące, lecz otworzywszy, żadnegośmy w niem nie znaleźli."
 "A gdy te słowa usłyszeli i najwyższy kapłan, i hetman kościelny, i przedniejsi kapłani wątpili o nich, co by to było."
@@ -33,7 +33,7 @@
 "A oni to słysząc, pukali się i radzili o tem, jakoby je zgładzić."
 "Tedy powstawszy w radzie niektóry Faryzeusz, imieniem Gamalijel, nauczyciel zakonny, zacny u wszystkiego ludu, rozkazał, aby na małą chwilę precz wywiedziono Apostoły;"
 "I rzekł do nich
-"Albowiem przed temi dniami powstał był Teudas, udawając się za coś, do którego się przywiązało mężów w liczbie około czterechset; którego zabito, a wszyscy, którzy z nim przestawali, rozproszeni są i wniwecz się obrócili."
+"Albowiem przed temi dniami powstał był Teudas, udawając się za coś, do którego się przywiązało mężów w liczbie #około czterechset; którego zabito, a wszyscy, którzy z nim przestawali, rozproszeni są i wniwecz się obrócili."
 "Po nim powstał Judas Galilejczyk za dni popisu i uwiódł wiele ludu za sobą; ale i on zginął, i wszyscy, którzy z nim przestawali, rozproszeni są."
 "Przetoż teraz powiadam wam
 "Ale jeźlić jest z Boga, nie będziecie mogli tego rozerwać, byście snać i z Bogiem walczącymi nie byli znalezieni."

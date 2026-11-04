@@ -9,7 +9,7 @@
 "Potom vstal i David, a vyšed z jeskyně, volal za Saulem, řka
 "A řekl David Saulovi
 "Aj, dnešního dne viděti mohly oči tvé, že tě byl vydal Hospodin dnes v ruku mou v jeskyni. A byloť mi řečeno, abych tě zabil, ale šanoval jsem tě; nebo řekl jsem
-"Nýbrž, otče můj, pohleď a viz kus pláště svého v ruce mé, a žeť jsem nechtěl, odřezuje křídlo pláště tvého, zabiti tebe. Poznejž tedy a viz, žeť není v úmysle mém nic zlého, ani jaké převrácenosti, a žeť jsem nezhřešil proti tobě; ty pak číháš na duši mou, abys mi ji odjal."
+"Nýbrž, otče můj, pohleď a viz kus pláště svého v ruce mé, a žeť jsem nechtěl, odřezuje křídlo pláště tvého, zabiti tebe. Poznejž tedy a viz, žeť #není v úmysle mém nic zlého, ani jaké převrácenosti, a žeť jsem nezhřešil proti tobě; ty pak číháš na duši mou, abys mi ji odjal."
 "Sudiž Hospodin mezi mnou a mezi tebou, a pomstiž mne Hospodin nad tebou, ale ruka má nebude proti tobě."
 "Jakož vzní ono přísloví starých
 "Na koho to jen vytáhl král Izraelský? Koho to honíš? Psa mrtvého, blechu jednu."

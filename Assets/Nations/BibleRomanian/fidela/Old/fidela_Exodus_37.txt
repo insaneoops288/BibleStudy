@@ -16,7 +16,7 @@
 "Și a făcut vasele care [erau] pe masă, farfuriile ei și lingurile ei și bolurile ei și capacele ei cu care să le acopere, [din] aur pur."
 "Și a făcut sfeșnicul [din] aur pur; a făcut sfeșnicul [dintr-o] lucrare [din aur] bătut; stâlpul lui și brațul lui, bolurile lui, nodurile lui și florile lui erau din aceeași [lucrare bătută]."
 "Și șase brațe ieșeau din laturile lui
-"Trei cupe făcute asemenea migdalelor pe un braț, un nod și o floare; și trei boluri făcute asemenea migdalelor pe alt braț, un nod și o floare; astfel [să fie făcute] pe cele șase brațe ieșind din sfeșnic."
+"Trei cupe făcute asemenea migdalelor pe un braț, un nod și o floare; și trei boluri făcute asemenea migdalelor pe #alt braț, un nod și o floare; astfel [să fie făcute] pe cele șase brațe ieșind din sfeșnic."
 "Și pe sfeșnic [erau] patru boluri făcute ca migdale, nodurile lui și florile lui;"
 "Și un nod sub două brațe ale lui și un nod sub două brațe ale lui și un nod sub două brațe ale lui, conform celor șase brațe ieșind din acesta."
 "Nodurile lor și brațele lor erau la fel; toate acestea [erau] o singură lucrare bătută [din] aur pur."

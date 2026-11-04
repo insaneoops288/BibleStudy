@@ -2,7 +2,7 @@
 "Pierwej niż się zaćmi słońce, i światło, i miesiąc i gwiazdy, a nawrócą się obłoki po dżdżu."
 "W dzień, którego się poruszą stróże domowi, i zachwieją się mężowie duży i ustaną melący, przeto, iż ich mało będzie, i zaćmią się wyglądający oknami;"
 "I zawrą się drzwi z dworu z słabym głosem mełcia; i powstanie na głos ptaszy, i ustaną wszystkie córki śpiewające."
-"Nawet i wysokiego miejsca bać się będą, i będą się lękać na drodze, gdy zakwitnie migdałowe drzewo, także i szarańcza będzie mu ciężka, i żądza go ominie; bo człowiek idzie do domu wiecznego, a płaczący po ulicach chodzić będą,"
+"Nawet i wysokiego miejsca bać się będą, i będą się lękać na drodze, gdy zakwitnie migdałowe drzewo, także i szarańcza #będzie mu ciężka, i żądza go ominie; bo człowiek idzie do domu wiecznego, a płaczący po ulicach chodzić będą,"
 "Pierwej niż się przerwie sznur srebrny, i niż się stłucze czasza złota, a rozsypie się wiadro nad zdrojem, a skruszy się koło nad studnią;"
 "I wróci się proch do ziemi, jako przedtem był, a duch wróci się do Boga, który go dał."
 "Marność nad marnościami, mówi kaznodzieja, a wszystko marność."

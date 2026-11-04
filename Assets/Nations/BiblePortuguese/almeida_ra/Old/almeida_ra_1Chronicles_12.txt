@@ -5,7 +5,7 @@
 "Eluzai, Jerimot, Baalias, Semarias e Sefatias, o harufita;"
 "Elcana, Jisias, Azarel, Joézer e Jachobam, os coraítas;"
 "e Joela e Zebadias, filhos de Jeroam de Guedor."
-"Dos gaditas se passaram para David, ao lugar forte no deserto, homens valentes adestrados para a guerra, que sabiam manejar escudo e lança; seus rostos eram como rostos de leões, e eles eram tão ligeiros como corças sobre os montes."
+"Dos gaditas se passaram para David, ao lugar forte no deserto, homens valentes adestrados para a guerra, que sabiam manejar escudo #e lança; seus rostos eram como rostos de leões, e eles eram tão ligeiros como corças sobre os montes."
 "Ézer era o chefe, Obadias o segundo, Eliab o terceiro,"
 "Mismana o quarto, Jeremias o quinto,"
 "Atai o sexto, Eliel o sétimo,"
@@ -16,7 +16,7 @@
 "Igualmente alguns dos filhos de Benjamim e de Judá vieram a David, ao lugar forte."
 "David saiu-lhes ao encontro e lhes disse
 "Então veio o espírito sobre Amassai, chefe dos trinta, que disse
-"Também de Manassés alguns se passaram para David; foi quando ele veio com os filisteus para a batalha contra Saul; todavia não os ajudou, pois os chefes dos filisteus tendo feito conselho, o despediram, dizendo
+"Também de Manassés alguns se passaram para David; foi quando ele veio com os filisteus para a batalha #contra Saul; todavia não os ajudou, pois os chefes dos filisteus tendo feito conselho, o despediram, dizendo
 "Voltando ele, pois, a Ziclague, passaram-se para ele, de Manassés
 "E estes ajudaram a David contra a tropa de saqueadores, pois todos eles eram heróis valentes, e foram chefes no exército."
 "De dia em dia concorriam a David para o ajudar, até que se fez um grande exército, como o exército de Deus."
@@ -35,6 +35,6 @@
 "dos danitas vinte e oito mil e seiscentos, destros para ordenarem a batalha;"
 "de Aser, dos que podiam sair no exército e ordenar a batalha, quarenta mil;"
 "da outra banda do Jordão, dos rubenitas e gaditas, e da meia tribo de Manassés, com toda sorte de instrumentos de guerra para pelejar, cento e vinte mil."
-"Todos estes, homens de guerra, que sabiam ordenar a batalha, vieram a Hebron com inteireza de coração, para constituir David rei sobre todo o Israel; e também todo o resto de Israel estava de um só coração para constituir David rei."
+"Todos estes, homens de guerra, que sabiam ordenar a batalha, vieram a Hebron com inteireza de coração, para constituir David rei #sobre todo o Israel; e também todo o resto de Israel estava de um só coração para constituir David rei."
 "E estiveram ali com David três dias, comendo e bebendo, pois seus irmãos lhes tinham preparado as provisões."
-"Também da vizinhança, e mesmo desde Issacar, Zabulão e Neftali, trouxeram sobre jumentos, e camelos, e mulos e bois, pão, provisões de farinha, pastas de figos e cachos de passas, vinho e azeite, bois e gado miúdo em abundância; porque havia alegria em Israel."
+"Também da vizinhança, e mesmo desde Issacar, Zabulão e Neftali, trouxeram sobre jumentos, e camelos, e mulos e bois, pão, provisões de farinha, #pastas de figos e cachos de passas, vinho e azeite, bois e gado miúdo em abundância; porque havia alegria em Israel."

@@ -16,8 +16,8 @@ So the LORD said to Moses, "Pharaoh's heart is hard; he refuses to let the peopl
 "And you shall say to him, 'The LORD God of the Hebrews has sent me to you, saying, "Let My people go, that they may serve Me in the wilderness"; but indeed, until now you would not hear!
 'Thus says the LORd, "By this you shall know that I am the LORD. Behold, I will strike the waters which are in the river with the rod that is in my hand, and they shall be turned to blood.
 "And the fish that are in the river shall die, the river shall stink, and the Egyptians will loathe to drink the water of the river."'"
-Then the LORD spoke to Moses, "Say to Aaron, 'Take your rod and stretch out your hand over the waters of Egypt, over their streams, over their rivers, over their ponds, and over all their pools of water, that they may become blood. And there shall be blood throughout all the land of Egypt, both in buckets of wood and pitchers of stone.'"
-And Moses and Aaron did so, just as the LORD commanded. So he lifted up the rod and struck the waters that were in the river, in the sight of Pharaoh and in the sight of his servants. And all the waters that were in the river were turned to blood.
+Then the LORD spoke to Moses, "Say to Aaron, 'Take your rod and stretch out your hand over the waters of Egypt, over their streams, over their rivers, over their ponds, and #over all their pools of water, that they may become blood. And there shall be blood throughout all the land of Egypt, both in buckets of wood and pitchers of stone.'"
+And Moses and Aaron did so, just as the LORD commanded. So he lifted up the rod and struck the waters that were in the river, #in the sight of Pharaoh and in the sight of his servants. And all the waters that were in the river were turned to blood.
 The fish that were in the river died, the river stank, and the Egyptians could not drink the water of the river. So there was blood throughout all the land of Egypt.
 Then the magicians of Egypt did so with their enchantments; and Pharaoh's heart grew hard, and he did not heed them, as the LORD had said.
 And Pharaoh turned and went into his house. Neither was his heart moved by this.

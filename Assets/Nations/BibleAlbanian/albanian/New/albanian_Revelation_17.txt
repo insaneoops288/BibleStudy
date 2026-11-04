@@ -5,7 +5,7 @@
 "Dhe mbi ballin e saj ishte shkruar një emër
 "Dhe e pashë gruan duke u dehur nga gjaku i shenjtorëve dhe nga gjaku i martirëve të Jezusit. Dhe, kur e pashë, u çudita me çudi të madhe."
 "Dhe engjëlli më tha
-"Bisha, që pe, ishte, edhe nuk është, dhe do të ngjitet nga humnera dhe do të vejë në përhumbje; dhe banorët e dheut, emrat e të cilëve nuk janë shkruar në librin e jetës që nga krijimi i botës, do të çuditen kur të shohin bishën që ishte, dhe nuk është, ndonëse është."
+"Bisha, që pe, ishte, edhe nuk është, dhe do të ngjitet nga humnera dhe do të vejë në përhumbje; dhe banorët e dheut, emrat e të cilëve #nuk janë shkruar në librin e jetës që nga krijimi i botës, do të çuditen kur të shohin bishën që ishte, dhe nuk është, ndonëse është."
 "Këtu është mendja që ka dituri
 "dhe mbretër janë shtatë; pesë kanë rënë, një është dhe tjetri nuk ka ardhur ende; dhe, kur të vijë, pak kohë do të mbetet."
 "Dhe bisha që ishte, dhe nuk është më, është edhe ajo i teti mbret, dhe është nga të shtatët dhe shkon në përhumbje."

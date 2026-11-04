@@ -18,7 +18,7 @@
 "Et moi, je te dis aussi que tu es Pierre, et que sur cette pierre je bâtirai mon Église, et les portes de l'enfer ne prévaudront point contre elle."
 "Et je te donnerai les clefs du royaume des cieux; et tout ce que tu lieras sur la terre sera lié dans les cieux; et tout ce que tu délieras sur la terre sera délié dans les cieux."
 "Alors il défendit à ses disciples de dire à personne que lui, Jésus, fût le Christ."
-"Dès lors Jésus commença à déclarer à ses disciples qu'il fallait qu'il allât à Jérusalem, et qu'il y souffrît beaucoup de la part des sénateurs, et des principaux sacrificateurs, et des scribes, et qu'il y fût mis à mort, et qu'il ressuscitât le troisième jour."
+"Dès lors Jésus commença à déclarer à ses disciples qu'il fallait qu'il allât à Jérusalem, et qu'il y souffrît beaucoup de la part #des sénateurs, et des principaux sacrificateurs, et des scribes, et qu'il y fût mis à mort, et qu'il ressuscitât le troisième jour."
 "Alors Pierre, l'ayant pris à part, se mit à le reprendre et à lui dire
 "Mais Jésus, se tournant, dit à Pierre
 "Alors Jésus dit à ses disciples

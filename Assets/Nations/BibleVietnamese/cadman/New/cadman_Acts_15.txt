@@ -1,5 +1,5 @@
 "Vả, có mấy người từ xứ Giu-đê đến, dạy các anh em rằng
-"Nhơn đó, có sự khác ý và cuộc cãi lẽ dữ dội giữa Phao-lô và Ba-na-ba với mấy người đó, người ta nhứt định Phao-lô và Ba-na-ba với mấy người trong bọn kia đi lên thành Giê-ru-sa-lem, đến cùng các sứ đồ và trưởng lão đặng hỏi về việc nầy."
+"Nhơn đó, có sự khác ý và cuộc cãi lẽ dữ dội giữa Phao-lô và Ba-na-ba với mấy người đó, người ta nhứt định Phao-lô và #Ba-na-ba với mấy người trong bọn kia đi lên thành Giê-ru-sa-lem, đến cùng các sứ đồ và trưởng lão đặng hỏi về việc nầy."
 "Vậy, sau khi các ngươi ấy được Hội thánh đưa đường rồi, thì trải qua xứ Phê-ni-xi và xứ Sa-ma-ri, thuật lại sự người ngoại trở về đạo, và như vậy làm cho anh em thay thảy được vui mừng lắm."
 "Vừa tới thành Giê-ru-sa-lem, được Hội thánh, các sứ đồ và trưởng lão tiếp rước, rồi thuật lại mọi điều Ðức Chúa Trời đã cậy mình làm."
 "Nhưng có mấy kẻ về đảng Pha-ri-si đã tin đạo, đứng dậy nói rằng phải làm phép cắt bì cho những người ngoại, và truyền họ phải tuân theo luật pháp Môi-se."
@@ -19,7 +19,7 @@
 "Vậy, theo ý tôi, thật chẳng nên khuấy rối những người ngoại trở về cùng Ðức Chúa Trời;"
 "song khá viết thơ dặn họ kiêng giữ cho khỏi sự ô uế của thần tượng, sự tà dâm, sự ăn thịt thú vật chết ngột và huyết."
 "Vì trải bao nhiêu đời nay, trong mỗi thành vẫn có người giảng luật pháp Môi-se, bởi mọi ngày Sa-bát, trong các nhà hội người ta có đọc luật ấy."
-"Kế đó, các sứ đồ và trưởng lão cùng cả Hội thánh bèn quyết định sai những người được chọn ở nơi mình đi với Phao-lô và Ba-na-ba đến thành An-ti-ốt. Ấy là Giu-đe, cũng gọi là Ba-sa-ba, và Si-la, là hai người đứng đầu trong hàng anh em;"
+"Kế đó, các sứ đồ và trưởng lão cùng cả Hội thánh bèn quyết định sai những người được chọn ở nơi mình đi với #Phao-lô và Ba-na-ba đến thành An-ti-ốt. Ấy là Giu-đe, cũng gọi là Ba-sa-ba, và Si-la, là hai người đứng đầu trong hàng anh em;"
 "rồi giao cho hai người bức thơ như sau nầy
 "Bởi từng nghe có một vài người trong vòng chúng ta, chẳng lãnh mạng lịnh nào nơi chúng ta, tự lấy lời mình khuấy rối, và biến loạn lòng các ngươi nữa,"
 "nên chúng ta đồng lòng quyết ý chọn những người thay mặt sai đi cũng kẻ rất yêu dấu của chúng ta là Ba-na-ba và Phao-lô, mà đến nơi các ngươi;"

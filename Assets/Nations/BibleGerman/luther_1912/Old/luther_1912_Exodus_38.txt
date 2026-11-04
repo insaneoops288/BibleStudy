@@ -15,7 +15,7 @@
 "und auf der andern Seite auch fünfzehn Ellen mit drei Säulen und drei Füßen, daß ihrer so viele waren an der einen Seite des Tors am Vorhofe als an der andern.{~}"
 "Alle Umhänge des Vorhofs waren von gezwirnter weißer Leinwand{~}"
 "und die Füße der Säulen von Erz und ihre Haken und Querstäbe von Silber, also daß ihre Köpfeüberzogen waren mit Silber. Und ihre Querstäbe waren silbern an allen Säulen des Vorhofs."
-"Und das Tuch in dem Tor des Vorhofs machte er gestickt von blauem und rotem Purpur, Scharlach und gezwirnter weißer Leinwand, zwanzig Ellen lang und fünf Ellen hoch, nach dem Maß der Umhänge des Vorhofs."
+"Und das Tuch in dem Tor des Vorhofs machte er gestickt von blauem und rotem Purpur, Scharlach und #gezwirnter weißer Leinwand, zwanzig Ellen lang und fünf Ellen hoch, nach dem Maß der Umhänge des Vorhofs."
 "Dazu vier Säulen und vier Füße von Erz, und ihre Haken von Silber und ihre Köpfe und ihre Querstäbeüberzogen mit Silber."
 "Und alle Nägel der Wohnung und des Vorhofs ringsherum waren von Erz."
 "Das ist nun die Summe zu der Wohnung des Zeugnisses, die gezählt ward, wie Mose geboten hatte, durch den Dienst der Leviten unter der Hand Ithamars, des Sohnes Aarons, des Priesters.{~}"

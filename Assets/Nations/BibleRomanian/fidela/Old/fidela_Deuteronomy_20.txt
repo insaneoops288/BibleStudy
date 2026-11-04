@@ -1,4 +1,4 @@
-"Când ieşi la bătălie împotriva duşmanilor tăi şi vezi cai şi care[ şi ]un popor mai mare la număr decât tine, să nu te temi de ei, pentru că DOMNUL Dumnezeul tău, care te-a scos din ţara Egiptului, [este] cu tine."
+"Când ieşi la bătălie împotriva duşmanilor tăi şi vezi cai şi care[ şi ]un popor mai mare la număr decât tine, #să nu te temi de ei, pentru că DOMNUL Dumnezeul tău, care te-a scos din ţara Egiptului, [este] cu tine."
 "Şi va fi [astfel], când vă veţi fi apropiat de bătălie, preotul să se apropie şi să vorbească poporului."
 "Şi să le spună
 "Pentru că DOMNUL Dumnezeul vostru [este] cel care merge cu voi, ca să lupte pentru voi împotriva duşmanilor voştri să vă salveze."
@@ -16,5 +16,5 @@
 "Dar din cetăţile acestor popoare, pe care ţi le dă DOMNUL Dumnezeul tău [ca] moştenire, să nu laşi viu nimic ce respiră,"
 "Ci să îi nimiceşti în întregime
 "Ca să nu vă înveţe să faceţi după toate urâciunile lor, pe care le-au făcut dumnezeilor lor, şi să păcătuiţi împotriva DOMNULUI Dumnezeul vostru."
-"Când vei asedia o cetate mult timp, făcând război împotriva ei ca să o iei, să nu îi distrugi pomii dând cu securea în ei, pentru că poţi să mănânci din ei şi să nu îi retezi (pentru că pomul câmpului [este] [viaţa] omului) pentru a-[i] folosi în asediu,"
+"Când vei asedia o cetate mult timp, făcând război împotriva ei ca să o iei, să nu îi distrugi pomii dând cu securea în ei, #pentru că poţi să mănânci din ei şi să nu îi retezi (pentru că pomul câmpului [este] [viaţa] omului) pentru a-[i] folosi în asediu,"
 "Numai pomii, pe care îi cunoşti că nu [sunt] pomi pentru hrană, să îi distrugi şi să îi retezi; şi să ridici întărituri împotriva cetăţii care face război cu tine, până când este cucerită."

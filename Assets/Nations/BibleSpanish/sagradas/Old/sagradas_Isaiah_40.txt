@@ -21,7 +21,7 @@
 "¿No sabéis? ¿No habéis oído? ¿Nunca os lo han dicho desde el principio? ¿No habéis sido enseñados desde que la tierra se fundó?"
 "El está sentado sobre el globo de la tierra, cuyos moradores <I>le</I>  son como langostas; él extiende los cielos como <I>una</I>  cortina, los despliega como <I>una</I>  tienda para morar;"
 "el torna en nada <I>a</I>  los poderosos, y a los que gobiernan la tierra hace como que no hubieran sido."
-"Como si nunca fueran plantados, como si nunca fueran sembrados, como si nunca su tronco hubiera tenido raíz en la tierra; y aun soplando en ellos se secan, y el torbellino los lleva como hojarasca."
+"Como si nunca fueran plantados, como si nunca fueran sembrados, como si nunca su tronco hubiera tenido raíz #en la tierra; y aun soplando en ellos se secan, y el torbellino los lleva como hojarasca."
 "¿Y a qué, me haréis semejante, para que me comparéis? Dice el Santo."
 "Levantad en alto vuestros ojos y mirad quién creó estas cosas
 "¿Por qué dices, <I>oh</I>  Jacob, y hablas <I>tú</I> , Israel

@@ -1,7 +1,7 @@
 "Ainsi parle l'Eternel
 "Tu diras
 "Ainsi parle l'Eternel
-"Car si vous agissez selon cette parole, les rois assis sur le trône de David entreront par les portes de cette maison, montés sur des chars et sur des chevaux, eux, leurs serviteurs et leur peuple."
+"Car si vous agissez selon cette parole, les rois assis sur le trône de David entreront par les portes #de cette maison, montés sur des chars et sur des chevaux, eux, leurs serviteurs et leur peuple."
 "Mais si vous n'écoutez pas ces paroles, je le jure par moi-même, dit l'Eternel, cette maison deviendra une ruine."
 "Car ainsi parle l'Eternel sur la maison du roi de Juda
 "Je prépare contre toi des destructeurs, Chacun avec ses armes; Ils abattront tes plus beaux cèdres, Et les jetteront au feu."

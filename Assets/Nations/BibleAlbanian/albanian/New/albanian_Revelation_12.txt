@@ -1,6 +1,6 @@
 "Ishte shtatzënë e bërtiste nga dhembjet dhe mundimet e lindjes."
 "Dhe u duk një shenjë tjetër në qiell
-"Dhe bishti i tij tërhiqte pas vetes të tretën pjesë te yjeve të qiellit dhe i hodhi mbi tokë. Dhe dragoi qëndroi përpara gruas që ishte gati për të lindur, për të gllabëruar birin e saj kur ta kishte lindur."
+"Dhe bishti i tij tërhiqte pas vetes të tretën pjesë te yjeve të qiellit dhe i hodhi mbi tokë. Dhe dragoi #qëndroi përpara gruas që ishte gati për të lindur, për të gllabëruar birin e saj kur ta kishte lindur."
 "Dhe ajo lindi një bir mashkull, i cili duhet të qeverisë gjithë kombet me skeptër të hekurt; dhe biri i saj u rrëmbye pranë Perëndisë dhe fronit të tij."
 "Dhe gruaja iku në shkretëtirë, ku kishte vend të përgatitur nga Perëndia, që të ushqehet atje një mijë e dyqind e gjashtëdhjetë ditë."
 "Edhe u bë luftë në qiell

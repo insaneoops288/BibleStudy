@@ -1,7 +1,7 @@
 "Tak mówi PAN
 "Bo to wszystko moja ręka uczyniła i dzięki niej powstało to wszystko, mówi PAN. Lecz ja patrzę na tego, który jest ubogi i skruszony w duchu i który drży na moje słowo."
-"Ten, kto zabija wołu na ofiarę, to jakby zabił człowieka; kto zabija na ofiarę barana, to jakby ściął psu głowę; kto przynosi ofiarę, to jakby ofiarował krew świni; kto pali kadzidło, to jakby błogosławił bożkowi. Lecz jak oni wybrali sobie swoje drogi i ich dusza ma upodobanie w obrzydliwościach;"
-"Tak i ja wybiorę ich zmyślenia i sprowadzę na nich to, czego się boją, ponieważ gdy wołałem, nikt się nie odezwał, gdy mówiłem, nie słuchali, ale czynili to, co złe w moich oczach, i wybrali to, co mi się nie podobało."
+"Ten, kto zabija wołu na ofiarę, to jakby zabił człowieka; kto zabija na ofiarę barana, to jakby ściął psu głowę; kto przynosi ofiarę, to jakby #ofiarował krew świni; kto pali kadzidło, to jakby błogosławił bożkowi. Lecz jak oni wybrali sobie swoje drogi i ich dusza ma upodobanie w obrzydliwościach;"
+"Tak i ja wybiorę ich zmyślenia i sprowadzę na nich to, czego się boją, ponieważ gdy wołałem, nikt się nie odezwał, #gdy mówiłem, nie słuchali, ale czynili to, co złe w moich oczach, i wybrali to, co mi się nie podobało."
 "Słuchajcie słowa PANA, wy, którzy drżycie na jego słowo. Wasi bracia, którzy was nienawidzą, którzy wypędzają was ze względu na moje imię, mówią
 "Odgłos zgiełku z miasta, głos ze świątyni, głos PANA oddającego zapłatę swoim wrogom."
 "Zanim odczuła bóle porodu, urodziła, zanim ogarnął ją ból, urodziła chłopca."
@@ -16,8 +16,8 @@
 "Gdyż PAN będzie sądził ogniem i mieczem wszelkie ciało, a wielu będzie pobitych przez PANA."
 "I ci, którzy się uświęcają i oczyszczają w środku ogrodów, jeden za drugim, którzy jedzą mięso wieprzowe oraz inną obrzydliwość, a także myszy, wszyscy razem zginą – mówi PAN."
 "Ja znam bowiem ich uczynki i myśli. I przyjdzie czas, że zgromadzę wszystkie narody i języki, a one przyjdą i ujrzą moją chwałę."
-"I ustanowię wśród nich znak i wyślę ocalałych spośród nich do narodów do Tarszisz, Pul i Lud, a tych, którzy naciągają łuk – do Tubala i Jawan, do wysp dalekich, które nic o mnie nie słyszały i nie widziały mojej chwały; i będą głosić moją chwałę wśród narodów."
-"I przyprowadzą wszystkich waszych braci jako dar dla PANA ze wszystkich narodów, na koniach, na rydwanach, w lektykach, na mułach i na wielbłądach, na moją świętą górę, do Jerozolimy, mówi PAN, tak jak synowie Izraela przynoszą dar w czystym naczyniu do domu PANA."
+"I ustanowię wśród nich znak i wyślę ocalałych spośród nich do narodów do Tarszisz, Pul i Lud, a tych, którzy naciągają łuk – do Tubala #i Jawan, do wysp dalekich, które nic o mnie nie słyszały i nie widziały mojej chwały; i będą głosić moją chwałę wśród narodów."
+"I przyprowadzą wszystkich waszych braci jako dar dla PANA ze wszystkich narodów, na koniach, na rydwanach, w lektykach, na mułach i na #wielbłądach, na moją świętą górę, do Jerozolimy, mówi PAN, tak jak synowie Izraela przynoszą dar w czystym naczyniu do domu PANA."
 "I z nich także wezmę sobie kapłanów i Lewitów, mówi PAN."
 "Jak bowiem to nowe niebo i ta nowa ziemia, które ja uczynię, będą trwać przede mną, mówi PAN, tak będzie trwać wasze potomstwo i wasze imię."
 "I stanie się tak, że od nowiu do nowiu księżyca i od szabatu do szabatu przychodzić będzie wszelkie ciało, aby oddać pokłon przede mną, mówi PAN."

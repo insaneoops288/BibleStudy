@@ -20,9 +20,9 @@
 "És fölgerjede azok bujálkodóihoz, kiknek teste olyan, mint a szamarak teste, és folyásuk, mint lovak folyása."
 "És megemlékezél ifjúságod fajtalankodására, mikor õk, az égyiptomiak, nyomogatták kebledet, hogy szorongassák ifjúságod emlõit."
 "Ennekokáért Oholibá, így szól az Úr Isten
-"Babilon fiait és minden Káldeabelit, Pekódot és Soát és Koát, Assiria minden fiát õ velük, kívánatos ifjakat, helytartókat s fejedelmeket, mindnyájokat, szekérrõl harczolókat s elõkelõket, és lovakon ülõket, mindnyájokat."
-"És jõnek reád szekereknek és kerekeknek tömegével s népek sokaságával, nagy és kis paizszsal és sisakkal körülvesznek téged mindenfelõl, s adok nékik hatalmat az ítéletre, s megítélnek téged az õ ítéletök szerint."
-"És megmutatom rajtad féltõ szerelmemet, s cselekszenek veled kegyetlenül; orrodat s füleidet elmetélik, s maradékod fegyver miatt hull el; õk fiaidat és leányaidat elviszik, s maradékodat tûz emészti meg."
+"Babilon fiait és minden Káldeabelit, Pekódot és Soát és Koát, Assiria minden fiát õ velük, #kívánatos ifjakat, helytartókat s fejedelmeket, mindnyájokat, szekérrõl harczolókat s elõkelõket, és lovakon ülõket, mindnyájokat."
+"És jõnek reád szekereknek és kerekeknek tömegével s népek sokaságával, nagy és kis paizszsal és sisakkal körülvesznek #téged mindenfelõl, s adok nékik hatalmat az ítéletre, s megítélnek téged az õ ítéletök szerint."
+"És megmutatom rajtad féltõ szerelmemet, s cselekszenek veled kegyetlenül; orrodat s füleidet elmetélik, s maradékod #fegyver miatt hull el; õk fiaidat és leányaidat elviszik, s maradékodat tûz emészti meg."
 "S megfosztanak ruháidtól, és elveszik ékességeidet."
 "És véget vetek fajtalanságodnak s Égyiptom földjérõl való paráznaságodnak, s nem emeled föl szemeidet rájok, s Égyiptomra nem emlékezel többé."
 "Mert így szól az Úr Isten

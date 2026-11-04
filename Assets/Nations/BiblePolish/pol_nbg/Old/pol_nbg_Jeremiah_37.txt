@@ -18,4 +18,4 @@
 "Po czym Jeremjasz powiedział do króla Cydkjasza
 "Gdzie są teraz prorocy, którzy wam prorokowali, głosząc
 "Zatem racz mnie wysłuchać, mój panie, królu! Niech moja prośba dojdzie przed twe oblicze; nie odsyłaj mnie do domu Jonatana, kanclerza, bym tam nie zginął!"
-"Zatem król Cydkjasz rozkazał, i odesłał Jeremjasza pod nadzór na dziedzińcu straży. Wydzielano mu na dzień po bochenku chleba z ulicy piekarskiej, dopóki w mieście nie wyczerpał się cały chleb. Tak Jeremjasz pozostawał na dziedzińcu straży."
+"Zatem król Cydkjasz rozkazał, i odesłał Jeremjasza pod nadzór na dziedzińcu straży. Wydzielano mu na dzień po bochenku chleba #z ulicy piekarskiej, dopóki w mieście nie wyczerpał się cały chleb. Tak Jeremjasz pozostawał na dziedzińcu straży."

@@ -9,7 +9,7 @@ They killed the kings of Midian with the rest of their slain, Evi, Rekem, Zur, H
 And the people of Israel took captive the women of Midian and their little ones, and they took as plunder all their cattle, their flocks, and all their goods.
 All their cities in the places where they lived, and all their encampments, they burned with fire,
 and took all the spoil and all the plunder, both of man and of beast.
-Then they brought the captives and the plunder and the spoil to Moses, and to Eleazar the priest, and to the congregation of the people of Israel, at the camp on the plains of Moab by the Jordan at Jericho.
+Then they brought the captives and the plunder and the spoil to Moses, and to Eleazar the priest, and to the #congregation of the people of Israel, at the camp on the plains of Moab by the Jordan at Jericho.
 Moses and Eleazar the priest and all the chiefs of the congregation went to meet them outside the camp.
 And Moses was angry with the officers of the army, the commanders of thousands and the commanders of hundreds, who had come from service in the war.
 Moses said to them, Have you let all the women live?
@@ -20,14 +20,14 @@ Encamp outside the camp seven days. Whoever of you has killed any person and who
 You shall purify every garment, every article of skin, all work of goats’ hair, and every article of wood.
 Then Eleazar the priest said to the men in the army who had gone to battle
 only the gold, the silver, the bronze, the iron, the tin, and the lead,
-everything that can stand the fire, you shall pass through the fire, and it shall be clean. Nevertheless, it shall also be purified with the water for impurity. And whatever cannot stand the fire, you shall pass through the water.
+everything that can stand the fire, you shall pass through the fire, and it shall be clean. Nevertheless, it shall also #be purified with the water for impurity. And whatever cannot stand the fire, you shall pass through the water.
 You must wash your clothes on the seventh day, and you shall be clean. And afterward you may come into the camp.
 The Lord said to Moses,
 Take the count of the plunder that was taken, both of man and of beast, you and Eleazar the priest and the heads of the fathers’ houses of the congregation,
 and divide the plunder into two parts between the warriors who went out to battle and all the congregation.
 And levy for the Lord a tribute from the men of war who went out to battle, one out of five hundred, of the people and of the oxen and of the donkeys and of the flocks.
 Take it from their half and give it to Eleazar the priest as a contribution to the Lord.
-And from the people of Israel’s half you shall take one drawn out of every fifty, of the people, of the oxen, of the donkeys, and of the flocks, of all the cattle, and give them to the Levites who keep guard over the tabernacle of the Lord.
+And from the people of Israel’s half you shall take one drawn out of every fifty, of the people, of the oxen, of the donkeys, #and of the flocks, of all the cattle, and give them to the Levites who keep guard over the tabernacle of the Lord.
 And Moses and Eleazar the priest did as the Lord commanded Moses.
 Now the plunder remaining of the spoil that the army took was 675,000 sheep,
 72,000 cattle,

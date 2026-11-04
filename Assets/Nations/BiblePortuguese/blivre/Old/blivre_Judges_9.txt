@@ -15,13 +15,13 @@
 "E o espinheiro respondeu às árvores
 "Agora, pois, se com verdade e com integridade tendes procedido em fazer rei a Abimeleque, e se o fizestes bem com Jerubaal e com sua casa, e se lhe haveis pagado conforme a obra de suas mãos;"
 "(Pois que meu pai lutou por vós, e expulsou longe sua vida para livrar-vos da mão de Midiã;"
-"E vós vos levantastes hoje contra a casa de meu pai, e matastes seus filhos, setenta homens, sobre uma pedra; e pusestes por rei sobre os de Siquém a Abimeleque, filho de sua criada, porquanto é vosso irmão);"
+"E vós vos levantastes hoje contra a casa de meu pai, e matastes seus filhos, setenta homens, sobre uma pedra; #e pusestes por rei sobre os de Siquém a Abimeleque, filho de sua criada, porquanto é vosso irmão);"
 "Se com verdade e com integridade agistes hoje com Jerubaal e com sua casa, alegrai-vos de Abimeleque, e ele se alegre de vós."
 "E se não, fogo saia de Abimeleque, que consuma aos de Siquém e à casa de Milo; e fogo saia dos de Siquém e da casa de Milo, que consuma a Abimeleque."
 "E fugiu Jotão, e se escapou, e foi-se a Beer, e ali se esteve por causa de Abimeleque seu irmão."
 "E depois que Abimeleque dominou sobre Israel três anos,"
 "Enviou Deus um espírito mau entre Abimeleque e os homens de Siquém
-"Para que o crime dos setenta filhos de Jerubaal, e o sangue deles, viesse a se pôr sobre Abimeleque seu irmão que os matou, e sobre os homens de Siquém que corroboraram as mãos dele para matar a seus irmãos."
+"Para que o crime dos setenta filhos de Jerubaal, e o sangue deles, viesse a se pôr sobre Abimeleque seu irmão #que os matou, e sobre os homens de Siquém que corroboraram as mãos dele para matar a seus irmãos."
 "E puseram-lhe os de Siquém emboscadores nos cumes dos montes, os quais assaltavam a todos os que passavam junto a eles pelo caminho; do que foi dado aviso a Abimeleque."
 "E Gaal filho de Ebede veio com seus irmãos, e passaram a Siquém
 "E saindo ao campo, vindimaram suas vinhas, e pisaram a uva, e fizeram alegrias; e entrando no templo de seus deuses, comeram e beberam, e amaldiçoaram a Abimeleque."
@@ -45,7 +45,7 @@
 "E depois de combater Abimeleque a cidade todo aquele dia, tomou-a, e matou o povo que nela estava, e assolou a cidade, e semeou-a de sal."
 "Quando ouviram isto todos os que estavam na torre de Siquém, entraram na fortaleza do templo do deus Berite."
 "E foi dito a Abimeleque como todos os da torre de Siquém estavam reunidos."
-"Então subiu Abimeleque ao monte de Salmom, ele e toda a gente que com ele estava; e tomou Abimeleque um machado em sua mão, e cortou um ramo das árvores, levantou-o, e o pôs sobre seus ombros, dizendo ao povo que estava com ele
+"Então subiu Abimeleque ao monte de Salmom, ele e toda a gente que com ele estava; e tomou Abimeleque um machado em sua #mão, e cortou um ramo das árvores, levantou-o, e o pôs sobre seus ombros, dizendo ao povo que estava com ele
 "E assim todo aquele povo cortou também cada um seu ramo, e seguiram a Abimeleque, e puseram-nas junto à fortaleza, e prenderam fogo com elas à fortaleza
 "Depois Abimeleque se foi a Tebes; e pôs cerco a Tebes, e tomou-a."
 "Em meio daquela cidade havia uma torre forte, à qual se retiraram todos os homens e mulheres, e todos os senhores da cidade; e fechando atrás de si as portas, subiram ao piso alto da torre."

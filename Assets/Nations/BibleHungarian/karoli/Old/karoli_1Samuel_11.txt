@@ -8,7 +8,7 @@
 "És megszámlálá õket Bézekben. És Izráel fiai háromszázezeren valának, a Júdabeliek pedig harminczezeren."
 "És mondának a követeknek, kik [oda] menének
 "Mondának azért a Jábesbeliek
-"Másodnapon pedig Saul a népet három seregre osztá, és kora hajnalban a táborra ütének, és verték Ammont mindaddig, míg a nap felmelegedék; a kik pedig megmaradtak, úgy szétszórattak, hogy kettõ sem maradt közülök együtt."
+"Másodnapon pedig Saul a népet három seregre osztá, és kora hajnalban a táborra ütének, és verték Ammont mindaddig, #míg a nap felmelegedék; a kik pedig megmaradtak, úgy szétszórattak, hogy kettõ sem maradt közülök együtt."
 "Akkor a nép monda Sámuelnek
 "Saul azonban azt mondá
 "Sámuel pedig monda a népnek

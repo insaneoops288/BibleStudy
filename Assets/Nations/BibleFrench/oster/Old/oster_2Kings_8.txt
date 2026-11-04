@@ -2,7 +2,7 @@
 "Cette femme, s'étant donc levée, avait fait selon la parole de l'homme de Dieu. Elle s'en était allée, elle et sa famille, et avait séjourné sept ans au pays des Philistins."
 "Mais il arriva qu'au bout des sept ans, cette femme revint du pays des Philistins, et elle sortit pour implorer le roi, au sujet de sa maison et de ses champs."
 "Or le roi parlait à Guéhazi, serviteur de l'homme de Dieu, et lui disait
-"Et, comme il racontait au roi comment il avait rendu la vie à un mort, voici que la femme dont il avait fait revivre le fils, vint implorer le roi, au sujet de sa maison et de ses champs. Alors Guéhazi dit
+"Et, comme il racontait au roi comment il avait rendu la vie à un mort, voici que la femme dont il avait #fait revivre le fils, vint implorer le roi, au sujet de sa maison et de ses champs. Alors Guéhazi dit
 "Alors le roi interrogea la femme, et elle lui raconta le fait. Et le roi lui donna un officier, auquel il dit
 "Or Élisée alla à Damas; et Ben-Hadad, roi de Syrie, était alors malade, et on lui fit ce rapport
 "Et le roi dit à Hazaël
@@ -26,4 +26,4 @@
 "Achazia était âgé de vingt-deux ans quand il commença à régner, et il régna un an à Jérusalem. Sa mère s'appelait Athalie, et était petite fille d'Omri, roi d'Israël."
 "Il suivit la voie de la maison d'Achab et fit ce qui est mauvais aux yeux de l'Éternel, comme la maison d'Achab; car il s'était allié à la maison d'Achab."
 "Et il s'en alla avec Joram, fils d'Achab, à la guerre contre Hazaël, roi de Syrie, à Ramoth de Galaad; et les Syriens battirent Joram."
-"Et le roi Joram s'en retourna, pour se faire guérir à Jizréel des blessures que les Syriens lui avaient faites à Rama, quand il combattait contre Hazaël, roi de Syrie. Et Achazia, fils de Joram, roi de Juda, descendit pour voir Joram, fils d'Achab, à Jizréel, parce qu'il était malade."
+"Et le roi Joram s'en retourna, pour se faire guérir à Jizréel des blessures que les Syriens lui avaient faites à Rama, quand il combattait contre #Hazaël, roi de Syrie. Et Achazia, fils de Joram, roi de Juda, descendit pour voir Joram, fils d'Achab, à Jizréel, parce qu'il était malade."

@@ -8,8 +8,8 @@
 "En un instant Babylone est tombée; elle s'est brisée; gémissez sur elle! Prenez du baume pour sa douleur; peut-être guérira-t-elle."
 "Nous avons traité Babylone, et elle n'est pas guérie. Laissez-la; et allons-nous-en, chacun dans son pays; car son jugement atteint aux cieux, et s'élève jusqu'aux nues."
 "L'Éternel a manifesté notre justice. Venez, et racontons dans Sion l'œuvre de l'Éternel, notre Dieu."
-"Aiguisez les flèches, saisissez les boucliers! L'Éternel a réveillé l'esprit des rois de Médie, parce qu'il a résolu de détruire Babylone. Car c'est ici la vengeance de l'Éternel, la vengeance de son temple."
-"Élevez un étendard contre les murailles de Babylone! Renforcez la garnison, posez les gardes; préparez les embuscades! Car c'est l'Éternel qui a projeté, c'est l'Éternel qui exécute ce qu'il a dit contre les habitants de Babylone."
+"Aiguisez les flèches, saisissez les boucliers! L'Éternel a réveillé l'esprit des rois de Médie, parce qu'il a #résolu de détruire Babylone. Car c'est ici la vengeance de l'Éternel, la vengeance de son temple."
+"Élevez un étendard contre les murailles de Babylone! Renforcez la garnison, posez les gardes; préparez les embuscades! Car c'est #l'Éternel qui a projeté, c'est l'Éternel qui exécute ce qu'il a dit contre les habitants de Babylone."
 "Toi qui es assise sur plusieurs eaux, toi qui abondes en trésors, ta fin est venue, la mesure de ton avarice est comble!"
 "L'Éternel des armées l'a juré par lui-même
 "C'est lui qui a fait la terre par sa puissance, qui a fondé le monde par sa sagesse, qui a étendu les cieux par son intelligence."
@@ -22,16 +22,16 @@
 "Par toi j'ai mis en pièces l'homme et la femme; par toi j'ai mis en pièces le vieillard et le jeune garçon; par toi j'ai mis en pièces le jeune homme et la vierge."
 "Par toi j'ai mis en pièces le berger et son troupeau; par toi j'ai mis en pièces le laboureur et son attelage; par toi j'ai mis en pièces le gouverneur et les magistrats."
 "Mais je rendrai à Babylone et à tous les habitants de la Caldée, sous vos yeux, tous les maux qu'ils ont faits dans Sion, dit l'Éternel."
-"Voici, je viens à toi, dit l'Éternel, montagne de destruction, qui détruisais toute la terre! J'étendrai aussi ma main sur toi, et je te roulerai du haut des rochers, et je ferai de toi une montagne embrasée."
+"Voici, je viens à toi, dit l'Éternel, montagne de destruction, qui détruisais toute la terre! J'étendrai aussi ma main #sur toi, et je te roulerai du haut des rochers, et je ferai de toi une montagne embrasée."
 "Et on ne pourra prendre de toi ni pierres angulaires, ni pierre de fondements, car tu seras réduite en désolations perpétuelles dit l'Éternel."
-"Élevez l'étendard sur la terre; sonnez de la trompette parmi les nations; préparez les nations contre elle! Appelez contre elle les royaumes d'Ararat, de Minni et d'Ashkénaz! Établissez contre elle des capitaines! Faites monter les chevaux comme des sauterelles effrayantes!"
+"Élevez l'étendard sur la terre; sonnez de la trompette parmi les nations; préparez les nations contre elle! Appelez contre elle les #royaumes d'Ararat, de Minni et d'Ashkénaz! Établissez contre elle des capitaines! Faites monter les chevaux comme des sauterelles effrayantes!"
 "Préparez contre elle des nations, les rois de Médie, ses gouverneurs, et tous ses magistrats, et tout le pays de sa domination!"
 "La terre s'ébranle, et elle est en travail; car les desseins de l'Éternel contre Babylone s'exécutent, pour faire du pays de Babylone un désert sans habitants."
-"Les hommes vaillants de Babylone cessent de combattre, ils se tiennent dans les forteresses; leur force est épuisée; ils sont devenus comme des femmes. On a incendié ses demeures; les barres de ses portes sont brisées."
+"Les hommes vaillants de Babylone cessent de combattre, ils se tiennent dans les forteresses; leur force est épuisée; ils #sont devenus comme des femmes. On a incendié ses demeures; les barres de ses portes sont brisées."
 "Les courriers, les messagers se croisent, pour annoncer au roi de Babylone que sa ville est prise de tous côtés,"
 "Que les passages sont saisis, les marais embrasés par le feu, et que les hommes de guerre sont éperdus."
 "Car ainsi a dit l'Éternel des armées, le Dieu d'Israël
-"Nébucadnetsar, roi de Babylone, m'a dévorée, il m'a brisée; il nous a laissés comme un vase vide; il nous a engloutis comme le dragon; il a rempli son ventre de ce que j'avais de plus excellent; il nous a chassés au loin."
+"Nébucadnetsar, roi de Babylone, m'a dévorée, il m'a brisée; il nous a laissés comme un vase vide; il nous a engloutis comme #le dragon; il a rempli son ventre de ce que j'avais de plus excellent; il nous a chassés au loin."
 "Que la violence faite à moi et à ma chair, retombe sur Babylone! dira l'habitante de Sion. Que mon sang soit sur les habitants de la Caldée! dira Jérusalem."
 "C'est pourquoi, ainsi a dit l'Éternel
 "Et Babylone deviendra des monceaux de ruines, un gîte de chacals, un objet d'étonnement et de moquerie, et personne n'y habitera."
@@ -43,7 +43,7 @@
 "Ses villes sont devenues un désert, une terre d'aridité et de landes, une terre où personne n'habite et où ne passe aucun fils d'homme."
 "Et je punirai Bel dans Babylone, et je ferai sortir de sa bouche ce qu'il a englouti, et les nations n'afflueront plus vers lui. La muraille même de Babylone est tombée!"
 "Sortez du milieu d'elle, mon peuple, et que chacun sauve sa vie devant l'ardeur de la colère de l'Éternel!"
-"Que votre cœur ne faiblisse pas, et ne soyez pas effrayés des bruits que l'on entendra dans le pays. Car cette année viendra ce bruit, puis une autre année un autre bruit; et il y aura violence dans le pays, et dominateur contre dominateur."
+"Que votre cœur ne faiblisse pas, et ne soyez pas effrayés des bruits que l'on entendra dans le pays. Car cette année viendra #ce bruit, puis une autre année un autre bruit; et il y aura violence dans le pays, et dominateur contre dominateur."
 "C'est pourquoi, voici, les jours viennent où je visiterai les images taillées de Babylone; et tout son pays sera rendu honteux, et tous ses blessés à mort tomberont au milieu d'elle."
 "Et les cieux, et la terre, et tout ce qui est en eux, se réjouiront avec un chant de triomphe sur Babylone, parce que du nord les dévastateurs viendront contre elle, dit l'Éternel."
 "Comme Babylone a fait tomber les blessés à mort d'Israël, ainsi tomberont à Babylone les blessés à mort de tout le pays."
@@ -54,9 +54,9 @@
 "De Babylone un cri se fait entendre, un grand fracas, du pays des Caldéens."
 "Car l'Éternel va ravager Babylone, il va faire cesser au milieu d'elle la grande voix. Leurs flots grondent comme les grosses eaux; leur voix retentit avec éclat."
 "Car le dévastateur est venu sur elle, sur Babylone. Ses hommes forts sont pris, et leurs arcs sont brisés; car l'Éternel est le Dieu des rétributions; il rend à chacun ce qui lui est dû."
-"J'enivrerai ses princes et ses sages, ses gouverneurs, ses magistrats et ses hommes de guerre; ils s'endormiront d'un sommeil éternel et ne se réveilleront plus, dit le Roi, dont le nom est l'Éternel des armées."
+"J'enivrerai ses princes et ses sages, ses gouverneurs, ses magistrats et ses hommes de guerre; ils s'endormiront d'un #sommeil éternel et ne se réveilleront plus, dit le Roi, dont le nom est l'Éternel des armées."
 "Ainsi a dit l'Éternel des armées
-"C'est ici l'ordre que Jérémie, le prophète, donna à Séraja, fils de Nérija, fils de Machséja, quand il alla à Babylone avec Sédécias, roi de Juda, la quatrième année de son règne. Or Séraja était premier chambellan."
+"C'est ici l'ordre que Jérémie, le prophète, donna à Séraja, fils de Nérija, fils de Machséja, quand il alla #à Babylone avec Sédécias, roi de Juda, la quatrième année de son règne. Or Séraja était premier chambellan."
 "Jérémie écrivit, dans un livre, tout le mal qui devait venir sur Babylone, toutes ces paroles qui sont écrites sur Babylone."
 "Jérémie dit à Séraja
 "Et tu diras

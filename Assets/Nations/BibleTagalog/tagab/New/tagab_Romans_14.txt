@@ -3,7 +3,7 @@
 "Ang kumakain ay huwag magwalang halaga sa hindi kumakain; at ang hindi kumakain ay huwag humatol sa kumakain
 "Sino kang humahatol sa alila ng iba? Sa kaniyang sariling panginoon ay natatayo siya o nabubuwal. Oo, patatayuin siya; sapagka't makapangyarihan ang Panginoon na siya'y maitayo."
 "May nagmamahal sa isang araw ng higit kay sa iba
-"Ang nagmamahal sa araw, ay minamahal ito sa Panginoon; at ang kumakain, ay kumakain sa Panginoon, sapagka't siya'y nagpapasalamat sa Dios; at ang hindi kumakain, ay hindi kumakain sa Panginoon, at nagpapasalamat sa Dios."
+"Ang nagmamahal sa araw, ay minamahal ito sa Panginoon; at ang kumakain, ay kumakain sa Panginoon, sapagka't siya'y #nagpapasalamat sa Dios; at ang hindi kumakain, ay hindi kumakain sa Panginoon, at nagpapasalamat sa Dios."
 "Sapagka't ang sinoman sa atin ay hindi nabubuhay sa kaniyang sarili, at sinoman ay hindi namamatay sa kaniyang sarili."
 "Sapagka't kung nangabubuhay tayo, sa Panginoon tayo'y nangabubuhay; o kung nangamamatay tayo, sa Panginoon tayo'y nangamamatay
 "Sapagka't dahil dito ay namatay si Cristo at nabuhay na maguli, upang siya'y maging Panginoon ng mga patay at gayon din ng mga buhay."

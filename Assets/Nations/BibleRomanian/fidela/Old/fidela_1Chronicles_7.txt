@@ -37,4 +37,4 @@
 "Bețer și Hod și Șama și Șilșa și Itran și Beera."
 "Și fiii lui Ieter
 "Și fiii lui Ula
-"Toți aceștia [erau ]copiii lui Așer, capi ai casei tatălui [lor], războinici viteji [și] aleși, mai mari ai prinților. Și numărul [lor] prin toată genealogia lor, apți de război [și ]de bătălie, [era ]douăzeci și șase de mii de bărbați."
+"Toți aceștia [erau ]copiii lui Așer, capi ai casei tatălui [lor], războinici viteji [și] aleși, mai mari ai prinților. Și numărul #[lor] prin toată genealogia lor, apți de război [și ]de bătălie, [era ]douăzeci și șase de mii de bărbați."

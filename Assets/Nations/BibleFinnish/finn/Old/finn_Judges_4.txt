@@ -18,7 +18,7 @@
 "Niin Jael kävi Siseraa vastaan ja sanoi hänelle
 "Ja hän sanoi hänelle
 "Ja hän sanoi hänelle
-"Ja Jael Heberin vaimo otti naulan majasta ja vasaran käteensä, ja meni hiljaksensa hänen tykönsä ja löi naulan hänen korvansa juuresta läpi, niin että se meni maahan kiinni; sillä hän makasi raskaasti ja oli hermotoin, ja hän kuoli."
+"Ja Jael Heberin vaimo otti naulan majasta ja vasaran käteensä, ja meni hiljaksensa hänen tykönsä ja löi naulan hänen korvansa #juuresta läpi, niin että se meni maahan kiinni; sillä hän makasi raskaasti ja oli hermotoin, ja hän kuoli."
 "Ja katso, Barak ajoi Siseraa takaa; ja Jael kävi häntä vastaan ja sanoi hänelle
 "Näin nöyryytti Jumala sinä päivänä Jabinin Kanaanealaisten kuninkaan Israelin lasten eteen."
 "Ja Israelin lasten kädet joutuivat ja vahvistuivat Jabinia Kanaanealaisten kuningasta vastaan, siihenasti että he hänen peräti hävittivät."

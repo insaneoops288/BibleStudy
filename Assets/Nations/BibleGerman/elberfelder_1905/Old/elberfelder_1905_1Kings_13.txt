@@ -8,7 +8,7 @@
 "Aber der Mann Gottes sprach zu dem König
 "Denn also ist mir geboten worden durch das Wort Jehovas und gesagt
 "Und er ging auf einem anderen Wege und kehrte nicht auf dem Wege zurück, auf welchem er nach Bethel gekommen war."
-"Ein alter Prophet aber wohnte zu Bethel; und einer seiner Söhne kam und erzählte ihm alles, was der Mann Gottes an dem Tage zu Bethel getan hatte; die Worte, die er zum König geredet hatte, die erzählten sie auch ihrem Vater."
+"Ein alter Prophet aber wohnte zu Bethel; und einer seiner Söhne kam und erzählte ihm alles, was der Mann Gottes an #dem Tage zu Bethel getan hatte; die Worte, die er zum König geredet hatte, die erzählten sie auch ihrem Vater."
 "Und ihr Vater sprach zu ihnen
 "Da sprach er zu seinen Söhnen
 "Und er ritt dem Manne Gottes nach und fand ihn unter einer Terebinthe sitzen; und er sprach zu ihm
@@ -22,7 +22,7 @@
 "und bist umgekehrt und hast Brot gegessen und Wasser getrunken an dem Orte, von welchem er zu dir geredet hat
 "Und es geschah, nachdem er Brot gegessen und nachdem er getrunken hatte, da sattelte er ihm, dem Propheten, den er zurückgebracht hatte, den Esel."
 "Und er zog fort; und es fand ihn ein Löwe auf dem Wege und tötete ihn. Und sein Leichnam lag hingestreckt auf dem Wege, und der Esel stand daneben, und der Löwe stand neben dem Leichnam."
-"Und siehe, da gingen Leute vorüber und sahen den Leichnam hingestreckt auf dem Wege, und den Löwen neben dem Leichnam stehen; und sie kamen und sagten es in der Stadt, in welcher der alte Prophet wohnte."
+"Und siehe, da gingen Leute vorüber und sahen den Leichnam hingestreckt auf dem Wege, und den Löwen neben dem #Leichnam stehen; und sie kamen und sagten es in der Stadt, in welcher der alte Prophet wohnte."
 "Als nun der Prophet, der ihn von dem Wege zurückgeführt hatte, es hörte, sprach er
 "Und er redete zu seinen Söhnen und sprach
 "Und er ritt hin und fand seinen Leichnam hingestreckt auf dem Wege, und den Esel und den Löwen neben dem Leichnam stehen; der Löwe hatte den Leichnam nicht gefressen und den Esel nicht zerrissen."

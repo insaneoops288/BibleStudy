@@ -8,7 +8,7 @@
 "Dhe i urdhëroi të mos marrin asgjë tjetër udhës, përveç një shkop vetëm
 "dhe të mbathin vetëm sandalet e të mos veshin dy palë tunika."
 "U tha akoma
-"Në qoftë se disa nuk ju presin dhe nuk ju dëgjojnë, kur të largoheni që andej, shkundni pluhurin nga këmbët tuaja si dëshmi kundër tyre. Në të vërtetë ju them se ditën e gjyqit Sodoma dhe Gomorra do të trajtohen me më shumë tolerancë se sa ai qytet''."
+"Në qoftë se disa nuk ju presin dhe nuk ju dëgjojnë, kur të largoheni që andej, shkundni pluhurin nga këmbët tuaja si dëshmi kundër tyre. #Në të vërtetë ju them se ditën e gjyqit Sodoma dhe Gomorra do të trajtohen me më shumë tolerancë se sa ai qytet''."
 "Kështu ata shkuan dhe u predikonin njerëzve që të pendoheshin;"
 "dhe dëbonin shumë demonë dhe vajosnin me vaj shumë të lëngatë dhe i shëronin."
 "Tani mbreti Herod dëgjoi të flitej për Jezusin, sepse emri i tij ishte bërë i njohur, dhe ai tha
@@ -53,4 +53,4 @@
 "Mbasi kaluan, arritën në krahinën e Gjenasaretit dhe aty e lidhën barkën."
 "Dhe kur dolën nga barka, njerëzit e njohën menjëherë"
 "dhe, duke përshkuar me vrap mbarë krahinën përreth, filluan të sjellin të sëmurë në vigje, kudo që dëgjonin se gjendej;"
-"dhe kudo ku ai vinte, në fshatra, në qytete a në lagje, njerëzit i vendosnin të lënguarit në sheshe dhe e lutnin që të paktën të mund të preknin cepin e rrobes së tij; dhe të gjithë ata që e preknin, shëroheshin."
+"dhe kudo ku ai vinte, në fshatra, në qytete a në lagje, njerëzit i vendosnin të lënguarit në sheshe dhe e lutnin #që të paktën të mund të preknin cepin e rrobes së tij; dhe të gjithë ata që e preknin, shëroheshin."

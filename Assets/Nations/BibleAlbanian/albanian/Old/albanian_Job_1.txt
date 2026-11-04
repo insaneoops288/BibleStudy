@@ -1,6 +1,6 @@
 "Në vendin e Uzit ishte një njeri i quajtur Job. Ky njeri ishte i ndershëm dhe i drejtë, kishte frikë nga Perëndia dhe i largohej së keqes."
 "I kishin lindur shtatë bij dhe tri bija."
-"Veç kësaj zotëronte shtatë mijë dele, tre mijë deve, pesëqind pendë qe, pesëqind gomarë dhe një numër shumë të madh shërbëtorësh. Kështu ky njeri ishte më i madhi ndër të gjithë njerëzit e Lindjes."
+"Veç kësaj zotëronte shtatë mijë dele, tre mijë deve, pesëqind pendë qe, pesëqind gomarë dhe një numër shumë #të madh shërbëtorësh. Kështu ky njeri ishte më i madhi ndër të gjithë njerëzit e Lindjes."
 "Bijtë e tij kishin zakon të shkonin për banket në shtëpinë e secilit ditën e cakuar; dhe dërgonin të thërrisnin tri motrat e tyre, që të vinin të hanin dhe të pinin bashkë me ta."
 "Kur mbaronte seria e ditëve të banketit, Jobi i thërriste për t'i pastruar; ngrihej herët në mëngjes dhe ofronte olokauste sipas numrit të gjithë atyre, sepse Jobi mendonte
 "Një ditë ndodhi që bijtë e Perëndisë shkuan të paraqiten para Zotit, dhe ndër ta shkoi edhe Satanai."

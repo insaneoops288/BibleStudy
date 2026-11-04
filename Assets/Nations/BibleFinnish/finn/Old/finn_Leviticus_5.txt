@@ -8,11 +8,11 @@
 "Ja viekään ne papille
 "Ja pitää priiskottaman alttarin seinän rikosuhrin verellä, ja antaman sen veren, joka jää, vuotaa alttarin pohjaan. Se on rikosuhri."
 "Toisen pitää hänen uhraaman polttouhriksi tavan jälkeen. Ja niin pitää papin sovittaman hänen rikoksensa, jolla hän rikkonut on, ja se annetaan hänelle anteeksi."
-"Jollei hänelle ole kahta mettistä eli kahta kyhkyläisen poikaa, niin tuokaan uhrinsa, rikoksensa edestä, kymmenennen osan ephaa sämpyläjauhoja rikosuhriksi. Mutta ei hänen pidä öljyä sen päälle paneman, eikä pyhää savua; sillä se on rikosuhri."
+"Jollei hänelle ole kahta mettistä eli kahta kyhkyläisen poikaa, niin tuokaan uhrinsa, rikoksensa edestä, kymmenennen osan ephaa sämpyläjauhoja #rikosuhriksi. Mutta ei hänen pidä öljyä sen päälle paneman, eikä pyhää savua; sillä se on rikosuhri."
 "Ja hänen pitää sen viemän papille, ja papin pitää siitä ottaman pivon täyden muistoksi, ja polttaman sen alttarilla Herralle tuliuhriksi
 "Ja papin pitää niin sovittaman hänelle hänen rikoksensa, jolla hän rikkonut on, ja se annetaan anteeksi hänelle. Ja sen pitää oleman papin oman niinkuin ruokauhrinkin."
 "Ja Herra puhui Mosekselle, sanoen
-"Jos joku sielu kovasti rikkoo ja erehdyksestä syntiä tekee jossakussa joka Herralle pyhitetty on, hänen pitää Herralle tuoman vikauhrin, virheettömän oinaan laumasta, sinun arvios jälkeen hopiapainoon, pyhän siklin jälkee, vikauhriksi."
+"Jos joku sielu kovasti rikkoo ja erehdyksestä syntiä tekee jossakussa joka Herralle pyhitetty on, hänen pitää #Herralle tuoman vikauhrin, virheettömän oinaan laumasta, sinun arvios jälkeen hopiapainoon, pyhän siklin jälkee, vikauhriksi."
 "Siihen myös, mitä hän on rikkonut pyhitetyssä, pitää hänen sen antaman jällensä, ja pitää sen tykö antaman viidennen osan, ja antaman sen papille
 "Ja jos joku sielu rikkoo ja tekee vastoin jotakuta Herran käskyä, jota ei hänen pitänyt tekemän, ja ei sitä tietänyt
 "Ja pitää tuoman papille virheettömän oinaan laumasta, sinun arvios jälkeen vikauhriksi

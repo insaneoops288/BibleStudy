@@ -8,7 +8,7 @@
 "Aber der Mann Gottes sprach zum König
 "Denn also ist mir geboten durch des HERRN Wort und gesagt
 "Und er ging weg einen andern Weg und kam nicht wieder den Weg, den er gen Beth-El gekommen war."
-"Es wohnte aber ein alter Prophet zu Beth-El; zu dem kamen seine Söhne und erzählten ihm alle Werke, dir der Mann Gottes getan hatte des Tages zu Beth-El, und die Worte, die er zum König geredet hatte."
+"Es wohnte aber ein alter Prophet zu Beth-El; zu dem kamen seine Söhne und erzählten ihm alle Werke, dir #der Mann Gottes getan hatte des Tages zu Beth-El, und die Worte, die er zum König geredet hatte."
 "Und ihr Vater sprach zu ihnen
 "Er aber sprach zu seinen Söhnen
 "und zog dem Mann Gottes nach und fand ihn unter einer Eiche sitzen und sprach
@@ -30,5 +30,5 @@
 "Und er legte den Leichnam in sein Grab; und sie beklagten ihn
 "Und da sie ihn begraben hatten, sprach er zu seinen Söhnen
 "Denn es wird geschehen was er geschrieen hat wider den Altar zu Beth-El durch das Wort des HERRN und wider alle Häuser der Höhen, die in den Städten Samarias sind."
-"Aber nach dieser Geschichte kehrte sich Jerobeam nicht von seinem bösen Wege, sondern machte Priester der Höhen aus allem Volk. Zu wem er Lust hatte, dessen Hand füllte er, und der ward Priester der Höhen.{~}"
+"Aber nach dieser Geschichte kehrte sich Jerobeam nicht von seinem bösen Wege, sondern machte Priester der Höhen aus #allem Volk. Zu wem er Lust hatte, dessen Hand füllte er, und der ward Priester der Höhen.{~}"
 "Und dies geriet zu Sünde dem Hause Jerobeam, daß es verderbt und von der Erde vertilgt ward."

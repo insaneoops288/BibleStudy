@@ -2,7 +2,7 @@
 "Es war aber ein Mann zu Zora von einem Geschlecht der Daniter, mit Namen Manoah; und sein Weib war unfruchtbar und gebar nicht."
 "Und der Engel des HERRN erschien dem Weibe und sprach zu ihr
 "So hüte dich nun, daß du nicht Wein noch starkes Getränk trinkst und nichts Unreines essest;{~}"
-"Denn du wirst schwanger werden und einen Sohn gebären, dem kein Schermesser soll aufs Haupt kommen. Denn der Knabe wird ein Geweihter Gottes sein von Mutterleibe an; und er wird anfangen, Israel zu erlösen aus der Philister Hand.{~}"
+"Denn du wirst schwanger werden und einen Sohn gebären, dem kein Schermesser soll aufs Haupt kommen. Denn der Knabe wird #ein Geweihter Gottes sein von Mutterleibe an; und er wird anfangen, Israel zu erlösen aus der Philister Hand.{~}"
 "Da kam das Weib und sagte es ihrem Mann an und sprach
 "Er sprach aber zu mir
 "Da bat Manoah den HERRN und sprach

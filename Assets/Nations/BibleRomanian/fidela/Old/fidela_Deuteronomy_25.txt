@@ -2,7 +2,7 @@
 "Şi se va întâmpla, dacă omul stricat [este] demn să fie bătut, judecătorul să îl facă să se întindă şi să fie bătut, în faţa lui, cu un[ ]număr [de lovituri ]conform greşelii lui."
 "Patruzeci de lovituri poate să îi dea[ şi s]ă nu le întreacă, pentru ca nu cumva, [dacă] le întrece şi îl bat peste acestea cu multe lovituri, fratele tău ţi-ar părea nemernic."
 "Să nu legi gura boului când treieră [grâne]."
-"Când fraţii locuiesc împreună şi unul dintre ei moare şi nu are copil, soţia mortului să nu se căsătorească în afară, cu un străin; fratele soţului ei să intre la ea şi să şi-o ia de soţie şi să împlinească faţă de ea datoria de frate al soţului."
+"Când fraţii locuiesc împreună şi unul dintre ei moare şi nu are copil, soţia mortului să nu se căsătorească în afară, cu un străin; fratele #soţului ei să intre la ea şi să şi-o ia de soţie şi să împlinească faţă de ea datoria de frate al soţului."
 "Şi se va întâmpla [că], întâiul-născut pe care îl naşte ea să poarte numele fratelui său mort, ca să nu i se şteargă numele din Israel."
 "Şi dacă omului nu îi place să ia pe soţia fratelui său, atunci soţia fratelui său să se urce la poartă, la bătrâni şi să spună
 "Atunci bătrânii cetăţii sale să îl cheme şi să îi vorbească şi [dacă] el stăruie şi spune
@@ -16,4 +16,4 @@
 "Pentru că toţi cei ce fac astfel de lucruri[ şi ]toţi cei ce fac nedreptate, [sunt] o urâciune [înaintea ]DOMNULUI Dumnezeul tău."
 "Aminteşte-ţi de ce ţi-a făcut Amalec pe cale, când aţi ieşit din Egipt;"
 "Cum te-a întâmpinat pe cale şi ţi-a lovit spatele, pe toţi cei slabi din spatele tău, când tu [erai] obosit şi trudit şi el nu s-a temut de Dumnezeu."
-"De aceea se va întâmpla, când DOMNUL Dumnezeul tău îţi va fi dat odihnă din partea tuturor duşmanilor tăi de jur împrejur, în ţara pe care ţi-o dă DOMNUL Dumnezeul tău [ca] moştenire să o stăpâneşti, [că ]tu să ştergi amintirea lui Amalec de sub cer, să nu uiţi."
+"De aceea se va întâmpla, când DOMNUL Dumnezeul tău îţi va fi dat odihnă din partea tuturor duşmanilor tăi de jur împrejur, în ţara pe #care ţi-o dă DOMNUL Dumnezeul tău [ca] moştenire să o stăpâneşti, [că ]tu să ştergi amintirea lui Amalec de sub cer, să nu uiţi."

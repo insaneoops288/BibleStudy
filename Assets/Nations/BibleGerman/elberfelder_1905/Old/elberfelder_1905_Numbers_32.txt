@@ -8,9 +8,9 @@
 "So haben eure Väter getan, als ich sie von Kades-Barnea aussandte, das Land zu besehen
 "sie zogen hinauf bis zum Tale Eskol und besahen das Land; und sie machten das Herz der Kinder Israel abwendig, daß sie nicht in das Land gingen, welches Jehova ihnen gegeben hatte."
 "Und der Zorn Jehovas entbrannte an jenem Tage, und er schwur und sprach
-"Wenn die Männer, die ausÄgypten hinaufgezogen sind, von zwanzig Jahren und darüber, das Land sehen werden, das ich Abraham und Isaak und Jakob zugeschworen habe! Denn sie sind mir nicht völlig nachgefolgt;"
+"Wenn die Männer, die ausÄgypten hinaufgezogen sind, von zwanzig Jahren und darüber, das Land sehen werden, das #ich Abraham und Isaak und Jakob zugeschworen habe! Denn sie sind mir nicht völlig nachgefolgt;"
 "ausgenommen Kaleb, der Sohn Jephunnes, der Kenisiter, und Josua, der Sohn Nuns; denn sie sind Jehova völlig nachgefolgt."
-"Und der Zorn Jehovas entbrannte wider Israel, und er ließ sie vierzig Jahre lang in der Wüste umherirren, bis das ganze Geschlecht aufgerieben war, welches getan hatte, was böse war in den Augen Jehovas."
+"Und der Zorn Jehovas entbrannte wider Israel, und er ließ sie vierzig Jahre lang in der Wüste umherirren, #bis das ganze Geschlecht aufgerieben war, welches getan hatte, was böse war in den Augen Jehovas."
 "Und siehe, ihr seid aufgestanden an eurer Väter Statt, eine Brut von sündigen Männern, um die Glut des Zornes Jehovas gegen Israel noch zu mehren."
 "Wenn ihr euch hinter ihm abwendet, so wird er es noch länger in der Wüste lassen, und ihr werdet dieses ganze Volk verderben."
 "Und sie traten zu ihm und sprachen
@@ -30,7 +30,7 @@
 "wenn sie aber nicht gerüstet mit euch hinüberziehen, so sollen sie sich unter euch ansässig machen im Lande Kanaan."
 "Und die Kinder Gad und die Kinder Ruben antworteten und sprachen
 "Wir wollen gerüstet vor Jehova in das Land Kanaan hinüberziehen, und unser Erbbesitztum verbleibe uns diesseit des Jordan."
-"Und Mose gab ihnen, den Kindern Gad und den Kindern Ruben und der Hälfte des Stammes Manasse, des Sohnes Josephs, das Königreich Sihons, des Königs der Amoriter, und das Königreich Ogs, des Königs von Basan, das Land nach seinen Städten in ihren Grenzen, die Städte des Landes ringsum."
+"Und Mose gab ihnen, den Kindern Gad und den Kindern Ruben und der Hälfte des Stammes Manasse, des Sohnes Josephs, das Königreich Sihons, des Königs #der Amoriter, und das Königreich Ogs, des Königs von Basan, das Land nach seinen Städten in ihren Grenzen, die Städte des Landes ringsum."
 "Und die Kinder Gad bauten Dibon und Ataroth und Aroer,"
 "und Ateroth-Schofan und Jaser und Jogbeha,"
 "und Beth-Nimra und Beth-Haran, feste Städte und Kleinviehhürden."

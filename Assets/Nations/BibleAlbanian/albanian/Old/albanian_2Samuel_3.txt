@@ -19,14 +19,14 @@
 "Abneri foli edhe me ata të Beniaminit. Pastaj Abneri shkoi te Davidi në Hebron për t'i njoftuar tërë ato që iu dukën të mira Izraelit dhe gjithë shtëpisë së Beniaminit."
 "Kështu Abneri arriti te Davidi në Hebron me njëzet njerëz, dhe Davidi shtroi një banket për Abnerin dhe për njerëzit që ishin me të."
 "Pastaj Abneri i tha Davidit
-"Por ja, shërbëtorët e Davidit dhe Joabi po ktheheshin nga një plaçkitje, duke sjellë me vete një plaçkë të madhe; por Abneri nuk ishte më me Davidin në Hebron, sepse ky ishte ndarë me të dhe ai kishte ikur në paqe."
+"Por ja, shërbëtorët e Davidit dhe Joabi po ktheheshin nga një plaçkitje, duke sjellë me vete një plaçkë të madhe; por #Abneri nuk ishte më me Davidin në Hebron, sepse ky ishte ndarë me të dhe ai kishte ikur në paqe."
 "Kur mbërritën Joabi dhe tërë ushtarët që ishin me të, dikush ia tregoi ngjarjen Joabit, duke thënë
 "Atëherë Joabi shkoi te mbreti dhe i tha
 "Ti e di që Abneri, bir i Nerit, erdhi që të të mashtrojë, që të njohë lëvizjet e tua dhe për të mësuar tërë ato që bën ti""."
 "Pasi u largua nga Davidi, Joabi dërgoi lajmëtarë pas Abnerit, të cilët e kthyen prapa nga hauzi i Sirahut pa e ditur Davidi."
 "Kur Abneri u kthye në Hebron, Joabi e mori mënjanë në mes të portës, gjoja për t'i folur fshehtazi, dhe këtu e goditi në bark dhe e vrau për të marrë hakun e gjakut të Asahelit, vëllait të tij."
 "Më vonë Davidi e mësoi këtë ngjarje dhe tha
-"Ky gjak rëntë mbi kryet e Joabit dhe mbi tërë shtëpinë e atit të tij; mos iu ndafshin kurrë shtëpisë së Joabit ata që vuajnë nga fluksi apo nga lebra, ata që duhet të mbështeten me shkop, që vdesin nga shpata o që janë pa bukë!""."
+"Ky gjak rëntë mbi kryet e Joabit dhe mbi tërë shtëpinë e atit të tij; mos iu ndafshin kurrë shtëpisë së Joabit ata që #vuajnë nga fluksi apo nga lebra, ata që duhet të mbështeten me shkop, që vdesin nga shpata o që janë pa bukë!""."
 "Kështu Joabi dhe Abishai, vëllai i tij, vranë Abnerin, sepse ky kishte vrarë Asahelin, vëllanë e tyre në Gabaon gjatë betejës."
 "Pastaj Davidi i tha Joabit dhe tërë popullit që ishte me të
 "Kështu e varrosën Abnerin në Hebron, dhe mbreti ngriti zërin dhe qau përpara varrit të Abnerit; edhe tërë populli qau."

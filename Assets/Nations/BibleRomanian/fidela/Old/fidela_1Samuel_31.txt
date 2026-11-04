@@ -4,7 +4,7 @@
 "Atunci Saul a spus purtătorului său de arme
 "Și când purtătorul său de arme a văzut că Saul era mort, s-a aruncat și el în sabia lui și a murit cu el."
 "Astfel Saul a murit și cei trei fii ai săi și purtătorul său de arme și toți oamenii săi, în aceeași zi, împreună."
-"Și când bărbații lui Israel care [erau] de partea cealaltă a văii și [cei] de partea cealaltă a Iordanului, au văzut că bărbații lui Israel au fugit și că Saul și fiii săi erau morți, au părăsit cetățile și au fugit; și filistenii au venit și au locuit în ele."
+"Și când bărbații lui Israel care [erau] de partea cealaltă a văii și [cei] de partea cealaltă a Iordanului, au văzut că bărbații lui Israel au #fugit și că Saul și fiii săi erau morți, au părăsit cetățile și au fugit; și filistenii au venit și au locuit în ele."
 "Și s-a întâmplat a doua zi, după ce filistenii au venit să îi dezbrace pe cei uciși, că au găsit pe Saul și pe cei trei fii ai săi, căzuți la muntele Ghilboa."
 "Și i-au retezat capul și l-au dezbrăcat de armura lui și au trimis în țara filistenilor de jur împrejur, să proclame [aceasta] [în] casa idolilor lor și printre popor."
 "Și i-au pus armura în casa Astarteei; și i-au pironit trupul de zidul Bet-Șanului."

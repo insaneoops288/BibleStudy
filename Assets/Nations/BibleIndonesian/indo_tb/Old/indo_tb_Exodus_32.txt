@@ -16,7 +16,7 @@
 "Kedua loh itu ialah pekerjaan Allah dan tulisan itu ialah tulisan Allah, ditukik pada loh-loh itu."
 "Ketika Yosua mendengar suara bangsa itu bersorak, berkatalah ia kepada Musa
 "Tetapi jawab Musa
-"Dan ketika ia dekat ke perkemahan itu dan melihat anak lembu dan melihat orang menari-nari, maka bangkitlah amarah Musa; dilemparkannyalah kedua loh itu dari tangannya dan dipecahkannya pada kaki gunung itu."
+"Dan ketika ia dekat ke perkemahan itu dan melihat anak lembu dan melihat orang menari-nari, maka #bangkitlah amarah Musa; dilemparkannyalah kedua loh itu dari tangannya dan dipecahkannya pada kaki gunung itu."
 "Sesudah itu diambilnyalah anak lembu yang dibuat mereka itu, dibakarnya dengan api dan digilingnya sampai halus, kemudian ditaburkannya ke atas air dan disuruhnya diminum oleh orang Israel."
 "Lalu berkatalah Musa kepada Harun
 "Tetapi jawab Harun
@@ -31,5 +31,5 @@
 "Lalu kembalilah Musa menghadap TUHAN dan berkata
 "Tetapi sekarang, kiranya Engkau mengampuni dosa mereka itu,dan jika tidak, hapuskanlah kiranya namaku dari dalam kitab yang telah Kautulis."""
 "Tetapi TUHAN berfirman kepada Musa
-"Tetapi pergilah sekarang, tuntunlah bangsa itu ke tempat yang telah Kusebutkan kepadamu; akan berjalan malaikat-Ku di depanmu, tetapi pada hari pembalasan-Ku itu Aku akan membalaskan dosa mereka kepada mereka."""
+"Tetapi pergilah sekarang, tuntunlah bangsa itu ke tempat yang telah Kusebutkan kepadamu; akan berjalan malaikat-Ku #di depanmu, tetapi pada hari pembalasan-Ku itu Aku akan membalaskan dosa mereka kepada mereka."""
 "Demikianlah TUHAN menulahi bangsa itu, karena mereka telah menyuruh membuat anak lembu buatan Harun itu."

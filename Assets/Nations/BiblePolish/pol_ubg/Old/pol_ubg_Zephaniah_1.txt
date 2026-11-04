@@ -15,4 +15,4 @@
 "Ten dzień będzie dniem gniewu, dniem utrapienia i ucisku, dniem ruiny i spustoszenia, dniem ciemności i mroku, dniem obłoku i gęstych chmur;"
 "Dniem trąby i trąbienia przeciwko miastom warownym i przeciwko basztom wysokim."
 "Ścisnę ludzi utrapieniem, tak że będą chodzić jak ślepi, ponieważ zgrzeszyli przeciwko PANU. Ich krew będzie rozlana jak proch, a ich ciała – jak gnój."
-"Ani ich srebro, ani ich złoto nie zdołają ich wybawić w dniu gniewu PANA, bo cała ziemia będzie pożarta ogniem jego zapalczywości. Z pewnością bowiem dokona rychłego końca wszystkich mieszkańców ziemi."
+"Ani ich srebro, ani ich złoto nie zdołają ich wybawić w dniu gniewu PANA, bo cała #ziemia będzie pożarta ogniem jego zapalczywości. Z pewnością bowiem dokona rychłego końca wszystkich mieszkańców ziemi."

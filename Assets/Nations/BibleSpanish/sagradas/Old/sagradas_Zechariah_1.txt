@@ -5,7 +5,7 @@
 "Vuestros padres, ¿dónde están? Y los profetas, ¿han de vivir para siempre?"
 "Pero mis palabras y mis ordenanzas que mandé a mis siervos los profetas, ¿no alcanzaron a vuestros padres? Por eso se volvieron ellos <I>del cautiverio</I>  y dijeron
 "A los veinticuatro del mes undécimo, que es el mes de Sebat, en el año segundo de Darío, vino palabra del SEÑOR a Zacarías profeta, hijo de Berequías, hijo de Iddo, diciendo
-"Vi <I>de</I>  noche, y he aquí un varón que cabalgaba sobre un caballo bermejo, el cual estaba entre los arrayanes que había en la hondura; y detrás de él <I>había</I>  caballos bermejos, overos, y blancos."
+"Vi <I>de</I>  noche, y he aquí un varón que cabalgaba sobre un caballo bermejo, el cual estaba entre #los arrayanes que había en la hondura; y detrás de él <I>había</I>  caballos bermejos, overos, y blancos."
 "Y <I>yo</I>  dije
 "Y aquel varón que estaba entre los arrayanes respondió, y dijo
 "Y ellos hablaron a aquel ángel del SEÑOR que estaba entre los arrayanes, y dijeron

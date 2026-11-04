@@ -55,5 +55,5 @@
 "përkundrazi, kur fryn juga, ju thoni
 "Hipokritë! Ju dini të dalloni dukurinë e qiellit dhe të tokës, por vallë si nuk dini ta dalloni këtë kohë?"
 "Dhe përse nuk gjykoni nga vetë ju ç'është e drejtë?"
-"Kur ti shkon bashkë me kundërshtarin tënd te gjykatësi, bëj ç'është e mundur gjatë rrugës që të merresh vesh me të, që ai mos të të nxjerrë përpara gjykatësit dhe gjykatësi të të dorëzojë te roja dhe roja të të futë në burg."
+"Kur ti shkon bashkë me kundërshtarin tënd te gjykatësi, bëj ç'është e mundur gjatë rrugës që të merresh vesh me të, që #ai mos të të nxjerrë përpara gjykatësit dhe gjykatësi të të dorëzojë te roja dhe roja të të futë në burg."
 "Unë po të them se ti nuk do të dalësh prej andej, derisa të mos kesh paguar deri në qindarkën e fundit''."

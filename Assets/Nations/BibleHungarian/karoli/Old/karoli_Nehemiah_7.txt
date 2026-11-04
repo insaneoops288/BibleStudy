@@ -2,7 +2,7 @@
 "És [hadnagyokká] tevém Jeruzsálem fölött Hanánit, testvéremet és Hanániást, a vár fejedelmét, mivel hogy õ hûségesebb és istenfélõbb vala sokaknál."
 "És mondék nékik
 "A város pedig felette igen széles vala és nagy, s a nép kevés lévén benne, házak nem épültek."
-"Felindítá azért az én Istenem szívemet, hogy egybegyûjtsem az elõljárókat, a fõembereket és a népet, hogy felírattassanak; és megtalálám azok nemzetségének könyvét, a kik elõször jöttek vala fel Babilóniából, melyben ily írást találék
+"Felindítá azért az én Istenem szívemet, hogy egybegyûjtsem az elõljárókat, a fõembereket és a népet, hogy felírattassanak; #és megtalálám azok nemzetségének könyvét, a kik elõször jöttek vala fel Babilóniából, melyben ily írást találék
 "Ezek a tartománynak fiai, a kik feljöttek vala a rabság foglyai közül, a kiket fogva vitetett Nabukodonozor, Babilónia királya, s most visszajövének Jeruzsálembe és Júdába, kiki az õ városába."
 "Kik jövének Zorobábellel
 "Parós fiai

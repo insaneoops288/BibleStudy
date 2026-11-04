@@ -22,7 +22,7 @@
 "Shih, pra, mirësinë dhe rreptësinë e Perëndisë
 "Kështu edhe ata, nëse nuk do të qëndrojnë në mosbesim, do të shartohen; sepse Perëndia është i fuqishëm t'i shartojë përsëri."
 "Sepse, në qoftë se ti u këpute nga ulliri i egër prej natyre dhe u shartove kundër natyrës në ulli të butë, aq më tepër këto, që janë degë prej natyre, do të shartohen në ullirin e vet."
-"Sepse nuk dua, o vëllezër, që ju të jeni të paditur këtë të fshehtë që të mos mbaheni me të madh në veten tuaj se i ka ndodhur një ngurtësim një pjese të Izraelit deri sa të ketë hyrë tërësia e johebrenjve,"
+"Sepse nuk dua, o vëllezër, që ju të jeni të paditur këtë të fshehtë që të mos mbaheni me të madh në #veten tuaj se i ka ndodhur një ngurtësim një pjese të Izraelit deri sa të ketë hyrë tërësia e johebrenjve,"
 "dhe kështu mbarë Izraeli do të shpëtohet, sikurse është shkruar
 "Dhe kjo do të jetë besëlidhja ime me ta, kur unë t'ju heq mëkatet e tyre''."
 "Për sa i përket ungjillit ata janë armiq për hirin tuaj, por për sa i përket zgjedhjes, janë të dashur për hir të etërve,"

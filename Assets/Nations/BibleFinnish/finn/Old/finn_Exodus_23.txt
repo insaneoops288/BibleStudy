@@ -8,11 +8,11 @@
 "Ei sinun pidä lahjoja ottaman; sillä lahjat sokaisevat näkeväiset, ja kääntävät hurskasten asiat."
 "Ei teidän pidä solvaiseman muukalaisia; sillä te tiedätte muukalaisen sydämen, että te myös itse olette olleet muukalaiset Egyptin maalla."
 "Kuusi vuotta pitää sinun kylvämän sinun maas, ja kokooman sen tulon."
-"Vaan seitsemäntenä vuonna pitää sinun sen levolle jättämän, että köyhät sinun kansastas siitä syödä saisivat. Ja mitä jää, sen metsän pedot syökään. Niin pitää myös sinun tekemän viinamäkes ja öljymäkes kanssa."
+"Vaan seitsemäntenä vuonna pitää sinun sen levolle jättämän, että köyhät sinun kansastas siitä syödä saisivat. Ja #mitä jää, sen metsän pedot syökään. Niin pitää myös sinun tekemän viinamäkes ja öljymäkes kanssa."
 "Kuusi päivää pitää sinun työtäs tekemän, mutta seitsemäntenä päivänä pitää sinun lepäämän
 "Kaikki ne mitkä minä olen teille sanonut, pitää teidän pitämän. Ja vierasten jumalain nimeä ei pidä teidän muistaman, ja sinun suustas ei pidä ne kuuluman."
 "Kolmasti vuodessa pitää sinun minulle juhlaa pitämän."
-"Happamattoman leivän juhlan pitää sinun pitämän, niin että sinä seitsemän päivää syöt happamatointa leipää, niinkuin minä sinulle käskenyt olen, määrättynä aikana sillä kuulla Abib. Sillä että sillä ajalla olet sinä lähtenyt Egyptistä; mutta älä tule tyhjin käsin minun eteeni."
+"Happamattoman leivän juhlan pitää sinun pitämän, niin että sinä seitsemän päivää syöt happamatointa leipää, niinkuin minä sinulle käskenyt olen, määrättynä #aikana sillä kuulla Abib. Sillä että sillä ajalla olet sinä lähtenyt Egyptistä; mutta älä tule tyhjin käsin minun eteeni."
 "Ja sen juhlan, koskas ensin rupeet pellolta korjaamaan, mitäs siihen kylvänyt olet. Ja korjaamisen juhlan, vuoden lopussa, koska sinä työs kedolta korjannut olet."
 "Kolmasti vuodessa pitää kaikki sinun miesväkes tuleman Herran Jumalan eteen."
 "Ei sinun pidä uhraaman minun uhrini verta happaman taikinan kanssa; ja minun juhlani lihavuus ei pidä ylitse yön jäämän huomeneksi."
@@ -21,7 +21,7 @@
 "Pidä vaari itsestäs hänen kasvoinsa edessä ja kuule hänen äänensä, älä hänen mieltänsä pahoita; sillä ei hän jätä rankaisemata teidän ylitsekäymistänne
 "Vaan jos sinä ahkerasti kuulet hänen äänensä, ja teet kaikki mitä minä sinulle käsken, niin minä olen sinun vihollistes vihollinen, ja sinun vainoojais vainooja."
 "Sillä minun enkelini käy sinun edelläs, ja johdattaa sinun Amorilaisten, Hetiläisten, Pheresiläisten, Kanaanealaisten, Heviläisten, ja Jebusilaisten tykö, ja minä hävitän heitä."
-"Niin ei sinun pidä kumartaman heidän jumaliansa, eikä myös heitä palveleman, eikä heidän tekoinsa jälkeen tekemän; mutta sinun pitää heidän epäjumalansa heittämän pois, ja lyömän heidän kuvansa rikki."
+"Niin ei sinun pidä kumartaman heidän jumaliansa, eikä myös heitä palveleman, eikä heidän tekoinsa jälkeen #tekemän; mutta sinun pitää heidän epäjumalansa heittämän pois, ja lyömän heidän kuvansa rikki."
 "Mutta Herraa teidän Jumalaanne pitää teidän palveleman, niin hän siunaa sinun leipäs ja sinun vetes
 "Ei yksikään kesken synnyttäväinen eikä hedelmätöin pidä oleman sinun maassas; ja minä tahdon täyttää sinun päiväs luvun."
 "Minä lähetän minun pelkoni sinun edelles, ja hukutan kaiken kansan, jonka tykö sinä menet

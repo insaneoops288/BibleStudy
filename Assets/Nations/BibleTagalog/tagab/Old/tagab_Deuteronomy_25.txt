@@ -4,11 +4,11 @@
 "Huwag mong lalagyan ng pugong ang baka pagka gumigiik."
 "Kung ang magkapatid ay tumahang magkasama, at isa sa kanila'y mamatay, at walang anak, ang asawa ng patay ay huwag magaasawa ng iba sa labas
 "At mangyayari, na ang panganay na kaniyang ipanganganak ay hahalili sa pangalan ng kaniyang kapatid na namatay, upang ang kaniyang pangalan ay huwag mapawi sa Israel."
-"At kung ayaw kunin ng lalake ang asawa ng kaniyang kapatid, ay sasampa nga ang asawa ng kaniyang kapatid sa pintuang-bayan sa mga matanda, at sasabihin, Ang kapatid ng aking asawa ay tumatangging itindig ang pangalan ng kaniyang kapatid sa Israel; ayaw niyang tuparin sa akin ang tungkulin ng pagkakapatid ng asawa."
+"At kung ayaw kunin ng lalake ang asawa ng kaniyang kapatid, ay sasampa nga ang asawa ng kaniyang kapatid sa pintuang-bayan sa mga matanda, at sasabihin, Ang #kapatid ng aking asawa ay tumatangging itindig ang pangalan ng kaniyang kapatid sa Israel; ayaw niyang tuparin sa akin ang tungkulin ng pagkakapatid ng asawa."
 "Kung magkagayo'y tatawagin siya ng mga matanda sa kaniyang bayan at pangungusapan siya
-"Ang asawa nga ng kapatid ay paroroon sa kaniya sa harap ng mga matanda at huhubarin ang panyapak niya sa kaniyang mga paa, at luluran siya sa mukha; at siya'y sasagot at sasabihin, Ganyan ang gagawin sa lalake, na ayaw magtayo ng sangbahayan ng kaniyang kapatid."
+"Ang asawa nga ng kapatid ay paroroon sa kaniya sa harap ng mga matanda at huhubarin ang panyapak niya sa kaniyang mga paa, at #luluran siya sa mukha; at siya'y sasagot at sasabihin, Ganyan ang gagawin sa lalake, na ayaw magtayo ng sangbahayan ng kaniyang kapatid."
 "At ang kaniyang pangala'y tatawagin sa Israel, Ang bahay ng hinubaran ng panyapak."
-"Pag may dalawang lalaking nag-away, at ang asawa ng isa ay lumapit upang iligtas ang kaniyang asawa sa kamay ng nananakit sa kaniya, at iniunat niya ang kaniyang kamay at hinawakan niya ang mga sangkap na lihim
+"Pag may dalawang lalaking nag-away, at ang asawa ng isa ay lumapit upang iligtas ang kaniyang asawa sa kamay #ng nananakit sa kaniya, at iniunat niya ang kaniyang kamay at hinawakan niya ang mga sangkap na lihim
 "Ay iyo ngang puputulin ang kaniyang kamay; ang iyong mata'y huwag manghihinayang."
 "Huwag kang magkakaroon sa iyong supot ng iba't ibang panimbang, ng isang malaki at ng isang maliit."
 "Huwag kang magkakaroon sa iyong bahay ng iba't ibang takalan, ng isang malaki at ng isang maliit."
@@ -16,4 +16,4 @@
 "Sapagka't yaong lahat na gumagawa ng gayong mga bagay, sa makatuwid baga'y yaong lahat ng gumagawa ng di matuwid ay kasuklamsuklam sa Panginoon mong Dios."
 "Alalahanin mo ang ginawa sa iyo ng Amalec sa daan nang ikaw ay lumabas sa Egipto;"
 "Na kung paanong sinalubong ka niya sa daan, at sinaktan niya ang mga kahulihulihan sa iyo, yaong lahat na mahina sa hulihan mo, nang ikaw ay pagod at pagal; at siya'y hindi natakot sa Dios."
-"Kaya't mangyayari, na pagka binigyan ka ng Panginoon mong Dios ng kapahingahan sa lahat ng iyong mga kaaway sa palibot, sa lupain na ibinibigay sa iyo ng Panginoon mong Dios na pinakamana upang ariin, ay iyong papawiin ang pagalaala sa Amalec sa silong ng langit; huwag mong lilimutin."
+"Kaya't mangyayari, na pagka binigyan ka ng Panginoon mong Dios ng kapahingahan sa lahat ng iyong mga kaaway sa palibot, sa lupain na ibinibigay sa #iyo ng Panginoon mong Dios na pinakamana upang ariin, ay iyong papawiin ang pagalaala sa Amalec sa silong ng langit; huwag mong lilimutin."

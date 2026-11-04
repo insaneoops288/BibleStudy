@@ -10,7 +10,7 @@
 "der Sohn Heseds zu Arubboth, und hatte dazu Socho und das ganze Land Hepher;"
 "der Sohn Abinadabsüber die ganze Herrschaft zu Dor, und hatte Taphath, Salomos Tochter zum Weibe;"
 "Baana, der Sohn Ahiluds, zu Thaanach und zu Megiddo undüber ganz Beth-Sean, welches liegt neben Zarthan unter Jesreel, von Beth-Sean bis an Abel-Mehola, bis jenseit Jokmeams;"
-"der Sohn Gebers zu Ramoth in Gilead, und hatte die Flecken Jairs, des Sohnes Manasses, in Gilead und hatte die Gegend Argob, die in Basan liegt, sechzig große Städte, vermauert und mit ehernen Riegeln;"
+"der Sohn Gebers zu Ramoth in Gilead, und hatte die Flecken Jairs, des Sohnes Manasses, in Gilead und #hatte die Gegend Argob, die in Basan liegt, sechzig große Städte, vermauert und mit ehernen Riegeln;"
 "Ahinadab, der Sohn Iddos, zu Mahanaim;"
 "Ahimaaz in Naphthali, und der nahm auch Salomos Tochter Basmath zum Weibe;"
 "Baana, der Sohn Husais, in Asser und zu Aloth;"

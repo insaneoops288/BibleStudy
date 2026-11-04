@@ -10,7 +10,7 @@
 "Le fils de Hésed, à Arubboth; il avait Soco et tout le pays de Hépher."
 "Le fils d'Abinadab avait toute la contrée de Dor. Thaphath, fille de Salomon, était sa femme."
 "Baana, fils d'Achilud, avait Thaanac et Meguiddo, et tout Beth-Schean qui est près de Tsarthan au-dessous de Jizreel, depuis Beth-Schean jusqu'à Abel-Mehola, jusqu'au delà de Jokmeam."
-"Le fils de Guéber, à Ramoth en Galaad; il avait les bourgs de Jaïr, fils de Manassé, en Galaad; il avait encore la contrée d'Argob en Basan, soixante grandes villes à murailles et à barres d'airain."
+"Le fils de Guéber, à Ramoth en Galaad; il avait les bourgs de Jaïr, fils de Manassé, en Galaad; #il avait encore la contrée d'Argob en Basan, soixante grandes villes à murailles et à barres d'airain."
 "Achinadab, fils d'Iddo, à Mahanaïm."
 "Achimaats, en Nephthali. Il avait pris pour femme Basmath, fille de Salomon."
 "Baana, fils de Huschaï, en Aser et à Bealoth."
@@ -18,7 +18,7 @@
 "Schimeï, fils d'Ela, en Benjamin."
 "Guéber, fils d'Uri, dans le pays de Galaad; il avait la contrée de Sihon, roi des Amoréens, et d'Og, roi de Basan. Il y avait un seul intendant pour ce pays."
 "Juda et Israël étaient très nombreux, pareils au sable qui est sur le bord de la mer. Ils mangeaient, buvaient et se réjouissaient."
-"Salomon dominait encore sur tous les royaumes depuis le fleuve jusqu'au pays des Philistins et jusqu'à la frontière d'Egypte; ils apportaient des présents, et ils furent assujettis à Salomon tout le temps de sa vie."
+"Salomon dominait encore sur tous les royaumes depuis le fleuve jusqu'au pays des Philistins et jusqu'à la frontière #d'Egypte; ils apportaient des présents, et ils furent assujettis à Salomon tout le temps de sa vie."
 "Chaque jour Salomon consommait en vivres
 "dix boeufs gras, vingt boeufs de pâturage, et cent brebis, outre les cerfs, les gazelles, les daims, et les volailles engraissées."
 "Il dominait sur tout le pays de l'autre côté du fleuve, depuis Thiphsach jusqu'à Gaza, sur tous les rois de l'autre côté du fleuve. Et il avait la paix de tous les côtés alentour."

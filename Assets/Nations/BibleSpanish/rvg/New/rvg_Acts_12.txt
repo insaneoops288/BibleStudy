@@ -7,7 +7,7 @@
 "Y he aquí, el ángel del Señor vino, y una luz resplandeció en la cárcel; y golpeando a Pedro en el costado, le despertó, diciendo
 "Y le dijo el ángel
 "Y saliendo, le seguía; y no sabía que era verdad lo que hacía el ángel, sino que pensaba que veía visión."
-"Y cuando pasaron la primera y la segunda guardia, llegaron a la puerta de hierro que conduce a la ciudad, la cual se les abrió por sí misma; y salieron y pasaron una calle, y en seguida el ángel se apartó de él."
+"Y cuando pasaron la primera y la segunda guardia, llegaron a la puerta de hierro que conduce a la ciudad, la cual #se les abrió por sí misma; y salieron y pasaron una calle, y en seguida el ángel se apartó de él."
 "Entonces Pedro, volviendo en sí, dijo
 "Y habiendo considerado [esto], llegó a casa de María la madre de Juan, el que tenía por sobrenombre Marcos, donde muchos estaban reunidos orando."
 "Y tocando Pedro a la puerta del patio, salió a escuchar una muchacha, llamada Rode,"
@@ -17,7 +17,7 @@
 "Pero él, haciéndoles con la mano señal de que callasen, les contó cómo el Señor le había sacado de la cárcel. Y dijo
 "Y luego que fue de día, hubo no poco alboroto entre los soldados sobre qué había sido de Pedro."
 "Y cuando Herodes le buscó y no le halló, habiendo interrogado a los guardas, ordenó que [éstos] fueran llevados a la muerte. Y él descendió de Judea a Cesarea, y se quedó allí."
-"Y Herodes estaba enojado contra los de Tiro y de Sidón; pero ellos vinieron de acuerdo ante él, y habiendo persuadido a Blasto, que era camarero del rey, pedían paz; porque el territorio de ellos era abastecido por el del rey."
+"Y Herodes estaba enojado contra los de Tiro y de Sidón; pero ellos vinieron de acuerdo ante él, y habiendo persuadido #a Blasto, que era camarero del rey, pedían paz; porque el territorio de ellos era abastecido por el del rey."
 "Y un día señalado, Herodes vestido de ropa real, se sentó en su trono, y les arengó."
 "Y el pueblo aclamaba, [diciendo]
 "Y al instante el ángel del Señor le hirió, por cuanto no dio la gloria a Dios; y expiró comido de gusanos."

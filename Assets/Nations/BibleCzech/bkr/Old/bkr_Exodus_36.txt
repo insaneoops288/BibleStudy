@@ -5,7 +5,7 @@
 "A mluvili k Mojžíšovi těmi slovy
 "I rozkázal Mojžíš, aby provoláno bylo v vojště takto
 "Nebo měli potřeb hojně dosti k dělání všelikého díla, tak že zbývalo."
-"I dělal každý vtipný z dělníků těch dílo to, příbytek z desíti čalounů, kteříž byli z bílého hedbáví přesukovaného, a z postavce modrého a šarlatu, a z červce dvakrát barveného, cherubíny dílem řemeslným udělal na nich."
+"I dělal každý vtipný z dělníků těch dílo to, příbytek z desíti čalounů, kteříž byli z bílého hedbáví přesukovaného, #a z postavce modrého a šarlatu, a z červce dvakrát barveného, cherubíny dílem řemeslným udělal na nich."
 "Dlouhost čalounu jednoho osm a dvadceti loktů, a čtyř loktů širokost čalounu jednoho; všickni čalounové byli jednostejné míry."
 "Potom spojil pět čalounů jeden s druhým, a pět jiných čalounů spojil jeden s druhým."
 "Nadělal i ok z hedbáví modrého po kraji čalounu jednoho na konci, kde se spojovati má s druhým, a tolikéž udělal na kraji čalounu druhého na konci v spojení druhém."

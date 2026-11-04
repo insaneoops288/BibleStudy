@@ -10,4 +10,4 @@
 "Envié entre vosotros mortandad al modo que en Egipto
 "Trastornéos, como cuando Dios trastornó á Sodoma y á Gomorra, y fuisteis como tizón escapado del fuego
 "Por tanto, de esta manera haré á ti, oh Israel
-"Porque he aquí, el que forma los montes, y cría el viento, y denuncia al hombre su pensamiento; el que hace á las tinieblas mañana, y pasa sobre las alturas de la tierra; Jehová, Dios de los ejércitos, es su nombre."
+"Porque he aquí, el que forma los montes, y cría el viento, y denuncia al hombre su pensamiento; el que hace #á las tinieblas mañana, y pasa sobre las alturas de la tierra; Jehová, Dios de los ejércitos, es su nombre."

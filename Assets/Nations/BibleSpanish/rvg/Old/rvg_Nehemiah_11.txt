@@ -1,6 +1,6 @@
 "Y los príncipes del pueblo habitaron en Jerusalén; mas el resto del pueblo echó suertes para traer uno de diez que morase en Jerusalén, ciudad santa, y las nueve partes en las otras ciudades."
 "Y bendijo el pueblo a todos los varones que voluntariamente se ofrecieron a morar en Jerusalén."
-"Y éstos son los principales de la provincia que moraron en Jerusalén; mas en las ciudades de Judá habitaron cada uno en su posesión en sus ciudades, de Israel, de los sacerdotes, y levitas, y sirvientes del templo, y de los hijos de los siervos de Salomón."
+"Y éstos son los principales de la provincia que moraron en Jerusalén; mas en las ciudades de Judá habitaron cada uno en su posesión #en sus ciudades, de Israel, de los sacerdotes, y levitas, y sirvientes del templo, y de los hijos de los siervos de Salomón."
 "En Jerusalén, pues, habitaron [algunos] de los hijos de Judá y de los hijos de Benjamín. De los hijos de Judá
 "y Maasías, hijo de Baruc, hijo de Col-hoze, hijo de Hazaías, hijo de Adaías, hijo de Joiarib, hijo de Zacarías, hijo de Siloni."
 "Todos los hijos de Fares que moraron en Jerusalén, fueron cuatrocientos sesenta y ocho hombres fuertes."
@@ -14,7 +14,7 @@
 "y sus hermanos, hombres de gran vigor, ciento veintiocho; jefe de los cuales era Zabdiel, hijo de un hombre grande."
 "Y de los levitas
 "Y Sabetai y Jozabad, de los principales de los levitas, encargados de la obra exterior de la casa de Dios;"
-"y Matanías, hijo de Micaías, hijo de Zabdi, hijo de Asaf, el principal, el que empezaba las alabanzas y acción de gracias al tiempo de la oración; y Bacbucías el segundo de entre sus hermanos; y Abda, hijo de Samúa, hijo de Galal, hijo de Jedutún."
+"y Matanías, hijo de Micaías, hijo de Zabdi, hijo de Asaf, el principal, el que empezaba las alabanzas y acción de gracias al tiempo #de la oración; y Bacbucías el segundo de entre sus hermanos; y Abda, hijo de Samúa, hijo de Galal, hijo de Jedutún."
 "Todos los levitas en la santa ciudad fueron doscientos ochenta y cuatro."
 "Y los porteros, Acub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos."
 "Y el resto de Israel, de los sacerdotes, de los levitas, en todas las ciudades de Judá, cada uno en su heredad."

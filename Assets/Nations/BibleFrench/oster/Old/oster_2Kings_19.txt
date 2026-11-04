@@ -1,7 +1,7 @@
 "Lorsque le roi Ézéchias eut entendu ces choses, il déchira ses vêtements, il se couvrit d'un sac, et entra dans la maison de l'Éternel."
 "Puis il envoya Éliakim, le préfet du palais, et Shebna, le secrétaire, et les anciens d'entre les sacrificateurs, couverts de sacs, vers Ésaïe, le prophète, fils d'Amots."
 "Et ils lui dirent
-"Peut-être l'Éternel ton Dieu aura entendu toutes les paroles de ce Rabshaké, que le roi d'Assyrie, son maître, a envoyé pour insulter le Dieu vivant, et peut-être que l'Éternel, ton Dieu, châtiera les paroles qu'il a entendues. Fais donc monter une prière en faveur de ce qui reste encore."
+"Peut-être l'Éternel ton Dieu aura entendu toutes les paroles de ce Rabshaké, que le roi d'Assyrie, son maître, a envoyé pour insulter le Dieu vivant, #et peut-être que l'Éternel, ton Dieu, châtiera les paroles qu'il a entendues. Fais donc monter une prière en faveur de ce qui reste encore."
 "Les serviteurs du roi Ézéchias vinrent donc vers Ésaïe; et Ésaïe leur dit
 "Ainsi a dit l'Éternel
 "Voici, je vais mettre en lui un esprit tel, qu'ayant appris une nouvelle, il retournera dans son pays; et je le ferai tomber par l'épée dans son pays."
@@ -22,11 +22,11 @@
 "Qui as-tu insulté et outragé? Et contre qui as-tu élevé la voix? Tu as porté les yeux en haut sur le Saint d'Israël."
 "Par tes messagers tu as insulté le Seigneur, et tu as dit
 "J'ai creusé, et j'ai bu les eaux étrangères; et j'ai tari de la plante de mes pieds tous les fleuves de l'Égypte."
-"N'as-tu pas appris que j'ai préparé ceci dès longtemps, et que dès les temps anciens, j'en ai formé le dessein? Maintenant je le fais arriver, et tu es là pour réduire les villes fortes en monceaux de ruines."
+"N'as-tu pas appris que j'ai préparé ceci dès longtemps, et que dès les temps anciens, j'en ai formé le dessein? #Maintenant je le fais arriver, et tu es là pour réduire les villes fortes en monceaux de ruines."
 "Leurs habitants, privés de force, sont épouvantés et confus; ils sont comme l'herbe des champs et la tendre verdure, comme l'herbe des toits et le blé brûlés avant de se former en tiges."
 "Mais je connais ta demeure, ta sortie et ton entrée, et ta fureur contre moi."
-"Parce que tu es en fureur contre moi, et que ton insolence est montée à mes oreilles, je mettrai ma boucle à tes narines et mon frein entre tes lèvres; et je te ferai retourner par le chemin par lequel tu es venu."
-"Et voici le signe que tu en auras, ô Ézéchias. On mangera cette année ce qui viendra de soi-même aux champs; et la seconde année, ce qui croîtra encore sans qu'on sème; mais, la troisième année, vous sèmerez et vous moissonnerez, vous planterez des vignes et vous en mangerez le fruit."
+"Parce que tu es en fureur contre moi, et que ton insolence est montée à mes oreilles, je mettrai ma boucle à #tes narines et mon frein entre tes lèvres; et je te ferai retourner par le chemin par lequel tu es venu."
+"Et voici le signe que tu en auras, ô Ézéchias. On mangera cette année ce qui viendra de soi-même aux champs; et la seconde année, ce #qui croîtra encore sans qu'on sème; mais, la troisième année, vous sèmerez et vous moissonnerez, vous planterez des vignes et vous en mangerez le fruit."
 "Et ce qui sera réchappé et demeuré de reste à la maison de Juda, poussera ses racines en bas, et produira ses fruits en haut."
 "Car il sortira de Jérusalem quelque reste, et de la montagne de Sion quelques réchappés. La jalousie de l'Éternel des armées fera cela."
 "C'est pourquoi, ainsi dit l'Éternel touchant le roi d'Assyrie
@@ -34,4 +34,4 @@
 "Et je protégerai cette ville pour la sauver, à cause de moi et à cause de David, mon serviteur."
 "Or, cette même nuit-là, un ange de l'Éternel sortit et frappa dans le camp des Assyriens cent quatre-vingt-cinq mille hommes; et, quand on se leva le matin, voici c'étaient tous des corps morts."
 "Et Sanchérib, roi des Assyriens, leva son camp, partit, et s'en retourna; et il resta à Ninive."
-"Et comme il était prosterné dans la maison de Nisroc, son dieu, Adrammélec et Sharetser, ses fils, le frappèrent avec l'épée; puis ils se sauvèrent au pays d'Ararat. Et Esarhaddon, son fils, régna à sa place.<br wp=""br1"">"
+"Et comme il était prosterné dans la maison de Nisroc, son dieu, Adrammélec et Sharetser, ses fils, le frappèrent #avec l'épée; puis ils se sauvèrent au pays d'Ararat. Et Esarhaddon, son fils, régna à sa place.<br wp=""br1"">"

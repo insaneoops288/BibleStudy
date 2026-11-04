@@ -1,7 +1,7 @@
 "Symeon Petrus, Knecht und Apostel Jesu Christi, an die, welche einen gleich wertvollen Glauben erlangt haben wie wir an die Gerechtigkeit unsres Gottes und Retters Jesus Christus
 "Gnade und Friede widerfahre euch mehr und mehr in der Erkenntnis Gottes und unsres Herrn Jesus!"
 "Nachdem seine göttliche Kraft uns alles, was zum Leben und zur Gottseligkeit dient, geschenkt hat, durch die Erkenntnis dessen, der uns kraft seiner Herrlichkeit und Tugend berufen hat,"
-"durch welche uns die teuersten und größten Verheißungen geschenkt sind, damit ihr durch dieselben göttlicher Natur teilhaftig werdet, nachdem ihr dem in der Welt durch die Lust herrschenden Verderben entflohen seid,"
+"durch welche uns die teuersten und größten Verheißungen geschenkt sind, damit ihr durch dieselben göttlicher Natur #teilhaftig werdet, nachdem ihr dem in der Welt durch die Lust herrschenden Verderben entflohen seid,"
 "so setzet nun all euren Fleiß zu dem hinzu und reichet dar in eurem Glauben die Tugend, in der Tugend aber die Erkenntnis,"
 "in der Erkenntnis aber die Enthaltsamkeit, in der Enthaltsamkeit aber die Ausdauer, in der Ausdauer aber die Gottseligkeit,"
 "in der Gottseligkeit aber die Bruderliebe, in der Bruderliebe aber die Liebe[zu allen] Menschen."
@@ -16,6 +16,6 @@
 "Denn wir sind nicht klug ersonnenen Fabeln gefolgt, als wir euch die Kraft und Wiederkunft unsres Herrn Jesus Christus kundtaten, sondern wir sind Augenzeugen seiner Herrlichkeit gewesen."
 "Denn er empfing von Gott dem Vater Ehre und Herrlichkeit, als eine Stimme von der hocherhabenen Herrlichkeit daherkam, des Inhalts
 "Und diese Stimme hörten wir vom Himmel her kommen, als wir mit ihm auf dem heiligen Berge waren."
-"Und wir halten nun desto fester an dem prophetischen Wort, und ihr tut wohl, darauf zu achten als auf ein Licht, das an einem dunklen Orte scheint, bis der Tag anbricht und der Morgenstern aufgeht in euren Herzen;"
+"Und wir halten nun desto fester an dem prophetischen Wort, und ihr tut wohl, darauf zu achten als auf ein #Licht, das an einem dunklen Orte scheint, bis der Tag anbricht und der Morgenstern aufgeht in euren Herzen;"
 "wobei ihr das zuerst wissen müßt, daß keine Weissagung der Schrift ein Werk eigener Deutung ist."
 "Denn niemals wurde durch menschlichen Willen eine Weissagung hervorgebracht, sondern vom heiligen Geist getrieben redeten heilige Menschen, von Gott[gesandt]."

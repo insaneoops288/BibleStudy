@@ -1,8 +1,8 @@
 "Varones hermanos y padres, oíd mi defensa que [hago] ahora ante vosotros."
 "Y cuando oyeron que les hablaba en lengua hebrea, guardaron más silencio. Y [les] dijo
-"Yo de cierto soy hombre judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, educado a los pies de Gamaliel, estrictamente conforme a la ley de nuestros padres, siendo celoso de Dios, como hoy lo sois todos vosotros."
+"Yo de cierto soy hombre judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, educado a los pies de #Gamaliel, estrictamente conforme a la ley de nuestros padres, siendo celoso de Dios, como hoy lo sois todos vosotros."
 "Y perseguí este Camino hasta la muerte, prendiendo y entregando en cárceles así hombres como mujeres;"
-"como también el sumo sacerdote me es testigo, y todos los ancianos; de los cuales también recibí cartas para con los hermanos; e iba a Damasco para traer presos a Jerusalén a los que estuviesen allí, para que fuesen castigados."
+"como también el sumo sacerdote me es testigo, y todos los ancianos; de los cuales también recibí cartas para con los #hermanos; e iba a Damasco para traer presos a Jerusalén a los que estuviesen allí, para que fuesen castigados."
 "Y aconteció que cuando hacía mi jornada, y llegaba cerca de Damasco, como a mediodía, repentinamente resplandeció del cielo una gran luz que me rodeó;"
 "y caí al suelo, y oí una voz que me decía
 "Yo entonces respondí
@@ -27,4 +27,4 @@
 "Entonces vino el tribuno y le dijo
 "Y respondió el tribuno
 "Así que, en seguida se apartaron de él los que le iban a interrogar; y el tribuno, al saber que era romano, también tuvo temor por haberle atado."
-"Y al día siguiente, queriendo saber de cierto la causa por la que era acusado de los judíos, le soltó de las cadenas, y mandó venir a los príncipes de los sacerdotes y a todo su concilio; y sacando a Pablo, le presentó delante de ellos."
+"Y al día siguiente, queriendo saber de cierto la causa por la que era acusado de los judíos, le soltó de las cadenas, y #mandó venir a los príncipes de los sacerdotes y a todo su concilio; y sacando a Pablo, le presentó delante de ellos."

@@ -15,7 +15,7 @@
 "Též Ahi syn Abdiele, syna Gunova, kníže v domě otců jich."
 "I bydlili v Galád, v Bázan a v vesnicech jeho, a ve všech předměstích Sáron, až do hranic jejich."
 "Všickni tito vyčteni byli ve dnech Jotama krále Judského, a ve dnech Jeroboáma krále Izraelského."
-"Synů Rubenových a Gádových a polovice pokolení Manassesova, mužů silných, nosících štít a meč, a natahujících lučiště, a umělých v bitvě, čtyřidceti a čtyři tisíce, sedm set a šedesát vycházejících k boji."
+"Synů Rubenových a Gádových a polovice pokolení Manassesova, mužů silných, nosících štít a meč, a natahujících lučiště, #a umělých v bitvě, čtyřidceti a čtyři tisíce, sedm set a šedesát vycházejících k boji."
 "I bojovali s Agarenskými, Iturejskými, Nafejskými a Nodabskými."
 "A měli pomoc proti nim. I dáni jsou v ruku jich Agarenové i všecko, což měli. Nebo k Bohu volali v boji, a vyslyšel je, nebo doufali v něho."
 "I zajali stáda jejich, velbloudů jejich padesáte tisíců, a dobytka dvě stě a padesáte tisíců, a oslů dva tisíce, a lidí sto tisíc osob."
@@ -23,4 +23,4 @@
 "Synové pak polovice pokolení Manassesova bydlili v té zemi od Bázanu až do Balhermon i Sanir, totiž hory Hermon; nebo i oni rozmnoženi byli."
 "Tato pak byla knížata v domě otců jejich
 "Ale když přestoupili proti Bohu otců svých, a smilnili, následujíce bohů národů země té, kteréž shladil Bůh od tváři jejich
-"Vzbudil Bůh Izraelský ducha Fule krále Assyrského, a ducha Tiglatfalazara krále Assyrského, kterýž přenesl pokolení Rubenovo a Gádovo a polovici pokolení Manassesova, a dovedl je do Chelach a do Chabor, až do Hara a k řece Gozan až do dnešního dne."
+"Vzbudil Bůh Izraelský ducha Fule krále Assyrského, a ducha Tiglatfalazara krále Assyrského, kterýž přenesl pokolení Rubenovo a Gádovo a polovici pokolení #Manassesova, a dovedl je do Chelach a do Chabor, až do Hara a k řece Gozan až do dnešního dne."

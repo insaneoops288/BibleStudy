@@ -1,11 +1,11 @@
 "Pan mówi
-"Podnieś oczu swych na miejsca wysokie, a obacz, jeźliś gdzie nierządu nie płodziła. Na drogach siadałaś kwoli nim, jako Arabczyk na puszczy, a splugawiłaś ziemię wszeteczeństwem twem, i złością twoją."
+"Podnieś oczu swych na miejsca wysokie, a obacz, jeźliś gdzie nierządu nie płodziła. Na drogach siadałaś #kwoli nim, jako Arabczyk na puszczy, a splugawiłaś ziemię wszeteczeństwem twem, i złością twoją."
 "A chociaż zawściągnione są dżdże jesienne, a deszczu na wiosnę nie bywało, przecieżeś czoło niewiasty wszetecznej mając, nie chciałaś się wstydzić."
 "Azaż od tego czasu wołać będziesz na mnie
 "Izali Bóg zatrzyma gniew na wieczność? Izali go zachowa na wieki? Oto mówisz i czynisz złe, ile możesz."
 "Tedy Pan rzekł do mnie za dni Jozyjasza króla
 "A chociażem rzekł, gdy to wszystko uczyniła
-"A tak zdało mi się dla tych wszystkich przyczyn, ponieważ nierząd płodziła uporna córka Izraelska, opuścić ją, i dać jej list rozwodny; a przecież się nie ulękła przestępnica siostra jej, córka Judzka, ale szedłszy i sama nierząd płodziła."
+"A tak zdało mi się dla tych wszystkich przyczyn, ponieważ nierząd płodziła uporna córka Izraelska, opuścić ją, i dać jej #list rozwodny; a przecież się nie ulękła przestępnica siostra jej, córka Judzka, ale szedłszy i sama nierząd płodziła."
 "I stało się, że haniebnym nierządem swoim splugawiła ziemię; bo cudzołożyła z kamieniem i z drewnem."
 "A wszakże w tem wszystkiem nie nawróciła się do mnie przestępnica siostra jej, córka Judzka, z wszystkiego serca swego; ale obłudnie, mówi Pan."
 "Przetoż rzekł Pan do mnie
@@ -22,4 +22,4 @@
 "Mówiącego
 "Zaiste próżna jest nadzieja w pagórkach i w mnóstwie gór; zaiste w Panu, Bogu naszym, jest zbawienie Izraelskie."
 "Bo ta hańba pożarła pracę ojców naszych od młodości naszej, trzody ich, i stada ich, syny ich, i córki ich."
-"Leżymy w pohańbieniu swem, a przykrywa nas zelżywość nasza; albowiemśmy przeciwko Panu, Bogu naszemu, zgrzeszyli, my i ojcowie nasi, od młodości naszej aż do dnia tego, a nie usłuchaliśmu głosu Pana, Boga naszego."
+"Leżymy w pohańbieniu swem, a przykrywa nas zelżywość nasza; albowiemśmy przeciwko Panu, Bogu naszemu, zgrzeszyli, my i #ojcowie nasi, od młodości naszej aż do dnia tego, a nie usłuchaliśmu głosu Pana, Boga naszego."

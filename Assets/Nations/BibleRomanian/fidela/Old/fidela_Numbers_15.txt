@@ -1,6 +1,6 @@
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Vorbește copiilor lui Israel și spune-le
-"Și veți face o ofrandă prin foc DOMNULUI, o ofrandă arsă, sau un sacrificiu în împlinirea unui jurământ, sau într-o ofrandă de bunăvoință, sau în sărbătorile voastre solemne, ca să faceți o aromă dulce DOMNULUI, din cireadă, sau din turmă,"
+"Și veți face o ofrandă prin foc DOMNULUI, o ofrandă arsă, sau un sacrificiu în împlinirea unui jurământ, sau într-o ofrandă #de bunăvoință, sau în sărbătorile voastre solemne, ca să faceți o aromă dulce DOMNULUI, din cireadă, sau din turmă,"
 "Atunci cel ce aduce darul său DOMNULUI, să aducă dar de mâncare, a zecea parte dintr-o măsură de făină amestecată cu a patra parte dintr-un hin de untdelemn."
 "Și a patra [parte] dintr-un hin de vin ca un dar de băutură să îl pregătești cu ofranda arsă sau sacrificiul, pentru un [singur] miel."
 "Sau pentru un berbec, să îl pregătești [ca] dar de mâncare [cu] două zecimi dintr-o măsură de făină amestecată cu a treia [parte] dintr-un hin de untdelemn."
@@ -12,7 +12,7 @@
 "Conform cu numărul celor pe care le veți pregăti, astfel să faceți fiecăreia dintre ele, după numărul lor."
 "Toți cei născuți în țară să facă aceste lucruri după acest obicei, în aducerea unei ofrande făcută prin foc, de o aromă dulce DOMNULUI."
 "Și dacă un străin locuiește temporar cu voi sau oricine [este] printre voi, în generațiile voastre, și aduce ofrandă făcută prin foc, de o aromă dulce DOMNULUI, precum faceți voi, să facă [și] el."
-"O [singură] rânduială [să fie deopotrivă] pentru voi, cei din adunare, și la fel pentru străinul ce locuiește temporar [cu voi], o rânduială pentru totdeauna în generațiile voastre; cum sunteți voi, astfel să fie și străinul înaintea DOMNULUI."
+"O [singură] rânduială [să fie deopotrivă] pentru voi, cei din adunare, și la fel pentru străinul ce locuiește temporar [cu #voi], o rânduială pentru totdeauna în generațiile voastre; cum sunteți voi, astfel să fie și străinul înaintea DOMNULUI."
 "O [singură] lege și un singur obicei să fie pentru voi și pentru străinul care locuiește temporar cu voi."
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Vorbește copiilor lui Israel și spune-le
@@ -22,7 +22,7 @@
 "Și dacă ați greșit și nu ați împlinit toate aceste porunci, pe care DOMNUL le-a vorbit lui Moise,"
 "Tot ce DOMNUL v-a poruncit prin mâna lui Moise, din ziua când DOMNUL i-a poruncit lui Moise și de atunci înainte prin toate generațiile voastre,"
 "Atunci să fie
-"Și preotul să facă ispășire pentru toată adunarea copiilor lui Israel și acesta le va fi iertat, fiindcă aceasta [este] ignoranță; iar ei să aducă darul lor, un sacrificiu făcut prin foc DOMNULUI, și ofranda lor pentru păcat înaintea DOMNULUI, pentru ignoranța lor;"
+"Și preotul să facă ispășire pentru toată adunarea copiilor lui Israel și acesta le va fi iertat, fiindcă aceasta [este] ignoranță; iar #ei să aducă darul lor, un sacrificiu făcut prin foc DOMNULUI, și ofranda lor pentru păcat înaintea DOMNULUI, pentru ignoranța lor;"
 "Și va fi iertat întregii adunări a copiilor lui Israel și străinului ce locuiește temporar printre ei; văzând că tot poporul [era] în ignoranță."
 "Și dacă vreun suflet păcătuiește prin ignoranță, atunci să aducă o capră de un an ca ofrandă pentru păcat."
 "Și preotul să facă ispășire pentru sufletul care păcătuiește prin ignoranță, când păcătuiește prin ignoranță înaintea DOMNULUI, pentru a face ispășire pentru el, și îi va fi iertat."
@@ -36,6 +36,6 @@
 "Și toată adunarea l-a scos în afara taberei și l-au ucis cu pietre și a murit; precum DOMNUL i-a poruncit lui Moise."
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Vorbește copiilor lui Israel și poruncește-le să își facă ciucuri pe marginile hainelor lor, prin toate generațiile lor, și să pună peste ciucurii marginilor o panglică de albastru."
-"Și aceasta să vă fie drept bordură, ca să o priviți și să vă aduceți aminte toate poruncile DOMNULUI și să le împliniți; și să nu căutați după inima voastră și după ochii voștri, după care obișnuiați să mergeți curvind."
+"Și aceasta să vă fie drept bordură, ca să o priviți și să vă aduceți aminte toate poruncile DOMNULUI și să #le împliniți; și să nu căutați după inima voastră și după ochii voștri, după care obișnuiați să mergeți curvind."
 "Ca să vă amintiți și să împliniți toate poruncile mele și să fiți sfinți Dumnezeului vostru."
 "Eu [sunt] DOMNUL Dumnezeul vostru, care v-am scos din țara Egiptului, să fiu Dumnezeul vostru

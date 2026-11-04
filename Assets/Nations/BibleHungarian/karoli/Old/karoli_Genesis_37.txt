@@ -22,7 +22,7 @@
 "És mondá nékik Rúben
 "És lõn, a mint oda ére József az õ bátyjaihoz, letépték Józsefrõl az õ felsõ ruháját, a czifra ruhát, mely rajta vala."
 "És megragadák õt és beleveték a kútba; a kút pedig üres vala, nem vala víz benne."
-"Azután leûlének kenyerezni, és felemelék szemeiket, és láták, hogy ímé egy Ismáelita karaván jõ vala Gileádból, és azoknak tevéi visznek vala fûszerszámot, balzsamot és mirhát, menvén, hogy alávigyék Égyiptomba."
+"Azután leûlének kenyerezni, és felemelék szemeiket, és láták, hogy ímé egy Ismáelita karaván jõ vala #Gileádból, és azoknak tevéi visznek vala fûszerszámot, balzsamot és mirhát, menvén, hogy alávigyék Égyiptomba."
 "És monda Júda az õ atyjafiainak
 "Jertek adjuk el õt az Ismáelitáknak, és ne tegyük reá kezünket, mert atyánkfia, vérünkbõl való õ. És hallgatának rá az õ atyjafiai."
 "És menének arra Midiánita kereskedõ férfiak, és kivonák és felhozák Józsefet a kútból, és eladák Józsefet az Ismáelitáknak húsz ezüstpénzen

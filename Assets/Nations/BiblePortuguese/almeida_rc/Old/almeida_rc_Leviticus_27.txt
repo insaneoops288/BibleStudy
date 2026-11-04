@@ -25,7 +25,7 @@
 "E toda a tua avaliação se fará conforme o siclo do santuário; o siclo será de vinte geras."
 "Mas o primogénito de um animal, por já ser do SENHOR, ninguém o santificará; seja boi ou gado miúdo, do SENHOR é."
 "Mas, se for de um animal imundo, o resgatará, segundo a tua estimação, e sobre ele acrescentará o seu quinto; e, se não se resgatar, vender-se-á segundo a tua estimação."
-"Todavia, nenhuma coisa consagrada que alguém consagrar ao SENHOR de tudo o que tem, de homem, ou de animal, ou do campo da sua possessão, se venderá nem resgatará; toda coisa consagrada será uma coisa santíssima ao SENHOR."
+"Todavia, nenhuma coisa consagrada que alguém consagrar ao SENHOR de tudo o que tem, de homem, ou de animal, ou #do campo da sua possessão, se venderá nem resgatará; toda coisa consagrada será uma coisa santíssima ao SENHOR."
 "Toda coisa consagrada que for consagrada do homem não será resgatada; certamente morrerá."
 "Também todas as dízimas do campo, da semente do campo, do fruto das árvores são do SENHOR; santas são ao SENHOR."
 "Porém, se alguém das suas dízimas resgatar alguma coisa, acrescentará o seu quinto sobre ela."

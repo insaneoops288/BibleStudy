@@ -20,4 +20,4 @@
 "Czy odpłaca się złem za dobro? Bo wykopali dół dla mojej duszy. Wspomnij, że stawałem przed tobą, aby mówić za nimi dla ich dobra i odwrócić od nich twój gniew."
 "Dlatego wydaj ich dzieci na głód i spraw, aby padli od mocy miecza; niech ich żony będą osierocone i owdowiałe, ich mężczyźni haniebnie uśmierceni, a ich młodzieńcy zabici mieczem na wojnie."
 "Niech będzie słychać krzyk z ich domów, gdy nagle sprowadzisz na nich wojsko. Wykopali bowiem dół, aby mnie schwytać, zastawili sidła na moje nogi."
-"Lecz ty, PANIE, znasz wszystkie ich plany przeciwko mnie, chcą mojej śmierci. Nie przebaczaj im ich nieprawości, a ich grzechu nie zmaż sprzed swego oblicza, ale niech upadną przed tobą. Postąp z nimi tak w czasie twojego gniewu."
+"Lecz ty, PANIE, znasz wszystkie ich plany przeciwko mnie, chcą mojej śmierci. Nie przebaczaj im ich nieprawości, a ich grzechu #nie zmaż sprzed swego oblicza, ale niech upadną przed tobą. Postąp z nimi tak w czasie twojego gniewu."

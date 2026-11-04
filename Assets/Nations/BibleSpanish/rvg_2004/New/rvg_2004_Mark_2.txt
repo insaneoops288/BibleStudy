@@ -23,6 +23,6 @@
 "Y aconteció que pasando Él por los sembradíos en sábado, sus discípulos, andando, comenzaron a arrancar espigas."
 "Entonces los fariseos le dijeron
 "Y Él les dijo
-"Cómo entró en la casa de Dios, en los días de Abiatar sumo sacerdote, y comió los panes de la proposición, de los cuales no es lícito comer sino a los sacerdotes, y dio aun a los que con él estaban?"
+"Cómo entró en la casa de Dios, en los días de Abiatar sumo sacerdote, y comió los panes de la proposición, #de los cuales no es lícito comer sino a los sacerdotes, y dio aun a los que con él estaban?"
 "También les dijo
 "Así que el Hijo del Hombre es Señor aun del sábado."

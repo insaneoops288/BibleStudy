@@ -9,7 +9,7 @@
 "Et la multitude qui allait devant et celle qui suivait, criait, en disant
 "Et quand il fut entré à Jérusalem, toute la ville fut émue, et on disait
 "Et le peuple disait
-"Et Jésus entra dans le temple de Dieu, et il chassa tous ceux qui vendaient et qui achetaient dans le temple; et il renversa les tables des changeurs, et les sièges de ceux qui vendaient des pigeons."
+"Et Jésus entra dans le temple de Dieu, et il chassa tous ceux qui vendaient et qui achetaient dans #le temple; et il renversa les tables des changeurs, et les sièges de ceux qui vendaient des pigeons."
 "Et il leur dit
 "Alors des aveugles et des boiteux vinrent à lui dans le temple, et il les guérit."
 "Mais les principaux sacrificateurs et les scribes, voyant les merveilles qu'il avait faites et les enfants qui criaient dans le temple et disaient
@@ -29,7 +29,7 @@
 "Mais il répondit
 "Puis il vint au second, et lui dit la même chose. Celui-ci répondit
 "Lequel des deux a fait la volonté du père? Ils lui dirent
-"Car Jean est venu à vous dans la voie de la justice, et vous ne l'avez point cru; mais les péagers et les femmes de mauvaise vie l'ont cru; et vous, ayant vu cela, vous ne vous êtes point repentis ensuite pour le croire."
+"Car Jean est venu à vous dans la voie de la justice, et vous ne l'avez point cru; mais les péagers et les #femmes de mauvaise vie l'ont cru; et vous, ayant vu cela, vous ne vous êtes point repentis ensuite pour le croire."
 "Écoutez une autre similitude
 "La saison des fruits étant proche, il envoya ses serviteurs vers les vignerons pour recevoir les fruits de sa vigne."
 "Mais les vignerons, s'étant saisis des serviteurs, battirent l'un, tuèrent l'autre, et en lapidèrent un autre."

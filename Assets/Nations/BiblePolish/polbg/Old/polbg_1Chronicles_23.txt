@@ -21,7 +21,7 @@
 "Synowie Merarego
 "I umarł Eleazar, a nie miał synów, tylko córki, które pojmowali synowie Cysowi, bracia ich."
 "Synowie Musy
-"Cić są synowie Lewiego według domów ojców swych, przedniejsi domów ojcowskich, którzy policzeni byli według pocztu imion i osób swych z osobna, którzy odprawowali prace usługiwania w domu Pańskim od dwudziestu lat i wyżej."
+"Cić są synowie Lewiego według domów ojców swych, przedniejsi domów ojcowskich, którzy policzeni byli według pocztu imion i #osób swych z osobna, którzy odprawowali prace usługiwania w domu Pańskim od dwudziestu lat i wyżej."
 "Albowiem rzekł Dawid
 "Do tego i Lewitowie nie będą więcej nosić przybytku i wszystkiego naczynia jego ku posługiwaniu jego;"
 "Ale według postanowienia Dawidowego ostatniego, byli policzeni synowie Lewiego od dwudziestu lat i wyżej;"

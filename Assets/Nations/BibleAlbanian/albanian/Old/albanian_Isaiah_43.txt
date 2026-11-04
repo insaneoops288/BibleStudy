@@ -6,8 +6,8 @@
 "Do t'i them veriut
 "tërë ata që quhen me emrin tim, që kam krijuar për lavdinë time, që kam formuar dhe bërë gjithashtu""."
 "Nxirr popullin e verbër që megjithatë ka sy, dhe të shurdhër që megjithatë kanë vesh."
-"Le të mblidhen bashkë tërë kombet, të grumbullohen popujt! Kush prej tyre mund të njoftojë këtë gjë dhe të na bëjë të dëgjojmë gjërat e kaluara? Le të paraqesin dëshmitarët e tyre për t'u justifikuar; ose le të dëgjojnë dhe të thonë
-"Dëshmitarët e mi jeni ju, thotë Zoti, bashkë me shërbëtorin që kam zgjedhur, me qëllim që ju të më njihni dhe të keni besim tek unë, si dhe të merrni vesh që unë jam. Para meje asnjë Perëndi nuk u formua dhe pas meje nuk do të ketë asnjë tjetër."
+"Le të mblidhen bashkë tërë kombet, të grumbullohen popujt! Kush prej tyre mund të njoftojë këtë gjë dhe të na bëjë të #dëgjojmë gjërat e kaluara? Le të paraqesin dëshmitarët e tyre për t'u justifikuar; ose le të dëgjojnë dhe të thonë
+"Dëshmitarët e mi jeni ju, thotë Zoti, bashkë me shërbëtorin që kam zgjedhur, me qëllim që ju të më njihni dhe të keni besim tek unë, #si dhe të merrni vesh që unë jam. Para meje asnjë Perëndi nuk u formua dhe pas meje nuk do të ketë asnjë tjetër."
 "Unë, unë jam Zoti dhe përveç meje nuk ka Shpëtimtar tjetër."
 "Unë kam shpallur, kam shpëtuar dhe kam njoftuar; dhe nuk kishte asnjë perëndi të huaj midis jush; prandaj ju jeni dëshmitarët e mi, thotë Zoti, dhe unë jam Perëndi."
 "Para fillimit të kohës unë jam gjithnjë po ai dhe askush nuk mund të çlirojë njeri nga dora ime; kur unë veproj, kush mund të më pengojë?""."

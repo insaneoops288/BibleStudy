@@ -11,7 +11,7 @@
 "Sie sprach
 "Und das Weib sprach
 "Das Weib sprach
-"Denn wir müssen zwar gewiß sterben und sind wie das Wasser, das in die Erde versiegt und welches man nicht wieder auffangen kann. Aber Gott will das Leben nicht hinwegnehmen, sondern sinnt darauf, daß der Verstoßene nicht von ihm verstoßen bleibe."
+"Denn wir müssen zwar gewiß sterben und sind wie das Wasser, das in die Erde versiegt und welches man nicht wieder #auffangen kann. Aber Gott will das Leben nicht hinwegnehmen, sondern sinnt darauf, daß der Verstoßene nicht von ihm verstoßen bleibe."
 "Daß ich nun gekommen bin, mit meinem Herrn, dem König, solches zu reden, geschah deshalb, weil das Volk mir Angst machte; deine Magd aber dachte
 "denn der König wird seine Magd erhören, daß er mich errette aus der Hand des Mannes, der mich samt meinem Sohn aus dem Erbe Gottes vertilgen will."
 "Und deine Magd dachte
@@ -23,7 +23,7 @@
 "Also machte sich Joab auf und zog nach Geschur und brachte Absalom nach Jerusalem."
 "Aber der König sprach
 "Aber in ganz Israel war kein Mann so schön und so berühmt wie Absalom. Von der Fußsohle bis zum Scheitel war kein Makel an ihm."
-"Und wenn er sein Haupt scheren ließ(dies geschah nämlich zu Ende eines jeden Jahres, denn es war ihm zu schwer, also daß man es abscheren mußte), so wog sein Haupthaar zweihundert Schekel nach königlichem Gewicht."
+"Und wenn er sein Haupt scheren ließ(dies geschah nämlich zu Ende eines jeden Jahres, denn es war ihm #zu schwer, also daß man es abscheren mußte), so wog sein Haupthaar zweihundert Schekel nach königlichem Gewicht."
 "Und dem Absalom wurden drei Söhne geboren und eine Tochter, die hieß Tamar; die war ein Weib von schöner Gestalt."
 "Und Absalom blieb zwei Jahre lang zu Jerusalem, ohne daß er das Angesicht des Königs sah."
 "Dann aber sandte Absalom nach Joab, um ihn zum König zu schicken; aber er wollte nicht zu ihm kommen. Er aber sandte noch einmal; dennoch wollte jener nicht kommen."

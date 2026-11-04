@@ -18,7 +18,7 @@
 "Mutta minä myös sanon sinulle
 "Ja minä annan sinulle taivaan valtakunnan avaimet
 "Niin hän haastoi opetuslapsiansa kellenkään sanomasta, että hän oli Jesus Kristus."
-"Siitä ajasta rupesi Jesus julistamaan opetuslapsillensa, että hänen piti Jerusalemiin menemän, ja paljon vanhimmilta ja pappein päämiehiltä ja kirjanoppineilta kärsimän, ja tapettaman, ja kolmantena päivänä ylösnouseman."
+"Siitä ajasta rupesi Jesus julistamaan opetuslapsillensa, että hänen piti Jerusalemiin menemän, ja paljon vanhimmilta #ja pappein päämiehiltä ja kirjanoppineilta kärsimän, ja tapettaman, ja kolmantena päivänä ylösnouseman."
 "Ja Pietari otti hänen erinänsä, rupesi häntä nuhtelemaan, sanoen
 "Niin hän käänsi itsensä ympäri ja sanoi Pietarille
 "Silloin Jesus sanoi opetuslapsillensa

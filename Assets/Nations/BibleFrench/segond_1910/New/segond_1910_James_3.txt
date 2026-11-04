@@ -3,7 +3,7 @@
 "Si nous mettons le mors dans la bouche des chevaux pour qu'ils nous obéissent, nous dirigeons aussi leur corps tout entier."
 "Voici, même les navires, qui sont si grands et que poussent des vents impétueux, sont dirigés par un très petit gouvernail, au gré du pilote."
 "De même, la langue est un petit membre, et elle se vante de grandes choses. Voici, comme un petit feu peut embraser une grande forêt!"
-"La langue aussi est un feu; c'est le monde de l'iniquité. La langue est placée parmi nos membres, souillant tout le corps, et enflammant le cours de la vie, étant elle-même enflammée par la géhenne."
+"La langue aussi est un feu; c'est le monde de l'iniquité. La langue est placée parmi nos membres, #souillant tout le corps, et enflammant le cours de la vie, étant elle-même enflammée par la géhenne."
 "Toutes les espèces de bêtes et d'oiseaux, de reptiles et d'animaux marins, sont domptés et ont été domptés par la nature humaine;"
 "mais la langue, aucun homme ne peut la dompter; c'est un mal qu'on ne peut réprimer; elle est pleine d'un venin mortel."
 "Par elle nous bénissons le Seigneur notre Père, et par elle nous maudissons les hommes faits à l'image de Dieu."

@@ -2,7 +2,7 @@
 "Ale chodil po cestách králů Izraelských, nýbrž nadělal také slitin modlářských."
 "Přesto i sám kadíval v údolí Benhinnom, a pálil syny své ohněm podlé ohavností pohanů, kteréž vyhnal Hospodin před syny Izraelskými."
 "A obětoval i kadíval na výsostech a na pahrbcích, i pod každým stromem zeleným."
-"Protož dal jej Hospodin Bůh jeho v ruku krále Syrského. Kteříž porazivše jej, zajali odtud množství veliké, a přivedli je do Damašku. Nad to i v ruku krále Izraelského dán jest, kterýž porazil jej porážkou velikou."
+"Protož dal jej Hospodin Bůh jeho v ruku krále Syrského. Kteříž porazivše jej, zajali odtud množství veliké, a přivedli #je do Damašku. Nad to i v ruku krále Izraelského dán jest, kterýž porazil jej porážkou velikou."
 "Nebo pomordoval Pekach syn Romeliášův v Judstvu sto a dvadcet tisíců dne jednoho, vše mužů udatných, proto že opustili Hospodina Boha otců svých."
 "Zabil také Zichri, rytíř Efraimský Maaseiáše syna králova, a Azrikama, správce domu jeho, a Elkána, druhého po králi."
 "Nadto zajali též synové Izraelští z bratří svých dvakrát sto tisíc žen, synů a dcer, ano i kořistí mnoho nabrali od nich, a vezli loupež do Samaří."
@@ -12,7 +12,7 @@
 "Tedy povstali někteří z předních synů Efraimových
 "A řekli jim
 "Takž nechali vojáci těch zajatých i kořistí svých před knížaty a vším shromážděním."
-"A přičinivše se muži někteří ze jména znamenaní, vzali ty zajaté, a všecky, kteřížkoli z nich nebyli odění, přiodíli je z těch kořistí. A když je zobláčeli a zobouvali, nakrmili i napojili, ano i pomazali, a zprovodili na oslích, každého nemocného z nich, a dovedli ho do Jericha města palmového k bratřím jejich, potom navrátili se do Samaří."
+"A přičinivše se muži někteří ze jména znamenaní, vzali ty zajaté, a všecky, kteřížkoli z nich nebyli odění, přiodíli je z těch kořistí. A když je zobláčeli a zobouvali, nakrmili #i napojili, ano i pomazali, a zprovodili na oslích, každého nemocného z nich, a dovedli ho do Jericha města palmového k bratřím jejich, potom navrátili se do Samaří."
 "Toho času poslal král Achas k králům Assyrským, aby mu pomoc dali."
 "Nebo ještě přitáhli i Idumejští, a zbili některé z Judských, a jiné zajali."
 "Nadto i Filistinští učinili vpád do měst, na rovinách k straně polední Judstva, a vzali Betsemes a Aialon, a Gederot a Socho i vsi jeho, a Tamna i vsi jeho, a Gimzo i vsi jeho, a bydlili v nich."

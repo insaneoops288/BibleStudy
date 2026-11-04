@@ -10,9 +10,9 @@
 "Passa fuori del tuo paese, come un rivo, o figliuola di Tarsis; non vi è più cintura."
 "Il Signore ha stesa la sua mano sopra il mare, egli ha fatti tremare i regni; egli ha dato comandamento contro a’ Cananei, che si distruggano le fortezze di quella."
 "Ed ha detto
-"Ecco il paese de’ Caldei; questo popolo non era ancora, quando Assur fondò quello per coloro che dimoravano ne’ deserti; essi aveano rizzate le sue torri, aveano alzati i suoi palazzi; e pure egli è stato messo in ruina."
+"Ecco il paese de’ Caldei; questo popolo non era ancora, quando Assur fondò quello per coloro che dimoravano ne’ deserti; #essi aveano rizzate le sue torri, aveano alzati i suoi palazzi; e pure egli è stato messo in ruina."
 "Urlate, navi di Tarsis; perciocchè la vostra fortezza è stata guasta."
 "E in quel giorno avverrà che Tiro sarà dimenticata per settant’anni, secondo i giorni d’un re; ma, in capo di settant’anni Tiro avrà in bocca come una canzone di meretrice."
 "Prendi la cetera, va’ attorno alla città, o meretrice dimenticata; suona pur bene, canta pur forte, acciocchè altri si ricordi di te."
 "E in capo di settant’anni, avverrà che il Signore visiterà Tiro, ed ella ritornerà al suo guadagno; e fornicherà, con tutti i regni del mondo, sopra la faccia della terra."
-"Ma, alla fine, il suo traffico, e il suo guadagno, sarà consacrato al Signore; egli non sarà riposto, nè serrato; anzi la sua mercatanzia sarà per quelli che abitano nel cospetto del Signore, per mangiare a sazietà, e per esser coperti di vestimenti durabili."
+"Ma, alla fine, il suo traffico, e il suo guadagno, sarà consacrato al Signore; egli non sarà riposto, nè serrato; anzi la sua #mercatanzia sarà per quelli che abitano nel cospetto del Signore, per mangiare a sazietà, e per esser coperti di vestimenti durabili."

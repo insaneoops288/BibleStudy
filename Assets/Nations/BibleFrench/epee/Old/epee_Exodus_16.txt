@@ -15,7 +15,7 @@
 "Quand les enfants d'Israël la virent, ils se dirent l'un à l'autre
 "Voici ce que l'Éternel a commandé
 "Les enfants d'Israël firent donc ainsi; et ils recueillirent, l'un plus et l'autre moins."
-"Et ils le mesurèrent par homer; et celui qui en recueillait beaucoup, n'en eut pas trop, et celui qui en recueillait peu, n'en manqua pas; ils en recueillirent chacun en proportion de ce qu'il mangeait."
+"Et ils le mesurèrent par homer; et celui qui en recueillait beaucoup, n'en eut pas trop, et celui #qui en recueillait peu, n'en manqua pas; ils en recueillirent chacun en proportion de ce qu'il mangeait."
 "Et Moïse leur dit
 "Mais ils n'obéirent point à Moïse, et quelques-uns en laissèrent jusqu'au matin, et il s'y engendra des vers et une mauvaise odeur; et Moïse se mit en colère contre eux."
 "Ils en recueillirent donc tous les matins, chacun en proportion de ce qu'il mangeait; et lorsque le soleil était chaud, cela fondait."
@@ -26,11 +26,11 @@
 "Pendant six jours vous le recueillerez, mais au septième jour, qui est le sabbat, il n'y en aura point."
 "Et le septième jour, quelques-uns du peuple sortirent pour en recueillir; mais ils n'en trouvèrent point."
 "Alors l'Éternel dit à Moïse
-"Considérez que l'Éternel vous a donné le sabbat, c'est pourquoi il vous donne au sixième jour du pain pour deux jours; que chacun demeure à sa place, et que personne ne sorte de son lieu le septième jour."
+"Considérez que l'Éternel vous a donné le sabbat, c'est pourquoi il vous donne au sixième jour du pain pour deux #jours; que chacun demeure à sa place, et que personne ne sorte de son lieu le septième jour."
 "Le peuple se reposa donc le septième jour."
 "Et la maison d'Israël nomma cette nourriture, manne; elle était comme de la semence de coriandre, blanche, et avait le goût de beignets au miel."
 "Et Moïse dit
 "Et Moïse dit à Aaron
 "Comme le Seigneur l'avait commandé à Moïse, Aaron le déposa devant le Témoignage, pour qu'il fût gardé."
-"Et les enfants d'Israël mangèrent la manne quarante ans, jusqu'à ce qu'ils fussent venus dans un pays habité; ils mangèrent la manne, jusqu'à ce qu'ils fussent venus à la frontière du pays de Canaan."
+"Et les enfants d'Israël mangèrent la manne quarante ans, jusqu'à ce qu'ils fussent venus dans un pays habité; #ils mangèrent la manne, jusqu'à ce qu'ils fussent venus à la frontière du pays de Canaan."
 "Or, le homer est la dixième partie de l'épha."

@@ -7,7 +7,7 @@
 "Olkaat siis hedelmälliset, lisääntykäät ja enentäkäät teitänne maassa, ja tulkaat siinä moneksi."
 "Ja Jumala puhui Noalle ja hänen pojillensa hänen kanssansa, sanoen
 "Ja minä, katso, minä teen teidän kanssanne minun liittoni, ja teidän siemenenne kanssa teidän jälkeenne."
-"Ja jokaisen elävän hengen kanssa, jotka teidän tykönänne ovat, sekä linnuissa että karjassa, ja kaikissa eläimissä maan päällä, jotka teidän tykönänne ovat, kaikissa niissä, jotka arkista läksivät, mikä ikänänsä eläin se maassa on."
+"Ja jokaisen elävän hengen kanssa, jotka teidän tykönänne ovat, sekä linnuissa että karjassa, ja kaikissa eläimissä maan #päällä, jotka teidän tykönänne ovat, kaikissa niissä, jotka arkista läksivät, mikä ikänänsä eläin se maassa on."
 "Ja teen minun liittoni teidän kanssanne
 "Ja Jumala sanoi
 "Minun kaareni minä olen pannut pilviin
@@ -20,7 +20,7 @@
 "Ja Noa rupesi olemaan peltomiesnä, ja istutti viinamäen."
 "Ja hän joi viinaa; ja juopui ja makasi peittämättä majassansa."
 "Koska Ham, Kanaanin Isä, näki hänen isänsä hävyn, sanoi hän sen molemmille veljillensä, jotka ulkona olivat."
-"Niin otti Sem ja Japhet vaatteen, ja panivat molempain heidän hartioillensa, ja menivät seljittäin, ja peittivät isänsä hävyn. Ja heidän kasvonsa olivat käännetyt pois, niin etteivät he nähneet isänsä häpyä."
+"Niin otti Sem ja Japhet vaatteen, ja panivat molempain heidän hartioillensa, ja menivät seljittäin, ja peittivät #isänsä hävyn. Ja heidän kasvonsa olivat käännetyt pois, niin etteivät he nähneet isänsä häpyä."
 "Koska Noa heräsi viinastansa, ja sai tietää, mitä hänen nuorin poikansa hänelle tehnyt oli
 "Niin sanoi hän
 "Ja vielä sanoi

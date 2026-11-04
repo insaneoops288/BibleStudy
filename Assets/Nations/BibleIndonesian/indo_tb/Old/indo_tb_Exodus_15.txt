@@ -16,12 +16,12 @@
 "Ngeri dan takut menimpa mereka, karena kebesaran tangan-Mu mereka kaku seperti batu, sampai umat-Mu menyeberang, ya TUHAN, sampai umat yang Kauperoleh menyeberang."
 "Engkau membawa mereka dan Kaucangkokkan mereka di atas gunung milik-Mu sendiri; di tempat yang telah Kaubuat kediaman-Mu, ya TUHAN; di tempat kudus, yang didirikan tangan-Mu, ya TUHAN."
 "TUHAN memerintah kekal selama-lamanya."""
-"Ketika kuda Firaun dengan keretanya dan orangnya yang berkuda telah masuk ke laut, maka TUHAN membuat air laut berbalik meliputi mereka, tetapi orang Israel berjalan di tempat kering dari tengah-tengah laut."
+"Ketika kuda Firaun dengan keretanya dan orangnya yang berkuda telah masuk ke laut, maka TUHAN membuat #air laut berbalik meliputi mereka, tetapi orang Israel berjalan di tempat kering dari tengah-tengah laut."
 "Lalu Miryam, nabiah itu, saudara perempuan Harun, mengambil rebana di tangannya, dan tampillah semua perempuan mengikutinya memukul rebana serta menari-nari."
 "Dan menyanyilah Miryam memimpin mereka
 "Musa menyuruh orang Israel berangkat dari Laut Teberau, lalu mereka pergi ke padang gurun Syur; tiga hari lamanya mereka berjalan di padang gurun itu dengan tidak mendapat air."
 "Sampailah mereka ke Mara, tetapi mereka tidak dapat meminum air yang di Mara itu, karena pahit rasanya. Itulah sebabnya dinamai orang tempat itu Mara."
 "Lalu bersungut-sungutlah bangsa itu kepada Musa, kata mereka
-"Musa berseru-seru kepada TUHAN, dan TUHAN menunjukkan kepadanya sepotong kayu; Musa melemparkan kayu itu ke dalam air; lalu air itu menjadi manis. Di sanalah diberikan TUHAN ketetapan-ketetapan dan peraturan-peraturan kepada mereka dan di sanalah TUHAN mencoba mereka,"
+"Musa berseru-seru kepada TUHAN, dan TUHAN menunjukkan kepadanya sepotong kayu; Musa melemparkan kayu itu ke dalam air; lalu air #itu menjadi manis. Di sanalah diberikan TUHAN ketetapan-ketetapan dan peraturan-peraturan kepada mereka dan di sanalah TUHAN mencoba mereka,"
 "firman-Nya
 "Sesudah itu sampailah mereka di Elim; di sana ada dua belas mata air dan tujuh puluh pohon korma, lalu berkemahlah mereka di sana di tepi air itu."

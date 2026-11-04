@@ -2,7 +2,7 @@
 "Sot, kur të ikësh nga unë, do të gjesh dy njerëz pranë varrit të Rakelës në kufirin e Beniaminit, në Tseltsah. Ata do të thonë
 "Pastaj ti do ta kalosh atë vend dhe do të arrish në lisin e Taborit; aty do të takosh tre njerëz që shkojnë për të adhuruar Perëndinë në Bethel
 "Ata do të të përshëndetin dhe do të të japin dy bukë, që do t'i marrësh nga duart e tyre."
-"Pastaj ti do të arrish në kodrinën e Perëndisë, ku gjendet garnizoni i Filistejve; dhe këtu, duke arritur në qytet, do të takosh një grup profetësh që do të zbresin nga vendi i lartë, të paraprirë nga një harpë, një dajre, një fyell dhe një qeste, dhe që do të bëjnë profeci."
+"Pastaj ti do të arrish në kodrinën e Perëndisë, ku gjendet garnizoni i Filistejve; dhe këtu, duke arritur në qytet, do të takosh një grup profetësh që #do të zbresin nga vendi i lartë, të paraprirë nga një harpë, një dajre, një fyell dhe një qeste, dhe që do të bëjnë profeci."
 "Atëherë Fryma e Zotit do të të ngarkojë të bësh profeci me ta, dhe do të shndërrohesh në një njeri tjetër."
 "Kur këto shenja do të realizohen, bëj atë që rasti kërkon, sepse Perëndia është me ty."
 "Pastaj ti do të zbresësh para meje në Gilgal

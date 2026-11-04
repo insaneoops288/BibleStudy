@@ -1,4 +1,4 @@
-"Quando o SENHOR teu Deus te houver introduzido na terra na qual tu hás de entrar para possuí-la, e houver expulsado de diante de ti muitas nações, aos heteus, aos gergeseus, e aos amorreus, e aos cananeus, e aos perizeus, e aos heveus, e aos jebuseus, sete nações maiores e mais fortes que tu;"
+"Quando o SENHOR teu Deus te houver introduzido na terra na qual tu hás de entrar para possuí-la, e houver expulsado de diante de ti muitas nações, aos #heteus, aos gergeseus, e aos amorreus, e aos cananeus, e aos perizeus, e aos heveus, e aos jebuseus, sete nações maiores e mais fortes que tu;"
 "E o SENHOR teu Deus as houver entregue diante de ti, e as ferires, por completo as destruirás
 "E não aparentarás com eles
 "Porque desviará a teu filho de me seguir, e servirão a deuses alheios; e o furor do SENHOR se acenderá sobre vós, e te destruirá logo."
@@ -10,7 +10,7 @@
 "E que retribui em sua face ao que lhe aborrece, destruindo-o
 "Guarda portanto os mandamentos, e estatutos, e regulamentos que eu te mando hoje que cumpras."
 "E será que, por haver ouvido estes regulamentos, e guardado e os praticado, o SENHOR teu Deus guardará contigo o pacto e a misericórdia que jurou a teus pais;"
-"E te amará, e te abençoará, e te multiplicará, e abençoará o fruto de teu ventre, e o fruto de tua terra, e teu grão, e teu mosto, e teu azeite, a cria de tuas vacas, e os rebanhos de tuas ovelhas, na terra que jurou a teus pais que te daria."
+"E te amará, e te abençoará, e te multiplicará, e abençoará o fruto de teu ventre, e o fruto de tua terra, e teu grão, e teu #mosto, e teu azeite, a cria de tuas vacas, e os rebanhos de tuas ovelhas, na terra que jurou a teus pais que te daria."
 "Bendito serás mais que todos os povos
 "E tirará o SENHOR de ti toda enfermidade; e todas as más pragas do Egito, que tu sabes, não as porá sobre ti, antes as porá sobre todos os que te odiarem."
 "E consumirás a todos os povos que te dá o SENHOR teu Deus

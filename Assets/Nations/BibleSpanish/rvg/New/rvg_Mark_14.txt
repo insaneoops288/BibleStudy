@@ -1,6 +1,6 @@
 "Y dos días después era [la fiesta de] la pascua, y de los panes sin levadura; y los príncipes de los sacerdotes y los escribas buscaban cómo prenderle por engaño y matarle."
 "Y decían
-"Y estando Él en Betania, en casa de Simón el leproso, y sentado Él a la mesa, vino una mujer trayendo un frasco de alabastro de ungüento de nardo puro, de mucho precio, y quebrando el frasco de alabastro, se lo derramó sobre su cabeza."
+"Y estando Él en Betania, en casa de Simón el leproso, y sentado Él a la mesa, vino una mujer trayendo un frasco #de alabastro de ungüento de nardo puro, de mucho precio, y quebrando el frasco de alabastro, se lo derramó sobre su cabeza."
 "Y hubo algunos que se indignaron dentro de sí, y dijeron
 "Porque podía esto haberse vendido por más de trescientos denarios, y haberse dado a los pobres. Y murmuraban contra ella."
 "Pero Jesús dijo
@@ -40,7 +40,7 @@
 "Y al volver, otra vez los halló durmiendo, porque los ojos de ellos estaban cargados [de sueño], y no sabían qué responderle."
 "Y vino la tercera vez, y les dijo
 "‹Levantaos, vamos; he aquí, se acerca el que me entrega.›"
-"Y en ese momento, mientras Él aún hablaba, vino Judas, que era uno de los doce, y con él una gran multitud con espadas y palos, de parte de los príncipes de los sacerdotes y de los escribas y de los ancianos."
+"Y en ese momento, mientras Él aún hablaba, vino Judas, que era uno de los doce, y con él una gran multitud #con espadas y palos, de parte de los príncipes de los sacerdotes y de los escribas y de los ancianos."
 "Y el que le entregaba les había dado señal, diciendo
 "Y cuando vino, enseguida se acercó a Él, y le dijo
 "Entonces ellos le echaron mano, y le prendieron."

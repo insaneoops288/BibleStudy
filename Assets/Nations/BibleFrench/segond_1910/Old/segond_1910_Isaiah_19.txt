@@ -17,7 +17,7 @@
 "Et le pays de Juda sera pour l'Egypte un objet d'effroi
 "En ce temps-là, il y aura cinq villes au pays d'Egypte, Qui parleront la langue de Canaan, Et qui jureront par l'Eternel des armées
 "En ce même temps, il y aura un autel à l'Eternel Au milieu du pays d'Egypte, Et sur la frontière un monument à l'Eternel."
-"Ce sera pour l'Eternel des armées un signe et un témoignage Dans le pays d'Egypte; Ils crieront à l'Eternel à cause des oppresseurs, Et il leur enverra un sauveur et un défenseur pour les délivrer."
+"Ce sera pour l'Eternel des armées un signe et un témoignage Dans le pays d'Egypte; Ils crieront à #l'Eternel à cause des oppresseurs, Et il leur enverra un sauveur et un défenseur pour les délivrer."
 "Et l'Eternel sera connu des Egyptiens, Et les Egyptiens connaîtront l'Eternel en ce jour-là; Ils feront des sacrifices et des offrandes, Ils feront des voeux à l'Eternel et les accompliront."
 "Ainsi l'Eternel frappera les Egyptiens, Il les frappera, mais il les guérira; Et ils se convertiront à l'Eternel, Qui les exaucera et les guérira."
 "En ce même temps, il y aura une route d'Egypte en Assyrie

@@ -14,7 +14,7 @@
 "Nuk do të zbulosh lakuriqësinë e vëllait të atit tënd; nuk do t'i afrohesh gruas së tij; ajo është halla jote."
 "Nuk do të zbulosh lakuriqësinë e nuses së birit tënd; ajo është gruaja e djalit tënd; mos zbulo lakuriqësinë e saj."
 "Nuk do të zbulosh lakuriqësinë e gruas së vëllait tënd; është lakuriqësia e vëllait tënd."
-"Nuk do të zbulosh lakuriqësinë e një gruaje dhe të bijës së saj; nuk do të marrësh bijën e birit të saj, as bijën e bijës së saj për të zbuluar lakuriqësinë; janë të afërm të ngushtë të saj; është një incest."
+"Nuk do të zbulosh lakuriqësinë e një gruaje dhe të bijës së saj; nuk do të marrësh bijën e birit të saj, #as bijën e bijës së saj për të zbuluar lakuriqësinë; janë të afërm të ngushtë të saj; është një incest."
 "Nuk do të marrësh një grua bashkë me të motrën për ta bërë shemër, duke zbuluar lakuriqësinë e saj ndërsa tjetra është akoma gjallë."
 "Nuk do t'i afrohesh një gruaje për të zbuluar lakuriqësinë e saj në periudhën e papastërtisë së saj të shkaktuar nga zakonet."
 "Nuk do të kesh marrëdhënie seksuale me gruan e fqinjit tënd për t'u ndotur me të."

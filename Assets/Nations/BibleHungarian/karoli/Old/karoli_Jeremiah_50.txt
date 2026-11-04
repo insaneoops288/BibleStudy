@@ -6,7 +6,7 @@
 "Elveszett juhnyáj volt az én népem, pásztorai félrevezették õket, a hegyekben bujdostatták õket, hegyrõl halomra jártak, elfelejtkeztek az õ tanyájukról."
 "A ki csak reájok talált, emésztette õket, és az õ elnyomóik ezt mondták
 "Fussatok ki Babilonból és jõjjetek ki Káldea földébõl, és olyanok legyetek, mint a kecskebakok a nyáj elõtt;"
-"Mert ímé, én nagy nemzetek gyülekezetét támasztom és hozom fel Babilonra északnak földérõl, és sorakoznak ellene, legott bevétetik. Nyilai olyanok, mint a legyõzhetetlen vitézé, a ki nem tér vissza sikertelenül."
+"Mert ímé, én nagy nemzetek gyülekezetét támasztom és hozom fel Babilonra északnak földérõl, és sorakoznak ellene, #legott bevétetik. Nyilai olyanok, mint a legyõzhetetlen vitézé, a ki nem tér vissza sikertelenül."
 "És Káldea prédává lesz, a kik prédára vetik õt, mind betelnek vele, azt mondja az Úr."
 "Csak örüljetek, csak tomboljatok örökségem elpusztítói
 "Megszégyenül a ti anyátok, a ti szûlõtök igen csúffá lesz
@@ -41,6 +41,6 @@
 "Ímé, nép jött északról, és nagy nemzet és sok király támad fel a föld határaiból."
 "Ívet és paizst ragadnak, kegyetlenek azok, és semmi irgalmasság nem lesz bennök, szavok mint a tenger zúgása, és lovakon jõnek, mind viadalra készek te ellened, te Babilon leánya!"
 "Hallja a babiloni király az õ híröket, és kezei elesnek, szorongás fogja el õt, fájdalom, mint a gyermekszûlõt."
-"Ímé, mint a Jordán erdõségébõl való oroszlán, úgy jön fel az örök[zöld] ligetre, de hamar kiûzöm õt arról, és a ki arra választatott, azt teszem azon fejedelemmé, mert kicsoda hasonlatos hozzám? és ki szab nékem törvényt, és ki az a pásztor, a ki ellenem álljon?"
+"Ímé, mint a Jordán erdõségébõl való oroszlán, úgy jön fel az örök[zöld] ligetre, de hamar kiûzöm õt arról, és a ki arra választatott, #azt teszem azon fejedelemmé, mert kicsoda hasonlatos hozzám? és ki szab nékem törvényt, és ki az a pásztor, a ki ellenem álljon?"
 "Azért halljátok meg az Úr tervét, a melyet Babilon ellen tervezett, és az õ gondolatait, a melyeket Káldea ellen gondolt. Bizony elhajtják õket, a nyáj kicsinyeit, és álmélkodik felettök a legelõ."
 "Babilon bevételének zajától megindul a föld, és kiáltása hallatszik a nemzetek között!"

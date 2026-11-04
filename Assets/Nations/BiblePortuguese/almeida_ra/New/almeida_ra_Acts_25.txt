@@ -23,5 +23,5 @@
 "No dia seguinte vindo Agripa e Berenice, com muito aparato, entraram no auditório com os chefes militares e homens principais da cidade; então, por ordem de Festo, Paulo foi trazido."
 "Disse Festo
 "Eu, porém, achei que ele não havia praticado coisa alguma digna de morte; mas havendo ele apelado para o imperador, resolvi remeter-lho."
-"Do qual não tenho coisa certa que escreva a meu senhor, e por isso perante vós o trouxe, principalmente perante ti, ó rei Agripa, para que, depois de feito o interrogatório, tenha eu alguma coisa que escrever."
+"Do qual não tenho coisa certa que escreva a meu senhor, e por isso perante vós o trouxe, principalmente #perante ti, ó rei Agripa, para que, depois de feito o interrogatório, tenha eu alguma coisa que escrever."
 "Porque não me parece razoável enviar um preso, e não notificar as acusações que há contra ele."

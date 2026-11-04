@@ -2,7 +2,7 @@
 "No gritará, ni alzará su voz, ni la hará oír en las plazas."
 "No quebrará la caña cascada, ni apagará el pábilo que humeare; sacará el juicio a verdad."
 "No se cansará, ni desmayará, hasta que haya establecido juicio en la tierra; y las islas esperarán su ley."
-"Así dice Jehová Dios, el Creador de los cielos, y el que los despliega; el que extiende la tierra y sus frutos; el que da respiración al pueblo que mora sobre ella, y espíritu a los que por ella andan."
+"Así dice Jehová Dios, el Creador de los cielos, y el que los despliega; el que extiende la tierra y sus #frutos; el que da respiración al pueblo que mora sobre ella, y espíritu a los que por ella andan."
 "Yo Jehová te he llamado en justicia, y sostendré tu mano; te guardaré y te pondré por pacto del pueblo, por luz de los gentiles;"
 "para que abras los ojos de los ciegos, para que saques de la cárcel a los presos, y de casas de prisión a los que moran en tinieblas."
 "Yo Jehová; éste [es] mi nombre; y a otro no daré mi gloria, ni mi alabanza a esculturas."
@@ -13,7 +13,7 @@
 "Jehová saldrá como gigante, y como hombre de guerra despertará celo; gritará, voceará, se esforzará sobre sus enemigos."
 "Desde el siglo he callado, he guardado silencio, y me he detenido; [ahora] daré voces como la mujer que está de parto; asolaré y devoraré juntamente."
 "Tornaré en soledad montes y collados, haré secar toda su hierba; los ríos tornaré en islas, y secaré los estanques."
-"Y guiaré a los ciegos por camino que no sabían, les haré pisar por las sendas que no habían conocido; delante de ellos tornaré las tinieblas en luz, y lo escabroso en llanura. Estas cosas les haré, y no los desampararé."
+"Y guiaré a los ciegos por camino que no sabían, les haré pisar por las sendas que no habían conocido; delante #de ellos tornaré las tinieblas en luz, y lo escabroso en llanura. Estas cosas les haré, y no los desampararé."
 "Serán vueltos atrás, y en extremo confundidos, los que confían en los ídolos, y dicen a las imágenes de fundición
 "Sordos, oíd; y vosotros ciegos, mirad para ver."
 "¿Quién [es] ciego, sino mi siervo? ¿Quién [es] sordo, como mi mensajero que envié? ¿Quién [es] ciego como el perfecto, y ciego como el siervo de Jehová,"

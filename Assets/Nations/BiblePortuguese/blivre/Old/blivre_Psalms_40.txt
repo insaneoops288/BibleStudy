@@ -2,7 +2,7 @@
 "Ele me tirou de uma cova de tormento, de um lamaceiro de barro; e pôs os meus pés sobre uma rocha; ele firmou meus passos."
 "E pôs em minha boca uma canção nova, um louvor para nosso Deus
 "Bem-aventurado [é] o homem que põe no SENHOR sua confiança; e não dá atenção aos arrogantes e aos que caminham em direção à mentira."
-"Tu, SENHOR meu Deus, multiplicaste para conosco tuas maravilhas e teus planos; eles não podem ser contados em ordem diante de ti; se eu [tentasse] contá-los e falá-los, eles são muito mais do que incontáveis."
+"Tu, SENHOR meu Deus, multiplicaste para conosco tuas maravilhas e teus planos; eles não podem ser contados em #ordem diante de ti; se eu [tentasse] contá-los e falá-los, eles são muito mais do que incontáveis."
 "Tu não te agradaste de sacrifício e oferta; [porém] tu me furaste as orelhas; tu não pediste nem oferta de queima nem oferta para expiação de pecado."
 "Então eu disse
 "Meu Deus, eu desejo fazer a tua vontade; e tua Lei está no meio dos meus sentimentos."

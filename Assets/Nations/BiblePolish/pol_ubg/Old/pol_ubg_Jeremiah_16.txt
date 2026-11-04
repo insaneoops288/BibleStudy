@@ -1,7 +1,7 @@
 "I doszło do mnie słowo PANA mówiące
 "Nie pojmiesz sobie żony ani nie będziesz miał synów i córek na tym miejscu."
 "Tak bowiem mówi PAN o synach i córkach urodzonych na tym miejscu, o ich matkach, które ich urodzą, i o ich ojcach, którzy ich spłodzą w tej ziemi
-"Pomrą od ciężkich śmiertelnych chorób; nie będą opłakiwani ani pogrzebani, lecz staną się nawozem na powierzchni ziemi. Wyginą od miecza i głodu, a ich trupy będą pokarmem dla ptactwa nieba i zwierząt ziemi."
+"Pomrą od ciężkich śmiertelnych chorób; nie będą opłakiwani ani pogrzebani, lecz staną się nawozem na powierzchni ziemi. #Wyginą od miecza i głodu, a ich trupy będą pokarmem dla ptactwa nieba i zwierząt ziemi."
 "Tak bowiem mówi PAN
 "Pomrą wielcy i mali w tej ziemi. Nie będą pogrzebani ani opłakiwani, nikt nie będzie dla nich się nacinał ani robił sobie łysiny;"
 "Nikt nie będzie łamać chleba z tymi, którzy są w żałobie, aby ich pocieszyć po zmarłym, ani nie dadzą im pić z kubka pocieszenia za ich ojca lub matkę."

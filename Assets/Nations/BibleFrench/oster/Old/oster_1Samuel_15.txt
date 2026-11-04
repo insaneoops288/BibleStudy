@@ -1,12 +1,12 @@
 "Or, Samuel dit à Saül
 "Ainsi a dit l'Éternel des armées
-"Maintenant va, et frappe Amalek, et vouez à l'interdit tout ce qu'il a; et ne l'épargne point, mais fais mourir et les hommes et les femmes, et les jeunes enfants et ceux qui tètent, et les bœufs et les brebis, et les chameaux et les ânes."
+"Maintenant va, et frappe Amalek, et vouez à l'interdit tout ce qu'il a; et ne l'épargne point, mais fais mourir et les hommes et #les femmes, et les jeunes enfants et ceux qui tètent, et les bœufs et les brebis, et les chameaux et les ânes."
 "Saül convoqua donc le peuple, et en fit la revue à Télaïm, au nombre de deux cent mille hommes de pied, et dix mille hommes de Juda."
 "Et Saül vint jusqu'à la ville d'Amalek, et mit une embuscade dans la vallée."
 "Et Saül dit aux Kéniens
 "Or, Saül battit Amalek depuis Havila jusqu'à Shur, qui est vis-à-vis de l'Égypte;"
 "Et il prit vivant Agag, roi d'Amalek; et il fit passer tout le peuple au fil de l'épée, le vouant à l'interdit."
-"Mais Saül et le peuple épargnèrent Agag et les meilleures brebis, les meilleurs bœufs, les bêtes de seconde qualité, les agneaux, et tout ce qu'il y avait de bon, et ne voulurent point les vouer à l'interdit; ils vouèrent seulement à l'interdit tout ce qui était méprisable et chétif."
+"Mais Saül et le peuple épargnèrent Agag et les meilleures brebis, les meilleurs bœufs, les bêtes de seconde qualité, les agneaux, et tout ce qu'il #y avait de bon, et ne voulurent point les vouer à l'interdit; ils vouèrent seulement à l'interdit tout ce qui était méprisable et chétif."
 "Alors la parole de l'Éternel fut adressée à Samuel, en disant
 "Je me repens d'avoir établi Saül pour roi; car il s'est détourné de moi, et n'a point exécuté mes paroles. Et Samuel en fut fort affligé, et cria à l'Éternel toute la nuit."
 "Puis Samuel se leva de bon matin pour aller au-devant de Saül; et l'on fit ce rapport à Samuel, et on lui dit
@@ -20,7 +20,7 @@
 "Et Saül répondit à Samuel
 "Mais le peuple a pris sur le butin des brebis et des bœufs, comme prémices de l'interdit, pour sacrifier à l'Éternel, ton Dieu, à Guilgal."
 "Alors Samuel dit
-"Car la rébellion est autant que le péché de divination, et la résistance autant que les idoles et les théraphim. Parce que tu as rejeté la parole de l'Éternel, il t'a aussi rejeté, pour n'être plus roi."
+"Car la rébellion est autant que le péché de divination, et la résistance autant que les idoles et les #théraphim. Parce que tu as rejeté la parole de l'Éternel, il t'a aussi rejeté, pour n'être plus roi."
 "Alors Saül répondit à Samuel
 "Mais maintenant, je te prie, pardonne mon péché, et reviens avec moi, et je me prosternerai devant l'Éternel."
 "Et Samuel dit à Saül

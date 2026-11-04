@@ -7,5 +7,5 @@
 "Ecco il letto di Salomone, Intorno al quale sono sessant’uomini valenti, De’ prodi d’Israele."
 "Essi tutti maneggiano la spada, E sono ammaestrati nell’arme; Ciascuno ha la sua spada al fianco, Per gli spaventi notturni."
 "Il re Salomone si ha fatta una lettiera Di legno del Libano."
-"Egli ha fatte le sue colonne d’argento, Il suo capezzale d’oro, Il suo cielo di porpora, E il mezzo di essa figurato a lavoro di mosaico Dell’effigie di colei ch’egli ama, Fra le figliuole di Gerusalemme."
+"Egli ha fatte le sue colonne d’argento, Il suo capezzale d’oro, Il suo cielo di porpora, E il mezzo #di essa figurato a lavoro di mosaico Dell’effigie di colei ch’egli ama, Fra le figliuole di Gerusalemme."
 "Figliuole di Sion, uscite fuori, e vedete Il re Salomone Con la corona, della quale sua madre l’ha coronato, Nel giorno delle sue sponsalizie, E nel giorno dell’allegrezza del suo cuore."

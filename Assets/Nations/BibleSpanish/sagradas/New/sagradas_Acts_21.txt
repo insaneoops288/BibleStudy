@@ -18,12 +18,12 @@
 "Y al día siguiente Pablo entró con nosotros a <I>ver a</I>  Jacobo, y todos los ancianos se juntaron;"
 "a los cuales, cuando los hubo saludado, contó en detalle lo que Dios había hecho entre los gentiles por su ministerio."
 "Cuando ellos <I>lo</I>  oyeron, glorificaron al Señor, y le dijeron
-"pero fueron informados acerca de ti, que enseñas a apartarse de Moisés a todos los judíos que están entre los gentiles, diciéndoles que no han de circuncidar a los hijos, ni andar según la costumbre."
+"pero fueron informados acerca de ti, que enseñas a apartarse de Moisés a todos los judíos que están #entre los gentiles, diciéndoles que no han de circuncidar a los hijos, ni andar según la costumbre."
 "¿Qué hay pues? En todo caso es necesario que la multitud se junte, porque oirán que has venido."
 "Haz pues esto que te decimos
-"Tomando a éstos contigo, purifícate con ellos, y gaste por ellos, para que rasuren sus cabezas, y todos entiendan que no hay nada de lo que fueron informados acerca de ti; sino que tú también andas guardando la ley."
-"Pero <I>en</I>  cuanto a los que de los gentiles <I>que</I>  han creído, nosotros hemos escrito haberse acordado que no guarden nada de esto; solamente que se abstengan de lo que fuere sacrificado a los ídolos, y de sangre,  y de <I>lo</I>  ahogado, y de fornicación."
-"Entonces Pablo tomó consigo aquellos hombres, y al día siguiente, habiéndose purificado con ellos, entró en el Templo, para anunciar el cumplimiento de los días de la purificación, hasta ser ofrecida ofrenda por cada uno de  ellos."
+"Tomando a éstos contigo, purifícate con ellos, y gaste por ellos, para que rasuren sus cabezas, y todos entiendan que #no hay nada de lo que fueron informados acerca de ti; sino que tú también andas guardando la ley."
+"Pero <I>en</I>  cuanto a los que de los gentiles <I>que</I>  han creído, nosotros hemos escrito haberse acordado que no guarden nada de esto; #solamente que se abstengan de lo que fuere sacrificado a los ídolos, y de sangre,  y de <I>lo</I>  ahogado, y de fornicación."
+"Entonces Pablo tomó consigo aquellos hombres, y al día siguiente, habiéndose purificado con ellos, entró en el Templo, para anunciar #el cumplimiento de los días de la purificación, hasta ser ofrecida ofrenda por cada uno de  ellos."
 "Y cuando estaban para acabarse los siete días, unos judíos de Asia, como le vieron en el Templo, alborotaron todo el pueblo y le echaron mano,"
 "Dando voces
 "(Porque antes habían visto con él en la ciudad a Trófimo, efesio, al cual pensaban que Pablo había metido en el Templo.)"

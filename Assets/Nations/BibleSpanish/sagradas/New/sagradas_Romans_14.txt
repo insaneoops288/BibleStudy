@@ -3,7 +3,7 @@
 "El que come, no menosprecie al que no come; y el que no come, no juzgue al que come; porque Dios le ha levantado."
 "¿Tú quién eres que juzgas al siervo ajeno? Por su señor está en pie, o cae; y <I>si cae</I>  se afirmará; que poderoso es el Señor para afirmarle."
 "También alguno hace diferencia entre día y día; otro juzga <I>iguales</I>  todos los días. Cada uno esté asegurado en su alma."
-"El que hace caso del día, hágalo para el Señor; y el que no hace caso del día, para el Señor no lo hace. El que come, come para el Señor, porque da gracias a Dios; y el que no come, para el Señor no come, y da gracias a Dios."
+"El que hace caso del día, hágalo para el Señor; y el que no hace caso del día, para el Señor no lo hace. El que #come, come para el Señor, porque da gracias a Dios; y el que no come, para el Señor no come, y da gracias a Dios."
 "Porque ninguno de nosotros vive para sí, y ninguno muere para sí."
 "Que si vivimos, para el Señor vivimos; y si morimos, para el Señor morimos. Así que, o que vivamos, o que muramos, del Señor somos."
 "Porque el Cristo para esto murió, y resucitó, (y volvió a vivir,) para enseñorearse así de los muertos como de los que viven."

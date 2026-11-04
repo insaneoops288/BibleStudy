@@ -8,7 +8,7 @@
 "Et il leur ordonna de ne rien prendre pour le chemin, qu'un bâton; ni sac, ni pain, ni monnaie dans la ceinture;"
 "Mais des sandales aux pieds, et de ne pas porter deux habits."
 "Il leur dit aussi
-"Et lorsqu'il se trouvera des gens qui ne vous recevront pas, et qui ne vous écouteront pas, en partant de là, secouez la poussière de vos pieds en témoignage contre eux. Je vous dis en vérité, que le sort de Sodome et de Gomorrhe sera plus supportable au jour du jugement, que celui de cette ville-là."
+"Et lorsqu'il se trouvera des gens qui ne vous recevront pas, et qui ne vous écouteront pas, en partant de là, secouez la poussière de vos pieds en témoignage #contre eux. Je vous dis en vérité, que le sort de Sodome et de Gomorrhe sera plus supportable au jour du jugement, que celui de cette ville-là."
 "Étant donc partis, ils prêchèrent qu'on se repentît,"
 "Et ils chassèrent plusieurs contradictions, et oignirent d'huile plusieurs malades, et ils les guérirent."
 "Or, le roi Hérode entendit parler de Jésus, car son nom était déjà célèbre; et il dit
@@ -31,14 +31,14 @@
 "Et il leur dit
 "Ils s'en allèrent donc dans une barque, à l'écart et dans un lieu retiré."
 "Mais le peuple les vit partir, et plusieurs le reconnurent; et accourant à pied, de toutes les villes ils arrivèrent avant eux, et s'assemblèrent auprès de lui."
-"Alors Jésus étant sorti, vit une grande multitude; et il fut touché de compassion envers eux, parce qu'ils étaient comme des brebis qui n'ont point de berger; et il se mit à leur enseigner plusieurs choses."
+"Alors Jésus étant sorti, vit une grande multitude; et il fut touché de compassion envers eux, parce qu'ils étaient #comme des brebis qui n'ont point de berger; et il se mit à leur enseigner plusieurs choses."
 "Et comme il était déjà tard, ses disciples s'approchèrent de lui et lui dirent
 "Renvoie-les, afin qu'ils aillent dans les villages et dans les communautés des environs, et qu'ils s'achètent du pain; car ils n'ont rien à manger."
 "Et il leur dit
 "Et il leur dit
 "Alors il leur commanda de les faire tous asseoir, par groupes, sur l'herbe verte."
 "Et ils s'assirent en rang, par centaines et par cinquantaines."
-"Et Jésus prit les cinq pains et les deux poissons, et levant les yeux au ciel, il rendit grâces, et rompit les pains, et il les donna à ses disciples, afin qu'ils leur distribuent; il partagea aussi les deux poissons entre tous."
+"Et Jésus prit les cinq pains et les deux poissons, et levant les yeux au ciel, il rendit grâces, et rompit les #pains, et il les donna à ses disciples, afin qu'ils leur distribuent; il partagea aussi les deux poissons entre tous."
 "Et tous en mangèrent et furent rassasiés;"
 "Et on emporta douze paniers pleins de morceaux de pain, et de poissons."
 "Or, ceux qui avaient mangé de ces pains étaient environ cinq mille hommes."
@@ -53,4 +53,4 @@
 "Et quand ils eurent traversé la mer, ils vinrent en la contrée de Génézareth; et ils abordèrent."
 "Et dès qu'ils furent sortis de la barque, ceux du lieu le reconnurent,"
 "Et ils coururent dans toute la contrée d'alentour et se mirent à porter sur des civières ceux qui étaient malades, partout où ils entendaient dire qu'il était."
-"Et en quelque lieu qu'il entrât, dans les villages ou dans les villes, ou dans les campagnes, on mettait les malades dans les places publiques, et on le priait qu'au moins ils pussent toucher la frange de son manteau; et tous ceux qui le touchaient étaient guéris."
+"Et en quelque lieu qu'il entrât, dans les villages ou dans les villes, ou dans les campagnes, on mettait les malades dans les places #publiques, et on le priait qu'au moins ils pussent toucher la frange de son manteau; et tous ceux qui le touchaient étaient guéris."

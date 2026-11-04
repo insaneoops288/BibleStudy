@@ -25,6 +25,6 @@
 "At nang marinig ito ng mga alagad, ay lubhang nangagtaka, na nagsisipagsabi, Sino nga kaya ang makaliligtas?"
 "At pagtingin ni Jesus ay sinabi sa kanila, Hindi mangyayari ito sa mga tao; datapuwa't sa Dios ang lahat ng mga bagay ay mangyayari."
 "Nang magkagayo'y sumagot si Pedro at sinabi sa kaniya, Narito, iniwan namin ang lahat, at nagsisunod sa iyo
-"At sinabi ni Jesus sa kanila, Katotohanang sinasabi ko sa inyo, na kayong nagsisunod sa akin, sa pagbabagong lahi pagka uupo na ang Anak ng tao sa luklukan ng kaniyang kaluwalhatian, kayo nama'y magsisiupo sa labingdalawang luklukan, upang magsihukom sa labingdalawang angkan ng Israel."
-"At ang bawa't magiwan ng mga bahay, o mga kapatid na lalake, o mga kapatid na babae, o ama, o ina, o mga anak, o mga lupa, dahil sa aking pangalan, ay tatanggap ng tigisang daan, at magsisipagmana ng walang hanggang buhay."
+"At sinabi ni Jesus sa kanila, Katotohanang sinasabi ko sa inyo, na kayong nagsisunod sa akin, sa pagbabagong lahi pagka uupo na ang #Anak ng tao sa luklukan ng kaniyang kaluwalhatian, kayo nama'y magsisiupo sa labingdalawang luklukan, upang magsihukom sa labingdalawang angkan ng Israel."
+"At ang bawa't magiwan ng mga bahay, o mga kapatid na lalake, o mga kapatid na babae, o ama, o ina, o #mga anak, o mga lupa, dahil sa aking pangalan, ay tatanggap ng tigisang daan, at magsisipagmana ng walang hanggang buhay."
 "Datapuwa't maraming mga una na mangahuhuli; at mga huli na mangauuna."

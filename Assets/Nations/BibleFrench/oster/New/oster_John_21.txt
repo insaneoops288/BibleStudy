@@ -15,7 +15,7 @@
 "Après qu'ils eurent dîné, Jésus dit à Simon Pierre
 "Il lui dit une seconde fois
 "Il lui dit pour la troisième fois
-"En vérité, en vérité je te le dis; lorsque tu étais plus jeune, tu te ceignais toi-même, et tu allais où tu voulais; mais lorsque tu seras vieux, tu étendras tes mains, et un autre te ceindra, et te mènera où tu ne voudrais pas."
+"En vérité, en vérité je te le dis; lorsque tu étais plus jeune, tu te ceignais toi-même, et tu allais où tu voulais; #mais lorsque tu seras vieux, tu étendras tes mains, et un autre te ceindra, et te mènera où tu ne voudrais pas."
 "Or, il dit cela pour marquer par quelle mort Pierre glorifierait Dieu. Et après avoir ainsi parlé, il lui dit
 "Et Pierre s'étant retourné, vit venir après lui le disciple que Jésus aimait, celui qui, pendant le souper, s'était penché sur le sein de Jésus, et lui avait dit
 "Pierre donc l'ayant vu, dit à Jésus

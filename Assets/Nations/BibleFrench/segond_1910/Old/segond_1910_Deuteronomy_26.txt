@@ -1,5 +1,5 @@
 "Lorsque tu seras entré dans le pays que l'Eternel, ton Dieu, te donne pour héritage, lorsque tu le posséderas et y seras établi,"
-"tu prendras des prémices de tous les fruits que tu retireras du sol dans le pays que l'Eternel, ton Dieu, te donne, tu les mettras dans une corbeille, et tu iras au lieu que choisira l'Eternel, ton Dieu, pour y faire résider son nom."
+"tu prendras des prémices de tous les fruits que tu retireras du sol dans le pays que l'Eternel, ton Dieu, te donne, tu #les mettras dans une corbeille, et tu iras au lieu que choisira l'Eternel, ton Dieu, pour y faire résider son nom."
 "Tu te présenteras au sacrificateur alors en fonctions, et tu lui diras
 "Le sacrificateur recevra la corbeille de ta main, et la déposera devant l'autel de l'Eternel, ton Dieu."
 "Tu prendras encore la parole, et tu diras devant l'Eternel, ton Dieu
@@ -9,9 +9,9 @@
 "Il nous a conduits dans ce lieu, et il nous a donné ce pays, pays où coulent le lait et le miel."
 "Maintenant voici, j'apporte les prémices des fruits du sol que tu m'as donné, ô Eternel! Tu les déposeras devant l'Eternel, ton Dieu, et tu te prosterneras devant l'Eternel, ton Dieu."
 "Puis tu te réjouiras, avec le Lévite et avec l'étranger qui sera au milieu de toi, pour tous les biens que l'Eternel, ton Dieu, t'a donnés, à toi et à ta maison."
-"Lorsque tu auras achevé de lever toute la dîme de tes produits, la troisième année, l'année de la dîme, tu la donneras au Lévite, à l'étranger, à l'orphelin et à la veuve; et ils mangeront et se rassasieront, dans tes portes."
+"Lorsque tu auras achevé de lever toute la dîme de tes produits, la troisième année, l'année de la dîme, tu la #donneras au Lévite, à l'étranger, à l'orphelin et à la veuve; et ils mangeront et se rassasieront, dans tes portes."
 "Tu diras devant l'Eternel, ton Dieu
-"Je n'ai rien mangé de ces choses pendant mon deuil, je n'en ai rien fait disparaître pour un usage impur, et je n'en ai rien donné à l'occasion d'un mort; j'ai obéi à la voix de l'Eternel, mon Dieu, j'ai agi selon tous les ordres que tu m'as prescrits."
+"Je n'ai rien mangé de ces choses pendant mon deuil, je n'en ai rien fait disparaître pour un usage impur, et je n'en ai rien #donné à l'occasion d'un mort; j'ai obéi à la voix de l'Eternel, mon Dieu, j'ai agi selon tous les ordres que tu m'as prescrits."
 "Regarde de ta demeure sainte, des cieux, et bénis ton peuple d'Israël et le pays que tu nous as donné, comme tu l'avais juré à nos pères, ce pays où coulent le lait et le miel."
 "Aujourd'hui, l'Eternel, ton Dieu, te commande de mettre en pratique ces lois et ces ordonnances; tu les observeras et tu les mettras en pratique de tout ton coeur et de toute ton âme."
 "Aujourd'hui, tu as fait promettre à l'Eternel qu'il sera ton Dieu, afin que tu marches dans ses voies, que tu observes ses lois, ses commandements et ses ordonnances, et que tu obéisses à sa voix."

@@ -1,7 +1,7 @@
 "I doszło mnie słowo WIEKUISTEGO, głosząc
 "A ty, synu człowieka, czy chcesz skarcić, czy chcesz skarcić to krwiożercze miasto? Więc mu objaw wszystkie jego obmierzłości."
 "Powiedz
-"Przez twoją krew, którą wylałeś, popadłeś w winę i skalałeś się zrobionymi bałwanami. Przybliżyłeś twe dni i doszedłeś do kresu twoich lat. Dlatego dam cię na pohańbienie narodom oraz na pośmiewisko wszystkim ziemiom."
+"Przez twoją krew, którą wylałeś, popadłeś w winę i skalałeś się zrobionymi bałwanami. Przybliżyłeś twe dni i #doszedłeś do kresu twoich lat. Dlatego dam cię na pohańbienie narodom oraz na pośmiewisko wszystkim ziemiom."
 "Bliscy oraz dalecy będą ci urągali; tobie, sławnemu ze skażenia oraz pełnemu tumultu."
 "Oto przywódcy israelscy każdy u ciebie używał swego ramienia, aby przelewać krew."
 "Wśród ciebie lekceważono ojca i matkę; pośród ciebie popełniano bezprawia w stosunku do cudzoziemców; wśród ciebie krzywdzono sierotę i wdowę!"
@@ -23,7 +23,7 @@
 "I doszło mnie słowo WIEKUISTEGO, głosząc
 "Oświadcz jej, synu człowieka
 "Grasuje w niej szajka proroków, niczym huczący lew, co rozszarpuje swą zdobycz; pożerają dusze i mienie, zabierają kosztowności i mnożą pośród niej wdowy."
-"Jej kapłani gwałcą Me Prawo i znieważają Moje świętości; nie czynią rozdziału między świętym, a powszednim; nie uczą różnicy pomiędzy czystym, a nieczystym; od Mych szabatów odwracają swe oczy, tak, że jestem wśród nich zelżony."
+"Jej kapłani gwałcą Me Prawo i znieważają Moje świętości; nie czynią rozdziału między świętym, a powszednim; nie uczą #różnicy pomiędzy czystym, a nieczystym; od Mych szabatów odwracają swe oczy, tak, że jestem wśród nich zelżony."
 "Wewnątrz niej panowie – niby wilki, co rozszarpują zdobycz; gotowi przelewać krew oraz zagubić dusze, by tylko zdobyć zysk."
 "Zaś ich prorocy smarują na tym tylko tynk, zwiastując kłamstwo, wróżąc fałsz, głosząc
 "A i lud pospolity dopuszcza się zdzierstwa oraz zagrabia łupy; gnębią biednego, żebrzącego S i bezprawnie ograbiają cudzoziemca."

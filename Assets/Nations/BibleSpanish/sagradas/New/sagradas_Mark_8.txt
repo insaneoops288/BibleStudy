@@ -3,7 +3,7 @@
 "Si los envío en ayunas a sus casas, desmayarán en el camino; porque algunos de ellos han venido de lejos."
 "Sus discípulos le respondieron
 "Y les preguntó
-"Entonces mandó a la multitud que se recostase en tierra; y tomando los siete panes, habiendo dado gracias, partió, y dio a sus discípulos que pusiesen delante; y los pusieron delante a la multitud."
+"Entonces mandó a la multitud que se recostase en tierra; y tomando los siete panes, habiendo dado gracias, #partió, y dio a sus discípulos que pusiesen delante; y los pusieron delante a la multitud."
 "Tenían también unos pocos pececillos; y los bendijo, y mandó que también los pusiesen delante."
 "Y comieron, y se saciaron; y levantaron de los pedazos que habían sobrado, siete canastas."
 "Y eran los que comieron, como cuatro mil; y los despidió."
@@ -28,11 +28,11 @@
 "Ellos respondieron
 "Entonces él les dice
 "Y les mandó que no hablasen <I>esto</I>  de él a ninguno."
-"Y comenzó a enseñarles, que convenía que el Hijo del hombre padeciese mucho, y ser reprobado de los ancianos, y de los príncipes de los sacerdotes, y de los escribas; y ser muerto, y resucitar después de tres días."
+"Y comenzó a enseñarles, que convenía que el Hijo del hombre padeciese mucho, y ser reprobado de los ancianos, y #de los príncipes de los sacerdotes, y de los escribas; y ser muerto, y resucitar después de tres días."
 "Y claramente decía esta palabra. Entonces Pedro le tomó, y le comenzó a reprender."
 "Y él, volviéndose y mirando a sus discípulos, riñó a Pedro, diciendo
 "Y llamando a la multitud con sus discípulos, les dijo
 "Porque el que quisiere salvar su vida, la perderá; y el que perdiere su vida por causa de mí y del Evangelio, éste la salvará."
 "Porque ¿qué aprovechará al hombre, si ganare todo el mundo, y pierde su alma?"
 "¿O qué recompensa dará el hombre por su alma?"
-"Porque el que se avergonzare de mí y de mis palabras en esta generación adulterina y pecadora, el Hijo del hombre se avergonzará también de él, cuando vendrá en la gloria de su Padre con los santos ángeles."
+"Porque el que se avergonzare de mí y de mis palabras en esta generación adulterina y pecadora, el Hijo del #hombre se avergonzará también de él, cuando vendrá en la gloria de su Padre con los santos ángeles."

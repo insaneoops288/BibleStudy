@@ -1,7 +1,7 @@
 "Dan sesudah beberapa lama, datanglah firman TUHAN kepada Elia dalam tahun yang ketiga
 "Lalu pergilah Elia memperlihatkan diri kepada Ahab. Adapun kelaparan itu berat di Samaria."
 "Sebab itu Ahab telah memanggil Obaja yang menjadi kepala istana. Obaja itu seorang yang sungguh-sungguh takut akan TUHAN."
-"Karena pada waktu Izebel melenyapkan nabi-nabi TUHAN, Obaja mengambil seratus orang nabi, lalu menyembunyikan mereka lima puluh lima puluh sekelompok dalam gua dan mengurus makanan dan minuman mereka."
+"Karena pada waktu Izebel melenyapkan nabi-nabi TUHAN, Obaja mengambil seratus orang nabi, lalu menyembunyikan mereka #lima puluh lima puluh sekelompok dalam gua dan mengurus makanan dan minuman mereka."
 "Ahab berkata kepada Obaja
 "Lalu mereka membagi-bagi tanah itu untuk menjelajahinya. Ahab pergi seorang diri ke arah yang satu dan Obaja pergi ke arah yang lain."
 "Sedang Obaja di tengah jalan, ia bertemu dengan Elia. Setelah mengenali dia, ia sujud serta bertanya
@@ -9,18 +9,18 @@
 "Tetapi jawab Obaja
 "Demi TUHAN, Allahmu, yang hidup, sesungguhnya tidak ada bangsa atau kerajaan, yang tidak didatangi suruhan tuanku Ahab untuk mencari engkau. Dan apabila orang berkata
 "Dan sekarang engkau berkata
-"Mungkin terjadi, apabila aku sudah pergi dari padamu, Roh TUHAN mengangkat engkau ke tempat yang tidak kuketahui. Kalau aku sampai kepada Ahab untuk memberitahukannya dan engkau tidak didapatinya, tentulah ia akan membunuh aku, padahal hambamu ini dari sejak kecil takut akan TUHAN."
-"Tidakkah diberitahukan kepada tuanku apa yang telah kulakukan pada waktu Izebel membunuh nabi-nabi TUHAN, bagaimana aku menyembunyikan seratus orang nabi-nabi TUHAN dalam gua, lima puluh lima puluh sekelompok dan mengurus makanan dan minuman mereka?"
+"Mungkin terjadi, apabila aku sudah pergi dari padamu, Roh TUHAN mengangkat engkau ke tempat yang tidak kuketahui. Kalau aku sampai kepada Ahab #untuk memberitahukannya dan engkau tidak didapatinya, tentulah ia akan membunuh aku, padahal hambamu ini dari sejak kecil takut akan TUHAN."
+"Tidakkah diberitahukan kepada tuanku apa yang telah kulakukan pada waktu Izebel membunuh nabi-nabi TUHAN, bagaimana aku menyembunyikan seratus #orang nabi-nabi TUHAN dalam gua, lima puluh lima puluh sekelompok dan mengurus makanan dan minuman mereka?"
 "Dan sekarang, mengapa engkau ini berkata
 "Jawab Elia
 "Lalu pergilah Obaja menemui Ahab dan memberitahukan hal itu kepadanya. Kemudian Ahab pergi menemui Elia."
 "Segera sesudah Ahab melihat Elia, ia berkata kepadanya
 "Jawab Elia kepadanya
-"Sebab itu, suruhlah mengumpulkan seluruh Israel ke gunung Karmel, juga nabi-nabi Baal yang empat ratus lima puluh orang itu dan nabi-nabi Asyera yang empat ratus itu, yang mendapat makan dari meja istana Izebel."""
+"Sebab itu, suruhlah mengumpulkan seluruh Israel ke gunung Karmel, juga nabi-nabi Baal yang empat ratus lima puluh #orang itu dan nabi-nabi Asyera yang empat ratus itu, yang mendapat makan dari meja istana Izebel."""
 "Ahab mengirim orang ke seluruh Israel dan mengumpulkan nabi-nabi itu ke gunung Karmel."
 "Lalu Elia mendekati seluruh rakyat itu dan berkata
 "Lalu Elia berkata kepada rakyat itu
-"Namun, baiklah diberikan kepada kami dua ekor lembu jantan; biarlah mereka memilih seekor lembu, memotong-motongnya, menaruhnya ke atas kayu api, tetapi mereka tidak boleh menaruh api. Akupun akan mengolah lembu yang seekor lagi, meletakkannya ke atas kayu api dan juga tidak akan menaruh api."
+"Namun, baiklah diberikan kepada kami dua ekor lembu jantan; biarlah mereka memilih seekor lembu, memotong-motongnya, menaruhnya ke atas kayu api, tetapi mereka tidak #boleh menaruh api. Akupun akan mengolah lembu yang seekor lagi, meletakkannya ke atas kayu api dan juga tidak akan menaruh api."
 "Kemudian biarlah kamu memanggil nama allahmu dan akupun akan memanggil nama TUHAN. Maka allah yang menjawab dengan api, dialah Allah!"" Seluruh rakyat menyahut, katanya
 "Kemudian Elia berkata kepada nabi-nabi Baal itu
 "Mereka mengambil lembu yang diberikan kepada mereka, mengolahnya dan memanggil nama Baal dari pagi sampai tengah hari, katanya

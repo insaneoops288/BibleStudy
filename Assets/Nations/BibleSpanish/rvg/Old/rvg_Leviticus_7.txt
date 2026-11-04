@@ -9,7 +9,7 @@
 "Asimismo toda ofrenda que se cociere en horno, y todo lo que fuere aderezado en sartén, o en cazuela, será del sacerdote que lo ofreciere."
 "Y toda ofrenda amasada con aceite, y seca, será de todos los hijos de Aarón, tanto al uno como al otro."
 "Y ésta es la ley del sacrificio de paz, que se ofrecerá a Jehová
-"Si se ofreciere en acción de gracias, ofrecerá por sacrificio de acción de gracias tortas sin levadura amasadas con aceite, y hojaldres sin levadura untadas con aceite, y flor de harina frita en tortas amasadas con aceite."
+"Si se ofreciere en acción de gracias, ofrecerá por sacrificio de acción de gracias tortas sin levadura amasadas con #aceite, y hojaldres sin levadura untadas con aceite, y flor de harina frita en tortas amasadas con aceite."
 "Con tortas de pan leudo ofrecerá su ofrenda en el sacrificio de acción de gracias de sus ofrendas de paz."
 "Y de toda la ofrenda presentará una parte por ofrenda elevada a Jehová, y será del sacerdote que rociare la sangre de los sacrificios de paz."
 "Y la carne del sacrificio de paz en acción de gracias, se comerá en el día que fuere ofrecida; no dejarán de ella nada para otro día."
@@ -18,7 +18,7 @@
 "Y si se comiere de la carne del sacrificio de paz al tercer día, el que lo ofreciere no será acepto, ni le será contado; abominación será, y la persona que de él comiere llevará su pecado."
 "Y la carne que tocare a alguna cosa inmunda, no se comerá; al fuego será quemada; y en cuanto a la carne, todo limpio comerá de ella."
 "Y la persona que comiere la carne del sacrificio de paz, el cual es de Jehová, estando inmunda, aquella persona será cortada de entre su pueblo."
-"Además, la persona que tocare alguna cosa inmunda, en inmundicia de hombre, o en animal inmundo, o en cualquiera abominación inmunda, y comiere la carne del sacrificio de paz, el cual es de Jehová, aquella persona será cortada de su pueblo."
+"Además, la persona que tocare alguna cosa inmunda, en inmundicia de hombre, o en animal inmundo, o en cualquiera abominación inmunda, #y comiere la carne del sacrificio de paz, el cual es de Jehová, aquella persona será cortada de su pueblo."
 "Habló aún Jehová a Moisés, diciendo
 "Habla a los hijos de Israel, diciendo
 "La grosura de animal muerto, y la grosura del que fue despedazado por fieras podrá servir para cualquier otro uso, pero no lo comeréis."
@@ -31,7 +31,7 @@
 "Y la grosura la quemará el sacerdote sobre el altar, mas el pecho será de Aarón y de sus hijos."
 "Y daréis al sacerdote para ser elevada en ofrenda, la espaldilla derecha de los sacrificios de vuestros sacrificios de paz."
 "El que de los hijos de Aarón ofreciere la sangre de los sacrificios de paz, y la grosura, tomará la espaldilla derecha como su porción."
-"Porque he tomado de los hijos de Israel, de los sacrificios de paz, el pecho que se agita, y la espaldilla elevada en ofrenda, y lo he dado a Aarón el sacerdote y a sus hijos, por estatuto perpetuo de los hijos de Israel."
+"Porque he tomado de los hijos de Israel, de los sacrificios de paz, el pecho que se agita, y la espaldilla elevada en #ofrenda, y lo he dado a Aarón el sacerdote y a sus hijos, por estatuto perpetuo de los hijos de Israel."
 "Ésta [es la porción] de la unción de Aarón y la unción de sus hijos, la porción de ellos en las ofrendas encendidas a Jehová, desde el día que él los presentó para ser sacerdotes de Jehová
 "Lo cual mandó Jehová que les diesen, desde el día que Él los ungió de entre los hijos de Israel, por estatuto perpetuo por sus generaciones."
 "Ésta es la ley del holocausto, de la ofrenda, de la expiación por el pecado, y de la culpa, y de las consagraciones, y del sacrificio de paz;"

@@ -16,7 +16,7 @@
 "Isus i-a spus
 "Isus i-a spus
 "Maria Magdalena a venit și a spus discipolilor că l-a văzut pe Domnul și [că el] i-a spus acestea."
-"Atunci, în seara aceleiași zile, fiind prima [zi] a săptămânii, pe când ușile, unde discipolii erau adunați de teama iudeilor, erau închise, Isus a venit și a stat în picioare în mijloc și le-a spus
+"Atunci, în seara aceleiași zile, fiind prima [zi] a săptămânii, pe când ușile, unde discipolii erau adunați de #teama iudeilor, erau închise, Isus a venit și a stat în picioare în mijloc și le-a spus
 "Și, spunând aceasta, le-a arătat mâinile și coasta sa. Atunci discipolii s-au bucurat când l-au văzut pe Domnul."
 "Atunci Isus le-a spus din nou
 "Și după ce a spus aceasta, a suflat peste ei și le-a spus

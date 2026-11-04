@@ -9,7 +9,7 @@
 "No ofreceréis sobre él incienso extraño, ni holocausto, ni presente; ni tampoco derramaréis sobre él libación."
 "Y sobre sus cuernos hará Aarón expiación una vez en el año con la sangre de la ofrenda por el pecado para expiación
 "Y Jehová habló a Moisés, diciendo
-"Cuando tomares el número de los hijos de Israel conforme a la cuenta de ellos, cada uno dará a Jehová el rescate de su persona, cuando los contares, para que no haya en ellos mortandad cuando los hayas contado."
+"Cuando tomares el número de los hijos de Israel conforme a la cuenta de ellos, cada uno dará a Jehová #el rescate de su persona, cuando los contares, para que no haya en ellos mortandad cuando los hayas contado."
 "Esto dará todo el que pasare entre los que serán contados, medio siclo conforme al siclo del santuario. El siclo es de veinte geras; la mitad de un siclo será la ofrenda a Jehová."
 "Cualquiera que pasare entre los que serán contados, de veinte años arriba, dará la ofrenda a Jehová."
 "Ni el rico aumentará, ni el pobre disminuirá de medio siclo, cuando dieren la ofrenda a Jehová para hacer expiación por vuestras almas."

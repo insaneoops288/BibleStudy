@@ -28,7 +28,7 @@
 "Sillä kuka teistä on, joka tahtoo tornia rakentaa; eikö hän ennen istu ja laske kulutusta, jos hänellä on varaa sitä täyttää?"
 "Ettei, kuin hän perustuksen laskenut on, ja ei voi sitä täyttää, kaikki, jotka sen näkevät, rupee pilkkaamaan häntä,"
 "Sanoen
-"Taikka kuka kuningas tahtoo mennä sotimaan toista kuningasta vastaan; eikö hän ennen istu ja ajattele, jos hän voi kymmenellä tuhannella kohdata sen, joka häntä vastaan tulee kahdellakymmenellä tuhannella?"
+"Taikka kuka kuningas tahtoo mennä sotimaan toista kuningasta vastaan; eikö hän ennen istu ja ajattele, #jos hän voi kymmenellä tuhannella kohdata sen, joka häntä vastaan tulee kahdellakymmenellä tuhannella?"
 "Muutoin, kuin hän vielä kaukana on, niin hän lähettää hänelle sanan ja rukoilee rauhaa."
 "Niin siis jokainen teistä, joka ei luovu kaikista mitä hänellä on, ei se taida olla minun opetuslapseni."
 "Suola on hyvä; mutta jos suola tulee mauttomaksi, milläs sitte suolataan?"

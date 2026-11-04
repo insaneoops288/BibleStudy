@@ -7,7 +7,7 @@ Oppression upon oppression, deceit upon deceit! They refuse to know me, says the
 Therefore thus says the LORD of hosts, I will now refine and test them, for what else can I do with my sinful people?
 Their tongue is a deadly arrow; it speaks deceit through the mouth. They all speak friendly words to their neighbors, but inwardly are planning to lay an ambush.
 Shall I not punish them for these things? says the LORD; and shall I not bring retribution on a nation such as this?
-Take up weeping and wailing for the mountains, and a lamentation for the pastures of the wilderness, because they are laid waste so that no one passes through, and the lowing of cattle is not heard; both the birds of the air and the animals have fled and are gone.
+Take up weeping and wailing for the mountains, and a lamentation for the pastures of the wilderness, because they are laid waste so that no one #passes through, and the lowing of cattle is not heard; both the birds of the air and the animals have fled and are gone.
 I will make Jerusalem a heap of ruins, a lair of jackals; and I will make the towns of Judah a desolation, without inhabitant.
 Who is wise enough to understand this? To whom has the mouth of the LORD spoken, so that they may declare it? Why is the land ruined and laid waste like a wilderness, so that no one passes through?
 And the LORD says, Because they have forsaken my law that I set before them, and have not obeyed my voice, or walked in accordance with it,
@@ -21,6 +21,6 @@ Hear, O women, the word of the LORD, and let your ears receive the word of his m
 "Death has come up into our windows, it has entered our palaces, to cut off the children from the streets and the young men from the squares."
 Speak! Thus says the LORd, "Human corpses shall fall like dung upon the open field, like sheaves behind the reaper, and no one shall gather them."
 Thus says the LORd, Do not let the wise boast in their wisdom, do not let the mighty boast in their might, do not let the wealthy boast in their wealth;
-but let those who boast boast in this, that they understand and know me, that I am the LORD; I act with steadfast love, justice, and righteousness in the earth, for in these things I delight, says the LORD.
+but let those who boast boast in this, that they understand and know me, that I am the LORD; I #act with steadfast love, justice, and righteousness in the earth, for in these things I delight, says the LORD.
 The days are surely coming, says the LORD, when I will attend to all those who are circumcised only in the foreskin,
 Egypt, Judah, Edom, the Ammonites, Moab, and all those with shaven temples who live in the desert. For all these nations are uncircumcised, and all the house of Israel is uncircumcised in heart.

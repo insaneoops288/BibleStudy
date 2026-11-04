@@ -1,6 +1,6 @@
 "Ja Simson meni Gasaan, ja hän näki siellä porton, ja meni hänen tykönsä."
 "Ja sanottiin Gasalaisille, että Simson oli sinne tullut; niin he kohta piirittivät hänen ja väijyivät häntä koko yön kaupungin portissa, ja olivat hiljaksensa kaiken yötä, ja sanoivat
-"Vaan Simson makasi puoliyöhön asti, ja nousi puoliyöstä, ja tarttui kaupungin portin oviin ja molempiin pihtipieliin, ja nosti ne telkein kanssa, pani olallensa ja kantoi mäen kukkulalle, joka on Hebronin edessä."
+"Vaan Simson makasi puoliyöhön asti, ja nousi puoliyöstä, ja tarttui kaupungin portin oviin ja molempiin pihtipieliin, #ja nosti ne telkein kanssa, pani olallensa ja kantoi mäen kukkulalle, joka on Hebronin edessä."
 "Sitte rupesi hän jälleen rakastamaan yhtä vaimoa Sorekin ojan tykönä, jonka nimi oli Delila."
 "Ja hänen tykönsä tulivat Philistealaisten päämiehet, jotka sanoivat hänelle
 "Delila sanoi Simsonille
@@ -28,4 +28,4 @@
 "Mutta Simson huusi Herran tykö, sanoen
 "Ja Simson tarttui kahteen keskimäiseen pilariin, joiden päälle huone oli vahvistettu, ja nojasi niiden päälle, otti yhden oikiaan ja toisen vasempaan käteensä."
 "Ja Simson sanoi
-"Niin tulivat hänen veljensä alas ja kaikki hänen isänsä huone, ottivat hänen ja menivät ylös, ja hautasivat hänen Zoran ja Estaolin välille isänsä Manoakin hautaan. Ja hän tuomitsi Israelia kaksikymmentä ajastaikaa."
+"Niin tulivat hänen veljensä alas ja kaikki hänen isänsä huone, ottivat hänen ja menivät ylös, ja #hautasivat hänen Zoran ja Estaolin välille isänsä Manoakin hautaan. Ja hän tuomitsi Israelia kaksikymmentä ajastaikaa."

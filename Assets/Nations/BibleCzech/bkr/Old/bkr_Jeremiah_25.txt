@@ -1,12 +1,12 @@
 "Slovo, kteréž se stalo k Jeremiášovi proti všemu lidu Judskému, léta čtvrtého Joakima syna Joziášova, krále Judského, (jenž jest první rok Nabuchodonozora krále Babylonského),"
 "Kteréž mluvil Jeremiáš prorok ke všemu lidu Judskému, i ke všechněm obyvatelům Jeruzalémským, řka
-"Od třináctého léta Joziáše syna Amonova, krále Judského, až do tohoto dne, po těchto třimecítma let, bývalo slovo Hospodinovo ke mně, kteréž jsem vám mluvíval, ráno přivstávaje, a to ustavičně, ale neposlouchali jste."
+"Od třináctého léta Joziáše syna Amonova, krále Judského, až do tohoto dne, po těchto třimecítma let, bývalo #slovo Hospodinovo ke mně, kteréž jsem vám mluvíval, ráno přivstávaje, a to ustavičně, ale neposlouchali jste."
 "Posílal také Hospodin k vám všecky slouhy své proroky, ráno přivstávaje, a to ustavičně, (jichžto neposlouchali jste, aniž jste naklonili ucha svého, abyste slyšeli)."
 "Kteříž říkali
 "A nechoďte za bohy cizími, abyste sloužiti měli jim, aniž se jim klanějte, aniž hněvejte mne dílem rukou svých, a neučinímť vám zle."
 "Ale neposlouchali jste mne, dí Hospodin, abyste jen hněvali mne dílem rukou svých k svému zlému."
 "Protož takto praví Hospodin zástupů
-"Aj, já pošli, a pojmu všecky národy půlnoční, dí Hospodin, i k Nabuchodonozorovi králi Babylonskému, služebníku svému, a přivedu je na zemi tuto i na obyvatele její, i na všecky národy tyto okolní, kteréž jako proklaté vyhladím, a způsobím to, aby byli k užasnutí, na odivu, a poustkou věčnou."
+"Aj, já pošli, a pojmu všecky národy půlnoční, dí Hospodin, i k Nabuchodonozorovi králi Babylonskému, služebníku svému, a přivedu je na zemi tuto i na #obyvatele její, i na všecky národy tyto okolní, kteréž jako proklaté vyhladím, a způsobím to, aby byli k užasnutí, na odivu, a poustkou věčnou."
 "Také způsobím to, aby zahynul jim hlas radosti i hlas veselé, hlas ženicha i hlas nevěsty, hluk žernovu i světlo svíce."
 "I bude všecka země tato pustinou a pouští, a sloužiti budou národové tito králi Babylonskému sedmdesáte let."
 "Potom pak po vyplnění sedmdesáti let trestati budu na králi Babylonském a na tom národu, dí Hospodin, nepravost jejich, totiž na zemi Kaldejské, tak že obrátím ji v pustiny věčné."
@@ -26,7 +26,7 @@
 "Anobrž všecky krále půlnoční, blízké i daleké, jednoho jako druhého, všecka také království země, kterážkoli jsou na svrchku země. Král pak Sesák píti bude po nich."
 "A rci jim
 "Jestliže by pak nechtěli vzíti kalichu z ruky tvé, aby pili, tedy díš jim
-"Nebo poněvadž na to město, kteréž nazváno jest od jména mého, já začínám uvozovati zlé věci, a vy abyste bez hodné pomsty byli? Nebudete bez pomsty, nebo já zavolám meče na všecky obyvatele té země, dí Hospodin zástupů."
+"Nebo poněvadž na to město, kteréž nazváno jest od jména mého, já začínám uvozovati zlé věci, a vy abyste bez #hodné pomsty byli? Nebudete bez pomsty, nebo já zavolám meče na všecky obyvatele té země, dí Hospodin zástupů."
 "Protož ty prorokuj proti nim všecka slova tato, a rci jim
 "I průjde hřmot až do konce země. Nebo rozepři má Hospodin s těmi národy, v soud vchází sám se všelikým tělem; bezbožníky vydá pod meč, dí Hospodin."
 "Takto praví Hospodin zástupů

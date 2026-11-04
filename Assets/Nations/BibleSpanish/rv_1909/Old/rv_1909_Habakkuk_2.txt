@@ -14,7 +14,7 @@
 "Porque la tierra será llena de conocimiento de la gloria de Jehová, como las aguas cubren la mar."
 "Ay del que da de beber á sus compañeros, que les acercas tu hiel y embriagas, para mirar sus desnudeces!"
 "Haste llenado de deshonra más que de honra
-"Porque la rapiña del Líbano caerá sobre ti, y la destrucción de las fieras lo quebrantará; á causa de las sangres humanas, y del robo de la tierra, de las ciudades, y de todos los que en ellas moraban."
+"Porque la rapiña del Líbano caerá sobre ti, y la destrucción de las fieras lo quebrantará; á causa de las #sangres humanas, y del robo de la tierra, de las ciudades, y de todos los que en ellas moraban."
 "¿De qué sirve la escultura que esculpió el que la hizo? ¿la estatua de fundición, que enseña mentira, para que haciendo imágenes mudas confíe el hacedor en su obra?"
 "Ay del que dice al palo; Despiértate; y á la piedra muda
 "Mas Jehová está en su santo templo

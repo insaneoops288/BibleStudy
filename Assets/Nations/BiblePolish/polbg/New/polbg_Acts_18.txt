@@ -1,5 +1,5 @@
 "Potem Paweł odszedłszy z Aten, przyszedł do Koryntu;"
-"A znalazłszy niektórego Żyda, imieniem Akwilas, rodem z Pontu, który był świeżo z Włoch przyszedł z Pryscyllą, żoną swą, (dlatego, iż był Klaudyjusz postanowił, aby wszyscy Żydowie z Rzymu wyszli), przyszedł do nich;"
+"A znalazłszy niektórego Żyda, imieniem Akwilas, rodem z Pontu, który był świeżo z Włoch przyszedł z Pryscyllą, #żoną swą, (dlatego, iż był Klaudyjusz postanowił, aby wszyscy Żydowie z Rzymu wyszli), przyszedł do nich;"
 "A iż był tegoż rzemiosła, mieszkał u nich i robił; albowiem rzemiosło ich było robić namioty."
 "Tedy miewał rozmowę w bóżnicy na każdy sabat i pozyskiwał i Żydy, i Greki."
 "A gdy przyszli z Macedonii Sylas i Tymoteusz, ściśniony był w duchu Paweł, oświadczając Żydom, że Jezus jest Chrystusem."

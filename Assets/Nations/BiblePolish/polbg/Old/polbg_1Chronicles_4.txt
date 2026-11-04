@@ -38,6 +38,6 @@
 "Ci mianowani postanowieni są za książęta w narodach swych, a domy ojców ich rozmnożyły się bardzo."
 "Przetoż ruszyli się, aby szli do Gador, aż na wschód słońca onej doliny, aby szukali paszy bydłu swemu."
 "I znaleźli obfite i wyborne pasze, a ziemię przestronną i spokojną i rodzajną; bo tam naród Chamów mieszkał przedtem."
-"Przetoż przyszedłszy ci z imienia opisani za dni Ezechyjasza, króla Judzkiego, poburzyli namioty ich i przybytki ich, które tam były znalezione; a wymordoealiich, i nie masz ich aż do dnia tego, i osiedli miejsce ich; bo tam mieli paszy dla bydeł swoich."
+"Przetoż przyszedłszy ci z imienia opisani za dni Ezechyjasza, króla Judzkiego, poburzyli namioty ich i przybytki ich, które tam były znalezione; a #wymordoealiich, i nie masz ich aż do dnia tego, i osiedli miejsce ich; bo tam mieli paszy dla bydeł swoich."
 "A z onych synów Symeonowych niektórzy szli na górę Seir, pięć set mężów, a Faltyjasz, i Necharyjasz, i Rafajasz, i Husel, synowie Isy, byli wodzami ich."
 "I wymordowali ostatki, które były uszły z Amalekitów, a mieszkali tam aż po dziś dzień."

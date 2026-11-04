@@ -5,8 +5,8 @@
 "Ja joka holhoo senkaltaisen lapsen minun nimeeni, hän holhoo minun."
 "Mutta joka pahentaa yhden näistä pienimmistä, jotka uskovat minun päälleni, parempi hänen olis, että myllyn kivi ripustettaisiin hänen kaulaansa, ja hän upotettaisiin meren syvyyteen."
 "Voi maailmaa pahennusten tähden, sillä pahennukset kumminkin tulevat! Voi kuitenkin sitä ihmistä, jonka kautta pahennus tulee!"
-"Mutta jos kätes taikka jalkas pahentaa sinun, niin leikkaa ne pois, ja heitä pois tyköäs. Parempi on sinun elämään sisälle mennä ontuvana taikka raajarikkona, kuin että sinulla olis kaksi kättä eli kaksi jalkaa, ja sinä heitettäisiin ijankaikkiseen tuleen."
-"Ja jos silmäs pahentaa sinun, niin puhkaise se ulos, ja heitä pois tyköäs. Parempi on sinun silmäpuolena elämään sisälle mennä, kuin että sinulla olis kaksi silmää, ja sinä heitettäisiin helvetin tuleen."
+"Mutta jos kätes taikka jalkas pahentaa sinun, niin leikkaa ne pois, ja heitä pois tyköäs. Parempi on sinun elämään sisälle #mennä ontuvana taikka raajarikkona, kuin että sinulla olis kaksi kättä eli kaksi jalkaa, ja sinä heitettäisiin ijankaikkiseen tuleen."
+"Ja jos silmäs pahentaa sinun, niin puhkaise se ulos, ja heitä pois tyköäs. Parempi on sinun #silmäpuolena elämään sisälle mennä, kuin että sinulla olis kaksi silmää, ja sinä heitettäisiin helvetin tuleen."
 "Katsokaat, ettette katso ylön yhtäkään näistä pienimmistä; sillä minä sanon teille
 "Sillä Ihmisen Poika tuli autuaaksi tekemään sitä, mikä kadonnut oli."
 "Mitä te luulette? jos jollakin ihmisellä olis sata lammasta, ja yksi heistä eksyis

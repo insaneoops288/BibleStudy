@@ -1,6 +1,6 @@
 "Les chefs du peuple s'établirent à Jérusalem. Le reste du peuple tira au sort, pour qu'un sur dix vînt habiter Jérusalem, la ville sainte, et que les autres demeurassent dans les villes."
 "Le peuple bénit tous ceux qui consentirent volontairement à résider à Jérusalem."
-"Voici les chefs de la province qui s'établirent à Jérusalem. Dans les villes de Juda, chacun s'établit dans sa propriété, dans sa ville, Israël, les sacrificateurs et les Lévites, les Néthiniens, et les fils des serviteurs de Salomon."
+"Voici les chefs de la province qui s'établirent à Jérusalem. Dans les villes de Juda, chacun s'établit dans sa propriété, #dans sa ville, Israël, les sacrificateurs et les Lévites, les Néthiniens, et les fils des serviteurs de Salomon."
 "A Jérusalem s'établirent des fils de Juda et des fils de Benjamin. -Des fils de Juda
 "et Maaséja, fils de Baruc, fils de Col-Hozé, fils de Hazaja, fils d'Adaja, fils de Jojarib, fils de Zacharie, fils de Schiloni."
 "Total des fils de Pérets qui s'établirent à Jérusalem
@@ -14,7 +14,7 @@
 "et leurs frères, vaillants hommes, cent vingt-huit. Zabdiel, fils de Guedolim, était leur chef."
 "Des Lévites
 "Schabbethaï et Jozabad, chargés des affaires extérieures de la maison de Dieu, et faisant partie des chefs des Lévites;"
-"Matthania, fils de Michée, fils de Zabdi, fils d'Asaph, le chef qui entonnait la louange à la prière, et Bakbukia, le second parmi ses frères, et Abda, fils de Schammua, fils de Galal, fils de Jeduthun."
+"Matthania, fils de Michée, fils de Zabdi, fils d'Asaph, le chef qui entonnait la louange à la prière, et #Bakbukia, le second parmi ses frères, et Abda, fils de Schammua, fils de Galal, fils de Jeduthun."
 "Total des Lévites dans la ville sainte
 "Et les portiers
 "Le reste d'Israël, les sacrificateurs, les Lévites, s'établirent dans toutes les villes de Juda, chacun dans sa propriété."
@@ -22,7 +22,7 @@
 "Le chef des Lévites à Jérusalem était Uzzi, fils de Bani, fils de Haschabia, fils de Matthania, fils de Michée, d'entre les fils d'Asaph, les chantres chargés des offices de la maison de Dieu;"
 "car il y avait un ordre du roi concernant les chantres, et un salaire fixe leur était accordé pour chaque jour."
 "Pethachja, fils de Meschézabeel, des fils de Zérach, fils de Juda, était commissaire du roi pour toutes les affaires du peuple."
-"Dans les villages et leurs territoires, des fils de Juda s'établirent à Kirjath-Arba et dans les lieux de son ressort, à Dibon et dans les lieux de son ressort, à Jekabtseel et dans les villages de son ressort,"
+"Dans les villages et leurs territoires, des fils de Juda s'établirent à Kirjath-Arba et dans les lieux de son ressort, #à Dibon et dans les lieux de son ressort, à Jekabtseel et dans les villages de son ressort,"
 "Jéschua, à Molada, à Beth-Paleth,"
 "Hatsar-Schual, à Beer-Schéba, et dans les lieux de son ressort,"
 "Tsiklag, à Mecona et dans les lieux de son ressort,"

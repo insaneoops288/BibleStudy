@@ -3,9 +3,9 @@
 "Õ utána következett Jáir, a gileádbeli, és ítélé Izráelt huszonkét esztendeig."
 "Ennek harmincz fia volt, kik harmincz szamárcsikón nyargaltak, és volt nékik harmincz városuk, melyeket mind e mai napig Jáir faluinak neveznek, melyek Gileád földén vannak."
 "És meghalt Jáir, és eltemetteték Kámonban."
-"De az Izráel fiai újra gonoszul cselekedtek az Úrnak szemei elõtt, mert szolgáltak a Baáloknak és Astarótnak, és Sziria isteneinek, és Sidon isteneinek, és Moáb isteneinek, és az Ammon fiai isteneinek, és a Filiszteusok isteneinek, és elhagyták az Urat, és nem szolgáltak néki."
+"De az Izráel fiai újra gonoszul cselekedtek az Úrnak szemei elõtt, mert szolgáltak a Baáloknak és Astarótnak, és Sziria isteneinek, és Sidon #isteneinek, és Moáb isteneinek, és az Ammon fiai isteneinek, és a Filiszteusok isteneinek, és elhagyták az Urat, és nem szolgáltak néki."
 "Felgerjedett azért az Úrnak haragja Izráel ellen, és adá õket a Filiszteusoknak és az Ammon fiainak kezökbe."
-"És [ezek] szorongatták és nyomorgatták az Izráel fiait attól az évtõl [fogva] tizennyolcz esztendõn keresztül, Izráelnek minden fiait a kik a Jordánon túl valának az Emoreusoknak földén, mely Gileádban van."
+"És [ezek] szorongatták és nyomorgatták az Izráel fiait attól az évtõl [fogva] tizennyolcz esztendõn keresztül, Izráelnek #minden fiait a kik a Jordánon túl valának az Emoreusoknak földén, mely Gileádban van."
 "És átkeltek az Ammon fiai a Jordánon, hogy hadakozzanak Júda és Benjámin ellen és az Efraim háza ellen, és felette igen szorongattaték az Izráel."
 "Akkor az Úrhoz kiáltottak az Izráel fiai, mondván
 "Az Úr pedig monda az Izráel fiainak

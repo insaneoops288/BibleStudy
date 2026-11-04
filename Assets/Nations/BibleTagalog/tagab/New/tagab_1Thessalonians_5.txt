@@ -1,6 +1,6 @@
 "Datapuwa't tungkol sa mga kapanahunan at mga bahagi ng panahon, mga kapatid, hindi ninyo kailangan na isulat ko pa sa inyo ang anoman."
 "Sapagka't kayo rin ang mga lubos na nangakakaalam, na ang pagdating ng kaarawan ng Panginoon ay gaya ng magnanakaw sa gabi."
-"Pagka sinasabi ng mga tao, Kapayapaan at katiwasayan, kung magkagayo'y darating sa kanila ang biglang pagkawasak, na gaya ng pagdaramdam, sa panganganak ng babaing nagdadalang-tao; at sila'y hindi mangakatatanan sa anomang paraan."
+"Pagka sinasabi ng mga tao, Kapayapaan at katiwasayan, kung magkagayo'y darating sa kanila ang biglang pagkawasak, na #gaya ng pagdaramdam, sa panganganak ng babaing nagdadalang-tao; at sila'y hindi mangakatatanan sa anomang paraan."
 "Nguni't kayo, mga kapatid, ay wala sa kadiliman, upang sa araw na yaon ay masubukan kayong gaya ng magnanakaw
 "Sapagka't kayong lahat ay pawang mga anak ng kaliwanagan, at mga anak ng araw
 "Huwag nga tayong mangatulog, gaya ng mga iba, kundi tayo'y mangagpuyat at mangagpigil."

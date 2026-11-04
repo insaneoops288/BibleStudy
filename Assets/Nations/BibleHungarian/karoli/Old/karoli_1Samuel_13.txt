@@ -1,8 +1,8 @@
 "Saul [harmincz] éves volt, mikor királylyá lett és mikor uralkodék az Izráel felett két esztendeig,"
-"Választa Saul magának az Izráel közül háromezer [embert,] és kétezer Saullal vala Mikmásban és Béthel hegységén, ezer pedig Jonathánnal volt Gibeában, a Benjámin [városában;] a népnek többi részét pedig elbocsátá, kit-kit a maga hajlékába."
+"Választa Saul magának az Izráel közül háromezer [embert,] és kétezer Saullal vala Mikmásban és Béthel hegységén, ezer pedig #Jonathánnal volt Gibeában, a Benjámin [városában;] a népnek többi részét pedig elbocsátá, kit-kit a maga hajlékába."
 "És Jonathán megveré a Filiszteusoknak elõõrsét, mely Gébában vala, és meghallották ezt a Filiszteusok; Saul pedig megfúvatta a trombitát az egész országban, mondván
 "És meghallotta egész Izráel, [hogy] [azt] mondák
-"Összegyûlének a Filiszteusok is, hogy harczoljanak Izráel ellen; harminczezer szekér és hatezer lovas volt, a nép pedig [oly] sok volt, mint a tenger partján lévõ föveny; és feljövének és tábort ütének Mikmásnál, Béth-Aventõl keletre."
+"Összegyûlének a Filiszteusok is, hogy harczoljanak Izráel ellen; harminczezer szekér és hatezer lovas volt, a nép pedig [oly] #sok volt, mint a tenger partján lévõ föveny; és feljövének és tábort ütének Mikmásnál, Béth-Aventõl keletre."
 "Mikor pedig Izráel férfiai látták, hogy bajban vannak - mert a nép szorongattatott -
 "És a zsidók közül [némelyek] általmenének a Jordánon, Gád és Gileád földére. Saul pedig még Gilgálban volt, és az egész nép, mely mellette vala, rettegett."
 "És várakozék hét napig, a Sámuel által meghagyott ideig, de Sámuel nem jött el Gilgálba, a nép pedig elszélede mellõle."

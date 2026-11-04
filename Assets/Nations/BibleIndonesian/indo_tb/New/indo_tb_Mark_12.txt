@@ -9,7 +9,7 @@
 "Sekarang apa yang akan dilakukan oleh tuan kebun anggur itu? Ia akan datang dan membinasakan penggarap-penggarap itu, lalu mempercayakan kebun anggur itu kepada orang-orang lain."
 "Tidak pernahkah kamu membaca nas ini
 "hal itu terjadi dari pihak Tuhan, suatu perbuatan ajaib di mata kita."""
-"Lalu mereka berusaha untuk menangkap Yesus, karena mereka tahu, bahwa merekalah yang dimaksudkan-Nya dengan perumpamaan itu. Tetapi mereka takut kepada orang banyak, jadi mereka pergi dan membiarkan Dia."
+"Lalu mereka berusaha untuk menangkap Yesus, karena mereka tahu, bahwa merekalah yang dimaksudkan-Nya dengan perumpamaan #itu. Tetapi mereka takut kepada orang banyak, jadi mereka pergi dan membiarkan Dia."
 "Kemudian disuruh beberapa orang Farisi dan Herodian kepada Yesus untuk menjerat Dia dengan suatu pertanyaan."
 "Orang-orang itu datang dan berkata kepada-Nya
 "Tetapi Yesus mengetahui kemunafikan mereka, lalu berkata kepada mereka
@@ -30,7 +30,7 @@
 "Kasihilah Tuhan, Allahmu, dengan segenap hatimu dan dengan segenap jiwamu dan dengan segenap akal budimu dan dengan segenap kekuatanmu."
 "Dan hukum yang kedua ialah
 "Lalu kata ahli Taurat itu kepada Yesus
-"Memang mengasihi Dia dengan segenap hati dan dengan segenap pengertian dan dengan segenap kekuatan, dan juga mengasihi sesama manusia seperti diri sendiri adalah jauh lebih utama dari pada semua korban bakaran dan korban sembelihan."""
+"Memang mengasihi Dia dengan segenap hati dan dengan segenap pengertian dan dengan segenap kekuatan, dan juga mengasihi sesama #manusia seperti diri sendiri adalah jauh lebih utama dari pada semua korban bakaran dan korban sembelihan."""
 "Yesus melihat, bagaimana bijaksananya jawab orang itu, dan Ia berkata kepadanya
 "Pada suatu kali ketika Yesus mengajar di Bait Allah, Ia berkata
 "Daud sendiri oleh pimpinan Roh Kudus berkata

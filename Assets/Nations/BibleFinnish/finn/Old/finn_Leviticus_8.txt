@@ -21,13 +21,13 @@
 "Ja pesi sisällykset ja jalat vedellä; ja Moses suitsutti koko oinaan alttarilla
 "Ja toi myös toisen oinaan, täytösuhrin oinaan, ja Aaron poikinensa pani kätensä oinaan pään päälle."
 "Ja Moses teurasti sen ja otti hänen vertansa, ja sivui Aaronin oikian korvan lehteen, niin myös oikian käden peukaloon, ja oikian jalan isoon varpaaseen."
-"Ja Moses toi myös Aaronin pojat, ja sivui verellä heidän oikian korvansa lehden, ja heidän oikian kätensä peukaloon, ja heidän oikian jalkansa isoon varpaaseen, ja Moses priiskotti veren alttarille ympäri."
+"Ja Moses toi myös Aaronin pojat, ja sivui verellä heidän oikian korvansa lehden, ja heidän oikian #kätensä peukaloon, ja heidän oikian jalkansa isoon varpaaseen, ja Moses priiskotti veren alttarille ympäri."
 "Ja otti lihavuuden ja saparon ja kaiken sisällysten lihavuuden, ja maksan kalvon ja molemmat munaskuut heidän lihavuutensa kanssa, niin myös oikian lavan."
 "Hän otti myös korista, jossa happamattomat leivät olivat Herran edessä, yhden happamattoman kyrsän, ja öljyllä voidellun kyrsän, ja ohukaisen kyrsän, ja pani ne lihavuuden ja oikian lavan päälle,"
 "Ja antoi kaikki nämät Aaronin käsiin, ja hänen poikainsa käsiin, ja häälytti ne häälytykseksi Herran edessä."
 "Ja sitte otti Moses ne heidän käsistänsä ja poltti alttarilla polttouhrin päällä
 "Ja Moses otti rinnan ja häälytti sen häälytykseksi Herran edessä
-"Ja Moses otti voidellusöljyä ja verta, joka oli alttarilla, ja priiskotti Aaronin ja hänen vaatettensa päälle, niin myös hänen poikainsa ja heidän vaatettensa päälle, ja pyhitti niin Aaronin ja hänen vaatteensa, niin myös hänen poikansa ja heidän vaatteensa hänen kanssansa."
+"Ja Moses otti voidellusöljyä ja verta, joka oli alttarilla, ja priiskotti Aaronin ja hänen vaatettensa päälle, niin myös hänen poikainsa ja #heidän vaatettensa päälle, ja pyhitti niin Aaronin ja hänen vaatteensa, niin myös hänen poikansa ja heidän vaatteensa hänen kanssansa."
 "Ja Moses sanoi Aaronille ja hänen pojillensa
 "Vaan mitä jää tähteeksi lihasta ja leivästä, sen teidän pitää polttaman tulessa."
 "Ja ei teidän pidä lähtemän seitsemänä päivänä seurakunnan majan ovesta, siihenasti, koska tiedän täytösuhrinne päivät täytetään; sillä seitsemänä päivänä teidän kätenne täytetään."

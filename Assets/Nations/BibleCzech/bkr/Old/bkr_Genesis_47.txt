@@ -3,7 +3,7 @@
 "I řekl Farao bratřím jeho
 "Řekli ještě Faraonovi
 "I mluvil Farao Jozefovi, řka
-"Země Egyptská před tebou jest; v nejlepším kraji země této osaď otce svého a bratří své, nechť bydlí v zemi Gesen. A srozumíš-li, že jsou mezi nimi muži rozšafní, ustanovíš je úředníky nad dobytkem, kterýž mám."
+"Země Egyptská před tebou jest; v nejlepším kraji země této osaď otce svého a bratří své, nechť bydlí v #zemi Gesen. A srozumíš-li, že jsou mezi nimi muži rozšafní, ustanovíš je úředníky nad dobytkem, kterýž mám."
 "Uvedl také Jozef Jákoba otce svého, a postavil ho před Faraonem; a pozdravil Jákob Faraona."
 "Tedy řekl Farao k Jákobovi
 "Odpověděl Jákob Faraonovi
@@ -16,7 +16,7 @@
 "I řekl Jozef
 "Tedy přivedli dobytky své k Jozefovi; i dal jim Jozef potrav za koně a za stáda ovcí, a za stáda volů i za osly; a přechoval je chlebem, za všecky dobytky jejich, toho roku."
 "A po roce tom přišli k němu léta druhého, a řekli mu
-"I proč máme mříti před očima tvýma? I my i rolí naše hyne. Kup nás i rolí naši za chléb, a budeme my i rolí naše ve službě Faraonovi; a dej nám semena, abychom živi byli a nezemřeli, a rolí aby nespustla."
+"I proč máme mříti před očima tvýma? I my i rolí naše hyne. Kup nás i rolí naši za chléb, a budeme #my i rolí naše ve službě Faraonovi; a dej nám semena, abychom živi byli a nezemřeli, a rolí aby nespustla."
 "Tedy koupil Jozef všecku zemi Egyptskou Faraonovi; nebo prodali Egyptští jeden každý pole své, proto že se rozmohl mezi nimi hlad. I dostala se země Faraonovi."
 "Lid pak převedl do měst, od jednoho pomezí Egyptského až do druhého."
 "Rolí toliko kněžských nekoupil. Nebo kněží uloženou potravu měli od Faraona, a jedli z uložených pokrmů svých, kteréž dával jim Farao; protož neprodali rolí svých."

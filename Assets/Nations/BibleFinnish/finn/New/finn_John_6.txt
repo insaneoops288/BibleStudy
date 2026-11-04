@@ -19,7 +19,7 @@
 "Ja kuin he olivat soutaneet lähes viisikolmattakymmentä eli kolmekymmentä vakomittaa, näkivät he Jesuksen käyvän meren päällä ja lähenevän haahta; ja he peljästyivät."
 "Niin hän sanoi heille
 "Niin he tahtoivat ottaa hänen haahteen; ja haaksi oli jo sen maan tykönä, johonka he menivät."
-"Toisena päivänä, kuin kansa, joka sillä puolella merta oli, näki, ettei siellä muuta venhettä ollut kuin se yksi, johonka hänen opetuslapsensa olivat astuneet, ja ettei Jesus ollut astunut haahteen opetuslastensa kanssa, vaan hänen opetuslapsensa olivat ainoastaan matkaan lähteneet;"
+"Toisena päivänä, kuin kansa, joka sillä puolella merta oli, näki, ettei siellä muuta venhettä ollut kuin se yksi, johonka hänen #opetuslapsensa olivat astuneet, ja ettei Jesus ollut astunut haahteen opetuslastensa kanssa, vaan hänen opetuslapsensa olivat ainoastaan matkaan lähteneet;"
 "Mutta muut venheet tulivat Tiberiaasta, lähes sitä paikkaa, jossa he olivat leipää syöneet, sitte kuin Herra oli kiittänyt;"
 "Koska kansa sen näki, ettei Jesus siellä ollut eikä hänen opetuslapsensa, asutivat he myös haaksiin ja menivät Kapernaumiin etsein Jesusta."
 "Ja kuin he hänen siltä puolen merta löysivät, sanoivat he hänelle

@@ -24,7 +24,7 @@
 "Ora, os homens de Israel estavam já exaustos naquele dia, porquanto Saul conjurara o povo, dizendo
 "Mas todo o povo chegou a um bosque, onde havia mel à flor da terra."
 "Chegando, pois, o povo ao bosque, viu correr o mel; todavia ninguém chegou a mão à boca, porque o povo temia a conjuração."
-"Jónatas, porém, não tinha ouvido quando seu pai conjurara o povo; pelo que estendeu a ponta da vara que tinha na mão, e a molhou no favo de mel; e, ao chegar a mão à boca, aclararam-se-lhe os olhos."
+"Jónatas, porém, não tinha ouvido quando seu pai conjurara o povo; pelo que estendeu a ponta da vara que tinha #na mão, e a molhou no favo de mel; e, ao chegar a mão à boca, aclararam-se-lhe os olhos."
 "Então disse um do povo
 "Pelo que disse Jónatas
 "Quanto maior não teria sido a derrota dos filisteus se o povo hoje tivesse comido livremente do despojo, que achou de seus inimigos?"

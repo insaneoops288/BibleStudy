@@ -7,10 +7,10 @@
 "Beginilah firman TUHAN semesta alam
 "dan Aku akan membawa mereka pulang, supaya mereka diam di tengah-tengah Yerusalem. Maka mereka akan menjadi umat-Ku dan Aku akan menjadi Allah mereka dalam kesetiaan dan kebenaran."""
 "Beginilah firman TUHAN semesta alam
-"Sebab sebelum waktu itu tidak ada rezeki bagi manusia, juga tidak bagi binatang; dan karena musuh tidak ada keamanan bagi orang yang keluar dan bagi orang yang masuk, lagipula Aku membuat manusia semua bertengkar."
+"Sebab sebelum waktu itu tidak ada rezeki bagi manusia, juga tidak bagi binatang; dan karena musuh tidak ada #keamanan bagi orang yang keluar dan bagi orang yang masuk, lagipula Aku membuat manusia semua bertengkar."
 "Tetapi sekarang, Aku tidak lagi seperti waktu dahulu terhadap sisa-sisa bangsa ini, demikianlah firman TUHAN semesta alam,"
-"melainkan Aku akan menabur damai sejahtera. Maka pohon anggur akan memberi buahnya dan tanah akan memberi hasilnya dan langit akan memberi air embunnya. Aku akan memberi semuanya itu kepada sisa-sisa bangsa ini sebagai miliknya."
-"Dan kalau dahulu kamu telah menjadi kutuk di antara bangsa-bangsa, hai kaum Yehuda dan kaum Israel, maka sekarang Aku akan menyelamatkan kamu, sehingga kamu menjadi berkat. Janganlah takut, kuatkanlah hatimu!"""
+"melainkan Aku akan menabur damai sejahtera. Maka pohon anggur akan memberi buahnya dan tanah akan memberi hasilnya dan #langit akan memberi air embunnya. Aku akan memberi semuanya itu kepada sisa-sisa bangsa ini sebagai miliknya."
+"Dan kalau dahulu kamu telah menjadi kutuk di antara bangsa-bangsa, hai kaum Yehuda dan kaum Israel, #maka sekarang Aku akan menyelamatkan kamu, sehingga kamu menjadi berkat. Janganlah takut, kuatkanlah hatimu!"""
 "Sebab beginilah firman TUHAN semesta alam
 "maka pada waktu ini Aku kembali bermaksud berbuat baik kepada Yerusalem dan kepada kaum Yehuda. Janganlah takut!"
 "Inilah hal-hal yang harus kamu lakukan

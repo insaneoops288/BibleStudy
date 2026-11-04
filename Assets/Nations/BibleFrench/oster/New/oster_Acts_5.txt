@@ -1,7 +1,7 @@
 "Or, un homme, nommé Ananias, avec Saphira sa femme, vendit une possession;"
 "Et il retint une part du prix, de concert avec sa femme, et il en apporta le reste, et le mit aux pieds des apôtres."
 "Mais Pierre lui dit
-"Si tu l'eusses gardée, ne te demeurait-elle pas? et l'ayant vendue, son prix n'était-il pas en ton pouvoir? Comment as-tu résolu cette action dans ton cour? Ce n'est pas aux hommes que tu as menti, mais à Dieu."
+"Si tu l'eusses gardée, ne te demeurait-elle pas? et l'ayant vendue, son prix n'était-il pas en ton pouvoir? Comment as-tu #résolu cette action dans ton cour? Ce n'est pas aux hommes que tu as menti, mais à Dieu."
 "Ananias, à l'entendue de ces paroles, tomba, et rendit l'esprit; ce qui causa une grande crainte à tous ceux qui en entendirent parler."
 "Et les jeunes gens s'étant levés, le prirent, l'emportèrent, et l'ensevelirent."
 "Environ trois heures après, sa femme, ne sachant rien de ce qui était arrivé, entra."
@@ -18,7 +18,7 @@
 "Et se saisissant des apôtres, ils les mirent dans la prison publique."
 "Mais un ange du Seigneur ouvrit, pendant la nuit, les portes de la prison, et les ayant fait sortir, leur dit
 "Allez, et vous tenant dans le temple, annoncez au peuple toutes les paroles de cette vie."
-"Ayant entendu cela, ils entrèrent, dès le point du jour, dans le temple, et ils y enseignaient. Cependant, le souverain sacrificateur et ceux qui étaient avec lui étant arrivés, ils assemblèrent le Sanhédrin et tout le Conseil des anciens des enfants d'Israël; et ils envoyèrent chercher les apôtres à la prison."
+"Ayant entendu cela, ils entrèrent, dès le point du jour, dans le temple, et ils y enseignaient. Cependant, le souverain sacrificateur et ceux qui étaient avec #lui étant arrivés, ils assemblèrent le Sanhédrin et tout le Conseil des anciens des enfants d'Israël; et ils envoyèrent chercher les apôtres à la prison."
 "Mais quand les sergents y furent allés, ils ne les trouvèrent point dans la prison; et étant revenus,"
 "Ils l'annoncèrent en disant
 "Le souverain sacrificateur, le capitaine du temple et les principaux sacrificateurs, ayant entendu cela, ne savaient que penser au sujet des apôtres, de ce qui en arriverait."
@@ -33,7 +33,7 @@
 "Eux entendant cela, grinçaient des dents, et ils délibéraient de les faire mourir."
 "Mais un Pharisien, nommé Gamaliel, docteur de la loi, honoré de tout le peuple, se levant dans le Sanhédrin, commanda qu'on fît retirer les apôtres pour un peu de temps."
 "Et il leur dit
-"Car, il y a quelque temps que Theudas s'éleva, se disant être quelque chose; auquel un nombre d'environ quatre cents hommes se joignit; mais il fut tué, et tous ceux qui l'avaient cru furent dispersés et réduits à rien."
+"Car, il y a quelque temps que Theudas s'éleva, se disant être quelque chose; auquel un nombre d'environ quatre cents #hommes se joignit; mais il fut tué, et tous ceux qui l'avaient cru furent dispersés et réduits à rien."
 "Après lui, au temps du dénombrement, s'éleva Judas le Galiléen, qui attira à lui un grand peuple; mais il périt aussi, et tous ceux qui le crurent furent dispersés."
 "Je vous dis donc maintenant
 "Mais si elle vient de Dieu, vous ne pouvez la détruire; et prenez garde qu'il ne se trouve que vous ayez fait la guerre à Dieu."

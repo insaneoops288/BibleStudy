@@ -11,7 +11,7 @@
 "Përpara tyre kishte një kalim të ngjashëm me atë të dhomave që ishin nga ana e veriut; ato kishin po atë gjatësi e gjerësi, me të gjitha daljet dhe portat që ndiqnin të njëjtat kritere."
 "Në përputhje me portat e dhomave që ishin nga jugu, kishte një portë në krye të kalimit pikërisht përpara murit në drejtim të lindjes."
 "Ai më tha
-"Kur priftërinjtë të kenë hyrë, nuk do të dalin më nga vendi i shenjtë në oborrin e jashtëm, por do të vendojnë aty rrobat e tyre me të cilat kryejnë shërbimin, sepse janë të shenjta; do të veshin rroba të tjera dhe kështu do të mund t'i afrohen asaj që i përket popullit""."
+"Kur priftërinjtë të kenë hyrë, nuk do të dalin më nga vendi i shenjtë në oborrin e jashtëm, por do të vendojnë aty rrobat e tyre me #të cilat kryejnë shërbimin, sepse janë të shenjta; do të veshin rroba të tjera dhe kështu do të mund t'i afrohen asaj që i përket popullit""."
 "Mbasi mbaroi së maturi pjesën e brendshme të tempullit, më nxori nga porta që shikonte nga lindja dhe mati pjesën e rrethuar rreth e qark."
 "Mati anën lindore me kallamin matës
 "Mati anën veriore

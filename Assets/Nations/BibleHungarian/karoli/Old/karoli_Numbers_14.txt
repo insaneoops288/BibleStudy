@@ -11,7 +11,7 @@
 "És monda az Úr Mózesnek
 "Megverem õket döghalállal, és elvesztem õket; téged pedig nagy néppé teszlek, és õ nálánál erõsebbé."
 "És monda Mózes az Úrnak
-"Elmondják majd e föld lakosainak, a kik hallották, hogy te Uram e nép között vagy, hogy szemtõl szembe megjelentetted magadat te Uram, és hogy a te felhõd megállott õ rajtok, és felhõoszlopban jársz te õ elõttök nappal, éjjel pedig tûzoszlopban."
+"Elmondják majd e föld lakosainak, a kik hallották, hogy te Uram e nép között vagy, hogy szemtõl szembe megjelentetted magadat te #Uram, és hogy a te felhõd megállott õ rajtok, és felhõoszlopban jársz te õ elõttök nappal, éjjel pedig tûzoszlopban."
 "Hogyha mind egyig elveszted e népet, így szólanak majd e népek, a melyek hallották a te híredet, mondván
 "Mivelhogy nem vihette be az Úr e népet a földre, a mely felõl megesküdött nékik, azért öldöste le õket a pusztában."
 "Most azért hadd magasztaltassék fel az Úrnak ereje, a miképen szólottál, mondván
@@ -31,7 +31,7 @@
 "De kicsinyeiteket, a kik felõl azt mondtátok, hogy prédára lesznek; õket beviszem, és megismerik azt a földet, a melyet megútáltatok."
 "A ti holttesteitek azért a pusztában hullanak el."
 "A ti fiaitok pedig, mint a pásztorok, bujdosnak e pusztában negyven esztendeig, és viselik a ti paráználkodásitoknak büntetését, míglen megemésztetnek a ti holttesteitek e pusztában."
-"A napok száma szerint, a melyeken megkémleltétek a földet, ([tudniillik ]negyven napon, egy-egy napért egy-egy esztendõ), negyven esztendeig hordozzátok a ti hamisságotoknak büntetését, és megismeritek az én elfordulásomat."
+"A napok száma szerint, a melyeken megkémleltétek a földet, ([tudniillik ]negyven napon, egy-egy napért egy-egy #esztendõ), negyven esztendeig hordozzátok a ti hamisságotoknak büntetését, és megismeritek az én elfordulásomat."
 "Én, az Úr, szólottam. Bizonyára ezt mívelem az egész gonosz gyülekezettel, a mely összegyülekezett vala ellenem; ebben a pusztában emésztetnek meg, és ugyanott halnak meg."
 "A férfiak azért, a kiket elküldött vala Mózes a földnek megkémlelésére, és visszatérének és felzúdíták ellene az egész gyülekezetet, rossz hírt terjesztvén arról a földrõl
 "Azok a férfiak azért, a kik rossz hírt terjesztének a földrõl, meghalának az Úr elõtt csapás által."

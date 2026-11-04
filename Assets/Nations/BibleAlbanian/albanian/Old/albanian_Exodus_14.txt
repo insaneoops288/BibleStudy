@@ -1,7 +1,7 @@
 "Pastaj Zoti i foli Moisiut, duke i thënë
-"""U thuaj bijve të Izraelit të kthehen prapa dhe të vendosin kampin e tyre përballë Pi-Hahirothit, midis Migdolit dhe detit, përballë Baal-Tsefonit; vendosni kampin tuaj përpara këtij vendi pranë detit."
+"""U thuaj bijve të Izraelit të kthehen prapa dhe të vendosin kampin e tyre përballë Pi-Hahirothit, #midis Migdolit dhe detit, përballë Baal-Tsefonit; vendosni kampin tuaj përpara këtij vendi pranë detit."
 "Atëherë Faraoni do të thotë për bijtë e Izraelit
-"Dhe unë do ta ngurtësoj zemrën e Faraonit, dhe ai do t'i ndjekë ata; por unë do të siguroj lavdi nga Faraoni dhe nga gjithë ushtria e tij, dhe Egjiptasit do të mësojnë që unë jam Zoti"". Dhe ata ashtu vepruan."
+"Dhe unë do ta ngurtësoj zemrën e Faraonit, dhe ai do t'i ndjekë ata; por unë do të siguroj lavdi nga #Faraoni dhe nga gjithë ushtria e tij, dhe Egjiptasit do të mësojnë që unë jam Zoti"". Dhe ata ashtu vepruan."
 "Pastaj iu njoftua mbretit të Egjiptit që populli kishte ikur; dhe zemra e Faraonit dhe e shërbëtorëve të tij ndryshoi kundrejt popullit, dhe ata thanë
 "Kështu Faraoni bëri që të përgatitej qerrja e tij dhe mori me vete popullin e tij."
 "Mori dhe gjashtëqind qerre të zgjedhura dhe tërë qerret e Egjiptit, me luftëtarë në secilin prej tyre."
@@ -17,7 +17,7 @@
 "Sa për mua, unë do ta ngurtësoj zemrën e Egjiptasve, dhe këta do t'i ndjekin ata. Kështu unë do të fitoj lavdi nga Faraoni, nga tërë ushtria e tij, nga qerret dhe kalorësit e tij."
 "Dhe Egjiptasit do të dinë që unë jam Zoti, kur unë do të fitoj lavdi nga Faraoni, nga qerret e tij dhe nga kalorësit e tij""."
 "Atëherë Engjëlli i Perëndisë, që ecte përpara kampit të Izraelit, u zhvendos dhe shkoi e u vu prapa tyre; edhe kolona e reve lëvizi nga përpara dhe shkoi e u vu prapa tyre."
-"Dhe kështu vajti e u vendos midis fushimit të Egjiptit dhe fushimit të Izraelit; dhe reja prodhonte errësirë për njërën palë, ndërsa u jepte dritë të tjerëve natën. Kështu tërë natën kurrkush nuk iu afrua tjetrit."
+"Dhe kështu vajti e u vendos midis fushimit të Egjiptit dhe fushimit të Izraelit; dhe reja prodhonte errësirë për #njërën palë, ndërsa u jepte dritë të tjerëve natën. Kështu tërë natën kurrkush nuk iu afrua tjetrit."
 "Atëherë Moisiu shtriu dorën e tij mbi detin; dhe Zoti bëri që të tërhiqet deti nga një erë e fortë nga lindja që fryu tërë atë natë dhe e shndërroi detin në tokë të thatë; dhe ujërat u ndanë."
 "Kështu bijtë e Izraelit hynë në mes të detit në të thatë; dhe ujërat formonin si një mur në të djathtë dhe të majtë të tyre."
 "Dhe Egjiptasit i ndoqën; dhe tërë kuajt e Faraonit, qerret e tij dhe kalorësit e tij hynë pas tyre në mes të detit."

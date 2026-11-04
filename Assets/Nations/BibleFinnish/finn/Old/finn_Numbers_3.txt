@@ -1,7 +1,7 @@
 "Nämät ovat Aaronin ja Moseksen sukukunnat siihen aikaan koska Herra puhui Mosekselle Sinain vuorella."
 "Ja nämät ovat Aaronin poikain nimet
 "Nämät ovat Aaronin poikain nimet, jotka olivat papiksi voidellut, ja heidän kätensä täytetyt papin virkaan."
-"Mutta Nadab ja Abihu kuolivat Herran edessä, koska he uhrasivat vierasta tulta Herran edessä Sinain korvessa, ja ei ollut heillä poikia; mutta Eleatsar ja Itamar tekivät papin virkaa isänsä Aaronin edessä."
+"Mutta Nadab ja Abihu kuolivat Herran edessä, koska he uhrasivat vierasta tulta Herran edessä Sinain korvessa, #ja ei ollut heillä poikia; mutta Eleatsar ja Itamar tekivät papin virkaa isänsä Aaronin edessä."
 "Ja Herra puhui Mosekselle, sanoen
 "Tuo edes Levin sukukunta ja aseta heitä papin Aaronin eteen, palvelemaan häntä,"
 "Ja pitämään vaarin hänen vartiostansa ja koko seurakunnan vartiosta, seurakunnan majan edessä, ja palvelemaan majan palveluksessa,"
@@ -35,7 +35,7 @@
 "Heidän päämiehensä pitää oleman Suriel Abihailin poika, ja pitää sioittaman heitänsä sivulle majaa, pohjan puolelle."
 "Ja heidän virkansa pitää oleman, vartioida majan lautoja, korennoita, patsaita ja majan jalkoja, ja kaikkia astioita, jotka sen palvelukseen tarvitaan,"
 "Niin myös patsaita pihan ympärillä, ja sen jalkoja, ynnä paanuin ja köytten kanssa."
-"Mutta seurakunnan majan etiselle puolelle itään päin pitää Moses ja Aaron ja hänen poikansa heitänsä sioittaman, ja vartioitseman pyhän vartioita Israelin lasten puolesta. Jos joku muukalainen siihen lähestyy, sen pitää kuoleman."
+"Mutta seurakunnan majan etiselle puolelle itään päin pitää Moses ja Aaron ja hänen poikansa heitänsä sioittaman, #ja vartioitseman pyhän vartioita Israelin lasten puolesta. Jos joku muukalainen siihen lähestyy, sen pitää kuoleman."
 "Kaikkein Leviläisten luku, jotka Moses ja Aaron lukivat, heidän sukukunnissansa Herran sanan jälkeen, kaikki miehenpuoli, kuukauden vanha ja sen ylitse, oli kaksikolmattakymmentä tuhatta."
 "Ja Herra puhui Mosekselle
 "Ja sinun pitää ottaman Leviläiset minulle, minä Herra, kaikkein Israelin lasten esikoisten edestä, ja Leviläisten karjat, kaikkein Israelin lasten karjan esikoisten edestä."

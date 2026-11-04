@@ -14,7 +14,7 @@
 "Potem posłał Mojżesz posły z Kades do króla Edomskiego, mówiąc
 "Jako zstąpili byli ojcowie nasi do Egiptu, i mieszkaliśmy w Egipcie przez wiele lat; i jako nas trapili Egipczanie, i ojce nasze;"
 "I wołaliśmy do Pana, a wysłuchał głos nasz, i posławszy Anioła, wywiódł nas z Egiptu; a otośmy już w Kades, mieście przy granicy twojej"
-"Niech, proszę, przejdziemy przez ziemię twoję; nie pójdziemy przez pola, ani przez winnice, ani będziemy pić wód z twoich studzien; gościńcem pójdziemy, nie uchylimy się na prawo ani na lewo, aż przejdziemy granice twoje."
+"Niech, proszę, przejdziemy przez ziemię twoję; nie pójdziemy przez pola, ani przez winnice, ani będziemy pić wód z #twoich studzien; gościńcem pójdziemy, nie uchylimy się na prawo ani na lewo, aż przejdziemy granice twoje."
 "Na to odpowiedział mu Edom
 "I rzekli mu synowie Izraelscy
 "I powiedział

@@ -6,7 +6,7 @@
 "Sapagka't dahil dito ay nagsisipagbayad naman kayo ng buwis; sapagka't sila'y mga tagapangasiwa ng paglilingkod sa Dios, na nagsisipamahalang walang patid sa bagay na ito."
 "Ibigay ninyo sa lahat ang sa kanila'y nararapat
 "Huwag kayong magkautang ng ano pa man sa kanino man, maliban na sa mangagibigan kayo
-"Sapagka't ito, Huwag kang mangangalunya, Huwag kang papatay, Huwag kang magnanakaw, Huwag kang mananakim, at kung mayroon pang ibang utos, ay nauuwi sa salitang ito, sa makatuwid baga'y Ibigin mo ang iyong kapuwa na gaya ng sa iyong sarili."
+"Sapagka't ito, Huwag kang mangangalunya, Huwag kang papatay, Huwag kang magnanakaw, Huwag kang mananakim, at kung mayroon pang ibang utos, #ay nauuwi sa salitang ito, sa makatuwid baga'y Ibigin mo ang iyong kapuwa na gaya ng sa iyong sarili."
 "Ang pagibig ay hindi gumagawa ng masama sa kaniyang kapuwa
 "At ito, yamang nakikilala ang panahon, na ngayo'y kapanahunan nang magsigising kayo sa pagkakatulog
 "Ang gabi ay totoong malalim, at ang araw ay malapit na

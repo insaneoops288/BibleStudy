@@ -27,8 +27,8 @@
 "Mais elle dit
 "Alors Jésus, répondant, lui dit
 "Jésus, partant de là, vint près de la mer de Galilée; et, étant monté sur une montagne, il s'y assit."
-"Alors une grande multitude de peuple vint à lui, ayant avec eux des boiteux, des aveugles, des muets, des estropiés, et plusieurs autres malades. Ils les mirent aux pieds de Jésus, et il les guérit."
-"De sorte que le peuple était dans l'admiration, voyant que les muets parlaient, que les estropiés étaient guéris, que les boiteux marchaient, que les aveugles voyaient; et ils glorifiaient le Dieu d'Israël."
+"Alors une grande multitude de peuple vint à lui, ayant avec eux des boiteux, des aveugles, des muets, #des estropiés, et plusieurs autres malades. Ils les mirent aux pieds de Jésus, et il les guérit."
+"De sorte que le peuple était dans l'admiration, voyant que les muets parlaient, que les estropiés étaient #guéris, que les boiteux marchaient, que les aveugles voyaient; et ils glorifiaient le Dieu d'Israël."
 "Alors Jésus, ayant appelé ses disciples, leur dit
 "Et ses disciples lui dirent
 "Et Jésus leur dit

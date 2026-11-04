@@ -8,7 +8,7 @@
 "Ang mga nananahan sa Sidon at Arvad ay iyong mga mananaguwan
 "Ang mga matanda sa Gebal at ang mga pantas niyao'y pawang tagapagpasak mo
 "Ang Persia, ang Lud, at ang Phut ay nangasa iyong hukbo, na iyong mga lalaking mangdidigma
-"Ang mga lalake sa Arvad na kasama ng iyong hukbo ay nangasa ibabaw ng iyong mga kuta sa palibot, at ang mga matatapang ay nasa iyong mga moog; kanilang isinabit ang kanilang mga kalasag sa iyong mga kuta sa palibot; kanilang pinasakdal ang iyong kagandahan."
+"Ang mga lalake sa Arvad na kasama ng iyong hukbo ay nangasa ibabaw ng iyong mga kuta sa palibot, at ang mga matatapang #ay nasa iyong mga moog; kanilang isinabit ang kanilang mga kalasag sa iyong mga kuta sa palibot; kanilang pinasakdal ang iyong kagandahan."
 "Ang Tarsis ay iyong mangangalakal dahil sa karamihan ng sarisaring kayamanan; na ang pilak, bakal, lata, at tingga, ay ipinapalit nila sa iyong mga kalakal."
 "Ang Javan, ang Tubal, at ang Mesec, mga mangangalakal mo
 "Ang sangbahayan ni Togarma ay nakikipagpalitan sa iyong mga kalakal ng mga kabayo at ng mga kabayong pangdigma at ng mga mula."
@@ -21,10 +21,10 @@
 "Ang Arabia, at lahat na prinsipe sa Cedar, mga naging mangangalakal ng iyong kamay; sa mga cordero, at mga lalaking tupa, at mga kambing, sa mga ito'y naging mga mangangalakal mo sila."
 "Ang mga mangangalakal sa Seba at sa Raama, mga naging mangangalakal mo; kanilang ipinapalit sa iyong mga kalakal ang mga pinakamainam na especia, at lahat na mahalagang bato, at ang ginto."
 "Ang Haran at ang Canneh at ang Eden, na mga mangangalakal sa Seba, ang Assur at ang Chilmad ay naging mga mangangalakal mo."
-"Ang mga ito ang iyong mga mangangalakal sa mga piling kalakal sa mga balutan ng mga yaring asul at may burda, at sa mga baul na may mainam na hiyas, natatalian ng mga sintas, at yaring cedro, na ilan sa iyong mga kalakal."
+"Ang mga ito ang iyong mga mangangalakal sa mga piling kalakal sa mga balutan ng mga yaring asul at may burda, at #sa mga baul na may mainam na hiyas, natatalian ng mga sintas, at yaring cedro, na ilan sa iyong mga kalakal."
 "Ang mga sasakyan sa Tarsis ay iyong mga pulutong sa iyong kalakal
 "Dinala ka ng iyong mga manggagaod sa malawak na dagat
-"Ang iyong kayamanan, at ang iyong mga kalakal, ang iyong tinda, at ang iyong mga manggagaod, at ang iyong mga tagaugit, ang iyong mga tagapagpasak, at ang nagsisipamahala ng iyong mga kalakal, at ang lahat mong lalaking mangdidigma na nangasa iyo, sangpu ng iyong lahat na pulutong na nangasa gitna mo, mangalulubog sa kalagitnaan ng dagat sa kaarawan ng iyong pagkasira."
+"Ang iyong kayamanan, at ang iyong mga kalakal, ang iyong tinda, at ang iyong mga manggagaod, at ang iyong mga tagaugit, ang iyong mga tagapagpasak, at ang nagsisipamahala ng iyong mga #kalakal, at ang lahat mong lalaking mangdidigma na nangasa iyo, sangpu ng iyong lahat na pulutong na nangasa gitna mo, mangalulubog sa kalagitnaan ng dagat sa kaarawan ng iyong pagkasira."
 "Sa lakas ng hiyaw ng iyong mga tagaugit, ang mga nayon ay mangayayanig."
 "At lahat na nagsisihawak ng gaod, ang mga tao sa sasakyan, at lahat ng tagaugit sa dagat, ay magsisibaba sa kanilang mga sasakyan; sila'y magsisitayo sa ibabaw ng lupain,"
 "At iparirinig ang kanilang tinig sa iyo, at hihiyaw ng kalagimlagim, at mangagbubuhos ng alabok sa kanilang mga ulo, sila'y magsisigumon sa mga abo

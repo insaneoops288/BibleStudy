@@ -1,12 +1,12 @@
 "Jozafati pati pasuri të mëdha dhe lavdi; ai bëri krushqi me Ashabin."
-"Mbas disa vjetësh ai zbriti në Samari tek Ashabi. Atëherë Ashabi theri për të dhe për njerëzit që ishin me të një numër të madh delesh dhe lopësh dhe e bindi të dilte bashkë me të kundër Ramothit nga Galaadi."
+"Mbas disa vjetësh ai zbriti në Samari tek Ashabi. Atëherë Ashabi theri për të dhe për njerëzit që ishin me të #një numër të madh delesh dhe lopësh dhe e bindi të dilte bashkë me të kundër Ramothit nga Galaadi."
 "Kështu Ashabi, mbret i Izraelit, i tha Jozafatit, mbretit të Judës
 "Pastaj Jozafati i tha mbretit të Izraelit
 "Atëherë mbreti i Izraelit thirri profetët, katërqind veta, dhe u tha atyre
 "Por Jozafati tha
 "Mbreti i Izraelit iu përgjigj Jozafatit
 "Atëherë mbreti i Izraelit thirri një eunuk dhe i tha
-"Mbreti i Izraelit dhe Jozafati, mbret i Judës, ishin ulur secili në fronin e vet, të veshur me rrobat e tyre mbretërore; ishin ulur në lëmin që është te hyrja e portës së Samarisë; dhe tërë profetët bënin profeci përpara tyre."
+"Mbreti i Izraelit dhe Jozafati, mbret i Judës, ishin ulur secili në fronin e vet, të veshur me rrobat e tyre #mbretërore; ishin ulur në lëmin që është te hyrja e portës së Samarisë; dhe tërë profetët bënin profeci përpara tyre."
 "Sedekia, bir i Kenaanahut, që kishte bërë brirë prej hekuri, tha
 "Tërë profetët profetizuan në të njëjtën mënyrë, duke thënë
 "Lajmëtari, që kishte shkuar të thërriste Mikajahun, i foli duke i thënë

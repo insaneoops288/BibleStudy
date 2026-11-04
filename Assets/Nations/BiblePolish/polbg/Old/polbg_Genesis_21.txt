@@ -20,7 +20,7 @@
 "I był Bóg z onem dziecięciem, Które urosło, i mieszkało na puszczy, był z niego strzelec dobry z łuku."
 "A mieszkał na puszczy Faran; i wzięła mu matka jego żonę z ziemi Egipskiej."
 "I stało się onegoż czasu, że rzekł Abimelech, i Fikol, hetman wojska jego, do Abrahama mówiąc
-"A tak teraz, przysiąż mi przez Boga, że mię w niczem podchodzić nie będziesz, ani syna mego, ani wnuka mego; ale według miłosierdzia, którem uczynił z tobą, uczynisz ze mną, i z ziemią, w którejś był przychodniem."
+"A tak teraz, przysiąż mi przez Boga, że mię w niczem podchodzić nie będziesz, ani syna mego, ani wnuka #mego; ale według miłosierdzia, którem uczynił z tobą, uczynisz ze mną, i z ziemią, w którejś był przychodniem."
 "Tedy odpowiedział Abraham
 "I przymawiał Abraham Abimelechowi o studnią wody, którą mu byli gwałtem odjęli słudzy Abimelechowi."
 "I rzekł Abimelech

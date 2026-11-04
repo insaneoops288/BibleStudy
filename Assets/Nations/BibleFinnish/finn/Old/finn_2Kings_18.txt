@@ -1,7 +1,7 @@
 "Ja tapahtui kolmantena Hosean Elan pojan Israelin kuninkaan ajastaikana, että Hiskia Ahaksen Juudan kuninkaan poika tuli kuninkaaksi."
 "Hän oli viidenkolmattakymmenen ajastaikainen tullessansa kuninkaaksi, ja hallitsi yhdeksän ajastaikaa kolmattakymmentä Jerusalemissa; hänen äitinsä nimi oli Abi, Sakarian tytär."
 "Ja hän teki sitä mikä otollinen oli Herran edessä, juuri niinkuin hänen isänsä David teki."
-"Hän kukisti korkeudet, ja särki patsaat, ja hävitti metsistöt, ja löi vaskikäärmeen rikki, jonka Moses tehnyt oli, sillä Israelin lapset suitsuttivat sille aina siihen päivään asti; ja hän kutsui sen Nehustan."
+"Hän kukisti korkeudet, ja särki patsaat, ja hävitti metsistöt, ja löi vaskikäärmeen rikki, jonka Moses tehnyt #oli, sillä Israelin lapset suitsuttivat sille aina siihen päivään asti; ja hän kutsui sen Nehustan."
 "Hän turvasi Herraan Israelin Jumalaan; niin ettei yksikään hänen kaltaisensa ollut hänen jälkeensä, ei myös hänen edellänsä kaikkein Juudan kuningasten seassa."
 "Hän riippui Herrassa ja ei luopunut hänestä, ja piti hänen käskynsä niinkuin Herra Mosekselle oli käskenyt."
 "Ja Herra oli hänen kanssansa, ja kuhunkapäin hän meni, toimitti hän taitavasti; hän luopui myös Assyrian kuninkaasta, ja ei palvellut häntä."
@@ -14,7 +14,7 @@
 "Niin lähetti Hiskia Juudan kuningas Lakikseen Assyrian kuninkaan tykö ja antoi hänelle sanoa
 "Niin antoi Hiskia kaiken sen hopian, mikä Herran huoneessa löyttiin ja kuninkaan huoneen tavaroissa."
 "Silloin särki Hiskia Herran templin ovet ja kiskot, jotka Hiskia Juudan kuningas oli antanut silata, ja antoi ne Assyrian kuninkaalle."
-"Ja Assyrian kuningas lähetti Tartanin, ja ylimmäisen kamaripalvelian, ja Rabsaken Lakiksesta kuningas Hiskian tykö, suuren väen kanssa Jerusalemiin; ja he nousivat ja menivät Jerusalemiin. Ja noustuansa ja tultuansa sinne, seisahtivat he ylimmäisen vesilammikon kanavan vieressä, tiellä Vanuttajakedolle,"
+"Ja Assyrian kuningas lähetti Tartanin, ja ylimmäisen kamaripalvelian, ja Rabsaken Lakiksesta kuningas Hiskian tykö, suuren väen kanssa Jerusalemiin; ja #he nousivat ja menivät Jerusalemiin. Ja noustuansa ja tultuansa sinne, seisahtivat he ylimmäisen vesilammikon kanavan vieressä, tiellä Vanuttajakedolle,"
 "Ja kutsuivat kuninkaan; niin meni Eliakim Hilkian poika huoneenhaltia heidän tykönsä ulos, ja Sebna kirjoittaja, ja Joa Asaphin poika kansleri."
 "Niin sanoi Rabsake heille
 "Ajatteletkos (vaikka ne ovat tyhjät puheet) neuvoa ja voimaa olevan sotiakses? mihinkä sinä luotat, ettäs olet minusta luopunut?"
@@ -29,7 +29,7 @@
 "Näin sanoo kuningas
 "Ja älkään antako Hiskia teidän turvata Herran päälle, sanoen
 "Älkäät kuulko Hiskiaa; sillä näin sanoo Assyrian kuningas
-"Siihen asti minä tulen ja vien teitä siihen maahan, joka teidän maanne kaltainen on, jossa jyviä, viinaa, leipää, viinamäkiä, öljypuita, öljyä ja hunajaa on, niin te elätte ja ette kuole. Älkäät kuulko Hiskiaa, sillä hän pettää teitä, kuin hän sanoo
+"Siihen asti minä tulen ja vien teitä siihen maahan, joka teidän maanne kaltainen on, jossa jyviä, viinaa, leipää, viinamäkiä, öljypuita, öljyä #ja hunajaa on, niin te elätte ja ette kuole. Älkäät kuulko Hiskiaa, sillä hän pettää teitä, kuin hän sanoo
 "Ovatko myös pakanain jumalat pelastaneet kukin maansa Assyrian kuninkaan käsistä?"
 "Kussa ovat Hematin ja Arpadin jumalat? kussa ovat Sepharvaimin, Henan ja Ivvan jumalat? ovatko he Samarian pelastaneet minun käsistäni?"
 "Kussa on joku kaikkein niiden maakuntain jumalain seassa, joka maansa on pelastanut minun kädestäni, että Herra nyt pelastaisi Jerusalemin minun kädestäni?"

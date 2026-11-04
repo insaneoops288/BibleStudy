@@ -2,7 +2,7 @@
 "Ja Jumala oli päättänyt seitsemänteen päivään (asti) työnsä, kuin hän tehnyt oli, ja lepäsi seitsemäntenä päivänä kaikista teoistansa, kuin hän tehnyt oli."
 "Ja Jumala siunasi seitsemännen päivän ja pyhitti sen; että hän lepäsi hänessä kaikista teoistansa, jotka Jumala loi ja (täydellisesti) teki."
 "Ja näin on taivas ja maa tullut, koska he luotiin, sillä ajalla jolla Herra Jumala teki maan ja taivaan."
-"Ja kaikkinaiset pensaat kedolla, jotka ei ennen olleet maan päällä, ja kaikkinaiset ruohot kedolla, jotka ei ennen kasvaneet. Sillä ei Herra Jumala antanut vielä sataa maan päälle, eikä ollut ihmistä, joka maata viljeli;"
+"Ja kaikkinaiset pensaat kedolla, jotka ei ennen olleet maan päällä, ja kaikkinaiset ruohot kedolla, jotka ei ennen #kasvaneet. Sillä ei Herra Jumala antanut vielä sataa maan päälle, eikä ollut ihmistä, joka maata viljeli;"
 "Vaan sumu nousi maasta, ja kasti kaiken maan."
 "Ja Herra Jumala teki ihmisen, tomun maasta, ja puhalsi hänen sieraimiinsa elävän hengen
 "Ja Herra Jumala istutti Paradisin Edenissä itään päin, ja pani siihen ihmisen, jonka hän tehnyt oli."

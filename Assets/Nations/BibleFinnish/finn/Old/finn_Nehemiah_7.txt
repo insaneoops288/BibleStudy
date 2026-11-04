@@ -2,7 +2,7 @@
 "Ja minä käskin veljeäni Hanania, ja Hananiaa, linnan vanhinta Jerusalemissa (sillä hän oli uskollinen ja Jumalaa pelkääväinen mies monen suhteen),"
 "Ja sanoin heille
 "Sillä kaupunki oli avara ja suuri, mutta kansaa oli siinä vähän; ja ei olleet huoneet rakennetut."
-"Ja minun Jumalani lykkäsi mieleeni, että minä kokosin ylimmäiset ja päämiehet ja kansan, ja luin heidät; ja minä löysin heidän mieslukunsa kirjan, jotka ennen olivat tulleet vankeudesta, ja minä löysin siinä kirjoitettuna."
+"Ja minun Jumalani lykkäsi mieleeni, että minä kokosin ylimmäiset ja päämiehet ja kansan, ja luin heidät; ja #minä löysin heidän mieslukunsa kirjan, jotka ennen olivat tulleet vankeudesta, ja minä löysin siinä kirjoitettuna."
 "Nämät ovat maakunnan lapset, jotka palasivat poisviedyistä vangeista, jotka Nebukadnetsar Babelin kuningas oli vienyt pois; ja he palasivat Jerusalemiin ja Juudaan, jokainen kaupunkiinsa,"
 "Jotka tulivat Serubbabelin, Jesuan, Nehemia, Asarian, Raamian, Nahamanin, Mordekain, Bilsan, Misperetin, Bigvain, Nehumin ja Baenan kanssa. Tämä on Israelin miesten luku
 "Baroksen lapsia, kaksituhatta, sata ja kaksikahdeksattakymmentä;"
@@ -64,7 +64,7 @@
 "Nämä etsivät sukukuntansa polvilukukirjaa; ja ettei sitä löydetty, hyljättiin he pappeudesta."
 "Ja Tirsata sanoi heille, ettei heidän pitänyt syömän siitä kaikkein pyhimmästä, ennenkuin pappi seisois valkeudessa ja täydellisyydessä."
 "Koko joukko yhteen oli kaksiviidettäkymmentä tuhatta, kolmesataa ja kuusikymmentä,"
-"Paitsi heidän palvelioitansa ja piikojansa, joita oli seitsemäntuhatta, kolmesataa ja seitsemänneljättäkymmentä. Niin myös heidän seassansa oli veisaajia, miehiä ja vaimoja, kaksisataa ja viisiviidettäkymmentä;"
+"Paitsi heidän palvelioitansa ja piikojansa, joita oli seitsemäntuhatta, kolmesataa ja seitsemänneljättäkymmentä. Niin #myös heidän seassansa oli veisaajia, miehiä ja vaimoja, kaksisataa ja viisiviidettäkymmentä;"
 "Seitsemänsataa ja kuusineljättäkymmentä hevoista; kaksisataa ja viisiviidettäkymmentä muulia;"
 "Neljäsataa ja viisineljättäkymmentä kamelia; kuusituhatta, seitsemänsataa ja kaksikymmentä aasia."
 "Ja muutamat ylimmäistä isistä antoivat rakennukseen

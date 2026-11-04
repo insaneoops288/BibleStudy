@@ -43,8 +43,8 @@
 "No te enseñorearás de él con dureza, mas tendrás temor de tu Dios."
 "Así tu siervo como tu sierva que tuvieres, serán de las gentes que están en vuestro alrededor
 "También compraréis de los hijos de los forasteros que viven entre vosotros, y de los que del linaje de ellos son nacidos en vuestra tierra, que están con vosotros; los cuales tendréis por posesión
-"Y los poseeréis por juro de heredad para vuestros hijos después de vosotros, como posesión hereditaria; para siempre os serviréis de ellos; empero en vuestros hermanos los hijos de Israel, no os enseñorearéis cada uno sobre su hermano con dureza."
-"Y si el peregrino ó extranjero que está contigo, adquiriese medios, y tu hermano que está con él empobreciere, y se vendiere al peregrino ó extranjero que está contigo, ó á la raza de la familia del extranjero;"
+"Y los poseeréis por juro de heredad para vuestros hijos después de vosotros, como posesión hereditaria; para siempre os serviréis de #ellos; empero en vuestros hermanos los hijos de Israel, no os enseñorearéis cada uno sobre su hermano con dureza."
+"Y si el peregrino ó extranjero que está contigo, adquiriese medios, y tu hermano que está con él empobreciere, y #se vendiere al peregrino ó extranjero que está contigo, ó á la raza de la familia del extranjero;"
 "Después que se hubiere vendido, podrá ser rescatado
 "O su tío, ó el hijo de su tío lo rescatará, ó el cercano de su carne, de su linaje, lo rescatará; ó si sus medios alcanzaren, él mismo se redimirá."
 "Y contará con el que lo compró, desde el año que se vendió á él hasta el año del jubileo

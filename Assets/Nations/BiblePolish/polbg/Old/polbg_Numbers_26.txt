@@ -59,7 +59,7 @@
 "A imię żony Amramowej było Jochabod, córka Lewiego, która mu się urodziła w Egipcie; ta Amramowi urodziła Aarona, i Mojżesza, i Maryją, siostrę ich."
 "Aaronowi też urodzili się Nadabi i Abiju, Eleazar i Itamar."
 "Ale pomarli Nadab i Abiju, gdy ofiarowali ogień obcy przed Panem."
-"A była liczba ich dwadzieścia i trzy tysiące, wszystkich mężczyzn urodzonych od miesiąca i wyżej; jednak nie byli policzeni między syny Izraelskie, bo im nie dano dziedzictwa między syny Izraelskimi."
+"A była liczba ich dwadzieścia i trzy tysiące, wszystkich mężczyzn urodzonych od miesiąca i wyżej; jednak #nie byli policzeni między syny Izraelskie, bo im nie dano dziedzictwa między syny Izraelskimi."
 "Ci policzeni byli od Mojżesza i Eleazara kapłana, którzy policzyli syny Izraelskie na polach Moabskich, nad Jordanem przeciw Jerychu."
 "A między tymi nie był żaden z onych policzonych od Mojżesza i Aarona kapłana, gdy liczyli syny Izraelskie na puszczy Synaj;"
 "Bo rzekł był Pan o nich

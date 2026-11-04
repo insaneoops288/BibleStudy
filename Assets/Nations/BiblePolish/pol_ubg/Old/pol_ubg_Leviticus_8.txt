@@ -27,7 +27,7 @@
 "I dał to wszystko do rąk Aarona i do rąk jego synów i kołysał to jako ofiarę kołysaną przed PANEM."
 "Następnie Mojżesz wziął to z ich rąk i spalił na ołtarzu na ofierze całopalnej. To była ofiara poświęcenia na miłą woń, ofiara ogniowa dla PANA."
 "Mojżesz wziął też mostek i kołysał go jako ofiarę kołysaną przed PANEM. Była to bowiem część Mojżesza z barana poświęcenia, jak mu PAN rozkazał."
-"Wziął też Mojżesz trochę oliwy do namaszczenia i nieco krwi z ołtarza, i pokropił nimi Aarona i jego szaty, a także jego synów i ich szaty. Tak poświęcił Aarona i jego szaty, jego synów i ich szaty."
+"Wziął też Mojżesz trochę oliwy do namaszczenia i nieco krwi z ołtarza, i pokropił nimi Aarona i jego szaty, #a także jego synów i ich szaty. Tak poświęcił Aarona i jego szaty, jego synów i ich szaty."
 "I Mojżesz powiedział do Aarona i jego synów
 "A to, co pozostanie z mięsa i chleba, spalicie w ogniu."
 "Nie odchodźcie od wejścia do Namiotu Zgromadzenia przez siedem dni, aż do dnia, kiedy wypełni się czas waszego poświęcenia. Przez siedem dni bowiem będziecie poświęcani."

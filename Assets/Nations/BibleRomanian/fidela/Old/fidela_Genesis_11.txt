@@ -28,5 +28,5 @@
 "Şi Haran a murit înaintea tatălui său, Terah, în ţara naşterii sale, în Urul caldeilor."
 "Şi Avram şi Nahor şi-au luat soţii
 "Dar Sarai era stearpă, ea nu [avea] copil."
-"Şi Terah a luat pe Avram, fiul său, şi pe Lot, fiul lui Haran, fiul fiului său, şi pe Sarai, nora lui, soţia fiului său, Avram, şi a ieşit împreună cu ei din Urul caldeilor, ca să meargă în ţara lui Canaan; şi au venit la Haran şi au locuit acolo."
+"Şi Terah a luat pe Avram, fiul său, şi pe Lot, fiul lui Haran, fiul fiului său, şi pe Sarai, nora lui, soţia fiului său, Avram, #şi a ieşit împreună cu ei din Urul caldeilor, ca să meargă în ţara lui Canaan; şi au venit la Haran şi au locuit acolo."
 "Şi zilele lui Terah au fost două sute cinci ani; şi Terah a murit în Haran."

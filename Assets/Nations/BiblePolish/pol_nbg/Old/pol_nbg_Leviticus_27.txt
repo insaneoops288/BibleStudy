@@ -25,7 +25,7 @@
 "Zaś wszelka twoja wycena będzie dokonana na podstawie uświęconego szekla; a w szeklu będzie dwadzieścia ger."
 "Ale nikt nie poświęci pierworodnego z bydła, które należy do WIEKUISTEGO prawem pierworództwa czy to byka, czy barana to należy do WIEKUISTEGO."
 "A jeśli było z nieczystego bydła to je wykupi według wyceny i dołoży nadto piątą część; zaś gdyby nie zostało wykupione niech będzie sprzedane według twojej wyceny."
-"Jednak nic z tego, co jest zaklęte, co ktoś zaklął dla WIEKUISTEGO z całego swego mienia bądź człowieka, bądź bydlę, bądź swoje dziedziczne pole nie może być sprzedane, ani wykupione. Wszystko, co będzie zaklęte, jest świętym świętych dla WIEKUISTEGO."
+"Jednak nic z tego, co jest zaklęte, co ktoś zaklął dla WIEKUISTEGO z całego swego mienia bądź człowieka, bądź bydlę, #bądź swoje dziedziczne pole nie może być sprzedane, ani wykupione. Wszystko, co będzie zaklęte, jest świętym świętych dla WIEKUISTEGO."
 "Każde zaklęte, które zostało przeklęte przez ludzi nie będzie wykupione, lecz będzie podane na śmierć."
 "Wszystkie też dziesięciny z ziemi z rolnego wysiewu oraz z owocu drzew należą do WIEKUISTEGO; to jest świętość WIEKUISTEGO."
 "A gdyby ktoś chciał wykupić część swojej dziesięciny to niech dołoży do jej wyceny piątą część."

@@ -7,7 +7,7 @@
 "Gideon sanoi
 "Ja hän meni sieltä ylös Penueliin ja puhui heille myös niin. Ja Penuelin kansa vastasi häntä niinkuin Sukkotinkin miehet."
 "Niin puhui hän myös Penuelin kansalle, sanoen
-"Mutta Seba ja Zalmunna olivat Karkorissa ja heidän sotajoukkonsa heidän kanssansa lähes viisitoistakymmentä tuhatta, kaikki jotka jäivät koko sotaväen joukosta itäiseltä maalta; sillä sata ja kaksikymmentä tuhatta miekan vetävää miestä oli siellä langennut."
+"Mutta Seba ja Zalmunna olivat Karkorissa ja heidän sotajoukkonsa heidän kanssansa lähes viisitoistakymmentä tuhatta, kaikki jotka jäivät #koko sotaväen joukosta itäiseltä maalta; sillä sata ja kaksikymmentä tuhatta miekan vetävää miestä oli siellä langennut."
 "Ja Gideon meni ylös niiden tietä, jotka majoissa asuvat itäisellä puolella Nobatia ja Jogbehaa, ja löi leirin, sillä he olivat suruttomat."
 "Ja Seba ja Zalmunna pakenivat, mutta hän ajoi heitä takaa, ja sai ne kaksi Midianilaisten kuningasta Seban ja Zalmunnan kiinni, ja peljätti kaiken heidän sotaväkensä."
 "Ja Gideon Joaksen poika palasi sodasta, ennenkuin aurinko nousi,"
@@ -23,7 +23,7 @@
 "Mutta Gideon sanoi heille
 "Ja Gideon sanoi heille
 "Ja he sanoivat
-"Ja ne kultaiset korvarenkaat, joita hän anonut oli, painoivat tuhannen ja seitsemänsataa sikliä kultaa, ilman nastoja, käädyjä ja purpuravaatteita, joita Midianilaisten kuninkaat kantoivat, ja ilman heidän kameleinsa kultaisia kaulasiteitä."
+"Ja ne kultaiset korvarenkaat, joita hän anonut oli, painoivat tuhannen ja seitsemänsataa sikliä kultaa, ilman #nastoja, käädyjä ja purpuravaatteita, joita Midianilaisten kuninkaat kantoivat, ja ilman heidän kameleinsa kultaisia kaulasiteitä."
 "Ja Gideon teki niistä päällisvaatteen ja pani sen omaan kaupunkiinsa Ophraan; ja koko Israel teki huorin sen jälkeen siinä, ja se tuli Gideonille ja hänen huoneellensa paulaksi."
 "Ja niin Midianilaiset alennettiin Israelin lasten edessä, ja ei enää nostaneet ylös päätänsä; ja maa oli levossa neljäkymmentä ajastaikaa, niinkauvan kuin Gideon eli."
 "Ja JerubBaal Joaksen poika meni ja asui omassa huoneessansa."

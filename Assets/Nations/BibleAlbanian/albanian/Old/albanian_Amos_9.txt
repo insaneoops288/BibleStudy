@@ -10,6 +10,6 @@
 "Tërë mëkatarët e popullit tim do të vdesin nga shpata, ata që thonë
 """Atë ditë do të ngre përsëri tabernakullin e Davidit që ka rënë, do të ndreq të çarat e tij dhe do të ngre rrënojat e tij, dhe do ta rindërtoj si në ditët e lashta,"
 "më qëllim që të zotërojnë kusurin e Edomit dhe tërë kombet ku i bëjnë thirrje emrit tim"", thotë Zoti që do ta bëjë këtë."
-"""Ja, ditët po vijnë"", thotë Zoti, ""kur ai që lëron do t'i afrohet atij që korr dhe ai që shtrydh rrushin atij që hedh farën; atëherë malet do të kullojnë musht, që do të rrjedhë poshtë nëpër kodra."
-"Do ta kthej nga robëria popullin tim të Izraelit, dhe ata do të rindërtojnë qytetet e shkretuara dhe do të banojnë në to, do të mbjellin vreshta dhe do të pijnë verën e tyre, do të punojnë kopshtet dhe do të hanë frytet e tyre."
+"""Ja, ditët po vijnë"", thotë Zoti, ""kur ai që lëron do t'i afrohet atij që korr dhe ai që shtrydh #rrushin atij që hedh farën; atëherë malet do të kullojnë musht, që do të rrjedhë poshtë nëpër kodra."
+"Do ta kthej nga robëria popullin tim të Izraelit, dhe ata do të rindërtojnë qytetet e shkretuara dhe do të banojnë në to, #do të mbjellin vreshta dhe do të pijnë verën e tyre, do të punojnë kopshtet dhe do të hanë frytet e tyre."
 "Unë do t'i mbjell në tokën e tyre dhe nuk do të çrrënjosen kurrë më nga toka që u kam dhënë atyre, thotë Zoti, Perëndia yt""."

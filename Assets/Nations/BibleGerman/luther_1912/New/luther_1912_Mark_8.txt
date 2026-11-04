@@ -3,7 +3,7 @@
 "und wenn ich sie ungegessen von mir heim ließe gehen, würden sie auf dem Wege verschmachten; denn etliche sind von ferne gekommen."
 "Seine Jünger antworteten ihm
 "Und er fragte sie
-"Und er gebot dem Volk, daß sie sich auf der Erde lagerten. Und er nahm die sieben Brote und dankte und brach sie und gab sie seinen Jüngern, daß sie dieselben vorlegten; und sie legten dem Volk vor."
+"Und er gebot dem Volk, daß sie sich auf der Erde lagerten. Und er nahm die sieben Brote und dankte #und brach sie und gab sie seinen Jüngern, daß sie dieselben vorlegten; und sie legten dem Volk vor."
 "Und hatten ein wenig Fischlein; und er dankte und hieß die auch vortragen."
 "Sie aßen aber und wurden satt; und hoben dieübrigen Brocken auf, sieben Körbe."
 "Und ihrer waren bei viertausend, die da gegessen hatten; und er ließ sie von sich."
@@ -35,4 +35,4 @@
 "Denn wer sein Leben will behalten, der wird's verlieren; und wer sein Leben verliert um meinet-und des Evangeliums willen, der wird's behalten."
 "Was hülfe es dem Menschen, wenn er die ganze Welt gewönne, und nähme an seiner Seele Schaden?"
 "Oder was kann der Mensch geben, damit er seine Seele löse."
-"Wer sich aber mein und meiner Worte schämt unter diesem ehebrecherischen und sündigen Geschlecht, des wird sich auch des Menschen Sohn schämen, wenn er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln."
+"Wer sich aber mein und meiner Worte schämt unter diesem ehebrecherischen und sündigen Geschlecht, des wird sich auch #des Menschen Sohn schämen, wenn er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln."

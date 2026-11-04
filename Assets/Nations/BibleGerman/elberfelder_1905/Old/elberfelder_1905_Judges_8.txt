@@ -7,7 +7,7 @@
 "Da sprach Gideon
 "Und er zog von dannen nach Pnuel hinauf und redete zu ihnen auf dieselbe Weise. Und die Männer von Pnuel antworteten ihm, wie die Männer von Sukkoth geantwortet hatten."
 "Da sprach er auch zu den Männern von Pnuel und sagte
-"Sebach und Zalmunna waren aber zu Karkor, und ihre Heere mit ihnen, bei fünfzehntausend Mann, alle, dieübriggeblieben waren von dem ganzen Lager der Söhne des Ostens; und der Gefallenen waren hundertundzwanzigtausend Mann, die das Schwert zogen."
+"Sebach und Zalmunna waren aber zu Karkor, und ihre Heere mit ihnen, bei fünfzehntausend Mann, alle, dieübriggeblieben waren von #dem ganzen Lager der Söhne des Ostens; und der Gefallenen waren hundertundzwanzigtausend Mann, die das Schwert zogen."
 "Und Gideon zog hinauf des Weges zu den Zeltbewohnern,östlich von Nobach und Jogbeha; und er schlug das Lager, und das Lager war sorglos."
 "Und Sebach und Zalmunna flohen, und er jagte ihnen nach; und er fing die beiden Könige von Midian, Sebach und Zalmunna; und das ganze Lager setzte er in Schrecken."
 "Und Gideon, der Sohn Joas', kehrte aus dem Streite zurück, von der Anhöhe Heres herab."
@@ -23,7 +23,7 @@
 "Und Gideon sprach zu ihnen
 "Und Gideon sprach zu ihnen
 "Und sie sprachen
-"Und das Gewicht der goldenen Ohrringe, die er erbeten hatte, war tausendsiebenhundert Sekel Gold, außer den Halbmonden und den Ohrgehängen und den Purpurkleidern, welche die Könige von Midian trugen, und außer den Halsketten, die an den Hälsen ihrer Kamele waren."
+"Und das Gewicht der goldenen Ohrringe, die er erbeten hatte, war tausendsiebenhundert Sekel Gold, außer den Halbmonden und den Ohrgehängen und #den Purpurkleidern, welche die Könige von Midian trugen, und außer den Halsketten, die an den Hälsen ihrer Kamele waren."
 "Und Gideon machte daraus ein Ephod und stellte es in seiner Stadt auf, in Ophra. Und ganz Israel hurte demselben dort nach; und es wurde Gideon und seinem Hause zum Fallstrick."
 "So wurde Midian vor den Kindern Israels gebeugt, und es hob sein Haupt nicht mehr empor. Und das Land hatte in den Tagen Gideons Ruhe vierzig Jahre."
 "Und Jerub-Baal, der Sohn Joas', ging hin und wohnte in seinem Hause."

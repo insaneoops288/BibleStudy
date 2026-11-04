@@ -1,5 +1,5 @@
 "E será que, quando houveres entrado na terra que o SENHOR teu Deus te dá por herança, e a possuíres, e habitares nela;"
-"Então tomarás das primícias de todos os frutos da terra, que tirares de tua terra que o SENHOR teu Deus te dá, e o porás em um cesto, e irás ao lugar que o SENHOR teu Deus escolher para fazer habitar ali seu nome."
+"Então tomarás das primícias de todos os frutos da terra, que tirares de tua terra que o SENHOR teu Deus te dá, e #o porás em um cesto, e irás ao lugar que o SENHOR teu Deus escolher para fazer habitar ali seu nome."
 "E chegarás ao sacerdote que for naqueles dias, e lhe dirás
 "E o sacerdote tomará o cesto de tua mão, e o porá diante do altar do SENHOR teu Deus."
 "Então falarás e dirás diante do SENHOR teu Deus
@@ -9,7 +9,7 @@
 "E trouxe-nos a este lugar, e deu-nos esta terra, terra que flui leite e mel."
 "E agora, eis que, trouxe as primícias do fruto da terra que me deste, ó SENHOR. E o deixarás diante do SENHOR teu Deus, e te inclinarás diante do SENHOR teu Deus."
 "E te alegrarás com todo o bem que o SENHOR teu Deus houver dado a ti e a tua casa, tu e o levita, e o estrangeiro que está em meio de ti."
-"Quando houveres acabado de dizimar todo o dízimo de teus frutos no ano terceiro, o ano do dízimo, darás também ao levita, ao estrangeiro, ao órfão e à viúva; e comerão em tuas vilas, e se saciarão."
+"Quando houveres acabado de dizimar todo o dízimo de teus frutos no ano terceiro, o ano do dízimo, darás #também ao levita, ao estrangeiro, ao órfão e à viúva; e comerão em tuas vilas, e se saciarão."
 "E dirás diante do SENHOR teu Deus
 "Não comi disso em meu luto, nem tirei disso em impureza, nem disso dei para o morto
 "Olha desde a morada de tua santidade, desde o céu, e abençoa a teu povo Israel, e à terra que nos deste, como juraste a nossos pais, terra que flui leite e mel."

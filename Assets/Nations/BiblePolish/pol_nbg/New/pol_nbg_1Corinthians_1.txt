@@ -1,5 +1,5 @@
 "Paweł, powołany przez wolę Boga apostoł Jezusa Chrystusa oraz brat Sostenus,"
-"do zgromadzenia wybranych Boga, które jest w Koryncie, uświęconym w Jezusie Chrystusie, powołanym świętym, razem ze wszystkimi, co wzywają w każdym ich oraz nas miejscu Imienia Pana naszego Jezusa Chrystusa;"
+"do zgromadzenia wybranych Boga, które jest w Koryncie, uświęconym w Jezusie Chrystusie, powołanym świętym, razem ze #wszystkimi, co wzywają w każdym ich oraz nas miejscu Imienia Pana naszego Jezusa Chrystusa;"
 "łaska wam i pokój od Boga, naszego Ojca oraz Pana Jezusa Chrystusa."
 "Zawsze dziękuję za was mojemu Bogu z powodu danej wam w Jezusie Chrystusie łaski Boga,"
 "że zostaliście w nim uczynieni bogatymi, w każdym słowie oraz wszelkim wyższym poznaniu,"

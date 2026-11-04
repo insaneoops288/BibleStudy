@@ -1,7 +1,7 @@
 "Słowo, które prorokował Jezajasz, syn Amoca, o Judzie i Jeruszalaim."
 "W późnych czasach będzie, że na przedzie gór stanie utwierdzona góra domu WIEKUISTEGO, wywyższona ponad wzgórza, i do niej będą spływać wszystkie narody."
 "Wyruszą liczne ludy i powiedzą
-"Będzie rozsądzać pomiędzy narodami i rozstrzygać u wielu ludów, i przekują swe miecze na pługi, a swoje włócznie na sierpy. Naród nie podniesie oręża przeciwko narodowi i nie będą się więcej ćwiczyć do boju."
+"Będzie rozsądzać pomiędzy narodami i rozstrzygać u wielu ludów, i przekują swe miecze na pługi, a swoje włócznie #na sierpy. Naród nie podniesie oręża przeciwko narodowi i nie będą się więcej ćwiczyć do boju."
 "Domu Jakóba, naprzód, chodźmy w świetle WIEKUISTEGO!"
 "Lecz Ty porzuciłeś Twój lud dom Jakóba, ponieważ są pełni Wschodu, są wróżbitami jak Pelisztini i obfitują w wytwory obcych."
 "Ziemia pełna jest srebra i złota, i nie ma końca ich skarbom; ziemia pełna jest ich rumaków i nie ma końca ich wozom."

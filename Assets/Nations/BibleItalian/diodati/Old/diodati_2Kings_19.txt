@@ -1,7 +1,7 @@
 "E QUANDO il re Ezechia ebbe intese queste cose, stracciò i suoi vestimenti, e si coprì di un sacco, ed entrò nella Casa del Signore."
 "E mandò Eliachim, mastro del palazzo, e Sebna, segretario, e i più vecchi de’ sacerdoti, coperti di sacchi, al profeta Isaia, figliuolo di Amos."
 "Ed essi gli dissero
-"Forse che il Signore Iddio tuo avrà intese tutte le parole di Rab-sache, il quale il re degli Assiri, suo signore, ha mandato, per oltraggiar l’Iddio vivente, e per fargli rimprovero, con le parole che il Signore Iddio tuo ha udite; perciò mettiti a fare orazione per lo rimanente che si ritrova."
+"Forse che il Signore Iddio tuo avrà intese tutte le parole di Rab-sache, il quale il re degli Assiri, suo signore, ha mandato, per oltraggiar l’Iddio vivente, #e per fargli rimprovero, con le parole che il Signore Iddio tuo ha udite; perciò mettiti a fare orazione per lo rimanente che si ritrova."
 "I servitori adunque del re Ezechia vennero ad Isaia."
 "Ed Isaia disse loro
 "Ecco, io di presente metterò un tale spirito in lui, che, intendendo un certo grido, egli ritornerà al suo paese, ed io lo farò cadere per la spada nel suo paese."
@@ -23,15 +23,15 @@
 "Tu hai, per li tuoi messi, schernito il Signore; e hai detto
 "Io ho cavati pozzi, ed ho bevute acque strane, ed ho asciutti con le piante de’ miei piedi tutti i rivi de’ luoghi assediati."
 "Non hai tu inteso che già da lungo tempo io ho fatto questo, e l’ho formato ab antico? ed ora l’ho fatto venire, ed è stato per desolare, e per ridurre in mucchi di ruine le città forti."
-"E gli abitanti di esse, scemi di forza, sono stati spaventati e confusi; sono stati come l’erba de’ campi, e come la verzura dell’erbetta, e come l’erba de’ tetti, e le biade riarse dal vento, avanti che sieno salite in ispiga."
+"E gli abitanti di esse, scemi di forza, sono stati spaventati e confusi; sono stati come l’erba de’ campi, e come #la verzura dell’erbetta, e come l’erba de’ tetti, e le biade riarse dal vento, avanti che sieno salite in ispiga."
 "Ma io conosco il tuo stare, e il tuo uscire, e il tuo entrare, e il tuo furore contro a me."
-"Perciocchè tu sei infuriato contro a me, e il tuo strepito è salito a miei orecchi; perciò io ti metterò il mio raffio nelle nari, e il mio freno nelle mascelle, e ti farò ritornare indietro per la via stessa per la quale sei venuto."
+"Perciocchè tu sei infuriato contro a me, e il tuo strepito è salito a miei orecchi; perciò io ti metterò il mio raffio #nelle nari, e il mio freno nelle mascelle, e ti farò ritornare indietro per la via stessa per la quale sei venuto."
 "E questo, o Ezechia, ti sarà per segno
 "E quello che sarà restato della casa di Giuda, e sarà scampato, continuerà a far radici disotto, ed a portar frutto disopra."
 "Perciocchè di Gerusalemme uscirà un rimanente, e del monte di Sion un residuo. La gelosia del Signore degli eserciti farà questo."
 "Perciò il Signore ha detto così intorno al re degli Assiri
 "Egli se ne ritornerà per la medesima via, per la quale è venuto, e non entrerà in questa città, dice il Signore."
 "Ed io sarò protettore di questa città, per salvarla; per amor di me stesso, e di Davide, mio servitore."
-"Or quella stessa notte avvenne che un Angelo del Signore uscì, e percosse centottantacinquemila uomini, nel campo degli Assiri; e quando si furono levati la mattina, ecco, non si vedeva altro che corpi morti."
+"Or quella stessa notte avvenne che un Angelo del Signore uscì, e percosse centottantacinquemila uomini, nel campo degli #Assiri; e quando si furono levati la mattina, ecco, non si vedeva altro che corpi morti."
 "E Sennacherib, re degli Assiri, si partì di là, e se ne andò, e ritornò in Ninive, e vi dimorò."
-"Ed avvenne che, mentre egli adorava nella casa di Nisroc, suo dio, Adrammelec, e Sareser, suoi figliuoli, lo percossero con la spada; e poi scamparono nel paese di Ararat. Ed Esar-haddon, suo figliuolo, regnò in luogo suo."
+"Ed avvenne che, mentre egli adorava nella casa di Nisroc, suo dio, Adrammelec, e Sareser, suoi figliuoli, lo percossero #con la spada; e poi scamparono nel paese di Ararat. Ed Esar-haddon, suo figliuolo, regnò in luogo suo."

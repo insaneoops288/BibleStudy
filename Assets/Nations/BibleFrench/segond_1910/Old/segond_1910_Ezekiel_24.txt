@@ -11,7 +11,7 @@
 "Puis mets la chaudière vide sur les charbons, afin qu'elle s'échauffe, que son airain devienne brûlant, que sa souillure se fonde au dedans, et que sa rouille se consume."
 "Les efforts sont inutiles, la rouille dont elle est pleine ne se détache pas; la rouille ne s'en ira que par le feu."
 "Le crime est dans ta souillure; parce que j'ai voulu te purifier et que tu n'es pas devenue pure, tu ne seras plus purifiée de ta souillure jusqu'à ce que j'aie assouvi sur toi ma fureur."
-"Moi, l'Eternel, j'ai parlé; cela arrivera, et je l'exécuterai; je ne reculerai pas, et je n'aurai ni pitié ni repentir. On te jugera selon ta conduite et selon tes actions, dit le Seigneur, l'Eternel."
+"Moi, l'Eternel, j'ai parlé; cela arrivera, et je l'exécuterai; je ne reculerai pas, et je n'aurai ni pitié #ni repentir. On te jugera selon ta conduite et selon tes actions, dit le Seigneur, l'Eternel."
 "La parole de l'Eternel me fut adressée, en ces mots
 "Fils de l'homme, voici, je t'enlève par une mort soudaine ce qui fait les délices de tes yeux. Tu ne te lamenteras point, tu ne pleureras point, et tes larmes ne couleront pas."
 "Soupire en silence, ne prends pas le deuil des morts, attache ton turban, mets ta chaussure à tes pieds, ne te couvre pas la barbe, et ne mange pas le pain des autres."
@@ -20,7 +20,7 @@
 "Je leur répondis
 "Dis à la maison d'Israël
 "Vous ferez alors comme j'ai fait. Vous ne vous couvrirez pas la barbe, vous ne mangerez pas le pain des autres,"
-"vous aurez vos turbans sur la tête et vos chaussures aux pieds, vous ne vous lamenterez pas et vous ne pleurerez pas; mais vous serez frappés de langueur pour vos iniquités, et vous gémirez entre vous."
+"vous aurez vos turbans sur la tête et vos chaussures aux pieds, vous ne vous lamenterez pas et vous #ne pleurerez pas; mais vous serez frappés de langueur pour vos iniquités, et vous gémirez entre vous."
 "Ezéchiel sera pour vous un signe. Vous ferez entièrement comme il a fait. Et quand ces choses arriveront, vous saurez que je suis le Seigneur, l'Eternel."
 "Et toi, fils de l'homme, le jour où je leur enlèverai ce qui fait leur force, leur joie et leur gloire, les délices de leurs yeux et l'objet de leur amour, leurs fils et leurs filles,"
 "ce jour-là un fuyard viendra vers toi pour l'annoncer à tes oreilles."

@@ -7,7 +7,7 @@
 "Ez vala pedig [a szokás] régen Izráelben, a megváltás és cserélés alkalmával, minden dolognak megerõsítésére
 "Monda annakokáért a legközelebbi rokon Boáznak
 "És monda Boáz a véneknek és az egész népnek
-"[Sõt] a Moábita Ruthot is, Mahlonnak feleségét feleségül vettem, hogy nevet támaszszak a megholtnak az õ örökségében, és ki ne veszszen a megholtnak neve az õ atyjafiai közül és az õ helységének kapujából. Tanuk vagytok ma."
+"[Sõt] a Moábita Ruthot is, Mahlonnak feleségét feleségül vettem, hogy nevet támaszszak a megholtnak az õ örökségében, és ki #ne veszszen a megholtnak neve az õ atyjafiai közül és az õ helységének kapujából. Tanuk vagytok ma."
 "És monda az egész nép, mely a kapuban vala és a vének
 "És a te házad legyen, miként a Pérecz háza - a kit Thámár szült Júdának - abból a magzatból, a melyet az Úr adánd néked ettõl az asszonytól."
 "Elvevé annakokáért Boáz Ruthot, és lõn az néki felesége, és beméne hozzá, és megadá az Úr, hogy az fogana az õ méhében, és szült fiút."

@@ -9,11 +9,11 @@
 "Y tomarán el paño cárdeno, y cubrirán el candelero de la luminaria; y sus candilejas, y sus despabiladeras, y sus platillos, y todos sus vasos del aceite con que se sirve;"
 "y lo pondrán con todos sus vasos en la cubierta de pieles de tejones, y lo pondrán sobre las varas."
 "Y sobre el altar de oro extenderán el paño cárdeno, y le cubrirán con la cubierta de pieles de tejones, y le pondrán sus varas."
-"Y tomarán todos los vasos del ministerio, con los cuales se ministren en el santuario, y los pondrán en el paño cárdeno, y los cubrirán con la cubierta de pieles de tejones, y los pondrán sobre las varas."
+"Y tomarán todos los vasos del ministerio, con los cuales se ministren en el santuario, y los pondrán en el #paño cárdeno, y los cubrirán con la cubierta de pieles de tejones, y los pondrán sobre las varas."
 "Y quitarán la ceniza del altar, y extenderán sobre él el paño de púrpura;"
 "y pondrán sobre él todos los vasos con los cuales se ministren
-"Y tan pronto acaben Aarón y sus hijos de cubrir el santuario y todos los vasos del santuario, cuando el campamento se hubiere de mudar, vendrán después <I>de ello</I>  los hijos de Coat para llevarlos; mas no tocarán cosa  santa, porque morirán. Estas <I>serán</I>  las cargas de los hijos de Coat en el tabernáculo del testimonio."
-"Pero al cargo de Eleazar, hijo de Aarón el sacerdote, <I>estará</I>  el aceite de la luminaria, y el perfume aromático, y el presente continuo, y el aceite de la unción; el cargo de todo el tabernáculo, y de todo lo que <I> está</I>  en él, en el santuario, y en sus vasos."
+"Y tan pronto acaben Aarón y sus hijos de cubrir el santuario y todos los vasos del santuario, cuando el campamento se hubiere de mudar, vendrán después <I>de ello</I>  #los hijos de Coat para llevarlos; mas no tocarán cosa  santa, porque morirán. Estas <I>serán</I>  las cargas de los hijos de Coat en el tabernáculo del testimonio."
+"Pero al cargo de Eleazar, hijo de Aarón el sacerdote, <I>estará</I>  el aceite de la luminaria, y el perfume aromático, y el presente continuo, y el aceite #de la unción; el cargo de todo el tabernáculo, y de todo lo que <I> está</I>  en él, en el santuario, y en sus vasos."
 "Y habló el SEÑOR a Moisés y a Aarón, diciendo
 "No cortaréis la tribu de las familias de Coat de entre los levitas;"
 "mas esto haréis con ellos, para que vivan, y no mueran cuando llegaren al lugar santísimo
@@ -22,8 +22,8 @@
 "Toma también la cuenta de los hijos de Gersón por las casas de sus padres, por sus familias."
 "De edad de treinta años arriba hasta cincuenta años los contarás; todos los que entran en compañía para hacer obra en el tabernáculo del testimonio."
 "Este <I>será</I>  el oficio de las familias de Gersón, para ministrar y para llevar
-"Llevarán las cortinas del tabernáculo, y el tabernáculo del testimonio, su cubierta, y la cubierta de pieles de tejones que <I>está</I>  sobre él encima, y el pabellón de la puerta del tabernáculo del testimonio,"
-"y las cortinas del atrio, y el pabellón de la puerta del atrio, que <I>está</I>  sobre el tabernáculo y sobre el altar alrededor, y sus cuerdas, y todos los instrumentos de su servicio, y todo lo que está hecho para ellos;  así servirán."
+"Llevarán las cortinas del tabernáculo, y el tabernáculo del testimonio, su cubierta, y la cubierta de pieles de #tejones que <I>está</I>  sobre él encima, y el pabellón de la puerta del tabernáculo del testimonio,"
+"y las cortinas del atrio, y el pabellón de la puerta del atrio, que <I>está</I>  sobre el tabernáculo y sobre el altar #alrededor, y sus cuerdas, y todos los instrumentos de su servicio, y todo lo que está hecho para ellos;  así servirán."
 "Conforme al dicho de Aarón y de sus hijos será todo el ministerio de los hijos de Gersón en todas sus cargas, y en todo su servicio; y les encomendaréis en guarda todas sus cargas."
 "Este <I>es</I>  el servicio de las familias de los hijos de Gersón en el tabernáculo del testimonio; y la guarda de ellos <I>será</I>  por mano de Itamar, hijo de Aarón sacerdote."
 "Contarás los hijos de Merari por sus familias, por las casas de sus padres."

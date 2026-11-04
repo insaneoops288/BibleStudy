@@ -8,7 +8,7 @@
 "Portanto os que estão na carne não podem agradar a Deus."
 "Vós, porém, não estais na carne, mas no Espírito, se é que o Espírito de Deus habita em vós. Mas; se alguém não tem o Espírito de Cristo, esse tal não é dele."
 "E, se Cristo está em vós, o corpo, na verdade, está morto por causa do pecado, mas o espírito vive por causa da justiça."
-"E, se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos ressuscitou a Cristo também vivificará os vossos corpos mortais, pelo seu Espírito que em vós habita."
+"E, se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos #ressuscitou a Cristo também vivificará os vossos corpos mortais, pelo seu Espírito que em vós habita."
 "De maneira que, irmãos, somos devedores, não à carne para viver segundo a carne."
 "Porque, se viverdes segundo a carne, morrereis; mas, se pelo espírito mortificardes as obras do corpo vivereis."
 "Porque todos os que são guiados pelo Espírito de Deus esses são filhos de Deus."

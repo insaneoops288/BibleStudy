@@ -38,6 +38,6 @@
 "Tito ze jména vyčtení ustaveni jsou za knížata v čeledech svých, a čeledi otcovské jejich rozmnožily se náramně."
 "A protož brali se, kudyž se vchází k Gedor, až k východu po údolí tom, aby hledali pastev dobytku svému."
 "I nalezli pastvu hojnou a výbornou, zemi pak prostrannou, bezpečnou a pokojnou, a že z Chama byli ti, kteříž bydlili tam před tím."
-"Protož přišedše ti napsaní ze jména ve dnech Ezechiáše krále Judského, pobořili stany jejich a příbytky, kteříž tam nalezeni byli, a zmordovali je, tak že jich do tohoto dne není, a sami osedli místo nich; nebo měli tu pastvu dobytku svému."
+"Protož přišedše ti napsaní ze jména ve dnech Ezechiáše krále Judského, pobořili stany jejich a příbytky, kteříž tam nalezeni byli, a #zmordovali je, tak že jich do tohoto dne není, a sami osedli místo nich; nebo měli tu pastvu dobytku svému."
 "Někteří pak z těch synů Simeonových odebrali se na horu Seir, mužů pět set, jichž Pelatia, Neariáš, Refaiáš a Uziel, synové Jesi, byli vůdcové."
 "I vyplénili ostatek těch, kteříž ušli z Amalechitských, a bydlili tam až do tohoto dne."

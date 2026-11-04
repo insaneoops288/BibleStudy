@@ -6,7 +6,7 @@
 "Jeśli wybuchnie ogień, a trafi na ciernie i spali stóg lub zboże na pniu, lub samo pole, ten, co wzniecił ogień, musi wypłacić odszkodowanie."
 "Jeśli ktoś da swemu bliźniemu pieniądze lub przedmioty do przechowania i zostanie to ukradzione z domu tego człowieka, to jeśli złodziej zostanie znaleziony, zwróci podwójnie."
 "Jeśli złodziej nie zostanie znaleziony, pan tego domu stawi się przed sędziami, by okazało się, czy nie wyciągnął ręki po własność swego bliźniego."
-"W każdej spornej sprawie o wołu, osła, owcę, szatę czy jakąkolwiek zgubę, gdyby ktoś powiedział, że to jest jego, sprawa obydwu ma trafić do sędziów; kogo sędziowie uznają winnym, ten wynagrodzi podwójnie swemu bliźniemu."
+"W każdej spornej sprawie o wołu, osła, owcę, szatę czy jakąkolwiek zgubę, gdyby ktoś powiedział, że to jest #jego, sprawa obydwu ma trafić do sędziów; kogo sędziowie uznają winnym, ten wynagrodzi podwójnie swemu bliźniemu."
 "Jeśli ktoś odda swemu bliźniemu na przechowanie osła, wołu, owcę lub inne zwierzę, a ono zdechnie, zostanie okaleczone lub uprowadzone i nikt tego nie zobaczy;"
 "Wówczas przysięga przed PANEM rozstrzygnie między obydwoma, że nie wyciągnął ręki po własność swego bliźniego. Właściciel przyjmie tę przysięgę, a drugi nie wypłaci odszkodowania."
 "Jeśli jednak to zostało mu skradzione, wypłaci właścicielowi odszkodowanie."

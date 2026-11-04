@@ -15,7 +15,7 @@
 "Sillä kun David oli Edomissa, ja Joab sodanpäämies meni hautaamaan tapetuita, ja löi kuoliaaksi kaiken miehenpuolen Edomissa;"
 "Sillä Joab ja koko Israel viipyi kuusi kuukautta siellä, siihen asti että hän kaiken miehenpuolen Edomissa hävitti;"
 "Niin pakeni Hadad ja muutamat Edomin miehet hänen kanssansa hänen isänsä palvelioista, ja menivät Egyptiin; mutta Hadad oli vähä nuorukainen."
-"Ja he nousivat Midianista ja tulivat Paraniin, ja ottivat kanssansa miehiä Paranista, ja menivät Egyptiin, Pharaon Egyptin kuninkaan tykö, joka antoi hänelle huoneen ja elatuksen, ja maan hän myös antoi hänelle."
+"Ja he nousivat Midianista ja tulivat Paraniin, ja ottivat kanssansa miehiä Paranista, ja menivät Egyptiin, Pharaon #Egyptin kuninkaan tykö, joka antoi hänelle huoneen ja elatuksen, ja maan hän myös antoi hänelle."
 "Ja Hadad löysi suuren armon Pharaon edessä, niin että hän antoi hänelle emäntänsä kuningatar Tapheneksen sisaren emännäksi."
 "Ja Tapheneksen sisar synnytti hänelle Genubatin hänen poikansa. Ja Taphenes kasvatti hänen Pharaon huoneessa, niin että Genubat oli Pharaon huoneessa Pharaon lasten seassa."
 "Kuin Hadad Egyptissä kuuli Davidin nukkuneeksi isäinsä kanssa, ja että sodanpäämies Joab oli kuollut; sanoi hän Pharaolle
@@ -30,12 +30,12 @@
 "Ja Ahia rupesi uuteen hameesen, joka hänen yllänsä oli, ja repäisi kahdeksitoistakymmeneksi kappaleeksi,"
 "Ja sanoi Jerobeamille
 "Yksi sukukunta jää hänelle, Davidin minun palveliani tähden ja Jerusalemin kaupungin tähden, jonka minä olen valinnut kaikista Israelin sukukunnista."
-"Että he ovat minun hyljänneet ja kumartaneet Astarotia Zidonilaisten jumalaa, Kamosta Moabilaisten jumalaa ja Milkomia Ammonin lasten jumalaa, ja ei vaeltaneet minun tielläni eikä tehneet, mitä minulle kelpasi, minun säätyjäni ja minun oikeuttani, niinkuin David hänen isänsä."
-"En minä kuitenkaan ota kaikea valtakuntaa hänen kädestänsä, vaan teen hänen ruhtinaaksi hänen elinajaksensa, Davidin minun palveliani tähden, jonka minä valitsin; sillä hän piti minun käskyni ja säätyni."
+"Että he ovat minun hyljänneet ja kumartaneet Astarotia Zidonilaisten jumalaa, Kamosta Moabilaisten jumalaa ja Milkomia Ammonin lasten jumalaa, ja #ei vaeltaneet minun tielläni eikä tehneet, mitä minulle kelpasi, minun säätyjäni ja minun oikeuttani, niinkuin David hänen isänsä."
+"En minä kuitenkaan ota kaikea valtakuntaa hänen kädestänsä, vaan teen hänen ruhtinaaksi hänen elinajaksensa, Davidin #minun palveliani tähden, jonka minä valitsin; sillä hän piti minun käskyni ja säätyni."
 "Mutta hänen poikansa kädestä otan minä valtakunnan, ja annan sinulle kymmenen sukukuntaa."
-"Mutta hänen pojallensa annan minä yhden sukukunnan, että minun palveliallani Davidilla olis aina valkeus minun edessäni Jerusalemissa, siinä kaupungissa, jonka minä olen valinnut minulleni, pannakseni nimeni sinne."
+"Mutta hänen pojallensa annan minä yhden sukukunnan, että minun palveliallani Davidilla olis aina valkeus #minun edessäni Jerusalemissa, siinä kaupungissa, jonka minä olen valinnut minulleni, pannakseni nimeni sinne."
 "Niin otan minä nyt sinun hallitsemaan kaikissa mitä sydämes halajaa, ja sinun pitää oleman Israelin kuningas."
-"Jos sinä kuulet kaikkia, mitä minä sinulle käsken, ja vaellat minun tielläni, ja teet mitä minulle kelpaa, pitäen minun säätyni ja käskyni, niin kuin David minun palveliani teki; niin minä olen sinun kanssas, ja rakennan sinulle vahvan huoneen, niinkuin minä Davidille rakensin, ja annan sinulle Israelin."
+"Jos sinä kuulet kaikkia, mitä minä sinulle käsken, ja vaellat minun tielläni, ja teet mitä minulle kelpaa, pitäen minun säätyni ja käskyni, niin kuin #David minun palveliani teki; niin minä olen sinun kanssas, ja rakennan sinulle vahvan huoneen, niinkuin minä Davidille rakensin, ja annan sinulle Israelin."
 "Ja näin alennan minä sentähden Davidin siemenen, en kuitenkaan ijankaikkisesti."
 "Mutta Salomo pyysi tappaa Jerobeamia. Niin Jerobeam nousi ja pakeni Egyptiin, Sisakin, Egyptin kuninkaan tykö, ja oli Egyptissä Salomon kuolemaan asti."
 "Mitä muuta Salomosta sanomista on, hänen tekonsa ja taitonsa

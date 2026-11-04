@@ -1,6 +1,6 @@
 "És monda Dávid magában
 "Felkelvén azért Dávid, elméne õ és az a hatszáz ember, a kik vele valának, Ákhishoz, a Máok fiához, Gáth királyához."
-"És Dávid Ákhisnál tartózkodék Gáthban, õ és az õ emberei, mindegyik a maga háza[népé]vel együtt; Dávid és az õ két felesége, a Jezréelbõl való Ahinoám és a Kármelbõl való Abigail, a Nábál felesége."
+"És Dávid Ákhisnál tartózkodék Gáthban, õ és az õ emberei, mindegyik a maga háza[népé]vel együtt; Dávid és #az õ két felesége, a Jezréelbõl való Ahinoám és a Kármelbõl való Abigail, a Nábál felesége."
 "Mikor pedig Saulnak megmondották, hogy Dávid Gáthba menekült, nem üldözé tovább õt."
 "És monda Dávid Ákhisnak
 "És néki adá Ákhis azon a napon Siklágot; lõn azért Siklág a Júda királyaié mind e mai napig."

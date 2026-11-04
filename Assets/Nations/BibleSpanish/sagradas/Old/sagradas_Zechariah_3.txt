@@ -6,5 +6,5 @@
 "Y el ángel del SEÑOR protestó al mismo Josué, diciendo
 "Así dice el SEÑOR de los ejércitos
 "Escucha pues, ahora, Josué sumo sacerdote, tú, y tus amigos que se sientan delante de ti; porque son varones de prodigio. He aquí, yo traigo a mi siervo, <I>el</I>  Renuevo."
-"Porque he aquí aquella Piedra que puse delante de Josué; sobre <I>esta</I>  única piedra <I>hay</I>  siete ojos; he aquí, yo esculpiré su labor, dice el SEÑOR de los ejércitos, y quitaré el pecado de la tierra en un día."
+"Porque he aquí aquella Piedra que puse delante de Josué; sobre <I>esta</I>  única piedra <I>hay</I>  siete ojos; he aquí, #yo esculpiré su labor, dice el SEÑOR de los ejércitos, y quitaré el pecado de la tierra en un día."
 "En aquel día, dice el SEÑOR de los ejércitos, cada uno de vosotros llamará a su compañero debajo de su vid, y debajo de <I>su</I>  higuera."

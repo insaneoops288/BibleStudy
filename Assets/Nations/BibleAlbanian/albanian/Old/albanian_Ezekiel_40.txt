@@ -2,7 +2,7 @@
 "Në vegime të Perëndisë më çoi në vendin e Izraelit dhe më la në një mal shumë të lartë, në anën jugore të të cilit ishte një ndërtim që i ngjante një qyteti."
 "Ai më çoi atje, dhe ja një burrë, që dukej si prej bronzi, me në dorë një kordhelë prej liri dhe një kallam për të matur; ai rrinte më këmbë te porta."
 "Ky burrë më tha
-"Dhe ja, kishte një mur në pjesën e jashtme të tempullit, rreth e qark. Kallami për matje në dorën e atij burri ishte i gjatë gjashtë kubitë, secili ishte i gjatë një kubit dhe një pëllëmbë. Ai mati"
+"Dhe ja, kishte një mur në pjesën e jashtme të tempullit, rreth e qark. Kallami për matje në dorën e #atij burri ishte i gjatë gjashtë kubitë, secili ishte i gjatë një kubit dhe një pëllëmbë. Ai mati"
 "Pastaj erdhi te porta që shikonte nga lindja, i ngjiti shkallaret e saj dhe mati pragun e portës
 "Çdo dhomë ishte një kallam e gjatë dhe një kallam e gjërë. Midis dhomave kishte një hapësirë prej pesë kubitësh. Pragu i portës në afërsi të atriumit të portës së brendshme ishte një kallam."
 "Ai mati dhe atriumin e portës së brendshme
@@ -13,7 +13,7 @@
 "Pastaj mati portën nga çatia e njërës prej dhomave deri te çatia e tjetrës; gjërësia nga një portë te tjetra ishte njëzet e pesë kubitë."
 "Mati shtyllat
 "Në pjesën e përparme të portës së hyrjes deri në pjesën e përparme të atriumit të portës së brendshme kishte pesëdhjetë kubitë."
-"Dritaret dhe mbajtëset e tyre përbrenda portave kishin kanate rreth e qark; e njëjta gjë ndodhte për harqet. Kishte gjithashtu dritare rreth e qark në pjesën e brendshme dhe mbi mbajtëset ishin përfytyruar disa palma."
+"Dritaret dhe mbajtëset e tyre përbrenda portave kishin kanate rreth e qark; e njëjta gjë ndodhte për harqet. #Kishte gjithashtu dritare rreth e qark në pjesën e brendshme dhe mbi mbajtëset ishin përfytyruar disa palma."
 "Pastaj më çoi në oborrin e jashtëm dhe ja, aty kishte dhoma dhe një kalldrëm rreth e qark oborrit; tridhjetë dhoma shikonin nga kalldrëmi."
 "Gjatësia e kalldrëmit i përgjigjej gjatësisë së portave; ishte kalldrëmi i poshtëm."
 "Pastaj mati gjërësinë e portës që nga pjesa e përparme e portës më të poshtme deri te pjesa e përparme e portës së jashtme të oborrit të brendshëm
@@ -30,7 +30,7 @@
 "Rreth e qark kishte harqe të gjatë njëzetepesë kubitë dhe të gjërë pesë kubitë."
 "Harqet e saj shikonin në oborrin e jashtëm; kishte palma mbi shtyllat e saj dhe ngjiteshe në to nëpërmjet tetë shkallareve."
 "Pastaj më çoi në oborrin e brendshëm që shikon nga jugu dhe mati portën
-"Edhe dhomat e tij, shtyllat e tij dhe harqet e tij kishin po ato përmasa. Ajo kishte dritare dhe harqe rreth e qark dhe kishte një gjatësi prej pesëdhjetë kubitësh dhe një gjërësi prej njëzet e pesë kubitësh."
+"Edhe dhomat e tij, shtyllat e tij dhe harqet e tij kishin po ato përmasa. Ajo kishte dritare dhe harqe #rreth e qark dhe kishte një gjatësi prej pesëdhjetë kubitësh dhe një gjërësi prej njëzet e pesë kubitësh."
 "Harqet e tij dilnin mbi oborrin e jashtëm; kishte palma mbi shyllat e tij nga njera dhe nga tjetra anë, dhe ngjiteshe në to nëpërmjet tetë shkallareve."
 "Pastaj më çoi te porta e veriut dhe e mati
 "ashtu si dhomat e tij, shtyllat e tij dhe harqet e tij; kishte dritare rreth e qark; ajo ishte pesëdhjetë kubitësh e gjatë dhe njëzet e pesë kubitë e gjërë."
@@ -39,9 +39,9 @@
 "Në atriumin e portës kishte dy tryeza nga një anë dhe dy tryeza nga ana tjetër, mbi të cilat thereshin olokaustet, flijimet për mëkatin dhe shkeljen."
 "Në anën e jashtme të atriumit, sapo dikush ngjitet në hyrjen e portës së veriut, kishte dy tryeza, bashkë me dy tryeza nga ana tjetër e atriumit të portës."
 "Kështu në anët e portës kishte katër tryeza nga një anë dhe katër tryeza nga ana tjetër
-"Për olokaustet kishte edhe katër tryeza prej guri të latuar, të gjata një kubitë e gjysmë, të gjëra një kubitë e gjysmë dhe të larta një kubitë; mbi to viheshin mjetet me të cilat thereshin olokaustet dhe flijimet e tjera."
+"Për olokaustet kishte edhe katër tryeza prej guri të latuar, të gjata një kubitë e gjysmë, të gjëra një kubitë e #gjysmë dhe të larta një kubitë; mbi to viheshin mjetet me të cilat thereshin olokaustet dhe flijimet e tjera."
 "Në pjesën e brendshme, rreth e qark dhomës, ishin varur çengela një pëllëmbë të gjata; mbi tryezat vihej mishi i ofertave."
-"Jashtë portës së brendshme kishte dy dhoma për këngëtarët në oborrin e brendshëm; njëra ishte pranë portës së veriut dhe shikonte nga jugu, tjetra ishte pranë portës së jugut dhe shikonte nga veriu."
+"Jashtë portës së brendshme kishte dy dhoma për këngëtarët në oborrin e brendshëm; njëra ishte pranë portës #së veriut dhe shikonte nga jugu, tjetra ishte pranë portës së jugut dhe shikonte nga veriu."
 "Ai më tha
 "dhoma që shikon nga veriu është për priftërinjtë që kryejnë shërbim në altar; këta janë bijtë e Tsadokut, ndër bijtë e Levit, që i afrohen Zotit për t'i shërbyer""."
 "Ai mati oborrin

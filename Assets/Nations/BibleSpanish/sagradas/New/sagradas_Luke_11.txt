@@ -28,7 +28,7 @@
 "Y él dijo
 "Y juntándose la multitud a él, comenzó a decir
 "Porque como Jonás fue señal a los ninivitas, así también será el Hijo del hombre a esta generación."
-"La reina del austro se levantará en el juicio contra los hombres de esta generación, y los condenará; porque vino de los fines de la tierra a oír la sabiduría de Salomón; y he aquí más que Salomón en este lugar."
+"La reina del austro se levantará en el juicio contra los hombres de esta generación, y los condenará; porque vino de #los fines de la tierra a oír la sabiduría de Salomón; y he aquí más que Salomón en este lugar."
 "Los hombres de Nínive se levantarán en el juicio contra esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron; y he aquí más que Jonás en este lugar."
 "Nadie pone en oculto la lámpara encendida, ni debajo del almud, sino en el candelero, para que los que entran vean la lumbre."
 "La lámpara del cuerpo es el ojo; pues si tu ojo fuere sincero, también todo tu cuerpo será resplandeciente; mas si fuere malo, también tu cuerpo será tenebroso."
@@ -39,7 +39,7 @@
 "Y el Señor le dijo
 "Locos, ¿el que hizo lo de fuera, no hizo también lo de dentro?"
 "Pero <I>de</I>  lo que os resta, dad limosna; y he aquí todo os será limpio."
-"Mas ¡ay de vosotros, fariseos! Que diezmáis la menta, y la ruda, y toda hortaliza; pero el juicio y la caridad de Dios pasáis <I>de largo</I> . Pues estas cosas era necesario hacer, y no dejar las otras."
+"Mas ¡ay de vosotros, fariseos! Que diezmáis la menta, y la ruda, y toda hortaliza; pero el juicio y la #caridad de Dios pasáis <I>de largo</I> . Pues estas cosas era necesario hacer, y no dejar las otras."
 "¡Ay de vosotros, fariseos! Que amáis las primeras sillas en las sinagogas, y las salutaciones en las plazas."
 "¡Ay de vosotros, escribas y fariseos, hipócritas! Que sois como sepulcros que no se ven, y los hombres que andan encima no <I>lo</I>  saben."
 "Y respondiendo uno de los doctores de la ley, le dice

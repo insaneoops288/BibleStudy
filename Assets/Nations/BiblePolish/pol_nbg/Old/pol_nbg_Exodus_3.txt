@@ -5,7 +5,7 @@
 "I rzekł
 "Nadto powiedział
 "I WIEKUISTY powiedział
-"Dlatego idę go ocalić z ręki Micrejczyków oraz wyprowadzić go z tej ziemi do ziemi pięknej i przestronnej, do ziemi opływającej mlekiem i miodem, do siedziby Kanaanejczyków, Chittejczyków, Emorejczyków, Peryzejczyków, Chiwitów i Jebusytów."
+"Dlatego idę go ocalić z ręki Micrejczyków oraz wyprowadzić go z tej ziemi do ziemi pięknej i #przestronnej, do ziemi opływającej mlekiem i miodem, do siedziby Kanaanejczyków, Chittejczyków, Emorejczyków, Peryzejczyków, Chiwitów i Jebusytów."
 "A teraz, oto doszło do Mnie wołanie synów Israela oraz widziałem ucisk, którym uciskają ich Micrejczycy."
 "Tak więc, idź Ja cię poślę do faraona; wyprowadź Mój lud, synów Israela z Micraim."
 "A Mojżesz powiedział do Boga

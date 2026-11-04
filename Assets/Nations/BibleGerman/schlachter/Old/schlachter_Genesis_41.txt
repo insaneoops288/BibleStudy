@@ -45,7 +45,7 @@
 "Und der Pharao nannte den Joseph Zaphenat-Paneach und gab ihm Asnath, die Tochter Potipheras, des Priesters zu On, zum Weibe."
 "Und Joseph zog aus durch ganzÄgyptenland. Er war aber dreißig Jahre alt, da er vor dem Pharao stand. Und er ging vom Pharao aus und bereiste ganzÄgyptenland."
 "Und das Land trug in den sieben Jahren desÜberflusses haufenweise."
-"Und er sammelte allen Ertrag der sieben Jahre, in denen inÄgyptenlandÜberfluß herrschte, und tat die Nahrungsmittel in die Städte; nämlich den Ertrag der Felder rings um die Städte brachte er in diese."
+"Und er sammelte allen Ertrag der sieben Jahre, in denen inÄgyptenlandÜberfluß herrschte, und tat die Nahrungsmittel in #die Städte; nämlich den Ertrag der Felder rings um die Städte brachte er in diese."
 "Und Joseph speicherte Getreide auf wie Sand am Meer, bis er es nicht mehr messen konnte; denn es war unermeßlich viel."
 "Ehe aber die teure Zeit kam, wurden Joseph zwei Söhne geboren; die gebar ihm Asnath, die Tochter Potipheras, des Priesters zu On."
 "Und Joseph nannte den Erstgebornen Manasse; denn er sprach

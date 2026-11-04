@@ -7,10 +7,10 @@
 "A gdy Abdiasz był w drodze, Eliasz wyszedł mu naprzeciw. A on go poznał, upadł na twarz i powiedział
 "Odpowiedział mu
 "On zaś powiedział
-"Jak żyje PAN, twój Bóg, nie ma narodu ani królestwa, gdzie mój pan nie posłał ludzi, aby cię szukać. A gdy powiedziano, że cię nie ma, wtedy kazał przysięgać królestwom i narodom, że cię nie znaleziono."
+"Jak żyje PAN, twój Bóg, nie ma narodu ani królestwa, gdzie mój pan nie posłał ludzi, aby cię szukać. #A gdy powiedziano, że cię nie ma, wtedy kazał przysięgać królestwom i narodom, że cię nie znaleziono."
 "A ty teraz mówisz
-"I stanie się tak, że gdy odejdę od ciebie, Duch PANA zaniesie cię, nie wiem dokąd. Gdy przyjdę powiedzieć Achabowi, a on cię nie znajdzie, wtedy mnie zabije. A twój sługa boi się PANA od swej młodości."
-"Czyż nie powiedziano memu panu, co uczyniłem, gdy Jezabel mordowała proroków PANA – jak ukryłem stu mężczyzn spośród proroków PANA, po pięćdziesięciu mężczyzn w jaskiniach, i żywiłem ich chlebem i wodą?"
+"I stanie się tak, że gdy odejdę od ciebie, Duch PANA zaniesie cię, nie wiem dokąd. Gdy przyjdę powiedzieć #Achabowi, a on cię nie znajdzie, wtedy mnie zabije. A twój sługa boi się PANA od swej młodości."
+"Czyż nie powiedziano memu panu, co uczyniłem, gdy Jezabel mordowała proroków PANA – jak ukryłem stu #mężczyzn spośród proroków PANA, po pięćdziesięciu mężczyzn w jaskiniach, i żywiłem ich chlebem i wodą?"
 "A teraz mówisz
 "Eliasz odpowiedział
 "Abdiasz poszedł więc, aby spotkać się z Achabem, i oznajmił mu to. I Achab wyruszył na spotkanie z Eliaszem."
@@ -20,7 +20,7 @@
 "Achab posłał więc po wszystkich synów Izraela i zgromadził proroków na górze Karmel."
 "Wtedy Eliasz zbliżył się do całego ludu i powiedział
 "Wtedy Eliasz powiedział do ludu
-"Niech nam dadzą dwa cielce. Niech wybiorą sobie jednego cielca, porąbią go na części i położą na drwach, ale ognia niech nie podkładają. Ja również przygotuję drugiego cielca i położę na drwach, ale ognia nie podłożę."
+"Niech nam dadzą dwa cielce. Niech wybiorą sobie jednego cielca, porąbią go na części i położą na drwach, ale #ognia niech nie podkładają. Ja również przygotuję drugiego cielca i położę na drwach, ale ognia nie podłożę."
 "Potem wzywajcie imienia swoich bogów, a ja wezwę imienia PANA. A ten Bóg, który odpowie ogniem, niech będzie Bogiem. Cały lud odpowiedział
 "Eliasz powiedział więc do proroków Baala
 "Wzięli więc cielca, którego im dał, a gdy go przygotowali, wzywali imienia Baala, od poranka aż do południa, mówiąc

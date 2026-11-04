@@ -1,5 +1,5 @@
 "Consolai, consolai a meu povo, diz vosso Deus."
-"Falai ao coração de Jerusalém, e proclamai a ela, que seu esforço de guerra está terminado, que sua perversidade está perdoada; porque já recebeu [punição] em dobro da mão do SENHOR por todo os seus pecados."
+"Falai ao coração de Jerusalém, e proclamai a ela, que seu esforço de guerra está terminado, que sua perversidade #está perdoada; porque já recebeu [punição] em dobro da mão do SENHOR por todo os seus pecados."
 "Voz do que clama no deserto
 "Todo vale será levantado, e todo monte e morro serão abaixados; e o torto se endireitará, e o [terreno] acidentado se tornará plano."
 "E a glória do SENHOR se manifestará; e toda carne juntamente verá; pois [assim] falou a boca do SENHOR."
@@ -23,7 +23,7 @@
 "Ele é o que torna os príncipes em nada, [e] faz juízes da terra serem como o vazio."
 "Mal foram plantados, mal foram semeados, mal seu caule forma raízes na terra; e [logo] ele sopra neles, e se secam, e um vento forte os leva como palha fina."
 "A quem, pois, me comparareis, que eu lhe seja semelhante?,diz o Santo."
-"Levantai vossos olhos ao alto, e vede quem criou estas coisas, que faz sair numerado seu exército; e chama a todos eles pelos nomes, pela grandeza de [suas] forças, e por ser forte em poder, nenhuma [delas] faltará."
+"Levantai vossos olhos ao alto, e vede quem criou estas coisas, que faz sair numerado seu exército; e chama a #todos eles pelos nomes, pela grandeza de [suas] forças, e por ser forte em poder, nenhuma [delas] faltará."
 "Por que dizes, ó Jacó, e falas, ó Israel
 "Por acaso não sabes, nem ouviste, que o eterno Deus, o SENHOR, o criador dos confins da terra, não se cansa, nem se fatiga, e que seu entendimento é incompreensível?"
 "Ele dá força ao cansado, e multiplica as forças daquele que não tem vigor."

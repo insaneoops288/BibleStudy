@@ -9,7 +9,7 @@
 "E escreveu Moisés esta lei, e deu-a aos sacerdotes, filhos de Levi, que levavam a arca do pacto do SENHOR, e a todos os anciãos de Israel."
 "E mandou-lhes Moisés, dizendo
 "Quando vier todo Israel a apresentar-se diante do SENHOR teu Deus no lugar que ele escolher, lerás esta lei diante de todo Israel aos ouvidos deles."
-"Farás congregar o povo, homens e mulheres e crianças, e teus estrangeiros que estiverem em tuas cidades, para que ouçam e aprendam, e temam ao SENHOR vosso Deus, e cuidem de praticar todas as palavras desta lei
+"Farás congregar o povo, homens e mulheres e crianças, e teus estrangeiros que estiverem em tuas cidades, para que #ouçam e aprendam, e temam ao SENHOR vosso Deus, e cuidem de praticar todas as palavras desta lei
 "E os filhos deles que não souberem ouçam, e aprendam a temer ao SENHOR vosso Deus todos os dias que viverdes sobre a terra, para ir à qual passais o Jordão para possuí-la."
 "E o SENHOR disse a Moisés
 "E apareceu-se o SENHOR no tabernáculo, na coluna de nuvem; e a coluna de nuvem se pôs sobre a porta do tabernáculo."
@@ -26,5 +26,5 @@
 "Tomai este livro da lei, e ponde-o ao lado da arca do pacto do SENHOR vosso Deus, e esteja ali por testemunha contra ti."
 "Porque eu conheço tua rebelião, e tua dura cerviz
 "Congregai a mim todos os anciãos de vossas tribos, e a vossos oficiais, e falarei em seus ouvidos estas palavras, e chamarei por testemunhas contra eles os céus e a terra."
-"Porque eu sei que depois de minha morte, certamente vos corrompereis e vos desviareis do caminho que vos mandei; e que vos há de vir mal nos últimos dias, por haver feito mal aos olhos do SENHOR, provocando-lhe à ira com a obra de vossas mãos."
+"Porque eu sei que depois de minha morte, certamente vos corrompereis e vos desviareis do caminho que vos mandei; e que vos há de #vir mal nos últimos dias, por haver feito mal aos olhos do SENHOR, provocando-lhe à ira com a obra de vossas mãos."
 "Então falou Moisés aos ouvidos de toda a congregação de Israel as palavras deste cântico até acabá-lo."

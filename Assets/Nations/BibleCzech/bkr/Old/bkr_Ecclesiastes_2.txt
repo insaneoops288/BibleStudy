@@ -1,6 +1,6 @@
 "Řekl jsem opět srdci svému
 "Smíchu jsem řekl
-"Přemyšloval jsem v srdci svém, abych povoloval u víně tělu svému, srdce však své spravuje moudrostí, a přídržel se bláznovství dotud, až bych zkusil, co by lepšího bylo synům lidským, aby činili pod nebem v počtu dnů života svého."
+"Přemyšloval jsem v srdci svém, abych povoloval u víně tělu svému, srdce však své spravuje moudrostí, a přídržel se bláznovství #dotud, až bych zkusil, co by lepšího bylo synům lidským, aby činili pod nebem v počtu dnů života svého."
 "Veliké jsem skutky činil, vystavěl jsem sobě domy, štípil jsem sobě vinice."
 "Vzdělal jsem sobě zahrady a štěpnice, a štípil jsem v nich stromy všelijakého ovoce."
 "Nadělal jsem sobě rybníků, abych svlažoval jimi les plodící dříví."
@@ -23,4 +23,4 @@
 "Poněvadž všickni dnové jeho bolestní, a zaměstknání jeho hněv, tak že ani v noci neodpočívá srdce jeho? A i to marnost."
 "Zdaliž není to chvalitebné při člověku, jísti a píti, a učiniti životu svému pohodlí z práce své? Ač i to také viděl jsem, že z ruky Boží pochází."
 "Nebo kdož by jísti a užívati měl toho nežli já?"
-"Člověku zajisté, kterýž se líbí jemu, dává moudrost, umění a veselí; hříšníku pak dává trápení, aby shromažďoval a hrnul, čehož by zanechal tomu, kterýž se líbí Bohu. I to také jest marnost a trápení ducha."
+"Člověku zajisté, kterýž se líbí jemu, dává moudrost, umění a veselí; hříšníku pak dává trápení, aby shromažďoval a #hrnul, čehož by zanechal tomu, kterýž se líbí Bohu. I to také jest marnost a trápení ducha."

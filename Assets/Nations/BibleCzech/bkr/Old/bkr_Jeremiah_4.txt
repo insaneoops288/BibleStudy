@@ -1,7 +1,7 @@
 "Budeš-li se míti navrátiti, Izraeli, dí Hospodin, ke mně se navrať. Nebo odejmeš-li ohavnosti své od tváři mé a nebudeš-li se toulati,"
 "A budeš-li přisahati právě, náležitě a spravedlivě, říkaje
 "Nebo takto praví Hospodin mužům Judským a Jeruzalémským
-"Obřežte se Hospodinu, a odejměte neobřízky srdce vašeho, muži Judští a obyvatelé Jeruzalémští, aby nevyšla jako oheň prchlivost má, a nehořela, tak že by nebyl kdo uhasiti, pro nešlechetnost předsevzetí vašich."
+"Obřežte se Hospodinu, a odejměte neobřízky srdce vašeho, muži Judští a obyvatelé Jeruzalémští, aby nevyšla jako #oheň prchlivost má, a nehořela, tak že by nebyl kdo uhasiti, pro nešlechetnost předsevzetí vašich."
 "Oznamte v Judstvu, a v Jeruzalémě ohlaste, a rcete
 "Vyzdvihněte korouhev na Sionu, zmužile se mějte, nepostávejte; nebo já zlé věci uvedu od půlnoci, a potření veliké."
 "Vychází lev z houště své, a ten, kterýž hubí národy, vyšed z místa svého, táhne, aby obrátil zemi tvou v pustinu, a města tvá aby zbořena byla, tak aby nebylo žádného obyvatele."
@@ -27,5 +27,5 @@
 "Nebo takto praví Hospodin
 "Kvíliti bude nad tím země, a zasmuší se na hoře nebe, proto že jsem mluvil, co jsem myslil, a nelituji, aniž se odvrátím od toho."
 "Před hřmotem jezdců a těch, kteříž střílejí z lučiště, uteče všecko město. Vejdou do hustých oblaků, a na skálí vylezou; všecka města opuštěna budou, a žádný nebude bydliti v nich."
-"Ty pak pohubena jsuc, což činiti budeš? Ačkoli obláčíš se v šarlat, ačkoli se ozdobuješ ozdobou zlatou, ačkoli líčíš tvář svou líčidlem, darmo se okrašluješ. Pohrdají tebou frejíři, bezživotí tvého hledají."
+"Ty pak pohubena jsuc, což činiti budeš? Ačkoli obláčíš se v šarlat, ačkoli se ozdobuješ ozdobou #zlatou, ačkoli líčíš tvář svou líčidlem, darmo se okrašluješ. Pohrdají tebou frejíři, bezživotí tvého hledají."
 "Nebo slyším hlas jako rodičky, svírání jako té, kteráž po nejprvé ku porodu pracuje, hlas dcery Sionské, ustavičně vzdychající, a lomící rukama svýma, říkající

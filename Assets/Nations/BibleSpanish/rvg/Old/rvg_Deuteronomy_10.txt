@@ -9,7 +9,7 @@
 "Por lo cual Leví no tuvo parte ni heredad con sus hermanos
 "Y yo estuve en el monte como los primeros días, cuarenta días y cuarenta noches; y Jehová me escuchó también esta vez, y no quiso Jehová destruirte."
 "Y me dijo Jehová
-"Ahora, pues, Israel, ¿qué pide Jehová tu Dios de ti, sino que temas a Jehová tu Dios, que andes en todos sus caminos, y que lo ames, y sirvas a Jehová tu Dios con todo tu corazón, y con toda tu alma;"
+"Ahora, pues, Israel, ¿qué pide Jehová tu Dios de ti, sino que temas a Jehová tu Dios, que andes en todos sus #caminos, y que lo ames, y sirvas a Jehová tu Dios con todo tu corazón, y con toda tu alma;"
 "que guardes los mandamientos de Jehová y sus estatutos, que yo te prescribo hoy para tu bien?"
 "He aquí, de Jehová tu Dios es el cielo, y el cielo de los cielos, la tierra, y todas las cosas que hay en ella."
 "Solamente de tus padres se agradó Jehová para amarlos, y escogió su simiente después de ellos, a vosotros, de entre todos los pueblos, como en este día."

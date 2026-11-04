@@ -12,7 +12,7 @@
 "Obok niego naprawiał Szallum, syn Hallochesza, przełożony połowy okręgu Jerozolimy, on i jego córki."
 "Bramę nad Doliną naprawiali Chanun i mieszkańcy Zanoach. Odbudowali ją, wstawili jej wrota, zamki i rygle i naprawili tysiąc łokci muru aż do Bramy Gnojnej."
 "Lecz Bramę Gnojną naprawiał Malkiasz, syn Rekaba, przełożony okręgu Bet-Hakkerem. On ją odbudował i wstawił jej wrota, zamki i rygle;"
-"Bramę Źródlaną naprawiał Szallun, syn Kol-Chozego, przełożony okręgu Mispa. On ją zbudował, pokrył dachem i wstawił jej wrota, zamki i rygle oraz wzniósł mur nad stawem Sziloach przy ogrodzie królewskim aż do schodów prowadzących do miasta Dawida."
+"Bramę Źródlaną naprawiał Szallun, syn Kol-Chozego, przełożony okręgu Mispa. On ją zbudował, pokrył dachem i wstawił jej wrota, zamki #i rygle oraz wzniósł mur nad stawem Sziloach przy ogrodzie królewskim aż do schodów prowadzących do miasta Dawida."
 "Za nim naprawiał Nehemiasz, syn Azbuka, przełożony połowy okręgu Bet-Sur, aż do miejsca naprzeciw grobów Dawida i aż do stawu sztucznego, i aż do domu mocarzy."
 "Za nim naprawiali Lewici
 "Za nim naprawiali ich bracia

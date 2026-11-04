@@ -2,7 +2,7 @@
 "A w jedenastym roku Sedekiasza, czwartego miesiąca, dziewiątego dnia tego miesiąca, zrobiono wyłom w murach miasta."
 "I weszli do niego wszyscy książęta króla Babilonu, i zasiedli w Bramie Środkowej
 "Gdy zobaczył ich Sedekiasz, król Judy, i wszyscy wojownicy, uciekli, wychodząc nocą z miasta drogą ogrodu królewskiego, przez bramę między dwoma murami. I król szedł drogą w stronę równiny."
-"Lecz wojsko Chaldejczyków ścigało ich i doścignęło Sedekiasza na równinach Jerycha; pojmali go i przyprowadzili do Nabuchodonozora, króla Babilonu, do Ribla, w ziemi Chamat, gdzie ten wydał na niego wyrok."
+"Lecz wojsko Chaldejczyków ścigało ich i doścignęło Sedekiasza na równinach Jerycha; pojmali go i przyprowadzili do #Nabuchodonozora, króla Babilonu, do Ribla, w ziemi Chamat, gdzie ten wydał na niego wyrok."
 "Król Babilonu zabił synów Sedekiasza w Ribla na jego oczach. Król Babilonu zabił również wszystkich dostojników Judy."
 "Ale Sedekiaszowi wyłupił oczy i zakuł go w łańcuchy, aby go uprowadzić do Babilonu."
 "Chaldejczycy spalili ogniem dom króla i domy ludu, a mury Jerozolimy zburzyli."

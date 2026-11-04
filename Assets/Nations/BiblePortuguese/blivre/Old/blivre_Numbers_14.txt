@@ -11,11 +11,11 @@
 "E o SENHOR disse a Moisés
 "Eu lhe ferirei de mortandade, e o destruirei, e a ti te porei sobre gente grande e mais forte que eles."
 "E Moisés respondeu ao SENHOR
-"E o dirão aos habitantes desta terra; os quais ouviram que tu, ó SENHOR, estavas em meio deste povo, que olho a olho aparecias tu, ó SENHOR, e que tua nuvem estava sobre eles, e que de dia ias diante deles em coluna de nuvem, e de noite em coluna de fogo."
+"E o dirão aos habitantes desta terra; os quais ouviram que tu, ó SENHOR, estavas em meio deste povo, que olho a olho aparecias tu, ó SENHOR, #e que tua nuvem estava sobre eles, e que de dia ias diante deles em coluna de nuvem, e de noite em coluna de fogo."
 "E que fizeste morrer a este povo como a um homem
 "Porque não pôde o SENHOR meter este povo na terra da qual lhes havia jurado, os matou no deserto."
 "Agora, pois, eu te rogo que seja engrandecida a força do Senhor, como o falaste, dizendo
-"O SENHOR, tardio de ira e grande em misericórdia, que perdoa a iniquidade e a rebelião, e deixa impune o culpado; que visita a maldade dos pais sobre os filhos até a terceira geração e até a quarta."
+"O SENHOR, tardio de ira e grande em misericórdia, que perdoa a iniquidade e a rebelião, e deixa impune o #culpado; que visita a maldade dos pais sobre os filhos até a terceira geração e até a quarta."
 "Perdoa agora a iniquidade deste povo segundo a grandeza de tua misericórdia, e como perdoaste a este povo desde Egito até aqui."
 "Então o SENHOR disse
 "Mas, certamente vivo eu e minha glória inche toda a terra,"

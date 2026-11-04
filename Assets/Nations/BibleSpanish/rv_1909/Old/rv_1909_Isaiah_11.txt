@@ -8,7 +8,7 @@
 "Y el niño de teta se entretendrá sobre la cueva del áspid, y el recién destetado extenderá su mano sobre la caverna del basilisco."
 "No harán mal ni dañarán en todo mi santo monte; porque la tierra será llena del conocimiento de Jehová, como cubren la mar las aguas."
 "Y acontecerá en aquel tiempo que la raíz de Isaí, la cual estará puesta por pendón á los pueblos, será buscada de las gentes; y su holganza será gloria."
-"Asimismo acontecerá en aquel tiempo, que Jehová tornará á poner otra vez su mano para poseer las reliquias de su pueblo que fueron dejadas de Assur, y de Egipto, y de Parthia, y de Etiopía, y de Persia, y de Caldea, y de Amath, y de las Islas de la mar."
+"Asimismo acontecerá en aquel tiempo, que Jehová tornará á poner otra vez su mano para poseer las reliquias de su pueblo que fueron dejadas de Assur, #y de Egipto, y de Parthia, y de Etiopía, y de Persia, y de Caldea, y de Amath, y de las Islas de la mar."
 "Y levantará pendón á las gentes, y juntará los desterrados de Israel, y reunirá los esparcidos de Judá de los cuatro cantones de la tierra."
 "Y se disipará la envidia de Ephraim, y los enemigos de Judá serán talados. Ephraim no tendrá envidia contra Judá, ni Judá afligirá á Ephraim;"
 "Mas volarán sobre los hombros de los Filisteos al occidente, meterán también á saco á los de oriente

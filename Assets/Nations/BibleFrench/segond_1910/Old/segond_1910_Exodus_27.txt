@@ -18,4 +18,4 @@
 "La longueur du parvis sera de cent coudées, sa largeur de cinquante de chaque côté, et sa hauteur de cinq coudées; les toiles seront de fin lin retors, et les bases d'airain."
 "Tous les ustensiles destinés au service du tabernacle, tous ses pieux, et tous les pieux du parvis, seront d'airain."
 "Tu ordonneras aux enfants d'Israël de t'apporter pour le chandelier de l'huile pure d'olives concassées, afin d'entretenir les lampes continuellement."
-"C'est dans la tente d'assignation, en dehors du voile qui est devant le témoignage, qu'Aaron et ses fils la prépareront, pour que les lampes brûlent du soir au matin en présence de l'Eternel. C'est une loi perpétuelle pour leurs descendants, et que devront observer les enfants d'Israël."
+"C'est dans la tente d'assignation, en dehors du voile qui est devant le témoignage, qu'Aaron et ses fils la prépareront, pour que les lampes #brûlent du soir au matin en présence de l'Eternel. C'est une loi perpétuelle pour leurs descendants, et que devront observer les enfants d'Israël."

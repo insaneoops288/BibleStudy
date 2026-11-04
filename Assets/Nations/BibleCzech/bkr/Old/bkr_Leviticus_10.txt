@@ -12,7 +12,7 @@
 "Mluvil pak Mojžíš Aronovi, Eleazarovi a Itamarovi, synům jeho, kteříž živi zůstali
 "Protož jísti budete ji na místě svatém, nebo to jest právo tvé a právo synů tvých z ohnivých obětí Hospodinových; tak zajisté jest mi přikázáno."
 "Hrudí pak sem i tam obracení, a plece vznášení jísti budete na místě čistém, ty i synové tvoji, i dcery tvé s tebou; nebo to právem tobě a synům tvým dáno jest z pokojných obětí synů Izraelských."
-"Plece vzhůru vznášení a hrudí sem i tam obracení s obětmi ohnivými tuků, kteréž přinesou, aby sem i tam obracíno bylo, tak jako obět obracení před Hospodinem, bude tobě i synům tvým s tebou právem věčným, jakož přikázal Hospodin."
+"Plece vzhůru vznášení a hrudí sem i tam obracení s obětmi ohnivými tuků, kteréž přinesou, aby sem i tam obracíno #bylo, tak jako obět obracení před Hospodinem, bude tobě i synům tvým s tebou právem věčným, jakož přikázal Hospodin."
 "Mojžíš pak hledal pilně kozla k oběti za hřích, a hle, již spálen byl. Tedy rozhněval se na Eleazara a Itamara, syny Aronovy pozůstalé, a řekl
 "Pročež jste nejedli oběti za hřích na místě svatém? Nebo svatá svatých byla, poněvadž ji dal vám, abyste nesli nepravost všeho množství k očištění jejich před Hospodinem."
 "A hle, ani krev její není vnesena do vnitřku svatyně. Jísti jste měli ji v svatyni, jakož jsem byl přikázal."

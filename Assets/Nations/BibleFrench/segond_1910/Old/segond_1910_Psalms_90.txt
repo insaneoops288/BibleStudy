@@ -7,7 +7,7 @@
 "Nous sommes consumés par ta colère, Et ta fureur nous épouvante."
 "Tu mets devant toi nos iniquités, Et à la lumière de ta face nos fautes cachées."
 "Tous nos jours disparaissent par ton courroux; Nous voyons nos années s'évanouir comme un son."
-"Les jours de nos années s'élèvent à soixante-dix ans, Et, pour les plus robustes, à quatre-vingts ans; Et l'orgueil qu'ils en tirent n'est que peine et misère, Car il passe vite, et nous nous envolons."
+"Les jours de nos années s'élèvent à soixante-dix ans, Et, pour les plus robustes, à quatre-vingts ans; Et #l'orgueil qu'ils en tirent n'est que peine et misère, Car il passe vite, et nous nous envolons."
 "Qui prend garde à la force de ta colère, Et à ton courroux, selon la crainte qui t'est due?"
 "Enseigne-nous à bien compter nos jours, Afin que nous appliquions notre coeur à la sagesse."
 "Reviens, Eternel! Jusques à quand?... Aie pitié de tes serviteurs!"

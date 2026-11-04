@@ -7,7 +7,7 @@
 "Kim jest ten, co wzbiera niby rzeka i jak strumienie pienią się jego fale?"
 "To Micraim wzbiera jak rzeka, jak strumienie pienią się jego fale i mówi
 "Wspinajcie się konie, tętnijcie wozy i niech wyruszą rycerze, co noszą tarcze
-"Ale to dzień Pana, WIEKUISTEGO Zastępów; dzień pomsty, w którym zemści się nad Swoimi wrogami. Miecz chłonie i się nasyca, opija się ich krwią; bowiem Pan, WIEKUISTY Zastępów, w północnej ziemi, nad rzeką Frat, wyprawia ucztę ofiarną!"
+"Ale to dzień Pana, WIEKUISTEGO Zastępów; dzień pomsty, w którym zemści się nad Swoimi wrogami. Miecz chłonie i się #nasyca, opija się ich krwią; bowiem Pan, WIEKUISTY Zastępów, w północnej ziemi, nad rzeką Frat, wyprawia ucztę ofiarną!"
 "Wejdź do Gileadu oraz nabierz balsamu, dziewicza córo Micraimu! Daremnie mnożysz leki, nie ma dla ciebie ukojenia!"
 "Narody słyszały o twej hańbie, a twym biadaniem napełniła się ziemia; bo rycerz został zachwiany przez rycerza i obydwaj razem polegli!"
 "Słowo, które WIEKUISTY wypowiedział do Jeremjasza, proroka, kiedy zamierzał przyjść Nabukadrecar, król Babelu, by pobić ziemię Micraim
@@ -25,4 +25,4 @@
 "Tak mówi WIEKUISTY Zastępów, Bóg Israela
 "Wydam ich w rękę tych, którzy czyhają na ich życie, w rękę Nabukadrecara, króla Babelu, i w rękę jego sług. Lecz potem spokojnie zamieszka, tak, jak za dawnych dni – mówi WIEKUISTY."
 "Ale ty się nie bój, mój sługo, Jakóbie, nie trwóż się Israelu! Bo oto Ja cię wybawię z oddali, a twe potomstwo z ziemi niewoli. Jakób wróci i będzie bezpiecznie odpoczywał, nie będzie się trwożył."
-"Ty się nie bój, mój sługo, Jakóbie – mówi WIEKUISTY, bo Ja jestem z tobą; choćbym doszczętnie zgładził wszystkie narody, do których cię rzucę – ciebie doszczętnie nie zgładzę. Będę cię należycie karcił, ale wytępić – nie wytępię."
+"Ty się nie bój, mój sługo, Jakóbie – mówi WIEKUISTY, bo Ja jestem z tobą; choćbym doszczętnie zgładził wszystkie narody, #do których cię rzucę – ciebie doszczętnie nie zgładzę. Będę cię należycie karcił, ale wytępić – nie wytępię."

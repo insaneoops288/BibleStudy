@@ -1,7 +1,7 @@
 "Słowa Agura, syna Jaki, z Masy; oświadczenie mowy tego męża do Ityela i Uchala."
 "Zaprawdę, ja jestem bardziej niedoświadczony, niż którykolwiek mąż i nie posiadam nawet rozumu pospolitego człowieka."
 "Nie nauczyłem się też mądrości, więc jak miałbym posiadać wiedzę o Świętym?"
-"Kto wstąpił do niebios i zeszedł? Kto zebrał wiatr w swoje garście? Kto zgarnął wody do szaty? Kto utwierdził wszystkie krańce ziemi? Jakie jest Jego Imię, albo jakie jest Imię Jego Syna – jeśli to wiesz!"
+"Kto wstąpił do niebios i zeszedł? Kto zebrał wiatr w swoje garście? Kto zgarnął wody do szaty? Kto utwierdził #wszystkie krańce ziemi? Jakie jest Jego Imię, albo jakie jest Imię Jego Syna – jeśli to wiesz!"
 "Każde słowo Boga jest przeczyste; On jest tarczą dla tych, którzy się chronią do Niego."
 "Nie dodawaj nic do Jego słów, by cię nie pociągnął do odpowiedzialności i abyś nie okazał się kłamcą."
 "Zanim umrę, żądam od Ciebie dwóch rzeczy; nie odmawiaj mi ich

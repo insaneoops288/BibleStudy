@@ -3,11 +3,11 @@
 "dhe motra e tij ende e virgjër që jeton me të, dhe që nuk është martuar ende; për atë mund të ndotet."
 "Duke qënë një udhëheqës në mes të popullit të tij, nuk do të ndotet duke përdhosur veten e tij."
 "Priftërinjtë nuk do të bëjnë tonsurën mbi kokën e tyre, nuk do të rruajnë mjekrën e tyre dhe nuk do të bëjnë prerje mbi mishin e tyre."
-"Do të jenë të shenjtë për Perëndinë e tyre dhe nuk do të përdhosin emrin e Perëndisë së tyre, sepse i ofrojnë flijime Zotit, të përgatitura me zjarr dhe bukën Perëndisë së tyre; prandaj do të jenë të shenjtë."
+"Do të jenë të shenjtë për Perëndinë e tyre dhe nuk do të përdhosin emrin e Perëndisë së tyre, sepse #i ofrojnë flijime Zotit, të përgatitura me zjarr dhe bukën Perëndisë së tyre; prandaj do të jenë të shenjtë."
 "Nuk do të marrin për grua një kurvë, as edhe një grua faqenxirë; nuk do të marrin një grua të ndarë nga burri, sepse janë të shenjtë ndaj Perëndisë së tyre."
 "Ti do ta konsiderosh priftin të shenjtë, sepse ai i ofron bukën Perëndisë tënd; ai ka për të qënë i shenjtë për ty, sepse unë, Zoti që ju shenjtëroj, jam i shenjtë."
 "Në rast se bija e një prifti humb nderin duke u bërë kurvë, ajo turpëron të atin
-"Por ai që është kryeprift midis vëllezërve të tij, mbi kokën e të cilit është vënë vaji i vajosjes dhe që është shenjtëruar për të veshur rrobat e shenjta, nuk do të zbulojë kokën dhe nuk do të shqyejë rrobat."
+"Por ai që është kryeprift midis vëllezërve të tij, mbi kokën e të cilit është vënë vaji i vajosjes dhe që #është shenjtëruar për të veshur rrobat e shenjta, nuk do të zbulojë kokën dhe nuk do të shqyejë rrobat."
 "Nuk do t'i afrohet asnjë kufome; nuk do të ndotet as për të atin, as për të ëmën."
 "Nuk do të dalë nga shenjtërorja dhe nuk do të përdhosë shenjtëroren e Perëndisë së tij, sepse shenjtërimi i vajosjes nga ana e Perëndisë është mbi të. Unë jam Zoti."
 "Do të marrë për grua një virgjëreshë."

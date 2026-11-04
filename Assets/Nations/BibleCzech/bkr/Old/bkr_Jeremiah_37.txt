@@ -18,4 +18,4 @@
 "Při tom řekl Jeremiáš králi Sedechiášovi
 "A kdež jsou proroci vaši, kteříž prorokují vám, říkajíce
 "Nyní tedy slyš, žádám, pane můj králi, nechť, prosím, místo má před tebou pokorná prosba má; nedopouštěj mne zase voditi do domu Jonatana písaře, abych tam neumřel."
-"I přikázal král Sedechiáš, aby vsadili Jeremiáše do síně stráže, a dávali jemu pecník chleba na den z ulice pekařů, dokudž by nebyl vytráven všecken chléb v městě. A tak seděl Jeremiáš v síni stráže."
+"I přikázal král Sedechiáš, aby vsadili Jeremiáše do síně stráže, a dávali jemu pecník chleba na den z #ulice pekařů, dokudž by nebyl vytráven všecken chléb v městě. A tak seděl Jeremiáš v síni stráže."

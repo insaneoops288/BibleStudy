@@ -15,7 +15,7 @@
 "E todo vaso aberto, sobre o qual não houver tampa bem ajustada, sera impuro."
 "E qualquer um que tocar em morto à espada sobre a face do campo, ou em morto, ou em osso humano, ou em sepulcro, sete dias será impuro."
 "E para o impuro tomarão da cinza da queimada vaca da expiação, e lançarão sobre ela água viva em um vaso
-"E um homem limpo tomará hissopo. e o molhará na água, e espargirá sobre a tenda, e sobre todos os móveis, e sobre as pessoas que ali estiverem, e sobre aquele que houver tocado o osso, ou o matado, ou o cadáver, ou o sepulcro
+"E um homem limpo tomará hissopo. e o molhará na água, e espargirá sobre a tenda, e sobre todos os móveis, e sobre #as pessoas que ali estiverem, e sobre aquele que houver tocado o osso, ou o matado, ou o cadáver, ou o sepulcro
 "E o limpo espargirá sobre o impuro ao terceiro e ao sétimo dia
 "E o que for impuro, e não se purificar, a tal pessoa será eliminada dentre a congregação, porquanto contaminou o tabernáculo do SENHOR
 "E lhes será por estatuto perpétuo

@@ -35,7 +35,7 @@
 "Kung tinawag niyang mga dios, yaong mga dinatnan ng salita ng Dios (at hindi mangyayaring sirain ang kasulatan),"
 "Sinasabi baga ninyo tungkol sa kaniya, na pinabanal ng Ama at sinugo sa sanglibutan, Ikaw ay namumusong; sapagka't sinasabi ko, Ako ang anak ng Dios?"
 "Kung hindi ko ginagawa ang mga gawa ng aking Ama, ay huwag ninyo akong sampalatayanan."
-"Datapuwa't kung ginagawa ko, ang mga yaon kahit hindi kayo magsisampalataya sa akin, ay magsisampalataya kayo sa mga gawa; upang maalaman ninyo at mapagunawa na ang Ama ay nasa akin, at ako'y nasa Ama."
+"Datapuwa't kung ginagawa ko, ang mga yaon kahit hindi kayo magsisampalataya sa akin, ay magsisampalataya kayo sa mga #gawa; upang maalaman ninyo at mapagunawa na ang Ama ay nasa akin, at ako'y nasa Ama."
 "Muling pinagsikapan nilang siya'y hulihin
 "At siya'y muling naparoon sa dako pa roon ng Jordan sa dako nang una'y pinagbautismuhan ni Juan; at siya'y tumira doon."
 "At marami ang mga nagsiparoon sa kaniya; at kanilang sinabi, Katotohanang si Juan ay hindi gumawa ng tanda

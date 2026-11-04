@@ -1,5 +1,5 @@
 "Gdy ktoś zechce złożyć PANU ofiarę pokarmową, niech jego ofiara będzie z mąki pszennej. Niech poleje ją oliwą i położy na niej kadzidła."
-"I przyniesie ją do synów Aarona, kapłanów, a kapłan weźmie stamtąd pełną garść tej mąki pszennej wraz z oliwą i całym kadzidłem i spali to na ołtarzu jako pamiątkę. To jest ofiara ogniowa, miła woń dla PANA."
+"I przyniesie ją do synów Aarona, kapłanów, a kapłan weźmie stamtąd pełną garść tej mąki pszennej wraz z oliwą #i całym kadzidłem i spali to na ołtarzu jako pamiątkę. To jest ofiara ogniowa, miła woń dla PANA."
 "To zaś, co zostanie z tej ofiary pokarmowej, będzie dla Aarona i jego synów. Jest to najświętsza część z ofiar ogniowych dla PANA."
 "A jeśli będziesz składał ofiarę pokarmową upieczoną w piecu, niech to będą przaśne placki z mąki pszennej zmieszane z oliwą albo przaśne podpłomyki skropione oliwą."
 "Jeśli zaś będziesz składał ofiarę pokarmową smażoną na patelni, niech będzie ona z mąki pszennej niezakwaszonej, zmieszanej z oliwą."

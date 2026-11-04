@@ -9,8 +9,8 @@
 "I rzekł Jonatan
 "I rzekł Dawid do Jonatana
 "Odpowiedział Jonatan Dawidowi
-"Tedy rzekł Jonatan do Dawida; Pan, Bóg Izraelski, (skoro się wywiem o woli ojca mego o tym czasie jutro, albo dnia trzeciego, a będzie co dobrego o Dawidzie, a jeźli zarazem nie poślę do ciebie, i nie oznajmięć,)"
-"To niech uczyni Pan, Bóg Izraelski, mówię, Jonatanowi, i to niech przyczyni. A jeźliże będzie chciał ojciec mój przywieść złe na cię, i toć objawię, i puszczę cię, abyś szedł w pokoju, a niech będzie Pan z tobą, jako był z ojcem moim."
+"Tedy rzekł Jonatan do Dawida; Pan, Bóg Izraelski, (skoro się wywiem o woli ojca mego o tym czasie jutro, albo #dnia trzeciego, a będzie co dobrego o Dawidzie, a jeźli zarazem nie poślę do ciebie, i nie oznajmięć,)"
+"To niech uczyni Pan, Bóg Izraelski, mówię, Jonatanowi, i to niech przyczyni. A jeźliże będzie chciał ojciec mój przywieść złe na cię, #i toć objawię, i puszczę cię, abyś szedł w pokoju, a niech będzie Pan z tobą, jako był z ojcem moim."
 "Także i ty, będęli żyw, i ty mówię uczynisz ze mną miłosierdzie Pańskie, a choćbym i umarł,"
 "Przecię nie oddalisz miłosierdzia twego od domu mego aż na wieki, ani gdy wykorzeni Pan nieprzyjacioły Dawidowe wszystkie z ziemi."
 "I uczynił Jonatan przymierze z domem Dawidowym, mówiąc

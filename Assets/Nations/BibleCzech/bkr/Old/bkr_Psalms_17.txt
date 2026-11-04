@@ -11,5 +11,5 @@
 "Jižť i kroky naše předstihají, oči své obrácené mají, aby nás porazili na zem."
 "Každý z nich podoben jest lvu žádostivému loupeže, a lvíčeti sedícímu v skrýši."
 "Povstaniž, Hospodine, předejdi tváři jeho, sehni jej, a vytrhni duši mou od bezbožníka mečem svým,"
-"Rukou svou od lidí, ó Hospodine, od lidí světských, jichžto oddíl jest v tomto životě, a jejichž břicho ty z špižírny své naplňuješ. Čímž i synové jejich nasyceni bývají, a ostatků zanechávají maličkým svým."
+"Rukou svou od lidí, ó Hospodine, od lidí světských, jichžto oddíl jest v tomto životě, a jejichž břicho #ty z špižírny své naplňuješ. Čímž i synové jejich nasyceni bývají, a ostatků zanechávají maličkým svým."
 "Já pak v spravedlnosti spatřovati budu tvář tvou; nasycen budu obrazem tvým, když procítím."

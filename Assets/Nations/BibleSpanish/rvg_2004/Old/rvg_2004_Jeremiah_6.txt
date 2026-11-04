@@ -8,7 +8,7 @@
 "Corrígete, Jerusalén, para que no se aparte mi alma de ti, para que no te convierta en desierto, en tierra inhabitada."
 "Así dice Jehová de los ejércitos
 "¿A quién debo de hablar y amonestar, para que oigan? He aquí que sus oídos son incircuncisos, y no pueden escuchar; he aquí que la palabra de Jehová les es cosa vergonzosa, no la aman."
-"Por tanto estoy lleno de la ira de Jehová, cansado estoy de contenerme; la derramaré sobre los niños en la calle, y sobre la reunión de los jóvenes juntamente; porque el marido también será preso con la esposa, el viejo con el lleno de días."
+"Por tanto estoy lleno de la ira de Jehová, cansado estoy de contenerme; la derramaré sobre los niños en la calle, y sobre #la reunión de los jóvenes juntamente; porque el marido también será preso con la esposa, el viejo con el lleno de días."
 "Y sus casas serán traspasadas a otros, sus heredades y también sus mujeres; porque extenderé mi mano sobre los moradores de la tierra, dice Jehová."
 "Porque desde el más chico de ellos hasta el más grande de ellos, cada uno sigue la avaricia; y desde el profeta hasta el sacerdote, todos son engañadores."
 "Y curan el quebrantamiento de [la hija de] mi pueblo con liviandad, diciendo

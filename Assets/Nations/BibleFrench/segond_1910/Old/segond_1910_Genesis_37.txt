@@ -1,5 +1,5 @@
 "Jacob demeura dans le pays de Canaan, où avait séjourné son père."
-"Voici la postérité de Jacob. Joseph, âgé de dix-sept ans, faisait paître le troupeau avec ses frères; cet enfant était auprès des fils de Bilha et des fils de Zilpa, femmes de son père. Et Joseph rapportait à leur père leurs mauvais propos."
+"Voici la postérité de Jacob. Joseph, âgé de dix-sept ans, faisait paître le troupeau avec ses frères; cet enfant était auprès des #fils de Bilha et des fils de Zilpa, femmes de son père. Et Joseph rapportait à leur père leurs mauvais propos."
 "Israël aimait Joseph plus que tous ses autres fils, parce qu'il l'avait eu dans sa vieillesse; et il lui fit une tunique de plusieurs couleurs."
 "Ses frères virent que leur père l'aimait plus qu'eux tous, et ils le prirent en haine. Ils ne pouvaient lui parler avec amitié."
 "Joseph eut un songe, et il le raconta à ses frères, qui le haïrent encore davantage."
@@ -22,7 +22,7 @@
 "Ruben leur dit
 "Lorsque Joseph fut arrivé auprès de ses frères, ils le dépouillèrent de sa tunique, de la tunique de plusieurs couleurs, qu'il avait sur lui."
 "Ils le prirent, et le jetèrent dans la citerne. Cette citerne était vide; il n'y avait point d'eau."
-"Ils s'assirent ensuite pour manger. Ayant levé les yeux, ils virent une caravane d'Ismaélites venant de Galaad; leurs chameaux étaient chargés d'aromates, de baume et de myrrhe, qu'ils transportaient en Egypte."
+"Ils s'assirent ensuite pour manger. Ayant levé les yeux, ils virent une caravane d'Ismaélites venant de #Galaad; leurs chameaux étaient chargés d'aromates, de baume et de myrrhe, qu'ils transportaient en Egypte."
 "Alors Juda dit à ses frères
 "Venez, vendons-le aux Ismaélites, et ne mettons pas la main sur lui, car il est notre frère, notre chair. Et ses frères l'écoutèrent."
 "Au passage des marchands madianites, ils tirèrent et firent remonter Joseph hors de la citerne; et ils le vendirent pour vingt sicles d'argent aux Ismaélites, qui l'emmenèrent en Egypte."

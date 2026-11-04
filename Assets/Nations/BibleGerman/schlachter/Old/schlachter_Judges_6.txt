@@ -8,7 +8,7 @@
 "sandte der HERR einen Propheten zu den Kindern Israel, der sprach zu ihnen
 "und habe euch errettet von derÄgypter Hand und von der Hand aller derer, die euch drängten, und ich habe dieselben vor euch her ausgestoßen und euch ihr Land gegeben; und ich sprach zu euch
 "Ich bin der HERR, euer Gott; verehret die Götter der Amoriter nicht, in deren Lande ihr wohnt! Aber ihr habt meiner Stimme nicht gehorcht."
-"Und der Engel des HERRN kam und setzte sich unter eine Eiche zu Ophra, die gehörte Joas, dem Abiesriter, und sein Sohn Gideon drosch Weizen in der Kelter, um ihn vor den Midianitern in Sicherheit zu bringen."
+"Und der Engel des HERRN kam und setzte sich unter eine Eiche zu Ophra, die gehörte Joas, dem Abiesriter, #und sein Sohn Gideon drosch Weizen in der Kelter, um ihn vor den Midianitern in Sicherheit zu bringen."
 "Da erschien ihm der Engel des HERRN und sprach zu ihm
 "Gideon aber sprach zu ihm
 "Der HERR aber wandte sich zu ihm und sprach
@@ -16,15 +16,15 @@
 "Der HERR aber sprach zu ihm
 "Er aber sprach zu ihm
 "Weiche doch nicht von hier, bis ich wieder zu dir komme und mein Speisopfer bringe und es dir vorsetze! Er sprach
-"Und Gideon ging hin und rüstete ein Ziegenböcklein zu und ungesäuertes Brot von einem Epha Mehl, legte das Fleisch in einen Korb und tat die Brühe in eine Topf und brachte es zu ihm heraus unter die Eiche und legte es ihm vor."
+"Und Gideon ging hin und rüstete ein Ziegenböcklein zu und ungesäuertes Brot von einem Epha Mehl, legte das Fleisch in einen Korb #und tat die Brühe in eine Topf und brachte es zu ihm heraus unter die Eiche und legte es ihm vor."
 "Aber der Engel Gottes sprach zu ihm
-"Da streckte der Engel des HERRN die Spitze des Stabes aus, den er in der Hand hatte, und berührte damit das Fleisch und das ungesäuerte Brot. Da ging Feuer auf von dem Fels und verzehrte das Fleisch und das Ungesäuerte. Und der Engel des HERRN verschwand vor seinen Augen."
+"Da streckte der Engel des HERRN die Spitze des Stabes aus, den er in der Hand hatte, und berührte damit das Fleisch und das ungesäuerte #Brot. Da ging Feuer auf von dem Fels und verzehrte das Fleisch und das Ungesäuerte. Und der Engel des HERRN verschwand vor seinen Augen."
 "Als nun Gideon sah, daß es der Engel des HERRN war, sprach er
 "Aber der HERR sprach zu ihm
 "Da baute Gideon dem HERRN daselbst einen Altar und hieß ihn
 "Und in jener Nacht sprach der HERR zu ihm
-"und baue dem HERRN, deinem Gott, oben auf der Höhe dieses Felsens durch Aufschichtung einen Altar; und nimm den zweiten Farren und opfere ein Brandopfer mit dem Holz der Astarte, die du umhauen wirst."
-"Da nahm Gideon zehn Männer aus seinen Knechten und tat, wie der HERR ihm gesagt hatte; weil er sich aber fürchtete, solches bei Tag zu tun, vor seines Vaters Hause und vor den Leuten der Stadt, tat er es bei Nacht."
+"und baue dem HERRN, deinem Gott, oben auf der Höhe dieses Felsens durch Aufschichtung einen Altar; und nimm #den zweiten Farren und opfere ein Brandopfer mit dem Holz der Astarte, die du umhauen wirst."
+"Da nahm Gideon zehn Männer aus seinen Knechten und tat, wie der HERR ihm gesagt hatte; weil er sich aber fürchtete, #solches bei Tag zu tun, vor seines Vaters Hause und vor den Leuten der Stadt, tat er es bei Nacht."
 "Als nun die Leute der Stadt am Morgen früh aufstanden, siehe, da war der Altar Baals zerbrochen und die Astarte dabei umgehauen, und der zweite Farre war ein Brandopfer auf dem neuerbauten Altar."
 "Da sprachen sie zueinander
 "Da sprachen die Leute der Stadt zu Joas
@@ -34,7 +34,7 @@
 "da rüstete der Geist des HERRN den Gideon aus; und er ließ die Posaune blasen und rief dem Hause Abieser, daß sie ihm nachfolgten;"
 "und er sandte Botschaft in ganz Manasse, denen rief er auch, daß sie ihm nachfolgen sollten; und er sandte Botschaft nach Asser und Sebulon und Naphtali; die zogen ihnen auch entgegen."
 "Und Gideon sprach zu Gott
-"siehe, so will ich ein Schaffell auf die Tenne legen; wird der Tau nur auf dem Fell sein, der ganze Boden ringsum aber trocken bleiben, so werde ich merken, daß du Israel durch meine Hand erretten wirst, wie du gesagt hast."
+"siehe, so will ich ein Schaffell auf die Tenne legen; wird der Tau nur auf dem Fell sein, der ganze Boden #ringsum aber trocken bleiben, so werde ich merken, daß du Israel durch meine Hand erretten wirst, wie du gesagt hast."
 "Und es geschah also; denn als er am andren Morgen früh aufstand und das Fell ausdrückte, da konnte er Tau aus dem Fell pressen, eine ganze Schale voll."
 "Und Gideon sprach zu Gott
 "Und Gott tat also in jener Nacht, allein das Fell blieb trocken, und Tau lag auf dem ganzenübrigen Boden."

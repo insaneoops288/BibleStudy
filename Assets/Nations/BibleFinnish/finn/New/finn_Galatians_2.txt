@@ -6,7 +6,7 @@
 "Mutta niihin, jotka jonakin pidetään, minkäkaltaiset he muinen olivat, ei minun mitään tule
 "Vaan sitä vastaan, kuin he näkivät, että minulle evankeliumi esinahan puoleen uskottu oli, niinkuin Pietarille ympärileikkauksen puoleen;"
 "(Sillä joka Pietarin kanssa oli voimallinen apostolin virassa ympärileikkauksen seassa, se on minunkin kanssani pakanain seassa voimallinen ollut,)"
-"Ja kuin he tunsivat sen armon, joka minulle annettu oli, niin Jakob ja Kephas ja Johannes, jotka patsaina pidettiin, antoivat minulle ja Barnabaalle kättä ja sopivat niin meidän kanssamme, että meidän pakanain seassa ja heidän ympärileikkauksen seassa saarnaaman piti,"
+"Ja kuin he tunsivat sen armon, joka minulle annettu oli, niin Jakob ja Kephas ja Johannes, jotka patsaina pidettiin, antoivat #minulle ja Barnabaalle kättä ja sopivat niin meidän kanssamme, että meidän pakanain seassa ja heidän ympärileikkauksen seassa saarnaaman piti,"
 "Ainoastaan että meidän piti vaivaisia muistaman, jota minä myös olen ahkeroinut tehdä."
 "Mutta kuin Pietari Antiokiaan tuli, niin minä olin julkisesti häntä vastaan, että kanne oli tullut hänen päällensä."
 "Sillä ennenkuin joku Jakobin tyköä tuli, söi hän pakanain kanssa; vaan kuin ne tulivat, vältti hän, ja eroitti itsensä heistä, peljäten niitä, jotka ympärileikkauksesta olivat,"
@@ -17,5 +17,5 @@
 "Mutta jos me, koska me tahdomme Kristuksen kautta vanhurskaaksi tulla, löydetään myös itse syntisiksi, onko siis Kristus synnin palvelia? Pois se!"
 "Sillä jos minä sitä taas rakennan, jota minä särkenyt olen, niin minä teen itseni ylitsekäyväksi."
 "Mutta minä olen lain kautta laista kuollut pois, että minä Jumalassa eläisin."
-"Minä olen Kristuksen kanssa ristiinnaulittu. Mutta minä elän, en silleen minä, vaan Kristus elää minussa; sillä jota minä nyt elän lihassa, sen minä elän Jumalan Pojan uskossa, joka on minua rakastanut ja antoi itsensä minun edestäni."
+"Minä olen Kristuksen kanssa ristiinnaulittu. Mutta minä elän, en silleen minä, vaan Kristus elää minussa; sillä jota minä nyt #elän lihassa, sen minä elän Jumalan Pojan uskossa, joka on minua rakastanut ja antoi itsensä minun edestäni."
 "En minä hylkää Jumalan armoa; sillä jos vanhurskaus tulee laista, niin on Kristus hukkaan kuollut."

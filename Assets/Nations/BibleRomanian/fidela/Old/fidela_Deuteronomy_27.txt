@@ -1,6 +1,6 @@
 "Şi Moise cu bătrânii lui Israel au poruncit poporului, spunând
 "Şi va fi [astfel]
-"Şi să scrii pe ele toate cuvintele acestei legi, după ce vei trece ca să intri în ţara, pe care ţi-o dă DOMNUL Dumnezeul tău, o ţară în care curge lapte şi miere, precum ţi-a promis DOMNUL Dumnezeul părinţilor tăi."
+"Şi să scrii pe ele toate cuvintele acestei legi, după ce vei trece ca să intri în ţara, pe care ţi-o #dă DOMNUL Dumnezeul tău, o ţară în care curge lapte şi miere, precum ţi-a promis DOMNUL Dumnezeul părinţilor tăi."
 "De aceea va fi [astfel], după ce veţi trece Iordanul, să ridicaţi aceste pietre pe muntele Ebal, precum vă poruncesc astăzi şi să le văruiţi cu var."
 "Şi să zideşti acolo un altar DOMNULUI Dumnezeul tău, un altar din pietre, să nu ridici fier asupra lor."
 "Să zideşti altarul DOMNULUI Dumnezeul tău din pietre întregi şi să aduci pe el ofrande arse pentru DOMNUL Dumnezeul tău,"
@@ -12,7 +12,7 @@
 "Aceştia să stea în picioare să binecuvânteze poporul pe muntele Garizim, după ce veţi fi trecut Iordanul
 "Şi aceştia să stea în picioare pe Muntele Ebal ca să blesteme
 "Şi leviţii să vorbească şi să spună tuturor bărbaţilor lui Israel cu voce tare
-"Blestemat [fie] omul care îşi face [orice] chip cioplit sau turnat, o urâciune [înaintea ]DOMNULUI, lucrare a mâinilor meşterului, şi îl pune într-un [loc] tainic. Şi tot poporul să răspundă şi să zică
+"Blestemat [fie] omul care îşi face [orice] chip cioplit sau turnat, o urâciune [înaintea ]DOMNULUI, lucrare a #mâinilor meşterului, şi îl pune într-un [loc] tainic. Şi tot poporul să răspundă şi să zică
 "Blestemat [fie] cel ce dispreţuieşte pe tatăl său sau pe mama sa. Şi tot poporul să spună
 "Blestemat [fie] cel ce mută piatra de hotar a aproapelui său. Şi tot poporul să spună
 "Blestemat [fie] cel ce face pe orb să rătăcească de pe cale. Şi tot poporul să spună

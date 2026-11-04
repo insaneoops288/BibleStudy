@@ -10,7 +10,7 @@
 "Tu feras aussi cinquante lacets sur le bord de la première tenture, la dernière de l'assemblage, et cinquante lacets sur le bord de la tenture du second assemblage."
 "Tu feras aussi cinquante crochets d'airain, et tu feras entrer les crochets dans les lacets, et tu assembleras ainsi la tente, pour qu'elle forme un seul tout."
 "Mais le surplus qui flottera des tentures de la tente, savoir la moitié de la tenture qui sera de reste, flottera sur le derrière du Tabernacle."
-"Et la coudée d'un côté, et la coudée de l'autre, de ce qui sera de reste dans la longueur des tentures de la tente, sera flottant sur les flancs du Tabernacle, d'un côté et de l'autre, pour le couvrir."
+"Et la coudée d'un côté, et la coudée de l'autre, de ce qui sera de reste dans la longueur des #tentures de la tente, sera flottant sur les flancs du Tabernacle, d'un côté et de l'autre, pour le couvrir."
 "Tu feras aussi pour la tente une couverture de peaux de bélier teintes en rouge, et une couverture de peaux de couleur d'hyacinthe par-dessus."
 "Et tu feras pour le Tabernacle des planches en bois de Sittim, qu'on fera tenir debout."
 "La longueur d'une planche sera de dix coudées, et la largeur de la même planche d'une coudée et demie."

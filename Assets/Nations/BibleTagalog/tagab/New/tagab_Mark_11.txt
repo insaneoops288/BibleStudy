@@ -20,9 +20,9 @@
 "At sa pagdaraan nila pagka umaga, ay nakita nila na ang puno ng igos ay tuyo na mula sa mga ugat."
 "At sa pagkaalaala ni Pedro ay sinabi sa kaniya, Rabi, narito, ang sinumpa mong puno ng igos ay natuyo."
 "At pagsagot ni Jesus ay sinabi sa kanila, Magkaroon kayo ng pananampalataya sa Dios."
-"Katotohanang sinasabi ko sa inyo, Ang sinomang magsabi sa bundok na ito, Mapataas ka at mapasugba ka sa dagat; at hindi magalinlangan sa kaniyang puso, kundi manampalataya na mangyayari ang sinabi niya; ay kakamtin niya yaon."
+"Katotohanang sinasabi ko sa inyo, Ang sinomang magsabi sa bundok na ito, Mapataas ka at mapasugba ka sa dagat; #at hindi magalinlangan sa kaniyang puso, kundi manampalataya na mangyayari ang sinabi niya; ay kakamtin niya yaon."
 "Kaya nga sinasabi ko sa inyo, Ang lahat ng mga bagay na inyong idinadalangin at hinihingi, ay magsisampalataya kayo na inyong tinanggap na, at inyong kakamtin."
-"At kailan man kayo'y nangakatayong nagsisipanalangin, mangagpatawad kayo, kung mayroon kayong anomang laban sa kanino man; upang ang inyong Ama naman na nasa langit ay patawarin kayo ng inyong mga kasalanan."
+"At kailan man kayo'y nangakatayong nagsisipanalangin, mangagpatawad kayo, kung mayroon kayong anomang laban sa kanino man; #upang ang inyong Ama naman na nasa langit ay patawarin kayo ng inyong mga kasalanan."
 "Datapuwa't kung hindi kayo magpapatawad, hindi rin kayo patatawarin sa inyong mga kasalanan ng inyong Ama na nasa mga langit."
 "At sila'y nagsiparoong muli sa Jerusalem
 "At sinabi nila sa kaniya, Sa anong kapamahalaan ginagawa mo ang mga bagay na ito? o sino ang sa iyo'y nagbigay ng kapamahalaang ito upang gawin mo ang mga bagay na ito?"

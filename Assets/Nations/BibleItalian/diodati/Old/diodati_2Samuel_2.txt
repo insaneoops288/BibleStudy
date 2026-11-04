@@ -10,7 +10,7 @@
 "Isboset, figliuolo di Saulle, era d’età di quarant’anni, quando cominciò a regnare sopra Israele, e regnò due anni. Ma la casa di Giuda seguitava Davide."
 "E lo spazio del tempo che Davide fu re in Hebron, sopra la casa di Giuda, fu di sett’anni, e di sei mesi."
 "OR Abner, figliuol di Ner, uscì, con la gente d’Isboset, figliuolo di Saulle, di Mahanaim, e venne in Gabaon."
-"Ioab, figliuolo di Seruia, uscì anch’esso con la gente di Davide; e si scontrarono insieme presso allo stagno di Gabaon; e gli uni si fermarono presso allo stagno di qua, e gli altri presso allo stagno di là."
+"Ioab, figliuolo di Seruia, uscì anch’esso con la gente di Davide; e si scontrarono insieme presso allo stagno di Gabaon; #e gli uni si fermarono presso allo stagno di qua, e gli altri presso allo stagno di là."
 "Allora Abner disse a Ioab
 "Quegli adunque si levarono, e passarono in numero uguale; dodici dalla parte di Beniamino, e d’Isboset, figliuolo di Saulle, e dodici della gente di Davide."
 "E ciascun di loro prese il suo compagno per la testa, e gli ficcò la spada nel fianco; e tutti insieme caddero morti. Per ciò fu quel luogo chiamato. Helcat-hassurim, ch’è in Gabaon."
@@ -20,7 +20,7 @@
 "Ed Abner rivoltosi indietro, gli disse
 "Ed Abner gli disse
 "Ed Abner gli disse di nuovo
-"Ma egli non volle torcersi; laonde Abner lo ferì nella quinta costa, con la punta di dietro della lancia, talchè la lancia gli usciva per dietro; ed egli cadde quivi, e morì in quello stesso luogo; e chiunque veniva a quel luogo, dove Asael giaceva morto, si fermava."
+"Ma egli non volle torcersi; laonde Abner lo ferì nella quinta costa, con la punta di dietro della lancia, talchè la lancia gli usciva per #dietro; ed egli cadde quivi, e morì in quello stesso luogo; e chiunque veniva a quel luogo, dove Asael giaceva morto, si fermava."
 "Ma Ioab ed Abisai perseguitarono Abner; e il sole tramontò, quando giunsero al colle di Amma, il quale è dirincontro a Ghia, in su la via del deserto di Gabaon."
 "Ed i figliuoli di Beniamino si ricolsero dietro ad Abner; e, schieratisi insieme, si fermarono in su la sommità di un colle."
 "Ed Abner gridò a Ioab, e disse
@@ -29,4 +29,4 @@
 "Ed Abner e la sua gente camminarono tutta quella notte per la campagna; e passarono il Giordano, e traversarono tutta la contrada di Bitron, ed arrivarono in Mahanaim."
 "Ioab se ne ritornò anch’egli di dietro ad Abner; e, adunato tutto il popolo, si trovò che della gente di Davide ne mancavano diciannove, ed Asael."
 "Ma la gente di Davide avea percossi di que’ di Beniamino, e della gente di Abner, trecensessanta uomini, i quali erano morti."
-"Poi tolsero Asael, e lo seppellirono nella sepoltura di suo padre, la quale era in Bet-lehem. E Ioab e la sua gente camminarono tutta quella notte, e giunsero in Hebron in su lo schiarir del giorno."
+"Poi tolsero Asael, e lo seppellirono nella sepoltura di suo padre, la quale era in Bet-lehem. E Ioab e #la sua gente camminarono tutta quella notte, e giunsero in Hebron in su lo schiarir del giorno."

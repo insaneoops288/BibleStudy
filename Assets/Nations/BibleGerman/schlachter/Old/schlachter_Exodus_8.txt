@@ -1,6 +1,6 @@
 "Der HERR sprach zu Mose
 "Weigerst du dich aber, dasselbe ziehen zu lassen, siehe, so will ich alle deine Landmarken mit Fröschen plagen,"
-"daß der Fluß von Fröschen wimmle; die sollen heraufkommen in dein Haus und in deine Schlafkammer und auf dein Bett; auch in die Häuser deiner Knechte, unter dein Volk, in deine Backöfen und in deine Backtröge;"
+"daß der Fluß von Fröschen wimmle; die sollen heraufkommen in dein Haus und in deine Schlafkammer und auf dein #Bett; auch in die Häuser deiner Knechte, unter dein Volk, in deine Backöfen und in deine Backtröge;"
 "und die Frösche sollen auf dich und auf dein Volk und auf alle deine Knechte kriechen."
 "Und der HERR sprach zu Mose
 "Und Aaron streckte seine Handüber die Wasser inÄgypten; und die Frösche kamen herauf und bedeckten das LandÄgypten."
@@ -18,7 +18,7 @@
 "Die Zauberer versuchten mit ihrem Beschwören auch Mücken hervorzubringen; aber sie konnten es nicht. Und die Mücken kamenüber die Menschen und das Vieh."
 "Da sprachen die Zauberer zu Pharao
 "Da sprach der HERR zu Mose
-"Denn wenn du mein Volk nicht ziehen lässest, siehe, so will ichüber dich undüber deine Knechte undüber dein Volk undüber deine Häuser Hundsfliegen kommen lassen, daß derÄgypter Häuser und das Feld, darauf sie sind, voller Hundsfliegen werden sollen."
+"Denn wenn du mein Volk nicht ziehen lässest, siehe, so will ichüber dich undüber deine Knechte undüber dein Volk undüber #deine Häuser Hundsfliegen kommen lassen, daß derÄgypter Häuser und das Feld, darauf sie sind, voller Hundsfliegen werden sollen."
 "Und ich will an demselben Tage mit dem Lande Gosen, da mein Volk wohnt, etwas Besonderes tun, daß keine Hundsfliegen daselbst seien, damit du erfahrest, daß ich, der HERR, inmitten des Landes bin."
 "So will ich eine Scheidung setzen zwischen meinem und deinem Volk. Morgen soll das Zeichen geschehen."
 "Und der HERR tat also. Und eine Menge Hundsfliegen kamen in das Haus des Pharao und in die Häuser seiner Knechte, jaüber ganzÄgyptenland; und das Land ward von den Hundsfliegen verseucht."

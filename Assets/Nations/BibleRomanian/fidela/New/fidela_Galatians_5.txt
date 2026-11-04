@@ -18,7 +18,7 @@
 "Dar dacă sunteți conduși de Duhul, nu sunteți sub lege."
 "Iar faptele cărnii sunt arătate; acestea sunt
 "Idolatrie, vrăjitorie, ură, lupte, gelozii, furii, certuri, dezbinări, erezii,"
-"Invidii, ucideri, beții, îmbuibări și [cele] asemănătoare acestora; despre care vă spun dinainte, așa cum [v]-am spus odinioară, că toți cei ce practică astfel de lucruri nu vor moșteni împărăția lui Dumnezeu."
+"Invidii, ucideri, beții, îmbuibări și [cele] asemănătoare acestora; despre care vă spun dinainte, așa cum [v]-am spus #odinioară, că toți cei ce practică astfel de lucruri nu vor moșteni împărăția lui Dumnezeu."
 "Dar rodul Duhului este dragostea, bucuria, pacea, îndelunga răbdare, bunătatea, facerea de bine, credința,"
 "Blândețea, înfrânarea; împotriva acestora nu este lege."
 "Și cei ai lui Cristos au crucificat carnea cu pasiunile și poftele [ei]."

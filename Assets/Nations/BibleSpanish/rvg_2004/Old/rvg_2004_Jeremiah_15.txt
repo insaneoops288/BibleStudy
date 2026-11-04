@@ -6,7 +6,7 @@
 "Tú me dejaste, dice Jehová, atrás te volviste
 "Y los aventé con aventador hasta las puertas de la tierra; desahijé, desbaraté mi pueblo; no se tornaron de sus caminos."
 "Sus viudas se multiplicaron más que la arena del mar; traje contra ellos destruidor a mediodía sobre la madre y los hijos; sobre la ciudad hice que de repente cayesen terrores."
-"Se enflaqueció la que dio a luz a siete; se llenó de dolor su alma; su sol se le puso siendo aún de día; fue avergonzada y llena de confusión; y lo que de ella quedare, lo entregaré a espada delante de sus enemigos, dice Jehová."
+"Se enflaqueció la que dio a luz a siete; se llenó de dolor su alma; su sol se le puso siendo aún de día; #fue avergonzada y llena de confusión; y lo que de ella quedare, lo entregaré a espada delante de sus enemigos, dice Jehová."
 "¡Ay de mí, madre mía, que me has engendrado hombre de contienda y hombre de discordia a toda la tierra! Nunca les di a logro, ni lo tomé de ellos; y todos me maldicen."
 "Dijo Jehová
 "¿Podrá el hierro quebrar al hierro del norte, y al bronce?"

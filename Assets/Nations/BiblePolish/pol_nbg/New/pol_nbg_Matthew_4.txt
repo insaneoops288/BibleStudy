@@ -21,5 +21,5 @@
 "A kiedy stamtąd poszedł dalej, ujrzał dwóch innych braci
 "A oni natychmiast opuścili łódź i swojego ojca oraz poszli za nim."
 "Potem Jezus obchodził całą Galileę, ucząc w ich bóżnicach, głosząc Dobrą Nowinę Królestwa, uzdrawiając każdą chorobę i wszelką niemoc między ludem."
-"Więc rozeszła się o nim wieść po całej Syrii; i przyprowadzono do niego wszystkich, co się źle mieli, ogarniętych rozmaitymi chorobami oraz mękami, także opętanych, epileptyków i paralityków; zatem ich uzdrowił."
+"Więc rozeszła się o nim wieść po całej Syrii; i przyprowadzono do niego wszystkich, co się #źle mieli, ogarniętych rozmaitymi chorobami oraz mękami, także opętanych, epileptyków i paralityków; zatem ich uzdrowił."
 "A poszło za nim wiele tłumów z Galilei oraz Dziesięciogrodu, Jerozolimy, Judei i zza Jordanu."

@@ -2,7 +2,7 @@
 "Und als wir ein Schiff fanden, das nach Phönicienübersetzte, stiegen wir ein und fuhren ab."
 "Als wir aber Cyperns ansichtig wurden und es links liegen ließen, segelten wir nach Syrien und legten zu Tyrus an, denn daselbst hatte das Schiff die Ladung abzuliefern."
 "Und als wir die Jünger gefunden hatten, blieben wir daselbst sieben Tage; diese sagten dem Paulus durch den Geist, er möge nicht nach Jerusalem hinaufgehen."
-"Als es aber geschah, daß wir die Tage vollendet hatten, zogen wir fort und reisten weiter; und sie alle geleiteten uns mit Weibern und Kindern bis außerhalb der Stadt; und wir knieten am Ufer nieder und beteten."
+"Als es aber geschah, daß wir die Tage vollendet hatten, zogen wir fort und reisten weiter; und sie alle #geleiteten uns mit Weibern und Kindern bis außerhalb der Stadt; und wir knieten am Ufer nieder und beteten."
 "Und als wir voneinander Abschied genommen hatten, stiegen wir in das Schiff, jene aber kehrten heim."
 "Als wir aber die Fahrt vollbracht hatten, gelangten wir von Tyrus nach Ptolemais; und wir begrüßten die Brüder und blieben einen Tag bei ihnen."
 "Des folgenden Tages aber zogen wir aus und kamen nach Cäsarea; und wir gingen in das Haus des Philippus, des Evangelisten, der einer von den sieben war, und blieben bei ihm."
@@ -18,14 +18,14 @@
 "Des folgenden Tages aber ging Paulus mit uns zu Jakobus, und alleÄltesten kamen dahin."
 "Und als er sie begrüßt hatte, erzählte er eines nach dem anderen, was Gott unter den Nationen durch seinen Dienst getan hatte."
 "Sie aber, als sie es gehört hatten, verherrlichten Gott und sprachen zu ihm
-"Es ist ihnen aberüber dich berichtet worden, daß du alle Juden, die unter den Nationen sind, Abfall von Moses lehrest und sagest, sie sollen die Kinder nicht beschneiden, noch nach den Gebräuchen wandeln."
+"Es ist ihnen aberüber dich berichtet worden, daß du alle Juden, die unter den Nationen sind, Abfall #von Moses lehrest und sagest, sie sollen die Kinder nicht beschneiden, noch nach den Gebräuchen wandeln."
 "Was ist es nun? Jedenfalls muß eine Menge zusammenkommen, denn sie werden hören, daß du gekommen bist."
 "Tue nun dieses, was wir dir sagen
-"Diese nimm zu dir und reinige dich mit ihnen und trage die Kosten für sie, damit sie das Haupt scheren lassen; und alle werden erkennen, daß nichts an dem ist, was ihnenüber dich berichtet worden, sondern daß du selbst auch in der Beobachtung des Gesetzes wandelst."
-"Was aber die Gläubigen aus den Nationen betrifft, so haben wir geschrieben und verfügt, daß sie nichts dergleichen halten sollten, als nur daß sie sich sowohl vor dem Götzenopfer als auch vor Blut und Ersticktem und Hurerei bewahrten."
-"Dann nahm Paulus die Männer zu sich, und nachdem er sich des folgenden Tages gereinigt hatte, ging er mit ihnen in den Tempel und kündigte die Erfüllung der Tage der Reinigung an, bis für einen jeden aus ihnen das Opfer dargebracht war."
+"Diese nimm zu dir und reinige dich mit ihnen und trage die Kosten für sie, damit sie das Haupt scheren lassen; und alle werden #erkennen, daß nichts an dem ist, was ihnenüber dich berichtet worden, sondern daß du selbst auch in der Beobachtung des Gesetzes wandelst."
+"Was aber die Gläubigen aus den Nationen betrifft, so haben wir geschrieben und verfügt, daß sie nichts dergleichen halten sollten, #als nur daß sie sich sowohl vor dem Götzenopfer als auch vor Blut und Ersticktem und Hurerei bewahrten."
+"Dann nahm Paulus die Männer zu sich, und nachdem er sich des folgenden Tages gereinigt hatte, ging er mit ihnen in den #Tempel und kündigte die Erfüllung der Tage der Reinigung an, bis für einen jeden aus ihnen das Opfer dargebracht war."
 "Als aber die sieben Tage beinahe vollendet waren, sahen ihn die Juden aus Asien im Tempel und brachten die ganze Volksmenge in Aufregung und legten die Hände an ihn und schrieen
-"Männer von Israel, helfet! Dies ist der Mensch, der alle allenthalben lehrt wider das Volk und das Gesetz und diese Stätte; und dazu hat er auch Griechen in den Tempel geführt und diese heilige Stätte verunreinigt."
+"Männer von Israel, helfet! Dies ist der Mensch, der alle allenthalben lehrt wider das Volk und das Gesetz und #diese Stätte; und dazu hat er auch Griechen in den Tempel geführt und diese heilige Stätte verunreinigt."
 "Denn sie hatten vorher den Trophimus, den Epheser, mit ihm in der Stadt gesehen, von welchem sie meinten, daß Paulus ihn in den Tempel geführt habe."
 "Und die ganze Stadt kam in Bewegung, und es entstand ein Zusammenlauf des Volkes; und sie ergriffen Paulus und schleppten ihn aus dem Tempel, und alsbald wurden die Türen geschlossen."
 "Während sie ihn aber zu töten suchten, kam an den Obersten der Schar die Anzeige, daß ganz Jerusalem in Aufregung sei;"

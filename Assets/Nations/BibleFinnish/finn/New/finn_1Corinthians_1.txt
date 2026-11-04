@@ -1,5 +1,5 @@
 "Paavali, kutsuttu Jesuksen Kristuksen apostoliksi Jumalan tahdon kautta, ja Sostenes veli,"
-"Sille Jumalan seurakunnalle, joka on Korintossa, pyhitetyille Kristuksessa Jesuksessa, kutsutuille pyhille ynnä kaikkein niiden kanssa, jotka meidän Herran Jesuksen Kristuksen nimeä avuksensa huutavat, jokaisessa heidän ja meidän siassamme."
+"Sille Jumalan seurakunnalle, joka on Korintossa, pyhitetyille Kristuksessa Jesuksessa, kutsutuille pyhille ynnä kaikkein niiden kanssa, #jotka meidän Herran Jesuksen Kristuksen nimeä avuksensa huutavat, jokaisessa heidän ja meidän siassamme."
 "Armo olkoon teille ja rauha Jumalalta, meidän isältämme, ja Herralta Jesukselta Kristukselta."
 "Minä kiitän Jumalaani aina teidän tähtenne, sen Jumalan armon edestä, joka teille Jesuksessa Kristuksessa annettu on
 "Että te olette kaikissa rikkaaksi tehdyt hänessä, kaikessa opissa ja kaikessa tuntemisessa."
@@ -7,7 +7,7 @@
 "Niin ettei teiltä jossakussa lahjassa mitään puutu, jotka odotatte meidän Herran Jesuksen Kristuksen ilmoitusta,"
 "Joka myös teitä loppuun asti vahvistaa, että te olisitte nuhteettomat meidän Herran Jesuksen Kristuksen päivänä."
 "Sillä Jumala on uskollinen, jonka kautta te kutsutut olette hänen Poikansa Jesuksen Kristuksen, meidän Herramme yhteyteen."
-"Mutta minä neuvon teitä, rakkaat veljet, meidän Herran Jesuksen Kristuksen nimen kautta, että te kaikki yhdenkaltaisen puheen pitäisitte, ja ettei teidän seassanne eriseuroja olisi, vaan olkaat sovitetut yhdessä mielessä ja yhdessä neuvossa."
+"Mutta minä neuvon teitä, rakkaat veljet, meidän Herran Jesuksen Kristuksen nimen kautta, että te kaikki yhdenkaltaisen puheen #pitäisitte, ja ettei teidän seassanne eriseuroja olisi, vaan olkaat sovitetut yhdessä mielessä ja yhdessä neuvossa."
 "Sillä minun korvilleni on tullut teistä, rakkaat veljet, Kloen perheen kautta, että riidat ovat teillä keskenänne."
 "Niin minä sanon sitä, että kukin teistä sanoo
 "Lieneekö Kristus jaettu, vai onko Paavali teidän edestänne ristiinnaulittu? eli oletteko te Paavalin nimeen kastetut?"

@@ -19,4 +19,4 @@
 "I stanie się, że ktokolwiek nie usłucha Moich słów, które będzie wypowiadał w Moim Imieniu S tego Ja pomszczę na samym Sobie."
 "Jednak prorok, który się odważy cokolwiek powiedzieć w Moim Imieniu, czego mu powiedzieć nie rozkazałem, albo który by przemawiał w imieniu cudzych bogów taki prorok niech umrze."
 "A gdybyś powiedział w swoim sercu
-"Cokolwiek wypowie prorok w Imię WIEKUISTEGO, a słowo to się nie stanie, ani się nie spełni to jest słowo, którego nie wypowiedział WIEKUISTY; prorok je wypowiedział rozmyślnie; nie trwóż się przed nim."
+"Cokolwiek wypowie prorok w Imię WIEKUISTEGO, a słowo to się nie stanie, ani się nie spełni to #jest słowo, którego nie wypowiedział WIEKUISTY; prorok je wypowiedział rozmyślnie; nie trwóż się przed nim."

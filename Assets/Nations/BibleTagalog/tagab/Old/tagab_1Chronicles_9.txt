@@ -1,4 +1,4 @@
-"Sa gayo'y ang buong Israel ay nabilang ayon sa mga talaan ng lahi; at, narito, sila'y nangasusulat sa aklat ng mga hari sa Israel. At ang Juda'y dinalang bihag sa Babilonia dahil sa kanilang pagsalangsang."
+"Sa gayo'y ang buong Israel ay nabilang ayon sa mga talaan ng lahi; at, narito, sila'y nangasusulat sa #aklat ng mga hari sa Israel. At ang Juda'y dinalang bihag sa Babilonia dahil sa kanilang pagsalangsang."
 "Ang mga unang mananahanan na nagsitahan sa kanilang mga pag-aari sa kanilang mga bayan ay ang Israel, ang mga saserdote, ang mga Levita, at ang mga Nethineo."
 "At sa Jerusalem ay tumahan sa mga anak ni Juda, at sa mga anak ni Benjamin, at sa mga anak ni Ephraim at Manases;"
 "Si Urai, na anak ni Amiud, na anak ni Omri, na anak ni Imrai, na anak ni Bani, sa mga anak ni Phares na anak ni Juda."
@@ -6,20 +6,20 @@
 "At sa mga anak ni Zara
 "At sa mga anak ni Benjamin
 "At si Ibnias na anak ni Jeroham, at si Ela na anak ni Uzzi, na anak ni Michri, at si Mesullam na anak ni Sephatias, na anak ni Rehuel, na anak ni Ibnias;"
-"At ang kanilang mga kapatid, ayon sa kanilang mga lahi, na siyam na raan at limangpu't anim. Lahat ng mga lalaking ito ay mga pangulo sa mga sangbahayan ng mga magulang ayon sa mga sangbahayan ng kanilang mga magulang."
+"At ang kanilang mga kapatid, ayon sa kanilang mga lahi, na siyam na raan at limangpu't anim. Lahat ng mga #lalaking ito ay mga pangulo sa mga sangbahayan ng mga magulang ayon sa mga sangbahayan ng kanilang mga magulang."
 "At sa mga saserdote
 "At si Azarias na anak ni Hilcias, na anak ni Mesullam, na anak ni Sadoc, na anak ni Meraioth, na anak ni Achitob, na tagapamahala sa bahay ng Dios;"
 "At si Adaias na anak ni Jeroham, na anak ni Phasur, na anak ni Machias, at si Mahsai na anak ni Adiel, na anak ni Jazera, na anak ni Mesullam, na anak ni Mesillemith, na anak ni Immer;"
-"At ang kanilang mga kapatid, na mga pangulo sa mga sangbahayan ng kanilang mga magulang, na isang libo at pitong daan at anim na pu; na mga lalaking totoong bihasa sa gawaing paglilingkod sa bahay ng Dios."
+"At ang kanilang mga kapatid, na mga pangulo sa mga sangbahayan ng kanilang mga magulang, na isang libo at #pitong daan at anim na pu; na mga lalaking totoong bihasa sa gawaing paglilingkod sa bahay ng Dios."
 "At sa mga Levita
 "At si Bacbacar, si Heres, at si Galal, at si Mattania na anak ni Michas, na anak ni Zichri, na anak ni Asaph;"
 "At si Obadias na anak ni Semeias, na anak ni Galal, na anak ni Iduthum, at si Berechias na anak ni Asa na anak ni Elcana, na tumahan sa mga nayon ng mga Nethophatita."
 "At ang mga tagatanod-pinto
 "Na hanggang ngayo'y namamalagi sa pintuang-daan ng hari na dakong silanganan
-"At si Sallum na anak ni Core, na anak ni Abiasath, na anak ni Corah, at ang kaniyang mga kapatid, sa sangbahayan ng kaniyang magulang, ang mga Koraita ay nangamamahala sa gawaing paglilingkod, na mga tagapagingat ng mga pintuang-daan ng tabernakulo; at ang kanilang mga magulang ay nangapasa kampamento ng Panginoon, na mga tagapagingat ng pasukan."
+"At si Sallum na anak ni Core, na anak ni Abiasath, na anak ni Corah, at ang kaniyang mga kapatid, sa sangbahayan ng kaniyang magulang, ang mga Koraita ay #nangamamahala sa gawaing paglilingkod, na mga tagapagingat ng mga pintuang-daan ng tabernakulo; at ang kanilang mga magulang ay nangapasa kampamento ng Panginoon, na mga tagapagingat ng pasukan."
 "At si Phinees na anak ni Eleazar ay pinuno sa kanila nang panahong nakaraan, at ang Panginoon ay sumasa kaniya."
 "Si Zacarias na anak ni Meselemia ay tagatanod-pinto ng tabernakulo ng kapisanan."
-"Lahat ng mga ito na mga napili upang maging mga tagatanod-pinto sa mga pintuang-daan ay dalawang daan at labing dalawa. Ang mga ito'y nangabilang ayon sa talaan ng lahi sa kanilang mga nayon, na siyang pinagkatiwalaan sa kanilang katungkulan ni David at ni Samuel na tagakita."
+"Lahat ng mga ito na mga napili upang maging mga tagatanod-pinto sa mga pintuang-daan ay dalawang daan at labing dalawa. Ang mga ito'y nangabilang #ayon sa talaan ng lahi sa kanilang mga nayon, na siyang pinagkatiwalaan sa kanilang katungkulan ni David at ni Samuel na tagakita."
 "Sa gayo'y sila, at ang kanilang mga anak ay namahala na pinakabantay sa mga pintuang-daan ng bahay ng Panginoon, sa makatuwid baga'y ng bahay ng tabernakulo, ayon sa paghahalinhinan."
 "Na sa apat na sulok ang mga tagatanod-pinto, sa dakong silanganan, kalunuran, hilagaan, at timugan."
 "At ang kanilang mga kapatid, sa kanilang mga nayon, ay paroroon sa bawa't pitong araw, tuwing kapanahunan upang sumakanila

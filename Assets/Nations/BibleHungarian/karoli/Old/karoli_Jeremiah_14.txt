@@ -13,10 +13,10 @@
 "És mondék
 "És monda az Úr nékem
 "Azért ezt mondja az Úr a próféták felõl, a kik az én nevemben prófétálnak, holott én nem küldtem õket és mégis azt mondják
-"A nép pedig, a melynek õk prófétálnak, ott hever majd Jeruzsálem utczáin az éhség és a fegyver miatt, és nem lesz, a ki eltemesse õket, õket és feleségeiket, fiaikat és leányaikat; így zúdítom rájok gonoszságukat!"
+"A nép pedig, a melynek õk prófétálnak, ott hever majd Jeruzsálem utczáin az éhség és a fegyver miatt, #és nem lesz, a ki eltemesse õket, õket és feleségeiket, fiaikat és leányaikat; így zúdítom rájok gonoszságukat!"
 "Azért e szavakat mondjad nékik
 "Ha kimegyek a mezõre, hát ímé fegyver által levágottak; ha bemegyek a városba, hát ímé éhség miatt elepedtek [vannak ott!] Bizony próféta is, pap is olyan földre költöznek, a melyet nem ismernek!"
-"Egészen elvetetted-é Júdát, avagy a Siont útálja-é lelked? miért vertél úgy meg, hogy semmi orvosságunk se legyen? Békességet vártunk, de nincs semmi jó; és gyógyulásnak idejét, de ímé, [itt van] a rettegés!"
+"Egészen elvetetted-é Júdát, avagy a Siont útálja-é lelked? miért vertél úgy meg, hogy semmi orvosságunk se legyen? #Békességet vártunk, de nincs semmi jó; és gyógyulásnak idejét, de ímé, [itt van] a rettegés!"
 "Ismerjük Uram a mi gonoszságainkat, atyáink bûnét; bizony vétkeztünk ellened!"
 "Ne vesd meg a te nevedért; ne gyalázd meg a te dicsõségednek székét! Emlékezzél; ne rontsd meg a te velünk való szövetségedet!"
 "Vannak-é a pogányok bálványai között, a kik esõt adhatnak? És ad-é záporokat az ég? Avagy nem te vagy-é a mi Urunk Istenünk, és nem benned kell-é bíznunk, hiszen te cselekedted mindezt!"

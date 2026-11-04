@@ -14,7 +14,7 @@
 "Alors les disciples de Jean vinrent à Jésus, et lui dirent
 "Et Jésus leur répondit
 "Personne ne met une pièce de drap neuf à un vieil habit; parce que la pièce emporterait l'habit, et la déchirure en serait plus grande."
-"On ne met pas non plus le vin nouveau dans de vieux vaisseaux; autrement les vaisseaux se rompent, le vin se répand, et les vaisseaux sont perdus; mais on met le vin nouveau dans des vaisseaux neufs, et l'un et l'autre se conservent."
+"On ne met pas non plus le vin nouveau dans de vieux vaisseaux; autrement les vaisseaux se rompent, le vin se répand, #et les vaisseaux sont perdus; mais on met le vin nouveau dans des vaisseaux neufs, et l'un et l'autre se conservent."
 "Comme il leur disait ces choses, un chef de synagogue vint, qui se prosterna devant lui, et lui dit
 "Et Jésus, s'étant levé, le suivit avec ses disciples."
 "Et une femme qui était malade d'une perte de sang depuis douze ans, s'approcha par-derrière, et toucha le bord de son vêtement,"
@@ -32,7 +32,7 @@
 "Et comme ils sortaient, on lui présenta un homme muet, démoniaque."
 "Et le démon ayant été chassé, le muet parla. Et le peuple, étant dans l'admiration, disait
 "Mais les pharisiens disaient
-"Et Jésus allait par toutes les villes et par toutes les bourgades, enseignant dans leurs synagogues, prêchant l'évangile du royaume de Dieu, et guérissant toutes sortes de maladies et toutes sortes d'infirmités parmi le peuple."
+"Et Jésus allait par toutes les villes et par toutes les bourgades, enseignant dans leurs synagogues, prêchant l'évangile #du royaume de Dieu, et guérissant toutes sortes de maladies et toutes sortes d'infirmités parmi le peuple."
 "Et voyant la multitude du peuple, il fut ému de compassion envers eux, de ce qu'ils étaient misérables et errants, comme des brebis qui n'ont point de berger."
 "Alors il dit à ses disciples
 "Priez donc le Maître de la moisson d'envoyer des ouvriers dans sa moisson."

@@ -15,6 +15,6 @@
 "És ekképen, békességestûrõ lévén, megnyerte az ígéretet."
 "Mert az emberek nagyobbra esküsznek, és nálok minden versengésnek vége megerõsítésül az eskü;"
 "Miért is az Isten, kiválóbban megakarván mutatni az ígéret örököseinek az õ végzése változhatatlan voltát, esküvéssel lépett közbe,"
-"Hogy két változhatatlan tény által, melyekre nézve lehetetlen, hogy az Isten hazudjon, erõs vígasztalásunk legyen minékünk, mint a kik oda menekültünk, hogy megragadjuk az elõttünk levõ reménységet,"
+"Hogy két változhatatlan tény által, melyekre nézve lehetetlen, hogy az Isten hazudjon, erõs vígasztalásunk #legyen minékünk, mint a kik oda menekültünk, hogy megragadjuk az elõttünk levõ reménységet,"
 "Mely lelkünknek mintegy bátorságos és erõs horgonya és beljebb hatol a kárpítnál,"
 "A hová útnyitóul bement érettünk Jézus, a ki örökké való fõpap lett Melkisédek rendje szerint."

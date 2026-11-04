@@ -18,4 +18,4 @@
 "Długość dziedzińca będzie wynosić sto łokci, a szerokość – pięćdziesiąt, wszędzie jednakowa, a wysokość – pięć łokci, zasłony będą ze skręconego bisioru, jej podstawki zaś z miedzi."
 "Wszystkie naczynia przybytku do wszelkiej służby w nim i wszystkie jego kołki, i wszystkie kołki dziedzińca będą z miedzi."
 "Rozkażesz synom Izraela, aby przynieśli do ciebie czystą, wytłoczoną oliwę do oświetlenia, aby lampy zawsze się paliły."
-"W Namiocie Zgromadzenia przed zasłoną, za którą jest arka świadectwa, Aaron i jego synowie będą je stawiać przed PANEM od wieczora aż do poranka. Będzie to wieczna ustawa wśród ich potomków dla synów Izraela."
+"W Namiocie Zgromadzenia przed zasłoną, za którą jest arka świadectwa, Aaron i jego synowie będą je stawiać przed #PANEM od wieczora aż do poranka. Będzie to wieczna ustawa wśród ich potomków dla synów Izraela."

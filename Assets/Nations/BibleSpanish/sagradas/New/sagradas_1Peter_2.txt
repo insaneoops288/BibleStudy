@@ -9,7 +9,7 @@
 "Mas vosotros sois el linaje escogido, real sacerdocio, nación santa, pueblo adquirido, para que mostréis las virtudes de aquel que os ha llamado de las tinieblas a su luz admirable."
 "Vosotros, que en el tiempo pasado no erais pueblo, mas ahora sois pueblo de Dios; que en el tiempo pasado no habíais alcanzado misericordia, mas ahora habéis ya alcanzado misericordia."
 "Amados, yo os ruego como a extranjeros y peregrinos, <I>que</I>  os abstengáis de los deseos carnales que batallan contra el alma,"
-"y tened vuestra conversación honesta entre los gentiles; para que, en lo que ellos murmuran de vosotros como de malhechores, siendo testigos de <I>sus</I>  buenas obras, glorifiquen a Dios en el día de la visitación,  estimándoos."
+"y tened vuestra conversación honesta entre los gentiles; para que, en lo que ellos murmuran de vosotros como de malhechores, #siendo testigos de <I>sus</I>  buenas obras, glorifiquen a Dios en el día de la visitación,  estimándoos."
 "Sed pues sujetos a toda ordenación humana por Dios, ya sea a rey, como a superior,"
 "y a a los gobernadores, como de él enviados para venganza de los malhechores, y para loor de los que hacen bien."
 "Porque ésta es la voluntad de Dios

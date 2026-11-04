@@ -20,6 +20,6 @@
 "Přikázali tedy synům Beniamin, řkouce
 "A šetřte, a aj, když vyjdou dcery Sílo plésati v houfích, tedy vyskočíte z vinic a pochytíte sobě každý manželku svou ze dcer Sílo, a odejdete do země Beniamin."
 "Když pak přijdou otcové jejich aneb bratří jejich, aby se před námi soudili, tedy řekneme jim
-"Tedy učinili tak synové Beniamin, a přivedli sobě manželky vedlé počtu svého z těch plésajících, kteréž uchvátili; a odšedše, navrátili se k dědictví svému, a vzdělavše zase města svá, bydlili v nich."
+"Tedy učinili tak synové Beniamin, a přivedli sobě manželky vedlé počtu svého z těch plésajících, kteréž uchvátili; #a odšedše, navrátili se k dědictví svému, a vzdělavše zase města svá, bydlili v nich."
 "A tak odešli odtud synové Izraelští toho času, jeden každý k svému pokolení a k čeledi své; a vrátili se odtud jeden každý k dědictví svému."
 "Těch dnů nebylo krále v Izraeli, ale každý, což se mu vidělo, to činil."

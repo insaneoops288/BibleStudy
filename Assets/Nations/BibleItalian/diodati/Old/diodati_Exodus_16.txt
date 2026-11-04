@@ -15,7 +15,7 @@
 "E quando i figliuoli d’Israele la videro, dissero l’uno all’altro
 "Quest’è quello che il Signore ha comandato
 "E i figliuoli d’Israele fecero così; e ne raccolsero, chi assai, e chi poco."
-"E lo misurarono con l’omer; e chi ne avea raccolto assai non n’ebbe di soverchio; e chi ne avea raccolto poco non n’ebbe di manco; ciascuno ne raccoglieva quanto gliene bisognava per lo suo mangiare."
+"E lo misurarono con l’omer; e chi ne avea raccolto assai non n’ebbe di soverchio; e chi ne #avea raccolto poco non n’ebbe di manco; ciascuno ne raccoglieva quanto gliene bisognava per lo suo mangiare."
 "E Mosè disse loro
 "Ma alcuni non ubbidirono a Mosè, e ne lasciarono di resto fino alla mattina, e quello inverminò, e putì; laonde Mosè si adirò contro a loro."
 "Così lo raccoglievano ogni mattina, ciascuno a ragion del suo mangiare; e quando il sole si riscaldava, quello si struggeva."

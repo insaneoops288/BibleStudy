@@ -21,8 +21,8 @@
 "Si Nephtali ay isang usang babaing kawala
 "Si Jose ay sangang mabunga, Sangang mabunga na nasa tabi ng bukal; Ang kaniyang mga sanga'y gumagapang sa pader."
 "Pinamanglaw siya ng mga mamamana, At pinana siya, at inusig siya
-"Nguni't ang kaniyang busog ay nanahan sa kalakasan, At pinalakas ang mga bisig ng kaniyang mga kamay, Sa pamamagitan ng mga kamay ng Makapangyarihan ni Jacob, (Na siyang pinagmulan ng pastor, ang bato ng Israel),"
-"Sa pamamagitan nga ng Dios ng iyong ama, na siyang tutulong sa iyo, At sa pamamagitan ng Makapangyarihan sa lahat, na siyang magpapala sa iyo, Ng pagpapala ng langit sa itaas, Pagpapala ng mga kalaliman na nalalagay sa ibaba, Pagpapala ng mga dibdib at ng bahay-bata."
+"Nguni't ang kaniyang busog ay nanahan sa kalakasan, At pinalakas ang mga bisig ng kaniyang mga kamay, Sa #pamamagitan ng mga kamay ng Makapangyarihan ni Jacob, (Na siyang pinagmulan ng pastor, ang bato ng Israel),"
+"Sa pamamagitan nga ng Dios ng iyong ama, na siyang tutulong sa iyo, At sa pamamagitan ng Makapangyarihan sa lahat, na siyang magpapala sa #iyo, Ng pagpapala ng langit sa itaas, Pagpapala ng mga kalaliman na nalalagay sa ibaba, Pagpapala ng mga dibdib at ng bahay-bata."
 "Ang mga basbas ng iyong ama na humigit sa basbas ng aking mga kanunuan Hanggang sa wakas ng mga burol na walang hanggan
 "Si Benjamin ay isang lobo na mangaagaw
 "Ang lahat ng ito ang labing dalawang angkan ng Israel

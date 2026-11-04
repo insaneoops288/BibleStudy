@@ -14,7 +14,7 @@
 "A Simón, a quien también llamó Pedro, y a Andrés su hermano, Jacobo y Juan, Felipe y Bartolomé,"
 "Mateo y Tomás, Jacobo [hijo] de Alfeo, y Simón el que se llama Zelotes;"
 "Judas hermano de Jacobo, y Judas Iscariote, que también fue el traidor."
-"Y descendió con ellos, y se detuvo en un lugar llano, en compañía de sus discípulos y de una gran multitud de gente de toda Judea y de Jerusalén, y de la costa de Tiro y de Sidón, que habían venido para oírle, y para ser sanados de sus enfermedades;"
+"Y descendió con ellos, y se detuvo en un lugar llano, en compañía de sus discípulos y de una gran multitud de gente de toda Judea #y de Jerusalén, y de la costa de Tiro y de Sidón, que habían venido para oírle, y para ser sanados de sus enfermedades;"
 "y los que habían sido atormentados de espíritus inmundos; y fueron sanados."
 "Y toda la multitud procuraba tocarle; porque poder salía de Él, y sanaba a todos."
 "Y alzando Él sus ojos hacia sus discípulos, decía
@@ -32,7 +32,7 @@
 "‹Porque si amáis a los que os aman, ¿qué gracia tenéis? Porque también los pecadores aman a los que los aman.›"
 "‹Y si hacéis bien a los que os hacen bien, ¿qué gracia tenéis? Porque también los pecadores hacen lo mismo.›"
 "‹Y si prestáis [a aquellos] de quienes esperáis recibir, ¿qué gracia tenéis? Porque también los pecadores prestan a los pecadores, para recibir otro tanto.›"
-"‹Amad, pues, a vuestros enemigos, y haced bien, y prestad, no esperando nada a cambio; y vuestro galardón será grande, y seréis hijos del Altísimo; porque Él es benigno para con los ingratos y malos.›"
+"‹Amad, pues, a vuestros enemigos, y haced bien, y prestad, no esperando nada a cambio; y vuestro galardón #será grande, y seréis hijos del Altísimo; porque Él es benigno para con los ingratos y malos.›"
 "‹Sed, pues, misericordiosos, como también vuestro Padre es misericordioso.›"
 "‹No juzguéis, y no seréis juzgados
 "‹Dad, y se os dará; medida buena, apretada, remecida y rebosando darán en vuestro regazo; porque con la misma medida con que midiereis, se os volverá a medir.›"
@@ -45,5 +45,5 @@
 "‹El hombre bueno del buen tesoro de su corazón saca lo bueno; y el hombre malo del mal tesoro de su corazón saca lo malo; porque de la abundancia del corazón habla su boca.›"
 "‹¿Por qué me llamáis, Señor, Señor, y no hacéis lo que yo digo?›"
 "‹Todo aquel que viene a mí, y oye mis palabras, y las hace, os enseñaré a quién es semejante
-"‹Semejante es al hombre que edificó una casa, y cavó profundo, y puso el fundamento sobre la roca; y cuando vino un torrente, el río dio con ímpetu contra aquella casa, mas no la pudo mover; porque estaba fundada sobre la roca.›"
+"‹Semejante es al hombre que edificó una casa, y cavó profundo, y puso el fundamento sobre la roca; y cuando vino un #torrente, el río dio con ímpetu contra aquella casa, mas no la pudo mover; porque estaba fundada sobre la roca.›"
 "‹Mas el que oye y no hace, es semejante al hombre que edificó su casa sobre tierra, sin fundamento; contra la cual el río dio con ímpetu, y cayó luego; y fue grande la ruina de aquella casa.›"

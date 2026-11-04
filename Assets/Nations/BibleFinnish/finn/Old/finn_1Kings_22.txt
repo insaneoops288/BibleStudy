@@ -7,7 +7,7 @@
 "Mutta Josaphat sanoi
 "Ja Israelin kuningas sanoi Josaphatille
 "Niin Israelin kuningas kutsui yhden palvelian ja sanoi
-"Mutta Israelin kuningas ja Josaphat Juudan kuningas istuivat molemmat kuninkaallisella istuimellansa, vaatetettuina (kuninkaallisiin) vaatteisiin Samarian portin raitilla; ja kaikki prophetat ennustivat heidän edessänsä."
+"Mutta Israelin kuningas ja Josaphat Juudan kuningas istuivat molemmat kuninkaallisella istuimellansa, vaatetettuina #(kuninkaallisiin) vaatteisiin Samarian portin raitilla; ja kaikki prophetat ennustivat heidän edessänsä."
 "Ja Zedekia Kenanan poika oli tehnyt itsellensä rautasarvet, ja sanoi
 "Niin myös kaikki prophetat ennustivat ja sanoivat
 "Mutta sanansaattaja, joka oli mennyt Miikaa kutsumaan, puhui hänelle, sanoen

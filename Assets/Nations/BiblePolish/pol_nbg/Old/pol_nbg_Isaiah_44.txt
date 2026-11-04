@@ -5,7 +5,7 @@
 "Ten powie
 "Tak mówi WIEKUISTY, Król Israela i jego Odkupiciel, WIEKUISTY Zastępów
 "Od czasu, gdy ustanowiłem ten starodawny naród, kto tak jak Ja ogłaszał – niech oświadczy oraz Mi to wyłoży? Niech zwiastują przeszłe wypadki i to, co w następstwie przyjdzie."
-"Nie trwóżcie się, nie lękajcie! Czyż już od dawna nie oznajmiłem oraz ci nie zapowiedziałem – a wy przecież jesteście Moimi świadkami – czy jest Bóg oprócz Mnie? Przecież nie ma Opoki, nie znam żadnej."
+"Nie trwóżcie się, nie lękajcie! Czyż już od dawna nie oznajmiłem oraz ci nie zapowiedziałem – a wy #przecież jesteście Moimi świadkami – czy jest Bóg oprócz Mnie? Przecież nie ma Opoki, nie znam żadnej."
 "Twórcy posągów – wszyscy są nicością, a ich chluby niezdatne do niczego; ich świadkowie to oni sami; nic nie widzą oraz nie rozumieją ku swej hańbie."
 "Kto tworzy bożka, lub leje posąg, do niczego nie jest przydatny?"
 "Przecież wszyscy, którzy w tym uczestniczą, powinni się wstydzić; gdyby się razem zebrali i stanęli owi mistrzowie ludzcy – to by niechybnie zadrżeli oraz pokryli się hańbą."
@@ -20,7 +20,7 @@
 "Oto ten, co się ugania za popiołem – do tego stopnia zwiodło go omamione serce, że nie ocala swojej duszy i nie powiada
 "Pamiętaj to Jakóbie i ty, Israelu, że jesteś Moim sługą; utworzyłem cię na Mojego sługę; Israelu, nie będziesz przeze Mnie zapomniany."
 "Starłem jak obłok twe występki oraz jak chmurę twoje grzechy; nawróć się do Mnie, bowiem cię odkupiłem."
-"Zagrzmijcie niebiosa, gdyż WIEKUISTY to spełnił; wykrzykujcie niziny ziemi, a góry wybuchnijcie śpiewem; także lesie, a w nim wszystkie drzewa. Bo WIEKUISTY wykupił Jakóba, a przez Israela się wsławił!"
+"Zagrzmijcie niebiosa, gdyż WIEKUISTY to spełnił; wykrzykujcie niziny ziemi, a góry wybuchnijcie śpiewem; także lesie, #a w nim wszystkie drzewa. Bo WIEKUISTY wykupił Jakóba, a przez Israela się wsławił!"
 "Tak mówi WIEKUISTY, twój Zbawiciel, który cię ukształtował od początku istnienia
 "który niweczy znaki kłamców oraz czyni głupców z wróżbitów; który mędrców odrzuca do tyłu i czyni głupstwem ich wiedzę;"
 "który stwierdza słowo Swojego sługi oraz spełnia zapowiedź Swych wysłańców; który mówi o Jeruszalaim

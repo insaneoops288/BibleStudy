@@ -3,7 +3,7 @@
 "No se ofuscarán entonces los ojos de los que ven, y los oídos de los oyentes oirán atentos."
 "Y el corazón de los necios entenderá para saber, y la lengua de los tartamudos hablará con fluidez y claridad."
 "El mezquino nunca más será llamado liberal, ni el avaro será llamado generoso."
-"Porque el mezquino hablará mezquindades, y su corazón fabricará iniquidad, para hacer la impiedad y para hablar escarnio contra Jehová, dejando vacía el alma hambrienta, y quitando la bebida al sediento."
+"Porque el mezquino hablará mezquindades, y su corazón fabricará iniquidad, para hacer la impiedad y para #hablar escarnio contra Jehová, dejando vacía el alma hambrienta, y quitando la bebida al sediento."
 "Las armas del tramposo son malignas; maquina intrigas perversas para enredar a los simples con palabras mentirosas, aun cuando el pobre hable con derecho."
 "Mas el liberal pensará liberalidades, y por liberalidades será exaltado."
 "Mujeres indolentes, levantaos, oíd mi voz; hijas confiadas, escuchad mi razón."

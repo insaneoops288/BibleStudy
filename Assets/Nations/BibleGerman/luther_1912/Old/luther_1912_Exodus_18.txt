@@ -5,7 +5,7 @@
 "Da nun Jethro, Mose's Schwiegervater, und seine Söhne und sein Weib zu ihm kamen in die Wüste, an den Berg Gottes, da er sich gelagert hatte,"
 "ließ er Mose sagen
 "Da ging Mose hinaus ihm entgegen und neigte sich vor ihm und küßte ihn. Und da sie sich untereinander gegrüßt hatten, gingen sie in die Hütte."
-"Da erzählte Mose seinem Schwiegervater alles, was der HERR dem Pharao und denÄgyptern getan hatte Israels halben, und alle die Mühsal, die ihnen auf den Wege begegnet war, und daß sie der HERR errettet hätte."
+"Da erzählte Mose seinem Schwiegervater alles, was der HERR dem Pharao und denÄgyptern getan hatte Israels halben, und #alle die Mühsal, die ihnen auf den Wege begegnet war, und daß sie der HERR errettet hätte."
 "Jethro aber freute sich all des Guten, das der HERR Israel getan hatte, daß er sie errettet hatte von derÄgypter Hand."
 "Und Jethro sprach
 "Nun weiß ich, daß der HERR größer ist denn alle Götter, darum daß sie Hochmut an ihnen geübt haben."
@@ -19,7 +19,7 @@
 "Aber gehorche meiner Stimme; ich will dir raten, und Gott wird mit dir sein. Pflege du des Volks vor Gott und bringe die Geschäfte vor Gott"
 "und stelle ihnen Rechte und Gesetze, daß du sie lehrst den Weg, darin sie wandeln, und die Werke, die sie tun sollen."
 "Siehe dich aber um unter allem Volk nach redlichen Leuten, die Gott fürchten, wahrhaftig und dem Geiz feind sind; die setzeüber sie, etlicheüber tausend,über hundert,über fünfzig undüber zehn,{~}"
-"daß sie das Volk allezeit richten; wo aber eine große Sache ist, daß sie dieselbe an dich bringen, und sie alle geringen Sachen richten. So wird dir's leichter werden, und sie werden mit dir tragen."
+"daß sie das Volk allezeit richten; wo aber eine große Sache ist, daß sie dieselbe an dich bringen, #und sie alle geringen Sachen richten. So wird dir's leichter werden, und sie werden mit dir tragen."
 "Wirst du das tun, so kannst du ausrichten, was Gott dir gebietet, und all dies Volk kann mit Frieden an seinen Ort kommen."
 "Mose gehorchte seines Schwiegervaters Wort und tat alles, was er sagte,"
 "und erwählte redliche Leute aus ganz Israel und machte sie zu Häupternüber das Volk, etlicheüber tausend,über hundert,über fünfzig undüber zehn,"

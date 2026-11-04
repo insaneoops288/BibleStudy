@@ -8,7 +8,7 @@
 "Přitáhne zajisté zhoubce na každé město, aniž ho které město znikne; zahyne i údolí, a zahlazena bude rovina, jakž praví Hospodin."
 "Dejte brky Moábovi, ať rychle uletí; nebo města jeho v poušť obrácena budou, tak že nebude žádného obyvatele v nich."
 "Zlořečený ten, kdož dělá dílo Hospodinovo lstivě, a zlořečený ten, kdož zdržuje meč svůj od krve."
-"Mělť jest pokoj Moáb od dětinství svého, a usadil se na kvasnicích svých, aniž býval přelíván z nádoby do nádoby, totiž do zajetí nechodíval; pročež zůstala v něm chuť jeho, a vůně jeho není proměněna."
+"Mělť jest pokoj Moáb od dětinství svého, a usadil se na kvasnicích svých, aniž býval přelíván z nádoby #do nádoby, totiž do zajetí nechodíval; pročež zůstala v něm chuť jeho, a vůně jeho není proměněna."
 "Protož aj, dnové jdou, dí Hospodin, že pošli na něj ty, kteříž vpády činí, a zajmou jej, sudy pak jeho vyprázdní, a nádoby jeho roztříští."
 "I zahanben bude Moáb od Chámos, jako zahanbeni jsou dům Izraelský od Bethel naděje své."
 "Kterakž říkáte

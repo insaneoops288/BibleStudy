@@ -12,7 +12,7 @@
 "Tedy rzekł Jeremijasz do wszystkich książąt, i do wszystkiego ludu, mówiąc
 "Przetoż teraz poprawcie drogi swoje i sprawy swe, a usłuchajcie głosu Pana, Boga swego, a pożałuje Pan tego złego, które wyrzekł przeciwko wam."
 "A ja otom jest w rękach waszych; czyńcie zemną, co dobrego i sprawiedliwego jest w oczach waszych."
-"A wszakże zapewne wiedzcie, jeźliż mię zabijecie, że krew niewinną zwalicie na się i na to miasto, i na obywateli jego; bo mię zaprawdę Pan do was posłał, abym mówił te wszystkie słowa w uszy wasze."
+"A wszakże zapewne wiedzcie, jeźliż mię zabijecie, że krew niewinną zwalicie na się i na to miasto, i na #obywateli jego; bo mię zaprawdę Pan do was posłał, abym mówił te wszystkie słowa w uszy wasze."
 "I rzekli książęta i wszystek lud do kapłanów i do onych proroków
 "Tedy powstali niektórzy z starszych onej ziemi, i uczynili rzecz do wszystkiego zgromadzenia ludu, mówiąc
 "Micheasz Morastytczyk prorokował za dni Ezechijasza, króla Judzkiego, i rzekł do wszystkiego ludu Judzkiego, mówiąc

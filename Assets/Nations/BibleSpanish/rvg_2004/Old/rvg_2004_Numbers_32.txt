@@ -30,7 +30,7 @@
 "Pero si no pasaren armados con vosotros, entonces tendrán posesión entre vosotros en la tierra de Canaán."
 "Y los hijos de Gad y los hijos de Rubén respondieron, diciendo
 "Nosotros pasaremos armados delante de Jehová a la tierra de Canaán, y la posesión de nuestra heredad será a este lado del Jordán."
-"Así les dio Moisés a los hijos de Gad y a los hijos de Rubén, y a la media tribu de Manasés hijo de José, el reino de Sehón rey amorreo, y el reino de Og rey de Basán, la tierra con sus ciudades y términos, las ciudades del país alrededor."
+"Así les dio Moisés a los hijos de Gad y a los hijos de Rubén, y a la media tribu de Manasés hijo de José, el #reino de Sehón rey amorreo, y el reino de Og rey de Basán, la tierra con sus ciudades y términos, las ciudades del país alrededor."
 "Y los hijos de Gad edificaron a Dibón,  Atarot,  Aroer,"
 "Atrot-sofan,  Jazer, Jogbeha,"
 "Bet-nimra y a Betarán; ciudades fuertes, y también majadas para ovejas."

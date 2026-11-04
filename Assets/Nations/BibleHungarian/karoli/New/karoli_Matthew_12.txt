@@ -42,7 +42,7 @@
 "Délnek királyné asszonya felkél majd az ítéletkor e nemzetséggel együtt, és kárhoztatja ezt
 "Mikor pedig a tisztátalan lélek kimegy az emberbõl, víz nélkül való helyeken jár, nyugalmat keresve, és nem talál
 "Akkor ezt mondja
-"Akkor elmegy és vesz maga mellé más hét lelket, gonoszabbakat õ magánál, és bemenvén, ott lakoznak; és ennek az embernek utolsó állapotja gonoszabb lesz az elsõnél. Így lesz ezzel a gonosz nemzetséggel is."
+"Akkor elmegy és vesz maga mellé más hét lelket, gonoszabbakat õ magánál, és bemenvén, ott lakoznak; és #ennek az embernek utolsó állapotja gonoszabb lesz az elsõnél. Így lesz ezzel a gonosz nemzetséggel is."
 "Mikor pedig még szóla a sokaságnak, ímé az õ anyja és az õ testvérei állanak vala odakünn, akarván õ vele szólni."
 "És monda néki valaki
 "Õ pedig felelvén, monda a hozzá szólónak

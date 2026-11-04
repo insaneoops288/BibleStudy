@@ -5,9 +5,9 @@
 "Abym spełnił przysięgę, którąm przysiągł ojcom waszym, że im dam ziemię opływającą mlekiem i miodem
 "I rzekł Pan do mnie
 "Bo oświadczając oświadczałem się przed ojcami waszymi ode dnia, któregom ich wywiódł z ziemi Egipskiej, aż do dnia tego; rano wstawając i oświadczając się, mawiałem
-"Ale nie usłuchali, ani nakłonili ucha swego; owszem każdy szedł za uporem serca swego złego. Przetożem przywiódł na nich wszystkie słowa przymierza tego, którem rozkazał, aby czynili; ale oni nie czynili."
+"Ale nie usłuchali, ani nakłonili ucha swego; owszem każdy szedł za uporem serca swego złego. Przetożem #przywiódł na nich wszystkie słowa przymierza tego, którem rozkazał, aby czynili; ale oni nie czynili."
 "I rzekł Pan do mnie
-"Obrócili się do nieprawości ojców swoich pierwszych, którzy nie chcieli słuchać słów moich; także i ci chodzą za bogami cudzymi, służąc im; zgwałcili dom Izraelski i dom Judzki przymierze moje, którem był postanowił z ojcami ich."
+"Obrócili się do nieprawości ojców swoich pierwszych, którzy nie chcieli słuchać słów moich; także i ci chodzą za bogami #cudzymi, służąc im; zgwałcili dom Izraelski i dom Judzki przymierze moje, którem był postanowił z ojcami ich."
 "Dlatego tak mówi Pan
 "I pójdą miasta Judzkie i obywatele Jeruzalemscy, a będą wołali do bogów, którym kadzą; ale ich żadnym sposobem nie wybawią czasu utrapienia ich."
 "Aczkolwiek ile jest miast twoich, tyle bogów twoich, o Judo! a ile ulic Jeruzalemskich, tyleście nastawiali ołtarzów obrzydliwości, ołtarzów do kadzenia Baalowi."

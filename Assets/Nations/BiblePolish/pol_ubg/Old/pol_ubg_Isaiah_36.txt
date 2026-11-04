@@ -3,7 +3,7 @@
 "Wtedy wyszli do niego Eliakim, syn Chilkiasza, przełożony domu, i Szebna, pisarz, oraz Joach, syn Asafa, kronikarz."
 "Wtedy Rabszak powiedział do nich
 "Mówisz – ale to słowa daremne – mam dość dużo rad i siły do wojny. Teraz więc w kim pokładasz ufność, że zbuntowałeś się przeciwko mnie?"
-"Oto opierasz się na tej nadłamanej lasce trzcinowej – na Egipcie – która, gdy ktoś się oprze na niej, wbija mu się w dłoń i przebija ją. Taki jest faraon, król Egiptu, dla wszystkich, którzy mu ufają."
+"Oto opierasz się na tej nadłamanej lasce trzcinowej – na Egipcie – która, gdy ktoś się oprze na niej, #wbija mu się w dłoń i przebija ją. Taki jest faraon, król Egiptu, dla wszystkich, którzy mu ufają."
 "A jeśli mi powiesz
 "Dlatego teraz proszę, daj zastaw memu panu, królowi Asyrii, a ja dam ci dwa tysiące koni, jeśli zdołasz posadzić na nich jeźdźców."
 "Jakże więc stawisz opór jednemu dowódcy z najmniejszych sług mego pana, a pokładasz nadzieję w Egipcie, że otrzymasz rydwany i jeźdźców?"

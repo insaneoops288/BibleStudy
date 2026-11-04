@@ -7,7 +7,7 @@
 "Darum spricht der HERR Zebaoth also
 "Ihre falschen Zungen sind mörderische Pfeile; mit ihrem Munde reden sie freundlich gegen den Nächsten, aber im Herzen lauern sie auf ihn."
 "Sollte ich nun solches nicht heimsuchen an ihnen, spricht der HERR, und meine Seele sollte sich nicht rächen an solchem Volk, wie dies ist?"
-"Ich muß auf den Bergen weinen und heulen und bei den Hürden in der Wüste klagen; denn sie sind so gar verheert, daß niemand da wandelt und man auch nicht ein Vieh schreien hört. Es ist beides, Vögel des Himmels und das Vieh, alles weg."
+"Ich muß auf den Bergen weinen und heulen und bei den Hürden in der Wüste klagen; denn sie sind so gar verheert, daß #niemand da wandelt und man auch nicht ein Vieh schreien hört. Es ist beides, Vögel des Himmels und das Vieh, alles weg."
 "Und ich will Jerusalem zum Steinhaufen und zur Wohnung der Schakale machen und will die Städte Juda's wüst machen, daß niemand darin wohnen soll."
 "Wer nun weise wäre und ließe es sich zu Herzen gehen und verkündigte, was des HERRN Mund zu ihm sagt, warum das Land verderbt und verheert wird wie eine Wüste, da niemand wandelt!"
 "Und der HERR sprach
@@ -21,6 +21,6 @@
 "Der Tod ist zu unseren Fenstern eingefallen und in unsere Paläste gekommen, die Kinder zu würgen auf der Gasse und die Jünglinge auf der Straße."
 "So spricht der HERR
 "So spricht der HERR
-"sondern wer sich rühmen will, der rühme sich des, daß er mich wisse und kenne, daß ich der HERR bin, der Barmherzigkeit, Recht und Gerechtigkeitübt auf Erden; denn solches gefällt mir, spricht der HERR."
+"sondern wer sich rühmen will, der rühme sich des, daß er mich wisse und kenne, daß ich der #HERR bin, der Barmherzigkeit, Recht und Gerechtigkeitübt auf Erden; denn solches gefällt mir, spricht der HERR."
 "Siehe, es kommt die Zeit, spricht der HERR, daß ich heimsuchen werde alle, die Beschnittenen mit den Unbeschnittenen
-"Ägypten, Juda, Edom, die Kinder Ammon, Moab und alle, die das Haar rundumher abschneiden, die in der Wüste wohnen. Denn alle Heiden haben unbeschnittenen Vorhaut; aber das ganze Israel hat ein unbeschnittenes Herz."
+"Ägypten, Juda, Edom, die Kinder Ammon, Moab und alle, die das Haar rundumher abschneiden, die in der #Wüste wohnen. Denn alle Heiden haben unbeschnittenen Vorhaut; aber das ganze Israel hat ein unbeschnittenes Herz."

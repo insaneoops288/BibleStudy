@@ -19,7 +19,7 @@
 "A ty, synu człowieczy! połóż przed sobą dwie drogi, którędyby iść miał miecz króla Babilońskiego; z jednej ziemi niech wychodzą obiedwie, a na rozdrożu obierz tę ku miastu, tę obierz."
 "Pokaż drogę, którąby miecz iść miał, czyli ku Rabbacie synów Ammonowych, czyli ku ziemi Judzkiej na Jeruzalemskie twierdze."
 "Albowiem stanie król Babiloński na rozdrożu, na początku dwóch dróg, pytając się wieszczby; będzie polerował strzały, będzie się radził bałwanów, będzie patrzył na wątrobę."
-"Po prawej ręce jego wieszczba ukaże Jeruzalem, aby szykował hetmanów, którzyby pobudzali do mordowania, a podnosili głos z okrzykiem, aby zasadzili tarany przeciwko bramom, aby usypali wał, a urobili szańce."
+"Po prawej ręce jego wieszczba ukaże Jeruzalem, aby szykował hetmanów, którzyby pobudzali do mordowania, a podnosili #głos z okrzykiem, aby zasadzili tarany przeciwko bramom, aby usypali wał, a urobili szańce."
 "I będą to mieli za próżną wieszczbę przed oczyma swemi ci, co się obowiązali przysięgami; a to przywiedzie na pamięć nieprawość ich, aby pojmani byli."
 "Przetoż tak mówi panujący Pan
 "A ty, nieczysty bezbożniku, księciu Izraelski! którego dzień przychodzi, gdy nieprawość skończona będzie

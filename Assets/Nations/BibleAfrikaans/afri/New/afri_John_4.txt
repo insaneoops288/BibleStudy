@@ -11,7 +11,7 @@
 "Die vrou sê vir Hom
 "U is tog nie groter as ons vader Jakob nie, wat die put aan ons gegee het en self daaruit gedrink het, en sy seuns en sy vee?"
 "Jesus antwoord en sê vir haar
-"maar elkeen wat drink van die water wat Ek hom sal gee, sal in ewigheid nooit dors kry nie, maar die water wat Ek hom sal gee, sal in hom word 'n fontein van water wat opspring tot in die ewige lewe."
+"maar elkeen wat drink van die water wat Ek hom sal gee, sal in ewigheid nooit dors kry nie, maar die water #wat Ek hom sal gee, sal in hom word 'n fontein van water wat opspring tot in die ewige lewe."
 "Die vrou sê vir Hom
 "Jesus sê vir haar
 "Die vrou antwoord en sê

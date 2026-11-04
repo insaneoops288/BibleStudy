@@ -14,7 +14,7 @@
 "Asor siitti Sadokin. Sadok siitti Akimin. Akim siitti Eliudin."
 "Eliud siitti Eleatsarin. Eleatsar siitti Matanin. Matan siitti Jakobin."
 "Jakob siitti Josephin, Marian miehen, josta (Mariasta) on syntynyt Jesus, joka kutsutaan Kristus."
-"Niin ovat kaikki polvet Abrahamista Davidiin asti neljätoistakymmentä polvea; Davidista Babelin vankiuteen myös neljätoistakymmentä polvea, ja Babelin vankiudesta Kristukseen asti neljätoistakymmentä polvea."
+"Niin ovat kaikki polvet Abrahamista Davidiin asti neljätoistakymmentä polvea; Davidista Babelin vankiuteen #myös neljätoistakymmentä polvea, ja Babelin vankiudesta Kristukseen asti neljätoistakymmentä polvea."
 "Jesuksen Kristuksen syntymys oli näin
 "Mutta että Joseph hänen miehensä oli hurskas ja ei tahtonut häntä huutoon saattaa, ajatteli hän salaisesti hyljätä hänen."
 "Kuin hän näitä ajatteli, katso, niin Herran enkeli ilmestyi hänelle unessa ja sanoi

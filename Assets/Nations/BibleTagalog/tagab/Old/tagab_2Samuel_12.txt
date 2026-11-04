@@ -1,14 +1,14 @@
 "At sinugo ng Panginoon si Nathan kay David. At siya'y naparoon sa kaniya, at nagsabi sa kaniya, May dalawang lalake sa isang bayan; ang isa ay mayaman at ang isa ay mahirap."
 "Ang mayaman ay mayroon totoong maraming kawan at bakahan
 "Nguni't ang mahirap ay walang anomang bagay, liban sa isang munting korderong babae, na kaniyang binili at inalagaan
-"At naparoon ang isang maglalakbay sa mayaman, at ipinagkait niya ang kaniyang sariling kawan at ang kaniyang sariling bakahan, na ihanda sa naglalakbay na dumating sa kaniya, kundi kinuha ang kordero ng mahirap na lalake, at inihanda sa lalake na dumating sa kaniya."
+"At naparoon ang isang maglalakbay sa mayaman, at ipinagkait niya ang kaniyang sariling kawan at ang kaniyang sariling bakahan, na ihanda sa #naglalakbay na dumating sa kaniya, kundi kinuha ang kordero ng mahirap na lalake, at inihanda sa lalake na dumating sa kaniya."
 "At ang galit ni David ay nagalab na mainam laban sa lalake; at kaniyang sinabi kay Nathan, Buhay ang Panginoon, ang lalake na gumawa nito ay karapatdapat na mamatay
 "At isinauli ang kordero na may dagdag na apat, sapagka't kaniyang ginawa ang bagay na ito, at sapagka't siya'y hindi naawa."
 "At sinabi ni Nathan kay David, Ikaw ang lalaking yaon. Ganito ang sabi ng Panginoon, ng Dios ng Israel, Pinahiran kita ng langis na maging hari sa Israel, at aking iniligtas ka sa kamay ni Saul;"
-"At ibinigay ko sa iyo ang bahay ng iyong panginoon, at ang mga asawa ng iyong panginoon sa iyong sinapupunan, at ibinigay ko sa iyo ang sangbahayan ng Israel at ng Juda; at kung totoong kakaunti pa ito, ay dadagdagan pa kita ng gayong bagay."
-"Bakit nga iyong niwalang kabuluhan ang salita ng Panginoon, na iyong ginawa ang masama sa kaniyang paningin? iyong sinugatan ng tabak si Uria na Hetheo, at iyong kinuha ang kaniyang asawa upang maging iyong asawa, at iyong pinatay siya ng tabak ng mga anak ni Ammon."
+"At ibinigay ko sa iyo ang bahay ng iyong panginoon, at ang mga asawa ng iyong panginoon sa iyong sinapupunan, at ibinigay ko #sa iyo ang sangbahayan ng Israel at ng Juda; at kung totoong kakaunti pa ito, ay dadagdagan pa kita ng gayong bagay."
+"Bakit nga iyong niwalang kabuluhan ang salita ng Panginoon, na iyong ginawa ang masama sa kaniyang paningin? iyong sinugatan ng tabak si Uria na #Hetheo, at iyong kinuha ang kaniyang asawa upang maging iyong asawa, at iyong pinatay siya ng tabak ng mga anak ni Ammon."
 "Ngayon nga'y ang tabak ay hindi hihiwalay kailan man sa iyong sangbahayan; sapagka't iyong niwalan ng kabuluhan ako, at iyong kinuha ang asawa ni Uria na Hetheo upang maging iyong asawa."
-"Ganito ang sabi ng Panginoon, Narito, ako'y magtitindig ng kasamaan laban sa iyo na mula sa iyong sariling sangbahayan, at aking kukunin ang iyong mga asawa sa harap ng iyong mga mata, at aking ipagbibigay sa iyong kapuwa, at kaniyang sisipingan ang iyong mga asawa sa sikat ng araw na ito."
+"Ganito ang sabi ng Panginoon, Narito, ako'y magtitindig ng kasamaan laban sa iyo na mula sa iyong sariling sangbahayan, at aking kukunin ang iyong mga asawa #sa harap ng iyong mga mata, at aking ipagbibigay sa iyong kapuwa, at kaniyang sisipingan ang iyong mga asawa sa sikat ng araw na ito."
 "Sapagka't iyong ginawa na lihim
 "At sinabi ni David kay Nathan, Ako'y nagkasala laban sa Panginoon. At sinabi ni Nathan kay David, Inalis din ng Panginoon ang iyong kasalanan; hindi ka mamamatay."
 "Gayon ma'y sapagka't sa gawang ito'y iyong binigyan ng malaking pagkakataon ang mga kaaway ng Panginoon upang magsipanungayaw, ang bata naman na ipinanganak sa iyo ay walang pagsalang mamamatay."
@@ -18,7 +18,7 @@
 "At nangyari, nang ikapitong araw, na ang bata ay namatay. At nangatakot ang mga lingkod ni David na saysayin sa kaniya na ang bata ay patay na
 "Nguni't nang makita ni David na ang kaniyang mga lingkod ay nagbubulong-bulungan, nahalata ni David na ang bata ay patay na
 "Nang magkagayo'y bumangon si David sa lupa at naligo, at nagpahid ng langis, at nagbihis ng kaniyang suot; at siya'y naparoon sa bahay ng Panginoon, at sumamba
-"Nang magkagayo'y sinabi ng kaniyang mga lingkod sa kaniya, Anong bagay ito na iyong ginawa? ikaw ay nagaayuno at umiiyak dahil sa bata, samantalang siya'y buhay; nguni't nang mamatay ang bata, ikaw ay bumangon at kumain ng tinapay."
+"Nang magkagayo'y sinabi ng kaniyang mga lingkod sa kaniya, Anong bagay ito na iyong ginawa? ikaw ay nagaayuno at umiiyak #dahil sa bata, samantalang siya'y buhay; nguni't nang mamatay ang bata, ikaw ay bumangon at kumain ng tinapay."
 "At kaniyang sinabi, Samantalang ang bata'y buhay pa, ako'y nagaayuno at umiiyak
 "Nguni't ngayo'y patay na siya; bakit pa ako magaayuno? Maibabalik ko pa ba siya? Ako'y paroroon sa kaniya, nguni't siya'y hindi babalik sa akin."
 "At inaliw ni David si Bath-sheba na kaniyang asawa, at lumapit sa kaniya, at sumiping sa kaniya

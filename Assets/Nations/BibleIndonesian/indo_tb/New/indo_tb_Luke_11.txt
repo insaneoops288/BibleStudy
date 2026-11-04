@@ -28,8 +28,8 @@
 "Tetapi Ia berkata
 "Ketika orang banyak mengerumuni-Nya, berkatalah Yesus
 "Sebab seperti Yunus menjadi tanda untuk orang-orang Niniwe, demikian pulalah Anak Manusia akan menjadi tanda untuk angkatan ini."
-"Pada waktu penghakiman, ratu dari Selatan itu akan bangkit bersama orang dari angkatan ini dan ia akan menghukum mereka. Sebab ratu ini datang dari ujung bumi untuk mendengarkan hikmat Salomo, dan sesungguhnya yang ada di sini lebih dari pada Salomo!"
-"Pada waktu penghakiman, orang-orang Niniwe akan bangkit bersama angkatan ini dan mereka akan menghukumnya. Sebab orang-orang Niniwe itu bertobat waktu mereka mendengarkan pemberitaan Yunus, dan sesungguhnya yang ada di sini lebih dari pada Yunus!"""
+"Pada waktu penghakiman, ratu dari Selatan itu akan bangkit bersama orang dari angkatan ini dan ia akan menghukum mereka. Sebab ratu #ini datang dari ujung bumi untuk mendengarkan hikmat Salomo, dan sesungguhnya yang ada di sini lebih dari pada Salomo!"
+"Pada waktu penghakiman, orang-orang Niniwe akan bangkit bersama angkatan ini dan mereka akan menghukumnya. Sebab orang-orang Niniwe itu #bertobat waktu mereka mendengarkan pemberitaan Yunus, dan sesungguhnya yang ada di sini lebih dari pada Yunus!"""
 """Tidak seorangpun yang menyalakan pelita lalu meletakkannya di kolong rumah atau di bawah gantang, melainkan di atas kaki dian, supaya semua orang yang masuk, dapat melihat cahayanya."
 "Matamu adalah pelita tubuhmu. Jika matamu baik, teranglah seluruh tubuhmu, tetapi jika matamu jahat, gelaplah tubuhmu."
 "Karena itu perhatikanlah supaya terang yang ada padamu jangan menjadi kegelapan."
@@ -39,7 +39,7 @@
 "Tetapi Tuhan berkata kepadanya
 "Hai orang-orang bodoh, bukankah Dia yang menjadikan bagian luar, Dia juga yang menjadikan bagian dalam?"
 "Akan tetapi, berikanlah isinya sebagai sedekah dan sesungguhnya semuanya akan menjadi bersih bagimu."
-"Tetapi celakalah kamu, hai orang-orang Farisi, sebab kamu membayar persepuluhan dari selasih, inggu dan segala jenis sayuran, tetapi kamu mengabaikan keadilan dan kasih Allah. Yang satu harus dilakukan dan yang lain jangan diabaikan."
+"Tetapi celakalah kamu, hai orang-orang Farisi, sebab kamu membayar persepuluhan dari selasih, inggu dan segala jenis sayuran, #tetapi kamu mengabaikan keadilan dan kasih Allah. Yang satu harus dilakukan dan yang lain jangan diabaikan."
 "Celakalah kamu, hai orang-orang Farisi, sebab kamu suka duduk di tempat terdepan di rumah ibadat dan suka menerima penghormatan di pasar."
 "Celakalah kamu, sebab kamu sama seperti kubur yang tidak memakai tanda; orang-orang yang berjalan di atasnya, tidak mengetahuinya."""
 "Seorang dari antara ahli-ahli Taurat itu menjawab dan berkata kepada-Nya

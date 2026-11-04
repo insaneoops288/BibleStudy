@@ -1,7 +1,7 @@
 "Und der HERR redete mit Mose und sprach
 "Sage Aaron und seinen Söhnen, daß sie sich enthalten von dem Heiligen der Kinder Israel, welches sie mir heiligen und meinen heiligen Namen nicht entheiligen, denn ich bin der HERR."
 "So sage nun ihnen auf ihre Nachkommen
-"Welcher der Nachkommen Aarons aussätzig ist oder einen Fluß hat, der soll nicht essen vom Heiligen, bis er rein werde. Wer etwa einen anrührt, der an einem Toten unrein geworden ist, oder welchem der Same entgeht im Schlaf,"
+"Welcher der Nachkommen Aarons aussätzig ist oder einen Fluß hat, der soll nicht essen vom Heiligen, bis er rein werde. #Wer etwa einen anrührt, der an einem Toten unrein geworden ist, oder welchem der Same entgeht im Schlaf,"
 "und welcher irgend ein Gewürm anrührt, dadurch er unrein wird, oder einen Menschen, durch den er unrein wird, und alles, was ihn verunreinigt
 "welcher der eins anrührt, der ist unrein bis auf den Abend und soll von dem Heiligen nicht essen, sondern soll zuvor seinen Leib mit Wasser baden."
 "Und wenn die Sonne untergegangen und er rein geworden ist, dann mag er davon essen; denn es ist seine Nahrung."
@@ -10,7 +10,7 @@
 "Kein anderer soll von dem Heiligen essen noch des Priesters Beisaß oder Tagelöhner.{~}{~}"
 "Wenn aber der Priester eine Seele um sein Geld kauft, die mag davon essen; und was ihm in seinem Hause geboren wird, das mag auch von seinem Brot essen."
 "Wenn aber des Priesters Tochter eines Fremden Weib wird, die soll nicht von der heiligen Hebe essen."
-"Wird sie aber eine Witwe oder ausgestoßen und hat keine Kinder und kommt wieder zu ihres Vaters Hause, so soll sie essen von ihres Vaters Brot, wie da sie noch Jungfrau war. Aber kein Fremdling soll davon essen."
+"Wird sie aber eine Witwe oder ausgestoßen und hat keine Kinder und kommt wieder zu ihres Vaters Hause, so soll #sie essen von ihres Vaters Brot, wie da sie noch Jungfrau war. Aber kein Fremdling soll davon essen."
 "Wer sonst aus Versehen von dem Heiligen ißt der soll den fünften Teil dazutun und dem Priester geben samt dem Heiligen,"
 "auf daß sie nicht entheiligen das Heilige der Kinder Israel, das sie dem HERRN heben,"
 "auf daß sie nicht mit Missetat und Schuld beladen, wenn sie ihr Geheiligtes essen; denn ich bin der HERR, der sie heiligt."

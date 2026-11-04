@@ -22,7 +22,7 @@
 "Ajo që ju, pra, dëgjuat nga fillimi le të qëndrojë në ju; në qoftë se ajo që dëgjuat nga fillimi qëndron në ju, edhe ju do të qëndroni në Birin dhe në Atin."
 "Dhe ky është premtimi që ai na bëri
 "Ju shkrova këto gjëra për ata që kërkojnë t'ju gënjejnë."
-"Dhe, sa për ju, vajosja që keni marrë prej tij qëndron në ju dhe nuk keni nevojë që ndokush t'ju mësojë; por, duke qenë se vajosja e tij ju mëson çdo gjë dhe është e vërtetë e nuk është gënjeshtër, qëndroni në të ashtu sikurse ju mësoi."
+"Dhe, sa për ju, vajosja që keni marrë prej tij qëndron në ju dhe nuk keni nevojë që ndokush t'ju mësojë; por, duke qenë #se vajosja e tij ju mëson çdo gjë dhe është e vërtetë e nuk është gënjeshtër, qëndroni në të ashtu sikurse ju mësoi."
 "Edhe tani, djema, qëndroni në të që, kur të shfaqet ai, ne të mund të kemi besim, dhe në ardhjen e tij të mos turpërohemi para Tij."
 "Në qoftë se e dini se ai është i drejtë, ta dini se kushdo që praktikon drejtësinë ka lindur prej tij."
 "Shikoni ç'dashuri të madhe na dha Ati, që të quhemi bij të Perëndisë. Prandaj bota nuk na njeh, sepse nuk e ka njohur atë."

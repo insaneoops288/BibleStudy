@@ -10,7 +10,7 @@
 "POI i figliuoli d’Israele si mossero, e si accamparono in Obot."
 "E, partitisi di Obot, si accamparono a’ Poggi di Abarim, nel deserto ch’è dirimpetto al paese di Moab, dal sol levante."
 "Poi si mossero di là, e si accamparono nella valle di Zered."
-"Poi si partirono di là, e si accamparono lungo il fiume di Arnon, che è nel deserto; il quale si sporge innanzi dai confini degli Amorrei; perciocchè Arnon è il confine di Moab, fra Moab e gli Amorrei."
+"Poi si partirono di là, e si accamparono lungo il fiume di Arnon, che è nel deserto; il quale si #sporge innanzi dai confini degli Amorrei; perciocchè Arnon è il confine di Moab, fra Moab e gli Amorrei."
 "Perciò è detto nel Libro delle battaglie del Signore, Vaheb in Suf, e i fiumi di Arnon,"
 "e il letto del fiume, che si volge là dove siede Ar, e tocca i confini di Moab."
 "E di là giunsero in Beer Quest’è il pozzo del quale il Signore disse a Mosè
@@ -21,7 +21,7 @@
 "Allora Israele mandò ambasciatori a Sihon, re degli Amorrei, a dirgli
 "Lascia ch’io passi per lo tuo paese; noi non ci rivolgeremo nè in campi, nè in vigne, e non berremo alcun’acqua di pozzo; noi cammineremo per la strada reale, finchè siamo passati i tuoi confini."
 "Ma Sihon non concedette a Israele di passar per li suoi confini; anzi adunò tutta la sua gente, e uscì fuori incontro a Israele, nel deserto; e venne in Iaas, e combattè con Israele."
-"E Israele lo sconfisse, e lo mise a fil di spada, e conquistò il suo paese, ch’era da Arnon fino a Iabboc, fino al paese de’ figliuoli di Ammon; perciocchè la frontiera de’ figliuoli di Ammon era forte."
+"E Israele lo sconfisse, e lo mise a fil di spada, e conquistò il suo paese, ch’era da Arnon fino #a Iabboc, fino al paese de’ figliuoli di Ammon; perciocchè la frontiera de’ figliuoli di Ammon era forte."
 "E Israele prese tutte le città ch’erano in quel paese, e abitò in tutte le città degli Amorrei, cioè in Hesbon, e in tutte le terre del suo territorio."
 "Perciocchè Hesbon era la città di Sihon, re degli Amorrei, il quale era stato il primo che avea guerreggiato contro al re di Moab, e gli avea tolto tutto il suo paese, fino all’Arnon."
 "Perciò dicono i poeti

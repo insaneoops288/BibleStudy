@@ -5,7 +5,7 @@
 "W tamtych czasach nie było pokoju ani dla wychodzącego, ani dla wchodzącego, gdyż wielkie udręki spotkały wszystkich mieszkańców ziemi."
 "I naród występował przeciw narodowi, a miasto – przeciw miastu, ponieważ Bóg ich zatrważał wszelkim nieszczęściem."
 "Wy więc umacniajcie się i niech nie słabną wasze ręce, bo czeka was zapłata za waszą pracę."
-"A gdy Asa usłyszał te słowa i proroctwo proroka Obeda, umocnił się i usunął obrzydliwości z całej ziemi Judy i Beniamina, a także z miast, które zdobył na górze Efraim, i odnowił ołtarz PANA, który stał przed przedsionkiem PANA."
+"A gdy Asa usłyszał te słowa i proroctwo proroka Obeda, umocnił się i usunął obrzydliwości z całej ziemi Judy i #Beniamina, a także z miast, które zdobył na górze Efraim, i odnowił ołtarz PANA, który stał przed przedsionkiem PANA."
 "Potem zebrał cały lud z Judy i Beniamina oraz przybyszów, którzy byli z nimi z Efraima, Manassesa i Symeona. Bardzo wielu bowiem zbiegło z Izraela do niego, widząc, że z nim był PAN, jego Bóg."
 "Zgromadzili się więc w Jerozolimie w trzecim miesiącu, w piętnastym roku panowania Asy."
 "W tym dniu złożyli PANU ofiary z łupów, które przynieśli

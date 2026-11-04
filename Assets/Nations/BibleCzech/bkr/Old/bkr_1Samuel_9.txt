@@ -10,10 +10,10 @@
 "Řekl tedy Saul služebníku svému
 "A když vcházeli na horu města, potkali se s děvečkami, vycházejícími vážit vody. I řekli jim
 "Kteréž odpověděly jim a řekly
-"Hned jakž vejdete do města, tedy naleznete ho, prvé než vstoupí na horu k jídlu. Lid zajisté nebude jísti, dokudž on nepřijde, nebo on požehná obětí, a potom pozvaní jísti budou. A protož jděte, nebo v tuto chvíli naleznete ho."
+"Hned jakž vejdete do města, tedy naleznete ho, prvé než vstoupí na horu k jídlu. Lid zajisté nebude jísti, dokudž on #nepřijde, nebo on požehná obětí, a potom pozvaní jísti budou. A protož jděte, nebo v tuto chvíli naleznete ho."
 "I šli do města. A když vcházeli do prostřed města, aj, Samuel vycházel proti nim, aby vstoupil na tu horu."
 "Hospodin pak zjevil Samuelovi o jeden den prvé, nežli přišel Saul, řka
-"V tuto chvíli zítra pošli k tobě muže z země Beniamin, kteréhož pomažeš, aby byl vůdce lidu mého Izraelského, a vysvobodíť lid můj z ruky Filistinských; vzhlédlť jsem zajisté na lid svůj, nebo přišlo volání jeho ke mně."
+"V tuto chvíli zítra pošli k tobě muže z země Beniamin, kteréhož pomažeš, aby byl vůdce lidu mého Izraelského, a #vysvobodíť lid můj z ruky Filistinských; vzhlédlť jsem zajisté na lid svůj, nebo přišlo volání jeho ke mně."
 "A když Samuel uzřel Saule, řekl jemu Hospodin
 "Tedy přistoupil Saul k Samuelovi v bráně, a řekl
 "I odpověděl Samuel Saulovi

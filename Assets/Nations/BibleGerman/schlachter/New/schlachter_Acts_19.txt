@@ -6,7 +6,7 @@
 "Und als Paulus ihnen die Hände auflegte, kam der heilige Geist auf sie, und sie redeten in Zungen und weissagten."
 "Es waren aber im ganzen etwa zwölf Männer."
 "Und er ging in die Synagoge und tratöffentlich auf, drei Monate lang, indem er Gespräche hielt und sie betreffs des Reiches Gottes zuüberzeugen versuchte."
-"Da aber etliche verstockt blieben und sich nichtüberzeugen ließen, sondern den Weg vor der Menge lästerten, trennte er sich von ihnen und sonderte die Jünger ab und hielt täglich Gespräche in der Schule des Tyrannus."
+"Da aber etliche verstockt blieben und sich nichtüberzeugen ließen, sondern den Weg vor der Menge lästerten, trennte er #sich von ihnen und sonderte die Jünger ab und hielt täglich Gespräche in der Schule des Tyrannus."
 "Das geschah zwei Jahre lang, so daß alle, die in Asien wohnten, das Wort des Herrn hörten, Juden und Griechen."
 "Und Gott wirkte ungewöhnliche Wunder durch die Hände des Paulus,"
 "so daß sogar Schweißtücher oder Gürtel von seinem Leibe weg auf die Kranken gelegt wurden und die Krankheiten von ihnen wichen und die bösen Geister ausfuhren."
@@ -23,8 +23,8 @@
 "Es entstand aber um jene Zeit ein nicht unbedeutender Aufruhr um des Weges willen."
 "Denn ein gewisser Demetrius, ein Silberschmied, verfertigte silberne Tempel der Diana und verschaffte den Künstlern nicht unbedeutenden Gewinn."
 "Diese versammelte er samt den Arbeitern desselben Faches und sprach
-"Und ihr sehet und höret, daß dieser Paulus nicht allein in Ephesus, sondern fast in ganz Asien viel Volküberredet und abwendig gemacht hat, indem er sagt, das seien keine Götter, die mit Händen gemacht werden."
-"Aber es besteht nicht nur die Gefahr, daß dieses unser Geschäft in Verfall komme, sondern auch, daß der Tempel der großen Göttin Diana für nichts geachtet und zuletzt auch ihre Majestät gestürzt werde, welche doch ganz Asien und der Erdkreis verehrt!"
+"Und ihr sehet und höret, daß dieser Paulus nicht allein in Ephesus, sondern fast in ganz Asien viel #Volküberredet und abwendig gemacht hat, indem er sagt, das seien keine Götter, die mit Händen gemacht werden."
+"Aber es besteht nicht nur die Gefahr, daß dieses unser Geschäft in Verfall komme, sondern auch, daß der Tempel der großen #Göttin Diana für nichts geachtet und zuletzt auch ihre Majestät gestürzt werde, welche doch ganz Asien und der Erdkreis verehrt!"
 "Als sie das hörten, wurden sie voll Zorn und schrieen
 "Und die ganze Stadt kam in Verwirrung, und sie stürmten einmütig ins Theater und rissen die Mazedonier Gajus und Aristarchus, des Paulus Reisegefährten, mit sich."
 "Da aber Paulus unter das Volk gehen wollte, ließen es ihm die Jünger nicht zu."

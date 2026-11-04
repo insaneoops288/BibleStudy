@@ -45,7 +45,7 @@
 "Mutta jos palvelia sanoo sydämessänsä
 "Niin tulee palvelian herra sinä päivänä, jona ei hän luulekaan, ja sillä hetkellä, jota ei hän tiedä, ja eroittaa hänen, ja antaa hänelle osan uskottomain kanssa."
 "Mutta sen palvelian, joka tiesi Herransa tahdon, ja ei itsiänsä valmistanut eikä tehnyt hänen tahtonsa jälkeen, täytyy paljon haavoja kärsiä."
-"Joka taas ei tietänyt, ja kuitenkin teki haavain ansion, sen pitää vähemmän haavoja kärsimän; sillä kenelle paljo annettu on, siltä paljon etsitään, ja jonka haltuun paljo on annettu, sitä enempi anotaan."
+"Joka taas ei tietänyt, ja kuitenkin teki haavain ansion, sen pitää vähemmän haavoja kärsimän; sillä kenelle #paljo annettu on, siltä paljon etsitään, ja jonka haltuun paljo on annettu, sitä enempi anotaan."
 "Minä tuli sytyttämään tulta maan päälle, ja mitä minä tahdon, vaan että se jo palais?"
 "Mutta minun pitää kasteella kastettaman, ja kuinka minä ahdistetaan siihenasti että se täytetään?"
 "Luuletteko, että minä tulin rauhaa lähettämään maan päälle? En, sanon minä teille, vaan eripuraisuutta."
@@ -55,5 +55,5 @@
 "Ja kuin te näette etelän tuulevan, niin te sanotte
 "Te ulkokullatut, maan ja taivaan muodon te taidatte koetella, miksi ette siis tätä aikaa koettele?"
 "Minkätähden siis ette myös itsestänne tuomitse, mikä oikia on?"
-"Sillä kuin sinä menet riitaveljes kanssa esivallan eteen, niin pyydä tiellä hänestä päästä; ettei hän sinua tuomarin eteen vetäisi, ja tuomari antais sinua ylön pyövelille, ja pyöveli heittäis sinun torniin."
+"Sillä kuin sinä menet riitaveljes kanssa esivallan eteen, niin pyydä tiellä hänestä päästä; ettei hän sinua #tuomarin eteen vetäisi, ja tuomari antais sinua ylön pyövelille, ja pyöveli heittäis sinun torniin."
 "Minä sanon sinulle

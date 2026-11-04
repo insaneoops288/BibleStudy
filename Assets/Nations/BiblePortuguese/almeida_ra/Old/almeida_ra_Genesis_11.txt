@@ -28,5 +28,5 @@
 "Haran morreu antes de seu pai Tera, na terra do seu nascimento, em Ur dos Caldeus."
 "Abrão e Naor tomaram mulheres para si
 "Sarai era estéril; não tinha filhos."
-"Tomou Tera a Abrão seu filho, e a Lot filho de Haran, filho de seu filho, e a Sarai sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos Caldeus, a fim de ir para a terra de Canaã; e vieram até Haran, e ali habitaram."
+"Tomou Tera a Abrão seu filho, e a Lot filho de Haran, filho de seu filho, e a Sarai sua nora, mulher de seu filho Abrão, #e saiu com eles de Ur dos Caldeus, a fim de ir para a terra de Canaã; e vieram até Haran, e ali habitaram."
 "Foram os dias de Tera duzentos e cinco anos; e morreu Tera em Haran."

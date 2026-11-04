@@ -1,4 +1,4 @@
-"Y Saulo consentía en su muerte. Y en aquel tiempo fue hecha una gran persecución contra la iglesia que estaba en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles."
+"Y Saulo consentía en su muerte. Y en aquel tiempo fue hecha una gran persecución contra la iglesia que #estaba en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles."
 "Y unos varones piadosos llevaron a [enterrar] a Esteban, e hicieron gran lamentación por él."
 "Y Saulo asolaba la iglesia, y entraba por las casas, arrastrando hombres y mujeres, y los entregaba en la cárcel."
 "Pero los que fueron esparcidos, iban por todas partes predicando la palabra."
@@ -24,7 +24,7 @@
 "Respondiendo entonces Simón, dijo
 "Y ellos, habiendo testificado y predicado la palabra del Señor, se volvieron a Jerusalén, y en muchas aldeas de los samaritanos predicaron el evangelio."
 "Y el ángel del Señor habló a Felipe, diciendo
-"Entonces él se levantó, y fue. Y he aquí un etíope, eunuco, hombre de gran autoridad bajo Candace reina de los etíopes, el cual estaba a cargo de todos sus tesoros; y había venido a Jerusalén para adorar,"
+"Entonces él se levantó, y fue. Y he aquí un etíope, eunuco, hombre de gran autoridad bajo Candace reina de #los etíopes, el cual estaba a cargo de todos sus tesoros; y había venido a Jerusalén para adorar,"
 "se volvía, y sentado en su carro, leía el profeta Isaías."
 "Y el Espíritu dijo a Felipe
 "Y corriendo Felipe [hacia él], le oyó que leía el profeta Isaías, y [le] dijo

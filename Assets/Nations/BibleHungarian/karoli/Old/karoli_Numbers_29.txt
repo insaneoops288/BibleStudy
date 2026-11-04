@@ -3,7 +3,7 @@
 "És azokhoz ételáldozatul olajjal elegyített három tized [efa] lisztlángot a tulok mellé, két tizedrészt a kos mellé;"
 "És egy-egy tizedrészt egy-egy bárány mellé, a hét bárány szerint;"
 "És egy kecskebakot bûnért való áldozatul, hogy engesztelés legyen értetek,"
-"az újhold egészen égõáldozatján és annak ételáldozatján kivül, és a szüntelen való egészen égõáldozaton és annak ételáldozatján, és azoknak italáldozatjokon kivül, az õ rendjök szerint, kedves illatú tûzáldozatul az Úrnak."
+"az újhold egészen égõáldozatján és annak ételáldozatján kivül, és a szüntelen való egészen égõáldozaton és annak #ételáldozatján, és azoknak italáldozatjokon kivül, az õ rendjök szerint, kedves illatú tûzáldozatul az Úrnak."
 "E hetedik hónapnak tizedik napján is szent gyülekezésetek legyen néktek; és sanyargassátok meg magatokat, semmi munkát ne végezzetek;"
 "És vigyetek az Úrnak kedves illatú egészen égõáldozatul
 "És azoknak ételáldozatául olajjal elegyített három tized [efa] lisztlángot a tulok mellé; két tizedrészt az egy kos mellé;"
@@ -36,5 +36,5 @@
 "Hanem vigyetek az Úrnak egészen égõáldozatot, kedves illatú tûzáldozatul
 "Azoknak ételáldozatjokat és italáldozatjokat, a tulok mellé, a kos mellé, és a bárányok mellé, az õ számok szerint, a szokás szerint;"
 "És egy bakot bûnért való áldozatul, a szüntelen való egészen égõáldozaton, annak ételáldozatján és italáldozatján kívül."
-"Ezeket áldozzátok az Úrnak a ti ünnepeiteken, azokon kívül, a miket fogadásból, és szabad akaratból áldoztok, a ti egészen égõáldozataitokul, ételáldozataitokul, italáldozataitokul, és hálaáldozataitokul."
+"Ezeket áldozzátok az Úrnak a ti ünnepeiteken, azokon kívül, a miket fogadásból, és #szabad akaratból áldoztok, a ti egészen égõáldozataitokul, ételáldozataitokul, italáldozataitokul, és hálaáldozataitokul."
 "És megmondá Mózes Izráel fiainak mind azokat, a melyeket az Úr parancsolt vala Mózesnek."

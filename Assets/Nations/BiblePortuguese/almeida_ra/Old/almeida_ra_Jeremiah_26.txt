@@ -12,11 +12,11 @@
 "E falou Jeremias a todos os príncipes e a todo o povo, dizendo
 "Agora, pois, melhorai os vossos caminhos e as vossas acções, e ouvi a voz do Senhor vosso Deus, e o Senhor desistirá do mal que falou contra vós."
 "Quanto a mim, eis que estou nas vossas mãos; fazei de mim conforme o que for bom e recto aos vossos olhos."
-"Sabei, porém, com certeza que, se me matardes a mim, trareis sangue inocente sobre vós, e sobre esta cidade, e sobre os seus habitantes; porque, na verdade, o Senhor me enviou a vós, para dizer aos vossos ouvidos todas estas palavras."
+"Sabei, porém, com certeza que, se me matardes a mim, trareis sangue inocente sobre vós, e sobre esta cidade, e sobre #os seus habitantes; porque, na verdade, o Senhor me enviou a vós, para dizer aos vossos ouvidos todas estas palavras."
 "Então disseram os príncipes e todo o povo aos sacerdotes e aos profetas
 "Também se levantaram alguns dos anciãos da terra, e falaram a toda a assembleia do povo, dizendo
 "Miqueias de Moréchet, profetizou nos dias de Ezequias, rei de Judá, e falou a todo o povo de Judá, dizendo
-"Mataram-no, porventura, Ezequias, rei de Judá, e todo o Judá? Antes não temeu este ao Senhor, e não implorou o favor do Senhor? e não se arrependeu o Senhor do mal que falara contra eles? Mas nós estamos fazendo um grande mal contra as nossas almas."
+"Mataram-no, porventura, Ezequias, rei de Judá, e todo o Judá? Antes não temeu este ao Senhor, e não implorou o favor do Senhor? e #não se arrependeu o Senhor do mal que falara contra eles? Mas nós estamos fazendo um grande mal contra as nossas almas."
 "Também houve outro homem que profetizava em nome do Senhor
 "e quando o rei Jeoiaquim, e todos os seus valentes, e todos os príncipes, ouviram as palavras dele, procurou o rei matá-lo; mas quando Urias o ouviu, temeu, e fugiu, e foi para o Egipto;"
 "mas o rei Jeoiaquim enviou ao Egipto certos homens; Elnatan, filho de Acbor, e outros com ele,"

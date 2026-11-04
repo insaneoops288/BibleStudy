@@ -6,7 +6,7 @@
 "Dhe, kur Pali vuri duart mbi ta, Fryma e Shenjtë zbriti mbi ta dhe ata folën në gjuhë të tjera dhe profetizuan."
 "Dhe gjithsej ishin rreth dymbëdhjetë burra."
 "Pastaj ai hyri në sinagogë dhe u foli lirisht njerëzve tre muaj me radhë, duke diskutuar dhe duke i bindur për gjërat e mbretërisë së Perëndisë."
-"Por, duke qenë se disa ngurtësoheshin dhe nuk besonin dhe flisnin keq për Udhën përpara turmës, ai u shkëput prej tyre, i ndau dishepujt dhe vazhdoi të diskutojë çdo ditë në shkollën e njëfarë Tirani."
+"Por, duke qenë se disa ngurtësoheshin dhe nuk besonin dhe flisnin keq për Udhën përpara turmës, ai u #shkëput prej tyre, i ndau dishepujt dhe vazhdoi të diskutojë çdo ditë në shkollën e njëfarë Tirani."
 "Dhe kjo vazhdoi dy vjet me radhë, kështu që të gjithë banorët e Azisë, Judenj dhe Grekë, e dëgjuan fjalën e Zotit Jezus."
 "Dhe Perëndia bënte mrekulli të jashtëzakonshme me anë të duarve të Palit,"
 "aq sa mbi të sëmurët sillnin peshqirë dhe përparëse që kishin qenë mbi trupin e tij, dhe sëmundjet largoheshin prej tyre dhe frymërat e liga dilnin prej tyre."
@@ -24,7 +24,7 @@
 "sepse një farë njeriu, me emër Dhimitër, argjendar, i cili bënte tempuj të Dianës në argjend, u sillte artizanëve jo pak fitim."
 "Ai i mblodhi këta bashkë me punëtorët që kishin një aktivitet të përafërt, dhe tha
 "Dhe ju shihni dhe dëgjoni se ky Pali ua ka mbushur mendjen dhe ktheu një numër të madh njerëzish jo vetëm në Efes, por gati në mbarë Azinë, duke thënë se nuk janë perëndi ata që janë bërë me duar."
-"Dhe jo vetëm që është rreziku për ne që kjo mjeshtria jonë të diskreditohet, por që edhe tempulli i perëndeshës së madhe Diana të mos vlerësohet më aspak dhe që t'i hiqet madhështia asaj, që gjithë Azia, madje gjithë bota, e nderon''."
+"Dhe jo vetëm që është rreziku për ne që kjo mjeshtria jonë të diskreditohet, por që edhe tempulli i perëndeshës së madhe #Diana të mos vlerësohet më aspak dhe që t'i hiqet madhështia asaj, që gjithë Azia, madje gjithë bota, e nderon''."
 "Ata, kur i dëgjuan këto gjëra, u mbushën me inat dhe bërtisnin, duke thënë
 "Dhe gjithë qyteti u mbush me rrëmujë; dhe si i morën me forcë Gain dhe Aristarkun, Maqedonas, bashkudhëtarë të Palit, rendën të gjithë, me një mendje, në teatër."
 "Dhe Pali donte t'i dilte popullit, por dishepujt nuk e lejonin."

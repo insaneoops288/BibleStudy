@@ -10,7 +10,7 @@
 "di giustizia, perciocchè io me ne vo al Padre mio, e voi non mi vedrete più;"
 "di giudicio, perciocchè il principe di questo mondo è già giudicato."
 "Io ho ancora cose assai a dirvi, ma voi non le potete ora portare."
-"Ma, quando colui sarà venuto, cioè lo Spirito di verità, egli vi guiderà in ogni verità; perciocchè egli non parlerà da sè stesso, ma dirà tutte le cose che avrà udite, e vi annunzierà le cose a venire."
+"Ma, quando colui sarà venuto, cioè lo Spirito di verità, egli vi guiderà in ogni verità; perciocchè egli non parlerà #da sè stesso, ma dirà tutte le cose che avrà udite, e vi annunzierà le cose a venire."
 "Esso mi glorificherà, perciocchè prenderà del mio, e ve l’annunzierà."
 "Tutte le cose che ha il Padre son mie
 "Fra poco voi non mi vedrete; e di nuovo, fra poco voi mi vedrete; perciocchè io me ne vo al Padre."
@@ -18,7 +18,7 @@
 "Dicevano adunque
 "Gesù adunque conobbe che lo volevano domandare, e disse loro
 "In verità, in verità, io vi dico, che voi piangerete, e farete cordoglio; e il mondo si rallegrerà, e voi sarete contristati; ma la vostra tristizia sarà mutata in letizia."
-"La donna, quando partorisce, sente dolori, perciocchè il suo termine è venuto; ma, dopo che ha partorito il fanciullino, ella non si ricorda più dell’angoscia, per l’allegrezza che sia nata una creatura umana al mondo."
+"La donna, quando partorisce, sente dolori, perciocchè il suo termine è venuto; ma, dopo che ha partorito il #fanciullino, ella non si ricorda più dell’angoscia, per l’allegrezza che sia nata una creatura umana al mondo."
 "Voi dunque altresì avete ora tristizia, ma io vi vedrò di nuovo, e il vostro cuore si rallegrerà, e niuno vi torrà la vostra letizia."
 "E in quel giorno voi non mi domanderete di nulla. In verità, in verità, io vi dico, che tutte le cose che domanderete al Padre, nel nome mio, egli ve le darà."
 "Fino ad ora voi non avete domandato nulla nel nome mio; domandate e riceverete, acciocchè la vostra letizia sia compiuta."

@@ -38,5 +38,5 @@
 "És kiálta Jonathán a gyermek után
 "A gyermek pedig semmit sem értett, hanem csak Jonathán és Dávid értették e dolgot."
 "Átadá azután Jonathán fegyverét a gyermeknek, a ki vele volt, és monda néki
-"Mikor pedig elment a gyermek, felkele Dávid a [kõ] déli oldala mellõl és arczczal a földre borula, és háromszor meghajtotta magát; és megcsókolták egymást, és együtt sírtak, mígnem Dávid hangosan zokogott."
+"Mikor pedig elment a gyermek, felkele Dávid a [kõ] déli oldala mellõl és arczczal a földre #borula, és háromszor meghajtotta magát; és megcsókolták egymást, és együtt sírtak, mígnem Dávid hangosan zokogott."
 "Akkor monda Jonathán Dávidnak

@@ -7,7 +7,7 @@
 "Sitälähin nähtiin hän Jakobilta ja sen jälkeen kaikilta apostoleilta."
 "Vaan kaikkein viimein on hän myös minulta nähty, niinkuin keskensyntyneeltä."
 "Sillä minä olen kaikkein huonoin apostolitten seassa enkä ole kelvollinen apostoliksi kutsuttaa, että minä olen Jumalan seurakuntaa vainonnut."
-"Mutta Jumalan armosta minä olen se, mikä minä olen, ja hänen armonsa minun kohtaani ei ole tyhjä ollut, vaan minä olen enemmän työtä tehnyt kuin muut kaikki; mutta en kuitenkaan minä, vaan Jumalan armo, joka minussa on."
+"Mutta Jumalan armosta minä olen se, mikä minä olen, ja hänen armonsa minun kohtaani ei ole tyhjä ollut, vaan #minä olen enemmän työtä tehnyt kuin muut kaikki; mutta en kuitenkaan minä, vaan Jumalan armo, joka minussa on."
 "Olisin siis minä eli he, näin me saarnaamme ja näin te olette myös uskoneet."
 "Mutta jos Kristus saarnataan kuolleista nousseeksi ylös; miksi siis teidän seassanne muutamat sanovat, ettei kuolleitten ylösnousemista ole?"
 "Mutta ellei kuolleitten ylösnousemus ole, niin ei Kristuskaan noussut ylös."

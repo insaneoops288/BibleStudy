@@ -15,7 +15,7 @@
 "Depois de terem comido, perguntou Jesus a Simão Pedro
 "Tornou a perguntar-lhe
 "Perguntou-lhe terceira vez
-"Em verdade, em verdade te digo que, quando eras mais moço, te cingias a ti mesmo, e andavas por onde querias; mas, quando fores velho, estenderás as mãos e outro te cingirá, e te levará para onde tu não queres."
+"Em verdade, em verdade te digo que, quando eras mais moço, te cingias a ti mesmo, e andavas por onde querias; #mas, quando fores velho, estenderás as mãos e outro te cingirá, e te levará para onde tu não queres."
 "Ora, isto ele disse, significando com que morte havia Pedro de glorificar a Deus. E, havendo dito isto, ordenou-lhe
 "E Pedro, virando-se, viu que o seguia aquele discípulo a quem Jesus amava, o mesmo que na ceia se recostara sobre o peito de Jesus e perguntara
 "Ora, vendo Pedro a este, perguntou a Jesus

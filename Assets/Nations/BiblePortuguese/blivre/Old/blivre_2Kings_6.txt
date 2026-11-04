@@ -22,7 +22,7 @@
 "E ele lhe respondeu
 "Então lhes foi preparada grande comida
 "Depois disto aconteceu, que Ben-Hadade rei da Síria juntou todo seu exército, e subiu, e pôs cerco a Samaria."
-"E houve grande fome em Samaria, tendo eles cerco sobre ela; tanto, que a cabeça de um asno era vendida por oitenta peças de prata, e a quarta parte de uma porção de esterco de pombas por cinco peças de prata."
+"E houve grande fome em Samaria, tendo eles cerco sobre ela; tanto, que a cabeça de um asno era vendida por #oitenta peças de prata, e a quarta parte de uma porção de esterco de pombas por cinco peças de prata."
 "E passando o rei de Israel pelo muro, uma mulher lhe deu vozes, e disse
 "E ele disse
 "E disse-lhe o rei

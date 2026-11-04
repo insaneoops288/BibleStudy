@@ -55,5 +55,5 @@
 "E quando venta do sul, dizeis
 "Hipócritas! Sabeis entender a aparência da terra e do céu; e como não entendeis este tempo?"
 "E por que também não julgais por vós mesmos o que é justo?"
-"Pois quando fores com teu adversário à autoridade, procura te livrares dele no caminho, para que ele não venha a te levar ao juiz, e o juiz te entregue ao oficial de justiça, e o oficial de justiça te lance na prisão."
+"Pois quando fores com teu adversário à autoridade, procura te livrares dele no caminho, para que ele não venha a te levar #ao juiz, e o juiz te entregue ao oficial de justiça, e o oficial de justiça te lance na prisão."
 "Eu te digo que não sairás dali enquanto não pagares até a última moeda."

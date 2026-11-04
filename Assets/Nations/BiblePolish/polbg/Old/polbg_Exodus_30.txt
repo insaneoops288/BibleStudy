@@ -7,7 +7,7 @@
 "A będzie kadził na nim Aaron kadzeniem z wonnych rzeczy na każdy poranek; przygotowawszy lampy, będzie kadził."
 "Także gdy rozpali Aaron lampy między dwoma wieczorami, kadzić będzie kadzeniem ustawicznem przed Panem w narodziech waszych."
 "Nie włożycie nań kadzidła obcego, ani całopalenia, ani ofiary suchej; ani ofiary mokrej ofiarować będziecie na nim."
-"Tylko wykona oczyszczenie Aaron nad rogami jego raz w rok; przez krew ofiary za grzech, w dzień oczyszczenia, raz w rok oczyszczenie odprawi na nim w narodziech waszych; bo to rzecz najświętsza Panu."
+"Tylko wykona oczyszczenie Aaron nad rogami jego raz w rok; przez krew ofiary za grzech, w dzień #oczyszczenia, raz w rok oczyszczenie odprawi na nim w narodziech waszych; bo to rzecz najświętsza Panu."
 "Zatem rzekł Pan do Mojżesza, mówiąc
 "Gdy zbierzesz główną sumę synów Izraelskich, z tych, którzy mają iść w liczbę, da każdy okup za duszę swą Panu, gdy je liczyć będziesz, aby nie przyszła na nie plaga, gdy zliczeni będą."
 "To dawać będą

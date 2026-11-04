@@ -18,7 +18,7 @@
 "deitaram mão nos apóstolos, e os puseram na prisão pública."
 "Mas de noite um anjo do Senhor abriu as portas do cárcere e, tirando-os para fora, disse
 "Ide, apresentai-vos no templo, e falai ao povo todas as palavras desta vida."
-"Ora, tendo eles ouvido isto, entraram de manhã cedo no templo e ensinavam. Chegando, porém o sumo sacerdote e os que estavam com ele, convocaram o sinédrio, com todos os anciãos dos filhos de Israel, e enviaram guardas ao cárcere para trazê-los."
+"Ora, tendo eles ouvido isto, entraram de manhã cedo no templo e ensinavam. Chegando, porém o sumo sacerdote e os que estavam #com ele, convocaram o sinédrio, com todos os anciãos dos filhos de Israel, e enviaram guardas ao cárcere para trazê-los."
 "Mas os guardas, tendo lá ido, não os acharam na prisão; e voltando, lho anunciaram,"
 "dizendo
 "E quando o capitão do templo e os principais sacerdotes ouviram estas palavras ficaram perplexos acerca deles e do que viria a ser isso."

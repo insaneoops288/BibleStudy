@@ -4,7 +4,7 @@
 "Ez a tisztök Kéhát fiainak a gyülekezet sátorában
 "Áron és az õ fiai pedig, mikor indulni akar a tábor, menje[nek] be, és vegyék le a takaró függönyt, és takarják be azzal a bizonyság ládáját."
 "És tegyenek arra borzbõrbõl csinált takarót, és borítsák azt be egészen kékszínû ruhával felülrõl, és dugják belé a rúdjait is."
-"A szent [kenyerek] asztalát is borítsák be kékszínû ruhával, azon felül tegyék rá a tálakat, a csészéket, a kelyheket, és az italáldozathoz való kancsókat, és ama szüntelen való kenyér is rajta legyen."
+"A szent [kenyerek] asztalát is borítsák be kékszínû ruhával, azon felül tegyék rá a tálakat, a csészéket, #a kelyheket, és az italáldozathoz való kancsókat, és ama szüntelen való kenyér is rajta legyen."
 "Azután borítsanak azokra karmazsinszínû ruhát, és takarják be azt borzbõrbõl való takaróval, és dugják belé a rúdjait is."
 "Vegyenek azután kékszínû ruhát, és takarják be a világításra való gyertyatartót és annak mécseit, hamvvevõit, hamutartóit és minden olajos edényét, a melyekkel szolgálnak körülte."
 "És tegyék azt és minden edényét borzbõrbõl csinált takaróba, és tegyék saroglyára."
@@ -23,13 +23,13 @@
 "A harmincz esztendõstõl és azon felül az ötven esztendõsig számláld meg õket; mindenkit, a ki szolgálatot teljesíteni való, hogy szolgáljon a gyülekezet sátorában."
 "Ez legyen munkájok a Gersoniták nemzetségeinek a szolgálatban és a teher[hordozás]ban
 "Hordozzák a hajlék kárpitjait és a gyülekezet sátorát, annak takaróját és a borzbõrbõl csinált takarót, a mely rajta van felül, és a gyülekezet sátora nyilásának leplét."
-"És a pitvar szõnyegeit, és a pitvar kapunyílásának leplét, a melyek a hajlékon és az oltáron köröskörül vannak, azoknak köteleit, és az õ szolgálatjokhoz való minden edényt; és mindazt, a mi tenni való azokkal, õk teljesítsék."
+"És a pitvar szõnyegeit, és a pitvar kapunyílásának leplét, a melyek a hajlékon és az oltáron köröskörül vannak, azoknak #köteleit, és az õ szolgálatjokhoz való minden edényt; és mindazt, a mi tenni való azokkal, õk teljesítsék."
 "Áronnak és az õ fiainak beszéde szerint legyen a Gersoniták fiainak minden szolgálatjok, minden terhökre és minden szolgálatjokra nézve; minden terhöket pedig az õ õrizetökre bízzátok."
 "Ez a Gersoniták fiai nemzetségének szolgálata a gyülekezet sátorában; az õ szolgálatuk pedig legyen az Áron pap fiának, Ithamárnak keze alatt."
 "A Mérári fiait is az õ nemzetségeik szerint, az õ atyjoknak háznépei szerint számláld meg."
 "A harmincz esztendõstõl és annál feljebb az ötven esztendõsig számláld meg õket; mindenkit, a ki szolgálatra való, hogy szolgálatot végezzen a gyülekezet sátorában."
 "Ezek pedig, a mikre ügyelniök kell a továbbvitelnél [és] a gyülekezet sátorában való minden szolgálatuknál
-"A pitvarnak is köröskörül való oszlopai és azok talpai, szegei és kötelei, azoknak minden szerszámai, és minden szolgálatjok[hoz való]. Név szerint is megszámláljátok az edényeket, a mikre a továbbvitelnél ügyelniök kell."
+"A pitvarnak is köröskörül való oszlopai és azok talpai, szegei és kötelei, azoknak minden szerszámai, és #minden szolgálatjok[hoz való]. Név szerint is megszámláljátok az edényeket, a mikre a továbbvitelnél ügyelniök kell."
 "Ez legyen szolgálatuk a Mérári fiai nemzetségeinek, a melylyel szolgáljanak a gyülekezet sátorában, Ithamárnak, az Áron pap fiának vezetése alatt."
 "És megszámlálá Mózes és Áron és a gyülekezet fejedelmei a Kéhátiták fiait, az õ nemzetségök szerint és az õ atyjoknak háznépe szerint,"
 "A harmincz esztendõstõl és annál feljebb, az ötven esztendõsig mindenkit, a ki szolgálatra való, hogy szolgáljon a gyülekezet sátorában."

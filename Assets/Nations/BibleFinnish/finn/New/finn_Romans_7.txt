@@ -10,7 +10,7 @@
 "Ja minä kuolin
 "Sillä synti, joka otti tilan käskystä, petti minun ja tappoi sen kautta."
 "Laki on kuitenkin itsestänsä pyhä ja käsky on myös pyhä, oikia ja hyvä."
-"Onko siis se, mikä hyvä on, minulle kuolemaksi tullut? Pois se! Mutta että synti synniksi nähtäisiin, on hän minulle hyvän kautta kuoleman saattanut, että synti ylitse määrän synniksi tulis, käskyn kautta."
+"Onko siis se, mikä hyvä on, minulle kuolemaksi tullut? Pois se! Mutta että synti synniksi nähtäisiin, #on hän minulle hyvän kautta kuoleman saattanut, että synti ylitse määrän synniksi tulis, käskyn kautta."
 "Sillä me tiedämme, että laki on hengellinen
 "Sillä en minä tiedä, mitä minä teen, etten minä tee sitä, mitä minä tahdon, vaan sitä, mitä minä vihaan, teen minä."
 "Mutta jos minä teen, jota en minä tahdo, niin minä suostun lakiin, että se on hyvä."

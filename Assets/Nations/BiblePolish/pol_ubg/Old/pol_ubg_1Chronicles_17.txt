@@ -18,7 +18,7 @@
 "Co więcej może ci powiedzieć Dawid za taką chwałę okazaną twemu słudze? Ty bowiem znasz swego sługę."
 "PANIE, przez wzgląd na swego sługę i według swego serca uczyniłeś te wszystkie wielkie rzeczy, dając poznać te wszystkie wspaniałe sprawy."
 "PANIE, nie ma nikogo podobnego do ciebie i nie ma Boga oprócz ciebie według wszystkiego, co słyszeliśmy na własne uszy."
-"I czy jest taki naród na ziemi, jak twój lud Izrael, dla którego Bóg wyruszył, aby go sobie wykupić jako swój lud, a przez to uczynić swoje imię wielkim i straszliwym, wypędzając narody przed swoim ludem, który wykupiłeś z Egiptu?"
+"I czy jest taki naród na ziemi, jak twój lud Izrael, dla którego Bóg wyruszył, aby go sobie wykupić jako swój #lud, a przez to uczynić swoje imię wielkim i straszliwym, wypędzając narody przed swoim ludem, który wykupiłeś z Egiptu?"
 "Uczyniłeś bowiem twój lud Izraela swoim ludem na wieki i ty, PANIE, stałeś się jego Bogiem."
 "Teraz więc, PANIE, niech słowo, które wypowiedziałeś o swoim słudze i o jego domu, będzie utwierdzone na wieki i uczyń, jak powiedziałeś."
 "Niech stanie się tak, aby twoje imię było uwielbione na wieki, aby mówiono

@@ -10,10 +10,10 @@
 "Și l-au recunoscut că era cel care ședea pentru milostenii la poarta Frumoasă a templului; și au fost umpluți de mirare și uimire la ceea ce i s-a întâmplat."
 "Și pe când ologul care fusese vindecat se ținea de Petru și Ioan, tot poporul alerga împreună la ei în porticul numit al lui Solomon, minunându-se tare."
 "Și când a văzut Petru, a răspuns poporului
-"Dumnezeul lui Avraam și al lui Isaac și al lui Iacob, Dumnezeul părinților noștri, l-a glorificat pe Fiul său Isus; pe care voi l-ați trădat și l-ați negat în prezența lui Pilat, când el era hotărât să [îi] dea drumul."
+"Dumnezeul lui Avraam și al lui Isaac și al lui Iacob, Dumnezeul părinților noștri, l-a glorificat pe Fiul său Isus; pe #care voi l-ați trădat și l-ați negat în prezența lui Pilat, când el era hotărât să [îi] dea drumul."
 "Dar voi l-ați negat pe Cel Sfânt și Drept și ați dorit să vă fie dat un ucigaș;"
 "Și l-ați ucis pe Prințul vieții, pe care Dumnezeu l-a înviat dintre morți; pentru care noi suntem martori."
-"Și prin credința în numele lui, numele lui l-a întărit pe acest om, pe care îl vedeți și [îl ]cunoașteți; chiar credința care este prin el i-a dat această sănătate deplină în prezența voastră a tuturor."
+"Și prin credința în numele lui, numele lui l-a întărit pe acest om, pe care îl vedeți și [îl #]cunoașteți; chiar credința care este prin el i-a dat această sănătate deplină în prezența voastră a tuturor."
 "Și acum, fraților, știu că prin ignoranță ați practicat [acestea], precum și conducătorii voștri."
 "Dar lucrurile acelea, pe care Dumnezeu le-a arătat dinainte prin gura tuturor profeților săi, că Cristos va suferi, le-a împlinit așa."
 "De aceea pocăiți-vă și întoarceți-vă, ca păcatele voastre să fie șterse când vor veni timpurile de înviorare din prezența Domnului;"

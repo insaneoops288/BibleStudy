@@ -15,7 +15,7 @@
 "Izażeśmy za obce nie były poczytane u niego? Iż nas przedał; i miałże by jeszcze do szczętu zjeść majętność naszę?"
 "Albowiem wszystko bogactwo, które odjął Bóg ojcu naszemu, nasze jest, i synów naszych; przetoż teraz wszystko uczyń, coć Bóg rozkazał."
 "Wstał tedy Jakób, i wsadził syny swe, i żony swe na wielbłądy."
-"I zabrał wszystkę trzodę swoję, i wszystkę majętność swoję, której był nabył, dobytek nabycia swego, którego był nabył w krainie Syryjskiej, aby się wrócił do Izaaka, ojca swego, do ziemi Chananejskiej."
+"I zabrał wszystkę trzodę swoję, i wszystkę majętność swoję, której był nabył, dobytek nabycia swego, którego #był nabył w krainie Syryjskiej, aby się wrócił do Izaaka, ojca swego, do ziemi Chananejskiej."
 "A Laban odszedł był strzyc owce swoje
 "I wykradł się Jakób potajemnie od Labana Syryjczyka, tak że mu nie oznajmił, iż uciekał."
 "I uciekł sam ze wszystkiem co miał, a wstawszy przeprawił się przez rzekę, i udał się ku górze Galaad."
@@ -39,7 +39,7 @@
 "Rozszarpanego od zwierza nie przyniosłem ci, jam szkodę nagradzał; z ręki mojej szukałeś tego, co było ukradzione we dnie, i co było ukradzione w nocy."
 "Bywało to, że we dnie trapiło mię gorąco, a mróz w nocy, tak, że odchadzał sen mój od oczu moich."
 "Jużem ci dwadzieścia lat w domu twoim służył; czternaście lat za dwie córki twoje, a sześć lat za bydło twoje; a odmieniałeś zapłatę moję po dziesięć kroć."
-"I by był Bóg ojca mego, Bóg Abrahama, i strach Izaaka, nie był przy mnie, pewnie byś mię był teraz próżnego puścił; ale na utrapienie moje, i na pracę rąk moich wejrzał Bóg, i przestrzegał cię nocy przeszłej."
+"I by był Bóg ojca mego, Bóg Abrahama, i strach Izaaka, nie był przy mnie, pewnie byś mię był teraz #próżnego puścił; ale na utrapienie moje, i na pracę rąk moich wejrzał Bóg, i przestrzegał cię nocy przeszłej."
 "Tedy odpowiedział Laban, i rzekł do Jakóba
 "Pójdźże tedy, a uczyńmy przymierze, ja i ty, a będzie świadectwo między mną, i między tobą."
 "I wziął Jakób kamień, a postawił go na znak."

@@ -22,12 +22,12 @@
 "Ich aber sage euch
 "Wenn du nun deine Gabe zum Altar bringst und daselbst eingedenk wirst, daß dein Bruder etwas wider dich habe,"
 "so laß deine Gabe dort vor dem Altar und gehe zuvor hin und versöhne dich mit deinem Bruder und alsdann komm und opfere deine Gabe."
-"Sei deinem Widersacher bald geneigt, während du noch mit ihm auf dem Wege bist; damit der Widersacher dich nicht etwa dem Richterüberantworte, und der Richter dich dem Gerichtsdienerübergebe, und du ins Gefängnis geworfen werdest."
+"Sei deinem Widersacher bald geneigt, während du noch mit ihm auf dem Wege bist; damit der Widersacher dich #nicht etwa dem Richterüberantworte, und der Richter dich dem Gerichtsdienerübergebe, und du ins Gefängnis geworfen werdest."
 "Wahrlich, ich sage dir, du wirst von dort nicht herauskommen, bis du den letzten Heller bezahlt hast!"
 "Ihr habt gehört, daß zu den Alten gesagt ist
 "Ich aber sage euch
-"Wenn dir aber dein rechtes Auge ein Anstoß zur Sünde wird, so reiß es aus und wirf es von dir. Denn es ist besser für dich, daß eins deiner Glieder verloren gehe, als daß dein ganzer Leib in die Hölle geworfen werde."
-"Und wenn deine rechte Hand für dich ein Anstoß zur Sünde wird, so haue sie ab und wirf sie von dir. Denn es ist besser für dich, daß eins deiner Glieder verloren gehe, als daß dein ganzer Leib in die Hölle geworfen werde."
+"Wenn dir aber dein rechtes Auge ein Anstoß zur Sünde wird, so reiß es aus und wirf es von dir. Denn es #ist besser für dich, daß eins deiner Glieder verloren gehe, als daß dein ganzer Leib in die Hölle geworfen werde."
+"Und wenn deine rechte Hand für dich ein Anstoß zur Sünde wird, so haue sie ab und wirf sie von dir. Denn #es ist besser für dich, daß eins deiner Glieder verloren gehe, als daß dein ganzer Leib in die Hölle geworfen werde."
 "Es ist auch gesagt
 "Ich aber sage euch
 "Wiederum habt ihr gehört, daß zu den Alten gesagt ist

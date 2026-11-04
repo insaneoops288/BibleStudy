@@ -9,13 +9,13 @@
 "Akulah pintu; barangsiapa masuk melalui Aku, ia akan selamat dan ia akan masuk dan keluar dan menemukan padang rumput."
 "Pencuri datang hanya untuk mencuri dan membunuh dan membinasakan; Aku datang, supaya mereka mempunyai hidup, dan mempunyainya dalam segala kelimpahan."
 "Akulah gembala yang baik. Gembala yang baik memberikan nyawanya bagi domba-dombanya;"
-"sedangkan seorang upahan yang bukan gembala, dan yang bukan pemilik domba-domba itu sendiri, ketika melihat serigala datang, meninggalkan domba-domba itu lalu lari, sehingga serigala itu menerkam dan mencerai-beraikan domba-domba itu."
+"sedangkan seorang upahan yang bukan gembala, dan yang bukan pemilik domba-domba itu sendiri, ketika melihat serigala #datang, meninggalkan domba-domba itu lalu lari, sehingga serigala itu menerkam dan mencerai-beraikan domba-domba itu."
 "Ia lari karena ia seorang upahan dan tidak memperhatikan domba-domba itu."
 "Akulah gembala yang baik dan Aku mengenal domba-domba-Ku dan domba-domba-Ku mengenal Aku"
 "sama seperti Bapa mengenal Aku dan Aku mengenal Bapa, dan Aku memberikan nyawa-Ku bagi domba-domba-Ku."
 "Ada lagi pada-Ku domba-domba lain, yang bukan dari kandang ini; domba-domba itu harus Kutuntun juga dan mereka akan mendengarkan suara-Ku dan mereka akan menjadi satu kawanan dengan satu gembala."
 "Bapa mengasihi Aku, oleh karena Aku memberikan nyawa-Ku untuk menerimanya kembali."
-"Tidak seorangpun mengambilnya dari pada-Ku, melainkan Aku memberikannya menurut kehendak-Ku sendiri. Aku berkuasa memberikannya dan berkuasa mengambilnya kembali. Inilah tugas yang Kuterima dari Bapa-Ku."""
+"Tidak seorangpun mengambilnya dari pada-Ku, melainkan Aku memberikannya menurut kehendak-Ku sendiri. Aku berkuasa #memberikannya dan berkuasa mengambilnya kembali. Inilah tugas yang Kuterima dari Bapa-Ku."""
 "Maka timbullah pula pertentangan di antara orang-orang Yahudi karena perkataan itu. Banyak di antara mereka berkata
 """Ia kerasukan setan dan gila; mengapa kamu mendengarkan Dia?"""
 "Yang lain berkata
@@ -35,7 +35,7 @@
 "Jikalau mereka, kepada siapa firman itu disampaikan, disebut allah,sedang Kitab Suci tidak dapat dibatalkan,,"
 "masihkah kamu berkata kepada Dia yang dikuduskan oleh Bapa dan yang telah diutus-Nya ke dalam dunia
 "Jikalau Aku tidak melakukan pekerjaan-pekerjaan Bapa-Ku, janganlah percaya kepada-Ku,"
-"tetapi jikalau Aku melakukannya dan kamu tidak mau percaya kepada-Ku, percayalah akan pekerjaan-pekerjaan itu, supaya kamu boleh mengetahui dan mengerti, bahwa Bapa di dalam Aku dan Aku di dalam Bapa."""
+"tetapi jikalau Aku melakukannya dan kamu tidak mau percaya kepada-Ku, percayalah akan pekerjaan-pekerjaan itu, supaya kamu #boleh mengetahui dan mengerti, bahwa Bapa di dalam Aku dan Aku di dalam Bapa."""
 "Sekali lagi mereka mencoba menangkap Dia, tetapi Ia luput dari tangan mereka."
 "Kemudian Yesus pergi lagi ke seberang Yordan, ke tempat Yohanes membaptis dahulu, lalu Ia tinggal di situ."
 "Dan banyak orang datang kepada-Nya dan berkata

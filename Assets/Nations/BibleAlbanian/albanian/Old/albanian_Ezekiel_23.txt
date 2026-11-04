@@ -20,13 +20,13 @@
 "Mori zjarr për dashnorët e saj, mishi i të cilëve është si mishi i gomarëve dhe rrjedhja e të cilëve është si rrjedhja e kuajve."
 "Kështu ti kujtove shthurjen e rinisë sate, kur Egjiptasit shtrëngonin gjirin tënd për shkak të gjive të tu rinorë."
 "Prandaj, Oholibahu, kështu thotë Zoti, Zoti
-"bijtë e Babilonisë dhe gjithë Kaldeasit, ata të Pekodit, Shoas dhe Koas, tërë bijtë e Asirisë bashkë me ta, tërë të rinjtë tërheqës, qeveritarët dhe princat, kapitenët dhe njerëzit e famshëm, të gjithë të hipur mbi kuaj."
-"Ata do të vijnë kundër teje me armë, qerre dhe rrota si dhe me një shumicë popujsh; do të vendosin rreth e qark teje mburoja të vogla dhe të mëdha dhe përkrenare. Do t'u jap atyre gjykimin e tyre dhe ata do të gjykojnë sipas ligjeve të tyre."
-"Do të drejtoj xhelozinë time kundër teje, dhe ata do të të trajtojnë me tërbim; do të të heqin hundën dhe veshët, dhe mbeturinat e tua do të bien nga shpata; do të marrin bijtë e tu dhe bijat e tua dhe mbeturinat e tua do të gllabërohen nga zjarri."
+"bijtë e Babilonisë dhe gjithë Kaldeasit, ata të Pekodit, Shoas dhe Koas, tërë bijtë e Asirisë bashkë me ta, #tërë të rinjtë tërheqës, qeveritarët dhe princat, kapitenët dhe njerëzit e famshëm, të gjithë të hipur mbi kuaj."
+"Ata do të vijnë kundër teje me armë, qerre dhe rrota si dhe me një shumicë popujsh; do të vendosin rreth e qark teje mburoja #të vogla dhe të mëdha dhe përkrenare. Do t'u jap atyre gjykimin e tyre dhe ata do të gjykojnë sipas ligjeve të tyre."
+"Do të drejtoj xhelozinë time kundër teje, dhe ata do të të trajtojnë me tërbim; do të të heqin hundën dhe veshët, dhe mbeturinat e tua #do të bien nga shpata; do të marrin bijtë e tu dhe bijat e tua dhe mbeturinat e tua do të gllabërohen nga zjarri."
 "Do të të zhveshin nga rrobat e tua dhe do të të marrin xhevahiret e tu të bukur."
 "Kështu do të marrin fund shthurja jote dhe kurvërimi yt që nisën në vendin e Egjiptit; nuk do t'i ngresh më sytë drejt tyre dhe nuk do ta kujtosh më Egjiptin""."
 "Sepse kështu thotë Zoti, Zoti
-"Do të të trajtojnë me urrejtje, do të të marrin tërë frytin e punës sate dhe do të të lënë lakuriqe dhe nevojtare. Do të dalë në shesh poshtërsia e kurvërimeve të tua, po, shthurja e kurvërimeve të tua."
+"Do të të trajtojnë me urrejtje, do të të marrin tërë frytin e punës sate dhe do të të lënë #lakuriqe dhe nevojtare. Do të dalë në shesh poshtërsia e kurvërimeve të tua, po, shthurja e kurvërimeve të tua."
 "Këto gjëra do t'i bëjnë sepse je kurvëruar duke u shkuar pas kombeve, sepse je ndotur me idhujt e tyre."
 "Ti ke ecur në rrugën e motrës sate, prandaj do të të vë në dorë po atë kupë""."
 "Kështu thotë Zoti, Zoti
@@ -37,9 +37,9 @@
 "Në fakt kanë kryer shkelje kurore, kanë gjak mbi duart e tyre, kanë kryer shkelje kurore me idhujt e tyre, madje i kanë kaluar nëpër zjarr që të gllabërohen, bijtë e tyre që më kishin lindur."
 "Edhe këtë më kanë bërë
 "Mbasi ua flijuan bijtë e vet idhujve të tyre, po atë ditë erdhën në shenjtëroren time për ta përdhosur; ja çfarë kanë bërë në mes të tempullit tim."
-"Përveç kësaj dërguan të thërrasin njerëz nga vende të largëta, të cilëve u dërguan lajmëtarë; dhe ja, ata erdhën. Për ta u lave, i ngjeve sytë dhe u veshe me rroba të zbukuruara me stoli të shkëlqyera."
+"Përveç kësaj dërguan të thërrasin njerëz nga vende të largëta, të cilëve u dërguan lajmëtarë; dhe ja, ata erdhën. #Për ta u lave, i ngjeve sytë dhe u veshe me rroba të zbukuruara me stoli të shkëlqyera."
 "U shtrive mbi një shtrat madhështor para të cilit ishte shtruar një tryezë dhe mbi këtë vure tejmanin tim dhe vajin tim."
-"Rreth saj ishte zhurma e një morie njerëzish të shkujdesur; së bashku me turmën suallën edhe të dehur nga shkretëtira, që vunë byzylykë në kyçet e dorës dhe kurora të mrekullueshme mbi kokat e tyre."
+"Rreth saj ishte zhurma e një morie njerëzish të shkujdesur; së bashku me turmën suallën edhe të dehur #nga shkretëtira, që vunë byzylykë në kyçet e dorës dhe kurora të mrekullueshme mbi kokat e tyre."
 "Pastaj thashë për atë që kishte një përvojë të madhe në shkeljet e kurorës
 "Pastaj ata hynë tek ajo siç i hyhet një prostitute; kështu hynë tek Oholahu dhe Oholibahu, gra të shthurura."
 "Por njerëz të drejtë do t'i gjykojnë ashtu si gjykohen shkelëset e kurorës, ashtu si gjykohen gratë që derdhin gjak, sepse janë shkelëse të kurorës dhe kanë gjak mbi duart e tyre""."

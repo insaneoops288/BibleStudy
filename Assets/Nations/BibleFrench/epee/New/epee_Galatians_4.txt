@@ -6,7 +6,7 @@
 "Et, parce que vous êtes fils, Dieu a envoyé dans vos cœurs l'Esprit de son Fils, lequel crie
 "C'est pourquoi tu n'es plus esclave, mais fils, et si tu es fils, tu es aussi héritier de Dieu par Christ."
 "Mais alors, à la vérité, ne connaissant point Dieu, vous serviez des dieux qui n'en sont point de leur nature."
-"Et maintenant que vous avez connu Dieu, ou plutôt que vous avez été connus de Dieu, comment retournez-vous encore à ces faibles et misérables rudiments, auxquels vous voulez vous soumettre de nouveau?"
+"Et maintenant que vous avez connu Dieu, ou plutôt que vous avez été connus de Dieu, comment #retournez-vous encore à ces faibles et misérables rudiments, auxquels vous voulez vous soumettre de nouveau?"
 "Vous observez les jours, les mois, les temps et les années."
 "Je crains pour vous que je n'aie travaillé en vain à votre égard."
 "Soyez comme moi, car moi aussi j'ai été comme vous; je vous en prie, frères."

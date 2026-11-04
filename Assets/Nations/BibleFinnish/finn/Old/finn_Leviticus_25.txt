@@ -25,12 +25,12 @@
 "Jos sinun veljes köyhtyy, ja myy sinulle omaisuudestansa, ja hänen lähimmäinen lankonsa tulee hänen tykönsä, ja tahtoo lunastaa, niin pitää hänen lunastaman sen, minkä hänen veljensä myynyt on."
 "Ja jos joku on, jolla ei yhtään lunastajaa ole, ja taitaa niin paljo matkaan saada, kuin sen lunastukseksi tarvitaan."
 "Niin pitää luettaman vuosiluku sittenkuin hän myi, ja annettaman hänelle, joka myi, mitä liiaksi on, että hän tulis omaisuuteensa jälleen."
-"Mutta jos ei hän takaansa löydä niin paljo että hän sais sen jälleen, niin pitää sen, minkä hän myynyt on, oleman ostajan kädessä riemuvuoteen asti; niin hänen pitää oleman vapaan ja saaman omansa jälleen."
+"Mutta jos ei hän takaansa löydä niin paljo että hän sais sen jälleen, niin pitää sen, minkä hän #myynyt on, oleman ostajan kädessä riemuvuoteen asti; niin hänen pitää oleman vapaan ja saaman omansa jälleen."
 "Se joka myy asuttavan huoneen kaupungin muurin sisältä, hänellä on vapaa ehto ajastajassa, sitä lunastaa jällensä
 "Ja jos ei hän lunasta sitä koko ajastajassa, niin pitää ostajan sen huoneen kaupungin muurin sisältä pitämän ijankaikkisesti ja hänen sukunsa, ja ei pidä vapaaksi tuleman ilovuotena."
 "Mutta jos huone on maan kylässä, kussa ei yhtään muuria ympärillä ole, niin se pitää luettaman peltomaaksi
 "Leviläisten kaupungit ja huoneet kaupungeissa, joissa heidän tavaransa ovat, saavat he aina lunastaa."
-"Se joka jotakin lunastaa Leviläisiltä, hänen pitää siitä luopuman ilovuonna, olkoon se ostettu huone eli omaisuus kaupungissa, jossa hän asunut on; sillä huoneet Leviläisten kaupungeissa ovat heidän omaisuutensa Israelin lasten seassa."
+"Se joka jotakin lunastaa Leviläisiltä, hänen pitää siitä luopuman ilovuonna, olkoon se ostettu huone eli omaisuus #kaupungissa, jossa hän asunut on; sillä huoneet Leviläisten kaupungeissa ovat heidän omaisuutensa Israelin lasten seassa."
 "Mutta maata heidän kaupunkeinsa ympäriltä ei pidä myytämän; sillä se on heidän saamansa ijankaikkisesti."
 "Jos veljes köyhtyy ja tulee voimattomaksi tykönäs, niin sinun pitää pitämän hänen ylös, niinkuin muukalaisen, taikka huonekuntaisen, että hän eläis sinun kanssas."
 "Ja ei sinun pidä ottaman korkoa eli voittoa häneltä; vaan pelkää sinun Jumalaas, että sinun veljes sais elää sinun kanssas."
@@ -43,11 +43,11 @@
 "Ei sinun pidä ankarasti heitä hallitseman, vaan pelkäämän sinun Jumalaas."
 "Jos tahdot pitää orjaa ja piikaa, niin sinun pitää ostaman ne pakanoilta, jotka teidän ympärillänne ovat."
 "Ja huonekuntalaisilta, jotka muukalaiset ovat teidän seassanne, pitää teidän ne ostaman, ja heidän suvuiltansa, jotka he teidän tykönänne teidän maassanne synnyttäneet ovat
-"Ja pitäkäät heitä omananne, ja teidän lapsillenne teidän jälkeenne ijankaikkiseksi perimiseksi, ja niiden pitää oleman teidän orjanne; mutta veljenne Israelin lapset ei pidä toinen toistansa ankarasti hallitseman."
-"Jos muukalainen eli huonekuntainen hyötyy sinun tykönäs, ja sinun veljes köyhtyy hänen tykönänsä, niin että hän myy itsensä muukalaiselle, joka huonekuntainen sinun tykönäs on, eli jollekulle muukalaisen suvusta,"
+"Ja pitäkäät heitä omananne, ja teidän lapsillenne teidän jälkeenne ijankaikkiseksi perimiseksi, ja niiden pitää #oleman teidän orjanne; mutta veljenne Israelin lapset ei pidä toinen toistansa ankarasti hallitseman."
+"Jos muukalainen eli huonekuntainen hyötyy sinun tykönäs, ja sinun veljes köyhtyy hänen tykönänsä, niin että #hän myy itsensä muukalaiselle, joka huonekuntainen sinun tykönäs on, eli jollekulle muukalaisen suvusta,"
 "Niin pitää hänellä oikeus oleman lunastettaa jälleen sittekuin hän myyty on, että joku hänen veljistänsä pitäis hänen lunastaman jällensä;"
 "Eli hänen setänsä eli setänsä poika lunastakaan hänen, taikka joku hänen lähimmäisestä suvustansa, eli jos hän itse taitaa niin paljo matkaan saada, niin pitää hänen lunastaman itsensä."
-"Ja hänen pitää lukua laskeman ostajansa kanssa, siitä vuodesta kuin hän myi itsensä ilovuoteen asti, ja raha pitää luettaman vuoden luvun jälkeen, sittekuin hän myytiin, ja kaiken sen ajan palkka pitää siihen luettaman
+"Ja hänen pitää lukua laskeman ostajansa kanssa, siitä vuodesta kuin hän myi itsensä ilovuoteen asti, ja raha #pitää luettaman vuoden luvun jälkeen, sittekuin hän myytiin, ja kaiken sen ajan palkka pitää siihen luettaman
 "Ja jos vielä monta vuotta on ilovuoteen, niin hänen pitää sitä enemmän antaman lunastuksestansa, senjälkeen kuin hän ostettu on."
 "Mutta jos harvat vuodet ovat ilovuoteen, niin laskekaan lukua hänen kanssansa ja hänen pitää vuotten jälkeen antaman lunastuksensa."
 "Ja pitää hänen palkkansa myös siihen luettaman vuosi vuodelta, ja ei hänen pidä ankaruudella häntä hallitseman sinun edessäs."

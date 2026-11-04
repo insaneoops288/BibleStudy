@@ -8,7 +8,7 @@
 "dieweil er sich verantwortete
 "Festus aber wollte den Juden eine Gunst erzeigen und antwortete Paulus und sprach
 "Paulus aber sprach
-"Habe ich aber jemand Leid getan und des Todes wert gehandelt, so weigere ich mich nicht, zu sterben; ist aber der keines nicht, dessen sie mich verklagen, so kann mich ihnen niemandübergeben. Ich berufe mich auf den Kaiser!"
+"Habe ich aber jemand Leid getan und des Todes wert gehandelt, so weigere ich mich nicht, zu sterben; ist aber #der keines nicht, dessen sie mich verklagen, so kann mich ihnen niemandübergeben. Ich berufe mich auf den Kaiser!"
 "Da besprach sich Festus mit dem Rat und antwortete
 "Aber nach etlichen Tagen kamen der König Agrippa und Bernice gen Cäsarea, Festus zu begrüßen."
 "Und da sie viele Tage daselbst gewesen waren, legte Festus dem König den Handel von Paulus vor und sprach
@@ -23,5 +23,5 @@
 "Und am andern Tage, da Agrippa und Bernice kamen mit großem Gepränge und gingen in das Richthaus mit den Hauptleuten und vornehmsten Männern der Stadt, und da es Festus hieß, ward Paulus gebracht."
 "Und Festus sprach
 "Aber, da ich vernahm, daß er nichts getan hatte, das des Todes wert sei, und er sich selber auf den Kaiser berief, habe ich beschlossen, ihn zu senden."
-"Etwas Gewisses aber habe ich von ihm nicht, das ich dem Herrn schreibe. Darum habe ich ihn lassen hervorbringen vor euch, allermeist aber vor dir, König Agrippa, auf daß ich nach geschehener Erforschung haben möge, was ich schreibe."
+"Etwas Gewisses aber habe ich von ihm nicht, das ich dem Herrn schreibe. Darum habe ich ihn lassen hervorbringen vor #euch, allermeist aber vor dir, König Agrippa, auf daß ich nach geschehener Erforschung haben möge, was ich schreibe."
 "Denn es dünkt mich ein ungeschicktes Ding zu sein, einen Gefangenen schicken und keine Ursachen wider ihn anzuzeigen."

@@ -28,5 +28,5 @@
 "I Haran umarł za życia swego ojca Teracha w ziemi swego urodzenia, w Ur chaldejskim."
 "I Abram, i Nachor pojęli sobie żony
 "A Saraj była niepłodna, nie miała dzieci."
-"I Terach wziął swego syna Abrama i swego wnuka Lota, syna Harana, i swoją synową Saraj, żonę swego syna Abrama; i wyruszyli razem z Ur chaldejskiego, aby udać się do ziemi Kanaan. Gdy przybyli do Charanu, zamieszkali tam."
+"I Terach wziął swego syna Abrama i swego wnuka Lota, syna Harana, i swoją synową Saraj, żonę swego syna Abrama; #i wyruszyli razem z Ur chaldejskiego, aby udać się do ziemi Kanaan. Gdy przybyli do Charanu, zamieszkali tam."
 "I dni Teracha było dwieście pięć lat, i umarł w Charanie."

@@ -2,7 +2,7 @@
 "A uczynię cię w naród wielki, i będęć błogosławił, i uwielbię imię twoje, i będziesz błogosławieństwem."
 "I będę błogosławił błogosławiącym tobie; a przeklinające cię przeklinać będę
 "Tedy wyszedł Abram, jako mu rozkazał Pan. Poszedł też z nim i Lot. A było Abramowi siedmdziesiąt lat i pięć lat, gdy wyszedł z Haran."
-"Wziął też Abram Saraj żonę swoję, i Lota syna brata swego, i wszystkę swą majętność, której nabyli, i dusze, których nabyli w Haranie, i wyszli, aby szli do ziemi Chananejskiej; i przyszli do ziemi Chananejskiej."
+"Wziął też Abram Saraj żonę swoję, i Lota syna brata swego, i wszystkę swą majętność, której nabyli, i #dusze, których nabyli w Haranie, i wyszli, aby szli do ziemi Chananejskiej; i przyszli do ziemi Chananejskiej."
 "Tedy przeszedł Abram ziemię onę aż do miejsca Sychem, i aż do równiny Morech; a Chananejczyk na ten czas był w onej ziemi."
 "I ukazał się Pan Abramowi, i rzekł
 "A przeszedł stamtąd do góry na wschód Betela, i rozbił tam namiot swój, mając Betel od zachodu, a Haj od wschodu; i zbudował tam ołtarz Panu, i wzywał imienia Pańskiego."

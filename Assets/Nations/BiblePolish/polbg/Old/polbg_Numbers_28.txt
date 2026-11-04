@@ -11,7 +11,7 @@
 "A na nowiu miesiąców waszych ofiarować będziecie całopalenie Panu, cielców młodych dwa, i barana jednego, baranków rocznych siedem;"
 "I trzy dziesiąte efy mąki pszennej nagniecionej z oliwą na ofiarę śniedną do każdego cielca, i dwie dziesiąte części pszennej mąki zagniecionej z oliwą na ofiarę śniedną do każdego barana;"
 "A jedną dziesiątą część mąki pszennej zagniecionej z oliwą na ofiarę śniedną do każdego baranka, na całopalenie ku wdzięczności wonności na ofiarę ognistą Panu."
-"Także mokre ich ofiary z wina pół hynu będzie dla każdego cielca, a trzecia część hynu do barana, czwarta zaś część hynu do każdego baranka; toć jest całopalenie na nowiu miesiąca, każdego miesiąca przez rok."
+"Także mokre ich ofiary z wina pół hynu będzie dla każdego cielca, a trzecia część hynu do barana, #czwarta zaś część hynu do każdego baranka; toć jest całopalenie na nowiu miesiąca, każdego miesiąca przez rok."
 "Kozła też jednego z stada za grzech ofiarować będziecie Panu oprócz ustawicznego całopalenia, i mokrej ofiary jego."
 "Ale miesiąca pierwszego w dzień czternasty tegoż miesiąca, święto przejścia będzie Panu."
 "A w piętnasty dzień tegoż miesiąca uroczyste święto będzie; przez siedem dni chleby przaśne jeść będziecie."

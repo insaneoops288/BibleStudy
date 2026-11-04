@@ -1,7 +1,7 @@
-"Și s-a întâmplat în același an, la începutul domniei lui Zedechia, împăratul lui Iuda, în anul al patrulea, în luna a cincea, [că ]Hanania, fiul lui Azur, profetul, care [era] din Gabaon, mi-a vorbit în casa DOMNULUI, în prezența preoților și a întregului popor, spunând
+"Și s-a întâmplat în același an, la începutul domniei lui Zedechia, împăratul lui Iuda, în anul al patrulea, în luna a cincea, [că #]Hanania, fiul lui Azur, profetul, care [era] din Gabaon, mi-a vorbit în casa DOMNULUI, în prezența preoților și a întregului popor, spunând
 "Astfel vorbește DOMNUL oștirilor, Dumnezeul lui Israel, spunând
 "În doi ani întregi voi aduce înapoi în acest loc toate vasele casei DOMNULUI, pe care Nebucadnețar, împăratul Babilonului, le-a luat din acest loc și le-a dus în Babilon."
-"Și voi aduce din nou în acest loc pe Ieconia, fiul lui Ioiachim, împăratul lui Iuda, cu toți captivii din Iuda care au mers în Babilon, spune DOMNUL, pentru că voi zdrobi jugul împăratului Babilonului."
+"Și voi aduce din nou în acest loc pe Ieconia, fiul lui Ioiachim, împăratul lui Iuda, cu toți #captivii din Iuda care au mers în Babilon, spune DOMNUL, pentru că voi zdrobi jugul împăratului Babilonului."
 "Atunci profetul Ieremia i-a spus profetului Hanania în prezența preoților și în prezența întregului popor care stătea în picioare în casa DOMNULUI,"
 "Chiar profetul Ieremia a spus
 "Totuși, ascultă acum acest cuvânt pe care îl vorbesc în urechile tale și în urechile întregului popor;"

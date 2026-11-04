@@ -14,15 +14,15 @@
 "At ang kanilang mga kapatid, na mga makapangyarihang lalake na matatapang, isang daan at dalawang pu't walo
 "At sa mga Levita; si Semaias na anak ni Hassub, na anak ni Azricam, na anak ni Hasabias, na anak ni Buni;"
 "At si Sabethai at si Jozabad, sa mga pinuno ng mga Levita, na siyang nagsipamahala sa mga gawain sa labas sa bahay ng Dios;"
-"At si Mattanias, na anak ni Micha, na anak ni Zabdi, na anak ni Asaph, na siyang pinuno upang magpasimula na magpasalamat sa panalangin, at si Bacbucias, sa ikalawa sa kaniyang mga kapatid; at si Abda na anak ni Samua, na anak ni Galal, na anak ni Jeduthun."
+"At si Mattanias, na anak ni Micha, na anak ni Zabdi, na anak ni Asaph, na siyang pinuno upang magpasimula na magpasalamat sa panalangin, at #si Bacbucias, sa ikalawa sa kaniyang mga kapatid; at si Abda na anak ni Samua, na anak ni Galal, na anak ni Jeduthun."
 "Lahat na Levita sa bayang banal, dalawang daan at walong pu't apat."
 "Bukod dito'y ang mga tagatanod-pinto, na si Accub, si Talmon, at ang kanilang mga kapatid, na nangagbabantay sa mga pintuang-bayan, ay isang daan at pitong pu't dalawa."
 "At ang nalabi sa Israel, sa mga saserdote, sa mga Levita, ay nangasa lahat na bayan ng Juda, bawa't isa'y sa kaniyang mana."
 "Nguni't ang mga Nethineo ay nagsitahan sa Ophel
-"Ang tagapamahala naman sa mga Levita sa Jerusalem ay si Uzzi na anak ni Bani, na anak ni Hasabias, na anak ni Mattanias, na anak ni Micha, sa mga anak ni Asaph, na mga mangaawit, na nasa mga gawain sa bahay ng Dios."
+"Ang tagapamahala naman sa mga Levita sa Jerusalem ay si Uzzi na anak ni Bani, na anak ni Hasabias, na anak ni #Mattanias, na anak ni Micha, sa mga anak ni Asaph, na mga mangaawit, na nasa mga gawain sa bahay ng Dios."
 "Sapagka't may utos na mula sa hari tungkol sa kanila, at takdang pagkain na ukol sa mga mangaawit, ayon sa kailangan sa bawa't araw."
 "At si Pethahias na anak ni Mesezabel, sa mga anak ni Zerah, na anak ni Juda, ay nasa kapangyarihan ng hari sa lahat ng bagay na tungkol sa bayan."
-"At tungkol sa mga nayon, pati ng kanilang mga bukid, ang ilan sa mga anak ni Juda ay nagsitahan sa Chiriat-arba at sa mga nayon niyaon, at sa Dibon at sa mga nayon niyaon, at sa Jecabzeel at sa mga nayon niyaon;"
+"At tungkol sa mga nayon, pati ng kanilang mga bukid, ang ilan sa mga anak ni Juda ay nagsitahan sa Chiriat-arba at #sa mga nayon niyaon, at sa Dibon at sa mga nayon niyaon, at sa Jecabzeel at sa mga nayon niyaon;"
 "At sa Jesua, at sa Moladah, at sa Beth-pelet;"
 "At sa Hasar-sual, at sa Beerseba at sa mga nayon niyaon;"
 "At sa Siclag, at sa Mechona at sa mga nayon niyaon;"

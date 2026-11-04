@@ -3,7 +3,7 @@
 "Mikor azért Dávid embereivel együtt a városba érkezék; ímé az tûzzel felégettetett vala, feleségeik, fiaik és leányaik pedig fogságba hurczoltattak."
 "Akkor Dávid és a nép, a mely õ vele volt, felkiáltának és annyira sírának, hogy végre erejök sem volt a sírásra."
 "Dávidnak két felesége is fogságba hurczoltatott, a Jezréelbõl való Ahinoám és a Kármelbõl való Abigail, a Nábál felesége."
-"És Dávid igen nagy szorultságba juta, mert a nép [arról] beszélt, hogy megkövezi õt, mivel az egész nép lelke elkeseredett fiaik és leányaik miatt. Dávid azonban megerõsíté magát az Úrban, az õ Istenében."
+"És Dávid igen nagy szorultságba juta, mert a nép [arról] beszélt, hogy megkövezi õt, mivel az egész #nép lelke elkeseredett fiaik és leányaik miatt. Dávid azonban megerõsíté magát az Úrban, az õ Istenében."
 "És monda Dávid Abjáthár papnak, az Akhimélek fiának
 "És megkérdezé Dávid az Urat, mondván
 "Elméne azért Dávid, õ és az a hatszáz ember, a kik vele valának. És mikor a Bésor patakához jutának, ott a [népnek] egy része megállott."

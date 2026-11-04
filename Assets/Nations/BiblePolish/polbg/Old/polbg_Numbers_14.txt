@@ -11,7 +11,7 @@
 "I rzekł Pan do Mojżesza
 "Porażę je morem, i rozproszę je; a ciebie uczynię w naród wielki i możniejszy, niż ten jest."
 "Ale rzekł Mojżesz do Pana
-"I mówić będą z obywatelami ziemi tej, bo słyszeli, żeś ty Panie był w pośrodku ludu tego; żeś okiem w oko widziany był, o Panie, a obłok twój stawał nad nimi, a iż w słupie obłokowym chodziłeś przed nimi we dnie, a w słupie ognistym w nocy."
+"I mówić będą z obywatelami ziemi tej, bo słyszeli, żeś ty Panie był w pośrodku ludu tego; żeś okiem w oko widziany był, o #Panie, a obłok twój stawał nad nimi, a iż w słupie obłokowym chodziłeś przed nimi we dnie, a w słupie ognistym w nocy."
 "Gdybyś tedy pobił lud ten wszystek aż do jednego, rzekliby poganie, którzy o twej sławie słychali, mówiąc
 "Iż nie mógł wprowadzić Pan ludu tego do ziemi, o którą im przysiągł
 "A tak teraz niech proszę uwielbiona będzie moc Pańska, jakoś rzekł, mówiąc
@@ -31,7 +31,7 @@
 "A dziatki wasze, o którycheście mówili, że będą na łup, te wprowadzę, i oglądają tę ziemię, którąście wy wzgardzili."
 "Ale trupy wasze, wasze trupy mówię, polegą na tej puszczy;"
 "A synowie wasi będą się tułali po tej puszczy przez czterdzieści lat, i poniosą karanie za cudzołóstwa wasze, aż wyginą trupy wasze na puszczy."
-"Według liczby dni, w którycheście szpiegowali ziemię, to jest czterdzieści dni, dzień każdy za rok licząc, poniesiecie nieprawości wasze czterdzieści lat, i poznacie pomstę swego odstąpienia ode mnie."
+"Według liczby dni, w którycheście szpiegowali ziemię, to jest czterdzieści dni, dzień każdy za rok #licząc, poniesiecie nieprawości wasze czterdzieści lat, i poznacie pomstę swego odstąpienia ode mnie."
 "Ja Pan mówiłem, że to uczynię temu wszystkiemu zgromadzeniu złemu, które się spiknęło przeciwko mnie; na tej puszczy poginą, i tu pomrą."
 "Oni tedy mężowie, których słał Mojżesz na przeszpiegowanie ziemi, którzy wróciwszy się pobudzili do szemrania przeciwko niemu wszystek lud, puszczając złą sławę o ziemi onej;"
 "Pomarli mężowie oni, którzy puszczali sławę złą o ziemi, srogą plaga przed Panem."

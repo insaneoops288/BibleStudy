@@ -1,6 +1,6 @@
 "I PAN powiedział do Mojżesza
 "Rozkaż synom Izraela, aby przynieśli ci czystą, wyciśniętą oliwę z oliwek, na oświetlenie, aby lampy ciągle się paliły."
-"Aaron sporządzi je na zewnątrz zasłony Świadectwa, w Namiocie Zgromadzenia, aby się paliły od wieczora aż do poranka przed PANEM nieustannie. Będzie to wieczysta ustawa przez wszystkie wasze pokolenia."
+"Aaron sporządzi je na zewnątrz zasłony Świadectwa, w Namiocie Zgromadzenia, aby się paliły od wieczora #aż do poranka przed PANEM nieustannie. Będzie to wieczysta ustawa przez wszystkie wasze pokolenia."
 "Będzie ustawiał lampy na czystym świeczniku przed PANEM nieustannie."
 "Weźmiesz też mąki pszennej i upieczesz z niej dwanaście placków, każdy placek będzie z dwóch dziesiątych efy."
 "Potem ułożysz je w dwóch rzędach, po sześć w każdym rzędzie, na czystym stole przed PANEM."

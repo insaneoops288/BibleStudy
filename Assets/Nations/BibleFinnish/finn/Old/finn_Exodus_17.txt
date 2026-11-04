@@ -9,7 +9,7 @@
 "Ja Moses sanoi Josualle
 "Ja Josua teki niinkuin Moses sanoi hänelle, ja soti Amalekia vastaan. Mutta Moses, Aaron ja Hur astuivat mäen kukkulalle."
 "Ja tapahtui, että koska Moses piti kätensä ylhäällä, voitti Israel; mutta koska hän kätensä laski alas, voitti Amalek."
-"Mutta Moseksen kädet olivat raskaat, sentähden ottivat he kiven ja asettivat hänen alansa ja hän istui sen päällä; vaan Aaron ja Hur pitivät ylhäällä hänen käsiinsä kumpikin puoleltansa, niin pysyi hänen kätensä juuri vahvana auringon laskemaan asti."
+"Mutta Moseksen kädet olivat raskaat, sentähden ottivat he kiven ja asettivat hänen alansa ja hän istui sen päällä; vaan #Aaron ja Hur pitivät ylhäällä hänen käsiinsä kumpikin puoleltansa, niin pysyi hänen kätensä juuri vahvana auringon laskemaan asti."
 "Ja Josua heikonsi Amalekin ja hänen kansansa miekan terällä."
 "Ja Herra sanoi Mosekselle
 "Ja Moses rakensi alttarin, ja kutsui sen nimen

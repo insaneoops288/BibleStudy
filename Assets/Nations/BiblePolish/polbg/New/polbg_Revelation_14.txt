@@ -1,6 +1,6 @@
 "I widziałem, a oto Baranek stał na górze Syońskiej, a z nim sto czterdzieści i cztery tysiące, mających imię Ojca jego napisane na czołach swoich."
 "I słyszałem głos z nieba, jako głos wielu wód, i jako głos gromu wielkiego; i słyszałem głos cytrystów grających na cytrach swoich."
-"A śpiewali, jakoby nową pieśń, przed stolicą i przed onem czworgiem zwierząt, i przed starcami, a żaden się nie mógł onej pieśni nauczyć, oprócz onych stu czterdziestu i czterech tysięcy, którzy są z ziemi kupieni."
+"A śpiewali, jakoby nową pieśń, przed stolicą i przed onem czworgiem zwierząt, i przed starcami, a żaden się #nie mógł onej pieśni nauczyć, oprócz onych stu czterdziestu i czterech tysięcy, którzy są z ziemi kupieni."
 "Cić są, którzy się z niewiastami nie pokalali; bo pannami są. Ci są, którzy naśladują Baranka, gdziekolwiek idzie. Ci kupieni są z ludzi, aby byli pierwiastkami Bogu i Barankowi."
 "A w ustach ich nie znalazła się zdrada; albowiem są bez zmazy przed stolicą Bożą."
 "I widziałem drugiego Anioła, lecącego przez pośrodek nieba, mającego Ewangieliję wieczną, aby ją zwiastował mieszkającym na ziemi i wszelkiemu narodowi, i pokoleniu, i językowi, i ludowi,"

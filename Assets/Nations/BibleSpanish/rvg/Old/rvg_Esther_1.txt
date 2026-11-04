@@ -3,7 +3,7 @@
 "en el tercer año de su reinado hizo banquete a todos sus príncipes y siervos, [teniendo] delante de él a los más poderosos de Persia y de Media, gobernadores y príncipes de provincias,"
 "para mostrar él las riquezas de la gloria de su reino, y el esplendor de su gloriosa majestad, por muchos días, ciento ochenta días."
 "Y cumplidos estos días, el rey hizo un banquete por siete días en el patio del huerto del palacio real para todo el pueblo, desde el mayor hasta el menor que se hallaba en Susán capital del reino."
-"[El pabellón era] de blanco, verde y azul, atado por cordones de lino y púrpura a anillos de plata y a columnas de mármol; los reclinatorios de oro y de plata, sobre losado de pórfido y de mármol, y de alabastro y de jacinto."
+"[El pabellón era] de blanco, verde y azul, atado por cordones de lino y púrpura a anillos de plata y a columnas de #mármol; los reclinatorios de oro y de plata, sobre losado de pórfido y de mármol, y de alabastro y de jacinto."
 "Y daban a beber en vasos de oro, y vasos diferentes unos de otros, y mucho vino real, conforme a la generosidad del rey."
 "Y la bebida [era] según la ley
 "Asimismo la reina Vasti hizo un banquete para las mujeres, [en] la casa real del rey Asuero."
@@ -19,4 +19,4 @@
 "Si parece bien al rey, salga mandamiento real delante de él, y escríbase entre las leyes de Persia y de Media, y no sea traspasado
 "Y el mandamiento que hará el rey será oído en todo su reino, aunque es grande, y todas las esposas darán honra a sus maridos, desde el mayor hasta el menor."
 "Y agradó esta palabra en ojos del rey y de los príncipes, e hizo el rey conforme al dicho de Memucán;"
-"pues envió cartas a todas las provincias del rey, a cada provincia conforme a su lenguaje, y a cada pueblo conforme a su lenguaje, diciendo que todo hombre fuese señor en su casa; y que se publicase esto según la lengua de cada pueblo."
+"pues envió cartas a todas las provincias del rey, a cada provincia conforme a su lenguaje, y a cada pueblo conforme a su #lenguaje, diciendo que todo hombre fuese señor en su casa; y que se publicase esto según la lengua de cada pueblo."

@@ -13,9 +13,9 @@
 "Ang mga bagay na ito ay isinulat ko sa inyo, upang inyong maalaman na kayo'y mayroong buhay na walang hanggan, sa makatuwid ay sa inyong nananampalataya sa pangalan ng Anak ng Dios."
 "At ito ang nasa ating pagkakatiwala sa kaniya, na kung tayo'y humingi ng anomang bagay na ayon sa kaniyang kalooban, ay dinidinig tayo niya
 "At kung ating nalalaman na tayo'y dinidinig niya sa anomang ating hingin, ay nalalaman natin na nasa atin ang mga kahilingang sa kaniya'y ating hiningi."
-"Kung makita ng sinoman na ang kaniyang kapatid ay nagkakasala ng kasalanang hindi ikamamatay, ay idalangin siya at bibigyan siya ng Dios ng buhay, na ukol sa mga nagkakasala nang hindi ikamamatay. May kasalanang ikamamatay
+"Kung makita ng sinoman na ang kaniyang kapatid ay nagkakasala ng kasalanang hindi ikamamatay, ay idalangin siya at #bibigyan siya ng Dios ng buhay, na ukol sa mga nagkakasala nang hindi ikamamatay. May kasalanang ikamamatay
 "Lahat ng kalikuan ay kasalanan
 "Nalalaman natin na ang sinomang ipinanganak ng Dios ay hindi nagkakasala; datapuwa't ang ipinanganak ng Dios ay nagiingat sa kaniyang sarili, at hindi siya ginagalaw ng masama."
 "Nalalaman natin na tayo'y sa Dios at ang buong sanglibutan ay nakahilig sa masama."
-"At nalalaman natin na naparito ang Anak ng Dios, at tayo'y binigyan ng pagkaunawa, upang ating makilala siya na totoo, at tayo'y nasa kaniya na totoo, sa makatuwid ay sa kaniyang Anak na si Jesucristo. Ito ang tunay na Dios, at ang buhay na walang hanggan."
+"At nalalaman natin na naparito ang Anak ng Dios, at tayo'y binigyan ng pagkaunawa, upang ating makilala siya na totoo, at tayo'y nasa kaniya #na totoo, sa makatuwid ay sa kaniyang Anak na si Jesucristo. Ito ang tunay na Dios, at ang buhay na walang hanggan."
 "Mga anak ko, mangagingat kayo sa mga diosdiosan."

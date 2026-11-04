@@ -5,7 +5,7 @@
 "Perëndia tha
 "Pastaj tha dhe këto fjalë
 "Pastaj Zoti tha
-"Kështu zbrita për ta çliruar nga dora e Egjiptasve dhe për ta çuar nga ky vend në një vend të mirë dhe të hapur, në një vend ku rrjedh qumështi dhe mjalti, në vendin ku ndodhen Kananejtë, Hitejtë, Amorejtë, Perezejtë, Hivejtë dhe Jebusejtë."
+"Kështu zbrita për ta çliruar nga dora e Egjiptasve dhe për ta çuar nga ky vend në një vend të mirë dhe #të hapur, në një vend ku rrjedh qumështi dhe mjalti, në vendin ku ndodhen Kananejtë, Hitejtë, Amorejtë, Perezejtë, Hivejtë dhe Jebusejtë."
 "Dhe tani, ja britma e bijve të Izraelit ka arritur deri tek unë, dhe kam parë gjithashtu se si Egjiptasit i shtypin."
 "Prandaj eja dhe unë do të të dërgoj te Faraoni me qëllim që ta nxjerrësh popullin tim, bijtë e Izraelit, nga Egjipti""."
 "Por Moisiu i tha Perëndisë
@@ -19,4 +19,4 @@
 "Por unë e di që mbreti i Egjiptit nuk do t'ju lejojë të shkoni, veç po të jetë i shtrënguar nga një dorë e fuqishme."
 "Atëherë unë do të shtrij dorën time dhe do të godas Egjiptin me të gjitha mrekullitë që unë do të bëj në mes tyre; pas kësaj ai do t'ju lërë të ikni."
 "Dhe do t'i jap këtij populli të mira para syve të Egjiptasve; dhe do të ndodhë që kur të niseni, nuk do të shkoni duarbosh;"
-"por çdo grua do t'i kërkojë fqinjës së saj dhe gruas që banon në shtëpinë e saj sende argjendi, sende ari dhe rroba; dhe ju do t'ua vini në shtat bijve dhe bijave tuaja; kështu do t'i zhvishni Egjiptasit""."
+"por çdo grua do t'i kërkojë fqinjës së saj dhe gruas që banon në shtëpinë e saj sende argjendi, sende #ari dhe rroba; dhe ju do t'ua vini në shtat bijve dhe bijave tuaja; kështu do t'i zhvishni Egjiptasit""."

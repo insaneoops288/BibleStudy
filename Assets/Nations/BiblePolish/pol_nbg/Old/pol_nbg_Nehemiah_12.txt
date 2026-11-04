@@ -24,7 +24,7 @@
 "Przedniejszymi z Lewitów byli
 "Zaś Mattaniasz, Bakbukiasz, Obadjasz, Meszullam, Talmon i Akkub, byli odźwiernymi, pilnującymi bram domu zapasów."
 "Ci żyli za dni Jojakima, syna Jeszui, syna Jocedeka, oraz za dni rządcy Nehemiasza i kapłana Ezdrasza, uczonego w Piśmie."
-"A na poświęcenie muru Jeruszalaim poszukiwano Lewitów we wszystkich ich miejscach, aby ich sprowadzić do Jeruszalaim i przygotować to poświęcenie w radości, z wysławianiem oraz śpiewaniem, z cymbałami, lutniami oraz cytrami."
+"A na poświęcenie muru Jeruszalaim poszukiwano Lewitów we wszystkich ich miejscach, aby ich sprowadzić do Jeruszalaim #i przygotować to poświęcenie w radości, z wysławianiem oraz śpiewaniem, z cymbałami, lutniami oraz cytrami."
 "Dlatego z równin wokół Jeruszalaim oraz z osiedli Netofytów zgromadzono synów śpiewaków."
 "Także z Beth Gilgal, z pól Geby i z Azmawet; bo śpiewacy budowali sobie wsie wokół Jeruszalaim."
 "A gdy kapłani oraz Lewici się oczyścili, oczyścili też lud, bramy i mur."
@@ -41,7 +41,7 @@
 "Nadto z trąbami kapłani
 "I Masejasz, Szemajasz, Eleazar, Uzzi, Jehochanan, Malkijjasz, Elam i Abiezryda; a śpiewacy głośno śpiewali, wraz z ich przełożonym – Jizrachiaszem."
 "Także owego dnia złożono wielkie ofiary oraz się radowano; bowiem Bóg rozweselał nas wielką radością, więc weseliły się dzieci i niewiasty; a radość Jeruszalaim było daleko słychać."
-"Tego dnia wyznaczono też mężów dla pomieszczeń skarbca, darów, pierwocin i dziesięcin, aby gromadzili do nich udziały z miejskich posiadłości, przydzielone prawem kapłanom i Lewitom. Gdyż Juda się radował ze stojących kapłanów i Lewitów,"
+"Tego dnia wyznaczono też mężów dla pomieszczeń skarbca, darów, pierwocin i dziesięcin, aby gromadzili do nich udziały z #miejskich posiadłości, przydzielone prawem kapłanom i Lewitom. Gdyż Juda się radował ze stojących kapłanów i Lewitów,"
 "którzy strzegli służby swego Boga i służby oczyszczenia. Nadto śpiewakami i odźwiernymi, według polecenia Dawida i jego syna Salomona."
 "Bowiem dawno, za dni Dawida i Asafa, byli przywódcy śpiewaków do śpiewania, wychwalania i dziękczynienia Bogu."
 "Dlatego cały Israel, za dni Zerubabela i dni Nehemiasza, w codziennym wymiarze dawał działy śpiewakom i odźwiernym, a poświęcone Lewitom, zaś Lewici oddawali synom Ahrona."

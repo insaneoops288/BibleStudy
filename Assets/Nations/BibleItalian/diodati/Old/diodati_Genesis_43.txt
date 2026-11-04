@@ -18,7 +18,7 @@
 "E quegli uomini temettero, perciocchè erano menati dentro alla casa di Giuseppe, e dissero
 "E accostatisi al mastro di casa di Giuseppe, gli parlarono in su l’entrata della casa."
 "E dissero
-"Or avvenne, come fummo giunti all’albergo, che, aprendo i nostri sacchi, ecco, i danari di ciascun di noi erano alla bocca del suo sacco; i nostri danari vi erano appunto secondo il lor peso; e noi li abbiamo riportati con noi."
+"Or avvenne, come fummo giunti all’albergo, che, aprendo i nostri sacchi, ecco, i danari di ciascun di noi erano alla bocca #del suo sacco; i nostri danari vi erano appunto secondo il lor peso; e noi li abbiamo riportati con noi."
 "Abbiamo, oltre a ciò, portati nelle nostre mani altri danari per comperar della vittuaglia; noi non sappiamo chi mettesse i nostri danari ne’ nostri sacchi."
 "Ed egli disse loro
 "Poi trasse lor fuori Simeone. E, menatili dentro alla casa di Giuseppe, fece portar dell’acqua, ed essi si lavarono i piedi; ed egli diede della pastura ai loro asini."
@@ -29,6 +29,6 @@
 "E Giuseppe alzò gli occhi, e vide Beniamino, suo fratello, figliuol di sua madre, e disse
 "E Giuseppe si ritrasse prestamente; perciocchè le sue viscere si riscaldavano inverso il suo fratello; e cercando luogo per piangere, se n’entrò nella cameretta, e quivi pianse."
 "Poi, lavatosi il viso, uscì fuori, e si fece forza, e disse
-"Furono adunque recate le vivande a lui da parte, a loro da parte, e agli Egizj che mangiavano con lui da parte; conciossiachè gli Egizj non possano mangiare con gli Ebrei; perciocchè ciò è cosa abbominevole agli Egizj."
-"Essi adunque si posero a sedere nel suo cospetto, il primogenito, secondo l’ordine suo di primogenito; e il minore, secondo l’ordine della sua età minore; e quegli uomini, maravigliandosi, si riguardavano l’un l’altro."
+"Furono adunque recate le vivande a lui da parte, a loro da parte, e agli Egizj che mangiavano con lui #da parte; conciossiachè gli Egizj non possano mangiare con gli Ebrei; perciocchè ciò è cosa abbominevole agli Egizj."
+"Essi adunque si posero a sedere nel suo cospetto, il primogenito, secondo l’ordine suo di primogenito; e #il minore, secondo l’ordine della sua età minore; e quegli uomini, maravigliandosi, si riguardavano l’un l’altro."
 "Ed egli prese de’ messi delle vivande d’appresso a sè, e le mandò loro; e la parte di Beniamino fu cinque volte maggiore di quella di qualunque altro di loro. Ed essi bevvero, e goderono con lui."

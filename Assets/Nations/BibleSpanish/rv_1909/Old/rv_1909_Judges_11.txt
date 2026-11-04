@@ -15,7 +15,7 @@
 "Para decirle
 "Mas subiendo Israel de Egipto, anduvo por el desierto hasta el mar Bermejo, y llegó á Cades."
 "Entonces Israel envió embajadores al rey de Edom, diciendo
-"Después, yendo por el desierto, rodeó la tierra de Edom y la tierra de Moab, y viniendo por el lado oriental de la tierra de Moab, asentó su campo de estotra parte de Arnón, y no entraron por el término de Moab
+"Después, yendo por el desierto, rodeó la tierra de Edom y la tierra de Moab, y viniendo por el lado oriental de #la tierra de Moab, asentó su campo de estotra parte de Arnón, y no entraron por el término de Moab
 "Y envió Israel embajadores á Sehón rey de los Amorrheos, rey de Hesbón, diciéndole
 "Mas Sehón no se fió de Israel para darle paso por su término; antes juntando Sehón toda su gente, puso campo en Jaas, y peleó contra Israel."
 "Empero Jehová el Dios de Israel entregó á Sehón y á todo su pueblo en mano de Israel, y venciólos
@@ -23,7 +23,7 @@
 "Así que Jehová el Dios de Israel echó los Amorrheos delante de su pueblo Israel
 "Si Chêmos tu Dios te echase alguno, ¿no lo poseerías tú? Así poseeremos nosotros á todo aquel que echó Jehová nuestro Dios de delante de nosotros."
 "¿Eres tú ahora en algo mejor que Balac hijo de Sephor, rey de Moab? ¿tuvo él cuestión contra Israel, ó hizo guerra contra ellos?"
-"Cuando Israel ha estado habitando por trescientos años á Hesbón y sus aldeas, á Aroer y sus aldeas, y todas las ciudades que están á los términos de Arnón, ¿por qué no las habéis reclamado en ese tiempo?"
+"Cuando Israel ha estado habitando por trescientos años á Hesbón y sus aldeas, á Aroer y sus aldeas, y todas #las ciudades que están á los términos de Arnón, ¿por qué no las habéis reclamado en ese tiempo?"
 "Así que, yo nada he pecado contra ti, mas tú haces mal conmigo haciéndome guerra
 "Mas el rey de los hijos de Ammón no atendió las razones de Jephté que le envió."
 "Y el espíritu de Jehová fué sobre Jephté

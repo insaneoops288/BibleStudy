@@ -5,7 +5,7 @@
 "I wołali do Lota, i zapytali go
 "Wtedy Lot wyszedł do nich do wejścia i zamknął za sobą drzwi."
 "I powiedział
-"Mam dwie córki, które jeszcze nie obcowały z mężczyzną. Pozwólcie, że wyprowadzę je do was, a czyńcie z nimi, co się wam podoba. Tylko tym mężczyznom nic nie czyńcie, bo dlatego weszli pod cień mego dachu."
+"Mam dwie córki, które jeszcze nie obcowały z mężczyzną. Pozwólcie, że wyprowadzę je do was, a czyńcie z nimi, #co się wam podoba. Tylko tym mężczyznom nic nie czyńcie, bo dlatego weszli pod cień mego dachu."
 "A oni odpowiedzieli
 "Ale ci mężczyźni wysunęli ręce, wciągnęli Lota do siebie, do domu, i zamknęli drzwi."
 "Mężczyzn zaś, którzy byli u drzwi domu, od najmniejszego aż do największego, porazili ślepotą, tak że na próżno usiłowali znaleźć drzwi."
@@ -16,7 +16,7 @@
 "A gdy się ociągał, ci mężczyźni chwycili jego rękę, rękę jego żony i ręce jego dwóch córek – PAN bowiem ulitował się nad nim – i wyprowadzili go, i pozostawili go poza miastem."
 "I gdy wyprowadzili ich stamtąd, on powiedział
 "A Lot powiedział do nich
-"Oto twój sługa znalazł łaskę w twoich oczach i pomnożyłeś swoje miłosierdzie, które mi wyświadczyłeś, ratując mi życie; ale ja nie mogę uciec na tę górę, bo może dosięgnie mnie jakieś nieszczęście i zginę."
+"Oto twój sługa znalazł łaskę w twoich oczach i pomnożyłeś swoje miłosierdzie, które mi wyświadczyłeś, ratując mi życie; #ale ja nie mogę uciec na tę górę, bo może dosięgnie mnie jakieś nieszczęście i zginę."
 "Oto jest tu w pobliżu miasto, do którego mógłbym uciec, i jest małe. Proszę, pozwól mi tam uciec (czyż nie jest ono małe?), a moja dusza będzie żyć."
 "Odpowiedział mu
 "Spiesz się i uchodź tam, bo nie będę mógł nic uczynić, dopóki tam nie dojdziesz. Dlatego dano temu miastu nazwę Soar."

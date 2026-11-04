@@ -14,7 +14,7 @@
 "Kemudian datanglah murid-murid Yohanes kepada Yesus dan berkata
 "Jawab Yesus kepada mereka
 "Tidak seorangpun menambalkan secarik kain yang belum susut pada baju yang tua, karena jika demikian kain penambal itu akan mencabik baju itu, lalu makin besarlah koyaknya."
-"Begitu pula anggur yang baru tidak diisikan ke dalam kantong kulit yang tua, karena jika demikian kantong itu akan koyak sehingga anggur itu terbuang dan kantong itupun hancur. Tetapi anggur yang baru disimpan orang dalam kantong yang baru pula, dan dengan demikian terpeliharalah kedua-duanya."""
+"Begitu pula anggur yang baru tidak diisikan ke dalam kantong kulit yang tua, karena jika demikian kantong itu akan koyak sehingga anggur itu #terbuang dan kantong itupun hancur. Tetapi anggur yang baru disimpan orang dalam kantong yang baru pula, dan dengan demikian terpeliharalah kedua-duanya."""
 "Sementara Yesus berbicara demikian kepada mereka, datanglah seorang kepala rumah ibadat, lalu menyembah Dia dan berkata
 "Lalu Yesuspun bangunlah dan mengikuti orang itu bersama-sama dengan murid-murid-Nya."
 "Pada waktu itu seorang perempuan yang sudah dua belas tahun lamanya menderita pendarahan maju mendekati Yesus dari belakang dan menjamah jumbai jubah-Nya."

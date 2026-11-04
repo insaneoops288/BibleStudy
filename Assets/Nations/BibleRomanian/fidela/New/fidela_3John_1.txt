@@ -7,7 +7,7 @@
 "Fiindcă pentru numele lui au ieşit, neluând nimic de la neamuri."
 "De aceea [suntem] datori să îi primim pe unii ca aceştia, ca să fim conlucrători cu adevărul."
 "Am scris bisericii, dar Diotref, căruia îi place să aibă întâietatea între ei, nu ne primeşte."
-"Din această cauză, dacă vin, îi voi aminti faptele sale pe care le face, îndrugând cuvinte răutăcioase împotriva noastră; şi nemulţumit cu acestea, el nici nu îi primeşte pe fraţi şi îi opreşte pe cei ce doresc [să îi primească] şi [îi] dă afară din biserică."
+"Din această cauză, dacă vin, îi voi aminti faptele sale pe care le face, îndrugând cuvinte răutăcioase împotriva noastră; şi nemulţumit cu acestea, el #nici nu îi primeşte pe fraţi şi îi opreşte pe cei ce doresc [să îi primească] şi [îi] dă afară din biserică."
 "Preaiubitule, nu urma ceea ce este rău, ci ceea ce este bun. Cel ce face bine este din Dumnezeu, dar cel ce face rău nu l-a văzut pe Dumnezeu."
 "Lui Dimitrie i s-a dat o mărturie bună din partea tuturor şi a adevărului însuşi; da, şi noi aducem mărturie; şi ştiţi că mărturia noastră este adevărată."
 "Aveam multe de scris, dar nu voiesc să îţi[ ]scriu cu cerneală şi condei."

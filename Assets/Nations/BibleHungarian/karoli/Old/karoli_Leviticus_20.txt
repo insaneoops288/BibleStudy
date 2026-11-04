@@ -1,6 +1,6 @@
 "Szóla ismét az Úr Mózesnek, mondván
 "Izráel fiainak pedig mondd meg
-"Én is kiontom haragomat az ilyen emberre, és kiirtom azt az õ népe közül, mivelhogy adott az õ magzatából a Moloknak, hogy megfertõztesse az én szentségemet, és megszentségtelenítse az én szent nevemet."
+"Én is kiontom haragomat az ilyen emberre, és kiirtom azt az õ népe közül, mivelhogy adott az #õ magzatából a Moloknak, hogy megfertõztesse az én szentségemet, és megszentségtelenítse az én szent nevemet."
 "Ha pedig a föld népe behúnyja szemeit az ilyen ember elõtt, a mikor az oda adja az õ magzatát a Moloknak, és azt meg nem öli
 "Akkor én ontom ki haragomat arra az emberre és annak házanépére, és kiirtom azt és mindazokat, a kik õ utána paráználkodnak, hogy a Molokkal paráználkodjanak, az õ népök közül."
 "A mely ember pedig az ígézõkhöz és a jövendõmondókhoz fordul, hogy azok után paráználkodjék, arra is kiontom haragomat, és kiirtom azt az õ népe közül."
@@ -22,6 +22,6 @@
 "Tartsátok meg minden rendelésemet és minden végzésemet, és azokat cselekedjétek, hogy ki ne okádjon titeket az a föld, a melybe én viszlek be titeket, hogy ott lakjatok."
 "És ne járjatok annak a népnek rendtartási szerint, a melyet kiûzök én elõletek. Mivelhogy mindezeket cselekedték, azért megútáltam õket."
 "Néktek pedig mondom
-"Tegyetek különbséget azért a tiszta és tisztátalan barmok között, a tiszta és tisztátalan szárnyas állatok között, és ne fertõztessétek meg magatokat barommal vagy szárnyas állattal, sem semmiféle földön csúszó állattal, a melyeket megkülönböztettem elõttetek, mint tisztátalanokat."
+"Tegyetek különbséget azért a tiszta és tisztátalan barmok között, a tiszta és tisztátalan szárnyas állatok között, és ne fertõztessétek #meg magatokat barommal vagy szárnyas állattal, sem semmiféle földön csúszó állattal, a melyeket megkülönböztettem elõttetek, mint tisztátalanokat."
 "És legyetek nékem szentek, mert én, az Úr, szent vagyok, a ki kiválasztottalak titeket a népek közül, hogy enyéim legyetek."
 "És akár férfi, akár asszony, hogyha ígézõ vagy jövendõmondó lesz közöttök, halállal lakoljanak; kõvel kövezzétek azokat agyon; vérök rajtok."

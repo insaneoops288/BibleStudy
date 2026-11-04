@@ -1,5 +1,5 @@
 "Pavel, chemat [să fie] apostol al lui Isus Cristos prin voia lui Dumnezeu, și fratele Sosten,"
-"Bisericii lui Dumnezeu care este în Corint, celor sfințiți în Cristos Isus, chemați [să fie] sfinți, cu toți cei ce cheamă în fiecare loc numele lui Isus Cristos, Domnul nostru, [Domn] deopotrivă al lor și al nostru;"
+"Bisericii lui Dumnezeu care este în Corint, celor sfințiți în Cristos Isus, chemați [să fie] sfinți, cu toți cei #ce cheamă în fiecare loc numele lui Isus Cristos, Domnul nostru, [Domn] deopotrivă al lor și al nostru;"
 "Har vouă și pace de la Dumnezeu Tatăl nostru și [de la] Domnul Isus Cristos!"
 "Mulțumesc Dumnezeului meu totdeauna în legătură cu voi, pentru harul lui Dumnezeu care vă este dat prin Isus Cristos;"
 "Pentru că în toate sunteți îmbogățiți prin el, în toată cuvântarea și toată cunoașterea."
@@ -7,7 +7,7 @@
 "Astfel încât nu vă lipsește niciun dar, așteptând venirea Domnului nostru Isus Cristos;"
 "Care de asemenea vă va confirma până la sfârșit, ireproșabili în ziua Domnului nostru Isus Cristos."
 "Credincios [este ]Dumnezeu, prin care ați fost chemați la părtășia Fiului său Isus Cristos, Domnul nostru."
-"Acum vă implor, fraților, prin numele Domnului nostru Isus Cristos, ca voi toți să vorbiți același lucru și să nu fie dezbinări între voi, ci să fiți desăvârșit uniți în aceeași minte și în aceeași judecată."
+"Acum vă implor, fraților, prin numele Domnului nostru Isus Cristos, ca voi toți să vorbiți același lucru și să #nu fie dezbinări între voi, ci să fiți desăvârșit uniți în aceeași minte și în aceeași judecată."
 "Fiindcă mi-a fost făcut cunoscut despre voi, frații mei, prin [cei ai casei] Cloei, că printre voi sunt certuri."
 "Acum spun aceasta, pentru că fiecare dintre voi spune
 "Este Cristos împărțit? Pavel a fost crucificat pentru voi? Sau în numele lui Pavel ați fost botezați?"

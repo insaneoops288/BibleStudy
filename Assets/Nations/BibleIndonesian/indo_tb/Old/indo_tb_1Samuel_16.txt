@@ -10,10 +10,10 @@
 "Demikianlah Isai menyuruh ketujuh anaknya lewat di depan Samuel, tetapi Samuel berkata kepada Isai
 "Lalu Samuel berkata kepada Isai
 "Kemudian disuruhnyalah menjemput dia. Ia kemerah-merahan, matanya indah dan parasnya elok. Lalu TUHAN berfirman
-"Samuel mengambil tabung tanduk yang berisi minyak itu dan mengurapi Daud di tengah-tengah saudara-saudaranya. Sejak hari itu dan seterusnya berkuasalah Roh TUHAN atas Daud. Lalu berangkatlah Samuel menuju Rama."
+"Samuel mengambil tabung tanduk yang berisi minyak itu dan mengurapi Daud di tengah-tengah saudara-saudaranya. Sejak #hari itu dan seterusnya berkuasalah Roh TUHAN atas Daud. Lalu berangkatlah Samuel menuju Rama."
 "Tetapi Roh TUHAN telah mundur dari pada Saul, dan sekarang ia diganggu oleh roh jahat yang dari pada TUHAN."
 "Lalu berkatalah hamba-hamba Saul kepadanya
-"baiklah tuanku menitahkan hamba-hambamu yang di depanmu ini mencari seorang yang pandai main kecapi. Apabila roh jahat yang dari pada Allah itu hinggap padamu, haruslah ia main kecapi, maka engkau merasa nyaman."""
+"baiklah tuanku menitahkan hamba-hambamu yang di depanmu ini mencari seorang yang pandai main kecapi. Apabila roh jahat #yang dari pada Allah itu hinggap padamu, haruslah ia main kecapi, maka engkau merasa nyaman."""
 "Berkatalah Saul kepada hamba-hambanya itu
 "Lalu jawab salah seorang hamba itu, katanya
 "Kemudian Saul mengirim suruhan kepada Isai dengan pesan

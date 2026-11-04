@@ -14,7 +14,7 @@
 "A Azor spłodził Sadoka, a Sadok spłodził Achima, a Achim spłodził Elijuda."
 "A Elijud spłodził Eleazara, a Eleazar spłodził Matana, a Matan spłodził Jakóba."
 "A Jakób spłodził Józefa, męża Maryi, z której się narodził Jezus, którego zowią Chrystus."
-"A tak wszystkiego pokolenia od Abrahama aż do Dawida jest pokoleń czternaście, a od Dawida aż do zaprowadzenia do Babilonu, pokoleń czternaście, a od zaprowadzenia do Babilonu aż do Chrystusa, pokoleń czternaście."
+"A tak wszystkiego pokolenia od Abrahama aż do Dawida jest pokoleń czternaście, a od Dawida aż do #zaprowadzenia do Babilonu, pokoleń czternaście, a od zaprowadzenia do Babilonu aż do Chrystusa, pokoleń czternaście."
 "A narodzenie Jezusa Chrystusa takie było
 "Ale Józef, mąż jej, będąc sprawiedliwym i nie chcąc jej osławić, chciał ją potajemnie opuścić."
 "A gdy on o tem zamyślał, oto mu się Anioł Pański we śnie ukazał, mówiąc

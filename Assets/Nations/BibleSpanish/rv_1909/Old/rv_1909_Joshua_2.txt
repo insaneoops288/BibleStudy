@@ -7,7 +7,7 @@
 "Y los hombres fueron tras ellos por el camino del Jordán, hasta los vados
 "Mas antes que ellos durmiesen, ella subió á ellos al terrado, y díjoles
 "Sé que Jehová os ha dado esta tierra; porque el temor de vosotros ha caído sobre nosotros, y todos los moradores del país están desmayados por causa de vosotros;"
-"Porque hemos oído que Jehová hizo secar las aguas del mar Bermejo delante de vosotros, cuando salisteis de Egipto, y lo que habéis hecho á los dos reyes de los Amorrheos que estaban de la parte allá del Jordán, á Sehón y á Og, á los cuales habéis destruíd"
+"Porque hemos oído que Jehová hizo secar las aguas del mar Bermejo delante de vosotros, cuando salisteis de Egipto, y lo que habéis hecho á #los dos reyes de los Amorrheos que estaban de la parte allá del Jordán, á Sehón y á Og, á los cuales habéis destruíd"
 "Oyendo esto, ha desmayado nuestro corazón; ni ha quedado más espíritu en alguno por causa de vosotros
 "Ruégoos pues ahora, me juréis por Jehová, que como he hecho misericordia con vosotros, así la haréis vosotros con la casa de mi padre, de lo cual me daréis una señal cierta;"
 "Y que salvaréis la vida á mi padre y á mi madre, y á mis hermanos y hermanas, y á todo lo que es suyo; y que libraréis nuestras vidas de la muerte."
@@ -16,7 +16,7 @@
 "Y díjoles
 "Y ellos le dijeron
 "He aquí, cuando nosotros entráremos en la tierra, tú atarás este cordón de grana á la ventana por la cual nos descolgaste
-"Cualquiera que saliere fuera de las puertas de tu casa, su sangre será sobre su cabeza, y nosotros sin culpa. Mas cualquiera que se estuviere en casa contigo, su sangre será sobre nuestra cabeza, si mano le tocare."
+"Cualquiera que saliere fuera de las puertas de tu casa, su sangre será sobre su cabeza, y nosotros sin culpa. #Mas cualquiera que se estuviere en casa contigo, su sangre será sobre nuestra cabeza, si mano le tocare."
 "Y si tú denunciares este nuestro negocio, nosotros seremos desobligados de este tu juramento con que nos has juramentado."
 "Y ella respondió
 "Y caminando ellos, llegaron al monte, y estuvieron allí tres días, hasta que los que los seguían se hubiesen vuelto

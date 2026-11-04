@@ -18,7 +18,7 @@
 "Atëherë ai e mori dhe e çoi tek kryemijëshi dhe tha
 "Atëherë kryemijësi e kapi për dore, e mori mënjanë dhe e pyeti
 "Ai tha
-"Prandaj ti mos ua vër veshin, sepse më shumë se dyzet burra nga ata kanë ngritur kurth kundër tij, sepse janë zotuar duke u lidhur me betim, të mos hanë e të mos pinë, derisa ta kenë vrarë; dhe tani janë gati dhe presin që ti t'ua lejosh atyre''."
+"Prandaj ti mos ua vër veshin, sepse më shumë se dyzet burra nga ata kanë ngritur kurth kundër tij, sepse janë zotuar duke u lidhur #me betim, të mos hanë e të mos pinë, derisa ta kenë vrarë; dhe tani janë gati dhe presin që ti t'ua lejosh atyre''."
 "Tribuni, pra, e la të shkojë djalin, duke e urdhëruar që të mos i tregojë kurrkujt se e kishte vënë në dijeni për këto gjëra."
 "Pastaj thirri dy centurionë dhe u tha
 "Dhe u tha të bëjnë gati kuajt që ta hipte Pali dhe ta çonin shëndoshë e mirë te qeveritari Feliks."

@@ -1,6 +1,6 @@
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Poruncește copiilor lui Israel, ca ei să îți aducă untdelemn pur de măsline bătute, pentru lumină, pentru a face ca lămpile să ardă continuu."
-"În afara perdelei mărturiei, în tabernacolul întâlnirii, Aaron să le pună în ordine de seara până dimineața înaintea DOMNULUI, continuu; [acesta să fie] un statut veșnic în toate generațiile voastre."
+"În afara perdelei mărturiei, în tabernacolul întâlnirii, Aaron să le pună în ordine de seara până #dimineața înaintea DOMNULUI, continuu; [acesta să fie] un statut veșnic în toate generațiile voastre."
 "Să pună în ordine lămpile pe sfeșnicul cel pur, continuu înaintea DOMNULUI."
 "Și să iei floarea făinii și să coci douăsprezece turte din ea, două zecimi să fie într-o turtă."
 "Și să le pui pe două rânduri, șase pe un rând, pe masa pură înaintea DOMNULUI."
@@ -13,7 +13,7 @@
 "Și DOMNUL i-a vorbit lui Moise, spunând
 "Scoate pe cel ce a blestemat în afara taberei; și toți cei ce [l-]au auzit să își pună mâinile pe capul lui și toată adunarea să îl ucidă cu pietre."
 "Și să vorbești copiilor lui Israel, spunând
-"Și cel ce a blasfemiat numele DOMNULUI, acela cu siguranță să fie dat morții [și] toată adunarea să îl ucidă negreșit cu pietre; cel străin în același fel ca cel născut în țară, când el blasfemiază numele [DOMNULUI], să fie dat morții."
+"Și cel ce a blasfemiat numele DOMNULUI, acela cu siguranță să fie dat morții [și] toată adunarea să îl ucidă negreșit cu #pietre; cel străin în același fel ca cel născut în țară, când el blasfemiază numele [DOMNULUI], să fie dat morții."
 "Și cel ce ucide vreun om să fie cu siguranță dat morții."
 "Și cel ce ucide un animal va plăti; animal pentru animal."
 "Și dacă un bărbat provoacă o vătămare aproapelui său; precum a făcut, astfel să îi fie făcut;"

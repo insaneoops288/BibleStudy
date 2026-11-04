@@ -9,7 +9,7 @@
 "Și am cumpărat câmpul de la Hanameel, fiul unchiului meu, care [este] în Anatot și i-am cântărit banii,[ ]șaptesprezece șekeli de argint."
 "Și am semnat dovada și am sigilat-[o] și am luat martori și [i-]am cântărit banii în balanță."
 "Astfel, am luat dovada de cumpărare, [deopotrivă] pe cea care era sigilată [conform ]legii și obiceiului; și pe cea deschisă;"
-"Și i-am dat dovada de cumpărare lui Baruc, fiul lui Neriia, fiul lui Mahseia, înaintea ochilor lui Hanameel, [fiul ]unchiului meu; și în prezența martorilor care au semnat cartea de cumpărare, înaintea tuturor iudeilor care ședeau în curtea închisorii."
+"Și i-am dat dovada de cumpărare lui Baruc, fiul lui Neriia, fiul lui Mahseia, înaintea ochilor lui Hanameel, [fiul ]unchiului #meu; și în prezența martorilor care au semnat cartea de cumpărare, înaintea tuturor iudeilor care ședeau în curtea închisorii."
 "Și i-am poruncit lui Baruc înaintea lor, spunând
 "Astfel spune DOMNUL oștirilor, Dumnezeul lui Israel
 "Pentru că astfel spune DOMNUL oștirilor, Dumnezeul lui Israel
@@ -20,19 +20,19 @@
 "Care ai făcut semne și minuni în țara Egiptului, [care rămân] până în această zi și în Israel și printre [alți ]oameni; și ți-ai făcut un nume, precum în această zi;"
 "Și ai scos pe poporul tău, Israel, din țara Egiptului, cu semne și cu minuni și cu o mână tare și cu un braț întins și cu mare groază;"
 "Și le-ai dat această țară, pe care ai jurat părinților lor că le-o vei da, o țară în care curge lapte și miere;"
-"Și ei au intrat și au stăpânit-o; dar nu au ascultat de vocea ta, nici nu au umblat în legea ta; nu au făcut nimic din tot ce le-ai poruncit să facă; de aceea tu ai făcut ca tot acest rău să vină asupra lor;"
-"Iată, valurile de pământ, ei au ajuns până la cetate, să o ia; și cetatea este dată în mâna caldeenilor, care luptă împotriva ei, din cauza sabiei și a foametei și a ciumei; și ce ai vorbit s-a întâmplat; și, iată, tu vezi [aceasta]."
+"Și ei au intrat și au stăpânit-o; dar nu au ascultat de vocea ta, nici nu au umblat în legea ta; nu au #făcut nimic din tot ce le-ai poruncit să facă; de aceea tu ai făcut ca tot acest rău să vină asupra lor;"
+"Iată, valurile de pământ, ei au ajuns până la cetate, să o ia; și cetatea este dată în mâna caldeenilor, care luptă împotriva #ei, din cauza sabiei și a foametei și a ciumei; și ce ai vorbit s-a întâmplat; și, iată, tu vezi [aceasta]."
 "Și tu mi-ai spus, Doamne DUMNEZEULE
 "Atunci a venit cuvântul DOMNULUI la Ieremia, spunând
 "Iată, eu [sunt] DOMNUL Dumnezeul a toată făptura; este ceva prea greu pentru mine?"
 "De aceea astfel spune DOMNUL
-"Și caldeenii, care luptă împotriva acestei cetăți, vor veni și vor pune foc acestei cetăți și o vor arde împreună cu casele, pe a căror acoperișuri ei au ars tămâie lui Baal și au turnat daruri de băutură altor dumnezei, pentru a mă provoca la mânie."
+"Și caldeenii, care luptă împotriva acestei cetăți, vor veni și vor pune foc acestei cetăți și o vor arde împreună cu casele, pe a #căror acoperișuri ei au ars tămâie lui Baal și au turnat daruri de băutură altor dumnezei, pentru a mă provoca la mânie."
 "Căci copiii lui Israel și copiii lui Iuda au făcut numai rău înaintea mea din tinerețea lor; căci copiii lui Israel numai m-au provocat la mânie cu lucrarea mâinilor lor, spune DOMNUL."
 "Pentru că această cetate a fost pentru mine [ca ]o provocare a mâniei mele și a furiei mele din ziua în care au zidit-o până în această zi; ca să o îndepărtez dinaintea feței mele,"
-"Pentru tot răul pe care copiii lui Israel și copiii lui Iuda, l-au făcut pentru a mă provoca la mânie, ei, împărații lor, prinții lor, preoții lor și profeții lor și bărbații lui Iuda și locuitorii Ierusalimului."
+"Pentru tot răul pe care copiii lui Israel și copiii lui Iuda, l-au făcut pentru a mă provoca la #mânie, ei, împărații lor, prinții lor, preoții lor și profeții lor și bărbații lui Iuda și locuitorii Ierusalimului."
 "Și ei și-au întors spre mine spatele, nu fața; deși i-am învățat, ridicându-mă devreme și învățându-[i], totuși ei nu au dat ascultare pentru a primi instrucțiune."
 "Ci au pus urâciunile lor în casa care se numește după numele meu, pentru a o spurca."
-"Și au zidit înălțimile lui Baal, care [sunt] în valea fiului lui Hinom, pentru a face pe fiii lor și pe fiicele lor să treacă [prin foc],[ ]lui Moloh; ceea ce eu nu le-am poruncit, nici nu a venit în mintea mea, ca ei să facă această urâciune, să facă pe Iuda să păcătuiască."
+"Și au zidit înălțimile lui Baal, care [sunt] în valea fiului lui Hinom, pentru a face pe fiii lor și pe fiicele lor să treacă [prin foc],[ ]lui #Moloh; ceea ce eu nu le-am poruncit, nici nu a venit în mintea mea, ca ei să facă această urâciune, să facă pe Iuda să păcătuiască."
 "Și acum de aceea, astfel spune DOMNUL Dumnezeul lui Israel referitor la această cetate, despre care voi spuneți
 "Iată, îi voi aduna din toate țările în care i-am alungat în mânia mea și în furia mea și în mare indignare; și îi voi întoarce în acest loc și îi voi face să locuiască în siguranță."
 "Și ei vor fi poporul meu și eu voi fi Dumnezeul lor;"
@@ -41,4 +41,4 @@
 "Da, mă voi bucura de ei pentru a le face bine și îi voi sădi în această țară întradevăr cu toată inima mea și cu tot sufletul meu."
 "Pentru că astfel spune DOMNUL
 "Și câmpuri se vor cumpăra în această țară, despre care voi spuneți
-"Oamenii[ ]vor cumpăra câmpuri cu bani și vor semna dovezi și [le] vor sigila și vor lua martori în țara lui Beniamin și în locurile dimprejurul Ierusalimului și în cetățile lui Iuda și în cetățile munților și în cetățile văii și în cetățile din sud, pentru că voi face pe cei captivi dintre ei să se întoarcă, spune DOMNUL."
+"Oamenii[ ]vor cumpăra câmpuri cu bani și vor semna dovezi și [le] vor sigila și vor lua martori în țara lui Beniamin și în locurile dimprejurul Ierusalimului și în cetățile #lui Iuda și în cetățile munților și în cetățile văii și în cetățile din sud, pentru că voi face pe cei captivi dintre ei să se întoarcă, spune DOMNUL."

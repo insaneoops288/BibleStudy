@@ -6,14 +6,14 @@
 "At kayo'y magiging isang kaharian ng mga saserdote sa akin, at isang banal na bansa. Ito ang mga salita na inyong sasalitaan sa mga anak ni Israel."
 "At dumating si Moises at tinawag ang mga matanda sa bayan, at ipinahayag sa harap nila ang lahat ng salitang ito na iniutos ng Panginoon sa kaniya."
 "At ang buong bayan ay sumagot na magkakaisa, at nagsabi, Yaong lahat na sinalita ng Panginoon ay aming gagawin. At ipinagbigay alam ni Moises ang mga salita ng bayan sa Panginoon."
-"At sinabi ng Panginoon kay Moises, Narito ako'y naparirito sa iyo sa isang salimuot na ulap upang marinig ng bayan pagka ako'y magsasalita sa iyo, at paniwalaan ka rin naman nila magpakailan man. At sinalita ni Moises ang mga salita ng bayan sa Panginoon."
+"At sinabi ng Panginoon kay Moises, Narito ako'y naparirito sa iyo sa isang salimuot na ulap upang marinig ng bayan pagka ako'y magsasalita #sa iyo, at paniwalaan ka rin naman nila magpakailan man. At sinalita ni Moises ang mga salita ng bayan sa Panginoon."
 "At sinabi ng Panginoon kay Moises, Pumaroon ka sa bayan at papagbanalin mo sila ngayon at bukas at labhan nila ang kanilang mga damit,"
 "At humanda sa ikatlong araw
 "At lalagyan mo ng mga hangganan ang bayan sa palibot, na iyong sasabihin, Magingat kayo, na kayo'y huwag sumampa sa bundok, o sumalang sa hangganan
 "Walang kamay na hihipo sa kaniya, kundi, siya'y tunay na babatuhin, o papanain; maging hayop o tao ay hindi mabubuhay
 "At bumaba si Moises sa bayan mula sa bundok, at pinakabanal ang bayan, at sila'y naglaba ng kanilang mga damit."
 "At kaniyang sinabi sa bayan, humanda kayo sa ikatlong araw; huwag kayong sumiping sa babae."
-"At nangyari ng ikatlong araw, ng umaga, na kumulog at kumidlat, at may isang salimuot na ulap sa ibabaw ng bundok, at ang tunog ng pakakak ay napakalakas; at ang buong bayan na nasa kampamento ay nanginig."
+"At nangyari ng ikatlong araw, ng umaga, na kumulog at kumidlat, at may isang salimuot na ulap sa ibabaw #ng bundok, at ang tunog ng pakakak ay napakalakas; at ang buong bayan na nasa kampamento ay nanginig."
 "At inilabas ni Moises ang bayan sa kampamento upang salubungin ang Dios; at sila'y tumayo sa paanan ng bundok."
 "At ang buong bundok ng Sinai ay umuusok, sapagka't ang Panginoon ay bumaba sa ibabaw niyaon na nasa apoy
 "At nang lumalakas ng lumalakas ang tunog ng pakakak ay nagsasalita si Moises, at sinasagot siya ng Dios sa pamamagitan ng tinig."

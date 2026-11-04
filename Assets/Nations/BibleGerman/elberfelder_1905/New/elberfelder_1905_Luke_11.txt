@@ -8,7 +8,7 @@
 "Ich sage euch, wenn er auch nicht aufstehen und ihm geben wird, weil er sein Freund ist, so wird er wenigstens um seiner Unverschämtheit willen aufstehen und ihm geben, soviel er bedarf."
 "Und ich sage euch
 "Denn jeder Bittende empfängt, und der Suchende findet, und dem Anklopfenden wird aufgetan werden."
-"Wer aber ist ein Vater unter euch, den der Sohn um Brot bitten wird, er wird ihm doch nicht einen Stein geben? Oder auch um einen Fisch, er wird ihm statt des Fisches doch nicht eine Schlange geben?"
+"Wer aber ist ein Vater unter euch, den der Sohn um Brot bitten wird, er wird ihm doch nicht einen #Stein geben? Oder auch um einen Fisch, er wird ihm statt des Fisches doch nicht eine Schlange geben?"
 "Oder auch, wenn er um ein Ei bäte, er wird ihm doch nicht einen Skorpion geben?"
 "Wenn nun ihr, die ihr böse seid, euren Kindern gute Gaben zu geben wisset, wieviel mehr wird der Vater, der vom Himmel ist, den Heiligen Geist geben denen, die ihn bitten!"
 "Und er trieb einen Dämon aus, und derselbe war stumm. Es geschah aber, als der Dämon ausgefahren war, redete der Stumme; und die Volksmengen verwunderten sich."
@@ -28,7 +28,7 @@
 "Er aber sprach
 "Als aber die Volksmengen sich zusammendrängten, fing er an zu sagen
 "Denn gleichwie Jonas den Niniviten ein Zeichen war, so wird es auch der Sohn des Menschen diesem Geschlecht sein."
-"Eine Königin des Südens wird auftreten im Gericht mit den Männern dieses Geschlechts und wird sie verdammen; denn sie kam von den Enden der Erde, um die Weisheit Salomons zu hören; und siehe, mehr als Salomon ist hier."
+"Eine Königin des Südens wird auftreten im Gericht mit den Männern dieses Geschlechts und wird sie verdammen; denn sie kam #von den Enden der Erde, um die Weisheit Salomons zu hören; und siehe, mehr als Salomon ist hier."
 "Männer von Ninive werden aufstehen im Gericht mit diesem Geschlecht und werden es verdammen; denn sie taten Buße auf die Predigt Jonas'; und siehe, mehr als Jonas ist hier."
 "Niemand aber, der eine Lampe angezündet hat, stellt sie ins Verborgene, noch unter den Scheffel, sondern auf das Lampengestell, auf daß die Hereinkommenden den Schein sehen."
 "Die Lampe des Leibes ist dein Auge; wenn dein Auge einfältig ist, so ist auch dein ganzer Leib licht; wenn es aber böse ist, so ist auch dein Leib finster."
@@ -39,7 +39,7 @@
 "Der Herr aber sprach zu ihm
 "Toren! Hat nicht der, welcher dasÄußere gemacht hat, auch das Innere gemacht?"
 "Gebet vielmehr Almosen von dem, was ihr habt, und siehe, alles ist euch rein."
-"Aber wehe euch Pharisäern! Denn ihr verzehntet die Krausemünze und die Raute und alles Kraut, undübergehet das Gericht und die Liebe Gottes; diese Dinge hättet ihr tun und jene nicht lassen sollen."
+"Aber wehe euch Pharisäern! Denn ihr verzehntet die Krausemünze und die Raute und alles Kraut, undübergehet das #Gericht und die Liebe Gottes; diese Dinge hättet ihr tun und jene nicht lassen sollen."
 "Wehe euch Pharisäern! Denn ihr liebet den ersten Sitz in den Synagogen und die Begrüßungen auf den Märkten."
 "Wehe euch! Denn ihr seid wie die Grüfte, die verborgen sind, und die Menschen, die darüber wandeln, wissen es nicht."
 "Aber einer der Gesetzgelehrten antwortete und spricht zu ihm

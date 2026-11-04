@@ -8,7 +8,7 @@
 "Dhe unë, Gjoni, jam ai që kam parë dhe dëgjuar këto gjëra; dhe kur dëgjova dhe pashë, rashë për ta adhuruar përpara këmbëve të engjëllit që m'i tregonte këto gjëra."
 "Dhe ai më tha
 "Pastaj më tha
-"Kush është i padrejtë, le të vazhdojë të jetë i padrejtë, kush është i ndyrë le të vazhdojë të jetë i ndyrë, kush është i drejtë le të vazhdojë të praktikojë drejtësinë, dhe kush është i shenjtë le të vazhdojë të shenjtërohet."
+"Kush është i padrejtë, le të vazhdojë të jetë i padrejtë, kush është i ndyrë le të vazhdojë të jetë i ndyrë, #kush është i drejtë le të vazhdojë të praktikojë drejtësinë, dhe kush është i shenjtë le të vazhdojë të shenjtërohet."
 "Dhe ja, unë vij shpejt, dhe shpërblimi im është me mua, për t'i dhënë gjithsecilit sipas veprave që ai ka bërë."
 "Unë jam Alfa dhe Omega, fillimi dhe mbarimi, i pari dhe i fundit''."
 "Lum ata që i kryejnë urdhërimet e tij, që të kenë të drejtën për drurin e jetës dhe për të hyrë në portat e qytetit."

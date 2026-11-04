@@ -16,7 +16,7 @@
 "Obadyjasz też, syn Semahajasza, syna Galalowego, syna Jedytunowego, i Barachyjasz, syn Asy, syna Elkanowego, który mieszkał we wsiach Netofatyckich."
 "A odźwierni
 "Który aż dotąd w bramie królewskiej stawał na wschód słońca; ci byli odźwiernymi według pocztów synów Lewiego."
-"Ale Sallum, syn Korego, syna Abijazafowego, syna Korego, i bracia jego z domu ojca jego, Korytczycy byli ku odprawowaniu posługi, stróżami progów namiotu; a ojcowie ich byli nad obozem Pańskim stróżami wejścia."
+"Ale Sallum, syn Korego, syna Abijazafowego, syna Korego, i bracia jego z domu ojca jego, Korytczycy byli #ku odprawowaniu posługi, stróżami progów namiotu; a ojcowie ich byli nad obozem Pańskim stróżami wejścia."
 "A Finees syn Eleazarowy, był książęciem nad nimi, a Pan był z nimi."
 "Zacharyjasz zasię, syn Mesellemijaszowy, był odźwiernym drzwi u namiotu zgromadzenia."
 "Cić wszyscy są obrani za odźwiernych do drzwi, dwieście osób i dwanaście

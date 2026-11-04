@@ -29,8 +29,8 @@
 "En Jesus antwoord en sê
 "of hy ontvang nou in hierdie tyd honderd maal soveel
 "Maar baie wat eerste is, sal laaste wees, en die wat laaste is, eerste."
-"En hulle was op die pad terwyl hulle opgaan na Jerusalem, en Jesus het voor hulle uit gegaan, en hulle was verbaas; en terwyl hulle volg, het hulle gevrees. En Hy het weer die twaalf by Hom geneem en aan hulle begin vertel die dinge wat met Hom sou gebeur."
-"Kyk, sê Hy, ons gaan op na Jerusalem, en die Seun van die mens sal oorgelewer word aan die owerpriesters en die skrifgeleerdes, en hulle sal Hom tot die dood veroordeel en Hom oorlewer aan die heidene;"
+"En hulle was op die pad terwyl hulle opgaan na Jerusalem, en Jesus het voor hulle uit gegaan, en hulle was verbaas; en terwyl hulle volg, #het hulle gevrees. En Hy het weer die twaalf by Hom geneem en aan hulle begin vertel die dinge wat met Hom sou gebeur."
+"Kyk, sê Hy, ons gaan op na Jerusalem, en die Seun van die mens sal oorgelewer word aan die #owerpriesters en die skrifgeleerdes, en hulle sal Hom tot die dood veroordeel en Hom oorlewer aan die heidene;"
 "en hulle sal Hom bespot en Hom gésel en op Hom spuug en Hom doodmaak; en op die derde dag sal Hy opstaan."
 "En Jakobus en Johannes, die seuns van Sebedéüs, het na Hom gekom en gesê
 "En Hy sê vir hulle

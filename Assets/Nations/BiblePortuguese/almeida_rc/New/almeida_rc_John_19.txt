@@ -20,7 +20,7 @@
 "E muitos dos judeus leram este título; porque o lugar onde Jesus estava crucificado era próximo da cidade; e estava escrito em hebraico, grego e latim."
 "Diziam pois os principais sacerdotes dos judeus a Pilatos
 "Respondeu Pilatos
-"Tendo pois os soldados crucificado a Jesus, tomaram os seus vestidos, e fizeram quatro partes, para cada soldado uma parte; e também a túnica. A túnica, porém, tecida toda de alto a baixo, não tinha costura."
+"Tendo pois os soldados crucificado a Jesus, tomaram os seus vestidos, e fizeram quatro partes, para cada soldado uma #parte; e também a túnica. A túnica, porém, tecida toda de alto a baixo, não tinha costura."
 "Disseram pois uns aos outros
 "E junto à cruz de Jesus estava sua mãe, e a irmã de sua mãe, Maria de Cléofas, e Maria Madalena."
 "Ora Jesus, vendo ali sua mãe, e que o discípulo a quem ele amava estava presente, disse a sua mãe
@@ -28,14 +28,14 @@
 "Depois, sabendo Jesus que já todas as coisas estavam terminadas, para que a Escritura se cumprisse, disse
 "Estava pois ali um vaso cheio de vinagre. E encheram de vinagre uma esponja, e, pondo-a num hissope, lha chegaram à boca."
 "E, quando Jesus tomou o vinagre, disse
-"Os judeus, pois, para que no sábado não ficassem os corpos na cruz, visto como era a preparação (pois era grande o dia de sábado), rogaram a Pilatos que se lhes quebrassem as pernas, e fossem tirados."
+"Os judeus, pois, para que no sábado não ficassem os corpos na cruz, visto como era a preparação (pois #era grande o dia de sábado), rogaram a Pilatos que se lhes quebrassem as pernas, e fossem tirados."
 "Foram pois os soldados, e, na verdade, quebraram as pernas ao primeiro, e ao outro que com ele fora crucificado;"
 "Mas, vindo a Jesus, e vendo-o já morto, não lhe quebraram as pernas."
 "Contudo um dos soldados lhe furou o lado com uma lança, e logo saiu sangue e água."
 "E aquele que o viu testificou, e o seu testemunho é verdadeiro; e sabe que é verdade o que diz, para que também vós o creiais."
 "Porque isto aconteceu para que se cumprisse a Escritura, que diz
 "E outra vez diz a Escritura
-"Depois disto, José de Arimateia (o que era discípulo de Jesus, mas oculto, por medo dos judeus) rogou a Pilatos que lhe permitisse tirar o corpo de Jesus. E Pilatos lho permitiu. Então foi e tirou o corpo de Jesus."
+"Depois disto, José de Arimateia (o que era discípulo de Jesus, mas oculto, por medo dos judeus) rogou a Pilatos que #lhe permitisse tirar o corpo de Jesus. E Pilatos lho permitiu. Então foi e tirou o corpo de Jesus."
 "E foi também Nicodemos (aquele que anteriormente se dirigira de noite a Jesus), levando quase cem arráteis dum composto de mirra e aloés."
 "Tomaram pois o corpo de Jesus e o envolveram em lençóis com as especiarias, como os judeus costumam fazer, na preparação para o sepulcro."
 "E havia um horto naquele lugar onde fora crucificado, e no horto um sepulcro novo, em que ainda ninguém havia sido posto."

@@ -26,4 +26,4 @@
 "Ve dvamecítma letech byl Ochoziáš, když počal kralovati, a kraloval jeden rok v Jeruzalémě. Jméno matky jeho bylo Atalia, dcera Amri krále Izraelského."
 "A chodil cestou domu Achabova, čině, což jest zlého před očima Hospodinovýma, jako i dům Achabův, nebo byl zetěm domu Achabova."
 "Pročež vycházel s Joramem synem Achabovým, na vojnu proti Hazaelovi králi Syrskému, do Rámot Galád; ale porazili Syrští Jorama."
-"A tak navrátil se král Joram, aby se hojil v Jezreel na rány, kterýmiž ho ranili Syrští v Ráma, když bojoval s Hazaelem králem Syrským. Ochoziáš pak syn Jehorama, krále Judského, přijel, aby navštívil Jorama syna Achabova v Jezreel; nebo tam nemocen byl."
+"A tak navrátil se král Joram, aby se hojil v Jezreel na rány, kterýmiž ho ranili Syrští v Ráma, když bojoval s #Hazaelem králem Syrským. Ochoziáš pak syn Jehorama, krále Judského, přijel, aby navštívil Jorama syna Achabova v Jezreel; nebo tam nemocen byl."

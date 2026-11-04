@@ -7,10 +7,10 @@
 "Ímé mindnyájan, kik itt vagytok Izráel fiai, szóljatok errõl és tanácskozzatok [felõle]."
 "Ekkor felállott az egész nép, mint egy ember, mondván
 "Mert most Gibea ellen ezt cselekedéndjük
-"És választunk tíz férfiút száz közül, és százat ezer közül, és ezeret tízezer közül, Izráelnek minden nemzetségébõl, hogy hordjanak élelmet a népnek, hogy ez elmenvén, cselekedjék Benjámin Gibeájával annak minden gonoszsága szerint, melyet elkövetett Izráelben."
+"És választunk tíz férfiút száz közül, és százat ezer közül, és ezeret tízezer közül, Izráelnek minden nemzetségébõl, hogy #hordjanak élelmet a népnek, hogy ez elmenvén, cselekedjék Benjámin Gibeájával annak minden gonoszsága szerint, melyet elkövetett Izráelben."
 "És összegyülekezett Izráel minden férfia a város ellen, mint egy ember, egyesülten."
 "És követeket küldöttek az Izráel nemzetségei Benjámin minden törzseihez, mondván
-"Most adjátok ki azokat a férfiakat, a Béliál fiait, a kik Gibeában vannak, hogy megöljük õket, és kitisztítsuk a gonoszt Izráelbõl. De a Benjámin fiai nem akartak hallgatni testvéreiknek, az Izráel fiainak szavára,"
+"Most adjátok ki azokat a férfiakat, a Béliál fiait, a kik Gibeában vannak, hogy megöljük õket, és #kitisztítsuk a gonoszt Izráelbõl. De a Benjámin fiai nem akartak hallgatni testvéreiknek, az Izráel fiainak szavára,"
 "Hanem egybegyûltek a Benjámin fiai a városokból Gibeába, hogy kimenjenek harczolni az Izráel fiaival."
 "És azon a napon a Benjámin fiai, a kik a városokból [jöttek fel,] huszonhatezer fegyverfogható férfiút számlálának, Gibea lakóin kivül, kik szám szerint hétszázan voltak, [mind] válogatott férfiú."
 "Ebbõl az egész népbõl volt hétszáz válogatott férfiú, a kik suták voltak. Ezek mindnyájan a parittyával hajszálnyira [biztosan] találtak és nem hibázták el."
@@ -23,12 +23,12 @@
 "És felmenének az Izráel fiai, és [ott] sírtak, az Úr elõtt egész estig, és megkérdezték az Urat, mondván
 "És mikor az Izráel fiai másnap a Benjámin fiai ellen felvonultak,"
 "Kijött elébük Benjámin Gibeából másnap, és levert az Izráel fiai közül [még] tizennyolczezer embert a földre, kik mindannyian fegyverfoghatók valának."
-"Ekkor felment Izráel minden fia és az egész nép, és elmenvén Béthelbe, sírtak, és ott maradtak az Úr elõtt és bõjtöltek aznap egész estvéig, és égõáldozattal és hálaadó áldozattal áldoztak az Úr elõtt."
+"Ekkor felment Izráel minden fia és az egész nép, és elmenvén Béthelbe, sírtak, és ott maradtak az #Úr elõtt és bõjtöltek aznap egész estvéig, és égõáldozattal és hálaadó áldozattal áldoztak az Úr elõtt."
 "És megkérdezék az Izráel fiai az Urat, - mert ott volt abban az idõben az Isten frigyládája."
 "És Fineás, az Áron fiának Eleázárnak fia szolgált körülötte abban az idõben - mondván
 "És leseket vetett Izráel Gibea ellen köröskörül."
 "És felvonultak az Izráel fiai a Benjámin fiai ellen harmadnapon, és felállottak Gibea ellen úgy, mint annakelõtte."
-"Ekkor kijöttek a Benjámin fiai a nép ellen, elszakasztatának a várostól, és elkezdették a népet verni, és ölni, mint annakelõtte, a mezõn, a két úton, melynek egyike Béthelbe, másika Gibea felé vezet, [és már megöltek] mintegy harmincz férfiút Izráelbõl."
+"Ekkor kijöttek a Benjámin fiai a nép ellen, elszakasztatának a várostól, és elkezdették a népet verni, és ölni, mint annakelõtte, #a mezõn, a két úton, melynek egyike Béthelbe, másika Gibea felé vezet, [és már megöltek] mintegy harmincz férfiút Izráelbõl."
 "És mondának a Benjámin fiai
 "És az Izráel minden fia elhagyta helyét és Baál-Thámárnál állott fel. Izráel lesei pedig elõtörtek [rejtek]helyeikbõl Maareh-Gabából."
 "Ekkor az egész Izráelbõl tízezer válogatott férfiú tört Gibea ellen, és néki búsulának a harcznak, és amazok észre sem vették, hogy veszedelemben forognak."
@@ -45,4 +45,4 @@
 "Ekkor megfordultak, és a pusztába menekültek, a Rimmon sziklájához; de az útakon még megöltek közülök ötezer embert, és azután egész Gideomig mentek utánok, és megöltek közülök kétezer embert."
 "Azok tehát, akik elestek Benjámin közül, összesen huszonötezeren voltak, kik mindannyian fegyvert fogtak azon a napon, és mindnyájan vitéz férfiak voltak."
 "De hatszáz férfiú megfordult, és elmenekült a pusztába a Rimmon kõsziklájára, és ott [is] maradt a Rimmon szikláján négy hónapig."
-"Az Izráel férfiai pedig visszatértek a Benjámin fiaira, és megölték õket fegyvernek élével a városokban az emberektõl a barmokig, és a mi csak található volt; az összes városokat pedig, miket találtak, tûzzel égették meg."
+"Az Izráel férfiai pedig visszatértek a Benjámin fiaira, és megölték õket fegyvernek élével a városokban az emberektõl a #barmokig, és a mi csak található volt; az összes városokat pedig, miket találtak, tûzzel égették meg."

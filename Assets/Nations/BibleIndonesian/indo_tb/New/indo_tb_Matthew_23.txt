@@ -10,9 +10,9 @@
 "Janganlah pula kamu disebut pemimpin, karena hanya satu Pemimpinmu, yaitu Mesias."
 "Barangsiapa terbesar di antara kamu, hendaklah ia menjadi pelayanmu."
 "Dan barangsiapa meninggikan diri, ia akan direndahkan dan barangsiapa merendahkan diri, ia akan ditinggikan."
-"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, karena kamu menutup pintu-pintu Kerajaan Sorga di depan orang. Sebab kamu sendiri tidak masuk dan kamu merintangi mereka yang berusaha untuk masuk."
-"(Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu menelan rumah janda-janda sedang kamu mengelabui mata orang dengan doa yang panjang-panjang. Sebab itu kamu pasti akan menerima hukuman yang lebih berat.)"
-"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu mengarungi lautan dan menjelajah daratan, untuk mentobatkan satu orang saja menjadi penganut agamamu dan sesudah ia bertobat, kamu menjadikan dia orang neraka, yang dua kali lebih jahat dari pada kamu sendiri."
+"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, karena kamu menutup pintu-pintu Kerajaan Sorga #di depan orang. Sebab kamu sendiri tidak masuk dan kamu merintangi mereka yang berusaha untuk masuk."
+"(Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu menelan rumah janda-janda sedang kamu #mengelabui mata orang dengan doa yang panjang-panjang. Sebab itu kamu pasti akan menerima hukuman yang lebih berat.)"
+"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu mengarungi lautan dan menjelajah daratan, untuk mentobatkan satu orang #saja menjadi penganut agamamu dan sesudah ia bertobat, kamu menjadikan dia orang neraka, yang dua kali lebih jahat dari pada kamu sendiri."
 "Celakalah kamu, hai pemimpin-pemimpin buta, yang berkata
 "Hai kamu orang-orang bodoh dan orang-orang buta, apakah yang lebih penting, emas atau Bait Suci yang menguduskan emas itu?"
 "Bersumpah demi mezbah, sumpah itu tidak sah; tetapi bersumpah demi persembahan yang ada di atasnya, sumpah itu mengikat."
@@ -20,11 +20,11 @@
 "Karena itu barangsiapa bersumpah demi mezbah, ia bersumpah demi mezbah dan juga demi segala sesuatu yang terletak di atasnya."
 "Dan barangsiapa bersumpah demi Bait Suci, ia bersumpah demi Bait Suci dan juga demi Dia, yang diam di situ."
 "Dan barangsiapa bersumpah demi sorga, ia bersumpah demi takhta Allah dan juga demi Dia, yang bersemayam di atasnya."
-"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab persepuluhan dari selasih, adas manis dan jintan kamu bayar, tetapi yang terpenting dalam hukum Taurat kamu abaikan, yaitu
+"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab persepuluhan dari selasih, #adas manis dan jintan kamu bayar, tetapi yang terpenting dalam hukum Taurat kamu abaikan, yaitu
 "Hai kamu pemimpin-pemimpin buta, nyamuk kamu tapiskan dari dalam minumanmu, tetapi unta yang di dalamnya kamu telan."
-"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab cawan dan pinggan kamu bersihkan sebelah luarnya, tetapi sebelah dalamnya penuh rampasan dan kerakusan."
+"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab cawan #dan pinggan kamu bersihkan sebelah luarnya, tetapi sebelah dalamnya penuh rampasan dan kerakusan."
 "Hai orang Farisi yang buta, bersihkanlah dahulu sebelah dalam cawan itu, maka sebelah luarnya juga akan bersih."
-"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu sama seperti kuburan yang dilabur putih, yang sebelah luarnya memang bersih tampaknya, tetapi yang sebelah dalamnya penuh tulang belulang dan pelbagai jenis kotoran."
+"Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu sama seperti kuburan yang dilabur #putih, yang sebelah luarnya memang bersih tampaknya, tetapi yang sebelah dalamnya penuh tulang belulang dan pelbagai jenis kotoran."
 "Demikian jugalah kamu, di sebelah luar kamu tampaknya benar di mata orang, tetapi di sebelah dalam kamu penuh kemunafikan dan kedurjanaan."
 "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu membangun makam nabi-nabi dan memperindah tugu orang-orang saleh"
 "dan berkata
@@ -34,6 +34,6 @@
 "Sebab itu, lihatlah, Aku mengutus kepadamu nabi-nabi, orang-orang bijaksana dan ahli-ahli Taurat
 "supaya kamu menanggung akibat penumpahan darah orang yang tidak bersalah mulai dari Habel, orang benar itu, sampai kepada Zakharia anak Berekhya, yang kamu bunuh di antara tempat kudus dan mezbah."
 "Aku berkata kepadamu
-"""Yerusalem, Yerusalem, engkau yang membunuh nabi-nabi dan melempari dengan batu orang-orang yang diutus kepadamu! Berkali-kali Aku rindu mengumpulkan anak-anakmu, sama seperti induk ayam mengumpulkan anak-anaknya di bawah sayapnya, tetapi kamu tidak mau."
+"""Yerusalem, Yerusalem, engkau yang membunuh nabi-nabi dan melempari dengan batu orang-orang yang diutus kepadamu! Berkali-kali Aku rindu #mengumpulkan anak-anakmu, sama seperti induk ayam mengumpulkan anak-anaknya di bawah sayapnya, tetapi kamu tidak mau."
 "Lihatlah rumahmu ini akan ditinggalkan dan menjadi sunyi."
 "Dan Aku berkata kepadamu

@@ -6,7 +6,7 @@
 "Au bout de quarante jours, Noé ouvrit la fenêtre qu'il avait faite à l'arche."
 "Il lâcha le corbeau, qui sortit, partant et revenant, jusqu'à ce que les eaux eussent séché sur la terre."
 "Il lâcha aussi la colombe, pour voir si les eaux avaient diminué à la surface de la terre."
-"Mais la colombe ne trouva aucun lieu pour poser la plante de son pied, et elle revint à lui dans l'arche, car il y avait des eaux à la surface de toute la terre. Il avança la main, la prit, et la fit rentrer auprès de lui dans l'arche."
+"Mais la colombe ne trouva aucun lieu pour poser la plante de son pied, et elle revint à lui dans l'arche, car il y avait #des eaux à la surface de toute la terre. Il avança la main, la prit, et la fit rentrer auprès de lui dans l'arche."
 "Il attendit encore sept autres jours, et il lâcha de nouveau la colombe hors de l'arche."
 "La colombe revint à lui sur le soir; et voici, une feuille d'olivier arrachée était dans son bec. Noé connut ainsi que les eaux avaient diminué sur la terre."
 "Il attendit encore sept autres jours; et il lâcha la colombe. Mais elle ne revint plus à lui."

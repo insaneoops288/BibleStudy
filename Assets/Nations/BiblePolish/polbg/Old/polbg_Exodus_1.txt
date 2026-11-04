@@ -7,7 +7,7 @@
 "A synowie Izraelscy rozrodzili się, i rozpłodzili się, i rozmnożyli się, i zmocnili się bardzo wielce, a napełniona jest ziemia nimi."
 "Między tem powstał król nowy nad Egiptem, który nie znał Józefa;"
 "I rzekł do ludu swego
-"Przetoż mądrze sobie pocznijmy z nimi, by się snać nie rozmnożył, a jeźliby przypadła wojna, aby się nie przyłączył i on do nieprzyjaciół naszych, i nie walczył przeciwko nam, i nie uszedł z ziemi."
+"Przetoż mądrze sobie pocznijmy z nimi, by się snać nie rozmnożył, a jeźliby przypadła wojna, aby się nie #przyłączył i on do nieprzyjaciół naszych, i nie walczył przeciwko nam, i nie uszedł z ziemi."
 "A tak ustawili nad nimi poborcę, aby go dręczyli ciężarami swemi; i zbudował lud Izraelski miasta składu Faraonowi
 "Ale im więcej go trapili, tem więcej się rozmnażał, i tem więcej rósł, tak, iż ściśnieni byli dla synów Izraelskich."
 "I podbili Egipczanie syny Izraelskie w niewolą ciężką."

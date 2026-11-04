@@ -15,11 +15,11 @@ from Gad, Eliasaph son of Deuel,
 from Naphtali, Ahira son of Enan."
 These were the men appointed from the community, the leaders of their ancestral tribes. They were the heads of the clans of Israel.
 Moses and Aaron took these men whose names had been given,
-and they called the whole community together on the first day of the second month. The people indicated their ancestry by their clans and families, and the men twenty years old or more were listed by name, one by one,
+and they called the whole community together on the first day of the second month. The people indicated their ancestry by #their clans and families, and the men twenty years old or more were listed by name, one by one,
 as the LORD commanded Moses. And so he counted them in the Desert of Sinai,
-From the descendants of Reuben the firstborn son of Israel, All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families.
+From the descendants of Reuben the firstborn son of Israel, All the men twenty years old or more who were able to #serve in the army were listed by name, one by one, according to the records of their clans and families.
 The number from the tribe of Reuben was 46,500.
-From the descendants of Simeon, All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families.
+From the descendants of Simeon, All the men twenty years old or more who were able to serve in the #army were counted and listed by name, one by one, according to the records of their clans and families.
 The number from the tribe of Simeon was 59,300.
 From the descendants of Gad, All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 The number from the tribe of Gad was 45,650.
@@ -29,7 +29,7 @@ From the descendants of Issachar, All the men twenty years old or more who were 
 The number from the tribe of Issachar was 54,400.
 From the descendants of Zebulun, All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 The number from the tribe of Zebulun was 57,400.
-From the sons of Joseph, From the descendants of Ephraim, All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the sons of Joseph, From the descendants of Ephraim, All the men twenty years old or more who were #able to serve in the army were listed by name, according to the records of their clans and families.
 The number from the tribe of Ephraim was 40,500.
 From the descendants of Manasseh, All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 The number from the tribe of Manasseh was 32,200.
@@ -47,8 +47,8 @@ The total number was 603,550.
 The families of the tribe of Levi, however, were not counted along with the others.
 The LORD had said to Moses,
 "You must not count the tribe of Levi or include them in the census of the other Israelites.
-Instead, appoint the Levites to be in charge of the tabernacle of the Testimony, over all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings, they are to take care of it and encamp around it.
+Instead, appoint the Levites to be in charge of the tabernacle of the Testimony, over all its furnishings and everything belonging to it. #They are to carry the tabernacle and all its furnishings, they are to take care of it and encamp around it.
 Whenever the tabernacle is to move, the Levites are to take it down, and whenever the tabernacle is to be set up, the Levites shall do it. Anyone else who goes near it shall be put to death.
 The Israelites are to set up their tents by divisions, each man in his own camp under his own standard.
-The Levites, however, are to set up their tents around the tabernacle of the Testimony so that wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the Testimony."
+The Levites, however, are to set up their tents around the tabernacle of the Testimony so that wrath will not fall #on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the Testimony."
 The Israelites did all this just as the LORD commanded Moses.

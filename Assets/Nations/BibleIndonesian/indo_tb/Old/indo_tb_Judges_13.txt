@@ -2,7 +2,7 @@
 "Pada waktu itu ada seorang dari Zora, dari keturunan orang Dan, namanya Manoah; isterinya mandul, tidak beranak."
 "Dan Malaikat TUHAN menampakkan diri kepada perempuan itu dan berfirman kepadanya, demikian
 "Oleh sebab itu, peliharalah dirimu, jangan minum anggur atau minuman yang memabukkan dan jangan makan sesuatu yang haram."
-"Sebab engkau akan mengandung dan melahirkan seorang anak laki-laki; kepalanya takkan kena pisau cukur, sebab sejak dari kandungan ibunya anak itu akan menjadi seorang nazir Allah dan dengan dia akan mulai penyelamatan orang Israel dari tangan orang Filistin."""
+"Sebab engkau akan mengandung dan melahirkan seorang anak laki-laki; kepalanya takkan kena pisau cukur, sebab sejak dari kandungan ibunya anak #itu akan menjadi seorang nazir Allah dan dengan dia akan mulai penyelamatan orang Israel dari tangan orang Filistin."""
 "Kemudian perempuan itu datang kepada suaminya dan berkata
 "Tetapi ia berkata kepadaku
 "Lalu Manoah memohon kepada TUHAN, katanya
@@ -11,13 +11,13 @@
 "Lalu bangunlah Manoah dan mengikuti isterinya. Setelah sampai kepada orang itu, berkatalah ia kepadanya
 "Lalu kata Manoah
 "Jawab Malaikat TUHAN itu kepada Manoah
-"Janganlah ia makan sesuatu yang berasal dari pohon anggur; anggur atau minuman yang memabukkan tidak boleh diminumnya dan sesuatu yang haram tidak boleh dimakannya. Ia harus berpegang pada segala yang Kuperintahkan kepadanya."""
+"Janganlah ia makan sesuatu yang berasal dari pohon anggur; anggur atau minuman yang memabukkan tidak boleh diminumnya #dan sesuatu yang haram tidak boleh dimakannya. Ia harus berpegang pada segala yang Kuperintahkan kepadanya."""
 "Kata Manoah kepada Malaikat TUHAN itu
 "Tetapi jawab Malaikat TUHAN itu kepada Manoah
 "Kemudian berkatalah Manoah kepada Malaikat TUHAN itu
 "Tetapi jawab malaikat TUHAN itu kepadanya
 "Sesudah itu Manoah mengambil seekor anak kambing dan korban sajian, lalu mempersembahkannya kepada TUHAN di atas batu. Lalu diperbuat-Nya keajaiban, sementara Manoah dan isterinya memandanginya."
-"Sedang nyala api itu naik ke langit dari mezbah, maka naiklah Malaikat TUHAN dalam nyala api mezbah itu. Ketika Manoah dan isterinya melihat hal ini, sujudlah mereka dengan mukanya sampai ke tanah."
+"Sedang nyala api itu naik ke langit dari mezbah, maka naiklah Malaikat TUHAN dalam nyala api mezbah #itu. Ketika Manoah dan isterinya melihat hal ini, sujudlah mereka dengan mukanya sampai ke tanah."
 "Sejak itu Malaikat TUHAN tidak lagi menampakkan diri kepada Manoah dan isterinya. Maka tahulah Manoah, bahwa Dia itu Malaikat TUHAN."
 "Berkatalah Manoah kepada isterinya
 "Tetapi jawab isterinya kepadanya

@@ -5,7 +5,7 @@
 "És monda
 "És monda
 "Az Úr pedig monda
-"Le is szállok, hogy megszabadítsam õt az Égyiptombeliek kezébõl és felvigyem õt arról a földrõl, jó és tágas földre, téjjel és mézzel folyó földre, a Kananeusok, Khitteusok, Emoreusok, Perizeusok, Khivveusok és Jebuzeusok lakóhelyére."
+"Le is szállok, hogy megszabadítsam õt az Égyiptombeliek kezébõl és felvigyem õt arról a földrõl, jó és #tágas földre, téjjel és mézzel folyó földre, a Kananeusok, Khitteusok, Emoreusok, Perizeusok, Khivveusok és Jebuzeusok lakóhelyére."
 "Mivel hát ímé feljutott hozzám az Izráel fiainak kiáltása és láttam is a nyomorgatást, a melylyel nyomorgatják õket az Égyiptombeliek
 "Most azért eredj, elküldelek téged a Faraóhoz és hozd ki az én népemet, az Izráel fiait Égyiptomból."
 "Mózes pedig monda az Istennek
@@ -19,4 +19,4 @@
 "Én pedig tudom, hogy az égyiptomi király nem engedi meg néktek, hogy elmenjetek, még erõhatalomra sem."
 "Kinyújtom azért az én kezemet és megverem Égyiptomot mindenféle csudáimmal, melyeket véghez viszek benne; így azután elbocsát titeket."
 "És kedvessé tészem e népet az Égyiptombeliek elõtt, és lészen, hogy mikor kimentek, nem mentek üresen."
-"Kérjen azért minden asszony az õ szomszédasszonyától és háza lakó asszonyától ezüst edényeket és arany edényeket és ruhákat; és rakjátok azokat fiaitokra és leányaitokra, s így foszszátok ki Égyiptomot."
+"Kérjen azért minden asszony az õ szomszédasszonyától és háza lakó asszonyától ezüst edényeket és arany #edényeket és ruhákat; és rakjátok azokat fiaitokra és leányaitokra, s így foszszátok ki Égyiptomot."

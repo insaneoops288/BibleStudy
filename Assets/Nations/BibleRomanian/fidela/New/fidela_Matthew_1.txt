@@ -14,7 +14,7 @@
 "Și Azor a născut pe Sadoc; și Sadoc a născut pe Achim; și Achim a născut pe Eliud;"
 "Și Eliud a născut pe Eleazar; și Eleazar a născut pe Matan; și Matan a născut pe Iacob;"
 "Și Iacob a născut pe Iosif, soțul Mariei, din care a fost născut Isus, care este numit Cristos."
-"Așadar, toate generațiile de la Avraam până la David [au fost] paisprezece generații; și de la David până la strămutarea în Babilon [au fost] paisprezece generații; și de la strămutarea în Babilon până la Cristos, [sunt] paisprezece generații."
+"Așadar, toate generațiile de la Avraam până la David [au fost] paisprezece generații; și de la David până la strămutarea #în Babilon [au fost] paisprezece generații; și de la strămutarea în Babilon până la Cristos, [sunt] paisprezece generații."
 "Și nașterea lui Isus Cristos a fost astfel
 "Atunci Iosif, soțul ei, fiind drept și nevoind să o facă de rușine înaintea lumii, a vrut să divorțeze de ea pe ascuns."
 "Dar pe când se gândea el la acestea, iată, îngerul Domnului i s-a arătat într-un vis, spunând

@@ -11,7 +11,7 @@
 "A ścieżka przed nimi była taka sama jak ścieżka tamtych komórek, które znajdowały się po stronie północnej
 "A drzwi do tych komórek, które były po stronie południowej, były podobne do drzwi na początku przejścia, właśnie tego przejścia przed murem w stronę wschodu, którędy się do nich wchodzi."
 "Wtedy powiedział do mnie
-"Gdy kapłani wejdą tam, nie wyjdą ze świątyni na dziedziniec zewnętrzny, ale tam złożą swoje szaty, w których służyli, bo są święte. I założą inne szaty, i wtedy będą mogli zbliżyć się do tego, co należy do ludu."
+"Gdy kapłani wejdą tam, nie wyjdą ze świątyni na dziedziniec zewnętrzny, ale tam złożą swoje szaty, w których służyli, bo #są święte. I założą inne szaty, i wtedy będą mogli zbliżyć się do tego, co należy do ludu."
 "A gdy ukończył mierzenie domu wewnętrznego, wyprowadził mnie w stronę bramy, która była zwrócona na wschód, i zmierzył zewsząd dokoła."
 "Prętem mierniczym zmierzył stronę wschodnią – pięćset prętów wokoło według pręta mierniczego."
 "Zmierzył także stronę północną – pięćset prętów wokoło według pręta mierniczego."

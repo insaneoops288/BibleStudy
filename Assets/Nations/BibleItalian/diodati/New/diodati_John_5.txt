@@ -1,7 +1,7 @@
 "DOPO queste cose v’era una festa de’ Giudei; e Gesù salì in Gerusalemme."
 "Or in Gerusalemme, presso della porta delle pecore, v’è una pescina, detta in Ebreo Betesda, che ha cinque portici."
 "In essi giaceva gran moltitudine d’infermi, di ciechi, di zoppi, di secchi, aspettando il movimento dell’acqua."
-"Perciocchè di tempo in tempo un angelo scendeva nella pescina, ed intorbidava l’acqua; e il primo che vi entrava, dopo l’intorbidamento dell’acqua, era sanato, di qualunque malattia egli fosse tenuto."
+"Perciocchè di tempo in tempo un angelo scendeva nella pescina, ed intorbidava l’acqua; e il primo #che vi entrava, dopo l’intorbidamento dell’acqua, era sanato, di qualunque malattia egli fosse tenuto."
 "Or quivi era un certo uomo, ch’era stato infermo trentotto anni."
 "Gesù, veduto costui giacere, e sapendo che già lungo tempo era stato infermo, gli disse
 "L’infermo gli rispose
@@ -33,7 +33,7 @@
 "Voi mandaste a Giovanni, ed egli rendette testimonianza alla verità."
 "Or io non prendo testimonianza da uomo alcuno, ma dico queste cose, acciocchè siate salvati."
 "Esso era una lampana ardente, e lucente; e voi volentieri gioiste, per un breve tempo, alla sua luce."
-"Ma io ho la testimonianza maggiore di quella di Giovanni, poichè le opere che il Padre mi ha date ad adempiere, quelle opere, dico, le quali io fo, testimoniano di me, che il Padre mio mi ha mandato."
+"Ma io ho la testimonianza maggiore di quella di Giovanni, poichè le opere che il Padre mi ha date ad #adempiere, quelle opere, dico, le quali io fo, testimoniano di me, che il Padre mio mi ha mandato."
 "Ed anche il Padre stesso che mi ha mandato ha testimoniato di me; voi non udiste giammai la sua voce, nè vedeste la sua sembianza;"
 "e non avete la sua parola dimorante in voi, perchè non credete a colui ch’egli ha mandato."
 "Investigate le scritture, perciocchè voi pensate per esse aver vita eterna; ed esse son quelle che testimoniano di me."

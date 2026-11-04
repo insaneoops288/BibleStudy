@@ -6,7 +6,7 @@
 "Y salió entonces de Samaria el rey Joram, é inspeccionó á todo Israel."
 "Y fué y envió á decir á Josaphat rey de Judá
 "Y dijo
-"Partieron pues el rey de Israel, y el rey de Judá, y el rey de Idumea; y como anduvieron rodeando por el desierto siete días de camino, faltóles el agua para el ejército, y para las bestias que los seguían."
+"Partieron pues el rey de Israel, y el rey de Judá, y el rey de Idumea; y como anduvieron rodeando por #el desierto siete días de camino, faltóles el agua para el ejército, y para las bestias que los seguían."
 "Entonces el rey de Israel dijo
 "Mas Josaphat dijo
 "Y Josaphat dijo
@@ -22,6 +22,6 @@
 "Y como se levantaron por la mañana, y lució el sol sobre las aguas, vieron los de Moab desde lejos las aguas rojas como sangre;"
 "Y dijeron
 "Mas cuando llegaron al campo de Israel, levantáronse los Israelitas é hirieron á los de Moab, los cuales huyeron delante de ellos
-"Y asolaron las ciudades, y en todas las heredades fértiles echó cada uno su piedra, y las llenaron; cegaron también todas las fuentes de las aguas, y derribaron todos los buenos árboles; hasta que en Kir-hareseth solamente dejaron sus piedras; porque los"
+"Y asolaron las ciudades, y en todas las heredades fértiles echó cada uno su piedra, y las llenaron; cegaron también todas las #fuentes de las aguas, y derribaron todos los buenos árboles; hasta que en Kir-hareseth solamente dejaron sus piedras; porque los"
 "Y cuando el rey de Moab vió que la batalla lo vencía, tomó consigo setecientos hombres que sacaban espada, para romper contra el rey de Idumea
 "Entonces arrebató á su primogénito que había de reinar en su lugar, y sacrificóle en holocausto sobre el muro. Y hubo grande enojo en Israel; y retiráronse de él, y volviéronse á su tierra."

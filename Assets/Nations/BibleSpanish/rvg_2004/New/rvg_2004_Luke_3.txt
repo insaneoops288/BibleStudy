@@ -1,4 +1,4 @@
-"Y en el año quince del imperio de Tiberio César, siendo gobernador de Judea Poncio Pilato, y Herodes tetrarca de Galilea, y su hermano Felipe tetrarca de Iturea y de la provincia de Traconite, y Lisanias tetrarca de Abilinia,"
+"Y en el año quince del imperio de Tiberio César, siendo gobernador de Judea Poncio Pilato, y Herodes tetrarca de #Galilea, y su hermano Felipe tetrarca de Iturea y de la provincia de Traconite, y Lisanias tetrarca de Abilinia,"
 "siendo sumos sacerdotes Anás y Caifás, vino palabra de Dios a Juan, hijo de Zacarías, en el desierto."
 "Y él vino por toda la tierra alrededor del Jordán predicando el bautismo del arrepentimiento para la remisión de pecados,"
 "como está escrito en el libro de las palabras del profeta Isaías que dice

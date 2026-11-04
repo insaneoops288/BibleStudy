@@ -1,8 +1,8 @@
 "Ihr Männer, liebe Brüder und Väter, hört mein Verantworten an euch."
 "Da sie aber hörten, daß er auf hebräisch zu ihnen redete, wurden sie noch stiller. Und er sprach
-"Ich bin ein jüdischer Mann, geboren zu Tarsus in Zilizien und erzogen in dieser Stadt zu den Füßen Gamaliels, gelehrt mit allem Fleiß im väterlichen Gesetz, und war ein Eiferer um Gott, gleichwie ihr heute alle seid,"
+"Ich bin ein jüdischer Mann, geboren zu Tarsus in Zilizien und erzogen in dieser Stadt zu den Füßen Gamaliels, #gelehrt mit allem Fleiß im väterlichen Gesetz, und war ein Eiferer um Gott, gleichwie ihr heute alle seid,"
 "und habe diesen Weg verfolgt bis an den Tod. Ich band sie undüberantwortete sie ins Gefängnis, Männer und Weiber;"
-"wie mir auch der Hohepriester und der ganze Haufe derÄltesten Zeugnis gibt, von welchen ich Briefe nahm an die Brüder und reiste gen Damaskus; daß ich, die daselbst waren, gebunden führte gen Jerusalem, daß sie bestraft würden."
+"wie mir auch der Hohepriester und der ganze Haufe derÄltesten Zeugnis gibt, von welchen ich Briefe nahm an die #Brüder und reiste gen Damaskus; daß ich, die daselbst waren, gebunden führte gen Jerusalem, daß sie bestraft würden."
 "Es geschah aber, da ich hinzog und nahe Damaskus kam, um den Mittag, umleuchtete mich schnell ein großes Licht vom Himmel."
 "Und ich fiel zum Erdboden und hörte eine Stimme, die sprach
 "Ich antwortete aber
@@ -27,4 +27,4 @@
 "Da kam zu ihm der Oberhauptmann und sprach zu ihm
 "Und der Oberhauptmann antwortete
 "Da traten sie alsobald von ihm ab, die ihn befragen sollten. Und der Oberhauptmann fürchtete sich, da er vernahm, daß er römisch war, und er ihn gebunden hatte."
-"Des andern Tages wollte er gewiß erkunden, warum er verklagt würde von den Juden, und löste ihn von den Banden und hieß die Hohenpriester und ihren ganzen Rat kommen und führte Paulus hervor und stellte ihn unter sie."
+"Des andern Tages wollte er gewiß erkunden, warum er verklagt würde von den Juden, und löste ihn von den Banden #und hieß die Hohenpriester und ihren ganzen Rat kommen und führte Paulus hervor und stellte ihn unter sie."

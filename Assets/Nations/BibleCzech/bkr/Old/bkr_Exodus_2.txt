@@ -8,7 +8,7 @@
 "Odpověděla dcera Faraonova
 "I řekla jí dcera Faraonova
 "A když odrostlo pachole, dovedla je k dceři Faraonově, kteráž jej měla za syna; a nazvala jméno jeho Mojžíš, řkuci
-"I stalo se ve dnech těch, když vyrostl Mojžíš, že vyšel k bratřím svým, a hleděl na trápení jejich. Uzřel také muže Egyptského, an tepe muže Hebrejského, jednoho z bratří jeho. A sem i tam se ohlédna, vida, že žádného tu není, zabil Egyptského, a zahrabal jej v písku."
+"I stalo se ve dnech těch, když vyrostl Mojžíš, že vyšel k bratřím svým, a hleděl na trápení jejich. Uzřel také muže Egyptského, an tepe #muže Hebrejského, jednoho z bratří jeho. A sem i tam se ohlédna, vida, že žádného tu není, zabil Egyptského, a zahrabal jej v písku."
 "Vyšed potom druhého dne, a aj, dva muži Hebrejští vadili se. I řekl tomu, kterýž křivdu činil
 "Kterýžto odpověděl
 "A uslyšav Farao tu věc, hledal zabiti Mojžíše. Ale Mojžíš utekl od tváři Faraonovy, a bydlil v zemi Madianské; i usadil se podlé studnice."

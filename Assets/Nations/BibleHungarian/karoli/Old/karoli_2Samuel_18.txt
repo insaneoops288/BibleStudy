@@ -1,12 +1,12 @@
 "Megszámlálá pedig Dávid a népet, a mely vele vala, s ezredeseket és századosokat rendele föléjök."
-"És hagyá Dávid a népnek harmadrészét Joáb keze alatt, és harmadrészét Séruja fiának, Abisainak, Joáb atyjafiának keze alatt, harmadrészét pedig [bízá] a Gitteus Ittai kezére. És monda a népnek a király
+"És hagyá Dávid a népnek harmadrészét Joáb keze alatt, és harmadrészét Séruja fiának, Abisainak, Joáb atyjafiának #keze alatt, harmadrészét pedig [bízá] a Gitteus Ittai kezére. És monda a népnek a király
 "De a nép monda
 "Monda azért nékik a király
 "Parancsola pedig a király Joábnak, Abisainak és Ittainak, mondván
 "Kiméne azért a nép a mezõre, az Izráel ellenébe, és megütközének az Efraim erdejénél."
 "És megvereték ott az Izráel népe a Dávid szolgái által, és nagy veszteség volt ott azon a napon, [mintegy] húszezer emberé."
 "És kiterjedt a harcz az egész vidékre, és a nép közül sokkal többet emészte meg az erdõ, mint a fegyver azon a napon."
-"És találkozék Absolon Dávid szolgáival; Absolon pedig egy öszvéren ül vala. És beméne az öszvér a nagy cserfák sürû ágai alá, [hol] fennakadt fejénél fogva egy cserfán, függvén az ég és föld között, az öszvér pedig elszaladt alóla."
+"És találkozék Absolon Dávid szolgáival; Absolon pedig egy öszvéren ül vala. És beméne az öszvér a nagy cserfák sürû ágai #alá, [hol] fennakadt fejénél fogva egy cserfán, függvén az ég és föld között, az öszvér pedig elszaladt alóla."
 "Kit mikor egy ember meglátott, hírül adá Joábnak, és monda
 "Monda pedig Joáb az embernek, a ki megmondotta vala néki
 "Monda az ember Joábnak

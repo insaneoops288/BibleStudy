@@ -1,4 +1,4 @@
-"Bagi biduan besar suatu mazmur Daud, hamba Tuhan, yang telah menyanyikan bagi Tuhan segala perkataan nyanyian ini pada masa telah dilepaskan Tuhan akan dia dari pada tangan segala seterunya dan lagi dari pada tangan Saulpun."
+"Bagi biduan besar suatu mazmur Daud, hamba Tuhan, yang telah menyanyikan bagi Tuhan segala perkataan nyanyian ini pada #masa telah dilepaskan Tuhan akan dia dari pada tangan segala seterunya dan lagi dari pada tangan Saulpun."
 "Maka katanya
 "Bahwa Tuhan juga gunung batuku dan kota bentengku dan penolongku, yaitu Allahku dan gunung batuku; aku percaya akan Dia, yang perisaiku dan tanduk selamatku dan tempat perlindunganku yang tinggi."
 "Bahwa aku telah berseru kepada Tuhan, yang patut dipuji-puji, maka aku dilepaskan dari pada segala seteruku."
@@ -41,7 +41,7 @@
 "Maka Engkau telah memberi kepadaku tengkuk segala seteruku dan segala pembenciku, supaya aku membinasakan dia."
 "Mereka itu telah berteriak, tetapi seorang penolongpun tiada, teriaknya kepada Tuhan, tetapi tiada disahutnya akan mereka itu."
 "Maka aku menghancurluluhkan mereka itu seperti duli yang diterbangkan oleh angin, dan aku memijak-mijak mereka itu seperti becek di jalan."
-"Maka Engkau telah meluputkan daku dari pada segala perbantahan orang banyak itu, dan Engkau telah menjadikan aku penghulu segala bangsa, dan lagi bangsa-bangsa yang tiada kukenal itu telah menjadi takluk kepadaku."
+"Maka Engkau telah meluputkan daku dari pada segala perbantahan orang banyak itu, dan Engkau telah menjadikan #aku penghulu segala bangsa, dan lagi bangsa-bangsa yang tiada kukenal itu telah menjadi takluk kepadaku."
 "Baharu telinganya terdengar akan halku, maka diturutnya perintahku, dan orang helatpun pura-pura takluk kepadaku."
 "Adapun orang helat itu telah surutlah kuatnya serta gemetarlah mereka itu dalam kota bentengnya."
 "Bahwa hiduplah Tuhan, dan segala puji bagi gunung batuku, dan dipermuliakanlah kiranya Allah, pohon selamatku."

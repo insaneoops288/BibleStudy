@@ -8,7 +8,7 @@
 "E comandò loro che non prendessero nulla per lo viaggio, se non solo un bastone; non tasca, non pane, non moneta nelle lor cinture."
 "E che fossero sol calzati di sandali, e non portassero due toniche indosso."
 "Disse loro ancora
-"E se alcuni non vi ricevono, e non vi ascoltano, partitevi di là, e scotete la polvere di sotto a’ vostri piedi, in testimonianza contro a loro. Io vi dico in verità, che Sodoma e Gomorra saranno più tollerabilmente trattate nel giorno del giudizio, che quella città."
+"E se alcuni non vi ricevono, e non vi ascoltano, partitevi di là, e scotete la polvere di sotto a’ vostri piedi, in testimonianza #contro a loro. Io vi dico in verità, che Sodoma e Gomorra saranno più tollerabilmente trattate nel giorno del giudizio, che quella città."
 "Essi adunque, partitisi, predicavano che gli uomini si ravvedessero."
 "E cacciavano molti demoni, ed ungevano d’olio molti infermi e li sanavano."
 "OR il re Erode udì parlar di Gesù, perciocchè il suo nome era divenuto chiaro, e diceva
@@ -53,4 +53,4 @@
 "E, passati all’altra riva, vennero nella contrada di Gennesaret, e presero terra."
 "E, quando furono smontati dalla navicella, subito la gente lo riconobbe."
 "E, correndo qua e là per tutta quella contrada circonvicina, prese a portare attorno in letticelli i malati, là dove udiva ch’egli fosse."
-"E dovunque egli entrava, in castella, o in città, o in villate, la gente metteva gl’infermi nelle piazze, e lo pregava che sol potessero toccare il lembo della sua vesta; e tutti quelli che lo toccavano erano guariti."
+"E dovunque egli entrava, in castella, o in città, o in villate, la gente metteva gl’infermi nelle piazze, e lo #pregava che sol potessero toccare il lembo della sua vesta; e tutti quelli che lo toccavano erano guariti."

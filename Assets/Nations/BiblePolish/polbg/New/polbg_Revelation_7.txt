@@ -6,7 +6,7 @@
 "Z pokolenia Aserowego dwanaście tysięcy popieczętowanych; z pokolenia Neftalimowego dwanaście tysięcy popieczętowanych; z pokolenia Manasesowego dwanaście tysięcy popieczętowanych;"
 "Z pokolenia Symeonowego dwanaście tysięcy popieczętowanych; z pokolenia Lewiego dwanaście tysięcy popieczętowanych; z pokolenia Isacharowego dwanaście tysięcy popieczętowanych;"
 "Z pokolenia Zabulonowego dwanaście tysięcy popieczętowanych; z pokolenia Józefowego dwanaście tysięcy popieczętowanych; z pokolenia Benjaminowego dwanaście tysięcy popieczętowanych."
-"Potemem widział, a oto lud wielki, którego nie mógł nikt zliczyć, z każdego narodu i pokolenia, i ludzi, i języków, którzy stali przed stolicą i przed oblicznością Baranka, obleczeni w szaty białe, a palmy były w rękach ich."
+"Potemem widział, a oto lud wielki, którego nie mógł nikt zliczyć, z każdego narodu i pokolenia, i ludzi, i języków, #którzy stali przed stolicą i przed oblicznością Baranka, obleczeni w szaty białe, a palmy były w rękach ich."
 "I wołali głosem wielkim, mówiąc
 "A wszyscy Aniołowie stali około stolicy i starców i czworga zwierząt, i upadli przed stolicą na oblicze swoje, i kłaniali się Bogu,"
 "Mówiąc

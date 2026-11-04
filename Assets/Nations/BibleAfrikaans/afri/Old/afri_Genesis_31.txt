@@ -39,7 +39,7 @@
 "Wat die wilde diere verskeur het, het ek nie na u gebring nie
 "Ek was 'n man wat bedags deur die hitte verteer is en snags deur die koue, en my slaap het gevlug van my oë."
 "Twintig jaar was ek nou in u huis; veertien jaar het ek u gedien vir u twee dogters en ses jaar vir u kleinvee; en u het my loon tien maal verander."
-"As die God van my vader, die God van Abraham en die Vrees van Isak, nie aan my kant was nie,ja, dan sou u my met leë hande weggestuur het. God het my ellende en die moeitevolle arbeid van my hande aangesien en verlede nag geoordeel."
+"As die God van my vader, die God van Abraham en die Vrees van Isak, nie aan my kant was nie,ja, dan sou u #my met leë hande weggestuur het. God het my ellende en die moeitevolle arbeid van my hande aangesien en verlede nag geoordeel."
 "Toe antwoord Laban en sê vir Jakob
 "Kom dan nou, laat ons 'n verbond sluit, ek en jy, dat dit 'n getuie tussen my en jou kan wees."
 "Daarop het Jakob 'n klip geneem en dit as gedenksteen opgerig."
@@ -49,7 +49,7 @@
 "en ook Mispa, omdat hy gesê het
 "As jy my dogters mishandel, en as jy vroue neem by my dogters, dan is geen mens by ons nie
 "Verder sê Laban vir Jakob
-"hierdie hoop klippe is getuie, en die gedenksteen is getuie dat ék na jou kant toe hierdie hoop nie sal verbytrek nie, en dat jy na my kant toe hierdie hoop en hierdie gedenksteen nie sal verbytrek met slegte bedoelinge nie."
+"hierdie hoop klippe is getuie, en die gedenksteen is getuie dat ék na jou kant toe hierdie hoop nie sal verbytrek #nie, en dat jy na my kant toe hierdie hoop en hierdie gedenksteen nie sal verbytrek met slegte bedoelinge nie."
 "Die God van Abraham en die God van Nahor, die God van hulle vader, sal regter tussen ons wees. En Jakob het gesweer by die Vrees van sy vader Isak."
 "Toe het Jakob 'n offer gebring op die gebergte en sy broers genooi om brood te eet. En hulle het brood geëet en die nag in die gebergte oorgebly."
 "En Laban het die môre vroeg opgestaan en sy seuns en sy dogters gesoen en hulle geseën. Daarna het Laban vertrek en teruggekeer na sy woonplek."

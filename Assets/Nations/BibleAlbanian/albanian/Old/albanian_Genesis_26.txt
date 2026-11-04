@@ -15,7 +15,7 @@
 "dhe për këtë arësye i zunë, duke i mbushur me dhe, tërë puset që shërbëtorët e babait të tij kishin hapur në kohën e Abrahamit, atit të tij."
 "Atëherë Abimeleku i tha Isakut
 "Kështu Isaku u largua që andej dhe u vendos në luginën e Gerarit, dhe aty banoi."
-"Dhe Isaku filloi të hapë puse uji që ishin hapur në kohën e Abrahamit, atit të tij, dhe që Filistejtë i kishin mbyllur mbas vdekjes së Abrahamit, dhe u vuri po ato emra që u kishte vënë babai i tij."
+"Dhe Isaku filloi të hapë puse uji që ishin hapur në kohën e Abrahamit, atit të tij, dhe që Filistejtë i #kishin mbyllur mbas vdekjes së Abrahamit, dhe u vuri po ato emra që u kishte vënë babai i tij."
 "Pastaj shërbëtorët e Isakut gërmuan në luginë dhe gjetën aty një pus me ujë të freskët."
 "Por barinjtë e Gerarit u grindën me çobanët e Isakut, duke u thënë
 "Shërbëtorët hapën pastaj një pus tjetër, por ata kundërshtuan edhe për këtë. Dhe Isaku e quajti Sitnah."

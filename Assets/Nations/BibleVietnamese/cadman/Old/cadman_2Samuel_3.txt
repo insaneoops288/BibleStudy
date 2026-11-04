@@ -36,4 +36,4 @@
 "Dân sự đều để ý vào đó và lấy làm tốt lành, chẳng có điều gì vua làm mà chúng không lấy làm tốt lành."
 "Như vậy, trong ngày đó, dân Y-sơ-ra-ên nhìn biết rằng vua chẳng can gì đến tội giết Áp-ne, con trai của Nê-rơ."
 "Vua nói cùng các đầy tớ mình rằng
-"Về phần ta, ngày nay hãy còn yếu, dẫu rằng ta đã chịu xức dầu lập làm vua; và những kẻ kia, là các con trai của Xê-ru-gia, là cường bạo cho ta quá. Nguyện Ðức Giê-hô-va báo kẻ làm ác nầy, tùy sự ác của nó!"
+"Về phần ta, ngày nay hãy còn yếu, dẫu rằng ta đã chịu xức dầu lập làm vua; và những kẻ kia, là các #con trai của Xê-ru-gia, là cường bạo cho ta quá. Nguyện Ðức Giê-hô-va báo kẻ làm ác nầy, tùy sự ác của nó!"

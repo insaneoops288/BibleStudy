@@ -1,6 +1,6 @@
 "Wówczas zebrał się cały lud jak jeden mąż na placu, który był przed Bramą Wodną, i powiedział do Ezdrasza, uczonego w Piśmie, aby przyniósł księgę Prawa Mojżesza, które PAN nadał Izraelowi."
 "Wtedy Ezdrasz, kapłan, przyniósł Prawo przed zgromadzenie mężczyzn i kobiet oraz wszystkich, którzy mogli słuchać i rozumieć, a działo się to pierwszego dnia siódmego miesiąca."
-"I czytał je przed tym placem, który znajdował się przed Bramą Wodną, od rana aż do południa, przed mężczyznami i kobietami oraz tymi, którzy mogli zrozumieć; a uszy całego ludu były skupione na księdze Prawa."
+"I czytał je przed tym placem, który znajdował się przed Bramą Wodną, od rana aż do południa, przed #mężczyznami i kobietami oraz tymi, którzy mogli zrozumieć; a uszy całego ludu były skupione na księdze Prawa."
 "Ezdrasz, uczony w Piśmie, stanął na drewnianym podwyższeniu, które przygotowano na ten cel, a obok niego, po prawej stronie, stali
 "Ezdrasz otworzył księgę na oczach całego ludu – gdyż stał wyżej niż on – a gdy ją otworzył, cały lud powstał."
 "I Ezdrasz błogosławił PANU, wielkiemu Bogu, a cały lud, podnosząc ręce, odpowiadał
@@ -14,5 +14,5 @@
 "I znaleźli przepis w Prawie, które PAN nadał przez Mojżesza, aby synowie Izraela mieszkali w szałasach podczas święta siódmego miesiąca;"
 "I aby ogłoszono i obwołano we wszystkich ich miastach i w Jerozolimie
 "Lud więc wyszedł i przyniósł je, i czynił sobie szałasy, każdy na swoim dachu, na swoich dziedzińcach, na dziedzińcach domu Bożego, na placu Bramy Wodnej i na placu Bramy Efraima."
-"Całe zgromadzenie, wszyscy, którzy powrócili z niewoli, uczynili szałasy i mieszkali w nich, gdyż synowie Izraela nie czynili tego od dni Jozuego, syna Nuna, aż do tego dnia. I panowała wielka radość."
+"Całe zgromadzenie, wszyscy, którzy powrócili z niewoli, uczynili szałasy i mieszkali w nich, gdyż synowie Izraela nie #czynili tego od dni Jozuego, syna Nuna, aż do tego dnia. I panowała wielka radość."
 "I Ezdrasz czytał z księgi Prawa Bożego każdego dnia, od pierwszego dnia aż do ostatniego. Przez siedem dni obchodzili święto, a dnia ósmego odbyło się uroczyste zgromadzenie według zwyczaju."

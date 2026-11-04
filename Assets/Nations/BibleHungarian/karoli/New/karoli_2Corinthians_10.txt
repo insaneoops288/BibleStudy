@@ -1,5 +1,5 @@
 "Magam pedig, én Pál, kérlek titeket a Krisztus szelídségére és engedelmességére, a ki szemtõl szemben ugyan alázatos vagyok közöttetek, de távol bátor vagyok irántatok;"
-"Kérlek pedig, hogy a mikor jelen leszek, ne kelljen bátornak lennem ama bizodalomnál fogva, a melylyel úgy gondolom bátor lehetek némelyekkel szemben, a kik úgy gondolkodnak felõlünk, mintha mi test szerint élnénk."
+"Kérlek pedig, hogy a mikor jelen leszek, ne kelljen bátornak lennem ama bizodalomnál fogva, a melylyel úgy #gondolom bátor lehetek némelyekkel szemben, a kik úgy gondolkodnak felõlünk, mintha mi test szerint élnénk."
 "Mert noha testben élünk, de nem test szerint vitézkedünk."
 "Mert a mi vitézkedésünk fegyverei nem testiek, hanem erõsek az Istennek, erõsségek lerontására;"
 "Lerontván okoskodásokat és minden magaslatot, a mely Isten ismerete ellen emeltetett, és foglyul ejtvén minden gondolatot, hogy engedelmeskedjék a Krisztusnak;"

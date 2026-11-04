@@ -12,21 +12,21 @@
 "Mert általmégyek Égyiptom földén ezen éjszakán és megölök minden elsõszülöttet Égyiptom földén, az embertõl kezdve a baromig, és Égyiptom minden istene felett ítéletet tartok, én, az Úr."
 "És a vér jelül lesz néktek a házakon, a melyekben ti lesztek, s meglátom a vért és elmegyek mellettetek és nem lesz rajtatok a csapás veszedelmetekre, mikor megverem Égyiptom földét."
 "És legyen ez a nap néktek emlékezetül, és innepnek szenteljétek azt az Úrnak nemzetségrõl nemzetségre; örök rendtartás szerint ünnepeljétek azt."
-"Hét napig egyetek kovásztalan kenyeret; még az elsõ napon takarítsátok el a kovászt házaitokból, mert valaki kovászost ejéndik az elsõ naptól fogva a hetedik napig, az olyan lélek irtassék ki Izráelbõl."
-"Az elsõ napon pedig szent gyûléstek legyen és a hetedik napon is szent gyûléstek legyen; azokon semmi munkát ne tegyetek, egyedül csak a mi eledelére való minden embernek, azt el lehet készítenetek."
+"Hét napig egyetek kovásztalan kenyeret; még az elsõ napon takarítsátok el a kovászt házaitokból, mert valaki #kovászost ejéndik az elsõ naptól fogva a hetedik napig, az olyan lélek irtassék ki Izráelbõl."
+"Az elsõ napon pedig szent gyûléstek legyen és a hetedik napon is szent gyûléstek legyen; azokon semmi #munkát ne tegyetek, egyedül csak a mi eledelére való minden embernek, azt el lehet készítenetek."
 "Megtartsátok a kovásztalan kenyér innepét; mert azon a napon hoztam ki a ti seregeiteket Égyiptom földérõl; tartsátok meg hát e napot nemzetségrõl nemzetségre, örök rendtartás szerint."
 "Az elsõ hónapban, a hónapnak tizennegyedik napján estve egyetek kovásztalan kenyeret, a hónap huszonegyedik napjának estvéjéig."
 "Hét napon át ne találtassék kovász a ti házaitokban; mert valaki kovászost ejéndik, az a lélek kiirtatik Izráel gyülekezetébõl, akár jövevény, akár az ország szülöttje legyen."
 "Semmi kovászost ne egyetek, minden lakóhelyeteken kovásztalan kenyeret egyetek."
 "Elõhívá tehát Mózes Izráel minden véneit és monda nékik
-"És vegyetek egy kötés izsópot és mártsátok a vérbe, a mely az edényben van, és hintsétek meg a szemöldökfát és a két ajtófelet abból a vérbõl, a mely az edényben van; ti közûletek pedig senki se menjen ki az õ házának ajtaján reggelig."
+"És vegyetek egy kötés izsópot és mártsátok a vérbe, a mely az edényben van, és hintsétek meg a szemöldökfát és a két #ajtófelet abból a vérbõl, a mely az edényben van; ti közûletek pedig senki se menjen ki az õ házának ajtaján reggelig."
 "Mikor általmegy az Úr, hogy megverje az Égyiptombelieket és meglátja a vért a szemöldökfán és a két ajtófélen
 "Megtartsátok azért ezt a dolgot, rendtartás gyanánt, magadnak és fiaidnak mindörökre."
 "És mikor bementek a földre, melyet az Úr ád néktek, a mint megmondotta vala
 "Mikor pedig a ti fiaitok mondandják néktek
 "Akkor mondjátok
 "És menének és úgy cselekedének az Izráel fiai, a mint megparancsolta vala az Úr Mózesnek és Áronnak; úgy cselekedének."
-"Lõn pedig éjfélkor, hogy megöle az Úr minden elsõszülöttet Égyiptomnak földén, a Faraónak elsõszülöttétõl fogva, a ki az õ királyi székiben ûl vala, a tömlöczbeli fogolynak elsõszülöttéig és a baromnak is minden elsõ fajzását."
+"Lõn pedig éjfélkor, hogy megöle az Úr minden elsõszülöttet Égyiptomnak földén, a Faraónak elsõszülöttétõl fogva, a ki az #õ királyi székiben ûl vala, a tömlöczbeli fogolynak elsõszülöttéig és a baromnak is minden elsõ fajzását."
 "És fölkele a Faraó azon az éjszakán és mind az õ szolgái és egész Égyiptom, és lõn nagy jajgatás Égyiptomban; mert egy ház sem vala, melyben halott ne lett volna."
 "És hívatá Mózest és Áront éjszaka és monda
 "Juhaitokat is, barmaitokat is vegyétek, a mint mondátok és menjetek el és áldjatok engem is."

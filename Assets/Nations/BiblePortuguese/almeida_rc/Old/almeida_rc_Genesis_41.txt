@@ -5,7 +5,7 @@
 "Depois, dormiu e sonhou outra vez, e eis que brotavam de um mesmo pé sete espigas cheias e boas."
 "E eis que sete espigas miúdas e queimadas do vento oriental brotavam após elas."
 "E as espigas miúdas devoravam as sete espigas grandes e cheias. Então, acordou Faraó, e eis que era um sonho."
-"E aconteceu que, pela manhã, o seu espírito perturbou-se, e enviou e chamou todos os adivinhadores do Egipto e todos os seus sábios; e Faraó contou-lhes os seus sonhos, mas ninguém havia que os interpretasse a Faraó."
+"E aconteceu que, pela manhã, o seu espírito perturbou-se, e enviou e chamou todos os adivinhadores do Egipto e #todos os seus sábios; e Faraó contou-lhes os seus sonhos, mas ninguém havia que os interpretasse a Faraó."
 "Então, falou o copeiro-mor a Faraó, dizendo
 "Estando Faraó mui indignado contra os seus servos e pondo-me sob prisão na casa da guarda, a mim e ao padeiro-mor,"
 "então, sonhamos um sonho na mesma noite, eu e ele, cada um conforme a interpretação do seu sonho sonhamos."

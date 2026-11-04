@@ -3,7 +3,7 @@
 "y él viere venir la espada sobre la tierra, y tocare shofar, y avisare al pueblo;"
 "cualquiera que oyere el sonido del shofar, y no se apercibiere, y viniendo la espada lo tomare, su sangre será sobre su cabeza."
 "El sonido del shofar oyó, y no se apercibió; su sangre será sobre él; mas el que se apercibiere, librará su alma."
-"Pero si el atalaya viere venir la espada, y no tocare el shofar, y el pueblo no se apercibiere, y viniendo la espada, tomare de él alguno; él por causa de su pecado fue tomado, mas demandaré su sangre de mano del atalaya."
+"Pero si el atalaya viere venir la espada, y no tocare el shofar, y el pueblo no se apercibiere, y viniendo la #espada, tomare de él alguno; él por causa de su pecado fue tomado, mas demandaré su sangre de mano del atalaya."
 "Tú, pues, hijo de hombre, yo te he puesto por atalaya a la Casa de Israel, y oirás la palabra de mi boca, y los apercibirás de mi parte."
 "Diciendo yo al impío
 "Y si tú avisares al impío de su camino para que de él se aparte, y él no se apartare de su camino, por su pecado morirá él, y tú libraste tu alma."
@@ -28,6 +28,6 @@
 "Y pondré la tierra en desierto y en soledad, y cesará la soberbia de su fortaleza; y los montes de Israel serán asolados, que no <I>haya</I>  quien pase."
 "Y sabrán que yo <I>soy</I>  el SEÑOR, cuando pusiere la tierra en soledad y desierto, por todas sus abominaciones que han hecho."
 "Y tú, hijo de hombre, los hijos de tu pueblo se mofan de ti junto a las paredes y a las puertas de las casas, y habla el uno con el otro, cada uno con su hermano, diciendo
-"Y vendrán a ti como viene el pueblo, y se estarán delante de ti, mi pueblo, y oirán tus palabras, y no las pondrán por obra; antes hacen halagos con sus bocas, y el corazón de ellos anda en pos de su avaricia."
+"Y vendrán a ti como viene el pueblo, y se estarán delante de ti, mi pueblo, y oirán tus palabras, y no #las pondrán por obra; antes hacen halagos con sus bocas, y el corazón de ellos anda en pos de su avaricia."
 "Y he aquí que tú eres a ellos como cantor de amores, gracioso de voz y que canta bien; y oirán tus palabras, mas no las pondrán por obra."
 "Pero cuando ello viniere (he aquí viene), sabrán que hubo profeta entre ellos."

@@ -12,4 +12,4 @@
 "E fala-lhe, dizendo
 "Ele mesmo edificará o templo do SENHOR, e levará a glória, e assentar-se-á, e dominará no seu trono, e será sacerdote no seu trono, e conselho de paz haverá entre ambos."
 "E estas coroas serão de Helém, e de Tobias, e de Jedaías, e de Hem, filho de Sofonias, como um memorial no templo do SENHOR."
-"E aqueles que estão longe virão e edificarão no templo do SENHOR, e vós sabereis que o SENHOR dos Exércitos me tem enviado a vós; e isso acontecerá, se ouvirdes mui atentos a voz do SENHOR, vosso Deus."
+"E aqueles que estão longe virão e edificarão no templo do SENHOR, e vós sabereis que o SENHOR dos Exércitos #me tem enviado a vós; e isso acontecerá, se ouvirdes mui atentos a voz do SENHOR, vosso Deus."

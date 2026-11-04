@@ -15,7 +15,7 @@
 "Il enseignait dans les synagogues, et il était glorifié par tous."
 "Il se rendit à Nazareth, où il avait été élevé, et, selon sa coutume, il entra dans la synagogue le jour du sabbat. Il se leva pour faire la lecture,"
 "et on lui remit le livre du prophète Esaïe. L'ayant déroulé, il trouva l'endroit où il était écrit
-"L'Esprit du Seigneur est sur moi, Parce qu'il m'a oint pour annoncer une bonne nouvelle aux pauvres; Il m'a envoyé pour guérir ceux qui ont le coeur brisé, Pour proclamer aux captifs la délivrance, Et aux aveugles le recouvrement de la vue, Pour renvoyer libres les opprimés,"
+"L'Esprit du Seigneur est sur moi, Parce qu'il m'a oint pour annoncer une bonne nouvelle aux pauvres; Il m'a envoyé pour guérir ceux qui #ont le coeur brisé, Pour proclamer aux captifs la délivrance, Et aux aveugles le recouvrement de la vue, Pour renvoyer libres les opprimés,"
 "Pour publier une année de grâce du Seigneur."
 "Ensuite, il roula le livre, le remit au serviteur, et s'assit. Tous ceux qui se trouvaient dans la synagogue avaient les regards fixés sur lui."
 "Alors il commença à leur dire

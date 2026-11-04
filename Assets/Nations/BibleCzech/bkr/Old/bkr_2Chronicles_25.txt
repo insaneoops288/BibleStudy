@@ -2,7 +2,7 @@
 "A činil to, což pravého bylo před očima Hospodinovýma, ale však ne srdcem upřímým."
 "I stalo se, když bylo upevněno království jeho, že zmordoval služebníky své, kteříž zabili krále otce jeho."
 "A však synů jejich nekázal mordovati, ale učinil tak, jakž psáno jest v zákoně, v knize Mojžíšově, kdež přikázal Hospodin, řka
-"Zatím shromáždil Amaziáš lid Judský, a ustanovil po domích otcovských čeledí jejich hejtmany a setníky, po všem Judstvu a pokolení Beniaminovu, a sečtl je od dvadcítiletých a výše, a našel jich třikrát sto tisíc vybraných mužů bojovných, kopidlníků a pavézníků."
+"Zatím shromáždil Amaziáš lid Judský, a ustanovil po domích otcovských čeledí jejich hejtmany a setníky, po všem Judstvu a pokolení Beniaminovu, #a sečtl je od dvadcítiletých a výše, a našel jich třikrát sto tisíc vybraných mužů bojovných, kopidlníků a pavézníků."
 "Najal také ze mzdy z Izraele sto tisíc mužů udatných ze sta hřiven stříbra."
 "Muž pak Boží přišel k němu, řka
 "Ale táhni ty. Učiniž tak, a posilň se k boji; jinak porazí tě Bůh před nepřátely, neboť může Bůh i pomoci i poraziti."
@@ -20,7 +20,7 @@
 "Ale neuposlechl Amaziáš; nebo od Boha to bylo, aby je vydal v ruku oněchno, proto že hledali bohů Idumejských."
 "Takž vytáhl Joas král Izraelský, a pohleděli sobě v oči s Amaziášem králem Judským v Betsemes, kteréž jest Judovo."
 "I poražen jest Juda před Izraelem, a utíkali jeden každý do příbytků svých."
-"Amaziáše pak krále Judského, syna Joasova, jenž byl syn Joachazův, jal Joas král Izraelský u Betsemes, a přivedl jej do Jeruzaléma, a zbořil zdi Jeruzalémské odbrány Efraim až k bráně úhlu na čtyři sta loktů."
+"Amaziáše pak krále Judského, syna Joasova, jenž byl syn Joachazův, jal Joas král Izraelský u Betsemes, a přivedl #jej do Jeruzaléma, a zbořil zdi Jeruzalémské odbrány Efraim až k bráně úhlu na čtyři sta loktů."
 "A pobrav všecko zlato a stříbro i všecko nádobí, kteréž se nalezlo v domě Božím u Obededoma, a v pokladích domu královského, také i ty, kteříž byli v zástavě, navrátil se do Samaří."
 "Byl pak živ Amaziáš syn Joasův, král Judský, po smrti Joasa syna Joachaza, krále Izraelského, patnácte let."
 "Ale o jiných činech Amaziášových, prvních i posledních, vypsáno jest v knize o králích Judských a Izraelských."

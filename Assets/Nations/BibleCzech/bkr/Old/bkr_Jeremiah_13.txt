@@ -7,8 +7,8 @@
 "I šel jsem k Eufrates, a vykopav, vzal jsem ten pás z místa toho, kdež jsem jej byl skryl. A aj, zkažený byl ten pás, aniž se k čemu hodil."
 "Tehdy stalo se slovo Hospodinovo ke mně, řkoucí
 "Takto praví Hospodin
-"Lidu toho přenešlechetného, kteříž nechtí poslouchati slov mých, kteříž chodí podlé zdání srdce svého, a chodí za bohy cizími, sloužíce jim, a klanějíce se jim. I bude podoben pasu tomu, kterýž se nehodí k ničemu."
-"Nebo jakož se drží pás na bedrách muže, tak jsem byl připojil k sobě všecken dům Izraelský i všecken dům Judský, dí Hospodin, aby byli lidem mým, a to k slávě, a k chvále, i k ozdobě, ale nebyli poslušni."
+"Lidu toho přenešlechetného, kteříž nechtí poslouchati slov mých, kteříž chodí podlé zdání srdce svého, a chodí za bohy #cizími, sloužíce jim, a klanějíce se jim. I bude podoben pasu tomu, kterýž se nehodí k ničemu."
+"Nebo jakož se drží pás na bedrách muže, tak jsem byl připojil k sobě všecken dům Izraelský i všecken dům Judský, #dí Hospodin, aby byli lidem mým, a to k slávě, a k chvále, i k ozdobě, ale nebyli poslušni."
 "Protož rci jim slovo toto
 "I díš jim
 "A rozrazím jednoho o druhého, jakož otce, tak také syny, dí Hospodin. Nebudu šanovati, aniž odpustím, aniž se smiluji, abych zkaziti jich neměl."

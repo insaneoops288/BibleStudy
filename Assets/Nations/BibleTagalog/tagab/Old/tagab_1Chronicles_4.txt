@@ -7,7 +7,7 @@
 "At ang mga anak ni Helea ay si Sereth, at si Jesohar, at si Ethnan."
 "At naging anak ni Coz si Anob, at si Sobeba, at ang mga angkan ni Aharhel na anak ni Arum."
 "At si Jabes ay bantog kay sa kaniyang mga kapatid
-"At si Jabes ay dumalangin sa Dios ng Israel, na nagsasabi, Oh ako nawa'y iyong pagpalain, at palakihin ang aking hangganan, at ang iyong kamay ay suma akin, at ingatan mo ako sa kasamaan, na huwag akong maghirap! At ipinagkaloob ng Dios sa kaniya ang kaniyang hiniling."
+"At si Jabes ay dumalangin sa Dios ng Israel, na nagsasabi, Oh ako nawa'y iyong pagpalain, at palakihin ang aking hangganan, at ang iyong #kamay ay suma akin, at ingatan mo ako sa kasamaan, na huwag akong maghirap! At ipinagkaloob ng Dios sa kaniya ang kaniyang hiniling."
 "At naging anak ni Celub na kapatid ni Sua si Machir, na siyang ama ni Esthon."
 "At naging anak ni Esthon si Beth-rapha, at si Phasea, at si Tehinna, na ama ni Ir-naas. Ito ang mga lalake ni Recha."
 "At ang mga anak ni Cenez
@@ -15,7 +15,7 @@
 "At ang mga anak ni Caleb na anak ni Jephone; si Iru, si Ela, at si Naham; at ang anak ni Ela; at si Cenez."
 "At ang mga anak ni Jaleleel
 "At ang mga anak ni Ezra
-"At ipinanganak ng kaniyang asawang Judia si Jered, na ama ni Gedor, at si Heber na ama ni Socho, at si Icuthiel na ama ni Zanoa. At ito ang mga anak ni Bethia na anak na babae ni Faraon, na naging asawa ni Mered."
+"At ipinanganak ng kaniyang asawang Judia si Jered, na ama ni Gedor, at si Heber na ama ni Socho, at si Icuthiel na #ama ni Zanoa. At ito ang mga anak ni Bethia na anak na babae ni Faraon, na naging asawa ni Mered."
 "At ang mga anak ng asawa ni Odias, na kapatid na babae ni Naham, ay ang ama ni Keila na Garmita, at ni Esthemoa na Maachateo."
 "At ang mga anak ni Simon
 "Ang mga anak ni Sela na anak ni Juda
@@ -24,7 +24,7 @@
 "Ang mga anak ni Simeon
 "Si Sallum na kaniyang anak, si Mibsam na kaniyang anak, si Misma na kaniyang anak."
 "At ang mga anak ni Misma
-"At si Simi ay nagkaanak ng labing anim na lalake at anim na anak na babae; nguni't ang kaniyang mga kapatid ay di nagkaanak ng marami, o dumami man ang buong angkan nila na gaya ng mga anak ni Juda."
+"At si Simi ay nagkaanak ng labing anim na lalake at anim na anak na babae; nguni't ang kaniyang mga kapatid #ay di nagkaanak ng marami, o dumami man ang buong angkan nila na gaya ng mga anak ni Juda."
 "At sila'y nagsitahan sa Beer-seba, at sa Molada, at sa Hasar-sual;"
 "At sa Bala, at sa Esem, at sa Tholad;"
 "At sa Bethuel, at sa Horma, at sa Siclag;"
@@ -38,6 +38,6 @@
 "Ang mga itong nangabanggit sa pangalan ay mga prinsipe sa kanilang mga angkan
 "At sila'y nagsiparoon sa pasukan ng Gador, hanggang sa dakong silanganan ng libis, upang ihanap ng pastulan ang kanilang mga kawan."
 "At sila'y nakasumpong ng mainam na pastulan at mabuti, at ang lupain ay maluwang, at tahimik, at payapa; sapagka't ang nagsisitahan nang una roon ay kay Cham."
-"At ang mga itong nangasusulat sa pangalan ay nagsiparoon sa mga kaarawan ni Ezechias na hari sa Juda, at iniwasak ang kanilang mga tolda, at ang mga Meunim na nangasumpungan doon, at nilipol na lubos, hanggang sa araw na ito, at sila'y nagsitahan na kahalili nila
-"At ang iba sa kanila, sa makatuwid baga'y sa mga anak ni Simeon, na limang daang lalake, ay nagsiparoon sa bundok ng Seir, na ang kanilang mga punong kawal ay si Pelatia, at si Nearias, at si Rephaias, at si Uzziel, na mga anak ni Isi."
+"At ang mga itong nangasusulat sa pangalan ay nagsiparoon sa mga kaarawan ni Ezechias na hari sa Juda, at iniwasak ang kanilang mga tolda, #at ang mga Meunim na nangasumpungan doon, at nilipol na lubos, hanggang sa araw na ito, at sila'y nagsitahan na kahalili nila
+"At ang iba sa kanila, sa makatuwid baga'y sa mga anak ni Simeon, na limang daang lalake, ay nagsiparoon sa bundok ng Seir, na #ang kanilang mga punong kawal ay si Pelatia, at si Nearias, at si Rephaias, at si Uzziel, na mga anak ni Isi."
 "At kanilang sinaktan ang nalabi sa mga Amalecita na nakatanan, at tumahan doon hanggang sa araw na ito."

@@ -3,7 +3,7 @@
 "És Boszmáthot, az Ismáel leányát, Nebajóthnak húgát."
 "Szûlé pedig Adá Ézsaúnak Elifázt; és Boszmáth szûlé Rehuélt."
 "Oholibáma pedig szûlé Jehúst, Jahlámot és Kórét. Ezek az Ézsaú fiai, kik születtek néki Kanaán földén."
-"És felvevé Ézsaú az õ feleségeit, az õ fiait, és az õ leányait, és minden házabeli lelket, minden juhait, barmait, és minden jószágát, melyet szerzett vala Kanaán földén, és elméne [más] országba, az õ atyjafiának Jákóbnak színe elõl."
+"És felvevé Ézsaú az õ feleségeit, az õ fiait, és az õ leányait, és minden házabeli lelket, minden juhait, barmait, #és minden jószágát, melyet szerzett vala Kanaán földén, és elméne [más] országba, az õ atyjafiának Jákóbnak színe elõl."
 "Mert az õ jószáguk több vala, semhogy együtt lakhattak volna, és tartózkodásuk földe nem bírja vala meg õket az õ nyájaik miatt."
 "Letelepedék tehát Ézsaú a Széir hegyén. Ézsaú pedig az Edóm."
 "Ez Ézsaúnak az Edomiták atyjának nemzetsége a Széir hegyen."

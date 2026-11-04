@@ -25,7 +25,7 @@
 "Všeliká pak cena tvá bude vedlé lotu svatyně. Lot pak váží dvadceti haléřů."
 "Ale prvorozeného, což právem prvorozenství dává se Hospodinu z hovad, nižádný neposvětí, buďto z skotů aneb z bravů; Hospodinovo jest prvé."
 "A jestliže by z hovad nečistých bylo, vyplatí je vedlé ceny tvé, a přidá pátý díl nad ní. Pakliť nebude vyplaceno, tedy nechť jest prodáno vedlé ceny tvé."
-"Všeliká pak věc posvěcená, kterouž by někdo slibem posvětil Hospodinu ze všech věcí, kteréž má, buď z lidí aneb z hovad, aneb z pole dědictví svého, nebude prodávána, ani vyplacována; nebo všecko, což takovým slibem posvěceno jest, věc nejsvětější bude Hospodinu."
+"Všeliká pak věc posvěcená, kterouž by někdo slibem posvětil Hospodinu ze všech věcí, kteréž má, buď z lidí aneb z hovad, #aneb z pole dědictví svého, nebude prodávána, ani vyplacována; nebo všecko, což takovým slibem posvěceno jest, věc nejsvětější bude Hospodinu."
 "Všeliké hovado tak oddané, kteréž slibem tím se oddává od člověka, nebude vyplacováno, ale smrtí umře."
 "Všickni také desátkové země, buď z semene země, aneb z ovoce stromů, Hospodinovi budou; nebo posvěceni jsou Hospodinu."
 "Bude-li kdo chtíti vyplatiti desátky své, pátý díl jejich přidá nad ně."

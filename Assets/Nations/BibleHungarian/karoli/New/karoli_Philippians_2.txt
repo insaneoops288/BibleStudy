@@ -9,7 +9,7 @@
 "Annakokáért az Isten is felmagasztalá õt, és ajándékoza néki oly nevet, a mely minden név fölött való;"
 "Hogy a Jézus nevére minden térd meghajoljon, mennyeieké, földieké és föld alatt valóké."
 "És minden nyelv vallja, hogy Jézus Krisztus Úr az Atya Isten dicsõségére."
-"Annakokáért, szerelmeseim, a miképen mindenkor engedelmeskedtetek, nem úgy, mint az én jelenlétemben csak, hanem most sokkal inkább az én távollétemben, félelemmel és rettegéssel vigyétek véghez a ti idvességteket;"
+"Annakokáért, szerelmeseim, a miképen mindenkor engedelmeskedtetek, nem úgy, mint az én jelenlétemben csak, hanem most #sokkal inkább az én távollétemben, félelemmel és rettegéssel vigyétek véghez a ti idvességteket;"
 "Mert Isten az, a ki munkálja bennetek mind az akarást, mind a munkálást jó kedvébõl."
 "Mindeneket zúgolódások és versengések nélkül cselekedjetek;"
 "Hogy legyetek feddhetetlenek és tiszták, Istennek szeplõtlen gyermekei az elfordult és elvetemedett nemzetség közepette, kik között fényletek, mint csillagok e világon."

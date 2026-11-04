@@ -17,8 +17,8 @@
 "A kost pedig vagdald tagjaira, és mosd meg a belét és lábszárait, és tedd rá tagjaira és fejére."
 "Azután füstölögtesd el az egész kost az oltáron
 "Vedd a másik kost is, és Áron és az õ fiai tegyék kezeiket a kos fejére."
-"Azután vágd le a kost, és végy annak vérébõl, és hintsd meg azzal Áron füle czimpáját és az õ fiai jobb fülének czimpáját, és az õ jobb kezök hüvelykét és jobb lábok hüvelykét; a [többi] vért pedig hintsd az oltárra köröskörül."
-"Azután végy a vérbõl, mely az oltáron van, és a kenetnek olajából, és hintsd Áronra és az õ ruháira, s vele együtt az õ fiaira és az õ fiainak ruháira, hogy szent legyen õ és az õ ruhái, s vele együtt az õ fiai és az õ fiainak ruhái."
+"Azután vágd le a kost, és végy annak vérébõl, és hintsd meg azzal Áron füle czimpáját és az õ fiai jobb #fülének czimpáját, és az õ jobb kezök hüvelykét és jobb lábok hüvelykét; a [többi] vért pedig hintsd az oltárra köröskörül."
+"Azután végy a vérbõl, mely az oltáron van, és a kenetnek olajából, és hintsd Áronra és az õ ruháira, s vele együtt az õ fiaira #és az õ fiainak ruháira, hogy szent legyen õ és az õ ruhái, s vele együtt az õ fiai és az õ fiainak ruhái."
 "Azután vedd a kosból a kövérét, a farkát s a belet borító kövéret, meg a máj hártyáját, meg a két veséjét a rajtok levõ kövérével, és a jobb lapoczkát; mert felavatási kos ez."
 "Meg egy kenyeret és egy olajos kalácsot és egy lepényt a kovásztalan kenyérnek kosarából, mely az Úr elõtt van;"
 "És rakd mindezeket az Áron kezeire és az Áron fiainak kezeire, és lóbáltasd meg azokat az Úr elõtt."

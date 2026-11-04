@@ -5,7 +5,7 @@
 "Eluzaj, Jerimot, Bealiasz, Szemariasz i Szefatiasz Charufita;"
 "Elkana, Jiszijasz, Azareel, Joezer i Jaszobam – Korachici;"
 "Joela i Zebadiasz, synowie Jerochama z Gedoru."
-"Z pokolenia Gada w warowni na pustyni do Dawida przyłączyli się dzielni wojownicy, żołnierze sprawni w boju, noszący tarczę i dzidę, ich twarze były jak twarze lwów, a byli zwinni jak sarny w górach;"
+"Z pokolenia Gada w warowni na pustyni do Dawida przyłączyli się dzielni wojownicy, żołnierze sprawni w boju, noszący #tarczę i dzidę, ich twarze były jak twarze lwów, a byli zwinni jak sarny w górach;"
 "Ezer pierwszy, Obadiasz drugi, Eliab trzeci;"
 "Miszmanna czwarty, Jeremiasz piąty;"
 "Attaj szósty, Eliel siódmy;"
@@ -35,6 +35,6 @@
 "Z pokolenia Dana gotowych do boju było dwadzieścia osiem tysięcy sześciuset mężczyzn."
 "Z pokolenia Aszera tych, którzy wychodzili na wojnę, wyćwiczonych w walce – czterdzieści tysięcy."
 "Z drugiej strony Jordanu z pokolenia Rubena i Gada oraz z połowy pokolenia Manassesa w pełnym uzbrojeniu wojennym – sto dwadzieścia tysięcy mężczyzn."
-"Ci wszyscy wojownicy, którzy stawali w szyku bojowym, całym sercem przyszli do Hebronu, aby ustanowić Dawida królem nad całym Izraelem. Również i cała reszta Izraela była jednomyślna w tym, aby ustanowić Dawida królem."
+"Ci wszyscy wojownicy, którzy stawali w szyku bojowym, całym sercem przyszli do Hebronu, aby ustanowić Dawida królem #nad całym Izraelem. Również i cała reszta Izraela była jednomyślna w tym, aby ustanowić Dawida królem."
 "I byli tam z Dawidem przez trzy dni, jedząc i pijąc, gdyż ich bracia przygotowali to dla nich."
 "Również ci, którzy byli w ich pobliżu, aż po Issachara i Zebulona, i Neftalego, przynosili żywność na osłach, na wielbłądach, na mułach i na wołach

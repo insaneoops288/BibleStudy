@@ -23,5 +23,5 @@
 "E, no dia seguinte, vindo Agripa e Berenice, com muito aparato, entraram no auditório com os tribunos e varões principais da cidade, sendo trazido Paulo por mandado de Festo."
 "E Festo disse
 "Mas, achando eu que nenhuma coisa digna de morte fizera, e apelando ele mesmo também para Augusto, tenho determinado enviar-lho."
-"Do qual não tenho coisa alguma certa que escreva ao meu senhor, e por isso perante vós o trouxe, principalmente perante ti, ó rei Agripa, para que, depois de interrogado, tenha alguma coisa que escrever."
+"Do qual não tenho coisa alguma certa que escreva ao meu senhor, e por isso perante vós o #trouxe, principalmente perante ti, ó rei Agripa, para que, depois de interrogado, tenha alguma coisa que escrever."
 "Porque me parece contra a razão enviar um preso, e não notificar contra ele as acusações."

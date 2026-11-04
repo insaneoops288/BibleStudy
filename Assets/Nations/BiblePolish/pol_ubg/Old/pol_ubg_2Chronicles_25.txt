@@ -2,7 +2,7 @@
 "I czynił to, co dobre w oczach PANA, ale niedoskonałym sercem."
 "I kiedy jego królestwo było utwierdzone, zabił te spośród swoich sług, które zabiły króla, jego ojca."
 "Ich synów jednak nie zabił. Postąpił tak, jak jest napisane w prawie, w Księdze Mojżesza, gdzie PAN dał nakaz, mówiąc
-"Wtedy Amazjasz zgromadził lud Judy i ustanowił nad nim dowódców nad tysiącami i setników, według ich rodów, dla całej Judy i Beniamina. Następnie policzył tych, którzy mieli dwadzieścia lat i więcej, a było ich trzysta tysięcy wyborowych mężczyzn gotowych do boju, uzbrojonych w dzidę i tarczę."
+"Wtedy Amazjasz zgromadził lud Judy i ustanowił nad nim dowódców nad tysiącami i setników, według ich rodów, dla całej Judy i Beniamina. Następnie policzył #tych, którzy mieli dwadzieścia lat i więcej, a było ich trzysta tysięcy wyborowych mężczyzn gotowych do boju, uzbrojonych w dzidę i tarczę."
 "Najął też z Izraela sto tysięcy dzielnych wojowników za sto talentów srebra."
 "Lecz przybył do niego mąż Boży i powiedział
 "Ale jeśli chcesz, idź i umocnij się do bitwy, a Bóg powali cię przed wrogiem. Bóg bowiem ma moc i wspomagać, i przywieść do upadku."
@@ -20,7 +20,7 @@
 "Ale Amazjasz nie posłuchał, a było to od Boga, aby ich wydać w ręce wrogów za to, że szukali bogów Edomu."
 "Wyruszył więc Joasz, król Izraela, i spojrzeli sobie w oczy, on i Amazjasz, król Judy, w Bet-Szemesz, które należy do Judy."
 "I Juda został rozgromiony przez Izraela, i każdy uciekał do swojego namiotu."
-"A Joasz, król Izraela, pojmał w Bet-Szemesz Amazjasza, króla Judy, syna Joasza, syna Jehoachaza, i przyprowadził go do Jerozolimy, gdzie zburzył mur Jerozolimy od Bramy Efraima aż do Bramy Narożnej – na czterysta łokci."
+"A Joasz, król Izraela, pojmał w Bet-Szemesz Amazjasza, króla Judy, syna Joasza, syna Jehoachaza, i przyprowadził go do #Jerozolimy, gdzie zburzył mur Jerozolimy od Bramy Efraima aż do Bramy Narożnej – na czterysta łokci."
 "I zabrał całe złoto i srebro oraz wszystkie naczynia, które znajdowały się w domu Bożym u Obed-Edoma i w skarbcach domu królewskiego, a także zakładników, i wrócił do Samarii."
 "Amazjasz, syn Joasza, król Judy, żył jeszcze piętnaście lat po śmierci Joasza, syna Jehoachaza, króla Izraela."
 "A pozostałe dzieje Amazjasza, od pierwszych do ostatnich, czy nie są zapisane w księdze królów Judy i Izraela?"

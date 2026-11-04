@@ -8,7 +8,7 @@
 "Lecz mąż Boży odpowiedział królowi
 "Tak bowiem mi rozkazano na słowo PANA
 "Poszedł więc inną drogą i nie wrócił tą drogą, którą przyszedł do Betel."
-"A mieszkał w Betel pewien stary prorok. Przyszli do niego jego synowie i opowiedzieli mu o wszystkich czynach, których w tym dniu dokonał mąż Boży w Betel. Powtórzyli też swojemu ojcu słowa, które wypowiedział do króla."
+"A mieszkał w Betel pewien stary prorok. Przyszli do niego jego synowie i opowiedzieli mu o wszystkich czynach, których #w tym dniu dokonał mąż Boży w Betel. Powtórzyli też swojemu ojcu słowa, które wypowiedział do króla."
 "Ich ojciec zapytał ich
 "I powiedział swoim synom
 "I podążył za mężem Bożym, a gdy znalazł go siedzącego pod dębem, zapytał go

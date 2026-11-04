@@ -31,7 +31,7 @@
 "Ito ang mana ng lipi ng mga anak ni Aser ayon sa kanilang mga angkan, ang mga bayang ito pati ng mga nayon ng mga ito."
 "Ang ikaanim na kapalaran ay napasa mga anak ni Nephtali, sa mga anak ni Nephtali ayon sa kanilang mga angkan."
 "At ang kanilang hangganan ay mula sa Heleph, mula sa encina sa Saananim, at sa Adamineceb, at sa Jabneel, hanggang sa Lacum; at ang mga labasan niyaon ay sa Jordan;"
-"At ang hangganan ay paliko sa dakong kalunuran sa Aznot-tabor, at palabas sa Hucuca mula roon; at abot sa Zabulon sa timugan, at abot sa Aser sa kalunuran, at sa Juda sa Jordan na dakong sinisikatan ng araw."
+"At ang hangganan ay paliko sa dakong kalunuran sa Aznot-tabor, at palabas sa Hucuca mula roon; at abot sa Zabulon #sa timugan, at abot sa Aser sa kalunuran, at sa Juda sa Jordan na dakong sinisikatan ng araw."
 "At ang mga bayang nakukutaan ay Siddim, Ser, at Hamath, Raccath, at Cinneret,"
 "At Adama, at Rama, at Asor,"
 "At Cedes, at Edrei, at En-hasor,"
@@ -44,8 +44,8 @@
 "At Elteche, at Gibbethon, at Baalat,"
 "At Jehul, at Bene-berac, at Gatrimmon,"
 "At Me-jarcon, at Raccon pati ng hangganan sa tapat ng Joppa."
-"At ang hangganan ng mga anak ni Dan ay palabas sa dako roon ng mga yaon; sapagka't ang mga anak ni Dan ay sumampa at bumaka laban sa Lesem, at sinakop at sinugatan ng talim ng tabak, at inari at tumahan doon, at tinawag ang Lesem, na Dan, ayon sa pangalan ni Dan, na kanilang ama."
+"At ang hangganan ng mga anak ni Dan ay palabas sa dako roon ng mga yaon; sapagka't ang mga anak ni Dan ay sumampa at bumaka laban sa Lesem, #at sinakop at sinugatan ng talim ng tabak, at inari at tumahan doon, at tinawag ang Lesem, na Dan, ayon sa pangalan ni Dan, na kanilang ama."
 "Ito ang mana ng lipi ng mga anak ni Dan ayon sa kanilang mga angkan, ang mga bayang ito pati ng mga nayon ng mga yaon."
 "Gayon kanilang tinapos ang pagbabahagi ng lupain na pinakamana ayon sa mga hangganan niyaon; at binigyan ng mga anak ni Israel ng mana si Josue na anak ni Nun sa gitna nila
 "Ayon sa utos ng Panginoon ay kanilang ibinigay sa kaniya ang bayang kaniyang hiningi, ang Timnath-sera sa lupaing maburol ng Ephraim
-"Ito ang mga mana na binahagi ni Eleazar na saserdote at ni Josue na anak ni Nun, at ng mga pangulo ng mga sangbahayan ng mga magulang ng mga lipi ng mga anak ni Israel na pinakamana, sa pamamagitan ng pagsasapalaran sa Silo sa harap ng Panginoon sa pintuan ng tabernakulo ng kapisanan. Gayon nila niwakasan ang pagbabahagi ng lupain."
+"Ito ang mga mana na binahagi ni Eleazar na saserdote at ni Josue na anak ni Nun, at ng mga pangulo ng mga sangbahayan ng mga magulang ng mga lipi ng #mga anak ni Israel na pinakamana, sa pamamagitan ng pagsasapalaran sa Silo sa harap ng Panginoon sa pintuan ng tabernakulo ng kapisanan. Gayon nila niwakasan ang pagbabahagi ng lupain."

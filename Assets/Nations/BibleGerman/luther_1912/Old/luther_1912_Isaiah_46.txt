@@ -4,7 +4,7 @@
 "Ja, ich will euch tragen bis ins Alter und bis ihr grau werdet. Ich will es tun, ich will heben und tragen und erretten."
 "Nach wem bildet und wem vergleicht ihr mich denn? Gegen wen messet ihr mich, dem ich gleich sein solle?"
 "Sie schütten das Gold aus dem Beutel und wägen dar das Silber mit der Waage und lohnen dem Goldschmied, daß er einen Gott daraus mache, vor dem sie knieen und anbeten."
-"Sie heben ihn auf die Achseln und tragen ihn und setzen ihn an seine Stätte. Da steht er und kommt von seinem Ort nicht. Schreit einer zu ihm, so antwortet er nicht und hilft ihm nicht aus seiner Not."
+"Sie heben ihn auf die Achseln und tragen ihn und setzen ihn an seine Stätte. Da steht er und kommt #von seinem Ort nicht. Schreit einer zu ihm, so antwortet er nicht und hilft ihm nicht aus seiner Not."
 "An solches gedenket doch und seid fest; ihrÜbertreter, gehet in euer Herz!"
 "Gedenket des Vorigen von alters her; denn ich bin Gott, und keiner mehr, ein Gott, desgleichen nirgend ist,"
 "der ich verkündige zuvor, was hernach kommen soll, und vorlängst, ehe denn es geschieht, und sage

@@ -12,7 +12,7 @@
 "Porque a cualquiera que tiene, se le dará, y tendrá en abundancia; pero al que no tiene, aun lo que tiene le será quitado."
 "Por eso les habló por parábolas; porque viendo no ven, y oyendo no oyen, ni entienden."
 "De manera que se cumple en ellos la profecía de Isaías, que dice
-"Porque el corazón de este pueblo está engrosado, y con los oídos oyen pesadamente, y con sus ojos guiñan; para que no vean con los ojos, y oigan con los oídos, y del corazón entiendan, y se conviertan, y <I>yo</I>  los sane."
+"Porque el corazón de este pueblo está engrosado, y con los oídos oyen pesadamente, y con sus ojos guiñan; para que no #vean con los ojos, y oigan con los oídos, y del corazón entiendan, y se conviertan, y <I>yo</I>  los sane."
 "Mas bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen."
 "Porque de cierto os digo, que muchos profetas y justos desearon ver lo que veis, y no <I>lo</I>  vieron; y oír lo que oís, y no <I>lo</I>  oyeron."
 "Oíd, pues, vosotros la parábola del que siembra

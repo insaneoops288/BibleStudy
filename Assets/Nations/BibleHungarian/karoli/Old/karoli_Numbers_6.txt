@@ -8,7 +8,7 @@
 "Az õ nazireusságának egész idejében szent legyen az Úrnak."
 "Ha pedig meghal valaki õ nála hirtelenséggel, és megfertõzteti az õ nazireus fejét
 "A nyolczadik napon pedig vigyen két gerliczét vagy két galambfiat a papnak a gyülekezet sátorának nyílásához."
-"És készítse el a pap egyiket bûnért való áldozatul, a másikat pedig egészen égõáldozatul, és szerezzen néki engesztelést, a miért vétkezett a holttest miatt; és szentelje meg annak fejét azon napon."
+"És készítse el a pap egyiket bûnért való áldozatul, a másikat pedig egészen égõáldozatul, és szerezzen #néki engesztelést, a miért vétkezett a holttest miatt; és szentelje meg annak fejét azon napon."
 "És az õ nazireusságának napjait szentelje [újra] az Úrnak, és vigyen az õ vétkéért való áldozatul egy esztendõs bárányt; az elébbi napok pedig essenek el, mert megfertõztette az õ nazireusságát."
 "Ez pedig a nazireus törvénye
 "Õ pedig vigye fel az õ áldozatját az Úrnak
@@ -18,7 +18,7 @@
 "A nazireus pedig nyírja meg az õ nazireus fejét a gyülekezet sátorának nyílásánál, és vegye az õ nazireus fejének haját, és tegye azt a tûzre, a mely van a hálaadó áldozat alatt."
 "Vegye azután a pap a kosnak megfõtt lapoczkáját, és egy kovásztalan lepényt a kosárból, és egy kovásztalan pogácsát, és tegye a nazireus tenyerére, minekutána megnyirta az õ nazireus [fejét]."
 "És lóbálja meg a pap azokat áldozatul az Úr elõtt; a papnak szenteltetett ez, a meglóbált szegyen és a felemelt lapoczkán felül. Azután igyék bort a nazireus."
-"Ez a nazireus törvénye, a ki fogadást tett, [és] az õ áldozata az õ nazireusságáért az Úrnak, azonkivül, a mihez módja van. Az õ fogadása szerint, a melyet fogadott, a képen cselekedjék, az õ nazireusságának törvénye szerint."
+"Ez a nazireus törvénye, a ki fogadást tett, [és] az õ áldozata az õ nazireusságáért az Úrnak, azonkivül, a #mihez módja van. Az õ fogadása szerint, a melyet fogadott, a képen cselekedjék, az õ nazireusságának törvénye szerint."
 "És szóla az Úr Mózesnek, mondván
 "Szólj Áronnak és az õ fiainak, mondván
 "Áldjon meg tégedet az Úr, és õrizzen meg tégedet."

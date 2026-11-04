@@ -20,7 +20,7 @@
 "Ấy vì cớ đó mà tôi đã xin gặp anh em và nói chuyện với, vì là bởi sự trông cậy của dân Y-sơ-ra-ên nên tôi mang lấy xiềng nầy."
 "Các ngươi ấy trả lời rằng
 "Dầu vậy, chúng tôi muốn biết anh nghĩ làm sao; vì về phần đạo nầy, chúng tôi biết người ta hay chống nghịch khắp mọi nơi."
-"Họ đã hẹn ngày với người, bèn đến thăm tại nơi nhà trọ rất đông; từ buổi sáng đến chiều, người cứ làm chứng và giảng giải với họ về nước Ðức Chúa Trời, lấy luật pháp Môi-se và các đấng tiên tri mà gắng sức khuyên bảo họ về Ðức Chúa Jêsus."
+"Họ đã hẹn ngày với người, bèn đến thăm tại nơi nhà trọ rất đông; từ buổi sáng đến chiều, người cứ làm chứng và giảng giải #với họ về nước Ðức Chúa Trời, lấy luật pháp Môi-se và các đấng tiên tri mà gắng sức khuyên bảo họ về Ðức Chúa Jêsus."
 "Có người chịu tin lời người nói, có kẻ chẳng tin."
 "Bởi chưng họ không đồng ý với nhau và ra về, nên Phao-lô chỉ nói thêm lời nầy
 "Hãy đến nơi dân nầy và nói rằng

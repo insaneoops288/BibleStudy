@@ -11,7 +11,7 @@
 "Arriti në një farë vendi dhe aty kaloi natën, sepse dielli kishte perënduar. Atëherë mori një nga gurët e atij vendi, e vuri nën krye të tij dhe aty ra në gjumë."
 "Dhe pa në ëndërr një shkallë të mbështetur mbi tokë, maja e së cilës prekte qiellin; dhe ja engjëjt e Perëndisë hipnin e zbrisnin në të."
 "Dhe ja, Zoti ndodhej në majë të saj dhe i tha
-"dhe pasardhësit e tu do të jenë si pluhur i tokës, dhe ti do të shtrihesh në perëndim dhe në lindje, në veri dhe në jug; dhe tërë familjet e tokës do të bekohen nëpërmjet teje dhe pasardhësve të tu."
+"dhe pasardhësit e tu do të jenë si pluhur i tokës, dhe ti do të shtrihesh në perëndim dhe në lindje, #në veri dhe në jug; dhe tërë familjet e tokës do të bekohen nëpërmjet teje dhe pasardhësve të tu."
 "Dhe ja, unë jam me ty dhe do të të mbroj kudo që të vesh, dhe do të të sjell përsëri në këtë vend; sepse nuk do të të braktis para se të bëj atë që të kam thënë""."
 "Atëherë Jakobit i doli gjumi dhe tha
 "Dhe pati frikë e tha

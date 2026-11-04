@@ -8,8 +8,8 @@
 "Ja hän luki heitä Besekissä. Ja Israelin lapsia oli kolmesataa tuhatta miestä, mutta Juudan lapsia kolmekymmentä tuhatta."
 "Ja he sanoivat sanansaattajille, jotka tulleet olivat
 "Ja Jabeksen miehet sanoivat
-"Niin Saul jakoi toisena päivänä huomeneltain kansan kolmeen joukkoon, ja he tulivat huomenvartiossa sisälle keskelle leiriä ja löivät Ammonilaisia siihenasti kuin päivä tuli palavimmaksi; ja ne jotka jäivät, hajoitettiin, niin ettei kahta heistä yhteen jäänyt."
+"Niin Saul jakoi toisena päivänä huomeneltain kansan kolmeen joukkoon, ja he tulivat huomenvartiossa sisälle keskelle leiriä ja löivät #Ammonilaisia siihenasti kuin päivä tuli palavimmaksi; ja ne jotka jäivät, hajoitettiin, niin ettei kahta heistä yhteen jäänyt."
 "Niin kansa sanoi Samuelille
 "Niin sanoi Saul
 "Niin sanoi Samuel kansalle
-"Niin kaikki kansa meni Gilgaliin, ja Saul tehtiin siellä kuninkaaksi Herran edessä Gilgalissa; ja he uhrasivat siellä kiitosuhria Herran edessä. Niin Saul ja kaikki Israelin miehet iloitsivat sangen suuresti."
+"Niin kaikki kansa meni Gilgaliin, ja Saul tehtiin siellä kuninkaaksi Herran edessä Gilgalissa; ja he #uhrasivat siellä kiitosuhria Herran edessä. Niin Saul ja kaikki Israelin miehet iloitsivat sangen suuresti."

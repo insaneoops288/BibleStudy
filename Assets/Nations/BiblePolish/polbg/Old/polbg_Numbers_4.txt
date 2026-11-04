@@ -11,9 +11,9 @@
 "Na ołtarz także złoty rozpostrzą oponę hijacyntową, a włożą nań przykrycie z skór borsukowych, i założą drążki jego."
 "Pobiorą też wszystkie naczynia usługi, któremi służą w świątnicy, a obwinąwszy oponą hijacyntową, przykryją je przykryciem z skór borsukowych, i włożą na drążki."
 "Do tego zmiotą popiół z ołtarza, a na nim rozpostrzą oponę szarłatową;"
-"I włożą nań wszystkie naczynia jego, któremi usługują przy nim, to jest łopaty, widły, i miotły, i kociełki, i wszystkie naczynia ołtarzowe, i rozpostrzą na nim przykrycie z skór borsukowych, i założą drążki jego."
-"A gdy to wykona Aaron z synami swymi, że przykryje świątnicę ze wszystkiem naczyniem świątnicy, a będzie się miał ruszyć obóz, tedy potem przyjdą synowie Kaatowi, aby one rzeczy nieśli; ale się nie będą dotykali świątnicy, aby nie pomarli. Tać jest posługa synów Kaatowych, przy namiocie zgromadzenia."
-"Staranie zasię Eleazara, syna Aarona kapłana, będzie o oliwie do świecenia, o kadzeniu wonnem, o ofierze śniednej ustawicznej, i o olejku pomazywania, doglądanie przybytku, i wszystkiego, co w nim jest, i świątnicy z naczyniami jej."
+"I włożą nań wszystkie naczynia jego, któremi usługują przy nim, to jest łopaty, widły, i miotły, i kociełki, #i wszystkie naczynia ołtarzowe, i rozpostrzą na nim przykrycie z skór borsukowych, i założą drążki jego."
+"A gdy to wykona Aaron z synami swymi, że przykryje świątnicę ze wszystkiem naczyniem świątnicy, a będzie się miał ruszyć obóz, tedy potem przyjdą #synowie Kaatowi, aby one rzeczy nieśli; ale się nie będą dotykali świątnicy, aby nie pomarli. Tać jest posługa synów Kaatowych, przy namiocie zgromadzenia."
+"Staranie zasię Eleazara, syna Aarona kapłana, będzie o oliwie do świecenia, o kadzeniu wonnem, o ofierze śniednej ustawicznej, #i o olejku pomazywania, doglądanie przybytku, i wszystkiego, co w nim jest, i świątnicy z naczyniami jej."
 "Potem rzekł Pan do Mojżesza i Aarona, mówiąc
 "Nie zatracajcie pokolenia domów Kaatowych z pośrodku Lewitów."
 "Ale to im uczynicie, aby żyli a nie pomarli, gdy przystępować będą do miejsca najświętszego
@@ -23,7 +23,7 @@
 "Od tego, który ma trzydzieści lat i wyżej, aż do tego, który ma pięćdziesiąt lat, policzysz je, którzy sposobni będą do tej pracy, aby mogli usługować przy namiocie zgromadzenia."
 "A tać będzie powinność domów synów Gersonowych ku posłudze i ku noszeniu."
 "Nosić będą opony przybytku, i namiot zgromadzenia z przykryciem jego; także przykrycie borsukowe, które z wierzchu na nim jest, i zasłonę od drzwi namiotu zgromadzenia;"
-"I opony do sieni, i zasłonę drzwi bramy u sieni, która jest u przybytku, i przy ołtarzu w około, i sznury jej, i wszystkie naczynia usługi ich, i wszystko, czego używają około usługi ich; i to czynić będą."
+"I opony do sieni, i zasłonę drzwi bramy u sieni, która jest u przybytku, i przy ołtarzu w około, i #sznury jej, i wszystkie naczynia usługi ich, i wszystko, czego używają około usługi ich; i to czynić będą."
 "Według rozkazania Aarona i synów jego będzie wszelka usługa synów Gersonowych przy każdem brzemieniu ich, i przy każdej usłudze ich; a poruczycie im pod straż wszystkie brzemiona ich."
 "Tać będzie powinność domów synów Gersonowych w namiocie zgromadzenia, a będzie ich doglądał Itamar, syn Aarona kapłana."
 "Syny także Merarego według familii ich, i według domów ojców ich policzysz
@@ -44,6 +44,6 @@
 "A było ich policzonych według familii ich trzy tysiące i dwieście."
 "A tać była summa policzonych z familii synów Merarego, które zliczył Mojżesz i Aaron według rozkazania Pańskiego przez Mojżesza."
 "Wszystkich policzonych, które policzył Mojżesz i Aaron, i książęta Izraelskie z Lewitów według familii ich, i domów ojców ich,"
-"Od tego, który miał trzydzieści lat i wyżej, i aż do tego, który miał pięćdziesiąt lat, każdego przychodzącego do odprawowania powinności usługi, i powinności noszenia brzemion w namiocie zgromadzenia."
+"Od tego, który miał trzydzieści lat i wyżej, i aż do tego, który miał pięćdziesiąt #lat, każdego przychodzącego do odprawowania powinności usługi, i powinności noszenia brzemion w namiocie zgromadzenia."
 "A było ich policzonych osiem tysięcy, i pięć set i osiemdziesiąt."
 "Według rozkazania Pańskiego policzeni są przez Mojżesza, każdy z osobna według usługi jego, i według brzemienia jego; a policzeni byli ci, które Pan rozkazał liczyć Mojżeszowi."

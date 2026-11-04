@@ -10,9 +10,9 @@
 "Benedetto sia il regno di Davide, nostro padre, il quale viene nel nome del Signore. Osanna ne’ luoghi altissimi!"
 "E Gesù, entrato in Gerusalemme, venne nel tempio; ed avendo riguardata ogni cosa attorno attorno, essendo già l’ora tarda, uscì verso Betania, co’ dodici."
 "ED il giorno seguente, quando furono usciti di Betania, egli ebbe fame."
-"E veduto di lontano un fico che avea delle foglie, andò a vedere se vi troverebbe cosa alcuna; ma, venuto a quello, non vi trovò nulla, se non delle foglie; perciocchè non era la stagion de’ fichi."
+"E veduto di lontano un fico che avea delle foglie, andò a vedere se vi troverebbe cosa alcuna; ma, #venuto a quello, non vi trovò nulla, se non delle foglie; perciocchè non era la stagion de’ fichi."
 "E Gesù prese a dire al fico
-"E vennero in Gerusalemme. E Gesù, entrato nel tempio, prese a cacciar fuori coloro che vendevano, e che comperavano nel tempio; e riversò le tavole dei cambiatori, e le sedie di coloro che vendevano i colombi."
+"E vennero in Gerusalemme. E Gesù, entrato nel tempio, prese a cacciar fuori coloro che vendevano, e che comperavano #nel tempio; e riversò le tavole dei cambiatori, e le sedie di coloro che vendevano i colombi."
 "E non permetteva che alcuno portasse alcun vaso attraverso al tempio."
 "Ed insegnava, dicendo loro
 "Or gli Scribi, e i principali sacerdoti udirono queste cose, e cercavano il modo di farlo morire; perchè lo temevano; perciocchè tutta la moltitudine era rapita in ammirazione della sua dottrina."

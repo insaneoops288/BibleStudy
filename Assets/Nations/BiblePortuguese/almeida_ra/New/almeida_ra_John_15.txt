@@ -13,7 +13,7 @@
 "Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos."
 "Vós sois meus amigos, se fizerdes o que eu vos mando."
 "Já não vos chamo servos, porque o servo não sabe o que faz o seu senhor; mas chamei-vos amigos, porque tudo quanto ouvi de meu Pai vos dei a conhecer."
-"Vós não me escolhestes a mim mas eu vos escolhi a vós, e vos designei, para que vades e deis frutos, e o vosso fruto permaneça, a fim de que tudo quanto pedirdes ao Pai em meu nome, ele vo-lo conceda."
+"Vós não me escolhestes a mim mas eu vos escolhi a vós, e vos designei, para que vades e deis frutos, #e o vosso fruto permaneça, a fim de que tudo quanto pedirdes ao Pai em meu nome, ele vo-lo conceda."
 "Isto vos mando
 "Se o mundo vos odeia, sabei que, primeiro do que a vós, me odiou a mim."
 "Se fosseis do mundo, o mundo amaria o que era seu; mas, porque não sois do mundo, antes eu vos escolhi do mundo, por isso é que o mundo vos odeia."

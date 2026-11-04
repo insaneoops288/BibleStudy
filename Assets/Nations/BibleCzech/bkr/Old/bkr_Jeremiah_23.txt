@@ -11,7 +11,7 @@
 "Nebo jakož prorok, tak kněz pokrytství páchají. Také v domě svém nacházím nešlechetnost jejich, dí Hospodin."
 "Pročež budou míti cestu svou podobnou plzkosti v mrákotě, na níž postrčeni budou a padnou, když uvedu na ně bídu v čas navštívení jejich, dí Hospodin."
 "Při prorocích zajisté Samařských viděl jsem nesmyslnost; prorokovali skrze Bále, a svodili lid můj Izraelský."
-"Ale při prorocích Jeruzalémských vidím hroznou věc, že cizoložíce a se lží se obcházejíce, posilňují také rukou nešlechetníků, aby se neobrátil žádný od nešlechetnosti své. Mám všecky za podobné Sodomě, a obyvatele jeho za podobné Gomoře."
+"Ale při prorocích Jeruzalémských vidím hroznou věc, že cizoložíce a se lží se obcházejíce, posilňují také rukou nešlechetníků, aby #se neobrátil žádný od nešlechetnosti své. Mám všecky za podobné Sodomě, a obyvatele jeho za podobné Gomoře."
 "Protož takto praví Hospodin zástupů o prorocích těchto
 "Takto praví Hospodin zástupů
 "Ustavičně říkají těm, kteříž mnou pohrdají
@@ -29,7 +29,7 @@
 "Zdaliž není slovo mé takové jako oheň, dí Hospodin, a jako kladivo rozrážející skálu?"
 "Protož aj já, dí Hospodin, proti těm prorokům, kteříž ukrádají slova má jeden každý před bližním svým."
 "Aj já, dí Hospodin, proti těm prorokům, kteříž chlubně mluví, říkajíce
-"Aj já, dí Hospodin, proti těm, kteříž prorokují sny lživé, a vypravujíce je, svodí lid můj lžmi svými a žvavostí svou, ješto jsem já jich neposlal, aniž jsem jim přikázal. Pročež naprosto nic neprospívají lidu tomuto, dí Hospodin."
+"Aj já, dí Hospodin, proti těm, kteříž prorokují sny lživé, a vypravujíce je, svodí lid můj lžmi svými a žvavostí #svou, ješto jsem já jich neposlal, aniž jsem jim přikázal. Pročež naprosto nic neprospívají lidu tomuto, dí Hospodin."
 "Protož, když by se tázal tebe lid tento, neb některý prorok neb kněz, řka
 "Nebo proroka a kněze toho i lid ten, kterýž by řekl
 "Ale takto říkejte jeden každý bližnímu svému a jeden každý bratru svému

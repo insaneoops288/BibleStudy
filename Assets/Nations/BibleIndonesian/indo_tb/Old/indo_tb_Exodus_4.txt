@@ -6,7 +6,7 @@
 "Lagi firman TUHAN kepadanya
 "Sesudah itu firman-Nya
 """Jika mereka tidak percaya kepadamu dan tidak mengindahkan tanda mujizat yang pertama, maka mereka akan percaya kepada tanda mujizat yang kedua."
-"Dan jika mereka tidak juga percaya kepada kedua tanda mujizat ini dan tidak mendengarkan perkataanmu, maka engkau harus mengambil air dari sungai Nil dan harus kaucurahkan di tanah yang kering, lalu air yang kauambil itu akan menjadi darah di tanah yang kering itu."""
+"Dan jika mereka tidak juga percaya kepada kedua tanda mujizat ini dan tidak mendengarkan perkataanmu, maka engkau harus mengambil air dari sungai #Nil dan harus kaucurahkan di tanah yang kering, lalu air yang kauambil itu akan menjadi darah di tanah yang kering itu."""
 "Lalu kata Musa kepada TUHAN
 "Tetapi TUHAN berfirman kepadanya
 "Oleh sebab itu, pergilah, Aku akan menyertai lidahmu dan mengajar engkau, apa yang harus kaukatakan."""

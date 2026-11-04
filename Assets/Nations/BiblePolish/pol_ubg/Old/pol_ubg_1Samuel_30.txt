@@ -18,7 +18,7 @@
 "Tak Dawid odzyskał wszystko, co zabrali Amalekici. Dawid uratował także swoje dwie żony."
 "Nie zabrakło im nikogo, od najmniejszego do największego, ani synów, ani córek, ani łupu, ani niczego, co im zabrali. Dawid odzyskał wszystko."
 "Potem Dawid zabrał wszystkie trzody i stada, które pędzono przed jego dobytkiem, i mówiono
-"I Dawid przybył do tych dwustu ludzi, którzy byli tak zmęczeni, że nie mogli iść za Dawidem, i którym kazał zostać przy potoku Besor. Wyszli oni naprzeciw Dawida i naprzeciw ludzi, którzy z nim byli. A gdy Dawid zbliżył się do tych ludzi, pozdrowił ich."
+"I Dawid przybył do tych dwustu ludzi, którzy byli tak zmęczeni, że nie mogli iść za Dawidem, i którym kazał zostać przy potoku #Besor. Wyszli oni naprzeciw Dawida i naprzeciw ludzi, którzy z nim byli. A gdy Dawid zbliżył się do tych ludzi, pozdrowił ich."
 "Lecz wszyscy źli ludzie i synowie Beliala, którzy poszli z Dawidem, powiedzieli
 "Wtedy Dawid powiedział
 "I któż was posłucha w tej sprawie? Bo jaki jest udział tego, który wyruszył na bitwę, taki też będzie udział tego, który został przy taborze; jednakowo się podzielą."

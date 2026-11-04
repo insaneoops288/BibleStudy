@@ -19,7 +19,7 @@
 "Mert szükség, hogy szakadások is legyenek köztetek, hogy a kipróbáltak nyilvánvalókká legyenek ti köztetek."
 "Mikor tehát egybegyûltök egyazon helyre, nincs úrvacsorájával való élés
 "Mert kiki az õ saját vacsoráját veszi elõ az evésnél; és némely éhezik, némely pedig dõzsöl."
-"Hát nincsenek-é házaitok az evésre és ivásra? Avagy az Isten gyülekezetét vetitek-é meg, és azokat szégyenítitek-é meg, a kiknek nincsen? Mit mondjak néktek? Dícsérjelek-é titeket ebben? Nem dícsérlek."
+"Hát nincsenek-é házaitok az evésre és ivásra? Avagy az Isten gyülekezetét vetitek-é meg, és azokat #szégyenítitek-é meg, a kiknek nincsen? Mit mondjak néktek? Dícsérjelek-é titeket ebben? Nem dícsérlek."
 "Mert én az Úrtól vettem, a mit néktek elõtökbe is adtam
 "És hálákat adván, megtörte és ezt mondotta
 "Hasonlatosképen a pohárt is vette, minekutána vacsorált volna, ezt mondván

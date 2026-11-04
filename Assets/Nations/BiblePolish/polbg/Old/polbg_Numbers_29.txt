@@ -3,13 +3,13 @@
 "A na ofiarę śniedną ich z mąki pszennej nagniecionej z oliwą trzy dziesiąte części efy do cielca, a dwie dziesiąte części do barana."
 "A dziesiątę część jednę do każdego baranka z onych siedmiu baranków;"
 "Także kozła jednego z kóz ku ofierze za grzech na oczyszczenie was."
-"Oprócz całopalenia nowego miesiąca, i ofiary śniednej jego, i oprócz całopalenia ustawicznego, i ofiary śniednej jego, i ofiar ich mokrych według obrzędów ich ku wdzięcznej wonności; ofiara to ognista Panu."
+"Oprócz całopalenia nowego miesiąca, i ofiary śniednej jego, i oprócz całopalenia ustawicznego, i ofiary śniednej jego, #i ofiar ich mokrych według obrzędów ich ku wdzięcznej wonności; ofiara to ognista Panu."
 "Potem dziesiątego dnia tegoż miesiąca siódmego, zgromadzenie święte mieć będziecie, a będziecie trapić dusze wasze; żadnej roboty nie będziecie robić."
 "A będziecie ofiarowali całopalenie Panu ku wdzięcznej wonności
 "A na ofiarę śniedną ich z pszennej mąki nagniecionej z oliwą
 "A dziesiątą część jednę do każdego baranka z onych siedmiu baranków;"
 "Kozła z kóz jednego na ofiarę za grzech, oprócz ofiary za grzech na oczyszczenie, i oprócz całopalenia ustawicznego, i ofiary śniednej jego, i mokrych ofiar ich."
-"W piętnasty zaś dzień tegoż siódmego miesiąca zgromadzenie święte mieć będziecie; żadnej roboty służebniczej nie będziecie czynić weń; ale obchodzić będziecie święto uroczyste Panu przez siedem dni."
+"W piętnasty zaś dzień tegoż siódmego miesiąca zgromadzenie święte mieć będziecie; żadnej roboty służebniczej #nie będziecie czynić weń; ale obchodzić będziecie święto uroczyste Panu przez siedem dni."
 "I ofiarować będziecie całopalenie na ofiarę ognistą ku wdzięcznej wonności Panu, cielców młodych trzynaście, baranów dwa, baranków rocznych czternaście; i zupełni będą."
 "A na ofiarę ich śniedną z pszennej mąki zagniecionej z oliwą trzy dziesiąte części efy do każdego cielca z onych trzynaście cielców, dwie dziesiąte części do każdego barana z onych dwóch baranów;"
 "A jedna dziesiąta część do każdego baranka z onych czternaście baranków."
@@ -36,5 +36,5 @@
 "A ofiarować będziecie całopalenie, i ofiarę ognistą ku wdzięcznej wonności Panu, cielca jednego, barana jednego, baranków rocznych siedem zupełnych;"
 "Ofiarę śniedną ich, i ofiary mokre ich do cielca, do barana, do każdego baranka według liczby ich, i według zwyczaju ich."
 "Nadto kozła na ofiarę za grzech jednego, okrom całopalenia ustawicznego, ofiary śniednej jego, i ofiary mokrej jego."
-"To ofiarować będziecie Panu w święta uroczyste wasze, oprócz ślubów waszych i dobrowolnych ofiar waszych w całopaleniach waszych, i w śniednych ofiarach waszych, i w mokrych ofiarach waszych, i w spokojnych ofiarach waszych."
+"To ofiarować będziecie Panu w święta uroczyste wasze, oprócz ślubów waszych i dobrowolnych ofiar waszych w całopaleniach #waszych, i w śniednych ofiarach waszych, i w mokrych ofiarach waszych, i w spokojnych ofiarach waszych."
 

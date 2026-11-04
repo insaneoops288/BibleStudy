@@ -10,8 +10,8 @@
 "Trage nur viel Holz her, zünde das Feuer an, daß das Fleisch gar werde, und würze es wohl, und die Knochenstücke sollen anbrennen."
 "Lege auch den Topf leer auf die Glut, auf das er heiß werde und sein Erz entbrenne, ob seine Unreinigkeit zerschmelzen und sein Rost abgehen wolle.{~}"
 "Aber wie sehr er brennt, will sein Rost doch nicht abgehen, denn es ist zuviel des Rosts; er muß im Feuer zerschmelzen."
-"Deine Unreinigkeit ist so verhärtet, daß, ob ich dich gleich reinigen wollte, dennoch du nicht willst dich reinigen lassen von deiner Unreinigkeit. Darum kannst du hinfort nicht wieder rein werden, bis mein Grimm sich an dir gekühlt habe."
-"Ich, der HERR, habe es geredet! Es soll kommen, ich will's tun und nicht säumen; ich will nicht schonen noch mich's reuen lassen; sondern sie sollen dich richten, wie du gelebt und getan hast, spricht der HERR HERR."
+"Deine Unreinigkeit ist so verhärtet, daß, ob ich dich gleich reinigen wollte, dennoch du nicht willst dich reinigen lassen von #deiner Unreinigkeit. Darum kannst du hinfort nicht wieder rein werden, bis mein Grimm sich an dir gekühlt habe."
+"Ich, der HERR, habe es geredet! Es soll kommen, ich will's tun und nicht säumen; ich will nicht schonen noch #mich's reuen lassen; sondern sie sollen dich richten, wie du gelebt und getan hast, spricht der HERR HERR."
 "Und des HERRN Wort geschah zu mir und sprach
 "Du Menschenkind, siehe, ich will dir deiner Augen Lust nehmen durch eine Plage, aber du sollst nicht klagen noch weinen noch eine Träne lassen."
 "Heimlich magst du seufzen, aber keine Totenklage führen; sondern du sollst deinen Schmuck anlegen und deine Schuhe anziehen. Du sollst deinen Mund nicht verhüllen und nicht das Trauerbrot essen."

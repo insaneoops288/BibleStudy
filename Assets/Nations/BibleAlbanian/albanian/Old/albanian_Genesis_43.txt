@@ -11,14 +11,14 @@
 "Atëherë Izraeli, ati i tyre, u tha atyre
 "Merrni me vete dyfishin e parave dhe kthejani paratë që ju vunë në grykën e trastave tuaja, ndofta ka qenë një gabim."
 "Merrni edhe vëllanë tuaj, dhe çohuni dhe kthehuni tek ai njeri;"
-"dhe Perëndia i plotfuqishëm t'ju bëjë të gjeni hir para atij njeriu, kështu që ai të lirojë vëllanë tjetër tuajin dhe Beniaminin. Sa për mua, po të jetë se duhet të mbetem pa bijtë e mi, ashtu qoftë!""."
+"dhe Perëndia i plotfuqishëm t'ju bëjë të gjeni hir para atij njeriu, kështu që ai të lirojë vëllanë tjetër tuajin #dhe Beniaminin. Sa për mua, po të jetë se duhet të mbetem pa bijtë e mi, ashtu qoftë!""."
 "Ata, pra, morën me vete dhuratën si dhe dyfishin e parave dhe Beniaminin; u ngritën dhe zbritën në Egjipt dhe u paraqitën para Jozefit."
 "Kur Jozefi pa Beniaminin bashkë me ta, i tha kryeshërbëtorit të shtëpisë së tij
 "Dhe ai bëri ashtu siç e urdhëroi Jozefi dhe i çoi në shtëpinë e Jozefit."
 "Por ata u trembën, për shkak se i kishin çuar në shtëpi të Jozefit dhe thanë
 "Pasi iu afruan kryeshërbëtorit të shtëpisë së Jozefit, folën me të te dera e shtëpisë dhe thanë
 """Zotëria im, ne zbritëm në të vërtetë herën e parë këtu për të blerë ushqime;"
-"dhe ndodhi që, kur arritëm në vendin ku kaluam natën, hapëm trastat dhe, ja, paratë e secilit prej nesh ndodheshin në grykë të trastës së vet; paratë tona me peshën e tyre të saktë; tani i kemi risjellë me vete."
+"dhe ndodhi që, kur arritëm në vendin ku kaluam natën, hapëm trastat dhe, ja, paratë e secilit prej nesh ndodheshin në #grykë të trastës së vet; paratë tona me peshën e tyre të saktë; tani i kemi risjellë me vete."
 "Dhe kemi sjellë me vete para të tjera për të blerë ushqime; ne nuk e dimë kush mund t'i ketë vënë paratë tona në trastat tona""."
 "Por ai tha
 "Ai njeri i futi në shtëpinë e Jozefit, u dha ujë që të lanin këmbët dhe ushqim për gomarët e tyre."

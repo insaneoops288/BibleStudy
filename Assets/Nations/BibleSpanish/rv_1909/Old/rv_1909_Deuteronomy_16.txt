@@ -8,11 +8,11 @@
 "Seis días comerás ázimos, y el séptimo día será solemnidad á Jehová tu Dios
 "Siete semanas te contarás
 "Y harás la solemnidad de las semanas á Jehová tu Dios
-"Y te alegrarás delante de Jehová tu Dios, tú, y tu hijo, y tu hija, y tu siervo, y tu sierva, y el Levita que estuviere en tus ciudades, y el extranjero, y el huérfano, y la viuda, que estuvieren en medio de ti, en el lugar que Jehová tu Dios hubiere esco"
+"Y te alegrarás delante de Jehová tu Dios, tú, y tu hijo, y tu hija, y tu siervo, y tu sierva, y el Levita que estuviere en #tus ciudades, y el extranjero, y el huérfano, y la viuda, que estuvieren en medio de ti, en el lugar que Jehová tu Dios hubiere esco"
 "Y acuérdate que fuiste siervo en Egipto; por tanto guardarás y cumplirás estos estatutos."
 "La solemnidad de las cabañas harás por siete días, cuando hubieres hecho la cosecha de tu era y de tu lagar."
 "Y te alegrarás en tus solemnidades, tú, y tu hijo, y tu hija, y tu siervo, y tu sierva, y el Levita, y el extranjero, y el huérfano, y la viuda, que están en tus poblaciones."
-"Siete días celebrarás solemnidad á Jehová tu Dios en el lugar que Jehová escogiere; porque te habrá bendecido Jehová tu Dios en todos tus frutos, y en toda obra de tus manos, y estarás ciertamente alegre."
+"Siete días celebrarás solemnidad á Jehová tu Dios en el lugar que Jehová escogiere; porque te habrá bendecido Jehová #tu Dios en todos tus frutos, y en toda obra de tus manos, y estarás ciertamente alegre."
 "Tres veces cada un año parecerá todo varón tuyo delante de Jehová tu Dios en el lugar que él escogiere
 "Cada uno con el don de su mano, conforme á la bendición de Jehová tu Dios, que te hubiere dado."
 "Jueces y alcaldes te pondrás en todas tus ciudades que Jehová tu Dios te dará en tus tribus, los cuales juzgarán al pueblo con justo juicio."

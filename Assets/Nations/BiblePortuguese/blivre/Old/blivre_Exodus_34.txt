@@ -4,7 +4,7 @@
 "E Moisés entalhou duas tábuas de pedra como as primeiras; e levantou-se pela manhã, e subiu ao monte de Sinai, como lhe mandou o SENHOR, e levou em sua mão as duas tábuas de pedra."
 "E o SENHOR desceu na nuvem, e esteve ali com ele, proclamando o nome do SENHOR."
 "E passando o SENHOR por diante dele, proclamou
-"Que guarda a misericórdia em milhares, que perdoa a iniquidade, a rebelião, e o pecado, e que de nenhum modo justificará ao malvado; que visita a iniquidade dos pais sobre os filhos e sobre os filhos dos filhos, sobre os de terceira, e quarta gerações."
+"Que guarda a misericórdia em milhares, que perdoa a iniquidade, a rebelião, e o pecado, e que de nenhum modo justificará ao malvado; #que visita a iniquidade dos pais sobre os filhos e sobre os filhos dos filhos, sobre os de terceira, e quarta gerações."
 "Então Moisés, apressando-se, baixou a cabeça até o chão e encurvou-se;"
 "E disse
 "E ele disse
@@ -26,7 +26,7 @@
 "A primícia dos primeiros frutos de tua terra meterás na casa do SENHOR teu Deus. Não cozerás o cabrito no leite de sua mãe."
 "E o SENHOR disse a Moisés
 "E ele esteve ali com o SENHOR quarenta dias e quarenta noites
-"E aconteceu que, descendo Moisés do monte Sinai com as duas tábuas do testemunho em sua mão, enquanto descia do monte, não sabia ele que a pele de seu rosto resplandecia, depois que havia com ele falado."
+"E aconteceu que, descendo Moisés do monte Sinai com as duas tábuas do testemunho em sua mão, enquanto descia #do monte, não sabia ele que a pele de seu rosto resplandecia, depois que havia com ele falado."
 "E olhou Arão e todos os filhos de Israel a Moisés, e eis que a pele de seu rosto era resplandescente; e tiveram medo de chegar-se a ele."
 "E chamou-os Moisés; e Arão e todos os príncipes da congregação voltaram-se a ele, e Moisés lhes falou."
 "E depois se chegaram todos os filhos de Israel, aos quais mandou todas as coisas que o SENHOR lhe havia dito no monte de Sinai."

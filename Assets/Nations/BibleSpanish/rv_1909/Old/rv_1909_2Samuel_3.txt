@@ -26,7 +26,7 @@
 "Y saliéndose Joab de con David, envió mensajeros tras Abner, los cuales le volvieron desde el pozo de Sira, sin saberlo David."
 "Y como Abner volvió á Hebrón, apartólo Joab al medio de la puerta, hablando con él blandamente, y allí le hirió por la quinta costilla, á causa de la muerte de Asael su hermano, y murió."
 "Cuando David supo después esto, dijo
-"Caiga sobre la cabeza de Joab, y sobre toda la casa de su padre; que nunca falte de la casa de Joab quien padezca flujo, ni leproso, ni quien ande con báculo, ni quien muera á cuchillo, ni quien tenga falta de pan."
+"Caiga sobre la cabeza de Joab, y sobre toda la casa de su padre; que nunca falte de la casa de Joab #quien padezca flujo, ni leproso, ni quien ande con báculo, ni quien muera á cuchillo, ni quien tenga falta de pan."
 "Joab pues y Abisai su hermano mataron á Abner, porque él había muerto á Asael, hermano de ellos en la batalla de Gabaón."
 "Entonces dijo David á Joab, y á todo el pueblo que con él estaba
 "Y sepultaron á Abner en Hebrón

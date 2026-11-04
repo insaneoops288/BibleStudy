@@ -1,4 +1,4 @@
-"Als nun solches alle Könige hörten, die diesseits des Jordan, auf den Gebirgen und in den Tälern und an allen Gestaden des großen Meeres wohnten, dem Libanon gegenüber, die Hetiter, Amoriter, Kanaaniter, Pheresiter, Heviter und Jebusiter,"
+"Als nun solches alle Könige hörten, die diesseits des Jordan, auf den Gebirgen und in den Tälern und an #allen Gestaden des großen Meeres wohnten, dem Libanon gegenüber, die Hetiter, Amoriter, Kanaaniter, Pheresiter, Heviter und Jebusiter,"
 "versammelten sie sich einmütig, um wider Josua und wider Israel zu streiten."
 "Als aber die Einwohner zu Gibeon hörten, was Josua mit Jericho und Ai getan hatte, brauchten sie eine List,"
 "gingen hin und versahen sich mit Wegzehrung und nahmen alte Säcke auf ihre Esel und alte, zerrissene und geflickte Weinschläuche,"

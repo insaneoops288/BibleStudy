@@ -1,5 +1,5 @@
 "Korvet ja erämaat pitää iloitseman, ja autio sia pitää iloinen oleman, ja niinkuin kukkanen kukoistaman."
-"Hän on kasvain vihoittava ja seisova riemuisna kaikessa ilossa ja riemussa; sillä Libanonin kunnia annetaan hänelle, Karmelin ja Saronin kaunistus; ja he näkevät Herran kunnian ja meidän Jumalan kauneuden."
+"Hän on kasvain vihoittava ja seisova riemuisna kaikessa ilossa ja riemussa; sillä Libanonin kunnia annetaan #hänelle, Karmelin ja Saronin kaunistus; ja he näkevät Herran kunnian ja meidän Jumalan kauneuden."
 "Vahvistakaat väsyneet kädet, ja tuetkaat nääntyneet polvet."
 "Sanokaat heikkomielisille
 "Silloin avataan sokiain silmät, ja kuuroin korvat aukenevat."

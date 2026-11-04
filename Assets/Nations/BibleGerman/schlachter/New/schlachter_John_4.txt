@@ -11,7 +11,7 @@
 "Sie spricht zu ihm
 "Bist du größer als unser Vater Jakob, der uns den Brunnen gegeben und selbst daraus getrunken hat, samt seinen Söhnen und seinem Vieh?"
 "Jesus antwortete und sprach zu ihr
-"wer aber von dem Wasser trinkt, das ich ihm geben werde, den wird in Ewigkeit nicht dürsten, sondern das Wasser, das ich ihm geben werde, wird in ihm zu einer Quelle von Wasser werden, das bis ins ewige Leben quillt."
+"wer aber von dem Wasser trinkt, das ich ihm geben werde, den wird in Ewigkeit nicht dürsten, sondern das Wasser, das #ich ihm geben werde, wird in ihm zu einer Quelle von Wasser werden, das bis ins ewige Leben quillt."
 "Die Frau spricht zu ihm
 "Jesus spricht zu ihr
 "Die Frau antwortete und sprach

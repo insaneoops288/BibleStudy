@@ -1,6 +1,6 @@
 "Mluvil také Hospodin Mojžíšovi a Aronovi, řka
 "Člověk ješto by na kůži těla jeho byla nějaká oteklina aneb prašivina, aneb poškvrna pobělavá, a bylo by na kůži těla jeho něco podobného k ráně malomocenství
-"I pohledí kněz na ránu, kteráž jest na kůži těla jeho. Jestliže chlupové na té ráně zbělejí, a ta rána bude-li na pohledění hlubší nežli jiná kůže těla jeho, rána malomocenství jest. Když tedy spatří ji kněz, za nečistého vyhlásí jej."
+"I pohledí kněz na ránu, kteráž jest na kůži těla jeho. Jestliže chlupové na té ráně zbělejí, a ta rána bude-li #na pohledění hlubší nežli jiná kůže těla jeho, rána malomocenství jest. Když tedy spatří ji kněz, za nečistého vyhlásí jej."
 "Pakli by poškvrna pobělavá byla na kůži těla jeho, a rána ta nebyla by hlubší nežli jiná kůže, a chlupové její nezběleli by
 "Potom pohledí na něj kněz v den sedmý, a jestli rána ta zůstává tak před očima jeho a nerozmáhá se po kůži
 "I pohledí na ni kněz v den sedmý po druhé, a jestliže ta rána pozčernalá bude, a nerozmohla by se po kůži
@@ -52,7 +52,7 @@
 "I spálí to roucho aneb osnovu, aneb outek z vlny neb ze lnu, aneb jakoukoli nádobu koženou, na níž by byla rána ta; nebo malomocenství škodlivé jest, protož ohněm spáleno bude."
 "Pakli pohledě kněz, uzřel by, že se nerozmohla rána ta na rouchu, aneb na osnově, aneb na outku, aneb na kterékoli nádobě kožené
 "Rozkáže kněz, aby zeprali tu věc, na níž byla by rána, i káže ji zavříti za sedm dní po druhé."
-"I pohledí kněz po zeprání té věci na ránu. Jestliže nezměnila rána barvy své, byť se pak nerozmohla dále, předce nečistá jest. Ohněm spálíš ji; nebo rozjídavá věc jest na vrchní neb spodní straně její."
+"I pohledí kněz po zeprání té věci na ránu. Jestliže nezměnila rána barvy své, byť se pak nerozmohla #dále, předce nečistá jest. Ohněm spálíš ji; nebo rozjídavá věc jest na vrchní neb spodní straně její."
 "Pakli pohledě kněz, uzřel by, an pozčernala rána po zeprání svém, odtrhne ji od roucha aneb od kůže, aneb od osnovy, aneb od outku."
 "Jestliže se pak ukáže ještě na rouchu aneb na osnově, aneb na outku, aneb na kterékoli nádobě kožené, malomocenství rozjídající se jest. Ohněm spálíš věc tu, na kteréž by ta rána byla."
 "Roucho pak aneb osnovu, aneb outek, aneb kteroukoli nádobu koženou, když bys zepral, a odešla by od ní ta rána, ještě po druhé zpéřeš, a čisté bude."

@@ -1,8 +1,8 @@
 "Dhe fjala e Zotit iu drejtua Jonas, birit të Amitait, duke thënë
 """Çohu, shko në Ninive, qytet i madh, dhe prediko kundër tij, sepse ligësia e tyre është ngjitur përpara meje""."
-"Por Jona u ngrit për të ikur në Tarshish, larg pranisë të Zotit. Kështu zbriti në Jafa, ku gjeti një anije që shkonte në Tarshish. Pagoi çmimin e caktuar dhe hipi në anije për të shkuar me ta larg pranisë të Zotit."
+"Por Jona u ngrit për të ikur në Tarshish, larg pranisë të Zotit. Kështu zbriti në Jafa, ku gjeti një anije që #shkonte në Tarshish. Pagoi çmimin e caktuar dhe hipi në anije për të shkuar me ta larg pranisë të Zotit."
 "Por Zoti shpërtheu një erë të fortë në det dhe u ngrit një furtunë e madhe në det, kështu që anija rrezikonte të shkallmohej."
-"Detarët, të trembur, i thirrën secili perëndisë së vet dhe hodhën në det ngarkesën që ishte në anije për ta lehtësuar. Ndërkaq Jona kishte zbritur në pjesët më të fshehta të anijes, kishte rënë dhe flinte thellë."
+"Detarët, të trembur, i thirrën secili perëndisë së vet dhe hodhën në det ngarkesën që ishte në anije për #ta lehtësuar. Ndërkaq Jona kishte zbritur në pjesët më të fshehta të anijes, kishte rënë dhe flinte thellë."
 "Kapiteni iu afrua dhe i tha
 "Pastaj i thanë njeri tjetrit
 "Atëherë e pyetën

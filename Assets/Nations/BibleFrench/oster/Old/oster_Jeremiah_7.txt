@@ -10,7 +10,7 @@
 "Puis vous venez vous présenter devant moi, dans cette maison, sur laquelle mon nom est invoqué, et vous dites
 "N'est-elle plus à vos yeux qu'une caverne de voleurs, cette maison sur laquelle mon nom est invoqué? Et voici, moi-même je le vois, dit l'Éternel."
 "Mais allez vers mon lieu, qui était à Silo, où je fis habiter mon nom au commencement, et voyez ce que je lui ai fait, à cause de la malice de mon peuple d'Israël."
-"Et maintenant, puisque vous faites toutes ces actions, dit l'Éternel, et que je vous ai parlé, parlé dès le matin, et que vous n'avez point écouté; que je vous ai appelés et que vous n'avez pas répondu;"
+"Et maintenant, puisque vous faites toutes ces actions, dit l'Éternel, et que je vous ai parlé, parlé dès le #matin, et que vous n'avez point écouté; que je vous ai appelés et que vous n'avez pas répondu;"
 "Je traiterai cette maison sur laquelle mon nom est invoqué et sur laquelle vous vous fiez, et ce lieu que je vous ai donné, à vous et à vos pères, comme j'ai traité Silo;"
 "Et je vous rejetterai de devant ma face, comme j'ai rejeté tous vos pères, toute la postérité d'Éphraïm."
 "Et toi, ne prie pas pour ce peuple, n'élève pour eux ni cri ni requête, et ne me sollicite point, car je ne t'écouterai pas."

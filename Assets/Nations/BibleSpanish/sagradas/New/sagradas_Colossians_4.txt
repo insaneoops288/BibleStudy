@@ -9,7 +9,7 @@
 "con Onésimo, amado y fiel hermano, el cual es de vosotros. Todo lo que acá pasa, os <I>lo</I>  harán saber."
 "Aristarco, mi compañero en la prisión, os saluda, y Marcos, el sobrino de Bernabé (acerca del cual habéis recibido mandamientos; si fuere a vosotros, recibidle),"
 "y Jesús, el que se llama el Justo; los cuales son de la circuncisión, éstos solos son los que me ayudan en el Reino de Dios, y me han sido consuelo."
-"Os saluda Epafras, el cual es de vosotros, siervo de Cristo, siempre solícito por vosotros en <I>sus</I>  oraciones, <I>para</I>  que estéis <I>firmes</I> , perfectos y cumplidos en todo lo que Dios quiere."
+"Os saluda Epafras, el cual es de vosotros, siervo de Cristo, siempre solícito por vosotros en <I>sus</I>  #oraciones, <I>para</I>  que estéis <I>firmes</I> , perfectos y cumplidos en todo lo que Dios quiere."
 "Porque le doy testimonio, que tiene gran celo por vosotros, y por los que están en Laodicea, y los que <I>están</I>  en Hierápolis."
 "Os saluda Lucas, el médico amado, y Demas."
 "Saludad a los hermanos que están en Laodicea, y a Ninfas, y a la Iglesia que está en su casa."

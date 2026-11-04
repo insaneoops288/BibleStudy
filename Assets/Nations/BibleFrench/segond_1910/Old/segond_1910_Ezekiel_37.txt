@@ -20,9 +20,9 @@
 "Les bois sur lesquels tu écriras seront dans ta main, sous leurs yeux."
 "Et tu leur diras
 "Je ferai d'eux une seule nation dans le pays, dans les montagnes d'Israël; ils auront tous un même roi, ils ne formeront plus deux nations, et ne seront plus divisés en deux royaumes."
-"Ils ne se souilleront plus par leurs idoles, par leurs abominations, et par toutes leurs transgressions; je les retirerai de tous les lieux qu'ils ont habités et où ils ont péché, et je les purifierai; ils seront mon peuple, et je serai leur Dieu."
+"Ils ne se souilleront plus par leurs idoles, par leurs abominations, et par toutes leurs transgressions; je les retirerai de tous les lieux #qu'ils ont habités et où ils ont péché, et je les purifierai; ils seront mon peuple, et je serai leur Dieu."
 "Mon serviteur David sera leur roi, et ils auront tous un seul pasteur. Ils suivront mes ordonnances, ils observeront mes lois et les mettront en pratique."
-"Ils habiteront le pays que j'ai donné à mon serviteur Jacob, et qu'ont habité vos pères; ils y habiteront, eux, leurs enfants, et les enfants de leurs enfants, à perpétuité; et mon serviteur David sera leur prince pour toujours."
+"Ils habiteront le pays que j'ai donné à mon serviteur Jacob, et qu'ont habité vos pères; ils y habiteront, eux, #leurs enfants, et les enfants de leurs enfants, à perpétuité; et mon serviteur David sera leur prince pour toujours."
 "Je traiterai avec eux une alliance de paix, et il y aura une alliance éternelle avec eux; je les établirai, je les multiplierai, et je placerai mon sanctuaire au milieu d'eux pour toujours."
 "Ma demeure sera parmi eux; je serai leur Dieu, et ils seront mon peuple."
 "Et les nations sauront que je suis l'Eternel, qui sanctifie Israël, lorsque mon sanctuaire sera pour toujours au milieu d'eux."

@@ -6,7 +6,7 @@
 "Ils disaient cela pour l'éprouver, afin de pouvoir l'accuser. Mais Jésus, s'étant baissé, écrivait avec le doigt sur la terre."
 "Et comme ils continuaient à l'interroger, il se releva et leur dit
 "Et s'étant de nouveau baissé, il écrivait sur la terre."
-"Quand ils entendirent cela, se sentant repris par leur conscience, ils sortirent l'un après l'autre, commençant depuis les plus âgés jusqu'aux derniers, et Jésus fut laissé seul avec la femme qui était là au milieu."
+"Quand ils entendirent cela, se sentant repris par leur conscience, ils sortirent l'un après l'autre, commençant depuis les #plus âgés jusqu'aux derniers, et Jésus fut laissé seul avec la femme qui était là au milieu."
 "Alors Jésus s'étant relevé, et ne voyant personne que la femme, lui dit
 "Elle dit
 "Jésus parla encore au peuple, et dit
@@ -41,7 +41,7 @@
 "Vous faites les oeuvres de votre père. Ils lui dirent donc
 "Jésus leur dit
 "Pourquoi ne comprenez-vous point mon langage? C'est parce que vous ne pouvez écouter ma Parole."
-"Le père dont vous êtes issus, c'est l’accusateur (le diable), et vous voulez accomplir les désirs de votre père. Il a été meurtrier dès le commencement, et il n'a point persisté dans la vérité, parce qu'il n'y a pas de vérité en lui. Lorsqu'il dit le mensonge, il parle de son propre fonds; car il est menteur, et le père du mensonge."
+"Le père dont vous êtes issus, c'est l’accusateur (le diable), et vous voulez accomplir les désirs de votre père. Il a été meurtrier dès le commencement, et il n'a point persisté dans #la vérité, parce qu'il n'y a pas de vérité en lui. Lorsqu'il dit le mensonge, il parle de son propre fonds; car il est menteur, et le père du mensonge."
 "Mais parce que je dis la vérité, vous ne me croyez point."
 "Qui de vous me convaincra de péché? Et si je dis la vérité, pourquoi ne me croyez-vous pas?"
 "Celui qui est de Dieu, écoute les paroles de Dieu; c'est pourquoi vous ne les écoutez pas, parce que vous n'êtes point de Dieu."

@@ -14,7 +14,7 @@
 "Spunând
 "Ascultați acum cuvântul DOMNULUI, voi rămășiță a lui Iuda
 "Atunci se va întâmpla, [că] sabia, de care vă temeți, vă va ajunge acolo în țara Egiptului, și foametea, de care v-ați înspăimântat, vă va urma îndeaproape acolo în Egipt; și acolo veți muri."
-"Astfel va fi cu toți oamenii care își îndreaptă fețele să meargă în Egipt să locuiască temporar acolo; vor muri de sabie, de foamete și de ciumă; și nimeni dintre ei nu va rămâne nici nu va scăpa de răul pe care îl voi aduce asupra lor."
+"Astfel va fi cu toți oamenii care își îndreaptă fețele să meargă în Egipt să locuiască temporar acolo; vor muri de sabie, de foamete #și de ciumă; și nimeni dintre ei nu va rămâne nici nu va scăpa de răul pe care îl voi aduce asupra lor."
 "Pentru că astfel spune DOMNUL oștirilor, Dumnezeul lui Israel
 "DOMNUL a spus referitor la voi, voi rămășiță a lui Iuda
 "Pentru că voi v-ați fățărnicit în inimile voastre, când m-ați trimis la DOMNUL Dumnezeul vostru, spunând

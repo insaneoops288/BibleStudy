@@ -15,7 +15,7 @@
 "Y él enseñaba en las sinagogas de ellos, y era glorificado de todos."
 "Y vino a Nazaret, donde había sido criado; y entró, conforme a su costumbre, el día del sábado en la sinagoga, y se levantó a leer."
 "Y le fue dado el libro del profeta Isaías; y cuando abrió el libro, halló el lugar donde estaba escrito
-"El Espíritu del Señor es sobre mí, por cuanto me ha ungido para predicar el evangelio a los pobres; me ha enviado para sanar a los quebrantados de corazón; para pregonar a los cautivos libertad, y a los ciegos vista; para  poner en libertad a los quebrantados;"
+"El Espíritu del Señor es sobre mí, por cuanto me ha ungido para predicar el evangelio a los pobres; me ha enviado para sanar a #los quebrantados de corazón; para pregonar a los cautivos libertad, y a los ciegos vista; para  poner en libertad a los quebrantados;"
 "para pregonar el año agradable del Señor."
 "Y enrollando el libro, lo dio al ministro y se sentó; y los ojos de todos en la sinagoga estaban fijos en él."
 "Y comenzó a decirles

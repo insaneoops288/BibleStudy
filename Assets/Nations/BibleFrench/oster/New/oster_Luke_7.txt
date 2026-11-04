@@ -35,7 +35,7 @@
 "Mais la sagesse a été justifiée par tous ses enfants."
 "Un pharisien ayant prié Jésus de manger chez lui, il entra dans la maison du pharisien, et se mit à table."
 "Et une femme de la ville, qui était de mauvaise vie, ayant su qu'il était à table dans la maison du pharisien, y apporta un vase d'albâtre, plein de parfum."
-"Et se tenant derrière, aux pieds de Jésus en pleurant, elle se mit à lui arroser les pieds de ses larmes, et elle les essuyait avec les cheveux de sa tête; elle lui baisait les pieds, et les oignait de parfum."
+"Et se tenant derrière, aux pieds de Jésus en pleurant, elle se mit à lui arroser les pieds de ses larmes, #et elle les essuyait avec les cheveux de sa tête; elle lui baisait les pieds, et les oignait de parfum."
 "Le pharisien qui l'avait convié, voyant cela, dit en lui-même
 "Alors Jésus, prenant la parole, lui dit
 "Un créancier avait deux débiteurs, l'un devait cinq cents deniers, et l'autre cinquante."

@@ -2,10 +2,10 @@
 "Rozkaż synom Israela, aby dali Lewitom miasta na osiedlenie ze swojej dziedzicznej posiadłości. Nadto oddacie Lewitom przyległości, które będą wokół, przy miastach."
 "Te miasta będą im na osiedlenie, a przyległości będą dla ich bydła, dla ich dobytku oraz do wszystkich ich życiowych potrzeb."
 "Zaś przyległości przy miastach, które oddacie Lewitom, pójdą wokoło, od muru miejskiego na tysiąc łokci."
-"Więc za miastem wymierzycie po stronie wschodniej dwa tysiące łokci, po stronie południowej dwa tysiące łokci, po stronie zachodniej dwa tysiące łokci i po stronie północnej dwa tysiące łokci, a miasto będzie pośrodku. Takie będą dla nich przyległości przy miastach."
+"Więc za miastem wymierzycie po stronie wschodniej dwa tysiące łokci, po stronie południowej dwa tysiące łokci, po stronie zachodniej dwa tysiące #łokci i po stronie północnej dwa tysiące łokci, a miasto będzie pośrodku. Takie będą dla nich przyległości przy miastach."
 "A wśród miast, które oddacie Lewitom sześć będzie miastami schronienia, do których pozwolicie uciekać zabójcom; i oprócz nich oddacie im czterdzieści dwa miasta."
 "Wszystkich miast, które oddacie Lewitom będzie czterdzieści osiem miast, wraz z ich przyległościami."
-"Zaś z miast, które oddacie z posiadłości synów Israela od licznych weźmiecie więcej, a od mniej licznych mniej; każde pokolenie odda Lewitom ze swoich miast stosownie do swojej posiadłości, którą zajmie."
+"Zaś z miast, które oddacie z posiadłości synów Israela od licznych weźmiecie więcej, a od mniej #licznych mniej; każde pokolenie odda Lewitom ze swoich miast stosownie do swojej posiadłości, którą zajmie."
 "Nadto WIEKUISTY oświadczył Mojżeszowi, mówiąc
 "Oświadcz synom Israela i im powiedz
 "urządzicie sobie u was miasta, które będą miastami schronienia; dokąd może uciekać zabójca, który niebacznie zabił człowieka."
@@ -22,7 +22,7 @@
 "Jednak jeśli przypadkowo, nie z powodu sporu kogoś popchnął, albo nierozmyślnie rzucił na niego jakimkolwiek narzędziem;"
 "albo jakimś kamieniem, od którego można umrzeć; jeśli nie widząc, upuścił go na niego tak, że umarł, a nie był jego wrogiem, ani tym, co życzy jego zła"
 "wtedy zbór rozsądzi według tych praw pomiędzy zabójcą, a mścicielem krwi."
-"Zbór ocali zabójcę z ręki mściciela krwi oraz zbór go zawróci do jego miasta schronienia, z którego uciekł, i pozostanie tam aż do śmierci najwyższego kapłana, który był namaszczony świętym olejem."
+"Zbór ocali zabójcę z ręki mściciela krwi oraz zbór go zawróci do jego miasta schronienia, z #którego uciekł, i pozostanie tam aż do śmierci najwyższego kapłana, który był namaszczony świętym olejem."
 "Gdyby jednak zabójca wyszedł poza obręb swojego miasta schronienia, do którego uciekł,"
 "a znalazł go mściciel krwi poza obrębem miasta jego schronienia, i mściciel krwi by zabił owego zabójcę nie będzie winien krwi."
 "Bowiem winien pozostać w mieście swojego schronienia, aż do śmierci najwyższego kapłana. A po śmierci najwyższego kapłana zabójca może wrócić do ziemi swej osiadłości."

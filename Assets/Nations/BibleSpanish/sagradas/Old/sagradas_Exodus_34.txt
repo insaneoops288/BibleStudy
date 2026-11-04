@@ -4,7 +4,7 @@
 "Y él alisó dos tablas de piedra como las primeras; y se levantó por la mañana, y subió al monte de Sinaí, como le mandó el SEÑOR, y llevó en su mano las dos tablas de piedra."
 "Y el SEÑOR descendió en <I>una</I>  nube, y estuvo allí con él, proclamando el nombre de YO SOY."
 "Y pasando el SEÑOR por delante de él, proclamó
-"que guardo la misericordia en millares, que suelto la iniquidad, la rebelión, y el pecado, y que de ningún modo absolveré <I>al malvado</I> ; que visito la iniquidad de los padres sobre los hijos y sobre los hijos de los  hijos, hasta la tercera y cuarta generación."
+"que guardo la misericordia en millares, que suelto la iniquidad, la rebelión, y el pecado, y que de ningún modo absolveré <I>al malvado</I> ; que #visito la iniquidad de los padres sobre los hijos y sobre los hijos de los  hijos, hasta la tercera y cuarta generación."
 "Entonces Moisés, apresurándose, bajó la cabeza hacia el suelo y adoró."
 "Y dijo
 "Y él dijo
@@ -26,7 +26,7 @@
 "El principio de los primeros frutos de tu tierra meterás en la Casa del SEÑOR tu Dios. No cocerás el cabrito en la leche de su madre."
 "Y el SEÑOR dijo a Moisés
 "Y él estuvo allí con el SEÑOR cuarenta días y cuarenta noches; no comió pan, ni bebió agua; y escribió en tablas las palabras del pacto, los diez mandamientos."
-"Y aconteció, que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía del monte, no sabía él que la tez de su rostro resplandecía, después que hubo hablado con El."
+"Y aconteció, que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía #del monte, no sabía él que la tez de su rostro resplandecía, después que hubo hablado con El."
 "Y miró Aarón y todos los hijos de Israel a Moisés, y he aquí la tez de su rostro era resplandeciente; y tuvieron miedo de llegarse a él."
 "Y los llamó Moisés; y Aarón y todos los príncipes de la congregación volvieron a él, y Moisés les habló."
 "Y después se llegaron todos los hijos de Israel, a los cuales mandó todas las cosas que el SEÑOR le había dicho en el monte de Sinaí."

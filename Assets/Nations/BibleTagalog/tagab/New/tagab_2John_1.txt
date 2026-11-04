@@ -9,5 +9,5 @@
 "Ang sinomang nagpapatuloy at hindi nananahan sa aral ni Cristo, ay hindi kinaroroonan ng Dios
 "Kung sa inyo'y dumating ang sinoman, at hindi dala ang aral na ito, ay huwag ninyong tanggapin sa inyong bahay, at huwag ninyo siyang batiin
 "Sapagka't ang bumabati sa kaniya ay nararamay sa kaniyang masasamang gawa."
-"Yamang may maraming mga bagay na isusulat sa inyo, ay hindi ko ibig isulat sa papel at tinta; datapuwa't inaasahan kong pumariyan sa inyo, at makipagusap ng mukhaan, upang malubos ang inyong galak."
+"Yamang may maraming mga bagay na isusulat sa inyo, ay hindi ko ibig isulat sa papel at #tinta; datapuwa't inaasahan kong pumariyan sa inyo, at makipagusap ng mukhaan, upang malubos ang inyong galak."
 "Ang mga anak ng iyong hirang na kapatid na babae ay bumabati sa iyo."

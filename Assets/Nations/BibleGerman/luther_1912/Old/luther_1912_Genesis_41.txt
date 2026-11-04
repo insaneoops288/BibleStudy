@@ -5,7 +5,7 @@
 "Und er schlief wieder ein, und ihn träumte abermals, und er sah, daß siebenÄhren wuchsen an einem Halm, voll und dick."
 "Darnach sah er sieben dünnenÄhren aufgehen, die waren vom Ostwind versengt."
 "Und die sieben magerenÄhren verschlangen die sieben dicken und vollenÄhren. Da erwachte Pharao und merkte, daß es ein Traum war."
-"Und da es Morgen ward, war sein Geist bekümmert; und er schickte aus und ließ rufen alle Wahrsager inÄgypten und alle Weisen und erzählte ihnen seine Träume. Aber da war keiner, der sie dem Pharao deuten konnte."
+"Und da es Morgen ward, war sein Geist bekümmert; und er schickte aus und ließ rufen alle Wahrsager inÄgypten #und alle Weisen und erzählte ihnen seine Träume. Aber da war keiner, der sie dem Pharao deuten konnte."
 "Da redete der oberste Schenke zu Pharao und sprach
 "Da Pharao zornig wardüber seine Knechte, und mich mit dem obersten Bäcker ins Gefängnis legte in des Hauptmanns Hause,{~}"
 "da träumte uns beiden in einer Nacht, einem jeglichen sein Traum, des Deutung ihn betraf.{~}{~}"

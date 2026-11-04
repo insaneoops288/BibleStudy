@@ -1,8 +1,8 @@
 "Irmãos e pais, ouvi a minha defesa, que agora faço perante vós."
 "Ora, quando ouviram que lhes falava em língua hebraica, guardaram ainda maior silêncio. E ele prosseguiu
-"Eu sou judeu, nascido em Tarso da Cilícia, mas criado nesta cidade, instruído aos pés de Gamaliel, conforme a precisão da lei de nossos pais, sendo zeloso para com Deus, assim como o sois todos vós no dia de hoje."
+"Eu sou judeu, nascido em Tarso da Cilícia, mas criado nesta cidade, instruído aos pés de Gamaliel, conforme a precisão da #lei de nossos pais, sendo zeloso para com Deus, assim como o sois todos vós no dia de hoje."
 "E persegui este Caminho até a morte, algemando e metendo em prisões tanto a homens como a mulheres,"
-"do que também o sumo sacerdote me é testemunha, e assim todo o conselho dos anciãos; e, tendo recebido destes cartas para os irmãos, seguia para Damasco, com o fim de trazer algemados a Jerusalém aqueles que ali estivessem, para que fossem castigados."
+"do que também o sumo sacerdote me é testemunha, e assim todo o conselho dos anciãos; e, tendo recebido destes cartas para #os irmãos, seguia para Damasco, com o fim de trazer algemados a Jerusalém aqueles que ali estivessem, para que fossem castigados."
 "Aconteceu, porém, que, quando caminhava e ia chegando perto de Damasco, pelo meio-dia, de repente, do céu brilhou-me ao redor uma grande luz."
 "Caí por terra e ouvi uma voz que me dizia
 "Eu respondi
@@ -27,4 +27,4 @@
 "Vindo o comandante, perguntou-lhe
 "Tornou o comandante
 "Imediatamente, pois se apartaram dele aqueles que o iam interrogar; e até o comandante, tendo sabido que Paulo era romano, atemorizou-se porque o havia ligado."
-"No dia seguinte, querendo saber ao certo a causa por que ele era acusado pelos judeus, soltou-o das prisões, e mandou que se reunissem os principais sacerdotes e todo o sinédrio; e, trazendo Paulo, apresentou-o diante deles."
+"No dia seguinte, querendo saber ao certo a causa por que ele era acusado pelos judeus, soltou-o das prisões, #e mandou que se reunissem os principais sacerdotes e todo o sinédrio; e, trazendo Paulo, apresentou-o diante deles."

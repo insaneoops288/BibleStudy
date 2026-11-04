@@ -19,7 +19,7 @@
 "Przyszedł więc Gedeon wraz ze stu mężami, którzy z nim byli, do krańca obozu, właśnie wtedy, gdy zaczęła się środkowa straż. I zadęli w trąby, i potłukli dzbany, które mieli w rękach."
 "Zadęły w trąby więc te trzy oddziały i potłukły dzbany; trzymając w lewej ręce pochodnie, a w prawej ręce trąby, aby zadąć, wołały
 "I stanęli, każdy na swoim miejscu, dokoła obozu, a wszyscy w obozie powstali, krzyczeli i uciekali."
-"Gdy więc tych trzystu mężczyzn zadęło w trąby, PAN obrócił miecz jednego przeciw drugiemu w całym obozie. I tak wojsko uciekło aż do Bet-Szitta w Serera, aż do granicy Abel-Mechola, w stronę Tabbat."
+"Gdy więc tych trzystu mężczyzn zadęło w trąby, PAN obrócił miecz jednego przeciw drugiemu w całym obozie. #I tak wojsko uciekło aż do Bet-Szitta w Serera, aż do granicy Abel-Mechola, w stronę Tabbat."
 "Wtedy zebrali się mężczyźni Izraela z Neftalego, z Aszera i całego pokolenia Manassesa i ścigali Midianitów."
 "Potem Gedeon rozesłał posłańców po całym pogórzu Efraim, mówiąc
-"Pojmali przy tym dwóch książąt Midianu, Oreba i Zeeba; Oreba zabili na skale Oreba, a Zeeba zabili przy tłoczni Zeeba. Ścigali dalej Midianitów, a głowy Oreba i Zeeba przynieśli do Gedeona za Jordan."
+"Pojmali przy tym dwóch książąt Midianu, Oreba i Zeeba; Oreba zabili na skale Oreba, a Zeeba zabili #przy tłoczni Zeeba. Ścigali dalej Midianitów, a głowy Oreba i Zeeba przynieśli do Gedeona za Jordan."

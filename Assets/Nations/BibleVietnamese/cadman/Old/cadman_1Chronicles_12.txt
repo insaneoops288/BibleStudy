@@ -35,6 +35,6 @@
 "Về Ðan, có hai vạn tám ngàn sau trăm người có tài dàn trận."
 "Về A-se, có bốn vạn người hay kéo ra chinh chiến, và có tài dàn trận."
 "Còn về Ru-bên, Gát, và về nửa chi phái Mê-na-se ở bên kia sông Giô-đanh, có mười hai vạn người cầm các thứ binh khí sẵn ra trận."
-"Những người nầy là lính chiến có tài bày trận, đều lấy lòng thành mà kéo đến Hếp-rôn đặng lập Ða-vít làm vua trên cả Y-sơ-ra-ên; còn những người khác trong Y-sơ-ra-ên cũng đều một lòng một dạ muốn tôn Ða-vít làm vua."
+"Những người nầy là lính chiến có tài bày trận, đều lấy lòng thành mà kéo đến Hếp-rôn đặng lập Ða-vít làm #vua trên cả Y-sơ-ra-ên; còn những người khác trong Y-sơ-ra-ên cũng đều một lòng một dạ muốn tôn Ða-vít làm vua."
 "Chúng ở lại với vua Ða-vít ba ngày và ăn uống; vì anh em của chúng đã sắm sẵn cho."
-"Còn những người ở miền lân cận hơn cho đến đất Y-sa-ca, Sa-bu-lôn, và Nép-ta-li đều đem chở bằng lửa, lạc đà, con la, và con bò, nào bánh mì, bột miến, trái vả, nho khô, rượu, dầu, cùng dẫn bò và chiên đến rất nhiều, bởi vì có sự vui vẻ nơi Y-sơ-ra-ên."
+"Còn những người ở miền lân cận hơn cho đến đất Y-sa-ca, Sa-bu-lôn, và Nép-ta-li đều đem chở bằng lửa, lạc đà, con la, và con bò, nào #bánh mì, bột miến, trái vả, nho khô, rượu, dầu, cùng dẫn bò và chiên đến rất nhiều, bởi vì có sự vui vẻ nơi Y-sơ-ra-ên."

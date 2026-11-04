@@ -3,7 +3,7 @@
 "me qëllim që Zoti, Perëndia yt, të na tregojë udhën nëpër të cilën duhet të ecim dhe atë që duhet të bëjmë""."
 "Profeti Jeremia u tha atyre
 "Atëherë ata i thanë Jeremias
-"Qoftë përgjigjja e tij e pëlqyer ose e papëlqyer, ne do t'i bindemi zërit të Zotit, Perëndisë tonë, tek i cili po të dërgojmë me qëllim që të na vinë të mira duke iu bindur zërit të Zotit, Perëndisë tonë""."
+"Qoftë përgjigjja e tij e pëlqyer ose e papëlqyer, ne do t'i bindemi zërit të Zotit, Perëndisë tonë, tek i cili #po të dërgojmë me qëllim që të na vinë të mira duke iu bindur zërit të Zotit, Perëndisë tonë""."
 "Pas dhjetë ditësh ndodhi që fjala e Zotit iu drejtua Jeremias."
 "Atëherë ai thirri Johananin, birin e Kareahut, tërë krerët e forcave që ishin bashkë me të dhe tërë popullin, nga më i vogli deri te më i madhi,"
 "dhe u tha atyre
@@ -14,7 +14,7 @@
 "dhe thoni
 "e mirë, pra, dëgjoje atëherë fjalën e Zotit, o mbetje e Judës! Kështu thotë Zoti i ushtrive, Perëndia i Izraelit
 "shpata nga e cila keni frikë do t'ju arrijë aty, në vendin e Egjiptit, dhe uria prej së cilës kishit kaq frikë do t'ju ngjitet në trup atje në Egjipt dhe aty do të vdisni."
-"Do të ndodhë, pra, që tërë ata që kanë vendosur të shkojnë në Egjipt për të banuar atje, do të vdesin nga shpata, nga uria apo nga murtaja. Asnjë prej tyre nuk do të mbetet gjallë dhe nuk do t'i shpëtojë kësaj fatkeqësie që unë do të sjell mbi ta""."
+"Do të ndodhë, pra, që tërë ata që kanë vendosur të shkojnë në Egjipt për të banuar atje, do të vdesin nga shpata, nga uria apo #nga murtaja. Asnjë prej tyre nuk do të mbetet gjallë dhe nuk do t'i shpëtojë kësaj fatkeqësie që unë do të sjell mbi ta""."
 "Sepse kështu thotë Zoti i ushtrive, Perëndia i Izraelit
 "O mbetje e Judës, Zoti ju thotë
 "Ju keni përdorur mashtrimin kundër vetes suaj, kur më dërguat tek Zoti, Perëndia juaj, duke thënë

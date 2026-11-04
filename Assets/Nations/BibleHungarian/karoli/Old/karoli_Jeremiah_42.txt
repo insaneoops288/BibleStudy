@@ -14,7 +14,7 @@
 "Mondván
 "Most azért halljátok meg az Úrnak szavát, Júdának maradékai! Ezt mondja a Seregek Ura, az Izráel Istene
 "Akkor a fegyver, a melytõl ti féltek, legott utólér benneteket Égyiptom földén, és az éhség is, a mitõl rettegtek, körülvesz titeket Égyiptomban, és ott haltok meg."
-"Mert az lesz, hogy mindazok a férfiak, a kik [úgy] fordítják orczájokat, hogy bemenjenek Égyiptomba, hogy ott tartózkodjanak, meghalnak fegyver, éhség és döghalál miatt, és egy sem marad meg közülök, és nem szabadul meg a veszedelemtõl, a melyet én bocsátok reájok."
+"Mert az lesz, hogy mindazok a férfiak, a kik [úgy] fordítják orczájokat, hogy bemenjenek Égyiptomba, hogy ott tartózkodjanak, meghalnak fegyver, éhség #és döghalál miatt, és egy sem marad meg közülök, és nem szabadul meg a veszedelemtõl, a melyet én bocsátok reájok."
 "Mert ezt mondja a Seregek Ura, az Izráel Istene
 "Az Úr szólott hozzátok, oh Júdának maradékai! Ne menjetek Égyiptomba; jól tudjátok meg, hogy bizonyságot tettem ma ellenetek."
 "Mert magatokat csaljátok meg a ti szívetekben

@@ -15,4 +15,4 @@
 "Den rozhněvání bude ten den, den úzkosti a trápení, den zpuštění a to hrozného, den temnosti a mračna, den oblaku a mrákoty,"
 "Den trouby a troubení proti městům hrazeným, a proti úhlům vysokým,"
 "V němž úzkostmi sevru lidi, aby chodili jako slepí, nebo proti Hospodinu zhřešili. I vylita bude krev jejich jako prach, a těla jejich jako lejna."
-"Ani stříbro jejich, ani zlato jejich nebude jich moci vytrhnouti v den rozhněvání Hospodinova; nebo ohněm horlivosti jeho sehlcena bude tato všecka země, proto že konec jistě rychlý učiní všechněm obyvatelům země."
+"Ani stříbro jejich, ani zlato jejich nebude jich moci vytrhnouti v den rozhněvání Hospodinova; nebo ohněm horlivosti #jeho sehlcena bude tato všecka země, proto že konec jistě rychlý učiní všechněm obyvatelům země."

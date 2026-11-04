@@ -14,11 +14,11 @@
 "Car toute la loi est accomplie dans une seule parole, en celle-ci
 "Mais si vous vous mordez et vous mangez les uns les autres, prenez garde que vous ne soyez détruits les uns par les autres."
 "Je dis donc
-"Car la chair a des désirs contraires à l'Esprit, et l'Esprit en a de contraires à la chair, et ces deux choses sont opposées l'une à l'autre; de telle sorte que vous ne faites point les choses que vous voudriez."
+"Car la chair a des désirs contraires à l'Esprit, et l'Esprit en a de contraires à la chair, et ces deux #choses sont opposées l'une à l'autre; de telle sorte que vous ne faites point les choses que vous voudriez."
 "Que si vous êtes conduits par l'Esprit, vous n'êtes point sous la loi."
 "Or, les œuvres de la chair sont manifestes, ce sont
 "L'idolâtrie, les enchantements, les inimitiés, les querelles, les jalousies, les animosités, les disputes, les divisions, les sectes,"
-"Les envies, les meurtres, les ivrogneries, les débauches, et les choses semblables. Je vous dis d'avance, comme je vous l'ai déjà dit, que ceux qui commettent de telles choses, n'hériteront point le royaume de Dieu."
+"Les envies, les meurtres, les ivrogneries, les débauches, et les choses semblables. Je vous dis d'avance, comme je #vous l'ai déjà dit, que ceux qui commettent de telles choses, n'hériteront point le royaume de Dieu."
 "Mais le fruit de l'Esprit est la charité, la joie, la paix, la patience, la bonté, l'amour du bien, la fidélité, la douceur, la tempérance;"
 "La loi n'est point contre ces choses."
 "Or, ceux qui appartiennent à Christ, ont crucifié la chair avec ses passions et ses convoitises."

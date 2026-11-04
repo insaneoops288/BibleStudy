@@ -1,7 +1,7 @@
 "Ang nasaktan sa mga iklog, o ang may lihim na sangkap na putol ng katawan ay hindi makapapasok sa kapisanan ng Panginoon."
 "Isang anak sa ligaw ay huwag papasok sa kapisanan ng Panginoon; hanggang sa ikasangpung salin ng lahi ay walang sa kaniya'y makapapasok sa kapisanan ng Panginoon."
 "Huwag papasok ang isang Ammonita o Moabita sa kapulungan ng Panginoon; hanggang sa ikasangpung salin ng lahi ay walang nauukol sa kanila na makapapasok magpakailan man sa kapisanan ng Panginoon
-"Sapagka't hindi kayo sinalubong nila ng tinapay at ng tubig sa daan, nang kayo'y umalis sa Egipto; at sapagka't kanilang inupahan laban sa iyo si Balaam na anak ni Beor mula sa Pethor ng Mesopotamia upang sumpain ka."
+"Sapagka't hindi kayo sinalubong nila ng tinapay at ng tubig sa daan, nang kayo'y umalis sa Egipto; at sapagka't kanilang #inupahan laban sa iyo si Balaam na anak ni Beor mula sa Pethor ng Mesopotamia upang sumpain ka."
 "Gayon ma'y hindi dininig ng Panginoon mong Dios si Balaam; kundi pinapaging pagpapala ng Panginoon mong Dios, ang sumpa sa iyo; sapagka't iniibig ka ng Panginoon mong Dios."
 "Huwag mong hahanapin ang kanilang kapayapaan o ang kanilang ikasusulong sa lahat ng iyong araw magpakailan man."
 "Huwag mong kasusuklaman ang Idumeo; sapagka't siya'y iyong kapatid
@@ -10,7 +10,7 @@
 "Kung magkaroon sa iyo ng sinomang lalake, na hindi malinis dahil sa anomang nangyari sa kaniya ng kinagabihan, ay lalabas nga sa kampamento, hindi siya papasok sa kampamento
 "Nguni't mangyayari kinahapunan, na siya'y maliligo sa tubig
 "Ikaw ay magkakaroon naman, ng isang pook sa labas ng kampamento, na iyong lalabasan
-"At ikaw ay magkakaroon din ng isang pala sa kasamahan ng iyong mga kasangkapan; at mangyayari, na pagka ikaw ay palilikod sa labas ay huhukay ka, at ikaw ay babalik at tatabunan mo ang ipinalikod mo
+"At ikaw ay magkakaroon din ng isang pala sa kasamahan ng iyong mga kasangkapan; at mangyayari, na pagka ikaw #ay palilikod sa labas ay huhukay ka, at ikaw ay babalik at tatabunan mo ang ipinalikod mo
 "Sapagka't ang Panginoon mong Dios ay lumalakad sa gitna ng iyong kampamento, upang iligtas ka, at ibigay ang iyong mga kaaway sa harap mo; kaya't ang iyong kampamento ay magiging banal
 "Huwag mong ibibigay sa kaniyang panginoon ang isang aliping nagtanan sa kaniyang panginoon na napasa iyo
 "Siya'y tatahang kasama mo, sa gitna mo, sa dakong kaniyang pipiliin sa loob ng isa sa iyong mga pintuang-daan na kaniyang magalingin

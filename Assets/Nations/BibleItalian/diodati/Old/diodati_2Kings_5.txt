@@ -1,4 +1,4 @@
-"OR Naaman, capo dell’esercito del re di Siria, era uomo grande appo il suo signore, e molto onorato; perciocchè per lui il Signore avea date delle vittorie a’ Siri; ma quest’uomo, possente e prode, era lebbroso."
+"OR Naaman, capo dell’esercito del re di Siria, era uomo grande appo il suo signore, e molto onorato; perciocchè #per lui il Signore avea date delle vittorie a’ Siri; ma quest’uomo, possente e prode, era lebbroso."
 "Or alcune schiere de’ Siri uscirono per fare una correria, e menarono prigione dal paese d’Israele una piccola fanciulla; ed ella, essendo al servigio della moglie di Naaman,"
 "disse alla sua signora
 "E Naaman venne al suo signore, e gli dichiarò la cosa, dicendo
@@ -9,13 +9,13 @@
 "Naaman adunque venne, co’ suoi cavalli, e col suo carro, e si fermò alla porta della casa di Eliseo."
 "Ed Eliseo mandò a dirgli per un messo
 "Ma Naaman si adirò, e se ne andò, e disse
-"Abana e Parpar, fiumi di Damasco, non vagliono essi meglio che tutte le acque d’Israele? non mi potrei io lavare in essi, ed esser nettato? Egli adunque si rivolse indietro, e se ne andava via tutto cruccioso."
+"Abana e Parpar, fiumi di Damasco, non vagliono essi meglio che tutte le acque d’Israele? non mi potrei io #lavare in essi, ed esser nettato? Egli adunque si rivolse indietro, e se ne andava via tutto cruccioso."
 "Ma i suoi servitori si accostarono, e gli fecero motto, e dissero
 "Egli adunque scese, e si tuffò sette volte nel Giordano, secondo la parola dell’uomo di Dio; e la carne gli ritornò simile alla carne di un piccol fanciullo, e fu netto."
 "Allora egli ritornò all’uomo di Dio, con tutto il suo seguito, e venne, e si presentò davanti a lui, e disse
 "Ma Eliseo disse
 "E Naaman disse
-"Il Signore voglia perdonar questa cosa al tuo servitore, se io m’inchino nel tempio di Rimmon, quando il mio signore entrerà in esso per adorare, e si appoggerà sopra la mia mano; il Signore perdoni al tuo servitore questa cosa, se io m’inchino nel tempio di Rimmon."
+"Il Signore voglia perdonar questa cosa al tuo servitore, se io m’inchino nel tempio di Rimmon, quando il mio signore entrerà in esso per #adorare, e si appoggerà sopra la mia mano; il Signore perdoni al tuo servitore questa cosa, se io m’inchino nel tempio di Rimmon."
 "Ed Eliseo gli disse
 "E Ghehazi, servitore di Eliseo, uomo di Dio, disse
 "Ghehazi dunque corse dietro a Naaman; e come Naaman vide ch’egli gli correva dietro, si gittò giù dal carro incontro a lui, e disse

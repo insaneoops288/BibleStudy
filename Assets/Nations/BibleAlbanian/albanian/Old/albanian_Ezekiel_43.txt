@@ -5,13 +5,13 @@
 "Pastaj Fryma më ngriti lart dhe më çoi në oborrin e brendshëm; dhe ja, lavdia e Zotit mbushte tempullin."
 "Atëherë dëgjova dikë që më fliste nga tempulli, ndërsa një burrë rrinte më këmbë pranë meje;"
 "dhe ai më tha
-"duke vënë pragun e tyre afër pragut tim dhe shtalkat e tyre afër shtalkave të mia duke pasur vetëm një ndarëse midis meje dhe atyre, duke e ndotur kështu emrin tim të shenjtë me veprimet e neveritshme që kryenin; prandaj në zemërimin tim i shkatërrova."
+"duke vënë pragun e tyre afër pragut tim dhe shtalkat e tyre afër shtalkave të mia duke pasur vetëm një ndarëse midis meje #dhe atyre, duke e ndotur kështu emrin tim të shenjtë me veprimet e neveritshme që kryenin; prandaj në zemërimin tim i shkatërrova."
 "Tani do të largojnë nga unë kurvërimet e tyre dhe kufomat e mbretërve të tyre, dhe unë do të banoj në mes të tyre përjetë."
 "Ti, bir njeriu, përshkruaja tempullin shtëpisë së Izraelit, që të kenë turp për paudhësinë e tyre. Le të masin përmasat e tij,"
-"dhe, në se kanë turp për të gjitha ato që kanë bërë, ti u bëj të njohur atyre modelin e tempullit dhe vendosjen e tij, daljet e tij dhe hyrjet e tij, gjithë modelin e tij dhe të gjithë statutet e tij, gjithë format e tij dhe të gjitha ligjet e tij; vëri të shkruara para syve të tyre me qëllim që të shikojnë tërë modelin e tij, tërë statutet e tij dhe t'i zbatojnë në praktikë."
+"dhe, në se kanë turp për të gjitha ato që kanë bërë, ti u bëj të njohur atyre modelin e tempullit dhe vendosjen e tij, daljet e tij dhe hyrjet e tij, gjithë modelin e tij dhe të gjithë #statutet e tij, gjithë format e tij dhe të gjitha ligjet e tij; vëri të shkruara para syve të tyre me qëllim që të shikojnë tërë modelin e tij, tërë statutet e tij dhe t'i zbatojnë në praktikë."
 "Ky është ligji i tempullit. Gjithë territori që është rreth majës së malit do të jetë shumë i shenjtë. Ja, ky është ligji i tempullit."
 "Këto janë përmasat e altarit në kubitë (kubiti është një kubit plus një pëllëmbë)
-"nga baza në tokë deri në platformën e poshtme ka dy kubitë; platforma është një kubit e gjërë; nga plaftorma më e vogël deri në platformën më të madhe ka katër kubitë; platforma është një kubit e gjërë."
+"nga baza në tokë deri në platformën e poshtme ka dy kubitë; platforma është një kubit e gjërë; nga plaftorma #më e vogël deri në platformën më të madhe ka katër kubitë; platforma është një kubit e gjërë."
 "Vatra e altarit është katër kubitë e lartë, dhe nga vatra e altarit ngrihen katër brirë."
 "Vatra e altarit është e gjatë dymbëdhjetë kubitë dhe e gjërë dymbëdhjetë kubitë, domethënë një katror i përsosur."
 "Platforma e sipërme në të katër anët e saj është e gjatë katërmbëdhjetë kubitë dhe po aq e gjërë, me një buzë rreth e qark prej gjysmë kubiti; shkallaret e veta shikojnë nga lindja""."

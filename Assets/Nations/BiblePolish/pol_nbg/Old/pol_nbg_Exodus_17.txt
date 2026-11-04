@@ -9,7 +9,7 @@
 "Zaś Mojżesz powiedział do Jezusa syna Nuna
 "Więc Jezus syn Nuna zrobił tak, jak mu rozkazał Mojżesz odnośnie walki z Amalekiem; a Mojżesz, Ahron i Chur weszli na szczyt pagórka."
 "I stało się, że gdy Mojżesz podnosił swoją rękę zwyciężał Israel, a gdy opuszczał swoją rękę zwyciężał Amalek."
-"Ale ręce Mojżesza ociężały. Zatem wzięli kamień i podłożyli pod niego, a on na nim usiadł. Zaś Ahron i Chur podpierali jego ręce jeden z jednej, a drugi z drugiej strony, i tak jego ręce dotrwały aż do zachodu słońca."
+"Ale ręce Mojżesza ociężały. Zatem wzięli kamień i podłożyli pod niego, a on na nim usiadł. Zaś Ahron i Chur podpierali #jego ręce jeden z jednej, a drugi z drugiej strony, i tak jego ręce dotrwały aż do zachodu słońca."
 "A Jezus syn Nuna poraził ostrzem miecza Amaleka i jego lud."
 "Potem WIEKUISTY powiedział do Mojżesza
 "Zaś Mojżesz zbudował ołtarz i nadał mu nazwę

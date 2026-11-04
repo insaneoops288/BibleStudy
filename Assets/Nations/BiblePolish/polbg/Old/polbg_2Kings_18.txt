@@ -14,11 +14,11 @@
 "A tak posłał Ezechyjasz, król Judzki, do króla Assyryjskiego, do Lachys, mówiąc
 "I dał Ezechyjasz wszystko srebro, które się znalazło w domu Pańskim i w skarbach domu królewskiego."
 "Onegoż czasu obłupił Ezechyjasz drzwi domu Pańskiego, i słupy, które samże Ezechyjasz, król Judzki, był obył, a dał je królowi Assyryjskiemu."
-"Wszakże posłał król Assyryjski Tartana, i Rabsarysa, i Rabsacesa z Lachys do króla Ezechyjasza z wielkiem wojskiem do Jeruzalemu. Którzy wyciągnąwszy przyjechali ku Jeruzalemowi, a przyciągnąwszy przyszli i położyli się u rur sadzawki wyższej, która jest podle drogi brukowanej na polu blecharzowem."
+"Wszakże posłał król Assyryjski Tartana, i Rabsarysa, i Rabsacesa z Lachys do króla Ezechyjasza z wielkiem wojskiem do Jeruzalemu. Którzy wyciągnąwszy przyjechali #ku Jeruzalemowi, a przyciągnąwszy przyszli i położyli się u rur sadzawki wyższej, która jest podle drogi brukowanej na polu blecharzowem."
 "A gdy wołali na króla, wyszedł do nich Elijakim, syn Helkijaszowy, przełożony nad domem, i Sobna pisarz, i Joach syn Asafowy, kanclerz."
 "I rzekł do nich Rabsaces
 "Mówiłeś
-"Oto teraz spolegasz na Egipcie, jako na lasce trzcinnej, i to nałamanej, którą jeźliby się kto podpierał, tedy wnijdzie w rękę jego i przekole ją. Takić jest Farao, król Egipski, wszystkim, co w nim ufają."
+"Oto teraz spolegasz na Egipcie, jako na lasce trzcinnej, i to nałamanej, którą jeźliby się kto podpierał, tedy #wnijdzie w rękę jego i przekole ją. Takić jest Farao, król Egipski, wszystkim, co w nim ufają."
 "A jeźli mi rzeczecie
 "Przetoż teraz zaręcz się królowi Assyryjskiemu, panu memu, a dam ci dwa tysiące koni; będzieszli mógł mieć jezdnych tak wiele do dnich?"
 "I jakoż się ty możesz oprzeć hetmanowi jednemu najmniejszemu z sług pana mego? choć pokładasz nadzieję w Egipcie dla wozów i jezdnych."
@@ -29,7 +29,7 @@
 "Tak mówi król
 "A niech wam nie rozkazuje ufać Ezechyjasz w Panu, mówiąc
 "Nie słuchajcie Ezechyjasza. Albowiem tak mówi król Assyryjski
-"Aż przyjdę a pobiorę was do ziemi podobnej ziemi waszej, do ziemi żyznej i obfitującej winem, do ziemi chleba i winnic, do ziemi drzew oliwnych, i oliwy, i miodu; i będziecie żyli, a nie pomrzecie. Nie słuchajcież Ezechyjasza; bo was zwodzi, mó wiąc
+"Aż przyjdę a pobiorę was do ziemi podobnej ziemi waszej, do ziemi żyznej i obfitującej winem, do ziemi chleba i winnic, do #ziemi drzew oliwnych, i oliwy, i miodu; i będziecie żyli, a nie pomrzecie. Nie słuchajcież Ezechyjasza; bo was zwodzi, mó wiąc
 "Izaż mogli bogowie narodów wybawić każdy ziemię swoję, z ręki króla Assyryjskiego?"
 "Gdzież jest bóg Emat i Arfad? gdzież jest bóg Sefarwaim, Ana i Awa? izali wyrwali Samaryję z rąk moich?"
 "Któryż jest między wszystkimi bogi tych ziem, któryby wyrwał ziemię swoję z ręki mojej? A miałby Pan wyrwać Jeruzalem z ręki mojej?"

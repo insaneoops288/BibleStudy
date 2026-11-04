@@ -11,7 +11,7 @@
 "Ja joutui yhteen paikkaan, ja oli siinä yötä
 "Ja näki unta, ja katso, tikapuut seisoivat maan päällä, joiden pää ulottui taivaasen
 "Ja katso, Herra seisoi niiden päällä, ja sanoi
-"Ja sinun siemenes pitää oleman niinkuin maan tomu, ja sinun pitää leviämän länteen ja itään, pohjaan ja etelään päin. Ja sinussa pitää kaikki sukukunnat maan päällä siunatuksi tuleman, ja sinun siemenessäs."
+"Ja sinun siemenes pitää oleman niinkuin maan tomu, ja sinun pitää leviämän länteen ja itään, pohjaan #ja etelään päin. Ja sinussa pitää kaikki sukukunnat maan päällä siunatuksi tuleman, ja sinun siemenessäs."
 "Ja katso, minä olen sinun kanssas, ja varjelen sinua, kuhunkas ikänänsä joudut, ja saatan sinun jällensä tälle maalle
 "Koska Jakob heräsi unestansa, niin hän sanoi
 "Niin hän pelkäsi, ja sanoi

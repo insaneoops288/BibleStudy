@@ -9,12 +9,12 @@
 "Ja Joel Sikrin poika oli heidän esimiehensä, ja Juuda Senuan poika oli toisena kaupungin päällä."
 "Papeista, Jedaja Jojaribin poika, Jakin,"
 "Seraja Hilkian poika, Mesullamin pojan, Zadokin pojan, Merajotin pojan, Ahitobin pojan, Jumalan huoneen päämies,"
-"Ja heidän veljiänsä, jotka huoneessa työtä tekivät, oli kahdeksansataa ja kaksikolmattakymmentä; ja Adaja Jerohamin poika, Pelalian pojan, Amsin pojan, Sakarian pojan, Pashurin pojan, Malkian pojan,"
+"Ja heidän veljiänsä, jotka huoneessa työtä tekivät, oli kahdeksansataa ja kaksikolmattakymmentä; ja Adaja #Jerohamin poika, Pelalian pojan, Amsin pojan, Sakarian pojan, Pashurin pojan, Malkian pojan,"
 "Ja hänen veljensä isäin päämiehet kaksisataa ja kaksiviidettäkymmentä; ja Amasia Asareelin poika, Ahasain pojan, Mesillemotin pojan, Immerin pojan,"
 "Ja heidän veljensä, väkevät miehet, sata ja kahdeksankolmattakymmentä; ja Sabdiel Gedolimin poika oli heidän esimiehensä."
 "Leviläisistä
 "Ja Sabtai ja Josabad, Leviläisten päämiehistä, Jumalan huoneen ulkonaisessa työssä;"
-"Ja Mattania Miikan poika, Sabdin pojan, Asaphin pojan, joka oli ylimmäinen kiitosta alkamaan rukouksessa; ja Bakbukia toinen veljeinsä keskellä, ja Abda Sammuan poika, Galalin pojan, Jedutunin pojan."
+"Ja Mattania Miikan poika, Sabdin pojan, Asaphin pojan, joka oli ylimmäinen kiitosta alkamaan rukouksessa; #ja Bakbukia toinen veljeinsä keskellä, ja Abda Sammuan poika, Galalin pojan, Jedutunin pojan."
 "Leviläisiä oli kaikkiansa pyhässä kaupungissa kaksisataa ja neljäyhdeksättäkymmentä;"
 "Ja ovenvartiat
 "Mutta muut Israelista, papit ja Leviläiset olivat kaikissa Juudan kaupungeissa, jokainen omassa perinnössänsä."

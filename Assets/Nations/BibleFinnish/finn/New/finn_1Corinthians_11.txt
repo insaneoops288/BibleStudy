@@ -19,7 +19,7 @@
 "Sillä teidän seassanne pitää myös eriseurat oleman, että ne, jotka koetellut ovat, teidän seassanne ilmoitettaisiin."
 "Kuin te siis kokoon tulette yhteen, ei se ole Herran ehtoollista pitää."
 "Sillä jokainen ennättää syödä oman ehtoollisensa, yksi isoo, toinen juovuksissa on."
-"Vai eikö teillä huoneita ole, joissa te syödä ja juoda saatte? Taikka katsotteko te ylön Jumalan seurakunnan ja häpäisette ne, joilla ei mitään ole? Mitä minun pitää teille sanoman? Pitääkö minun teitä kiittämän? Tässä en minä kiitä."
+"Vai eikö teillä huoneita ole, joissa te syödä ja juoda saatte? Taikka katsotteko te ylön Jumalan seurakunnan ja häpäisette #ne, joilla ei mitään ole? Mitä minun pitää teille sanoman? Pitääkö minun teitä kiittämän? Tässä en minä kiitä."
 "Sillä minä olen sen Herralta saanut, jonka minä myös teille annoin. Sillä Herra Jesus, sinä yönä, jona hän petettiin, otti leivän,"
 "Ja kiitti, mursi ja sanoi
 "Niin myös kalkin ehtoollisen jälkeen ja sanoi

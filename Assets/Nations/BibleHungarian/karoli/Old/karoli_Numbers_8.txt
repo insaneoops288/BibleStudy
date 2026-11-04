@@ -16,10 +16,10 @@
 "Mert bizony nékem adattak õk Izráel fiai közül; mind azok helyett, a kik az õ anyjok méhét megnyitják; Izráelnek elsõszülöttei [helyett] vettem õket magamnak."
 "Mert enyém minden elsõszülött Izráel fiai között, emberbõl és baromból; a naptól fogva, hogy megöltem minden elsõszülöttet Égyiptom földén, magamnak szenteltem azokat."
 "A lévitákat pedig minden elsõszülött helyett vettem magamnak Izráel fiai között."
-"És odaadtam a lévitákat adományul Áronnak és az õ fiainak Izráel fiai közül, hogy Izráel fiainak tisztében járjanak a gyülekezet sátorában, és hogy engesztelést végezzenek Izráel fiaiért, és ne legyen Izráel fiai között csapás, ha a szenthelyhez közelednek Izráel fiai."
+"És odaadtam a lévitákat adományul Áronnak és az õ fiainak Izráel fiai közül, hogy Izráel fiainak tisztében járjanak a gyülekezet sátorában, #és hogy engesztelést végezzenek Izráel fiaiért, és ne legyen Izráel fiai között csapás, ha a szenthelyhez közelednek Izráel fiai."
 "Úgy cselekedék azért Mózes és Áron, és Izráel fiainak egész gyülekezete a lévitákkal; a mint parancsolt vala az Úr Mózesnek a léviták felõl, mindazt úgy cselekedék õ velök Izráel fiai."
 "És megtisztíták magokat a léviták, és megmosák ruháikat, és meglóbálá õket Áron áldozatul az Úr elõtt, és engesztelést szerze nékik Áron, hogy tisztákká tegye õket."
-"Azután pedig bemenének a léviták, hogy végezzék az õ szolgálatukat a gyülekezetnek sátorában Áron elõtt és az õ fiai elõtt; a miképen parancsolt vala az Úr Mózesnek a léviták felõl, akképen cselekedének velök."
+"Azután pedig bemenének a léviták, hogy végezzék az õ szolgálatukat a gyülekezetnek sátorában Áron elõtt és az #õ fiai elõtt; a miképen parancsolt vala az Úr Mózesnek a léviták felõl, akképen cselekedének velök."
 "Szóla pedig az Úr Mózesnek, mondván
 "Ez [is] a lévitákra tartozik
 "Ötven esztendõs korától pedig lépjen ki e szolgálatnak sorából, és ne szolgáljon többé."

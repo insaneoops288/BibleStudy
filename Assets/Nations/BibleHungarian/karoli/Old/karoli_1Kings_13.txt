@@ -8,7 +8,7 @@
 "És monda az Isten embere a királynak
 "Mert azt parancsolta az Úr nékem az õ beszéde által, mondván
 "És elméne más úton, és nem tére meg azon az úton, a melyen Béthelbe ment."
-"És lakozék Béthelben egy vén próféta, a kihez eljövén az õ fia, elbeszélé az õ atyjának mindazt a dolgot, a melyet aznap az Isten embere cselekedett volt Béthelben, és a beszédeket, a melyeket szólott vala a királynak; és elbeszélék azokat az õ atyjoknak."
+"És lakozék Béthelben egy vén próféta, a kihez eljövén az õ fia, elbeszélé az õ atyjának mindazt a dolgot, a melyet aznap #az Isten embere cselekedett volt Béthelben, és a beszédeket, a melyeket szólott vala a királynak; és elbeszélék azokat az õ atyjoknak."
 "Akkor monda nékik az õ atyjok
 "És monda az õ fiainak
 "És elméne az Isten embere után, és megtalálá õt egy cserfa alatt ülve, és monda néki

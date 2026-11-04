@@ -1,6 +1,6 @@
 "Und auch euch, da ihr tot waret durchÜbertretungen und Sünden,"
-"in welchen ihr weiland gewandelt habt nach dem Lauf dieser Welt und nach dem Fürsten, der in der Luft herrscht, nämlich nach dem Geist, der zu dieser Zeit sein Werk hat in den Kindern des Unglaubens,"
-"unter welchen auch wir alle weiland unsern Wandel gehabt haben in den Lüsten unsers Fleisches und taten den Willen des Fleisches und der Vernunft und waren auch Kinder des Zorns von Natur, gleichwie auch die andern;"
+"in welchen ihr weiland gewandelt habt nach dem Lauf dieser Welt und nach dem Fürsten, der in der Luft #herrscht, nämlich nach dem Geist, der zu dieser Zeit sein Werk hat in den Kindern des Unglaubens,"
+"unter welchen auch wir alle weiland unsern Wandel gehabt haben in den Lüsten unsers Fleisches und taten den Willen #des Fleisches und der Vernunft und waren auch Kinder des Zorns von Natur, gleichwie auch die andern;"
 "Aber Gott, der da reich ist an Barmherzigkeit, durch seine große Liebe, damit er uns geliebt hat,"
 "da wir tot waren in den Sünden, hat er uns samt Christo lebendig gemacht(denn aus Gnade seid ihr selig geworden)"
 "und hat uns samt ihm auferweckt und samt ihm in das himmlische Wesen gesetzt in Christo Jesu,"
@@ -8,7 +8,7 @@
 "Denn aus Gnade seid ihr selig geworden durch den Glauben, und das nicht aus euch
 "nicht aus den Werken, auf daß sich nicht jemand rühme."
 "Denn wir sind sein Werk, geschaffen in Christo Jesu zu guten Werken, zu welchen Gott uns zuvor bereitet hat, daß wir darin wandeln sollen."
-"Darum gedenket daran, daß ihr, die ihr weiland nach dem Fleisch Heiden gewesen seid und die Unbeschnittenen genannt wurdet von denen, die genannt sind die Beschneidung nach dem Fleisch, die mit der Hand geschieht,"
+"Darum gedenket daran, daß ihr, die ihr weiland nach dem Fleisch Heiden gewesen seid und die Unbeschnittenen genannt #wurdet von denen, die genannt sind die Beschneidung nach dem Fleisch, die mit der Hand geschieht,"
 "daß ihr zur selben Zeit waret ohne Christum, fremd und außer der Bürgerschaft Israels und fremd den Testamenten der Verheißung; daher ihr keine Hoffnung hattet und waret ohne Gott in der Welt."
 "Nun aber seid ihr, die ihr in Christo Jesu seid und weiland ferne gewesen, nahe geworden durch das Blut Christi."
 "Denn er ist unser Friede, der aus beiden eines hat gemacht und hat abgebrochen den Zaun, der dazwischen war, indem er durch sein Fleisch wegnahm die Feindschaft,"

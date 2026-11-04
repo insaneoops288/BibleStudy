@@ -24,7 +24,7 @@
 "pero quedar en la carne [es] más necesario por causa de vosotros."
 "Y confiado en esto, sé que quedaré y permaneceré con todos vosotros, para vuestro provecho y gozo de la fe,"
 "para que abunde vuestro regocijo por mí en Jesucristo por mi presencia otra vez entre vosotros."
-"Solamente que os comportéis como es digno del evangelio de Cristo; para que, ya sea que vaya a veros, o que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, unánimes combatiendo juntos por la fe del evangelio;"
+"Solamente que os comportéis como es digno del evangelio de Cristo; para que, ya sea que vaya a veros, o que #esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, unánimes combatiendo juntos por la fe del evangelio;"
 "y en nada intimidados por los que se oponen; que a ellos ciertamente es indicio de perdición, pero a vosotros de salvación, y esto de Dios."
 "Porque a vosotros es concedido por Cristo, no sólo que creáis en Él, sino también que padezcáis por Él,"
 "teniendo el mismo conflicto que visteis en mí, y ahora oís [está] en mí."

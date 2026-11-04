@@ -7,7 +7,7 @@
 "duke arritur përmbushjen e besimit tuaj, shpëtimin e shpirtrave."
 "Për këtë shpëtim kërkuan dhe hetuan profetët që profetizuan nga hirin për ju,"
 "duke kërkuar të njohin kohën dhe rrethanat që tregonte Fryma e Krishtit që ishte në ta, dhe që dëshmonte që më parë për vuajtjet që do të vinin mbi Krishtin dhe për lavditë që do të pasonin."
-"Dhe atyre iu zbulua se ata i administronin jo për vete, po për ne, ato gjëra që po ju rrëfehen tani nga ata që ju kanë predikuar ungjillin, me anë të Frymës së Shenjtë të dërguar nga qielli; gjëra të cilat engjëjt dëshirojnë t'i vëzhgojnë."
+"Dhe atyre iu zbulua se ata i administronin jo për vete, po për ne, ato gjëra që po ju rrëfehen tani nga ata #që ju kanë predikuar ungjillin, me anë të Frymës së Shenjtë të dërguar nga qielli; gjëra të cilat engjëjt dëshirojnë t'i vëzhgojnë."
 "Prandaj, ngjeshni ijët e mendjes suaj, rrini zgjuar dhe mbani shpresë të plotë në hirin që do vijë mbi ju në zbulesën e Jezu Krishtit."
 "Si bij të bindur, mos iu përshtatni lakmive të mëparshme kur ishit në padijen tuaj,"
 "por ashtu si është i shenjtë ai që ju thirri, të jini edhe ju të shenjtë në gjithë sjelljen tuaj,"

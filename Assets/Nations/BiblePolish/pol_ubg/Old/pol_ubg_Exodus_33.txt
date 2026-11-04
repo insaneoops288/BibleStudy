@@ -13,7 +13,7 @@
 "Teraz więc, jeśli znalazłem łaskę w twoich oczach, ukaż mi, proszę, twoją drogę, żebym cię poznał i żebym znalazł łaskę w twoich oczach. Zważ także, że ten naród jest twoim ludem."
 "I PAN odpowiedział
 "Mojżesz powiedział do niego
-"Po czym bowiem będzie można poznać, że ja i twój lud znaleźliśmy łaskę w twoich oczach? Czy nie po tym, że pójdziesz z nami? W ten sposób ja i twój lud będziemy wyróżnieni spośród wszystkich ludów, które są na ziemi."
+"Po czym bowiem będzie można poznać, że ja i twój lud znaleźliśmy łaskę w twoich oczach? Czy nie po tym, że #pójdziesz z nami? W ten sposób ja i twój lud będziemy wyróżnieni spośród wszystkich ludów, które są na ziemi."
 "I PAN powiedział do Mojżesza
 "Mojżesz powiedział też
 "A on odpowiedział

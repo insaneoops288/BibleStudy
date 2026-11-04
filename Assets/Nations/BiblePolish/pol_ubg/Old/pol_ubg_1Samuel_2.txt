@@ -22,11 +22,11 @@
 "Heli zaś bardzo się zestarzał i usłyszał o wszystkim, co jego synowie czynili wobec całego Izraela, oraz o tym, że obcowali z kobietami, które się zbierały przy wejściu do Namiotu Zgromadzenia."
 "I powiedział do nich
 "Nie, moi synowie, gdyż niedobra to wieść, którą słyszę. Doprowadzacie lud PANA do przestępstwa."
-"Jeśli człowiek zgrzeszy przeciw człowiekowi, będzie go sądzić sędzia, ale jeśli człowiek zgrzeszy przeciw PANU, któż się za nim wstawi? Oni jednak nie posłuchali głosu swego ojca, bo PAN chciał ich zabić."
+"Jeśli człowiek zgrzeszy przeciw człowiekowi, będzie go sądzić sędzia, ale jeśli człowiek zgrzeszy przeciw PANU, któż się #za nim wstawi? Oni jednak nie posłuchali głosu swego ojca, bo PAN chciał ich zabić."
 "A chłopiec Samuel rósł i podobał się zarówno PANU, jak i ludziom."
 "Potem przyszedł mąż Boży do Heliego i powiedział mu
-"I wybrałem go sobie spośród wszystkich pokoleń Izraela na kapłana, aby składał ofiary na moim ołtarzu, palił kadzidło i nosił efod przede mną. Dałem też domowi twego ojca wszystkie ofiary ogniowe od synów Izraela."
-"Dlaczego podeptaliście moją ofiarę krwawą i pokarmową, które rozkazałem składać w przybytku? Dlaczego bardziej uczciłeś swoich synów ode mnie, abyście utuczyli się z pierwocin wszystkich ofiar pokarmowych Izraela, mojego ludu?"
+"I wybrałem go sobie spośród wszystkich pokoleń Izraela na kapłana, aby składał ofiary na moim ołtarzu, palił kadzidło #i nosił efod przede mną. Dałem też domowi twego ojca wszystkie ofiary ogniowe od synów Izraela."
+"Dlaczego podeptaliście moją ofiarę krwawą i pokarmową, które rozkazałem składać w przybytku? Dlaczego bardziej uczciłeś swoich #synów ode mnie, abyście utuczyli się z pierwocin wszystkich ofiar pokarmowych Izraela, mojego ludu?"
 "Dlatego PAN, Bóg Izraela, mówi
 "Oto nadchodzą dni, gdy odetnę twe ramię i ramię domu twego ojca, aby już nie było starca w twoim domu;"
 "I zobaczysz przeciwnika w przybytku, wśród całego szczęścia, którego Bóg udzieli Izraelowi, i nie będzie starca w twoim domu po wszystkie dni."

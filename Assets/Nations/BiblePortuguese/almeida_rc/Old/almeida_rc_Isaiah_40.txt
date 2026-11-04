@@ -23,7 +23,7 @@
 "o que faz voltar ao nada os príncipes e torna coisa vã os juízes da terra."
 "E não se plantam, nem se semeiam, nem se arraiga na terra o seu tronco cortado; sopra sobre eles, e secam-se; e um tufão, como pragana, os levará."
 "A quem pois me fareis semelhante, para que lhe seja semelhante? , diz o Santo."
-"Levantai ao alto os olhos e vede quem criou estas coisas, quem produz por conta o seu exército, quem a todas chama pelo seu nome; por causa da grandeza das suas forças e pela fortaleza do seu poder, nenhuma faltará."
+"Levantai ao alto os olhos e vede quem criou estas coisas, quem produz por conta o seu exército, quem a todas #chama pelo seu nome; por causa da grandeza das suas forças e pela fortaleza do seu poder, nenhuma faltará."
 "Por que, pois, dizes, ó Jacob, e tu falas, ó Israel
 "Não sabes, não ouviste que o eterno Deus, o SENHOR, o Criador dos confins da terra, nem se cansa, nem se fatiga? Não há esquadrinhação do seu entendimento."
 "Dá vigor ao cansado e multiplica as forças ao que não tem nenhum vigor."

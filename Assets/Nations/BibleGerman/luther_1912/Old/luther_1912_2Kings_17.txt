@@ -12,7 +12,7 @@
 "und dienten den Götzen, davon der HERR zu ihnen gesagt hatte
 "und wenn der HERR bezeugte in Israel und Juda durch alle Propheten und Seher und ließ ihnen sagen
 "so gehorchen sie nicht, sondern härteten ihren Nacken gleich dem Nacken ihrer Väter, die nicht glaubten an den HERRN, ihren Gott;"
-"dazu verachteten sie seine Gebote und seinen Bund, den er mit ihren Vätern gemacht hatte, und seine Zeugnisse, die er unter ihnen tat, und wandelten ihrer Eitelkeit nach und wurden eitel den Heiden nach, die um sie her wohnten, von welchen ihnen der HERR geboten hatte, sie sollten nicht wie sie tun;"
+"dazu verachteten sie seine Gebote und seinen Bund, den er mit ihren Vätern gemacht hatte, und seine Zeugnisse, die er unter ihnen tat, und wandelten ihrer Eitelkeit #nach und wurden eitel den Heiden nach, die um sie her wohnten, von welchen ihnen der HERR geboten hatte, sie sollten nicht wie sie tun;"
 "aber sie verließen alle Gebote des HERRN, ihres Gottes, und machten sich zwei gegossene Kälber und Ascherabild und beteten an alles Heer des Himmels und dienten Baal{~}"
 "und ließen ihre Söhne und Töchter durchs Feuer gehen und gingen mit Weissagen und Zaubern um und verkauften sich, zu tun, was dem HERRNübel gefiel, ihn zu erzürnen
 "da ward der HERR sehr zornigüber Israel und tat sie von seinem Angesicht, daß nichtsübrigblieb denn der Stamm Juda allein."
@@ -21,7 +21,7 @@
 "Denn Israel ward gerissen vom Hause Davids; und sie machten zum König Jerobeam, den Sohn Nebats. Derselbe wandte Israel ab vom HERRN und machte, daß sie schwer sündigten."
 "Also wandelten die Kinder Israel in allen Sünden Jerobeams, die er angerichtet hatte, und ließen nicht davon,"
 "bis der HERR Israel von seinem Angesicht tat, wie er geredet hatte durch alle seine Knechte, die Propheten. Also ward Israel aus seinem Lande weggeführt nach Assyrien bis auf diesen Tag."
-"Der König aber von Assyrien ließ kommen Leute von Babel, von Kutha, von Avva, von Hamath und Sepharvaim und setzte sie in die Städte in Samaria anstatt der Kinder Israel. Und sie nahmen Samaria ein und wohnten in desselben Städten."
+"Der König aber von Assyrien ließ kommen Leute von Babel, von Kutha, von Avva, von Hamath und Sepharvaim und setzte sie #in die Städte in Samaria anstatt der Kinder Israel. Und sie nahmen Samaria ein und wohnten in desselben Städten."
 "Und da sie aber anhoben daselbst zu wohnen und den HERRN nicht fürchteten, sandte der HERR Löwen unter sie, die erwürgten sie."
 "Und sie ließen dem König von Assyrien sagen
 "Der König von Assyrien gebot und sprach
@@ -31,7 +31,7 @@
 "die von Avva machten Nibehas und Tharthak; die von Sepharvaim verbrannten ihre Söhne dem Adrammelech und Anammelech, den Göttern derer von Sepharvaim.{~}"
 "Und weil sie den HERRN auch fürchteten, machten sie sich Priester auf den Höhen aus allem Volk unter ihnen; die opferten für sie in den Häusern auf den Höhen."
 "Also fürchteten sie den HERRN und dienten auch den Göttern nach eines jeglichen Volkes Weise, von wo sie hergebracht waren."
-"Und bis auf diesen Tag tun sie nach der alten Weise, daß sie weder den HERRN fürchten noch ihre Rechte und Sitten tun nach dem Gesetz und Gebot, das der HERR geboten hat den Kindern Jakobs, welchem er den Namen Israel gab."
+"Und bis auf diesen Tag tun sie nach der alten Weise, daß sie weder den HERRN fürchten noch ihre Rechte und Sitten #tun nach dem Gesetz und Gebot, das der HERR geboten hat den Kindern Jakobs, welchem er den Namen Israel gab."
 "Und er machte einen Bund mit ihnen und gebot ihnen und sprach
 "sondern den HERRN, der euch ausÄgyptenland geführt hat mit großer Kraft und ausgerecktem Arm, den fürchtet, den betet an, und dem opfert;"
 "und die Sitten, Rechte Gesetze und Gebote, die er euch hat aufschreiben lassen, die haltet, daß ihr darnach tut allewege und nicht andere Götter fürchtet;"

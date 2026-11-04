@@ -16,7 +16,7 @@
 "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en el cielo."
 "No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir."
 "Porque de cierto os digo [que] hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo sea cumplido."
-"De manera que cualquiera que quebrantare uno de estos mandamientos muy pequeños, y así enseñare a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los hiciere y enseñare, éste será llamado grande en el reino de los cielos."
+"De manera que cualquiera que quebrantare uno de estos mandamientos muy pequeños, y así enseñare a los hombres, muy pequeño será llamado en #el reino de los cielos; mas cualquiera que los hiciere y enseñare, éste será llamado grande en el reino de los cielos."
 "Porque os digo que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos."
 "Oísteis que fue dicho por los antiguos
 "Mas yo os digo que cualquiera que sin razón se enojare contra su hermano, estará en peligro del juicio; y cualquiera que dijere a su hermano

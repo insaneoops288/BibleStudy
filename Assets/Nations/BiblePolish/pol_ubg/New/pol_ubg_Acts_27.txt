@@ -9,7 +9,7 @@
 "Gdy upłynęło wiele czasu i żegluga stała się niebezpieczna, bo minął już post, Paweł ich przestrzegał
 "Panowie, widzę, że żegluga będzie związana z krzywdą i wielką szkodą nie tylko ładunkowi i statkowi, ale i naszemu życiu."
 "Setnik jednak bardziej ufał sternikowi i właścicielowi statku niż temu, co mówił Paweł."
-"A ponieważ żaden port nie nadawał się do przezimowania, większość postanowiła stamtąd odpłynąć, dostać się jakoś na przezimowanie do portu Feniks na Krecie, otwartego na południowo-zachodnią i północno-zachodnią stronę."
+"A ponieważ żaden port nie nadawał się do przezimowania, większość postanowiła stamtąd odpłynąć, dostać się #jakoś na przezimowanie do portu Feniks na Krecie, otwartego na południowo-zachodnią i północno-zachodnią stronę."
 "A gdy powiał wiatr z południa, sądzili, że zamiar doprowadzą do skutku, i odbili od brzegu, i popłynęli wzdłuż Krety."
 "Lecz niedługo potem uderzył na nią gwałtowny wiatr, zwany Eurokludon."
 "Kiedy statek został porwany i nie mógł stawić czoła wiatrowi, puściliśmy go z wiatrem i pozwoliliśmy się unosić."

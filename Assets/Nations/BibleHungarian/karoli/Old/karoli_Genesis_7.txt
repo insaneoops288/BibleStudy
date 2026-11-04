@@ -11,7 +11,7 @@
 "Noé életének hatszázadik esztendejében, a második hónapban, e hónap tizenhetedik napján, felfakadának ezen a napon a nagy mélység minden forrásai, és az ég csatornái megnyilatkozának."
 "És esék az esõ a földre negyven nap és negyven éjjel."
 "Ugyanezen a napon ment vala be Noé és Sém és Khám és Jáfet, Noénak fiai, és Noé felesége és az õ fiainak három felesége velök együtt a bárkába."
-"Õk, és minden vad az õ neme szerint és minden barom az õ neme szerint és minden csúszó-mászó állat, mely csúsz-mász a földön, az õ neme szerint és minden repdesõ állat az õ neme szerint, minden madár, minden szárnyas állat."
+"Õk, és minden vad az õ neme szerint és minden barom az õ neme szerint és minden csúszó-mászó állat, mely csúsz-mász #a földön, az õ neme szerint és minden repdesõ állat az õ neme szerint, minden madár, minden szárnyas állat."
 "Kettõ-kettõ méne be Noéhoz a bárkába minden testbõl, melyben élõ lélek vala."
 "A melyek pedig bemenének, hím és nõstény méne be minden testbõl, a mint parancsolta vala Isten õnéki
 "Mikor az özönvíz negyven napig volt a földön, annyira nevekedének a vizek, hogy felveheték a bárkát, és az felemelkedék a földrõl."
@@ -20,5 +20,5 @@
 "Tizenöt singgel nevekedének a vizek feljebb, minekutánna a hegyek elboríttattak vala."
 "És oda vesze minden földön járó test, madár, barom, vad, és a földön nyüzsgõ minden csúszó-mászó állat; és minden ember."
 "Mindaz, a minek orrában élõ lélek lehellete vala, a szárazon valók közûl mind meghala."
-"És eltörle [az Isten] minden állatot, a mely a föld színén vala, az embertõl a baromig, a csúszó-mászó állatig, és az égi madárig; mindenek eltöröltetének a földrõl; és csak Noé marada meg, és azok a kik vele valának a bárkában."
+"És eltörle [az Isten] minden állatot, a mely a föld színén vala, az embertõl a baromig, a csúszó-mászó állatig, és az #égi madárig; mindenek eltöröltetének a földrõl; és csak Noé marada meg, és azok a kik vele valának a bárkában."
 "És erõt vevének a vizek a földön, száz ötven napig."

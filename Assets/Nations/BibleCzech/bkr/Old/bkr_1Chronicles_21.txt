@@ -9,11 +9,11 @@
 "V tom mluvil Hospodin k Gádovi, proroku Davidovu, řka
 "Jdi a rci Davidovi
 "Tedy přišel Gád k Davidovi a řekl jemu
-"Buďto hlad za tři léta, buď abys za tři měsíce kažen byl od protivníků svých, když by meč nepřátel tvých dotekl se tebe, aneb aby za tři dni meč Hospodinův a mor byl v zemi, a anděl Hospodinův aby hubil po všech končinách Izraelských. Již tedy viz, co mám odpovědíti tomu, kterýž mne poslal."
+"Buďto hlad za tři léta, buď abys za tři měsíce kažen byl od protivníků svých, když by meč nepřátel tvých dotekl se tebe, aneb aby za tři dni #meč Hospodinův a mor byl v zemi, a anděl Hospodinův aby hubil po všech končinách Izraelských. Již tedy viz, co mám odpovědíti tomu, kterýž mne poslal."
 "I řekl David Gádovi
 "A tak uvedl Hospodin mor na lid Izraelský, a padlo jich z Izraele sedmdesáte tisíc mužů."
 "Poslal také Bůh anděla i na Jeruzalém, aby hubil jej. A když hubil, popatřil Hospodin, a zželelo mu se toho zlého. I řekl andělu, kterýž hubil
-"Mezi tím pozdvih David očí svých, uzřel anděla Hospodinova, stojícího mezi zemí a nebem, a meč dobytý v ruce jeho, vztažený proti Jeruzalému. I padl David, ano i starší, odíni jsouce žíněmi, na tváři své."
+"Mezi tím pozdvih David očí svých, uzřel anděla Hospodinova, stojícího mezi zemí a nebem, a meč dobytý v #ruce jeho, vztažený proti Jeruzalému. I padl David, ano i starší, odíni jsouce žíněmi, na tváři své."
 "A řekl David Bohu
 "Zatím anděl Hospodinův mluvil k Gádovi, aby řekl Davidovi, aby vstoupě, vzdělal oltář Hospodinu na humně Ornana Jebuzejského."
 "I vstoupil David podlé řeči Gádovy, kterouž byl mluvil ve jménu Hospodinovu."

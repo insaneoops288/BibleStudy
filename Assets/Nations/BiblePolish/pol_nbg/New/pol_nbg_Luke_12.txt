@@ -45,7 +45,7 @@
 "Ale gdyby ów sługa powiedział w swoim sercu
 "przyjdzie Pan tego sługi w dniu, którego się nie spodziewa i w godzinie, której nie zna, oraz rozdzieli go na dwoje, a jego część umieści z niewierzącymi."
 "Zaś ten sługa, który poznał wolę swojego Pana, a nic nie przygotował, bądź nie uczynił zgodnie z Jego wolą, będzie wielce zbity."
-"A ten, który nie poznał, a uczynił rzeczy należne nieszczęść, będzie mało zbity. Od każdego, któremu zostało wiele dane wiele od niego będzie wymagane; a któremu zostało wiele powierzone więcej od niego zażądają."
+"A ten, który nie poznał, a uczynił rzeczy należne nieszczęść, będzie mało zbity. Od każdego, któremu zostało #wiele dane wiele od niego będzie wymagane; a któremu zostało wiele powierzone więcej od niego zażądają."
 "Przyszedłem wylać ogień na ziemię, więc czego chcę, skoro już zapłonął?"
 "Lecz mam zostać ochrzczony chrztem i jakże jestem gnębiony, dopóki nie zostanie dokonany."
 "Przypuszczacie, że przyszedłem dać pokój dla ziemi? Nie, mówię wam, tylko podział."
@@ -55,5 +55,5 @@
 "a kiedy wiatr wiejący od południa, mówicie
 "Obłudnicy, umiecie rozeznać oblicze nieba i ziemi; więc jakże nie uznajecie tego czasu?"
 "Dlaczego nie odróżniacie sprawiedliwego od siebie samych?"
-"Kiedy idziesz do przełożonego ze swoim przeciwnikiem, ponieś trud w drodze, aby się od niego uwolnić, by cię nie zaciągnął do sędziego; bowiem sędzia wyda cię wykonawcy, a wykonawca wrzuci cię do więzienia."
+"Kiedy idziesz do przełożonego ze swoim przeciwnikiem, ponieś trud w drodze, aby się od niego uwolnić, by #cię nie zaciągnął do sędziego; bowiem sędzia wyda cię wykonawcy, a wykonawca wrzuci cię do więzienia."
 "Powiadam ci, raczej stamtąd nie wyjdziesz, aż nie oddasz i ostatniego grosza."

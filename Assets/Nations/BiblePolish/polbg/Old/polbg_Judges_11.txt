@@ -15,7 +15,7 @@
 "I rzekł mu
 "Ale gdy z Egiptu szedł Izrael przez puszczą aż ku morzu czerwonemu, a przyszedł do Kades."
 "Skąd wyprawił Izrael posły do króla Edomskiego, mówiąc
-"A gdy szedł przez puszczą, obszedł ziemię Edomską, i ziemię Moabską, a przyszedł od wschodu słońca ziemi Moabskiej, i położyli się obozem za Arnon, a nie wszedł w granice Moabskie; bo Arnon jest granicą Moabską."
+"A gdy szedł przez puszczą, obszedł ziemię Edomską, i ziemię Moabską, a przyszedł od wschodu słońca ziemi Moabskiej, #i położyli się obozem za Arnon, a nie wszedł w granice Moabskie; bo Arnon jest granicą Moabską."
 "Dlategoż wyprawił Izrael posły do Sehona, króla Amorejskiego, króla w Hesebon, i rzekł mu Izrael
 "Ale nie dowierzał Sehon Izraelowi, aby iść miał przez granicę jego; owszem zebrał Sehon wszystek lud swój, i położył się obozem w Jasa, i zwiódł bitwę z Izraelem."
 "I dał Pan, Bóg Izraelski, Sehona, i wszystek lud jego w ręce Izraelowe, i poraził je, a posiadł Izrael wszystkę ziemię Amorejczyka, który mieszkał w onej ziemi."
@@ -23,7 +23,7 @@
 "Ponieważ tedy Pan, Bóg Izraelski wypędził Amorejczyka przed ludem swym Izraelskim, przecz ty chcesz panować nad nim?"
 "Azaż, coć dał posieść Kamos, bóg twój, tego nie posiędziesz? tak, kogo Pan, Bóg nasz, wygnał przed oblicznością naszą, tego też dziedzictwo posiadamy."
 "Do tego czemżeś ty lepszy nad Balaka syna Seferowego, króla Moabskiego? zaż się on kiedy wadził z Izrealem? zaż kiedy walczył przeciwko niemu?"
-"Oto przez trzy sta lat mieszkał Izrael w Hesebon, i we wsiach jego, także w Aroer, i we wsiach jego, i we wszystkich miastach, które są przy granicy Arnon; czemużeście ich nie odjęli przez ten czas?"
+"Oto przez trzy sta lat mieszkał Izrael w Hesebon, i we wsiach jego, także w Aroer, i we wsiach #jego, i we wszystkich miastach, które są przy granicy Arnon; czemużeście ich nie odjęli przez ten czas?"
 "A tak nie jam tobie winien, ale ty mnie źle czynisz, że walczysz przeciwko mnie; niech Pan, który jest Sędzią, rozsądzi dziś między syny Izraelskimi i między syny Ammonowymi."
 "Ale nie usłuchał król synów Ammonowych słów Jeftego, które wskazał do niego."
 "I był nad Jeftem duch Pański, a przeszedł przez Galaad, i przez Manase; przeszedł też przez Masfa w Galaad, a z Masfy w Galaad ciągnął przeciw synom Ammonowym."

@@ -29,4 +29,4 @@
 "Şi Iacob [l-]a întrebat şi a spus
 "Şi Iacob a chemat numele locului, Peniel, pentru că
 "Şi în timp ce trecea de Peniel, soarele a răsărit peste [Iacob], iar el şchiopăta din coapsa lui."
-"De aceea copiii lui Israel nu mănâncă [din] tendonul care s-a scurtat, care [este] peste adâncitura coapsei, până în această zi, pentru că el a atins adâncitura coapsei lui Iacob în tendonul care s-a scurtat."
+"De aceea copiii lui Israel nu mănâncă [din] tendonul care s-a scurtat, care [este] peste adâncitura coapsei, până #în această zi, pentru că el a atins adâncitura coapsei lui Iacob în tendonul care s-a scurtat."

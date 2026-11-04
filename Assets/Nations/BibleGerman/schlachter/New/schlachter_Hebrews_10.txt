@@ -1,4 +1,4 @@
-"Denn weil das Gesetz nur einen Schatten der zukünftigen Güter hat, nicht das Ebenbild der Dinge selbst, so kann es auch mit den gleichen alljährlichen Opfern, welche man immer wieder darbringt, die Hinzutretenden niemals vollkommen machen!"
+"Denn weil das Gesetz nur einen Schatten der zukünftigen Güter hat, nicht das Ebenbild der Dinge selbst, so kann #es auch mit den gleichen alljährlichen Opfern, welche man immer wieder darbringt, die Hinzutretenden niemals vollkommen machen!"
 "Hätte man sonst nicht aufgehört, Opfer darzubringen, wenn die, welche den Gottesdienst verrichten, einmal gereinigt, kein Bewußtsein von Sünden mehr gehabt hätten?"
 "Statt dessen erfolgt durch dieselben nur alle Jahre eine Erinnerung an die Sünden."
 "Denn unmöglich kann Blut von Ochsen und Böcken Sünden wegnehmen!"
@@ -26,7 +26,7 @@
 "Denn wenn wir freiwillig sündigen, nachdem wir die Erkenntnis der Wahrheit empfangen haben, so bleibt für Sünden kein Opfer mehrübrig,"
 "sondern ein schreckliches Erwarten des Gerichts und Feuereifers, der die Widerspenstigen verzehren wird."
 "Wenn jemand das Gesetz Moses mißachtet, muß er ohne Barmherzigkeit auf die Aussage von zwei oder drei Zeugen hin sterben,"
-"wievielärgerer Strafe, meinet ihr, wird derjenige schuldig erachtet werden, der den Sohn Gottes mit Füßen getreten und das Blut des Bundes, durch welches er geheiligt wurde, für gemein geachtet und den Geist der Gnade geschmäht hat?"
+"wievielärgerer Strafe, meinet ihr, wird derjenige schuldig erachtet werden, der den Sohn Gottes mit Füßen getreten und das Blut #des Bundes, durch welches er geheiligt wurde, für gemein geachtet und den Geist der Gnade geschmäht hat?"
 "Denn wir kennen den, der da sagt
 "Schrecklich ist es, in die Hände des lebendigen Gottes zu fallen!"
 "Gedenket aber der früheren Tage, in welchen ihr nach eurer Erleuchtung unter Leiden viel Kampf erduldet habt,"

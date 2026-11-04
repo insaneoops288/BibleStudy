@@ -3,7 +3,7 @@
 "I všel Mojžíš s Aronem k Faraonovi, a řekli jemu
 "Pakli nechceš propustiti lidu mého, aj, já uvedu zítra kobylky na krajinu tvou."
 "A přikryjí svrchek země, aby jí nebylo viděti, a snědí ostatky pozůstalé, kteříž vám zanecháni jsou po krupobití; zhryzou vám také každý strom pučící se na poli."
-"A naplní domy tvé, i domy všech služebníků tvých, a domy všech Egyptských; čehož neviděli otcové tvoji a otcové otců tvých, od počátku bytu svého na zemi až do dne tohoto. A odvrátiv se, vyšel od Faraona."
+"A naplní domy tvé, i domy všech služebníků tvých, a domy všech Egyptských; čehož neviděli otcové tvoji a otcové #otců tvých, od počátku bytu svého na zemi až do dne tohoto. A odvrátiv se, vyšel od Faraona."
 "Řekli pak služebníci Faraonovi k němu
 "I zavolán jest Mojžíš s Aronem před Faraona. Jimž řekl
 "A odpověděl Mojžíš
@@ -12,7 +12,7 @@
 "Tedy řekl Hospodin Mojžíšovi
 "I vztáhl Mojžíš hůl svou na zemi Egyptskou; a Hospodin uvedl vítr východní na zemi, aby vál celého toho dne a celou noc. A když bylo ráno, vítr východní přinesl kobylky."
 "A vystoupily kobylky na všecku zemi Egyptskou, a připadly na všecky končiny Egyptské nesčíslně. Před těmi nebylo takových kobylek, aniž po těch takové budou."
-"I přikryly veškeren svrchek země, tak že pro ně nebylo lze znáti země; a sežraly všelikou bylinu země, a všeliké ovoce na stromích, kteréž zůstalo po krupobití; a nepozůstalo nic zeleného na stromích a bylinách polních ve vší zemi Egyptské."
+"I přikryly veškeren svrchek země, tak že pro ně nebylo lze znáti země; a sežraly všelikou bylinu země, a všeliké ovoce #na stromích, kteréž zůstalo po krupobití; a nepozůstalo nic zeleného na stromích a bylinách polních ve vší zemi Egyptské."
 "Tedy Farao spěšně povolav Mojžíše s Aronem, řekl
 "Ale nyní, odpusť, prosím, hřích můj aspoň tento, a modlte se Hospodinu Bohu vašemu, ať jen tuto smrt odejme ode mne."
 "Protož vyšed Mojžíš od Faraona, modlil se Hospodinu."

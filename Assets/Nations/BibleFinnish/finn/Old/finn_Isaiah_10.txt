@@ -3,7 +3,7 @@
 "Mitä te tahdotte tehdä etsikkopäivänä, ja hävityksessä, joka kaukaa tulee? kenen tykö te pakenette apua saamaan? ja kuhunka te tahdotte panna teidän kunnianne?"
 "Ettette vangittuin kanssa taivutettaisi, ja lyötyin seassa lankeaisi; näissä kaikissa ei ole hänen vihansa asetettu, vaan hänen kätensä on vielä nyt ojennettu."
 "Voi Assur, joka minun vihani vitsa on; joiden käsissä minun julmuuteni sauva on."
-"Minä tahdon lähettää hänen ulkokullattua kansaa vastaan, ja antaa hänelle käskyn vihani kansaa vastaan, sitä täydellisesti ryöstämään, ja saalista jakamaan, ja tallaamaan sitä niinkuin lokaa kujilla."
+"Minä tahdon lähettää hänen ulkokullattua kansaa vastaan, ja antaa hänelle käskyn vihani kansaa vastaan, #sitä täydellisesti ryöstämään, ja saalista jakamaan, ja tallaamaan sitä niinkuin lokaa kujilla."
 "Vaikka ei hän sitä niin luule, eikä hänen sydämensä niin ajattele; vaan hänen sydämensä on turmelemaan ja hävittämään monta kansaa."
 "Sillä hän sanoo
 "Eikö Kalno ole niinkuin Karkemis? Eikö Hamat ole niinkuin Arpad? Eikö Samaria ole niinkuin Damasku."
@@ -11,8 +11,8 @@
 "Eikö minun tule tehdä Jerusalemille, ja hänen epäjumalillensa, niinkuin minä Samariallekin ja hänen epäjumalillensa tein?"
 "Mutta koska Herra on kaikki tekonsa Zionin vuorella ja Jerusalemissa toimittanut, niin minä tahdon etsiä Assurin kuninkaan ylpeän sydämen hedelmää, ja hänen ylpeiden silmäinsä koreutta;"
 "Että hän sanoo
-"Ja minun käteni on löytänyt kansain tavaran niinkuin linnunpesän, niin että minä olen kaiken maan koonnut niinkuin hyljätyt munat kootaan, kussa ei yhtään ole, joka siipeänsä liikuttaa, nokkansa avaa, eli kirkaisee."
-"Taitaako kirves kerskata sitä vastaan, joka hänellä hakkaa, eli saha taistella sen kanssa, joka häntä vetää? Se olis niinkuin sauva tahtois liikuttaa sitä, joka sen kantaa, ja sauva nostais itsensä niinkuin ei se puu oliskaan."
+"Ja minun käteni on löytänyt kansain tavaran niinkuin linnunpesän, niin että minä olen kaiken maan koonnut #niinkuin hyljätyt munat kootaan, kussa ei yhtään ole, joka siipeänsä liikuttaa, nokkansa avaa, eli kirkaisee."
+"Taitaako kirves kerskata sitä vastaan, joka hänellä hakkaa, eli saha taistella sen kanssa, joka häntä vetää? Se olis #niinkuin sauva tahtois liikuttaa sitä, joka sen kantaa, ja sauva nostais itsensä niinkuin ei se puu oliskaan."
 "Sentähden on Herra, Herra Zebaot, lähettävä laihuuden hänen lihavainsa sekaan, ja sytyttävä hänen kunniansa palamaan kuin tulipalon."
 "Ja Israelin valkeus on tuleva tuleksi, ja hänen pyhänsä liekiksi, ja pitää palaman, ja kuluttaman hänen orjantappuransa ja ohdakkeensa yhtenä päivänä."
 "Ja hänen metsänsä ja ketonsa kunnia pitää tyhjään raukeneman, sekä sielu että ruumis, ja pitää tuleman niinkuin koska lipunkantaja nääntyy;"

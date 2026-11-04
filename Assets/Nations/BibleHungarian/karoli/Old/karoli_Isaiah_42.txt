@@ -13,7 +13,7 @@
 "Az Úr, mint egy hõs kijõ, [és] mint hadakozó felkölti haragját, kiált, sõt rivalg és ellenségein erõt vesz."
 "Régtõl fogva hallgattam, néma voltam, magamat megtartóztatám
 "Elpusztítok hegyeket és halmokat, és megszáraztom minden fûvöket, szigetekké teszek folyamokat, és tavakat kiszáraztok."
-"A vakokat oly úton vezetem, a melyet nem ismernek, járatom õket oly ösvényeken, a melyeket nem tudnak; elõttök a sötétséget világossággá teszem, és az egyenetlen földet egyenessé; ezeket cselekszem velök, és õket el nem hagyom."
+"A vakokat oly úton vezetem, a melyet nem ismernek, járatom õket oly ösvényeken, a melyeket nem tudnak; elõttök #a sötétséget világossággá teszem, és az egyenetlen földet egyenessé; ezeket cselekszem velök, és õket el nem hagyom."
 "Meghátrálnak [és] mélyen megszégyenülnek, a kik a bálványban bíznak, a kik ezt mondják az öntött képnek
 "Oh, ti süketek, halljatok, és ti vakok, lássatok!"
 "Kicsoda vak, ha nem az én szolgám? és olyan süket, mint az én követem, a kit elbocsátok? Ki olyan vak, mint a békességgel megajándékozott, és olyan vak, mint az Úr szolgája?"

@@ -10,7 +10,7 @@
 "Niin tuli Herra ja seisoi siellä, ja kutsui niinkuin ennenkin
 "Ja Herra sanoi Samuelille
 "Sinä päivänä tuotan minä Elille kaikki ne mitkä minä hänen huonettansa vastaan puhunut olen
-"Ja minä tahdon tehdä hänelle tiettäväksi, että minä olen Tuomari hänen huoneellensa ijankaikkisesti sen pahan työn tähden, että hän tiesi poikansa häpiällisesti itsensä käyttäneen, ja ei kertaakaan vihaisesti katsonut heidän päällensä."
+"Ja minä tahdon tehdä hänelle tiettäväksi, että minä olen Tuomari hänen huoneellensa ijankaikkisesti sen pahan työn #tähden, että hän tiesi poikansa häpiällisesti itsensä käyttäneen, ja ei kertaakaan vihaisesti katsonut heidän päällensä."
 "Sentähden olen minä vannonut Elin huoneelle, että tämä Elin huoneen pahateko ei pidä lepytettämän uhrilla eikä ruokauhrilla ijankaikkisesti."
 "Ja Samuel makasi huomeneen asti, ja avasi Herran huoneen oven. Ja Samuel ei tohtinut ilmoittaa Elille sitä näkyä."
 "Niin kutsui Eli hänen ja sanoi

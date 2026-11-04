@@ -15,7 +15,7 @@
 "Ja on ryöstänyt vallitukset ja väkevyydet, ja toi heidät näkyviin, ja sai heistä voittokunnian itse kauttansa."
 "Älkään siis kenkään teitä tuomitko ruasta eli juomasta, taikka määrätyistä pyhäpäivistä, ei uudesta kuusta, eikä sabbateista,"
 "Jotka ovat tulevaisten varjo, mutta itse ruumis on Kristuksessa."
-"Älkäät antako kenenkään voittaa teidän kilvoituksenne palkkaa, joka tahtoo teitä nöyryyteen ja enkelien palvelukseen, vaeltain niissä, joita ei hän nähnyt ole, ja on tyhmästi lihallisessa mielessänsä paisunut,"
+"Älkäät antako kenenkään voittaa teidän kilvoituksenne palkkaa, joka tahtoo teitä nöyryyteen ja enkelien palvelukseen, #vaeltain niissä, joita ei hän nähnyt ole, ja on tyhmästi lihallisessa mielessänsä paisunut,"
 "Ja ei riipu kiinni Päässä, josta koko ruumis jäsenistä ja ravioista saa väkevyyden ja kokoon liitetty on, ja niin siinä lisäämisessä kasvaa, jonka Jumala antaa."
 "Jos te siis olette Kristuksen kanssa maailman säädyistä kuolleet, miksi te teitänne annatte säädyillä solmita, niinkuin te maailmassa eläisitte?"
 "Älä siihen rupee, (sanovat ne,) älä maista, älä pitele,"

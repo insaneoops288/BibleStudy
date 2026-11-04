@@ -30,9 +30,9 @@
 "Tu mettras sur la table les pains de proposition continuellement devant ma face."
 "Tu feras un chandelier d'or pur; ce chandelier sera fait d'or battu; son pied, sa tige, ses calices, ses pommes et ses fleurs seront d'une même pièce."
 "Six branches sortiront de ses côtés, trois branches du chandelier de l'un des côtés, et trois branches du chandelier de l'autre côté."
-"Il y aura sur une branche trois calices en forme d'amande, avec pommes et fleurs, et sur une autre branche trois calices en forme d'amande, avec pommes et fleurs; il en sera de même pour les six branches sortant du chandelier."
+"Il y aura sur une branche trois calices en forme d'amande, avec pommes et fleurs, et sur une autre branche trois #calices en forme d'amande, avec pommes et fleurs; il en sera de même pour les six branches sortant du chandelier."
 "A la tige du chandelier, il y aura quatre calices en forme d'amande, avec leurs pommes et leurs fleurs."
-"Il y aura une pomme sous deux des branches sortant de la tige du chandelier, une pomme sous deux autres branches, et une pomme sous deux autres branches; il en sera de même pour les six branches sortant du chandelier."
+"Il y aura une pomme sous deux des branches sortant de la tige du chandelier, une pomme sous deux autres branches, #et une pomme sous deux autres branches; il en sera de même pour les six branches sortant du chandelier."
 "Les pommes et les branches du chandelier seront d'une même pièce
 "Tu feras ses sept lampes, qui seront placées dessus, de manière à éclairer en face."
 "Ses mouchettes et ses vases à cendre seront d'or pur."

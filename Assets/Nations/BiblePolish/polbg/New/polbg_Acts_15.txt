@@ -19,7 +19,7 @@
 "Przetoż moje zdanie jest, żeby nie trwożyć tych, którzy się z poganów do Boga nawracają."
 "Ale raczej pisać do nich, aby się wstrzymywali od splugawienia bałwanów i od wszeteczeństwa, i od rzeczy dławionych, i ode krwi."
 "Albowiem Mojżesz od dawnych wieków ma w każdym mieście te, którzy go opowiadają, gdyż go w bóżnicach na każdy sabat czytają."
-"Tedy się zdało Apostołom i starszym ze wszystkim zborem, aby wybrane spośród siebie męże posłali do Antyjochyi z Pawłem i z Barnabaszem, to jest Judasa, którego zwano Barsabaszem, i Sylę, męże przedniejsze między braćmi."
+"Tedy się zdało Apostołom i starszym ze wszystkim zborem, aby wybrane spośród siebie męże posłali do Antyjochyi z #Pawłem i z Barnabaszem, to jest Judasa, którego zwano Barsabaszem, i Sylę, męże przedniejsze między braćmi."
 "Napisawszy to przez rękę ich
 "Ponieważeśmy słyszeli, że niektórzy wyszedłszy od nas, zatrwożyli was słowy, wątląc dusze wasze, a mówiąc, że się musicie obrzezać i zakon zachowywać, którymeśmy tego nie poruczyli,"
 "Zdało się nam jednomyślnie zgromadzonym, posłać do was męże wybrane z miłymi naszymi, Barnabaszem i z Pawłem,"

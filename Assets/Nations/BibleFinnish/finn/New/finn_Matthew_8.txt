@@ -25,7 +25,7 @@
 "Niin tulivat hänen opetuslapsensa ja herättivät hänen, ja sanoivat
 "Ja hän sanoi heille
 "Niin ihmiset ihmettelivät, sanoen
-"Ja kuin hän tuli sille puolelle merta, Gerasalaisten maakuntaan, niin häntä vastaan juoksi kaksi pirulta riivattua, jotka olivat haudoista lähteneet, ja olivat sangen hirmuiset, niin ettei kenkään taitanut sitä tietä vaeltaa."
+"Ja kuin hän tuli sille puolelle merta, Gerasalaisten maakuntaan, niin häntä vastaan juoksi kaksi pirulta riivattua, #jotka olivat haudoista lähteneet, ja olivat sangen hirmuiset, niin ettei kenkään taitanut sitä tietä vaeltaa."
 "Ja katso, he huusivat sanoen
 "Ja kaukana heistä kävi sangen suuri sikalauma laitumella."
 "Niin perkeleet rukoilivat häntä ja sanoivat

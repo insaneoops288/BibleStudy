@@ -5,7 +5,7 @@
 "Wtedy powiedział
 "I dodał
 "PAN powiedział
-"Dlatego zstąpiłem, aby wybawić go z ręki Egipcjan i wyprowadzić z tej ziemi do ziemi dobrej i przestronnej, do ziemi opływającej mlekiem i miodem, na miejsce Kananejczyków, Chetytów, Amorytów, Peryzzytów, Chiwwitów i Jebusytów."
+"Dlatego zstąpiłem, aby wybawić go z ręki Egipcjan i wyprowadzić z tej ziemi do ziemi dobrej i #przestronnej, do ziemi opływającej mlekiem i miodem, na miejsce Kananejczyków, Chetytów, Amorytów, Peryzzytów, Chiwwitów i Jebusytów."
 "Teraz oto dotarł do mnie krzyk synów Izraela. Widziałem też ucisk, jakim dręczą ich Egipcjanie."
 "Dlatego teraz idź, poślę cię do faraona, abyś wyprowadził mój lud, synów Izraela, z Egiptu."
 "Mojżesz powiedział do Boga

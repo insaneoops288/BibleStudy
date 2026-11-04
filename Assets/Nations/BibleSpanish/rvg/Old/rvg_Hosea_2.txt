@@ -15,7 +15,7 @@
 "Y le daré sus viñas desde allí, y el valle de Acor por puerta de esperanza; y allí cantará como en los tiempos de su juventud, y como en el día de su subida de la tierra de Egipto."
 "Y será que en aquel tiempo, dice Jehová, me llamarás Ishi, y nunca más me llamarás Baali."
 "Porque quitaré de su boca los nombres de los Baales, y nunca más serán mencionados por sus nombres."
-"Y en aquel tiempo haré por ellos un pacto con las bestias del campo, con las aves del cielo y con los reptiles de la tierra; y quebraré arco y espada y la batalla de la tierra, y los haré dormir seguros."
+"Y en aquel tiempo haré por ellos un pacto con las bestias del campo, con las aves del cielo y con los #reptiles de la tierra; y quebraré arco y espada y la batalla de la tierra, y los haré dormir seguros."
 "Y te desposaré conmigo para siempre; te desposaré conmigo en justicia, y juicio, en compasión, y en misericordias."
 "Y te desposaré conmigo en fe, y conocerás a Jehová."
 "Y será que en aquel tiempo responderé, dice Jehová, yo responderé a los cielos, y ellos responderán a la tierra;"

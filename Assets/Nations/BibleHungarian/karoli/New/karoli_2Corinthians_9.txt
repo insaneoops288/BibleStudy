@@ -2,7 +2,7 @@
 "Hiszen ismerem a ti készségteket a melylyel dicsekszem felõletek a macedónoknak, hogy Akhája kész a mult esztendõ óta; és a ti buzgóságtok, sokakat magával ragadt."
 "Mindamellett elküldöttem az atyafiakat, hogy a mi felõletek való dicsekedésünk ebben a részben hiábavaló ne legyen; hogy, a mint mondám, készen legyetek."
 "Hogy aztán, ha a macedónok velem együtt odajutnak és titeket készületlenül találnak, valamiképen szégyent ne valljunk mi, hogy ne mondjam ti, ebben a dologban."
-"Szükségesnek véltem azért utasítani az atyafiakat, hogy elõre menjenek el hozzátok, és készítsék el elõre a ti elõre megígért adományotokat, hogy az úgy legyen készen, mint adomány, és nem mint ragadomány."
+"Szükségesnek véltem azért utasítani az atyafiakat, hogy elõre menjenek el hozzátok, és készítsék el elõre a #ti elõre megígért adományotokat, hogy az úgy legyen készen, mint adomány, és nem mint ragadomány."
 "Azt [mondom] pedig
 "Kiki a mint eltökélte szívében, nem szomorúságból, vagy kénytelenségbõl; mert a jókedvû adakozót szereti az Isten."
 "Az Isten pedig hatalmas arra, hogy rátok áraszsza minden kegyelmét; hogy mindenben, mindenkor teljes elégségtek lévén, minden jótéteményre bõségben legyetek,"

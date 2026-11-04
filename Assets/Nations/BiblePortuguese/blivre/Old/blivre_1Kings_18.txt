@@ -9,7 +9,7 @@
 "Porém ele disse
 "Vive o SENHOR teu Deus, que não houve nação nem reino de onde meu senhor não haja enviado a buscar-te; e respondendo eles
 "E agora tu dizes
-"E acontecerá que, logo que eu me haja partido de ti, o espírito do SENHOR te levará de onde eu não saiba; e vindo eu, e dando as novas a Acabe, e se ele não te achar, me matará; e teu servo teme ao SENHOR desde sua juventude."
+"E acontecerá que, logo que eu me haja partido de ti, o espírito do SENHOR te levará de onde eu não saiba; e vindo eu, #e dando as novas a Acabe, e se ele não te achar, me matará; e teu servo teme ao SENHOR desde sua juventude."
 "Não foi dito a meu senhor o que fiz, quando Jezabel matava aos profetas do SENHOR
 "E agora dizes tu
 "E disse-lhe Elias
@@ -20,7 +20,7 @@
 "Então Acabe enviou a todos os filhos de Israel, e juntou os profetas no monte de Carmelo."
 "E aproximando-se Elias a todo o povo, disse
 "E Elias converteu a dizer ao povo
-"Deem-se a nós, pois, dois bois, e escolham-se eles o um, e cortem-no em pedaços, e ponham-no sobre lenha, mas não ponham fogo debaixo; e eu prepararei o outro boi, e o porei sobre lenha, e nenhum fogo porei debaixo."
+"Deem-se a nós, pois, dois bois, e escolham-se eles o um, e cortem-no em pedaços, e ponham-no sobre lenha, mas não #ponham fogo debaixo; e eu prepararei o outro boi, e o porei sobre lenha, e nenhum fogo porei debaixo."
 "Invocai logo vós no nome de vossos deuses, e eu invocarei no nome do SENHOR
 "Então Elias disse aos profetas de Baal
 "E eles tomaram o boi que lhes foi dado, e prepararam-no, e invocaram no nome de Baal desde a manhã até o meio dia, dizendo

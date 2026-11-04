@@ -19,7 +19,7 @@
 "Als sie nun etwa fünfundzwanzig oder dreißig Stadien gerudert waren, sehen sie Jesum auf dem See wandeln und nahe an das Schiff herankommen, und sie fürchteten sich."
 "Er aber spricht zu ihnen
 "Sie wollten ihn nun in das Schiff nehmen, und alsbald war das Schiff an dem Lande, zu welchem sie hinfuhren."
-"Des folgenden Tages, als die Volksmenge, die jenseit des Sees stand, gesehen hatte, daß daselbst kein anderes Schifflein war, als nur jenes, in welches seine Jünger gestiegen waren, und daß Jesus nicht mit seinen Jüngern in das Schiff gestiegen, sondern seine Jünger allein weggefahren waren"
+"Des folgenden Tages, als die Volksmenge, die jenseit des Sees stand, gesehen hatte, daß daselbst kein anderes Schifflein war, als nur jenes, in #welches seine Jünger gestiegen waren, und daß Jesus nicht mit seinen Jüngern in das Schiff gestiegen, sondern seine Jünger allein weggefahren waren"
 "(es kamen aber andere Schifflein aus Tiberias nahe an den Ort, wo sie das Brot gegessen, nachdem der Herr gedankt hatte),"
 "da nun die Volksmenge sah, daß Jesus nicht daselbst sei, noch seine Jünger, stiegen sie in die Schiffe und kamen nach Kapernaum und suchten Jesum."
 "Und als sie ihn jenseit des Sees gefunden hatten, sprachen sie zu ihm
@@ -48,7 +48,7 @@
 "Ich bin das Brot des Lebens."
 "Eure Väter haben das Manna in der Wüste gegessen und sind gestorben."
 "Dies ist das Brot, das aus dem Himmel herniederkommt, auf daß man davon esse und nicht sterbe."
-"Ich bin das lebendige Brot, das aus dem Himmel herniedergekommen ist; wenn jemand von diesem Brote ißt, so wird er leben in Ewigkeit. Das Brot aber, daß ich geben werde, ist mein Fleisch, welches ich geben werde für das Leben der Welt."
+"Ich bin das lebendige Brot, das aus dem Himmel herniedergekommen ist; wenn jemand von diesem Brote ißt, so wird er leben in #Ewigkeit. Das Brot aber, daß ich geben werde, ist mein Fleisch, welches ich geben werde für das Leben der Welt."
 "Die Juden stritten nun untereinander und sagten
 "Da sprach Jesus zu ihnen
 "Wer mein Fleisch ißt und mein Blut trinkt, hat ewiges Leben, und ich werde ihn auferwecken am letzten Tage;"

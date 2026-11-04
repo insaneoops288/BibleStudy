@@ -21,7 +21,7 @@
 "¿No sabéis? ¿no habéis oído? ¿nunca os lo han dicho desde el principio? ¿no habéis sido enseñados desde que la tierra se fundó?"
 "El está asentado sobre el globo de la tierra, cuyos moradores son como langostas
 "El torna en nada los poderosos, y á los que gobiernan la tierra hace como cosa vana."
-"Como si nunca fueran plantados, como si nunca fueran sembrados, como si nunca su tronco hubiera tenido raíz en la tierra; así que sopla en ellos se secan, y el torbellino los lleva como hojarascas."
+"Como si nunca fueran plantados, como si nunca fueran sembrados, como si nunca su tronco hubiera tenido raíz #en la tierra; así que sopla en ellos se secan, y el torbellino los lleva como hojarascas."
 "¿A qué pues me haréis semejante, ó seré asimilado? dice el Santo."
 "Levantad en alto vuestros ojos, y mirad quién crió estas cosas
 "¿Por qué dices, oh Jacob, y hablas tú, Israel

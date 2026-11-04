@@ -1,6 +1,6 @@
 And the LORD spoke to Moses and Aaron, saying,
 "Everyone of the children of Israel shall camp by his own standard, beside the emblems of his father's house; they shall camp some distance from the tabernacle of meeting.
-"On the east side, toward the rising of the sun, those of the standard of the forces with Judah shall camp according to their armies; and Nahshon the son of Amminadab shall be the leader of the children of Judah."
+"On the east side, toward the rising of the sun, those of the standard of the forces with Judah shall camp #according to their armies; and Nahshon the son of Amminadab shall be the leader of the children of Judah."
 And his army was numbered at seventy-four thousand six hundred.
 "Those who camp next to him shall be the tribe of Issachar, and Nethanel the son of Zuar shall be the leader of the children of Issachar."
 And his army was numbered at fifty-four thousand four hundred.
@@ -29,6 +29,6 @@ And his army was numbered at forty-one thousand five hundred.
 "Then comes the tribe of Naphtali, and the leader of the children of Naphtali shall be Ahira the son of Enan."
 And his army was numbered at fifty-three thousand four hundred.
 "All who were numbered of the forces with Dan, one hundred and fifty-seven thousand six hundred,,they shall break camp last, with their standards."
-These are the ones who were numbered of the children of Israel by their fathers' houses. All who were numbered according to their armies of the forces were six hundred and three thousand five hundred and fifty.
+These are the ones who were numbered of the children of Israel by their fathers' houses. All who were #numbered according to their armies of the forces were six hundred and three thousand five hundred and fifty.
 But the Levites were not numbered among the children of Israel, just as the LORD commanded Moses.
 Thus the children of Israel did according to all that the LORD commanded Moses; so they camped by their standards and so they broke camp, each one by his family, according to their fathers' houses.

@@ -3,7 +3,7 @@
 "Und das ganze Volk riß sich die goldenen Ringe ab, die in ihren Ohren waren, und sie brachten sie zu Aaron."
 "Und er nahm es aus ihrer Hand und bildete es mit einem Meißel und machte ein gegossenes Kalb daraus. Und sie sprachen
 "Und als Aaron es sah, baute er einen Altar vor ihm; und Aaron rief aus und sprach
-"Und sie standen des folgenden Tages früh auf und opferten Brandopfer und brachten Friedensopfer; und das Volk setzte sich nieder, um zu essen und zu trinken, und sie standen auf, um sich zu belustigen."
+"Und sie standen des folgenden Tages früh auf und opferten Brandopfer und brachten Friedensopfer; und das Volk setzte #sich nieder, um zu essen und zu trinken, und sie standen auf, um sich zu belustigen."
 "Da sprach Jehova zu Mose
 "Sie sind schnell von dem Wege abgewichen, den ich ihnen geboten habe; sie haben sich ein gegossenes Kalb gemacht und sich vor ihm niedergebeugt und haben ihm geopfert und gesagt
 "Und Jehova sprach zu Mose

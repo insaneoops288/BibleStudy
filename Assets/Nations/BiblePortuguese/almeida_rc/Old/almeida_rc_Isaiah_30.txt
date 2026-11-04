@@ -3,7 +3,7 @@
 "Porque a força de Faraó se vos tornará em vergonha, e a confiança na sombra do Egipto, em confusão."
 "Porque os seus príncipes estão em Zoã, e os seus embaixadores chegaram a Hanes."
 "Eles se envergonharão de um povo que de nada lhe servirá, nem de ajuda, nem de proveito; antes, de vergonha e de opróbrio."
-"Peso dos animais do Sul. Para a terra de aflição e de angústia (donde vem a leoa, o leão, o basilisco e a áspide ardente voadora) levarão às costas de jumentinhos as suas fazendas, e sobre as corcovas de camelos, os seus tesouros a um povo que de nada lhes aproveitará."
+"Peso dos animais do Sul. Para a terra de aflição e de angústia (donde vem a leoa, o leão, o basilisco e a áspide ardente voadora) #levarão às costas de jumentinhos as suas fazendas, e sobre as corcovas de camelos, os seus tesouros a um povo que de nada lhes aproveitará."
 "Porque o Egipto os ajudará em vão e para nenhum fim; pelo que clamei acerca disto
 "Vai, pois, agora, escreve isto em uma tábua perante eles e aponta-o em um livro; para que fique escrito para o tempo vindouro, para sempre e perpetuamente."
 "Porque povo rebelde é este, filhos mentirosos, filhos que não querem ouvir a lei do SENHOR;"
@@ -30,4 +30,4 @@
 "E o SENHOR fará ouvir a glória da sua voz e fará ver o abaixamento do seu braço, com indignação de ira, e a labareda do seu fogo consumidor, e raios, e dilúvio, e pedra de saraiva."
 "Porque, com a voz do SENHOR, será desfeita em pedaços a Assíria, que feriu com a vara."
 "E, a cada pancada do bordão do juízo que o SENHOR der, haverá tamboris e harpas; e, com combates de agitação, combaterá contra eles."
-"Porque uma fogueira está preparada desde ontem, sim, está preparada para o rei; ele a fez profunda e larga; a sua pilha é fogo e tem muita lenha; o assopro do SENHOR como torrente de enxofre a acenderá."
+"Porque uma fogueira está preparada desde ontem, sim, está preparada para o rei; ele a fez profunda e larga; a #sua pilha é fogo e tem muita lenha; o assopro do SENHOR como torrente de enxofre a acenderá."

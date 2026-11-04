@@ -29,7 +29,7 @@
 "A földön csúszó-mászó állatok között pedig ezek legyenek tisztátalanok
 "A sündisznó, a kaméleon, a tarka gyík, a csiga és a vakondok."
 "Ezek tisztátalanok néktek minden csúszó-mászó között; valaki illeti ezeket holtuk után, tisztátalan legyen estvéig."
-"És minden, a mire ezek közül holtuk után esik valamelyik, tisztátalan legyen; akármely faedény, akár ruha, vagy bõr, vagy zsák; akármely eszköz, a mivel dolgozni szoktak, vízbe tétessék, és tisztátalan legyen estvéig, ezután tiszta legyen."
+"És minden, a mire ezek közül holtuk után esik valamelyik, tisztátalan legyen; akármely faedény, akár ruha, vagy bõr, #vagy zsák; akármely eszköz, a mivel dolgozni szoktak, vízbe tétessék, és tisztátalan legyen estvéig, ezután tiszta legyen."
 "Akármely cserépedény pedig, a melybe beleesik [valami] azokból, mindazzal együtt, a mi benne van, tisztátalan legyen, és az [edényt] törjétek el."
 "Minden megehetõ eledel, a melyhez [az] [ilyen edénybõl] víz jut, tisztátalan, és minden megiható ital is minden [ilyen] edényben tisztátalan legyen."
 "És minden, a mire azoknak holttestébõl esik [valami], tisztátalan; kemencze és tûzhely lerontassék; tisztátalanok azok és tisztátalanok legyenek néktek."
@@ -41,7 +41,7 @@
 "Mindaz is, a mi csúszik-mászik a földön, útálatos legyen, meg ne egyétek."
 "Mindazt, a mi hason csúszik, és mindazt, a mi négy, sõt mindazt, a mi több lábon jár, a földön csúszó-mászó bármely állatot, meg ne egyétek ezeket, mert útálatosak ezek."
 "Meg ne fertéztessétek magatokat semmiféle csúszó-mászó állattal, és meg ne tisztátalanítsátok magatokat azokkal, hogy tisztátalanokká legyetek általok."
-"Mert én, az Úr, vagyok a ti Istenetek; szenteljétek meg azért magatokat, és szentek legyetek, mert én szent vagyok, és meg ne tisztátalanítsátok magatokat semmiféle állat által, a mely csúszik-mászik a földön."
+"Mert én, az Úr, vagyok a ti Istenetek; szenteljétek meg azért magatokat, és szentek legyetek, mert én #szent vagyok, és meg ne tisztátalanítsátok magatokat semmiféle állat által, a mely csúszik-mászik a földön."
 "Mert én vagyok az Úr, a ki felhoztalak titeket Égyiptom földébõl, hogy Istenetekké legyek néktek; legyetek azért szentek, mert én szent vagyok."
 "Ez a törvény a baromfélékrõl, a szárnyas állatokról, minden élõ állatról, a mely nyüzsög a vizekben, és minden állatról, a mely csúszik- mászik a földön."
 "Hogy különbséget tehessetek a tisztátalan és tiszta között, az olyan állat között, a mely megehetõ, és az olyan állat között, a mely meg nem ehetõ."

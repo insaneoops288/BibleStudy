@@ -1,9 +1,9 @@
 "A synowie Aaronowi tym sposobem rozdzieleni byli
 "Ale iż Nadab i Abiju umarli przed obliczem ojca swego, a synów nie mieli
 "I podzielił ich Dawid, to jest Sadoka z synów Eleazarowych, i Achimelecha z synów Itamarrowych, według urzędu ich w usługach ich."
-"I znalazło się synów Eleazarowych więcej przedniejszych mężów, niż synów Itamarowych, gdy ich podzielił. Z synów Eleazarowych było przedniejszych według domów ojcowskich szesnaście; ale synów Itamarowych według domów ojcowskich ośm."
+"I znalazło się synów Eleazarowych więcej przedniejszych mężów, niż synów Itamarowych, gdy ich podzielił. Z synów #Eleazarowych było przedniejszych według domów ojcowskich szesnaście; ale synów Itamarowych według domów ojcowskich ośm."
 "A rozdzieleni są losem jedni od drugich; bo byli przełożonymi nad świątnicą, i przedniejszymi przed Bogiem, tak z synów Eleazarowych, jako i z synów Itamarowych."
-"A popisał ich Senejasz, syn Natanaelowy, pisarz, z pokolenia Lewiego, przed królem i psiążętami, i przed Sadokiem kapłanem, i Achimelechem, synem Abijatarowym, i przedniejszymi z domów ojcowskich, kapłanów i Lewitów; a naznaczono jeden dom ojcowsk i Eleazarowi, a drugi naznaczono Itamarowi."
+"A popisał ich Senejasz, syn Natanaelowy, pisarz, z pokolenia Lewiego, przed królem i psiążętami, i przed Sadokiem kapłanem, i Achimelechem, synem #Abijatarowym, i przedniejszymi z domów ojcowskich, kapłanów i Lewitów; a naznaczono jeden dom ojcowsk i Eleazarowi, a drugi naznaczono Itamarowi."
 "I padł los pierwszy na Jehojaryba, na Jedajasza wtóry;"
 "Na Haryma trzeci, na Seoryma czwarty;"
 "Na Malchyjasza piąty, na Mijamana szósty;"
@@ -28,4 +28,4 @@
 "Z Mahalego Eleazar, który nie miał synów."
 "Z Cysa, synowie Cysowi Jerahmeel."
 "A synowie Musy
-"I ci też miotali losy naprzeciwko braci swoich, synom Aaronowym, przed Dawidem królem, i Sadokiem, i Achimelechem, i przedniejszymi domów ojcowskich, z kapłanów i Lewitów, z domów ojcowskich, każdy przedniejszy przeciwko bratu swemu młodszemu."
+"I ci też miotali losy naprzeciwko braci swoich, synom Aaronowym, przed Dawidem królem, i Sadokiem, i Achimelechem, i #przedniejszymi domów ojcowskich, z kapłanów i Lewitów, z domów ojcowskich, każdy przedniejszy przeciwko bratu swemu młodszemu."

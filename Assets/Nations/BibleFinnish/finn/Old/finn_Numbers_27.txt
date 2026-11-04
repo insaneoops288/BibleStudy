@@ -8,7 +8,7 @@
 "Ja puhu Israelin lapsille, sanoen
 "Jollei hänellä ole tytärtä, niin teidän pitää sen perimisen hänen veljillensä antaman."
 "Ja jollei hänellä ole veljiä; niin teidän pitää sen antaman hänen sedillensä."
-"Jollei hänellä ole setiä, niin teidän pitää sen antaman hänen lähimmäiselle sukulaisellensa, joka hänen lähimmäinen lankonsa on hänen suvustansa, että hän sen omistaa. Tämä pitää oleman Israelin lapsille sääty ja oikeus, niinkuin Herra on Mosekselle käskenyt."
+"Jollei hänellä ole setiä, niin teidän pitää sen antaman hänen lähimmäiselle sukulaisellensa, joka hänen lähimmäinen lankonsa on hänen suvustansa, #että hän sen omistaa. Tämä pitää oleman Israelin lapsille sääty ja oikeus, niinkuin Herra on Mosekselle käskenyt."
 "Ja Herra sanoi Mosekselle
 "Ja kuin sen nähnyt olet, niin sinäkin kootaan kansas tykö, niinkuin sinun veljes Aaron koottu on."
 "Sillä te olitte minun sanalleni kovakorvaiset Sinin korvessa kansan toruessa, kuin teidän piti minua pyhittämän veden kautta heidän edessänsä. Se on se riitavesi Kadeksessa, Sinin korvessa."
@@ -18,6 +18,6 @@
 "Ja Herra sanoi Mosekselle
 "Ja aseta hänet papin Eleatsarin ja kaiken kansan eteen, ja käske hänelle heidän silmäinsä edessä."
 "Ja pane sinun kunniastas hänen päällensä, että kaikki kansa Israelin lapsista olisivat hänelle kuuliaiset."
-"Ja hänen pitää papin Eleatsarin eteen astuman, hänen pitää kysymän neuvoa hänen edestänsä valkeuden säädyllä Herran edessä, ja hänen suunsa jälkeen pitää hänen käymän ulos ja sisälle, sekä hänen että Israelin lasten hänen kanssansa, ja koko seurakunnan."
+"Ja hänen pitää papin Eleatsarin eteen astuman, hänen pitää kysymän neuvoa hänen edestänsä valkeuden säädyllä Herran edessä, ja hänen #suunsa jälkeen pitää hänen käymän ulos ja sisälle, sekä hänen että Israelin lasten hänen kanssansa, ja koko seurakunnan."
 "Ja Moses teki niinkuin Herra hänelle käski, ja otti Josuan ja asetti hänen papin Eleatsarin ja koko seurakunnan eteen,"
 "Ja laski kätensä hänen päällensä, ja käski hänelle, niinkuin Herra oli Mosekselle puhunut."

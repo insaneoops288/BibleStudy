@@ -16,10 +16,10 @@
 "Obadiahu, bir i Shemajahut, bir i Galalit, bir i Jeduthunit; Berakiahu, bir i Asas, bir i Elkanahut, që banonte në fshatrat e Netofathitëve."
 "Derëtarët ishin Shallumi, Akubi, Talmoni, Ahimani dhe vëllezërit e tyre; Shalumi ishte i pari i tyre."
 "Ata kanë mbetur deri tani derëtarë të kampit të bijve të Levit në portën e mbretit, në drejtim të lindjes."
-"Shalumi, bir i Koreut, bir i Ebiasafit, bir i Korahut, dhe vëllezërit e tij, Korahitët, nga shtëpia e atit të tij, ishin të ngarkuar me punën e shërbimit, si derëtarë të tabernakullit; etërit e tyre ishin caktuar në kampin e Zotit si derëtarë."
+"Shalumi, bir i Koreut, bir i Ebiasafit, bir i Korahut, dhe vëllezërit e tij, Korahitët, nga shtëpia e atit të tij, ishin #të ngarkuar me punën e shërbimit, si derëtarë të tabernakullit; etërit e tyre ishin caktuar në kampin e Zotit si derëtarë."
 "Finehasi, bir i Eleazarit, kishte qenë në të kaluarën i pari i tyre; dhe Zotit ishte me të."
 "Zakaria, bir i Meshelemiahut, ishte derëtar në hyrjen e çadrës së mbledhjeve."
-"Tërë ata që u zgjodhën si derëtarë ishin dyqind e dymbëdhjetë veta; ata ishin të regjistruar sipas gjenealogjive në fshatrat e tyre. Davidin dhe Samuelin shikuesi i kishte vendosur në zyrën e tyre."
+"Tërë ata që u zgjodhën si derëtarë ishin dyqind e dymbëdhjetë veta; ata ishin të regjistruar sipas #gjenealogjive në fshatrat e tyre. Davidin dhe Samuelin shikuesi i kishte vendosur në zyrën e tyre."
 "Ata dhe bijtë e tyre mbanin përgjegjësinë e ruajtjes së portave të shtëpisë së Zotit, domethënë të shtëpisë së tabernakullit, si derëtarë."
 "Kishte derëtarë në të katër pikat e horizontit
 "Vëllezërit e tyre, që banonin në fshatrat e tyre, duhet të vinin herë pas here për të qëndruar me ta shtatë ditë,"

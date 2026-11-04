@@ -6,7 +6,7 @@
 "Y le dijo además el SEÑOR
 "Y dijo
 "Si aconteciere, que no te creyeren, ni oyeren la voz de la primera señal, creerán a la voz de la postrera."
-"Y si aún no creyeren a estas dos señales, ni oyeren tu voz, tomarás de las aguas del río, y las derramarás en tierra; y se volverán aquellas aguas que tomarás del río, se volverán sangre en la tierra."
+"Y si aún no creyeren a estas dos señales, ni oyeren tu voz, tomarás de las aguas del río, y #las derramarás en tierra; y se volverán aquellas aguas que tomarás del río, se volverán sangre en la tierra."
 "Entonces dijo Moisés al SEÑOR
 "Y el SEÑOR le respondió
 "Ahora pues, ve, que yo seré en tu boca, y te enseñaré lo que hayas de hablar."

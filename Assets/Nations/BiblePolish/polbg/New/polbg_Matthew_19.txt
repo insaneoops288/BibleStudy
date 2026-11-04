@@ -9,7 +9,7 @@
 "Ale ja powiadam wam
 "Rzekli mu uczniowie jego
 "A on im rzekł
-"Albowiem są rzezańcy, którzy się tak z żywota matki narodzili; są też rzezańcy, którzy od ludzi są urzezani; są też rzezańcy, którzy się sami urzezali dla królestwa niebieskiego. Kto może pojąć, niechaj pojmuje!"
+"Albowiem są rzezańcy, którzy się tak z żywota matki narodzili; są też rzezańcy, którzy od ludzi są #urzezani; są też rzezańcy, którzy się sami urzezali dla królestwa niebieskiego. Kto może pojąć, niechaj pojmuje!"
 "Tedy mu przynoszono dziatki, aby na nie ręce wkładał i modlił się; ale uczniowie gromili je."
 "Lecz Jezus rzekł
 "A włożywszy na nie ręce, poszedł stamtąd."

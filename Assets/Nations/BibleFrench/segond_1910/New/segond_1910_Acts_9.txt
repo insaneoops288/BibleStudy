@@ -24,7 +24,7 @@
 "et leur complot parvint à la connaissance de Saul. On gardait les portes jour et nuit, afin de lui ôter la vie."
 "Mais, pendant une nuit, les disciples le prirent, et le descendirent par la muraille, dans une corbeille."
 "Lorsqu'il se rendit à Jérusalem, Saul tâcha de se joindre à eux; mais tous le craignaient, ne croyant pas qu'il fût un disciple."
-"Alors Barnabas, l'ayant pris avec lui, le conduisit vers les apôtres, et leur raconta comment sur le chemin Saul avait vu le Seigneur, qui lui avait parlé, et comment à Damas il avait prêché franchement au nom de Jésus."
+"Alors Barnabas, l'ayant pris avec lui, le conduisit vers les apôtres, et leur raconta comment sur le chemin Saul avait #vu le Seigneur, qui lui avait parlé, et comment à Damas il avait prêché franchement au nom de Jésus."
 "Il allait et venait avec eux dans Jérusalem,"
 "et s'exprimait en toute assurance au nom du Seigneur. Il parlait aussi et disputait avec les Hellénistes; mais ceux-ci cherchaient à lui ôter la vie."
 "Les frères, l'ayant su, l'emmenèrent à Césarée, et le firent partir pour Tarse."
@@ -36,7 +36,7 @@
 "Il y avait à Joppé, parmi les disciples, une femme nommée Tabitha, ce qui signifie Dorcas
 "Elle tomba malade en ce temps-là, et mourut. Après l'avoir lavée, on la déposa dans une chambre haute."
 "Comme Lydde est près de Joppé, les disciples, ayant appris que Pierre s'y trouvait, envoyèrent deux hommes vers lui, pour le prier de venir chez eux sans tarder."
-"Pierre se leva, et partit avec ces hommes. Lorsqu'il fut arrivé, on le conduisit dans la chambre haute. Toutes les veuves l'entourèrent en pleurant, et lui montrèrent les tuniques et les vêtements que faisait Dorcas pendant qu'elle était avec elles."
+"Pierre se leva, et partit avec ces hommes. Lorsqu'il fut arrivé, on le conduisit dans la chambre haute. Toutes les veuves #l'entourèrent en pleurant, et lui montrèrent les tuniques et les vêtements que faisait Dorcas pendant qu'elle était avec elles."
 "Pierre fit sortir tout le monde, se mit à genoux, et pria; puis, se tournant vers le corps, il dit
 "Il lui donna la main, et la fit lever. Il appela ensuite les saints et les veuves, et la leur présenta vivante."
 "Cela fut connu de tout Joppé, et beaucoup crurent au Seigneur."

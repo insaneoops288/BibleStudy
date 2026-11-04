@@ -18,7 +18,7 @@
 "Și și-au pus mâinile pe apostoli și i-au pus în închisoarea comună."
 "Dar îngerul Domnului, în timpul nopții, a deschis ușile închisorii și i-a condus afară și a spus
 "Duceți-vă, stați în picioare și vorbiți poporului în templu toate cuvintele vieții acesteia."
-"Și, când au auzit, au intrat în templu devreme dimineața și [îi ]învățau. Dar marele preot și cei cu el, au venit și au convocat consiliul și întreg sfatul bătrânilor copiilor lui Israel și au trimis la închisoare să îi aducă."
+"Și, când au auzit, au intrat în templu devreme dimineața și [îi ]învățau. Dar marele preot și cei cu el, au #venit și au convocat consiliul și întreg sfatul bătrânilor copiilor lui Israel și au trimis la închisoare să îi aducă."
 "Și când ofițerii au venit și nu i-au găsit în închisoare, s-au întors și au povestit,"
 "Spunând
 "Și când marele preot și căpetenia templului și preoții de seamă au auzit aceste cuvinte, erau nedumeriți referitor la ei până unde se va ajunge cu aceasta."
@@ -33,7 +33,7 @@
 "Când au auzit, îi tăia [la inimă] și s-au sfătuit să îi ucidă."
 "Atunci s-a sculat unul în consiliu, un fariseu, numit Gamaliel, un învățător al legii, onorat printre toți oamenii și a poruncit să îi scoată puțin afară pe apostoli."
 "Și le-a spus
-"Fiindcă înainte de aceste zile s-a sculat Teuda, lăudându-se a fi cineva, la care s-au unit un număr de bărbați, aproape patru sute. Acesta a fost ucis, și toți câți ascultau de el, au fost împrăștiați și făcuți de nimic."
+"Fiindcă înainte de aceste zile s-a sculat Teuda, lăudându-se a fi cineva, la care s-au unit un număr de bărbați, aproape #patru sute. Acesta a fost ucis, și toți câți ascultau de el, au fost împrăștiați și făcuți de nimic."
 "După acesta s-a sculat Iuda din Galileea, în zilele impozitării, și a atras mult popor după el; și el a pierit; și toți câți ascultau de el au fost risipiți."
 "Și acum vă spun
 "Dar dacă este din Dumnezeu, nu sunteți în stare să o doborâți; ca nu cumva, să vă aflați luptând chiar împotriva lui Dumnezeu."

@@ -21,6 +21,6 @@
 "Les bagues et les anneaux du nez;"
 "Les vêtements précieux et les larges tuniques, Les manteaux et les gibecières;"
 "Les miroirs et les chemises fines, Les turbans et les surtouts légers."
-"Au lieu de parfum, il y aura de l'infection; Au lieu de ceinture, une corde; Au lieu de cheveux bouclés, une tête chauve; Au lieu d'un large manteau, un sac étroit; Une marque flétrissante, au lieu de beauté."
+"Au lieu de parfum, il y aura de l'infection; Au lieu de ceinture, une corde; Au lieu de cheveux bouclés, #une tête chauve; Au lieu d'un large manteau, un sac étroit; Une marque flétrissante, au lieu de beauté."
 "Tes hommes tomberont sous le glaive, Et tes héros dans le combat."
 "Les portes de Sion gémiront et seront dans le deuil; Dépouillée, elle s'assiéra par terre."

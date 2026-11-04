@@ -22,8 +22,8 @@
 "Rama fructífera es José, rama fructífera junto a fuente, cuyos vástagos se extienden sobre el muro."
 "Y le causaron amargura, y le asaetearon, y le aborrecieron los arqueros
 "Mas su arco permaneció fuerte, y los brazos de sus manos fueron fortalecidos por las manos del [Dios] fuerte de Jacob, (De allí es el pastor, la Roca de Israel,)"
-"Por el Dios de tu padre, el cual te ayudará, y por el Omnipotente, el cual te bendecirá con bendiciones de los cielos de arriba, con bendiciones del abismo que está abajo, con bendiciones de los pechos y de la matriz."
-"Las bendiciones de tu padre prevalecieron más que las bendiciones de mis progenitores; hasta el término de los collados eternos serán sobre la cabeza de José y sobre la coronilla del que fue apartado de entre sus hermanos."
+"Por el Dios de tu padre, el cual te ayudará, y por el Omnipotente, el cual te bendecirá con bendiciones de #los cielos de arriba, con bendiciones del abismo que está abajo, con bendiciones de los pechos y de la matriz."
+"Las bendiciones de tu padre prevalecieron más que las bendiciones de mis progenitores; hasta el término de los collados eternos #serán sobre la cabeza de José y sobre la coronilla del que fue apartado de entre sus hermanos."
 "Benjamín, lobo arrebatador; a la mañana comerá la presa, y a la tarde repartirá los despojos."
 "Todos éstos fueron las doce tribus de Israel
 "Les mandó luego, y les dijo

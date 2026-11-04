@@ -26,7 +26,7 @@
 "Pastaj babai i tij Isaku i tha
 "Dhe ai u afrua dhe e puthi. Dhe Isaku ndjeu erën e rrobave të tij dhe e bekoi duke thënë
 "Perëndia të dhëntë vesën e qiellit dhe pjellorinë e tokës, si edhe bollëkun e grurit dhe të verës."
-"Të shërbefshin popujt dhe kombet u përkulshin para teje. Qofsh pronar i vëllezërve të tu dhe bijtë e nënës sate u përkulshin para teje. I mallkuar qoftë cilido të mallkon, i bekuar qoftë cilido të bekon!""."
+"Të shërbefshin popujt dhe kombet u përkulshin para teje. Qofsh pronar i vëllezërve të tu dhe bijtë e nënës #sate u përkulshin para teje. I mallkuar qoftë cilido të mallkon, i bekuar qoftë cilido të bekon!""."
 "Dhe ndodhi që, pikërisht kur Isaku kishte mbaruar së bekuari Jakobin dhe ky sapo ishte larguar nga prania e të atit Isak, vëllai i tij Esau u kthye nga gjahu."
 "Edhe ai përgatiti një gjellë të shijshme dhe ia shpuri babait të tij dhe i tha
 "Isaku, babai i tij, i tha
@@ -42,5 +42,5 @@
 "Kur i treguan Rebekës fjalët e Esaut, birit të saj më të madh, ajo dërgoi ta thërrasin birin e saj më të vogël, Jakobin, dhe i tha
 "Prandaj, biri im, bindju fjalëve që të them
 "dhe qëndro ca kohë me të, deri sa t'i kalojë zemërimi vëllait tënd,"
-"deri sa mëria e vëllait tënd të largohet prej teje dhe ai të harrojë atë që i ke bërë; atëherë do të dërgojë njerëz që të të marrin prej andej. Pse duhet t'ju humbas që të dyve brënda një dite të vetme?""."
+"deri sa mëria e vëllait tënd të largohet prej teje dhe ai të harrojë atë që i ke bërë; atëherë do të #dërgojë njerëz që të të marrin prej andej. Pse duhet t'ju humbas që të dyve brënda një dite të vetme?""."
 "Pastaj Rebeka i tha Isakut

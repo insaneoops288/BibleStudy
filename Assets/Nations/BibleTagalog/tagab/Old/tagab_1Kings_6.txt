@@ -1,4 +1,4 @@
-"At nangyari nang ikaapat na raan at walong pung taon pagkatapos na ang mga anak ni Israel ay nangakalabas sa lupain ng Egipto, nang ikaapat na taon ng paghahari ni Salomon sa Israel, nang buwan ng Ziph, na ikalawang buwan, na kaniyang pinasimulang itinayo ang bahay ng Panginoon."
+"At nangyari nang ikaapat na raan at walong pung taon pagkatapos na ang mga anak ni Israel ay nangakalabas sa lupain ng Egipto, nang ikaapat #na taon ng paghahari ni Salomon sa Israel, nang buwan ng Ziph, na ikalawang buwan, na kaniyang pinasimulang itinayo ang bahay ng Panginoon."
 "At ang bahay na itinayo ng haring Salomon ukol sa Panginoon, ang haba niyao'y anim na pung siko, at ang luwang ay dalawang pung siko, at ang taas ay tatlong pung siko."
 "At ang portiko sa harap ng templo ng bahay, may dalawang pung siko ang haba, ayon sa luwang ng bahay; at sangpung siko ang luwang niyaon sa harap ng bahay."
 "At iginawa ang bahay ng mga dungawan na may silahia."
@@ -9,10 +9,10 @@
 "Gayon itinayo niya ang bahay, at tinapos at binubungan ang bahay ng mga sikang at mga tabla ng sedro."
 "At kaniyang ginawa ang mga grado na karatig ng buong bahay, na bawa't isa'y limang siko ang taas
 "At ang salita ng Panginoon ay dumating kay Salomon, na sinasabi,"
-"Tungkol sa bahay na ito na iyong itinatayo, kung ikaw ay lalakad sa aking mga palatuntunan, at gagawin ang aking mga kahatulan, at iingatan ang lahat ng aking mga utos upang lakaran; ay akin ngang pagtitibayin ang aking salita sa iyo, na aking sinalita kay David na iyong ama."
+"Tungkol sa bahay na ito na iyong itinatayo, kung ikaw ay lalakad sa aking mga palatuntunan, at gagawin ang aking mga kahatulan, at iingatan ang #lahat ng aking mga utos upang lakaran; ay akin ngang pagtitibayin ang aking salita sa iyo, na aking sinalita kay David na iyong ama."
 "At ako'y tatahan sa gitna ng mga anak ni Israel, at hindi ko pababayaan ang aking bayang Israel."
 "Gayon itinayo ni Salomon ang bahay, at tinapos."
-"At kaniyang ginawa ang mga panig sa loob ng bahay na kahoy na sedro; mula sa lapag ng bahay hanggang sa mga panig ng kisame, na kaniyang binalot ng kahoy sa loob; at kaniyang tinakpan ang lapag ng bahay ng tabla na abeto."
+"At kaniyang ginawa ang mga panig sa loob ng bahay na kahoy na sedro; mula sa lapag ng bahay hanggang sa mga #panig ng kisame, na kaniyang binalot ng kahoy sa loob; at kaniyang tinakpan ang lapag ng bahay ng tabla na abeto."
 "At siya'y gumawa ng isang silid na dalawang pung siko sa pinakaloob ng bahay, ng tabla na sedro mula sa lapag hanggang sa mga panig sa itaas
 "At ang bahay, sa makatuwid baga'y ang templo sa harap ng sanggunian ay apat na pung siko ang haba."
 "At may mga sedro sa loob ng bahay na inukitan ng kulukuti at mga bukang bulaklak
@@ -29,7 +29,7 @@
 "At kaniyang inukitan ang lahat na panig ng bahay sa palibot ng mga ukit na larawan ng mga querubin, at ng mga puno ng palma, at ng mga bukang bulaklak, sa loob at sa labas."
 "At ang lapag ng bahay ay binalot niya ng ginto, sa loob at sa labas."
 "At sa pasukan ng sanggunian, siya'y gumawa ng mga pintuan na kahoy na olibo
-"Sa gayo'y gumawa siya ng dalawang pinto na kahoy na olibo; at kaniyang inukitan ng mga ukit na mga querubin, at mga puno ng palma, at mga bukang bulaklak, at binalot niya ng ginto; at kaniyang ikinalat ang ginto sa mga querubin, at sa mga puno ng palma,"
+"Sa gayo'y gumawa siya ng dalawang pinto na kahoy na olibo; at kaniyang inukitan ng mga ukit na mga querubin, at mga puno ng palma, #at mga bukang bulaklak, at binalot niya ng ginto; at kaniyang ikinalat ang ginto sa mga querubin, at sa mga puno ng palma,"
 "Sa gayo'y gumawa naman siya sa pasukan ng templo ng mga haligi ng pintuan na kahoy na olibo, sa ikaapat na bahagi ng panig;"
 "At dalawang pinto na kahoy na abeto; ang dalawang pohas ng isang pinto ay naititiklop, at ang dalawang pohas ng kabilang pinto ay naititiklop."
 "At kaniyang pinagukitan ng mga querubin, at mga puno ng palma, at mga bukang bulaklak; at binalot niya ng ginto na kapit sa mga ukit na gawa."

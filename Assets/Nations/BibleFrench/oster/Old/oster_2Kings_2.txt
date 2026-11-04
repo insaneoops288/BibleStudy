@@ -13,7 +13,7 @@
 "Puis il releva le manteau qu'Élie avait laissé tomber de dessus lui; et il s'en retourna, et s'arrêta sur le bord du Jourdain."
 "Et il prit le manteau qu'Élie avait laissé tomber de dessus lui; il en frappa les eaux et dit
 "Quand les fils des prophètes qui étaient à Jérico, vis-à-vis, l'eurent vu, ils dirent
-"Voici, il y a parmi tes serviteurs cinquante hommes vaillants; nous te prions qu'ils s'en aillent chercher ton maître, de peur que l'Esprit de l'Éternel, l'ayant enlevé, ne l'ait jeté dans quelque montagne ou dans quelque vallée. Et il répondit
+"Voici, il y a parmi tes serviteurs cinquante hommes vaillants; nous te prions qu'ils s'en aillent chercher ton maître, de peur #que l'Esprit de l'Éternel, l'ayant enlevé, ne l'ait jeté dans quelque montagne ou dans quelque vallée. Et il répondit
 "Mais ils le pressèrent jusqu'à l'embarrasser; il leur dit donc
 "Et ils revinrent vers Élisée, qui était demeuré à Jérico; et il leur dit
 "Et les gens de la ville dirent à Élisée

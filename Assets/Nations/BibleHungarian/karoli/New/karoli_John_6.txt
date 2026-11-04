@@ -19,7 +19,7 @@
 "Mikor azért huszonöt, vagy harmincz futamatnyira beevezének, megláták Jézust, a mint jár vala a tengeren és a hajóhoz közeledik vala
 "Õ pedig monda nékik
 "Be akarák azért õt venni a hajóba
-"Másnap a sokaság, a mely a tengeren túl állott vala, látva, hogy nem vala ott más hajó, csak az az egy, a melybe a Jézus tanítványai szállottak, és hogy Jézus nem ment be az õ tanítványaival a hajóba, hanem csak az õ tanítványai mentek el,"
+"Másnap a sokaság, a mely a tengeren túl állott vala, látva, hogy nem vala ott más hajó, csak az az egy, a melybe #a Jézus tanítványai szállottak, és hogy Jézus nem ment be az õ tanítványaival a hajóba, hanem csak az õ tanítványai mentek el,"
 "De jöttek [más] hajók Tiberiásból közel ahhoz a helyhez, a hol a kenyeret ették, miután hálákat adott az Úr
 "Mikor azért látta a sokaság, hogy sem Jézus, sem a tanítványai nincsenek ott, beszállának õk is a hajókba, és elmenének Kapernaumba, keresvén Jézust."
 "És megtalálván õt a tengeren túl, mondának néki

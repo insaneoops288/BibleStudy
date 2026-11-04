@@ -37,11 +37,11 @@
 """Aku tahu, bahwa kamu adalah keturunan Abraham, tetapi kamu berusaha untuk membunuh Aku karena firman-Ku tidak beroleh tempat di dalam kamu."
 "Apa yang Kulihat pada Bapa, itulah yang Kukatakan, dan demikian juga kamu perbuat tentang apa yang kamu dengar dari bapamu."""
 "Jawab mereka kepada-Nya
-"Tetapi yang kamu kerjakan ialah berusaha membunuh Aku; Aku, seorang yang mengatakan kebenaran kepadamu, yaitu kebenaran yang Kudengar dari Allah; pekerjaan yang demikian tidak dikerjakan oleh Abraham."
+"Tetapi yang kamu kerjakan ialah berusaha membunuh Aku; Aku, seorang yang mengatakan kebenaran kepadamu, #yaitu kebenaran yang Kudengar dari Allah; pekerjaan yang demikian tidak dikerjakan oleh Abraham."
 "Kamu mengerjakan pekerjaan bapamu sendiri."" Jawab mereka
 "Kata Yesus kepada mereka
 "Apakah sebabnya kamu tidak mengerti bahasa-Ku? Sebab kamu tidak dapat menangkap firman-Ku."
-"Iblislah yang menjadi bapamu dan kamu ingin melakukan keinginan-keinginan bapamu. Ia adalah pembunuh manusia sejak semula dan tidak hidup dalam kebenaran, sebab di dalam dia tidak ada kebenaran. Apabila ia berkata dusta, ia berkata atas kehendaknya sendiri, sebab ia adalah pendusta dan bapa segala dusta."
+"Iblislah yang menjadi bapamu dan kamu ingin melakukan keinginan-keinginan bapamu. Ia adalah pembunuh manusia sejak semula dan tidak hidup dalam kebenaran, sebab di #dalam dia tidak ada kebenaran. Apabila ia berkata dusta, ia berkata atas kehendaknya sendiri, sebab ia adalah pendusta dan bapa segala dusta."
 "Tetapi karena Aku mengatakan kebenaran kepadamu, kamu tidak percaya kepada-Ku."
 "Siapakah di antaramu yang membuktikan bahwa Aku berbuat dosa? Apabila Aku mengatakan kebenaran, mengapakah kamu tidak percaya kepada-Ku?"
 "Barangsiapa berasal dari Allah, ia mendengarkan firman Allah; itulah sebabnya kamu tidak mendengarkannya, karena kamu tidak berasal dari Allah."""

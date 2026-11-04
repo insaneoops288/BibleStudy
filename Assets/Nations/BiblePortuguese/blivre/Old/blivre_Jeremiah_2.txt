@@ -16,7 +16,7 @@
 "Até os filhos de Nofe e de Tafnes te quebraram o topo da cabeça."
 "Não foi tu mesmo que procuraste isto para ti, de abandonar ao SENHOR teu Deus, enquanto andavas pelo caminho?"
 "Ora, o que tu tens a ver com o caminho do Egito, para que bebas água do Nilo? E o que tens a ver com o caminho de Assíria, para que bebas água do rio [Eufrates] ?"
-"A tua maldade te castigará e tuas infidelidades te repreenderão; então conhece e vê como é mal e amargo teres abandonado ao SENHOR teu Deus, e não teres tido temor a mim, diz o Senhor DEUS dos exércitos."
+"A tua maldade te castigará e tuas infidelidades te repreenderão; então conhece e vê como é mal e amargo teres #abandonado ao SENHOR teu Deus, e não teres tido temor a mim, diz o Senhor DEUS dos exércitos."
 "Pois muito tempo atrás, eu quebrei teu jugo, e rompi tuas amarras, e tu disseste
 "E eu te plantei de boa vide; ela toda era semente confiável. Como, pois, te tornaste para mim ramos de vide estranha?"
 "Ainda que te laves com soda cáustica, e passes muito sabão sobre ti, teu pecado está marcado diante de mim, diz o Senhor DEUS."
@@ -25,7 +25,7 @@
 "Impede que teus pés andem descalços, e tua garganta tenha sede. Porém tu disseste
 "Tal como o ladrão se envergonha quando é pego, assim se envergonharão os da casa de Israel; eles, seus reis, seus príncipes, seus sacerdotes, e seus profetas;"
 "Que dizem à madeira
-"Onde estão os teus deuses que fizeste para ti? Eles que se levantem, se é que eles podem te livrar no tempo de tua aflição; porque, ó Judá, os teus deuses foram tantos quantos o número de tuas cidades."
+"Onde estão os teus deuses que fizeste para ti? Eles que se levantem, se é que eles podem te livrar #no tempo de tua aflição; porque, ó Judá, os teus deuses foram tantos quantos o número de tuas cidades."
 "Por que discutis comigo? Todos vós transgredistes contra mim, diz o SENHOR."
 "Em vão afligi vossos filhos; eles não aceitaram correção. Vossa [própria] espada matou vossos profetas como um leão destruidor."
 "Ó geração, considerai vós a palavra do SENHOR. Por acaso eu fui um deserto ou uma terra de escuridão a Israel? Então por que meu povo tem dito

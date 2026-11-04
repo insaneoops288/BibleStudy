@@ -4,14 +4,14 @@
 "A ludowi rozkaż mówiąc
 "Nie drażnijcież ich; albowiem nie dam wam ziemi ich, ani na stopę nogi, gdyżem w osiadłość dał Ezawowi górę Seir."
 "Żywność będziecie kupowali u nich za pieniądze, i jeść będziecie; także i wodę od nich kupować będziecie za pieniądze, i pić będziecie."
-"Albowiem ci Pan, Bóg twój, błogosławił we wszelkiej sprawie rąk twoich, i wiedział drogę twoję na tej puszczy wielkiej; już przez czterdzieści lat Pan, Bóg twój, był z tobą, nie schodziłoć na niczem."
+"Albowiem ci Pan, Bóg twój, błogosławił we wszelkiej sprawie rąk twoich, i wiedział drogę twoję na tej #puszczy wielkiej; już przez czterdzieści lat Pan, Bóg twój, był z tobą, nie schodziłoć na niczem."
 "Poszliśmy tedy od braci naszej, synów Ezawowych, mieszkających w Seir, drogą równą od Elat, i od Asyjongaber, a nawróciwszy się udaliśmy się drogą ku puszczy Moabskiej."
 "I rzekł Pan do mnie
 "(Emitowie pierwej mieszkali w niej, lud potężny i wielki, i wysokiego wzrostu, jako Enakimowie;"
 "Które też za olbrzymy miano, jako Enakimy, a Moabczykowie zwali je Emim."
 "Także w Seir mieszkali Horejczycy przedtem, które synowie Ezawowi wygnali, i wygładzili je przed sobą, a mieszkali na miejscu ich, jako uczynił Izrael w ziemi osiadłości swojej, którą im dał Pan.)"
 "Wstańcież tedy, a przeprawcie się przez potok Zared; i przeprawiliśmy się przez potok Zared."
-"A czasu, któregośmy chodzili od Kades Barne, ażeśmy się przeprawili przez potok Zared, było trzydzieści i osiem lat, aż wyginął wszystek on naród mężów walecznych z obozu, jako im był przysiągł Pan."
+"A czasu, któregośmy chodzili od Kades Barne, ażeśmy się przeprawili przez potok Zared, było trzydzieści i osiem #lat, aż wyginął wszystek on naród mężów walecznych z obozu, jako im był przysiągł Pan."
 "Albowiem ręka Pańska była przeciwko nim na wytracenie ich z obozu, aż ich wygubiła."
 "I stało się, gdy wyginęli wszyscy mężowie waleczni, i pomarli z pośrodku ludu,"
 "Że rzekł Pan do mnie, mówiąc

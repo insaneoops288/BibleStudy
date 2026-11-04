@@ -10,7 +10,7 @@
 "Ben-Hesed in Arubboth
 "Ben-Abinadab hatte das ganze Hügelgebiet von Dor; Taphath, die Tochter Salomos, war sein Weib."
 "Baana, der Sohn Ahiluds, hatte Taanak und Megiddo und ganz Beth-Schean, das neben Zarethan liegt, unterhalb Jisreel, von Beth-Schean bis Abel-Mehola, bis jenseits Jokmeam."
-"Ben-Geber in Ramoth-Gilead; er hatte die Dörfer Jairs, des Sohnes Manasses, die in Gilead sind; er hatte den Landstrich Argob, der in Basan ist, sechzig große Städte mit Mauern und ehernen Riegeln."
+"Ben-Geber in Ramoth-Gilead; er hatte die Dörfer Jairs, des Sohnes Manasses, die in Gilead sind; er hatte #den Landstrich Argob, der in Basan ist, sechzig große Städte mit Mauern und ehernen Riegeln."
 "Achinadab, der Sohn Iddos, in Machanaim;"
 "Achimaaz in Naphtali; auch er hatte Basmath, die Tochter Salomos, zum Weibe genommen;"
 "Baana, der Sohn Husais, in Aser und Bealoth;"
@@ -30,5 +30,5 @@
 "Und die Weisheit Salomos war größer als die Weisheit aller Söhne des Ostens und als alle WeisheitÄgyptens."
 "Und er war weiser als alle Menschen, als Ethan, der Esrachiter, und Heman und Kalkol und Darda, die Söhne Machols. Und sein Name war unter allen Nationen ringsum."
 "Und er redete dreitausend Sprüche, und seiner Lieder waren tausendundfünf."
-"Und er redeteüber die Bäume, von der Zeder, die auf dem Libanon ist, bis zum Ysop, der an der Mauer herauswächst; und er redeteüber das Vieh undüber die Vögel undüber das Gewürm undüber die Fische."
+"Und er redeteüber die Bäume, von der Zeder, die auf dem Libanon ist, bis zum Ysop, der an #der Mauer herauswächst; und er redeteüber das Vieh undüber die Vögel undüber das Gewürm undüber die Fische."
 "Und man kam aus allen Völkern, um die Weisheit Salomos zu hören, von allen Königen der Erde her, die von seiner Weisheit gehört hatten."

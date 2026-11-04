@@ -3,7 +3,7 @@
 "A když přišel David a muži jeho k městu, aj, vypáleno bylo ohněm, a ženy jejich, též synové a dcery jejich zajati byli."
 "Tedy David i lid jeho, kterýž s ním byl, pozdvihše hlasu svého, plakali, až již více plakati nemohli."
 "Obě také manželky Davidovy zajaty jsou, Achinoam Jezreelitská, a Abigail žena někdy Nábale Karmelského."
-"I ssoužen jest David náramně, nebo se smlouval lid, aby ho ukamenovali, (hořkostí zajisté naplněna byla duše všeho lidu, jednoho každého pro syny jeho a pro dcery jeho). Však posilnil se David v Hospodinu Bohu svém."
+"I ssoužen jest David náramně, nebo se smlouval lid, aby ho ukamenovali, (hořkostí zajisté naplněna byla duše všeho lidu, #jednoho každého pro syny jeho a pro dcery jeho). Však posilnil se David v Hospodinu Bohu svém."
 "I řekl David Abiatarovi knězi, synu Achimelechovu
 "Tázal se pak David Hospodina, řka
 "A tak odšed David sám i těch šest set mužů, kteříž byli s ním, přišli až ku potoku Bezor; někteří pak tu pozůstali."
@@ -18,7 +18,7 @@
 "A tak odjal David všecko, což byli pobrali Amalechitští; také obě ženy své vysvobodil David."
 "A nezhynulo jim nic, ani malého ani velikého, i z synů i ze dcer, i z loupeže a ze všeho, což jim vzato bylo; všecko zase David přivedl."
 "Nadto szajímal David všecka stáda bravů i skotů, kteráž hnali před dobytkem svým, a pravili
-"Přišel pak David k těm dvěma stům mužů, kteříž byli ustali, tak že nemohli jíti za Davidem, jimž byli kázali zůstati při potoku Bezor; tedy vyšli vstříc Davidovi a lidu, kterýž byl s ním. A přistoupiv David k tomu lidu, pozdravil jich přátelsky."
+"Přišel pak David k těm dvěma stům mužů, kteříž byli ustali, tak že nemohli jíti za Davidem, jimž byli kázali zůstati při #potoku Bezor; tedy vyšli vstříc Davidovi a lidu, kterýž byl s ním. A přistoupiv David k tomu lidu, pozdravil jich přátelsky."
 "Ale všickni, což jich koli bylo zlých a bezbožných mezi těmi muži, kteříž chodili s Davidem, mluvili, řkouce
 "David pak řekl
 "A kdož vás uposlechne v té věci? Nebo jakýž bude díl toho, kterýž vyšel k bitvě, takovýž bude díl i toho, kterýž hlídal břemen; rovně se děliti budou."

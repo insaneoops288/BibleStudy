@@ -15,4 +15,4 @@
 "Haragnak napja az a nap, szorongatásnak és nyomorúságnak napja; pusztításnak és pusztulásnak napja; sötétségnek és homálynak napja; felhõnek és borúnak napja."
 "Kürtnek és tárogatónak napja a megerõsített városok ellen és a büszke tornyok ellen!"
 "És megszorongatom az embereket és járnak, mint a vakok, mert vétkeztek az Úr ellen, és kiontatik vérök, mint a por, és testök, mint szemét."
-"Sem ezüstjök, sem aranyuk nem szabadíthatja meg õket az Úr haragjának napján, és az õ féltõ szeretetének tüze megemészti az egész földet; mert véget vet, bizony hirtelen vet véget e föld minden lakosának."
+"Sem ezüstjök, sem aranyuk nem szabadíthatja meg õket az Úr haragjának napján, és az õ féltõ szeretetének #tüze megemészti az egész földet; mert véget vet, bizony hirtelen vet véget e föld minden lakosának."

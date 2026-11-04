@@ -14,7 +14,7 @@
 "Entonces Pedro, poniéndose en pie con los once, alzó su voz, y les habló diciendo
 "Porque éstos no están borrachos, como vosotros pensáis, siendo la hora tercia del día;"
 "mas esto es lo que fue dicho por el profeta Joel
-"Y será en los postreros días, dice Dios, derramaré de mi Espíritu sobre toda carne, y vuestros hijos y vuestras hijas profetizarán; y vuestros jóvenes verán visiones, y vuestros viejos soñarán sueños."
+"Y será en los postreros días, dice Dios, derramaré de mi Espíritu sobre toda carne, y vuestros #hijos y vuestras hijas profetizarán; y vuestros jóvenes verán visiones, y vuestros viejos soñarán sueños."
 "Y <I>de</I>  cierto sobre mis siervos y sobre mis siervas en aquellos días, derramaré de mi Espíritu, y profetizarán."
 "Y daré prodigios arriba en el cielo, y señales abajo en la tierra, sangre y fuego y vapor de humo;"
 "El sol se volverá en tinieblas, y la luna en sangre, antes que venga el día del Señor, Grande y manifiesto;"

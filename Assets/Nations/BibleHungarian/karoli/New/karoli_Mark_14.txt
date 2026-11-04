@@ -1,6 +1,6 @@
 "Két nap mulva pedig húsvét vala és a kovásztalan kenyerek ünnepe. És a fõpapok és az írástudók tanakodnak vala, hogy csalárdsággal mimódon fogják meg és öljék meg õt."
 "Mert azt mondják vala
-"Mikor pedig Bethániában a poklos Simon házánál vala, a mint asztalhoz üle, egy asszony méne oda, a kinél alabástrom edény vala valódi és igen drága nárdus olajjal; és eltörvén az alabástrom edényt kitölté [azt] az õ fejére."
+"Mikor pedig Bethániában a poklos Simon házánál vala, a mint asztalhoz üle, egy asszony méne oda, a kinél alabástrom #edény vala valódi és igen drága nárdus olajjal; és eltörvén az alabástrom edényt kitölté [azt] az õ fejére."
 "Némelyek pedig háborognak vala magok között és mondának
 "Mert el lehetett volna azt adni háromszáz pénznél is többért, és odaadni a szegényeknek. És zúgolódnak vala ellene."
 "Jézus pedig monda

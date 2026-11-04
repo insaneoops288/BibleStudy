@@ -4,7 +4,7 @@ And his soul was drawn to Dinah the daughter of Jacob. He loved the young woman 
 So Shechem spoke to his father Hamor, saying, Get me this girl for my wife.
 Now Jacob heard that he had defiled his daughter Dinah. But his sons were with his livestock in the field, so Jacob held his peace until they came.
 And Hamor the father of Shechem went out to Jacob to speak with him.
-The sons of Jacob had come in from the field as soon as they heard of it, and the men were indignant and very angry, because he had done an outrageous thing in Israel by lying with Jacob’s daughter, for such a thing must not be done.
+The sons of Jacob had come in from the field as soon as they heard of it, and the men were indignant and very #angry, because he had done an outrageous thing in Israel by lying with Jacob’s daughter, for such a thing must not be done.
 But Hamor spoke with them, saying, The soul of my son Shechem longs for your daughter. Please give her to him to be his wife.
 Make marriages with us. Give your daughters to us, and take our daughters for yourselves.
 You shall dwell with us, and the land shall be open to you. Dwell and trade in it, and get property in it.
@@ -27,5 +27,5 @@ They killed Hamor and his son Shechem with the sword and took Dinah out of Shech
 The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister.
 They took their flocks and their herds, their donkeys, and whatever was in the city and in the field.
 All their wealth, all their little ones and their wives, all that was in the houses, they captured and plundered.
-Then Jacob said to Simeon and Levi, You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household.
+Then Jacob said to Simeon and Levi, You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and #the Perizzites. My numbers are few, and if they gather themselves against me and attack me, I shall be destroyed, both I and my household.
 But they said, Should he treat our sister like a prostitute?

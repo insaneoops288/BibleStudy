@@ -22,6 +22,6 @@
 "Mas sed hacedores de la palabra, y no tan solamente oidores, engañándoos á vosotros mismos."
 "Porque si alguno oye la palabra, y no la pone por obra, este tal es semejante al hombre que considera en un espejo su rostro natural."
 "Porque él se consideró á sí mismo, y se fué, y luego se olvidó qué tal era."
-"Mas el que hubiere mirado atentamente en la perfecta ley, que es la de la libertad, y perseverado en ella, no siendo oidor olvidadizo, sino hacedor de la obra, este tal será bienaventurado en su hecho."
+"Mas el que hubiere mirado atentamente en la perfecta ley, que es la de la libertad, y perseverado en #ella, no siendo oidor olvidadizo, sino hacedor de la obra, este tal será bienaventurado en su hecho."
 "Si alguno piensa ser religioso entre vosotros, y no refrena su lengua, sino engañando su corazón, la religión del tal es vana."
 "La religión pura y sin mácula delante de Dios y Padre es esta

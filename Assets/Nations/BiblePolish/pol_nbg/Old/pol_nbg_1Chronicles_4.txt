@@ -38,6 +38,6 @@
 "ci sławnizostali ustanowieni książętami w swych rodach, a domy ich ojców bardzo się rozmnożyły."
 "Dlatego się ruszyli, aby pójść do Gedor, aż na wschód doliny, by szukać paszy dla swego bydła."
 "Więc znaleźli obfite, wyborne pastwiska, a ziemię przestronną, spokojną i urodzajną; gdyż przedtem mieszkał tam ród Chamitów."
-"Ci, wypisani z imienia, przyszli za dni judzkiego króla Chiskjasza, zniszczyli ich namioty i siedliska, które tam znaleźli, a ich wymordowali aż do tego dnia, po czym osiedlili się na ich miejsce; bowiem tam była pasza dla bydła."
+"Ci, wypisani z imienia, przyszli za dni judzkiego króla Chiskjasza, zniszczyli ich namioty i siedliska, które tam znaleźli, a ich #wymordowali aż do tego dnia, po czym osiedlili się na ich miejsce; bowiem tam była pasza dla bydła."
 "Zaś z owych potomków Szymeona, pięciuset mężów poszło na górę Seir, z przywódcami
 "Potem wymordowali resztki, które uszły z Amalekitów i zamieszkali tam aż do dzisiejszego dnia."

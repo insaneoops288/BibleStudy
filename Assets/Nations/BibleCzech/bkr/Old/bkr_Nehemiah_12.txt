@@ -24,7 +24,7 @@
 "Potom přední Levítové
 "Mataniáš, Bakbukiáš, Abdiáš, Mesullam, Talmon, Akkub, držící stráž vrátných při domu pokladů u bran."
 "Ti byli za času Joiakima , syna Jesua, syna Jozadakova, a za času Nehemiáše vůdce, a Ezdráše kněze a učitele."
-"Ku posvěcování pak zdí Jeruzalémských shlédávali Levíty ze všech míst jejich, aby je přivedli do Jeruzaléma, aby vykonali posvěcení a veselí, a to s oslavováním a zpěvy, cymbály, loutnami a harfami."
+"Ku posvěcování pak zdí Jeruzalémských shlédávali Levíty ze všech míst jejich, aby je přivedli do Jeruzaléma, #aby vykonali posvěcení a veselí, a to s oslavováním a zpěvy, cymbály, loutnami a harfami."
 "Protož shromážděni jsou synové zpěváků, i z rovin okolo Jeruzaléma, i ze vsí Netofatských,"
 "Též z domu Galgal, a z polí Gaba i Azmavet; nebo vsi stavěli sobě zpěváci okolo Jeruzaléma."
 "A očistivše se kněží a Levítové, očistili také lid, brány i zed."
@@ -41,7 +41,7 @@
 "Ano i kněží
 "A Maaseiáš, Semaiáš, Eleazar, Uzi, Jochanan, Malkiáš, Elam a Ezer. Zpěváci pak zvučně zpívali s Izrachiášem představeným svým."
 "Obětovali také v ten den oběti veliké, a veselili se; nebo Bůh obveselil je veselím velikým. Ano i ženy a děti veselily se, tak že bylo slyšáno veselí Jeruzaléma opodál."
-"Mezi tím zřízeni jsou v ten den muži nad komorami k pokladům a k obětem, i k prvotinám a k desátkům, aby shromažďovali do nich s polí městských díly, zákonem vyměřené kněžím a Levítům; nebo veselil se Juda z kněží a Levítů přístojících,"
+"Mezi tím zřízeni jsou v ten den muži nad komorami k pokladům a k obětem, i k prvotinám a k desátkům, aby #shromažďovali do nich s polí městských díly, zákonem vyměřené kněžím a Levítům; nebo veselil se Juda z kněží a Levítů přístojících,"
 "Kteříž držeti měli stráž Boha svého, a stráž očišťování, a zpěváků i vrátných, podlé nařízení Davidova a Šalomouna syna jeho."
 "Nebo za času Davidova a Azafova od starodávna přední zpěváci k zpívání, chválení a oslavování Boha stáli před ním."
 "Pročež všecken Izrael za dnů Zorobábele a za času Nehemiáše dávali díly pro zpěváky a vrátné, na každý den stálé odměření, a odvodili je Levítům, Levítové pak dávali synům Aronovým."

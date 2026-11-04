@@ -10,7 +10,7 @@
 "Dhe mos u ankoni, ashtu si u ankuan disa nga ata, dhe u vranë nga shkatërruesi."
 "Dhe të gjitha këto gjëra u ndodhën atyre si shëmbull, dhe janë shkruar për paralajmërimin tonë, për ne që jemi në mbarim të epokët."
 "Prandaj ai që mendon se qëndron më këmbë, le të shohë se mos bjerë."
-"Asnjë tundim nuk ju ka gjetur juve, përveç se tundimi njerëzor; por Perëndia është besnik dhe nuk do të lejojë që t'ju tundojnë përtej fuqive tuaja, por me tundimin do t'ju japë dhe rrugë dalje, që ju të mund ta përballoni."
+"Asnjë tundim nuk ju ka gjetur juve, përveç se tundimi njerëzor; por Perëndia është besnik dhe nuk do të lejojë që #t'ju tundojnë përtej fuqive tuaja, por me tundimin do t'ju japë dhe rrugë dalje, që ju të mund ta përballoni."
 "Prandaj, të dashurit e mi, largohuni nga idhujtaria."
 "Po ju flas si të mënçur, gjykojeni ju atë që them
 "kupa e bekimit, që ne bekojmë, a nuk është vallë pjesëmarrje në gjakun e Krishtit? Buka që ne thyejmë, a nuk është vallë pjesëmarrje në trupin e Krishtit?"

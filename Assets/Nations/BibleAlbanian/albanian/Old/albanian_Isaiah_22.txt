@@ -8,7 +8,7 @@
 "Pastaj ai hoqi mbrojtjen e Judës dhe po atë ditë ti e hodhe shikimin mbi arsenalin e pallatit të Pyllit."
 "Keni parë gjithashtu sa të shumta ishin të çarat në muret e qytetit të Davidit, dhe keni mbledhur ujërat e hauzit të poshtëm."
 "Keni numëruar shtëpitë e Jeruzalemit dhe keni shembur shtëpi për të fortifikuar muret."
-"Përveç kësaj keni ndërtuar një rezervuar midis dy mureve për ujërat e hauzit të vjetër, por nuk keni parë se kush e ka bërë këtë, as nuk keni marrë parasysh kush e ka menduar këtë prej një kohe të gjatë."
+"Përveç kësaj keni ndërtuar një rezervuar midis dy mureve për ujërat e hauzit të vjetër, por nuk keni parë se kush #e ka bërë këtë, as nuk keni marrë parasysh kush e ka menduar këtë prej një kohe të gjatë."
 "Atë ditë Zoti, Zoti i ushtrive, ju thirri që të qani, të mbani zi, të rruani kokën dhe të mbështilleni me thasë."
 "Po përkundrazi ja, gëzim dhe hare, priten qe dhe theren dele, hahet mish dhe pihet verë. ""Të hamë dhe të pimë, se nesër do të vdesim!""."
 "Por Zoti i ushtrive u ka thënë veshëve të mi

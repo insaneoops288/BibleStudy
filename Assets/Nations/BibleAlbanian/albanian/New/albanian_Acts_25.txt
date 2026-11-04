@@ -8,7 +8,7 @@
 "Në mbrojtje të vet Pali thoshte
 "Por Festi, duke dashur t'u bëjë qejfin Judenjve, iu përgjigj Palit e tha
 "Atëherë Pali tha
-"Në qoftë se kam vepruar keq ose kam kryer diçka që meriton vdekjen, nuk refuzoj që të vdes; por nëse s'ka asgjë të vërtetë në gjërat për të cilat këta më akuzojnë, askush nuk mund të më dorëzojë në duart e tyre. Unë i apelohem Cezarit''."
+"Në qoftë se kam vepruar keq ose kam kryer diçka që meriton vdekjen, nuk refuzoj që të vdes; por nëse s'ka asgjë të vërtetë #në gjërat për të cilat këta më akuzojnë, askush nuk mund të më dorëzojë në duart e tyre. Unë i apelohem Cezarit''."
 "Atëherë Festi, pasi e bisedoi me këshillin, u përgjigj
 "Pas disa ditësh mbreti Agripa dhe Berenike erdhën në Cezare për të përshëndetur Festin."
 "Dhe, mbasi ata ndenjën disa ditë, Festi ia parashtroi çështjen e Palit mbretit, duke thënë

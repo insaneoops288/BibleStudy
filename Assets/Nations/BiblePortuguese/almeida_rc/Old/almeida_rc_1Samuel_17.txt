@@ -17,10 +17,10 @@
 "E disse Jessé a David, seu filho
 "Porém estes dez queijos de leite leva ao chefe de mil; e visitarás teus irmãos, a ver se lhes vai bem; e tomarás o seu penhor."
 "E estavam Saul, e eles, e todos os homens de Israel no vale do Carvalho, pelejando com os filisteus."
-"David, então, se levantou pela manhã, bem cedo, e deixou as ovelhas a um guarda, e carregou-se, e partiu, como Jessé lhe ordenara; e chegou ao lugar dos carros, quando já o arraial saía em ordem de batalha, e, a gritos, chamavam à peleja."
+"David, então, se levantou pela manhã, bem cedo, e deixou as ovelhas a um guarda, e carregou-se, e partiu, como Jessé lhe ordenara; #e chegou ao lugar dos carros, quando já o arraial saía em ordem de batalha, e, a gritos, chamavam à peleja."
 "E os israelitas e filisteus se puseram em ordem, fileira contra fileira."
 "E David deixou a carga que trouxera na mão do guarda da bagagem e correu à batalha; e, chegando, perguntou a seus irmãos se estavam bem."
-"E, estando ele ainda falando com eles, eis que vinha subindo do exército dos filisteus o homem guerreiro, cujo nome era Golias, o filisteu de Gate, e falou conforme aquelas palavras, e David as ouviu."
+"E, estando ele ainda falando com eles, eis que vinha subindo do exército dos filisteus o homem guerreiro, #cujo nome era Golias, o filisteu de Gate, e falou conforme aquelas palavras, e David as ouviu."
 "Porém todos os homens de Israel, vendo aquele homem, fugiam de diante dele, e temiam grandemente,"
 "e diziam os homens de Israel
 "Então, falou David aos homens que estavam com ele, dizendo
@@ -43,13 +43,13 @@
 "Disse, pois, o filisteu a David
 "Disse mais o filisteu a David
 "David, porém, disse ao filisteu
-"Hoje mesmo o SENHOR te entregará na minha mão; e ferir-te-ei, e te tirarei a cabeça, e os corpos do arraial dos filisteus darei hoje mesmo às aves do céu e às bestas da terra; e toda a terra saberá que há Deus em Israel."
+"Hoje mesmo o SENHOR te entregará na minha mão; e ferir-te-ei, e te tirarei a cabeça, e os corpos do arraial dos filisteus #darei hoje mesmo às aves do céu e às bestas da terra; e toda a terra saberá que há Deus em Israel."
 "E saberá toda esta congregação que o SENHOR salva, não com espada, nem com lança; porque do SENHOR é a guerra, e ele vos entregará na nossa mão."
 "E sucedeu que, levantando-se o filisteu e indo encontrar-se com David, apressou-se David e correu ao combate, a encontrar-se com o filisteu."
 "E David meteu a mão no alforje, e tomou dali uma pedra, e com a funda lha atirou, e feriu o filisteu na testa; e a pedra se lhe cravou na testa, e caiu sobre o seu rosto em terra."
 "Assim, David prevaleceu contra o filisteu, com uma funda e com uma pedra, e feriu o filisteu, e o matou sem que David tivesse uma espada na mão."
-"Pelo que correu David, e pôs-se em pé sobre o filisteu, e tomou a sua espada, e tirou-a da bainha; e o matou e lhe cortou com ela a cabeça; vendo, então, os filisteus que o seu campeão era morto, fugiram."
-"Então, os homens de Israel e Judá se levantaram, e jubilaram, e seguiram os filisteus, até chegar ao vale e até às portas de Ecrom; e caíram os feridos dos filisteus pelo caminho, de Saaraim até Gate e até Ecrom."
+"Pelo que correu David, e pôs-se em pé sobre o filisteu, e tomou a sua espada, e tirou-a da bainha; e #o matou e lhe cortou com ela a cabeça; vendo, então, os filisteus que o seu campeão era morto, fugiram."
+"Então, os homens de Israel e Judá se levantaram, e jubilaram, e seguiram os filisteus, até chegar ao vale e até #às portas de Ecrom; e caíram os feridos dos filisteus pelo caminho, de Saaraim até Gate e até Ecrom."
 "Então, voltaram os filhos de Israel de perseguirem os filisteus e despojaram os seus arraiais."
 "E David tomou a cabeça do filisteu e a trouxe a Jerusalém; porém pôs as armas dele na sua tenda."
 "Vendo, porém, Saul sair David a encontrar-se com o filisteu, disse a Abner, o chefe do exército

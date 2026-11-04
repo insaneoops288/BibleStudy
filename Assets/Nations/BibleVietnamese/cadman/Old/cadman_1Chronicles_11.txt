@@ -1,6 +1,6 @@
 "Lúc ấy, cả Y-sơ-ra-ên đều nhóm đến cùng Ða-vít tại Hếp-rôn, mà nói rằng
 "Khi trước dầu Sau-lơ còn cai trị chúng tôi, thì ông đã dẫn dân Y-sơ-ra-ên vào ra; và Giê-hô-va Ðức Chúa Trời của ông có phán cùng ông rằng
-"Ấy vậy, các trưởng lão Y-sơ-ra-ên đến cùng vua ở Hếp-rôn; Ða-vít bèn lập giao ước với chúng tại Hếp-rôn trước mặt Ðức Giê-hô-va; đoạn, chúng xức dầu cho Ða-vít làm vua trên Y-sơ-ra-ên, y như lời của Ðức Giê-hô-va đã cậy Sa-mu-ên phán ra vậy."
+"Ấy vậy, các trưởng lão Y-sơ-ra-ên đến cùng vua ở Hếp-rôn; Ða-vít bèn lập giao ước với chúng tại Hếp-rôn trước mặt Ðức Giê-hô-va; #đoạn, chúng xức dầu cho Ða-vít làm vua trên Y-sơ-ra-ên, y như lời của Ðức Giê-hô-va đã cậy Sa-mu-ên phán ra vậy."
 "Ða-vít và cả dân Y-sơ-ra-ên đi lên thành Giê-ru-sa-lem, ấy là Giê-bu; ở đó có người Giê-bu-sít, là dân của xứ."
 "Dân cư Giê-bu nói cùng Ða-vít rằng
 "Ða-vít nói rằng
@@ -19,8 +19,8 @@
 "mà nói rằng
 "Lại có A-bi-sai, em của Giô-áp, làm đầu trong ba người mạnh dạn; người dùng giáo mình giết ba trăm người, nên nổi danh tiếng trong ba người ấy."
 "Trong ba người mạnh dạn ấy, người sang trọng hơn, được làm trưởng của họ, song chẳng bằng ba người trước."
-"Lại có Bê-na-gia, con trai Giê-hô-gia-đa ở Cáp-xê-ên, là một người mạnh dạn đã làm nhiều công việc cả thể; người đã giết hai người Mô-áp mạnh bạo hơn hết; trong kỳ sa tuyết, người xuống một cái hố giết một con sư tử."
-"Ngài cũng đánh giết một người Ê-díp-tô cao năm thước; người Ê-díp-tô cầm nơi tay cây giáo lớn bằng trục máy dệt, còn Bê-na-gia xuống đón người, cầm một cây gậy, rút lấy giáo khỏi tay người Ê-díp-tô, dùng giáo nó mà giết nó."
+"Lại có Bê-na-gia, con trai Giê-hô-gia-đa ở Cáp-xê-ên, là một người mạnh dạn đã làm nhiều công việc cả thể; người đã giết #hai người Mô-áp mạnh bạo hơn hết; trong kỳ sa tuyết, người xuống một cái hố giết một con sư tử."
+"Ngài cũng đánh giết một người Ê-díp-tô cao năm thước; người Ê-díp-tô cầm nơi tay cây giáo lớn bằng trục máy dệt, còn #Bê-na-gia xuống đón người, cầm một cây gậy, rút lấy giáo khỏi tay người Ê-díp-tô, dùng giáo nó mà giết nó."
 "Ấy là công việc Bê-na-gia, con trai Giê-hô-gia-đa, đã làm, được nổi danh tiếng trong ba người mạnh dạn."
 "Trong ba mươi người mạnh dạn, người được sang trọng hơn hết, song chẳng bằng ba người trước. Ða-vít nhận người vào bàn mật nghị mình."
 "Lại có các người mạnh dạn trong đội binh, là

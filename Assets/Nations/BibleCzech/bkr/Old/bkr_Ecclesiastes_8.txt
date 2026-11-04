@@ -12,6 +12,6 @@
 "A ačkoli hříšník činí zle na stokrát, a vždy se mu odkládá, já však vím, že dobře bude bojícím se Boha, kteříž se bojí oblíčeje jeho."
 "S bezbožným pak nedobře se díti bude, aniž se prodlí dnové jeho; minou jako stín, proto že jest bez bázně před oblíčejem Božím."
 "Jest marnost, kteráž se děje na zemi
-"A tak chválil jsem veselí, proto že nic nemá lepšího člověk pod sluncem, jediné aby jedl a pil, a veselil se, a že to pozůstává jemu z práce jeho ve dnech života jeho, kteréž dal jemu Bůh pod sluncem."
+"A tak chválil jsem veselí, proto že nic nemá lepšího člověk pod sluncem, jediné aby jedl a pil, a veselil #se, a že to pozůstává jemu z práce jeho ve dnech života jeho, kteréž dal jemu Bůh pod sluncem."
 "A ač jsem se vydal srdcem svým na to, abych moudrost vystihnouti mohl, a vyrozuměti bídě, kteráž bývá na zemi, pro kterouž ani ve dne ani v noci nespí,"
-"A však viděl jsem při každém skutku Božím, že nemůže člověk vystihnouti skutku dějícího se pod sluncem. O čež pracuje člověk, vyhledati chtěje, ale nenalézá; nýbrž byť i myslil moudrý, že se doví, nebude moci nic najíti."
+"A však viděl jsem při každém skutku Božím, že nemůže člověk vystihnouti skutku dějícího se pod sluncem. O čež #pracuje člověk, vyhledati chtěje, ale nenalézá; nýbrž byť i myslil moudrý, že se doví, nebude moci nic najíti."

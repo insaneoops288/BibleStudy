@@ -8,7 +8,7 @@
 "Si le larron ne se trouve point, le maître de la maison sera amené devant Dieu, pour jurer s'il n'a point mis la main sur le bien de son prochain."
 "Dans toute affaire où il y a prévarication, pour un bœuf, pour un âne, pour un agneau, pour un vêtement, pour tout objet perdu, dont on dira
 "Si quelqu'un donne à garder à son prochain un âne ou un bœuf, ou un agneau, ou quelque bête que ce soit, et qu'elle meure, ou se casse quelque membre, ou soit emmenée sans que personne le voie,"
-"Le serment de l'Éternel interviendra entre les deux parties, pour savoir s'il n'a point mis la main sur le bien de son prochain; le maître de la bête acceptera le serment, et l'autre ne fera pas restitution."
+"Le serment de l'Éternel interviendra entre les deux parties, pour savoir s'il n'a point mis la main sur le #bien de son prochain; le maître de la bête acceptera le serment, et l'autre ne fera pas restitution."
 "Mais si elle lui a été dérobée, il la rendra à son maître."
 "Si elle a été déchirée par les bêtes sauvages, il l'apportera en preuve; il ne rendra point ce qui a été déchiré."
 "Si quelqu'un emprunte de son prochain une bête, et qu'elle se casse quelque membre, ou qu'elle meure, son maître n'étant point avec elle, il en fera la restitution."

@@ -1,6 +1,6 @@
 "I přebývala knížata lidu v Jeruzalémě. Jiný pak lid metali losy, aby vzali desátého člověka k bydlení v Jeruzalémě městě svatém, ale devět dílů v jiných městech,"
 "Ačkoli dobrořečil lid všechněm mužům těm, kteříž se sami dobrovolně podali k bydlení v Jeruzalémě."
-"A tito jsou přednější té krajiny, kteříž se osadili v Jeruzalémě. (V jiných pak městech Judských bydlili jeden každý v vládařství svém, po městech svých, lid Izraelský, kněží a Levítové, i Netinejští, též i synové služebníků Šalomounových.)"
+"A tito jsou přednější té krajiny, kteříž se osadili v Jeruzalémě. (V jiných pak městech Judských bydlili jeden každý #v vládařství svém, po městech svých, lid Izraelský, kněží a Levítové, i Netinejští, též i synové služebníků Šalomounových.)"
 "A tak v Jeruzalémě bydlili někteří z synů Judových i z synů Beniaminových. Z Judových
 "Též Maaseiáš syn Bárucha, syna Kolchozy, syna Chazaiášova, syna Adaiášova, syna Joiaribova, syna Zachariášova, syna Silonského."
 "Všech synů Fáresových, bydlících v Jeruzalémě, čtyři sta šedesáte osm, mužů udatných."

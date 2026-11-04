@@ -3,7 +3,7 @@
 "Dar despre rodul pomului care [este] în mijlocul grădinii, Dumnezeu a spus
 "Şi şarpele a spus femeii
 "Fiindcă Dumnezeu ştie că în ziua în care voi mâncaţi din acesta, atunci ochii voştri vor fi deschişi şi veţi fi ca dumnezei, cunoscând binele şi răul."
-"Şi când femeia a văzut că pomul [era] bun pentru mâncare şi că [era] plăcut ochilor şi un pom de dorit să facă pe [cineva] înţelept, ea a luat din rodul lui şi a mâncat şi a dat de asemenea soţului ei [care era] cu ea şi a mâncat [şi] el."
+"Şi când femeia a văzut că pomul [era] bun pentru mâncare şi că [era] plăcut ochilor şi un pom de dorit să facă pe [cineva] înţelept, #ea a luat din rodul lui şi a mâncat şi a dat de asemenea soţului ei [care era] cu ea şi a mâncat [şi] el."
 "Şi li s-au deschis ochii la amândoi şi au ştiut că [erau] goi; şi au cusut frunze de smochin laolaltă şi şi-au făcut şorţuri."
 "Şi au auzit vocea DOMNULUI Dumnezeu umblând în grădină în răcoarea zilei; şi Adam şi soţia lui s-au ascuns de prezența DOMNULUI Dumnezeu, printre pomii grădinii."
 "Şi DOMNUL Dumnezeu l-a chemat pe Adam şi i-a spus

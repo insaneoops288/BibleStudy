@@ -1,7 +1,7 @@
 "Pada suatu kali serombongan orang Farisi dan beberapa ahli Taurat dari Yerusalem datang menemui Yesus."
 "Mereka melihat, bahwa beberapa orang murid-Nya makan dengan tangan najis, yaitu dengan tangan yang tidak dibasuh."
 "Sebab orang-orang Farisi seperti orang-orang Yahudi lainnya tidak makan kalau tidak melakukan pembasuhan tangan lebih dulu, karena mereka berpegang pada adat istiadat nenek moyang mereka;"
-"dan kalau pulang dari pasar mereka juga tidak makan kalau tidak lebih dahulu membersihkan dirinya. Banyak warisan lain lagi yang mereka pegang, umpamanya hal mencuci cawan, kendi dan perkakas-perkakas tembaga."
+"dan kalau pulang dari pasar mereka juga tidak makan kalau tidak lebih dahulu membersihkan dirinya. Banyak #warisan lain lagi yang mereka pegang, umpamanya hal mencuci cawan, kendi dan perkakas-perkakas tembaga."
 "Karena itu orang-orang Farisi dan ahli-ahli Taurat itu bertanya kepada-Nya
 "Jawab-Nya kepada mereka
 "Percuma mereka beribadah kepada-Ku, sedangkan ajaran yang mereka ajarkan ialah perintah manusia."

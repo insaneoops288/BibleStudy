@@ -10,6 +10,6 @@
 "Ja Asa meni häntä vastaan. Ja he hankitsivat sotimaan Zephatan laaksossa Maresan tykönä."
 "Ja Asa huusi Herran Jumalansa tykö ja sanoi
 "Ja Herra löi Etiopialaisia Asan ja Juudan edessä, niin että Etiopialaiset pakenivat."
-"Ja Asa ja hänen väkensä, jotka olivat hänen kanssansa, ajoivat heitä Gerariin asti takaa. Ja Etiopialaiset kaatuivat, niin ettei yhtään heistä eläväksi jäänyt, vaan he tapettiin Herran ja hänen sotaväkensä edessä. Ja he veivät sieltä paljon saalista."
+"Ja Asa ja hänen väkensä, jotka olivat hänen kanssansa, ajoivat heitä Gerariin asti takaa. Ja Etiopialaiset kaatuivat, niin ettei #yhtään heistä eläväksi jäänyt, vaan he tapettiin Herran ja hänen sotaväkensä edessä. Ja he veivät sieltä paljon saalista."
 "Ja he löivät kaikki kaupungit Gerarin ympäriltä maahan; sillä Herran pelko tuli heidän päällensä. Ja he ryöstivät kaikki kaupungit; sillä niissä oli paljo saalista."
 "Ja he löivät navetat maahan, ja veivät ylen paljon lampaita ja kameleja, ja tulivat jälleen Jerusalemiin."

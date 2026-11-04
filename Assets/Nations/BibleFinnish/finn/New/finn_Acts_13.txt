@@ -1,4 +1,4 @@
-"Mutta Antiokian seurakunnassa oli muutamia prophetaita ja opettajia, Barnabas ja Simeon, joka Nigeriksi kutsuttiin, ja Lukius Kyreniläinen, ja Manahen, joka Herodes tetrarkan kanssa kasvatettu oli, ja Saulus."
+"Mutta Antiokian seurakunnassa oli muutamia prophetaita ja opettajia, Barnabas ja Simeon, joka Nigeriksi kutsuttiin, #ja Lukius Kyreniläinen, ja Manahen, joka Herodes tetrarkan kanssa kasvatettu oli, ja Saulus."
 "Kuin siis nämät Herraa palvelivat ja paastosivat, sanoi Pyhä Henki
 "Ja kuin he olivat paastonneet ja rukoilleet, ja kätensä heidän päällensä panneet, päästivät he heidät menemään."
 "Ja kuin he Pyhältä Hengeltä lähetetyt olivat, menivät he Seleukiaan ja purjehtivat sieltä Kypriin."
@@ -8,7 +8,7 @@
 "Mutta heitä vastaan seisoi Elimas velho (sillä niin tulkitaan hänen nimensä) ja pyysi kääntää maaherraa pois uskosta."
 "Mutta Saulus (joka myös Paavaliksi kutsutaan,) oli täynnä Pyhää Henkeä, katsoi hänen päällensä,"
 "Ja sanoi
-"Ja nyt katso, Herran käsi on sinun päälläs; ja sinun pitää sokiana oleman eikä näkemän aurinkoa hetkessä aikaa. Ja hänen päällensä lankesi kohta synkeys ja pimeys, ja hän kävi ympäri, etsein kuka häntä kädestä taluttais."
+"Ja nyt katso, Herran käsi on sinun päälläs; ja sinun pitää sokiana oleman eikä näkemän aurinkoa hetkessä aikaa. #Ja hänen päällensä lankesi kohta synkeys ja pimeys, ja hän kävi ympäri, etsein kuka häntä kädestä taluttais."
 "Kuin maaherra näki, mitä tapahtui, uskoi hän ja ihmetteli Herran opetusta."
 "Mutta kuin Paavali ja ne, jotka hänen kanssansa olivat, Paphosta purjehtivat, tulivat he Pamphilian Pergeen; mutta Johannes erkani heistä ja palasi Jerusalemiin."
 "Mutta he vaelsivat Pergestä ja tulivat Pisidian Antiokiaan, ja menivät sabbatina synagogaan, ja istuivat."

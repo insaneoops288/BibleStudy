@@ -6,10 +6,10 @@
 "Y me dijo
 "Y cuando volví, he aquí en la ribera del río [había] muchísimos árboles a uno y otro lado."
 "Y me dijo
-"Y será [que] todo ser viviente que nadare por dondequiera que entraren estos dos ríos, vivirá; y habrá muchísimos peces por haber entrado allá estas aguas, y recibirán sanidad; y vivirá todo lo que entrare en este río."
+"Y será [que] todo ser viviente que nadare por dondequiera que entraren estos dos ríos, vivirá; y habrá muchísimos peces #por haber entrado allá estas aguas, y recibirán sanidad; y vivirá todo lo que entrare en este río."
 "Y será [que] junto a él estarán pescadores; y desde Engadi hasta Eneglaim será tendedero de redes; en su especie será su pescado como el pescado del Mar Grande, mucho en gran manera"
 "Sus pantanos y sus lagunas no se sanearán; quedarán para salinas."
-"Y junto al río, en su ribera de uno y otro lado, crecerá todo árbol frutal; su hoja nunca caerá, ni faltará su fruto; a sus meses madurará, porque sus aguas salen del santuario; y su fruto será para comer, y su hoja para medicina."
+"Y junto al río, en su ribera de uno y otro lado, crecerá todo árbol frutal; su hoja nunca caerá, ni faltará su #fruto; a sus meses madurará, porque sus aguas salen del santuario; y su fruto será para comer, y su hoja para medicina."
 "Así dice Jehová el Señor
 "Y la heredaréis así los unos como los otros; por ella alcé mi mano jurando que la había de dar a vuestros padres; por tanto, esta tierra os será por heredad."
 "Y éste [será] el término de la tierra hacia el lado del norte; desde el Mar Grande, camino de Hetlón viniendo a Sedad;"
@@ -19,5 +19,5 @@
 "Y al lado del Neguev, hacia el sur, desde Tamar hasta las aguas de las rencillas; desde Cades y el arroyo hasta el Mar Grande; y esto será el lado sur, hacia el Neguev."
 "Del lado del occidente el Mar Grande [será] el término hasta enfrente de la entrada de Hamat; éste [será] el lado occidental."
 "Repartiréis, pues, esta tierra entre vosotros conforme a las tribus de Israel."
-"Y será [que] echaréis sobre ella suertes por herencia para vosotros, y para los extranjeros que peregrinan entre vosotros, que entre vosotros han engendrado hijos; y los tendréis como naturales entre los hijos de Israel; echarán suertes con vosotros para heredar entre las tribus de Israel."
+"Y será [que] echaréis sobre ella suertes por herencia para vosotros, y para los extranjeros que peregrinan entre vosotros, que entre vosotros han engendrado #hijos; y los tendréis como naturales entre los hijos de Israel; echarán suertes con vosotros para heredar entre las tribus de Israel."
 "Y será [que] en la tribu en que peregrinare el extranjero, allí le daréis su heredad, dice Jehová el Señor."

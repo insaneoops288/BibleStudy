@@ -6,7 +6,7 @@
 "Në rast se oferta e tij, si flijim falënderimi për Zotin, është një bagëti e imët, qoftë mashkull apo femër, do ta ofrojë pa të meta."
 "Në rast se paraqet si flijm e tij një qengj, do ta ofrojë përpara Zotit."
 "Do të vërë dorën e tij mbi kokën e ofertës së tij dhe do ta therë në hyrje të çadrës së mbledhjes; pastaj bijtë e Aaronit do ta shpërndajnë gjakun rreth e qark mbi altarin."
-"Nga flijimi i falënderimit do të paraqitet, si flijim i bërë me zjarr për Zotin, dhjami i tij; ai do të shkëpusë tërë bishtin e majmë afër shtyllës kurrizore, dhjamin që mbulon zorrët dhe të gjithë dhjamin që rri ngjitur me zorrët,"
+"Nga flijimi i falënderimit do të paraqitet, si flijim i bërë me zjarr për Zotin, dhjami i tij; ai do të shkëpusë #tërë bishtin e majmë afër shtyllës kurrizore, dhjamin që mbulon zorrët dhe të gjithë dhjamin që rri ngjitur me zorrët,"
 "të dy veshkat dhe dhjamin që është mbi to rreth ijeve, por do të shkëpusë bulën e majme të mëlçisë mbi veshkat."
 "Pastaj prifti do ta tymosë mbi altarin si ushqim. Éshtë një ofertë e bërë me zjarr për Zotin."
 "Në rast se oferta e tij është një dhi, do ta ofrojë para Zotit."

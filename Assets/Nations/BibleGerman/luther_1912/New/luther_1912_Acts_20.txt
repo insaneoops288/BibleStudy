@@ -6,7 +6,7 @@
 "Wir aber schifften nach den Ostertagen von Philippi bis an den fünften Tag und kamen zu ihnen gen Troas und hatten da unser Wesen sieben Tage."
 "Am ersten Tage der Woche aber, da die Jünger zusammenkamen, das Brot zu brechen, predigte ihnen Paulus, und wollte des andern Tages weiterreisen und zog die Rede hin bis zu Mitternacht."
 "Und es waren viel Lampen auf dem Söller, da sie versammelt waren."
-"Es saß aber ein Jüngling mit namen Eutychus in einem Fenster und sank in tiefen Schlaf, dieweil Paulus so lange redete, und ward vom Schlafüberwältigt und fiel hinunter vom dritten Söller und ward tot aufgehoben."
+"Es saß aber ein Jüngling mit namen Eutychus in einem Fenster und sank in tiefen Schlaf, dieweil Paulus #so lange redete, und ward vom Schlafüberwältigt und fiel hinunter vom dritten Söller und ward tot aufgehoben."
 "Paulus aber ging hinab und legte sich auf ihn, umfing ihn und sprach
 "Da ging er hinauf und brach das Brot und aß und redete viel mit ihnen, bis der Tag anbrach; und also zog er aus."
 "Sie brachten aber den Knaben lebendig und wurden nicht wenig getröstet."
@@ -21,7 +21,7 @@
 "und habe bezeugt, beiden, den Juden und Griechen, die Buße zu Gott und den Glauben an unsern HERRN Jesus Christus."
 "Und nun siehe, ich, im Geiste gebunden, fahre hin gen Jerusalem, weiß nicht, was mir daselbst begegnen wird,"
 "nur daß der heilige Geist in allen Städten bezeugt und spricht, Bande und Trübsal warten mein daselbst."
-"Aber ich achte der keines, ich halte mein Leben auch nicht selbst teuer, auf daß ich vollende meinen Lauf mit Freuden und das Amt, das ich empfangen habe von dem HERRN Jesus, zu bezeugen das Evangelium von der Gnade Gottes."
+"Aber ich achte der keines, ich halte mein Leben auch nicht selbst teuer, auf daß ich vollende meinen Lauf mit Freuden #und das Amt, das ich empfangen habe von dem HERRN Jesus, zu bezeugen das Evangelium von der Gnade Gottes."
 "Und nun siehe, ich weiß, daß ihr mein Angesicht nicht mehr sehen werdet, alle die, bei welchen ich durchgekommen bin und gepredigt habe das Reich Gottes."
 "Darum bezeuge ich euch an diesem heutigen Tage, daß ich rein bin von aller Blut;"
 "denn ich habe euch nichts verhalten, daß ich nicht verkündigt hätte all den Rat Gottes."

@@ -24,7 +24,7 @@
 "Przyszli potem aż do rzeki Eschol, i urznęli tam gałąź z gronem jednem jagód winnych, i nieśli ją na drążku, dwa także granatowe jabłka i figi."
 "I nazwano miejsce ono Nachal Eschol, od grona winnego, które tam byli urznęli synowie Izraelscy."
 "Zatem wrócili się od onego szpiegowania ziemi po wyjściu czterdziestu dni."
-"A wróciwszy się, przyszli do Mojżesza i do Aarona, i do wszystkiego zgromadzenia synów Izraelskich na puszczą Faran, która jest w Kades; i dali im i wszystkiemu pospólstwu sprawę, ukazawszy im owoc onej ziemi."
+"A wróciwszy się, przyszli do Mojżesza i do Aarona, i do wszystkiego zgromadzenia synów Izraelskich na puszczą Faran, #która jest w Kades; i dali im i wszystkiemu pospólstwu sprawę, ukazawszy im owoc onej ziemi."
 "A powiadali im, mówiąc
 "Tylko że mocny jest lud, który mieszka w onej ziemi; miasta także obronne są, i bardzo wielkie; do tego i syny Enakowe tameśmy widzieli."
 "Amalek mieszka w ziemi na południe, a Hetejczyk, i Jebuzejczyk, i Amorejczyk mieszka na górach; Chananejczyk zaś mieszka nad morzem, i nad brzegiem Jordanu."

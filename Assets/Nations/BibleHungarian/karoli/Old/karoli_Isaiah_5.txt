@@ -22,7 +22,7 @@
 "Jaj azoknak, a kik hõsök borivásban és híresek részegítõ ital vegyítésében;"
 "A kik a gonoszt ajándékért igaznak mondják, és az igazak igazságát elfordítják tõlük
 "Ezért, mint a polyvát megemészti a tûznek nyelve, és az égõ széna összeomlik
-"Ezért gerjedt fel az Úrnak haragja népe ellen, és felemelé rá kezét, és megveri, hogy a hegyek megrendülnek, és holttestök szemétként fekszik az utczán. Mindezekkel haragja el nem mult, és keze még felemelve van."
+"Ezért gerjedt fel az Úrnak haragja népe ellen, és felemelé rá kezét, és megveri, hogy a hegyek megrendülnek, #és holttestök szemétként fekszik az utczán. Mindezekkel haragja el nem mult, és keze még felemelve van."
 "És zászlót emel a távoli népeknek, és süvölt a föld határán [lako]zóknak, és ímé hamarsággal könnyen eljõnek."
 "Nem lesz köztük egy is elfáradott, sem tántorgó; nem szunnyad, és nem aluszik; derekának öve sem oldódik meg, és nem szakad el saruja szíja sem;"
 "Nyilai élesek, és minden õ kézívei felvonvák, lovai körme, miként a kova, és kerekei mint a forgószél;"

@@ -5,7 +5,7 @@
 "Huszonöt esztendõs vala Joákim, mikor uralkodni kezdett, és tizenegy esztendeig uralkodék Jeruzsálemben; de gonoszul cselekedék az Úr elõtt, az õ Istene elõtt."
 "És feljöve ellene Nabukodonozor a babilóniai király, és kettõs békót vete lábaira, hogy Babilóniába vinné õt."
 "Az Úr házában való edények egy részét is elvivé Nabukodonozor Babilóniába, és helyezteté azokat az õ templomába, Babilóniában."
-"Joákimnak pedig többi dolgai és az õ útálatosságai, a melyeket cselekedett, s a melyek találtattak õ benne, ímé meg vannak írva az Izráel és Júda királyainak könyvében; és uralkodék helyette Joákin, az õ fia."
+"Joákimnak pedig többi dolgai és az õ útálatosságai, a melyeket cselekedett, s a melyek találtattak õ benne, ímé #meg vannak írva az Izráel és Júda királyainak könyvében; és uralkodék helyette Joákin, az õ fia."
 "Nyolcz esztendõs korában kezdett uralkodni Joákin, és három hónapig és tíz napig uralkodék Jeruzsálemben; de õ is gonoszul cselekedék az Úr elõtt."
 "Az esztendõ fordultával pedig elkülde Nabukodonozor király, és elviteté õt Babilóniába, az Úr házának drága edényeivel együtt, és királylyá tevé az õ testvérét Sédékiást Júda és Jeruzsálem felett."
 "Huszonegy esztendõs korában kezdett uralkodni Sédékiás, és uralkodék tizenegy esztendeig Jeruzsálemben."
@@ -19,5 +19,5 @@
 "Az Isten házát meggyújták, Jeruzsálem kõfalait lerontották, palotáit mind elégeték tûzzel, és minden drágaságait elpusztították."
 "És a kik a fegyver elõl megmenekültek, azokat elhurczolta Babilóniába, és néki és fiainak szolgáivá lettek mindaddig, míg a persiai birodalom fel nem támadott;"
 "Hogy beteljesedjék az Úrnak Jeremiás szája által [mondott] beszéde, míg lerójja a föld az õ szombatjait, mert az elpusztulás egész ideje alatt nyugovék, hogy betelnének a hetven esztendõk."
-"És Czírus persa király elsõ esztendejében, hogy beteljesednék az Úrnak Jeremiás szája által [mondott] beszéde, az Úr felindítá Czírus persa király lelkét, és õ kihirdetteté az õ egész birodalmában, [élõszóval] és írásban is, mondván
+"És Czírus persa király elsõ esztendejében, hogy beteljesednék az Úrnak Jeremiás szája által [mondott] beszéde, az Úr felindítá #Czírus persa király lelkét, és õ kihirdetteté az õ egész birodalmában, [élõszóval] és írásban is, mondván
 "Így szól Czírus, a persa király

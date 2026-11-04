@@ -15,7 +15,7 @@
 "Mikor aztán megebédelének, monda Jézus Simon Péternek
 "Monda néki ismét másodszor is
 "Monda néki harmadszor [is]
-"Bizony, bizony mondom néked, a mikor ifjabb valál, felövezéd magadat, és oda mégy vala, a hova akarád; mikor pedig megöregszel, kinyújtod a te kezedet és más övez fel téged, és oda visz, a hová nem akarod."
+"Bizony, bizony mondom néked, a mikor ifjabb valál, felövezéd magadat, és oda mégy vala, a hova akarád; mikor pedig #megöregszel, kinyújtod a te kezedet és más övez fel téged, és oda visz, a hová nem akarod."
 "Ezt pedig azért mondá, hogy jelentse, milyen halállal dicsõíti majd meg az Istent. És ezt mondván, szóla néki
 "Péter pedig megfordulván, látja, hogy követi az a tanítvány, a kit szeret vala Jézus, a ki nyugodott is ama vacsora közben az õ kebelén és mondá
 "Ezt látván Péter, monda Jézusnak

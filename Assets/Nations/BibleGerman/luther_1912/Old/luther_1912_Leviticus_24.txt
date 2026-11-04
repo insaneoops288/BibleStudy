@@ -13,7 +13,7 @@
 "Und der HERR redete mit Mose und sprach
 "Führe den Flucher hinaus vor das Lager und laß alle, die es gehört haben, ihre Hände auf sein Haupt legen und laß ihn die ganze Gemeinde steinigen."
 "Und sage den Kindern Israel
-"Welcher des HERRN Namen lästert, der soll des Todes sterben; die ganze Gemeinde soll ihn steinigen. Wie der Fremdling, so soll auch der Einheimische sein; wenn er den Namen lästert, so soll er sterben."
+"Welcher des HERRN Namen lästert, der soll des Todes sterben; die ganze Gemeinde soll ihn steinigen. Wie der #Fremdling, so soll auch der Einheimische sein; wenn er den Namen lästert, so soll er sterben."
 "Wer irgend einen Menschen erschlägt, der soll des Todes sterben."
 "Wer aber ein Vieh erschlägt, der soll's bezahlen, Leib um Leib."
 "Und wer seinen Nächsten verletzt, dem soll man tun, wie er getan hat,"

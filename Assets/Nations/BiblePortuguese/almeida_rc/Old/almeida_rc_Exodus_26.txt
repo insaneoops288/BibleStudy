@@ -30,7 +30,7 @@
 "Então, levantarás o tabernáculo conforme o modelo que te foi mostrado no monte."
 "Depois, farás um véu de pano azul, e púrpura, e carmesim, e linho fino torcido; com querubins de obra prima se fará."
 "E o porás sobre quatro colunas de madeira de cetim cobertas de ouro, sobre quatro bases de prata; seus colchetes serão de ouro."
-"Pendurarás o véu debaixo dos colchetes e meterás a arca do Testemunho ali dentro do véu; e este véu vos fará separação entre {ou entre o lugar santo e o santíssimo} o santuário e o lugar santíssimo."
+"Pendurarás o véu debaixo dos colchetes e meterás a arca do Testemunho ali dentro do véu; e este véu #vos fará separação entre {ou entre o lugar santo e o santíssimo} o santuário e o lugar santíssimo."
 "E porás a coberta do propiciatório sobre a arca do Testemunho no lugar santíssimo,"
 "e a mesa porás fora do véu, e o castiçal, defronte da mesa, ao lado do tabernáculo, para o sul; e a mesa porás à banda do norte."
 "Farás também para a porta da tenda uma coberta de pano azul, e púrpura, e carmesim, e linho fino torcido, de obra de bordador,"

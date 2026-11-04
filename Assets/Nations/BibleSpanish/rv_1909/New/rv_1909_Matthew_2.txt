@@ -13,7 +13,7 @@
 "Y partidos ellos, he aquí el ángel del Señor aparece en sueños á José, diciendo
 "Y él despertando, tomó al niño y á su madre de noche, y se fué á Egipto;"
 "Y estuvo allá hasta la muerte de Herodes
-"Herodes entonces, como se vió burlado de los magos, se enojó mucho, y envió, y mató á todos los niños que había en Bethlehem y en todos sus términos, de edad de dos años abajo, conforme al tiempo que había entendido de los magos."
+"Herodes entonces, como se vió burlado de los magos, se enojó mucho, y envió, y mató á todos los niños que había en #Bethlehem y en todos sus términos, de edad de dos años abajo, conforme al tiempo que había entendido de los magos."
 "Entonces fué cumplido lo que se había dicho por el profeta Jeremías, que dijo
 "Voz fué oída en Ramá, Grande lamentación, lloro y gemido
 "Mas muerto Herodes, he aquí el ángel del Señor aparece en sueños á José en Egipto,"

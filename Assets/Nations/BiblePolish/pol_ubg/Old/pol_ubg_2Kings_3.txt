@@ -22,6 +22,6 @@
 "Wstali rano, a gdy słońce wzeszło nad wodą, Moabici zobaczyli z naprzeciwka wodę czerwoną jak krew."
 "I powiedzieli
 "A gdy przyszli do obozu Izraela, Izraelici powstali i pobili Moabitów, tak że ci uciekali przed nimi. Oni zaś szli naprzód, bijąc Moabitów."
-"Zburzyli miasta, na wszystkie dobre pola każdy rzucił swój kamień, aż je pokryli, zasypali wszystkie źródła wód i pościnali wszystkie dobre drzewa. Pozostały tylko kamienne mury Kir-Chareszet, ale procarze otoczyli je i zdobyli."
+"Zburzyli miasta, na wszystkie dobre pola każdy rzucił swój kamień, aż je pokryli, zasypali wszystkie źródła wód #i pościnali wszystkie dobre drzewa. Pozostały tylko kamienne mury Kir-Chareszet, ale procarze otoczyli je i zdobyli."
 "Kiedy król Moabu zobaczył, że nie podoła walce, wziął ze sobą siedmiuset mężczyzn dobywających miecz, aby się przebić do króla Edomu, ale nie zdołał."
-"Wziął więc swego pierworodnego syna, który miał królować w jego miejsce, i złożył go jako całopalenie na murze. Wtedy powstało wielkie oburzenie przeciw Izraelowi. Oni więc odstąpili od niego i wrócili do swej ziemi."
+"Wziął więc swego pierworodnego syna, który miał królować w jego miejsce, i złożył go jako całopalenie na murze. #Wtedy powstało wielkie oburzenie przeciw Izraelowi. Oni więc odstąpili od niego i wrócili do swej ziemi."

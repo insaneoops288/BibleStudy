@@ -5,7 +5,7 @@ The ugly and thin cows ate up the seven sleek and fat cows. And Pharaoh awoke.
 Then he fell asleep and dreamed a second time; seven ears of grain, plump and good, were growing on one stalk.
 Then seven ears, thin and blighted by the east wind, sprouted after them.
 The thin ears swallowed up the seven plump and full ears. Pharaoh awoke, and it was a dream.
-In the morning his spirit was troubled; so he sent and called for all the magicians of Egypt and all its wise men. Pharaoh told them his dreams, but there was no one who could interpret them to Pharaoh.
+In the morning his spirit was troubled; so he sent and called for all the magicians of Egypt and all #its wise men. Pharaoh told them his dreams, but there was no one who could interpret them to Pharaoh.
 Then the chief cupbearer said to Pharaoh, "I remember my faults today.
 Once Pharaoh was angry with his servants, and put me and the chief baker in custody in the house of the captain of the guard.
 We dreamed on the same night, he and I, each having a dream with its own meaning.

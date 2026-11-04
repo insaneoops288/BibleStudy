@@ -6,7 +6,7 @@
 "Dân sự kéo ra đồng, đón quân Y-sơ-ra-ên, giao chiến tại trong rừng Ép-ra-im."
 "Ðạo quân Y-sơ-ra-ên bị các tôi tớ của Ða-vít đánh bại; thật ấy là một trận thua lớn, trong ngày đó chết mất hai vạn người."
 "Chiến tranh lan khắp miền, và trong ngày đó có nhiều người chết mất trong rừng hơn là chết ở dưới luỡi gươm."
-"Các tôi tớ của Ða-vít gặp Áp-sa-lôm cỡi một con la; con la lủi vào dưới nhành xỏ rế của cây thông lớn, đầu Áp-sa-lôm phải vướng trong nhành, và người bị treo giữa khoảng trời đất; còn con la chở người thì thoát đi khỏi."
+"Các tôi tớ của Ða-vít gặp Áp-sa-lôm cỡi một con la; con la lủi vào dưới nhành xỏ rế của cây thông lớn, đầu #Áp-sa-lôm phải vướng trong nhành, và người bị treo giữa khoảng trời đất; còn con la chở người thì thoát đi khỏi."
 "Có người thấy điều đó, đến nói cùng Giô-áp rằng
 "Giô-áp đáp cùng người rằng
 "Nhưng người ấy thưa rằng

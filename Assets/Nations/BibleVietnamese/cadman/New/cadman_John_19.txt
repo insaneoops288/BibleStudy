@@ -20,7 +20,7 @@
 "Vì nơi Ðức Chúa Jêsus bị đóng đinh ở gần thành, và chữ đề trên bảng đó viết bằng chữ Hê-bơ-rơ, chữ La-tinh và chữ Gờ-réc, nên có nhiều người Giu-đa đọc đến."
 "Các thầy tế lễ cả của dân Giu-đa bèn nói với Phi-lát rằng
 "Phi-lát trả lời rằng
-"Quân lính đã đóng đinh Ðức Chúa Jêsus trên thập tự giá rồi, bèn lấy áo xống của Ngài chia làm bốn phần, mỗi tên lính chiếm một phần. Họ cũng lấy áo dài của Ngài, nhưng áo dài đó không có đường may, nguyên một tấm vải dệt ra, từ trên chí dưới."
+"Quân lính đã đóng đinh Ðức Chúa Jêsus trên thập tự giá rồi, bèn lấy áo xống của Ngài chia làm bốn phần, mỗi tên lính chiếm một #phần. Họ cũng lấy áo dài của Ngài, nhưng áo dài đó không có đường may, nguyên một tấm vải dệt ra, từ trên chí dưới."
 "Vậy, họ nói với nhau rằng
 "Tại một bên thập tự giá của Ðức Chúa Jêsus, có mẹ Ngài đứng đó, với chị mẹ Ngài là Ma-ri vợ Cơ-lê-ô-ba, và Ma-ri Ma-đơ-len nữa."
 "Ðức Chúa Jêsus thấy mẹ mình, và một môn đồ Ngài yêu đứng gần người, thì nói cùng mẹ rằng
@@ -28,7 +28,7 @@
 "Sau đó, Ðức Chúa Jêsus biết mọi việc đã được trọn rồi, hầu cho lời Kinh Thánh được ứng nghiệm, thì phán rằng
 "Tại đó, có một cái bình đựng đầy giấm. Vậy, họ lấy một miếng bông đá thấm đầy giấm, buộc vào cây ngưu tất đưa kề miệng Ngài."
 "Khi Ðức Chúa Jêsus chịu lấy giấm ấy rồi, bèn phán rằng
-"Vì bấy giờ là ngày sắm sửa về ngày Sa-bát, mà Sa-bát nầy là rất trọng thể, nên dân Giu-đa ngại rằng những thây còn treo lại trên thập tự giá trong ngày Sa-bát chăng, bèn xin Phi-lát cho đánh gãy ống chơn những người đó và cất xuống."
+"Vì bấy giờ là ngày sắm sửa về ngày Sa-bát, mà Sa-bát nầy là rất trọng thể, nên dân Giu-đa ngại rằng những thây còn #treo lại trên thập tự giá trong ngày Sa-bát chăng, bèn xin Phi-lát cho đánh gãy ống chơn những người đó và cất xuống."
 "Vậy, quân lính lại, đánh gãy ống chơn người thứ nhứt, rồi đến người kia, tức là kẻ cùng bị đóng đinh với Ngài."
 "Khi quân lính đến nơi Ðức Chúa Jêsus, thấy Ngài đã chết rồi, thì không đánh gãy ống chơn Ngài;"
 "nhưng có một tên lính lấy giáo đâm ngang sườn Ngài, tức thì máu và nước chảy ra."

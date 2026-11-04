@@ -1,7 +1,7 @@
 "I stalo se, když to uslyšel král Ezechiáš, že roztrhl roucho své, a oděl se žíní, a všel do domu Hospodinova."
 "I poslal Eliakima správce domu, a Sobnu písaře, a starší z kněží, oblečené v žíně k Izaiášovi proroku, synu Amosovu."
 "Kteříž řekli jemu
-"Ó by slyšel Hospodin Bůh tvůj slova Rabsakova, jehož poslal král Assyrský pán jeho, aby utrhal Bohu živému, a pomstil Hospodin Bůh tvůj těch slov, kteráž slyšel. Protož pozdvihni modlitby za tento ostatek lidu, kterýž se nalézá."
+"Ó by slyšel Hospodin Bůh tvůj slova Rabsakova, jehož poslal král Assyrský pán jeho, aby utrhal Bohu živému, a #pomstil Hospodin Bůh tvůj těch slov, kteráž slyšel. Protož pozdvihni modlitby za tento ostatek lidu, kterýž se nalézá."
 "I přišli služebníci krále Ezechiáše k Izaiášovi."
 "Jimž odpověděl Izaiáš
 "Aj, já pustím naň vítr, aby uslyše pověst, navrátil se do země své, a učiním to, že padne od meče v zemi své."

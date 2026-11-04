@@ -1,6 +1,6 @@
 "Abrahami ishte tashmë plak dhe ishte në moshë të kaluar; dhe Zoti e kishte bekuar Abrahamin në çdo gjë."
 "Dhe Abrahami i tha shërbyesit më të moshuar të shtëpisë së tij që qeveriste tërë pasuritë e tij
-"dhe unë do të bëj që ti të betohesh në emër të Zotit, Perëndisë së qiejve dhe Perëndisë të tokës, që ti nuk do t'i marrësh për grua djalit tim asnjë prej bijave të Kanaanejve në mes të të cilëve unë banoj;"
+"dhe unë do të bëj që ti të betohesh në emër të Zotit, Perëndisë së qiejve dhe Perëndisë të tokës, që ti #nuk do t'i marrësh për grua djalit tim asnjë prej bijave të Kanaanejve në mes të të cilëve unë banoj;"
 "por do të shkosh në vendin tim dhe te fisi im për të marrë një grua për djalin tim, për Isakun""."
 "Shërbëtori iu përgjegj
 "Atëherë Abrahami i tha
@@ -24,7 +24,7 @@
 "Ajo u përgjegj
 "Dhe shtoi
 "Atëherë njeriu u përkul, adhuroi Zotin dhe tha
-"""Qoftë i bekuar Zoti, Perëndia i Abrahamit, zotërisë tim, që nuk ka pushuar të jetë dashamirës dhe besnik ndaj zotërisë tim! Sa për mua, gjatë udhëtimit, Zoti më çoi në shtëpinë e vëllezërve të zotërisë tim""."
+"""Qoftë i bekuar Zoti, Perëndia i Abrahamit, zotërisë tim, që nuk ka pushuar të jetë dashamirës dhe besnik ndaj #zotërisë tim! Sa për mua, gjatë udhëtimit, Zoti më çoi në shtëpinë e vëllezërve të zotërisë tim""."
 "Dhe vajza vrapoi për t'i treguar këto gjëra në shtëpinë e nënës së saj."
 "Por Rebeka kishte një vëlla të quajtur Labano. Dhe Labano doli me vrap jashtë drejt burimit te ai njeri."
 "Sa pa unazën në hundë dhe byzylykët në kyçet e dorës të së motrës dhe dëgjoi fjalët që Rebeka, motra e tij, thoshte

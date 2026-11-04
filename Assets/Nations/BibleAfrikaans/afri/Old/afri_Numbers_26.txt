@@ -59,7 +59,7 @@
 "En die naam van Amram se vrou was Jogébed, die dogter van Levi wat vir Levi in Egipte gebore is; en vir Amram het sy gebaar
 "En vir Aäron is gebore
 "En Nadab en Abíhu het gesterwe toe hulle vreemde vuur voor die aangesig van die HERE gebring het."
-"En hulle geteldes was drie en twintig duisend, almal wat manlik was van 'n maand oud en daarbo. Want hulle is nie getel onder die kinders van Israel nie, omdat aan hulle geen erfdeel onder die kinders van Israel gegee is nie."
+"En hulle geteldes was drie en twintig duisend, almal wat manlik was van 'n maand oud en daarbo. Want hulle is nie #getel onder die kinders van Israel nie, omdat aan hulle geen erfdeel onder die kinders van Israel gegee is nie."
 "Dit is hulle wat deur Moses en die priester Eleásar getel is, wat die kinders van Israel in die vlaktes van Moab getel het, by die Jordaan van Jérigo."
 "En onder hulle was daar niemand van die wat deur Moses en die priester Aäron getel is nie, toe hulle die kinders van Israel in die woestyn Sinai getel het."
 "Want die HERE het van hulle gesê

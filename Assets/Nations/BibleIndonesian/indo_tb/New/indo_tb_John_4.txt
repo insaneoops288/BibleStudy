@@ -11,7 +11,7 @@
 "Kata perempuan itu kepada-Nya
 "Adakah Engkau lebih besar dari pada bapa kami Yakub, yang memberikan sumur ini kepada kami dan yang telah minum sendiri dari dalamnya, ia serta anak-anaknya dan ternaknya?"""
 "Jawab Yesus kepadanya
-"tetapi barangsiapa minum air yang akan Kuberikan kepadanya, ia tidak akan haus untuk selama-lamanya. Sebaliknya air yang akan Kuberikan kepadanya, akan menjadi mata air di dalam dirinya, yang terus-menerus memancar sampai kepada hidup yang kekal."""
+"tetapi barangsiapa minum air yang akan Kuberikan kepadanya, ia tidak akan haus untuk selama-lamanya. Sebaliknya air yang akan #Kuberikan kepadanya, akan menjadi mata air di dalam dirinya, yang terus-menerus memancar sampai kepada hidup yang kekal."""
 "Kata perempuan itu kepada-Nya
 "Kata Yesus kepadanya
 "Kata perempuan itu
@@ -42,7 +42,7 @@
 "dan mereka berkata kepada perempuan itu
 "Dan setelah dua hari itu Yesus berangkat dari sana ke Galilea,"
 "sebab Yesus sendiri telah bersaksi, bahwa seorang nabi tidak dihormati di negerinya sendiri."
-"Maka setelah ia tiba di Galilea, orang-orang Galileapun menyambut Dia, karena mereka telah melihat segala sesuatu yang dikerjakan-Nya di Yerusalem pada pesta itu, sebab mereka sendiripun turut ke pesta itu."
+"Maka setelah ia tiba di Galilea, orang-orang Galileapun menyambut Dia, karena mereka telah melihat segala sesuatu #yang dikerjakan-Nya di Yerusalem pada pesta itu, sebab mereka sendiripun turut ke pesta itu."
 "Maka Yesus kembali lagi ke Kana di Galilea, di mana Ia membuat air menjadi anggur. Dan di Kapernaum ada seorang pegawai istana, anaknya sedang sakit."
 "Ketika ia mendengar, bahwa Yesus telah datang dari Yudea ke Galilea, pergilah ia kepada-Nya lalu meminta, supaya Ia datang dan menyembuhkan anaknya, sebab anaknya itu hampir mati."
 "Maka kata Yesus kepadanya

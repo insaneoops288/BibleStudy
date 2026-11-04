@@ -16,10 +16,10 @@
 "Eliseu i tha pastaj mbretit të Izraelit
 "Pastaj tha
 "Pastaj tha
-"Por njeriu i Perëndisë u zemërua me të dhe i tha ""Duhet ta kishe rrahur pesë ose gjashtë herë; atëherë do t'i kishe mundur Sirët deri sa t'i zhdukje fare; tani përkundrazi do t'i mundësh Sirët vetëm tri herë""."
+"Por njeriu i Perëndisë u zemërua me të dhe i tha ""Duhet ta kishe rrahur pesë ose gjashtë herë; atëherë #do t'i kishe mundur Sirët deri sa t'i zhdukje fare; tani përkundrazi do t'i mundësh Sirët vetëm tri herë""."
 "Pastaj Eliseu vdiq dhe e varrosën. Në fillim të vitit vijues disa banda Moabitësh pushtuan vendin."
 "Por ndodhi që, ndërsa disa varrosnin një njeri, panë një bandë plaçkitësish; kështu e hodhën njeriun në varrin e Eliseut. Sa arriti ai të prekë kockat e Eliseut, u ringjall dhe u ngrit më këmbë."
 "Hazaeli, mbret i Sirisë, e shtypi Izraelin gjatë tërë jetës së Jehoahazit;"
-"por Zoti i fali ata, i erdhi keq dhe u kthye me ta për shkak të besëlidhjes që kishte me Abrahamin, me Isakun dhe me Jakobin; dhe këtë radhë nuk deshi t'i shkatërrojë apo t'i largojë nga prania e tij."
+"por Zoti i fali ata, i erdhi keq dhe u kthye me ta për shkak të besëlidhjes që kishte me Abrahamin, #me Isakun dhe me Jakobin; dhe këtë radhë nuk deshi t'i shkatërrojë apo t'i largojë nga prania e tij."
 "Pastaj vdiq Hazaeli, mbret i Sirisë, dhe në vend të tij mbretëroi i biri, Ben-Hadadi."
-"Atëherë Joasi, bir i Jehoahazit rimori nga duart e Ben-Hadadit, birit të Hazaelit, qytetet që ai kishte marrë me luftë kundër Jehoahazit, atit të tij. Tri herë të mira Joasi e mundi dhe ripushtoi kështu qytetet e Izraelit."
+"Atëherë Joasi, bir i Jehoahazit rimori nga duart e Ben-Hadadit, birit të Hazaelit, qytetet që ai kishte marrë me luftë #kundër Jehoahazit, atit të tij. Tri herë të mira Joasi e mundi dhe ripushtoi kështu qytetet e Izraelit."

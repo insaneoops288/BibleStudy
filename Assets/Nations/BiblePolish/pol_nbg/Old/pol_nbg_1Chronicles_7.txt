@@ -37,4 +37,4 @@
 "Becer, Hod, Szamma, Szilsza, Ithran i Beera."
 "Zaś synowie Ithra to
 "A synami Ulli
-"Ci wszyscy byli potomkami Aszera, książętami domów swych ojców; wybrani i wielcy mężowie, przedniejsi z książąt, na wojnie policzeni do bitwy. Zaś zastęp tych mężów liczył dwadzieścia sześć tysiecy."
+"Ci wszyscy byli potomkami Aszera, książętami domów swych ojców; wybrani i wielcy mężowie, przedniejsi z #książąt, na wojnie policzeni do bitwy. Zaś zastęp tych mężów liczył dwadzieścia sześć tysiecy."

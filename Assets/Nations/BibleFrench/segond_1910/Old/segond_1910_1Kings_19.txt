@@ -16,6 +16,6 @@
 "Tu oindras aussi Jéhu, fils de Nimschi, pour roi d'Israël; et tu oindras Elisée, fils de Schaphath, d'Abel-Mehola, pour prophète à ta place."
 "Et il arrivera que celui qui échappera à l'épée de Hazaël, Jéhu le fera mourir; et celui qui échappera à l'épée de Jéhu, Elisée le fera mourir."
 "Mais je laisserai en Israël sept mille hommes, tous ceux qui n'ont point fléchi les genoux devant Baal, et dont la bouche ne l'a point baisé."
-"Elie partit de là, et il trouva Elisée, fils de Schaphath, qui labourait. Il y avait devant lui douze paires de boeufs, et il était avec la douzième. Elie s'approcha de lui, et il jeta sur lui son manteau."
+"Elie partit de là, et il trouva Elisée, fils de Schaphath, qui labourait. Il y avait devant lui douze paires #de boeufs, et il était avec la douzième. Elie s'approcha de lui, et il jeta sur lui son manteau."
 "Elisée, quittant ses boeufs, courut après Elie, et dit
-"Après s'être éloigné d'Elie, il revint prendre une paire de boeufs, qu'il offrit en sacrifice; avec l'attelage des boeufs, il fit cuire leur chair, et la donna à manger au peuple. Puis il se leva, suivit Elie, et fut à son service."
+"Après s'être éloigné d'Elie, il revint prendre une paire de boeufs, qu'il offrit en sacrifice; avec l'attelage des boeufs, il fit cuire #leur chair, et la donna à manger au peuple. Puis il se leva, suivit Elie, et fut à son service."

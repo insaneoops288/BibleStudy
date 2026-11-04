@@ -1,6 +1,6 @@
 "Nadto WIEKUISTY powiedział tak do Mojżesza
 "Oświadcz synom Israela, mówiąc im
-"Sześć dni będzie wykonywana robota, a dnia siódmego jest szabat wielki odpoczynek, świąteczne zgromadzenie. Żadnej roboty nie wykonujcie. To jest szabat WIEKUISTEGO we wszystkich waszych siedzibach."
+"Sześć dni będzie wykonywana robota, a dnia siódmego jest szabat wielki odpoczynek, świąteczne zgromadzenie. #Żadnej roboty nie wykonujcie. To jest szabat WIEKUISTEGO we wszystkich waszych siedzibach."
 "Oto uroczystości WIEKUISTEGO świąteczne zgromadzenia, które macie obwieszczać w swoim czasie."
 "Pierwszego miesiąca, czternastego dnia tego miesiąca, pomiędzy wieczorami Pesach WIEKUISTEGO."
 "Piętnastego dnia tego miesiąca Święto Przaśników dla WIEKUISTEGO. Przez siedem dni będziecie jadać przaśniki."
@@ -11,11 +11,11 @@
 "A on przedstawi ten snop przed obliczem WIEKUISTEGO, aby uzyskać dla was upodobanie. Kapłan przedstawi go nazajutrz, po święcie."
 "Zaś wy, w dzień przedstawienia przez was snopa, przygotujcie na całopalenie dla WIEKUISTEGO zdrowe, roczne jagnię."
 "A przy tym jego ofiarę z pokarmów dwie dziesiąte efy przedniej mąki, zaczynionej oliwą, na ogniową ofiarę WIEKUISTEMU, na przyjemny zapach; oraz do niej czwartą część hinu wina jako zalewkę."
-"Nie będziecie jadali żadnego chleba, prażonych ziaren oraz świeżych owoców aż po dzień, w którym przyniesiecie ofiarę waszemu Bogu; to jest wieczna ustawa w waszych pokoleniach, we wszystkich waszych siedzibach."
+"Nie będziecie jadali żadnego chleba, prażonych ziaren oraz świeżych owoców aż po dzień, w którym przyniesiecie #ofiarę waszemu Bogu; to jest wieczna ustawa w waszych pokoleniach, we wszystkich waszych siedzibach."
 "Także będziecie sobie liczyć siedem tygodni od drugiego dnia święta; od dnia, w którym przynieśliście snop przedstawienia; powinny być pełne"
 "aż do dnia następującego po siódmym tygodniu. Odliczycie pięćdziesiąt dni i wtedy złożycie WIEKUISTEMU nową ofiarę z pokarmów."
 "Z waszych siedzib przyniesiecie dwa chleby przedstawienia; będą one z dwóch dziesiątych efy przedniej mąki i powinny być upieczone z kwasem. To są pierwociny dla WIEKUISTEGO."
-"Nadto przyniesiecie z tym chlebem siedem zdrowych, rocznych jagniąt, jednego cielca i dwa barany; będą one całopaleniem dla WIEKUISTEGO, wraz z ich ofiarą z pokarmów oraz ich zalewkami. To jest ogniowa ofiara na przyjemny zapach dla WIEKUISTEGO."
+"Nadto przyniesiecie z tym chlebem siedem zdrowych, rocznych jagniąt, jednego cielca i dwa barany; będą one całopaleniem dla WIEKUISTEGO, #wraz z ich ofiarą z pokarmów oraz ich zalewkami. To jest ogniowa ofiara na przyjemny zapach dla WIEKUISTEGO."
 "Przygotujcie też jednego kozła na ofiarę zagrzeszną oraz dwa roczne jagnięta na ofiarę opłatną."
 "A kapłan przedstawi je wraz z chlebami pierwocin, jako przedstawienie przed WIEKUISTYM, wraz z dwoma jagniętami; będzie to dla kapłana, jako poświęcone WIEKUISTEMU."
 "Nadto ogłosicie tego dnia, aby było u was świąteczne zgromadzenie; żadnej uciążliwej roboty nie wykonujcie; to jest wieczna ustawa w waszych pokoleniach i we wszystkich waszych siedzibach."
@@ -33,10 +33,10 @@
 "Nadto WIEKUISTY powiedział tak do Mojżesza
 "Oświadcz synom Israela, mówiąc
 "Pierwszego dnia ma być świąteczne zgromadzenie; nie będziecie wykonywać żadnej uciążliwej pracy."
-"Przez siedem dni będziecie składać WIEKUISTEMU ofiary ogniowe; a ósmego dnia będzie u was Świąteczne Zgromadzenie, więc złożycie ogniową ofiarę WIEKUISTEMU; to będzie świętowanie nie wykonacie żadnej uciążliwej pracy."
-"Oto są uroczystości WIEKUISTEGO, w których będziecie obwieszczać świąteczne zgromadzenie, aby składać ofiary ogniowe WIEKUISTEMU całopalenia, ofiary z pokarmów, ofiary bite i zalewki każdą w swój dzień."
+"Przez siedem dni będziecie składać WIEKUISTEMU ofiary ogniowe; a ósmego dnia będzie u was Świąteczne #Zgromadzenie, więc złożycie ogniową ofiarę WIEKUISTEMU; to będzie świętowanie nie wykonacie żadnej uciążliwej pracy."
+"Oto są uroczystości WIEKUISTEGO, w których będziecie obwieszczać świąteczne zgromadzenie, aby składać ofiary ogniowe #WIEKUISTEMU całopalenia, ofiary z pokarmów, ofiary bite i zalewki każdą w swój dzień."
 "Oprócz szabatów WIEKUISTEGO, oprócz waszych darów, oprócz wszystkich waszych ofiar ślubnych BG i oprócz wszystkich waszych dobrowolnych podarków, które będziecie składać WIEKUISTEMU."
-"Jednak piętnastego dnia siódmego miesiąca, kiedy zbierzecie plon ziemi, będziecie obchodzić przez siedem dni uroczystość dla WIEKUISTEGO; pierwszego dnia jest uroczyste święto oraz ósmego dnia jest uroczyste święto."
+"Jednak piętnastego dnia siódmego miesiąca, kiedy zbierzecie plon ziemi, będziecie obchodzić przez siedem dni uroczystość #dla WIEKUISTEGO; pierwszego dnia jest uroczyste święto oraz ósmego dnia jest uroczyste święto."
 "Pierwszego dnia weźmiecie sobie także owoc drzewa hadar, palmowe pąki, gałązki rozłożystego drzewa oraz poprzeczne wierzbiny i przez siedem dni weselcie się przed WIEKUISTYM, waszym Bogiem."
 "Przez siedem dni w roku tak będziecie obchodzić to święto WIEKUISTEGO; to jest wieczna ustawa w waszych pokoleniach. Będziecie je obchodzić siódmego miesiąca."
 "Przez siedem dni będziecie mieszkać w szałasach; każdy krajowiec w Israelu będzie mieszkał w szałasach,"

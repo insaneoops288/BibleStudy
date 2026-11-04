@@ -21,5 +21,5 @@
 "Tedy díš synu svému
 "A činil Hospodin znamení a zázraky veliké a škodlivé v Egyptě proti Faraonovi, a proti všemu domu jeho před očima našima,"
 "Nás pak vyvedl odtud, aby uvedl nás, a dal nám zemi, kterouž s přísahou zaslíbil otcům našim."
-"Protož přikázal nám Hospodin, abychom ostříhali všech ustanovení těchto, bojíce se Hospodina Boha svého, aby nám dobře bylo po všecky dny, a aby zachoval nás při životu, jakž to činí i v dnešní den."
+"Protož přikázal nám Hospodin, abychom ostříhali všech ustanovení těchto, bojíce se Hospodina Boha svého, aby nám dobře bylo #po všecky dny, a aby zachoval nás při životu, jakž to činí i v dnešní den."
 "A spravedlnost míti budeme, když ostříhati budeme a činiti všecka přikázaní tato před Hospodinem Bohem svým, jakož přikázal nám."

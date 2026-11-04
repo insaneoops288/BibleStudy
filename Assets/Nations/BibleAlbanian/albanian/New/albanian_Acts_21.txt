@@ -22,8 +22,8 @@
 "Po atëherë, ç'duhet të bëhet? Duhet patjetër që të mblidhet populli, sepse do ta marrin vesh se ke ardhur."
 "Bëje, pra, atë që të themi
 "merri dhe pastrohu me ta, dhe paguaj për ta që të rruajnë kokën; kështu të gjithë do ta mësojnë se s'janë gjë ato që kanë dëgjuar për ty, por se edhe ti ecën duke respektuar ligjin."
-"Dhe sa për johebrenjtë që kanë besuar, ne u kemi shkruar atyre, mbasi vendosëm që ata nuk kanë ç'të respektojnë lidhur me këtë, por se të ruhen nga gjërat që u flijohen idhujve, nga gjaku, nga gjërat e mbytura dhe nga kurvëria''."
-"Atëherë Pali i mori me vete ata burra dhe, të nesërmen, pasi u pastrua bashkë me ta, hyri në tempull dhe deklaroi plotësimin e ditëve të pastrimit, dhe kur do të paraqitej oferta për secilin nga ata."
+"Dhe sa për johebrenjtë që kanë besuar, ne u kemi shkruar atyre, mbasi vendosëm që ata nuk kanë ç'të respektojnë lidhur me #këtë, por se të ruhen nga gjërat që u flijohen idhujve, nga gjaku, nga gjërat e mbytura dhe nga kurvëria''."
+"Atëherë Pali i mori me vete ata burra dhe, të nesërmen, pasi u pastrua bashkë me ta, hyri në #tempull dhe deklaroi plotësimin e ditëve të pastrimit, dhe kur do të paraqitej oferta për secilin nga ata."
 "Por, kur po mbusheshin shtatë ditët, Judenjtë e Azisë, duke e parë në tempull, e nxitën turmën dhe vunë duart mbi të,"
 "duke bërtitur
 "Sepse ata kishin parë më përpara Trofimin nga Efesi bashkë me Palin në qytet, dhe mendonin se ai e kishte sjellë në tempull."

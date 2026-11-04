@@ -11,7 +11,7 @@
 "Das Wort gefiel Abraham sehrübel um seines Sohnes willen."
 "Aber Gott sprach zu ihm
 "Auch will ich der Magd Sohn zum Volk machen, darum daß er deines Samens ist."
-"Da stand Abraham des Morgens früh auf und nahm Brot und einen Schlauch mit Wasser und legte es Hagar auf ihre Schulter und den Knaben mit und ließ sie von sich. Da zog sie hin und ging in der Wüste irre bei Beer-Seba.{~}"
+"Da stand Abraham des Morgens früh auf und nahm Brot und einen Schlauch mit Wasser und legte es Hagar auf ihre Schulter #und den Knaben mit und ließ sie von sich. Da zog sie hin und ging in der Wüste irre bei Beer-Seba.{~}"
 "Da nun das Wasser in dem Schlauch aus war, warf sie den Knaben unter einen Strauch"
 "und ging hin und setzte sich gegenüber von fern, einen Bogenschuß weit; denn sie sprach
 "Da erhörte Gott die Stimme des Knaben. Und der Engel Gottes rief vom Himmel der Hagar und sprach zu ihr
@@ -20,7 +20,7 @@
 "Und Gott war mit dem Knaben; der wuchs und wohnte in der Wüste und ward ein guter Schütze."
 "Und er wohnte in der Wüste Pharan, und seine Mutter nahm ihm ein Weib ausÄgyptenland."
 "Zu der Zeit redete Abimelech und Phichol, sein Feldhauptmann, mit Abraham und sprach
-"So schwöre mir nun bei Gott, daß du mir und meinen Kindern und meinen Enkeln keine Untreue erzeigen wollest, sondern die Barmherzigkeit, die ich an dir getan habe, an mir auch tust und an dem Lande, darin du ein Fremdling bist."
+"So schwöre mir nun bei Gott, daß du mir und meinen Kindern und meinen Enkeln keine Untreue erzeigen wollest, sondern die #Barmherzigkeit, die ich an dir getan habe, an mir auch tust und an dem Lande, darin du ein Fremdling bist."
 "Da sprach Abraham
 "Und Abraham setzte Abimelech zur Rede um des Wasserbrunnens willen, den Abimelechs Knechte hatten mit Gewalt genommen."
 "Da antwortete Abimelech

@@ -9,9 +9,9 @@
 "Y Jehová me dijo
 "(Allí habitaron antes los emitas, pueblo grande y numeroso, y alto como los anaceos;"
 "que también eran contados por gigantes como los anaceos; pero los moabitas los llaman emitas."
-"Y en Seir habitaron antes los horeos, a los cuales echaron los hijos de Esaú; y los destruyeron de delante de sí, y moraron en lugar de ellos; como hizo Israel en la tierra de su posesión que les dio Jehová.)"
+"Y en Seir habitaron antes los horeos, a los cuales echaron los hijos de Esaú; y los destruyeron de delante de #sí, y moraron en lugar de ellos; como hizo Israel en la tierra de su posesión que les dio Jehová.)"
 "Levantaos ahora, y pasad el arroyo de Zered. Y pasamos el arroyo de Zered."
-"Y el tiempo que anduvimos de Cades-barnea hasta que pasamos el arroyo de Zered, fue de treinta y ocho años; hasta que se acabó toda la generación de los hombres de guerra de en medio del campamento, como Jehová les había jurado."
+"Y el tiempo que anduvimos de Cades-barnea hasta que pasamos el arroyo de Zered, fue de treinta y ocho años; hasta que #se acabó toda la generación de los hombres de guerra de en medio del campamento, como Jehová les había jurado."
 "Y también la mano de Jehová fue contra ellos para destruirlos de en medio del campamento, hasta acabarlos."
 "Y aconteció que cuando todos los hombres de guerra se acabaron y perecieron de entre el pueblo,"
 "Jehová me habló, diciendo
@@ -33,5 +33,5 @@
 "Mas Jehová nuestro Dios lo entregó delante de nosotros; y lo derrotamos a él y a sus hijos, y a todo su pueblo."
 "Y tomamos entonces todas sus ciudades, y destruimos todas las ciudades, hombres, mujeres y niños; no dejamos ninguno."
 "Solamente tomamos para nosotros el ganado, y el despojo de las ciudades que habíamos tomado."
-"Desde Aroer, que está junto a la ribera del arroyo de Arnón, y [desde] la ciudad que [está] junto al arroyo, hasta Galaad, no hubo ciudad que escapase de nosotros; todas las entregó Jehová nuestro Dios en nuestro poder."
-"Solamente a la tierra de los hijos de Amón no llegaste, ni a todo lo que está a la orilla del arroyo de Jaboc ni a las ciudades del monte, ni a lugar alguno que Jehová nuestro Dios había prohibido."
+"Desde Aroer, que está junto a la ribera del arroyo de Arnón, y [desde] la ciudad que [está] junto al #arroyo, hasta Galaad, no hubo ciudad que escapase de nosotros; todas las entregó Jehová nuestro Dios en nuestro poder."
+"Solamente a la tierra de los hijos de Amón no llegaste, ni a todo lo que está a la orilla del #arroyo de Jaboc ni a las ciudades del monte, ni a lugar alguno que Jehová nuestro Dios había prohibido."

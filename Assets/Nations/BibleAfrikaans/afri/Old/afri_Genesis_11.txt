@@ -28,5 +28,5 @@
 "En Haran het gesterwe terwyl sy vader Tera nog geleef het, in sy geboorteland, in Ur van die Chaldeërs."
 "En Abram en Nahor het vir hulle vroue geneem. Die naam van Abram se vrou was Sarai, en die naam van Nahor se vrou was Milka, die dogter van Haran, die vader van Milka en die vader van Jiska."
 "En Sarai was onvrugbaar, sy het geen kind gehad nie."
-"En Tera het sy seun Abram geneem en Lot, die seun van Haran, sy kleinseun, en Sarai, sy skoondogter, die vrou van sy seun Abram, en dié het saam met hulle uit Ur van die Chaldeërs getrek om na die land Kanaän te gaan. En hulle het tot by Haran gekom en daar gaan woon."
+"En Tera het sy seun Abram geneem en Lot, die seun van Haran, sy kleinseun, en Sarai, sy skoondogter, die vrou van sy seun Abram, en dié het #saam met hulle uit Ur van die Chaldeërs getrek om na die land Kanaän te gaan. En hulle het tot by Haran gekom en daar gaan woon."
 "En die dae van Tera was twee honderd en vyf jaar, en Tera het in Haran gesterwe."

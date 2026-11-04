@@ -1,5 +1,5 @@
 "Jest zło, które widziałem pod słońcem i które jest powszechne wśród ludzi
-"Gdy jakiemuś człowiekowi Bóg dał bogactwo, majątek i sławę, tak że nie brakuje jego duszy nic z tego, czegokolwiek by pragnął, jednak Bóg nie daje mu możliwości spożywać tego, ale spożywa to obcy człowiek. Jest to marnością i ciężką niedolą."
+"Gdy jakiemuś człowiekowi Bóg dał bogactwo, majątek i sławę, tak że nie brakuje jego duszy nic z tego, czegokolwiek by pragnął, #jednak Bóg nie daje mu możliwości spożywać tego, ale spożywa to obcy człowiek. Jest to marnością i ciężką niedolą."
 "Choćby ktoś spłodził stu synów, żył wiele lat i dni jego lat się przedłużyły, a jego dusza nie była nasycona dobrem i nie miał nawet pogrzebu, powiadam
 "Ten bowiem przychodzi w marności i odchodzi w ciemności, a jego imię zostaje okryte ciemnością."
 "Nie widział nawet słońca i nic nie wie. Ma on większy spokój niż tamten."

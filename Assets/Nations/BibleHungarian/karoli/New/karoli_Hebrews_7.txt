@@ -2,7 +2,7 @@
 "A kinek tizedet is adott Ábrahám mindenbõl
 "Apa nélkül, anya nélkül, nemzetség nélkül való; sem napjainak kezdete, sem életének vége nincs, de hasonlóvá tétetvén az Isten Fiához, pap marad örökké."
 "Nézzétek meg pedig, mily nagy ez, a kinek a zsákmányból tizedet is adott Ábrahám, a pátriárka;"
-"És bár azoknak, kik a Lévi fiai közül nyerik el a papságot, parancsolatjok van, hogy törvény szerint tizedet szedjenek a néptõl, azaz az õ atyafiaiktól, jóllehet õk is az Ábrahám ágyékából származtak;"
+"És bár azoknak, kik a Lévi fiai közül nyerik el a papságot, parancsolatjok van, hogy törvény szerint #tizedet szedjenek a néptõl, azaz az õ atyafiaiktól, jóllehet õk is az Ábrahám ágyékából származtak;"
 "De az, a kinek nemzetsége nem azok közül való, tizedet vett Ábrahámtól, és az ígéretek birtokosát megáldotta,"
 "Pedig minden ellenmondás nélkül való, hogy a nagyobb áldja meg a kisebbet."
 "És itt halandó emberek szednek tizedet, ott ellenben az, a ki bizonyság szerint él

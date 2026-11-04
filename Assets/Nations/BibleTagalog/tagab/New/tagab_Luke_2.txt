@@ -12,7 +12,7 @@
 "At ito ang sa inyo'y magiging pinakatanda
 "At biglang nakisama sa anghel ang isang karamihang hukbo ng langit, na nangagpupuri sa Dios, at nangagsasabi
 "Luwalhati sa Dios sa kataastaasan, At sa lupa'y kapayapaan sa mga taong kinalulugdan niya."
-"At nangyari nang lisanin sila ng mga anghel at nangapasa langit, ang mga pastor ay nangagsangusapan. Magsiparoon nga tayo ngayon hanggang sa Bet-lehem, at tingnan natin itong nangyari, na ipinagbigay alam sa atin ng Panginoon."
+"At nangyari nang lisanin sila ng mga anghel at nangapasa langit, ang mga pastor ay nangagsangusapan. Magsiparoon nga #tayo ngayon hanggang sa Bet-lehem, at tingnan natin itong nangyari, na ipinagbigay alam sa atin ng Panginoon."
 "At sila'y dalidaling nagsiparoon at nasumpungan kapuwa si Maria at si Jose, at ang sanggol na nakahiga sa pasabsaban."
 "At nang makita nila yaon, ay inihayag nila ang mga sinabi sa kanila tungkol sa sanggol na ito."
 "At lahat ng nangakarinig nito ay nangagtaka sa mga bagay na sinabi sa kanila ng mga pastor."
@@ -33,7 +33,7 @@
 "At ang kaniyang ama at ang kaniyang ina ay nagsisipanggilalas sa mga bagay na sinasabi tungkol sa kaniya;"
 "At sila'y pinagpala ni Simeon, at sinabi sa kaniyang inang si Maria, Narito, ito ay itinalaga sa ikararapa at sa ikatitindig ng marami sa Israel; at pinakatandang tudlaan ng pagsalangsang
 "Oo at paglalampasanan ng isang tabak ang iyong sariling kaluluwa; upang mangahayag ang mga pagiisip ng maraming puso."
-"At naroroon din naman si Ana, na isang propetisa, anak na babae ni Fanuel, sa angkan ni Aser, (siya'y lubhang matanda na, at may pitong taong nakisama sa kaniyang asawa mula sa kaniyang kadalagahan,"
+"At naroroon din naman si Ana, na isang propetisa, anak na babae ni Fanuel, sa angkan ni Aser, #(siya'y lubhang matanda na, at may pitong taong nakisama sa kaniyang asawa mula sa kaniyang kadalagahan,"
 "At siya'y bao nang walongpu't apat na taon), na hindi humihiwalay sa templo, at sumasamba sa gabi at araw sa pamamagitan ng mga pagaayuno at mga pagdaing."
 "At pagdating niya sa oras ding yaon, siya'y nagpasalamat sa Dios, at nagsalita ng tungkol sa sanggol sa lahat ng nagsisipaghintay ng katubusan sa Jerusalem."
 "At nang maganap na nila ang lahat ng mga bagay na alinsunod sa kautusan ng Panginoon, ay nangagbalik sila sa Galilea, sa kanilang sariling bayang Nazaret."

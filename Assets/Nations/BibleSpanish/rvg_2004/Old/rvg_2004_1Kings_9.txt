@@ -3,8 +3,8 @@
 "Y le dijo Jehová
 "Y si tú anduvieres delante de mí, como anduvo David tu padre, en integridad de corazón y en equidad, haciendo todas las cosas que yo te he mandado, y guardando mis estatutos y mis decretos,"
 "yo afirmaré el trono de tu reino sobre Israel para siempre, como hablé a David tu padre, diciendo
-"Mas si obstinadamente os apartareis de mí vosotros y vuestros hijos, y no guardareis mis mandamientos y mis estatutos que yo he puesto delante de vosotros, sino que fuereis y sirviereis a dioses ajenos, y los adorareis;"
-"yo cortaré a Israel de sobre la faz de la tierra que les he entregado; y esta casa que he santificado a mi nombre, yo la echaré de delante de mí, e Israel será por proverbio y refrán a todos los pueblos;"
+"Mas si obstinadamente os apartareis de mí vosotros y vuestros hijos, y no guardareis mis mandamientos y mis estatutos #que yo he puesto delante de vosotros, sino que fuereis y sirviereis a dioses ajenos, y los adorareis;"
+"yo cortaré a Israel de sobre la faz de la tierra que les he entregado; y esta casa que he santificado a #mi nombre, yo la echaré de delante de mí, e Israel será por proverbio y refrán a todos los pueblos;"
 "y esta casa, que está en estima, cualquiera que pasare por ella se asombrará, y silbará, y dirá
 "Y dirán
 "Y aconteció al cabo de veinte años, cuando Salomón había edificado las dos casas, la casa de Jehová y la casa real"
@@ -16,10 +16,10 @@
 "Faraón el rey de Egipto había subido y tomado a Gezer, y la quemó, y dio muerte a los cananeos que habitaban la ciudad, y la dio en don a su hija la mujer de Salomón."
 "Restauró pues Salomón a Gezer, y a la baja Bet-horón,"
 "y a Baalat, y a Tadmor en tierra del desierto."
-"Asimismo todas las ciudades donde Salomón tenía municiones, y las ciudades de los carros, y las ciudades de la gente de a caballo, y todo lo que Salomón deseó edificar en Jerusalén, en el Líbano, y en toda la tierra de su señorío."
+"Asimismo todas las ciudades donde Salomón tenía municiones, y las ciudades de los carros, y las ciudades de la gente de a #caballo, y todo lo que Salomón deseó edificar en Jerusalén, en el Líbano, y en toda la tierra de su señorío."
 "A todos los pueblos que quedaron de los amorreos, heteos, ferezeos, heveos, jebuseos, que no fueron de los hijos de Israel;"
 "a sus hijos que quedaron en la tierra después de ellos, que los hijos de Israel no pudieron exterminar, hizo Salomón que sirviesen con tributo hasta hoy."
-"Mas a ninguno de los hijos de Israel impuso Salomón servicio, sino que eran hombres de guerra, o sus criados, o sus príncipes, o sus capitanes, o comandantes de sus carros, o su gente de a caballo."
+"Mas a ninguno de los hijos de Israel impuso Salomón servicio, sino que eran hombres de guerra, o sus #criados, o sus príncipes, o sus capitanes, o comandantes de sus carros, o su gente de a caballo."
 "Y los que Salomón había hecho jefes de los oficiales sobre las obras, eran quinientos cincuenta, los cuales estaban sobre el pueblo que trabajaba en aquella obra."
 "Y subió la hija de Faraón de la ciudad de David a su casa que Salomón le había edificado; entonces edificó él a Milo."
 "Y ofrecía Salomón tres veces cada año holocaustos y sacrificios de paz sobre el altar que él edificó a Jehová, y quemaba incienso sobre el altar que estaba delante de Jehová. Así terminó la casa."

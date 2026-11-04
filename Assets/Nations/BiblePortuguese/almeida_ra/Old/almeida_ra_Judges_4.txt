@@ -18,7 +18,7 @@
 "Saindo Jael ao encontro de Sísera, disse-lhe
 "Então ele lhe disse
 "Disse-lhe ele mais
-"Então Jael, mulher de Héber, tomou uma estaca da tenda e, levando um martelo, chegou-se de mansinho a ele e lhe cravou a estaca na fonte, de sorte que penetrou na terra; pois ele estava num profundo sono e mui cansado. E assim morreu."
+"Então Jael, mulher de Héber, tomou uma estaca da tenda e, levando um martelo, chegou-se de mansinho a ele e lhe cravou a #estaca na fonte, de sorte que penetrou na terra; pois ele estava num profundo sono e mui cansado. E assim morreu."
 "E eis que, seguindo Baraque a Sísera, Jael lhe saiu ao encontro e disse-lhe
 "Assim Deus naquele dia humilhou a Jabin, rei de Canaã, diante dos filhos de Israel."
 "E a mão dos filhos de Israel prevalecia cada vez mais contra Jabin, rei de Canaã, até que o destruíram."

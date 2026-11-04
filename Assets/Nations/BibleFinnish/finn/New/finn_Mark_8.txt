@@ -3,7 +3,7 @@
 "Ja jos minä päästän heidät kotiansa syömättä, niin he vaipuvat tiellä; sillä muutamat heistä olivat kaukaa tulleet."
 "Niin vastasivat häntä hänen opetuslapsensa
 "Ja hän kysyi heiltä
-"Ja hän käski kansan istua atrioitsemaan maan päälle. Ja hän otti ne seitsemän leipää, kuin hän kiittänyt oli, mursi ja antoi opetuslapsillensa, että he olisivat panneet eteen; ja he panivat kansan eteen."
+"Ja hän käski kansan istua atrioitsemaan maan päälle. Ja hän otti ne seitsemän leipää, kuin hän kiittänyt #oli, mursi ja antoi opetuslapsillensa, että he olisivat panneet eteen; ja he panivat kansan eteen."
 "Ja heillä oli myös vähä kalasia; ja hän kiitti, ja käski ne myös pantaa eteen."
 "Niin he söivät ja ravittiin; ja he korjasivat tähteet, jotka jääneet olivat, seitsemän koria muruja."
 "Ja niitä jotka söivät, oli liki neljätuhatta; ja hän päästi heidät."

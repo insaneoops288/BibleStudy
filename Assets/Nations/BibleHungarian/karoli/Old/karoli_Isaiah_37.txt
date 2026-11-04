@@ -1,7 +1,7 @@
 "És lõn, hogy meghallá Ezékiás, a király, meghasogatá ruháit, gyászba öltözött, és bement az Úr házába."
 "És elküldé Eljákimot az udvarnagyot, és Sebnát az íródeákot, és a papoknak gyászruhába öltözött véneit Ésaiáshoz, Ámós fiához, a prófétához."
 "Kik mondának néki
-"Talán meghallja az Úr, a te Istened, a Rabsaké beszédeit, a kit elküldött az õ ura, az assiriai király, hogy káromolja az élõ Istent, és szidalmazza azon beszédekkel, a melyeket hallott az Úr, a te Istened; és te könyörögj a maradékért, a mely megvan!"
+"Talán meghallja az Úr, a te Istened, a Rabsaké beszédeit, a kit elküldött az õ ura, az assiriai király, hogy káromolja az élõ #Istent, és szidalmazza azon beszédekkel, a melyeket hallott az Úr, a te Istened; és te könyörögj a maradékért, a mely megvan!"
 "Így menének el Ezékiás király szolgái Ésaiáshoz."
 "És monda nékik Ésaiás
 "Ímé, én oly lelket adok beléje, hogy hírt hallván, térjen vissza földére, és elejtem õt fegyver által az õ földében!"

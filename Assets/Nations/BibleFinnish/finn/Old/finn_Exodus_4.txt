@@ -6,7 +6,7 @@
 "Ja Herra sanoi vielä hänelle
 "Ja hän sanoi
 "Ja on tapahtuva, jollei he sinua usko, eikä ole kuuliaiset sinun äänelles yhden ihmeen tähden, niin he uskovat sinun äänes toisen ihmeen tähden."
-"Jollei he usko niitä kahta ihmettä, eikä ole kuuliaiset sinun äänelles, niin ota vettä virrasta, ja kaada kuivalle maalle, niin se vesi, jonkas olet ottanut virrasta, tulee vereksi kuivalla maalla."
+"Jollei he usko niitä kahta ihmettä, eikä ole kuuliaiset sinun äänelles, niin ota vettä virrasta, ja #kaada kuivalle maalle, niin se vesi, jonkas olet ottanut virrasta, tulee vereksi kuivalla maalla."
 "Niin sanoi Moses Herralle
 "Ja Herra sanoi hänelle
 "Mene siis nyt, minä olen sinun suussas, ja opetan sinua, mitä sinun puhuman pitää."

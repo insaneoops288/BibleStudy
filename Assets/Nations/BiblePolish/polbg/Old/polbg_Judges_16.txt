@@ -1,6 +1,6 @@
 "Potem szedł Samson do Gazy, a ujrzawszy tam niewiastę nierządną, wszedł do niej."
 "I powiedziano mieszczanom w Gazie
-"Ale Samson spał aż do północy, a wstawszy o północy, ujął wrota bramy miejskiej ze dwiema podwojami, i wyrwał je z zaworą, i włożył na ramiona swoje, a zaniósł je na wierzch góry, która była przeciw Hebronowi."
+"Ale Samson spał aż do północy, a wstawszy o północy, ujął wrota bramy miejskiej ze dwiema podwojami, i wyrwał #je z zaworą, i włożył na ramiona swoje, a zaniósł je na wierzch góry, która była przeciw Hebronowi."
 "I stało się potem, że się rozmiłował niewiasty w dolinie Sorek, której imię Dalila."
 "I przyszli do niej książęta Filistyńskie, i mówili jej
 "Tedy rzekła Dalila do Samsona

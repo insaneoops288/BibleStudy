@@ -9,7 +9,7 @@
 "Także każda, w piecu upieczona ofiara z pokarmów oraz wszystko, co zostało przyrządzone w rondlu, albo na patelni to do niego będzie należeć; do kapłana, co ją przynosi."
 "Ale każda ofiara z pokarmów, która jest zaczyniona oliwą, lub sucha, będzie należeć do wszystkich synów Ahrona; tak do jednego, jak i do drugiego."
 "A oto przepis o ofierze opłatnej, którą przynosi się WIEKUISTEMU."
-"Jeśli ktoś ją przynosi jako dziękczynienie, wtedy, przy tej ofierze dziękczynnej przyniesie zaczynione oliwą przaśne kołacze, przaśne opłatki posmarowane oliwą i wysmażoną na oliwie, przednią mąkę."
+"Jeśli ktoś ją przynosi jako dziękczynienie, wtedy, przy tej ofierze dziękczynnej przyniesie zaczynione oliwą #przaśne kołacze, przaśne opłatki posmarowane oliwą i wysmażoną na oliwie, przednią mąkę."
 "Przy swojej ofierze dziękczynno opłatnej powinien przynieść swoją ofiarę wraz z kołaczami kwaśnego chleba."
 "Niech przynosi z tego jeden z każdej ofiary, jako dań dla WIEKUISTEGO. Będzie to należeć do kapłana, który kropi krwią ofiar opłatnych."
 "A mięso ofiary dziękczynno opłatnej ma być spożyte w dzień ofiarowania; nie należy z tego zostawiać do jutra."
@@ -18,7 +18,7 @@
 "A jeśli trzeciego dnia byłoby jednak jedzone mięso tej ofiary to nie będzie upodobaną. Nie policzy się ona temu, kto ja przyniósł; będzie obrzydliwością; a kto z niej zje poniesie swoją winę."
 "Mięso, którym się dotknie czegoś nieczystego, nie będzie jadane; należy je spalić w ogniu. Zaś inne mięso każdy czysty może je jeść."
 "Ale kto by jadł mięso z ofiary opłatnej, ofiarowanej WIEKUISTEMU, a miał na sobie nieczystość ta dusza będzie wytracona ze swego ludu."
-"Zaś jeśli ktoś się dotknął czegoś nieczystego bądź nieczystości człowieczej, bądź nieczystego zwierzęcia, bądź jakiegokolwiek nieczystego potwora i będzie jadł mięso ofiary opłatnej poświęconej WIEKUISTEMU ta dusza będzie wytracona ze swojego ludu."
+"Zaś jeśli ktoś się dotknął czegoś nieczystego bądź nieczystości człowieczej, bądź nieczystego zwierzęcia, bądź jakiegokolwiek nieczystego potwora #i będzie jadł mięso ofiary opłatnej poświęconej WIEKUISTEMU ta dusza będzie wytracona ze swojego ludu."
 "WIEKUISTY także oświadczył Mojżeszowi, mówiąc
 "Powiedz synom Israela tak
 "Ale może być użyty do wszelkiej potrzeby łój padliny i łój rozszarpanego; jednak jeść jadać go nie będziecie."
@@ -31,7 +31,7 @@
 "Zaś kapłan puści łój z dymem na ofiarnicy, a mostek będzie dla Ahrona i jego synów."
 "Także oddacie kapłanowi prawą łopatkę jako podniesienie z waszych ofiar opłatnych."
 "Który z synów Ahrona przynosi z ofiar opłatnych krew i łój temu dostanie się w udziale prawa łopatka."
-"Bowiem mostek przedstawienia oraz łopatkę podniesienia wziąłem od synów Israela z ich ofiar opłatnych, i oddałem je kapłanowi Ahronowi oraz jego synom, jako część wyznaczoną na wieki od synów Israela."
+"Bowiem mostek przedstawienia oraz łopatkę podniesienia wziąłem od synów Israela z ich ofiar opłatnych, i oddałem #je kapłanowi Ahronowi oraz jego synom, jako część wyznaczoną na wieki od synów Israela."
 "Oto uświęcony udział Ahrona oraz uświęcony udział jego synów z ogniowych ofiar WIEKUISTEGO; od dnia, w którym dano im przystąpić do piastowania kapłaństwa WIEKUISTEMU."
 "Oto co rozkazał dawać im WIEKUISTY od dnia ich namaszczenia przez synów Israela. To jest wieczna ustawa w ich pokoleniach."
 "Oto przepis o całopaleniu, o ofierze z pokarmów, zagrzesznej i pokutnej, o ofierze wyświęcenia, i o ofierze opłatnej,"

@@ -9,5 +9,5 @@
 "I zginęła w morzu trzecia część żywych stworzeń, i trzecia część statków uległa zniszczeniu."
 "I zatrąbił trzeci anioł, i spadła z nieba wielka gwiazda, płonąca jak pochodnia, i spadła na trzecią część rzek i na źródła wód."
 "A imię gwiazdy brzmi Piołun. I trzecia część wód zamieniła się w piołun, i wielu ludzi umarło od tych wód, bo stały się gorzkie."
-"I zatrąbił czwarty anioł, i rażona została trzecia część słońca i trzecia część księżyca, i trzecia część gwiazd, tak że zaćmiła się trzecia ich część i dzień przez jedną trzecią swoją część nie jaśniał, podobnie i noc."
+"I zatrąbił czwarty anioł, i rażona została trzecia część słońca i trzecia część księżyca, i trzecia część gwiazd, tak #że zaćmiła się trzecia ich część i dzień przez jedną trzecią swoją część nie jaśniał, podobnie i noc."
 "I zobaczyłem, i usłyszałem jednego anioła lecącego środkiem nieba, który mówił donośnym głosem

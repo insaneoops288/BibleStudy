@@ -10,7 +10,7 @@
 "Mikor eljutának Atád szérûjéhez, mely a Jordánon túl van, nagy és keserves sírással sírának ott. József pedig hét napig gyászolá az õ atyját."
 "És láták az ország lakosai, a Kanaán népe azt a gyászt Atád szérûjénél, és mondának
 "Aképen cselekedének azért [Jákóbbal] az õ fiai, a miképen megparancsolta vala nékik."
-"Elvivék ugyanis õt az õ fiai Kanaán földére és eltemeték õt a Makpelah mezõnek barlangjába, melyet vett vala Ábrahám a mezõvel együtt temetésre való örökségnek a Khitteus Efrontól Mamrénak átellenében."
+"Elvivék ugyanis õt az õ fiai Kanaán földére és eltemeték õt a Makpelah mezõnek barlangjába, melyet #vett vala Ábrahám a mezõvel együtt temetésre való örökségnek a Khitteus Efrontól Mamrénak átellenében."
 "És visszatére József Égyiptomba, õ, és az õ atyjafiai, és mind azok, kik vele fölmentek vala az õ atyjának temetésére, minekutána eltemette az õ atyját."
 "A mint láták József bátyjai, hogy az õ atyjok meghalt, ezt mondják vala
 "Izenetet küldének azért Józsefhez, mondván

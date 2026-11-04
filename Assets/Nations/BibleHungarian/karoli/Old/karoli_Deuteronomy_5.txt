@@ -12,7 +12,7 @@
 "Vigyázz a szombatnak napjára, hogy megszenteld azt, a miképen megparancsolta néked az Úr, a te Istened."
 "Hat napon át munkálkodjál, és végezd minden dolgodat."
 "De a hetedik nap az Úrnak, a te Istenednek szombatja
-"És megemlékezzél róla, hogy szolga voltál Égyiptom földén, és kihozott onnan téged az Úr, a te Istened erõs kézzel és kinyújtott karral. Azért parancsolta néked az Úr, a te Istened, hogy a szombat napját megtartsad."
+"És megemlékezzél róla, hogy szolga voltál Égyiptom földén, és kihozott onnan téged az Úr, a te Istened erõs #kézzel és kinyújtott karral. Azért parancsolta néked az Úr, a te Istened, hogy a szombat napját megtartsad."
 "Tiszteld atyádat és anyádat, a mint megparancsolta néked az Úr, a te Istened; hogy hosszú ideig élj, és hogy jól legyen dolgod azon a földön, a melyet az Úr, a te Istened ád te néked."
 "Ne ölj."
 "És ne paráználkodjál."

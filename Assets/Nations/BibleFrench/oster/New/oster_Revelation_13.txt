@@ -11,7 +11,7 @@
 "Puis je vis une autre bête monter de la terre, qui avait deux cornes semblables à celles d'un agneau, et elle parlait comme un dragon."
 "Elle exerçait toute la puissance de la première bête en sa présence, et elle faisait que la terre et ses habitants adoraient la première bête, dont la plaie mortelle avait été guérie."
 "Et elle opérait de grands prodiges, même jusqu'à faire descendre du feu du ciel sur la terre, à la vue des hommes."
-"Et elle séduisait les habitants de la terre, par les prodiges qu'il lui était donné d'opérer en présence de la bête, disant aux habitants de la terre de dresser une image à la bête, qui après avoir reçu le coup mortel de l'épée, était encore en vie."
+"Et elle séduisait les habitants de la terre, par les prodiges qu'il lui était donné d'opérer en présence de la bête, disant aux habitants #de la terre de dresser une image à la bête, qui après avoir reçu le coup mortel de l'épée, était encore en vie."
 "Et il lui fut donné d'animer l'image de la bête, afin que l'image de la bête parlât, et elle fit mettre à mort tous ceux qui n'adoraient pas l'image de la bête."
 "Et elle faisait que tous, petits et grands, riches et pauvres, libres et esclaves, prenaient une marque à la main droite, ou au front."
 "Et personne ne pouvait acheter ni vendre, s'il n'avait la marque ou le nom de la bête, ou le nombre de son nom."

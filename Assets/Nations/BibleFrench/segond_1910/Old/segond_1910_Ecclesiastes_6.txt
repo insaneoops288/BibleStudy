@@ -1,6 +1,6 @@
 "Il est un mal que j'ai vu sous le soleil, et qui est fréquent parmi les hommes."
-"Il y a tel homme à qui Dieu a donné des richesses, des biens, et de la gloire, et qui ne manque pour son âme de rien de ce qu'il désire, mais que Dieu ne laisse pas maître d'en jouir, car c'est un étranger qui en jouira. C'est là une vanité et un mal grave."
-"Quand un homme aurait cent fils, vivrait un grand nombre d'années, et que les jours de ses années se multiplieraient, si son âme ne s'est point rassasiée de bonheur, et si de plus il n'a point de sépulture, je dis qu'un avorton est plus heureux que lui."
+"Il y a tel homme à qui Dieu a donné des richesses, des biens, et de la gloire, et qui ne manque pour son âme de rien de #ce qu'il désire, mais que Dieu ne laisse pas maître d'en jouir, car c'est un étranger qui en jouira. C'est là une vanité et un mal grave."
+"Quand un homme aurait cent fils, vivrait un grand nombre d'années, et que les jours de ses années se multiplieraient, si son âme ne #s'est point rassasiée de bonheur, et si de plus il n'a point de sépulture, je dis qu'un avorton est plus heureux que lui."
 "Car il est venu en vain, il s'en va dans les ténèbres, et son nom reste couvert de ténèbres;"
 "il n'a point vu, il n'a point connu le soleil; il a plus de repos que cet homme."
 "Et quand celui-ci vivrait deux fois mille ans, sans jouir du bonheur, tout ne va-t-il pas dans un même lieu?"

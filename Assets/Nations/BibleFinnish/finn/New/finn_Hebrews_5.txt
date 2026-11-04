@@ -9,6 +9,6 @@
 "Ja kuin hän täydelliseksi tuli, on hän kaikille niille, jotka hänelle kuuliaiset ovat, syy ijankaikkiseen autuuteen,"
 "Ja on Jumalalta ylimmäiseksi Papiksi nimitetty, Melkisedekin säädyn jälkeen,"
 "Josta meillä on paljo sanomista, ja se on työläs selittää; sillä te olette kovakorvaisiksi tulleet."
-"Sillä te, joiden piti alkaa opettajat oleman, tarvitsette taas, että me teille ensimäiset puustavit Jumalan sanan opista opettaisimme, ja olette tulleet niiksi, jotka tarvitsevat rieskaa ja ei vahvaa ruokaa."
+"Sillä te, joiden piti alkaa opettajat oleman, tarvitsette taas, että me teille ensimäiset puustavit Jumalan #sanan opista opettaisimme, ja olette tulleet niiksi, jotka tarvitsevat rieskaa ja ei vahvaa ruokaa."
 "Sillä jolle vielä rieskaa pitää annettaman, se on harjoittamatoin vanhurskauden sanaan; (sillä hän on lapsi;)"
 "Mutta täydellisten sopii vahva ruoka, joilla ovat tottumisen kautta harjoitetut mielet hyvää ja pahaa eroittamaan."

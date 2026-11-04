@@ -1,7 +1,7 @@
 "Kurse një farë burri, me emër Anania, me gruan e vet Safira, shiti një arë,"
 "por mbajti për vete një pjesë të parave, me miratimin e gruas, dhe e çoi mbetjen te këmbët e apostujve."
 "Por Pjetri i tha
-"Po të mbetej e pashitur, a nuk do të ngelte e jotja? Dhe ato që more nga shitja a nuk ishin vallë në dispozicionin tënd? Pse e shtive në zemër këtë gjë? Ti nuk ke gënjyer njerëzit, por Perëndinë!''."
+"Po të mbetej e pashitur, a nuk do të ngelte e jotja? Dhe ato që more nga shitja a nuk #ishin vallë në dispozicionin tënd? Pse e shtive në zemër këtë gjë? Ti nuk ke gënjyer njerëzit, por Perëndinë!''."
 "Kur i dëgjoi këto fjalë, Anania ra përtokë dhe dha shpirt. Dhe një frikë e madhe i zuri të gjithë ata që i dëgjuan këto gjëra."
 "Atëherë u ngritën disa të rinj, e mbështollën, e mbartën jashtë dhe e varrosën."
 "Dhe afërsisht tre orë më vonë hyri dhe gruaja e tij, e cila nuk dinte ç'kishte ndodhur."
@@ -18,7 +18,7 @@
 "dhe vunë dorë mbi apostujt dhe i futën në burgun publik."
 "Por një engjëll i Zotit, natën, i hapi dyert e burgut dhe, si i nxori jashtë, tha
 "''Shkoni, paraqituni në tempull dhe i shpallni popullit të gjitha fjalët e kësaj jete''."
-"Dhe ata, si i dëgjuan këto, hynë në tempull kur zbardhte dita dhe mësonin. Por kryeprifti dhe ata që ishin me të, erdhën dhe thirrën bashkë sinedrin dhe të gjithë pleqtë e bijve të Izraelit; pastaj dërguan rojet në burg për t'i sjellë apostujt."
+"Dhe ata, si i dëgjuan këto, hynë në tempull kur zbardhte dita dhe mësonin. Por kryeprifti dhe ata që ishin me të, erdhën #dhe thirrën bashkë sinedrin dhe të gjithë pleqtë e bijve të Izraelit; pastaj dërguan rojet në burg për t'i sjellë apostujt."
 "Por rojet, kur arritën në burg, nuk i gjetën; dhe kur u kthyen bënë raportimin e tyre,"
 "duke thënë
 "Por kryeprifti, komandanti i rojeve të tempullit dhe krerët e priftërinjve, kur i dëgjuan këto gjëra, mbetën të habitur lidhur me këtë, sepse nuk dinin ç'donte të thoshte gjithë kjo punë."

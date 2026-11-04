@@ -13,7 +13,7 @@
 "Prandaj tani, që më ke me sy të mirë, më bëj të njohura rrugët e tua, që të kem mundësi të të njoh dhe të fitoj hir në sytë e tu. Merr parasysh gjithashtu se ky komb është populli yt""."
 "Zoti u përgjigj
 "Atëherë Moisiu i tha
-"Si do të mund të njihet tani që unë dhe populli yt, kemi gjetur hir në sytë e tu? Ndofta kjo ndodh sepse ti vjen me ne? Kështu unë dhe populli yt do të dallohemi nga tërë popujt që jetojnë mbi faqen e dheut""."
+"Si do të mund të njihet tani që unë dhe populli yt, kemi gjetur hir në sytë e tu? Ndofta kjo ndodh sepse #ti vjen me ne? Kështu unë dhe populli yt do të dallohemi nga tërë popujt që jetojnë mbi faqen e dheut""."
 "Zoti i tha Moisiut
 "Atëherë Moisiu tha
 "Zoti iu përgjigj

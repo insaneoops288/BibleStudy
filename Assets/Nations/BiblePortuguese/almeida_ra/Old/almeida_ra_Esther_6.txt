@@ -6,7 +6,7 @@
 "Haman, pois, entrou. Perguntou-lhe o rei
 "Pelo que disse Haman ao rei
 "sejam trazidos trajes reais que o rei tenha usado, e o cavalo em que o rei costuma andar, e ponha-se-lhe na cabeça uma coroa real;"
-"sejam entregues os trajes e o cavalo à mão dum dos príncipes mais nobres do rei, e vistam deles aquele homem a quem o rei se agrada honrar, e façam-no andar montado pela praça da cidade, e proclamem diante dele
+"sejam entregues os trajes e o cavalo à mão dum dos príncipes mais nobres do rei, e vistam deles aquele homem #a quem o rei se agrada honrar, e façam-no andar montado pela praça da cidade, e proclamem diante dele
 "Então disse o rei a Haman
 "Haman, pois, tomou os trajes e o cavalo e vestiu a Mardoqueu, e o fez andar montado pela praça da cidade, e proclamou diante dele
 "Depois disto Mardoqueu voltou para a porta do rei; porém Haman se recolheu a toda pressa para sua casa, lamentando-se e de cabeça coberta."

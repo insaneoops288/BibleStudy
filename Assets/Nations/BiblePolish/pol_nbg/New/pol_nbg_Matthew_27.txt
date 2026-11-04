@@ -61,6 +61,6 @@
 "A była tam Maria Magdalena oraz inna Maria, siedzące naprzeciw grobu."
 "A nazajutrz, które jest po dniu Przygotowania, zostali zebrani u Piłata przedniejsi kapłani i faryzeusze,"
 "mówiąc
-"Zatem rozkaż zabezpieczyć grób aż do trzeciego dnia, aby jego uczniowie, przyszedłszy w nocy, go nie ukradli, oraz nie powiedzieli ludowi, że jest wzbudzony z martwych; i będzie ostatni błąd gorszy niż pierwszy."
+"Zatem rozkaż zabezpieczyć grób aż do trzeciego dnia, aby jego uczniowie, przyszedłszy w nocy, go nie ukradli, #oraz nie powiedzieli ludowi, że jest wzbudzony z martwych; i będzie ostatni błąd gorszy niż pierwszy."
 "A Piłat im powiedział
 "Więc oni poszli, zabezpieczyli sobie grób za pomocą straży i zapieczętowali kamień."

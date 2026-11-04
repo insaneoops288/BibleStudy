@@ -2,10 +2,10 @@
 "Hãy biểu dân Y-sơ-ra-ên do trong phần sản nghiệp mình đã có, nhường những thành cho người Lê-vi đặng ở; cho luôn một miếng đất ở chung quanh các thành đó."
 "Người Lê-vi sẽ có những thành đặng ở; còn đất chung quanh các thành nầy sẽ dùng cho súc vật, cho sản vật, và cho hết thảy thú vật của họ."
 "Ðất chung quanh thành mà các ngươi nhường cho người Lê-vi sẽ là một ngàn thước chu vi, kể từ vách thành và ở ngoài."
-"Vậy các ngươi phải đo, phía ngoài thành về hướng đông hai ngàn thước, về hướng nam hai ngàn thước, về hướng tây hai ngàn thước, và về hướng bắc hai ngàn thước; cái thành sẽ ở chính giữa. Ðó sẽ là đất của những thành người Lê-vi."
-"Trong số thành các ngươi sẽ nhường cho người Lê-vi, sẽ có sáu cái thành ẩn náu mà các ngươi phải chỉ cho, để kẻ sát nhơn trốn tránh tại đó; ngoài sáu thành đó, các ngươi phải nhường cho người Lê-vi bốn mươi hai cái thành."
+"Vậy các ngươi phải đo, phía ngoài thành về hướng đông hai ngàn thước, về hướng nam hai ngàn thước, về hướng tây hai ngàn #thước, và về hướng bắc hai ngàn thước; cái thành sẽ ở chính giữa. Ðó sẽ là đất của những thành người Lê-vi."
+"Trong số thành các ngươi sẽ nhường cho người Lê-vi, sẽ có sáu cái thành ẩn náu mà các ngươi phải chỉ cho, để #kẻ sát nhơn trốn tránh tại đó; ngoài sáu thành đó, các ngươi phải nhường cho người Lê-vi bốn mươi hai cái thành."
 "Hết thảy thành các ngươi sẽ nhường cho người Lê-vi luôn với đất, số là bốn mươi tám cái."
-"Về những thành do trong sản nghiệp của dân Y-sơ-ra-ên mà các ngươi sẽ nhường cho người Lê-vi phải lấy bớt nhiều hơn của chi phái có nhiều, và lấy bớt ít hơn của chi phái có ít; mỗi chi phái nhường cho người Lê-vi những thành cân phân theo sản nghiệp của mình sẽ được."
+"Về những thành do trong sản nghiệp của dân Y-sơ-ra-ên mà các ngươi sẽ nhường cho người Lê-vi phải lấy bớt nhiều hơn của chi phái có nhiều, và #lấy bớt ít hơn của chi phái có ít; mỗi chi phái nhường cho người Lê-vi những thành cân phân theo sản nghiệp của mình sẽ được."
 "Ðoạn, Ðức Giê-hô-va phán cùng Môi-se rằng
 "Hãy nói cùng dân Y-sơ-ra-ên rằng
 "thì phải lựa những thành dùng làm thành ẩn náu cho mình, là nơi kẻ sát nhơn, vì vô ý đánh chết ai, chạy ẩn náu mình được."
@@ -22,7 +22,7 @@
 "Nếu vì tình cờ, vẫn hòa thuận nhau, mà người có lấn xô, hoặc liệng vật chi trên mình người kia,"
 "hoặc nếu không phải thù nghịch chẳng có ý làm hại, lại không thấy mà làm rớt một cục đá trên mình người kia, có thế làm chết được, và nếu người chết đi,"
 "thì cứ theo luật lệ nầy, hội chúng phải xử đoán cho kẻ đã đánh và kẻ báo thù huyết
-"hội chúng sẽ giải cứu kẻ sát nhơn khỏi tay người báo thù huyết, và biểu người trở về thành ẩn náu, là nơi người đã chạy ẩn mình; và người phải ở đó cho đến chừng nào thầy tế lễ thượng phẩm đã được xức dầu thánh qua đời."
+"hội chúng sẽ giải cứu kẻ sát nhơn khỏi tay người báo thù huyết, và biểu người trở về thành ẩn náu, là nơi người đã #chạy ẩn mình; và người phải ở đó cho đến chừng nào thầy tế lễ thượng phẩm đã được xức dầu thánh qua đời."
 "Nhưng nếu kẻ sát nhơn đi ra ngoài giới hạn của thành ẩn náu, là nơi người đã chạy ẩn mình,"
 "và nếu kẻ báo thù huyết gặp, giết người ở ngoài giới hạn thành ẩn náu, thì kẻ báo thù huyết sẽ không mắc tội sát nhơn."
 "Vì kẻ sát nhơn phải ở trong thành ẩn náu cho đến chừng nào thầy tế lễ thượng phẩm qua đời, kẻ sát nhơn sẽ được trở về trong sản nghiệp mình."

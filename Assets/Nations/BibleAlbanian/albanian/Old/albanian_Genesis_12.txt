@@ -2,10 +2,10 @@
 "Unë prej teje do të bëj një komb të madh, do të të bekoj dhe do ta bëj të madh emrin tënd, dhe ti do të jesh një bekim."
 "Dhe unë do të bekoj të gjithë ata që do të të bekojnë dhe do të mallkoj ata që do të të mallkojnë, te ti do të jenë të bekuara tërë familjet e tokës""."
 "Atëherë Abrami u nis siç i kishte thënë Zoti dhe Loti shkoi me të. Abrami ishte shtatëdhjetë e pesë vjeç kur u nis nga Harani."
-"Dhe Abrami mori me vete Sarajn, gruan e tij, dhe Lotin, birin e të vëllait, dhe të gjithë pasurinë që kishin grumbulluar dhe personat që kishin blerë në Haran, dhe u nisën për të vajtur në vendin e Kanaanëve. Kështu ata arritën në vendin e Kanaanit."
+"Dhe Abrami mori me vete Sarajn, gruan e tij, dhe Lotin, birin e të vëllait, dhe të gjithë pasurinë që kishin grumbulluar dhe personat #që kishin blerë në Haran, dhe u nisën për të vajtur në vendin e Kanaanëve. Kështu ata arritën në vendin e Kanaanit."
 "Abrami e kapërceu vendin deri te lokaliteti i Sikemit, deri tek lisi i Morehut. Në atë kohë ndodheshin në atë vend Kanaanejtë."
 "Atëherë u shfaq Zoti përpara Abramit dhe i tha
-"Së këtejmi u zhvendos drejt malit në lindje të Bethelit dhe ngriti çadrat e tij, duke pasur Bethelin në jug dhe Ainë në lindje; dhe ndërtoi aty një altar kushtuar Zotit dhe i bëri thirrje emrit të Zotit."
+"Së këtejmi u zhvendos drejt malit në lindje të Bethelit dhe ngriti çadrat e tij, duke pasur Bethelin në jug #dhe Ainë në lindje; dhe ndërtoi aty një altar kushtuar Zotit dhe i bëri thirrje emrit të Zotit."
 "Pastaj Abrami filloi një udhëtim, duke vazhduar të zhvendoset në drejtim të Negevit."
 "Por në vend pati zi buke dhe Abrami zbriti në Egjipt për të banuar, sepse në vendin e tij ishte zi e madhe buke."
 "Por ndodhi që kur po hynin në Egjypt ai i tha Sarajt, gruas së tij

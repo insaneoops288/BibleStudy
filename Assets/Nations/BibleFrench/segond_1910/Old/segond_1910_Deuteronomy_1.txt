@@ -4,7 +4,7 @@
 "C'était après qu'il eut battu Sihon, roi des Amoréens, qui habitait à Hesbon, et Og, roi de Basan, qui habitait à Aschtaroth et à Edréi."
 "De l'autre côté du Jourdain, dans le pays de Moab, Moïse commença à expliquer cette loi, et dit
 "L'Eternel, notre Dieu, nous a parlé à Horeb, en disant
-"Tournez-vous, et partez; allez à la montagne des Amoréens et dans tout le voisinage, dans la plaine, sur la montagne, dans la vallée, dans le midi, sur la côte de la mer, au pays des Cananéens et au Liban, jusqu'au grand fleuve, au fleuve d'Euphrate."
+"Tournez-vous, et partez; allez à la montagne des Amoréens et dans tout le voisinage, dans la plaine, sur la montagne, dans la vallée, #dans le midi, sur la côte de la mer, au pays des Cananéens et au Liban, jusqu'au grand fleuve, au fleuve d'Euphrate."
 "Voyez, j'ai mis le pays devant vous; allez, et prenez possession du pays que l'Eternel a juré à vos pères, Abraham, Isaac et Jacob, de donner à eux et à leur postérité après eux."
 "Dans ce temps-là, je vous dis
 "L'Eternel, votre Dieu, vous a multipliés, et vous êtes aujourd'hui aussi nombreux que les étoiles du ciel."
@@ -12,11 +12,11 @@
 "Comment porterais-je, à moi seul, votre charge, votre fardeau et vos contestations?"
 "Prenez dans vos tribus des hommes sages, intelligents et connus, et je les mettrai à votre tête."
 "Vous me répondîtes, en disant
-"Je pris alors les chefs de vos tribus, des hommes sages et connus, et je les mis à votre tête comme chefs de mille, chefs de cent, chefs de cinquante, et chefs de dix, et comme ayant autorité dans vos tribus."
+"Je pris alors les chefs de vos tribus, des hommes sages et connus, et je les mis à votre tête comme #chefs de mille, chefs de cent, chefs de cinquante, et chefs de dix, et comme ayant autorité dans vos tribus."
 "Je donnai, dans le même temps, cet ordre à vos juges
-"Vous n'aurez point égard à l'apparence des personnes dans vos jugements; vous écouterez le petit comme le grand; vous ne craindrez aucun homme, car c'est Dieu qui rend la justice. Et lorsque vous trouverez une cause trop difficile, vous la porterez devant moi, pour que je l'entende."
+"Vous n'aurez point égard à l'apparence des personnes dans vos jugements; vous écouterez le petit comme le grand; vous ne craindrez aucun homme, car #c'est Dieu qui rend la justice. Et lorsque vous trouverez une cause trop difficile, vous la porterez devant moi, pour que je l'entende."
 "C'est ainsi que je vous prescrivis, dans ce temps-là, tout ce que vous aviez à faire."
-"Nous partîmes d'Horeb, et nous parcourûmes en entier ce grand et affreux désert que vous avez vu; nous prîmes le chemin de la montagne des Amoréens, comme l'Eternel, notre Dieu, nous l'avait ordonné, et nous arrivâmes à Kadès-Barnéa."
+"Nous partîmes d'Horeb, et nous parcourûmes en entier ce grand et affreux désert que vous avez vu; nous prîmes le #chemin de la montagne des Amoréens, comme l'Eternel, notre Dieu, nous l'avait ordonné, et nous arrivâmes à Kadès-Barnéa."
 "Je vous dis
 "Vois, l'Eternel, ton Dieu, met le pays devant toi; monte, prends-en possession, comme te l'a dit l'Eternel, le Dieu de tes pères; ne crains point, et ne t'effraie point."
 "Vous vous approchâtes tous de moi, et vous dîtes

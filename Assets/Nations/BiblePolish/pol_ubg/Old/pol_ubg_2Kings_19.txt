@@ -1,7 +1,7 @@
 "A gdy król Ezechiasz to usłyszał, rozdarł swoje szaty, oblekł się w wór i wszedł do domu PANA."
 "I posłał Eliakima, przełożonego domu, pisarza Szebnę i starszych spośród kapłanów, obleczonych w wory, do proroka Izajasza, syna Amosa."
 "I powiedzieli mu
-"Może PAN, twój Bóg, usłyszy wszystkie słowa Rabszaka, którego przysłał król Asyrii, jego pan, aby znieważać Boga żywego, i pomści słowa, które usłyszał PAN, twój Bóg. Zanieś więc modlitwę za resztkę, która pozostaje."
+"Może PAN, twój Bóg, usłyszy wszystkie słowa Rabszaka, którego przysłał król Asyrii, jego pan, aby znieważać Boga #żywego, i pomści słowa, które usłyszał PAN, twój Bóg. Zanieś więc modlitwę za resztkę, która pozostaje."
 "Tak to słudzy króla Ezechiasza przyszli do Izajasza."
 "A Izajasz im odpowiedział
 "Oto ześlę na niego ducha i usłyszy pewną wieść, wróci do swojej ziemi i sprawię, że padnie od miecza w swojej ziemi."

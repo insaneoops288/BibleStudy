@@ -1,7 +1,7 @@
 "Azt tettem pedig fel magamban, hogy nem megyek közétek ismét szomorúsággal."
 "Mert ha én megszomorítlak titeket, ugyan ki az, a ki megvídámít engem, hanemha a kit én megszomorítok?"
 "És azért írtam néktek éppen azt, hogy mikor oda megyek, meg ne szomoríttassam azok miatt, a kiknek örülnöm kellene; meg lévén gyõzõdve mindenitek felõl, hogy az én örömöm mindnyájatoké."
-"Mert sok szorongattatás és szívbeli háborgás között írtam néktek sok könyhullatással, nem hogy megszomoríttassatok, hanem hogy megismerjétek azt a szeretetet, a mellyel kiváltképen irántatok viseltetem."
+"Mert sok szorongattatás és szívbeli háborgás között írtam néktek sok könyhullatással, nem hogy #megszomoríttassatok, hanem hogy megismerjétek azt a szeretetet, a mellyel kiváltképen irántatok viseltetem."
 "Ha pedig valaki megszomorított, nem engem szomorított meg, hanem részben, hogy [azt] ne terheljem, titeket mindnyájatokat."
 "Elég az ilyennek a többség részérõl való ilyen megbüntetése
 "Annyira, hogy éppen ellenkezõleg ti inkább bocsássatok meg néki és vígasztaljátok, hogy valamiképen a felettébb való bánat meg ne eméssze az ilyet."

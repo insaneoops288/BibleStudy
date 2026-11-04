@@ -1,7 +1,7 @@
 "Și s-a întâmplat, când împăratul Ezechia a auzit [aceasta], că și-a sfâșiat hainele și s-a acoperit cu pânză de sac și a intrat în casa DOMNULUI."
 "Și a trimis pe Eliachim, care [era] peste casă și pe Șebna, scribul, și pe bătrânii preoților, acoperiți cu pânză de sac, la profetul Isaia, fiul lui Amoț."
 "Și ei i-au zis
-"Poate că DOMNUL Dumnezeul tău va auzi toate cuvintele lui Rabșache, pe care l-a trimis împăratul Asiriei, stăpânul său, să ocărască pe Dumnezeul cel viu; și va mustra cuvintele pe care DOMNUL Dumnezeul tău le-a auzit; de aceea înalță rugăciunea ta pentru rămășița care a rămas."
+"Poate că DOMNUL Dumnezeul tău va auzi toate cuvintele lui Rabșache, pe care l-a trimis împăratul Asiriei, stăpânul său, să ocărască pe Dumnezeul cel #viu; și va mustra cuvintele pe care DOMNUL Dumnezeul tău le-a auzit; de aceea înalță rugăciunea ta pentru rămășița care a rămas."
 "Astfel servitorii împăratului Ezechia au venit la Isaia."
 "Și Isaia le-a zis
 "Iată, voi trimite o pufnire peste el și va auzi un zvon și se va întoarce în țara sa; și îl voi face să cadă prin sabie în țara sa."
@@ -23,7 +23,7 @@
 "Prin mesagerii tăi tu ai ocărât pe DOMNUL și ai spus
 "Am săpat și am băut ape străine și cu talpa picioarelor mele am secat toate râurile locurilor asediate."
 "Nu ai auzit [tu], [că ]de demult am făcut aceasta; [și că ]din timpuri vechi am întocmit-o? Acum eu am împlinit-o, ca tu să prefaci cetăți întărite [în ]mormane de ruine."
-"De aceea locuitorii lor [au avut ]mică putere, au fost descurajați și încurcați, au fost [ca ]iarba câmpului și [ca ]planta verde, [ca ]iarba de pe acoperișurile caselor și [ca grâne ]prăjite înainte să fi crescut."
+"De aceea locuitorii lor [au avut ]mică putere, au fost descurajați și încurcați, au fost [ca ]iarba câmpului și #[ca ]planta verde, [ca ]iarba de pe acoperișurile caselor și [ca grâne ]prăjite înainte să fi crescut."
 "Dar eu cunosc locuința ta și ieșirea ta și intrarea ta și furia ta împotriva mea."
 "Deoarece furia ta împotriva mea și fala ta s-au ridicat la urechile mele, de aceea voi pune veriga mea în nasul tău și frâul meu în buzele tale și te voi întoarce pe calea pe care ai venit."
 "Și acesta îți[ va fi ]semn
@@ -32,6 +32,6 @@
 "De aceea astfel spune DOMNUL referitor la împăratul Asiriei
 "Pe calea pe care a venit, pe aceeași se va întoarce și nu va intra în această cetate, spune DOMNUL."
 "Fiindcă eu voi apăra această cetate pentru a o salva de dragul meu și de dragul servitorului meu, David."
-"Și s-a întâmplat, în acea noapte, că îngerul Domnului a ieșit și a lovit în tabăra asirienilor o sută optzeci și cinci de mii; și când s-au sculat devreme dimineața, iată, ei toți [erau] trupuri moarte."
+"Și s-a întâmplat, în acea noapte, că îngerul Domnului a ieșit și a lovit în tabăra asirienilor o sută #optzeci și cinci de mii; și când s-au sculat devreme dimineața, iată, ei toți [erau] trupuri moarte."
 "Astfel Sanherib, împăratul Asiriei, a plecat și a mers și s-a întors și a locuit la Ninive."
-"Și s-a întâmplat, pe când el se închina în casa lui Nisroc, dumnezeul său, că Adramelec și Șarețer, fiii săi, l-au lovit cu sabia; și au scăpat în țara Armenia. Și Esar-Hadon, fiul său, a domnit în locul său."
+"Și s-a întâmplat, pe când el se închina în casa lui Nisroc, dumnezeul său, că Adramelec și Șarețer, fiii săi, #l-au lovit cu sabia; și au scăpat în țara Armenia. Și Esar-Hadon, fiul său, a domnit în locul său."

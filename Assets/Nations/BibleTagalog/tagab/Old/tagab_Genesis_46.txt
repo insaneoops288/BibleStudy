@@ -2,7 +2,7 @@
 "At kinausap ng Dios si Israel sa mga panaginip sa gabi, at sinabi, Jacob, Jacob. At sinabi niya, Narito ako
 "At kaniyang sinabi, Ako'y Dios, ang Dios ng iyong ama, huwag kang matakot na bumaba sa Egipto
 "Ako'y bababang kasama mo sa Egipto; at tunay na iaahon kita uli, at ipapatong ni Jose ang kaniyang kamay sa iyong mga mata."
-"At bumangon si Jacob mula sa Beerseba; at dinala ng mga anak ni Israel si Jacob na kanilang ama, at ang kanilang mga bata, at ang kanilang mga asawa, sa mga kariton na ipinadala ni Faraon kay Jacob."
+"At bumangon si Jacob mula sa Beerseba; at dinala ng mga anak ni Israel si Jacob na kanilang ama, at #ang kanilang mga bata, at ang kanilang mga asawa, sa mga kariton na ipinadala ni Faraon kay Jacob."
 "At kanilang dinala ang kanilang mga hayop, at ang kanilang mga pag-aari na kanilang inimpok sa lupain ng Canaan, at na pasa Egipto, si Jacob at ang buong binhi niya na kasama niya."
 "Ang kaniyang mga anak na lalake at babae, at ang mga anak na lalake at babae ng kaniyang mga anak na kasama niya, at ang kaniyang buong binhi ay dinala niyang kasama niya sa Egipto."
 "At ito ang mga pangalan ng mga anak ni Israel, na napasa Egipto, ni Jacob at ng kaniyang mga anak
@@ -28,7 +28,7 @@
 "At pinapagpauna niya si Juda kay Jose, upang ituro ang daan na patungo sa Gosen; at sila'y nagsidating sa lupain ng Gosen."
 "At inihanda ni Jose ang kaniyang karro, at sumampang sinalubong si Israel na kaniyang ama sa Gosen; at siya'y humarap sa kaniya, at yumakap sa kaniyang leeg, at umiyak sa kaniyang leeg na matagal."
 "At sinabi ni Israel kay Jose, Ngayo'y mamatay na ako yamang nakita ko na ang iyong mukha, na ikaw ay buhay pa."
-"At sinabi ni Jose sa kaniyang mga kapatid, at sa sangbahayan ng kaniyang ama, Ako'y aahon, at aking sasaysayin kay Faraon, at aking sasabihin sa kaniya. Ang aking mga kapatid, at ang sangbahayan ng aking ama, na nangasa lupain ng Canaan, ay naparito sa akin;"
+"At sinabi ni Jose sa kaniyang mga kapatid, at sa sangbahayan ng kaniyang ama, Ako'y aahon, at aking sasaysayin kay Faraon, at aking #sasabihin sa kaniya. Ang aking mga kapatid, at ang sangbahayan ng aking ama, na nangasa lupain ng Canaan, ay naparito sa akin;"
 "At ang mga lalake ay mga pastor, sapagka't sila'y naging tagapagalaga ng hayop, at kanilang dinala ang kanilang mga kawan, at ang kanilang mga bakahan, at ang lahat nilang tinatangkilik."
 "At mangyayaring, pagka tatawagin kayo ni Faraon, at sasabihin, Ano ang inyong hanapbuhay?"
-"Na inyong sasabihin, Ang iyong mga lingkod ay naging tagapagalaga ng hayop mula sa aming pagkabata hanggang ngayon, kami at ang aming mga magulang; upang kayo'y matira sa lupain ng Gosen; sapagka't bawa't pastor ay kasuklamsuklam sa mga Egipcio."
+"Na inyong sasabihin, Ang iyong mga lingkod ay naging tagapagalaga ng hayop mula sa aming pagkabata hanggang ngayon, kami at #ang aming mga magulang; upang kayo'y matira sa lupain ng Gosen; sapagka't bawa't pastor ay kasuklamsuklam sa mga Egipcio."

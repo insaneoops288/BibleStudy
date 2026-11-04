@@ -28,7 +28,7 @@
 "Dar el a spus
 "Iar pe când mulțimea se îngrămădea, a început să spună
 "Fiindcă așa cum Iona a fost un semn ninivenilor, tot așa va fi și Fiul omului acestei generații."
-"Împărăteasa sudului se va ridica în judecată cu bărbații acestei generații și îi va condamna, pentru că a venit de la marginile pământului să audă înțelepciunea lui Solomon; și iată, aici [este] [unul] mai mare decât Solomon."
+"Împărăteasa sudului se va ridica în judecată cu bărbații acestei generații și îi va condamna, pentru că a venit #de la marginile pământului să audă înțelepciunea lui Solomon; și iată, aici [este] [unul] mai mare decât Solomon."
 "Bărbații din Ninive se vor scula în judecată cu această generație și o vor condamna, pentru că s-au pocăit la predicarea lui Iona; și iată, aici [este] [unul] mai mare decât Iona."
 "Și nimeni după ce a aprins o candelă nu [o] pune într-un loc tainic, nici sub oboroc, ci pe un sfeșnic, ca toți care intră să vadă lumina."
 "Lumina trupului este ochiul; de aceea când ochiul tău este ațintit clar, tot trupul tău de asemenea este plin de lumină; dar când este stricat, trupul tău de asemenea [este] plin de întuneric."
@@ -39,7 +39,7 @@
 "Și Domnul i-a spus
 "Nebunilor, nu cel care a făcut exteriorul a făcut și interiorul?"
 "Dați mai degrabă milostenii din cele ce aveți; și iată, toate vă sunt curate."
-"Dar vai vouă, fariseilor! Pentru că dați zeciuială [din] mentă și rută și [din] toate felurile de ierburi și neglijați judecata și dragostea de Dumnezeu; pe acestea trebuia să [le] faceți și pe celelalte să nu le lăsați nefăcute."
+"Dar vai vouă, fariseilor! Pentru că dați zeciuială [din] mentă și rută și [din] toate felurile de ierburi și neglijați #judecata și dragostea de Dumnezeu; pe acestea trebuia să [le] faceți și pe celelalte să nu le lăsați nefăcute."
 "Vai vouă, fariseilor! Pentru că iubiți scaunele din față în sinagogi și saluturile în piețe."
 "Vai vouă, scribi și farisei, fățarnicilor! Pentru că sunteți ca mormintele care nu se văd și oamenii care umblă pe deasupra [lor] nu își dau seama."
 "Atunci unul dintre învățătorii legii a răspuns și i-a zis

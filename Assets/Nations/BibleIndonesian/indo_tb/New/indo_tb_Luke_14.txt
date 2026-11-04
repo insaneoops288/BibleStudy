@@ -23,12 +23,12 @@
 "Lalu kata tuan itu kepada hambanya
 "Sebab Aku berkata kepadamu
 "Pada suatu kali banyak orang berduyun-duyun mengikuti Yesus dalam perjalanan-Nya. Sambil berpaling Ia berkata kepada mereka
-"""Jikalau seorang datang kepada-Ku dan ia tidak membenci bapanya, ibunya, isterinya, anak-anaknya, saudara-saudaranya laki-laki atau perempuan, bahkan nyawanya sendiri, ia tidak dapat menjadi murid-Ku."
+"""Jikalau seorang datang kepada-Ku dan ia tidak membenci bapanya, ibunya, isterinya, anak-anaknya, saudara-saudaranya #laki-laki atau perempuan, bahkan nyawanya sendiri, ia tidak dapat menjadi murid-Ku."
 "Barangsiapa tidak memikul salibnya dan mengikut Aku, ia tidak dapat menjadi murid-Ku."
 "Sebab siapakah di antara kamu yang kalau mau mendirikan sebuah menara tidak duduk dahulu membuat anggaran biayanya, kalau-kalau cukup uangnya untuk menyelesaikan pekerjaan itu?"
 "Supaya jikalau ia sudah meletakkan dasarnya dan tidak dapat menyelesaikannya, jangan-jangan semua orang yang melihatnya, mengejek dia,"
 "sambil berkata
-"Atau, raja manakah yang kalau mau pergi berperang melawan raja lain tidak duduk dahulu untuk mempertimbangkan, apakah dengan sepuluh ribu orang ia sanggup menghadapi lawan yang mendatanginya dengan dua puluh ribu orang?"
+"Atau, raja manakah yang kalau mau pergi berperang melawan raja lain tidak duduk dahulu untuk mempertimbangkan, apakah #dengan sepuluh ribu orang ia sanggup menghadapi lawan yang mendatanginya dengan dua puluh ribu orang?"
 "Jikalau tidak, ia akan mengirim utusan selama musuh itu masih jauh untuk menanyakan syarat-syarat perdamaian."
 "Demikian pulalah tiap-tiap orang di antara kamu, yang tidak melepaskan dirinya dari segala miliknya, tidak dapat menjadi murid-Ku."
 "Garam memang baik, tetapi jika garam juga menjadi tawar, dengan apakah ia diasinkan?"

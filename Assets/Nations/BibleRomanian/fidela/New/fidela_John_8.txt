@@ -41,7 +41,7 @@
 "Voi faceți faptele tatălui vostru. Atunci ei i-au spus
 "Isus le-a spus
 "De ce nu înțelegeți vorbirea mea? Pentru că nu puteți asculta cuvântul meu."
-"Voi sunteți din tatăl [vostru] diavolul, și poftele tatălui vostru voiți să faceți. El a fost ucigaș de la început și nu a stat în adevăr, pentru că nu este adevăr în el. Când vorbește o minciună, vorbește din ale lui, fiindcă este mincinos și tatăl minciunii."
+"Voi sunteți din tatăl [vostru] diavolul, și poftele tatălui vostru voiți să faceți. El a fost ucigaș de la început și nu a stat #în adevăr, pentru că nu este adevăr în el. Când vorbește o minciună, vorbește din ale lui, fiindcă este mincinos și tatăl minciunii."
 "Și pentru că eu spun adevărul, nu mă credeți."
 "Cine dintre voi mă dovedește vinovat de păcat? Și dacă spun adevărul, de ce nu mă credeți?"
 "Cel ce este din Dumnezeu ascultă cuvintele lui Dumnezeu; voi de aceea nu ascultați, pentru că nu sunteți din Dumnezeu."

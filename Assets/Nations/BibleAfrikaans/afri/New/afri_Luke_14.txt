@@ -28,7 +28,7 @@
 "Want wie van julle wat 'n toring wil bou, gaan nie eers sit en die koste bereken, of hy die middele het om dit uit te voer nie? ,"
 "sodat as hy die fondament gelê het en nie in staat is om dit te voltooi nie, almal wat dit sien, nie miskien met hom sal begin spot"
 "en sê
-"Of watter koning wat optrek om teen 'n ander koning slag te lewer, gaan nie eers sit en beraadslaag of hy in staat is om met tien duisend die een te ontmoet wat met twintig duisend teen hom kom nie?"
+"Of watter koning wat optrek om teen 'n ander koning slag te lewer, gaan nie eers sit en beraadslaag of hy #in staat is om met tien duisend die een te ontmoet wat met twintig duisend teen hom kom nie?"
 "Anders stuur hy 'n gesantskap as die ander een nog ver is, en vra vredesvoorwaardes."
 "So kan dan ook niemand van julle wat nie afsien van al sy besittings, my dissipel wees nie."
 "Die sout is goed, maar as die sout laf geword het, waarmee sal dit smaaklik gemaak word?"

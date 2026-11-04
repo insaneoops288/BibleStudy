@@ -18,7 +18,7 @@
 "Mutta jos te Hengeltä hallitaan, niin ette ole lain alla."
 "Mutta lihan työt ovat julkiset, kuin on huoruus, salavuoteus, saastaisuus, haureus,"
 "Epäjumalain palvelus, noituus, vaino, riita, kateus, viha, torat, eripuraisuus, eriseura,"
-"Pahansuomuus, murha, juopumus, ylönsyömyys ja muut senkaltaiset, joista minä teille edellä sanon, niinkuin minä ennenkin sanonut olen, että ne, jotka senkaltaisia tekevät, ei pidä Jumalan valtakuntaa perimän."
+"Pahansuomuus, murha, juopumus, ylönsyömyys ja muut senkaltaiset, joista minä teille edellä sanon, niinkuin minä #ennenkin sanonut olen, että ne, jotka senkaltaisia tekevät, ei pidä Jumalan valtakuntaa perimän."
 "Mutta Hengen hedelmä on
 "Senkaltaisia vastaan ei ole laki."
 "Mutta jotka Kristuksen omat ovat, ne ovat ristiinnaulinneet lihansa, himoin ja haluin kanssa."

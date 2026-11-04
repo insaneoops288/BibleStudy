@@ -12,7 +12,7 @@
 "Ja kuin päivä tuli, kokoontuivat muutamat Juudalaisista ja sadattelivat itsiänsä, sanoen, ettei heidän pitänyt ennen syömän eikä juoman, kuin he Paavalin olisivat tappaneet."
 "Ja niitä oli enempi kuin neljäkymmentä miestä, jotka tämän valan tehneet olivat."
 "Ne menivät ylimmäisten pappein ja vanhimpain tykö, ja sanoivat
-"Nyt siis ilmoittakaat sodanpäämiehelle ja raadille, että hän huomenna tois hänen teidän eteenne, niinkuin te tahtoisitte jotakin todempaa häneltä tiedustaa; mutta ennenkuin hän lähestyy, olemme me valmiit häntä tappamaan."
+"Nyt siis ilmoittakaat sodanpäämiehelle ja raadille, että hän huomenna tois hänen teidän eteenne, niinkuin te #tahtoisitte jotakin todempaa häneltä tiedustaa; mutta ennenkuin hän lähestyy, olemme me valmiit häntä tappamaan."
 "Kuin Paavalin sisaren poika heidän väijymisensä kuuli, meni hän leiriin ja ilmoitti nämät Paavalille."
 "Niin Paavali kutsui yhden sadanpäämiehistä tykönsä ja sanoi
 "Niin hän otti sen ja saatti hänen sodanpäämiehen tykö, ja sanoi

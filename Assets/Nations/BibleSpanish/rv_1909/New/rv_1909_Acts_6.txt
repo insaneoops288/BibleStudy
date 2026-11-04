@@ -2,7 +2,7 @@
 "Así que, los doce convocaron la multitud de los discípulos, y dijeron
 "Buscad pues, hermanos, siete varones de vosotros de buen testimonio, llenos de Espíritu Santo y de sabiduría, los cuales pongamos en esta obra."
 "Y nosotros persistiremos en la oración, y en el ministerio de la palabra."
-"Y plugo el parecer á toda la multitud; y eligieron á Esteban, varón lleno de fe y de Espíritu Santo, y á Felipe, y á Prócoro, y á Nicanor, y á Timón, y á Parmenas, y á Nicolás, prosélito de Antioquía
+"Y plugo el parecer á toda la multitud; y eligieron á Esteban, varón lleno de fe y de Espíritu Santo, y #á Felipe, y á Prócoro, y á Nicanor, y á Timón, y á Parmenas, y á Nicolás, prosélito de Antioquía
 "A estos presentaron delante de los apóstoles, los cuales orando les pusieron las manos encima."
 "Y crecía la palabra del Señor, y el número de los discípulos se multiplicaba mucho en Jerusalem
 "Empero Esteban, lleno de gracia y de potencia, hacía prodigios y milagros grandes en el pueblo."

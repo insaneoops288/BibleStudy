@@ -28,5 +28,5 @@
 "I Haran umarł przed obliczem swojego ojca Teracha, w swoim rodzinnym kraju, w Ur Kasdim."
 "A Abram oraz Nachor pojęli sobie żony; imię żony Abrama to Saraj, a imię żony Nachora to Milka, córka Harana, ojca Milki i Iski."
 "Ale Saraj była niepłodna, zatem nie miała dzieci."
-"Zaś Terach wziął swojego syna Abrama, swojego wnuka Lota syna Harana, oraz swoją synową Saraj żonę swojego syna Abrama, i razem wyruszyli z Ur Kasdim, aby pójść do ziemi Kanaan. Więc doszli aż do Haranu i tam się osiedli."
+"Zaś Terach wziął swojego syna Abrama, swojego wnuka Lota syna Harana, oraz swoją synową Saraj żonę swojego syna Abrama, i #razem wyruszyli z Ur Kasdim, aby pójść do ziemi Kanaan. Więc doszli aż do Haranu i tam się osiedli."
 "A dni Teracha były przez dwieście pięć lat; i Terach umarł w Haranie."

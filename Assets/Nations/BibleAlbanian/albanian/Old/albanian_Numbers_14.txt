@@ -11,11 +11,11 @@
 "Pastaj Zoti i tha Moisiut
 "Unë do ta godas me murtajë dhe do ta shkatërroj, por do të bëj prej teje një komb më të madh dhe më të fuqishëm se ai""."
 "Moisiu i tha Zotit
-"dhe do t'ia bëjnë të ditur banorëve të këtij vendi. Ata kanë dëgjuar që ti, o Zot, je në mes të këtij populli, i shfaqesh atij sy për sy, që reja jote qëndron mbi ta dhe që ecën para tyre ditën në një kolonë reje dhe natën në një kolonë të zjarrtë."
+"dhe do t'ia bëjnë të ditur banorëve të këtij vendi. Ata kanë dëgjuar që ti, o Zot, je në mes të këtij populli, i shfaqesh atij sy #për sy, që reja jote qëndron mbi ta dhe që ecën para tyre ditën në një kolonë reje dhe natën në një kolonë të zjarrtë."
 "Tani në se e bën këtë popull të vdesë si një njeri të vetëm, kombet që kanë dëgjuar namin tënd do të flasin, duke thënë
 """Me qenë se Zoti nuk ka qenë i zoti ta futë këtë popull në vendin që ishte betuar t'i jepte, e vrau në shkretëtirë""."
 "Por tani, të lutem, le të shfaqet fuqia e Zotit tim në madhështinë e saj, ashtu si fole duke thënë
-"""Zoti është i ngadaltë në zemërim dhe i madh në mëshirë; ai fal padrejtësinë dhe mëkatin, por nuk lë pa ndëshkuar fajtorin, duke dënuar paudhësinë e etërve te bijtë, deri në brezin e tretë ose të katërt""."
+"""Zoti është i ngadaltë në zemërim dhe i madh në mëshirë; ai fal padrejtësinë dhe mëkatin, por nuk lë #pa ndëshkuar fajtorin, duke dënuar paudhësinë e etërve te bijtë, deri në brezin e tretë ose të katërt""."
 "Fale paudhësinë e këtij populli, me madhështinë e mëshirës sate, ashtu siç e ke falur këtë popull nga Egjipti deri këtu""."
 "Atëherë Zoti tha
 "por, ashtu siç është e vërtetë që unë jetoj, e gjithë toka do të jetë plot me lavdinë e Zotit,"
@@ -31,7 +31,7 @@
 "Të vegjlit tuaj përkundrazi, që ju thatë se do të ishin viktima të armiqve, do t'i fus; dhe ata do të njohin vendin që ju keni përçmuar."
 "Por sa për ju, kufomat tuaja do të bien në këtë shkretëtirë."
 "Dhe bijtë tuaj do të kullosin kopetë në shkretëtirë dyzet vjet me radhë dhe do të mbajnë ndëshkimin për pabesitë tuaja, deri sa të treten kufomat tuaja në shkretëtirë."
-"Në bazë të numrit të ditëve që keni përdorur për të vëzhguar vendin, domethënë dyzet ditë, për çdo ditë do të mbani fajin tuaj një vit, gjithsej, pra, dyzet vjet; dhe kështu do të kuptoni se ç'do të thotë që unë jam tërhequr nga ju."
+"Në bazë të numrit të ditëve që keni përdorur për të vëzhguar vendin, domethënë dyzet ditë, për çdo ditë do të mbani fajin #tuaj një vit, gjithsej, pra, dyzet vjet; dhe kështu do të kuptoni se ç'do të thotë që unë jam tërhequr nga ju."
 "Unë, Zoti, fola; me siguri, kështu do të veproj kundër gjithë kësaj asambleje të keqe që u mblodh kundër meje; në këtë shkretëtirë do të treten dhe këtu do të vdesin""."
 "Njerëzit që Moisiu kishte dërguar për të vëzhguar vendin, mbas kthimit të tyre e kishin shtyrë tërë asamblenë të murmuriste kundër tij, duke paraqitur një raport të keq për vendin,"
 "ata njerëz, që kishin përpiluar raportin e keq për vendin, vdiqën nga një plagë përpara Zotit."

@@ -24,7 +24,7 @@
 "Estos tus mercaderes <I>negociaban contigo</I>  en varias cosas
 "Las naves de Tarsis, tus cuadrillas, <I>fueron</I>  en tu negociación; y fuiste llena, y fuiste multiplicada en gran manera en medio de los mares."
 "En muchas aguas te engolfaron tus remeros; viento solano te quebrantó en medio de los mares."
-"Tus riquezas, y tus mercaderías, y tu negociación, tus remeros, y tus pilotos, los reparadores de tus hendiduras, y los agentes de tus negocios, y todos tus hombres de guerra que hay en ti, con toda tu compañía que en medio  de ti <I>se halla</I> , caerán en medio de los mares el día de tu caída."
+"Tus riquezas, y tus mercaderías, y tu negociación, tus remeros, y tus pilotos, los reparadores de tus hendiduras, y los agentes de tus negocios, y todos tus hombres de guerra #que hay en ti, con toda tu compañía que en medio  de ti <I>se halla</I> , caerán en medio de los mares el día de tu caída."
 "Al estrépito de las voces de tus marineros temblarán los arrabales."
 "Y descenderán de sus naves todos los que toman remo; remeros, y todos los pilotos del mar se pararán en tierra;"
 "y harán oír su voz sobre ti, y gritarán amargamente, y echarán polvo sobre sus cabezas, y se revolcarán en la ceniza."

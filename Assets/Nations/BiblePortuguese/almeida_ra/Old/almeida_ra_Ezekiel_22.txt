@@ -1,7 +1,7 @@
 "Demais veio a mim a palavra do Senhor, dizendo
 "Tu pois, ó filho do homem, acaso julgarás, julgarás mesmo a cidade sanguinária? Então faz-lhe conhecer todas as suas abominações,"
 "e diz
-"Pelo teu sangue que derramaste te fizeste culpada, e pelos teus ídolos que fabricaste te contaminaste; e fizeste aproximar-se o teu dia, e é chegado o fim dos teus anos. Por isso eu te fiz o opróbrio das nações e o escárnio de todas as terras."
+"Pelo teu sangue que derramaste te fizeste culpada, e pelos teus ídolos que fabricaste te contaminaste; e fizeste aproximar-se o teu dia, e é #chegado o fim dos teus anos. Por isso eu te fiz o opróbrio das nações e o escárnio de todas as terras."
 "As que estão perto e as que estão longe de ti escarnecerão de ti, infamada, cheia de tumulto."
 "Eis que os príncipes de Israel, que estão em ti, cada um conforme o seu poder, se esforçam para derramarem sangue."
 "No meio de ti desprezaram ao pai e à mãe; no meio de ti usaram de opressão para com o estrangeiro; no meio de ti foram injustos para com o órfão e a viúva."
@@ -17,13 +17,13 @@
 "De novo veio a mim a palavra do Senhor, dizendo
 "Filho do homem, a casa de Israel se tornou para mim em escória; todos eles são bronze, e estanho, e ferro, e chumbo no meio da fornalha; em escória de prata eles se tornaram."
 "Portanto assim diz o Senhor Deus
-"Como se ajuntam a prata, e o bronze, e o ferro, e o chumbo, e o estanho, no meio da fornalha, para assoprar o fogo sobre eles, a fim de se fundirem, assim vos ajuntarei na minha ira e no meu furor, e ali vos porei e vos fundirei."
+"Como se ajuntam a prata, e o bronze, e o ferro, e o chumbo, e o estanho, no meio da fornalha, para assoprar o fogo #sobre eles, a fim de se fundirem, assim vos ajuntarei na minha ira e no meu furor, e ali vos porei e vos fundirei."
 "Sim, congregar-vos-ei, e assoprarei sobre vós o fogo da minha ira; e sereis fundidos no meio dela."
 "Como se funde a prata no meio da fornalha, assim sereis fundidos no meio dela; e sabereis que eu, o Senhor, derramei o meu furor sobre vós."
 "Também veio a mim a palavra do Senhor, dizendo
 "Filho do homem, diz-lhe a ela
 "Conspiração dos seus profetas há no meio dela, como um leão que ruge, que arrebata a presa; eles devoram vidas humanas; tomam tesouros e coisas preciosas; multiplicam as suas viúvas no meio dela."
-"Os seus sacerdotes violentam a minha lei, e profanam as minhas coisas santas; não fazem diferença entre o santo e o profano, nem ensinam a discernir entre o impuro e o puro; e de meus sábados escondem os seus olhos, e assim sou profanado no meio deles."
+"Os seus sacerdotes violentam a minha lei, e profanam as minhas coisas santas; não fazem diferença entre o santo e o profano, nem ensinam #a discernir entre o impuro e o puro; e de meus sábados escondem os seus olhos, e assim sou profanado no meio deles."
 "Os seus príncipes no meio dela são como lobos que arrebatam a presa
 "E os profetas têm feito para eles reboco com argamassa fraca tendo visões falsas, e adivinhando-lhes mentira, dizendo
 "O povo da terra tem usado de opressão, e andado roubando e fazendo violência ao pobre e ao necessitado, e tem oprimido injustamente ao estrangeiro."

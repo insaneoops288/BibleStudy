@@ -12,7 +12,7 @@
 "Seja conhecido do rei que os judeus que subiram de ti a nós, vieram a Jerusalém; e edificam aquela cidade rebelde e má, e estão restaurando [seus] muros; e reparado [seus] fundamentos."
 "Seja agora conhecido do rei, que se aquela cidade for reconstruída, e os muros forem restaurados, os tributos, taxas, e impostos não serão pagos, e o patrimônio real será prejudicado."
 "Visto que somos assalariados pelo palácio, não nos convém ver a desonra do rei; por isso mandamos informar ao rei;"
-"Para que se busque no livro das crônicas de teus pais; e acharás no livro das crônicas, e saberás que aquela cidade foi uma cidade rebelde, prejudicial aos reis e às províncias, e que nela desde antigamente fizeram rebeliões; por isso aquela cidade foi arruinada."
+"Para que se busque no livro das crônicas de teus pais; e acharás no livro das crônicas, e saberás que aquela cidade foi #uma cidade rebelde, prejudicial aos reis e às províncias, e que nela desde antigamente fizeram rebeliões; por isso aquela cidade foi arruinada."
 "Por isso informamos ao rei que, se aquela cidade for reconstruída, e seus muros restaurados, a parte além do rio não será tua."
 "[Então] o rei enviou [esta] resposta a Reum, o comandante, e a Sinsai, o escrivão, e aos demais de seus companheiros que habitam em Samaria, como também aos demais da parte além do rio
 "A carta que nos enviastes foi lida claramente diante de mim."
@@ -20,5 +20,5 @@
 "E que houve reis poderosos em Jerusalém, dominaram toda a região além do rio; e a eles se pagava tributos, taxas e impostos."
 "Agora, pois, dai ordem que impeçam aqueles homens, e aquela cidade não seja reconstruída, até que seja dado mandamento de minha parte."
 "E sede cuidadosos para que não falheis nisto; por que haveria de aumentar o dano para o prejuízo real?"
-"Assim que o teor da carta do rei Artaxerxes foi lido diante de Reum, e de Sinsai o escrivão, e seus companheiros, eles foram apressadamente a Jerusalém aos judeus, e os impediram com força e violência."
+"Assim que o teor da carta do rei Artaxerxes foi lido diante de Reum, e de Sinsai o escrivão, #e seus companheiros, eles foram apressadamente a Jerusalém aos judeus, e os impediram com força e violência."
 "Cessou, então, a obra da casa de Deus, a qual estava em Jerusalém; e cessou até o segundo ano do reinado de Dario, rei da Pérsia."

@@ -24,11 +24,11 @@
 "Es wurde aber dem Saulus ihr Anschlag bekannt. Und sie bewachten auch die Tore sowohl bei Tage als bei Nacht, damit sie ihn umbrächten."
 "Die Jünger aber nahmen ihn bei der Nacht und ließen ihn durch die Mauer hinab, indem sie ihn in einem Korbe hinunterließen."
 "Als er aber nach Jerusalem gekommen war, versuchte er, sich den Jüngern anzuschließen; und alle fürchteten sich vor ihm, da sie nicht glaubten, daß er ein Jünger sei."
-"Barnabas aber nahm ihn und brachte ihn zu den Aposteln und erzählte ihnen, wie er auf dem Wege den Herrn gesehen habe, und daß derselbe zu ihm geredet, und wie er in Damaskus freimütig im Namen Jesu gesprochen habe."
+"Barnabas aber nahm ihn und brachte ihn zu den Aposteln und erzählte ihnen, wie er auf dem Wege den Herrn #gesehen habe, und daß derselbe zu ihm geredet, und wie er in Damaskus freimütig im Namen Jesu gesprochen habe."
 "Und er ging mit ihnen aus und ein in Jerusalem und sprach freimütig im Namen des Herrn."
 "Und er redete und stritt mit den Hellenisten; sie aber trachteten, ihn umzubringen."
 "Als die Brüder es aber erfuhren, brachten sie ihn nach Cäsarea hinab und sandten ihn hinweg nach Tarsus."
-"So hatten denn die Versammlungen durch ganz Judäa und Galiläa und Samaria hin Frieden und wurden erbaut und wandelten in der Furcht des Herrn und wurden vermehrt durch den Trost des Heiligen Geistes."
+"So hatten denn die Versammlungen durch ganz Judäa und Galiläa und Samaria hin Frieden und wurden erbaut #und wandelten in der Furcht des Herrn und wurden vermehrt durch den Trost des Heiligen Geistes."
 "Es geschah aber, daß Petrus, indem er allenthalben hindurchzog, auch zu den Heiligen hinabkam, die zu Lydda wohnten."
 "Er fand aber daselbst einen gewissen Menschen, mit NamenÄneas, der seit acht Jahren zu Bett lag, welcher gelähmt war."
 "Und Petrus sprach zu ihm
@@ -36,7 +36,7 @@
 "In Joppe aber war eine gewisse Jüngerin, mit Namen Tabitha, was verdolmetscht heißt
 "Es geschah aber in jenen Tagen, daß sie krank wurde und starb. Und als sie sie gewaschen hatten, legten sie sie auf den Obersaal."
 "Da aber Lydda nahe bei Joppe war, sandten die Jünger, als sie gehört hatten, daß Petrus daselbst sei, zwei Männer zu ihm und baten
-"Petrus aber stand auf und ging mit ihnen; und als er angekommen war, führten sie ihn auf den Obersaal. Und alle Witwen traten weinend zu ihm und zeigten ihm die Leibröcke und Kleider, welche die Dorkas gemacht hatte, während sie bei ihnen war."
+"Petrus aber stand auf und ging mit ihnen; und als er angekommen war, führten sie ihn auf den Obersaal. Und alle Witwen #traten weinend zu ihm und zeigten ihm die Leibröcke und Kleider, welche die Dorkas gemacht hatte, während sie bei ihnen war."
 "Petrus aber trieb alle hinaus, kniete nieder und betete. Und er wandte sich zu dem Leichnam und sprach
 "Er aber gab ihr die Hand und richtete sie auf; er rief aber die Heiligen und die Witwen und stellte sie lebend dar."
 "Es wurde aber durch ganz Joppe hin kund, und viele glaubten an den Herrn."

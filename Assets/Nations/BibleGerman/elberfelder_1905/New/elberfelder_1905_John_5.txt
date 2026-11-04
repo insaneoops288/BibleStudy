@@ -1,7 +1,7 @@
 "Nach diesem war ein Fest der Juden, und Jesus ging hinauf nach Jerusalem."
 "Es ist aber in Jerusalem bei dem Schaftor ein Teich, der auf hebräisch Bethesda zubenamt ist, welcher fünf Säulenhallen hat."
 "In diesen lag eine Menge Kranker, Blinder, Lahmer, Dürrer, die auf die Bewegung des Wassers warteten."
-"Denn zu gewissen Zeiten stieg ein Engel in den Teich herab und bewegte das Wasser. Wer nun nach der Bewegung des Wassers zuerst hineinstieg, ward gesund, mit welcher Krankheit irgend er behaftet war."
+"Denn zu gewissen Zeiten stieg ein Engel in den Teich herab und bewegte das Wasser. Wer nun #nach der Bewegung des Wassers zuerst hineinstieg, ward gesund, mit welcher Krankheit irgend er behaftet war."
 "Es war aber ein gewisser Mensch daselbst, der achtunddreißig Jahre mit seiner Krankheit behaftet war."
 "Als Jesus diesen daliegen sah und wußte, daß es schon lange Zeit also mit ihm war, spricht er zu ihm
 "Der Kranke antwortete ihm
@@ -33,7 +33,7 @@
 "Ihr habt zu Johannes gesandt, und er hat der Wahrheit Zeugnis gegeben."
 "Ich aber nehme nicht Zeugnis von einem Menschen, sondern dies sage ich, auf daß ihr errettet werdet."
 "Jener war die brennende und scheinende Lampe; ihr aber wolltet für eine Zeit in seinem Lichte fröhlich sein."
-"Ich aber habe das Zeugnis, das größer ist als das des Johannes; denn die Werke, welche der Vater mir gegeben hat, auf daß ich sie vollbringe, die Werke selbst, die ich tue, zeugen von mir, daß der Vater mich gesandt hat."
+"Ich aber habe das Zeugnis, das größer ist als das des Johannes; denn die Werke, welche der Vater mir gegeben hat, #auf daß ich sie vollbringe, die Werke selbst, die ich tue, zeugen von mir, daß der Vater mich gesandt hat."
 "Und der Vater, der mich gesandt hat, er selbst hat Zeugnis von mir gegeben. Ihr habt weder jemals seine Stimme gehört, noch seine Gestalt gesehen,"
 "und sein Wort habt ihr nicht bleibend in euch; denn welchen er gesandt hat, diesem glaubet ihr nicht."
 "Ihr erforschet die Schriften, denn ihr meinet, in ihnen ewiges Leben zu haben, und sie sind es, die von mir zeugen;"

@@ -11,7 +11,7 @@
 "Y Judá dijo a Tamar su nuera
 "Y pasaron muchos días, y murió la hija de Súa, mujer de Judá; y Judá se consoló, y subía a los trasquiladores de sus ovejas a Timnat, él y su amigo Hira el adulamita."
 "Y fue dado aviso a Tamar, diciendo
-"Entonces quitó ella de sobre sí los vestidos de su viudez, y se cubrió con <I>un</I>  velo, y se arrebozó, y se puso a la puerta de las aguas que <I>están</I>  junto al camino de Timnat; porque veía que había crecido Sela,  y ella no era dada a él por mujer."
+"Entonces quitó ella de sobre sí los vestidos de su viudez, y se cubrió con <I>un</I>  velo, y se arrebozó, y se puso a la puerta de #las aguas que <I>están</I>  junto al camino de Timnat; porque veía que había crecido Sela,  y ella no era dada a él por mujer."
 "Y la vio Judá, y la tuvo por ramera, porque ella había cubierto su rostro."
 "Y se apartó del camino hacia ella, y le dijo
 "El respondió

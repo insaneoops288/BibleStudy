@@ -18,7 +18,7 @@
 "És hogy uralkodjanak a nappalon és az éjszakán, és elválaszszák a világosságot a setétségtõl. És látá Isten, hogy jó."
 "És lõn este és lõn reggel, negyedik nap."
 "És monda Isten
-"És teremté Isten a nagy vízi állatokat, és mindazokat a csúszó-mászó állatokat, a melyek nyüzsögnek a vizekben az õ nemök szerint, és mindenféle szárnyas repdesõt az õ neme szerint. És látá Isten, hogy jó."
+"És teremté Isten a nagy vízi állatokat, és mindazokat a csúszó-mászó állatokat, a melyek nyüzsögnek a vizekben az #õ nemök szerint, és mindenféle szárnyas repdesõt az õ neme szerint. És látá Isten, hogy jó."
 "És megáldá azokat Isten, mondván
 "És lõn este és lõn reggel, ötödik nap."
 "Azután monda az Isten

@@ -16,9 +16,9 @@
 "A řekl
 "Když pak přijel do Samaří, pobil všecky, kteříž byli pozůstali z domu Achabova v Samaří, a vyhladil jej vedlé řeči Hospodinovy, kterouž byl mluvil k Eliášovi."
 "Zatím shromáždiv Jéhu všecken lid, řekl jim
-"Protož nyní všecky proroky Bálovy, všecky služebníky jeho, a všecky kněží jeho svolejte ke mně, ať žádný tam nezůstává; nebo velikou obět budu obětovati Bálovi. Kdož by koli nebyl přítomen, nezůstane živ. Ale Jéhu činil to chytře, aby vyhladil ctitele Bálovy."
+"Protož nyní všecky proroky Bálovy, všecky služebníky jeho, a všecky kněží jeho svolejte ke mně, ať žádný tam nezůstává; nebo velikou #obět budu obětovati Bálovi. Kdož by koli nebyl přítomen, nezůstane živ. Ale Jéhu činil to chytře, aby vyhladil ctitele Bálovy."
 "Řekl také Jéhu
-"Rozeslal zajisté Jéhu po vší zemi Izraelské. I sešli se všickni ctitelé Bálovi, tak že nezůstalo ani jednoho, ješto by nepřišel. A když vešli do domu Bálova, naplněn jest dům Bálův, od jednoho konce až do druhého."
+"Rozeslal zajisté Jéhu po vší zemi Izraelské. I sešli se všickni ctitelé Bálovi, tak že nezůstalo ani jednoho, ješto #by nepřišel. A když vešli do domu Bálova, naplněn jest dům Bálův, od jednoho konce až do druhého."
 "Tedy řekl tomu, kterýž vládl rouchem
 "Potom všel i Jéhu a Jonadab syn Rechabův do domu Bálova, a řekl ctitelům Bálovým
 "A tak vešli, aby obětovali oběti a zápaly. Jéhu pak postavil sobě vně osmdesáte mužů, jimž byl řekl

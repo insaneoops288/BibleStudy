@@ -16,10 +16,10 @@
 "Denn sie sind mir ganz zu eigen gegeben aus der Mitte der Kinder Israel; anstatt alles dessen, was die Mutter bricht, anstatt jedes Erstgeborenen aus den Kindern Israel habe ich sie mir genommen."
 "Denn mein ist alles Erstgeborene unter den Kindern Israel an Menschen und an Vieh. An dem Tage, da ich alle Erstgeburt im LandeÄgypten schlug, habe ich sie mir geheiligt."
 "Und ich habe die Leviten genommen anstatt aller Erstgeborenen unter den Kindern Israel;"
-"und ich habe die Leviten dem Aaron und seinen Söhnen als Gabe aus der Mitte der Kinder Israel gegeben, um den Dienst der Kinder Israel am Zelte der Zusammenkunft zu verrichten und um für die Kinder Israel Sühnung zu tun, damit unter den Kindern Israel keine Plage dadurch entstehe, daß die Kinder Israel dem Heiligtum nahen."
+"und ich habe die Leviten dem Aaron und seinen Söhnen als Gabe aus der Mitte der Kinder Israel gegeben, um den Dienst der Kinder Israel am Zelte der Zusammenkunft #zu verrichten und um für die Kinder Israel Sühnung zu tun, damit unter den Kindern Israel keine Plage dadurch entstehe, daß die Kinder Israel dem Heiligtum nahen."
 "Und Mose und Aaron und die ganze Gemeinde der Kinder Israel taten so mit den Leviten; nach allem, was Jehova dem Mose geboten hatte wegen der Leviten, also taten die Kinder Israel mit ihnen."
 "Und die Leviten entsündigten sich und wuschen ihre Kleider; und Aaron webte sie als Webopfer vor Jehova; und Aaron tat Sühnung für sie zu ihrer Reinigung."
-"Und danach kamen die Leviten, um ihren Dienst am Zelte der Zusammenkunft zu verrichten vor Aaron und vor seinen Söhnen. So wie Jehova dem Mose betreffs der Leviten geboten hatte, also taten sie mit ihnen."
+"Und danach kamen die Leviten, um ihren Dienst am Zelte der Zusammenkunft zu verrichten vor Aaron und vor #seinen Söhnen. So wie Jehova dem Mose betreffs der Leviten geboten hatte, also taten sie mit ihnen."
 "Und Jehova redete zu Mose und sprach
 "Dies ist es, was die Leviten betrifft
 "Aber von fünfzig Jahren an soll er aus der Arbeit des Dienstes austreten und nicht mehr dienen;"

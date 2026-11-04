@@ -11,7 +11,7 @@
 "Pastaj vëre tenxheren bosh mbi qymyr, që të ngrohet dhe bronzi i saj të skuqet me qëllim që papastërtia e saj të hiqet nga mesi i saj dhe pisllëku i saj të konsumohet."
 "Ai më ka lodhur me gënjeshtrat e tij; pisllëku i madh i tij nuk po hiqet; pisllëku i tij do të marrë fund mbi zjarrin."
 "Ka shthurje në papastërtinë tënde. Unë, pra, kërkova të të pastroj, por ti nuk je i pastër; nuk do të pastrohesh më nga papastërtia jote, deri sa të mos kem shfryrë mbi ty tërbimin tim."
-"Unë, Zoti, fola; kjo gjë do të ndodhë, unë do ta kryej; nuk do të prapsem, nuk do të kem mëshirë, nuk do të pendohem. Ti do të gjykohesh sipas sjelljes tënde dhe sipas veprimeve e tua, thotë Zoti, Zoti""."
+"Unë, Zoti, fola; kjo gjë do të ndodhë, unë do ta kryej; nuk do të prapsem, nuk do të kem mëshirë, #nuk do të pendohem. Ti do të gjykohesh sipas sjelljes tënde dhe sipas veprimeve e tua, thotë Zoti, Zoti""."
 "Fjala e Zotit m'u drejtua, duke thënë
 """Bir njeriu, ja, unë do të të heq me një goditje të vetme kënaqësinë e syve të tu; por ti mos u trishto, mos vajto dhe mos derdh asnjë lot."
 "Vajto në heshtje, mos mbaj zi për të vdekurit, lidhe kokën me çallmë, mbath sandalet, mos e mbulo mjekrën dhe mos ha bukën e njerëzve që mbajnë zi""."

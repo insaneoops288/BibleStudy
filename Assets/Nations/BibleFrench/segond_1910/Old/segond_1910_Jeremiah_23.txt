@@ -11,7 +11,7 @@
 "Prophètes et sacrificateurs sont corrompus; Même dans ma maison j'ai trouvé leur méchanceté, Dit l'Eternel."
 "C'est pourquoi leur chemin sera glissant et ténébreux, Ils seront poussés et ils tomberont; Car je ferai venir sur eux le malheur, L'année où je les châtierai, dit l'Eternel."
 "Dans les prophètes de Samarie j'ai vu de l'extravagance; Ils ont prophétisé par Baal, Ils ont égaré mon peuple d'Israël."
-"Mais dans les prophètes de Jérusalem j'ai vu des choses horribles; Ils sont adultères, ils marchent dans le mensonge; Ils fortifient les mains des méchants, Afin qu'aucun ne revienne de sa méchanceté; Ils sont tous à mes yeux comme Sodome, Et les habitants de Jérusalem comme Gomorrhe."
+"Mais dans les prophètes de Jérusalem j'ai vu des choses horribles; Ils sont adultères, ils marchent dans le mensonge; Ils fortifient les mains des #méchants, Afin qu'aucun ne revienne de sa méchanceté; Ils sont tous à mes yeux comme Sodome, Et les habitants de Jérusalem comme Gomorrhe."
 "C'est pourquoi ainsi parle l'Eternel des armées sur les prophètes
 "Ainsi parle l'Eternel des armées
 "Ils disent à ceux qui me méprisent
@@ -29,7 +29,7 @@
 "Ma parole n'est-elle pas comme un feu, dit l'Eternel, Et comme un marteau qui brise le roc?"
 "C'est pourquoi voici, dit l'Eternel, j'en veux aux prophètes Qui se dérobent mes paroles l'un à l'autre."
 "Voici, dit l'Eternel, j'en veux aux prophètes Qui prennent leur propre parole et la donnent pour ma parole."
-"Voici, dit l'Eternel, j'en veux à ceux qui prophétisent des songes faux, Qui les racontent, et qui égarent mon peuple Par leurs mensonges et par leur témérité; Je ne les ai point envoyés, je ne leur ai point donné d'ordre, Et ils ne sont d'aucune utilité à ce peuple, dit l'Eternel."
+"Voici, dit l'Eternel, j'en veux à ceux qui prophétisent des songes faux, Qui les racontent, et qui égarent mon peuple Par leurs mensonges et par leur #témérité; Je ne les ai point envoyés, je ne leur ai point donné d'ordre, Et ils ne sont d'aucune utilité à ce peuple, dit l'Eternel."
 "Si ce peuple, ou un prophète, ou un sacrificateur te demande
 "Et le prophète, le sacrificateur, ou celui du peuple Qui dira
 "Vous direz, chacun à son prochain, chacun à son frère

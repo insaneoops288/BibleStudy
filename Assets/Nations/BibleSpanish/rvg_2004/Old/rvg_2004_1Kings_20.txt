@@ -3,7 +3,7 @@
 "Tu plata y tu oro son míos, y tus mujeres y tus hijos hermosos son míos."
 "Y el rey de Israel respondió, y dijo
 "Y volviendo los mensajeros otra vez, dijeron
-"Además mañana a estas horas enviaré yo a ti mis siervos, los cuales inspeccionarán tu casa, y las casas de tus siervos; y sucederá que todo lo precioso que tienes ellos lo tomarán con sus manos y se lo llevarán."
+"Además mañana a estas horas enviaré yo a ti mis siervos, los cuales inspeccionarán tu casa, y las casas de tus #siervos; y sucederá que todo lo precioso que tienes ellos lo tomarán con sus manos y se lo llevarán."
 "Entonces el rey de Israel llamó a todos los ancianos de la tierra, y les dijo
 "Y todos los ancianos y todo el pueblo le respondieron
 "Entonces él respondió a los embajadores de Benadad
@@ -12,7 +12,7 @@
 "Y como él oyó esta palabra, estando bebiendo con los reyes en las tiendas, dijo a sus siervos
 "Y he aquí un profeta se llegó a Acab rey de Israel; y le dijo
 "Y respondió Acab
-"Entonces él pasó revista a los jóvenes de los príncipes de las provincias, los cuales fueron doscientos treinta y dos. Luego pasó revista a todo el pueblo, a todos los hijos de Israel, que fueron siete mil."
+"Entonces él pasó revista a los jóvenes de los príncipes de las provincias, los cuales fueron doscientos treinta y #dos. Luego pasó revista a todo el pueblo, a todos los hijos de Israel, que fueron siete mil."
 "Y salieron al mediodía. Y estaba Benadad bebiendo, borracho en las tiendas, él y los reyes, los treinta y dos reyes que habían venido en su ayuda."
 "Y los jóvenes de los príncipes de las provincias salieron primero. Y había Benadad enviado quien le dio aviso, diciendo
 "Él entonces dijo
@@ -22,9 +22,9 @@
 "Llegándose luego el profeta al rey de Israel, le dijo
 "Y los siervos del rey de Siria le dijeron
 "Haz, pues, así
-"Y tú, fórmate otro ejército como el ejército que perdiste, caballos por caballos, y carros por carros; luego pelearemos con ellos en el valle, y veremos si no los vencemos. Y él les dio oído, y lo hizo así."
+"Y tú, fórmate otro ejército como el ejército que perdiste, caballos por caballos, y carros por carros; luego pelearemos con #ellos en el valle, y veremos si no los vencemos. Y él les dio oído, y lo hizo así."
 "Pasado el año, Benadad pasó revista a los sirios, y vino a Afec a pelear contra Israel."
-"Y los hijos de Israel fueron también inspeccionados, y tomando provisiones vinieron a encontrarles; y acamparon los hijos de Israel delante de ellos, como dos rebañuelos de cabras; y los sirios llenaban la tierra."
+"Y los hijos de Israel fueron también inspeccionados, y tomando provisiones vinieron a encontrarles; y acamparon los hijos #de Israel delante de ellos, como dos rebañuelos de cabras; y los sirios llenaban la tierra."
 "Acercándose entonces el varón de Dios al rey de Israel, le habló diciendo
 "Siete días estuvieron acampados los unos delante de los otros, y al séptimo día se dio la batalla
 "Los demás huyeron a Afec, a la ciudad

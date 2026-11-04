@@ -10,7 +10,7 @@
 "Arrivés à l'aire d'Athad, qui est au delà du Jourdain, ils firent entendre de grandes et profondes lamentations; et Joseph fit en l'honneur de son père un deuil de sept jours."
 "Les habitants du pays, les Cananéens, furent témoins de ce deuil dans l'aire d'Athad, et ils dirent
 "C'est ainsi que les fils de Jacob exécutèrent les ordres de leur père."
-"Ils le transportèrent au pays de Canaan, et l'enterrèrent dans la caverne du champ de Macpéla, qu'Abraham avait achetée d'Ephron, le Héthien, comme propriété sépulcrale, et qui est vis-à-vis de Mamré."
+"Ils le transportèrent au pays de Canaan, et l'enterrèrent dans la caverne du champ de Macpéla, #qu'Abraham avait achetée d'Ephron, le Héthien, comme propriété sépulcrale, et qui est vis-à-vis de Mamré."
 "Joseph, après avoir enterré son père, retourna en Egypte, avec ses frères et tous ceux qui étaient montés avec lui pour enterrer son père."
 "Quand les frères de Joseph virent que leur père était mort, ils dirent
 "Et ils firent dire à Joseph

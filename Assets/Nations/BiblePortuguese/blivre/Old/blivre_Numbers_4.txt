@@ -13,7 +13,7 @@
 "E tirarão a cinza do altar, e estenderão sobre ele um pano de púrpura
 "E porão sobre ele todos os seus instrumentos de que se serve
 "E em acabando Arão e seus filhos de cobrir o santuário e todos os vasos do santuário, quando o acampamento se houver de mudar, virão depois disso os filhos de Coate para conduzir
-"Porém ao cargo de Eleazar, filho de Arão o sacerdote, estará o azeite da luminária, e o incenso aromático, e a oferta de cereais contínua, e o azeite da unção; o cargo de todo o tabernáculo, e de tudo o que está nele, no santuário, e em seus utensílios."
+"Porém ao cargo de Eleazar, filho de Arão o sacerdote, estará o azeite da luminária, e o incenso aromático, e a oferta de cereais contínua, #e o azeite da unção; o cargo de todo o tabernáculo, e de tudo o que está nele, no santuário, e em seus utensílios."
 "E falou o SENHOR a Moisés e a Arão, dizendo
 "Não cortareis a tribo das famílias de Coate dentre os levitas;"
 "Mas isto fareis com eles, para que vivam, e não morram quando achegarem ao lugar santíssimo
@@ -23,7 +23,7 @@
 "De idade de trinta anos acima até cinquenta anos os contarás; todos os que entram em companhia, para fazer serviço no tabernáculo do testemunho."
 "Este será o ofício das famílias de Gérson, para ministrar e para levar
 "Levarão as cortinas do tabernáculo, e o tabernáculo do testemunho, sua coberta, e a coberta de peles finas que está sobre ele encima, e a cortina da porta do tabernáculo do testemunho,"
-"E as cortinas do átrio, e a cortina da porta do átrio, que está próxima do tabernáculo e próxima do altar ao redor, e suas cordas, e todos os instrumentos de seu serviço, e tudo o que será feito para eles
+"E as cortinas do átrio, e a cortina da porta do átrio, que está próxima do tabernáculo e próxima do altar #ao redor, e suas cordas, e todos os instrumentos de seu serviço, e tudo o que será feito para eles
 "Segundo a ordem de Arão e de seus filhos será todo o ministério dos filhos de Gérson em todos os seus cargas, e em todo o seu serviço
 "Este é o serviço das famílias dos filhos de Gérson no tabernáculo do testemunho
 "Contarás os filhos de Merari por suas famílias, pelas casas de seus pais."

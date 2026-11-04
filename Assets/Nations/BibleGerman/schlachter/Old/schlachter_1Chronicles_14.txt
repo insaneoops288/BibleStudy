@@ -12,6 +12,6 @@
 "Und sie ließen ihre Götter daselbst zurück; da ließ sie David mit Feuer verbrennen."
 "Aber die Philister breiteten sich nochmals im Tale aus."
 "Und David befragte Gott abermals. Und Gott sprach zu ihm
-"Wenn du alsdann in den Wipfeln der Balsamstauden das Geräusch eines Einherschreitens hören wirst, so ziehe aus zum Streit; denn Gott ist daselbst vor dir ausgezogen, das Heer der Philister zu schlagen."
+"Wenn du alsdann in den Wipfeln der Balsamstauden das Geräusch eines Einherschreitens hören wirst, so ziehe aus #zum Streit; denn Gott ist daselbst vor dir ausgezogen, das Heer der Philister zu schlagen."
 "Und David tat, wie Gott ihm geboten hatte. Und sie schlugen das Heer der Philister von Gibeon an bis gen Geser."
 "Und Davids Ruhm ging aus in alle Lande, und der HERR ließ Furcht vor ihmüber alle Heiden kommen."

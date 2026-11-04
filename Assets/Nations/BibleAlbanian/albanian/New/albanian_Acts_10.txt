@@ -35,7 +35,7 @@
 "por, në çfarëdo kombi, ai që ka frikë prej tij dhe që vepron drejtësisht, është i pranuar nga ai,"
 "sipas fjalës që ai u ka dhënë bijve të Izraelit, duke u shpallur paqen me anë të Jezu Krishtit, që është Zoti i të gjithëve."
 "Ju e dini se ç'ka ndodhur në mbarë Judenë, duke filluar nga Galilea, pas pagëzimit që predikoi Gjoni
-"se si Perëndia vajosi me Frymën e Shenjtë dhe me fuqi Jezusin prej Nazareti, i cili e përshkoi vendin duke bërë mirë dhe duke shëruar të gjithë ata që ishin të pushtuar nga djalli, sepse Perëndia ishte me të."
+"se si Perëndia vajosi me Frymën e Shenjtë dhe me fuqi Jezusin prej Nazareti, i cili e përshkoi vendin duke #bërë mirë dhe duke shëruar të gjithë ata që ishin të pushtuar nga djalli, sepse Perëndia ishte me të."
 "Dhe ne jemi dëshmitarë për të gjitha ato që ai bëri në vendin e Judesë dhe në Jeruzalem; dhe se si ata e vranë, duke e varur në një dru."
 "Por Perëndia e ringjalli të tretën ditë dhe e bëri që ai të dëftohet,"
 "jo mbarë popullit, por dëshmitarëve të paracaktuar nga Perëndia, neve, që hëngrëm dhe pimë me të, mbasi ai u ngjall së vdekuri."

@@ -1,7 +1,7 @@
 "Ang mga salita ni Agur na anak ni Jache; ang sanggunian. Sinabi ng lalake kay Ithiel, kay Ithiel, at kay Ucal
 "Tunay na ako'y hangal kay sa kaninoman, at walang kaunawaan ng isang tao
 "At hindi ako natuto ng karunungan, ni mayroon man ako ng kaalaman ng Banal."
-"Sino ang sumampa sa langit, at bumaba? Sino ang pumisan ng hangin sa kaniyang mga dakot? Sinong nagtali ng tubig sa kaniyang kasuutan? Sinong nagtatag ng lahat ng mga wakas ng lupa? Ano ang kaniyang pangalan, at ano ang pangalan ng kaniyang anak kung iyong nalalaman?"
+"Sino ang sumampa sa langit, at bumaba? Sino ang pumisan ng hangin sa kaniyang mga dakot? Sinong nagtali ng tubig sa kaniyang kasuutan? Sinong #nagtatag ng lahat ng mga wakas ng lupa? Ano ang kaniyang pangalan, at ano ang pangalan ng kaniyang anak kung iyong nalalaman?"
 "Bawa't salita ng Dios ay subok
 "Huwag kang magdagdag sa kaniyang mga salita, baka kaniyang sawayin ka, at masunduan kang sinungaling."
 "Dalawang bagay ang hiniling ko sa iyo; huwag mong ipagkait sa akin bago ako mamatay."

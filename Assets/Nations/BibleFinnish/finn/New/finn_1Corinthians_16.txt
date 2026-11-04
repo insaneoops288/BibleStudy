@@ -9,7 +9,7 @@
 "Sillä minulle on suuri ja väkevä ovi avattu, ja on monta vastaanseisojaa."
 "Mutta jos Timoteus tulee, niin katsokaat, että hän pelkäämättä olis teidän tykönänne; sillä hän tekee myös Herran työtä niinkuin minäkin."
 "Älkään häntä kenkään katsoko ylön, mutta saattakaat häntä rauhassa minun tyköni tulemaan; sillä minä odotan häntä veljien kanssa."
-"Mutta veljestä Apollosta tietäkäät, että minä olen häntä paljon neuvonut veljien kanssa teidän tykönne tulemaan, mutta ei hän nyt tahtonut tulla; kuitenkin on hän tuleva, kuin hänellä sovelias aika on."
+"Mutta veljestä Apollosta tietäkäät, että minä olen häntä paljon neuvonut veljien kanssa teidän tykönne tulemaan, mutta #ei hän nyt tahtonut tulla; kuitenkin on hän tuleva, kuin hänellä sovelias aika on."
 "Valvokaat, pysykäät uskossa, olkaat urhoolliset, olkaat vahvat!"
 "Kaikki teidän menonne tapahtukoon rakkaudessa."
 "Mutta minä neuvon teitä, rakkaat veljet

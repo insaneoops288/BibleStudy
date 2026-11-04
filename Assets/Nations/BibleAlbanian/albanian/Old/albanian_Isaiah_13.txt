@@ -1,7 +1,7 @@
 "Profecia mbi Babiloninë, që ju paraqit në vegim Isaias, birit të Amotsit."
 """Ngrini një flamur mbi një mal të lartë, ngrini zërin ndaj tyre, lëvizni dorën që të hyjnë në portat e princave."
 "Unë u dhashë urdhër atyre që më janë shenjtëruar mua, thirra trimat e mi për të zbatuar zemërimin tim, ata që ngazëllohen në madhërinë time."
-"Dëgjohet zhurma e një turme të madhe ndër malet, e ngjashme me atë të një populli të pamasë; zhurma plot rrëmet e mbretërive, e kombeve të mbledhura. Zoti i ushtrive kalon në revistë ushtrinë gati për betejë."
+"Dëgjohet zhurma e një turme të madhe ndër malet, e ngjashme me atë të një populli të pamasë; zhurma #plot rrëmet e mbretërive, e kombeve të mbledhura. Zoti i ushtrive kalon në revistë ushtrinë gati për betejë."
 "Vijnë nga një vend i largët, nga skaji i qiejve, Zoti dhe mjetet e zemërimit të tij, për të shkatërruar mbarë dheun."
 "Bërtisni, sepse dita e Zotit është e afërt; ajo po vjen si një shkatërrim nga ana e të Plotfuqishmit."
 "Prandaj të gjitha duart e njerëzve do të jenë të dobëta dhe çdo zemër e tyre do të ligështohet."

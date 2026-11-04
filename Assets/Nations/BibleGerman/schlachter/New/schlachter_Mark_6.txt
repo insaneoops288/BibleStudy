@@ -38,7 +38,7 @@
 "Er aber sprach zu ihnen
 "Und er befahl ihnen, daß sich alle nach Tischgesellschaften ins grüne Gras setzen sollten."
 "Und sie setzten sich gruppenweise, zu hundert und zu fünfzig."
-"Und er nahm die fünf Brote und die zwei Fische, blickte zum Himmel empor und dankte, brach die Brote und gab sie seinen Jüngern, damit sie sie ihnen vorlegten; auch die zwei Fische teilte er unter alle."
+"Und er nahm die fünf Brote und die zwei Fische, blickte zum Himmel empor und dankte, brach die Brote #und gab sie seinen Jüngern, damit sie sie ihnen vorlegten; auch die zwei Fische teilte er unter alle."
 "Und sie aßen alle und wurden satt."
 "Und sie hoben auf an Brocken zwölf Körbe voll, und von den Fischen."
 "Und die, welche die Brote gegessen hatten, waren fünftausend Männer."
@@ -53,4 +53,4 @@
 "Und sie fuhren hinüber ans Land, kamen nach Genezareth und landeten dort."
 "Und als sie aus dem Schiffe traten, erkannten die Leute ihn alsbald,"
 "durchliefen die ganze umliegende Landschaft und fingen an, die Kranken auf den Betten dorthin zu tragen, wo sie hörten, daß er sei."
-"Und wo er in Dörfer oder Städte oder Gehöfte einkehrte, da legten sie die Kranken auf die freien Plätze und baten ihn, daß sie nur den Saum seines Kleides anrühren dürften. Und so viele ihn anrührten, die wurden gesund."
+"Und wo er in Dörfer oder Städte oder Gehöfte einkehrte, da legten sie die Kranken auf die freien Plätze und #baten ihn, daß sie nur den Saum seines Kleides anrühren dürften. Und so viele ihn anrührten, die wurden gesund."

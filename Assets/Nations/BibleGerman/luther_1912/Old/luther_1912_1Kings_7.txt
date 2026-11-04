@@ -11,7 +11,7 @@
 "und darauf köstliche Steine, nach dem Winkeleisen gehauen, und Zedern."
 "Aber der große Hof umher hatte drei Reihen behauene Steine und eine Reihe von zedernen Balken wie auch der innere Hof am Hause des HERRN und die Halle am Hause."
 "Und der König Salomo sandte hin und ließ holen Hiram von Tyrus,"
-"einer Witwe Sohn aus dem Stamm Naphthali, und sein Vater war ein Mann von Tyrus gewesen; der war ein Meister im Erz, voll Weisheit, Verstand und Kunst, zu arbeiten allerlei Erzwerk. Da er zum König Salomo kam, machte er alle seine Werke."
+"einer Witwe Sohn aus dem Stamm Naphthali, und sein Vater war ein Mann von Tyrus gewesen; der war ein Meister im Erz, #voll Weisheit, Verstand und Kunst, zu arbeiten allerlei Erzwerk. Da er zum König Salomo kam, machte er alle seine Werke."
 "Und machte zwei eherne Säulen, eine jegliche achtzehn Ellen hoch, und ein Faden von zwölf Ellen war das Maß um jegliche Säule her."
 "Und machte zwei Knäufe, von Erz gegossen, oben auf die Säulen zu setzen und ein jeglicher Knauf war fünf Ellen hoch.{~}{~}{~}{~}{~}"
 "Und es war an jeglichem Knauf oben auf den Säulen Gitterwerk, sieben geflochtenen Reife wie Ketten.{~}{~}{~}{~}{~}{~}{~}{~}"
@@ -22,7 +22,7 @@
 "Und es stand also oben auf den Säulen wie Lilien. Also ward vollendet das Werk der Säulen."
 "Und er machte ein Meer, gegossen von einem Rand zum andern zehn Ellen weit, rundumher, und fünf Ellen hoch, und eine Schnur dreißig Ellen lang war das Maß ringsum."
 "Und um das Meer gingen Knoten an seinem Rande rings ums Meer her, je zehn auf eine Elle; der Knoten aber waren zwei Reihen gegossen.{~}"
-"Und es stand auf zwölf Rindern, deren drei gegen Mitternacht gewandt waren, drei gegen Abend, drei gegen Mittag und drei gegen Morgen, und das Meer obendrauf, daß alle ihre Hinterteile inwendig waren."
+"Und es stand auf zwölf Rindern, deren drei gegen Mitternacht gewandt waren, drei gegen Abend, drei gegen #Mittag und drei gegen Morgen, und das Meer obendrauf, daß alle ihre Hinterteile inwendig waren."
 "Seine Dicke aber ward eine Hand breit, und sein Rand war wie eines Bechers Rand, wie eine aufgegangene Lilie, und gingen darein zweitausend Bath."
 "Er machte auch zehn eherne Gestühle, ein jegliches vier Ellen lang und breit und drei Ellen hoch.{~}"
 "Es war aber das Gestühl also gemacht, daß es Seiten hatte zwischen den Leisten.{~}"
@@ -48,4 +48,4 @@
 "Auch machte Salomo alles Gerät, das zum Hause des HERRN gehörte
 "fünf Leuchter zur rechten Hand und fünf Leuchter zur Linken vor dem Chor, von lauterem Gold, mit goldenen Blumen, Lampen und Schneuzen;"
 "dazu Schalen, Messer, Becken, Löffel und Pfannen von lauterem Gold. Auch waren die Angeln an der Tür am Hause inwendig, im Allerheiligsten, und an der Tür des Hauses des Tempels golden."
-"Also ward vollendet alles Werk, das der König Salomo machte am Hause des HERRN. Und Salomo brachte hinein, was sein Vater David geheiligt hatte von Silber und Gold und Gefäßen, und legte es in den Schatz des Hauses des HERRN."
+"Also ward vollendet alles Werk, das der König Salomo machte am Hause des HERRN. Und Salomo brachte hinein, was sein Vater #David geheiligt hatte von Silber und Gold und Gefäßen, und legte es in den Schatz des Hauses des HERRN."

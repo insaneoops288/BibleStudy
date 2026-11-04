@@ -11,11 +11,11 @@
 "I PAN powiedział do Mojżesza
 "Uderzę ich zarazą i wydziedziczę, a ciebie uczynię narodem większym i silniejszym niż oni."
 "Lecz Mojżesz powiedział do PANA
-"I opowiedzą o tym obywatelom tej ziemi. Gdyż słyszeli, że ty, PANIE, jesteś pośród tego ludu, że ty, PANIE, bywasz widziany twarzą w twarz, że twój obłok stoi nad nimi i że kroczysz przed nimi w słupie obłoku za dnia, a w słupie ognia w nocy."
+"I opowiedzą o tym obywatelom tej ziemi. Gdyż słyszeli, że ty, PANIE, jesteś pośród tego ludu, że ty, PANIE, bywasz widziany twarzą w twarz, #że twój obłok stoi nad nimi i że kroczysz przed nimi w słupie obłoku za dnia, a w słupie ognia w nocy."
 "Gdybyś więc zabił ten lud jak jednego człowieka, to narody, które słyszały o twojej sławie, mówiłyby tak
 "Ponieważ PAN nie mógł wprowadzić tego ludu do ziemi, którą im przysiągł, to zabił ich na pustyni."
 "Teraz więc proszę, niech się okaże wielka moc mojego PANA, jak powiedziałeś
-"PAN nierychły do gniewu i pełen wielkiego miłosierdzia, przebaczający nieprawość i przestępstwo, który nie uniewinnia winnego, lecz nawiedza nieprawość ojców na synach do trzeciego i czwartego pokolenia."
+"PAN nierychły do gniewu i pełen wielkiego miłosierdzia, przebaczający nieprawość i przestępstwo, który nie #uniewinnia winnego, lecz nawiedza nieprawość ojców na synach do trzeciego i czwartego pokolenia."
 "Przebacz, proszę, nieprawość twego ludu według wielkości twego miłosierdzia, tak jak przebaczałeś temu ludowi od Egiptu aż dotąd."
 "Wtedy PAN powiedział
 "Ale jak żyję i jak cała ziemia jest napełniona chwałą PANA;"
@@ -31,7 +31,7 @@
 "A wasze dzieci, o których mówiliście, że staną się łupem, te wprowadzę i one zobaczą ziemię, którą wy wzgardziliście."
 "Wasze trupy zaś legną na tej pustyni;"
 "A wasi synowie będą się tułali po tej pustyni przez czterdzieści lat i poniosą karę za wasze cudzołóstwa, aż wasze trupy zniszczeją na pustyni."
-"Według liczby dni, w ciągu których wyszpiegowaliście ziemię, to znaczy czterdzieści dni, dzień za rok, będziecie ponosić karę za wasze nieprawości przez czterdzieści lat i poznacie pomstę za odstąpienie ode mnie."
+"Według liczby dni, w ciągu których wyszpiegowaliście ziemię, to znaczy czterdzieści dni, dzień za rok, będziecie #ponosić karę za wasze nieprawości przez czterdzieści lat i poznacie pomstę za odstąpienie ode mnie."
 "Ja, PAN, powiedziałem, że tak postąpię z całym tym niegodziwym zgromadzeniem, które się zmówiło przeciwko mnie; na tej pustyni zginą i tu pomrą."
 "Wtedy mężczyźni, których Mojżesz wysłał na wyszpiegowanie ziemi, a po powrocie pobudzili całe zgromadzenie do szemrania przeciwko niemu, rozpuszczając złą wieść o tej ziemi;"
 "Ci mężczyźni, którzy rozpowiadali złą wieść o ziemi, pomarli przed PANEM wskutek plagi."

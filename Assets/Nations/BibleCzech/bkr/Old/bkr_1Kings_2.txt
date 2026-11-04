@@ -1,11 +1,11 @@
 "Když se pak čas smrti Davidovy přiblížil, dával přikázaní Šalomounovi synu svému, řka
 "Jáť již odcházím podlé způsobu všech lidí. Proto posilniž se a měj se zmužile,"
-"A ostříhej přikázaní Hospodina Boha svého, chodě po cestách jeho, a zachovávaje ustanovení jeho, rozkázaní jeho, i soudy jeho i svědectví jeho, jakož psáno jest v zákoně Mojžíšově, ať by se šťastně vedlo, což bys koli činil, i všecko, k čemuž bys se obrátil,"
+"A ostříhej přikázaní Hospodina Boha svého, chodě po cestách jeho, a zachovávaje ustanovení jeho, rozkázaní jeho, i soudy jeho i svědectví jeho, jakož #psáno jest v zákoně Mojžíšově, ať by se šťastně vedlo, což bys koli činil, i všecko, k čemuž bys se obrátil,"
 "A aby naplnil Hospodin slovo své, kteréž mi zaslíbil, mluvě
-"Také i tom víš, co jest mi učinil Joáb syn Sarvie, totiž, co učinil dvěma hejtmanům vojsk Izraelských, Abnerovi synu Ner, a Amazovi synu Jeter, že je zamordoval, dopustiv se vraždy lstivé v čas pokoje, a zmazal krví zrádně vylitou pás svůj rytířský, kterýž měl na bedrách svých, a obuv svou, kterouž měl na nohách svých."
+"Také i tom víš, co jest mi učinil Joáb syn Sarvie, totiž, co učinil dvěma hejtmanům vojsk Izraelských, Abnerovi synu Ner, a Amazovi synu Jeter, že je zamordoval, dopustiv #se vraždy lstivé v čas pokoje, a zmazal krví zrádně vylitou pás svůj rytířský, kterýž měl na bedrách svých, a obuv svou, kterouž měl na nohách svých."
 "Protož zachováš se podlé moudrosti své, a nedáš sstoupiti šedinám jeho v pokoji do hrobu."
 "S syny pak Barzillai Galádského učiníš milosrdenství, tak aby jídali spolu s jinými při stole tvém; nebo tak podobně ke mně přišli, když jsem utíkal před Absolonem bratrem tvým."
-"Hle, máš také v moci své Semei syna Gery Beniaminského z Bahurim, kterýž mi zlořečil zlořečením velikým v ten den, když jsem šel do Mahanaim, ačkoli potom vyšel mi vstříc k Jordánu, jemuž jsem přisáhl skrze Hospodina, řka
+"Hle, máš také v moci své Semei syna Gery Beniaminského z Bahurim, kterýž mi zlořečil zlořečením velikým v ten den, #když jsem šel do Mahanaim, ačkoli potom vyšel mi vstříc k Jordánu, jemuž jsem přisáhl skrze Hospodina, řka
 "Nyní však neodpouštěj jemu. A poněvadž jsi muž opatrný, víš, jak bys k němu přistoupiti měl, abys uvedl šediny jeho se krví do hrobu."
 "A tak usnul David s otci svými, a pohřben jest v městě Davidově."
 "Dnů pak, v nichž kraloval David nad Izraelem, bylo čtyřidceti let. V Hebronu kraloval sedm let, a v Jeruzalémě kraloval třidceti a tři léta."
@@ -16,7 +16,7 @@
 "Nyní pak jediné věci žádám od tebe, nechť nejsem oslyšán. Kteráž řekla jemu
 "A on řekl
 "Odpověděla Betsabé
-"Protož vešla Betsabé k králi Šalomounovi, aby mluvila s ním o Adoniáše. I povstal král proti ní, a pokloniv se jí, posadil se na stolici své; rozkázal také postaviti stolici matce své. I posadila se po pravici jeho,"
+"Protož vešla Betsabé k králi Šalomounovi, aby mluvila s ním o Adoniáše. I povstal král proti ní, a pokloniv se #jí, posadil se na stolici své; rozkázal také postaviti stolici matce své. I posadila se po pravici jeho,"
 "A řekla
 "Kteráž řekla
 "A odpovídaje král Šalomoun, řekl matce své
@@ -29,7 +29,7 @@
 "I oznámeno králi Šalomounovi, že utekl Joáb k stánku Hospodinovu, a že jest u oltáře. Tedy poslal Šalomoun Banaiáše syna Joiadova, řka
 "A když přišel Banaiáš k stánku Hospodinovu a řekl jemu
 "Na to řekl jemu král
-"A navrátí Hospodin krev jeho na hlavu jeho; nebo obořiv se na dva muže spravedlivější a lepší, než jest sám, zamordoval je mečem bez vědomí otce mého Davida, Abnera syna Ner, hejtmana vojska Izraelského, a Amazu syna Jeter, hejtmana vojska Judského."
+"A navrátí Hospodin krev jeho na hlavu jeho; nebo obořiv se na dva muže spravedlivější a lepší, než jest sám, zamordoval #je mečem bez vědomí otce mého Davida, Abnera syna Ner, hejtmana vojska Izraelského, a Amazu syna Jeter, hejtmana vojska Judského."
 "A tak navrátí se krev jejich na hlavu Joábovu, a na hlavu semene jeho na věky, Davidovi pak a semeni jeho, domu jeho a stolici jeho buď pokoj až na věky od Hospodina."
 "A protož vyšed Banaiáš syn Joiadův, obořil se na něj, a zabil jej. A pochován jest v domě svém na poušti."
 "I ustanovil král Banaiáše syna Joiadova místo něho nad vojskem, a Sádocha kněze ustanovil král místo Abiatara."

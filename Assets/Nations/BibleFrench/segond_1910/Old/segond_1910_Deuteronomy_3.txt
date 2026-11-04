@@ -8,7 +8,7 @@
 "C'est ainsi que, dans ce temps-là, nous conquîmes sur les deux rois des Amoréens le pays de l'autre côté du Jourdain, depuis le torrent de l'Arnon jusqu'à la montagne de l'Hermon"
 "les Sidoniens donnent à l'Hermon le nom de Sirion, et les Amoréens celui de Senir,"
 "toutes les villes de la plaine, tout Galaad et tout Basan jusqu'à Salca et Edréi, villes du royaume d'Og en Basan."
-"Og, roi de Basan, était resté seul de la race des Rephaïm. Voici, son lit, un lit de fer, n'est-il pas à Rabbath, ville des enfants d'Ammon? Sa longueur est de neuf coudées, et sa largeur de quatre coudées, en coudées d'homme."
+"Og, roi de Basan, était resté seul de la race des Rephaïm. Voici, son lit, un lit de fer, n'est-il pas à #Rabbath, ville des enfants d'Ammon? Sa longueur est de neuf coudées, et sa largeur de quatre coudées, en coudées d'homme."
 "Nous prîmes alors possession de ce pays. Je donnai aux Rubénites et aux Gadites le territoire à partir d'Aroër sur le torrent de l'Arnon et la moitié de la montagne de Galaad avec ses villes."
 "Je donnai à la moitié de la tribu de Manassé le reste de Galaad et tout le royaume d'Og en Basan
 "Jaïr, fils de Manassé, prit toute la contrée d'Argob jusqu'à la frontière des Gueschuriens et des Maacathiens, et il donna son nom aux bourgs de Basan, appelés encore aujourd'hui bourgs de Jaïr."
@@ -17,7 +17,7 @@
 "je leur donnai encore la plaine, limitée par le Jourdain, depuis Kinnéreth jusqu'à la mer de la plaine, la mer Salée, au pied du Pisga vers l'orient."
 "En ce temps-là, je vous donnai cet ordre. L'Eternel, votre Dieu, vous livre ce pays, pour que vous le possédiez. Vous tous, soldats, vous marcherez en armes devant les enfants d'Israël."
 "Vos femmes seulement, vos petits enfants et vos troupeaux-je sais que vous avez de nombreux troupeaux-resteront dans les villes que je vous ai données,"
-"jusqu'à ce que l'Eternel ait accordé du repos à vos frères comme à vous, et qu'ils possèdent, eux aussi, le pays que l'Eternel, votre Dieu, leur donne de l'autre côté du Jourdain. Et vous retournerez chacun dans l'héritage que je vous ai donné."
+"jusqu'à ce que l'Eternel ait accordé du repos à vos frères comme à vous, et qu'ils possèdent, eux aussi, le pays que #l'Eternel, votre Dieu, leur donne de l'autre côté du Jourdain. Et vous retournerez chacun dans l'héritage que je vous ai donné."
 "En ce temps-là, je donnai des ordres à Josué, et je dis
 "Ne les craignez point; car l'Eternel, votre Dieu, combattra lui-même pour vous."
 "En ce temps-là, j'implorai la miséricorde de l'Eternel, en disant

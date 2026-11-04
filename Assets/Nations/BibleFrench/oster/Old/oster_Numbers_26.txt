@@ -59,7 +59,7 @@
 "Et le nom de la femme d'Amram était Jokébed, fille de Lévi, qui naquit à Lévi en Égypte; elle enfanta à Amram, Aaron, Moïse et Marie leur sœur."
 "Et à Aaron, naquirent Nadab et Abihu, Éléazar et Ithamar."
 "Mais Nadab et Abihu moururent en offrant un feu étranger devant l'Éternel."
-"Or ceux des Lévites qu'on dénombra furent vingt-trois mille, tous mâles, depuis l'âge d'un mois et au-dessus; car ils ne furent point dénombrés avec les enfants d'Israël, parce qu'il ne leur fut point donné d'héritage au milieu des enfants d'Israël."
+"Or ceux des Lévites qu'on dénombra furent vingt-trois mille, tous mâles, depuis l'âge d'un mois et au-dessus; car ils ne furent #point dénombrés avec les enfants d'Israël, parce qu'il ne leur fut point donné d'héritage au milieu des enfants d'Israël."
 "Tel est le dénombrement fait par Moïse et Éléazar; le sacrificateur, qui dénombrèrent les enfants d'Israël dans les campagnes de Moab, près du Jourdain de Jérico;"
 "Et parmi ceux-ci il n'y avait aucun de ceux qui avaient été dénombrés par Moïse et Aaron, le sacrificateur, quand ils firent le dénombrement des enfants d'Israël au désert de Sinaï;"
 "Car l'Éternel avait dit d'eux

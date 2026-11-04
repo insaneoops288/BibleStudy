@@ -5,7 +5,7 @@
 "Eluzai, Jeremote, Bealias, Semarias, e Sefatias o harufita;"
 "Elcana, Issias, Azareel, Joezer, e Jasobeão, os coraítas;"
 "E Joela e Zebadias, filhos de Jeroão de Gedor."
-"E [alguns] dos gaditas passaram a Davi, à fortaleza no deserto, guerreiros valentes, homens de guerra para lutar, armados com escudo e lança; seus rostos eram como rostos de leões, e velozes como as corças sobre os montes."
+"E [alguns] dos gaditas passaram a Davi, à fortaleza no deserto, guerreiros valentes, homens de guerra para lutar, armados com #escudo e lança; seus rostos eram como rostos de leões, e velozes como as corças sobre os montes."
 "Ézer o cabeça, Obadias o segundo, Eliabe o terceiro,"
 "Mismana o quarto, Jeremias o quinto,"
 "Atai o sexto, Eliel o sétimo,"
@@ -16,7 +16,7 @@
 "Também alguns dos filhos de Benjamim e de Judá vieram a Davi à fortaleza."
 "E Davi saiu ao encontro deles, e lhes falou, dizendo
 "Então o Espírito revestiu a Amasai, chefe de trinta, e disse
-"Também alguns de Manassés passaram a Davi, quando ele veio com os filisteus à batalha contra Saul, ainda que não os ajudaram; porque os líderes dos filisteus, [depois de terem feito] conselho, o despediram, dizendo
+"Também alguns de Manassés passaram a Davi, quando ele veio com os filisteus à batalha contra Saul, ainda #que não os ajudaram; porque os líderes dos filisteus, [depois de terem feito] conselho, o despediram, dizendo
 "Quando, pois, ele veio a Ziclague, passaram-se a ele dos de Manassés
 "E estes ajudaram a Davi contra aquela tropa; porque todos eles eram guerreiros valentes, e foram capitães no exército."
 "Pois naquele tempo todos os dias, eles vinham a Davi para o ajudar, até que se fez um grande exército, como um exército de Deus."
@@ -35,6 +35,6 @@
 "E dos danitas, preparados para a batalha, vinte e oito mil e seiscentos."
 "E de Aser, dos que saíam como exército, prontos para a batalha, quarenta mil."
 "E dalém do Jordão, dos rubenitas, dos gaditas, e da meia tribo de Manassés, como toda variedade de armas de guerra para batalhar, cento e vinte mil."
-"Todos estes homens de guerra, postos em posição de batalha, com coração íntegro, vieram a Hebrom, para constituir Davi rei sobre todo Israel; e também todos os demais de Israel tinham a mesma intenção de constituir Davi o rei."
+"Todos estes homens de guerra, postos em posição de batalha, com coração íntegro, vieram a Hebrom, para constituir Davi rei #sobre todo Israel; e também todos os demais de Israel tinham a mesma intenção de constituir Davi o rei."
 "E estiveram ali com Davi três dias, comendo e bebendo, porque seus irmãos haviam lhes feito preparativos."
-"E também os seus vizinhos, até de Issacar, Zebulom, e Naftali, trouxeram pão sobre asnos, camelos, mulos, e bois; e alimento de farinha, bolos de figos e passas, vinho e azeite, bois e ovelhas em abundância, porque havia alegria em Israel."
+"E também os seus vizinhos, até de Issacar, Zebulom, e Naftali, trouxeram pão sobre asnos, camelos, mulos, e bois; e alimento #de farinha, bolos de figos e passas, vinho e azeite, bois e ovelhas em abundância, porque havia alegria em Israel."

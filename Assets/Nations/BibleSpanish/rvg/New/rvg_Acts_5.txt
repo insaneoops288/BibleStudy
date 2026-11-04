@@ -18,7 +18,7 @@
 "y echaron mano a los apóstoles y los pusieron en la cárcel pública."
 "Mas el ángel del Señor abrió de noche las puertas de la cárcel, y sacándolos, dijo
 "Id, y puestos en pie en el templo, hablad al pueblo todas las palabras de esta vida."
-"Y habiendo oído [esto], entraron de mañana en el templo, y enseñaban. Entre tanto, vinieron el sumo sacerdote y los que estaban con él, y convocaron al concilio y a todos los ancianos de los hijos de Israel, y enviaron a la cárcel para que fuesen traídos."
+"Y habiendo oído [esto], entraron de mañana en el templo, y enseñaban. Entre tanto, vinieron el sumo sacerdote y los que estaban con él, #y convocaron al concilio y a todos los ancianos de los hijos de Israel, y enviaron a la cárcel para que fuesen traídos."
 "Pero cuando llegaron los oficiales, y no los hallaron en la cárcel, volvieron y dieron aviso,"
 "diciendo
 "Y cuando oyeron estas palabras el sumo sacerdote y el magistrado del templo y los príncipes de los sacerdotes, dudaban en qué vendría a parar aquello."
@@ -33,7 +33,7 @@
 "Ellos, oyendo [esto], se enfurecieron, y tomaron consejo para matarlos."
 "Entonces levantándose en el concilio un fariseo llamado Gamaliel, doctor de la ley, honorable ante todo el pueblo, mandó que hiciesen sacar por un momento a los apóstoles,"
 "y les dijo
-"Porque antes de estos días se levantó Teudas, diciendo que era alguien; al que se agregó un número de como cuatrocientos hombres; el cual fue muerto, y todos los que le obedecían fueron dispersados y reducidos a nada."
+"Porque antes de estos días se levantó Teudas, diciendo que era alguien; al que se agregó un número de como #cuatrocientos hombres; el cual fue muerto, y todos los que le obedecían fueron dispersados y reducidos a nada."
 "Después de éste, se levantó Judas el galileo, en los días del empadronamiento, y llevó en pos de sí a mucho pueblo. Éste también pereció; y todos los que le obedecían fueron dispersados."
 "Y ahora os digo
 "pero si es de Dios, no la podréis deshacer; no seáis tal vez hallados luchando contra Dios."

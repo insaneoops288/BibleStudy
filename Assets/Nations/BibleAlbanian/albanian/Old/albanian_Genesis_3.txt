@@ -3,7 +3,7 @@
 "por nga fruti i pemës që është në mes të kopshtit Perëndia ka thënë
 "Atëherë gjarpri i tha gruas
 "por Perëndia e di që ditën që do t'i hani, sytë tuaj do të hapen dhe do të jeni në gjendje si Perëndia të njihni të mirën dhe të keqen""."
-"Dhe gruaja pa që pema ishte e mirë për t'u ngrënë, që ishte e këndshme për sytë dhe që pema ishte i dëshirueshme për ta bërë të zgjuar dikë; dhe ajo mori nga fruti i saj, e hëngri dhe i dha edhe burrit të saj që ishte me të, dhe hëngri edhe ai."
+"Dhe gruaja pa që pema ishte e mirë për t'u ngrënë, që ishte e këndshme për sytë dhe që pema ishte i dëshirueshme për ta bërë të #zgjuar dikë; dhe ajo mori nga fruti i saj, e hëngri dhe i dha edhe burrit të saj që ishte me të, dhe hëngri edhe ai."
 "Atëherë iu hapën sytë të dyve dhe e panë që ishin lakuriq; kështu ata qepën gjethe fiku dhe bënë breza për t'u mbuluar."
 "Pastaj dëgjuan zërin e Zotit Perëndi që shëtiste në kopsht në flladin e ditës; dhe burri e gruaja e tij u fshehën nga prania e Zotit Perëndi midis pemëve të kopshtit."
 "Atëherë Zoti Perëndi thirri njeriun dhe i tha

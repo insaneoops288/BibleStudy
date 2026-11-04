@@ -21,7 +21,7 @@
 "De las primicias de vuestras masas daréis á Jehová ofrenda por vuestras generaciones."
 "Y cuando errareis, y no hiciereis todos estos mandamientos que Jehová ha dicho á Moisés,"
 "Todas las cosas que Jehová os ha mandado por la mano de Moisés, desde el día que Jehová lo mandó, y en adelante por vuestras edades,"
-"Será que, si el pecado fué hecho por yerro con ignorancia de la congregación, toda la congregación ofrecerá un novillo por holocausto, en olor suave á Jehová, con su presente y su libación, conforme á la ley; y un macho cabrío en expiación."
+"Será que, si el pecado fué hecho por yerro con ignorancia de la congregación, toda la congregación ofrecerá un novillo por holocausto, #en olor suave á Jehová, con su presente y su libación, conforme á la ley; y un macho cabrío en expiación."
 "Y el sacerdote hará expiación por toda la congregación de los hijos de Israel; y les será perdonado, porque yerro es
 "Y será perdonado á toda la congregación de los hijos de Israel, y al extranjero que peregrina entre ellos, por cuanto es yerro de todo el pueblo."
 "Y si una persona pecare por yerro, ofrecerá una cabra de un año por expiación."
@@ -36,6 +36,6 @@
 "Entonces lo sacó la congregación fuera del campo, y apedreáronlo con piedras, y murió; como Jehová mandó á Moisés."
 "Y Jehová habló á Moisés, diciendo
 "Habla á los hijos de Israel, y diles que se hagan pezuelos (franjas) en los remates de sus vestidos, por sus generaciones; y pongan en cada pezuelo de los remates un cordón de cárdeno
-"Y serviros ha de pezuelo, para que cuando lo viereis, os acordéis de todos los mandamientos de Jehová, para ponerlos por obra; y no miréis en pos de vuestro corazón y de vuestros ojos, en pos de los cuales fornicáis
+"Y serviros ha de pezuelo, para que cuando lo viereis, os acordéis de todos los mandamientos de Jehová, para ponerlos por #obra; y no miréis en pos de vuestro corazón y de vuestros ojos, en pos de los cuales fornicáis
 "Para que os acordéis, y hagáis todos mis mandamientos, y seáis santos á vuestro Dios."
 "Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para ser vuestro Dios

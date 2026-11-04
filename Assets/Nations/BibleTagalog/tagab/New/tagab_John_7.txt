@@ -25,7 +25,7 @@
 "Sinabi nga ng ilang taga Jerusalem, Hindi baga ito ang kanilang pinagsisikapang patayin?"
 "At narito, siya'y hayag na nagsasalita, at walang anomang sinasabi sila sa kaniya. Napagkikilala kayang tunay ng mga pinuno na ito ang Cristo?"
 "Gayon man ay nakikilala namin ang taong ito kung taga saan siya
-"Sumigaw nga si Jesus sa templo, na nagtuturo at sinasabi, Ako'y inyong nakikilala at nalalaman din naman ninyo kung taga saan ako; at hindi ako naparito sa aking sarili, datapuwa't ang nagsugo sa akin ay tunay, na hindi ninyo nakikilala."
+"Sumigaw nga si Jesus sa templo, na nagtuturo at sinasabi, Ako'y inyong nakikilala at nalalaman din naman ninyo kung taga saan #ako; at hindi ako naparito sa aking sarili, datapuwa't ang nagsugo sa akin ay tunay, na hindi ninyo nakikilala."
 "Siya'y nakikilala ko; sapagka't ako'y mula sa kaniya, at siya ang nagsugo sa akin."
 "Pinagsisikapan nga nilang siya'y hulihin
 "Datapuwa't sa karamihan ay marami ang nagsisampalataya sa kaniya; at kanilang sinasabi, Pagparito ng Cristo, ay gagawa pa baga siya ng lalong maraming tanda kay sa mga ginawa ng taong ito?"

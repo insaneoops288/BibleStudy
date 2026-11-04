@@ -19,7 +19,7 @@
 "Als sie nun ungefähr fünfundzwanzig oder dreißig Stadien gerudert hatten, sahen sie Jesus auf dem Meere wandeln und sich Schiffe nähern; und sie fürchteten sich."
 "Er aber sprach zu ihnen
 "Da wollten sie ihn in das Schiff nehmen, und alsbald war das Schiff am Lande, wohin sie fuhren."
-"Am folgenden Tage sah das Volk, das jenseits des Meeres stand, daß kein anderes Schiff daselbst war, als nur das eine, in welches seine Jünger gestiegen waren, und daß Jesus nicht mit seinen Jüngern in das Schiff gestiegen war, sondern daß seine Jünger allein abgefahren waren."
+"Am folgenden Tage sah das Volk, das jenseits des Meeres stand, daß kein anderes Schiff daselbst war, als nur das eine, in welches seine #Jünger gestiegen waren, und daß Jesus nicht mit seinen Jüngern in das Schiff gestiegen war, sondern daß seine Jünger allein abgefahren waren."
 "Es kamen aber andere Schiffe von Tiberias nahe an den Ort, wo sie das Brot gegessen hatten nach der Danksagung des Herrn."
 "Da nun das Volk sah, daß Jesus nicht dort war, auch nicht seine Jünger, stiegen auch sie in die Schiffe und kamen nach Kapernaum und suchten Jesus."
 "Und als sie ihn jenseits des Meeres fanden, sprachen sie zu ihm
@@ -48,7 +48,7 @@
 "Ich bin das Brot des Lebens."
 "Eure Väter haben das Manna gegessen in der Wüste und sind gestorben;"
 "dies ist das Brot, das vom Himmel herabkommt, auf daß, wer davon ißt, nicht sterbe."
-"Ich bin das lebendige Brot, vom Himmel herabgekommen. Wenn jemand von diesem Brot ißt, wird er in Ewigkeit leben. Das Brot aber, das ich geben werde, ist mein Fleisch, welches ich geben werde für das Leben der Welt."
+"Ich bin das lebendige Brot, vom Himmel herabgekommen. Wenn jemand von diesem Brot ißt, wird er in Ewigkeit leben. Das #Brot aber, das ich geben werde, ist mein Fleisch, welches ich geben werde für das Leben der Welt."
 "Da zankten die Juden untereinander und sprachen
 "Darum sprach Jesus zu ihnen
 "Wer mein Fleisch ißt und mein Blut trinkt, der hat ewiges Leben, und ich werde ihn auferwecken am letzten Tage."

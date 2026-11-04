@@ -1,10 +1,10 @@
 "Y vino palabra de Jehová a Jehú hijo de Hanani contra Baasa, diciendo
-"Por cuanto yo te levanté del polvo, y te puse por príncipe sobre mi pueblo Israel, y tú has andado en el camino de Jeroboam, y has hecho pecar a mi pueblo Israel, provocándome a ira con sus pecados;"
+"Por cuanto yo te levanté del polvo, y te puse por príncipe sobre mi pueblo Israel, y tú has andado #en el camino de Jeroboam, y has hecho pecar a mi pueblo Israel, provocándome a ira con sus pecados;"
 "he aquí yo barreré la posteridad de Baasa, y la posteridad de su casa; y pondré su casa como la casa de Jeroboam hijo de Nabat."
 "El que de Baasa fuere muerto en la ciudad, le comerán los perros; y el que de él fuere muerto en el campo, lo comerán las aves del cielo."
 "Lo demás de los hechos de Baasa, y las cosas que hizo, y su poderío, ¿no está todo escrito en el libro de las crónicas de los reyes de Israel?"
 "Y durmió Baasa con sus padres, y fue sepultado en Tirsa; y reinó en su lugar Ela su hijo."
-"Pero también vino la palabra de Jehová por mano del profeta Jehú, hijo de Hanani, contra Baasa, y contra su casa, por toda la maldad que hizo ante los ojos de Jehová, provocándole a ira con las obras de sus manos, y por haber sido como la casa de Jeroboam, y por haberla destruido."
+"Pero también vino la palabra de Jehová por mano del profeta Jehú, hijo de Hanani, contra Baasa, y contra su casa, por toda la maldad que hizo ante #los ojos de Jehová, provocándole a ira con las obras de sus manos, y por haber sido como la casa de Jeroboam, y por haberla destruido."
 "En el año veintiséis de Asa rey de Judá, comenzó a reinar Ela hijo de Baasa sobre Israel en Tirsa; y reinó dos años."
 "Y conspiró contra él su siervo Zimri, comandante de la mitad de los carros. Y estando él en Tirsa, bebiendo y embriagado en casa de Arsa su mayordomo en Tirsa,"
 "vino Zimri, y lo hirió y lo mató, en el año veintisiete de Asa rey de Judá; y reinó en lugar suyo."
@@ -31,4 +31,4 @@
 "Porque le fue ligera cosa andar en los pecados de Jeroboam hijo de Nabat, y tomó por mujer a Jezabel hija de Etbaal rey de los sidonios, y fue y sirvió a Baal, y lo adoró."
 "E hizo altar a Baal, en el templo de Baal que él edificó en Samaria."
 "Hizo también Acab una imagen de Asera; y Acab hizo provocar a ira a Jehová Dios de Israel, más que todos los reyes de Israel que antes de él habían sido."
-"En su tiempo Hiel de Betel reedificó a Jericó. A costa de Abiram su primogénito echó el cimiento, y a costa de Segub su hijo menor puso sus puertas; conforme a la palabra de Jehová que había hablado por Josué hijo de Nun."
+"En su tiempo Hiel de Betel reedificó a Jericó. A costa de Abiram su primogénito echó el cimiento, y a costa de #Segub su hijo menor puso sus puertas; conforme a la palabra de Jehová que había hablado por Josué hijo de Nun."

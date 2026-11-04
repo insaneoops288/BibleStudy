@@ -1,6 +1,6 @@
 "Potem Szymszon udał się do Azy, tam poznał nierządną kobietę i do niej poszedł."
 "Więc doniesiono Azejczykom
-"Zaś Szymszon spał do północy. Lecz o północy wstał, chwycił obie zwrotnice miejskiej bramy wraz z obydwoma podwojami i wyważył je razem z zamknięciem. Potem włożył je na swoje ramiona oraz poniósł je na wierzchołek góry, położonej naprzeciw Hebronu."
+"Zaś Szymszon spał do północy. Lecz o północy wstał, chwycił obie zwrotnice miejskiej bramy wraz z obydwoma podwojami i wyważył #je razem z zamknięciem. Potem włożył je na swoje ramiona oraz poniósł je na wierzchołek góry, położonej naprzeciw Hebronu."
 "Następnie tak się stało, że w dolinie Szorek pokochał kobietę imieniem Delila."
 "Zatem przyszli do niej książęta pelisztyńscy i do niej powiedzieli
 "Więc Delila namawiała Szymszona

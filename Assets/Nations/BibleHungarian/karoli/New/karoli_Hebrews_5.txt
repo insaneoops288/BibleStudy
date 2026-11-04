@@ -9,6 +9,6 @@
 "És tökéletességre jutván, örök idvesség szerzõje lett mindazokra nézve, a kik neki engedelmeskednek,"
 "Neveztetvén az Istentõl Melkisédek rendje szerint való fõpapnak."
 "A kirõl nekünk sok és nehezen megmagyarázható mondani valónk van, mivel restek lettetek a hallásra."
-"Mert noha ez idõ szerint tanítóknak kellene lennetek, ismét arra van szükségetek, hogy az Isten beszédeinek kezdõ elemeire tanítson valaki titeket; és olyanok lettetek, a kiknek tejre van szükségetek és nem kemény eledelre."
+"Mert noha ez idõ szerint tanítóknak kellene lennetek, ismét arra van szükségetek, hogy az Isten beszédeinek kezdõ #elemeire tanítson valaki titeket; és olyanok lettetek, a kiknek tejre van szükségetek és nem kemény eledelre."
 "Mert mindaz, a ki tejjel él, járatlan az igazságnak beszédiben, mivelhogy kiskorú
 "Az érettkorúaknak pedig kemény eledel való, mint a kiknek mivoltuknál fogva gyakorlottak az érzékeik a jó és rossz között való különbségtételre."

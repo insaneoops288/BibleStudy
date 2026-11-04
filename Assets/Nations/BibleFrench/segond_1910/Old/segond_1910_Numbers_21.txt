@@ -19,7 +19,7 @@
 "de Matthana, à Nahaliel; de Nahaliel, à Bamoth;"
 "de Bamoth, à la vallée qui est dans le territoire de Moab, au sommet du Pisga, en regard du désert."
 "Israël envoya des messagers à Sihon, roi des Amoréens, pour lui dire
-"Laisse-moi passer par ton pays; nous n'entrerons ni dans les champs, ni dans les vignes, et nous ne boirons pas l'eau des puits; nous suivrons la route royale, jusqu'à ce que nous ayons franchi ton territoire."
+"Laisse-moi passer par ton pays; nous n'entrerons ni dans les champs, ni dans les vignes, et nous ne boirons #pas l'eau des puits; nous suivrons la route royale, jusqu'à ce que nous ayons franchi ton territoire."
 "Sihon n'accorda point à Israël le passage sur son territoire; il rassembla tout son peuple, et sortit à la rencontre d'Israël, dans le désert; il vint à Jahats, et combattit Israël."
 "Israël le frappa du tranchant de l'épée et s'empara de son pays depuis l'Arnon jusqu'au Jabbok, jusqu'à la frontière des enfants d'Ammon; car la frontière des enfants d'Ammon était fortifiée."
 "Israël prit toutes les villes, et s'établit dans toutes les villes des Amoréens, à Hesbon et dans toutes les villes de son ressort."

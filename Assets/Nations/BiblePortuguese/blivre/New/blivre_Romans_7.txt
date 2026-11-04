@@ -10,7 +10,7 @@
 "e descobri que o mandamento, que era para a vida, resultou-me para a morte."
 "Pois o pecado, aproveitando o mandamento, me enganou, e por ele me matou."
 "Portanto a Lei é santa, e o mandamento é santo, justo, e bom."
-"Então o que é bom se tornou para mim morte? De maneira nenhuma! Mas foi o pecado, para que se mostrasse como pecado, que operou a morte em mim por meio do bem, a fim de que, por meio do mandamento, o pecado se tornasse excessivamente pecaminoso."
+"Então o que é bom se tornou para mim morte? De maneira nenhuma! Mas foi o pecado, para que se mostrasse como pecado, que #operou a morte em mim por meio do bem, a fim de que, por meio do mandamento, o pecado se tornasse excessivamente pecaminoso."
 "Pois sabemos que a Lei é espiritual; mas eu sou carnal, vendido como servo do pecado."
 "Porque não entendo o que faço, pois o que quero, isso não faço; mas o que eu odeio, isso faço."
 "E se faço o que não quero, consinto que a Lei é boa;"

@@ -12,7 +12,7 @@
 "Mert a kik törvény nélkül vétkeztek, törvény nélkül vesznek is el
 "(Mert nem azok igazak Isten elõtt, a kik a törvényt hallgatják, hanem azok fognak megigazulni, a kik a törvényt betöltik."
 "Mert mikor a pogányok, a kiknek törvényök nincsen, természettõl a törvény dolgait cselekszik, akkor õk, törvényök nem lévén, önmagoknak törvényök
-"Mint a kik megmutatják, hogy a törvény cselekedete be van írva az õ szívökbe, egyetemben bizonyságot tévén arról az õ lelkiismeretök és gondolataik, a melyek egymást kölcsönösen vádolják vagy mentegetik.)"
+"Mint a kik megmutatják, hogy a törvény cselekedete be van írva az õ szívökbe, egyetemben bizonyságot #tévén arról az õ lelkiismeretök és gondolataik, a melyek egymást kölcsönösen vádolják vagy mentegetik.)"
 "Azon a napon, melyen az Isten megítéli az emberek titkait az én evangyéliomom szerint a Jézus Krisztus által."
 "Ímé, te zsidónak neveztetel, és a törvényre támaszkodol, és Istennel dicsekedel."
 "És ismered az õ akaratát, és választást tudsz tenni azok között, a melyek különböznek [attól,] mivelhogy a törvénybõl megtaníttattál;"

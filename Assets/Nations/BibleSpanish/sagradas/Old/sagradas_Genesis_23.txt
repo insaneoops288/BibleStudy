@@ -3,7 +3,7 @@
 "Y se levantó Abraham de delante de su muerta, y habló a los hijos de Het, diciendo
 "Peregrino y advenedizo soy entre vosotros; dadme heredad de sepultura con vosotros, y sepultaré mi muerta de delante de mí."
 "Y respondieron los hijos de Het a Abraham, y le dijeron
-"Oyenos, señor mío, <I>eres</I>  un príncipe de Dios entre nosotros; en lo mejor de nuestras sepulturas sepulta <I>a</I>  tu muerta; ninguno de nosotros te impedirá su sepultura, para que entierres tu muerta."
+"Oyenos, señor mío, <I>eres</I>  un príncipe de Dios entre nosotros; en lo mejor de nuestras sepulturas sepulta #<I>a</I>  tu muerta; ninguno de nosotros te impedirá su sepultura, para que entierres tu muerta."
 "Y Abraham se levantó, y se inclinó al pueblo de aquella tierra, a los hijos de Het;"
 "y habló con ellos, diciendo
 "<I>para</I>  que me dé la cueva de Macpela, que tiene al cabo de su heredad; que por su justo precio me la dé, para heredad de sepultura en medio de vosotros."
@@ -14,7 +14,7 @@
 "Y respondió Efrón a Abraham, diciéndole
 "Señor mío, escúchame
 "Entonces Abraham se convino con Efrón, y pesó Abraham a Efrón el dinero que dijo, oyéndolo los hijos de Het, cuatrocientos siclos de plata, corrientes por los mercaderes."
-"Y quedó la heredad de Efrón que <I>estaba</I>  en Macpela enfrente de Mamre, la heredad y la cueva que <I>estaba</I>  en ella, y todos los árboles que <I>había</I>  en la heredad, y en todo su término al derredor,"
+"Y quedó la heredad de Efrón que <I>estaba</I>  en Macpela enfrente de Mamre, la heredad y la cueva que <I>estaba</I> # en ella, y todos los árboles que <I>había</I>  en la heredad, y en todo su término al derredor,"
 "de Abraham en posesión, a vista de los hijos de Het, y de todos los que entraban por la puerta de su ciudad."
 "Y después de esto sepultó Abraham a Sara su mujer en la cueva de la heredad de Macpela enfrente de Mamre, que <I>es</I>  Hebrón en la tierra de Canaán."
 "Y quedó la heredad y la cueva que en ella <I>había</I> , de Abraham, en heredad de sepultura <I>comprada</I>  de los hijos de Het."

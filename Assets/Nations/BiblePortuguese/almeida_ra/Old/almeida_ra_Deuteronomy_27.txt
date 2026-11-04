@@ -1,6 +1,6 @@
 "Moisés, com os anciãos de Israel, deu ordem ao povo, dizendo
 "E no dia em que passares o Jordão para a terra que o Senhor teu Deus te dá, levantarás umas pedras grandes e as caiarás."
-"E escreverás nelas todas as palavras desta lei, quando tiveres passado para entrar na terra que o Senhor teu Deus te dá, terra que mana leite e mel, como o Senhor, o Deus de teus pais, te prometeu."
+"E escreverás nelas todas as palavras desta lei, quando tiveres passado para entrar na terra que o Senhor teu Deus #te dá, terra que mana leite e mel, como o Senhor, o Deus de teus pais, te prometeu."
 "Quando, pois, houverdes passado o Jordão, levantareis no monte Ebal estas pedras, como eu hoje vos ordeno, e as caiareis."
 "Também ali edificarás um altar ao Senhor teu Deus, um altar de pedras; não alçarás ferramenta sobre elas."
 "De pedras brutas edificarás o altar do Senhor teu Deus, e sobre ele oferecerás holocaustos ao Senhor teu Deus."

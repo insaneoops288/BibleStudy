@@ -31,5 +31,5 @@
 "Sinä päivänä tulivat muutamat Pharisealaiset ja sanoivat hänelle
 "Ja hän sanoi heille
 "Kuitenkin pitää minun tänäpänä ja huomenna ja toisena huomenna vaeltaman; sillä ei tapahdu, että propheta muualla hukataan kuin Jerusalemissa."
-"Jerusalem, Jerusalem, joka tapat prophetat ja kivität niitä, jotka sinun tykös lähetetään, kuinka usein minä tahdoin koota sinun lapses, niinkuin kana kokoo poikansa siipiensä alle, ja ette tahtoneet?"
+"Jerusalem, Jerusalem, joka tapat prophetat ja kivität niitä, jotka sinun tykös lähetetään, kuinka usein minä #tahdoin koota sinun lapses, niinkuin kana kokoo poikansa siipiensä alle, ja ette tahtoneet?"
 "Katso, teidän huoneenne jätetään teille kylmille. Totisesti sanon minä teille

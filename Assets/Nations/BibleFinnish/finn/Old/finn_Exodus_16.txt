@@ -15,7 +15,7 @@
 "Ja kuin Israelin lapset sen näkivät, sanoivat he toinen toisellensa
 "Tämä on se, josta Herra käskenyt on. Jokainen kootkaan sitä niin paljo kuin hän itse syö, ja ottakaan gomor joka pääluvulle, henkiluvun jälkeen joka on hänen majassansa."
 "Ja Israelin lapset tekivät niin, ja kokosivat muutamat enemmän ja muutamat vähemmän."
-"Ja kuin he mittasivat sen gomorilla, niin ei sillä mitään liiaksi ollut, joka paljo koonnut oli, eikä siltä mitään puuttunut, joka vähemmän kokosi, mutta jokainen oli koonnut niin paljo kuin he syödäksensä tarvitsivat."
+"Ja kuin he mittasivat sen gomorilla, niin ei sillä mitään liiaksi ollut, joka paljo koonnut oli, eikä #siltä mitään puuttunut, joka vähemmän kokosi, mutta jokainen oli koonnut niin paljo kuin he syödäksensä tarvitsivat."
 "Ja Moses sanoi heille
 "Mutta ei he kuulleet Mosesta, monikahdat jättivät siitä jotakin huomeneksi. Niin madot kasvoivat siihen, ja tuli haisemaan. Ja Moses vihastui heidän päällensä."
 "Niin he kokosivat siitä joka aamu, niin paljon kuin jokainen syödäksensä tarvitsi. Mutta koska päivä tuli palavaksi, niin se suli."

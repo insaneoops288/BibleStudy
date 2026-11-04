@@ -18,7 +18,7 @@
 "Simei, Éla fia, Benjáminban."
 "Géber, Uri fia, a Gileád földében, Sihonnak, az Emoreus királyának földében, és Ógnak, a Básánbeli királynak [földében;] és [ez] egy tiszttartó [bírja vala] azt a földet."
 "És Júda és Izráel megsokasodott, olyan sok volt, mint a tenger mellett való föveny, és ettek, ittak és vigadtak."
-"Salamon pedig uralkodék minden országokon a folyóvíztõl fogva egész a Filiszteusok földéig és Égyiptomnak határáig, és ajándékokat hoznak vala, és szolgálnak vala Salamonnak, életének minden idejében."
+"Salamon pedig uralkodék minden országokon a folyóvíztõl fogva egész a Filiszteusok földéig és Égyiptomnak #határáig, és ajándékokat hoznak vala, és szolgálnak vala Salamonnak, életének minden idejében."
 "És Salamon eledele naponként [ez] vala
 "Tíz hízlalt ökör, húsz füvön járt ökör és száz juh; a szarvasokon, õzeken, bivalokon és hízlalt madarakon kivül."
 "Mert õ uralkodék minden helyeken a folyóvizen túl Thifsától fogva egész Gázáig; minden királyokon, a kik a folyóvizen túl valának; és békessége volt néki minden alattvalóitól köröskörül."

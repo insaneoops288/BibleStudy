@@ -16,7 +16,7 @@
 "Mutta tosin sentähden olen minä sinun antanut seisoa, että minä osoittaisin sinulle minun voimani, ja että minun nimeni julistettaisiin kaikessa maassa."
 "Ja vieläkös nyt ylennät itses minun kansani päälle, etkä päästä heitä
 "Katso, huomenna tällä ajalla annan minä sangen suuria rakeita sataa, jonka kaltaisia ei ole ollut Egyptissä, hamasta siitä päivästä kuin se perustettu on, niin tähän asti."
-"Lähetä siis nyt ja korjaa sinun karjas ja kaikki mitä sinulla on kedolla; sillä kaikki ihmiset ja karja kuin kedolla löydetään, ja ei ole korjatut huoneesen, niiden päälle lankeevat rakeet ja heidän pitää kuoleman."
+"Lähetä siis nyt ja korjaa sinun karjas ja kaikki mitä sinulla on kedolla; sillä kaikki ihmiset ja karja #kuin kedolla löydetään, ja ei ole korjatut huoneesen, niiden päälle lankeevat rakeet ja heidän pitää kuoleman."
 "Joka Pharaon palvelioista pelkäsi Herran sanaa, se palveliansa ja karjansa huoneesen korjasi,"
 "Vaan jonka sydän ei totellut Herran sanaa, se jätti kedolle palveliansa ja karjansa."
 "Niin sanoi Herra Mosekselle

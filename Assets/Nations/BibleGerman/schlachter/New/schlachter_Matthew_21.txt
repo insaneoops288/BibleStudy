@@ -29,7 +29,7 @@
 "Der aber antwortete und sprach
 "Als aber der Vater zu dem andern dasselbe sagte, antwortete dieser und sprach
 "Welcher von diesen beiden hat den Willen des Vaters getan? Sie sprachen zu ihm
-"Denn Johannes ist zu euch gekommen mit dem Wege der Gerechtigkeit, und ihr glaubtet ihm nicht. Die Zöllner und die Huren aber glaubten ihm; und obwohl ihr es sahet, reute es euch nicht einmal nachträglich, so daß ihr ihm geglaubt hättet."
+"Denn Johannes ist zu euch gekommen mit dem Wege der Gerechtigkeit, und ihr glaubtet ihm nicht. Die Zöllner und die Huren #aber glaubten ihm; und obwohl ihr es sahet, reute es euch nicht einmal nachträglich, so daß ihr ihm geglaubt hättet."
 "Höret ein anderes Gleichnis
 "Als nun die Zeit der Früchte nahte, sandte er seine Knechte zu den Weingärtnern, um seine Früchte in Empfang zu nehmen."
 "Aber die Weingärtner ergriffen seine Knechte und schlugen den einen, den andern töteten sie, den dritten steinigten sie."

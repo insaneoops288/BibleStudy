@@ -27,12 +27,12 @@
 "Felele Dániel a király elõtt, és mondá
 "De van Isten az égben, a ki a titkokat megjelenti; és õ tudtára adta Nabukodonozor királynak
 "Néked, oh király! gondolataid támadtak a te ágyadban a felõl, hogy mik lesznek ez után, és a ki megjelenti a titkokat, megjelentette néked azt, a mi lesz."
-"Nékem pedig ez a titok nem bölcseségbõl, a mely bennem minden élõ felett volna, jelentetett meg, hanem azért, hogy a megfejtés tudtára adassék a királynak és te megértsed a te szívednek gondolatait."
+"Nékem pedig ez a titok nem bölcseségbõl, a mely bennem minden élõ felett volna, jelentetett meg, hanem #azért, hogy a megfejtés tudtára adassék a királynak és te megértsed a te szívednek gondolatait."
 "Te látád, oh király, és ímé egy nagy kép; ez a kép, mely hatalmas vala és kiváló az õ fényessége, elõtted áll vala, és az ábrázata rettenetes volt."
 "Annak az [álló]képnek feje tiszta aranyból, melle és karjai ezüstbõl, hasa és oldalai rézbõl,"
 "Lábszárai vasból, lábai pedig részint vasból, részint cserépbõl valának."
 "Nézed vala, a míg egy kõ leszakada kéz [érintése] nélkül, és letöré azt az [álló]képet vas- és cseréplábairól, és darabokra zúzá azokat."
-"Akkor egygyé zúzódék a vas, cserép, réz, ezüst és arany, és lõnek mint a nyári szérûn a polyva, és felkapá azokat a szél, és helyöket sem találák azoknak. Az a kõ pedig, a mely leüté az [álló]képet nagy hegygyé lõn, és betölté az egész földet."
+"Akkor egygyé zúzódék a vas, cserép, réz, ezüst és arany, és lõnek mint a nyári szérûn a polyva, és felkapá azokat a szél, #és helyöket sem találák azoknak. Az a kõ pedig, a mely leüté az [álló]képet nagy hegygyé lõn, és betölté az egész földet."
 "Ez az álom, és értelmét is megmondjuk a királynak."
 "Te, oh király! királyok királya, kinek az egek Istene birodalmat, hatalmat, erõt és dicsõséget adott;"
 "És valahol emberek fiai, mezei állatok és égi madarak lakoznak, a te kezedbe adta azokat, és úrrá tett téged mindezeken
@@ -41,7 +41,7 @@
 "Hogy pedig lábakat és ujjakat részint cserépbõl, részint vasból valónak láttál
 "És hogy a lába ujjai részint vas, részint cserép
 "Hogy pedig vasat elegyülve láttál agyagcseréppel
-"És azoknak a királyoknak idejében támaszt az egek Istene birodalmat, mely soha örökké meg nem romol, és ez a birodalom más népre nem száll át [hanem] szétzúzza és elrontja mindazokat a birodalmakat, maga pedig megáll örökké."
+"És azoknak a királyoknak idejében támaszt az egek Istene birodalmat, mely soha örökké meg nem romol, és ez a #birodalom más népre nem száll át [hanem] szétzúzza és elrontja mindazokat a birodalmakat, maga pedig megáll örökké."
 "Minthogy láttad, hogy a hegyrõl kõ szakad vala le kéz [érintése] nélkül, és szétzúzá a vasat, rezet, cserepet, ezüstöt és aranyat
 "Akkor Nabukodonozor király arczra borula és imádá Dánielt, és meghagyá, hogy ételáldozattal és jó illattal áldozzanak néki."
 "Szóla a király Dánielnek, és monda

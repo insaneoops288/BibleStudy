@@ -6,7 +6,7 @@
 "És mikor Pál reájok vetette kezét, szálla a Szent Lélek õ reájok; és szólnak vala nyelveken, és prófétálnak vala."
 "Valának pedig a férfiak összesen mintegy tizenketten."
 "Bemenvén pedig a zsinagógába, bátorsággal szól vala, három hónapon át vetekedvén és igyekezvén meggyõzni az Isten országára tartozó dolgokról."
-"Mikor pedig némelyek megkeményíték magokat és nem hivének, gonoszul szólván az [Úrnak] útáról a sokaság elõtt, azoktól eltávozván, elszakasztá a tanítványokat, mindennap egy bizonyos Tirannus oskolájában prédikálván."
+"Mikor pedig némelyek megkeményíték magokat és nem hivének, gonoszul szólván az [Úrnak] útáról a #sokaság elõtt, azoktól eltávozván, elszakasztá a tanítványokat, mindennap egy bizonyos Tirannus oskolájában prédikálván."
 "Ez pedig lõn két esztendeig; úgyannyira, hogy mindazok, kik lakoznak vala Ázsiában, mind zsidók, mind görögök, hallgaták az Úr Jézusnak ígéjét."
 "És nem közönséges csodákat cselekszik vala az Isten Pál keze által
 "Annyira, hogy a betegekhez is elvivék az õ testérõl a keszkenõket, vagy kötényeket, és eltávozának azoktól a betegségek, és a gonosz lelkek kimenének belõlök."
@@ -23,8 +23,8 @@
 "Támada azonban azon idõtájban nem csekély háborúság az [Úrnak] útárt."
 "Mert egy Demeter nevû ötvös, ezüstbõl Diána templomokat csinálván, a mesterembereknek nem csekély nyereséget ád vala;"
 "Kiket egybegyûjtvén az ilyenfélékkel foglalkozó mívesekkel egybe, monda
-"Látjátok pedig és halljátok, hogy ez a Pál nemcsak Efézusnak, hanem közel az egész Ázsiának sok népét eláltatván, elfordította, mivelhogy azt mondja, hogy nem istenek azok, a melyek kézzel csináltatnak."
-"Nemcsak az a veszély fenyeget pedig bennünket, hogy ez a mesterség tönkre jut, hanem hogy a nagy istenasszonynak, Diánának temploma is semmibe vétetik, és el is vész az õ nagysága, kit az egész Ázsia és a világ tisztel."
+"Látjátok pedig és halljátok, hogy ez a Pál nemcsak Efézusnak, hanem közel az egész Ázsiának sok #népét eláltatván, elfordította, mivelhogy azt mondja, hogy nem istenek azok, a melyek kézzel csináltatnak."
+"Nemcsak az a veszély fenyeget pedig bennünket, hogy ez a mesterség tönkre jut, hanem hogy a nagy istenasszonynak, Diánának temploma #is semmibe vétetik, és el is vész az õ nagysága, kit az egész Ázsia és a világ tisztel."
 "Mikor pedig [ezeket] hallották és haraggal megtelének, kiáltnak vala, mondván
 "És betelék az egész város háborúsággal; és egyakarattal a színházba rohanának, megfogván Gájust és Aristárkhust, kik Maczedóniából valók és Pálnak útitársai valának."
 "Pál pedig mikor a nép közé akara menni, nem ereszték õt a tanítványok."

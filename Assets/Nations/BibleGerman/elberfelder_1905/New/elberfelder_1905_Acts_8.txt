@@ -1,4 +1,4 @@
-"Saulus aber willigte in seine Tötung mit ein. Es entstand aber an jenem Tage eine große Verfolgung wider die Versammlung, die in Jerusalem war; und alle wurden in die Landschaften von Judäa und Samaria zerstreut, ausgenommen die Apostel."
+"Saulus aber willigte in seine Tötung mit ein. Es entstand aber an jenem Tage eine große Verfolgung wider die Versammlung, #die in Jerusalem war; und alle wurden in die Landschaften von Judäa und Samaria zerstreut, ausgenommen die Apostel."
 "Gottesfürchtige Männer aber bestatteten den Stephanus und stellten eine große Klageüber ihn an."
 "Saulus aber verwüstete die Versammlung, indem er der Reihe nach in die Häuser ging; und er schleppte sowohl Männer als Weiber fort undüberlieferte sie ins Gefängnis."
 "Die Zerstreuten nun gingen umher und verkündigten das Wort."
@@ -24,7 +24,7 @@
 "Simon aber antwortete und sprach
 "Nachdem sie nun das Wort des Herrn bezeugt und geredet hatten, kehrten sie nach Jerusalem zurück und verkündigten das Evangelium vielen Dörfern der Samariter."
 "Ein Engel des Herrn aber redete zu Philippus und sprach
-"Und er stand auf und ging hin. Und siehe einÄthiopier, ein Kämmerer, ein Gewaltiger der Kandace, der Königin derÄthiopier, derüber ihren ganzen Schatz gesetzt war, war gekommen, um zu Jerusalem anzubeten;"
+"Und er stand auf und ging hin. Und siehe einÄthiopier, ein Kämmerer, ein Gewaltiger der Kandace, #der Königin derÄthiopier, derüber ihren ganzen Schatz gesetzt war, war gekommen, um zu Jerusalem anzubeten;"
 "und er war auf der Rückkehr und saß auf seinem Wagen und las den Propheten Jesaias."
 "Der Geist aber sprach zu Philippus
 "Philippus aber lief hinzu und hörte ihn den Propheten Jesaias lesen und sprach

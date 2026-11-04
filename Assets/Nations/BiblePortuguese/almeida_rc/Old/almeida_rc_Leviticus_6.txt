@@ -9,10 +9,10 @@
 "Dá ordem a Arão e a seus filhos, dizendo
 "E o sacerdote vestirá a sua veste de linho, e vestirá as calças de linho sobre a sua carne, e levantará a cinza, quando o fogo houver consumido o holocausto sobre o altar, e a porá junto ao altar."
 "Depois, despirá as suas vestes, e vestirá outras vestes, e levará a cinza fora do arraial para um lugar limpo."
-"O fogo, pois, sobre o altar arderá nele, não se apagará; mas o sacerdote acenderá lenha nele cada manhã, e sobre ele porá em ordem o holocausto, e sobre ele queimará a gordura das ofertas pacíficas."
+"O fogo, pois, sobre o altar arderá nele, não se apagará; mas o sacerdote acenderá lenha nele cada manhã, #e sobre ele porá em ordem o holocausto, e sobre ele queimará a gordura das ofertas pacíficas."
 "O fogo arderá continuamente sobre o altar; não se apagará."
 "E esta é a lei da oferta de manjares
-"E tomará o seu punho cheio da flor de farinha da oferta e do seu azeite e todo o incenso que estiver sobre a oferta de manjares; então, o queimará sobre o altar; cheiro suave é isso, por ser memorial ao SENHOR."
+"E tomará o seu punho cheio da flor de farinha da oferta e do seu azeite e todo o incenso que estiver #sobre a oferta de manjares; então, o queimará sobre o altar; cheiro suave é isso, por ser memorial ao SENHOR."
 "E o restante dela comerão, Arão e seus filhos; asmo se comerá no lugar santo; no pátio da tenda da congregação o comerão."
 "Levedado não se cozerá; sua porção é que lhes dei das minhas ofertas queimadas; coisa santíssima é, como a expiação do pecado e como a expiação da culpa."
 "Todo varão entre os filhos de Arão comerá da oferta de manjares; estatuto perpétuo será para as vossas gerações dentre as ofertas queimadas do SENHOR; tudo o que tocar nelas será santo."

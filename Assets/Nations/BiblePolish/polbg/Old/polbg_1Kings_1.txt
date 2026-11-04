@@ -6,7 +6,7 @@
 "A nie gromił go nigdy ojciec jego, mówiąc
 "A miał zmowę z Joabem, synem Sarwii, i z Abijatarem kapłanem, którzy pomagali za Adonijaszem."
 "Ale Sadok kapłan, i Banajas, syn Jojady, i Natan prorok, i Semej, i Rehy i rycerstwo Dawidowe, nie przestawali z Adonijaszem."
-"Tedy nabił Adonijasz owiec, i wołów, i bydła tłustego u kamienia Zohelet, który był nad źródłem Rogiel, i wezwał wszystkich braci swych, synów królewskich, i wszystkich mężów z Juda, sług królewskich."
+"Tedy nabił Adonijasz owiec, i wołów, i bydła tłustego u kamienia Zohelet, który był nad źródłem #Rogiel, i wezwał wszystkich braci swych, synów królewskich, i wszystkich mężów z Juda, sług królewskich."
 "Ale Natana proroka, i Banajasa, i innego rycerstwa, ani Salomona, brata swego, nie wezwał."
 "Tedy rzekł Natan do Betsaby, matki Salomonowej, mówiąc
 "Przetoż teraz pójdź proszę, dam ci radę, a zachowasz zdrowie twoje i zdrowie syna twego Salomona."

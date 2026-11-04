@@ -1,4 +1,4 @@
-"Und das Los kam heraus für den Stamm Manasse, denn er war der Erstgeborene Josephs für Makir, den Erstgeborenen Manasses, den Vater Gileads; da er ein Kriegsmann war, so wurden ihm Gilead und Basan zuteil."
+"Und das Los kam heraus für den Stamm Manasse, denn er war der Erstgeborene Josephs für Makir, den #Erstgeborenen Manasses, den Vater Gileads; da er ein Kriegsmann war, so wurden ihm Gilead und Basan zuteil."
 "Und es kam heraus für dieübrigen Söhne Manasses, nach ihren Geschlechtern
 "Und Zelophchad, der Sohn Hephers, des Sohnes Gileads, des Sohnes Makirs, des Sohnes Manasses, hatte keine Söhne, sondern nur Töchter; und dies sind die Namen seiner Töchter
 "Und sie traten herzu vor Eleasar, den Priester, und vor Josua, den Sohn Nuns, und vor die Fürsten, und sprachen
@@ -6,7 +6,7 @@
 "denn die Töchter Manasses erhielten ein Erbteil unter seinen Söhnen. Das Land Gilead aber wurde denübrigen Söhnen Manasses zuteil."
 "Und die Grenze Manasses war von Aser nach Mikmethath, das vor Sichem liegt; und die Grenze ging nach rechts zu den Bewohnern von En-Tappuach hin."
 "Dem Manasse gehörte das Land Tappuach; aber Tappuach, an der Grenze Manasses, gehörte den Kindern Ephraim."
-"Und die Grenze stieg hinab nach dem Bache Kana, südlich vom Bache. Diese Städte gehörten Ephraim inmitten der Städte Manasses. Und das Gebiet Manasses war nördlich vom Bache, und sein Ausgang war nach dem Meere hin."
+"Und die Grenze stieg hinab nach dem Bache Kana, südlich vom Bache. Diese Städte gehörten Ephraim inmitten der Städte #Manasses. Und das Gebiet Manasses war nördlich vom Bache, und sein Ausgang war nach dem Meere hin."
 "Gegen Süden gehörte es dem Ephraim, und gegen Norden dem Manasse; und das Meer war seine Grenze. Und gegen Norden stießen sie an Aser, und gegen Osten an Issaschar."
 "Und Manasse erhielt in Issaschar und in Aser
 "Aber die Kinder Manasse vermochten diese Städte nicht in Besitz zu nehmen, und die Kanaaniter wollten in diesem Lande bleiben."
@@ -15,4 +15,4 @@
 "Und Josua sprach zu ihnen
 "Und die Kinder Joseph sprachen
 "Da sprach Josua zum Hause Joseph, zu Ephraim und zu Manasse, und sagte
-"sondern das Gebirge soll dir zuteil werden. Da es ein Wald ist, so haue ihn aus, und seine Ausläufer sollen dir gehören; denn du wirst die Kanaaniter austreiben, wenn sie auch eiserne Wagen haben, und wenn sie auch stark sind."
+"sondern das Gebirge soll dir zuteil werden. Da es ein Wald ist, so haue ihn aus, und seine Ausläufer sollen dir #gehören; denn du wirst die Kanaaniter austreiben, wenn sie auch eiserne Wagen haben, und wenn sie auch stark sind."

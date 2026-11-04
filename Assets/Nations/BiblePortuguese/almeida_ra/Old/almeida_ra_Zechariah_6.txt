@@ -12,4 +12,4 @@
 "e fala-lhe, dizendo
 "Ele mesmo edificará o templo do Senhor; receberá a honra real, assentar-se-á no seu trono, e dominará. E Josué, o sacerdote, ficará à sua direita; e haverá entre os dois o conselho de paz."
 "Essas coroas servirão a Helem, e a Tobias, e a Jedaías, e a Hen, filho de Sofonias, de memorial no templo do Senhor."
-"E aqueles que estão longe virão, e ajudarão a edificar o templo do Senhor; e vós sabereis que o Senhor dos exércitos me tem enviado a vós; e isso sucederá, se diligentemente obedecerdes a voz do Senhor vosso Deus."
+"E aqueles que estão longe virão, e ajudarão a edificar o templo do Senhor; e vós sabereis que o Senhor #dos exércitos me tem enviado a vós; e isso sucederá, se diligentemente obedecerdes a voz do Senhor vosso Deus."

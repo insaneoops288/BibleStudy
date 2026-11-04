@@ -26,7 +26,7 @@
 "Berkatalah Ishak, ayahnya, kepadanya
 "Lalu datanglah Yakub dekat-dekat dan diciumnyalah ayahnya. Ketika Ishak mencium bau pakaian Yakub, diberkatinyalah dia, katanya
 "Allah akan memberikan kepadamu embun yang dari langit dan tanah-tanah gemuk di bumi dan gandum serta anggur berlimpah-limpah."
-"Bangsa-bangsa akan takluk kepadamu, dan suku-suku bangsa akan sujud kepadamu; jadilah tuan atas saudara-saudaramu, dan anak-anak ibumu akan sujud kepadamu. Siapa yang mengutuk engkau, terkutuklah ia, dan siapa yang memberkati engkau, diberkatilah ia."""
+"Bangsa-bangsa akan takluk kepadamu, dan suku-suku bangsa akan sujud kepadamu; jadilah tuan atas saudara-saudaramu, dan anak-anak ibumu #akan sujud kepadamu. Siapa yang mengutuk engkau, terkutuklah ia, dan siapa yang memberkati engkau, diberkatilah ia."""
 "Setelah Ishak selesai memberkati Yakub, dan baru saja Yakub keluar meninggalkan Ishak, ayahnya, pulanglah Esau, kakaknya, dari berburu."
 "Ia juga menyediakan makanan yang enak, lalu membawanya kepada ayahnya. Katanya kepada ayahnya
 "Tetapi kata Ishak, ayahnya, kepadanya
@@ -42,5 +42,5 @@
 "Ketika diberitahukan perkataan Esau, anak sulungnya itu kepada Ribka, maka disuruhnyalah memanggil Yakub, anak bungsunya, lalu berkata kepadanya
 "Jadi sekarang, anakku, dengarkanlah perkataanku, bersiaplah engkau dan larilah kepada Laban, saudaraku, ke Haran,"
 "dan tinggallah padanya beberapa waktu lamanya, sampai kegeraman"
-"dan kemarahan kakakmu itu surut dari padamu, dan ia lupa apa yang telah engkau perbuat kepadanya; kemudian aku akan menyuruh orang menjemput engkau dari situ. Mengapa aku akan kehilangan kamu berdua pada satu hari juga?"""
+"dan kemarahan kakakmu itu surut dari padamu, dan ia lupa apa yang telah engkau perbuat kepadanya; kemudian aku #akan menyuruh orang menjemput engkau dari situ. Mengapa aku akan kehilangan kamu berdua pada satu hari juga?"""
 "Kemudian Ribka berkata kepada Ishak

@@ -6,7 +6,7 @@
 "Ezt cselekedjétek azért
 "És tegyetek azokba tüzet, és rakjatok rá füstölõ szert az Úr elõtt holnap, és az a férfiú legyen szent, a kit kiválaszt az Úr. Sokat tulajdonítotok magatoknak, Lévi fiai!"
 "És monda Mózes Kórénak
-"Avagy keveslitek-é azt, hogy titeket Izráel Istene külön választott Izráel gyülekezetétõl, hogy magához fogadjon titeket, hogy szolgáljatok az Úr sátorának szolgálatában, hogy álljatok e gyülekezet elõtt, és szolgáljatok néki?"
+"Avagy keveslitek-é azt, hogy titeket Izráel Istene külön választott Izráel gyülekezetétõl, hogy magához fogadjon titeket, #hogy szolgáljatok az Úr sátorának szolgálatában, hogy álljatok e gyülekezet elõtt, és szolgáljatok néki?"
 "És hogy magának fogadott tégedet, és minden atyádfiát, a Lévi fiait te veled; hanem még a papságot is kivánjátok?"
 "Azért hát te és a te egész gyülekezeted az Úr ellen gyülekeztetek össze; mert Áron micsoda, hogy õ ellene zúgolódtok?"
 "Elkülde azután Mózes, hogy hívják elõ Dáthánt és Abirámot, az Eliáb fiait. Azok pedig felelének
@@ -37,7 +37,7 @@
 "Mondd meg Eleázárnak, Áron pap fiának, hogy szedje ki a temjénezõket a tûzbõl, a tüzet pedig hintsd széjjel, mert megszenteltettek a [temjénezõk];"
 "Ezeknek temjénezõi, a kik a magok lelke ellen vétkeztek. És csináljanak azokból vékonyra vert lapokat az oltár beborítására. Mivelhogy járultak azokkal az Úr elé, és megszenteltettek
 "Felszedé azért Eleázár pap a réz temjénezõket, a melyekkel a megégettek járultak vala oda, és vékonyra verette azokat az oltár beborítására."
-"Emlékeztetõül Izráel fiainak, hogy senki idegen, a ki nem az Áron magvából való, ne járuljon az Úr elé füstölõ szerrel füstölögtetni, hogy úgy ne járjon, mint Kóré és mint az õ gyülekezete, a miképen megmondotta vala néki az Úr Mózes által."
+"Emlékeztetõül Izráel fiainak, hogy senki idegen, a ki nem az Áron magvából való, ne járuljon az Úr elé füstölõ szerrel füstölögtetni, #hogy úgy ne járjon, mint Kóré és mint az õ gyülekezete, a miképen megmondotta vala néki az Úr Mózes által."
 "És másnap felzúdula Izráel fiainak egész gyülekezete Mózes ellen és Áron ellen, mondván
 "Mikor pedig egybegyûle a gyülekezet Mózes ellen és Áron ellen, akkor fordulának a gyülekezet sátora felé
 "Mózes azért és Áron menének a gyülekezet sátora elé."

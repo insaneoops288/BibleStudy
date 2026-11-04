@@ -1,7 +1,7 @@
 "Da aber der König Hiskia das hörte, zerriß er seine Kleider und hüllte einen Sack um sich und ging in das Haus des HERRN"
 "und sandte Eljakim, den Hofmeister, und Sebna, den Schreiber, samt denÄltesten der Priester, mit Säcken umhüllt, zu dem Propheten Jesaja, dem Sohn des Amoz,"
 "daß sie zu ihm sprächen
-"Daß doch der HERR, dein Gott, hören wollte die Worte des Erzschenken, welchen sein Herr, der König von Assyrien, gesandt hat, zu lästern den lebendigen Gott und zu schelten mit solchen Worten, wie der HERR, dein Gott, gehört hat! Und du wollest ein Gebet erheben für dieübrigen, die noch vorhanden sind."
+"Daß doch der HERR, dein Gott, hören wollte die Worte des Erzschenken, welchen sein Herr, der König von Assyrien, gesandt hat, zu lästern den lebendigen Gott #und zu schelten mit solchen Worten, wie der HERR, dein Gott, gehört hat! Und du wollest ein Gebet erheben für dieübrigen, die noch vorhanden sind."
 "Und die Knechte des Königs Hiskia kamen zu Jesaja."
 "Jesaja aber sprach
 "Siehe, ich will ihm einen anderen Mut machen, und er soll etwas hören, daß er wieder heimziehe in sein Land; und will ihn durchs Schwert fällen in seinem Lande."
@@ -26,7 +26,7 @@
 "Hast du aber nicht gehört, daß ich solches lange zuvor getan habe und von Anfang habe ich's bereitet? Jetzt aber habe ich's kommen lassen, daß feste Städte zerstört werden zu Steinhaufen"
 "und ihre Einwohner schwach und zaghaft werden und mit Schanden bestehen und werden wie das Feldgras und wie das grüne Kraut, wie Gras auf den Dächern, welches verdorrt, ehe es denn reif wird."
 "Ich kenne aber deine Wohnung, deinen Auszug und Einzug und dein Toben wider mich."
-"Weil du denn wider mich tobst und dein Stolz herauf vor meine Ohren gekommen ist, will ich dir einen Ring an die Nase legen und ein Gebiß in dein Maul und will dich des Weges wieder heimführen, den du gekommen bist."
+"Weil du denn wider mich tobst und dein Stolz herauf vor meine Ohren gekommen ist, will ich dir einen Ring an #die Nase legen und ein Gebiß in dein Maul und will dich des Weges wieder heimführen, den du gekommen bist."
 "Das sei dir aber ein Zeichen
 "Denn die Erretteten vom Hause Juda und dieübrigbleiben, werden noch wiederum unter sich wurzeln undüber sich Frucht tragen."
 "Denn von Jerusalem werden noch ausgehen, dieübriggeblieben sind, und die Erretteten von Berge Zion. Solches wird tun der Eifer des HERRN Zebaoth."
@@ -35,4 +35,4 @@
 "Denn ich will diese Stadt schützen, daß ich ihr aushelfe um meinetwillen und um meines Dieners David willen."
 "Da fuhr aus der Engel des HERRN und schlug im assyrischen Lager hundertfünfundachtzigtausend Mann. Und da sie sich des Morgens früh aufmachten, siehe, da lag's alles eitel tote Leichname."
 "Und der König von Assyrien, Sanherib, brach auf zog weg und kehrte wieder heim und blieb zu Ninive."
-"Und es begab sich auch, da er anbetete im Hause Nisrochs, seines Gottes, erschlugen ihn seine Söhne Adrammelech und Sarezer mit dem Schwert, und sie flohen ins Land Ararat. Und sein Sohn Asar-Haddon ward König an seiner Statt."
+"Und es begab sich auch, da er anbetete im Hause Nisrochs, seines Gottes, erschlugen ihn seine Söhne Adrammelech und Sarezer #mit dem Schwert, und sie flohen ins Land Ararat. Und sein Sohn Asar-Haddon ward König an seiner Statt."

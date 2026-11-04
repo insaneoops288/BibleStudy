@@ -29,7 +29,7 @@
 "Atau bagaimanakah orang dapat memasuki rumah seorang yang kuat dan merampas harta bendanya apabila tidak diikatnya dahulu orang kuat itu? Sesudah diikatnya barulah dapat ia merampok rumah itu."
 "Siapa tidak bersama Aku, ia melawan Aku dan siapa tidak mengumpulkan bersama Aku, ia mencerai-beraikan."
 "Sebab itu Aku berkata kepadamu
-"Apabila seorang mengucapkan sesuatu menentang Anak Manusia, ia akan diampuni, tetapi jika ia menentang Roh Kudus, ia tidak akan diampuni, di dunia ini tidak, dan di dunia yang akan datangpun tidak."
+"Apabila seorang mengucapkan sesuatu menentang Anak Manusia, ia akan diampuni, tetapi jika ia menentang Roh Kudus, #ia tidak akan diampuni, di dunia ini tidak, dan di dunia yang akan datangpun tidak."
 "Jikalau suatu pohon kamu katakan baik, maka baik pula buahnya; jikalau suatu pohon kamu katakan tidak baik, maka tidak baik pula buahnya. Sebab dari buahnya pohon itu dikenal."
 "Hai kamu keturunan ular beludak, bagaimanakah kamu dapat mengucapkan hal-hal yang baik, sedangkan kamu sendiri jahat? Karena yang diucapkan mulut meluap dari hati."
 "Orang yang baik mengeluarkan hal-hal yang baik dari perbendaharaannya yang baik dan orang yang jahat mengeluarkan hal-hal yang jahat dari perbendaharaannya yang jahat."
@@ -38,11 +38,11 @@
 "Pada waktu itu berkatalah beberapa ahli Taurat dan orang Farisi kepada Yesus
 "Tetapi jawab-Nya kepada mereka
 "Sebab seperti Yunus tinggal di dalam perut ikan tiga hari tiga malam, demikian juga Anak Manusia akan tinggal di dalam rahim bumi tiga hari tiga malam."
-"Pada waktu penghakiman, orang-orang Niniwe akan bangkit bersama angkatan ini dan menghukumnya juga. Sebab orang-orang Niniwe itu bertobat setelah mendengar pemberitaan Yunus, dan sesungguhnya yang ada di sini lebih dari pada Yunus!"
-"Pada waktu penghakiman, ratu dari Selatan itu akan bangkit bersama angkatan ini dan ia akan menghukumnya juga. Sebab ratu ini datang dari ujung bumi untuk mendengar hikmat Salomo, dan sesungguhnya yang ada di sini lebih dari pada Salomo!"""
+"Pada waktu penghakiman, orang-orang Niniwe akan bangkit bersama angkatan ini dan menghukumnya juga. Sebab orang-orang Niniwe itu #bertobat setelah mendengar pemberitaan Yunus, dan sesungguhnya yang ada di sini lebih dari pada Yunus!"
+"Pada waktu penghakiman, ratu dari Selatan itu akan bangkit bersama angkatan ini dan ia akan menghukumnya juga. Sebab ratu ini #datang dari ujung bumi untuk mendengar hikmat Salomo, dan sesungguhnya yang ada di sini lebih dari pada Salomo!"""
 """Apabila roh jahat keluar dari manusia, iapun mengembara ke tempat-tempat yang tandus mencari perhentian. Tetapi ia tidak mendapatnya."
 "Lalu ia berkata
-"Lalu ia keluar dan mengajak tujuh roh lain yang lebih jahat dari padanya dan mereka masuk dan berdiam di situ. Maka akhirnya keadaan orang itu lebih buruk dari pada keadaannya semula. Demikian juga akan berlaku atas angkatan yang jahat ini."""
+"Lalu ia keluar dan mengajak tujuh roh lain yang lebih jahat dari padanya dan mereka masuk dan berdiam di situ. Maka #akhirnya keadaan orang itu lebih buruk dari pada keadaannya semula. Demikian juga akan berlaku atas angkatan yang jahat ini."""
 "Ketika Yesus masih berbicara dengan orang banyak itu, ibu-Nya dan saudara-saudara-Nya berdiri di luar dan berusaha menemui Dia."
 "Maka seorang berkata kepada-Nya
 "Tetapi jawab Yesus kepada orang yang menyampaikan berita itu kepada-Nya

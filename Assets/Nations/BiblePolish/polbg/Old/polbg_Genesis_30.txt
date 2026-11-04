@@ -30,7 +30,7 @@
 "Bo ta trocha, którąś miał przede mną, rozmnożyła się wielce; i błogosławił ci Pan na przyjście moję, a teraz kiedyż ja się też starać będę o dom swój?"
 "I rzekł
 "Przejdę dziś przez wszystkie trzody twoje, odłączając stamtąd każde bydlę pstre i nakrapiane, i każde bydlę płowe między owcami, a nakrapiane i pstre między kozami; to będzie zapłatą moją."
-"I da świadectwo o mnie sprawiedliwość moja na potem, gdy przyjdzie do zapłaty mojej przed tobą; wszystko co nie będzie pstre i nakrapiane między kozami, a płowe między owcami, niech będzie za kradzież poczytane przy mnie."
+"I da świadectwo o mnie sprawiedliwość moja na potem, gdy przyjdzie do zapłaty mojej przed tobą; wszystko co nie #będzie pstre i nakrapiane między kozami, a płowe między owcami, niech będzie za kradzież poczytane przy mnie."
 "Tedy rzekł Laban
 "I odłączył onegoż dnia kozły strokate, i nakrapiane, i wszystkie kozy pstre, i nakrapiane, i wszystkie, co jaką białą odmianę miały, także i płowe między owcami, i oddał je do rąk synów swych."
 "I odłączył się Laban od Jakóba, jakoby na trzy dni drogi; a Jakób pasł ostatek owiec Labanowych."

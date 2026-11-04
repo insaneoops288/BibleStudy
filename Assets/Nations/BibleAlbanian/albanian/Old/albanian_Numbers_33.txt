@@ -51,6 +51,6 @@
 """Folu bijve të Izraelit dhe u thuaj atyre
 "do të dëboni të gjithë banorët e vendit, do të shkatërroni të gjitha figurat e tyre dhe të tëra statujat e tyre prej metali të shkrirë, do të rrënoni të gjitha vendet e larta të tyre."
 "Do ta shtini në dorë vendin dhe do të vendoseni në të, sepse jua kam dhënë në pronësi."
-"Do ta ndani me short vendin, simbas familjeve tuaja. Familjeve më të mëdha do t'u jepni një pjesë më të madhe, dhe më të voglave një pjesë më të vogël. Secili do të marrë atë që do t'i bjerë me short; ndarjet do të bëhen në bazë të fiseve të etërve tuaj."
+"Do ta ndani me short vendin, simbas familjeve tuaja. Familjeve më të mëdha do t'u jepni një pjesë më të madhe, dhe më të voglave një pjesë #më të vogël. Secili do të marrë atë që do t'i bjerë me short; ndarjet do të bëhen në bazë të fiseve të etërve tuaj."
 "Por në rast se nuk i dëboni banorët e vendit, ata që do të lini do të jenë si hala në sy dhe do t'ju shqetësojnë në vendin që do të banoni."
 "Dhe do të ndodhë që unë t'ju trajtoj ashtu siç kisha menduar t'i trajtoj ata""."

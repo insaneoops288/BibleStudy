@@ -28,5 +28,5 @@
 "Ja Haran kuoli isänsä, Taran edessä, isänsä maalla Kaldean Uurissa."
 "Silloin Abram ja Nahor ottivat heillensä emännät
 "Mutta Sarai oli hedelmätöin, eikä ollut hänellä lasta."
-"Ja Tara otti poikansa Abramin ja Lotin Haranin pojan, poikansa pojan, ja miniänsä Sarain, poikansa Abramin emännän, ja he läksivät ulos ynnä Kaldean Uurista menemään Kanaanin maalle, ja tulivat Haraniin, ja asuivat siellä."
+"Ja Tara otti poikansa Abramin ja Lotin Haranin pojan, poikansa pojan, ja miniänsä Sarain, poikansa Abramin emännän, #ja he läksivät ulos ynnä Kaldean Uurista menemään Kanaanin maalle, ja tulivat Haraniin, ja asuivat siellä."
 "Ja Tara oli kahdensadan ja viiden ajastajan vanha ja kuoli Haranissa."

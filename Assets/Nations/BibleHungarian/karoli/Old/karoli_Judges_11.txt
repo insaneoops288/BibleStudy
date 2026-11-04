@@ -15,7 +15,7 @@
 "És monda néki
 "Mert mikor kijött Égyiptomból, a pusztában bolyongott Izráel egész a Veres tengerig, és mikor Kádesbe ért,"
 "Követeket küldött Izráel Edom királyához, mondván
-"És mikor [tovább] vándorolt a pusztában, megkerülte Edom földét és Moáb földét, és napkelet felõl érkezett a Moáb földéhez, és [ott] táborozott túl az Arnonon; de Moáb határába nem ment be, mert az Arnon Moáb határa."
+"És mikor [tovább] vándorolt a pusztában, megkerülte Edom földét és Moáb földét, és napkelet felõl érkezett a Moáb földéhez, #és [ott] táborozott túl az Arnonon; de Moáb határába nem ment be, mert az Arnon Moáb határa."
 "Ekkor követeket küldött Izráel Szihonhoz, az Emoreusok királyához, Hesbon királyához, és monda néki Izráel
 "De Szihon nem hitt Izráelnek, hogy átvonul az õ határán, hanem összegyûjtötte Szihon az õ egész népét, és táborba szállott Jahásban, és harczolt az Izráel ellen."
 "Az Úr, az Izráel Istene pedig Szihont és egész népét Izráel kezébe adta, és megverték õket, és elfoglalta Izráel az Emoreusoknak, ama föld lakóinak, egész országát."

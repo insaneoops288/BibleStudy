@@ -1,12 +1,12 @@
 "Und der HERR sandte Nathan zu David. Da der zu ihm kam, sprach er zu ihm
 "Der Reiche hatte sehr viele Schafe und Rinder;"
 "aber der Arme hatte nichts denn ein einziges kleines Schäflein, das er gekauft hatte. Und er nährte es, daß es groß ward bei ihm und bei seinen Kindern zugleich
-"Da aber zu dem reichen Mann ein Gast kam, schonte er zu nehmen von seinen Schafen und Rindern, daß er dem Gast etwas zurichtete, der zu ihm gekommen war, und nahm das Schaf des armen Mannes und richtete es zu dem Mann, der zu ihm gekommen war."
+"Da aber zu dem reichen Mann ein Gast kam, schonte er zu nehmen von seinen Schafen und Rindern, daß er dem Gast etwas zurichtete, #der zu ihm gekommen war, und nahm das Schaf des armen Mannes und richtete es zu dem Mann, der zu ihm gekommen war."
 "Da ergrimmte David mit großem Zorn wider den Mann und sprach zu Nathan
 "Dazu soll er vierfältig bezahlen, darum daß er solches getan hat und nicht geschont hat."
 "Da sprach Nathan zu David
 "und habe dir deines Herrn Haus gegeben, dazu seine Weiber in deinen Schoß, und habe dir das Haus Israel und Juda gegeben; und ist das zu wenig, will ich noch dies und das dazutun."
-"Warum hast du denn das Wort des HERRN verachtet, daß du solchesÜbel vor seinen Augen tatest? Uria, den Hethiter, hast du erschlagen mit dem Schwert; sein Weib hast du dir zum Weib genommen; ihn aber hast du erwürgt mit dem Schwert der Kinder Ammon."
+"Warum hast du denn das Wort des HERRN verachtet, daß du solchesÜbel vor seinen Augen tatest? Uria, den Hethiter, hast du erschlagen mit #dem Schwert; sein Weib hast du dir zum Weib genommen; ihn aber hast du erwürgt mit dem Schwert der Kinder Ammon."
 "Nun so soll von deinem Hause das Schwert nicht lassen ewiglich, darum daß du mich verachtet hast und das Weib Urias, des Hethiters, genommen hast, daß sie dein Weib sei."
 "So spricht der HERR
 "Denn du hast es heimlich getan; ich aber will dies tun vor dem ganzen Israel und an der Sonne."
@@ -28,4 +28,4 @@
 "So nimm nun zuhauf dasübrige Volk und belagere die Stadt und gewinne sie, auf daß ich sie nicht gewinne und ich den Namen davon habe."
 "Also nahm David alles Volk zuhauf und zog hin und stritt wider Rabba und gewann es"
 "und nahm die Krone seines Königs von seinem Haupt, die am Gewicht einen Zentner Gold hatte und Edelgesteine, und sie ward David auf sein Haupt gesetzt; und er führte aus der Stadt sehr viel Beute."
-"Aber das Volk drinnen führte er heraus und legte sie unter eiserne Sägen und Zacken und eiserne Keile und verbrannte sie in Ziegelöfen. So tat er allen Städten der Kinder Ammon. Da kehrte David und alles Volk wieder gen Jerusalem."
+"Aber das Volk drinnen führte er heraus und legte sie unter eiserne Sägen und Zacken und eiserne Keile und verbrannte sie #in Ziegelöfen. So tat er allen Städten der Kinder Ammon. Da kehrte David und alles Volk wieder gen Jerusalem."

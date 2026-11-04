@@ -6,7 +6,7 @@
 "Pakli mi sen i výklad jeho oznámíte, daru, odplaty a slávy veliké důjdete ode mne. A protož sen i výklad jeho mi oznamte."
 "Odpověděli po druhé a řekli
 "Odpověděl král a řekl
-"Neoznámíte-li mi toho snu, jistý jest ten úsudek o vás. Nebo řeč lživou a chytrou smyslili jste sobě, abyste mluvili přede mnou, ažby se čas proměnil. A protož sen mi povězte, a zvím, budete-li mi moci i výklad jeho oznámiti."
+"Neoznámíte-li mi toho snu, jistý jest ten úsudek o vás. Nebo řeč lživou a chytrou smyslili jste sobě, abyste mluvili přede #mnou, ažby se čas proměnil. A protož sen mi povězte, a zvím, budete-li mi moci i výklad jeho oznámiti."
 "Odpověděli Kaldejští králi a řekli
 "Nebo ta věc, na niž se král ptá, nesnadná jest, a není jiného, kdo by ji oznámiti mohl králi, kromě bohů, kteříž bydlení s lidmi nemají."
 "Z té příčiný rozlítil se král a rozhněval velmi, a přikázal, aby zhubili všecky mudrce Babylonské."
@@ -27,12 +27,12 @@
 "Odpověděl Daniel králi a řekl
 "Ale však jest Bůh na nebi, kterýž zjevuje tajné věci, a on ukázal králi Nabuchodonozorovi, co se díti bude v potomních dnech. Sen tvůj, a což jsi ty viděl na ložci svém, toto jest
 "Tobě, ó králi, na mysl přicházelo na ložci tvém, co bude potom, a ten, kterýž zjevuje tajné věci, ukázalť to, což budoucího jest."
-"Strany pak mne, ne skrze moudrost, kteráž by při mně byla nade všecky lidi, ta věc tajná mně zjevena jest, ale skrze modlitbu, aby ten výklad králi oznámen byl, a ty myšlení srdce svého abys zvěděl."
+"Strany pak mne, ne skrze moudrost, kteráž by při mně byla nade všecky lidi, ta věc tajná mně zjevena #jest, ale skrze modlitbu, aby ten výklad králi oznámen byl, a ty myšlení srdce svého abys zvěděl."
 "Ty králi, viděl jsi, a aj, obraz nějaký veliký, (obraz ten byl znamenitý a blesk jeho náramný), stál naproti tobě, kterýž na pohledění byl hrozný."
 "Toho obrazu hlava byla z zlata výborného, prsy jeho a ramena jeho z stříbra, a břicho jeho i bedra jeho z mědi,"
 "Hnátové jeho z železa, nohy jeho z částky z železa a z částky z hliny."
 "Hleděls na to, až se utrhl kámen, kterýž nebýval v rukou, a udeřil obraz ten v nohy jeho železné a hliněné, a potřel je."
-"A tak potříno jest spolu železo, hlina, měď, stříbro i zlato, a bylo to všecko jako plevy z placu letního, a zanesl to vítr, tak že místa jejich není nalezeno. Kámen pak ten, kterýž udeřil v obraz, učiněn jest horou velikou, a naplnil všecku zemi."
+"A tak potříno jest spolu železo, hlina, měď, stříbro i zlato, a bylo to všecko jako plevy z placu letního, a zanesl to #vítr, tak že místa jejich není nalezeno. Kámen pak ten, kterýž udeřil v obraz, učiněn jest horou velikou, a naplnil všecku zemi."
 "Toť jest ten sen. Výklad jeho také povíme králi
 "Ty králi, jsi král králů; nebo Bůh nebeský dal tobě království, moc a sílu i slávu."
 "A všeliké místo, na němž přebývají synové lidští, zvěř polní i ptactvo nebeské dal v ruku tvou, a pánem tě ustavil nade všemi těmi věcmi. Ty jsi ta hlava zlatá."
@@ -41,8 +41,8 @@
 "Že jsi pak viděl nohy a prsty z částky z hliny hrnčířské a z částky z železa, království rozdílné znamená, v němž bude něco mocnosti železa, tak jakž jsi viděl železo smíšené s hlinou ničemnou."
 "Ale prstové noh z částky z železa a z částky z hliny znamenají království z částky mocné a z částky ku potření snadné."
 "A že jsi viděl železo smíšené s hlinou ničemnou, ukazuje, že se přízniti budou vespolek lidé, a však nebude se přídržeti jeden druhého, tak jako železo nedrží se z hlinou."
-"Za dnů pak těch králů vzbudí Bůh nebeský království, kteréž na věky nebude zkaženo, a království to na žádného jiného nespadne, ale ono potře a konec učiní všechněm těm královstvím, samo pak státi bude na věky,"
-"Tak jakž jsi viděl, že se s hory utrhl kámen, kterýž nebýval v rukou, a potřel železo, měď, hlinu, stříbro a zlato. Bůh veliký oznámil králi, co býti má potom, a pravý jest sen ten i věrný výklad jeho."
+"Za dnů pak těch králů vzbudí Bůh nebeský království, kteréž na věky nebude zkaženo, a království to na žádného #jiného nespadne, ale ono potře a konec učiní všechněm těm královstvím, samo pak státi bude na věky,"
+"Tak jakž jsi viděl, že se s hory utrhl kámen, kterýž nebýval v rukou, a potřel železo, měď, hlinu, stříbro #a zlato. Bůh veliký oznámil králi, co býti má potom, a pravý jest sen ten i věrný výklad jeho."
 "Tedy král Nabuchodonozor padl na tvář svou, a poklonil se Danielovi, a rozkázal, aby oběti a vůně libé obětovali jemu."
 "A odpovídaje král Danielovi, řekl
 "Tedy král zvelebil Daniele, a dary veliké a mnohé dal jemu, a pánem ho učinil nade vší krajinou Babylonskou, a knížetem nad vývodami, a nade všemi mudrci Babylonskými."

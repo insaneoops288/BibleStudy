@@ -6,7 +6,7 @@
 "Dinţii tăi [sunt ]ca o turmă de oi, venite de la scăldare, toate cu [miei] gemeni şi niciuna nu [este ]stearpă între ele."
 "Ca o bucată de rodie [sunt ]tâmplele tale între şuviţele tale."
 "Sunt şaizeci de împărătese şi optzeci de concubine şi fecioare fără număr."
-"Porumbiţa mea, neîntinata mea [este ][doar] una; ea [este ]singură la mama ei, ea [este ]alegerea [dintâi] a celei ce a născut-o. Fiicele au văzut-o şi au binecuvântat-o; [da,] împărătesele şi concubinele şi ele au lăudat-o."
+"Porumbiţa mea, neîntinata mea [este ][doar] una; ea [este ]singură la mama ei, ea [este ]alegerea [dintâi] a celei #ce a născut-o. Fiicele au văzut-o şi au binecuvântat-o; [da,] împărătesele şi concubinele şi ele au lăudat-o."
 "Cine [este ]ea, [care] se iveşte ca dimineaţa, frumoasă ca luna, senină ca soarele [şi ]înfricoşătoare ca [o] [armată] cu steaguri?"
 "Am coborât în grădina nucilor, să văd fructele văii [şi][ ]să văd dacă viţa a înflorit [şi ]rodiile au înmugurit."
 "Înainte de a-mi da seama, sufletul meu m-a făcut [precum ]carele lui Aminadib."

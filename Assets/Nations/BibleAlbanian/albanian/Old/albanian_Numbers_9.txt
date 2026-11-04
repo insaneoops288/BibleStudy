@@ -3,15 +3,15 @@
 "Do ta kremtoni në kohën e caktuar, ditën e katërmbëdhjetë të këtij muaji, në të ngrysur; do ta kremtoni simbas të gjitha statuteve dhe dekreteve të saj""."
 "Kështu Moisiu u foli bijve të Izraelit me qëllim që të kremtonin Pashkën"
 "ditën e katërmbëdhjetë të muajit të parë në të ngrysur, në shkretëtirën e Sinait; bijtë e Izraelit vepruan simbas urdhrave të dhëna Moisiut nga Zoti."
-"Por kishte disa njerëz që ishin të papastër sepse kishin prekur trupin e vdekur të një personi dhe nuk mund ta kremtonin Pashkën atë ditë. Por këta njerëz u paraqitën po atë ditë përpara Moisiut dhe Aaronit,"
+"Por kishte disa njerëz që ishin të papastër sepse kishin prekur trupin e vdekur të një personi dhe nuk #mund ta kremtonin Pashkën atë ditë. Por këta njerëz u paraqitën po atë ditë përpara Moisiut dhe Aaronit,"
 "dhe i thanë Moisiut
 "Moisiu iu përgjegj atyre
 "Dhe Zoti i foli Moisiut, duke thënë
 """Folu bijve të Izraelit dhe u thuaj atyre
 "Do ta kremtojnë ditën e katërmbëdhjetë të muajit të dytë në të ngrysur; do të hanë bukë të ndorme dhe barishte të hidhura;"
 "nuk do të lënë asnjë tepricë deri në mëngjes dhe nuk do të thyejnë asnjë kockë. Do ta kremtojnë simbas të gjitha statuteve të Pashkës."
-"Por ai që është i pastër dhe nuk është në udhëtim, në rast se nuk e kremton Pashkën, do të shfaroset në mes të popullit të tij, sepse nuk i paraqiti ofertën në kohën e duhur Zotit; ky njeri do të mbajë dënimin e mëkatit të tij."
-"Në rast se një i huaj që banon në mes jush kremton Pashkën e Zotit, ai duhet ta bëjë mbas statuteve dhe dekreteve të Pashkës. Ju do të keni një statut të vetëm për të huajin dhe për atë që ka lindur në vend""."
+"Por ai që është i pastër dhe nuk është në udhëtim, në rast se nuk e kremton Pashkën, do të shfaroset në mes të #popullit të tij, sepse nuk i paraqiti ofertën në kohën e duhur Zotit; ky njeri do të mbajë dënimin e mëkatit të tij."
+"Në rast se një i huaj që banon në mes jush kremton Pashkën e Zotit, ai duhet ta bëjë mbas statuteve dhe dekreteve #të Pashkës. Ju do të keni një statut të vetëm për të huajin dhe për atë që ka lindur në vend""."
 "Por ditën në të cilën tabernakulli u ngrit, reja mbuloi tabernakullin, perden e dëshmisë; dhe që nga mbrëmja deri në mëngjes reja mbi tabernakullin kishte marrë një pamje zjarri."
 "Kështu ndodhte gjithnjë
 "Sa herë që reja ngrihej mbi çadrën, bijtë e Izraelit niseshin për rrugë pas kësaj; dhe aty ku ndalej reja, aty bijtë e Izraelit vendosnin kampin e tyre."

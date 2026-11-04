@@ -14,7 +14,7 @@
 "Simão, ao qual também chamou Pedro, e André, seu irmão; Tiago e João; Filipe e Bartolomeu;"
 "Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelote;"
 "Judas, filho de Tiago; e Judas Iscariotes, que veio a ser o traidor."
-"E Jesus, descendo com eles, parou num lugar plano, onde havia não só grande número de seus discípulos, mas também grande multidão do povo, de toda a Judeia e Jerusalém, e do litoral de Tiro e de Sídon, que tinham vindo para ouvi-lo e serem curados das suas doenças;"
+"E Jesus, descendo com eles, parou num lugar plano, onde havia não só grande número de seus discípulos, mas também grande multidão do povo, de #toda a Judeia e Jerusalém, e do litoral de Tiro e de Sídon, que tinham vindo para ouvi-lo e serem curados das suas doenças;"
 "e os que eram atormentados por espíritos imundos ficavam curados."
 "E toda a multidão procurava tocar-lhe; porque saía dele poder que curava a todos."
 "Então, levantando ele os olhos para os seus discípulos, dizia
@@ -45,5 +45,5 @@
 "O homem bom, do bom tesouro do seu coração tira o bem; e o homem mau, do seu mau tesouro tira o mal; pois do que há em abundância no coração, disso fala a boca."
 "E por que me chamais
 "Todo aquele que vem a mim, e ouve as minhas palavras, e as pratica, eu vos mostrarei a quem é semelhante
-"É semelhante ao homem que, edificando uma casa, cavou, abriu profunda vala, e pôs os alicerces sobre a rocha; e vindo a enchente, bateu com ímpeto a torrente naquela casa, e não a pôde abalar, porque tinha sido bem edificada."
+"É semelhante ao homem que, edificando uma casa, cavou, abriu profunda vala, e pôs os alicerces sobre a rocha; e vindo #a enchente, bateu com ímpeto a torrente naquela casa, e não a pôde abalar, porque tinha sido bem edificada."
 "Mas o que ouve e não pratica é semelhante a um homem que edificou uma casa sobre terra, sem alicerces, na qual bateu com ímpeto a torrente, e logo caiu; e foi grande a ruína daquela casa."

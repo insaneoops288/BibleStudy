@@ -1,6 +1,6 @@
 The word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah,
 "I will sweep away everything from the face of the earth," declares the LORD.
-"I will sweep away both men and animals, I will sweep away the birds of the air and the fish of the sea. The wicked will have only heaps of rubble when I cut off man from the face of the earth," declares the LORD.
+"I will sweep away both men and animals, I will sweep away the birds of the air and the fish of the sea. #The wicked will have only heaps of rubble when I cut off man from the face of the earth," declares the LORD.
 "I will stretch out my hand against Judah and against all who live in Jerusalem. I will cut off from this place every remnant of Baal, the names of the pagan and the idolatrous priests,
 those who bow down on the roofs to worship the starry host, those who bow down and swear by the LORD and who also swear by Molech,
 those who turn back from following the LORD and neither seek the LORD nor inquire of him.
@@ -15,4 +15,4 @@ Their wealth will be plundered, their houses demolished. They will build houses 
 That day will be a day of wrath, a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness,
 a day of trumpet and battle cry against the fortified cities and against the corner towers.
 I will bring distress on the people and they will walk like blind men, because they have sinned against the LORD. Their blood will be poured out like dust and their entrails like filth.
-Neither their silver nor their gold will be able to save them on the day of the LORD'S wrath. In the fire of his jealousy the whole world will be consumed, for he will make a sudden end of all who live in the earth."
+Neither their silver nor their gold will be able to save them on the day of the LORD'S wrath. In the fire of #his jealousy the whole world will be consumed, for he will make a sudden end of all who live in the earth."

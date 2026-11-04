@@ -1,8 +1,8 @@
 "A gdy zbliżał się czas śmierci Dawida, rozkazał Salomonowi, swemu synowi
 "Idę drogą całej ziemi. Ty umacniaj się i okaż się mężczyzną;"
-"Zachowuj nakaz PANA, swego Boga, abyś chodził jego drogami i przestrzegał jego ustaw, jego przykazań, jego praw i jego świadectw, jak jest napisane w Prawie Mojżesza, aby ci się wiodło we wszystkim, co będziesz czynił, i wszędzie, dokądkolwiek się zwrócisz;"
+"Zachowuj nakaz PANA, swego Boga, abyś chodził jego drogami i przestrzegał jego ustaw, jego przykazań, jego praw i jego świadectw, jak #jest napisane w Prawie Mojżesza, aby ci się wiodło we wszystkim, co będziesz czynił, i wszędzie, dokądkolwiek się zwrócisz;"
 "Aby PAN spełnił swoje słowo, które zapowiedział o mnie
-"Ty wiesz także, co uczynił mi Joab, syn Serui, co uczynił dwom dowódcom wojska Izraela, Abnerowi, synowi Nera, i Amasie, synowi Jetery, których zabił i przelał krew w czasie pokoju jak na wojnie, i zbroczył tą krwią wojny swój pas na biodrach i swoje obuwie na nogach."
+"Ty wiesz także, co uczynił mi Joab, syn Serui, co uczynił dwom dowódcom wojska Izraela, Abnerowi, synowi Nera, i Amasie, synowi Jetery, których zabił #i przelał krew w czasie pokoju jak na wojnie, i zbroczył tą krwią wojny swój pas na biodrach i swoje obuwie na nogach."
 "Uczynisz więc według swojej mądrości, jednak nie dopuść, aby w sędziwym wieku zstąpił w pokoju do grobu."
 "Lecz synom Barzillaja Gileadczyka okaż łaskę i niech należą do tych, którzy jadają przy twoim stole. Oni bowiem przyszli do mnie, kiedy uciekałem przed twoim bratem Absalomem."
 "Oto jest też u ciebie Szimei, syn Gery, Beniaminita z Bachurim, który złorzeczył mi ostro w tym dniu, kiedy szedłem do Machanaim. Lecz wyszedł mi na spotkanie nad Jordanem i przysiągłem mu na PANA
@@ -16,7 +16,7 @@
 "Teraz mam więc do ciebie jedną prośbę, nie odmawiaj mi tego. Odpowiedziała
 "Wtedy powiedział
 "Batszeba odpowiedziała
-"Poszła więc Batszeba do króla Salomona, aby przemówić do niego za Adoniaszem. I król wstał na jej spotkanie, pokłonił się jej i usiadł na swym tronie. Kazał też postawić krzesło swojej matce, a ona usiadła po jego prawicy."
+"Poszła więc Batszeba do króla Salomona, aby przemówić do niego za Adoniaszem. I król wstał na jej spotkanie, pokłonił się #jej i usiadł na swym tronie. Kazał też postawić krzesło swojej matce, a ona usiadła po jego prawicy."
 "I powiedziała
 "Wtedy powiedziała
 "Król Salomon odpowiedział swojej matce
@@ -29,7 +29,7 @@
 "I doniesiono królowi Salomonowi o tym, że Joab uciekł do namiotu PANA i jest przy ołtarzu. Wtedy Salomon posłał Benajasza, syna Jehojady, mówiąc
 "Benajasz przyszedł więc do namiotu PANA i powiedział do niego
 "I król mu polecił
-"A PAN sprowadzi jego krew na jego własną głowę, ponieważ zadał cios dwom mężczyznom sprawiedliwszym i lepszym niż on sam i zabił ich mieczem bez wiedzy mego ojca Dawida – Abnera, syna Nera, dowódcę wojska Izraela, i Amasę, syna Jetery, dowódcę wojska Judy."
+"A PAN sprowadzi jego krew na jego własną głowę, ponieważ zadał cios dwom mężczyznom sprawiedliwszym i lepszym niż on sam i zabił #ich mieczem bez wiedzy mego ojca Dawida – Abnera, syna Nera, dowódcę wojska Izraela, i Amasę, syna Jetery, dowódcę wojska Judy."
 "Ich krew spadnie na głowę Joaba i na głowę jego potomstwa na wieki. Dla Dawida zaś i jego potomstwa, jego domu i jego tronu niech będzie pokój od PANA na wieki."
 "Benajasz, syn Jehojady, poszedł więc, rzucił się na niego i zabił go. I został pogrzebany w swoim domu na pustyni."
 "Król na jego miejsce postawił na czele wojska Benajasza, syna Jehojady, a kapłana Sadoka król postawił na miejsce Abiatara."

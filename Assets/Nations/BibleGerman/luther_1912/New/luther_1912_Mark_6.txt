@@ -53,4 +53,4 @@
 "Und da sie hinübergefahren waren, kamen sie in das Land Genezareth und fuhren an."
 "Und da sie aus dem Schiff traten alsbald kannten sie ihn"
 "und liefen in alle die umliegenden Länder und hoben an, die Kranken umherzuführen auf Betten, wo sie hörten, daß er war."
-"Und wo er in die Märkte oder Städte oder Dörfer einging, da legten sie die Kranken auf den Markt und baten ihn, daß sie nur den Saum seines Kleides anrühren möchten; und alle, die ihn anrührten, wurden gesund."
+"Und wo er in die Märkte oder Städte oder Dörfer einging, da legten sie die Kranken auf den Markt und #baten ihn, daß sie nur den Saum seines Kleides anrühren möchten; und alle, die ihn anrührten, wurden gesund."

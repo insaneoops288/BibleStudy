@@ -24,7 +24,7 @@
 "Beméne azért Joáb a királyhoz és monda
 "Ismered-é Abnert, a Nér fiát? Csak azért jött volt ide, hogy megcsalhasson, és kikémlelje a te kijövésedet és bemenésedet, és megtudjon mindent, a mit te cselekszel."
 "És kimenvén Joáb Dávidtól, követeket külde Abner után, kik visszahozák õt a Sira kútjától; Dávid azonban nem tudja vala."
-"Visszajövén Abner Hebronba, félreszólítá õt Joáb a kapu között, mintha titokban akarna vele beszélni, és általüté ott õt az ötödik oldalbordájánál, és meghala Asáelnek, a [Joáb] atyjafiának véréért."
+"Visszajövén Abner Hebronba, félreszólítá õt Joáb a kapu között, mintha titokban akarna vele beszélni, és #általüté ott õt az ötödik oldalbordájánál, és meghala Asáelnek, a [Joáb] atyjafiának véréért."
 "Mely dolgot minekutána megtudott Dávid, monda
 "Szálljon ez Joábnak fejére, és az õ atyjának egész háznépére; és el ne fogyjon a Joáb házából a folyásos, a bélpoklos, a mankón járó, és a ki fegyver miatt vész el, és a kenyér nélkül szûkölködõ."
 "Joáb pedig és Abisai, az õ atyjafia azért ölék meg Abnert, mivelhogy megölte vala az õ atyjokfiát, Asáelt Gibeonban a harczon."

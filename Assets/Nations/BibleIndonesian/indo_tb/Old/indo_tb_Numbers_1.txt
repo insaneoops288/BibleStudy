@@ -15,11 +15,11 @@
 "dari suku Naftali
 "Itulah orang-orang yang dipilih dari umat itu, masing-masing sebagai pemimpin dari suku bapa leluhurnya; mereka inilah kepala-kepala pasukan Israel."
 "Lalu Musa dan Harun memanggil orang-orang yang tertunjuk namanya itu,"
-"dan pada tanggal satu bulan yang kedua mereka menyuruh segenap umat berkumpul. Kemudian silsilah orang-orang Israel disusun menurut kaum-kaum yang ada dalam setiap suku mereka, sedang nama-nama mereka yang berumur dua puluh tahun ke atas dicatat orang demi orang,"
+"dan pada tanggal satu bulan yang kedua mereka menyuruh segenap umat berkumpul. Kemudian silsilah orang-orang Israel disusun menurut kaum-kaum yang #ada dalam setiap suku mereka, sedang nama-nama mereka yang berumur dua puluh tahun ke atas dicatat orang demi orang,"
 "seperti yang diperintahkan TUHAN kepada Musa. Demikianlah Musa mencatat mereka di padang gurun Sinai."
-"Ketika silsilah bani Ruben, yaitu keturunan anak sulung Israel, disusun menurut kaum-kaum yang ada dalam suku mereka, maka dicatatlah nama semua laki-laki yang berumur dua puluh tahun ke atas, semua orang yang sanggup berperang, orang demi orang."
+"Ketika silsilah bani Ruben, yaitu keturunan anak sulung Israel, disusun menurut kaum-kaum yang ada dalam suku mereka, maka dicatatlah #nama semua laki-laki yang berumur dua puluh tahun ke atas, semua orang yang sanggup berperang, orang demi orang."
 "Jumlah yang dicatat dari suku Ruben ada empat puluh enam ribu lima ratus orang."
-"Ketika silsilah bani Simeon disusun menurut kaum-kaum yang ada dalam suku mereka, maka dicatatlah nama semua laki-laki yang berumur dua puluh tahun ke atas, semua orang yang sanggup berperang, orang demi orang."
+"Ketika silsilah bani Simeon disusun menurut kaum-kaum yang ada dalam suku mereka, maka dicatatlah nama semua laki-laki #yang berumur dua puluh tahun ke atas, semua orang yang sanggup berperang, orang demi orang."
 "Jumlah yang dicatat dari suku Simeon ada lima puluh sembilan ribu tiga ratus orang."
 "Ketika silsilah bani Gad disusun menurut kaum-kaum yang ada dalam suku mereka, maka dicatatlah nama orang-orang yang berumur dua puluh tahun ke atas, semua orang yang sanggup berperang."
 "Jumlah yang dicatat dari suku Gad ada empat puluh lima ribu enam ratus lima puluh orang."
@@ -47,7 +47,7 @@
 "Tetapi mereka yang menurut suku bapa leluhurnya termasuk orang Lewi, tidak turut dicatat bersama-sama dengan mereka itu."
 "Sebab TUHAN telah berfirman kepada Musa
 """Hanya suku Lewi janganlah kaucatat dan janganlah kauhitung jumlahnya bersama-sama dengan orang Israel,"
-"tetapi tugaskanlah mereka untuk mengawasi Kemah Suci, tempat hukum Allah dengan segala perabotan dan perlengkapannya; mereka harus mengangkat Kemah Suci dengan segala perabotannya; mereka harus mengurusnya dan harus berkemah di sekelilingnya."
+"tetapi tugaskanlah mereka untuk mengawasi Kemah Suci, tempat hukum Allah dengan segala perabotan dan perlengkapannya; mereka #harus mengangkat Kemah Suci dengan segala perabotannya; mereka harus mengurusnya dan harus berkemah di sekelilingnya."
 "Apabila berangkat, Kemah Suci harus dibongkar oleh orang Lewi, dan apabila berkemah, Kemah Suci harus dipasang oleh mereka; sedang orang awam yang mendekat harus dihukum mati."
 "Orang Israel haruslah berkemah masing-masing di tempat perkemahannya dan masing-masing dekat panji-panjinya, menurut pasukan mereka,"
 "tetapi orang Lewi haruslah berkemah di sekeliling Kemah Suci, tempat hukum Allah supaya umat Israel jangan kena murka; orang Lewi haruslah memelihara Kemah Suci, tempat hukum itu."""

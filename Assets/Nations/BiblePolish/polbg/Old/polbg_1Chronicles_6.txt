@@ -46,7 +46,7 @@
 "Syna Amsego, syna Banego, syna Semmerowego,"
 "Syna Moholi, syna Musego, syna Merarego, syna Lewiego."
 "A bracia ich Lewitowie postawieni są ku wszelakiej posłudze przybytku domu Bożego."
-"Ale Aaron i synowie jego palili na ołtarzu całopalenia, i na ołtarzu kadzenia przy każdej posłudze świątyni świętych, i ku oczyszczaniu Izraela podług wszystkiego, jako był przykazał Mojżesz, sługa Boży."
+"Ale Aaron i synowie jego palili na ołtarzu całopalenia, i na ołtarzu kadzenia przy każdej posłudze #świątyni świętych, i ku oczyszczaniu Izraela podług wszystkiego, jako był przykazał Mojżesz, sługa Boży."
 "A ci są synowie Aaronowi
 "Abisua syn jego, Bokki syn jego, Uzy syn jego, Zerachyjasz syn jego,"
 "Merajot syn jego, Amaryjasz syn jego, Achytob syn jego,"

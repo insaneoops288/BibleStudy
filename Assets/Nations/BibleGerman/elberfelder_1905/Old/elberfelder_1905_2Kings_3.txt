@@ -6,7 +6,7 @@
 "Und der König Joram zog in selbiger Zeit von Samaria aus und musterte ganz Israel."
 "Und er ging hin und sandte zu Josaphat, dem König von Juda, und ließ ihm sagen
 "Und er sprach
-"Und so zogen der König von Israel und der König von Juda und der König von Edom hin; und sie machten einen Umweg von sieben Tagereisen, und es war kein Wasser da für das Heer und für das Vieh, das ihnen folgte."
+"Und so zogen der König von Israel und der König von Juda und der König von Edom hin; und sie machten einen #Umweg von sieben Tagereisen, und es war kein Wasser da für das Heer und für das Vieh, das ihnen folgte."
 "Da sprach der König von Israel
 "Und Josaphat sprach
 "Und Josaphat sprach
@@ -18,10 +18,10 @@
 "Und das ist noch gering in den Augen Jehovas; er wird auch Moab in eure Hand geben."
 "Und ihr werdet alle festen Städte und alle auserlesenen Städte schlagen, und werdet alle guten Bäume fällen und alle Wasserquellen verstopfen und alle guten Ackerstücke mit Steinen verderben."
 "Und es geschah am Morgen, zur Zeit, da man das Speisopfer opfert, siehe, da kam Wasser des Weges von Edom her, und das Land füllte sich mit Wasser."
-"Und als alle Moabiter hörten, daß die Könige heraufgezogen waren, um wider sie zu streiten, da wurden sie zusammengerufen, von jedem an, der sich rüsten konnte und darüber; und sie rückten an die Grenze."
+"Und als alle Moabiter hörten, daß die Könige heraufgezogen waren, um wider sie zu streiten, da wurden sie #zusammengerufen, von jedem an, der sich rüsten konnte und darüber; und sie rückten an die Grenze."
 "Und als sie sich des Morgens früh aufmachten und die Sonneüber dem Wasser aufging, da sahen die Moabiter das Wasser gegenüber rot wie Blut."
 "Und sie sprachen
 "Als sie aber zum Lager Israels kamen, da machten die Israeliten sich auf und schlugen die Moabiter, daß sie vor ihnen flohen. Und sie kamen in das Land Moab und schlugen es."
-"Und sie rissen die Städte nieder, und auf alle guten Ackerstücke warfen sie ein jeder seinen Stein und füllten sie damit an, und sie verstopften alle Wasserquellen und fällten alle guten Bäume...,bis sie an Kir-Hareseth nur dessen Steineübrigließen. Und die Schleuderer umzingelten und beschossen die Stadt."
-"Und als der König von Moab sah, daß ihm der Streit zu stark war, nahm er siebenhundert Mann mit sich, die das Schwert zogen, um gegen den König von Edom hin durchzubrechen; aber sie vermochten es nicht."
-"Da nahm er seinen erstgeborenen Sohn, der an seiner Statt König werden sollte, und opferte ihn als Brandopfer auf der Mauer. Und es kam ein großer Zornüber Israel; und sie zogen von ihm ab und kehrten in ihr Land zurück."
+"Und sie rissen die Städte nieder, und auf alle guten Ackerstücke warfen sie ein jeder seinen Stein und füllten sie damit an, und sie #verstopften alle Wasserquellen und fällten alle guten Bäume...,bis sie an Kir-Hareseth nur dessen Steineübrigließen. Und die Schleuderer umzingelten und beschossen die Stadt."
+"Und als der König von Moab sah, daß ihm der Streit zu stark war, nahm er siebenhundert Mann mit #sich, die das Schwert zogen, um gegen den König von Edom hin durchzubrechen; aber sie vermochten es nicht."
+"Da nahm er seinen erstgeborenen Sohn, der an seiner Statt König werden sollte, und opferte ihn als Brandopfer auf der Mauer. #Und es kam ein großer Zornüber Israel; und sie zogen von ihm ab und kehrten in ihr Land zurück."

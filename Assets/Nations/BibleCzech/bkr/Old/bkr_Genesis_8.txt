@@ -14,7 +14,7 @@
 "Druhého pak měsíce, v dvadcátý sedmý den téhož měsíce oschla země."
 "I mluvil Bůh k Noé, řka
 "Vyjdi z korábu, ty i žena tvá, a synové tvoji, i ženy synů tvých s tebou."
-"Všecky živočichy, kteříž jsou s tebou ze všelikého těla, tak z ptactva jako z hovad a všelikého zeměplazu, kterýž se hýbe na zemi, vyveď s sebou; ať se v hojnosti rozplozují na zemi, a rostou a množí se na zemi."
+"Všecky živočichy, kteříž jsou s tebou ze všelikého těla, tak z ptactva jako z hovad a všelikého zeměplazu, kterýž se hýbe #na zemi, vyveď s sebou; ať se v hojnosti rozplozují na zemi, a rostou a množí se na zemi."
 "I vyšel Noé a synové jeho, i žena jeho a ženy synů jeho s ním;"
 "Každý živočich, každý zeměplaza všecko ptactvo, všecko, což se hýbe na zemi, po pokoleních svých vyšlo z korábu."
 "Tedy vzdělal Noé oltář Hospodinu, a vzav ze všech hovad čistých i ze všeho ptactva čistého, obětoval zápaly na tom oltáři."

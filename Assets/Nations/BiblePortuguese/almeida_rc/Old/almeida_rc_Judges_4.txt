@@ -18,7 +18,7 @@
 "E Jael saiu ao encontro de Sísera e disse-lhe
 "Então, ele lhe disse
 "E ele lhe disse
-"Então, Jael, mulher de Héber, tomou uma estaca da tenda, e lançou mão de um martelo, e foi-se mansamente a ele, e lhe cravou a estaca na fonte, e a pregou na terra, estando ele, porém, carregado de um profundo sono e já cansado; e assim morreu."
+"Então, Jael, mulher de Héber, tomou uma estaca da tenda, e lançou mão de um martelo, e foi-se mansamente a ele, e lhe cravou #a estaca na fonte, e a pregou na terra, estando ele, porém, carregado de um profundo sono e já cansado; e assim morreu."
 "E eis que, seguindo Baraque a Sísera, Jael lhe saiu ao encontro e disse-lhe
 "Assim, Deus, naquele dia, sujeitou a Jabim, rei de Canaã, diante dos filhos de Israel."
 "E continuou a mão dos filhos de Israel a lutar e a endurecer-se sobre Jabim, rei de Canaã, até que exterminaram a Jabim, rei de Canaã."

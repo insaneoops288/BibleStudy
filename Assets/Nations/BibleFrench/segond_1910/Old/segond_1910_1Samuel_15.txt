@@ -1,12 +1,12 @@
 "Samuel dit à Saül
 "Ainsi parle l'Eternel des armées
-"Va maintenant, frappe Amalek, et dévouez par interdit tout ce qui lui appartient; tu ne l'épargneras point, et tu feras mourir hommes et femmes, enfants et nourrissons, boeufs et brebis, chameaux et ânes."
+"Va maintenant, frappe Amalek, et dévouez par interdit tout ce qui lui appartient; tu ne l'épargneras point, #et tu feras mourir hommes et femmes, enfants et nourrissons, boeufs et brebis, chameaux et ânes."
 "Saül convoqua le peuple, et en fit la revue à Thelaïm
 "Saül marcha jusqu'à la ville d'Amalek, et mit une embuscade dans la vallée."
 "Il dit aux Kéniens
 "Saül battit Amalek depuis Havila jusqu'à Schur, qui est en face de l'Egypte."
 "Il prit vivant Agag, roi d'Amalek, et il dévoua par interdit tout le peuple en le passant au fil de l'épée."
-"Mais Saül et le peuple épargnèrent Agag, et les meilleures brebis, les meilleurs boeufs, les meilleures bêtes de la seconde portée, les agneaux gras, et tout ce qu'il y avait de bon; ils ne voulurent pas le dévouer par interdit, et ils dévouèrent seulement tout ce qui était méprisable et chétif."
+"Mais Saül et le peuple épargnèrent Agag, et les meilleures brebis, les meilleurs boeufs, les meilleures bêtes de la seconde portée, les agneaux gras, et tout #ce qu'il y avait de bon; ils ne voulurent pas le dévouer par interdit, et ils dévouèrent seulement tout ce qui était méprisable et chétif."
 "L'Eternel adressa la parole à Samuel, et lui dit
 "Je me repens d'avoir établi Saül pour roi, car il se détourne de moi et il n'observe point mes paroles. Samuel fut irrité, et il cria à l'Eternel toute la nuit."
 "Il se leva de bon matin, pour aller au-devant de Saül. Et on vint lui dire
@@ -20,7 +20,7 @@
 "Saül répondit à Samuel
 "mais le peuple a pris sur le butin des brebis et des boeufs, comme prémices de ce qui devait être dévoué, afin de les sacrifier à l'Eternel, ton Dieu, à Guilgal."
 "Samuel dit
-"Car la désobéissance est aussi coupable que la divination, et la résistance ne l'est pas moins que l'idolâtrie et les théraphim. Puisque tu as rejeté la parole de l'Eternel, il te rejette aussi comme roi."
+"Car la désobéissance est aussi coupable que la divination, et la résistance ne l'est pas moins que l'idolâtrie #et les théraphim. Puisque tu as rejeté la parole de l'Eternel, il te rejette aussi comme roi."
 "Alors Saül dit à Samuel
 "Maintenant, je te prie, pardonne mon péché, reviens avec moi, et je me prosternerai devant l'Eternel."
 "Samuel dit à Saül

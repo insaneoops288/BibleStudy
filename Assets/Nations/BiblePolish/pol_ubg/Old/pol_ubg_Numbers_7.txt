@@ -16,7 +16,7 @@
 "Jeden kozioł z kóz na ofiarę za grzech;"
 "A na ofiarę pojednawczą – dwa woły, pięć baranów, pięć kozłów i pięć jednorocznych jagniąt. To była ofiara Nachszona, syna Amminadaba."
 "Drugiego dnia ofiarę złożył Netaneel, syn Suara, naczelnik z pokolenia Issachara."
-"Złożył on w ofierze jedną srebrną misę wagi stu trzydziestu syklów, jedną srebrną czaszę wagi siedemdziesięciu syklów według sykla świątynnego, obydwie pełne mąki pszennej zmieszanej z oliwą, na ofiarę pokarmową;"
+"Złożył on w ofierze jedną srebrną misę wagi stu trzydziestu syklów, jedną srebrną czaszę wagi siedemdziesięciu #syklów według sykla świątynnego, obydwie pełne mąki pszennej zmieszanej z oliwą, na ofiarę pokarmową;"
 "Jedną czarę z dziesięciu syklów złota pełną kadzidła;"
 "Jednego młodego cielca, jednego barana i jedno roczne jagnię na ofiarę całopalną;"
 "Jednego kozła z kóz na ofiarę za grzech;"
@@ -86,4 +86,4 @@
 "Złotych czar było dwanaście, pełnych kadzidła; każda ważyła dziesięć syklów według sykla świątynnego. Całego złota w tych czarach było sto dwadzieścia syklów."
 "Wszystkich zwierząt na ofiarę całopalną było
 "A wszystkich zwierząt na ofiarę pojednawczą było
-89 "A gdy Mojżesz wchodził do Namiotu Zgromadzenia, aby rozmawiać z Bogiem, wtedy słyszał głos mówiącego do niego z przebłagalni, która była nad arką świadectwa, spomiędzy dwóch cherubinów. I przemawiał do niego."
+89 "A gdy Mojżesz wchodził do Namiotu Zgromadzenia, aby rozmawiać z Bogiem, wtedy słyszał głos mówiącego do #niego z przebłagalni, która była nad arką świadectwa, spomiędzy dwóch cherubinów. I przemawiał do niego."

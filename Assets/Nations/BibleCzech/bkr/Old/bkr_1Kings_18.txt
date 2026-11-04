@@ -9,8 +9,8 @@
 "Jemuž řekl
 "Živť jest Hospodin Bůh tvůj, žeť není národu ani království, kamž by neposlal pán můj hledati tě, a když řekli, že tebe není, přísahy požádal od království a národu, že tě nemohou nalezti."
 "A ty nyní pravíš
-"I stalo by se, že jakž bych odšel od tebe, tedy duch Hospodinův zanesl by tě nevím kam, já pak jda, oznámil bych Achabovi, a když by tě nenalezl, zabil by mne. Služebník zajisté tvůj bojí se Hospodina od mladosti své."
-"Zdaliž není oznámeno pánu mému, co jsem učinil, když Jezábel mordovala proroky Hospodinovy, že jsem skryl z proroků Hospodinových sto mužů, po padesáti mužích v jeskyni, a krmil jsem je chlebem a vodou?"
+"I stalo by se, že jakž bych odšel od tebe, tedy duch Hospodinův zanesl by tě nevím kam, já pak jda, #oznámil bych Achabovi, a když by tě nenalezl, zabil by mne. Služebník zajisté tvůj bojí se Hospodina od mladosti své."
+"Zdaliž není oznámeno pánu mému, co jsem učinil, když Jezábel mordovala proroky Hospodinovy, že jsem skryl z #proroků Hospodinových sto mužů, po padesáti mužích v jeskyni, a krmil jsem je chlebem a vodou?"
 "Ty pak nyní pravíš
 "Odpověděl Eliáš
 "A tak šel Abdiáš vstříc Achabovi, a oznámil jemu. Pročež šel i Achab v cestu Eliášovi."
@@ -20,7 +20,7 @@
 "Obeslal tedy Achab všecky syny Izraelské, a shromáždil ty proroky na horu Karmel."
 "A přistoupiv Eliáš ke všemu lidu, řekl
 "Opět řekl Eliáš lidu
-"Nechť jsou nám dáni dva volkové, a ať vyberou sobě volka jednoho, kteréhož nechť rozsekají na kusy a vkladou na dříví, ale ohně ať nepodkládají. Jáť také připravím volka druhého, kteréhož vložím na dříví, a ohně nepodložím."
+"Nechť jsou nám dáni dva volkové, a ať vyberou sobě volka jednoho, kteréhož nechť rozsekají na kusy a vkladou #na dříví, ale ohně ať nepodkládají. Jáť také připravím volka druhého, kteréhož vložím na dříví, a ohně nepodložím."
 "Tedy vzývejte jméno bohů vašich, já pak vzývati budu jméno Hospodinovo, a budeť to, že Bůh, kterýž se ohlásí skrze oheň, ten jest Bůh. A odpověděl všecken lid, řka
 "I řekl Eliáš prorokům Bálovým
 "A tak vzali volka, kteréhož jim dal, a připravili a vzývali jméno Bálovo od jitra až do poledne, říkajíce

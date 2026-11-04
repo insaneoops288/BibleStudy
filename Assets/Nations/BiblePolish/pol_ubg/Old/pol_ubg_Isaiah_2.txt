@@ -1,7 +1,7 @@
 "Słowo, które widział Izajasz, syn Amosa, dotyczące Judy i Jerozolimy."
 "Stanie się w dniach ostatecznych, że góra domu PANA będzie utwierdzona na szczycie gór i wywyższona ponad pagórki; i wszystkie narody popłyną do niej."
 "I pójdzie wiele ludów, i powie
-"On będzie sądził wśród narodów i karcił wielu ludzi. I przekują swe miecze na lemiesze, a swoje włócznie na sierpy. Naród przeciw narodowi nie podniesie już miecza i nie będą się już ćwiczyć do wojny."
+"On będzie sądził wśród narodów i karcił wielu ludzi. I przekują swe miecze na lemiesze, a swoje włócznie #na sierpy. Naród przeciw narodowi nie podniesie już miecza i nie będą się już ćwiczyć do wojny."
 "Domu Jakuba, chodźcie, postępujmy w światłości PANA."
 "Ale ty opuściłeś swój lud, dom Jakuba, gdyż pełen jest obrzydliwości wschodu i są oni wróżbitami jak Filistyni, a kochają się w cudzych synach."
 "Ich ziemia jest pełna srebra i złota i nie ma końca ich skarbom. Ich ziemia jest pełna koni i nie ma końca ich rydwanom."

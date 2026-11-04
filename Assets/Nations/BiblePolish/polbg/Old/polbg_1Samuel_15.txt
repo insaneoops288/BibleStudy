@@ -5,7 +5,7 @@
 "Rzekł Saul do Cynejczyka
 "I poraził Saul Amaleka, od Hewila, którędy chodzą do Sur, które jest przeciw Egiptowi."
 "I pojmał Agaga, króla Amalekitów, żywego, a wszystek lud pobił ostrzem miecza."
-"A przepuścił Saul i lud jego Agagowi, co najlepszym owcom, i wołom, i bydłu tłustemu, i baranom, i wszystkiemu, co było najlepszego, a nie chcieli go wygubić; tylko cokolwiek było nikczemnego i podłego, to wygubili."
+"A przepuścił Saul i lud jego Agagowi, co najlepszym owcom, i wołom, i bydłu tłustemu, i baranom, i #wszystkiemu, co było najlepszego, a nie chcieli go wygubić; tylko cokolwiek było nikczemnego i podłego, to wygubili."
 "Przetoż stało się słowo Pańskie do Samuela, mówiąc
 "Żal mi, żem postanowił Saula za króla; albowiem odwrócił się odemnie, a słowa mego nie wypełnił, i rozgniewał się bardzo Samuel, i wołał do Pana przez całą noc."
 "Wstawszy tedy Samuel, szedł przeciwko Saulowi rano; bo dano znać Samuelowi, mówiąc

@@ -3,7 +3,7 @@
 "E Davi os repartiu, sendo Zadoque dos filhos de Eleazar, e Aimeleque dos filhos de Itamar, por seus turnos em seu ministério."
 "E os filhos de Eleazar foram achados, quanto a seus principais varões, muitos mais que os filhos de Itamar; e repartiram-nos assim
 "Repartiram-nos, pois, por sorte os uns com os outros
-"E Semaías escriba, filho de Natanael, dos levitas, escreveu-os diante do rei e dos príncipes, e diante de Zadoque o sacerdote, e de Aimeleque filho de Abiatar, e dos príncipes das famílias dos sacerdotes e levitas; e inscreviam uma família a Eleazar, e a Itamar outra."
+"E Semaías escriba, filho de Natanael, dos levitas, escreveu-os diante do rei e dos príncipes, e diante de Zadoque o sacerdote, e de Aimeleque #filho de Abiatar, e dos príncipes das famílias dos sacerdotes e levitas; e inscreviam uma família a Eleazar, e a Itamar outra."
 "E a primeira sorte saiu por Jeoiaribe, a segunda por Jedaías;"
 "A terceira por Harim, a quarta por Seorim;"
 "A quinta por Malquias, a sexta por Miamim;"

@@ -16,7 +16,7 @@
 "L'Eternel Dieu donna cet ordre à l'homme
 "mais tu ne mangeras pas de l'arbre de la connaissance du bien et du mal, car le jour où tu en mangeras, tu mourras."
 "L'Eternel Dieu dit
-"L'Eternel Dieu forma de la terre tous les animaux des champs et tous les oiseaux du ciel, et il les fit venir vers l'homme, pour voir comment il les appellerait, et afin que tout être vivant portât le nom que lui donnerait l'homme."
+"L'Eternel Dieu forma de la terre tous les animaux des champs et tous les oiseaux du ciel, et il les fit venir #vers l'homme, pour voir comment il les appellerait, et afin que tout être vivant portât le nom que lui donnerait l'homme."
 "Et l'homme donna des noms à tout le bétail, aux oiseaux du ciel et à tous les animaux des champs; mais, pour l'homme, il ne trouva point d'aide semblable à lui."
 "Alors l'Eternel Dieu fit tomber un profond sommeil sur l'homme, qui s'endormit; il prit une de ses côtes, et referma la chair à sa place."
 "L'Eternel Dieu forma une femme de la côte qu'il avait prise de l'homme, et il l'amena vers l'homme."

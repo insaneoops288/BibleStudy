@@ -20,6 +20,6 @@ And they said, An Egyptian delivered us out of the hand of the shepherds, and al
 And he said unto his daughters, And where [is] he? why [is] it [that] ye have left the man? call him, that he may eat bread.
 And Moses was content to dwell with the man, and he gave Moses Zipporah his daughter.
 And she bare [him] a son, and he called his name Gershom, for he said, I have been a stranger in a strange land.
-And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.
+And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed #by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.
 And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 And God looked upon the children of Israel, and God had respect unto [them].

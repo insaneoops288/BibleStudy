@@ -1,10 +1,10 @@
 "Niin tuli Herran sana Jehun Hananin pojan tykö Baesaa vastaan, sanoen
-"Että minä olen ylentänyt sinun tomusta ja tehnyt sinun minun kansani Israelin ruhtinaaksi, ja kuitenkin sinä olet vaeltanut Jerobeamin teillä ja saattanut minun kansani Israelin syntiä tekemään, niin ettäs vihoitat minun heidän synneillänsä;"
+"Että minä olen ylentänyt sinun tomusta ja tehnyt sinun minun kansani Israelin ruhtinaaksi, ja kuitenkin sinä olet #vaeltanut Jerobeamin teillä ja saattanut minun kansani Israelin syntiä tekemään, niin ettäs vihoitat minun heidän synneillänsä;"
 "Katso, minä hävitän Baesan perilliset ja hänen huoneensa perilliset, ja annan sinun huonees tulla niinkuin Jerobeamin Nebatin pojan huoneen
 "Joka Baesan suvusta kuolee kaupungissa, se pitää koirilta syötämän, ja joka kuolee kedolla se pitää taivaan linnuilta syötämän."
 "Mitä enempi on puhumista Baesasta ja hänen töistänsä ja voimastansa
 "Ja Baesa nukkui isäinsä kanssa ja haudattiin Tirtsaan. Ja hänen poikansa Ella tuli kuninkaaksi hänen siaansa."
-"Ja Herran sana tuli prophetan Jehun Hananin pojan kautta Baesaa ja hänen huonettansa vastaan, ja kaikkea pahuutta vastaan, minkä hän Herran edessä tehnyt oli, vihoittaaksensa häntä kättensä töillä, että sen piti tuleman niinkuin Jerobeamin huone, ja sentähden että hän hänen tappanut oli."
+"Ja Herran sana tuli prophetan Jehun Hananin pojan kautta Baesaa ja hänen huonettansa vastaan, ja kaikkea pahuutta vastaan, minkä hän Herran edessä #tehnyt oli, vihoittaaksensa häntä kättensä töillä, että sen piti tuleman niinkuin Jerobeamin huone, ja sentähden että hän hänen tappanut oli."
 "Asan Juudan kuninkaan kuudentena vuonna kolmattakymmentä oli Ella Baesan poika Israelin kuningas Tirtsassa kaksi ajastaikaa."
 "Mutta hänen palveliansa Simri, joka hallitsi puolet vaunuja, teki liiton häntä vastaan
 "Ja Simri tuli ja löi hänen, ja tappoi hänen Asan Juudan kuninkaan seitsemäntenä vuonna kolmattakymmentä, ja tuli hänen siaansa kuninkaaksi."

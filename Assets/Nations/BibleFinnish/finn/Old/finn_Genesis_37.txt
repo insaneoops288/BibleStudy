@@ -25,7 +25,7 @@
 "Sitte istuivat he syömään leipää
 "Niin sanoi Juuda veljillensä
 "Tulkaat ja myykäämme häntä Ismaelilaisille, ja älkäämme satuttako käsiämme häneen
-"Koska Midianilaisten kauppamiehet siitä menivät ohitse, vetivät he Josephin ja ottivat ylös kuopasta, ja myivät hänen Ismaelilaisille, kahteenkymmeneen hopiapenninkiin; jotka veivät Josephin pois Egyptiin."
+"Koska Midianilaisten kauppamiehet siitä menivät ohitse, vetivät he Josephin ja ottivat ylös kuopasta, #ja myivät hänen Ismaelilaisille, kahteenkymmeneen hopiapenninkiin; jotka veivät Josephin pois Egyptiin."
 "Koska Ruben palasi kuopalle, niin katso, ei ollut Joseph kuopassa
 "Ja palasi veljeinsä tykö, ja sanoi
 "Niin he ottivat Josephin hameen ja tappoivat kauriin, ja tahrasivat hameen vereen"

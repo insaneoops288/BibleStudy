@@ -86,4 +86,4 @@
 "twaalf goue rookpanne, vol reukwerk; elke rookpan tien sikkels volgens die sikkel van die heiligdom; al die goud van die rookpanne was honderd en twintig sikkels."
 "Al die beeste vir die brandoffer was twaalf bulle; die ramme twaalf, die jaaroud lammers twaalf, met hulle spysoffer; en twaalf bokramme as sondoffer."
 "En al die beeste vir die dankoffer was vier en twintig bulle; die ramme sestig, die bokramme sestig, die jaaroud lammers sestig. Dit is die inwydingsgawe van die altaar nadat dit gesalf is."
-89 "En as Moses in die tent van samekoms gegaan het om met Hom te spreek, het hy die stem met hom hoor spreek van die versoendeksel af wat op die ark van die Getuienis is, tussen die twee gérubs uit. So het Hy dan met hom gespreek."
+89 "En as Moses in die tent van samekoms gegaan het om met Hom te spreek, het hy die stem met hom hoor spreek van #die versoendeksel af wat op die ark van die Getuienis is, tussen die twee gérubs uit. So het Hy dan met hom gespreek."

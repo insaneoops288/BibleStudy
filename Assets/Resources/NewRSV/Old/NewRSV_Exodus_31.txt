@@ -10,7 +10,7 @@ and the altar of burnt offering with all its utensils, and the basin with its st
 and the finely worked vestments, the holy vestments for the priest Aaron and the vestments of his sons, for their service as priests,
 and the anointing oil and the fragrant incense for the holy place. They shall do just as I have commanded you.
 The LORD said to Moses,
-You yourself are to speak to the Israelites, "You shall keep my sabbaths, for this is a sign between me and you throughout your generations, given in order that you may know that I, the LORD, sanctify you.
+You yourself are to speak to the Israelites, "You shall keep my sabbaths, for this is a sign between me #and you throughout your generations, given in order that you may know that I, the LORD, sanctify you.
 You shall keep the sabbath, because it is holy for you; everyone who profanes it shall be put to death; whoever does any work on it shall be cut off from among the people.
 Six days shall work be done, but the seventh day is a sabbath of solemn rest, holy to the LORD; whoever does any work on the sabbath day shall be put to death.
 Therefore the Israelites shall keep the sabbath, observing the sabbath throughout their generations, as a perpetual covenant.

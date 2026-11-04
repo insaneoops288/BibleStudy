@@ -1,6 +1,6 @@
 "Amonéstales que se sujeten a los príncipes y potestades, que obedezcan, que estén prontos a toda buena obra."
 "Que a nadie infamen, que no sean pendencieros, sino modestos, mostrando toda mansedumbre para con todos los hombres."
-"Porque también éramos nosotros locos en otro tiempo, rebeldes, errados, sirviendo a <I>las</I>  concupiscencias y <I>los</I>  deleites diversos, viviendo en malicia y en envidia, aborrecibles, aborreciéndonos los unos a los  otros."
+"Porque también éramos nosotros locos en otro tiempo, rebeldes, errados, sirviendo a <I>las</I>  concupiscencias y <I>los</I>  #deleites diversos, viviendo en malicia y en envidia, aborrecibles, aborreciéndonos los unos a los  otros."
 "Pero cuando se manifestó la bondad del Salvador nuestro Dios, y su amor para con los hombres,"
 "no por obras de justicia que nosotros habíamos hecho, sino por su misericordia, nos salvó por el lavamiento de la regeneración, y de la renovación del Espíritu Santo;"
 "el cual derramó en nosotros abundantemente por Jesús, el Cristo, nuestro Salvador,"

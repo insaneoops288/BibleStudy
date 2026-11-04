@@ -31,4 +31,4 @@
 "Tutti gli annoverati del campo di Dan, son cencinquantasettemila seicento. Questi si movano gli ultimi, distinti per le lor bandiere."
 "Questi sono gli annoverati d’infra i figliuoli d’Israele, per le lor famiglie paterne. Tutti gli annoverati de’ campi, per le loro schiere, furono seicentotremila cinquecencinquanta."
 "Ma i Leviti non furono annoverati per mezzo i figliuoli d’Israele; secondo che il Signore avea comandato a Mosè."
-"E i figliuoli d’Israele fecero interamente come il Signore avea comandato a Mosè; così si accampavano distinti per le lor bandiere, e così si movevano, ciascuno secondo la sua nazione, e secondo la sua famiglia paterna."
+"E i figliuoli d’Israele fecero interamente come il Signore avea comandato a Mosè; così si accampavano distinti per le #lor bandiere, e così si movevano, ciascuno secondo la sua nazione, e secondo la sua famiglia paterna."

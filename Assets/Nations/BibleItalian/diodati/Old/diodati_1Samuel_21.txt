@@ -3,7 +3,7 @@
 "Ora dunque, che hai a mano? dammi cinque pani, o ciò che tu potrai."
 "E il Sacerdote rispose a Davide, e disse
 "E Davide rispose al Sacerdote, e gli disse
-"Il Sacerdote adunque gli diè del pane sacro; perciocchè quivi non era altro pane che i pani di presenza, ch’erano stati levati d’innanzi al Signore, per mettervi de’ pani caldi, il giorno stesso che quelli si erano levati."
+"Il Sacerdote adunque gli diè del pane sacro; perciocchè quivi non era altro pane che i pani di presenza, ch’erano #stati levati d’innanzi al Signore, per mettervi de’ pani caldi, il giorno stesso che quelli si erano levati."
 "Or in quel dì un uomo de’ servitori di Saulle, il cui nome era Doeg, Idumeo, il principale de’ mandriani di Saulle, era quivi rattenuto davanti al Signore."
 "E Davide disse ad Ahimelec
 "E il Sacerdote rispose

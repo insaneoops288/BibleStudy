@@ -7,20 +7,20 @@
 "Aaron y fera brûler du parfum odoriférant; il en fera brûler chaque matin, lorsqu'il préparera les lampes;"
 "il en fera brûler aussi entre les deux soirs, lorsqu'il arrangera les lampes. C'est ainsi que l'on brûlera à perpétuité du parfum devant l'Eternel parmi vos descendants."
 "Vous n'offrirez sur l'autel ni parfum étranger, ni holocauste, ni offrande, et vous n'y répandrez aucune libation."
-"Une fois chaque année, Aaron fera des expiations sur les cornes de l'autel; avec le sang de la victime expiatoire, il y sera fait des expiations une fois chaque année parmi vos descendants. Ce sera une chose très sainte devant l'Eternel."
+"Une fois chaque année, Aaron fera des expiations sur les cornes de l'autel; avec le sang de la victime expiatoire, il #y sera fait des expiations une fois chaque année parmi vos descendants. Ce sera une chose très sainte devant l'Eternel."
 "L'Eternel parla à Moïse, et dit
-"Lorsque tu compteras les enfants d'Israël pour en faire le dénombrement, chacun d'eux paiera à l'Eternel le rachat de sa personne, afin qu'ils ne soient frappés d'aucune plaie lors de ce dénombrement."
+"Lorsque tu compteras les enfants d'Israël pour en faire le dénombrement, chacun d'eux paiera à l'Eternel le #rachat de sa personne, afin qu'ils ne soient frappés d'aucune plaie lors de ce dénombrement."
 "Voici ce que donneront tous ceux qui seront compris dans le dénombrement
 "Tout homme compris dans le dénombrement, depuis l'âge de vingt ans et au-dessus, paiera le don prélevé pour l'Eternel."
 "Le riche ne paiera pas plus, et le pauvre ne paiera pas moins d'un demi-sicle, comme don prélevé pour l'Eternel, afin de racheter leurs personnes."
-"Tu recevras des enfants d'Israël l'argent du rachat, et tu l'appliqueras au travail de la tente d'assignation; ce sera pour les enfants d'Israël un souvenir devant l'Eternel pour le rachat de leurs personnes."
+"Tu recevras des enfants d'Israël l'argent du rachat, et tu l'appliqueras au travail de la tente d'assignation; #ce sera pour les enfants d'Israël un souvenir devant l'Eternel pour le rachat de leurs personnes."
 "L'Eternel parla à Moïse, et dit
 "Tu feras une cuve d'airain, avec sa base d'airain, pour les ablutions; tu la placeras entre la tente d'assignation et l'autel, et tu y mettras de l'eau,"
 "avec laquelle Aaron et ses fils se laveront les mains et les pieds."
-"Lorsqu'ils entreront dans la tente d'assignation, ils se laveront avec cette eau, afin qu'ils ne meurent point; et aussi lorsqu'ils s'approcheront de l'autel, pour faire le service et pour offrir des sacrifices à l'Eternel."
+"Lorsqu'ils entreront dans la tente d'assignation, ils se laveront avec cette eau, afin qu'ils ne meurent point; et #aussi lorsqu'ils s'approcheront de l'autel, pour faire le service et pour offrir des sacrifices à l'Eternel."
 "Ils se laveront les mains et les pieds, afin qu'ils ne meurent point. Ce sera une loi perpétuelle pour Aaron, pour ses fils et pour leurs descendants."
 "L'Eternel parla à Moïse, et dit
-"Prends des meilleurs aromates, cinq cents sicles de myrrhe, de celle qui coule d'elle-même; la moitié, soit deux cent cinquante sicles, de cinnamome aromatique, deux cent cinquante sicles de roseau aromatique,"
+"Prends des meilleurs aromates, cinq cents sicles de myrrhe, de celle qui coule d'elle-même; la moitié, #soit deux cent cinquante sicles, de cinnamome aromatique, deux cent cinquante sicles de roseau aromatique,"
 "cinq cents sicles de casse, selon le sicle du sanctuaire, et un hin d'huile d'olive."
 "Tu feras avec cela une huile pour l'onction sainte, composition de parfums selon l'art du parfumeur; ce sera l'huile pour l'onction sainte."
 "Tu en oindras la tente d'assignation et l'arche du témoignage,"

@@ -12,12 +12,12 @@
 "Popujt do të jenë si furra të gëlqeres, ata do të digjen në zjarr si ferrishte të prera."
 "O ju që jeni larg, dëgjoni atë që kam bërë; dhe ju që jeni afër, njihni fuqinë time""."
 "Në Sion mëkatarët i ka kapur frika, një drithërimë ka pushtuar të pabesët
-"Ai që ecën me drejtësi dhe flet drejt, ai që i përçmon fitimet e shtrëmbëra, që lëviz duart për të mos pranuar dhurata, që i mbyll veshët për të mos dëgjuar të flitet për gjak dhe sytë për të mos parë të keqen,"
+"Ai që ecën me drejtësi dhe flet drejt, ai që i përçmon fitimet e shtrëmbëra, që lëviz duart për të mos pranuar #dhurata, që i mbyll veshët për të mos dëgjuar të flitet për gjak dhe sytë për të mos parë të keqen,"
 "ai do të banojë në vënde të larta, shkëmbenjtë e fortifikuar do të jenë streha e tij, buka e tij do t'i jepet, uji i tij do t'i sigurohet."
 "Sytë e tu do të sodisin bukurinë e mbretit tënd, do të shohin një vend që ndodhet shumë larg."
 "Zemra jote do të bjerë në mendime të thella mbi tmerret e kaluara
 "Ti nuk do ta shikosh më atë popull mizor, atë popull me një të folur të errët dhe të pakuptueshme, që belbëzon një gjuhë që askush nuk e kupton."
-"Sodit Sionin, qytetin e madhështive tona! Sytë e tu do të shohin Jeruzalemin, vendbanim i qetë, çadër që nuk do të lëvizet më nga vendi, hunjtë e së cilës nuk do të shkulen dhe asnjë nga litarët e saj nuk do të hiqet."
+"Sodit Sionin, qytetin e madhështive tona! Sytë e tu do të shohin Jeruzalemin, vendbanim i qetë, çadër që nuk do të lëvizet #më nga vendi, hunjtë e së cilës nuk do të shkulen dhe asnjë nga litarët e saj nuk do të hiqet."
 "Por aty Zoti në madhështinë e tij do të jetë për ne një vend lumenjsh dhe rrjedhash të gjera uji, ku nuk arrin asnjë anije me lopata dhe nuk kalon asnjë anije e fuqishme."
 "Me qenë se Zoti është gjykatësi ynë, Zoti është ligjvënësi ynë, Zoti është mbreti ynë; ai do të na shpëtojë."
 "Litarët e tu janë liruar, nuk e mbajnë mirë dyrekun dhe nuk vënë në veprim velat. Atëherë do të ndahet preja e një plaçke të pasur; edhe çalamanët do të marrin pjesë në plaçkitje."

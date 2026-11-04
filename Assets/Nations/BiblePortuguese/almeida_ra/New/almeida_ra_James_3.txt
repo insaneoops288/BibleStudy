@@ -3,7 +3,7 @@
 "Ora, se pomos freios na boca dos cavalos, para que nos obedeçam, então conseguimos dirigir todo o seu corpo."
 "Vede também os navios que, embora tão grandes e levados por impetuosos ventos, com um pequenino leme se voltam para onde quer o impulso do timoneiro."
 "Assim também a língua é um pequeno membro, e se gaba de grandes coisas. Vede quão grande bosque um tão pequeno fogo incendeia."
-"A língua também é um fogo; sim, a língua, qual mundo de iniquidade, colocada entre os nossos membros, contamina todo o corpo, e inflama o curso da natureza, sendo por sua vez inflamada pelo inferno."
+"A língua também é um fogo; sim, a língua, qual mundo de iniquidade, colocada entre os nossos membros, #contamina todo o corpo, e inflama o curso da natureza, sendo por sua vez inflamada pelo inferno."
 "Pois toda espécie tanto de feras, como de aves, tanto de répteis como de animais do mar, se doma, e tem sido domada pelo género humano,"
 "mas a língua, nenhum homem a pode domar. É um mal irrefreável; está cheia de peçonha mortal."
 "Com ela bendizemos ao Senhor e Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus."

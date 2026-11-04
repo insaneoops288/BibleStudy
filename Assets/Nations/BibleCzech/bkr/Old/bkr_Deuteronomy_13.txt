@@ -2,7 +2,7 @@
 "Byť se pak i stalo to znamení aneb zázrak, a mluvil by tobě, řka
 "Neuposlechneš slov proroka toho, ani snáře, nebo zkušuje vás Hospodin Bůh váš, aby známé bylo, milujete-li Hospodina Boha svého z celého srdce svého a z celé duše své."
 "Hospodina Boha svého následujte, a jeho se bojte, přikázaní jeho ostříhejte, hlasu jeho poslouchejte, jemu služte a jeho se přídržte."
-"Prorok pak ten aneb snář zamordován bude, nebo mluvil to, čímž by odvrátil vás od Hospodina Boha vašeho, (kterýž vyvedl vás z země Egyptské, a vykoupil tě z domu služby,) aby tě srazil s cesty, kterouž přikázal tobě Hospodin Bůh tvůj, abys chodil po ní; a tak odejmeš zlé z prostředku svého."
+"Prorok pak ten aneb snář zamordován bude, nebo mluvil to, čímž by odvrátil vás od Hospodina Boha vašeho, (kterýž vyvedl vás z země Egyptské, a vykoupil tě #z domu služby,) aby tě srazil s cesty, kterouž přikázal tobě Hospodin Bůh tvůj, abys chodil po ní; a tak odejmeš zlé z prostředku svého."
 "Jestliže by tě tajně nabádal bratr tvůj, syn matky tvé, aneb syn tvůj, aneb dcera tvá, aneb manželka, kteráž jest v lůně tvém, aneb přítel tvůj, kterýžť by milý byl jako duše tvá, řka
 "Z bohů pohanských, kteříž vůkol vás jsou, buď blízko aneb daleko od tebe, od jednoho konce země až do druhého konce jejího,"
 "Nepovoluj jemu, aniž ho poslouchej;neodpustíť mu oko tvé, aniž se slituješ, aniž zatajíš ho,"
@@ -14,5 +14,5 @@
 "Tedy vyhledej a vyzvěz a dobře se na to vyptej, a jestliže jest pravda a jistá věc, že ohavnost se stala u prostřed tebe,"
 "Zbiješ obyvatele města toho mečem, a jako věc proklatou zkazíš je i všecko, což by v něm bylo, hovada také jeho mečem pobiješ."
 "A všecky kořisti jeho shromáždíš u prostřed ulice jeho, a spálíš ohněm to město i všecky kořisti jeho docela Hospodinu Bohu svému, aby byla hromada rumu věčná; a nebude více staveno."
-"A nevezmeš ničehož z věcí proklatých, aby Hospodin odvrátil se od hněvu prchlivosti své, a učinil tobě milosrdenství svá, a smiloval se nad tebou, i rozmnožil tě, jakož s přísahou zaslíbil otcům tvým."
+"A nevezmeš ničehož z věcí proklatých, aby Hospodin odvrátil se od hněvu prchlivosti své, a učinil tobě #milosrdenství svá, a smiloval se nad tebou, i rozmnožil tě, jakož s přísahou zaslíbil otcům tvým."
 "Protož poslouchati budeš hlasu Hospodina Boha svého, ostříhaje všech přikázaní jeho, kteráž já dnes přikazuji tobě, abys činil, což pravého jest, před očima Hospodina Boha svého."

@@ -6,7 +6,7 @@
 "Az Áser nemzetségébõl tizenkétezer elpecsételt; a Nafthali nemzetségébõl tizenkétezer elpecsételt; a Manassé nemzetségébõl tizenkétezer elpecsételt;"
 "A Simeon nemzetségébõl tizenkétezer elpecsételt; a Lévi nemzetségébõl tizenkétezer elpecsételt; az Izsakhár nemzetségébõl tizenkétezer elpecsételt;"
 "A Zebulon nemzetségébõl tizenkétezer elpecsételt; a József nemzetségébõl tizenkétezer elpecsételt; a Benjámin nemzetségébõl tizenkétezer elpecsételt."
-"Azután látám, és ímé egy nagy sokaság, a melyet senki meg nem számlálhatott, minden nemzetbõl és ágazatból, és népbõl és nyelvbõl; és a királyiszék elõtt és a Bárány elõtt állnak vala, fehér ruhákba öltözve, és az õ kezeikben pálmaágak;"
+"Azután látám, és ímé egy nagy sokaság, a melyet senki meg nem számlálhatott, minden nemzetbõl és ágazatból, és népbõl és #nyelvbõl; és a királyiszék elõtt és a Bárány elõtt állnak vala, fehér ruhákba öltözve, és az õ kezeikben pálmaágak;"
 "És kiáltanak nagy szóval, mondván
 "Az angyalok pedig mindnyájan a királyiszék, a Vének és a négy lelkes állat körül állnak vala, és a királyiszék elõtt arczczal leborulának, és imádák az Istent,"
 "Ezt mondván

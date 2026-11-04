@@ -22,7 +22,7 @@
 "Y el SEÑOR dijo a Moisés
 "Y Moisés extendió su vara hacia el cielo, y el SEÑOR dio voces y granizó, y <I>el</I>  fuego discurría por la tierra; y llovió el SEÑOR granizo sobre la tierra de Egipto."
 "Y hubo granizo, y fuego mezclado entre el granizo, tan grande, cual nunca hubo en toda la tierra de Egipto desde que fue habitada."
-"Y aquel granizo hirió en toda la tierra de Egipto todo lo que <I>estaba</I>  en el campo, así hombres como bestias; asimismo hirió el granizo toda la hierba del campo, y quebró todos los árboles del país."
+"Y aquel granizo hirió en toda la tierra de Egipto todo lo que <I>estaba</I>  en el campo, así hombres #como bestias; asimismo hirió el granizo toda la hierba del campo, y quebró todos los árboles del país."
 "Solamente en la tierra de Gosén, donde los hijos de Israel estaban, no hubo granizo."
 "Entonces <I>el</I>  Faraón envió a llamar a Moisés y a Aarón, y les dijo
 "Orad al SEÑOR; y cesen los truenos de Dios y el granizo; y <I>yo</I>  os dejaré ir, y no quedaréis más aquí."

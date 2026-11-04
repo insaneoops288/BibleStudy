@@ -24,6 +24,6 @@
 "Mitä te siis alusta kuulitte, se teissä pysykään
 "Ja tämä on se lupaus, jonka hän meille luvannut on, sen ijankaikkisen elämän."
 "Nämät minä teille niistä kirjoitin, jotka teitä viettelevät."
-"Ja se voide, jonka te häneltä saaneet olette, pysyy teissä, ja ette tarvitse, että joku teitä opettaa; vaan niinkuin se voide teitä kaikista opettaa, niin on se tosi ja ei valhe, ja niinkuin se teitä opetti, niin myös te hänessä pysykäät,"
+"Ja se voide, jonka te häneltä saaneet olette, pysyy teissä, ja ette tarvitse, että joku teitä opettaa; vaan niinkuin se voide #teitä kaikista opettaa, niin on se tosi ja ei valhe, ja niinkuin se teitä opetti, niin myös te hänessä pysykäät,"
 "Ja nyt, lapsukaiseni, pysykäät hänessä
 "Jos te tiedätte, että hän vanhurskas on, niin tietäkäät myös, että jokainen, joka vanhurskautta tekee, se on syntynyt hänestä."

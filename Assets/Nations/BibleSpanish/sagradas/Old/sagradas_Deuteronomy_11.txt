@@ -3,7 +3,7 @@
 "y sus señales, y sus obras que hizo en medio de Egipto a Faraón, rey de Egipto, y a toda su tierra;"
 "y lo que hizo al ejército de Egipto, a sus caballos, y a sus carros; <I>cómo</I>  hizo ondear las aguas del mar Bermejo sobre ellos, cuando venían tras vosotros, y el SEÑOR los destruyó hasta hoy;"
 "y lo que ha hecho con vosotros en el desierto, hasta que habéis llegado a este lugar;"
-"y lo que hizo con Datán y Abiram, hijos de Eliab hijo de Rubén; <I>cómo</I>  abrió la tierra su boca, y <I>los</I>  tragó a ellos y a sus casas, y sus tiendas, y toda la hacienda que tenían en pie en medio de todo Israel;"
+"y lo que hizo con Datán y Abiram, hijos de Eliab hijo de Rubén; <I>cómo</I>  abrió la tierra su boca, y <I>los</I>  #tragó a ellos y a sus casas, y sus tiendas, y toda la hacienda que tenían en pie en medio de todo Israel;"
 "mas vuestros ojos han visto todos los grandes hechos que el SEÑOR ha ejecutado."
 "Guardad, pues, todos los mandamientos que yo os mando hoy, para que seáis esforzados, y entréis y heredéis la tierra, a la cual pasáis para heredarla;"
 "y para que os sean prolongados los días sobre la tierra, que juró el SEÑOR a vuestros padres que había de darla a ellos y a su simiente, tierra que fluye leche y miel."

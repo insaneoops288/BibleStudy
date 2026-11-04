@@ -1,6 +1,6 @@
 "Über fünf Tage zog hinab der Hohepriester Ananias mit denÄltesten und mit dem Redner Tertullus; die erschienen vor dem Landpfleger wider Paulus."
 "Da er aber berufen ward, fing an Tertullus zu verklagen und sprach
-"Daß wir im großen Frieden leben unter dir und viel Wohltaten diesem Volk widerfahren durch dein Fürsichtigkeit, allerteuerster Felix, das nehmen wir an allewege und allenthalben mit aller Dankbarkeit."
+"Daß wir im großen Frieden leben unter dir und viel Wohltaten diesem Volk widerfahren durch #dein Fürsichtigkeit, allerteuerster Felix, das nehmen wir an allewege und allenthalben mit aller Dankbarkeit."
 "Auf daß ich aber dich nicht zu lange aufhalte, bitte ich dich, du wolltest uns kürzlich hören nach deiner Gelindigkeit."
 "Wir haben diesen Mann gefunden schädlich, und der Aufruhr erregt allen Juden auf dem ganzen Erdboden, und einen vornehmsten der Sekte der Nazarener,"
 "der auch versucht hat, den Tempel zu entweihen; welchen wir auch griffen und wollten ihn gerichtet haben nach unserem Gesetz."

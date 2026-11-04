@@ -5,7 +5,7 @@
 "Më pas e zuri gjumi përsëri dhe pa një ëndërr të dytë; dhe, ja, shtatë kallinj të trashë dhe të bukur që dilnin nga një kërcell i vetëm."
 "Pastaj, ja, shtatë kallinj të hollë dhe të tharë nga era lindore, që mbinin pas tyre."
 "Dhe kallinjtë e hollë gëlltitën shtatë kallinjtë e trashë dhe të plotë. Atëherë Faraoni u zgjua dhe, ja, ishte një ëndërr."
-"Në mëngjes shpirti i tij qe i trazuar, dhe dërgoi e thirri tërë magjistarët dhe të diturit e Egjiptit; pastaj Faraoni u tregoi ëndrrat e tij, por asnjeri prej tyre nuk qe në gjendje t'ia interpretonte Faraonit."
+"Në mëngjes shpirti i tij qe i trazuar, dhe dërgoi e thirri tërë magjistarët dhe të diturit e Egjiptit; #pastaj Faraoni u tregoi ëndrrat e tij, por asnjeri prej tyre nuk qe në gjendje t'ia interpretonte Faraonit."
 "Atëherë kryekupëmbajtësi i foli Faraonit duke i thënë
 "Faraoni ishte zemëruar me shërbëtorët e tij dhe më kishte futur në burg në shtëpinë e kreut të rojeve, mua dhe kryebukëpjekësin."
 "Po atë natë, unë dhe ai pamë një ëndërr; secili pa një ëndërr që kishte kuptimin e tij."

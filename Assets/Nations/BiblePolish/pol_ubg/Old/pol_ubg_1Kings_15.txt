@@ -15,7 +15,7 @@
 "I wniósł do domu PANA rzeczy poświęcone przez swego ojca i rzeczy, które sam poświęcił
 "I między Asą a Baszą, królem Izraela, trwała wojna przez wszystkie ich dni."
 "Basza, król Izraela, nadciągnął przeciwko Judzie i rozbudował Rama, aby nikomu nie pozwolić wychodzić od Asy, króla Judy, i przychodzić do niego."
-"Asa wziął więc całe srebro i złoto, które pozostało w skarbcach domu PANA i w skarbcach domu królewskiego, i dał je w ręce swoich sług. Następnie król Asa posłał ich do Ben-Hadada, syna Tabrimona, syna Chezjona, króla Syrii, który mieszkał w Damaszku, mówiąc
+"Asa wziął więc całe srebro i złoto, które pozostało w skarbcach domu PANA i w skarbcach domu królewskiego, i dał je w #ręce swoich sług. Następnie król Asa posłał ich do Ben-Hadada, syna Tabrimona, syna Chezjona, króla Syrii, który mieszkał w Damaszku, mówiąc
 "Jest przymierze między mną a tobą, między moim ojcem a twoim ojcem. Oto posyłam ci dar
 "I Ben-Hadad posłuchał króla Asy, i posłał dowódców swoich wojsk przeciwko miastom Izraela, napadł na Ijon, Dan i Abel-Bet-Maaka oraz całe Kinerot wraz z całą ziemią Neftalego."
 "Gdy Basza o tym usłyszał, przestał rozbudowywać Rama i mieszkał w Tirsie."
@@ -26,7 +26,7 @@
 "I czynił to, co złe w oczach PANA, idąc drogami swego ojca i w jego grzechu, którym doprowadził Izraela do grzechu."
 "I Basza, syn Achiasza, z domu Issachara, uknuł spisek przeciw niemu. Basza zabił go w Gibbeton, który należał do Filistynów. Nadab bowiem i cały Izrael oblegali Gibbeton."
 "Basza zabił go w trzecim roku Asy, króla Judy, i sam królował w jego miejsce."
-"Kiedy zaczął królować, wymordował cały dom Jeroboama i nie pozostawił żywej duszy z rodu Jeroboama, dopóki nie wytracił go zgodnie ze słowem PANA, które wypowiedział przez swego sługę Achiasza Szilonitę;"
+"Kiedy zaczął królować, wymordował cały dom Jeroboama i nie pozostawił żywej duszy z rodu Jeroboama, dopóki #nie wytracił go zgodnie ze słowem PANA, które wypowiedział przez swego sługę Achiasza Szilonitę;"
 "Z powodu grzechów Jeroboama, które popełnił i do których skłonił Izraela; z powodu rozdrażnienia, którym pobudził do gniewu PANA, Boga Izraela."
 "A pozostałe dzieje Nadaba i wszystko, co czynił, czyż nie są zapisane w kronikach królów Izraela?"
 "I między Asą a Baszą, królem Izraela, trwała wojna po wszystkie ich dni."

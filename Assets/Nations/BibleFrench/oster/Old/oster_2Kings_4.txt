@@ -36,7 +36,7 @@
 "Alors Élisée appela Guéhazi, et lui dit
 "Elle vint donc, et se jeta à ses pieds, et se prosterna en terre; puis elle prit son fils, et sortit."
 "Et Élisée revint à Guilgal. Or il y avait une famine au pays; et les fils des prophètes étaient assis devant lui. Et il dit à son serviteur
-"Mais quelqu'un sortit aux champs pour cueillir des herbes; et il trouva de la vigne sauvage, et cueillit des coloquintes sauvages, plein sa robe; puis étant venu, il les mit par pièces dans le pot où était le potage; car on ne savait ce que c'était."
+"Mais quelqu'un sortit aux champs pour cueillir des herbes; et il trouva de la vigne sauvage, et cueillit des coloquintes sauvages, plein sa robe; #puis étant venu, il les mit par pièces dans le pot où était le potage; car on ne savait ce que c'était."
 "Et on en versa à ces gens pour manger; mais sitôt qu'ils eurent mangé de ce potage, ils s'écrièrent
 "Alors il dit
 "Alors vint un homme de Baal-Shalisha, qui apportait à l'homme de Dieu du pain des prémices, vingt pains d'orge, et du blé de primeur dans sa besace. Et Élisée dit

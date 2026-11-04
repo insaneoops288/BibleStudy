@@ -20,7 +20,7 @@
 "Da fing er an, die Städte zu schelten, in welchen am meisten seiner Taten geschehen waren, und hatten sich doch nicht gebessert
 "Wehe dir Chorazin! Weh dir, Bethsaida! Wären solche Taten zu Tyrus und Sidon geschehen, wie bei euch geschehen sind, sie hätten vorzeiten im Sack und in der Asche Buße getan."
 "Doch ich sage euch
-"Und du, Kapernaum, die du bist erhoben bis an den Himmel, du wirst bis in die Hölle hinuntergestoßen werden. Denn so zu Sodom die Taten geschehen wären, die bei euch geschehen sind, sie stände noch heutigestages."
+"Und du, Kapernaum, die du bist erhoben bis an den Himmel, du wirst bis in die Hölle hinuntergestoßen werden. #Denn so zu Sodom die Taten geschehen wären, die bei euch geschehen sind, sie stände noch heutigestages."
 "Doch ich sage euch, es wird dem Sodomer Lande erträglicher gehen am Jüngsten Gericht als dir."
 "Zu der Zeit antwortete Jesus und sprach
 "Ja, Vater; denn es ist also wohlgefällig gewesen vor dir."

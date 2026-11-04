@@ -19,7 +19,7 @@
 "To jeśli wstanie i będzie mógł chodzić po ulicy o lasce, ten, który uderzył, będzie niewinny; wypłaci mu tylko odszkodowanie i będzie łożyć na jego leczenie."
 "Jeśli zaś ktoś uderzy kijem swego niewolnika lub swoją niewolnicę tak, że umrą pod jego ręką, musi ponieść karę;"
 "Jeśli jednak niewolnik zostaje przy życiu dzień lub dwa, nie będzie karany; bo niewolnik to jego pieniądze."
-"Jeśli mężczyźni się pokłócą i uderzą kobietę brzemienną, tak że wyjdzie z niej płód, jednak bez żadnej szkody, to musi ponieść karę, jaką nałoży na niego mąż tej kobiety, a da według uznania sędziów."
+"Jeśli mężczyźni się pokłócą i uderzą kobietę brzemienną, tak że wyjdzie z niej płód, jednak bez żadnej szkody, #to musi ponieść karę, jaką nałoży na niego mąż tej kobiety, a da według uznania sędziów."
 "Jeśli jednak dojdzie do szkody, wtedy dasz życie za życie;"
 "Oko za oko, ząb za ząb, rękę za rękę, nogę za nogę;"
 "Oparzenie za oparzenie, ranę za ranę, siniec za siniec."

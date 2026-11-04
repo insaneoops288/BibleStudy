@@ -8,11 +8,11 @@
 "E Zaccheo, presentatosi al Signore, gli disse
 "E Gesù gli disse
 "Perciocchè il Figliuol dell’uomo è venuto per cercare, e per salvare ciò ch’era perito."
-"OR ascoltando essi queste cose, Gesù soggiunse, e disse una parabola; perciocchè egli era vicino a Gerusalemme, ed essi stimavano che il regno di Dio apparirebbe subito in quello stante. Disse adunque
+"OR ascoltando essi queste cose, Gesù soggiunse, e disse una parabola; perciocchè egli era vicino a Gerusalemme, #ed essi stimavano che il regno di Dio apparirebbe subito in quello stante. Disse adunque
 "Un uomo nobile andò in paese lontano, per prender la possession d’un regno, e poi tornare."
 "E chiamati a sè dieci suoi servitori, diede loro dieci mine, e disse loro
 "Or i suoi cittadini l’odiavano, e gli mandarono dietro un’ambasciata, dicendo
-"Ed avvenne che quando egli fu ritornato, dopo aver presa la possessione del regno, comandò che gli fosser chiamati que’ servitori, a’ quali avea dati i denari, acciocchè sapesse quanto ciascuno avea guadagnato trafficando."
+"Ed avvenne che quando egli fu ritornato, dopo aver presa la possessione del regno, comandò che gli fosser #chiamati que’ servitori, a’ quali avea dati i denari, acciocchè sapesse quanto ciascuno avea guadagnato trafficando."
 "E il primo si presentò, dicendo
 "Ed egli gli disse
 "Poi venne il secondo, dicendo
@@ -34,7 +34,7 @@
 "Ed essi dissero
 "E lo menarono a Gesù; e gettaron le lor vesti sopra il puledro, e vi fecero montar Gesù sopra."
 "E mentre egli camminava, stendevan le lor veste nella via."
-"E come egli già era presso della scesa del monte degli Ulivi, tutta la moltitudine de’ discepoli con allegrezza prese a lodare Iddio con gran voce, per tutte le potenti operazioni che avean vedute;"
+"E come egli già era presso della scesa del monte degli Ulivi, tutta la moltitudine de’ discepoli con #allegrezza prese a lodare Iddio con gran voce, per tutte le potenti operazioni che avean vedute;"
 "dicendo
 "Ed alcuni de’ Farisei d’infra la moltitudine gli dissero
 "Ed egli, rispondendo, disse loro

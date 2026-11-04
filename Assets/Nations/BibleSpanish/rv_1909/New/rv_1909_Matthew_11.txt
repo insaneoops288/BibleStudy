@@ -20,7 +20,7 @@
 "Entonces comenzó á reconvenir á las ciudades en las cuales habían sido hechas muy muchas de sus maravillas, porque no se habían arrepentido, diciendo
 "Ay de ti, Corazín! ­Ay de ti, Bethsaida! porque si en Tiro y en Sidón fueran hechas las maravillas que han sido hechas en vosotras, en otro tiempo se hubieran arrepentido en saco y en ceniza."
 "Por tanto os digo, que á Tiro y á Sidón será más tolerable el castigo en el día del juicio, que á vosotras."
-"Y tú, Capernaum, que eres levantada hasta el cielo, hasta los infiernos serás abajada; porque si en los de Sodoma fueran hechas las maravillas que han sido hechas en ti, hubieran quedado hasta el día de hoy."
+"Y tú, Capernaum, que eres levantada hasta el cielo, hasta los infiernos serás abajada; porque si en los de #Sodoma fueran hechas las maravillas que han sido hechas en ti, hubieran quedado hasta el día de hoy."
 "Por tanto os digo, que á la tierra de los de Sodoma será más tolerable el castigo en el día del juicio, que á ti."
 "En aquel tiempo, respondiendo Jesús, dijo
 "Así, Padre, pues que así agradó en tus ojos."

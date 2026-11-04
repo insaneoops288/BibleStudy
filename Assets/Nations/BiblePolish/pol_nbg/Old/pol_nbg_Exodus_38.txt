@@ -27,4 +27,4 @@
 "A te sto talentów srebra służyło do odlewania podsłupi świętego miejsca oraz podsłupi zasłony; sto podsłupi ze stu talentów, po talencie na podsłupie."
 "A z tysiąca siedmiuset siedemdziesięciu pięciu szekli zrobił haczyki do słupów, powlókł ich wierzchy oraz połączył je klamrami."
 "Zaś złożonej w darze miedzi było siedemdziesiąt talentów i dwa tysiące czterysta szekli."
-"Więc zrobił z niej podsłupia u wejścia do Przybytku Zboru, ołtarz miedziany i do niego miedzianą kratę oraz wszystkie przybory ołtarza. Także podsłupia wokół dziedzińca, podsłupia u wrót dziedzińca, wszystkie kołki Przybytku i wszystkie kołki dziedzińca, które były wokoło."
+"Więc zrobił z niej podsłupia u wejścia do Przybytku Zboru, ołtarz miedziany i do niego miedzianą kratę oraz wszystkie przybory #ołtarza. Także podsłupia wokół dziedzińca, podsłupia u wrót dziedzińca, wszystkie kołki Przybytku i wszystkie kołki dziedzińca, które były wokoło."

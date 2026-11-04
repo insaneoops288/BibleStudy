@@ -17,7 +17,7 @@
 "Atëherë Jezusi, duke i shikuar në fytyrë, tha
 "Kushdo që do të bjerë mbi këtë gur do të bëhet copë-copë, dhe ai mbi të cilin do të bjerë guri, do të dërrmohet''."
 "Në këtë moment, krerët e priftërinjve dhe skribët kërkuan të vënë dorë në të, sepse e morën vesh se ai e kishte treguar atë shëmbëlltyrë për ata, por kishin frikë nga populli."
-"Ata e përgjonin me kujdes dhe i dërguan disa spiunë të cilët, duke u paraqitur si njerëz të drejtë, ta zinin në gabim në ndonjë ligjëratë dhe pastaj t'ia dorëzonin pushtetit dhe autoritetit të guvernatorit."
+"Ata e përgjonin me kujdes dhe i dërguan disa spiunë të cilët, duke u paraqitur si njerëz të #drejtë, ta zinin në gabim në ndonjë ligjëratë dhe pastaj t'ia dorëzonin pushtetit dhe autoritetit të guvernatorit."
 "Këta e pyetën duke thënë
 "A është e lejueshme për ne t'i paguajmë taksë Cezarit apo jo?''."
 "Por ai, duke e kuptuar ligësinë e tyre, u tha atyre

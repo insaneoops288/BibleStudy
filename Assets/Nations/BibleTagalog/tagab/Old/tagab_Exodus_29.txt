@@ -17,9 +17,9 @@
 "At iyong kakatayin ang tupa at huhugasan mo ang bituka, at ang mga hita, at ipapatong mo sa mga pinagputolputol at sa ulo."
 "At iyong susunugin ang buong tupa sa ibabaw ng dambana
 "At kukunin mo ang isang tupa; at ipapatong ni Aaron at ng kaniyang mga anak ang kanilang kamay sa ulo ng tupa."
-"Saka mo papatayin ang tupa, at kukunin mo ang dugo, at ilalagay mo sa pingol ng kanang tainga ni Aaron, at sa pingol ng kanang tainga ng kaniyang mga anak, at sa hinlalaki ng kanilang kanang kamay, at sa hinlalaki ng kanilang kanang paa, at iwiwisik mo ang dugong labis sa ibabaw ng dambana sa palibot."
+"Saka mo papatayin ang tupa, at kukunin mo ang dugo, at ilalagay mo sa pingol ng kanang tainga ni Aaron, at sa pingol ng kanang tainga ng kaniyang mga #anak, at sa hinlalaki ng kanilang kanang kamay, at sa hinlalaki ng kanilang kanang paa, at iwiwisik mo ang dugong labis sa ibabaw ng dambana sa palibot."
 "At kukuha ka ng dugo na nasa ibabaw ng dambana, at ng langis na pangpahid, at iwiwisik mo kay Aaron, at sa kaniyang mga suot, at sa kaniyang mga anak na kasama niya
-"Kukunin mo rin naman sa lalaking tupa ang taba, at ang matabang buntot, at ang tabang nakababalot sa mga bituka, at ang mga lamak ng atay, at ang dalawang bato, at ang taba na nasa ibabaw ng mga yaon, at ang kanang hita (sapagka't isang lalaking tupa na itinalaga),"
+"Kukunin mo rin naman sa lalaking tupa ang taba, at ang matabang buntot, at ang tabang nakababalot sa mga bituka, at ang mga lamak ng #atay, at ang dalawang bato, at ang taba na nasa ibabaw ng mga yaon, at ang kanang hita (sapagka't isang lalaking tupa na itinalaga),"
 "At isang malaking tinapay, at isang munting tinapay na nilangisan, at isang manipis na tinapay sa bakol ng tinapay na walang lebadura na nasa harap ng Panginoon
 "At iyong ilalagay ang kabuoan sa mga kamay ni Aaron, at sa mga kamay ng kaniyang mga anak; at iyong mga luluglugin na pinakahandog na niluglog sa harap ng Panginoon."
 "At iyong kukunin sa kanilang mga kamay, at iyong susunugin sa dambana sa ibabaw ng handog na susunugin, na pinaka masarap na amoy sa harap ng Panginoon
@@ -37,9 +37,9 @@
 "Pitong araw na iyong tutubusin sa sala ang dambana, at iyong pakakabanalin; at ang dambana ay magiging kabanalbanalan; anomang masagi sa dambana ay magiging banal."
 "Ito nga ang iyong ihahandog sa ibabaw ng dambana
 "Ang isang kordero ay iyong ihahandog sa umaga; at ang isang kordero ay iyong ihahandog sa hapon
-"At kasama ng isang kordero na iyong ihahandog ang ikasangpung bahagi ng isang efa ng mainam na harina na may halong ikaapat na bahagi ng isang hin ng langis na hinalo; at ang ikaapat na bahagi ng isang hin na alak, ay pinakahandog na inumin."
-"At ang isang kordero ay iyong ihahandog sa hapon, at iyong gagawin ayon sa handog na harina sa umaga, at ayon sa inuming handog niyaon, na pinaka masarap na amoy, na handog nga sa Panginoon na pinaraan sa apoy."
-"Magiging isang palaging handog na susunugin sa buong panahon ng inyong lahi sa pintuan ng tabernakulo ng kapisanan, sa harap ng Panginoon; na aking pakikipagkitaan sa inyo, upang makipagusap ako roon sa iyo."
+"At kasama ng isang kordero na iyong ihahandog ang ikasangpung bahagi ng isang efa ng mainam na harina na may halong ikaapat na #bahagi ng isang hin ng langis na hinalo; at ang ikaapat na bahagi ng isang hin na alak, ay pinakahandog na inumin."
+"At ang isang kordero ay iyong ihahandog sa hapon, at iyong gagawin ayon sa handog na harina sa umaga, at #ayon sa inuming handog niyaon, na pinaka masarap na amoy, na handog nga sa Panginoon na pinaraan sa apoy."
+"Magiging isang palaging handog na susunugin sa buong panahon ng inyong lahi sa pintuan ng tabernakulo ng #kapisanan, sa harap ng Panginoon; na aking pakikipagkitaan sa inyo, upang makipagusap ako roon sa iyo."
 "At doo'y makikipagtagpo ako sa mga anak ni Israel
 "At aking pakakabanalin ang tabernakulo ng kapisanan, at ang dambana; si Aaron man at ang kaniyang mga anak ay aking papagbabanalin upang mangasiwa sa akin sa katungkulang saserdote."
 "At ako'y tatahan sa gitna ng mga anak ni Israel, at ako'y magiging kanilang Dios."

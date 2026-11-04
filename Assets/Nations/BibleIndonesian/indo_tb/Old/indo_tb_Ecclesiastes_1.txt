@@ -10,7 +10,7 @@
 "Adakah sesuatu yang dapat dikatakan
 "Kenang-kenangan dari masa lampau tidak ada, dan dari masa depan yang masih akan datangpun tidak akan ada kenang-kenangan pada mereka yang hidup sesudahnya."
 "Aku, Pengkhotbah, adalah raja atas Israel di Yerusalem."
-"Aku membulatkan hatiku untuk memeriksa dan menyelidiki dengan hikmat segala yang terjadi di bawah langit. Itu pekerjaan yang menyusahkan yang diberikan Allah kepada anak-anak manusia untuk melelahkan diri."
+"Aku membulatkan hatiku untuk memeriksa dan menyelidiki dengan hikmat segala yang terjadi di bawah langit. #Itu pekerjaan yang menyusahkan yang diberikan Allah kepada anak-anak manusia untuk melelahkan diri."
 "Aku telah melihat segala perbuatan yang dilakukan orang di bawah matahari, tetapi lihatlah, segala sesuatu adalah kesia-siaan dan usaha menjaring angin."
 "Yang bongkok tak dapat diluruskan, dan yang tidak ada tak dapat dihitung."
 "Aku berkata dalam hati

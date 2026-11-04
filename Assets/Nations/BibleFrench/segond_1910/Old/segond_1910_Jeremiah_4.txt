@@ -1,7 +1,7 @@
 "Israël, si tu reviens, si tu reviens à moi, dit l'Eternel, Si tu ôtes tes abominations de devant moi, Tu ne seras plus errant."
 "Si tu jures
 "Car ainsi parle l'Eternel aux hommes de Juda et de Jérusalem
-"Circoncisez-vous pour l'Eternel, circoncisez vos coeurs, Hommes de Juda et habitants de Jérusalem, De peur que ma colère n'éclate comme un feu, Et ne s'enflamme, sans qu'on puisse l'éteindre, A cause de la méchanceté de vos actions."
+"Circoncisez-vous pour l'Eternel, circoncisez vos coeurs, Hommes de Juda et habitants de Jérusalem, De peur que ma colère n'éclate #comme un feu, Et ne s'enflamme, sans qu'on puisse l'éteindre, A cause de la méchanceté de vos actions."
 "Annoncez en Juda, publiez à Jérusalem, Et dites
 "Elevez une bannière vers Sion, Fuyez, ne vous arrêtez pas! Car je fais venir du septentrion le malheur Et un grand désastre."
 "Le lion s'élance de son taillis, Le destructeur des nations est en marche, il a quitté son lieu, Pour ravager ton pays; Tes villes seront ruinées, il n'y aura plus d'habitants."
@@ -27,5 +27,5 @@
 "Car ainsi parle l'Eternel
 "A cause de cela, le pays est en deuil, Et les cieux en haut sont obscurcis; Car je l'ai dit, je l'ai résolu, Et je ne m'en repens pas, je ne me rétracterai pas."
 "Au bruit des cavaliers et des archers, toutes les villes sont en fuite; On entre dans les bois, on monte sur les rochers; Toutes les villes sont abandonnées, il n'y a plus d'habitants."
-"Et toi, dévastée, que vas-tu faire? Tu te revêtiras de cramoisi, tu te pareras d'ornements d'or, Tu mettras du fard à tes yeux; Mais c'est en vain que tu t'embelliras; Tes amants te méprisent, Ils en veulent à ta vie."
+"Et toi, dévastée, que vas-tu faire? Tu te revêtiras de cramoisi, tu te pareras d'ornements d'or, Tu mettras du fard à #tes yeux; Mais c'est en vain que tu t'embelliras; Tes amants te méprisent, Ils en veulent à ta vie."
 "Car j'entends des cris comme ceux d'une femme en travail, Des cris d'angoisse comme dans un premier enfantement. C'est la voix de la fille de Sion; elle soupire, elle étend les mains

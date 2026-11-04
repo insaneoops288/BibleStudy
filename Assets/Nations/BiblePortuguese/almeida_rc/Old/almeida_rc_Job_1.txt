@@ -1,8 +1,8 @@
 "Havia um homem na terra de Uz, cujo nome era Job; e este era homem sincero, recto e temente a Deus; e desviava-se do mal."
 "E nasceram-lhe sete filhos e três filhas."
-"E era o seu gado sete mil ovelhas, e três mil camelos, e quinhentas juntas de bois, e quinhentas jumentas; era também muitíssima a gente ao seu serviço, de maneira que este homem era maior do que todos os do Oriente."
+"E era o seu gado sete mil ovelhas, e três mil camelos, e quinhentas juntas de bois, e quinhentas jumentas; era #também muitíssima a gente ao seu serviço, de maneira que este homem era maior do que todos os do Oriente."
 "E iam seus filhos e faziam banquetes em casa de cada um no seu dia; e enviavam e convidavam as suas três irmãs a comerem e beberem com eles."
-"Sucedia, pois, que, tendo decorrido o turno de dias de seus banquetes, enviava Job, e os santificava, e se levantava de madrugada, e oferecia holocaustos segundo o número de todos eles; porque dizia Job
+"Sucedia, pois, que, tendo decorrido o turno de dias de seus banquetes, enviava Job, e os santificava, e #se levantava de madrugada, e oferecia holocaustos segundo o número de todos eles; porque dizia Job
 "E vindo um dia em que os filhos de Deus vieram apresentar-se perante o SENHOR, veio também Satanás entre eles."
 "Então, o SENHOR disse a Satanás
 "E disse o SENHOR a Satanás

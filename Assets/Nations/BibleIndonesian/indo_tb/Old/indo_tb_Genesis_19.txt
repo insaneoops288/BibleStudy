@@ -5,7 +5,7 @@
 "Mereka berseru kepada Lot
 "Lalu keluarlah Lot menemui mereka, ke depan pintu, tetapi pintu ditutupnya di belakangnya,"
 "dan ia berkata
-"Kamu tahu, aku mempunyai dua orang anak perempuan yang belum pernah dijamah laki-laki, baiklah mereka kubawa ke luar kepadamu; perbuatlah kepada mereka seperti yang kamu pandang baik; hanya jangan kamu apa-apakan orang-orang ini, sebab mereka memang datang untuk berlindung di dalam rumahku."""
+"Kamu tahu, aku mempunyai dua orang anak perempuan yang belum pernah dijamah laki-laki, baiklah mereka kubawa ke luar kepadamu; perbuatlah kepada mereka #seperti yang kamu pandang baik; hanya jangan kamu apa-apakan orang-orang ini, sebab mereka memang datang untuk berlindung di dalam rumahku."""
 "Tetapi mereka berkata
 "Tetapi kedua orang itu mengulurkan tangannya, menarik Lot masuk ke dalam rumah, lalu menutup pintu."
 "Dan mereka membutakan mata orang-orang yang di depan pintu rumah itu, dari yang kecil sampai yang besar, sehingga percumalah orang-orang itu mencari-cari pintu."
@@ -13,10 +13,10 @@
 "sebab kami akan memusnahkan tempat ini, karena banyak keluh kesah orang tentang kota ini di hadapan TUHAN; sebab itulah TUHAN mengutus kami untuk memusnahkannya."""
 "Keluarlah Lot, lalu berbicara dengan kedua bakal menantunya, yang akan kawin dengan kedua anaknya perempuan, katanya
 "Ketika fajar telah menyingsing, kedua malaikat itu mendesak Lot, supaya bersegera, katanya
-"Ketika ia berlambat-lambat, maka tangannya, tangan isteri dan tangan kedua anaknya dipegang oleh kedua orang itu, sebab TUHAN hendak mengasihani dia; lalu kedua orang itu menuntunnya ke luar kota dan melepaskannya di sana."
+"Ketika ia berlambat-lambat, maka tangannya, tangan isteri dan tangan kedua anaknya dipegang oleh kedua orang itu, sebab #TUHAN hendak mengasihani dia; lalu kedua orang itu menuntunnya ke luar kota dan melepaskannya di sana."
 "Sesudah kedua orang itu menuntun mereka sampai ke luar, berkatalah seorang
 "Kata Lot kepada mereka
-"Sungguhlah hambamu ini telah dikaruniai belas kasihan di hadapanmu, dan tuanku telah berbuat kemurahan besar kepadaku dengan memelihara hidupku, tetapi jika aku harus lari ke pegunungan, pastilah aku akan tersusul oleh bencana itu, sehingga matilah aku."
+"Sungguhlah hambamu ini telah dikaruniai belas kasihan di hadapanmu, dan tuanku telah berbuat kemurahan besar kepadaku dengan memelihara hidupku, #tetapi jika aku harus lari ke pegunungan, pastilah aku akan tersusul oleh bencana itu, sehingga matilah aku."
 "Sungguhlah kota yang di sana itu cukup dekat kiranya untuk lari ke sana; kota itu kecil; izinkanlah kiranya aku lari ke sana. Bukankah kota itu kecil? Jika demikian, nyawaku akan terpelihara."""
 "Sahut malaikat itu kepadanya
 "Cepatlah, larilah ke sana, sebab aku tidak dapat berbuat apa-apa, sebelum engkau sampai ke sana."" Itulah sebabnya nama kota itu disebut Zoar."
@@ -26,13 +26,13 @@
 "Tetapi isteri Lot, yang berjalan mengikutnya, menoleh ke belakang, lalu menjadi tiang garam."
 "Ketika Abraham pagi-pagi pergi ke tempat ia berdiri di hadapan TUHAN itu,"
 "dan memandang ke arah Sodom dan Gomora serta ke seluruh tanah Lembah Yordan, maka dilihatnyalah asap dari bumi membubung ke atas sebagai asap dari dapur peleburan."
-"Demikianlah pada waktu Allah memusnahkan kota-kota di Lembah Yordan dan menunggangbalikkan kota-kota kediaman Lot, maka Allah ingat kepada Abraham, lalu dikeluarkan-Nyalah Lot dari tengah-tengah tempat yang ditunggangbalikkan itu."
+"Demikianlah pada waktu Allah memusnahkan kota-kota di Lembah Yordan dan menunggangbalikkan kota-kota kediaman Lot, maka #Allah ingat kepada Abraham, lalu dikeluarkan-Nyalah Lot dari tengah-tengah tempat yang ditunggangbalikkan itu."
 "Pergilah Lot dari Zoar dan ia menetap bersama-sama dengan kedua anaknya perempuan di pegunungan, sebab ia tidak berani tinggal di Zoar, maka diamlah ia dalam suatu gua beserta kedua anaknya."
 "Kata kakaknya kepada adiknya
 "Marilah kita beri ayah kita minum anggur, lalu kita tidur dengan dia, supaya kita menyambung keturunan dari ayah kita."""
 "Pada malam itu mereka memberi ayah mereka minum anggur, lalu masuklah yang lebih tua untuk tidur dengan ayahnya; dan ayahnya itu tidak mengetahui ketika anaknya itu tidur dan ketika ia bangun."
 "Keesokan harinya berkatalah kakaknya kepada adiknya
-"Demikianlah juga pada malam itu mereka memberi ayah mereka minum anggur, lalu bangunlah yang lebih muda untuk tidur dengan ayahnya; dan ayahnya itu tidak mengetahui ketika anaknya itu tidur dan ketika ia bangun."
+"Demikianlah juga pada malam itu mereka memberi ayah mereka minum anggur, lalu bangunlah yang lebih muda untuk #tidur dengan ayahnya; dan ayahnya itu tidak mengetahui ketika anaknya itu tidur dan ketika ia bangun."
 "Lalu mengandunglah kedua anak Lot itu dari ayah mereka."
 "Yang lebih tua melahirkan seorang anak laki-laki, dan menamainya Moab; dialah bapa orang Moab yang sekarang."
 "Yang lebih mudapun melahirkan seorang anak laki-laki, dan menamainya Ben-Ami; dialah bapa bani Amon yang sekarang."

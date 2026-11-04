@@ -3,7 +3,7 @@
 "At naging anak ni Joksan si Seba at si Dedan. At ang mga anak na lalake ni Dedan, ay si Assurim at si Letusim, at si Leummim."
 "At ang mga anak ni Midian
 "At ibinigay ni Abraham ang lahat ng kaniyang tinatangkilik kay Isaac."
-"Datapuwa't ang mga anak ng naging mga babae ni Abraham, ay pinagbibigyan ni Abraham ng mga kaloob; at samantalang nabubuhay pa siya ay mga inilayo niya kay Isaac na kaniyang anak sa dakong silanganan sa lupaing silanganan."
+"Datapuwa't ang mga anak ng naging mga babae ni Abraham, ay pinagbibigyan ni Abraham ng mga kaloob; at samantalang #nabubuhay pa siya ay mga inilayo niya kay Isaac na kaniyang anak sa dakong silanganan sa lupaing silanganan."
 "At ito ang mga araw ng mga taon ng buhay na ikinabuhay ni Abraham, isang daan at pitong pu't limang taon."
 "At nalagot ang hininga ni Abraham at namatay sa mabuting katandaan, matanda at puspos ng mga taon; at nalakip sa kaniyang bayan."
 "At inilibing siya ni Isaac at ni Ismael na kaniyang mga anak sa yungib ng Macpela, sa parang ni Ephron, na anak ni Zohar na Hetheo, na nasa tapat ng Mamre;"

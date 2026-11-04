@@ -1,4 +1,4 @@
-"Von Elim zogen sie aus; und die ganze Gemeinde der Kinder Israel kam in die Wüste Sin, die da liegt zwischen Elim und Sinai, am fünfzehnten Tage des zweiten Monats, nachdem sie ausÄgypten gezogen waren."
+"Von Elim zogen sie aus; und die ganze Gemeinde der Kinder Israel kam in die Wüste Sin, die #da liegt zwischen Elim und Sinai, am fünfzehnten Tage des zweiten Monats, nachdem sie ausÄgypten gezogen waren."
 "Und es murrte die ganze Gemeinde der Kinder Israel wider Mose und Aaron in der Wüste"
 "und sprachen
 "Da sprach der HERR zu Mose
@@ -15,7 +15,7 @@
 "Und da es die Kinder Israel sahen, sprachen sie untereinander
 "Das ist's aber, was der HERR geboten hat
 "Und die Kinder Israel taten also und sammelten, einer viel, der andere wenig."
-"Aber da man's mit dem Gomer maß, fand der nicht darüber, der viel gesammelt hatte, und der nicht darunter, der wenig gesammelt hatte; sondern ein jeglicher hatte gesammelt, soviel er für sich essen mochte."
+"Aber da man's mit dem Gomer maß, fand der nicht darüber, der viel gesammelt hatte, und der nicht #darunter, der wenig gesammelt hatte; sondern ein jeglicher hatte gesammelt, soviel er für sich essen mochte."
 "Und Mose sprach zu ihnen
 "Aber sie gehorchten Mose nicht. Und da etliche ließen davonübrig bis morgen; da wuchsen Würmer darin und es ward stinkend. Und Mose ward zornig auf sie."
 "Sie sammelten aber alle Morgen, soviel ein jeglicher für sich essen mochte. Wenn aber die Sonne heiß schien, zerschmolz es."
@@ -26,7 +26,7 @@
 "Sechs Tage sollt ihr sammeln; aber der siebente Tag ist der Sabbat, an dem wird nichts da sein."
 "Aber am siebenten Tage gingen etliche vom Volk hinaus, zu sammeln, und fanden nichts."
 "Da sprach der HERR zu Mose
-"Sehet, der HERR hat euch den Sabbat gegeben; darum gibt er euch am sechsten Tage zweier Tage Brot. So bleibe nun ein jeglicher in dem Seinen, und niemand gehe heraus von seinem Ort des siebenten Tages."
+"Sehet, der HERR hat euch den Sabbat gegeben; darum gibt er euch am sechsten Tage zweier Tage Brot. So #bleibe nun ein jeglicher in dem Seinen, und niemand gehe heraus von seinem Ort des siebenten Tages."
 "Also feierte das Volk am siebenten Tage."
 "Und das Haus Israel hieß es Man. Und es war wie Koriandersamen und weiß und hatte den Geschmack wie Semmel mit Honig."
 "Und Mose sprach

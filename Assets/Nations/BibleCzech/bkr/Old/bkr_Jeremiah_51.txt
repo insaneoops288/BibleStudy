@@ -8,7 +8,7 @@
 "Ale v náhle padne Babylon, a potřín bude. Kvělte nad ním, nabeřte masti pro bolesti jeho, snad bude moci zhojen býti."
 "Hojili jsme Babylon, ale není zhojen, opusťme jej, a poďme jeden každý do země své; nebo až k nebi dosahá soud jeho, a vznesen jest až k nejvyšším oblakům."
 "Vyvedl Hospodin při naši; poďte, a vypravujme na Sionu dílo Hospodina Boha našeho."
-"Vytřete střely, shledejte, což nejvíc můžete, pavéz, Hospodin vzbudil ducha králů Médských, proto že proti Babylonu usouzení jeho jest, aby jej zkazil; pomsta zajisté jest Hospodinova, pomštění chrámu jeho."
+"Vytřete střely, shledejte, což nejvíc můžete, pavéz, Hospodin vzbudil ducha králů Médských, proto že proti #Babylonu usouzení jeho jest, aby jej zkazil; pomsta zajisté jest Hospodinova, pomštění chrámu jeho."
 "Na zdech Babylonských zdvihněte korouhev, osaďte stráž, postavte strážné, připravte zálohy; nebo i myslil Hospodin, i učiní, což řekl proti obyvatelům Babylonským."
 "Ó ty, kterýž bydlíš při vodách velikých, ó kterýž máš množství pokladů, přišloť skončení tvé, cíl lakomství tvého."
 "Přisáhlť jest Hospodin zástupů skrze samého sebe
@@ -24,7 +24,7 @@
 "Ale jižť odplatím Babylonu i všechněm obyvatelům Kaldejským za všecko bezpráví jejich, kteréž činili Sionu před očima vašima, dí Hospodin."
 "Aj, já jsem proti tobě, ó horo, kteráž hubíš, dí Hospodin, kteráž hubíš všecku zemi; a vztáhna ruku svou na tebe, svalím tě z těch skal, a obrátím tě v horu spálenou."
 "A nevezmou z tebe kamene k úhlu, ani kamene k základům; nebo pustinou věčnou budeš, praví Hospodin."
-"Vyzdvihněte korouhev v zemi, trubte trubou mezi národy, připravte proti němu národy, svolejte proti němu království Ararat, Minni, Ascenez, ustanovte hejtmana proti němu, přiveďte koní jako brouků počet nesčíslný."
+"Vyzdvihněte korouhev v zemi, trubte trubou mezi národy, připravte proti němu národy, svolejte proti němu #království Ararat, Minni, Ascenez, ustanovte hejtmana proti němu, přiveďte koní jako brouků počet nesčíslný."
 "Připravte proti Babylonu národy, krále země Médské, vývody její a všecka knížata její, i všecku zemi panování jejich."
 "I bude se třásti země a bolestiti, když vykonáváno bude usouzení Hospodinovo proti Babylonu, aby obrátil zemi Babylonskou v pustinu, v níž by se žádný neosazoval."
 "Přestanou silní Babylonští bojovati, seděti budou v ohradách, zhyne síla jejich, budou jako ženy, zapálí příbytky jejich, polámány budou závory jejich."
@@ -56,7 +56,7 @@
 "Když přitáhne na něj, na Babylon zhoubce. I budou jati silní jeho, potříno bude lučiště jejich; nebo Bůh silný odplatí, Hospodin vrchovatě odplatí."
 "Opojím knížata jeho i moudré jeho, vývody jeho i znamenitější jeho i silné jeho, aby zesnuli snem věčným, a neprocítili, dí král, jehož jméno jest Hospodin zástupů."
 "Takto praví Hospodin zástupů
-"Slovo, kteréž přikázal Jeremiáš prorok Saraiášovi synu Neriášovu, synu Maaseiášovu, když se vypravil od Sedechiáše krále Judského do Babylona, léta čtvtého kralování jeho, (byl pak Saraiáš kníže Menuchské),"
+"Slovo, kteréž přikázal Jeremiáš prorok Saraiášovi synu Neriášovu, synu Maaseiášovu, když se vypravil od Sedechiáše #krále Judského do Babylona, léta čtvtého kralování jeho, (byl pak Saraiáš kníže Menuchské),"
 "Když sepsal Jeremiáš všecko zlé, kteréž přijíti mělo na Babylon, do knihy jedné, všecka ta slova, kteráž jsou psána proti Babylonu."
 "I řekl Jeremiáš Saraiášovi
 "A rci

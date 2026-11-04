@@ -7,7 +7,7 @@
 "ju do t'u përgjigjeni kështu
 "Bijtë e Izraelit bënë pikërisht ashtu si i kishte urdhëruar Jozueu
 "Jozueu ngriti gjithashtu dymbëdhjetë gurë në mes të Jordanit, në vendin ku ishin ndalur këmbët e priftërinjve që mbanin arkën e besëlidhjes; dhe aty kanë mbetur deri më sot."
-"Priftërinjtë që mbanin arkën u ndalën në mes të Jordanit deri sa u plotësua tërësisht ajo që i kishte urdhëruar Zoti Jozueut t'i thoshte popullit, në bazë të të gjitha atyre që Moisiu i kishte urdhëruar"
+"Priftërinjtë që mbanin arkën u ndalën në mes të Jordanit deri sa u plotësua tërësisht ajo që i kishte #urdhëruar Zoti Jozueut t'i thoshte popullit, në bazë të të gjitha atyre që Moisiu i kishte urdhëruar"
 "Kur tërë populli mbaroi së kaluari, arka e Zotit dhe priftërinjtë kaluan në prani të popullit."
 "Bijtë e Rubenit, bijtë e Gadit dhe gjysma e fisit të Manasit kaluan të armatosur në krye të bijve të Izraelit, ashtu siç u kishte thënë Moisiu."
 "Rreth dyzet mijë njerëz me veshje lufte kaluan para Zotit në fushat e Jerikos, gati për të luftuar."
@@ -15,7 +15,7 @@
 "Pastaj Zoti i foli Jozueut dhe i tha
 """Urdhëro priftërinjtë që mbajnë arkën e Dëshmisë të dalin nga Jordani""."
 "Atëherë Jozueu urdhëroi priftërinjtë duke u thënë
-"Dhe ndodhi që kur priftërinjtë që mbanin arkën e besëlidhjes së Zotit, dolën nga Jordani dhe tabanët e këmbëve të tyre shkelën tokën e thatë, ujërat e Jordanit u kthyen në vendin e tyre dhe filluan të rrjedhin si më parë në lartësinë e brigjeve të tij."
+"Dhe ndodhi që kur priftërinjtë që mbanin arkën e besëlidhjes së Zotit, dolën nga Jordani dhe tabanët e këmbëve të tyre shkelën tokën e #thatë, ujërat e Jordanit u kthyen në vendin e tyre dhe filluan të rrjedhin si më parë në lartësinë e brigjeve të tij."
 "Populli doli nga Jordani ditën e dhjetë të muajit të parë dhe ngriti kampin e tij në Gilgal, në skajin lindor të Jerikos."
 "Ata dymbëdhjetë gurë që i kishin marrë nga Jordani, Jozueu i çoi në Gilgal."
 "Pastaj u foli bijve të Izraelit dhe u tha atyre

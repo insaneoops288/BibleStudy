@@ -7,7 +7,7 @@
 "Niin peljästyi Jakob kovin, ja ahdistus tuli hänen päällensä
 "Ja sanoi
 "Ja Jakob sanoi
-"Minä olen mahdotoin kaikkeen siihen armoon, ja kaikkeen siihen totuuteen, jonka sinä teit palvelialles. Sillä koska minä tämän Jordanin ylitse menin, ei minulla muuta ollut kuin minun sauvani; mutta nyt minulla on kaksi joukkoa."
+"Minä olen mahdotoin kaikkeen siihen armoon, ja kaikkeen siihen totuuteen, jonka sinä teit palvelialles. Sillä koska minä tämän #Jordanin ylitse menin, ei minulla muuta ollut kuin minun sauvani; mutta nyt minulla on kaksi joukkoa."
 "Pelasta siis nyt minua minun veljeni Esaun käsistä
 "Sinä olet kumminkin sanonut
 "Ja hän yötyi sinne, ja otti niistä, kuin olivat käsillä, lahjoja lähettääksensä veljellensä Esaulle

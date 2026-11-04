@@ -2,7 +2,7 @@
 "E será que, se o injusto merecer açoites, o juiz o fará deitar e o fará açoitar diante de si, quanto bastar pela sua injustiça, por certa conta."
 "Quarenta açoites lhe fará dar, não mais; para que, porventura, se lhe fizer dar mais açoites do que estes, teu irmão não fique envilecido aos teus olhos."
 "Não atarás a boca ao boi, quando trilhar."
-"Quando alguns irmãos morarem juntos, e algum deles morrer e não tiver filho, então, a mulher do defunto não se casará com homem estranho de fora; seu cunhado entrará a ela, e a tomará por mulher, e fará a obrigação de cunhado para com ela."
+"Quando alguns irmãos morarem juntos, e algum deles morrer e não tiver filho, então, a mulher do defunto não se casará com homem #estranho de fora; seu cunhado entrará a ela, e a tomará por mulher, e fará a obrigação de cunhado para com ela."
 "E será que o primogénito que ela der à luz estará em nome de seu irmão defunto, para que o seu nome se não apague em Israel."
 "Porém, se o tal homem não quiser tomar sua cunhada, subirá, então, sua cunhada à porta dos anciãos e dirá
 "Então, os anciãos da sua cidade o chamarão e com ele falarão; e, se ele ficar nisto e disser
@@ -16,4 +16,4 @@
 "Porque abominação é ao SENHOR, teu Deus, todo aquele que faz isso, todo aquele que faz injustiça."
 "Lembra-te do que te fez Amaleque no caminho, quando saíeis do Egipto;"
 "como te saiu ao encontro no caminho e te derribou na retaguarda todos os fracos que iam após ti, estando tu cansado e afadigado; e não temeu a Deus."
-"Será, pois, que, quando o SENHOR, teu Deus, te tiver dado repouso de todos os teus inimigos em redor, na terra que o SENHOR, teu Deus, te dará por herança, para possuí-la, então, apagarás a memória de Amaleque de debaixo do céu; não te esqueças."
+"Será, pois, que, quando o SENHOR, teu Deus, te tiver dado repouso de todos os teus inimigos em redor, na terra que o #SENHOR, teu Deus, te dará por herança, para possuí-la, então, apagarás a memória de Amaleque de debaixo do céu; não te esqueças."

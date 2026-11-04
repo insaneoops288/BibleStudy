@@ -13,7 +13,7 @@
 "Sie antworteten ihm
 "Joseph sprach zu ihnen
 "Daran will ich euch prüfen; bei dem Leben Pharaos! ihr sollt nicht von dannen kommen, es komme denn her euer jüngster Bruder."
-"Sendet einen unter euch hin, der euren Bruder hole; ihr aber sollt gefangen sein. Also will ich prüfen eure Rede, ob ihr mit Wahrheit umgeht oder nicht. Denn wo nicht, so seid ihr, bei dem Leben Pharaos! Kundschafter."
+"Sendet einen unter euch hin, der euren Bruder hole; ihr aber sollt gefangen sein. Also will ich prüfen eure Rede, #ob ihr mit Wahrheit umgeht oder nicht. Denn wo nicht, so seid ihr, bei dem Leben Pharaos! Kundschafter."
 "Und er ließ sie beisammen verwahren drei Tage lang."
 "Am dritten Tage aber sprach er zu ihnen
 "Seid ihr redlich, so laßt eurer Brüder einen gebunden liegen in eurem Gefängnis; ihr aber zieht hin und bringet heim, was ihr gekauft habt für den Hunger.{~}"

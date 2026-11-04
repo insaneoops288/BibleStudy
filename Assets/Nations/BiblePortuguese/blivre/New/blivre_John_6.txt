@@ -19,7 +19,7 @@
 "E havendo já navegado quase vinte e cinco, ou trinta estádios, viram a Jesus andando sobre o mar, e se aproximando do barco; e temeram."
 "Mas ele lhes disse
 "Eles, então, o receberam com agrado no barco; e logo o barco chegou à terra para onde iam."
-"O dia seguinte, vendo a multidão, que estava do outro lado do mar, que não havia ali mais que um barquinho, em que seus discípulos entraram; e que Jesus não entrara com seus discípulos naquele barquinho, mas [que] seus discípulos sós se haviam ido;"
+"O dia seguinte, vendo a multidão, que estava do outro lado do mar, que não havia ali mais que um barquinho, em que #seus discípulos entraram; e que Jesus não entrara com seus discípulos naquele barquinho, mas [que] seus discípulos sós se haviam ido;"
 "(Porém outros barquinhos vieram de Tibérias, perto do lugar onde comeram o pão, havendo o Senhor dado graças.)"
 "Vendo pois a multidão que Jesus não estava ali, nem seus discípulos, entraram eles também nos barcos, e vieram a Cafarnaum em busca de Jesus."
 "E achando-o do outro lado do mar, disseram

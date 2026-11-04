@@ -1,5 +1,5 @@
 "Në atë kohë Merodak-Baladani, bir i Baladanit, mbre ti Babilonisë, i dërgoi letra dhe një dhuratë Ezekias, sepse kishte dëgjuar që ai kishte qenë i sëmurë dhe ishte shëruar."
-"Ezekia u gëzua dhe u tregoi të dërguarve shtëpinë e thesaret të tij, argjendin, arin, aromat, melhemin e çmuar, tërë arsenalin e tij dhe të gjitha ato që ndodheshin në thesaret e tij; nuk mbeti asgjë nga pallati i tij dhe nga e gjithë mbretëria që Ezekia nuk ua tregoi atyre."
+"Ezekia u gëzua dhe u tregoi të dërguarve shtëpinë e thesaret të tij, argjendin, arin, aromat, melhemin e çmuar, tërë arsenalin e tij dhe të gjitha #ato që ndodheshin në thesaret e tij; nuk mbeti asgjë nga pallati i tij dhe nga e gjithë mbretëria që Ezekia nuk ua tregoi atyre."
 "Atëherë profeti Isaia erdhi te mbreti Ezekia dhe i tha
 "Isaia pyeti akoma
 "Atëherë Isaia i tha Ezekias

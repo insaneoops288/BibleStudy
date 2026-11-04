@@ -9,7 +9,7 @@
 "Monda néki a király
 "Hírnököket külde pedig Absolon Izráelnek minden nemzetségéhez, hogy megmondják
 "És Absolonnal együtt kétszáz férfi [is] elméne Jeruzsálembõl, kiket meghívott, kik jóhiszemûleg menének, semmit nem tudván a dologról."
-"És elküldvén Absolon, [hivatá] a Gilóból való Akhitófelt is, Dávidnak tanácsosát, az õ városából Gilóból, míg õ az áldozatot végezte. És igen nagy lõn az összeesküvés, és a nép gyülekezék és szaporodék Absolon mellett."
+"És elküldvén Absolon, [hivatá] a Gilóból való Akhitófelt is, Dávidnak tanácsosát, az õ városából Gilóból, míg õ az #áldozatot végezte. És igen nagy lõn az összeesküvés, és a nép gyülekezék és szaporodék Absolon mellett."
 "És követ méne Dávidhoz ilyen izenettel
 "Akkor monda Dávid minden szolgáinak, kik vele valának Jeruzsálemben
 "Mondának pedig a király szolgái a királynak

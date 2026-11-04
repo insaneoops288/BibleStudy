@@ -12,7 +12,7 @@
 "Sea notorio al rey, que los Judíos que subieron de tí á nosotros, vinieron á Jerusalem; y edifican la ciudad rebelde y mala, y han erigido los muros; y compuesto los fundamentos."
 "Ahora, notorio sea al rey, que si aquella ciudad fuere reedificada, y los muros fueren establecidos, el tributo, pecho, y rentas no darán, y el catastro de lo reyes será menoscabado."
 "Ya pues que estamos mantenidos de palacio, no nos es justo ver el menosprecio del rey
-"Para que busque en el libro de las historias de nuestros padres; y hallarás en el libro de las historias, y sabrás que esta ciudad es ciudad rebelde, y perjudicial á los reyes y á las provincias, y que de tiempo antiguo forman en medio de ella rebeliones;"
+"Para que busque en el libro de las historias de nuestros padres; y hallarás en el libro de las historias, y sabrás que esta ciudad #es ciudad rebelde, y perjudicial á los reyes y á las provincias, y que de tiempo antiguo forman en medio de ella rebeliones;"
 "Hacemos saber al rey, que si esta ciudad fuere edificada, y erigidos sus muros, la parte allá del río no será tuya."
 "El rey envió esta respuesta á Rehum canciller, y á Simsai secretario, y á los demás sus compañeros que habitan en Samaria, y á los demás de la parte allá del río
 "La carta que nos enviasteis claramente fué leída delante de mí."
@@ -20,5 +20,5 @@
 "Y que reyes fuertes hubo en Jerusalem, quienes señorearon en todo lo que está á la parte allá del río; y que tributo, y pecho, y rentas se les daba."
 "Ahora pues dad orden que cesen aquellos hombres, y no sea esa ciudad edificada, hasta que por mí sea dado mandamiento."
 "Y mirad bien que no hagáis error en esto
-"Entonces, cuando el traslado de la carta del rey Artajerjes fué leído delante de Rehum, y de Simsai secretario, y sus compañeros, fueron prestamente á Jerusalem á los Judíos, é hiciéronles cesar con poder y fuerza."
+"Entonces, cuando el traslado de la carta del rey Artajerjes fué leído delante de Rehum, y de Simsai secretario, #y sus compañeros, fueron prestamente á Jerusalem á los Judíos, é hiciéronles cesar con poder y fuerza."
 "Cesó entonces la obra de la casa de Dios, la cual estaba en Jerusalem

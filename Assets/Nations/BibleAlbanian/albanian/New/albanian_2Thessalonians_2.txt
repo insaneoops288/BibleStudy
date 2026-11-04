@@ -9,7 +9,7 @@
 "dhe nga çdo mashtrim ligësie për ata që humbin, sepse nuk pranuan ta duan të vërtetën për të qenë të shpëtuar."
 "E prandaj Perëndia do t'u dërgojë atyre një gënjim që do t'i bëjë të gabojnë, që t'i besojnë gënjeshtrës,"
 "që të dënohen të gjithë ata që nuk i besuan së vërtetës, por përqafuan ligësinë!"
-"Por ne duhet ta falënderojmë vazhdimisht Perëndinë për ju, o vëllezër të dashur nga Zoti, sepse Perëndia ju zgjodhi që në fillim për t'ju shpëtuar, me anë të shenjtërimit të Frymës dhe të besimit në të vërtetën;"
+"Por ne duhet ta falënderojmë vazhdimisht Perëndinë për ju, o vëllezër të dashur nga Zoti, sepse Perëndia ju zgjodhi #që në fillim për t'ju shpëtuar, me anë të shenjtërimit të Frymës dhe të besimit në të vërtetën;"
 "tek e cila ju thirri me anë të ungjillit tonë, që të arrini të merrni lavdinë e Zotit tonë Jezu Krisht."
 "Prandaj, vëllezër, qëndroni dhe mbani porositë që mësuat, me anë të fjalës ose me anë të letrës sonë."
 "Dhe vetë Zoti jonë Jezu Krisht dhe Perëndia Ati ynë, që na deshi dhe na dha me anë të hirit një ngushëllim të përjetshëm dhe një shpresë të mirë,"

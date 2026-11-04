@@ -11,7 +11,7 @@
 "Ja että te opettaisitte Israelin lapsille kaikki oikeudet, kuin Herra heille Moseksen kautta puhunut on."
 "Ja Moses puhui Aaronille ja hänen jääneille pojillensa Eleatsarille ja Itamarille
 "Ja teidän pitää sen syömän pyhällä sialla
-"Mutta häälytysrinnan ja ylennyslavan pitää sinun ja sinun poikas ja tyttäres sinun kanssas syömän puhtaalla paikalla; sillä tämä oikeus on sinulle ja sinun pojilles annettu Israelin lasten kiitosuhrista;"
+"Mutta häälytysrinnan ja ylennyslavan pitää sinun ja sinun poikas ja tyttäres sinun kanssas syömän puhtaalla #paikalla; sillä tämä oikeus on sinulle ja sinun pojilles annettu Israelin lasten kiitosuhrista;"
 "Sillä ylennyslapa ja häälytysrinta, lihavuus tuliuhrein kanssa, pitää kannettaman sisälle häälytettää häälytykseksi Herran edessä
 "Ja Moses etsi ahkerasti rikosuhrin kaurista, ja katso, se oli poltettu
 "Miksi ette ole syöneet rikosuhria pyhällä paikalla? sillä se on kaikkein pyhin, ja hän on antanut teille sen, että teidän pitää kantaman kansan rikokset, ja sovittaman heitä Herran edessä."

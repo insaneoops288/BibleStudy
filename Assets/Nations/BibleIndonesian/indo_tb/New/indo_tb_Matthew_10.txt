@@ -25,7 +25,7 @@
 "Cukuplah bagi seorang murid jika ia menjadi sama seperti gurunya dan bagi seorang hamba jika ia menjadi sama seperti tuannya. Jika tuan rumah disebut Beelzebul, apalagi seisi rumahnya."
 "Jadi janganlah kamu takut terhadap mereka, karena tidak ada sesuatupun yang tertutup yang tidak akan dibuka dan tidak ada sesuatupun yang tersembunyi yang tidak akan diketahui."
 "Apa yang Kukatakan kepadamu dalam gelap, katakanlah itu dalam terang; dan apa yang dibisikkan ke telingamu, beritakanlah itu dari atas atap rumah."
-"Dan janganlah kamu takut kepada mereka yang dapat membunuh tubuh, tetapi yang tidak berkuasa membunuh jiwa; takutlah terutama kepada Dia yang berkuasa membinasakan baik jiwa maupun tubuh di dalam neraka."
+"Dan janganlah kamu takut kepada mereka yang dapat membunuh tubuh, tetapi yang tidak berkuasa membunuh jiwa; #takutlah terutama kepada Dia yang berkuasa membinasakan baik jiwa maupun tubuh di dalam neraka."
 "Bukankah burung pipit dijual dua ekor seduit? Namun seekorpun dari padanya tidak akan jatuh ke bumi di luar kehendak Bapamu."
 "Dan kamu, rambut kepalamupun terhitung semuanya."
 "Sebab itu janganlah kamu takut, karena kamu lebih berharga dari pada banyak burung pipit."

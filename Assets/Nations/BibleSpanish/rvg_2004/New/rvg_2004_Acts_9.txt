@@ -24,7 +24,7 @@
 "pero sus asechanzas fueron entendidas de Saulo. Y ellos guardaban las puertas de día y de noche para matarle."
 "Entonces los discípulos, tomándole de noche, le bajaron por el muro en una canasta."
 "Y cuando Saulo vino a Jerusalén, intentó juntarse con los discípulos; pero todos le tenían miedo, no creyendo que él era discípulo."
-"Entonces Bernabé, tomándole, le trajo a los apóstoles, y les contó cómo había visto al Señor en el camino, y que Él le había hablado, y cómo en Damasco había predicado con denuedo en el nombre de Jesús."
+"Entonces Bernabé, tomándole, le trajo a los apóstoles, y les contó cómo había visto al Señor en el camino, y #que Él le había hablado, y cómo en Damasco había predicado con denuedo en el nombre de Jesús."
 "Y estaba con ellos, entrando y saliendo en Jerusalén;"
 "y hablaba con denuedo en el nombre del Señor Jesús; y disputaba con los griegos; pero éstos procuraban matarle."
 "Y cuando lo supieron los hermanos, le trajeron hasta Cesarea, y le enviaron a Tarso."
@@ -36,7 +36,7 @@
 "Había entonces en Jope una discípula llamada Tabita, que interpretado quiere decir, Dorcas. Ésta era llena de buenas obras y de limosnas que hacía."
 "Y aconteció en aquellos días que enfermando, murió; la cual, después de lavada, la pusieron en un aposento alto."
 "Y como Lyda estaba cerca de Jope, los discípulos, oyendo que Pedro estaba allí, le enviaron dos hombres, rogándole
-"Pedro entonces levantándose, fue con ellos. Y cuando llegó, le llevaron al aposento alto, y todas las viudas le rodearon, llorando, y mostrando las túnicas y los vestidos que Dorcas hacía cuando estaba con ellas."
+"Pedro entonces levantándose, fue con ellos. Y cuando llegó, le llevaron al aposento alto, y todas las viudas #le rodearon, llorando, y mostrando las túnicas y los vestidos que Dorcas hacía cuando estaba con ellas."
 "Entonces, sacando a todos, Pedro se puso de rodillas y oró; y volviéndose al cuerpo, dijo
 "Y él, dándole la mano, la levantó; y llamando a los santos y a las viudas, la presentó viva."
 "Esto fue notorio por toda Jope; y muchos creyeron en el Señor."

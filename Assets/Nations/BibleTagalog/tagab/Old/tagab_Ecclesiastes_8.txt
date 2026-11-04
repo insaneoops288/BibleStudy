@@ -9,9 +9,9 @@
 "Lahat ng ito ay nakita ko, at inihilig ko ang aking puso sa bawa't gawa, na nagawa sa ilalim ng araw
 "At gayon din nakita ko ang masama na nakalibing, at nagsidating sa hukay; at silang nagsigawa ng matuwid ay nagsialis sa dakong banal, at nalimutan sa bayan
 "Sapagka't ang hatol laban sa masamang gawa ay hindi isinasagawa agad, kaya't ang puso ng mga anak ng mga tao ay lubos na nangalalagak sa paggawa ng kasamaan."
-"Bagaman ang makasalanan ay gumawa ng kasamaan na makaisang daan, at humaba ang kaniyang buhay, gayon ma'y tunay, na talastas ko, na ikabubuti nilang nangatatakot sa Dios, na nangatatakot sa harap niya
+"Bagaman ang makasalanan ay gumawa ng kasamaan na makaisang daan, at humaba ang kaniyang buhay, gayon ma'y #tunay, na talastas ko, na ikabubuti nilang nangatatakot sa Dios, na nangatatakot sa harap niya
 "Nguni't hindi ikabubuti ng masama, ni hahaba man ang kaniyang buhay na parang isang anino; sapagka't siya'y hindi natatakot sa harap ng Dios."
-"May walang kabuluhan na nangyayari sa lupa; na may mga matuwid na tao na kinapapangyarihan ng ayon sa gawa ng masama; muli, may mga masamang tao na kinapapangyarihan ng ayon sa gawa ng matuwid; aking sinabi, na ito man ay walang kabuluhan."
+"May walang kabuluhan na nangyayari sa lupa; na may mga matuwid na tao na kinapapangyarihan ng ayon sa gawa ng masama; muli, #may mga masamang tao na kinapapangyarihan ng ayon sa gawa ng matuwid; aking sinabi, na ito man ay walang kabuluhan."
 "Nang magkagayo'y pinuri ko ang kalayawan, sapagka't ang tao ay walang maiging bagay sa ilalim ng araw, kundi ang kumain, at uminom, at magsaya
 "Nang aking ikiling ang aking puso upang makaalam ng karunungan, at upang makakita ng gawain na ginagawa sa lupa
 "Namasdan ko nga ang lahat ng gawa ng Dios, na hindi matalastas ng tao ang gawa na ginagawa sa ilalim ng araw

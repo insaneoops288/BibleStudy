@@ -1,5 +1,5 @@
 "A Jakób osiadł w ziemi pobytu swego ojca, w ziemi Kanaan."
-"Oto rodzinne dzieje Jakóba. W wieku siedemnastu lat Josef był pasterzem trzód wraz ze swoimi braćmi, z synami Bilhy i Zylpy, żonami swojego ojca. Josef donosił też swemu ojcu złośliwe ich oszczerstwa."
+"Oto rodzinne dzieje Jakóba. W wieku siedemnastu lat Josef był pasterzem trzód wraz ze swoimi braćmi, z #synami Bilhy i Zylpy, żonami swojego ojca. Josef donosił też swemu ojcu złośliwe ich oszczerstwa."
 "A Israel miłował Josefa ponad wszystkich swoich synów, ponieważ był synem jego starości. Sprawił mu także strojny płaszcz."
 "Zaś jego bracia widząc, że ich ojciec go miłował ponad wszystkich jego braci znienawidzili go, więc nie mogli z nim uprzejmie rozmawiać."
 "Śnił się też Josefowi sen i opowiedział go swoim braciom; zatem znienawidzili go jeszcze bardziej."

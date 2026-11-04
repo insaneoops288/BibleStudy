@@ -7,7 +7,7 @@
 "Mais Josaphat dit
 "Le roi d'Israël répondit à Josaphat
 "Alors le roi d'Israël appela un eunuque, et dit
-"Le roi d'Israël et Josaphat, roi de Juda, étaient assis chacun sur son trône, revêtus de leurs habits royaux, dans la place à l'entrée de la porte de Samarie. Et tous les prophètes prophétisaient devant eux."
+"Le roi d'Israël et Josaphat, roi de Juda, étaient assis chacun sur son trône, revêtus de leurs habits royaux, #dans la place à l'entrée de la porte de Samarie. Et tous les prophètes prophétisaient devant eux."
 "Sédécias, fils de Kenaana, s'était fait des cornes de fer, et il dit
 "Et tous les prophètes prophétisaient de même, en disant
 "Le messager qui était allé appeler Michée lui parla ainsi
@@ -36,11 +36,11 @@
 "Au coucher du soleil, on cria par tout le camp
 "Ainsi mourut le roi, qui fut ramené à Samarie; et on enterra le roi à Samarie."
 "Lorsqu'on lava le char à l'étang de Samarie, les chiens léchèrent le sang d'Achab, et les prostituées s'y baignèrent, selon la parole que l'Eternel avait prononcée."
-"Le reste des actions d'Achab, tout ce qu'il a fait, la maison d'ivoire qu'il construisit, et toutes les villes qu'il a bâties, cela n'est-il pas écrit dans le livre des Chroniques des rois d'Israël?"
+"Le reste des actions d'Achab, tout ce qu'il a fait, la maison d'ivoire qu'il construisit, et toutes les #villes qu'il a bâties, cela n'est-il pas écrit dans le livre des Chroniques des rois d'Israël?"
 "Achab se coucha avec ses pères. Et Achazia, son fils, régna à sa place."
 "Josaphat, fils d'Asa, régna sur Juda, la quatrième année d'Achab, roi d'Israël."
 "Josaphat avait trente-cinq ans lorsqu'il devint roi, et il régna vingt cinq ans à Jérusalem. Sa mère s'appelait Azuba, fille de Schilchi."
-"Il marcha dans toute la voie d'Asa, son père, et ne s'en détourna point, faisant ce qui est droit aux yeux de l'Eternel. Seulement, les hauts lieux ne disparurent point; le peuple offrait encore des sacrifices et des parfums sur les hauts lieux."
+"Il marcha dans toute la voie d'Asa, son père, et ne s'en détourna point, faisant ce qui est droit aux yeux de #l'Eternel. Seulement, les hauts lieux ne disparurent point; le peuple offrait encore des sacrifices et des parfums sur les hauts lieux."
 "Josaphat fut en paix avec le roi d'Israël."
 "Le reste des actions de Josaphat, ses exploits et ses guerres, cela n'est-il pas écrit dans le livre des Chroniques des rois de Juda?"
 "Il ôta du pays le reste des prostitués, qui s'y trouvaient encore depuis le temps d'Asa, son père."

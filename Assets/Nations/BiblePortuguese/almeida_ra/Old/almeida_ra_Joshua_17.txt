@@ -8,7 +8,7 @@
 "A terra de Tapua ficou pertencendo a Manassés; porém Tapua, junto ao termo de Manassés, pertencia aos filhos de Efraim."
 "Então desce este termo ao ribeiro de Caná; a Efraim couberam as cidades ao sul do ribeiro no meio das cidades de Manassés; o termo de Manassés está ao norte do ribeiro, e vai até o mar."
 "Ao sul a terra é de Efraim, e ao norte de Manassés, sendo o mar o seu termo. Estendem-se ao norte até Aser, e ao oriente até Issacar"
-"Porque em Issacar e em Aser couberam a Manassés Bet-Chan e suas vilas, Jiblam e suas vilas, os habitantes de Dor e suas vilas, os habitantes de En-Dor e suas vilas, os habitantes de Taanac e suas vilas, e os habitantes de Megido e suas vilas, com os seus três outeiros."
+"Porque em Issacar e em Aser couberam a Manassés Bet-Chan e suas vilas, Jiblam e suas vilas, os habitantes de Dor e suas vilas, os habitantes #de En-Dor e suas vilas, os habitantes de Taanac e suas vilas, e os habitantes de Megido e suas vilas, com os seus três outeiros."
 "Contudo os filhos de Manassés não puderam expulsar os habitantes daquelas cidades, porquanto os cananeus persistiram em habitar naquela terra."
 "Mas quando os filhos de Israel se tornaram fortes, sujeitaram os cananeus a trabalhos forçados, porém não os expulsaram de todo."
 "Então os filhos de José falaram a Josué, dizendo

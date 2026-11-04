@@ -14,7 +14,7 @@
 "y diciendo
 "ahora por eso, oíd <I>la</I>  palabra del SEÑOR, remanente de Judá
 "será que el cuchillo que teméis, os alcanzará allí en tierra de Egipto, y el hambre de que tenéis temor, allá en Egipto se os pegará; y allí moriréis."
-"Será pues, que todos los varones que tornaren sus rostros para entrarse en Egipto, para peregrinar allí, morirán a cuchillo, de hambre, y de pestilencia; no habrá de ellos quien quede vivo, ni quien escape delante del mal  que yo traigo sobre ellos."
+"Será pues, que todos los varones que tornaren sus rostros para entrarse en Egipto, para peregrinar allí, morirán a cuchillo, de hambre, y #de pestilencia; no habrá de ellos quien quede vivo, ni quien escape delante del mal  que yo traigo sobre ellos."
 "Porque así dijo el SEÑOR de los ejércitos, Dios de Israel
 "El SEÑOR habló sobre vosotros, oh remanente de Judá
 "¿Por qué hicisteis errar vuestras almas? Porque vosotros me enviasteis al SEÑOR vuestro Dios, diciendo

@@ -24,7 +24,7 @@
 "Bowiem pewien mincarz, imieniem Demetriusz, robiąc srebrne świątynie Artemidy dostarczał niemały zarobek rzemieślnikom."
 "Zatem zebrał ich razem, a także podobnych pracowników i powiedział
 "A widzicie i słyszycie, że ten Paweł przekonał oraz nakłonił liczny tłum nie tylko z Efezu, ale prawie z całej Azji mówiąc, że nie ci, co powstają przez ręce są bogami."
-"Ale nie tylko ta sprawa jest naszym zagrożeniem, aż do pozbawienia wartości; lecz również za nic ma być uważana świątynia wielkiej bogini Artemidy, i ma zostać odarta ze swej wielkości ta, którą czci cała Azja oraz zamieszkała ziemia."
+"Ale nie tylko ta sprawa jest naszym zagrożeniem, aż do pozbawienia wartości; lecz również za nic ma być uważana świątynia #wielkiej bogini Artemidy, i ma zostać odarta ze swej wielkości ta, którą czci cała Azja oraz zamieszkała ziemia."
 "A kiedy to usłyszeli, byli pełni gniewu i krzyczeli, mówiąc
 "Zatem miasto było pełne zamętu. Jednomyślnie pędzili też do teatru, porwawszy Macedończyków Gajusa i Artstarcha, towarzyszy podróży Pawła."
 "Zaś gdy Paweł chciał wyjść do mieszkańców, uczniowie mu nie pozwalali."
@@ -37,4 +37,4 @@
 "Bowiem przyprowadziliście tych mężów ani nie świętokradców, ani nie bluźnierców naszej bogini."
 "Jeśli zatem Demetriusz oraz ci, razem z nim rzemieślnicy, mają przeciwko komuś sprawę, niech zostaną pozwani przed sądy rynkowe. Są także prokonsulowie oskarżajcie więc jedni drugich."
 "Ale jeśli czegoś ponadto szukacie zostanie to wyjaśnione w zgromadzeniu, które trzyma się prawa."
-"Ponieważ się narażamy, że zostaniemy oskarżonymi w sprawie dzisiejszych rozruchów. Gdyż nie ma żadnej przyczyny, wobec której będziemy mogli zdać sprawę odnośnie tego skupiska. To powiedział oraz rozwiązał zgromadzenie."
+"Ponieważ się narażamy, że zostaniemy oskarżonymi w sprawie dzisiejszych rozruchów. Gdyż nie ma żadnej przyczyny, #wobec której będziemy mogli zdać sprawę odnośnie tego skupiska. To powiedział oraz rozwiązał zgromadzenie."

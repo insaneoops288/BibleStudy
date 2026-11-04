@@ -13,7 +13,7 @@
 "Da nahm Samuel dasÖlhorn und salbte ihn inmitten seiner Brüder. Und der Geist Jehovas gerietüber David von selbigem Tage an und hinfort. Und Samuel machte sich auf und ging nach Rama."
 "Aber der Geist Jehovas wich von Saul, und ein böser Geist von Jehovaängstigte ihn."
 "Und die Knechte Sauls sprachen zu ihm
-"Es befehle doch unser Herr deinen Knechten, die vor dir sind, daß sie einen Mann suchen, der des Lautenspieles kundig ist; und es wird geschehen, wenn der böse Geist von Gottüber dich kommt, so wird er mit seiner Hand spielen, und es wird dir wohl werden."
+"Es befehle doch unser Herr deinen Knechten, die vor dir sind, daß sie einen Mann suchen, der des Lautenspieles kundig ist; und es wird #geschehen, wenn der böse Geist von Gottüber dich kommt, so wird er mit seiner Hand spielen, und es wird dir wohl werden."
 "Und Saul sprach zu seinen Knechten
 "Und einer von den Knaben antwortete und sprach
 "Da sandte Saul Boten zu Isai und ließ ihm sagen

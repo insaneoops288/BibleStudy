@@ -5,7 +5,7 @@
 "Y Jetro el suegro de Moisés, con sus hijos y su mujer, llegó a Moisés en el desierto, donde tenía el campamento junto al monte de Dios;"
 "y dijo a Moisés
 "Y Moisés salió a recibir a su suegro, y se inclinó, y lo besó; y se preguntaron el uno al otro por la paz, y vinieron a la tienda."
-"Y Moisés contó a su suegro todas las cosas que el SEÑOR había hecho al Faraón y a los egipcios por causa de Israel, y todo el trabajo que habían pasado en el camino, y <I>cómo</I>  los había librado el SEÑOR."
+"Y Moisés contó a su suegro todas las cosas que el SEÑOR había hecho al Faraón y a los egipcios por causa #de Israel, y todo el trabajo que habían pasado en el camino, y <I>cómo</I>  los había librado el SEÑOR."
 "Y se alegró Jetro de todo el bien que el SEÑOR había hecho a Israel, que lo había librado de mano de los egipcios."
 "Y Jetro dijo
 "Ahora conozco que el SEÑOR <I>es</I>  grande más que todos los dioses; porque en lo que se ensoberbecieron <I>prevaleció</I>  contra ellos."
@@ -18,7 +18,7 @@
 "Desfallecerás del todo, tú, y también este pueblo que <I>está</I>  contigo; porque el negocio es demasiado pesado para ti; no podrás hacerlo tú solo."
 "Oye ahora mi voz; <I>yo</I>  te aconsejaré, y Dios será contigo. Está tú por el pueblo delante de Dios, y somete tú los negocios a Dios."
 "Y enseña a ellos las ordenanzas y las leyes, y muéstrales el camino por donde anden, y lo que han de hacer."
-"Además considera tú de <I>entre</I>  todo el pueblo varones de virtud, temerosos de Dios, varones de verdad, que aborrezcan la avaricia; y pondrás sobre <I>el pueblo</I>  príncipes sobre mil, sobre ciento, sobre cincuenta  y sobre diez."
+"Además considera tú de <I>entre</I>  todo el pueblo varones de virtud, temerosos de Dios, varones de verdad, que aborrezcan #la avaricia; y pondrás sobre <I>el pueblo</I>  príncipes sobre mil, sobre ciento, sobre cincuenta  y sobre diez."
 "Los cuales juzgarán al pueblo en todo tiempo; y será que todo negocio grave lo traerán a ti, y ellos juzgarán todo negocio pequeño
 "Si esto hicieres, y Dios te mandare, tú podrás persistir, y todo este pueblo se irá también en paz a su lugar."
 "Entonces Moisés oyó la voz de su suegro, e hizo todo lo que dijo."

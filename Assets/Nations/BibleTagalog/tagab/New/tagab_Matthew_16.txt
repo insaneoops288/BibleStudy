@@ -18,7 +18,7 @@
 "At sinasabi ko naman sa iyo, na ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking iglesia; at ang mga pintuan ng Hades ay hindi magsisipanaig laban sa kaniya."
 "Ibibigay ko sa iyo ang mga susi ng kaharian ng langit
 "Nang magkagayo'y ipinagbilin niya sa mga alagad na huwag sabihin kanino man na siya ang Cristo."
-"Mula ng panahong yao'y nagpasimulang ipinakilala ni Jesus sa kaniyang mga alagad, na kinakailangang siya'y pumaroon sa Jerusalem, at magbata ng maraming bagay sa matatanda at sa mga pangulong saserdote at sa mga eskriba, at siya'y patayin, at muling ibangon sa ikatlong araw."
+"Mula ng panahong yao'y nagpasimulang ipinakilala ni Jesus sa kaniyang mga alagad, na kinakailangang siya'y pumaroon sa Jerusalem, at magbata ng maraming #bagay sa matatanda at sa mga pangulong saserdote at sa mga eskriba, at siya'y patayin, at muling ibangon sa ikatlong araw."
 "At isinama siya ni Pedro, at nagpasimulang siya'y pinagwikaan, na nagsasabi, Panginoon, malayo ito sa iyo
 "Datapuwa't lumingon siya, at sinabi kay Pedro, Lumagay ka sa likuran ko, Satanas
 "Nang magkagayo'y sinabi ni Jesus sa kaniyang mga alagad, Kung ang sinomang tao'y ibig sumunod sa akin ay tumanggi sa kaniyang sarili, at pasanin ang kaniyang krus, at sumunod sa akin."

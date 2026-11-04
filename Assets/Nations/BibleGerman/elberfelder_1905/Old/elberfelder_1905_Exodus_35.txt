@@ -18,8 +18,8 @@
 "die Pflöcke der Wohnung und die Pflöcke des Vorhofs und ihre Seile;"
 "die Dienstkleider zum Dienst im Heiligtum, die heiligen Kleider für Aaron, den Priester, und die Kleider seiner Söhne, um den Priesterdienst auszuüben."
 "Und die ganze Gemeinde der Kinder Israel ging von Mose hinweg."
-"Und sie kamen, ein jeder, den sein Herz trieb; und ein jeder, der willigen Geistes war, brachte das Hebopfer Jehovas für das Werk des Zeltes der Zusammenkunft und für all seine Arbeit und für die heiligen Kleider."
-"Und die Männer kamen mit den Weibern; ein jeder, der willigen Herzens war, brachte Nasenringe und Ohrringe und Fingerringe und Spangen, allerlei goldene Geräte; und jeder, der dem Jehova ein Webopfer an Gold webte."
+"Und sie kamen, ein jeder, den sein Herz trieb; und ein jeder, der willigen Geistes war, brachte das Hebopfer #Jehovas für das Werk des Zeltes der Zusammenkunft und für all seine Arbeit und für die heiligen Kleider."
+"Und die Männer kamen mit den Weibern; ein jeder, der willigen Herzens war, brachte Nasenringe und Ohrringe und #Fingerringe und Spangen, allerlei goldene Geräte; und jeder, der dem Jehova ein Webopfer an Gold webte."
 "Und ein jeder, bei dem sich blauer und roter Purpur fand, und Karmesin und Byssus und Ziegenhaar und rotgefärbte Widderfelle und Dachsfelle, brachte es."
 "Jeder, der ein Hebopfer an Silber und Erz hob, brachte das Hebopfer Jehovas; und jeder, bei dem sich Akazienholz fand zu allerlei Werk der Arbeit, brachte es."
 "Und alle Weiber, die weisen Herzens waren, spannen mit ihren Händen und brachten das Gespinst
@@ -32,4 +32,4 @@
 "und zwar um Künstliches zu ersinnen, zu arbeiten in Gold und in Silber und in Erz,"
 "und im Schneiden von Steinen zum Einsetzen und im Holzschneiden, um zu arbeiten in jeglichem Kunstwerk;"
 "und zu unterweisen hat er ihm ins Herz gelegt, ihm und Oholiab, dem Sohne Achisamaks, vom Stamme Dan."
-"Er hat sie mit Weisheit des Herzens erfüllt, um jegliches Werk des Künstlers und des Kunstwebers und des Buntwirkers zu machen, in blauem und rotem Purpur und Karmesin und Byssus, und des Webers; derer, die allerlei Werk machen und Künstliches ersinnen."
+"Er hat sie mit Weisheit des Herzens erfüllt, um jegliches Werk des Künstlers und des Kunstwebers und des Buntwirkers zu machen, #in blauem und rotem Purpur und Karmesin und Byssus, und des Webers; derer, die allerlei Werk machen und Künstliches ersinnen."

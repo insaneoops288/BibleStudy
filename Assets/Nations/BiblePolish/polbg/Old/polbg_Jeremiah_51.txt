@@ -24,7 +24,7 @@
 "Ale już oddam Babilonowi, i wszystkim obywatelom Chaldejskim za wszystkie złości ich, które czynili Syonowi przed oczyma waszemi, mówi Pan."
 "Otom Ja jest przeciwko tobie, o góro każąca! mówi Pan, która kazisz wszystkę ziemię, i wyciągnę rękę moję przeciwko tobie, a zwalę cię z skał, i uczynię cię górą spalenia;"
 "A nie wezmą z ciebie kamienia do węgła, ani kamienia do gruntów; bo pustynią wieczną będziesz, mówi Pan."
-"Podnieście chorągiew w ziemi, trąbcie w trąbę między narodami, zgotujcie przeciwko niemu narody, zwołajcie przeciwko niemu królestwa Ararad, Minny, i Aschenas; postanówcie przeciwko niemu hetmana, przywiedźcie konie jako chrząszcze najeżone;"
+"Podnieście chorągiew w ziemi, trąbcie w trąbę między narodami, zgotujcie przeciwko niemu narody, zwołajcie przeciwko niemu #królestwa Ararad, Minny, i Aschenas; postanówcie przeciwko niemu hetmana, przywiedźcie konie jako chrząszcze najeżone;"
 "Zgotujcie przeciwko niemu narody, królów Medskich, książąt ich, i wszystkich hetmanów ich, ze wszystką ziemią władzy ich;"
 "Tedy zadrży ziemia, i rozboleje się, gdy wykonane będą przeciwko Babilonowi myśli Pańskie, aby obrócił ziemię Babilońską w pustynię, aby została bez obywatela."
 "Przestaną mocarze Babilońscy walczyć, usiądą w zamkach, ustanie męstwo ich, będą jako niewiasty; zapali mieszkania ich, pokruszone będą zawory ich."
@@ -56,7 +56,7 @@
 "Gdy nań, to jest na Babilon, pustoszyciel przyciągnie pojmani będą mocarze jego, pokruszone będą łuki ich; bo Bóg nagrody, Pan nagrodzi im sowicie;"
 "Opoi książąt jego i mędrców jego, wodzów jego, i urzędników jego, i mocarzy jego, aby zasnęli snem wiecznym, a nie ocucili, mówi król, Pan zastępów imię jego."
 "Tak mówi Pan zastępów
-"Toć jest słowo, które rozkazał Jeremijasz prorok Sarajaszowi, synowi Neryjasza, syna Maasejaszowego, gdy odszedł od Sedekijasza, króla Judzkiego, do Babilonu, roku czwartego królowania jego; (a Sarajasz był książęciem w Menucha.)"
+"Toć jest słowo, które rozkazał Jeremijasz prorok Sarajaszowi, synowi Neryjasza, syna Maasejaszowego, gdy odszedł od Sedekijasza, #króla Judzkiego, do Babilonu, roku czwartego królowania jego; (a Sarajasz był książęciem w Menucha.)"
 "Gdy zapisał Jeremijasz wszystko złe, które przyjść miało na Babilon, w księgi jedne, wszystkie te słowa, które są napisane przeciwko Babilonowi."
 "I rzekł Jeremijasz do Sarajasza
 "A rzeczesz

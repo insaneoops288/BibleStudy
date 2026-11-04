@@ -14,4 +14,4 @@
 "Szerze Salamon szekereket és lovagokat; és vala néki ezernégyszáz szekere és tizenkétezer lovagja, a kiket helyheztete a szekerek városaiba és Jeruzsálembe a király mellé."
 "És felhalmozá a király az ezüstöt és aranyat, mint a köveket, Jeruzsálemben; a czédrusfákat is felhalmozá, mint a vadfügefákat, melyek a lapályon nagy tömegben vannak."
 "És Salamonnak hoznak vala lovakat Égyiptomból; mert a király kereskedõi sereggel vették volt meg a lovakat szabott áron."
-"És mikor feljõnek vala, hozának Égyiptomból egy szekeret hatszáz ezüst [siklusért,] egy-egy lovat százötven ezüst [siklusért;] és ugyan csak õk szállították ezeket a Hitteusok minden királyainak és Siria királyainak."
+"És mikor feljõnek vala, hozának Égyiptomból egy szekeret hatszáz ezüst [siklusért,] egy-egy lovat százötven ezüst #[siklusért;] és ugyan csak õk szállították ezeket a Hitteusok minden királyainak és Siria királyainak."

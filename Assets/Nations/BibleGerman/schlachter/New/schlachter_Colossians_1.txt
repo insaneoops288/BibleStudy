@@ -6,7 +6,7 @@
 "das bei euch ist, wie auch in aller Welt, und Frucht trägt und wächst, wie auch bei euch, von dem Tage an, da ihr von der Gnade Gottes gehört und sie in Wahrheit erkannt habt;"
 "wie ihr[es] ja gelernt habt von Epaphras, unsrem geliebten Mitknecht, welcher ein treuer Diener Christi für euch ist,"
 "der uns auch eure Liebe im Geist kundgetan hat."
-"Weshalb wir auch von dem Tage an, da wir es vernommen haben, nicht aufhören, für euch zu beten und zu bitten, daß ihr erfüllt werdet mit der Erkenntnis Seines Willens in aller geistlichen Weisheit und Einsicht,"
+"Weshalb wir auch von dem Tage an, da wir es vernommen haben, nicht aufhören, für euch zu beten und #zu bitten, daß ihr erfüllt werdet mit der Erkenntnis Seines Willens in aller geistlichen Weisheit und Einsicht,"
 "damit ihr des Herrn würdig wandelt zu allem Wohlgefallen
 "mit aller Kraft gestärkt nach der Macht seiner Herrlichkeit zu aller Standhaftigkeit und Geduld, mit Freuden,"
 "dankbar dem Vater, der uns tüchtig gemacht hat zum Anteil am Erbe der Heiligen im Licht,"
@@ -20,7 +20,7 @@
 "und alles durch ihn versöhnt würde zu ihm selbst(dadurch daß er Frieden machte durch das Blut seines Kreuzes) durch ihn, sowohl was im Himmel, als auch was auf Erden ist."
 "Und euch, die ihr einst entfremdet und feindlich gesinnt waret in den bösen Werken, hat er aber nun versöhnt in dem Leibe seines Fleisches durch den Tod,"
 "um euch heilig und tadellos und unverklagbar darzustellen vor seinem Angesicht,"
-"wenn ihr nämlich im Glauben gegründet und fest bleibet und euch nicht abbringen lasset von der Hoffnung des Evangeliums, das ihr gehört habt, welches in der ganzen Schöpfung unter dem Himmel gepredigt wird, dessen Diener ich, Paulus, geworden bin."
+"wenn ihr nämlich im Glauben gegründet und fest bleibet und euch nicht abbringen lasset von der Hoffnung des Evangeliums, das #ihr gehört habt, welches in der ganzen Schöpfung unter dem Himmel gepredigt wird, dessen Diener ich, Paulus, geworden bin."
 "Nun freue ich mich in den Leiden für euch und erdulde stellvertretend an meinem Fleisch, was noch fehlte an den Trübsalen Christi für seinen Leib, welcher ist die Gemeinde,"
 "deren Diener ich geworden bin gemäß dem Verwalteramt Gottes, das mir für euch gegeben worden ist, daß ich das Wort Gottes voll ausrichten soll,"
 "[ nämlich] das Geheimnis, das vor den Zeitaltern und Geschlechtern verborgen war, nun aber seinen Heiligen geoffenbart worden ist,"

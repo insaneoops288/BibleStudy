@@ -3,7 +3,7 @@
 "Ale nikt w niebie ani na ziemi, ani pod ziemią nie mógł otworzyć księgi ani do niej zajrzeć."
 "I bardzo płakałem, że nie znalazł się nikt godny, aby otworzyć i czytać księgę, i do niej zajrzeć."
 "Wtedy jeden ze starszych powiedział do mnie
-"I zobaczyłem, a oto między tronem i czterema stworzeniami, i między starszymi stał Baranek jakby zabity, który miał siedem rogów i siedmioro oczu, które są siedmioma Duchami Boga posłanymi na całą ziemię."
+"I zobaczyłem, a oto między tronem i czterema stworzeniami, i między starszymi stał Baranek jakby zabity, który #miał siedem rogów i siedmioro oczu, które są siedmioma Duchami Boga posłanymi na całą ziemię."
 "Wtedy on podszedł i wziął księgę z prawej ręki zasiadającego na tronie."
 "A gdy wziął księgę, cztery stworzenia i dwudziestu czterech starszych upadło przed Barankiem, a każdy z nich miał harfę i złote czasze pełne wonności, którymi są modlitwy świętych."
 "I śpiewali nową pieśń

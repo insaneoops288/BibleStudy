@@ -4,7 +4,7 @@
 "Y Moisés alisó dos tablas de piedra como las primeras; y levantóse por la mañana, y subió al monte de Sinaí, como le mandó Jehová, y llevó en su mano las dos tablas de piedra."
 "Y Jehová descendió en la nube, y estuvo allí con él, proclamando el nombre de Jehová."
 "Y pasando Jehová por delante de él, proclamó
-"Que guarda la misericordia en millares, que perdona la iniquidad, la rebelión, y el pecado, y que de ningún modo justificará al malvado; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, sobre los terceros, y sobre los"
+"Que guarda la misericordia en millares, que perdona la iniquidad, la rebelión, y el pecado, y que de ningún modo justificará al malvado; que #visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, sobre los terceros, y sobre los"
 "Entonces Moisés, apresurándose, bajó la cabeza hacia el suelo y encorvóse;"
 "Y dijo
 "Y él dijo
@@ -26,7 +26,7 @@
 "La primicia de los primeros frutos de tu tierra meterás en la casa de Jehová tu Dios. No cocerás el cabrito en la leche de su madre."
 "Y Jehová dijo á Moisés
 "Y él estuvo allí con Jehová cuarenta días y cuarenta noches
-"Y aconteció, que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía del monte, no sabía él que la tez de su rostro resplandecía, después que hubo con El hablado."
+"Y aconteció, que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía #del monte, no sabía él que la tez de su rostro resplandecía, después que hubo con El hablado."
 "Y miró Aarón y todos los hijos de Israel á Moisés, y he aquí la tez de su rostro era resplandeciente; y tuvieron miedo de llegarse á él."
 "Y llamólos Moisés; y Aarón y todos los príncipes de la congregación volvieron á él, y Moisés les habló."
 "Y después se llegaron todos los hijos de Israel, á los cuales mandó todas las cosas que Jehová le había dicho en el monte de Sinaí."

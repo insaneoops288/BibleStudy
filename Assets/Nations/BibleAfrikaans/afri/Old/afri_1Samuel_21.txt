@@ -3,7 +3,7 @@
 "Maar nou, wat is hier by u? Gee vyf brode in my hand, of wat beskikbaar is."
 "En die priester het Dawid geantwoord en gesê
 "Toe antwoord Dawid die priester en sê vir hom
-"Toe gee die priester hom die heilige brood, want daar was geen ander brood nie, behalwe die toonbrode wat voor die aangesig van die HERE weggeneem word, om vars brood neer te sit op die dag as dit weggeneem word."
+"Toe gee die priester hom die heilige brood, want daar was geen ander brood nie, behalwe die toonbrode wat voor die #aangesig van die HERE weggeneem word, om vars brood neer te sit op die dag as dit weggeneem word."
 "Maar daar was 'n man uit die dienaars van Saul wat dieselfde dag opgesluit was voor die aangesig van die HERE, en sy naam was Doëg, die Edomiet, die opsigter oor die veewagters van Saul."
 "En Dawid sê vir Ahiméleg
 "Toe sê die priester

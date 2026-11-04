@@ -18,7 +18,7 @@
 "Ale ci ludzie się wystraszyli, bo zostali zaprowadzeni do domu Jozefa, więc powiedzieli
 "Zatem przystąpili do tego męża, który był przełożonym nad domem Josefa i u wejścia do domu zagadnęli go,"
 "mówiąc
-"A gdy przybyliśmy do gospody oraz rozwiązaliśmy nasze toboły, stało się, że oto pieniądze każdego były u otworu jego tobołu; nasze pieniądze według ich wagi. Zatem przywieźliśmy je z powrotem w naszych rękach."
+"A gdy przybyliśmy do gospody oraz rozwiązaliśmy nasze toboły, stało się, że oto pieniądze każdego były u #otworu jego tobołu; nasze pieniądze według ich wagi. Zatem przywieźliśmy je z powrotem w naszych rękach."
 "Także przynieśliśmy w naszych rękach inne pieniądze w celu zakupienia żywności. Nie wiemy kto włożył nasze pieniądze do naszych tobołów."
 "Ale on powiedział
 "Nadto ów mąż wprowadził tych ludzi do domu Josefa, podał wody, zatem umyli swoje nogi. Dał także obrok ich osłom."

@@ -5,10 +5,10 @@
 "At ang luklukan ay matatatag sa kagandahang-loob, at isa'y uupo roon sa katotohanan, sa tabernakulo ni David; na humahatol at humahanap ng kahatulan, at nagmamadaling nagsasagawa ng katuwiran."
 "Aming nabalitaan ang kapalaluan ng Moab, na siya'y totoong palalo; ang kaniyang kahambugan, at ang kaniyang kapalaluan, at ang kaniyang poot, ang kaniyang paghahambog ay nauuwi sa wala."
 "Kaya't aangal ang Moab dahil sa Moab, bawa't isa'y aangal
-"Sapagka't ang mga bukid ng Hesbon ay nanghihina, at ang ubasan ng Sibma; sinira ng mga mahal na tao ng mga bansa ang mga piling pananim niyaon; sila'y nagsisapit hanggang sa Jazer, sila'y nagsilaboy sa ilang; ang kaniyang mga sanga ay nangalaladlad, sila'y nagsitawid sa dagat."
+"Sapagka't ang mga bukid ng Hesbon ay nanghihina, at ang ubasan ng Sibma; sinira ng mga mahal na tao ng mga bansa ang mga #piling pananim niyaon; sila'y nagsisapit hanggang sa Jazer, sila'y nagsilaboy sa ilang; ang kaniyang mga sanga ay nangalaladlad, sila'y nagsitawid sa dagat."
 "Kaya't iiyak ako ng iyak ng Jazer dahil sa puno ng ubas ng Sibma
 "At ang kasayahan ay naalis, at ang kagalakan sa mainam na bukid; at sa mga ubasan ay hindi magkakaroon ng mga awitan, o masayang kaingay man
 "Kaya't ang aking tiyan ay tumutunog na parang alpa dahil sa Moab, at ang aking mga lamang-loob dahil sa Kir-hares."
 "At mangyayari, pagka ang Moab ay humarap, pagka siya'y napagod sa mataas na dako, at paroroon sa kaniyang santuario upang dumalangin, ay hindi siya mananaig."
 "Ito ang salita na sinalita ng Panginoon tungkol sa Moab sa panahong nakaraan."
-"Nguni't ngayo'y nagsalita ang Panginoon, na nagsasabi, Sa loob ng tatlong taon, na gaya ng mga taon ng isang upahan, ay mawawalang kabuluhan ang kaluwalhatian ng Moab sangpu ng lahat niyang karamihan; at ang nalabi ay mangangaunti at walang halaga."
+"Nguni't ngayo'y nagsalita ang Panginoon, na nagsasabi, Sa loob ng tatlong taon, na gaya ng mga taon ng isang upahan, ay #mawawalang kabuluhan ang kaluwalhatian ng Moab sangpu ng lahat niyang karamihan; at ang nalabi ay mangangaunti at walang halaga."

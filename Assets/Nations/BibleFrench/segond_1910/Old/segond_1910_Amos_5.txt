@@ -8,7 +8,7 @@
 "Il a créé les Pléiades et l'Orion, Il change les ténèbres en aurore, Il obscurcit le jour pour en faire la nuit, Il appelle les eaux de la mer, Et les répand à la surface de la terre
 "Il fait lever la ruine sur les puissants, Et la ruine vient sur les forteresses."
 "Ils haïssent celui qui les reprend à la porte, Et ils ont en horreur celui qui parle sincèrement."
-"Aussi, parce que vous avez foulé le misérable, Et que vous avez pris de lui du blé en présent, Vous avez bâti des maisons en pierres de taille, Mais vous ne les habiterez pas; Vous avez planté d'excellentes vignes, Mais vous n'en boirez pas le vin."
+"Aussi, parce que vous avez foulé le misérable, Et que vous avez pris de lui du blé en présent, Vous avez bâti des maisons #en pierres de taille, Mais vous ne les habiterez pas; Vous avez planté d'excellentes vignes, Mais vous n'en boirez pas le vin."
 "Car, je le sais, vos crimes sont nombreux, Vos péchés se sont multipliés; Vous opprimez le juste, vous recevez des présents, Et vous violez à la porte le droit des pauvres."
 "Voilà pourquoi, en des temps comme ceux-ci, le sage se tait; Car ces temps sont mauvais."
 "Recherchez le bien et non le mal, afin que vous viviez, Et qu'ainsi l'Eternel, le Dieu des armées, soit avec vous, Comme vous le dites."

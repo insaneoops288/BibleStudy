@@ -1,4 +1,4 @@
-"Então se levantou Eliasib, o sumo sacerdote, juntamente com os seus irmãos, os sacerdotes, e edificaram a porta das ovelhas, a qual consagraram, e lhe assentaram os batentes. Consagraram-na até a torre dos cem, até a torre de Hananiel."
+"Então se levantou Eliasib, o sumo sacerdote, juntamente com os seus irmãos, os sacerdotes, e edificaram a porta das ovelhas, #a qual consagraram, e lhe assentaram os batentes. Consagraram-na até a torre dos cem, até a torre de Hananiel."
 "E junto a ele edificaram os homens de Jericó; também ao lado destes edificou Zacur, o filho de Omeri."
 "Os filhos de Hassenaá edificaram a porta dos peixes, colocaram-lhe as vigas, e lhe assentaram os batentes, com seus ferrolhos e trancas."
 "Ao seu lado fez os reparos Meremot, filho de Urias, filho de Hacós; ao seu lado Mechulam, filho de Baraquias, filho de Mechezabel; ao seu lado Sadoc, filho de Baana;"
@@ -12,7 +12,7 @@
 "e ao seu lado Salum, filho de Haloés, governador da outra metade do distrito de Jerusalém, ele e as suas filhas."
 "A porta do vale, repararam-na Hanun e os moradores de Zanoa; estes a edificaram, e lhe assentaram os batentes, com seus ferrolhos e trancas, como também mil côvados de muro até a porto do monturo."
 "A porta do monturo, reparou-a Malquias, filho de Recab, governador do distrito Bet-Acarem; este a edificou, e lhe assentou os batentes com seus ferrolhos e trancas."
-"A porta da fonte, reparou-a Salum, filho de Col-Hozé, governador do distrito de Mispá; edificou-a e a cobriu, e lhe assentou os batentes, com seus ferrolhos e trancas; edificou também o muro da piscina de Selá, do jardim do rei, até os degraus que descem da cidade de David."
+"A porta da fonte, reparou-a Salum, filho de Col-Hozé, governador do distrito de Mispá; edificou-a e a cobriu, e lhe assentou os batentes, com seus #ferrolhos e trancas; edificou também o muro da piscina de Selá, do jardim do rei, até os degraus que descem da cidade de David."
 "Depois dele Neemias, filho de Azebuc, governador da metade do distrito de Bet-Sur, fez os reparos até defronte dos sepulcros de David, até a piscina artificial, e até a casa dos homens poderosos."
 "Depois dele fizeram os reparos os levitas
 "depois dele seus irmãos, Bavai, filho de Henadad, governador da outra metade do distrito de Queila."

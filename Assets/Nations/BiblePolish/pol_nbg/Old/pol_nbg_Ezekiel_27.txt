@@ -24,7 +24,7 @@
 "Oni handlowali z tobą na twoim targowisku
 "Okręty Tarszyszu stanowiły karawany dla twych towarów; i tak się wzbogaciłeś oraz wielce wsławiłeś pośród mórz."
 "Twoi żeglarze wyprowadzili cię na wielkie wody, lecz wschodni wicher rozbił cię w środku mórz."
-"W dzień twojego upadku runą w środek morza twe bogactwa, twój zbyt, twe towary, majtkowie i twoi sternicy, naprawiacze twoich uszkodzeń oraz wszyscy twoi wojownicy, którzy są w tobie, wraz z całym tłumem żyjącym pośród ciebie."
+"W dzień twojego upadku runą w środek morza twe bogactwa, twój zbyt, twe towary, majtkowie i twoi sternicy, naprawiacze #twoich uszkodzeń oraz wszyscy twoi wojownicy, którzy są w tobie, wraz z całym tłumem żyjącym pośród ciebie."
 "Na głośny okrzyk twych sterników zadrżą przyległe okolice."
 "Zejdą ze swych okrętów wszyscy, którzy trzymają wiosła, majtkowie i wszyscy morscy sternicy; oni zejdą na ląd."
 "Będą zawodzić nad tobą wielkim głosem, gorzko narzekać, sypać proch na swoje głowy i tarzać się w popiele."

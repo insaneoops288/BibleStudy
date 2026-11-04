@@ -20,7 +20,7 @@
 "Také o Izmaele uslyšel jsem tě; a aj, požehnám jemu, a učiním to, aby se rozplodil, a rozmnožím ho náramně velmi; dvanáctero knížat zplodí, a rozšířím jej v národ veliký."
 "Ale smlouvu svou utvrdím s Izákem, kteréhožť porodí Sára po roce, při tomto času."
 "A když dokonal Bůh řeč svou s ním, vstoupil od Abrahama."
-"Vzal tedy Abraham Izmaele syna svého, i všecky zrozené v domě svém, i všecky koupené za stříbro své, každého, kdož byl pohlaví mužského, z domácích svých, a obřezal tělo neobřízky jejich hned v ten den, jakž s ním Bůh mluvil."
+"Vzal tedy Abraham Izmaele syna svého, i všecky zrozené v domě svém, i všecky koupené za stříbro své, každého, kdož byl #pohlaví mužského, z domácích svých, a obřezal tělo neobřízky jejich hned v ten den, jakž s ním Bůh mluvil."
 "A byl Abraham v devadesáti devíti letech, když obřezáno bylo tělo neobřízky jeho."
 "Izmael pak syn jeho byl v třinácti letech, když obřezáno bylo tělo neobřízky jeho."
 "Jednoho a téhož dne obřezáni jsou, Abraham a Izmael syn jeho."

@@ -6,11 +6,11 @@
 "Und es geschah nach Verfluß von vierzig Tagen, daß Noah das Fensteröffnete an der Arche, das er gemacht hatte."
 "Und er sandte den Raben aus; der flog hin und her, bis das Wasser auf Erden vertrocknet war."
 "Darnach sandte er die Taube aus, daß er sähe, ob des Wassers auf Erden weniger geworden wäre."
-"Aber die Taube fand keinen Ort, da ihr Fuß ruhen konnte. Da kehrte sie zu ihm zur Arche zurück; denn es war noch Wasser auf der ganzen Erdoberfläche. Da streckte er seine Hand aus und ergriff sie und nahm sie wieder zu sich in die Arche."
+"Aber die Taube fand keinen Ort, da ihr Fuß ruhen konnte. Da kehrte sie zu ihm zur Arche zurück; denn es war noch Wasser #auf der ganzen Erdoberfläche. Da streckte er seine Hand aus und ergriff sie und nahm sie wieder zu sich in die Arche."
 "Und er wartete noch weitere sieben Tage; dann sandte er die Taube wieder von der Arche aus."
 "Und die Taube kam zur Abendzeit wieder zu ihm und siehe, sie hatte ein frischesÖlblatt in ihrem Schnabel! Da merkte Noah, daß des Wassers auf Erden weniger geworden war."
 "Und nachdem er noch weitere sieben Tage gewartet hatte, sandte er die Taube wieder aus; da kam sie nicht mehr zu ihm zurück."
-"Im sechshundertundersten Jahre, am ersten Tage des ersten Monats, waren die Wasser auf Erden vertrocknet. Und Noah entfernte das Dach von der Arche und schaute, und siehe, der Erdboden war trocken!"
+"Im sechshundertundersten Jahre, am ersten Tage des ersten Monats, waren die Wasser auf Erden vertrocknet. Und #Noah entfernte das Dach von der Arche und schaute, und siehe, der Erdboden war trocken!"
 "Und im zweiten Monat, am siebenundzwanzigsten Tage des Monats, war die Erde ausgetrocknet."
 "Da redete Gott zu Noah und sprach
 "Geh aus der Arche, du und dein Weib und deine Söhne und deiner Söhne Weiber mit dir!"

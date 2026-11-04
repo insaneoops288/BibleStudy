@@ -8,7 +8,7 @@
 "Prandaj ata që janë në mish nuk mund t'i pëlqejnë Perëndisë."
 "Nëse Fryma e Perëndisë banon në ju, ju nuk jeni më në mish, por në Frymë. Por në qoftë se ndokush nuk ka Frymën e Krishtit, ai nuk i përket atij."
 "Nëse Krishti është në ju, trupi pa tjetër është i vdekur për shkak të mëkatit, por Fryma është jetë për shkak të drejtësisë."
-"Dhe në qoftë se Fryma i atij që ringjalli Krishtin prej së vdekurish banon në ju, ai që e ringjalli Krishtin prej së vdekurish do t'u japë jetë edhe trupave tuaj vdekatarë me anë të Frymës së tij që banon në ju."
+"Dhe në qoftë se Fryma i atij që ringjalli Krishtin prej së vdekurish banon në ju, ai që e ringjalli Krishtin prej #së vdekurish do t'u japë jetë edhe trupave tuaj vdekatarë me anë të Frymës së tij që banon në ju."
 "Prandaj, vëllezër, ne jemi debitorë jo të mishit, që të rrojmë sipas mishit,"
 "sepse, po të rroni sipas mishit, ju do të vdisni; por, nëse me anë të Frymës i bëni të vdesin veprat e trupit, ju do të rroni."
 "Sepse të gjithë ata që udhëhiqen nga Fryma e Perëndisë janë bij të Perëndisë."

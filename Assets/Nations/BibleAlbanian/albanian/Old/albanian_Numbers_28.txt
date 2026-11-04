@@ -21,7 +21,7 @@
 "Do të ofroni një të dhjetë për secilin nga shtatë qengjat,"
 "dhe do të ofroni një cjap si flijim për mëkatin, për të bërë shlyerjen për ju."
 "Do të ofroni këto flijime përveç olokaustit të mëngjesit, që është një olokaust i përjetshëm."
-"Kështu do të ofroni çdo ditë, për shtatë ditë me radhë, ushqimin e flijimit të përgatitur me zjarr, me një erë të këndshme për Zotin. Do të ofrohet, përveç olokaustit të përjetshëm, bashkë me blatimin e tij."
+"Kështu do të ofroni çdo ditë, për shtatë ditë me radhë, ushqimin e flijimit të përgatitur me zjarr, me #një erë të këndshme për Zotin. Do të ofrohet, përveç olokaustit të përjetshëm, bashkë me blatimin e tij."
 "Ditën e shtatë do të keni një mbledhje të shenjtë; nuk do të bëni asnjë punë të rëndë."
 "Ditën e marrjes së prodhimit të parë, kur do t'i paraqisni Zotit një blatim të ri ushqimor, në festën tuaj të javëve, do bëni një mbledhje të shenjtë; nuk do të kryeni asnjë punë të rëndë."
 "Atëherë do të ofroni si olokaust me erë të këndshme për Zotin dy dema të vegjël, një dash dhe shtatë qengja motakë,"

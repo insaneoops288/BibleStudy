@@ -8,10 +8,10 @@
 "Mert a kamarák hosszúsága, melyek a külsõ pitvar felé valának, ötven sing vala, és ímé, a szenthely ellenében száz sing vala."
 "És e kamarák alatt vala a bejáró hely napkelet felõl, ha beléjök a külsõ pitvarból méne valaki."
 "A pitvar falának szélességében dél felé az elkülönített hely és az épület elõtt is kamarák valának."
-"És egy út vala elõttök, melyek hasonlatosak valának a kamarákhoz, melyek északra valának, olyan hosszúságúak és olyan szélességûek, mint ezek, és minden kijárásuk és elrendezésök olyan vala, mint ezeké. És valamint amazoknak ajtói,"
+"És egy út vala elõttök, melyek hasonlatosak valának a kamarákhoz, melyek északra valának, olyan hosszúságúak és olyan #szélességûek, mint ezek, és minden kijárásuk és elrendezésök olyan vala, mint ezeké. És valamint amazoknak ajtói,"
 "Akképen valának azoknak a kamaráknak ajtói is, melyek dél felé valának
 "És monda nékem
-"Mikor bemennek oda a papok, ki ne jõjjenek a szent helyrõl a külsõ pitvarba, hanem ott rakják le ruháikat, melyekben szolgáltak; mert szentek ezek, és más ruhába öltözzenek, úgy közeledjenek a nép helyéhez."
+"Mikor bemennek oda a papok, ki ne jõjjenek a szent helyrõl a külsõ pitvarba, hanem ott rakják #le ruháikat, melyekben szolgáltak; mert szentek ezek, és más ruhába öltözzenek, úgy közeledjenek a nép helyéhez."
 "És mikor a belsõ háznak méréseit véghezvitte, kivitt engem a napkelet felõl való kapu útján, és megméré azt köröskörül."
 "Méré a keleti oldalt a mérõpálczával ötszáz singnyire, a mérõpálczával. [És] megfordula, [és"
 "Méré az északi oldalt ötszáz singnyire a mérõpálczával. [És ]megfordula,"

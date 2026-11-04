@@ -36,5 +36,5 @@
 "E oferecereis em holocausto, em oferta acesa de cheiro suave ao SENHOR, um novilho, um carneiro, sete cordeiros de ano sem defeito;"
 "Suas ofertas de cereais e suas libações com o novilho, com o carneiro, e com os cordeiros, segundo o número deles, conforme a lei;"
 "E um bode macho por expiação
-"Estas coisas oferecereis ao SENHOR em vossas solenidades, além de vossos votos, e de vossas ofertas livres, para vossos holocaustos, e para vossas ofertas de cereais, e para vossas libações e para vossas ofertas pacíficas."
+"Estas coisas oferecereis ao SENHOR em vossas solenidades, além de vossos votos, e de vossas ofertas livres, para #vossos holocaustos, e para vossas ofertas de cereais, e para vossas libações e para vossas ofertas pacíficas."
 "E Moisés disse aos filhos de Israel, conforme tudo o que o SENHOR lhe havia mandado."

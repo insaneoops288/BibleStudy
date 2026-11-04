@@ -42,4 +42,4 @@
 "Și pe când vorbea, îndată lepra s-a depărtat de la el și a fost curățit."
 "Și i-a poruncit cu strictețe și îndată l-a trimis de acolo;"
 "Și i-a spus
-"Dar el a ieșit și a început să vestească mult și să răspândească acest lucru, atât de mult încât Isus nu mai putea să intre pe față în cetate, ci era afară în locuri pustii; și veneau la el din toate părțile."
+"Dar el a ieșit și a început să vestească mult și să răspândească acest lucru, atât de mult încât Isus nu mai #putea să intre pe față în cetate, ci era afară în locuri pustii; și veneau la el din toate părțile."

@@ -11,7 +11,7 @@
 "Więc powiedziała
 "Wtedy kobieta powiedziała
 "A kobieta powiedziała
-"Bo, zaiste, musimy umierać i jesteśmy jak po ziemi rozlana woda, której nie można już zebrać. Czy sędzia nie miałby sobie życzyć oraz obmyślać sposobów, by wygnaniec nie był nadal od niego wygnany?"
+"Bo, zaiste, musimy umierać i jesteśmy jak po ziemi rozlana woda, której nie można już zebrać. Czy #sędzia nie miałby sobie życzyć oraz obmyślać sposobów, by wygnaniec nie był nadal od niego wygnany?"
 "A jeśli teraz przybyłam, by przemówić w tej sprawie do króla, mojego pana – to dlatego, że mnie zatrwożył lud. Zatem twa służebnica pomyślała
 "Ponieważ król wysłucha i wyratuje swą służebnicę z ręki męża, co chce mnie zgładzić z Bożego dziedzictwa, razem z moim synem."
 "I twoja służebnica pomyślała
@@ -23,7 +23,7 @@
 "Zatem Joab wyruszył, udał się do Geszuru oraz sprowadził Absaloma do Jeruszalaim."
 "Jednak król oświadczył
 "Zaś w całym Israelu nie było męża równie pięknego jak Absalom; tak, żeby go równie wysoko można chwalić; od stopy aż do ciemienia nie było na nim wady."
-"A gdy strzygł włosy swojej głowy – a zwykł je strzyc po upływie każdego roku, ponieważ mu bardzo ciążyły i musiał je strzyc – wtedy włosy jego głowy ważyły dwieście szekli, według królewskiej wagi."
+"A gdy strzygł włosy swojej głowy – a zwykł je strzyc po upływie każdego roku, ponieważ mu bardzo #ciążyły i musiał je strzyc – wtedy włosy jego głowy ważyły dwieście szekli, według królewskiej wagi."
 "Temu Absalomowi urodzili się trzej synowie i jedna córka imieniem Tamara; a była to niewiasta urodziwa na spojrzenie."
 "Tak Absalom zamieszkał w Jeruszalaim na dwa lata, nie widząc królewskiego oblicza."
 "Jednak potem Absalom posłał po Joaba, aby go wyprawić do króla; ten jednak wzbraniał się przyjść do niego. Więc posłał po raz drugi, lecz znowu wzbraniał się przyjść."

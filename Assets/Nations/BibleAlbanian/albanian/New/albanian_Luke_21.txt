@@ -9,7 +9,7 @@
 "Dhe kur të dëgjoni të flitet për luftëra e për trazira, mos u trembni, sepse të gjitha këto duhet të ndodhin më parë, por mbarimi nuk do të vijë menjëherë''."
 "Atëherë u tha atyre
 "do të ngjajnë tërmete të mëdha, zi buke dhe murtaja në vende të ndryshme; do të ndodhin edhe dukuri të llahtarshme dhe shenja të mëdha nga qielli."
-"Por, para të gjitha këtyre gjërave, do të vënë dorë mbi ju dhe do t'ju përndjekin dhe do t'ju dorëzojnë në sinagoga e do t'ju futin në burg; dhe do t'ju nxjerrin përpara mbretërve dhe guvernatorëve për shkak të emrit tim,"
+"Por, para të gjitha këtyre gjërave, do të vënë dorë mbi ju dhe do t'ju përndjekin dhe do t'ju dorëzojnë në #sinagoga e do t'ju futin në burg; dhe do t'ju nxjerrin përpara mbretërve dhe guvernatorëve për shkak të emrit tim,"
 "por kjo do t'ju japë rastin që të dëshmoni."
 "Ta vini, pra, në zemrën tuaj që të mos mendoni më parë se si do përgjigjeni për t'u mbrojtur,"
 "sepse unë do t'ju jap një gojë e një dituri të tillë të cilën të gjithë kundërshtarët tuaj nuk do të jenë në gjendje ta kundërshtojnë ose t'i rezistojnë."

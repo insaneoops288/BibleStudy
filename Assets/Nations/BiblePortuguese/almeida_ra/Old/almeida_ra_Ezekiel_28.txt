@@ -13,9 +13,9 @@
 "Estiveste no Éden, jardim de Deus; cobrias-te de toda pedra preciosa
 "Eu te coloquei com o querubim da guarda; estiveste sobre o monte santo de Deus; andaste no meio das pedras afogueadas."
 "Perfeito eras nos teus caminhos, desde o dia em que foste criado, até que em ti se achou iniquidade."
-"Pela abundância do teu comércio o teu coração se encheu de violência, e pecaste; pelo que te lancei, profanado, fora do monte de Deus, e o querubim da guarda te expulsou do meio das pedras afogueadas."
+"Pela abundância do teu comércio o teu coração se encheu de violência, e pecaste; pelo que te lancei, profanado, #fora do monte de Deus, e o querubim da guarda te expulsou do meio das pedras afogueadas."
 "Elevou-se o teu coração por causa da tua formosura, corrompeste a tua sabedoria por causa do teu resplendor; por terra te lancei; diante dos reis te pus, para que te contemplem."
-"Pela multidão das tuas iniquidades, na injustiça do teu comércio, profanaste os teus santuários; eu, pois, fiz sair do meio de ti um fogo, que te consumiu a ti, e te tornei em cinza sobre a terra, à vista de todos os que te contemplavam."
+"Pela multidão das tuas iniquidades, na injustiça do teu comércio, profanaste os teus santuários; eu, pois, fiz sair do meio de ti um #fogo, que te consumiu a ti, e te tornei em cinza sobre a terra, à vista de todos os que te contemplavam."
 "Todos os que te conhecem entre os povos estão espantados de ti; chegaste a um fim horrível, e não mais existirás, por todo o sempre."
 "Novamente veio a mim a palavra do Senhor, dizendo
 "Filho do homem, dirige o teu rosto para Sídon, e profetiza contra ela,"
@@ -23,4 +23,4 @@
 "Pois lhe enviarei peste e sangue nas suas ruas; e os traspassados cairão no meio dela, estando a espada contra ela por todos os lados; e saberão que eu sou o Senhor."
 "E a casa de Israel nunca mais terá espinho que a fira, nem abrolho que lhe cause dor, entre os que se acham ao redor deles e que os desprezam; e saberão que eu sou o Senhor Deus."
 "Assim diz o Senhor Deus
-"E habitarão nela seguros; sim, edificarão casas, e plantarão vinhas, e habitarão seguros, quando eu executar juízos contra todos os que estão ao seu redor e que os desprezam; e saberão que eu sou o Senhor seu Deus."
+"E habitarão nela seguros; sim, edificarão casas, e plantarão vinhas, e habitarão seguros, quando eu executar juízos contra todos os #que estão ao seu redor e que os desprezam; e saberão que eu sou o Senhor seu Deus."

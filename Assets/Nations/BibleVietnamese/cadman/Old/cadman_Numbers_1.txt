@@ -17,7 +17,7 @@
 "Vậy, Môi-se và A-rôn nhận lấy các người ấy mà đã được xướng tên;"
 "đến ngày mồng một tháng hai, truyền nhóm cả hội chúng, cứ kể tên từng người từ hai mươi tuổi sắp lên mà nhập sổ theo họ hàng và tông tộc của họ."
 "Vậy, Môi-se kê sổ chúng nó tại đồng vắng Si-na -i, y như Ðức Giê-hô-va đã phán dặn."
-"Con cháu Ru-bên, là trưởng nam của Y-sơ-ra-ên, dòng dõi họ tùy theo họ hàng và tông tộc mình, cứ kể từng tên của hết thảy nam đinh từ hai mươi tuổi sắp lên, tức là mọi người trong chi phái Ru-bên đi ra trận được,"
+"Con cháu Ru-bên, là trưởng nam của Y-sơ-ra-ên, dòng dõi họ tùy theo họ hàng và tông tộc mình, cứ kể từng tên của #hết thảy nam đinh từ hai mươi tuổi sắp lên, tức là mọi người trong chi phái Ru-bên đi ra trận được,"
 "số là bốn mươi sáu ngàn năm trăm."
 "Con cháu Si-mê-ôn, dòng dõi họ tùy theo họ hàng và tông tộc mình, cứ kể từng tên của hết thảy nam đinh từ hai mươi tuổi sắp lên, tức là mọi người trong chi phái Si-mê-ôn đi ra trận được,"
 "số là năm mươi chín ngàn ba trăm."
@@ -47,7 +47,7 @@
 "Nhưng người Lê-vi, theo chi phái tổ phụ mình, không kê sổ chung với những chi phái khác."
 "Vì Ðức Giê-hô-va có phán cùng Môi-se rằng
 "Ngươi chớ kê sổ chi phái Lê-vi, và cũng đừng dựng bộ họ chung với dân Y-sơ-ra-ên;"
-"nhưng hãy cắt phần người Lê-vi coi sóc đền tạm chứng cớ, hết thảy đồ đạc và các món thuộc về đền tạm. Ấy là người Lê-vi sẽ chuyên-vận đền tạm và hết thảy đồ đạc nó, cùng sẽ làm công việc về đền tạm và đóng trại ở chung quanh đền tạm."
+"nhưng hãy cắt phần người Lê-vi coi sóc đền tạm chứng cớ, hết thảy đồ đạc và các món thuộc về đền tạm. Ấy là người Lê-vi #sẽ chuyên-vận đền tạm và hết thảy đồ đạc nó, cùng sẽ làm công việc về đền tạm và đóng trại ở chung quanh đền tạm."
 "Khi nào đền tạm dời chỗ, thì người Lê-vi sẽ tháo dỡ nó; khi nào đền tạm dừng lại, thì họ sẽ dựng nó lên; còn người ngoại đến gần sẽ bị xử tử."
 "Dân Y-sơ-ra-ên mỗi người phải đóng ở trong trại quân mình, và mỗi trại quân, từng đội ngũ, phải đóng gần bên ngọn cờ mình."
 "Nhưng người Lê-vi sẽ đóng trại chung quanh đền tạm chứng cớ, để đừng có sự giận dữ cùng hội-dân Y-sơ-ra-ên; người Lê-vi sẽ coi sóc đền tạm chứng cớ."

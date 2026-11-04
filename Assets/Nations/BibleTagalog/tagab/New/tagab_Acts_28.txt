@@ -1,7 +1,7 @@
 "At nang kami'y mangakatakas na, nang magkagayo'y napagtalastas namin na ang pulo'y tinatawag na Melita."
 "At pinagpakitaan kami ng hindi karaniwang kagandahang-loob ng mga barbaro
 "Datapuwa't pagkapagtipon ni Pablo ng isang bigkis na kahoy at mailagay sa apoy, ay lumabas ang isang ulupong dahil sa init, at kumapit sa kaniyang kamay."
-"At nang makita ng mga barbaro ang makamandag na hayop na nakabitin sa kaniyang kamay, ay nagsabi ang isa sa iba, Walang salang mamamatay-tao ang taong ito, na, bagama't siya'y nakatakas sa dagat, gayon ma'y hindi siya pinabayaang mabuhay ng Katarungan."
+"At nang makita ng mga barbaro ang makamandag na hayop na nakabitin sa kaniyang kamay, ay nagsabi ang isa sa iba, #Walang salang mamamatay-tao ang taong ito, na, bagama't siya'y nakatakas sa dagat, gayon ma'y hindi siya pinabayaang mabuhay ng Katarungan."
 "Gayon ma'y ipinagpag niya ang hayop sa apoy, at siya'y hindi nasaktan."
 "Nguni't kanilang hinihintay na siya'y mamaga, o biglang mabuwal na patay
 "At sa mga kalapit ng dakong yao'y may mga lupain ang pangulo sa pulong yaon, na nagngangalang Publio; na tumanggap sa amin, at nagkupkop sa aming tatlong araw na may kagandahang-loob."
@@ -20,11 +20,11 @@
 "Sanhi sa dahilang ito tinawag ko kayo upang makipagkita at makipagusap sa akin
 "At sinabi nila sa kaniya, Kami'y hindi nagsitanggap ng mga sulat na galing sa Judea tungkol sa iyo, ni naparito man ang sinomang kapatid na magbalita o magsalita ng anomang masama tungkol sa iyo."
 "Datapuwa't ibig naming marinig sa iyo kung ano ang iyong iniisip
-"At nang mataningan na nila siya ng isang araw, ay nagsiparoon ang lubhang marami sa kaniyang tinutuluyan; at sa kanila'y kaniyang ipinaliwanag ang bagay, na sinasaksihan ang kaharian ng Dios, at sila'y hinihikayat tungkol kay Jesus, sa pamamagitan ng kautusan ni Moises at gayon din sa pamamagitan ng mga propeta, buhat sa umaga hanggang sa gabi."
+"At nang mataningan na nila siya ng isang araw, ay nagsiparoon ang lubhang marami sa kaniyang tinutuluyan; at sa kanila'y kaniyang ipinaliwanag ang bagay, na sinasaksihan ang kaharian ng #Dios, at sila'y hinihikayat tungkol kay Jesus, sa pamamagitan ng kautusan ni Moises at gayon din sa pamamagitan ng mga propeta, buhat sa umaga hanggang sa gabi."
 "At ang mga iba'y nagsipaniwala sa mga bagay na sinabi, at ang mga iba'y hindi nagsipaniwala."
 "At nang sila'y hindi mangagkaisa, ay nangagsialis pagkasabi ni Pablo ng isang salita, Mabuti ang pagkasalita ng Espiritu Santo sa pamamagitan ng propeta Isaias sa inyong mga magulang,"
-"Na sinasabi, Pumaroon ka sa bayang ito, at sabihin mo, Sa pakikinig ay inyong mapapakinggan, at sa anomang paraa'y hindi ninyo mapaguunawa; At sa pagtingin ay inyong makikita, at sa anomang paraa'y hindi ninyo mamamalas
-"Sapagka't kumapal ang puso ng bayang ito, At mahirap na makarinig ang kanilang mga tainga, At kanilang ipinikit ang kanilang mga mata; Baka sila'y mangakakita ng kanilang mga mata, At mangakarinig ng kanilang mga tainga, At mangakaunawa ng kanilang puso, At muling mangagbalik-loob, At sila'y aking pagalingin."
+"Na sinasabi, Pumaroon ka sa bayang ito, at sabihin mo, Sa pakikinig ay inyong mapapakinggan, at sa anomang #paraa'y hindi ninyo mapaguunawa; At sa pagtingin ay inyong makikita, at sa anomang paraa'y hindi ninyo mamamalas
+"Sapagka't kumapal ang puso ng bayang ito, At mahirap na makarinig ang kanilang mga tainga, At kanilang ipinikit ang kanilang mga mata; Baka sila'y #mangakakita ng kanilang mga mata, At mangakarinig ng kanilang mga tainga, At mangakaunawa ng kanilang puso, At muling mangagbalik-loob, At sila'y aking pagalingin."
 "Maging hayag nawa sa inyo, na ang kaligtasang ito ng Dios ay ipinadala sa mga Gentil
 "At nang masabi na niya ang mga salitang ito'y nagsialis ang mga Judio, at sila-sila'y nangagtatalong mainam."
 "At tumahan si Pablo na dalawang taong ganap sa kaniyang tahanang inuupahan, at tinatanggap ang lahat ng sa kaniya'y nagsisipagsadya,"

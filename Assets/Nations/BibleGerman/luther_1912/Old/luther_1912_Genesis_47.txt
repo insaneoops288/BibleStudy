@@ -16,10 +16,10 @@
 "Joseph sprach
 "Da brachten sie Joseph ihr Vieh; und er gab ihnen Brot um ihre Pferde, Schafe, Rinder und Esel. Also ernährte er sie mit Brot das Jahr um all ihr Vieh."
 "Da das Jahr um war, kamen sie zu ihm im zweiten Jahr und sprachen zu ihm
-"Warum läßt du uns vor dir sterben und unser Feld? Kaufe uns und unser Land ums Brot, daß wir und unser Land leibeigen seien dem Pharao; gib uns Samen, daß wir leben und nicht sterben und das Feld nicht wüst werde."
+"Warum läßt du uns vor dir sterben und unser Feld? Kaufe uns und unser Land ums Brot, daß wir und unser #Land leibeigen seien dem Pharao; gib uns Samen, daß wir leben und nicht sterben und das Feld nicht wüst werde."
 "Also kaufte Joseph dem Pharao das ganzeÄgypten. Denn dieÄgypter verkauften ein jeglicher seinen Acker, denn die Teuerung war zu starküber sie. Und ward also das Land Pharao eigen."
 "Und er teilte das Volk aus in die Städte, von einem EndeÄgyptens bis ans andere."
-"Ausgenommen der Priester Feld. Das kaufte er nicht; denn es war von Pharao für die Priester verordnet, daß sie sich nähren sollten von dem Verordneten, das er ihnen gegeben hatte; darum brauchten sie ihr Feld nicht zu verkaufen."
+"Ausgenommen der Priester Feld. Das kaufte er nicht; denn es war von Pharao für die Priester verordnet, daß sie sich #nähren sollten von dem Verordneten, das er ihnen gegeben hatte; darum brauchten sie ihr Feld nicht zu verkaufen."
 "Da sprach Joseph zu dem Volk
 "Und von dem Getreide sollt ihr den Fünften geben; vier Teile sollen euer sein, zu besäen das Feld und zu eurer Speise und für euer Haus und eure Kinder.{~}{~}"
 "Sie sprachen

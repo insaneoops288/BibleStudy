@@ -17,7 +17,7 @@
 "Der HERR hat getan, wie er durch mich geredet hat, und der HERR hat das Reich deiner Hand entrissen und es David, deinem Nächsten, gegeben."
 "Weil du der Stimme des HERRN nicht gehorcht und den Grimm seines Zorns wider Amalek nicht vollstreckt hast, darum hat dir der HERR jetzt solches getan."
 "Dazu wird der HERR auch Israel und dich in die Hand der Philister geben; und morgen wirst du samt deinen Söhnen bei mir sein. Auch das Heer Israels wird der HERR in die Hand der Philister geben!"
-"Da fiel Saul plötzlich zu Boden, so lang und groß er war, denn er erschrak sehr ob den Worten Samuels, so daß keine Kraft mehr in ihm blieb; denn er hatte den ganzen Tag und die ganze Nacht nichts gegessen."
+"Da fiel Saul plötzlich zu Boden, so lang und groß er war, denn er erschrak sehr ob den Worten Samuels, so #daß keine Kraft mehr in ihm blieb; denn er hatte den ganzen Tag und die ganze Nacht nichts gegessen."
 "Und das Weib ging zu Saul hin und sah, daß er sehr erschrocken war, und sprach zu ihm
 "So gehorche auch du der Stimme deiner Magd
 "Er aber weigerte sich und sprach

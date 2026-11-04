@@ -16,8 +16,8 @@
 "Y dijeron los príncipes y todo el pueblo á los sacerdotes y profetas. No ha incurrido este hombre en pena de muerte, porque en nombre de Jehová nuestro Dios nos ha hablado."
 "Entonces se levantaron ciertos de los ancianos de la tierra, y hablaron á toda la junta del pueblo, diciendo
 "Miqueas de Morasti profetizó en tiempo de Ezechîas rey de Judá, diciendo
-"¿Matáronlo luego Ezechîas rey de Judá y todo Judá? ¿no temió á Jehová, y oró en presencia de Jehová, y Jehová se arrepintió del mal que había hablado contra ellos? ¿Haremos pues nosotros tan grande mal contra nuestras almas?"
-"Hubo también un hombre que profetizaba en nombre de Jehová, Urías, hijo de Semaías de Chîriath-jearim, el cual profetizó contra esta ciudad y contra esta tierra, conforme á todas las palabras de Jeremías
+"¿Matáronlo luego Ezechîas rey de Judá y todo Judá? ¿no temió á Jehová, y oró en presencia de Jehová, y #Jehová se arrepintió del mal que había hablado contra ellos? ¿Haremos pues nosotros tan grande mal contra nuestras almas?"
+"Hubo también un hombre que profetizaba en nombre de Jehová, Urías, hijo de Semaías de Chîriath-jearim, el #cual profetizó contra esta ciudad y contra esta tierra, conforme á todas las palabras de Jeremías
 "Y oyó sus palabras el rey Joacim, y todos sus grandes, y todos sus príncipes, y el rey procuró de matarle; lo cual entendiendo Urías, tuvo temor, y huyó, y metióse en Egipto
 "Y el rey Joacim envió hombres á Egipto, á Elnathán hijo de Acbor, y otros hombres con él, á Egipto;"
 "Los cuales sacaron á Urías de Egipto, y lo trajeron al rey Joacim, é hiriólo á cuchillo, y echó su cuerpo en los sepulcros del vulgo."

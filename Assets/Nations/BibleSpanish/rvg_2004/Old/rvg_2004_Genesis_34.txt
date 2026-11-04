@@ -4,7 +4,7 @@
 "Y habló Siquem a Hamor su padre, diciendo
 "Y oyó Jacob que Siquem había amancillado a Dina su hija
 "Y se dirigió Hamor padre de Siquem a Jacob, para hablar con él."
-"Y los hijos de Jacob vinieron del campo cuando lo supieron; y se entristecieron los varones, y se llenaron de ira, porque hizo vileza en Israel acostándose con la hija de Jacob, lo que no se debía haber hecho."
+"Y los hijos de Jacob vinieron del campo cuando lo supieron; y se entristecieron los varones, y se llenaron de #ira, porque hizo vileza en Israel acostándose con la hija de Jacob, lo que no se debía haber hecho."
 "Y Hamor habló con ellos, diciendo
 "Y emparentad con nosotros; dadnos vuestras hijas, y tomad vosotros las nuestras."
 "Y habitad con nosotros; porque la tierra estará delante de vosotros; morad y negociad en ella, y tomad en ella posesión."
@@ -22,7 +22,7 @@
 "Mas con una condición consentirán estos hombres en habitar con nosotros, para que seamos un pueblo; si se circuncidare en nosotros todo varón, así como ellos son circuncidados."
 "Sus ganados, y su hacienda y todas sus bestias, serán nuestras
 "Y obedecieron a Hamor y a Siquem su hijo todos los que salían por la puerta de la ciudad, y circuncidaron a todo varón, a cuantos salían por la puerta de su ciudad."
-"Y sucedió que al tercer día, cuando sentían ellos el mayor dolor, los dos hijos de Jacob, Simeón y Leví, hermanos de Dina, tomaron cada uno su espada, y vinieron contra la ciudad osadamente, y mataron a todo varón."
+"Y sucedió que al tercer día, cuando sentían ellos el mayor dolor, los dos hijos de Jacob, Simeón y Leví, #hermanos de Dina, tomaron cada uno su espada, y vinieron contra la ciudad osadamente, y mataron a todo varón."
 "Y a Hamor y a Siquem su hijo los mataron a filo de espada
 "Y los hijos de Jacob vinieron a los muertos y saquearon la ciudad; por cuanto habían amancillado a su hermana."
 "Tomaron sus ovejas y vacas y sus asnos, y lo que había en la ciudad y en el campo,"

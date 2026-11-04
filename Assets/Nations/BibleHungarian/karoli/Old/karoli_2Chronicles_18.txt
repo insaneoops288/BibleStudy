@@ -6,7 +6,7 @@
 "És monda Jósafát
 "És monda az Izráel királya Jósafátnak
 "Szólíta azért az Izráel királya egyet [az õ] szolgái közül, és monda
-"És az Izráel királya és Jósafát, a Júda királya ott ülnek vala, kiki az õ királyiszékében, [királyi] ruhákba öltözötten; ott ülnek vala Samaria kapuja elõtt, a térségen; és a próféták mind prófétálnak vala õ elõttök."
+"És az Izráel királya és Jósafát, a Júda királya ott ülnek vala, kiki az õ királyiszékében, [királyi] ruhákba #öltözötten; ott ülnek vala Samaria kapuja elõtt, a térségen; és a próféták mind prófétálnak vala õ elõttök."
 "Csináltatott vala pedig magának Sédékiás, a Kénaána fia vasszarvakat, és monda
 "A többi próféták is mind ekképen jövendöltek, mondván
 "A követ pedig, a ki elment volt, hogy elhívná Mikeást, szóla néki, mondván

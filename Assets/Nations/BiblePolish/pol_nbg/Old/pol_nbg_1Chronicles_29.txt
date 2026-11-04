@@ -1,5 +1,5 @@
 "Potem król Dawid powiedział do całego zgromadzenia
-"Ja, według najwyższego mego wysiłku, przygotowałem na Dom mego Boga złota na złote, srebra na srebrne, miedzi na miedziane, żelaza na żelazne, drzewa na drewniane; drogocennych kamieni do osadzania i materiałów do czernienia oraz rozlicznych farb, a także wielkie mnóstwo wszelkiego drogiego materiału oraz kamienia marmuru."
+"Ja, według najwyższego mego wysiłku, przygotowałem na Dom mego Boga złota na złote, srebra na srebrne, miedzi na miedziane, żelaza na żelazne, drzewa na #drewniane; drogocennych kamieni do osadzania i materiałów do czernienia oraz rozlicznych farb, a także wielkie mnóstwo wszelkiego drogiego materiału oraz kamienia marmuru."
 "Nadto dla Domu mojego Boga, oddaję z upodobania na Dom mojego Boga własne złoto i srebro, które mam, oprócz tego wszystkiego, co przygotowałem na dom tego, co święte;"
 "to jest trzy tysiące talentów złota, złota z Ofiru; siedm tysięcy talentów najczystszego srebra na pokrycie ścian gmachów;"
 "złota na złote, srebra na srebrne i na wszystkie roboty rąk rzemieślniczych. Czy ktoś chce dziś, dobrowolnie, z obfitości, złożyć swój udział WIEKUISTEMU?"
@@ -14,7 +14,7 @@
 "Bowiem czym jestem ja i czym mój lud; czyżbyśmy zachowali siły aby to dobrowolnie ofiarować? Gdyż od ciebie jest wszystko; z Twoich rąk wzięliśmy i Tobie daliśmy."
 "Bo my, jak i wszyscy nasi ojcowie, jesteśmy pielgrzymami i przychodniami przed Tobą; nasze dni na ziemi są jak cień i nie ma rezultatu."
 "O WIEKUISTY, nasz Boże! Ten cały dostatek, który Ci przygotowaliśmy na budowę domu Twojego świętego Imienia, z Twojej jest ręki, bo Twoje jest wszystko."
-"Wiem, mój Boże, że Ty doświadczasz serca i kochasz szczerość; ja, w szczerości mojego serca, dobrowolnie to wszystko ofiarowałem; oraz widziałem Twój lud, który się tu znalazł, z radością i dobrowolnie Ci ofiarujący."
+"Wiem, mój Boże, że Ty doświadczasz serca i kochasz szczerość; ja, w szczerości mojego serca, dobrowolnie to #wszystko ofiarowałem; oraz widziałem Twój lud, który się tu znalazł, z radością i dobrowolnie Ci ofiarujący."
 "WIEKUISTY, Boże naszych przodków Abrahama, Ic’haka i Israela, zachowaj na wieki tą chęć, i zamiar serca Twojego ludu, oraz przygotuj Sobie ich serce."
 "Także Salomonowi, mojemu synowi, daj doskonałe serce, aby strzegł Twych przykazań, Twoich świadectw i Twych wyroków, i czynił wszystko, aby zbudować dom, dla którego został ustanowiony."
 "Potem Dawid mówił do całego zgromadzenia

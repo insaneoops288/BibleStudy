@@ -12,7 +12,7 @@
 "Jestliže by pak kdo v zpouru se vydal, tak že by neposlechl kněze postaveného tam k službě před Hospodinem Bohem tvým, aneb soudce, tedy ať umře člověk ten, a odejmeš zlé z Izraele,"
 "Aby všecken lid uslyšíce, báli se, a více v zpouru se nevydávali."
 "Když vejdeš do země, kterouž Hospodin Bůh tvůj dá tobě, abys ji dědičně obdržel, a budeš v ní bydliti, a řekneš
-"Toho toliko ustanovíš nad sebou krále, kteréhož by vyvolil Hospodin Bůh tvůj. Z prostředku bratří svých ustanovíš nad sebou krále; nebudeš moci ustanoviti nad sebou člověka cizozemce, kterýž by nebyl bratr tvůj."
+"Toho toliko ustanovíš nad sebou krále, kteréhož by vyvolil Hospodin Bůh tvůj. Z prostředku bratří svých ustanovíš #nad sebou krále; nebudeš moci ustanoviti nad sebou člověka cizozemce, kterýž by nebyl bratr tvůj."
 "A však ať nemívá mnoho koňů, a ať neobrací zase lidu do Egypta, z příčiny rozmnožení koňů, zvláště poněvadž Hospodin vám řekl
 "Nebudeť také míti mnoho žen, aby se neodvrátilo srdce jeho; stříbra také aneb zlata ať sobě příliš nerozmnožuje."
 "Když pak dosedne na stolici království svého, vypíše sobě připomenutý zákon tento do knihy z té, kteráž bude před oblíčejem kněží Levítských."

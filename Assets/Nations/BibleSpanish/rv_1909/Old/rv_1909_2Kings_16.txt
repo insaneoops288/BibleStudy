@@ -7,7 +7,7 @@
 "Entonces Achâz envió embajadores á Tiglath-pileser rey de Asiria, diciendo
 "Y tomando Achâz la plata y el oro que se halló en la casa de Jehová, y en los tesoros de la casa real, envió al rey de Asiria un presente."
 "Y atendióle el rey de Asiria; pues subió el rey de Asiria contra Damasco, y tomóla, y trasportó los moradores á Kir, y mató á Resín."
-"Y fué el rey Achâz á encontrar á Tiglath-pileser rey de Asiria en Damasco; y visto que hubo el rey Achâz el altar que estaba en Damasco, envió á Urías sacerdote el diseño y la descripción del altar, conforme á toda su hechura."
+"Y fué el rey Achâz á encontrar á Tiglath-pileser rey de Asiria en Damasco; y visto que hubo el rey Achâz el #altar que estaba en Damasco, envió á Urías sacerdote el diseño y la descripción del altar, conforme á toda su hechura."
 "Y Urías el sacerdote edificó el altar; conforme á todo lo que el rey Achâz había enviado de Damasco, así lo hizo el sacerdote Urías, entre tanto que el rey Achâz venía de Damasco."
 "Y luego que vino el rey de Damasco, y hubo visto el altar, acercóse el rey á él, y sacrificó en él;"
 "Y encendió su holocausto, y su presente, y derramó sus libaciones, y esparció la sangre de sus pacíficos junto al altar."

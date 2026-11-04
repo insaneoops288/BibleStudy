@@ -5,7 +5,7 @@
 "Assim diz o Senhor
 "Pois é como o junípero no deserto, e não verá vir bem algum; antes morará nos lugares secos do deserto, em terra salgada e inabitada."
 "Bendito o varão que confia no Senhor, e cuja esperança é o Senhor."
-"Porque é como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto."
+"Porque é como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem #o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto."
 "Enganoso é o coração, mais do que todas as coisas, e perverso; quem o poderá conhecer?"
 "Eu, o Senhor, esquadrinho a mente, eu provo o coração; e isso para dar a cada um segundo os seus caminhos e segundo o fruto das suas acções."
 "Como a perdiz que ajunta pintainhos que não são do seu ninho, assim é aquele que ajunta riquezas, mas não rectamente; no meio de seus dias as deixará, e no seu fim se mostrará insensato."
@@ -22,6 +22,6 @@
 "nem tireis cargas de vossas casas no dia de sábado, nem façais trabalho algum; antes santificai o dia de sábado, como eu ordenei a vossos pais."
 "Mas eles não escutaram, nem inclinaram os seus ouvidos; antes endureceram a sua cerviz, para não ouvirem, e para não receberem instrução."
 "Mas se vós diligentemente me ouvirdes, diz o Senhor, não introduzindo cargas pelas portas desta cidade no dia de sábado, e santificardes o dia de sábado, não fazendo nele trabalho algum,"
-"então entrarão pelas portas desta cidade reis e príncipes, que se assentem sobre o trono de David, andando em carros e montados em cavalos, eles e seus príncipes, os homens de Judá, e os moradores de Jerusalém; e esta cidade será para sempre habitada."
-"E virão das cidades de Judá, e dos arredores de Jerusalém, e da terra de Benjamim, e da planície, e da região montanhosa, e do e sul, trazendo à casa do Senhor holocaustos, e sacrifícios, e ofertas de cereais, e incenso, trazendo também sacrifícios de acção de graças."
-"Mas, se não me ouvirdes, para santificardes o dia de sábado, e para não trazerdes carga alguma, quando entrardes pelas portas de Jerusalém no dia de sábado, então acenderei fogo nas suas portas, o qual consumirá os palácios de Jerusalém, e não se apagará."
+"então entrarão pelas portas desta cidade reis e príncipes, que se assentem sobre o trono de David, andando em carros e montados em #cavalos, eles e seus príncipes, os homens de Judá, e os moradores de Jerusalém; e esta cidade será para sempre habitada."
+"E virão das cidades de Judá, e dos arredores de Jerusalém, e da terra de Benjamim, e da planície, e da região montanhosa, e do #e sul, trazendo à casa do Senhor holocaustos, e sacrifícios, e ofertas de cereais, e incenso, trazendo também sacrifícios de acção de graças."
+"Mas, se não me ouvirdes, para santificardes o dia de sábado, e para não trazerdes carga alguma, quando entrardes pelas portas de Jerusalém #no dia de sábado, então acenderei fogo nas suas portas, o qual consumirá os palácios de Jerusalém, e não se apagará."

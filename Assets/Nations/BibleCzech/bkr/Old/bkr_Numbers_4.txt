@@ -12,8 +12,8 @@
 "Vezmou i všecky nádoby k službě, jimiž přisluhovali v svatyni, a zavinouce do roucha z postavce modrého, přikryjí je přikrytím z koží jezevčích, a vloží na sochory."
 "Vyprázdní i popel z oltáře, a prostrou na něj roucho šarlatové."
 "A vloží svrchu všecko nádobí jeho, jímž přisluhují na něm, nádoby k uhlí, vidličky, pometla, kotlíky a všecko nádobí oltáře, a přistrouce jej přikrytím z koží jezevčích, uvlekou sochory jeho."
-"A když to vykoná Aron s syny svými, a přikryje svatyni i všecka nádobí její, a již by se měla hýbati vojska, tedy přijdou synové Kahat, aby nesli; ale nedotknou se svatyně, aby nezemřeli. Ta jest práce synů Kahat při stánku úmluvy."
-"Eleazar pak, syn Arona kněze, pečovati bude o olej k svícení a kadění vonnými věcmi a obět ustavičnou i o olej pomazání, svěřený sobě maje všecken příbytek a všecky věci, kteréž v něm jsou, svatyni a nádoby její."
+"A když to vykoná Aron s syny svými, a přikryje svatyni i všecka nádobí její, a již by se měla hýbati vojska, #tedy přijdou synové Kahat, aby nesli; ale nedotknou se svatyně, aby nezemřeli. Ta jest práce synů Kahat při stánku úmluvy."
+"Eleazar pak, syn Arona kněze, pečovati bude o olej k svícení a kadění vonnými věcmi a obět ustavičnou i o #olej pomazání, svěřený sobě maje všecken příbytek a všecky věci, kteréž v něm jsou, svatyni a nádoby její."
 "A mluvil Hospodin k Mojžíšovi a Aronovi, řka
 "Hleďtež, abyste nevyhladili pokolení čeledi Kahat z prostředku Levítů."
 "Ale toto učiníte jim, aby zachováni byli a nezemřeli, když by přistupovali k svatyni svatých

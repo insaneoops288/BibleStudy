@@ -39,7 +39,7 @@
 "Rozszarpanego przez zwierzę nie przynosiłem do ciebie, wynagradzałem ci szkodę; z mojej ręki domagałeś się tego, co było ukradzione we dnie i co było ukradzione w nocy."
 "Bywało, że we dnie męczył mnie upał, a mróz w nocy, tak że sen odchodził od moich oczu."
 "Dwadzieścia lat ci służyłem w twoim domu
-"Gdyby Bóg mojego ojca, Bóg Abrahama i bojaźń Izaaka, nie był ze mną, pewnie byś mnie teraz odprawił z niczym. Ale Bóg wejrzał na moje utrapienie i na pracę moich rąk i przestrzegł cię zeszłej nocy."
+"Gdyby Bóg mojego ojca, Bóg Abrahama i bojaźń Izaaka, nie był ze mną, pewnie byś mnie teraz odprawił z #niczym. Ale Bóg wejrzał na moje utrapienie i na pracę moich rąk i przestrzegł cię zeszłej nocy."
 "Wtedy Laban odpowiedział Jakubowi
 "Chodź więc, zawrzyjmy przymierze, ja i ty, i niech to będzie świadectwem między mną a tobą."
 "I Jakub wziął kamień, i postawił go jako pomnik."

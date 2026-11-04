@@ -7,7 +7,7 @@
 "Manda, pues, esto, para que sean sin reprensión."
 "Pero si alguno no tiene cuidado de los suyos, y mayormente de los de su casa, la fe negó, y es peor que el que no creyó."
 "La viuda sea puesta en lista, no menor de sesenta años, la cual haya sido mujer de un varón."
-"Que tenga testimonio en buenas obras; si crió <I>bien sus hijos</I> ; si ha ejercitado la hospitalidad; si ha lavado los pies de los santos; si ha socorrido a los afligidos; si ha seguido toda buena obra."
+"Que tenga testimonio en buenas obras; si crió <I>bien sus hijos</I> ; si ha ejercitado la hospitalidad; si ha #lavado los pies de los santos; si ha socorrido a los afligidos; si ha seguido toda buena obra."
 "Pero viudas más jóvenes no admitas, porque después de hacerse licenciosas contra Cristo, quieren casarse."
 "Teniendo ya condenación, por haber falseado su primera fe."
 "Tampoco admitas las ociosas, enseñadas a andar de casa en casa; y no solamente ociosas, sino también parleras y curiosas, hablando lo que no conviene."

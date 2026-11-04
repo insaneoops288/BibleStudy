@@ -20,10 +20,10 @@
 "Çfarë mund të të thoshte më tepër Davidi? Ti e njeh shërbëtorin tënd, o Zot, o Zot!"
 "Për dashurinë e fjalës sate dhe simbas zemrës sate ke bërë tërë këto gjëra të mëdha, me qëllim që t'ia bësh të njohur shërbëtorit tënd."
 "Për këtë je i madh, o Zot, o Perëndi. Asnjeri nuk është si ti dhe nuk ka tjetër Perëndi veç teje, me sa kemi dëgjuar me veshët tona."
-"Dhe kush është si populli yt, si Izraeli, i vetmi komb mbi dhe që Perëndia erdhi ta shpengojë për vete si popullin e tij për të bërë emër dhe për të kryer për ty vepra të mëdha dhe të tmerrshme për tokën tënde përpara popullit tënd, të cilin e ke shpenguar për vete nga Egjipti, nga kombet e perëndive të tyre?"
+"Dhe kush është si populli yt, si Izraeli, i vetmi komb mbi dhe që Perëndia erdhi ta shpengojë për vete si popullin e tij për të bërë emër dhe për të #kryer për ty vepra të mëdha dhe të tmerrshme për tokën tënde përpara popullit tënd, të cilin e ke shpenguar për vete nga Egjipti, nga kombet e perëndive të tyre?"
 "Dhe ti ke vendosur për vete që populli yt i Izaelit, të jetë populli yt për gjithnjë; dhe ti, o Zot, je bërë Perëndia i tij."
 "Dhe tani, o Zot, o Perëndi, fjalën që ke thënë lidhur me shërbëtorin tënd dhe me shtëpinë e tij mbaje të qëndrueshme për gjithnjë dhe vepro ashtu si ke thënë,"
 "me qëllim që emri yt të lavdërohet përjetë dhe të thuhet
 "Sepse ti, o Zoti i ushtrive, Perëndia i Izraelit, ia ke treguar këtë shërbëtorit tënd, duke i thënë
 "Dhe tani, o Zot, o Zot, ti je Perëndia, fjalët e tua janë të vërteta, dhe i ke premtuar këto gjëra të bukura shërbëtorit tënd."
-"Prandaj tani prano të bekosh shtëpinë e shërbëtorit tënd, në mënyrë që ajo të qëndrojë gjithnjë para teje, sepse ti, o Zot, o Zot, ke folur, dhe si pasojë e bekimit tënd shtëpia e shërbëtorit tënd do të jetë e bekuar përjetë!""."
+"Prandaj tani prano të bekosh shtëpinë e shërbëtorit tënd, në mënyrë që ajo të qëndrojë gjithnjë para teje, sepse ti, o Zot, #o Zot, ke folur, dhe si pasojë e bekimit tënd shtëpia e shërbëtorit tënd do të jetë e bekuar përjetë!""."

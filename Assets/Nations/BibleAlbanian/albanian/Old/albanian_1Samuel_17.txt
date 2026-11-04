@@ -6,7 +6,7 @@
 "në këmbë kishte këmbore prej bronzi dhe mbi sup mbante një ushtë prej hekuri."
 "Maja e ushtës së tij ishte si shuli i një endësi dhe peshonte gjashtë qind sikla argjendi
 "Ai u ndal dhe u thirri grupeve të ushtarëve të Izraelit
-"Në rast se do të jetë në gjendje të luftojë me mua dhe të më vrasë, ne do të jemi shërbëtorët tuaj; por në rast se dal unë fitues dhe e vras, atëherë ju do të jeni shërbëtorët tanë dhe do të na shërbeni""."
+"Në rast se do të jetë në gjendje të luftojë me mua dhe të më vrasë, ne do të jemi shërbëtorët tuaj; por #në rast se dal unë fitues dhe e vras, atëherë ju do të jeni shërbëtorët tanë dhe do të na shërbeni""."
 "Pastaj Filisteu shtoi
 "Kur Sauli dhe tërë Izraeli dëgjuan këto fjalë të Filisteut, mbetën të shtangur dhe u hyri një frikë e madhe."
 "Davidi ishte biri i atij Efrateut të Betlemit të Judës, që mbante emrin Isai dhe kishte tetë bij. Në kohën e Saulit, ky njeri ishte i plakur dhe i shtyrë në moshë."
@@ -17,7 +17,7 @@
 "Isai i tha Davidit, birit të tij
 "Dërgo edhe këto dhjetë forma djathi komandantit të mijëshes së tyre; shiko si janë vëllezërit e tu dhe më sill një peng nga ana e tyre."
 "Sauli me gjithë vëllezërit e tu dhe gjithë burrat e Izraelit janë në luginën e Terebintit për të luftuar Filistejtë""."
-"Kështu Davidi u ngrit herët në mëngjes, ia la delet e tij një rojtari, mori ngarkesën e tij dhe u nis ashtu siç e kishte urdhëruar Isai. Arriti në kampin e qerreve, kur ushtria po dilte për t'u radhitur në formacion beteje dhe lëshonte britma lufte."
+"Kështu Davidi u ngrit herët në mëngjes, ia la delet e tij një rojtari, mori ngarkesën e tij dhe u nis ashtu siç e #kishte urdhëruar Isai. Arriti në kampin e qerreve, kur ushtria po dilte për t'u radhitur në formacion beteje dhe lëshonte britma lufte."
 "Izraelitët dhe Filistejtë ishin radhitur për betejë, një ushtri kundër tjetrës."
 "Davidi, pasi la ngarkesën e tij në duart e rojtarit të bagazheve, vrapoi në drejtim të grupimeve të betejës; me të arritur në vend, pyeti vëllezërit e tij si ishin."
 "Ndërsa po fliste me ata, ja ku doli nga radhët e Filistejve ai kampion, Filisteu i Gathit, që mbante emrin Goliath dhe përsëriti po ato fjalë; dhe Davidi i dëgjoi."
@@ -43,13 +43,13 @@
 "Filisteu i tha Davidit
 "Pastaj Filisteu i tha Davidit
 "Atëherë Davidi iu përgjegj Filisteut
-"Pikërisht sot Zoti do të të dorëzojë në duart e mia; dhe unë do të të rrëzoj, do të pres kokën tënde dhe do t'u jap pikërisht sot kufomat e ushtrisë së Filistejve shpendëve të qiellit dhe bishave të tokës, me qëllim që gjithë dheu të mësojë se ka një Perëndi në Izrael."
+"Pikërisht sot Zoti do të të dorëzojë në duart e mia; dhe unë do të të rrëzoj, do të pres kokën tënde dhe do t'u jap pikërisht #sot kufomat e ushtrisë së Filistejve shpendëve të qiellit dhe bishave të tokës, me qëllim që gjithë dheu të mësojë se ka një Perëndi në Izrael."
 "Atëherë gjithë kjo turmë do të mësojë që Zoti nuk të shpëton me anë të shpatës as me anë të shtizës; sepse përfundimi i betejës varet nga Zoti, dhe ai do t'ju dorëzojë në duart tona""."
 "Kur Filisteu lëvizi dhe shkoi përpara për t'u ndeshur me Davidin, edhe Davidi nxitoi menjëherë drejt mejdanit, ballë Filisteut;"
 "vuri dorën në thes, nxori prej tij një gur, e hodhi me hobenë dhe e goditi në ballë Filisteun; guri iu fut në ballë dhe ai ra me fytyrë për tokë."
 "Kështu Davidi me një hobe dhe një gur mundi Filisteun; e goditi dhe e vrau, megjithëse Davidi nuk kishte asnjë shpatë në dorë."
 "Pastaj Davidi vrapoi, u hodh mbi Filisteun, ia mori shpatën dhe e vrau duke i prerë me të kokën. Kur Filistejtë e panë që heroi i tyre vdiq, ikën me vrap."
-"Atëherë njerëzit e Izraelit dhe të Judës u ngritën, duke lëshuar britma lufte, dhe i ndoqën Filistejtë deri në hyrjen e luginës dhe në portat e Ekronit. Filistejtë e plagosur për vdekje ranë në rrugën e Shaarimit, deri në Gath dhe në Ekron."
+"Atëherë njerëzit e Izraelit dhe të Judës u ngritën, duke lëshuar britma lufte, dhe i ndoqën Filistejtë deri në hyrjen e luginës #dhe në portat e Ekronit. Filistejtë e plagosur për vdekje ranë në rrugën e Shaarimit, deri në Gath dhe në Ekron."
 "Kur bijtë e Izraelit u kthyen nga ndjekja e Filistejve, plaçkitën kampin e tyre."
 "Pas kësaj Davidi mori kokën e Filisteut dhe e çoi në Jeruzalem, por armët e tij i vendosi në çadrën e tij."
 "Kur Sauli kishte parë Davidin që po dilte kundër Filisteut, kishte pyetur komandantin e ushtrisë së tij, Abnerin

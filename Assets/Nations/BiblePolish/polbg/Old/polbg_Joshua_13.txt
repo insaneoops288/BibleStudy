@@ -1,6 +1,6 @@
 "I zstarzał się Jozue, a był zeszły w leciech. I rzekł Pan do niego
 "Tać jest ziemia, która pozostawa
-"Od Nilu, który oblewa Egipt, aż do granicy Akaronu na północy, przynależy Chananejczykowi, pięcioro księstw Filistyńskich; Asackie, i Asdodziejskie, Askalońskie, Getejskie, i Akaronicki, i Hawejczycy."
+"Od Nilu, który oblewa Egipt, aż do granicy Akaronu na północy, przynależy Chananejczykowi, #pięcioro księstw Filistyńskich; Asackie, i Asdodziejskie, Askalońskie, Getejskie, i Akaronicki, i Hawejczycy."
 "Od południa wszystka ziemia Chananejska, i Mara, które jest Sydończyków aż do Afeka, i aż do granicy Amorejczyka;"
 "I ziemia Giblitów ze wszystkim Libanem na wschód słońca, od Baalgad pod górę Hermon, aż gdzie chodzą do Emat."
 "Wszystkie mieszkające na górach od Libanu aż do wód gorących, wszystkie Sydończyki Ja wypędzę przed syny Izraelskimi; tylko ją podziel Izraelitom w dziedzictwo, jakom ci rozkazał."
@@ -18,7 +18,7 @@
 "I Jassa, i Cedymot, i Mefaat;"
 "I Karyjataim, i Sebama, i Saratasar na górze w dolinie;"
 "I Betfegor, i Asdod, Fazga, i Betyjesymot."
-"Wszystkie też miasta w równinie, i wszystko królestwo Sehona, króla Amorejskiego, który królował w Hesebon, którego zabił Mojżesz, i książęta Madyjańskie Ewi, i Recem, i Sur, i Hur, i Reba; książęta Sehonowe, obywatele ziemi."
+"Wszystkie też miasta w równinie, i wszystko królestwo Sehona, króla Amorejskiego, który królował w Hesebon, którego zabił Mojżesz, #i książęta Madyjańskie Ewi, i Recem, i Sur, i Hur, i Reba; książęta Sehonowe, obywatele ziemi."
 "I Balaama, syna Boerowego, wieszczka, zabili synowie Izraelscy mieczem z innymi pobitymi."
 "Była tedy granica synów Rubenowych Jordan z granicami swemi. Toć jest dziedzictwo synów Rubenowych według domów ich, miast i wsi ich."
 "Dał też Mojżesz pokoleniu Gad, synom Gadowym, według domów ich dziedzictwo."

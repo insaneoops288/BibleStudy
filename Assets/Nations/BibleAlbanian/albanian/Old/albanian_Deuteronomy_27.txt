@@ -1,6 +1,6 @@
 "Atëherë Moisiu dhe pleqtë e Izraelit i dhanë popullit këtë urdhër
 "Ditën që do të kapërceni Jordanin për të hyrë në vendin që Zoti, Perëndia juaj, ju jep, do të ngresh për vete gurë të mëdhenj dhe do t'i lyesh me gëlqere."
-"Pastaj do të shkruash mbi ta tërë fjalët e këtij ligji, kur të kapërcesh Jordanin për të hyrë në vendin që Zoti, Perëndia yt, të jep, një vend ku rrjedh qumësht dhe mjaltë, ashtu si të ka thënë Zoti, Perëndia i etërve të tu."
+"Pastaj do të shkruash mbi ta tërë fjalët e këtij ligji, kur të kapërcesh Jordanin për të hyrë në vendin që Zoti, Perëndia #yt, të jep, një vend ku rrjedh qumësht dhe mjaltë, ashtu si të ka thënë Zoti, Perëndia i etërve të tu."
 "Kështu, pra, kur të kaloni Jordanin, do të ngrini në malin Ebal këta gurë, që sot ju urdhëroj, dhe do t'i lyeni me gëlqere."
 "Aty do t'i ngresh edhe një altar Zotit, Perëndisë tënd, një altar gurësh, mbi të cilët nuk do të përdorësh vegël hekuri."
 "Do të ndërtosh altarin e Zotit, Perëndisë tënd, me gurë të pacënuar, dhe mbi të do t'i ofrosh olokauste Zotit, Perëndisë tënd."
@@ -12,7 +12,7 @@
 """Ja ata do të rrijnë në malin Gerizim për të bekuar popullin kur të keni kapërcyer Jordanin
 "dhe ja ata që do të rrijnë në malin Ebal për të shqiptuar mallkimin
 "Levitët do të flasin dhe do t'u thonë me zë të lartë gjithë burrave të Izraelit
-"""Mallkuar qoftë ai njeri që bën një shëmbëlltyrë të gdhendur o prej metali të shkrirë, gjë e neveritshme për Zotin, vepër e duarve të një artizani, dhe e vendos në një vend sekret!"". Dhe tërë populli do të përgjigjet dhe do të thotë
+"""Mallkuar qoftë ai njeri që bën një shëmbëlltyrë të gdhendur o prej metali të shkrirë, gjë e neveritshme për Zotin, vepër e #duarve të një artizani, dhe e vendos në një vend sekret!"". Dhe tërë populli do të përgjigjet dhe do të thotë
 """Mallkuar qoftë ai që përçmon atin ose nënën e tij!"". Dhe tërë populli do të thotë
 """Mallkuar qoftë ai që zhvendos kufijtë e të afërmit të tij!"". Dhe tërë populli do të thotë
 """Mallkuar qoftë ai që i humb rrugën të verbërit!"". Dhe tërë populli do të thotë

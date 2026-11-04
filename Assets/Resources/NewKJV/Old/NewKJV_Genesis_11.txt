@@ -28,5 +28,5 @@ This is the genealogy of Terah, Terah begot Abram, Nahor, and Haran. Haran begot
 And Haran died before his father Terah in his native land, in Ur of the Chaldeans.
 Then Abram and Nahor took wives, the name of Abram's wife was Sarai, and the name of Nahor's wife, Milcah, the daughter of Haran the father of Milcah and the father of Iscah.
 But Sarai was barren; she had no child.
-And Terah took his son Abram and his grandson Lot, the son of Haran, and his daughter-in-law Sarai, his son Abram's wife, and they went out with them from Ur of the Chaldeans to go to the land of Canaan; and they came to Haran and dwelt there.
+And Terah took his son Abram and his grandson Lot, the son of Haran, and his daughter-in-law Sarai, his son Abram's wife, and they went #out with them from Ur of the Chaldeans to go to the land of Canaan; and they came to Haran and dwelt there.
 So the days of Terah were two hundred and five years, and Terah died in Haran.

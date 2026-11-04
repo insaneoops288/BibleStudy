@@ -1,12 +1,12 @@
 "Und Samuel sprach zu Saul
 "So spricht Jehova der Heerscharen
-"Nun ziehe hin und schlage Amalek, und verbannet alles, was er hat, und schone seiner nicht; und töte vom Manne bis zum Weibe, vom Kinde bis zum Säugling, vom Rinde bis zum Kleinvieh, vom Kamel bis zum Esel."
+"Nun ziehe hin und schlage Amalek, und verbannet alles, was er hat, und schone seiner nicht; und töte vom Manne #bis zum Weibe, vom Kinde bis zum Säugling, vom Rinde bis zum Kleinvieh, vom Kamel bis zum Esel."
 "Da rief Saul das Volk auf und musterte sie zu Telaim, zweihunderttausend Mann zu Fuß und zehntausend Männer von Juda."
 "Und Saul kam bis zu der Stadt der Amalekiter, und er legte einen Hinterhalt in das Tal."
 "Und Saul sprach zu den Kenitern
 "Und Saul schlug die Amalekiter von Hawila an bis nach Sur hin, das vorÄgypten liegt."
 "Und er ergriff Agag, den König der Amalekiter, lebendig; und das ganze Volk verbannte er mit der Schärfe des Schwertes."
-"Und Saul und das Volk verschonten Agag und das Beste vom Klein-und Rindvieh und die Tiere vom zweiten Wurf und die Mastschafe und alles, was gut war, und sie wollten sie nicht verbannen; alles Vieh aber, das gering und schwächlich war, das verbannten sie."
+"Und Saul und das Volk verschonten Agag und das Beste vom Klein-und Rindvieh und die Tiere vom zweiten Wurf und die Mastschafe und #alles, was gut war, und sie wollten sie nicht verbannen; alles Vieh aber, das gering und schwächlich war, das verbannten sie."
 "Da geschah das Wort Jehovas zu Samuel also
 "Es reut mich, daß ich Saul zum König gemacht habe; denn er hat sich hinter mir abgewandt und hat meine Worte nicht erfüllt. Und Samuel entbrannte und schrie zu Jehova die ganze Nacht."
 "Und am Morgen machte Samuel sich früh auf, Saul entgegen. Und es wurde Samuel berichtet und gesagt
@@ -20,7 +20,7 @@
 "Und Saul sprach zu Samuel
 "Aber das Volk hat von der Beute genommen
 "Und Samuel sprach zu Saul
-"Denn wie Sünde der Wahrsagerei ist Widerspenstigkeit, und der Eigenwille wie Abgötterei und Götzendienst. Weil du das Wort Jehovas verworfen hast, so hat er dich verworfen, daß du nicht mehr König seiest."
+"Denn wie Sünde der Wahrsagerei ist Widerspenstigkeit, und der Eigenwille wie Abgötterei und Götzendienst. Weil du das #Wort Jehovas verworfen hast, so hat er dich verworfen, daß du nicht mehr König seiest."
 "Und Saul sprach zu Samuel
 "Und nun, vergib doch meine Sünde, und kehre mit mir um, daß ich vor Jehova anbete."
 "Aber Samuel sprach zu Saul

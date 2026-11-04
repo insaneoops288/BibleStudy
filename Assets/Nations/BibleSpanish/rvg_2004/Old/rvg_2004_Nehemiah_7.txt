@@ -70,4 +70,4 @@
 "Y algunos de los príncipes de las familias dieron para la obra. El Tirsata dio para el tesoro mil dracmas de oro, cincuenta tazones, y quinientas treinta vestiduras sacerdotales."
 "Y de los príncipes de las familias dieron para el tesoro de la obra, veinte mil dracmas de oro, y dos mil doscientas libras de plata."
 "Y lo que dio el resto del pueblo fue veinte mil dracmas de oro, y dos mil libras de plata, y sesenta y siete vestiduras sacerdotales."
-"Y habitaron los sacerdotes y los levitas, y los porteros, y los cantores, y los del pueblo, y los sirvientes del templo, y todo Israel en sus ciudades. Y venido el mes séptimo, los hijos de Israel estaban en sus ciudades."
+"Y habitaron los sacerdotes y los levitas, y los porteros, y los cantores, y los del pueblo, y los sirvientes del #templo, y todo Israel en sus ciudades. Y venido el mes séptimo, los hijos de Israel estaban en sus ciudades."

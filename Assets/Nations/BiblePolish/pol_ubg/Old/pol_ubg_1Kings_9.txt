@@ -1,10 +1,10 @@
 "Kiedy Salomon ukończył budowę domu PANA i domu królewskiego oraz wszystkiego, czego pragnął i co chciał wykonać;"
 "PAN ukazał się Salomonowi po raz drugi, podobnie jak mu się ukazał w Gibeonie."
 "PAN przemówił do niego
-"A jeśli będziesz postępował wobec mnie tak, jak postępował twój ojciec Dawid, w doskonałości serca i prawości, i będziesz czynił wszystko, co ci nakazałem, i będziesz przestrzegał moich nakazów i praw;"
+"A jeśli będziesz postępował wobec mnie tak, jak postępował twój ojciec Dawid, w doskonałości serca i #prawości, i będziesz czynił wszystko, co ci nakazałem, i będziesz przestrzegał moich nakazów i praw;"
 "Wtedy utwierdzę tron twego królestwa nad Izraelem na wieki, jak obiecałem Dawidowi, twemu ojcu, mówiąc
-"Jeśli jednak wy lub wasi synowie zupełnie odwrócicie się ode mnie i nie będziecie strzec moich przykazań i nakazów, które wam dałem, ale pójdziecie służyć innym bogom, i będziecie im oddawać pokłon;"
-"Wtedy wytracę Izraela z ziemi, którą mu dałem, a dom, który poświęciłem swojemu imieniu, odrzucę sprzed swojego oblicza. Izrael zaś będzie przedmiotem przypowieści i pośmiewiskiem u wszystkich narodów."
+"Jeśli jednak wy lub wasi synowie zupełnie odwrócicie się ode mnie i nie będziecie strzec moich przykazań #i nakazów, które wam dałem, ale pójdziecie służyć innym bogom, i będziecie im oddawać pokłon;"
+"Wtedy wytracę Izraela z ziemi, którą mu dałem, a dom, który poświęciłem swojemu imieniu, odrzucę #sprzed swojego oblicza. Izrael zaś będzie przedmiotem przypowieści i pośmiewiskiem u wszystkich narodów."
 "A temu domowi, który był wyniosły, każdy przechodzący obok zdziwi się i świśnie. I będą pytać
 "Wtedy odpowiedzą
 "A po upływie dwudziestu lat, w czasie których Salomon zbudował oba domy, dom PANA i dom królewski;"
@@ -16,7 +16,7 @@
 "Faraon bowiem, król Egiptu, wyruszył i zdobył Gezer, i spalił je ogniem, a Kananejczyków, którzy mieszkali w tym mieście, wymordował, i dał je w posagu swojej córce, żonie Salomona."
 "Salomon odbudował więc Gezer i Bet-Choron dolne;"
 "Baalat i Tadmor na pustyni w tej ziemi;"
-"I wszystkie miasta spichlerze, które należały do Salomona, miasta dla rydwanów i miasta dla jeźdźców oraz wszystko, co Salomon pragnął wybudować w Jerozolimie, Libanie i całej ziemi swego panowania."
+"I wszystkie miasta spichlerze, które należały do Salomona, miasta dla rydwanów i miasta dla jeźdźców #oraz wszystko, co Salomon pragnął wybudować w Jerozolimie, Libanie i całej ziemi swego panowania."
 "Wszystkie ludy, które ocalały spośród Amorytów, Chetytów, Peryzzytów, Chiwwitów i Jebusytów, które nie były z synów Izraela;"
 "Mianowicie potomstwo tych, którzy pozostali po nich w ziemi, których synowie Izraela nie mogli wytracić, Salomon obciążył pracą przymusową aż do dziś."
 "Lecz spośród synów Izraela Salomon nikogo nie uczynił niewolnikiem, byli tylko żołnierzami, jego sługami, dostojnikami, oficerami oraz dowódcami jego rydwanów i jeźdźców."

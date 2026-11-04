@@ -1,7 +1,7 @@
 "Aconteció, pues, que el rey Ezequías, al oír esto, rasgó sus vestidos, y cubierto de cilicio vino a la Casa del SEÑOR."
 "Y envió a Eliacim mayordomo, y a Sebna escriba, y a los Ancianos de los Sacerdotes, cubiertos de cilicio, a Isaías profeta, hijo de Amoz."
 "Los cuales le dijeron
-"Quizá oirá el SEÑOR tu Dios las palabras de Rabsaces, al cual envió el rey de Asiria su señor a blasfemar al Dios vivo, y a reprender con las palabras, que oyó el SEÑOR tu Dios; alza pues, oración tú por el remanente que aún  ha quedado."
+"Quizá oirá el SEÑOR tu Dios las palabras de Rabsaces, al cual envió el rey de Asiria su señor a blasfemar al Dios vivo, y #a reprender con las palabras, que oyó el SEÑOR tu Dios; alza pues, oración tú por el remanente que aún  ha quedado."
 "Vinieron, pues, los siervos de Ezequías a Isaías."
 "Y les dijo Isaías
 "He aquí, que yo doy en él <I>un</I>  espíritu, y oirá <I>un</I>  rumor, y se volverá a su tierra; y yo haré, que en su tierra caiga a espada."

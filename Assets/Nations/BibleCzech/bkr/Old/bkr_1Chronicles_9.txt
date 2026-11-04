@@ -16,7 +16,7 @@
 "A Abdiáš syn Semaiáše, syna Galalova, syna Jedutunova, a Berechiáš syn Asy, syna Elkánova, kterýž přebýval ve vsech Netofatských."
 "Též vrátní
 "Kterýž až po dnes v bráně královské stával k východu, onino pak vrátnými byli po houfích synů Léví."
-"Ale Sallum syn Chóre, syna Abiazafova, syna Chóre, a bratří jeho z domu otce jeho, Chorejští, nad pracemi přisluhování, ostříhali prahů při stánku, tak jako otcové jejich nad vojskem Hospodinovým, kteříž ostříhali vcházení."
+"Ale Sallum syn Chóre, syna Abiazafova, syna Chóre, a bratří jeho z domu otce jeho, Chorejští, nad #pracemi přisluhování, ostříhali prahů při stánku, tak jako otcové jejich nad vojskem Hospodinovým, kteříž ostříhali vcházení."
 "Nad kterýmiž Fínes syn Eleazarův byl někdy knížetem, a Hospodin byl s ním."
 "Zachariáš pak syn Meselemiášův vrátným byl u dveří stánku úmluvy."
 "Všickni ti voleni za vrátné k veřejím, osob dvě stě a dvanáct. Ti ve vsech svých vyčteni jsou, kteréž nařídil David a Samuel vidoucí, pro jejich věrnost,"

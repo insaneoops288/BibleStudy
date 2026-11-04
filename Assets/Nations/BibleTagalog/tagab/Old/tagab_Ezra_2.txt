@@ -1,5 +1,5 @@
-"Ang mga ito nga'y ang mga anak ng lalawigan, na nagsiahon mula sa pagkabihag sa mga nayon na nangadala, na dinala sa Babilonia ni Nabucodonosor na hari sa Babilonia, at nangagbalik sa Jerusalem at sa Juda, na bawa't isa'y sa kaniyang bayan;"
-"Na nagsidating na kasama ni Zorobabel, si Jesua, si Nehemias, si Seraias, si Reelias, si Mardocheo, si Bilsan, si Mispar, si Bigvai, si Rehum, si Baana. Ang bilang ng mga lalake ng bayan ng Israel ay ito
+"Ang mga ito nga'y ang mga anak ng lalawigan, na nagsiahon mula sa pagkabihag sa mga nayon na nangadala, na dinala sa #Babilonia ni Nabucodonosor na hari sa Babilonia, at nangagbalik sa Jerusalem at sa Juda, na bawa't isa'y sa kaniyang bayan;"
+"Na nagsidating na kasama ni Zorobabel, si Jesua, si Nehemias, si Seraias, si Reelias, si Mardocheo, si Bilsan, si #Mispar, si Bigvai, si Rehum, si Baana. Ang bilang ng mga lalake ng bayan ng Israel ay ito
 "Ang mga anak ni Paros, dalawang libo't isang daan at pitong pu't dalawa."
 "Ang mga anak ni Sephatias, tatlong daan at pitong pu't dalawa."
 "Ang mga anak ni Ara, pitong daan at pitong pu't lima."
@@ -65,6 +65,6 @@
 "Bukod sa kanilang mga aliping lalake at babae, na may pitong libo't tatlong daan at tatlong pu't pito
 "Ang kanilang mga kabayo ay pitong daan at tatlong pu't anim; ang kanilang mga mula ay dalawang daan at apat na pu't lima;"
 "Ang kanilang mga kamelyo, apat na raan at tatlong pu't lima; ang kanilang mga asno, anim na libo't pitong daan at dalawang pu."
-"At ang ilan sa mga pangulo ng mga sangbahayan ng mga magulang, nang sila'y magsidating sa bahay ng Panginoon na nasa Jerusalem, ay nangaghandog na kusa sa bahay ng Dios, upang husayin sa kinatatayuan
+"At ang ilan sa mga pangulo ng mga sangbahayan ng mga magulang, nang sila'y magsidating sa bahay ng #Panginoon na nasa Jerusalem, ay nangaghandog na kusa sa bahay ng Dios, upang husayin sa kinatatayuan
 "Sila'y nangagbigay ayon sa kanilang kaya sa ingatang-yaman ng gawain, na anim na pu't isang libong darikong ginto, at limang libong librang pilak, at isang daan na bihisan ng mga saserdote."
-"Gayon ang mga saserdote, at ang mga Levita, at ang iba sa bayan, at ang mga mangaawit, at ang mga tagatanod-pinto, at ang mga Nethineo, nagsitahan sa kanilang mga bayan, at ang buong Israel ay sa kanilang mga bayan."
+"Gayon ang mga saserdote, at ang mga Levita, at ang iba sa bayan, at ang mga mangaawit, at ang mga #tagatanod-pinto, at ang mga Nethineo, nagsitahan sa kanilang mga bayan, at ang buong Israel ay sa kanilang mga bayan."

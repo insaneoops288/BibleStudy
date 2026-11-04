@@ -1,7 +1,7 @@
 "Assim diz o SENHOR
 "Porque a minha mão fez todas estas coisas, e todas estas coisas foram feitas, diz o SENHOR; mas eis para quem olharei
-"Aquele que mata um boi é como aquele que fere um homem; aquele que sacrifica um cordeiro, como aquele que degola um cão; aquele que oferece uma oblação, como aquele que oferece sangue de porco; aquele que queima incenso, como aquele que bendiz a um ídolo; também estes escolhem os seus próprios caminhos, e a sua alma toma prazer nas suas abominações."
-"Também eu quererei as suas ilusões, farei vir sobre eles os seus temores, porquanto clamei, e ninguém respondeu; falei, e não escutaram, mas fizeram o que é mal aos meus olhos e escolheram aquilo em que eu não tinha prazer."
+"Aquele que mata um boi é como aquele que fere um homem; aquele que sacrifica um cordeiro, como aquele que degola um cão; aquele que oferece uma oblação, como aquele que oferece #sangue de porco; aquele que queima incenso, como aquele que bendiz a um ídolo; também estes escolhem os seus próprios caminhos, e a sua alma toma prazer nas suas abominações."
+"Também eu quererei as suas ilusões, farei vir sobre eles os seus temores, porquanto clamei, e ninguém respondeu; falei, e não #escutaram, mas fizeram o que é mal aos meus olhos e escolheram aquilo em que eu não tinha prazer."
 "Ouvi a palavra do SENHOR, vós que tremeis diante da sua palavra. Vossos irmãos, que vos aborrecem e que para longe vos lançam por amor do meu nome, dizem
 "Uma voz de grande rumor virá da cidade, uma voz do templo, a voz do SENHOR, que dá o pago aos seus inimigos."
 "Antes que estivesse de parto, ela deu à luz; antes que lhe viessem as dores, ela deu à luz um filho."
@@ -16,8 +16,8 @@
 "Porque, com fogo e com a sua espada, entrará o SENHOR em juízo com toda a carne; e os mortos do SENHOR serão multiplicados."
 "Os que se santificam e se purificam nos jardins uns após outros, os que comem carne de porco, e a abominação, e o rato juntamente serão consumidos, diz o SENHOR."
 "Porque conheço as suas obras e os seus pensamentos! O tempo vem, em que ajuntarei todas as nações e línguas; e virão e verão a minha glória."
-"E porei entre eles um sinal e os que deles escaparem enviarei às nações, a Társis, Pul e Lude, flecheiros, a Tubal e Javã, até às ilhas de mais longe que não ouviram a minha fama, nem viram a minha glória; e anunciarão a minha glória entre as nações."
-"E trarão todos os vossos irmãos, dentre todas as nações, por presente ao SENHOR, sobre cavalos, e em carros, e em liteiras, e sobre mulas, e sobre dromedários, ao meu santo monte, a Jerusalém, diz o SENHOR, como quando os filhos de Israel trazem as suas ofertas em vasos limpos à Casa do SENHOR."
+"E porei entre eles um sinal e os que deles escaparem enviarei às nações, a Társis, Pul e Lude, flecheiros, a Tubal e Javã, até #às ilhas de mais longe que não ouviram a minha fama, nem viram a minha glória; e anunciarão a minha glória entre as nações."
+"E trarão todos os vossos irmãos, dentre todas as nações, por presente ao SENHOR, sobre cavalos, e em carros, e em liteiras, e sobre mulas, e sobre dromedários, #ao meu santo monte, a Jerusalém, diz o SENHOR, como quando os filhos de Israel trazem as suas ofertas em vasos limpos à Casa do SENHOR."
 "E também deles tomarei alguns para sacerdotes e para levitas, diz o SENHOR."
 "Porque, como os céus novos e a terra nova que hei de fazer estarão diante da minha face, diz o SENHOR, assim há de estar a vossa posteridade e o vosso nome."
 "E será que, desde uma Festa da Lua Nova até à outra e desde um sábado até ao outro, virá toda a carne a adorar perante mim, diz o SENHOR."

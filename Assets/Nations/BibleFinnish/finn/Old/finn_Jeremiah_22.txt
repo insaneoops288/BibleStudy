@@ -1,7 +1,7 @@
 "Näin sanoi Herra
 "Ja sano
 "Näin sanoo Herra
-"Sillä jos te kaiketi tämän teette, niin pitää kuninkaat, jotka Davidin istuimella istuvat, tämän huoneen portista menemään sisälle, jotka ajavat vaunuilla ja hevosilla, he itse palvelioinensa ja karjoinensa."
+"Sillä jos te kaiketi tämän teette, niin pitää kuninkaat, jotka Davidin istuimella istuvat, tämän huoneen #portista menemään sisälle, jotka ajavat vaunuilla ja hevosilla, he itse palvelioinensa ja karjoinensa."
 "Mutta jollette näitä kuule, niin olen minä itselläni vannonut, sanoo Herra
 "Sillä näin sanoo Herra Juudan kuninkaan huoneesta
 "Ja olen määrännyt sinulle hävittäjät, kukin aseillansa, hakkaamaan maahan sinun valitut sedripuus, ja heittämään tuleen."

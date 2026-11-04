@@ -28,5 +28,5 @@
 "Y murió Harán antes que su padre Taré en la tierra de su naturaleza, en Ur de los caldeos."
 "Y tomaron Abram y Nacor para sí mujeres
 "Y Sarai fue estéril, que no <I>tenía</I>  hijo."
-"Y tomó Taré a Abram su hijo, y a Lot hijo de Harán, hijo de su hijo, y a Sarai su nuera, mujer de Abram su hijo; y salió con ellos de Ur de los caldeos, para ir a la tierra de Canaán; y vinieron hasta Harán, y <I>se</I>   asentaron allí."
+"Y tomó Taré a Abram su hijo, y a Lot hijo de Harán, hijo de su hijo, y a Sarai su nuera, mujer de Abram su hijo; #y salió con ellos de Ur de los caldeos, para ir a la tierra de Canaán; y vinieron hasta Harán, y <I>se</I>   asentaron allí."
 "Y fueron los días de Taré doscientos cinco años; y murió Taré en Harán."

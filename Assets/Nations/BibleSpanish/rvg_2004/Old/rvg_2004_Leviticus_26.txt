@@ -33,14 +33,14 @@
 "Y a vosotros os esparciré entre las naciones, y desenvainaré espada en pos de vosotros; y vuestra tierra estará asolada, y yermas vuestras ciudades."
 "Entonces la tierra descansará sus sábados todos los días que estuviere asolada y que vosotros estéis en la tierra de vuestros enemigos; la tierra descansará entonces y gozará sus sábados."
 "Todo el tiempo que esté asolada reposará, por cuanto no reposó en vuestros sábados mientras habitabais en ella."
-"Y a los que quedaren de vosotros infundiré en sus corazones tal cobardía, en la tierra de sus enemigos, que el sonido de una hoja que se mueve los perseguirá, y huirán como de la espada, y caerán sin que nadie los persiga."
+"Y a los que quedaren de vosotros infundiré en sus corazones tal cobardía, en la tierra de sus enemigos, que el sonido #de una hoja que se mueve los perseguirá, y huirán como de la espada, y caerán sin que nadie los persiga."
 "Y tropezarán los unos en los otros, como si huyeran delante de la espada, aunque nadie los persiga; y no podréis resistir delante de vuestros enemigos."
 "Y pereceréis entre las naciones, y la tierra de vuestros enemigos os consumirá."
 "Y los que quedaren de vosotros decaerán en las tierras de vuestros enemigos por su iniquidad; y por la iniquidad de sus padres decaerán con ellos."
 "Y confesarán su iniquidad, y la iniquidad de sus padres, por su prevaricación con que prevaricaron contra mí; y también porque anduvieron conmigo en oposición,"
 "yo también habré andado en contra de ellos, y los habré metido en la tierra de sus enemigos; y entonces se humillará su corazón incircunciso, y reconocerán su pecado;"
 "Entonces yo me acordaré de mi pacto con Jacob, y asimismo de mi pacto con Isaac, y también de mi pacto con Abraham me acordaré; y haré memoria de la tierra."
-"Y la tierra será abandonada por ellos, y disfrutará sus sábados, estando desolada a causa de ellos; entonces se someterán al castigo de sus iniquidades; por cuanto menospreciaron mis decretos, y el alma de ellos tuvo fastidio de mis estatutos."
+"Y la tierra será abandonada por ellos, y disfrutará sus sábados, estando desolada a causa de ellos; entonces se someterán al #castigo de sus iniquidades; por cuanto menospreciaron mis decretos, y el alma de ellos tuvo fastidio de mis estatutos."
 "Y aun con todo esto, estando ellos en tierra de sus enemigos, yo no los desecharé, ni los abominaré para consumirlos, invalidando mi pacto con ellos
 "Antes me acordaré de ellos por el pacto antiguo, cuando los saqué de la tierra de Egipto a los ojos de las naciones, para ser su Dios
 "Éstos son los decretos, derechos y leyes que estableció Jehová entre sí y los hijos de Israel en el monte de Sinaí por mano de Moisés."

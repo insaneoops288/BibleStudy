@@ -8,12 +8,12 @@
 "Gdyż on sprawę dawał o sobie
 "Ale Festus chcąc sobie zjednać łaskę u Żydów, odpowiedziawszy Pawłowi, rzekł
 "Ale Paweł rzekł
-"Bo jeźlim w czem nieprawy i co godnego śmierci uczynił, nie zbraniam się umrzeć; ale jeźli nie masz nic takiego z tych rzeczy, o które na mię skarżą, nikt mię im wydać nie może; apeluję do cesarza."
+"Bo jeźlim w czem nieprawy i co godnego śmierci uczynił, nie zbraniam się umrzeć; ale jeźli nie masz nic #takiego z tych rzeczy, o które na mię skarżą, nikt mię im wydać nie może; apeluję do cesarza."
 "Tedy Festus rozmówiwszy się z radą, odpowiedział
 "A gdy wyszło kilka dni, król Agrypa i Bernice przyjechali do Cezaryi, witać Festa."
 "A gdy tam niemało dni zamieszkali, Festus przełożył królowi sprawę Pawłową, mówiąc
 "Dla którego, gdym był w Jeruzalemie, stawili się przede mną przedniejsi kapłani i starsi żydowscy, prosząc o dekret przeciwko niemu."
-"Którymem odpowiedział, że tego nie mają w zwyczaju Rzymianie, aby którego człowieka mieli wydać na stracenie, ażby pierwej oskarżony miał przed sobą te, co nań skarżą, i dano by mu plac do odpowiedzi na to, w czem go obwiniają."
+"Którymem odpowiedział, że tego nie mają w zwyczaju Rzymianie, aby którego człowieka mieli wydać na stracenie, ażby pierwej oskarżony miał #przed sobą te, co nań skarżą, i dano by mu plac do odpowiedzi na to, w czem go obwiniają."
 "Gdy się tedy tu zeszli, bez wszelkiej odwłoki nazajutrz zasiadłszy na sądzie, kazałem przywieść tego męża."
 "Przeciw któremu stanąwszy ci, co nań skarżyli, żadnej winy nie przynieśli z tych, którychem się ja spodziewał ."
 "Lecz jakieś spory o swoich zabobonach mieli przeciwko niemu i o niejakim Jezusie umarłym, o którym Paweł twierdził, że żyw jest."

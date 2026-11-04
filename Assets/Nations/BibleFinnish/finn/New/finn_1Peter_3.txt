@@ -4,7 +4,7 @@
 "Vaan salainen ihminen ilman vikaa sydämessä, lakialla ja hiljaisella hengellä, se on kallis Jumalan edessä."
 "Sillä näin ovat pyhätkin vaimot muinen itsensä kaunistaneet, jotka toivonsa panivat Jumalan päälle ja olivat miehillensä alamaiset,"
 "Niinkuin Sara oli Abrahamille kuuliainen ja kutsui hänen herraksi, jonka tyttäriksi te tulleet olette, jos te hyvin teette ja pelkäämättä olette."
-"Te, miehet, myös asukaat heidän kanssansa taidolla ja antakaat vaimolliselle niinkuin heikommalle astialle hänen kunniansa, niinkuin myös elämän armon kanssaperillisille, ettei teidän rukouksenne estetyiksi tulisi."
+"Te, miehet, myös asukaat heidän kanssansa taidolla ja antakaat vaimolliselle niinkuin heikommalle astialle #hänen kunniansa, niinkuin myös elämän armon kanssaperillisille, ettei teidän rukouksenne estetyiksi tulisi."
 "Mutta viimein olkaat kaikki yksimieliset, ynnä kärsiväiset, pitäin veljellistä rakkautta keskenänne, laupiaat, ystävälliset,"
 "Ei kostain pahaa pahalla, eikä kirouksella kirousta, vaan paremmin siunatkaat, tietäen, että te olette kutsutut siunausta perimään."
 "Sillä joka elää tahtoo ja hyviä päiviä nähdä, hän hillitkään kielensä pahuudesta ja huulensa vilppiä puhumasta,"
@@ -18,5 +18,5 @@
 "Sillä Kristus myös kerran kärsi meidän synteimme tähden, hurskas vääräin edestä, että hän meitä Jumalalle uhrais
 "Jossa hän myös meni pois ja saarnasi hengille vankeudessa,"
 "Jotka ei muinen uskoneet, kuin Jumala kerran Noan aikana odotti ja kärsiväinen oli, kuin arkki valmistettiin, jossa harvat (se on
-"Se nyt meitäkin kasteessa autuaaksi tekee, joka sitä aavisti (ei että lihan saastaisuudet pannaan pois, vaan että se on hyvän omantunnon liitto Jumalan tykönä) Jesuksen Kristuksen ylösnousemisen kautta,"
+"Se nyt meitäkin kasteessa autuaaksi tekee, joka sitä aavisti (ei että lihan saastaisuudet pannaan pois, #vaan että se on hyvän omantunnon liitto Jumalan tykönä) Jesuksen Kristuksen ylösnousemisen kautta,"
 "Joka on Jumalan oikialle kädelle, taivaasen mennyt, ja hänelle ovat enkelit ja vallat ja voimat alamaiset."

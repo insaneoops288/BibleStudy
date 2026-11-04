@@ -29,7 +29,7 @@
 "Y éstos tendréis por inmundos de los reptiles que van arrastrando sobre la tierra
 "y el erizo, y el camaleón, y la iguana, y el caracol, y el topo."
 "Éstos tendréis por inmundos de todos los reptiles
-"Y todo aquello sobre que cayere alguno de ellos después de muertos, será inmundo; así vaso de madera, como vestido, o piel, o saco, cualquier instrumento con que se hace obra, será metido en agua, y será inmundo hasta la tarde, y así será limpio."
+"Y todo aquello sobre que cayere alguno de ellos después de muertos, será inmundo; así vaso de madera, como vestido, o piel, o #saco, cualquier instrumento con que se hace obra, será metido en agua, y será inmundo hasta la tarde, y así será limpio."
 "Y toda vasija de barro dentro de la cual cayere alguno de ellos, todo lo que estuviere en ella será inmundo, y quebraréis la vasija
 "Toda vianda que se come, sobre la cual viniere el agua de tales vasijas, será inmunda; y toda bebida que se bebiere, será en todas esas vasijas inmunda
 "Y todo aquello sobre que cayere algo del cuerpo muerto de ellos, será inmundo; el horno u hornillos se derribarán; son inmundos, y por inmundos los tendréis."

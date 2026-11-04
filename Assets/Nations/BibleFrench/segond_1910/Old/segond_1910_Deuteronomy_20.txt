@@ -1,4 +1,4 @@
-"Lorsque tu iras à la guerre contre tes ennemis, et que tu verras des chevaux et des chars, et un peuple plus nombreux que toi, tu ne les craindras point; car l'Eternel, ton Dieu, qui t'a fait monter du pays d'Egypte, est avec toi."
+"Lorsque tu iras à la guerre contre tes ennemis, et que tu verras des chevaux et des chars, et un peuple plus nombreux #que toi, tu ne les craindras point; car l'Eternel, ton Dieu, qui t'a fait monter du pays d'Egypte, est avec toi."
 "A l'approche du combat, le sacrificateur s'avancera et parlera au peuple."
 "Il leur dira
 "Car l'Eternel, votre Dieu, marche avec vous, pour combattre vos ennemis, pour vous sauver."
@@ -16,5 +16,5 @@
 "Mais dans les villes de ces peuples dont l'Eternel, ton Dieu, te donne le pays pour héritage, tu ne laisseras la vie à rien de ce qui respire."
 "Car tu dévoueras ces peuples par interdit, les Héthiens, les Amoréens, les Cananéens, les Phéréziens, les Héviens, et les Jébusiens, comme l'Eternel, ton Dieu, te l'a ordonné,"
 "afin qu'ils ne vous apprennent pas à imiter toutes les abominations qu'ils font pour leurs dieux, et que vous ne péchiez point contre l'Eternel, votre Dieu."
-"Si tu fais un long siège pour t'emparer d'une ville avec laquelle tu es en guerre, tu ne détruiras point les arbres en y portant la hache, tu t'en nourriras et tu ne les abattras point; car l'arbre des champs est-il un homme pour être assiégé par toi?"
-"Mais tu pourras détruire et abattre les arbres que tu sauras ne pas être des arbres servant à la nourriture, et en construire des retranchements contre la ville qui te fait la guerre, jusqu'à ce qu'elle succombe."
+"Si tu fais un long siège pour t'emparer d'une ville avec laquelle tu es en guerre, tu ne détruiras point les arbres en y portant #la hache, tu t'en nourriras et tu ne les abattras point; car l'arbre des champs est-il un homme pour être assiégé par toi?"
+"Mais tu pourras détruire et abattre les arbres que tu sauras ne pas être des arbres servant à la #nourriture, et en construire des retranchements contre la ville qui te fait la guerre, jusqu'à ce qu'elle succombe."

@@ -27,7 +27,7 @@
 "Harás asimismo dos anillos de oro, los cuales pondrás a los dos lados del efod abajo en la parte delantera, delante de su juntura sobre el cinto del efod."
 "Y juntarán el pectoral por sus anillos a los anillos del efod con un cordón de jacinto, para que esté sobre el cinto del efod, y no se aparte el pectoral del efod."
 "Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón, cuando entrare en el santuario, para memoria delante de Jehová continuamente."
-"Y pondrás en el pectoral del juicio Urim y Tumim, para que estén sobre el corazón de Aarón cuando entrare delante de Jehová; y llevará siempre Aarón el juicio de los hijos de Israel sobre su corazón delante de Jehová."
+"Y pondrás en el pectoral del juicio Urim y Tumim, para que estén sobre el corazón de Aarón cuando entrare delante #de Jehová; y llevará siempre Aarón el juicio de los hijos de Israel sobre su corazón delante de Jehová."
 "Harás el manto del efod todo de azul,"
 "y en medio de él por arriba habrá una abertura, la cual tendrá un borde alrededor de obra de tejedor, como el cuello de un coselete, para que no se rompa."
 "Y abajo en sus orillas harás granadas de azul, y púrpura, y carmesí, por sus bordes alrededor; y entre ellas campanillas de oro alrededor."
@@ -40,4 +40,4 @@
 "Y para los hijos de Aarón harás túnicas; también les harás cintos, y les formarás tiaras para gloria y hermosura."
 "Y con ellos vestirás a Aarón tu hermano, y a sus hijos con él
 "Y les harás calzoncillos de lino para cubrir su desnudez; serán desde los lomos hasta los muslos."
-"Y estarán sobre Aarón y sobre sus hijos cuando entraren en el tabernáculo de la congregación, o cuando se acercaren al altar para servir en el santuario, para que no lleven pecado y mueran. Estatuto perpetuo para él, y para su simiente después de él."
+"Y estarán sobre Aarón y sobre sus hijos cuando entraren en el tabernáculo de la congregación, o cuando se acercaren al altar para #servir en el santuario, para que no lleven pecado y mueran. Estatuto perpetuo para él, y para su simiente después de él."

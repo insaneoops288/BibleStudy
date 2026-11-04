@@ -19,4 +19,4 @@
 "Saluda a Prisca y a Aquila, y a la casa de Onesíforo."
 "Erasto se quedó en Corinto; y a Trófimo dejé en Mileto enfermo."
 "Procura venir antes del invierno. Eubulo te saluda, y Pudente, y Lino, y Claudia, y todos los hermanos."
-"El Señor Jesucristo [sea] con tu espíritu. La gracia [sea] con vosotros. Amén. [Epístola a Timoteo, el cual fue el primer obispo ordenado en Efeso, fue escrita de Roma, cuando Pablo fue presentado la segunda vez a César Nerón]."
+"El Señor Jesucristo [sea] con tu espíritu. La gracia [sea] con vosotros. Amén. [Epístola a Timoteo, el cual fue el #primer obispo ordenado en Efeso, fue escrita de Roma, cuando Pablo fue presentado la segunda vez a César Nerón]."

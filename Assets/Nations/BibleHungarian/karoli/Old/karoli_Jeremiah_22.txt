@@ -25,6 +25,6 @@
 "És odaadlak téged a te lelked keresõinek kezébe, és azoknak kezébe, a kiknek tekintetétõl félsz, és Nabukodonozornak, a babiloni királynak kezébe és a Káldeusoknak kezébe."
 "És elvetlek téged és a te anyádat, a ki szûlt téged, idegen földre, a melyben nem születtetek, és ott haltok meg."
 "És nem jõnek vissza arra a földre, a melyre az õ lelkök visszajõni kivánkozik."
-"Avagy útálatos és elromlott edény-é ez a férfiú, ez a Kóniás, avagy oly edény-é, amelyben semmi gyönyörûség nincsen? Miért lökték el õt és az õ magvát, és dobták olyan földre, a melyet õk nem ismernek?"
+"Avagy útálatos és elromlott edény-é ez a férfiú, ez a Kóniás, avagy oly edény-é, amelyben semmi gyönyörûség nincsen? #Miért lökték el õt és az õ magvát, és dobták olyan földre, a melyet õk nem ismernek?"
 "Föld, föld, föld! halld meg az Úrnak szavát!"
 "Ezt mondja az Úr

@@ -8,7 +8,7 @@
 "Astfel au făcut părinții voștri, când i-am trimis de la Cades-Barnea să vadă țara."
 "Căci, când s-au urcat la valea Eșcol și au văzut țara, au descurajat inima copiilor lui Israel, cum că nu ar trebui să intre în țara pe care DOMNUL le-a dat-o."
 "Și mânia DOMNULUI s-a aprins în acel timp și el a jurat, spunând
-"Negreșit niciunul dintre oamenii care s-au urcat din Egipt, de la vârsta de douăzeci de ani în sus, nu va vedea țara pe care eu am jurat-o lui Avraam, lui Isaac și lui Iacob; deoarece nu m-au urmat pe deplin,"
+"Negreșit niciunul dintre oamenii care s-au urcat din Egipt, de la vârsta de douăzeci de ani în sus, nu va vedea #țara pe care eu am jurat-o lui Avraam, lui Isaac și lui Iacob; deoarece nu m-au urmat pe deplin,"
 "În afară de Caleb, fiul lui Iefune chenizitul, și Iosua, fiul lui Nun, pentru că ei au urmat pe deplin pe DOMNUL."
 "Și mânia DOMNULUI s-a aprins împotriva lui Israel și i-a făcut să rătăcească în pustiu patruzeci de ani, până ce toată generația care făcuse rău înaintea ochilor DOMNULUI a fost mistuită."
 "Și, iată, voi v-ați ridicat în locul părinților voștri, [urmași] înmulțiți ai oamenilor păcătoși, ca să sporiți acum mânia înverșunată a DOMNULUI spre Israel."
@@ -30,7 +30,7 @@
 "Dar dacă nu vor trece cu voi înarmați, [atunci] să aibă stăpâniri printre voi în țara lui Canaan."
 "Și copiii lui Gad și copiii lui Ruben au răspuns, zicând
 "Vom trece înarmați înaintea DOMNULUI în țara lui Canaan, pentru ca stăpânirea moștenirii noastre de această parte a Iordanului [să fie] a noastră."
-"Și Moise le-a dat lor, [adică] copiilor lui Gad și copiilor lui Ruben și la jumătate din tribul lui Manase, fiul lui Iosif, împărăția lui Sihon, împăratul amoriților, și împărăția lui Og, împăratul Basanului, țara, cu cetățile ei în ținuturile [ei], cetățile țării de jur împrejur."
+"Și Moise le-a dat lor, [adică] copiilor lui Gad și copiilor lui Ruben și la jumătate din tribul lui Manase, fiul lui Iosif, împărăția #lui Sihon, împăratul amoriților, și împărăția lui Og, împăratul Basanului, țara, cu cetățile ei în ținuturile [ei], cetățile țării de jur împrejur."
 "Și copiii lui Gad au zidit Dibonul și Atarotul și Aroerul,"
 "Și Atrotul, Șofanul și Iaezerul și Iogbeha,"
 "Și Betnimra și Betharanul, cetăți fortificate; și țarcuri pentru oi."

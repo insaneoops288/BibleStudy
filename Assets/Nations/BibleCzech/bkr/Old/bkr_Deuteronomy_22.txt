@@ -18,7 +18,7 @@
 "Tedy starší města toho jmou muže a trestati ho budou,"
 "A uloží jemu pokutu sto lotů stříbra, kteréž dají otci děvečky, proto že vynesl zlou pověst proti panně Izraelské. I bude ji míti za manželku, kteréž nebude moci propustiti po všecky dny své."
 "Jináč byla-li by pravá žaloba ta, a nebylo by nalezeno panenství při děvečce
-"Tedy vyvedou děvečku ke dveřím otce jejího, a uházejí ji lidé města toho kamením, a umře; nebo dopustila se nešlechetnosti v Izraeli, smilnivši v domě otce svého. Tak odejmeš zlé z prostředku sebe."
+"Tedy vyvedou děvečku ke dveřím otce jejího, a uházejí ji lidé města toho kamením, a umře; nebo #dopustila se nešlechetnosti v Izraeli, smilnivši v domě otce svého. Tak odejmeš zlé z prostředku sebe."
 "Kdyby kdo postižen byl, že obýval s ženou manželkou cizí, tedy umrou oni oba dva, muž, kterýž obýval s tou ženou, i žena také; i odejmeš zlé z Izraele."
 "Byla-li by děvečka panna zasnoubená muži, a nalezna ji někdo v městě, obýval by s ní
 "Vyvedete oba dva k bráně města toho, a uházíte je kamením, a umrou, děvečka, proto že nekřičela, jsuci v městě, a muž proto, že ponížil ženy bližního svého; a odejmeš zlé z prostředku svého."

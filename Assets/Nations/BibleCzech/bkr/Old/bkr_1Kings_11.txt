@@ -30,8 +30,8 @@
 "Tedy ujav Achiáš roucho nové, kteréž měl na sobě, roztrhal je na dvanácte kusů."
 "A řekl Jeroboámovi
 "Jedno toliko pokolení zůstane jemu pro služebníka mého Davida, a pro město Jeruzalém, kteréž jsem vyvolil ze všech pokolení Izraelských,"
-"Proto že opustili mne, a klaněli se Astarot bohyni Sidonské, a Chámos bohu Moábskému, i Moloch bohu Ammonskému, a nechodili po cestách mých, aby činili to, což mi se líbí, totiž ustanovení má a soudy mé, jako David otec jeho."
-"A však neodejmu ničeho z království z rukou jemu; nebo vůdcím zanechám ho po všecky dny života jeho pro Davida služebníka svého, kteréhož jsem vyvolil, kterýž ostříhal přikázaní mých a ustanovení mých."
+"Proto že opustili mne, a klaněli se Astarot bohyni Sidonské, a Chámos bohu Moábskému, i Moloch bohu Ammonskému, a nechodili po #cestách mých, aby činili to, což mi se líbí, totiž ustanovení má a soudy mé, jako David otec jeho."
+"A však neodejmu ničeho z království z rukou jemu; nebo vůdcím zanechám ho po všecky dny života #jeho pro Davida služebníka svého, kteréhož jsem vyvolil, kterýž ostříhal přikázaní mých a ustanovení mých."
 "Ale potom vezma království z ruky syna jeho, dám tobě z něho desatero pokolení,"
 "Synu pak jeho dám jedno pokolení, aby zůstala svíce Davidovi služebníku mému po všecky dny přede mnou v městě Jeruzalémě, kteréž jsem sobě vyvolil, aby tam jméno mé přebývalo."
 "A tak tebe vezmu, abys kraloval ve všech věcech, kterýchž by žádala duše tvá, a budeš králem nad Izraelem."

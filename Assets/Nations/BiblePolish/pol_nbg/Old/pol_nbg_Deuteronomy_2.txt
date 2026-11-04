@@ -4,12 +4,12 @@
 "Rozkażesz ludowi i powiesz
 "Nie wszczynajcie z nimi walki, gdyż z ich ziemi nie oddam wam ani na stopę nogi; bowiem górę Seir oddałem w dziedzictwo Esawowi."
 "Za pieniądze kupujcie od nich żywność, abyście jedli; także za pieniądze nabywajcie u nich wody, abyście pili."
-"Gdyż WIEKUISTY, twój Bóg, błogosławił ci we każdej sprawie twych rąk, opiekując się twoim marszem przez wielką pustynię. Oto WIEKUISTY, twój Bóg, jest z tobą czterdzieści lat, więc na niczym ci nie zbywało."
+"Gdyż WIEKUISTY, twój Bóg, błogosławił ci we każdej sprawie twych rąk, opiekując się twoim marszem przez wielką #pustynię. Oto WIEKUISTY, twój Bóg, jest z tobą czterdzieści lat, więc na niczym ci nie zbywało."
 "Tak odeszliśmy od naszych braci, synów Esawa, osiadłych na Seirze, od drogi Araby, od Elath i EcjonGeber. A zwróciliśmy się i poszliśmy drogą ku puszczy moabskiej."
 "Zaś WIEKUISTY do mnie powiedział
 "Przedtem zamieszkiwali ją Emici; wielki, liczny i rosły lud, podobnie jak Enakowie."
 "Ich również uważano za olbrzymów, jak i Enakitów; zaś Moabici nazywają ich Emitami."
-"A przedtem na Seirze osiedli Chorejczycy, ale synowie Esawa ich wypędzili i wytępili sprzed swojego oblicza, oraz osiedli na ich miejscu; tak jak to uczynił Israel z ziemią swojego dziedzictwa, którą dał im WIEKUISTY."
+"A przedtem na Seirze osiedli Chorejczycy, ale synowie Esawa ich wypędzili i wytępili sprzed swojego oblicza, oraz osiedli #na ich miejscu; tak jak to uczynił Israel z ziemią swojego dziedzictwa, którą dał im WIEKUISTY."
 "Teraz wstańcie oraz przeprawcie się przez potok Zered. Więc przeprawiliśmy się przez potok Zered."
 "Zaś czasu przez który szliśmy od KadeszBarnea do przeprawy przez potok Zered, było trzydzieści osiem lat; aż wyginęło całe pokolenie wojowników z obozu, jak przysiągł im WIEKUISTY."
 "Na nich była ręka WIEKUISTEGO, by ich wypleniać spośród obozu, dopóki nie wyginęli."
@@ -33,5 +33,5 @@
 "ale WIEKUISTY, nasz Bóg, oddał go w naszą moc, więc go poraziliśmy, jego synów i cały jego lud."
 "Wówczas zdobyliśmy wszystkie jego miasta oraz położyliśmy zaklęcie na całą męską ludność miast oraz kobiety i dzieci; nie zostawiliśmy ani szczątku."
 "Tylko zagrabiliśmy sobie bydło oraz łupy miast, które zdobyliśmy."
-"Od Aroer, które jest nad brzegiem potoku Arnon i od miasta, które znajduje się wśród potoku aż do Gilead. Nie było grodu, który byłby dla nas nieprzystępny; WIEKUISTY, nasz Bóg poddał nam wszystkie."
+"Od Aroer, które jest nad brzegiem potoku Arnon i od miasta, które znajduje się wśród potoku aż #do Gilead. Nie było grodu, który byłby dla nas nieprzystępny; WIEKUISTY, nasz Bóg poddał nam wszystkie."
 "Tylko nie zbliżyliśmy się do ziemi synów Ammonu, do całego przybrzeża potoku Jabbok, ani do górskich miast, ani do niczego, czego zabronił WIEKUISTY, nasz Bóg."

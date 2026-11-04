@@ -1,5 +1,5 @@
 "Tornou David a ajuntar todos os escolhidos de Israel, em número de trinta mil."
-"Depois levantou-se David, e partiu para Baalat de Judá com todo o povo que tinha consigo, para trazerem dali para cima a arca de Deus, a qual é chamada pelo Nome, o nome do Senhor dos exércitos, que se assenta sobre os querubins."
+"Depois levantou-se David, e partiu para Baalat de Judá com todo o povo que tinha consigo, para trazerem dali para cima a #arca de Deus, a qual é chamada pelo Nome, o nome do Senhor dos exércitos, que se assenta sobre os querubins."
 "Puseram a arca de Deus em um carro novo, e a levaram da casa de Aminadab, que estava sobre o outeiro; e Uzá e Aío, filhos de Aminadab, guiavam o carro novo."
 "Foram, pois, levando-o da casa de Aminadab, que estava sobre o outeiro, com a arca de Deus; e Aío ia adiante da arca."
 "E David, e toda a casa de Israel, tocavam perante o Senhor, com toda sorte de instrumentos de pau de faia, como também com harpas, saltérios, tamboris, pandeiros e címbalos."
@@ -16,7 +16,7 @@
 "Quando entrava a arca do Senhor na cidade de David, Mical, filha de Saul, estava olhando pela janela; e, vendo ao rei David saltando e dançando diante do senhor, o desprezou no seu coração."
 "Introduziram, pois, a arca do Senhor, e a puseram no seu lugar, no meio da tenda que David lhe armara; e David ofereceu holocaustos e ofertas pacíficas perante o Senhor."
 "Quando David acabou de oferecer os holocaustos e ofertas pacíficas, abençoou o povo em nome do Senhor dos exércitos."
-"Depois repartiu a todo o povo, a toda a multidão de Israel, tanto a homens como a mulheres, a cada um, um bolo de pão, um bom pedaço de carne e um bolo de passas. Em seguida todo o povo se retirou, cada um para sua casa."
+"Depois repartiu a todo o povo, a toda a multidão de Israel, tanto a homens como a mulheres, a cada um, um bolo de #pão, um bom pedaço de carne e um bolo de passas. Em seguida todo o povo se retirou, cada um para sua casa."
 "Então David voltou para abençoar a sua casa; e Mical, filha de Saul, saiu a encontrar-se com David, e disse
 "Disse, porém, David a Mical
 "Também ainda mais do que isso me envilecerei, e me humilharei aos meus olhos; mas das servas, de quem falaste, delas serei honrado."

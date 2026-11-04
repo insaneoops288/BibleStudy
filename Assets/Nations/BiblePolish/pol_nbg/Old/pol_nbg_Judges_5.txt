@@ -8,7 +8,7 @@
 "On wybrał sobie nowe bóstwa, a wtedy stanął u bram wojownik. Czy ukazała się tarcza, albo oszczep pośród czterdziestu tysięcy Israela?"
 "Moje serce jest oddane wodzom w Israelu; tym, co ochoczo się stawili z ludu. Wysławiajcie WIEKUISTEGO!"
 "Śpiewajcie wy, jeźdźcy na siwych oślicach; wy, którzy zasiadacie na makatach, i wy, wędrowcy na wyzwolonych drogach."
-"Głośniej niż okrzyki tych, co już bezpiecznie rozdzielają stada wśród wodopojów. Niech wysławiają tam łaski WIEKUISTEGO; łaski dla swych miasteczek w Israelu, bo lud WIEKUISTEGO znowu pociągnął do bram."
+"Głośniej niż okrzyki tych, co już bezpiecznie rozdzielają stada wśród wodopojów. Niech wysławiają tam łaski #WIEKUISTEGO; łaski dla swych miasteczek w Israelu, bo lud WIEKUISTEGO znowu pociągnął do bram."
 "Rozbudź się, rozbudź Deboro! Rozbudź się, rozbudź oraz zaśpiewaj pieśń! Powstań Baraku! Uprowadź twoich jeńców synu Abinoama!"
 "Słaby szczątek zwyciężył potężny naród; wśród bohaterów, WIEKUISTY go dla mnie pokonał."
 "Zwycięzcy Amaleka wywodzą swój szczep od Efraima; za tobą Binjamin ze swoimi tłumami; od Machira nadeszli znawcy Prawa, a od Zebuluna ci, co władają trzciną pisarza."
@@ -27,5 +27,5 @@
 "Przykląkł u jej nóg, padł i legł; u jej nóg przykląkł i legł; tam upadł zabity."
 "Matka Sysery wyglądała przez okno, zawodziła przez okienną kratę
 "Odpowiadają jej najmądrzejsze z jej księżniczek i ona sama odpowiada na swoje mowy
-"Czyżby nie natrafili na łup oraz go nie dzielili? Jedna dziewica, czy dwie na głowę mężczyzny; łup różnobarwnych tkanin dla Sysery; łup wzorzystych, różnobarwnych tkanin; po parze różnobarwnych, wzorzystych tkanin na szyję branek."
+"Czyżby nie natrafili na łup oraz go nie dzielili? Jedna dziewica, czy dwie na głowę mężczyzny; łup #różnobarwnych tkanin dla Sysery; łup wzorzystych, różnobarwnych tkanin; po parze różnobarwnych, wzorzystych tkanin na szyję branek."
 "Tak niech wyginą wszyscy Twoi wrogowie, WIEKUISTY! Ale ci, co Go miłują są jak wschód słońca w swojej wspaniałości! I kraj zażywał spokoju przez czterdzieści lat."

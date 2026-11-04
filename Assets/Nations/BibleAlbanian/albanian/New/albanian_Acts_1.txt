@@ -10,7 +10,7 @@
 "Dhe, si ata po i mbanin sytë e ngulitur në qiell, ndërsa ai po largohej, ja dy burra në rroba të bardha iu paraqitën atyre,"
 "dhe thanë
 "Atëherë ata u kthyen në Jeruzalem, nga mali që quhet i Ullinjve, që është afër Jeruzalemit sa një ecje e së shtunës."
-"Dhe, si u kthyen në qytet, u ngjitën në sallën e sipërme, ku rrinin Pjetri dhe Jakobi, Gjoni dhe Andrea, Filipi dhe Thomai, Bartolomeu dhe Mateu, Jakobi i Alfeut dhe Simon Zellshmi, dhe Juda i Jakobit."
+"Dhe, si u kthyen në qytet, u ngjitën në sallën e sipërme, ku rrinin Pjetri dhe Jakobi, Gjoni dhe #Andrea, Filipi dhe Thomai, Bartolomeu dhe Mateu, Jakobi i Alfeut dhe Simon Zellshmi, dhe Juda i Jakobit."
 "Të gjithë këta ngulmonin me një mendje të vetme në lutje dhe përgjërim së bashku me gratë, me Marinë, nënën e Jezusit, dhe me vëllezërit e tij."
 "Në ato ditë Pjetri u çua në mes të dishepujve (dhe numri i emrave të mbledhur ishte rreth njëqind e njëzet) dhe tha
 "''Vëllezër, ishte e nevojshme që të përmbushej ky Shkrim, të cilin Fryma e Shenjtë e parafoli me anë të gojës së Davidit në lidhje me Judën, i cili u bë prijës i atyre që e kapën Jezusin."

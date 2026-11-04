@@ -10,7 +10,7 @@
 "Delante de Jehová serán quebrantados sus adversarios, Y sobre ellos tronará desde los cielos
 "Y Elcana se volvió á su casa en Ramatha; y el niño ministraba á Jehová delante del sacerdote Eli."
 "Mas los hijos de Eli eran hombres impíos, y no tenían conocimiento de Jehová."
-"Y la costumbre de los sacerdotes con el pueblo era que, cuando alguno ofrecía sacrificio, venía el criado del sacerdote mientras la carne estaba á cocer, trayendo en su mano un garfio de tres ganchos;"
+"Y la costumbre de los sacerdotes con el pueblo era que, cuando alguno ofrecía sacrificio, venía el criado #del sacerdote mientras la carne estaba á cocer, trayendo en su mano un garfio de tres ganchos;"
 "Y hería con él en la caldera, ó en la olla, ó en el caldero, ó en el pote; y todo lo que sacaba el garfio, el sacerdote lo tomaba para si. De esta manera hacían á todo Israelita que venía á Silo."
 "Asimismo, antes de quemar el sebo, venía el criado del sacerdote, y decía al que sacrificaba
 "Y si le respondía el varón, Quemen luego el sebo hoy, y después toma tanta como quisieres; él respondía
@@ -25,8 +25,8 @@
 "Si pecare el hombre contra el hombre, los jueces le juzgarán; mas si alguno pecare contra Jehová, ¿quién rogará por él? Mas ellos no oyeron la voz de su padre, porque Jehová los quería matar."
 "Y el joven Samuel iba creciendo, y adelantando delante de Dios y delante de los hombres."
 "Y vino un varón de Dios á Eli, y díjole
-"Y yo le escogí por mi sacerdote entre todas las tribus de Israel, para que ofreciese sobre mi altar, y quemase perfume, y trajese ephod delante de mí; y dí á la casa de tu padre todas las ofrendas de los hijos de Israel."
-"¿Por qué habéis hollado mis sacrificios y mis presentes, que yo mandé ofrecer en el tabernáculo; y has honrado á tus hijos más que á mí, engordándoos de lo principal de todas las ofrendas de mi pueblo Israel?"
+"Y yo le escogí por mi sacerdote entre todas las tribus de Israel, para que ofreciese sobre mi altar, y quemase perfume, y #trajese ephod delante de mí; y dí á la casa de tu padre todas las ofrendas de los hijos de Israel."
+"¿Por qué habéis hollado mis sacrificios y mis presentes, que yo mandé ofrecer en el tabernáculo; y has honrado á #tus hijos más que á mí, engordándoos de lo principal de todas las ofrendas de mi pueblo Israel?"
 "Por tanto, Jehová el Dios de Israel dice
 "He aquí vienen días, en que cortaré tu brazo, y el brazo de la casa de tu padre, que no haya viejo en tu casa."
 "Y verás competidor en el tabernáculo, en todas las cosas en que hiciere bien á Israel; y en ningún tiempo habrá viejo en tu casa."

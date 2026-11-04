@@ -1,7 +1,7 @@
 "Starszemu nie łaj, ale jako ojca napominaj, młodszych jako braci,"
 "Starsze niewiasty jako matki, młodsze jako siostry, ze wszelaką czystością."
 "Wdowy miej w uczciwości, które prawdziwie są wdowami."
-"A jeźli która wdowa dzieci albo wnuczęta ma, niech się uczą pierwej przeciwko domowi własnemu być pobożnemi i wzajem oddawać rodzicom; albowiem to jest rzecz chwalebna i przyjemna przed obliczem Bożem."
+"A jeźli która wdowa dzieci albo wnuczęta ma, niech się uczą pierwej przeciwko domowi własnemu być #pobożnemi i wzajem oddawać rodzicom; albowiem to jest rzecz chwalebna i przyjemna przed obliczem Bożem."
 "A która jest prawdziwie wdowa i osierociała, ma nadzieję w Bogu i trwa w prośbach i w modlitwach w nocy i we dnie."
 "Ale która w rozkoszach żyje, ta żyjąc umarłą jest."
 "To tedy rozkazuj, żeby były nienaganione."

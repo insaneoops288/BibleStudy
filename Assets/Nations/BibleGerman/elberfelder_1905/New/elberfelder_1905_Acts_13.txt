@@ -8,7 +8,7 @@
 "Elymas aber, der Zauberer(denn so wird sein Name verdolmetscht), widerstand ihnen und suchte den Prokonsul von dem Glauben abwendig zu machen."
 "Saulus aber, der auch Paulus heißt, erfüllt mit Heiligem Geiste, blickte unverwandt auf ihn hin"
 "und sprach
-"Und jetzt siehe, die Hand des Herrn ist auf dir! Und du wirst blind sein und die Sonne eine Zeitlang nicht sehen. Und alsbald fiel Dunkel und Finsternis auf ihn; und er tappte umher und suchte solche, die ihn an der Hand leiteten."
+"Und jetzt siehe, die Hand des Herrn ist auf dir! Und du wirst blind sein und die Sonne eine Zeitlang nicht sehen. #Und alsbald fiel Dunkel und Finsternis auf ihn; und er tappte umher und suchte solche, die ihn an der Hand leiteten."
 "Dann, als der Prokonsul sah, was geschehen war, glaubte er, erstauntüber die Lehre des Herrn."
 "Als aber Paulus und seine Begleiter von Paphos abgefahren waren, kamen sie nach Perge in Pamphylien. Johannes aber sonderte sich von ihnen ab und kehrte nach Jerusalem zurück."
 "Sie aber zogen von Perge aus hindurch und kamen nach Antiochien in Pisidien; und sie gingen am Tage des Sabbaths in die Synagoge und setzten sich."
@@ -24,7 +24,7 @@
 "nachdem Johannes, angesichts seines Eintritts, zuvor die Taufe der Buße dem ganzen Volke Israel verkündigt hatte."
 "Als aber Johannes seinen Lauf erfüllte, sprach er
 "Brüder, Söhne des Geschlechts Abrahams, und die unter euch Gott fürchten, euch ist das Wort dieses Heils gesandt."
-"Denn die zu Jerusalem wohnen und ihre Obersten, indem sie diesen nicht erkannten, haben auch die Stimmen der Propheten erfüllt, welche jeden Sabbath gelesen werden, indem sieüber ihn Gericht hielten."
+"Denn die zu Jerusalem wohnen und ihre Obersten, indem sie diesen nicht erkannten, haben auch die #Stimmen der Propheten erfüllt, welche jeden Sabbath gelesen werden, indem sieüber ihn Gericht hielten."
 "Und obschon sie keine Ursache des Todes fanden, baten sie den Pilatus, daß er umgebracht würde."
 "Und nachdem sie alles vollendet hatten, wasüber ihn geschrieben ist, nahmen sie ihn vom Holze herab und legten ihn in eine Gruft."
 "Gott aber hat ihn aus den Toten auferweckt,"

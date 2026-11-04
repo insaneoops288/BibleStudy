@@ -1,7 +1,7 @@
 "És történt egy napon, hogy Jonathán, a Saul fia azt mondá szolgájának, a ki az õ fegyverét hordozza vala
 "Saul pedig Gibea határában, a gránátfa alatt tartózkodék, mely Migron [nevû mezõn] van; és a nép, mely vele volt, mintegy hatszáz ember vala."
 "És Ahija [is,] ki Silóban az efódot viseli, fia Akhitobnak, az Ikábód testvérének, Fineás fiának, a ki az Úr papjának, Élinek fia vala. És a nép nem tudta, hogy Jonathán eltávozék."
-"A szorosok között pedig, melyeken keresztül akara menni Jonathán a Filiszteusok elõõrséhez, volt egy hegyes kõszikla innen, és volt egy hegyes kõszikla túlfelõl. Az egyiknek Boczécz, a másiknak pedig Sené volt a neve."
+"A szorosok között pedig, melyeken keresztül akara menni Jonathán a Filiszteusok elõõrséhez, volt egy hegyes kõszikla innen, #és volt egy hegyes kõszikla túlfelõl. Az egyiknek Boczécz, a másiknak pedig Sené volt a neve."
 "Az egyik sziklacsúcs északra volt, Mikmás átellenében, és a másik délre, Géba átellenében."
 "És monda Jonathán a szolgának, a ki az õ fegyverét hordozá
 "És fegyverhordozója felele néki
@@ -18,7 +18,7 @@
 "És monda Saul Ahijának
 "És történt, hogy a míg Saul a pappal beszéle, a Filiszteusok táborában mind nagyobb lõn a zsibongás. Monda azért Saul a papnak
 "És felkiálta Saul és a nép, mely vele volt, és elmenének az ütközetre. Ott pedig egyik a másik ellen harczola, [és] igen nagy zûrzavar lõn."
-"És azok a zsidók [is, kik,] mint azelõtt is, a Filiszteusokkal valának, s velök együtt feljövének a táborba és a körül valának, azok is Izráel népéhez [csatlakozának,] mely Saul és Jonathán mellett vala."
+"És azok a zsidók [is, kik,] mint azelõtt is, a Filiszteusokkal valának, s velök együtt feljövének a #táborba és a körül valának, azok is Izráel népéhez [csatlakozának,] mely Saul és Jonathán mellett vala."
 "És Izráelnek mindazon férfiai, kik elrejtõzének Efraim hegységében, mikor meghallották, hogy a Filiszteusok menekültek, azok is üldözni kezdék õket a harczban."
 "És megsegíté az Úr azon a napon Izráelt. És a harcz Béth-Avenen túl terjede."
 "És Izráel népe igen elepedett vala azon a napon, mert Saul esküvel kényszeríté a népet, mondván

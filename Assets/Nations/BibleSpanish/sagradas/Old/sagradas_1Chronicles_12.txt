@@ -5,7 +5,7 @@
 "Eluzai, y Jerimot, Bealías, Semarías, y Sefatías harufita;"
 "Elcana, e Isías, y Azareel, y Joezer, y Jasobeam, de Coré;"
 "y Joela, y Zebadías, hijos de Jeroham de Gedor."
-"<I>También</I>  de los de Gad se huyeron a David, <I>estando</I>  en la fortaleza en el desierto, muy valientes hombres de guerra para pelear, puestos en orden con escudo y pavés; sus rostros como rostros de leones, y ligeros  como las cabras monteses."
+"<I>También</I>  de los de Gad se huyeron a David, <I>estando</I>  en la fortaleza en el desierto, muy valientes hombres de guerra #para pelear, puestos en orden con escudo y pavés; sus rostros como rostros de leones, y ligeros  como las cabras monteses."
 "Ezer <I>era</I>  el capitán, Obadías el segundo, Eliab el tercero,"
 "Mismana el cuarto, Jeremías el quinto,"
 "Atai el sexto, Eliel el séptimo,"
@@ -16,7 +16,7 @@
 "Asimismo <I>algunos</I>  de los hijos de Benjamín y de Judá vinieron a David a la fortaleza."
 "Y David salió a ellos, y les habló diciendo
 "Entonces se envistió el espíritu en Amasai, príncipe de treinta, <I>y dijo</I>
-"También se pasaron a David <I>algunos</I>  de Manasés, cuando vino con los filisteos a la batalla contra Saúl, aunque no les ayudaron; porque los sátrapas de los filisteos, habido consejo, lo despidieron, diciendo
+"También se pasaron a David <I>algunos</I>  de Manasés, cuando vino con los filisteos a la batalla contra #Saúl, aunque no les ayudaron; porque los sátrapas de los filisteos, habido consejo, lo despidieron, diciendo
 "Así que viniendo él a Siclag, se pasaron a él de los de Manasés, Adnas, Jozabad, Jediaiel, Micael, Jozabad, Eliú, y Ziletai, príncipes de millares de los de Manasés."
 "Estos ayudaron a David contra aquella compañía; porque todos ellos eran hombres valientes, y fueron capitanes en el ejército."
 "Porque entonces todos los días venía ayuda a David, hasta <I>hacerse</I>  un grande ejército, como ejército de Dios."
@@ -35,6 +35,6 @@
 "De los de Dan, dispuestos a pelear, veintiocho mil seiscientos."
 "Y de Aser, a punto de guerra y aparejados a pelear, cuarenta mil."
 "Y del otro lado del Jordán, de los de Rubén y de los de Gad y de la media tribu de Manasés, ciento veinte mil con toda suerte de armas de guerra."
-"Todos estos hombres de guerra, dispuestos para guerrear, vinieron con corazón perfecto a Hebrón, para poner a David por rey sobre todo Israel; y asimismo todos los demás de Israel tenían un <I>mismo</I>  corazón para poner  a David por rey."
+"Todos estos hombres de guerra, dispuestos para guerrear, vinieron con corazón perfecto a Hebrón, para poner a David por rey sobre todo #Israel; y asimismo todos los demás de Israel tenían un <I>mismo</I>  corazón para poner  a David por rey."
 "Y estuvieron allí con David tres días comiendo y bebiendo, porque sus hermanos habían preparado para ellos."
-"Y asimismo los que les eran vecinos, hasta Isacar y Zabulón y Neftalí, trajeron pan en asnos, y camellos, y mulos, y bueyes; comida, y harina, masas de higos, y pasas, vino, y aceite, bueyes y ovejas en abundancia, porque  en Israel había alegría."
+"Y asimismo los que les eran vecinos, hasta Isacar y Zabulón y Neftalí, trajeron pan en asnos, y camellos, y mulos, y bueyes; #comida, y harina, masas de higos, y pasas, vino, y aceite, bueyes y ovejas en abundancia, porque  en Israel había alegría."

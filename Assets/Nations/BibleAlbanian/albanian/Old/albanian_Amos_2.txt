@@ -4,7 +4,7 @@
 "Kështu thotë Zoti
 "Prandaj do të dërgoj zjarr në Judë, që do të gllabërojë pallatet e Jeruzalemit""."
 "Kështu thotë Zoti
-"ata që dëshirojnë fort të shohin pluhurin e tokës mbi kryet e të varfërve dhe shkelin të drejtën e të përulurve. Një njeri dhe ati i tij shkojnë bashkë te po ajo vajzë, për të përdhosur emrin tim të shenjtë."
+"ata që dëshirojnë fort të shohin pluhurin e tokës mbi kryet e të varfërve dhe shkelin të drejtën e të përulurve. #Një njeri dhe ati i tij shkojnë bashkë te po ajo vajzë, për të përdhosur emrin tim të shenjtë."
 "Shtrihen rreth çdo altari me rroba që kanë marrë hua dhe në shtëpinë e perëndive të tyre pinë verën e atyre që janë dënuar me gjobë."
 "Unë, pra, e shkatërrova para tyre Amoreon, që ishte i gjatë sa është i gjatë kedri dhe ishte fortë si lisi; unë shkatërrova frytin e tij lart dhe rrënjët e tij poshtë."
 "Unë ju nxora gjithashtu nga vendi i Egjiptit dhe ju çova për dyzet vjet në shkretëtirë, për t'ju dhënë në trashëgimi vendin e Amoreut."

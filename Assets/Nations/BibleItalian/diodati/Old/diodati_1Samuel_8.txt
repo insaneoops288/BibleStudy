@@ -9,7 +9,7 @@
 "Ora dunque acconsenti alla voce loro; ma tuttavia del tutto protesta, e dichiara loro la ragione del re, che regnerà sopra loro."
 "E Samuele rapportò tutte le parole del Signore al popolo, che gli chiedeva un re."
 "E disse
-"Li prenderà eziandio per constituirseli capitani di migliaia, e capitani di cinquantine; e per arare i suoi campi, e per far la sua ricolta, e per fabbricar le sue armi, e gli arnesi de’ suoi carri."
+"Li prenderà eziandio per constituirseli capitani di migliaia, e capitani di cinquantine; e per arare i suoi campi, e #per far la sua ricolta, e per fabbricar le sue armi, e gli arnesi de’ suoi carri."
 "Egli prenderà eziandio le vostre figliuole per profumiere, e cuoche, e panattiere."
 "Piglierà ancora i vostri campi, e le vostre vigne, e i vostri migliori uliveti, e li donerà a’ suoi servitori."
 "Egli torrà eziandio le decime delle vostre semente, e delle vostre vigne, e le donerà a’ suoi ufficiali, e a’ suoi servitori."

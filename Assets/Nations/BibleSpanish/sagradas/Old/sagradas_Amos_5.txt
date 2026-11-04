@@ -5,7 +5,7 @@
 "y no busquéis a Bet-el ni entréis en Gilgal, ni paséis a Beerseba; porque Gilgal será llevada en cautiverio, y Bet-el será deshecha."
 "Buscad al SEÑOR, y vivid; no sea que hienda, como fuego, a la Casa de José, y la consuma, sin haber en Bet-el quien lo apague."
 "<I>Los</I>  que convierten en ajenjo el juicio, y dejan <I>de hacer</I>  la justicia en la tierra,"
-"miren al que hace el Arcturo y el Orión, y las tinieblas vuelve en mañana, y hace oscurecer el día en noche; el que llama a las aguas del mar, y las derrama sobre la faz de la tierra; el SEÑOR es su nombre;"
+"miren al que hace el Arcturo y el Orión, y las tinieblas vuelve en mañana, y hace oscurecer el día en noche; el #que llama a las aguas del mar, y las derrama sobre la faz de la tierra; el SEÑOR es su nombre;"
 "que da esfuerzo al despojador sobre el fuerte, y que el despojador venga contra la fortaleza."
 "<I>Ellos</I>  aborrecieron en la puerta al reprensor, y al que hablaba lo recto abominaron."
 "Por tanto, puesto que vejáis al pobre y recibís de él carga de trigo; edificasteis casas de sillares, mas no las habitaréis; plantasteis hermosas viñas, mas no beberéis el vino de ellas."

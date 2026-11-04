@@ -24,7 +24,7 @@
 "Die haben alle mit dir gehandelt mit köstlichem Gewand, mit purpurnen und gestickten Tüchern, welche sie in köstlichen Kasten, von Zedern gemacht und wohl verwahrt, auf deine Märkte geführt haben."
 "Aber die Tharsisschiffe sind die vornehmsten auf deinen Märkten gewesen. Also bist du sehr reich und prächtig geworden mitten im Meer."
 "Deine Ruderer haben dich oft auf große Wasser geführt; ein Ostwind wird dich mitten auf dem Meer zerbrechen,"
-"also daß dein Reichtum, dein Kaufgut, deine Ware, deine Schiffsleute, deine Schiffsherren und die, so deine Risse bessern und die deinen Handel treiben und alle deine Kriegsleute und alles Volk in dir mitten auf dem Meer umkommen werden zur Zeit, wann du untergehst;"
+"also daß dein Reichtum, dein Kaufgut, deine Ware, deine Schiffsleute, deine Schiffsherren und die, so deine Risse bessern und die deinen Handel #treiben und alle deine Kriegsleute und alles Volk in dir mitten auf dem Meer umkommen werden zur Zeit, wann du untergehst;"
 "daß auch die Anfurten erbeben werden vor dem Geschrei deiner Schiffsherren."
 "Und alle, die an den Rudern ziehen, samt den Schiffsknechten und Meistern werden aus ihren Schiffen ans Land treten"
 "und lautüber dich schreien, bitterlich klagen und werden Staub auf ihre Häupter werfen und sich in der Asche wälzen."

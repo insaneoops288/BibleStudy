@@ -6,6 +6,6 @@
 "L'épée fondra sur leurs villes, et en consumera les défenseurs, et les dévorera à cause de leurs desseins."
 "Et mon peuple est attaché à sa rébellion contre moi; on le rappelle au Souverain, mais aucun ne l'exalte."
 "Comment t'abandonnerais-je, Éphraïm? Te livrerais-je, Israël? Te traiterais-je comme Adma, te rendrais-je tel que Tséboïm? Mon cœur s'agite au-dedans de moi; toutes mes compassions sont émues."
-"Je n'exécuterai point l'ardeur de ma colère, et je ne reviendrai pas pour détruire Éphraïm; car je suis Dieu et non pas un homme; je suis le Saint au milieu de toi; je ne viendrai pas avec irritation."
+"Je n'exécuterai point l'ardeur de ma colère, et je ne reviendrai pas pour détruire Éphraïm; car je suis Dieu et #non pas un homme; je suis le Saint au milieu de toi; je ne viendrai pas avec irritation."
 "Ils marcheront après l'Éternel, qui rugira comme un lion. Car il rugira, et les enfants accourront en hâte de l'occident. Ils accourront de l'Égypte, comme un oiseau,"
 "Et du pays d'Assyrie, comme une colombe, et je les ferai habiter dans leurs maisons, dit l'Éternel."

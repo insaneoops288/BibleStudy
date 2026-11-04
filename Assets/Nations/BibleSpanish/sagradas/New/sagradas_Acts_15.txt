@@ -1,5 +1,5 @@
 "Entonces algunos que venían de Judea enseñaban a los hermanos
-"Así que, suscitada una disensión y contienda no pequeña a Pablo y a Bernabé contra ellos, determinaron que subiesen Pablo y Bernabé a Jerusalén, y algunos otros de ellos, a los apóstoles y a los ancianos, sobre esta cuestión."
+"Así que, suscitada una disensión y contienda no pequeña a Pablo y a Bernabé contra ellos, determinaron que subiesen Pablo #y Bernabé a Jerusalén, y algunos otros de ellos, a los apóstoles y a los ancianos, sobre esta cuestión."
 "Ellos, pues, habiendo sido acompañados de <I>algunos de</I>  la Iglesia, pasaron por Fenicia y Samaria, contando la conversión de los gentiles; y daban gran gozo a todos los hermanos."
 "Y llegados a Jerusalén, fueron recibidos por la Iglesia y por los apóstoles y por los ancianos; y refirieron todas las cosas que Dios había hecho con ellos."
 "Mas algunos de la secta de los fariseos, que habían creído, se levantaron, diciendo
@@ -19,7 +19,7 @@
 "Por lo cual yo juzgo, que los que de los gentiles se convierten a Dios, no han de ser inquietados;"
 "sino escribirles que se aparten de las contaminaciones de los ídolos, y de fornicación, y de <I>lo</I>  ahogado, y de sangre."
 "Porque Moisés desde los tiempos antiguos tiene en cada ciudad quien le predique en las sinagogas, donde es leído cada sábado."
-"Entonces pareció bien a los apóstoles y a los ancianos, con toda la Iglesia, enviar varones escogidos de <I>entre</I>  ellos a Antioquía con Pablo y Bernabé; a Judas que tenía por sobrenombre Barsabás, y a Silas, varones  principales entre los hermanos;"
+"Entonces pareció bien a los apóstoles y a los ancianos, con toda la Iglesia, enviar varones escogidos de <I>entre</I>  ellos a #Antioquía con Pablo y Bernabé; a Judas que tenía por sobrenombre Barsabás, y a Silas, varones  principales entre los hermanos;"
 "y escribir por mano de ellos
 "Por cuanto hemos oído que algunos que han salido de nosotros, os han inquietado con palabras, trastornando vuestras almas, mandando circuncidaros y guardar la ley, a los cuales no mandamos;"
 "nos ha parecido, congregados en uno, enviar varones escogidos a vosotros con nuestros amados Bernabé y Pablo,"

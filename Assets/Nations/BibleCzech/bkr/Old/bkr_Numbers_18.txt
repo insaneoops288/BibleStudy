@@ -4,11 +4,11 @@
 "A přídržeti se budou tebe, pilně ostříhajíce stánku úmluvy při všech službách jeho; a cizí žádný nepřistupuj k vám."
 "Protož pilně ostříhejte svatyně i služby oltáře, ať nepřichází více zůřivá prchlivost na syny Izraelské,"
 "Poněvadž jsem já vybral bratří vaše Levíty z synů Izraelských vám, za dar dané Hospodinu, aby konali službu při stánku úmluvy."
-"Ty pak a synové tvoji s tebou ostříhati budete kněžství svého při všech věcech přináležejících k oltáři, a kteréž jsou za oponou, a sloužiti budete. Úřad kněžství vašeho darem jsem vám dal, protož, přistoupil-li by kdo cizí, umře."
+"Ty pak a synové tvoji s tebou ostříhati budete kněžství svého při všech věcech přináležejících k oltáři, a kteréž jsou #za oponou, a sloužiti budete. Úřad kněžství vašeho darem jsem vám dal, protož, přistoupil-li by kdo cizí, umře."
 "Mluvil také Hospodin k Aronovi
 "Toto bude tvé z věcí posvěcených, kteréž nepřicházejí na oheň
 "V svatyni budeš je jísti, každý pohlaví mužského bude je jísti; svaté bude tobě."
-"Tvá tedy bude obět darů jejich, kteráž vzhůru pozdvižena bývá; každou také obět synů Izraelských, kteráž sem i tam obracína bývá, tobě jsem dal a synům tvým, i dcerám tvým s tebou ustanovením věčným. Každý, kdož jest čistý v domě tvém, bude je jísti."
+"Tvá tedy bude obět darů jejich, kteráž vzhůru pozdvižena bývá; každou také obět synů Izraelských, kteráž sem i tam obracína bývá, tobě jsem #dal a synům tvým, i dcerám tvým s tebou ustanovením věčným. Každý, kdož jest čistý v domě tvém, bude je jísti."
 "Všecko, což předního jest z oleje, a což nejlepšího jest vína a obilé, prvotiny těch věcí, kteréž dají Hospodinu, dal jsem tobě."
 "Prvotiny všech věcí, kteréž rostly v zemi jejich, ty přinesou Hospodinu, a tvé budou. Každý, kdož jest čistý v domě tvém, jísti je bude."
 "Všecko oddané Bohu v Izraeli tvé bude."
@@ -16,7 +16,7 @@
 "Výplata pak jeho, když mu již jeden měsíc bude, vedlé ceny tvé bude pěti loty stříbra podlé lotu svatyně; dvadceti peněz váží lot."
 "Ale prvorozeného z volů, neb z ovcí, neb z koz, nedáš vyplatiti; nebo posvěceny jsou. Krev jejich vykropíš na oltář, a tuk jejich zapálíš, aby byl obětí ohnivou vůně spokojující Hospodina."
 "Maso pak jejich tvé bude; jako hrudí z oběti sem i tam obracení, a jako plece pravé tvé bude."
-"Každou obět vzhůru pozdvižení z věcí posvěcených, kteréž přinášejí synové Izraelští Hospodinu, dal jsem tobě, a synům tvým, i dcerám tvým s tebou ustanovením věčným, smlouvou trvánlivou a věčnou před Hospodinem, tobě i semeni tvému s tebou."
+"Každou obět vzhůru pozdvižení z věcí posvěcených, kteréž přinášejí synové Izraelští Hospodinu, dal jsem tobě, a synům tvým, i #dcerám tvým s tebou ustanovením věčným, smlouvou trvánlivou a věčnou před Hospodinem, tobě i semeni tvému s tebou."
 "Mluvil také Hospodin k Aronovi
 "Synům pak Léví, aj, dal jsem všecky desátky v Izraeli za dědictví, za službu jejich, kterouž vykonávají, sloužíce při stánku úmluvy."
 "A synové Izraelští nechať nepřistupují k stánku úmluvy, aby nenesli hříchu a nezemřeli."

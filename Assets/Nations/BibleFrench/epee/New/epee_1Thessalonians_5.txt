@@ -20,7 +20,7 @@
 "Ne méprisez point les interprétations."
 "Éprouvez toutes choses; retenez ce qui est bon."
 "Abstenez-vous de toute espèce de mal."
-"Or, que le Dieu de paix vous sanctifie lui-même tout entiers, et que tout ce qui est en vous, l'esprit, l'âme et le corps, soit conservé irrépréhensible lors de l'avènement de notre Seigneur Jésus-Christ!"
+"Or, que le Dieu de paix vous sanctifie lui-même tout entiers, et que tout ce qui est en #vous, l'esprit, l'âme et le corps, soit conservé irrépréhensible lors de l'avènement de notre Seigneur Jésus-Christ!"
 "Celui qui vous a appelés, est fidèle, et il le fera."
 "Frères, priez pour nous."
 "Saluez tous les frères par un saint baiser."

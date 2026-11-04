@@ -6,7 +6,7 @@
 "Zu jener Zeit zog der König Joram von Samaria aus und musterte ganz Israel;"
 "und er sandte zu Josaphat, dem König von Juda, und ließ ihm sagen
 "Und er sprach
-"Da zogen aus der König von Israel, der König von Juda und der König von Edom. Als sie aber einen Weg von sieben Tagen zurückgelegt hatten, hatte das Heer und das Vieh, das ihnen folgte, kein Wasser mehr."
+"Da zogen aus der König von Israel, der König von Juda und der König von Edom. Als sie aber einen #Weg von sieben Tagen zurückgelegt hatten, hatte das Heer und das Vieh, das ihnen folgte, kein Wasser mehr."
 "Da sprach der König von Israel
 "Josaphat aber sprach
 "Josaphat sprach
@@ -22,6 +22,6 @@
 "Und als sie sich am Morgen früh aufmachten und die Sonneüber dem Wasser aufging, erschien den Moabitern das Wasser drüben rot wie Blut."
 "Und sie sprachen
 "Als sie aber zum Lager Israels kamen, machten sich die Israeliten auf und schlugen die Moabiter, daß sie vor ihnen flohen."
-"Jene aber drangen ins Land ein und schlugen Moab und rissen die Städte nieder und warfen ein jeder seinen Stein auf alle gutenÄcker, bis sie voll waren, und verstopften alle Wasserbrunnen und fällten alle guten Bäume, bis in Kir-Hareset nur noch dessen Steinmauernübrigblieben. Und die Schleuderer umzingelten und beschossen es."
-"Als aber der König der Moabiter sah, daß ihm der Streit zu stark ward, nahm er siebenhundert Mann mit sich, die das Schwert zogen, um gegen den König von Edom durchzubrechen; aber sie konnten nicht."
-"Da nahm er seinen erstgeborenen Sohn, der an seiner Statt König werden sollte, und opferte ihn zum Brandopfer auf der Mauer. Und es entstand großer Unwille wider Israel, so daß sie von ihm abzogen und wieder in ihr Land zurückkehrten."
+"Jene aber drangen ins Land ein und schlugen Moab und rissen die Städte nieder und warfen ein jeder seinen Stein auf alle gutenÄcker, bis sie voll #waren, und verstopften alle Wasserbrunnen und fällten alle guten Bäume, bis in Kir-Hareset nur noch dessen Steinmauernübrigblieben. Und die Schleuderer umzingelten und beschossen es."
+"Als aber der König der Moabiter sah, daß ihm der Streit zu stark ward, nahm er siebenhundert Mann #mit sich, die das Schwert zogen, um gegen den König von Edom durchzubrechen; aber sie konnten nicht."
+"Da nahm er seinen erstgeborenen Sohn, der an seiner Statt König werden sollte, und opferte ihn zum Brandopfer auf der Mauer. #Und es entstand großer Unwille wider Israel, so daß sie von ihm abzogen und wieder in ihr Land zurückkehrten."

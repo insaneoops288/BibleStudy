@@ -18,7 +18,7 @@
 "Che se siete condotti per lo Spirito, voi non siete sotto la legge."
 "Ora, manifeste son le opere della carne, che sono
 "idolatria, avvelenamento, inimicizie, contese, gelosie, ire, risse, dissensioni,"
-"sette, invidie, omicidii, ebbrezze, ghiottonerie, e cose a queste simiglianti; delle quali cose vi predico, come ancora già ho predetto, che coloro che fanno cotali cose non erederanno il regno di Dio."
+"sette, invidie, omicidii, ebbrezze, ghiottonerie, e cose a queste simiglianti; delle quali cose vi predico, come ancora #già ho predetto, che coloro che fanno cotali cose non erederanno il regno di Dio."
 "Ma il frutto dello Spirito è
 "Contro a cotali cose non vi è legge."
 "Or coloro che son di Cristo hanno crocifissa la carne con gli affetti, e con le concupiscenze."

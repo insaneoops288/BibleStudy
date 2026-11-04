@@ -1,5 +1,5 @@
 "Pas këtyre gjërave Pali u nis nga Athina dhe erdhi në Korint."
-"Dhe si gjeti një farë Judeu, me emër Akuila, lindur në Pont, i ardhur rishtas nga Italia bashkë me gruan e tij Priskilën (sepse Klaudi kishte urdhëruar që të gjithë Judenjtë të largohen nga Roma), shkoi tek ata."
+"Dhe si gjeti një farë Judeu, me emër Akuila, lindur në Pont, i ardhur rishtas nga Italia bashkë me gruan #e tij Priskilën (sepse Klaudi kishte urdhëruar që të gjithë Judenjtë të largohen nga Roma), shkoi tek ata."
 "Dhe duke qenë se kishin të njëjtën mjeshtëri, shkoi të banojë me ta dhe punonte; se mjeshtëria e tyre ishte të bënin çadra."
 "Çdo të shtunë mësonte në sinagogë dhe bindte Judenj dhe Grekë."
 "Kur Sila dhe Timoteu zbritën nga Maqedonia, Pali shtyhej nga Fryma për t'u dëshmuar Judenjve se Jezusi ishte Krishti."

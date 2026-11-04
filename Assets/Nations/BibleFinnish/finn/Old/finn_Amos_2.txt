@@ -6,7 +6,7 @@
 "Näin sanoo Herra
 "He tallaavat vaivaisen maan tomuun, ja estävät raadollisia joka paikassa; poika ja isä makaa yhden vaimon kanssa, jolla he minun pyhän nimeni häpäisevät."
 "Ja jokaisen alttarin tykönä he pitoa pitävät panttivaatteista, ja juovat viinaa sakkorahoista epäjumalainsa huoneessa."
-"Ja minä olen kuitenkin Amorilaisen heidän edestänsä kadottanut, jonka korkeus oli niinkuin sedripuiden korkeus, ja joka oli niin vahva kuin tammet; ja minä turmelin ylhäältä hänen hedelmänsä, ja hänen juurensa alhaalta."
+"Ja minä olen kuitenkin Amorilaisen heidän edestänsä kadottanut, jonka korkeus oli niinkuin sedripuiden korkeus, ja joka #oli niin vahva kuin tammet; ja minä turmelin ylhäältä hänen hedelmänsä, ja hänen juurensa alhaalta."
 "Minä olen se, joka teitä Egyptin maalta toin, ja johdattain teitä korvessa neljäkymmentä ajastaikaa, että te Amorilaisten maan omistitte."
 "Ja olen teidän lapsistanne prophetat herättänyt, ja teidän nuorukaisistanne nasiirit; eikö se niin ole, te Israelin lapset? sanoo Herra."
 "Mutta te annoitte nasiirein viinaa juoda, ja prophetaita te haastoitte, sanoen

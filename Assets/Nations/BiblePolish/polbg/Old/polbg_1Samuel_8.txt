@@ -9,7 +9,7 @@
 "Przetoż teraz usłuchaj głosu ich, a wszakże oświadcz się jako najpilniej przed nimi, i oznajmij im prawo króla, który nad nimi ma królować."
 "A tak Samuel odniósł wszystkie słowa Pańskie do ludu, który go prosił o króla,"
 "I mówił
-"Poczyni też sobie z nich pułkowniki nad tysiącami, i rotmistrze nad pięćdziesięcioma; poczyni z nich oracze ról swoich, i żeńce żniwa swego, i te, którzyby robili rynsztunki wojenne, i potrzeby do wozów jego."
+"Poczyni też sobie z nich pułkowniki nad tysiącami, i rotmistrze nad pięćdziesięcioma; poczyni z nich oracze ról #swoich, i żeńce żniwa swego, i te, którzyby robili rynsztunki wojenne, i potrzeby do wozów jego."
 "Córki też wasze pobierze, by gotowały rzeczy wonne, i były kucharkami i piekarkami."
 "Pola też wasze, i winnice wasze, i oliwnice wasze co najlepsze pobierze, a rozda sługom swoim."
 "Przytem z zasiewków waszych, i z winnic waszych będzie brał dziesięciny, i rozda je komornikom swoim, i sługom swoim."

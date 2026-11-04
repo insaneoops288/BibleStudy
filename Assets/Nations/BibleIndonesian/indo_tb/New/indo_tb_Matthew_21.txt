@@ -29,8 +29,8 @@
 "Jawab anak itu
 "Lalu orang itu pergi kepada anak yang kedua dan berkata demikian juga. Dan anak itu menjawab
 "Siapakah di antara kedua orang itu yang melakukan kehendak ayahnya?"" Jawab mereka
-"Sebab Yohanes datang untuk menunjukkan jalan kebenaran kepadamu, dan kamu tidak percaya kepadanya. Tetapi pemungut-pemungut cukai dan perempuan-perempuan sundal percaya kepadanya. Dan meskipun kamu melihatnya, tetapi kemudian kamu tidak menyesal dan kamu tidak juga percaya kepadanya."""
-"""Dengarkanlah suatu perumpamaan yang lain. Adalah seorang tuan tanah membuka kebun anggur dan menanam pagar sekelilingnya. Ia menggali lobang tempat memeras anggur dan mendirikan menara jaga di dalam kebun itu. Kemudian ia menyewakan kebun itu kepada penggarap-penggarap lalu berangkat ke negeri lain."
+"Sebab Yohanes datang untuk menunjukkan jalan kebenaran kepadamu, dan kamu tidak percaya kepadanya. Tetapi pemungut-pemungut cukai dan perempuan-perempuan sundal #percaya kepadanya. Dan meskipun kamu melihatnya, tetapi kemudian kamu tidak menyesal dan kamu tidak juga percaya kepadanya."""
+"""Dengarkanlah suatu perumpamaan yang lain. Adalah seorang tuan tanah membuka kebun anggur dan menanam pagar sekelilingnya. Ia menggali lobang tempat memeras anggur #dan mendirikan menara jaga di dalam kebun itu. Kemudian ia menyewakan kebun itu kepada penggarap-penggarap lalu berangkat ke negeri lain."
 "Ketika hampir tiba musim petik, ia menyuruh hamba-hambanya kepada penggarap-penggarap itu untuk menerima hasil yang menjadi bagiannya."
 "Tetapi penggarap-penggarap itu menangkap hamba-hambanya itu
 "Kemudian tuan itu menyuruh pula hamba-hamba yang lain, lebih banyak dari pada yang semula, tetapi merekapun diperlakukan sama seperti kawan-kawan mereka."

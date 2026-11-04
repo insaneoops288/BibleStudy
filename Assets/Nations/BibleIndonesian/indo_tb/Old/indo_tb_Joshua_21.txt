@@ -40,6 +40,6 @@
 "Seluruhnya kota-kota itu ditentukan bagi keturunan Merari menurut kaum-kaum mereka, yakni yang masih tinggal dari kaum-kaum orang Lewi. Bagian undian mereka ada dua belas kota."
 "Seluruhnya kota-kota orang Lewi di tengah-tengah milik orang Israel ada empat puluh delapan kota dengan tanah-tanah penggembalaannya."
 "Kota-kota itu masing-masing ada tanah-tanah penggembalaannya di sekelilingnya, demikianlah kota-kota tadi seluruhnya."
-"Jadi seluruh negeri itu diberikan TUHAN kepada orang Israel, yakni negeri yang dijanjikan-Nya dengan bersumpah untuk diberikan kepada nenek moyang mereka. Mereka menduduki negeri itu dan menetap di sana."
-"Dan TUHAN mengaruniakan kepada mereka keamanan ke segala penjuru, tepat seperti yang dijanjikan-Nya dengan bersumpah kepada nenek moyang mereka. Tidak ada seorangpun dari semua musuhnya yang tahan berdiri menghadapi mereka; semua musuhnya diserahkan TUHAN kepada mereka."
+"Jadi seluruh negeri itu diberikan TUHAN kepada orang Israel, yakni negeri yang dijanjikan-Nya dengan bersumpah #untuk diberikan kepada nenek moyang mereka. Mereka menduduki negeri itu dan menetap di sana."
+"Dan TUHAN mengaruniakan kepada mereka keamanan ke segala penjuru, tepat seperti yang dijanjikan-Nya dengan bersumpah kepada nenek moyang mereka. #Tidak ada seorangpun dari semua musuhnya yang tahan berdiri menghadapi mereka; semua musuhnya diserahkan TUHAN kepada mereka."
 "Dari segala yang baik yang dijanjikan TUHAN kepada kaum Israel, tidak ada yang tidak dipenuhi; semuanya terpenuhi."

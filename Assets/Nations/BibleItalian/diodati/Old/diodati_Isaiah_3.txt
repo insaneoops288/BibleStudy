@@ -21,6 +21,6 @@
 "gli anelli, e i monili pendenti in sul naso;"
 "le robe da festa, e i mantelletti, e i veli, e gli spilletti;"
 "gli specchi, e gli zendadi, e le mitrie, e le gonne."
-"Ed avverrà che, in luogo di buono odore, vi sarà marcia; e in luogo di cintura, squarciatura; e in luogo d’increspatura di capelli, calvezza; e in luogo di fascia da petto, cinto di sacco; e in luogo di bellezza, arsura."
+"Ed avverrà che, in luogo di buono odore, vi sarà marcia; e in luogo di cintura, squarciatura; e in luogo d’increspatura #di capelli, calvezza; e in luogo di fascia da petto, cinto di sacco; e in luogo di bellezza, arsura."
 "I tuoi uomini cadranno per la spada, e i tuoi uomini prodi nella battaglia."
 "E le porte di Gerusalemme si lamenteranno, e faranno cordoglio; ed ella, dopo essere stata vuotata, giacerà per terra."

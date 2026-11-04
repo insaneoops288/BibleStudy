@@ -6,7 +6,7 @@
 "Și DOMNUL i-a mai spus
 "Iar el a spus
 "Și se va întâmpla, dacă ei nu te vor crede, nici nu vor da ascultare vocii primului semn, că vor crede vocea următorului semn."
-"Și se va întâmpla, dacă ei nu vor crede nici aceste două semne, nici nu vor da ascultare vocii tale, că vei lua din apa râului și [o] vei turna peste uscat; și apa pe care tu o iei din râu va deveni sânge pe uscat."
+"Și se va întâmpla, dacă ei nu vor crede nici aceste două semne, nici nu vor da ascultare vocii tale, că vei lua din #apa râului și [o] vei turna peste uscat; și apa pe care tu o iei din râu va deveni sânge pe uscat."
 "Și Moise i-a spus DOMNULUI
 "Și DOMNUL i-a spus
 "Și acum mergi și voi fi cu gura ta și te voi învăța ce să spui."

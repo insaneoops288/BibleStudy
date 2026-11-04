@@ -14,7 +14,7 @@
 "Dhe Jezusi e urdhëroi
 "Dhe fama e tij po përhapej gjithnjë e më shumë; dhe turma të mëdha mblidheshin për ta dëgjuar dhe për t'u shëruar prej tij nga sëmundjet e veta."
 "Por ai tërhiqej në vende të vetmuara dhe lutej."
-"Një ditë ndodhi që, ndërsa Jezusi po mësonte, ishin të pranishëm, ulur, disa farisenj dhe mësues të ligjit, që kishin ardhur nga të gjitha fshatrat e Galilesë, të Judesë dhe nga Jeruzalemi; dhe fuqia e Zotit ishte me të, që të kryente shërime."
+"Një ditë ndodhi që, ndërsa Jezusi po mësonte, ishin të pranishëm, ulur, disa farisenj dhe mësues të ligjit, që kishin ardhur nga #të gjitha fshatrat e Galilesë, të Judesë dhe nga Jeruzalemi; dhe fuqia e Zotit ishte me të, që të kryente shërime."
 "Dhe ja, disa njerëz po sillnin mbi një vig një njeri të paralizuar dhe kërkonin ta fusnin brenda dhe ta vinin përpara tij."
 "Por, duke mos gjetur se si ta fusnin brenda për shkak të turmës, hipën mbi çatinë e shtëpisë dhe e lëshuan përmjet tjegullave me gjithë vig midis njerëzve, përpara Jezusit."
 "Dhe ai, duke parë besimin e tyre, i tha atij

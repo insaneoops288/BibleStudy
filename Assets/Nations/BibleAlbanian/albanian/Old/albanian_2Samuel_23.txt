@@ -2,7 +2,7 @@
 """Fryma e Zotit ka folur nëpërmjet meje dhe fjala e tij ka qenë mbi buzët e mia."
 "Perëndia i Izraelit ka folur, Kalaja e Izraelit më ka thënë
 "është si drita e mëngjesit në të dalë të diellit, në një mëngjes pa re, ashtu si shkëlqimi mbas shiut, që bën të mbijë bari i njomë nga dheu""."
-"A nuk është vallë kështu shtëpia ime përpara Perëndisë? Sepse ai ka lidhur me mua një besëlidhje të përjetshme që parashikon çdo gjë dhe që është e sigurt. A nuk do të bëjë ai të lulëzojë shpëtimi im i plotë dhe të gjitha ato që unë dëshiroj?"
+"A nuk është vallë kështu shtëpia ime përpara Perëndisë? Sepse ai ka lidhur me mua një besëlidhje të përjetshme që parashikon çdo gjë dhe #që është e sigurt. A nuk do të bëjë ai të lulëzojë shpëtimi im i plotë dhe të gjitha ato që unë dëshiroj?"
 "Njerëzit e kobshëm do të hidhen tej të gjithë si gjembat, sepse nuk mund të kapen me duar."
 "Kush i prek duhet të armatoset me një hekur ose me shkopin e një ushte; ato digjen plotësisht në vend me zjarr""."
 "Këto janë emrat e luftëtarëve trima që ishin në shërbim të Davidit
@@ -17,7 +17,7 @@
 "duke thënë
 "Abishai, vëlla i Joabit dhe biri Tserujahut, ishte prijës i një treshe tjetër. Ngriti ushtën e tij kundër treqind njerëzve dhe i vrau; kështu u bë i famshëm në mes të treve."
 "Ishte më i dëgjuari i treshes; prandaj u bë dhe kryetari i tyre, por nuk arriti të barazohet me tre të parët."
-"Benajahu, bir i Jehojadit, bir i një trimi nga Kabtseeli, bëri trimëri të mëdha. Vrau dy heronj të Moabit, që ishin si luanë. Zbriti edhe në mes të një sterne ku vrau një luan, një ditë që binte borë."
+"Benajahu, bir i Jehojadit, bir i një trimi nga Kabtseeli, bëri trimëri të mëdha. Vrau dy heronj të Moabit, që #ishin si luanë. Zbriti edhe në mes të një sterne ku vrau një luan, një ditë që binte borë."
 "Ai vrau gjithashtu një Egjiptas gjigand që kishte në dorë një shtizë; por Benajahu i doli përballë me një bastun, i hoqi nga dora shtizën dhe e vrau me shtizën e tij."
 "Këto gjëra bëri Benajahu, bir i Jehojadit, dhe u bë i famshëm ndër të tre trima."
 "Ishte më i dëgjuari i të tridhjetëve, por nuk arriti të barazohet me treshen e parë. Davidi e bëri shef të truprojes së tij."

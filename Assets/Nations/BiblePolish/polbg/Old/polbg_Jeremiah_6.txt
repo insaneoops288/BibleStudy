@@ -8,11 +8,11 @@
 "Ćwicz się Jeruzalemie! by snać nie odstąpiła dusza moja od ciebie, bym cię snać nie obrócił w pustynię ziemi do mieszkania niesposobną,"
 "Tak mówi Pan zastępów
 "Do kogoż mówić będę, i kim oświadczę, aby słyszeli? Oto nieobrzezane są uszy ich, tak, że słuchać nie mogą; oto słowo Pańskie mają za hańbę i nie kochają się w niem."
-"Przetoż pełenem zapalczywości Pańskiej, upracowałem się, zawściągając ją w sobie. Wylana będzie tak na maluczkiego na ulicy, jako i na zebranie młodzieńców; owszem, i mąż z żoną, a starzec ze zgrzybiałym pojmany będzie."
+"Przetoż pełenem zapalczywości Pańskiej, upracowałem się, zawściągając ją w sobie. Wylana będzie tak na maluczkiego na ulicy, #jako i na zebranie młodzieńców; owszem, i mąż z żoną, a starzec ze zgrzybiałym pojmany będzie."
 "I przypadną domy ich na inszych, także pola i żony ich, gdyż wyciągnę rękę moję na obywateli tej ziemi, mówi Pan."
 "Zaiste, od najmniejszego z nich aż do największego z nich, wszyscy się udali za łakomstwem; od proroka aż do kapłana, wszyscy zgoła bawią się kłamstwem."
 "I leczą skruszenie córki ludu mego tylko po wierzchu, mówiąc
-"Izali się zawstydzili, przeto że obrzydłość czynili? Zaiste ani się lud wstydził, ani ich prorocy do wstydu przywieść mogli; przetoż upadną między padającymi; czasu, którego ich nawiedzę, upadną, mówi Pan."
+"Izali się zawstydzili, przeto że obrzydłość czynili? Zaiste ani się lud wstydził, ani ich prorocy do #wstydu przywieść mogli; przetoż upadną między padającymi; czasu, którego ich nawiedzę, upadną, mówi Pan."
 "Gdy tak Pan mawiał
 "A gdym postanawiał nad wami stróżów, mówiąc
 "Przetoż słuchajcie, o narody! a poznaj, o zgromadzenie! co się dzieje między nimi."

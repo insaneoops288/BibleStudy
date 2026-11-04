@@ -21,6 +21,6 @@
 "unazat, xhevahiret për hundë,"
 "rrobat për festë, mantelet e vogla, shallët dhe çantat e vogla,"
 "pasqyrat, këmishëzat, kapuçët dhe robëdëshambrët."
-"Dhe do të ndodhë që në vend të parfumit të ketë kalbësira, në vend të brezit një litar, në vend të kaçurelave shogësi, në vend të një veshjeje të kushtueshme një thes i ngushtë, një damkë zjarri në vend të bukurisë."
+"Dhe do të ndodhë që në vend të parfumit të ketë kalbësira, në vend të brezit një litar, në vend të #kaçurelave shogësi, në vend të një veshjeje të kushtueshme një thes i ngushtë, një damkë zjarri në vend të bukurisë."
 "Njerëzit e tu do të bien nga shpata, dhe trimat e tu në betejë."
 "Portat e saj do të vajtojnë dhe do të mbajnë zi; e dëshpëruar ajo do të ulet për tokë."

@@ -10,7 +10,7 @@
 "Więc Chiskjasz odpowiedział
 "Zatem prorok Jezajasz wezwał WIEKUISTEGO, a On dał się cofnąć cieniowi o dziesięć stopni wstecz, na stopniach po których się spuścił, stopniach Achaza."
 "Owego czasu król babiloński Berodach Baladan, syn Baladana, wysłał list i dary do Chiskjasza; bo słyszał, że Chiskjasz zaniemógł."
-"A Chiskjasz wysłuchał posłańców oraz pokazał im cały swój skarbiec srebro, złoto, korzenie, przednie olejki, całą swoją zbrojownię oraz wszystko, co się znajdowało w jego skarbnicach. Nie było rzeczy, której by im Chiskjasz nie pokazał w swym domu oraz w całej swej majętności."
+"A Chiskjasz wysłuchał posłańców oraz pokazał im cały swój skarbiec srebro, złoto, korzenie, przednie olejki, całą swoją zbrojownię oraz wszystko, co się #znajdowało w jego skarbnicach. Nie było rzeczy, której by im Chiskjasz nie pokazał w swym domu oraz w całej swej majętności."
 "Naraz do króla Chiskjasza przyszedł prorok Jezajasz i do niego powiedział
 "Zatem rzekł
 "Wtedy Jezajasz powiedział do Chiskjasza

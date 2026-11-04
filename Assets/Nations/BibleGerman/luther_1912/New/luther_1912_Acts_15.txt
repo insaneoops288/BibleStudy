@@ -1,5 +1,5 @@
 "Und etliche kamen herab von Judäa und lehrten die Brüder
-"Da sich nun ein Aufruhr erhob und Paulus und Barnabas einen nicht geringen Streit mit ihnen hatten, ordneten sie, daß Paulus und Barnabas und etliche andere aus ihnen hinaufzögen gen Jerusalem zu den Aposteln undÄltesten um dieser Frage willen."
+"Da sich nun ein Aufruhr erhob und Paulus und Barnabas einen nicht geringen Streit mit ihnen hatten, ordneten sie, daß #Paulus und Barnabas und etliche andere aus ihnen hinaufzögen gen Jerusalem zu den Aposteln undÄltesten um dieser Frage willen."
 "Und sie wurden von der Gemeinde geleitet und zogen durch Phönizien und Samarien und erzählten die Bekehrung der Heiden und machten große Freude allen Brüdern."
 "Da sie aber hinkamen gen Jerusalem, wurden sie empfangen von der Gemeinde und von den Aposteln und von denÄltesten. Und sie verkündigten, wieviel Gott mit ihnen getan hatte."
 "Da traten auf etliche von der Pharisäer Sekte, die gläubig geworden waren, und sprachen
@@ -19,9 +19,9 @@
 "Darum urteile ich, daß man denen, so aus den Heiden zu Gott sich bekehren, nicht Unruhe mache,"
 "sondern schreibe ihnen, daß sie sich enthalten von Unsauberkeit der Abgötter und von Hurerei und vom Erstickten und vom Blut."
 "Denn Mose hat von langen Zeiten her in allen Städten, die ihn predigen, und wird alle Sabbattage in den Schulen gelesen."
-"Und es deuchte gut die Apostel undÄltesten samt der ganzen Gemeinde, aus ihnen Männer zu erwählen und zu senden gen Antiochien mit Paulus und Barnabas, nämlich Judas, mit dem Zunamen Barsabas, und Silas, welche Männer Lehrer waren unter den Brüdern."
+"Und es deuchte gut die Apostel undÄltesten samt der ganzen Gemeinde, aus ihnen Männer zu erwählen und zu senden gen Antiochien #mit Paulus und Barnabas, nämlich Judas, mit dem Zunamen Barsabas, und Silas, welche Männer Lehrer waren unter den Brüdern."
 "Und sie gaben Schrift in ihre Hand, also
-"Dieweil wir gehört haben, daß etliche von den Unsern sind ausgegangen und haben euch mit Lehren irregemacht und eure Seelen zerrüttet und sagen, ihr sollt euch beschneiden lassen und das Gesetz halten, welchen wir nichts befohlen haben,"
+"Dieweil wir gehört haben, daß etliche von den Unsern sind ausgegangen und haben euch mit Lehren irregemacht und eure #Seelen zerrüttet und sagen, ihr sollt euch beschneiden lassen und das Gesetz halten, welchen wir nichts befohlen haben,"
 "hat es uns gut gedeucht, einmütig versammelt, Männer zu erwählen und zu euch zu senden mit unsern liebsten Barnabas und Paulus,"
 "welche Menschen ihre Seele dargegeben haben für den Namen unsers HERRN Jesu Christi."
 "So haben wir gesandt Judas und Silas, welche auch mit Worten dasselbe verkündigen werden."

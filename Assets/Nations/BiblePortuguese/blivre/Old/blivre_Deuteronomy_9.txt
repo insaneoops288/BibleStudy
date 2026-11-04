@@ -2,7 +2,7 @@
 "Um povo grande e alto, filhos de gigantes, dos quais tens tu conhecimento, e ouviste dizer
 "Sabe, pois, hoje que o SENHOR teu Deus é o que passa diante de ti, fogo consumidor, que os destruirá e humilhará diante de ti
 "Não digas em teu coração quando o SENHOR teu Deus os haverá expulsado de diante de ti, dizendo
-"Não por tua justiça, nem pela retidão de teu coração entras a possuir a terra deles; mas pela impiedade destas nações o SENHOR teu Deus as expulsa de diante de ti, e para confirmar a palavra que o SENHOR jurou a teus pais Abraão, Isaque, e Jacó."
+"Não por tua justiça, nem pela retidão de teu coração entras a possuir a terra deles; mas pela impiedade destas nações o SENHOR teu #Deus as expulsa de diante de ti, e para confirmar a palavra que o SENHOR jurou a teus pais Abraão, Isaque, e Jacó."
 "Portanto, sabe que não por tua justiça o SENHOR teu Deus te dá esta boa terra para possuí-la; que povo duro de cerviz és tu."
 "Lembra-te, não te esqueças que provocaste a ira ao SENHOR teu Deus no deserto
 "E em Horebe provocastes à ira ao SENHOR, e irou-se o SENHOR contra vós para destruir-vos."

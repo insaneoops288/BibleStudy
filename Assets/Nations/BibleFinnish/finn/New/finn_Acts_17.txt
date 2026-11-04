@@ -2,7 +2,7 @@
 "Ja Paavali, tapansa jälkeen, meni sisälle heidän tykönsä ja jutteli heille kolme lepopäivää Raamatuista,"
 "Selitti ne ja todisti, että Kristuksen tuli kärsiä ja nousta ylös kuolleista, ja että tämä Jesus, josta minä (sanoi hän,) teille ilmoitan, on Kristus."
 "Ja muutamat suostuivat heihin, antain itsensä Paavalin ja Silaan seuraan, niin myös suuri joukko jumalisia Grekiläisiä ja ei vähä ylimmäisiä vaimoja."
-"Mutta epäuskoiset Juudalaiset kadehtivat sitä ja saattivat tykönsä muutamia pahanilkisiä miehiä joutoväestä, ja kokoontuivat yhteen joukkoon, nostivat kapinan kaupungissa ja tunkeutuivat Jasonin huoneeseen, ja etsivät heitä viedäksensä kansan eteen."
+"Mutta epäuskoiset Juudalaiset kadehtivat sitä ja saattivat tykönsä muutamia pahanilkisiä miehiä joutoväestä, ja kokoontuivat yhteen #joukkoon, nostivat kapinan kaupungissa ja tunkeutuivat Jasonin huoneeseen, ja etsivät heitä viedäksensä kansan eteen."
 "Ja ettei he heitä löytäneet, riepoittivat he Jasonin ja muutamia veljiä kaupungin päämiesten eteen ja huusivat
 "Jotka Jason otti vastaan; ja nämät kaikki tekevät keisarin käskyä vastaan, sanoen toisen kuninkaan olevan, nimittäin Jesuksen."
 "Ja he kehoittivat kansan ja kaupungin päämiehet, jotka näitä kuultelivat."

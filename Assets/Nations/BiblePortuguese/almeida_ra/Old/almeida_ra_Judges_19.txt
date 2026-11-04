@@ -1,6 +1,6 @@
 "Aconteceu também naqueles dias, quando não havia rei em Israel, que certo levita, habitante das partes remotas da região montanhosa de Efraim, tomou para si uma concubina, de Belém de Judá."
 "Ora, a sua concubina adulterou contra ele e, deixando-o, foi para casa de seu pai em Belém de Judá, e ali ficou uns quatro meses."
-"Seu marido, levantando-se, foi atrás dela para lhe falar bondosamente, a fim de tornar a trazê-la; e levava consigo o seu moço e um par de jumentos. Ela o levou à casa de seu pai, o qual, vendo-o, saiu alegremente a encontrar-se com ele."
+"Seu marido, levantando-se, foi atrás dela para lhe falar bondosamente, a fim de tornar a trazê-la; e levava consigo o seu moço e #um par de jumentos. Ela o levou à casa de seu pai, o qual, vendo-o, saiu alegremente a encontrar-se com ele."
 "E seu sogro, o pai da moça, o deteve consigo três dias; assim comeram e beberam, e se alojaram ali."
 "Ao quarto dia madrugaram, e ele se levantou para partir. Então o pai da moça disse a seu genro
 "Sentando-se, pois, ambos juntos, comeram e beberam; e disse o pai da moça ao homem
@@ -22,7 +22,7 @@
 "Enquanto eles alegravam o seu coração, eis que os homens daquela cidade, filhos de Belial, cercaram a casa, bateram à porta, e disseram ao ancião, dono da casa
 "O dono da casa saiu a ter com eles, e disse-lhes
 "Aqui estão a minha filha virgem e a concubina do homem; fá-las-ei sair; humilhai-as a elas, e fazei delas o que parecer bem aos vossos olhos; porém a este homem não façais tal loucura."
-"Mas esses homens não o quiseram ouvir; então aquele homem pegou da sua concubina, e lha tirou para fora. Eles a conheceram e abusaram dela a noite toda até pela manhã; e ao subir da alva deixaram-na
+"Mas esses homens não o quiseram ouvir; então aquele homem pegou da sua concubina, e lha tirou para fora. #Eles a conheceram e abusaram dela a noite toda até pela manhã; e ao subir da alva deixaram-na
 "Ao romper do dia veio a mulher e caiu à porta da casa do homem, onde estava seu senhor, e ficou ali até que se fez claro."
 "Levantando-se pela manhã seu senhor, abriu as portas da casa, e ia sair para seguir o seu caminho; e eis que a mulher, sua concubina, jazia à porta da casa, com as mãos sobre o limiar."
 "Ele lhe disse

@@ -7,7 +7,7 @@
 "Y será que todos los que te vieren, se apartarán de ti, y dirán
 "¿Eres tú mejor que No-amón, que estaba asentada entre ríos, rodeada de aguas, cuyo baluarte era el mar, y el mar era su muralla?"
 "Etiopía era su fortaleza, y Egipto sin límite; Fut y Libia fueron en tu ayuda."
-"También ella fue llevada en cautiverio; también sus chiquitos fueron estrellados en las encrucijadas de todas las calles; y sobre sus varones echaron suertes, y todos sus magnates fueron aprisionados con grillos."
+"También ella fue llevada en cautiverio; también sus chiquitos fueron estrellados en las encrucijadas de todas las #calles; y sobre sus varones echaron suertes, y todos sus magnates fueron aprisionados con grillos."
 "Tú también serás embriagada, serás encerrada; tú también buscarás fortaleza a causa del enemigo."
 "Todas tus fortalezas cual higueras con brevas; que si las sacuden, caen en la boca del que las ha de comer."
 "He aquí, tu pueblo será como mujeres en medio de ti; las puertas de tu tierra se abrirán de par en par a tus enemigos; fuego consumirá tus cerrojos."

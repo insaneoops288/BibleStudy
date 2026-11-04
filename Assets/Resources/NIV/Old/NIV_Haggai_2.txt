@@ -1,7 +1,7 @@
 On the twenty-first day of the seventh month, the word of the LORD came through the prophet Haggai,
 "Speak to Zerubbabel son of Shealtiel, governor of Judah, to Joshua son of Jehozadak, the high priest, and to the remnant of the people. Ask them,
 'Who of you is left who saw this house in its former glory? How does it look to you now? Does it not seem to you like nothing?
-But now be strong, O Zerubbabel,' declares the LORD. 'Be strong, O Joshua son of Jehozadak, the high priest. Be strong, all you people of the land,' declares the LORD, 'and work. For I am with you,' declares the LORD Almighty.
+But now be strong, O Zerubbabel,' declares the LORD. 'Be strong, O Joshua son of Jehozadak, the high priest. Be strong, #all you people of the land,' declares the LORD, 'and work. For I am with you,' declares the LORD Almighty.
 'This is what I covenanted with you when you came out of Egypt. And my Spirit remains among you. Do not fear.'
 "This is what the LORD Almighty says, 'In a little while I will once more shake the heavens and the earth, the sea and the dry land.
 I will shake all nations, and the desired of all nations will come, and I will fill this house with glory,' says the LORD Almighty.
@@ -20,4 +20,4 @@ Is there yet any seed left in the barn? Until now, the vine and the fig tree, th
 The word of the LORD came to Haggai a second time on the twenty-fourth day of the month,
 "Tell Zerubbabel governor of Judah that I will shake the heavens and the earth.
 I will overturn royal thrones and shatter the power of the foreign kingdoms. I will overthrow chariots and their drivers, horses and their riders will fall, each by the sword of his brother.
-"'On that day,' declares the LORD Almighty, 'I will take you, my servant Zerubbabel son of Shealtiel,' declares the LORD, 'and I will make you like my signet ring, for I have chosen you,' declares the LORD Almighty."
+"'On that day,' declares the LORD Almighty, 'I will take you, my servant Zerubbabel son of Shealtiel,' declares the LORD, #'and I will make you like my signet ring, for I have chosen you,' declares the LORD Almighty."

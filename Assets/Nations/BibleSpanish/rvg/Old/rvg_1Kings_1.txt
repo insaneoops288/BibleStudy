@@ -6,7 +6,7 @@
 "Y su padre nunca lo entristeció en todos sus días con decirle
 "Y tenía tratos con Joab hijo de Sarvia, y con Abiatar sacerdote, los cuales ayudaban a Adonías."
 "Mas el sacerdote Sadoc, y Benaía hijo de Joiada, y el profeta Natán, y Simeí, y Reihi, y todos los valientes de David, no seguían a Adonías."
-"Y matando Adonías ovejas y vacas y animales engordados junto a la peña de Zohelet, que está cerca de la fuente de Rogel, convidó a todos sus hermanos los hijos del rey, y a todos los varones de Judá, siervos del rey
+"Y matando Adonías ovejas y vacas y animales engordados junto a la peña de Zohelet, que está cerca de la fuente de #Rogel, convidó a todos sus hermanos los hijos del rey, y a todos los varones de Judá, siervos del rey
 "Mas no convidó al profeta Natán, ni a Benaía, ni a los grandes, ni a Salomón, su hermano."
 "Y habló Natán a Betsabé, madre de Salomón, diciendo
 "Ven pues, ahora, y toma mi consejo, para que salves tu vida, y la vida de tu hijo Salomón."
@@ -22,7 +22,7 @@
 "Y he aquí que mientras ella aún estaba hablando con el rey, entró el profeta Natán."
 "Y dieron aviso al rey, diciendo
 "Y dijo Natán
-"Porque hoy ha descendido y ha matado bueyes, y animales engordados y muchas ovejas; y ha convidado a todos los hijos del rey, y a los capitanes del ejército, y también al sacerdote Abiatar; y he aquí, están comiendo y bebiendo delante de él, y dicen
+"Porque hoy ha descendido y ha matado bueyes, y animales engordados y muchas ovejas; y ha convidado a todos los hijos del rey, y #a los capitanes del ejército, y también al sacerdote Abiatar; y he aquí, están comiendo y bebiendo delante de él, y dicen
 "Pero ni a mí tu siervo, ni al sacerdote Sadoc, ni a Benaía, hijo de Joiada, ni a Salomón tu siervo, ha convidado."
 "¿Ha sido hecho esto por mi señor el rey, sin haber declarado a tu siervo quién había de sentarse en el trono de mi señor el rey después de él?"
 "Entonces el rey David respondió, y dijo

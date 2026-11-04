@@ -15,7 +15,7 @@
 "Und wenn ihr schon eure Hände ausbreitet, verberge ich doch meine Augen vor euch; und ob ihr schon viel betet, höre ich euch doch nicht; denn eure Hände sind voll Blut."
 "Waschet, reiniget euch, tut euer böses Wesen von meinen Augen, laßt ab vom Bösen;"
 "lernet Gutes tun, trachtet nach Recht, helfet dem Unterdrückten, schaffet dem Waisen Recht, führet der Witwe Sache."
-"So kommt denn und laßt uns miteinander rechten, spricht der HERR. Wenn eure Sünde gleich blutrot ist, soll sie doch schneeweiß werden; und wenn sie gleich ist wie Scharlach, soll sie doch wie Wolle werden."
+"So kommt denn und laßt uns miteinander rechten, spricht der HERR. Wenn eure Sünde gleich blutrot ist, soll #sie doch schneeweiß werden; und wenn sie gleich ist wie Scharlach, soll sie doch wie Wolle werden."
 "Wollt ihr mir gehorchen, so sollt ihr des Landes Gut genießen."
 "Weigert ihr euch aber und seid ungehorsam, so sollt ihr vom Schwert gefressen werden; denn der Mund des HERRN sagt es."
 "Wie geht das zu, daß die fromme Stadt zur Hure geworden ist? Sie war voll Rechts, Gerechtigkeit wohnte darin, nun aber Mörder."

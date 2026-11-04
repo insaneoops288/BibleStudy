@@ -2,7 +2,7 @@
 "Yo soy JEHOVA tu Dios, que te saqué de la tierra de Egipto, de casa de siervos."
 "No tendrás dioses ajenos delante de mí."
 "No te harás imagen, ni ninguna semejanza de cosa que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra
-"No te inclinarás á ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos, sobre los terceros y sobre los cuartos, á los que me aborrecen,"
+"No te inclinarás á ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad #de los padres sobre los hijos, sobre los terceros y sobre los cuartos, á los que me aborrecen,"
 "Y que hago misericordia en millares á los que me aman, y guardan mis mandamientos."
 "No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano."
 "Acordarte has del día del reposo, para santificarlo

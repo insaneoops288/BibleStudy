@@ -8,10 +8,10 @@
 "Porque la longitud de las cámaras del atrio de afuera era de cincuenta codos
 "Y debajo de las cámaras estaba la entrada al lado oriental, para entrar en él desde el atrio de afuera."
 "A lo largo del muro del atrio hacia el oriente, enfrente de la lonja, y delante del edificio, había cámaras."
-"Y el corredor que había delante de ellas era semejante al de las cámaras que estaban hacia el norte, conforme á su longitud, asimismo su anchura, y todas sus salidas; conforme á sus puertas, y conforme á sus entradas."
+"Y el corredor que había delante de ellas era semejante al de las cámaras que estaban hacia el norte, conforme #á su longitud, asimismo su anchura, y todas sus salidas; conforme á sus puertas, y conforme á sus entradas."
 "Y conforme á las puertas de las cámaras que estaban hacia el mediodía, tenía una puerta al principio del camino, del camino delante del muro hacia el oriente á los que entran."
 "Y díjome
-"Cuando los sacerdotes entraren, no saldrán del lugar santo al atrio de afuera, sino que allí dejarán sus vestimentas con que ministrarán, porque son santas; y vestiránse otros vestidos, y así se allegarán á lo que es del pueblo."
+"Cuando los sacerdotes entraren, no saldrán del lugar santo al atrio de afuera, sino que allí dejarán sus vestimentas con #que ministrarán, porque son santas; y vestiránse otros vestidos, y así se allegarán á lo que es del pueblo."
 "Y luego que acabó las medidas de la casa de adentro, sacóme por el camino de la puerta que miraba hacia el oriente, y midiólo todo alrededor."
 "Midió el lado oriental con la caña de medir, quinientas cañas de la caña de medir en derredor."
 "Midió al lado del norte, quinientas cañas de la caña de medir alrededor."

@@ -7,7 +7,7 @@
 "Ainsi parle l'Eternel, le Dieu d'Israël
 "et les Chaldéens reviendront, ils attaqueront cette ville, ils la prendront, et la brûleront par le feu."
 "Ainsi parle l'Eternel
-"Et même quand vous battriez toute l'armée des Chaldéens qui vous font la guerre, quand il ne resterait d'eux que des hommes blessés, ils se relèveraient chacun dans sa tente, et brûleraient cette ville par le feu."
+"Et même quand vous battriez toute l'armée des Chaldéens qui vous font la guerre, quand il ne resterait d'eux #que des hommes blessés, ils se relèveraient chacun dans sa tente, et brûleraient cette ville par le feu."
 "Pendant que l'armée des Chaldéens s'était éloignée de Jérusalem, à cause de l'armée de Pharaon,"
 "Jérémie voulut sortir de Jérusalem, pour aller dans le pays de Benjamin et s'échapper du milieu du peuple."
 "Lorsqu'il fut à la porte de Benjamin, le commandant de la garde, nommé Jireija, fils de Schélémia, fils de Hanania, se trouvait là, et il saisit Jérémie, le prophète, en disant
@@ -17,5 +17,5 @@
 "Le roi Sédécias l'envoya chercher, et l'interrogea secrètement dans sa maison. Il dit
 "Jérémie dit encore au roi Sédécias
 "Et où sont vos prophètes qui vous prophétisaient, en disant
-"Maintenant, écoute, je te prie, ô roi, mon seigneur, et que mes supplications soient favorablement reçues devant toi! Ne me renvoie pas dans la maison de Jonathan, le secrétaire, de peur que je n'y meure!"
-"Le roi Sédécias ordonna qu'on gardât Jérémie dans la cour de la prison, et qu'on lui donnât chaque jour un pain de la rue des boulangers, jusqu'à ce que tout le pain de la ville fût consommé. Ainsi Jérémie demeura dans la cour de la prison."
+"Maintenant, écoute, je te prie, ô roi, mon seigneur, et que mes supplications soient favorablement reçues devant toi! #Ne me renvoie pas dans la maison de Jonathan, le secrétaire, de peur que je n'y meure!"
+"Le roi Sédécias ordonna qu'on gardât Jérémie dans la cour de la prison, et qu'on lui donnât chaque jour un pain de la rue #des boulangers, jusqu'à ce que tout le pain de la ville fût consommé. Ainsi Jérémie demeura dans la cour de la prison."

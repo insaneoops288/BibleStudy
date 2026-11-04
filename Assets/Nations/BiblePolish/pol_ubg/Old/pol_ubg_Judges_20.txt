@@ -7,7 +7,7 @@
 "Oto wy wszyscy jesteście synami Izraela, rozważcie to między sobą i radźcie o tym."
 "I powstał cały lud jednomyślnie, mówiąc
 "Ale teraz tak uczynimy miastu Gibea
-"Z każdego pokolenia Izraela weźmiemy po dziesięciu mężczyzn ze stu, stu z tysiąca i tysiąc z dziesięciu tysięcy, żeby dostarczali żywność dla ludu, który wyruszy do Gibea Beniamina, by pomścić wszelką sprośność, której się dopuszczono w Izraelu."
+"Z każdego pokolenia Izraela weźmiemy po dziesięciu mężczyzn ze stu, stu z tysiąca i tysiąc z dziesięciu tysięcy, żeby #dostarczali żywność dla ludu, który wyruszy do Gibea Beniamina, by pomścić wszelką sprośność, której się dopuszczono w Izraelu."
 "Zebrał się więc cały lud Izraela przeciwko miastu, zżyty ze sobą jak jeden mąż."
 "Potem pokolenia Izraela wysłały mężczyzn do wszystkich domów synów Beniamina, mówiąc
 "Wydajcie więc teraz tych mężczyzn, synów Beliala, którzy są w Gibea, abyśmy ich pozabijali i usunęli zło z Izraela. Lecz synowie Beniamina nie chcieli słuchać głosu swoich braci, synów Izraela."
@@ -23,12 +23,12 @@
 "Najpierw jednak synowie Izraela poszli i płakali przed PANEM aż do wieczora, i pytali PANA
 "I wyruszyli synowie Izraela przeciwko synom Beniamina drugiego dnia."
 "Lecz synowie Beniamina wyszli przeciwko nim z Gibea drugiego dnia i znowu zabili osiemnaście tysięcy mężczyzn z synów Izraela, wszystkich mężczyzn dobywających miecz."
-"Wtedy wszyscy synowie Izraela i cały lud udali się i przyszli do domu Bożego, i płacząc, trwali tam przed PANEM i pościli w tym dniu aż do wieczora, i składali całopalenia i ofiary pojednawcze przed PANEM."
+"Wtedy wszyscy synowie Izraela i cały lud udali się i przyszli do domu Bożego, i płacząc, trwali tam przed #PANEM i pościli w tym dniu aż do wieczora, i składali całopalenia i ofiary pojednawcze przed PANEM."
 "I synowie Izraela pytali PANA (tam bowiem w tych dniach była arka przymierza Boga;"
 "A Pinchas, syn Eleazara, syna Aarona, sprawował przy niej służbę w tych dniach)
 "Wtedy Izrael przygotował zasadzki zewsząd dokoła Gibea."
 "I trzeciego dnia synowie Izraela wyruszyli przeciwko synom Beniamina i ustawili się w szyku bojowym przeciwko Gibea jak za pierwszym i drugim razem."
-"Synowie Beniamina także wyszli przeciwko ludowi i zostali odciągnięci od miasta. Zaczęli bić lud i zabijać jak za pierwszym i drugim razem na drogach, z których jedna prowadziła do Betel, a druga do Gibea na polu, a zabili około trzydziestu mężczyzn z Izraela."
+"Synowie Beniamina także wyszli przeciwko ludowi i zostali odciągnięci od miasta. Zaczęli bić lud i zabijać jak za pierwszym i drugim razem #na drogach, z których jedna prowadziła do Betel, a druga do Gibea na polu, a zabili około trzydziestu mężczyzn z Izraela."
 "I synowie Beniamina powiedzieli
 "Powstali więc wszyscy mężczyźni Izraela ze swego miejsca i ustawili się w szyku bojowym w Baal-Tamar; tymczasem ci z Izraela, którzy przygotowali zasadzkę, wyszli ze swych miejsc, z łąk Gibea."
 "A tak wyszło naprzeciw Gibea dziesięć tysięcy doborowych mężczyzn z całego Izraela; była to bitwa zacięta, a tamci nie wiedzieli, że ma ich spotkać nieszczęście."
@@ -45,4 +45,4 @@
 "Z tych zaś, którzy zawrócili i uciekali na pustynię, na skałę Rimmon, wyłapali po drogach i zabili pięć tysięcy mężczyzn. Gonili ich aż do Gidom, gdzie zabili dwa tysiące mężczyzn spośród nich."
 "A tak wszystkich poległych z Beniamina tego dnia było dwadzieścia pięć tysięcy mężczyzn dobywających miecz, wszyscy byli wojownikami."
 "Tylko sześciuset mężczyzn zawróciło i uciekło na pustynię, na skałę Rimmon, i zostali na skale Rimmon przez cztery miesiące."
-"Potem mężczyźni Izraela wrócili do synów Beniamina i wybili ich ostrzem miecza w mieście, zarówno ludzi, jak i bydło oraz wszystko, co znaleźli. Spalili ogniem także wszystkie miasta, które pozostały."
+"Potem mężczyźni Izraela wrócili do synów Beniamina i wybili ich ostrzem miecza w mieście, zarówno ludzi, #jak i bydło oraz wszystko, co znaleźli. Spalili ogniem także wszystkie miasta, które pozostały."

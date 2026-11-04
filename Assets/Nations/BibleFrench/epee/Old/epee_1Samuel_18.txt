@@ -3,11 +3,11 @@
 "Alors Jonathan fit alliance avec David, parce qu'il l'aimait comme son âme."
 "Et Jonathan se dépouilla du manteau qu'il portait, et le donna à David, avec ses habits, et jusqu'à son épée, son arc et sa ceinture."
 "Et David allait en campagne; il réussissait partout où Saül l'envoyait, et Saül l'établit sur les gens de guerre; et il fut agréable à tout le peuple, et même aux serviteurs de Saül."
-"Or, comme ils rentraient, lorsque David revenait de la défaite du Philistin, il sortit des femmes de toutes les villes d'Israël, chantant et dansant, au-devant du roi Saül, avec des tambours, avec des cris de joie, et avec des triangles;"
+"Or, comme ils rentraient, lorsque David revenait de la défaite du Philistin, il sortit des femmes de toutes les villes d'Israël, #chantant et dansant, au-devant du roi Saül, avec des tambours, avec des cris de joie, et avec des triangles;"
 "Et les femmes qui jouaient des instruments se répondaient les unes aux autres, et disaient
 "Et Saül fut fort irrité, et cette parole lui déplut; elles ont donné, dit-il, dix mille hommes à David, et à moi mille; il ne lui manque donc plus que le royaume!"
 "Depuis ce jour-là, Saül voyait David de mauvais oeil."
-"Et il arriva, le lendemain, que le mauvais esprit, envoyé de Dieu, saisit Saül, et il avait des transports au milieu de la maison. Or David jouait de sa main sur la harpe, comme les autres jours, et Saül avait une lance à la main;"
+"Et il arriva, le lendemain, que le mauvais esprit, envoyé de Dieu, saisit Saül, et il avait des transports au milieu de la #maison. Or David jouait de sa main sur la harpe, comme les autres jours, et Saül avait une lance à la main;"
 "Alors Saül leva sa lance, disant en lui-même
 "Et Saül avait peur de la présence de David, parce que l'Éternel était avec lui, et qu'il s'était retiré d'avec Saül."
 "C'est pourquoi Saül l'éloigna de lui, et l'établit capitaine de mille hommes, et il sortait et rentrait à la tête du peuple."
@@ -24,7 +24,7 @@
 "Et les serviteurs de Saül le lui rapportèrent, et lui dirent
 "Et Saül dit
 "Et les serviteurs de Saül rapportèrent ces discours à David, et il plut à David de devenir gendre du roi. Et avant que les jours fussent accomplis,"
-"David se leva, et s'en alla, lui et ses gens, et frappa deux cents hommes des Philistins; et David apporta leurs prépuces, et les livra bien comptés au roi, afin qu'il fût gendre du roi. Saül lui donna donc pour femme Mical, sa fille."
+"David se leva, et s'en alla, lui et ses gens, et frappa deux cents hommes des Philistins; et David apporta leurs prépuces, et #les livra bien comptés au roi, afin qu'il fût gendre du roi. Saül lui donna donc pour femme Mical, sa fille."
 "Alors Saül vit et comprit que l'Éternel était avec David; et Mical, fille de Saül, l'aimait."
 "Mais Saül continua de craindre David encore plus, et fut toujours ennemi de David."
 "Or, les capitaines des Philistins se mirent en campagne; et chaque fois qu'ils sortaient, David avait plus de succès que tous les serviteurs de Saül, et son nom fut en fort grande estime."

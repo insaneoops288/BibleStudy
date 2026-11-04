@@ -10,6 +10,6 @@
 " Und Asa zog aus, ihm entgegen. Und sie rüsteten sich zum Kampf im Tal Zephata bei Marescha."
 " Und Asa rief den HERRN, seinen Gott, an und sprach
 " Da schlug der HERR die Mohren vor Asa und vor Juda, daß die Mohren flohen."
-" Und Asa samt dem Volk, das bei ihm war, jagte ihnen nach bis gen Gerar. Und von den Mohren fielen so viele, daß sie sich nicht erholen konnten, sondern sie wurden geschlagen vor dem HERRN und vor seiner Heerschar; und sie trugen sehr viel Raub davon."
+" Und Asa samt dem Volk, das bei ihm war, jagte ihnen nach bis gen Gerar. Und von den Mohren fielen so viele, daß #sie sich nicht erholen konnten, sondern sie wurden geschlagen vor dem HERRN und vor seiner Heerschar; und sie trugen sehr viel Raub davon."
 " Und sie schlugen alle Städte um Gerar her; denn die Furcht des HERRN kamüber sie. Und sie plünderten alle Städte; denn es war viel Beute darin."
 " Auch die Hirtenzelte schlugen sie und führten viele Schafe und Kamele hinweg und kehrten wieder nach Jerusalem zurück."

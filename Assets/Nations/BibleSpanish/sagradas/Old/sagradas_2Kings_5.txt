@@ -1,4 +1,4 @@
-"Naamán, general del ejército del rey de Siria, <I>era</I>  gran varón delante de su señor, y en alta estima, porque el SEÑOR había dado salud a <I>la</I>  Siria por él. Era este hombre valeroso de virtud, <I>pero</I>  leproso."
+"Naamán, general del ejército del rey de Siria, <I>era</I>  gran varón delante de su señor, y en alta estima, porque #el SEÑOR había dado salud a <I>la</I>  Siria por él. Era este hombre valeroso de virtud, <I>pero</I>  leproso."
 "Y de Siria habían salido escuadrones, y habían llevado cautiva de la tierra de Israel una muchacha que servía a la mujer de Naamán."
 "Esta dijo a su señora
 "Y entrando <I>Naamán</I>  a su señor, se lo declaró, diciendo

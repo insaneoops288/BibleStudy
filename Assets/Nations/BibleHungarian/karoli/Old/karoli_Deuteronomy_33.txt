@@ -26,4 +26,4 @@
 "Nincs olyan, mint a Jesurun Istene! Az egeken száguld segítségedre, és fenségében a felhõkön."
 "Hajlék az örökkévaló Isten, alant vannak örökkévaló karjai; elûzi elõled az ellenséget, és ezt mondja
 "És bátorságban lakozik Izráel, egymaga lesz Jákób forrása a gabona és a bor földén, és az õ egei harmatot csepegnek."
-"@Boldog vagy Izráel!] @Kicsoda olyan mint] @te? Nép, a kit az Úr véd, a te segítségednek pajzsa, és a ki a te dicsõségednek fegyvere! Hízelegnek majd néked a te ellenségeid, és te azoknak magaslatait taposod."
+"@Boldog vagy Izráel!] @Kicsoda olyan mint] @te? Nép, a kit az Úr véd, a te segítségednek pajzsa, és #a ki a te dicsõségednek fegyvere! Hízelegnek majd néked a te ellenségeid, és te azoknak magaslatait taposod."

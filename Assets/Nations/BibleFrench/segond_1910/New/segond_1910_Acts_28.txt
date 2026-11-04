@@ -20,11 +20,11 @@
 "Voilà pourquoi j'ai demandé à vous voir et à vous parler; car c'est à cause de l'espérance d'Israël que je porte cette chaîne."
 "Ils lui répondirent
 "Mais nous voudrions apprendre de toi ce que tu penses, car nous savons que cette secte rencontre partout de l'opposition."
-"Ils lui fixèrent un jour, et plusieurs vinrent le trouver dans son logis. Paul leur annonça le royaume de Dieu, en rendant témoignage, et en cherchant, par la loi de Moïse et par les prophètes, à les persuader de ce qui concerne Jésus. L'entretien dura depuis le matin jusqu'au soir."
+"Ils lui fixèrent un jour, et plusieurs vinrent le trouver dans son logis. Paul leur annonça le royaume de Dieu, en rendant témoignage, et en cherchant, #par la loi de Moïse et par les prophètes, à les persuader de ce qui concerne Jésus. L'entretien dura depuis le matin jusqu'au soir."
 "Les uns furent persuadés par ce qu'il disait, et les autres ne crurent point."
 "Comme ils se retiraient en désaccord, Paul n'ajouta que ces mots
 "a dit
-"Car le coeur de ce peuple est devenu insensible; Ils ont endurci leurs oreilles, et ils ont fermé leurs yeux, De peur qu'ils ne voient de leurs yeux, qu'ils n'entendent de leurs oreilles, Qu'ils ne comprennent de leur coeur, Qu'ils ne se convertissent, et que je ne les guérisse."
+"Car le coeur de ce peuple est devenu insensible; Ils ont endurci leurs oreilles, et ils ont fermé leurs yeux, De peur qu'ils ne voient #de leurs yeux, qu'ils n'entendent de leurs oreilles, Qu'ils ne comprennent de leur coeur, Qu'ils ne se convertissent, et que je ne les guérisse."
 "Sachez donc que ce salut de Dieu a été envoyé aux païens, et qu'ils l'écouteront."
 "Lorsqu'il eut dit cela, les Juifs s'en allèrent, discutant vivement entre eux."
 "Paul demeura deux ans entiers dans une maison qu'il avait louée. Il recevait tous ceux qui venaient le voir,"

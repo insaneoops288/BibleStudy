@@ -14,7 +14,7 @@
 "E mandou-lhe que o não dissesse a ninguém
 "Porém sua fama andava tanto mais; e ajuntaram-se muitas multidões para o ouvir, e para serem curadas por ele de suas enfermidades."
 "Mas ele se retirava para os desertos, e [ali] orava."
-"E aconteceu em um daqueles dias que estava ensinando, e estavam ali sentados fariseus e doutores da Lei, que tinham vindo de todas as aldeias da Galileia, e da Judeia, e de Jerusalém; e o poder do Senhor estava [ali] para os curar."
+"E aconteceu em um daqueles dias que estava ensinando, e estavam ali sentados fariseus e doutores da Lei, que tinham vindo de #todas as aldeias da Galileia, e da Judeia, e de Jerusalém; e o poder do Senhor estava [ali] para os curar."
 "E eis que [uns] homens, que traziam em uma cama um homem que estava paralítico; e procuravam levá-lo para dentro, e o porem diante dele."
 "E não achando por onde o poder levar para dentro, subiram em cima do telhado, e pelas telhas o abaixaram com o leito para o meio [da casa] , diante de Jesus."
 "E vendo ele a fé deles, disse-lhe

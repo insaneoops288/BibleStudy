@@ -9,5 +9,5 @@
 "(39-10) Aku kelu, tidak kubuka mulutku, sebab Engkau sendirilah yang bertindak."
 "(39-11) Hindarkanlah aku dari pada pukulan-Mu, aku remuk karena serangan tangan-Mu."
 "(39-12) Engkau menghajar seseorang dengan hukuman karena kesalahannya, dan menghancurkan keelokannya sama seperti gegat; sesungguhnya, setiap manusia adalah kesia-siaan belaka. Sela"
-"(39-13) Dengarkanlah doaku, ya TUHAN, dan berilah telinga kepada teriakku minta tolong, janganlah berdiam diri melihat air mataku! Sebab aku menumpang pada-Mu, aku pendatang seperti semua nenek moyangku."
+"(39-13) Dengarkanlah doaku, ya TUHAN, dan berilah telinga kepada teriakku minta tolong, janganlah berdiam diri #melihat air mataku! Sebab aku menumpang pada-Mu, aku pendatang seperti semua nenek moyangku."
 "(39-14) Alihkanlah pandangan-Mu dari padaku, supaya aku bersukacita sebelum aku pergi dan tidak ada lagi!"""

@@ -9,7 +9,7 @@
 "Puis Dieu dit
 "Et Dieu nomma le sec, terre; et il nomma l'amas des eaux, mers; et Dieu vit que cela était bon."
 "Puis Dieu dit
-"Et la terre produisit de la végétation, des herbes portant semence selon leur espèce, et des arbres portant du fruit, qui avaient leur semence en eux-mêmes, selon leur espèce; et Dieu vit que cela était bon."
+"Et la terre produisit de la végétation, des herbes portant semence selon leur espèce, et des arbres portant du #fruit, qui avaient leur semence en eux-mêmes, selon leur espèce; et Dieu vit que cela était bon."
 "Et il y eut un soir, et il y eut un matin; ce fut le troisième jour."
 "Puis Dieu dit
 "Et qu'ils servent de luminaires dans l'étendue des cieux, pour éclairer la terre; et cela fut ainsi."
@@ -27,5 +27,5 @@
 "Et Dieu créa l'homme à son image; il le créa à l'image de Dieu; il les créa mâle et femelle."
 "Et Dieu les bénit; et Dieu leur dit
 "Et Dieu dit
-"Et à tous les animaux des champs, et à tous les oiseaux des cieux, et à tout ce qui se meut sur la terre, qui a en soi une âme vivante, j'ai donné toute herbe verte pour nourriture; et cela fut ainsi."
+"Et à tous les animaux des champs, et à tous les oiseaux des cieux, et à tout ce qui se meut sur #la terre, qui a en soi une âme vivante, j'ai donné toute herbe verte pour nourriture; et cela fut ainsi."
 "Et Dieu vit tout ce qu'il avait fait, et voici, c'était très bon. Et il y eut un soir, et il y eut un matin; ce fut le sixième jour."

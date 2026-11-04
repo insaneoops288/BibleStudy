@@ -9,7 +9,7 @@
 "So gehorche nun ihrer Stimme. Doch bezeuge ihnen und verkündige ihnen das Recht des Königs, derüber sie herrschen wird.{~}"
 "Und Samuel sagte alle Worte des HERRN dem Volk, das von ihm einen König forderte,"
 "und sprach
-"und zu Hauptleutenüber tausend undüber fünfzig und zu Ackerleuten, die ihm seinen Acker bauen, und zu Schnittern in seiner Ernte, und daß sie seine Kriegswaffen und was zu seinen Wagen gehört, machen."
+"und zu Hauptleutenüber tausend undüber fünfzig und zu Ackerleuten, die ihm seinen Acker bauen, und zu Schnittern #in seiner Ernte, und daß sie seine Kriegswaffen und was zu seinen Wagen gehört, machen."
 "Eure Töchter aber wird er nehmen, daß sie Salbenbereiterinnen, Köchinnen und Bäckerinnen seien."
 "Eure bestenÄcker und Weinberge undÖlgärten wird er nehmen und seinen Knechten geben."
 "Dazu von eurer Saat und euren Weinbergen wird er den Zehnten nehmen und seinen Kämmerern und Knechten geben."

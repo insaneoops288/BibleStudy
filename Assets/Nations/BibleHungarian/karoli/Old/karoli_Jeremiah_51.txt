@@ -8,7 +8,7 @@
 "Hamar elesett Babilon és összeomlott, jajgassatok felette, kössétek be balzsammal az õ sebét, hátha meggyógyul!"
 "Gyógyítottuk Babilont, de nem gyógyult meg. Hagyjátok el õt, és menjünk kiki a maga földére, mert az égig hatott az õ ítélete, és felemelkedett a felhõkig."
 "Kihozta az Úr a mi igazságainkat, jertek és beszéljük meg Sionban az Úrnak, a mi Istenünknek dolgát."
-"Élesítsétek a nyilakat, töltsétek meg a tegzeket; felindította az Úr a Médiabeli királyok lelkét, mert Babilon ellen van az õ gondolatja, hogy elveszesse azt, mert az Úr bosszúállása ez, az õ templomáért való bosszúállása."
+"Élesítsétek a nyilakat, töltsétek meg a tegzeket; felindította az Úr a Médiabeli királyok lelkét, mert Babilon ellen van #az õ gondolatja, hogy elveszesse azt, mert az Úr bosszúállása ez, az õ templomáért való bosszúállása."
 "Babilonnak kõfalain tûzzétek ki a zászlót, erõsítsétek meg az õrséget, szerezzetek vigyázókat, rendeljétek el a leseket
 "Oh te, a ki lakozol a nagy vizek mellett, a kinek kincsed temérdek, eljött a te véged [és] a te rablásod határa!"
 "Megesküdt a Seregek Ura az õ lelkére, mondván
@@ -24,7 +24,7 @@
 "És megfizetek Babilonnak és Káldea minden lakosának mindazokért az õ gonoszságaikért, a melyeket Sionban cselekedtek a ti szemeitek láttára, azt mondja az Úr."
 "Ímé, én ellened [fordulok], te romlásnak hegye, azt mondja az Úr, a ki az egész földet megrontottad, és kinyújtom reád kezemet, és levetlek téged a kõszikláról, és kiégett hegygyé teszlek téged."
 "És belõled nem visznek követ a szegletre és a fundamentomra, mert örökkévaló pusztaság leszel, azt mondja az Úr."
-"Tûzzétek ki a zászlót az országban, fújjátok meg a trombitát a nemzetek között, avassátok fel ellene a nemzeteket, gyûjtsétek össze ellene az Ararátnak, Menninek és Askenáznak országait, válaszszatok õ ellene hadvezért, hozzátok ki a lovakat mint rettenetes sáskasereget."
+"Tûzzétek ki a zászlót az országban, fújjátok meg a trombitát a nemzetek között, avassátok fel ellene a nemzeteket, gyûjtsétek össze #ellene az Ararátnak, Menninek és Askenáznak országait, válaszszatok õ ellene hadvezért, hozzátok ki a lovakat mint rettenetes sáskasereget."
 "Avassátok fel ellene a nemzeteket, Médiának királyait, az õ hadnagyait és minden fõemberét, és az õ birodalmának egész földét."
 "És megrendül a föld és rázkódik, mert az Úrnak gondolatai beteljesednek Babilon ellen, hogy Babilon földét pusztasággá, lakatlanná tegye."
 "Babilon vitézei felhagytak a viadallal, erõsségeikben ülnek, elfogyott a vitézségök, asszonyokká lettek, felgyújtották lakhelyeit, zárait letörték."
@@ -43,7 +43,7 @@
 "Városai pusztává, sivataggá és kopár földdé lesznek, a melyen senki sem lakik, sem embernek fia át nem megy rajta."
 "Megfenyítem Bélt is Babilonban, és kivonom szájából, a mit benyelt, és többé nem futnak hozzá a nemzetek, Babilonnak kõfala is ledõl."
 "Jõjjetek ki belõle, oh én népem, és kiki szabadítsa meg lelkét az Úr haragjának tüzétõl."
-"És el ne olvadjon a ti szívetek és ne féljetek a hírtõl, a mely hallatszik e földön, mikor egyik esztendõben hír jõ, és a másik esztendõben is a hír, hogy erõszakosság van a földön, uralkodó [tör] uralkodóra!"
+"És el ne olvadjon a ti szívetek és ne féljetek a hírtõl, a mely hallatszik e földön, mikor egyik #esztendõben hír jõ, és a másik esztendõben is a hír, hogy erõszakosság van a földön, uralkodó [tör] uralkodóra!"
 "Azért ímé, eljõnek a napok, és meglátogatom Babilon faragott képeit, és egész földe megszégyenül, és minden õ megöltjei elhullanak õ közötte."
 "És örvendeznek Babilon felett az ég és a föld és minden benne valók, mert észak felõl eljõnek reá a pusztítók, azt mondja az Úr."
 "Babilon is elesik, Izráel megölöttjei, a mint Babilonban is elhullottak az egész föld megölöttjei."
@@ -56,7 +56,7 @@
 "Mert pusztító tör reá, Babilonra, és elfogatnak vitézei, eltörik az õ kézívök, mert a megfizetésnek Istene, az Úr, bizonynyal megfizet."
 "És megrészegítem az õ fejedelmeit, bölcseit, hadnagyait, tiszttartóit és vitézeit, és örök álmot alusznak, és nem serkennek fel, azt mondja a király, a kinek neve Seregek Ura!"
 "Ezt mondja a Seregek Ura
-"Ez a szó, a melylyel Jeremiás próféta utasította Seráját, Néria fiát, a ki a Mahásiás fia volt, mikor õ Babilonba méne Sedékiással, a Júda királyával, királyságának negyedik esztendejében; Serája pedig szállásmester vala."
+"Ez a szó, a melylyel Jeremiás próféta utasította Seráját, Néria fiát, a ki a Mahásiás fia volt, #mikor õ Babilonba méne Sedékiással, a Júda királyával, királyságának negyedik esztendejében; Serája pedig szállásmester vala."
 "És megírá Jeremiás egy könyvben mindazt a veszedelmet, a mely Babilont fogja érni, mindezeket a beszédeket, a melyek megirattak Babilon felõl."
 "És monda Jeremiás Serájának
 "Ezt mondjad

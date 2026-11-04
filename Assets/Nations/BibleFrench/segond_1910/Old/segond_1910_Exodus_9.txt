@@ -7,7 +7,7 @@
 "Pharaon s'informa de ce qui était arrivé; et voici, pas une bête des troupeaux d'Israël n'avait péri. Mais le coeur de Pharaon s'endurcit, et il ne laissa point aller le peuple."
 "L'Eternel dit à Moïse et à Aaron
 "Elle deviendra une poussière qui couvrira tout le pays d'Egypte; et elle produira, dans tout le pays d'Egypte, sur les hommes et sur les animaux, des ulcères formés par une éruption de pustules."
-"Ils prirent de la cendre de fournaise, et se présentèrent devant Pharaon; Moïse la jeta vers le ciel, et elle produisit sur les hommes et sur les animaux des ulcères formés par une éruption de pustules."
+"Ils prirent de la cendre de fournaise, et se présentèrent devant Pharaon; Moïse la jeta vers le ciel, et #elle produisit sur les hommes et sur les animaux des ulcères formés par une éruption de pustules."
 "Les magiciens ne purent paraître devant Moïse, à cause des ulcères; car les ulcères étaient sur les magiciens, comme sur tous les Egyptiens."
 "L'Eternel endurcit le coeur de Pharaon, et Pharaon n'écouta point Moïse et Aaron, selon ce que l'Eternel avait dit à Moïse."
 "L'Eternel dit à Moïse
@@ -16,13 +16,13 @@
 "Mais, je t'ai laissé subsister, afin que tu voies ma puissance, et que l'on publie mon nom par toute la terre."
 "Si tu t'élèves encore contre mon peuple, et si tu ne le laisses point aller,"
 "voici, je ferai pleuvoir demain, à cette heure, une grêle tellement forte, qu'il n'y en a point eu de semblable en Egypte depuis le jour où elle a été fondée jusqu'à présent."
-"Fais donc mettre en sûreté tes troupeaux et tout ce qui est à toi dans les champs. La grêle tombera sur tous les hommes et sur tous les animaux qui se trouveront dans les champs et qui n'auront pas été recueillis dans les maisons, et ils périront."
+"Fais donc mettre en sûreté tes troupeaux et tout ce qui est à toi dans les champs. La grêle tombera sur tous les hommes #et sur tous les animaux qui se trouveront dans les champs et qui n'auront pas été recueillis dans les maisons, et ils périront."
 "Ceux des serviteurs de Pharaon qui craignirent la parole de l'Eternel firent retirer dans les maisons leurs serviteurs et leurs troupeaux."
 "Mais ceux qui ne prirent point à coeur la parole de l'Eternel laissèrent leurs serviteurs et leurs troupeaux dans les champs."
 "L'Eternel dit à Moïse
 "Moïse étendit sa verge vers le ciel; et l'Eternel envoya des tonnerres et de la grêle, et le feu se promenait sur la terre. L'Eternel fit pleuvoir de la grêle sur le pays d'Egypte."
 "Il tomba de la grêle, et le feu se mêlait avec la grêle; elle était tellement forte qu'il n'y en avait point eu de semblable dans tout le pays d'Egypte depuis qu'il existe comme nation."
-"La grêle frappa, dans tout le pays d'Egypte, tout ce qui était dans les champs, depuis les hommes jusqu'aux animaux; la grêle frappa aussi toutes les herbes des champs, et brisa tous les arbres des champs."
+"La grêle frappa, dans tout le pays d'Egypte, tout ce qui était dans les champs, depuis les hommes jusqu'aux #animaux; la grêle frappa aussi toutes les herbes des champs, et brisa tous les arbres des champs."
 "Ce fut seulement dans le pays de Gosen, où étaient les enfants d'Israël, qu'il n'y eut point de grêle."
 "Pharaon fit appeler Moïse et Aaron, et leur dit
 "Priez l'Eternel, pour qu'il n'y ait plus de tonnerres et de grêle; et je vous laisserai aller, et l'on ne vous retiendra plus."

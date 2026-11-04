@@ -9,9 +9,9 @@
 "Ang handog na harina at ang inuming handog ay nahiwalay sa bahay ng Panginoon; ang mga saserdote, ang mga tagapangasiwa ng Panginoon, ay nangananangis."
 "Ang bukid ay sira, ang lupain ay nahahapis; sapagka't ang trigo ay sira, ang bagong alak ay tuyo, ang langis ay kulang."
 "Mangahiya kayo, Oh kayong mga mangbubukid, manambitan kayo, Oh kayong mga maguubas, dahil sa trigo at dahil sa cebada; sapagka't ang pagaani sa bukid ay nawala."
-"Ang puno ng ubas ay natuyo, at ang puno ng higos ay nalalanta; ang puno ng granada, ang puno ng palma ay gayon din at ang puno ng manzanas, lahat ng punong kahoy sa parang ay tuyo; sapagka't ang kagalakan ay nawala sa mga anak ng mga tao."
-"Mangagbigkis kayo ng kayong magaspang, at magsipanaghoy kayong mga saserdote; manambitan kayo, kayong mga tagapangasiwa ng dambana; halikayo, magsihiga kayo magdamag sa kayong magaspang, kayong mga tagapangasiwa ng aking Dios
-"Mangaghayag kayo ng ayuno, magsitawag kayo ng isang takdang kapulungan, inyong pisanin ang mga matanda at ang lahat na mananahan sa lupain sa bahay ng Panginoon ninyong Dios, at magsidaing kayo sa Panginoon."
+"Ang puno ng ubas ay natuyo, at ang puno ng higos ay nalalanta; ang puno ng granada, ang puno ng palma ay gayon din at #ang puno ng manzanas, lahat ng punong kahoy sa parang ay tuyo; sapagka't ang kagalakan ay nawala sa mga anak ng mga tao."
+"Mangagbigkis kayo ng kayong magaspang, at magsipanaghoy kayong mga saserdote; manambitan kayo, kayong mga tagapangasiwa ng #dambana; halikayo, magsihiga kayo magdamag sa kayong magaspang, kayong mga tagapangasiwa ng aking Dios
+"Mangaghayag kayo ng ayuno, magsitawag kayo ng isang takdang kapulungan, inyong pisanin ang mga matanda at ang #lahat na mananahan sa lupain sa bahay ng Panginoon ninyong Dios, at magsidaing kayo sa Panginoon."
 "Sa aba ng araw na yaon! sapagka't ang kaarawan ng Panginoon ay malapit na, at darating na parang kagibaan na mula sa Makapangyarihan sa lahat."
 "Hindi baga ang pagkain ay nahiwalay sa ating mga mata, oo, ang kagalakan at ang kasayahan ay nahiwalay sa bahay ng ating Dios?"
 "Ang mga binhi ay nangabubulok sa kanilang bugal; ang mga kamalig ay nangakahandusay na sira, ang mga imbakan ay bagsak; sapagka't ang trigo ay natuyo."

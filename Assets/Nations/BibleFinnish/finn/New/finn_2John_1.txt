@@ -9,5 +9,5 @@
 "Jokainen, joka harhaelee ja ei pysy Kristuksen opissa, ei hänellä ole Jumalaa
 "Jos joku tulee teidän tykönne ja ei tuo tätä opetusta kanssansa, niin älkäät häntä huoneeseen ottako, älkäät myös häntä tervehtikö."
 "Sillä joka häntä tervehtii, hän on osallinen hänen pahoista töistänsä."
-"Minulla olis paljon teille kirjoittamista, mutta en minä tahtonut paperilla ja läkillä; vaan minä toivon tulevani teidän tykönne, ja tahdon läsnä ollessani teidän kanssanne puhua, että meidän ilomme täydellinen olis."
+"Minulla olis paljon teille kirjoittamista, mutta en minä tahtonut paperilla ja läkillä; vaan minä toivon tulevani #teidän tykönne, ja tahdon läsnä ollessani teidän kanssanne puhua, että meidän ilomme täydellinen olis."
 "Sinua tervehtivät sinun valitun sisares lapset, amen!"

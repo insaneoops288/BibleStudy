@@ -3,7 +3,7 @@
 "Hanem Báruk, Nériának fia izgat téged mi ellenünk, hogy minket a Káldeusok kezébe adjon, hogy megöljenek minket, és vitessenek Babilonba."
 "És nem hallgata Jóhanán, Káreának fia, sem a seregnek valamennyi tisztje, sem az egész nép az Úr szavára, hogy a Júda földén maradjanak."
 "Hanem elvivé Jóhanán, Káreának fia, és a seregnek minden tisztje Júdának egész maradékát, a kik visszajöttek vala mindama nemzetek közül, a hová kiûzettek vala, hogy lakozzanak Júdának földében."
-"A férfiakat és az asszonyokat, a gyermekeket és a király leányait és minden lelket, a melyet Nabuzáradán, a poroszlók feje hagyott vala Gedáliással, Ahikámnak, Sáfán fiának fiával, és Jeremiás prófétát és Bárukot, Nériának fiát."
+"A férfiakat és az asszonyokat, a gyermekeket és a király leányait és minden lelket, a melyet Nabuzáradán, a #poroszlók feje hagyott vala Gedáliással, Ahikámnak, Sáfán fiának fiával, és Jeremiás prófétát és Bárukot, Nériának fiát."
 "És elmenének Égyiptomnak földébe, mert nem hallgattak az Úr szavára, és bemenének Táfnesig."
 "És szóla az Úr Jeremiásnak Táfnesben, mondván
 "Végy a kezedbe nagy köveket, és rejtsd el azokat a sárba, a téglaégetõkemenczébe, a mely a Faraó házának ajtajában van Táfnesben, a Júdabeli emberek szeme láttára."

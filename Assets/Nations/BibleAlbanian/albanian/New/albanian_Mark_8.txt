@@ -28,11 +28,11 @@
 "Ata u përgjigjën
 "Dhe ai u tha atyre
 "Atëherë ai i urdhëroi rreptësisht që të mos i tregojnë askujt për të."
-"Pastaj nisi t'u mësojë atyre se Birit të njeriut i duhet të vuajë shumë gjëra, do të hidhet poshtë nga pleqtë, nga krerët e priftërinjve dhe nga skribët; se do të vritet dhe pas tri ditësh do të ringjallet."
+"Pastaj nisi t'u mësojë atyre se Birit të njeriut i duhet të vuajë shumë gjëra, do të hidhet poshtë nga #pleqtë, nga krerët e priftërinjve dhe nga skribët; se do të vritet dhe pas tri ditësh do të ringjallet."
 "Dhe ai i tha këto gjëra haptas. Atëherë Pjetri e mori mënjanë dhe filloi ta qortojë."
 "Por ai u kthye, shikoi dishepujt e vet dhe e qortoi Pjetrin, duke thënë
 "Pastaj e thirri pranë vetes turmën me dishepujt e vet dhe iu tha
 "sepse ai që don të shpëtojë jetën e vet, do ta humbasë; por ai që do të humbasë jetën e vet për hirin tim e për ungjillin, do të shpëtojë."
 "Ç'dobi do të ketë njeriu të fitojë gjithë botën, nëse më pas do të humbë shpirtin e vet?"
 "Ose çfarë mund të japë njeriu në shkëmbim të shpirtit të vet?"
-"Sepse kujtdo që do t'i vijë turp për mua dhe për fjalët e mia në mes të këtij brezi kurorëshkelës dhe mëkatar, për atë do t'i vijë turp edhe Birit të njeriut, kur të arrijë në lavdinë e Atit të vet, me engjëjt e shenjtë''."
+"Sepse kujtdo që do t'i vijë turp për mua dhe për fjalët e mia në mes të këtij brezi kurorëshkelës dhe mëkatar, për #atë do t'i vijë turp edhe Birit të njeriut, kur të arrijë në lavdinë e Atit të vet, me engjëjt e shenjtë''."

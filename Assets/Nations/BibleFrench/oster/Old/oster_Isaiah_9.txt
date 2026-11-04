@@ -3,7 +3,7 @@
 "Car tu as brisé le joug dont il était chargé, le bâton qui frappait ses épaules, le bâton de son oppresseur, comme tu fis à la journée de Madian."
 "Toute chaussure qu'on porte dans la mêlée, et le vêtement roulé dans le sang, seront brûlés et dévorés par les flammes."
 "Car un enfant nous est né, un fils nous est donné, et l'empire est mis sur son épaule
-"Pour accroître l'empire, pour donner une prospérité sans fin au trône de David et à son royaume; pour l'établir et l'affermir dans l'équité et dans la justice, dès maintenant et à toujours. La jalousie de l'Éternel des armées fera cela."
+"Pour accroître l'empire, pour donner une prospérité sans fin au trône de David et à son royaume; pour l'établir et l'affermir #dans l'équité et dans la justice, dès maintenant et à toujours. La jalousie de l'Éternel des armées fera cela."
 "Le Seigneur envoie une parole à Jacob; elle tombe sur Israël."
 "Le peuple entier en aura connaissance, Éphraïm et les habitants de Samarie, ceux qui disent avec orgueil et avec fierté
 "Les briques sont tombées, nous bâtirons en pierres de taille; les sycomores ont été coupés, nous les remplacerons par des cèdres!"
@@ -13,7 +13,7 @@
 "Aussi l'Éternel retranchera d'Israël, en un jour, la tête et la queue, la palme et le jonc."
 "La tête, c'est l'ancien et l'homme considéré; et la queue, c'est le prophète qui enseigne le mensonge."
 "Car les conducteurs de ce peuple l'égarent, et ceux qui sont conduits par eux se perdent."
-"C'est pourquoi l'Éternel ne prendra point plaisir en ses jeunes gens, et n'aura point pitié de ses orphelins ni de ses veuves; car ce ne sont tous que des impies et des méchants, et toute bouche profère des infamies. Malgré tout cela, sa colère ne s'arrête pas, et sa main est toujours étendue!"
+"C'est pourquoi l'Éternel ne prendra point plaisir en ses jeunes gens, et n'aura point pitié de ses orphelins ni de ses veuves; car ce ne sont tous #que des impies et des méchants, et toute bouche profère des infamies. Malgré tout cela, sa colère ne s'arrête pas, et sa main est toujours étendue!"
 "Car la méchanceté brûle, comme un feu qui dévore les ronces et les épines; il embrase les taillis de la forêt, qui montent en colonnes de fumée."
 "La colère de l'Éternel des armées embrase le pays, et le peuple devient la proie du feu; nul n'épargne son frère."
 "On déchire à droite, et l'on a faim; on dévore à gauche, et l'on n'est pas rassasié; chacun mange la chair de son bras."

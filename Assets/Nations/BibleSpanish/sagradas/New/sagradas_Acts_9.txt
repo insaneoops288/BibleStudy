@@ -24,7 +24,7 @@
 "mas las asechanzas de ellos fueron entendidas por Saulo. Y <I>ellos</I>  guardaban las puertas de día y de noche para matarle."
 "Entonces los discípulos, tomándole de noche, le bajaron por el muro metido en una canasta."
 "Y cuando Saulo llegó a Jerusalén, trataba de juntarse con los discípulos; pero todos tenían miedo de él, no creyendo que era discípulo."
-"Entonces Bernabé, tomándole, lo trajo a los apóstoles, y <I>les</I>  contó cómo había visto al Señor en el camino, y que le había hablado, y cómo en Damasco había hablado confiadamente en el Nombre de Jesus."
+"Entonces Bernabé, tomándole, lo trajo a los apóstoles, y <I>les</I>  contó cómo había visto al Señor en el #camino, y que le había hablado, y cómo en Damasco había hablado confiadamente en el Nombre de Jesus."
 "Y entraba y salía con ellos en Jerusalén;"
 "y hablaba confiadamente en el Nombre del Señor; y disputaba con los griegos; pero ellos procuraban matarle."
 "Lo cual, cuando los hermanos entendieron, le acompañaron hasta Cesarea, y le enviaron a Tarso."
@@ -36,7 +36,7 @@
 "Entonces en Jope había una discípula llamada Tabita, que si lo declaras, quiere decir Dorcas. Esta era llena de buenas obras y de limosnas que hacía."
 "Y aconteció en aquellos días que enfermando, murió; <I>a</I>  la cual, después de lavada, <I>la</I>  pusieron en un cenadero."
 "Y como Lida estaba cerca de Jope, los discípulos, oyendo que Pedro estaba allí, le enviaron dos hombres, rogándole
-"Pedro entonces levantándose, fue con ellos; y cuando llegó, le llevaron al cenadero, donde le rodearon todas las viudas, llorando y mostrando las túnicas y los vestidos que Dorcas les hacía cuando estaba con ellas."
+"Pedro entonces levantándose, fue con ellos; y cuando llegó, le llevaron al cenadero, donde le rodearon todas las #viudas, llorando y mostrando las túnicas y los vestidos que Dorcas les hacía cuando estaba con ellas."
 "Entonces echados fuera todos, Pedro puesto de rodillas, oró; y vuelto al cuerpo, dijo
 "Y él le dio la mano, y la levantó; entonces llamando a los santos y a las viudas, la presentó viva."
 "Esto fue notorio por toda Jope; y creyeron muchos en el Señor."

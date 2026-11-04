@@ -8,7 +8,7 @@
 "Mais Élymas, le magicien, car c'est ainsi que se traduit son nom, leur résistait, tâchant de détourner le proconsul de la foi."
 "Mais Saul, qui est aussi appelé Paul, rempli du Saint-Esprit, et ayant les yeux fixés sur lui, dit
 "O toi, qui es plein de toute fraude et de toute méchanceté, fils du diable, ennemi de toute justice, ne cesseras-tu point de pervertir les voies droites du Seigneur?"
-"Et voici, dès maintenant la main du Seigneur est sur toi, et tu seras aveugle, et tu ne verras point le soleil, pour un temps. Et à l'instant, l'obscurité et les ténèbres tombèrent sur lui; et tournant çà et là, il cherchait un guide."
+"Et voici, dès maintenant la main du Seigneur est sur toi, et tu seras aveugle, et tu ne verras point le soleil, pour #un temps. Et à l'instant, l'obscurité et les ténèbres tombèrent sur lui; et tournant çà et là, il cherchait un guide."
 "Alors le proconsul, voyant ce qui était arrivé, crut, étant rempli d'admiration pour la doctrine du Seigneur."
 "Et Paul et ceux qui étaient avec lui, s'étant embarqués à Paphos, vinrent à Perge en Pamphylie. Mais Jean, s'étant séparé d'eux, revint à Jérusalem."
 "Pour eux, étant partis de Perge, ils vinrent à Antioche de Pisidie; et étant entrés dans la synagogue, le jour du sabbat, ils s'assirent."

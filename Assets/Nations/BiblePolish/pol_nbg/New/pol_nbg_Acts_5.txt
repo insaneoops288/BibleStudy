@@ -18,7 +18,7 @@
 "Narzucili też ręce na apostołów oraz umieścili ich sobie w publicznym więzieniu."
 "Ale anioł Pana otworzył pośród nocy bramy więzienia, wyprowadził ich i powiedział
 "Idźcie, stańcie w Świątyni oraz mówicie ludowi wszystkie słowa życia."
-"A gdy to usłyszeli, podczas świtu weszli do Świątyni i nauczali. Zaś kiedy przybył arcykapłan oraz ci razem z nim, zwołali Sanhedryn i całą starszyznę synów Israela oraz posłali do więzienia, aby zostali przyprowadzeni."
+"A gdy to usłyszeli, podczas świtu weszli do Świątyni i nauczali. Zaś kiedy przybył arcykapłan oraz ci razem #z nim, zwołali Sanhedryn i całą starszyznę synów Israela oraz posłali do więzienia, aby zostali przyprowadzeni."
 "Zatem słudzy przybyli, lecz nie znaleźli ich w więzieniu; więc wrócili się i oznajmili, mówiąc
 "Rzeczywiście, z całą pewności znaleźliśmy zamknięte więzienie i na zewnątrz, stojących z przodu drzwi strażników; ale kiedy otworzyli do wewnątrz nikogo nie znaleźliśmy."
 "Zaś kiedy arcykapłan oraz rządca Świątyni usłyszeli te słowa, byli odnośnie nich w kłopocie, co by to się zdarzyło."
@@ -33,7 +33,7 @@
 "Zaś oni, gdy tego wysłuchali, zostali rozpiłowani oraz postanowili ich zgładzić."
 "Ale pewien faryzeusz, imieniem Gamaliel, szanowany przez cały lud nauczyciel Prawa, wstał w Sanhedrynie i ich wezwał, by na chwilę wyprowadzono apostołów na zewnątrz."
 "Potem do nich powiedział
-"Bo na początku tych dni podniósł się Teodas, który mówił, że sam jest kimś, i została mu przyczepiona liczba około czterystu mężczyzn. Lecz został on zabity, a wszyscy, którzy mu ulegali zostali rozproszeni; zatem pojawili się na nic."
+"Bo na początku tych dni podniósł się Teodas, który mówił, że sam jest kimś, i została mu przyczepiona liczba około #czterystu mężczyzn. Lecz został on zabity, a wszyscy, którzy mu ulegali zostali rozproszeni; zatem pojawili się na nic."
 "Po nim, w dniach spisu podniósł się Judas Galilejczyk i oderwał za sobą dość dużo ludu. Lecz także on zginął oraz zostali rozproszeni wszyscy, którzy mu ulegali."
 "Więc teraz mówię wam
 "A jeżeli jest z Boga nie będziecie mogli ich zniszczyć; i abyście nie zostali znalezieni jako ci, co walczą przeciwko Bogu."

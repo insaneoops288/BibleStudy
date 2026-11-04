@@ -10,7 +10,7 @@
 "Ningún extraño comerá cosa sagrada; el huésped del sacerdote, ni el jornalero, no comerá cosa sagrada."
 "Mas el sacerdote, cuando comprare persona de su dinero, ésta comerá de ella, y el nacido en su casa
 "Empero la hija del sacerdote, cuando se casare con varón extraño, ella no comerá de la ofrenda de las cosas sagradas."
-"Pero si la hija del sacerdote fuere viuda, ó repudiada, y no tuviere prole, y se hubiere vuelto á la casa de su padre, como en su mocedad, comerá del pan de su padre; mas ningún extraño coma de él."
+"Pero si la hija del sacerdote fuere viuda, ó repudiada, y no tuviere prole, y se hubiere vuelto á la casa #de su padre, como en su mocedad, comerá del pan de su padre; mas ningún extraño coma de él."
 "Y el que por yerro comiere cosa sagrada, añadirá á ella su quinto, y darálo al sacerdote con la cosa sagrada."
 "No profanarán, pues, las cosas santas de los hijos de Israel, las cuales apartan para Jehová
 "Y no les harán llevar la iniquidad del pecado, comiendo las cosas santas de ellos

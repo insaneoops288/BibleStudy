@@ -17,9 +17,9 @@
 "Und mache einen Deckel von reinem Golde
 "Und mache zwei Cherubim von Gold; in getriebener Arbeit sollst du sie machen an beiden Enden des Deckels;"
 "und mache einen Cherub an dem Ende der einen Seite und einen Cherub an dem Ende der anderen Seite; aus dem Deckel sollt ihr die Cherubim machen an seinen beiden Enden."
-"Und die Cherubim sollen die Flügel nach oben ausbreiten, den Deckel mit ihren Flügelnüberdeckend, und ihre Angesichter einander gegenüber; die Angesichter der Cherubim sollen gegen den Deckel gerichtet sein."
+"Und die Cherubim sollen die Flügel nach oben ausbreiten, den Deckel mit ihren Flügelnüberdeckend, und #ihre Angesichter einander gegenüber; die Angesichter der Cherubim sollen gegen den Deckel gerichtet sein."
 "Und lege den Deckel obenüber die Lade; und in die Lade sollst du das Zeugnis legen, das ich dir geben werde."
-"Und daselbst werde ich mit dir zusammenkommen und von dem Deckel herab, zwischen den zwei Cherubim hervor, die auf der Lade des Zeugnisses sind, alles zu dir reden, was ich dir an die Kinder Israel gebieten werde."
+"Und daselbst werde ich mit dir zusammenkommen und von dem Deckel herab, zwischen den zwei Cherubim hervor, die auf #der Lade des Zeugnisses sind, alles zu dir reden, was ich dir an die Kinder Israel gebieten werde."
 "Und du sollst einen Tisch von Akazienholz machen
 "Undüberziehe ihn mit reinem Golde und mache ihm einen Kranz von Gold ringsum."
 "Und mache ihm eine Leiste, eine Hand breit, ringsum, und mache einen Kranz von Gold an seine Leiste ringsum."
@@ -28,7 +28,7 @@
 "Und mache die Stangen von Akazienholz undüberziehe sie mit Gold, und der Tisch soll daran getragen werden."
 "Und mache seine Schüsseln und seine Schalen und seine Kannen und seine Spendschalen, mit welchen das Trankopfer ausgegossen wird; von reinem Golde sollst du sie machen."
 "Und auf den Tisch sollst du Schaubrote legen vor meinem Angesicht beständig."
-"Und du sollst einen Leuchter von reinem Golde machen; in getriebener Arbeit soll der Leuchter gemacht werden, sein Fuß und sein Schaft; seine Kelche, seine Knäufe und seine Blumen sollen aus ihm sein."
+"Und du sollst einen Leuchter von reinem Golde machen; in getriebener Arbeit soll der Leuchter gemacht werden, #sein Fuß und sein Schaft; seine Kelche, seine Knäufe und seine Blumen sollen aus ihm sein."
 "Und sechs Arme sollen von seinen Seiten ausgehen
 "Drei Kelche, mandelblütenförmig, an dem einen Arme
 "Und an dem Leuchter vier Kelche, mandelblütenförmig

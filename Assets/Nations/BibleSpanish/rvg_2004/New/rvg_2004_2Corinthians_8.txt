@@ -16,7 +16,7 @@
 "Mas gracias [sean] dadas a Dios, que puso en el corazón de Tito la misma solicitud por vosotros."
 "Pues a la verdad aceptó la exhortación; y estando también muy solícito, de su voluntad partió para ir a vosotros."
 "Y enviamos juntamente con él al hermano cuya alabanza en el evangelio es por todas las iglesias;"
-"y no sólo esto, sino también fue escogido por las iglesias para viajar con nosotros con esta gracia, que es administrada por nosotros para gloria del Señor mismo, y para demostrar vuestra buena disposición;"
+"y no sólo esto, sino también fue escogido por las iglesias para viajar con nosotros con esta gracia, #que es administrada por nosotros para gloria del Señor mismo, y para demostrar vuestra buena disposición;"
 "evitando que nadie nos difame en esta abundancia que ministramos;"
 "procurando hacer lo honesto, no sólo delante del Señor, sino también delante de los hombres."
 "Y enviamos con ellos a nuestro hermano, la diligencia del cual hemos comprobado muchas veces en muchas cosas, y ahora mucho más diligente por la mucha confianza que [tengo] en vosotros."

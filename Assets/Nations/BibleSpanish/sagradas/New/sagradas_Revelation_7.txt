@@ -1,4 +1,4 @@
-"Y después de estas cosas vi cuatro ángeles que estaban sobre los cuatro ángulos de la tierra, deteniendo los cuatro vientos de la tierra, para que no soplase viento sobre la tierra, ni sobre el mar, ni sobre ningún árbol."
+"Y después de estas cosas vi cuatro ángeles que estaban sobre los cuatro ángulos de la tierra, deteniendo los cuatro vientos #de la tierra, para que no soplase viento sobre la tierra, ni sobre el mar, ni sobre ningún árbol."
 "Y vi otro ángel que subía del nacimiento del sol, teniendo el sello del Dios vivo; y clamó con gran voz a los cuatro ángeles, a los cuales era dado hacer daño a la tierra y al mar,"
 "diciendo
 "Y oí el número de los señalados
@@ -6,7 +6,7 @@
 "De la tribu de Aser, doce mil señalados. De la tribu de Neftalí, doce mil señalados. De la tribu de Manasés, doce mil señalados."
 "De la tribu de Simeón, doce mil señalados. De la tribu de Leví, doce mil señalados. De la tribu de Isacar, doce mil señalados."
 "De la tribu de Zabulón, doce mil señalados. De la tribu de José, doce mil señalados. De la tribu de Benjamín, doce mil señalados."
-"Después de estas cosas miré, y he aquí una gran compañía, la cual ninguno podía contar, de todas naciones y linajes y pueblos y lenguas, que estaban delante del trono y en la presencia del Cordero, vestidos de luengas ropas  blancas, y palmas en sus manos;"
+"Después de estas cosas miré, y he aquí una gran compañía, la cual ninguno podía contar, de todas naciones y linajes y pueblos y #lenguas, que estaban delante del trono y en la presencia del Cordero, vestidos de luengas ropas  blancas, y palmas en sus manos;"
 "y clamaban a alta voz, diciendo
 "Y todos los ángeles estaban alrededor del trono, y de los ancianos, y de los cuatro animales; y se postraron sobre sus rostros delante del trono, y adoraron a Dios,"
 "diciendo

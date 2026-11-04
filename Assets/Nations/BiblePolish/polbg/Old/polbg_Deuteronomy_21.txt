@@ -20,4 +20,4 @@
 "I rzeką do starszych miasta onego
 "Tedy ukamionują go wszyscy ludzie miasta onego, i umrze; a tak odejmiesz złe z pośrodku siebie, co gdy wszystek Izrael usłyszy, bać się będą."
 "A gdyby kto popełnił grzech godny śmierci, a byłby skazany na śmierć, a obwiesiłbyś go na drzewie,"
-"Nie zostanie przez noc trup jego na drzewie, ale koniecznie pochowasz go tegoż dnia; bo przeklęstwem Bożem jest ten, co wisi. Przetoż nie będziesz plugawił ziemi twojej, którą Pan, Bóg twój, dawa tobie w dziedzictwo."
+"Nie zostanie przez noc trup jego na drzewie, ale koniecznie pochowasz go tegoż dnia; bo przeklęstwem Bożem jest #ten, co wisi. Przetoż nie będziesz plugawił ziemi twojej, którą Pan, Bóg twój, dawa tobie w dziedzictwo."

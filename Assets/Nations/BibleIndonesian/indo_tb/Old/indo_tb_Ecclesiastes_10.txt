@@ -17,4 +17,4 @@
 "Berbahagialah engkau tanah, kalau rajamu seorang yang berasal dari kaum pemuka, dan pemimpin-pemimpinmu makan pada waktunya dalam keperkasaan dan bukan dalam kemabukan!"
 "Oleh karena kemalasan runtuhlah atap, dan oleh karena kelambanan tangan bocorlah rumah."
 "Untuk tertawa orang menghidangkan makanan; anggur meriangkan hidup dan uang memungkinkan semuanya itu."
-"Dalam pikiranpun janganlah engkau mengutuki raja, dan dalam kamar tidur janganlah engkau mengutuki orang kaya, karena burung di udara mungkin akan menyampaikan ucapanmu, dan segala yang bersayap dapat menyampaikan apa yang kauucapkan."
+"Dalam pikiranpun janganlah engkau mengutuki raja, dan dalam kamar tidur janganlah engkau mengutuki orang kaya, karena burung #di udara mungkin akan menyampaikan ucapanmu, dan segala yang bersayap dapat menyampaikan apa yang kauucapkan."

@@ -15,7 +15,7 @@
 "Sitte vihasi Amnon häntä sangen suurella vihalla, niin että viha, jolla hän häntä vihasi oli suurempi, kuin rakkaus ennen oli, jolla hän häntä rakasti. Ja Amnon sanoi hänelle
 "Mutta hän sanoi
 "Vaan kutsui nuorukaisensa, joka häntä palveli ja sanoi
-"Ja hänen yllänsä oli kirjava hame; sillä senkaltaisilla hameilla olivat kuninkaan tyttäret vaatetetut, niinkauvan kuin he olivat neitseet. Ja kuin hänen palveliansa oli hänen ajanut ulos ja sulkenut oven hänen jälkeensä,"
+"Ja hänen yllänsä oli kirjava hame; sillä senkaltaisilla hameilla olivat kuninkaan tyttäret vaatetetut, niinkauvan kuin he #olivat neitseet. Ja kuin hänen palveliansa oli hänen ajanut ulos ja sulkenut oven hänen jälkeensä,"
 "Heitti Tamar tuhkaa päänsä päälle, ja repäisi sen kirjavan hameen rikki, joka hänen yllänsä oli, ja pani kätensä päänsä päälle, ja huusi mennessänsä."
 "Ja hänen veljensä Absalom sanoi hänelle
 "Ja kuin kuningas David kaikki nämät kuuli vihastui hän sangen suuresti."

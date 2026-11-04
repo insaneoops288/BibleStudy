@@ -4,7 +4,7 @@
 "Und Sichem sprach zu Hemor, seinem Vater, und sagte
 "Und Jakob hörte, daß er seine Tochter Dina entehrt hatte; seine Söhne aber waren mit seinem Vieh auf dem Felde, und Jakob schwieg, bis sie kamen."
 "Und Hemor, der Vater Sichems, kam heraus zu Jakob, um mit ihm zu reden."
-"Und die Söhne Jakobs kamen vom Felde, sobald sie es hörten; und die Männer kränkten sich und ergrimmten sehr, weil er eine Schandtat in Israel verübt hatte, bei der Tochter Jakobs zu liegen; und also sollte nicht geschehen."
+"Und die Söhne Jakobs kamen vom Felde, sobald sie es hörten; und die Männer kränkten sich und ergrimmten sehr, weil #er eine Schandtat in Israel verübt hatte, bei der Tochter Jakobs zu liegen; und also sollte nicht geschehen."
 "Und Hemor redete mit ihnen und sprach
 "und verschwägert euch mit uns
 "und wohnet bei uns, und das Land soll vor euch sein
@@ -18,11 +18,11 @@
 "Und ihre Worte waren gut in den Augen Hemors und Sichems, des Sohnes Hemors."
 "Und der Jüngling zögerte nicht, dies zu tun, denn er hatte Gefallen an der Tochter Jakobs. Und er war geehrt vor allen im Hause seines Vaters."
 "Und Hemor und Sichem, sein Sohn, kamen in das Tor ihrer Stadt, und sie redeten zu den Männern ihrer Stadt und sprachen
-"Diese Männer sind friedlich gegen uns, so mögen sie im Lande wohnen und darin verkehren; und das Land, siehe, weit nach beiden Seiten ist es vor ihnen. Wir wollen uns ihre Töchter zu Weibern nehmen und unsere Töchter ihnen geben."
+"Diese Männer sind friedlich gegen uns, so mögen sie im Lande wohnen und darin verkehren; und das Land, siehe, weit nach #beiden Seiten ist es vor ihnen. Wir wollen uns ihre Töchter zu Weibern nehmen und unsere Töchter ihnen geben."
 "Nur unter der Bedingung wollen die Männer uns zu Willen sein, bei uns zu wohnen, ein Volk zu sein, wenn bei uns alles Männliche beschnitten werde, so wie sie beschnitten sind."
 "Ihre Herden und ihr Besitz und all ihr Vieh, werden die nicht unser sein? Nur laßt uns ihnen zu Willen sein, und sie werden bei uns wohnen."
 "Und sie hörten auf Hemor und auf Sichem, seinen Sohn, alle, die zum Tore seiner Stadt ausgingen; und alles Männliche wurde beschnitten, alle, die zum Tore seiner Stadt ausgingen."
-"Und es geschah am dritten Tage, als sie in Schmerzen waren, da nahmen die zwei Söhne Jakobs, Simeon und Levi, die Brüder Dinas, ein jeder sein Schwert und kamen kühn wider die Stadt und ermordeten alles Männliche;"
+"Und es geschah am dritten Tage, als sie in Schmerzen waren, da nahmen die zwei Söhne Jakobs, Simeon und #Levi, die Brüder Dinas, ein jeder sein Schwert und kamen kühn wider die Stadt und ermordeten alles Männliche;"
 "auch Hemor und seinen Sohn Sichem ermordeten sie mit der Schärfe des Schwertes und nahmen Dina aus dem Hause Sichems und gingen davon."
 "Die Söhne Jakobs kamenüber die Erschlagenen und plünderten die Stadt, weil sie ihre Schwester entehrt hatten."
 "Ihr Kleinvieh und ihre Rinder und ihre Esel und was in der Stadt und was auf dem Felde war, nahmen sie;"

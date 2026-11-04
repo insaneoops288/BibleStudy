@@ -18,16 +18,16 @@
 "Ke lënë pas dore Shkëmbin që të ka pjellë dhe ke harruar Perëndinë që të ka formuar."
 "Por Zoti e pa këtë dhe i hodhi poshtë, për shkak të provokimit të bijve të tij dhe të bijave të tij,"
 "dhe tha
-"Ata më kanë bërë ziliqar me atë që nuk është Perëndi, kanë provokuar zemërimin tim me idhujt e tyre të kotë; dhe unë do t'i bëj ziliqarë me njerëz që nuk janë një popull, do të ngacmoj smirën e tyre me një komb që s'është në vete."
+"Ata më kanë bërë ziliqar me atë që nuk është Perëndi, kanë provokuar zemërimin tim me idhujt e tyre të kotë; dhe unë do #t'i bëj ziliqarë me njerëz që nuk janë një popull, do të ngacmoj smirën e tyre me një komb që s'është në vete."
 "Sepse një zjarr është ndezur gjatë zemërimit tim dhe ka për të djegur pjesët më të thella të Sheolit; do të gllabërojë tokën dhe prodhimet e saj dhe do t'u vërë zjarrin themeleve të maleve."
 "Unë do të mblesh mbi ta mjerime, do t'i mbaroj shigjetat e mia kundër tyre."
-"Ata do të veniten nga uria, do të përpihen nga një vapë djegëse dhe nga një murtajë e tmerrshme; do të dërgoj kundër tyre dhëmbët e kafshëve të egra, me helmin e gjarpërinjve që hiqen zvarrë nëpër pluhur."
+"Ata do të veniten nga uria, do të përpihen nga një vapë djegëse dhe nga një murtajë e tmerrshme; do #të dërgoj kundër tyre dhëmbët e kafshëve të egra, me helmin e gjarpërinjve që hiqen zvarrë nëpër pluhur."
 "Nga jashtë shpata do t'i privojë nga fëmijët, nga brenda terrori, duke shkaktuar njëkohësisht vdekjen e të riut dhe të virgjëreshës, të foshnjës së gjirit dhe të plakut të thinjur."
 "Unë kam thënë
 "por i trembem provokimit të armikut, sepse kundërshtarët e tyre, duke interpretuar keq situatën, mund të thonë
 "Sepse janë një komb që ka humbur gjykimin dhe nuk ka në ta asnjë zgjuarësi."
 "Po të ishin të urtë do ta kuptonin këtë, do të merrnin parasysh fundin që i pret."
-"Si do të mundte një person i vetëm të ndiqte një mijë e dyqind veta dhe, dy persona të bënin të iknin dhjetë mijë veta, po të mos i kishte shitur Shkëmbi dhe po të mos i kishte dorëzuar Zoti tek armiku?"
+"Si do të mundte një person i vetëm të ndiqte një mijë e dyqind veta dhe, dy persona të bënin të iknin #dhjetë mijë veta, po të mos i kishte shitur Shkëmbi dhe po të mos i kishte dorëzuar Zoti tek armiku?"
 "Sepse shkëmbi i tyre nuk është si Shkëmbi ynë; vetë armiqtë tanë janë gjykatësit e tyre;"
 "por hardhia e tyre vjen nga hardhia e Sodomës dhe nga fushat e Gomorës; rrushi i tyre është i helmatisur dhe vilet e rrushit të tyre janë të hidhura;"
 "vera e tyre është një helm gjarpërinjsh, një helm mizor gjarpërinjsh helmonjës."

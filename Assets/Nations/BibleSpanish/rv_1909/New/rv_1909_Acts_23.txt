@@ -12,13 +12,13 @@
 "Y venido el día, algunos de los Judíos se juntaron, é hicieron voto bajo de maldición, diciendo que ni comerían ni beberían hasta que hubiesen muerto á Pablo."
 "Y eran más de cuarenta los que habían hecho esta conjuración;"
 "Los cuales se fueron á los príncipes de los sacerdotes y á los ancianos, y dijeron
-"Ahora pues, vosotros, con el concilio, requerid al tribuno que le saque mañana á vosotros como que queréis entender de él alguna cosa más cierta; y nosotros, antes que él llegue, estaremos aparejados para matarle."
+"Ahora pues, vosotros, con el concilio, requerid al tribuno que le saque mañana á vosotros como que queréis #entender de él alguna cosa más cierta; y nosotros, antes que él llegue, estaremos aparejados para matarle."
 "Entonces un hijo de la hermana de Pablo, oyendo las asechanzas, fué, y entró en la fortaleza, y dió aviso á Pablo."
 "Y Pablo, llamando á uno de los centuriones, dice
 "El entonces tomándole, le llevó al tribuno, y dijo
 "Y el tribuno, tomándole de la mano y retirándose aparte, le preguntó
 "Y él dijo
-"Mas tú no los creas; porque más de cuarenta hombres de ellos le acechan, los cuales han hecho voto debajo de maldición, de no comer ni beber hasta que le hayan muerto; y ahora están apercibidos esperando tu promesa."
+"Mas tú no los creas; porque más de cuarenta hombres de ellos le acechan, los cuales han hecho voto debajo #de maldición, de no comer ni beber hasta que le hayan muerto; y ahora están apercibidos esperando tu promesa."
 "Entonces el tribuno despidió al mancebo, mandándole que á nadie dijese que le había dado aviso de esto."
 "Y llamados dos centuriones, mandó que apercibiesen para la hora tercia de la noche doscientos soldados, que fuesen hasta Cesarea, y setenta de á caballo, y doscientos lanceros;"
 "Y que aparejasen cabalgaduras en que poniendo á Pablo, le llevasen en salvo á Félix el Presidente."
@@ -27,7 +27,7 @@
 "A este hombre, aprehendido de los Judíos, y que iban ellos á matar, libré yo acudiendo con la tropa, habiendo entendido que era Romano."
 "Y queriendo saber la causa por qué le acusaban, le llevé al concilio de ellos
 "Y hallé que le acusaban de cuestiones de la ley de ellos, y que ningún crimen tenía digno de muerte ó de prisión."
-"Mas siéndome dado aviso de asechanzas que le habían aparejado los Judíos, luego al punto le he enviado á ti, intimando también á los acusadores que traten delante de ti lo que tienen contra él. Pásalo bien."
+"Mas siéndome dado aviso de asechanzas que le habían aparejado los Judíos, luego al punto le he enviado á #ti, intimando también á los acusadores que traten delante de ti lo que tienen contra él. Pásalo bien."
 "Y los soldados, tomando á Pablo como les era mandado, lleváronle de noche á Antipatris."
 "Y al día siguiente, dejando á los de á caballo que fuesen con él, se volvieron á la fortaleza."
 "y como llegaron á Cesarea, y dieron la carta al gobernador, presentaron también á Pablo delante de él."

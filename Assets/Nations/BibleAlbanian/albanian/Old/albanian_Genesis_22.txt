@@ -1,6 +1,6 @@
 "Mbas këtyre gjërave Perëndia e vuri në provë Abrahamin dhe i tha
 "Dhe Perëndia tha
-"Kështu Abrahami u ngrit herët në mëngjes, i vuri samarin gomarit, mori me vete dy shërbyes dhe të birin Isak dhe çau dru për sakrificën; pastaj u nis drejt vendit ku i kishte thënë Perëndia të shkonte."
+"Kështu Abrahami u ngrit herët në mëngjes, i vuri samarin gomarit, mori me vete dy shërbyes dhe të birin #Isak dhe çau dru për sakrificën; pastaj u nis drejt vendit ku i kishte thënë Perëndia të shkonte."
 "Ditën e tretë Abrahami ngriti sytë dhe pa së largu vendin."
 "Atëherë Abrahami u tha shërbyesve të tij
 "Kështu Abrahami mori drutë e sakrificës dhe i ngarkoi mbi Isakun, birin e tij; pastaj mori në dorë të vet zjarrin dhe u nisën rrugës që të dy."

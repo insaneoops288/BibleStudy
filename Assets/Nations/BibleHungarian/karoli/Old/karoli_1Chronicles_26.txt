@@ -23,10 +23,10 @@
 "Az Amrám, Ishár, Hebron és Aziel nemzetségébõl valók is."
 "Sébuel pedig Gersonnak, a Mózes fiának fia a kincs fõgondviselõje volt."
 "Az õ atyjafiai pedig, Eliézertõl valók, [ezek
-"Ez a Selómit és az õ testvérei valának [gondviselõi] minden megszentelt kincsnek, a melyet Dávid király, a nemzetségek fejedelmei, az ezredesek, századosok és a hadakozó nép fejedelmei szenteltek vala [Istennek,]"
+"Ez a Selómit és az õ testvérei valának [gondviselõi] minden megszentelt kincsnek, a melyet Dávid király, #a nemzetségek fejedelmei, az ezredesek, századosok és a hadakozó nép fejedelmei szenteltek vala [Istennek,]"
 "A melyet a hadban való zsákmányból szenteltek vala az Úr házának építésére,"
 "És a mit csak szentelt Sámuel próféta, és Saul, a Kis fia, és Abner, a Nér fia, és Joáb, a Séruja fia; és bárki szentelt is [valamit Istennek
 "Az Isháriták közül Kenániás és az õ fiai Izráel külsõ dolgaival [bízattak meg,] mint tiszttartók és birák."
-"A Hebroniták közül Hasábiás és testvérei igen erõs férfiak, ezeren és hétszázan valának, a kik Izráel népe között, a Jordán vizén túl napenyészetre, gondviselõk voltak az Úr minden dolgában és a király szolgálatjában."
+"A Hebroniták közül Hasábiás és testvérei igen erõs férfiak, ezeren és hétszázan valának, a kik Izráel népe #között, a Jordán vizén túl napenyészetre, gondviselõk voltak az Úr minden dolgában és a király szolgálatjában."
 "A Hebroniták között Jerija vala a fõ (a Hebroniták nemzetségeik és családjaik szerint megkerestetének a Dávid királyságának negyvenedik esztendejében és találtak bátor férfiakat Gileád-Jaézerben)."
-"És az õ atyjafiai, erõs férfiak, kétezerhétszázan valának, családfõk; a kiket Dávid király gondviselõkké tett a Rubenitákon és Gáditákon és Manasse félnemzetségén, mind az Istennek, mind a királynak minden dolgaiban."
+"És az õ atyjafiai, erõs férfiak, kétezerhétszázan valának, családfõk; a kiket Dávid király gondviselõkké tett a #Rubenitákon és Gáditákon és Manasse félnemzetségén, mind az Istennek, mind a királynak minden dolgaiban."

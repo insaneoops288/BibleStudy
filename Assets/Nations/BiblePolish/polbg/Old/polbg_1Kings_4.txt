@@ -10,7 +10,7 @@
 "Syn Heseda w Arubot, który trzymał Socho i wszystkę ziemię Chefer;"
 "Syn Abinadaba, który trzymał wszystkie granice Dor, a Tafet, córkę Salomonową, miał za żonę."
 "Baana, syn Ahiluda, który trzymał Tanach i Magieddo, i wszystko Betsan, które jest podle Sartany pod Jezreelem, od Betsan aż do Abelmehola, aż za Jekmaam."
-"Syn Gaber w Ramot Galaadskiem, który trzymał wsi Jaira, syna Manasesowego, które leżą w Galaad. Jemu też należała kraina Argob, która jest w Basan, sześćdziesiąt miast wielkich murowanych z zaworami miedzianemi."
+"Syn Gaber w Ramot Galaadskiem, który trzymał wsi Jaira, syna Manasesowego, które leżą w Galaad. Jemu #też należała kraina Argob, która jest w Basan, sześćdziesiąt miast wielkich murowanych z zaworami miedzianemi."
 "Achinadab, syn Iddona, w Mahanaim."
 "Achimaas w Neftalim, który też pojął Basematę, córkę Salomonową, za żonę."
 "Baana, syn Husai, w Aser i w Alot."

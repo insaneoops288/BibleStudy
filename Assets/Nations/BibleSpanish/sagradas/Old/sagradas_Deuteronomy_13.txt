@@ -1,8 +1,8 @@
 "Cuando se levantare en medio de ti profeta, o soñador de sueños, y te diere señal o milagro,"
 "y acaeciere la señal o milagro que él te dijo, diciendo
-"no darás oído a las palabras de tal profeta, ni al tal soñador de sueños; porque el SEÑOR vuestro Dios os prueba, para saber si amáis al SEÑOR vuestro Dios con todo vuestro corazón, y con toda vuestra alma."
+"no darás oído a las palabras de tal profeta, ni al tal soñador de sueños; porque el SEÑOR vuestro Dios #os prueba, para saber si amáis al SEÑOR vuestro Dios con todo vuestro corazón, y con toda vuestra alma."
 "En pos del SEÑOR vuestro Dios andaréis, y a él temeréis, y guardaréis sus mandamientos, y escucharéis su voz, y a él serviréis, y a él os allegaréis."
-"Y el tal profeta o soñador de sueños, morirá; por cuanto habló rebelión contra el SEÑOR vuestro Dios, que te sacó de tierra de Egipto, y te rescató de casa de servidumbre, para echarte del camino por el que el SEÑOR tu Dios  te mandó que anduvieses; y quitarás el mal de en medio de ti."
+"Y el tal profeta o soñador de sueños, morirá; por cuanto habló rebelión contra el SEÑOR vuestro Dios, que te sacó de tierra de Egipto, y te rescató de #casa de servidumbre, para echarte del camino por el que el SEÑOR tu Dios  te mandó que anduvieses; y quitarás el mal de en medio de ti."
 "Cuando te incitare tu hermano, hijo de tu madre, o tu hijo, o tu hija, o la mujer de tu seno, o tu amigo que sea como tu alma, diciendo en secreto
 "de los dioses de los pueblos que <I>están</I>  en vuestros alrededores cercanos a ti, o lejos de ti, desde un extremo de la tierra hasta el otro extremo de ella;"
 "no consentirás con él, ni le darás oído; ni tu ojo le perdonará, ni tendrás compasión, ni lo encubrirás;"

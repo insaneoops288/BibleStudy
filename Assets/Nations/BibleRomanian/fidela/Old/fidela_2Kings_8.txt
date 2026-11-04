@@ -2,7 +2,7 @@
 "Și femeia s-a ridicat și a făcut după spusa omului lui Dumnezeu; și a mers ea și casa ei și a locuit temporar în țara filistenilor șapte ani."
 "Și s-a întâmplat, la sfârșitul celor șapte ani, că femeia s-a întors din țara filistenilor; și a ieșit să strige către împărat pentru casa ei și pentru pământul ei."
 "Și împăratul vorbea cu Ghehazi, servitorul omului lui Dumnezeu, zicând
-"Și s-a întâmplat, pe când istorisea el împăratului cum înviase un trup mort la viață, că, iată, femeia, pe al cărei fiu îl înviase, a strigat către împărat pentru casa ei și pentru pământul ei. Și Ghehazi a spus
+"Și s-a întâmplat, pe când istorisea el împăratului cum înviase un trup mort la viață, că, iată, femeia, pe al #cărei fiu îl înviase, a strigat către împărat pentru casa ei și pentru pământul ei. Și Ghehazi a spus
 "Și când împăratul a întrebat pe femeie, ea i-a istorisit. Astfel împăratul i-a rânduit un anumit ofițer, spunând
 "Și Elisei a venit la Damasc; și Ben-Hadad, împăratul Siriei, era bolnav; și i s-a spus, zicând
 "Și împăratul i-a spus lui Hazael
@@ -26,4 +26,4 @@
 "Ahazia [era] în vârstă de douăzeci și doi de ani când a început să domnească; și a domnit un an la Ierusalim. Și numele mamei lui [era] Atalia, fiica lui Omri, împăratul lui Israel."
 "Și el a umblat în calea casei lui Ahab și a făcut [ce este] rău înaintea ochilor DOMNULUI, precum [făcuse] casa lui Ahab, pentru că el [era] ginerele casei lui Ahab."
 "Și el a mers cu Ioram, fiul lui Ahab, la războiul împotriva lui Hazael, împăratul Siriei, în Ramot-Galaad; și sirienii l-au rănit pe Ioram."
-"Și împăratul Ioram s-a întors să se vindece în Izreel, de rănile pe care i le făcuseră sirienii la Rama, când luptase împotriva lui Hazael, împăratul Siriei. Și Ahazia, fiul lui Ioram, împăratul lui Iuda, a coborât să îl vadă pe Ioram, fiul lui Ahab, în Izreel, pentru că era bolnav."
+"Și împăratul Ioram s-a întors să se vindece în Izreel, de rănile pe care i le făcuseră sirienii la Rama, când luptase împotriva lui Hazael, împăratul #Siriei. Și Ahazia, fiul lui Ioram, împăratul lui Iuda, a coborât să îl vadă pe Ioram, fiul lui Ahab, în Izreel, pentru că era bolnav."

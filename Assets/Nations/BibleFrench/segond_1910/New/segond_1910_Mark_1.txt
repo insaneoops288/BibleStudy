@@ -42,4 +42,4 @@
 "Aussitôt la lèpre le quitta, et il fut purifié."
 "Jésus le renvoya sur-le-champ, avec de sévères recommandations,"
 "et lui dit
-"Mais cet homme, s'en étant allé, se mit à publier hautement la chose et à la divulguer, de sorte que Jésus ne pouvait plus entrer publiquement dans une ville. Il se tenait dehors, dans des lieux déserts, et l'on venait à lui de toutes parts."
+"Mais cet homme, s'en étant allé, se mit à publier hautement la chose et à la divulguer, de sorte que Jésus ne pouvait #plus entrer publiquement dans une ville. Il se tenait dehors, dans des lieux déserts, et l'on venait à lui de toutes parts."

@@ -6,7 +6,7 @@
 "Dhëmbët e tua janë si një kope dhensh, që kthehen nga vendi ku lahen; të gjitha kanë binjakë dhe asnjëra prej tyre nuk është shterpe."
 "Tëmthat e tu prapa velit tënd janë si një rriskë shege."
 "Aty ka gjashtëdhjetë mbretëresha dhe tetëdhjetë konkubina, si dhe vajza pa numërim."
-"Por pëllumbesha ime, e përkryera ime, është e vetme; nëna e ka të vetme, e përzgjedhura e saj që e ka pjellë. Vajzat e kanë parë dhe e kanë shpallur të lume, po, edhe mbretëreshat dhe konkubinat, e kanë lavdëruar."
+"Por pëllumbesha ime, e përkryera ime, është e vetme; nëna e ka të vetme, e përzgjedhura e saj që e ka #pjellë. Vajzat e kanë parë dhe e kanë shpallur të lume, po, edhe mbretëreshat dhe konkubinat, e kanë lavdëruar."
 "Kush është ajo që shfaqet si agimi, e bukur si hëna, e pastër si dielli, e tmerrshme si një ushtri me flamuj të shpalosur?"
 "Unë zbrita në kopshtin e arrave për të parë bimët e blerta të luginës, për të parë në se hardhitë ishin në lulëzim dhe shegët kishin bulëzuar."
 "Nuk e di si, por dëshira ime më vuri mbi qerret e popullit tim fisnik."

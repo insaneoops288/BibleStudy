@@ -14,6 +14,6 @@
 "Dhe engjëlli i shtatë i ra borisë dhe u bënë zëra të mëdhenj në qiell që thoshnin
 "Atëherë të njëzet e katër pleqtë që rrinin përpara Perëndisë mbi fronet e tyre, ranë përmbys mbi fytyrat e veta dhe adhuruan Perëndinë,"
 "duke thënë
-"Kombet ishin zemëruar, por erdhi mëria jote, dhe erdhi koha që të gjykohen të vdekurit dhe t'u jepet paga shërbëtorëve të tu, profetëve, dhe shenjtorëve, dhe atyre që druajnë emrin tënd, të vegjëlve dhe të mëdhenjve, dhe të shkatërrosh ata që shkatërrojnë dheun''."
+"Kombet ishin zemëruar, por erdhi mëria jote, dhe erdhi koha që të gjykohen të vdekurit dhe t'u jepet paga shërbëtorëve të tu, #profetëve, dhe shenjtorëve, dhe atyre që druajnë emrin tënd, të vegjëlve dhe të mëdhenjve, dhe të shkatërrosh ata që shkatërrojnë dheun''."
 "Atëherë u hap tempulli i Perëndisë në qiell dhe u duk arka e besëlidhjes së tij, dhe ndodhnin vetëtima, dhe zëra, dhe bubullima, dhe tërmet, dhe një rebesh i fortë breshëri."
 "Pastaj një shenjë e madhe u duk në qiell

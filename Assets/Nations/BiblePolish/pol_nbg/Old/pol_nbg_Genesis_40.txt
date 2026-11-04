@@ -17,7 +17,7 @@
 "W najwyższym koszu była wszelka żywność faraona wyrobu piekarskiego; ale z kosza, z ponad mojej głowy, wyjadało ją ptactwo."
 "Więc Josef odpowiedział, mówiąc
 "za trzy dni faraon zdejmie z ciebie twą głowę oraz powiesi cię na drzewie; a ptactwo będzie z ciebie zjadać twoją cielesną naturę."
-"Zatem trzeciego dnia, dnia urodzin faraona, stało się, że wyprawił on ucztę dla wszystkich swoich sług oraz policzył w poczet swych sług głowę przełożonego podczaszych i głowę przełożonego piekarzy."
+"Zatem trzeciego dnia, dnia urodzin faraona, stało się, że wyprawił on ucztę dla wszystkich swoich #sług oraz policzył w poczet swych sług głowę przełożonego podczaszych i głowę przełożonego piekarzy."
 "Także przywrócił na swoje stanowisko przełożonego podczaszych, więc podawał puchar do rąk faraona."
 "A przełożonego piekarzy powiesił jak im wyłożył Josef."
 "Ale przełożony podczaszych nie wspomniał o Josefie i go zapomniał."

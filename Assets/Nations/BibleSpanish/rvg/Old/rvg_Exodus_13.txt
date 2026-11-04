@@ -2,7 +2,7 @@
 "Santifícame todo primogénito, cualquiera que abre la matriz entre los hijos de Israel, así de los hombres como de los animales; mío es."
 "Y Moisés dijo al pueblo
 "Vosotros salís hoy en el mes de Abib."
-"Y cuando Jehová te hubiere metido en la tierra del cananeo, y del heteo, y del amorreo, y del heveo, y del jebuseo, la cual juró a tus padres que te daría, tierra que destila leche y miel, harás este servicio en este mes."
+"Y cuando Jehová te hubiere metido en la tierra del cananeo, y del heteo, y del amorreo, y del heveo, y del jebuseo, #la cual juró a tus padres que te daría, tierra que destila leche y miel, harás este servicio en este mes."
 "Siete días comerás pan sin leudar, y el séptimo día será fiesta a Jehová."
 "Por los siete días se comerán los panes sin levadura; y no se verá contigo leudado, ni levadura en todo tu término."
 "Y contarás en aquel día a tu hijo, diciendo

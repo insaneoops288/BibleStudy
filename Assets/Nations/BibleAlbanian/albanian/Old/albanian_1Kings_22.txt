@@ -7,7 +7,7 @@
 "Por Jozafati tha
 "Mbreti i Izraelit iu përgjigj Jozafatit
 "Atëherë mbreti i Izraelit thirri një eunuk dhe i tha
-"Mbreti i Izraelit dhe Jozafati, mbret i Judës, ishin ulur secili në fronin e tij, të veshur me rrobat e tyre mbretërore, në lëmin që ndodhet në hyrje të portës së Samarisë; dhe tërë profetët profetizonin para tyre."
+"Mbreti i Izraelit dhe Jozafati, mbret i Judës, ishin ulur secili në fronin e tij, të veshur me rrobat e #tyre mbretërore, në lëmin që ndodhet në hyrje të portës së Samarisë; dhe tërë profetët profetizonin para tyre."
 "Sedekia, bir i Kenaanahut, që i kishte bërë vetes brirë prej hekuri, tha
 "Tërë profetët bënin profeci të njollojtë dhe thonin
 "Lajmëtari që kishte shkuar të thërriste Mikajahun i foli kështu dhe tha
@@ -40,7 +40,7 @@
 "Kështu Ashabin e zuri gjumi me etërit e tij. Në vend të tij mbretëroi Ashaziahu, i biri."
 "Jozafati, bir i Asas, filloi të mbretërojë mbi Judën vitin e katërt të Ashabit, mbret i Izraelit."
 "Jozafati ishte tridhjetë e pesë vjeç kur filloi të mbretërojë, dhe mbretëroi njëzet e pesë vjet në Jeruzalem. E ëma quhej Azubah dhe ishte bijë e Shilhit."
-"Ai ndoqi tërë rrugët e Asas, atit të tij, dhe nuk u largua prej tyre, duke bërë atë që është e drejtë në sytë e Zotit. Megjithatë vendet e larta nuk u hoqën; kështu populli vazhdonte të ofronte flijime dhe të digjte temjan në vendet e larta."
+"Ai ndoqi tërë rrugët e Asas, atit të tij, dhe nuk u largua prej tyre, duke bërë atë që është e drejtë në sytë #e Zotit. Megjithatë vendet e larta nuk u hoqën; kështu populli vazhdonte të ofronte flijime dhe të digjte temjan në vendet e larta."
 "Dhe Jozafati jetonte në paqe me mbretin e Izraelit."
 "Pjesa tjetër e bëmave të Jozafatit, trimëritë e tij dhe luftrat e tij a nuk janë vallë të shkruara në librin e Kronikave të mbretërve të Judës?"
 "Ai zhduku nga vendi mbeturinat e atyre që merreshin me kurvëri dhe, që kishin mbetur nga koha e Asas, atit të tij."

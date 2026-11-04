@@ -10,9 +10,9 @@
 "Vaella maas lävitse niinkuin virta, sinä Tarsiksen tytär; ei siellä ole enään yhtään vyötä."
 "Hän kokottaa kätensä meren päälle, ja peljättää valtakunnat; Herra käski Kananin hävittämään sen linnat,"
 "Ja sanoi
-"Katso, Kaldealaisten maassa ei yhtään kansaa ollut, vaan Assur on sen perustanut korven asuvaisille, ja rakentanut hänen linnansa, pannut ylös hänen huoneennsa, ja on kuitenkin pantu kukistettavaksi."
+"Katso, Kaldealaisten maassa ei yhtään kansaa ollut, vaan Assur on sen perustanut korven asuvaisille, #ja rakentanut hänen linnansa, pannut ylös hänen huoneennsa, ja on kuitenkin pantu kukistettavaksi."
 "Surekaat, te haahdet merillä ; sillä teidän voimanne on tyhjä."
 "Silloin pitää Tyro unhotettaman seitsemänkymmentä vuotta, niinkauvan kuin yksi kuningas elää; mutta seitsemänkymmenen vuoden perästä käypi Tyron niinkuin portosta veisataan
 "Ota kantele, mene ympäri kaupunkia, sinä unhotettu portto
 "Sillä seitsemänkymmenen vuoden perästä on Herra etsivä Tyroa, että hän tulis jälleen porttopalkoillensa, ja huorin tekis kaikkein valtakuntain kanssa maan päällä."
-"Mutta hänen kauppansa ja porttopalkkansa pitää oleman pyhä Herralle . Ei sitä koota tavaraksi, eikä salata, vaan jotka asuvat Herran edessä, niillä pitää hänen kauppakalunsa oleman, siitä syödä, ravita ja itsiänsä vaatettaa."
+"Mutta hänen kauppansa ja porttopalkkansa pitää oleman pyhä Herralle . Ei sitä koota tavaraksi, eikä salata, vaan #jotka asuvat Herran edessä, niillä pitää hänen kauppakalunsa oleman, siitä syödä, ravita ja itsiänsä vaatettaa."

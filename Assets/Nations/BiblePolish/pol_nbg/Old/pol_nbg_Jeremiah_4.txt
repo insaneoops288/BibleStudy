@@ -1,7 +1,7 @@
 "Jeżeli się nawrócisz, Israelu mówi WIEKUISTY, możesz do Mnie wrócić; a jeśli twe obmierzłości oddalisz sprzed Mojego oblicza, nie będziesz się tułał."
 "Zaś kiedy przysięgniesz
 "Ponieważ tak mówi WIEKUISTY do mężów Judy i Jeruszalaim
-"Mężowie Judy i mieszkańcy Jeruszalaim! Obrzeżcie się dla WIEKUISTEGO; usuńcie nieobrzezkę waszego serca, by z powodu niegodziwości waszych postępków, nie wybuchło jak ogień Me oburzenie i nie płonęło tak, że nikt go nie ugasi!"
+"Mężowie Judy i mieszkańcy Jeruszalaim! Obrzeżcie się dla WIEKUISTEGO; usuńcie nieobrzezkę waszego serca, by z powodu niegodziwości waszych #postępków, nie wybuchło jak ogień Me oburzenie i nie płonęło tak, że nikt go nie ugasi!"
 "Opowiadajcie w Judzie i w Jeruszalaim, obwieszczajcie i głoście, uderzcie w surmy na tej ziemi, wołajcie pełnym głosem i mówcie
 "Podnieście chorągiew ku Cyonowi, schrońcie się, nie zatrzymujcie, ponieważ Ja sprowadzam od północy klęskę i wielki pogrom."
 "Wyszedł lew ze swojego gąszczu, wyciągnął tępiciel narodów; wyruszył ze swego miejsca, by twą ziemię zamienić w pustkowie. Twoje miasta zamienią się w zgliszcza bez mieszkańca."
@@ -27,5 +27,5 @@
 "Bo tak powiedział WIEKUISTY
 "Dlatego smuci się ziemia, a u góry zaćmiewa się niebo, bo wyjawiłem co postanowiłem, oraz się nie rozmyślę, nie cofnę od tego!"
 "Przed wrzawą konnicy i łuczników ucieka każde miasto, kryją się w gęstwinach oraz wchodzą na skały; wszystkie miasta są opuszczone i nikt w nich nie mieszka."
-"A ty, oddana spustoszeniu, co poczniesz? Choćbyś się ubrała w szkarłat, choćbyś się ozdobiła złotym klejnotem, choćbyś oczy rozszerzała czernidłem daremnie się stroisz; gardzą tobą zalotnicy, czyhają na twoje życie."
+"A ty, oddana spustoszeniu, co poczniesz? Choćbyś się ubrała w szkarłat, choćbyś się ozdobiła złotym klejnotem, #choćbyś oczy rozszerzała czernidłem daremnie się stroisz; gardzą tobą zalotnicy, czyhają na twoje życie."
 "Tak, słyszę głos jakby pochwyconej bólem, jęk po raz pierwszy rodzącej, głos córy Cyonu, która dyszy i rozpościera swe ręce

@@ -1,7 +1,7 @@
 "Voici les descendants d'Aaron et de Moïse, au jour où l'Éternel parla à Moïse au mont Sinaï;"
 "Voici les noms des fils d'Aaron
 "Ce sont là les noms des fils d'Aaron, des sacrificateurs qui furent oints, qu'on institua pour exercer le sacerdoce."
-"Or, Nadab et Abihu moururent devant l'Éternel, lorsqu'ils offrirent un feu étranger devant l'Éternel, au désert de Sinaï. Et ils n'avaient point d'enfants. Mais Éléazar et Ithamar exercèrent la sacrificature, en présence d'Aaron, leur père."
+"Or, Nadab et Abihu moururent devant l'Éternel, lorsqu'ils offrirent un feu étranger devant l'Éternel, au désert de Sinaï. #Et ils n'avaient point d'enfants. Mais Éléazar et Ithamar exercèrent la sacrificature, en présence d'Aaron, leur père."
 "Alors l'Éternel parla à Moïse, en disant
 "Fais approcher la tribu de Lévi, et fais-la tenir devant Aaron, le sacrificateur, afin qu'ils le servent;"
 "Et qu'ils soignent tout ce qui est commis à ses soins et aux soins de toute l'assemblée, devant le tabernacle d'assignation, en faisant le service de la Demeure;"
@@ -35,10 +35,10 @@
 "Et Tsuriel, fils d'Abihaïl, était le chef de la maison des pères des familles des Mérarites; ils campaient sur le côté de la Demeure, vers le Nord."
 "Et les enfants de Mérari avaient la surveillance et le soin des planches de la Demeure, de ses traverses, de ses colonnes, de ses soubassements, de tous ses ustensiles, et de tout son service,"
 "Des colonnes du parvis tout autour, avec leurs soubassements, leurs pieux et leurs cordages."
-"Ceux qui campaient devant la Demeure, vers l'Orient, devant le tabernacle d'assignation, c'était Moïse, et Aaron, et ses fils, chargés du soin du sanctuaire pour les enfants d'Israël; et l'étranger qui en approcherait devait être puni de mort."
-"Tous les Lévites qui furent dénombrés, que Moïse et Aaron dénombrèrent, selon leurs familles, suivant le commandement de l'Éternel, tous les mâles, depuis l'âge d'un mois et au-dessus, étaient vingt-deux mille."
+"Ceux qui campaient devant la Demeure, vers l'Orient, devant le tabernacle d'assignation, c'était Moïse, et Aaron, et ses fils, chargés #du soin du sanctuaire pour les enfants d'Israël; et l'étranger qui en approcherait devait être puni de mort."
+"Tous les Lévites qui furent dénombrés, que Moïse et Aaron dénombrèrent, selon leurs familles, suivant le #commandement de l'Éternel, tous les mâles, depuis l'âge d'un mois et au-dessus, étaient vingt-deux mille."
 "Puis l'Éternel dit à Moïse
-"Tu prendras les Lévites pour moi, l'Éternel, à la place de tous les premiers-nés parmi les enfants d'Israël; et le bétail des Lévites, à la place de tous les premiers-nés du bétail des enfants d'Israël."
+"Tu prendras les Lévites pour moi, l'Éternel, à la place de tous les premiers-nés parmi les enfants d'Israël; #et le bétail des Lévites, à la place de tous les premiers-nés du bétail des enfants d'Israël."
 "Moïse dénombra donc, comme l'Éternel le lui avait commandé, tous les premiers-nés parmi les enfants d'Israël;"
 "Et tous les premiers-nés mâles, en comptant par les noms depuis l'âge d'un mois et au-dessus, selon leur dénombrement, furent vingt-deux mille deux cent soixante et treize."
 "Et l'Éternel parla à Moïse, en disant

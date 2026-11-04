@@ -14,7 +14,7 @@
 "A kdož by vzal ženu a matku její nešlechetnost jest. Ohněm spálí i jej i je, aby nebylo nešlechetností u prostřed vás."
 "Kdož by pak obcoval s hovadem, smrtí umře, a hovado zabijete."
 "Tolikéž žena, kteráž by přistoupila k některému hovadu, aby obcovala s ním, zabiješ ji i to hovado. Smrtí umrou, krev jejich bude na ně."
-"Kdož by koli vezma sestru svou, dceru otce svého, aneb dceru matky své, viděl by hanbu její, a ona také viděla by hanbu jeho, mrzkost jest. Protož vyhlazeni budou před očima synů lidu svého; nebo hanbu sestry své odkryl, nepravost svou ponese."
+"Kdož by koli vezma sestru svou, dceru otce svého, aneb dceru matky své, viděl by hanbu její, a ona také viděla by #hanbu jeho, mrzkost jest. Protož vyhlazeni budou před očima synů lidu svého; nebo hanbu sestry své odkryl, nepravost svou ponese."
 "A kdož by koli spal s ženou v její nemoci a obnažil by hanbu její, a tok její by odkryl, i ona ukázala by krvotok svůj
 "Hanby sestry matky své a sestry otce svého neodkryješ. Nebo kdož by to učinil, krevní přítelkyni svou by obnažil; protož nepravost svou ponesou."
 "Kdož by pak spal s ženou strýce svého, hanbu strýce svého odkryl. Ponesou hřích svůj, bez dětí zemrou."
@@ -22,6 +22,6 @@
 "Ostříhejtež tedy všech ustanovení mých a všech soudů mých, a čiňte je, aby nevyvrátila vás země, do níž já uvozuji vás, abyste v ní bydlili."
 "Aniž choďte v ustanoveních národu toho, kterýž já vyvrhu od tváři vaší; nebo všecky ty věci činili, a měl jsem je v ošklivosti."
 "Vám jsem pak řekl
-"Protož vy mějte rozdíl mezi hovadem čistým a nečistým, a mezi ptákem čistým a nečistým, a nepoškvrňujte duší svých hovady a ptactvem, a tím vším, což se plazí po zemi, kteréž jsem já vám oddělil, abyste je měli za nečisté."
+"Protož vy mějte rozdíl mezi hovadem čistým a nečistým, a mezi ptákem čistým a nečistým, a nepoškvrňujte duší svých hovady a #ptactvem, a tím vším, což se plazí po zemi, kteréž jsem já vám oddělil, abyste je měli za nečisté."
 "Ale budete mi svatí; nebo svatý jsem já Hospodin, a oddělil jsem vás od jiných národů, abyste byli moji."
 "Muž pak neb žena, kteříž by měli ducha čarodějného a věštího, smrtí umrou. Kamením uházejí je, krev jejich bude na ně."

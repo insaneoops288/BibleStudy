@@ -8,7 +8,7 @@
 "E bija e Faraonit iu përgjegj
 "Dhe bija e Faraonit i tha
 "Kur fëmija u rrit, ajo ia çoi bijës së Faraonit; ai u bë bir i saj dhe ajo e quajti Moisi, duke thënë
-"Në ato ditë, kur Moisiu ishte rritur, ndodhi që ai doli për të gjetur vëllezërit e tij dhe vuri re se bënin punë të rënda; dhe pa një Egjiptas që po rrihte një burrë hebre, një nga vëllezërit e tij."
+"Në ato ditë, kur Moisiu ishte rritur, ndodhi që ai doli për të gjetur vëllezërit e tij dhe vuri re se #bënin punë të rënda; dhe pa një Egjiptas që po rrihte një burrë hebre, një nga vëllezërit e tij."
 "Dhe vështroi andej e këtej dhe, duke parë se nuk kishte njeri, e vrau Egjiptasin dhe e fshehu pastaj nën rërë."
 "Ditën e nesërme doli dhe pa dy burra hebrenj që po grindeshin; ai i tha atij që kishte faj
 "Por ai iu përgjigj
@@ -20,6 +20,6 @@
 "Atëherë ai u tha bijave të tij
 "Dhe Moisiu pranoi të banojë tek ai njeri; dhe ai i dha Moisiut për grua bijën e tij, Seforën."
 "Pastaj ajo lindi një bir që ai e quajti Gershom, sepse tha
-"Por ndodhi që, mbas një kohe të gjatë vdiq mbreti i Egjiptit, dhe bijtë e Izraelit rënkonin për shkak të skllavërisë; ata bërtitën dhe britma e tyre për shkak të skllavërisë u ngjit deri tek Perëndia."
+"Por ndodhi që, mbas një kohe të gjatë vdiq mbreti i Egjiptit, dhe bijtë e Izraelit rënkonin për shkak #të skllavërisë; ata bërtitën dhe britma e tyre për shkak të skllavërisë u ngjit deri tek Perëndia."
 "Kështu Perëndia dëgjoi rënkimin e tyre, dhe Perëndisë iu kujtua besëlidhja që kishte përfunduar me Abrahamin, me Isakun dhe me Jakobin."
 "Dhe Perëndia shikoi bijtë e Izraelit, dhe Perëndia u kujdes për ta."

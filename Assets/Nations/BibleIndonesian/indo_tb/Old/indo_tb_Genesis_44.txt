@@ -28,7 +28,7 @@
 "yang seorang telah pergi dari padaku, dan aku telah berkata
 "Jika anak ini kamu ambil pula dari padaku, dan ia ditimpa kecelakaan, maka tentulah kamu akan menyebabkan aku yang ubanan ini turun ke dunia orang mati karena nasib celaka."
 "Maka sekarang, apabila aku datang kepada hambamu, ayahku, dan tidak ada bersama-sama dengan kami anak itu, padahal ayahku tidak dapat hidup tanpa dia,"
-"tentulah akan terjadi, apabila dilihatnya anak itu tidak ada, bahwa ia akan mati, dan hamba-hambamu ini akan menyebabkan hambamu, ayah kami yang ubanan itu, turun ke dunia orang mati karena dukacita."
+"tentulah akan terjadi, apabila dilihatnya anak itu tidak ada, bahwa ia akan mati, dan hamba-hambamu ini #akan menyebabkan hambamu, ayah kami yang ubanan itu, turun ke dunia orang mati karena dukacita."
 "Tetapi hambamu ini telah menanggung anak itu terhadap ayahku dengan perkataan
 "Oleh sebab itu, baiklah hambamu ini tinggal menjadi budak tuanku menggantikan anak itu, dan biarlah anak itu pulang bersama-sama dengan saudara-saudaranya."
 "Sebab masakan aku pulang kepada ayahku, apabila anak itu tidak bersama-sama dengan aku? Aku tidak akan sanggup melihat nasib celaka yang akan menimpa ayahku."""

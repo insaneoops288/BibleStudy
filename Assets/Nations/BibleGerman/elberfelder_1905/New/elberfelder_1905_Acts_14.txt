@@ -12,7 +12,7 @@
 "Und sie nannten den Barnabas Zeus, den Paulus aber Hermes, weil er das Wort führte."
 "Der Priester des Zeus aber, welcher vor der Stadt war, brachte Stiere und Kränze an die Tore und wollte mit den Volksmengen opfern."
 "Als aber die Apostel Barnabas und Paulus es hörten, zerrissen sie ihre Kleider, sprangen hinaus unter die Volksmenge und riefen und sprachen
-"Männer, warum tut ihr dieses? Auch wir sind Menschen von gleichen Empfindungen wie ihr und verkündigen euch, daß ihr euch von diesen nichtigen Götzen bekehren sollt zu dem lebendigen Gott, welcher den Himmel und die Erde und das Meer gemacht hat und alles, was in ihnen ist;"
+"Männer, warum tut ihr dieses? Auch wir sind Menschen von gleichen Empfindungen wie ihr und verkündigen euch, daß ihr euch von diesen nichtigen Götzen #bekehren sollt zu dem lebendigen Gott, welcher den Himmel und die Erde und das Meer gemacht hat und alles, was in ihnen ist;"
 "der in den vergangenen Geschlechtern alle Nationen in ihren eigenen Wegen gehen ließ,"
 "wiewohl er sich doch nicht unbezeugt gelassen hat, indem er Gutes tat und euch vom Himmel Regen und fruchtbare Zeiten gab und eure Herzen mit Speise und Fröhlichkeit erfüllte."
 "Und als sie dies sagten, stillten sie kaum die Volksmengen, daß sie ihnen nicht opferten."

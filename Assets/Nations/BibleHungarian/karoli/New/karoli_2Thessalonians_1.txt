@@ -8,5 +8,5 @@
 "Tûznek lángjában, ki bosszút áll azokon, a kik nem ismerik az Istent, és a kik nem engedelmeskednek a mi Urunk Jézus Krisztus evangyéliomának."
 "A kik meg fognak lakolni örök veszedelemmel az Úr ábrázatától, és az õ hatalmának dicsõségétõl,"
 "A mikor eljõ majd, hogy megdicsõíttessék az õ szenteiben, és csodáltassék mindazokban, a kik hisznek (mivelhogy a mi tanúbizonyságunknak hitele volt ti nálatok) ama napon."
-"Mivégbõl imádkozunk is mindenkor ti érettetek, hogy a mi Istenünk méltóknak tartson titeket az elhívásra, és töltsön be titeket a jóban való teljes gyönyörûséggel, és a hitnek hathatós munkálásával."
+"Mivégbõl imádkozunk is mindenkor ti érettetek, hogy a mi Istenünk méltóknak tartson titeket az elhívásra, #és töltsön be titeket a jóban való teljes gyönyörûséggel, és a hitnek hathatós munkálásával."
 "Hogy dicsõíttessék meg a mi Urunk Jézus Krisztusnak neve ti bennetek, és ti [is] õ benne, a mi Istenünknek és az Úr Jézus Krisztusnak kegyelmébõl."

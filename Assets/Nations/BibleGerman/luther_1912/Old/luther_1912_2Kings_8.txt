@@ -2,7 +2,7 @@
 "Das Weib machte sich auf und tat, wie der Mann Gottes sagte, und zog hin mit ihrem Hause und wohnte in der Philister Land sieben Jahre."
 "Da aber die sieben Jahre um waren, kam das Weib wieder aus der Philister Land; und sie ging aus, den König anzurufen um ihr Haus und ihren Acker."
 "Der König aber redete mit Gehasi, dem Diener des Mannes Gottes, und sprach
-"Und indem er dem König erzählte, wie er hätte einen Toten lebendig gemacht, sieh, da kam eben das Weib, dessen Sohn er hatte lebendig gemacht, und rief den König an um ihr Haus und ihren Acker. Da sprach Gehasi
+"Und indem er dem König erzählte, wie er hätte einen Toten lebendig gemacht, sieh, da kam eben das Weib, dessen #Sohn er hatte lebendig gemacht, und rief den König an um ihr Haus und ihren Acker. Da sprach Gehasi
 "Und der König fragte das Weib; und sie erzählte es ihm. Da gab ihr der König einen Kämmerer und sprach
 "Und Elisa kam gen Damaskus. Da lag Benhadad, der König von Syrien, krank; und man sagte es ihm an und sprach
 "Da sprach der König zu Hasael
@@ -26,4 +26,4 @@
 "Zweiundzwanzig Jahre alt war Ahasja, da er König ward, und regierte ein Jahr zu Jerusalem. Seine Mutter hieß Athalja, eine Tochter Omris, des Königs Israels."
 "Und er wandelte auf dem Wege des Hauses Ahab und tat, was dem HERRNübel gefiel, wie das Haus Ahab; denn er war Schwager im Hause Ahab."
 "Und er zog mit Joram, dem Sohn Ahabs, in den Streit wider Hasael, den König von Syrien gen Ramoth in Gilead; aber die Syrer schlugen Joram."
-"Da kehrte Joram, der König, um, daß er sich heilen ließ zu Jesreel von den Wunden, die ihm die Syrer geschlagen hatten zu Rama, da er mit Hasael, dem König von Syrien, stritt. Und Ahasja, der Sohn Jorams, der König Juda's, kam hinab, zu besuchen Joram, den Sohn Ahabs, zu Jesreel; denn er lag krank."
+"Da kehrte Joram, der König, um, daß er sich heilen ließ zu Jesreel von den Wunden, die ihm die Syrer geschlagen hatten zu Rama, da er mit Hasael, #dem König von Syrien, stritt. Und Ahasja, der Sohn Jorams, der König Juda's, kam hinab, zu besuchen Joram, den Sohn Ahabs, zu Jesreel; denn er lag krank."

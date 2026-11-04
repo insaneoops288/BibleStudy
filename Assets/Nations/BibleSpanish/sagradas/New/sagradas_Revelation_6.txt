@@ -5,10 +5,10 @@
 "Y cuando él hubo abierto el tercer sello, oí al tercer animal, que decía
 "Y oí una voz en medio de los cuatro animales, que decía
 "Y cuando él hubo abierto el cuarto sello, oí la voz del cuarto animal, que decía
-"Y miré, y he aquí un caballo verde; y el que estaba sentado sobre él tenía por nombre Muerte; y el infierno le seguía; y le fue dada potestad sobre la cuarta parte de la tierra, para matar con espada, con hambre, con mortandad,  y con las bestias de la tierra."
+"Y miré, y he aquí un caballo verde; y el que estaba sentado sobre él tenía por nombre Muerte; y el infierno le seguía; y le fue #dada potestad sobre la cuarta parte de la tierra, para matar con espada, con hambre, con mortandad,  y con las bestias de la tierra."
 "Y cuando él hubo abierto el quinto sello, vi debajo del altar las almas de los que habían sido muertos por <I>causa de</I>  la palabra de Dios y por el testimonio que ellos tenían."
 "Y clamaban a alta voz diciendo
-"Y les fueron dadas sendas ropas blancas, y les fue dicho que aun reposasen todavía un poco de tiempo, hasta que sus compañeros consiervos, sus hermanos, que también habían de ser muertos como ellos fuesen cumplidos."
+"Y les fueron dadas sendas ropas blancas, y les fue dicho que aun reposasen todavía un poco de tiempo, #hasta que sus compañeros consiervos, sus hermanos, que también habían de ser muertos como ellos fuesen cumplidos."
 "Y miré cuando él hubo abierto el sexto sello, y he aquí fue hecho un gran terremoto; y el sol se puso negro como un saco de cilicio, y la luna fue hecha toda como sangre."
 "Y las estrellas del cielo cayeron sobre la tierra; como <I>la</I>  higuera echa sus higos cuando es movida de gran viento."
 "Y el cielo se apartó como un libro que es envuelto; y todo monte e islas fueron movidas de sus lugares."

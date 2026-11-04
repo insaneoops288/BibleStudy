@@ -1,5 +1,5 @@
 "Ha embereknek vagy angyaloknak nyelvén szólok is, szeretet pedig nincsen én bennem, olyanná lettem, mint a zengõ ércz vagy pengõ czimbalom."
-"És ha jövendõt tudok is mondani, és minden titkot és minden tudományt ismerek is; és ha egész hitem van is, úgyannyira, hogy hegyeket mozdíthatok ki helyökrõl, szeretet pedig nincsen én bennem, semmi vagyok."
+"És ha jövendõt tudok is mondani, és minden titkot és minden tudományt ismerek is; és ha egész #hitem van is, úgyannyira, hogy hegyeket mozdíthatok ki helyökrõl, szeretet pedig nincsen én bennem, semmi vagyok."
 "És ha vagyonomat mind felétetem is, és ha testemet tûzre adom is, szeretet pedig nincsen én bennem, semmi hasznom abból."
 "A szeretet hosszútûrõ, kegyes; a szeretet nem irígykedik, a szeretet nem kérkedik, nem fuvalkodik fel."
 "Nem cselekszik éktelenül, nem keresi a maga hasznát, nem gerjed haragra, nem rójja fel a gonoszt,"

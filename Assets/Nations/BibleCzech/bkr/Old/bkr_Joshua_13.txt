@@ -18,7 +18,7 @@
 "Jasa a Kedemot a Mefat,"
 "A Kariataim a Sabma, a Saratazar na hoře údolí,"
 "A Betfegor i Assedot, Fazga a Betsimot."
-"Všecka také města v kraji, i všecko království Seona, krále Amorejského, kterýž kraloval v Ezebon, jehožto zabil Mojžíš i s knížaty Madianskými, Evi i Rekem, Sur, Hur a Rebe, vývodami Seonovými, obyvateli té země."
+"Všecka také města v kraji, i všecko království Seona, krále Amorejského, kterýž kraloval v Ezebon, jehožto zabil Mojžíš #i s knížaty Madianskými, Evi i Rekem, Sur, Hur a Rebe, vývodami Seonovými, obyvateli té země."
 "Ano i Baláma, syna Beorova, věšťce, zabili synové Izraelští mečem, s jinými, kteříž zbiti od nich."
 "I bylo pomezí synů Rubenových Jordán s mezemi svými. To jest dědictví synů Rubenových po čeledech jejich, města i vsi jejich."
 "Dal také Mojžíš pokolení Gád, synům Gádovým, po čeledech jejich dědictví."

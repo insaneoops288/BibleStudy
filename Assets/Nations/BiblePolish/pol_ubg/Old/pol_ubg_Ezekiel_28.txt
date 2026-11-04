@@ -15,7 +15,7 @@
 "Byłeś doskonały w swoich drogach od dnia, kiedy zostałeś stworzony, aż znalazła się w tobie nieprawość."
 "Przez twój ogromny handel pełno pośród ciebie bezprawia, i zgrzeszyłeś. Dlatego zrzucę cię z góry Boga, cherubinie nakrywający, wyniszczę cię spośród kamieni ognistych."
 "Uniosło się twoje serce z powodu twojej piękności, znieważyłeś swoją mądrość z powodu twojego blasku. Rzucę cię na ziemię i postawię cię przed królami, aby się tobie przypatrzyli."
-"Mnóstwem twoich nieprawości i nieprawością twego handlu splugawiłeś swoją świątynię. Dlatego wywiodę ogień z twego wnętrza, który cię pożre, a zamienię cię w popiół na ziemi na oczach wszystkich, którzy na ciebie patrzą."
+"Mnóstwem twoich nieprawości i nieprawością twego handlu splugawiłeś swoją świątynię. Dlatego wywiodę ogień z twego wnętrza, który #cię pożre, a zamienię cię w popiół na ziemi na oczach wszystkich, którzy na ciebie patrzą."
 "Wszyscy, którzy cię znają wśród narodów, zdumieją się nad tobą. Staniesz się postrachem i nie będzie ciebie już na wieki."
 "I doszło do mnie słowo PANA mówiące
 "Synu człowieczy, zwróć swoją twarz przeciw Sydonowi i prorokuj przeciw niemu;"
@@ -23,4 +23,4 @@
 "I ześlę na niego zarazę i krew na jego ulice; zranieni upadną pośród niego od miecza, który spadnie na nich ze wszystkich stron. I poznają, że ja jestem PANEM."
 "I tak dla domu Izraela nie będzie już kłującego ciernia ani bolesnego kolca spośród wszystkich okolicznych mieszkańców, którzy nim wzgardzili. I poznają, że ja jestem Panem BOGIEM."
 "Tak mówi Pan BÓG
-"I będą w niej mieszkać bezpiecznie, pobudują domy i zasadzą winnice. Będą mieszkać bezpiecznie, gdy wykonam sądy na wszystkich dokoła nich, którzy nimi wzgardzili. I poznają, że ja jestem PANEM, ich Bogiem."
+"I będą w niej mieszkać bezpiecznie, pobudują domy i zasadzą winnice. Będą mieszkać bezpiecznie, gdy wykonam sądy #na wszystkich dokoła nich, którzy nimi wzgardzili. I poznają, że ja jestem PANEM, ich Bogiem."

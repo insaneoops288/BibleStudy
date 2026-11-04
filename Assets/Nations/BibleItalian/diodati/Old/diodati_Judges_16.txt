@@ -1,6 +1,6 @@
 "OR Sansone andò in Gaza, e vide quivi una meretrice, ed entrò da lei."
 "E fu detto a que’ di Gaza
-"Ma Sansone, giaciuto fino a mezza notte, in su la mezza notte si levò, e diè di piglio alle reggi delle porte della città, e alla due imposte, e le levò via, insieme con la sbarra; e, recatelesi in ispalla, le portò in su la sommità del monte, ch’è dirimpetto ad Hebron."
+"Ma Sansone, giaciuto fino a mezza notte, in su la mezza notte si levò, e diè di piglio alle reggi delle porte della città, e alla due #imposte, e le levò via, insieme con la sbarra; e, recatelesi in ispalla, le portò in su la sommità del monte, ch’è dirimpetto ad Hebron."
 "Egli avvenne poi, ch’egli amò una donna, della valle di Sorec, il cui nome era Delila."
 "E i principi de’ Filistei salirono a lei, e le dissero
 "Delila adunque disse a Sansone
@@ -28,4 +28,4 @@
 "Allora Sansone invocò il Signore, e disse
 "Poi, abbracciate le due colonne di mezzo, sopra le quali la casa era posta, pontò, attenendosi ad esse, avendo l’una alla man destra, e l’altra alla sinistra."
 "E disse
-"Poi i suoi fratelli, e tutta la casa di suo padre, vennero, e lo portarono via; e salirono, e lo seppellirono fra Sorea ed Estaol, nella sepoltura di Manoa, suo padre. Or egli giudicò Israele venti anni."
+"Poi i suoi fratelli, e tutta la casa di suo padre, vennero, e lo portarono via; e salirono, e #lo seppellirono fra Sorea ed Estaol, nella sepoltura di Manoa, suo padre. Or egli giudicò Israele venti anni."

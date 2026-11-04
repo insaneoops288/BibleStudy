@@ -11,9 +11,9 @@
 "Und er verstärkte die Festungen und tat Befehlshaber hinein und Vorräte an Nahrung,Öl und Wein,"
 "und tat in alle Städte Schilde und Speere und machte sie sehr fest. So gehörten Juda und Benjamin ihm."
 "Auch die Priester und Leviten aus ganz Israel und aus allen ihren Gebieten stellten sich zu ihm."
-"Denn die Leviten verließen ihre Bezirke und ihr Besitztum und kamen nach Juda und Jerusalem. Denn Jerobeam und seine Söhne hatten sie verstoßen, also daß sie des Priesteramts nicht pflegen konnten vor dem HERRN;"
+"Denn die Leviten verließen ihre Bezirke und ihr Besitztum und kamen nach Juda und Jerusalem. Denn Jerobeam und #seine Söhne hatten sie verstoßen, also daß sie des Priesteramts nicht pflegen konnten vor dem HERRN;"
 "er bestellte aber für sich selbst Priester, für die Höhen und für die Böcke und Kälber, welche er machen ließ."
-"Jenen[Leviten] aber folgten aus allen Stämmen Israels die, welche ihr Herz darauf richteten, den HERRN, den Gott Israels, zu suchen; diese kamen nach Jerusalem, dem HERRN, dem Gott ihrer Väter, zu opfern."
+"Jenen[Leviten] aber folgten aus allen Stämmen Israels die, welche ihr Herz darauf richteten, den HERRN, den Gott #Israels, zu suchen; diese kamen nach Jerusalem, dem HERRN, dem Gott ihrer Väter, zu opfern."
 "Diese stärkten das Königreich Juda und ermutigten Rehabeam, den Sohn Salomos, drei Jahre lang; denn sie wandelten auf dem Wege Davids und Salomos drei Jahre lang."
 "Und Rehabeam nahm Machalat, die Tochter Jerimots, des Sohnes Davids, zur Frau, und Abichail, die Tochter Eliabs, des Sohnes Isais."
 "Die gebar ihm Söhne

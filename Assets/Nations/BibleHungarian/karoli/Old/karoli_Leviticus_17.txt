@@ -2,7 +2,7 @@
 "Szólj Áronnak és az õ fiainak és Izráel minden fiának, és mondd nékik
 "Ha valaki Izráel házából ökröt, vagy bárányt, vagy kecskét öl le a táborban, vagy a ki öl a táboron kivül,"
 "És nem viszi azt a gyülekezet sátorának nyílásához, hogy áldozattal járuljon az Úrhoz, az Úrnak hajléka elõtt
-"Azért hogy vigyék el Izráel fiai az õ véres áldozataikat, a melyeket áldoznak vala a mezõn, vigyék el azokat az Úrnak, a gyülekezet sátorának nyílásához, a paphoz, és áldozzák meg azokat hálaáldozatul az Úrnak."
+"Azért hogy vigyék el Izráel fiai az õ véres áldozataikat, a melyeket áldoznak vala a mezõn, vigyék el #azokat az Úrnak, a gyülekezet sátorának nyílásához, a paphoz, és áldozzák meg azokat hálaáldozatul az Úrnak."
 "És hintse a pap a vért az Úr oltárára, a mely a gyülekezet sátorának nyílásánál van, a kövérjét pedig füstölögtesse el kedves illatul az Úrnak."
 "És ne áldozzák többé véres áldozataikat az ördögöknek, a kikkel õk paráználkodnak. Örökkévaló rendtartás legyen ez nékik nemzetségrõl nemzetségre."
 "Mondjad nékik [ezt] is

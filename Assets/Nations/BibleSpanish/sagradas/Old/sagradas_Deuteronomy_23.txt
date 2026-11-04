@@ -11,7 +11,7 @@
 "Y será <I>que</I>  al declinar de la tarde se lavará con agua, y cuando fuere puesto el sol, entrará en el campamento."
 "Y tendrás un lugar fuera del real, y saldrás allá fuera;"
 "tendrás también una estaca entre tus armas; y será que, cuando estuvieres allí fuera, cavarás con ella, y luego al volverte cubrirás tu excremento;"
-"porque el SEÑOR tu Dios anda en medio de tu campamento, para librarte y <I>para</I>  entregar tus enemigos delante de ti; por tanto tu campamento será santo; para que él no vea en ti cosa inmunda, y se vuelva de en pos de  ti."
+"porque el SEÑOR tu Dios anda en medio de tu campamento, para librarte y <I>para</I>  entregar tus enemigos delante de ti; por tanto #tu campamento será santo; para que él no vea en ti cosa inmunda, y se vuelva de en pos de  ti."
 "No entregarás a su señor el siervo que se huyere a ti de su amo."
 "More contigo, en su tierra, en el lugar que escogiere en alguna de tus ciudades, donde bien le estuviere; no le harás fuerza."
 "No habrá ramera de las hijas de Israel, ni habrá sodomita de los hijos de Israel."

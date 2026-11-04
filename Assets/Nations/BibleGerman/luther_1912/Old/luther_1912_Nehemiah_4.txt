@@ -4,7 +4,7 @@
 "3
 "3
 "3
-"Da aber Saneballat und Tobia und die Araber und Ammoniter und Asdoditer hörten, daß die Mauern zu Jerusalem zugemacht wurden und daß sie die Lücken hatten angefangen zu verschließen, wurden sie sehr zornig{~}"
+"Da aber Saneballat und Tobia und die Araber und Ammoniter und Asdoditer hörten, daß die Mauern zu #Jerusalem zugemacht wurden und daß sie die Lücken hatten angefangen zu verschließen, wurden sie sehr zornig{~}"
 "und machten allesamt einen Bund zuhaufen, daß sie kämen und stritten wider Jerusalem und richteten darin Verwirrung an."
 "Wir aber beteten zu unserm Gott und stellten Hut gegen sie Tag und Nacht vor ihnen."
 "Und Juda sprach

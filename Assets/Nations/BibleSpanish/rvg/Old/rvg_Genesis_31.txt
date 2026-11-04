@@ -39,7 +39,7 @@
 "Nunca te traje lo arrebatado por las fieras; yo pagaba el daño; lo hurtado así de día como de noche, de mi mano lo requerías."
 "De día me consumía el calor, y de noche la helada, y el sueño huía de mis ojos."
 "Así he estado veinte años en tu casa
-"Si el Dios de mi padre, el Dios de Abraham, y el temor de Isaac, no fuera conmigo, de cierto me enviarías ahora vacío; [pero] Dios vio mi aflicción y el trabajo de mis manos, y te reprendió anoche."
+"Si el Dios de mi padre, el Dios de Abraham, y el temor de Isaac, no fuera conmigo, de cierto #me enviarías ahora vacío; [pero] Dios vio mi aflicción y el trabajo de mis manos, y te reprendió anoche."
 "Y respondió Labán, y dijo a Jacob
 "Ven, pues, ahora, hagamos alianza tú y yo; y sea en testimonio entre nosotros dos."
 "Entonces Jacob tomó una piedra, y la levantó por columna."

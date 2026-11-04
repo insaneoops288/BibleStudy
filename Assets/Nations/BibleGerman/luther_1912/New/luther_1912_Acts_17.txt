@@ -2,7 +2,7 @@
 "Wie nun Paulus gewohnt war, ging er zu ihnen hinein und redete mit ihnen an drei Sabbaten aus der Schrift,"
 "tat sie ihnen auf und legte es ihnen vor, daß Christus mußte leiden und auferstehen von den Toten und daß dieser Jesus, den ich(sprach er) euch verkündige, ist der Christus."
 "Und etliche unter ihnen fielen ihm zu und gesellten sich zu Paulus und Silas, auch der gottesfürchtigen Griechen eine große Menge, dazu der vornehmsten Weiber nicht wenige."
-"Aber die halsstarrigen Juden neideten und nahmen zu sich etliche boshafte Männer Pöbelvolks, machten eine Rotte und richteten einen Aufruhr in der Stadt an und traten vor das Haus Jasons und suchten sie zu führen vor das Volk."
+"Aber die halsstarrigen Juden neideten und nahmen zu sich etliche boshafte Männer Pöbelvolks, machten eine Rotte und richteten einen Aufruhr #in der Stadt an und traten vor das Haus Jasons und suchten sie zu führen vor das Volk."
 "Da sie aber sie nicht fanden, schleiften sie den Jason und etliche Brüder vor die Obersten der Stadt und schrieen
 "die herbergt Jason. Und diese alle handeln gegen des Kaisers Gebote, sagen, ein anderer sei der König, nämlich Jesus."
 "Sie bewegten aber das Volk und die Obersten der Stadt, die solches hörten."
@@ -28,7 +28,7 @@
 "Denn in ihm leben, weben und sind wir; wie auch etliche Poeten bei euch gesagt haben
 "So wir denn göttlichen Geschlechts sind, sollen wir nicht meinen, die Gottheit sei gleich den goldenen, silbernen und steinernen Bildern, durch menschliche Kunst und Gedanken gemacht."
 "Und zwar hat Gott die Zeit der Unwissenheitübersehen; nun aber gebietet er allen Menschen an allen Enden, Buße zu tun,"
-"darum daß er einen Tag gesetzt hat, an welchem er richten will den Kreis des Erdbodens mit Gerechtigkeit durch einen Mann, in welchem er's beschlossen hat und jedermann vorhält den Glauben, nachdem er ihn hat von den Toten auferweckt."
+"darum daß er einen Tag gesetzt hat, an welchem er richten will den Kreis des Erdbodens mit Gerechtigkeit durch einen #Mann, in welchem er's beschlossen hat und jedermann vorhält den Glauben, nachdem er ihn hat von den Toten auferweckt."
 "Da sie hörten die Auferstehung der Toten, da hatten's etliche ihren Spott; etliche aber sprachen
 "Also ging Paulus von ihnen."
 "Etliche Männer aber hingen ihm an und wurden gläubig, unter welchen war Dionysius, einer aus dem Rat, und ein Weib mit Namen Damaris und andere mit ihnen."

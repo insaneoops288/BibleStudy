@@ -1,5 +1,5 @@
 "Czasu onego, mówi Pan, wybiorą kości królów Judzkich, i kości książąt ich, i kości kapłanów, i kości proroków, i kości obywateli Jeruzalemskich z grobów ich;"
-"I rozrzucą je przed słońce, i przed miesiąc, i przed wszystko wojsko niebieskie, które miłują, i którym służą, i za którymi chodzą, i których szukają, i którym się kłaniają; nie pozbierają ich, ani pogrzebią, ale będą miasto gnoju na wierzchu ziem i."
+"I rozrzucą je przed słońce, i przed miesiąc, i przed wszystko wojsko niebieskie, które miłują, i którym służą, i za którymi chodzą, #i których szukają, i którym się kłaniają; nie pozbierają ich, ani pogrzebią, ale będą miasto gnoju na wierzchu ziem i."
 "I obiorą raczej śmierć niżeli żywot wszystkie ostatki, które zostaną z tego rodzaju złośliwego po wszystkich miejscach, gdziebykolwiek zostali, tam, kędy ich zapędzę, mówi Pan zastępów."
 "Przetoż rzeczesz do nich
 "Przeczże się odwrócił ten lud Jeruzalemski odwróceniem wiecznem? chwytają się kłamstwa a nie chcą się nawracać."
@@ -13,7 +13,7 @@
 "Do szczętu ich wykorzenię, mówi Pan; nie będzie żadnego grona na winnej macicy, ani żadnych fig na drzewie figowem; nawet i liść opadnie, a com im dał, odjęte będzie."
 "Przecz my tu siedzimy? Zejdźcie się, a wynijdżmy do miast obronnych, a tam odpoczniemy; ale Pan, Bóg nasz każe nam odpocznąć, gdy nas napoi wodą żółci, iżeśmy zgrzeszyli przeciwko Panu."
 "Czekaj pokoju, alić nic dobrego; czasu uzdrowienia, alić oto strach."
-"Od Dan słyszeć chrapanie koni jego, od głosu wykrzykania mocarzy jego wszystka ziemia zadrżała, którzy ciągną, aby pożarli ziemię, i wszystko, co jest na niej, miasto i tych, którzy mieszkają w niem."
+"Od Dan słyszeć chrapanie koni jego, od głosu wykrzykania mocarzy jego wszystka ziemia zadrżała, którzy ciągną, aby #pożarli ziemię, i wszystko, co jest na niej, miasto i tych, którzy mieszkają w niem."
 "Bo oto Ja poślę na was węże najjadowitsze, przeciwko którym niemasz zaklinania; i pokąsają was, mówi Pan."
 "Serce moje we mnie, któreby mię miało posilać w smutku, mdłe jest."
 "Oto głos krzyku córki ludu mego z ziemi bardzo dalekiej mówiącej

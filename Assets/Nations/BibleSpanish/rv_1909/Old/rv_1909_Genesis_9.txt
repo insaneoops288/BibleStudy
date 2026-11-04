@@ -20,7 +20,7 @@
 "Y comenzó Noé á labrar la tierra, y plantó una viña
 "Y bebió del vino, y se embriagó, y estaba descubierto en medio de su tienda."
 "Y Châm, padre de Canaán, vió la desnudez de su padre, y díjolo á sus dos hermanos á la parte de afuera."
-"Entonces Sem y Japhet tomaron la ropa, y la pusieron sobre sus propios hombros, y andando hacia atrás, cubrieron la desnudez de su padre teniendo vueltos sus rostros, y así no vieron la desnudez de su padre."
+"Entonces Sem y Japhet tomaron la ropa, y la pusieron sobre sus propios hombros, y andando hacia atrás, cubrieron #la desnudez de su padre teniendo vueltos sus rostros, y así no vieron la desnudez de su padre."
 "Y despertó Noé de su vino, y supo lo que había hecho con él su hijo el más joven;"
 "Y dijo
 "Dijo más

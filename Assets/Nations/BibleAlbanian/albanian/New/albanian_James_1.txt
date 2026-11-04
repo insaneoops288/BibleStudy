@@ -20,7 +20,7 @@
 "Dhe bëhuni bërës të fjalës dhe jo vetëm dëgjues, që gënjejnë vetveten."
 "Sepse nëse dikush është dëgjues i fjalës dhe jo bërës, ai i përngjan një njeriu që e shikon fytyrën e tij natyrale në një pasqyrë;"
 "ai e shikon veten dhe pastaj ikën, duke harruar menjëherë si ishte."
-"Ndërsa ai që do të shikojë me vemendje ligjin e përsosur, i cili është ligji i lirisë, dhe ngulmon në të, duke mos qenë një dëgjues harraq, por një bërës i veprës, ai do të jetë i lumtur në veprimtarinë e vet."
+"Ndërsa ai që do të shikojë me vemendje ligjin e përsosur, i cili është ligji i lirisë, dhe ngulmon në të, duke #mos qenë një dëgjues harraq, por një bërës i veprës, ai do të jetë i lumtur në veprimtarinë e vet."
 "Në qoftë se ndokush nga ju mendon se është fetar, edhe nuk i vë fre gjuhës së vet, sigurisht ai e mashtron zemrën e vet, feja e këtij është e kotë."
 "Feja e pastër dhe pa njollë përpara Perëndisë dhe Atit është kjo
 "Vëllezër të mi, mos i lidhni preferencat personale me besimin e Zotit tonë Jezu Krisht, Zoti i lavdisë."

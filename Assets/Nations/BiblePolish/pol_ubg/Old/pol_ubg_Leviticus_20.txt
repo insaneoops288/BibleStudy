@@ -1,6 +1,6 @@
 "Potem PAN powiedział do Mojżesza
 "Powiedz synom Izraela
-"I ja zwrócę moje oblicze przeciwko temu człowiekowi i wyłączę go spośród jego ludu, dlatego że złożył ofiarę Molochowi ze swego potomstwa, by zanieczyścić moją świątynię i zbezcześcić moje święte imię."
+"I ja zwrócę moje oblicze przeciwko temu człowiekowi i wyłączę go spośród jego ludu, dlatego że #złożył ofiarę Molochowi ze swego potomstwa, by zanieczyścić moją świątynię i zbezcześcić moje święte imię."
 "A jeśli lud tej ziemi zasłoni swe oczy przed takim człowiekiem, który złożył Molochowi ofiarę ze swego potomstwa, i nie zabije go;"
 "To zwrócę swoje oblicze przeciw temu człowiekowi i przeciw jego domowi i wyłączę go oraz wszystkich, którzy cudzołożyli za jego przykładem, by uprawiać nierząd z Molochem, spośród ich ludu."
 "Przeciwko człowiekowi, który zwróci się do czarowników i wróżbitów, by cudzołożyć za ich przykładem, zwrócę swoje oblicze i wyłączę go spośród jego ludu."
@@ -14,7 +14,7 @@
 "Jeśli mężczyzna pojmie za żonę kobietę i jej matkę, to jest to niegodziwość. W ogniu spalą i jego, i je, aby nie było tej niegodziwości wśród was."
 "Także mężczyzna, jeśli się położy ze zwierzęciem, poniesie śmierć. Zwierzę też zabijecie."
 "Jeśli kobieta zbliża się do jakiegoś zwierzęcia, aby się z nim położyć, zabijesz kobietę i zwierzę. Poniosą śmierć, ich krew będzie na nich."
-"Jeśli mężczyzna pojmie swoją siostrę, córkę swego ojca albo córkę swej matki i zobaczy jej nagość, i ona zobaczy jego nagość, to jest to hańba. Będą wytraceni na oczach swego ludu. Odsłonił nagość swej siostry, obciążył się swoją nieprawością."
+"Jeśli mężczyzna pojmie swoją siostrę, córkę swego ojca albo córkę swej matki i zobaczy jej nagość, i ona zobaczy jego #nagość, to jest to hańba. Będą wytraceni na oczach swego ludu. Odsłonił nagość swej siostry, obciążył się swoją nieprawością."
 "A jeśli mężczyzna położy się z kobietą w czasie jej słabości i odkryje jej nagość, i obnaży jej źródło, a ona też odsłoni źródło swojej krwi, to oboje zostaną wykluczeni spośród swego ludu."
 "Nie będziesz odsłaniał nagości siostry swej matki ani siostry swego ojca, bo kto obnaża swoją krewną, obciąża się swoją nieprawością."
 "Jeśli mężczyzna kładzie się z żoną swego stryja, odsłania nagość swego stryja. Obciążą się swoim grzechem, umrą bez dzieci."
@@ -22,6 +22,6 @@
 "Przestrzegajcie więc wszystkich moich ustaw i wszystkich moich praw i wypełniajcie je, aby was nie wyrzuciła ziemia, do której was wprowadzę, abyście w niej mieszkali."
 "A nie postępujcie według obyczajów tego narodu, który wypędzam przed wami. To wszystko bowiem czynili i obrzydziłem ich sobie."
 "Wam zaś powiedziałem
-"Będziecie więc rozróżniać między zwierzęciem czystym a nieczystym i między ptakiem nieczystym a czystym. Nie kalajcie waszych dusz przez zwierzęta i ptactwo, i wszystko, co pełza po ziemi, co oddzieliłem od was jako nieczyste."
+"Będziecie więc rozróżniać między zwierzęciem czystym a nieczystym i między ptakiem nieczystym a czystym. Nie kalajcie waszych dusz #przez zwierzęta i ptactwo, i wszystko, co pełza po ziemi, co oddzieliłem od was jako nieczyste."
 "I będziecie dla mnie święci, bo ja, PAN, jestem święty i oddzieliłem was od innych narodów, abyście byli moimi."
 "Mężczyzna lub kobieta, w których będzie duch czarownika albo wróżbity, poniosą śmierć

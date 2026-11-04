@@ -44,7 +44,7 @@
 "Ökör
 "Szamár
 "Emberi lélek
-"Az Izráel fiainak esõ fele részbõl pedig egy elfogottat vett Mózes ötvenbõl, az emberekbõl és a barmokból; és adá azokat a lévitáknak, a kik ügyelnek az Úr hajlékának ügyére, a miképen parancsolta vala az Úr Mózesnek."
+"Az Izráel fiainak esõ fele részbõl pedig egy elfogottat vett Mózes ötvenbõl, az emberekbõl és a barmokból; és adá #azokat a lévitáknak, a kik ügyelnek az Úr hajlékának ügyére, a miképen parancsolta vala az Úr Mózesnek."
 "És járulának Mózeshez a had ezereinek vezetõi, az ezredesek és századosok."
 "És mondának Mózesnek
 "Hoztunk azért az Úrnak való áldozatul kiki a mit talált

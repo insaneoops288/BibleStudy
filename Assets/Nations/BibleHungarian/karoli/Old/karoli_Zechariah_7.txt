@@ -4,7 +4,7 @@
 "Szóla ekkor a Seregeknek Ura nékem, mondván
 "Szólj az ország minden népének és a papoknak, mondván
 "És mikor ettetek, és mikor ittatok
-"Avagy nem [ezek] a beszédek-é [azok,] a melyeket szólott vala az Úr az elõbbi próféták által, mikor még Jeruzsálem népes és gazdag vala a körülte levõ városokkal együtt, és mind a déli táj, mind a lapály-föld népes vala?"
+"Avagy nem [ezek] a beszédek-é [azok,] a melyeket szólott vala az Úr az elõbbi próféták által, mikor még Jeruzsálem népes #és gazdag vala a körülte levõ városokkal együtt, és mind a déli táj, mind a lapály-föld népes vala?"
 "És szóla az Úr Zakariásnak, mondván
 "Így szólt a Seregeknek Ura, mondván
 "Özvegyet és árvát, jövevényt és szegényt meg ne sarczoljatok, és egymás ellen még szívetekben se gondoljatok gonoszt."

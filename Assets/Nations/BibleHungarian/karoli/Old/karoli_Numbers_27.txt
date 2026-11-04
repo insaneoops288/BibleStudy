@@ -8,16 +8,16 @@
 "Izráel fiainak pedig szólj, mondván
 "Ha pedig nem leend néki leánya, akkor adjátok az õ örökségét az õ testvéreinek."
 "Ha pedig nem leendenek néki testvérei, akkor adjátok az õ örökségét az õ atyja testvéreinek."
-"Ha pedig nem leendenek az õ atyjának testvérei, akkor adjátok az õ örökségét annak, a ki legközelebbi atyjafia az õ nemzetségébõl, és bírja azt. Legyen pedig az Izráel fiainak végezett törvényök, a miképen megparancsolta az Úr Mózesnek."
+"Ha pedig nem leendenek az õ atyjának testvérei, akkor adjátok az õ örökségét annak, a ki legközelebbi atyjafia az #õ nemzetségébõl, és bírja azt. Legyen pedig az Izráel fiainak végezett törvényök, a miképen megparancsolta az Úr Mózesnek."
 "Monda azután az Úr Mózesnek
 "Miután pedig megláttad azt, takaríttatol te is a te népedhez, a miképen oda takaríttatott Áron, a te testvéred;"
-"Mivelhogy nem engedétek az én beszédemnek a Czin pusztájában, a gyülekezet versengésének idején, hogy megdicsõítettetek volna engemet ama vizeknél az õ szemeik elõtt. Ezek a versengésnek vizei Kádesnél a Czin pusztájában."
+"Mivelhogy nem engedétek az én beszédemnek a Czin pusztájában, a gyülekezet versengésének idején, hogy megdicsõítettetek volna #engemet ama vizeknél az õ szemeik elõtt. Ezek a versengésnek vizei Kádesnél a Czin pusztájában."
 "Szóla azért Mózes az Úrnak, mondván
 "Az Úr, a minden test lelkének Istene, rendeljen férfiút a gyülekezet fölé."
 "A ki kimenjen õ elõttök, és a ki bemenjen õ elõttök; a ki kivigye õket, és a ki bevigye õket, hogy ne legyen az Úr gyülekezete olyan mint a juhok, a melyeknek nincsen pásztoruk."
 "Az Úr pedig monda Mózesnek
 "És állasd õt Eleázár pap elé, és az egész gyülekezet elé, és adj néki parancsolatokat az õ szemeik elõtt."
 "És a te dicsõségedet közöld õ vele, hogy hallgassa õt Izráel fiainak egész gyülekezete."
-"Azután pedig álljon Eleázár pap elé, és kérdje meg õt az Urimnak ítélete felõl az Úr elõtt. Az õ szava szerint menjenek ki, és az õ szava szerint menjenek be, õ és Izráel minden fia õ vele, és az egész gyülekezet."
+"Azután pedig álljon Eleázár pap elé, és kérdje meg õt az Urimnak ítélete felõl az Úr elõtt. Az õ szava szerint #menjenek ki, és az õ szava szerint menjenek be, õ és Izráel minden fia õ vele, és az egész gyülekezet."
 "Úgy cselekedék azért Mózes, a miképen parancsolta vala az Úr néki; mert vevé Józsuét, és állatá õt Eleázár pap elé, és az egész gyülekezet elé."
 "És tevé az õ kezét õ reá, és ada néki parancsolatokat, a miképen szólott vala az Úr Mózes által."

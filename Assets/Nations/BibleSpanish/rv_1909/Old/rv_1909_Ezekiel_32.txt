@@ -7,7 +7,7 @@
 "Y cuando te habré muerto, cubriré los cielos, y haré entenebrecer sus estrellas
 "Todas las lumbreras de luz haré entenebrecer en el cielo por ti, y pondré tinieblas sobre tu tierra, dice el Señor Jehová."
 "Y entristeceré el corazón de muchos pueblos, cuando llevaré tu quebrantamiento sobre las gentes, por las tierras que no conociste."
-"Y haré atónitos sobre ti muchos pueblos, y sus reyes tendrán á causa de ti horror grande, cuando haré resplandecer mi espada delante de sus rostros, y todos se sobresaltarán en sus ánimos á cada momento en el día de tu caída."
+"Y haré atónitos sobre ti muchos pueblos, y sus reyes tendrán á causa de ti horror grande, cuando haré resplandecer mi espada #delante de sus rostros, y todos se sobresaltarán en sus ánimos á cada momento en el día de tu caída."
 "Porque así ha dicho el Señor Jehová
 "Con espadas de fuertes haré caer tu pueblo; todos ellos serán los fuertes de las gentes
 "Todas sus bestias destruiré de sobre las muchas aguas
@@ -27,6 +27,6 @@
 "Y no yacerán con los fuertes que cayeron de los incircuncisos, los cuales descendieron al sepulcro con sus armas de guerra, y pusieron sus espadas debajo de sus cabezas
 "Tú pues serás quebrantado entre los incircuncisos, y yacerás con los muertos á cuchillo."
 "Allí Idumea, sus reyes y todos sus príncipes, los cuales con su fortaleza fueron puestos con los muertos á cuchillo
-"Allí los príncipes del aquilón, todos ellos, y todos los de Sidón, que con su terror descendieron con los muertos, avergonzados de su fortaleza, yacen también incircuncisos con los muertos á cuchillo, y llevaron su confusión con los que descienden al sepu"
+"Allí los príncipes del aquilón, todos ellos, y todos los de Sidón, que con su terror descendieron con los muertos, avergonzados de #su fortaleza, yacen también incircuncisos con los muertos á cuchillo, y llevaron su confusión con los que descienden al sepu"
 "A estos verá Faraón, y consolaráse sobre toda su multitud; Faraón muerto á cuchillo, y todo su ejército, dice el Señor Jehová."
 "Porque yo puse mi terror en la tierra de los vivientes, también yacerá entre los incircuncisos con los muertos á cuchillo, Faraón y toda su multitud, dice el Señor Jehová."

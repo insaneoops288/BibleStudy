@@ -1,5 +1,5 @@
 "Aconteció en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Belén de Judá, fue a peregrinar en los campos de Moab, él y su mujer, y dos hijos suyos."
-"El nombre de aquel varón <I>era</I>  Elimelec, y el de su mujer Noemí; y los nombres de sus dos hijos <I>eran</I> , Mahlón y Quelión, efrateos de Belén de Judá. Llegaron, <I>pues</I> , a los campos de Moab, y <I>se</I>   asentaron allí."
+"El nombre de aquel varón <I>era</I>  Elimelec, y el de su mujer Noemí; y los nombres de sus dos hijos <I>eran</I> , #Mahlón y Quelión, efrateos de Belén de Judá. Llegaron, <I>pues</I> , a los campos de Moab, y <I>se</I>   asentaron allí."
 "Y murió Elimelec, marido de Noemí, y quedó ella con sus dos hijos;"
 "los cuales tomaron para sí mujeres de Moab, el nombre de una <I>era</I>  Orfa, y el nombre de la otra, Rut; y habitaron allí como diez años."
 "Y murieron también los dos, Mahlón y Quelión, y la mujer quedó <I>desamparada</I>  de sus dos hijos y de su marido."
@@ -10,7 +10,7 @@
 "Y le dijeron
 "Y Noemí respondió
 "Volveos, hijas mías, e idos; que yo ya soy vieja para ser para varón. Y aunque dijese
-"¿habíais vosotras de esperarlos hasta que fuesen grandes? ¿Habíais vosotras de quedaros sin casar por amor de ellos? No, hijas mías; que mayor amargura tengo yo que vosotras, porque la mano del SEÑOR ha salido contra mí."
+"¿habíais vosotras de esperarlos hasta que fuesen grandes? ¿Habíais vosotras de quedaros sin casar por amor de ellos? No, #hijas mías; que mayor amargura tengo yo que vosotras, porque la mano del SEÑOR ha salido contra mí."
 "Mas <I>ellas</I>  alzando otra vez su voz, lloraron; y Orfa besó a su suegra, mas Rut se quedó con ella."
 "Y ella dijo
 "Y Rut respondió

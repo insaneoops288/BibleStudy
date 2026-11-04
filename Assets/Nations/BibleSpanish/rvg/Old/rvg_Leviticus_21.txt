@@ -18,7 +18,7 @@
 "Porque ningún varón en el cual hubiere defecto se acercará; varón ciego, o cojo, o falto, o sobrado,"
 "o varón en el cual hubiere quebradura de pie o rotura de mano,"
 "o jorobado, o enano, o que tuviere nube en el ojo, o que tenga sarna, o empeine, o que tenga testículo dañado."
-"Ningún varón de la simiente de Aarón sacerdote, en el cual hubiere defecto, se acercará para ofrecer las ofrendas encendidas de Jehová. Hay defecto en él; no se acercará a ofrecer el pan de su Dios."
+"Ningún varón de la simiente de Aarón sacerdote, en el cual hubiere defecto, se acercará para ofrecer las ofrendas #encendidas de Jehová. Hay defecto en él; no se acercará a ofrecer el pan de su Dios."
 "El pan de su Dios, de lo muy santo y las cosas santificadas, comerá;"
 "pero no entrará tras el velo, ni se acercará al altar, por cuanto hay defecto en él; para que no profane mi santuario, porque yo Jehová soy el que los santifico."
 "Y Moisés habló esto a Aarón, y a sus hijos, y a todos los hijos de Israel."

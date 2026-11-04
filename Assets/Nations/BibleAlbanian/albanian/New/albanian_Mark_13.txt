@@ -5,13 +5,13 @@
 "Dhe Jezusi duke u përgjigjur atyre nisi të flasë
 "Sepse do të vijnë shumë në emrin tim duke thënë
 "Por, kur të dëgjoni të flitet për luftëra dhe për ushtime luftërash, mos u shqetësoni; sepse këto gjëra duhet të ndodhin; por nuk do të jetë ende mbarimi."
-"Në fakt do të ngrihet kombi kundër kombit dhe mbretëria kundër mbretërisë; do të ndodhin tërmete në vende të ndryshme, zi buke dhe turbullira. Këto gjëra nuk do të jenë tjetër veçse fillimi i dhembjeve të lindjes."
+"Në fakt do të ngrihet kombi kundër kombit dhe mbretëria kundër mbretërisë; do të ndodhin tërmete në vende të #ndryshme, zi buke dhe turbullira. Këto gjëra nuk do të jenë tjetër veçse fillimi i dhembjeve të lindjes."
 "Kujdesuni për veten! Sepse do t'ju dorëzojnë gjyqeve dhe do t'ju rrahin ndër sinagoga; do t'ju nxjerrin përpara guvernatorëve dhe mbretërve, për shkakun tim, që të dëshmoni përpara tyre."
 "Por më parë duhet që t'u përhapet ungjilli gjithë popujve."
-"Tani, kur t'ju çojnë për t'ju dorëzuar në duart e tyre, mos u shqetësoni që më parë për atë që do të duhet të thoni dhe mos e paramendoni; por thoni çfarë t'ju jepet në atë çast, sepse nuk jeni ju që flisni, por Fryma e Shenjtë."
+"Tani, kur t'ju çojnë për t'ju dorëzuar në duart e tyre, mos u shqetësoni që më parë për atë që do të duhet të #thoni dhe mos e paramendoni; por thoni çfarë t'ju jepet në atë çast, sepse nuk jeni ju që flisni, por Fryma e Shenjtë."
 "Tani vëllai do të dorëzojë vëllanë në vdekje dhe ati birin; dhe bijtë do të çohen kundër prindërve dhe do t'i bëjnë të vdesin."
 "Dhe ju do të jeni të urryer nga të gjithë për shkak të emrit tim; por ai që do të ngulmojë deri në fund, do të shpëtohet''."
-"Dhe kur të shihni neverinë e shkatërrimit, të parathënë nga profeti Daniel, e cila qëndron atje ku nuk duhej të ishte (ai që lexon le ta kuptojë), atëherë ata që do të jenë në Jude, le të ikin maleve."
+"Dhe kur të shihni neverinë e shkatërrimit, të parathënë nga profeti Daniel, e cila qëndron atje ku nuk duhej të #ishte (ai që lexon le ta kuptojë), atëherë ata që do të jenë në Jude, le të ikin maleve."
 "Dhe ai që ndodhet mbi çatinë e shtëpisë, të mos zbresë, dhe as të hyjë në shtëpi për të marrë ndonjë gjë nga shtëpia e vet."
 "Dhe ai që do të jetë në arë, të mos kthehet prapa për të marrë rrobën e vet."
 "Tani mjerë gratë shtatzëna dhe ato me fëmijë në gji në ato ditë!"

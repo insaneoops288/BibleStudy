@@ -10,8 +10,8 @@
 "Niin että he syövät, ja ei tule ravituksi; he tekevät huoruutta, ja ei heidän pidä menestymän; sillä he ovat hyljänneet Herran, ja ei totelleet häntä."
 "Huoruus, viina ja väkevä juoma hulluksi saattavat."
 "Minun kansani kysyy neuvoa puulta ja hänen sauvansa saarnaa hänelle; sillä huoruuden henki vietteli heitä, niin että he tekivät huorin Jumalaansa vastaan."
-"Vuorten kukkuloilla he uhraavat, ja korkeuksilla he suitsuttavat, tammien alla, haapain ja saarnien alla, että ne antavat suloisen varjon; sentähden tulevat teidän tyttärenne portoiksi ja teidän morsiamenne huoraksi."
-"En minä tahdo etsiä teidän tyttäriänne, koska he salavuoteudessa elävät, enkä teidän morsiamianne, koska he huorin tekevät; sillä he eroittavat itsensä huorain sekaan, ja porttoin kanssa uhraavat; ja se ymmärtämätöin kansa saa haavoja."
+"Vuorten kukkuloilla he uhraavat, ja korkeuksilla he suitsuttavat, tammien alla, haapain ja saarnien alla, että #ne antavat suloisen varjon; sentähden tulevat teidän tyttärenne portoiksi ja teidän morsiamenne huoraksi."
+"En minä tahdo etsiä teidän tyttäriänne, koska he salavuoteudessa elävät, enkä teidän morsiamianne, koska he huorin tekevät; #sillä he eroittavat itsensä huorain sekaan, ja porttoin kanssa uhraavat; ja se ymmärtämätöin kansa saa haavoja."
 "Israel, jos sinä kuitenkin tahdot huorin tehdä, niin älköön Juuda sentähden vialliseksi tulko! Älkäät menkö Gilgaliin, ja älkäät tulko ylös Betaveniin, ja älkäät vannoko
 "Sillä Israel on hillimätöin niinkuin kiiliväinen lehmä; niin Herra on myös kaitseva heitä, kuin lammasta avarassa paikassa."
 "Sillä Ephraim on suostunut epäjumaliin; anna hänen mennä."

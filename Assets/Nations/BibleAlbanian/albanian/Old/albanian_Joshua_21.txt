@@ -24,12 +24,12 @@
 "Aijaloni me gjithë tokat për kullotë, Gath-Rimoni me gjithë tokat për kullotë
 "Nga gjysma e fisit të Manasit
 "Të gjitha këto dhjetë qytete me tokat e tyre për kullotë u ranë familjeve të bijve të tjerë të Kehathit."
-"Bijve të Gershonit, që u përkisnin familjeve të Levitëve, u dhanë, duke i marrë nga gjysma e fisit të Manasit, Golanin në Bashan (si qytet për strehimin e vrasësit), me gjithë tokat për kullotë, dhe Beeshterahun me tokat e tij për kullotë
+"Bijve të Gershonit, që u përkisnin familjeve të Levitëve, u dhanë, duke i marrë nga gjysma e fisit të Manasit, Golanin në #Bashan (si qytet për strehimin e vrasësit), me gjithë tokat për kullotë, dhe Beeshterahun me tokat e tij për kullotë
 "nga fisi i Isakarit, Kishionin me tokat e tij për kullotë, Daberathin me tokat e tij për kullotë,"
 "Jarmuthin me tokat e tij për kullotë, En-Ganimin me tokat e tij për kullotë
 "nga fisi i Asherit, Mishalin me tokat e tij për kullotë, Abdonin me tokat e tij për kullotë,"
 "Helkathin me tokat e tij për kullotë dhe Rehobin, me tokat e tij për kullotë
-"dhe nga fisi i Neftalit, Kadeshin në Galile (si qytet strehimi për vrasësin), me gjithë tokat e tij për kullotë, Hamoth-Dorin me tokat e tij për kullotë, dhe Kartanin me tokat e tij për kullotë; tri qytete."
+"dhe nga fisi i Neftalit, Kadeshin në Galile (si qytet strehimi për vrasësin), me gjithë tokat e tij për #kullotë, Hamoth-Dorin me tokat e tij për kullotë, dhe Kartanin me tokat e tij për kullotë; tri qytete."
 "Shuma e qyteteve të Gershonitëve, simbas familjeve të tyre, ishte trembëdhjetë qytete me tokat e tyre për kullotë."
 "Familjeve të bijve të Merarit, domethënë Levitëve të tjerë, iu dhanë, duke i marrë nga fisi i Zabulonit, Jokneamin me tokat e tij për kullotë, Kartahin me tokat e tij për kullotë,"
 "Dimnahun me tokat e tij për kullotë dhe Nahalalin me tokat e tij për kullotë

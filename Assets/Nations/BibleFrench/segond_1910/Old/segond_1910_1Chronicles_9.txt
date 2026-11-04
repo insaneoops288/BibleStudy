@@ -16,10 +16,10 @@
 "Abdias, fils de Schemaeja, fils de Galal, fils de Jeduthun; Bérékia, fils d'Asa, fils d'Elkana, qui habitait dans les villages des Nethophathiens."
 "Et les portiers
 "et jusqu'à présent il est à la porte du roi, à l'orient. Ce sont là les portiers pour le camp des fils de Lévi."
-"Schallum, fils de Koré, fils d'Ebiasaph, fils de Koré, et ses frères de la maison de son père, les Koréites, remplissaient les fonctions de gardiens des seuils de la tente; leurs pères avaient gardé l'entrée du camp de l'Eternel,"
+"Schallum, fils de Koré, fils d'Ebiasaph, fils de Koré, et ses frères de la maison de son père, les Koréites, #remplissaient les fonctions de gardiens des seuils de la tente; leurs pères avaient gardé l'entrée du camp de l'Eternel,"
 "et Phinées, fils d'Eléazar, avait été autrefois leur chef, et l'Eternel était avec lui."
 "Zacharie, fils de Meschélémia, était portier à l'entrée de la tente d'assignation."
-"Ils étaient en tout deux cent douze, choisis pour portiers des seuils, et enregistrés dans les généalogies d'après leurs villages; David et Samuel le voyant les avaient établis dans leurs fonctions."
+"Ils étaient en tout deux cent douze, choisis pour portiers des seuils, et enregistrés dans les #généalogies d'après leurs villages; David et Samuel le voyant les avaient établis dans leurs fonctions."
 "Eux et leurs enfants gardaient les portes de la maison de l'Eternel, de la maison de la tente."
 "Il y avait des portiers aux quatre vents, à l'orient, à l'occident, au nord et au midi."
 "Leurs frères, qui demeuraient dans leurs villages, devaient de temps à autre venir auprès d'eux pendant sept jours."

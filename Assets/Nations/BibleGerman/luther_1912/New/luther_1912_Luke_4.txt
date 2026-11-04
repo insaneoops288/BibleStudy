@@ -15,7 +15,7 @@
 "Und er lehrte in ihren Schulen und ward von jedermann gepriesen."
 "Und er kam gen Nazareth, da er erzogen war, und ging in die Schule nach seiner Gewohnheit am Sabbattage und stand auf und wollte lesen."
 "Da ward ihm das Buch des Propheten Jesaja gereicht. Und da er das Buch auftat, fand er den Ort, da geschrieben steht
-"""Der Geist des HERRN ist bei mir, darum, daß er mich gesalbt hat; er hat mich gesandt, zu verkündigen das Evangelium den Armen, zu heilen die zerstoßenen Herzen, zu predigen den Gefangenen, daß sie los sein sollten, und den Blinden das Gesicht und den Zerschlagenen, daß sie frei und ledig sein sollen,"
+"""Der Geist des HERRN ist bei mir, darum, daß er mich gesalbt hat; er hat mich gesandt, zu verkündigen das Evangelium den Armen, zu heilen die zerstoßenen #Herzen, zu predigen den Gefangenen, daß sie los sein sollten, und den Blinden das Gesicht und den Zerschlagenen, daß sie frei und ledig sein sollen,"
 "und zu verkündigen das angenehme Jahr des HERRN."""
 "Und als er das Buch zutat, gab er's dem Diener und setzte sich. Und aller Augen, die in der Schule waren, sahen auf ihn."
 "Und er fing an, zu sagen zu ihnen

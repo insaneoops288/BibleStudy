@@ -4,7 +4,7 @@
 "Ấy là sau khi người đã đánh giết Si-hôn, vua dân A-mô-rít ở tại Hết-bôn, và Oùc, vua Ba-san, ở tại Ách-ta-rốt và Ết-rê -i."
 "Tại bên kia sông Giô-đanh, trong xứ Mô-áp, Môi-se khởi giảng giải luật pháp nầy mà rằng
 "Giê-hô-va Ðức Chúa Trời chúng ta có phán cùng chúng ta tại Hô-rếp mà rằng
-"hãy vòng lại và đi đến núi dân A-mô-rít, cùng đến các miền ở gần bên, tức là đến nơi đồng bằng, lên núi, vào xứ thấp, đến miền nam, lên mé biển, vào xứ dân Ca-na-an và Li-ban, cho đến sông lớn, là sông Ơ-phơ-rát."
+"hãy vòng lại và đi đến núi dân A-mô-rít, cùng đến các miền ở gần bên, tức là đến nơi đồng bằng, lên núi, #vào xứ thấp, đến miền nam, lên mé biển, vào xứ dân Ca-na-an và Li-ban, cho đến sông lớn, là sông Ơ-phơ-rát."
 "Kìa, ta phó xứ nầy cho các ngươi! Hãy vào và chiếm lấy xứ mà Ðức Giê-hô-va đã thề ban cho tổ phụ các ngươi, là Áp-ra-ham, Y-sác, Gia-cốp, cùng cho con cháu của họ."
 "Trong lúc đó ta có nói cùng các ngươi rằng
 "Giê-hô-va Ðức Chúa Trời các ngươi đã gia thêm các ngươi, kìa ngày nay, các ngươi đông như sao trên trời."
@@ -12,11 +12,11 @@
 "Một mình ta làm thế nào mang lấy trách nhiệm và gánh nặng về điều tranh tụng của các ngươi?"
 "Hãy chọn trong mỗi chi phái các ngươi những người khôn ngoan, thông sáng, có tiếng, và ta sẽ lập họ lên làm quan trưởng các ngươi."
 "Các ngươi có đáp rằng
-"Bấy giờ, ta chọn lấy những người quan trưởng của các chi phái, là những người khôn ngoan, có tiếng, lập lên làm quan tướng các ngươi, hoặc cai ngàn người, hoặc cai trăm người, hoặc cai năm mươi người, hoặc cai mười người, và làm quản lý trong những chi phái của các ngươi."
+"Bấy giờ, ta chọn lấy những người quan trưởng của các chi phái, là những người khôn ngoan, có tiếng, lập lên làm quan tướng các ngươi, hoặc #cai ngàn người, hoặc cai trăm người, hoặc cai năm mươi người, hoặc cai mười người, và làm quản lý trong những chi phái của các ngươi."
 "Trong lúc đó, ta ra lịnh cho những quan xét các ngươi rằng
-"Trong việc xét đoán, các ngươi chớ tư vị ai; hãy nghe người hèn như nghe người sang, đừng có sợ ai, vì sự xét đoán thuộc về Ðức Chúa Trời. Phàm việc nào lấy làm rất khó cho các ngươi, hãy đem đến trước mặt ta thì ta sẽ nghe cho."
+"Trong việc xét đoán, các ngươi chớ tư vị ai; hãy nghe người hèn như nghe người sang, đừng có sợ ai, vì sự xét đoán thuộc #về Ðức Chúa Trời. Phàm việc nào lấy làm rất khó cho các ngươi, hãy đem đến trước mặt ta thì ta sẽ nghe cho."
 "Vậy, trong lúc đó, ta có truyền cho các ngươi mọi điều mình phải làm."
-"Ðoạn, bỏ Hô-rếp, chúng ta trải ngang qua đồng vắng minh-mông và gớm ghê mà chúng ta thấy kia, hướng về núi dân A-mô-rít, y như Giê-hô-va Ðức Chúa Trời chúng ta đã phán dặn; rồi chúng ta đến Ca-đe-Ba-nê-a."
+"Ðoạn, bỏ Hô-rếp, chúng ta trải ngang qua đồng vắng minh-mông và gớm ghê mà chúng ta thấy kia, hướng về #núi dân A-mô-rít, y như Giê-hô-va Ðức Chúa Trời chúng ta đã phán dặn; rồi chúng ta đến Ca-đe-Ba-nê-a."
 "Bấy giờ, ta nói cùng các ngươi rằng
 "Kìa, Giê-hô-va Ðức Chúa Trời ngươi phó xứ nầy cho ngươi; hãy đi lên, chiếm làm sản nghiệp, y như Giê-hô-va Ðức Chúa Trời của tổ phụ ngươi đã phán cùng ngươi; chớ ái ngại, chớ kinh khủng."
 "Các ngươi hết thảy bèn lại gần ta và nói rằng
@@ -36,7 +36,7 @@
 "ngoại trừ Ca-lép, con trai của Giê-phu-nê. Người sẽ thấy xứ đó; và ta sẽ ban cho người cùng con cháu người xứ mà người đã trải qua, bởi vì người có theo Ðức Giê-hô-va cách trung tín trọn vẹn."
 "Lại, Ðức Giê-hô-va vì cớ các ngươi cũng nổi giận cùng ta, mà rằng
 "Giô-suê, con trai Nun, là đầy tớ ngươi, sẽ được vào đó. Hãy làm cho người vững lòng, vì ấy là người sẽ khiến dân Y-sơ-ra-ên nhận lấy xứ nầy lảm sản nghiệp."
-"Những con trẻ của các ngươi và các ngươi đã nói rằng sẽ thành một miếng mồi, và những con trai các ngươi hiện bây giờ chưa biết điều thiện hay là điều ác, sẽ vào xứ đó. Ta sẽ ban cho chúng nó xứ nầy làm sản nghiệp;"
+"Những con trẻ của các ngươi và các ngươi đã nói rằng sẽ thành một miếng mồi, và những con trai các ngươi hiện bây #giờ chưa biết điều thiện hay là điều ác, sẽ vào xứ đó. Ta sẽ ban cho chúng nó xứ nầy làm sản nghiệp;"
 "nhưng các ngươi hãy trở về, đi đến đồng vắng về hướng Biển đỏ."
 "Lúc đó, các ngươi bèn đáp cùng ta mà rằng
 "Ðức Giê-hô-va bèn phán cùng ta rằng

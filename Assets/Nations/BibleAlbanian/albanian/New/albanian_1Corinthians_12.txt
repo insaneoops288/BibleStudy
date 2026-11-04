@@ -6,7 +6,7 @@
 "Dhe ka larmi veprimtarish por është i njejti Perëndi i cili i bën të gjitha gjërat në të gjithë."
 "Dhe secilit i jepet shfaqja e Frymës për dobinë e përbashkët."
 "Dikujt, pra, i jepet, me anë të Frymës, fjalë diturie; një tjetri, sipas të po atij Frymë, fjalë njohurie;"
-"një tjetri besim, nga po ai Frymë; një tjetri dhuntitë e shërimeve, nëpërmjet po atij Frymë; një tjetri pushtet për të kryer veprime të fuqishme; një tjetri profeci; një tjetri të dallojë frymërat;"
+"një tjetri besim, nga po ai Frymë; një tjetri dhuntitë e shërimeve, nëpërmjet po atij Frymë; një #tjetri pushtet për të kryer veprime të fuqishme; një tjetri profeci; një tjetri të dallojë frymërat;"
 "një tjetri larmi gjuhësh; një tjetri interpretimi i gjuhëve."
 "Dhe të gjitha këto i bën i njëjti dhe i vetmi Frymë, duke i ndarë gjithsecilit dhunti veç e veç ashtu si do vetë."
 "Sepse ashtu si trupi është një, por ka shumë gjymtyrë, dhe të gjitha gjymtyrët e të njëtit trup, megjithse janë shumë, formojnë një trup të vetëm, kështu është edhe Krishti."

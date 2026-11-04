@@ -7,7 +7,7 @@
 "Atëherë Gedeoni tha
 "Që andej shkoi në Penuel dhe u foli në të njëjtën mënyrë banorëve të tij; burrat e Penuelit iu përgjigjën në të njëjtën mënyrë si ata të Sukothit."
 "Kështu ai u foli edhe burrave të Penuelit, duke u thënë
-"Zebahu dhe Tsalmunai ndodheshin në Karkor me gjithë ushtrinë e tyre prej rreth pesëmbëdhjetë mijë burrash, ajo që mbetej nga tërë ushtria e bijve të lindjes, sepse njëqind e njëzet mijë njerëz që mbanin shpatë i kishin vrarë."
+"Zebahu dhe Tsalmunai ndodheshin në Karkor me gjithë ushtrinë e tyre prej rreth pesëmbëdhjetë mijë burrash, ajo që mbetej nga #tërë ushtria e bijve të lindjes, sepse njëqind e njëzet mijë njerëz që mbanin shpatë i kishin vrarë."
 "Gedeoni shkoi nëpër rrugët e atyre që banonin në çadra, në lindje të Nobahut dhe të Jogbehahut, dhe mundi ushtrinë që e pandehte veten në siguri."
 "Dhe Zebahu dhe Tsalmunai ikën me vrap; por ai i ndoqi dhe i zuri të dy mbretërit e Madianit, Zebahun dhe Tsalmunain, dhe e shpartalloi tërë ushtrinë."
 "Pastaj Gedeoni, bir i Joashit, u kthye në fushën e betejës nëpër të përpjetën e Heresit."
@@ -23,7 +23,7 @@
 "Por Gedeoni u përgjegj
 "Pastaj Gedeoni u tha
 "Ata u përgjigjën
-"Pesha e vathëve prej ari që ai kishte kërkuar ishte njëmijë e shtatëqind sikla ari, përveç gjysmëhënëzave, varëseve dhe rrobave të purpurta që vishnin mbretërit e Madianit, përveç qaforeve që devetë e tyre mbanin në qafë."
+"Pesha e vathëve prej ari që ai kishte kërkuar ishte njëmijë e shtatëqind sikla ari, përveç gjysmëhënëzave, varëseve dhe #rrobave të purpurta që vishnin mbretërit e Madianit, përveç qaforeve që devetë e tyre mbanin në qafë."
 "Pastaj Gedeoni me to bëri një efod, dhe e vendosi në Ofrah, në qytetin e tij; tërë Izraeli shkoi atje dhe u kurvërua me të dhe kështu u shndërrua në një lak për Gedeonin dhe shtëpinë e tij."
 "Kështu Madiani u poshtërua përpara bijve të Izraelit dhe nuk ngriti më kokë; dhe vendi pati paqe dyzet vjet me radhë, gjatë gjithë jetës së Gedeonit."
 "Pastaj Jerubaali, bir i Joashit, u kthye të banojë në shtëpinë e tij."

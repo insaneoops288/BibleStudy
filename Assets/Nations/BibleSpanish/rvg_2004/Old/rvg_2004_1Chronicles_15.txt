@@ -13,7 +13,7 @@
 "pues por no haberlo hecho así vosotros la primera vez, Jehová nuestro Dios hizo en nosotros rotura, por cuanto no le buscamos según la ordenanza."
 "Así los sacerdotes y los levitas se santificaron para traer el arca de Jehová Dios de Israel."
 "Y los hijos de los levitas trajeron el arca de Dios puesta sobre sus hombros en las barras, como lo había mandado Moisés conforme a la palabra de Jehová."
-"Asimismo dijo David a los principales de los levitas, que constituyesen de sus hermanos a cantores, con instrumentos de música, con salterios y arpas y címbalos, que resonasen y alzasen la voz con alegría."
+"Asimismo dijo David a los principales de los levitas, que constituyesen de sus hermanos a cantores, con instrumentos #de música, con salterios y arpas y címbalos, que resonasen y alzasen la voz con alegría."
 "Y los levitas constituyeron a Hemán hijo de Joel; y de sus hermanos, a Asaf hijo de Berequías; y de los hijos de Merari y de sus hermanos, a Etán hijo de Cusaías."
 "Y con ellos a sus hermanos del segundo orden, a Zacarías, Ben y Jaaziel, Semiramot, Jehiel, Uni, Eliab, Benaía, Maasías, y Matatías, Elifelehu, Micnías, Obed-edom y Jeiel, los porteros."
 "Así Hemán, Asaf, y Etán, que eran cantores, sonaban címbalos de bronce."
@@ -24,6 +24,6 @@
 "Y Sebanías, Josafat, Natanael, Amasai, Zacarías, Benaía, y Eliezer, sacerdotes, tocaban las trompetas delante del arca de Dios
 "David, pues, y los ancianos de Israel, y los capitanes de millares, fueron a traer el arca del pacto de Jehová, de casa de Obed-edom, con alegría."
 "Y sucedió que cuando Dios ayudó a los levitas que llevaban el arca del pacto de Jehová, ellos sacrificaron siete novillos y siete carneros."
-"Y David iba vestido de lino fino y también todos los levitas que llevaban el arca, y asimismo los cantores; y Quenanías era maestro de canto entre los cantores. Llevaba también David sobre sí un efod de lino."
+"Y David iba vestido de lino fino y también todos los levitas que llevaban el arca, y asimismo los cantores; #y Quenanías era maestro de canto entre los cantores. Llevaba también David sobre sí un efod de lino."
 "De esta manera llevaba todo Israel el arca del pacto de Jehová, con júbilo y sonido de bocinas, y trompetas, y címbalos, y al son de salterios y arpas."
 "Y como el arca del pacto de Jehová llegó a la ciudad de David, Mical, hija de Saúl, mirando por una ventana, vio al rey David que saltaba y danzaba; y lo menospreció en su corazón."

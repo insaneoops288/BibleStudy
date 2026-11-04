@@ -12,7 +12,7 @@
 "Annakokáért, miképen egy ember által jött be a világra a bûn és a bûn által a halál, és akképen a halál minden emberre elhatott, mivelhogy mindenek vétkeztek;"
 "Mert a törvényig vala bûn a világon; a bûn azonban nem számíttatik be, ha nincsen törvény."
 "Úgyde a halál uralkodott Ádámtól Mózesig azokon is, a kik nem az Ádám esetének hasonlatossága szerint vétkeztek, a ki ama következendõnek kiábrázolása vala."
-"De a kegyelmi ajándék nem úgy [van,] mint a bûneset; mert ha amaz egynek esete miatt sokan haltak meg, az Isten kegyelme és a kegyelembõl való ajándék, mely az egy ember Jézus Krisztusé, sokkal inkább elhatott sokakra."
+"De a kegyelmi ajándék nem úgy [van,] mint a bûneset; mert ha amaz egynek esete miatt sokan haltak meg, #az Isten kegyelme és a kegyelembõl való ajándék, mely az egy ember Jézus Krisztusé, sokkal inkább elhatott sokakra."
 "És az ajándék sem úgy [van,] mint egy vétkezõ által; mert az ítélet egybõl [lett] kárhozottá, az ajándék pedig sok bûnbõl [van] igazulásra."
 "Mert ha az egynek bûnesete miatt uralkodott a halál az egy által
 "Bizonyára azért, miképen egynek bûnesete által minden emberre [elhatott] a kárhozat

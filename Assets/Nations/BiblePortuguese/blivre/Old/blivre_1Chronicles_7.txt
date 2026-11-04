@@ -26,7 +26,7 @@
 "Seu filho Laadã, seu filho Amiúde, seu filho Elisama,"
 "Seu filho Num, e seu filho Josué."
 "E a propriedade e habitação deles foi Betel com suas aldeias, e ao oriente Naarã, e ao ocidente Gezer e suas aldeias, como também Siquém com suas aldeias, até Aia e suas aldeias;"
-"E da parte dos filhos de Manassés, Bete-Seã com suas aldeias, Taanaque com suas aldeias, Megido com suas aldeias, e Dor com suas aldeias. Nestes [lugares] habitaram os filhos de José, filho de Israel."
+"E da parte dos filhos de Manassés, Bete-Seã com suas aldeias, Taanaque com suas aldeias, Megido com suas #aldeias, e Dor com suas aldeias. Nestes [lugares] habitaram os filhos de José, filho de Israel."
 "Os filhos de Aser foram
 "Os filhos de Berias foram
 "E Héber gerou a Jaflete, Semer, Hotão, e sua irmã Suá."
@@ -37,4 +37,4 @@
 "Bezer, Hode, Samá, Silsa, Iltrã e Beera."
 "Os filhos de Jéter foram
 "E os filhos de Ula foram; Ara, Haniel, e Rizia."
-"Todos estes foram filhos de Aser, cabeças de famílias paternas, escolhidos guerreiros valentes, chefes de príncipes; e foram contados em suas genealogias no exército para a guerra, em número de vinte e seis mil homens."
+"Todos estes foram filhos de Aser, cabeças de famílias paternas, escolhidos guerreiros valentes, chefes de príncipes; e foram #contados em suas genealogias no exército para a guerra, em número de vinte e seis mil homens."

@@ -9,19 +9,19 @@
 "Niin meni David matkaan, hän ja kuusisataa miestä, jotka hänen kanssansa olivat, ja tulivat Besorin ojan tykö; ja muut seisahtivat siinä."
 "Mutta David ja neljäsataa miestä ajoivat takaa; mutta kaksisataa miestä, jotka siihen seisomaan jäivät, suuttuivat menemästä Besorin ojan ylitse."
 "Ja he löysivät yhden Egyptin miehen kedolta, sen he veivät Davidin tykö, ja antoivat hänen leipää syödä ja vettä juoda,"
-"Ja antoivat rypäleen fikunia ja kaksi rypälettä rusinoita; ja sittenkuin hän oli syönyt, tuli hänen henkensä virvoitetuksi, sillä ei hän ollut kolmena päivänä eikä kolmena yönä leipää syönyt eikä vettä juonut."
+"Ja antoivat rypäleen fikunia ja kaksi rypälettä rusinoita; ja sittenkuin hän oli syönyt, tuli hänen henkensä #virvoitetuksi, sillä ei hän ollut kolmena päivänä eikä kolmena yönä leipää syönyt eikä vettä juonut."
 "Ja David sanoi hänelle
 "Me ryöstimme etelästä päin Kretin ja Juudan, etelästä päin Kalebin, ja poltimme Ziglagin."
 "David sanoi hänelle
-"Ja hän vei hänen; ja katso, he olivat hajoittaneet heitänsä koko maahan, söivät, joivat ja hyppäsivät ilosta kaiken sen suuren saaliin tähden, jonka he olivat saaneet Philistealaisten ja Juudan maalta."
+"Ja hän vei hänen; ja katso, he olivat hajoittaneet heitänsä koko maahan, söivät, joivat ja hyppäsivät #ilosta kaiken sen suuren saaliin tähden, jonka he olivat saaneet Philistealaisten ja Juudan maalta."
 "Ja David löi heitä aamuhämärästä ruveten ehtooseen asti, liki toiseen päivään; niin ettei heistä yhtäkään päässyt, paitsi neljäsataa nuorukaista, jotka istuivat kamelein päälle ja pakenivat."
 "Niin David pelasti kaikki mitä Amalekilaiset ottaneet olivat, ja David pelasti myös kaksi emäntäänsä."
 "Ja ei puuttunut niistä mitään, pientä eli suurta, pojista ja tyttäristä, eli saaliista kun he heillensä ottaneet olivat
 "Ja David otti kaikki lampaat ja härjät ja antoi ajaa ne karjansa edellä, ja he sanoivat
-"Ja kuin David tuli kahdensadan miehen tykö, jotka olivat suuttuneet seuraamasta Davidia ja olivat jääneet Besorin ojan tykö, menivät he Davidia vastaan ja sitä sotaväkeä joka hänen kanssansa oli. Ja David meni sen väen tykö ja tervehti heitä ystävällisesti."
+"Ja kuin David tuli kahdensadan miehen tykö, jotka olivat suuttuneet seuraamasta Davidia ja olivat jääneet Besorin ojan tykö, menivät he #Davidia vastaan ja sitä sotaväkeä joka hänen kanssansa oli. Ja David meni sen väen tykö ja tervehti heitä ystävällisesti."
 "Niin vastasivat kaikki ne, jotka pahat ja tylyt miehet olivat niiden seasta, jotka Davidin kanssa olivat matkustaneet, ja sanoivat
 "Niin sanoi David
-"Kuka teitä pitää kuuleman tässä asiassa? Senkaltainen kuin niiden osa on, jotka olivat sodassa meidän kanssamme, pitää myös oleman heidän osansa jotka kaluin tykönä ovat olleet, ja pitää yhdenkaltainen jako oleman."
+"Kuka teitä pitää kuuleman tässä asiassa? Senkaltainen kuin niiden osa on, jotka olivat sodassa meidän kanssamme, #pitää myös oleman heidän osansa jotka kaluin tykönä ovat olleet, ja pitää yhdenkaltainen jako oleman."
 "Tämä on ollut siitä ajasta ja aina sitte sääty ja oikeus Israelissa tähän päivään asti."
 "Ja David tuli Ziglagiin ja lähetti saaliista ylimmäisille Juudasta, jotka hänen ystävänsä olivat, ja sanoi
 "Niille jotka olivat Betelissä, niille Ramotissa etelään päin, niille Jatirissa,"

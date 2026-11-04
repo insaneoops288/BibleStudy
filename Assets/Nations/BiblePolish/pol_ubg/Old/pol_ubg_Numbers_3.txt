@@ -1,7 +1,7 @@
 "To są dzieje rodu Aarona i Mojżesza w dniu, w którym PAN rozmawiał z Mojżeszem na górze Synaj."
 "A to są imiona synów Aarona
 "To są imiona synów Aarona, namaszczonych kapłanów, których poświęcił, aby pełnili urząd kapłański."
-"Lecz Nadab i Abihu umarli przed PANEM, gdy ofiarowali inny ogień przed PANEM na pustyni Synaj, i odeszli bez potomków. Eleazar i Itamar pełnili więc urząd kapłański przed obliczem swego ojca Aarona."
+"Lecz Nadab i Abihu umarli przed PANEM, gdy ofiarowali inny ogień przed PANEM na pustyni Synaj, i #odeszli bez potomków. Eleazar i Itamar pełnili więc urząd kapłański przed obliczem swego ojca Aarona."
 "Wtedy PAN powiedział do Mojżesza
 "Każ się zbliżyć pokoleniu Lewiego i postaw ich przed kapłanem Aaronem, aby mu służyli;"
 "I pełnili straż, która go obowiązuje oraz straż całego zgromadzenia, przed Namiotem Zgromadzenia, wykonując służbę przybytku."
@@ -10,7 +10,7 @@
 "Aarona zaś i jego synów ustanowisz, aby pełnili swoje kapłaństwo. A obcy, który się zbliży, poniesie śmierć."
 "Potem PAN powiedział do Mojżesza
 "Oto wziąłem Lewitów spośród synów Izraela na miejsce wszystkich pierworodnych, którzy otwierają łono wśród synów Izraela, i dlatego Lewici będą należeć do mnie."
-"Do mnie bowiem należy wszystko, co pierworodne. W dniu, kiedy zabiłem wszystko, co pierworodne w ziemi Egiptu, poświęciłem sobie wszystko, co pierworodne w Izraelu, od człowieka aż do zwierzęcia. Będą należeć do mnie; ja jestem PAN."
+"Do mnie bowiem należy wszystko, co pierworodne. W dniu, kiedy zabiłem wszystko, co pierworodne w ziemi Egiptu, poświęciłem sobie #wszystko, co pierworodne w Izraelu, od człowieka aż do zwierzęcia. Będą należeć do mnie; ja jestem PAN."
 "PAN powiedział też do Mojżesza na pustyni Synaj
 "Policz synów Lewiego według domów ich ojców i według ich rodzin. Policzysz każdego mężczyznę w wieku od jednego miesiąca wzwyż."
 "I Mojżesz policzył ich według słowa PANA, jak mu rozkazano."
@@ -35,7 +35,7 @@
 "Wodzem zaś domu ojca rodzin Merariego był Suriel, syn Abichaila. Oni rozbiją obóz po stronie północnej przybytku."
 "A pod nadzorem i strażą synów Merariego będą deski przybytku, jego drążki, słupy i podstawki oraz wszystkie jego sprzęty wraz z całą jego obsługą;"
 "Także słupy wokoło dziedzińca, ich podstawki, kołki i ich sznury."
-"A przed przybytkiem od strony wschodniej, przed Namiotem Zgromadzenia, rozbiją obóz Mojżesz, Aaron i jego synowie, pełniący straż w świątyni za synów Izraela; a obcy, który się zbliży, poniesie śmierć."
+"A przed przybytkiem od strony wschodniej, przed Namiotem Zgromadzenia, rozbiją obóz Mojżesz, Aaron i jego synowie, #pełniący straż w świątyni za synów Izraela; a obcy, który się zbliży, poniesie śmierć."
 "Wszystkich Lewitów policzonych przez Mojżesza i Aarona na rozkaz PANA według ich rodzin, wszystkich mężczyzn w wieku od jednego miesiąca wzwyż było dwadzieścia dwa tysiące."
 "Wtedy PAN powiedział do Mojżesza
 "I weźmiesz dla mnie Lewitów – ja jestem PAN – w zamian za wszystkich pierworodnych spośród synów Izraela, a także bydła Lewitów zamiast wszystkiego, co pierworodne, wśród bydła synów Izraela."

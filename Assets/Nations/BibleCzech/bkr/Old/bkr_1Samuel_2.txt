@@ -25,7 +25,7 @@
 "Zhřeší-li člověk proti člověku, souditi ho bude soudce; pakli kdo zhřeší proti Hospodinu, kdo se zasadí o něho? Ale neuposlechli hlasu otce svého, nebo je chtěl zbíti Hospodin."
 "Ale mládenček Samuel prospíval a rostl, a milý byl, jakož před Hospodinem, tak i před lidmi."
 "I přišel muž Boží k Elí a řekl jemu
-"A vyvolil jsem ho sobě ze všech pokolení Izraelských za kněze, aby obětoval na oltáři mém, a aby kadil vonnými věcmi a nosil efod přede mnou; dal jsem také domu otce tvého všecky ohnivé oběti synů Izraelských."
+"A vyvolil jsem ho sobě ze všech pokolení Izraelských za kněze, aby obětoval na oltáři mém, a aby kadil #vonnými věcmi a nosil efod přede mnou; dal jsem také domu otce tvého všecky ohnivé oběti synů Izraelských."
 "Proč pošlapáváte obět mou, i suchou obět mou, kterouž jsem přikázal v příbytku tomto? A víces ctil syny své nežli mne, abyste tyli prvotinami všech obětí suchých Izraele lidu mého."
 "Protož praví Hospodin Bůh Izraelský
 "Aj, dnové přicházejí, že odetnu rámě tvé a rámě domu otce tvého, aby nebylo starce v domě tvém."

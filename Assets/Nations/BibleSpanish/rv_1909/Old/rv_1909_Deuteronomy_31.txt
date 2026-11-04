@@ -9,7 +9,7 @@
 "Y escribió Moisés esta ley, y dióla á los sacerdotes, hijos de Leví, que llevaban el arca del pacto de Jehová, y á todos los ancianos de Israel."
 "Y mandóles Moisés, diciendo
 "Cuando viniere todo Israel á presentarse delante de Jehová tu Dios en el lugar que él escogiere, leerás esta ley delante de todo Israel á oídos de ellos."
-"Harás congregar el pueblo, varones y mujeres y niños, y tus extranjeros que estuvieren en tus ciudades, para que oigan y aprendan, y teman á Jehová vuestro Dios, y cuiden de poner por obra todas las palabras de esta ley
+"Harás congregar el pueblo, varones y mujeres y niños, y tus extranjeros que estuvieren en tus ciudades, para que oigan y #aprendan, y teman á Jehová vuestro Dios, y cuiden de poner por obra todas las palabras de esta ley
 "Y los hijos de ellos que no supieron oigan, y aprendan á temer á Jehová vuestro Dios todos los días que viviereis sobre la tierra, para ir á la cual pasáis el Jordán para poseerla."
 "Y Jehová dijo á Moisés
 "Y aparecióse Jehová en el tabernáculo, en la columna de nube; y la columna de nube se puso sobre la puerta del tabernáculo."
@@ -26,5 +26,5 @@
 "Tomad este libro de la ley, y ponedlo al lado del arca del pacto de Jehová vuestro Dios, y esté allí por testigo contra ti."
 "Porque yo conozco tu rebelión, y tu cerviz dura
 "Congregad á mí todos los ancianos de vuestras tribus, y á vuestros oficiales, y hablaré en sus oídos estas palabras, y llamaré por testigos contra ellos los cielos y la tierra."
-"Porque yo sé que después de mi muerte, ciertamente os corromperéis y os aparteréis del camino que os he mandado; y que os ha de venir mal en los postreros días, por haber hecho mal en ojos de Jehová, enojándole con la obra de vuestras manos."
+"Porque yo sé que después de mi muerte, ciertamente os corromperéis y os aparteréis del camino que os he mandado; y que os ha #de venir mal en los postreros días, por haber hecho mal en ojos de Jehová, enojándole con la obra de vuestras manos."
 "Entonces habló Moisés en oídos de toda la congregación de Israel las palabras de este cántico hasta acabarlo."

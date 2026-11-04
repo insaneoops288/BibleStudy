@@ -31,5 +31,5 @@
 "Ugyanazon napon jövének [õ] hozzá némelyek a farizeusok közül, mondván néki
 "És monda nékik
 "Hanem nékem ma és holnap és azután úton kell lennem; mert nem lehetséges, hogy a próféta Jeruzsálemen kívül vesszen el."
-"Jeruzsálem! Jeruzsálem! ki megölöd a prófétákat, és megkövezed azokat, a kik te hozzád küldettek, hányszor akartam egybegyûjteni a te fiaidat, miképen a tyúk az õ kis csirkéit az õ szárnyai alá, és ti nem akarátok!"
+"Jeruzsálem! Jeruzsálem! ki megölöd a prófétákat, és megkövezed azokat, a kik te hozzád küldettek, hányszor akartam egybegyûjteni a #te fiaidat, miképen a tyúk az õ kis csirkéit az õ szárnyai alá, és ti nem akarátok!"
 "Ímé pusztán hagyatik néktek a ti házatok; és bizony mondom néktek, hogy nem láttok engem, mígnem eljõ [az] [idõ,] mikor [ezt] mondjátok

@@ -7,7 +7,7 @@
 "At ang bansang sa kanila'y aalipin ay aking hahatulan, sabi ng Dios
 "At ibinigay niya sa kaniya ang tipan ng pagtutuli
 "At ang mga patriarka sa udyok ng kainggitan kay Jose, ay ipinagbili siya, upang dalhin sa Egipto; at ang Dios ay sumasa kaniya,"
-"At siya'y iniligtas sa lahat ng kaniyang kapighatian, at siya'y binigyan ng ikalulugod at karunungan sa harapan ni Faraon na hari sa Egipto; at siya'y ginawang gobernador sa Egipto at sa buong bahay niya."
+"At siya'y iniligtas sa lahat ng kaniyang kapighatian, at siya'y binigyan ng ikalulugod at karunungan sa harapan ni #Faraon na hari sa Egipto; at siya'y ginawang gobernador sa Egipto at sa buong bahay niya."
 "Dumating nga ang kagutom sa buong Egipto at sa Canaan, at nagkaroon ng malaking kapighatian
 "Datapuwa't nang marinig ni Jacob na may trigo sa Egipto, ay sinugo niyang una ang ating mga magulang."
 "At sa ikalawa'y napakilala si Jose sa kaniyang mga kapatid; at nahayag kay Faraon ang lahi ni Jose."
@@ -32,24 +32,24 @@
 "Ako ang Dios ng iyong mga magulang, ang Dios ni Abraham, at ni Isaac, at ni Jacob. At si Moises ay nanginig at hindi nangahas tumingin."
 "At sinabi sa kaniya ng Panginoon, Alisin mo ang mga pangyapak sa iyong mga paa
 "Totoong nakita ko ang kapighatian ng aking bayang nasa Egipto, at narinig ko ang kanilang hibik, at ako'y bumaba upang sila'y iligtas
-"Ang Moises na ito na kanilang itinakuwil, na sinasabi, Sino ang sa iyo'y naglagay na puno at hukom? ay siyang sinugo ng Dios na maging puno at tagapagligtas sa pamamagitan ng kamay ng anghel na sa kaniya'y napakita sa mababang punong kahoy."
+"Ang Moises na ito na kanilang itinakuwil, na sinasabi, Sino ang sa iyo'y naglagay na puno at hukom? ay siyang sinugo ng #Dios na maging puno at tagapagligtas sa pamamagitan ng kamay ng anghel na sa kaniya'y napakita sa mababang punong kahoy."
 "Pinatnugutan sila ng taong ito, pagkagawa ng mga kababalaghan at mga tanda sa Egipto, at sa dagat na Pula, at sa ilang sa loob ng apat na pung taon."
 "Ito'y yaong Moises, na nagsabi sa mga anak ni Israel, Palilitawin ng Dios sa inyo ang isang propeta na gaya ko, mula sa inyong mga kapatid."
 "Ito'y yaong naroon sa iglesia sa ilang na kasama ang anghel na nagsalita sa kaniya sa bundok ng Sinai, at kasama ang ating mga magulang
 "Sa kaniya'y ayaw magsitalima ang ating mga magulang, kundi siya'y kanilang itinakuwil, at sa kanilang mga puso'y nangagbalik sa Egipto,"
 "Na sinasabi kay Aaron, Igawa mo kami ng mga dios na mangunguna sa amin
 "At nagsigawa sila nang mga araw na yaon ng isang guyang baka, at nagsipaghandog ng hain sa diosdiosang yaon, at nangatuwa sa mga gawa ng kanilang mga kamay."
-"Datapuwa't tumalikod ang Dios, at sila'y pinabayaang magsisamba sa hukbo ng langit; gaya ng nasusulat sa aklat ng mga propeta, Hinandugan baga ninyo ako ng mga hayop na pinatay at mga hain Na apat na pung taon sa ilang, Oh angkan ni Israel?"
+"Datapuwa't tumalikod ang Dios, at sila'y pinabayaang magsisamba sa hukbo ng langit; gaya ng nasusulat sa aklat ng mga propeta, Hinandugan baga #ninyo ako ng mga hayop na pinatay at mga hain Na apat na pung taon sa ilang, Oh angkan ni Israel?"
 "At dinala ninyo ang tabernakulo ni Moloc, At ang bituin ng dios Refan, Ang mga larawang ginawa ninyo upang inyong sambahin
 "Sumaating mga magulang sa ilang ang tabernakulo ng patotoo, ayon sa itinakda ng nagsalita kay Moises, na kaniyang gawin yaon alinsunod sa anyong kaniyang nakita."
-"Na yao'y ipinasok din ng ating mga magulang sa kapanahunang ukol, na kasama ni Josue nang sila'y magsipasok sa inaari ng mga bansa, na pinalayas ng Dios sa harapan ng ating magulang, hanggang sa mga araw ni David;"
+"Na yao'y ipinasok din ng ating mga magulang sa kapanahunang ukol, na kasama ni Josue nang sila'y magsipasok sa inaari #ng mga bansa, na pinalayas ng Dios sa harapan ng ating magulang, hanggang sa mga araw ni David;"
 "Na nakasumpong ng biyaya sa paningin ng Dios, at huminging makasumpong ng isang tahanang ukol sa Dios ni Jacob."
 "Datapuwa't iginawa siya ni Salomon ng isang bahay."
 "Bagama't ang Kataastaasa'y hindi tumatahan sa mga bahay na gawa ng mga kamay; gaya ng sinasabi ng propeta,"
 "Ang langit ay ang aking luklukan, At ang lupa ang tungtungan ng aking mga paa
 "Hindi baga ginawa ng aking kamay ang lahat ng mga bagay na ito?"
 "Kayong matitigas ang ulo, at di tuli ang puso't mga tainga, kayo'y laging nagsisisalangsang sa Espiritu Santo
-"Alin sa mga propeta ang hindi pinagusig ng inyong mga magulang? at kanilang pinatay ang nangagpahayag ng una ng pagdating ng Matuwid na Ito; na sa kaniya'y kayo ngayon ay nangaging mga tagapagkanulo at mamamatay-tao;"
+"Alin sa mga propeta ang hindi pinagusig ng inyong mga magulang? at kanilang pinatay ang nangagpahayag ng una #ng pagdating ng Matuwid na Ito; na sa kaniya'y kayo ngayon ay nangaging mga tagapagkanulo at mamamatay-tao;"
 "Kayo na nagsitanggap ng kautusan ayon sa pangangasiwa ng mga anghel, at hindi ninyo ginanap."
 "Nang marinig nga nila ang mga bagay na ito, ay nangasugatan sila sa puso, at siya'y pinagngalitan nila ng kanilang mga ngipin."
 "Datapuwa't siya, palibhasa'y puspos ng Espiritu Santo ay tumitig na maigi sa langit, at nakita niya ang kaluwalhatian ng Dios, at si Jesus na nakatindig sa kanan ng Dios,"

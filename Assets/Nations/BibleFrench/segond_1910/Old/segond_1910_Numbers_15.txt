@@ -1,6 +1,6 @@
 "L'Eternel parla à Moïse, et dit
 "Parle aux enfants d'Israël, et dis-leur
-"et que vous offrirez à l'Eternel un sacrifice consumé par le feu, soit un holocauste, soit un sacrifice en accomplissement d'un voeu ou en offrande volontaire, ou bien dans vos fêtes, pour produire avec votre gros ou votre menu bétail une agréable odeur à l'Eternel, -"
+"et que vous offrirez à l'Eternel un sacrifice consumé par le feu, soit un holocauste, soit un sacrifice en accomplissement d'un voeu ou en #offrande volontaire, ou bien dans vos fêtes, pour produire avec votre gros ou votre menu bétail une agréable odeur à l'Eternel, -"
 "celui qui fera son offrande à l'Eternel présentera en offrande un dixième de fleur de farine pétrie dans un quart de hin d'huile,"
 "et tu feras une libation d'un quart de hin de vin, avec l'holocauste ou le sacrifice, pour chaque agneau."
 "Pour un bélier, tu présenteras en offrande deux dixièmes de fleur de farine pétrie dans un tiers de hin d'huile,"
@@ -21,8 +21,8 @@
 "Vous prélèverez pour l'Eternel une offrande des prémices de votre pâte, dans les temps à venir."
 "Si vous péchez involontairement, en n'observant pas tous ces commandements que l'Eternel a fait connaître à Moïse,"
 "tout ce que l'Eternel vous a ordonné par Moïse, depuis le jour où l'Eternel a donné des commandements et plus tard dans les temps à venir;"
-"si l'on a péché involontairement, sans que l'assemblée s'en soit aperçue, toute l'assemblée offrira un jeune taureau en holocauste d'une agréable odeur à l'Eternel, avec l'offrande et la libation, d'après les règles établies; elle offrira encore un bouc en sacrifice d'expiation."
-"Le sacrificateur fera l'expiation pour toute l'assemblée des enfants d'Israël, et il leur sera pardonné; car ils ont péché involontairement, et ils ont apporté leur offrande, un sacrifice consumé par le feu en l'honneur de l'Eternel et une victime expiatoire devant l'Eternel, à cause du péché qu'ils ont involontairement commis."
+"si l'on a péché involontairement, sans que l'assemblée s'en soit aperçue, toute l'assemblée offrira un jeune taureau en holocauste d'une agréable #odeur à l'Eternel, avec l'offrande et la libation, d'après les règles établies; elle offrira encore un bouc en sacrifice d'expiation."
+"Le sacrificateur fera l'expiation pour toute l'assemblée des enfants d'Israël, et il leur sera pardonné; car ils ont péché involontairement, et ils ont apporté leur offrande, #un sacrifice consumé par le feu en l'honneur de l'Eternel et une victime expiatoire devant l'Eternel, à cause du péché qu'ils ont involontairement commis."
 "Il sera pardonné à toute l'assemblée des enfants d'Israël et à l'étranger en séjour au milieu d'eux, car c'est involontairement que tout le peuple a péché."
 "Si c'est une seule personne qui a péché involontairement, elle offrira une chèvre d'un an en sacrifice pour le péché."
 "Le sacrificateur fera l'expiation pour la personne qui a péché involontairement devant l'Eternel
@@ -35,7 +35,7 @@
 "L'Eternel dit à Moïse
 "Toute l'assemblée le fit sortir du camp et le lapida, et il mourut, comme l'Eternel l'avait ordonné à Moïse."
 "L'Eternel dit à Moïse
-"Parle aux enfants d'Israël, et dis-leur qu'ils se fassent, de génération en génération, une frange au bord de leurs vêtements, et qu'ils mettent un cordon bleu sur cette frange du bord de leurs vêtements."
-"Quand vous aurez cette frange, vous la regarderez, et vous vous souviendrez de tous les commandements de l'Eternel pour les mettre en pratique, et vous ne suivrez pas les désirs de vos coeurs et de vos yeux pour vous laisser entraîner à l'infidélité."
+"Parle aux enfants d'Israël, et dis-leur qu'ils se fassent, de génération en génération, une frange au bord de #leurs vêtements, et qu'ils mettent un cordon bleu sur cette frange du bord de leurs vêtements."
+"Quand vous aurez cette frange, vous la regarderez, et vous vous souviendrez de tous les commandements de l'Eternel pour les mettre en #pratique, et vous ne suivrez pas les désirs de vos coeurs et de vos yeux pour vous laisser entraîner à l'infidélité."
 "Vous vous souviendrez ainsi de mes commandements, vous les mettrez en pratique, et vous serez saints pour votre Dieu."
 "Je suis l'Eternel, votre Dieu, qui vous ai fait sortir du pays d'Egypte, pour être votre Dieu. Je suis l'Eternel, votre Dieu."

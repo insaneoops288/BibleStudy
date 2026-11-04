@@ -3,7 +3,7 @@
 "Tetapi aku mau, supaya kamu mengetahui hal ini, yaitu Kepala dari tiap-tiap laki-laki ialah Kristus, kepala dari perempuan ialah laki-laki dan Kepala dari Kristus ialah Allah."
 "Tiap-tiap laki-laki yang berdoa atau bernubuat dengan kepala yang bertudung, menghina kepalanya."
 "Tetapi tiap-tiap perempuan yang berdoa atau bernubuat dengan kepala yang tidak bertudung, menghina kepalanya, sebab ia sama dengan perempuan yang dicukur rambutnya."
-"Sebab jika perempuan tidak mau menudungi kepalanya, maka haruslah ia juga menggunting rambutnya. Tetapi jika bagi perempuan adalah penghinaan, bahwa rambutnya digunting atau dicukur, maka haruslah ia menudungi kepalanya."
+"Sebab jika perempuan tidak mau menudungi kepalanya, maka haruslah ia juga menggunting rambutnya. Tetapi jika #bagi perempuan adalah penghinaan, bahwa rambutnya digunting atau dicukur, maka haruslah ia menudungi kepalanya."
 "Sebab laki-laki tidak perlu menudungi kepalanya
 "Sebab laki-laki tidak berasal dari perempuan, tetapi perempuan berasal dari laki-laki."
 "Dan laki-laki tidak diciptakan karena perempuan, tetapi perempuan diciptakan karena laki-laki."
@@ -19,7 +19,7 @@
 "Sebab di antara kamu harus ada perpecahan, supaya nyata nanti siapakah di antara kamu yang tahan uji."
 "Apabila kamu berkumpul, kamu bukanlah berkumpul untuk makan perjamuan Tuhan."
 "Sebab pada perjamuan itu tiap-tiap orang memakan dahulu makanannya sendiri, sehingga yang seorang lapar dan yang lain mabuk."
-"Apakah kamu tidak mempunyai rumah sendiri untuk makan dan minum? Atau maukah kamu menghinakan Jemaat Allah dan memalukan orang-orang yang tidak mempunyai apa-apa? Apakah yang kukatakan kepada kamu? Memuji kamu? Dalam hal ini aku tidak memuji."
+"Apakah kamu tidak mempunyai rumah sendiri untuk makan dan minum? Atau maukah kamu menghinakan Jemaat Allah dan memalukan orang-orang #yang tidak mempunyai apa-apa? Apakah yang kukatakan kepada kamu? Memuji kamu? Dalam hal ini aku tidak memuji."
 "Sebab apa yang telah kuteruskan kepadamu, telah aku terima dari Tuhan, yaitu bahwa Tuhan Yesus, pada malam waktu Ia diserahkan, mengambil roti"
 "dan sesudah itu Ia mengucap syukur atasnya; Ia memecah-mecahkannya dan berkata
 "Demikian juga Ia mengambil cawan, sesudah makan, lalu berkata

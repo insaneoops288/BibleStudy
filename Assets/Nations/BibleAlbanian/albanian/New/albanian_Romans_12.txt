@@ -1,6 +1,6 @@
 "O vëllezër, po ju bëj thirrje, nëpërmjet dhembshurisë së Perëndisë, ta paraqisni trupin tuaj si fli të gjallë, të shenjtëruar, të pëlqyer te Perëndia, që është shërbesa juaj e mënçur."
 "Dhe mos u konformoni me këtë botë, por transformohuni me anë të ripërtëritjes së mendjes suaj, që të provoni cili është i miri, i pëlqyeri dhe i përsosuri vullnet i Perëndisë."
-"Sepse, për hirin që më është dhënë, unë i them secilit prej jush të mos e vlerësojë veten më shumë se sa duhet ta çmojë, por të ketë një vlerësim të përkorë, sipas masës së besimit që Perëndia i ndau secilit."
+"Sepse, për hirin që më është dhënë, unë i them secilit prej jush të mos e vlerësojë veten më shumë se #sa duhet ta çmojë, por të ketë një vlerësim të përkorë, sipas masës së besimit që Perëndia i ndau secilit."
 "Sepse, sikurse në një trup kemi shumë gjymtyrë dhe të gjitha gjymtyrët nuk kanë të njëjtën funksion,"
 "kështu edhe ne, megjithse jemi shumë, jemi një trup në Krishtin dhe secili jemi gjymtyrë të njeri tjetrit."
 "Dhe tani, duke pasur dhunti të ndryshme sipas hirit që na u dha, nëse kemi profecinë, të profetizojmë sipas masës së besimit;"

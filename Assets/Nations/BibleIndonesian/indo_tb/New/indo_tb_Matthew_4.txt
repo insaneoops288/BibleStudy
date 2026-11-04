@@ -15,11 +15,11 @@
 """Tanah Zebulon dan tanah Naftali, jalan ke laut, daerah seberang sungai Yordan, Galilea, wilayah bangsa-bangsa lain, ,"
 "bangsa yang diam dalam kegelapan, telah melihat Terang yang besar dan bagi mereka yang diam di negeri yang dinaungi maut, telah terbit Terang."""
 "Sejak waktu itulah Yesus memberitakan
-"Dan ketika Yesus sedang berjalan menyusur danau Galilea, Ia melihat dua orang bersaudara, yaitu Simon yang disebut Petrus, dan Andreas, saudaranya. Mereka sedang menebarkan jala di danau, sebab mereka penjala ikan."
+"Dan ketika Yesus sedang berjalan menyusur danau Galilea, Ia melihat dua orang bersaudara, yaitu Simon yang #disebut Petrus, dan Andreas, saudaranya. Mereka sedang menebarkan jala di danau, sebab mereka penjala ikan."
 "Yesus berkata kepada mereka
 "Lalu merekapun segera meninggalkan jalanya dan mengikuti Dia."
-"Dan setelah Yesus pergi dari sana, dilihat-Nya pula dua orang bersaudara, yaitu Yakobus anak Zebedeus dan Yohanes saudaranya, bersama ayah mereka, Zebedeus, sedang membereskan jala di dalam perahu. Yesus memanggil mereka"
+"Dan setelah Yesus pergi dari sana, dilihat-Nya pula dua orang bersaudara, yaitu Yakobus anak Zebedeus dan #Yohanes saudaranya, bersama ayah mereka, Zebedeus, sedang membereskan jala di dalam perahu. Yesus memanggil mereka"
 "dan mereka segera meninggalkan perahu serta ayahnya, lalu mengikuti Dia."
 "Yesuspun berkeliling di seluruh Galilea; Ia mengajar dalam rumah-rumah ibadat dan memberitakan Injil Kerajaan Allah serta melenyapkan segala penyakit dan kelemahan di antara bangsa itu."
-"Maka tersiarlah berita tentang Dia di seluruh Siria dan dibawalah kepada-Nya semua orang yang buruk keadaannya, yang menderita pelbagai penyakit dan sengsara, yang kerasukan, yang sakit ayan dan yang lumpuh, lalu Yesus menyembuhkan mereka."
+"Maka tersiarlah berita tentang Dia di seluruh Siria dan dibawalah kepada-Nya semua orang yang buruk keadaannya, yang menderita #pelbagai penyakit dan sengsara, yang kerasukan, yang sakit ayan dan yang lumpuh, lalu Yesus menyembuhkan mereka."
 "Maka orang banyak berbondong-bondong mengikuti Dia. Mereka datang dari Galilea dan dari Dekapolis, dari Yerusalem dan dari Yudea dan dari seberang Yordan."

@@ -1,12 +1,12 @@
 "Es hatte nun zwar auch der erste Bund Satzungen des Dienstes und das Heiligtum, ein weltliches."
 "Denn eine Hütte wurde zugerichtet, die vordere, in welcher sowohl der Leuchter war als auch der Tisch und die Darstellung der Brote, welche das Heilige genannt wird;"
 "hinter dem zweiten Vorhang aber eine Hütte, welche das Allerheiligste genannt wird,"
-"die ein goldenes Räucherfaß hatte und die Lade des Bundes,überall mit Goldüberdeckt, in welcher der goldene Krug war, der das Manna enthielt, und der Stab Aarons, der gesproßt hatte, und die Tafeln des Bundes;"
+"die ein goldenes Räucherfaß hatte und die Lade des Bundes,überall mit Goldüberdeckt, in welcher der goldene Krug war, #der das Manna enthielt, und der Stab Aarons, der gesproßt hatte, und die Tafeln des Bundes;"
 "obenüber derselben aber die Cherubim der Herrlichkeit, den Versöhnungsdeckelüberschattend, von welchen Dingen jetzt nicht im einzelnen zu reden ist."
 "Da nun dieses also eingerichtet ist, gehen in die vordere Hütte allezeit die Priester hinein und vollbringen den Dienst;"
 "in die zweite aber einmal des Jahres allein der Hohepriester, nicht ohne Blut, welches er für sich selbst und für die Verirrungen des Volkes darbringt;"
 "wodurch der Heilige Geist dieses anzeigt, daß der Weg zum Heiligtum noch nicht geoffenbart ist, solange die vordere Hütte noch Bestand hat,"
-"welches ein Gleichnis auf die gegenwärtige Zeit ist, nach welchem sowohl Gaben als auch Schlachtopfer dargebracht werden, die dem Gewissen nach den nicht vollkommen machen können, der den Gottesdienstübt,"
+"welches ein Gleichnis auf die gegenwärtige Zeit ist, nach welchem sowohl Gaben als auch Schlachtopfer #dargebracht werden, die dem Gewissen nach den nicht vollkommen machen können, der den Gottesdienstübt,"
 "welcher allein in Speisen und Getränken und verschiedenen Waschungen besteht, in Satzungen des Fleisches, auferlegt bis auf die Zeit der Zurechtbringung."
 "Christus aber, gekommen als Hoherpriester der zukünftigen Güter, in Verbindung mit der größeren und vollkommneren Hütte, die nicht mit Händen gemacht(das heißt nicht von dieser Schöpfung ist),"
 "auch nicht mit Blut von Böcken und Kälbern, sondern mit seinem eigenen Blute, ist ein für allemal in das Heiligtum eingegangen, als er eine ewige Erlösung erfunden hatte."
@@ -16,7 +16,7 @@
 "(denn wo ein Testament ist, da muß notwendig der Tod dessen eintreten, der das Testament gemacht hat."
 "Denn ein Testament ist gültig, wenn der Tod eingetreten ist, weil es niemals Kraft hat, solange der lebt, der das Testament gemacht hat;)"
 "daher ist auch der erste Bund nicht ohne Blut eingeweiht worden."
-"Denn als jedes Gebot nach dem Gesetz von Moses zu dem ganzen Volke geredet war, nahm er das Blut der Kälber und Böcke mit Wasser und Purpurwolle und Ysop und besprengte sowohl das Buch selbst als auch das ganze Volk, und sprach
+"Denn als jedes Gebot nach dem Gesetz von Moses zu dem ganzen Volke geredet war, nahm er das Blut der Kälber und #Böcke mit Wasser und Purpurwolle und Ysop und besprengte sowohl das Buch selbst als auch das ganze Volk, und sprach
 """Dies ist das Blut des Bundes, den Gott für euch geboten hat""."
 "Und auch die Hütte und alle Gefäße des Dienstes besprengte er gleicherweise mit dem Blute;"
 "und fast alle Dinge werden mit Blut gereinigt nach dem Gesetz, und ohne Blutvergießung gibt es keine Vergebung."

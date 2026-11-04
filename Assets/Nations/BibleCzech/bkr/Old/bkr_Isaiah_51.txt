@@ -1,6 +1,6 @@
 "Poslouchejte mne, následovníci spravedlnosti, kteříž hledáte Hospodina, pohleďte na skálu, odkudž vyťati jste, a na hlubokost jámy, z níž vykopáni jste."
 "Pohleďte na Abrahama otce vašeho, a na Sáru, kteráž vás porodila, že jsem jej jediného povolal, a požehnal jsem jemu, i rozmnožil jej."
-"Nebo potěší Hospodin Siona, potěší všech pustin jeho, a učiní poušť jeho přerozkošnou, a pustinu jeho podobnou zahradě Hospodinově. Radost a veselí bude nalezeno v něm, díkčinění, a hlas žalmů zpívání."
+"Nebo potěší Hospodin Siona, potěší všech pustin jeho, a učiní poušť jeho přerozkošnou, a pustinu jeho #podobnou zahradě Hospodinově. Radost a veselí bude nalezeno v něm, díkčinění, a hlas žalmů zpívání."
 "Pozorujte mne, lide můj, a rodino má, nastavte mi uší; nebo zákon ode mne vyjde, a soud svůj za světlo národům vystavím."
 "Blízko jest spravedlnost má, vyjdeť spasení mé, a ramena má národy souditi budou. Na mneť ostrovové čekají, a po mém rameni touží."
 "Pozdvihněte k nebi očí svých, a popatřte na zem dolů. Nebesa zajisté jako dým zmizejí, a země jako roucho zvetší, a obyvatelé její též podobně zemrou
@@ -10,7 +10,7 @@
 "Zdaliž ty nejsi to, kteréžs vysušilo moře, vody propasti veliké, kteréžs obrátilo hlubiny mořské v cestu, aby přešli ti, jenž byli vysvobozeni?"
 "A tak ti, kteréž vykoupil Hospodin, ať se navrátí, a přijdou na Sion s prozpěvováním, a veselé věčné ať jest na hlavě jejich; radosti a veselé ať dojdou, zámutek pak a úpění ať utekou."
 "Já, já jsem utěšitel váš. Jakáž jsi ty, že se bojíš člověka smrtelného, a syna člověka trávě podobného?"
-"Že se zapomínáš na Hospodina učinitele svého, kterýž roztáhl nebesa, a založil zemi, a že se děsíš ustavičně každého dne prchlivosti ssužujícího, jakž se jen postrojí, aby hubil? Ale kdež jest pak ta prchlivost toho,kterýž ssužuje?"
+"Že se zapomínáš na Hospodina učinitele svého, kterýž roztáhl nebesa, a založil zemi, a že se děsíš ustavičně každého #dne prchlivosti ssužujícího, jakž se jen postrojí, aby hubil? Ale kdež jest pak ta prchlivost toho,kterýž ssužuje?"
 "Pospíšíť, aby zajatý propuštěn byl; neboť neumře v jámě, aniž bude míti jaký nedostatek chleba svého."
 "Jáť jsem zajisté Hospodin Bůh tvůj, kterýž rozděluje moře, jehož vlny zvuk vydávají. Hospodin zástupů jest jméno mé,"
 "Kterýž jsem vložil slova svá v ústa tvá, a stínem ruky své přikryl jsem tě, abys štípil nebesa, a založil zemi, a řekl Sionu

@@ -1,8 +1,8 @@
 "Saul berumur sekian tahun ketika ia menjadi raja; dua tahun ia memerintah atas Israel."
-"Saul memilih tiga ribu orang dari antara orang Israel; dua ribu orang ada bersama-sama dengan Saul di Mikhmas dan di pegunungan Betel, sedang seribu orang ada bersama-sama dengan Yonatan di Gibea Benyamin, tetapi selebihnya dari rakyat itu disuruhnya pulang, masing-masing ke kemahnya."
+"Saul memilih tiga ribu orang dari antara orang Israel; dua ribu orang ada bersama-sama dengan Saul di Mikhmas dan di pegunungan Betel, #sedang seribu orang ada bersama-sama dengan Yonatan di Gibea Benyamin, tetapi selebihnya dari rakyat itu disuruhnya pulang, masing-masing ke kemahnya."
 "Yonatan memukul kalah pasukan pendudukan orang Filistin yang ada di Geba; dan hal itu terdengar oleh orang Filistin. Karena itu Saul menyuruh meniup sangkakala di seluruh negeri, sebab pikirnya
-"Demikianlah seluruh orang Israel mendengar kabar, bahwa Saul telah memukul kalah pasukan pendudukan orang Filistin dan dengan demikian orang Israel dibenci oleh orang Filistin. Kemudian dikerahkanlah rakyat itu untuk mengikuti Saul ke Gilgal."
-"Adapun orang Filistin telah berkumpul untuk berperang melawan orang Israel. Dengan tiga ribu kereta, enam ribu orang pasukan berkuda dan pasukan berjalan kaki sebanyak pasir di tepi laut mereka bergerak maju dan berkemah di Mikhmas, di sebelah timur Bet-Awen."
+"Demikianlah seluruh orang Israel mendengar kabar, bahwa Saul telah memukul kalah pasukan pendudukan orang Filistin dan dengan #demikian orang Israel dibenci oleh orang Filistin. Kemudian dikerahkanlah rakyat itu untuk mengikuti Saul ke Gilgal."
+"Adapun orang Filistin telah berkumpul untuk berperang melawan orang Israel. Dengan tiga ribu kereta, enam ribu orang pasukan berkuda dan #pasukan berjalan kaki sebanyak pasir di tepi laut mereka bergerak maju dan berkemah di Mikhmas, di sebelah timur Bet-Awen."
 "Ketika dilihat orang-orang Israel, bahwa mereka terjepit,sebab rakyat memang terdesak,maka larilah rakyat bersembunyi di gua, keluk batu, bukit batu, liang batu dan perigi;"
 "malah ada orang Ibrani yang menyeberangi arungan sungai Yordan menuju tanah Gad dan Gilead, sedang Saul masih di Gilgal dan seluruh rakyat mengikutinya dengan gemetar."
 "Ia menunggu tujuh hari lamanya sampai waktu yang ditentukan Samuel. Tetapi ketika Samuel tidak datang ke Gilgal, mulailah rakyat itu berserak-serak meninggalkan dia."
@@ -11,7 +11,7 @@
 "Tetapi kata Samuel
 "maka pikirku
 "Kata Samuel kepada Saul
-"Tetapi sekarang kerajaanmu tidak akan tetap. TUHAN telah memilih seorang yang berkenan di hati-Nya dan TUHAN telah menunjuk dia menjadi raja atas umat-Nya, karena engkau tidak mengikuti apa yang diperintahkan TUHAN kepadamu."""
+"Tetapi sekarang kerajaanmu tidak akan tetap. TUHAN telah memilih seorang yang berkenan di hati-Nya dan TUHAN telah #menunjuk dia menjadi raja atas umat-Nya, karena engkau tidak mengikuti apa yang diperintahkan TUHAN kepadamu."""
 "Kemudian berangkatlah Samuel dan pergi dari Gilgal ke Gibea Benyamin. Tetapi Saul memeriksa barisan rakyat yang ada bersama-sama dengan dia itu
 "Saul dan Yonatan, anaknya, dan rakyat yang ada bersama-sama dengan mereka, tinggal di Geba-Benyamin, sedang orang Filistin berkemah di Mikhmas."
 "Maka keluarlah orang-orang penjarah dari perkemahan orang Filistin dalam tiga gerombolan

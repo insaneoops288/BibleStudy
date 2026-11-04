@@ -1,4 +1,4 @@
-"Și când Roboam a venit la Ierusalim, a strâns din casa lui Iuda și a lui Beniamin, o sută optzeci de mii de [bărbați ]aleși, care erau războinici, să lupte împotriva lui Israel, ca să aducă împărăția înapoi la Roboam."
+"Și când Roboam a venit la Ierusalim, a strâns din casa lui Iuda și a lui Beniamin, o sută optzeci de #mii de [bărbați ]aleși, care erau războinici, să lupte împotriva lui Israel, ca să aducă împărăția înapoi la Roboam."
 "Dar cuvântul DOMNULUI a venit la Șemaia, omul lui Dumnezeu, spunând
 "Vorbește lui Roboam, fiul lui Solomon, împăratul lui Iuda, și întregului Israel în Iuda și Beniamin, zicând
 "Astfel spune DOMNUL
@@ -18,6 +18,6 @@
 "Și Roboam și-a luat pe Mahalat, fiica lui Ierimot, fiul lui David, ca soție, [și ]pe Abihail, fiica lui Eliab, fiul lui Isai,"
 "Care i-a născut copii
 "Și după ea a luat pe Maaca, fiica lui Absalom, care i-a născut pe Abiia și pe Atai și pe Ziza și pe Șelomit."
-"Și Roboam a iubit pe Maaca, fiica lui Absalom, mai presus de toate soțiile și concubinele lui (căci a luat optsprezece soții și șaizeci de concubine; și a născut douăzeci și opt de fii și șaizeci de fiice)."
+"Și Roboam a iubit pe Maaca, fiica lui Absalom, mai presus de toate soțiile și concubinele lui (căci a luat #optsprezece soții și șaizeci de concubine; și a născut douăzeci și opt de fii și șaizeci de fiice)."
 "Și Roboam l-a făcut pe Abiia, fiul Maachei, mai marele, [să fie ]conducător între frații lui, căci [s-a gândit ]să îl facă împărat."
-"Și s-a purtat cu înțelepciune și a împrăștiat pe toți copiii lui prin toate țările lui Iuda și Beniamin, până la fiecare cetate întărită, și le-a dat hrană din abundență. Și a dorit o mulțime de soții."
+"Și s-a purtat cu înțelepciune și a împrăștiat pe toți copiii lui prin toate țările lui Iuda și Beniamin, #până la fiecare cetate întărită, și le-a dat hrană din abundență. Și a dorit o mulțime de soții."

@@ -6,7 +6,7 @@
 "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre."
 "No tendrás dioses ajenos delante de mí."
 "No harás para ti escultura, ni imagen alguna de cosa que está arriba en el cielo, o abajo en la tierra, o en las aguas debajo de la tierra."
-"No te inclinarás a ellas ni les servirás; porque yo [soy] Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta [generación] de los que me aborrecen,"
+"No te inclinarás a ellas ni les servirás; porque yo [soy] Jehová tu Dios, fuerte, celoso, que visito la #maldad de los padres sobre los hijos hasta la tercera y cuarta [generación] de los que me aborrecen,"
 "y que hago misericordia a millares de los que me aman y guardan mis mandamientos."
 "No tomarás en vano el nombre de Jehová tu Dios; porque Jehová no dará por inocente al que tomare en vano su nombre."
 "Guarda el día sábado para santificarlo, como Jehová tu Dios te ha mandado."

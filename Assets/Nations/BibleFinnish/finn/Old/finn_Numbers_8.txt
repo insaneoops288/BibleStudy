@@ -13,10 +13,10 @@
 "Ja sinun pitää asettaman Leviläiset Aaronin ja hänen poikainsa eteen, ja häälyttämän heitä häälytykseksi Herralle."
 "Ja sinun pitää eroittaman Leviläiset Israelin lapsista, niin että Leviläiset pitää oleman minun."
 "Ja sitte pitää heidän käymän sisälle palvelemaan seurakunnan majassa, ja pitää sinun heitä puhdistaman, ja häälyttämän heitä häälytykseksi."
-"Sillä he ovat minulle peräti annetut Israelin lasten seasta, ja minä olen heidät ottanut minulleni kaikkein edestä, jotka ensisti avaavat äitinsä kohdun, nimittäin, kaikkein esikoisten edestä Israelin lapsista."
+"Sillä he ovat minulle peräti annetut Israelin lasten seasta, ja minä olen heidät ottanut minulleni #kaikkein edestä, jotka ensisti avaavat äitinsä kohdun, nimittäin, kaikkein esikoisten edestä Israelin lapsista."
 "Sillä kaikki esikoiset Israelin lapsista ovat minun, sekä ihmisistä että eläimistä
 "Ja otin minulleni Leviläiset, kaikkein esikoisten edestä Israelin lapsista,"
-"Ja annoin Leviläiset Aaronille ja hänen pojillensa lahjaksi Israelin lapsista, että heidän pitää seurakunnan majassa Israelin lasten virassa palveleman, ja sovittaman Israelin lapset, ettei rangaistus tulisi Israelin lasten päälle, jos he lähestyisivät pyhää."
+"Ja annoin Leviläiset Aaronille ja hänen pojillensa lahjaksi Israelin lapsista, että heidän pitää seurakunnan majassa Israelin lasten #virassa palveleman, ja sovittaman Israelin lapset, ettei rangaistus tulisi Israelin lasten päälle, jos he lähestyisivät pyhää."
 "Ja Moses ynnä Aaronin kanssa, ja koko Israelin seurakunta tekivät Leviläisille kaikki niinkuin Herra oli Mosekselle käskenyt; niin tekivät Israelin lapset heille."
 "Ja Leviläiset puhdistivat itsensä, ja pesivät vaatteensa, ja niin Aaron häälytti heidät häälytykseksi Herran edessä, ja sovitti heitä niin että he puhdistettiin."
 "Ja sitte Leviläiset menivät seurakunnan majaan, virkaansa tekemään Aaronin ja hänen poikainsa eteen

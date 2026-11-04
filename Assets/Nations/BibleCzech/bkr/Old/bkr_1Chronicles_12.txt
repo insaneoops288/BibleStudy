@@ -35,6 +35,6 @@
 "Z pokolení Dan, způsobných k boji, osm a dvadceti tisíc a šest set."
 "A z pokolení Asserova, kteříž způsobní byli k boji, a umělí v šikování se k bitvě, čtyřidceti tisíc."
 "A z Zajordání, totiž z Rubenských a Gádských, a z polovice pokolení Manassesova,přišli se všemi nástroji válečnými sto a dvadceti tisíc."
-"Všickni ti muži bojovní, umělí v šiku, úmyslem upřímým přišli do Hebronu, aby ustanovili Davida za krále nade vším lidem Izraelským. Nýbrž i všickni ostatní Izraelští srdce jednoho byli, aby za krále ustanovili Davida."
+"Všickni ti muži bojovní, umělí v šiku, úmyslem upřímým přišli do Hebronu, aby ustanovili Davida za krále nade #vším lidem Izraelským. Nýbrž i všickni ostatní Izraelští srdce jednoho byli, aby za krále ustanovili Davida."
 "I byli tu s Davidem tři dni, jedouce a pijíce, nebo jim byli připravili bratří jejich."
-"Ano i ti, kteříž jim blízcí byli až k Izachar a Zabulon a Neftalím, přinášeli chleba na oslích a na velbloudích, i na mezcích a na volích, potravy, mouky, fíků a hroznů sušených, vína, oleje, volů, a ovcí v hojnosti. Nebo radost byla v lidu Izraelském."
+"Ano i ti, kteříž jim blízcí byli až k Izachar a Zabulon a Neftalím, přinášeli chleba na oslích a na velbloudích, i na mezcích #a na volích, potravy, mouky, fíků a hroznů sušených, vína, oleje, volů, a ovcí v hojnosti. Nebo radost byla v lidu Izraelském."

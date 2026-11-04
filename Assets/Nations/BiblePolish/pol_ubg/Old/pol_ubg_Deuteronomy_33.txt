@@ -13,7 +13,7 @@
 "O Józefie powiedział
 "I z najcenniejszych plonów słońca, z najcenniejszych plonów księżyca;"
 "I z najlepszych skarbów gór starożytnych, z najlepszych darów odwiecznych pagórków;"
-"I z najcenniejszych owoców ziemi i jej obfitości oraz z przychylności tego, który przebywał w krzaku. Niech to błogosławieństwo spłynie na głowę Józefa i na czubek głowy tego, który został oddzielony od swoich braci."
+"I z najcenniejszych owoców ziemi i jej obfitości oraz z przychylności tego, który przebywał w krzaku. Niech to #błogosławieństwo spłynie na głowę Józefa i na czubek głowy tego, który został oddzielony od swoich braci."
 "Jego chwała jest jak pierworodny wół, a jego rogi jak rogi jednorożca. Nimi będzie bódł wszystkie narody aż po krańce ziemi; a są to dziesiątki tysięcy Efraima i tysiące Manassesa."
 "A o Zebulonie powiedział
 "Zwołują ludy na górę, tam będą składać ofiary sprawiedliwości. Będą bowiem ssać z obfitości morza i ze skarbów ukrytych w piasku."
@@ -26,4 +26,4 @@
 "Nikt nie jest jak Bóg Jeszuruna, który jeździ po niebie, by tobie pomóc, i po obłokach w swym majestacie."
 "Twoim schronieniem jest wieczny Bóg, a pod tobą są wieczne ramiona. On wypędzi przed tobą wroga i powie
 "Wtedy Izrael będzie mieszkać bezpiecznie sam. Źródło Jakuba – w ziemi zboża i wina, a niebiosa spuszczą rosę."
-"Błogosławiony jesteś, Izraelu! Któż do ciebie podobny, ludu zbawiony przez PANA, który jest tarczą twego ratunku i mieczem twego dostojeństwa! Twoi wrogowie poddadzą się tobie obłudnie, a ty zdepczesz ich wyniosłość."
+"Błogosławiony jesteś, Izraelu! Któż do ciebie podobny, ludu zbawiony przez PANA, który jest tarczą twego ratunku #i mieczem twego dostojeństwa! Twoi wrogowie poddadzą się tobie obłudnie, a ty zdepczesz ich wyniosłość."

@@ -28,7 +28,7 @@
 "A oni mu odpowiedzieli
 "Ale on im rzekł
 "I przygroził im, aby o nim nikomu nie powiadali."
-"I począł je nauczać, że Syn człowieczy musi wiele ucierpieć, i odrzuconym być od starszych ludu, i od przedniejszych kapłanów i nauczonych w Piśmie, i być zabity, a po trzech dniach zmartwychwstać."
+"I począł je nauczać, że Syn człowieczy musi wiele ucierpieć, i odrzuconym być od starszych ludu, i #od przedniejszych kapłanów i nauczonych w Piśmie, i być zabity, a po trzech dniach zmartwychwstać."
 "A to mówił jawnie. Tedy go Piotr wziąwszy na stronę, począł go strofować."
 "Ale on obróciwszy się, a wejrzawszy na ucznie swoje, zgromił Piotra, mówiąc
 "A zwoławszy ludu z uczniami swoimi, rzekł im

@@ -3,8 +3,8 @@
 "Lalu ia sampai ke ruang dalam. Ia mengukur tiang temboknya
 "Ia mengukur panjang ruang dalam itu
 "Kemudian ia mengukur dinding Bait Suci itu
-"Kamar-kamar tambahan itu ada tiga tingkat dan pada satu tingkat terdapat tiga puluh kamar. Pada sekeliling dinding Bait Suci ada ceruk-ceruk untuk mengokohkan kamar-kamar tambahan itu, sebab kamar-kamar ini tidak digabungkan pada dinding Bait Suci."
-"Dan kamar-kamar tambahan semakin lebih besar dari tingkat pertama sampai tingkat ketiga selaras dengan bertambah besarnya ceruk-ceruk pada tiap tingkat sekeliling Bait Suci itu; ada tangga menuju ke atas dan dengan demikian orang dapat naik dari tingkat bawah ke tingkat atas melalui tingkat tengah."
+"Kamar-kamar tambahan itu ada tiga tingkat dan pada satu tingkat terdapat tiga puluh kamar. Pada sekeliling dinding Bait #Suci ada ceruk-ceruk untuk mengokohkan kamar-kamar tambahan itu, sebab kamar-kamar ini tidak digabungkan pada dinding Bait Suci."
+"Dan kamar-kamar tambahan semakin lebih besar dari tingkat pertama sampai tingkat ketiga selaras dengan bertambah besarnya ceruk-ceruk pada tiap tingkat sekeliling Bait Suci #itu; ada tangga menuju ke atas dan dengan demikian orang dapat naik dari tingkat bawah ke tingkat atas melalui tingkat tengah."
 "Aku melihat bahwa alas Bait Suci itu lebih tinggi dari sekelilingnya. Dasar kamar-kamar tambahan itu berukuran satu tongkat penuh, yaitu tingginya enam hasta."
 "Tebal dinding yang sebelah luar kamar tambahan adalah lima hasta; lebar bagian alas Bait Suci yang dibiarkan kosong adalah lima hasta. Di antara alas bangunan itu dan"
 "bilik-bilik ada jarak dua puluh hasta sekeliling bangunan itu."
@@ -13,7 +13,7 @@
 "Lalu ia mengukur Bait Suci itu
 "begitu juga lebarnya muka Bait Suci bersama lapangan tertutup sebelah timur
 "Kemudian ia mengukur panjang bangunan yang terdapat di lapangan tertutup sebelah barat bersama serambi-serambinya di kedua belah
-"ditutupi dengan papan dan sekeliling ketiga ruang itu ada jendela-jendela yang berbidai dan serambi-serambi. Di hadapan ambang itu seluruh Bait Suci ditutupi dengan papan, mulai dari lantai sampai ke jendela-jendelanya,sedang jendela-jendela ini terlindung,"
+"ditutupi dengan papan dan sekeliling ketiga ruang itu ada jendela-jendela yang berbidai dan serambi-serambi. Di hadapan ambang #itu seluruh Bait Suci ditutupi dengan papan, mulai dari lantai sampai ke jendela-jendelanya,sedang jendela-jendela ini terlindung,"
 "sampai bagian atas pintu dan ruang dalam dan juga di luar. Dan di seluruh dinding bagian dalam dan bagian luar terukir"
 "gambar-gambar kerub dan pohon-pohon korma, di antara dua kerub sebatang pohon korma, dan masing-masing kerub itu mempunyai dua muka."
 "Dari sebelah yang satu muka manusia dan dari sebelah yang lain muka singa yang menghadap ke pohon korma itu dan begitulah dibuat di seluruh Bait Suci."

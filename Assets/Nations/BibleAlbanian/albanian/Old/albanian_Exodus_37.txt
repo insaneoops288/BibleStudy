@@ -16,13 +16,13 @@
 "I bëri edhe orenditë që do të viheshin mbi tryezë prej ari safi
 "Edhe shandanin e bëri me ar safi; e punuan me çekiç; këmba, trungu, kupat, mollët dhe lulet e tij përbënin të gjitha një tërësi të vetme."
 "Nga anët e tij dilnin gjashtë krahë
-"mbi njërin krah kishte tri kupa në formë bajameje, me një mollë dhe një lule; në krahun tjetër tri kupa në formë të bajames me një mollë dhe një lule. E njëjta gjë ndodhte për të gjashtë krahët që dilnin nga shandani."
+"mbi njërin krah kishte tri kupa në formë bajameje, me një mollë dhe një lule; në krahun tjetër tri kupa në formë #të bajames me një mollë dhe një lule. E njëjta gjë ndodhte për të gjashtë krahët që dilnin nga shandani."
 "Dhe në trungun e shandanit kishte katër kupa në formë të bajames, me mollët dhe lulet e tyre."
-"Kishte një mollë poshtë dy krahëve të para që dilnin prej tij, një mollë poshtë dy krahëve të tjerë që dilnin prej tij, dhe një mollë poshtë dy krahëve të fundit që dilnin prej tij; kështu ishte për të gjashtë krahët që dilnin nga shandani."
+"Kishte një mollë poshtë dy krahëve të para që dilnin prej tij, një mollë poshtë dy krahëve të tjerë që dilnin prej tij, #dhe një mollë poshtë dy krahëve të fundit që dilnin prej tij; kështu ishte për të gjashtë krahët që dilnin nga shandani."
 "Këto mollë dhe këto krahë përbënin një të tërë të vetme me shandanin; gjithçka ishte prej ari safi të punuar me çekiç."
 "Ai i bëri gjithashtu shtatë llambat e tij, zbrazësit dhe mbajtësit e tyre, me ar safi."
 "Për të bërë shandanin dhe të gjitha pjesët e tij përdori një talent ari të pastër."
-"Pastaj bëri altarin e temjanit me dru të akacies; ishte i gjatë një kubit dhe i gjerë një kubit; ishte katror dhe kishte një lartësi prej dy kubitësh; brirët e tij përbënin një të tërë të vetme me të."
+"Pastaj bëri altarin e temjanit me dru të akacies; ishte i gjatë një kubit dhe i gjerë një kubit; ishte #katror dhe kishte një lartësi prej dy kubitësh; brirët e tij përbënin një të tërë të vetme me të."
 "E veshi me ar safi
 "I bëri edhe dy unaza ari, nën kurorë, në të dy krahët e tij; i vuri në të dy krahët për të kaluar shtizat. Këto shtiza shërbenin për ta mbartur atë."
 "Dhe i bëri shtizat prej druri të akacies dhe i veshi me ar."

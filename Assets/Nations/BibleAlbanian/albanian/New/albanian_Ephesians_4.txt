@@ -12,7 +12,7 @@
 "derisa të arrijmë të gjithë te uniteti i besimit dhe të njohjes së Birit të Perëndisë, te një njeri i përsosur, në masën e shtatit të plotësisë së Krishtit,"
 "që të mos jemi më foshnja, të lëkundur dhe të transportuar nga çdo erë doktrineje, nga mashtrimi i njerëzve, nga dinakëria e tyre nëpërmjet gënjeshtrave të gabimit,"
 "por, duke thënë të vërtetën me dashuri, të rritemi në çdo gjë drejt atij që është kreu, Krishti."
-"Prej të cilit gjithë trupi, i lidhur mirë dhe i bashkuar, me anë të kontributit që jep çdo gjymtyrë dhe sipas forcës së çdo pjese të veçantë, shkakton rritjen e trupit, për ndërtimin e vetes së tij në dashuri."
+"Prej të cilit gjithë trupi, i lidhur mirë dhe i bashkuar, me anë të kontributit që jep çdo gjymtyrë dhe #sipas forcës së çdo pjese të veçantë, shkakton rritjen e trupit, për ndërtimin e vetes së tij në dashuri."
 "Këtë, pra, po dëshmoj në Zotin
 "të errësuar në mendje, të shkëputur nga jeta e Perëndisë, për shkak të padijes që është në ta dhe ngurtësimit të zemrës së tyre."
 "Ata, duke u bërë të pandjeshëm, e dhanë veten në shthurje, duke kryer çdo papastërti me lakmi të pangopur."

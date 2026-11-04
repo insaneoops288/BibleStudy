@@ -1,4 +1,4 @@
-"Sa aba mo na sumasamsam, at ikaw ay hindi nasamsaman; at gumagawa na may kataksilan, at sila'y hindi gumawang may kataksilan sa iyo! Pagka ikaw ay naglikat ng pagsamsam, ikaw ay sasamsaman; at pagka ikaw ay nakatapos ng paggawang may kataksilan, sila'y gagawang may kataksilan sa iyo."
+"Sa aba mo na sumasamsam, at ikaw ay hindi nasamsaman; at gumagawa na may kataksilan, at sila'y hindi gumawang may kataksilan sa iyo! Pagka #ikaw ay naglikat ng pagsamsam, ikaw ay sasamsaman; at pagka ikaw ay nakatapos ng paggawang may kataksilan, sila'y gagawang may kataksilan sa iyo."
 "Oh Panginoon, magmahabagin ka sa amin; aming hinintay ka
 "Sa ingay ng kagulo ay nagsisitakas ang mga bayan; sa pagbangon mo ay nagsisipangalat ang mga bansa."
 "At ang iyong samsam ay pipisanin na gaya ng pagpisan ng uod
@@ -12,7 +12,7 @@
 "At ang mga bayan ay magiging gaya ng pagluluto ng apog
 "Pakinggan ninyo, ninyong nangasa malayo, kung ano ang aking ginawa; at kilalanin ninyo, na nangasa malapit, ang aking kapangyarihan."
 "Ang mga makasalanan sa Sion ay nangatatakot; nanginginig ang mga masasama. Sino sa atin ang tatahan sa mamumugnaw na apoy? Sino sa atin ang tatahan sa walang hanggang ningas?"
-"Siyang lumalakad ng matuwid, at nagsasalita ng matuwid; siyang humahamak ng pakinabang sa mga kapighatian, na iniuurong ang kaniyang mga kamay sa paghawak ng mga suhol, na nagtatakip ng kaniyang mga tainga ng pagdinig ng tungkol sa dugo, at ipinipikit ang kaniyang mga mata sa pagtingin sa kasamaan;"
+"Siyang lumalakad ng matuwid, at nagsasalita ng matuwid; siyang humahamak ng pakinabang sa mga kapighatian, na iniuurong ang kaniyang mga kamay sa paghawak ng mga #suhol, na nagtatakip ng kaniyang mga tainga ng pagdinig ng tungkol sa dugo, at ipinipikit ang kaniyang mga mata sa pagtingin sa kasamaan;"
 "Siya'y tatahan sa mataas, ang kaniyang dakong sanggalangan ay ang mga katibayan na malalaking bato
 "Makikita ng iyong mga mata ang hari sa kaniyang kagandahan
 "Ang inyong puso ay gugunita ng kakilabutan

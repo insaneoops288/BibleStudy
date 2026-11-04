@@ -21,10 +21,10 @@
 "L'Arabie et tous les princes de Kédar trafiquaient avec toi, Et faisaient le commerce en agneaux, en béliers et en boucs."
 "Les marchands de Séba et de Raema trafiquaient avec toi; De tous les meilleurs aromates, De toute espèce de pierres précieuses et d'or, Ils pourvoyaient tes marchés."
 "Charan, Canné et Eden, Les marchands de Séba, d'Assyrie, de Kilmad, Trafiquaient avec toi;"
-"Ils trafiquaient avec toi en belles marchandises, En manteaux teints en bleu, en broderies, En riches étoffes contenues dans des coffres Attachés avec des cordes, faits en bois de cèdre, Et amenés sur tes marchés."
+"Ils trafiquaient avec toi en belles marchandises, En manteaux teints en bleu, en broderies, En riches étoffes contenues #dans des coffres Attachés avec des cordes, faits en bois de cèdre, Et amenés sur tes marchés."
 "Les navires de Tarsis naviguaient pour ton commerce; Tu étais au comble de la richesse et de la gloire, Au coeur des mers."
 "Tes rameurs t'ont fait voguer sur les grandes eaux
-"Tes richesses, tes marchés et tes marchandises, Tes mariniers et tes pilotes, Ceux qui réparent tes fissures Et ceux qui s'occupent de ton commerce, Tous tes hommes de guerre qui sont chez toi Et toute la multitude qui est au milieu de toi Tomberont dans le coeur des mers, Au jour de ta chute."
+"Tes richesses, tes marchés et tes marchandises, Tes mariniers et tes pilotes, Ceux qui réparent tes fissures Et ceux qui s'occupent de ton commerce, Tous tes hommes de #guerre qui sont chez toi Et toute la multitude qui est au milieu de toi Tomberont dans le coeur des mers, Au jour de ta chute."
 "Aux cris de tes pilotes, Les plages d'alentour trembleront;"
 "Et tous ceux qui manient la rame descendront de leurs navires, Les mariniers, tous les pilotes de la mer. Ils se tiendront sur la terre;"
 "Ils feront entendre leurs voix sur toi, Et pousseront des cris amers; Ils jetteront de la poussière sur leurs têtes Et se rouleront dans la cendre;"

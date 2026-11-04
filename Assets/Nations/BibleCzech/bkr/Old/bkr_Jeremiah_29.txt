@@ -11,7 +11,7 @@
 "Nebo já nejlépe znám myšlení, kteráž myslím o vás, dí Hospodin, myšlení o pokoji, a ne o trápení, abych učinil vašemu očekávání konec přežádostivý."
 "Když mne vzývati budete, a půjdete, a modliti se mně budete, tedy vyslyším vás."
 "A hledajíce mne, naleznete, když mne hledati budete celým srdcem svým."
-"Dám se zajisté nalezti vám, dí Hospodin, a přivedu zase zajaté vaše, a shromáždím vás ze všech národů i ze všech míst, kamžkoli jsem zahnal vás, dí Hospodin, a uvedu vás zase na místo toto, odkudž jsem vás zastěhoval,"
+"Dám se zajisté nalezti vám, dí Hospodin, a přivedu zase zajaté vaše, a shromáždím vás ze všech národů i ze #všech míst, kamžkoli jsem zahnal vás, dí Hospodin, a uvedu vás zase na místo toto, odkudž jsem vás zastěhoval,"
 "Když řeknete
 "Nebo takto praví Hospodin o králi sedícím na stolici Davidově, a o všem lidu obývajícím v městě tomto, bratřích vašich, kteříž nevyšli s vámi v tom zajetí,"
 "Takto dí Hospodin zástupů

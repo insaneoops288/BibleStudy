@@ -35,7 +35,7 @@
 "Und sie brachen auf von Abrona und lagerten sich in Ezjon-Geber."
 "Und sie brachen auf von Ezjon-Geber und lagerten sich in der Wüste Zin, das ist Kades."
 "Und sie brachen auf von Kades und lagerten sich am Berge Hor, am Rande des Landes Edom."
-"Und Aaron, der Priester, stieg auf den Berg Hor nach dem Befehle Jehovas; und er starb daselbst im vierzigsten Jahre nach dem Auszuge der Kinder Israel aus dem LandeÄgypten, im fünften Monat, am Ersten des Monats."
+"Und Aaron, der Priester, stieg auf den Berg Hor nach dem Befehle Jehovas; und er starb daselbst im vierzigsten #Jahre nach dem Auszuge der Kinder Israel aus dem LandeÄgypten, im fünften Monat, am Ersten des Monats."
 "Und Aaron war hundertdreiundzwanzig Jahre alt, als er auf dem Berge Hor starb."
 "Und der Kanaaniter, der König von Arad, der im Süden wohnte im Lande Kanaan, hörte von dem Kommen der Kinder Israel."
 "Und sie brachen auf vom Berge Hor und lagerten sich in Zalmona."
@@ -52,5 +52,5 @@
 "so sollt ihr alle Bewohner des Landes vor euch austreiben und alle ihre Bildwerke zerstören; und alle ihre gegossenen Bilder sollt ihr zerstören, und alle ihre Höhen sollt ihr vertilgen;"
 "und ihr sollt das Land in Besitz nehmen und darin wohnen, denn euch habe ich das Land gegeben, es zu besitzen."
 "Und ihr sollt das Land durchs Los als Erbteil empfangen, nach euren Geschlechtern
-"Wenn ihr aber die Bewohner des Landes nicht vor euch austreibet, so werden diejenigen, welche ihr von ihnenübriglasset, zu Dornen in euren Augen und zu Stacheln in euren Seiten werden, und sie werden euch bedrängen in dem Lande, in welchem ihr wohnet."
+"Wenn ihr aber die Bewohner des Landes nicht vor euch austreibet, so werden diejenigen, welche ihr von ihnenübriglasset, zu Dornen in euren #Augen und zu Stacheln in euren Seiten werden, und sie werden euch bedrängen in dem Lande, in welchem ihr wohnet."
 "Und es wird geschehen

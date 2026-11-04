@@ -24,7 +24,7 @@
 "En die hoofde van die Leviete was
 "Mattánja en Bakbúkja, Obádja. Mesúllam, Talmon, Akkub was poortwagters wat wag gehou het by die voorraadkamers van die poorte."
 "Hulle was in die dae van Jójakim, die seun van Jésua, die seun van Jósadak, en in die dae van Nehemía, die goewerneur, en van die priester Esra, die skrifgeleerde."
-"En by die inwyding van die muur van Jerusalem is die Leviete uit al hulle woonplekke gesoek, om hulle na Jerusalem te bring ten einde die inwyding te hou met vreugde en dankliedere en met gesang, simbale, harpe en siters."
+"En by die inwyding van die muur van Jerusalem is die Leviete uit al hulle woonplekke gesoek, om hulle na Jerusalem #te bring ten einde die inwyding te hou met vreugde en dankliedere en met gesang, simbale, harpe en siters."
 "Toe het die seuns van die sangers byeengekom uit die streek rondom Jerusalem sowel as uit die dorpe van die Netofatiete,"
 "en uit Bet-Gilgal en uit die buiteveld van Geba en Asmáwet, want die sangers het vir hulle dorpe rondom Jerusalem gebou."
 "En die priesters en die Leviete het hulleself gereinig, en die volk en die poorte en die muur gereinig."
@@ -41,7 +41,7 @@
 "en die priesters Éljakim, Maäséja, Mínjamin, Migája, Eljoënai, Sagaría, Hanánja met trompette,"
 "en Maäséja en Semája en Eleásar en Ussi en Jóhanan en Malkía en Elam en Eser. En die sangers het hulle laat hoor, en Jisrágja was die leier."
 "En op dié dag het hulle groot offers gebring en was vrolik; want God het hulle groot vreugde verskaf, en ook die vroue en kinders was vrolik, sodat die vreugde van Jerusalem tot ver weg gehoor is."
-"En op dié dag is manne aangestel oor die kamers vir die voorrade, die offergawes, die eerstelinge en die tiendes, om daarin die wetlike aandele volgens die landerye van die stede vir die priesters en die Leviete te versamel; want Juda was bly oor die priesters en die Leviete wat in die diens gestaan het."
+"En op dié dag is manne aangestel oor die kamers vir die voorrade, die offergawes, die eerstelinge en die tiendes, om daarin die wetlike aandele volgens die landerye #van die stede vir die priesters en die Leviete te versamel; want Juda was bly oor die priesters en die Leviete wat in die diens gestaan het."
 "En hulle het die ordening van hulle God en die reinigingsordening onderhou; ook die sangers en die poortwagters, volgens die bevel van Dawid en sy seun Salomo."
 "Want in die dae van Dawid en Asaf, van die voortyd af, lê die oorsprong van die sangers en leiers van die lofsang en die danksegging aan God."
-"En die hele Israel het in die dae van Serubbábel en in die dae van Nehemía die aandele van die sangers en van die poortwagters gegee, na die eis van elke dag; en hulle het die heilige gawes afgegee aan die Leviete, en die Leviete aan die seuns van Aäron."
+"En die hele Israel het in die dae van Serubbábel en in die dae van Nehemía die aandele van die sangers en van die poortwagters gegee, #na die eis van elke dag; en hulle het die heilige gawes afgegee aan die Leviete, en die Leviete aan die seuns van Aäron."

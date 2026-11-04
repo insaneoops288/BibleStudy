@@ -1,9 +1,9 @@
 Then it was, when the wall was built and I had hung the doors, when the gatekeepers, the singers, and the Levites had been appointed,
 that I gave the charge of Jerusalem to my brother Hanani, and Hananiah the leader of the citadel, for he was a faithful man and feared God more than many.
-And I said to them, "Do not let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut and bar the doors; and appoint guards from among the inhabitants of Jerusalem, one at his watch station and another in front of his own house."
+And I said to them, "Do not let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut #and bar the doors; and appoint guards from among the inhabitants of Jerusalem, one at his watch station and another in front of his own house."
 Now the city was large and spacious, but the people in it were few, and the houses were not rebuilt.
-Then my God put it into my heart to gather the nobles, the rulers, and the people, that they might be registered by genealogy. And I found a register of the genealogy of those who had come up in the first return, and found written in it,
-These are the people of the province who came back from the captivity, of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and who returned to Jerusalem and Judah, everyone to his city.
+Then my God put it into my heart to gather the nobles, the rulers, and the people, that they might be registered by genealogy. #And I found a register of the genealogy of those who had come up in the first return, and found written in it,
+These are the people of the province who came back from the captivity, of those who had been carried away, whom #Nebuchadnezzar the king of Babylon had carried away, and who returned to Jerusalem and Judah, everyone to his city.
 Those who came with Zerubbabel were Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah. The number of the men of the people of Israel,
 the sons of Parosh, two thousand one hundred and seventy-two;
 the sons of Shephatiah, three hundred and seventy-two;
@@ -70,4 +70,4 @@ their camels four hundred and thirty-five, and donkeys six thousand seven hundre
 And some of the heads of the fathers' houses gave to the work. The governor gave to the treasury one thousand gold drachmas, fifty basins, and five hundred and thirty priestly garments.
 Some of the heads of the fathers' houses gave to the treasury of the work twenty thousand gold drachmas, and two thousand two hundred silver minas.
 And that which the rest of the people gave was twenty thousand gold drachmas, two thousand silver minas, and sixty-seven priestly garments.
-So the priests, the Levites, the gatekeepers, the singers, some of the people, the Nethinim, and all Israel dwelt in their cities. When the seventh month came, the children of Israel were in their cities.
+So the priests, the Levites, the gatekeepers, the singers, some of the people, the Nethinim, and all Israel #dwelt in their cities. When the seventh month came, the children of Israel were in their cities.

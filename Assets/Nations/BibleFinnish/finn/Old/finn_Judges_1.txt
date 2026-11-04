@@ -24,13 +24,13 @@
 "Ja vartiat saivat nähdä miehen käyvän kaupungista, ja sanoivat hänelle
 "Ja hän osoitti heille kaupungin sisällekäytävän, ja he löivät kaupungin miekan terällä; mutta sen miehen ja kaiken hänen sukunsa laskivat he menemään."
 "Niin meni se mies Hetiläisten maakuntaan ja rakensi kaupungin, ja kutsui hänen Luts, joka tähän päivään asti niin kutsutaan."
-"Ja ei Manasse ajanut ulos Betseania tyttärinensä, eikä myös Taanakia tyttärinensä, eikä Dorin asuvaisia tyttärinensä, eikä Jibleamin asuvia tyttärinensä, eikä Megiddon asuvia tyttärinensä. Ja Kanaanealaiset rupesivat asumaan siinä maassa."
+"Ja ei Manasse ajanut ulos Betseania tyttärinensä, eikä myös Taanakia tyttärinensä, eikä Dorin asuvaisia tyttärinensä, #eikä Jibleamin asuvia tyttärinensä, eikä Megiddon asuvia tyttärinensä. Ja Kanaanealaiset rupesivat asumaan siinä maassa."
 "Ja kuin Israel voimalliseksi tuli, teki hän Kanaanealaiset verolliseksi ja ei ajanut heitä ollenkaan ulos."
 "Eikä myös Ephraim ajanut ulos Kanaanealaisia, jotka asuivat Gatserissa; mutta Kanaanealaiset asuivat heidän seassansa Gatserissa."
 "Eikä myös Zebulon ajanut Kitronin ja Nahalolin asuvaisia ulos; vaan Kanaanealaiset asuivat heidän keskellänsä ja olivat verolliset."
 "Eikä myös Asser ajanut niitä ulos, jotka asuivat Akkossa, eikä niitä, jotka asuivat Zidonissa, Akelabissa, Aksibissa, Helbassa, Aphikissa ja Rehobissa."
 "Mutta Asserilaiset asuivat Kanaanealaisten seassa, jotka siinä maassa asuivat
-"Eikä myös Naphtali ajanut niitä ulos, jotka asuivat BetSemessä ja BetAnatissa, mutta asuivat Kanaanealaisten seassa, jotka maan asuvaiset olivat; mutta ne, jotka BetSemessä ja BetAnatissa olivat, tulivat heille verollisiksi."
+"Eikä myös Naphtali ajanut niitä ulos, jotka asuivat BetSemessä ja BetAnatissa, mutta asuivat Kanaanealaisten seassa, #jotka maan asuvaiset olivat; mutta ne, jotka BetSemessä ja BetAnatissa olivat, tulivat heille verollisiksi."
 "Ja Amorilaiset ahdistivat Danin lapsia vuorilla eikä sallineet heitä tulemaan laaksoon."
 "Mutta Amorilaiset rupesivat asumaan vuorilla, Hereessä, Ajalonissa ja Saalbimissa; niin tuli Josephin käsi heille raskaaksi, ja he tulivat verollisiksi."
 "Ja Amorilaisten rajat olivat siitä, kuin käydään ylös Akrabimiin, kalliosta ja ylhäältä."

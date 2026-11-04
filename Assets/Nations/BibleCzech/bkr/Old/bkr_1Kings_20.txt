@@ -22,7 +22,7 @@
 "Opět přišel prorok ten k králi Izraelskému, a řekl jemu
 "Tedy služebníci krále Syrského řekli jemu
 "Protož učiň toto
-"Ty pak sečti sobě vojsko z svých jako vojsko oněch, kteříž padli, a koně jako ony koně, a vozy jako ony vozy; i budeme bojovati proti nim na rovinách, a zvíš, nepřemůžeme-liť jich. I uposlechl hlasu jejich a učinil tak."
+"Ty pak sečti sobě vojsko z svých jako vojsko oněch, kteříž padli, a koně jako ony koně, a vozy jako ony #vozy; i budeme bojovati proti nim na rovinách, a zvíš, nepřemůžeme-liť jich. I uposlechl hlasu jejich a učinil tak."
 "I stalo se po roce, že sečtl Benadad Syrské a vytáhl do Afeku, aby bojoval proti Izraelovi."
 "Izraelští také sečteni jsou, a opatřivše se stravou, vytáhli jim v cestu. I položili se Izraelští proti nim jako dvě malá stáda koz, Syrští pak přikryli tu zemi."
 "V tom přišel týž muž Boží, a mluvil králi Izraelskému a řekl

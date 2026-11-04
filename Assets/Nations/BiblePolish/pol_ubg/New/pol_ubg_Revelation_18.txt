@@ -9,7 +9,7 @@
 "I będą płakać, i lamentować nad nią królowie ziemi, którzy uprawiali z nią nierząd i pławili się w przepychu, gdy zobaczą dym jej pożaru."
 "Stojąc z daleka z powodu strachu przed jej męką, powiedzą
 "A kupcy ziemi będą płakać i lamentować nad nią, bo już nikt nie będzie kupował ich towaru;"
-"Towaru złota, srebra, drogich kamieni, pereł, bisioru, purpury, jedwabiu, szkarłatu, wszelkiego drewna tujowego, wszelkich przedmiotów z kości słoniowej, wszelkich przedmiotów z najkosztowniejszego drewna, brązu, żelaza i marmuru;"
+"Towaru złota, srebra, drogich kamieni, pereł, bisioru, purpury, jedwabiu, szkarłatu, wszelkiego drewna tujowego, wszelkich #przedmiotów z kości słoniowej, wszelkich przedmiotów z najkosztowniejszego drewna, brązu, żelaza i marmuru;"
 "Cynamonu i wonności, olejku i kadzidła, wina i oliwy, najczystszej mąki i pszenicy, bydła i owiec, koni i wozów, niewolników i dusz ludzkich."
 "Owoce, których pożądała twoja dusza, opuściły ciebie i wszystko, co tłuste i świetne, opuściło ciebie i już nigdy tego nie znajdziesz."
 "Ci, którzy tym handlowali i wzbogacili się na niej, będą stać z daleka z powodu strachu przed jej męką, płacząc i lamentując w słowach
@@ -19,6 +19,6 @@
 "I sypali proch na swoje głowy, i wołali, płacząc i lamentując
 "Raduj się nad nim niebo oraz święci apostołowie i prorocy, bo Bóg pomścił na nim waszą krzywdę."
 "A jeden potężny anioł podniósł kamień, wielki jak kamień młyński, i wrzucił go do morza, mówiąc
-"I głosu harfiarzy, śpiewaków, flecistów i trębaczy nie będzie już słychać w tobie, i żaden rzemieślnik jakiegokolwiek rzemiosła już się nie znajdzie w tobie, i odgłosu kamienia młyńskiego już się w tobie nie usłyszy."
-"I światło lampy nie zabłyśnie już w tobie, i głosu oblubieńca i oblubienicy nie będzie już słychać w tobie, bo twoi kupcy byli możnowładcami ziemi, bo twoimi czarami zostały zwiedzione wszystkie narody."
+"I głosu harfiarzy, śpiewaków, flecistów i trębaczy nie będzie już słychać w tobie, i żaden rzemieślnik jakiegokolwiek rzemiosła #już się nie znajdzie w tobie, i odgłosu kamienia młyńskiego już się w tobie nie usłyszy."
+"I światło lampy nie zabłyśnie już w tobie, i głosu oblubieńca i oblubienicy nie będzie już słychać #w tobie, bo twoi kupcy byli możnowładcami ziemi, bo twoimi czarami zostały zwiedzione wszystkie narody."
 "W nim też znaleziono krew proroków i świętych, i wszystkich zabitych na ziemi."

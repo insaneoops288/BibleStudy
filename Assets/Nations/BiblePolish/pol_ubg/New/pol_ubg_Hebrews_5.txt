@@ -9,6 +9,6 @@
 "A uczyniony doskonałym, stał się sprawcą wiecznego zbawienia dla wszystkich, którzy są mu posłuszni;"
 "Nazwany przez Boga najwyższym kapłanem według porządku Melchizedeka."
 "Wiele mamy o nim do powiedzenia, a trudno wam to wyjaśnić, ponieważ staliście się ociężali w słuchaniu."
-"Chociaż bowiem ze względu na czas powinniście być nauczycielami, znowu potrzebujecie, żeby was ktoś uczył początkowych zasad słów Bożych, i staliście się ludźmi, którzy potrzebują mleka, a nie stałego pokarmu."
+"Chociaż bowiem ze względu na czas powinniście być nauczycielami, znowu potrzebujecie, żeby was ktoś uczył początkowych #zasad słów Bożych, i staliście się ludźmi, którzy potrzebują mleka, a nie stałego pokarmu."
 "Każdy bowiem, kto żywi się tylko mlekiem, jest niewprawny w słowie sprawiedliwości, bo jest niemowlęciem."
 "Natomiast pokarm stały jest dla dorosłych, którzy przez praktykę mają zmysły wyćwiczone do rozróżniania dobra i zła."

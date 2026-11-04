@@ -14,6 +14,6 @@
 "Puise-toi de l'eau pour le siège; fortifie tes remparts! Entre dans la boue; foule l'argile; répare le four à briques!"
 "Là, le feu te consumera, l'épée t'exterminera; elle te dévorera comme la sauterelle. Multiplie-toi comme le jélek! Multiplie-toi comme les sauterelles!"
 "Tes marchands sont plus nombreux que les étoiles du ciel
-"Tes princes sont comme des sauterelles, tes capitaines comme une multitude de sauterelles qui se posent sur les haies au temps froid; quand le soleil se lève, elles s'enfuient, et l'on ne connaît plus le lieu où elles sont."
+"Tes princes sont comme des sauterelles, tes capitaines comme une multitude de sauterelles qui se posent sur les haies au #temps froid; quand le soleil se lève, elles s'enfuient, et l'on ne connaît plus le lieu où elles sont."
 "Tes pasteurs sommeillent, roi d'Assyrie! Tes hommes vaillants reposent. Ton peuple est dispersé sur les montagnes, il n'y a personne qui le rassemble."
-"Il n'y a point de remède à ta blessure; ta plaie est mortelle! Tous ceux qui entendront parler de toi battront des mains sur toi; car qui est-ce qui n'a pas continuellement éprouvé les effets de ta malice?"
+"Il n'y a point de remède à ta blessure; ta plaie est mortelle! Tous ceux qui entendront parler de toi #battront des mains sur toi; car qui est-ce qui n'a pas continuellement éprouvé les effets de ta malice?"

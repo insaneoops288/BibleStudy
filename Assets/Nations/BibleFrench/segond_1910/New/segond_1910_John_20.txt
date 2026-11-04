@@ -16,7 +16,7 @@
 "Jésus lui dit
 "Jésus lui dit
 "Marie de Magdala alla annoncer aux disciples qu'elle avait vu le Seigneur, et qu'il lui avait dit ces choses."
-"Le soir de ce jour, qui était le premier de la semaine, les portes du lieu où se trouvaient les disciples étant fermées, à cause de la crainte qu'ils avaient des Juifs, Jésus vint, se présenta au milieu d'eux, et leur dit
+"Le soir de ce jour, qui était le premier de la semaine, les portes du lieu où se trouvaient les disciples étant #fermées, à cause de la crainte qu'ils avaient des Juifs, Jésus vint, se présenta au milieu d'eux, et leur dit
 "Et quand il eut dit cela, il leur montra ses mains et son côté. Les disciples furent dans la joie en voyant le Seigneur."
 "Jésus leur dit de nouveau
 "Après ces paroles, il souffla sur eux, et leur dit

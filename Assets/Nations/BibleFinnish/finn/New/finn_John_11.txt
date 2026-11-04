@@ -51,7 +51,7 @@
 "Mutta ei hän sitä itsestänsä sanonut; vaan että hän oli sinä vuonna ylimmäinen pappi, niin hän ennusti, että Jesuksen piti kuoleman kansan tähden,"
 "Ja ei ainoastaan kansan tähden, mutta että hänen piti ne Jumalan lapset, jotka hajoitetut olivat, yhteen kokooman."
 "Mutta siitä päivästä pitivät he yhteen neuvoa, kuolettaaksensa häntä."
-"Ei siis Jesus vaeltanut enää Juudalaisten seassa julkisesti, vaan meni sieltä yhteen maan paikkaan lähes korpea, siihen kaupunkiin, joka kutsutaan Epharaim, ja oleskeli siellä opetuslastensa kanssa."
+"Ei siis Jesus vaeltanut enää Juudalaisten seassa julkisesti, vaan meni sieltä yhteen maan paikkaan #lähes korpea, siihen kaupunkiin, joka kutsutaan Epharaim, ja oleskeli siellä opetuslastensa kanssa."
 "Mutta Juudalaisten pääsiäinen lähestyi, ja monta siitä maakunnasta meni pääsiäisen edellä Jerusalemiin puhdistamaan itsiänsä."
 "Niin he etsivät Jesusta ja puhuivat keskenänsä, seisoen templissä
 "Ja ylimmäiset papit ja Pharisealaiset olivat käskyn antaneet, että jos joku tietäis, kussa hän olis, niin hänen piti sen ilmoittaman, että he ottaisivat hänen kiinni."

@@ -1,7 +1,7 @@
 "Jos sinä käännyt, Israel, sanoo Herra, niin käänny minun tyköni; ja jos sinä panet kauhistukset pois minun kasvoini edestä, niin et sinä tule ajetuksi pois."
 "Silloin sinä olet vannova
 "Sillä näin sanoo Herra
-"Ympärileikatkaat teitänne Herralle, ja pankaat teidän sydämenne esinahka pois, te Juudan miehet ja Jerusalemin asuvaiset; ettei minun julmuuteni pääsisi vallallensa niinkuin tuli, ja niin palaisi, ettei yksikään sitä sammuttaa taida, teidän pahuutenne tähden."
+"Ympärileikatkaat teitänne Herralle, ja pankaat teidän sydämenne esinahka pois, te Juudan miehet ja Jerusalemin asuvaiset; ettei minun #julmuuteni pääsisi vallallensa niinkuin tuli, ja niin palaisi, ettei yksikään sitä sammuttaa taida, teidän pahuutenne tähden."
 "Ilmoittakaat Juudassa ja antakaat kuulla Jerusalemissa, ja sanokaat
 "Nostakaat lippu Zionissa, kootkaat teitänne pakoon ja älkäät viivytelkö; sillä minä annan tulla onnettomuuden pohjasta ja suuren viheliäisyyden."
 "Jalopeura nousee luolastansa, ja pakanain hävittäjä sanoo ja lähtee paikastansa, hävittämään sinun maatas; sinun kaupunkis pitää kukistettaman, niin ettei kenkään niissä asu."
@@ -26,6 +26,6 @@
 "Minä katsoin, katso, hedelmällinen pelto oli autiona, ja kaikki kaupungit olivat kukistetut maahan Herralta, ja hänen julmalta vihaltansa."
 "Sillä näin sanoo Herra
 "Sentähden pitää maan oleman surullisen, ja taivaan ylhäältä murheellisen; sillä minä olen sanonut
-"Kaikki kaupungit pitää pakeneman hevosmiesten ja joutsimiesten huutoa, ja juokseman tihkuihin metsiin ja lymyttämän itsensä kiviraunioihin; kaikki kaupungit pitää oleman kylmillä, niin ettei yksikään niissä asu."
-"Mitäs tahdot tehdä sinä hävitetty? Jos sinä vielä kaunistaisit sinus purppuravaatteella ja kultakäädyillä, voitelisit kasvos, niin sinä kuitenkin sinuas turhaan kaunistelet; sillä ne, jotka nyt ovat sinua rakastaneet, pitää katsoman sinua ylön, ja väijymän sinun henkeäs
+"Kaikki kaupungit pitää pakeneman hevosmiesten ja joutsimiesten huutoa, ja juokseman tihkuihin metsiin ja lymyttämän #itsensä kiviraunioihin; kaikki kaupungit pitää oleman kylmillä, niin ettei yksikään niissä asu."
+"Mitäs tahdot tehdä sinä hävitetty? Jos sinä vielä kaunistaisit sinus purppuravaatteella ja kultakäädyillä, voitelisit kasvos, niin sinä kuitenkin sinuas #turhaan kaunistelet; sillä ne, jotka nyt ovat sinua rakastaneet, pitää katsoman sinua ylön, ja väijymän sinun henkeäs
 "Sillä minä kuulin huudon, niinkuin synnyttäväiseltä, tuskan, niinkuin sen, joka ensimäisen lapsen vaivassa on, Zionin tyttären äänen, joka valittaa ja hajoittaa kätensä

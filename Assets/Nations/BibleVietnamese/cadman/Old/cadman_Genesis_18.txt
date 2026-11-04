@@ -16,13 +16,13 @@
 "Các đấng đều đứng dậy mà đi, ngó về phía, Sô-đôm. Áp-ra-ham cũng theo để tiễn bước các đấng."
 "Ðức Giê-hô-va phán rằng
 "vì Áp-ra-ham chắc sẽ được trở nên một dân lớn và cường thạnh; các dân tộc trên thế gian đều sẽ nhờ người mà được phước."
-"Ta đã chọn người đặng người khiến dạy các con cùng nội nhà người giữ theo đạo Ðức Giê-hô-va, làm các điều công bình và ngay thẳng; thế thì, Ðức Giê-hô-va sẽ làm cho ứng nghiệm lời Ngài đã hứa cùng Áp-ra-ham."
+"Ta đã chọn người đặng người khiến dạy các con cùng nội nhà người giữ theo đạo Ðức Giê-hô-va, làm các điều #công bình và ngay thẳng; thế thì, Ðức Giê-hô-va sẽ làm cho ứng nghiệm lời Ngài đã hứa cùng Áp-ra-ham."
 "Ðức Giê-hô-va phán rằng
 "Ta muốn ngự xuống, để xem xét chúng nó ăn ở có thật như tiếng đã kêu thấu đến ta chăng; nếu chẳng thật, thì ta sẽ biết."
 "Vậy, thì đấng bèn từ đó đi qua hướng Sô-đôm; nhưng Áp-ra-ham hãy còn đứng chầu trước mặt Ðức Giê-hô-va."
 "Áp-ra-ham lại gần và thưa rằng
 "Ngộ trong thành có năm mươi người công bình, Chúa cũng sẽ diệt họ hết sao? Há chẳng tha thứ cho thành đó vì cớ năm mươi người công bình ở trong sao?"
-"Không lẽ nào Chúa làm điều như vậy, diệt người công bình luôn với kẻ độc ác; đến đỗi kể người công bình cũng như người độc ác. Không, Chúa chẳng làm điều như vậy bao giờ! Ðấng đoán xét toàn thế gian, há lại không làm sự công bình sao?"
+"Không lẽ nào Chúa làm điều như vậy, diệt người công bình luôn với kẻ độc ác; đến đỗi kể người công bình cũng như người #độc ác. Không, Chúa chẳng làm điều như vậy bao giờ! Ðấng đoán xét toàn thế gian, há lại không làm sự công bình sao?"
 "Ðức Giê-hô-va phán rằng
 "Áp-ra-ham lại thưa rằng
 "Hãy trong năm mươi người công bình rủi thiếu hết năm; vì cớ năm người thiếu Chúa sẽ diệt hết cả thành chăng? Ngài trả lời rằng

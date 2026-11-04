@@ -29,7 +29,7 @@
 "Y respondiendo él, dijo
 "Y llegando al otro, le dijo de la misma manera; y respondiendo él, dijo
 "¿Cuál de los dos hizo la voluntad del padre? Dicen ellos
-"Porque vino a vosotros Juan en camino de justicia <I>(rectitud)</I> , y no le creisteis; y los publicanos y las rameras le creyeron; y vosotros, viendo esto, nunca os arrepentisteis después para creerle."
+"Porque vino a vosotros Juan en camino de justicia <I>(rectitud)</I> , y no le creisteis; y los #publicanos y las rameras le creyeron; y vosotros, viendo esto, nunca os arrepentisteis después para creerle."
 "Oíd otra parábola
 "Y cuando se acercó el tiempo de los frutos, envió sus siervos a los labradores, para que recibiesen sus frutos."
 "Mas los labradores, tomando a los siervos, al uno hirieron, y al otro mataron, y al otro apedrearon."

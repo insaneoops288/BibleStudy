@@ -21,8 +21,8 @@
 "Sa aba nila na pantas sa kanilang sariling mga mata, at mabait sa kanilang sariling paningin!"
 "Sa aba nila na malakas uminom ng alak, at mga taong malakas sa paghahalo ng matapang na inumin
 "Na nagsisiaring ganap sa masama dahil sa suhol, at inaalis ang katuwiran sa matuwid!"
-"Kaya't kung paanong ang liyab ng apoy ay pumupugnaw ng pinagputulan ng trigo, at kung paanong ang tuyong damo ay nasusupok sa alab, gayon magiging gaya ng kabulukan ang kanilang ugat, at ang kanilang bulaklak ay iilanglang na gaya ng alabok
-"Kaya't nagalab ang galit ng Panginoon laban sa kaniyang bayan, at iniunat niya ang kaniyang kamay laban sa kanila, at sinaktan sila, at ang mga burol ay nanginig, at ang kanilang mga bangkay ay naging dumi sa gitna ng mga lansangan. Sa lahat ng ito ay hindi napawi ang kaniyang galit, kundi laging nakaunat ang kaniyang kamay."
+"Kaya't kung paanong ang liyab ng apoy ay pumupugnaw ng pinagputulan ng trigo, at kung paanong ang tuyong damo ay nasusupok #sa alab, gayon magiging gaya ng kabulukan ang kanilang ugat, at ang kanilang bulaklak ay iilanglang na gaya ng alabok
+"Kaya't nagalab ang galit ng Panginoon laban sa kaniyang bayan, at iniunat niya ang kaniyang kamay laban sa kanila, at sinaktan sila, at ang mga burol ay nanginig, at #ang kanilang mga bangkay ay naging dumi sa gitna ng mga lansangan. Sa lahat ng ito ay hindi napawi ang kaniyang galit, kundi laging nakaunat ang kaniyang kamay."
 "At siya'y magtataas ng watawat sa mga bansa mula sa malayo, at susutsutan sila mula sa wakas ng lupa
 "Walang mapapagod o matitisod man sa kanila; walang iidlip o matutulog man; ni hindi man kakalagin ang pamigkis ng kanilang mga balakang, o mapapatid man ang mga panali ng kanilang mga panyapak
 "Na ang kanilang mga pana ay hasa, at lahat nilang busog ay nangakaakma; ang mga kuko ng kanilang mga kabayo ay maibibilang na parang pingkiang bato, at ang kanilang mga gulong ay parang ipoipo

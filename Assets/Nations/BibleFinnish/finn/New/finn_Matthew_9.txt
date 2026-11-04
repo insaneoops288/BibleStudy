@@ -14,7 +14,7 @@
 "Silloin tulivat Johanneksen opetuslapset hänen tykönsä, ja sanoivat
 "Niin Jesus sanoi heille
 "Mutta ei kenkään paikkaa vanhaa vaatetta uuden veran tilalla; sillä paikka repee pois vaatteesta, ja läpi tulee pahemmaksi."
-"Ei myös pane kenkään nuorta viinaa vanhoihin leileihin; muutoin leilit pakahtuvat, ja viina vuotaa pois, ja leilit turmellaan; vaan nuorta viinaa lasketaan uusiin leileihin, ja niin he molemmat tähdellä ovat."
+"Ei myös pane kenkään nuorta viinaa vanhoihin leileihin; muutoin leilit pakahtuvat, ja viina vuotaa pois, ja #leilit turmellaan; vaan nuorta viinaa lasketaan uusiin leileihin, ja niin he molemmat tähdellä ovat."
 "Kuin hän nämät heille puhunut oli, katso, niin päämies tuli ja kumarsi häntä, sanoen
 "Niin Jesus nousi ja seurasi häntä, ja hänen opetuslapsensa."
 "Ja katso, vaimo, joka oli kaksitoistakymmentä ajastaikaa punaista tautia sairastanut, kävi takana, ja tarttui hänen vaatteensa liepeeseen;"

@@ -55,5 +55,5 @@
 "A gdy wiatr wiejący od południa, mówicie
 "Obłudnicy! postawę nieba i ziemi rozeznawać umiecie, a tego czasu jakoż nie poznawacie?"
 "Przeczże i sami przez się nie sądzicie, co jest sprawiedliwego?"
-"Gdy tedy idziesz z przeciwnikiem swoim przed urząd, starajże się w drodze, abyś był wolen, by cię snać nie pociągnął przed sędziego, a sędzia by cię podał ceklarzowi, a ceklarz by cię wrzucił do więzienia."
+"Gdy tedy idziesz z przeciwnikiem swoim przed urząd, starajże się w drodze, abyś był wolen, by cię snać #nie pociągnął przed sędziego, a sędzia by cię podał ceklarzowi, a ceklarz by cię wrzucił do więzienia."
 "Powiadam ci

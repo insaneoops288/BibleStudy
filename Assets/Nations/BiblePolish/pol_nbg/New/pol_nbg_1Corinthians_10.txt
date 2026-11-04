@@ -10,7 +10,7 @@
 "Ani nie narzekajcie, jak niektórzy z nich narzekali i zginęli na skutek niszczyciela."
 "A to wszystko zdarzyło się im dla wzoru oraz zostało napisane w celu naszego napomnienia; napomnienia tych, do których przyszły końce wieków."
 "Wobec tego ten, kto uważa, że mocno stoi, niech się troszczy aby nie upadł."
-"Jeszcze nie ogarnęło was doświadczenie, chyba, że ludzkie; ale wierny jest Bóg, który nie pozwoli, abyście zostali doświadczani ponad to, co jesteście w stanie unieść; ale wraz z doświadczeniem sprawi też wyjście, byście zdołali je wytrzymać."
+"Jeszcze nie ogarnęło was doświadczenie, chyba, że ludzkie; ale wierny jest Bóg, który nie pozwoli, abyście zostali doświadczani ponad #to, co jesteście w stanie unieść; ale wraz z doświadczeniem sprawi też wyjście, byście zdołali je wytrzymać."
 "Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa."
 "Jako mądrym mówię; wy rozsądźcie, co mówię."
 "Czyż kielich błogosławieństwa, którym wielbimy Boga, nie jest wspólnotą krwi Chrystusa? Czyż chleb, który łamiemy, nie jest wspólnotą ciała Chrystusa?"

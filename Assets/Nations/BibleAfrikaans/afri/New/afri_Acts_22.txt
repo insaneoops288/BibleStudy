@@ -2,7 +2,7 @@
 "En toe hulle hoor dat hy hulle in die Hebreeuse taal toespreek, was hulle nog stiller. En hy sê
 "Ek is 'n Jood, gebore in Tarsus in Cilícië, maar opgevoed in hierdie stad aan die voete van Gamáliël, streng ooreenkomstig die voorvaderlike wet, 'n yweraar vir God soos julle almal vandag is."
 "Hierdie Weg het ek vervolg tot die dood toe, en manne en ook vroue geboei en in gevangenisse oorgegee,"
-"soos ook die hoëpriester en die hele raad van ouderlinge my getuies is. Van hulle het ek ook briewe ontvang en na die broeders in Damaskus gegaan om ook die wat daar was, geboeid na Jerusalem te bring, sodat hulle gestraf kon word."
+"soos ook die hoëpriester en die hele raad van ouderlinge my getuies is. Van hulle het ek ook briewe ontvang en na #die broeders in Damaskus gegaan om ook die wat daar was, geboeid na Jerusalem te bring, sodat hulle gestraf kon word."
 "Maar terwyl ek op reis was en naby Damaskus kom, het daar op die middag skielik 'n groot lig uit die hemel my omstraal,"
 "en ek het op die grond geval en 'n stem vir my hoor sê
 "En ek het geantwoord
@@ -27,4 +27,4 @@
 "En die owerste oor duisend het gekom en hom gevra
 "Toe sê die owerste oor duisend
 "Daarop het die wat hom sou ondersoek, hom dadelik laat staan; en die owerste oor duisend het ook gevrees, omdat hy nou wis dat hy 'n Romein was en hy hom geboei het."
-"En die volgende dag wou hy met sekerheid weet waarvan hy deur die Jode beskuldig was; en hy het hom van sy boeie losgemaak en bevel gegee dat die owerpriesters en hulle hele Raad moes vergader; en hy het Paulus afgebring en voor hulle laat staan."
+"En die volgende dag wou hy met sekerheid weet waarvan hy deur die Jode beskuldig was; en hy het hom van sy boeie losgemaak #en bevel gegee dat die owerpriesters en hulle hele Raad moes vergader; en hy het Paulus afgebring en voor hulle laat staan."

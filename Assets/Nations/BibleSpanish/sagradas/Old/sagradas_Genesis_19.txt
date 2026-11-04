@@ -5,7 +5,7 @@
 "y llamaron a Lot, y le dijeron
 "Entonces Lot salió a ellos a la puerta, y cerró las puertas tras sí,"
 "y dijo
-"He aquí ahora yo tengo dos hijas que no han conocido varón; os las sacaré afuera, y haced de ellas como bien os pareciere; solamente a estos varones no hagáis nada, pues que vinieron a la sombra de mi tejado."
+"He aquí ahora yo tengo dos hijas que no han conocido varón; os las sacaré afuera, y haced de ellas como #bien os pareciere; solamente a estos varones no hagáis nada, pues que vinieron a la sombra de mi tejado."
 "Y ellos respondieron
 "Entonces los varones extendieron su mano, y metieron a Lot en casa con ellos, y cerraron las puertas."
 "Y a los varones que <I>estaban</I>  a la puerta de la casa desde el menor hasta el mayor, hirieron con ceguera; mas <I>ellos</I>  se fatigaban por hallar la puerta."
@@ -13,10 +13,10 @@
 "Porque destruimos este lugar, por cuanto el clamor de ellos se ha engrandecido delante del SEÑOR; por tanto el SEÑOR nos ha enviado para destruirlo."
 "Entonces salió Lot, y habló a sus yernos, los que habían de tomar sus hijas, y les dijo
 "Y cuando el alba subía, los ángeles daban prisa a Lot, diciendo
-"Y deteniéndose él, los varones asieron de su mano, y de la mano de su mujer, y de las manos de sus dos hijas en la misericordia del SEÑOR <I>que era</I>  sobre él; y le sacaron, y le pusieron fuera de la ciudad."
+"Y deteniéndose él, los varones asieron de su mano, y de la mano de su mujer, y de las manos de sus dos #hijas en la misericordia del SEÑOR <I>que era</I>  sobre él; y le sacaron, y le pusieron fuera de la ciudad."
 "Y fue que sacándolos fuera, dijo
 "Y Lot les dijo
-"he aquí ahora ha hallado tu siervo gracia en tus ojos, y has engrandecido tu misericordia que has hecho conmigo dándome la vida; mas yo no podré escapar al monte, que por ventura no se me pegue el mal, y muera."
+"he aquí ahora ha hallado tu siervo gracia en tus ojos, y has engrandecido tu misericordia que has hecho conmigo dándome #la vida; mas yo no podré escapar al monte, que por ventura no se me pegue el mal, y muera."
 "He aquí ahora esta ciudad <I>está</I>  cercana para huir allá, la cual <I>es</I>  pequeña; escaparé ahora allá, (¿no <I>es ella</I>  pequeña?) y vivirá mi alma."
 "Y le respondió
 "Date prisa, escápate allá; porque no podré hacer nada hasta que hayas llegado allá. Por esto fue llamado el nombre de la ciudad, Zoar."

@@ -18,7 +18,7 @@
 "Y saliendo Jael a recibir a Sísara, le dijo
 "Y él le dijo
 "Y él le dijo
-"Y Jael, mujer de Heber, tomó la estaca de la tienda, y poniendo un mazo en su mano, vino a él calladamente, y le metió la estaca por las sienes, y la enclavó en la tierra, <I>pues</I> él estaba cargado de sueño y cansado;  y <I>así</I>  murió."
+"Y Jael, mujer de Heber, tomó la estaca de la tienda, y poniendo un mazo en su mano, vino a él calladamente, y le metió #la estaca por las sienes, y la enclavó en la tierra, <I>pues</I> él estaba cargado de sueño y cansado;  y <I>así</I>  murió."
 "Y siguiendo Barac a Sísara, Jael salió a recibirlo, y le dijo
 "Y aquel día sujetó Dios a Jabín, rey de Canaán, delante de los hijos de Israel."
 "Y la mano de los hijos de Israel comenzó a crecer y a fortificarse contra Jabín rey de Canaán, hasta que lo destruyeron."

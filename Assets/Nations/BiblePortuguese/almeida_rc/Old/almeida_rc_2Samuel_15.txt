@@ -9,7 +9,7 @@
 "Então, lhe disse o rei
 "E enviou Absalão espias por todas as tribos de Israel, dizendo
 "E de Jerusalém foram com Absalão duzentos homens convidados, porém iam na sua simplicidade, porque nada sabiam daquele negócio."
-"Também Absalão mandou vir Aitofel, o gilonita, do conselho de David, à sua cidade de Gilo, estando ele sacrificando os seus sacrifícios; e a conjuração se fortificava, e vinha o povo e se aumentava com Absalão."
+"Também Absalão mandou vir Aitofel, o gilonita, do conselho de David, à sua cidade de Gilo, estando ele sacrificando #os seus sacrifícios; e a conjuração se fortificava, e vinha o povo e se aumentava com Absalão."
 "Então, veio um mensageiro a David, dizendo
 "Disse, pois, David a todos os seus servos que estavam com ele em Jerusalém
 "Então, os servos do rei disseram ao rei
@@ -27,7 +27,7 @@
 "Disse mais o rei a Zadoque, o sacerdote
 "Olhai que me demorarei nas campinas do deserto até que tenha novas vossas."
 "Zadoque, pois, e Abiatar tornaram a levar para Jerusalém a arca de Deus; e ficaram ali."
-"E subiu David pela subida das Oliveiras, subindo e chorando, e com a cabeça coberta; e caminhava com os pés descalços; e todo o povo que ia com ele cobria cada um a sua cabeça, e subiam chorando sem cessar."
+"E subiu David pela subida das Oliveiras, subindo e chorando, e com a cabeça coberta; e caminhava com os pés descalços; #e todo o povo que ia com ele cobria cada um a sua cabeça, e subiam chorando sem cessar."
 "Então, fizeram saber a David, dizendo
 "E aconteceu que, chegando David ao cume, para adorar ali a Deus, eis que Husai, o arquita, veio encontrar-se com ele, com a veste rasgada e terra sobre a cabeça."
 "E disse-lhe David

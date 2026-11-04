@@ -1,7 +1,7 @@
 "A oto potomkowie Ahrona i Mojżesza, w czasie, w którym WIEKUISTY przemawiał do Mojżesza u góry Synaj."
 "Oto synowie Ahrona
 "Oto imiona synów Ahrona, namaszczonych kapłanów, których dłoń została upełnomocniona do sprawowania kapłaństwa."
-"Jednak przed WIEKUISTYM umarli Nadab i Abihu, gdy na pustyni Synaj przynieśli przed oblicze WIEKUISTEGO obcy ogień; a nie mieli potomstwa. Tak więc kapłaństwo sprawowali przy swoim ojcu Ahronie Elazar i Ithamar."
+"Jednak przed WIEKUISTYM umarli Nadab i Abihu, gdy na pustyni Synaj przynieśli przed oblicze WIEKUISTEGO obcy ogień; #a nie mieli potomstwa. Tak więc kapłaństwo sprawowali przy swoim ojcu Ahronie Elazar i Ithamar."
 "WIEKUISTY oświadczył też Mojżeszowi, mówiąc
 "Przyprowadź pokolenie Lewiego i ustaw je przed obliczem Ahrona, aby mu usługiwali."
 "I aby przed Przybytkiem Zboru pełnili jego straż i straż całego zboru, sprawując służbę Przybytku."
@@ -10,7 +10,7 @@
 "Zaś Ahrona i jego synów ustanowisz, by strzegli swojego urzędu kapłańskiego; bo postronny, który by podszedł poniesie śmierć."
 "Nadto WIEKUISTY oświadczył Mojżeszowi, mówiąc
 "Oto Ja wziąłem spośród synów Israela – Lewitów, zamiast wszelkiego pierworodnego z synów Israela, które rozwiera łono; dlatego niech Lewici będą Moimi."
-"Gdyż Moim jest wszelkie pierworodne, od dnia w którym poraziłem wszystkich pierworodnych w ziemi Micraim; poświęciłem Sobie każde pierworodne w Israelu, tak człowieka, jak i bydlę; niech będą Moimi."
+"Gdyż Moim jest wszelkie pierworodne, od dnia w którym poraziłem wszystkich pierworodnych w ziemi Micraim; #poświęciłem Sobie każde pierworodne w Israelu, tak człowieka, jak i bydlę; niech będą Moimi."
 "Także na pustyni Synaj, WIEKUISTY oświadczył Mojżeszowi, mówiąc
 "Policz synów Lewiego według ich domów rodowych, według ich rodzin; policz wszystkich płci męskiej od miesiąca i wyżej."
 "Więc Mojżesz ich policzył jak nakazano, według słowa WIEKUISTEGO."

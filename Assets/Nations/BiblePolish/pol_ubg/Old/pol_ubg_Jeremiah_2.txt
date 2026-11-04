@@ -16,7 +16,7 @@
 "Ponadto synowie Nof i Tachpanes starli czubek twojej głowy."
 "Czy nie sprawiłeś tego sam sobie, opuszczając PANA, swego Boga, kiedy prowadził cię drogą?"
 "A teraz, po co ci drogi Egiptu – by pić wodę z Nilu? Albo po co ci drogi Asyrii – by pić wodę z jej rzeki?"
-"Twoja niegodziwość ukarze cię i twoje odstępstwo cię skarci. Dlatego poznaj i zobacz, że rzeczą złą i gorzką jest to, że opuściłeś PANA, swego Boga, i że nie ma w tobie mojej bojaźni, mówi Pan, BÓG zastępów."
+"Twoja niegodziwość ukarze cię i twoje odstępstwo cię skarci. Dlatego poznaj i zobacz, że rzeczą złą i gorzką jest #to, że opuściłeś PANA, swego Boga, i że nie ma w tobie mojej bojaźni, mówi Pan, BÓG zastępów."
 "Dawno bowiem złamałem twoje jarzmo i rozerwałem twoje więzy, i mówiłaś
 "A ja cię zasadziłem jako wyborną winorośl, nasienie zupełnie prawdziwe. Jakże więc zmieniłaś mi się w zwyrodniałe pędy dzikiej winorośli?"
 "Bo choćbyś mocno się obmyła, i saletrą, i mydłem, to jednak twoja nieprawość pozostanie widoczna przede mną, mówi Pan BÓG."

@@ -12,7 +12,7 @@
 "Le lendemain, comme ils sortaient de Béthanie, il eut faim."
 "Et voyant de loin un figuier qui avait des feuilles, il alla voir s'il y trouverait quelque chose; et s'en étant approché, il n'y trouva que des feuilles; car ce n'était pas la saison des figues."
 "Alors Jésus, prenant la parole, dit
-"Ils vinrent ensuite à Jérusalem; et Jésus étant entré dans le temple, se mit à chasser ceux qui vendaient et qui achetaient dans le temple, et il renversa les tables des changeurs, et les sièges de ceux qui vendaient des pigeons."
+"Ils vinrent ensuite à Jérusalem; et Jésus étant entré dans le temple, se mit à chasser ceux qui vendaient et qui #achetaient dans le temple, et il renversa les tables des changeurs, et les sièges de ceux qui vendaient des pigeons."
 "Et il ne permettait pas que personne portât aucun vaisseau par le temple."
 "Et il les instruisait, en disant
 "Ce que les scribes et les principaux sacrificateurs ayant entendu, ils cherchaient les moyens de le faire périr; car ils le craignaient, parce que tout le peuple était frappé de sa doctrine."

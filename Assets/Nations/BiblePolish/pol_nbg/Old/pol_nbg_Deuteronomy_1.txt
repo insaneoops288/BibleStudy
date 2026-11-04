@@ -4,7 +4,7 @@
 "gdy poraził Sychona, króla Emorei, który zasiadał w Cheszbonie, oraz Oga, króla Baszanu, który zasiadał w Asztaroth, pod Edrei."
 "Mojżesz rozpoczął wykładać to Prawo po tej stronie Jardenu, na ziemi Moab, mówiąc
 "WIEKUISTY, nasz Bóg, oświadczył nam na Chorebie, powiadając
-"Zabierzcie się, wyruszcie i idźcie do góry Emorejczyka oraz do wszystkich jego sąsiadów na stepie, na górze i na nizinie, na południu oraz nad brzegiem morza, do ziemi Kanaanejczyka i Libanu, do wielkiej rzeki, rzeki Frath."
+"Zabierzcie się, wyruszcie i idźcie do góry Emorejczyka oraz do wszystkich jego sąsiadów na stepie, na górze i na #nizinie, na południu oraz nad brzegiem morza, do ziemi Kanaanejczyka i Libanu, do wielkiej rzeki, rzeki Frath."
 "Oto oddaję wam tą ziemię. Więc idźcie oraz zdobądźcie ziemię, o której WIEKUISTY zaprzysiągł waszym ojcom Abrahamowi, Ic'hakowi i Jakóbowi, że im ją odda; a po nich także ich potomstwu."
 "Wówczas was poinformowałem, mówiąc
 "WIEKUISTY, wasz Bóg, was rozmnożył i oto dzisiaj jesteście jak gwiazdy nieba w swym mnóstwie."
@@ -12,11 +12,11 @@
 "Jak mam unieść samemu troskę o was, wasze brzemię i wasze spory?"
 "Dostarczcie spośród siebie mądrych, roztropnych oraz znanych mężów, według waszych pokoleń, a ustanowię ich na waszym czele."
 "Wtedy mi odpowiedzieliście, mówiąc
-"A ja wziąłem przedniejszych z waszych pokoleń, mężów mądrych i znanych, oraz ustanowiłem ich waszymi naczelnikami tysiącznikami, setnikami, pięćdziesiątnikami i dziesiętnikami, oraz nadzorcami według waszych pokoleń."
+"A ja wziąłem przedniejszych z waszych pokoleń, mężów mądrych i znanych, oraz ustanowiłem ich #waszymi naczelnikami tysiącznikami, setnikami, pięćdziesiątnikami i dziesiętnikami, oraz nadzorcami według waszych pokoleń."
 "Wówczas rozkazałem też waszym sędziom, mówiąc
-"Na sądzie nie miejcie względu dla osób; wysłuchujcie tak małego jak i wielkiego. Nie obawiajcie się nikogo, bowiem sąd jest od Boga. Zaś sprawę, która by była dla was za trudna odnieście do mnie, a ja ją wysłucham."
+"Na sądzie nie miejcie względu dla osób; wysłuchujcie tak małego jak i wielkiego. Nie obawiajcie się nikogo, bowiem sąd jest #od Boga. Zaś sprawę, która by była dla was za trudna odnieście do mnie, a ja ją wysłucham."
 "Wówczas nakazałem wam wszystko, co wam należy uczynić."
-"Potem jak rozkazał nam WIEKUISTY, nasz Bóg wyruszyliśmy od Chorebu i przeszliśmy całą ową wielką i straszną pustynię, którą widzieliście po drodze ku górze emorejskiej, i doszliśmy do KadeszBarnea."
+"Potem jak rozkazał nam WIEKUISTY, nasz Bóg wyruszyliśmy od Chorebu i przeszliśmy całą ową wielką #i straszną pustynię, którą widzieliście po drodze ku górze emorejskiej, i doszliśmy do KadeszBarnea."
 "Więc do was powiedziałem
 "Patrz, WIEKUISTY, twój Bóg, oddaje ci tą ziemię przed tobą; wejdź i zdobądź, jak zapowiedział ci Bóg twoich ojców, WIEKUISTY; nie obawiaj się, ani się nie lękaj."
 "Wtedy wszyscy podeszli do mnie i powiedzieli

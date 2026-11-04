@@ -6,7 +6,7 @@
 "En dit het hulle gesê om Hom te versoek, sodat hulle iets kon hê om Hom te beskuldig; maar Jesus het neergebuk en met die vinger op die grond geskrywe."
 "Maar toe hulle aanhou om Hom te vra, het Hy Hom opgerig en vir hulle gesê
 "En weer het Hy neergebuk en op die grond geskrywe."
-"En toe hulle dit hoor, het hulle, deur hul gewete bestraf, een vir een weggegaan, van die oudste af tot die laaste toe; en Jesus het alleen agtergebly, en die vrou wat daar tussen hulle in gestaan het."
+"En toe hulle dit hoor, het hulle, deur hul gewete bestraf, een vir een weggegaan, van die oudste af tot #die laaste toe; en Jesus het alleen agtergebly, en die vrou wat daar tussen hulle in gestaan het."
 "En toe Jesus Hom oprig en niemand sien behalwe die vrou nie, sê Hy vir haar
 "En sy antwoord
 "En Jesus het weer met hulle gespreek en gesê
@@ -41,7 +41,7 @@
 "Julle doen die werke van jul vader. Toe sê hulle vir Hom
 "En Jesus sê vir hulle
 "Waarom ken julle my spraak nie? Omdat julle na my woord nie kan luister nie."
-"Julle het die duiwel as vader, en die begeertes van julle vader wil julle doen. Hy was 'n mensemoordenaar van die begin af en staan nie in die waarheid nie, omdat daar in hom geen waarheid is nie. Wanneer hy leuentaal praat, praat hy uit sy eie, omdat hy 'n leuenaar is en die vader daarvan."
+"Julle het die duiwel as vader, en die begeertes van julle vader wil julle doen. Hy was 'n mensemoordenaar van die begin af en staan nie in die waarheid #nie, omdat daar in hom geen waarheid is nie. Wanneer hy leuentaal praat, praat hy uit sy eie, omdat hy 'n leuenaar is en die vader daarvan."
 "Maar omdat Ek die waarheid spreek, glo julle My nie."
 "Wie van julle oortuig My van sonde? En as Ek die waarheid spreek, waarom glo julle My nie?"
 "Die wat uit God is, luister na die woorde van God. Daarom luister julle nie, omdat julle nie uit God is nie."

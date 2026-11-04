@@ -3,7 +3,7 @@
 "A do tego na ofiarę z pokarmów
 "i po dziesiątej części efy na każde jagnię, z tych siedmiu jagniąt."
 "Nadto jednego zagrzesznego kozła, w celu waszego oczyszczenia."
-"To będzie na przyjemny zapach, na ofiarę ogniową WIEKUISTEMU, oprócz całopalenia miesięcznego oraz jego ofiary z pokarmów, i oprócz całopalenia ustawicznego oraz jego ofiary z pokarmów wraz z zalewkami, według ich przepisu."
+"To będzie na przyjemny zapach, na ofiarę ogniową WIEKUISTEMU, oprócz całopalenia miesięcznego oraz jego ofiary z pokarmów, #i oprócz całopalenia ustawicznego oraz jego ofiary z pokarmów wraz z zalewkami, według ich przepisu."
 "Zaś dziesiątego dnia tego siódmego miesiąca będzie u was świąteczne zgromadzenie; więc będziecie udręczali wasze dusze, i nie będziecie wykonywać żadnej pracy."
 "A będziecie przynosić całopalenie dla WIEKUISTEGO na przyjemny zapach
 "A do tego na ofiarę z pokarmów

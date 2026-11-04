@@ -5,7 +5,7 @@
 "A tak odszedłszy od niego, zamknęła drzwi za sobą i za synami swymi.(Oni przynosili do niej, a ona nalewała.)"
 "I stało się, gdy napełniła one naczynia, rzekła do syna swego
 "Potem ona przyszedłszy, oznajmiła to mężowi Bożemu, który do niej rzekł
-"Stało się potem czasu niektórego, iż szedł Elizeusz przez Sunem, gdzie była niewiasta zacna, która go zatrzymywała, aby jadł chleb; a tak ile kroć tamtędy chodził, wstępował do niej, aby jadł chleb."
+"Stało się potem czasu niektórego, iż szedł Elizeusz przez Sunem, gdzie była niewiasta zacna, która go zatrzymywała, #aby jadł chleb; a tak ile kroć tamtędy chodził, wstępował do niej, aby jadł chleb."
 "Bo rzekła była do męża swego
 "Proszę, uczyńmy gmaszek mały, a postawmy mu tam łóżko i stół, i krzesło i lichtarz, że kiedy przyjdzie do nas, skłoni się tam."
 "A tak dnia jednego, gdy tam przyszedł, skłonił się do onego gmaszku, i odpoczął tam."
@@ -31,7 +31,7 @@
 "A Giezy uprzedził je, i położył laskę na oblicze dziecięcia; lecz nie było głosu, ani czucia. Przetoż się wrócił przeciwko niemu i oznajmił mu, mówiąc
 "Tedy wszedł Elizeusz do domu, a oto dziecię umarłe leżało na łóżku jego."
 "A gdy tam wszedł, zamknął drzwi przed onymi obydwoma, i modlił się Panu."
-"Potem wstąpiwszy na łoże, położył się na dzieciątko, przyłożywszy usta swe do ust jego, a oczy swe do oczów jego, i ręce swe do rąk jego, i rozpostarł się na niem, tak iż się zagrzało ciało dziecięce."
+"Potem wstąpiwszy na łoże, położył się na dzieciątko, przyłożywszy usta swe do ust jego, a oczy swe do oczów #jego, i ręce swe do rąk jego, i rozpostarł się na niem, tak iż się zagrzało ciało dziecięce."
 "A odwróciwszy się od niego, przechadzał się po domu tam i sam; potem wstąpił, a położył się na niem. Tedy kichało dziecię aż do siódmego razu, i otworzyło dziecię oczy swoje."
 "Tedy zawołał Giezego, i rzekł
 "Która wszedłszy, upadła u nóg jego, i kłaniała się aż do ziemi, a wziąwszy syna swego, wyszła."

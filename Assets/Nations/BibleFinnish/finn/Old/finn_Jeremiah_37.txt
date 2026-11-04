@@ -7,7 +7,7 @@
 "Näin sanoo Herra, Israelin Jumala
 "Ja Kaldealaisten pitää palajaman ja sotiman tätä kaupunkia vastaan, ja voittaman sen, ja polttaman sen tulella."
 "Sentähden sanoo Herra näin
-"Ja vaikka te vielä löisitte koko Kaldealaisten sotajoukon, jotka teitä vastaan sotivat, ja muutamat heistä saisivat haavoja; niin pitäis heidän vielä sittenkin kunkin majastansa nouseman, ja polttaman tämän kaupungin tulella."
+"Ja vaikka te vielä löisitte koko Kaldealaisten sotajoukon, jotka teitä vastaan sotivat, ja muutamat heistä saisivat #haavoja; niin pitäis heidän vielä sittenkin kunkin majastansa nouseman, ja polttaman tämän kaupungin tulella."
 "Kuin Kaldealaisten sotajoukko oli lähtenyt Jerusalemista, Pharaon sotajoukon tähden,"
 "Meni Jeremia ulos Jerusalemista, ja tahtoi mennä Benjaminin maalle, ratkaisemaan ja kirvottamaan itsiänsä siellä kansan seasta."
 "Ja kuin hän tuli Benjaminin porttiin, niin siellä oli oven vartion päämies, nimeltä Jirja Selemjan poika, Hananian pojan; se tarttui propheta Jeremiaan, ja sanoi
@@ -18,4 +18,4 @@
 "Ja Jeremia sanoi kuningas Zedekialle
 "Kussa nyt ovat teidän prophetanne, jotka teille ennustivat ja sanoivat
 "Ja nyt, herrani kuningas, kuule minua, ja anna minun rukoukseni tulla sinulta kuulluksi, ja älä minua taas lähetä Jonatanin, kirjoittajan, huoneesen, etten minä siellä kuolisi."
-"Silloin käski kuningas Zedekia, että Jeremia piti tallella pidettämän pihassa vankihuoneen edessä, ja käski hänelle antaa päiväksi osan leipää Leipojan kujalta, siihenasti kuin kaikki leivät kaupungista kuluneeksi tulivat. Niin Jeremia siis oli vankihuoneen pihassa."
+"Silloin käski kuningas Zedekia, että Jeremia piti tallella pidettämän pihassa vankihuoneen edessä, ja käski hänelle antaa päiväksi osan #leipää Leipojan kujalta, siihenasti kuin kaikki leivät kaupungista kuluneeksi tulivat. Niin Jeremia siis oli vankihuoneen pihassa."

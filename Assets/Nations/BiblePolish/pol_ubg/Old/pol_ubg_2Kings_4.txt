@@ -5,7 +5,7 @@
 "Odeszła więc od niego, zamknęła drzwi za sobą i za swymi synami. Ci przynosili jej naczynia, a ona nalewała."
 "Kiedy naczynia były pełne, powiedziała do swego syna
 "Potem przyszła i opowiedziała o tym mężowi Bożemu. On powiedział jej
-"Zdarzyło się pewnego dnia, że Elizeusz przechodził przez Szunem, gdzie mieszkała zacna kobieta, która zatrzymała go, aby spożył posiłek. Ilekroć więc tamtędy przechodził, wstępował do niej, by spożyć posiłek."
+"Zdarzyło się pewnego dnia, że Elizeusz przechodził przez Szunem, gdzie mieszkała zacna kobieta, która zatrzymała #go, aby spożył posiłek. Ilekroć więc tamtędy przechodził, wstępował do niej, by spożyć posiłek."
 "Wtedy powiedziała do swego męża
 "Zróbmy mały górny pokój i wstawmy tam dla niego łóżko, stół, krzesło i świecznik. I kiedy przyjdzie do nas, uda się tam."
 "Pewnego dnia, gdy tam przybył, udał się do tego pokoju i tam się położył."

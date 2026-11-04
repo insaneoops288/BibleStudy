@@ -14,7 +14,7 @@
 "A Piotr stanął razem z jedenastoma, podniósł swój głos i do nich powiedział
 "Bo oni nie są, jak wy sądzicie pijani, gdyż jest trzecia godzina dnia;"
 "ale dzieje się to, co zapowiedziano przez proroka Joela
-"A w ostatnich dniach zdarzy się, mówi Bóg, że wyleję z mojego Ducha na wszelkie ciało wewnętrzne, zatem wasi synowie i wasze córki będą prorokować, wasi młodzieńcyujrzą wizje, a wasi starsi śnić będą snami."
+"A w ostatnich dniach zdarzy się, mówi Bóg, że wyleję z mojego Ducha na wszelkie ciało wewnętrzne, zatem #wasi synowie i wasze córki będą prorokować, wasi młodzieńcyujrzą wizje, a wasi starsi śnić będą snami."
 "Także w tych dniach wyleje z mojego Ducha na moje sługi oraz na moje służebnice i będą prorokować."
 "W górze wyznaczę znaki na niebie, a na dole cuda na ziemi, krew, ogień i wyziew dymu;"
 "słońce obróci się w ciemność, a księżyc w krew, zanim przyjdzie wielki i jawny dzień Pana."

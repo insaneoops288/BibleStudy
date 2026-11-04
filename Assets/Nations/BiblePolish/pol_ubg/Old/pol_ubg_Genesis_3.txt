@@ -3,7 +3,7 @@
 "Ale o owocu drzewa, które jest pośrodku ogrodu, Bóg powiedział
 "I wąż powiedział do kobiety
 "Ale Bóg wie, że tego dnia, gdy z niego zjecie, otworzą się wasze oczy i będziecie jak bogowie znający dobro i zło."
-"A gdy kobieta spostrzegła, że owoc drzewa był dobry do jedzenia i miły dla oka, a drzewo godne pożądania dla zdobycia wiedzy, wzięła z niego owoc i zjadła; dała też swemu mężowi, który był z nią; i on zjadł."
+"A gdy kobieta spostrzegła, że owoc drzewa był dobry do jedzenia i miły dla oka, a drzewo godne pożądania dla #zdobycia wiedzy, wzięła z niego owoc i zjadła; dała też swemu mężowi, który był z nią; i on zjadł."
 "I otworzyły się im obojgu oczy i poznali, że są nadzy. Spletli więc liście figowe i zrobili sobie przepaski."
 "Wtedy usłyszeli głos PANA Boga chodzącego po ogrodzie w powiewie dziennym. I Adam, i jego żona ukryli się przed obliczem PANA Boga wśród drzew ogrodu."
 "I PAN Bóg zawołał na Adama, i zapytał go

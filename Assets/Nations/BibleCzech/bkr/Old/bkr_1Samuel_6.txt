@@ -12,10 +12,10 @@
 "I šly upřímo krávy cestou, kteráž vede do Betsemes, silnicí jednou předce jdouce a řičíce, aniž se uchýlily na pravo aneb na levo. Knížata také Filistinská šla za nimi až ku pomezí Betsemes."
 "Betsemští pak žali tehdáž pšenici v údolí, a pozdvihše očí svých, uzřeli truhlu; i veselili se, vidouce ji."
 "A když přijel vůz na pole Jozue Betsemského, tu se zastavil. I byl tu kámen veliký. Tedy zsekavše dříví vozu toho i ty krávy, obětovali je v obět zápalnou Hospodinu."
-"Levítové pak složili truhlu Hospodinovu i škřiňku, kteráž byla při ní, v níž byly nádoby zlaté, a postavili na ten kámen veliký. Muži pak Betsemští dodávali obětí zápalných, a obětovali oběti v ten den Hospodinu."
+"Levítové pak složili truhlu Hospodinovu i škřiňku, kteráž byla při ní, v níž byly nádoby zlaté, a postavili #na ten kámen veliký. Muži pak Betsemští dodávali obětí zápalných, a obětovali oběti v ten den Hospodinu."
 "Což viděvše knížata Filistinská, navrátili se do Akaron téhož dne."
 "Tito jsou pak zadkové zlatí, kteréž dali Filistinští za své provinění Hospodinu, za Azot jeden, za Gázu jeden, za Aškalon jeden, za Gát jeden, za Akaron jeden."
-"Myši také zlaté, vedlé počtu všech měst Filistinských, za patero knížetství, od města hrazeného až do vsi nehrazené, a až k kameni tomu velikému, na němž postavili truhlu Hospodinovu, kterýž jest až do tohoto dne na poli Jozue Betsemského."
+"Myši také zlaté, vedlé počtu všech měst Filistinských, za patero knížetství, od města hrazeného až do vsi nehrazené, a až #k kameni tomu velikému, na němž postavili truhlu Hospodinovu, kterýž jest až do tohoto dne na poli Jozue Betsemského."
 "Pobil pak Hospodin z mužů Betsemských, kteříž hleděli do truhly Hospodinovy, pobil, pravím, z lidu padesát tisíců a sedmdesáte mužů. I kvílil lid, proto že učinil Hospodin v lidu porážku velikou."
 "Protož řekli muži Betsemští
 "I poslali posly k obyvatelům Kariatjeharim, řkouce

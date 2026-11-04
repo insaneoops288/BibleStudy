@@ -9,6 +9,6 @@
 "Y luego que le despojaron, tomaron su cabeza y sus armas, y enviaron mensajeros por toda la tierra de los filisteos, para dar las nuevas a sus ídolos y al pueblo."
 "Y pusieron sus armas en el templo de sus dioses, y colgaron la cabeza en el templo de Dagón."
 "Y oyendo todos los de Jabes de Galaad lo que los filisteos habían hecho de Saúl,"
-"se levantaron todos los hombres valientes, y tomaron el cuerpo de Saúl, y los cuerpos de sus hijos, y los trajeron a Jabes; y enterraron sus huesos debajo del alcornoque en Jabes, y ayunaron siete días."
+"se levantaron todos los hombres valientes, y tomaron el cuerpo de Saúl, y los cuerpos de sus hijos, y #los trajeron a Jabes; y enterraron sus huesos debajo del alcornoque en Jabes, y ayunaron siete días."
 "Así murió Saúl por su rebelión con que prevaricó contra Jehová, contra la palabra de Jehová, la cual no guardó; y porque consultó a una pitonisa,"
 "y no consultó a Jehová; por esta causa lo mató, y traspasó el reino a David, hijo de Isaí."

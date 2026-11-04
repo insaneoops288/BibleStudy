@@ -1,5 +1,5 @@
 "Du temps des juges, il y eut une famine dans le pays. Un homme de Bethléhem de Juda partit, avec sa femme et ses deux fils, pour faire un séjour dans le pays de Moab."
-"Le nom de cet homme était Elimélec, celui de sa femme Naomi, et ses deux fils s'appelaient Machlon et Kiljon; ils étaient Ephratiens, de Bethléhem de Juda. Arrivés au pays de Moab, ils y fixèrent leur demeure."
+"Le nom de cet homme était Elimélec, celui de sa femme Naomi, et ses deux fils s'appelaient Machlon et #Kiljon; ils étaient Ephratiens, de Bethléhem de Juda. Arrivés au pays de Moab, ils y fixèrent leur demeure."
 "Elimélec, mari de Naomi, mourut, et elle resta avec ses deux fils."
 "Ils prirent des femmes Moabites, dont l'une se nommait Orpa, et l'autre Ruth, et ils habitèrent là environ dix ans."
 "Machlon et Kiljon moururent aussi tous les deux, et Naomi resta privée de ses deux fils et de son mari."
@@ -10,7 +10,7 @@
 "et elles lui dirent
 "Naomi, dit
 "Retournez, mes filles, allez! Je suis trop vieille pour me remarier. Et quand je dirais
-"attendriez-vous pour cela qu'ils eussent grandi, refuseriez-vous pour cela de vous marier? Non, mes filles! car à cause de vous je suis dans une grande affliction de ce que la main de l'Eternel s'est étendue contre moi."
+"attendriez-vous pour cela qu'ils eussent grandi, refuseriez-vous pour cela de vous marier? Non, mes filles! car à cause de #vous je suis dans une grande affliction de ce que la main de l'Eternel s'est étendue contre moi."
 "Et elles élevèrent la voix, et pleurèrent encore. Orpa baisa sa belle-mère, mais Ruth s'attacha à elle."
 "Naomi dit à Ruth
 "Ruth répondit
@@ -18,5 +18,5 @@
 "Naomi, la voyant décidée à aller avec elle, cessa ses instances."
 "Elles firent ensemble le voyage jusqu'à leur arrivée à Bethléhem. Et lorsqu'elles entrèrent dans Bethléhem, toute la ville fut émue à cause d'elles, et les femmes disaient
 "Elle leur dit
-"J'étais dans l'abondance à mon départ, et l'Eternel me ramène les mains vides. Pourquoi m'appelleriez-vous Naomi, après que l'Eternel s'est prononcé contre moi, et que le Tout-Puissant m'a affligée?"
+"J'étais dans l'abondance à mon départ, et l'Eternel me ramène les mains vides. Pourquoi m'appelleriez-vous #Naomi, après que l'Eternel s'est prononcé contre moi, et que le Tout-Puissant m'a affligée?"
 "Ainsi revinrent du pays de Moab Naomi et sa belle-fille, Ruth la Moabite. Elles arrivèrent à Bethléhem au commencement de la moisson des orges."

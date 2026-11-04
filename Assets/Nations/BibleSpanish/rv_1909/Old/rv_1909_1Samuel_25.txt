@@ -1,6 +1,6 @@
 "Y MURIO Samuel, y juntóse todo Israel, y lo lloraron, y lo sepultaron en su casa en Rama. Y levantóse David, y se fué al desierto de Parán."
 "Y en Maón había un hombre que tenía su hacienda en el Carmelo, el cual era muy rico, que tenía tres mil ovejas y mil cabras. Y aconteció hallarse esquilando sus ovejas en el Carmelo."
-"El nombre de aquel varón era Nabal, y el nombre de su mujer, Abigail. Y era aquella mujer de buen entendimiento y de buena gracia; mas el hombre era duro y de malos hechos; y era del linaje de Caleb."
+"El nombre de aquel varón era Nabal, y el nombre de su mujer, Abigail. Y era aquella mujer de buen entendimiento #y de buena gracia; mas el hombre era duro y de malos hechos; y era del linaje de Caleb."
 "Y oyó David en el desierto que Nabal esquilaba sus ovejas."
 "Entonces envió David diez criados, y díjoles
 "Y decidle así
@@ -15,7 +15,7 @@
 "Mas aquellos hombres nos han sido muy buenos, y nunca nos han hecho fuerza, ni ninguna cosa nos ha faltado en todo el tiempo que hemos conversado con ellos, mientras hemos estado en el campo."
 "Hannos sido por muro de día y de noche, todos los días que hemos estado con ellos apacentando las ovejas."
 "Ahora pues, entiende y mira lo que has de hacer, porque el mal está del todo resuelto contra nuestro amo y contra toda su casa
-"Entonces Abigail tomó luego doscientos panes, y dos cueros de vino, y cinco ovejas guisadas, y cinco medidas de grano tostado, y cien hilos de uvas pasas, y doscientos panes de higos secos, y cargólo en asnos;"
+"Entonces Abigail tomó luego doscientos panes, y dos cueros de vino, y cinco ovejas guisadas, y cinco medidas de #grano tostado, y cien hilos de uvas pasas, y doscientos panes de higos secos, y cargólo en asnos;"
 "Y dijo á sus criados
 "Y sentándose sobre un asno descendió por una parte secreta del monte, y he aquí David y los suyos que venían frente á ella, y ella les fué al encuentro."
 "Y David había dicho
@@ -23,12 +23,12 @@
 "Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á tierra;"
 "Y echóse á sus pies, y dijo
 "No ponga ahora mi señor su corazón á aquel hombre brusco, á Nabal; porque conforme á su nombre, así es. El se llama Nabal, y la locura está con él
-"Ahora pues, señor mío, vive Jehová y vive tu alma, que Jehová te ha estorbado que vinieses á derramar sangre, y vengarte por tu propia mano. Sean pues como Nabal tus enemigos, y todos los que procuran mal contra mi señor."
+"Ahora pues, señor mío, vive Jehová y vive tu alma, que Jehová te ha estorbado que vinieses á derramar sangre, y #vengarte por tu propia mano. Sean pues como Nabal tus enemigos, y todos los que procuran mal contra mi señor."
 "Y ahora esta bendición que tu sierva ha traído á mi señor, dése á los criados que siguen á mi señor."
 "Y yo te ruego que perdones á tu sierva esta ofensa; pues Jehová de cierto hará casa firme á mi señor, por cuanto mi señor hace las guerras de Jehová, y mal no se ha hallado en ti en tus días."
-"Bien que alguien se haya levantado á perseguirte y atentar á tu vida, con todo, el alma de mi señor será ligada en el haz de los que viven con Jehová Dios tuyo, y él arrojará el alma de tus enemigos como de en medio de la palma de una honda."
+"Bien que alguien se haya levantado á perseguirte y atentar á tu vida, con todo, el alma de mi señor será ligada en el haz de #los que viven con Jehová Dios tuyo, y él arrojará el alma de tus enemigos como de en medio de la palma de una honda."
 "Y acontecerá que cuando Jehová hiciere con mi señor conforme á todo el bien que ha hablado de ti, y te mandare que seas caudillo sobre Israel,"
-"Entonces, señor mío, no te será esto en tropiezo y turbación de corazón, el que hayas derramado sangre sin causa, ó que mi señor se haya vengado por sí mismo. Guárdese pues mi señor, y cuando Jehová hiciere bien á mi señor, acuérdate de tu sierva."
+"Entonces, señor mío, no te será esto en tropiezo y turbación de corazón, el que hayas derramado sangre sin causa, ó que mi señor #se haya vengado por sí mismo. Guárdese pues mi señor, y cuando Jehová hiciere bien á mi señor, acuérdate de tu sierva."
 "Y dijo David á Abigail
 "Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy el ir á derramar sangre, y á vengarme por mi propia mano
 "Porque, vive Jehová Dios de Israel que me ha defendido de hacerte mal, que si no te hubieras dado priesa en venirme al encuentro, de aquí á mañana no le quedara á Nabal meante á la pared."

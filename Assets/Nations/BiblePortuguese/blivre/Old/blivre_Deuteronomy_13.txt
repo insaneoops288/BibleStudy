@@ -2,7 +2,7 @@
 "E acontecer o sinal ou prodígio que ele te disse, dizendo
 "Não darás ouvido às palavras de tal profeta, nem ao tal sonhador de sonhos
 "Atrás do SENHOR vosso Deus andareis, e a ele temereis, e guardareis seus mandamentos, e escutareis sua voz, e a ele servireis, e a ele vos achegareis."
-"E o tal profeta ou sonhador de sonhos, será morto; porquanto tratou de rebelião contra o SENHOR vosso Deus, que te tirou da terra do Egito, e te resgatou de casa de servos, e de tirar-te do caminho pelo que o SENHOR teu Deus te mandou que andasses; e assim tirarás o mal do meio de ti."
+"E o tal profeta ou sonhador de sonhos, será morto; porquanto tratou de rebelião contra o SENHOR vosso Deus, que te tirou da terra do Egito, e te resgatou #de casa de servos, e de tirar-te do caminho pelo que o SENHOR teu Deus te mandou que andasses; e assim tirarás o mal do meio de ti."
 "Quando te incitar teu irmão, filho de tua mãe, ou teu filho, ou tua filha, ou a mulher de teu seio, ou teu amigo que seja como tua alma, dizendo em secreto
 "Aos deuses dos povos que estão em vossos arredores próximo a ti, ou longe de ti, desde um fim da terra até o outro fim dela;"
 "Não consentirás com ele, nem lhe darás ouvido; nem teu olho o perdoará, nem terás compaixão, nem o encobrirás

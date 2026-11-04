@@ -1,7 +1,7 @@
 "Und nach etlichen Tagen ging er wiederum hinein nach Kapernaum, und es wurde ruchbar, daß er im Hause sei."
 "Und alsbald versammelten sich viele, so daß selbst an der Tür nicht mehr Raum war; und er redete zu ihnen das Wort."
 "Und sie kommen zu ihm und bringen einen Gelähmten, von vieren getragen."
-"Und da sie wegen der Volksmenge nicht nahe zu ihm kommen konnten, deckten sie das Dach ab, wo er war; und als sie es aufgebrochen hatten, ließen sie das Ruhebett hinab, auf welchem der Gelähmte lag."
+"Und da sie wegen der Volksmenge nicht nahe zu ihm kommen konnten, deckten sie das Dach ab, wo er #war; und als sie es aufgebrochen hatten, ließen sie das Ruhebett hinab, auf welchem der Gelähmte lag."
 "Als Jesus aber ihren Glauben sah, spricht er zu dem Gelähmten
 "Etliche aber von den Schriftgelehrten saßen daselbst undüberlegten in ihren Herzen
 "Was redet dieser also? Er lästert. Wer kann Sünden vergeben, als nur einer, Gott?"

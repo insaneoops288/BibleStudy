@@ -13,7 +13,7 @@
 "Vous supportant les uns les autres, et vous pardonnant les uns aux autres, si l'un a quelque sujet de plainte contre l'autre. Comme Christ vous a pardonné, vous aussi, faites de même."
 "Mais par-dessus toutes choses revêtez-vous de la charité, qui est le lien de la perfection."
 "Et que la paix de Christ, à laquelle vous avez été appelés en un seul corps, règne dans vos cœurs; et soyez reconnaissants."
-"Que la parole de Christ habite abondamment en vous, en toute sagesse. Instruisez-vous et exhortez-vous les uns les autres, par des psaumes, et des hymnes et des cantiques spirituels, chantant dans vos cœurs au Seigneur, avec reconnaissance."
+"Que la parole de Christ habite abondamment en vous, en toute sagesse. Instruisez-vous et exhortez-vous les uns les autres, #par des psaumes, et des hymnes et des cantiques spirituels, chantant dans vos cœurs au Seigneur, avec reconnaissance."
 "Et quoi que vous fassiez, en paroles, ou en œuvres, faites tout au nom du Seigneur Jésus, rendant grâces par lui à Dieu le Père."
 "Femmes, soyez soumises à vos propres maris, comme il convient selon le Seigneur."
 "Maris, aimez vos femmes, et ne vous aigrissez point contre elles."

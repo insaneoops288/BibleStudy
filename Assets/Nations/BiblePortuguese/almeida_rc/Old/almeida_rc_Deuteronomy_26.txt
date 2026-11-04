@@ -1,5 +1,5 @@
 "E será que, quando entrares na terra que o SENHOR, teu Deus, te dará por herança, e a possuíres, e nela habitares,"
-"então, tomarás das primícias de todos os frutos da terra que trouxeres da tua terra, que te dá o SENHOR, teu Deus, e as porás num cesto, e irás ao lugar que escolher o SENHOR, teu Deus, para ali fazer habitar o seu nome."
+"então, tomarás das primícias de todos os frutos da terra que trouxeres da tua terra, que te dá o SENHOR, teu Deus, e #as porás num cesto, e irás ao lugar que escolher o SENHOR, teu Deus, para ali fazer habitar o seu nome."
 "E virás ao sacerdote, que naqueles dias for, e dir-lhe-ás
 "E o sacerdote tomará o cesto da tua mão e o porá diante do altar do SENHOR, teu Deus."
 "Então, protestarás perante o SENHOR, teu Deus, e dirás
@@ -9,7 +9,7 @@
 "e nos trouxe a este lugar e nos deu esta terra, terra que mana leite e mel."
 "E eis que agora eu trouxe as primícias dos frutos da terra que tu, ó SENHOR, me deste. Então, as porás perante o SENHOR, teu Deus, e te inclinarás perante o SENHOR, teu Deus."
 "E te alegrarás por todo o bem que o SENHOR, teu Deus, te tem dado a ti e a tua casa, tu, e o levita, e o estrangeiro que está no meio de ti."
-"Quando acabares de dizimar todos os dízimos da tua novidade, no ano terceiro, que é o ano dos dízimos, então, a darás ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas portas e se fartem."
+"Quando acabares de dizimar todos os dízimos da tua novidade, no ano terceiro, que é o ano dos dízimos, então, a #darás ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas portas e se fartem."
 "E dirás perante o SENHOR, teu Deus
 "Disso não comi na minha tristeza e disso nada tirei para imundície, nem disso dei para algum morto; obedeci à voz do SENHOR, meu Deus; conforme tudo o que me ordenaste, tenho feito."
 "Olha desde a tua santa habitação, desde o céu, e abençoa o teu povo, a Israel, e a terra que nos deste, como juraste a nossos pais, terra que mana leite e mel."

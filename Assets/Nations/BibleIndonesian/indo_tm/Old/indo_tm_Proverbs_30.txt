@@ -1,7 +1,7 @@
 "Bahwa inilah perkataan Agur bin Yakai; sabda perumpamaan orang itu kepada Itiel, bahkan kepada Itiel dan Ukhal."
 "Bahwa aku ini tiada berbudi, seperti bukannya orang, aku tiada berakal manusia."
 "Dan lagi tiada aku belajar hikmat, dan tiada aku mengerti pengetahuan Tuhan, yang mahasuci."
-"Siapa gerangan telah naik ke sorga atau telah turun dari sana? Siapakah telah menggenggam angin dengan tangannya? Siapakah telah membungkus air itu dengan sehelai kain? Siapakah telah menetapkan segala pihak bumi? Siapa gerangan namanya dan siapa gerangan nama anaknya? Katakanlah jikalau kiranya engkau mengetahuinya."
+"Siapa gerangan telah naik ke sorga atau telah turun dari sana? Siapakah telah menggenggam angin dengan tangannya? Siapakah telah membungkus air itu dengan #sehelai kain? Siapakah telah menetapkan segala pihak bumi? Siapa gerangan namanya dan siapa gerangan nama anaknya? Katakanlah jikalau kiranya engkau mengetahuinya."
 "Segala firman Allah itu amat suci adanya, maka Ialah laksana perisai bagi segala orang yang berpaut kepada-Nya."
 "Jangan apalah engkau menambahi firman-Nya dengan barang sesuatu, supaya jangan dihukumkan-Nya engkau dan didapati-Nya akan dikau seorang pembohong."
 "Dua perkara juga telah kupinta kepadamu; jangan apalah engkau menahankan dia dari padaku dahulu dari pada matiku."
@@ -11,7 +11,7 @@
 "Adalah suatu bangsa yang menistakan bapanya dan tiada memberi berkat akan ibunya;"
 "suatu bangsa yang sangka akan dirinya suci, tetapi tiada dibasuhkan kecemarannya;"
 "suatu bangsa, hai betapa besar matanya dan terangkat kelopak matanya!"
-"suatu bangsa yang giginya laksana pedang dan gigi gerahamnya laksana pisau, hendak makan habis akan segala orang miskin yang di dalam negeri, dan akan segala orang yang kekurangan di antara manusia."
+"suatu bangsa yang giginya laksana pedang dan gigi gerahamnya laksana pisau, hendak makan habis akan segala #orang miskin yang di dalam negeri, dan akan segala orang yang kekurangan di antara manusia."
 "Pada si lintah adalah dua anaknya, ia ini
 "yaitu
 "Adapun orang yang mengolok-olok akan bapanya dan enggan menurut kata ibunya, maka gagak dari tepi sungai akan mematuk matanya dan anak burung nasar akan makan dia."

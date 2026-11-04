@@ -5,7 +5,7 @@
 "Mutta valvo sinä kaikissa, kärsi ja kestä vaivoissa, tee evankeliumin saarnaajan työ ja toimita virkas täydellisesti."
 "Sillä minä jo uhrataan ja minun pääsemiseni aika lähestyy."
 "Minä olen hyvän kilvoituksen kilvoitellut, juoksun päättänyt, uskon pitänyt."
-"Tästedes on minulle tallelle pantu vanhurskauden kruunu, jonka Herra, vanhurskas tuomari, sinä päivänä minulle antaa, mutta ei ainoastansa minulle, vaan myös kaikille, jotka hänen ilmestystänsä rakastavat."
+"Tästedes on minulle tallelle pantu vanhurskauden kruunu, jonka Herra, vanhurskas tuomari, sinä päivänä minulle #antaa, mutta ei ainoastansa minulle, vaan myös kaikille, jotka hänen ilmestystänsä rakastavat."
 "Ahkeroitse, ettäs pian minun tyköni tulet;"
 "Sillä Demas antoi minun ylön ja halasi tätä maailmaa ja meni Tessalonikaan, Kreskens Galatiaan, Titus Dalmatiaan."
 "Ainoastaan Luukas on minun kanssani. Ota Markus tykös ja tuo häntä kanssas; sillä hän on sangen tarpeellinen minulle palvelukseen."

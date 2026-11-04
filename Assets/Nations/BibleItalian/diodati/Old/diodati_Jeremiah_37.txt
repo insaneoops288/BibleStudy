@@ -7,7 +7,7 @@
 "Così ha detto il Signore Iddio d’Israele
 "Ed i Caldei torneranno, e combatteranno contro a questa città, e la prenderanno, e l’arderanno col fuoco."
 "Così ha detto il Signore
-"Anzi, avvegnachè voi aveste sconfitto tutto l’esercito de’ Caldei, che combattono con voi, e che non ne fossero rimasti se non alcuni pochi, pur si leverebbero quelli, ciascuno nella sua tenda, e brucerebbero questa città col fuoco."
+"Anzi, avvegnachè voi aveste sconfitto tutto l’esercito de’ Caldei, che combattono con voi, e che non ne fossero rimasti #se non alcuni pochi, pur si leverebbero quelli, ciascuno nella sua tenda, e brucerebbero questa città col fuoco."
 "Or avvenne che quando l’esercito dei Caldei si fu dipartito d’appresso a Gerusalemme, per cagion dell’esercito di Faraone,"
 "Geremia usciva di Gerusalemme, per andarsene nel paese di Beniamino, per isfuggire di là per mezzo il popolo."
 "Ma quando fu alla porta di Beniamino, quivi era un capitano della guardia, il cui nome era Ireia, figliuolo di Selemia, figliuolo di Hanania; il quale prese il profeta Geremia, dicendo
@@ -18,4 +18,4 @@
 "Oltre a ciò, Geremia disse al re Sedechia
 "E dove sono ora i vostri profeti, che vi profetizzavano, dicendo
 "Or al presente, ascolta, ti prego, o re, mio signore; deh! caggia la mia supplicazione nel tuo cospetto; non farmi ritornar nella casa di Gionatan, scriba, che io non vi muoia."
-"E il re Sedechia comandò che Geremia fosse rinchiuso nella corte della prigione, e che gli fosse dato un pezzo di pane per giorno, dalla piazza de’ fornai; il che fu fatto finchè tutto il pane fu venuto meno nella città. Così Geremia stette nella corte della prigione."
+"E il re Sedechia comandò che Geremia fosse rinchiuso nella corte della prigione, e che gli fosse dato un pezzo di pane per giorno, dalla #piazza de’ fornai; il che fu fatto finchè tutto il pane fu venuto meno nella città. Così Geremia stette nella corte della prigione."

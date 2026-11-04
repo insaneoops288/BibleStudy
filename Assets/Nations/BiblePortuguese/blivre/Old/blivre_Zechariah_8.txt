@@ -7,7 +7,7 @@
 "Assim disse o SENHOR dos exércitos
 "Eu os trarei, e habitarão no meio de Jerusalém; e eles serão meu povo, e eu serei o Deus deles em verdade e em justiça."
 "Assim diz o SENHOR dos exércitos
-"Porque antes daqueles dias não houve salário para homem, nem salário para animal, e o que entrava e o que saía não tinha paz por causa do inimigo, porque eu mandei a todos, cada um contra seu próximo."
+"Porque antes daqueles dias não houve salário para homem, nem salário para animal, e o que entrava e o que #saía não tinha paz por causa do inimigo, porque eu mandei a todos, cada um contra seu próximo."
 "Mas agora com o resto deste povo não farei como nos dias passados, diz o SENHOR dos exércitos."
 "Porque a semente será próspera, a vide dará seu fruto, a terra dará seu produto, e os céus darão seu orvalho; e farei o resto deste povo herdar tudo isto."
 "E será, ó casa de Judá e casa de Israel, que, assim como fostes maldição entre as nações, assim também eu vos salvarei, e sereis bênção. Não temais, fortaleçam-se vossas mãos."

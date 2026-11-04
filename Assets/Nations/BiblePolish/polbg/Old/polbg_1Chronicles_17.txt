@@ -18,7 +18,7 @@
 "Cóż jeszcze więcej ma mówić Dawid przed tobą o uwielbieniu sługi twego? albowiem ty znasz sługę twego."
 "Panie! dla sługi twego i według serca twego uczyniłeś te wszystkie wielkie rzeczy, abyś znajome uczynił te wszystkie wielmożne sprawy."
 "Panie! nie masz podobnego tobie, i nie masz Boga oprócz ciebie, wedle wszystkiego, cośmy słyszeli w uszy nasze."
-"I któż jest jako lud twój, jako Izrael, naród jedyny na ziemi, dla któregoby Bóg szedł, aby go sobie odkupił za lud, a uczynił sobie imię, czyniąc wielkie rzeczy i straszne, wyganiając pogany przed twarzą ludu twego, któryś wykupił z Egiptu?"
+"I któż jest jako lud twój, jako Izrael, naród jedyny na ziemi, dla któregoby Bóg szedł, aby go sobie odkupił za #lud, a uczynił sobie imię, czyniąc wielkie rzeczy i straszne, wyganiając pogany przed twarzą ludu twego, któryś wykupił z Egiptu?"
 "I uczyniłeś lud twój Izraelski sobie za lud aż na wieki, a ty Panie! stałeś się im za Boga."
 "Przetoż teraz, o Panie! słowo, któreś powiedział o słudze twoim, i o domu jego, niech będzie stwierdzone aż na wieki, a uczyń, jakoś powiedział."
 "Niechajże się tak stanie, i niechaj będzie uwielbione imię twoje aż na wieki, aby mówiono

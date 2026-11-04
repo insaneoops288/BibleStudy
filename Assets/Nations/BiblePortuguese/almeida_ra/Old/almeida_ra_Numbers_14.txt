@@ -11,11 +11,11 @@
 "Disse então o Senhor a Moisés
 "Com pestilência o ferirei, e o rejeitarei; e farei de ti uma nação maior e mais forte do que ele."
 "Respondeu Moisés ao Senhor
-"e o dirão aos habitantes desta terra. Eles ouviram que tu, ó Senhor, estás no meio deste povo; pois tu, ó Senhor, és visto face a face, e a tua nuvem permanece sobre eles, e tu vais adiante deles numa coluna de nuvem de dia, e numa coluna de fogo de noite."
+"e o dirão aos habitantes desta terra. Eles ouviram que tu, ó Senhor, estás no meio deste povo; pois tu, ó Senhor, és visto face a face, #e a tua nuvem permanece sobre eles, e tu vais adiante deles numa coluna de nuvem de dia, e numa coluna de fogo de noite."
 "E se matares este povo como a um só homem, então as nações que têm ouvido da tua fama, dirão
 "Porquanto o Senhor não podia introduzir este povo na terra que com juramento lhe prometera, por isso os matou no deserto."
 "Agora, pois, rogo-te que o poder do meu Senhor se engrandeça, segundo tens dito
-"O Senhor é tardio em irar-se, e grande em misericórdia; perdoa a iniquidade e a transgressão; ao culpado não tem por inocente, mas visita a iniquidade dos pais nos filhos até a terceira e a quarta geração."
+"O Senhor é tardio em irar-se, e grande em misericórdia; perdoa a iniquidade e a transgressão; ao culpado não #tem por inocente, mas visita a iniquidade dos pais nos filhos até a terceira e a quarta geração."
 "Perdoa, rogo-te, a iniquidade deste povo, segundo a tua grande misericórdia, como o tens perdoado desde o Egipto até, aqui."
 "Disse-lhe o Senhor
 "tão certo, porém, como eu vivo, e como a glória do Senhor encherá toda a terra,"

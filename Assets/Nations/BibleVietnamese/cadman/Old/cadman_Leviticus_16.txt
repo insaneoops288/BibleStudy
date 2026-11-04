@@ -1,7 +1,7 @@
 "Sau khi hai con trai của A-rôn chết trong lúc đến gần trước mặt Ðức Giê-hô-va, thì Ngài phán cùng Môi-se,"
 "mà rằng
 "Nầy, A-rôn sẽ vào nơi thánh như vầy
-"Người sẽ mặc áo lá trong thánh bằng vải gai mịn, thân dưới mặc một cái quần bằng vải gai, thắt một đai bằng vải gai và đội trên đầu một cái mão bằng vải gai. Ấy là bộ áo thánh mà ngươi sẽ mặc lấy khi đã tắm mình trong nước."
+"Người sẽ mặc áo lá trong thánh bằng vải gai mịn, thân dưới mặc một cái quần bằng vải gai, thắt một đai bằng vải gai và #đội trên đầu một cái mão bằng vải gai. Ấy là bộ áo thánh mà ngươi sẽ mặc lấy khi đã tắm mình trong nước."
 "Do nơi hội chúng Y-sơ-ra-ên, người sẽ bắt hai con dê đực dùng làm của lễ chuộc tội và một con chiên đực dùng làm của lễ thiêu."
 "A-rôn sẽ dâng con bò tơ mình làm của lễ chuộc tội, và người sẽ làm lễ chuộc tội cho mình và cho nhà mình."
 "Kế đó người phải bắt hai con dê đực, đem để trước mặt Ðức Giê-hô-va, tại nơi cửa hội mạc."
@@ -12,19 +12,19 @@
 "đoạn lấy lư hương đầy than hực đỏ trên bàn thờ trước mặt Ðức Giê-hô-va, và một vốc hương bột, mà đem vào phía trong bức màn."
 "Người phải bỏ hương trên lửa, trước mặt Ðức Giê-hô-va, hầu cho ngọn khói hương bao phủ nắp thi ân ở trên hòm bảng chứng, thì người không chết."
 "Người cũng phải lấy huyết con bò tơ đó, dùng ngón tay rảy trên nắp thi ân, về phía đông, và rảy bảy lần về phía trước nắp thi ân."
-"Ðoạn, người giết con dê đực dùng về dân chúng làm của lễ chuộc tội; đem huyết nó vào phía trong bức màn; dùng huyết con dê đực đó cũng như đã dùng huyết con bò tơ, tức là rảy trên nắp thi ân và trước nắp thi ân vậy."
+"Ðoạn, người giết con dê đực dùng về dân chúng làm của lễ chuộc tội; đem huyết nó vào phía trong bức màn; dùng huyết con #dê đực đó cũng như đã dùng huyết con bò tơ, tức là rảy trên nắp thi ân và trước nắp thi ân vậy."
 "Người vì cớ sự ô uế, sự vi phạm và tội lỗi của dân Y-sơ-ra-ên phải làm lễ chuộc tội cho nơi thánh và cho hội mạc ở giữa sự ô uế của họ."
 "Khi thầy tế lễ vào đặng làm lễ chuộc tội nơi thánh cho đến khi người ra, thì chẳng nên có ai ở tại hội mạc; vậy, người sẽ làm lễ chuộc tội cho mình, cho nhà mình, và cho cả hội chúng Y-sơ-ra-ên."
 "Ðoạn, người ra, đi đến bàn thờ ở trước mặt Ðức Giê-hô-va, đặng làm lễ chuộc tội cho bàn thờ; người lấy huyết con bò tơ đực và con dê đực, bôi chung quanh những sừng của bàn thờ."
 "Rồi dùng ngón tay rảy huyết bảy lần trên bàn thờ, làm cho bàn thờ nên sạch và thánh, vì cớ những sự ô uế của dân Y-sơ-ra-ên."
 "Khi thầy tế lễ đã làm lễ chuộc tội cho nơi thánh, cho hội mạc, và cho bàn thờ rồi, thì người phải dâng con dê đực còn sống kia."
-"A-rôn sẽ nhận hai tay mình trên đầu con dê đực còn sống, xưng trên nó các gian ác và sự vi phạm, tức những tội lỗi của dân Y-sơ-ra-ên, và chất trên đầu nó, rồi nhờ một người chực sẵn việc nầy mà sai đuổi nó ra, thả vào đồng vắng."
+"A-rôn sẽ nhận hai tay mình trên đầu con dê đực còn sống, xưng trên nó các gian ác và sự vi phạm, tức những tội lỗi #của dân Y-sơ-ra-ên, và chất trên đầu nó, rồi nhờ một người chực sẵn việc nầy mà sai đuổi nó ra, thả vào đồng vắng."
 "Vậy, con dê đực đó sẽ gánh trên mình các tội ác của dân Y-sơ-ra-ên ra nơi hoang địa."
 "A-rôn sẽ trở vào hội mạc, cổi bộ áo bằng vải gai mịn mình đã mặc đặng vào nơi thánh, và để tại đó."
 "Rồi lấy nước tắm mình trong một nơi thánh, mặc áo lại, đi ra, dâng của lễ thiêu về phần mình, và của lễ thiêu về phần dân chúng, đặng làm lễ chuộc tội cho mình và cho dân chúng."
 "Người cũng phải lấy mỡ của con sinh tế chuộc tội mà xông trên bàn thờ."
 "Người nào dẫn con dê đực về phần A-xa-sên, phải giặt quần áo mình, tắm mình trong nước, đoạn mới sẽ được vào trại quân."
-"Nhưng người ta phải đem ra ngoài trại quân con bò tơ đực và con dê đực đã dâng lên làm của lễ chuộc tội, mà huyết nó đã đem vào nơi thánh đặng làm lễ chuộc tội; rồi phải lấy da, thịt và phẩn của hai thú đó mà đốt trong lửa."
+"Nhưng người ta phải đem ra ngoài trại quân con bò tơ đực và con dê đực đã dâng lên làm của lễ chuộc tội, mà huyết #nó đã đem vào nơi thánh đặng làm lễ chuộc tội; rồi phải lấy da, thịt và phẩn của hai thú đó mà đốt trong lửa."
 "Kẻ nào đứng đốt phải giặt quần áo mình, tắm mình trong nước, đoạn mới được vào trại quân."
 "Ðiều nầy sẽ là một lệ định đời đời cho các ngươi
 "vì trong ngày đó người ta sẽ làm lễ chuộc tội cho các ngươi, để các ngươi được tinh sạch

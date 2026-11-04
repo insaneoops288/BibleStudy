@@ -9,7 +9,7 @@
 "I rzekł Mojżesz do Jozuego
 "I uczynił Jozue, jako mu rozkazał Mojżesz, i stoczył bitwę z Amalekiem; a Mojżesz, Aaron i Chur wstąpili na wierzch pagórka."
 "A gdy podnosił Mojżesz rękę swoję, przemagał Izrael; a gdy opuszczał rękę swoję, przemagał Amalek."
-"Ale ręce Mojżeszowe ociężały były; wziąwszy tedy kamień, podłożyli podeń, i usiadł na nim; a Aaron, i Chur podpierali ręce jego, jeden z jednej, drugi z drugiej strony; i nie ustały ręce jego aż do zajścia słońca."
+"Ale ręce Mojżeszowe ociężały były; wziąwszy tedy kamień, podłożyli podeń, i usiadł na nim; a Aaron, i Chur podpierali #ręce jego, jeden z jednej, drugi z drugiej strony; i nie ustały ręce jego aż do zajścia słońca."
 "Tedy poraził Jozue Amaleka i lud jegoż ostrzem miecza."
 "Potem rzekł Pan do Mojżesza
 "I zbudował Mojżesz ołtarz, a nazwał imię jego

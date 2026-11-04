@@ -9,7 +9,7 @@ from the descendants of Elizaphan, Shemaiah the leader and 200 relatives,
 from the descendants of Hebron, Eliel the leader and 80 relatives,
 from the descendants of Uzziel, Amminadab the leader and 112 relatives.
 Then David summoned Zadok and Abiathar the priests, and Uriel, Asaiah, Joel, Shemaiah, Eliel and Amminadab the Levites.
-He said to them, "You are the heads of the Levitical families, you and your fellow Levites are to consecrate yourselves and bring up the ark of the LORD, the God of Israel, to the place I have prepared for it.
+He said to them, "You are the heads of the Levitical families, you and your fellow Levites are to consecrate yourselves #and bring up the ark of the LORD, the God of Israel, to the place I have prepared for it.
 It was because you, the Levites, did not bring it up the first time that the LORD our God broke out in anger against us. We did not inquire of him about how to do it in the prescribed way."
 So the priests and Levites consecrated themselves in order to bring up the ark of the LORD, the God of Israel.
 And the Levites carried the ark of God with the poles on their shoulders, as Moses had commanded in accordance with the word of the LORD.
@@ -24,6 +24,6 @@ Berekiah and Elkanah were to be doorkeepers for the ark.
 Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah and Eliezer the priests were to blow trumpets before the ark of God. Obed-Edom and Jehiah were also to be doorkeepers for the ark.
 So David and the elders of Israel and the commanders of units of a thousand went to bring up the ark of the covenant of the LORD from the house of Obed-Edom, with rejoicing.
 Because God had helped the Levites who were carrying the ark of the covenant of the LORD, seven bulls and seven rams were sacrificed.
-Now David was clothed in a robe of fine linen, as were all the Levites who were carrying the ark, and as were the singers, and Kenaniah, who was in charge of the singing of the choirs. David also wore a linen ephod.
+Now David was clothed in a robe of fine linen, as were all the Levites who were carrying the ark, and as #were the singers, and Kenaniah, who was in charge of the singing of the choirs. David also wore a linen ephod.
 So all Israel brought up the ark of the covenant of the LORD with shouts, with the sounding of rams' horns and trumpets, and of cymbals, and the playing of lyres and harps.
-As the ark of the covenant of the LORD was entering the City of David, Michal daughter of Saul watched from a window. And when she saw King David dancing and celebrating, she despised him in her heart.
+As the ark of the covenant of the LORD was entering the City of David, Michal daughter of Saul watched #from a window. And when she saw King David dancing and celebrating, she despised him in her heart.

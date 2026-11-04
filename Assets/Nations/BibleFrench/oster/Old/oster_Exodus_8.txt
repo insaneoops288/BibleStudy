@@ -1,6 +1,6 @@
 "Puis l'Éternel dit à Moïse
 "Si tu refuses de le laisser aller, voici, je vais frapper du fléau des grenouilles tout ton territoire."
-"Et le fleuve foisonnera de grenouilles, qui monteront et entreront dans ta maison, et dans la chambre où tu couches, et sur ton lit, et dans la maison de tes serviteurs, et parmi ton peuple, et dans tes fours, et dans tes huches."
+"Et le fleuve foisonnera de grenouilles, qui monteront et entreront dans ta maison, et dans la chambre où tu couches, et sur #ton lit, et dans la maison de tes serviteurs, et parmi ton peuple, et dans tes fours, et dans tes huches."
 "Et les grenouilles monteront sur toi, sur ton peuple, et sur tous tes serviteurs."
 "L'Éternel dit donc à Moïse
 "Et Aaron étendit sa main sur les eaux de l'Égypte; et les grenouilles montèrent, et couvrirent le pays d'Égypte."
@@ -18,10 +18,10 @@
 "Et les magiciens firent la même chose par leurs enchantements pour produire les poux, mais ils ne purent pas. Les poux furent donc sur les hommes et sur les bêtes."
 "Alors les magiciens dirent à Pharaon
 "Puis, l'Éternel dit à Moïse
-"Car si tu ne laisses pas aller mon peuple, voici, je vais envoyer les insectes sur toi, sur tes serviteurs, sur ton peuple et sur tes maisons; et les maisons des Égyptiens seront remplies d'insectes, et même le sol sur lequel ils sont."
+"Car si tu ne laisses pas aller mon peuple, voici, je vais envoyer les insectes sur toi, sur tes serviteurs, sur ton #peuple et sur tes maisons; et les maisons des Égyptiens seront remplies d'insectes, et même le sol sur lequel ils sont."
 "Mais je distinguerai en ce jour-là le pays de Gossen, où se tient mon peuple, pour qu'il n'y ait point là d'insectes, afin que tu saches que moi, l'Éternel, je suis au milieu du pays."
 "Et je mettrai une séparation entre mon peuple et ton peuple. Demain ce prodige se fera."
-"Et l'Éternel fit ainsi; et il vint des insectes en grand nombre dans la maison de Pharaon, et dans la maison de ses serviteurs; et, dans tout le pays d'Égypte, la terre fut dévastée par les insectes."
+"Et l'Éternel fit ainsi; et il vint des insectes en grand nombre dans la maison de Pharaon, et dans #la maison de ses serviteurs; et, dans tout le pays d'Égypte, la terre fut dévastée par les insectes."
 "Alors Pharaon appela Moïse et Aaron, et dit
 "Mais Moïse dit
 "Nous irons le chemin de trois jours dans le désert, et nous sacrifierons à l'Éternel notre Dieu, comme il nous dira."

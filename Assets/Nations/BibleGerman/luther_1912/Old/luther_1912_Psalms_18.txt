@@ -1,4 +1,4 @@
-"Ein Psalm, vorzusingen, Davids, des Knechtes des HERRN, welcher hat dem Herrn die Worte dieses Liedes geredet zur Zeit, da ihn der HERR errettet hatte von der Hand aller seiner Feinde und von der Hand Sauls, und sprach
+"Ein Psalm, vorzusingen, Davids, des Knechtes des HERRN, welcher hat dem Herrn die Worte dieses Liedes geredet zur Zeit, da #ihn der HERR errettet hatte von der Hand aller seiner Feinde und von der Hand Sauls, und sprach
 "HERR, mein Fels, meine Burg, mein Erretter, mein Gott, mein Hort, auf den ich traue, mein Schild und Horn meines Heils und mein Schutz!"
 "Ich rufe an den HERRN, den Hochgelobten, so werde ich von meinen Feinden erlöst."
 "Es umfingen mich des Todes Bande, und die Bäche des Verderbens erschreckten mich."

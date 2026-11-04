@@ -1,7 +1,7 @@
 "Zatem rzekł Pan do Mojżesza, mówiąc
 "Powiedz Aaronowi i synom jego, aby się wstrzymywali od rzeczy, które są poświęcone od synów Izraelskich, a nie plugawili świętego imienia mojego w tem, co mi oni poświęcają; Jam Pan."
 "A tak rzecz do nich
-"Ktobykolwiek z nasienia Aaronowego był trędowatym albo płynienie nasienia cierpiącym, rzeczy poświęconych jeść nie będzie, póki by się nie oczyścił; także kto by się dotknął jakiej nieczystości ciała zmarłego, albo tego, z którego by płynęło nasienie złączenia."
+"Ktobykolwiek z nasienia Aaronowego był trędowatym albo płynienie nasienia cierpiącym, rzeczy poświęconych jeść nie będzie, póki by się nie #oczyścił; także kto by się dotknął jakiej nieczystości ciała zmarłego, albo tego, z którego by płynęło nasienie złączenia."
 "Także kto by się dotknął czego, co się czołga po ziemi, przez coby się nieczystym stał, albo człowieka, przez którego by się splugawił według wszelakiej nieczystości jego;"
 "Ten, kto by się czego z tych rzeczy dotknął, nieczystym będzie aż do wieczora, i nie będzie jadł rzeczy poświęconych, ażby umył ciało swoje wodą."
 "I aż po zachodzie słońca czystym będzie; a potem będzie jeść z rzeczy poświęconych, bo to jest pokarm jego."
@@ -10,7 +10,7 @@
 "Żaden obcy nie będzie jadł z rzeczy poświęconych; komornik kapłański, ani najemnik nie będzie jadł rzeczy poświęconych."
 "A jeźliby kapłan człowieka kupił za pieniądze swoje, ten jeść będzie z rzeczy tych; także zrodzony w domu jego, ci będą jadać z pokarmów jego."
 "Lecz córka kapłańska, która by szła za męża obcego, ta z ofiar podnoszenia rzeczy świętych jeść nie będzie."
-"Gdyby zaś córka kapłańska wdową została, albo odrzuconą była od męża, i dziatek nie miała, a wróciłaby się w dom ojca swego, tak jako w dzieciństwie swem, chleb ojca swego jeść będzie; ale żaden obcy jeść z niego nie będzie."
+"Gdyby zaś córka kapłańska wdową została, albo odrzuconą była od męża, i dziatek nie miała, a wróciłaby się w dom ojca #swego, tak jako w dzieciństwie swem, chleb ojca swego jeść będzie; ale żaden obcy jeść z niego nie będzie."
 "A jeźliby kto jadł z niewiadomości rzeczy poświęcone, nadda piątą część do tego, i odda kapłanowi rzecz poświęconą."
 "Aby nie plugawili rzeczy poświęconych, które synowie Izraelscy ofiarują Panu,"
 "I nie przywodzili na się karania za występek, gdyby jedli poświęcone rzeczy ich; bom Ja Pan, który je poświęcam."

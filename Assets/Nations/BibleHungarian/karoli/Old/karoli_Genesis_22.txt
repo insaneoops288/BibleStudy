@@ -1,6 +1,6 @@
 "És lõn ezeknek utána, az Isten megkisérté Ábrahámot, és monda néki
 "És monda
-"Felkele azért Ábrahám jó reggel, és megnyergelé az õ szamarát, és maga mellé vevé két szolgáját, és az õ fiát Izsákot, és fát hasogatott az égõ áldozathoz. Akkor felkele és elindula a helyre, melyet néki az Isten mondott vala."
+"Felkele azért Ábrahám jó reggel, és megnyergelé az õ szamarát, és maga mellé vevé két szolgáját, és az õ fiát #Izsákot, és fát hasogatott az égõ áldozathoz. Akkor felkele és elindula a helyre, melyet néki az Isten mondott vala."
 "Harmadnapon felemelé az õ szemeit Ábrahám, és látá a helyet messzirõl."
 "És monda Ábrahám az õ szolgáinak
 "Vevé azért Ábrahám az égõ áldozathoz való fákat, és feltevé az õ fiára Izsákra, õ maga pedig kezébe vevé a tüzet, és a kést, és mennek vala ketten együtt."
@@ -10,11 +10,11 @@
 "És kinyújtá Ábrahám az õ kezét és vevé a kést, hogy levágja az õ fiát."
 "Akkor kiálta néki az Úrnak Angyala az égbõl, és monda
 "És monda
-"És felemelé Ábrahám az õ szemeit, és látá hogy ímé háta megett egy kos akadt meg szarvánál fogva a szövevényben. Oda méne tehát Ábrahám, és elhozá a kost, és azt áldozá meg égõ áldozatul az õ fia helyett."
+"És felemelé Ábrahám az õ szemeit, és látá hogy ímé háta megett egy kos akadt meg szarvánál fogva a szövevényben. #Oda méne tehát Ábrahám, és elhozá a kost, és azt áldozá meg égõ áldozatul az õ fia helyett."
 "És nevezé Ábrahám annak a helynek nevét Jehova-jire-nek. Azért mondják ma is
 "És kiálta az Úrnak Angyala Ábrahámnak másodszor is az égbõl."
 "És monda
-"Hogy megáldván megáldalak tégedet, és bõségesen megsokasítom a te magodat mint az ég csillagait, és mint a fövényt, mely a tenger partján van, és a te magod örökség szerint fogja bírni az õ ellenségeinek kapuját."
+"Hogy megáldván megáldalak tégedet, és bõségesen megsokasítom a te magodat mint az ég csillagait, és mint a fövényt, #mely a tenger partján van, és a te magod örökség szerint fogja bírni az õ ellenségeinek kapuját."
 "És megáldatnak a te magodban a földnek minden nemzetségei, mivelhogy engedtél az én beszédemnek."
 "Megtére azért Ábrahám az õ szolgáihoz, és felkelének és együtt elmenének Beérsebába, mert lakozék Ábrahám Beérsebában."
 "És lõn ezeknek utánna, hírt hozának Ábrahámnak mondván

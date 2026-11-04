@@ -1,5 +1,5 @@
 "Fürchten wir uns nun, daß nicht etwa, da eine Verheißung, in seine Ruhe einzugehen, hinterlassen ist, jemand von euch scheine zurückgeblieben zu sein."
-"Denn auch uns ist eine gute Botschaft verkündigt worden, gleichwie auch jenen; aber das Wort der Verkündigung nützte jenen nicht, weil es bei denen, die es hörten, nicht mit dem Glauben vermischt war."
+"Denn auch uns ist eine gute Botschaft verkündigt worden, gleichwie auch jenen; aber das Wort der Verkündigung #nützte jenen nicht, weil es bei denen, die es hörten, nicht mit dem Glauben vermischt war."
 "Denn wir, die wir geglaubt haben, gehen in die Ruhe ein, wie er gesagt hat
 "Denn er hat irgendwo von dem siebten Tage also gesprochen
 "Und an dieser Stelle wiederum
@@ -9,7 +9,7 @@
 "Also bleibt noch eine Sabbathruhe dem Volke Gottes aufbewahrt."
 "Denn wer in seine Ruhe eingegangen ist, der ist auch zur Ruhe gelangt von seinen Werken, gleichwie Gott von seinen eigenen."
 "Laßt uns nun Fleiß anwenden, in jene Ruhe einzugehen, auf daß nicht jemand nach demselben Beispiel des Ungehorsams falle."
-"Denn das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert, und durchdringend bis zur Scheidung von Seele und Geist, sowohl der Gelenke als auch des Markes, und ein Beurteiler der Gedanken und Gesinnungen des Herzens;"
+"Denn das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert, und durchdringend bis zur Scheidung von #Seele und Geist, sowohl der Gelenke als auch des Markes, und ein Beurteiler der Gedanken und Gesinnungen des Herzens;"
 "und kein Geschöpf ist vor ihm unsichtbar, sondern alles bloß und aufgedeckt vor den Augen dessen, mit dem wir es zu tun haben."
 "Da wir nun einen großen Hohenpriester haben, der durch die Himmel gegangen ist, Jesum, den Sohn Gottes, so laßt uns das Bekenntnis festhalten;"
 "denn wir haben nicht einen Hohenpriester, der nicht Mitleid zu haben vermag mit unseren Schwachheiten, sondern der in allem versucht worden ist in gleicher Weise wie wir, ausgenommen die Sünde."

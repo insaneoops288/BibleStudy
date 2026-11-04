@@ -1,5 +1,5 @@
 "Tak mówi Pan
-"Przeczże, gdy przychodzę, niemasz nikogo? a gdy wołam, nikt się nie ozywa? Izali tak jest ukrócona ręka moja, aby nie mogła odkupić? Izali niemasz we mnie mocy ku wybawieniu? Oto fukiem moim osuszam morze, obracam rzeki w pustynie, tak iż zaśmier dną ryby ich dla niedostatku wody, i zdychają od pragnienia."
+"Przeczże, gdy przychodzę, niemasz nikogo? a gdy wołam, nikt się nie ozywa? Izali tak jest ukrócona ręka moja, aby nie mogła odkupić? Izali niemasz we mnie #mocy ku wybawieniu? Oto fukiem moim osuszam morze, obracam rzeki w pustynie, tak iż zaśmier dną ryby ich dla niedostatku wody, i zdychają od pragnienia."
 "Obłoczę niebiosa w ciemności, a wór daję za odzienie ich."
 "Panujący Pan dał mi język umiejętny, abym umiał czasu przygodnego mówić słowo upracowanemu. Budzi mię na każdy zaranek, pobudza uszy moje, abym słuchał tak jako uczący się pilnie."
 "Panujący Pan otwiera mi uszy, a Ja się nie sprzeciwiam, ani się na wstecz wracam."
@@ -8,4 +8,4 @@
 "Bliskoć jest ten, który mię usprawiedliwia. Któż się sprzeczać będzie ze mną? Stańmy społem; kto ma prawo ze mną, niech przystąpi ku mnie."
 "Oto panujący Pan pomagać mi będzie; któż jest, coby mię potępił? Oto wszyscy takowi jako odzienie zwiotszeją, a mól zgryzie ich."
 "Kto jest między wami bojący się Pana, posłuchaj głosu sługi jego; kto jest, co chodzi w ciemnościach a nie ma światłości? ufaj w imieniu Pańskiem, a spolegaj na Bogu swoim."
-"Oto wy wszyscy, którzy rozniecacie ogień, a przepasujecie się iskrami, chodźcież w światłości ognia waszego, i w iskrach, któreście rozniecili; z ręki mojej wam się to stanie, że w boleści leżeć będziecie."
+"Oto wy wszyscy, którzy rozniecacie ogień, a przepasujecie się iskrami, chodźcież w światłości ognia waszego, i w #iskrach, któreście rozniecili; z ręki mojej wam się to stanie, że w boleści leżeć będziecie."

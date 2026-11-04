@@ -11,10 +11,10 @@
 "Niin meni kolmetuhatta miestä Juudasta Etamin mäen rotkoon, ja sanoivat Simsonille
 "Ja he sanoivat hänelle
 "Ja he sanoivat hänelle
-"Ja kuin hän tuli Lehiin, ilakoitsivat Philistealaiset häntä vastaan; mutta Herran henki tuli voimalliseksi hänessä, ja nuorat hänen käsivarsissansa tulivat niinkuin poltettu lanka, ja niin raukesivat siteet hänen käsistänsä."
+"Ja kuin hän tuli Lehiin, ilakoitsivat Philistealaiset häntä vastaan; mutta Herran henki tuli voimalliseksi hänessä, #ja nuorat hänen käsivarsissansa tulivat niinkuin poltettu lanka, ja niin raukesivat siteet hänen käsistänsä."
 "Ja hän löysi tuoreen aasin leukaluun, ja hän ojensi kätensä, otti sen ja löi sillä tuhannen miestä."
 "Ja Simson sanoi
 "Ja kuin hän sen sanonut oli, heitti hän leukaluun kädestänsä pois, ja kutsui sen paikan RamatLehi."
 "Ja kuin hän kovin janosi, huusi hän Herran tykö ja sanoi
-"Niin Jumala avasi syömähampaan leukaluussa, ja siitä vuosi vesi, ja kuin hän oli juonut, sai hän henkensä takaisin ja virkosi; sentähden kutsutaan myös se paikka vielä tähän päivään asti Huutajan lähteeksi, joka oli leukaluussa."
+"Niin Jumala avasi syömähampaan leukaluussa, ja siitä vuosi vesi, ja kuin hän oli juonut, sai hän henkensä takaisin #ja virkosi; sentähden kutsutaan myös se paikka vielä tähän päivään asti Huutajan lähteeksi, joka oli leukaluussa."
 "Ja hän tuomitsi Israelia Philistealaisten aikana kaksikymmentä ajastaikaa."

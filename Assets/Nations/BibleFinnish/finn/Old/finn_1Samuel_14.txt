@@ -10,7 +10,7 @@
 "Vaan jos he näin sanovat
 "Kuin Philistealaisten leiri näki heidät molemmat, sanoivat Philistealaiset
 "Ja miehet leiristä vastasivat Jonatania ja hänen aseensa kantajaa ja sanoivat
-"Ja Jonatan kiipesi käsillänsä ja jaloillansa ylöspäin ja hänen aseensa kantaja hänen jälissänsä; ja he lankesivat maahan Jonatanin eteen ja hänen aseensa kantajan, joka löi heitä kuoliaaksi hänen jäljissänsä;"
+"Ja Jonatan kiipesi käsillänsä ja jaloillansa ylöspäin ja hänen aseensa kantaja hänen jälissänsä; ja he #lankesivat maahan Jonatanin eteen ja hänen aseensa kantajan, joka löi heitä kuoliaaksi hänen jäljissänsä;"
 "Että ensimäinen tappelus oli, jona Jonatan ja hänen aseensa kantaja löi liki kaksikymmentä miestä, liki puolella vakomitalla peltoa, kuin juhtapari kyntäis."
 "Ja pelko tuli leiriin, kedolle ja koko kansan sekaan leirissä, ja hävittäjät myös peljätettiin, että maa vapisi siitä; sillä se hämmästys oli Jumalalta."
 "Ja Saulin vartiat BenJaminin Gibeassa saivat nähdä kansan joukot hajoovan ja pakenevan, ja toinen toistansa sysivän,"
@@ -44,7 +44,7 @@
 "Ja Saul sanoi
 "Vaan kansa sanoi Saulille
 "Niin Saul meni Philistealaisten tyköä pois; ja Philistealaiset menivät sioillensa."
-"Mutta kuin Saul oli saanut Israelin valtakunnan, soti hän joka taholta kaikkia vihollisiansa vastaan, Moabilaisia, Ammonilaisia, Edomilaisia, Zoban kuninkaita ja Philistealaisia vastaan; ja kuhunka hän ikänä hänensä käänsi, siellä hän rankaisi."
+"Mutta kuin Saul oli saanut Israelin valtakunnan, soti hän joka taholta kaikkia vihollisiansa vastaan, Moabilaisia, Ammonilaisia, #Edomilaisia, Zoban kuninkaita ja Philistealaisia vastaan; ja kuhunka hän ikänä hänensä käänsi, siellä hän rankaisi."
 "Ja hän teki urhoollisia töitä ja löi Amalekilaiset ja vapahti Israelin niiden käsistä, jotka häntä raatelivat."
 "Ja Saulilla oli poikia
 "Ja Saulin emännän nimi oli Ahinoam, Ahimatsin tytär, ja hänen sotajoukkonsa päämiehen nimi Abner, Nerin poika, Saulin sedän;"

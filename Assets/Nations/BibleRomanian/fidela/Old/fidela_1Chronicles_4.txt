@@ -38,6 +38,6 @@
 "Aceștia menționați cu numele [lor au fost ]prinți în familiile lor; și casa părinților lor s-a înmulțit mult."
 "Și au mers la intrarea lui Ghedor, spre partea de est a văii, să caute pajiște pentru turmele lor."
 "Și au găsit pajiște grasă și bună și țara [era ]largă și liniștită și pașnică; fiindcă [aceia ]din Ham au locuit acolo din vechime."
-"Și aceștia scriși pe nume au venit în zilele lui Ezechia, împăratul lui Iuda, și le-au lovit corturile și locuințele care s-au găsit acolo și le-au distrus în întregime până în această zi și au locuit în locul lor, deoarece [era ]pajiște acolo pentru turmele lor."
+"Și aceștia scriși pe nume au venit în zilele lui Ezechia, împăratul lui Iuda, și le-au lovit corturile și locuințele care s-au găsit acolo #și le-au distrus în întregime până în această zi și au locuit în locul lor, deoarece [era ]pajiște acolo pentru turmele lor."
 "Și [unii ]dintre ei, dintre fiii lui Simeon, cinci sute de bărbați, au mers la muntele Seir, având ca și căpetenii pe Pelatia și pe Nearia și pe Refaia și pe Uziel, fiii lui Ișei."
 "Și au lovit restul dintre amaleciți care au scăpat și au locuit acolo până în această zi."

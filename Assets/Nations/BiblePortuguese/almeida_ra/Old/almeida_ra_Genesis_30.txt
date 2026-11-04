@@ -32,7 +32,7 @@
 "Passarei hoje por todo o teu rebanho, separando dele todos os salpicados e malhados, e todos os escuros entre as ovelhas, e os malhados e salpicados entre as cabras; e isto será o meu salário."
 "De modo que responderá por mim a minha justiça no dia de amanhã, quando vieres ver o meu salário assim exposto diante de ti
 "Concordou Labão, dizendo
-"E separou naquele mesmo dia os bodes listrados e malhados e todas as cabras salpicadas e malhadas, tudo em que havia algum branco, e todos os escuros entre os cordeiros e os deu nas mãos de seus filhos;"
+"E separou naquele mesmo dia os bodes listrados e malhados e todas as cabras salpicadas e malhadas, tudo em que #havia algum branco, e todos os escuros entre os cordeiros e os deu nas mãos de seus filhos;"
 "e pôs três dias de caminho entre si e Jacob; e Jacob apascentava o restante dos rebanhos de Labão."
 "Então tomou Jacob varas verdes de estoraque, de amendoeira e de plátano e, descascando nelas riscas brancas, descobriu o branco que nelas havia;"
 "e as varas que descascara pôs em frente dos rebanhos, nos cochos, isto é, nos bebedouros, onde os rebanhos bebiam; e conceberam quando vinham beber."

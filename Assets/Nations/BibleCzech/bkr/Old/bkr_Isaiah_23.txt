@@ -15,4 +15,4 @@
 "I stane se v ten den, že v zapomenutí bude Týrus za sedmdesáte let, jako za věk krále jednoho. Do skonání sedmdesáti let bude míti Týrus jako písničku nevěstky."
 "Vezmi harfu, obcházej město, ó nevěstko v zapomenutí daná, hrej dobře, zpívej dlouho, abys v pamět uvedena byla."
 "I bude po dokonání sedmdesáti let, že navštíví Hospodin Týr, ale on navrátí se zase k nevěstčí mzdě své, a smilniti bude se všemi královstvími země na okršlku světa."
-"Však kupectví jeho a mzda jeho svatá bude Hospodinu. Nebude na poklad skládána, ani schovávána, ale pro ty, kteříž přebývají před Hospodinem, bude kupectví jeho, aby jedli do sytosti, a měli roucho dobré."
+"Však kupectví jeho a mzda jeho svatá bude Hospodinu. Nebude na poklad skládána, ani schovávána, ale pro #ty, kteříž přebývají před Hospodinem, bude kupectví jeho, aby jedli do sytosti, a měli roucho dobré."

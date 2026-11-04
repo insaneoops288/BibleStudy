@@ -1,7 +1,7 @@
 "Ezek pedig Áronnak és Mózesnek szülöttei azon a napon, a melyen szólott az Úr Mózesnek a Sinai hegyen;"
 "Ezek az Áron fiainak nevei
 "Ezek Áron fiainak, a felkenetett papoknak nevei, a kiket papi szolgálatra avattak fel."
-"De Nádáb és Abihú meghala az Úr elõtt, mikor idegen tûzzel áldozának az Úr elõtt a Sinai pusztájában, fiaik pedig nem valának nékik. Eleázár és Ithamár viselék azért a papságot, Áronnak, az õ atyjoknak színe elõtt."
+"De Nádáb és Abihú meghala az Úr elõtt, mikor idegen tûzzel áldozának az Úr elõtt a Sinai pusztájában, fiaik #pedig nem valának nékik. Eleázár és Ithamár viselék azért a papságot, Áronnak, az õ atyjoknak színe elõtt."
 "Szóla pedig az Úr Mózesnek, mondván
 "Hozd elõ Lévi törzsét, és állassad Áron pap elé, hogy szolgáljanak néki."
 "És ügyeljenek az õ ügyére, és az egész gyülekezet ügyére a gyülekezet sátora elõtt, hogy végezhessék a hajlék körül való szolgálatot."
@@ -35,7 +35,7 @@
 "És a Mérári nemzetségének, az õ atyái háznépének fejedelme [legyen] Suriel, az Abihail fia; a hajléknak észak felõl való oldala mellett járjanak tábort."
 "A Mérári fiainak pedig tisztök legyen felügyelni
 "Továbbá a pitvar körül való oszlopokra és azoknak talpaira, szegeire és köteleire."
-"A hajlék elõtt keletre, a gyülekezet sátora elõtt naptámadat felõl, Mózes, Áron és az õ fiai járjanak tábort, a kik felügyelnek a szenthely szolgálatára, [és] Izráel fiainak ügyeire; ha pedig idegen járulna oda, haljon meg."
+"A hajlék elõtt keletre, a gyülekezet sátora elõtt naptámadat felõl, Mózes, Áron és az õ fiai járjanak tábort, #a kik felügyelnek a szenthely szolgálatára, [és] Izráel fiainak ügyeire; ha pedig idegen járulna oda, haljon meg."
 "A léviták minden megszámláltja, a kiket Mózes és Áron az Úr rendeletére nemzetségenként számláltak vala meg, minden finemû, az egy hónapostól fogva és feljebb
 "És monda az Úr Mózesnek
 "És válaszd a lévitákat nékem (én vagyok az Úr) az Izráel fiai közül való minden elsõszülött helyett; és a léviták barmait, Izráel fiai barmainak minden elsõ fajzása helyett."

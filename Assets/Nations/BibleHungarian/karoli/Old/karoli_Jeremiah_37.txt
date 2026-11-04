@@ -18,4 +18,4 @@
 "Azután monda Jeremiás Sedékiás királynak
 "És hol vannak a ti prófétáitok, a kik prófétáltak néktek, mondván
 "Most halld csak, uram király, és hallgasd meg az én könyörgésemet, és ne küldj engem vissza az írástudó Jónatán házába, hogy ott ne haljak meg."
-"Parancsolta azért Sedékiás király, hogy vessék Jeremiást a tömlöcz pitvarába, és adjanak néki naponként egy-egy darab kenyeret a sütõk utczájából, a míg minden kenyér elfogy a városból. És ott marada Jeremiás a tömlöcz pitvarában."
+"Parancsolta azért Sedékiás király, hogy vessék Jeremiást a tömlöcz pitvarába, és adjanak néki naponként egy-egy darab kenyeret a #sütõk utczájából, a míg minden kenyér elfogy a városból. És ott marada Jeremiás a tömlöcz pitvarában."

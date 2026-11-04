@@ -4,7 +4,7 @@
 "Pastaj i tha të atit Hamor
 "Por Jakobi dëgjoi që ai e kishte çnderuar bijën e tij Dina; por bijtë e tij ishin nëpër fushat me bagëtinë e tij, dhe Jakobi heshti deri sa u kthyen."
 "Atëherë Hamori, ati i Sikemit, shkoi tek Jakobi për t'i folur."
-"Sapo dëgjuan për atë që kishte ndodhur, bijtë e Jakobit u kthyen nga fushat; ata ishin të hidhëruar dhe shumë të zemëruar, sepse ai kishte kryer një veprim të turpshëm në Izrael, duke rënë në shtrat me të bijën e Jakobit, gjë që nuk duhej bërë."
+"Sapo dëgjuan për atë që kishte ndodhur, bijtë e Jakobit u kthyen nga fushat; ata ishin të hidhëruar dhe shumë të zemëruar, sepse ai #kishte kryer një veprim të turpshëm në Izrael, duke rënë në shtrat me të bijën e Jakobit, gjë që nuk duhej bërë."
 "Por Hamori u foli atyre duke thënë
 "të bëjmë krushqi bashkë
 "Kështu ju do të banoni me ne dhe vendi do të jetë në dispozicionin tuaj; banoni në të, bëni tregëti dhe blini prona""."
@@ -18,11 +18,11 @@
 "Fjalët e tyre i pëlqyen Hamorit dhe Sikemit, birit të Hamorit."
 "Dhe i riu nuk vonoi ta kryejë atë gjë, sepse e donte të bijën e Jakobit dhe ishte njeriu më i nderuar në tërë shtëpinë e të atit."
 "Hamori dhe Sikemi, bir i tij, erdhën në portat e qytetit të tyre dhe u folën njerëzve të qytetit të tyre, duke thënë
-"""Këta njerëz dëshirojnë të jetojnë në paqe me ne; le të rrinë në vendin tonë dhe të merren me tregti, sepse vendi është mjaft i madh edhe për ata. Ne do të marrim bijat e tyre për gra dhe do t'ju japim bijat tona."
+"""Këta njerëz dëshirojnë të jetojnë në paqe me ne; le të rrinë në vendin tonë dhe të merren me tregti, sepse vendi është #mjaft i madh edhe për ata. Ne do të marrim bijat e tyre për gra dhe do t'ju japim bijat tona."
 "Por këta njerëz do të pranojnë të banojnë me ne për të formuar një popull të vetëm, me të vetmin kusht që çdo mashkull te ne të rrethpritet, ashtu si rrethpriten ata."
 "Bagëtia e tyre, pasuria e tyre dhe kafshët e tyre a nuk do të bëhen ndofta një ditë tonat? Le të pranojmë kërkesën e tyre dhe ata do të banojnë bashkë me ne""."
 "Dhe të gjithë ata që dilnin nga portat e qytetit dëgjuan fjalët e Hamorit dhe të birit të tij Sikem; dhe çdo mashkull u rrethpre, tërë ata dilnin nga porta e qytetit."
-"Por ndodhi që ditën e tretë, ndërsa ata vuanin, dy nga bijtë e Jakobit, Simeoni dhe Levi, vëllezër të Dinës, morën secili shpatën e vet, u vërsulën mbi qytetin që rrinte në siguri dhe vranë tërë meshkujt."
+"Por ndodhi që ditën e tretë, ndërsa ata vuanin, dy nga bijtë e Jakobit, Simeoni dhe Levi, vëllezër të #Dinës, morën secili shpatën e vet, u vërsulën mbi qytetin që rrinte në siguri dhe vranë tërë meshkujt."
 "Vranë me shpatë edhe Hamorin dhe birin e tij Sikem, pastaj muarrën Dinën nga shtëpia e Sikemit dhe ikën."
 "Bijtë e Jakobit u vërsulën mbi të vrarët dhe plaçkitën qytetin; sepse motrën e tyre e kishin çnderuar."
 "Kështu ata morën kopetë me bagëti të imët dhe të trashë, gomarët e tyre, gjithçka që ishte në qytet dhe gjithçka që ishte nëpër fushat,"

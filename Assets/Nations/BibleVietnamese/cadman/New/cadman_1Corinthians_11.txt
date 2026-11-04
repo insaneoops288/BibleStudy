@@ -19,7 +19,7 @@
 "Vì chắc trong vòng anh em phải có bè đảng, hầu cho được nhận biết trong anh em những kẻ nào thật là trung thành."
 "Vậy, khi anh em nhóm nhau lại một chỗ, ấy chẳng còn phải là Tiệc thánh của Chúa mà anh em ăn;"
 "bởi vì lúc ngồi ăn, ai cũng nôn nả mà ăn bữa riêng mình, đến nỗi người nọ chịu đói, còn kẻ kia thì quá độ."
-"Anh em há chẳng có nhà để ăn uống sao? Hay là anh em khinh bỉ Hội thánh của Ðức Chúa Trời, muốn làm cho những kẻ không có gì phải hổ thẹn? Tôi nên nói chi với anh em? Có nên khen anh em không? Trong việc nầy tôi chẳng khen đâu."
+"Anh em há chẳng có nhà để ăn uống sao? Hay là anh em khinh bỉ Hội thánh của Ðức Chúa Trời, muốn làm cho những kẻ #không có gì phải hổ thẹn? Tôi nên nói chi với anh em? Có nên khen anh em không? Trong việc nầy tôi chẳng khen đâu."
 "Vả, tôi có nhận nơi Chúa điều tôi đã dạy cho anh em
 "tạ ơn, rồi bẻ ra mà phán rằng
 "Cũng một lẽ ấy, sai khi ăn bữa tối rồi, Ngài lấy chén và phán rằng

@@ -1,6 +1,6 @@
 "Ugyanebben az idõben, a mikor nem volt király Izráelben, mint jövevény tartózkodott az Efraim hegység oldalán egy Lévita, a ki ágyas nõt szerzett magának Júda Bethlehemébõl."
 "Paráználkodék pedig nála az õ ágyasa és elméne tõle atyjának házához, Júdának Bethlehemébe, és ott maradt négy hónapig."
-"Ekkor felkelvén az õ férje, utána ment, hogy lelkére beszéljen, [és] hogy visszavigye õt. Szolgája és egy pár szamár volt vele. Az pedig bevezette õt az õ atyjának házába, és mikor meglátta õt a leánynak atyja, örvendve eléje ment."
+"Ekkor felkelvén az õ férje, utána ment, hogy lelkére beszéljen, [és] hogy visszavigye õt. Szolgája és egy pár szamár volt #vele. Az pedig bevezette õt az õ atyjának házába, és mikor meglátta õt a leánynak atyja, örvendve eléje ment."
 "És ott tartóztatá õt ipa, a leánynak atyja, és õ ott maradt nála három napig, és ettek, ittak, és ott [is] háltak."
 "És mikor a negyedik napon reggel korán felkeltek, és õ felkészült, hogy elmenjen, monda a leánynak atyja az õ vejének
 "És leültek, és mindketten együtt ettek és ittak, és monda a leány atyja a férfiúnak
@@ -22,7 +22,7 @@
 "És mikor vígan laknának, ímé a város férfiai, a Béliál fiainak emberei, körülvették a házat, és az ajtót döngetve, mondának az öreg embernek, a ház urának, mondván
 "És kiment hozzájuk az a férfiú, a háznak ura és monda nékik
 "Ímé itt van hajadon leányom és az õ ágyasa, ezeket hozom ki néktek, és ezeket nyomorgassátok, és tegyétek velök azt, a mit csak tetszik, csak e férfiúval ne cselekedjétek azt az alávaló dolgot."
-"A férfiak azonban nem akartak reá se hallgatni. Ekkor [kézen] fogta az a férfiú az õ ágyasát, és kivitte nékik az utczára. Ezek pedig megszeplõsíték õt, és gonoszul élének vele egész éjszaka reggelig, és csak mikor feltetszett a hajnal, akkor bocsátották el."
+"A férfiak azonban nem akartak reá se hallgatni. Ekkor [kézen] fogta az a férfiú az õ ágyasát, és kivitte nékik az utczára. #Ezek pedig megszeplõsíték õt, és gonoszul élének vele egész éjszaka reggelig, és csak mikor feltetszett a hajnal, akkor bocsátották el."
 "És elment az asszony virradat elõtt és reggel ott rogyott össze annak a férfiúnak háza ajtajánál, a melyben az õ ura volt reggelig."
 "Mikor pedig felkelt az õ ura reggel, és kinyitotta a ház ajtaját, és kiment, hogy útnak induljon, ímé az asszony, az õ ágyasa, ott feküdt elterülve a ház ajtaja elõtt, és kezei a küszöbön."
 "És monda néki

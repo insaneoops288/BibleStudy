@@ -1,8 +1,8 @@
 "Wenn zwischen Männern ein Hader entsteht, so soll man sie vor Gericht bringen und sie richten, und den Gerechten für gerecht erklären und denÜbeltäter verurteilen."
 "Und wenn derÜbeltäter Schläge verdient hat, soll der Richter ihn niederfallen lassen, und man soll ihm vor seinen Augen die bestimmte Tracht Prügel geben, je nach dem Maß seiner Missetat."
-"Wenn man ihm vierzig Streiche gegeben hat, soll man nicht weiter schlagen, damit er nicht zu viel geschlagen werde, wenn man ihm mehr Streiche gibt, und damit dein Bruder nicht verächtlich gemacht werde in deinen Augen."
+"Wenn man ihm vierzig Streiche gegeben hat, soll man nicht weiter schlagen, damit er nicht zu viel geschlagen werde, #wenn man ihm mehr Streiche gibt, und damit dein Bruder nicht verächtlich gemacht werde in deinen Augen."
 "Du sollst dem Ochsen, wenn er drischt, das Maul nicht verbinden."
-"Wenn Brüder beieinander wohnen und einer von ihnen kinderlos stirbt, so soll das Weib des Verstorbenen nicht einen fremden Mann von auswärts nehmen, sondern ihr Schwager soll zu ihr kommen und sie zum Weibe nehmen und die Schwagerpflicht an ihr vollziehen."
+"Wenn Brüder beieinander wohnen und einer von ihnen kinderlos stirbt, so soll das Weib des Verstorbenen nicht einen fremden Mann von #auswärts nehmen, sondern ihr Schwager soll zu ihr kommen und sie zum Weibe nehmen und die Schwagerpflicht an ihr vollziehen."
 "Und der erste Sohn, den sie gebiert, soll auf den Namen seines verstorbenen Bruders erzogen werden, damit sein Name nicht aus Israel verschwinde."
 "Gefällt es aber dem Mann nicht, seines Bruders Weib zu nehmen, so soll seines Bruders Weib hinaufgehen unter das Tor zu denÄltesten und sagen
 "Dann sollen dieÄltesten der Stadt ihn rufen lassen und mit ihm reden. Wenn er dann dabei bleibt und spricht
@@ -16,4 +16,4 @@
 "Denn wer solches Unrecht begeht, ist dem HERRN, deinem Gott, ein Greuel."
 "Gedenke, was dir Amalek antat auf dem Wege, als ihr ausÄgypten zoget;"
 "wie er dir auf dem Wege begegnete und deine Nachzügler abschnitt, alle Schwachen, die zurückgeblieben waren, als du müde und matt warst, und wie er Gott nicht fürchtete."
-"Wenn dir nun der HERR, dein Gott, Ruhe gegeben hat vor allen deinen Feinden ringsum im Lande, das der HERR, dein Gott, dir als Erbe einzunehmen gibt, so sollst du das Gedächtnis Amaleks unter dem Himmel vertilgen; vergiß es nicht!"
+"Wenn dir nun der HERR, dein Gott, Ruhe gegeben hat vor allen deinen Feinden ringsum im Lande, das der HERR, dein #Gott, dir als Erbe einzunehmen gibt, so sollst du das Gedächtnis Amaleks unter dem Himmel vertilgen; vergiß es nicht!"

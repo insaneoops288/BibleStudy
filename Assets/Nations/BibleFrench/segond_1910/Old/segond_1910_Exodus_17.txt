@@ -9,7 +9,7 @@
 "Alors Moïse dit à Josué
 "Josué fit ce que lui avait dit Moïse, pour combattre Amalek. Et Moïse, Aaron et Hur montèrent au sommet de la colline."
 "Lorsque Moïse élevait sa main, Israël était le plus fort; et lorsqu'il baissait sa main, Amalek était le plus fort."
-"Les mains de Moïse étant fatiguées, ils prirent une pierre qu'ils placèrent sous lui, et il s'assit dessus. Aaron et Hur soutenaient ses mains, l'un d'un côté, l'autre de l'autre; et ses mains restèrent fermes jusqu'au coucher du soleil."
+"Les mains de Moïse étant fatiguées, ils prirent une pierre qu'ils placèrent sous lui, et il s'assit dessus. Aaron et #Hur soutenaient ses mains, l'un d'un côté, l'autre de l'autre; et ses mains restèrent fermes jusqu'au coucher du soleil."
 "Et Josué vainquit Amalek et son peuple, au tranchant de l'épée."
 "L'Eternel dit à Moïse
 "Moïse bâtit un autel, et lui donna pour nom

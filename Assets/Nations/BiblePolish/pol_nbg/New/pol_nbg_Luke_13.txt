@@ -31,5 +31,5 @@
 "W ten czas podeszli pewni faryzeusze, mówiąc mu
 "Zatem im powiedział
 "Jednak jest mi konieczne, abym dzisiaj, jutro i pojutrze szedł; bo nie pozwolono prorokowi zginąć na zewnątrz Jerozolimy."
-"Jerozolimo, Jerozolimo, co zabijasz proroków oraz kamienujesz tych, których do ciebie wysłano; ilekroć chciałem zgromadzić twoje dzieci w ten sposób, jak kura swoje pisklęta pod skrzydła a nie chcieliście."
+"Jerozolimo, Jerozolimo, co zabijasz proroków oraz kamienujesz tych, których do ciebie wysłano; ilekroć chciałem zgromadzić #twoje dzieci w ten sposób, jak kura swoje pisklęta pod skrzydła a nie chcieliście."
 "Oto wasz dom jest wam zostawiony opuszczony. Zaprawdę, mówię wam, że nie ujrzycie mnie, aż przyjdzie czas, gdy powiecie

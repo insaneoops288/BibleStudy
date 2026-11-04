@@ -19,7 +19,7 @@
 "A ty, synu człowieczy, wyznacz sobie dwie drogi, którymi ma przyjść miecz króla Babilonu. Obie niech wychodzą z jednej ziemi, wybierz miejsce na rozstaju dróg wiodących do miasta, wybierz je."
 "Wyznacz drogę, którą ma przyjść miecz
 "Król Babilonu bowiem stanął na rozdrożu, na początku dwóch dróg, aby zasięgnąć wróżby
-"Wyrocznia wskazała na jego prawą rękę, na Jerozolimę, aby szykował dowódców, którzy mieli wydać rozkaz rzezi i podnieść okrzyk bojowy, aby ustawić tarany pod bramami, aby usypać wał i budować szańce."
+"Wyrocznia wskazała na jego prawą rękę, na Jerozolimę, aby szykował dowódców, którzy mieli wydać rozkaz rzezi #i podnieść okrzyk bojowy, aby ustawić tarany pod bramami, aby usypać wał i budować szańce."
 "I w ich oczach będzie to fałszywa wróżba, gdyż zobowiązali się przysięgami, lecz on im przypomni ich nieprawość, aby zostali pojmani."
 "Dlatego tak mówi Pan BÓG
 "A ty, nieczysty bezbożniku, księciu Izraela, którego dzień nadejdzie, gdy nastanie koniec ich nieprawości;"

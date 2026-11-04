@@ -5,7 +5,7 @@
 "Ainda plantarás vinhas nos montes de Samaria; os plantadores plantarão e comerão dos frutos."
 "Porque haverá um dia em que gritarão os vigias sobre o monte de Efraim
 "Porque assim diz o SENHOR
-"Eis que os trarei da terra do Norte e os congregarei das extremidades da terra; e, com eles, os cegos, os aleijados, as mulheres grávidas e as de parto juntamente; em grande congregação, voltarão para aqui."
+"Eis que os trarei da terra do Norte e os congregarei das extremidades da terra; e, com eles, os #cegos, os aleijados, as mulheres grávidas e as de parto juntamente; em grande congregação, voltarão para aqui."
 "Virão com choro, e com súplicas os levarei; guiá-los-ei aos ribeiros de águas, por caminho direito, em que não tropeçarão; porque sou um pai para Israel, e Efraim é o meu primogénito."
 "Ouvi a palavra do SENHOR, ó nações, e anunciai-a nas ilhas de longe, e dizei
 "Porque o SENHOR resgatou a Jacob e o livrou das mãos do que era mais forte do que ele."
@@ -17,7 +17,7 @@
 "E há esperanças, no derradeiro fim, para os teus descendentes, diz o SENHOR, porque teus filhos voltarão para o seu país."
 "Bem ouvi eu que Efraim se queixava, dizendo
 "Na verdade que, depois que me converti, tive arrependimento; e, depois que me conheci, bati na minha coxa; fiquei confuso; sim, envergonhei-me, porque suportei o opróbrio da minha mocidade."
-"Não é Efraim para mim um filho precioso, uma criança das minhas delícias? Porque, depois que falo contra ele, ainda me lembro dele solicitamente; por isso, se comove por ele o meu coração; deveras me compadecerei dele, diz o SENHOR."
+"Não é Efraim para mim um filho precioso, uma criança das minhas delícias? Porque, depois que falo contra ele, ainda me #lembro dele solicitamente; por isso, se comove por ele o meu coração; deveras me compadecerei dele, diz o SENHOR."
 "Ergue para ti marcos, levanta para ti pirâmides, aplica o coração à vereda, ao caminho em que andaste; regressa, ó virgem de Israel, regressa a estas tuas cidades."
 "Até quando andarás errante, ó filha rebelde? Porque o SENHOR criou uma coisa nova na terra
 "Assim diz o SENHOR dos Exércitos, o Deus de Israel
@@ -29,7 +29,7 @@
 "Naqueles dias, nunca mais dirão
 "Ao contrário, cada um morrerá pela sua iniquidade, e de todo homem que comer uvas verdes os dentes se embotarão."
 "Eis que dias vêm, diz o SENHOR, em que farei um concerto novo com a casa de Israel e com a casa de Judá."
-"Não conforme o concerto que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egipto, porquanto eles invalidaram o meu concerto, apesar de eu os haver desposado, diz o SENHOR."
+"Não conforme o concerto que fiz com seus pais, no dia em que os tomei pela mão, para os tirar #da terra do Egipto, porquanto eles invalidaram o meu concerto, apesar de eu os haver desposado, diz o SENHOR."
 "Mas este é o concerto que farei com a casa de Israel depois daqueles dias, diz o SENHOR
 "E não ensinará alguém mais a seu próximo, nem alguém, a seu irmão, dizendo
 "Assim diz o SENHOR, que dá o sol para luz do dia e as ordenanças da lua e das estrelas para luz da noite, que fende o mar e faz bramir as suas ondas; SENHOR dos Exércitos é o seu nome."
@@ -37,4 +37,4 @@
 "Assim disse o SENHOR
 "Eis que dias vêm, diz o SENHOR, em que esta cidade será reedificada para o SENHOR, desde a torre de Hananel até à Porta da Esquina."
 "E a linha de medir estender-se-á para diante, até ao outeiro de Garebe, e virar-se-á para Goa."
-"E todo o vale dos cadáveres e da cinza e todos os campos até ao ribeiro de Cédron, até à esquina da Porta dos Cavalos para o oriente, serão consagrados ao SENHOR; não se arrancarão, nem se derribarão mais, eternamente."
+"E todo o vale dos cadáveres e da cinza e todos os campos até ao ribeiro de Cédron, até à esquina #da Porta dos Cavalos para o oriente, serão consagrados ao SENHOR; não se arrancarão, nem se derribarão mais, eternamente."

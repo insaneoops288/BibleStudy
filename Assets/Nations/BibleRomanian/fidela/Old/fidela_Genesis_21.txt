@@ -20,7 +20,7 @@
 "Şi Dumnezeu a fost cu băiatul; şi a crescut şi a locuit în pustie şi a devenit arcaş."
 "Şi a locuit în pustia Paran şi mama lui i-a luat o soţie din ţara Egiptului."
 "Şi s-a întâmplat în acel timp, că Abimelec şi Picol, căpetenia oştirii sale, i-au vorbit lui Avraam, spunând
-"De aceea acum jură-mi aici pe Dumnezeu că nu vei trata cu falsitate cu mine, nici cu fiul meu, nici cu fiul fiului meu, [ci] conform bunătăţii pe care ţi-am făcut-o, îmi vei face [şi tu] mie şi ţării în care ai locuit temporar."
+"De aceea acum jură-mi aici pe Dumnezeu că nu vei trata cu falsitate cu mine, nici cu fiul meu, nici cu fiul fiului #meu, [ci] conform bunătăţii pe care ţi-am făcut-o, îmi vei face [şi tu] mie şi ţării în care ai locuit temporar."
 "Şi Avraam a spus
 "Şi Avraam a mustrat pe Abimelec din cauza unei fântâni de apă, pe care servitorii lui Abimelec au luat-o cu violenţă."
 "Şi Abimelec a spus

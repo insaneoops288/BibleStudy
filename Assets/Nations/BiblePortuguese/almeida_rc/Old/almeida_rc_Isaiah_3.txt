@@ -21,6 +21,6 @@
 "os anéis e as jóias pendentes do nariz;"
 "as vestes de festa, e os mantos, e as coifas, e os alfinetes;"
 "os espelhos, e as capinhas de linho finíssimas, e as toucas, e os véus."
-"E será que, em lugar de cheiro suave, haverá fedor, e, por cinto, uma corda; e, em lugar de encrespadura de cabelos, calvície, e, em lugar de veste larga, cilício; e queimadura, em lugar de formosura."
+"E será que, em lugar de cheiro suave, haverá fedor, e, por cinto, uma corda; e, em lugar de #encrespadura de cabelos, calvície, e, em lugar de veste larga, cilício; e queimadura, em lugar de formosura."
 "Teus varões cairão à espada, e teus valentes, na peleja."
 "E as portas da cidade gemerão e se carpirão, e ela se assentará no chão, desolada."

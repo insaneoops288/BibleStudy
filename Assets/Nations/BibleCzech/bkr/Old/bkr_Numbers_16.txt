@@ -6,7 +6,7 @@
 "Toto učiňte
 "A naklaďte do nich uhlí, a vložte na ně kadidla před Hospodinem zítra; i stane se, že kohožkoli vyvolí Hospodin, ten bude svatý. Příliště to již na vás, synové Léví."
 "I řekl Mojžíš k Chóre
-"Zdaliž málo vám to jest, že vás oddělil Bůh Izraelský ode všeho množství Izraelského, a rozkázal vám přistupovati k sobě, abyste vykonávali službu příbytku Hospodinova, a abyste stáli před shromážděním, a sloužili jim,"
+"Zdaliž málo vám to jest, že vás oddělil Bůh Izraelský ode všeho množství Izraelského, a rozkázal vám #přistupovati k sobě, abyste vykonávali službu příbytku Hospodinova, a abyste stáli před shromážděním, a sloužili jim,"
 "A vzal tě sobě, a všecky bratří tvé syny Léví s tebou, a že ještě přes to i kněžství hledáte?"
 "Protož věz, že ty a všickni tvoji jste ti, kteříž se rotíte proti Hospodinu; nebo Aron co jest, že jste reptali proti němu?"
 "Tedy poslal Mojžíš, aby zavolali Dátana a Abirona, synů Eliabových. Kteříž odpověděli
@@ -14,7 +14,7 @@
 "A ještě jsi nás neuvedl do země oplývající mlékem a strdí, aniž jsi nám dal v dědictví rolí a vinic. Zdali oči mužům těmto vyloupiti chceš? Nepůjdeme."
 "I rozhněval se Mojžíš velmi, a řekl k Hospodinu
 "Potom řekl Mojžíš k Chóre
-"A vezmouce jeden každý kadidlnici svou, dáte do nich kadidla, a postavíte se před Hospodinem, jeden každý s kadidlnicí svou; dvě stě a padesáte kadidlnic bude, ty také i Aron, každý s kadidlnicí svou."
+"A vezmouce jeden každý kadidlnici svou, dáte do nich kadidla, a postavíte se před Hospodinem, jeden každý s #kadidlnicí svou; dvě stě a padesáte kadidlnic bude, ty také i Aron, každý s kadidlnicí svou."
 "Tedy vzal jeden každý kadidlnici svou, a nabravše do nich uhlí, vložili na ně i kadidla, a stáli u dveří stánku úmluvy, i Mojžíši Aron."
 "Chóre pak již byl sebral proti nim všecko množství ke dveřím stánku úmluvy; i ukázala se sláva Hospodinova všemu množství."
 "I mluvil Hospodin k Mojžíšovi a k Aronovi, řka
@@ -37,7 +37,7 @@
 "Rci Eleazarovi, synu Arona kněze, ať sbéře kadidlnice z toho spáleniště, a uhlí z nich pryč rozmece, nebo posvěceny jsou,"
 "Kadidlnice totiž těch, kteříž proti svým dušem hřešili, a ať je rozkuje na plechy k obložení oltáře; nebo kadili jimi před Hospodinem, protož posvěceny jsou, a budou na znamení synům Izraelským."
 "I sebral Eleazar kněz kadidlnice měděné, jimiž kadili ti, kteříž spáleni jsou, a rozkovali je k obložení oltáře,"
-"Pro budoucí pamět synům Izraelským, aby nepřistupoval žádný jiný, kdož by nebyl z rodu Aronova, k kadění před Hospodinem, aby se mu nestalo jako Chóre a jako rotě jeho, jakož byl mluvil jemu Hospodin skrze Mojžíše."
+"Pro budoucí pamět synům Izraelským, aby nepřistupoval žádný jiný, kdož by nebyl z rodu Aronova, k kadění před Hospodinem, #aby se mu nestalo jako Chóre a jako rotě jeho, jakož byl mluvil jemu Hospodin skrze Mojžíše."
 "Nazejtří pak reptalo všecko množství synů Izraelských na Mojžíše a na Arona, řkouce
 "I stalo se, když se opět sbíral lid proti Mojžíšovi a proti Aronovi, že se ohlédli k stánku úmluvy, a aj, přikryl jej oblak, a ukázala se sláva Hospodinova."
 "Přišel také Mojžíš s Aronem před stánek úmluvy."

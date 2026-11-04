@@ -10,12 +10,12 @@
 "Śmiercią nieobrzezańców umrzesz od ręki cudzoziemców; bo Ja mówiłem, mówi panujący Pan."
 "I stało się słowo Pańskie do mnie mówiąc
 "Synu człowieczy! podnieś lament nad królem Tyrskim, a mów do niego
-"Byłeś w Eden, ogrodzie Bożym; wszelki kamień drogi był nakryciem twojem, sardyjusz, topazyjusz, i jaspis, chrysolit, onyks, i beryl, szafir, kabunkuł, i szmaragd, i złoto; w ten dzień, któregoś ty stworzony, zgotowane są u ciebie narzędy bębnów twoich i piszczałek twoich."
+"Byłeś w Eden, ogrodzie Bożym; wszelki kamień drogi był nakryciem twojem, sardyjusz, topazyjusz, i jaspis, chrysolit, onyks, i beryl, szafir, kabunkuł, #i szmaragd, i złoto; w ten dzień, któregoś ty stworzony, zgotowane są u ciebie narzędy bębnów twoich i piszczałek twoich."
 "Tyś był Cherubinem pomazanym, nakrywającym; Jam cię wystawił, byłeś na górze Bożej świętej, w pośród kamienia ognistego przechadzałeś się,"
 "Byłeś doskonałym na drogach twoich ode dnia tego, któregoś jest stworzony, aż się znalazła nieprawość w tobie."
 "Dla wielkości kupiectwa twego pełno w pośród ciebie bezprawia, i zgrzeszyłeś; dlatego wytracę cię z góry Bożej, o Cherubinie nakrywający! a z pośrodku kamienia ognistego wygubię cię."
 "Podniosło cię serce twoje dla piękności twojej, na złeś używał mądrości swojej dla jasności twojej; przetoż cię uderzę o ziemię, a przed obliczem królów położę cię, abyć się dziwowali."
-"Dla mnóstwa nieprawości twoich, i dla sprawiedliwości kupiectwa twego splugwiłeś świątnicę twoję; przetoż wywiodę ogień z pośrodku ciebie, który cię pożre, a obrócę cię w popiół na ziemi przed oczyma wszystkich, co na cię patrzą,."
+"Dla mnóstwa nieprawości twoich, i dla sprawiedliwości kupiectwa twego splugwiłeś świątnicę twoję; przetoż wywiodę ogień z pośrodku ciebie, #który cię pożre, a obrócę cię w popiół na ziemi przed oczyma wszystkich, co na cię patrzą,."
 "Wszyscy, co cię znali między narodami, zdumiewają się nad tobą; będziesz na wielki postrach, a nie będzie cię aż na wieki."
 "I stało się słowo Pańskie do mnie mówiąc
 "Synu człowieczy! obróć twarz swoję przeciw Sydonowi, a prorokuj przeciw niemu,"
@@ -23,4 +23,4 @@
 "I poślę nań mór, i krew na ulice jego, i upadną zranieni w pośrodku niego od miecza, który na nich przyjdzie ze wszystkich stron; a dowiedzą się, żem Ja Pan."
 "A tak nie będzie miał więcej dom Izraelski ciernia kolącego, i głogu boleści zadawającego z wszystkich okolicznych swych, którzy ich pustoszą; i dowiedzą się, żem Ja panujący Pan."
 "Tak mówi panujący Pan
-"Tedy w niej będą bezpiecznie mieszkali, a pobudują domy, i naszczepią winnic; mieszkać mówię będą bezpiecznie, gdy wykonam sądy nad wszystkimi okolicznymi ich, którzy ich pustoszyli; i dowiedzą się, żem Ja Pan, Bóg ich."
+"Tedy w niej będą bezpiecznie mieszkali, a pobudują domy, i naszczepią winnic; mieszkać mówię będą bezpiecznie, gdy wykonam #sądy nad wszystkimi okolicznymi ich, którzy ich pustoszyli; i dowiedzą się, żem Ja Pan, Bóg ich."

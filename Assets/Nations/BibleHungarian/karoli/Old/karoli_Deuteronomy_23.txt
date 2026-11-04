@@ -1,7 +1,7 @@
 "Akinek szeméremteste zúzott vagy megcsonkított, ne menjen be az Úrnak községébe."
 "A fattyú se menjen be az Úrnak községébe; még tizedízig se menjen be az Úrnak községébe."
 "Az Ammoniták és Moábiták se menjenek be az Úrnak községébe; még tizedízig se menjenek be az Úrnak községébe, soha örökké
-"Azért, mert nem jöttek elõtökbe kenyérrel és vízzel az úton, mikor kijöttetek Égyiptomból; és mivelhogy felbérlette ellened Bálámot, a Beór fiát, a mesopotámiabeli Péthorból valót, hogy megátkozzon téged."
+"Azért, mert nem jöttek elõtökbe kenyérrel és vízzel az úton, mikor kijöttetek Égyiptomból; és mivelhogy #felbérlette ellened Bálámot, a Beór fiát, a mesopotámiabeli Péthorból valót, hogy megátkozzon téged."
 "De az Úr, a te Istened nem akarta meghallgatni Bálámot; hanem fordította az Úr, a te Istened az átkot néked áldásodra, mivelhogy szeretett téged az Úr, a te Istened."
 "Ne keresd az õ békességöket és az õ javokat teljes életedben, soha."
 "Ne útáld az Edomitát; mert atyádfia az; ne útáld az égyiptombelit, mert jövevény voltál az õ földén."

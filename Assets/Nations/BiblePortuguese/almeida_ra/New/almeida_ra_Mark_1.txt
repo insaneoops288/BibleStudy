@@ -42,4 +42,4 @@
 "Imediatamente desapareceu dele a lepra e ficou limpo."
 "E Jesus, advertindo-o secretamente, logo o despediu,"
 "dizendo-lhe
-"Ele, porém, saindo dali, começou a publicar o caso por toda parte e a divulgá-lo, de modo que Jesus já não podia entrar abertamente numa cidade, mas conservava-se fora em lugares desertos; e de todos os lados iam ter com ele."
+"Ele, porém, saindo dali, começou a publicar o caso por toda parte e a divulgá-lo, de modo que Jesus já não #podia entrar abertamente numa cidade, mas conservava-se fora em lugares desertos; e de todos os lados iam ter com ele."

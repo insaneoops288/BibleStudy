@@ -2,7 +2,7 @@
 "Ja kuin Pietari tuli ylös Jerusalemiin, riitelivät ne hänen kanssansa, jotka ympärileikkauksesta olivat,"
 "Sanoen
 "Niin Pietari rupesi heille järjestänsä luettelemaan, sanoen
-"Minä olin Jopen kaupungissa rukouksissa, ja tulin horroksiin, ja näin näyn, yhden astian tulevan alas, niinkuin suuren liinaisen neljältä kulmalta lasketun alas taivaasta, joka tuli juuri minun tyköni."
+"Minä olin Jopen kaupungissa rukouksissa, ja tulin horroksiin, ja näin näyn, yhden astian tulevan alas, #niinkuin suuren liinaisen neljältä kulmalta lasketun alas taivaasta, joka tuli juuri minun tyköni."
 "Kuin minä katsoin sen päälle, äkkäsin minä ja näin maan neljäjalkaisia eläimiä, ja petoja, ja matelevaisia, ja taivaan lintuja."
 "Mutta minä kuulin äänen minulle sanovan
 "Mutta minä sanoin
@@ -16,7 +16,7 @@
 "Niin minä muistin Herran sanan, jonka hän sanonut oli
 "Että nyt Jumala yhdenkaltaisen lahjan heille antoi kuin meillekin, jotka Herran Jesuksen Kristuksen päälle uskoimme
 "Kuin he nämät kuulivat, vaikenivat he ja kunnioittivat Jumalaa, sanoen
-"Ja ne, jotka siitä vainosta hajonneet olivat, joka Stephanin tähden tapahtui, vaelsivat ympäri hamaan Phenisiaan ja Kypriin ja Antiokiaan asti, eikä kellenkään sitä sanaa puhuneet, vaan ainoasti Juudalaisille."
+"Ja ne, jotka siitä vainosta hajonneet olivat, joka Stephanin tähden tapahtui, vaelsivat ympäri hamaan Phenisiaan #ja Kypriin ja Antiokiaan asti, eikä kellenkään sitä sanaa puhuneet, vaan ainoasti Juudalaisille."
 "Ja oli muutamia miehiä heidän seassansa Kypristä ja Kyrenistä
 "Ja Herran käsi oli heidän kanssansa, ja suuri joukko uskoi ja kääntyi Herran tykö."
 "Niin tämä sanoma heistä tuli seurakunnan korville, joka Jerusalemissa oli, ja he lähettivät Barnabaan Antiokiaan."

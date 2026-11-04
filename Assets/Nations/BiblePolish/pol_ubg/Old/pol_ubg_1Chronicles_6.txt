@@ -46,7 +46,7 @@
 "Syna Amsjego, syna Baniego, syna Szamera;"
 "Syna Mochliego, syna Musziego, syna Merariego, syna Lewiego."
 "A ich bracia, Lewici, byli ustanowieni do wszelkiej posługi w przybytku domu Boga."
-"Aaron zaś i jego synowie palili kadzidło na ołtarzu całopalenia i na ołtarzu kadzenia, byli odpowiedzialni za wszelką posługę w Miejscu Najświętszym i za dokonywanie przebłagania za Izraela według wszystkiego, co nakazał Mojżesz, sługa Boży."
+"Aaron zaś i jego synowie palili kadzidło na ołtarzu całopalenia i na ołtarzu kadzenia, byli odpowiedzialni za wszelką #posługę w Miejscu Najświętszym i za dokonywanie przebłagania za Izraela według wszystkiego, co nakazał Mojżesz, sługa Boży."
 "A oto synowie Aarona
 "Jego syn Abiszua, jego syn Bukki, jego syn Uzzi, jego syn Zerachiasz;"
 "Jego syn Merajot, jego syn Amariasz, jego syn Achitub;"

@@ -5,7 +5,7 @@
 "Disa, duke u shmangur nga këto gjëra, u kthyen në biseda të kota dhe,"
 "duke dashur të jenë mësues të ligjit, nuk kuptojnë as ato që thonë, as ato që pohojnë."
 "Dhe ne e dimë se ligji është i mirë, në qoftë se njeriu e përdor si duhet;"
-"duke ditur këtë, që ligji nuk është vënë për të drejtin, po për të pabesët dhe të rebelët, për të ligët dhe mëkatarët, për të pamëshirshmit dhe të ndyrët, për ata që vrasin babë e nënë, për vrasësit,"
+"duke ditur këtë, që ligji nuk është vënë për të drejtin, po për të pabesët dhe të rebelët, për të #ligët dhe mëkatarët, për të pamëshirshmit dhe të ndyrët, për ata që vrasin babë e nënë, për vrasësit,"
 "për kurvarët, për homoseksualët, për grabitësit, për rremët, për ata që shkelin betimin, për çdo gjë tjetër që bie në kundërshtim me doktrinën e shëndoshë,"
 "sipas ungjillit të lavdisë të të lumit Perëndi, që më është besuar."
 "Dhe e falënderoj Krishtin Zotin tonë, që më bën të fortë, sepse më çmoi të denjë për t'u besuar, duke më vënë në shërbimin e tij,"

@@ -16,7 +16,7 @@
 "Egli verrà, e distruggerà que’ lavoratori, e darà la vigna ad altri. Ma essi, udito ciò, dissero
 "Ed egli, riguardatili in faccia, disse
 "Chiunque caderà sopra quella pietra sarà fiaccato, ed ella triterà colui sopra cui ella caderà."
-"ED i principali sacerdoti, e gli Scribi, cercavano in quella stessa ora di mettergli le mani addosso, perciocchè riconobbero ch’egli avea detta quella parabola contro a loro; ma temettero il popolo."
+"ED i principali sacerdoti, e gli Scribi, cercavano in quella stessa ora di mettergli le mani #addosso, perciocchè riconobbero ch’egli avea detta quella parabola contro a loro; ma temettero il popolo."
 "E, spiandolo, gli mandarono degl’insidiatori, che simulassero d’esser giusti, per soprapprenderlo in parole; per darlo in man della signoria, ed alla podestà del governatore."
 "E quelli gli fecero una domanda, dicendo
 "ecci egli lecito di pagare il tributo a Cesare, o no?"

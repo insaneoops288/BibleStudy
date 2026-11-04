@@ -16,5 +16,5 @@
 "És monda Sámson
 "És mikor ezt elmondotta, elvetette kezébõl az állcsontot, és elnevezé azt a helyet Ramath-Lehinek."
 "Azután megszomjúhozék felette igen és felkiáltott az Úrhoz, és monda
-"Akkor meghasítá Isten a zápfogat, mely az állcsontban volt, és víz fakadt ki abból. Õ pedig ivott, ereje megtért, és megéledett. Azért neveztetik a ""segítségül hívás forrásának"" [e hely] Lehiben mind e mai napig,"
+"Akkor meghasítá Isten a zápfogat, mely az állcsontban volt, és víz fakadt ki abból. Õ pedig ivott, ereje #megtért, és megéledett. Azért neveztetik a ""segítségül hívás forrásának"" [e hely] Lehiben mind e mai napig,"
 "És ítélé [Sámson] Izráelt a Filiszteusok idejében húsz esztendeig."

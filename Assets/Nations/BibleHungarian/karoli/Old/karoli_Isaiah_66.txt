@@ -1,7 +1,7 @@
 "Így szól az Úr
 "Hiszen mindezeket kezem csinálta, így álltak elõ mindezek; így szól az Úr. Hanem erre tekintek én, a ki szegény és megtörött lelkû, és a ki beszédemet rettegi."
-"A ki bikát öl, embert üt agyon; a ki juhval áldozik, az ebet öl; a ki ételáldozattal jõ, disznóvért hoz elém; a ki tömjént gyújt, bálványt imád! Miként õk így választák útaikat, és lelkök útálatosságaikban gyönyörködött
-"Akképen választom én is az õ megcsúfolásukat, és rájok hozom, a mitõl félnek; mivel hívtam és senki nem felelt, szóltam és nem hallották, és a gonoszt cselekedték szemeim elõtt, s a mit nem szerettem, azt választák."
+"A ki bikát öl, embert üt agyon; a ki juhval áldozik, az ebet öl; a ki ételáldozattal jõ, disznóvért #hoz elém; a ki tömjént gyújt, bálványt imád! Miként õk így választák útaikat, és lelkök útálatosságaikban gyönyörködött
+"Akképen választom én is az õ megcsúfolásukat, és rájok hozom, a mitõl félnek; mivel hívtam és senki nem felelt, #szóltam és nem hallották, és a gonoszt cselekedték szemeim elõtt, s a mit nem szerettem, azt választák."
 "Halljátok az Úrnak beszédét, a kik rettegtek az õ beszédére
 "Halld! zúgás a város felõl, hah! a templom felõl, hah! az Úr, a ki megfizet ellenségeinek."
 "Mielõtt vajudott volna, szült, mielõtt fájdalom jött rá, fiút hozott világra."
@@ -16,8 +16,8 @@
 "Mert az Úr tûzzel ítél és kardjával minden testet, és sokan lesznek az Úrtól megöltek."
 "A kik magokat megszentelik és mossák a [bálvány] kertekért, egy [pap] megett, a középen; a kik disznóhúst esznek és férget és egeret, együtt pusztulnak el mind, mondja az Úr."
 "És én cselekedeteiteket és gondolataitokat [megbüntetem!] Eljõ [az idõ], hogy minden népeket és nyelveket egybegyûjtsek, hogy eljövén, meglássák az én dicsõségemet."
-"És teszek köztök jelt, és küldök közülök megszabadultakat a népekhez, Tarsisba, Pulba és Ludba, az íjjászokhoz, Tubálhoz és Jávánhoz; a messze szigetekbe, a melyek rólam nem hallottak, és nem látták dicsõségemet, és hirdetik dicsõségemet a népek között."
-"És elhozzák minden testvéreiteket minden népek közül ajándékul az Úrnak, lovakon, szekereken, hintókban, öszvéreken és tevéken szentségemnek hegyére Jeruzsálembe, így szól az Úr, a mint hozzák Izráelnek fiai az ajándékot tiszta edényben az Úrnak házába."
+"És teszek köztök jelt, és küldök közülök megszabadultakat a népekhez, Tarsisba, Pulba és Ludba, az íjjászokhoz, Tubálhoz és Jávánhoz; #a messze szigetekbe, a melyek rólam nem hallottak, és nem látták dicsõségemet, és hirdetik dicsõségemet a népek között."
+"És elhozzák minden testvéreiteket minden népek közül ajándékul az Úrnak, lovakon, szekereken, hintókban, öszvéreken és tevéken szentségemnek hegyére #Jeruzsálembe, így szól az Úr, a mint hozzák Izráelnek fiai az ajándékot tiszta edényben az Úrnak házába."
 "És ezek közül is választok a papok közé, a Léviták közé, így szól az Úr."
 "Mert mint az új egek és az új föld, a melyeket én teremtek, megállnak én elõttem, szól az Úr, azonképen megáll a ti magvatok és nevetek;"
 "És lesz, hogy hónapról-hónapra és szombatról-szombatra eljõ minden test engem imádni, szól az Úr."

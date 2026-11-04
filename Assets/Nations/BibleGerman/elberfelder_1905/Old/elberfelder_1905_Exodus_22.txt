@@ -2,7 +2,7 @@
 "Wenn der Dieb beim Einbruch betroffen wird, und er wird geschlagen, daß er stirbt, so ist es ihm keine Blutschuld;"
 "wenn die Sonneüber ihm aufgegangen ist, so ist es ihm eine Blutschuld. Er soll gewißlich erstatten; wenn er nichts hat, soll er für seinen Diebstahl verkauft werden."
 "Wenn das Gestohlene lebend in seiner Hand gefunden wird, es sei ein Ochse oder ein Esel oder ein Stück Kleinvieh, soll er das Doppelte erstatten."
-"So jemand ein Feld oder einen Weingarten abweiden läßt und er sein Vieh hintreibt, und es weidet auf dem Felde eines anderen, so soll er es vom Besten seines Feldes und vom Besten seines Weingartens erstatten."
+"So jemand ein Feld oder einen Weingarten abweiden läßt und er sein Vieh hintreibt, und es weidet auf dem #Felde eines anderen, so soll er es vom Besten seines Feldes und vom Besten seines Weingartens erstatten."
 "Wenn ein Feuer ausbricht und Dornen erreicht, und es wird ein Garbenhaufen verzehrt, oder das stehende Getreide oder das Feld, so soll der gewißlich erstatten, der den Brand angezündet hat."
 "So jemand seinem Nächsten Geld oder Geräte in Verwahrung gibt, und es wird aus dem Hause dieses Mannes gestohlen, wenn der Dieb gefunden wird, so soll er das Doppelte erstatten;"
 "wenn der Dieb nicht gefunden wird, so soll der Besitzer des Hauses vor die Richter treten, ob er nicht seine Hand nach der Habe seines Nächsten ausgestreckt hat.-"

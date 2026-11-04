@@ -1,13 +1,13 @@
 "Az a szó, a melyet szólott az Úr Jeremiásnak, mondván
 "Ezt mondja az Úr, Izráel Istene, mondván
-"Mert ímé, eljõnek a napok, azt mondja az Úr, és visszahozom az én népemet, az Izráelt és Júdát, azt mondja az Úr, és visszahozom õket arra a földre, a melyet az õ atyáiknak adtam, és bírni fogják azt."
+"Mert ímé, eljõnek a napok, azt mondja az Úr, és visszahozom az én népemet, az Izráelt és Júdát, azt mondja #az Úr, és visszahozom õket arra a földre, a melyet az õ atyáiknak adtam, és bírni fogják azt."
 "Ezek pedig azok a szók, a melyeket az Úr Izráel és Júda felõl szólott."
 "Ezt mondta ugyanis az Úr
 "Kérdjétek meg csak és lássátok, ha szûl-é a férfi? Miért látom minden férfi kezét az ágyékán, mintegy gyermekszûlõét, és miért változtak orczáik fakósárgává?"
 "Jaj! mert nagy az a nap annyira, hogy nincs hozzá hasonló; és háborúság ideje az Jákóbon; de megszabadul abból!"
 "És azon a napon, azt mondja a Seregek Ura, letöröm majd az õ igáját a te nyakadról, köteleidet leszaggatom, és nem szolgálnak többé idegeneknek."
 "Hanem szolgálnak az Úrnak az õ Istenöknek, és Dávidnak az õ királyoknak, a kit feltámasztok nékik."
-"Te azért ne félj, oh én szolgám Jákób, azt mondja az Úr, se ne rettegj Izráel; mert ímhol vagyok én, a ki megszabadítlak téged a messze földrõl, és a te magodat az õ fogságának földébõl; és visszatér Jákób és megnyugoszik, és bátorságban lesz, és nem lesz, a ki megháborítsa."
+"Te azért ne félj, oh én szolgám Jákób, azt mondja az Úr, se ne rettegj Izráel; mert ímhol vagyok én, a ki megszabadítlak téged a #messze földrõl, és a te magodat az õ fogságának földébõl; és visszatér Jákób és megnyugoszik, és bátorságban lesz, és nem lesz, a ki megháborítsa."
 "Mert veled vagyok én, azt mondja az Úr, hogy megtartsalak téged
 "Mert ezt mondja az Úr
 "Senki sincsen, a ki megítélje a te ügyedet, hogy bekösse [sebedet,] orvosságok és balzsam nincsenek számodra."

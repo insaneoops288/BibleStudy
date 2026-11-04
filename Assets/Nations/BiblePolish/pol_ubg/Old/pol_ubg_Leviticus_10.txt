@@ -11,10 +11,10 @@
 "I abyście nauczali synów Izraela wszystkich ustaw, które PAN nakazał im przez Mojżesza."
 "I Mojżesz powiedział do Aarona oraz jego pozostałych synów, Eleazara i Itamara
 "Będziecie ją spożywać w miejscu świętym, bo jest to część należna tobie i twoim synom z ofiar ogniowych PANA. Tak mi bowiem rozkazano."
-"Także mostek kołysania i łopatkę wzniesienia będziecie spożywać w miejscu czystym, ty, twoi synowie i twoje córki z tobą. To bowiem należy się tobie, a także twoim synom, dane wam z ofiar pojednawczych synów Izraela."
-"Przyniosą łopatkę wzniesienia i mostek kołysania wraz z tłuszczem z ofiar ogniowych, aby kołysać je przed PANEM; a będzie to dla ciebie i twoich synów z tobą na mocy ustawy wiecznej, tak jak PAN rozkazał."
+"Także mostek kołysania i łopatkę wzniesienia będziecie spożywać w miejscu czystym, ty, twoi synowie i twoje córki z #tobą. To bowiem należy się tobie, a także twoim synom, dane wam z ofiar pojednawczych synów Izraela."
+"Przyniosą łopatkę wzniesienia i mostek kołysania wraz z tłuszczem z ofiar ogniowych, aby kołysać je przed PANEM; a #będzie to dla ciebie i twoich synów z tobą na mocy ustawy wiecznej, tak jak PAN rozkazał."
 "Potem Mojżesz pilnie szukał kozła na ofiarę za grzech, ale okazało się, że został on już spalony. I rozgniewał się na synów Aarona, Eleazara i Itamara, którzy mu pozostali, i mówił
-"Dlaczego nie zjedliście ofiary za grzech w miejscu świętym? Przecież jest ona rzeczą najświętszą, którą dano wam, abyście nosili nieprawość całego ludu, abyście dokonali za niego przebłagania przed PANEM."
+"Dlaczego nie zjedliście ofiary za grzech w miejscu świętym? Przecież jest ona rzeczą najświętszą, którą #dano wam, abyście nosili nieprawość całego ludu, abyście dokonali za niego przebłagania przed PANEM."
 "Oto jej krwi nie wniesiono do wnętrza miejsca świętego. Powinniście byli ją jeść na miejscu świętym, jak nakazałem."
 "Wtedy Aaron odpowiedział Mojżeszowi
 "Gdy Mojżesz to usłyszał, uznał to za słuszne."

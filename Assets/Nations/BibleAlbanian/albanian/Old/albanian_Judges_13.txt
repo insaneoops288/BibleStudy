@@ -2,7 +2,7 @@
 "Ishte një njeri nga Tsorahu, prej familjes së Danitëve, që quhej Manoah; gruaja e tij ishte shterpë dhe nuk kishte fëmijë."
 "Engjëlli i Zotit iu shfaq kësaj gruaje dhe i tha
 "Prandaj ruhu se pi verë o pije dehëse, dhe mos ha asnjë gjë të papastër."
-"Sepse ti do të mbetesh me barrë dhe do të pjellësh një djalë, mbi kokën e të cilit nuk do të kalojë brisku, sepse fëmija do të jetë një Nazireo kushtuar Perëndisë që në barkun e nënes së tij; ai do të fillojë ta çlirojë Izraelin nga duart e Filistejve""."
+"Sepse ti do të mbetesh me barrë dhe do të pjellësh një djalë, mbi kokën e të cilit nuk do të kalojë brisku, sepse fëmija do #të jetë një Nazireo kushtuar Perëndisë që në barkun e nënes së tij; ai do të fillojë ta çlirojë Izraelin nga duart e Filistejve""."
 "Atëherë gruaja shkoi t'i thotë bashkëshortit të saj
 "por më tha
 "Atëherë Manoahu iu lut me të madhe Zotit dhe i tha

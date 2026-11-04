@@ -2,10 +2,10 @@
 "Rozkaż synom Izraelskim, aby dali Lewitom z dziedzictwa osiadłości swojej miasta do mieszkania, i przedmieścia około miast ich oddacie Lewitom."
 "I będą mieli miasta sobie do mieszkania, a przedmieścia ich będą im dla bydła ich, i dla majętności ich, i dla wszystkiego dobytku ich."
 "A przedmieścia miast, które dacie Lewitom, od muru miejskiego pójdą na tysiąc łokci wszędy w około."
-"Przetoż wymierzycie za każdem miastem dwa tysiące łokci na wschód słońca, na południe też dwa tysiące łokci, także na zachód dwa tysiące łokci, i na północy dwa tysiące łokci, a miasto w pośrodku będzie; takoweć będą przedmieścia miast ich."
+"Przetoż wymierzycie za każdem miastem dwa tysiące łokci na wschód słońca, na południe też dwa tysiące łokci, także na zachód #dwa tysiące łokci, i na północy dwa tysiące łokci, a miasto w pośrodku będzie; takoweć będą przedmieścia miast ich."
 "A między temi miasty, które dacie Lewitom, sześć miast będą dla ucieczki, które dacie, aby tam uciekał mężobójca; a nad te dacie im czterdzieści miast i dwa."
 "Tak iż wszystkich miast, które Lewitom dacie, będzie czterdzieści i osiem miast i z przedmieściami ich."
-"A miast, które dacie z dzierżaw synów Izraelskich, od tych, którzy więcej mają, więcej dacie, a od tych, którzy mniej mają, dacie mniej; każdy według miary dziedzictwa swego, które posiędzie, udzieli z miast swoich Lewitom."
+"A miast, które dacie z dzierżaw synów Izraelskich, od tych, którzy więcej mają, więcej dacie, a od tych, #którzy mniej mają, dacie mniej; każdy według miary dziedzictwa swego, które posiędzie, udzieli z miast swoich Lewitom."
 "Zatem rzekł Pan do Mojżesza, mówiąc
 "Mów do synów Izraelskich, i rzecz im
 "Postanowcież sobie miasta; miasta dla ucieczki mieć będziecie, aby tam uciekał mężobójca, któryby zabił kogo z nieobaczenia."
@@ -22,7 +22,7 @@
 "Ale jeźliby z przygody bez waśni kogo popchnął, alboby nań cisnął czemkolwiek nie umyślnie;"
 "Albo jeźliby jakim kamieniem, od którego by mógł umrzeć, rzucił nań z nieobaczenia, a umarłby, nie będąc mu nieprzyjacielem, ani szukając jego złego
 "Tedy rozsądek uczyni zgromadzenie między tym, który zabił, a między powinnym zabitego według tego prawa."
-"I wybawi zgromadzenie mężobójcę tego z rąk powinnego onego zabitego, i każe mu się wrócić zgromadzenie do miasta ucieczki jego, gdzie był uciekł; i tamże będzie mieszkał aż do śmierci kapłana najwyższego, który jest pomazany olejkiem świętym."
+"I wybawi zgromadzenie mężobójcę tego z rąk powinnego onego zabitego, i każe mu się wrócić zgromadzenie do miasta ucieczki #jego, gdzie był uciekł; i tamże będzie mieszkał aż do śmierci kapłana najwyższego, który jest pomazany olejkiem świętym."
 "A jeźliby wyszedł mężobójca za granice miasta ucieczki swojej, do którego uciekł;"
 "I trafiłby go powinny zabitego za granicą miasta ucieczki jego, chociażby zabił powinny zabitego mężobójcę onego, nie będzie winien krwi."
 "Albowiem w mieście ucieczki swojej mieszkać ma aż do śmierci kapłana najwyższego, a po śmierci kapłana najwyższego wróci się on mężobójca do ziemi osiadłości swojej."

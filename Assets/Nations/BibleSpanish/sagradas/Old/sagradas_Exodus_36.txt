@@ -1,11 +1,11 @@
-"Hizo, <I>pues</I> , Bezaleel y Aholiab, y todo hombre sabio de corazón, a quien el SEÑOR dio sabiduría e inteligencia para que supiesen hacer toda la obra del servicio del santuario, todas las cosas que había mandado el  SEÑOR."
-"Y Moisés llamó a Bezaleel y a Aholiab, y a todo varón sabio de corazón, en cuyo corazón había dado el SEÑOR sabiduría, y a todo <I>hombre</I>  a quien su corazón le movió a llegarse a la obra, para trabajar en ella;"
-"y tomaron de delante de Moisés toda la ofrenda que los hijos de Israel habían traído para la obra del servicio del santuario, a fin de hacerla. Y ellos le traían aun ofrenda voluntaria cada mañana."
+"Hizo, <I>pues</I> , Bezaleel y Aholiab, y todo hombre sabio de corazón, a quien el SEÑOR dio sabiduría e inteligencia para #que supiesen hacer toda la obra del servicio del santuario, todas las cosas que había mandado el  SEÑOR."
+"Y Moisés llamó a Bezaleel y a Aholiab, y a todo varón sabio de corazón, en cuyo corazón había dado el SEÑOR #sabiduría, y a todo <I>hombre</I>  a quien su corazón le movió a llegarse a la obra, para trabajar en ella;"
+"y tomaron de delante de Moisés toda la ofrenda que los hijos de Israel habían traído para la obra #del servicio del santuario, a fin de hacerla. Y ellos le traían aun ofrenda voluntaria cada mañana."
 "<I>Tanto que</I>  vinieron, todos los maestros que hacían toda la obra del santuario, cada uno de la obra que hacía."
 "Y hablaron a Moisés, diciendo
 "Entonces Moisés mandó pregonar por el campo, diciendo
 "pues tenía material abundante para hacer toda la obra, y sobraba."
-"Y todos los sabios de corazón entre los que hacían la obra, hicieron el tabernáculo de diez cortinas, de lino torcido, y de cárdeno, y de púrpura y carmesí; las cuales hicieron de obra primorosa, <I>con</I>  querubines."
+"Y todos los sabios de corazón entre los que hacían la obra, hicieron el tabernáculo de diez cortinas, de lino #torcido, y de cárdeno, y de púrpura y carmesí; las cuales hicieron de obra primorosa, <I>con</I>  querubines."
 "La longitud de una cortina <I>era</I>  de veintiocho codos, y la anchura de cuatro codos; todas las cortinas tenían una misma medida."
 "Y juntó las cinco cortinas la una con la otra; <I>asimismo</I>  unió las otras cinco cortinas la una con la otra."
 "E hizo las lazadas <I>de color</I>  de cárdeno en la orilla de una cortina, en el borde, a la juntura; y así hizo en la orilla al borde de la segunda cortina, en la juntura."

@@ -27,19 +27,19 @@
 "At siya'y lumapit at humalik siya sa kaniya
 "At bigyan ka ng Dios ng hamog ng langit, At ng taba ng lupa, At ng saganang trigo at alak
 "Ang mga bayan ay mangaglingkod nawa sa iyo. At ang mga bansa ay mangagsiyukod sa iyo
-"At nangyari pagkatapos ng pagbabasbas ni Isaac kay Jacob, at bahagya nang kaaalis ni Jacob sa harap ni Isaac na kaniyang ama, ay dumating si Esau na kaniyang kapatid, na galing sa kaniyang panghuhuli."
-"At siya ma'y gumawa ng masarap na pagkain, at dinala niya sa kaniyang ama; at sinabi niya sa kaniyang ama, Bumangon ang ama ko, at kumain ng usa ng kaniyang anak, upang basbasan ako ng iyong kaluluwa."
+"At nangyari pagkatapos ng pagbabasbas ni Isaac kay Jacob, at bahagya nang kaaalis ni Jacob sa harap ni #Isaac na kaniyang ama, ay dumating si Esau na kaniyang kapatid, na galing sa kaniyang panghuhuli."
+"At siya ma'y gumawa ng masarap na pagkain, at dinala niya sa kaniyang ama; at sinabi niya sa kaniyang #ama, Bumangon ang ama ko, at kumain ng usa ng kaniyang anak, upang basbasan ako ng iyong kaluluwa."
 "At sinabi ni Isaac na kaniyang ama sa kaniya, Sino ka? At kaniyang sinabi, Ako ang iyong anak, ang iyong panganay na si Esau."
 "At nangilabot na mainam si Isaac, at sinabi, Sino nga yaong kumuha ng usa at dinala sa akin, at ako'y kumain niyaon bago ka dumating, at aking binasbasan siya? oo, at siya'y magiging mapalad!"
 "Nang marinig ni Esau ang mga salita ng kaniyang ama ay humiyaw ng malakas at ng di kawasang kapanglawan
 "At kaniyang sinabi, Naparito ang iyong kapatid sa pamamagitan ng daya, at kinuha ang basbas sa iyo."
 "At kaniyang sinabi, Hindi ba matuwid ang pagkatawag sa kaniyang Jacob? sapagka't kaniyang inagawan ako nitong makalawa
-"At sumagot si Isaac, at sinabi kay Esau. Narito, inilagay ko siyang panginoon mo, at sa kaniya'y ibinigay kong lingkod ang lahat niyang mga kapatid; at sa trigo at sa bagong alak, ay kinandili ko siya; at sa iyo'y ano ngang magagawa ko ngayon anak ko?"
+"At sumagot si Isaac, at sinabi kay Esau. Narito, inilagay ko siyang panginoon mo, at sa kaniya'y ibinigay kong lingkod ang lahat niyang mga #kapatid; at sa trigo at sa bagong alak, ay kinandili ko siya; at sa iyo'y ano ngang magagawa ko ngayon anak ko?"
 "At sinabi ni Esau sa kaniyang ama, Wala ka ba, kundi isa lamang basbas, ama ko? Basbasan mo ako, ako naman, Oh ama ko. At humiyaw si Esau at umiyak."
 "At sumagot si Isaac na kaniyang ama, at sinabi sa kaniya, Narito, magiging sadya sa taba ng lupa ang iyong tahanan, At sa hamog ng langit mula sa itaas;"
 "At sa iyong tabak ay mabubuhay ka, at sa iyong kapatid ay maglilingkod ka; At mangyayari na pagka nakalaya ka, Papagpagin mo sa iyong leeg ang pamatok niya."
-"At kinapootan ni Esau si Jacob, dahil sa basbas na ibinasbas sa kaniya ng kaniyang ama; at sinasabi ni Esau sa sarili, Malapit na ang mga araw ng pagluluksa sa aking ama; kung magkagayo'y papatayin ko si Jacob na aking kapatid."
-"At ang mga salita ni Esau na kaniyang panganay ay nangaibalita kay Rebeca; at kaniyang pinasuguan at tinawag si Jacob, na kaniyang bunso at sa kaniya'y sinabi, Narito, ang iyong kapatid na si Esau ay naaaliw tungkol sa iyo, na inaakalang patayin ka."
+"At kinapootan ni Esau si Jacob, dahil sa basbas na ibinasbas sa kaniya ng kaniyang ama; at sinasabi ni Esau sa #sarili, Malapit na ang mga araw ng pagluluksa sa aking ama; kung magkagayo'y papatayin ko si Jacob na aking kapatid."
+"At ang mga salita ni Esau na kaniyang panganay ay nangaibalita kay Rebeca; at kaniyang pinasuguan at tinawag si Jacob, na kaniyang #bunso at sa kaniya'y sinabi, Narito, ang iyong kapatid na si Esau ay naaaliw tungkol sa iyo, na inaakalang patayin ka."
 "Ngayon nga, anak ko, sundin mo ang aking tinig; at bumangon ka, at tumakas ka hanggang kay Laban na aking kapatid, sa Haran;"
 "At dumoon ka sa kaniyang ilang araw hanggang sa mapawi ang galit ng iyong kapatid."
 "Hanggang ang galit sa iyo, ng iyong kapatid ay mapawi at malimutan niya ang ginawa mo sa kaniya

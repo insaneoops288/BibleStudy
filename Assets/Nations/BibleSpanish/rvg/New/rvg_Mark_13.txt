@@ -6,9 +6,9 @@
 "‹porque vendrán muchos en mi nombre, diciendo
 "‹Y cuando oyereis de guerras y de rumores de guerras, no os turbéis; porque es necesario que así acontezca; pero aún no [es] el fin.›"
 "‹Porque se levantará nación contra nación, y reino contra reino; y habrá terremotos en diversos lugares, y habrá hambres y alborotos; principios de dolores [son] estos.›"
-"‹Pero mirad por vosotros mismos; porque os entregarán a los concilios, y en las sinagogas seréis azotados; y delante de gobernadores y de reyes y seréis llevados por causa de mí, para testimonio contra ellos.›"
+"‹Pero mirad por vosotros mismos; porque os entregarán a los concilios, y en las sinagogas seréis azotados; y #delante de gobernadores y de reyes y seréis llevados por causa de mí, para testimonio contra ellos.›"
 "‹Y es necesario que el evangelio sea predicado antes a todas las naciones.›"
-"‹Y cuando os llevaren y entregaren, no os preocupéis por lo que habéis de decir, ni lo premeditéis; sino lo que os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el Espíritu Santo.›"
+"‹Y cuando os llevaren y entregaren, no os preocupéis por lo que habéis de decir, ni lo premeditéis; sino lo que #os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el Espíritu Santo.›"
 "‹Y el hermano entregará a muerte al hermano, y el padre al hijo; y se levantarán los hijos contra los padres, y los harán morir.›"
 "‹Y seréis aborrecidos de todos por causa de mi nombre; mas el que perseverare hasta el fin, éste será salvo.›"
 "‹Mas cuando viereis la abominación desoladora, de que habló el profeta Daniel, que estará donde no debe estar (el que lee, entienda), entonces los que estén en Judea, huyan a los montes;›"

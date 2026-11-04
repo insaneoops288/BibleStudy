@@ -14,5 +14,5 @@
 "Magsiangal kayo, kayong mga sasakyang dagat ng Tarsis
 "At mangyayari, sa araw na yaon na ang Tiro ay malilimutang pitong pung taon, ayon sa mga kaarawan ng isang hari
 "Ikaw ay humawak ng alpa, lumibot ka sa bayan, ikaw na patutot na nalimutan; magpainam ka ng tinig, umawit ka ng maraming awit, upang ikaw ay maalaala."
-"At mangyayari, sa katapusan ng pitong pung taon, na dadalawin ng Panginoon ang Tiro, at pagbabalikan niya ang kaniyang upa, at magiging patutot sa lahat ng kaharian ng sanglibutan sa ibabaw ng lupa."
+"At mangyayari, sa katapusan ng pitong pung taon, na dadalawin ng Panginoon ang Tiro, at pagbabalikan niya #ang kaniyang upa, at magiging patutot sa lahat ng kaharian ng sanglibutan sa ibabaw ng lupa."
 "At ang kaniyang kalakal at ang upa sa kaniya ay itatalaga sa Panginoon

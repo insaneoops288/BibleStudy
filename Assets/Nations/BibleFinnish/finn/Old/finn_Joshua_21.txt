@@ -41,5 +41,5 @@
 "Kaikki Leviläisten kaupungit Israelin lasten perinnön seassa olivat kahdeksanviidettäkymmentä ja niiden esikaupungit."
 "Ja itsekullakin kaupungilla oli hänen esikaupunkinsa ympäristöllänsä, niin oli niillä kaikilla kaupungeilla."
 "Ja niin antoi Herra Israelin lapsille kaiken sen maan, jonka hän vannoi heidän isillensä antaaksensa; ja he omistivat sen ja asuivat siinä."
-"Ja Herra antoi heille levon kaikella heidän ympäristöllänsä, niinkuin hän vannoi heidän isillensä; ja ei yksikään heidän vihollisistansa seisonut heitä vastaan, vaan kaikki heidän vihollisensa antoi Herra heidän käsiinsä."
+"Ja Herra antoi heille levon kaikella heidän ympäristöllänsä, niinkuin hän vannoi heidän isillensä; ja ei #yksikään heidän vihollisistansa seisonut heitä vastaan, vaan kaikki heidän vihollisensa antoi Herra heidän käsiinsä."
 "Ja ei puuttunut mitään kaikesta siitä hyvyydestä, mitä Herra oli puhunut Israelin huoneelle, vaan kaikki tapahtui."

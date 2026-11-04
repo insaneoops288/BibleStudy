@@ -1,5 +1,5 @@
 "Atalia pak matka Ochoziášova viduci, že umřel syn její, vstavši, pomordovala všecko símě královské."
-"Ale Jozaba dcera krále Jehorama, sestra Ochoziášova, vzala Joasa syna Ochoziášova, a ukradši ho z prostředku synů královských, kteříž mordováni byli, skryla jej i s chůvou jeho v pokoji, kdež lůže byla. A tak skryli ho před Atalií, a není zamordován."
+"Ale Jozaba dcera krále Jehorama, sestra Ochoziášova, vzala Joasa syna Ochoziášova, a ukradši ho z prostředku synů královských, kteříž mordováni byli, #skryla jej i s chůvou jeho v pokoji, kdež lůže byla. A tak skryli ho před Atalií, a není zamordován."
 "I byl s ní v domě Hospodinově tajně za šest let, v nichž Atalia kralovala nad zemí."
 "Léta sedmého poslav Joiada, povolal setníků, hejtmanů a drabantů. I uvedl je k sobě do domu Hospodinova, a učinil s nimi smlouvu, a zavázav je přísahou v domě Hospodinově, ukázal jim syna králova."
 "A přikázal jim, řka
@@ -15,7 +15,7 @@
 "Protož rozkázal Joiada kněz těm setníkům ustaveným nad vojskem, řka jim
 "I pustili ji. Ale když přišla na cestu, kudy koni vcházejí do domu královského, tu jest zabita."
 "Tedy učinil Joiada smlouvu mezi Hospodinem a mezi králem, i mezi lidem, aby byli lid Hospodinův; též mezi králem a mezi lidem."
-"Potom šel všecken lid země do domu Bálova, a zbořili jej, i oltáře jeho a obrazy jeho v kusy stroskotali; Matana také kněze Bálova zabili před oltáři. Kněz pak znovu nařídil přisluhující v domě Hospodinově."
+"Potom šel všecken lid země do domu Bálova, a zbořili jej, i oltáře jeho a obrazy jeho v #kusy stroskotali; Matana také kněze Bálova zabili před oltáři. Kněz pak znovu nařídil přisluhující v domě Hospodinově."
 "A pojav ty setníky a hejtmany, i drabanty se vším lidem země, provázeli krále z domu Hospodinova, a přišli cestou k bráně drabantů do domu královského. Kdežto posadil se na stolici královské."
 "I veselil se všecken lid země, a město se upokojilo. Atalii pak zabili mečem u domu královského."
 "A byl Joas v sedmi letech, když počal kralovati."

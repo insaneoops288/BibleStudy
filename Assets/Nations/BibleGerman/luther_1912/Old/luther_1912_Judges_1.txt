@@ -13,7 +13,7 @@
 "Da gewann es Othniel, der Sohn des Kenas, Kalebs jüngerer Bruder. Und er gab ihm sein Tochter Achsa zum Weibe."
 "Und es begab sich, da sie einzog, beredete sie ihn, einen Acker zu fordern von ihrem Vater. Und sie stieg vom Esel; da sprach Kaleb zu ihr
 "Sie sprach
-"Und die Kinder des Keniters, Mose's Schwagers, zogen herauf aus der Palmenstadt mit den Kindern Juda in die Wüste Juda, die da liegt gegen Mittag der Stadt Arad, und gingen hin und wohnten unter dem Volk."
+"Und die Kinder des Keniters, Mose's Schwagers, zogen herauf aus der Palmenstadt mit den Kindern Juda in die Wüste #Juda, die da liegt gegen Mittag der Stadt Arad, und gingen hin und wohnten unter dem Volk."
 "Und Juda zog hin mit seinem Bruder Simeon, und schlugen die Kanaaniter zu Zephath und verbannten sie und nannten die Stadt Horma."
 "Dazu gewann Juda Gaza mit seinem Zugehör und Askalon mit seinem Zugehör und Ekron mit seinem Zugehör."
 "Und der HERR war mit Juda, daß er das Gebirge einnahm; denn er konnte die Einwohner im Grunde nicht vertreiben, darum daß sie eiserne Wagen hatten."
@@ -24,7 +24,7 @@
 "Und die Wächter sahen einen Mann aus der Stadt gehen und sprachen zu ihm
 "Und da er ihnen zeigte, wo sie in die Stadt kämen, schlugen sie die Stadt mit der Schärfe des Schwerts; aber den Mann und all sein Geschlecht ließen sie gehen."
 "Da zog derselbe Mann ins Land der Hethiter und baute eine Stadt und hieß sie Lus; die heißt noch heutigestages also."
-"Und Manasse vertrieb nicht Beth-Sean mit den zugehörigen Orten noch Thaanach mit den zugehörigen Orten noch die Einwohner zu Dor mit den zugehörigen Orten noch die Einwohner zu Jibleam mit den zugehörigen Orten noch die Einwohner zu Megiddo mit den zugehörigen Orten; und die Kanaaniter blieben wohnen im Land."
+"Und Manasse vertrieb nicht Beth-Sean mit den zugehörigen Orten noch Thaanach mit den zugehörigen Orten noch die Einwohner zu Dor mit den zugehörigen Orten noch #die Einwohner zu Jibleam mit den zugehörigen Orten noch die Einwohner zu Megiddo mit den zugehörigen Orten; und die Kanaaniter blieben wohnen im Land."
 "Da aber Israel mächtig war, machte es die Kanaaniter zinsbar und vertrieb sie nicht.{~}"
 "Desgleichen vertrieb auch Ephraim die Kanaaniter nicht, die zu Geser wohnten, sondern die Kanaaniter wohnten unter ihnen zu Geser."
 "Sebulon vertrieb auch nicht die Einwohner von Kitron und Nahalol; sondern die Kanaaniter wohnten unter ihnen und waren zinsbar."

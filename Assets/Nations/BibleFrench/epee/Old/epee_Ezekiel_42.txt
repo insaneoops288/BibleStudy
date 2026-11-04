@@ -11,7 +11,7 @@
 "Devant elles était une allée, comme devant les chambres septentrionales; elles avaient la même longueur et la même largeur, toutes les mêmes sorties, les mêmes dispositions et les mêmes entrées."
 "Il en était de même des portes des chambres méridionales. A l'entrée de l'allée, de l'allée en face du mur oriental correspondant, se trouvait une porte par où l'on entrait."
 "Et il me dit
-"Quand les sacrificateurs y seront entrés, ils ne sortiront pas du lieu saint au parvis extérieur; mais ils déposeront là les vêtements avec lesquels ils font le service, parce qu'ils sont sacrés, et ils mettront d'autres vêtements pour s'approcher du peuple."
+"Quand les sacrificateurs y seront entrés, ils ne sortiront pas du lieu saint au parvis extérieur; mais ils déposeront là les #vêtements avec lesquels ils font le service, parce qu'ils sont sacrés, et ils mettront d'autres vêtements pour s'approcher du peuple."
 "Après avoir achevé les mesures de la maison intérieure, il me fit sortir par le chemin de la porte orientale, et il mesura l'enceinte tout autour."
 "Il mesura le côté de l'Orient avec la canne à mesurer; il y avait tout autour cinq cents cannes, de la canne à mesurer."
 "Il mesura le côté septentrional

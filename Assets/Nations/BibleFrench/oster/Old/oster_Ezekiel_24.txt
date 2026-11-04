@@ -11,7 +11,7 @@
 "Puis place la chaudière vide sur les charbons ardents, afin qu'elle s'échauffe, que son airain devienne brûlant, que sa souillure se fonde au-dedans, et que sa rouille soit consumée."
 "Elle lasse tous mes efforts, et la rouille dont elle est remplie ne s'en va point; au feu donc la rouille!"
 "Ta souillure est criminelle, puisque j'ai voulu te purifier et que tu n'es point devenue pure; tu ne seras plus nettoyée de ta souillure jusqu'à ce que j'aie assouvi contre toi ma fureur."
-"Moi, l'Éternel, j'ai parlé; cela arrivera, et je le ferai; je ne reculerai point, et je n'aurai ni pitié, ni repentir. On te jugera selon ta conduite et selon tes actions, dit le Seigneur, l'Éternel!"
+"Moi, l'Éternel, j'ai parlé; cela arrivera, et je le ferai; je ne reculerai point, et je n'aurai ni #pitié, ni repentir. On te jugera selon ta conduite et selon tes actions, dit le Seigneur, l'Éternel!"
 "La parole de l'Éternel me fut adressée en ces termes
 "Fils de l'homme, voici, par une plaie soudaine, j'enlève ce qui fait les délices de tes yeux; mais tu ne mèneras point deuil, tu ne pleureras point, et tu ne laisseras pas couler tes larmes."
 "Soupire en silence, mais ne prends pas le deuil des morts; attache ta coiffure sur toi, mets ta chaussure à tes pieds, ne te voile pas la barbe et ne mange pas le pain des autres."
@@ -20,7 +20,7 @@
 "Et je répondis
 "Dis à la maison d'Israël
 "Vous ferez alors comme j'ai fait; vous ne vous voilerez point la barbe, et vous ne mangerez pas le pain des autres;"
-"Vos coiffures seront sur vos têtes, et votre chaussure à vos pieds; vous ne mènerez point deuil, et ne pleurerez pas; mais vous serez frappés de langueur à cause de vos iniquités, et vous gémirez les uns avec les autres."
+"Vos coiffures seront sur vos têtes, et votre chaussure à vos pieds; vous ne mènerez point deuil, et ne pleurerez pas; #mais vous serez frappés de langueur à cause de vos iniquités, et vous gémirez les uns avec les autres."
 "Ézéchiel sera pour vous un signe, et tout ce qu'il a fait vous le ferez aussi. Quand cela arrivera, vous saurez que je suis le Seigneur, l'Éternel."
 "Et toi, fils de l'homme, le jour où je leur ôterai leur force, leur joie, leur gloire, les délices de leurs yeux, l'objet de leur amour, leurs fils et leurs filles,"
 "Ce jour-là un fuyard viendra vers toi pour l'annoncer à tes oreilles."

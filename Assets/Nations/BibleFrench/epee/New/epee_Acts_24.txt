@@ -1,6 +1,6 @@
 "Cinq jours après, Ananias, le souverain sacrificateur, descendit avec des Anciens et un certain orateur, nommé Tertullus, qui portèrent plainte au gouverneur contre Paul."
 "Celui-ci ayant été appelé, Tertullus commença à l'accuser, en disant
-"Très excellent Félix, nous reconnaissons en tout et par tout, et avec toute sorte d'actions de grâces, que nous jouissons d'une grande paix, grâce à toi et aux heureux succès survenus à cette nation par ta prévoyance."
+"Très excellent Félix, nous reconnaissons en tout et par tout, et avec toute sorte d'actions de grâces, que nous #jouissons d'une grande paix, grâce à toi et aux heureux succès survenus à cette nation par ta prévoyance."
 "Mais, pour ne pas t'arrêter plus longtemps, je te prie d'écouter, dans ta bonté, ce peu de paroles
 "Nous avons trouvé cet homme, qui est une peste, qui sème la discorde parmi tous les Juifs répandus dans le monde, et qui est le chef de la secte des Nazaréens,"
 "Et qui même a tenté de profaner le temple. Nous l'avions saisi, et nous voulions le juger selon notre loi;"

@@ -1,7 +1,7 @@
 "Fjalët e Agurit, birit të Jahehut; mesazhi profetik që ky njeri shpalli në Ithiel, në Ithiel dhe në Ukal."
 "Po, unë jam më budalla se gjithë të tjerët dhe nuk kam mendje njeriu."
 "Nuk kam mësuar diturinë dhe nuk kam dijen e Shenjtorit."
-"Kush u ngjit në qiell dhe zbriti prej tij? Kush e ka mbledhur erën në duart e tij? Kush i ka mbyllur ujërat në rroben e tij? Kush i ka vendosur të gjithë kufijtë e tokës? Cili është emri i tij dhe emri i të birit, po qe se ti e di?"
+"Kush u ngjit në qiell dhe zbriti prej tij? Kush e ka mbledhur erën në duart e tij? Kush i ka mbyllur ujërat në rroben e tij? #Kush i ka vendosur të gjithë kufijtë e tokës? Cili është emri i tij dhe emri i të birit, po qe se ti e di?"
 "Çdo fjalë e Perëndisë është rafinuar me zjarr. Ai është një mburojë për atë që gjen strehë tek ai."
 "Mos u shto asgjë fjalëve të tij që të mos të të qortojë dhe të dalësh gënjeshtar."
 "Unë të kërkova dy gjëra; mos m'i moho para se të vdes

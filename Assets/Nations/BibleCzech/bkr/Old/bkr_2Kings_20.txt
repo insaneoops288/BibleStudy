@@ -10,7 +10,7 @@
 "Odpověděl Ezechiáš
 "Volal tedy Izaiáš prorok k Hospodinu, a navrátil stín po stupních, po nichž sešel na hodinách slunečných Achasových, zpátkem o deset stupňů."
 "Toho času poslal Berodach Baladan syn Baladanův, král Babylonský, list a dary Ezechiášovi; nebo slyšel, že nemocen byl Ezechiáš."
-"I vyslyšel je Ezechiáš a ukázal jim všecky schrany klénotů svých, stříbra a zlata i vonných věcí, a olej nejvýbornější, tolikéž dům zbroje své, a cožkoli mohlo nalezeno býti v pokladích jeho. Ničeho nebylo, čehož by jim neukázal Ezechiáš v domě svém i ve všem panství svém."
+"I vyslyšel je Ezechiáš a ukázal jim všecky schrany klénotů svých, stříbra a zlata i vonných věcí, a olej nejvýbornější, tolikéž dům zbroje své, #a cožkoli mohlo nalezeno býti v pokladích jeho. Ničeho nebylo, čehož by jim neukázal Ezechiáš v domě svém i ve všem panství svém."
 "Protož přišel prorok Izaiáš k králi Ezechiášovi, a řekl jemu
 "I řekl
 "Ale Izaiáš řekl Ezechiášovi

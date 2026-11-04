@@ -8,7 +8,7 @@
 "Und Barak sprach zu ihr
 "Da sprachen sie
 "Und Barak berief Sebulon und Naphtali nach Kedes; und zehntausend Mann zogen in seinem Gefolge hinauf; auch Debora zog mit ihm hinauf."
-"(Heber aber, der Keniter, hatte sich von den Kenitern, den Kindern Hobabs, des Schwagers Moses, getrennt; und er hatte seine Zelte aufgeschlagen bis an die Terebinthe zu Zaanannim, das neben Kedes liegt.)"
+"(Heber aber, der Keniter, hatte sich von den Kenitern, den Kindern Hobabs, des Schwagers Moses, getrennt; und #er hatte seine Zelte aufgeschlagen bis an die Terebinthe zu Zaanannim, das neben Kedes liegt.)"
 "Und man berichtete dem Sisera, daß Barak, der Sohn Abinoams, auf den Berg Tabor hinaufgezogen wäre."
 "Da berief Sisera alle seine Wagen, neunhundert eiserne Wagen, und alles Volk, das mit ihm war, von Haroscheth-Gojim an den Bach Kison."
 "Und Debora sprach zu Barak
@@ -18,7 +18,7 @@
 "Da ging Jael hinaus, dem Sisera entgegen; und sie sprach zu ihm
 "Und er sprach zu ihr
 "Und er sprach zu ihr
-"Und Jael, das Weib Hebers, nahm einen Zeltpflock und faßte den Hammer in ihre Hand, und sie kam leise zu ihm und schlug den Pflock durch seine Schläfe, daß er in die Erde drang. Er war nämlich in einen tiefen Schlaf gefallen und war ermattet, und er starb."
+"Und Jael, das Weib Hebers, nahm einen Zeltpflock und faßte den Hammer in ihre Hand, und sie kam leise zu ihm und schlug den Pflock #durch seine Schläfe, daß er in die Erde drang. Er war nämlich in einen tiefen Schlaf gefallen und war ermattet, und er starb."
 "Und siehe, da kam Barak, der Sisera verfolgte; und Jael ging hinaus, ihm entgegen, und sprach zu ihm
 "So beugte Gott an selbigem Tage Jabin, den König von Kanaan, vor den Kindern Israel."
 "Und die Hand der Kinder Israel wurde fort und fort härterüber Jabin, den König von Kanaan, bis sie Jabin, den König von Kanaan, vernichtet hatten."

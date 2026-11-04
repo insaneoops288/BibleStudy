@@ -17,5 +17,5 @@
 "Kìa trong sự hiện thấy, tôi thấy những ngựa và kẻ cỡi ra làm sao
 "Một phần ba loài người bị giết vì ba tai nạn đó, là lửa, khói, và diêm sanh ra từ miệng ngựa."
 "Vì quyền phép của những ngựa ấy ở nơi miệng và đuôi nó; những đuôi ấy giống như con rắn, và có đầu, nhờ đó nó làm hại người."
-"Còn những người sót lại, chưa bị các tai nạn đó giết đi, vẫn không ăn năn những công việc bởi tay chúng nó làm cứ thờ lạy ma quỉ cùng thần tượng bằng vàng, bạc, đồng, đã và gỗ, là những tượng không thấy, không nghe, không đi được."
+"Còn những người sót lại, chưa bị các tai nạn đó giết đi, vẫn không ăn năn những công việc bởi tay chúng nó làm cứ #thờ lạy ma quỉ cùng thần tượng bằng vàng, bạc, đồng, đã và gỗ, là những tượng không thấy, không nghe, không đi được."
 "Chúng nó cũng không ăn năn những tội giết người, tà thuật, gian dâm, trộm cướp của mình nữa."

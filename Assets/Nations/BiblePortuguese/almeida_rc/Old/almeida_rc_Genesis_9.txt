@@ -20,7 +20,7 @@
 "E começou Noé a ser lavrador da terra e plantou uma vinha."
 "E bebeu do vinho e embebedou-se; e descobriu-se no meio de sua tenda."
 "E viu Cam, o pai de Canaã, a nudez de seu pai e fê-lo saber a ambos seus irmãos, fora."
-"Então, tomaram Sem e Jafet uma capa, puseram-na sobre ambos os seus ombros e, indo virados para trás, cobriram a nudez do seu pai; e os seus rostos eram virados, de maneira que não viram a nudez do seu pai."
+"Então, tomaram Sem e Jafet uma capa, puseram-na sobre ambos os seus ombros e, indo virados para trás, cobriram a nudez #do seu pai; e os seus rostos eram virados, de maneira que não viram a nudez do seu pai."
 "E despertou Noé do seu vinho e soube o que seu filho menor lhe fizera."
 "E disse
 "E disse

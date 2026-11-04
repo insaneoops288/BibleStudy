@@ -10,7 +10,7 @@
 "E disse David a Jónatas
 "Então, disse Jónatas a David
 "E disse Jónatas a David
-"o SENHOR faça assim com Jónatas outro tanto; mas, se aprouver a meu pai fazer-te mal, também to farei saber e te deixarei partir, e irás em paz; e o SENHOR seja contigo, assim como foi com meu pai."
+"o SENHOR faça assim com Jónatas outro tanto; mas, se aprouver a meu pai fazer-te mal, também to farei saber #e te deixarei partir, e irás em paz; e o SENHOR seja contigo, assim como foi com meu pai."
 "E, se eu, então, ainda viver, porventura, não usarás comigo da beneficência do SENHOR, para que não morra?"
 "Nem tampouco cortarás da minha casa a tua beneficência eternamente; nem ainda quando o SENHOR desarraigar da terra a cada um dos inimigos de David."
 "Assim, fez Jónatas aliança com a casa de David, dizendo
@@ -38,5 +38,5 @@
 "E tornou Jónatas a gritar atrás do moço
 "E o moço não entendeu coisa alguma; só Jónatas e David sabiam deste negócio."
 "Então, Jónatas deu as suas armas ao moço que trazia e disse-lhe
-"E, indo-se o moço, levantou-se David da banda do sul, e lançou-se sobre o seu rosto em terra, e inclinou-se três vezes; e beijaram-se um ao outro e choraram juntos, até que David chorou muito mais."
+"E, indo-se o moço, levantou-se David da banda do sul, e lançou-se sobre o seu rosto em terra, e #inclinou-se três vezes; e beijaram-se um ao outro e choraram juntos, até que David chorou muito mais."
 "E disse Jónatas a David

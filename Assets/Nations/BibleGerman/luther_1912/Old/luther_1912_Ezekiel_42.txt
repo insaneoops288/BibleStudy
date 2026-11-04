@@ -11,7 +11,7 @@
 "Und war auch ein Weg davor wie vor jenen Kammern, so gegen Mitternacht lagen; und war alles gleich mit der Länge, Breite und allem, was daran war, wie droben an jenen."
 "Und wie die Türen jener, also waren auch die Türen der Kammern gegen Mittag; und am Anfang des Weges war eine Tür, dazu man kommt von der Mauer, die gegen Morgen liegt.{~}{~}"
 "Und er sprach zu mir
-"Und wenn die Priester hineingehen, sollen sie nicht wieder aus dem Heiligtum gehen in denäußeren Vorhof, sonder sollen zuvor ihre Kleider, darin sie gedient haben, in den Kammern weglegen, denn sie sind heilig; und sollen ihre anderen Kleider anlegen und alsdann heraus unters Volk gehen."
+"Und wenn die Priester hineingehen, sollen sie nicht wieder aus dem Heiligtum gehen in denäußeren Vorhof, sonder sollen zuvor ihre Kleider, darin sie #gedient haben, in den Kammern weglegen, denn sie sind heilig; und sollen ihre anderen Kleider anlegen und alsdann heraus unters Volk gehen."
 "Und da er das Haus inwendig ganz gemessen hatte, führte er mich heraus zum Tor gegen Morgen und maß von demselben allenthalben herum.{~}"
 "Gegen Morgen maß er fünfhundert Ruten lang;"
 "und gegen Mitternacht maß er auch fünfhundert Ruten lang;"

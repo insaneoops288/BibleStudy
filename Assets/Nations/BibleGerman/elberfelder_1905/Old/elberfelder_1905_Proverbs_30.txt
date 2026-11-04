@@ -1,7 +1,7 @@
 "Worte Agurs, des Sohnes Jakes, der Ausspruch. Es spricht der Mann zu Ithiel, zu Ithiel und Ukal
 "Fürwahr, ich bin unvernünftiger als irgend einer, und Menschenverstand habe ich nicht."
 "Und Weisheit habe ich nicht gelernt, daß ich Erkenntnis des Heiligen besäße."
-"Wer ist hinaufgestiegen gen Himmel und herniedergefahren? Wer hat den Wind in seine Fäuste gesammelt? Wer die Wasser in ein Tuch gebunden? Wer hat aufgerichtet alle Enden der Erde? Was ist sein Name, und was der Name seines Sohnes, wenn du es weißt?"
+"Wer ist hinaufgestiegen gen Himmel und herniedergefahren? Wer hat den Wind in seine Fäuste gesammelt? Wer die Wasser in ein Tuch gebunden? #Wer hat aufgerichtet alle Enden der Erde? Was ist sein Name, und was der Name seines Sohnes, wenn du es weißt?"
 "Alle Rede Gottes ist geläutert; ein Schild ist er denen, die auf ihn trauen."
 "Tue nichts zu seinen Worten hinzu, damit er dich nichtüberführe und du als Lügner erfunden werdest."
 "Zweierlei erbitte ich von dir; verweigere es mit nicht, ehe ich sterbe

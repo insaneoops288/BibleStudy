@@ -13,8 +13,8 @@
 "Perciocchè voi non ci foste la prima volta, il Signore Iddio nostro fece una rottura fra noi; perciocchè noi non l’avevamo ricercato secondo che si conveniva."
 "I sacerdoti adunque, e i Leviti, si santificarono, per trasportar l’Arca del Signore Iddio d’Israele."
 "E i figliuoli dei Leviti portarono l’Arca di Dio in su le loro spalle, con le stanghe che aveano addosso, come Mosè avea comandato, secondo la parola del Signore."
-"E Davide disse a’ principali d’infra i Leviti che facessero esser quivi presenti i lor fratelli cantori, con istrumenti musicali, salteri, e cetere, e cembali, sonando, ed alzando la voce, con allegrezza."
-"E i Leviti fecero esser quivi presenti Heman, figliuolo di Ioel; e d’infra i fratelli di esso, Asaf, figliuolo di Berechia; e d’infra i figliuoli di Merari, lor fratelli, Etan, figliuolo di Cusaia;"
+"E Davide disse a’ principali d’infra i Leviti che facessero esser quivi presenti i lor fratelli cantori, #con istrumenti musicali, salteri, e cetere, e cembali, sonando, ed alzando la voce, con allegrezza."
+"E i Leviti fecero esser quivi presenti Heman, figliuolo di Ioel; e d’infra i fratelli di esso, #Asaf, figliuolo di Berechia; e d’infra i figliuoli di Merari, lor fratelli, Etan, figliuolo di Cusaia;"
 "e, con loro, i lor fratelli del secondo ordine
 "Or questi cantori
 "e Zaccaria, e Iaaziel, e Semiramot, e Iehiel, ed Unni, ed Eliab, Maaseia, e Benaia, sonavano con salteri sopra Alamot."
@@ -26,4 +26,4 @@
 "E quando Iddio dava alleggiamento a’ Leviti che portavano l’Arca del Patto del Signore, si sacrificavano sette giovenchi, e sette montoni."
 "E Davide era ammantato d’un ammanto di bisso; e parimente tutti i Leviti che portavano l’Arca, ed i cantori, e Chenania, capo de’ cantori nell’intonare; e Davide avea indosso un Efod di lino."
 "Così tutto Israele conduceva l’Arca del Patto del Signore, con grida d’allegrezza, con suon di corni, e con trombe, e con cembali, sonando con salteri, e con cetere."
-"Ora, quando l’Arca del Patto del Signore giunse alla Città di Davide, Mical, figliuola di Saulle, riguardò dalla finestra, e vide il re Davide, che saltava, e festeggiava. Ed ella lo sprezzò nel suo cuore."
+"Ora, quando l’Arca del Patto del Signore giunse alla Città di Davide, Mical, figliuola di Saulle, riguardò dalla #finestra, e vide il re Davide, che saltava, e festeggiava. Ed ella lo sprezzò nel suo cuore."

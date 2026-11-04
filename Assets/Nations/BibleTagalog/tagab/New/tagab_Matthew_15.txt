@@ -19,8 +19,8 @@
 "Sapagka't sa puso nanggagaling ang masasamang pagiisip, mga pagpatay, mga pangangalunya, pakikiapid, mga pagnanakaw, mga pagsaksi sa di katotohanan, mga pamumusong
 "Ito ang mga bagay na nangakakahawa sa tao; datapuwa't ang kumaing hindi maghugas ng mga kamay ay hindi makakahawa sa tao."
 "At umalis doon si Jesus, at lumigpit sa mga sakop ng Tiro at Sidon."
-"At narito, ang isang babaing Cananea na lumabas sa mga hangganang yaon, at nagsisigaw, na nagsasabi, Kahabagan mo ako, Oh Panginoon, ikaw na Anak ni David; ang aking anak na babae ay pinahihirapang lubha ng isang demonio."
-"Datapuwa't siya'y hindi sumagot ng anomang salita sa kaniya. At nilapitan siya ng kaniyang mga alagad at siya'y pinamanhikan, na nangagsasabi, Paalisin mo siya; sapagka't nagsisisigaw siya sa ating hulihan."
+"At narito, ang isang babaing Cananea na lumabas sa mga hangganang yaon, at nagsisigaw, na nagsasabi, Kahabagan mo ako, #Oh Panginoon, ikaw na Anak ni David; ang aking anak na babae ay pinahihirapang lubha ng isang demonio."
+"Datapuwa't siya'y hindi sumagot ng anomang salita sa kaniya. At nilapitan siya ng kaniyang mga alagad #at siya'y pinamanhikan, na nangagsasabi, Paalisin mo siya; sapagka't nagsisisigaw siya sa ating hulihan."
 "Datapuwa't siya'y sumagot at sinabi, Hindi ako sinugo kundi sa mga tupang nangaligaw sa bahay ni Israel."
 "Datapuwa't lumapit siya at siya'y sinamba niya, na nagsasabi, Panginoon, saklolohan mo ako."
 "At siya'y sumagot at sinabi, Hindi marapat na kunin ang tinapay sa mga anak at itapon sa mga aso."

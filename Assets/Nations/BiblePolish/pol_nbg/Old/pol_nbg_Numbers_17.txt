@@ -1,8 +1,8 @@
 "Potem WIEKUISTY oświadczył Mojżeszowi, mówiąc
 "Powiedz Elazarowi, synowi Ahrona, kapłana, aby pozbierał z pogorzeliska kadzielnice zaś ogień niech odrzucą daleko. Bowiem zostały poświęcone"
-"kadzielnice tych, co przypłacili życiem za swe grzechy. Niech zrobią z nich kute blachy na pokrycie ołtarza. Gdyż przynieśli je przed oblicze WIEKUISTEGO, a wcześniej zostały poświęcone; niech one będą znakiem dla synów Israela."
+"kadzielnice tych, co przypłacili życiem za swe grzechy. Niech zrobią z nich kute blachy na pokrycie ołtarza. Gdyż #przynieśli je przed oblicze WIEKUISTEGO, a wcześniej zostały poświęcone; niech one będą znakiem dla synów Israela."
 "Więc kapłan Elazar zebrał owe miedziane kadzielnice, które przynieśli spaleni i rozpłaszczono je na pokrycie ołtarza."
-"Na pamięć dla synów Israela, aby żaden postronny, który nie pochodzi z rodu Ahrona, nie podchodził dla palenia kadzidła przed WIEKUISTYM. I żeby nie był podobny do Koracha oraz jego zboru, jak o tym WIEKUISTY mówił przez Mojżesza."
+"Na pamięć dla synów Israela, aby żaden postronny, który nie pochodzi z rodu Ahrona, nie podchodził dla palenia kadzidła przed #WIEKUISTYM. I żeby nie był podobny do Koracha oraz jego zboru, jak o tym WIEKUISTY mówił przez Mojżesza."
 "A nazajutrz cały zbór synów Israela szemrał przeciwko Mojżeszowi i Ahronowi, mówiąc
 "Zaś gdy zbór zbierał się przeciw Mojżeszowi i Ahronowi, stało się, że zwrócili się ku Przybytkowi Zboru; a oto okrył go obłok i ukazał się majestat WIEKUISTEGO."
 "A Mojżesz wszedł z Ahronem do wnętrza Przybytku Zboru."

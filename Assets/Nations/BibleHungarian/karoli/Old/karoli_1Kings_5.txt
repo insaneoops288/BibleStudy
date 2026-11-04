@@ -3,7 +3,7 @@
 "Te tudod, hogy Dávid, az én atyám nem építhete házat az Úrnak, az õ Istenének nevének a háborúk miatt, a melyekkel õt körülvették vala, mígnem az Úr az õ lábainak talpa alá vetette azokat;"
 "De most az Úr, az én Istenem nékem nyugodalmat adott mindenfelõl, [úgy hogy] semmi ellenségem és senkitõl semmi bántásom nincs."
 "Ímé azt gondoltam magamban, hogy házat építek az Úrnak, az én Istenemnek nevének, a miképen szólott az Úr Dávidnak, az én atyámnak, ezt mondván
-"Most azért parancsold meg, hogy vágjanak nékem czédrusfákat a Libánonon. Az én szolgáim is együtt lesznek a te szolgáiddal; a te szolgáidnak pedig jutalmát megadom néked mind a szerint, a mit mondándasz; mert tudod, hogy nincsen mi közöttünk olyan ember, a ki a favágáshoz úgy értene, mint a Sidonbeliek."
+"Most azért parancsold meg, hogy vágjanak nékem czédrusfákat a Libánonon. Az én szolgáim is együtt lesznek a te szolgáiddal; a te szolgáidnak pedig jutalmát megadom #néked mind a szerint, a mit mondándasz; mert tudod, hogy nincsen mi közöttünk olyan ember, a ki a favágáshoz úgy értene, mint a Sidonbeliek."
 "Mikor azért meghallotta Hírám a Salamon izenetét, igen megörült, és monda
 "És elkülde Hírám Salamonhoz, ezt izenvén
 "Az én szolgáim a Libánonról aláviszik a tengerre [a fákat

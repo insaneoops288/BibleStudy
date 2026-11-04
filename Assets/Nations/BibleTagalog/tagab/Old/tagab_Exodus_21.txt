@@ -1,9 +1,9 @@
 "Ito nga ang mga hatol na igagawad mo sa harap nila."
 "Kung ikaw ay bumili ng isang aliping Hebreo, ay anim na taong maglilingkod siya; at sa ikapito ay aalis siyang laya na walang sauling bayad."
 "Kung siya'y pumasok na magisa, ay aalis na mag-isa
-"Kung siya'y bigyan ng kaniyang panginoon ng asawa, at magkaanak sa kaniya ng mga lalake, o mga babae; ang asawa at ang kaniyang mga anak ay magiging sa kaniyang panginoon, at siya'y aalis na magisa."
+"Kung siya'y bigyan ng kaniyang panginoon ng asawa, at magkaanak sa kaniya ng mga lalake, o mga babae; #ang asawa at ang kaniyang mga anak ay magiging sa kaniyang panginoon, at siya'y aalis na magisa."
 "Datapuwa't kung maliwanag na sabihin ng alipin, Aking iniibig ang aking panginoon, ang aking asawa, at ang aking mga anak; ako'y hindi aalis na laya
-"Kung magkagayo'y dadalhin siya ng kaniyang panginoon sa Dios, at dadalhin siya sa pinto, o sa haligi ng pinto; at bubutasan ng kaniyang panginoon ang kaniyang tainga ng isang pangbutas; at paglilingkuran niya siya magpakailan man."
+"Kung magkagayo'y dadalhin siya ng kaniyang panginoon sa Dios, at dadalhin siya sa pinto, o sa haligi ng pinto; #at bubutasan ng kaniyang panginoon ang kaniyang tainga ng isang pangbutas; at paglilingkuran niya siya magpakailan man."
 "At kung ipagbili ng isang lalake ang kaniyang anak na babae na maging alipin, ay hindi siya aalis na gaya ng pagalis ng mga aliping lalake."
 "Kung siya'y hindi makapagpalugod sa kaniyang panginoon, na umayaw magasawa sa kaniya, ay ipatutubos nga niya siya
 "At kung pinapag-asawa ng bumili sa kaniyang anak na lalake, ay kaniyang ipalalagay siya ng ayon sa kaugalian sa mga anak na babae."
@@ -25,12 +25,12 @@
 "Paso kung paso, sugat kung sugat, bugbog kung bugbog."
 "At kung saktan ng sinoman ang mata ng kaniyang aliping lalake, o ang mata ng kaniyang aliping babae at mabulag, ay kaniyang palalayain dahil sa kaniyang mata."
 "At kung kaniyang bungalan ang kaniyang aliping lalake, o babae, ay kaniyang palalayain dahil sa kaniyang ngipin."
-"At kung ang isang baka ay manuwag ng isang lalake o ng isang babae, na ano pa't mamatay, ay babatuhing walang pagsala ang baka at ang kaniyang lama'y hindi kakanin; datapuwa't ang may-ari ng baka ay maliligtas."
+"At kung ang isang baka ay manuwag ng isang lalake o ng isang babae, na ano pa't mamatay, ay #babatuhing walang pagsala ang baka at ang kaniyang lama'y hindi kakanin; datapuwa't ang may-ari ng baka ay maliligtas."
 "Datapuwa't kung ang baka ay dating manunuwag sa panahong nakaraan, at naisumbong na sa may-ari at hindi niya kinulong, na ano pa't makamatay ng isang lalake, o isang babae
 "Kung siya'y atangan ng katubusan ay magbibigay nga siya ng katubusan sa kaniyang buhay anomang iatang sa kaniya."
 "Maging manuwag sa isang anak na lalake o babae man, ay gagawin sa kaniya ayon sa kahatulang ito."
 "Kung ang baka ay manuwag sa isang aliping lalake o babae, ay magbabayad ang may-ari ng tatlong pung siklong pilak sa kanilang panginoon, at ang baka ay babatuhin."
 "At kung ang sinoman ay magbubukas ng isang balon, o huhukay ng isang balon at hindi tatakpan, at ang isang baka, o ang isang asno ay mahulog sa loob,"
 "Ay sasaulian ng may-ari ng balon; magbabayad siya ng salapi sa may-ari ng mga yaon, at ang patay na hayop ay magiging kaniya."
-"At kung ang baka ng sinoman ay sumakit sa baka ng iba, na ano pa't mamatay; ay kanila ngang ipagbibili ang bakang buhay, at kanilang paghahatiin ang halaga niyaon; at ang patay ay paghahatiin din nila."
-"O kung kilala, na ang baka ay dating manunuwag sa panahong nakaraan, at hindi kinulong ng may-ari; ay tunay ngang magbabayad siya, ng baka kung baka, at ang patay na hayop ay magiging kaniyang sarili."
+"At kung ang baka ng sinoman ay sumakit sa baka ng iba, na ano pa't mamatay; ay kanila ngang #ipagbibili ang bakang buhay, at kanilang paghahatiin ang halaga niyaon; at ang patay ay paghahatiin din nila."
+"O kung kilala, na ang baka ay dating manunuwag sa panahong nakaraan, at hindi kinulong ng may-ari; ay #tunay ngang magbabayad siya, ng baka kung baka, at ang patay na hayop ay magiging kaniyang sarili."

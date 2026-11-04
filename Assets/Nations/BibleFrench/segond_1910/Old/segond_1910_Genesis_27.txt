@@ -26,7 +26,7 @@
 "Alors Isaac, son père, lui dit
 "Jacob s'approcha, et le baisa. Isaac sentit l'odeur de ses vêtements; puis il le bénit, et dit
 "Que Dieu te donne de la rosée du ciel Et de la graisse de la terre, Du blé et du vin en abondance!"
-"Que des peuples te soient soumis, Et que des nations se prosternent devant toi! Sois le maître de tes frères, Et que les fils de ta mère se prosternent devant toi! Maudit soit quiconque te maudira, Et béni soit quiconque te bénira."
+"Que des peuples te soient soumis, Et que des nations se prosternent devant toi! Sois le maître de tes frères, Et que #les fils de ta mère se prosternent devant toi! Maudit soit quiconque te maudira, Et béni soit quiconque te bénira."
 "Isaac avait fini de bénir Jacob, et Jacob avait à peine quitté son père Isaac, qu'Esaü, son frère, revint de la chasse."
 "Il fit aussi un mets, qu'il porta à son père; et il dit à son père
 "Isaac, son père, lui dit

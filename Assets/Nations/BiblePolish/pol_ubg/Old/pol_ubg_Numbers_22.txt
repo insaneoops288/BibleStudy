@@ -3,7 +3,7 @@
 "Wtedy Moab bardzo się zląkł tego ludu, bo był liczny; i zatrwożył się Moab z powodu synów Izraela."
 "Powiedział więc Moab do starszych Midianu
 "I wysłał posłańców do Balaama, syna Beora, do Petor, które leży nad rzeką ziemi synów jego ludu, aby go wezwać tymi słowy
-"Dlatego teraz przyjdź, proszę, i przeklnij mi ten lud, bo jest silniejszy ode mnie. Może zdołam go pobić i wypędzić z ziemi, bo wiem, że komu błogosławisz, będzie błogosławiony, a kogo przeklinasz, będzie przeklęty."
+"Dlatego teraz przyjdź, proszę, i przeklnij mi ten lud, bo jest silniejszy ode mnie. Może zdołam go pobić #i wypędzić z ziemi, bo wiem, że komu błogosławisz, będzie błogosławiony, a kogo przeklinasz, będzie przeklęty."
 "Wtedy starsi Moabu i starsi Midianu wybrali się w drogę, mając w swych rękach zapłatę za wróżbę. Przyszli do Balaama i przekazali mu słowa Balaka."
 "On zaś powiedział do nich
 "I przyszedł Bóg do Balaama, i powiedział

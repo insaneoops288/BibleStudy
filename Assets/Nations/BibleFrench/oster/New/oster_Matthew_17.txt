@@ -24,4 +24,4 @@
 "Et quand ils furent arrivés à Capernaüm, ceux qui recevaient les didrachmes s'adressèrent à Pierre et lui dirent
 "Il dit
 "Pierre dit
-"Mais afin que nous ne les scandalisions point, va-t'en à la mer, jette l'hameçon et tire le premier poisson qui se prendra; et quand tu lui auras ouvert la bouche, tu trouveras un statère; prends-le, et le leur donne pour moi et pour toi."
+"Mais afin que nous ne les scandalisions point, va-t'en à la mer, jette l'hameçon et tire le premier poisson qui se prendra; et #quand tu lui auras ouvert la bouche, tu trouveras un statère; prends-le, et le leur donne pour moi et pour toi."

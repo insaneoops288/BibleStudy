@@ -6,10 +6,10 @@
 """Adapun barang yang kamu lihat ini, ada harinya kelak yang sebuah batu pun tiada akan tinggal tersusun di atas batu yang lain, yang tiada akan dirombak."""
 "Maka bertanyalah mereka itu kepada-Nya, serta berkata, ""Ya Guru, bilakah perkara itu akan berlaku? Dan apakah alamatnya yang semuanya itu hampir jadi kelak?"""
 "Maka kata-Nya, ""Ingatlah baik-baik, jangan kamu disesatkan orang! Karena banyak orang akan datang dengan nama-Ku, katanya
-"Apabila kamu mendengar dari hal peperangan dan huru-hara, janganlah kamu terkejut; karena tak dapat tiada segala perkara itu akan berlaku dahulu, tetapi kesudahan itu bukannya datang dengan segeranya."""
+"Apabila kamu mendengar dari hal peperangan dan huru-hara, janganlah kamu terkejut; karena tak dapat tiada #segala perkara itu akan berlaku dahulu, tetapi kesudahan itu bukannya datang dengan segeranya."""
 "Lalu kata-Nya kepada mereka itu, ""Bahwa bangsa akan berbangkit melawan bangsa, dan kerajaan melawan kerajaan,"
 "dan akan jadi gempa bumi yang besar, dan sini sana bala kelaparan dan sampar, dan kelihatan hal yang memberi dahsyat serta tanda ajaib yang besar-besar dari langit."
-"Tetapi terlebih dahulu daripada segala perkara itu, orang akan mendatangkan tangannya ke atasmu dan menganiayakan kamu, sehingga kamu diserahkan ke dalam segala rumah sembahyang dan ke dalam penjara, serta dibawa menghadap raja dan pemerintah, oleh sebab nama-Ku."
+"Tetapi terlebih dahulu daripada segala perkara itu, orang akan mendatangkan tangannya ke atasmu dan menganiayakan kamu, sehingga kamu diserahkan #ke dalam segala rumah sembahyang dan ke dalam penjara, serta dibawa menghadap raja dan pemerintah, oleh sebab nama-Ku."
 "Maka akibatnya, kamu menaikkan saksi bagi-Ku."
 "Sebab itu tetapkanlah di dalam hatimu, jangan mempersediakan jawabmu terlebih dahulu."
 "Karena Aku ini memberi lidah kepadamu dan hikmat, yang tiada dapat dilawani atau dibantahi oleh segala lawanmu."

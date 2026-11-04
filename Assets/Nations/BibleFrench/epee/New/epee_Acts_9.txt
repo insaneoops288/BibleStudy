@@ -28,7 +28,7 @@
 "Dès lors il allait et venait avec eux à Jérusalem."
 "Et il parlait ouvertement au nom du Seigneur Jésus, et disputait avec les Hellénistes; mais ceux-ci cherchaient à lui ôter la vie."
 "Les frères l'ayant su, l'emmenèrent à Césarée, et l'envoyèrent à Tarse."
-"Alors, les appelés à renaître étaient en paix dans toute la Judée, la Galilée et la Samarie, étant édifiées et marchant dans la crainte du Seigneur; et ils croissaient par l'encouragement du Saint-Esprit."
+"Alors, les appelés à renaître étaient en paix dans toute la Judée, la Galilée et la Samarie, #étant édifiées et marchant dans la crainte du Seigneur; et ils croissaient par l'encouragement du Saint-Esprit."
 "Il arriva, comme Pierre les visitait tous, qu'il descendit aussi vers les Saints qui demeuraient à Lydda."
 "Et il y trouva un homme, nommé Énée, couché sur un lit depuis huit ans, et paralytique."
 "Et Pierre lui dit
@@ -36,7 +36,7 @@
 "Il y avait à Joppe une femme disciple, nommée Tabitha, c'est-à-dire, en grec, Dorcas (Gazelle). Elle faisait beaucoup de bonnes oeuvres et d'aumônes."
 "Elle tomba malade en ce temps-là, et mourut. Et après qu'on l'eut lavée, on la mit dans une chambre haute."
 "Et comme Lydda est près de Joppe, les disciples ayant appris que Pierre y était, envoyèrent vers lui deux hommes, pour le supplier de venir chez eux sans tarder."
-"Pierre, s'étant levé, alla avec eux. Et lorsqu'il fut arrivé, ils le menèrent à la chambre haute; et toutes les veuves s'approchèrent de lui, en pleurant, et en lui montrant combien Dorcas faisait de robes et de manteaux, lorsqu'elle était avec elles."
+"Pierre, s'étant levé, alla avec eux. Et lorsqu'il fut arrivé, ils le menèrent à la chambre haute; et toutes les veuves s'approchèrent #de lui, en pleurant, et en lui montrant combien Dorcas faisait de robes et de manteaux, lorsqu'elle était avec elles."
 "Et Pierre, faisant sortir tout le monde, se mit à genoux et pria, puis se tournant vers le corps, il dit
 "Et Pierre lui donnant la main, la leva, et, ayant appelé les Saints et les veuves, la leur présenta vivante."
 "Cela fut connu de tout Joppe; et plusieurs crurent au Seigneur."

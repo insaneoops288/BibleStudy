@@ -1,7 +1,7 @@
 "Und dies sind die Geschlechter Aarons und Moses, an dem Tage, da Jehova auf dem Berge Sinai mit Mose redete."
 "Und dies sind die Namen der Söhne Aarons
 "Das sind die Namen der Söhne Aarons, der gesalbten Priester, die geweiht worden waren, um den Priesterdienst auszuüben."
-"Und Nadab und Abihu starben vor Jehova, als sie in der Wüste Sinai fremdes Feuer vor Jehova darbrachten; und sie hatten keine Söhne. Und Eleasar und Ithamarübten den Priesterdienst vor ihrem Vater Aaron aus."
+"Und Nadab und Abihu starben vor Jehova, als sie in der Wüste Sinai fremdes Feuer vor Jehova darbrachten; #und sie hatten keine Söhne. Und Eleasar und Ithamarübten den Priesterdienst vor ihrem Vater Aaron aus."
 "Und Jehova redete zu Mose und sprach
 "Laß den Stamm Levi herzunahen und stelle ihn vor Aaron, den Priester, daß sie ihm dienen;"
 "und sie sollen seiner Hut warten und der Hut der ganzen Gemeinde vor dem Zelte der Zusammenkunft, um den Dienst der Wohnung zu verrichten;"
@@ -35,7 +35,7 @@
 "Und der Fürst des Vaterhauses der Familien Meraris war Zuriel, der Sohn Abichails. Sie lagerten an der Seite der Wohnung gegen Norden."
 "Und die Hut der Söhne Meraris war
 "und die Säulen des Vorhofs ringsum und ihre Füße und ihre Pflöcke und ihre Seile."
-"Und die vor der Wohnung gegen Osten, vor dem Zelte der Zusammenkunft gegen Sonnenaufgang Lagernden waren Mose und Aaron und seine Söhne, welche der Hut des Heiligtums warteten, betreffs desjenigen, was den Kindern Israel oblag. Der Fremde aber, der herzunaht, soll getötet werden."
+"Und die vor der Wohnung gegen Osten, vor dem Zelte der Zusammenkunft gegen Sonnenaufgang Lagernden waren Mose und Aaron und seine Söhne, #welche der Hut des Heiligtums warteten, betreffs desjenigen, was den Kindern Israel oblag. Der Fremde aber, der herzunaht, soll getötet werden."
 "Aller gemusterten Leviten, welche Mose und Aaron nach dem Befehl Jehovas nach ihren Familien musterten, aller Männlichen von einem Monat und darüber, waren zweiundzwanzigtausend."
 "Und Jehova sprach zu Mose
 "Und du sollst die Leviten für mich, Jehova nehmen, anstatt aller Erstgeborenen unter den Kindern Israel, und das Vieh der Leviten anstatt alles Erstgeborenen unter dem Vieh der Kinder Israel."

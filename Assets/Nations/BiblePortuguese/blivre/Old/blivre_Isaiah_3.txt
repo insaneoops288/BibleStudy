@@ -21,6 +21,6 @@
 "Anéis, pingentes de nariz,"
 "Vestidos de festa, mantas, capas, bolsas,"
 "Transparências, saias de linho, toucas e túnicas."
-"E será que, no lugar de aromas haverá fedor; e no lugar de cinto [haverá] corda; e no lugar de cabelos cacheados [haverá] calvície, e no lugar de roupa luxuosa [haverá] roupa de saco; e queimadura no lugar de beleza."
+"E será que, no lugar de aromas haverá fedor; e no lugar de cinto [haverá] corda; e no lugar de cabelos #cacheados [haverá] calvície, e no lugar de roupa luxuosa [haverá] roupa de saco; e queimadura no lugar de beleza."
 "Teus homens cairão à espada; teus guerreiros na batalha."
 "E as portas delas gemerão, e chorarão; e ela, ficando desolada, se sentará no chão."

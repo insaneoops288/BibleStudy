@@ -14,11 +14,11 @@
 "Siinä olkoon ihanimmat hedelmät auringosta, ja ihanimmat kypsät hedelmät kuusta,"
 "Ja itäisten vuorten kukkuloilta, ja ijäisiltä kukkuloilta parhaat hedelmät,"
 "Ja ne kalliimmat maan hedelmät, ja mitä siinä on. Hänen suosionsa, joka asuu pensaassa, tulkoon Josephin päähän, ja Natsirin päälaelle veljeinsä keskellä."
-"Ja hänen kauneutensa olkoon niinkuin esikoisen härjän, ja hänen sarvensa olkoon niinkuin yksisarvisen sarvet, joilla hän kansaa kuokkii yhteen, hamaan maailman ääriin asti; nämät ovat Ephraimin kymmenentuhatta, ja nämät Manassen tuhannet."
+"Ja hänen kauneutensa olkoon niinkuin esikoisen härjän, ja hänen sarvensa olkoon niinkuin yksisarvisen sarvet, joilla hän #kansaa kuokkii yhteen, hamaan maailman ääriin asti; nämät ovat Ephraimin kymmenentuhatta, ja nämät Manassen tuhannet."
 "Ja hän sanoi Sebulonille
 "Heidän pitää kutsuman kansaa vuorelle ja siellä vanhurskauden uhria uhraaman; sillä he imevät meren kyllyyden ja santaan kätketyt tavarat."
 "Ja hän sanoi Gadille
-"Ja hän katsoi itsellensä ensimäisen osan maasta, että hän siinä lainopettajalta annetussa osassa olis surutoin; kuitenkin tuli hän kansan päämiesten kanssa, ja teki Herran vanhurskautta, ja hänen oikiutensa Israelin kanssa."
+"Ja hän katsoi itsellensä ensimäisen osan maasta, että hän siinä lainopettajalta annetussa osassa olis surutoin; kuitenkin #tuli hän kansan päämiesten kanssa, ja teki Herran vanhurskautta, ja hänen oikiutensa Israelin kanssa."
 "Ja Danille sanoi hän
 "Ja Naphtalille sanoi hän
 "Ja Asserille sanoi hän

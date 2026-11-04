@@ -3,7 +3,7 @@
 "Lalu firman-Nya kepadaku
 "Firman-Nya kepadaku
 "Sebab engkau tidak diutus kepada suatu bangsa yang berbahasa asing dan yang berat lidah, tetapi kepada kaum Israel;"
-"bukan kepada banyak bangsa-bangsa yang berbahasa asing dan yang berat lidah, yang engkau tidak mengerti bahasanya. Sekiranya aku mengutus engkau kepada bangsa yang demikian, mereka akan mendengarkan engkau."
+"bukan kepada banyak bangsa-bangsa yang berbahasa asing dan yang berat lidah, yang engkau tidak mengerti #bahasanya. Sekiranya aku mengutus engkau kepada bangsa yang demikian, mereka akan mendengarkan engkau."
 "Akan tetapi kaum Israel tidak mau mendengarkan engkau, sebab mereka tidak mau mendengarkan Aku, karena seluruh kaum Israel berkepala batu dan bertegar hati."
 "Lihat, Aku meneguhkan hatimu melawan mereka yang berkepala batu dan membajakan semangatmu melawan ketegaran hati mereka."
 "Seperti batu intan, yang lebih keras dari pada batu Kuteguhkan hatimu; janganlah takut kepada mereka dan janganlah gentar melihat mukanya, sebab mereka adalah kaum pemberontak."""
@@ -16,9 +16,9 @@
 "Sesudah tujuh hari datanglah firman TUHAN kepadaku
 """Hai anak manusia, Aku telah menetapkan engkau menjadi penjaga kaum Israel. Bilamana engkau mendengarkan sesuatu firman dari pada-Ku, peringatkanlah mereka atas nama-Ku."
 "Kalau Aku berfirman kepada orang jahat
-"Tetapi jikalau engkau memperingatkan orang jahat itu dan ia tidak berbalik dari kejahatannya dan dari hidupnya yang jahat, ia akan mati dalam kesalahannya, tetapi engkau telah menyelamatkan nyawamu."
-"Jikalau seorang yang benar berbalik dari kebenarannya dan ia berbuat curang, dan Aku meletakkan batu sandungan di hadapannya, ia akan mati. Oleh karena engkau tidak memperingatkan dia, ia akan mati dalam dosanya dan perbuatan-perbuatan kebenaran yang dikerjakannya tidak akan diingat-ingat, tetapi Aku akan menuntut pertanggungan jawab atas nyawanya dari padamu."
-"Tetapi jikalau engkau memperingatkan orang yang benar itu supaya ia jangan berbuat dosa dan memang tidak berbuat dosa, ia akan tetap hidup, sebab ia mau menerima peringatan, dan engkau telah menyelamatkan nyawamu."""
+"Tetapi jikalau engkau memperingatkan orang jahat itu dan ia tidak berbalik dari kejahatannya dan dari #hidupnya yang jahat, ia akan mati dalam kesalahannya, tetapi engkau telah menyelamatkan nyawamu."
+"Jikalau seorang yang benar berbalik dari kebenarannya dan ia berbuat curang, dan Aku meletakkan batu sandungan di hadapannya, ia akan mati. Oleh karena engkau tidak memperingatkan #dia, ia akan mati dalam dosanya dan perbuatan-perbuatan kebenaran yang dikerjakannya tidak akan diingat-ingat, tetapi Aku akan menuntut pertanggungan jawab atas nyawanya dari padamu."
+"Tetapi jikalau engkau memperingatkan orang yang benar itu supaya ia jangan berbuat dosa dan memang tidak berbuat #dosa, ia akan tetap hidup, sebab ia mau menerima peringatan, dan engkau telah menyelamatkan nyawamu."""
 "Maka di sana kekuasaan TUHAN meliputi aku dan Ia berfirman kepadaku
 "Aku bangun dan pergi ke lembah; sesungguhnya di sana kelihatan kemuliaan TUHAN seperti kemuliaan yang telah kulihat di tepi sungai Kebar, dan aku sujud."
 "Tetapi masuklah Roh ke dalam aku dan ditegakkannya aku, lalu Ia berbicara dengan aku, kata-Nya

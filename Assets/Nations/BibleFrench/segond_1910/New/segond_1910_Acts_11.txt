@@ -23,7 +23,7 @@
 "Lorsqu'il fut arrivé, et qu'il eut vu la grâce de Dieu, il s'en réjouit, et il les exhorta tous à rester d'un coeur ferme attachés au Seigneur."
 "Car c'était un homme de bien, plein d'Esprit-Saint et de foi. Et une foule assez nombreuse se joignit au Seigneur."
 "Barnabas se rendit ensuite à Tarse, pour chercher Saul;"
-"et, l'ayant trouvé, il l'amena à Antioche. Pendant toute une année, ils se réunirent aux assemblées de l'Eglise, et ils enseignèrent beaucoup de personnes. Ce fut à Antioche que, pour la première fois, les disciples furent appelés chrétiens."
+"et, l'ayant trouvé, il l'amena à Antioche. Pendant toute une année, ils se réunirent aux assemblées de l'Eglise, et ils #enseignèrent beaucoup de personnes. Ce fut à Antioche que, pour la première fois, les disciples furent appelés chrétiens."
 "En ce temps-là, des prophètes descendirent de Jérusalem à Antioche."
 "L'un d'eux, nommé Agabus, se leva, et annonça par l'Esprit qu'il y aurait une grande famine sur toute la terre. Elle arriva, en effet, sous Claude."
 "Les disciples résolurent d'envoyer, chacun selon ses moyens, un secours aux frères qui habitaient la Judée."

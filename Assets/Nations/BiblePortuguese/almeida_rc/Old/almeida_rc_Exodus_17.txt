@@ -9,7 +9,7 @@
 "Pelo que disse Moisés a Josué
 "E fez Josué como Moisés lhe dissera, pelejando contra Amaleque; mas Moisés, Arão e Hur subiram ao cume do outeiro."
 "E acontecia que, quando Moisés levantava a sua mão, Israel prevalecia; mas, quando ele abaixava a sua mão, Amaleque prevalecia."
-"Porém as mãos de Moisés eram pesadas; por isso, tomaram uma pedra e a puseram debaixo dele, para assentar-se sobre ela; e Arão e Hur sustentaram as suas mãos, um de um lado, e o outro, do outro; assim ficaram as suas mãos firmes até que o sol se pôs."
+"Porém as mãos de Moisés eram pesadas; por isso, tomaram uma pedra e a puseram debaixo dele, para assentar-se sobre ela; e Arão e Hur sustentaram #as suas mãos, um de um lado, e o outro, do outro; assim ficaram as suas mãos firmes até que o sol se pôs."
 "E, assim, Josué desfez a Amaleque e a seu povo a fio de espada."
 "Então disse o SENHOR a Moisés
 "E Moisés edificou um altar e chamou o seu nome

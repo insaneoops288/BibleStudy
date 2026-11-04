@@ -5,7 +5,7 @@
 "At ang lupain ng mga Gebalita at ang buong Libano, sa dakong sinisikatan ng araw, mula sa Baal-gad, sa ibaba ng bundok Hermon hanggang sa pasukan sa Hamat
 "Ang lahat ng taga lupaing maburol mula sa Libano hanggang sa Misrephoth-maim, sa makatuwid baga'y lahat ng mga Sidonio; sila'y aking itataboy mula sa harap ng mga anak ni Israel
 "Iyo ngang bahagihin ang lupaing ito na pinakamana sa siyam na lipi, at sa kalahating lipi ni Manases."
-"Sa kaniya'y tinanggap ng mga Rubenita at ng mga Gadita, ang kanilang mana, na ibinigay sa kanila ni Moises, sa dako roon ng Jordan na dakong silanganan gaya ng ibinigay sa kanila ni Moises na lingkod ng Panginoon;"
+"Sa kaniya'y tinanggap ng mga Rubenita at ng mga Gadita, ang kanilang mana, na ibinigay sa kanila ni Moises, sa #dako roon ng Jordan na dakong silanganan gaya ng ibinigay sa kanila ni Moises na lingkod ng Panginoon;"
 "Mula sa Aroer na nasa tabi ng libis ng Arnon, at ang bayan na nasa gitna ng libis, at ng buong kapatagan ng Medeba hanggang sa Dibon
 "At ang lahat na bayan ni Sehon na hari ng mga Amorrheo, na naghahari sa Hesbon hanggang sa hangganan ng mga anak ni Ammon;"
 "At ang Galaad, at ang hangganan ng mga Gessureo at ng mga Maachateo at ang buong bundok ng Hermon, at ang buong Basan hanggang sa Salca;"
@@ -18,16 +18,16 @@
 "At ang Jaas, at ang Ced-demoth, at ang Mephaath;"
 "At ang Chiriataim, at ang Sibma, at ang Zereth-shahar, sa bundok ng libis;"
 "At ang Beth-peor, at ang mga tagudtod ng Pisga, at ng Beth-jesimoth;"
-"At ang lahat ng mga bayan sa kapatagan at ang buong kaharian ni Sehon na hari ng mga Amorrheo na naghari sa Hesbon, na siyang sinaktan ni Moises na gayon din ang mga pinuno sa Madian, si Hevi, si Recem, at si Sur, at si Hur, at si Reba, na mga prinsipe ni Sehon, na tumahan sa lupain."
+"At ang lahat ng mga bayan sa kapatagan at ang buong kaharian ni Sehon na hari ng mga Amorrheo na naghari sa Hesbon, na siyang sinaktan ni Moises na gayon #din ang mga pinuno sa Madian, si Hevi, si Recem, at si Sur, at si Hur, at si Reba, na mga prinsipe ni Sehon, na tumahan sa lupain."
 "Si Balaam man na anak ni Beor na manghuhula, ay pinatay ng mga anak ni Israel ng tabak sa gitna ng nalabi sa kanilang nangapatay."
 "At ang hangganan ng mga anak ni Ruben ay ang Jordan, at ang hangganan niyaon. Ito ang mana ng mga anak ni Ruben ayon sa kanilang mga angkan, ang mga bayan at ang mga nayon niyaon."
 "At si Moises ay nagbigay sa lipi ni Gad, sa mga anak ni Gad, ng ayon sa kanilang mga angkan."
 "At ang kanilang hangganan ay ang Jacer, at ang lahat na bayan ng Galaad, at ang kalahati ng lupain ng mga anak ni Ammon hanggang sa Aroer na nasa tapat ng Rabba;"
 "At mula sa Hesbon hanggang sa Ramathmizpe, at sa Betonim; at mula sa Mahanaim hanggang sa hangganan ng Debir."
-"At sa libis, ang Beth-aram, at ang Beth-nimra, at ang Sucoth, at ang Saphon, na labis ng kaharian ni Sehon na hari sa Hesbon, ang Jordan at ang hangganan niyaon, hanggang sa kaduluduluhang bahagi ng dagat ng Cinnereth, sa dako roon ng Jordan na dakong silanganan."
+"At sa libis, ang Beth-aram, at ang Beth-nimra, at ang Sucoth, at ang Saphon, na labis ng kaharian ni Sehon na hari sa Hesbon, #ang Jordan at ang hangganan niyaon, hanggang sa kaduluduluhang bahagi ng dagat ng Cinnereth, sa dako roon ng Jordan na dakong silanganan."
 "Ito ang mana ng mga anak ni Gad ayon sa kanilang mga angkan, ang mga bayan at ang mga nayon niyaon."
 "At si Moises ay nagbigay ng mana sa kalahating lipi ni Manases
 "At ang kanilang hangganan ay mula sa Mahanaim, ang buong Basan, ang buong kaharian ni Og na hari sa Basan at ang lahat ng mga bayan ng Jair na nasa Basan, anim na pung bayan."
-"At ang kalahati ng Galaad at ang Astaroth at ang Edrei, ang mga bayan ng kaharian ni Og sa Basan, ay sa mga anak ni Machir na anak ni Manases, sa makatuwid baga'y sa kalahati ng mga anak ni Machir ayon sa kanilang mga angkan."
+"At ang kalahati ng Galaad at ang Astaroth at ang Edrei, ang mga bayan ng kaharian ni Og sa Basan, ay sa mga #anak ni Machir na anak ni Manases, sa makatuwid baga'y sa kalahati ng mga anak ni Machir ayon sa kanilang mga angkan."
 "Ito ang mga mana na binahagi ni Moises sa mga kapatagan ng Moab, sa dako roon ng Jordan sa Jerico, na dakong silanganan."
 "Nguni't sa lipi ni Levi ay walang ibinigay si Moises na mana

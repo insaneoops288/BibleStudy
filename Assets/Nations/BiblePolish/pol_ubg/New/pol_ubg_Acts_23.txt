@@ -18,7 +18,7 @@
 "Wziął go więc ze sobą, zaprowadził go do dowódcy i powiedział
 "Dowódca wziął go za rękę, odszedł z nim na bok i zapytał
 "A on odpowiedział
-"Lecz nie ulegnij ich namowie, bo czyha na niego ponad czterdziestu mężczyzn, którzy związali się przysięgą, że nie będą jeść ani pić, dopóki go nie zabiją. Są już w pogotowiu, czekając na twoje pozwolenie."
+"Lecz nie ulegnij ich namowie, bo czyha na niego ponad czterdziestu mężczyzn, którzy związali się przysięgą, że nie #będą jeść ani pić, dopóki go nie zabiją. Są już w pogotowiu, czekając na twoje pozwolenie."
 "Wtedy dowódca odesłał młodzieńca, przykazując, aby nikomu nie mówił, że go o tym powiadomił."
 "Przywoławszy dwóch setników, powiedział
 "Kazał też przygotować zwierzęta juczne, aby wsadzić na nie Pawła i bezpiecznie doprowadzić go do namiestnika Feliksa."

@@ -23,6 +23,6 @@
 "En terwyl Hy op die sabbat deur die gesaaides loop, het sy dissipels al gaande are begin pluk."
 "Toe sê die Fariseërs vir Hom
 "En Hy sê vir hulle
-"hoe hy in die huis van God gegaan het in die tyd van Abjatar, die hoëpriester, en die toonbrode geëet het wat vir niemand behalwe die priesters geoorloof is om te eet nie; en ook aan die wat saam met hom was, gegee het?"
+"hoe hy in die huis van God gegaan het in die tyd van Abjatar, die hoëpriester, en die toonbrode geëet het wat vir #niemand behalwe die priesters geoorloof is om te eet nie; en ook aan die wat saam met hom was, gegee het?"
 "En Hy sê vir hulle
 "Daarom is die Seun van die mens Here ook van die sabbat."

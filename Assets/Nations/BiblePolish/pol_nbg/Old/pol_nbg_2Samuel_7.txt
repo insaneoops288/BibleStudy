@@ -16,11 +16,11 @@
 "Lecz twój dom będzie trwałym przed tobą oraz na wieki twoje królestwo; twój tron będzie utwierdzony na wieki."
 "Zaś Natan powtórzył Dawidowi ściśle według tych słów oraz według całego tego objawienia."
 "Wtedy król Dawid wszedł, zatrzymał się przed obliczem WIEKUISTEGO i zawołał
-"I to jeszcze nie wystarczyło w Twoich oczach, Panie, WIEKUISTY, bo rozciągnąłeś Twoje przyrzeczenie na dom Twojego sługi w odległych czasach! Czy nie jest to wskazówką dla człowieka, Panie, WIEKUISTY?"
+"I to jeszcze nie wystarczyło w Twoich oczach, Panie, WIEKUISTY, bo rozciągnąłeś Twoje przyrzeczenie na dom #Twojego sługi w odległych czasach! Czy nie jest to wskazówką dla człowieka, Panie, WIEKUISTY?"
 "Ale co jeszcze więcej ma Ci powiedzieć Dawid? Przecież Ty sam znasz Twojego sługę, Panie, WIEKUISTY!"
 "Z uwagi na Twoje Słowo i według Twojego serca spełniłeś wszystkie te wielkie rzeczy oznajmiając je Twemu słudze."
 "Dlatego jesteś wielkim, WIEKUISTY, Boże, bo nikt ci nie dorówna i nie ma Boga oprócz Ciebie, co usłyszeliśmy naszymi własnymi uszami."
-"I kto jak Twój lud – Israel, ten jedyny naród na ziemi; dla którego przyszedł sam Bóg, by go sobie wyzwolić na naród oraz zapewnić Imię i by spełnić dla niego te wielkie dzieła oraz wspaniałe czyny. To wszystko dla Twojego kraju, z uwagi na lud, który sobie wyzwoliłeś z Micraim, wbrew narodom i ich bożyszczom."
+"I kto jak Twój lud – Israel, ten jedyny naród na ziemi; dla którego przyszedł sam Bóg, by go sobie wyzwolić na naród oraz zapewnić Imię i by spełnić #dla niego te wielkie dzieła oraz wspaniałe czyny. To wszystko dla Twojego kraju, z uwagi na lud, który sobie wyzwoliłeś z Micraim, wbrew narodom i ich bożyszczom."
 "Utwierdziłeś sobie Twój israelski lud, by Ci był ludem na wieki; zaś Ty, WIEKUISTY, stałeś się ich Bogiem."
 "A teraz WIEKUISTY, Boże, słowo, które wypowiedziałeś o Twym słudze oraz o jego domu – utwierdź na wieki oraz zrób jak wypowiedziałeś."
 "By na zawsze wsławiło się Twoje Imię i mówiono

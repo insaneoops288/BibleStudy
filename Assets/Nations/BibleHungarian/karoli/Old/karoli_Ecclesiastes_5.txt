@@ -3,7 +3,7 @@
 "Mert álom szokott következni a sok foglalatosságból; és a sok beszédbõl bolond beszéd."
 "Mikor Istennek fogadást téssz, ne halogasd annak megadását; mert nem gyönyörködik a bolondokban. A mit fogadsz, megteljesítsd!"
 "Jobb hogy ne fogadj, hogynem mint fogadj és ne teljesítsd be."
-"Ne engedd a te szádnak, hogy bûnre kötelezze testedet, és ne mondd az angyal elõtt, hogy tévedésbõl [esett] ez; hogy az Isten a te beszéded miatt fel ne háborodjék, és el ne veszesse a te kezeidnek munkáját."
+"Ne engedd a te szádnak, hogy bûnre kötelezze testedet, és ne mondd az angyal elõtt, hogy tévedésbõl [esett] ez; #hogy az Isten a te beszéded miatt fel ne háborodjék, és el ne veszesse a te kezeidnek munkáját."
 "Mert a sok álomban a hiábavalóság is és a beszéd is sok; hanem az Istent féljed."
 "Ha a szegényeknek nyomoríttatását, és a törvénynek és igazságnak elfordíttatását látod a tartományban
 "Az ország haszna pedig mindenekfelett a földmívelést [kedvelõ ]király."
@@ -15,6 +15,6 @@
 "A mint kijött az õ anyjának méhébõl, mezítelen megy ismét el, a mint jött vala
 "Annakokáért ez is gonosz nyavalya, hogy a mint jött, a képen megy el. Mi haszna van néki abban, hogy a szélnek munkálkodott?"
 "És hogy az õ teljes életében a setétben evett, sokszori haraggal, keserûséggel és búsulással?"
-"Ez azért a jó, a melyet én láttam, hogy szép dolog enni és inni, és jól élni minden õ munkájából, a melylyel fárasztotta magát a nap alatt, az õ élete napjainak száma szerint, a melyeket adott néki az Isten; mert ez az õ része."
+"Ez azért a jó, a melyet én láttam, hogy szép dolog enni és inni, és jól élni minden õ munkájából, a melylyel fárasztotta #magát a nap alatt, az õ élete napjainak száma szerint, a melyeket adott néki az Isten; mert ez az õ része."
 "És a mely embernek adott Isten gazdagságot és kincseket, és a kinek megengedte, hogy egyék abból és az õ részét elvegye, és örvendezzen az õ munkájának
 "Mert nem sokat emlékezik meg [az ilyen] az õ élete napjainak [számáról,] mivelhogy az õ szívének örömét az Isten kedveli."

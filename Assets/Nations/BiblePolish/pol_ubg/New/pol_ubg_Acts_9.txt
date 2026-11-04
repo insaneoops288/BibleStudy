@@ -36,7 +36,7 @@
 "Mieszkała też w Jafie pewna uczennica o imieniu Tabita, co znaczy Dorkas. Jej życie wypełnione było dobrymi uczynkami i udzielaniem jałmużny."
 "I stało się w tych dniach, że zachorowała i umarła. Obmyto ją i położono w sali na piętrze."
 "A ponieważ Lidda leży blisko Jafy, gdy uczniowie usłyszeli, że jest tam Piotr, posłali do niego dwóch ludzi, prosząc, aby nie zwlekał z przyjściem do nich."
-"Wtedy Piotr wstał i poszedł z nimi, a gdy przyszedł, wprowadzili go do sali na piętrze. Obstąpiły go wszystkie wdowy, płacząc i pokazując tuniki i płaszcze, które Dorkas im robiła, gdy była z nimi."
+"Wtedy Piotr wstał i poszedł z nimi, a gdy przyszedł, wprowadzili go do sali na piętrze. Obstąpiły go #wszystkie wdowy, płacząc i pokazując tuniki i płaszcze, które Dorkas im robiła, gdy była z nimi."
 "A Piotr wygonił wszystkich, klęknął i modlił się. Potem zwrócił się do zmarłej i powiedział
 "On podał jej rękę i podniósł ją, a zawoławszy świętych i wdowy, pokazał ją żywą."
 "I rozniosło się to po całej Jafie, i wielu uwierzyło w Pana."

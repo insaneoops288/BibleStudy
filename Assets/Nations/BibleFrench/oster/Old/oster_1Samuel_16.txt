@@ -13,7 +13,7 @@
 "Alors Samuel prit la corne d'huile, et l'oignit au milieu de ses frères, et depuis ce jour-là l'Esprit de l'Éternel saisit David. Puis Samuel se leva, et s'en alla à Rama."
 "Et l'Esprit de l'Éternel se retira de Saül, et un mauvais esprit, envoyé par l'Éternel, le troublait."
 "Et les serviteurs de Saül lui dirent
-"Que notre seigneur parle; tes serviteurs, qui sont devant toi, chercheront un homme qui sache jouer de la harpe; et quand le mauvais esprit, envoyé de Dieu, sera sur toi, il en jouera de sa main, et tu seras soulagé."
+"Que notre seigneur parle; tes serviteurs, qui sont devant toi, chercheront un homme qui sache jouer de la harpe; et quand #le mauvais esprit, envoyé de Dieu, sera sur toi, il en jouera de sa main, et tu seras soulagé."
 "Saül dit donc à ses serviteurs
 "Et l'un de ses serviteurs répondit et dit
 "Alors Saül envoya des messagers à Isaï, pour lui dire

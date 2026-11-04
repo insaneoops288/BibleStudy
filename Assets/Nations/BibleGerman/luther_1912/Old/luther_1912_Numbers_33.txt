@@ -51,6 +51,6 @@
 "Rede mit den Kindern Israel und sprich zu ihnen
 "so sollt ihr alle Einwohner vertreiben vor eurem Angesicht und alle ihre Säulen und alle ihre gegossenen Bilder zerstören und alle ihre Höhen vertilgen,{~}"
 "daß ihr also das Land einnehmet und darin wohnet; denn euch habe ich das Land gegeben, daß ihr's einnehmet."
-"Und sollt das Land austeilen durchs Los unter eure Geschlechter. Denen, deren viele sind, sollt ihr desto mehr zuteilen, und denen, deren wenige sind, sollt ihr desto weniger zuteilen. Wie das Los einem jeglichen daselbst fällt, so soll er's haben; nach den Stämmen eurer Väter sollt ihr's austeilen."
-"Werdet ihr aber die Einwohner des Landes nicht vertreiben vor eurem Angesicht, so werden euch die, so ihrüberbleiben laßt, zu Dornen werden in euren Augen und zu Stacheln in euren Seiten und werden euch drängen in dem Lande darin ihr wohnet."
+"Und sollt das Land austeilen durchs Los unter eure Geschlechter. Denen, deren viele sind, sollt ihr desto mehr zuteilen, und denen, deren wenige sind, sollt #ihr desto weniger zuteilen. Wie das Los einem jeglichen daselbst fällt, so soll er's haben; nach den Stämmen eurer Väter sollt ihr's austeilen."
+"Werdet ihr aber die Einwohner des Landes nicht vertreiben vor eurem Angesicht, so werden euch die, so ihrüberbleiben laßt, zu Dornen #werden in euren Augen und zu Stacheln in euren Seiten und werden euch drängen in dem Lande darin ihr wohnet."
 "So wird's dann gehen, daß ich euch gleich tun werde, wie ich gedachte ihnen zu tun."

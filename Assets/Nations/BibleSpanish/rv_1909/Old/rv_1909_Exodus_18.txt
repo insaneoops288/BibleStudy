@@ -18,7 +18,7 @@
 "Desfallecerás del todo, tú, y también este pueblo que está contigo; porque el negocio es demasiado pesado para ti; no podrás hacerlo tú solo."
 "Oye ahora mi voz; yo te aconsejaré, y Dios será contigo. Está tú por el pueblo delante de Dios, y somete tú los negocios á Dios."
 "Y enseña á ellos las ordenanzas y las leyes, y muéstrales el camino por donde anden, y lo que han de hacer."
-"Además inquiere tú de entre todo el pueblo varones de virtud, temerosos de Dios, varones de verdad, que aborrezcan la avaricia; y constituirás á éstos sobre ellos caporales sobre mil, sobre ciento, sobre cincuenta y sobre diez."
+"Además inquiere tú de entre todo el pueblo varones de virtud, temerosos de Dios, varones de verdad, que aborrezcan #la avaricia; y constituirás á éstos sobre ellos caporales sobre mil, sobre ciento, sobre cincuenta y sobre diez."
 "Los cuales juzgarán al pueblo en todo tiempo; y será que todo negocio grave lo traerán á ti, y ellos juzgarán todo negocio pequeño
 "Si esto hicieres, y Dios te lo mandare, tú podrás persistir, y todo este pueblo se irá también en paz á su lugar."
 "Y oyó Moisés la voz de su suegro, é hizo todo lo que dijo."

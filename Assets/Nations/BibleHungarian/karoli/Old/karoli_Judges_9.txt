@@ -1,5 +1,5 @@
 "És elméne Abimélek, a Jerubbaál fia Sikembe, az õ anyjának atyjafiaihoz, és beszélt velök, valamint az õ anyja atyjának egész nemzetségével, mondván
-"Mondjátok meg, kérlek, Sikem minden férfiának hallatára, melyik jobb néktek, hogy hetven férfiú uralkodjék-é rajtatok, Jerubbaálnak minden fia, [vagy] pedig [csak] egy ember uralkodjék felettetek? És emlékezzetek meg [arról], hogy én a ti csontotok és a ti testetek vagyok."
+"Mondjátok meg, kérlek, Sikem minden férfiának hallatára, melyik jobb néktek, hogy hetven férfiú uralkodjék-é rajtatok, Jerubbaálnak minden fia, [vagy] pedig #[csak] egy ember uralkodjék felettetek? És emlékezzetek meg [arról], hogy én a ti csontotok és a ti testetek vagyok."
 "És elmondották anyjának testvérei róla mind e beszédeket Sikem minden férfiainak füle hallatára, és Abimélek felé hajlott az õ szívök, mert azt mondák
 "És adának néki hetven ezüst [pénzt] a Baál-Beritnek házából, és ezzel [holmi] henyélõ és hiábavaló embereket fogadott magának Abimélek, a kik õt követék."
 "És elméne atyjának házához Ofrába, és megölé testvéreit, Jerubbaál fiait, a hetven férfiút egy kövön, és csak Jóthám maradt meg, Jerubbaálnak legkisebb fia, mert ez elrejtõzött."
@@ -15,13 +15,13 @@
 "És monda a galagonyabokor a fáknak
 "Hát ti is most igazán és becsületesen cselekedtetek-é, hogy Abiméleket tettétek királylyá, és jól cselekedtetek-é Jerubbaállal és házanépével, és úgy bántatok-é vele, a mint megérdemelte?"
 "Mert érettetek harczolt atyám, és még életével [is] semmit nem gondolván, mentett meg titeket a Midiánnak kezébõl."
-"Ti pedig most felkeltetek az én atyámnak háza ellen, és megöltétek gyermekeit, hetven férfiút egy kövön, és királylyá választottátok Sikem férfiai felett Abiméleket, az õ szolgálójának fiát, mert atyátokfia!"
+"Ti pedig most felkeltetek az én atyámnak háza ellen, és megöltétek gyermekeit, hetven férfiút egy #kövön, és királylyá választottátok Sikem férfiai felett Abiméleket, az õ szolgálójának fiát, mert atyátokfia!"
 "Ha igazán és becsületesen cselekedtetek Jerubbaállal és az õ házával a mai napon, örüljetek Abiméleknek, és örüljön õ is néktek;"
 "De hogyha nem, jõjjön tûz ki Abimélekbõl, és emészsze meg Sikem férfiait és Milló házát, és származzék tûz Sikem férfiaiból és Milló házából, és emészsze meg Abiméleket!"
 "És elfutott Jóthám, és elmenekült, és elment Beérbe az õ atyjafia, Abimélek elõl, és ott telepedett meg."
 "Mikor pedig uralkodék Abimélek Izráel felett három esztendeig
 "Egy gonosz lelket bocsátott Isten Abimélek és Sikem férfiai közé, és pártot ütöttek Sikem férfiai Abimélek ellen,"
-"Hogy eljõjjön a Jerubbaál hetven fián elkövetett kegyetlenség [büntetése,] és szálljon az õ vérök Abimélekre, testvérökre, a ki megölte õket, és Sikem férfiaira, a kik az õ kezeit megerõsítették, hogy megölje az õ atyjafiait."
+"Hogy eljõjjön a Jerubbaál hetven fián elkövetett kegyetlenség [büntetése,] és szálljon az õ vérök Abimélekre, testvérökre, a ki #megölte õket, és Sikem férfiaira, a kik az õ kezeit megerõsítették, hogy megölje az õ atyjafiait."
 "És lest vetének néki a Sikem férfiai a hegyeknek tetején, és kiraboltak mindenkit, a ki elment mellettök az úton, mely dolgot megmondák Abiméleknek."
 "És eljött Gaál, Ebed fia és az õ atyjafiai, és bementek Sikembe, és bízának õ hozzá Sikem férfiai."
 "Annyira, hogy kimenvén a mezõre, leszüretelték szõlõiket, [mindjárt] ki is taposták, és örömünnepet ültek, és bementek az õ istenöknek házába, és ettek és ittak, és szidalmazták Abiméleket."
@@ -46,7 +46,7 @@
 "Mikor pedig [ezt] meghallották Sikem tornyának minden férfiai, az El- Berith [isten] házának várába mentek."
 "És mikor Abiméleknek elmondották, hogy Sikem tornyának minden férfiai [ott] gyûltek össze
 "Felment Abimélek a Sálmon hegyére, õ és az egész nép, mely vele volt, és fejszét vett kezébe, és faágakat vágott le, és azokat felszedte, és vállára rakta, és monda a népnek, a mely vele volt
-"Erre az egész népbõl kiki vágott magának ágakat, és követték Abiméleket, és lerakták [a fát] a vár körül, és tûzzel rájuk gyujtották a várat, úgy hogy meghaltak a Sikem tornyának minden férfiai, közel ezer férfi és asszony."
+"Erre az egész népbõl kiki vágott magának ágakat, és követték Abiméleket, és lerakták [a fát] a vár körül, és #tûzzel rájuk gyujtották a várat, úgy hogy meghaltak a Sikem tornyának minden férfiai, közel ezer férfi és asszony."
 "Abimélek pedig elment Thébesbe, és táborba szállott Thébes ellen, és bevette azt."
 "De egy erõs torony volt a város közepén, és oda menekült minden férfi és asszony, és a városnak minden lakosa; [ezt] magukra zárták, és a toronynak padlására mentek fel."
 "És Abimélek oda ment a toronyig, és ostrom alá vette azt, és egészen a torony ajtajáig közeledett, hogy azt tûzzel égesse fel."

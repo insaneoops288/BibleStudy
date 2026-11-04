@@ -10,7 +10,7 @@
 "‹Pero en cualquier ciudad donde entréis, y no os reciban, saliendo por sus calles, decid
 "‹Aun el polvo que se nos ha pegado de vuestra ciudad, sacudimos contra vosotros
 "‹Y os digo que será más tolerable [el castigo] para Sodoma en aquel día, que para aquella ciudad.›"
-"‹¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! que si en Tiro y en Sidón se hubieran hecho las maravillas que se han hecho en vosotras, hace mucho tiempo que sentadas en cilicio y ceniza, se habrían arrepentido.›"
+"‹¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! que si en Tiro y en Sidón se hubieran hecho las maravillas #que se han hecho en vosotras, hace mucho tiempo que sentadas en cilicio y ceniza, se habrían arrepentido.›"
 "‹Por tanto, en el juicio será más tolerable [el castigo] para Tiro y Sidón que para vosotras.›"
 "‹Y tú, Capernaúm, que hasta el cielo eres levantada, hasta el infierno serás arrojada.›"
 "‹El que a vosotros oye, a mí me oye; y el que a vosotros desecha, a mí me desecha; y el que a mí me desecha, desecha al que me envió.›"

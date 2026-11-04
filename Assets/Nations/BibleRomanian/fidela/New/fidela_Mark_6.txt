@@ -38,7 +38,7 @@
 "Iar el le-a spus
 "Și le-a poruncit să îi așeze pe toți în grupuri, pe iarba verde."
 "Și au șezut în rânduri câte o sută și câte cincizeci."
-"Și după ce a luat cele cinci pâini și cei doi pești, a privit în sus spre cer și a binecuvântat și a frânt pâinile și le-a dat discipolilor săi să le pună înaintea lor; și cei doi pești i-a împărțit printre toți."
+"Și după ce a luat cele cinci pâini și cei doi pești, a privit în sus spre cer și a binecuvântat și #a frânt pâinile și le-a dat discipolilor săi să le pună înaintea lor; și cei doi pești i-a împărțit printre toți."
 "Și au mâncat toți și s-au săturat."
 "Și au ridicat douăsprezece coșuri pline de frânturi și [rămășițele ]de la pești."
 "Și cei ce au mâncat din pâini erau cam cinci mii de bărbați."

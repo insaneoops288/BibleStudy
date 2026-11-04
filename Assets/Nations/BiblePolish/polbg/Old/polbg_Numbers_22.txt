@@ -3,7 +3,7 @@
 "Uląkł się Moab tego ludu wielce, bo go było wiele; i zatrwożył sobą Moab dla synów Izraelskich."
 "Przetoż rzekł Moab do starszych Madyjańskich
 "I posłał posły do Balaama, syna Beorowego, do Pethoru miasta, które jest nad rzeką ziemi synów ludu jego, aby go wezwano, mówiąc
-"Przetoż teraz przyjdź proszę, a przeklinaj mnie kwoli lud ten, bo możniejszy jest nad mię; owa snać go będę mógł porazić, i wygnać go z ziemi; bo ja wiem, że komu błogosławisz, błogosławiony będzie; a kogo przeklinasz, przeklęty będzie."
+"Przetoż teraz przyjdź proszę, a przeklinaj mnie kwoli lud ten, bo możniejszy jest nad mię; owa snać go będę mógł #porazić, i wygnać go z ziemi; bo ja wiem, że komu błogosławisz, błogosławiony będzie; a kogo przeklinasz, przeklęty będzie."
 "Poszli tedy starsi Moabscy, i starsi Madyjańscy, mając zapłatę za wieszczbę w rękach swych."
 "A przyszedłszy do Balaama, powiedzieli mu słowa Balakowe. I rzekł do nich
 "I zostały książęta Moabskie z Balaamem. Tedy przyszedł Bóg do Balaama, i rzekł

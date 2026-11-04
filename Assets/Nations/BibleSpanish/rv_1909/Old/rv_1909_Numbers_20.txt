@@ -5,7 +5,7 @@
 "¿Y por qué nos has hecho subir de Egipto, para traernos á este mal lugar? No es lugar de sementera, de higueras, de viñas, ni granadas
 "Y fuéronse Moisés y Aarón de delante de la congregación á la puerta del tabernáculo del testimonio, y echáronse sobre sus rostros; y la gloria de Jehová apareció sobre ellos."
 "Y habló Jehová á Moisés, diciendo
-"Toma la vara y reune la congregación, tú y Aarón tu hermano, y hablad á la peña en ojos de ellos; y ella dará su agua, y les sacarás aguas de la peña, y darás de beber á la congregación, y á sus bestias."
+"Toma la vara y reune la congregación, tú y Aarón tu hermano, y hablad á la peña en ojos de ellos; y ella #dará su agua, y les sacarás aguas de la peña, y darás de beber á la congregación, y á sus bestias."
 "Entonces Moisés tomó la vara de delante de Jehová, como él le mandó."
 "Y juntaron Moisés y Aarón la congregación delante de la peña, y díjoles
 "Entonces alzó Moisés su mano, é hirió la peña con su vara dos veces

@@ -7,7 +7,7 @@
 "Tous ceux qui te verront fuiront loin de toi, Et l'on dira
 "Es-tu meilleure que No-Amon, Qui était assise au milieu des fleuves, Entourée par les eaux, Ayant la mer pour rempart, La mer pour murailles?"
 "L'Ethiopie et les Egyptiens innombrables faisaient sa force, Puth et les Libyens étaient ses auxiliaires."
-"Et cependant elle est partie pour l'exil, elle s'en est allée captive; Ses enfants ont été écrasés au coin de toutes les rues; On a jeté le sort sur ses nobles, Et tous ses grands ont été chargés de chaînes."
+"Et cependant elle est partie pour l'exil, elle s'en est allée captive; Ses enfants ont été écrasés au coin de toutes #les rues; On a jeté le sort sur ses nobles, Et tous ses grands ont été chargés de chaînes."
 "Toi aussi, tu seras enivrée, tu te cacheras; Toi aussi, tu chercheras un refuge contre l'ennemi."
 "Toutes tes forteresses Sont des figuiers avec les primeurs; Quand on les secoue, Elles tombent dans la bouche de qui veut les manger."
 "Voici, ton peuple, ce sont des femmes au milieu de toi; Les portes de ton pays s'ouvrent à tes ennemis; Le feu consume tes verrous."

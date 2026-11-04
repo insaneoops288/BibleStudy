@@ -4,7 +4,7 @@
 "Arrancó el principal de sus renuevos, y llevólo á la tierra de mercaderes, y púsolo en la ciudad de los negociantes."
 "Tomó también de la simiente de la tierra, y púsola en un campo bueno para sembrar, plantóla junto á grandes aguas, púsola como un sauce."
 "Y brotó, é hízose una vid de mucha rama, baja de estatura, que sus ramas la miraban, y sus raíces estaban debajo de ella
-"Y fué otra grande águila, de grandes alas y de muchas plumas; y he aquí que esta vid juntó cerca de ella sus raíces, y extendió hacia ella sus ramos, para ser regada por ella por los surcos de su plantío."
+"Y fué otra grande águila, de grandes alas y de muchas plumas; y he aquí que esta vid juntó cerca de #ella sus raíces, y extendió hacia ella sus ramos, para ser regada por ella por los surcos de su plantío."
 "En un buen campo, junto á muchas aguas fué plantada, para que hiciese ramos y llevase fruto, y para que fuese vid robusta."
 "Di
 "Y he aquí que plantada está ella, ¿será prosperada? ¿No se secará del todo cuando el viento solano la tocare? En los surcos de su verdor se secará."

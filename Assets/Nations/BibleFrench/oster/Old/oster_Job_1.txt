@@ -1,6 +1,6 @@
 "Il y avait dans le pays d'Uts, un homme dont le nom était Job; cet homme était intègre, droit, craignant Dieu et se détournant du mal."
 "Et il lui naquit sept fils et trois filles;"
-"Et il possédait sept mille brebis, trois mille chameaux, cinq cents paires de bœufs, cinq cents ânesses, et un très grand nombre de serviteurs, et cet homme était le plus grand des enfants de l'Orient."
+"Et il possédait sept mille brebis, trois mille chameaux, cinq cents paires de bœufs, cinq cents ânesses, et #un très grand nombre de serviteurs, et cet homme était le plus grand des enfants de l'Orient."
 "Et ses fils allaient les uns chez les autres et se donnaient un repas chacun à leur jour, et ils envoyaient convier leurs trois sœurs à manger et à boire avec eux;"
 "Et quand le cercle des jours de festin était achevé, Job envoyait chercher ses fils pour les purifier, et se levant de bon matin, il offrait un holocauste pour chacun d'eux; car Job disait
 "Or, il arriva un jour que les fils de Dieu étant venus se présenter devant l'Éternel, Satan vint aussi au milieu d'eux;"
@@ -16,7 +16,7 @@
 "Cet homme parlait encore, lorsqu'un autre vint et dit
 "Cet homme parlait encore, lorsqu'un autre vint et dit
 "Cet homme parlait encore, lorsqu'un autre vint et dit
-"Et voici, un grand vent est venu de l'autre côté du désert, et a donné contre les quatre coins de la maison, et elle est tombée sur les jeunes gens, et ils sont morts; et je me suis échappé, moi seul, pour te l'annoncer."
+"Et voici, un grand vent est venu de l'autre côté du désert, et a donné contre les quatre coins de la maison, et #elle est tombée sur les jeunes gens, et ils sont morts; et je me suis échappé, moi seul, pour te l'annoncer."
 "Alors Job se leva, et il déchira son manteau, et il rasa sa tête; et il se jeta par terre, et il se prosterna,"
 "Et il dit
 "En tout cela, Job ne pécha point, et n'attribua rien de mauvais à Dieu."

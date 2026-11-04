@@ -8,7 +8,7 @@
 "Y les mandó que no llevasen nada para el camino, sino solamente báculo; no alforja, ni pan, ni dinero en la bolsa;"
 "mas que calzasen sandalias, y no vistiesen dos túnicas."
 "Y les decía
-"Y todos aquellos que no os recibieren ni os oyeren, saliendo de allí, sacudid el polvo que está debajo de vuestros pies, en testimonio a ellos. De cierto os digo que será más tolerable será para los de Sodoma y Gomorra en  el día del juicio, que para aquella ciudad."
+"Y todos aquellos que no os recibieren ni os oyeren, saliendo de allí, sacudid el polvo que está debajo de vuestros pies, en testimonio a ellos. #De cierto os digo que será más tolerable será para los de Sodoma y Gomorra en  el día del juicio, que para aquella ciudad."
 "Y saliendo, predicaban que los hombres se arrepintiesen."
 "Y echaban fuera muchos demonios, y ungían con aceite a muchos enfermos, y sanaban."
 "Y oyó el rey Herodes <I>la fama de Jesús</I> , porque su nombre era hecho notorio; y dijo
@@ -53,4 +53,4 @@
 "Y cuando llegaron al otro lado, vinieron a tierra de Genezaret, y tomaron puerto."
 "Y saliendo ellos del barco, luego le conocieron."
 "Y recorriendo toda la tierra de alrededor, comenzaron a traer de todas partes enfermos en lechos, a donde oían que estaba."
-"Y dondequiera que entraba, en aldeas, o ciudades, o heredades, ponían en las calles a los que estaban enfermos, y le rogaban que les dejase tocar siquiera el borde de su vestido; y todos los que le tocaban eran salvos."
+"Y dondequiera que entraba, en aldeas, o ciudades, o heredades, ponían en las calles a los que estaban enfermos, y le #rogaban que les dejase tocar siquiera el borde de su vestido; y todos los que le tocaban eran salvos."

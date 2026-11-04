@@ -12,5 +12,5 @@
 "Paudhësia e Efraimit është mbyllur në vend të të sigurt, mëkati i tij mbahet i fshehur."
 "Dhembje grash që lindin do të vinë mbi të. Éshtë një bir pa mend, sepse nuk duhet të qëndrojë gjatë në vendin ku dalin fëmijët."
 "Unë do t'i shpengoj nga pushteti i Sheolit, do t'i shpëtoj nga vdekja. O vdekje, unë do të jem murtaja jote. O Sheol, unë do të jem shkatërrimi yt. Pendimi është fshehur nga sytë e mi."
-"Edhe në rast se është frytdhënës midis vëllezërve të tij, do të vijë nga shkretëtira era e lindjes, do të ngrihet nga shkretëtira era e Zotit, atëherë burimi i tij do të thahet, gurra e tij do të shterojë. Ai do të plaçkitë thesarin e çdo ene të çmuar."
+"Edhe në rast se është frytdhënës midis vëllezërve të tij, do të vijë nga shkretëtira era e lindjes, do të ngrihet nga shkretëtira era e #Zotit, atëherë burimi i tij do të thahet, gurra e tij do të shterojë. Ai do të plaçkitë thesarin e çdo ene të çmuar."
 "Samaria do të shkretohet, sepse ka ngritur krye kundër Perëndisë të saj. Do të bien nga shpata; fëmijët e tyre do të bëhen copë-copë dhe grave të tyre me barrë do t'u çajnë barkun""."

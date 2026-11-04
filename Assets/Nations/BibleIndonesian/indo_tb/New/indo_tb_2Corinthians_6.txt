@@ -11,7 +11,7 @@
 "Hai orang Korintus! Kami telah berbicara terus terang kepada kamu, hati kami terbuka lebar-lebar bagi kamu."
 "Dan bagi kamu ada tempat yang luas dalam hati kami, tetapi bagi kami hanya tersedia tempat yang sempit di dalam hati kamu."
 "Maka sekarang, supaya timbal balik,aku berkata seperti kepada anak-anakku,
-"Janganlah kamu merupakan pasangan yang tidak seimbang dengan orang-orang yang tak percaya. Sebab persamaan apakah terdapat antara kebenaran dan kedurhakaan? Atau bagaimanakah terang dapat bersatu dengan gelap?"
+"Janganlah kamu merupakan pasangan yang tidak seimbang dengan orang-orang yang tak percaya. Sebab persamaan #apakah terdapat antara kebenaran dan kedurhakaan? Atau bagaimanakah terang dapat bersatu dengan gelap?"
 "Persamaan apakah yang terdapat antara Kristus dan Belial? Apakah bagian bersama orang-orang percaya dengan orang-orang tak percaya?"
 "Apakah hubungan bait Allah dengan berhala? Karena kita adalah bait dari Allah yang hidup menurut firman Allah ini
 "Sebab itu

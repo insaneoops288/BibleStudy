@@ -8,7 +8,7 @@
 "E mandou-lhes que não tomassem nada para o caminho, a não ser somente um bordão; nem bolsa, nem pão, nem dinheiro no cinto;"
 "mas que calçassem sandálias, e não se vestissem de duas túnicas."
 "E dizia-lhes
-"E todos os que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles. Em verdade vos digo, que mais tolerável será a [os de] Sodoma ou Gomorra no dia do juízo, do que a [os d] aquela cidade."
+"E todos os que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles. #Em verdade vos digo, que mais tolerável será a [os de] Sodoma ou Gomorra no dia do juízo, do que a [os d] aquela cidade."
 "Eles, então, se foram, e pregaram que [as pessoas] se arrependessem."
 "Eles expulsaram muitos demônios, e a muitos enfermos ungiram com azeite, e os curaram."
 "O rei Herodes ouviu falar disso (porque o nome de [Jesus] já era notório). E dizia
@@ -38,7 +38,7 @@
 "E ele lhes disse
 "E mandou-lhes que fizessem sentar a todos em grupos sobre a grama verde."
 "E sentaram-se repartidos de cem em cem, e de cinquenta em cinquenta."
-"Ele tomou os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e os deu aos seus discípulos, para que os pusessem diante deles. E os dois peixes repartiu com todos."
+"Ele tomou os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e #os deu aos seus discípulos, para que os pusessem diante deles. E os dois peixes repartiu com todos."
 "Todos comeram e se saciaram."
 "E dos pedaços de pão e dos peixes levantaram doze cestos cheios."
 "Os que comeram os pães eram quase cinco mil homens."
@@ -53,4 +53,4 @@
 "Eles terminaram de atravessar o mar, chegaram à terra de Genesaré, e ali aportaram."
 "Quando eles saíram do barco, logo [as pessoas] o reconheceram."
 "Então gente de toda a região em redor veio correndo, e começaram a trazer em camas os doentes, aonde quer que ouviam que ele estava."
-"E aonde quer que ele entrava, em povoados, cidades, ou aldeias, colocavam os enfermos nas praças, e rogavam-lhe que ao menos tocassem a borda de sua roupa; e todos os que o tocavam ficavam sarados."
+"E aonde quer que ele entrava, em povoados, cidades, ou aldeias, colocavam os enfermos nas praças, e rogavam-lhe #que ao menos tocassem a borda de sua roupa; e todos os que o tocavam ficavam sarados."

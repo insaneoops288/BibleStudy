@@ -13,7 +13,7 @@
 "Sinä läksit kansaas auttamaan, auttamaan voideltus kanssa; sinä särjit jumalattomain huoneessa, ja paljastit perustukset, kaulaan asti, Sela!"
 "Jospa sinä vielä kiroisit pään valtikkaa kylinensä! jotka tulevat niinkuin tuulispää minua hajoittamaan, ja iloitsevat niinkuin he olisivat köyhän syöneet salaisesti."
 "Sinä ajoit hevosillas meressä suurten vetten loassa."
-"Että minä sen kuulen, niin minun sydämeni murehtii, minun huuleni värisevät huudosta; märkä on mennyt minun luihini, minä olen murheellinen minussani; jospa minä saisin levätä vaivani ajallla, kuin me menemme sen kansan tykö, joka sotii meitä vastaan."
+"Että minä sen kuulen, niin minun sydämeni murehtii, minun huuleni värisevät huudosta; märkä on mennyt minun luihini, minä olen #murheellinen minussani; jospa minä saisin levätä vaivani ajallla, kuin me menemme sen kansan tykö, joka sotii meitä vastaan."
 "Sillä ei fikunapuun pidä vihoittaman eikä viinapuussa pidä hedelmää oleman
 "Mutta minä iloitsen Herrassa, ja riemuitsen Jumalassa minun lunastajassani."
 "Herra, Herra on minun voimani, joka asettaa minun jalkani niinkuin peuran jalat, ja vie minun korkialle, niin että minä soitan kanteleitani."

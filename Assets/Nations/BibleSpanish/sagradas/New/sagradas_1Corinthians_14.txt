@@ -2,7 +2,7 @@
 "Porque el que habla en lenguas, no habla a los hombres, sino a Dios; porque nadie le entiende, aunque <I>por</I>  el Espíritu hable misterios."
 "Mas el que profetiza, habla a los hombres <I>para</I>  edificación, y exhortación, y consolación."
 "El que habla lengua <I>extraña</I> , a sí mismo se edifica; mas el que profetiza, edifica a la Iglesia (de Dios)."
-"Así que, quisiera que todos vosotros hablaseis lenguas, pero <I>quisiera</I>  más que profetizaceis, porque mayor <I>es</I>  el que profetiza que el que habla lenguas, a no ser que interpretare, para que la Iglesia tome  edificación."
+"Así que, quisiera que todos vosotros hablaseis lenguas, pero <I>quisiera</I>  más que profetizaceis, porque mayor <I>es</I>  el que #profetiza que el que habla lenguas, a no ser que interpretare, para que la Iglesia tome  edificación."
 "Ahora pues, hermanos, si <I>yo</I>  fuere a vosotros hablando lenguas, ¿qué os aprovechará, si no os hablare, o con revelación, o con ciencia, o con profecía, o con doctrina?"
 "Ciertamente las cosas inanimadas que hacen sonidos, como la flauta o la vihuela, si no dieren distinción de voces, ¿cómo se sabrá lo que se tañe con la flauta, o con la vihuela?"
 "Y si la trompeta diere sonido incierto, ¿quién se apercibirá a la batalla?"

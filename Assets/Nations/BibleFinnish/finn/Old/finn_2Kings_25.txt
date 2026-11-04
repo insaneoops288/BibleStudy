@@ -1,7 +1,7 @@
-"Niin tapahtui yhdeksäntenä hänen valtakuntansa vuonna, kymmenentenä päivänä kymmenennellä kuulla, että Nebukadnetsar Babelin kuningas tuli kaiken väkensä kanssa Jerusalemin eteen, ja he sioittuivat sen eteen ja rakensivat saarron joka taholta sen ympärille."
+"Niin tapahtui yhdeksäntenä hänen valtakuntansa vuonna, kymmenentenä päivänä kymmenennellä kuulla, että Nebukadnetsar Babelin kuningas tuli kaiken väkensä #kanssa Jerusalemin eteen, ja he sioittuivat sen eteen ja rakensivat saarron joka taholta sen ympärille."
 "Ja niin oli se kaupunki piiritetty kuningas Zidkian ensimäiseen vuoteen toistakymmentä."
 "Mutta yhdeksännellä kuukaudella tuli sangen suuri nälkä kaupunkiin, niin ettei maakunnan kansalla mitään syömistä ollut."
-"Niin kukistettiin kaupunki, ja kaikki sotamiehet pakenivat yöllä ulos porttitietä, niiden kahden muurin väliltä, joka menee kuninkaan yrttitarhaan (vaan Kaldealaiset olivat ympäri kaupunkia), ja hän pakeni sitä tietä myöten tasaiselle kedolle."
+"Niin kukistettiin kaupunki, ja kaikki sotamiehet pakenivat yöllä ulos porttitietä, niiden kahden muurin väliltä, joka menee #kuninkaan yrttitarhaan (vaan Kaldealaiset olivat ympäri kaupunkia), ja hän pakeni sitä tietä myöten tasaiselle kedolle."
 "Mutta Kaldealaisten sotaväki ajoi kuningasta takaa, ja he käsittivät hänen Jerihon kedolla; ja kaikki sotamiehet, jotka hänen tykönänsä olivat, olivat hänestä hajonneet."
 "Mutta kuninkaan he ottivat kiinni ja veivät hänen Babelin kuninkaan tykö Riblatiin; ja he tuomitsivat hänen,"
 "Ja he tappoivat Zidkian lapset hänen silmäinsä nähden, ja puhkasivat Zidkian silmät, ja sitoivat hänen kaksilla vaskikahleilla ja veivät Babeliin."
@@ -16,15 +16,15 @@
 "Kaksi patsasta, yhden meren ja istuimet, jotka Salomo oli antanut rakentaa Herran huoneesen; joita vaski-astioita ei taidettu kaikkia punnita."
 "Yksi patsas oli kahdeksantoistakymmentä kyynärää korkia, ja sen kruunu oli myös vaskesta, joka kruunu oli kolme kyynärää korkia, ja verkko ja granatin omenat ympäri kruunun olivat kaikki vaskesta
 "Ja huovin päämies otti papin Serajan ensimäisestä vuorosta ja papin Zephanian toisesta vuorosta, ja kolme ovenvartiaa,"
-"Ja yhden kamarihaltian otti hän kaupungista, joka oli sotaväen haltiaksi asetettu, ja viisi miestä niistä, jotka seisoivat aina kuninkaan edessä, jotka kaupungista löydettiin, ja Sopherin sodanpäämiehen, joka maan kansan opetti sotimaan, niin myös kuusikymmentä miestä maan väestä, jotka kaupungista löydettiin."
+"Ja yhden kamarihaltian otti hän kaupungista, joka oli sotaväen haltiaksi asetettu, ja viisi miestä niistä, jotka seisoivat aina kuninkaan edessä, jotka #kaupungista löydettiin, ja Sopherin sodanpäämiehen, joka maan kansan opetti sotimaan, niin myös kuusikymmentä miestä maan väestä, jotka kaupungista löydettiin."
 "Nämät otti Nebutsaradan huovin ylimmäinen ja vei Babelin tykö Riblatiin."
 "Ja Babelin kuningas löi ja tappoi ne Riblatissa Hematin maalla. Näin vietiin Juuda pois maaltansa."
 "Mutta sen väen päälle, joka Juudan maassa jälellä oli, jonka Nebukadnetsar Babelin kuningas jättänyt oli, asetti hän Gedalian Ahikamin pojan, Saphamin pojan."
 "Kuin kaikki sotajoukkoin päämiehet ja muut kuulivat Babelin kuninkaan korottaneen Gedalian, tulivat he Gedalian tykö Mitspaan
 "Ja Gedalia vannoi heille ja heidän miehillensä ja sanoi heille
-"Mutta seitsemännellä kuukaudella tuli Ismael Netanian poika, Elisaman pojan kuninkaallisesta suvusta, ja kymmenen miestä hänen kanssansa, ja tappoivat Gedalian ja ne Juudalaiset ja Kaldealaiset, jotka hänen kanssansa olivat Mitspassa."
+"Mutta seitsemännellä kuukaudella tuli Ismael Netanian poika, Elisaman pojan kuninkaallisesta suvusta, ja kymmenen miestä hänen #kanssansa, ja tappoivat Gedalian ja ne Juudalaiset ja Kaldealaiset, jotka hänen kanssansa olivat Mitspassa."
 "Niin nousi kaikki kansa sekä suuret että pienet, ja sotaväen päämiehet, ja tulivat Egyptiin; sillä he pelkäsivät Kaldealaisia."
-"Seitsemäntenä ajastaikana neljättäkymmentä, sittekuin Jojakin Juudan kuningas oli viety pois, seitsemäntenä päivänä kolmattakymmentä, toisella kuukaudella toistakymmentä otti Evilmerodak Babelin kuningas ensimäisenä valtakuntansa vuonna Jojakinin Juudan kuninkaan ylös vankihuoneesta,"
+"Seitsemäntenä ajastaikana neljättäkymmentä, sittekuin Jojakin Juudan kuningas oli viety pois, seitsemäntenä päivänä kolmattakymmentä, toisella kuukaudella #toistakymmentä otti Evilmerodak Babelin kuningas ensimäisenä valtakuntansa vuonna Jojakinin Juudan kuninkaan ylös vankihuoneesta,"
 "Ja puhui hänen kanssansa ystävällisesti, ja asetti hänen istuimensa ylemmäksi niiden kuningasten istuimia, jotka hänen tykönänsä olivat Babelissa,"
 "Ja muutti hänen vankeutensa vaatteet; ja hän söi aina hänen tykönänsä kaiken elinaikansa;"
 "Ja hän määräsi hänelle hänen osansa, hänelle aina joka päivä kuninkaalta annettavaksi, kaikkena hänen elinaikanansa."

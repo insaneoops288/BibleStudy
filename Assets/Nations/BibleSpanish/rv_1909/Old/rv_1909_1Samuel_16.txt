@@ -13,7 +13,7 @@
 "Y Samuel tomó el cuerno del aceite, y ungiólo de entre sus hermanos
 "Y el espíritu de Jehová se apartó de Saúl, y atormentábale el espíritu malo de parte de Jehová."
 "Y los criados de Saúl le dijeron
-"Diga pues nuestro señor á tus siervos que están delante de ti, que busquen alguno que sepa tocar el arpa; para que cuando fuere sobre ti el espíritu malo de parte de Dios, él taña con su mano, y tengas alivio."
+"Diga pues nuestro señor á tus siervos que están delante de ti, que busquen alguno que sepa tocar el arpa; para #que cuando fuere sobre ti el espíritu malo de parte de Dios, él taña con su mano, y tengas alivio."
 "Y Saúl respondió á sus criados
 "Entonces uno de los criados respondió, diciendo
 "Y Saúl envió mensajeros á Isaí, diciendo

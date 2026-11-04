@@ -24,7 +24,7 @@
 "Kaikki nämät kaupitsivat sinulle kalliita vaatteita, silkkiä ja neulotuita hameita, jotka he kalliissa seder-arkuissa hyvin tallella pantuna toivat sinun markkinoilles."
 "Mutta Tarsiksen laivat olivat ylimmäiset sinun kaupassas; niin sinä olet peräti rikkaaksi ja jaloksi tullut keskellä merta."
 "Ja sinun haaksimiehes toivat sinun suurilla vesillä; mutta itätuulen pitää sinun musertaman rikki keskellä merta
-"Niin että sinun tavaras, kauppakalus, ostajas, haaksimiehes, laivain haltias, laivain rakentajas ja sinun kaupitsias, ja kaikki sinun sotamiehes, ja kaikki kanssa sinussa pitää hukkuman keskellä merta, sinun lankeemises päivänä;"
+"Niin että sinun tavaras, kauppakalus, ostajas, haaksimiehes, laivain haltias, laivain rakentajas ja sinun kaupitsias, ja #kaikki sinun sotamiehes, ja kaikki kanssa sinussa pitää hukkuman keskellä merta, sinun lankeemises päivänä;"
 "Niin että satamatkin pitää vapiseman sinun haahteis haltiain huudosta."
 "Ja kaikki, jotka soutavat haaksimiesten ja haahtein haltiain kanssa, pitää laivoista menemän maalle seisomaan,"
 "Ja pitää kovin huutaman sinun tähtes, ja vaikiasti valittaman, ja heittämän tomua päänsä päälle, ja tuhkaan itsensä tahraaman."

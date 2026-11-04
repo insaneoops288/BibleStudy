@@ -5,7 +5,7 @@
 """Shikoni midis kombeve dhe këqyrni, do të mbeteni të habitur dhe të shastisur, sepse unë do të kryej në ditët tuaja një vepër, që ju nuk do ta besonit edhe sikur t'jua tregonin."
 "Sepse ja, unë do t'i nxis Kaldeasit, komb mizor dhe i furishëm, që përshkon dheun në gjerësinë e tij për të shtënë në dorë banesa jo të vetat."
 "Éshtë i tmerrshëm, i llahtarshëm; gjykimi i tij dhe dinjiteti i tij dalin nga ai vetë."
-"Kuajt e tij janë më të shpejtë se leopardët, më të egër se ujqërit e mbrëmjes. Kalorësit e tyre përhapen kudo, kalorësit e tyre vijnë nga larg, fluturojnë si shqiponja që sulet mbi gjahun për ta gllabëruar."
+"Kuajt e tij janë më të shpejtë se leopardët, më të egër se ujqërit e mbrëmjes. Kalorësit e tyre #përhapen kudo, kalorësit e tyre vijnë nga larg, fluturojnë si shqiponja që sulet mbi gjahun për ta gllabëruar."
 "Vijnë të gjithë për të bërë dhunë, fytyrat e tyre shtyhen përpara dhe grumbullojnë robër si rëra."
 "Ai tallet me mbretërit dhe princat janë për të objekt talljeje; përqesh çfarëdo fortese, sepse mbledh pak dhe, dhe e pushton."
 "Pastaj përparon shpejt si era, kalon tutje dhe e bën veten fajtor, duke ia atribuar këtë forcë të tij perëndisë së vet""."

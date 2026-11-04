@@ -5,10 +5,10 @@
 "E quando ele abriu o terceiro celo, eu ouvi o terceiro animal dizer
 "E ouvi uma voz no meio dos quatro animais, dizendo
 "E quando ele abriu o quarto selo, eu ouvi a voz do quarto animal dizendo
-"E eu olhei, e eis um cavalo amarelo-esverdeado, e o que estava sentado sobre ele, seu nome [era] Morte; e o mundo dos mortos o seguia. E foi-lhes dada autoridade para matar a quarta [parte] da terra, com espada, com fome, com morte [por doença] , e com os animais ferozes da terra."
+"E eu olhei, e eis um cavalo amarelo-esverdeado, e o que estava sentado sobre ele, seu nome [era] Morte; e o mundo dos mortos o seguia. E #foi-lhes dada autoridade para matar a quarta [parte] da terra, com espada, com fome, com morte [por doença] , e com os animais ferozes da terra."
 "E quando ele abriu o quinto selo, eu vi debaixo do altar as almas dos que foram mortos por causa da palavra de Deus, e por causa do testemunho que tinham."
 "E clamavam com grande voz, dizendo
-"E foram dados a cada um [deles] compridas roupas brancas; e foi-lhes dito que repousassem ainda um pouco de tempo, até que se completassem os seus companheiros servos e seus irmãos, que [ainda] viriam a ser mortos."
+"E foram dados a cada um [deles] compridas roupas brancas; e foi-lhes dito que repousassem ainda um pouco de #tempo, até que se completassem os seus companheiros servos e seus irmãos, que [ainda] viriam a ser mortos."
 "E eu vi quando ele abriu o sexto selo, e eis que houve um grande tremor de terra; e o sol se tornou preto como um saco feito de pelos de animais, e a lua se tornou como sangue."
 "E as estrelas do céu caíram sobre a terra como a figueira lança de si seus figos verdes, abalada por um grande vento."
 "E o céu se removeu como um rolo de livro que se enrola; e todos os montes e ilhas se moveram de seus lugares."

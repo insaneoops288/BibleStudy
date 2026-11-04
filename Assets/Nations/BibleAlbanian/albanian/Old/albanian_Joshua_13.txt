@@ -1,9 +1,9 @@
 "Por Jozueu ishte plak dhe në moshë të shtyrë; dhe Zoti i tha
 "Ky është vendi që mbetet akoma
-"nga Shikori që rrjedh në lindje të Egjiptit, deri në kufirin e Ekronit nga veriu (krahinë që konsiderohet kananease), tokat e pesë princave të Filistejve, domethënë të Gazës, të Ashdodit, të Ashkalonit, të Gathit, të Ekronit dhe të Avejve gjithashtu,"
+"nga Shikori që rrjedh në lindje të Egjiptit, deri në kufirin e Ekronit nga veriu (krahinë që konsiderohet kananease), tokat e #pesë princave të Filistejve, domethënë të Gazës, të Ashdodit, të Ashkalonit, të Gathit, të Ekronit dhe të Avejve gjithashtu,"
 "në jug, tërë vendi i Kananejve, dhe Mearahu që u përket Sidonëve deri në Afek, deri në kufirin e Amorejve;"
 "vendi i Giblitëve dhe tërë Libani në drejtim të lindjes, nga Baal-Gadi në këmbët e malit Hermon deri në hyrje të Hamathit;"
-"tërë banorët e krahinës malore të Libanit deri në ujërat e Misrefothit, dhe gjithë Sidonët. Unë do t'i dëboj para bijve të Izraelit; ti ndërkaq ndaje me short vendin midis Izraelitëve si trashëgimi, ashtu si të kam urdhëruar."
+"tërë banorët e krahinës malore të Libanit deri në ujërat e Misrefothit, dhe gjithë Sidonët. Unë do t'i dëboj para #bijve të Izraelit; ti ndërkaq ndaje me short vendin midis Izraelitëve si trashëgimi, ashtu si të kam urdhëruar."
 "Ndaje, pra, këtë vend si trashëgimi midis nëntë fiseve dhe gjysmës së fisit të Manasit""."
 "Rubenitët dhe Gaditët, bashkë me gjysmën e fisit tjetër, kanë marrë trashëgiminë e tyre, që Moisiu u dha atyre matanë Jordanit, në lindje, ashtu siç ua kishte dhënë Moisiu, shërbëtor i Zotit;"
 "nga Aroeri që ndodhet në brigjet e përroit Arnon dhe nga qyteti që është në mes të luginës, tërë rrafshnaltën e Medebas deri në Dibon;"
@@ -24,7 +24,7 @@
 "Moisiu i kishte dhënë gjithashtu fisit të Gadit, bijve të Gadit, pjesën e tyre, simbas familjeve të tyre."
 "Territori i tyre përfshinte Jazerin, të gjitha qytetet e Galaadit, gjysmën e vendit të bijve të Amonit deri në Aroer, që ngrihet përballë Rabahut,"
 "dhe nga Heshboni deri në Ramath-Mitspah dhe Betonim, dhe nga Mahanaimi deri në kufirin e Debirit,"
-"dhe në luginë, Beth-Harami, Beth-Nimrahi, Sukothi dhe Tsafoni, pjesa që mbeti nga mbretëria e Sihonit, mbretit të Heshbonit, që ka Jordanin për kufi, deri në skajin e Detit të Kinerethit, matanë Jordanit, në drejtim të lindjes."
+"dhe në luginë, Beth-Harami, Beth-Nimrahi, Sukothi dhe Tsafoni, pjesa që mbeti nga mbretëria e Sihonit, mbretit të Heshbonit, që #ka Jordanin për kufi, deri në skajin e Detit të Kinerethit, matanë Jordanit, në drejtim të lindjes."
 "Kjo qe trashëgimia e bijve të Gadit, simbas familjeve të tyre, me qytetet dhe fshatrat e tyre."
 "Moisiu i kishte dhënë gjithashtu gjysmës së fisit të Manasit, bijve të Manasit, pjesën e tyre, simbas familjeve të tyre."
 "Territori i tyre përfshinte Mahanaimin, tërë Bashanin, tërë mbretërinë e Ogut, mbretit të Bashanit, tërë fshatrat e Jairit që ndodhen në Bashan, gjithsej shtatëdhjetë qytete."

@@ -6,7 +6,7 @@
 "Se rebentar um fogo, e pegar aos espinhos, e abrasar a meda de trigo, ou a seara, ou o campo, aquele que acendeu o fogo pagará totalmente o queimado."
 "Se alguém der prata ou objectos ao seu próximo a guardar, e isso for furtado da casa daquele homem, se o ladrão se achar, pagará o dobro."
 "Se o ladrão não se achar, então, o dono da casa será levado diante dos juízes, a ver se não meteu a sua mão na fazenda do seu próximo."
-"Sobre todo negócio de injustiça, sobre boi, sobre jumento, sobre gado miúdo, sobre veste, sobre toda coisa perdida, de que alguém disser que é sua, a causa de ambos virá perante os juízes; aquele a quem condenarem os juízes o pagará em dobro ao seu próximo."
+"Sobre todo negócio de injustiça, sobre boi, sobre jumento, sobre gado miúdo, sobre veste, sobre toda coisa perdida, de que alguém disser que é #sua, a causa de ambos virá perante os juízes; aquele a quem condenarem os juízes o pagará em dobro ao seu próximo."
 "Se alguém der a seu próximo a guardar um jumento, ou boi, ou ovelha, ou algum animal, e morrer, ou for dilacerado, ou afugentado, ninguém o vendo,"
 "então, haverá juramento do SENHOR entre ambos, de que não meteu a sua mão na fazenda do seu próximo; e seu dono o aceitará, e o outro não o restituirá."
 "Mas, se lhe for furtado, o pagará ao seu dono."

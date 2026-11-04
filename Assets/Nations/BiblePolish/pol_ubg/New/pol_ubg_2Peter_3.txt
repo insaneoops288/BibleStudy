@@ -13,6 +13,6 @@
 "Lecz my, zgodnie z jego obietnicą, oczekujemy nowych niebios i nowej ziemi, w których mieszka sprawiedliwość."
 "Dlatego, umiłowani, oczekując tego, starajcie się, abyście zostali przez niego znalezieni bez skazy i nienaganni, w pokoju;"
 "A cierpliwość naszego Pana uważajcie za zbawienie, jak i nasz umiłowany brat Paweł według danej mu mądrości pisał do was;"
-"Jak też mówi o tym we wszystkich listach. Są w nich pewne rzeczy trudne do zrozumienia, które, podobnie jak inne Pisma, ludzie niedouczeni i nieutwierdzeni przekręcają ku swemu własnemu zatraceniu."
+"Jak też mówi o tym we wszystkich listach. Są w nich pewne rzeczy trudne do zrozumienia, #które, podobnie jak inne Pisma, ludzie niedouczeni i nieutwierdzeni przekręcają ku swemu własnemu zatraceniu."
 "Wy zatem, umiłowani, wiedząc o tym wcześniej, miejcie się na baczności, abyście nie byli zwiedzeni przez błąd bezbożników i nie wypadli z waszej stałości."
 "Wzrastajcie zaś w łasce i poznaniu naszego Pana i Zbawiciela, Jezusa Chrystusa. Jemu chwała i teraz, i na wieczne czasy. Amen."

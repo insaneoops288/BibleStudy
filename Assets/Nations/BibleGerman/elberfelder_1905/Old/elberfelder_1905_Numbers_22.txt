@@ -3,7 +3,7 @@
 "Und Moab fürchtete sich sehr vor dem Volke, weil es groß war, und es graute Moab vor den Kindern Israel."
 "Und Moab sprach zu denÄltesten von Midian
 "Und er sandte Boten zu Bileam, dem Sohne Beors, nach Pethor, das am Strome ist, in das Land der Kinder seines Volkes, um ihn zu rufen, und er ließ ihm sagen
-"Und nun, komm doch, verfluche mir dieses Volk, denn es ist stärker als ich. Vielleicht gelingt es mir, daß wir es schlagen und ich es aus dem Lande vertreibe; denn ich weiß, wen du segnest, der ist gesegnet, und wen du verfluchst, der ist verflucht."
+"Und nun, komm doch, verfluche mir dieses Volk, denn es ist stärker als ich. Vielleicht gelingt es mir, daß wir es schlagen und #ich es aus dem Lande vertreibe; denn ich weiß, wen du segnest, der ist gesegnet, und wen du verfluchst, der ist verflucht."
 "Und dieÄltesten von Moab und dieÄltesten von Midian zogen hin mit dem Wahrsagerlohn in der Hand. Und sie kamen zu Bileam und redeten zu ihm die Worte Balaks."
 "Und er sprach zu ihnen
 "Und Gott kam zu Bileam und sprach
@@ -20,7 +20,7 @@
 "Da kam Gott des Nachts zu Bileam und sprach zu ihm
 "Und Bileam machte sich am Morgen auf und sattelte seine Eselin und zog mit den Fürsten von Moab."
 "Da entbrannte der Zorn Gottes, daß er hinzog; und der Engel Jehovas stellte sich in den Weg, ihm zu widerstehen. Er aber ritt auf seiner Eselin, und seine beiden Jünglinge waren mit ihm."
-"Und die Eselin sah den Engel Jehovas auf dem Wege stehen mit seinem gezückten Schwert in seiner Hand, und die Eselin bog vom Wege ab und ging ins Feld; und Bileam schlug die Eselin, um sie wieder auf den Weg zu lenken."
+"Und die Eselin sah den Engel Jehovas auf dem Wege stehen mit seinem gezückten Schwert in seiner Hand, und die Eselin bog #vom Wege ab und ging ins Feld; und Bileam schlug die Eselin, um sie wieder auf den Weg zu lenken."
 "Da trat der Engel Jehovas in einen Hohlweg zwischen den Weinbergen
 "Und die Eselin sah den Engel Jehovas und drängte sich an die Wand und drückte den Fuß Bileams an die Wand; und er schlug sie noch einmal."
 "Da ging der Engel Jehovas nochmals weiter und trat an einen engen Ort, wo kein Weg war auszubiegen, weder zur Rechten noch zur Linken."

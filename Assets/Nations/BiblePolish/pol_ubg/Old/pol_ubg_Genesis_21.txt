@@ -20,7 +20,7 @@
 "I Bóg był z chłopcem. Urósł i mieszkał na pustyni, i stał się łucznikiem."
 "A mieszkał na pustyni Paran. I jego matka wzięła dla niego żonę z ziemi Egiptu."
 "W tym czasie Abimelek wraz z dowódcą swego wojska Pikolem powiedział do Abrahama
-"Teraz więc przysięgnij mi tu na Boga, że nie postąpisz zdradliwie wobec mnie ani mego syna, ani mego wnuka. Ale według miłosierdzia, które ci okazałem, postąpisz ze mną i z ziemią, w której jesteś przybyszem."
+"Teraz więc przysięgnij mi tu na Boga, że nie postąpisz zdradliwie wobec mnie ani mego syna, ani mego #wnuka. Ale według miłosierdzia, które ci okazałem, postąpisz ze mną i z ziemią, w której jesteś przybyszem."
 "Abraham odpowiedział
 "I Abraham poskarżył się Abimelekowi z powodu studni z wodą, którą mu przemocą zabrali słudzy Abimeleka."
 "Abimelek powiedział

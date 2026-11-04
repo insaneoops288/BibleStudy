@@ -10,7 +10,7 @@
 "Disse então Saul a seu criado
 "E quando subiam pela encosta da cidade, acharam umas moças que saíam por água, às quais disseram
 "E elas respondendo-lhes, disseram
-"E quando entrardes na cidade, vós o encontrareis logo, antes que suba ao alto a comer; pois o povo não comerá até que ele tenha vindo, porquanto ele deve abençoar o sacrifício, e depois comerão os convidados. Subi, pois agora, porque agora o achareis."
+"E quando entrardes na cidade, vós o encontrareis logo, antes que suba ao alto a comer; pois o povo não comerá até que #ele tenha vindo, porquanto ele deve abençoar o sacrifício, e depois comerão os convidados. Subi, pois agora, porque agora o achareis."
 "Eles então subiram à cidade; e quando em meio da cidade estiveram, eis que Samuel que diante deles saía para subir ao alto."
 "E um dia antes que Saul viesse, o SENHOR havia revelado ao ouvido de Samuel, dizendo
 "Amanhã a esta mesma hora eu enviarei a ti um homem da terra de Benjamim, ao qual ungirás por príncipe sobre meu povo Israel, e salvará meu povo da mão dos filisteus

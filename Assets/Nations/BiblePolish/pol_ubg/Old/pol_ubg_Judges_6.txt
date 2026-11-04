@@ -18,13 +18,13 @@
 "Nie odchodź stąd, proszę, aż wrócę do ciebie i przyniosę ci swoją ofiarę i położę ją przed tobą. I odpowiedział
 "Gedeon poszedł więc i przyrządził koźlę oraz przaśne chleby z jednej efy mąki. Mięso włożył do kosza, a polewkę mięsną wlał do garnka i przyniósł to do niego pod dąb, i ofiarował."
 "I Anioł Boga powiedział do niego
-"Wtedy Anioł PANA wyciągnął koniec laski, którą miał w ręce, i dotknął mięsa oraz przaśników; i wydobył się ogień ze skały i strawił mięso i przaśne chleby. Potem Anioł PANA zniknął sprzed jego oczu."
+"Wtedy Anioł PANA wyciągnął koniec laski, którą miał w ręce, i dotknął mięsa oraz przaśników; i wydobył się #ogień ze skały i strawił mięso i przaśne chleby. Potem Anioł PANA zniknął sprzed jego oczu."
 "A gdy Gedeon zrozumiał, że to był Anioł PANA, powiedział
 "I PAN mu powiedział
 "Dlatego więc Gedeon zbudował tam ołtarz dla PANA i nazwał go
 "Tej nocy PAN mu powiedział
 "A zbuduj ołtarz dla PANA, swego Boga, na szczycie tej skały, na równym miejscu; weź tego drugiego cielca i złóż z niego całopalenie na drwach z gaju, który zetniesz."
-"Wziął więc Gedeon dziesięciu mężczyzn spośród swoich sług i uczynił tak, jak PAN mu rozkazał. A ponieważ bał się domu swego ojca i mieszkańców miasta, nie uczynił tego za dnia, lecz uczynił to w nocy."
+"Wziął więc Gedeon dziesięciu mężczyzn spośród swoich sług i uczynił tak, jak PAN mu rozkazał. A ponieważ bał #się domu swego ojca i mieszkańców miasta, nie uczynił tego za dnia, lecz uczynił to w nocy."
 "A gdy mieszkańcy miasta wstali wczesnym rankiem, zobaczyli zburzony ołtarz Baala i ścięty gaj, który był obok niego, i tego drugiego cielca złożonego na całopalenie na zbudowanym ołtarzu."
 "I mówili jeden do drugiego
 "Wtedy mieszkańcy miasta powiedzieli do Joasza

@@ -1,7 +1,7 @@
 "TENIA empero también el primer pacto reglamentos del culto, y santuario mundano."
 "Porque el tabernáculo fué hecho
 "Tras el segundo velo estaba el tabernáculo, que llaman el Lugar Santísimo;"
-"El cual tenía un incensario de oro, y el arca del pacto cubierta de todas partes alrededor de oro; en la que estaba una urna de oro que contenía el maná, y la vara de Aarón que reverdeció, y las tablas del pacto;"
+"El cual tenía un incensario de oro, y el arca del pacto cubierta de todas partes alrededor de oro; en la que #estaba una urna de oro que contenía el maná, y la vara de Aarón que reverdeció, y las tablas del pacto;"
 "Y sobre ella los querubines de gloria que cubrían el propiciatorio; de las cuales cosas no se puede ahora hablar en particular."
 "Y estas cosas así ordenadas, en el primer tabernáculo siempre entraban los sacerdotes para hacer los oficios del culto;"
 "Mas en el segundo, sólo el pontífice una vez en el año, no sin sangre, la cual ofrece por sí mismo, y por los pecados de ignorancia del pueblo
@@ -12,11 +12,11 @@
 "Y no por sangre de machos cabríos ni de becerros, mas por su propia sangre, entró una sola vez en el santuario, habiendo obtenido eterna redención."
 "Porque si la sangre de los toros y de los machos cabríos, y la ceniza de la becerra, rociada á los inmundos, santifica para la purificación de la carne,"
 "¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció á sí mismo sin mancha á Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?"
-"Así que, por eso es mediador del nuevo testamento, para que interviniendo muerte para la remisión de las rebeliones que había bajo del primer testamento, los que son llamados reciban la promesa de la herencia eterna."
+"Así que, por eso es mediador del nuevo testamento, para que interviniendo muerte para la remisión de las rebeliones #que había bajo del primer testamento, los que son llamados reciban la promesa de la herencia eterna."
 "Porque donde hay testamento, necesario es que intervenga muerte del testador."
 "Porque el testamento con la muerte es confirmado; de otra manera no es válido entre tanto que el testador vive."
 "De donde vino que ni aun el primero fué consagrado sin sangre."
-"Porque habiendo leído Moisés todos los mandamientos de la ley á todo el pueblo, tomando la sangre de los becerros y de los machos cabríos, con agua, y lana de grana, é hisopo, roció al mismo libro, y también á todo el pueblo,"
+"Porque habiendo leído Moisés todos los mandamientos de la ley á todo el pueblo, tomando la sangre de los becerros y de #los machos cabríos, con agua, y lana de grana, é hisopo, roció al mismo libro, y también á todo el pueblo,"
 "Diciendo
 "Y además de esto roció también con la sangre el tabernáculo y todos los vasos del ministerio."
 "Y casi todo es purificado según la ley con sangre; y sin derramamiento de sangre no se hace remisión."

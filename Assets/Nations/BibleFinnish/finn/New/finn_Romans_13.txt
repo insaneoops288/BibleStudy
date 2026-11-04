@@ -1,7 +1,7 @@
 "Jokainen olkoon esivallalle, jolla valta on, alamainen; sillä ei esivalta ole muutoin kuin Jumalalta
 "Sentähden jokainen, joka itsensä esivaltaa vastaan asettaa, se on Jumalan säätyä vastaan; mutta ne, jotka vastaan ovat, saavat tuomion päällensä."
 "Sillä ne, jotka vallan päällä ovat, ei ole hyvintekiöille, vaan pahoille pelvoksi. Ellet tahdo esivaltaa peljätä, niin tee hyvää, ja sinä saat häneltä kiitoksen."
-"Sillä hän on Jumalan palvelia sinun hyväkses. Vaan jos sinä pahaa teet, niin pelkää; sillä ei hän miekkaa hukkaan kanna; sillä hän on Jumalan palvelia ja kostaja sille rangaistukseksi, joka pahaa tekee."
+"Sillä hän on Jumalan palvelia sinun hyväkses. Vaan jos sinä pahaa teet, niin pelkää; sillä ei hän #miekkaa hukkaan kanna; sillä hän on Jumalan palvelia ja kostaja sille rangaistukseksi, joka pahaa tekee."
 "Sentähden tulee alamainen olla, ei ainoastaan vihan tähden, vaan myös omantunnon tähden."
 "Sillä sentähden te myös veron maksatte; sillä he ovat Jumalan palveliat, joiden senkaltaisista tulee lukua pitää."
 "Niin antakaat siis kaikille, mitä te velvolliset olette

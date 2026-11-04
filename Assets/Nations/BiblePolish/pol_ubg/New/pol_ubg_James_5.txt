@@ -9,7 +9,7 @@
 "Bracia, nie narzekajcie jedni na drugich, abyście nie zostali osądzeni. Oto sędzia stoi przed drzwiami."
 "Weźcie za przykład, moi bracia, utrapienia i cierpliwość proroków, którzy mówili w imieniu Pana."
 "Oto za błogosławionych uważamy tych, którzy wytrwali. Słyszeliście o cierpliwości Hioba i widzieliście koniec przygotowany przez Pana, że Pan jest pełen litości i miłosierdzia."
-"A przede wszystkim, moi bracia, nie przysięgajcie ani na niebo, ani na ziemię, ani nie składajcie żadnej innej przysięgi. Lecz niech wasze „tak” będzie „tak”, a „nie” niech będzie „nie”, abyście nie byli sądzeni."
+"A przede wszystkim, moi bracia, nie przysięgajcie ani na niebo, ani na ziemię, ani nie składajcie żadnej innej #przysięgi. Lecz niech wasze „tak” będzie „tak”, a „nie” niech będzie „nie”, abyście nie byli sądzeni."
 "Cierpi ktoś wśród was? Niech się modli. Raduje się ktoś? Niech śpiewa."
 "Choruje ktoś wśród was? Niech przywoła starszych kościoła i niech się modlą nad nim, namaszczając go olejem w imię Pana."
 "A modlitwa wiary uzdrowi chorego i Pan go podźwignie. Jeśli zaś popełnił grzechy, będą mu przebaczone."

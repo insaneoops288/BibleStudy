@@ -18,6 +18,6 @@
 "I řekli
 "Pozoruj mne, Hospodine, a slyš hlas těch, kteříž se vadí se mnou."
 "Zdaliž má odplacováno býti za dobré zlým, že mi jámu kopají? Rozpomeň se, že jsem se postavoval před oblíčejem tvým, abych se přimlouval k jejich dobrému, a odvrátil prchlivost tvou od nich."
-"Protož dopusť na syny jejich hlad, a způsob to, ať jsou násilně zmordování mečem, a nechť jsou ženy jejich osiřelé a ovdovělé, a muži jejich ať jsou ukrutně zmordováni, a mládenci jejich zbiti mečem v boji."
+"Protož dopusť na syny jejich hlad, a způsob to, ať jsou násilně zmordování mečem, a nechť jsou ženy jejich #osiřelé a ovdovělé, a muži jejich ať jsou ukrutně zmordováni, a mládenci jejich zbiti mečem v boji."
 "Nechť jest slýchati křik z domů jejich, když přivedeš na ně vojsko náhle. Nebo vykopali jámu, aby popadli mne, a osídla polékli nohám mým;"
-"Ješto ty, Hospodine, povědom jsi vší rady jejich o mém usmrcení. Nebuď milostiv nepravosti jejich, a hříchu jejich před tváří svou neshlazuj, ale nechť jsou k úrazu dostrčeni před oblíčejem tvým, a v čas prchlivosti své s nimi zacházej."
+"Ješto ty, Hospodine, povědom jsi vší rady jejich o mém usmrcení. Nebuď milostiv nepravosti jejich, a hříchu jejich před tváří #svou neshlazuj, ale nechť jsou k úrazu dostrčeni před oblíčejem tvým, a v čas prchlivosti své s nimi zacházej."

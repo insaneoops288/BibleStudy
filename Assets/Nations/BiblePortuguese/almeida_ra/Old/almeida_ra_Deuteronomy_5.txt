@@ -11,7 +11,7 @@
 "Não tomarás o nome do Senhor teu Deus em vão; porque o Senhor não terá por inocente aquele que tomar o seu nome em vão."
 "Guarda o dia do sábado, para o santificar, como te ordenou o senhor teu Deus;"
 "seis dias trabalharás, e farás todo o teu trabalho;"
-"mas o sétimo dia é o sábado do Senhor teu Deus; nesse dia não farás trabalho algum, nem tu, nem teu filho, nem tua filha, nem o teu servo, nem a tua serva, nem o teu boi, nem o teu jumento, nem animal algum teu, nem o estrangeiro que está dentro das tuas portas; para que o teu servo e a tua serva descansem assim como tu."
+"mas o sétimo dia é o sábado do Senhor teu Deus; nesse dia não farás trabalho algum, nem tu, nem teu filho, nem tua filha, nem o teu servo, nem a tua serva, nem #o teu boi, nem o teu jumento, nem animal algum teu, nem o estrangeiro que está dentro das tuas portas; para que o teu servo e a tua serva descansem assim como tu."
 "Lembra-te de que foste servo na terra do Egipto, e que o Senhor teu Deus te tirou dali com mão forte e braço estendido; pelo que o Senhor teu Deus te ordenou que guardasses o dia do sábado."
 "Honra a teu pai e a tua mãe, como o senhor teu Deus te ordenou, para que se prolonguem os teus dias, e para que te vá bem na terra que o Senhor teu Deus te dá."
 "Não matarás."
@@ -19,7 +19,7 @@
 "Não furtarás."
 "Não dirás falso testemunho contra o teu próximo."
 "Não cobiçarás a mulher do teu próximo; não desejarás a casa do teu próximo; nem o seu campo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma do teu próximo."
-"Essas palavras falou o senhor a toda a vossa assembleia no monte, do meio do fogo, da nuvem e da escuridão, com grande voz; e nada acrescentou. E escreveu-as em duas tábuas de pedra, que ele me deu."
+"Essas palavras falou o senhor a toda a vossa assembleia no monte, do meio do fogo, da nuvem e da #escuridão, com grande voz; e nada acrescentou. E escreveu-as em duas tábuas de pedra, que ele me deu."
 "Mas quando ouvistes a voz do meio das trevas, enquanto ardia o monte em fogo, viestes ter comigo, mesmo todos os cabeças das vossas tribos, e vossos anciãos,"
 "e dissestes
 "Agora, pois, por que havemos de morrer? Este grande fogo nos consumirá; se ainda mais ouvirmos a voz do Senhor nosso Deus, morreremos."

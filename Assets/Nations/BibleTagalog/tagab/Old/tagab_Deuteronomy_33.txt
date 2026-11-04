@@ -6,9 +6,9 @@
 "Mabuhay nawa ang Ruben, at huwag mamatay; Gayon ma'y kumaunti nawa ang kaniyang mga tao."
 "At ito ang basbas sa Juda; at kaniyang sinabi, Dinggin mo, Panginoon, ang tinig ng Juda, At padatnin mo sa kaniyang bayan
 "At tungkol sa Levi ay kaniyang sinabi, Ang iyong Thummim at ang iyong Urim ay sumaiyong banal, Na siyang iyong sinubok sa Massa, Na siya mong kinatunggali sa tubig ng Meriba;"
-"Na siyang nagsabi tungkol sa kaniyang ama, at tungkol sa kaniyang ina, Hindi ko siya nakita; Ni kinilala niya ang kaniyang mga kapatid, Ni kinilala niya ang kaniyang sariling mga anak; Sapagka't kanilang sinunod ang iyong salita, At ginaganap ang iyong tipan."
+"Na siyang nagsabi tungkol sa kaniyang ama, at tungkol sa kaniyang ina, Hindi ko siya nakita; Ni kinilala niya ang kaniyang mga #kapatid, Ni kinilala niya ang kaniyang sariling mga anak; Sapagka't kanilang sinunod ang iyong salita, At ginaganap ang iyong tipan."
 "Sila'y magtuturo sa Jacob ng iyong mga kahatulan, At ng iyong mga kautusan, sa Israel; Sila'y maglalagay ng kamangyan sa harap mo, At ng buong handog na susunugin sa ibabaw ng iyong dambana."
-"Basbasan mo, Panginoon, ang kaniyang tinatangkilik, At tanggapin mo ang gawa ng kaniyang mga kamay; Saktan mo ang mga balakang niyaong nagsisibangon laban sa kaniya, At niyaong nangapopoot sa kaniya, upang sila'y huwag bumangon uli."
+"Basbasan mo, Panginoon, ang kaniyang tinatangkilik, At tanggapin mo ang gawa ng kaniyang mga kamay; Saktan mo ang #mga balakang niyaong nagsisibangon laban sa kaniya, At niyaong nangapopoot sa kaniya, upang sila'y huwag bumangon uli."
 "Tungkol sa Benjamin, ay kaniyang sinabi, Ang minamahal ng Panginoon ay tatahang ligtas sa siping niya; Siya'y kakanlungan niya buong araw, At siya'y mananahan sa pagitan ng kaniyang mga balikat."
 "At tungkol sa Jose ay kaniyang sinabi, Pagpalain nawa ng Panginoon ang kaniyang lupain, Sa mga mahalagang bagay ng langit, sa hamog, At sa kalaliman na nasa ilalim niya,"
 "At sa mga mahalagang bagay na pinatubo ng araw, At sa mga mahalagang bagay na pinatubo ng buwan,"
@@ -18,7 +18,7 @@
 "At tungkol sa Zabulon ay kaniyang sinabi, Magalak ka, Zabulon, sa iyong paglabas; At ikaw, Issachar, sa iyong mga tolda."
 "Kanilang tatawagin ang mga bayan sa bundok; Doo'y maghahandog sila ng mga hain ng katuwiran
 "At tungkol sa Gad, ay kaniyang sinabi, Pagpalain yaong magpalaki sa Gad
-"At kaniyang inagap ang unang bahagi para sa kaniya, Sapagka't doon natago ang bahagi ng gumagawa ng kautusan; At siya'y pumaroong kasama ng mga pangulo ng bayan, Kaniyang isinagawa ang katuwiran ng Panginoon, At ang kaniyang mga kahatulan sa Israel."
+"At kaniyang inagap ang unang bahagi para sa kaniya, Sapagka't doon natago ang bahagi ng gumagawa ng kautusan; At siya'y pumaroong #kasama ng mga pangulo ng bayan, Kaniyang isinagawa ang katuwiran ng Panginoon, At ang kaniyang mga kahatulan sa Israel."
 "At tungkol sa Dan ay kaniyang sinabi, Ang Dan ay anak ng leon, Na lumukso mula sa Basan."
 "At tungkol sa Nephtali ay kaniyang sinabi, Oh Nephtali, busog ng lingap, At puspos ng pagpapala ng Panginoon
 "At tungkol sa Aser ay kaniyang sinabi, Pagpalain nawa sa mga anak ang Aser, Mahalin nawa siya ng kaniyang mga kapatid, At ilubog ang kaniyang paa sa langis."

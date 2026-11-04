@@ -1,4 +1,4 @@
-"Saulus aber hatte seiner Hinrichtung zugestimmt. Und es entstand an jenem Tage eine große Verfolgungüber die Gemeinde zu Jerusalem, und alle zerstreuten sich in die Landschaften von Judäa und Samaria, ausgenommen die Apostel."
+"Saulus aber hatte seiner Hinrichtung zugestimmt. Und es entstand an jenem Tage eine große Verfolgungüber die Gemeinde #zu Jerusalem, und alle zerstreuten sich in die Landschaften von Judäa und Samaria, ausgenommen die Apostel."
 "Den Stephanus aber begruben gottesfürchtige Männer und veranstalteten eine große Trauer um ihn."
 "Saulus aber verwüstete die Gemeinde, drang in die Häuser ein, schleppte Männer und Frauen fort undüberlieferte sie ins Gefängnis."
 "Die nun, welche sich zerstreut hatten, zogen umher und verkündigten das Wort des Evangeliums."
@@ -24,7 +24,7 @@
 "Da antwortete Simon und sprach
 "Sie nun, nachdem sie das Wort des Herrn bezeugt und gelehrt hatten, kehrten nach Jerusalem zurück und predigten das Evangelium in vielen Dörfern der Samariter."
 "Ein Engel des Herrn aber redete zu Philippus und sprach
-"Und er stand auf und machte sich auf den Weg. Und siehe, einÄthiopier, ein Kämmerer und Gewaltiger Kandaces, der Königin derÄthiopier, welcherüber ihren ganzen Schatz gesetzt war, der war gekommen, um in Jerusalem anzubeten;"
+"Und er stand auf und machte sich auf den Weg. Und siehe, einÄthiopier, ein Kämmerer und Gewaltiger Kandaces, #der Königin derÄthiopier, welcherüber ihren ganzen Schatz gesetzt war, der war gekommen, um in Jerusalem anzubeten;"
 "und nun kehrte er zurück und saß auf seinem Wagen und las den Propheten Jesaja."
 "Da sprach der Geist zu Philippus
 "Da lief Philippus hinzu und hörte ihn den Propheten Jesaja lesen; und er sprach

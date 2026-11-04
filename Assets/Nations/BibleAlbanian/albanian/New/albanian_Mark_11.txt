@@ -12,7 +12,7 @@
 "Të nesërmen, kur dolën nga Betania, ai kishte uri."
 "Dhe, duke parë nga larg një fik që kishte gjethe, shkoi për të parë në se mund të gjente diçka atje; por, kur iu afrua, s'gjeti asgjë përveç gjetheve, sepse nuk ishte koha e fiqve."
 "Atëherë Jezusi, duke iu drejtuar fikut, tha
-"Kështu arritën në Jeruzalem. Dhe Jezusi, mbasi hyri në tempull, filloi t'i dëbojë ata që shisnin dhe blinin brenda tempullit dhe përmbysi tavolinat e këmbyesve të parave dhe ndenjëset e shitësve të pëllumbave."
+"Kështu arritën në Jeruzalem. Dhe Jezusi, mbasi hyri në tempull, filloi t'i dëbojë ata që shisnin dhe #blinin brenda tempullit dhe përmbysi tavolinat e këmbyesve të parave dhe ndenjëset e shitësve të pëllumbave."
 "Dhe nuk lejoi asnjë që të mbartte sende nëpër tempull."
 "Dhe i mësonte duke u thënë atyre
 "Tani skribët dhe krerët e priftërinjve kur i dëgjuan këto fjalë kërkonin mënyrën se si ta vrisnin, por kishin frikë prej tij, sepse gjithë turma ishte e mahnitur nga doktrina e tij."

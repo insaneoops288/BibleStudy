@@ -16,6 +16,6 @@
 "Herra, kuin tuska tulee, niin sinua etsitään
 "Niinkuin raskaalla vaimolla, kuin hän synnyttämällänsä on, on ahdistus, ja hän parkuu kivullansa, niin meille myös tapahtuu, Herra, sinun kasvois edessä."
 "Me olemme raskaat ja meillä on kipu, niinkuin tuulen synnyttäväisellä; emme kuitenkaan voi maata auttaa, eikä maan piirin asuvaiset tahtoneet langeta."
-"Mutta sinun kuollees elävät, ja minun kuolleet ruumiini nousevat jälleen kuolleista. Herätkäät ja kerskatkaat te, jotka makaatte maan alla; sillä sinun kastees on viheriäisen kedon kaste, ja maa on kuolleet itsestänsä antava."
+"Mutta sinun kuollees elävät, ja minun kuolleet ruumiini nousevat jälleen kuolleista. Herätkäät ja kerskatkaat te, jotka makaatte #maan alla; sillä sinun kastees on viheriäisen kedon kaste, ja maa on kuolleet itsestänsä antava."
 "Mene, kansani, ja käy sisälle kammioos, ja sulje sinun oves jälkees; lymytä sinus silmänräpäykseksi,niin kauvan kuin viha käy ylitse."
 "Sillä katso, Herra on käyvä ulos siastansa etsimään maan asuvaisten pahuutta heidän päällensä; niin että maa ilmoittaa heidän verensä, ja ei niitä enää peitä, jotka hänessä tapetut ovat."

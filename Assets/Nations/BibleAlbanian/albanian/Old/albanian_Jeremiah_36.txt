@@ -3,11 +3,11 @@
 "Ndofta shtëpia e Judës do të dëgjojë gjithë të keqen që unë mendoj t'u bëj atyre, dhe secili do të tërhiqet nga rruga e tij e keqe, dhe kështu unë do të fal paudhësinë e tyre dhe mëkatin e tyre""."
 "Atëherë Jeremia thirri Barukun, birin e Neriahut, dhe Baruku shkroi mbi një rrotull shkrimi, nën diktimin e Jeremias, tërë fjalët që Zoti i kishte thënë."
 "Pastaj Jeremia i dha këtë urdhër Barukut
-"Prandaj do të shkosh ti të lexosh, nga rrotulla që ke shkruar nën diktimin tim fjalët e Zotit në veshët e popullit në shtëpinë e Zotit, ditën e agjërimit, do t'i lexosh dhe në veshët e tërë atyre të Judës që vijnë nga qytetet e tyre."
+"Prandaj do të shkosh ti të lexosh, nga rrotulla që ke shkruar nën diktimin tim fjalët e Zotit në veshët e popullit në shtëpinë #e Zotit, ditën e agjërimit, do t'i lexosh dhe në veshët e tërë atyre të Judës që vijnë nga qytetet e tyre."
 "Ndofta do t'i paraqesin lutjet e tyre për falje Zotit dhe secili do të tërhiqet nga rruga e tij e keqe, sepse i madh është zemërimi dhe tërbimi që Zoti ka shqiptuar kundër këtij populli""."
 "Baruku, biri i Neriahut, bëri, pra, tërë ato që i kishte urdhëruar profeti Jeremia dhe lexoi nga libri fjalët e Zotit."
-"Në vitin e pestë të Jehojakimit, birit të Josias, mbret i Judës, në muajin e nëntë u shpall një agjërim para Zotit për të gjithë popullin e Jeruzalemit dhe për gjithë popullin e ardhur nga qytetet e Judës në Jeruzalem."
-"Atëherë Baruku lexoi nga libri fjalët e Jeremias në veshët e tërë popullit, në shtëpinë e Zotit, në dhomën e Gemariahut, birit të Shafanit, shkruesit, në oborrin e sipërm, në hyrjen e Portës së Re të shtëpisë së Zotit."
+"Në vitin e pestë të Jehojakimit, birit të Josias, mbret i Judës, në muajin e nëntë u shpall një agjërim para #Zotit për të gjithë popullin e Jeruzalemit dhe për gjithë popullin e ardhur nga qytetet e Judës në Jeruzalem."
+"Atëherë Baruku lexoi nga libri fjalët e Jeremias në veshët e tërë popullit, në shtëpinë e Zotit, në dhomën e #Gemariahut, birit të Shafanit, shkruesit, në oborrin e sipërm, në hyrjen e Portës së Re të shtëpisë së Zotit."
 "Mikajahu, biri i Gemariahut, që ishte bir i Shafanit, dëgjoi tërë fjalët e Zotit që u lexuan nga libri."
 "Zbriti pastaj në shtëpinë e mbretit, në dhomën e shkruesit, dhe ja, aty rrinin ulur tërë princat
 "Mikajahu u tregoi tërë fjalët që kishte dëgjuar, ndërsa Baruku lexonte librin në veshët e popullit."
@@ -28,5 +28,5 @@
 """Merr përsëri një rrotull tjetër dhe shkruaj mbi të tërë fjalët e mëparshme, që ishin në rrotullën e parë të djegur nga Jehojakimi, mbreti i Judës."
 "Dhe Jehojakimit, mbretit të Judës, do t'i thuash
 "Prandaj kështu thotë Zoti për Jehojakimin, mbretin e Judës
-"Unë do ta dënoj atë, pasardhësit e tij dhe shërbëtorët e tij për paudhësinë e tyre dhe do të sjell mbi ta, mbi banorët e Jeruzalemit dhe mbi njerëzit e Judës tërë të keqen që kam shqiptuar kundër tyre, sepse nuk më dëgjuan""."
-"Jeremia pra mori një rrotull tjetër dhe ia dha Barukut, birit të Neriahut, shkruesit, i cili shkroi mbi të, nën diktimin e Jeremias, të gjitha fjalët e librit që Jehojakimi, mbreti i Judës, kishte djegur në zjarr; u shtuan gjithashtu shumë fjalë të tjera të ngjashme me to."
+"Unë do ta dënoj atë, pasardhësit e tij dhe shërbëtorët e tij për paudhësinë e tyre dhe do të sjell mbi ta, #mbi banorët e Jeruzalemit dhe mbi njerëzit e Judës tërë të keqen që kam shqiptuar kundër tyre, sepse nuk më dëgjuan""."
+"Jeremia pra mori një rrotull tjetër dhe ia dha Barukut, birit të Neriahut, shkruesit, i cili shkroi mbi të, nën diktimin e Jeremias, të gjitha #fjalët e librit që Jehojakimi, mbreti i Judës, kishte djegur në zjarr; u shtuan gjithashtu shumë fjalë të tjera të ngjashme me to."

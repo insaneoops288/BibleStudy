@@ -1,5 +1,5 @@
 "CONSOLATE, consolate il mio popolo, dirà il vostro Dio."
-"Parlate al cuor di Gerusalemme, e predicatele che il suo termine è compiuto, che la sua iniquità è quietata; perchè ella ha ricevuto dalla mano del Signore il castigo di tutti i suoi peccati al doppio."
+"Parlate al cuor di Gerusalemme, e predicatele che il suo termine è compiuto, che la sua iniquità è quietata; #perchè ella ha ricevuto dalla mano del Signore il castigo di tutti i suoi peccati al doppio."
 "Vi è una voce d’uno che grida
 "Ogni valle sia alzata, ed ogni monte e colle sia abbassato; e sieno i luoghi distorti ridirizzati, e i luoghi erti ridotti in pianura."
 "E la gloria del Signore si manifesterà, ed ogni carne la vedrà; perciocchè la bocca del Signore ha parlato."
@@ -9,7 +9,7 @@
 "O Sion, che rechi le buone novelle, sali sopra un alto monte; o Gerusalemme, che rechi le buone novelle, alza di forza la tua voce; alzala, non temere; di’ alle città di Giuda
 "Ecco, il Signore Iddio verrà contro al forte, e il suo braccio lo signoreggerà; ecco, la sua mercede è con lui, e la sua opera è dinanzi alla sua faccia."
 "Egli pasturerà la sua greggia, a guisa di pastore; egli si accoglierà gli agnelli in braccio, e li torrà in seno; egli condurrà pian piano le pregne."
-"CHI ha misurate le acque col pugno, e chi ha fatto il conto dello spazio del cielo con la spanna, ed ha compresa la polvere della terra in una misura, ed ha pesati i monti con la stadera, e i colli con la bilancia?"
+"CHI ha misurate le acque col pugno, e chi ha fatto il conto dello spazio del cielo con la spanna, ed ha compresa #la polvere della terra in una misura, ed ha pesati i monti con la stadera, e i colli con la bilancia?"
 "Chi ha addirizzato lo Spirito del Signore? o chi è stato suo consigliere, e chi gli ha insegnata alcuna cosa?"
 "Con chi si è egli consigliato, e chi l’ha avvisato, o chi l’ha ammaestrato nel sentier del giudicio? e chi gli ha insegnata scienza, o mostrata la via degl’intendimenti?"
 "Ecco, le genti sono come una gocciola della secchia, e son reputate come la polvere minuta delle bilance; ecco, egli può trasportar le isole di luogo in luogo, come polvere minuta."
@@ -23,7 +23,7 @@
 "che riduce i principi a niente, e fa che i rettori della terra son come una cosa vana;"
 "come se non fossero pure stati piantati, nè pur seminati, o che il lor ceppo non fosse pure stato radicato in terra; sol che soffi contro a loro, si seccano, e il turbo li porta via come stoppia."
 "A cui dunque mi assomigliereste? o a cui sarei io agguagliato? dice il Santo."
-"Levate ad alto gli occhi vostri, e vedete; chi ha create quelle cose? chi fa uscire l’esercito loro a conto? chi le chiama tutte per nome, per la grandezza della sua forza, e, perciocchè egli è potente in virtù, senza che ne manchi pure una?"
+"Levate ad alto gli occhi vostri, e vedete; chi ha create quelle cose? chi fa uscire l’esercito loro a conto? chi le chiama #tutte per nome, per la grandezza della sua forza, e, perciocchè egli è potente in virtù, senza che ne manchi pure una?"
 "Perchè diresti, o Giacobbe; e perchè, o Israele, parleresti così
 "Non sai tu, non hai tu udito? Il Signore è l’Iddio eterno, che ha create le estremità della terra; egli non si stanca, e non si affatica; il suo intendimento è infinito."
 "Egli dà forza allo stanco, ed accresce vigore a chi è senza forze."

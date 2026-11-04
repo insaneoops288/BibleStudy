@@ -19,7 +19,7 @@
 "se ele tornar a levantar-se e andar fora sobre o seu bordão, então, aquele que o feriu será absolvido; somente lhe pagará o tempo que perdera e o fará curar totalmente."
 "Se alguém ferir a seu servo ou a sua serva com vara, e morrerem debaixo da sua mão, certamente será castigado; {ou vingado}"
 "porém, se ficarem vivos por um ou dois dias, não será castigado, porque é seu dinheiro."
-"Se alguns homens pelejarem, e ferirem uma mulher grávida, e forem causa de que aborte, porém se não houver morte, certamente aquele que feriu será multado conforme o que lhe impuser o marido da mulher e pagará diante dos juízes."
+"Se alguns homens pelejarem, e ferirem uma mulher grávida, e forem causa de que aborte, porém se não houver morte, certamente #aquele que feriu será multado conforme o que lhe impuser o marido da mulher e pagará diante dos juízes."
 "Mas, se houver morte, então, darás vida por vida,"
 "olho por olho, dente por dente, mão por mão, pé por pé,"
 "queimadura por queimadura, ferida por ferida, golpe por golpe."

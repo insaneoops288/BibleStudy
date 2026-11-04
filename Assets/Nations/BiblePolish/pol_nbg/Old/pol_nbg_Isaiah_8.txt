@@ -20,4 +20,4 @@
 "Prawo jest do pomocy! Żeby wam nie mówili takiej rzeczy, w której nie ma jasności."
 "Toteż każdy z nich będzie się tułał, uciemiężony i łaknący; a łaknąc się rozgniewa, złorzecząc królowi, swojemu bóstwu oraz spoglądając ku górze."
 "I spojrzy na ziemię, a tu niedola i pomroka, gęste tumany i zwarta ciemność."
-"Jednak ciemność nie przetrwa na tej, co będzie uciśniona. Poprzedniego czasu Bóg sprowadził poniżenie do ziemi Zebuluna oraz do ziemi Naftalego – lecz w następstwie będzie Czcigodnym na drodze do morza, poza Jardenem, w Galil narodów."
+"Jednak ciemność nie przetrwa na tej, co będzie uciśniona. Poprzedniego czasu Bóg sprowadził poniżenie do ziemi Zebuluna oraz do #ziemi Naftalego – lecz w następstwie będzie Czcigodnym na drodze do morza, poza Jardenem, w Galil narodów."

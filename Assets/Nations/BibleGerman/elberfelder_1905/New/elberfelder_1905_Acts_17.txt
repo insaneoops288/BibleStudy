@@ -2,7 +2,7 @@
 "Nach seiner Gewohnheit aber ging Paulus zu ihnen hinein und unterredete sich an drei Sabbathen mit ihnen aus den Schriften,"
 "indem er eröffnete und darlegte, daß der Christus leiden und aus den Toten auferstehen mußte, und daß dieser, der Jesus, den ich euch verkündige, der Christus ist."
 "Und etliche von ihnen glaubten und gesellten sich zu Paulus und Silas, und von den anbetenden Griechen eine große Menge und der vornehmsten Frauen nicht wenige."
-"Die Juden aber wurden voll Neides und nahmen etliche böse Männer vom Gassenpöbel zu sich, machten einen Volksauflauf und brachten die Stadt in Aufruhr; und sie traten vor das Haus Jasons und suchten sie unter das Volk zu führen."
+"Die Juden aber wurden voll Neides und nahmen etliche böse Männer vom Gassenpöbel zu sich, machten einen Volksauflauf und brachten #die Stadt in Aufruhr; und sie traten vor das Haus Jasons und suchten sie unter das Volk zu führen."
 "Als sie sie aber nicht fanden, schleppten sie Jason und etliche Brüder vor die Obersten der Stadt und riefen
 "welche Jason beherbergt hat; und diese alle handeln wider die Verordnungen des Kaisers, indem sie sagen, daß ein anderer König sei Jesus."
 "Sie beunruhigten aber die Volksmenge und die Obersten der Stadt, als sie dies hörten."
@@ -28,7 +28,7 @@
 "Denn in ihm leben und weben und sind wir, wie auch etliche eurer Dichter gesagt haben
 "Da wir nun Gottes Geschlecht sind, so sollen wir nicht meinen, daß das Göttliche dem Golde oder Silber oder Stein, einem Gebilde der Kunst und der Erfindung des Menschen, gleich sei."
 "Nachdem nun Gott die Zeiten der Unwissenheitübersehen hat, gebietet er jetzt den Menschen, daß sie alle allenthalben Buße tun sollen,"
-"weil er einen Tag gesetzt hat, an welchem er den Erdkreis richten wird in Gerechtigkeit durch einen Mann, den er dazu bestimmt hat, und hat allen den Beweis davon gegeben, indem er ihn auferweckt hat aus den Toten."
+"weil er einen Tag gesetzt hat, an welchem er den Erdkreis richten wird in Gerechtigkeit durch einen Mann, den er #dazu bestimmt hat, und hat allen den Beweis davon gegeben, indem er ihn auferweckt hat aus den Toten."
 "Als sie aber von Totenauferstehung hörten, spotteten die einen, die anderen aber sprachen
 "Also ging Paulus aus ihrer Mitte hinweg."
 "Etliche Männer aber schlossen sich ihm an und glaubten, unter welchen auch Dionysius war, der Areopagit, und ein Weib, mit Namen Damaris, und andere mit ihnen."

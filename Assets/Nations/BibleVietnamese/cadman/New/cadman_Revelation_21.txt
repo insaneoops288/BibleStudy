@@ -17,7 +17,7 @@
 "Người lại đo tường thành
 "Tường thì xây bằng bính ngọc, thành thì xây bằng vàng ròng, tợ như thủy tinh trong vắt."
 "Những nền tường thành thì trang sức đủ thứ ngọc. Nền thứ nhứt, bằng bích ngọc; nền thứ nhì, bằng đá lam bửu; nền thứ ba, bằng lục mã não; nền thứ tư, bằng đá lục cẩm;"
-"nền thứ năm, bằng hồng mã não; nền thứ sáu, bằng đá hoàng ngọc; nền thứ bảy bằng ngọc hoàng bích, nền thứ tám, bằng ngọc thủy thương; nền thứ chín, bằng ngọc hồng bích; nền thứ mười, bằng ngọc phỉ túy; nền thứ mười một, bằng đá hồng bửu; nền thứ mười hai, bằng đá tử bửu."
+"nền thứ năm, bằng hồng mã não; nền thứ sáu, bằng đá hoàng ngọc; nền thứ bảy bằng ngọc hoàng bích, nền thứ tám, bằng ngọc thủy thương; nền thứ #chín, bằng ngọc hồng bích; nền thứ mười, bằng ngọc phỉ túy; nền thứ mười một, bằng đá hồng bửu; nền thứ mười hai, bằng đá tử bửu."
 "Mười hai cửa thì làm bằng mười hai hột châu; mỗi cửa bằng một hột châu nguyên khối làm thành. Ðường trong thành làm bằng vàng ròng, giống như thủy tinh trong suốt."
 "Ở đó, tôi không thấy đền thờ nào; vì Chúa là Ðức Chúa Trời toàn năng và Chiên Con đều là đền thờ của thành."
 "Thành cũng không cần mặt trời, mặt trăng để soi sáng; vì vinh hiển của Ðức Chúa Trời chói lói cho, và Chiên Con là ngọn đèn của thành."

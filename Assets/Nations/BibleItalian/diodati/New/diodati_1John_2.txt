@@ -11,7 +11,7 @@
 "Ma chi odia il suo fratello è nelle tenebre, e cammina nelle tenebre, e non sa ove egli si vada; perciocchè le tenebre gli hanno accecati gli occhi."
 "Figlioletti, io vi scrivo, perciocchè vi son rimessi i peccati per lo nome d’esso."
 "Padri, io vi scrivo, perciocchè avete conosciuto quello che è dal principio. Giovani, io vi scrivo, perciocchè avete vinto il maligno."
-"Fanciulli, io vi scrivo, perciocchè avete conosciuto il Padre. Padri, io vi ho scritto, perciocchè avete conosciuto quello che è dal principio. Giovani, io vi ho scritto, perciocchè siete forti, e la parola di Dio dimora in voi, ed avete vinto il maligno."
+"Fanciulli, io vi scrivo, perciocchè avete conosciuto il Padre. Padri, io vi ho scritto, perciocchè avete conosciuto quello che è dal principio. #Giovani, io vi ho scritto, perciocchè siete forti, e la parola di Dio dimora in voi, ed avete vinto il maligno."
 "Non amate il mondo, nè le cose che son nel mondo; se alcuno ama il mondo, l’amor del Padre non è in lui."
 "Perciocchè tutto quello che è nel mondo
 "E il mondo, e la sua concupiscenza, passa via; ma chi fa la volontà di Dio dimora in eterno."
@@ -24,6 +24,6 @@
 "Quant’è a voi dunque, dimori in voi ciò che avete udito dal principio; se ciò che avete udito dal principio dimora in voi, ancora voi dimorerete nel Figliuolo, e nel Padre."
 "E questa è la promessa, ch’egli ci ha fatta, cioè
 "Io vi ho scritte queste cose intorno a coloro che vi seducono."
-"Ma, quant’è a voi, l’unzione che avete ricevuta da lui dimora in voi, e non avete bisogno che alcuno v’insegni; ma, come la stessa unzione v’insegna ogni cosa, ed essa è verace, e non è menzogna; dimorate in esso, come quella vi ha insegnato."
+"Ma, quant’è a voi, l’unzione che avete ricevuta da lui dimora in voi, e non avete bisogno che alcuno v’insegni; ma, come la #stessa unzione v’insegna ogni cosa, ed essa è verace, e non è menzogna; dimorate in esso, come quella vi ha insegnato."
 "Ora dunque, figlioletti, dimorate in lui, acciocchè, quando egli sarà apparito, abbiam confidanza, e non siamo confusi per la sua presenza, nel suo avvenimento."
 "Se voi sapete ch’egli è giusto, sappiate che chiunque opera la giustizia è nato da lui."

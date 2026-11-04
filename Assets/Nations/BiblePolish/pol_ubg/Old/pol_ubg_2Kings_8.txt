@@ -26,4 +26,4 @@
 "Achazjasz miał dwadzieścia dwa lata, kiedy zaczął królować, i królował jeden rok w Jerozolimie. Jego matka miała na imię Atalia i była córką Omriego, króla Izraela."
 "Szedł on drogą domu Achaba i czynił to, co złe w oczach PANA, jak dom Achaba. Był bowiem zięciem domu Achaba."
 "Wyruszył z Joramem, synem Achaba, na wojnę z Chazaelem, królem Syrii, do Ramot-Gilead, ale Syryjczycy zranili Jorama."
-"Król Joram wrócił więc, aby się leczyć w Jizreel z ran, które mu zadali Syryjczycy w Rama, gdy walczył z Chazaelem, królem Syrii. I Achazjasz, syn Jorama, króla Judy, przybył odwiedzić Jorama, syna Achaba, w Jizreel, ponieważ był chory."
+"Król Joram wrócił więc, aby się leczyć w Jizreel z ran, które mu zadali Syryjczycy w Rama, gdy walczył z #Chazaelem, królem Syrii. I Achazjasz, syn Jorama, króla Judy, przybył odwiedzić Jorama, syna Achaba, w Jizreel, ponieważ był chory."

@@ -1,6 +1,6 @@
 "După două zile era [sărbătoarea ]paștelui și a azimelor; și preoții de seamă și scribii căutau cum să îl prindă prin viclenie să [îl] ucidă."
 "Dar spuneau
-"Și fiind [el] în Betania, în casa lui Simon leprosul, pe când ședea el la masă, a venit o femeie având un vas de alabastru cu ulei parfumat de mir de nard curat, foarte prețios; și a spart vasul și a turnat [mirul] pe capul lui."
+"Și fiind [el] în Betania, în casa lui Simon leprosul, pe când ședea el la masă, a venit o femeie având un vas de #alabastru cu ulei parfumat de mir de nard curat, foarte prețios; și a spart vasul și a turnat [mirul] pe capul lui."
 "Și erau unii supărați în ei înșiși și spuneau
 "Fiindcă acesta s-ar fi putut vinde pe mai mult de trei sute de dinari și s-ar fi dat [banii] la săraci. Și cârteau împotriva ei."
 "Dar Isus a spus

@@ -12,7 +12,7 @@
 "I nazwali Barnabę Jowiszem, a Pawła Merkurym, ponieważ on był głównym mówcą."
 "Wtedy kapłan ze świątyni Jowisza, która była przed miastem, przyprowadził do wrót woły i wieńce i razem z ludem chciał złożyć ofiarę."
 "Gdy usłyszeli o tym apostołowie Barnaba i Paweł, rozdarli swoje szaty i wpadli między tłum, wołając;"
-"Ludzie, co robicie? My też jesteśmy ludźmi, podlegamy tym samym doznaniom co wy. Głosimy wam, abyście się odwrócili od tych marności do Boga żywego, który stworzył niebo, ziemię, morze i wszystko, co się w nich znajduje."
+"Ludzie, co robicie? My też jesteśmy ludźmi, podlegamy tym samym doznaniom co wy. Głosimy wam, abyście się odwrócili od #tych marności do Boga żywego, który stworzył niebo, ziemię, morze i wszystko, co się w nich znajduje."
 "Za czasów minionych pozwalał on, aby wszystkie narody chodziły własnymi drogami."
 "Nie przestawał jednak dawać o sobie świadectwa, czyniąc dobrze. Zsyłał nam z nieba deszcz i urodzajne lata, karmił nas i napełniał radością nasze serca."
 "Tymi słowami ledwie powstrzymali lud od złożenia im ofiary."

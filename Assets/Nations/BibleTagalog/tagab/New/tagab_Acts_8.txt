@@ -1,4 +1,4 @@
-"At si Saulo ay sumangayon sa kaniyang pagkamatay. At nang araw na yao'y nangyari ang isang malaking paguusig laban sa iglesia na nasa Jerusalem; at silang lahat ay nagsipangalat sa lahat ng mga dako ng Judea at Samaria, maliban na sa mga apostol."
+"At si Saulo ay sumangayon sa kaniyang pagkamatay. At nang araw na yao'y nangyari ang isang malaking paguusig laban sa iglesia na #nasa Jerusalem; at silang lahat ay nagsipangalat sa lahat ng mga dako ng Judea at Samaria, maliban na sa mga apostol."
 "At inilibing si Esteban ng mga taong masipag sa kabanalan, at siya'y tinangisan ng di kawasa."
 "Datapuwa't pinuksa ni Saulo ang iglesia, na pinapasok ang bahay-bahay, at kinakaladkad ang mga lalake't mga babae, at sila'y ipinapasok sa bilangguan."
 "Ang mga nagsipangalat nga ay nagsipaglakbay, na ipinangangaral ang salita."
@@ -29,7 +29,7 @@
 "At sinabi kay Felipe ng Espiritu, Lumapit ka, at makisama sa karong ito."
 "At tumakbo si Felipeng patungo sa kaniya, at napakinggan niyang binabasa si Isaias na propeta, at sinabi, Nauunawa mo baga ang binabasa mo?"
 "At sinabi niya, Paanong magagawa ko, maliban nang may pumatnubay sa aking sinoman? At pinakiusapan niya si Felipe na pumanhik at maupong kasama niya."
-"Ang dako nga ng kasulatan na binabasa niya ay ito, Siya'y gaya ng tupa na dinala sa patayan; At kung paanong hindi umimik ang kordero sa harap ng manggugupit sa kaniya, Gayon din hindi niya binubuka ang kaniyang bibig
+"Ang dako nga ng kasulatan na binabasa niya ay ito, Siya'y gaya ng tupa na dinala sa patayan; At kung #paanong hindi umimik ang kordero sa harap ng manggugupit sa kaniya, Gayon din hindi niya binubuka ang kaniyang bibig
 "Sa kaniyang pagpapakababa'y inalis ang kaniyang paghuhukom. Sino ang maghahayag ng kaniyang lahi? Sapagka't inalis sa lupa ang kaniyang buhay."
 "At sumagot ang bating kay Felipe, at sinabi, Ipinamamanhik ko sa iyo, kanino sinasabi ng propeta ito? sa kaniya bagang sarili, o sa alin mang iba?"
 "At binuka ni Felipe ang kaniyang bibig, at pagpapasimula sa kasulatang ito, ay ipinangaral sa kaniya si Jesus."

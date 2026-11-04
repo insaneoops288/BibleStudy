@@ -19,7 +19,7 @@
 "I ukażę cuda na niebie w górze i znamiona na ziemi nisko, krew, i ogień, i parę dymu."
 "Słońce się obróci w ciemność, a księżyc w krew, przedtem niż przyjdzie on dzień Pański wielki i znaczny."
 "I stanie się, że ktobykolwiek wzywał imienia Pańskiego, zbawion będzie."
-"Mężowie Izraelscy! słuchajcie słów tych Jezusa, onego Nazareńskiego, męża od Boga wsławionego u was mocami i cudami, i znamionami, które czynił Bóg przez niego w pośrodku was, jako i wy sami wiecie;"
+"Mężowie Izraelscy! słuchajcie słów tych Jezusa, onego Nazareńskiego, męża od Boga wsławionego u was mocami i cudami, #i znamionami, które czynił Bóg przez niego w pośrodku was, jako i wy sami wiecie;"
 "Tego za ułożoną radą i przejrzeniem Bożem wydanego wziąwszy, a przez ręce niezbożników ukrzyżowawszy, zabiliście."
 "Którego Bóg wzbudził, rozwiązawszy boleści śmierci, jakoż było to niepodobne, aby od niej miał być zatrzymany."
 "Albowiem o nim mówi Dawid

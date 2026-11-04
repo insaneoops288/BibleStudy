@@ -15,7 +15,7 @@
 "Und die Söhne Kalebs, des Sohnes Jephunnes
 "Und die Söhne Jehallelels
 "Und die Söhne Esras
-"Und sein Weib, die Jüdin, gebar Jered, den Vater Gedors, und Heber, den Vater Sokos, und Jekuthiel, den Vater Sanoachs. Und dies sind die Söhne der Bithja, der Tochter des Pharao, welche Mered genommen hatte.-"
+"Und sein Weib, die Jüdin, gebar Jered, den Vater Gedors, und Heber, den Vater Sokos, und Jekuthiel, den #Vater Sanoachs. Und dies sind die Söhne der Bithja, der Tochter des Pharao, welche Mered genommen hatte.-"
 "Und die Söhne des Weibes Hodijas, der Schwester Nachams
 "Und die Söhne Schimons
 "Die Söhne Schelas, des Sohnes Judas
@@ -38,6 +38,6 @@
 "diese mit Namen Angeführten waren Fürsten in ihren Geschlechtern; und ihre Vaterhäuser breiteten sich aus in Menge."
 "Und sie zogen bis nach Gedor hin, bis an die Ostseite des Tales, um Weide für ihr Kleinvieh zu suchen."
 "Und sie fanden eine fette und gute Weide, und ein Land, weit nach allen Seiten hin, und ruhig und still; denn die vordem dort gewohnt hatten, waren von Ham."
-"Und diese mit Namen Aufgeschriebenen kamen in den Tagen Hiskias, des Königs von Juda, und sie schlugen ihre Zelte und die Meuniter, welche sich daselbst befanden; und sie verbannten sie bis auf diesen Tag und wohnten an ihrer Statt; denn daselbst war Weide für ihr Kleinvieh.-"
+"Und diese mit Namen Aufgeschriebenen kamen in den Tagen Hiskias, des Königs von Juda, und sie schlugen ihre Zelte und die Meuniter, welche sich #daselbst befanden; und sie verbannten sie bis auf diesen Tag und wohnten an ihrer Statt; denn daselbst war Weide für ihr Kleinvieh.-"
 "Und von ihnen, von den Söhnen Simeons, zogen fünfhundert Männer zum Gebirge Seir hin; und Pelatja und Nearja und Rephaja und Ussiel, die Söhne Jischeis, waren an ihrer Spitze;"
 "und sie schlugen denÜberrest, die Entronnenen von Amalek, und haben daselbst gewohnt bis auf diesen Tag."

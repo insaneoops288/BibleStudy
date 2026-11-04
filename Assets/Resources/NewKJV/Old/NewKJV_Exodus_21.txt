@@ -5,7 +5,7 @@
 "But if the servant plainly says, 'I love my master, my wife, and my children; I will not go out free,'
 "then his master shall bring him to the judges. He shall also bring him to the door, or to the doorpost, and his master shall pierce his ear with an awl; and he shall serve him forever.
 "And if a man sells his daughter to be a female slave, she shall not go out as the male slaves do.
-"If she does not please her master, who has betrothed her to himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has dealt deceitfully with her.
+"If she does not please her master, who has betrothed her to himself, then he shall let her be redeemed. #He shall have no right to sell her to a foreign people, since he has dealt deceitfully with her.
 "And if he has betrothed her to his son, he shall deal with her according to the custom of daughters.
 "If he takes another wife, he shall not diminish her food, her clothing, and her marriage rights.
 "And if he does not do these three for her, then she shall go out free, without paying money.
@@ -19,14 +19,14 @@
 "if he rises again and walks about outside with his staff, then he who struck him shall be acquitted. He shall only pay for the loss of his time, and shall provide for him to be thoroughly healed.
 "And if a man beats his male or female servant with a rod, so that he dies under his hand, he shall surely be punished.
 "Notwithstanding, if he remains alive a day or two, he shall not be punished; for he is his property.
-"If men fight, and hurt a woman with child, so that she gives birth prematurely, yet no harm follows, he shall surely be punished accordingly as the woman's husband imposes on him; and he shall pay as the judges determine.
+"If men fight, and hurt a woman with child, so that she gives birth prematurely, yet no harm follows, he shall #surely be punished accordingly as the woman's husband imposes on him; and he shall pay as the judges determine.
 "But if any harm follows, then you shall give life for life,
 "eye for eye, tooth for tooth, hand for hand, foot for foot,
 "burn for burn, wound for wound, stripe for stripe.
 "If a man strikes the eye of his male or female servant, and destroys it, he shall let him go free for the sake of his eye.
 "And if he knocks out the tooth of his male or female servant, he shall let him go free for the sake of his tooth.
 "If an ox gores a man or a woman to death, then the ox shall surely be stoned, and its flesh shall not be eaten; but the owner of the ox shall be acquitted.
-"But if the ox tended to thrust with its horn in times past, and it has been made known to his owner, and he has not kept it confined, so that it has killed a man or a woman, the ox shall be stoned and its owner also shall be put to death.
+"But if the ox tended to thrust with its horn in times past, and it has been made known to his owner, and he has not kept #it confined, so that it has killed a man or a woman, the ox shall be stoned and its owner also shall be put to death.
 "If there is imposed on him a sum of money, then he shall pay to redeem his life, whatever is imposed on him.
 "Whether it has gored a son or gored a daughter, according to this judgment it shall be done to him.
 "If the ox gores a male or female servant, he shall give to their master thirty shekels of silver, and the ox shall be stoned.

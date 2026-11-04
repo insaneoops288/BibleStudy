@@ -3,7 +3,7 @@
 "krerët e bijve të Amonit i thanë Hanunit, zotërisë së tyre
 "Atëherë Hanuni i zuri shërbëtorët e Davidit, i detyroi të rruajnë gjysmën e mjekrës dhe të presin për gjysmë rrobat e tyre deri në vithe, pastaj i la të shkojnë."
 "I informuar për këtë ngjarje, Davidi dërgoi disa persona për t'i takuar, sepse këta njerëz e ndjenin veten shumë të turpëruar. Mbreti dërgoi t'u thonë
-"Kur bijtë Amonit e kuptuan që ishin bërë të urryer për Davidin, dërguan të rekrutojnë njëzet mijë këmbësorë te Sirët e Beth-Rehobit dhe te Sirët e Tsobas, një mijë njerëz të mbretit të Maakahut dhe dymbëdhjetë mijë nga njerëzit e Tobit."
+"Kur bijtë Amonit e kuptuan që ishin bërë të urryer për Davidin, dërguan të rekrutojnë njëzet mijë këmbësorë te Sirët e #Beth-Rehobit dhe te Sirët e Tsobas, një mijë njerëz të mbretit të Maakahut dhe dymbëdhjetë mijë nga njerëzit e Tobit."
 "Me të dëgjuar këtë lajm, Davidi dërgoi kundër tyre Joabin me gjithë ushtrinë e njerëzve trima."
 "Bijtë e Amonit dolën dhe u renditën për betejë në hyrjen e portës së qytetit, ndërsa Sirët e Tsobas dhe të Rehobit, dhe njerëzit e Tobit dhe të Maakahut u rreshtuan në fushë të hapur."
 "Kur Joabi e kuptoi se kundër tij ishin dy fronte beteje, njeri nga përpara dhe tjetri nga prapa, ai zgjodhi disa nga njerëzit më të mirë të Izraelit dhe i renditi për betejë kundër Sirëve;"

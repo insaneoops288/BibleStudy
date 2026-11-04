@@ -15,7 +15,7 @@
 "Zaś on nauczał w ich bóżnicach, chwalony przez wszystkich."
 "Przyszedł także do Nazaretu, gdzie był wychowany i według swojego zwyczaju w dniu szabatu wszedł do bóżnicy, i wstał odczytać Pismo."
 "A został mu podany zwój proroka Izajasza. Zatem rozwinął zwój i napotkał miejsce gdzie było napisane
-"Duch Pana we mnie gdzie mnie namaścił, by biednym opowiadać Dobrą Nowinę; i mnie wysłał, by uzdrawiać skruszone serca; jeńcom zwiastować wyzwolenie, a ślepym przejrzenie, by strzaskanych odesłać na odpuszczenie;"
+"Duch Pana we mnie gdzie mnie namaścił, by biednym opowiadać Dobrą Nowinę; i mnie wysłał, by #uzdrawiać skruszone serca; jeńcom zwiastować wyzwolenie, a ślepym przejrzenie, by strzaskanych odesłać na odpuszczenie;"
 "i ogłosić mile widziany okres czasu Pana."
 "I zwinął zwój, oddał go słudze oraz usiadł; a oczy wszystkich w bóżnicy były w niego wpatrzone."
 "Więc zaczął do nich mówić

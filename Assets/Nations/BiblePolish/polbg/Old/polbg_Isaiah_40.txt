@@ -23,7 +23,7 @@
 "Tenci książąt w niwecz obraca, sędziów ziemskich jako nic rozprasza."
 "Że nie bywają szczepieni ani wsiani, ani się też wkorzeni w ziemi pień ich; i jako jedno powienie na nich, wnet usychają, a wicher jako źdźbło unosi ich."
 "Komuż mię tedy przyrównacie, abym mu był podobny? mówi Święty."
-"Podnieście ku górze oczy wasze, a obaczcie! Kto to stworzył? kto wywiódł w poczcie wojsko ich, a to wszystko z imienia przyzywa, według wielkości siły, i wielkiej mocy, tak, że ani jedno z nich nie zginie?"
+"Podnieście ku górze oczy wasze, a obaczcie! Kto to stworzył? kto wywiódł w poczcie wojsko ich, a to wszystko #z imienia przyzywa, według wielkości siły, i wielkiej mocy, tak, że ani jedno z nich nie zginie?"
 "Przeczże tedy powiadasz, Jakóbie! przeczże tak mówisz Izraelu
 "Izali nie wiesz? izaliś nie słyszał, że Bóg wieczny Pan, który stworzył granice ziemi, nie ustanie, ani się spracuje, i że nie może być dościgniona mądrość jego?"
 "Który dodaje spracowanemu siły, a tego, który nie ma żadnej siły, moc rozmnaża."

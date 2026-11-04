@@ -6,7 +6,7 @@
 "Hetsroni, prej të cilit rrjedh familja e Hetsronitëve; Karmi, prej të cilit rrjedh familja e Karmitëve."
 "Këto janë familjet e Rubenitëve; ata që u regjistruan në radhët e tyre qenë dyzet e tre mijë e shtatëqind e tridhjetë veta."
 "I biri i Palus ishte Eliabi."
-"Djemtë e Eliabit qenë Nemueli, Dathani dhe Abirami. Këta janë po ai Datham dhe ai Abiram, anëtarë të këshillit, që ngritën krye kundër Moisiut dhe Aaronit së bashku me njerëzit e Koreut, kur ngritën krye kundër Zotit;"
+"Djemtë e Eliabit qenë Nemueli, Dathani dhe Abirami. Këta janë po ai Datham dhe ai Abiram, anëtarë të këshillit, #që ngritën krye kundër Moisiut dhe Aaronit së bashku me njerëzit e Koreut, kur ngritën krye kundër Zotit;"
 "dhe toka hapi gojën e saj dhe i gëlltiti bashkë me Koreun, kur këta njerëz vdiqën dhe zjarri përpiu dyqind e pesëdhjetë njerëz në shenjë qortimi."
 "Por bijtë e Koreut nuk vdiqën."
 "Bijtë e Simeonit simbas familjeve të tyre qenë
@@ -51,7 +51,7 @@
 "Ata që u regjistruan nga bijtë e Izraelit qenë
 "Atëherë Zoti i foli Moisiut, duke i thënë
 """Vendi do të ndahet midis tyre si trashëgimi, simbas numrit të personave."
-"Atyre që janë më të shumtë do t'u japësh në trashëgimi një pjesë më të madhe; atyre që janë në numër më të vogël do t'u japësh një pjesë më të vogël; secili do të marrë pjesën e tij në bazë të regjistrimit."
+"Atyre që janë më të shumtë do t'u japësh në trashëgimi një pjesë më të madhe; atyre që janë në numër më #të vogël do t'u japësh një pjesë më të vogël; secili do të marrë pjesën e tij në bazë të regjistrimit."
 "Por ndarja e vendit do të bëhet me short; ata do të marrin trashëgiminë e tyre në bazë të emrave të fiseve atërore."
 "Ndarja e trashëgimisë do të bëhet me short midis të gjitha fiseve të mëdha ose të vogla."
 "Dhe këta qenë ata që u regjistruan nga Levitët, simbas familjeve të tyre
@@ -59,7 +59,7 @@
 "Gruaja e Amramit quhej Jokebed; ishte bijë e Levit dhe i kishte lindur Levit në Egjipt; në Amram ajo lindi Aaronin, Moisiun dhe Miriamin, motrën e tyre."
 "Aaronit i lindën Nadabi dhe Abihuri, Eleazari dhe Ithamari."
 "Por Nadabi dhe Abihu vdiqën kur i paraqitën Zotit një zjarr të palejueshëm."
-"Ata që u regjistruan në radhët e tyre qenë njëzet e tre mijë veta; të gjithë ishin meshkuj me moshë një muajsh e lart. Ata nuk u regjistruan bashkë me bijtë e tjerë të Izraelit, sepse atyre nuk iu dha asnjë trashëgimi midis bijve të Izraelit."
+"Ata që u regjistruan në radhët e tyre qenë njëzet e tre mijë veta; të gjithë ishin meshkuj me moshë një muajsh e lart. #Ata nuk u regjistruan bashkë me bijtë e tjerë të Izraelit, sepse atyre nuk iu dha asnjë trashëgimi midis bijve të Izraelit."
 "Këta janë ata që u regjistruan nga Moisiu dhe nga prifti Eleazar, që regjistruan bijtë e Izraelit në fushat e Moabit, pranë Jordanit, në bregun përballë Jerikos."
 "Midis tyre nuk kishte asnjë nga ata që u regjistruan nga Moisiu dhe nga prifti Aaron, kur ata regjistruan bijtë e Izaelit në shkretëtirën e Sinait,"
 "sepse Zoti pat thënë për ata

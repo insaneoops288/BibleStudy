@@ -15,4 +15,4 @@
 "Ngày ấy là ngày thạnh nộ, ngày hoạn nạn và buồn rầu, ngày hủy phá và hoang vu, ngày tối tăm và mờ mịt, ngày mây và sương mù,"
 "ngày mà tiếng kèn và tiếng báo giặc nghịch cùng các thành bền vững và các tháp cao góc thành."
 "Ta sẽ đem sự hoạn nạn trên loài người, chúng nó sẽ đi như kẻ mù, vì đã phạm tội nghịch cùng Ðức Giê-hô-va; máu chúng nó sẽ đổ ra như bụi, và thịt như phân."
-"Hoặc bạc hoặc vàng của chúng nó, đều không có thể giải cứu chúng nó trong ngày thạnh nộ của Ðức Giê-hô-va; nhưng cả đất nầy sẽ bị lửa ghen Ngài thiêu nuốt; vì Ngài sẽ diệt hết dân cư đất nầy cách thình lình."
+"Hoặc bạc hoặc vàng của chúng nó, đều không có thể giải cứu chúng nó trong ngày thạnh nộ của Ðức Giê-hô-va; nhưng #cả đất nầy sẽ bị lửa ghen Ngài thiêu nuốt; vì Ngài sẽ diệt hết dân cư đất nầy cách thình lình."

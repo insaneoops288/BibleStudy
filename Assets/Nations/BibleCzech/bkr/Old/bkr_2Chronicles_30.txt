@@ -5,8 +5,8 @@
 "A usoudili, aby provolati dali po všem Izraeli, od Bersabé až do Dan, aby přišli k slavení velikonoci Hospodinu Bohu Izraelskému do Jeruzaléma; nebo již byli dávno neslavili tak, jakž psáno jest."
 "Protož šli poslové s listy od krále a od knížat jeho po vší zemi Izraelské a Judské s rozkazem královským tímto
 "A nebývejte jako otcové vaši a bratří vaši, kteříž převráceně činili proti Hospodinu Bohu otců svých, pročež dal je v zpuštění, jakž sami vidíte."
-"Nyní tedy nezatvrzujte šijí svých tak, jako otcové vaši. Podejte ruky Hospodinu, a poďte do svatyně jeho, kteréž posvětil na věky, a služte Hospodinu Bohu svému, a odvrátí se od vás hněv prchlivosti jeho."
-"Nebo obrátíte-li se k Hospodinu, bratří vaši i synové vaši milosrdenství obdrží u těch, kteříž je zjímali, tak že se navrátí do země této. Milosrdný zajisté a dobrotivý jest Hospodin Bůh váš, aniž odvrátí tváři od vás, jestliže se obrátíte k němu."
+"Nyní tedy nezatvrzujte šijí svých tak, jako otcové vaši. Podejte ruky Hospodinu, a poďte do svatyně jeho, kteréž #posvětil na věky, a služte Hospodinu Bohu svému, a odvrátí se od vás hněv prchlivosti jeho."
+"Nebo obrátíte-li se k Hospodinu, bratří vaši i synové vaši milosrdenství obdrží u těch, kteříž je zjímali, tak že se navrátí do #země této. Milosrdný zajisté a dobrotivý jest Hospodin Bůh váš, aniž odvrátí tváři od vás, jestliže se obrátíte k němu."
 "Když pak ti poslové chodili z města do města po kraji Efraim a Manasse až do Zabulon, posmívali se a utrhali jim."
 "Ale však někteří z Asser, Manasses a Zabulon, poníživše se, přišli do Jeruzaléma."
 "V Judstvu tolikéž byla ruka Boží, tak že jim dal srdce jedno k vykonání rozkazu králova a knížat, podlé slova Hospodinova."

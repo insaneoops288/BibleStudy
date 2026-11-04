@@ -3,7 +3,7 @@
 "Et tous ôtèrent les anneaux d'or qui étaient à leurs oreilles, et ils les apportèrent à Aaron."
 "Il les reçut de leurs mains, jeta l'or dans un moule, et fit un veau en fonte. Et ils dirent
 "Lorsqu'Aaron vit cela, il bâtit un autel devant lui, et il s'écria
-"Le lendemain, ils se levèrent de bon matin, et ils offrirent des holocaustes et des sacrifices d'actions de grâces. Le peuple s'assit pour manger et pour boire; puis ils se levèrent pour se divertir."
+"Le lendemain, ils se levèrent de bon matin, et ils offrirent des holocaustes et des sacrifices d'actions de #grâces. Le peuple s'assit pour manger et pour boire; puis ils se levèrent pour se divertir."
 "L'Eternel dit à Moïse
 "Ils se sont promptement écartés de la voie que je leur avais prescrite; ils se sont fait un veau en fonte, ils se sont prosternés devant lui, ils lui ont offert des sacrifices, et ils ont dit
 "L'Eternel dit à Moïse

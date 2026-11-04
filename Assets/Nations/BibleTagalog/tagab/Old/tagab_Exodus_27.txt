@@ -8,7 +8,7 @@
 "Gagawin mo ang dambana na kuluong sa pamamagitan ng mga tabla kung paano ang ipinakita sa iyo sa bundok, ay gayon gagawin nila."
 "At iyong gagawin ang looban ng tabernakulo
 "At ang ihahaligi doo'y dalawang pu, at ang mga tungtungan ng mga yaon ay dalawang pu na tanso; ang mga sima ng mga haligi at ang mga pilete niyaon ay pilak."
-"At gayon din sa tagilirang dakong hilagaan, sa kahabaan ay magkakaroon ng mga tabing na may isang daang siko ang haba, at ang mga haligi ng mga yaon ay dalawangpu, at ang mga tungtungan ng mga yaon ay dalawangpu na tanso; ang mga sima ng mga haligi at ang mga pilete ng mga yaon ay pilak."
+"At gayon din sa tagilirang dakong hilagaan, sa kahabaan ay magkakaroon ng mga tabing na may isang daang siko ang haba, at ang mga haligi ng mga yaon ay #dalawangpu, at ang mga tungtungan ng mga yaon ay dalawangpu na tanso; ang mga sima ng mga haligi at ang mga pilete ng mga yaon ay pilak."
 "At sa kaluwangan ng looban sa kalunuran ay magkakaroon ng mga tabing na may limangpung siko
 "At sa kaluwangan ng looban sa dakong silanganan, sa dakong sinisikatan ng araw, ay magkakaroon ng limangpung siko."
 "Ang mga tabing sa isang dako ng pintuang-daan ay magkakaroon ng labinglimang siko

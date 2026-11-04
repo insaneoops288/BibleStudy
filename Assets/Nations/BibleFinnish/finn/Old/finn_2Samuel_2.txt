@@ -10,7 +10,7 @@
 "Ja Isboset Saulin poika oli neljänkymmenen ajastaikainen, kuin hän tuli Israelin kuninkaaksi, ja hallitsi kaksi ajastaikaa; ainoastaan Juudan huone piti Davidin kanssa."
 "Ja se aika, jonka David oli Hebronissa Juudan huoneen kuninkaana, oli seitsemän ajastaikaa ja kuusi kuukautta."
 "Ja Abner Nerin poika läksi ulos Isbosetin Saulin pojan palveliain kanssa Mahanaimista Gibeoniin."
-"Ja Joab, Zerujan poika, ja Davidin palveliat läksivät ulos, ja he kohtasivat toisensa Gibeonin lammikon tykönä, ja seisoivat toinen toistansa vastaan, nämät tällä puolella ja toiset toisella puolella lammikkoa."
+"Ja Joab, Zerujan poika, ja Davidin palveliat läksivät ulos, ja he kohtasivat toisensa Gibeonin lammikon #tykönä, ja seisoivat toinen toistansa vastaan, nämät tällä puolella ja toiset toisella puolella lammikkoa."
 "Ja Abner sanoi Joabille
 "Niin he nousivat ja kävivät kaksitoistakymmentä BenJaminin luvusta Isbosetin Saulin pojan puolelta, ja kaksitoistakymmentä Davidin palvelioista edes."
 "Ja jokainen heistä otti toinen toisensa kiinni kaulasta, ja pistivät miekkansa kylkiin, ja lankesivat toinen toisensa kanssa maahan. Siitä kutsutaan se paikka Helkat-Hatsurim, joka on Gibeonissa."
@@ -20,7 +20,7 @@
 "Niin Abner katsoi taaksensa ja sanoi
 "Ja Abner sanoi
 "Niin Abner taas puhui Asahelille
-"Mutta hän ei paennut; ja Abner pisti häntä takamaisella puolella keihäästä hänen vatsaansa, niin että keihäs kävi takaa ulos, ja hän lankesi siihen ja kuoli hänen eteensä. Ja jokainen, joka siihen paikkaan tuli, kussa Asahel kaatunut ja kuolleena oli, seisahti siihen."
+"Mutta hän ei paennut; ja Abner pisti häntä takamaisella puolella keihäästä hänen vatsaansa, niin että keihäs kävi takaa ulos, ja hän #lankesi siihen ja kuoli hänen eteensä. Ja jokainen, joka siihen paikkaan tuli, kussa Asahel kaatunut ja kuolleena oli, seisahti siihen."
 "Mutta Joab ja Abisai ajoivat Abneria takaa siihen asti kuin päivä laski. Ja kuin he tulivat Amman kukkulalle, joka on Gian tykönä, Gibeonin korven tiellä,"
 "Silloin tulivat BenJaminin lapset Abnerin takaa kokoon ja kokosivat itsensä yhteen joukkoon, ja seisahtivat mäen kukkulalle."
 "Ja Abner huusi Joabia ja sanoi

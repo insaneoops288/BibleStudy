@@ -6,7 +6,7 @@
 "Fazei isto
 "e, pondo fogo neles amanhã, sobre eles deitai incenso perante o SENHOR; e será que o homem a quem o SENHOR escolher, este será o santo; baste-vos, filhos de Levi."
 "Disse mais Moisés a Corá
-"Porventura, pouco para vós é que o Deus de Israel vos separou da congregação de Israel para vos fazer chegar a si, a administrar o ministério do tabernáculo do SENHOR e estar perante a congregação para ministrar-lhe;"
+"Porventura, pouco para vós é que o Deus de Israel vos separou da congregação de Israel para vos fazer #chegar a si, a administrar o ministério do tabernáculo do SENHOR e estar perante a congregação para ministrar-lhe;"
 "e te fez chegar e todos os teus irmãos, os filhos de Levi, contigo; ainda também procurais o sacerdócio?"
 "Pelo que tu e toda a tua congregação congregados estais contra o SENHOR; e Arão, que é ele, que murmurais contra ele?"
 "E Moisés enviou a chamar a Datã e a Abirão, filhos de Eliabe; porém eles disseram
@@ -35,9 +35,9 @@
 "Então, saiu fogo do SENHOR e consumiu os duzentos e cinquenta homens que ofereciam o incenso."
 "E falou o SENHOR a Moisés, dizendo
 "Diz a Eleazar, filho de Arão, o sacerdote, que tome os incensários do meio do incêndio e espalhe o fogo longe, porque santos são;"
-"quanto aos incensários daqueles que pecaram contra a sua alma, deles se façam folhas estendidas para cobertura do altar; porquanto os trouxeram perante o SENHOR; pelo que santos são e serão por sinal aos filhos de Israel."
+"quanto aos incensários daqueles que pecaram contra a sua alma, deles se façam folhas estendidas para cobertura do altar; #porquanto os trouxeram perante o SENHOR; pelo que santos são e serão por sinal aos filhos de Israel."
 "E Eleazar, o sacerdote, tomou os incensários de metal, que trouxeram aqueles que foram queimados, e os estenderam para cobertura do altar,"
-"por memorial para os filhos de Israel, para que nenhum estranho, que não for da semente de Arão, se chegue para acender incenso perante o SENHOR; para que não seja como Corá e a sua congregação, como o SENHOR lhe tinha dito pela boca de Moisés."
+"por memorial para os filhos de Israel, para que nenhum estranho, que não for da semente de Arão, se chegue para acender incenso perante #o SENHOR; para que não seja como Corá e a sua congregação, como o SENHOR lhe tinha dito pela boca de Moisés."
 "Mas, no dia seguinte, toda a congregação dos filhos de Israel murmurou contra Moisés e contra Arão, dizendo
 "E aconteceu que, ajuntando-se a congregação contra Moisés e Arão e virando-se para a tenda da congregação, eis que a nuvem a cobriu, e a glória do SENHOR apareceu."
 "Vieram, pois, Moisés e Arão perante a tenda da congregação."

@@ -11,7 +11,7 @@
 "Kundi aariin ng ibong pelikano at ng hayop na erizo; at ang kuwago at ang uwak ay magsisitahan doon
 "Kanilang tatawagin ang mga mahal na tao niyaon sa kaharian, nguni't mawawalan doon; at lahat niyang mga pangulo ay magiging parang wala."
 "At mga tinikan ay tutubo sa kaniyang mga palacio, mga kilitis at mga lipay ay sa mga kuta niyaon
-"At ang mga mailap na hayop sa ilang ay makikipagsalubong doon sa mga lobo, at ang lalaking kambing ay hihiyaw sa kaniyang kasama; oo, ang malaking kuwago ay tatahan doon, at makakasumpong siya ng dakong pahingahan."
+"At ang mga mailap na hayop sa ilang ay makikipagsalubong doon sa mga lobo, at ang lalaking kambing ay #hihiyaw sa kaniyang kasama; oo, ang malaking kuwago ay tatahan doon, at makakasumpong siya ng dakong pahingahan."
 "Doon maglulungga ang maliksing ahas, at mangingitlog, at mangapipisa, at aampunin sa ilalim ng kaniyang lilim; oo, doon magpipisan ang mga lawin, bawa't isa'y kasama ng kaniyang kasamahan."
 "Inyong saliksikin sa aklat ng Panginoon, at inyong basahin
 "At kaniyang pinagsapalaran, at binahagi ng kaniyang kamay sa kanila sa pamamagitan ng pising panukat

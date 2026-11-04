@@ -46,7 +46,7 @@
 "Filho de Anzi, filho de Bani, filho de Semer,"
 "Filho de Mali, filho de Musi, filho de Merari, filho de Levi."
 "E seus irmãos, os Levitas, foram postos para todo o serviço do tabernáculo da casa de Deus."
-"E Arão e seus filhos ofereciam incenso sobre o altar da oferta de queima, e sobre o altar do incenso, para toda a obra do lugar santíssimo, e para fazer expiação sobre Israel, conforme tudo quanto Moisés, servo de Deus, havia mandado."
+"E Arão e seus filhos ofereciam incenso sobre o altar da oferta de queima, e sobre o altar do incenso, para toda #a obra do lugar santíssimo, e para fazer expiação sobre Israel, conforme tudo quanto Moisés, servo de Deus, havia mandado."
 "E estes foram os filhos de Arão
 "Seu filho Buqui, seu filho Uzi, seu filho Zeraías,"
 "Seu filho Meraiote, seu filho Amarias, seu filho Aitube,"

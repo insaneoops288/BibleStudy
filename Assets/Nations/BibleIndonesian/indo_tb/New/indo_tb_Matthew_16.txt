@@ -18,7 +18,7 @@
 "Dan Akupun berkata kepadamu
 "Kepadamu akan Kuberikan kunci Kerajaan Sorga. Apa yang kauikat di dunia ini akan terikat di sorga dan apa yang kaulepaskan di dunia ini akan terlepas di sorga."""
 "Lalu Yesus melarang murid-murid-Nya supaya jangan memberitahukan kepada siapapun bahwa Ia Mesias."
-"Sejak waktu itu Yesus mulai menyatakan kepada murid-murid-Nya bahwa Ia harus pergi ke Yerusalem dan menanggung banyak penderitaan dari pihak tua-tua, imam-imam kepala dan ahli-ahli Taurat, lalu dibunuh dan dibangkitkan pada hari ketiga."
+"Sejak waktu itu Yesus mulai menyatakan kepada murid-murid-Nya bahwa Ia harus pergi ke Yerusalem dan menanggung banyak #penderitaan dari pihak tua-tua, imam-imam kepala dan ahli-ahli Taurat, lalu dibunuh dan dibangkitkan pada hari ketiga."
 "Tetapi Petrus menarik Yesus ke samping dan menegor Dia, katanya
 "Maka Yesus berpaling dan berkata kepada Petrus
 "Lalu Yesus berkata kepada murid-murid-Nya

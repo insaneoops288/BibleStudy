@@ -12,7 +12,7 @@
 "Por, në qoftë se predikohet se Krishti u ringjall prej së vdekurish, si atëherë disa nga ju thonë se nuk ka ringjallje të të vdekurve?"
 "Në qoftë se nuk ka ringjallje të të vdekurve, as Krishti nuk u ringjall."
 "Por në qoftë se Krishti nuk është ringjallur, predikimi ynë është i kotë dhe i kotë është edhe besimi juaj."
-"Atëherë edhe ne do të ishim dëshmitarë të rremë të Perëndisë, sepse dëshmuam për Perëndinë, se ai ringjalli Krishtin, të cilin ai nuk e paska ringjallur, po të jetë se me të vërtetë të vdekurit nuk ringjallen."
+"Atëherë edhe ne do të ishim dëshmitarë të rremë të Perëndisë, sepse dëshmuam për Perëndinë, se ai ringjalli Krishtin, #të cilin ai nuk e paska ringjallur, po të jetë se me të vërtetë të vdekurit nuk ringjallen."
 "Në qoftë se të vdekurit nuk ringjallen, as Krishti nuk është ringjallur;"
 "por në qoftë se Krishti nuk është ringjallur, i kotë është besimi juaj; ju jeni ende në mëkatet tuaja,"
 "edhe ata që fjetën në Krishtin janë të humbur."

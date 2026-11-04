@@ -22,7 +22,7 @@
 "Ja te tulette vihattavaksi kaikilta minun nimeni tähden. Mutta joka loppuun asti vahvana pysyy, hän tulee autuaaksi."
 "Mutta koska he teitä siinä kaupungissa vainoovat, niin paetkaat toiseen. Totisesti sanon minä teille
 "Ei ole opetuslapsi parempi opettajaansa, eikä palvelia parempi isäntäänsä."
-"Siinä on opetuslapselle kyllä, että hän on niinkuin hänen opettajansa, ja palvelia niinkuin hänen isäntänsä. Jos he ovat itse isännän beelsebubiksi kutsuneet, kuinka paljoa ennemmin he hänen perheensä kutsuvat?"
+"Siinä on opetuslapselle kyllä, että hän on niinkuin hänen opettajansa, ja palvelia niinkuin hänen isäntänsä. #Jos he ovat itse isännän beelsebubiksi kutsuneet, kuinka paljoa ennemmin he hänen perheensä kutsuvat?"
 "Älkäät sentähden heitä peljätkö; sillä ei ole mitään peitetty, joka ei pidä ilmoitettaman, ja salattu, joka ei tule tiettäväksi."
 "Jota minä teille pimeissä sanon, sitä sanokaat valkeudessa, ja mitä te korvissanne kuulette, sitä saarnatkaat kattoin päällä."
 "Ja älkäät peljätkö niitä, jotka ruumiin tappavat, ja ei voi sielua tappaa; mutta peljätkäät enemmin sitä, joka voi sekä sielun että ruumiin helvetissä hukuttaa."

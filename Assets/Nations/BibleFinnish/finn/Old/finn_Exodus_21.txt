@@ -1,11 +1,11 @@
 "Nämät ovat ne oikeudet, jotka sinun pitää paneman heidän eteensä
 "Jos sinä ostat Hebrealaisen orjan, hänen pitää sinua palveleman kuusi vuotta; vaan seitsemäntenä pitää hänen lähtemän vapaana lunastamatta;"
 "Jos hän naimatoinna on ollut, naimatoinna pitää hänen myös lähtemän; vaan jos hän nainunna tuli, lähtekään emäntinensä."
-"Jos hänen isäntänsä antoi hänelle emännän, jos se on synnyttänyt hänelle poikia tai tyttäriä, niin hänen emäntänsä ja lapsensa pitää oleman hänen isäntänsä omat, vaan itse hänen pitää lähtemän yksinänsä."
+"Jos hänen isäntänsä antoi hänelle emännän, jos se on synnyttänyt hänelle poikia tai tyttäriä, niin hänen #emäntänsä ja lapsensa pitää oleman hänen isäntänsä omat, vaan itse hänen pitää lähtemän yksinänsä."
 "Mutta jos orja julkisesti sanoo
 "Niin hänen isäntänsä viekään hänen tuomarien tykö, ja seisauttakaan hänet oveen, taikka pihtipieleen, ja lävistäkään isäntä hänen korvansa naskalilla, ja olkaan ijäti hänen orjansa."
 "Jos joku myy tyttärensä orjaksi, ei hänen pidä lähtemän niinkuin orjat lähtevät."
-"Jollei hän kelpaa isännällensä, joka ei tahdo häntä kihlata, niin hänen pitää antaman hänen lunastettaa; mutta muukalaiselle kansalle ei pidä oleman hänelle voimaa häntä myydä, tehden petollisesti hänen kanssansa."
+"Jollei hän kelpaa isännällensä, joka ei tahdo häntä kihlata, niin hänen pitää antaman hänen lunastettaa; #mutta muukalaiselle kansalle ei pidä oleman hänelle voimaa häntä myydä, tehden petollisesti hänen kanssansa."
 "Mutta jos hän sen kihlaa pojallensa, niin antakaan hänen nautita tytärten oikeutta."
 "Jos hän pojallensa ottaa toisen, niin ei hänen pidä kieltämän häneltä hänen ravintoansa, vaatteitansa, ja asunto-oikeuttansa."
 "Jollei hän tee hänelle näitä kolmea, niin sen pitää vapaana lähtemän lunastamatta."
@@ -26,7 +26,7 @@
 "Joka lyö palveliansa eli palkkapiikansa silmän, ja turmeles sen, hänen pitää päästämän sen vapaaksi silmän tähden."
 "Niin myös jos hän lyö palvelialtansa taikka palkkapiialtansa hampaan suusta, niin pitää hänen päästämän sen vapaaksi hampaan tähden."
 "Jos härkä kuokaisee miehen eli vaimon, niin että hän kuolee
-"Mutta jos härkä ennen oli harjaantunut kuokkimaan, ja sen isännälle oli todistusten kanssa ilmoitettu, ja ei hän korjannut häntä; jos hän sitte tappaa miehen eli vaimon, niin pitää härkä kivitettämän, ja hänen isäntänsä kuoleman."
+"Mutta jos härkä ennen oli harjaantunut kuokkimaan, ja sen isännälle oli todistusten kanssa ilmoitettu, ja ei hän korjannut #häntä; jos hän sitte tappaa miehen eli vaimon, niin pitää härkä kivitettämän, ja hänen isäntänsä kuoleman."
 "Mutta jos hän rahalla pääsee, niin pitää hänen antaman henkensä lunastukseksi niin paljo kuin määrätään."
 "Jos hän pojan eli tyttären kuokaisee, niin pitää yhdellä tavalla hänen kanssansa tehtämän."
 "Jos joku härkä kuokaisee palvelian eli palkkapiian, niin pitää hänen antaman heidän isännällensä kolmekymmentä hopiasikliä, ja härkä pitää kivitettämän."

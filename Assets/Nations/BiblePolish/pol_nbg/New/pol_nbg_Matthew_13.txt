@@ -12,7 +12,7 @@
 "Bowiem kto ma, temu zostanie podarowane i będzie obfitować; ale kto nie ma, i co ma, będzie od niego odjęte."
 "Dlatego im w podobieństwach mówię, że patrząc nie widzą, i słuchając nie słyszą, ani nie rozumieją."
 "Zatem wypełnione jest w nich proroctwo Izajasza, które mówi
-"Bowiem zostało utuczone serce tego ludu, uszami są ciężko słyszący oraz zamknęli swoje oczy; żeby czasem oczami nie ujrzeli i uszami nie usłyszeli, a sercem nie zrozumieli, i nie zawrócili, żebym ich uzdrowił."
+"Bowiem zostało utuczone serce tego ludu, uszami są ciężko słyszący oraz zamknęli swoje oczy; żeby czasem oczami #nie ujrzeli i uszami nie usłyszeli, a sercem nie zrozumieli, i nie zawrócili, żebym ich uzdrowił."
 "Ale szczęśliwe wasze oczy, że widzą, i wasze uszy, że słyszą."
 "Bo zaprawdę, powiadam wam, wielu proroków i sprawiedliwych pragnęło ujrzeć to, co wy widzicie, ale nie ujrzeli, i usłyszeć to, co wy słyszycie, ale nie usłyszeli."
 "Wy zatem, słuchajcie podobieństwa o siejącym."

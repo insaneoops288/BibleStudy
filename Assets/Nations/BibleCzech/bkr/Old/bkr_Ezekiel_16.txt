@@ -5,12 +5,12 @@
 "Neslitovalo se nad tebou oko, aťby v jednom z těch věcí posloužilo, maje lítost nad tebou, ale bylas povržena na svrchku pole, proto že jsi ošklivá byla v den, v kterémž jsi narodila se."
 "A jda mimo tebe, a vida tě ku potlačení vydanou ve krvi tvé, řekl jsem tobě
 "Rozmnožil jsem tě jako z rostliny polní, i rozmnožena jsi a zveličena, a přišlas k největší ozdobě. Prsy tvé oduly se, a vlasy tvé zrostly, ač jsi byla nahá a odkrytá."
-"Protož jda mimo tě, a vida tě, an aj, čas tvůj čas milování, vztáhl jsem křídlo své na tě, a přikryl jsem nahotu tvou, a přísahou zavázav se tobě, všel jsem v smlouvu s tebou, praví Panovník Hospodin, a tak jsi má učiněna."
+"Protož jda mimo tě, a vida tě, an aj, čas tvůj čas milování, vztáhl jsem křídlo své na tě, a přikryl jsem #nahotu tvou, a přísahou zavázav se tobě, všel jsem v smlouvu s tebou, praví Panovník Hospodin, a tak jsi má učiněna."
 "I umyl jsem tě vodou, a splákl jsem krev tvou s tebe, a pomazal jsem tě olejem."
 "Nadto přioděl jsem tě rouchem krumpovaným, a obul jsem tě v drahé střevíce, a opásal jsem tě kmentem, a přioděl jsem tě rouchem hedbávným."
 "Ozdobil jsem tě také ozdobou, a dal jsem náramky na ruce tvé, a točenici na hrdlo tvé."
 "Dalť jsem ozdobu i na čelo tvé, a náušnice na uši tvé, a korunu krásnou na hlavu tvou."
-"A tak bylas ozdobena zlatem a stříbrem, a oděv tvůj byl kment a roucho hedbávné, a proměnných barev roucho. Běl a med a olej jídala jsi, a krásná jsi učiněna velmi velice, a šťastněť se vedlo v království,"
+"A tak bylas ozdobena zlatem a stříbrem, a oděv tvůj byl kment a roucho hedbávné, a proměnných barev roucho. Běl #a med a olej jídala jsi, a krásná jsi učiněna velmi velice, a šťastněť se vedlo v království,"
 "Tak že se rozešla pověst o tobě mezi národy pro krásu tvou; nebo dokonalá byla, pro slávu mou, kterouž jsem byl vložil na tebe, praví Panovník Hospodin."
 "Ale úfalas v krásu svou, a smilnilas přičinou pověstí své; nebo jsi páchala smilství s každým mimo tebe jdoucím. Každý snadně užil krásy tvé."
 "A vzavši z roucha svého, nadělalas sobě výsostí rozličných barev, a páchalas smilství při nich, jemuž podobné nikdy nepřijde, aniž kdy potom bude."
@@ -34,13 +34,13 @@
 "A tak jest při tobě naproti obyčeji těch žen při smilstvích tvých, poněvadž tě k smilství nehledají, nýbrž ty dáváš dary, a ne tobě dar dáván bývá. A toť jest naopak."
 "Protož ó nevěstko, slyš slovo Hospodinovo
 "Takto praví Panovník Hospodin
-"Proto aj, já shromáždím všecky frejíře tvé, s nimiž jsi obcovala, a všecky, kteréž jsi milovala, se všechněmi, jichž jsi nenáviděla, a shromáždě je proti tobě odevšad, odkryji nahotu tvou před nimi, aby viděli všecku nahotu tvou."
+"Proto aj, já shromáždím všecky frejíře tvé, s nimiž jsi obcovala, a všecky, kteréž jsi milovala, se všechněmi, jichž #jsi nenáviděla, a shromáždě je proti tobě odevšad, odkryji nahotu tvou před nimi, aby viděli všecku nahotu tvou."
 "A budu tě souditi soudem cizoložnic, a těch, kteříž krev vylévají, a oddám tě k smrti, kteráž přijde na tě z prchlivosti a horlení."
 "Nebo vydám tě v ruku jejich. I rozboří vysoké místo tvé, a rozválejí výsosti tvé, a svlekouce tě z roucha tvého, poberou přípravy ozdoby tvé, a nechají tě nahé a odkryté."
 "I přivedou proti tobě shromáždění, a uházejí tě kamením, a probodnou tě meči svými."
 "Popálí také domy tvé ohněm, a vykonají na tobě pomstu před očima žen mnohých, a tak přítrž učiním tvému smilství, a aniž budeš dávati daru více."
 "A tak odpočineť sobě hněv můj na tobě, a horlení mé odejde od tebe, abych upokojil se a nehněval se více,"
-"Proto žes se nerozpomenula na dny mladosti své, ale postavovalas se proti mně ve všem tom. Aj hle, já také cestu tvou na hlavu tvou obrátil jsem, praví Panovník Hospodin, tak že nebudeš páchati nešlechetnosti, ani kterých ohavností svých."
+"Proto žes se nerozpomenula na dny mladosti své, ale postavovalas se proti mně ve všem tom. Aj hle, já také #cestu tvou na hlavu tvou obrátil jsem, praví Panovník Hospodin, tak že nebudeš páchati nešlechetnosti, ani kterých ohavností svých."
 "Aj, kdožkoli užívá přísloví, o tobě užive přísloví, řka
 "Dcera matky své jsi, té, kteráž sobě zošklivila muže svého a dítky své, a sestra obou sestr svých jsi, kteréž zošklivily sobě muže své a dítky své. Matka vaše jest Hetejská, a otec váš Amorejský."
 "Sestra pak tvá starší, kteráž sedí po levici tvé, jest Samaří a dcery její, a sestra tvá mladší, kteráž sedí po pravici tvé, jest Sodoma a dcery její."
@@ -49,7 +49,7 @@
 "Aj, tatoť byla nepravost Sodomy sestry tvé
 "Ale pozdvihše se, páchaly ohavnost přede mnou; protož sklidil jsem je, jakž mi se vidělo."
 "Samaří také ani polovice hříchů tvých nenahřešila. Nebo jsi rozhojnila ohavnosti své nad ně, a tak jsi spravedlivější býti ukázala sestry své všemi ohavnostmi svými, kteréž jsi páchala."
-"Nesiž i ty také potupu svou, kterouž jsi přisoudila sestrám svým, pro hříchy své, kteréž jsi ohavně páchala více než ony. Spravedlivějšíť byly než ty. I ty, pravím, styď se, a nes potupu svou, poněvadž spravedlivější býti ukazuješ sestry své."
+"Nesiž i ty také potupu svou, kterouž jsi přisoudila sestrám svým, pro hříchy své, kteréž jsi ohavně páchala více než ony. #Spravedlivějšíť byly než ty. I ty, pravím, styď se, a nes potupu svou, poněvadž spravedlivější býti ukazuješ sestry své."
 "Přivedu-li zase zajaté jejich, totiž zajaté Sodomy a dcer jejich, též zajaté Samaří a dcer jejich, takéť zajetí zajatých tvých u prostřed nich,"
 "Proto, abys musila nésti potupu svou a hanbiti se za všecko, což jsi páchala, jsuc jejich potěšením."
 "Jestližeť sestry tvé, Sodoma a dcery její, navrátí se k prvnímu způsobu svému, též Samaří a dcery její navrátí-li se k prvnímu způsobu svému

@@ -29,7 +29,7 @@
 "A oto co jest szczególnie dla was nieczyste spomiędzy pełzających, które pełzają po ziemi
 "jeż, krzeczek, salamandra, ślimak i kameleon."
 "Te stworzenia będą dla was nieczyste spośród wszystkich pełzających; kto się ich dotknie, gdy będą martwe będzie nieczystym do wieczora."
-"Także wszystko, co upadnie na któreś martwe z nich będzie nieczyste; każde drewniane naczynie, albo szata, albo skóra, albo wór; każde naczynie, którym się spełnia robotę będzie włożone do wody i zostanie nieczyste do wieczora, a potem będzie czyste."
+"Także wszystko, co upadnie na któreś martwe z nich będzie nieczyste; każde drewniane naczynie, albo szata, albo skóra, albo wór; #każde naczynie, którym się spełnia robotę będzie włożone do wody i zostanie nieczyste do wieczora, a potem będzie czyste."
 "Zaś w przypadku każdego glinianego naczynia gdyby któreś z nich w nie wpadło to, co się w nim znajduje, stanie się nieczyste, a samo naczynie zostanie potłuczone."
 "Każdy pokarm, który się jada, na którym była woda z tego naczynia będzie nieczysty, oraz wszelki napój, który się pija w każdym takim naczyniu będzie nieczysty."
 "Nadto wszystko na co upadnie cokolwiek z ich padliny będzie nieczyste. Piec, czy ognisko zostaną rozbite są nieczyste i nieczyste dla was zostaną."

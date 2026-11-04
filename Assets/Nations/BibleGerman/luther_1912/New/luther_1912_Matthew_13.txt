@@ -12,7 +12,7 @@
 "Denn wer da hat, dem wird gegeben, daß er die Fülle habe; wer aber nicht hat, von dem wird auch das genommen was er hat."
 "Darum rede ich zu ihnen durch Gleichnisse. Denn mit sehenden Augen sehen sie nicht, und mit hörenden Ohren hören sie nicht; denn sie verstehen es nicht."
 "Undüber ihnen wird die Weissagung Jesaja's erfüllt, die da sagt
-"Denn dieses Volkes Herz ist verstockt, und ihre Ohren hörenübel, und ihre Augen schlummern, auf daß sie nicht dermaleinst mit den Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren, daß ich ihnen hülfe."""
+"Denn dieses Volkes Herz ist verstockt, und ihre Ohren hörenübel, und ihre Augen schlummern, auf daß sie nicht dermaleinst mit den #Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren, daß ich ihnen hülfe."""
 "Aber selig sind eure Augen, daß sie sehen, und eure Ohren, daß sie hören."
 "Wahrlich ich sage euch
 "So hört nun ihr dieses Gleichnis von dem Säemann
@@ -20,7 +20,7 @@
 "Das aber auf das Steinige gesät ist, das ist, wenn jemand das Wort hört und es alsbald aufnimmt mit Freuden;"
 "aber er hat nicht Wurzel in sich, sondern ist wetterwendisch; wenn sich Trübsal und Verfolgung erhebt um des Wortes willen, soärgert er sich alsbald."
 "Das aber unter die Dornen gesät ist, das ist, wenn jemand das Wort hört, und die Sorge dieser Welt und der Betrug des Reichtums erstickt das Wort, und er bringt nicht Frucht."
-"Das aber in das gute Land gesät ist, das ist, wenn jemand das Wort hört und versteht es und dann auch Frucht bringt; und etlicher trägt hundertfältig, etlicher aber sechzigfältig, etlicher dreißigfältig."
+"Das aber in das gute Land gesät ist, das ist, wenn jemand das Wort hört und versteht #es und dann auch Frucht bringt; und etlicher trägt hundertfältig, etlicher aber sechzigfältig, etlicher dreißigfältig."
 "Er legte ihnen ein anderes Gleichnis vor und sprach
 "Da aber die Leute schliefen, kam sein Feind und säte Unkraut zwischen den Weizen und ging davon."
 "Da nun das Kraut wuchs und Frucht brachte, da fand sich auch das Unkraut."
@@ -41,7 +41,7 @@
 "des Menschen Sohn wird seine Engel senden; und sie werden sammeln aus seinem Reich alleÄrgernisse und die da unrecht tun,"
 "und werden sie in den Feuerofen werfen; da wird sein Heulen und Zähneklappen."
 "Dann werden die Gerechten leuchten wie die Sonne in ihres Vaters Reich. Wer Ohren hat zu hören, der höre!"
-"Abermals ist gleich das Himmelreich einem verborgenem Schatz im Acker, welchen ein Mensch fand und verbarg ihn und ging hin vor Freudenüber denselben und verkaufte alles, was er hatte, und kaufte den Acker."
+"Abermals ist gleich das Himmelreich einem verborgenem Schatz im Acker, welchen ein Mensch fand und verbarg ihn #und ging hin vor Freudenüber denselben und verkaufte alles, was er hatte, und kaufte den Acker."
 "Abermals ist gleich das Himmelreich einem Kaufmann, der gute Perlen suchte."
 "Und da er eine köstliche Perle fand, ging er hin und verkaufte alles, was er hatte, und kaufte sie."
 "Abermals ist gleich das Himmelreich einem Netze, das ins Meer geworfen ist, womit man allerlei Gattung fängt."

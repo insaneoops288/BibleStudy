@@ -7,10 +7,10 @@
 "Tetapi ayahmu telah berlaku curang kepadaku dan telah sepuluh kali mengubah upahku, tetapi Allah tidak membiarkan dia berbuat jahat kepadaku."
 "Apabila ia berkata
 "Demikianlah Allah mengambil ternak ayahmu dan memberikannya kepadaku."
-"Pada suatu kali pada masa kambing domba itu suka berkelamin, maka aku bermimpi dan melihat, bahwa jantan-jantan yang menjantani kambing domba itu bercoreng-coreng, berbintik-bintik dan berbelang-belang."
+"Pada suatu kali pada masa kambing domba itu suka berkelamin, maka aku bermimpi dan #melihat, bahwa jantan-jantan yang menjantani kambing domba itu bercoreng-coreng, berbintik-bintik dan berbelang-belang."
 "Dan Malaikat Allah berfirman kepadaku dalam mimpi itu
 "Lalu Ia berfirman
-"Akulah Allah yang di Betel itu, di mana engkau mengurapi tugu, dan di mana engkau bernazar kepada-Ku; maka sekarang, bersiaplah engkau, pergilah dari negeri ini dan pulanglah ke negeri sanak saudaramu."""
+"Akulah Allah yang di Betel itu, di mana engkau mengurapi tugu, dan di mana engkau bernazar #kepada-Ku; maka sekarang, bersiaplah engkau, pergilah dari negeri ini dan pulanglah ke negeri sanak saudaramu."""
 "Lalu Rahel dan Lea menjawab Yakub, katanya
 "Bukankah kami ini dianggapnya sebagai orang asing, karena ia telah menjual kami? Juga bagian kami telah dihabiskannya sama sekali."
 "Tetapi segala kekayaan, yang telah diambil Allah dari ayah kami, adalah milik kami dan anak-anak kami; maka sekarang, perbuatlah segala yang difirmankan Allah kepadamu."""
@@ -29,17 +29,17 @@
 "Aku ini berkuasa untuk berbuat jahat kepadamu, tetapi Allah ayahmu telah berfirman kepadaku tadi malam
 "Maka sekarang, kalau memang engkau harus pergi, semata-mata karena sangat rindu ke rumah ayahmu, mengapa engkau mencuri dewa-dewaku?"""
 "Lalu Yakub menjawab Laban
-"Tetapi pada siapa engkau menemui dewa-dewamu itu, janganlah ia hidup lagi. Periksalah di depan saudara-saudara kita segala barang yang ada padaku dan ambillah barangmu."" Sebab Yakub tidak tahu, bahwa Rahel yang mencuri terafim itu."
-"Lalu masuklah Laban ke dalam kemah Yakub dan ke dalam kemah Lea dan ke dalam kemah kedua budak perempuan itu, tetapi terafim itu tidak ditemuinya. Setelah keluar dari kemah Lea, ia masuk ke dalam kemah Rahel."
+"Tetapi pada siapa engkau menemui dewa-dewamu itu, janganlah ia hidup lagi. Periksalah di depan saudara-saudara kita segala barang #yang ada padaku dan ambillah barangmu."" Sebab Yakub tidak tahu, bahwa Rahel yang mencuri terafim itu."
+"Lalu masuklah Laban ke dalam kemah Yakub dan ke dalam kemah Lea dan ke dalam kemah kedua budak perempuan #itu, tetapi terafim itu tidak ditemuinya. Setelah keluar dari kemah Lea, ia masuk ke dalam kemah Rahel."
 "Tetapi Rahel telah mengambil terafim itu dan memasukkannya ke dalam pelana untanya, dan duduk di atasnya. Laban menggeledah seluruh kemah itu, tetapi terafim itu tidak ditemuinya."
 "Lalu kata Rahel kepada ayahnya
 "Lalu hati Yakub panas dan ia bertengkar dengan Laban. Ia berkata kepada Laban
-"Engkau telah menggeledah segala barangku, sekarang apakah yang kautemui dari segala barang rumahmu? Letakkanlah di sini di depan saudara-saudaraku dan saudara-saudaramu, supaya mereka mengadili antara kita berdua."
+"Engkau telah menggeledah segala barangku, sekarang apakah yang kautemui dari segala barang rumahmu? Letakkanlah #di sini di depan saudara-saudaraku dan saudara-saudaramu, supaya mereka mengadili antara kita berdua."
 "Selama dua puluh tahun ini aku bersama-sama dengan engkau; domba dan kambing betinamu tidak pernah keguguran dan jantan dari kambing dombamu tidak pernah kumakan."
 "Yang diterkam oleh binatang buas tidak pernah kubawa kepadamu, aku sendiri yang menggantinya; yang dicuri orang, baik waktu siang, baik waktu malam, selalu engkau tuntut dari padaku."
 "Aku dimakan panas hari waktu siang dan kedinginan waktu malam, dan mataku jauh dari pada tertidur."
-"Selama dua puluh tahun ini aku di rumahmu; aku telah bekerja padamu empat belas tahun lamanya untuk mendapat kedua anakmu dan enam tahun untuk mendapat ternakmu, dan engkau telah sepuluh kali mengubah upahku."
-"Seandainya Allah ayahku, Allah Abraham dan Yang Disegani oleh Ishak tidak menyertai aku, tentulah engkau sekarang membiarkan aku pergi dengan tangan hampa; tetapi kesengsaraanku dan jerih payahku telah diperhatikan Allah dan Ia telah menjatuhkan putusan tadi malam."""
+"Selama dua puluh tahun ini aku di rumahmu; aku telah bekerja padamu empat belas tahun lamanya untuk #mendapat kedua anakmu dan enam tahun untuk mendapat ternakmu, dan engkau telah sepuluh kali mengubah upahku."
+"Seandainya Allah ayahku, Allah Abraham dan Yang Disegani oleh Ishak tidak menyertai aku, tentulah engkau sekarang membiarkan aku pergi #dengan tangan hampa; tetapi kesengsaraanku dan jerih payahku telah diperhatikan Allah dan Ia telah menjatuhkan putusan tadi malam."""
 "Lalu Laban menjawab Yakub
 "Maka sekarang, marilah kita mengikat perjanjian, aku dan engkau, supaya itu menjadi kesaksian antara aku dan engkau."""
 "Kemudian Yakub mengambil sebuah batu dan didirikannya menjadi tugu."
@@ -47,9 +47,9 @@
 "Laban menamai timbunan batu itu Yegar-Sahaduta, tetapi Yakub menamainya Galed."
 "Lalu kata Laban
 "dan juga Mizpa, sebab katanya
-"Jika engkau mengaibkan anak-anakku, dan jika engkau mengambil isteri lain di samping anak-anakku itu, ingatlah, walaupun tidak ada orang dekat kita, Allah juga yang menjadi saksi antara aku dan engkau."""
+"Jika engkau mengaibkan anak-anakku, dan jika engkau mengambil isteri lain di samping anak-anakku itu, ingatlah, walaupun #tidak ada orang dekat kita, Allah juga yang menjadi saksi antara aku dan engkau."""
 "Selanjutnya kata Laban kepada Yakub
-"timbunan batu dan tugu inilah menjadi kesaksian, bahwa aku tidak akan melewati timbunan batu ini mendapatkan engkau, dan bahwa engkaupun tidak akan melewati timbunan batu dan tugu ini mendapatkan aku, dengan berniat jahat."
+"timbunan batu dan tugu inilah menjadi kesaksian, bahwa aku tidak akan melewati timbunan batu ini mendapatkan engkau, #dan bahwa engkaupun tidak akan melewati timbunan batu dan tugu ini mendapatkan aku, dengan berniat jahat."
 "Allah Abraham dan Allah Nahor, Allah ayah mereka, kiranya menjadi hakim antara kita."" Lalu Yakub bersumpah demi Yang Disegani oleh Ishak, ayahnya."
 "Dan Yakub mempersembahkan korban sembelihan di gunung itu. Ia mengundang makan sanak saudaranya, lalu mereka makan serta bermalam di gunung itu."
 "Keesokan harinya pagi-pagi Laban mencium cucu-cucunya dan anak-anaknya serta memberkati mereka, kemudian pulanglah Laban kembali ke tempat tinggalnya."

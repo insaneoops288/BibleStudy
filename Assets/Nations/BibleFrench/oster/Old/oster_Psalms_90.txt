@@ -7,7 +7,7 @@
 "Car nous sommes consumés par ta colère, et nous sommes troublés par ton courroux."
 "Tu as mis devant toi nos iniquités, et devant la clarté de ta face nos fautes cachées."
 "Car tous nos jours s'en vont par ta colère; nous consumons nos années comme une pensée."
-"Les jours de nos années reviennent à soixante-dix ans et pour les plus vigoureux, à quatre-vingts ans; et le plus beau de ces jours n'est que peine et tourment; car il s'en va bientôt, et nous nous envolons."
+"Les jours de nos années reviennent à soixante-dix ans et pour les plus vigoureux, à quatre-vingts ans; et le plus #beau de ces jours n'est que peine et tourment; car il s'en va bientôt, et nous nous envolons."
 "Qui connaît la force de ton courroux et ton indignation, selon la crainte qui t'est due?"
 "Enseigne-nous à compter nos jours, tellement que nous puissions avoir un cœur sage."
 "Reviens, Éternel, jusques à quand? Aie compassion de tes serviteurs!"

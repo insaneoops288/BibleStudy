@@ -16,7 +16,7 @@
 "Lecz dlatego cię postawiłem, aby okazać na tobie moją moc i żeby rozgłaszano moje imię na całej ziemi."
 "A ty jeszcze się wynosisz i stajesz przeciw memu ludowi, nie chcąc go wypuścić?"
 "Jutro o tej porze spuszczę bardzo ciężki grad, jakiego nie było w Egipcie od dnia jego założenia aż do tego czasu."
-"Poślij więc teraz i zgromadź swoje bydło i wszystko, co masz na polu; bo każdy człowiek i każde zwierzę, które znajdzie się na polu, a nie zostanie zegnane do domu, zginie, gdy na nich spadnie grad."
+"Poślij więc teraz i zgromadź swoje bydło i wszystko, co masz na polu; bo każdy człowiek i każde zwierzę, #które znajdzie się na polu, a nie zostanie zegnane do domu, zginie, gdy na nich spadnie grad."
 "Kto więc ze sług faraona uląkł się słowa PANA, kazał uciekać swym sługom wraz z bydłem do domu;"
 "Ale kto nie wziął do serca słowa PANA, ten zostawił swe sługi i bydło na polu."
 "PAN powiedział do Mojżesza

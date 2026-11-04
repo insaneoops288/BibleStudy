@@ -4,7 +4,7 @@
 "Lepiej byś nie ślubował niż abyś ślubował i nie spełnił."
 "Nie pozwalaj twoim ustom by przywiodły do grzechu twoją cielesną naturę, i nie mów przed posłańcem Boga, że to pomyłka. Czemu Bóg ma się gniewać na twoją mowę oraz niweczyć sprawę twoich rąk?"
 "Gdyż gdzie jest wiele sennych marzeń tam też wiele słów i marności. Zaś ty raczej obawiaj się Boga."
-"Gdy zobaczysz w jakiejś krainie zgnębienie ubogiego, pogwałcenie prawa i sprawiedliwości niech cię ta rzecz nie dziwi; gdyż jest wyższy urzędnik nad wysokim ten, który czyha, i inni wysocy nad nimi."
+"Gdy zobaczysz w jakiejś krainie zgnębienie ubogiego, pogwałcenie prawa i sprawiedliwości niech cię ta rzecz nie #dziwi; gdyż jest wyższy urzędnik nad wysokim ten, który czyha, i inni wysocy nad nimi."
 "Pod każdym względem zaletą dla kraju jest król, który będzie oddany roli."
 "Kto miłuje pieniądze pieniędzmi się nie nasyci; a kto miłuje bogactwo nie znajdzie w nim pożytku. To też jest marność."
 "Gdzie wiele dobra tam i wielu tych, którzy je zjadają. A jaka jest korzyść dla właściciela? Chyba tylko z widoku jego oczu."

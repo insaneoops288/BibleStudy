@@ -12,7 +12,7 @@
 "Und sie nannten den Barnabas Jupiter, den Paulus aber Merkur, weil er das Wort führte."
 "Der Priester Jupiters aber, dessen Tempel vor ihrer Stadt war, brachte Ochsen und Kränze an die Tore und wollte samt dem Volke opfern."
 "Als aber die Apostel Barnabas und Paulus das hörten, zerrissen sie ihre Kleider, sprangen heraus unter das Volk, riefen und sprachen
-"Ihr Männer, was macht ihr da? Auch wir sind Menschen, von gleicher Beschaffenheit wie ihr, und predigen euch das Evangelium, daß ihr euch von diesen eitlen Göttern bekehret zu dem lebendigen Gott, der den Himmel und die Erde, das Meer und alles, was darin ist, gemacht hat;"
+"Ihr Männer, was macht ihr da? Auch wir sind Menschen, von gleicher Beschaffenheit wie ihr, und predigen euch das Evangelium, daß ihr euch von #diesen eitlen Göttern bekehret zu dem lebendigen Gott, der den Himmel und die Erde, das Meer und alles, was darin ist, gemacht hat;"
 "der in den vergangenen Zeitaltern alle Heiden ihre eigenen Wege gehen ließ;"
 "und doch hat er sich selbst nicht unbezeugt gelassen, hat uns viel Gutes getan, uns vom Himmel Regen und fruchtbare Zeiten gegeben und unsre Herzen erfüllt mit Speise und Freude."
 "Obschon sie solches sagten, konnten sie die Menge kaum beruhigen, daß sie ihnen nicht opferte."

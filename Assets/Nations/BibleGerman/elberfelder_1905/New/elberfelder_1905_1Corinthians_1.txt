@@ -1,5 +1,5 @@
 "Paulus, berufener Apostel Jesu Christi durch Gottes Willen, und Sosthenes, der Bruder,"
-"der Versammlung Gottes, die in Korinth ist, den Geheiligten in Christo Jesu, den berufenen Heiligen, samt allen, die an jedem Orte den Namen unseres Herrn Jesus Christus anrufen, sowohl ihres als unseres Herrn."
+"der Versammlung Gottes, die in Korinth ist, den Geheiligten in Christo Jesu, den berufenen Heiligen, samt allen, #die an jedem Orte den Namen unseres Herrn Jesus Christus anrufen, sowohl ihres als unseres Herrn."
 "Gnade euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!"
 "Ich danke meinem Gott allezeit eurethalben für die Gnade Gottes, die euch gegeben ist in Christo Jesu,"
 "daß ihr in ihm in allem reich gemacht worden seid, in allem Wort und aller Erkenntnis,"
@@ -7,7 +7,7 @@
 "so daß ihr in keiner Gnadengabe Mangel habt, indem ihr die Offenbarung unseres Herrn Jesus Christus erwartet,"
 "welcher euch auch befestigen wird bis ans Ende, daß ihr untadelig seid an dem Tage unseres Herrn Jesus Christus."
 "Gott ist treu, durch welchen ihr berufen worden seid in die Gemeinschaft seines Sohnes Jesus Christus, unseres Herrn."
-"Ich ermahne euch aber, Brüder, durch den Namen unseres Herrn Jesus Christus, daß ihr alle dasselbe redet und nicht Spaltungen unter euch seien, sondern daß ihr in demselben Sinne und in derselben Meinung völlig zusammengefügt seiet."
+"Ich ermahne euch aber, Brüder, durch den Namen unseres Herrn Jesus Christus, daß ihr alle dasselbe redet und nicht #Spaltungen unter euch seien, sondern daß ihr in demselben Sinne und in derselben Meinung völlig zusammengefügt seiet."
 "Denn es ist mir von euch kund geworden, meine Brüder, durch die Hausgenossen der Chloe, daß Streitigkeiten unter euch sind."
 "Ich sage aber dieses, daß ein jeder von euch sagt
 "Ist der Christus zerteilt? Ist etwa Paulus für euch gekreuzigt, oder seid ihr auf Paulus' Namen getauft worden?"

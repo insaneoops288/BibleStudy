@@ -29,7 +29,7 @@
 "Por acaso não é minha palavra como o fogo?diz o SENHOR, E como um martelo que esmigalha a pedra?"
 "Portanto eis que eu sou contra os profetas,diz o SENHOR, que furtam minhas palavras cada um de seu próximo."
 "Eis que eu sou contra os profetas,diz o SENHOR, que usam suas línguas, e declaram
-"Eis que eu sou contra os que profetizam sonhos mentirosos,diz o SENHOR, e os contam, e fazem meu povo errar com suas mentiras e com suas lisonjas. E eu não os enviei, nem lhes mandei; e proveito nenhum fizeram a este povo, diz o SENHOR."
+"Eis que eu sou contra os que profetizam sonhos mentirosos,diz o SENHOR, e os contam, e fazem meu povo errar com suas mentiras #e com suas lisonjas. E eu não os enviei, nem lhes mandei; e proveito nenhum fizeram a este povo, diz o SENHOR."
 "E quando este povo, ou o profeta, ou o sacerdote, te peguntar, dizendo
 "E quanto ao profeta, o sacerdote, ou alguém do povo, que disser
 "Assim direis cada um a seu próximo, e cada um a seu irmão

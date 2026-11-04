@@ -11,9 +11,9 @@
 "Wróćcież im dziś proszę role ich, winnice ich, oliwnice ich, i domy ich, i setną część pieniędzy i zboża, wina, i oliwy, którą wy od nich wyciągacie."
 "Tedy odpowiedzieli
 "Potemem wytrząsnął zanadrza moje, i rzekłem
-"Owszem ode dnia, którego mi przykazał król, abym był książęciem ich w ziemi Judzkiej, od roku dwudziestego aż do roku trzydziestego i wtórego Artakserksesa króla, przez dwanaście lat, ja i bracia moi obrokuśmy książęcego nie jedli."
-"Choć książęta pierwsi, którzy byli przedemną, obciążali lud, biorąc od nich chleb i wino, mimo srebra syklów czterdzieści; także i słudzy ich używali okrucieństwa nad ludem; alem ja tak nie czynił dla bojaźni Bożej."
+"Owszem ode dnia, którego mi przykazał król, abym był książęciem ich w ziemi Judzkiej, od roku dwudziestego aż do #roku trzydziestego i wtórego Artakserksesa króla, przez dwanaście lat, ja i bracia moi obrokuśmy książęcego nie jedli."
+"Choć książęta pierwsi, którzy byli przedemną, obciążali lud, biorąc od nich chleb i wino, mimo srebra syklów czterdzieści; #także i słudzy ich używali okrucieństwa nad ludem; alem ja tak nie czynił dla bojaźni Bożej."
 "Owszem i około poprawy tego muru pracowałem, a przecięśmy roli nie kupili; więc i wszyscy słudzy moi byli tam zgromadzeni dla roboty."
 "Nadto z Żydów i przełożonych sto i pięćdziesiąt mężów, i którzy do nas przychodzili z pogan okolicznych, jadali u stołu mego."
-"Przetoż gotowano na każdy dzień wołu jednego, owiec sześć wybornych, i ptaki gotowano dla mnie, a każdego dziesiątego dnia rozmaitego wina hojnie dawano; wszakżem się obroku książęcego nie upominał; albowiem ciężka była niewola na ten lud."
+"Przetoż gotowano na każdy dzień wołu jednego, owiec sześć wybornych, i ptaki gotowano dla mnie, a każdego dziesiątego dnia #rozmaitego wina hojnie dawano; wszakżem się obroku książęcego nie upominał; albowiem ciężka była niewola na ten lud."
 "Wspomnijże na mię, Boże mój! ku dobremu według wszystkiego, com czynił ludowi twemu."

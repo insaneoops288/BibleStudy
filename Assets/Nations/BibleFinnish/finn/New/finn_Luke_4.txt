@@ -15,7 +15,7 @@
 "Ja hän opetti heidän synagogissansa, ja kunnioitettiin kaikkialta,"
 "Ja tuli Natsaretiin, kussa hän kasvatettu oli, ja meni tapansa jälkeen sabbatin päivänä synagogaan, ja nousi lukemaan."
 "Ja hänelle annettiin Jesaias prophetan Raamattu. Ja kuin hän Raamatun avasi, löysi hän sen paikan, kussa kirjoitettu on
-"Herran Henki on minun päälläni, sentänden on hän minut voidellut ja lähettänyt minun saarnaamaan köyhille hyvää sanomaa, parantamaan särjetyitä sydämiä, saarnaamaan vangeille lunastusta ja sokeille näkönsä jälleen saamista, särjetyitä vapauteen saattamaan,"
+"Herran Henki on minun päälläni, sentänden on hän minut voidellut ja lähettänyt minun saarnaamaan köyhille hyvää #sanomaa, parantamaan särjetyitä sydämiä, saarnaamaan vangeille lunastusta ja sokeille näkönsä jälleen saamista, särjetyitä vapauteen saattamaan,"
 "Saarnaamaan Herran otollista vuotta."
 "Ja kun hän pani Raamatun kiinni, antoi hän sen palvelialle ja istui, ja kaikkein silmät, jotka synagogassa olivat, katselivat hänen päällensä."
 "Ja hän rupesi heille sanomaan

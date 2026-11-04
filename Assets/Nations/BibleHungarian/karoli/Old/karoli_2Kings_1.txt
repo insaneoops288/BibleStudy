@@ -10,7 +10,7 @@
 "Felelvén Illés, monda az ötven ember elõtt járó fõembernek
 "És ismét külde õ hozzá [a király] más ötven ember elõtt való fõembert, mind az ötven férfival egybe, a ki szóla és monda néki
 "És felele Illés, és monda nékik
-"És újra elküldött egy harmadik ötven ember elõtt járó fõembert is, az õ ötven emberével együtt, és felmenvén ez az ötven ember elõtt járó fõember, elméne és térdre borult Illés elõtt, és könyörögvén néki, monda
+"És újra elküldött egy harmadik ötven ember elõtt járó fõembert is, az õ ötven emberével együtt, és felmenvén #ez az ötven ember elõtt járó fõember, elméne és térdre borult Illés elõtt, és könyörögvén néki, monda
 "Ímé tûz szállott le az égbõl és megemészté az ötven ember elõtt való elébbi két fõembert, az õ ötven emberével egybe
 "Ekkor szóla az Úr angyala Illésnek
 "És szóla néki

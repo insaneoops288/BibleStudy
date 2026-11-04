@@ -10,6 +10,6 @@
 "Tous les pécheurs de mon peuple mourront par l'épée, Ceux qui disent
 "En ce temps-là, je relèverai de sa chute la maison de David, J'en réparerai les brèches, j'en redresserai les ruines, Et je la rebâtirai comme elle était autrefois,"
 "Afin qu'ils possèdent le reste d'Edom et toutes les nations Sur lesquelles mon nom a été invoqué, Dit l'Eternel, qui accomplira ces choses."
-"Voici, les jours viennent, dit l'Eternel, Où le laboureur suivra de près le moissonneur, Et celui qui foule le raisin celui qui répand la semence, Où le moût ruissellera des montagnes Et coulera de toutes les collines."
-"Je ramènerai les captifs de mon peuple d'Israël; Ils rebâtiront les villes dévastées et les habiteront, Ils planteront des vignes et en boiront le vin, Ils établiront des jardins et en mangeront les fruits."
+"Voici, les jours viennent, dit l'Eternel, Où le laboureur suivra de près le moissonneur, Et celui qui foule le #raisin celui qui répand la semence, Où le moût ruissellera des montagnes Et coulera de toutes les collines."
+"Je ramènerai les captifs de mon peuple d'Israël; Ils rebâtiront les villes dévastées et les habiteront, Ils planteront #des vignes et en boiront le vin, Ils établiront des jardins et en mangeront les fruits."
 "Je les planterai dans leur pays, Et ils ne seront plus arrachés du pays que je leur ai donné, Dit L'Eternel, ton Dieu."

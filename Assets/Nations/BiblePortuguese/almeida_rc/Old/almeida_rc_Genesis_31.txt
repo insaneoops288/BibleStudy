@@ -39,7 +39,7 @@
 "Não te trouxe eu o despedaçado; eu o pagava; o furtado de dia e o furtado de noite da minha mão o requerias."
 "Estava eu de sorte que de dia me consumia o calor, e, de noite, a geada; e o meu sono foi-se dos meus olhos."
 "Tenho estado agora vinte anos na tua casa; catorze te servi por tuas duas filhas e seis anos por teu rebanho; mas o meu salário tens mudado dez vezes."
-"Se o Deus de meu pai, o Deus de Abraão e o Temor de Isaque, não fora comigo, por certo me enviarias agora vazio. Deus atendeu à minha aflição e ao trabalho das minhas mãos e repreendeu-te ontem à noite."
+"Se o Deus de meu pai, o Deus de Abraão e o Temor de Isaque, não fora comigo, por certo me #enviarias agora vazio. Deus atendeu à minha aflição e ao trabalho das minhas mãos e repreendeu-te ontem à noite."
 "Então, respondeu Labão e disse a Jacob
 "Agora, pois, vem, e façamos concerto, eu e tu, que seja por testemunho entre mim e ti."
 "Então, tomou Jacob uma pedra e erigiu-a por coluna."

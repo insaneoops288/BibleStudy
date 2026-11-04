@@ -8,7 +8,7 @@
 "Bo burzyciel przyjdzie na każde miasto, a żadne miasto nie ujdzie; zginie i dolina, i równiny spustoszone będą, jako mówi Pan."
 "Dajcie skrzydła Moabowi, niech prędko uleci; bo miasta jego przyjdą w spustoszenie, tak, że nie będzie w nich obywatela."
 "Przeklęty, kto zdradliwie czyni sprawę Pańską; przeklęty także, kto hamuje miecz swój ode krwi."
-"Miałci Moab pokój od dzieciństwa swego, i usadził się na drożdżach swoich, ani był przelewany z naczynia w naczynie, to jest, w pojmanie nie chodził, dla czego został w nim smak jego, a woń jego nie zmieniła się."
+"Miałci Moab pokój od dzieciństwa swego, i usadził się na drożdżach swoich, ani był przelewany z naczynia w naczynie, to #jest, w pojmanie nie chodził, dla czego został w nim smak jego, a woń jego nie zmieniła się."
 "Przetoż oto dni idą, mówi Pan, że poślę nań tych, którzy wtargnienia czynią, a pojmają go, i naczynia jego wypróżnią, a łagwie jego potłuką."
 "I zawstydzony będzie Moab od Chamosa, jako zawstydzony jest dom Izraelski od Betel, nadziei swojej."
 "Jakoż mówicie
@@ -29,7 +29,7 @@
 "Słyszeliśmy o pysze Moabowej, że jest bardzo pyszny; o wysokomyślności jego, i o hardości jego, i o nadętości jego, i o wyniosłości serca jego."
 "Znamci Ja, mówi Pan, zagniewanie jego; lecz nie ma siły; kłamstwa jego nie dowiodą tego."
 "Dlatego nad Moabczykami narzekam, a nade wszystkim Moabem wołam, a dla obywateli Kircheres wzdycha serce moje."
-"Bardziej niż płakano Jazerczyków, płaczę nad tobą, o winna macico Sabama! Latorośli twoje dostaną się za morze, aż do morza Jazer dosięgną; na letnie owoce twoje, i na zbieranie wina twego burzyciel przypadnie."
+"Bardziej niż płakano Jazerczyków, płaczę nad tobą, o winna macico Sabama! Latorośli twoje dostaną się za morze, #aż do morza Jazer dosięgną; na letnie owoce twoje, i na zbieranie wina twego burzyciel przypadnie."
 "I ustanie wesele i radość nad polem urodzajnem w ziemi Moabskiej, a winu z prasy wstręt uczynię; nie będą go tłoczyć z wykrzykaniem, a wykrzykanie nie będzie wykrzykaniem."
 "Bardziej krzyczeć będą niż Hesebończycy; aż do Eleale, aż do Jazy wydadzą głos swój, od Zoar aż do Choronaim, jako jałowica trzecioletnia; bo też i wody Nimrym zniszczeją."
 "I uczynię, mówi Pan, że ustanie w Moabie ofiarujący na wyżynach, i kadzący bogom swoim."

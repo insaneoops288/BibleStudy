@@ -1,11 +1,11 @@
 "At ang mga anak ni Israel ay naglakbay at humantong sa mga kapatagan ng Moab sa dako roon ng Jordan na nasa tapat ng Jerico."
 "At nakita ni Balac na anak ni Zippor ang lahat ng ginawa ng Israel sa mga Amorrheo."
 "At ang Moab ay natakot na mainam sa bayan, sapagka't sila'y marami
-"At sinabi ng Moab sa mga matanda sa Madian, Ngayon ay hihimuran ng karamihang ito yaong lahat na nasa palibot natin, gaya ng baka na humihimod sa damo sa parang. At si Balac na anak ni Zippor, ay hari sa Moab ng panahong yaon."
-"At siya'y nagutos ng mga sugo kay Balaam na anak ni Beor, hanggang sa Pethor na nasa tabi ng ilog, hanggang sa lupain ng mga anak ng kaniyang bayan, upang tawagin siya, na sabihin, Narito, may isang bayan na lumabas mula sa Egipto
-"Parito ka ngayon, isinasamo ko sa iyo, na sumpain mo sa akin ang bayang ito; sapagka't sila'y totoong makapangyarihan kay sa akin; marahil ako'y mananaig, na aming masasaktan sila, at aking silang mapalalayas sa lupain; sapagka't talastas ko na ang iyong pinagpapala ay mapalad at ang iyong sinusumpa ay mapapasama."
-"At ang mga matanda sa Moab at ang mga matanda sa Madian, ay nagsiparoon na dala sa kanilang kamay ang mga ganting pala sa panghuhula; at sila'y dumating kay Balaam at sinalita nila sa kaniya ang mga salita ni Balac."
-"At kaniyang sinabi sa kanila, Dito na kayo tumuloy ngayong gabi, at bibigyan ko kayo ng kasagutan, kung ano ang sasalitain ng Panginoon sa akin; at ang mga prinsipe sa Moab ay tumuloy na kasama ni Balaam."
+"At sinabi ng Moab sa mga matanda sa Madian, Ngayon ay hihimuran ng karamihang ito yaong lahat na nasa palibot natin, gaya ng #baka na humihimod sa damo sa parang. At si Balac na anak ni Zippor, ay hari sa Moab ng panahong yaon."
+"At siya'y nagutos ng mga sugo kay Balaam na anak ni Beor, hanggang sa Pethor na nasa tabi ng ilog, hanggang sa #lupain ng mga anak ng kaniyang bayan, upang tawagin siya, na sabihin, Narito, may isang bayan na lumabas mula sa Egipto
+"Parito ka ngayon, isinasamo ko sa iyo, na sumpain mo sa akin ang bayang ito; sapagka't sila'y totoong makapangyarihan kay sa akin; marahil ako'y mananaig, na #aming masasaktan sila, at aking silang mapalalayas sa lupain; sapagka't talastas ko na ang iyong pinagpapala ay mapalad at ang iyong sinusumpa ay mapapasama."
+"At ang mga matanda sa Moab at ang mga matanda sa Madian, ay nagsiparoon na dala sa kanilang kamay ang mga #ganting pala sa panghuhula; at sila'y dumating kay Balaam at sinalita nila sa kaniya ang mga salita ni Balac."
+"At kaniyang sinabi sa kanila, Dito na kayo tumuloy ngayong gabi, at bibigyan ko kayo ng kasagutan, kung ano #ang sasalitain ng Panginoon sa akin; at ang mga prinsipe sa Moab ay tumuloy na kasama ni Balaam."
 "At ang Dios ay naparoon kay Balaam, at nagsabi, Sinong mga tao itong kasama mo?"
 "At sinabi ni Balaam sa Dios, Si Balac, na anak ni Zippor, hari sa Moab, ay nagpasugo sa akin, na sinasabi,"
 "Narito, ang bayan na lumabas sa Egipto, ay tumatakip sa ibabaw ng lupa
@@ -13,9 +13,9 @@
 "At si Balaam ay bumangon nang kinaumagahan, at sinabi sa mga prinsipe ni Balac, Yumaon kayo sa inyong lupain
 "At ang mga prinsipe sa Moab ay bumangon, at sila'y naparoon kay Balac, at nagsabi, Si Balaam ay tumangging pumarito na kasama namin."
 "At si Balac ay nagsugong muli ng marami pang prinsipe, at lalong mga mahal kay sa kanila."
-"At sila'y naparoon kay Balaam at nagsabi sa kaniya, Ganito ang sabi ni Balac na anak ni Zippor, Isinasamo ko sa iyo, na ang anomang bagay huwag mong tulutan na makaabala sa iyo sa pagparito mo sa akin
+"At sila'y naparoon kay Balaam at nagsabi sa kaniya, Ganito ang sabi ni Balac na anak ni Zippor, Isinasamo ko #sa iyo, na ang anomang bagay huwag mong tulutan na makaabala sa iyo sa pagparito mo sa akin
 "Sapagka't ikaw ay aking papupurihan ng mga dakilang karangalan, at anomang sabihin mo sa akin ay gagawin ko
-"At si Balaam ay sumagot at nagsabi sa mga lingkod ni Balac, Kahit ibigay sa akin ni Balac ang kaniyang bahay na puno ng pilak at ginto, ay hindi ko masasalangsang ang salita ng Panginoon kong Dios, na ako'y gumawa ng kulang o higit."
+"At si Balaam ay sumagot at nagsabi sa mga lingkod ni Balac, Kahit ibigay sa akin ni Balac ang kaniyang bahay na puno #ng pilak at ginto, ay hindi ko masasalangsang ang salita ng Panginoon kong Dios, na ako'y gumawa ng kulang o higit."
 "Ngayon nga, isinasamo ko sa inyo, na tumuloy rin kayo rito ngayong gabi, upang aking maalaman kung ano ang sasalitain pa ng Panginoon sa akin."
 "At ang Dios ay naparoon kay Balaam nang kinagabihan, at nagsabi sa kaniya, Kung ang mga taong iyan ay nagsiparito, upang tawagin ka ay bumangon ka, sumama ka sa kanila
 "At si Balaam ay bumangon nang kinaumagahan, at siniyahan ang kaniyang asno, at sumama sa mga prinsipe sa Moab."

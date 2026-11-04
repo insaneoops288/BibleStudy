@@ -10,7 +10,7 @@
 "Amontoa a lenha, acende o fogo, ferve bem a carne, engrossando o caldo, e sejam queimados os ossos."
 "Então a porás vazia sobre as suas brasas, para que ela aqueça, e se derreta o seu cobre, e se funda a sua imundície no meio dela, e se consuma a sua ferrugem."
 "Ela tem-se cansado com trabalhos; contudo não sai dela a sua muita ferrugem pelo fogo."
-"A ferrugem é a tua imundície de luxúria, porquanto te purifiquei, e tu não te purificaste, não serás purificada nunca da tua imundície, enquanto eu não tenha satisfeito sobre ti a minha indignação."
+"A ferrugem é a tua imundície de luxúria, porquanto te purifiquei, e tu não te purificaste, não #serás purificada nunca da tua imundície, enquanto eu não tenha satisfeito sobre ti a minha indignação."
 "Eu, o Senhor, o disse
 "Também veio a mim a palavra do Senhor, dizendo
 "Filho do homem, eis que dum golpe tirarei de ti o desejo dos teus olhos; todavia não te lamentarás, nem chorarás, nem te correrão as lágrimas."
@@ -22,6 +22,6 @@
 "Fareis pois como eu fiz
 "tereis na cabeça os vossos turbantes, e os vossos sapatos nos pés; não vos lamentareis, nem chorareis, mas definhar-vos-eis nas vossas iniquidades, e gemereis uns com os outros."
 "Assim vos servirá Ezequiel de sinal; conforme tudo quanto ele fez, assim fareis vós; e quando isso suceder, então sabereis que eu sou o Senhor Deus."
-"Também quanto a ti, filho do homem, no dia que eu lhes tirar a sua fortaleza, o gozo do seu ornamento, a delícia dos seus olhos, e o desejo dos seus corações, juntamente com seus filhos e suas filhas,"
+"Também quanto a ti, filho do homem, no dia que eu lhes tirar a sua fortaleza, o gozo do seu #ornamento, a delícia dos seus olhos, e o desejo dos seus corações, juntamente com seus filhos e suas filhas,"
 "nesse dia virá ter contigo algum fugitivo para te trazer as notícias."
 "Nesse dia abrir-se-á a tua boca para com o fugitivo, e falarás, e por mais tempo não ficarás mudo; assim virás a ser para eles um sinal; e saberão que eu sou o Senhor."

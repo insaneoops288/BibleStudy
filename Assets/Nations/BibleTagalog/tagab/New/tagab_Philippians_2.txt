@@ -1,6 +1,6 @@
 "Kaya nga kung mayroong anomang kasiglahan kay Cristo, kung mayroong anomang kaaliwan ng pagibig, kung mayroong anomang pakikisama ng Espiritu, kung mayroong anomang mahinahong awa at habag,"
 "Ay lubusin ninyo ang aking katuwaan, upang kayo'y mangagkaisa ng pagiisip, mangagtaglay ng isa ring pagibig, na mangagkaisa ng akala, at isa lamang pagiisip;"
-"Na huwag ninyong gawin ang anoman sa pamamagitan ng pagkakampikampi o sa pamamagitan ng pagpapalalo, kundi sa kababaan ng pagiisip, na ipalagay ng bawa't isa ang iba na lalong mabuti kay sa kaniyang sarili;"
+"Na huwag ninyong gawin ang anoman sa pamamagitan ng pagkakampikampi o sa pamamagitan ng pagpapalalo, kundi sa kababaan #ng pagiisip, na ipalagay ng bawa't isa ang iba na lalong mabuti kay sa kaniyang sarili;"
 "Huwag tingnan ng bawa't isa sa inyo ang sa kaniyang sarili, kundi ang bawa't isa naman ay sa iba't iba."
 "Mangagkaroon kayo sa inyo ng pagiisip, na ito'y na kay Cristo Jesus din naman
 "Na siya, bagama't nasa anyong Dios, ay hindi niya inaring isang bagay na nararapat panangnan ang pagkapantay niya sa Dios,"
@@ -9,7 +9,7 @@
 "Kaya siya naman ay pinakadakila ng Dios, at siya'y binigyan ng pangalang lalo sa lahat ng pangalan;"
 "Upang sa pangalan ni Jesus ay iluhod ang lahat ng tuhod, ng nangasa langit, at ng nangasa ibabaw ng lupa, at ng nangasa ilalim ng lupa,"
 "At upang ipahayag ng lahat ng mga dila na si Jesucristo ay Panginoon, sa ikaluluwalhati ng Dios Ama."
-"Kaya nga, mga minamahal ko, kung paano ang inyong laging pagsunod, na hindi lamang sa harapan ko, kundi bagkus pa ngayong ako'y wala, ay lubusin ninyo ang gawain ng inyong sariling pagkaligtas na may takot at panginginig;"
+"Kaya nga, mga minamahal ko, kung paano ang inyong laging pagsunod, na hindi lamang sa harapan ko, kundi bagkus #pa ngayong ako'y wala, ay lubusin ninyo ang gawain ng inyong sariling pagkaligtas na may takot at panginginig;"
 "Sapagka't Dios ang gumagawa sa inyo maging sa pagnanasa at sa paggawa, ayon sa kaniyang mabuting kalooban."
 "Gawin ninyo ang lahat ng mga bagay na walang mga bulungbulong at pagtatalo
 "Upang kayo'y maging walang sala at walang malay, mga anak ng Dios na walang dungis sa gitna ng isang lahing liko at masama, na sa gitna nila'y lumiliwanag kayong tulad sa mga ilaw sa sanglibutan,"

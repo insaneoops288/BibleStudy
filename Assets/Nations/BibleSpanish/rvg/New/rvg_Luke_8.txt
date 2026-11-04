@@ -26,13 +26,13 @@
 "Y arribaron a la tierra de los gadarenos, que está al lado opuesto de Galilea."
 "Y llegando Él a tierra, le salió al encuentro un hombre de la ciudad que tenía demonios por ya mucho tiempo; y no vestía ropa, ni moraba en casa, sino en los sepulcros."
 "Éste, cuando vio a Jesús, dio voces, y postrándose delante de Él, dijo a gran voz
-"(Porque mandaba al espíritu inmundo que saliese del hombre; pues hacía mucho tiempo que le arrebataba; y le guardaban preso con cadenas y grillos; pero rompiendo las cadenas, era arrastrado por el demonio a los desiertos.)"
+"(Porque mandaba al espíritu inmundo que saliese del hombre; pues hacía mucho tiempo que le arrebataba; y le guardaban #preso con cadenas y grillos; pero rompiendo las cadenas, era arrastrado por el demonio a los desiertos.)"
 "Y Jesús le preguntó, diciendo
 "Y le rogaban que no les mandase ir al abismo."
 "Y había allí un hato de muchos puercos que pacían en el monte; y le rogaron que los dejase entrar en ellos; y los dejó."
 "Y los demonios, salidos del hombre, entraron en los puercos; y el hato se arrojó por un despeñadero en el lago, y se ahogó."
 "Y cuando los que los apacentaban, vieron lo que había acontecido, huyeron, y yendo dieron aviso en la ciudad y por los campos."
-"Y salieron a ver lo que había acontecido; y vinieron a Jesús, y hallaron al hombre de quien habían salido los demonios, sentado a los pies de Jesús; vestido, y en su juicio cabal, y tuvieron miedo."
+"Y salieron a ver lo que había acontecido; y vinieron a Jesús, y hallaron al hombre de quien habían #salido los demonios, sentado a los pies de Jesús; vestido, y en su juicio cabal, y tuvieron miedo."
 "Y los que lo habían visto, les contaron cómo había sido sanado aquel endemoniado."
 "Entonces toda la multitud de la tierra de los gadarenos alrededor, le rogó que se fuese de ellos; porque tenían gran temor. Y Él, subiendo en la barca, se volvió."
 "Y aquel hombre de quien habían salido los demonios le rogaba que le permitiese estar con Él; mas Jesús le despidió, diciendo
@@ -44,7 +44,7 @@
 "vino por detrás y tocó el borde de su manto; y al instante se estancó el flujo de su sangre."
 "Entonces Jesús dijo
 "Y Jesús dijo
-"Entonces, viendo la mujer que no se había ocultado, vino temblando, y postrándose delante de Él le declaró delante de todo el pueblo por qué causa le había tocado, y cómo al instante había sido sanada."
+"Entonces, viendo la mujer que no se había ocultado, vino temblando, y postrándose delante de Él le declaró delante #de todo el pueblo por qué causa le había tocado, y cómo al instante había sido sanada."
 "Y Él le dijo
 "Hablando aún Él, vino uno del príncipe de la sinagoga a decirle
 "Y oyéndolo Jesús, le respondió, diciendo

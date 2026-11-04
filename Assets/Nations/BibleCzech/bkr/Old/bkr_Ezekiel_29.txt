@@ -15,7 +15,7 @@
 "Mimo jiná království bude sníženější, aniž se bude vynášeti více nad jiné národy; zmenším je zajisté, aby nepanovali nad národy."
 "I nebude více domu Izraelskému doufáním, kteréž by na pamět přivodilo nepravost, když by se obraceli za nimi; nebo zvědí, že já jsem Panovník Hospodin."
 "Potom bylo dvadcátého sedmého léta, prvního měsíce, prvního dne, že se stalo slovo Hospodinovo ke mně, řkoucí
-"Synu člověčí, Nabuchodonozor král Babylonský podrobil vojsko své v službu velikou proti Týru. Každá hlava oblezla, a každé rameno odříno jest, mzdy pak nemá, on ani vojsko jeho, z Týru za tu službu, kterouž sloužili proti němu."
+"Synu člověčí, Nabuchodonozor král Babylonský podrobil vojsko své v službu velikou proti Týru. Každá hlava oblezla, a každé rameno #odříno jest, mzdy pak nemá, on ani vojsko jeho, z Týru za tu službu, kterouž sloužili proti němu."
 "Z té příčiny takto praví Panovník Hospodin
 "Za práci jejich, kterouž mi sloužili, dám jim zemi Egyptskou, proto že mně pracovali, praví Panovník Hospodin."
 "V ten den rozkáži vypučiti se rohu domu Izraelského. Tobě též způsobím, že otevřeš ústa u prostřed nich, i zvědí, že já jsem Hospodin."

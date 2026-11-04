@@ -16,7 +16,7 @@
 "Maka teringatlah aku akan perkataan Tuhan
 "Jadi jika Allah memberikan karunia-Nya kepada mereka sama seperti kepada kita pada waktu kita mulai percaya kepada Yesus Kristus, bagaimanakah mungkin aku mencegah Dia?"""
 "Ketika mereka mendengar hal itu, mereka menjadi tenang, lalu memuliakan Allah, katanya
-"Sementara itu banyak saudara-saudara telah tersebar karena penganiayaan yang timbul sesudah Stefanus dihukum mati. Mereka tersebar sampai ke Fenisia, Siprus dan Antiokhia; namun mereka memberitakan Injil kepada orang Yahudi saja."
+"Sementara itu banyak saudara-saudara telah tersebar karena penganiayaan yang timbul sesudah Stefanus dihukum mati. Mereka tersebar #sampai ke Fenisia, Siprus dan Antiokhia; namun mereka memberitakan Injil kepada orang Yahudi saja."
 "Akan tetapi di antara mereka ada beberapa orang Siprus dan orang Kirene yang tiba di Antiokhia dan berkata-kata juga kepada orang-orang Yunani dan memberitakan Injil, bahwa Yesus adalah Tuhan."
 "Dan tangan Tuhan menyertai mereka dan sejumlah besar orang menjadi percaya dan berbalik kepada Tuhan."
 "Maka sampailah kabar tentang mereka itu kepada jemaat di Yerusalem, lalu jemaat itu mengutus Barnabas ke Antiokhia."

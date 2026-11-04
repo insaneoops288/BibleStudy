@@ -11,7 +11,7 @@
 "Přijmi, prosím, dar můj obětovaný tobě, poněvadž štědře obdařil mne Bůh, a mám všeho dosti. Takž ho přinutil, a on vzal."
 "I dí
 "I řekl k němu Jákob
-"Nechžť medle jde pán můj před služebníkem svým, já pak poznenáhlu se poberu, tak jakž bude moci jíti stádo, kteréž před sebou mám, a jakž postačiti budou moci děti, až tak dojdu ku pánu svému do Seir."
+"Nechžť medle jde pán můj před služebníkem svým, já pak poznenáhlu se poberu, tak jakž bude moci jíti stádo, #kteréž před sebou mám, a jakž postačiti budou moci děti, až tak dojdu ku pánu svému do Seir."
 "I řekl Ezau
 "Tedy Ezau toho dne navrátil se cestou svou do Seir."
 "Jákob pak bral se do Sochot, a ustavěl sobě dům, a dobytku svému zdělal stáje; protož nazval jméno místa toho Sochot."

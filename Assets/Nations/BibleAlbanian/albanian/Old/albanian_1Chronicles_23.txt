@@ -21,11 +21,11 @@
 "Bijtë e Merarit ishin Mahli dhe Mushi. Bijtë e Mahlit ishin Eleazari dhe Kishi."
 "Eleazari vdiq dhe nuk la djem, por vetëm vajzat që u martuan me bijtë e Kishit, vëllezër të tyre."
 "Bijtë e Mushit ishin Mahli, Ederi dhe Jeremothi; gjithsej tre."
-"Këta ishin bijtë e Levit sipas shtëpisë të tyre atërore, të parët e shtëpive atërore sipas regjistrimit të popullsisë, që u bë duke i numëruar emrat një për një. Këta ishin të ngarkuar me shërbimin e shtëpisë të Zotit njëzet vjeç e lart."
+"Këta ishin bijtë e Levit sipas shtëpisë të tyre atërore, të parët e shtëpive atërore sipas regjistrimit të popullsisë, që u bë #duke i numëruar emrat një për një. Këta ishin të ngarkuar me shërbimin e shtëpisë të Zotit njëzet vjeç e lart."
 "Sepse Davidi kishte thënë
 "Kështu Levitët nuk do ta mbartin më tabernakullin dhe tërë objektet e shërbimit të tij""."
 "sipas porosive të fundit të Davidit u bë regjistrimi i bijve të Levit, njëzet vjeç e lart."
-"Sepse detyra e tyre ishte që të ndihmonin bijtë e Aaronit në shërbimin e shtëpisë së Zotit në oborret, në dhomat, në pastrimin e të gjitha gjërave të shenjta, në punën e shërbimit të shtëpisë së Perëndisë,"
+"Sepse detyra e tyre ishte që të ndihmonin bijtë e Aaronit në shërbimin e shtëpisë së Zotit në oborret, #në dhomat, në pastrimin e të gjitha gjërave të shenjta, në punën e shërbimit të shtëpisë së Perëndisë,"
 "me bukët e paraqitjes, me majën e miellit për ofertën e ushqimit, me kuleçët e ndorme; me gjërat që gatuhen në tigan, me atë që është përzier me vaj dhe me të gjitha masat dhe dimensionet."
 "Përveç kësaj ata duhet të paraqiteshin çdo mëngjes për të kremtuar dhe për të lëvduar Zotin, dhe kështu edhe çdo mbrëmje,"
 "si dhe për të ofruar vazhdimisht para Zotit tërë olokaustet, sipas numrit të caktuar nga ligji ditët e shtuna, kur fillon hëna e re dhe në festat solemne."

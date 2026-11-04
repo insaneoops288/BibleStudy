@@ -1,5 +1,5 @@
 "Người ta nói rằng
-"Hãy ngước mắt xem các gò hoang; có nơi nào mà ngươi chẳng hành dâm? Người đã ngồi bên đường để chờ đợi người yêu, như người A rạp trong đồng vắng; và ngươi đã đem sự đâm loạn bậy bạ mà làm dơ nhớp đất nầy."
+"Hãy ngước mắt xem các gò hoang; có nơi nào mà ngươi chẳng hành dâm? Người đã ngồi bên đường để chờ đợi người #yêu, như người A rạp trong đồng vắng; và ngươi đã đem sự đâm loạn bậy bạ mà làm dơ nhớp đất nầy."
 "Vậy nên mưa đã bị ngăn cấm, không được mưa cuối mùa. Dầu thế, ngươi cũng vênh trán lên như đờn bà dâm đãng; chẳng biết xấu hổ."
 "Từ nay về sau ngươi há chẳng kêu đến ta rằng
 "Ngài há sẽ cầm giận mãi mãi, và nuôi cơn thạnh nộ đến cuối cùng sao?... Nầy, ngươi dầu nói như vậy, mà cũng cứ phạm tội, theo lòng mình muốn."
@@ -22,4 +22,4 @@
 "Hỡi con cái bội nghịch, hãy trở lại! Ta sẽ chữa sự bội nghịch cho. Các ngươi nói rằng
 "Thật đợi sự cứu nơi các gò là vô ích, tiếng ồn ào trên các núi là hư không; thật, sự cứu rỗi của Y-sơ-ra-ên là ở trong Giê-hô-va Ðức Chúa Trời chúng tôi."
 "Từ lúc chúng tôi còn trẻ nhỏ, vật xấu hổ đã nuốt hết công việc của tổ phụ chúng tôi, bầy chiên, bầy bò, con trai, con gái chúng nó."
-"Chúng tôi phải nằm trong sự xấu hổ mình! Vì chúng tôi cùng tổ phụ chúng tôi đã phạm tội nghịch cùng Giê-hô-va Ðức Chúa Trời chúng tôi; từ khi còn trẻ cho đến ngày nay; chúng tôi không vâng theo tiếng Giê-hô-va Ðức Chúa Trời chúng tôi."
+"Chúng tôi phải nằm trong sự xấu hổ mình! Vì chúng tôi cùng tổ phụ chúng tôi đã phạm tội nghịch cùng Giê-hô-va Ðức Chúa #Trời chúng tôi; từ khi còn trẻ cho đến ngày nay; chúng tôi không vâng theo tiếng Giê-hô-va Ðức Chúa Trời chúng tôi."

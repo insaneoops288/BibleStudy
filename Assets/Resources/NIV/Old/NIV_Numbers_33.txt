@@ -51,6 +51,6 @@ On the plains of Moab by the Jordan across from Jericho the LORD said to Moses,
 "Speak to the Israelites and say to them, 'When you cross the Jordan into Canaan,
 drive out all the inhabitants of the land before you. Destroy all their carved images and their cast idols, and demolish all their high places.
 Take possession of the land and settle in it, for I have given you the land to possess.
-Distribute the land by lot, according to your clans. To a larger group give a larger inheritance, and to a smaller group a smaller one. Whatever falls to them by lot will be theirs. Distribute it according to your ancestral tribes.
-"'But if you do not drive out the inhabitants of the land, those you allow to remain will become barbs in your eyes and thorns in your sides. They will give you trouble in the land where you will live.
+Distribute the land by lot, according to your clans. To a larger group give a larger inheritance, and to a smaller #group a smaller one. Whatever falls to them by lot will be theirs. Distribute it according to your ancestral tribes.
+"'But if you do not drive out the inhabitants of the land, those you allow to remain will become barbs in #your eyes and thorns in your sides. They will give you trouble in the land where you will live.
 And then I will do to you what I plan to do to them.'"

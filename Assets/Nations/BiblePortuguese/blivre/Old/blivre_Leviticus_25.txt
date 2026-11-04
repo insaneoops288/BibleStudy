@@ -43,8 +43,8 @@
 "Não serás senhor dele com dureza, mas terás temor de teu Deus."
 "Assim teu servo como tua serva que tiveres, serão das nações que estão em vosso ao redor
 "Também comprareis dos filhos dos forasteiros que vivem entre vós, e dos que da linhagem deles são nascidos em vossa terra, que estão convosco; os quais tereis por possessão
-"E os possuireis por herança para vossos filhos depois de vós, como possessão hereditária; para sempre vos servireis deles; porém em vossos irmãos os filhos de Israel, não vos dominareis cada um sobre seu irmão com dureza."
-"E se o peregrino ou estrangeiro que está contigo, adquirisse meios, e teu irmão que está com ele empobrecer, e se vender ao peregrino ou estrangeiro que está contigo, ou à raça da família do estrangeiro;"
+"E os possuireis por herança para vossos filhos depois de vós, como possessão hereditária; para sempre vos servireis deles; #porém em vossos irmãos os filhos de Israel, não vos dominareis cada um sobre seu irmão com dureza."
+"E se o peregrino ou estrangeiro que está contigo, adquirisse meios, e teu irmão que está com ele empobrecer, #e se vender ao peregrino ou estrangeiro que está contigo, ou à raça da família do estrangeiro;"
 "Depois que se houver vendido, poderá ser resgatado
 "Ou seu tio, ou o filho de seu tio o resgatará, ou o próximo de sua carne, de sua linhagem, o resgatará; ou se seus meios alcançarem, ele mesmo se resgatará."
 "E contará com o que o comprou, desde o ano que se vendeu a ele até o ano do jubileu

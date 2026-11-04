@@ -2,7 +2,7 @@
 "Je donnai mes ordres à Hanani, mon frère, et à Hanania, chef de la citadelle de Jérusalem, homme supérieur au grand nombre par sa fidélité et par sa crainte de Dieu."
 "Je leur dis
 "La ville était spacieuse et grande, mais peu peuplée, et les maisons n'étaient pas bâties."
-"Mon Dieu me mit au coeur d'assembler les grands, les magistrats et le peuple, pour en faire le dénombrement. Je trouvai un registre généalogique de ceux qui étaient montés les premiers, et j'y vis écrit ce qui suit."
+"Mon Dieu me mit au coeur d'assembler les grands, les magistrats et le peuple, pour en faire le dénombrement. Je #trouvai un registre généalogique de ceux qui étaient montés les premiers, et j'y vis écrit ce qui suit."
 "Voici ceux de la province qui revinrent de l'exil, ceux que Nebucadnetsar, roi de Babylone, avait emmenés captifs, et qui retournèrent à Jérusalem et en Juda, chacun dans sa ville."
 "Ils partirent avec Zorobabel, Josué, Néhémie, Azaria, Raamia, Nachamani, Mardochée, Bilschan, Mispéreth, Bigvaï, Nehum, Baana. Nombre des hommes du peuple d'Israël
 "les fils de Pareosch, deux mille cent soixante-douze;"
@@ -58,7 +58,7 @@
 "les fils de Jaala, les fils de Darkon, les fils de Guiddel,"
 "les fils de Schephathia, les fils de Hatthil, les fils de Pokéreth-Hatsebaïm, les fils d'Amon."
 "Total des Néthiniens et des fils des serviteurs de Salomon
-"Voici ceux qui partirent de Thel-Mélach, de Thel-Harscha, de Kerub-Addon, et d'Immer, et qui ne purent pas faire connaître leur maison paternelle et leur race, pour prouver qu'ils étaient d'Israël."
+"Voici ceux qui partirent de Thel-Mélach, de Thel-Harscha, de Kerub-Addon, et d'Immer, et qui ne purent #pas faire connaître leur maison paternelle et leur race, pour prouver qu'ils étaient d'Israël."
 "Les fils de Delaja, les fils de Tobija, les fils de Nekoda, six cent quarante-deux."
 "Et parmi les sacrificateurs
 "Ils cherchèrent leurs titres généalogiques, mais ils ne les trouvèrent point. On les exclut du sacerdoce,"
@@ -70,4 +70,4 @@
 "Plusieurs des chefs de famille firent des dons pour l'oeuvre. Le gouverneur donna au trésor mille dariques d'or, cinquante coupes, cinq cent trente tuniques sacerdotales."
 "Les chefs de familles donnèrent au trésor de l'oeuvre vingt mille dariques d'or et deux mille deux cents mines d'argent."
 "Le reste du peuple donna vingt mille dariques d'or, deux mille mines d'argent, et soixante-sept tuniques sacerdotales."
-"Les sacrificateurs et les Lévites, les portiers, les chantres, les gens du peuple, les Néthiniens et tout Israël s'établirent dans leurs villes. Le septième mois arriva, et les enfants d'Israël étaient dans leurs villes."
+"Les sacrificateurs et les Lévites, les portiers, les chantres, les gens du peuple, les Néthiniens et tout Israël #s'établirent dans leurs villes. Le septième mois arriva, et les enfants d'Israël étaient dans leurs villes."

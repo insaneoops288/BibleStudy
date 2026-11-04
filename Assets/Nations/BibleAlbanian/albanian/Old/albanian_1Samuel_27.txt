@@ -5,7 +5,7 @@
 "Davidi i tha Akishit
 "Kështu atë ditë Akishi i dha Tsiklagun; për këtë arësye Tsiklagu u ka përkitur mbretërve të Judës deri ditën e sotme."
 "Davidi qëndroi në vendin e Filistejve një vit e katër muaj."
-"Davidi dhe njerëzit e tij niseshin dhe bënin plaçkitje në vendin e Geshuritëve, të Girzitëve dhe të Amalekitëve; këto popullata banonin prej kohëve të vjetra në këtë vend duke u shtrirë nga Shuri deri në vendin e Egjiptit."
+"Davidi dhe njerëzit e tij niseshin dhe bënin plaçkitje në vendin e Geshuritëve, të Girzitëve dhe të Amalekitëve; këto popullata #banonin prej kohëve të vjetra në këtë vend duke u shtrirë nga Shuri deri në vendin e Egjiptit."
 "Davidi e shkretonte vendin dhe nuk linte gjallë as burra as gra; pastaj merrte dele, lopë, gomarë, deve dhe rroba, dhe kthehej dhe shkonte tek Akishi."
 "Kur Akishi e pyeste
 "Davidi nuk linte gjallë as burra as gra, sepse mund të çonin lajme, dhe thoshte

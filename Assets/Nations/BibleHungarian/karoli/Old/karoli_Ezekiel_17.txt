@@ -12,7 +12,7 @@
 "No, mondjad a pártos háznak
 "És võn a királyi magból, s frigyet szerze vele, s megesketé õt, de a földnek erõseit elvivé,"
 "Hogy alacsony királyság legyen, hogy fel ne emelkedjék, hanem frigyét megõrizze, hogy ez megálljon."
-"De pártot üte ellene, bocsátván követeit Égyiptomba, hogy adjon néki lovakat és sok népet. Vajjon jó szerencsés lesz-é? Vajjon megszabadítja-é magát, a ki ezeket cselekszi? a ki megszegte a szövetséget, megszabadul-é?"
+"De pártot üte ellene, bocsátván követeit Égyiptomba, hogy adjon néki lovakat és sok népet. Vajjon jó #szerencsés lesz-é? Vajjon megszabadítja-é magát, a ki ezeket cselekszi? a ki megszegte a szövetséget, megszabadul-é?"
 "Élek én, ezt mondja az Úr Isten, hogy annak a királynak lakóhelyén, a ki õt királylyá tette, a kinek tett esküjét megvetette, s a kivel tett frigyét megszegte, [ott ]nála, Babilonban hal meg."
 "És a Faraó nagy haddal és nagy sokasággal vele semmit nem tesz a háborúban, mikor sánczot töltenek és tornyot építenek sok lélek kiirtására."
 "S ha megvetette az esküt, hogy megszegje a frigyet, pedig ímé, kezet adott rá, s mégis megcselekedte mindezeket; nem fog megszabadulni!"
@@ -21,4 +21,4 @@
 "És minden menekültje minden seregébõl fegyver miatt hull el, és a megmaradottak szélnek szélednek mindenfelé, és megtudjátok, hogy én, az Úr beszéltem."
 "Így szól az Úr Isten
 "Izráel magasságos hegyén plántálom õt, és ágat nevel és gyümölcsöt terem s nagyságos czédrussá nevekedik, hogy lakjanak alatta, mindenféle szárnyas madarak ágainak árnyékában fognak lakozni."
-"És megismeri a mezõ minden fája, hogy én, az Úr tettem a magas fát alacsonynyá, az alacsony fát magassá; megszáraztottam a zöldelõ fát, és zölddé tettem az asszú fát. Én, az Úr szólottam és megcselekedtem."
+"És megismeri a mezõ minden fája, hogy én, az Úr tettem a magas fát alacsonynyá, az alacsony fát #magassá; megszáraztottam a zöldelõ fát, és zölddé tettem az asszú fát. Én, az Úr szólottam és megcselekedtem."

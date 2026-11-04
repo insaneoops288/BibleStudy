@@ -3,7 +3,7 @@
 "A imię Aarona napiszesz na lasce Lewiego, gdyż jedna laska będzie dla każdego naczelnika z domu ich ojców."
 "I położysz je w Namiocie Zgromadzenia przed Świadectwem, gdzie się z wami spotykam."
 "I stanie się tak, że laska tego, kogo wybiorę, zakwitnie; i uśmierzę przed sobą szemrania synów Izraela, jakie kierują przeciwko wam."
-"Gdy Mojżesz przekazał to synom Izraela, wszyscy ich naczelnicy oddali mu swoje laski, po jednej lasce od każdego naczelnika z domu swego ojca, razem dwanaście lasek. Wśród ich lasek była też laska Aarona."
+"Gdy Mojżesz przekazał to synom Izraela, wszyscy ich naczelnicy oddali mu swoje laski, po jednej lasce od #każdego naczelnika z domu swego ojca, razem dwanaście lasek. Wśród ich lasek była też laska Aarona."
 "Potem Mojżesz złożył te laski przed PANEM w Namiocie Świadectwa."
 "Nazajutrz, gdy Mojżesz przyszedł do Namiotu Świadectwa, oto laska Aarona, z domu Lewiego, zakwitła, wypuściła pączki, wydała kwiat i dojrzałe migdały."
 "Wtedy Mojżesz wyniósł wszystkie laski sprzed PANA do wszystkich synów Izraela; a gdy je ujrzeli, każdy z nich wziął swoją laskę."

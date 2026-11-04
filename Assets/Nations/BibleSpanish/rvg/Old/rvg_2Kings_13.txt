@@ -4,7 +4,7 @@
 "Mas Joacaz oró a la faz de Jehová, y Jehová lo oyó
 "(Y dio Jehová salvador a Israel, y salieron de bajo la mano de los sirios; y habitaron los hijos de Israel en sus tiendas, como antes."
 "Con todo eso no se apartaron de los pecados de la casa de Jeroboam, el que hizo pecar a Israel; en ellos anduvieron; y también la imagen de Asera permaneció en Samaria.)"
-"Porque no le había quedado gente a Joacaz, sino cincuenta hombres de a caballo, y diez carros y diez mil hombres de a pie; pues el rey de Siria los había destruido, y los había puesto como polvo para hollar."
+"Porque no le había quedado gente a Joacaz, sino cincuenta hombres de a caballo, y diez carros y diez mil hombres #de a pie; pues el rey de Siria los había destruido, y los había puesto como polvo para hollar."
 "Los demás hechos de Joacaz, y todo lo que hizo, y sus valentías, ¿no están escritos en el libro de las crónicas de los reyes de Israel?"
 "Y durmió Joacaz con sus padres, y lo sepultaron en Samaria, y Joás su hijo reinó en su lugar."
 "El año treinta y siete de Joás, rey de Judá, comenzó a reinar Joás, hijo de Joacaz, sobre Israel en Samaria; [y reinó] dieciséis años."
@@ -22,4 +22,4 @@
 "Pero Hazael, rey de Siria, afligió a Israel todo el tiempo de Joacaz."
 "Mas Jehová tuvo misericordia de ellos, y tuvo compasión de ellos, y los miró, por amor a su pacto con Abraham, Isaac y Jacob; y no quiso destruirlos ni echarlos de delante de sí hasta ahora."
 "Y murió Hazael, rey de Siria, y Benadad su hijo reinó en su lugar."
-"Y volvió Joás, hijo de Joacaz, y recobró de mano de Benadad, hijo de Hazael, las ciudades que éste había tomado en guerra de mano de Joacaz, su padre. Tres veces Joás lo derrotó, y recobró las ciudades de Israel."
+"Y volvió Joás, hijo de Joacaz, y recobró de mano de Benadad, hijo de Hazael, las ciudades que éste había tomado #en guerra de mano de Joacaz, su padre. Tres veces Joás lo derrotó, y recobró las ciudades de Israel."

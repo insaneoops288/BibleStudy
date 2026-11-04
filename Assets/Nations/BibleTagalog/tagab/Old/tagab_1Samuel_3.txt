@@ -10,7 +10,7 @@
 "At ang Panginoon ay naparoon, at tumayo, at tumawag na gaya ng una, Samuel, Samuel. Nang magkagayo'y sinabi ni Samuel, Magsalita ka; sapagka't dinirinig ng iyong lingkod."
 "At sinabi ng Panginoon kay Samuel, Narito, gagawa ako ng isang bagay sa Israel, na ang dalawang tainga ng bawa't isa na nakikinig ay magpapanting."
 "Sa araw na yaon ay aking tutuparin kay Eli ang lahat na aking sinalita tungkol sa kaniyang sangbahayan, mula sa pasimula hanggang sa wakas."
-"Sapagka't aking isinaysay sa kaniya na aking huhukuman ang kaniyang sangbahayan magpakailan man, dahil sa kasamaan na kaniyang nalalaman, sapagka't ang kaniyang mga anak ay nagdala ng sumpa sa kanilang sarili, at hindi niya sinangsala sila."
+"Sapagka't aking isinaysay sa kaniya na aking huhukuman ang kaniyang sangbahayan magpakailan man, dahil sa kasamaan na kaniyang nalalaman, #sapagka't ang kaniyang mga anak ay nagdala ng sumpa sa kanilang sarili, at hindi niya sinangsala sila."
 "At kaya't ako'y sumumpa sa sangbahayan ni Eli, na ang kasamaan ng sangbahayan ni Eli ay hindi mapapawi ng hain, o handog man magpakailan man."
 "At nahiga si Samuel hanggang sa kinaumagahan, at ibinukas ang mga pinto ng bahay ng Panginoon. At natakot si Samuel na saysayin kay Eli ang panaginip."
 "Nang magkagayo'y tinawag ni Eli si Samuel, at nagsabi, Samuel, anak ko. At kaniyang sinabi, Narito ako."

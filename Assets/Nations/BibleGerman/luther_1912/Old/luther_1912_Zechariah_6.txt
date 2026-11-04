@@ -10,6 +10,6 @@
 "Nimm von den Gefangenen, von Heldai und von Tobia und von Jedaja, und komm du dieses selben Tages und gehe in Josias, des Sohnes Zephanjas, Haus, wohin sie von Babel gekommen sind,"
 "und nimm Silber und Gold und mach Kronen und setze sie aufs Haupt Josuas, des Hohenpriesters, des Sohnes Jozadaks,"
 "und sprich zu ihm
-"Ja, den Tempel des HERRN wird er bauen und wird den Schmuck tragen und wird sitzen und herrschen auf seinem Thron, wird auch Priester sein auf seinem Thron, und es wird Friede sein zwischen den beiden."
+"Ja, den Tempel des HERRN wird er bauen und wird den Schmuck tragen und wird sitzen und herrschen auf #seinem Thron, wird auch Priester sein auf seinem Thron, und es wird Friede sein zwischen den beiden."
 "Und die Kronen sollen dem Helem, Tobia, Jedaja und der Freundlichkeit des Sohnes Zephanjas zum Gedächtnis sein im Tempel des HERRN."
-"Und es werden kommen von fern, die am Tempel des HERRN bauen werden. Da werdet ihr erfahren, daß mich der HERR Zebaoth zu euch gesandt hat. Und das soll geschehen, so ihr gehorchen werdet der Stimme des HERRN, eures Gottes."
+"Und es werden kommen von fern, die am Tempel des HERRN bauen werden. Da werdet ihr erfahren, daß mich der HERR #Zebaoth zu euch gesandt hat. Und das soll geschehen, so ihr gehorchen werdet der Stimme des HERRN, eures Gottes."

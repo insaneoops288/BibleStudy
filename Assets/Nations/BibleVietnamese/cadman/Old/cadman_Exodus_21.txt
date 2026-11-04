@@ -19,7 +19,7 @@
 "nếu đứng dậy chống gậy đi ra ngoài được, người đánh đó sẽ được tha tội. Nhưng chỉ phải đền tiền thiệt hại trong mấy ngày nghỉ và nuôi cho đến khi lành mạnh."
 "Khi người chủ lấy gậy đánh đầy tớ trai hay gái mình và chết liền theo tay, thì chắc phải bị phạt."
 "Song nếu đầy tớ trai hay gái còn sống một hai ngày, người chủ khỏi tội, vì nó vốn là tài sản của chủ."
-"Nếu người ta đánh nhau, đụng nhằm một người đàn bà có thai, làm cho phải sảo, nhưng chẳng bị sự hại chi khác, thì kẻ đánh nhằm đó phải bồi thường theo lời chồng người sẽ định, và trả tiền trước mặt quan án."
+"Nếu người ta đánh nhau, đụng nhằm một người đàn bà có thai, làm cho phải sảo, nhưng chẳng bị sự hại chi #khác, thì kẻ đánh nhằm đó phải bồi thường theo lời chồng người sẽ định, và trả tiền trước mặt quan án."
 "Còn nếu có sự hại chi, thì ngươi sẽ lấy mạng thường mạng,"
 "lấy mắt thường mắt, lấy răng thường răng, lấy tay thường tay, lấy chân thường chân,"
 "lấy phỏng thường phỏng, lấy bầm thường bầm, lấy thương thường thương."

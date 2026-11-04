@@ -28,5 +28,5 @@
 "Et Haran mourut en présence de Tharé son père, au pays de sa naissance, à Ur des Caldéens."
 "Et Abram et Nachor prirent des femmes. Le nom de la femme d'Abram était Saraï, et le nom de la femme de Nachor, Milca, fille de Haran, père de Milca et père de Jisca."
 "Mais Saraï était stérile; elle n'avait point d'enfant."
-"Et Tharé prit Abram son fils, et Lot fils de Haran, son petit-fils, et Saraï sa belle-fille, femme d'Abram son fils, et ils sortirent ensemble d'Ur des Caldéens, pour aller au pays de Canaan. Et ils vinrent jusqu'à Charan, et ils y demeurèrent."
+"Et Tharé prit Abram son fils, et Lot fils de Haran, son petit-fils, et Saraï sa belle-fille, femme d'Abram son fils, et #ils sortirent ensemble d'Ur des Caldéens, pour aller au pays de Canaan. Et ils vinrent jusqu'à Charan, et ils y demeurèrent."
 "Et les jours de Tharé furent de deux cent cinq ans; puis Tharé mourut à Charan."

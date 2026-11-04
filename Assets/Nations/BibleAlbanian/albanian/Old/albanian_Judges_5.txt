@@ -27,5 +27,5 @@
 "Te këmbët e saj ai u këput, ra dhe u dergj pa shpirt; në këmbët e saj u këput dhe ra; aty ku u këput, aty ra i vdekur."
 "E ëma e Siseras shikoi nga dritarja dhe thirri nga hekurat e saj
 "Gratë e saj më të urta iu përgjegjën, dhe ajo përsëriti me vete fjalët e saj
-"""Ata kanë gjetur plaçkë dhe janë duke e ndarë në pjesë. Për çdo burrë një ose dy vajza; për Siseran një plaçkë me rroba shumëngjyrëshe, një plaçkë me rroba shumëngjyrëshe dhe të qëndisura, me rroba shumëngjyrëshe dhe të qëndisura nga të dy anët për shpatullat e atyre që bartin tutje plaçkën""."
+"""Ata kanë gjetur plaçkë dhe janë duke e ndarë në pjesë. Për çdo burrë një ose dy vajza; për Siseran një plaçkë me rroba shumëngjyrëshe, një #plaçkë me rroba shumëngjyrëshe dhe të qëndisura, me rroba shumëngjyrëshe dhe të qëndisura nga të dy anët për shpatullat e atyre që bartin tutje plaçkën""."
 "Kështu u zhdukshin të gjithë armiqtë e tu, o Zot! Por ata që të duan qofshin si dielli, kur lind me gjithë forcën e tij!"". Pastaj vendi pati qetësi për dyzet vjet me radhë."

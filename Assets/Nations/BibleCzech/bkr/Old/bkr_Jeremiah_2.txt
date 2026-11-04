@@ -16,12 +16,12 @@
 "Obyvatelé také Nof a Tachpanes pasou na vrchu hlavy tvé."
 "Zdaliž toho sobě nepůsobíš, opouštějíc Hospodina Boha svého v ten čas, když tě vodí po cestě své?"
 "A nyní co tobě do cesty Egyptské, že piješ vodu z Níle? Aneb co tobě do cesty Assyrské, že piješ vodu z řeky?"
-"Trestati tě bude zlost tvá, a odvrácení tvá domlouvati budou tobě. Poznejž tedy a viz, že zlá a hořká věc jest, že opouštíš Hospodina Boha svého, a není bázně mé při tobě, dí Panovník Hospodin zástupů."
+"Trestati tě bude zlost tvá, a odvrácení tvá domlouvati budou tobě. Poznejž tedy a viz, že zlá a hořká #věc jest, že opouštíš Hospodina Boha svého, a není bázně mé při tobě, dí Panovník Hospodin zástupů."
 "Ačkoli dávno polámal jsem jho tvé, potrhal jsem to, čím jsi svázána byla, a řeklas
 "Ješto jsem já tě vysadil vinným kmenem výborným, všecku napořád semenem čistotným, i kterakž jsi mi proměnila se v plané réví cizího kmene?"
 "Nebo bys ty se pak umyla sanitrem, a mnoho na sebe mýdla vypotřebovala, předceť patrná jest nepravost tvá před oblíčejem mým, praví Panovník Hospodin."
 "Kterakž můžeš říci
-"Jsi divoká oslice, zvyklá na poušti, kteráž podlé líbosti duše své hltá vítr, když se jí příčina dá. Kdo jí překážku učiní? Všickni ti, kteříž jí hledají, nepotřebí se jim kvaltovati, naleznouť ji v měsíci jejím."
+"Jsi divoká oslice, zvyklá na poušti, kteráž podlé líbosti duše své hltá vítr, když se jí příčina dá. Kdo #jí překážku učiní? Všickni ti, kteříž jí hledají, nepotřebí se jim kvaltovati, naleznouť ji v měsíci jejím."
 "Dí-liť kdo
 "Jakož k hanbě přichází zloděj, když postižen bývá, tak zahanben bude dům Izraelský, oni, králové jejich, knížata jejich, a kněží jejich, i proroci jejich,"
 "Kteříž říkají dřevu

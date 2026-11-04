@@ -31,7 +31,7 @@
 "Ang langit at ang lupa ay lilipas
 "Nguni't tungkol sa araw o oras na yaon ay walang nakakaalam, kahit ang mga anghel sa langit, kahit ang Anak, kundi ang Ama."
 "Kayo'y mangagingat, mangagpuyat at magsipanalangin
-"Gaya ng isang tao na nanirahan sa ibang lupain, na pagkaiwan ng kaniyang bahay, at pagkabigay ng kapamahalaan sa kaniyang mga alipin, sa bawa't isa'y ang kaniyang gawain, ay nagutos din naman sa bantay-pinto na magpuyat."
+"Gaya ng isang tao na nanirahan sa ibang lupain, na pagkaiwan ng kaniyang bahay, at pagkabigay ng kapamahalaan sa #kaniyang mga alipin, sa bawa't isa'y ang kaniyang gawain, ay nagutos din naman sa bantay-pinto na magpuyat."
 "Mangagpuyat nga kayo
 "Baka kung biglang pumarito ay kayo'y mangaratnang nangatutulog."
 "At ang sinasabi ko sa inyo ay sinasabi ko sa lahat, Mangagpuyat kayo."

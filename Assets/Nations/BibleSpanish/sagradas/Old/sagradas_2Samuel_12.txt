@@ -1,12 +1,12 @@
 "Y envió el SEÑOR a Natán a David, el cual viniendo a él, le dijo
 "El rico tenía numerosas ovejas y vacas;"
-"mas el pobre no tenía más que una sola cordera, que él había comprado y criado, y que había crecido con él y con sus hijos juntamente, comiendo de su bocado, y bebiendo de su vaso, y durmiendo en su seno; y la tenía como a  una hija."
-"Y vino uno de camino al hombre rico; y él no quiso tomar de sus ovejas y de sus vacas, para guisar al caminante que le había venido, sino <I>que</I>  tomó la oveja de aquel hombre pobre, y la aderezó para el varón que le  había venido."
+"mas el pobre no tenía más que una sola cordera, que él había comprado y criado, y que había crecido con él y con sus #hijos juntamente, comiendo de su bocado, y bebiendo de su vaso, y durmiendo en su seno; y la tenía como a  una hija."
+"Y vino uno de camino al hombre rico; y él no quiso tomar de sus ovejas y de sus vacas, para guisar al caminante que #le había venido, sino <I>que</I>  tomó la oveja de aquel hombre pobre, y la aderezó para el varón que le  había venido."
 "Entonces se encendió el furor de David en gran manera contra aquel hombre, y dijo a Natán
 "y que él pagará la cordera con cuatro tantos, porque hizo esta tal cosa, y no tuvo misericordia."
 "Entonces dijo Natán a David
 "yo te di la casa de tu señor, y las mujeres de tu señor en tu seno; además de esto te di la casa de Israel y de Judá. Y si <I>esto es</I>  poco, yo te añadiré tales y tales cosas."
-"¿Por qué pues tuviste en poco la palabra del SEÑOR, haciendo lo malo delante de sus ojos? A Urías heteo heriste a cuchillo, y tomaste por tu mujer a su mujer, y a él mataste con el cuchillo de los hijos de Amón."
+"¿Por qué pues tuviste en poco la palabra del SEÑOR, haciendo lo malo delante de sus ojos? A Urías heteo heriste a #cuchillo, y tomaste por tu mujer a su mujer, y a él mataste con el cuchillo de los hijos de Amón."
 "Por lo cual ahora no se apartará cuchillo de tu casa perpetuamente; por cuanto me menospreciaste, y tomaste la mujer de Urías heteo para que fuese tu mujer."
 "Así dijo el SEÑOR
 "Porque tú lo hiciste en secreto; mas yo haré esto delante de todo Israel, y delante del sol."
@@ -27,5 +27,5 @@
 "<I>Entonces</I>  envió Joab mensajeros a David, diciendo
 "Junta pues ahora el pueblo que queda, y asienta campamento contra la ciudad, y tómala; para que tomando yo la ciudad, no se llame de mi nombre."
 "Y juntando David todo el pueblo fue contra Rabá, y la combatió, y la tomó."
-"Y tomó la corona de su rey de su cabeza, la cual pesaba un talento de oro, y <I>tenía</I>  piedras preciosas; y fue <I>puesta</I>  sobre la cabeza de David. Y trajo muy grande despojo de la ciudad."
-"Y sacó el pueblo que <I>estaba</I>  en ella, y lo puso debajo de sierras, y de trillos de hierro, y de hachas de hierro; y los hizo pasar por hornos de ladrillos; y lo mismo hizo a todas las ciudades de los hijos de Amón.  Se volvió luego David con todo el pueblo a Jerusalén."
+"Y tomó la corona de su rey de su cabeza, la cual pesaba un talento de oro, y <I>tenía</I>  #piedras preciosas; y fue <I>puesta</I>  sobre la cabeza de David. Y trajo muy grande despojo de la ciudad."
+"Y sacó el pueblo que <I>estaba</I>  en ella, y lo puso debajo de sierras, y de trillos de hierro, y de hachas de hierro; y los hizo pasar #por hornos de ladrillos; y lo mismo hizo a todas las ciudades de los hijos de Amón.  Se volvió luego David con todo el pueblo a Jerusalén."

@@ -14,4 +14,4 @@
 "W sprawiedliwości będziesz utwierdzona, będziesz daleka od ucisku, bo nie będziesz się go bać; i od trwogi, bo nie zbliży się do ciebie."
 "Oto zbiorą się razem, ale nie przeze mnie. Ktokolwiek zbierze się przeciwko tobie, upadnie ze względu na ciebie."
 "Oto stworzyłem kowala, który dmie na węgiel w ogniu i wyciąga narzędzia do obróbki. Ja stworzyłem też burzyciela, aby niszczył."
-"Żadna broń przeciw tobie sporządzona nie będzie skuteczna, a każdy język, który w sądzie występuje przeciw tobie, potępisz. To jest dziedzictwo sług PANA, a ich sprawiedliwość pochodzi ode mnie, mówi PAN."
+"Żadna broń przeciw tobie sporządzona nie będzie skuteczna, a każdy język, który w sądzie występuje przeciw #tobie, potępisz. To jest dziedzictwo sług PANA, a ich sprawiedliwość pochodzi ode mnie, mówi PAN."

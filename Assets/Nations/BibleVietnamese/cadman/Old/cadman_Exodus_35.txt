@@ -26,7 +26,7 @@
 "Còn mấy người đàn bà có cảm động và tài khéo thì kéo chỉ lông dê."
 "Các bực tôn trưởng trong dân sự đem bích ngọc và các thứ ngọc khác để khảm cho ê-phót và bảng đeo ngực;"
 "dầu thắp đèn, các hương liệu để chế dầu xức và dầu thơm."
-"Cả dân Y-sơ-ra-ên, nam hay nữ, phàm ai có lòng cảm động xui cho mình tình nguyện quyên vào các công việc Ðức Giê-hô-va đã phán dặn nơi Môi-se, đều đem dâng cho Ðức Giê-hô-va các lễ tình nguyện vậy."
+"Cả dân Y-sơ-ra-ên, nam hay nữ, phàm ai có lòng cảm động xui cho mình tình nguyện quyên vào các công #việc Ðức Giê-hô-va đã phán dặn nơi Môi-se, đều đem dâng cho Ðức Giê-hô-va các lễ tình nguyện vậy."
 "Môi-se nói cùng dân Y-sơ-ra-ên rằng
 "Ngài phú cho người đầy dẫy Thần của Ðức Chúa Trời, sự khôn ngoan, sự thông sáng, và sự hiểu biết, để làm mọi thứ nghề thợ,"
 "đặng bày ra và làm đồ vàng, bạc và đồng,"

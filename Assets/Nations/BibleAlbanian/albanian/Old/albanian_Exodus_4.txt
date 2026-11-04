@@ -6,7 +6,7 @@
 "Zoti i tha akoma
 "Zoti i tha akoma
 """Tani ka për të ndodhur që, po të jetë se nuk të besojnë dhe nuk e dëgjojnë zërin e shenjës së parë, do të besojnë zërin e shenjës së dytë."
-"Por, në rast se ata nuk do t'u besojnë as këtyre dy shenjave dhe nuk do t'i binden zërit tënd, ti atëhere merr ujë nga lumi dhe derdhe mbi tokë të thatë; dhe uji që do të kesh marrë nga lumi do të bëhet gjak mbi tokën e thatë""."
+"Por, në rast se ata nuk do t'u besojnë as këtyre dy shenjave dhe nuk do t'i binden zërit tënd, ti atëhere merr ujë nga #lumi dhe derdhe mbi tokë të thatë; dhe uji që do të kesh marrë nga lumi do të bëhet gjak mbi tokën e thatë""."
 "Atëherë Moisiu i tha Zotit
 "Zoti i tha
 "Dhe tani shko, unë do të jem me gojën tënde dhe do të të mësoj atë që duhet të thuash""."

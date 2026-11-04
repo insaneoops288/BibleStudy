@@ -21,7 +21,7 @@
 "Zbierz sięna prawo, uderzaj w lewo, dokądkolwiek jest przeznaczone twoje ostrze!"
 "Bo i Ja uderzę dłonią w dłoń, by uciszyć Me oburzenie; Ja, WIEKUISTY to wypowiedziałem!"
 "I doszło mnie słowo WIEKUISTEGO, głosząc
-"Zaś ty, synu człowieka, nakreśl sobie na tafli dwie drogi, po których może nadciągnąć miecz króla Babelu; obie mają wyjść z jednej ziemi. I wyryjesz drogowskaz – wyryjesz go na początku drogi do każdego miasta."
+"Zaś ty, synu człowieka, nakreśl sobie na tafli dwie drogi, po których może nadciągnąć miecz króla Babelu; obie #mają wyjść z jednej ziemi. I wyryjesz drogowskaz – wyryjesz go na początku drogi do każdego miasta."
 "Nakreśl drogę po której może nadciągnąć miecz aż do Rabba, synów Ammonu i do Judy, do obwarowanego Jeruszalaim."
 "Bo król Babelu już stoi na rozdrożu, by na początku tych dwóch dróg, wróżyć sobie według wyroczni; potrząsa strzały, radzi się domowych bożków, bada wątrobę."
 "W jego prawicę pada wyrocznia– Jeruszalaim; aby szykować tarany, przełomem robić otwory, podnieść okrzyki przy bojowych trąbach, tarany skierować przeciw bramom, usypywać wały oraz budować wieże."

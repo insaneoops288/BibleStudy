@@ -38,6 +38,6 @@
 "Ezek a névszerint felsoroltak voltak a fõemberek nemzetségökben, a kik igen elszaporodtak volt atyjok házában,"
 "Azért elindulának Gedor felé, hogy a völgy keleti részére [menjenek] és ott barmaiknak legelõt keressenek."
 "Találának is zsíros és jó legeltetõ helyet (az a föld pedig tágas, nyugodalmas és békességes), mert Khámból valók laktak ott azelõtt."
-"Elmenvén pedig e névszerint megnevezettek Ezékiásnak, a Júda királyának idejében, lerombolták sátoraikat, és a Maonitákat, a kiket ott találtak, kiirtották mind e mai napig, s helyökbe letelepedének, mivel ott barmaik számára legelõhelyeket [találtak.]"
+"Elmenvén pedig e névszerint megnevezettek Ezékiásnak, a Júda királyának idejében, lerombolták sátoraikat, és a Maonitákat, a kiket #ott találtak, kiirtották mind e mai napig, s helyökbe letelepedének, mivel ott barmaik számára legelõhelyeket [találtak.]"
 "És közülök, a Simeon fiai közül, [némelyek] elmenének a Seir hegyére, úgymint ötszázan, a kiknek elõljáróik az Isi fiai, Pelátja, Nehárja, Refája és Uzriel voltak."
 "És valakik az Amálek nemzetségébõl megmaradtak vala, mind levágák azokat, és ott letelepedének mind e mai napig."

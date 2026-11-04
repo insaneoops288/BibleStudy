@@ -8,7 +8,7 @@
 "Người của Ðức Chúa Trời đáp lại cùng vua rằng
 "vì Ðức Giê-hô-va đã phán dặn ta như vầy, rằng
 "Ấy vậy, người đi đường khác, chẳng trở lại đường người đã bắt đi đến Bê-tên."
-"Vả, có một tiên tri già ở tại Bê-tên. Một con trai người đến học lại cho người mọi điều người của Ðức Chúa Trời đã làm tại Bê-tên trong ngày đó, và các lời người đã nói với vua. Người cha nghe lời thuật này, thì hỏi con mình rằng
+"Vả, có một tiên tri già ở tại Bê-tên. Một con trai người đến học lại cho người mọi điều người của Ðức Chúa Trời đã #làm tại Bê-tên trong ngày đó, và các lời người đã nói với vua. Người cha nghe lời thuật này, thì hỏi con mình rằng
 "Người ấy đi đường nào? Các con trai người chỉ con đường mà người của Ðức Chúa Trời ở Giu-đa đã noi đi về."
 "Người bèn nói cùng các con trai mình rằng
 "đi theo người của Ðức Chúa Trời, gặp người ngồi dưới gốc cây thông, thì nói rằng
@@ -30,5 +30,5 @@
 "Người chôn xác ấy trong mộ mình, rồi khóc người mà rằng
 "Sau khi chôn xác rồi, người nói với các con trai mình rằng
 "Vì các lời hăm dọa người vâng mạng Ðức Giê-hô-va mà nói nghịch cùng bàn thờ tại Bê-tên và nghịch cùng các chùa miễu tại trên những nơi cao ở trong các thành Sa-ma-ri, hẳn sẽ được ứng nghiệm."
-"Sau việc ấy, Giê-rô-bô-am không trở lại con đường ác mình, nhưng người lại lập cho các nơi cao những thầy tế lễ chọn trong đám dân sự; phàm ai tình nguyện, thì được người biệt riêng ra làm thầy tế lễ tại các nơi cao."
+"Sau việc ấy, Giê-rô-bô-am không trở lại con đường ác mình, nhưng người lại lập cho các nơi cao những thầy tế lễ chọn #trong đám dân sự; phàm ai tình nguyện, thì được người biệt riêng ra làm thầy tế lễ tại các nơi cao."
 "Nhân vì cớ ấy nhà Giê-rô-bô-am phạm tội, đến đỗi bị diệt khỏi mặt đất."

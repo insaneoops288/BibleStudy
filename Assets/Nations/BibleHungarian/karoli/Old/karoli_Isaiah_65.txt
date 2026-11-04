@@ -17,7 +17,7 @@
 "Mert ímé, új egeket és új földet teremtek, és a régiek ingyen sem emlittetnek, még csak észbe sem jutnak;"
 "Hanem örüljetek és örvendjetek azoknak mindörökké, a melyeket én teremtek; mert ímé, Jeruzsálemet vígassággá teremtem, és az õ népét örömmé."
 "És vígadok Jeruzsálem fölött, és örvendek népem fölött, és nem hallatik többé abban siralomnak és kiáltásnak szava!"
-"Nem lesz ott többé [csupán néhány] napot ért gyermek, sem vén ember, a ki napjait be nem töltötte volna, mert az ifjú száz esztendõs korában hal meg és a bûnös száz esztendõs korában átkoztatik meg."
+"Nem lesz ott többé [csupán néhány] napot ért gyermek, sem vén ember, a ki napjait be nem töltötte #volna, mert az ifjú száz esztendõs korában hal meg és a bûnös száz esztendõs korában átkoztatik meg."
 "Házakat építnek és bennök lakoznak, és szõlõket plántálnak és eszik azok gyümölcsét."
 "Nem úgy építnek, hogy más lakjék benne; nem úgy plántálnak, hogy más egye a gyümölcsöt, mert mint a fáké, oly [hosszú] lesz népem élete, és kezeik munkáját elhasználják választottaim."
 "Nem fáradnak hiába, nem nemzenek a korai halálnak, mivel az Úr áldottainak magva õk, és ivadékaik velök [megmaradnak.]"

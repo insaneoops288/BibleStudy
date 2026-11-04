@@ -3,7 +3,7 @@
 "Kështu thotë Zoti
 "Atëherë princat i thanë mbretit
 "Atëherë mbreti Sedekia tha
-"Atëherë e morën Jeremian dhe e hodhën në sternën e Malkiahut, birit të mbretit, që ishte në oborrin e burgut; dhe e zbritën në të Jeremian me litarë. Në sternë nuk kishte ujë, por vetëm baltë, dhe Jeremia u fundos në baltë."
+"Atëherë e morën Jeremian dhe e hodhën në sternën e Malkiahut, birit të mbretit, që ishte në oborrin e burgut; dhe e #zbritën në të Jeremian me litarë. Në sternë nuk kishte ujë, por vetëm baltë, dhe Jeremia u fundos në baltë."
 "Por Ebed-meleku, Etiopiasi, një eunuk që rrinte në shtëpinë e mbretit, dëgjoi që Jeremian e kishin vënë në sternë. Ndërsa mbreti rrinte ulur te porta e Beniaminit,"
 "Ebed-meleku doli nga shtëpia e mbretit dhe i foli mbretit, duke i thënë
 """O mbret, imzot, këta njerëz kanë vepruar keq në tërë ato që i kanë bërë profetit Jeremia, duke e hedhur në sternë; aty brenda ai do të vdesë nga uria, sepse nuk ka më bukë në qytet""."
@@ -20,7 +20,7 @@
 "Por Jeremia iu përgjigj
 "Por në rast se ti refuzon të dalësh, kjo është ajo që Zoti më ka treguar
 "Ja, të gjitha gratë që kanë mbetur në shtëpinë e mbretit të Judës do të çohen te princat e mbretit të Babilonisë dhe do të thonë
-"Të gjitha bashkëshortet e tua dhe bijtë e tu do të çohen te Kaldeasit dhe ti nuk do të shpëtosh nga duart e tyre, por do të të zënë dhe do të të dorëzojnë në duart e mbretit të Babilonisë dhe këtij qyteti do t'i vihet zjarri""."
+"Të gjitha bashkëshortet e tua dhe bijtë e tu do të çohen te Kaldeasit dhe ti nuk do të shpëtosh nga duart e tyre, #por do të të zënë dhe do të të dorëzojnë në duart e mbretit të Babilonisë dhe këtij qyteti do t'i vihet zjarri""."
 "Sedekia i tha Jeremias
 "Por në rast se princat do të mësojnë që kam folur me ty dhe do të vijnë te ti për të të thënë
 "do t'u përgjigjesh atyre

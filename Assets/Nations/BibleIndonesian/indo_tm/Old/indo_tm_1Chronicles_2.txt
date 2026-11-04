@@ -1,6 +1,6 @@
 "Bermula, maka inilah bani Israel
 "Dan, Yusuf, Benyamin, Naftali, Gad dan Asyer."
-"Maka bani Yehuda itulah Er dan Onan dan Syela, tiga orang diperanakkan baginya oleh anak Syua, perempuan Kanani itu; adapun Er, anak Yehuda yang sulung itu, jahatlah ia kepada pemandangan Tuhan, sebab itu dibunuh Tuhan akan dia."
+"Maka bani Yehuda itulah Er dan Onan dan Syela, tiga orang diperanakkan baginya oleh anak Syua, perempuan Kanani itu; #adapun Er, anak Yehuda yang sulung itu, jahatlah ia kepada pemandangan Tuhan, sebab itu dibunuh Tuhan akan dia."
 "Maka Tamar, menantunya perempuan, beranaklah baginya Perez dan Zerah. Maka segala anak laki-laki Yehuda itu lima orang banyaknya."
 "Maka bani Perez itulah Hezron dan Hamul."
 "Dan bani Zerah itulah Zimri dan Etan dan Heman dan Khalkol dan Dara, semuanya lima orang."
@@ -20,7 +20,7 @@
 "Maka Hur beranaklah Uri dan Uri beranaklah Bezaliel."
 "Setelah itu maka pergilah Hezron kepada seorang anak perempuan Makhir, bapa Gilead, diambilnya akan bininya pada masa umurnya enam puluh tahun, maka perempuan itupun beranakkanlah Segub baginya."
 "Maka Segub beranaklah Yair, dan adalah padanya dua puluh tiga buah negeri di benua Gilead itu."
-"Maka ia juga yang telah merampas dari pada orang Usur dan Aram segala dusun Yair, dan lagi adalah padanya Kenat dan segala daerahnya, enam puluh buah negeri. Maka sekalian inilah anak laki-laki Makhir, bapa Gilead."
+"Maka ia juga yang telah merampas dari pada orang Usur dan Aram segala dusun Yair, dan lagi adalah #padanya Kenat dan segala daerahnya, enam puluh buah negeri. Maka sekalian inilah anak laki-laki Makhir, bapa Gilead."
 "Kemudian dari pada mati Hezron di Kaleb-Eferata diperanakkanlah Abia, bini Hezron, baginya Asyur, bapa Tekoa."
 "Maka bani Yerahmiel, anak sulung Hezron itu, inilah
 "Maka pada Yerahmiel adalah pula seorang bini bernama Atara, ialah ibu Onam."

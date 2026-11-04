@@ -18,7 +18,7 @@
 "Bali się tedy mężowie oni, gdy byli wprowadzeni w dom Józefów, i mówili
 "A przystąpiwszy do męża tego, który był sprawcą domu Józefowego, mówili do niego we drzwiach domu."
 "I rzekli
-"I stało się, gdyśmy przyjechali do gospody, i rozwiązaliśmy wory nasze, oto, pieniądze każdego były na wierzchu woru jego, pieniądze nasze, według wagi ich, któreśmy zaś przynieśli w rękach naszych."
+"I stało się, gdyśmy przyjechali do gospody, i rozwiązaliśmy wory nasze, oto, pieniądze każdego były na #wierzchu woru jego, pieniądze nasze, według wagi ich, któreśmy zaś przynieśli w rękach naszych."
 "Pieniądze też drugie przynieśliśmy w rękach naszych, abyśmy nakupili żywności, a nie wiemy, kto włożył te pieniądze nasze do worów naszych."
 "A on rzekł
 "A przywiódłszy on mąż one ludzie w dom Józefów, dał im wody, i umyli nogi swe; dał też obrok osłom ich."

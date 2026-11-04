@@ -7,7 +7,7 @@
 "So spricht der HERR, der Gott Israels
 "und die Chaldäer werden wiederkommen und wider diese Stadt streiten und sie gewinnen und mit Feuer verbrennen."
 "Darum spricht der HERR also
-"Und wenn ihr schon schlüget das ganze Heer der Chaldäer, so wider euch streiten, und blieben ihrer etliche verwundetübrig, so würden sie doch, ein jeglicher in seinem Gezelt, sich aufmachen und diese Stadt mit Feuer verbrennen."
+"Und wenn ihr schon schlüget das ganze Heer der Chaldäer, so wider euch streiten, und blieben ihrer etliche verwundetübrig, #so würden sie doch, ein jeglicher in seinem Gezelt, sich aufmachen und diese Stadt mit Feuer verbrennen."
 "Als nun der Chaldäer Heer von Jerusalem war abgezogen um des Heeres willen Pharaos,"
 "ging Jeremia aus Jerusalem und wollte ins Land Benjamin gehen, seinen Acker in Besitz zu nehmen unter dem Volk."
 "Und da er unter das Tor Benjamin kam, da war einer bestellt zum Torhüter, mit Namen Jeria, der Sohn Selemjas, des Sohnes Hananjas; der griff den Propheten Jeremia und sprach
@@ -18,4 +18,4 @@
 "Und Jeremia sprach zum König Zedekia
 "Wo sind nun eure Propheten, die euch weissagten und sprachen
 "Und nun, mein Herr König, höre mich und laß meine Bitte vor dir gelten und laß mich nicht wieder in Jonathans, des Schreibers, Haus bringen, daß ich nicht sterbe daselbst."
-"Da befahl der König Zedekia, daß man Jeremia im Vorhof des Gefängnisses behalten sollte, und ließ ihm des Tages ein Laiblein Brot geben aus der Bäckergasse, bis daß alles Brot in der Stadt aufgezehrt war. Also blieb Jeremia im Vorhof des Gefängnisses."
+"Da befahl der König Zedekia, daß man Jeremia im Vorhof des Gefängnisses behalten sollte, und ließ ihm des Tages ein Laiblein Brot #geben aus der Bäckergasse, bis daß alles Brot in der Stadt aufgezehrt war. Also blieb Jeremia im Vorhof des Gefängnisses."

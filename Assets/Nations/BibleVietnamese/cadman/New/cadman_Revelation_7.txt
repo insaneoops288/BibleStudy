@@ -6,7 +6,7 @@
 "Trong chi phái A-se, một vạn hai ngàn; Trong chi phái Nép-ta-li, một vạn hai ngàn; Trong chi phái Ma-na-se, một vạn hai ngàn;"
 "Trong chi phái Si-mê-ôn, một vạn hai ngàn; Trong chi phái Lê-vi, một vạn hai ngàn; Trong chi phái Y-sa-ca, một vạn hai ngàn;"
 "Trong chi phái Sa-bu-lôn, một vạn hai ngàn; Trong chi phái Giô-sép, một vạn hai ngàn; Trong chi phái Bên-gia-min, một vạn hai ngàn đều được đóng ấn."
-"Sự ấy đoạn, tôi nhìn xem, thấy vô số người, không ai đếm được, bởi mọi nước, mọi chi phái, mọi dân tộc, mọi tiếng mà ra; chúng đứng trước ngôi và trước Chiên Con, mặc áo dài trắng, tay cầm nhành chà là,"
+"Sự ấy đoạn, tôi nhìn xem, thấy vô số người, không ai đếm được, bởi mọi nước, mọi chi phái, mọi dân tộc, #mọi tiếng mà ra; chúng đứng trước ngôi và trước Chiên Con, mặc áo dài trắng, tay cầm nhành chà là,"
 "cất tiếng lớn kêu rằng
 "Vả, hết thảy thiên sứ đứng vòng chung quanh ngôi và chung quanh các trưởng lão cùng bốn con sanh vật, sắp mặt xuống trước ngôi, mà thờ lạy Ðức Chúa Trời,"
 "mà rằng

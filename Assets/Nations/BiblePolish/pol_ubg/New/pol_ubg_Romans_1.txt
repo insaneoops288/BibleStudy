@@ -24,7 +24,7 @@
 "Dlatego też Bóg wydał ich nieczystości przez pożądliwości ich serc, aby hańbili swoje ciała między sobą."
 "Oni to zamienili prawdę Bożą w kłamstwo i czcili stworzenie, i służyli jemu raczej niż Stwórcy, który jest błogosławiony na wieki. Amen."
 "Dlatego wydał ich Bóg haniebnym namiętnościom, gdyż nawet ich kobiety zamieniły naturalne współżycie na przeciwne naturze."
-"Także mężczyźni, opuściwszy naturalne współżycie z kobietą, zapałali w swej pożądliwości jedni ku drugim, mężczyzna z mężczyzną, popełniając haniebne czyny i ponosząc na sobie samych należną za swój błąd zapłatę."
+"Także mężczyźni, opuściwszy naturalne współżycie z kobietą, zapałali w swej pożądliwości jedni ku drugim, mężczyzna z #mężczyzną, popełniając haniebne czyny i ponosząc na sobie samych należną za swój błąd zapłatę."
 "A skoro im się nie spodobało zachowanie poznania Boga, wydał ich Bóg na pastwę wypaczonego umysłu, aby robili to, co nie wypada;"
 "Będąc napełnieni wszelką nieprawością, nierządem, przewrotnością, chciwością, złośliwością; pełni zazdrości, morderstwa, sporu, podstępu, złych obyczajów;"
 "Plotkarze, oszczercy, nienawidzący Boga, zuchwali, pyszni, chełpliwi, wynalazcy złych rzeczy, nieposłuszni rodzicom;"

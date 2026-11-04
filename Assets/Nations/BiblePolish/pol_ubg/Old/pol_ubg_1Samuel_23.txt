@@ -20,10 +20,10 @@
 "Teraz więc, królu, według pragnienia swojej duszy, by zejść, zejdź czym prędzej, a my postaramy się wydać go w ręce króla."
 "Saul odpowiedział
 "Idźcie, proszę, i przygotujcie się pilnie; dowiedzcie się, kto go tam widział, i wypatrzcie miejsce, w którym przebywa. Mówiono bowiem, że postępuje bardzo przebiegle."
-"Wypatrzcie więc wszystkie jego kryjówki, w których się ukrywa, i wywiadujcie się o nie. Potem wróćcie do mnie z pewną wiadomością, a pójdę z wami. Jeśli będzie w ziemi, wtedy będę go szukał wśród wszystkich tysięcy w Judzie."
+"Wypatrzcie więc wszystkie jego kryjówki, w których się ukrywa, i wywiadujcie się o nie. Potem wróćcie do mnie z pewną #wiadomością, a pójdę z wami. Jeśli będzie w ziemi, wtedy będę go szukał wśród wszystkich tysięcy w Judzie."
 "Wstali więc i poszli do Zif przed Saulem. Dawid zaś i jego ludzie byli na pustyni Maon, na równinie po południowej stronie Jeszimona."
 "Saul wraz z jego ludźmi również poszli, aby go szukać. Gdy doniesiono o tym Dawidowi, ten zstąpił do skały i mieszkał na pustyni Maon. Kiedy Saul o tym usłyszał, ścigał Dawida na pustyni Maon."
-"I Saul szedł po jednej stronie góry, a Dawid i jego ludzie szli po drugiej stronie góry. I Dawid spieszył się, aby ujść przed Saulem, gdyż Saul i jego ludzie już otaczali Dawida i jego ludzi, aby ich pojmać."
+"I Saul szedł po jednej stronie góry, a Dawid i jego ludzie szli po drugiej stronie góry. I Dawid spieszył #się, aby ujść przed Saulem, gdyż Saul i jego ludzie już otaczali Dawida i jego ludzi, aby ich pojmać."
 "Tymczasem posłaniec przybył do Saula, mówiąc
 "Saul zawrócił więc od pościgu za Dawidem i wyruszył przeciw Filistynom. Dlatego nazwano to miejsce Sela-Hammalekot."
 "Dawid zaś wyruszył stamtąd i przebywał w miejscach obronnych w En-Gedi."

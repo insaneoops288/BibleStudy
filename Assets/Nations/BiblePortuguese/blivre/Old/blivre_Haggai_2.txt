@@ -1,7 +1,7 @@
 "No sétimo mês, no vigésimo primeiro [dia] mês, veio a palavra do SENHOR por meio do profeta Ageu, dizendo
 "Fala agora a Zorobabel filho de Sealtiel, governador de Judá, e a Josué filho de Jeozadaque, sumo sacerdote, e ao resto do povo, dizendo
 "Quem restou dentre vós que tenha visto esta casa em sua primeira glória? E como a vedes agora? Não é esta como nada diante de vossos olhos?"
-"Agora, pois, esforça-te, Zorobabel, diz o SENHOR; esforça-te também Josué, filho de Jeozadaque, sumo sacerdote; e esforça-te, todo o povo da terra, diz o SENHOR, e trabalhai; porque eu estou convosco, diz o SENHOR dos exércitos."
+"Agora, pois, esforça-te, Zorobabel, diz o SENHOR; esforça-te também Josué, filho de Jeozadaque, sumo sacerdote; e esforça-te, todo o #povo da terra, diz o SENHOR, e trabalhai; porque eu estou convosco, diz o SENHOR dos exércitos."
 "Conforme o pacto que estabeleci convosco quando saístes do Egito, assim meu Espírito está em meio de vós; não temais."
 "Porque assim diz o SENHOR dos exércitos
 "E farei tremer a todas as nações, e virá as coisas preciosas de todas as nações; e encherei esta casa de glória, diz o SENHOR dos exércitos."
@@ -9,7 +9,7 @@
 "A glória desta última casa será maior que a da primeira, diz o SENHOR dos exércitos; e neste lugar darei paz, diz o SENHOR dos exércitos."
 "Ao vigésimo quarto [dia] do nono mês, no segundo ano de Dario, veio a palavra do SENHOR por mão do profeta Ageu, dizendo
 "Assim diz o SENHOR dos exércitos
-"Se alguém levar carnes santas na borda de sua veste, e com sua borda tocar o pão, a comida, o vinho, o azeite, ou qualquer [outra] comida, por acaso isso será santificado?E os sacerdotes responderam
+"Se alguém levar carnes santas na borda de sua veste, e com sua borda tocar o pão, a #comida, o vinho, o azeite, ou qualquer [outra] comida, por acaso isso será santificado?E os sacerdotes responderam
 "E Ageu disse
 "Então Ageu respondeu
 "Agora pois, considerai desde este dia em diante, antes que se ponha pedra sobre pedra no templo do SENHOR,"
@@ -19,5 +19,5 @@
 "Ainda há semente no celeiro? A videira, a figueira, a romeira, e oliveira ainda não têm dado frutos; mas a partir de hoje eu [vos] abençoarei."
 "E a palavra do SENHOR veio pela segunda vez a Ageu, ao vigésimo quarto [dia] do mês, dizendo
 "Fala a Zorobabel, governador de Judá, dizendo
-"E transtornarei o trono dos reinos, e destruirei a força dos reinos das nações; e transtornarei as carruagens, e os que nelas se sentam; e os cavalos e os que neles montam cairão, cada um pela espada de seu irmão."
+"E transtornarei o trono dos reinos, e destruirei a força dos reinos das nações; e transtornarei as carruagens, e os que #nelas se sentam; e os cavalos e os que neles montam cairão, cada um pela espada de seu irmão."
 "Naquele dia, diz o SENHOR dos exércitos, eu te tomarei, Zorobabel, filho de Sealtiel, servo meu, diz o SENHOR, e te porei como anel de selar; porque eu te escolhi, diz o SENHOR dos exércitos."

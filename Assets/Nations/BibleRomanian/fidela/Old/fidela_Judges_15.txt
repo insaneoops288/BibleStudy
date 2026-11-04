@@ -11,7 +11,7 @@
 "Atunci trei mii de bărbați din Iuda au mers pe vârful stâncii Etam și i-au spus lui Samson
 "Iar ei i-au spus
 "Și i-au vorbit, spunând
-"[Și ]când a venit la Lehi, filistenii au strigat împotriva lui; și Duhul DOMNULUI a venit cu putere peste el și funiile care [erau] pe brațele lui au devenit ca niște in ars cu foc, și legăturile lui s-au dezlegat de pe mâinile sale."
+"[Și ]când a venit la Lehi, filistenii au strigat împotriva lui; și Duhul DOMNULUI a venit cu putere peste el și funiile care #[erau] pe brațele lui au devenit ca niște in ars cu foc, și legăturile lui s-au dezlegat de pe mâinile sale."
 "Și el a găsit o falcă de măgar neuscată și și-a întins mâna și a luat-o și a ucis cu ea o mie de bărbați."
 "Și Samson a spus
 "Și s-a întâmplat, când a terminat de vorbit, că a aruncat falca din mâna lui și a numit acel loc Ramat-Lehi."

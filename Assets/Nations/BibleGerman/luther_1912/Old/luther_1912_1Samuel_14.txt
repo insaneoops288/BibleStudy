@@ -24,7 +24,7 @@
 "Und da die Männer Israels matt waren desselben Tages, beschwor Saul das Volk und sprach
 "Und das ganze Land kam in den Wald. Es war aber Honig auf dem Erdboden."
 "Und da das Volk hineinkam in den Wald, siehe, da floß der Honig. Aber niemand tat davon mit der Hand zu seinem Munde; denn das Volk fürchtete sich vor dem Eid."
-"Jonathan aber hatte nicht gehört, daß sein Vater das Volk beschworen hatte, und reckte seinen Stab aus, den er in seiner Hand hatte, und tauchte mit der Spitze in den Honigseim und wandte seine Hand zu seinem Munde; da wurden sein Augen wacker.{~}"
+"Jonathan aber hatte nicht gehört, daß sein Vater das Volk beschworen hatte, und reckte seinen Stab aus, den er in seiner Hand #hatte, und tauchte mit der Spitze in den Honigseim und wandte seine Hand zu seinem Munde; da wurden sein Augen wacker.{~}"
 "Da antwortete einer des Volks und sprach
 "Da sprach Jonathan
 "Weil aber das Volk heute nicht hat dürfen essen von der Beute seiner Feinde, die es gefunden hat, so hat auch nun die Schlacht nicht größer werden können wider die Philister."

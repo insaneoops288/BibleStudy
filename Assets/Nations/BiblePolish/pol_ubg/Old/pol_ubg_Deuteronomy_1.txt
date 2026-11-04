@@ -4,7 +4,7 @@
 "Gdy pobił Sichona, króla Amorytów, który mieszkał w Cheszbonie, i Oga, króla Baszanu, który mieszkał w Asztarot w Edrei;"
 "Po tej stronie Jordanu, w ziemi Moabu, Mojżesz zaczął objaśniać to prawo
 "PAN, nasz Bóg, przemówił do nas na Horebie
-"Zawróćcie i wyruszcie, a idźcie w stronę góry Amorytów oraz do wszystkich miejsc leżących w jej pobliżu, na równinie, w górach i w dolinie, na południu i na wybrzeżu morza, do ziemi Kanaan i do Libanu, aż do wielkiej rzeki, rzeki Eufrat."
+"Zawróćcie i wyruszcie, a idźcie w stronę góry Amorytów oraz do wszystkich miejsc leżących w jej pobliżu, na równinie, w górach i #w dolinie, na południu i na wybrzeżu morza, do ziemi Kanaan i do Libanu, aż do wielkiej rzeki, rzeki Eufrat."
 "Oto położyłem przed wami tę ziemię. Wejdźcie do niej i weźcie w posiadanie tę ziemię, którą PAN przysiągł dać waszym ojcom
 "I powiedziałem wam w tamtym czasie
 "PAN, wasz Bóg, rozmnożył was, a oto jesteście dziś tak liczni jak gwiazdy na niebie."
@@ -14,7 +14,7 @@
 "Wtedy odpowiedzieliście mi
 "I wybrałem naczelników z waszych pokoleń, mężczyzn mądrych i doświadczonych, i ustanowiłem ich waszymi zwierzchnikami
 "I rozkazałem waszym sędziom w tym czasie
-"Nie miejcie względu na osoby w sądzie; wysłuchujcie zarówno małego, jak i wielkiego. Nie bójcie się nikogo, ponieważ jest to sąd Boga. Jeśli sprawa będzie dla was zbyt trudna, przedstawcie ją mnie i ja jej wysłucham."
+"Nie miejcie względu na osoby w sądzie; wysłuchujcie zarówno małego, jak i wielkiego. Nie bójcie się nikogo, ponieważ jest #to sąd Boga. Jeśli sprawa będzie dla was zbyt trudna, przedstawcie ją mnie i ja jej wysłucham."
 "I przykazałem wam w tamtym czasie wszystko, co macie czynić."
 "Potem wyruszyliśmy z Horebu i przeszliśmy przez całą tę wielką i straszną pustynię, którą widzieliście po drodze do góry Amorytów, jak nakazał nam PAN, nasz Bóg, i przyszliśmy aż do Kadesz-Barnea."
 "I powiedziałem do was

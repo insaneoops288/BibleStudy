@@ -18,7 +18,7 @@
 "para governar o dia e a noite, e para fazer separação entre a luz e as trevas. E viu Deus que isso era bom."
 "E foi a tarde e a manhã, o dia quarto."
 "E disse Deus
-"Criou, pois, Deus os monstros marinhos, e todos os seres viventes que se arrastavam, os quais as águas produziram abundantemente segundo as suas espécies; e toda ave que voa, segundo a sua espécie. E viu Deus que isso era bom."
+"Criou, pois, Deus os monstros marinhos, e todos os seres viventes que se arrastavam, os quais as águas produziram abundantemente segundo #as suas espécies; e toda ave que voa, segundo a sua espécie. E viu Deus que isso era bom."
 "Então Deus os abençoou, dizendo
 "E foi a tarde e a manhã, o dia quinto."
 "E disse Deus

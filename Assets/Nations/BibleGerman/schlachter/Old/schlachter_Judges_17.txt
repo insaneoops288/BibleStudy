@@ -1,7 +1,7 @@
 "Es war ein Mann vom Gebirge Ephraim, namens Micha. Der sprach zu seiner Mutter
-"Die elfhundert Silberlinge, die dir genommen worden sind und um derentwillen du einen Fluch ausgesprochen hast vor meinen Ohren; siehe, jenes Geld ist bei mir, ich habe es genommen! Da sprach seine Mutter
+"Die elfhundert Silberlinge, die dir genommen worden sind und um derentwillen du einen Fluch ausgesprochen hast vor #meinen Ohren; siehe, jenes Geld ist bei mir, ich habe es genommen! Da sprach seine Mutter
 "Also gab er seiner Mutter die elfhundert Silberlinge wieder. Und seine Mutter sprach
-"Er aber gab seiner Mutter das Geld zurück. Da nahm seine Mutter zweihundert Silberlinge und gab sie dem Goldschmied; der machte ihr daraus ein geschnitztes und gegossenes Bild; das kam in Michas Haus."
+"Er aber gab seiner Mutter das Geld zurück. Da nahm seine Mutter zweihundert Silberlinge und gab sie #dem Goldschmied; der machte ihr daraus ein geschnitztes und gegossenes Bild; das kam in Michas Haus."
 "So hatte also Micha ein Gotteshaus, und er machte ein Ephod und Teraphim und füllte einem seiner Söhne die Hand, daß er Priester wurde."
 "Zu jener Zeit war kein König in Israel; und ein jeder tat, was ihn recht dünkte."
 "Es war aber ein Jüngling von Bethlehem-Juda, vom Geschlecht Judas, der war ein Levit und hielt sich daselbst auf."

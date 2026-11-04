@@ -19,7 +19,7 @@
 "Și după ce au vâslit cam douăzeci și cinci sau treizeci de stadii, ei îl văd pe Isus umblând pe mare și apropiindu-se de corabie, și s-au temut."
 "Dar el le-a spus
 "Atunci cu voie bună l-au primit în corabie; și îndată corabia a sosit la țărmul spre care mergeau."
-"A doua zi, când mulțimea care stătea de cealaltă parte a mării a văzut că acolo nu era nicio altă corabie decât aceea în care se urcaseră discipolii lui, și că Isus nu intrase cu discipolii lui în corabie, ci discipolii plecaseră singuri cu ea;"
+"A doua zi, când mulțimea care stătea de cealaltă parte a mării a văzut că acolo nu era nicio altă corabie decât aceea #în care se urcaseră discipolii lui, și că Isus nu intrase cu discipolii lui în corabie, ci discipolii plecaseră singuri cu ea;"
 "(Dar din Tiberiada au venit alte corăbii aproape de locul unde mâncaseră pâinea, după ce Domnul mulțumise)."
 "Când a văzut așadar mulțimea că nici Isus, nici discipolii lui nu erau acolo, au urcat și ei în corăbii și au venit la Capernaum, căutând pe Isus."
 "Și când l-au găsit de cealaltă parte a mării, i-au spus

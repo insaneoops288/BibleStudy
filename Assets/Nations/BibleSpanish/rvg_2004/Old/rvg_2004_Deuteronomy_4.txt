@@ -6,7 +6,7 @@
 "Guardadlos, pues, y ponedlos por obra; porque ésta es vuestra sabiduría y vuestra inteligencia en ojos de los pueblos, los cuales oirán todos estos estatutos, y dirán
 "Porque ¿qué nación grande hay que tenga los dioses cercanos a sí, como lo está Jehová nuestro Dios en todo cuanto le pedimos?"
 "Y ¿qué nación grande hay que tenga estatutos y derechos justos, como es toda esta ley que yo pongo hoy delante de vosotros?"
-"Por tanto, guárdate, y guarda tu alma con diligencia, que no te olvides de las cosas que tus ojos han visto, ni se aparten de tu corazón todos los días de tu vida; y las enseñarás a tus hijos, y a los hijos de tus hijos;"
+"Por tanto, guárdate, y guarda tu alma con diligencia, que no te olvides de las cosas que tus ojos han visto, ni se aparten #de tu corazón todos los días de tu vida; y las enseñarás a tus hijos, y a los hijos de tus hijos;"
 "El día que estuviste delante de Jehová tu Dios en Horeb, cuando Jehová me dijo
 "Y os acercasteis, y os pusisteis al pie del monte; y el monte ardía en fuego hasta en medio de los cielos con tinieblas, nube, y oscuridad."
 "Y habló Jehová con vosotros de en medio del fuego
@@ -16,22 +16,22 @@
 "para que no os corrompáis, y hagáis para vosotros escultura, imagen de figura alguna, efigie de varón o hembra,"
 "figura de algún animal que sea en la tierra, figura de ave alguna alada que vuele por el aire,"
 "figura de ningún animal que vaya arrastrando por la tierra, figura de pez alguno que haya en el agua debajo de la tierra
-"No sea que alzando tus ojos al cielo, y viendo el sol y la luna y las estrellas, y todo el ejército del cielo, seas incitado, y te inclines a ellos, y les sirvas; que Jehová tu Dios los ha concedido a todos los pueblos debajo de todos los cielos."
+"No sea que alzando tus ojos al cielo, y viendo el sol y la luna y las estrellas, y todo el ejército del cielo, seas incitado, #y te inclines a ellos, y les sirvas; que Jehová tu Dios los ha concedido a todos los pueblos debajo de todos los cielos."
 "Mas a vosotros Jehová os tomó, y os ha sacado del horno de hierro, de Egipto, para que le seáis por pueblo, por heredad, como en este día."
 "Y Jehová se enojó contra mí por causa de vosotros, y juró que yo no pasaría el Jordán, ni entraría en la buena tierra, que Jehová tu Dios te da por heredad."
 "Así que yo voy a morir en esta tierra; y no paso el Jordán; mas vosotros pasaréis, y poseeréis aquella buena tierra."
 "Guardaos, no sea que olvidéis el pacto de Jehová vuestro Dios, que Él estableció con vosotros, y os hagáis escultura o imagen de cualquier cosa, que Jehová tu Dios te ha prohibido."
 "Porque Jehová tu Dios es fuego consumidor, Dios celoso."
-"Cuando hubiereis engendrado hijos y nietos, y hubiereis envejecido en la tierra, y os corrompiereis, e hiciereis escultura o imagen de cualquier cosa, e hiciereis mal ante los ojos de Jehová vuestro Dios, para enojarlo;"
+"Cuando hubiereis engendrado hijos y nietos, y hubiereis envejecido en la tierra, y os corrompiereis, e hiciereis escultura #o imagen de cualquier cosa, e hiciereis mal ante los ojos de Jehová vuestro Dios, para enojarlo;"
 "Yo pongo hoy por testigos al cielo y a la tierra, que presto pereceréis totalmente de la tierra hacia la cual pasáis el Jordán para poseerla
 "Y Jehová os esparcirá entre los pueblos, y quedaréis pocos en número entre las naciones a las cuales os llevará Jehová
 "Y serviréis allí a dioses hechos de manos de hombres, a madera y a piedra, que no ven, ni oyen, ni comen, ni huelen."
 "Mas si desde allí buscares a Jehová tu Dios, lo hallarás, si lo buscares de todo tu corazón y de toda tu alma."
 "Cuando estuviereis en angustia, y te alcanzaren todas estas cosas, si en los postreros días te volvieres a Jehová tu Dios, y oyeres su voz;"
 "Porque Dios misericordioso es Jehová tu Dios; no te dejará, ni te destruirá, ni se olvidará del pacto de tus padres que Él les juró."
-"Porque pregunta ahora de los tiempos pasados, que han sido antes de ti, desde el día que creó Dios al hombre sobre la tierra, y desde un extremo del cielo al otro, si se ha hecho cosa semejante a esta gran cosa, o se haya oído otra como ella."
+"Porque pregunta ahora de los tiempos pasados, que han sido antes de ti, desde el día que creó Dios al hombre sobre la tierra, y #desde un extremo del cielo al otro, si se ha hecho cosa semejante a esta gran cosa, o se haya oído otra como ella."
 "¿Ha oído pueblo la voz de Dios, que hablase de en medio del fuego, como tú la has oído, y vivido?"
-"¿O ha Dios probado a venir a tomar para sí nación de en medio de otra nación, con pruebas, con señales, con milagros, y con guerra, y mano fuerte, y brazo extendido, y grandes espantos, según todas las cosas que hizo con vosotros Jehová vuestro Dios en Egipto ante tus ojos?"
+"¿O ha Dios probado a venir a tomar para sí nación de en medio de otra nación, con pruebas, con señales, con milagros, y con guerra, #y mano fuerte, y brazo extendido, y grandes espantos, según todas las cosas que hizo con vosotros Jehová vuestro Dios en Egipto ante tus ojos?"
 "A ti te fue mostrado, para que supieses que Jehová Él es Dios; no hay más fuera de Él."
 "De los cielos te hizo oír su voz, para enseñarte
 "Y por cuanto Él amó a tus padres, escogió a su simiente después de ellos, y te sacó delante de sí de Egipto con su gran poder;"
@@ -43,7 +43,7 @@
 "A Beser en el desierto, en tierra de la llanura, de los rubenitas; y a Ramot en Galaad, de los gaditas; y a Golán en Basán, de los de Manasés."
 "Ésta, pues, es la ley que Moisés propuso delante de los hijos de Israel."
 "Éstos son los testimonios, y los estatutos, y los derechos, que Moisés notificó a los hijos de Israel, cuando hubieron salido de Egipto;"
-"a este lado del Jordán, en el valle delante de Bet-peor, en la tierra de Sehón rey de los amorreos, que habitaba en Hesbón, al cual hirió Moisés con los hijos de Israel, cuando hubieron salido de Egipto
+"a este lado del Jordán, en el valle delante de Bet-peor, en la tierra de Sehón rey de los amorreos, #que habitaba en Hesbón, al cual hirió Moisés con los hijos de Israel, cuando hubieron salido de Egipto
 "Y poseyeron su tierra, y la tierra de Og rey de Basán; dos reyes de los amorreos que estaban de este lado del Jordán, hacia el nacimiento del sol
 "Desde Aroer, que está junto a la ribera del arroyo de Arnón, hasta el monte de Sión, que es Hermón;"
 "y toda la llanura de este lado del Jordán, al oriente, hasta el mar del Arabá, hasta las vertientes de las aguas abajo del Pisga."

@@ -46,7 +46,7 @@
 "Hinh-kia con trai của Am-si, Am-si con trai của Ba-ni, Ba-ni con trai của Sê-me,"
 "Sê-me con trai của Mách-lị, Mách-lị con trai của Mu-si, Mu-si con trai của Mê-ra-ri, Mê-ra-ri con trai của Lê-vi."
 "Các anh em chúng, là những người Lê-vi khác, đều được cắt làm mọi việc trong đền tạm của Ðức Chúa Trời."
-"A-rôn và các con trai người đều dâng của lễ hoặc trên bàn thờ về của lễ thiêu hay trên bàn thờ xông hương, làm mọi việc ở nơi chí thánh, và làm lễ chuộc tội cho Y-sơ-ra-ên, theo như mọi sự Môi-se, đầy tớ Ðức Chúa Trời, đã trừ diệt."
+"A-rôn và các con trai người đều dâng của lễ hoặc trên bàn thờ về của lễ thiêu hay trên bàn thờ xông hương, làm mọi #việc ở nơi chí thánh, và làm lễ chuộc tội cho Y-sơ-ra-ên, theo như mọi sự Môi-se, đầy tớ Ðức Chúa Trời, đã trừ diệt."
 "Ðây là dòng dõi của A-rôn
 "Bu-ki con trai của A-bi-sua, U-xi con trai của Bu-ki, Xê-ra-hi-gia con trai của U-xi,"
 "Mê-ra-giốt con trai của Xê-ra-hi-gia, A-ma-ria con trai của Mê-ra-giốt, A-hi-túp con trai của A-ma-ria,"

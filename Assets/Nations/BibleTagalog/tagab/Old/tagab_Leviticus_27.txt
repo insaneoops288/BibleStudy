@@ -5,7 +5,7 @@
 "At kung mula sa may limang taon hanggang sa may dalawang pung taon, ay dalawang pung siklo, ang ihahalaga mo sa lalake at sa babae ay sangpung siklo."
 "At kung mula sa may isang buwan hanggang sa may limang taon ay limang siklong pilak ang iyong ihahalaga sa lalake at sa babae ay tatlong siklong pilak ang iyong ihahalaga."
 "At kung sa may anim na pung taon na patanda; kung lalake, ay labing limang siklo ang iyong ihahalaga, at sa babae ay sangpung siklo."
-"Nguni't kung kapos ng ikababayad sa iyong inihalaga, ay pahaharapin mo siya sa harap ng saserdote, at hahalagahan siya ng saserdote; ayon sa ikakakaya ng may panata, ay siyang ihahalaga sa kaniya ng saserdote."
+"Nguni't kung kapos ng ikababayad sa iyong inihalaga, ay pahaharapin mo siya sa harap ng saserdote, at hahalagahan #siya ng saserdote; ayon sa ikakakaya ng may panata, ay siyang ihahalaga sa kaniya ng saserdote."
 "At kung hayop na ihahandog na alay sa Panginoon, lahat na ibibigay niyaon ng sinoman sa Panginoon ay magiging banal."
 "Huwag niyang babaguhin o papalitan ang mabuti ng masama o ang masama ng mabuti
 "At kung yao'y anomang hayop na karumaldumal na sa hindi maihahandog na alay sa Panginoon, ay ilalagay nga niya ang hayop sa harap ng saserdote
@@ -15,7 +15,7 @@
 "At kung tutubusin ng nagtalaga ang kaniyang bahay, ay magdadagdag nga ng ikalimang bahagi ng salapi na inihalaga mo roon, at magiging kaniya."
 "At kung ang sinoman ay magtatalaga sa Panginoon ng bahagi ng bukid na kaniyang pag-aari, ay ayon sa hasik doon ang iyong ihahalaga nga
 "Kung itatalaga niya ang kaniyang bukid mula sa taon ng jubileo, ay magiging ayon sa iyong inihalaga."
-"Datapuwa't kung italaga niya ang kaniyang bukid pagkatapos ng jubileo, ay bibilangan sa kaniya ng saserdote ng salapi ayon sa mga taong natitira hanggang sa taon ng jubileo at bababaan ang iyong inihalaga."
+"Datapuwa't kung italaga niya ang kaniyang bukid pagkatapos ng jubileo, ay bibilangan sa kaniya ng saserdote ng #salapi ayon sa mga taong natitira hanggang sa taon ng jubileo at bababaan ang iyong inihalaga."
 "At kung tutubusin ng nagtalaga ng bukid ay magdadagdag ng ikalimang bahagi ng salaping iyong inihalaga roon, at mapapasa kaniya."
 "At kung hindi niya tutubusin ang bukid, o kung ipinagbili niya ang bukid sa ibang tao ay hindi na niya matutubos
 "Kundi ang bukid pagka naalis sa jubileo, ay magiging banal sa Panginoon, na parang bukid na itinalaga

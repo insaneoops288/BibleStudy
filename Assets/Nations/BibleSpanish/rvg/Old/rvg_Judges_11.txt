@@ -15,7 +15,7 @@
 "para decirle
 "Mas subiendo Israel de Egipto, anduvo por el desierto hasta el Mar Rojo, y llegó a Cades."
 "Entonces Israel envió embajadores al rey de Edom, diciendo
-"Después, yendo por el desierto, rodeó la tierra de Edom y la tierra de Moab, y viniendo por el lado oriental de la tierra de Moab, acampó en el otro lado de Arnón, y no entraron por el término de Moab; porque Arnón [era] la frontera de Moab."
+"Después, yendo por el desierto, rodeó la tierra de Edom y la tierra de Moab, y viniendo por el lado oriental de la tierra de #Moab, acampó en el otro lado de Arnón, y no entraron por el término de Moab; porque Arnón [era] la frontera de Moab."
 "Y envió Israel embajadores a Sehón, rey de los amorreos, rey de Hesbón, y le dijo Israel
 "Mas Sehón no se fió de Israel para darle paso por su término; sino que reuniendo Sehón a toda su gente, acampó en Jahaza, y peleó contra Israel."
 "Pero Jehová, el Dios de Israel, entregó a Sehón y a todo su pueblo en mano de Israel, y los venció; y poseyó Israel toda la tierra del amorreo que habitaba en aquel país."
@@ -23,7 +23,7 @@
 "Así que Jehová, el Dios de Israel, echó a los amorreos de delante de su pueblo Israel; ¿y lo has de poseer tú?"
 "¿No poseerás tú lo que Quemos, tu dios, te dé por posesión? Así poseeremos nosotros a todo aquel que echó Jehová nuestro Dios de delante de nosotros."
 "¿[Eres] tú ahora mejor en algo que Balac hijo de Zipor, rey de Moab? ¿Tuvo él pleito contra Israel, o hizo guerra contra ellos?"
-"Cuando Israel ha estado habitando por trescientos años a Hesbón y sus aldeas, a Aroer y sus aldeas, y todas las ciudades que [están] a los términos de Arnón, ¿por qué no las habéis reclamado en ese tiempo?"
+"Cuando Israel ha estado habitando por trescientos años a Hesbón y sus aldeas, a Aroer y sus aldeas, y todas #las ciudades que [están] a los términos de Arnón, ¿por qué no las habéis reclamado en ese tiempo?"
 "Así que, yo en nada he pecado contra ti, mas tú me haces mal haciendo guerra contra mí
 "Mas el rey de los hijos de Amón no atendió a las razones que Jefté le envió."
 "Y el Espíritu de Jehová vino sobre Jefté; y pasó por Galaad y Manasés; y de allí pasó a Mizpa de Galaad; y de Mizpa de Galaad pasó a los hijos de Amón."

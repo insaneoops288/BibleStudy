@@ -10,7 +10,7 @@
 "el hijo de Hesed, en Arubot; éste [tenía] también a Soco y toda la tierra de Hefer;"
 "el hijo de Abinadab, en todos los términos de Dor; éste tenía por esposa a Tafat, hija de Salomón;"
 "Baana, hijo de Ahilud, en Taanac y Meguido, y en toda Bet-seán, que [está] cerca de Zaretán, abajo de Jezreel, desde Bet-seán hasta Abel-mehola, y hasta el otro lado de Jocmeam;"
-"el hijo de Geber, en Ramot de Galaad; éste tenía también las ciudades de Jair hijo de Manasés, las cuales estaban en Galaad; tenía también la provincia de Argob, que [estaba] en Basán, sesenta grandes ciudades con muro y cerraduras de bronce;"
+"el hijo de Geber, en Ramot de Galaad; éste tenía también las ciudades de Jair hijo de Manasés, las cuales estaban en #Galaad; tenía también la provincia de Argob, que [estaba] en Basán, sesenta grandes ciudades con muro y cerraduras de bronce;"
 "Ahinadab, hijo de Iddo, en Mahanaim;"
 "Ahimaas en Neftalí; éste tomó también por esposa a Basemat, hija de Salomón."
 "Baana, hijo de Husai, en Aser y en Alot;"

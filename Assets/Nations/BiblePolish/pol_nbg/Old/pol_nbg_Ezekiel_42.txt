@@ -11,7 +11,7 @@
 "A droga przed nimi tak prowadziła, jak przy halach położonych ku północy; równej długości, równiej szerokości, równych wyjść i równych urządzeń. Także takie jak ich drzwi,"
 "były też drzwi hal położonych ku południowi, gdy do nich przybywano drzwi na początku drogi, mianowicie drogi przed murem odpowiednim do kierunku wschodu."
 "I do mnie powiedział
-"A kiedy kapłani wejdą, nie wolno im wychodzić z Przybytku na dziedziniec zewnętrzny, ale tam mają składać swoje szaty te, w których pełnią służbę ponieważ są święte; niech włożą inne szaty, by się zbliżyć do miejsca przeznaczonego dla ludu."
+"A kiedy kapłani wejdą, nie wolno im wychodzić z Przybytku na dziedziniec zewnętrzny, ale tam mają składać swoje szaty te, #w których pełnią służbę ponieważ są święte; niech włożą inne szaty, by się zbliżyć do miejsca przeznaczonego dla ludu."
 "Zaś gdy ukończył pomiary wewnętrznego Przybytku, wyprowadził mnie drogą bramy zwróconej ku wschodowi i zmierzył obszar wokoło."
 "Prętem mierniczym zmierzył stronę wschodnią. Prętem mierniczym wokół, było to prętami pięćset łokci."
 "Potem prętami, prętem mierniczym zmierzył wokół stronę północną – pięćset."

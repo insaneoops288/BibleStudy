@@ -9,7 +9,7 @@
 "Wat sal die eienaar van die wingerd dan doen? Hy sal kom en die landbouers ombring en die wingerd aan ander gee."
 "Het julle nie ook hierdie Skrifwoord gelees nie
 "Hy het van die Here gekom en is wonderbaar in ons oë."
-"En hulle het probeer om Hom in die hande te kry, maar was bang vir die skare, want hulle het begryp dat Hy die gelykenis met die oog op hulle uitgespreek het. Daarop het hulle Hom verlaat en weggegaan."
+"En hulle het probeer om Hom in die hande te kry, maar was bang vir die skare, want hulle het #begryp dat Hy die gelykenis met die oog op hulle uitgespreek het. Daarop het hulle Hom verlaat en weggegaan."
 "Toe stuur hulle na Hom sommige van die Fariseërs en van die Herodiane om Hom op 'n woord te betrap."
 "En hulle kom en sê vir Hom
 "Maar Hy het hulle geveinsdheid geken en vir hulle gesê
@@ -30,7 +30,7 @@
 "en jy moet die Here jou God liefhê uit jou hele hart en uit jou hele siel en uit jou hele verstand en uit jou hele krag. Dit is die eerste gebod."
 "En die tweede, hieraan gelyk, is dit
 "En die skrifgeleerde sê vir Hom
-"en om Hom lief te hê uit die hele hart en uit die hele verstand en uit die hele siel en uit die hele krag, en om die naaste lief te hê soos jouself, is meer as al die brandoffers en die slagoffers."
+"en om Hom lief te hê uit die hele hart en uit die hele verstand en uit die hele siel en uit #die hele krag, en om die naaste lief te hê soos jouself, is meer as al die brandoffers en die slagoffers."
 "Toe Jesus sien dat hy verstandig geantwoord het, sê Hy vir hom
 "En terwyl Jesus in die tempel leer, antwoord Hy en sê
 "Want Dawid self het deur die Heilige Gees gesê

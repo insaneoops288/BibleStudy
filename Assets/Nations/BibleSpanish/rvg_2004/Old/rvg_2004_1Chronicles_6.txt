@@ -46,7 +46,7 @@
 "hijo de Amasai, hijo de Bani, hijo de Semer;"
 "hijo de Mahali, hijo de Musi, hijo de Merari, hijo de Leví."
 "Y sus hermanos los levitas fueron puestos sobre todo el ministerio del tabernáculo de la casa de Dios."
-"Mas Aarón y sus hijos quemaban ofrendas sobre el altar del holocausto, y sobre el altar del incienso, en toda la obra del lugar santísimo, y para hacer las expiaciones sobre Israel, conforme a todo lo que Moisés siervo de Dios había mandado."
+"Mas Aarón y sus hijos quemaban ofrendas sobre el altar del holocausto, y sobre el altar del incienso, en toda la obra #del lugar santísimo, y para hacer las expiaciones sobre Israel, conforme a todo lo que Moisés siervo de Dios había mandado."
 "Y los hijos de Aarón son éstos
 "Buqui su hijo, Uzi su hijo, Zeraías su hijo;"
 "Meraiot su hijo, Amarías su hijo, Ahitob su hijo;"

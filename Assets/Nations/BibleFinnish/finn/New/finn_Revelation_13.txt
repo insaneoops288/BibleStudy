@@ -1,5 +1,5 @@
 "(H12
-"Ja peto, jonka minä näin, oli pardin muotoinen, ja hänen jalkansa olivat niinkuin karhun käpälät, ja hänen suunsa oli niinkuin jalopeurain suu; ja lohikärme antoi sille voimansa, ja istuimensa, ja suuren vallan."
+"Ja peto, jonka minä näin, oli pardin muotoinen, ja hänen jalkansa olivat niinkuin karhun käpälät, ja hänen #suunsa oli niinkuin jalopeurain suu; ja lohikärme antoi sille voimansa, ja istuimensa, ja suuren vallan."
 "Ja minä näin yhden hänen päistänsä niinkuin se olis kuoliaaksi haavoitettu ollut, ja hänen kuolemahaavansa parani, ja koko maan piiri ihmetteli sitä petoa,"
 "Ja kumarsivat lohikärmettä, joka pedolle voiman antoi. Ja he kumarsivat petoa ja sanoivat
 "Ja hänelle annettiin suu puhua suuria asioita ja pilkkoja, ja hänelle annettiin valta pitää sotaa kaksiviidettä kuukautta."

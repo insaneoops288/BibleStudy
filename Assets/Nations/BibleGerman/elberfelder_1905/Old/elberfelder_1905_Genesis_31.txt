@@ -39,7 +39,7 @@
 "Das Zerrissene habe ich nicht zu dir gebracht, ich habe es büßen müssen; von meiner Hand hast du es gefordert, mochte es gestohlen sein bei Tage oder gestohlen bei Nacht."
 "Es war mit mir also
 "Zwanzig Jahre bin ich nun in deinem Hause gewesen; ich habe dir vierzehn Jahre gedient um deine beiden Töchter und sechs Jahre um deine Herde, und du hast meinen Lohn zehnmal verändert."
-"Wenn nicht der Gott meines Vaters, der Gott Abrahams, und die Furcht Isaaks, für mich gewesen wäre, gewiß, du würdest mich jetzt leer entlassen haben. Gott hat mein Elend und die Arbeit meiner Hände angesehen und hat gestern Nacht entschieden."
+"Wenn nicht der Gott meines Vaters, der Gott Abrahams, und die Furcht Isaaks, für mich gewesen wäre, gewiß, du würdest mich #jetzt leer entlassen haben. Gott hat mein Elend und die Arbeit meiner Hände angesehen und hat gestern Nacht entschieden."
 "Und Laban antwortete und sprach zu Jakob
 "Und nun komm, laß uns einen Bund machen, ich und du, und er sei zum Zeugnis zwischen mir und dir!"
 "Und Jakob nahm einen Stein und richtete ihn auf als Denkmal."

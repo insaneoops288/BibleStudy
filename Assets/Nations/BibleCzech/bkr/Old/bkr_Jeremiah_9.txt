@@ -7,9 +7,9 @@
 "Z té příčiny takto praví Hospodin zástupů
 "Střela zabíjející jest jazyk jejich, lest mluví. Ústy svými pokojně s bližním svým mluví, ale v srdci svém skládá úklady své."
 "Zdali pro takové věci nemám jich navštíviti? dí Hospodin. Zdaliž nad národem takovým nemá mstíti duše má?"
-"Pro tyto hory dám se v pláč a v naříkání, a pro pastviště, kteráž jsou na poušti, v kvílení; nebo popálena budou, tak že nebude žádného, kdo by skrze ně šel, aniž bude slyšán hlas dobytka. Od ptactva nebeského až do hovada všecko se odbéře a odejde."
+"Pro tyto hory dám se v pláč a v naříkání, a pro pastviště, kteráž jsou na poušti, v kvílení; nebo popálena budou, tak že #nebude žádného, kdo by skrze ně šel, aniž bude slyšán hlas dobytka. Od ptactva nebeského až do hovada všecko se odbéře a odejde."
 "A obrátím Jeruzalém v hromady, příbytek draků, a města Judská obrátím v pustinu, tak že nebude obyvatele."
-"Kdo jest ten muž moudrý, ješto by rozuměl tomu? A k komu mluvila ústa Hospodinova, ješto by oznamoval to, proč zahynouti má tato země, a vypálena býti jako poušť, tak aby nebylo, kdo by skrze ni šel?"
+"Kdo jest ten muž moudrý, ješto by rozuměl tomu? A k komu mluvila ústa Hospodinova, ješto by oznamoval to, #proč zahynouti má tato země, a vypálena býti jako poušť, tak aby nebylo, kdo by skrze ni šel?"
 "Nebo praví Hospodin
 "Ale chodili za myšlénkami srdce svého a za Báli, čemuž je naučili otcové jejich
 "Protož takto praví Hospodin zástupů, Bůh Izraelský
@@ -23,4 +23,4 @@
 "Takto praví Hospodin
 "Ale v tom nechť se chlubí, kdo se chlubí, že rozumí a zná mne, že já jsem Hospodin, kterýž činím milosrdenství, soud i spravedlnost na zemi; nebo v těch věcech líbost mám, dí Hospodin."
 "Aj, dnové jdou, praví Hospodin, v nichž navštívím každého, obřezaného i neobřezaného,"
-"Egyptské i Judské, a Idumejské i Ammonitské, a Moábské, i všecky, kteříž v nejzadnějším koutě bydlí na poušti. Nebo ti všickni národové jsou neobřezaní, tolikéž všecken dům Izraelský jest neobřezaného srdce."
+"Egyptské i Judské, a Idumejské i Ammonitské, a Moábské, i všecky, kteříž v nejzadnějším koutě bydlí #na poušti. Nebo ti všickni národové jsou neobřezaní, tolikéž všecken dům Izraelský jest neobřezaného srdce."

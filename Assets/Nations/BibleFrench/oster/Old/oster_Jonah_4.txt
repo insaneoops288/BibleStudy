@@ -8,4 +8,4 @@
 "Puis il arriva qu'au lever du soleil Dieu fit venir un vent chaud d'orient, et le soleil frappa sur la tête de Jonas, en sorte qu'il tomba en défaillance. Et il demanda la mort, et dit
 "Mais Dieu dit à Jonas
 "Alors l'Éternel dit
-"Et moi je n'aurais pas pitié de Ninive, la grande ville, dans laquelle il y a plus de cent vingt mille créatures humaines qui ne savent pas distinguer leur droite de leur gauche, et du bétail en grand nombre!"
+"Et moi je n'aurais pas pitié de Ninive, la grande ville, dans laquelle il y a plus de cent vingt #mille créatures humaines qui ne savent pas distinguer leur droite de leur gauche, et du bétail en grand nombre!"

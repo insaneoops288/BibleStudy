@@ -1,5 +1,5 @@
 "Potem PAN powiedział do Mojżesza
-"Jeśli ktoś zgrzeszy i popełni przewinienie przeciwko PANU przez to, że zaprze się wobec bliźniego rzeczy powierzonej lub oddanej do przechowania, lub zrabowanej, albo przez to, że oszukał bliźniego;"
+"Jeśli ktoś zgrzeszy i popełni przewinienie przeciwko PANU przez to, że zaprze się wobec bliźniego #rzeczy powierzonej lub oddanej do przechowania, lub zrabowanej, albo przez to, że oszukał bliźniego;"
 "Albo jeśli znalazł rzecz zgubioną i zaprzeczał temu lub przysięgał fałszywie w jakiejkolwiek z tych spraw, które człowiek czyni, i przez to grzeszy;"
 "Skoro więc tak zgrzeszył i stał się winnym, zwróci to, co zrabował lub zdobył przez oszustwo, lub to, co mu powierzono, lub rzecz zgubioną, którą znalazł;"
 "Albo to, o czymkolwiek fałszywie przysięgał. Zwróci całą należność i dołoży do niej jedną piątą, i odda temu, do kogo to należało, w dniu swojej ofiary za przewinienie."

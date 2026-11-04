@@ -1,6 +1,6 @@
 "Or, Samson alla à Gaza, et il y vit une courtisane, et entra chez elle."
 "Et on dit à ceux de Gaza
-"Mais Samson demeura couché jusqu'à minuit; et vers minuit il se leva, saisit les battants de la porte de la ville et les deux poteaux, et, les ayant enlevés avec la barre, il les mit sur ses épaules, et les porta au sommet de la montagne qui est en face d'Hébron."
+"Mais Samson demeura couché jusqu'à minuit; et vers minuit il se leva, saisit les battants de la porte de la ville et les deux poteaux, et, #les ayant enlevés avec la barre, il les mit sur ses épaules, et les porta au sommet de la montagne qui est en face d'Hébron."
 "Après cela, il aima une femme dans la vallée de Sorek; elle se nommait Délila."
 "Et les princes des Philistins montèrent vers elle, et lui dirent
 "Délila dit donc à Samson
@@ -24,8 +24,8 @@
 "Et quand le peuple le vit, ils célébrèrent leur dieu, en disant
 "Or, comme ils avaient le cœur joyeux, ils dirent
 "Alors Samson dit au garçon qui le tenait par la main
-"Or, la maison était pleine d'hommes et de femmes, et tous les princes des Philistins y étaient; il y avait même sur la plate-forme près de trois mille personnes, hommes et femmes, qui regardaient Samson jouer."
+"Or, la maison était pleine d'hommes et de femmes, et tous les princes des Philistins y étaient; il y #avait même sur la plate-forme près de trois mille personnes, hommes et femmes, qui regardaient Samson jouer."
 "Alors Samson invoqua l'Éternel, et dit
 "Et Samson embrassa les deux piliers du milieu, sur lesquels la maison reposait, et il s'appuya contre eux; l'un était à sa droite et l'autre à sa gauche."
 "Et il dit
-"Ensuite ses frères et toute la maison de son père descendirent, et l'emportèrent; et, étant remontés, ils l'ensevelirent entre Tsora et Eshthaol, dans le tombeau de Manoah son père. Il avait jugé Israël pendant vingt ans."
+"Ensuite ses frères et toute la maison de son père descendirent, et l'emportèrent; et, étant remontés, ils l'ensevelirent entre #Tsora et Eshthaol, dans le tombeau de Manoah son père. Il avait jugé Israël pendant vingt ans."

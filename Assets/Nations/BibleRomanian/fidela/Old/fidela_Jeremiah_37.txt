@@ -7,7 +7,7 @@
 "Astfel spune DOMNUL, Dumnezeul lui Israel
 "Și caldeenii vor veni din nou și vor lupta împotriva acestei cetăți și o vor lua și o vor arde cu foc."
 "Astfel spune DOMNUL
-"Căci deși ați fi lovit întreaga armată a caldeenilor care luptă împotriva voastră și ar fi rămas [numai ]bărbați răniți printre ei, [totuși ]ei s-ar ridica, fiecare din cortul lui, și ar arde această cetate cu foc."
+"Căci deși ați fi lovit întreaga armată a caldeenilor care luptă împotriva voastră și ar fi rămas [numai ]bărbați #răniți printre ei, [totuși ]ei s-ar ridica, fiecare din cortul lui, și ar arde această cetate cu foc."
 "Și s-a întâmplat, după ce armata caldeenilor s-a împrăștiat din Ierusalim, de frica armatei lui Faraon,"
 "Că Ieremia a ieșit din Ierusalim să meargă în țara lui Beniamin, pentru a se pierde acolo în popor."
 "Și când a ajuns la poarta lui Beniamin, [era] acolo o căpetenie a gărzii, a cărui nume [era] Iriia, fiul lui Șelemia, fiul lui Hanania; și el l-a luat pe profetul Ieremia, spunând
@@ -18,4 +18,4 @@
 "Mai mult, Ieremia i-a spus împăratului Zedechia
 "Unde [sunt] profeții voștri care v-au profețit, spunând
 "De aceea, ascultă acum, te rog, domnul meu împărate; să fie cererea mea, te rog, primită înaintea ta; ca să nu faci să mă întorc la casa lui Ionatan, scribul, ca nu cumva să mor acolo."
-"Atunci împăratul Zedechia a poruncit să îl dea pe Ieremia în curtea închisorii și să îi dea zilnic o bucată de pâine din strada brutarilor, până când toată pâinea din cetate se termină. Astfel Ieremia a rămas în curtea închisorii."
+"Atunci împăratul Zedechia a poruncit să îl dea pe Ieremia în curtea închisorii și să îi dea zilnic o bucată de #pâine din strada brutarilor, până când toată pâinea din cetate se termină. Astfel Ieremia a rămas în curtea închisorii."

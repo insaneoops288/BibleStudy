@@ -6529,7 +6529,7 @@ public class InsaneUIHelper : EditorWindow
             if (tempString.Contains(keyWord)) outputBibleName = tempString.Replace(keyWord, outPutKeyWord);
             else outputBibleName = fileNameNewStandardTranslation;
 
-            string outputFilePath = @"c:\Bible\Info\AllBible\" + outputBibleName + ".txt";
+            string outputFilePath = @"c:\Bible\AllBible\" + outputBibleName + ".txt";
 
             StreamWriter streamWriter = new StreamWriter(outputFilePath, true);
 
@@ -7531,12 +7531,156 @@ public class InsaneUIHelper : EditorWindow
         }
     }
 
+    public static List<int> CheckOver200Korean = new List<int>();
+
+    static int GetMiddleString(string TestString)
+    {
+        List<int> Counts = new List<int>();
+
+        for (int i = 0; i < TestString.Length; i++)
+        {
+            if (string.IsNullOrWhiteSpace(TestString[i].ToString()))
+                Counts.Add(i);
+        }
+
+        int middleIndex = (int)(Counts.Count / 2);
+        return Counts[middleIndex] + 1;
+    }
+
+    public static void SetSavedBibleName()
+    {
+        //CheckOver200Korean = new List<int>();
+
+        //string path = @"c:\Bible\"; // 저장될 경로입니다. 
+
+        //DirectoryInfo di = new DirectoryInfo(path);
+
+        //if (di.Exists == false) di.Create(); // 만약 폴더가 존재하지 않으면
+
+        //StreamWriter streamWriter;
+
+        //for (int i = 0; i < collectKorean.Count - 1; i++)
+        //{
+        //    if (collectKorean[i].Length >= 200 && !collectKorean[i].Contains('#'))
+        //        CheckOver200Korean.Add(1);
+        //}
+
+        //if (CheckOver200Korean.Count > 0)
+        //{
+        //    streamWriter = new StreamWriter(path + PathSavedKorean + ".txt", true);
+
+        //    for (int i = 0; i < collectKorean.Count - 1; i++)
+        //    {
+        //        if (collectKorean[i].Length >= 200 && !collectKorean[i].Contains('#'))
+        //        {
+        //            string tempString = collectKorean[i].Insert(GetMiddleString(collectKorean[i]), "#");
+        //            streamWriter.WriteLine(tempString.Trim());
+        //        }
+        //        else
+        //            streamWriter.WriteLine(collectKorean[i].Trim());
+        //    }
+        //    streamWriter.Close();
+        //}
+    }
+
+    public static void FolderExport()
+    {
+        //string[] RevisedRevision = Directory.GetFiles(@"c:\Bible\ESV\", "*.txt", SearchOption.AllDirectories); // c:\Bible\AAA 폴더에 있는 모든 텍스트 파일들을 읽어 옵니다. 
+
+        //for (int k = 0; k < RevisedRevision.Length; k++)
+        //{
+        //    List<string> resultFirst = new List<string>();
+        //    List<string> resultSecond = new List<string>();
+
+        //    string textValue = System.IO.File.ReadAllText(RevisedRevision[k]);
+        //    resultFirst = new List<string>(textValue.Split('\n'));
+
+        //    for (int x = 0; x < resultFirst.Count; x++) resultSecond.Add(resultFirst[x]);
+
+        //    string path = @"c:\Bible\ESVA\"; // 저장될 경로입니다. 
+        //    DirectoryInfo di = new DirectoryInfo(path);
+
+        //    if (di.Exists == false) di.Create(); // 만약 폴더가 존재하지 않으면
+
+        //    StreamWriter streamWriter = new StreamWriter(path + Path.GetFileNameWithoutExtension(RevisedRevision[k]) + ".txt", true); // 파일을 저장할 준비를 합니다. 
+
+        //    for (int i = 0; i < resultSecond.Count; i++) streamWriter.WriteLine(resultSecond[i].Trim()); // 결과 리스트를 파일에 저장합니다. 
+
+        //    streamWriter.Close();
+        //}
+
+        // string FolderNam4e = "indo_tb/Old";
+
+        TextAsset[] RevisedRevision = Resources.LoadAll<TextAsset>(myStringA);
+        for (int k = 0; k < RevisedRevision.Length; k++)
+        {
+            TextAsset textFile; // 한글 성경 TextAsset을 저장할 변수입니다. 
+            List<string> result = new List<string>();
+            textFile = RevisedRevision[k]; // Resources폴더에서 성경이름을 가져와서 한글 성경 TextAsset에 저장합니다. 
+            result.Clear();
+            StringReader stringReader = new StringReader(textFile.text); // textFile의 내용을 stringReader에 저장합니다. 
+            while (stringReader.Peek() >= 0) // stringReader에 저장되어 있는 문자열이 끝이 아닐 때까지 반복합니다. 
+            {
+                string temp = stringReader.ReadLine(); // stringReader에서 라인을 읽어 옵니다. 
+                result.Add(temp + " ");
+            }
+            stringReader.Close();
+
+            CheckOver200Korean = new List<int>();
+
+            string path = @"c:\Bible\" + myStringA + @"\"; // 저장될 경로입니다. 
+
+            DirectoryInfo di = new DirectoryInfo(path);
+
+            if (di.Exists == false) di.Create(); // 만약 폴더가 존재하지 않으면
+
+            StreamWriter streamWriter;
+
+            for (int i = 0; i < result.Count; i++)
+            {
+                if (result[i].Length >= 200 && !result[i].Contains('#'))
+                    CheckOver200Korean.Add(1);
+            }
+
+            if (CheckOver200Korean.Count > 0)
+            {
+                streamWriter = new StreamWriter(path + textFile.name + ".txt", true);
+
+                for (int i = 0; i < result.Count; i++)
+                {
+                    if (result[i].Length >= 200 && !result[i].Contains('#'))
+                    {
+                        string tempString = result[i].Insert(GetMiddleString(result[i]), "#");
+                        streamWriter.WriteLine(tempString.Trim());
+                    }
+                    else
+                        streamWriter.WriteLine(result[i].Trim());
+                }
+                streamWriter.Close();
+            }
+        }
+    }
+
+    static string myStringA;
+
     void OnGUI()
     {
         Repaint();
 
         GUILayout.BeginVertical();
         {
+            GUILayout.BeginHorizontal();
+            {
+                myStringA = EditorGUILayout.TextField("Folder Name:", myStringA);
+
+                if (GUILayout.Button("Folder Export", GUILayout.Height(30)))
+                {
+                    FolderExport();
+                }
+            }
+            GUILayout.EndHorizontal();
+
+
             myString = EditorGUILayout.TextField("Input Name:", myString);
 
             if (GUILayout.Button("Test", GUILayout.Height(30)))

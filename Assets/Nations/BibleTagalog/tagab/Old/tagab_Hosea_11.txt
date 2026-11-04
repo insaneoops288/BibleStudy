@@ -5,7 +5,7 @@
 "Sila'y hindi babalik sa lupain ng Egipto; kundi ang taga Asiria ay magiging kanilang hari, sapagka't sila'y nagsisitangging manumbalik sa akin."
 "At ang tabak ay lalagak sa kanilang mga bayan, at susupukin ang kanilang mga halang, at lalamunin sila, dahil sa kanilang sariling mga payo."
 "At ang aking bayan ay mahilig ng pagtalikod sa akin
-"Paanong pababayaan kita, Ephraim? paanong itatakuwil kita, Israel? paanong gagawin kitang parang Adma? paanong ilalagay kitang parang Zeboim? ang aking puso ay nabagbag sa loob ko, ang aking mga habag ay nangagalab."
+"Paanong pababayaan kita, Ephraim? paanong itatakuwil kita, Israel? paanong gagawin kitang parang Adma? paanong ilalagay kitang parang #Zeboim? ang aking puso ay nabagbag sa loob ko, ang aking mga habag ay nangagalab."
 "Hindi ko isasagawa ang kabangisan ng aking galit, hindi ako babalik upang ipahamak ang Ephraim
 "Sila'y magsisilakad ng ayon sa Panginoon, na siyang uungal, na parang leon; sapagka't siya'y uungal, at ang mga anak ay magsisidating na nanginginig na mula sa kalunuran."
 "Sila'y darating na nanginginig na parang ibon na mula sa Egipto, at parang kalapati na mula sa lupain ng Asiria; at aking patatahanin sila sa kanilang mga bahay, sabi ng Panginoon."

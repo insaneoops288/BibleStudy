@@ -2,10 +2,10 @@
 "Et il n'y avait point d'eau pour le peuple, et ils s'assemblèrent contre Moïse et contre Aaron."
 "Et le peuple contesta avec Moïse, et ils dirent
 "Pourquoi avez-vous fait venir l'assemblée de l'Éternel dans ce désert, pour que nous y mourions, nous et notre bétail?"
-"Pourquoi nous avez-vous fait monter hors d'Égypte, pour nous amener en ce méchant lieu, qui n'est point un lieu pour semer, ni pour des figuiers, ni pour la vigne, ni pour les grenadiers, et où il n'y a point d'eau à boire?"
+"Pourquoi nous avez-vous fait monter hors d'Égypte, pour nous amener en ce méchant lieu, qui n'est point un lieu pour semer, ni #pour des figuiers, ni pour la vigne, ni pour les grenadiers, et où il n'y a point d'eau à boire?"
 "Alors Moïse et Aaron se retirèrent de devant l'assemblée, à l'entrée du tabernacle d'assignation; et ils tombèrent sur leur visage, et la gloire de l'Éternel leur apparut."
 "Et l'Éternel parla à Moïse, en disant
-"Prends la verge, et convoque l'assemblée, toi et Aaron, ton frère, et parlez au Rocher en leur présence, et il donnera ses eaux; tu leur feras sortir de l'eau du Rocher, et tu abreuveras l'assemblée et leur bétail."
+"Prends la verge, et convoque l'assemblée, toi et Aaron, ton frère, et parlez au Rocher en leur présence, et il #donnera ses eaux; tu leur feras sortir de l'eau du Rocher, et tu abreuveras l'assemblée et leur bétail."
 "Moïse prit donc la verge de devant l'Éternel, comme il le lui avait commandé."
 "Moïse et Aaron convoquèrent l'assemblée devant le rocher; et il leur dit
 "Et Moïse leva la main, et frappa le Rocher avec sa verge, par deux fois; alors des eaux sortirent en abondance, et l'assemblée but, et leur bétail aussi."
@@ -14,7 +14,7 @@
 "Puis Moïse envoya, de Kadès, des messagers au roi d'Édom, pour lui dire
 "Comment nos pères descendirent en Égypte; et nous avons demeuré longtemps en Égypte, et les Égyptiens nous ont maltraités, nous et nos pères;"
 "Et nous avons crié à l'Éternel, et il a entendu notre voix. Il a envoyé un ange, et nous a fait sortir d'Égypte. Et voici, nous sommes à Kadès, ville qui est à l'extrémité de ta frontière;"
-"Permets que nous passions par ton pays; nous ne passerons ni par les champs, ni par les vignes, et nous ne boirons pas l'eau des puits; nous marcherons par le chemin royal, nous ne nous détournerons ni à droite ni à gauche, jusqu'à ce que nous ayons passé ta frontière."
+"Permets que nous passions par ton pays; nous ne passerons ni par les champs, ni par les vignes, et nous ne boirons pas l'eau des puits; #nous marcherons par le chemin royal, nous ne nous détournerons ni à droite ni à gauche, jusqu'à ce que nous ayons passé ta frontière."
 "Mais Édom lui dit
 "Les enfants d'Israël lui répondirent
 "Mais il dit

@@ -9,8 +9,8 @@
 "Por Abdia u përgjigj
 "Ashtu siç është e vërtetë që Zoti, Perëndia yt, rron, nuk ka komb dhe mbretëri në të cilin zoti im nuk ka dërguar njerëz të të kërkojnë; dhe kur thonin
 "Dhe tani ti thua
-"Por do të ndodh që sapo të largohem prej teje, Fryma e Zotit do të të çojë në një vend të panjohur nga unë; kështu unë do të shkoj t'ia njoftoj Ashabit, dhe ky, duke mos të gjetur, do të më vrasë. Dhe shërbëtori yt i druhet Zotit që i ri!"
-"A nuk i kanë njoftuar zotërisë sime atë që unë kam bërë kur Jezebeli vriste profetët e Zotit? Si fsheha njëqind nga këta profetë të Zotit, pesëdhjetë në një shpellë dhe pesëdhjetë në një tjetër, duke i furnizuar me bukë dhe me ujë?"
+"Por do të ndodh që sapo të largohem prej teje, Fryma e Zotit do të të çojë në një vend të panjohur nga unë; kështu unë #do të shkoj t'ia njoftoj Ashabit, dhe ky, duke mos të gjetur, do të më vrasë. Dhe shërbëtori yt i druhet Zotit që i ri!"
+"A nuk i kanë njoftuar zotërisë sime atë që unë kam bërë kur Jezebeli vriste profetët e Zotit? Si fsheha njëqind nga #këta profetë të Zotit, pesëdhjetë në një shpellë dhe pesëdhjetë në një tjetër, duke i furnizuar me bukë dhe me ujë?"
 "Dhe tani ti thua
 "Atëherë Elia u përgjigj
 "Abdia, pra, shkoi të kërkojë Ashabin dhe i njoftoi çështjen, dhe Ashabi i doli përpara Elias."
@@ -20,7 +20,7 @@
 "Kështu Ashabi dërgoi e thirri tërë bijtë e Izraelit dhe i mblodhi profetët në malin Karmel."
 "Atëherë Elia iu afrua tërë popullit dhe tha
 "Atëherë Elia i tha popullit
-"Le të na jepen dy dema të rinj; ata të zgjedhin një dem për veten e tyre, le ta copëtojnë dhe ta vënë mbi drutë pa i ndezur ato; unë do të përgatis demin tjetër dhe do ta vendos mbi drutë pa i ndezur ato."
+"Le të na jepen dy dema të rinj; ata të zgjedhin një dem për veten e tyre, le ta copëtojnë dhe ta vënë #mbi drutë pa i ndezur ato; unë do të përgatis demin tjetër dhe do ta vendos mbi drutë pa i ndezur ato."
 "Ju do t'i bëni thirrje perëndisë suaj dhe unë do të thërres Zotin; perëndia që do të përgjigjet me anë të zjarrit është Perëndia"". Tërë populli u përgjigj dhe tha
 "Atëherë Elia u tha profetëve të Baalit
 "Kështu ata morën demin që u dhanë dhe e përgatitën; pastaj përmendën emrin e Baalit nga mëngjesi deri në drekë, duke thënë

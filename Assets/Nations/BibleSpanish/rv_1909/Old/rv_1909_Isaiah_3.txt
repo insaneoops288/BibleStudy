@@ -21,6 +21,6 @@
 "Los anillos, y los joyeles de las narices;"
 "Las ropas de remuda, los mantoncillos, los velos, y los alfileres;"
 "Los espejos, los pañizuelos, las gasas, y los tocados."
-"Y será que en lugar de los perfumes aromáticos vendrá hediondez; y desgarrón en lugar de cinta; y calvez en lugar de la compostura del cabello; y en lugar de faja ceñimiento de saco; y quemadura en vez de hermosura."
+"Y será que en lugar de los perfumes aromáticos vendrá hediondez; y desgarrón en lugar de cinta; y calvez en lugar #de la compostura del cabello; y en lugar de faja ceñimiento de saco; y quemadura en vez de hermosura."
 "Tus varones caerán á cuchillo, y tu fuerza en la guerra."
 "Sus puertas se entristecerán y enlutarán, y ella, desamparada, sentaráse en tierra."

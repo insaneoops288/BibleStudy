@@ -82,8 +82,8 @@
 "Kauris syntiuhriksi,"
 "Ja kiitosuhriksi kaksi härkää, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tämä on Ahiran Enanin pojan lahja."
 "Tämä on alttarin vihkimys sinä päivänä, jona se voideltiin, johonka Israelin lasten ruhtinaat uhrasivat
-"Niin että jokainen vati painoi sata ja kolmekymmentä sikliä hopiaa, ja jokainen malja seitsemänkymmentä sikliä, niin että kaikkein astiain hopian luku juoksi kaksituhatta ja neljäsataa sikliä, pyhän siklin jälkeen."
-"Ja ne kaksitoistakymmentä kultaista lusikkaa, jotka suitsutusta täynnä olivat, jokainen painoi kymmenen sikliä, pyhän siklin jälkeen, niin että luku lusikkain kullasta juoksi sata ja kaksikymmentä sikliä."
-"Eläinten luku polttouhriksi, kaksitoistakymmentä mullia, kaksitoistakymmentä oinasta, kaksitoistakymmentä vuosikuntaista karitsaa, ja heidän ruokauhrinsa, ja kaksitoistakymmentä kaurista syntiuhriksi."
+"Niin että jokainen vati painoi sata ja kolmekymmentä sikliä hopiaa, ja jokainen malja seitsemänkymmentä sikliä, #niin että kaikkein astiain hopian luku juoksi kaksituhatta ja neljäsataa sikliä, pyhän siklin jälkeen."
+"Ja ne kaksitoistakymmentä kultaista lusikkaa, jotka suitsutusta täynnä olivat, jokainen painoi kymmenen sikliä, pyhän #siklin jälkeen, niin että luku lusikkain kullasta juoksi sata ja kaksikymmentä sikliä."
+"Eläinten luku polttouhriksi, kaksitoistakymmentä mullia, kaksitoistakymmentä oinasta, kaksitoistakymmentä vuosikuntaista #karitsaa, ja heidän ruokauhrinsa, ja kaksitoistakymmentä kaurista syntiuhriksi."
 "Ja karjan luku kiitosuhriksi oli neljä härkää kolmattakymmentä, kuusikymmentä oinasta, kuusikymmentä kaurista, kuusikymmentä vuosikuntaista karitsaa. Tämä on alttarin vihkimys koska se voideltiin."
-89 "Ja koska Moses meni seurakunnan majaan, että häntä siellä puhuteltaisiin, niin kuuli hän äänen puhuvan kanssansa armoistuimelta, joka oli todistuksen arkin päällä, kahden Kerubimin vaiheella, ja sieltä puhuteltiin häntä."
+89 "Ja koska Moses meni seurakunnan majaan, että häntä siellä puhuteltaisiin, niin kuuli hän äänen puhuvan #kanssansa armoistuimelta, joka oli todistuksen arkin päällä, kahden Kerubimin vaiheella, ja sieltä puhuteltiin häntä."

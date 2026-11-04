@@ -5,7 +5,7 @@
 "Ohola teki huorin, kuin minä hänen ottanut olin, ja rakasti värtämiehiänsä Assyrialaisia, jotka hänen tykönsä tulivat
 "Silkillä vaatetettuja päämiehiä ja esimiehiä, kaikkia nuoria ihanaisia miehiä, hevosmiehiä, jotka hevosilla ajoivat;"
 "Ja makasi kaikkein nuorten miesten kanssa Assyriasta, ja saastutti itsensä kaikkiin heidän jumaliinsa, kussa ikänä hän jonkun osasi."
-"Vielä sitte ei hän hyljännyt huoruuttansa Egyptin kanssa; että he hänen kanssansa maanneet olivat hänen nuoruudessansa, ja jotka hänen neitsyytensä nisiä taputtelleet, ja suuressa huoruudessa hänen kanssansa olleet olivat."
+"Vielä sitte ei hän hyljännyt huoruuttansa Egyptin kanssa; että he hänen kanssansa maanneet olivat hänen #nuoruudessansa, ja jotka hänen neitsyytensä nisiä taputtelleet, ja suuressa huoruudessa hänen kanssansa olleet olivat."
 "Sentähden minä hylkäsin hänet värtämiestensä käsiin, Assurin lasten käsiin, joita hän himostansa rakasti."
 "He paljastivat hänen häpynsä, ja ottivat hänen poikansa ja tyttärensä pois, mutta hänen he miekalla tappoivat. Ja sanoma kuului vaimoin seassa, että tämä rangaistus oli."
 "Mutta kuin Oholiba, hänen sisarensa, sen näki, syttyi se rakkaudesta pahemmin kuin toinen, ja teki enemmin huorin kuin hänen sisarensa huoruus oli."
@@ -20,13 +20,13 @@
 "Ja syttyi himoon heidän jalkavaimoinsa kanssa, joiden liha on niinkuin aasien liha, ja heidän himonsa niinkuin hevosten himo."
 "Ja sinä teit häpiäs, niinkuin nuoruudessas, kuin Egyptissä sinun rintaas pideltiin, ja sinun nuoruutes nisiä taputeltiin."
 "Sentähden, Oholiba, näin sanoo Herra, Herra
-"Babelin lapset ja kaikki Kaldealaiset, päämiehet, herrat ja valtamiehet, ja kaikki Assyrialaiset heidän kanssansa, kauniit, nuoret miehet, kaikki päämiehet ja esimiehet, valtamiehet, ja ylimmäiset, ja kaikkinaiset hevosmiehet."
-"Ja he tulevat valmistettuna sinun päälles vaunuilla ja rattailla ja suurella väen joukolla, ja piirittävät sinun keihäillä, kilvillä ja rautalakeilla joka taholta. Niiden haltuun minä oikeuden annan, että he sinun tuomitsevat lakinsa jälkeen."
-"Minä annan minun kiivauteni tulla sinun päälles, että he armottomasti sinun kanssas toimittavat; heidän pitää sinun nenäs ja korvas leikkaaman, ja mitä jää, pitää miekalla lankeeman. Heidän pitää sinun poikas ja tyttäres ottaman pois, ja tähteet pitää poltettaman tulella."
+"Babelin lapset ja kaikki Kaldealaiset, päämiehet, herrat ja valtamiehet, ja kaikki Assyrialaiset heidän kanssansa, #kauniit, nuoret miehet, kaikki päämiehet ja esimiehet, valtamiehet, ja ylimmäiset, ja kaikkinaiset hevosmiehet."
+"Ja he tulevat valmistettuna sinun päälles vaunuilla ja rattailla ja suurella väen joukolla, ja piirittävät sinun keihäillä, #kilvillä ja rautalakeilla joka taholta. Niiden haltuun minä oikeuden annan, että he sinun tuomitsevat lakinsa jälkeen."
+"Minä annan minun kiivauteni tulla sinun päälles, että he armottomasti sinun kanssas toimittavat; heidän pitää sinun nenäs ja korvas leikkaaman, #ja mitä jää, pitää miekalla lankeeman. Heidän pitää sinun poikas ja tyttäres ottaman pois, ja tähteet pitää poltettaman tulella."
 "Heidän pitää sinun vaattees riisuman, ja sinun kaunistukses ottaman pois."
 "Näin minä tahdon sinun haureutes ja sinun huoruutes Egyptin maasta lopettaa, ettes enää silmiäs nosta heidän peräänsä, etkä Egyptiä enää muistaman pidä."
 "Sillä näin sanoo Herra, Herra
-"Ne pitää sinulle tekemän niinkuin viholliset, ja ottaman kaikki, mitäs koonnut olet, ja sinut alastomaksi ja paljaaksi jättämän, että sinun saastainen häpiäs ilmi tulis sinun haureutes ja huoruutes kanssa."
+"Ne pitää sinulle tekemän niinkuin viholliset, ja ottaman kaikki, mitäs koonnut olet, ja sinut alastomaksi #ja paljaaksi jättämän, että sinun saastainen häpiäs ilmi tulis sinun haureutes ja huoruutes kanssa."
 "Näitä pitää heidän sinulle tekemän sinun huoruutes tähden, jota sinä pakanain kanssa tehnyt olet, joiden jumalissa sinä itses saastuttanut olet."
 "Sinä olet käynyt sisares tietä, sentähden annan minä myös hänen maljansa sinun kätees."
 "Näin sanoo Herra, Herra
@@ -37,9 +37,9 @@
 "Kuinka he ovat huoruudessa olleet ja verta vuotaneet, ja avionsa rikkoneet epäjumalainsa kanssa; niin myös lapsensa, jotka he minulle synnyttäneet olivat, polttivat he niille uhriksi."
 "Päällisiksi ovat he sen minulle tehneet, että he ovat silloin minun pyhäni saastuttaneet, ja minun sabbatini rikkoneet."
 "Sillä kuin he lapsensa epäjumalille tappaneet olivat, menivät he sinä päivänä minun pyhääni, sitä saastuttamaan; katso, niin ovat he minun huoneessani tehneet."
-"He ovat myös lähettäneet miesten perään, jotka kaukaisilta mailta tuleman piti; kuin sana oli lähetetty heidän tykönsä, niin katso, he tulivat; ja sinä pesit itse heidän tähtensä, ja voitelit silmäs ja kaunistit sinus kaunistuksella,"
+"He ovat myös lähettäneet miesten perään, jotka kaukaisilta mailta tuleman piti; kuin sana oli lähetetty heidän tykönsä, niin #katso, he tulivat; ja sinä pesit itse heidän tähtensä, ja voitelit silmäs ja kaunistit sinus kaunistuksella,"
 "Ja istuit kauniilla vuoteella, jonka edessä pöytä oli valmistettu; ja sinä suitsutit ja uhrasit minun öljyni sen päällä."
-"Siellä oli suruttoman kansan ääni; ja paitsi niitä miehiä yhteisestä kansasta, tuotiin myös sinne Sabealaisia korvesta, jotka antoivat renkaita heidän käsiinsä ja kauniita seppeleitä heidän päähänsä."
+"Siellä oli suruttoman kansan ääni; ja paitsi niitä miehiä yhteisestä kansasta, tuotiin myös sinne #Sabealaisia korvesta, jotka antoivat renkaita heidän käsiinsä ja kauniita seppeleitä heidän päähänsä."
 "Mutta minä ajattelin
 "Sillä hänen tykönsä mennään niikuin huoran tykö; juuri niin mennään Oholan ja Oholiban, hävyttömäin vaimoin tykö."
 "Sentähden hurskaat miehet rankaisevat heitä, niinkuin avionsa rikkojat ja veren vuodattajat rangaistaman pitää; sillä he ovat huorat, ja heidän kätensä on verta täynnä."

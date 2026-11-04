@@ -23,7 +23,7 @@
 "Niin nousi Joab ja meni Gessuriin, ja toi Absalomin Jerusalemiin."
 "Mutta kuningas sanoi
 "Ja koko Israelissa ei ollut yksikään mies niin kaunis kuin Absalom, ja niin suuresti ylistettävä; hamasta hänen kantapäästänsä niin päänlakeen asti ei ollut yhtäkään virhettä hänessä."
-"Ja kuin hänen päänsä kerittiin (se tapahtui vihdoin joka vuosi, sillä se oli hänelle ylen raskas, niin että hänen piti sen keritsemän), niin painoivat hänen hiuksensa kaksisataa sikliä kuninkaan painon jälkeen."
+"Ja kuin hänen päänsä kerittiin (se tapahtui vihdoin joka vuosi, sillä se oli hänelle ylen raskas, #niin että hänen piti sen keritsemän), niin painoivat hänen hiuksensa kaksisataa sikliä kuninkaan painon jälkeen."
 "Ja Absalomille syntyi kolme poikaa ja yksi tytär, se kutsuttiin Tamar; ja hän oli kaunis vaimo näöstä."
 "Ja niin oli Absalom kaksi ajastaikaa Jerusalemissa, ettei hän kuninkaan kasvoja nähnyt."
 "Ja Absalom lähetti Joabin perään, lähettääksensä häntä kuninkaan tykö

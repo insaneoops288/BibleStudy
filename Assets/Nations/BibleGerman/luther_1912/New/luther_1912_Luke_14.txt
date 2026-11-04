@@ -28,7 +28,7 @@
 "Wer ist aber unter euch, der einen Turm bauen will, und sitzt nicht zuvor undüberschlägt die Kosten, ob er's habe, hinauszuführen?"
 "auf daß nicht, wo er Grund gelegt hat und kann's nicht hinausführen, alle, die es sehen, fangen an, sein zu spotten,"
 "und sagen
-"Oder welcher König will sich begeben in einen Streit wider einen andern König und sitzt nicht zuvor und ratschlagt, ob er könne mit zehntausend begegnen dem, derüber ihn kommt mit zwanzigtausend?{~}"
+"Oder welcher König will sich begeben in einen Streit wider einen andern König und sitzt nicht #zuvor und ratschlagt, ob er könne mit zehntausend begegnen dem, derüber ihn kommt mit zwanzigtausend?{~}"
 "Wo nicht, so schickt er Botschaft, wenn jener noch ferne ist, und bittet um Frieden."
 "Also muß auch ein jeglicher unter euch, der nicht absagt allem, was er hat, kann nicht mein Jünger sein."
 "Das Salz ist ein gutes Ding; wo aber das Salz dumm wird, womit wird man's würzen?"

@@ -26,7 +26,7 @@
 "Y navegaron a la tierra de los gadarenos, que está delante de Galilea."
 "Y saliendo él a tierra, le vino al encuentro de la ciudad un hombre que tenía demonios ya de muchos tiempos; y no vestía vestido, ni estaba en casa, sino por los sepulcros."
 "El cual, cuando vio a Jesús, exclamó y se postró delante de él, y dijo a gran voz
-"(Porque mandaba al espíritu inmundo que saliese del hombre, porque ya de muchos tiempos le arrebataba; y le guardaban preso con cadenas y grillos; mas rompiendo las prisiones, era agitado del demonio por los desiertos.)"
+"(Porque mandaba al espíritu inmundo que saliese del hombre, porque ya de muchos tiempos le arrebataba; y le #guardaban preso con cadenas y grillos; mas rompiendo las prisiones, era agitado del demonio por los desiertos.)"
 "Y le preguntó Jesús, diciendo
 "Y le rogaban que no les mandase ir al abismo."
 "Y había allí un hato de muchos puercos que pacían en el monte; y le rogaron que los dejase entrar en ellos; y los dejó."
@@ -44,7 +44,7 @@
 "llegándose por las espaldas, tocó el borde de su vestido; y luego se estancó el flujo de su sangre."
 "Entonces Jesús dijo
 "Y Jesús dijo
-"Entonces, cuando la mujer vio que no se podía esconder, vino temblando, y postrándose delante de él le declaró delante de todo el pueblo la causa por qué le había tocado, y cómo luego había sido sana."
+"Entonces, cuando la mujer vio que no se podía esconder, vino temblando, y postrándose delante de él le declaró #delante de todo el pueblo la causa por qué le había tocado, y cómo luego había sido sana."
 "Y él dijo
 "Estando aún él hablando, vino uno del príncipe de la sinagoga a decirle
 "Y oyéndolo Jesús, le respondió

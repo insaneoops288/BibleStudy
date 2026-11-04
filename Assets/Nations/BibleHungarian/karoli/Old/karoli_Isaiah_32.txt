@@ -3,7 +3,7 @@
 "És nem lesznek zárva többé a látóknak szemei, és a hallók fülei figyelmeznek;"
 "A hebehurgyák szíve ismerni tanul, és a dadogóknak nyelve gyorsan és világosan szól."
 "Nem nevezik a bolondot többé nemesnek, és a csalárdot sem hívják nagylelkûnek."
-"Mert a bolond [csak] bolondot beszél, és az õ szíve hamisságot forral, hogy istentelenséget cselekedjék, és szóljon az Úr ellen tévelygést, hogy az éhezõ lelkét éhen hagyja, és a szomjazó italát elvegye."
+"Mert a bolond [csak] bolondot beszél, és az õ szíve hamisságot forral, hogy istentelenséget cselekedjék, és szóljon #az Úr ellen tévelygést, hogy az éhezõ lelkét éhen hagyja, és a szomjazó italát elvegye."
 "A csalárdnak eszközei csalárdok, õ álnokságot tervel, hogy elveszesse az alázatosokat hazug beszéddel, ha a szegény igazat szólna is."
 "De a nemes nemes dolgokat tervel, és a nemes dolgokban meg is marad."
 "Ti gondtalan asszonyok, keljetek fel, halljátok szavam', és ti elbizakodott leányzók, vegyétek füleitekbe beszédem'!"

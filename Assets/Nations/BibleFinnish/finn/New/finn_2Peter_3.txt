@@ -6,8 +6,8 @@
 "Kuitenkin siihen aikaan se maailma niiden kautta vedenpaisumisella hukkui."
 "Niin myös ne taivaat ja maa, jotka nyt ovat, hänen sanansa kautta säästetään tulen varaksi tuomiopäivään asti, jona jumalattomat ihmiset kadotetaan."
 "Mutta tätä yhtä ei pidä teiltä salattaman, minun rakkaani
-"Ei Herra viivytä lupaustansa, (niinkuin muutamat sen viipyvän luulevat,) vaan hän on meidän kanssamme kärsiväinen, ja ei tahdo, että jonkun pitäis hukkuman, vaan että jokainen itsensä parannukseen kääntäis."
-"Mutta Herran päivä on tuleva niinkuin varas yöllä, ja silloin taivaat suurella pauhinalla menevät pois, mutta elementit pitää palavuudesta sulaman, ja maa, ja rakennukset, jotka hänessä ovat, pitää palaman ylös."
+"Ei Herra viivytä lupaustansa, (niinkuin muutamat sen viipyvän luulevat,) vaan hän on meidän kanssamme kärsiväinen, #ja ei tahdo, että jonkun pitäis hukkuman, vaan että jokainen itsensä parannukseen kääntäis."
+"Mutta Herran päivä on tuleva niinkuin varas yöllä, ja silloin taivaat suurella pauhinalla menevät pois, mutta #elementit pitää palavuudesta sulaman, ja maa, ja rakennukset, jotka hänessä ovat, pitää palaman ylös."
 "Että kaikki nämät pitää katooman, minkäkaltaiset tulee teidän silloin olla pyhissä menoissa ja jumalisuudessa
 "Niin että te odotatte ja ikävöitsette Jumalan päivän tulemista, jona taivaat tulesta raukeevat ja elementit palavuudesta sulavat?"
 "Mutta me odotamme uusia taivaita ja uutta maata hänen lupauksensa jälkeen, joissa vanhurskaus asuu."

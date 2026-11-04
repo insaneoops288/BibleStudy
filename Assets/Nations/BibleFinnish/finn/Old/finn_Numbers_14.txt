@@ -11,7 +11,7 @@
 "Ja Herra sanoi Mosekselle
 "Minä lyön heitä ruttotaudilla, ja hävitän heitä, ja minä teen sinun suuremmaksi ja väkevämmäksi kansaksi, kuin tämän."
 "Ja Moses sanoi Herralle
-"Ja ne sanovat tämän maan asuvaisille, jotka kuulleet ovat, että sinä Herra olet tämän kansan seassa, ja että sinä Herra nähdään kasvoista niin kasvoihin, ja sinun pilves seisoo heidän päällänsä, ja sinä käyt heidän edellänsä, päivällä pilven patsaassa ja yöllä tulen patsaassa;"
+"Ja ne sanovat tämän maan asuvaisille, jotka kuulleet ovat, että sinä Herra olet tämän kansan seassa, ja että sinä Herra nähdään kasvoista #niin kasvoihin, ja sinun pilves seisoo heidän päällänsä, ja sinä käyt heidän edellänsä, päivällä pilven patsaassa ja yöllä tulen patsaassa;"
 "Jos sinä tapat tämän kansan, niinkuin yhden miehen, niin pakanat, jotka sanoman sinusta kuulleet ovat, puhuvat ja sanovat
 "Ei Herra voinut johdattaa tätä kansaa siihen maahan, jonka hän heille vannoi; sentähden on hän heidät surmannut korvessa."
 "Nyt siis enentäkään Herra voimansa, niinkuin sinä puhunut olet, sanoen
@@ -31,7 +31,7 @@
 "Vaan teidän lapsenne, jotka te sanoitte tulevan saaliiksi, minä sinne johdatan, että he tuntisivat sen maan, jonka te hylkäsitte."
 "Mutta te ja teidän ruumiinne pitää lankeeman tässä korvessa;"
 "Ja teidän lapsenne pitää oleman paimenina tässä korvessa, neljäkymmentä ajastaikaa, kantaen teidän huoruuttanne, siihenasti että ruumiinne kuluvat korvessa."
-"Niiden neljänkymmenen päiväluvun jälkeen, joina te maan vaonneet olette, aina ajastaika päivästä pitää luettaman, että teidän pitää kantaman pahat tekonne neljäkymmentä ajastaikaa, että te ymmärtäisitte minun pois luopumiseni."
+"Niiden neljänkymmenen päiväluvun jälkeen, joina te maan vaonneet olette, aina ajastaika päivästä pitää luettaman, että #teidän pitää kantaman pahat tekonne neljäkymmentä ajastaikaa, että te ymmärtäisitte minun pois luopumiseni."
 "Minä Herra olen sen puhunut, sen minä myös teen kaikelle tälle pahalle joukolle, joka on itsensä asettanut minua vastaan
 "Ja ne miehet, jotka Moses lähetti maata vakoomaan ja palasivat, saattaen kaiken kansan napisemaan häntä vastaan, ja olivat tuottaneet pahan sanoman maasta,"
 "Ne miehet kuolivat Herran rangaistuksesta, jotka toivat pahan sanoman maasta,"

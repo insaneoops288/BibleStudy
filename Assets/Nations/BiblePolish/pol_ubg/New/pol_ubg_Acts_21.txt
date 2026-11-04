@@ -21,9 +21,9 @@
 "Lecz o tobie słyszeli, że odwodzisz od Mojżesza wszystkich Żydów, którzy są wśród pogan, mówiąc, że nie mają obrzezywać dzieci ani żyć według swoich zwyczajów."
 "Cóż więc czynić? Z pewnością zejdzie się lud, bo usłyszą, że przybyłeś."
 "Zrób zatem to, co ci mówimy. Mamy tu czterech mężczyzn, którzy złożyli ślub."
-"Weź ich ze sobą, poddaj się wraz z nimi oczyszczeniu i pokryj za nich koszty, aby mogli ostrzyc głowy. Wtedy wszyscy poznają, że w tym, co o tobie słyszeli, nie ma nic z prawdy, ale że i ty sam postępujesz porządnie, przestrzegając prawa."
+"Weź ich ze sobą, poddaj się wraz z nimi oczyszczeniu i pokryj za nich koszty, aby mogli ostrzyc głowy. Wtedy wszyscy poznają, #że w tym, co o tobie słyszeli, nie ma nic z prawdy, ale że i ty sam postępujesz porządnie, przestrzegając prawa."
 "A co do pogan, którzy uwierzyli, napisaliśmy, postanawiając, aby niczego takiego nie zachowywali, tylko żeby się wystrzegali tego, co ofiarowane bożkom, i krwi, i tego, co uduszone, i nierządu."
-"Wtedy Paweł wziął ze sobą tych mężczyzn, a następnego dnia poddał się razem z nimi oczyszczeniu i wszedł do świątyni, zgłaszając wypełnienie dni oczyszczenia, aż za każdego z nich złożona zostanie ofiara."
+"Wtedy Paweł wziął ze sobą tych mężczyzn, a następnego dnia poddał się razem z nimi oczyszczeniu i #wszedł do świątyni, zgłaszając wypełnienie dni oczyszczenia, aż za każdego z nich złożona zostanie ofiara."
 "Kiedy zaś te siedem dni dobiegało końca, zobaczyli go w świątyni Żydzi z Azji, podburzyli tłum i rzucili się na niego;"
 "Wołając
 "Przedtem bowiem widzieli z nim w mieście Trofima z Efezu i sądzili, że Paweł wprowadził go do świątyni."

@@ -15,4 +15,4 @@
 "Ziua aceea [este] o zi a furiei, o zi de necaz şi strâmtorare, o zi de secătuire şi de pustiire, o zi de întuneric şi de întunecime, o zi cu nori şi de întuneric gros,"
 "O zi a trâmbiţei şi a alarmei împotriva cetăţilor întărite şi împotriva turnurilor înalte."
 "Şi voi aduce strâmtorare peste oameni pentru ca ei să umble ca orbii, pentru că au păcătuit împotriva DOMNULUI; şi sângele lor va fi vărsat ca ţărâna, şi carnea lor ca balega."
-"Nici argintul lor, nici aurul lor nu va fi în stare să îi scape în ziua furiei DOMNULUI; dar tot ţinutul va fi mistuit de focul geloziei lui, pentru că el va face chiar o descotorosire grabnică de toți cei care locuiesc în ţinut."
+"Nici argintul lor, nici aurul lor nu va fi în stare să îi scape în ziua furiei DOMNULUI; dar tot ţinutul va fi #mistuit de focul geloziei lui, pentru că el va face chiar o descotorosire grabnică de toți cei care locuiesc în ţinut."

@@ -12,7 +12,7 @@
 "Midõn pedig nappal lõn, a zsidók közül némelyek összeszövetkezvén, átok alatt kötelezék el magokat, mondván, hogy sem nem esznek, sem nem isznak addig, míg meg nem ölik Pált."
 "Többen valának pedig negyvennél, kik ezt az összeesküvést szõtték."
 "Ezek elmenvén a fõpapokhoz és a vénekhez, mondának
-"Most azért ti jelentsétek be az ezredesnek a tanácscsal egybe, hogy holnap hozza le õt ti hozzátok, mintha az õ dolgának tüzetesebben végére akarnátok járni. Mi pedig, minekelõtte õ ide érne, készek vagyunk õt megölni."
+"Most azért ti jelentsétek be az ezredesnek a tanácscsal egybe, hogy holnap hozza le õt ti hozzátok, mintha #az õ dolgának tüzetesebben végére akarnátok járni. Mi pedig, minekelõtte õ ide érne, készek vagyunk õt megölni."
 "Meghallván azonban a Pál nõtestvérének fia e cselvetést, megjelenvén és bemenvén a várba, tudtára adá Pálnak."
 "Pál pedig egyet a századosok közül magához hívatván, monda
 "Az annakokáért maga mellé vévén õt, vivé az ezredeshez, és monda
@@ -27,7 +27,7 @@
 "Ezt a férfiút, kit a zsidók megfogtak és meg akartak ölni, oda menvén a sereggel, kiszabadítám, megértvén, hogy római."
 "Meg akarván pedig tudni az okát, miért vádolják õt, levivém õt az õ tanácsuk elébe."
 "És úgy találtam, hogy õ az õ törvényüknek kérdései felõl vádoltatik, de semmi halálra vagy fogságra méltó vétke nincs."
-"Minthogy pedig nékem megjelentették, hogy a zsidók e férfiú után ólálkodni akarnak, azonnal hozzád küldém, meghagyva vádolóinak is, hogy a mi dolguk van õ ellene, te elõtted mondják meg. Légy jó egészségben!"
+"Minthogy pedig nékem megjelentették, hogy a zsidók e férfiú után ólálkodni akarnak, azonnal hozzád küldém, meghagyva vádolóinak #is, hogy a mi dolguk van õ ellene, te elõtted mondják meg. Légy jó egészségben!"
 "A vitézek tehát, a mint nékik megparancsolták, Pált felvévén, elvivék azon éjszakán Antipatrisba."
 "Másnap pedig hagyván a lovagokat tovább menni õ vele, visszatérének a várba."
 "Azok pedig eljutván Czézáreába, és átadván a levelet a tiszttartónak, Pált is elébe állaták."

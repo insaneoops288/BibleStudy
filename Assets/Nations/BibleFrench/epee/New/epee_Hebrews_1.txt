@@ -1,6 +1,6 @@
 "Dieu ayant autrefois parlé à nos pères, à plusieurs reprises et en diverses manières, par les prophètes,"
 "Nous a parlé en ces derniers jours d’Israël par son Fils, qu'il a établi héritier de toutes choses; par lequel aussi il a fondé les siècles;"
-"Et qui, étant la splendeur de sa gloire et l'unique expression de sonessence, et soutenant toutes choses par sa Parole puissante, ayant opéré par lui-même la purification de nos péchés, s'est assis à la droite de la Majesté divine dans les lieux très hauts;"
+"Et qui, étant la splendeur de sa gloire et l'unique expression de sonessence, et soutenant toutes choses par sa Parole puissante, ayant opéré #par lui-même la purification de nos péchés, s'est assis à la droite de la Majesté divine dans les lieux très hauts;"
 "Ayant été fait d'autant plus excellent que les messagers, qu'il a hérité d'un nom plus excellent que le leur."
 "Car à auquel des messagers Dieu a-t-il jamais dit
 "Et encore, quand il introduit dans le monde son Fils premier-né, il dit

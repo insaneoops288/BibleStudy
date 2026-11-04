@@ -2,7 +2,7 @@
 "Wtedy PAN mi odpowiedział
 "To widzenie bowiem dotyczy oznaczonego czasu, a na końcu oznajmi, a nie skłamie; a choćby się odwlekało, oczekuj go, bo z pewnością przyjdzie, nie spóźni się."
 "Oto dusza tego, który się wywyższa, nie jest w nim prawa. Ale sprawiedliwy będzie żył ze swojej wiary."
-"Owszem, ponieważ upija się, jest on hardym człowiekiem i nie pozostaje w swoim domu; pomnaża swoją żądzę jak piekło i jak śmierć nie może się nasycić, choć zgromadził u siebie wszystkie narody i zebrał u siebie wszystkich ludzi."
+"Owszem, ponieważ upija się, jest on hardym człowiekiem i nie pozostaje w swoim domu; pomnaża swoją żądzę jak piekło i #jak śmierć nie może się nasycić, choć zgromadził u siebie wszystkie narody i zebrał u siebie wszystkich ludzi."
 "Czy ci wszyscy nie ułożą o nim przypowieści i szyderczego przysłowia, mówiąc
 "Czy nie powstaną nagle ci, którzy będą cię kąsać, i nie obudzą się ci, którzy będą cię szarpać? A staniesz się dla nich łupem."
 "Ponieważ złupiłeś wiele narodów, złupią cię też wszystkie pozostałe narody z powodu krwi ludzkiej i przemocy dokonanej w ziemi, miastu i wszystkim jego mieszkańcom."

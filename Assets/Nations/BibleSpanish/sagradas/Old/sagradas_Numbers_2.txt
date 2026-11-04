@@ -31,4 +31,4 @@
 "Todos los contados en el ejército de Dan, ciento cincuenta y siete mil seiscientos; irán los postreros tras sus banderas."
 "Estos <I>son</I>  los contados de los hijos de Israel, por las casas de sus padres; todos los contados por ejércitos, por sus escuadrones, seiscientos tres mil quinientos cincuenta."
 "Mas los levitas no fueron contados entre los hijos de Israel; como el SEÑOR lo mandó a Moisés."
-"E hicieron los hijos de Israel conforme a todas las cosas que el SEÑOR mandó a Moisés; así asentaron el campamento por sus banderas, y así marcharon cada uno por sus familias, según las casas de sus padres."
+"E hicieron los hijos de Israel conforme a todas las cosas que el SEÑOR mandó a Moisés; así asentaron el #campamento por sus banderas, y así marcharon cada uno por sus familias, según las casas de sus padres."

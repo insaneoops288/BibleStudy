@@ -7,7 +7,7 @@
 "Siapakah engkau, gunung yang besar? Di depan Zerubabel engkau menjadi tanah rata. Ia akan mengangkat batu utama, sedang orang bersorak
 "Kemudian datanglah firman TUHAN kepadaku, demikian
 """Tangan Zerubabel telah meletakkan dasar Rumah ini, dan tangannya juga akan menyelesaikannya. Maka kamu akan mengetahui, bahwa TUHAN semesta alam yang mengutus aku kepadamu."
-"Sebab siapa yang memandang hina hari peristiwa-peristiwa yang kecil, mereka akan bersukaria melihat batu pilihan di tangan Zerubabel. Yang tujuh ini adalah mata TUHAN, yang menjelajah seluruh bumi."""
+"Sebab siapa yang memandang hina hari peristiwa-peristiwa yang kecil, mereka akan bersukaria melihat batu pilihan #di tangan Zerubabel. Yang tujuh ini adalah mata TUHAN, yang menjelajah seluruh bumi."""
 "Lalu berbicaralah aku kepadanya
 "Untuk kedua kalinya berbicaralah aku kepadanya
 "Ia menjawab aku

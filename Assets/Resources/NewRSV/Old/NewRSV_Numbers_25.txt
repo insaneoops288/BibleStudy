@@ -3,7 +3,7 @@ These invited the people to the sacrifices of their gods, and the people ate and
 Thus Israel yoked itself to the Baal of Peor, and the LORD's anger was kindled against Israel.
 The LORD said to Moses, "Take all the chiefs of the people, and impale them in the sun before the LORD, in order that the fierce anger of the LORD may turn away from Israel."
 And Moses said to the judges of Israel, "Each of you shall kill any of your people who have yoked themselves to the Baal of Peor."
-Just then one of the Israelites came and brought a Midianite woman into his family, in the sight of Moses and in the sight of the whole congregation of the Israelites, while they were weeping at the entrance of the tent of meeting.
+Just then one of the Israelites came and brought a Midianite woman into his family, in the sight of Moses and in #the sight of the whole congregation of the Israelites, while they were weeping at the entrance of the tent of meeting.
 When Phinehas son of Eleazar, son of Aaron the priest, saw it, he got up and left the congregation. Taking a spear in his hand,
 he went after the Israelite man into the tent, and pierced the two of them, the Israelite and the woman, through the belly. So the plague was stopped among the people of Israel.
 Nevertheless those that died by the plague were twenty-four thousand.
@@ -15,4 +15,4 @@ The name of the slain Israelite man, who was killed with the Midianite woman, wa
 The name of the Midianite woman who was killed was Cozbi daughter of Zur, who was the head of a clan, an ancestral house in Midian.
 The LORD said to Moses,
 "Harass the Midianites, and defeat them;
-for they have harassed you by the trickery with which they deceived you in the affair of Peor, and in the affair of Cozbi, the daughter of a leader of Midian, their sister; she was killed on the day of the plague that resulted from Peor."
+for they have harassed you by the trickery with which they deceived you in the affair of Peor, and in the affair of Cozbi, #the daughter of a leader of Midian, their sister; she was killed on the day of the plague that resulted from Peor."

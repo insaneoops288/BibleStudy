@@ -20,7 +20,7 @@
 "Kiedy przyszli słudzy Absaloma do domu tej kobiety, zapytali
 "Po ich odejściu tamci wyszli ze studni i poszli powiadomić króla Dawida. Powiedzieli do niego
 "Dawid wstał więc wraz z całym ludem, który z nim był, i przeprawili się przez Jordan. Do brzasku nie brakowało ani jednego człowieka, który by się nie przeprawił przez Jordan."
-"Kiedy Achitofel zobaczył, że nie postąpiono zgodnie z jego radą, osiodłał osła, wstał i wrócił do swego domu, do swego miasta. Potem wydał zarządzenia odnośnie do swego domu, powiesił się i umarł, a został pogrzebany w grobie swego ojca."
+"Kiedy Achitofel zobaczył, że nie postąpiono zgodnie z jego radą, osiodłał osła, wstał i wrócił do swego domu, do swego #miasta. Potem wydał zarządzenia odnośnie do swego domu, powiesił się i umarł, a został pogrzebany w grobie swego ojca."
 "A Dawid już przybył do Machanaim, gdy Absalom przeprawił się przez Jordan, on i wszyscy mężczyźni Izraela z nim."
 "I Absalom ustanowił Amasę dowódcą wojska w miejsce Joaba. Amasa był synem mężczyzny imieniem Jitra, Izraelity, który obcował z Abigail, córką Nachasza, siostrą Serui, matki Joaba."
 "A Izrael i Absalom rozbili obóz w ziemi Gilead."

@@ -6,8 +6,8 @@
 "Ale teraz, naszemu Arcykapłanowi przypadła w udziale znaczniejsza służba; jak też jest pośrednikiem znaczniejszego przymierza, które jest zarządzone dzięki znaczniejszym obietnicom."
 "Bo gdyby to pierwsze było bez zarzutu, nie byłoby potrzebne miejsce dla drugiego."
 "Ponieważ obwiniając ich, mówi
-"Nie na wzór przymierza, które sprawiłem dla ich przodków, w dniu przygarnięcia ich do Mnie ręką, by ich wyprowadzić z ziemi Egiptu. A ponieważ oni nie wytrwali w moim przymierzu i ja ich zaniedbałem, mówi Pan."
-"Gdyż po tych dniach, takim będzie przymierze, które ustalę sobie z domem Israela mówi Pan, podaruję Moje ustawy dla ich umysłu oraz napiszę je na ich sercach; i będę dla nich ku Bogu, a oni Mi będą za lud."
+"Nie na wzór przymierza, które sprawiłem dla ich przodków, w dniu przygarnięcia ich do Mnie ręką, by ich wyprowadzić #z ziemi Egiptu. A ponieważ oni nie wytrwali w moim przymierzu i ja ich zaniedbałem, mówi Pan."
+"Gdyż po tych dniach, takim będzie przymierze, które ustalę sobie z domem Israela mówi Pan, podaruję Moje ustawy dla ich #umysłu oraz napiszę je na ich sercach; i będę dla nich ku Bogu, a oni Mi będą za lud."
 "Nikt nie będzie też przekonywał swego bliskiego, czy swego brata, mówiąc
 "Bowiem będę łaskawy dla ich niesprawiedliwości, a ich grzechów oraz bezprawia nie będę nadto wspominał."
 "Przez to, że mówi Nowe, pierwsze uczynił Starym; zaś co jest czynione starym i się starzeje blisko jest zniknięcia."

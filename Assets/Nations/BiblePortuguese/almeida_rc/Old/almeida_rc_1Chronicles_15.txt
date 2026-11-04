@@ -13,7 +13,7 @@
 "Pois que, porquanto primeiro vós assim o não fizestes, o SENHOR fez rotura em nós, porque o não buscamos segundo a ordenança."
 "Santificaram-se, pois, os sacerdotes e levitas, para fazerem subir a arca do SENHOR, Deus de Israel."
 "E os filhos dos levitas trouxeram a arca de Deus aos ombros, como Moisés tinha ordenado, conforme a palavra do SENHOR, com as varas que tinham sobre si."
-"E disse David aos príncipes dos levitas que constituíssem a seus irmãos, os cantores, com instrumentos músicos, com alaúdes, harpas e címbalos, para que se fizessem ouvir, levantando a voz com alegria."
+"E disse David aos príncipes dos levitas que constituíssem a seus irmãos, os cantores, com instrumentos músicos, #com alaúdes, harpas e címbalos, para que se fizessem ouvir, levantando a voz com alegria."
 "Ordenaram, pois, os levitas a Hemã, filho de Joel; e dos seus irmãos a Asafe, filho de Berequias; e dos filhos de Merari, seus irmãos, a Etã, filho de Cusaías."
 "E com eles a seus irmãos da segunda ordem
 "E os cantores, Hemã, Asafe e Etã se faziam ouvir com címbalos de metal;"
@@ -24,6 +24,6 @@
 "E Sebanias, e Josafá, e Netanel, e Amasai, e Zacarias, e Benaia, e Eliézer, os sacerdotes, tocavam as trombetas perante a arca de Deus; e Obede-Edom e Jeías eram porteiros da arca."
 "Sucedeu, pois, que David, e os anciãos de Israel, e os capitães dos milhares foram para fazerem subir, com alegria, a arca do concerto do SENHOR, da casa de Obede-Edom."
 "E sucedeu que, ajudando Deus os levitas que levavam a arca do concerto do SENHOR, sacrificaram sete novilhos e sete carneiros."
-"E David ia vestido de um roupão de linho fino, como também todos os levitas que levavam a arca, e os cantores, e Quenanias, chefe dos que levavam a arca e dos cantores; também David levava sobre si um éfode de linho."
+"E David ia vestido de um roupão de linho fino, como também todos os levitas que levavam a arca, e os cantores, #e Quenanias, chefe dos que levavam a arca e dos cantores; também David levava sobre si um éfode de linho."
 "E todo o Israel fez subir a arca do concerto do SENHOR, com júbilo, e com sonido de buzinas, e com trombetas, e com címbalos, fazendo sonido com alaúdes e com harpas."
 "E sucedeu que, chegando a arca do concerto do SENHOR à Cidade de David, Mical, filha de Saul, olhou de uma janela e, vendo a David dançar e tocar, o desprezou no seu coração."

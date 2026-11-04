@@ -12,5 +12,5 @@
 "Svázánať jest nepravost Efraimova, schován jest hřích jeho."
 "Bolesti rodičky přijdou na něj; jest syn nemoudrý, sic jinak nezůstával by tak dlouho v životě matky."
 "Z ruky hrobu vyplatím je, od smrti vykoupím je; budu zhoubcím tvým, ó smrti, budu zkažením tvým, ó hrobe, želení skryto bude od očí mých."
-"Nebo on mezi bratřími ovoce ponese, ač prv přijde vítr východní, vítr Hospodinův od pouště vstupující, a vysuší studnice jeho, osuší i vrchoviště jeho; onenno rozchvátá poklad všech nejdražších klénotů."
+"Nebo on mezi bratřími ovoce ponese, ač prv přijde vítr východní, vítr Hospodinův od pouště vstupující, #a vysuší studnice jeho, osuší i vrchoviště jeho; onenno rozchvátá poklad všech nejdražších klénotů."
 "Zpuštěna bude Samaří, proto že se protivila Bohu svému; od meče padnou, dítky jejich zrozrážíny budou, a těhotné ženy jejich zroztínány."

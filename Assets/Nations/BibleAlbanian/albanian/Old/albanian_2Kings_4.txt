@@ -28,7 +28,7 @@
 "Ajo tha
 "Atëherë Eliseu i tha Gehazit
 "E ëma e fëmijës i tha Eliseut
-"Gehazi i kishte paraprirë dhe kishte vënë bastunin mbi fytyrën e fëmijës, por nuk pati as zë as përgjigje. Prandaj ai u kthye të takohet me Eliseun dhe i tregoi atë që i kishte ndodhur, duke i thënë
+"Gehazi i kishte paraprirë dhe kishte vënë bastunin mbi fytyrën e fëmijës, por nuk pati as zë as përgjigje. Prandaj #ai u kthye të takohet me Eliseun dhe i tregoi atë që i kishte ndodhur, duke i thënë
 "Kur Eliseu hyri në shtëpi, e pa fëmijën të vdekur dhe të shtrirë në shtratin e tij."
 "Atrëherë ai hyri, mbylli derën pas atyre të dyve dhe iu lut Zotit."
 "Pastaj hipi mbi shtratin dhe u shtri mbi fëmijën; vuri gojën e vet mbi gojën e tij, duart e veta mbi duart e tij; u shtri mbi të dhe mishi i fëmijës filloi të ngrohet."
@@ -36,7 +36,7 @@
 "Atëherë ai thirri Gehazin dhe i tha
 "Ajo hyri dhe u hosh në këmbët e tij, duke u shtrirë për tokë; pastaj mori djalin e saj dhe doli."
 "Pasta Eliseu u kthye në Gilgal; kishte rënë zia e bukës në vend. Ndërsa dishepujt e profetëve ishin ulur përpara tij, ai i tha shërbëtorit të tij
-"Njeri prej tyre që kishte dalë ndër fusha për të mbledhur barëra, gjeti një bimë të egër kacavarëse, prej së cilës mblodhi kolokuintidet dhe mbushi veshjen e tij me to; pastaj u kthye dhe i copëtoi në kusinë e supës, megjithëse nuk e dinte se ç'ishin."
+"Njeri prej tyre që kishte dalë ndër fusha për të mbledhur barëra, gjeti një bimë të egër kacavarëse, prej së cilës mblodhi kolokuintidet dhe #mbushi veshjen e tij me to; pastaj u kthye dhe i copëtoi në kusinë e supës, megjithëse nuk e dinte se ç'ishin."
 "Pastaj ua zbrazën supën burrave që ta hanin, por ata e provuan dhe thanë
 "Eliseu urdhëroi atëherë
 "Erdhi pastaj një njeri nga Baal-Shalila, që i solli njeriut të Perëndisë bukë nga korrja e parë; njëzet bukë prej elbi dhe disa kallinj gruri. Eliseu tha

@@ -10,7 +10,7 @@
 "për drejtësi, sepse unë po shkoj tek Ati dhe nuk do të më shihni më;"
 "për gjykim, sepse princi i kësaj bote është gjykuar."
 "Kam edhe shumë gjëra të tjera për t'ju thënë, por ato ende ju nuk mund t'i mbani."
-"Por, kur të vijë ai, Fryma e së vërtetës, ai do t'ju prijë në çdo të vërtetë, sepse ai nuk do të flasë nga vetja, por do të thotë gjitha ato gjëra që ka dëgjuar dhe do t'ju kumtojë gjërat që do vijnë."
+"Por, kur të vijë ai, Fryma e së vërtetës, ai do t'ju prijë në çdo të vërtetë, sepse ai nuk do të #flasë nga vetja, por do të thotë gjitha ato gjëra që ka dëgjuar dhe do t'ju kumtojë gjërat që do vijnë."
 "Ai do të më përlëvdojë, sepse do të marrë prej meje dhe do t'jua kumtojë."
 "Të gjitha gjërat që ka Ati janë të miat; për këtë ju thashë se ai do të marrë prej simes dhe do t'jua kumtojë."
 "Pas pak nuk do të më shihni më; e përsëri një kohë e shkurtër e do të më shihni, sepse unë po shkoj tek Ati''."

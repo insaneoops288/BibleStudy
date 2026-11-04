@@ -53,4 +53,4 @@
 "E, terminada a travessia, chegaram à terra em Genesaré, e ali atracaram."
 "Logo que desembarcaram, o povo reconheceu a Jesus;"
 "e correndo eles por toda aquela região, começaram a levar nos leitos os que se achavam enfermos, para onde ouviam dizer que ele estava."
-"Onde quer, pois, que entrava, fosse nas aldeias, nas cidades ou nos campos, apresentavam os enfermos nas praças, e rogavam-lhe que os deixasse tocar ao menos a orla do seu manto; e todos os que a tocavam ficavam curados."
+"Onde quer, pois, que entrava, fosse nas aldeias, nas cidades ou nos campos, apresentavam os enfermos nas praças, e rogavam-lhe #que os deixasse tocar ao menos a orla do seu manto; e todos os que a tocavam ficavam curados."

@@ -9,7 +9,7 @@
 "Nem cselekedetekbõl, hogy senki ne kérkedjék."
 "Mert az Õ alkotása vagyunk, teremtetvén [Általa] a Krisztus Jézusban jó cselekedetekre, a melyeket elõre elkészített az Isten, hogy azokban járjunk."
 "Annakokáért emlékezzetek meg arról, hogy egykor ti a testben pogányok, kiket körülmetéletlenségnek nevez vala amaz úgynevezett [s] a testen kézzel megcsinált körülmetélkedés,"
-"Hogy ti, [mondom], abban az idõben Krisztus nélkül valók voltatok, Izráel társaságától idegenek, és az ígéret szövetségeitõl távolvalók, reménységetek nem vala, és Isten nélkül valók voltatok e világon;"
+"Hogy ti, [mondom], abban az idõben Krisztus nélkül valók voltatok, Izráel társaságától idegenek, és az #ígéret szövetségeitõl távolvalók, reménységetek nem vala, és Isten nélkül valók voltatok e világon;"
 "Most pedig a Krisztus Jézusban ti, kik egykor távol valátok, közelvalókká lettetek a Krisztus vére által."
 "Mert Õ a mi békességünk, ki egygyé tette mind a két [nemzetséget,] és lerontotta a közbevetett választófalat,"
 "Az ellenségeskedést az Õ testében, a parancsolatoknak tételekben való törvényét eltörölvén; hogy ama kettõt egy új emberré teremtse Õ magában, békességet szerezvén;"

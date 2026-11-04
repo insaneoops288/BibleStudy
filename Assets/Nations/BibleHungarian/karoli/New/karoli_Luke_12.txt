@@ -30,7 +30,7 @@
 "Mert mind ezeket a világi pogányok kérdezik; a ti Atyátok pedig tudja, hogy néktek szükségetek van ezekre."
 "Csak keressétek az Isten országát, és ezek mind megadatnak néktek."
 "Ne félj te kicsiny nyáj; mert tetszett a ti Atyátoknak, hogy néktek adja az országot."
-"Adjátok el a mitek van, és adjatok alamizsnát; szerezzetek magatoknak oly erszényeket, melyek meg nem avúlnak, elfogyhatatlan kincset a mennyországban, a hol a tolvaj hozzá nem fér, sem a moly meg nem emészti."
+"Adjátok el a mitek van, és adjatok alamizsnát; szerezzetek magatoknak oly erszényeket, melyek meg nem avúlnak, elfogyhatatlan #kincset a mennyországban, a hol a tolvaj hozzá nem fér, sem a moly meg nem emészti."
 "Mert a hol van a ti kincsetek, ott van a ti szívetek is."
 "Legyenek a ti derekaitok felövezve, és szövétnekeitek meggyújtva;"
 "Ti meg hasonlók az olyan emberekhez, a kik az õ urokat várják, mikor jõ meg a menyegzõrõl, hogy mihelyt megjõ és zörget, azonnal megnyissák néki."
@@ -55,5 +55,5 @@
 "És mikor [halljátok] fúni a déli szelet, [ezt] mondjátok
 "Képmutatók, az égnek és a földnek ábrázatáról tudtok ítéletet tenni; errõl az idõrõl pedig mi dolog, hogy nem tudtok ítéletet tenni?"
 "És mi dolog, hogy ti magatoktól is meg nem ítélitek, mi az igaz?"
-"Mikor pedig a te ellenségeddel a fejedelem elé mégy, igyekezzél az úton megmenekedni tõle, hogy téged ne vonjon a bíró elé, és a bíró át ne adjon téged a poroszlónak és a poroszló a tömlöczbe ne vessen téged."
+"Mikor pedig a te ellenségeddel a fejedelem elé mégy, igyekezzél az úton megmenekedni tõle, hogy téged ne vonjon a bíró #elé, és a bíró át ne adjon téged a poroszlónak és a poroszló a tömlöczbe ne vessen téged."
 "Mondom néked, hogy nem jõsz ki onnét, mígnem megfizetsz mind az utolsó fillérig."

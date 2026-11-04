@@ -16,7 +16,7 @@
 "Tak niechaj świeci światłość wasza przed ludźmi, aby uczynki wasze dobre widzieli, a chwalili ojca waszego, który jest w niebiesiech."
 "Nie mniemajcie, abym przyszedł rozwiązywać zakon albo proroki; nie przyszedłem rozwiązywać, ale wypełnić."
 "Zaprawdę bowiem powiadam wam
-"Kto by tedy rozwiązał jedno z tych przykazań najmniejszych, i uczyłby tak ludzi, najmniejszym będzie nazwany w królestwie niebieskiem; a ktokolwiek by czynił i uczył, ten będzie wielkim nazwany w królestwie niebieskiem."
+"Kto by tedy rozwiązał jedno z tych przykazań najmniejszych, i uczyłby tak ludzi, najmniejszym będzie nazwany w #królestwie niebieskiem; a ktokolwiek by czynił i uczył, ten będzie wielkim nazwany w królestwie niebieskiem."
 "Albowiem powiadam wam
 "Słyszeliście, iż rzeczono starym
 "Ale ja wam powiadam
@@ -26,8 +26,8 @@
 "Zaprawdę ci powiadam
 "Słyszeliście, iż rzeczono starym
 "Aleć Ja wam powiadam
-"Jeźli cię tedy oko twoje prawe gorszy, wyłup je, a zarzuć od siebie; albowiem pożyteczniej jest tobie, aby zginął jeden z członków twoich, a wszystko ciało twoje nie było wrzucone do ognia piekielnego."
-"A jeźliż cię prawa ręka twoja gorszy, odetnij ją, i zarzuć od siebie; albowiem pożyteczniej jest tobie, aby zginął jeden z członków twoich, a wszystko ciało twoje nie było wrzucone do ognia piekielnego."
+"Jeźli cię tedy oko twoje prawe gorszy, wyłup je, a zarzuć od siebie; albowiem pożyteczniej jest tobie, #aby zginął jeden z członków twoich, a wszystko ciało twoje nie było wrzucone do ognia piekielnego."
+"A jeźliż cię prawa ręka twoja gorszy, odetnij ją, i zarzuć od siebie; albowiem pożyteczniej jest tobie, #aby zginął jeden z członków twoich, a wszystko ciało twoje nie było wrzucone do ognia piekielnego."
 "Zasię rzeczono
 "Ale Ja wam powiadam
 "Słyszeliście zasię, iż rzeczono starym

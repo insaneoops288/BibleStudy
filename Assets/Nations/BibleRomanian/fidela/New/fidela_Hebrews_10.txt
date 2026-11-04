@@ -1,4 +1,4 @@
-"Fiindcă legea, având o umbră a lucrurilor bune ce vor veni [și] nu însăși imaginea lucrurilor, nu poate niciodată să desăvârșească pe cei ce se apropie de ea cu acele sacrificii, pe care le-au oferit neîncetat an după an."
+"Fiindcă legea, având o umbră a lucrurilor bune ce vor veni [și] nu însăși imaginea lucrurilor, nu poate niciodată să #desăvârșească pe cei ce se apropie de ea cu acele sacrificii, pe care le-au oferit neîncetat an după an."
 "Altfel, nu ar fi încetat ele[ ]să fie oferite? Pentru că închinătorii trebuiau să nu mai aibă conștiința păcatelor, odată curățați."
 "Totuși, în[ sacrificiile] acelea [este] o reamintire a păcatelor în fiecare an."
 "Fiindcă [este] imposibil ca sângele taurilor și al țapilor să înlăture păcatele."
@@ -26,7 +26,7 @@
 "Căci dacă noi păcătuim voit după ce am primit cunoașterea adevărului, nu mai rămâne sacrificiu pentru păcate,"
 "Ci o anumită așteptare înfricoșată a judecății și o indignare arzătoare, care îi va mistui pe potrivnici."
 "Oricine a disprețuit legea lui Moise a murit fără milă, pe baza [mărturiei] a doi sau trei martori;"
-"De o cât mai dureroasă pedeapsă presupuneți [că] va fi considerat demn, cel ce a călcat în picioare pe Fiul lui Dumnezeu și a socotit sângele legământului, prin care a fost sfințit, un lucru profan și a tratat disprețuitor Duhul harului?"
+"De o cât mai dureroasă pedeapsă presupuneți [că] va fi considerat demn, cel ce a călcat în picioare pe Fiul lui #Dumnezeu și a socotit sângele legământului, prin care a fost sfințit, un lucru profan și a tratat disprețuitor Duhul harului?"
 "Căci cunoaștem pe cel ce a spus
 "Înfricoșător lucru [este] să cazi în mâinile Dumnezeului cel viu."
 "Dar aduceți-vă aminte de zilele de dinainte, în care, după ce ați fost iluminați, ați îndurat o mare luptă a suferințelor;"

@@ -45,7 +45,7 @@
 "Dar dacă acel rob spune în inima lui
 "Domnul acelui rob va veni într-o zi în care nu [este] așteptat și într-o oră pe care [robul] nu o cunoaște și îl va tăia în două, și îi va da partea lui împreună cu necredincioșii."
 "Iar acel rob, care a știut voia domnului său și nu [s-]a pregătit, nici nu a făcut conform cu voia lui, va fi biciuit cu multe [lovituri]."
-"Dar cel ce nu a știut și a făcut lucruri demne de lovituri, va fi biciuit cu puține [lovituri]. Și oricăruia îi este dat mult, i se va cere mult; și cui i s-a încredințat mult, i se va cere mai mult."
+"Dar cel ce nu a știut și a făcut lucruri demne de lovituri, va fi biciuit cu puține [lovituri]. Și oricăruia îi #este dat mult, i se va cere mult; și cui i s-a încredințat mult, i se va cere mai mult."
 "Am venit să trimit foc pe pământ; și ce voiesc, dacă este aprins deja?"
 "Dar am un botez cu care să fiu botezat; și cât sunt de constrâns până să fie împlinit!"
 "Presupuneți că am venit să dau pace pe pământ? Eu vă spun
@@ -55,5 +55,5 @@
 "Și când suflă vântul de la sud, spuneți
 "Fățarnicilor, puteți deosebi fața cerului și a pământului; dar cum de nu deosebiți acest timp?"
 "Și de ce nu judecați chiar de la voi înșivă ce este drept?"
-"Dar când te duci cu potrivnicul tău la magistrat, pe drum, dă-ți silința să fii eliberat de el; ca nu cumva să te târască la judecător și judecătorul să te predea executorului și executorul să te arunce în închisoare."
+"Dar când te duci cu potrivnicul tău la magistrat, pe drum, dă-ți silința să fii eliberat de el; ca nu #cumva să te târască la judecător și judecătorul să te predea executorului și executorul să te arunce în închisoare."
 "Îți spun [că] nu vei ieși nicidecum de acolo, până nu vei plăti până și ultimul bănuț."

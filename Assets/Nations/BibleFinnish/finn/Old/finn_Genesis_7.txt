@@ -20,5 +20,5 @@
 "Viisitoistakymmentä kyynärää korkialla olivat vedet vuorten päällä, jotka he peittivät."
 "Silloin hukkui kaikki liha, joka maan päällä matelee, linnut, karja, pedot, ja kaikki, jotka maan päällä liikkuvat, ja kaikki ihmiset."
 "Ja kaikki, joilla elävä henki oli kuivan maan päällä, ne kuolivat."
-"Niin hukutettiin kaikki ne, kuin maan päällä olivat, ihmisestä niin karjaan asti, ja matoihin, ja taivaan lintuihin asti, kaikki hukutettiin maan päältä, ainoastansa Noa jäi, ja ne jotka hänen kanssansa olivat arkissa."
+"Niin hukutettiin kaikki ne, kuin maan päällä olivat, ihmisestä niin karjaan asti, ja matoihin, ja taivaan lintuihin #asti, kaikki hukutettiin maan päältä, ainoastansa Noa jäi, ja ne jotka hänen kanssansa olivat arkissa."
 "Ja vedet seisoivat valtiasna maan päällä sata ja viisikymmentä päivää."

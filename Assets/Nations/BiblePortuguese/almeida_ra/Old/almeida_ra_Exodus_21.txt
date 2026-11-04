@@ -5,7 +5,7 @@
 "Mas se esse servo expressamente disser
 "então seu senhor o levará perante os juízes, e o fará chegar à porta, ou ao umbral da porta, e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre."
 "Se um homem vender sua filha para ser serva, ela não sairá como saem os servos."
-"Se ela não agradar ao seu senhor, de modo que não se despose com ela, então ele permitirá que seja resgatada; vendê-la a um povo estrangeiro, não o poderá fazer, visto ter usado de dolo para com ela."
+"Se ela não agradar ao seu senhor, de modo que não se despose com ela, então ele permitirá que seja #resgatada; vendê-la a um povo estrangeiro, não o poderá fazer, visto ter usado de dolo para com ela."
 "Mas se a desposar com seu filho, fará com ela conforme o direito de filhas."
 "Se lhe tomar outra, não diminuirá e o mantimento daquela, nem o seu vestido, nem o seu direito conjugal."
 "E se não lhe cumprir estas três obrigações, ela sairá de graça, sem dar dinheiro."
@@ -19,7 +19,7 @@
 "se ele tornar a levantar-se e andar fora sobre o seu bordão, então aquele que o feriu será absolvido; somente lhe pagará o tempo perdido e fará que ele seja completamente curado."
 "Se alguém ferir a seu servo ou a sua serva com pau, e este morrer debaixo da sua mão, certamente será castigado;"
 "mas se sobreviver um ou dois dias, não será castigado; porque é dinheiro seu."
-"Se alguns homens brigarem, e um ferir uma mulher grávida, e for causa de que aborte, não resultando, porém, outro dano, este certamente será multado, conforme o que lhe impuser o marido da mulher, e pagará segundo o arbítrio dos juízes;"
+"Se alguns homens brigarem, e um ferir uma mulher grávida, e for causa de que aborte, não resultando, porém, outro dano, #este certamente será multado, conforme o que lhe impuser o marido da mulher, e pagará segundo o arbítrio dos juízes;"
 "mas se resultar dano, então darás vida por vida,"
 "olho por olho, dente por dente, mão por mão, pé por pé,"
 "queimadura por queimadura, ferida por ferida, golpe por golpe."

@@ -3,7 +3,7 @@
 "Și darul lor de mâncare [să fie din] făină amestecată cu untdelemn
 "Și o zecime dintr-o măsură pentru un miel, pentru fiecare dintre cei șapte miei;"
 "Și un ied dintre capre [ca] ofrandă pentru păcat, pentru a se face ispășire pentru voi;"
-"Pe lângă ofranda arsă a lunii și darul ei de mâncare; și ofranda zilnică arsă și darul ei de mâncare și darurile lor de băutură, conform cu rânduiala lor, de o aromă dulce, un sacrificiu făcut prin foc DOMNULUI."
+"Pe lângă ofranda arsă a lunii și darul ei de mâncare; și ofranda zilnică arsă și darul ei de mâncare #și darurile lor de băutură, conform cu rânduiala lor, de o aromă dulce, un sacrificiu făcut prin foc DOMNULUI."
 "Și în [ziua] a zecea a lunii a șaptea să aveți o adunare solemnă, sfântă; și să vă chinuiți sufletele; să nu faceți nicio lucrare [în ea],"
 "Ci să aduceți ofrandă arsă DOMNULUI [de o aromă dulce]
 "Și darul lor de mâncare [să fie din] făină amestecată cu untdelemn
@@ -36,5 +36,5 @@
 "Ci să aduceți ofrandă arsă, ofrandă făcută prin foc, de o aromă dulce DOMNULUI
 "Darul lor de mâncare și darurile lor de băutură pentru tauri, pentru berbeci și pentru miei, [să fie] conform cu numărul lor, conform rânduielii;"
 "Și un țap [ca] ofrandă pentru păcat; pe lângă ofranda arsă, neîncetată, și darul ei de mâncare și darul ei de băutură."
-"Aceste [lucruri] să le faceți DOMNULUI în sărbătorile voastre rânduite, pe lângă promisiunile voastre și ofrandele de bună voie, pentru ofrandele voastre arse și pentru darurile voastre de mâncare și pentru darurile voastre de băutură și pentru ofrandele voastre de pace."
+"Aceste [lucruri] să le faceți DOMNULUI în sărbătorile voastre rânduite, pe lângă promisiunile voastre și ofrandele de bună voie, pentru ofrandele #voastre arse și pentru darurile voastre de mâncare și pentru darurile voastre de băutură și pentru ofrandele voastre de pace."
 "Și Moise a spus copiilor lui Israel conform cu tot ceea ce DOMNUL i-a poruncit lui Moise."

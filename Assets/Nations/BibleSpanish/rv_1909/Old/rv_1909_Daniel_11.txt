@@ -1,5 +1,5 @@
 "Y EN el año primero de Darío el de Media, yo estuve para animarlo y fortalecerlo."
-"Y ahora yo te mostraré la verdad. He aquí que aun habrá tres reyes en Persia, y el cuarto se hará de grandes riquezas más que todos; y fortificándose con sus riquezas, despertará á todos contra el reino de Javán."
+"Y ahora yo te mostraré la verdad. He aquí que aun habrá tres reyes en Persia, y el cuarto se hará #de grandes riquezas más que todos; y fortificándose con sus riquezas, despertará á todos contra el reino de Javán."
 "Levantaráse luego un rey valiente, el cual se enseñoreará sobre gran dominio, y hará su voluntad."
 "Pero cuando estará enseñoreado, será quebrantado su reino, y repartido por los cuatro vientos del cielo; y no á sus descendientes, ni según el señorío con que él se enseñoreó
 "Y haráse fuerte el rey del mediodía
@@ -21,7 +21,7 @@
 "Y sucederá en su lugar un vil, al cual no darán la honra del reino
 "Y con los brazos de inundación serán inundados delante de él, y serán quebrantados; y aun también el príncipe del pacto."
 "Y después de los conciertos con él, él hará engaño, y subirá, y saldrá vencedor con poca gente."
-"Estando la provincia en paz y en abundancia, entrará y hará lo que no hicieron sus padres, ni los padres de sus padres; presa, y despojos, y riquezas repartirá á sus soldados; y contra las fortalezas formará sus designios
+"Estando la provincia en paz y en abundancia, entrará y hará lo que no hicieron sus padres, ni los padres #de sus padres; presa, y despojos, y riquezas repartirá á sus soldados; y contra las fortalezas formará sus designios
 "Y despertará sus fuerzas y su corazón contra el rey del mediodía con grande ejército
 "Aun los que comerán su pan, le quebrantarán; y su ejército será destruído, y caerán muchos muertos."
 "Y el corazón de estos dos reyes será para hacer mal, y en una misma mesa tratarán mentira
@@ -37,7 +37,7 @@
 "Y del Dios de sus padres no se cuidará, ni del amor de las mujeres
 "Mas honrará en su lugar al dios Mauzim, dios que sus padres no conocieron
 "Y con el dios ajeno que conocerá, hará á los baluartes de Mauzim crecer en gloria
-"Empero al cabo del tiempo el rey del mediodía se acorneará con él; y el rey del norte levantará contra él como tempestad, con carros y gente de á caballo, y muchos navíos; y entrará por las tierras, é inundará, y pasará."
+"Empero al cabo del tiempo el rey del mediodía se acorneará con él; y el rey del norte levantará contra él como #tempestad, con carros y gente de á caballo, y muchos navíos; y entrará por las tierras, é inundará, y pasará."
 "Y vendrá á la tierra deseable, y muchas provincias caerán; mas éstas escaparán de su mano
 "Asimismo extenderá su mano á las otras tierras, y no escapará el país de Egipto."
 "Y se apoderará de los tesoros de oro y plata, y de todas las cosas preciosas de Egipto, de Libia, y Etiopía por donde pasará."

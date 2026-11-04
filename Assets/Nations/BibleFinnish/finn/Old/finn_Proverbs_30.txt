@@ -1,7 +1,7 @@
 "Agurin Jakenin pojan pojan sanat ja opetus, jonka se mies pujui Itielille, Itielille ja Ukkalille."
 "Minä olen kaikkein hulluin, ja ihmisten ymmärrys ei ole minussa."
 "En minä ole oppinut viisautta, ja en tiedä pyhäin taitoa."
-"Kuka taivaaseen menee ylös ja tulee alas? kuka käsittää tuulen pivoonsa? kuka sitoo veden vaatteeseen? kuka 0n asttanut kaikki maan ääret? mikä on hänen nimensä? kuinka hänen poikansa kutsutaan? tiedätkös?"
+"Kuka taivaaseen menee ylös ja tulee alas? kuka käsittää tuulen pivoonsa? kuka sitoo veden vaatteeseen? kuka #0n asttanut kaikki maan ääret? mikä on hänen nimensä? kuinka hänen poikansa kutsutaan? tiedätkös?"
 "Kaikki Jumalan sanat ovat kirkastetut, ja ovat kilpi niille, jotka uskovat hänen päällensä."
 "Älä lisää hänen sanoihinsa, ettei hän sinua rankaisisi, ja sinä löyttäisiin valehteliaksi."
 "Kahta minä sinulta anon, ettes minulta niitä kieltäisi, ennenkuin minä kuolen

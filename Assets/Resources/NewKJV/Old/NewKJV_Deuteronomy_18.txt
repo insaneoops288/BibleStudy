@@ -13,10 +13,10 @@
 "You shall be blameless before the LORD your God.
 "For these nations which you will dispossess listened to soothsayers and diviners; but as for you, the LORD your God has not appointed such for you.
 "The LORD your God will raise up for you a Prophet like me from your midst, from your brethren. Him you shall hear,
-"according to all you desired of the LORD your God in Horeb in the day of the assembly, saying, 'Let me not hear again the voice of the LORD my God, nor let me see this great fire anymore, lest I die.'
+"according to all you desired of the LORD your God in Horeb in the day of the assembly, saying, 'Let me not #hear again the voice of the LORD my God, nor let me see this great fire anymore, lest I die.'
 "And the LORD said to me, 'What they have spoken is good.
 'I will raise up for them a Prophet like you from among their brethren, and will put My words in His mouth, and He shall speak to them all that I command Him.
 'And it shall be that whoever will not hear My words, which He speaks in My name, I will require it of him.
 'But the prophet who presumes to speak a word in My name, which I have not commanded him to speak, or who speaks in the name of other gods, that prophet shall die.'
 "And if you say in your heart, 'How shall we know the word which the LORD has not spoken?',,
-"when a prophet speaks in the name of the LORD, if the thing does not happen or come to pass, that is the thing which the LORD has not spoken; the prophet has spoken it presumptuously; you shall not be afraid of him.
+"when a prophet speaks in the name of the LORD, if the thing does not happen or come to pass, that is #the thing which the LORD has not spoken; the prophet has spoken it presumptuously; you shall not be afraid of him.

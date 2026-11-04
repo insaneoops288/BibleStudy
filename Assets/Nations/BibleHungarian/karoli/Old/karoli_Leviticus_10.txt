@@ -1,4 +1,4 @@
-"Nádáb pedig és Abihu, Áronnak fiai, vevék egyen-egyen az õ temjénezõjöket, és tõnek azokba szenet és rakának arra füstölõ szert, és vivének az Úr elé idegen tüzet, a melyet nem parancsolt vala nékik."
+"Nádáb pedig és Abihu, Áronnak fiai, vevék egyen-egyen az õ temjénezõjöket, és tõnek azokba szenet és rakának #arra füstölõ szert, és vivének az Úr elé idegen tüzet, a melyet nem parancsolt vala nékik."
 "Tûz jöve azért ki az Úr elõl, és megemészté õket, és meghalának az Úr elõtt."
 "És monda Mózes Áronnak
 "Áron pedig mélyen hallgata. Szólítá azért Mózes Misáelt és Elsafánt, Uzzielnek, az Áron nagybátyjának fiait, és monda nékik
@@ -11,10 +11,10 @@
 "És hogy taníthassátok Izráel fiait mindazokra a rendelésekre, a melyeket az Úr szólott vala nékik Mózes által."
 "Mózes pedig szóla Áronnak és az õ megmaradt fiainak, Eleázárnak és Ithamárnak
 "Azért egyétek azt szent helyen, mert kiszabott részed, és fiaidnak is kiszabott része az, az Úrnak tûzáldozatiból; mert így parancsolta nékem."
-"A meglóbált szegyet pedig, és a felmutatott lapoczkát egyétek meg tiszta helyen, te, és a te fiaid és leányaid is veled, mert kiszabott részül adattak azok néked s kiszabott részül a te fiaidnak is, Izráel fiainak hálaadó áldozataiból."
-"A felmutatott lapoczkát és meglóbált szegyet a tûzáldozat kövérségeivel együtt vigyék be, hogy meglóbálják az Úr elõtt, és ez lesz a te kiszabott részed, és veled a te fiaidé örökké, a mint megparancsolta vala az Úr."
+"A meglóbált szegyet pedig, és a felmutatott lapoczkát egyétek meg tiszta helyen, te, és a te fiaid és leányaid is #veled, mert kiszabott részül adattak azok néked s kiszabott részül a te fiaidnak is, Izráel fiainak hálaadó áldozataiból."
+"A felmutatott lapoczkát és meglóbált szegyet a tûzáldozat kövérségeivel együtt vigyék be, hogy meglóbálják az Úr elõtt, és ez #lesz a te kiszabott részed, és veled a te fiaidé örökké, a mint megparancsolta vala az Úr."
 "Azután szorgalmatosan tudakozódék Mózes a bûnáldozatra való bak felõl, de ímé elégett vala. Haragra gerjede azért Eleázár és Ithamár ellen, Áronnak megmaradt fiai ellen, mondván
-"Miért nem ettétek meg a bûnért való áldozatot a szenthelyen? Hiszen igen szentséges az, és néktek adta azt [az] [Úr a] gyülekezet vétkének hordozásáért, hogy engesztelést szerezzetek annak az Úr elõtt."
+"Miért nem ettétek meg a bûnért való áldozatot a szenthelyen? Hiszen igen szentséges az, és néktek #adta azt [az] [Úr a] gyülekezet vétkének hordozásáért, hogy engesztelést szerezzetek annak az Úr elõtt."
 "Ímé, nem vitetett be annak vére a szenthely belsejébe, meg kellett volna azért ennetek a szenthelyen, a mint megparancsoltam vala."
 "Áron pedig szóla Mózesnek
 "Mikor ezt hallotta vala Mózes, jónak tetszék ez néki."

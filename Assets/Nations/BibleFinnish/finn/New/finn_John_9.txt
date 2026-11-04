@@ -19,7 +19,7 @@
 "Ja he kysyivät heiltä, sanoen
 "Hänen vanhempansa vastasivat heitä ja sanoivat
 "Mutta kuika hän nyt näkee, sitä emme tiedä, ja kuka hänen silmänsä avasi, emme tiedä; hänellä on kyllä ikää, kysykäät häneltä; puhukaan itsestänsä."
-"Niin sanoivat hänen vanhempansa, sillä he pelkäsivät Juudalaisia; sillä Juudalaiset olivat jo niin keskenänsä päättäneet, että jos joku hänen tunnustais Kristukseksi, sen piti synagogasta oleman suljettu ulos."
+"Niin sanoivat hänen vanhempansa, sillä he pelkäsivät Juudalaisia; sillä Juudalaiset olivat jo niin keskenänsä #päättäneet, että jos joku hänen tunnustais Kristukseksi, sen piti synagogasta oleman suljettu ulos."
 "Sentähden sanoivat hänen vanhempansa
 "Niin he kutsuivat toisen kerran sen ihmisen, joka sokiana oli ollut, ja sanoivat hänelle
 "Hän vastasi ja sanoi

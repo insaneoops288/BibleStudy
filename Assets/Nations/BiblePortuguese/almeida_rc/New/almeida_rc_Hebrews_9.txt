@@ -1,7 +1,7 @@
 "ORA também o primeiro tinha ordenanças de culto divino, e um santuário terrestre."
 "Porque um tabernáculo estava preparado, o primeiro, em que havia o candeeiro, e a mesa, e os pães da proposição; ao que se chama o santuário."
 "Mas depois do segundo véu estava o tabernáculo que se chama o santo dos santos,"
-"Que tinha o incensário de ouro, e a arca do concerto, coberta de ouro toda em redor; em que estava um vaso de ouro, que continha o maná, e a vara de Aarão, que tinta florescido, e as tábuas do concerto;"
+"Que tinha o incensário de ouro, e a arca do concerto, coberta de ouro toda em redor; em que estava um #vaso de ouro, que continha o maná, e a vara de Aarão, que tinta florescido, e as tábuas do concerto;"
 "E sobre a arca os querubins da glória, que faziam sombra no propiciatório, das quais coisas não falaremos agora particularmente."
 "Ora, estando estas coisas assim preparadas, a todo o tempo entravam os sacerdotes no primeiro tabernáculo, cumprindo os serviços;"
 "Mas no segundo só o sumo sacerdote, uma vez no ano, não sem sangue, que oferecia por si mesmo e pelas culpas do povo;"
@@ -16,7 +16,7 @@
 "Porque onde há testamento necessário é que intervenha a morte do testador."
 "Porque um testamento tem força onde houve morte; ou terá ele algum valor enquanto o testador vive?"
 "Pelo que também o primeiro não foi consagrado sem sangue;"
-"Porque, havendo Moisés anunciado a todo o povo todos os mandamentos segundo a lei, tomou o sangue dos bezerros e dos bodes, com água, lã purpúrea e hissope, e aspergiu tanto o mesmo livro como todo o povo."
+"Porque, havendo Moisés anunciado a todo o povo todos os mandamentos segundo a lei, tomou o sangue dos bezerros e #dos bodes, com água, lã purpúrea e hissope, e aspergiu tanto o mesmo livro como todo o povo."
 "Dizendo
 "E semelhantemente aspergiu com sangue o tabernáculo e todos os vasos do ministério."
 "E quase todas as coisas, segundo a lei, se purificam com sangue; e sem derramamento de sangue não há remissão."

@@ -31,5 +31,5 @@
 "W onże dzień przystąpili niektórzy z Faryzeuszów, mówiąc mu
 "I rzekł im
 "Wszakże muszę dziś i jutro i pojutrze odprawiać drogę
-"Jeruzalem! Jeruzalem! które zabijasz proroki, a kamionujesz te, którzy do ciebie bywają posłani; ilekroć chciałem zgromadzić dzieci twoje, tak jako kokosz zgromadza kurczęta swoje pod skrzydła, a nie chcieliście."
+"Jeruzalem! Jeruzalem! które zabijasz proroki, a kamionujesz te, którzy do ciebie bywają posłani; ilekroć chciałem #zgromadzić dzieci twoje, tak jako kokosz zgromadza kurczęta swoje pod skrzydła, a nie chcieliście."
 "Otoż zostanie wam dom wasz pusty. A zaprawdęć wam powiadam, że mię nie ujrzycie, aż przyjdzie czas, gdy rzeczecie

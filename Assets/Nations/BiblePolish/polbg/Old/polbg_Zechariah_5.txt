@@ -1,7 +1,7 @@
 "Potemem się obrócił, a podniósłszy oczu swych ujrzałem, a oto księga leciała."
 "I rzekł do mnie
 "I rzekł do mnie
-"Wywiodę je, mówi Pan zastępów, aby przyszło na dom złodzieja, i na dom kłamliwie przez imię moje przysięgającego; owszem, mieszkać będzie w pośrodku domu jego, i zniszczy go, i drzewo jego i kamienie jego."
+"Wywiodę je, mówi Pan zastępów, aby przyszło na dom złodzieja, i na dom kłamliwie przez imię moje przysięgającego; #owszem, mieszkać będzie w pośrodku domu jego, i zniszczy go, i drzewo jego i kamienie jego."
 "Wyszedł tedy Anioł on, który zemną mówił, i rzekł mi
 "I rzekłem
 "A oto sztukę ołowiu niesiono, a przytem była niewiasta jedna, która siedziała w pośrodku efa."

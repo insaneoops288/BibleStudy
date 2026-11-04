@@ -1,5 +1,5 @@
 "Și unii, coborând din Iudeea, învățau pe frați
-"De aceea după ce Pavel și Barnaba au avut nu puțină disensiune și dispută cu ei, au rânduit ca Pavel și Barnaba și alți câțiva dintre ei să urce la Ierusalim la apostoli și bătrâni cu această întrebare."
+"De aceea după ce Pavel și Barnaba au avut nu puțină disensiune și dispută cu ei, au rânduit ca Pavel #și Barnaba și alți câțiva dintre ei să urce la Ierusalim la apostoli și bătrâni cu această întrebare."
 "Și fiind conduși pe drum de către biserică, au trecut prin Fenicia și Samaria, relatând convertirea neamurilor; și făceau bucurie mare tuturor fraților."
 "Și când au ajuns la Ierusalim, au fost primiți de biserică și apostoli și bătrâni și au istorisit toate lucrurile pe care le-a făcut Dumnezeu cu ei."
 "Dar s-au ridicat unii din secta fariseilor care au crezut, spunând că
@@ -19,7 +19,7 @@
 "De aceea concluzia mea este, să nu îi chinuim pe aceia care dintre neamuri se întorc la Dumnezeu;"
 "Ci să le scriem să se ferească de profanările idolilor și [de ]curvie și [de] animale sugrumate și [de ]sânge."
 "Fiindcă Moise, din timpurile de demult, are în fiecare cetate pe cei care îl predică, fiind citit în sinagogi în fiecare sabat."
-"Atunci li s-a părut cuvenit apostolilor și bătrânilor, cu întreaga biserică, să trimită la Antiohia bărbați aleși dintre ei, cu Pavel și Barnaba; pe Iuda, numit și Barsaba, și Sila, bărbați mai de seamă între frați;"
+"Atunci li s-a părut cuvenit apostolilor și bătrânilor, cu întreaga biserică, să trimită la Antiohia bărbați aleși dintre ei, #cu Pavel și Barnaba; pe Iuda, numit și Barsaba, și Sila, bărbați mai de seamă între frați;"
 "Și au scris astfel prin mâna lor
 "Întrucât am auzit că unii care au ieșit dintre noi v-au tulburat prin cuvinte, subminându-vă sufletele, zicând
 "Ni s-a părut cuvenit, fiind adunați într-un gând, să trimitem la voi bărbați aleși, cu preaiubiții noștri Barnaba și Pavel,"

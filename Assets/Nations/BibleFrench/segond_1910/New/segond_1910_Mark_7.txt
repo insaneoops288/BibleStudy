@@ -1,7 +1,7 @@
 "Les pharisiens et quelques scribes, venus de Jérusalem, s'assemblèrent auprès de Jésus."
 "Ils virent quelques-uns de ses disciples prendre leurs repas avec des mains impures, c'est-à-dire, non lavées."
 "Or, les pharisiens et tous les Juifs ne mangent pas sans s'être lavé soigneusement les mains, conformément à la tradition des anciens;"
-"et, quand ils reviennent de la place publique, ils ne mangent qu'après s'être purifiés. Ils ont encore beaucoup d'autres observances traditionnelles, comme le lavage des coupes, des cruches et des vases d'airain."
+"et, quand ils reviennent de la place publique, ils ne mangent qu'après s'être purifiés. Ils ont encore #beaucoup d'autres observances traditionnelles, comme le lavage des coupes, des cruches et des vases d'airain."
 "Et les pharisiens et les scribes lui demandèrent
 "Jésus leur répondit
 "C'est en vain qu'ils m'honorent, En donnant des préceptes qui sont des commandements d'hommes."

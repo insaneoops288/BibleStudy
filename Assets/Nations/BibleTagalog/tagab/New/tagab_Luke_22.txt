@@ -33,7 +33,7 @@
 "At sinabi niya sa kaniya, Panginoon, nakatalaga akong sumama sa iyo sa bilangguan at sa kamatayan."
 "At kaniyang sinabi, Sinasabi ko sa iyo, Pedro, na hindi titilaok ngayon ang manok, hanggang sa ikaila mong makaitlo na ako'y hindi mo nakikilala."
 "At sinabi niya sa kanila, Nang kayo'y suguin ko na walang supot ng salapi, at supot ng pagkain, at mga pangyapak, kinulang baga kayo ng anoman? At kanilang sinabi, Hindi."
-"At sinabi niya sa kanila, Nguni't ngayon, ang mayroong supot ng salapi ay dalhin ito, at gayon din ang supot ng pagkain; at ang wala, ay ipagbili niya ang kaniyang balabal, at bumili ng isang tabak."
+"At sinabi niya sa kanila, Nguni't ngayon, ang mayroong supot ng salapi ay dalhin ito, at gayon din ang #supot ng pagkain; at ang wala, ay ipagbili niya ang kaniyang balabal, at bumili ng isang tabak."
 "Sapagka't sinasabi ko sa inyo, na kinakailangang matupad sa akin itong nasusulat, At ibinilang siya sa mga suwail
 "At sinabi nila, Panginoon, narito ang dalawang tabak. At sinabi niya sa kanila, Sukat na."
 "At siya'y lumabas, at pumaroon, ayon sa kaniyang kaugalian, sa bundok ng mga Olivo; at nagsisunod naman sa kaniya ang mga alagad."
@@ -49,7 +49,7 @@
 "At nang makita ng mga kasama niya ang mangyayari, ay kanilang sinabi, Panginoon, magsisipanaga baga kami ng tabak?"
 "At tinaga ng isa sa kanila ang alipin ng dakilang saserdote, at tinigpas ang kanang tainga niya."
 "Datapuwa't sumagot si Jesus, na nagsabi, Pabayaan ninyo sila hanggang dito. At hinipo niya ang tainga ng alipin, at ito'y pinagaling."
-"At sinabi ni Jesus sa mga pangulong saserdote, at sa mga punong kawal sa templo, at sa mga matanda, na nagsidating laban sa kaniya, Kayo'y nagsilabas, na tila laban sa isang tulisan, na may mga tabak at mga panghampas?"
+"At sinabi ni Jesus sa mga pangulong saserdote, at sa mga punong kawal sa templo, at sa mga matanda, na #nagsidating laban sa kaniya, Kayo'y nagsilabas, na tila laban sa isang tulisan, na may mga tabak at mga panghampas?"
 "Nang ako'y kasama ninyo sa templo araw-araw, ay hindi ninyo iniunat ang inyong mga kamay laban sa akin; datapuwa't ito ang inyong oras, at ang kapangyarihan ng kadiliman."
 "At kanilang dinakip siya, at dinala siya, at ipinasok siya sa bahay ng pangulong saserdote. Datapuwa't sa malayo'y sumusunod si Pedro."
 "At nang makapagpadikit nga sila ng apoy sa gitna ng looban, at mangakaupong magkakasama, si Pedro ay nakiumpok sa gitna nila."

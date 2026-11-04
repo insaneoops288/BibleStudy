@@ -8,7 +8,7 @@
 "Si le voleur ne se trouve pas, le maître de la maison se présentera devant Dieu, pour déclarer qu'il n'a pas mis la main sur le bien de son prochain."
 "Dans toute affaire frauduleuse concernant un boeuf, un âne, un agneau, un vêtement, ou un objet perdu, au sujet duquel on dira
 "Si un homme donne à un autre un âne, un boeuf, un agneau, ou un animal quelconque à garder, et que l'animal meure, se casse un membre, ou soit enlevé, sans que personne l'ait vu,"
-"le serment au nom de l'Eternel interviendra entre les deux parties, et celui qui a gardé l'animal déclarera qu'il n'a pas mis la main sur le bien de son prochain; le maître de l'animal acceptera ce serment, et l'autre ne sera point tenu à une restitution."
+"le serment au nom de l'Eternel interviendra entre les deux parties, et celui qui a gardé l'animal déclarera qu'il n'a pas mis la main #sur le bien de son prochain; le maître de l'animal acceptera ce serment, et l'autre ne sera point tenu à une restitution."
 "Mais si l'animal a été dérobé chez lui, il sera tenu vis-à-vis de son maître à une restitution."
 "Si l'animal a été déchiré, il le produira en témoignage, et il ne sera point tenu à une restitution pour ce qui a été déchiré."
 "Si un homme emprunte à un autre un animal, et que l'animal se casse un membre ou qu'il meure, en l'absence de son maître, il y aura lieu à restitution."

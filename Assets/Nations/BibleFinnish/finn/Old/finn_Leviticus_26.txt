@@ -1,4 +1,4 @@
-"Ei teidän pidä tekemän teillenne epäjumalia, ei kuvia, eikä myös patsaita pystyttämän teillenne, eikä myös yhtään merkkikiveä paneman teidän maallanne, kumartaaksenne niitä; sillä minä olen Herra teidän Jumalanne."
+"Ei teidän pidä tekemän teillenne epäjumalia, ei kuvia, eikä myös patsaita pystyttämän teillenne, eikä myös #yhtään merkkikiveä paneman teidän maallanne, kumartaaksenne niitä; sillä minä olen Herra teidän Jumalanne."
 "Pitäkäät minun sabbatini, ja peljätkäät minun pyhyyttäni
 "Jos te säädyissäni vaellatte, ja minun käskyni kätkette, ja teette ne,"
 "Niin minä annan teille sateen ajallansa, ja maa antaa kasvunsa, ja kedon puut antavat hedelmänsä."
@@ -10,7 +10,7 @@
 "Ja te saatte syödä sitä vanhaa, joka vanhenee, ja vanhat te hylkäätte uuden tähden."
 "Ja minä panen asumasiani teidän keskellenne, ja minun sieluni ei hyljää teitä."
 "Ja minä vaellan teidän keskellänne ja olen teidän Jumalanne, ja teidän pitää oleman minun kanssani."
-"Sillä minä olen Herra teidän Jumalanne, joka johdatin teidät ulos Egyptin maalta, ettei teidän pitänyt oleman heidän orjansa. Minä olen taittanut poikki ikeenne vehmerän, ja olen antanut tiedän käydä pystyällä."
+"Sillä minä olen Herra teidän Jumalanne, joka johdatin teidät ulos Egyptin maalta, ettei teidän pitänyt oleman #heidän orjansa. Minä olen taittanut poikki ikeenne vehmerän, ja olen antanut tiedän käydä pystyällä."
 "Mutta jos ette kuule minua, ettekä tee kaikkia näitä käskyjä,"
 "Vaan suututte säätyihini, ja teidän sielunne hyljää minun oikeuteni, ettekä tee kaikkia minun käskyjäni, ja rikotte minun liittoni,"
 "Niin minä teen teille nämät
@@ -33,14 +33,14 @@
 "Ja hajoitan teitä pakanain sekaan, ja vedän ulos miekan teidän jälkeenne, ja maanne pitää tuleman kylmille ja kaupunkinne kukistetuksi."
 "Silloin kelpaa maalle hänen leponsa, niinkauvan kuin hän autiona on, ja te olette vihollisten maalla. Ja silloin vasta maa lepää ja pyhää pitää."
 "Niinkauvan kuin se autiona on, saa hän levätä, ettei hän saanut pyhää pitää, silloin koska teidän piti hänen pyhäänsä antaman pitää, koska te asuitte siellä."
-"Ja niille, jotka jäävät teistä, teen minä vapisevan sydämen heidän vihollistensa maalla, niin että kapisevan lehden ääni karkottaa heitä, ja pitää pakeneman sitä niinkuin miekkaa, ja pitää kaatuman siinä, kussa ei kenkään heitä aja takaa."
+"Ja niille, jotka jäävät teistä, teen minä vapisevan sydämen heidän vihollistensa maalla, niin että kapisevan lehden ääni karkottaa #heitä, ja pitää pakeneman sitä niinkuin miekkaa, ja pitää kaatuman siinä, kussa ei kenkään heitä aja takaa."
 "Ja heidän pitää lankeeman toinen toisensa päälle, niinkuin miekan edestä, vaikka ei yksikään karkota heitä, ja ette tohdi nousta vihamiehiänne vastaan."
 "Ja teidän pitää hukkuman pakanain seassa, ja vihollisten maa pitää teitä syömän."
 "Ne kuin jäävät teistä, pitää vaipuman pahuudessansa, teidän vihollistenne maalla. Ja isäinsä pahoissa teoissa pitää teidän vaipuman."
 "Silloin pitää heidän tunnustaman pahat tekonsa ja isäinsä pahat teot, joilla he ovat minun mieleni rikkoneet, ja vaeltaneet minua vastaan."
-"Sentähden minä myös vaellan heitä vastaan ja vien heitä vihollistensa maalle, että edes silloin heidän ympärileikkaamatoin sydämensä nöyryyttäis itsensä; silloin myös heidän pahan tekonsa rangaistus heille kelpaa."
+"Sentähden minä myös vaellan heitä vastaan ja vien heitä vihollistensa maalle, että edes silloin #heidän ympärileikkaamatoin sydämensä nöyryyttäis itsensä; silloin myös heidän pahan tekonsa rangaistus heille kelpaa."
 "Ja minä muistan minun liittoni Jakobin kanssa, niin myös minun liittoni Isaakin kanssa, ja myös minun liittoni Abrahamin kanssa muistan minä, muistan myös maan,"
-"Joka heiltä jätetty on, ja sille kelpaa lepopäivänsä, niinkauvan kuin se autiona on heiltä, ja heidän pahan tekonsa rangaistus heille kelpaa, että he hylkäsivät minun oikeuteni, ja heidän sielunsa on kuoittanut minun säätyjäni."
-"Ja vaikka he vielä vihollistensa maalla ovat, en minä kuitenkaan ole heitä hyljännyt, ja en heitä niin kurittanut, että minä olisin heidän peräti hukuttanut, ja minun liittoni heidän kanssansa tyhjäksi tehnyt; sillä minä olen Herra heidän Jumalansa."
+"Joka heiltä jätetty on, ja sille kelpaa lepopäivänsä, niinkauvan kuin se autiona on heiltä, ja heidän pahan #tekonsa rangaistus heille kelpaa, että he hylkäsivät minun oikeuteni, ja heidän sielunsa on kuoittanut minun säätyjäni."
+"Ja vaikka he vielä vihollistensa maalla ovat, en minä kuitenkaan ole heitä hyljännyt, ja en heitä niin kurittanut, että #minä olisin heidän peräti hukuttanut, ja minun liittoni heidän kanssansa tyhjäksi tehnyt; sillä minä olen Herra heidän Jumalansa."
 "Ja minä muistan ensimäisen liittoni heistä, koska minä johdatin heidät Egyptin maalta pakanain silmäin edestä, ollakseni heidän Jumalansa
 "Nämät ovat ne säädyt ja oikeudet ja käskyt, jotka Herra antoi itsensä ja Israelin lasten vaiheelle, Sinain vuorella, Moseksen käden kautta."

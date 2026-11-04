@@ -1,5 +1,5 @@
 "A l'égard de la collecte qui se fait pour les saints, faites comme je l'ai ordonné aux Églises de Galatie."
-"Chaque premier jour de la semaine, que chacun de vous mette à part chez soi, et rassemble ce qu'il pourra, selon sa prospérité, afin qu'on n'attende pas que je sois arrivé pour faire les collectes."
+"Chaque premier jour de la semaine, que chacun de vous mette à part chez soi, et rassemble ce #qu'il pourra, selon sa prospérité, afin qu'on n'attende pas que je sois arrivé pour faire les collectes."
 "Et lorsque je serai arrivé, j'enverrai avec des lettres ceux que vous aurez approuvés, pour porter votre libéralité à Jérusalem."
 "Et si la chose mérite que j'y aille moi-même, ils viendront avec moi."
 "Au reste, j'irai chez vous, après que j'aurai passé par la Macédoine; car je passerai par la Macédoine."

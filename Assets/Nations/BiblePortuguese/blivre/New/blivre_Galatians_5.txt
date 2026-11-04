@@ -18,7 +18,7 @@
 "Mas, se sois guiados pelo Espírito, não estais debaixo da Lei."
 "As obras da carne são evidentes. São elas
 "idolatria, feitiçaria, inimizades, brigas, ciúmes, iras, rivalidades egoístas, desavenças, facções,"
-"invejas, homicídios, bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como eu também haviavos dito antes que os que praticam tais coisas não herdarão o Reino de Deus."
+"invejas, homicídios, bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como #eu também haviavos dito antes que os que praticam tais coisas não herdarão o Reino de Deus."
 "Mas o fruto do Espírito é
 "mansidão, domínio próprio. Contra essas coisas não há lei."
 "Os que são de Cristo crucificaram a carne com as paixões e os maus desejos."

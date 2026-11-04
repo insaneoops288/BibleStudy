@@ -7,9 +7,9 @@
 "Por tanto, así dice Jehová de los ejércitos
 "Saeta afilada [es] la lengua de ellos; engaño habla; con su boca habla paz con su amigo, pero dentro de sí pone sus asechanzas."
 "¿No habré de castigarles por estas cosas? dice Jehová. ¿No ha de vengarse mi alma de una gente como ésta?"
-"Sobre los montes levantaré lloro y lamentación, y llanto sobre los pastos del desierto; porque desolados fueron hasta no quedar quien pase, ni oyeron bramido de ganado; desde las aves del cielo hasta las bestias de la tierra huyeron, y se fueron."
+"Sobre los montes levantaré lloro y lamentación, y llanto sobre los pastos del desierto; porque desolados fueron hasta no quedar quien pase, #ni oyeron bramido de ganado; desde las aves del cielo hasta las bestias de la tierra huyeron, y se fueron."
 "Y convertiré a Jerusalén en un montón de ruinas, en guarida de dragones; y de las ciudades de Judá haré asolamiento, que no quede morador."
-"¿Quién [es] varón sabio que entienda esto? ¿Y a quién habló la boca de Jehová, para que pueda declararlo? ¿Por qué causa la tierra ha perecido, ha sido asolada como desierto, que no hay quien pase?"
+"¿Quién [es] varón sabio que entienda esto? ¿Y a quién habló la boca de Jehová, para que pueda declararlo? #¿Por qué causa la tierra ha perecido, ha sido asolada como desierto, que no hay quien pase?"
 "Y dijo Jehová
 "antes se fueron tras la imaginación de su corazón, y en pos de los Baales que les enseñaron sus padres."
 "Por tanto así dice Jehová de los ejércitos, Dios de Israel
@@ -21,6 +21,6 @@
 "Porque la muerte ha subido por nuestras ventanas, ha entrado en nuestros palacios; para talar a los niños de las calles y a los jóvenes de las plazas."
 "Habla
 "Así dice Jehová
-"Mas el que se hubiere de alabar, alábese en esto, en entenderme y en conocerme, que yo soy Jehová, que hago misericordia, juicio y justicia en la tierra; porque en estas cosas me complazco, dice Jehová."
+"Mas el que se hubiere de alabar, alábese en esto, en entenderme y en conocerme, que yo soy Jehová, #que hago misericordia, juicio y justicia en la tierra; porque en estas cosas me complazco, dice Jehová."
 "He aquí que vienen días, dice Jehová, y visitaré sobre todo circuncidado, y sobre todo incircunciso
-"A Egipto y a Judá, a Edom, a los hijos de Amón y de Moab, y a todos los arrinconados en el postrer rincón, que moran en el desierto; porque todas las naciones son incircuncisas, y toda la casa de Israel es incircuncisa de corazón."
+"A Egipto y a Judá, a Edom, a los hijos de Amón y de Moab, y a todos los arrinconados en el postrer #rincón, que moran en el desierto; porque todas las naciones son incircuncisas, y toda la casa de Israel es incircuncisa de corazón."

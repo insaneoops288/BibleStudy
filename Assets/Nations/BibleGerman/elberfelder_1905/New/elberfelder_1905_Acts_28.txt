@@ -3,7 +3,7 @@
 "Als aber Paulus eine gewisse Menge Reiser zusammenraffte und auf das Feuer legte, kam infolge der Hitze eine Natter heraus und hängte sich an seine Hand."
 "Als aber die Eingeborenen das Tier an seiner Hand hängen sahen, sagten sie zueinander
 "Er nun schüttelte das Tier in das Feuer ab und erlitt nichts Schlimmes."
-"Sie aber erwarteten, daß er aufschwellen oder plötzlich tot hinfallen würde. Als sie aber lange warteten und sahen, daß ihm nichts Ungewöhnliches geschah,änderten sie ihre Meinung und sagten, er sei ein Gott."
+"Sie aber erwarteten, daß er aufschwellen oder plötzlich tot hinfallen würde. Als sie aber lange warteten und #sahen, daß ihm nichts Ungewöhnliches geschah,änderten sie ihre Meinung und sagten, er sei ein Gott."
 "In der Umgebung jenes Ortes aber besaß der Erste der Insel, mit Namen Publius, Ländereien; der nahm uns auf und beherbergte uns drei Tage freundlich."
 "Es geschah aber, daß der Vater des Publius, von Fieber und Ruhr befallen, daniederlag. Zu dem ging Paulus hinein, und als er gebetet hatte, legte er ihm die Hände auf und heilte ihn."
 "Als dies aber geschehen war, kamen auch dieübrigen auf der Insel, welche Krankheiten hatten, herzu und wurden geheilt;"
@@ -20,11 +20,11 @@
 "Um dieser Ursache willen nun habe ich euch herbeigerufen, euch zu sehen und zu euch zu reden; denn wegen der Hoffnung Israels bin ich mit dieser Kette umgeben."
 "Sie aber sprachen zu ihm
 "Aber wir begehren von dir zu hören, welche Gesinnung du hast; denn von dieser Sekte ist uns bekannt, daß ihr allenthalben widersprochen wird."
-"Als sie ihm aber einen Tag bestimmt hatten, kamen mehrere zu ihm in die Herberge, welchen er die Wahrheit auslegte, indem er das Reich Gottes bezeugte und sie zuüberzeugen suchte von Jesu, sowohl aus dem Gesetz Moses' als auch den Propheten, von frühmorgens bis zum Abend."
+"Als sie ihm aber einen Tag bestimmt hatten, kamen mehrere zu ihm in die Herberge, welchen er die Wahrheit auslegte, indem er das Reich #Gottes bezeugte und sie zuüberzeugen suchte von Jesu, sowohl aus dem Gesetz Moses' als auch den Propheten, von frühmorgens bis zum Abend."
 "Und etliche wurdenüberzeugt von dem, was gesagt wurde, andere aber glaubten nicht."
 "Als sie aber unter sich uneins waren, gingen sie weg, als Paulus ein Wort sprach
 """Gehe hin zu diesem Volke und sprich
-"Denn das Herz dieses Volkes ist dick geworden, und mit den Ohren haben sie schwer gehört, und ihre Augen haben sie geschlossen, damit sie nicht etwa mit den Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren und ich sie heile."""
+"Denn das Herz dieses Volkes ist dick geworden, und mit den Ohren haben sie schwer gehört, und ihre Augen haben sie geschlossen, damit sie #nicht etwa mit den Augen sehen und mit den Ohren hören und mit dem Herzen verstehen und sich bekehren und ich sie heile."""
 "So sei euch nun kund, daß dieses Heil Gottes den Nationen gesandt ist; sie werden auch hören."
 "Und als er dies gesagt hatte, gingen die Juden weg und hatten viel Wortwechsel unter sich."
 "Er aber blieb zwei ganze Jahre in seinem eigenen gemieteten Hause und nahm alle auf, die zu ihm kamen,"

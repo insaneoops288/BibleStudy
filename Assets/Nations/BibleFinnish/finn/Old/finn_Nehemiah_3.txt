@@ -1,4 +1,4 @@
-"Ja Eljasib, ylimmäinen pappi, nousi pappein veljeinsä kanssa, rakensivat Lammasportin ja pyhittivät sen, ja panivat siihen ovet; ja he pyhittivät sen Mean torniin asti, hamaan Hananeelin torniin saakka."
+"Ja Eljasib, ylimmäinen pappi, nousi pappein veljeinsä kanssa, rakensivat Lammasportin ja pyhittivät sen, ja panivat #siihen ovet; ja he pyhittivät sen Mean torniin asti, hamaan Hananeelin torniin saakka."
 "Ja Jerihon miehet rakensivat hänen vieressänsä, ja Sakkur Imrin poika rakensi hänen vieressänsä."
 "Mutta Senaan lapset rakensivat Kalaportin, ja kattivat sen, ja panivat siihen ovet, lukot ja teljet."
 "Ja Meremot Urian poika, Hakkotsin pojan, rakensi heidän vieressänsä, ja Mesullam Berekian poika, Mesesabelin pojan, rakensi heidän vieressänsä; Zadok Baenan poika rakensi heidän vieressänsä."
@@ -12,7 +12,7 @@
 "Hänen vieressänsä rakensi Sallum Haloeksen poika, puolen Jerusalemin päämies
 "Laaksoportin rakensi Hanun ja Sanoan asujamet; ne rakensivat sen ja panivat siihen ovet, lukot ja teljet, ja tuhannen kyynärää muuria Sontaporttiin asti."
 "Mutta Malkia Rekabin poika, viinamäen kulmakunnan päämies, rakensi Sontaportin, hän rakensi sen ja pani siihen ovet, lukot ja teljet."
-"Mutta Lähdeportin rakensi Sallun Kolhosen poika, Mitspan kulmakunnan päämies; hän rakensi ja katti sen, ja pani siihen ovet, lukot ja teljet; niin myös Selan lammin muurin kuninkaan yrttitarhan tykönä, niihin astuimiin asti, jotka tulevat alas Davidin kaupungista."
+"Mutta Lähdeportin rakensi Sallun Kolhosen poika, Mitspan kulmakunnan päämies; hän rakensi ja katti sen, ja pani siihen ovet, lukot #ja teljet; niin myös Selan lammin muurin kuninkaan yrttitarhan tykönä, niihin astuimiin asti, jotka tulevat alas Davidin kaupungista."
 "Hänen vieressänsä rakensi Nehemia Asbukin poika, puolen Betsuurin päämies, aina Davidin hautain kohdalle, ja kaivettuun lammikkoon asti väkeväin huoneeseen asti."
 "Häntä likimpänä rakensivat Leviläiset, Rehum Banin poika; hänen vieressänsä rakensi Hasabia, puolen Kegilan päämies kulmakuntansa puolesta."
 "Häntä likimpänä rakensivat heidän veljensä Bavai Hanadadin poika, toisen puolen Kegilan päämies."

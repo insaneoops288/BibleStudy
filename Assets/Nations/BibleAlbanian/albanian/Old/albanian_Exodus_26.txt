@@ -10,7 +10,7 @@
 "Do të bësh gjithashtu pesëdhjetë sythe mbi buzën e pëlhurës së jashtme të serisë së parë dhe pesëdhjetë sythe në buzën e pëlhurës së jashtme të serisë së dytë të pëlhurave."
 "Do të bësh edhe pesëdhjetë kapëse prej bronzi dhe do t'i futësh kapëset në sythet, duke e bashkuar kështu çadrën në mënyrë që të formojnë një të tërë."
 "Nga pjesa që tepron nga pëlhurat e çadrës, gjysma e pëlhurës së tepërt do të bjerë mbi pjesën e poshtme të tabernakullit;"
-"dhe kubiti nga një anë dhe kubiti nga ana tjetër që janë të tepërt në gjatësinë e pëlhurave të çadrës, do të bien mbi të dy anët e tabernakullit, njëri nga një krah dhe tjetri në krahun tjetër për ta mbuluar atë."
+"dhe kubiti nga një anë dhe kubiti nga ana tjetër që janë të tepërt në gjatësinë e pëlhurave të çadrës, do të #bien mbi të dy anët e tabernakullit, njëri nga një krah dhe tjetri në krahun tjetër për ta mbuluar atë."
 "Do të bësh gjithashtu një mbulesë për çadrën me lëkura dashi të ngjyrosura në të kuq, dhe mbi këtë një tjetër mbulesë me lëkura baldose."
 "Do të bësh për tabernakullin disa dërrasa prej druri të akacies, të vendosura më këmbë."
 "Gjatësia e një dërrase do të jetë dhjetë kubitë dhe gjerësia e saj një kubitë e gjysëm."

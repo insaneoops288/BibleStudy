@@ -16,7 +16,7 @@
 "I řekl muž ten k Elí
 "Odpověděl ten posel a řekl
 "I stalo se, že jakž jmenoval truhlu Boží, spadl Elí s stolice nazpět při úhlu brány, a tak zlomiv šíji, umřel; nebo byl muž starý a těžký. On soudil Izraele čtyřidceti let."
-"Nevěsta pak jeho, manželka Fínesova, jsuc těhotná a blízká porodu, uslyševši také tu pověst, že by truhla Boží vzata byla, a že umřel tchán její i muž její, sklonila se a porodila; nebo se obořily na ni úzkosti její."
+"Nevěsta pak jeho, manželka Fínesova, jsuc těhotná a blízká porodu, uslyševši také tu pověst, že by truhla Boží vzata byla, #a že umřel tchán její i muž její, sklonila se a porodila; nebo se obořily na ni úzkosti její."
 "A v ten čas, když ona umírala, řekly, kteréž stály při ní
 "I nazvala dítě Ichabod, řkuci
 "Protož řekla

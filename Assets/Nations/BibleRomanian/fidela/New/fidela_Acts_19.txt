@@ -24,7 +24,7 @@
 "Fiindcă unul, numit Demetrie, un argintar, care făcea temple din argint pentru Diana, aducând nu puțin câștig meșterilor,"
 "Pe care el i-a chemat împreună cu lucrătorii cu ocupații asemănătoare și a spus
 "Mai mult, vedeți și auziți că nu numai în Efes, ci aproape în toată Asia, acest Pavel a convins și a abătut mulți oameni, spunând că [aceia ce sunt] făcuți de mâini nu sunt dumnezei,"
-"Așa că, nu numai această meserie a noastră este în pericol să fie făcută de nimic, dar și templul marii zeițe Diana va fi disprețuit și măreția ei va fi nimicită, [ea] căreia toată Asia și lumea i se închină."
+"Așa că, nu numai această meserie a noastră este în pericol să fie făcută de nimic, dar și templul marii zeițe #Diana va fi disprețuit și măreția ei va fi nimicită, [ea] căreia toată Asia și lumea i se închină."
 "Iar când au auzit [acestea] s-au umplut de furie și strigau, spunând
 "Și întreaga cetate s-a umplut de confuzie; și, prinzând pe Gaiu și Aristarh, bărbați din Macedonia, parteneri de călătorie ai lui Pavel, s-au năpustit într-un gând în teatru."
 "Dar când Pavel a intenționat să intre la popor, discipolii nu l-au lăsat."

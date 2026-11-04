@@ -7,8 +7,8 @@
 "És vevé Dávid az arany paizsokat, a melyeket a Hadadézer szolgái viselének, és vivé Jeruzsálembe."
 "És hoza Dávid Tibhátból és Kúnból, a Hadadézer városaiból igen sok rezet. Abból csinálá Salamon a réztengert, az oszlopokat és a rézedényeket."
 "Mikor meghallotta volna pedig Tóhu, a Hamáthbeli király, hogy Dávid megverte Hadadézernek, a Sóba királyának egész hadát
-"Küldé Dávid királyhoz az õ fiát, Hadorámot, hogy köszöntené õt és megáldaná, mivelhogy megharczolt vala Hadadézerrel és megverte vala õt; mert Tóhu is hadakozik Hadadézer ellen. És [külde Dávidnak ]sok arany, ezüst és rézedényt,"
-"És Dávid király ezeket is az Úrnak szentelé, az ezüsttel és az aranynyal együtt, a melyet nyert vala minden pogányoktól, az Edomitáktól, a Moábitáktól, az Ammon fiaitól, a Filiszteusoktól és Amálekitáktól."
+"Küldé Dávid királyhoz az õ fiát, Hadorámot, hogy köszöntené õt és megáldaná, mivelhogy megharczolt vala Hadadézerrel és megverte #vala õt; mert Tóhu is hadakozik Hadadézer ellen. És [külde Dávidnak ]sok arany, ezüst és rézedényt,"
+"És Dávid király ezeket is az Úrnak szentelé, az ezüsttel és az aranynyal együtt, a melyet #nyert vala minden pogányoktól, az Edomitáktól, a Moábitáktól, az Ammon fiaitól, a Filiszteusoktól és Amálekitáktól."
 "Abisai pedig, a Séruja fia, az Edomiták közül a Sónak völgyében megvere tizennyolczezeret."
 "És rendele Edomban [Dávid] tiszttartókat, és lettek az Edombeliek mind Dávidnak szolgái. És megsegíté az Úr Dávidot mindenütt, a merre csak ment."
 "Így uralkodék Dávid az egész Izráel felett, és ítéletet és igazságot szolgáltat vala egész népének."

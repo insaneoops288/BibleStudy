@@ -20,9 +20,9 @@
 "Janganlah kamu merasa sayang meninggalkan barang-barangmu, sebab apa yang paling baik di seluruh tanah Mesir ini adalah milikmu."""
 "Demikianlah dilakukan oleh anak-anak Israel itu. Yusuf memberikan kereta kepada mereka menurut perintah Firaun; juga diberikan kepada mereka bekal di jalan."
 "Kepada mereka masing-masing diberikannya sepotong pesalin dan kepada Benyamin diberikannya tiga ratus uang perak dan lima potong pesalin."
-"Di samping itu kepada ayahnya dikirimkannya sepuluh ekor keledai jantan, dimuati dengan apa yang paling baik di Mesir, lagipula sepuluh ekor keledai betina, dimuati dengan gandum dan roti dan makanan untuk ayahnya dalam perjalanan."
+"Di samping itu kepada ayahnya dikirimkannya sepuluh ekor keledai jantan, dimuati dengan apa yang paling baik di Mesir, #lagipula sepuluh ekor keledai betina, dimuati dengan gandum dan roti dan makanan untuk ayahnya dalam perjalanan."
 "Kemudian ia melepas saudara-saudaranya serta berkata kepada mereka
 "Demikianlah mereka pergi dari tanah Mesir dan sampai di tanah Kanaan, kepada Yakub, ayah mereka."
 "Mereka menceritakan kepadanya
-"Tetapi ketika mereka menyampaikan kepadanya segala perkataan yang diucapkan Yusuf, dan ketika dilihatnya kereta yang dikirim oleh Yusuf untuk menjemputnya, maka bangkitlah kembali semangat Yakub, ayah mereka itu."
+"Tetapi ketika mereka menyampaikan kepadanya segala perkataan yang diucapkan Yusuf, dan ketika dilihatnya kereta yang #dikirim oleh Yusuf untuk menjemputnya, maka bangkitlah kembali semangat Yakub, ayah mereka itu."
 "Kata Yakub

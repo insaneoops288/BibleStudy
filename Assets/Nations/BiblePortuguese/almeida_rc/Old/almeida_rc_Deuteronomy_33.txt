@@ -13,8 +13,8 @@
 "E de José disse
 "e com as mais excelentes novidades do sol, e com as mais excelentes produções da lua,"
 "e com o mais excelente dos montes antigos, e com o mais excelente dos outeiros eternos,"
-"e com o mais excelente da terra, e com a sua plenitude, e com a benevolência daquele que habitava na sarça, a bênção venha sobre a cabeça de José e sobre o alto da cabeça do que foi separado de seus irmãos."
-"Ele tem a glória do primogénito do seu boi, e as suas pontas são pontas de unicórnio; com elas ferirá os povos juntamente até às extremidades da terra; estes, pois, são os dez milhares de Efraim, e estes são os milhares de Manassés."
+"e com o mais excelente da terra, e com a sua plenitude, e com a benevolência daquele que habitava na sarça, a #bênção venha sobre a cabeça de José e sobre o alto da cabeça do que foi separado de seus irmãos."
+"Ele tem a glória do primogénito do seu boi, e as suas pontas são pontas de unicórnio; com elas ferirá os povos #juntamente até às extremidades da terra; estes, pois, são os dez milhares de Efraim, e estes são os milhares de Manassés."
 "E de Zabulão disse
 "Eles chamarão os povos ao monte; ali, oferecerão ofertas de justiça, porque chuparão a abundância dos mares e os tesouros escondidos na areia."
 "E de Gade disse
@@ -26,4 +26,4 @@
 "Não há outro, ó Jesurum, semelhante a Deus, que cavalga sobre os céus para a tua ajuda e, com a sua alteza, sobre as mais altas nuvens!"
 "O Deus eterno te seja por habitação, e por baixo de ti estejam os braços eternos; e ele lance o inimigo de diante de ti e diga
 "Israel, pois, habitará só e seguro, na terra da fonte de Jacob, na terra de cereal e de mosto; e os seus céus gotejarão orvalho."
-"Bem-aventurado és tu, ó Israel! Quem é como tu, um povo salvo pelo SENHOR, o escudo do teu socorro e a espada da tua alteza? Pelo que os teus inimigos te serão sujeitos, e tu pisarás sobre as suas alturas."
+"Bem-aventurado és tu, ó Israel! Quem é como tu, um povo salvo pelo SENHOR, o escudo do teu socorro e a #espada da tua alteza? Pelo que os teus inimigos te serão sujeitos, e tu pisarás sobre as suas alturas."

@@ -10,7 +10,7 @@
 "Nenhum estranho comerá coisa sagrada; o hóspede do sacerdote, nem o empregado, não comerá coisa sagrada."
 "Mas o sacerdote, quando comprar pessoa de seu dinheiro, esta comerá dela, e o nascido em sua casa
 "Porém a filha do sacerdote, quando se casar com homem estranho, ela não comerá da oferta das coisas sagradas."
-"Porém se a filha do sacerdote for viúva, ou repudiada, e não tiver descendência, e se houver voltado à casa de seu pai, como em sua juventude, comerá do pão de seu pai; mas nenhum estranho coma dele."
+"Porém se a filha do sacerdote for viúva, ou repudiada, e não tiver descendência, e se houver voltado à casa #de seu pai, como em sua juventude, comerá do pão de seu pai; mas nenhum estranho coma dele."
 "E o que por acidente comer coisa sagrada, acrescentará a ela seu quinto, e o dará ao sacerdote com a coisa sagrada."
 "Não profanarão, pois, as coisas santas dos filhos de Israel, as quais separam para o SENHOR
 "E não lhes farão levar a iniquidade do pecado, comendo as coisas santas deles

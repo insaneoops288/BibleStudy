@@ -13,9 +13,9 @@
 "I uczynię. że ustanie głos pieśni twoich, a dźwięk harf twoich nie będzie więcej słyszany."
 "I uczynię cię wierzchołkiem gładkiej skały; staniesz się miejscem ku wysuszaniu sieci, nie będziesz więcj zbudowany; bom Ja Pan powiedział, mówi panujący Pan."
 "Tak mówi panujący Pan do Tyru
-"I powstaną z stolic swoich wszyscy książęta pomorscy, i złożą z siebie płaszcze swoje, a szaty swe haftowane zewleką, strachem będą przyodziani, na ziemi usiądą, a wzdrygając się co chwila zdumiewać się będą nad tobą,"
+"I powstaną z stolic swoich wszyscy książęta pomorscy, i złożą z siebie płaszcze swoje, a szaty swe haftowane #zewleką, strachem będą przyodziani, na ziemi usiądą, a wzdrygając się co chwila zdumiewać się będą nad tobą,"
 "I podniosą nad tobą lament i rzekną do ciebie
 "Tedy się zatrwożą wyspy w dzień upadku twego; zatrwożą się mówię wyspy morskie nad zginieniem twojem."
 "Bo tak mówi panujący Pan
-"Gdy uczynię, że zstąpisz z tymi, którzy zstępują do dołu, do ludu dawnego, a położę cię w najniższych stronach ziemi, na pustyniach dawnych, z tymi, co zstępują do dołu, aby nie mieszkano w tobie, tedy dokażę sławy w ziemi żyjących."
+"Gdy uczynię, że zstąpisz z tymi, którzy zstępują do dołu, do ludu dawnego, a położę cię w najniższych stronach ziemi, na #pustyniach dawnych, z tymi, co zstępują do dołu, aby nie mieszkano w tobie, tedy dokażę sławy w ziemi żyjących."
 "Bo uczynię to, że będziesz na wielki postrach, gdy cię nie stanie; a choćby cię szukano, nie znajdą cię na wieki, mówi panujący Pan."

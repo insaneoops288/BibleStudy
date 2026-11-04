@@ -2,7 +2,7 @@
 "Mów do synów Izraelskich, a rzecz im
 "Jeźli całopalona ofiara jego będzie z rogatego bydła, samca zupełnego ofiarować będzie; u drzwi namiotu zgromadzenia ofiarować go będzie dobrowolnie przed obliczem Pańskiem."
 "I położy rękę swą na głowę ofiary całopalenia, a będzie przyjemną zań na oczyszczenie jego."
-"Zabije tedy cielca tego kapłan przed oblicznością Pańską; a synowie Aaronowi, kapłani, ofiarować będą krew, a pokropią tą krwią ołtarz z wierzchu w około, który jest przede drzwiami namiotu zgromadzenia."
+"Zabije tedy cielca tego kapłan przed oblicznością Pańską; a synowie Aaronowi, kapłani, ofiarować będą krew, a #pokropią tą krwią ołtarz z wierzchu w około, który jest przede drzwiami namiotu zgromadzenia."
 "A wziąwszy skórę z ofiary całopalenia rozrąbie ją na sztuki."
 "Potem nałożą synowie Aarona kapłana, ogień na ołtarzu, a ułożą drwa na ogień."
 "Potem porządnie włożą synowie Aaronowi, kapłani, one sztuki, głowę, i tłustość, na drwa, które są na ogniu, który jest na ołtarzu."

@@ -10,7 +10,7 @@
 "Řekl také David Jonatovi
 "Odpověděl Jonata Davidovi
 "Opět řekl Jonata Davidovi
-"Toto učiň Hospodin Jonatovi a toto přidej. Pakliť se bude líbiti otci mému uvésti zlé na tebe, takéť i to zjevím tobě a propustím tě; i půjdeš v pokoji, a Hospodin budiž s tebou, jakož byl s otcem mým."
+"Toto učiň Hospodin Jonatovi a toto přidej. Pakliť se bude líbiti otci mému uvésti zlé na tebe, takéť i to #zjevím tobě a propustím tě; i půjdeš v pokoji, a Hospodin budiž s tebou, jakož byl s otcem mým."
 "A zdaliž i ty, dokud jsem živ, neučiníš se mnou milosrdenství Hospodinova, ano bychť i umřel,"
 "Tak že neodvrátíš milosrdenství svého od domu mého až na věky, zvláště tehdáž, když Hospodin vypléní nepřátely Davidovy, jednoho každého se svrchku země."
 "A tak učinil Jonata smlouvu s domem Davidovým, řka

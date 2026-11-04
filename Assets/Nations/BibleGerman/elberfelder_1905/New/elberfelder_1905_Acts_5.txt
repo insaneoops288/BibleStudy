@@ -1,7 +1,7 @@
 "Ein gewisser Mann aber, mit Namen Ananias, mit Sapphira, seinem Weibe,"
 "verkaufte ein Gut und schaffte von dem Kaufpreis beiseite, wovon auch das Weib wußte; und er brachte einen gewissen Teil und legte ihn nieder zu den Füßen der Apostel."
 "Petrus aber sprach
-"Blieb es nicht dein, wenn es so blieb, und war es nicht, nachdem es verkauft war, in deiner Gewalt? Was ist es, daß du dir diese Tat in deinem Herzen vorgenommen hast? Nicht Menschen hast du belogen, sondern Gott."
+"Blieb es nicht dein, wenn es so blieb, und war es nicht, nachdem es verkauft war, in deiner Gewalt? Was #ist es, daß du dir diese Tat in deinem Herzen vorgenommen hast? Nicht Menschen hast du belogen, sondern Gott."
 "Als aber Ananias diese Worte hörte, fiel er hin und verschied. Und es kam große Furchtüber alle, die es hörten."
 "Die Jünglinge aber standen auf, rafften ihn zusammen und trugen ihn hinaus und begruben ihn."
 "Es geschah aber nach Verlauf von etwa drei Stunden, daß sein Weib hereinkam, ohne zu wissen, was geschehen war."
@@ -18,7 +18,7 @@
 "und sie legten die Hände an die Apostel und setzten sie inöffentlichen Gewahrsam."
 "Ein Engel des Herrn aberöffnete während der Nacht die Türen des Gefängnisses und führte sie hinaus und sprach
 "Gehet und stellet euch hin und redet in dem Tempel zu dem Volke alle Worte dieses Lebens!"
-"Als sie es aber gehört hatten, gingen sie frühmorgens in den Tempel und lehrten. Der Hohepriester aber kam und die mit ihm waren, und sie beriefen das Synedrium und die ganzeÄltestenschaft der Söhne Israels zusammen und sandten nach dem Gefängnis, daß sie herbeigeführt würden."
+"Als sie es aber gehört hatten, gingen sie frühmorgens in den Tempel und lehrten. Der Hohepriester aber kam und die mit ihm waren, #und sie beriefen das Synedrium und die ganzeÄltestenschaft der Söhne Israels zusammen und sandten nach dem Gefängnis, daß sie herbeigeführt würden."
 "Als aber die Diener hinkamen, fanden sie sie nicht in dem Gefängnis; und sie kehrten zurück, berichteten und sagten
 "Wir fanden das Gefängnis mit aller Sorgfalt verschlossen und die Wachen an den Türen stehen; als wir aber aufgemacht hatten, fanden wir niemand darin."
 "Als aber sowohl der Priester und der Hauptmann des Tempels als auch die Hohenpriester diese Worte hörten, waren sieüber sie in Verlegenheit, was dies doch werden möchte."
@@ -33,7 +33,7 @@
 "Sie aber wurden, als sie es hörten, durchbohrt und ratschlagten, sie umzubringen."
 "Es stand aber einer in dem Synedrium auf, ein Pharisäer, mit Namen Gamaliel, ein Gesetzgelehrter, angesehen bei dem ganzen Volke, und befahl, die Leute eine kurze Zeit hinauszutun."
 "Und er sprach zu ihnen
-"Denn vor diesen Tagen stand Theudas auf und sagte, daß er selbst etwas sei, welchem eine Anzahl von etwa vierhundert Männern anhing; der ist getötet worden, und alle, so viele ihm Gehör gaben, sind zerstreut und zunichte geworden."
+"Denn vor diesen Tagen stand Theudas auf und sagte, daß er selbst etwas sei, welchem eine Anzahl von etwa vierhundert #Männern anhing; der ist getötet worden, und alle, so viele ihm Gehör gaben, sind zerstreut und zunichte geworden."
 "Nach diesem stand Judas der Galiläer auf, in den Tagen der Einschreibung, und machte Volk abfällig sich nach; auch der kam um, und alle, so viele ihm Gehör gaben, wurden zerstreut."
 "Und jetzt sage ich euch
 "wenn es aber aus Gott ist, so werdet ihr sie nicht zu Grunde richten können), damit ihr nicht gar als solche erfunden werdet, die wider Gott streiten."

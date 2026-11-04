@@ -1,6 +1,6 @@
 "At lumabas si Jesus sa templo, at payaon sa kaniyang lakad; at nagsilapit sa kaniya ang kaniyang mga alagad upang sa kaniya'y ipamalas ang mga gusali ng templo."
-"Datapuwa't siya'y sumagot at sa kanila'y sinabi, Hindi baga ninyo nangakikita ang lahat ng mga bagay na ito? katotohanang sinasabi ko sa inyo, Dito'y walang maiiwang isang bato sa ibabaw ng ibang bato, na hindi ibabagsak."
-"At samantalang siya'y nakaupo sa bundok ng mga Olivo, ay nagsilapit sa kaniya ng bukod ang mga alagad, na nagsisipagsabi, Sabihin mo sa amin, kailan mangyayari ang mga bagay na ito? at ano ang magiging tanda ng iyong pagparito, at ng katapusan ng sanglibutan?"
+"Datapuwa't siya'y sumagot at sa kanila'y sinabi, Hindi baga ninyo nangakikita ang lahat ng mga bagay na ito? katotohanang #sinasabi ko sa inyo, Dito'y walang maiiwang isang bato sa ibabaw ng ibang bato, na hindi ibabagsak."
+"At samantalang siya'y nakaupo sa bundok ng mga Olivo, ay nagsilapit sa kaniya ng bukod ang mga alagad, na nagsisipagsabi, Sabihin mo sa #amin, kailan mangyayari ang mga bagay na ito? at ano ang magiging tanda ng iyong pagparito, at ng katapusan ng sanglibutan?"
 "At sumagot si Jesus at sinabi sa kanila, Mangagingat kayo na huwag kayong mailigaw ninoman."
 "Sapagka't marami ang magsisiparito sa aking pangalan, na mangagsasabi, Ako ang Cristo; at ililigaw ang marami."
 "At mangakakarinig kayo ng mga digmaan at mga alingawngaw ng mga digmaan; ingatan ninyo na huwag kayong magulumihanan
@@ -26,9 +26,9 @@
 "Kaya nga kung sa inyo'y kanilang sasabihin, Narito, siya'y nasa ilang; huwag kayong magsilabas
 "Sapagka't gaya ng kidlat na kumikidlat sa silanganan, at nakikita hanggang sa kalunuran; gayon din naman ang pagparito ng Anak ng tao."
 "Saan man naroon ang bangkay, ay doon mangagkakatipon ang mga uwak."
-"Datapuwa't karakarakang pagkatapos ng kapighatian sa mga araw na yaon ay magdidilim ang araw, at ang buwan ay hindi magbibigay ng kaniyang liwanag, at mangalalaglag ang mga bituin mula sa langit, at magsisipangatal ang mga kapangyarihan sa mga langit
+"Datapuwa't karakarakang pagkatapos ng kapighatian sa mga araw na yaon ay magdidilim ang araw, at ang buwan ay hindi magbibigay #ng kaniyang liwanag, at mangalalaglag ang mga bituin mula sa langit, at magsisipangatal ang mga kapangyarihan sa mga langit
 "At kung magkagayo'y lilitaw ang tanda ng Anak ng tao sa langit
-"At susuguin ang kaniyang mga anghel na may matinding pakakak, at kanilang titipunin ang kaniyang mga hinirang mula sa apat na hangin ng sanglibutan, mula sa isang dulo ng langit hanggang sa kabila."
+"At susuguin ang kaniyang mga anghel na may matinding pakakak, at kanilang titipunin ang kaniyang mga hinirang #mula sa apat na hangin ng sanglibutan, mula sa isang dulo ng langit hanggang sa kabila."
 "Sa puno ng igos nga ay pagaralan ninyo ang kaniyang talinghaga
 "Gayon din naman kayo, pagka nangakita ninyo ang lahat ng mga bagay na ito, ay talastasin ninyo na siya'y malapit na, nasa mga pintuan nga."
 "Katotohanang sinasabi ko sa inyo, Hindi lilipas ang lahing ito, hanggang sa mangaganap ang lahat ng mga bagay na ito."

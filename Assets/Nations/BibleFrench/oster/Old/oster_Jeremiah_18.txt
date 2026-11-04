@@ -18,6 +18,6 @@
 "Et ils disent
 "Éternel! fais attention à moi, et entends la voix de mes adversaires!"
 "Le mal sera-t-il rendu pour le bien? Car ils ont creusé une fosse pour mon âme. Souviens-toi que je me suis tenu devant toi, afin de parler pour leur bien, afin de détourner d'eux ta colère."
-"C'est pourquoi livre leurs enfants à la famine, et abandonne-les à l'épée; que leurs femmes soient privées d'enfants et veuves; que leurs maris soient enlevés par la peste, et leurs jeunes gens frappés de l'épée dans le combat;"
+"C'est pourquoi livre leurs enfants à la famine, et abandonne-les à l'épée; que leurs femmes soient privées d'enfants et veuves; #que leurs maris soient enlevés par la peste, et leurs jeunes gens frappés de l'épée dans le combat;"
 "Que de leurs maisons on entende des cris, quand tu feras soudain venir des troupes contre eux. Car ils ont creusé une fosse pour me prendre; ils ont caché des filets sous mes pieds."
-"Et toi, Éternel, tu sais que tout leur dessein contre moi, est de me mettre à mort. Ne couvre point leur iniquité, et n'efface point leur péché de devant ta face. Qu'ils soient renversés en ta présence; agis contre eux au temps de ta colère."
+"Et toi, Éternel, tu sais que tout leur dessein contre moi, est de me mettre à mort. Ne couvre point leur iniquité, et #n'efface point leur péché de devant ta face. Qu'ils soient renversés en ta présence; agis contre eux au temps de ta colère."

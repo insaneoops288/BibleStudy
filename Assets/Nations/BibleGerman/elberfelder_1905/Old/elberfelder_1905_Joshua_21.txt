@@ -1,7 +1,7 @@
 "Und die Häupter der Väter der Leviten traten zu Eleasar, dem Priester, und zu Josua, dem Sohne Nuns, und zu den Häuptern der Väter der Stämme der Kinder Israel,"
 "und redeten zu ihnen zu Silo, im Lande Kanaan, und sprachen
 "Und die Kinder Israel gaben den Leviten von ihrem Erbteil diese Städte und ihre Bezirke, nach dem Befehle Jehovas
-"Und das Los kam heraus für die Familien der Kehathiter. Und die Söhne Aarons, des Priesters, aus den Leviten, erhielten vom Stamme Juda und vom Stamme der Simeoniter und vom Stamme Benjamin, durchs Los, dreizehn Städte;"
+"Und das Los kam heraus für die Familien der Kehathiter. Und die Söhne Aarons, des Priesters, aus den Leviten, #erhielten vom Stamme Juda und vom Stamme der Simeoniter und vom Stamme Benjamin, durchs Los, dreizehn Städte;"
 "und dieübrigen Söhne Kehaths, von den Geschlechtern des Stammes Ephraim und vom Stamme Dan und vom halben Stamme Manasse, durchs Los, zehn Städte."
 "Und die Söhne Gersons erhielten von den Geschlechtern des Stammes Issaschar und vom Stamme Aser und vom Stamme Naphtali und vom halben Stamme Manasse in Basan, durchs Los, dreizehn Städte;"
 "die Söhne Meraris, nach ihren Familien, vom Stamme Ruben und vom Stamme Gad und vom Stamme Sebulon zwölf Städte."

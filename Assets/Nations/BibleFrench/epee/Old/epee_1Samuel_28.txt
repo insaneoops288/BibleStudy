@@ -17,7 +17,7 @@
 "Or, l'Éternel a fait selon qu'il avait dit par moi; l'Éternel a arraché le royaume d'entre tes mains, et l'a donné à ton prochain, à David."
 "Parce que tu n'as point obéi à la voix de l'Éternel, et que tu n'as point exécuté l'ardeur de sa colère contre Amalek, à cause de cela l'Éternel te traite aujourd'hui de cette manière."
 "Et l'Éternel livrera même Israël avec toi entre les mains des Philistins; et demain, toi et tes fils vous serez avec moi; l'Éternel livrera même le camp d'Israël entre les mains des Philistins."
-"Et aussitôt Saül tomba de toute sa hauteur sur la terre, et fut fort effrayé des paroles de Samuel; et même les forces lui manquèrent, parce qu'il n'avait rien mangé de tout le jour et de toute la nuit."
+"Et aussitôt Saül tomba de toute sa hauteur sur la terre, et fut fort effrayé des paroles de Samuel; et #même les forces lui manquèrent, parce qu'il n'avait rien mangé de tout le jour et de toute la nuit."
 "Alors la femme vint auprès de Saül, et, voyant qu'il était fort troublé, elle lui dit
 "Et maintenant écoute, je te prie, la voix de ta servante; permets que je mette devant toi une bouchée de pain, afin que tu manges, et que tu prennes des forces pour te remettre en chemin."
 "Mais il refusa, et dit

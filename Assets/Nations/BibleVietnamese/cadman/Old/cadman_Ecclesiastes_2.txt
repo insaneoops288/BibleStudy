@@ -1,6 +1,6 @@
 "Ta lại nói trong lòng rằng
 "Ta nói
-"Ta nghĩ trong lòng rằng phải uống rượu để cho thân mình vui sướng, mà sự khôn ngoan vẫn còn dẫn dắt lòng ta, lại nghĩ phải cầm lấy sự điên dại cho đến khi xem thử điều gì là tốt hơn cho con loài người làm ở dưới trời trọn đời mình sống."
+"Ta nghĩ trong lòng rằng phải uống rượu để cho thân mình vui sướng, mà sự khôn ngoan vẫn còn dẫn dắt lòng ta, lại nghĩ phải cầm #lấy sự điên dại cho đến khi xem thử điều gì là tốt hơn cho con loài người làm ở dưới trời trọn đời mình sống."
 "Ta làm những công việc cả thể; ta cất nhà cho mình, trồng vườn nho cho mình,"
 "lập cho mình vườn cây trái và vườn hoa, và trồng cây trái đủ thứ ở đó;"
 "ta đào hồ chứa nước đặng tưới rừng, là nơi cây cối lớn lên."
@@ -23,4 +23,4 @@
 "Vì các ngày người chỉ là đau đớn, công lao người thành ra buồn rầu; đến đỗi ban đêm lòng người cũng chẳng được an nghỉ. Ðiều đó cũng là sự hư không."
 "Chẳng gì tốt cho người hơn là ăn, uống, khiến linh hồn mình hưởng phước của lao khổ mình. Ta xem thấy điều đó cũng bởi tay Ðức Chúa Trời mà đến."
 "Vì ai là người được ăn và hưởng sự vui sướng hơn ta?"
-"Bởi Ðức Chúa Trời ban sự khôn ngoan, thông sáng, và vui vẻ cho kẻ nào đẹp lòng Ngài; nhưng Ngài khiến cho kẻ có tội phải lao khổ mà thâu góp chất chứa, để rồi ban cho người đẹp lòng Ðức Chúa Trời. Ðiều đó cũng là hư không, theo luồng gió thổi."
+"Bởi Ðức Chúa Trời ban sự khôn ngoan, thông sáng, và vui vẻ cho kẻ nào đẹp lòng Ngài; nhưng Ngài khiến cho kẻ có tội phải lao #khổ mà thâu góp chất chứa, để rồi ban cho người đẹp lòng Ðức Chúa Trời. Ðiều đó cũng là hư không, theo luồng gió thổi."

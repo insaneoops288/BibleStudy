@@ -1,11 +1,11 @@
 "David approchait du moment de sa mort, et il donna ses ordres à Salomon, son fils, en disant
 "Je m'en vais par le chemin de toute la terre. Fortifie-toi, et sois un homme!"
-"Observe les commandements de l'Eternel, ton Dieu, en marchant dans ses voies, et en gardant ses lois, ses ordonnances, ses jugements et ses préceptes, selon ce qui est écrit dans la loi de Moïse, afin que tu réussisses dans tout ce que tu feras et partout où tu te tourneras,"
+"Observe les commandements de l'Eternel, ton Dieu, en marchant dans ses voies, et en gardant ses lois, ses ordonnances, ses jugements et ses préceptes, selon ce #qui est écrit dans la loi de Moïse, afin que tu réussisses dans tout ce que tu feras et partout où tu te tourneras,"
 "et afin que l'Eternel accomplisse cette parole qu'il a prononcée sur moi
-"Tu sais ce que m'a fait Joab, fils de Tseruja, ce qu'il a fait à deux chefs de l'armée d'Israël, à Abner, fils de Ner, et à Amasa, fils de Jéther. Il les a tués; il a versé pendant la paix le sang de la guerre, et il a mis le sang de la guerre sur la ceinture qu'il avait aux reins et sur la chaussure qu'il avait aux pieds."
+"Tu sais ce que m'a fait Joab, fils de Tseruja, ce qu'il a fait à deux chefs de l'armée d'Israël, à Abner, fils de Ner, et à Amasa, fils de Jéther. Il les a tués; il #a versé pendant la paix le sang de la guerre, et il a mis le sang de la guerre sur la ceinture qu'il avait aux reins et sur la chaussure qu'il avait aux pieds."
 "Tu agiras selon ta sagesse, et tu ne laisseras pas ses cheveux blancs descendre en paix dans le séjour des morts."
-"Tu traiteras avec bienveillance les fils de Barzillaï, le Galaadite, et ils seront de ceux qui se nourrissent de ta table; car ils ont agi de la même manière à mon égard, en venant au-devant de moi lorsque je fuyais Absalom, ton frère."
-"Voici, tu as près de toi Schimeï, fils de Guéra, Benjamite, de Bachurim. Il a prononcé contre moi des malédictions violentes le jour où j'allais à Mahanaïm. Mais il descendit à ma rencontre vers le Jourdain, et je lui jurai par l'Eternel, en disant
+"Tu traiteras avec bienveillance les fils de Barzillaï, le Galaadite, et ils seront de ceux qui se nourrissent de ta table; car #ils ont agi de la même manière à mon égard, en venant au-devant de moi lorsque je fuyais Absalom, ton frère."
+"Voici, tu as près de toi Schimeï, fils de Guéra, Benjamite, de Bachurim. Il a prononcé contre moi des malédictions violentes le jour #où j'allais à Mahanaïm. Mais il descendit à ma rencontre vers le Jourdain, et je lui jurai par l'Eternel, en disant
 "Maintenant, tu ne le laisseras pas impuni; car tu es un homme sage, et tu sais comment tu dois le traiter. Tu feras descendre ensanglantés ses cheveux blancs dans le séjour des morts."
 "David se coucha avec ses pères, et il fut enterré dans la ville de David."
 "Le temps que David régna sur Israël fut de quarante ans
@@ -16,7 +16,7 @@
 "Maintenant, je te demande une chose
 "Et il dit
 "Bath-Schéba dit
-"Bath-Schéba se rendit auprès du roi Salomon, pour lui parler en faveur d'Adonija. Le roi se leva pour aller à sa rencontre, il se prosterna devant elle, et il s'assit sur son trône. On plaça un siège pour la mère du roi, et elle s'assit à sa droite."
+"Bath-Schéba se rendit auprès du roi Salomon, pour lui parler en faveur d'Adonija. Le roi se leva pour aller à sa rencontre, il se prosterna #devant elle, et il s'assit sur son trône. On plaça un siège pour la mère du roi, et elle s'assit à sa droite."
 "Puis elle dit
 "Elle dit
 "Le roi Salomon répondit à sa mère
@@ -30,7 +30,7 @@
 "Benaja arriva à la tente de l'Eternel, et dit à Joab
 "Le roi dit à Benaja
 "L'Eternel fera retomber son sang sur sa tête, parce qu'il a frappé deux hommes plus justes et meilleurs que lui et les a tués par l'épée, sans que mon père David le sût
-"Leur sang retombera sur la tête de Joab et sur la tête de ses descendants à perpétuité; mais il y aura paix à toujours, de par l'Eternel, pour David, pour sa postérité, pour sa maison et pour son trône."
+"Leur sang retombera sur la tête de Joab et sur la tête de ses descendants à perpétuité; mais il y #aura paix à toujours, de par l'Eternel, pour David, pour sa postérité, pour sa maison et pour son trône."
 "Benaja, fils de Jehojada, monta, frappa Joab, et le fit mourir. Il fut enterré dans sa maison, au désert."
 "Le roi mit à la tête de l'armée Benaja, fils de Jehojada, en remplacement de Joab, et il mit le sacrificateur Tsadok à la place d'Abiathar."
 "Le roi fit appeler Schimeï, et lui dit

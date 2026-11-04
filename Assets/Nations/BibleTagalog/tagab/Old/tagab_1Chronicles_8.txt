@@ -37,4 +37,4 @@
 "At naging anak ni Mosa si Bina; si Rapha na kaniyang anak, si Elasa na kaniyang anak, si Asel na kaniyang anak
 "At si Asel ay nagkaroon ng anim na anak, na ang mga pangalan ay ito
 "At ang mga anak ni Esec na kaniyang kapatid
-"At ang mga anak ni Ulam ay mga makapangyarihang lalaking may tapang, na mga mamamana, at nagkaroon ng maraming anak, at mga anak ng mga anak, na isang daan at limangpu. Lahat, ng ito'y ang mga anak ni Benjamin."
+"At ang mga anak ni Ulam ay mga makapangyarihang lalaking may tapang, na mga mamamana, at nagkaroon ng maraming anak, #at mga anak ng mga anak, na isang daan at limangpu. Lahat, ng ito'y ang mga anak ni Benjamin."

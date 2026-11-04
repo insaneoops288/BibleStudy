@@ -1,6 +1,6 @@
 "Şi a fost o foamete în ţară, în afară de prima foamete care a fost în zilele lui Avraam. Şi Isaac a mers la Abimelec, împăratul filistenilor, la Gherar."
 "Şi DOMNUL i s-a arătat şi a spus
-"Locuieşte temporar în această ţară şi voi fi cu tine şi te voi binecuvânta, pentru că ţie şi seminţei tale, voi da toate aceste ţări şi voi împlini jurământul pe care l-am jurat lui Avraam, tatăl tău."
+"Locuieşte temporar în această ţară şi voi fi cu tine şi te voi binecuvânta, pentru că ţie şi seminţei #tale, voi da toate aceste ţări şi voi împlini jurământul pe care l-am jurat lui Avraam, tatăl tău."
 "Şi voi înmulţi sămânţa ta ca stelele cerului şi voi da seminţei tale toate aceste ţări; şi în sămânţa ta toate naţiunile pământului vor fi binecuvântate."
 "Pentru că Avraam a ascultat de vocea mea şi a păzit însărcinarea mea, poruncile mele, statutele mele şi legile mele."
 "Şi Isaac a locuit în Gherar;"
@@ -15,7 +15,7 @@
 "Şi toate fântânile pe care servitorii tatălui său le-au săpat în zilele lui Avraam, tatăl său, filistenii le-au astupat şi le-au umplut cu pământ."
 "Şi Abimelec i-a spus lui Isaac
 "Şi Isaac a plecat de acolo şi a ridicat cortul său în valea Gherar şi a locuit acolo."
-"Şi Isaac a săpat din nou fântânile de apă, pe care ei le săpaseră în zilele lui Avraam, tatăl său, pentru că filistenii le astupaseră după moartea lui Avraam; şi le-a pus numele după numele pe care tatăl său le-a pus."
+"Şi Isaac a săpat din nou fântânile de apă, pe care ei le săpaseră în zilele lui Avraam, tatăl său, pentru #că filistenii le astupaseră după moartea lui Avraam; şi le-a pus numele după numele pe care tatăl său le-a pus."
 "Şi servitorii lui Isaac au săpat în vale şi au găsit acolo o fântână de apă ţâşnitoare."
 "Şi păstorii din Gherar s-au certat cu păstorii lui Isaac, spunând
 "Şi au săpat o altă fântână şi s-au certat şi pentru aceasta şi a pus acesteia numele Sitna."

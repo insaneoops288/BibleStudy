@@ -1,5 +1,5 @@
 "Pagkatapos ng mga bagay na ito'y umalis siya sa Atenas, at napasa Corinto."
-"At nasumpungan niya ang isang Judio na nagngangalang Aquila, isang lalaking tubo sa Ponto, na hindi pa nalalaong nanggagaling sa Italia, kasama ni Priscila na kaniyang asawa, sapagka't ipinagutos ni Claudio na ang lahat ng mga Judio ay magsialis sa Roma
+"At nasumpungan niya ang isang Judio na nagngangalang Aquila, isang lalaking tubo sa Ponto, na hindi pa nalalaong nanggagaling sa Italia, #kasama ni Priscila na kaniyang asawa, sapagka't ipinagutos ni Claudio na ang lahat ng mga Judio ay magsialis sa Roma
 "At sapagka't ang hanap-buhay niya'y gaya rin ng kanila, ay nakipanuluyan siya sa kanila, at sila'y nagsigawa
 "At siya'y nangangatuwiran tuwing sabbath sa sinagoga, at hinihikayat ang mga Judio at ang mga Griego."
 "Datapuwa't nang si Silas at si Timoteo ay magsilusong mula sa Macedonia, si Pablo ay napilitan sa pamamagitan ng salita, na sinasaksihan sa mga Judio na si Jesus ang siyang Cristo."
@@ -22,7 +22,7 @@
 "At nang makalunsad na siya sa Cesarea, ay siya'y umahon at bumati sa iglesia, at lumusong sa Antioquia."
 "At nang makagugol na siya roon ng ilang panahon, ay umalis siya, at tinahak ang lupain ng Galacia, at Frigia, na sunodsunod, na pinagtitibay ang lahat ng mga alagad."
 "Ngayon ang isang Judio na nagngangalang Apolos, na isang Alejandrino sa lahi, at taong marikit mangusap, ay dumating sa Efeso; at siya'y makapangyarihan ukol sa mga kasulatan."
-"Ang taong ito'y tinuruan sa daan ng Panginoon; at palibhasa'y may maningas na espiritu, ay kaniyang sinalita at itinurong maingat ang mga bagay na tungkol kay Jesus, na ang naalaman lamang ay ang bautismo ni Juan
-"At siya'y nagpasimulang magsalita ng buong tapang sa sinagoga. Datapuwa't nang siya'y marinig ni Priscila at ni Aquila, ay kanilang isinama siya, at isinaysay sa kaniya ang daan ng Panginoon ng lalong maingat."
+"Ang taong ito'y tinuruan sa daan ng Panginoon; at palibhasa'y may maningas na espiritu, ay kaniyang sinalita at itinurong #maingat ang mga bagay na tungkol kay Jesus, na ang naalaman lamang ay ang bautismo ni Juan
+"At siya'y nagpasimulang magsalita ng buong tapang sa sinagoga. Datapuwa't nang siya'y marinig ni Priscila at ni #Aquila, ay kanilang isinama siya, at isinaysay sa kaniya ang daan ng Panginoon ng lalong maingat."
 "At nang ibig niyang lumipat sa Acaya, ay pinalakas ng mga kapatid ang kaniyang loob at sila'y nagsisulat sa mga alagad na siya'y tanggapin
 "Sapagka't may kapangyarihang dinaig niya ang mga Judio, at hayag, na ipinakilala sa pamamagitan ng mga kasulatan na si Jesus ay ang Cristo."

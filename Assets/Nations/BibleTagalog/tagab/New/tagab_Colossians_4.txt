@@ -9,7 +9,7 @@
 "Na kasama ni Onesimo, tapat at minamahal na kapatid, na siya'y isa sa inyo. Sila ang magpapatalastas sa inyo ng lahat ng mga bagay na nangyayari dini."
 "Binabati kayo ni Aristarco na kasama ko sa bilangguan, at ni Marcos na pinsan ni Bernabe (tungkol sa kaniya'y tinanggap na ninyo ang mga utos
 "At si Jesus na tinatawag na Justo, na pawang sa pagtutuli
-"Binabati kayo ni Epafras, na isa sa inyo, na lingkod ni Cristo Jesus, na siyang laging nagsisikap dahil sa inyo sa kaniyang pananalangin, upang kayo'y magsitatag na mga sakdal at lubos na tiwasay sa lahat na kalooban ng Dios."
+"Binabati kayo ni Epafras, na isa sa inyo, na lingkod ni Cristo Jesus, na siyang laging nagsisikap dahil sa inyo #sa kaniyang pananalangin, upang kayo'y magsitatag na mga sakdal at lubos na tiwasay sa lahat na kalooban ng Dios."
 "Sapagka't siya'y binibigyan kong patotoo na siya'y totoong nagpapagal sa inyo, at sa nangasa Laodicea, at sa nangasa Hierapolis."
 "Binabati kayo ni Lucas, ang minamahal na manggagamot, at ni Demas."
 "Batiin ninyo ang mga kapatid na nangasa Laodicea, at si Nimfas, at ang iglesiang nasa kanilang bahay."

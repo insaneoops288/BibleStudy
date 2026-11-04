@@ -1,10 +1,10 @@
 "Jeźlibyś się chciał nawrócić, Izraelu! mówi Pan, do mnie się nawróć. Bo jeźli odejmiesz obrzydłości twoje od oblicza mego, a nie będziesz się tułał,"
 "I przysiężeszli w prawdzie, w sądzie i w sprawiedliwości, mówiąc
 "Albowiem tak mówi Pan mężom Judzkim i Jeruzalemskim
-"Obrzeżcie się Panu, a odejmijcie nieobrzezki serca waszego, mężowie Judzcy, a obywatele Jeruzalemscy! by snać nie wyszła jako ogień popędliwość moja, a nie zapaliła się, a nie byłby, ktoby ugasił dla złości przedsięwzięcia waszego."
+"Obrzeżcie się Panu, a odejmijcie nieobrzezki serca waszego, mężowie Judzcy, a obywatele Jeruzalemscy! by snać nie wyszła jako #ogień popędliwość moja, a nie zapaliła się, a nie byłby, ktoby ugasił dla złości przedsięwzięcia waszego."
 "Opowiadajcie w Judzie, a w Jeruzalemie ogłaszajcie, i mówcie
 "Podnieście chorągiew na Syonie, bądźcie serca dobrego, nie zastanawiajcie się; bo Ja złe przywiodę od północy, i porażkę wielką."
-"Wychodzi lew z jaskini swojej, a ten, który niszczy narody, wyszedłszy z miejsca swego, ciągnie, aby obrócił ziemię twoję w pustynię, a miasta twoje aby zburzone były, aby nie było żadnego obywatela."
+"Wychodzi lew z jaskini swojej, a ten, który niszczy narody, wyszedłszy z miejsca swego, ciągnie, aby obrócił #ziemię twoję w pustynię, a miasta twoje aby zburzone były, aby nie było żadnego obywatela."
 "Przetoż przepaście się worami, narzekajcie a kwilcie, bo nie jest odwrócony gniew zapalczywości Pańskiej od nas."
 "I stanie się dnia onego, mówi Pan, że zginie serce królewskie, i serce książąt, a zdumieją się kapłani, i prorocy dziwować się będą."
 "I rzekłem
@@ -27,5 +27,5 @@
 "Bo tak mówi Pan
 "Nad tem ziemia kwilić będzie, a niebiosa w górze zaćmią się, przeto, żem mówił, com umyślił, a nie żałuję, ani się odwrócę od tego."
 "Przed grzmotem jeźdźców i strzelających z łuku uciecze wszystko miasto; wejdą do gęstych obłoków, i na skały wstąpią. Wszystkie miasta opuszczone będą, a nie będzie, ktoby w nich mieszkał."
-"A ty zburzona będąc cóż uczynisz? Choćbyś się ubrała w szarłat, choćbyś się ozdobiła ozdobą złotą, choćbyś też oblicze twe przyprawiła barwiczką, próżno się stroisz; wzgardzą tobą zalotnicy twoi, a duszy twojej szukać będą."
+"A ty zburzona będąc cóż uczynisz? Choćbyś się ubrała w szarłat, choćbyś się ozdobiła ozdobą złotą, choćbyś też #oblicze twe przyprawiła barwiczką, próżno się stroisz; wzgardzą tobą zalotnicy twoi, a duszy twojej szukać będą."
 "Bom słyszał głos jako rodzącej, uciski jako pierworodzącej, głos córki Syońskiej narzekającej, a załamującej ręce swe, mówiąc

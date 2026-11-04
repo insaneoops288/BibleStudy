@@ -1,5 +1,5 @@
 "Némelyek pedig, kik Júdeából jöttek alá, így tanítják vala az atyafiakat
-"Mikor azért Pálnak és Barnabásnak nagy háborúsága és vetekedése lõn azok ellen, azt végezék, hogy Pál és Barnabás és némely mások õ közülök menjenek fel az apostolokhoz és a vénekhez Jeruzsálembe e kérdés ügyében."
+"Mikor azért Pálnak és Barnabásnak nagy háborúsága és vetekedése lõn azok ellen, azt végezék, hogy Pál és Barnabás #és némely mások õ közülök menjenek fel az apostolokhoz és a vénekhez Jeruzsálembe e kérdés ügyében."
 "Õk tehát kikísértetvén a gyülekezettõl, általmentek Fenicián és Samárián, elbeszélve a pogányok megtérését; és nagy örömet szerzének az összes atyafiaknak."
 "Mikor pedig megérkeztek Jeruzsálembe, a gyülekezet és az apostolok és a vének fogadák õket, és [õk] elbeszélék, mily nagy dolgokat cselekedék az Isten õ velök."
 "Elõállának azonban némely hivõk a farizeusok szerzetébõl valók közül, mondván, hogy körül kell metélni õket, és megparancsolni, hogy a Mózes törvényét megtartsák."
@@ -19,9 +19,9 @@
 "Azokáért én azt mondom, hogy nem kell háborgatni azokat, kik a pogányok közül térnek meg az Istenhez;"
 "Hanem írjuk meg nékik, hogy tartózkodjanak a bálványok fertelmességeitõl, a paráznaságtól, a fúlvaholt állattól és a vértõl."
 "Mert Mózesnek régi nemzedékek óta városonként megvannak a hirdetõi, mivelhogy a zsinagógákban minden szombaton olvassák."
-"Akkor tetszék az apostoloknak és a véneknek az egész gyülekezettel egybe, hogy férfiakat válaszszanak ki magok közül és elküldjék Antiókhiába Pállal és Barnabással, Júdást, kinek mellékneve Barsabás, és Silást, kik az atyafiak között fõemberek valának."
+"Akkor tetszék az apostoloknak és a véneknek az egész gyülekezettel egybe, hogy férfiakat válaszszanak ki magok közül és #elküldjék Antiókhiába Pállal és Barnabással, Júdást, kinek mellékneve Barsabás, és Silást, kik az atyafiak között fõemberek valának."
 "Megírván azok keze által ezeket
-"Mivelhogy meghallottuk, hogy némelyek mi közülünk kimenvén, megháborítottak titeket beszédeikkel, feldúlva a ti lelketeket, azt mondván, hogy körülmetélkedjetek és a törvényt megtartsátok; kiknek mi parancsot nem adtunk
+"Mivelhogy meghallottuk, hogy némelyek mi közülünk kimenvén, megháborítottak titeket beszédeikkel, feldúlva a ti lelketeket, #azt mondván, hogy körülmetélkedjetek és a törvényt megtartsátok; kiknek mi parancsot nem adtunk
 "Tetszék nékünk, miután egyértelemre jutottunk, hogy férfiakat válaszszunk ki és elküldjük ti hozzátok a mi szeretteinkkel, Barnabással és Pállal,"
 "Oly emberekkel, kik életüket tették koczkára a mi Urunk Jézus Krisztus nevéért."
 "Küldöttük azért Júdást és Silást, kik élõszóval szintén tudtotokra adják ugyanezeket."

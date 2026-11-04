@@ -6,11 +6,11 @@
 "Siya na sumakit ng mga tao sa poot ng walang likat na bugbog, na nagpuno sa mga bansa sa galit, na may pag-uusig na hindi pinigil ng sinoman."
 "Ang buong lupa ay nasa katiwasayan, at tahimik
 "Oo, ang mga puno ng cipres ay nagagalak dahil sa iyo, at ang mga cedro sa Libano, na nangagsasabi, Mula nang ikaw ay malugmok wala nang mamumutol na umaahon laban sa amin."
-"Ang Sheol mula sa ibaba ay nakikilos sa iyo upang salubungin ka sa iyong pagdating; nangapupukaw ang mga patay dahil sa iyo, sa makatuwid baga'y ang lahat na pinakapangulo sa lupa; nagsitindig mula sa kanilang mga luklukan ang lahat ng hari ng mga bansa."
+"Ang Sheol mula sa ibaba ay nakikilos sa iyo upang salubungin ka sa iyong pagdating; nangapupukaw ang mga patay dahil sa iyo, sa #makatuwid baga'y ang lahat na pinakapangulo sa lupa; nagsitindig mula sa kanilang mga luklukan ang lahat ng hari ng mga bansa."
 "Silang lahat ay magsisisagot at mangagsasabi sa iyo, Pati ba ikaw ay naging mahinang gaya namin? ikaw ba'y naging gaya namin?"
 "Ang iyong kahambugan ay nababa sa Sheol pati ng tunog ng iyong mga biola
 "Ano't nahulog ka mula sa langit, Oh tala sa umaga, anak ng umaga! paanong ikaw ay lumagpak sa lupa, ikaw na siyang nagpahina sa mga bansa!"
-"At sinabi mo sa iyong sarili, Ako'y sasampa sa langit, aking itataas ang aking luklukan sa itaas ng mga bituin ng Dios; at ako'y uupo sa bundok ng kapisanan, sa mga kaduluduluhang bahagi ng hilagaan
+"At sinabi mo sa iyong sarili, Ako'y sasampa sa langit, aking itataas ang aking luklukan sa itaas ng #mga bituin ng Dios; at ako'y uupo sa bundok ng kapisanan, sa mga kaduluduluhang bahagi ng hilagaan
 "Ako'y sasampa sa itaas ng mga kaitaasan ng mga alapaap; ako'y magiging gaya ng Kataastaasan."
 "Gayon ma'y mabababa ka sa Sheol, sa mga kaduluduluhang bahagi ng hukay."
 "Silang nangakakakita sa iyo ay magsisititig sa iyo, kanilang mamasdan ka, na mangagsasabi, Ito baga ang lalake na nagpayanig ng lupa, na nagpauga ng mga kaharian;"
@@ -22,11 +22,11 @@
 "At ako'y babangon laban sa kanila, sabi ng Panginoon ng mga hukbo, at ihihiwalay ko sa Babilonia ang pangalan at ang nalabi, at ang anak at ang anak ng anak, sabi ng Panginoon."
 "Akin namang gagawing pinakaari ng hayop na erizo, at mga lawa ng tubig
 "Ang Panginoon ng mga hukbo ay sumumpa, na nagsabi, Tunay na kung ano ang iniisip ko, gayon ang mangyayari; at kung ano ang aking pinanukala, gayon mananayo
-"Na aking lalansagin ang taga Asiria sa aking lupain, at sa aking mga bundok ay yayapakan ko siya sa ilalim ng paa; kung magkagayo'y mahihiwalay ang kaniyang atang sa kanila, at ang ipinasan niya ay mahihiwalay sa kanilang balikat."
+"Na aking lalansagin ang taga Asiria sa aking lupain, at sa aking mga bundok ay yayapakan ko siya sa ilalim #ng paa; kung magkagayo'y mahihiwalay ang kaniyang atang sa kanila, at ang ipinasan niya ay mahihiwalay sa kanilang balikat."
 "Ito ang panukala na aking pinanukala sa buong lupa
 "Sapagka't pinanukala ng Panginoon ng mga hukbo, at sinong wawala ng kabuluhan? at ang kaniyang kamay na nakaunat, at sinong maguurong?"
 "Nagkaroon ng hulang ito nang taong mamatay ang haring Achaz."
 "Ikaw ay huwag magalak, ikaw na buong Filistia, sa pagkabali ng pamalo na sumakit sa iyo
 "At ang panganay ng dukha ay kakain, at ang mapagkailangan ay mahihigang tiwasay
-"Ikaw ay umungal, Oh pintuang-bayan; ikaw ay humiyaw, Oh bayan; ikaw ay napugnaw, Oh ikaw na buong Filistia; sapagka't lumalabas ang usok na mula sa hilagaan, at walang malalabi sa kaniyang mga takdang panahon."
+"Ikaw ay umungal, Oh pintuang-bayan; ikaw ay humiyaw, Oh bayan; ikaw ay napugnaw, Oh ikaw na buong Filistia; #sapagka't lumalabas ang usok na mula sa hilagaan, at walang malalabi sa kaniyang mga takdang panahon."
 "Ano nga ang isasagot sa mga sugo ng bansa? Na itinayo ng Panginoon ang Sion, at doon nanganganlong ang nagdadalamhati sa kaniyang bayan."

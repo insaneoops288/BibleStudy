@@ -41,7 +41,7 @@
 "Vosotros hacéis las obras de vuestro padre. Le dijeron entonces
 "Jesús entonces les dijo
 "¿Por qué no entendéis mi lenguaje? Porque no podéis escuchar mi palabra."
-"Vosotros sois de [vuestro] padre el diablo, y los deseos de vuestro padre queréis hacer; él ha sido homicida desde el principio; y no permaneció en la verdad; porque no hay verdad en él. Cuando habla mentira, de suyo habla; porque es mentiroso y padre de mentira."
+"Vosotros sois de [vuestro] padre el diablo, y los deseos de vuestro padre queréis hacer; él ha sido homicida desde el principio; y no #permaneció en la verdad; porque no hay verdad en él. Cuando habla mentira, de suyo habla; porque es mentiroso y padre de mentira."
 "Y porque yo os digo la verdad, no me creéis."
 "¿Quién de vosotros me redarguye de pecado? Y si digo la verdad, ¿por qué vosotros no me creéis?"
 "El que es de Dios, las palabras de Dios oye; por eso no las oís vosotros, porque no sois de Dios."

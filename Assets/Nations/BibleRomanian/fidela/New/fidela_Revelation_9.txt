@@ -14,8 +14,8 @@
 "Spunând celui de al șaselea înger care avea trâmbița
 "Și au fost dezlegați cei patru îngeri, care erau pregătiți pentru o oră și o zi și o lună și un an, să ucidă a treia parte din oameni."
 "Și numărul armatei călăreților [era] de două sute de mii de mii; și am auzit numărul lor."
-"Și astfel am văzut în viziune caii și pe cei ce ședeau pe ei, având platoșe de foc și de hiacint și de pucioasă; și capetele cailor [erau ]precum capetele leilor; și din gurile lor ieșea foc și fum și pucioasă."
+"Și astfel am văzut în viziune caii și pe cei ce ședeau pe ei, având platoșe de foc și de hiacint #și de pucioasă; și capetele cailor [erau ]precum capetele leilor; și din gurile lor ieșea foc și fum și pucioasă."
 "Prin acestea trei a fost ucisă a treia parte a oamenilor, prin focul și prin fumul și prin pucioasa care ieșea din gurile lor."
 "Fiindcă puterea lor este în gurile lor și în cozile lor; deoarece cozile lor [erau] asemănătoare șerpilor și aveau capete și cu acestea vătămau."
-"Și ceilalți oameni, care nu au fost uciși prin aceste plăgi, totuși nu s-au pocăit de faptele mâinilor lor, ca să nu se [mai] închine dracilor și idolilor de aur și de argint și de aramă și de piatră și de lemn, care nu pot nici vedea, nici auzi, nici umbla;"
+"Și ceilalți oameni, care nu au fost uciși prin aceste plăgi, totuși nu s-au pocăit de faptele mâinilor lor, ca să nu se [mai] închine dracilor #și idolilor de aur și de argint și de aramă și de piatră și de lemn, care nu pot nici vedea, nici auzi, nici umbla;"
 "Și nu s-au pocăit nici de uciderile lor, nici de vrăjitoriile lor, nici de curvia lor, nici de furturile lor."

@@ -1,6 +1,6 @@
 "W tych dniach, kiedy nie było króla w Izraelu, pewien Lewita, mieszkający przy zboczu góry Efraim, wziął sobie nałożnicę z Betlejem judzkiego."
 "A jego nałożnica dopuściła się nierządu przeciwko niemu, potem odeszła od niego do domu swego ojca, do Betlejem judzkiego; i była tam u niego przez cztery miesiące."
-"Wstał więc jej mąż i poszedł za nią, aby przebłagać ją i sprowadzić z powrotem. Miał ze sobą swego sługę i parę osłów. Wtedy ona wprowadziła go do domu swego ojca, a gdy ojciec tej dziewczyny zobaczył go, uradował się z jego przyjścia."
+"Wstał więc jej mąż i poszedł za nią, aby przebłagać ją i sprowadzić z powrotem. Miał ze sobą swego sługę i parę #osłów. Wtedy ona wprowadziła go do domu swego ojca, a gdy ojciec tej dziewczyny zobaczył go, uradował się z jego przyjścia."
 "I zatrzymał go jego teść, ojciec tej dziewczyny, i zamieszkał u niego przez trzy dni. Jedli, pili i nocowali tam."
 "A czwartego dnia, gdy obudzili się wcześnie rano, wstał on, aby odejść. Ale ojciec tej dziewczyny powiedział do swego zięcia
 "Usiedli więc i jedli obaj razem, i napili się. Potem ojciec tej dziewczyny powiedział do jej męża
@@ -21,8 +21,8 @@
 "Wprowadził go więc do swego domu i dał osłom obrok; a gdy umyli swe nogi, jedli i pili."
 "A gdy rozweselili swoje serca, oto mężczyźni tego miasta, synowie Beliala, otoczyli dom i kołatali do drzwi, i mówili do gospodarza tego domu, do starca
 "A ten człowiek, gospodarz domu, wyszedł do nich i powiedział im
-"Oto jest tu moja córka, dziewica, oraz jego nałożnica; wyprowadzę je zaraz, żebyście je znieważali i uczynili z nimi, co wydaje się wam słuszne. Tylko temu człowiekowi nie czyńcie tej niegodziwości."
-"Lecz ci mężczyźni nie chcieli słuchać jego głosu. Wziął więc ten człowiek swoją nałożnicę i wyprowadził ją do nich na dwór; obcowali z nią i gwałcili ją przez całą noc aż do rana. Potem ją puścili, gdy wschodziła zorza."
+"Oto jest tu moja córka, dziewica, oraz jego nałożnica; wyprowadzę je zaraz, żebyście je znieważali i #uczynili z nimi, co wydaje się wam słuszne. Tylko temu człowiekowi nie czyńcie tej niegodziwości."
+"Lecz ci mężczyźni nie chcieli słuchać jego głosu. Wziął więc ten człowiek swoją nałożnicę i wyprowadził ją do nich na #dwór; obcowali z nią i gwałcili ją przez całą noc aż do rana. Potem ją puścili, gdy wschodziła zorza."
 "A o świcie ta kobieta przyszła i upadła przy drzwiach domu tego człowieka, gdzie przebywał jej pan; leżała tam, aż się rozwidniło."
 "Potem jej pan wstał rano, otworzył drzwi domu i wyszedł, aby wyruszać w drogę. A oto kobieta, jego nałożnica, leżała u drzwi domu z rękami na progu."
 "I powiedział do niej

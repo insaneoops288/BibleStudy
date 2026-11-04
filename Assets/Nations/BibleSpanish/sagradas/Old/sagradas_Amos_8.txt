@@ -7,7 +7,7 @@
 "El SEÑOR juró por la gloria de Jacob
 "¿No se ha de estremecer la tierra sobre esto? ¿Y todo habitador de ella no llorará? Y subirá toda como <I>un</I>  río, y será arrojada, y será hundida como el río de Egipto."
 "Y acaecerá en aquel día, dijo el Señor DIOS, que haré <I>que</I>  se ponga el sol al mediodía, y la tierra cubriré de tinieblas en el día claro."
-"Y tornaré vuestras fiestas en lloro, y todos vuestros cantares en endechas; y haré poner cilicio sobre todo lomo, y peladura sobre toda cabeza; y la tornaré como en llanto de unigénito, y su postrimería como día amargo."
+"Y tornaré vuestras fiestas en lloro, y todos vuestros cantares en endechas; y haré poner cilicio sobre todo lomo, y #peladura sobre toda cabeza; y la tornaré como en llanto de unigénito, y su postrimería como día amargo."
 "He aquí vienen días, dijo el Señor DIOS, en los cuales enviaré hambre a la tierra, no hambre de pan, ni sed de agua, sino de oír <I>la</I>  palabra del SEÑOR."
 "E irán errantes de mar a mar; desde el norte hasta el oriente discurrirán buscando palabra del SEÑOR, y no la hallarán."
 "En aquel tiempo las doncellas hermosas y los jóvenes desmayarán de sed."

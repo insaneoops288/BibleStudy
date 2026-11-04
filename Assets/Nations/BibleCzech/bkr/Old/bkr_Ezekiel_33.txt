@@ -28,6 +28,6 @@
 "I obrátím zemi tu v hroznou poušť a přestane vyvýšenost moci její, a zpustnou hory Izraelské, tak že nebude žádného, kdo by šel přes ně."
 "I zvědí, že já jsem Hospodin, když obrátím zemi tu v hroznou poušť pro všecky ohavnosti jejich, kteréž páchali."
 "Ty pak synu člověčí, slyš, synové lidu tvého často mluvívají o tobě, za stěnami i ve dveřích domů, a říkají jeden druhému a každý bratru svému, řka
-"I scházejí se k tobě, tak jako se schází lid, a sedají před tebou lid můj, a poslouchají slov tvých, ale nečiní jich. A ačkoli je sobě ústy svými libují, však za mrzkým ziskem svým srdce jejich odchází."
+"I scházejí se k tobě, tak jako se schází lid, a sedají před tebou lid můj, a poslouchají slov tvých, #ale nečiní jich. A ačkoli je sobě ústy svými libují, však za mrzkým ziskem svým srdce jejich odchází."
 "A aj, ty jsi jim jako zpěv libý pěkného zvuku a dobře vznějící. Slyšíť zajisté slova tvá, ale žádný jich nečiní."
 "Než když to přijde, (aj, přicházíť), tedy zvědí, že prorok byl u prostřed nich."

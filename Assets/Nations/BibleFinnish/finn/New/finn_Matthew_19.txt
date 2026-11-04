@@ -26,5 +26,5 @@
 "Niin Jesus katsahti heidän päällensä ja sanoi heille
 "Silloin vastasi Pietari ja sanoi hänelle
 "Niin sanoi Jesus heille
-"Ja jokainen, joka luopui huoneista, taikka veljistä, taikka sisarista, taikka isästä, taikka äidistä, taikka emännästä, taikka lapsista, taikka pellosta, minun nimeni tähden, hänen pitää satakertaisesti saaman, ja ijankaikkisen elämän perimän."
+"Ja jokainen, joka luopui huoneista, taikka veljistä, taikka sisarista, taikka isästä, taikka äidistä, taikka emännästä, taikka #lapsista, taikka pellosta, minun nimeni tähden, hänen pitää satakertaisesti saaman, ja ijankaikkisen elämän perimän."
 "Mutta monta ensimäistä tulee viimeiseksi ja viimeistä ensimäiseksi."

@@ -6,7 +6,7 @@
 "Dân ta vốn là một bầy chiên lạc mất; những kẻ chăn làm cho lộn đường, để chúng nó lầm lạc trên các núi, đi từ núi qua gò, quên chỗ mình an nghỉ."
 "Phàm những kẻ gặp, đều vồ nuốt chúng nó; và những kẻ nghịch chúng nó đều nói rằng
 "Hãy trốn ra ngoài Ba-by-lôn, ra khỏi đất người Canh-đê, hãy đi như dê đực đi đầu bầy!"
-"Vì nầy, ta sẽ khiến nhiều dân tộc dấy lên từ xứ phương bắc, và đến nghịch cùng Ba-by-lôn, các dân ấy sẽ dàn trận đánh Ba-by-lôn, và từ đó nó bị hãm lấy. Tên chúng nó bắn như tên của lính chiến giỏi, chẳng trở về không."
+"Vì nầy, ta sẽ khiến nhiều dân tộc dấy lên từ xứ phương bắc, và đến nghịch cùng Ba-by-lôn, các dân ấy sẽ dàn trận #đánh Ba-by-lôn, và từ đó nó bị hãm lấy. Tên chúng nó bắn như tên của lính chiến giỏi, chẳng trở về không."
 "Canh-đê sẽ bị cướp lấy, phàm kẻ cướp lấy nó sẽ được no nê, Ðức Giê-hô-va phán vậy."
 "Hỡi kẻ cướp sản nghiệp ta, vì các ngươi vui mừng hớn hở, vì các ngươi buông lung như bò cái tơ đạp lúa, reo hí như ngựa mập mạnh;"
 "bởi vậy, mẹ các ngươi rất mang xấu hổ, kẻ đẻ các ngươi bị thẹn thuồng. Kìa, nó sẽ làm cuối cùng hàng các nước, một đồng vắng, một đất khô khan, một nơi sa mạc."
@@ -26,7 +26,7 @@
 "Hãy đến từ bờ cõi rất xa nghịch cùng nó; hãy mở kho tàng nó ra, chất lên như đống, hãy diệt hết cả, đừng để lại chút gì!"
 "Hãy giết mọi bò đực nó, đem xuống hàng thịt! Kiên nhẫn cho chúng nó, vì ngày chúng nó đã đến, ấy là kỳ thăm phạt chúng nó!"
 "Hãy nghe tiếng kêu của kẻ đi trốn, của những kẻ thoát khỏi đất Ba-by-lôn, đặng rao ra trong Si-ôn sự báo thù của Giê-hô-va Ðức Chúa Trời chúng ta, sự báo thù về đền thờ Ngài."
-"Hãy gọi hết thảy những kẻ cầm cung, mọi người giương cung đến đánh Ba-by-lôn; đóng trại chung quanh nó; đừng để cho ai thoát khỏi! Hãy theo công việc nó mà báo trả, làm cho nó trọn như nó đã làm; vì nó lên mình kiêu ngạo nghịch cùng Ðức Giê-hô-va, nghịch cùng Ðấng Thánh của Y-sơ-ra-ên."
+"Hãy gọi hết thảy những kẻ cầm cung, mọi người giương cung đến đánh Ba-by-lôn; đóng trại chung quanh nó; đừng để cho ai thoát khỏi! Hãy theo công việc #nó mà báo trả, làm cho nó trọn như nó đã làm; vì nó lên mình kiêu ngạo nghịch cùng Ðức Giê-hô-va, nghịch cùng Ðấng Thánh của Y-sơ-ra-ên."
 "Vậy nên, bọn trai trẻ nó sẽ ngã trên các đường phố, và trong ngày đó, những người đánh giặc của nó sẽ phải nín lặng, Ðức Giê-hô-va phán vậy."
 "Chúa, là Ðức Giê-hô-va vạn quân, phán
 "Kẻ kiêu ngạo sẽ xiêu tó, vấp ngã, không ai dựng lại. Ta sẽ đốt lửa nơi các thành nó, thiêu nuốt mọi sự chung quanh."
@@ -41,6 +41,6 @@
 "Nầy, một dân đến từ phương bắc; một nước lớn và nhiều vua từ các phương đất rất xa bị xui giục."
 "Họ cầm cung và giáo, hung dữ chẳng có lòng thương xót. Tiếng họ giống như biển gầm; hỡi con gái Ba-by-lôn, họ đã cỡi ngựa mà đến, dàn trận để đánh ngươi."
 "Vua Ba-by-lôn đã nghe tin đó, thì tay người trở nên rả rời; sự buồn rầu bắt lấy người như cơn đau của người đờn bà đang đẻ."
-"Nầy, kẻ thù như sư tử lên từ các rừng rậm rợp của Giô-đanh mà nghịch cùng chỗ ở kiên cố. Thình lình, ta sẽ làm cho người Canh-đê trốn khỏi, và lập người mà ta đã chọn cai trị nó. Vì, ai giống như ta? ai sẽ định kỳ cho ta? ai là kẻ chăn đứng được trước mắt ta?"
-"Vậy hãy nghe mưu Ðức Giê-hô-va đã toan nghịch cùng Ba-by-lôn, và ý định Ngài đã lập nghịch cùng đất người Canh-đê. Thật, những con nhỏ trong bầy chúng nó sẽ bị kéo đi, làm cho nơi ở chúng nó trở nên hoang vu!"
+"Nầy, kẻ thù như sư tử lên từ các rừng rậm rợp của Giô-đanh mà nghịch cùng chỗ ở kiên cố. Thình lình, ta sẽ làm cho người Canh-đê trốn khỏi, #và lập người mà ta đã chọn cai trị nó. Vì, ai giống như ta? ai sẽ định kỳ cho ta? ai là kẻ chăn đứng được trước mắt ta?"
+"Vậy hãy nghe mưu Ðức Giê-hô-va đã toan nghịch cùng Ba-by-lôn, và ý định Ngài đã lập nghịch cùng đất người Canh-đê. Thật, #những con nhỏ trong bầy chúng nó sẽ bị kéo đi, làm cho nơi ở chúng nó trở nên hoang vu!"
 "Nghe tiếng Ba-by-lôn bị bắt lấy, đất đều rúng động, và có tiếng kêu nghe ra giữa các người."

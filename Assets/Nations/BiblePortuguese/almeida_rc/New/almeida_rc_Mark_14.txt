@@ -1,6 +1,6 @@
 "E DALI a dois dias era a páscoa, e a festa dos pães asmos; e os principais dos sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam."
 "Mas eles diziam
-"E, estando ele em Betânia, assentado à mesa, em casa de Simão, o leproso, veio uma mulher, que trazia um vaso de alabastro, com unguento de nardo puro, de muito preço e, quebrando o vaso, lho derramou sobre a cabeça."
+"E, estando ele em Betânia, assentado à mesa, em casa de Simão, o leproso, veio uma mulher, que trazia um vaso #de alabastro, com unguento de nardo puro, de muito preço e, quebrando o vaso, lho derramou sobre a cabeça."
 "E alguns houve que em si mesmos se indignaram, e disseram
 "Porque podia vender-se por mais de trezentos dinheiros, e dá-lo aos pobres. E bramavam contra ela."
 "Jesus, porém, disse

@@ -1,12 +1,12 @@
 "Ja Herra lähetti Natanin Davidin tykö. Kuin hän tuli hänen tykönsä, sanoi hän hänelle
 "Rikkaalla oli aivan paljo lampaita ja karjaa;"
-"Mutta köyhällä ei ollut mitään muuta kuin yksi vähä karitsa, jonka hän ostanut oli, ja elättänyt, ja kasvattanut suureksi, ja ravitsi sen tykönänsä lastensa kanssa; joka myös söi hänen leipänsä palasta, ja joi hänen juoma-astiastansa, ja makasi hänen sylissänsä, ja se oli hänelle niinkuin tytär."
-"Mutta kuin rikkaalle miehelle tuli vieras, ei raskinut hän ottaa omista lampaistansa ja karjastansa, valmistaaksensa vieraalle, joka hänen tykönsä tullut oli; mutta otti köyhän miehen lampaan ja valmisti vieraalle, joka hänen tykönsä tullut oli."
+"Mutta köyhällä ei ollut mitään muuta kuin yksi vähä karitsa, jonka hän ostanut oli, ja elättänyt, ja kasvattanut suureksi, ja ravitsi sen tykönänsä #lastensa kanssa; joka myös söi hänen leipänsä palasta, ja joi hänen juoma-astiastansa, ja makasi hänen sylissänsä, ja se oli hänelle niinkuin tytär."
+"Mutta kuin rikkaalle miehelle tuli vieras, ei raskinut hän ottaa omista lampaistansa ja karjastansa, valmistaaksensa vieraalle, joka hänen #tykönsä tullut oli; mutta otti köyhän miehen lampaan ja valmisti vieraalle, joka hänen tykönsä tullut oli."
 "Niin Davidin viha julmistui suuresti sitä miestä vastaan, ja hän sanoi Natanille
 "Niin myös pitää hänen maksaman neljäkertaisesti sen lampaan, että hän sen tehnyt on, ja ei säästänyt sitä."
 "Niin sanoi Natan Davidille
 "Ja olen antanut sinulle sinun herras huoneen ja hänen emäntänsä sinun syliis, ja olen antanut sinulle Israelin ja Juudan huoneen; ja jos siinä vähä on, niin minä sen lisään sinulle."
-"Miksis katsoit Herran sanan ylön, tehden pahaa hänen silmäinsä edessä? Urian Hetiläisen olet sinä lyönyt miekalla, ja hänen vaimonsa olet sinä ottanut sinulles emännäksi; mutta hänen olet sinä tappanut Ammonin lasten miekalla."
+"Miksis katsoit Herran sanan ylön, tehden pahaa hänen silmäinsä edessä? Urian Hetiläisen olet sinä lyönyt miekalla, ja #hänen vaimonsa olet sinä ottanut sinulles emännäksi; mutta hänen olet sinä tappanut Ammonin lasten miekalla."
 "Niin ei pidä myös miekan lakkaaman sinun huoneestas ijankaikkisesti; ettäs olet katsonut minun ylön, ja Urian, Hetiläisen, emännän ottanut sinulles emännäksi."
 "Näin sanoo Herra
 "Sillä sinä olet sen tehnyt salaisesti; mutta minä teen tämän koko Israelin edessä ja auringon edessä."

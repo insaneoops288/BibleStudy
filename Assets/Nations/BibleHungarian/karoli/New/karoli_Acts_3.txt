@@ -1,5 +1,5 @@
 "Péter és János pedig együtt mennek vala fel a templomba az imádkozásnak órájára, kilenczre."
-"És hoznak vala egy embert, ki az õ anyjának méhétõl fogva sánta vala, kit minden nap le szoktak tenni a templom kapujánál, melyet Ékesnek neveznek, hogy kérjen alamizsnát azoktól, a kik bemennek a temlomba."
+"És hoznak vala egy embert, ki az õ anyjának méhétõl fogva sánta vala, kit minden nap le szoktak #tenni a templom kapujánál, melyet Ékesnek neveznek, hogy kérjen alamizsnát azoktól, a kik bemennek a temlomba."
 "Ez mikor látta, hogy Péter és János a templomba akarnak bemenni, kére õ tõlük alamizsnát."
 "Péter pedig mikor szemeit reá vetette Jánossal egyben, monda
 "Az annakokáért figyelmez vala reájok, remélvén, hogy valamit kap tõlük."

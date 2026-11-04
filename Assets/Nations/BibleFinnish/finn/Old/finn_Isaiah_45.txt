@@ -10,12 +10,12 @@
 "Voi sitä, joka isälle sanoo
 "Näin sanoo Herra, Israelin Pyhä ja tekiä
 "Minä olen tehnyt maan, ja luonut ihmisen sen päälle; minä olen se, jonka kädet ovat levittäneet taivaan, ja antanut käskyn kaikelle sen joukolle."
-"Minä olen herättänyt hänen vanhurskaudessa, ja minä teen kaikki hänen tiensä tasaiseksi. Hänen pitää rakentaman minun kaupunkini, ja päästämän minun vankini vallallensa, ei rahan eli lahjan tähden, sanoo Hera Zebaot."
+"Minä olen herättänyt hänen vanhurskaudessa, ja minä teen kaikki hänen tiensä tasaiseksi. Hänen pitää rakentaman minun #kaupunkini, ja päästämän minun vankini vallallensa, ei rahan eli lahjan tähden, sanoo Hera Zebaot."
 "Näin sanoo Herra
 "Totisesti sinä olet salattu Jumala, sinä Jumala, Israelin Vapahtaja."
 "Mutta epäjumalain tekiät täytyy kaikki häpiässä ja häväistyksessä pysyä, ja yksi toisensa kanssa häväistynä mennä pois."
 "Mutta Israel lunastetaan Herran kautta ijankaikkisella lunastuksella, eikä tule häpiään eli pilkkaan koskaan ijankaikkisesti."
-"Sillä näin sanoo Herra, joka taivaan luonut on, Jumala, joka maan on valmistanut, ja on sen tehnyt ja vahvistanut sen, ja ei niin sitä tehnyt, että se olis tyhjänä ollut, vaan valmisti sen että siinä asuttaisiin
+"Sillä näin sanoo Herra, joka taivaan luonut on, Jumala, joka maan on valmistanut, ja on sen tehnyt ja vahvistanut #sen, ja ei niin sitä tehnyt, että se olis tyhjänä ollut, vaan valmisti sen että siinä asuttaisiin
 "En minä ole salaa puhunut, pimiässä paikassa maan päällä, enkä ole Jakobin siemenelle sanonut
 "Anna pakanain sankarien kokoontua ja tulla yhteen, jotka ei mitään tiedä, ja kantavat epäjumalansa kannot, ja rukoilevat sitä jumalaa, joka ei auttaa taida."
 "Ilmoittakaat ja tulkaat tänne, pitäkäät neuvoa keskenänne, kuka näitä alusta kuulutti, ja silloin on sen ilmoittanut? Enkö minä Herra? Ja ei ole ensinkään Jumalaa paitsi minua

@@ -9,7 +9,7 @@ According to all the deeds that they have done, from the day I brought them up o
 Now then, obey their voice; only you shall solemnly warn them and show them the ways of the king who shall reign over them.
 So Samuel told all the words of the Lord to the people who were asking for a king from him.
 He said, These will be the ways of the king who will reign over you
-And he will appoint for himself commanders of thousands and commanders of fifties, and some to plow his ground and to reap his harvest, and to make his implements of war and the equipment of his chariots.
+And he will appoint for himself commanders of thousands and commanders of fifties, and some to plow his ground #and to reap his harvest, and to make his implements of war and the equipment of his chariots.
 He will take your daughters to be perfumers and cooks and bakers.
 He will take the best of your fields and vineyards and olive orchards and give them to his servants.
 He will take the tenth of your grain and of your vineyards and give it to his officers and to his servants.

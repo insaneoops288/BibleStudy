@@ -11,7 +11,7 @@
 "Mas aquele que odeia a seu irmão está nas trevas, e anda nas trevas, e não sabe para onde vai; porque as trevas lhe cegaram os olhos."
 "Filhinhos, eu vos escrevo, porque os vossos pecados são perdoados por amor do seu nome."
 "Pais, eu vos escrevo, porque conheceis aquele que é desde o princípio. Jovens, eu vos escrevo, porque vencestes o Maligno."
-"Eu vos escrevi, meninos, porque conheceis o Pai. Eu vos escrevi, pais, porque conheceis aquele que é desde o princípio. Eu escrevi, jovens, porque sois fortes, e a palavra de Deus permanece em vós, e já vencestes o Maligno."
+"Eu vos escrevi, meninos, porque conheceis o Pai. Eu vos escrevi, pais, porque conheceis aquele que é desde o princípio. #Eu escrevi, jovens, porque sois fortes, e a palavra de Deus permanece em vós, e já vencestes o Maligno."
 "Não ameis o mundo, nem o que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele."
 "Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não vem do Pai, mas sim do mundo."
 "Ora, o mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus, permanece para sempre."
@@ -24,6 +24,6 @@
 "Portanto, o que desde o princípio ouvistes, permaneça em vós. Se em vós permanecer o que desde o princípio ouvistes, também vós permanecereis no Filho e no Pai."
 "E esta é a promessa que ele nos fez
 "Estas coisas vos escrevo a respeito daqueles que vos querem enganar."
-"E quanto a vós, a unção que dele recebestes fica em vós, e não tendes necessidade de que alguém vos ensine; mas, como a sua unção vos ensina a respeito de todas as coisas, e é verdadeira, e não é mentira, como vos ensinou ela, assim nele permanecei."
+"E quanto a vós, a unção que dele recebestes fica em vós, e não tendes necessidade de que alguém vos ensine; mas, como a sua #unção vos ensina a respeito de todas as coisas, e é verdadeira, e não é mentira, como vos ensinou ela, assim nele permanecei."
 "E agora, filhinhos, permanecei nele; para que, quando ele se manifestar, tenhamos confiança, e não fiquemos confundidos diante dele na sua vinda."
 "Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele."

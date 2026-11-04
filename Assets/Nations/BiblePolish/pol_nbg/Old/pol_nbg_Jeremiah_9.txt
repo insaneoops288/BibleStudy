@@ -6,7 +6,7 @@
 "Dlatego tak powiedział WIEKUISTY Zastępów
 "Ich język jest wyostrzonąstrzałą, plecie obłudę; swymi ustami uprzejmie rozmawia z bliźnim, lecz we wnętrzu zastawia swoje sidła."
 "Czyżbym tego na nich nie szukał mówi WIEKUISTY, czy nad podobnym narodem Ma Osoba nie wywrze pomsty?"
-"Na górach podniosą płacz i skargę, a na rozłogach stepu pieśń żałobną, bowiem opustoszały z powodu braku przechodnia, jak również nie słyszą ryku stada; rozbiegło się i rozpierzchło zarówno ptactwa nieba, jak i bydło."
+"Na górach podniosą płacz i skargę, a na rozłogach stepu pieśń żałobną, bowiem opustoszały z powodu braku przechodnia, #jak również nie słyszą ryku stada; rozbiegło się i rozpierzchło zarówno ptactwa nieba, jak i bydło."
 "Uczynię z Jeruszalaim kupy gruzu, legowisko szakali, a miasta Judy zamienię w pustkowie z powodu braku mieszkańca."
 "Kto tak mądry, by to zrozumiał, albo do kogo przemówiły Boże usta niech to oznajmi
 "I WIEKUISTY powiedział

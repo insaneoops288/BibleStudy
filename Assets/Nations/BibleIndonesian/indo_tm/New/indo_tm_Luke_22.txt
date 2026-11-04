@@ -16,7 +16,7 @@
 "karena Aku berkata kepadamu
 "Maka disambut-Nya cawan minuman, lalu diucapkan-Nya syukur, serta berkata, ""Ambillah ini, bahagikan di antara kamu!"
 "Karena Aku berkata kepadamu
-"Maka Yesus pun mengambil roti, lalu diucapkan-Nya syukur, dipecah-pecahkan-Nya, serta diberikan-Nya kepada mereka itu, kata-Nya, ""Inilah tubuh-Ku yang diserahkan karena kamu; perbuatlah demikian menjadi suatu peringatan akan Daku."""
+"Maka Yesus pun mengambil roti, lalu diucapkan-Nya syukur, dipecah-pecahkan-Nya, serta diberikan-Nya kepada mereka itu, kata-Nya, #""Inilah tubuh-Ku yang diserahkan karena kamu; perbuatlah demikian menjadi suatu peringatan akan Daku."""
 "Demikian juga cawan minuman itu, sesudahnya makan, kata-Nya, ""Cawan minuman ini adalah perjanjian baharu di dalam darah-Ku, yang ditumpahkan karena kamu."
 "Tetapi tengoklah! Tangan orang yang menyerahkan Aku ada bersama-sama dengan Aku di meja ini."
 "Karena Anak manusia akan pergi juga, seperti yang ditakdirkan atas-Nya; tetapi wai atas orang itu yang menyerahkan Dia!"""
@@ -32,8 +32,8 @@
 "Tetapi Aku ini mendoakan engkau, supaya imanmu jangan gugur; dan jikalau engkau bertobat, sokonglah saudara-saudaramu."""
 "Maka kata Petrus kepada-Nya, ""Ya Tuhan, jikalau beserta Tuhan, rela hatiku masuk ke dalam penjara, atau mati sekalipun."""
 "Tetapi kata Yesus, ""Hai Petrus, ayam tiada akan berkokok hari ini sehingga engkau bersangkal tiga kali, bahwa tiada engkau kenal Aku."""
-"Maka kata Yesus kepada murid-murid itu, ""Tatkala Aku menyuruhkan kamu keluar dengan tiada membawa pundi-pundi atau tempat bekal atau kasut, adakah kamu kekurangan barang sesuatu?"" Maka kata mereka itu, ""Tiada."""
-"Lalu kata-Nya kepada mereka itu, ""Tetapi sekarang siapa yang ada pundi-pundi, biarlah ia bawa dia, dan yang ada tempat bekal begitu juga; tetapi siapa yang tiada menaruh sesuatu, hendaklah ia menjual bajunya akan membeli pedang."
+"Maka kata Yesus kepada murid-murid itu, ""Tatkala Aku menyuruhkan kamu keluar dengan tiada membawa pundi-pundi atau #tempat bekal atau kasut, adakah kamu kekurangan barang sesuatu?"" Maka kata mereka itu, ""Tiada."""
+"Lalu kata-Nya kepada mereka itu, ""Tetapi sekarang siapa yang ada pundi-pundi, biarlah ia bawa dia, dan yang ada #tempat bekal begitu juga; tetapi siapa yang tiada menaruh sesuatu, hendaklah ia menjual bajunya akan membeli pedang."
 "Karena Aku berkata kepadamu, barang yang tersurat tentang Aku ini pun, tak dapat tiada akan disampaikan lagi, yaitu
 "Maka kata mereka itu, ""Ya Tuhan, tengoklah, di sini ada pedang dua bilah."" Maka kata Yesus kepada mereka itu, ""Sudahlah."""
 "Maka keluarlah Yesus, lalu pergi ke Bukit Zaitun seperti biasanya; maka murid-murid itu pun mengikut Dia."
@@ -44,7 +44,7 @@
 "Maka di dalam ketakutan yang amat sangat, makin bersungguh-sungguh hati Ia berdoa, sehingga peluh-Nya menjadi seperti darah menitik ke bumi."
 "Setelah bangkit daripada berdoa, pergilah Ia kepada murid-murid-Nya, lalu didapati-Nya mereka itu tertidur oleh sebab dukacitanya."
 "Maka berkatalah Ia kepada mereka itu, ""Apakah sebabnya kamu tidur? Bangun dan berdoalah kamu, supaya jangan kamu kena pencobaan."""
-"Sedang Ia lagi berkata-kata, kelihatanlah orang banyak, beserta dengan orang yang bernama Yudas itu, yaitu seorang daripada kedua belas murid itu, yang mengepalakan mereka itu, lalu menghampiri Yesus serta mencium Dia."
+"Sedang Ia lagi berkata-kata, kelihatanlah orang banyak, beserta dengan orang yang bernama Yudas itu, yaitu seorang #daripada kedua belas murid itu, yang mengepalakan mereka itu, lalu menghampiri Yesus serta mencium Dia."
 "Lalu kata Yesus kepadanya, ""Hai Yudas, dengan suatu ciumkah engkau menyerahkan Anak manusia?"""
 "Serta orang yang dekat Yesus itu nampak perkara yang akan berlaku itu, maka berkatalah mereka itu, ""Ya Tuhan, kami parangkah dengan pedang ini?"""
 "Maka seorang dari antara mereka itu memarang hamba Imam Besar dan mengerat telinga kanannya."

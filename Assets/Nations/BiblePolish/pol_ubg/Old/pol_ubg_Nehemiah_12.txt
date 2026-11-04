@@ -24,7 +24,7 @@
 "Naczelnikami Lewitów byli
 "Mattaniasz i Bakbukiasz, Obadiasz, Meszullam, Talmon i Akkub jako odźwierni trzymali straż przy składnicach u bram."
 "Ci żyli za dni Jojakima, syna Jeszuy, syna Jocadaka, i za dni namiestnika Nehemiasza i Ezdrasza, kapłana i uczonego w Piśmie."
-"I na poświęcanie muru Jerozolimy odszukano Lewitów ze wszystkich ich miejsc, aby ich przyprowadzić do Jerozolimy, by mogli obchodzić poświęcenie z radością, dziękczynieniem, przy śpiewaniu, cymbałach, cytrach i harfach."
+"I na poświęcanie muru Jerozolimy odszukano Lewitów ze wszystkich ich miejsc, aby ich przyprowadzić do #Jerozolimy, by mogli obchodzić poświęcenie z radością, dziękczynieniem, przy śpiewaniu, cymbałach, cytrach i harfach."
 "Zgromadzili się więc synowie śpiewaków, z równin wokół Jerozolimy i ze wsi Netofatytów;"
 "Także z domu Gilgal, z pól Geba i z Azmawet. Śpiewacy bowiem zbudowali sobie wsie wokół Jerozolimy."
 "Wtedy kapłani i Lewici oczyścili się, po czym oczyścili też lud, bramy i mur."
@@ -41,7 +41,7 @@
 "Także kapłani
 "I Maasejasz, Szemajasz, Eleazar, Uzzi, Jehochanan, Malkiasz, Elam i Ezer. Śpiewacy głośno śpiewali, a Jizrachiasz był ich kierownikiem."
 "Tego dnia składali także wielkie ofiary i radowali się. Bóg bowiem dał im wielką radość. Również kobiety i dzieci radowały się, a radość Jerozolimy słychać było z daleka."
-"W tym czasie ustanowiono mężczyzn nad składnicami dla skarbów, ofiar, pierwocin i dziesięcin, aby w nich zgromadzono dla kapłanów i Lewitów udziały przyznane im przez Prawo z pól miejskich. Juda bowiem cieszył się z powodu kapłanów i Lewitów pełniących służbę;"
+"W tym czasie ustanowiono mężczyzn nad składnicami dla skarbów, ofiar, pierwocin i dziesięcin, aby w nich zgromadzono dla kapłanów i Lewitów #udziały przyznane im przez Prawo z pól miejskich. Juda bowiem cieszył się z powodu kapłanów i Lewitów pełniących służbę;"
 "I śpiewacy i odźwierni pełnili służbę dla swego Boga i służbę oczyszczenia, według rozkazu Dawida i jego syna Salomona."
 "Już bowiem dawno, za dni Dawida i Asafa, byli ustanowieni przełożeni nad śpiewakami oraz były ustalone pieśni pochwalne i dziękczynienia dla Boga."
 "Cały Izrael więc za dni Zorobabela i za dni Nehemiasza dawał porcje śpiewakom i odźwiernym na codzienne utrzymanie. Oddawali Lewitom to, co poświęcili, Lewici zaś oddawali to synom Aarona."

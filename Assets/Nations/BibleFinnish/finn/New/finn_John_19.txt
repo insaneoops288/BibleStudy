@@ -20,7 +20,7 @@
 "Tämän päällekirjoituksen luki monta Juudalaisista; sillä se paikka oli läsnä kaupunkia, jossa Jesus ristiinnaulittiin. Ja oli kirjoitettu Hebreaksi, Grekaksi ja Latinaksi."
 "Niin sanoivat Juudalaisten ylimmäiset papit Pilatukselle
 "Pilatus vastasi
-"Kuin siis sotamiehet olivat Jesuksen ristiinnaulinneet, ottivat he hänen vaatteensa (ja tekivät neljä osaa, kullekin sotamiehelle osan), ja hameen; mutta hame ei ollut ommeltu, vaan kokonansa ylhäältä (alaspäin) kudottu."
+"Kuin siis sotamiehet olivat Jesuksen ristiinnaulinneet, ottivat he hänen vaatteensa (ja tekivät neljä osaa, kullekin #sotamiehelle osan), ja hameen; mutta hame ei ollut ommeltu, vaan kokonansa ylhäältä (alaspäin) kudottu."
 "Niin he sanoivat keskenänsä
 "Mutta Jesuksen ristin tykönä seisoi hänen äitinsä ja hänen äitinsä sisar Maria, Kleopaan emäntä, ja Maria Magdalena."
 "Kuin siis Jesus näki äidin ja opetuslapsen siinä sesovan, jota hän rakasti, sanoi hän äidillensä
@@ -28,14 +28,14 @@
 "Sitte, kuin Jesus tiesi jo kaikki täytetyksi, ja että Raamattu täytettäisiin, sanoi hän
 "Oli siis yksi astia pantu etikkaa täyteen, ja he täyttivät sienen etikalla ja panivat sen ympärille isoppia, ja panivat sen hänen suunsa eteen."
 "Kuin siis Jesus oli etikkaa ottanut, sanoi hän
-"Mutta että valmistuspäivä oli, ja ei ruumiit pitänyt ristissä oleman sabbatina, (sillä se sabbatin päivä oli suuri,) rukoilivat siis Juudalaiset Pilatusta, että heidän sääriluunsa piti rikottaman ja he otettaman alas."
+"Mutta että valmistuspäivä oli, ja ei ruumiit pitänyt ristissä oleman sabbatina, (sillä se sabbatin päivä oli #suuri,) rukoilivat siis Juudalaiset Pilatusta, että heidän sääriluunsa piti rikottaman ja he otettaman alas."
 "Niin sotamiehet tulivat ja rikkoivat ensimmäisen luut ja toisen, joka hänen kanssansa oli ristiinnaulittu;"
 "Mutta kuin he tulivat Jesuksen tykö ja näkivät hänen jo kuolleeksi, niin ei he rikkoneet hänen luitansa;"
 "Vaan yksi sotamiehistä avasi hänen kylkensä keihäällä, josta kohta vuoti veri ja vesi."
 "Ja joka tämän näki, hän on sen todistanut ja hänen todistuksensa on tosi, ja hän tietää totta sanovansa, että te myös uskoisitte."
 "Sillä nämät ovat tapahtuneet, että Raamattu täytettäisiin
 "Ja taas toinen kirjoitus sanoo
-"Mutta sen jälkeen rukoili Pilatusta Joseph Arimatiasta, (joka oli Jesuksen opetuslapsi, vaan salaa Juudalaisten pelvon tähden), että hän olis saanut ottaa Jesuksen ruumiin; ja Pilatus salli sen. Niin hän tuli ja otti Jesuksen ruumiin."
+"Mutta sen jälkeen rukoili Pilatusta Joseph Arimatiasta, (joka oli Jesuksen opetuslapsi, vaan salaa Juudalaisten pelvon tähden), että hän #olis saanut ottaa Jesuksen ruumiin; ja Pilatus salli sen. Niin hän tuli ja otti Jesuksen ruumiin."
 "Niin tuli myös Nikodemus, (joka oli ensin yöllä Jesuksen tykö tullut,) ja toi mirhamia ja aloeta sekoitettua, lähes sata naulaa,"
 "Niin he ottivat Jesuksen ruumiin ja käärivät sen liinaiseen, hyvän-hajullisten yrttein kanssa, niinkuin Juudalaisten tapa on haudata."
 "Mutta siinä paikassa, jossa hän ristiinnaulittiin, oli yrttitarha, ja yrttitarhassa uusi hauta, johonka ei vielä kenkään ollut pantu

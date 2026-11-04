@@ -39,8 +39,8 @@ Then Jacob was angry and rebuked Laban, and Jacob answered and said to Laban, "W
 "That which was torn by beasts I did not bring to you; I bore the loss of it. You required it from my hand, whether stolen by day or stolen by night.
 "There I was! In the day the drought consumed me, and the frost by night, and my sleep departed from my eyes.
 "Thus I have been in your house twenty years; I served you fourteen years for your two daughters, and six years for your flock, and you have changed my wages ten times.
-"Unless the God of my father, the God of Abraham and the Fear of Isaac, had been with me, surely now you would have sent me away empty-handed. God has seen my affliction and the labor of my hands, and rebuked you last night."
-And Laban answered and said to Jacob, "These daughters are my daughters, and these children are my children, and this flock is my flock; all that you see is mine. But what can I do this day to these my daughters or to their children whom they have borne?
+"Unless the God of my father, the God of Abraham and the Fear of Isaac, had been with me, surely now you would #have sent me away empty-handed. God has seen my affliction and the labor of my hands, and rebuked you last night."
+And Laban answered and said to Jacob, "These daughters are my daughters, and these children are my children, and this flock is my flock; all #that you see is mine. But what can I do this day to these my daughters or to their children whom they have borne?
 "Now therefore, come, let us make a covenant, you and I, and let it be a witness between you and me."
 So Jacob took a stone and set it up as a pillar.
 Then Jacob said to his brethren, "Gather stones." And they took stones and made a heap, and they ate there on the heap.

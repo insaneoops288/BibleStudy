@@ -9,7 +9,7 @@
 "Als Jesus dies hörte, verwunderte er sichüber ihn; und er wandte sich zu der Volksmenge, die ihm folgte, und sprach
 "Und als die Abgesandten in das Haus zurückkehrten, fanden sie den kranken Knecht gesund."
 "Und es geschah danach, daß er in eine Stadt ging, genannt Nain, und viele seiner Jünger und eine große Volksmenge gingen mit ihm."
-"Als er sich aber dem Tore der Stadt näherte, siehe, da wurde ein Toter herausgetragen, der eingeborene Sohn seiner Mutter, und sie war eine Witwe; und eine zahlreiche Volksmenge aus der Stadt war mit ihr."
+"Als er sich aber dem Tore der Stadt näherte, siehe, da wurde ein Toter herausgetragen, der eingeborene Sohn #seiner Mutter, und sie war eine Witwe; und eine zahlreiche Volksmenge aus der Stadt war mit ihr."
 "Und als der Herr sie sah, wurde er innerlich bewegtüber sie und sprach zu ihr
 "Und er trat hinzu und rührte die Bahre an, die Träger aber standen still; und er sprach
 "Und der Tote setzte sich auf und fing an zu reden; und er gab ihn seiner Mutter."
@@ -35,7 +35,7 @@
 "und die Weisheit ist gerechtfertigt worden von allen ihren Kindern."
 "Es bat ihn aber einer der Pharisäer, daß er mit ihm essen möchte; und er ging in das Haus des Pharisäers und legte sich zu Tische."
 "Und siehe, da war ein Weib in der Stadt, die eine Sünderin war; und als sie erfahren hatte, daß er in dem Hause des Pharisäers zu Tische liege, brachte sie eine Alabasterflasche mit Salbe;"
-"und hinten zu seinen Füßen stehend und weinend, fing sie an, seine Füße mit Tränen zu benetzen; und sie trocknete sie mit den Haaren ihres Hauptes und küßte seine Füße sehr und salbte sie mit der Salbe."
+"und hinten zu seinen Füßen stehend und weinend, fing sie an, seine Füße mit Tränen zu benetzen; und sie #trocknete sie mit den Haaren ihres Hauptes und küßte seine Füße sehr und salbte sie mit der Salbe."
 "Als es aber der Pharisäer sah, der ihn geladen hatte, sprach er bei sich selbst und sagte
 "Und Jesus antwortete und sprach zu ihm
 "Ein gewisser Gläubiger hatte zwei Schuldner; der eine schuldete fünfhundert Denare, der andere aber fünfzig;"

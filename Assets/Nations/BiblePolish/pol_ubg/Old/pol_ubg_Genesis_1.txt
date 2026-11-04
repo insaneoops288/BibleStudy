@@ -18,7 +18,7 @@
 "I żeby rządziły dniem i nocą, i oddzielały światłość od ciemności. I Bóg widział, że to było dobre."
 "I nastał wieczór i poranek, dzień czwarty."
 "Potem Bóg powiedział
-"I Bóg stworzył wielkie wieloryby i wszelkie pływające istoty żywe, które hojnie wydały wody, według ich rodzaju oraz wszelkie ptactwo skrzydlate według jego rodzaju. I Bóg widział, że to było dobre."
+"I Bóg stworzył wielkie wieloryby i wszelkie pływające istoty żywe, które hojnie wydały wody, według ich #rodzaju oraz wszelkie ptactwo skrzydlate według jego rodzaju. I Bóg widział, że to było dobre."
 "Bóg błogosławił je, mówiąc
 "I nastał wieczór i poranek, dzień piąty."
 "Bóg powiedział też

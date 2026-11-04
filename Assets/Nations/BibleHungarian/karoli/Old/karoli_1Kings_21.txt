@@ -26,4 +26,4 @@
 "Mert igen útálatos dolgot cselekedék, követvén a bálványokat mind a szerint, a mint cselekedének az Emoreusok, a kiket az Úr kiûzött volt az Izráel fiai elõtt."
 "Lõn pedig, mikor meghallotta Akháb e beszédeket, megszaggatá az õ ruháit, és zsákba öltözék és bõjtöle, és a zsákban hála, és nagy alázatossággal jár vala."
 "És szóla az Úr Thesbites Illésnek, mondván
-"Nem láttad-é, hogy Akháb hogyan megalázta magát elõttem? Mivelhogy pedig megalázta magát elõttem, nem hozom reá a veszedelmet az õ életében, [hanem] [csak] az õ fia idejében hozom el a veszedelmet az õ házára."
+"Nem láttad-é, hogy Akháb hogyan megalázta magát elõttem? Mivelhogy pedig megalázta magát elõttem, nem hozom reá a veszedelmet #az õ életében, [hanem] [csak] az õ fia idejében hozom el a veszedelmet az õ házára."

@@ -25,8 +25,8 @@
 "En sy seun was Refag, en Resef, en sy seun Telag, en sy seun Tahan;"
 "sy seun Láedan; sy seun Ammihud; sy seun Elisáma;"
 "sy seun was Nun, sy seun Josua."
-"En hulle besitting en hulle woonplekke was Bet-el met sy onderhorige plekke; en teen die ooste Náäran, en teen die weste Geser met sy onderhorige plekke; en Sigem met sy onderhorige plekke tot by Ajja met sy onderhorige plekke."
-"En onder die bestuur van die seuns van Manasse was Bet-Séan met sy onderhorige plekke, Táänag met sy onderhorige plekke, Megíddo met sy onderhorige plekke, Dor met sy onderhorige plekke. Hierin het die seuns van Josef, die seun van Israel, gewoon."
+"En hulle besitting en hulle woonplekke was Bet-el met sy onderhorige plekke; en teen die ooste Náäran, en teen die #weste Geser met sy onderhorige plekke; en Sigem met sy onderhorige plekke tot by Ajja met sy onderhorige plekke."
+"En onder die bestuur van die seuns van Manasse was Bet-Séan met sy onderhorige plekke, Táänag met sy onderhorige plekke, Megíddo #met sy onderhorige plekke, Dor met sy onderhorige plekke. Hierin het die seuns van Josef, die seun van Israel, gewoon."
 "Die seuns van Aser was
 "En die seuns van Bería was Heber en Málkiël; hy was die vader van Birsájit."
 "En Heber was die vader van Jaflet, en van Somer en Hotam en Sua, hulle suster."
@@ -37,4 +37,4 @@
 "Beser en Hod en Samma en Silsa en Jitran en Beëra."
 "En die seuns van Jeter was
 "En die seuns van Ulla was
-"Hulle almal was seuns van Aser, hoofde van families, uitgesoekte dapper helde, hoofde van die vorste; en hulle geslagsregister het betrekking gehad op diens in die oorlog; hulle aantal was ses en twintig duisend man."
+"Hulle almal was seuns van Aser, hoofde van families, uitgesoekte dapper helde, hoofde van die vorste; en hulle #geslagsregister het betrekking gehad op diens in die oorlog; hulle aantal was ses en twintig duisend man."

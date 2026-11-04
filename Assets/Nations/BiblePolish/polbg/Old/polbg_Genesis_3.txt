@@ -3,7 +3,7 @@
 "Ale z owocu drzewa, które jest w pośród sadu, rzekł Bóg
 "I rzekł wąż do niewiasty
 "Ale wie Bóg, że któregokolwiek dnia z niego jeść będziecie, otworzą się oczy wasze; a będziecie jako bogowie, znający dobre i złe."
-"Widząc tedy niewiasta, iż dobre było drzewo ku jedzeniu; a iż było wdzięczne na wejrzeniu, a pożądliwe drzewo dla nabycia umiejętności, wzięła z owocu jego, i jadła; dała też i mężowi swemu, który z nią był; i on też jadł."
+"Widząc tedy niewiasta, iż dobre było drzewo ku jedzeniu; a iż było wdzięczne na wejrzeniu, a pożądliwe drzewo dla nabycia umiejętności, #wzięła z owocu jego, i jadła; dała też i mężowi swemu, który z nią był; i on też jadł."
 "Zatem otworzyły się oczy obojga, i poznali, że byli nagimi; i spletli liście figowe, a poczynili sobie zasłony."
 "A wtem usłyszeli głos Pana Boga chodzącego po sadzie z wiatrem dniowym; i skrył się Adam, i żona jego od oblicza Pana Boga między drzewa sadu."
 "I zawołał Pan Bóg Adama, i rzekł mu

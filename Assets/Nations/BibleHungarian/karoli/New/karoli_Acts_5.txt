@@ -18,7 +18,7 @@
 "És ráveték kezöket az apostolokra, és a közönséges tömlöczbe tevék õket."
 "Hanem az Úrnak angyala éjszaka megnyitá a tömlöcz ajtaját, és kihozván õket, monda
 "Menjetek el, és felállván, hirdessétek a templomban a népnek ez életnek minden beszédit!"
-"Azok pedig [ezt] hallván, bemenének jó reggel a templomba, és tanítának. A fõpap pedig elmenvén és a vele levõk, egybehívák a gyûlést, és Izráel fiainak egész tanácsát, és küldének a tömlöczbe, hogy azokat elõhozzák."
+"Azok pedig [ezt] hallván, bemenének jó reggel a templomba, és tanítának. A fõpap pedig elmenvén és a vele #levõk, egybehívák a gyûlést, és Izráel fiainak egész tanácsát, és küldének a tömlöczbe, hogy azokat elõhozzák."
 "Mikor azonban a poroszlók oda mentek, nem találák õket a tömlöczben; visszatérvén tehát, megjelenték,"
 "Mondván
 "A mint pedig hallották e szavakat a pap és a templom felügyelõje és a fõpapok, zavarban voltak azok miatt, mi lehet ez?"
@@ -33,7 +33,7 @@
 "Azok pedig ezeket hallván, fogukat csikorgaták, és arról tanácskozának, hogy megölik õket."
 "Felkelvén azonban a tanácsban egy farizeus, névszerint Gamáliel, az egész nép elõtt tisztelt törvénytudó, parancsolá, hogy egy kis idõre vezessék ki az apostolokat."
 "És monda azoknak
-"Mert ez idõnek elõtte felkelt Theudás, azt mondván, hogy õ valaki, kihez mintegy négyszáz embernyi tömeg csatlakozott; õ megöletett, és mindnyájan, a kik csak követték õt, eloszlottak és semmivé lettek."
+"Mert ez idõnek elõtte felkelt Theudás, azt mondván, hogy õ valaki, kihez mintegy négyszáz embernyi tömeg #csatlakozott; õ megöletett, és mindnyájan, a kik csak követték õt, eloszlottak és semmivé lettek."
 "Ezután felkelt ama Galileus Júdás az összeírás idején, és sok népet maga után csábított
 "Mostanra nézve is mondom néktek, álljatok el ez emberektõl, és hagyjatok békét nékik
 "Ha pedig Istentõl van, ti fel nem bonthatjátok azt; nehogy esetleg Isten ellen harczolóknak is találtassatok."

@@ -9,7 +9,7 @@
 "Puis Dieu dit à Abraham
 "Voici mon alliance que vous garderez, et qui sera entre moi et vous, et ta postérité après toi
 "Et vous circoncirez votre chair, et ce sera un signe d'alliance entre moi et vous."
-"A l'âge de huit jours tout mâle sera circoncis parmi vous, dans vos générations, tant celui qui est né dans la maison que celui qui, acheté à prix d'argent de quelque étranger que ce soit, n'est point de ta race;"
+"A l'âge de huit jours tout mâle sera circoncis parmi vous, dans vos générations, tant celui qui est né dans la #maison que celui qui, acheté à prix d'argent de quelque étranger que ce soit, n'est point de ta race;"
 "On ne manquera pas de circoncire celui qui est né dans ta maison, et celui qui a été acheté de ton argent; et mon alliance sera dans votre chair une alliance éternelle."
 "L'incirconcis, le mâle qui ne se circoncira pas dans sa chair, sera retranché d'entre ses peuples
 "Dieu dit à Abraham
@@ -20,7 +20,7 @@
 "Je t'exauce aussi touchant Ismaël
 "Mais j'établirai mon alliance avec Isaac, que Sara t'enfantera à cette époque, l'année prochaine."
 "Et quand il eut achevé de parler avec lui, Dieu remonta d'auprès d'Abraham."
-"Et Abraham prit Ismaël son fils et tous ceux qui étaient nés dans sa maison, et tous ceux qu'il avait achetés de son argent, tous les mâles parmi les gens de la maison d'Abraham; et il circoncit leur chair en ce même jour-là, comme Dieu le lui avait dit."
+"Et Abraham prit Ismaël son fils et tous ceux qui étaient nés dans sa maison, et tous ceux qu'il avait achetés de son argent, tous #les mâles parmi les gens de la maison d'Abraham; et il circoncit leur chair en ce même jour-là, comme Dieu le lui avait dit."
 "Or Abraham était âgé de quatre-vingt-dix-neuf ans, quand il se circoncit."
 "Et Ismaël son fils avait treize ans, lorsqu'il fut circoncis."
 "Abraham et Ismaël son fils furent circoncis en ce même jour-là."

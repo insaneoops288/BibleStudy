@@ -1,5 +1,5 @@
 "Or, quelques personnes venues de Judée, enseignaient les frères, en disant
-"Une grande contestation et une dispute s'étant donc élevée entre Paul et Barnabas et eux, il fut résolu que Paul et Barnabas, et quelques-uns d'entre eux, monteraient à Jérusalem, auprès des apôtres et des anciens, pour traiter cette question."
+"Une grande contestation et une dispute s'étant donc élevée entre Paul et Barnabas et eux, il fut résolu que Paul #et Barnabas, et quelques-uns d'entre eux, monteraient à Jérusalem, auprès des apôtres et des anciens, pour traiter cette question."
 "Étant donc envoyés par l'Église, ils traversèrent la Phénicie et la Samarie, racontant la conversion des Gentils; et ils donnèrent une grande joie à tous les frères."
 "Et étant arrivés à Jérusalem, ils furent reçus par l'Église, et les apôtres et les anciens, et ils racontèrent toutes les choses que Dieu avait faites par eux."
 "Mais quelques-uns de la secte des Pharisiens, qui avaient cru, se levèrent, en disant qu'il fallait circoncire les Gentils, et leur ordonner de garder la loi de Moïse."
@@ -19,9 +19,9 @@
 "C'est pourquoi j'estime qu'il ne faut point inquiéter ceux des Gentils qui se convertissent à Dieu;"
 "Mais leur écrire de s'abstenir des souillures des idoles, de la fornication, et du sang des animaux étouffés."
 "Car depuis plusieurs siècles, il y a dans chaque ville, des gens qui prêchent Moïse dans les synagogues, où on le lit tous les jours de sabbat."
-"Alors, les apôtres et les anciens avec toute l'Église jugèrent à propos d'envoyer à Antioche des hommes choisis parmi eux, avec Paul et Barnabas, savoir, Jude, surnommé Barsabas, et Silas, hommes considérés parmi les frères;"
+"Alors, les apôtres et les anciens avec toute l'Église jugèrent à propos d'envoyer à Antioche des hommes choisis #parmi eux, avec Paul et Barnabas, savoir, Jude, surnommé Barsabas, et Silas, hommes considérés parmi les frères;"
 "En écrivant ceci par leur intermédiaire
-"Comme nous avons appris que quelques personnes venues de chez nous, vous ont troublés par leurs discours, et ébranlent vos âmes, en disant qu'il faut être circoncis et garder la loi; ce que nous ne leur avons point ordonné;"
+"Comme nous avons appris que quelques personnes venues de chez nous, vous ont troublés par leurs discours, et ébranlent vos #âmes, en disant qu'il faut être circoncis et garder la loi; ce que nous ne leur avons point ordonné;"
 "Il nous a paru bon, d'un commun accord, de vous envoyer des hommes choisis, avec nos bien-aimés Barnabas et Paul,"
 "Hommes qui ont exposé leur vie pour le nom de notre Seigneur Jésus-Christ."
 "Nous vous envoyons donc Jude et Silas, qui vous annonceront de bouche les mêmes choses."

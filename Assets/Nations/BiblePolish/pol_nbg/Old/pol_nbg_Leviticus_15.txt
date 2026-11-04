@@ -22,7 +22,7 @@
 "A kto się dotknął jakiegokolwiek sprzętu na którym siedziała wypierze swoje szaty, umyje się wodą i będzie nieczystym do wieczora."
 "Jeśli cokolwiek było na jej łożu, albo na sprzęcie na którym siedziała i ktoś się tego dotknął, także będzie nieczystym do wieczora."
 "A gdyby mąż z nią obcował i będzie na nim jej wydzielina będzie nieczystym przez siedem dni, oraz będzie nieczyste każde łoże na którym leżał."
-"A jeśli niewiasta miała upływ krwi przez wiele dni nie w czasie swojej słabości, albo gdyby miała upływ po swojej słabości to przez cały czas upływu jej nieczystości będzie nieczystą; tak, jak za dni swojej słabości."
+"A jeśli niewiasta miała upływ krwi przez wiele dni nie w czasie swojej słabości, albo gdyby miała upływ po #swojej słabości to przez cały czas upływu jej nieczystości będzie nieczystą; tak, jak za dni swojej słabości."
 "Każda pościel na której leżała przez cały czas swojego upływu będzie jak pościel podczas jej słabości; każda rzecz na której siedziała będzie nieczysta jak podczas jej słabości."
 "A kto się tego dotknie będzie nieczystym; wypierze swoje szaty, wykąpie się w wodzie i będzie nieczystym do wieczora."
 "A kiedy się oczyści od swoich upławów odliczy sobie siedem dni, a potem będzie czystą."

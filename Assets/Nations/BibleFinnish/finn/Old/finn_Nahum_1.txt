@@ -11,5 +11,5 @@
 "Niin pitää oleman se kavala juoni, joka sinusta tulee ulos, ja pahaa ajattelee Herraa vastaan."
 "Näin sanoo Herra
 "Vaan tahdon silloin hänen ikeensä sinusta särkeä, ja reväistä rikki sinun sitees."
-"Mutta sinua vastaan on Herra käskenyt, ettei yksikään sinun nimes siemen pysymän pidä. Sinun Jumalas huoneesta tahdon minä hukuttaa sinun epäjumalas, ja kuvas tahdon minä sinulle haudaksi tehdä; sillä sinä olet tyhjäksi tullut."
-"Katso, suloisten saarnaajain jalat ovat vuorilla, niiden jotka rauhaa julistavat; pidä sinun juhlapäiväs, Juuda, ja maksa lupaukses; sillä ei se jumalatoin pidä enään tuleman sinun päälles, joka on kokonaan hävitetty."
+"Mutta sinua vastaan on Herra käskenyt, ettei yksikään sinun nimes siemen pysymän pidä. Sinun Jumalas huoneesta tahdon #minä hukuttaa sinun epäjumalas, ja kuvas tahdon minä sinulle haudaksi tehdä; sillä sinä olet tyhjäksi tullut."
+"Katso, suloisten saarnaajain jalat ovat vuorilla, niiden jotka rauhaa julistavat; pidä sinun juhlapäiväs, Juuda, ja maksa #lupaukses; sillä ei se jumalatoin pidä enään tuleman sinun päälles, joka on kokonaan hävitetty."

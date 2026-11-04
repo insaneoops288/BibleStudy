@@ -3,7 +3,7 @@
 "Mas do fruto da árvore que está em meio do jardim disse Deus
 "Então a serpente disse à mulher
 "Mas sabe Deus que no dia que comerdes dele, serão abertos vossos olhos, e sereis como deuses sabendo o bem e o mal."
-"E viu a mulher que a árvore era boa para comer, e que era agradável aos olhos, e árvore cobiçável para alcançar a sabedoria; e tomou de seu fruto, e comeu; e deu também a seu marido, o qual comeu assim como ela."
+"E viu a mulher que a árvore era boa para comer, e que era agradável aos olhos, e árvore cobiçável para alcançar #a sabedoria; e tomou de seu fruto, e comeu; e deu também a seu marido, o qual comeu assim como ela."
 "E foram abertos os olhos de ambos, e conheceram que estavam nus
 "E ouviram a voz do SENHOR Deus que se passeava no jardim ao esfriar do dia
 "E chamou o SENHOR Deus ao homem, e lhe disse

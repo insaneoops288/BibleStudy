@@ -16,7 +16,7 @@
 "Megcsinálá az asztalra való edényeket is
 "Megcsinálá a gyertyatartót is tiszta aranyból, vert [aranyból] csinálá a gyertyatartót; szára, ága, csészéi, gombjai és virágai õ magából valának."
 "És hat ág jöve ki oldalaiból; egyik oldalról is három gyertyatartó-ág, másik oldalról is három gyertyatartó-ág."
-"Három mandolavirágformájú csésze vala az egyik ágon, gombbal és virággal; így a másik ágon is három mandolavirágformájú csésze vala gombbal és virággal; így vala mind a hat ágon, a melyek kijövének a gyertyatartóból."
+"Három mandolavirágformájú csésze vala az egyik ágon, gombbal és virággal; így a másik ágon is három mandolavirágformájú #csésze vala gombbal és virággal; így vala mind a hat ágon, a melyek kijövének a gyertyatartóból."
 "A gyertyatartón pedig négy mandolavirágformájú csésze vala, gombjaikkal és virágaikkal."
 "És gomb vala a két ág alatt õ magából, és gomb vala a két ág alatt õ magából, és gomb vala a két ág alatt õ magából, a hat ág szerint, a mely belõle jöve ki."
 "Gombjaik és ágaik belõle valának; az egész egy vert munka vala, tiszta aranyból."

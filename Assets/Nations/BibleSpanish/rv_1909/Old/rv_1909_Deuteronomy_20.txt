@@ -1,4 +1,4 @@
-"CUANDO salieres á la guerra contra tus enemigos, y vieres caballos y carros, un pueblo más grande que tú, no tengas temor de ellos, que Jehová tu Dios es contigo, el cual te sacó de tierra de Egipto."
+"CUANDO salieres á la guerra contra tus enemigos, y vieres caballos y carros, un pueblo más grande que tú, no #tengas temor de ellos, que Jehová tu Dios es contigo, el cual te sacó de tierra de Egipto."
 "Y será que, cuando os acercareis para combatir, llegaráse el sacerdote, y hablará al pueblo,"
 "Y les dirá
 "Que Jehová vuestro Dios anda con vosotros, para pelear por vosotros contra vuestros enemigos, para salvaros."
@@ -16,5 +16,5 @@
 "Empero de las ciudades de estos pueblos que Jehová tu Dios te da por heredad, ninguna persona dejarás con vida;"
 "Antes del todo los destruirás
 "Porque no os enseñen á hacer según todas sus abominaciones, que ellos hacen á sus dioses, y pequéis contra Jehová vuestro Dios."
-"Cuando pusieres cerco á alguna ciudad, peleando contra ella muchos días para tomarla, no destruyas su arboleda metiendo en ella hacha, porque de ella comerás; y no la talarás, que no es hombre el árbol del campo para venir contra ti en el cerco."
+"Cuando pusieres cerco á alguna ciudad, peleando contra ella muchos días para tomarla, no destruyas su arboleda metiendo en ella hacha, porque de #ella comerás; y no la talarás, que no es hombre el árbol del campo para venir contra ti en el cerco."
 "Mas el árbol que supieres que no es árbol para comer, lo destruirás y lo talarás, y construye baluarte contra la ciudad que pelea contigo, hasta sojuzgarla."

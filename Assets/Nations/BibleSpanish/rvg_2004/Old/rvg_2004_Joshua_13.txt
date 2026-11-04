@@ -1,9 +1,9 @@
 "Y siendo Josué ya viejo, entrado en días, Jehová le dijo
 "Ésta es la tierra que queda; todos los términos de los filisteos, y todos los de los gesureos;"
-"desde Sihor, que está delante de Egipto, hasta el término de Ecrón al norte, que se considera de los cananeos; de los cinco príncipes de los filisteos; el gazeo, el asdodeo, el ascaloneo, el geteo y el ecroneo; también los aveos;"
+"desde Sihor, que está delante de Egipto, hasta el término de Ecrón al norte, que se considera de los cananeos; de #los cinco príncipes de los filisteos; el gazeo, el asdodeo, el ascaloneo, el geteo y el ecroneo; también los aveos;"
 "al sur toda la tierra de los cananeos, y Mehara que es de los sidonios, hasta Afec, hasta el término del amorreo;"
 "y la tierra de los giblitas, y todo el Líbano hacia donde sale el sol, desde Baal-gad a las raíces del monte Hermón, hasta entrar en Hamat;"
-"a todos los que habitan en las montañas desde el Líbano hasta las aguas calientes, a todos los sidonios; yo los desarraigaré delante de los hijos de Israel; solamente reparte tú por suerte la tierra a los israelitas como heredad, tal como te he mandado."
+"a todos los que habitan en las montañas desde el Líbano hasta las aguas calientes, a todos los sidonios; yo los desarraigaré delante #de los hijos de Israel; solamente reparte tú por suerte la tierra a los israelitas como heredad, tal como te he mandado."
 "Reparte, pues, tú ahora esta tierra en heredad a las nueve tribus, y a la media tribu de Manasés."
 "Porque la otra media recibió su heredad con los rubenitas y gaditas, la cual les dio Moisés de la otra parte del Jordán al oriente, según que se la dio Moisés siervo de Jehová
 "Desde Aroer, que está a la orilla del arroyo de Arnón, y la ciudad que está en medio del arroyo, y toda la llanura de Medeba, hasta Dibón;"
@@ -18,7 +18,7 @@
 "y Jahaza, y Cademot, y Mefaat,"
 "y Quiriataim, y Sibma, y Zeretshahar en el monte del valle;"
 "y Bet-peor, y Asdot-pisga, y Bet-jesimot;"
-"y todas las ciudades de la llanura, y todo el reino de Sehón rey de los amorreos, que reinó en Hesbón, al cual hirió Moisés, y a los príncipes de Madián, Hevi, Requem, Zur, Hur y Reba, príncipes de Sehón que habitaban en aquella tierra."
+"y todas las ciudades de la llanura, y todo el reino de Sehón rey de los amorreos, que reinó en Hesbón, al cual #hirió Moisés, y a los príncipes de Madián, Hevi, Requem, Zur, Hur y Reba, príncipes de Sehón que habitaban en aquella tierra."
 "También mataron a espada los hijos de Israel a Balaam el adivino, hijo de Beor, con los demás que mataron."
 "Y fueron los términos de los hijos de Rubén el Jordán con su término. Ésta fue la herencia de los hijos de Rubén conforme a sus familias, estas ciudades con sus aldeas."
 "Dio asimismo Moisés a la tribu de Gad, a los hijos de Gad, conforme a sus familias."

@@ -2,7 +2,7 @@
 "Kështu gruaja u ngrit dhe veproi sipas fjalës së njeriut të Perëndisë; iku me familjen e saj dhe banoi në vendin e Filistejve shtatë vjet."
 "Si kaluan shtatë vjet, gruaja u kthye nga vendi i Filistejve dhe shkoi te mbreti për t'i kërkuar shtëpinë dhe tokat e veta."
 "Mbreti ishte duke folur me Gehazin, shërbëtorin e njeriut të Perëndisë, dhe i thoshte
-"Pikërisht, ndërsa ai i tregonte mbretit se si Eliseu e kishte ringjallur të vdekurin, ja ku u paraqit gruaja, së cilës ai i kishte ringjallur të birin, për t'i kërkuar mbretit shtëpinë dhe tokat e veta. Atëherë Gehazi tha
+"Pikërisht, ndërsa ai i tregonte mbretit se si Eliseu e kishte ringjallur të vdekurin, ja ku u paraqit gruaja, së #cilës ai i kishte ringjallur të birin, për t'i kërkuar mbretit shtëpinë dhe tokat e veta. Atëherë Gehazi tha
 "Mbreti e pyeti gruan dhe ajo i tregoi ngjarjen; atëherë mbreti ngarkoi një funksionar, të cilit i tha
 "Pastaj Eliseu shkoi në Damask. Ben-Hadadi, mbret i Sirisë, ishte i sëmurë dhe e njoftuan
 "Atëherë mbreti i tha Hazaelit
@@ -26,4 +26,4 @@
 "Ashaziahu ishte njëzet e dy vjeç kur filloi të mbretërojë, dhe mbretëroi një vit në Jeruzalem. E ëma quhej Athaliah, ishte mbesa e Omrit, mbretit të Izraelit."
 "Ai vazhdoi rrugën e shtëpisë së Ashabit dhe bëri atë që është e keqe në sytë e Zotit, ashtu si shtëpia e Ashabit, sepse ishte i lidhur me marrëdhënie krushqie me shtëpinë e Ashabit."
 "Me Joramin, birin e Ashabit, ai shkoi të luftojë kundër Hazaelit, mbretit të Sirisë, në Ramoth të Galaadit; por Sirët plagosën Joramin;"
-"atëherë mbreti Joram u kthye në Jezreel për të mjekuar plagët që kishte marrë nga Sirët në Ramah, kur luftonte kundër Hazaelit, mbretit të Sirisë. Dhe Ashaziahu, bir i Jerohamit mbret i Judës, zbriti në Jezreel për të parë Joramin, birin e Ashabit, sepse ky ishte i sëmurë."
+"atëherë mbreti Joram u kthye në Jezreel për të mjekuar plagët që kishte marrë nga Sirët në Ramah, kur luftonte kundër Hazaelit, mbretit të Sirisë. #Dhe Ashaziahu, bir i Jerohamit mbret i Judës, zbriti në Jezreel për të parë Joramin, birin e Ashabit, sepse ky ishte i sëmurë."

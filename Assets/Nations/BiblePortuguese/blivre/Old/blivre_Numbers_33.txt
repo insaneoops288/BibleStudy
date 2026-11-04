@@ -52,5 +52,5 @@
 "Expulsareis a todos os moradores do país de diante de vós, e destruireis todas suas imagens esculpidas, e todas suas imagens de fundição, e arruinareis todos os seus altos;"
 "E expulsareis os moradores da terra, e habitareis nela; porque eu a dei a vós para que a possuais."
 "E herdareis a terra por sortes por vossas famílias
-"E se não expulsardes os moradores do país de diante de vós, sucederá que os que deixardes deles serão por aguilhões em vossos olhos, e por espinhos em vossos lados, e vos afligirão sobre a terra em que vós habitardes."
+"E se não expulsardes os moradores do país de diante de vós, sucederá que os que deixardes deles serão por aguilhões #em vossos olhos, e por espinhos em vossos lados, e vos afligirão sobre a terra em que vós habitardes."
 "Será também, que farei a vós como eu pensei fazer a eles."

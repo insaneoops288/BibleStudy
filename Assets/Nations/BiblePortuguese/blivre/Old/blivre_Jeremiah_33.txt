@@ -6,11 +6,11 @@
 "Eis que eu lhes trarei saúde e cura, e os sararei; e lhes manifestarei abundância de paz e de verdade."
 "E reverterei o cativeiro de Judá e o cativeiro de Israel, e os edificarei como no princípio."
 "E os purificarei de toda a sua maldade [com] que pecaram contra mim; e perdoarei todas as suas maldades [com] que pecaram contra mim, e que se rebelaram contra mim."
-"E [esta cidade] será para mim como nome de alegria, de louvor e de glória, entre todas as nações da terra, que ouvirem todo o bem que eu lhes faço; e se espantarão e tremerão por causa de todo o bem e de toda a paz que eu lhes darei."
+"E [esta cidade] será para mim como nome de alegria, de louvor e de glória, entre todas as nações da terra, que ouvirem todo o bem #que eu lhes faço; e se espantarão e tremerão por causa de todo o bem e de toda a paz que eu lhes darei."
 "Assim diz o SENHOR
 "Voz de júbilo e voz de alegria, voz de noivo e voz de noiva, e voz dos que dizem
 "Assim diz o SENHOR dos exércitos
-"Nas cidades das montanhas, nas cidades das planícies, nas cidades do Negueve, na terra de Benjamim, e ao redor de Jerusalém e nas cidades de Judá, novamente passará o gado pelas mãos dos contadores, diz o SENHOR."
+"Nas cidades das montanhas, nas cidades das planícies, nas cidades do Negueve, na terra de Benjamim, e ao redor #de Jerusalém e nas cidades de Judá, novamente passará o gado pelas mãos dos contadores, diz o SENHOR."
 "Eis que vêm dias, diz o SENHOR, em que eu confirmarei a boa palavra que prometi à casa de Israel e à casa de Judá."
 "Naqueles dias e naquele tempo farei brotar a Davi um Renovo de justiça; e ele fará juízo e justiça na terra."
 "Naqueles dias Judá será salvo, e Jerusalém habitará em segurança, e isto é o que a chamarão
@@ -23,4 +23,4 @@
 "E veio a palavra do SENHOR a Jeremias, dizendo
 "Por acaso não tens visto o que este povo fala? Eles dizem
 "Assim diz o SENHOR
-"Então também rejeitaria a semente de Jacó, e de Davi meu servo, para que não tomasse de sua descendência aos que governem sobre a descendência de Abraão, Isaque, e Jacó. Pois reverterei seu cativeiro, e terei deles misericórdia."
+"Então também rejeitaria a semente de Jacó, e de Davi meu servo, para que não tomasse de sua descendência aos #que governem sobre a descendência de Abraão, Isaque, e Jacó. Pois reverterei seu cativeiro, e terei deles misericórdia."

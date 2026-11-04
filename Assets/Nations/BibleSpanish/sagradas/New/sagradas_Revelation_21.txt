@@ -5,7 +5,7 @@
 "Y el que estaba sentado en el trono dijo
 "Y me dijo
 "El que venciere, recibirá todas las cosas por heredad; y yo seré su Dios, y él será mi hijo."
-"Mas a los temerosos, e incrédulos, a los abominables, y homicidas, a los fornicarios y hechiceros, y a los idólatras, y a todos los mentirosos, su parte será en el lago ardiendo de fuego y de azufre, que es la muerte segunda."
+"Mas a los temerosos, e incrédulos, a los abominables, y homicidas, a los fornicarios y hechiceros, y a los idólatras, y a #todos los mentirosos, su parte será en el lago ardiendo de fuego y de azufre, que es la muerte segunda."
 "Y vino a mí uno de los siete ángeles que tenían las siete copas llenas de las siete postreras plagas, y habló conmigo, diciendo
 "Y me llevó en <I>el</I>  espíritu a un gran y alto monte, y me mostró la gran Ciudad santa de Jerusalén, que descendía del cielo de con Dios,"
 "teniendo la claridad de Dios; y su lumbre era semejante a una piedra preciosísima, como piedra de jaspe, resplandeciente como cristal."
@@ -13,7 +13,7 @@
 "Al oriente tres puertas; al aquilón tres puertas; al mediodía tres puertas; al poniente tres puertas."
 "Y el muro de la Ciudad tenía doce fundamentos; y en ellos los nombres de los doce apóstoles del Cordero."
 "Y el que hablaba conmigo, tenía una caña de oro, para medir la ciudad, y sus puertas, y su muro."
-"Y la ciudad está situada y puesta cuadrangular, y su largura es tanta como su anchura. Y él midió la Ciudad con la caña de oro, doce mil estadios; y la largura y la altura y la anchura de ella son iguales."
+"Y la ciudad está situada y puesta cuadrangular, y su largura es tanta como su anchura. Y él midió la Ciudad con #la caña de oro, doce mil estadios; y la largura y la altura y la anchura de ella son iguales."
 "Y midió su muro de ciento cuarenta y cuatro codos, de medida de hombre, la cual es de ángel."
 "Y el material de su muro era de jaspe; mas la Ciudad era de oro puro, semejante al vidrio limpio."
 "Y los fundamentos del muro de la Ciudad estaban adornados de toda piedra preciosa. El primer fundamento era jaspe; el segundo, zafiro; el tercero, calcedonia; el cuarto, esmeralda;"

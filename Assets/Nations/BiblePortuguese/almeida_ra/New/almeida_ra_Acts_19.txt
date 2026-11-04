@@ -24,7 +24,7 @@
 "Porque certo ourives, por nome Demétrio, que fazia da prata miniaturas do templo de Diana, proporcionava não pequeno negócio aos artífices,"
 "os quais ele ajuntou, bem como os oficiais de obras semelhantes, e disse
 "e estais vendo e ouvindo que não é só em Éfeso, mas em quase toda a Ásia, este Paulo tem persuadido e desviado muita gente, dizendo não serem deuses os que são feitos por mãos humanas."
-"E não somente há perigo de que esta nossa profissão caia em descrédito, mas também que o templo da grande deusa Diana seja estimado em nada, vindo mesmo a ser destituída da sua majestade aquela a quem toda a Ásia e o mundo adoram."
+"E não somente há perigo de que esta nossa profissão caia em descrédito, mas também que o templo da grande deusa Diana seja #estimado em nada, vindo mesmo a ser destituída da sua majestade aquela a quem toda a Ásia e o mundo adoram."
 "Ao ouvirem isso, encheram-se de ira, e clamavam, dizendo
 "A cidade encheu-se de confusão, e todos à uma correram ao teatro, arrebatando a Gaio e a Aristarco, macedónios, companheiros de Paulo na viagem."
 "Querendo Paulo apresentar-se ao povo, os discípulos não lho permitiram."

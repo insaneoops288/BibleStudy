@@ -26,7 +26,7 @@
 "Laadán su hijo, Amiud su hijo, Elisama su hijo,"
 "Nun su hijo, Josué su hijo."
 "Y la heredad y habitación de ellos fue Betel con sus aldeas; y hacia el oriente Naarán, y a la parte del occidente Gezer y sus aldeas; asimismo Siquem con sus aldeas, hasta Gaza y sus aldeas."
-"Y junto al territorio de los hijos de Manasés, Bet-seán con sus aldeas, Taanac con sus aldeas, Megido con sus aldeas, Dor con sus aldeas. En estos lugares habitaron los hijos de José, hijo de Israel."
+"Y junto al territorio de los hijos de Manasés, Bet-seán con sus aldeas, Taanac con sus aldeas, Megido con #sus aldeas, Dor con sus aldeas. En estos lugares habitaron los hijos de José, hijo de Israel."
 "Los hijos de Aser
 "Los hijos de Bería
 "Y Heber engendró a Jaflet, Semer, Hotam, y Súa hermana de ellos."
@@ -37,4 +37,4 @@
 "Beser, Hod, Sama, Silsa, Itrán y Beera."
 "Los hijos de Jeter
 "Y los hijos de Ula; Ara, y Haniel y Resia."
-"Y todos éstos fueron hijos de Aser, cabezas de familias paternas, escogidos, esforzados, cabezas de príncipes; y el número por sus linajes de entre los que podían tomar las armas e ir a la guerra fue veintiséis mil hombres."
+"Y todos éstos fueron hijos de Aser, cabezas de familias paternas, escogidos, esforzados, cabezas de príncipes; y el número por #sus linajes de entre los que podían tomar las armas e ir a la guerra fue veintiséis mil hombres."

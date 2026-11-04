@@ -8,7 +8,7 @@
 "Vy pak hory Izraelské, ratolesti své vypouštěti, a ovoce své přinášeti budete lidu mému Izraelskému, když se přiblíží a přijdou."
 "Nebo aj, já jsem s vámi, a patřím na vás, abyste dělány a osívány byly."
 "A rozmnožím v vás lidi, všecken dům Izraelský, jakýžkoli jest, i budou se osazovati města, a pustiny vzdělávati."
-"Rozmnožím, pravím, v vás lidi i hovada, a budou se množiti a ploditi, i učiním, že bydliti budete jako za předešlých let vašich, čině vám dobře, více než v prvotinách vašich. A zvíte, že já jsem Hospodin."
+"Rozmnožím, pravím, v vás lidi i hovada, a budou se množiti a ploditi, i učiním, že bydliti budete jako #za předešlých let vašich, čině vám dobře, více než v prvotinách vašich. A zvíte, že já jsem Hospodin."
 "Nebo uvedu do vás lidi, lid svůj Izraelský, a budou tebou dědičně vládnouti; a budeš jim za dědictví, aniž kdy více siroby na ně uvedeš."
 "Takto praví Panovník Hospodin
 "Protož nebudeš více zžírati lidi, a národů svých více k sirobě přivoditi, praví panovník Hospodin."
@@ -20,7 +20,7 @@
 "Nýbrž odšedše mezi národy, kamž přišli, poškvrnili jména svatosti mé, když říkáno o nich
 "Ale slitoval jsem se pro jméno svatosti své, kteréhož poškvrnili dům Izraelský mezi národy, kamž přišli."
 "Protož rci domu Izraelskému
-"Abych posvětil jména svého velikého, kteréž bylo poškvrněno mezi národy, kteréhož jste poškvrnili u prostřed nich, aby poznali národové, že já jsem Hospodin, praví Panovník Hospodin, když posvěcen budu v vás před očima jejich."
+"Abych posvětil jména svého velikého, kteréž bylo poškvrněno mezi národy, kteréhož jste poškvrnili u prostřed nich, aby poznali #národové, že já jsem Hospodin, praví Panovník Hospodin, když posvěcen budu v vás před očima jejich."
 "Nebo poberu vás z národů, a shromáždím vás ze všech zemí, a uvedu vás do země vaší."
 "A pokropím vás vodou čistou, a čisti budete; ode všech poškvrn vašich, i ode všech ukydaných bohů vašich očistím vás."
 "A dám vám srdce nové, a ducha nového dám do vnitřností vašich, a odejma srdce kamenné z těla vašeho, dám vám srdce masité."

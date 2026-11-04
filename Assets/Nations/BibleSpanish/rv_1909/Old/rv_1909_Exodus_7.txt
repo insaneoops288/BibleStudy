@@ -17,7 +17,7 @@
 "Así ha dicho Jehová
 "Y los peces que hay en el río morirán, y hederá el río, y tendrán asco los Egipcios de beber el agua del río."
 "Y Jehová dijo á Moisés
-"Y Moisés y Aarón hicieron como Jehová lo mandó; y alzando la vara hirió las aguas que había en el río, en presencia de Faraón y de sus siervos; y todas las aguas que había en el río se convirtieron en sangre."
+"Y Moisés y Aarón hicieron como Jehová lo mandó; y alzando la vara hirió las aguas que había en el río, en #presencia de Faraón y de sus siervos; y todas las aguas que había en el río se convirtieron en sangre."
 "Asimismo los peces que había en el río murieron; y el río se corrompió, que los Egipcios no podían beber de él
 "Y los encantadores de Egipto hicieron lo mismo con sus encantamientos
 "Y tornando Faraón volvióse á su casa, y no puso su corazón aun en esto."

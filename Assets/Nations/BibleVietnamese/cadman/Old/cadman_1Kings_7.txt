@@ -1,5 +1,5 @@
 "Sa-lô-môn cũng cất cung điện mình, xong mọi việc trong mười ba năm."
-"Người lại cất cái cung rừng Li-ban, bề dài một trăm thước, bề ngang năm mươi thước và bề cao ba mươi thước, đặt trên bốn hàng cột bằng gỗ bá hương có những xà ngang bằng gỗ bá hương để trên những cột."
+"Người lại cất cái cung rừng Li-ban, bề dài một trăm thước, bề ngang năm mươi thước và bề cao ba mươi thước, #đặt trên bốn hàng cột bằng gỗ bá hương có những xà ngang bằng gỗ bá hương để trên những cột."
 "Trần của các phòng bởi cột chống đỡ, số là bốn mươi lăm cây, mười lăm cây mỗi dãy, đều đóng bằng ván gỗ bá hương."
 "Có ba dãy phòng, cửa sổ đối ngang nhau."
 "Hết thảy cửa và cột đều vuông, và các cửa sổ của ba dãy phòng đều đối mặt nhau."
@@ -11,7 +11,7 @@
 "Trên các nền này, lại còn những đá quí đục theo thước tấc và gỗ bá hương."
 "Vách hành lang lớn, tứ vi có ba hàng đá chạm và một hàng cây đà bằng gỗ bá hương, y như hàng lang phía trong của đền Ðức Giê-hô-va, và y như cửa hiên đền."
 "Vua Sa-lô-môn sai người đòi Hi-ram ở Ty-rơ đến."
-"Người là con trai của một đờn bà góa về chi phái Nép-ta-li, còn cha là người Ty-rơ, làm thợ đồng. Hi-ram đầy sự khôn ngoan, thông hiểu, có tài làm các thứ công việc bằng đồng. Người đến vua Sa-lô-môn, và làm mọi công việc người."
+"Người là con trai của một đờn bà góa về chi phái Nép-ta-li, còn cha là người Ty-rơ, làm thợ đồng. Hi-ram đầy sự #khôn ngoan, thông hiểu, có tài làm các thứ công việc bằng đồng. Người đến vua Sa-lô-môn, và làm mọi công việc người."
 "Người làm hai cây trụ bằng đồng, cây thứ nhất cao mười tám thước, và một sợi dây mười hai thước đo bề tròn của cây thứ nhì."
 "Người đúc hai đầu trụ bằng đồng, đặt nó trên chót trụ, bề cao đầu trụ này là năm thước."
 "Những mặt võng xe lại và những dây hoa trèo như chuyền nhỏ trang điểm đầu trụ đặt ở trên chót trụ; có bảy dây hoa cho đầu trụ này, và bảy dây hoa cho đầu trụ kia."
@@ -22,7 +22,7 @@
 "Trên chót trụ, thì chế hình hoa huệ. Công việc làm những cây trụ đều hoàn thành là như vậy."
 "Người cũng làm biển đúc, hình tròn, cao năm thước; từ mép này đến mép kia có mười thước, một sợi dây ba mươi thước đo vòng tròn của nó."
 "Dưới mép biển có hai hàng dưa ác vây chung quanh, cứ mỗi thước mười trái, đúc liền một với biển."
-"Biển để kê trên mười hai con bò, ba con hướng về bắc, ba con hướng về tây, ba con hướng về nam, và ba con hướng về đông. Biển thì đặt trên lưng các con bò ấy, và phía sau thân con bò đều xây vào trong."
+"Biển để kê trên mười hai con bò, ba con hướng về bắc, ba con hướng về tây, ba con hướng về nam, và ba #con hướng về đông. Biển thì đặt trên lưng các con bò ấy, và phía sau thân con bò đều xây vào trong."
 "Biển đầy một gang tay và mép làm giống mép chén và cách như bông huệ; nó đựng hai ngàn bát."
 "Người cũng làm mười viên táng đồng, mỗi viên bốn thước bề dài, bốn thước bề ngang, và ba thước bề cao."
 "Các viên táng làm cách này
@@ -35,7 +35,7 @@
 "Ðầu viên táng hình tròn nhọn, và cao nửa thước; nó cũng có biên và trám."
 "Trên mặt biên và trám của đế, tại nơi trống của mỗi biên và trám chừa ra, Hi-ram chạm những chê-ru-bin, sư tử, cây chà là, và dây hoa chung quanh."
 "Người theo kiểu này mà làm mười viên táng, đúc một thứ, một cỡ, và một dáng với nhau."
-"Người cũng làm mười cái thùng bằng đồng, mỗi cái chứa bốn mươi bát. Mỗi thùng có bốn thước và để trên một táng của mười cái thùng bằng đồng, mỗi cái chứa bốn mươi bát. Mỗi thùng có bốn thước và để trên một táng của mười cái táng."
+"Người cũng làm mười cái thùng bằng đồng, mỗi cái chứa bốn mươi bát. Mỗi thùng có bốn thước và để trên một táng của mười #cái thùng bằng đồng, mỗi cái chứa bốn mươi bát. Mỗi thùng có bốn thước và để trên một táng của mười cái táng."
 "Người sắp đặt táng như vầy
 "Người cũng làm chảo, vá, và ảng. Vậy, Hi-ram làm xong mọi công việc cho Sa-lô-môn trong đền của Ðức Giê-hô-va
 "tức là hai cây trụ, hai đầu trụ tròn trên đỉnh trụ, hai tấm mặt võng bao hai đầu trụ tròn, luôn với đỉnh trụ;"
@@ -48,4 +48,4 @@
 "Sa-lô-môn lại làm những khí dụng cho đền Ðức Giê-hô-va
 "chơn đèn bằng vàng ròng đặt trước nơi chí thánh, năm cái ở bên hữu và năm cái ở bên tả cùng hoa, thếp đèn, và cái nỉa bằng vàng;"
 "những chén, dao, muỗng, và đồ đựng tro bằng vàng ròng; những chốt cửa hoặc dùng cho cửa của nhà phía trong, hoặc nơi chí thánh, hay là dùng cho cửa của đền thờ, thì đều bằng vàng."
-"Các công việc mà Sa-lô-môn làm cho nhà Ðức Giê-hô-va, đều được hoàn thành là như vậy. Ðoạn, Sa-lô-môn sai đem các vật mà Ða-vít, ca người, đã biệt ra thánh, tức là bạc, vàng, các thứ khí dụng, và để trong kho tàng của đền Ðức Giê-hô-va."
+"Các công việc mà Sa-lô-môn làm cho nhà Ðức Giê-hô-va, đều được hoàn thành là như vậy. Ðoạn, Sa-lô-môn sai đem các vật mà Ða-vít, #ca người, đã biệt ra thánh, tức là bạc, vàng, các thứ khí dụng, và để trong kho tàng của đền Ðức Giê-hô-va."

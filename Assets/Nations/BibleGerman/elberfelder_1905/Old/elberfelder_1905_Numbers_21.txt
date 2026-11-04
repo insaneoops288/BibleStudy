@@ -10,7 +10,7 @@
 "Und die Kinder Israel brachen auf und lagerten sich zu Oboth."
 "Und sie brachen auf von Oboth und lagerten sich zu Ijje-Abarim, in der Wüste, die vor Moab gegen Sonnenaufgang ist."
 "Von dort brachen sie auf und lagerten sich am Bache Sered."
-"Von dort brachen sie auf und lagerten sich jenseit des Arnon, der in der Wüste ist, der aus dem Gebiete der Amoriter hervorgeht. Denn der Arnon ist die Grenze von Moab, zwischen Moab und den Amoritern."
+"Von dort brachen sie auf und lagerten sich jenseit des Arnon, der in der Wüste ist, der aus dem #Gebiete der Amoriter hervorgeht. Denn der Arnon ist die Grenze von Moab, zwischen Moab und den Amoritern."
 "Darum heißt es in dem Buche der Kämpfe Jehovas
 "und die Ergießung der Bäche, die sich erstreckt nach dem Wohnsitze Ars, und sich lehnt an die Grenze von Moab."
 "Und von dort zogen sie nach Beer; das ist der Brunnen, von welchem Jehova zu Mose sprach
@@ -19,7 +19,7 @@
 "Und aus der Wüste zogen sie nach Mattana; und von Mattana nach Nachaliel, und von Nachaliel nach Bamoth;"
 "und von Bamoth nach dem Tale, das im Gefilde Moabs ist, nach dem Gipfel des Pisga, der emporragtüber die Fläche der Wildnis."
 "Und Israel sandte Boten zu Sihon, dem Könige der Amoriter, und ließ ihm sagen
-"Laß mich durch dein Land ziehen! Wir wollen nicht in dieÄcker und in die Weinberge ausbiegen, wir wollen kein Wasser aus den Brunnen trinken; auf der Straße des Königs wollen wir ziehen, bis wir durch dein Gebiet gezogen sind."
+"Laß mich durch dein Land ziehen! Wir wollen nicht in dieÄcker und in die Weinberge ausbiegen, wir wollen kein Wasser #aus den Brunnen trinken; auf der Straße des Königs wollen wir ziehen, bis wir durch dein Gebiet gezogen sind."
 "Aber Sihon gestattete Israel nicht, durch sein Gebiet zu ziehen; und Sihon versammelte all sein Volk und zog aus, Israel entgegen in die Wüste, und kam nach Jahaz und stritt wider Israel."
 "Und Israel schlug ihn mit der Schärfe des Schwertes und nahm sein Land in Besitz, vom Arnon bis an den Jabbok, bis zu den Kindern Ammon; denn die Grenze der Kinder Ammon war fest."
 "Und Israel nahm alle diese Städte, und Israel wohnte in allen Städten der Amoriter, in Hesbon und in allen seinen Tochterstädten."

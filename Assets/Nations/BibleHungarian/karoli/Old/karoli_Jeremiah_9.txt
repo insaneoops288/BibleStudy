@@ -7,7 +7,7 @@
 "Azért ezt mondja a Seregek Ura
 "Sebzõ nyíl a nyelvök, álnokságot beszél; szájával békességesen szól barátjához, a szívében pedig lest hány."
 "Avagy ne fenyítsem-é meg [õket] ezekért? azt mondja az Úr; vajjon az efféle nemzetségen ne álljon-é bosszút a lelkem?"
-"A hegyeken sírást és zokogást támasztok, és a pusztai ligetekben gyászéneket; mert kiégnek úgy, hogy senki se megy keresztül rajtok, és nem hallják a nyájak bégetését; az ég madaraitól fogva a barmokig minden elköltözik és elmenekül."
+"A hegyeken sírást és zokogást támasztok, és a pusztai ligetekben gyászéneket; mert kiégnek úgy, hogy senki se megy keresztül #rajtok, és nem hallják a nyájak bégetését; az ég madaraitól fogva a barmokig minden elköltözik és elmenekül."
 "Jeruzsálemet pedig kõhalommá teszem, sakálok tanyájává, és Júda városait sivataggá változtatom, hogy lakatlan legyen."
 "Kicsoda olyan bölcs férfiú, hogy értse ezeket, [és] a kihez az Úr szája szólt, hogy hirdesse azt, hogy miért vész el a föld, és ég ki, mint a puszta, a melyen senki se menjen keresztül?"
 "Monda továbbá az Úr
@@ -23,4 +23,4 @@
 "Ezt mondja az Úr
 "Hanem azzal dicsekedjék, a ki dicsekedik, hogy értelmes és ismer engem, hogy én vagyok az Úr, a ki kegyelmet, ítéletet és igazságot gyakorlok e földön; mert ezekben telik kedvem, azt mondja az Úr."
 "Ímé, eljõnek a napok, azt mondja az Úr, és megfenyítek minden körülmetélkedettet a körülmetéletlenekkel együtt
-"Égyiptomot és Júdát, Edomot és az Ammon fiait, Moábot és mindazokat, a kik nyírott üstökûek [és] a pusztában laknak; mert mindez a nemzet körülmetéletlen, és Izráelnek egész háza [is] körülmetéletlen szívû."
+"Égyiptomot és Júdát, Edomot és az Ammon fiait, Moábot és mindazokat, a kik nyírott üstökûek [és] #a pusztában laknak; mert mindez a nemzet körülmetéletlen, és Izráelnek egész háza [is] körülmetéletlen szívû."

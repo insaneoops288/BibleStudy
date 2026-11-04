@@ -1,4 +1,4 @@
-"Aconteció en los días de Acaz hijo de Jotam, hijo de Uzías, rey de Judá, que Rezín rey de Siria, y Peca hijo de Remalías, rey de Israel, subieron a Jerusalén para combatirla; mas no la pudieron tomar."
+"Aconteció en los días de Acaz hijo de Jotam, hijo de Uzías, rey de Judá, que Rezín rey de Siria, #y Peca hijo de Remalías, rey de Israel, subieron a Jerusalén para combatirla; mas no la pudieron tomar."
 "Y vino la nueva a la casa de David, diciendo
 "Entonces dijo el SEÑOR a Isaías
 "y dile
@@ -17,7 +17,7 @@
 "El SEÑOR hará venir sobre ti, y sobre tu pueblo, y sobre la casa de tu padre, días cuales nunca vinieron desde el día que Efraín se apartó de Judá, <I>es a saber</I> , al rey de Asiria."
 "Y acontecerá que aquel día silbará el SEÑOR a la mosca que <I>está</I>  en el fin de los ríos de Egipto, y a la abeja que <I>está</I>  en la tierra de Asiria."
 "Y vendrán, y se asentarán todos en los valles desiertos, y en las cavernas de las piedras, y en todos los zarzales, y en todas las matas."
-"En aquel día raerá el Señor con navaja alquilada, con <I>los que habitan</I>  del otro lado del río, <I>es a saber</I> , con el rey de Asiria, cabeza y pelos de los pies; y aun la barba también quitará."
+"En aquel día raerá el Señor con navaja alquilada, con <I>los que habitan</I>  del otro lado del río, <I>es a #saber</I> , con el rey de Asiria, cabeza y pelos de los pies; y aun la barba también quitará."
 "Y acontecerá en aquel tiempo, que críe un hombre una vaca y dos ovejas;"
 "y será que a causa de la abundancia de leche que darán, comerá manteca; ciertamente manteca y miel comerá el que quedare en medio de la tierra."
 "Acontecerá también en aquel tiempo, que el lugar donde había mil vides que valían mil <I>siclos</I>  de plata, será para los espinos y para los cardos."

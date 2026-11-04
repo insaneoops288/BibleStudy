@@ -18,7 +18,7 @@
 "Diziam pois
 "Conheceu pois Jesus que o queriam interrogar, e disse-lhes
 "Na verdade, na verdade, vos digo que vós chorareis e vos lamentareis, e o mundo se alegrará, e vós estareis tristes; mas a vossa tristeza se converterá em alegria."
-"A mulher, quando está para dar à luz, sente tristeza, porque é chegada a sua hora; mas, depois de ter dado à luz a criança, já se não lembra da aflição, pelo prazer de haver nascido um homem no mundo."
+"A mulher, quando está para dar à luz, sente tristeza, porque é chegada a sua hora; mas, depois de ter dado #à luz a criança, já se não lembra da aflição, pelo prazer de haver nascido um homem no mundo."
 "Assim também vós agora, na verdade, tendes tristeza; mas outra vez vos verei, e o vosso coração se alegrará, e a vossa alegria ninguém vo-la tirará."
 "E naquele dia nada me perguntareis. Na verdade, na verdade vos digo que tudo quanto pedirdes a meu Pai, em meu nome, ele vo-lo há-de dar."
 "Até agora nada pedistes em meu nome; pedi, e recebereis, para que o vosso gozo se cumpra."

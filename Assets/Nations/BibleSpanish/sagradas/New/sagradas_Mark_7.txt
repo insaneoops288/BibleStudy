@@ -1,7 +1,7 @@
 "Y se juntaron a él fariseos, y algunos de los escribas, que habían venido de Jerusalén;"
 "los cuales, viendo a algunos de sus discípulos comer pan con manos comunes, es a decir, no lavadas, los condenaban."
 "(Porque los fariseos y todos los judíos, teniendo la tradición de los ancianos, si muchas veces no se lavan las manos, no comen."
-"Y <I>volviendo</I>  de la plaza, si no se lavaren, no comen. Y muchas otras cosas hay, que tomaron para guardar, como las lavaduras de los vasos <I>de beber</I> , y de los jarros, y de los vasos de metal, y de los lechos.)"
+"Y <I>volviendo</I>  de la plaza, si no se lavaren, no comen. Y muchas otras cosas hay, que tomaron para guardar, como las #lavaduras de los vasos <I>de beber</I> , y de los jarros, y de los vasos de metal, y de los lechos.)"
 "Y le preguntaron los fariseos y los escribas
 "Y respondiendo él, les dijo
 "Y en vano me honran, enseñando como doctrinas, mandamientos de hombres."

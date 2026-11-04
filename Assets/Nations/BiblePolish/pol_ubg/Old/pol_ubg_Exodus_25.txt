@@ -30,7 +30,7 @@
 "I na ten stół nieustannie będziesz kłaść przede mną chleby pokładne."
 "Uczynisz też świecznik ze szczerego złota. Ów świecznik będzie wykuty
 "Z jego boków będzie wychodzić sześć ramion
-"Trzy kielichy na kształt migdału na jednym ramieniu, wraz z gałką i kwiatem; i trzy kielichy na kształt migdału na drugim ramieniu, wraz z gałką i kwiatem. Tak będzie na wszystkich sześciu ramionach wychodzących ze świecznika."
+"Trzy kielichy na kształt migdału na jednym ramieniu, wraz z gałką i kwiatem; i trzy kielichy na kształt migdału #na drugim ramieniu, wraz z gałką i kwiatem. Tak będzie na wszystkich sześciu ramionach wychodzących ze świecznika."
 "Ale na trzonie świecznika będą cztery kielichy na kształt migdału, z gałkami i kwiatami."
 "I będzie gałka pod dwoma jego ramionami, także gałka pod następnymi dwoma ramionami i gałka pod innymi dwoma ramionami
 "Z niego samego będą wychodzić gałki i ramiona, wszystko to w całości będzie wykute ze szczerego złota."

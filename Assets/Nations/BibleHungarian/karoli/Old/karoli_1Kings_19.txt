@@ -18,4 +18,4 @@
 "De meghagyok Izráelben hétezer embert
 "És õ elmenvén onnét, megtalálá Elizeust, a Sáfát fiát, a mint szántott tizenkét járom ökörrel, és õ maga a tizenkettedikkel volt; és Illés hozzá méne, és az õ palástját reá veté."
 "És õ elhagyván az ökröket, Illés után futott, és monda
-"És elmenvén õ tõle, võn azután egy pár ökröt, és levágá azt, és az ekéhez való szerszámokból [tüzet rakván,] megfõzé azok húsát, és a népnek adá, és evének; és felkelvén, elméne Illés után, és szolgála néki."
+"És elmenvén õ tõle, võn azután egy pár ökröt, és levágá azt, és az ekéhez való szerszámokból [tüzet rakván,] #megfõzé azok húsát, és a népnek adá, és evének; és felkelvén, elméne Illés után, és szolgála néki."

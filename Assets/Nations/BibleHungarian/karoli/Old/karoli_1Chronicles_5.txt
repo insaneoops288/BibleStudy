@@ -1,4 +1,4 @@
-"Rúbennek, Izráel elsõszülöttének fiai (mert õ volt az elsõszülött; mikor pedig megfertõztette az õ atyjának ágyasházát, az õ elsõszülöttségi joga a József fiainak adaték, a ki Izráel fia vala, mindazáltal nem úgy hogy õk neveztessenek származás szerint elsõszülötteknek,"
+"Rúbennek, Izráel elsõszülöttének fiai (mert õ volt az elsõszülött; mikor pedig megfertõztette az õ atyjának ágyasházát, az õ elsõszülöttségi joga #a József fiainak adaték, a ki Izráel fia vala, mindazáltal nem úgy hogy õk neveztessenek származás szerint elsõszülötteknek,"
 "Mert Júda tekintélyesebb vala az õ testvérei között, és õ belõle való volt a fejedelem, hanem az elsõszülöttségnek [haszna] lõn Józsefé)
 "[Ezek] Rúbennek, Izráel elsõszülöttének fiai
 "Jóel fiai
@@ -15,7 +15,7 @@
 "[És] Ahi, a Gúni fiának, Abdielnek a fia volt a család feje."
 "[Ezek] Gileádban, Básánban és az ezekhez tartozó mezõvárosokban laktak, és Sáronnak minden legelõjén, határaikig."
 "Kik mindnyájan megszámláltatának Jótámnak, a Júda királyának idejében, és Jeroboámnak, az Izráel királyának idejében."
-"A Rúben fiai közül és a Gáditák közül és a Manasse félnemzetsége közül erõs paizs- és fegyverhordozó férfiak, kézívesek és a hadakozásban jártasok, negyvennégyezerhétszázhatvanan harczra kész férfiak;"
+"A Rúben fiai közül és a Gáditák közül és a Manasse félnemzetsége közül erõs #paizs- és fegyverhordozó férfiak, kézívesek és a hadakozásban jártasok, negyvennégyezerhétszázhatvanan harczra kész férfiak;"
 "Hadakozának a Hágárénusok ellen, Jétúr, Náfis és Nódáb ellen."
 "És gyõzedelmesek levének azokon, és kezekbe adatának a Hágárénusok és mindazok, a kik ezekkel valának; mert az Istenhez kiáltának harcz közben, és õ meghallgatá õket, mert õ benne bíztak."
 "És elvivék az õ barmaikat, ötvenezer tevét, kétszázötvenezer juhot, kétezer szamarat és százezer embert."
@@ -23,4 +23,4 @@
 "A Manasse nemzetsége felének fiai pedig [azon] a földön laktak, [a mely] Básántól Baál-Hermonig, Szenirig és Hermon hegyéig [terjedt,] [mert] igen megsokasodtak vala."
 "És ezek voltak az õ atyjok háznépének fejedelmei
 "Vétkezének pedig az õ atyjoknak Istene ellen; mert a föld lakóinak bálványisteneivel paráználkodának, a kiket az Isten szemök elõl elpusztított."
-"Felindítá azért az Izráel Istene Pulnak, az Assiriabeli királynak szívét és Tiglát-Pilésernek, az assiriai királynak szívét, és fogva elvivé õket, a Rúbenitákat, a Gáditákat és a Manasse félnemzetségét is; és elvivé õket Haláhba és Háborba, Hárába és a Gózán folyóvizéhez mind e mai napig."
+"Felindítá azért az Izráel Istene Pulnak, az Assiriabeli királynak szívét és Tiglát-Pilésernek, az assiriai királynak szívét, és fogva elvivé õket, a Rúbenitákat, a #Gáditákat és a Manasse félnemzetségét is; és elvivé õket Haláhba és Háborba, Hárába és a Gózán folyóvizéhez mind e mai napig."

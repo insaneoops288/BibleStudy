@@ -4,4 +4,4 @@
 "Sillä näin sanoo Herra minulle
 "Sillä ennen elonaikaa, kuin tulo valmiiksi tulee, ja rohkamarjat kypsentyvät, täytyy oksat leikata sirpillä, ja viinapuut hakata ja heittää pois
 "Niin että ne jätetään kokonansa linnuille vuorten päällä ja eläimille maassa; niin että linnut suvella tekevät siihen pesänsä, ja kaikkinaiset eläimet makaavat siinä talvella."
-"Silloin se revitty ja ryöstetty kansa, joka julmempi on kuin joku muu, joka siellä ja täällä mitattu on ja tallattu on, jonka maa virtain hallussa on, tuo Herralle Zebaotille lahjoja siihen paikkaan, jossa Herran Zebaotin nimi on, Zionin vuorelle."
+"Silloin se revitty ja ryöstetty kansa, joka julmempi on kuin joku muu, joka siellä ja täällä mitattu on ja tallattu #on, jonka maa virtain hallussa on, tuo Herralle Zebaotille lahjoja siihen paikkaan, jossa Herran Zebaotin nimi on, Zionin vuorelle."

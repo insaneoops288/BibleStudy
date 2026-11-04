@@ -1,7 +1,7 @@
 "Ha visszatérsz, Izráel, ezt mondja az Úr, hozzám térj vissza, és ha eltávolítod a te útálatosságaidat elõlem és nem ingadozol;"
 "És [így] esküszöl
 "Mert ezt mondja az Úr Júda és Jeruzsálem férfiainak
-"Metéljétek magatokat körül az Úrnak, és távolítsátok el szívetek elõbõreit, Júda férfiai és Jeruzsálem lakosai, hogy fel ne gyúladjon az én haragom, mint a tûz, és olthatatlanul ne égjen a ti cselekedeteitek gonoszsága miatt."
+"Metéljétek magatokat körül az Úrnak, és távolítsátok el szívetek elõbõreit, Júda férfiai és Jeruzsálem lakosai, hogy fel ne #gyúladjon az én haragom, mint a tûz, és olthatatlanul ne égjen a ti cselekedeteitek gonoszsága miatt."
 "Adjátok hírül Júdában, és hallassátok Jeruzsálemben és mondjátok, és kürtöljétek az országban; kiáltsátok teljes erõvel, és mondjátok
 "Emeljetek zászlót a Sion felé; fussatok, meg ne álljatok, mert veszedelmet hozok észak felõl és nagy romlást!"
 "Felkelt az oroszlán az õ tanyájából, és a népek pusztítója elindult; kijött helyébõl, hogy elpusztítsa a te földedet; városaid lerontatnak, lakatlanokká lesznek."

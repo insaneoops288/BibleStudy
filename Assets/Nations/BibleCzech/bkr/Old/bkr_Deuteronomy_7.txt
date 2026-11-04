@@ -1,4 +1,4 @@
-"Když pak tebe uvede Hospodin Bůh tvůj do země, do kteréž ty již vcházíš, abys vládl jí, a vypléní národy mnohé od tváři tvé, Hetea, Gergezea, Amorea, Kananea, Ferezea, Hevea a Jebuzea, sedm národů větších a silnějších, nežli jsi ty,"
+"Když pak tebe uvede Hospodin Bůh tvůj do země, do kteréž ty již vcházíš, abys vládl jí, a vypléní národy mnohé #od tváři tvé, Hetea, Gergezea, Amorea, Kananea, Ferezea, Hevea a Jebuzea, sedm národů větších a silnějších, nežli jsi ty,"
 "A dá je Hospodin Bůh tvůj tobě, abys je pobil
 "Nikoli nespřízníš se s nimi; dcery své nedáš synu jejich, a dcery jejich nevezmeš synu svému."
 "Neboť by odvedla syna tvého od následování mne, a sloužili by bohům cizím, pročež popudila by se prchlivost Hospodinova na vás, a zahladila by tě rychle."
@@ -10,13 +10,13 @@
 "Odplacující tomu, kterýž ho nenávidí, v tvář jeho, tak aby zahladil jej. Nebudeť prodlévati; kdož ho nenávidí, v tvář jeho odplatí jemu."
 "Protož ostříhej přikázaní a ustanovení i soudů, kteréž já tobě dnes přikazuji, abys je činil."
 "I budeť to, že když poslouchati budete soudů těchto a ostříhati i činiti je, také Hospodin Bůh tvůj ostříhati bude tobě smlouvy a milosrdenství, kteréž s přísahou zaslíbil otcům tvým."
-"A bude tě milovati, i požehná tobě a rozmnoží tebe. Nebo požehná plodu života tvého a úrodám země tvé, obilí tvému, vínu tvému a oleji tvému, plodu skotů tvých i stádům bravů tvých v zemi, kterouž s přísahou zaslíbil otcům tvým, že ji tobě dá."
+"A bude tě milovati, i požehná tobě a rozmnoží tebe. Nebo požehná plodu života tvého a úrodám země tvé, obilí tvému, vínu tvému #a oleji tvému, plodu skotů tvých i stádům bravů tvých v zemi, kterouž s přísahou zaslíbil otcům tvým, že ji tobě dá."
 "Požehnaný budeš nad všecky národy; nebude u tebe neplodný aneb neplodná, ani mezi hovady tvými."
 "Vzdálí také od tebe Hospodin všeliký neduh, a všecky zlé nemoci Egyptské, kteréž znáš; nevzloží jich na tebe, ale vzloží je na všecky, kteříž tě nenávidí."
 "A shladíš všecky národy, kteréž Hospodin Bůh tvůj dá tobě. Neslituje se nad nimi oko tvé, aniž sloužiti budeš bohům jejich, nebo to bylo by tobě osídlem."
 "Řekl-li bys v srdci svém
 "Neboj se jich, ale pilně pamatuj na to, co učinil Hospodin Bůh tvůj Faraonovi a všechněm Egyptským,"
-"Na pokušení veliká, kteráž viděly oči tvé, i znamení a zázraky, a ruku silnou a rámě vztažené, v kterémž vyvedl tě Hospodin Bůh tvůj. Takť učiní Hospodin Bůh tvůj všechněm národům, kterýchž bys se obával."
+"Na pokušení veliká, kteráž viděly oči tvé, i znamení a zázraky, a ruku silnou a rámě vztažené, v #kterémž vyvedl tě Hospodin Bůh tvůj. Takť učiní Hospodin Bůh tvůj všechněm národům, kterýchž bys se obával."
 "Nadto sršně pošle Hospodin Bůh tvůj na ně, dokudž by nezhynuli, kteříž by pozůstali, a kteříž by se skryli před tebou."
 "Nelekejž se strachu jejich, nebo Hospodin Bůh tvůj jest u prostřed tebe, Bůh silný, veliký a hrozný."
 "I vypléní Hospodin Bůh tvůj národy ty od tváři tvé pomalu; nebudeš moci pojednou jich shladiti, aby se nerozmnožila proti tobě zvěř polní."

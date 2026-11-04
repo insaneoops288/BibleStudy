@@ -14,7 +14,7 @@
 "(6) Ei sinun pidä huorin tekemän."
 "(7) Ei sinun pidä varastaman."
 "(8) Ei sinun pidä väärää todistusta sanoman sinun lähimmäistäs vastaan."
-"(9) Ei sinun pidä pyytämän sinun lähimmäises huonetta. (10) Ei sinun pidä himoitseman sinun lähimmäises emäntää, eikä hänen palveliaansa, eikä piikaansa, eikä hänen härkäänsä, eikä mitään mikä sinun lähimmäises on."
+"(9) Ei sinun pidä pyytämän sinun lähimmäises huonetta. (10) Ei sinun pidä himoitseman sinun lähimmäises emäntää, #eikä hänen palveliaansa, eikä piikaansa, eikä hänen härkäänsä, eikä mitään mikä sinun lähimmäises on."
 "Ja kaikki kansa näki pitkäisen jylinän, ja tulen leimaukset, ja basunan helinän, ja vuoren suitsevan
 "Niin he sanoivat Mosekselle
 "Ja Moses sanoi kansalle

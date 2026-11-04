@@ -13,7 +13,7 @@ Then the LORD said to Moses, "Go to the people and consecrate them today and tom
 'Not a hand shall touch him, but he shall surely be stoned or shot with an arrow; whether man or beast, he shall not live.' When the trumpet sounds long, they shall come near the mountain."
 So Moses went down from the mountain to the people and sanctified the people, and they washed their clothes.
 And he said to the people, "Be ready for the third day; do not come near your wives."
-Then it came to pass on the third day, in the morning, that there were thunderings and lightnings, and a thick cloud on the mountain; and the sound of the trumpet was very loud, so that all the people who were in the camp trembled.
+Then it came to pass on the third day, in the morning, that there were thunderings and lightnings, and a thick cloud on #the mountain; and the sound of the trumpet was very loud, so that all the people who were in the camp trembled.
 And Moses brought the people out of the camp to meet with God, and they stood at the foot of the mountain.
 Now Mount Sinai was completely in smoke, because the LORD descended upon it in fire. Its smoke ascended like the smoke of a furnace, and the whole mountain quaked greatly.
 And when the blast of the trumpet sounded long and became louder and louder, Moses spoke, and God answered him by voice.

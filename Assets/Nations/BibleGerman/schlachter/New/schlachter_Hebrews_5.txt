@@ -9,6 +9,6 @@
 "und[so] zur Vollendung gelangt, ist er allen, die ihm gehorchen, der Urheber ewigen Heils geworden,"
 "von Gott zubenannt
 "Davon haben wir nun viel zu sagen, und solches, was schwer zu erklären ist, weil ihr träge geworden seid zum Hören;"
-"und obschon ihr der Zeit nach Lehrer sein solltet, habt ihr wieder nötig, daß man euch gewisse Anfangsgründe der Aussprüche Gottes lehre, und seid der Milch bedürftig geworden und nicht fester Speise."
+"und obschon ihr der Zeit nach Lehrer sein solltet, habt ihr wieder nötig, daß man euch gewisse #Anfangsgründe der Aussprüche Gottes lehre, und seid der Milch bedürftig geworden und nicht fester Speise."
 "Denn wer noch Milch genießt, der ist unerfahren im Worte der Gerechtigkeit; denn er ist unmündig."
 "Die feste Speise aber ist für die Gereiften, deren Sinne durchÜbung geschult sind zur Unterscheidung des Guten und des Bösen."

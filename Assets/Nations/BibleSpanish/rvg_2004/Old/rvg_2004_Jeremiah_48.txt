@@ -8,7 +8,7 @@
 "Y vendrá destruidor a cada una de las ciudades, y ninguna ciudad escapará
 "Dad alas a Moab, para que volando se vaya; pues serán desiertas sus ciudades hasta no quedar en ellas morador."
 "Maldito el que hiciere engañosamente la obra de Jehová, y maldito el que detuviere su espada de la sangre."
-"Quieto estuvo Moab desde su juventud, y sobre sus rescoldos ha estado él reposado, y no fue trasegado de vaso en vaso, ni nunca fue en cautiverio; por tanto quedó su sabor en él, y su olor no se ha cambiado."
+"Quieto estuvo Moab desde su juventud, y sobre sus rescoldos ha estado él reposado, y no fue trasegado de vaso en #vaso, ni nunca fue en cautiverio; por tanto quedó su sabor en él, y su olor no se ha cambiado."
 "Por eso, he aquí que vienen días, dice Jehová, en que yo le enviaré trasportadores que lo harán trasportar; y vaciarán sus vasos, y romperán sus odres."
 "Y se avergonzará Moab de Quemos, a la manera que la casa de Israel se avergonzó de Betel, su confianza."
 "¿Cómo diréis

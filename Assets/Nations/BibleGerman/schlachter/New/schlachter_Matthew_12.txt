@@ -39,10 +39,10 @@
 "Er aber antwortete und sprach zu ihnen
 "Denn gleichwie Jona drei Tage und drei Nächte im Bauche des Riesenfisches war, also wird des Menschen Sohn drei Tage und drei Nächte im Schoße der Erde sein."
 "Leute von Ninive werden auftreten im Gericht wider dieses Geschlecht und werden es verurteilen; denn sie taten Buße auf die Predigt des Jona hin. Und siehe, hier ist mehr als Jona!"
-"Die Königin von Mittag wird auftreten im Gerichte wider dieses Geschlecht und wird es verurteilen; denn sie kam vom Ende der Erde, um Salomos Weisheit zu hören. Und siehe, hier ist mehr als Salomo!"
+"Die Königin von Mittag wird auftreten im Gerichte wider dieses Geschlecht und wird es verurteilen; denn sie kam #vom Ende der Erde, um Salomos Weisheit zu hören. Und siehe, hier ist mehr als Salomo!"
 "Wenn aber der unreine Geist vom Menschen ausgefahren ist, so durchwandelt er wasserlose Stätten und sucht Ruhe und findet sie nicht."
 "Dann spricht er
-"Alsdann geht er hin und nimmt sieben andere Geister mit sich, die schlimmer sind als er; und sie ziehen ein und wohnen daselbst, und es wird zuletzt mit diesem Menschenärger als zuerst. So wird es auch sein mit diesem bösen Geschlecht."
+"Alsdann geht er hin und nimmt sieben andere Geister mit sich, die schlimmer sind als er; und sie ziehen ein und #wohnen daselbst, und es wird zuletzt mit diesem Menschenärger als zuerst. So wird es auch sein mit diesem bösen Geschlecht."
 "Während er noch zu dem Volke redete, siehe, da standen seine Mutter und seine Brüder draußen und suchten mit ihm zu reden."
 "Da sprach einer zu ihm
 "Er aber antwortete und sprach zu dem, der es ihm sagte

@@ -10,11 +10,11 @@
 "Da ergrimmte Balak im Zorn wider Bileam und schlug die Hände ineinander; und Balak sprach zu Bileam
 "Und nun mach dich fort an deinen Ort! Ich gedachte dich hoch zu ehren; aber siehe, der HERR hat dir die Ehre versagt!"
 "Bileam antwortete dem Balak
-"Wenn mir Balak sein Haus voll Silber und Gold gäbe, so könnte ich doch das Gebot des HERRN nichtübertreten, Böses oder Gutes zu tun nach meinem Herzen; sondern was der HERR reden werde, das werde ich auch reden?"
+"Wenn mir Balak sein Haus voll Silber und Gold gäbe, so könnte ich doch das Gebot des HERRN nichtübertreten, Böses #oder Gutes zu tun nach meinem Herzen; sondern was der HERR reden werde, das werde ich auch reden?"
 "Und nun siehe, da ich zu meinem Volk ziehe, so komm, ich will dir sagen, was dieses Volk deinem Volk in spätern Tagen tun wird!"
 "Und er hob an seinen Spruch und sprach
 "es sagt der Hörer göttlicher Reden, und der die Erkenntnis des Höchsten hat, der die Gesichte des Allmächtigen sieht und niederfällt, und dem die Augen geöffnet werden
-"Ich sehe ihn, aber jetzt noch nicht; ich schaue ihn, aber noch nicht in der Nähe. Ein Stern tritt aus Jakob hervor, und ein Zepter kommt aus Israel. Er schlägt Moab auf beide Seiten und alle Kinder Set aufs Haupt."
+"Ich sehe ihn, aber jetzt noch nicht; ich schaue ihn, aber noch nicht in der Nähe. Ein Stern tritt aus Jakob #hervor, und ein Zepter kommt aus Israel. Er schlägt Moab auf beide Seiten und alle Kinder Set aufs Haupt."
 "Edom wird seine Besitzung, und Seir zum Besitztum seiner Feinde; Israel aber wird tapfere Taten tun."
 "Von Jakob wird der ausgehen, der herrschen wird, und er wird umbringen, was von den Städtenübrig ist."
 "Und als er Amalek sah, hob er an seinen Spruch und sprach

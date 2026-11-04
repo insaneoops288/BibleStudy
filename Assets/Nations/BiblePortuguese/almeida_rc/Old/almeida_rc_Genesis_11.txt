@@ -28,5 +28,5 @@
 "E morreu Harã, estando seu pai Tera ainda vivo, na terra do seu nascimento, em Ur dos caldeus."
 "E tomaram Abrão e Naor mulheres para si; o nome da mulher de Abrão era Sarai, e o nome da mulher de Naor era Milca, filha de Harã, pai de Milca e pai de Iscá."
 "E Sarai foi estéril e não tinha filhos."
-"E tomou Tera a Abrão, seu filho, e a Lot, filho de Harã, filho de seu filho, e a Sarai, sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos caldeus, para ir à terra de Canaã; e vieram até Harã e habitaram ali."
+"E tomou Tera a Abrão, seu filho, e a Lot, filho de Harã, filho de seu filho, e a Sarai, sua nora, mulher de seu #filho Abrão, e saiu com eles de Ur dos caldeus, para ir à terra de Canaã; e vieram até Harã e habitaram ali."
 "E foram os dias de Tera duzentos e cinco anos; e morreu Tera em Harã."

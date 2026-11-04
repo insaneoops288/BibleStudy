@@ -6,7 +6,7 @@
 "Will er aber dem HERRN ein Dankopfer von kleinem Vieh tun, es sei ein Widder oder Schaf, so soll's ohne Fehl sein.{~}{~}"
 "Ist's ein Lämmlein, soll er's vor den HERRN bringen{~}{~}"
 "und soll seine Hand auf desselben Haupt legen und es schlachten vor der Hütte des Stifts. Und die Söhne Aarons sollen sein Blut auf dem Altar umhersprengen."
-"Und er soll also von dem Dankopfer dem HERRN opfern zum Feuer, nämlich sein Fett, den ganzen Schwanz, von dem Rücken abgerissen, dazu das Fett, welches das Eingeweide bedeckt, und alles Fett am Eingeweide,"
+"Und er soll also von dem Dankopfer dem HERRN opfern zum Feuer, nämlich sein Fett, den ganzen Schwanz, #von dem Rücken abgerissen, dazu das Fett, welches das Eingeweide bedeckt, und alles Fett am Eingeweide,"
 "die zwei Nieren mit dem Fett, das daran ist, an den Lenden, und das Netz um die Leber, an den Nieren abgerissen."
 "Und der Priester soll es anzünden auf dem Altar zur Speise des Feuers dem HERRN."
 "Ist aber sein Opfer eine Ziege und er bringt es vor den HERRN,"

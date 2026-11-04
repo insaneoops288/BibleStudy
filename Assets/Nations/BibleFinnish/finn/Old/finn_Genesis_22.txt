@@ -1,6 +1,6 @@
 "Ja koska se oli tapahtunut, koetteli Jumala Abrahamia, ja sanoi hänelle
 "Ja hän sanoi
-"Niin Abraham nousi varhain aamulla, ja valjasti aasinsa, ja otti kaksi palveliaansa kanssansa, ja poikansa Isaakin; ja halkoili puita polttouhriin, ja valmisti itsensä, ja meni sille paikalle, minkä Jumala oli hänelle sanonut."
+"Niin Abraham nousi varhain aamulla, ja valjasti aasinsa, ja otti kaksi palveliaansa kanssansa, ja poikansa Isaakin; ja #halkoili puita polttouhriin, ja valmisti itsensä, ja meni sille paikalle, minkä Jumala oli hänelle sanonut."
 "Kolmantena päivänä nosti Abraham silmänsä, ja näki sen paikan taampana."
 "Silloin Abraham sanoi palvelioillensa
 "Ja Abraham otti polttouhrin halvot, ja sälytti poikansa Isaakin selkään, vaan itse hän otti tulen ja veitsen käteensä; ja he kävivät molemmat ynnä."

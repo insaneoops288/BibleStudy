@@ -9,7 +9,7 @@
 "Potem też Dawid wstał, i wyszedł z jaskini, a zawołał za Saulem, mówiąc
 "I rzekł Dawid do Saula
 "Oto, dnia tego widzą oczy twoje, że cię był podał Pan w ręce moje w jaskini, i mówiono mi, abym cię zabił; alem ci sfolgował, i rzekłem
-"Oto, ojcze mój, obacz a oglądaj kraj płaszcza twego w ręce mojej, że gdym urzynał kraj płaszcza twego, nie zabiłem cię. Poznaj a obacz, że niemasz w ręce mojej złości i nieprawości, anim zgrzeszył przeciwko tobie
+"Oto, ojcze mój, obacz a oglądaj kraj płaszcza twego w ręce mojej, że gdym urzynał kraj płaszcza twego, nie #zabiłem cię. Poznaj a obacz, że niemasz w ręce mojej złości i nieprawości, anim zgrzeszył przeciwko tobie
 "Niech rozsądzi Pan między mną i między tobą, a niech się zemści Pan krzywdy mojej nad tobą; lecz ręka moja nie będzie na tobie."
 "Jako mówi przypowieść starodawna
 "Za kimże wżdy wyszedł król Izraelski? kogóż gonisz? psa zdechłego? pchłę jednę?"
@@ -19,4 +19,4 @@
 "Tyś zaiste okazał dzisiaj, żeś mi uczynił dobre; bo choć mię podał Pan w rękę twoję, przecięś mię nie zabił."
 "Izaż znalazłszy kto nieprzyjaciela swego, wypuści go na drogę dobrą? niechajżeć Pan dobrem odda za to, coś mi dziś uczynił."
 "A teraz oto wiem, że zapewne będziesz królował, a ostoi się w ręce twojej królestwo Izraelskie."
-"Przetoż proszę, przysiąż mi przez Pana, że nie wygubisz nasienia mego po mnie, i nie wytracisz imienia mego z domu ojca mego. A tak przysiągł Dawid Saulowi. I odszedł Saul do domu swego, a Dawid i mężowie jego poszli na miejsca obronne."
+"Przetoż proszę, przysiąż mi przez Pana, że nie wygubisz nasienia mego po mnie, i nie wytracisz imienia mego z domu ojca mego. #A tak przysiągł Dawid Saulowi. I odszedł Saul do domu swego, a Dawid i mężowie jego poszli na miejsca obronne."

@@ -2,7 +2,7 @@
 "Cette femme devint enceinte et enfanta un fils. Elle vit qu'il était beau, et elle le cacha pendant trois mois."
 "Ne pouvant plus le cacher, elle prit une caisse de jonc, qu'elle enduisit de bitume et de poix; elle y mit l'enfant, et le déposa parmi les roseaux, sur le bord du fleuve."
 "La soeur de l'enfant se tint à quelque distance, pour savoir ce qui lui arriverait."
-"La fille de Pharaon descendit au fleuve pour se baigner, et ses compagnes se promenèrent le long du fleuve. Elle aperçut la caisse au milieu des roseaux, et elle envoya sa servante pour la prendre."
+"La fille de Pharaon descendit au fleuve pour se baigner, et ses compagnes se promenèrent le long du #fleuve. Elle aperçut la caisse au milieu des roseaux, et elle envoya sa servante pour la prendre."
 "Elle l'ouvrit, et vit l'enfant
 "Alors la soeur de l'enfant dit à la fille de Pharaon
 "Va, lui répondit la fille de Pharaon. Et la jeune fille alla chercher la mère de l'enfant."

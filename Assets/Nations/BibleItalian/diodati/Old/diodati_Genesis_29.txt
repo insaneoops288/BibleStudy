@@ -1,5 +1,5 @@
 "POI Giacobbe si mise in cammino, e andò nel paese degli Orientali."
-"E riguardò, ed ecco un pozzo in un campo, e quivi erano tre gregge di pecore, che giacevano appresso di quello; perciocchè di quel pozzo si abbeveravano le gregge; ed una gran pietra era sopra la bocca del pozzo."
+"E riguardò, ed ecco un pozzo in un campo, e quivi erano tre gregge di pecore, che giacevano appresso di #quello; perciocchè di quel pozzo si abbeveravano le gregge; ed una gran pietra era sopra la bocca del pozzo."
 "E quivi si raunavano tutte le gregge, e i pastori rotolavano quella pietra d’in su la bocca del pozzo, e abbeveravano le pecore; e poi tornavano la pietra al suo luogo, in su la bocca del pozzo."
 "E Giacobbe disse loro
 "Ed egli disse loro
@@ -7,7 +7,7 @@
 "Ed egli disse loro
 "Ma essi dissero
 "Mentre egli parlava ancora con loro, Rachele sopraggiunse, con le pecore di suo padre; perciocchè ella era guardiana di pecore."
-"E, quando Giacobbe ebbe veduta Rachele, figliuola di Labano, fratello di sua madre, con le pecore di Labano, fratello di sua madre, egli si fece innanzi, e rotolò quella pietra d’in su la bocca del pozzo, e abbeverò le pecore di Labano, fratello di sua madre."
+"E, quando Giacobbe ebbe veduta Rachele, figliuola di Labano, fratello di sua madre, con le pecore di Labano, fratello di sua madre, egli si #fece innanzi, e rotolò quella pietra d’in su la bocca del pozzo, e abbeverò le pecore di Labano, fratello di sua madre."
 "E Giacobbe baciò Rachele, e alzò la sua voce, e pianse."
 "E Giacobbe dichiarò a Rachele come egli era fratello di suo padre; e come egli era figliuolo di Rebecca. Ed ella corse, e lo rapportò a suo padre."
 "E, come Labano ebbe udite le novelle di Giacobbe, figliuolo della sua sorella, gli corse incontro, e l’abbracciò, e lo baciò, e lo menò in casa sua. E Giacobbe raccontò a Labano tutte queste cose."

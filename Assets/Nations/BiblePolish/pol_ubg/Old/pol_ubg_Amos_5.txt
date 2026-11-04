@@ -8,7 +8,7 @@
 "Szukajcie tego, który uczynił Plejady i Oriona, który przemienia cień śmierci w poranek i dzień w ciemności nocne; który przyzywa wody morskie i wylewa je na powierzchni ziemi, PAN jest jego imię;"
 "Który wzmacnia słabego przeciwko mocnemu, tak że ten osłabiony naciera na twierdzę."
 "Nienawidzą tego, który upomina ich w bramie, i brzydzą się tym, który mówi prawdę."
-"Ponieważ uciskacie ubogiego i zabieracie mu ciężar zboża, to chociaż pobudowaliście domy z kamienia ciosanego, nie będziecie w nich mieszkać; zasadzaliście rozkoszne winnice, ale nie będziecie pić z nich wina."
+"Ponieważ uciskacie ubogiego i zabieracie mu ciężar zboża, to chociaż pobudowaliście domy z kamienia ciosanego, nie #będziecie w nich mieszkać; zasadzaliście rozkoszne winnice, ale nie będziecie pić z nich wina."
 "Znam bowiem wasze wielkie przestępstwa i ogromne grzechy
 "Dlatego roztropny milczy w tym czasie, bo jest to czas zły."
 "Szukajcie dobra, a nie zła, abyście żyli. A PAN, Bóg zastępów, będzie z wami, tak jak mówicie."

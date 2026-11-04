@@ -7,7 +7,7 @@
 "Si vous m'aviez connu, vous auriez aussi connu mon Père; et dès à présent vous le connaissez, et vous l'avez vu."
 "Philippe lui dit
 "Jésus lui dit
-"Ne crois-tu pas que je suis dans le Père, et que le Père est en moi? Les paroles que je vous dis, je ne les dis pas de moi-même, mais le Père qui demeure en moi, fait lui-même les ouvres que je fais."
+"Ne crois-tu pas que je suis dans le Père, et que le Père est en moi? Les paroles que je vous dis, #je ne les dis pas de moi-même, mais le Père qui demeure en moi, fait lui-même les ouvres que je fais."
 "Croyez-moi quand je dis que je suis dans le Père, et que mon Père est en moi; sinon, croyez-moi à cause de ces ouvres mêmes."
 "En vérité, en vérité je vous le dis
 "Et ce que vous demanderez en mon nom, je le ferai, afin que le Père soit glorifié dans le Fils."

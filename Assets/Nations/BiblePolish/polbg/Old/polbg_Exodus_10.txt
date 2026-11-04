@@ -3,7 +3,7 @@
 "Wszedł tedy Mojżesz i Aaron do Faraona, i mówili mu
 "Bo jeźli nie będziesz chciał wypuścić ludu mego, oto ja przywiodę jutro szarańczę na granicę twoję,"
 "Która okryje wierzch ziemi, że jej widać nie będzie, i zje ostatek pozostały, który wam został po gradzie, i pogryzie każde drzewo rodzące na polu."
-"I na pełni domy twoje, i domy wszystkich sług twoich, i domy wszystkiego Egiptu, czego nie widzieli ojcowie twoi, i ojcowie ojców twoich od początku bytu swego na ziemi aż do tego dnia. A odwróciwszy się, wyszedł od Faraona."
+"I na pełni domy twoje, i domy wszystkich sług twoich, i domy wszystkiego Egiptu, czego nie widzieli ojcowie twoi, i #ojcowie ojców twoich od początku bytu swego na ziemi aż do tego dnia. A odwróciwszy się, wyszedł od Faraona."
 "Tedy rzekli słudzy Faraonowi do niego
 "I zawołano zaś Mojżesza z Aaronem do Faraona, i rzekł do nich
 "I odpowiedział Mojżesz
@@ -12,7 +12,7 @@
 "Potem Pan rzekł do Mojżesza
 "I wyciągnął Mojżesz laskę swoję na ziemię Egipską, a Pan przywiódł wiatr wschodni na ziemię przez cały on dzień, i przez całą noc; a gdy było rano, wiatr wschodni przyniósł szarańczę."
 "I przyszła szarańcza na wszystkę ziemię Egipską, i przypadła na wszystkie granice Egipskie bardzo ciężka; przedtem nie było tej podobnej szarańczy, i po niej nie będzie takowej."
-"I okryła wierzch wszystkiej ziemi, tak, iż ziemi znać nie było; a pożarła wszystkę trawę ziemi, i wszystek owoc drzewa, który został po gradzie, a nie zostało żadnej zieloności na drzewie i na trawie polnej we wszystkiej ziemi Egipskiej."
+"I okryła wierzch wszystkiej ziemi, tak, iż ziemi znać nie było; a pożarła wszystkę trawę ziemi, i wszystek owoc drzewa, #który został po gradzie, a nie zostało żadnej zieloności na drzewie i na trawie polnej we wszystkiej ziemi Egipskiej."
 "Przetoż co rychlej Farao wezwał Mojżesza i Aarona, i rzekł
 "A teraz odpuść proszę grzech mój aby ten raz, a módlcie się Panu Bogu waszemu, aby oddalił ode mnie tylko tę śmierć."
 "I wyszedłszy Mojżesz od Faraona, modlił się Panu."

@@ -21,7 +21,7 @@
 "Albowiem jeźli Bóg przyrodzonym gałęziom nie przepuścił, wiedz, że i tobie nie przepuści."
 "Obaczże tedy dobrotliwość i srogość Bożą; przeciwko tym wprawdzie, którzy upadli, srogość, ale przeciwko tobie dobrotliwość, jeźlibyś trwał w dobroci; inaczej i ty będziesz wycięty."
 "Aleć i oni, jeźli nie będą trwali w niedowiarstwie, wszczepieni zaś będą, gdyż mocny jest Bóg one zasię wszczepić."
-"Albowiem jeźliś ty jest wycięty z oliwy, z przyrodzenia płonnej, a przeciwko przyrodzeniu jesteś wszczepiony w dobrą oliwę, jakoż daleko więcej, którzy są według przyrodzenia, wszczepieni będą w swoję własną oliwę!"
+"Albowiem jeźliś ty jest wycięty z oliwy, z przyrodzenia płonnej, a przeciwko przyrodzeniu jesteś wszczepiony w #dobrą oliwę, jakoż daleko więcej, którzy są według przyrodzenia, wszczepieni będą w swoję własną oliwę!"
 "Bo nie chcę, abyście nie mieli wiedzieć, bracia! tej tajemnicy, (żebyście nie byli sami u siebie mądrymi), iż zatwardzenie z części przyszło na Izraela, póki by nie weszła zupełność pogan."
 "A tak wszystek Izrael będzie zbawiony, jako napisano
 "A toć będzie przymierze moje z nimi, gdy odejmę grzechy ich."

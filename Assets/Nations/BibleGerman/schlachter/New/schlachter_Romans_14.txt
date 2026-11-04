@@ -3,7 +3,7 @@
 "Wer ißt, verachte den nicht, der nicht ißt; und wer nicht ißt, richte den nicht, der ißt; denn Gott hat ihn angenommen."
 "Wer bist du, daß du einen fremden Knecht richtest? Er steht oder fällt seinem Herrn. Er wird aber aufgerichtet werden; denn der Herr vermag ihn aufzurichten."
 "Dieser achtet einen Tag höher als den andern, jener hält alle Tage gleich; ein jeglicher sei seiner Meinung gewiß!"
-"Wer auf den Tag schaut, schaut darauf für den Herrn, und wer nicht auf den Tag schaut, schaut nicht darauf für den Herrn. Wer ißt, der ißt für den Herrn; denn er dankt Gott, und wer nicht ißt, der ißt nicht für den Herrn und dankt Gott."
+"Wer auf den Tag schaut, schaut darauf für den Herrn, und wer nicht auf den Tag schaut, schaut nicht darauf für den Herrn. Wer #ißt, der ißt für den Herrn; denn er dankt Gott, und wer nicht ißt, der ißt nicht für den Herrn und dankt Gott."
 "Denn keiner von uns lebt sich selbst und keiner stirbt sich selbst."
 "Leben wir, so leben wir dem Herrn, sterben wir, so sterben wir dem Herrn; ob wir nun leben oder sterben, so sind wir des Herrn."
 "Denn dazu ist Christus gestorben und wieder lebendig geworden, daß er sowohlüber Tote als auchüber Lebende Herr sei."

@@ -8,6 +8,6 @@
 " Denn also spricht der HERR der Heerscharen
 " Denn siehe, ich hebe meine Hand auf gegen sie, daß sie denen zur Beute werden sollen, die ihnen gedient haben; so werdet ihr erfahren, daß der HERR der Heerscharen mich gesandt hat!"
 "Juble und freue dich, du Tochter Zion! Denn siehe, ich komme und will in deiner Mitte Wohnung nehmen, spricht der HERR."
-" An jenem Tage werden sich viele Nationen dem HERRN anschließen und sie sollen mein Volk sein, und ich will in deiner Mitte Wohnung machen, und du sollst erfahren, daß mich der HERR der Heerscharen zu dir gesandt hat."
+" An jenem Tage werden sich viele Nationen dem HERRN anschließen und sie sollen mein Volk sein, und ich will #in deiner Mitte Wohnung machen, und du sollst erfahren, daß mich der HERR der Heerscharen zu dir gesandt hat."
 " Und der HERR wird Juda als sein Erbteil in Besitz nehmen im heiligen Lande und Jerusalem wieder erwählen."
 " Alles Fleisch sei stille vor dem HERRN; denn er hat sich aufgemacht aus seiner heiligen Wohnung!"

@@ -11,7 +11,7 @@
 "Tedy ona řekla
 "K tomu řekla žena
 "I řekla žena
-"Všickniť jsme zajisté nepochybně smrtelní a jako vody, kteréž rozlity jsouce po zemi, zase sebrány býti nemohou, aniž se Bůh na něčí osobu ohlédá; ovšemť i myšlení svá vynesl, aby vyhnaného nevyháněl od sebe."
+"Všickniť jsme zajisté nepochybně smrtelní a jako vody, kteréž rozlity jsouce po zemi, zase sebrány býti nemohou, aniž #se Bůh na něčí osobu ohlédá; ovšemť i myšlení svá vynesl, aby vyhnaného nevyháněl od sebe."
 "Nyní pak, že jsem přišla ku pánu svému králi mluviti řeči tyto, příčina jest, že mne strašil lid. Protož řekla služebnice tvá
 "Neboť vyslyší král a vysvobodí služebnici svou z ruky muže, chtějícího vyhladiti mne i syna mého spolu z dědictví Božího."
 "Řekla také služebnice tvá

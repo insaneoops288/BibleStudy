@@ -5,7 +5,7 @@
 "Şi au chemat pe Lot şi i-au spus
 "Şi Lot a ieşit la uşă la ei şi a închis uşa după el."
 "Şi a spus
-"Iată acum, am două fete care nu au cunoscut bărbat; lăsaţi-mă, vă rog, să le scot la voi şi faceţi-le precum [este] bine în ochii voştri, numai acestor bărbaţi nu [le] faceţi nimic, căci pentru aceasta au venit sub umbra acoperişului meu."
+"Iată acum, am două fete care nu au cunoscut bărbat; lăsaţi-mă, vă rog, să le scot la voi şi faceţi-le precum [este] #bine în ochii voştri, numai acestor bărbaţi nu [le] faceţi nimic, căci pentru aceasta au venit sub umbra acoperişului meu."
 "Dar ei au spus
 "Dar bărbaţii şi-au întins mâna şi l-au tras pe Lot în casă la ei şi au închis uşa."
 "Şi au lovit pe bărbaţii care [erau] la uşa casei cu orbire, deopotrivă pe mici şi mari, astfel că se osteneau să găsească uşa."
@@ -16,7 +16,7 @@
 "Şi în timp ce el întârzia, bărbaţii au apucat mâna lui şi mâna soţiei lui şi mâna celor două fiice ale lui, DOMNUL fiind milostiv cu el, şi l-au scos şi l-au aşezat în afara cetăţii."
 "Şi s-a întâmplat, după ce i-au scos afară, că a spus
 "Şi Lot le-a spus
-"Iată acum, servitorul tău a găsit har înaintea ochilor tăi şi ai preamărit mila ta, pe care mi-ai arătat-o salvându-mi viaţa; şi nu pot să scap la munte, ca nu cumva ceva rău să mă prindă şi să mor;"
+"Iată acum, servitorul tău a găsit har înaintea ochilor tăi şi ai preamărit mila ta, pe care mi-ai arătat-o salvându-mi #viaţa; şi nu pot să scap la munte, ca nu cumva ceva rău să mă prindă şi să mor;"
 "Iată acum, această cetate [este] aproape, să scap la [ea] şi aceasta [este] una mică
 "Iar el i-a spus
 "Grăbeşte-te, scapă într-acolo, pentru că nu pot face nimic până ce vei fi ajuns acolo. De aceea s-a pus numele cetăţii, Ţoar."

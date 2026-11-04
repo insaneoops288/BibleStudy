@@ -1,10 +1,10 @@
 "Y Jehová dijo a Aarón
-"Y a tus hermanos también, la tribu de Leví, la tribu de tu padre, hazlos venir a ti, para que se unan contigo, y te servirán; y tú y tus hijos contigo serviréis delante del tabernáculo de la congregación."
+"Y a tus hermanos también, la tribu de Leví, la tribu de tu padre, hazlos venir a ti, para que #se unan contigo, y te servirán; y tú y tus hijos contigo serviréis delante del tabernáculo de la congregación."
 "Y guardarán lo que tú ordenares, y el cargo de todo el tabernáculo
 "Se juntarán, pues, contigo, y tendrán el cargo del tabernáculo de la congregación en todo el servicio del tabernáculo; ningún extranjero se ha de llegar a vosotros."
 "Y tendréis la guarda del santuario, y la guarda del altar, para que no haya más ira sobre los hijos de Israel."
 "Porque he aquí yo he tomado a vuestros hermanos los levitas de entre los hijos de Israel, dados a vosotros en don de Jehová, para que sirvan en el ministerio del tabernáculo de la congregación."
-"Mas tú y tus hijos contigo guardaréis vuestro sacerdocio en todo lo concerniente al altar, y del velo adentro, y ministraréis. Yo os he dado en don el servicio de vuestro sacerdocio; y el extraño que se acercare, morirá."
+"Mas tú y tus hijos contigo guardaréis vuestro sacerdocio en todo lo concerniente al altar, y del velo adentro, y #ministraréis. Yo os he dado en don el servicio de vuestro sacerdocio; y el extraño que se acercare, morirá."
 "Dijo más Jehová a Aarón
 "Esto será tuyo de la ofrenda de las cosas santas reservadas del fuego
 "En el santuario la comerás; todo varón comerá de ella

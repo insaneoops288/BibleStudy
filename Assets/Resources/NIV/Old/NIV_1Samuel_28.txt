@@ -12,7 +12,7 @@ Then the woman asked, "Whom shall I bring up for you?" "Bring up Samuel," he sai
 When the woman saw Samuel, she cried out at the top of her voice and said to Saul, "Why have you deceived me? You are Saul!"
 The king said to her, "Don't be afraid. What do you see?" The woman said, "I see a spirit coming up out of the ground."
 "What does he look like?" he asked. "An old man wearing a robe is coming up," she said. Then Saul knew it was Samuel, and he bowed down and prostrated himself with his face to the ground.
-Samuel said to Saul, "Why have you disturbed me by bringing me up?" "I am in great distress," Saul said. "The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called on you to tell me what to do."
+Samuel said to Saul, "Why have you disturbed me by bringing me up?" "I am in great distress," Saul said. "The Philistines are fighting against me, and God has #turned away from me. He no longer answers me, either by prophets or by dreams. So I have called on you to tell me what to do."
 Samuel said, "Why do you consult me, now that the LORD has turned away from you and become your enemy?
 The LORD has done what he predicted through me. The LORD has torn the kingdom out of your hands and given it to one of your neighbors, to David.
 Because you did not obey the LORD or carry out his fierce wrath against the Amalekites, the LORD has done this to you today.

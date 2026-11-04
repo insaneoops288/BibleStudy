@@ -3,7 +3,7 @@
 "en el tercer año de su reinado hizo banquete a todos sus príncipes y siervos, <I>teniendo</I>  delante de él la fuerza de Persia y de Media, gobernadores y príncipes de provincias,"
 "para mostrar él las riquezas de la gloria de su reino, y la honra de la hermosura de su grandeza, por muchos días, ciento ochenta días."
 "Y cumplidos estos días, hizo el rey banquete por siete días en el patio del huerto del palacio real a todo el pueblo, desde el mayor hasta el menor que se halló en Susa capital del reino."
-"<I>El pabellón era de</I>  blanco, verde, y cárdeno, tendido sobre cuerdas de lino y púrpura en anillos de plata y columnas de mármol; los reclinatorios de oro y de plata, sobre losado de pórfido y de mármol, y de alabastro  y de cárdeno."
+"<I>El pabellón era de</I>  blanco, verde, y cárdeno, tendido sobre cuerdas de lino y púrpura en anillos de plata y columnas de #mármol; los reclinatorios de oro y de plata, sobre losado de pórfido y de mármol, y de alabastro  y de cárdeno."
 "Y daban a beber en vasos de oro (<I>los</I>  vasos <I>eran</I>  diferentes unos de otros), y mucho vino real, conforme a la facultad del rey."
 "Y la bebida fue según esta ley
 "Asimismo la reina Vasti hizo banquete de mujeres, en la casa real del rey Asuero."

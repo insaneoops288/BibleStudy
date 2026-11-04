@@ -3,7 +3,7 @@
 "Ímé a lovaknak szájába zabolát vetünk, hogy engedelmeskedjenek nékünk, és az õ egész testöket igazgatjuk."
 "Ímé a hajók is, noha mily nagyok, és erõs szelektõl hajtatnak, mindazáltal igen kis kormánytól oda fordíttatnak, a hová a kormányos szándéka akarja."
 "Ezenképen a nyelv is kicsiny tag és nagy dolgokkal hányja magát. Ímé csekély tûz mily nagy erdõt felgyújt!"
-"A nyelv is tûz, a gonoszságnak összessége. Úgy van a nyelv a mi tagjaink között, hogy megszeplõsíti az egész testet, és lángba borítja élet[ünk] folyását, [maga] is lángba boríttatván a gyehennától."
+"A nyelv is tûz, a gonoszságnak összessége. Úgy van a nyelv a mi tagjaink között, hogy #megszeplõsíti az egész testet, és lángba borítja élet[ünk] folyását, [maga] is lángba boríttatván a gyehennától."
 "Mert minden természet, vadállatoké, madaraké, csúszómászóké és vízieké megszelídíthetõ és meg is szelidíttetett az emberi természet által
 "De a nyelvet az emberek közül senki sem szelidítheti meg; fékezhetetlen gonosz az, halálos méreggel teljes."
 "Ezzel áldjuk az Istent és Atyát, és ezzel átkozzuk az embereket, a kik az Isten hasonlatosságára teremttettek

@@ -9,7 +9,7 @@
 "Assim comprei a propriedade de Hanameel, filho de meu tio, a qual está em Anatote; e pesei para ele o dinheiro
 "E assinei o documento, e o selei, e [o] fiz testemunhar a testemunhas; e pesei o dinheiro em balanças."
 "Tomei logo o documento de compra selado, [que continha] os termos e condições, e a [cópia] aberta."
-"E dei o documento de compra a Baruque, filho de Nerias, filho de Maasias, diante da vista de Hanameel [filho] de meu tio, e diante da vista das testemunhas que assinaram o documento de compra, [e] diante da vista de todos os judeus que estavam sentados no pátio da guarda."
+"E dei o documento de compra a Baruque, filho de Nerias, filho de Maasias, diante da vista de Hanameel [filho] de meu tio, e diante da #vista das testemunhas que assinaram o documento de compra, [e] diante da vista de todos os judeus que estavam sentados no pátio da guarda."
 "E mandei a Baruque diante da vista deles, dizendo
 "Assim diz o SENHOR dos exércitos, Deus de Israel
 "Pois assim diz o SENHOR dos exércitos, Deus de Israel
@@ -21,18 +21,18 @@
 "E tiraste teu povo Israel da terra do Egito com sinais e maravilhas, com mão forte e braço estendido, e com grande espanto;"
 "E deste-lhes esta terra, da qual juraste a seus pais lhes dar, terra que mana leite e mel
 "E entraram, e tomaram posse [dela] ; porém não obedeceram à tua voz, nem andaram em tua lei; nada fizeram do que lhes mandaste fazer; por isso fizeste vir sobre eles todo este mal."
-"Eis aqui os cercos! Já vieram à cidade para tomá-la; e a cidade está entregue nas mãos dos caldeus que lutam contra ela, por causa da espada, da fome e da pestilência; e o que falaste se cumpriu, e eis que tu estás vendo [isso] ."
+"Eis aqui os cercos! Já vieram à cidade para tomá-la; e a cidade está entregue nas mãos dos caldeus que lutam contra ela, por #causa da espada, da fome e da pestilência; e o que falaste se cumpriu, e eis que tu estás vendo [isso] ."
 "Porém tu, ó Senhor DEUS, me disseste
 "Então veio a palavra do SENHOR a Jeremias, dizendo
 "Eis que eu sou o SENHOR, Deus de toda carne
 "Portanto assim diz o SENHOR
-"E os caldeus que lutam contra esta cidade entrarão, e incendiarão esta cidade com fogo, e a queimarão, juntamente com as casas sobre cujas terraços ofereceram incenso a Baal e fizeram ofertas de bebidas a deuses estrangeiros, para me provocarem à ira;"
-"Pois os filhos de Israel e os filhos de Judá têm feito somente o mal diante dos meus olhos desde sua juventude; porque os filhos de Israel nada têm feito, a não ser somente me provocar à ira com a obra de suas mãos,diz o SENHOR."
+"E os caldeus que lutam contra esta cidade entrarão, e incendiarão esta cidade com fogo, e a queimarão, juntamente com as casas #sobre cujas terraços ofereceram incenso a Baal e fizeram ofertas de bebidas a deuses estrangeiros, para me provocarem à ira;"
+"Pois os filhos de Israel e os filhos de Judá têm feito somente o mal diante dos meus olhos desde sua juventude; porque os #filhos de Israel nada têm feito, a não ser somente me provocar à ira com a obra de suas mãos,diz o SENHOR."
 "Pois esta cidade tem me causado minha ira e meu furor desde o dia que a edificaram até hoje, de tal maneira que eu a removerei de minha presença;"
-"Por toda a maldade dos filhos de Israel e dos filhos de Judá, que têm feito para me provocarem à ira; eles, seus reis, seus príncipes, seus sacerdotes, seus profetas, os homens de Judá, e os moradores de Jerusalém."
+"Por toda a maldade dos filhos de Israel e dos filhos de Judá, que têm feito para me provocarem à #ira; eles, seus reis, seus príncipes, seus sacerdotes, seus profetas, os homens de Judá, e os moradores de Jerusalém."
 "E viraram para mim as costas, e não o rosto. Ainda que eu tenha lhes ensinado, insistindo em ensinar, contudo se recusaram a ouvir para receberem correção;"
 "Ao invés disso, puseram suas abominações na casa que se chama pelo meu nome, para a profanarem."
-"E edificaram os altos de Baal, que ficam no vale do filho de Hinom, para fazer seus filhos e suas filhas passarem [pelo fogo] a Moloque, o que nunca lhes mandei, nem pensei em meu coração, para que fizessem tal abominação, para fazerem pecar a Judá."
+"E edificaram os altos de Baal, que ficam no vale do filho de Hinom, para fazer seus filhos e suas filhas passarem [pelo fogo] #a Moloque, o que nunca lhes mandei, nem pensei em meu coração, para que fizessem tal abominação, para fazerem pecar a Judá."
 "E portanto agora assim diz o SENHOR Deus de Israel, quanto a esta cidade, da qual vós dizeis
 "Eis que eu os ajuntarei de todas as terras para onde eu os tiver lançado com minha ira, meu furor e grande indignação; e os farei voltar a este lugar, e os farei habitar em segurança;"
 "E eles serão meu povo, e eu lhes serei seu Deus."
@@ -41,4 +41,4 @@
 "E me alegrarei com eles fazendo-lhes bem, e fielmente os plantarei nesta terra , com todo meu coração e com toda a minha alma."
 "Pois assim diz o SENHOR
 "E campos serão comprados nesta terra da qual vós dizeis
-"Campos serão comprados por dinheiro, e se assinarão documentos, e os selarão, e farão testemunhas testemunharem, na terra de Benjamim, nos arredores de Jerusalém, e nas cidades de Judá; nas cidades das montanhas, e nas cidades das planícies, e nas cidades do Negueve; porque eu [os] farei voltarem de seu cativeiro, diz o SENHOR."
+"Campos serão comprados por dinheiro, e se assinarão documentos, e os selarão, e farão testemunhas testemunharem, na terra de Benjamim, nos arredores de Jerusalém, e nas cidades de #Judá; nas cidades das montanhas, e nas cidades das planícies, e nas cidades do Negueve; porque eu [os] farei voltarem de seu cativeiro, diz o SENHOR."

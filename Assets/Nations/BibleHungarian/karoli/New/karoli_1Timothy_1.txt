@@ -6,7 +6,7 @@
 "Melyektõl némelyek eltévelyedvén, hiábavaló beszédre hajlottak
 "Kik törvénytanítók akarván lenni, nem értik, sem a miket beszélnek, sem a miket erõsítgetnek."
 "Tudjuk pedig, hogy a törvény jó, ha valaki törvényszerûen él vele,"
-"Tudván azt, hogy a törvény nem az igazért van, hanem a törvénytaposókért és engedetlenekért, az istentelenekért és bûnösökért, a latrokért és fertelmesekért, az atya- és anyagyilkosokért, emberölõkért."
+"Tudván azt, hogy a törvény nem az igazért van, hanem a törvénytaposókért és engedetlenekért, #az istentelenekért és bûnösökért, a latrokért és fertelmesekért, az atya- és anyagyilkosokért, emberölõkért."
 "Paráznákért, férfifertõztetõkért, emberrablókért, hazugokért, hamisan esküvõkért, és a mi egyéb csak az egészséges tudománynyal ellenkezik,"
 "A boldog Isten dicsõségének evangyélioma szerint, mely reám bízatott."
 "És hálát adok annak, a ki engem megerõsített, a Krisztus Jézusnak, a mi Urunknak, hogy engem hívnek ítélt, rendelvén a szolgálatra,"

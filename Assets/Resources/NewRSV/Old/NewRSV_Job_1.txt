@@ -2,7 +2,7 @@ There was once a man in the land of Uz whose name was Job. That man was blameles
 There were born to him seven sons and three daughters.
 He had seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred donkeys, and very many servants; so that this man was the greatest of all the people of the east.
 His sons used to go and hold feasts in one another's houses in turn; and they would send and invite their three sisters to eat and drink with them.
-And when the feast days had run their course, Job would send and sanctify them, and he would rise early in the morning and offer burnt offerings according to the number of them all; for Job said, "It may be that my children have sinned, and cursed God in their hearts." This is what Job always did.
+And when the feast days had run their course, Job would send and sanctify them, and he would rise early in the morning and offer burnt offerings according to #the number of them all; for Job said, "It may be that my children have sinned, and cursed God in their hearts." This is what Job always did.
 One day the heavenly beings came to present themselves before the LORD, and Satan also came among them.
 The LORD said to Satan, "Where have you come from?" Satan answered the LORD, "From going to and fro on the earth, and from walking up and down on it."
 The LORD said to Satan, "Have you considered my servant Job? There is no one like him on the earth, a blameless and upright man who fears God and turns away from evil."
@@ -14,7 +14,7 @@ One day when his sons and daughters were eating and drinking wine in the eldest 
 a messenger came to Job and said, "The oxen were plowing and the donkeys were feeding beside them,
 and the Sabeans fell on them and carried them off, and killed the servants with the edge of the sword; I alone have escaped to tell you."
 While he was still speaking, another came and said, "The fire of God fell from heaven and burned up the sheep and the servants, and consumed them; I alone have escaped to tell you."
-While he was still speaking, another came and said, "The Chaldeans formed three columns, made a raid on the camels and carried them off, and killed the servants with the edge of the sword; I alone have escaped to tell you."
+While he was still speaking, another came and said, "The Chaldeans formed three columns, made a raid on the camels and #carried them off, and killed the servants with the edge of the sword; I alone have escaped to tell you."
 While he was still speaking, another came and said, "Your sons and daughters were eating and drinking wine in their eldest brother's house,
 and suddenly a great wind came across the desert, struck the four corners of the house, and it fell on the young people, and they are dead; I alone have escaped to tell you."
 Then Job arose, tore his robe, shaved his head, and fell on the ground and worshiped.

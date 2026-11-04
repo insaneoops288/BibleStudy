@@ -16,7 +16,7 @@
 "Jézus pedig monda nékik
 "Azok pedig mondának néki
 "Õ pedig monda
-"És mikor megparancsolá a sokaságnak, hogy üljenek le a fûre, vevé az öt kenyeret és két halat, és szemeit az égre emelvén, hálákat ada; és megszegvén a kenyereket, adá a tanítványoknak, a tanítványok pedig a sokaságnak."
+"És mikor megparancsolá a sokaságnak, hogy üljenek le a fûre, vevé az öt kenyeret és két halat, és szemeit #az égre emelvén, hálákat ada; és megszegvén a kenyereket, adá a tanítványoknak, a tanítványok pedig a sokaságnak."
 "És mindnyájan evének, és megelégedének; és felszedék a maradék darabokat, tizenkét teli kosárral."
 "A kik pedig ettek vala, mintegy ötezeren valának férfiak, asszonyokon és gyermekeken kívül."
 "És mindjárt kényszeríté Jézus az õ tanítványait, hogy szálljanak a hajóba és menjenek át elõre a túlsó partra, míg õ elbocsátja a sokaságot."

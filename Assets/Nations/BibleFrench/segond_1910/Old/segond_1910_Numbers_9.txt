@@ -2,7 +2,7 @@
 "Que les enfants d'Israël célèbrent la Pâque au temps fixé."
 "Vous la célébrerez au temps fixé, le quatorzième jour de ce mois, entre les deux soirs; vous la célébrerez selon toutes les lois et toutes les ordonnances qui s'y rapportent."
 "Moïse parla aux enfants d'Israël, afin qu'ils célébrassent la Pâque."
-"Et ils célébrèrent la Pâque le quatorzième jour du premier mois, entre les deux soirs, dans le désert de Sinaï; les enfants d'Israël se conformèrent à tous les ordres que l'Eternel avait donnés à Moïse."
+"Et ils célébrèrent la Pâque le quatorzième jour du premier mois, entre les deux soirs, dans le désert #de Sinaï; les enfants d'Israël se conformèrent à tous les ordres que l'Eternel avait donnés à Moïse."
 "Il y eut des hommes qui, se trouvant impurs à cause d'un mort, ne pouvaient pas célébrer la Pâque ce jour-là. Ils se présentèrent le même jour devant Moïse et Aaron;"
 "et ces hommes dirent à Moïse
 "Moïse leur dit
@@ -10,8 +10,8 @@
 "Parle aux enfants d'Israël, et dis-leur
 "C'est au second mois qu'ils la célébreront, le quatorzième jour, entre les deux soirs; ils la mangeront avec des pains sans levain et des herbes amères."
 "Ils n'en laisseront rien jusqu'au matin, et ils n'en briseront aucun os. Ils la célébreront selon toutes les ordonnances de la Pâque."
-"Si celui qui est pur et qui n'est pas en voyage s'abstient de célébrer la Pâque, celui-là sera retranché de son peuple; parce qu'il n'a pas présenté l'offrande de l'Eternel au temps fixé, cet homme-là portera la peine de son péché."
-"Si un étranger en séjour chez vous célèbre la Pâque de l'Eternel, il se conformera aux lois et aux ordonnances de la Pâque. Il y aura une même loi parmi vous, pour l'étranger comme pour l'indigène."
+"Si celui qui est pur et qui n'est pas en voyage s'abstient de célébrer la Pâque, celui-là sera retranché de son #peuple; parce qu'il n'a pas présenté l'offrande de l'Eternel au temps fixé, cet homme-là portera la peine de son péché."
+"Si un étranger en séjour chez vous célèbre la Pâque de l'Eternel, il se conformera aux lois et aux #ordonnances de la Pâque. Il y aura une même loi parmi vous, pour l'étranger comme pour l'indigène."
 "Le jour où le tabernacle fut dressé, la nuée couvrit le tabernacle, la tente d'assignation; et, depuis le soir jusqu'au matin, elle eut sur le tabernacle l'apparence d'un feu."
 "Il en fut continuellement ainsi
 "Quand la nuée s'élevait de dessus la tente, les enfants d'Israël partaient; et les enfants d'Israël campaient dans le lieu où s'arrêtait la nuée."

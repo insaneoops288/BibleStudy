@@ -6,7 +6,7 @@
 "Mas agora [Jesus] obteve um ofício mais relevante, como é também Mediador de um melhor pacto, que está firmado em melhores promessas."
 "Pois, se aquele primeiro tivesse sido infalível, nunca haveria se buscado lugar para o segundo."
 "Porque, enquanto [Deus] repreendia os do povo, disse-lhes
-"não conforme o pacto que fiz com os seus ancestrais no dia em que eu os tomei pelas mãos, para os tirar da terra do Egito. Pois não permaneceram naquele meu pacto, e parei de lhes dar atenção, diz o Senhor."
+"não conforme o pacto que fiz com os seus ancestrais no dia em que eu os tomei pelas mãos, para os #tirar da terra do Egito. Pois não permaneceram naquele meu pacto, e parei de lhes dar atenção, diz o Senhor."
 "Este, pois, é o pacto que farei com o povo de Israel depois daqueles dias, diz o Senhor
 "E não terão de ensinar cada um ao seu próximo, ou ao seu irmão, dizendo
 "Pois serei misericordioso com as suas injustiças, e não mais me lembrarei dos seus pecados e das suas transgressões."

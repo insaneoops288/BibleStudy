@@ -12,4 +12,4 @@
 "Y le hablarás, diciendo
 "El edificará el templo de Jehová, y él llevará gloria, y se sentará y dominará en su trono, y será sacerdote en su solio; y consejo de paz será entre ambos á dos."
 "Y Helem, y Tobías, y Jedaía, y Hen, hijo de Sefanías, tendrán coronas por memorial en el templo de Jehová."
-"Y los que están lejos vendrán y edificarán en el templo de Jehová, y conoceréis que Jehová de los ejércitos me ha enviado á vosotros. Y será esto, si oyereis obedientes la voz de Jehová vuestro Dios."
+"Y los que están lejos vendrán y edificarán en el templo de Jehová, y conoceréis que Jehová de los #ejércitos me ha enviado á vosotros. Y será esto, si oyereis obedientes la voz de Jehová vuestro Dios."

@@ -23,7 +23,7 @@
 "São ministros de Cristo? (falo como fora de mim) eu ainda mais
 "Recebi dos judeus cinco quarentenas de açoites menos um."
 "Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo;"
-"Em viagens muitas vezes, em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos;"
+"Em viagens muitas vezes, em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos #gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos;"
 "Em trabalhos e fadiga, em vigílias, em fome e sede, em jejum muitas vezes, em frio e nudez."
 "Além das coisas exteriores, me oprime cada dia o cuidado de todas as igrejas."
 "Quem enfraquece, que eu também não enfraqueça? Quem se escandaliza, que eu me não abrase?"

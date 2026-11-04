@@ -7,7 +7,7 @@
 "Ja katso, Herran enkeli seisoi hänen tykönänsä ja kirkkaus paisti huoneessa, lykkäsi Pietaria kylkeen, herätti hänen ja sanoi
 "Niin enkeli sanoi hänelle
 "Ja hän meni ulos ja seurasi häntä, eikä tietänyt sitä todeksi, mitä enkeliltä tehtiin, vaan luuli näyn näkevänsä."
-"Mutta kuin he menivät ensimäisen ja toisen vartion lävitse, ja tulivat rautaiseen porttiin, joka vie kaupunkiin, niin se aukeni heille itsestänsä; ja he menivät siitä ulos, käyden katua myöten, ja kohta erkani enkeli hänestä."
+"Mutta kuin he menivät ensimäisen ja toisen vartion lävitse, ja tulivat rautaiseen porttiin, joka vie kaupunkiin, niin se #aukeni heille itsestänsä; ja he menivät siitä ulos, käyden katua myöten, ja kohta erkani enkeli hänestä."
 "Ja kuin Pietari tointui entisellensä, sanoi hän
 "Ja kuin hän tätä ajatellut oli, tuli hän Marian, Johanneksen äidin, huoneen tykö, joka Markukseksi kutsuttiin, jossa monta oli koossa, ja rukoilivat."
 "Mutta kuin Pietari porstuan oveen kolkutti, tuli piika, Roode nimeltä, kuultelemaan."
@@ -17,7 +17,7 @@
 "Mutta hän viittasi kädellänsä heitä vaikenemaan, ja jutteli heille, kuinka Herra oli hänen vankiudesta johdattanut ulos, ja sanoi
 "Mutta kuin päivä tuli, niin ei sotamiehillä ollut vähin kapina, kuhunka Pietari tullut oli."
 "Ja kuin Herodes piti sanan hänen perässänsä, eikä häntä löytänyt, antoi hän vartiat tutkia ja käski heitä rangaista. Ja meni Juudeasta alas Kesareaan ja viipyi siellä."
-"Ja Herodes oli vihoissansa Tyron ja Sidonin asuvaisille; mutta he tulivat yksimielisesti hänen tykönsä ja lepyttivät kuninkaan kamaripalvelian Blastuksen, ja anoivat rauhaa; sillä heidän maakuntansa sai kuninkaan maasta elatuksensa."
+"Ja Herodes oli vihoissansa Tyron ja Sidonin asuvaisille; mutta he tulivat yksimielisesti hänen tykönsä ja #lepyttivät kuninkaan kamaripalvelian Blastuksen, ja anoivat rauhaa; sillä heidän maakuntansa sai kuninkaan maasta elatuksensa."
 "Mutta määrättynä päivänä oli Herodes puetettu kuninkaallisissa vaatteissa, istuen tuomioistuimella, ja piti puheen heidän tykönsä."
 "Mutta kansa huusi
 "Ja Herran enkeli löi kohta häntä, ettei hän kunniaa Jumalalle antanut. Ja hän syötiin madoilta, ja antoi henkensä."

@@ -2,7 +2,7 @@
 "Dhe Pali, sipas zakonit të vet, hyri tek ata dhe tri të shtuna me radhë u paraqiti argumente nga Shkrimet,"
 "duke deklaruar dhe duke treguar atyre se Krishti duhej të vuante dhe të ringjallej prej së vdekurish dhe duke thënë
 "Disa nga ata besuan dhe u bashkuan me Palin dhe Silën, si dhe një numër i madh Grekësh të përshpirtshëm dhe jo pak gra të rëndësishme."
-"Por Judenjtë, të cilët nuk kishin besuar, patën smirë dhe morën me vete disa njerëz të këqij nga ata të rrugëve të tregut dhe, si mblodhën një turmë, e bënë rrëmujë qytetin; edhe sulmuan shtëpinë e Jasonit dhe kërkonin ata për t'i nxjerrë përpara popullit."
+"Por Judenjtë, të cilët nuk kishin besuar, patën smirë dhe morën me vete disa njerëz të këqij nga ata të rrugëve të tregut #dhe, si mblodhën një turmë, e bënë rrëmujë qytetin; edhe sulmuan shtëpinë e Jasonit dhe kërkonin ata për t'i nxjerrë përpara popullit."
 "Por, mbasi nuk i gjetën, e hoqën zvarrë Jasonin dhe disa vëllezër përpara krerëve të qytetit, duke thirrur
 "dhe Jasoni këta i priti; të gjithë këta veprojnë kundër statuteve të Cezarit, duke thënë se është një mbret tjetër, Jezusi''."
 "Edhe nxitën popullin dhe krerët e qytetit, që i dëgjonin këto gjëra."
@@ -26,9 +26,9 @@
 "dhe ai ka bërë nga një gjak i vetëm të gjitha racat e njerëzve, që të banojnë në mbarë faqen e dheut, dhe caktoi kohërat me radhë dhe caqet e banimit të tyre,"
 "që të kërkojnë Zotin, mbase mund ta gjejnë duke prekur, ndonëse ai nuk është larg nga secili prej nesh."
 "Sepse në të ne jetojmë, lëvizim dhe jemi, sikurse kanë thënë edhe disa nga poetët tuaj
-"Duke qenë, pra, se ne jemi pasardhës të Perëndisë, nuk duhet të mendojmë që natyra e perëndishme është e ngjashme me arin ose me argjendin, ose me gurin ose me një vepër arti të latuar dhe të shpikur nga njeriu."
+"Duke qenë, pra, se ne jemi pasardhës të Perëndisë, nuk duhet të mendojmë që natyra e perëndishme është e ngjashme me #arin ose me argjendin, ose me gurin ose me një vepër arti të latuar dhe të shpikur nga njeriu."
 "Perëndia, pra, duke kaluar përmbi kohërat e padijes, i urdhëron të gjithë njerëzit dhe kudo që të pendohen."
-"Sepse ai ka caktuar një ditë në të cilën do të gjykojë me drejtësi botën me anë të atij njeriu të cilin ai e ka caktuar; dhe për këtë u ka dhënë të gjithëve një provë të sigurt, duke e ringjallur prej të vdekurit''."
+"Sepse ai ka caktuar një ditë në të cilën do të gjykojë me drejtësi botën me anë të atij njeriu të cilin ai #e ka caktuar; dhe për këtë u ka dhënë të gjithëve një provë të sigurt, duke e ringjallur prej të vdekurit''."
 "Kur dëgjuan të flitej për ringjalljen e të vdekurve, disa e përqeshën dhe të tjerë thoshnin
 "Kështu Pali doli nga mesi i tyre."
 "Por disa u bashkuan me të dhe besuan, ndër këta edhe Dionis areopagiti, një grua që quhej Damaris dhe ca të tjerë me ta."

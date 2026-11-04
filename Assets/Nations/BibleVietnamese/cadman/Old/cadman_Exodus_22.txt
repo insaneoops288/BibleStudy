@@ -8,7 +8,7 @@
 "Nếu kẻ trộm không bị bắt được, thì chủ nhà cho gởi phải dẫn đến trước mặt Ðức Chúa Trời, đặng thề rằng mình chẳng hề đặt tay vào tài vật của kẻ lân cận mình."
 "Trong mọi việc gian lận nào, hoặc về một con bò, một con lừa, một con chiên, áo xống hay là một vật chi bị mất, mà có người nói rằng
 "Nhược bằng người nào giao lừa, bò, chiên, hoặc súc vật nào khác cho kẻ lân cận mình giữ và bị chết, gãy một giò hay là bị đuổi đi, không ai thấy,"
-"thì hai đàng phải lấy danh Ðức Giê-hô-va mà thề, hầu cho biết rằng người giữ súc vật có đặt tay trên tài vật của kẻ lân cận mình chăng. Người chủ con vật phải nhận lời thề, và người kia chẳng bồi thường."
+"thì hai đàng phải lấy danh Ðức Giê-hô-va mà thề, hầu cho biết rằng người giữ súc vật có đặt tay trên tài #vật của kẻ lân cận mình chăng. Người chủ con vật phải nhận lời thề, và người kia chẳng bồi thường."
 "Còn nếu con vật bị bắt trộm, thì người lãnh giữ phải thường bồi cho chủ nó."
 "Nếu con bật bị thú rừng xé chết, người lãnh giữ phải đem nó ra làm chứng, sẽ không phải bồi thường vật bị xé đó."
 "Vì ai mượn người lân cận mình một con vật mà nó gãy một giò, hoặc bị chết, không có mặt chủ, thì ai đó phải bồi thường."

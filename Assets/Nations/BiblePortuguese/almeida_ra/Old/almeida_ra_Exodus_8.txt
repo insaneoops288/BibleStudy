@@ -1,6 +1,6 @@
 "Então disse o Senhor a Moisés
 "Mas se recusares deixá-lo ir, eis que ferirei com rãs todos os teus termos."
-"O rio produzirá rãs em abundância, que subirão e virão à tua casa, e ao teu dormitório, e sobre a tua cama, e às casas dos teus servos, e sobre o teu povo, e aos teus fornos, e às tuas amassadeiras."
+"O rio produzirá rãs em abundância, que subirão e virão à tua casa, e ao teu dormitório, e sobre a tua #cama, e às casas dos teus servos, e sobre o teu povo, e aos teus fornos, e às tuas amassadeiras."
 "Sim, as rãs subirão sobre ti, e sobre o teu povo, e sobre todos os teus servos."
 "Disse mais o Senhor a Moisés
 "Arão, pois, estendeu a mão sobre as águas do Egipto, e subiram rãs, que cobriram a terra do Egipto."
@@ -18,7 +18,7 @@
 "Também os magos fizeram assim com os seus encantamentos para produzirem piolhos, mas não puderam. E havia piolhos, nos homens e nos animais."
 "Então disseram os magos a Faraó
 "Disse mais o Senhor a Moisés
-"Porque se não deixares ir o meu povo., eis que enviarei enxames de moscas sobre ti, e sobre os teus servos, e sobre o teu povo, e nas tuas casas; e as casas dos egípcios se encherão destes enxames, bem como a terra em que eles estiverem."
+"Porque se não deixares ir o meu povo., eis que enviarei enxames de moscas sobre ti, e sobre os teus servos, e sobre o #teu povo, e nas tuas casas; e as casas dos egípcios se encherão destes enxames, bem como a terra em que eles estiverem."
 "Mas naquele dia separarei a terra de Gósem em que o meu povo habita, a fim de que nela não haja enxames de moscas, para que saibas que eu sou o Senhor no meio desta terra."
 "Assim farei distinção entre o meu povo e o teu povo; amanhã se fará este milagre."
 "O Senhor, pois, assim fez. Entraram grandes enxames de moscas na casa de Faraó e nas casas dos seus servos; e em toda parte do Egipto a terra foi assolada pelos enxames de moscas."

@@ -10,7 +10,7 @@
 "Hyvästi siunattu olkoon Davidin meidän isän valtakunta, joka tulee Herran nimeen
 "Ja Jesus meni Jerusalemiin ja templiin, ja kuin hän kaikki ympäri katseli, koska jo ehtooaika oli, läksi hän ulos Betaniaan kahdentoistakymmenen kanssa."
 "Ja toisena päivänä, kuin he Betaniasta läksivät, isosi hän,"
-"Ja näki taampana fikunapuun, jolla olivat lehdet, niin hän meni lähes, jos hän jotakin hänestä löytänyt olis. Ja kuin hän tuli tykö, ei hän muuta löytänyt kuin lehtiä; sillä ei ollut vielä fikunain aika."
+"Ja näki taampana fikunapuun, jolla olivat lehdet, niin hän meni lähes, jos hän jotakin hänestä löytänyt olis. Ja #kuin hän tuli tykö, ei hän muuta löytänyt kuin lehtiä; sillä ei ollut vielä fikunain aika."
 "Ja Jesus vastaten sanoi hänelle
 "Ja he tulivat Jerusalemiin. Ja Jesus meni templiin, rupesi ajamaan ulos kaupitsioita ja ostajia templissä, ja vaihettajain pöydät ja kyhkyläisten myyjäin istuimet hän kukisti."
 "Ei hän myös sallinut jonkun kantaa astiaa templin lävitse."

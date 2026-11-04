@@ -23,7 +23,7 @@
 "J'ai éprouvé tout cela par la sagesse. J'ai dit
 "Ce qui est loin, ce qui est profond, profond, qui peut l'atteindre?"
 "Je me suis appliqué dans mon coeur à connaître, à sonder, et à chercher la sagesse et la raison des choses, et à connaître la folie de la méchanceté et la stupidité de la sottise."
-"Et j'ai trouvé plus amère que la mort la femme dont le coeur est un piège et un filet, et dont les mains sont des liens; celui qui est agréable à Dieu lui échappe, mais le pécheur est pris par elle."
+"Et j'ai trouvé plus amère que la mort la femme dont le coeur est un piège et un filet, et dont #les mains sont des liens; celui qui est agréable à Dieu lui échappe, mais le pécheur est pris par elle."
 "Voici ce que j'ai trouvé, dit l'Ecclésiaste, en examinant les choses une à une pour en saisir la raison;"
 "voici ce que mon âme cherche encore, et que je n'ai point trouvé. J'ai trouvé un homme entre mille; mais je n'ai pas trouvé une femme entre elles toutes."
 "Seulement, voici ce que j'ai trouvé, c'est que Dieu a fait les hommes droits; mais ils ont cherché beaucoup de détours."

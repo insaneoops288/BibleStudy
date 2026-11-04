@@ -1,7 +1,7 @@
 "Ein Mann aber, mit Namen Ananias, samt seiner Frau Saphira, verkaufte ein Gut"
 "und entwendete von dem Erlös, unter Mitwissen seiner Frau, und brachte einen Teil davon und legte ihn den Aposteln zu Füßen."
 "Petrus aber sprach
-"Konntest du es nicht als dein Eigentum behalten? Und als du es verkauft hattest, war es nicht in deiner Gewalt? Warum beschlossest du denn in deinem Herzen diese Tat? Du hast nicht Menschen belogen, sondern Gott!"
+"Konntest du es nicht als dein Eigentum behalten? Und als du es verkauft hattest, war es nicht in deiner #Gewalt? Warum beschlossest du denn in deinem Herzen diese Tat? Du hast nicht Menschen belogen, sondern Gott!"
 "Als aber Ananias diese Worte hörte, fiel er nieder und verschied. Und es kam große Furchtüber alle, die es hörten."
 "Es standen aber die Jünglinge auf, hüllten ihn ein, trugen ihn hinaus und begruben ihn."
 "Und es begab sich, nach einer Weile von ungefähr drei Stunden, da kam seine Frau herein, ohne zu wissen, was geschehen war."
@@ -18,7 +18,7 @@
 "Die wurden voll Eifersucht und legten ihre Hände an die Apostel und setzten sie inöffentlichen Gewahrsam."
 "Aber ein Engel des Herrnöffnete in der Nacht die Türen des Gefängnisses und führte sie heraus und sprach
 "Gehet hin, tretet auf und redet im Tempel zum Volk alle Worte dieses Lebens!"
-"Als sie das hörten, gingen sie frühmorgens in den Tempel und lehrten. Es kam aber der Hohepriester und sein Anhang, und sie riefen den Hohen Rat und alleÄltesten der Kinder Israel zusammen und sandten in das Gefängnis, um sie herbringen zu lassen."
+"Als sie das hörten, gingen sie frühmorgens in den Tempel und lehrten. Es kam aber der Hohepriester und sein Anhang, und sie #riefen den Hohen Rat und alleÄltesten der Kinder Israel zusammen und sandten in das Gefängnis, um sie herbringen zu lassen."
 "Als aber die Diener hinkamen, fanden sie jene nicht im Gefängnis. Da kehrten sie zurück, meldeten es und sprachen
 "Das Gefängnis fanden wir zwar mit aller Sorgfalt verschlossen und die Wächter vor den Türen stehen; als wir aberöffneten, fanden wir niemand darin!"
 "Als aber der Tempelhauptmann und die Hohenpriester diese Worte hörten, konnten sie sich nicht erklären, wieso das komme."
@@ -33,7 +33,7 @@
 "Als sie aber das hörten, fühlten sie sich tief getroffen und wollten sie umbringen."
 "Es stand aber im Hohen Rate ein Pharisäer namens Gamaliel auf, ein beim ganzen Volke angesehener Gesetzeslehrer, und befahl, die Leute ein wenig abtreten zu lassen;"
 "dann sprach er zu ihnen
-"Denn vor diesen Tagen trat Theudas auf, der sich für etwas Großes ausgab und dem eine Anzahl Männer, etwa vierhundert, anhing; der wurde erschlagen, und alle, die ihm folgten, zerstreuten sich und wurden zunichte."
+"Denn vor diesen Tagen trat Theudas auf, der sich für etwas Großes ausgab und dem eine Anzahl Männer, #etwa vierhundert, anhing; der wurde erschlagen, und alle, die ihm folgten, zerstreuten sich und wurden zunichte."
 "Nach diesem trat Judas, der Galiläer, in den Tagen der Schatzung auf und brachte unter seiner Führung viel Volk zum Abfall; und auch er kam um, und alle, die ihm folgten, wurden zerstreut."
 "Und jetzt sage ich euch
 "ist es aber von Gott, so vermöget ihr es nicht zu vernichten. Daß ihr nicht gar als solche erfunden werdet, die wider Gott streiten!"

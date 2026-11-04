@@ -17,6 +17,6 @@
 "Katso, minä herätän Mediläiset heidän päällensä, jotka ei etsi hopiaa, eikä kysy kultaa;"
 "Vaan ampuvat nuoria miehiä kuoliaaksi joutsilla, ja ei armahda äidin kohdun hedelmää, eikä säästä lastakaan."
 "Näin pitää Babeli, se kaikkein kaunein valtakuntain seassa, Kaldealaisten koreus, tuleman; niinkuin Jumala kukisti Sodoman ja Gomorran;"
-"Niin ettei siellä enää pidä asuttaman ajankaikkisesti, eikä siellä asuntoa pidettämän suvusta sukuun. Niin ettei myös Arabialaisten sinne pidä yhtään majaa tekemän, eikä paimenten pidä siellä lounalla makaaman."
+"Niin ettei siellä enää pidä asuttaman ajankaikkisesti, eikä siellä asuntoa pidettämän suvusta sukuun. Niin ettei #myös Arabialaisten sinne pidä yhtään majaa tekemän, eikä paimenten pidä siellä lounalla makaaman."
 "Vaan metsän pedot pitää siellä makaaman, ja heidän huoneensa oleman täynnä kauheita petoja, ja yököt pitää siellä asuman, ja siellä liekkiöt hyppelemän,"
 "Ja tarhapöllöt laulaman hänen kaunistetuissa huoneissansa, ja lohikäärmeet iloisissa linnoissa. Ja hänen aikansa on pian tuleva, ja hänen päivänsä ei pidä viipymän."

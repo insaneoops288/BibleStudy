@@ -1,7 +1,7 @@
 "Das Wort des HERRN, welches an Zephanja, den Sohn Kuschis, des Sohnes Gedaljas, des Sohnes Amarjas, des Sohnes Hiskias, erging, in den Tagen Josias, des Sohnes Amons, des Königs von Juda
 "Ich will alles vom Erdboden wegraffen, spricht der HERR."
 "Ich will wegraffen Menschen und Vieh, die Vögel des Himmels und die Fische im Meer und dieÄrgernisse mitsamt den Gottlosen, und will den Menschen vom Erdboden vertilgen, spricht der HERR."
-"Und ich will meine Hand ausstrecken wider Juda und wider alle Bewohner von Jerusalem und will von diesem Orte ausrotten denÜberrest des Baalsdienstes, den Namen der Götzendiener samt den Priestern;"
+"Und ich will meine Hand ausstrecken wider Juda und wider alle Bewohner von Jerusalem und will #von diesem Orte ausrotten denÜberrest des Baalsdienstes, den Namen der Götzendiener samt den Priestern;"
 "auch die, welche auf den Dächern das Heer des Himmels anbeten, samt denen, welche den HERRN anbeten und bei ihm schwören, zugleich aber auch bei Malkom schwören;"
 "und die, welche abweichen von der Nachfolge des HERRN und weder den HERRN suchen, noch nach ihm fragen."
 "Seid stille vor dem Angesicht Gottes, des HERRN! Denn nahe ist der Tag des HERRN; denn der HERR hat ein Schlachtopfer zugerichtet, er hat seine Geladenen geheiligt."
@@ -15,4 +15,4 @@
 "Ein Tag des Zorns ist dieser Tag, ein Tag der Angst und der Bedrängnis, ein Tag des Ruins und der Zerstörung, ein Tag der Finsternis und des Dunkels, ein bewölkter und finsterer Tag,"
 "ein Tag des Posaunen und Trompetenklangs wider die festen Städte und die hohen Zinnen."
 "Da will ich die Menschenängstigen, daß sie herumtappen wie die Blinden; denn am HERRN haben sie sich versündigt; darum soll ihr Blut hingeschüttet werden wie Staub und ihr Fleisch wie Mist!"
-"Weder ihr Silber noch ihr Gold wird sie zu retten vermögen am Tage des Zornes des HERRN, sondern durch das Feuer seines Eifers soll die ganze Erde verzehrt werden; denn einen plötzlichen Untergang wird er allen Bewohnern der Erde bereiten."
+"Weder ihr Silber noch ihr Gold wird sie zu retten vermögen am Tage des Zornes des HERRN, sondern durch das Feuer #seines Eifers soll die ganze Erde verzehrt werden; denn einen plötzlichen Untergang wird er allen Bewohnern der Erde bereiten."

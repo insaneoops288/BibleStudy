@@ -11,4 +11,4 @@
 "Kishte degë të forta të përshtatshme për skeptra mbretërorë, ishte ngjitur lart midis degëve gjetheshumë dhe shquhej në shtatin e saj për degët e shumta të saj."
 "Por u çrrënjos me tërbim dhe u hodh për tokë; era e lindjes ia thau frytin; degët e saj të forta u shkëputën dhe u thanë, zjarri i përpiu."
 "Tani është mbjellë në shkretëtirë në një tokë të thatë dhe të etur për ujë;"
-"Një zjarr ka dalë nga një shermend i degëve të saj dhe ka përpirë frytin e saj; në të nuk ka më asnjë degë të fortë të përshtatshme për skeptra mbretërorë"". Ky është një vajtim dhe do të jetë një vajtim."
+"Një zjarr ka dalë nga një shermend i degëve të saj dhe ka përpirë frytin e saj; në të nuk ka #më asnjë degë të fortë të përshtatshme për skeptra mbretërorë"". Ky është një vajtim dhe do të jetë një vajtim."

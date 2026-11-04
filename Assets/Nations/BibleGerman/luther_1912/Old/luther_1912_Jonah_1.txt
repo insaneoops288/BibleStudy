@@ -1,8 +1,8 @@
 "Es geschah das Wort des HERRN zu Jona, dem Sohn Amitthais, und sprach
 "Mache dich auf und gehe in die große Stadt Ninive und predige wider sie! denn ihre Bosheit ist heraufgekommen vor mich."
-"Aber Jona machte sich auf und floh vor dem HERRN und wollte gen Tharsis und kam hinab gen Japho. Und da er ein Schiff fand, das gen Tharsis wollte fahren, gab er Fährgeld und trat hinein, daß er mit ihnen gen Tharsis führe vor dem HERRN."
+"Aber Jona machte sich auf und floh vor dem HERRN und wollte gen Tharsis und kam hinab gen Japho. Und da er ein Schiff #fand, das gen Tharsis wollte fahren, gab er Fährgeld und trat hinein, daß er mit ihnen gen Tharsis führe vor dem HERRN."
 "Da ließ der HERR einen großen Wind aufs Meer kommen, und es erhob sich ein großes Ungewitter auf dem Meer, daß man meinte, das Schiff würde zerbrechen."
-"Und die Schiffsleute fürchteten sich und schrieen, ein jeglicher zu seinem Gott, und warfen das Gerät, das im Schiff war, ins Meer, daß es leichter würde. Aber Jona war hinunter in das Schiff gestiegen, lag und schlief."
+"Und die Schiffsleute fürchteten sich und schrieen, ein jeglicher zu seinem Gott, und warfen das Gerät, das im Schiff #war, ins Meer, daß es leichter würde. Aber Jona war hinunter in das Schiff gestiegen, lag und schlief."
 "Da trat zu ihm der Schiffsherr und sprach zu ihm
 "Und einer sprach zum andern
 "Da sprachen sie zu ihm

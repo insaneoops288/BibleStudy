@@ -10,7 +10,7 @@
 "Silloin Balakin viha julmistui Bileamia vastaan, ja löi käsiänsä yhteen, ja sanoi hänelle
 "Pakene kohta sialles. Minä ajattelin kunnioittaa sinua suuresti, ja katso, Herra on sen kunnian estänyt sinulta."
 "Ja Bileam puhui Balakille
-"Jos Balak antais minulle huoneensa täyden hopiaa ja kultaa, en minä taida senvuoksi Herran sanaa käydä ylitse, tekemään hyvää eli pahaa minun mieleni jälkeen; vaan mitä Herra sanoo, sen pitää myös minun sanoman."
+"Jos Balak antais minulle huoneensa täyden hopiaa ja kultaa, en minä taida senvuoksi Herran sanaa käydä ylitse, #tekemään hyvää eli pahaa minun mieleni jälkeen; vaan mitä Herra sanoo, sen pitää myös minun sanoman."
 "Ja nyt katso, koska minä menen kansani tykö, niin tule, minä neuvon sinua, mitä tämä kansa sinun kansalles tekevä on, viimeisellä ajalla."
 "Ja hän piti puheen, ja sanoi
 "Sen sanoo se, joka kuulee Jumalan puheen, ja se, jolla Ylimmäisen tieto on, joka näkee Kaikkivaltiaan ilmestyksen, joka lankee maahan, ja hänen silmänsä avataan

@@ -6,7 +6,7 @@
 "E, impondo-lhes Paulo as mãos, veio sobre eles o Espírito Santo; e falavam línguas, e profetizavam."
 "E estes eram, ao todo, uns doze varões."
 "E, entrando na sinagoga, falou ousadamente e por espaço de três meses, disputando e persuadindo-os acerca do reino de Deus."
-"Mas, como alguns deles se endurecessem e não obedecessem, falando mal do Caminho perante a multidão, retirou-se deles, e separou os discípulos, disputando todos os dias na escola de um certo Tirano."
+"Mas, como alguns deles se endurecessem e não obedecessem, falando mal do Caminho perante a multidão, retirou-se #deles, e separou os discípulos, disputando todos os dias na escola de um certo Tirano."
 "E durou isto por espaço de dois anos; de tal maneira que todos os que habitavam na Ásia ouviram a palavra do SENHOR Jesus, assim judeus como gregos."
 "E Deus pelas mãos de Paulo fazia maravilhas extraordinárias."
 "De sorte que até os lenços e aventais se levavam do seu corpo aos enfermos, e as enfermidades fugiam deles, e os espíritos malignos saíam."
@@ -24,7 +24,7 @@
 "Porque um certo ourives da prata, por nome Demétrio, que fazia de prata nichos de Diana, dava não pouco lucro aos artífices,"
 "Aos quais, havendo-os ajuntado com os oficiais de obras semelhantes, disse
 "E bem vedes e ouvis que não só em Éfeso, mas até quase em toda a Ásia, este Paulo tem convencido e afastado uma grande multidão, dizendo que não são deuses os que se fazem com as mãos."
-"E não somente há o perigo de que nossa profissão caia em descrédito, mas também de que o próprio templo da grande deusa Diana seja estimado em nada, vindo a majestade daquela que toda a Ásia e o mundo veneram a ser destruída."
+"E não somente há o perigo de que nossa profissão caia em descrédito, mas também de que o próprio templo da grande #deusa Diana seja estimado em nada, vindo a majestade daquela que toda a Ásia e o mundo veneram a ser destruída."
 "E, ouvindo-o, encheram-se de ira, e clamaram, dizendo
 "E encheu-se de confusão toda a cidade; e unânimes correram ao teatro, arrebatando a Gaio e a Aristarco, macedónios, companheiros de Paulo na viagem."
 "E, querendo Paulo apresentar-se ao povo, não lho permitiram os discípulos."

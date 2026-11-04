@@ -2,7 +2,7 @@
 "La longitud de una cortina <I>será</I>  de veintiocho codos, y la anchura de la misma cortina de cuatro codos; todas las cortinas tendrán una medida."
 "Las cinco cortinas estarán juntas la una con la otra, y las <I>otras</I>  cinco cortinas unidas la una con la otra."
 "Y harás lazadas de cárdeno en la orilla de una cortina, en el borde, en la juntura; y así harás en la orilla de la postrera cortina en la juntura segunda."
-"Cincuenta lazadas harás en una cortina, y <I>otras</I>  cincuenta lazadas harás en el borde de la cortina que está en la segunda juntura; las lazadas <I>estarán</I>  contrapuestas la una a la otra."
+"Cincuenta lazadas harás en una cortina, y <I>otras</I>  cincuenta lazadas harás en el borde de la cortina #que está en la segunda juntura; las lazadas <I>estarán</I>  contrapuestas la una a la otra."
 "Harás también cincuenta corchetes de oro, con los cuales juntarás las cortinas la una con la otra, y se formará un tabernáculo."
 "Harás asimismo cortinas de <I>pelo de</I>  cabras para una cubierta sobre el tabernáculo; once cortinas harás."
 "La longitud de una cortina <I>será</I>  de treinta codos, y la anchura de la misma cortina de cuatro codos; una medida <I>tendrán</I>  las once cortinas."

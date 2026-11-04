@@ -16,7 +16,7 @@
 "Vi ainda debaixo do sol que no lugar da retidão estava a impiedade; e que no lugar da justiça estava a impiedade ainda."
 "Eu disse no meu coração
 "Disse eu no meu coração
-"Pois o que sucede aos filhos dos homens, isso mesmo também sucede aos brutos; uma e a mesma coisa lhes sucede; como morre um, assim morre o outro; todos têm o mesmo fôlego; e o homem não tem vantagem sobre os brutos; porque tudo é vaidade."
+"Pois o que sucede aos filhos dos homens, isso mesmo também sucede aos brutos; uma e a mesma coisa lhes sucede; como morre um, #assim morre o outro; todos têm o mesmo fôlego; e o homem não tem vantagem sobre os brutos; porque tudo é vaidade."
 "Todos vão para um lugar; todos são pó, e todos ao pó tornarão."
 "Quem sabe se o espírito dos filhos dos homens vai para cima, e se o espírito dos brutos desce para a terra?"
 "Pelo que tenho visto que não há coisa melhor do que alegrar-se o homem nas suas obras; porque esse é o seu quinhão; pois quem o fará voltar para ver o que será depois dele?"

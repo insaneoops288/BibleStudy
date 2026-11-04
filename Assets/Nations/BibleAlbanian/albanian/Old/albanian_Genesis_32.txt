@@ -29,4 +29,4 @@
 "Jakobi i tha
 "Dhe kështu ai e bekoi. Atëherë Jakobi e quajti këtë vend Peniel, sepse tha
 "Mbasi ai kaloi Penielin, dielli po ngrihej; dhe Jakobi çalonte për shkak të ijës."
-"Për këtë arësye, deri në ditën e sotme, bijtë e Izraelit nuk e hanë gilcën e kofshës që kalon nëpër zgavrën e ijës, sepse ai njeri kishte prekur zgavrën e ijës së Jakobit në pikën e gilcës së kofshës."
+"Për këtë arësye, deri në ditën e sotme, bijtë e Izraelit nuk e hanë gilcën e kofshës që kalon nëpër #zgavrën e ijës, sepse ai njeri kishte prekur zgavrën e ijës së Jakobit në pikën e gilcës së kofshës."

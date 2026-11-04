@@ -1,6 +1,6 @@
 "Öt nap mulva aztán aláméne Ananiás fõpap a vénekkel és egy Tertullus nevû prókátorral, kik panaszt tettek a tiszttartónál Pál ellen."
 "Mikor pedig õ elõszólíttatott, Tertullus vádolni kezdé, mondván
-"Nagyságos Félix, teljes háládatossággal ismerjük el, hogy te általad nagy békességet nyerünk, és a te gondoskodásod folytán igen jó intézkedések történnek e népre nézve, minden tekintetben és mindenütt."
+"Nagyságos Félix, teljes háládatossággal ismerjük el, hogy te általad nagy békességet nyerünk, és a te #gondoskodásod folytán igen jó intézkedések történnek e népre nézve, minden tekintetben és mindenütt."
 "De hogy téged sok ideig ne tartóztassalak, kérlek hallgass meg minket röviden a te kegyelmességed szerint."
 "Mi ugyanis úgy találtuk, hogy ez veszedelmes ember, és hasonlást támaszt a föld kerekségén levõ valamennyi zsidó közt, és a nazarénusok felekezetének feje,"
 "Ki a templomot is meg akarta fertõztetni. Meg is fogtuk õt, és a mi törvényünk szerint akartuk megítélni."
@@ -11,7 +11,7 @@
 "Mert megtudhatod, hogy nincsen tizenkét napjánál több, mióta feljöttem imádkozni Jeruzsálembe."
 "És a templomban sem találtak engem, hogy valakivel vetekedtem volna, vagy hogy a népet egybezendítettem volna, sem a zsinagógákban, sem a városban."
 "Rám sem bizonyíthatják azokat, a mikkel most engem vádolnak."
-"Errõl pedig vallást teszek néked, hogy én a szerint az út szerint, melyet felekezetnek mondanak, úgy szolgálok az én atyáim Istenének, mint a ki hiszek mindazokban, a mik a törvényben és a prófétákban meg vannak írva."
+"Errõl pedig vallást teszek néked, hogy én a szerint az út szerint, melyet felekezetnek mondanak, úgy szolgálok az én #atyáim Istenének, mint a ki hiszek mindazokban, a mik a törvényben és a prófétákban meg vannak írva."
 "Reménységem lévén az Istenben, hogy a mit ezek maguk is várnak, lesz feltámadásuk a halottaknak, mind igazaknak, mind hamisaknak."
 "Ebben gyakorlom pedig magamat, hogy botránkozás nélkül való lelkiismeretem legyen az Isten és emberek elõtt mindenkor."
 "Sok esztendõ múlva pedig eljövék, hogy az én népemnek alamizsnát hozzak és áldozatokat."

@@ -7,7 +7,7 @@
 "Áron pedig füstölögtessen rajta minden reggel jó illatú füstölõ szert; mikor a mécseket rendbe szedi, akkor füstölögtesse azt."
 "És a mikor Áron estennen felrakja a mécseket, füstölögtesse azt. Szüntelen való illattétel legyen ez az Úr elõtt nemzetségrõl nemzetségre."
 "Ne áldozzatok azon idegen füstölõszerekkel, se égõáldozattal, se ételáldozattal; italáldozatot se öntsetek reá."
-"És egyszer egy esztendõben engesztelést végezzen Áron annak szarvainál az engesztelõ napi áldozat vérébõl; egy esztendõben egyszer végezzen engesztelést azon, nemzetségrõl nemzetségre. Szentségek szentsége ez az Úrnak."
+"És egyszer egy esztendõben engesztelést végezzen Áron annak szarvainál az engesztelõ napi áldozat vérébõl; #egy esztendõben egyszer végezzen engesztelést azon, nemzetségrõl nemzetségre. Szentségek szentsége ez az Úrnak."
 "Azután szóla az Úr Mózesnek, mondván
 "Mikor Izráel fiait fejenként számba veszed, adja meg kiki életének váltságát az Úrnak az õ megszámláltatásakor, hogy csapás ne legyen rajtok az õ megszámláltatásuk miatt."
 "Ezt adja mindaz, a ki átesik a számláláson

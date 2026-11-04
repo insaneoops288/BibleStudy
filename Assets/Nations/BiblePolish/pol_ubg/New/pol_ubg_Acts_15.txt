@@ -1,5 +1,5 @@
 "A niektórzy przybysze z Judei nauczali braci
-"Kiedy doszło do niemałych sporów i zatargów między nimi a Pawłem i Barnabą, postanowili, że Paweł i Barnaba oraz jeszcze kilku z nich pójdą w sprawie tego sporu do apostołów i starszych do Jerozolimy."
+"Kiedy doszło do niemałych sporów i zatargów między nimi a Pawłem i Barnabą, postanowili, że Paweł i Barnaba #oraz jeszcze kilku z nich pójdą w sprawie tego sporu do apostołów i starszych do Jerozolimy."
 "Wyprawieni przez kościół, szli przez Fenicję i Samarię, opowiadając o nawróceniu pogan, czym sprawili wielką radość wszystkim braciom."
 "A gdy przybyli do Jerozolimy, zostali przyjęci przez kościół, apostołów i starszych. I opowiedzieli o wszystkim, czego Bóg przez nich dokonał."
 "Lecz niektórzy ze stronnictwa faryzeuszy, którzy uwierzyli, powstali i powiedzieli

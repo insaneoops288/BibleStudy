@@ -11,7 +11,7 @@
 "Israel pecou, e ainda quebrantou meu pacto que eu lhes havia mandado; pois ainda tomaram do anátema, e até furtaram, e também mentiram, e ainda o guardaram entre seus utensílios."
 "Por isto os filhos de Israel não poderão estar diante de seus inimigos, mas sim que diante de seus inimigos virarão as costas; porquanto vieram a ser anátema
 "Levanta-te, santifica ao povo, e dize
-"Vós vos achegareis, pois, amanhã por vossas tribos; e a tribo que o SENHOR tomar, se achegará por suas famílias; e a família que o SENHOR tomar, se achegará por suas casas; e a casa que o SENHOR tomar, se achegará pelos homens;"
+"Vós vos achegareis, pois, amanhã por vossas tribos; e a tribo que o SENHOR tomar, se achegará por suas famílias; e a #família que o SENHOR tomar, se achegará por suas casas; e a casa que o SENHOR tomar, se achegará pelos homens;"
 "E o que for colhido no anátema, será queimado a fogo, ele e tudo o que tem, porquanto quebrantou o pacto do SENHOR, e cometeu maldade em Israel."
 "Josué, pois, levantando-se de manhã, fez achegar a Israel por suas tribos; e foi tomada a tribo de Judá;"
 "E fazendo achegar a tribo de Judá, foi tomada a família dos de Zerá; fazendo logo achegar a família dos de Zerá pelos homens, foi tomado Zabdi;"
@@ -21,6 +21,6 @@
 "Que vi entre os despojos um manto babilônico muito bom, e duzentos siclos de prata, e uma barra de ouro de peso de cinquenta siclos; o qual cobicei, e tomei
 "Josué então enviou mensageiros, os quais foram correndo à tenda; e eis que estava escondido em sua tenda, e o dinheiro debaixo disso
 "E tomando-o do meio da tenda, trouxeram-no a Josué e a todos os filhos de Israel, e puseram-no diante do SENHOR."
-"Então Josué, e todo Israel com ele, tomou a Acã filho de zerá, e o dinheiro, e o manto, e a barra de ouro, e seus filhos, e suas filhas, e seus bois, e seus asnos, e suas ovelhas, e sua tenda, e tudo quanto tinha, e levaram-no tudo ao vale de Acor;"
+"Então Josué, e todo Israel com ele, tomou a Acã filho de zerá, e o dinheiro, e o manto, e a barra de ouro, e seus filhos, #e suas filhas, e seus bois, e seus asnos, e suas ovelhas, e sua tenda, e tudo quanto tinha, e levaram-no tudo ao vale de Acor;"
 "E disse Josué
 "E levantaram sobre ele um grande amontoado de pedras, até hoje. E o SENHOR se apaziguou da ira de seu furor. E por isto foi chamado aquele lugar o Vale de Acor, até hoje."

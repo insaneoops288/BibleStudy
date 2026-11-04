@@ -8,6 +8,6 @@
 "Así que hagamos fiesta, no en la vieja levadura, ni en la levadura de malicia y de maldad, sino en <I>panes</I>  sin levadura de sinceridad y de verdad."
 "Os he escrito por carta, que no os envolváis con los fornicarios;"
 "no del todo con los fornicarios de este mundo, o con los avaros, o con los ladrones, o idólatras; pues en tal caso os sería necesario salir del mundo."
-"Mas ahora os he escrito, que no os envolváis, <I>es a saber</I> , que si alguno llamándose hermano fuere fornicario, o avaro, o idólatra, o maldiciente, o borracho, o ladrón, con el tal ni aun comáis."
+"Mas ahora os he escrito, que no os envolváis, <I>es a saber</I> , que si alguno llamándose hermano fuere #fornicario, o avaro, o idólatra, o maldiciente, o borracho, o ladrón, con el tal ni aun comáis."
 "¿Por qué voy a juzgar los que están fuera? ¿No juzgáis vosotros de los que están dentro?"
 "Porque de los que están fuera, Dios <I>los</I>  juzgará. Quitad pues a ese malo de vosotros mismos."

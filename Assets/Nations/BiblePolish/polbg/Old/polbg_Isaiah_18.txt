@@ -4,4 +4,4 @@
 "Albowiem tak mówi Pan do mnie
 "Bo przed zbieraniem wina, gdy się puści pączki, a kwiat wyda grono cierpkie jeszcze rosnące, tedy oberznie latorostki nożami, a gałęzie odejmie i obetnie."
 "I będą zostawione wszystkie wespół ptastwu na górach i zwierzętom ziemskim; i będzie na nich przez lato ptastwo, a wszelaki zwierz ziemski na nich zimować będzie."
-"Czasu onego przyniesiony będzie dar Panu zastępów od ludu rozszarpanego i splundrowanego, od ludu strasznego z dawna i dotąd, od narodu do szczętu podeptanego, którego ziemię rzeki rozrywały; a przeniesiony będzie na miejsce imienia Pana zastępów, na górze Syon."
+"Czasu onego przyniesiony będzie dar Panu zastępów od ludu rozszarpanego i splundrowanego, od ludu strasznego z dawna i dotąd, od #narodu do szczętu podeptanego, którego ziemię rzeki rozrywały; a przeniesiony będzie na miejsce imienia Pana zastępów, na górze Syon."

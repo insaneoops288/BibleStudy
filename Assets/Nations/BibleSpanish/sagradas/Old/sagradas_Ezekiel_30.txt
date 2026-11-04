@@ -15,12 +15,12 @@
 "Y derramaré mi ira sobre Pelusio, fortaleza de Egipto, y talaré la multitud de No."
 "Y pondré fuego a Egipto; Pelusio tendrá gran dolor, y No será destrozada, y Menfis tendrá continuas angustias."
 "Los jóvenes de Heliópolis y de Pubásti caerán a cuchillo; y ellas irán en cautiverio."
-"Y en Tafnes se oscurecerá el día, cuando quebrantaré yo allí los yugos de Egipto, y cesará <I>en ella</I>  la soberbia de su fortaleza; nublado la cubrirá, y los moradores de sus aldeas irán en cautiverio."
+"Y en Tafnes se oscurecerá el día, cuando quebrantaré yo allí los yugos de Egipto, y cesará <I>en ella</I> # la soberbia de su fortaleza; nublado la cubrirá, y los moradores de sus aldeas irán en cautiverio."
 "Haré, pues, juicios en Egipto y sabrán que yo <I>soy</I>  el SEÑOR."
 "Y aconteció en el año undécimo, en el <I>mes</I>  primero, a los siete del mes, que vino Palabra del SEÑOR a mí, diciendo
-"Hijo de hombre, he quebrantado el brazo de Faraón rey de Egipto; y he aquí que no ha sido vendado poniéndole medicinas, poniéndole faja para ligarlo, a fin de vigorizarle para que pueda tener espada."
+"Hijo de hombre, he quebrantado el brazo de Faraón rey de Egipto; y he aquí que no ha #sido vendado poniéndole medicinas, poniéndole faja para ligarlo, a fin de vigorizarle para que pueda tener espada."
 "Por tanto, así dijo el Señor DIOS
 "Y esparciré los egipcios entre los gentiles, y los aventaré por las tierras."
 "Y fortificaré los brazos del rey de Babilonia, y pondré mi espada en su mano; mas quebraré los brazos de Faraón, y delante de aquél gemirá con gemidos <I>de herido</I>  de muerte."
-"Fortificaré, pues, los brazos del rey de Babilonia, y los brazos de Faraón caerán; y sabrán que yo <I>soy</I>  el SEÑOR, cuando <I>yo</I>  pusiere mi espada en la mano del rey de Babilonia, y él la extendiere sobre la tierra  de Egipto."
+"Fortificaré, pues, los brazos del rey de Babilonia, y los brazos de Faraón caerán; y sabrán que yo <I>soy</I>  el SEÑOR, cuando #<I>yo</I>  pusiere mi espada en la mano del rey de Babilonia, y él la extendiere sobre la tierra  de Egipto."
 "Y esparciré los egipcios entre los gentiles, y los aventaré por las tierras; y sabrán que yo <I>soy</I>  el SEÑOR."

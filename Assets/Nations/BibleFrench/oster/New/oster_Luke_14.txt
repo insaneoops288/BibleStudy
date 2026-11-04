@@ -28,7 +28,7 @@
 "Car qui de vous, voulant bâtir une tour, ne s'assied premièrement, et ne calcule la dépense, pour voir s'il a de quoi l'achever?"
 "De peur, qu'après qu'il en aura posé les fondements, et qu'il n'aura pu achever, tous ceux qui le verront ne viennent à se moquer de lui, et ne disent
 "Cet homme a commencé de bâtir, et n'a pu achever."
-"Ou, quel est le roi, qui marchant pour livrer bataille à un autre roi, ne s'asseye premièrement et ne consulte s'il pourra, avec dix mille hommes, aller à la rencontre de celui qui vient contre lui avec vingt mille?"
+"Ou, quel est le roi, qui marchant pour livrer bataille à un autre roi, ne s'asseye premièrement et ne consulte #s'il pourra, avec dix mille hommes, aller à la rencontre de celui qui vient contre lui avec vingt mille?"
 "Autrement, pendant que celui-ci est encore loin, il lui envoie une ambassade, pour demander la paix."
 "Ainsi quiconque parmi vous ne renonce pas à tout ce qu'il a, ne peut être mon disciple."
 "Le sel est une bonne chose; mais si le sel perd sa saveur, avec quoi l'assaisonnera-t-on?"

@@ -13,7 +13,7 @@
 "E Samuel tomou o chifre do azeite, e ungiu-o dentre seus irmãos
 "E o espírito do SENHOR se afastou de Saul, e atormentava-lhe o espírito mau da parte do SENHOR."
 "E os criados de Saul lhe disseram
-"Diga, pois, nosso senhor a teus servos que estão diante de ti, que busquem alguém que saiba tocar a harpa; para que quando for sobre ti o espírito mau da parte de Deus, ele toque com sua mão, e tenhas alívio."
+"Diga, pois, nosso senhor a teus servos que estão diante de ti, que busquem alguém que saiba tocar a harpa; para #que quando for sobre ti o espírito mau da parte de Deus, ele toque com sua mão, e tenhas alívio."
 "E Saul respondeu a seus criados
 "Então um dos criados respondeu, dizendo
 "E Saul enviou mensageiros a Jessé, dizendo

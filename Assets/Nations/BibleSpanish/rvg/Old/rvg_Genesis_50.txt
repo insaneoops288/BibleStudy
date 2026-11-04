@@ -10,7 +10,7 @@
 "Y llegaron hasta la era de Atad, que está al otro lado del Jordán, y endecharon allí con grande y muy triste lamentación
 "Y viendo los moradores de la tierra, los cananeos, el llanto en la era de Atad, dijeron
 "Hicieron, pues, sus hijos con él, según les había mandado
-"Pues lo llevaron sus hijos a la tierra de Canaán, y le sepultaron en la cueva del campo de Macpela, la que había comprado Abraham con el mismo campo, para heredad de sepultura, de Efrón el heteo, delante de Mamre."
+"Pues lo llevaron sus hijos a la tierra de Canaán, y le sepultaron en la cueva del campo de Macpela, la #que había comprado Abraham con el mismo campo, para heredad de sepultura, de Efrón el heteo, delante de Mamre."
 "Y volvió José a Egipto, él y sus hermanos, y todos los que subieron con él a sepultar a su padre, después que le hubo sepultado a su padre."
 "Y viendo los hermanos de José que su padre era muerto, dijeron
 "Y enviaron a decir a José

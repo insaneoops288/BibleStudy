@@ -8,7 +8,7 @@
 "Atëherë pleqtë e qytetit të tij do ta thërrasin dhe do t'i flasin; dhe në qoftë se ai ngul këmbë dhe thotë
 "atëherë kunata e tij do t'i afrohet në prani të pleqve do t'i heqë sandalën nga këmba, do ta pështyjë në fytyrë dhe do t'i thotë
 "Dhe emri i tij në Izrael do të jetë
-"Në rast se dy burra kanë një grindje midis tyre, dhe gruaja e njerit afrohet për të liruar të shoqin nga duart e atij që e rreh, shtrin dorën dhe e kap nga organet gjenitale, asaj do t'i pritet dora;"
+"Në rast se dy burra kanë një grindje midis tyre, dhe gruaja e njerit afrohet për të liruar të shoqin nga #duart e atij që e rreh, shtrin dorën dhe e kap nga organet gjenitale, asaj do t'i pritet dora;"
 "syri yt nuk do të ketë mëshirë për të."
 "Nuk do të kesh në thesin tënd dy pesha, një të madhe dhe një të vogël."
 "Nuk do të kesh në shtëpi dy masa, një të madhe dhe një të vogël."
@@ -16,4 +16,4 @@
 "Sepse të gjithë ata që kryejnë veprime të tilla, të gjithë ata që sillen në mënyrë jo të drejtë, urrehen nga Zoti, Perëndia yt."
 "Kujto atë që të bëri Amaleku gjatë rrugës, kur dolët nga Egjipti;"
 "ai të doli përballë rrugës, duke sulmuar nga prapa tërë të dobëtit që ishin të fundit, kur ti ishe i lodhur dhe i mbaruar, dhe nuk pati fare frikë nga Perëndia."
-"Kur, pra, Zoti, Perëndia yt, do të sigurojë qetësi nga armiqtë e tu rreth e përqark vendit që Zoti, Perëndia yt, të jep si trashëgimi për ta pushtuar, do të fshish kujtimin e Amalekut nën qiellin; mos e harro!""."
+"Kur, pra, Zoti, Perëndia yt, do të sigurojë qetësi nga armiqtë e tu rreth e përqark vendit që Zoti, Perëndia #yt, të jep si trashëgimi për ta pushtuar, do të fshish kujtimin e Amalekut nën qiellin; mos e harro!""."

@@ -5,12 +5,12 @@
 "die ihr in der Brunst zu den Götzen lauft unter alle grünen Bäume und schlachtet die Kinder an den Bächen, unter den Felsklippen?"
 "Dein Wesen ist an den glatten Bachsteinen, die sind dein Teil; ihnen schüttest du dein Trankopfer, da du Speisopfer opferst. Sollte ich mich darüber trösten?"
 "Du machst dein Lager auf einem hohen, erhabenen Berg und gehst daselbst auch hinauf, zu opfern."
-"Und hinter die Tür und den Pfosten setzest du dein Denkmal. Denn du wendest dich von mir und gehst hinauf und machst dein Lager weit und verbindest dich mit ihnen; du liebst ihr Lager, wo du sie ersiehst."
+"Und hinter die Tür und den Pfosten setzest du dein Denkmal. Denn du wendest dich von mir und gehst hinauf #und machst dein Lager weit und verbindest dich mit ihnen; du liebst ihr Lager, wo du sie ersiehst."
 "Du ziehst mitÖl zum König und machst viel deiner Würze und sendest deine Botschaft in die Ferne und bist erniedrigt bis zur Hölle."
 "Du zerarbeitest dich in der Menge deiner Wege und sprichst nicht
-"Vor wem bist du so in Sorge und fürchtest dich also, daß du mit Lügen umgehst und denkst an mich nicht und nimmst es nicht zu Herzen? Meinst du, ich werde allewege schweigen, daß du mich so gar nicht fürchtest?"
+"Vor wem bist du so in Sorge und fürchtest dich also, daß du mit Lügen umgehst und denkst an mich nicht #und nimmst es nicht zu Herzen? Meinst du, ich werde allewege schweigen, daß du mich so gar nicht fürchtest?"
 "Ich will aber deine Gerechtigkeit anzeigen und deine Werke, daß sie dir nichts nütze sein sollen."
-"Wenn du rufen wirst, so laß dir deine Götzenhaufen helfen; aber der Wind wird sie alle wegführen, und wie ein Hauch sie wegnehmen. Aber wer auf mich traut, wird das Land erben und meinen heiligen Berg besitzen"
+"Wenn du rufen wirst, so laß dir deine Götzenhaufen helfen; aber der Wind wird sie alle wegführen, und wie #ein Hauch sie wegnehmen. Aber wer auf mich traut, wird das Land erben und meinen heiligen Berg besitzen"
 "und wird sagen
 "Denn also spricht der Hohe und Erhabene, der ewiglich wohnt, des Name heilig ist
 "Ich will nicht immerdar hadern und nicht ewiglich zürnen; sondern es soll von meinem Angesicht ein Geist wehen, und ich will Odem machen."

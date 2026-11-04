@@ -2,8 +2,8 @@
 "E Saul o tomou naquele dia, e não o deixou voltar à casa de seu pai."
 "E fizeram aliança Jônatas e Davi, porque ele lhe amava como a sua alma."
 "E Jônatas despiu a roupa que tinha sobre si, e deu-a a Davi, e outras roupas suas, até sua espada, e seu arco, e seu cinto."
-"E Davi saía para onde quer que Saul o enviasse, e portava-se prudentemente. Fê-lo, portanto, Saul capitão da gente de guerra, e era aceito aos olhos de todo o povo, e nos olhos dos criados de Saul."
-"E aconteceu que quando voltavam eles, quando Davi voltou de matar ao filisteu, saíram as mulheres de todas as cidades de Israel cantando, e com danças, com tamboris, e com alegrias e adufes, a receber ao rei Saul."
+"E Davi saía para onde quer que Saul o enviasse, e portava-se prudentemente. Fê-lo, portanto, Saul capitão da gente #de guerra, e era aceito aos olhos de todo o povo, e nos olhos dos criados de Saul."
+"E aconteceu que quando voltavam eles, quando Davi voltou de matar ao filisteu, saíram as mulheres de todas as cidades #de Israel cantando, e com danças, com tamboris, e com alegrias e adufes, a receber ao rei Saul."
 "E cantavam as mulheres que dançavam, e diziam
 "E irou-se Saul em grande maneira, e desagradou esta palavra em seus olhos, e disse
 "E desde aquele dia Saul olhou com desconfiança a Davi."
@@ -24,7 +24,7 @@
 "E os criados de Saul lhe deram a resposta dizendo
 "E Saul disse
 "E quando seus criados declararam a Davi estas palavras, foi conveniente a coisa nos olhos de Davi, para ser genro do rei. E quando o prazo não era ainda cumprido,"
-"Levantou-se Davi, e partiu-se com sua gente, e feriu duzentos homens dos filisteus; e trouxe Davi os prepúcios deles, e entregaram-nos todos ao rei, para que ele fosse feito genro do rei. E Saul lhe deu a sua filha Mical por mulher."
+"Levantou-se Davi, e partiu-se com sua gente, e feriu duzentos homens dos filisteus; e trouxe Davi os prepúcios deles, e entregaram-nos todos #ao rei, para que ele fosse feito genro do rei. E Saul lhe deu a sua filha Mical por mulher."
 "Porém Saul, vendo e considerando que o SENHOR era com Davi, e que sua filha Mical o amava,"
 "Temeu-se mais de Davi; e foi Saul inimigo de Davi todos os dias."
 "E saíam os príncipes dos filisteus; e quando eles saíam, portava-se Davi mais prudentemente que todos os servos de Saul

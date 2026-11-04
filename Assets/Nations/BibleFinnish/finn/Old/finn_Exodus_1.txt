@@ -7,7 +7,7 @@
 "Ja Israelin lapset olivat hedelmälliset ja suuresti enenivät ja lisääntyivät, ja sangen voimallisesti vahvistuivat, niin että maa täytettiin heistä."
 "Niin uusi kuningas tuli Egyptiin, joka ei Josephista mitään tietänyt."
 "Hän sanoi kansallensa
-"Tulkaat, käykäämme kavalasti heidän kimppuunsa, ettei heitä tulisi niin paljo. Sillä jos joku sota nousis, tohtisivat he mennä meidän vihamiestemme puolelle, ja sotia meitä vastaan, ja lähteä maalta pois."
+"Tulkaat, käykäämme kavalasti heidän kimppuunsa, ettei heitä tulisi niin paljo. Sillä jos joku sota nousis, #tohtisivat he mennä meidän vihamiestemme puolelle, ja sotia meitä vastaan, ja lähteä maalta pois."
 "Niin asetettiin heidän päällensä veron päämiehet, vaivaamaan heitä orjuudella; sillä Pharaolle rakennettiin verokaupungit, Pitom ja Raamses."
 "Mutta jota enemmin he rasittivat kansaa, sitä enemmin se lisääntyi ja kasvoi. Ja he tulivat suutuksiin Israelin lasten tähden."
 "Ja Egyptiläiset vaivasivat Israelin lapsia orjuudella armaitsemata."

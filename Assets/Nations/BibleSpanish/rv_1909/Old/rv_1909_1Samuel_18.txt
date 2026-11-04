@@ -2,8 +2,8 @@
 "Y Saúl le tomó aquel día, y no le dejó volver á casa de su padre."
 "E hicieron alianza Jonathán y David, porque él le amaba como á su alma."
 "Y Jonathán se desnudó la ropa que tenía sobre sí, y dióla á David, y otras ropas suyas, hasta su espada, y su arco, y su talabarte."
-"Y salía David á donde quiera que Saúl le enviaba, y portábase prudentemente. Hízolo por tanto Saúl capitán de gente de guerra, y era acepto en los ojos de todo el pueblo, y en los ojos de los criados de Saúl."
-"Y aconteció que como volvían ellos, cuando David tornó de matar al Filisteo, salieron las mujeres de todas las ciudades de Israel cantando, y con danzas, con tamboriles, y con alegrías y sonajas, á recibir al rey Saúl."
+"Y salía David á donde quiera que Saúl le enviaba, y portábase prudentemente. Hízolo por tanto Saúl capitán de gente de #guerra, y era acepto en los ojos de todo el pueblo, y en los ojos de los criados de Saúl."
+"Y aconteció que como volvían ellos, cuando David tornó de matar al Filisteo, salieron las mujeres de todas las ciudades #de Israel cantando, y con danzas, con tamboriles, y con alegrías y sonajas, á recibir al rey Saúl."
 "Y cantaban las mujeres que danzaba, y decían
 "Y enojóse Saúl en gran manera, y desagradó esta palabra en sus ojos, y dijo
 "Y desde aquel día Saúl miró de través á David."
@@ -24,7 +24,7 @@
 "Y los criados de Saúl le dieron la respuesta diciendo
 "Y Saúl dijo
 "Y como sus criados declararon á David estas palabras, plugo la cosa en los ojos de David, para ser yerno del rey. Y como el plazo no era aún cumplido,"
-"Levantóse David, y partióse con su gente, é hirió doscientos hombres de los Filisteos; y trajo David los prepucios de ellos, y entregáronlos todos al rey, para que él fuese hecho yerno del rey. Y Saúl le dió á su hija Michâl por mujer."
+"Levantóse David, y partióse con su gente, é hirió doscientos hombres de los Filisteos; y trajo David los prepucios de ellos, y entregáronlos #todos al rey, para que él fuese hecho yerno del rey. Y Saúl le dió á su hija Michâl por mujer."
 "Pero Saúl, viendo y considerando que Jehová era con David, y que su hija Michâl lo amaba,"
 "Temióse más de David; y fué Saúl enemigo de David todos los días."
 "Y salían los príncipes de los Filisteos; y como ellos salían, portábase David más prudentemente que todos los siervos de Saúl

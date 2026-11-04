@@ -12,4 +12,4 @@
 "Takto dí Hospodin
 "Nyní pak polámi jho jeho, aby neleželo na tobě, a to, čímž jsi svázán, roztrhám."
 "Nebo přikázaní vydal proti tobě Hospodin, nebudeť rozsíváno ze jména tvého více; z domu Boha tvého vyhladím rytinu i slitinu, a když zlehčen budeš, způsobímť hrob."
-"Aj hle na horách těchto nohy potěšené věci zvěstujícího, ohlašujícího pokoj. Slaviž, o Judo, slavnosti své, plň sliby své. Neboť nepokusí se více ani mimo tebe choditi nešlechetný, docelať jest vyhlazen."
+"Aj hle na horách těchto nohy potěšené věci zvěstujícího, ohlašujícího pokoj. Slaviž, o Judo, slavnosti své, #plň sliby své. Neboť nepokusí se více ani mimo tebe choditi nešlechetný, docelať jest vyhlazen."

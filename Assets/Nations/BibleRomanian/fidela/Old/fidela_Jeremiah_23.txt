@@ -11,7 +11,7 @@
 "Pentru că deopotrivă profetul și preotul sunt întinați; da, în casa mea am găsit stricăciunea lor, spune DOMNUL."
 "Pentru aceea, calea lor va fi pentru ei precum [căile ]alunecoase în întuneric; vor fi alungați și vor cădea pe ea, pentru că voi aduce răul asupra lor, [chiar ]anul cercetării lor, spune DOMNUL."
 "Și am văzut nebunie în profeții din Samaria; ei au profețit prin Baal și au rătăcit pe poporul meu Israel."
-"Am văzut de asemenea în profeții din Ierusalim un lucru groaznic, ei comit adulter și umblă în minciuni, ei întăresc de asemenea mâinile făcătorilor de rău, încât nimeni nu se întoarce de la stricăciunea lui; ei sunt cu toții pentru mine ca Sodoma și locuitorii lui ca Gomora."
+"Am văzut de asemenea în profeții din Ierusalim un lucru groaznic, ei comit adulter și umblă în minciuni, ei întăresc de asemenea mâinile făcătorilor de #rău, încât nimeni nu se întoarce de la stricăciunea lui; ei sunt cu toții pentru mine ca Sodoma și locuitorii lui ca Gomora."
 "De aceea astfel spune DOMNUL oștirilor referitor la profeți
 "Astfel spune DOMNUL oștirilor
 "Ei încă spun celor care mă disprețuiesc
@@ -29,7 +29,7 @@
 "Nu este cuvântul meu ca un foc? spune DOMNUL; și ca un ciocan [care] sparge stânca în bucăți?"
 "De aceea, iată, eu [sunt] împotriva profeților, spune DOMNUL, care fură, fiecare de la aproapele său, cuvintele mele."
 "Iată, spune DOMNUL, eu sunt împotriva profeților care își folosesc limba și spun
-"Iată, spune DOMNUL, eu [sunt] împotriva celor care profețesc visuri false și care le spun și fac pe poporul meu să rătăcească prin minciunile lor și prin ușurința lor; totuși eu nu i-am trimis, nici nu le-am poruncit; de aceea ei nu vor fi de niciun folos acestui popor, spune DOMNUL."
+"Iată, spune DOMNUL, eu [sunt] împotriva celor care profețesc visuri false și care le spun și fac pe poporul meu să rătăcească prin minciunile lor și #prin ușurința lor; totuși eu nu i-am trimis, nici nu le-am poruncit; de aceea ei nu vor fi de niciun folos acestui popor, spune DOMNUL."
 "Și când acest popor, sau un profet, sau un preot, te va întreba, spunând
 "Și [cât despre] profetul și preotul și poporul care va spune
 "Astfel să spuneți fiecare aproapelui său și fiecare fratelui său

@@ -1,6 +1,6 @@
 "Zebrał się tedy wszystek Izrael do Dawida do Hebronu, mówiąc
 "Jako i przedtem, gdy jeszcze był Saul królem, też wywodził i wwodził Izraela. Tak Pan, Bóg twój, rzekł tobie
-"A tak przyszli wszyscy starsi Izraelscy do króla do Hebronu, i uczynił Dawid z nimi przymierze w Hebronie przed Panem, i pomazali Dawida za króla nad Izraelem według słowa Pańskiego, które powiedział przez Samuela."
+"A tak przyszli wszyscy starsi Izraelscy do króla do Hebronu, i uczynił Dawid z nimi przymierze w Hebronie #przed Panem, i pomazali Dawida za króla nad Izraelem według słowa Pańskiego, które powiedział przez Samuela."
 "Jechał tedy Dawid ze wszystkim Izraelem do Jeruzalemu, które jest Jebus, gdzie byli Jebuzejczycy obywatelami ziemi."
 "I rzekli obywatele Jebuzejscy do Dawida
 "Bo był rzekł Dawid
@@ -15,12 +15,12 @@
 "Ci także trzej ze trzydziestu przedniejszych wstąpili na skałę do Dawida do jaskini Odollam, gdyż wojsko Filistyńskie leżało obozem w dolinie Rafaim;"
 "Albowiem Dawid natenczas mieszkał na zamku, a stanowisko Filistyńskie było natenczas w Betlehem."
 "Pragnęł tedy Dawid
-"Przetoż przebiwszy się ci trzej przez wojsko Filistyńskie, naczerpali wody z studni Betlehemskiej, która jest u bramy, a wziąwszy przynieśli do Dawida. Lecz jej nie chciał Dawid pić, ale ją wylał na ofiarę Panu."
+"Przetoż przebiwszy się ci trzej przez wojsko Filistyńskie, naczerpali wody z studni Betlehemskiej, która jest u bramy, a #wziąwszy przynieśli do Dawida. Lecz jej nie chciał Dawid pić, ale ją wylał na ofiarę Panu."
 "I rzekł
 "A Abisaj, brat Joabowy, był przedniejszy z onych trzech; tenże podniósł włócznię swą na trzysta ludu, które pobił, i otrzymał sławę między onymi trzema."
 "Z tych trzech nad innych dwóch był sławniejszy, a był ich książęciem; jednak onych trzech pierwszych nie doszedł."
 "Banajas też, syn Jojady, syn męża dużego, wielkich spraw, z Kabseela, ten zabił dwóch mocarzów Moabskich; ten też zszedłszy zabił lwa w pośród jamy, gdy był śnieg."
-"Ten też zabił męża Egipczanina, męża, którego wzrost był na pięć łokci. A chociaż Egipczanin miał w ręku oszczep jako nawój tkacki, wszkże przyszedł do niego z kijem, i wydarł oszczep z ręki Egipczanina, i zabił go oszczepem jego."
+"Ten też zabił męża Egipczanina, męża, którego wzrost był na pięć łokci. A chociaż Egipczanin miał w ręku oszczep jako #nawój tkacki, wszkże przyszedł do niego z kijem, i wydarł oszczep z ręki Egipczanina, i zabił go oszczepem jego."
 "To uczynił Banajas, syn Jojady, który także sławnym został między onymi trzema mocarzami."
 "A choć był między onymi trzydziestoma sławnym, wszakże nie doszedł onych trzech. I postanowił go Dawid nad drabantami swymi."
 "A w wojsku co mocniejsi byli

@@ -3,7 +3,7 @@
 "Abraham se leva de devant son mort, et parla ainsi aux fils de Heth
 "Je suis étranger et habitant parmi vous; donnez-moi la possession d'un sépulcre chez vous, pour enterrer mon mort et l'ôter de devant moi."
 "Les fils de Heth répondirent à Abraham, en lui disant
-"Ecoute-nous, mon seigneur! Tu es un prince de Dieu au milieu de nous; enterre ton mort dans celui de nos sépulcres que tu choisiras; aucun de nous ne te refusera son sépulcre pour enterrer ton mort."
+"Ecoute-nous, mon seigneur! Tu es un prince de Dieu au milieu de nous; enterre ton mort dans celui de #nos sépulcres que tu choisiras; aucun de nous ne te refusera son sépulcre pour enterrer ton mort."
 "Abraham se leva, et se prosterna devant le peuple du pays, devant les fils de Heth."
 "Et il leur parla ainsi
 "de me céder la caverne de Macpéla, qui lui appartient, à l'extrémité de son champ, de me la céder contre sa valeur en argent, afin qu'elle me serve de possession sépulcrale au milieu de vous."

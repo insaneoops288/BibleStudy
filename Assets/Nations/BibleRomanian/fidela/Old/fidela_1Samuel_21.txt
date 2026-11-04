@@ -3,7 +3,7 @@
 "De aceea acum, ce ai la îndemână? Dă-[mi] cinci pâini în mâna mea, sau ce se găsește."
 "Și preotul a răspuns lui David și a zis
 "Și David i-a răspuns preotului și i-a zis
-"Astfel preotul i-a dat [pâinea ]sfințită, pentru că nu era acolo altă pâine decât pâinile punerii înainte, care au fost luate dinaintea DOMNULUI, pentru a pune pâine fierbinte în ziua când au fost luate."
+"Astfel preotul i-a dat [pâinea ]sfințită, pentru că nu era acolo altă pâine decât pâinile punerii înainte, care #au fost luate dinaintea DOMNULUI, pentru a pune pâine fierbinte în ziua când au fost luate."
 "Și un anumit om dintre servitorii lui Saul [era] acolo în acea zi, închis înaintea DOMNULUI; și numele lui [era] Doeg, un edomit, căpetenia păstorilor lui Saul."
 "Și David i-a spus lui Ahimelec
 "Și preotul i-a spus

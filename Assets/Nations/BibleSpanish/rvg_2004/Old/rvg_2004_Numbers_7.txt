@@ -16,7 +16,7 @@
 "un macho cabrío para expiación;"
 "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos, cinco corderos de un año. Ésta fue la ofrenda de Naasón, hijo de Aminadab."
 "El segundo día ofreció Natanael hijo de Zuar, príncipe de Isacar."
-"Ofreció por su ofrenda un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+"Ofreció por su ofrenda un plato de plata de ciento treinta siclos de peso, un jarro de plata de #setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
 "una cuchara de oro de diez siclos, llena de incienso;"
 "un becerro, un carnero, un cordero de un año para holocausto;"
 "un macho cabrío para expiación;"
@@ -85,5 +85,5 @@
 "Cada plato de ciento treinta siclos, cada jarro de setenta
 "Las doce cucharas de oro llenas de incienso, de diez siclos cada cuchara, al siclo del santuario
 "Todos los bueyes para holocausto, doce becerros; doce los carneros, doce los corderos de un año, con su presente
-"Y todos los bueyes del sacrificio de paz fueron veinticuatro novillos, sesenta los carneros, sesenta los machos cabríos, sesenta los corderos de un año. Ésta fue la dedicación del altar, después que fue ungido."
-89 "Y cuando entraba Moisés en el tabernáculo de la congregación, para hablar con Él, oía la voz que le hablaba de encima del propiciatorio que estaba sobre el arca del testimonio, de entre los dos querubines; y hablaba con Él."
+"Y todos los bueyes del sacrificio de paz fueron veinticuatro novillos, sesenta los carneros, sesenta los machos cabríos, #sesenta los corderos de un año. Ésta fue la dedicación del altar, después que fue ungido."
+89 "Y cuando entraba Moisés en el tabernáculo de la congregación, para hablar con Él, oía la voz que le hablaba #de encima del propiciatorio que estaba sobre el arca del testimonio, de entre los dos querubines; y hablaba con Él."

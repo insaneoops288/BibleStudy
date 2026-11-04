@@ -1,6 +1,6 @@
 "Und Jehova redete zu Mose und sprach
 "Rede zu den Kindern Israel und sprich zu ihnen
-"und ihr dem Jehova ein Feueropfer opfert, ein Brandopfer oder ein Schlachtopfer, um ein Gelübde zu erfüllen, oder eine freiwillige Gabe, oder an euren Festen, um Jehova einen lieblichen Geruch zu bereiten, vom Rind-oder vom Kleinvieh
+"und ihr dem Jehova ein Feueropfer opfert, ein Brandopfer oder ein Schlachtopfer, um ein Gelübde zu erfüllen, oder eine #freiwillige Gabe, oder an euren Festen, um Jehova einen lieblichen Geruch zu bereiten, vom Rind-oder vom Kleinvieh
 "so soll der, welcher Jehova seine Opfergabe darbringt, als Speisopfer darbringen ein Zehntel Feinmehl, gemengt mit einem viertel HinÖl;"
 "Und als Trankopfer sollst du ein viertel Hin Wein opfern zu dem Brandopfer oder zu dem Schlachtopfer, bei jedem Schafe."
 "Oder bei einem Widder sollst du als Speisopfer zwei Zehntel Feinmehl opfern, gemengt mit einem drittel HinÖl;"
@@ -21,8 +21,8 @@
 "Wie das Hebopfer der Tenne, also sollt ihr dieses heben. Von dem Erstling eures Schrotmehls sollt ihr Jehova ein Hebopfer geben, bei euren Geschlechtern."
 "Und wenn ihr aus Versehen sündiget und nicht tut alle diese Gebote, die Jehova zu Mose geredet hat,"
 "alles, was Jehova euch durch Mose geboten hat, von dem Tage an, da Jehova Gebote gab, und fernerhin bei euren Geschlechtern,"
-"so soll es geschehen, wenn es vor den Augen der Gemeinde verborgen, aus Versehen geschehen ist, so soll die ganze Gemeinde einen jungen Farren als Brandopfer opfern zum lieblichen Geruch dem Jehova, nebst seinem Speisopfer und seinem Trankopfer, nach der Vorschrift, und einen Ziegenbock zum Sündopfer."
-"Und der Priester soll Sühnung tun für die ganze Gemeinde der Kinder Israel, und es wird ihnen vergeben werden; denn es war eine Sünde aus Versehen, und sie haben ihre Opfergabe, ein Feueropfer dem Jehova, und ihr Sündopfer vor Jehova gebracht wegen ihrer Sünde aus Versehen."
+"so soll es geschehen, wenn es vor den Augen der Gemeinde verborgen, aus Versehen geschehen ist, so soll die ganze Gemeinde einen jungen Farren #als Brandopfer opfern zum lieblichen Geruch dem Jehova, nebst seinem Speisopfer und seinem Trankopfer, nach der Vorschrift, und einen Ziegenbock zum Sündopfer."
+"Und der Priester soll Sühnung tun für die ganze Gemeinde der Kinder Israel, und es wird ihnen vergeben werden; denn es war eine Sünde #aus Versehen, und sie haben ihre Opfergabe, ein Feueropfer dem Jehova, und ihr Sündopfer vor Jehova gebracht wegen ihrer Sünde aus Versehen."
 "Und es wird der ganzen Gemeinde der Kinder Israel vergeben werden und dem Fremdling, der in ihrer Mitte weilt; denn von dem ganzen Volke ist es geschehen aus Versehen."
 "Und wenn eine einzelne Seele aus Versehen sündigt, so soll sie eine einjährige Ziege zum Sündopfer darbringen."
 "Und der Priester soll Sühnung tun für die Seele, die ein Versehen begangen hat durch eine Sünde aus Versehen vor Jehova, um Sühnung für sie zu tun; und es wird ihr vergeben werden."
@@ -35,7 +35,7 @@
 "Da sprach Jehova zu Mose
 "Da führte ihn die ganze Gemeinde vor das Lager hinaus, und sie steinigten ihn, daß er starb, so wie Jehova dem Mose geboten hatte."
 "Und Jehova sprach zu Mose und sagte
-"Rede zu den Kindern Israel und sprich zu ihnen, daß sie sich eine Quaste an den Zipfeln ihrer Oberkleider machen, bei ihren Geschlechtern, und daß sie an die Quaste des Zipfels eine Schnur von blauem Purpur setzen;"
-"und es soll euch zu einer Quaste sein, daß ihr, wenn ihr sie ansehet, aller Gebote Jehovas gedenket und sie tuet, und daß ihr nicht umherspähet eurem Herzen und euren Augen nach, denen ihr nachhuret;"
+"Rede zu den Kindern Israel und sprich zu ihnen, daß sie sich eine Quaste an den Zipfeln ihrer Oberkleider #machen, bei ihren Geschlechtern, und daß sie an die Quaste des Zipfels eine Schnur von blauem Purpur setzen;"
+"und es soll euch zu einer Quaste sein, daß ihr, wenn ihr sie ansehet, aller Gebote Jehovas gedenket #und sie tuet, und daß ihr nicht umherspähet eurem Herzen und euren Augen nach, denen ihr nachhuret;"
 "damit ihr aller meiner Gebote gedenket und sie tuet, und heilig seiet eurem Gott."
 "Ich bin Jehova, euer Gott, der ich euch aus dem LandeÄgypten herausgeführt habe, um euer Gott zu sein; ich bin Jehova, euer Gott."

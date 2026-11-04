@@ -1,6 +1,6 @@
 "Mikor kiírtja az Úr, a te Istened a nemzeteket, a kiknek földjét néked adja az Úr, a te Istened, és bírni fogod õket, és lakozol az õ városaikban és az õ házaikban
 "Válaszsz ki magadnak három várost a te földeden, a melyet az Úr, a te Istened ád néked, hogy örököljed azt."
-"Készítsd meg magadnak az utat [azokhoz], és oszszad három részre a te országod határát, a melyet az Úr, a te Istened ád néked örökségül; azok arra valók legyenek, hogy minden gyilkos oda meneküljön."
+"Készítsd meg magadnak az utat [azokhoz], és oszszad három részre a te országod határát, a melyet az #Úr, a te Istened ád néked örökségül; azok arra valók legyenek, hogy minden gyilkos oda meneküljön."
 "Ez pedig a gyilkos törvénye, a ki oda menekül, hogy élve maradjon
 "A ki [például] elmegy az õ felebarátjával az erdõre fát vágni, és meglódul a keze a fejszével, hogy levágja a fát, és leesik a vas a nyelérõl, és úgy találja az õ felebarátját, hogy az meghal
 "Különben a vérbosszuló rokon ûzõbe veszi az õ szívének búsulásában, és eléri, ha az út hosszú leend, és agyon üti õt, holott nem méltó a halálra, mivel azelõtt nem gyûlölte azt."

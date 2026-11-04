@@ -1,5 +1,5 @@
 "Şi Dumnezeu a binecuvântat pe Noe şi pe fiii lui şi le-a spus
-"Şi teama de voi şi groaza de voi va fi peste fiecare fiară a pământului şi peste fiecare pasăre a cerului, peste tot ce se mişcă [pe] pământ şi peste toţi peştii mării; în mâna voastră sunt ele predate."
+"Şi teama de voi şi groaza de voi va fi peste fiecare fiară a pământului şi peste fiecare pasăre a #cerului, peste tot ce se mişcă [pe] pământ şi peste toţi peştii mării; în mâna voastră sunt ele predate."
 "Tot ce se mişcă [şi] trăieşte va fi mâncare pentru voi; precum planta verde, v-am dat toate lucrurile."
 "Dar carne cu viaţa ei, [ceea ce este] sângele ei, să nu mâncaţi."
 "Şi cu adevărat sângele vostru, al vieţilor voastre, îl voi cere, din mâna fiecărei fiare îl voi cere şi din mâna omului, din mâna fiecărui frate al omului voi cere viaţa omului."
@@ -20,7 +20,7 @@
 "Şi Noe a început [a fi] agricultor şi a sădit o vie;"
 "Şi a băut din vin şi s-a îmbătat şi s-a dezgolit înăuntrul cortului său."
 "Şi Ham, tatăl lui Canaan, a văzut goliciunea tatălui său şi a spus celor doi fraţi ai săi de afară."
-"Şi Sem şi Iafet au luat o haină şi au pus-[o] peste amândoi umerii lor şi au mers cu spatele şi au acoperit goliciunea tatălui lor şi feţele lor [erau] întoarse şi nu au văzut goliciunea tatălui lor."
+"Şi Sem şi Iafet au luat o haină şi au pus-[o] peste amândoi umerii lor şi au mers cu spatele #şi au acoperit goliciunea tatălui lor şi feţele lor [erau] întoarse şi nu au văzut goliciunea tatălui lor."
 "Şi Noe s-a trezit din beţia vinului său şi a cunoscut ceea ce fiul său mai tânăr i-a făcut."
 "Şi a spus
 "Şi a spus

@@ -2,11 +2,11 @@
 "Ainsi a dit l'Éternel
 "Car les statuts des peuples ne sont que vanité. On coupe le bois dans la forêt; la main de l'ouvrier le travaille à la hache;"
 "On l'embellit avec de l'argent et de l'or; on le fixe avec des clous et des marteaux, pour qu'il ne vacille point."
-"Ils sont semblables, ces dieux, à une colonne faite au tour, et ils ne parlent pas. Il faut qu'on les porte, parce qu'ils ne peuvent marcher. Ne les craignez pas; car ils ne font point de mal; comme aussi faire du bien n'est pas en leur puissance."
+"Ils sont semblables, ces dieux, à une colonne faite au tour, et ils ne parlent pas. Il faut qu'on les porte, parce qu'ils ne #peuvent marcher. Ne les craignez pas; car ils ne font point de mal; comme aussi faire du bien n'est pas en leur puissance."
 "Nul n'est semblable à toi, ô Éternel! Tu es grand, et tu as un grand renom de puissance."
 "Qui ne te craindrait, roi des nations? Car cela t'est dû. Car parmi les plus sages des nations et dans tous leurs royaumes, nul n'est semblable à toi."
 "Ils sont tous ensemble abrutis et insensés. Ce bois n'enseigne que vanités."
-"C'est de l'argent en plaques, apporté de Tarsis, et de l'or d'Uphaz; l'œuvre du sculpteur et des mains de l'orfèvre. La pourpre et l'écarlate sont leur vêtement; tous ils sont l'ouvrage de gens habiles."
+"C'est de l'argent en plaques, apporté de Tarsis, et de l'or d'Uphaz; l'œuvre du sculpteur et des mains #de l'orfèvre. La pourpre et l'écarlate sont leur vêtement; tous ils sont l'ouvrage de gens habiles."
 "Mais l'Éternel est le Dieu de vérité; c'est le Dieu vivant et le roi éternel. Devant sa colère la terre tremble, et les nations ne peuvent soutenir son courroux."
 "Vous leur direz ainsi
 "C'est lui qui a fait la terre par sa puissance; qui a fondé le monde par sa sagesse; qui a étendu les cieux par son intelligence."
@@ -22,4 +22,4 @@
 "Voici, une rumeur se fait entendre, un grand tumulte vient du pays du Nord, pour faire des villes de Juda un désert, un repaire de chacals."
 "Éternel! je connais que la voie de l'homme ne dépend pas de lui, et qu'il n'est pas au pouvoir de l'homme qui marche, de bien diriger ses pas."
 "O Éternel! châtie-moi, toutefois avec mesure; non pas en ta colère, de peur que tu ne me réduises à néant."
-"Répands ta fureur sur les nations qui ne te connaissent pas, et sur les tribus qui n'invoquent point ton nom. Car elles ont dévoré Jacob, et elles le dévorent; elles l'ont consumé, et elles ont mis sa demeure en désolation."
+"Répands ta fureur sur les nations qui ne te connaissent pas, et sur les tribus qui n'invoquent point ton nom. Car #elles ont dévoré Jacob, et elles le dévorent; elles l'ont consumé, et elles ont mis sa demeure en désolation."

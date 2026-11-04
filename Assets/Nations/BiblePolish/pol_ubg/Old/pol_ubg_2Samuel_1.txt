@@ -7,7 +7,7 @@
 "Kiedy obejrzał się i zobaczył mnie, zawołał na mnie. Odpowiedziałem
 "I zapytał mnie
 "Wtedy powiedział mi
-"Stanąłem więc nad nim i zabiłem go, bo wiedziałem, że nie przeżyje po swoim upadku. Potem wziąłem koronę, która była na jego głowie, oraz naramiennik, który miał na ramieniu, i przyniosłem je tutaj do swojego pana."
+"Stanąłem więc nad nim i zabiłem go, bo wiedziałem, że nie przeżyje po swoim upadku. Potem wziąłem koronę, która #była na jego głowie, oraz naramiennik, który miał na ramieniu, i przyniosłem je tutaj do swojego pana."
 "Wtedy Dawid chwycił swoje szaty i rozdarł je, tak uczynili również wszyscy ludzie, którzy z nim byli."
 "Lamentowali i płakali, i pościli aż do wieczora po Saulu i jego synu Jonatanie, po ludzie PANA i po domu Izraela, że padli od miecza."
 "I Dawid zapytał młodzieńca, który mu to powiedział

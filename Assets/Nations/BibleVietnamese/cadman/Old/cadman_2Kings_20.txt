@@ -10,7 +10,7 @@
 "Ê-xê-chia đáp
 "Thầy tiên tri Ê-sai cầu khẩn Ðức Giê-hô-va, Ngài bèn đem bóng đã giọi trên trắc ảnh A-cha lui lại mười độ, là mười độ đã xuống rồi."
 "Trong lúc đó, Bê-rô-đác-Ba-la-đan, con trai Ba-la-đan, vua Ba-by-lôn, gởi thơ và lễ vật cho Ê-xê-chia; vì người đã hay rằng Ê-xê-chia đau."
-"Ê-xê-chia nghe lời các sứ giả tâu, thì vui mừng, bèn dẫn chúng viếng đền, là nơi chứa các vật quí, bạc, vàng, thuốc thơm, dầu quí, lại cho xem trại cơ khí, và mọi vật trong kho tàng mình. Chẳng có chi trong đền hoặc trong nước mà Ê-xê-chia không cho chúng xem thấy."
+"Ê-xê-chia nghe lời các sứ giả tâu, thì vui mừng, bèn dẫn chúng viếng đền, là nơi chứa các vật quí, bạc, vàng, thuốc thơm, dầu quí, lại #cho xem trại cơ khí, và mọi vật trong kho tàng mình. Chẳng có chi trong đền hoặc trong nước mà Ê-xê-chia không cho chúng xem thấy."
 "Tiên tri Ê-xai bèn đi đến vua Ê-xê-chia, và hỏi người rằng
 "Ê-sai tiếp
 "Ê-sai bèn nói với Ê-xê-chia rằng

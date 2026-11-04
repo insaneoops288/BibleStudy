@@ -1,7 +1,7 @@
 "Vậy, chính tôi đã quyết định không trở lại cùng anh em để làm cho anh em buồn rầu;"
 "vì nếu tôi làm cho anh em buồn rầu, thì thể nào tôi được trông cậy sự vui bởi kẻ mà chính tôi đã làm cho buồn rầu?"
 "Tôi đã biết cho anh em như thế, hầu cho khi tôi đến nơi, sẽ không buồn bởi kẻ đáng làm tôi vui
-"Vả, ấy là đương trong cơn khốn nạn lớn, tấm lòng quặn thắt, nước mắt dầm dề, mà tôi đã viết thơ cho anh em, nào phải để cho anh em âu sầu, nhưng để làm cho anh em biết tình yêu dấu riêng của tôi đối với anh em vậy."
+"Vả, ấy là đương trong cơn khốn nạn lớn, tấm lòng quặn thắt, nước mắt dầm dề, mà tôi đã viết thơ cho anh em, nào #phải để cho anh em âu sầu, nhưng để làm cho anh em biết tình yêu dấu riêng của tôi đối với anh em vậy."
 "Nếu kẻ nào làm cớ buồn rầu, ấy chẳng phải chỉ làm cho tôi buồn rầu mà thôi, nhưng đã làm cho anh em thảy đều buồn rầu ít nhiều, tôi chẳng muốn nói quá làm gì."
 "Kẻ đó đã bị phần nhiều người trong anh em quở trách, ấy là đủ rồi;"
 "thà nay anh em tha thứ yên ủi, hầu cho người khỏi bị sa ngã vì sự buồn rầu quá lớn."
@@ -14,4 +14,4 @@
 "Song tạ ơn Ðức Chúa Trời, Ngài làm cho chúng tôi được thắng trong Ðấng Christ luôn luôn, và bởi chúng tôi, Ngài rải mùi thơm về sự nhận biết Ngài khắp chốn!"
 "Vì chúng tôi ở trước mặt Ðức Chúa Trời là mùi thơm của Ðấng Christ, ở giữa kẻ được cứu, và ở giữa kẻ bị hư mất;"
 "cho kẻ nầy, mùi của sự chết làm cho chết; cho kẻ kia, mùi của sự sống làm cho sống. Ai xứng đáng cho những sự nầy?"
-"Vả, chúng tôi chẳng giả mạo lời của Ðức Chúa Trời như nhiều kẻ khác; nhưng chúng tôi lấy lòng chân thật, theo như đạo từ Ðức Chúa Trời đến thể nào, thì giảng ra thể ấy trước mặt Ðức Chúa Trời, trong Ðấng Christ."
+"Vả, chúng tôi chẳng giả mạo lời của Ðức Chúa Trời như nhiều kẻ khác; nhưng chúng tôi lấy lòng chân thật, theo #như đạo từ Ðức Chúa Trời đến thể nào, thì giảng ra thể ấy trước mặt Ðức Chúa Trời, trong Ðấng Christ."

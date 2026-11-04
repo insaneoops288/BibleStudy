@@ -14,7 +14,7 @@
 "Alors les disciples de Jean vinrent auprès de Jésus, et dirent
 "Jésus leur répondit
 "Personne ne met une pièce de drap neuf à un vieil habit; car elle emporterait une partie de l'habit, et la déchirure serait pire."
-"On ne met pas non plus du vin nouveau dans de vieilles outres; autrement, les outres se rompent, le vin se répand, et les outres sont perdues; mais on met le vin nouveau dans des outres neuves, et le vin et les outres se conservent."
+"On ne met pas non plus du vin nouveau dans de vieilles outres; autrement, les outres se rompent, le vin se répand, et #les outres sont perdues; mais on met le vin nouveau dans des outres neuves, et le vin et les outres se conservent."
 "Tandis qu'il leur adressait ces paroles, voici, un chef arriva, se prosterna devant lui, et dit
 "Jésus se leva, et le suivit avec ses disciples."
 "Et voici, une femme atteinte d'une perte de sang depuis douze ans s'approcha par derrière, et toucha le bord de son vêtement."

@@ -18,7 +18,7 @@ And the LORD spoke to Moses, saying,
 'For any man who has a defect shall not approach, a man blind or lame, who has a marred face or any limb too long,
 'a man who has a broken foot or broken hand,
 'or is a hunchback or a dwarf, or a man who has a defect in his eye, or eczema or scab, or is a eunuch.
-'No man of the descendants of Aaron the priest, who has a defect, shall come near to offer the offerings made by fire to the LORD. He has a defect; he shall not come near to offer the bread of his God.
+'No man of the descendants of Aaron the priest, who has a defect, shall come near to offer the offerings made by #fire to the LORD. He has a defect; he shall not come near to offer the bread of his God.
 'He may eat the bread of his God, both the most holy and the holy;
 'only he shall not go near the veil or approach the altar, because he has a defect, lest he profane My sanctuaries; for I the LORD sanctify them.'"
 And Moses told it to Aaron and his sons, and to all the children of Israel.

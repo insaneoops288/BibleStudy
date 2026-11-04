@@ -13,7 +13,7 @@
 "Iar ei au spus
 "Şi Iosif le-a spus
 "Prin aceasta veţi fi încercaţi
-"Trimiteţi pe unul dintre voi şi el să aducă pe fratele vostru şi voi veţi fi ţinuţi în închisoare, ca ale voastre cuvinte să fie încercate dacă [este ]adevăr în voi, sau altfel pe viaţa lui Faraon, cu adevărat voi [sunteţi] spioni."
+"Trimiteţi pe unul dintre voi şi el să aducă pe fratele vostru şi voi veţi fi ţinuţi în închisoare, ca ale voastre #cuvinte să fie încercate dacă [este ]adevăr în voi, sau altfel pe viaţa lui Faraon, cu adevărat voi [sunteţi] spioni."
 "Şi i-a pus împreună sub pază trei zile."
 "Şi Iosif le-a spus [în] a treia zi
 "Dacă voi [sunteţi] drepţi, lăsaţi pe unul dintre fraţii voştri să fie legat în casa închisorii voastre; mergeţi, căraţi grâne pentru foametea caselor voastre;"

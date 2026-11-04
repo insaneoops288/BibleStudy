@@ -12,4 +12,4 @@
 "Tak mówi PAN
 "Teraz bowiem złamię jego jarzmo, aby na tobie nie leżało, a rozerwę twoje więzy."
 "O tobie PAN rozkazał, że twoje imię już nie będzie miało więcej potomstwa. Wyniszczę z domu twoich bogów rzeźbione i lane posągi. Przygotuję ci grób, gdyż jesteś nikczemny."
-"Oto na górach nogi opowiadającego dobre wieści, zwiastującego pokój. Obchodź, Judo, swoje uroczyste święta, wypełniaj swoje śluby. Nikczemnik bowiem już nie przejdzie przez ciebie, został doszczętnie zgładzony."
+"Oto na górach nogi opowiadającego dobre wieści, zwiastującego pokój. Obchodź, Judo, swoje uroczyste święta, #wypełniaj swoje śluby. Nikczemnik bowiem już nie przejdzie przez ciebie, został doszczętnie zgładzony."

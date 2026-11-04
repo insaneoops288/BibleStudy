@@ -1,5 +1,5 @@
 "Ja tuomarien hallitessa oli kallis aika maalla, ja mies Juudan Betlehemistä meni vaeltamaan Moabilaisten maalle, hän ja hänen emäntänsä ja kaksi hänen poikaansa."
-"Hänen nimensä oli EliMelek, ja hänen emäntänsä nimi Noomi, ja hänen kahden poikansa nimi Mahlon ja Kiljon, he olivat Ephratilaisia Juudan Betlehemistä. Ja kuin he tulivat Moabilaisten maalle, pysyivät he siellä."
+"Hänen nimensä oli EliMelek, ja hänen emäntänsä nimi Noomi, ja hänen kahden poikansa nimi Mahlon ja #Kiljon, he olivat Ephratilaisia Juudan Betlehemistä. Ja kuin he tulivat Moabilaisten maalle, pysyivät he siellä."
 "Ja EliMelek Noomin mies kuoli, ja hän jäi hänestä kahden poikansa kanssa."
 "He naivat Moabilaisia vaimoja
 "Ja kuolivat nekin molemmat, sekä Mahlon että Kiljon, ja se vaimo jäi jälkeen kahdesta pojastansa ja miehestänsä."

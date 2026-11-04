@@ -6,7 +6,7 @@
 "I bude krajina pomořská místo ovčinců, jam pastýřských a stájí dobytka."
 "Bude také i ostatku domu Judského krajinou, kdež by pásli. V domích Aškalonu u večer léhati budou, když je navštíví Hospodin Bůh jejich, a přivede zase zajaté jejich."
 "Slyšelť jsem hanění Moábských a utrhání synů Ammonitských, kterýmiž haněli můj lid, a honosili se na pomezí jejich."
-"Protož živ jsem já, praví Hospodin zástupů, Bůh Izraelský, že Moáb jako Sodoma bude, a synové Ammonitští jako Gomora, místem kopřiv a domem solným a pustinou až na věky. Ostatkové lidu mého rozchvátají je, a pozůstalí z lidu mého dědičně je obdrží."
+"Protož živ jsem já, praví Hospodin zástupů, Bůh Izraelský, že Moáb jako Sodoma bude, a synové Ammonitští jako Gomora, místem kopřiv a #domem solným a pustinou až na věky. Ostatkové lidu mého rozchvátají je, a pozůstalí z lidu mého dědičně je obdrží."
 "To jim pro pýchu jejich, že zhaněli a zpínali se nad lid Hospodina zástupů."
 "Hrozný jim bude Hospodin; nebo způsobí, aby zhubeněli všickni bohové země. I bude se jemu klaněti každý z místa svého, všickni ostrovové národu."
 "Také i vy, Mouřenínové, mečem mým zbiti budete."

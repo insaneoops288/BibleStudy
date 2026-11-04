@@ -1,4 +1,4 @@
-"Ja Naeman Syrian kuninkaan sodanpäämies oli kuuluisa mies ja suurena pidetty herransa edessä; sillä hänen kauttansa oli Herra antanut autuuden Syriaan; ja hän oli voimallinen mies, vaan spitalinen."
+"Ja Naeman Syrian kuninkaan sodanpäämies oli kuuluisa mies ja suurena pidetty herransa edessä; sillä hänen #kauttansa oli Herra antanut autuuden Syriaan; ja hän oli voimallinen mies, vaan spitalinen."
 "Ja sotaväki oli Syriasta mennyt ulos joukottaisin, ja olivat vieneet pois Israelin maalta vähän piikaisen, joka palveli Naemanin emäntää."
 "Hän sanoi emännällensä
 "Niin hän meni ja ilmoitti herrallensa, sanoen
@@ -15,7 +15,7 @@
 "Ja hän palasi Jumalan miehen tykö kaiken joukkonsa kanssa; ja kuin hän oli tullut sisälle, seisoi hän hänen edessänsä ja sanoi
 "Mutta hän sanoi
 "Niin sanoi Naeman
-"Tässä asiassa olkoon Herra armias palvelialles! kuin herrani menee Rimmonin huoneesen rukoilemaan, ja nojaa minun käteni päälle, ja minä rukoilen Rimmonin huoneessa; niin olkoon Herra tässä asiassa palvelialles armias mies, että minä Rimmonin huoneessa rukoilen!"
+"Tässä asiassa olkoon Herra armias palvelialles! kuin herrani menee Rimmonin huoneesen rukoilemaan, ja nojaa minun käteni päälle, ja #minä rukoilen Rimmonin huoneessa; niin olkoon Herra tässä asiassa palvelialles armias mies, että minä Rimmonin huoneessa rukoilen!"
 "Ja hän sanoi hänelle
 "Sanoi Gehatsi, Jumalan miehen Elisan palvelia
 "Niin Gehatsi juoksi nopiasti Naemanin jälkeen. Ja kuin Naeman näki hänen juoksevan perässänsä, astui hän vaunuista ulos häntä vastaan ja sanoi

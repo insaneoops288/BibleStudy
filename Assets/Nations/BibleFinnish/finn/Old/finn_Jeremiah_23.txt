@@ -5,13 +5,13 @@
 "Katso, se aika tulee, sanoo Herra, että minä herätän Davidille vanhurskaan vesan, joka on kuninkaaksi tuleva, ja on hyvin hallitseva ja toimittava oikeuden ja vanhurskauden maan päällä."
 "Hänen aikanansa pitää Juudaa autettaman, ja Israel hyvässä turvassa asuman; ja tämä on hänen nimensä oleva kuin häntä kutsutaan
 "Sentähden katso, se aika tulee, sanoo Herra, ettei heidän pidä enään sanoman
-"Vaan niin totta kuin Herra elää, joka Israelin huoneen siemenen toi ulos ja johdatti pohjoisesta maasta ja kaikista maakunnista, joihin minä heidät ajanut olin; niin että he nyt saavat asua omassa maassansa."
+"Vaan niin totta kuin Herra elää, joka Israelin huoneen siemenen toi ulos ja johdatti pohjoisesta maasta ja #kaikista maakunnista, joihin minä heidät ajanut olin; niin että he nyt saavat asua omassa maassansa."
 "Prophetaita vastaan
 "Että maa on niin täynnä huorintekiöitä, että maa niin surkia on, että hän kirottu on, ja kedot metsissä kuivuvat; ja heidän elämänsä on paha, ja ei heidän hallituksensa mitään kelpaa."
 "Sillä sekä prophetat että papit ovat pahanilkiset; ja minä löydän heidän pahuutensa minun huoneessanikin, sanoo Herra."
 "Sentähden on heidän tiensä niinkuin liukastus pimiässä, jossa heidän pitää livistelemän ja lankeeman; sillä minä tahdon antaa onnettomuuden tulla heille heidän kuritusvuotenansa, sanoo Herra."
 "Ja Samarian prophetaissa olen minä nähnyt hulluuden; sillä he ennustivat Baalin kautta, ja hukuttelivat minun kansani Israelin."
-"Mutta Jerusalemin prophetaissa näen minä kauhistuksen, kuinka he huorin tekevät ja valheessa vaeltavat, ja vahvistavat pahoja, ettei yhdenkään pitäisi pahuudestansa kääntymän; he ovat kaikki minun edessäni niinkuin Sodoma, ja sen asuvaiset niinkuin Gomorra."
+"Mutta Jerusalemin prophetaissa näen minä kauhistuksen, kuinka he huorin tekevät ja valheessa vaeltavat, ja vahvistavat pahoja, ettei #yhdenkään pitäisi pahuudestansa kääntymän; he ovat kaikki minun edessäni niinkuin Sodoma, ja sen asuvaiset niinkuin Gomorra."
 "Sentähden sanoo Herra Zebaot prophetaista näin
 "Näin sanoo Herra Zebaot
 "He sanovat köykäisesti niille, jotka minua pilkkaavat
@@ -29,7 +29,7 @@
 "Eikö minun sanani ole niinkuin tuli, sanoo Herra, ja niinkuin vasara, joka vuoren murentaa?"
 "Sentähden katso, minä tahdon tehdä niitä prophetaita vastaan, sanoo Herra, jotka minun sanani toinen toiseltansa varastavat."
 "Katso, minä tahdon niitä prophetaita vastaan tehdä, sanoo Herra, jotka omia puheitansa puhuvat ja sanovat
-"Katso, minä tahdon tehdä niitä vastaan, jotka pettäväisiä unia ennustavat, sanoo Herra, ja saarnaavat niitä, vietellen minun kansani valheillansa ja turhilla jutuillansa, vaikka en minä ole heitä lähettänyt, enkä heitä käskenyt, ei myös he tälle kansalle ole ensinkään hyödylliset, sanoo Herra."
+"Katso, minä tahdon tehdä niitä vastaan, jotka pettäväisiä unia ennustavat, sanoo Herra, ja saarnaavat niitä, vietellen minun kansani valheillansa ja turhilla #jutuillansa, vaikka en minä ole heitä lähettänyt, enkä heitä käskenyt, ei myös he tälle kansalle ole ensinkään hyödylliset, sanoo Herra."
 "Jos tämä kansa, eli joku propheta, taikka pappi kysyy sinulta ja sanoo
 "Ja jos joku propheta, taikka pappi, elikkä kansa on sanova
 "Mutta näin pitää kukin puhuman toisellensa ja sanoman keskenänsä

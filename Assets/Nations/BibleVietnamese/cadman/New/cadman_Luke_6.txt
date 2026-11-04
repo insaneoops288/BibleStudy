@@ -14,7 +14,7 @@
 "Si-môn, Ngài đặt tên là Phi -e-rơ, Anh-rê em ruột của Phi -e-rơ, Gia-cơ và Giăng, Phi-líp và Ba-thê-lê-my,"
 "Ma-thi -ơ và Thô-ma, Gia-cơ con của A-phê, Si-môn gọi là Xê-lốt,"
 "Giu-đê con của Gia-cơ và Giu-đa Ích-ca-ri-ốt là kẻ phản Ngài."
-"Kế đó, Ngài cùng môn đồ xuống, dừng lại nơi đồng bằng. Ở đó, có nhiều môn đồ Ngài cùng đoàn dân rất đông từ khắp xứ Giu-đê, thành Giê-ru-sa-lem, và miền biển Ty-rơ, Si-đôn mà đến, để nghe Ngài dạy và cho được chữa lành bịnh mình."
+"Kế đó, Ngài cùng môn đồ xuống, dừng lại nơi đồng bằng. Ở đó, có nhiều môn đồ Ngài cùng đoàn dân rất đông từ #khắp xứ Giu-đê, thành Giê-ru-sa-lem, và miền biển Ty-rơ, Si-đôn mà đến, để nghe Ngài dạy và cho được chữa lành bịnh mình."
 "Những kẻ mắc tà ma khuấy hại cũng đều được lành."
 "Cả đoàn dân đến kiếm cách rờ Ngài, vì từ Ngài có quyền phép ra, chữa lành hết mọi người."
 "Ðức Chúa Jêsus bèn ngước mắt ngó môn đồ, mà phán rằng
@@ -32,7 +32,7 @@
 "Nếu các ngươi yêu kẻ yêu mình, thì có ơn chi? Người có tội cũng yêu kẻ yêu mình."
 "Nếu các ngươi làm ơn cho kẻ làm ơn mình, thì có ơn chi? Người có tội cũng làm như vậy."
 "Nếu các ngươi cho ai mượn mà mong họ trả, thì có ơn chi? Người có tội cũng cho người có tội mượn, để được thâu lại y số."
-"Song các ngươi hãy yêu kẻ thù mình; hãy làm ơn, hãy cho mượn, mà đừng ngã lòng. Vậy, phần thưởng của các ngươi sẽ lớn, và các ngươi sẽ làm con của Ðấng Rất Cao, vì Ngài lấy nhơn từ đối đãi kẻ bạc và kẻ dữ."
+"Song các ngươi hãy yêu kẻ thù mình; hãy làm ơn, hãy cho mượn, mà đừng ngã lòng. Vậy, phần thưởng của các ngươi sẽ #lớn, và các ngươi sẽ làm con của Ðấng Rất Cao, vì Ngài lấy nhơn từ đối đãi kẻ bạc và kẻ dữ."
 "Hãy thương xót như Cha các ngươi hay thương xót."
 "Ðừng đoán xét ai, thì các ngươi khỏi bị đoán xét; đừng lên án ai, thì các ngươi khỏi bị lên án; hãy tha thứ, người sẽ tha thứ mình."
 "Hãy cho, người sẽ cho mình; họ sẽ lấy đấu lớn, nhận, lắc cho đầy tràn, mà nộp trong lòng các ngươi; vì các ngươi lường mực nào, thì họ cũng lường lại cho các ngươi mực ấy."

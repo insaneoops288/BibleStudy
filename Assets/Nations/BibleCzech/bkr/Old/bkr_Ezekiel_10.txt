@@ -16,7 +16,7 @@
 "Když pak šli cherubínové, šla i kola podlé nich, a když vznášeli cherubínové křídla svá, aby se pozdvihli od země, neuchylovala se také kola od nich."
 "Když stáli oni, stála, a když se vyzdvihovali, vyzdvihovala se s nimi; nebo duch zvířat byl v nich."
 "I odešla sláva Hospodinova od prahu domu, a stála nad cherubíny,"
-"Hned jakž pozdvihli cherubínové křídel svých a vznesli se od země, před očima mýma odcházejíce, a kola naproti nim, a stála u vrat brány domu Hospodinova východní, a sláva Boha Izraelského svrchu nad nimi."
+"Hned jakž pozdvihli cherubínové křídel svých a vznesli se od země, před očima mýma odcházejíce, a kola naproti #nim, a stála u vrat brány domu Hospodinova východní, a sláva Boha Izraelského svrchu nad nimi."
 "To jsou ta zvířata, kteráž jsem viděl pod Bohem Izraelským u řeky Chebar, a poznal jsem, že cherubínové byli."
 "Po čtyřech tvářích měl jeden každý, a po čtyřech křídlích jeden každý; podobenství také rukou lidských pod křídly jejich."
 "Podobenství pak tváří jejich bylo jako tváří, kteréž jsem byl viděl u řeky Chebar, oblíčej jejich i oni sami. Jeden každý přímo k své straně chodil."

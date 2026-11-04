@@ -21,6 +21,6 @@
 "Les bagues et les anneaux pour le nez;"
 "Les robes de fête, les larges tuniques, les manteaux, les sachets;"
 "Les miroirs, les chemises, les tiares et les mantilles."
-"Au lieu de parfum, il y aura de l'infection; au lieu de ceintures, des cordes; au lieu de cheveux frisés, des têtes chauves; au lieu de robes flottantes, des sacs étroits; des cicatrices, au lieu de beauté."
+"Au lieu de parfum, il y aura de l'infection; au lieu de ceintures, des cordes; au lieu de cheveux #frisés, des têtes chauves; au lieu de robes flottantes, des sacs étroits; des cicatrices, au lieu de beauté."
 "Tes hommes tomberont par l'épée, et tes héros par la guerre."
 "Les portes de Sion gémiront et seront dans le deuil; désolée, elle s'assiéra à terre."

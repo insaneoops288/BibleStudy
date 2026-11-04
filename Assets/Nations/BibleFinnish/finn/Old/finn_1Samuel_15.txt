@@ -6,7 +6,7 @@
 "Ja antoi sanoa Keniläisille
 "Niin löi Saul Amalekilaiset hamasta Hevilasta siihen asti kuin Suriin tullaan, joka on Egyptin kohdalla,"
 "Ja otti Agagin Amalekilaisten kuninkaan elävänä kiinni, ja kaiken kansan surmasi hän miekan terällä."
-"Niin Saul ja kansa säästi Agagin, ja mitä parasta lampaista ja karjasta oli, lihavia karitsoita ja syöttiläitä, ja kaikki mitä hyvä oli, ei he tahtoneet hukuttaa niitä; mutta sen, mikä häijy oli ja ei kelvannut, he hukuttivat."
+"Niin Saul ja kansa säästi Agagin, ja mitä parasta lampaista ja karjasta oli, lihavia karitsoita ja syöttiläitä, ja kaikki #mitä hyvä oli, ei he tahtoneet hukuttaa niitä; mutta sen, mikä häijy oli ja ei kelvannut, he hukuttivat."
 "Niin tapahtui Herran sana Samuelille, sanoen
 "Minä kadun, että minä olen tehnyt Saulin kuninkaaksi, sillä hän on luopunut minusta ja ei täyttänyt minun sanojani; ja Samuel vihastui ja huusi Herran tykö kaiken sen yön."
 "Ja Samuel nousi varhain huomeneltain kohtaamaan Saulia, ja Samuelille oli sanottu Saulin tulleeksi Karmeliin, ja panneeksi voiton merkin, ja vaeltaneeksi ympäri, ja tulleeksi Gilgaliin."

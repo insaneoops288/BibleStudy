@@ -1,12 +1,12 @@
 "O Senhor, pois, enviou Natan a David. E, entrando ele a ter com David, disse-lhe
 "O rico tinha rebanhos e manadas em grande número;"
-"mas o pobre não tinha coisa alguma, senão uma pequena cordeira que comprara e criara; ela crescera em companhia dele e de seus filhos; do seu bocado comia, do seu copo bebia, e dormia em seu regaço; e ele a tinha como filha."
+"mas o pobre não tinha coisa alguma, senão uma pequena cordeira que comprara e criara; ela crescera em companhia dele e de #seus filhos; do seu bocado comia, do seu copo bebia, e dormia em seu regaço; e ele a tinha como filha."
 "Chegou um viajante à casa do rico; e este, não querendo tomar das suas ovelhas e do seu gado para guisar para o viajante que viera a ele, tomou a cordeira do pobre e a preparou para o seu hóspede."
 "Então a ira de David se acendeu em grande maneira contra aquele homem; e disse a Natan
 "Pela cordeira restituirá o quádruplo, porque fez tal coisa, e não teve compaixão."
 "Então disse Natan a David
 "e te dei a casa de teu senhor, e as mulheres de teu senhor em teu seio; também te dei a casa de Israel e de Judá. E se isso fosse pouco, te acrescentaria outro tanto."
-"Por que desprezaste a palavra do Senhor, fazendo o mal diante de seus olhos? A Urias, o heteu, mataste à espada, e a sua mulher tomaste para ser tua mulher; sim, a ele mataste com a espada dos amonitas."
+"Por que desprezaste a palavra do Senhor, fazendo o mal diante de seus olhos? A Urias, o heteu, mataste à #espada, e a sua mulher tomaste para ser tua mulher; sim, a ele mataste com a espada dos amonitas."
 "Agora, pois, a espada jamais se apartará da tua casa, porquanto me desprezaste, e tomaste a mulher de Urias, o heteu, para ser tua mulher."
 "Assim diz o Senhor
 "Pois tu o fizeste em oculto; mas eu farei este negócio perante todo o Israel e à luz do sol."
@@ -28,4 +28,4 @@
 "Ajunta, pois, agora o resto do povo, acampa contra a cidade e toma-a, para que eu não a tome e seja o meu nome aclamado sobre ela."
 "Então David ajuntou todo o povo, e marchou para Rabá; pelejou contra ela, e a tomou."
 "Também tirou a coroa da cabeça do seu rei; e o peso dela era de um talento de ouro e havia nela uma pedra preciosa; e foi posta sobre a cabeça de David, que levou da cidade mui grande despojo."
-"E, trazendo os seus habitantes, os pôs a trabalhar com serras, trilhos de ferro, machados de ferro, e em fornos de tijolos; e assim fez a todas as cidades dos amonitas. Depois voltou David e todo o povo para Jerusalém."
+"E, trazendo os seus habitantes, os pôs a trabalhar com serras, trilhos de ferro, machados de ferro, e em fornos de #tijolos; e assim fez a todas as cidades dos amonitas. Depois voltou David e todo o povo para Jerusalém."

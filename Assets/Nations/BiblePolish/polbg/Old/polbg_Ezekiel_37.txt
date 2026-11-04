@@ -20,9 +20,9 @@
 "A gdy będą one drewna, na których napiszesz, w ręce twojej przed oczyma ich,"
 "Tedy rzecz do nich
 "I uczynię ich narodem jednym w ziemi, na górach Izraelskich, i będzie król jeden nad onymi wszystkimi za króla; a nie będą więcej dwa narody, nie rozdzielą się nigdy więcej na dwoje królestw;"
-"Nie splugwią się więcej plugawemi bałwanami swemi, i obrzydliwościami swemi, ani jakiemi przestępstwy swemi; i wybawię ich z każdego mieszkania ich, gdzie zgrzeszyli, i oczyszczę ich, i będą ludem moim, a Ja będę Bogiem ich."
+"Nie splugwią się więcej plugawemi bałwanami swemi, i obrzydliwościami swemi, ani jakiemi przestępstwy swemi; i wybawię ich z #każdego mieszkania ich, gdzie zgrzeszyli, i oczyszczę ich, i będą ludem moim, a Ja będę Bogiem ich."
 "A sługa mój Dawid będzie królem nad nimi, i pasterza jednego wszyscy mieć będą, aby w sądach moich chodzili, i ustaw moich przestrzegali, i czynili je."
-"I będą mieszkać w onej ziemi, którąm był dał słudze memu Jakóbowi, w której mieszkali ojcowie wasi; będą, mówię, w niej mieszkali oni i synowie ich, i synowie synów ich aż na wieki, a Dawid, sługa mój, będzie książęciem ich na wieki."
+"I będą mieszkać w onej ziemi, którąm był dał słudze memu Jakóbowi, w której mieszkali ojcowie wasi; będą, mówię, w niej mieszkali #oni i synowie ich, i synowie synów ich aż na wieki, a Dawid, sługa mój, będzie książęciem ich na wieki."
 "I uczynię też z nimi przymierze pokoju, a przymierze wieczne będzie z nimi; i osadzę ich i rozmnożę ich, i założę świątnicę moję w pośrodku ich na wieki."
 "I będzie przybytek mój między nimi, i będę Bogiem ich, a oni będą ludem moim."
 "I dowiedzą się narody, żem Ja Pan, który poświęcam Izraela, gdy będzie świątnica moja w pośrodku ich na wieki."

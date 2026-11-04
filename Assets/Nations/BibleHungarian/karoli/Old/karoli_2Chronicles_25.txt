@@ -2,7 +2,7 @@
 "És kedves dolgot cselekedék az Úr elõtt; de nem tiszta szívbõl."
 "Lõn pedig azután, hogy országában megerõsödék, megölé az õ szolgáit, a kik a királyt, az õ atyját megölték vala."
 "De azoknak fiait nem öleté meg, hanem a szerint cselekedék, a mint a törvényben, a Mózes könyvében megiratott, a melyben az Úr parancsolt volt, mondván
-"Összegyûjté annak felette Amásia a Júda népét, és választa közülök a nemzetségek szerint egész Júdában és Benjáminban ezredeseket és századosokat; és megszámlálá õket a húsz esztendõsöktõl fogva és a kik feljebb valának, és talála azok közül válogatott fegyverfoghatókat, kopjásokat és paizsosokat, háromszázezeret."
+"Összegyûjté annak felette Amásia a Júda népét, és választa közülök a nemzetségek szerint egész Júdában és Benjáminban ezredeseket és századosokat; és megszámlálá #õket a húsz esztendõsöktõl fogva és a kik feljebb valának, és talála azok közül válogatott fegyverfoghatókat, kopjásokat és paizsosokat, háromszázezeret."
 "Annakfelette az Izráeliták közül százezer erõs vitézt fogadott fel, száz talentom ezüstön."
 "Eljöve pedig az Isten embere õ hozzá, mondván
 "Ha nem [hiszed,] ám menj el, készülj a viadalhoz; de megver az Isten téged az ellenség elõtt; mert az Isten hatalmában van mind a segítség, mind a megveretés."
@@ -20,7 +20,7 @@
 "De Amásia nem nyugodhatott, mert Isten elvégezte vala, hogy [az ellenség] kezébe adja õket, mivel az Edomiták isteneit keresték."
 "Felindula azért Joás, az Izráel királya, és szembeszállának egymással õ és Amásia, a Júda királya Béth-Semesnél, a mely Júdában van."
 "És Júda megveretteték Izráel által, és elmenekülének mindnyájan sátoraikba."
-"Amásiát pedig, a Júda királyát, a Joás fiát, a ki Joákház fia volt, Joás, az Izráel királya elfogá Béth-Semesben, és vivé õt Jeruzsálembe, és Jeruzsálem kõfalát lerontá az Efraim kaputól fogva mind a szeglet kapujáig négyszáz singnyire."
+"Amásiát pedig, a Júda királyát, a Joás fiát, a ki Joákház fia volt, Joás, az Izráel királya elfogá Béth-Semesben, #és vivé õt Jeruzsálembe, és Jeruzsálem kõfalát lerontá az Efraim kaputól fogva mind a szeglet kapujáig négyszáz singnyire."
 "És az aranyat, az ezüstöt és mindenféle edényeket, a melyek az Isten házában, az Obed-Edom birtokában találtatának, és a király házának kincseit, s a kezesek fiait mind Samariába vivé."
 "Amásia, a Joás fia, a Júda királya, minekutána meghala Joás, a Joákház fia, az Izráel királya, még tizenöt esztendeig éle."
 "Amásiának pedig többi dolgai, az elsõk és utolsók, avagy nincsenek-é megírva a Júda és az Izráel királyainak könyvében?"

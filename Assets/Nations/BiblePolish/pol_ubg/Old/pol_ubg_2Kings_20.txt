@@ -10,7 +10,7 @@
 "Ezechiasz odpowiedział
 "Wtedy prorok Izajasz zawołał do PANA. I on cofnął cień o dziesięć stopni, po których przesunął się na zegarze słonecznym Achaza."
 "W tym czasie Berodach-Baladan, syn Baladana, król Babilonu, posłał listy i dar do Ezechiasza. Usłyszał bowiem, że Ezechiasz chorował."
-"I Ezechiasz wysłuchał posłańców, i pokazał im cały skarbiec swoich kosztowności, srebro, złoto, wonności, drogocenne olejki oraz swoją zbrojownię, a także wszystko, co się znajdowało w jego składach. Nie było nic, czego Ezechiasz by im nie pokazał w swoim domu i w całym swoim państwie."
+"I Ezechiasz wysłuchał posłańców, i pokazał im cały skarbiec swoich kosztowności, srebro, złoto, wonności, drogocenne olejki oraz swoją zbrojownię, a także wszystko, co #się znajdowało w jego składach. Nie było nic, czego Ezechiasz by im nie pokazał w swoim domu i w całym swoim państwie."
 "Wtedy prorok Izajasz przyszedł do króla Ezechiasza i zapytał go
 "Znowu zapytał
 "Wtedy Izajasz powiedział do Ezechiasza

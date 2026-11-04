@@ -1,9 +1,9 @@
 "Rzekł zasię Pan do Mojżesza i do Aarona, mówiąc
-"Człowiek, który by miał na skórze ciała swego sadzel, albo liszaj, albo białe blizny, tak iżby się na skórze ciała jego okazała plaga trądu, przywiedziony będzie do Aarona kapłana, albo do którego z synów jego kapłanów."
-"Tedy ogląda kapłan on sadzel na skórze ciała jego; jeźliby włos na onym sadzelu pobielał, a on sadzel na spojrzeniu byłby głębszy, niż insza skóra ciała jego, plaga trądu jest; przetoż oglądawszy go kapłan, osądzi go być nieczystym."
-"A jeźliby biała tylko blizna była na skórze ciała jego, a nie byłaby głębsza na spojrzeniu, niż inna skóra, i włosy w niej nie pobielałyby, tedy zamknie kapłan mającego taką zarazę przez siedem dni."
+"Człowiek, który by miał na skórze ciała swego sadzel, albo liszaj, albo białe blizny, tak iżby się na skórze #ciała jego okazała plaga trądu, przywiedziony będzie do Aarona kapłana, albo do którego z synów jego kapłanów."
+"Tedy ogląda kapłan on sadzel na skórze ciała jego; jeźliby włos na onym sadzelu pobielał, a on sadzel na spojrzeniu #byłby głębszy, niż insza skóra ciała jego, plaga trądu jest; przetoż oglądawszy go kapłan, osądzi go być nieczystym."
+"A jeźliby biała tylko blizna była na skórze ciała jego, a nie byłaby głębsza na spojrzeniu, niż inna #skóra, i włosy w niej nie pobielałyby, tedy zamknie kapłan mającego taką zarazę przez siedem dni."
 "Potem obejrzy go kapłan dnia siódmego; a jeźliby ona blizna tak została w oczach jego, a nie szerzyła się ona blizna po skórze, tedy go zamknie kapłan przez siedem dni po wtóre."
-"I obejrzy go kapłan dnia siódmego po wtóre; a jeźliby ta zaraza poczerniała a nie szerzyłaby się ta zaraza po skórze, tedy go za czystego osądzi kapłan, bo świerzb jest; a on upierze szaty swe, a będzie czystym."
+"I obejrzy go kapłan dnia siódmego po wtóre; a jeźliby ta zaraza poczerniała a nie szerzyłaby się ta zaraza po #skórze, tedy go za czystego osądzi kapłan, bo świerzb jest; a on upierze szaty swe, a będzie czystym."
 "Ale jeźliby się bardziej rozszerzał po skórze świerzb on po oglądaniu kapłanowem i po oczyszczeniu jego, pokaże się znowu kapłanowi."
 "Tedy obejrzy go kapłan; a jeźliby się ta zaraza rozszerzała po skórze jego, osądzi go za nieczystego kapłan; bo trąd jest."
 "Zaraza trądu gdy będzie na człowieku, przywiedzion będzie do kapłana."
@@ -22,16 +22,16 @@
 "A jeźliby się szerzyła po skórze, za nieczystego osądzi go kapłan; zaraza to trądu."
 "Wszakże jeźliby blizna ona biała na swem miejscu zostawała; i nie szerzyłaby się, zapalenie wrzodu jest; przetoż za czystego osądzi go kapłan."
 "Także ciało, na którego skórze byłaby sparzelina od ognia, a po zgojeniu onej sparzeliny byłaby blizna biała, zaczerwieniała, albo biała tylko,"
-"Ogląda to kapłan; a jeźliby włos w bliźnie pobielał i lśnił się, a na spojrzeniu byłaby głębsza ona blizna niż skóra, trąd jest z sparzeliny wyrosły; przetoż za nieczystego osądzi go kapłan, bo zaraza trądu jest."
+"Ogląda to kapłan; a jeźliby włos w bliźnie pobielał i lśnił się, a na spojrzeniu byłaby głębsza ona blizna #niż skóra, trąd jest z sparzeliny wyrosły; przetoż za nieczystego osądzi go kapłan, bo zaraza trądu jest."
 "A jeźli kapłan obaczy, że na onej bliźnie białej włos nie pobielał, a iż nie jest głębsza nad inszą skórę, ale iż nieco naczerniała, zamknie kapłan takowego przez siedem dni."
 "I obejrzy go kapłan dnia siódmego; jeźliby się bardziej szerzyła po skórze, osądzi go za nieczystego kapłan
 "A jeźliż ta blizna biała zostawa na swem miejscu, a nie szerzy się po skórze, ale się zaczerniwa, przyszczela z sparzenia jest; i osądzi go za czystego kapłan, bo blizna sparzeliny jest."
 "Gdyby mąż, albo niewiasta mieli jaką plamę na głowie albo na brodzie
-"Tedy obejrzy kapłan onę plamę; a będzieli na spojrzeniu głębsza niż insza skóra, i byłby na niej włos pożółkły i subtelny, tedy takowego za nieczystego osądzi kapłan, zmaza jest; trąd na głowie albo na brodzie jest."
+"Tedy obejrzy kapłan onę plamę; a będzieli na spojrzeniu głębsza niż insza skóra, i byłby na niej włos pożółkły #i subtelny, tedy takowego za nieczystego osądzi kapłan, zmaza jest; trąd na głowie albo na brodzie jest."
 "Ale jeźliby obaczył kapłan zarazę onej plamy, a oto na wejrzeniu jest głębsza nad inszą skórę, a nie byłby na niej włos czarny, zamknie kapłan zarazę plamy mającego przez siedem dni."
 "Potem obejrzy kapłan tę zarazę dnia siódmego; a jeźli się nie szerzy zmaza, i nie masz na niej pożółkłego włosa, i na spojrzeniu ta zmaza nie byłaby głębsza nad inszą skórę
 "Tedy ogolony będzie ten człowiek, ale zmazy onej golić nie będzie; i zamknie kapłan mającego zmazę przez siedem dni po wtóre."
-"I ogląda kapłan onę zmazę dnia siódmego; a jeźli się nie rozszerzyła zmaza po skórze, a na spojrzeniu nie jest głębsza nad inszą skórę, osądzi go za czystego kapłan; a on uprawszy odzienie swoje, czystym będzie."
+"I ogląda kapłan onę zmazę dnia siódmego; a jeźli się nie rozszerzyła zmaza po skórze, a na spojrzeniu nie #jest głębsza nad inszą skórę, osądzi go za czystego kapłan; a on uprawszy odzienie swoje, czystym będzie."
 "A jeźliby się poczęła szerzyć ona zmaza na skórze po oczyszczeniu jego
 "Tedy obejrzy go kapłan; a jeźliż się szerzy ona zmaza po skórze, nie będzie więcej upatrował kapłan włosu żółtego; nieczystym jest."
 "Wszakże jeźli przed oczyma jego tak zostawa ona zmaza, i włos czarny wyrósłby na niej, zgoiła się ona zmaza, czysty jest i za czystego osądzi go kapłan."
@@ -52,8 +52,8 @@
 "Tedy spali tę szatę, albo osnowę, albo wątek z wełny, albo ze lnu, albo jakiekolwiek naczynie skórzane, na którem by była zaraza
 "Ale gdyby obaczył kapłan, iż ona zmaza nie szerzy się na szacie, albo na osnowie, albo na wątku, albo na jakimkolwiek naczyniu skórzanem"
 "Rozkaże kapłan, aby uprano to, na czem jest zaraza, i zamknie to przez siedem dni po wtóre."
-"I obejrzy kapłan po upraniu onę zarazę; a jeźli nie odmieniła ona zaraza barwy swojej, choćby się ona zaraza nie rozszerzyła, rzecz nieczysta jest, ogniem ją spalisz; zaraźliwa rzecz jest, bądź na zwierzchniej bądź na spodniej stronie jej."
+"I obejrzy kapłan po upraniu onę zarazę; a jeźli nie odmieniła ona zaraza barwy swojej, choćby się ona zaraza nie #rozszerzyła, rzecz nieczysta jest, ogniem ją spalisz; zaraźliwa rzecz jest, bądź na zwierzchniej bądź na spodniej stronie jej."
 "Wszakże, jeźliby kapłan obaczył, iż przyczerniejsza będzie zaraza po wypraniu swem, odedrze ją od szaty, albo od skóry, albo od osnowy, albo od wątku."
 "A jeźliby się jeszcze ukazała na szacie, albo na osnowie, albo na wątku, albo na jakiem naczyniu skórzanem, trąd jest szerzący się
 "Szatę zaś, albo osnowę, albo wątek, albo każde naczynie skórzane, które byś uprał, a odeszłaby od niego zaraza, upierzesz je po wtóre, a czyste będzie."
-"Tać jest ustawa o zarazie trądu, na szacie suknianej, albo lnianej albo na osnowie, albo na wątku, albo na jakiemkolwiek naczyniu skórzanem, jako to ma być rozeznano, iż jest czyste albo nieczyste."
+"Tać jest ustawa o zarazie trądu, na szacie suknianej, albo lnianej albo na osnowie, albo na wątku, #albo na jakiemkolwiek naczyniu skórzanem, jako to ma być rozeznano, iż jest czyste albo nieczyste."

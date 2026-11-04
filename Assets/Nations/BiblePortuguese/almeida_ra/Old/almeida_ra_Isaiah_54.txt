@@ -1,4 +1,4 @@
-"Canta, alegremente, ó estéril, que não deste à luz; exulta de prazer com alegre canto, e exclama, tu que não tiveste dores de parto; porque mais são os filhos da desolada, do que os filhos da casada, diz o Senhor."
+"Canta, alegremente, ó estéril, que não deste à luz; exulta de prazer com alegre canto, e exclama, tu que não tiveste #dores de parto; porque mais são os filhos da desolada, do que os filhos da casada, diz o Senhor."
 "Amplia o lugar da tua tenda, e estendam-se as cortinas das tuas habitações; não o impeças; alonga as tuas cordas, e firma bem as tuas estacas."
 "Porque transbordarás para a direita e para a esquerda; e a tua posteridade possuirá as nações e fará que sejam habitadas as cidades assoladas."
 "Não temas, porque não serás envergonhada; e não te envergonhes, porque não sofrerás afrontas; antes te esquecerás da vergonha da tua mocidade, e não te lembrarás mais do opróbrio da tua viuvez."
@@ -14,4 +14,4 @@
 "Com justiça serás estabelecida; estarás longe da opressão, porque já não temerás; e também do terror, porque a ti não chegará."
 "Eis que embora se levantem contendas, isso não será por mim; todos os que contenderem contigo, por causa de ti cairão."
 "Eis que eu criei o ferreiro, que assopra o fogo de brasas, e que produz a ferramenta para a sua obra; também criei o assolador, para destruir."
-"Não prosperará nenhuma arma forjada contra ti; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do Senhor, e a sua justificação que de mim procede, diz o Senhor."
+"Não prosperará nenhuma arma forjada contra ti; e toda língua que se levantar contra ti em juízo, tu a condenarás; #esta é a herança dos servos do Senhor, e a sua justificação que de mim procede, diz o Senhor."

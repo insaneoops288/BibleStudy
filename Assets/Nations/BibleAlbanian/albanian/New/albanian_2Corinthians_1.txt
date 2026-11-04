@@ -3,7 +3,7 @@
 "Bekuar qoftë Perëndia dhe Ati i Zotit tonë Jezu Krisht, Ati i të mëshirëve dhe Perëndia e çdo ngushëllimi,"
 "i cili na ngushëllon në çdo shtrëngim tonin, që, nëpërmjet ngushëllimit me të cilin ne jemi ngushëlluar nga Perëndia, të mund të ngushëllojmë ata që janë në çfarëdo shtrëngimi."
 "Sepse, ashtu si ndër ne teprojnë vuajtjet e Krishtit, po ashtu, nëpërmjet Jezu Krishtit, tepron edhe ngushëllimi ynë."
-"Dhe, nëse jemi të pikëlluar, kjo ndodh për ngushëllimin dhe shpëtimin tuaj; nëse jemi të ngushëlluar, kjo ndodh për ngushëllimin dhe shpëtimin tuaj, që veprojnë në mënyrë të efektshme që të duroni të njëjtat vuajtje që heqim edhe neve."
+"Dhe, nëse jemi të pikëlluar, kjo ndodh për ngushëllimin dhe shpëtimin tuaj; nëse jemi të ngushëlluar, kjo ndodh për ngushëllimin #dhe shpëtimin tuaj, që veprojnë në mënyrë të efektshme që të duroni të njëjtat vuajtje që heqim edhe neve."
 "Edhe shpresa jonë për ju është e patundur, duke ditur se ashtu siç jeni pjesëmarrës në mundime, kështu do të jeni pjesëmarrës edhe në ngushëllim."
 "Sepse nuk duam, o vëllezër, që të mos dini për vështirësinë që na ngjau në Azi, që u rënduam përtej fuqive tona, aq sa u dëshpëruam edhe për jetën vetë."
 "Për më tepër ne e kishim në veten tonë vendimin e vdekjes, që të mos besonim në veten tonë, por në Perëndinë që ringjall të vdekurit,"

@@ -1,6 +1,6 @@
 "Një ditë ndodhi që bijtë e Perëndisë shkuan të paraqiten përpara Zotit, dhe midis tyre shkoi edhe Satanai për t'u paraqitur përpara Zotit."
 "Zoti i tha Satanait
-"""A e vure re shërbëtorin tim Job? Sepse mbi dhe nuk ka asnjë tjetër si ai që të jetë i ndershëm, i drejtë, të ketë frikë nga Perëndia dhe t'i largohet së keqes. Ai qëndron i patundur në ndershmërinë e tij, megjithëse ti më ke nxitur kundër tij për ta shkatërruar pa asnjë shkak""."
+"""A e vure re shërbëtorin tim Job? Sepse mbi dhe nuk ka asnjë tjetër si ai që të jetë i ndershëm, i drejtë, të ketë frikë nga Perëndia #dhe t'i largohet së keqes. Ai qëndron i patundur në ndershmërinë e tij, megjithëse ti më ke nxitur kundër tij për ta shkatërruar pa asnjë shkak""."
 "Atëherë Satanai iu përgjigj Zotit dhe tha
 "Por shtrije dorën tënde dhe preki kockat e tij dhe mishin e tij dhe ke për të parë po nuk të mallkoi haptazi""."
 "Zoti i tha Satanait

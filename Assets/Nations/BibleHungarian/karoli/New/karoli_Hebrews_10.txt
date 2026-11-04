@@ -1,4 +1,4 @@
-"Minthogy a törvényben a jövendõ jóknak árnyéka, nem maga a dolgok képe van meg, ennélfogva azokkal az áldozatokkal, a melyeket esztendõnként szünetlenül visznek, sohasem képes tökéletességre juttatni az odajárulókat;"
+"Minthogy a törvényben a jövendõ jóknak árnyéka, nem maga a dolgok képe van meg, ennélfogva #azokkal az áldozatokkal, a melyeket esztendõnként szünetlenül visznek, sohasem képes tökéletességre juttatni az odajárulókat;"
 "Különben megszûnt volna az áldozás, mivelhogy az egyszer megtisztult áldozók többé semminemû bûntudattal nem bírtak volna."
 "De azok esztendõnként bûnre emlékeztetnek."
 "Mert lehetetlen, hogy a bikák és bakok vére eltörölje a bûnöket."
@@ -26,7 +26,7 @@
 "Mert ha szándékosan vétkezünk, az igazság megismerésére való eljutás után, akkor többé nincs bûnökért való áldozat,"
 "Hanem az ítéletnek valami rettenetes várása és a tûznek lángja, a mely megemészti az ellenszegülõket."
 "A ki megveti a Mózes törvényét, két vagy három tanubizonyságra irgalom nélkül meghal;"
-"Gondoljátok meg, mennyivel súlyosabb büntetésre méltónak ítéltetik az, a ki az Isten Fiát megtapodja, és a szövetségnek vérét, melylyel megszenteltetett, tisztátalannak tartja, és a kegyelemnek Lelkét bántalmazza?"
+"Gondoljátok meg, mennyivel súlyosabb büntetésre méltónak ítéltetik az, a ki az Isten Fiát megtapodja, #és a szövetségnek vérét, melylyel megszenteltetett, tisztátalannak tartja, és a kegyelemnek Lelkét bántalmazza?"
 "Mert ismerjük azt, a ki így szólt
 "Rettenetes dolog az élõ Istennek kezébe esni."
 "Emlékezzetek pedig vissza a régebbi napokra, a melyekben, minekutána megvilágosíttattatok, sok szenvedésteljes küzdelmet állottatok ki,"

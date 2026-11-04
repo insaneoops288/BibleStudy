@@ -1,5 +1,5 @@
 "Da hob Jakob seine Füße auf und ging in das Land, das gegen Morgen liegt,{~}"
-"und sah sich um, und siehe, da war ein Brunnen auf dem Felde, und siehe, drei Herden Schafe lagen dabei; denn von dem Brunnen pflegten sie die Herden zu tränken, und ein großer Stein lag vor dem Loch des Brunnens."
+"und sah sich um, und siehe, da war ein Brunnen auf dem Felde, und siehe, drei Herden Schafe lagen dabei; denn #von dem Brunnen pflegten sie die Herden zu tränken, und ein großer Stein lag vor dem Loch des Brunnens."
 "Und sie pflegten die Herden alle daselbst zu versammeln und den Stein von dem Brunnenloch zu wälzen und die Schafe zu tränken und taten alsdann den Stein wieder vor das Loch an seine Stätte.{~}"
 "Und Jakob sprach zu ihnen
 "Er sprach zu ihnen
@@ -7,7 +7,7 @@
 "Er sprach
 "Sie antworteten
 "Als er noch mit ihnen redete, kam Rahel mit den Schafen ihres Vaters; denn sie hütete die Schafe."
-"Da aber Jakob sah Rahel, die Tochter Labans, des Bruders seiner Mutter, und die Schafe Labans, des Bruders seiner Mutter, trat er hinzu und wälzte den Stein von dem Loch des Brunnens und tränkte die Schafe Labans, des Bruders seiner Mutter."
+"Da aber Jakob sah Rahel, die Tochter Labans, des Bruders seiner Mutter, und die Schafe Labans, des Bruders seiner Mutter, trat #er hinzu und wälzte den Stein von dem Loch des Brunnens und tränkte die Schafe Labans, des Bruders seiner Mutter."
 "Und er küßte Rahel und weinte laut"
 "und sagte ihr an, daß er ihres Vaters Bruder wäre und Rebekkas Sohn. Da lief sie und sagte es ihrem Vater an."
 "Da aber Laban hörte von Jakob, seiner Schwester Sohn, lief er ihm entgegen und herzte und küßte ihn und führte ihn in sein Haus. Da erzählte er dem Laban alle diese Sachen.{~}"

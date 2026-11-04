@@ -3,7 +3,7 @@
 "dhe Moabi pati një frikë të madhe nga ky popull, që ishte kaq i madh; Moabin e zuri një frikë e madhe për shkak të bijve të Izraelit."
 "Kështu Moabi u tha pleqve të Madianit
 "Ai i dërgoi lajmëtarë Balaamit, birit të Beorit, në Pethori që është pranë Lumit, në vendin e bijve të popullit të tij, për ta thirrur dhe për t'i thënë
-"Eja, pra, të lutem, dhe mallkoje për mua këtë popull, sepse është tepër i fuqishëm për mua; ndofta do t'ia dal ta mund dhe ta dëboj nga vendi im; sepse unë e di mirë që ai që ti bekon është i bekuar dhe ai që ti mallkon është i mallkuar""."
+"Eja, pra, të lutem, dhe mallkoje për mua këtë popull, sepse është tepër i fuqishëm për mua; ndofta do t'ia dal ta mund dhe ta dëboj #nga vendi im; sepse unë e di mirë që ai që ti bekon është i bekuar dhe ai që ti mallkon është i mallkuar""."
 "Atëherë pleqtë e Moabit dhe pleqtë e Madianit u nisën duke mbajtur në dorë shpërblimin e shortarit dhe, kur arritën te Balaami, i treguan fjalët e Balakut."
 "Por Balaami u tha atyre
 "Atëherë Perëndia i shkoi Balaamit dhe i tha

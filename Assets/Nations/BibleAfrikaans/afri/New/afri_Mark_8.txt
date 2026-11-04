@@ -3,7 +3,7 @@
 "En as Ek hulle honger huis toe stuur, sal hulle op die pad beswyk, want sommige van hulle kom van ver."
 "En sy dissipels antwoord Hom
 "Toe vra Hy hulle
-"En Hy gee aan die skare bevel om op die grond te gaan sit; daarop neem Hy die sewe brode, en nadat Hy gedank het, breek Hy dit en gee dit aan sy dissipels om dit voor te sit; en hulle sit dit aan die skare voor."
+"En Hy gee aan die skare bevel om op die grond te gaan sit; daarop neem Hy die sewe brode, en nadat Hy gedank #het, breek Hy dit en gee dit aan sy dissipels om dit voor te sit; en hulle sit dit aan die skare voor."
 "Hulle het ook 'n paar vissies gehad; en nadat Hy gedank het, sê Hy dat hulle dit ook moet voorsit."
 "En hulle het geëet en versadig geword en die oorskot van die brokstukke opgetel, sewe mandjies vol."
 "En die wat geëet het, was omtrent vier duisend. En Hy het hulle weggestuur."
@@ -35,4 +35,4 @@
 "Want elkeen wat sy lewe wil red, sal dit verloor; maar elkeen wat sy lewe om My ontwil en om die evangelie ontwil verloor, hy sal dit red."
 "Want wat sal dit 'n mens baat as hy die hele wêreld win en aan sy siel skade ly?"
 "Of wat sal 'n mens gee as losprys vir sy siel?"
-"Want elkeen wat hom vir My en my woorde skaam in hierdie owerspelige en sondige geslag, vir hom sal die Seun van die mens Hom ook skaam wanneer Hy kom in die heerlikheid van sy Vader met die heilige engele."
+"Want elkeen wat hom vir My en my woorde skaam in hierdie owerspelige en sondige geslag, vir hom sal die Seun #van die mens Hom ook skaam wanneer Hy kom in die heerlikheid van sy Vader met die heilige engele."

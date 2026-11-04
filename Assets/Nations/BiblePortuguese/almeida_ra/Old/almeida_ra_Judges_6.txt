@@ -8,7 +8,7 @@
 "enviou-lhes o Senhor um profeta, que lhes disse
 "livrei-vos da mão dos egípcios, e da mão de todos quantos vos oprimiam, e os expulsei de diante de vós, e a vós vos dei a sua terra."
 "Também eu vos disse
-"Então o anjo do Senhor veio, e sentou-se debaixo do carvalho que estava em Ofra e que pertencia a Joás, abiezrita, cujo filho Gedeão estava malhando o trigo no lagar para o esconder dos midianitas."
+"Então o anjo do Senhor veio, e sentou-se debaixo do carvalho que estava em Ofra e que pertencia #a Joás, abiezrita, cujo filho Gedeão estava malhando o trigo no lagar para o esconder dos midianitas."
 "Apareceu-lhe então o anjo do Senhor e lhe disse
 "Gedeão lhe respondeu
 "Virou-se o Senhor para ele e lhe disse
@@ -18,14 +18,14 @@
 "Rogo-te que não te apartes daqui até que eu volte trazendo do meu presente e o ponha diante de ti. Respondeu ele
 "Entrou, pois, Gedeão, preparou um cabrito e fez, com um efá de farinha, bolos ázimos; pôs a carne num cesto e o caldo numa panela e, trazendo para debaixo do carvalho, lho apresentou."
 "Mas o anjo de Deus lhe disse
-"E o anjo do Senhor estendeu a ponta do cajado que tinha na mão, e tocou a carne e os bolos ázimos; então subiu fogo da rocha, e consumiu a carne e os bolos ázimos; e o anjo do Senhor desapareceu-lhe da vista."
+"E o anjo do Senhor estendeu a ponta do cajado que tinha na mão, e tocou a carne e os bolos ázimos; #então subiu fogo da rocha, e consumiu a carne e os bolos ázimos; e o anjo do Senhor desapareceu-lhe da vista."
 "Vendo Gedeão que era o anjo do Senhor, disse
 "Porém o Senhor lhe disse
 "Então Gedeão edificou ali um altar ao Senhor, e lhe chamou Jeová-Salom; e ainda até o dia de hoje está o altar em Ofra dos abiezritas."
 "Naquela mesma noite, disse o Senhor a Gedeão
 "Edifica ao Senhor teu Deus um altar no cume deste lugar forte, na forma devida; toma o segundo boi, e o oferece em holocausto, com a lenha da asera que cortares"
 "Então Gedeão tomou dez homens dentre os seus servos, e fez como o Senhor lhe dissera; porém, temendo ele a casa de seu pai e os homens daquela cidade, não o fez de dia, mas de noite."
-"Levantando-se, pois, os homens daquela cidade, de madrugada, eis que estava o altar de Baal derribado, cortada a asera que estivera ao pé dele, e o segundo boi oferecido no altar que fora edificado."
+"Levantando-se, pois, os homens daquela cidade, de madrugada, eis que estava o altar de Baal derribado, cortada a #asera que estivera ao pé dele, e o segundo boi oferecido no altar que fora edificado."
 "Pelo que disseram uns aos outros
 "Então os homens daquela cidade disseram a Joás
 "Joás, porém, disse a todos os que se puseram contra ele

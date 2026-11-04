@@ -8,7 +8,7 @@
 "Niszczyciel przyjdzie do każdego miasta i żadne miasto nie ocaleje. Dolina też zginie i równina będzie spustoszona, jak mówi PAN."
 "Dajcie skrzydła Moabowi, niech szybko uleci, bo jego miasta zostaną spustoszone, tak że nie będzie w nich mieszkańców."
 "Przeklęty, kto wykonuje dzieło PANA podstępnie; przeklęty także, kto swój miecz powstrzymuje od krwi."
-"Moab miał pokój od swojej młodości, spoczywał na swoich drożdżach i nie był przelewany z naczynia do naczynia, nie poszedł do niewoli. Dlatego zachował się w nim jego smak i jego zapach się nie zmienił."
+"Moab miał pokój od swojej młodości, spoczywał na swoich drożdżach i nie był przelewany z naczynia do naczynia, #nie poszedł do niewoli. Dlatego zachował się w nim jego smak i jego zapach się nie zmienił."
 "Dlatego oto nadchodzą dni, mówi PAN, że poślę na niego najeźdźców, którzy go uprowadzą, a opróżnią jego naczynia i potłuką jego dzbany."
 "I Moab będzie się wstydzić Kemosza, jak dom Izraela wstydził się Betel, jego nadziei."
 "Jakże możecie mówić

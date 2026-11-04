@@ -16,12 +16,12 @@
 "Eziandio i figliuoli di Nof, e di Tahafnes, ti fiaccheranno la sommità del capo."
 "Non sei tu quella che fai questo a te stessa, abbandonando il Signore Iddio tuo, nel tempo ch’egli ti conduce per lo cammino?"
 "Ed ora, che hai tu a fare per lo cammino di Egitto, per bere dell’acque di Sihor? ovvero, che hai tu a fare per lo cammino di Assiria, per bere dell’acque del Fiume?"
-"La tua malvagità ti castigherà, ed i tuoi sviamenti ti condanneranno; e tu saprai, e vedrai ch’egli è una mala ed amara cosa, che tu abbia lasciato il Signore Iddio tuo, e che lo spavento di me non sia in te, dice il Signore Iddio degli eserciti."
+"La tua malvagità ti castigherà, ed i tuoi sviamenti ti condanneranno; e tu saprai, e vedrai ch’egli è una mala ed amara cosa, che #tu abbia lasciato il Signore Iddio tuo, e che lo spavento di me non sia in te, dice il Signore Iddio degli eserciti."
 "Perciocchè io già ab antico avea spezzato il tuo giogo, e rotti i tuoi legami; tu hai detto
 "Or ti avea io piantata di viti nobili, di una generazione vera tutta quanta; e come mi ti sei mutata in tralci tralignanti di vite strana?"
 "Avvegnachè tu ti lavi col nitro, ed usi attorno a te assai erba di purgatori di panni; pure è la tua iniquità suggellata nel mio cospetto, dice il Signore Iddio."
 "Come diresti
-"asina salvatica, avvezza a star nel deserto, che sorbisce il vento a sua voglia; chi potrebbe stornare una sua opportunità? niuno di quelli che la cercano si stancherà per trovarla; la troveranno nel suo mese."
+"asina salvatica, avvezza a star nel deserto, che sorbisce il vento a sua voglia; chi potrebbe stornare una #sua opportunità? niuno di quelli che la cercano si stancherà per trovarla; la troveranno nel suo mese."
 "Rattieni il tuo piè, che non sia scalzo; e la tua gola, che non abbia sete; ma tu hai detto
 "Come è confuso il ladro, quando è colto, così sarà confusa la casa d’Israele; essi, i loro re, i lor principi, i lor sacerdoti, ed i lor profeti;"
 "che dicono al legno

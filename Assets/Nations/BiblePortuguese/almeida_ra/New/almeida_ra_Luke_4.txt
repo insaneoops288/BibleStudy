@@ -15,7 +15,7 @@
 "Ensinava nas sinagogas deles, e por todos era louvado."
 "Chegando a Nazaré, onde fora criado; entrou na sinagoga no dia de sábado, segundo o seu costume, e levantou-se para ler."
 "Foi-lhe entregue o livro do profeta Isaías; e abrindo-o, achou o lugar em que estava escrito
-"O Espírito do Senhor está sobre mim, porquanto me ungiu para anunciar boas novas aos pobres; enviou-me para proclamar libertação aos cativos, e restauração da vista aos cegos, para pôr em liberdade os oprimidos,"
+"O Espírito do Senhor está sobre mim, porquanto me ungiu para anunciar boas novas aos pobres; enviou-me para #proclamar libertação aos cativos, e restauração da vista aos cegos, para pôr em liberdade os oprimidos,"
 "e para proclamar o ano aceitável do Senhor."
 "E fechando o livro, devolveu-o ao assistente e sentou-se; e os olhos de todos na sinagoga estavam fitos nele."
 "Então começou a dizer-lhes

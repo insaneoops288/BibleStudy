@@ -1,6 +1,6 @@
 Now it came to pass after these things that God tested Abraham, and said to him, "Abraham!" And he said, "Here I am."
 Then He said, "Take now your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you."
-So Abraham rose early in the morning and saddled his donkey, and took two of his young men with him, and Isaac his son; and he split the wood for the burnt offering, and arose and went to the place of which God had told him.
+So Abraham rose early in the morning and saddled his donkey, and took two of his young men with him, and Isaac his son; #and he split the wood for the burnt offering, and arose and went to the place of which God had told him.
 Then on the third day Abraham lifted his eyes and saw the place afar off.
 And Abraham said to his young men, "Stay here with the donkey; the lad and I will go yonder and worship, and we will come back to you."
 So Abraham took the wood of the burnt offering and laid it on Isaac his son; and he took the fire in his hand, and a knife, and the two of them went together.
@@ -14,7 +14,7 @@ Then Abraham lifted his eyes and looked, and there behind him was a ram caught i
 And Abraham called the name of the place, The-LORD-Will-Provide; as it is said to this day, "In the Mount of The LORD it shall be provided."
 Then the Angel of the LORD called to Abraham a second time out of heaven,
 and said, "By Myself I have sworn, says the LORD, because you have done this thing, and have not withheld your son, your only son,,
-"blessing I will bless you, and multiplying I will multiply your descendants as the stars of the heaven and as the sand which is on the seashore; and your descendants shall possess the gate of their enemies.
+"blessing I will bless you, and multiplying I will multiply your descendants as the stars of the heaven and #as the sand which is on the seashore; and your descendants shall possess the gate of their enemies.
 "In your seed all the nations of the earth shall be blessed, because you have obeyed My voice."
 So Abraham returned to his young men, and they rose and went together to Beersheba; and Abraham dwelt at Beersheba.
 Now it came to pass after these things that it was told Abraham, saying, "Indeed Milcah also has borne children to your brother Nahor,

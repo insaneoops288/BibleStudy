@@ -1,4 +1,4 @@
-"És elindulának Élimbõl és érkezék Izráel fiainak egész gyülekezete a Szin pusztájába, mely Élim között és Sinai között van, a második hónapnak tizenötödik napján, Égyiptom földérõl való kijövetelök után."
+"És elindulának Élimbõl és érkezék Izráel fiainak egész gyülekezete a Szin pusztájába, mely Élim között #és Sinai között van, a második hónapnak tizenötödik napján, Égyiptom földérõl való kijövetelök után."
 "És zúgolódék Izráel fiainak egész gyülekezete Mózes és Áron ellen a pusztában."
 "S mondának nékik Izráel fiai
 "És monda az Úr Mózesnek

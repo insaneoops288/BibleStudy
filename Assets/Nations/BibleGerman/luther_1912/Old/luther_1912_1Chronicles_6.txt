@@ -46,7 +46,7 @@
 "des Sohnes Amzis, des Sohnes Banis, des Sohnes Semers,"
 "des Sohnes Mahelis, des Sohnes Musis, des Sohnes Meraris, des Sohnes Levis."
 "Ihre Brüder aber, die Leviten, waren gegeben zu allerlei Amt an der Wohnung des Hauses Gottes."
-"Aaron aber und seine Söhne waren im Amt, anzuzünden auf dem Brandopferaltar und auf dem Räucheraltar und zu allem Geschäft im Allerheiligsten und zu versöhnen Israel, wie Mose, der Knecht Gottes, geboten hatte.{~}"
+"Aaron aber und seine Söhne waren im Amt, anzuzünden auf dem Brandopferaltar und auf dem Räucheraltar und #zu allem Geschäft im Allerheiligsten und zu versöhnen Israel, wie Mose, der Knecht Gottes, geboten hatte.{~}"
 "Dies sind aber die Kinder Aarons
 "des Sohn war Bukki, des Sohn war Usi; des Sohn war Serahja;"
 "des Sohn war Merajoth; des Sohn war Amarja; des Sohn war Ahitob;"

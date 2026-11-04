@@ -45,7 +45,7 @@
 "Mas, se aquele servo disser em seu coração
 "Virá o SENHOR daquele servo no dia em que o não espera, e numa hora que ele não sabe, e separá-lo-á, e lhe dará a sua parte com os infiéis."
 "E o servo que soube a vontade do seu senhor, e não se aprontou, nem fez conforme a sua vontade, será castigado com muitos açoites;"
-"Mas o que a não soube, e fez coisas dignas de açoites, com poucos açoites será castigado. E, a qualquer que muito for dado, muito se lhe pedirá, e ao que muito se lhe confiou muito mais se lhe pedirá."
+"Mas o que a não soube, e fez coisas dignas de açoites, com poucos açoites será castigado. E, a qualquer que #muito for dado, muito se lhe pedirá, e ao que muito se lhe confiou muito mais se lhe pedirá."
 "Vim lançar fogo na terra; e que mais quero, se já está aceso?"
 "Importa, porém, que seja baptizado com um certo baptismo; e como me angustio até que venha a cumprir-se!"
 "Cuidais vós que vim trazer paz à terra? Não, vos digo, mas antes dissensão."
@@ -55,5 +55,5 @@
 "E, quando assopra o sul, dizeis
 "Hipócritas, sabeis discernir a face da terra e do céu; como não sabeis então discernir este tempo?"
 "E porque não julgais também por vós mesmos o que é justo?"
-"Quando pois vais com o teu adversário ao magistrado, procura livrar-te dele no caminho; para que não suceda que te conduza ao juiz, e o juiz te entregue ao meirinho, e o meirinho te encerre na prisão."
+"Quando pois vais com o teu adversário ao magistrado, procura livrar-te dele no caminho; para que não suceda que #te conduza ao juiz, e o juiz te entregue ao meirinho, e o meirinho te encerre na prisão."
 "Digo-te que não sairás dali enquanto não pagares o derradeiro ceitil."

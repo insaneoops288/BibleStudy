@@ -27,7 +27,7 @@
 "To odliczy lat od swojej sprzedaży, zwróci resztę temu, komu sprzedał, i wróci do swojej posiadłości."
 "Lecz jeśli nie ma środków, aby zwrócić, to pozostanie to, co sprzedał, w ręku tego, który to kupił aż do roku jubileuszowego. W roku jubileuszowym zwolni mu to, a ten wróci do swojej posiadłości."
 "Jeśli ktoś sprzeda dom mieszkalny w mieście otoczonym murami, będzie miał prawo wykupu do końca roku sprzedaży; będzie miał prawo wykupu przez cały rok."
-"A jeśli zostanie wykupiony do końca roku, wtedy ten dom w mieście otoczonym murami zostanie własnością na zawsze tego, który go kupił, oraz jego potomków. Nie będzie zwolniony w roku jubileuszowym."
+"A jeśli zostanie wykupiony do końca roku, wtedy ten dom w mieście otoczonym murami zostanie własnością #na zawsze tego, który go kupił, oraz jego potomków. Nie będzie zwolniony w roku jubileuszowym."
 "Ale domy we wsiach, które nie są otoczone murami, będą traktowane na równi z polami ziemi. Będą podlegały prawu wykupu i w roku jubileuszowym zostaną zwolnione."
 "Co do miast Lewitów i domów w miastach ich posiadłości, to Lewitom zawsze przysługuje prawo wykupu."
 "A jeśli ktoś kupuje od Lewitów, to kupiony dom lub miejska posiadłość zostaną zwolnione w roku jubileuszowym, gdyż domy miast Lewitów są ich posiadłością pośród synów Izraela."

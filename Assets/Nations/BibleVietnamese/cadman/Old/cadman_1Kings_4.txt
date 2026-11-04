@@ -10,7 +10,7 @@
 "con trai Hê-sết, coi về A-ru-bốt người coi luôn Sô-cô và cả xứ Hê-phe."
 "Con trai A-bi-na-đáp coi cả đồng cao Ðô-rơ; Ta-phát, con gái của Sa-lô-môn, là vợ người."
 "Ba-a-na, con trai A-hi-lút, coi Tha-a-nác, Mê-ghi-đô, và cả xứ Bết-Sê-an, ở gần Xạt-han dưới Gít-ê-ên, từ Bết-Sê-an cho đến A-bên-Mê-hô-la và cho đến khỏi bên kia Giốc-mê-am."
-"Con trai Ghê-be ở tại Ra-mốt của Ga-la-át; người coi thôn Giai-rơ, Giai-rơ là con trai của Ma-na-se; người cũng cai trị miền Aït-gốp, trong Ba-san, sáu mươi thành lớn có tường thành và then cửa đồng."
+"Con trai Ghê-be ở tại Ra-mốt của Ga-la-át; người coi thôn Giai-rơ, Giai-rơ là con trai của Ma-na-se; người #cũng cai trị miền Aït-gốp, trong Ba-san, sáu mươi thành lớn có tường thành và then cửa đồng."
 "A-hi-na-đáp, con trai Y-đô, ở tại Ma-ha-na-im;"
 "A-hi-mát, trong địa phận Nép-ta-li; người cũng cưới một con gái của Sa-lô-môn làm vợ, tên là Bách-mát."
 "Ba-a-na, con trai Hu-sai, ở trong xứ A-se và A-lốt;"

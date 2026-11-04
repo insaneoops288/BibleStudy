@@ -17,7 +17,7 @@
 """Bir njeriu, të kam caktuar si roje për shtëpinë e Izraelit; kur të dëgjosh ndonjë fjalë nga goja ime, do t'i lajmërosh nga ana ime."
 "Në rast se unë i them të pabesit
 "Por në qoftë se ti e lajmëron të pabesin dhe ai nuk heq dorë nga pabesia e tij dhe nga jeta e tij e keqe, ai do të vdesë në paudhësinë e tij, por ti do ta kesh shpëtuar shpirtin tënd."
-"Por në qoftë se më pas një njeri i drejtë heq dorë nga ndershmëria e tij dhe kryen paudhësi, unë do ti vë një pengesë përpara dhe ai do të vdesë; sepse ti nuk e ke lajmëruar dhe ai do të vdesë në mëkatin e tij, dhe gjërat e drejta që ai ka bërë, nuk do të kujtohen më, por unë do t'i kërkoj llogari dorës sate për gjakun e tij."
+"Por në qoftë se më pas një njeri i drejtë heq dorë nga ndershmëria e tij dhe kryen paudhësi, unë do ti vë një pengesë përpara dhe ai do të vdesë; sepse ti nuk e ke #lajmëruar dhe ai do të vdesë në mëkatin e tij, dhe gjërat e drejta që ai ka bërë, nuk do të kujtohen më, por unë do t'i kërkoj llogari dorës sate për gjakun e tij."
 "Por në rast se ti njofton të drejtin që të mos mëkatojë dhe ai nuk mëkaton, ai me siguri do të jetojë sepse u paralajmërua, dhe ti do të kesh shpëtuar shpirtin tënd""."
 "Atje, pra, ishte dora e Zotit mbi mua dhe më tha
 "Kështu u çova dhe dola në fushë, dhe atje ishte lavdia e Zotit, ashtu si lavdia që kisha parë pranë lumit Kebar, dhe unë rashë mbi fytyrë."

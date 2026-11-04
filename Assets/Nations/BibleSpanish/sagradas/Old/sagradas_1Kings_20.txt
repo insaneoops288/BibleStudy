@@ -12,7 +12,7 @@
 "Y cuando él oyó esta palabra, estando bebiendo con los reyes en las tiendas, dijo a sus siervos
 "Y he aquí un profeta vino a Acab rey de Israel; y le dijo
 "Y respondió Acab
-"Entonces él reconoció los criados de los príncipes de las provincias, los cuales fueron doscientos treinta y dos. Luego reconoció todo el pueblo, todos los hijos de Israel, <I>que fueron</I>  siete mil."
+"Entonces él reconoció los criados de los príncipes de las provincias, los cuales fueron doscientos treinta y #dos. Luego reconoció todo el pueblo, todos los hijos de Israel, <I>que fueron</I>  siete mil."
 "Y salieron a mediodía. Y <I>estaba</I>  Ben-adad bebiendo, borracho en las tiendas, él y los reyes, los treinta y dos reyes que habían venido en su ayuda."
 "Y los criados de los príncipes de las provincias salieron los primeros. Y Ben-adad había enviado quien le dio aviso, diciendo
 "El entonces dijo
@@ -22,9 +22,9 @@
 "Vino luego el profeta al rey de Israel y le dijo
 "Y los siervos del rey de Siria le dijeron
 "Haz pues así
-"Y tú, fórmate otro ejército como el ejército que perdiste, caballos por caballos, y carros por carros; <I>luego</I>  pelearemos con ellos en campo raso, y <I>veremos</I>  si no los vencemos. Y él les dio oído, y lo hizo así."
+"Y tú, fórmate otro ejército como el ejército que perdiste, caballos por caballos, y carros por carros; <I>luego</I>  pelearemos con #ellos en campo raso, y <I>veremos</I>  si no los vencemos. Y él les dio oído, y lo hizo así."
 "Pasado el año, Ben-adad reconoció los sirios, y vino a Afec a pelear contra Israel."
-"Y los hijos de Israel fueron también reconocidos (<I>contados</I> ), y tomando provisiones les fueron al encuentro; y asentaron campo los hijos de Israel delante de ellos, como dos rebañuelos de cabras; y los sirios llenaban  la tierra."
+"Y los hijos de Israel fueron también reconocidos (<I>contados</I> ), y tomando provisiones les fueron al encuentro; y asentaron campo #los hijos de Israel delante de ellos, como dos rebañuelos de cabras; y los sirios llenaban  la tierra."
 "Vino <I>entonces</I>  el varón de Dios al rey de Israel y le habló diciendo
 "Siete días tuvieron asentado campamento los unos delante de los otros, y al séptimo día se dio la batalla; y mataron los hijos de Israel de los sirios en un día cien mil hombres de <I>a</I>  pie."
 "Los demás huyeron a Afec, a la ciudad; y el muro cayó sobre veintisiete mil hombres que habían quedado. También Ben-adad vino huyendo a la ciudad, <I>y se escondía</I>  de cámara en cámara."

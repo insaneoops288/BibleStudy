@@ -1,7 +1,7 @@
 "Kur njerëzit filluan të shumohen mbi faqen e dheut dhe u lindën atyre vajza,"
 "djemtë e Perëndisë panë që vajzat e njerëzve ishin të bukura, dhe morën për gra të gjitha ato që i zgjodhën vetë."
 "Dhe Zoti tha
-"Kishte gjigantë mbi tokë në ato kohë, madje edhe më vonë, kur bijtë e Perëndisë iu afruan bijave të njerëzve dhe këto u lindën atyre fëmijë. Ata janë heronjtë që jetuan në kohët e lashtësisë, janë njerëzit e famshëm të këtyre kohëve."
+"Kishte gjigantë mbi tokë në ato kohë, madje edhe më vonë, kur bijtë e Perëndisë iu afruan bijave të njerëzve dhe këto #u lindën atyre fëmijë. Ata janë heronjtë që jetuan në kohët e lashtësisë, janë njerëzit e famshëm të këtyre kohëve."
 "Dhe tani Zoti pa që ligësia e njerëzve ishte e madhe mbi tokë dhe që tërë synimet e mendimeve të zemrës së tyre nuk ishin gjë tjetër veçse e keqja në çdo kohë."
 "Dhe Zoti u pendua që kishte krijuar njeriun mbi tokë dhe u brengos për këtë në zemër të vet."
 "Kështu Zoti tha

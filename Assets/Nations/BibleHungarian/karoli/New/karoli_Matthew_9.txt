@@ -32,7 +32,7 @@
 "Mikor pedig azok elmentek vala, ímé egy ördöngõs néma embert hozának néki."
 "És az ördögöt kiûzvén, megszólalt a néma; és a sokaság csudálkozik vala, mondván
 "A farizeusok pedig ezt mondják vala
-"És körüljárja vala Jézus a városokat mind, és a falvakat, tanítván azoknak zsinagógáiban, és hirdetvén az Isten országának evangyéliomát, és gyógyítván mindenféle betegséget és mindenféle erõtelenséget a nép között."
+"És körüljárja vala Jézus a városokat mind, és a falvakat, tanítván azoknak zsinagógáiban, és hirdetvén #az Isten országának evangyéliomát, és gyógyítván mindenféle betegséget és mindenféle erõtelenséget a nép között."
 "Mikor pedig látta vala a sokaságot, könyörületességre indula rajtok, mert el voltak gyötörve és szétszórva, mint a pásztor nélkül való juhok."
 "Akkor monda az õ tanítványainak
 "Kérjétek azért az aratásnak Urát, hogy küldjön munkásokat az õ aratásába."

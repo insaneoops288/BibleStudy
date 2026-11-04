@@ -26,7 +26,7 @@
 "Porque, se pecarmos voluntariamente, depois de termos recebido o conhecimento da verdade, já não resta mais sacrifício pelos pecados,"
 "Mas uma certa expectação horrível do juízo, e ardor de fogo, que há de devorar os adversários."
 "Quebrantando alguém a lei de Moisés, morre sem misericórdia, só pela palavra de duas ou três testemunhas."
-"De quanto maior castigo cuidais vós será julgado merecedor aquele que pisar o Filho de Deus, e tiver por profano o sangue do testamento, com que foi santificado, e fizer agravo ao Espírito da graça?"
+"De quanto maior castigo cuidais vós será julgado merecedor aquele que pisar o Filho de Deus, e tiver #por profano o sangue do testamento, com que foi santificado, e fizer agravo ao Espírito da graça?"
 "Porque bem conhecemos aquele que disse
 "Horrenda coisa é cair nas mãos do Deus vivo."
 "Lembrai-vos, porém, dos dias passados, em que, depois de serdes iluminados, suportastes grande combate de aflições."

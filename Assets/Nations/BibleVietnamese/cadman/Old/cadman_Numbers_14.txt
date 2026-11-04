@@ -11,7 +11,7 @@
 "Ðức Giê-hô-va phán cùng Môi-se rằng
 "Ta sẽ giáng cho dân sự nầy dịch lệ và tiêu diệt phần cơ nghiệp của nó đi; nhưng ta sẽ làm cho ngươi thành một dân lớn hơn và mạnh hơn nó."
 "Môi-se thưa cùng Ðức Giê-hô-va rằng
-"và có thuật điều đó cho dân xứ nầy. Ôi Ðức Giê-hô-va! người ta biết rằng Chúa ngự giữa dân nầy, Chúa hiện ra cho mắt chúng thấy, trụ mây Chúa ở trên dân nầy, và Chúa đi trước, ban ngày trong một trụ mây, ban đêm trong một trụ lửa."
+"và có thuật điều đó cho dân xứ nầy. Ôi Ðức Giê-hô-va! người ta biết rằng Chúa ngự giữa dân nầy, Chúa hiện ra cho mắt #chúng thấy, trụ mây Chúa ở trên dân nầy, và Chúa đi trước, ban ngày trong một trụ mây, ban đêm trong một trụ lửa."
 "Nếu Chúa giết hết dân nầy như thể giết một người, thì các nước đã nghe nói về Chúa sẽ nói rằng
 "Ðức Giê-hô-va không thể dẫn dân nầy vào xứ mà Ngài đã thề ban cho; bởi cớ đó, Ngài giết chết chúng nó trong đồng vắng."
 "Vả, bây giờ, tôi xin quyền năng của Chúa hiện ra cách oai nghiêm như Chúa đã nói rằng
@@ -31,7 +31,7 @@
 "Nhưng ta sẽ đem vào xứ những con trẻ của các ngươi mà các ngươi có nói rằng
 "Còn những thây các ngươi sẽ ngã nằm trong đồng vắng nầy."
 "Con cái các ngươi sẽ chăn chiên nơi đồng vắng trong bốn mươi năm, và sẽ mang hình phạt vì tội thông dâm của các ngươi, cho đến chừng nào thây của các ngươi đã ngã rạp hết trong đồng vắng."
-"Các ngươi đi do thám xứ bao nhiêu ngày, nghĩa là bốn mươi ngày, thì các ngươi cũng sẽ mang hình phạt vì tội gian ác mình bấy nhiêu năm, nghĩa là bốn mươi năm, một năm đền cho một ngày; bấy giờ các ngươi sẽ biết ta đã xây khỏi các ngươi."
+"Các ngươi đi do thám xứ bao nhiêu ngày, nghĩa là bốn mươi ngày, thì các ngươi cũng sẽ mang hình phạt vì tội gian ác mình #bấy nhiêu năm, nghĩa là bốn mươi năm, một năm đền cho một ngày; bấy giờ các ngươi sẽ biết ta đã xây khỏi các ngươi."
 "Ta, Ðức Giê-hô-va, đã phán
 "Những người mà Môi-se đã sai đi do thám xứ, khi trở về có xui cho cả hội chúng lằm bằm cùng Môi-se,"
 "và có phao phản xứ, những người nầy đều bị một tai vạ hành chết trước mặt Ðức Giê-hô-va."

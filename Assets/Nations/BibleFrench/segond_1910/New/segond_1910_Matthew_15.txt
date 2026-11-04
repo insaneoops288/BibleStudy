@@ -28,7 +28,7 @@
 "Alors Jésus lui dit
 "Jésus quitta ces lieux, et vint près de la mer de Galilée. Etant monté sur la montagne, il s'y assit."
 "Alors s'approcha de lui une grande foule, ayant avec elle des boiteux, des aveugles, des muets, des estropiés, et beaucoup d'autres malades. On les mit à ses pieds, et il les guérit;"
-"en sorte que la foule était dans l'admiration de voir que les muets parlaient, que les estropiés étaient guéris, que les boiteux marchaient, que les aveugles voyaient; et elle glorifiait le Dieu d'Israël."
+"en sorte que la foule était dans l'admiration de voir que les muets parlaient, que les estropiés #étaient guéris, que les boiteux marchaient, que les aveugles voyaient; et elle glorifiait le Dieu d'Israël."
 "Jésus, ayant appelé ses disciples, dit
 "Les disciples lui dirent
 "Jésus leur demanda

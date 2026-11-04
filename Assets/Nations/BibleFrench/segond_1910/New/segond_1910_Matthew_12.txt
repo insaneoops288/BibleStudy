@@ -1,7 +1,7 @@
 "En ce temps-là, Jésus traversa des champs de blé un jour de sabbat. Ses disciples, qui avaient faim, se mirent à arracher des épis et à manger."
 "Les pharisiens, voyant cela, lui dirent
 "Mais Jésus leur répondit
-"comment il entra dans la maison de Dieu, et mangea les pains de proposition, qu'il ne lui était pas permis de manger, non plus qu'à ceux qui étaient avec lui, et qui étaient réservés aux sacrificateurs seuls?"
+"comment il entra dans la maison de Dieu, et mangea les pains de proposition, qu'il ne lui était pas #permis de manger, non plus qu'à ceux qui étaient avec lui, et qui étaient réservés aux sacrificateurs seuls?"
 "Ou, n'avez-vous pas lu dans la loi que, les jours de sabbat, les sacrificateurs violent le sabbat dans le temple, sans se rendre coupables?"
 "Or, je vous le dis, il y a ici quelque chose de plus grand que le temple."
 "Si vous saviez ce que signifie
@@ -39,10 +39,10 @@
 "Il leur répondit
 "Car, de même que Jonas fut trois jours et trois nuits dans le ventre d'un grand poisson, de même le Fils de l'homme sera trois jours et trois nuits dans le sein de la terre."
 "Les hommes de Ninive se lèveront, au jour du jugement, avec cette génération et la condamneront, parce qu'ils se repentirent à la prédication de Jonas; et voici, il y a ici plus que Jonas."
-"La reine du Midi se lèvera, au jour du jugement, avec cette génération et la condamnera, parce qu'elle vint des extrémités de la terre pour entendre la sagesse de Salomon, et voici, il y a ici plus que Salomon."
+"La reine du Midi se lèvera, au jour du jugement, avec cette génération et la condamnera, parce qu'elle vint des #extrémités de la terre pour entendre la sagesse de Salomon, et voici, il y a ici plus que Salomon."
 "Lorsque l'esprit impur est sorti d'un homme, il va par des lieux arides, cherchant du repos, et il n'en trouve point."
 "Alors il dit
-"Il s'en va, et il prend avec lui sept autres esprits plus méchants que lui; ils entrent dans la maison, s'y établissent, et la dernière condition de cet homme est pire que la première. Il en sera de même pour cette génération méchante."
+"Il s'en va, et il prend avec lui sept autres esprits plus méchants que lui; ils entrent dans la maison, s'y établissent, #et la dernière condition de cet homme est pire que la première. Il en sera de même pour cette génération méchante."
 "Comme Jésus s'adressait encore à la foule, voici, sa mère et ses frères, qui étaient dehors, cherchèrent à lui parler."
 "Quelqu'un lui dit
 "Mais Jésus répondit à celui qui le lui disait

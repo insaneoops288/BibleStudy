@@ -3,7 +3,7 @@
 "Y Moab temió mucho a causa del pueblo que era mucho; y se angustió Moab a causa de los hijos de Israel."
 "Y dijo Moab a los ancianos de Madián
 "<I>Por tanto</I> , envió mensajeros a Balaam hijo de Beor, a Petor, que <I>está</I>  junto al río <I>Eufrates</I>  en la tierra de los hijos de su pueblo, para que lo llamasen, diciendo
-"Ven pues, ahora, te ruego, maldíceme este pueblo, porque es más fuerte que yo; por ventura podré yo herirlo, y echarlo de la tierra; pues yo sé que el que tú bendijeres, será bendito, y el que tú maldijeres, será maldito."
+"Ven pues, ahora, te ruego, maldíceme este pueblo, porque es más fuerte que yo; por ventura podré yo herirlo, y echarlo #de la tierra; pues yo sé que el que tú bendijeres, será bendito, y el que tú maldijeres, será maldito."
 "Y fueron los ancianos de Moab, y los ancianos de Madián, con las encantaciones en su mano, y llegaron a Balaam, y le dijeron las palabras de Balac."
 "Y él les dijo
 "Y vino Dios a Balaam, y le dijo
@@ -20,7 +20,7 @@
 "Y vino Dios a Balaam de noche, y le dijo
 "Así Balaam se levantó por la mañana, y cinchó su asna, y fue con los príncipes de Moab."
 "Y el furor de Dios se encendió porque él iba; y el ángel del SEÑOR se puso en el camino por adversario suyo; y él iba cabalgando sobre su asna, y con él dos criados suyos."
-"Y el asna vio al ángel del SEÑOR, que estaba en el camino con su espada desnuda en su mano; y se apartó el asna del camino, e iba por el campo. <I>Entonces</I>  Balaam azotó al asna para hacerla volver al camino."
+"Y el asna vio al ángel del SEÑOR, que estaba en el camino con su espada desnuda en su mano; y se #apartó el asna del camino, e iba por el campo. <I>Entonces</I>  Balaam azotó al asna para hacerla volver al camino."
 "Pero el ángel del SEÑOR se puso en una senda de viñas que tenía pared a un lado y pared al otro."
 "Y viendo el asna al ángel del SEÑOR, se pegó a la pared, y apretó contra la pared el pie de Balaam; y él volvió a azotarla."
 "Y el ángel del SEÑOR volvió a pasar, y se puso en una angostura, donde no había camino para apartarse ni a diestra ni a siniestra."

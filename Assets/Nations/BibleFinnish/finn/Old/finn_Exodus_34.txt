@@ -15,13 +15,13 @@
 "Ei sinun pidä joskus tekemän liittoa sen maan asuvaisten kanssa
 "Ja ottaisit heidän tyttäristänsä sinun pojilles emäntiä; jotka hauristelevat jumalainsa kanssa, ja saattavat sinun poikas myös heidän jumalainsa kanssa hauristelemaan."
 "Ei sinun pidä valetuita jumalia tekemän sinulles."
-"Happamattoman leivän juhlan sinun pitää pitämän. Seitsemän päivää pitää sinun happamatointa leipää syömän, niinkuin minä sinulle käskenyt olen, määrätyllä ajalla Abibin kuulla; sillä sinä olet lähtenyt Egyptistä Abibin kuulla."
+"Happamattoman leivän juhlan sinun pitää pitämän. Seitsemän päivää pitää sinun happamatointa leipää syömän, niinkuin minä #sinulle käskenyt olen, määrätyllä ajalla Abibin kuulla; sillä sinä olet lähtenyt Egyptistä Abibin kuulla."
 "Kaikki, jotka ensin avaavat äitinsä kohdun, ovat minun
-"Mutta aasin esikoisen pitää sinun lunastaman lampaalla; jos et sinä lunasta, niin väännä hänen niskansa poikki. Jokaisen esikoisen sinun pojistas pitää sinun lunastaman, ja ei yksikään pidä tyhjin käsin minun eteeni tuleman."
+"Mutta aasin esikoisen pitää sinun lunastaman lampaalla; jos et sinä lunasta, niin väännä hänen niskansa poikki. Jokaisen #esikoisen sinun pojistas pitää sinun lunastaman, ja ei yksikään pidä tyhjin käsin minun eteeni tuleman."
 "Kuusi päivää pitää sinun työtä tekemän, ja seitsemäntenä päivänä pitää sinun lepäämän
 "Viikkojuhlan sinun pitää pitämän, ensimäisestä nisun elon uutisesta
 "Kolmasti vuodessa pitää kaikki miehen puoles näkymän kaikkivaltiaan Herran Israelin Jumalan edessä."
-"Sillä minä ajan ulos pakanat sinun edestäs ja levitän sinun maas ääret; ja ei pidä yhdenkään himoitseman sinun maatas, koska sinä menet ylös näyttämään itses Herralle sinun Jumalalles, kolmasti vuodessa."
+"Sillä minä ajan ulos pakanat sinun edestäs ja levitän sinun maas ääret; ja ei pidä yhdenkään #himoitseman sinun maatas, koska sinä menet ylös näyttämään itses Herralle sinun Jumalalles, kolmasti vuodessa."
 "Ei sinun pidä uhraaman minun uhrini verta happaman leivän ohessa. Ja pääsiäisjuhlan uhrista ei pidä mitään jäämän yön yli huomeneksi."
 "Ensimäisestä sinun maas kasvon uutisesta pitää sinun tuoman sinun Herras Jumalas huoneesen. Ei sinun pidä keittämän vohlaa hänen emäntänsä rieskassa."
 "Ja Herra sanoi Mosekselle
@@ -31,5 +31,5 @@
 "Niin kutsui Moses heitänsä hänen puoleensa, sekä Aaron että kaikki ylimmäiset kansan seasta, ja Moses puhutteli heitä."
 "Sitte lähestyivät kaikki Israelin lapset häntä, ja hän käski heille kaikki ne, mitkä Herra puhui hänen kanssansa Sinain vuorella."
 "Ja että Moses olis tainnut päättää puheensa heidän kanssansa, pani hän peitteen kasvoinsa eteen."
-"Mutta koska hän meni sisälle Herran eteen puhuttelemaan häntä, pani hän peitteen pois, niin kauvaksi kuin hän läksi jällensä ulos. Ja koska hän läksi ulos, puhui hän Israelin lapsille, mitä hänelle käsketty oli."
+"Mutta koska hän meni sisälle Herran eteen puhuttelemaan häntä, pani hän peitteen pois, niin kauvaksi kuin hän #läksi jällensä ulos. Ja koska hän läksi ulos, puhui hän Israelin lapsille, mitä hänelle käsketty oli."
 "Niin katsoivat Israelin lapset hänen kasvoihinsa, kuinka hänen kasvoinsa nahka paisti

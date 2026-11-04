@@ -9,8 +9,8 @@
 "Si Ben-dacer, sa Maccas, at sa Saalbim, at sa Beth-semes, at sa Elonbeth-hanan
 "Si Ben-hesed, sa Aruboth (sa kaniya'y nauukol ang Socho, at ang buong lupain ng Ephet
 "Si Ben-abinadab sa buong kataasan ng Dor (na ang asawa'y si Taphat na anak ni Salomon
-"Si Baana na anak ni Ahilud sa Taanach, at sa Megiddo, at sa buong Beth-san na nasa siping ng Zaretan, sa ibaba ng Jezreel, mula sa Bethsan hanggang sa Abel-mehola, na may layong hanggang sa dako roon ng Jocmeam
-"Si Ben-geber, sa Ramoth-galaad; (sa kaniya nauukol ang mga bayan ni Jair na anak ni Manases, na nasa Galaad; sa makatuwid baga'y sa kaniya nauukol ang lupain ng Argob, na nasa Basan, anim na pung malaking bayan na may mga kuta at mga halang na tanso
+"Si Baana na anak ni Ahilud sa Taanach, at sa Megiddo, at sa buong Beth-san na nasa siping ng Zaretan, #sa ibaba ng Jezreel, mula sa Bethsan hanggang sa Abel-mehola, na may layong hanggang sa dako roon ng Jocmeam
+"Si Ben-geber, sa Ramoth-galaad; (sa kaniya nauukol ang mga bayan ni Jair na anak ni Manases, na nasa Galaad; sa makatuwid baga'y sa kaniya #nauukol ang lupain ng Argob, na nasa Basan, anim na pung malaking bayan na may mga kuta at mga halang na tanso
 "Si Ahinadab, anak ni Iddo sa Mahanaim
 "Si Ahimaas, sa Nephtali; (Ito rin ang nagasawa kay Basemath na anak na babae ni Salomon.)"
 "Si Baana, na anak ni Husai sa Aser at sa Alot."
@@ -22,7 +22,7 @@
 "At ang pagkain ni Salomon sa isang araw ay tatlong pung takal ng mainam na harina, at anim na pung takal na harina,"
 "Sangpung matabang baka, at dalawang pung baka na mula sa pastulan, at isang daang tupa, bukod pa ang mga usang lalake at babae, at mga usang masungay, at mga pinatabang hayop na may pakpak."
 "Sapagka't sakop niya ang buong lupain ng dakong ito ng Ilog, mula sa Tiphsa hanggang sa Gaza, sa lahat ng mga hari sa dakong ito ng Ilog
-"At ang Juda at ang Israel ay nagsitahang tiwasay, na bawa't tao'y sa ilalim ng kaniyang puno ng ubas at sa ilalim ng kaniyang puno ng igos, mula sa Dan hanggang sa Beer-seba, sa lahat ng kaarawan ni Salomon."
+"At ang Juda at ang Israel ay nagsitahang tiwasay, na bawa't tao'y sa ilalim ng kaniyang puno ng ubas at #sa ilalim ng kaniyang puno ng igos, mula sa Dan hanggang sa Beer-seba, sa lahat ng kaarawan ni Salomon."
 "At mayroon si Salomong apat na pung libong kabayo sa kaniyang mga silungan para sa kaniyang mga karo, at labing dalawang libong mangangabayo."
 "At ipinag-imbak ng mga katiwalang yaon ng pagkain ang haring Salomon, at ang lahat na naparoon sa dulang ng haring Salomon, bawa't isa'y sa kaniyang buwan
 "Sebada naman at dayami sa mga kabayo, at sa mga matuling kabayo ay nagsipagdala sila sa dakong kinaroroonan ng mga pinuno, bawa't isa'y ayon sa kaniyang katungkulan."

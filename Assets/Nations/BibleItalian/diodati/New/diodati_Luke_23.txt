@@ -11,7 +11,7 @@
 "Ma Erode, co’ suoi soldati, dopo averlo sprezzato, e schernito, lo vestì d’una veste bianca, e lo rimandò a Pilato."
 "Ed Erode e Pilato divennero amici insieme in quel giorno; perciocchè per l’addietro erano stati in inimicizia fra loro."
 "E Pilato, chiamati insieme i principali sacerdoti, ed i magistrati, e il popolo, disse loro
-"Voi mi avete fatto comparir quest’uomo davanti, come se egli sviasse il popolo; ed ecco, avendolo io in presenza vostra esaminato, non ho trovato in lui alcun maleficio di quelli de’ quali l’accusate."
+"Voi mi avete fatto comparir quest’uomo davanti, come se egli sviasse il popolo; ed ecco, avendolo io #in presenza vostra esaminato, non ho trovato in lui alcun maleficio di quelli de’ quali l’accusate."
 "Ma non pure Erode; poichè io vi ho mandati a lui; ed ecco, non gli è stato fatto nulla, onde egli sia giudicato degno di morte."
 "Io adunque lo castigherò, e poi lo libererò."
 "Or gli conveniva di necessità liberar loro uno, ogni dì di festa."

@@ -1,4 +1,4 @@
-"Krerët e popullit u vendosën në Jeruzalem; pjesa tjetër e popullit hodhi me short që një në çdo dhjetë veta të vinte të banonte në Jerualem, në qytetin e shenjtë; nëntë të dhjetat e tjerë duhet të qëndronin përkundrazi në qytetet e tjera."
+"Krerët e popullit u vendosën në Jeruzalem; pjesa tjetër e popullit hodhi me short që një në çdo dhjetë veta të vinte #të banonte në Jerualem, në qytetin e shenjtë; nëntë të dhjetat e tjerë duhet të qëndronin përkundrazi në qytetet e tjera."
 "Populli bekoi tërë ata që spontanisht u ofruan të banojnë në Jeruzalem."
 "Këta janë krerët e provincës që u vendosën në Jeruzalem, (por në qytetet e Judës secili u vendos në pronën e vet, në qytetin e vet
 "Në Jeruzalem u vendosën një pjesë e bijve të Judës dhe të Beniaminit. Nga bijtë e Judës
@@ -14,7 +14,7 @@
 "dhe vëllezërit e tyre, burra trima, ishin njëqind e njëzet e tetë veta. Zabdieli, bir i Gedolimit, ishte i pari i tyre."
 "Nga Levitët
 "Shabethai dhe Jozabadi, të caktuar në shërbimin e jashtëm të shtëpisë së Perëndisë, midis krerëve të Levitëve;"
-"dhe Mataniahu, bir i Mikas, bir i Zabdiut, bir i Asafit, që fillonte lëvdimet gjatë lutjes, i pari dhe Bakbukiahu, i dyti ndër vëllezërit e tij, dhe Abda, bir i Shamuas, bir i Galalit, bir i Jeduthunit."
+"dhe Mataniahu, bir i Mikas, bir i Zabdiut, bir i Asafit, që fillonte lëvdimet gjatë lutjes, i pari dhe #Bakbukiahu, i dyti ndër vëllezërit e tij, dhe Abda, bir i Shamuas, bir i Galalit, bir i Jeduthunit."
 "Shuma e Levitëve në qytetin e shenjtë
 "Derëtarët
 "Pjesa tjetër e Izraelit, e priftërinjve dhe e Levitëve u vendosën në të gjitha qytetet e Judës, secili në pronën e vet."

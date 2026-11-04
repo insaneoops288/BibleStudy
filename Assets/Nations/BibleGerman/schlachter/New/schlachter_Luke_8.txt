@@ -11,7 +11,7 @@
 "Das Gleichnis aber bedeutet dies
 "Die am Wege sind die, welche es gehört haben; darnach kommt der Teufel und nimmt das Wort von ihren Herzen weg, damit sie nicht zum Glauben gelangen und gerettet werden."
 "Die aber auf dem Felsen sind die, welche das Wort, wenn sie es hören, mit Freuden aufnehmen; aber sie haben keine Wurzel, sie glauben nur eine Zeitlang, und zur Zeit der Anfechtung fallen sie ab."
-"Was aber unter die Dornen fiel, das sind die, welche es gehört haben; aber sie gehen hin und werden von Sorgen und Reichtum und Vergnügungen des Lebens erstickt und bringen die Frucht nicht zur Reife."
+"Was aber unter die Dornen fiel, das sind die, welche es gehört haben; aber sie gehen hin und #werden von Sorgen und Reichtum und Vergnügungen des Lebens erstickt und bringen die Frucht nicht zur Reife."
 "Das in dem guten Erdreich aber sind die, welche das Wort, das sie gehört haben, in einem feinen und guten Herzen behalten und Frucht bringen in Geduld."
 "Niemand aber, der ein Licht anzündet, bedeckt es mit einem Gefäß, oder stellt es unter ein Bett, sondern er setzt es auf einen Leuchter, damit, wer hereinkommt, das Licht sehe."
 "Denn nichts ist verborgen, das nicht offenbar werden wird, und nichts ist geheim, das nicht kundwerden und an den Tag kommen wird."
@@ -26,13 +26,13 @@
 "Und sie fuhren zum Land der Gerasener, welches Galiläa gegenüber liegt."
 "Und als er ans Land gestiegen war, kam ihm aus der Stadt ein Besessener entgegen, der seit langer Zeit kein Kleid mehr trug, auch in keinem Hause blieb, sondern in den Gräbern."
 "Als er aber Jesus sah, schrie er, warf sich vor ihm nieder und sprach mit lauter Stimme
-"Denn Jesus hatte dem unreinen Geiste geboten, von dem Menschen auszufahren; denn er hatte ihn schon lange Zeit in seiner Gewalt, und man hatte ihn mit Ketten gebunden und mit Fußfesseln verwahrt. Aber er zerriß die Bande und wurde vom Dämon in die Wüste getrieben."
+"Denn Jesus hatte dem unreinen Geiste geboten, von dem Menschen auszufahren; denn er hatte ihn schon lange Zeit in seiner Gewalt, und man #hatte ihn mit Ketten gebunden und mit Fußfesseln verwahrt. Aber er zerriß die Bande und wurde vom Dämon in die Wüste getrieben."
 "Jesus aber fragte ihn
 "Und sie baten ihn, er möge ihnen nicht befehlen, in den Abgrund zu fahren."
 "Es war aber daselbst eine große Schweineherde an dem Berg zur Weide, und sie baten ihn, daß er ihnen erlaube, in jene zu fahren. Und er erlaubte es ihnen."
 "Da fuhren die Dämonen von dem Menschen aus und fuhren in die Schweine, und die Herde stürzte sich den Abhang hinunter in den See und ertrank."
 "Als aber die Hirten sahen, was geschehen war, flohen sie und verkündigten es in der Stadt und auf dem Lande."
-"Da gingen sie hinaus zu sehen, was geschehen war, und kamen zu Jesus und fanden den Menschen, von welchem die Dämonen ausgefahren waren, bekleidet und vernünftig zu den Füßen Jesu sitzen, und sie fürchteten sich."
+"Da gingen sie hinaus zu sehen, was geschehen war, und kamen zu Jesus und fanden den Menschen, von #welchem die Dämonen ausgefahren waren, bekleidet und vernünftig zu den Füßen Jesu sitzen, und sie fürchteten sich."
 "Die aber, welche es gesehen hatten, erzählten ihnen, wie dem Besessenen geholfen worden war."
 "Da bat ihn die ganze Bevölkerung der umliegenden Landschaft der Gerasener, von ihnen wegzugehen; denn große Furcht hatte sie ergriffen. Er aber trat in das Schiff und kehrte zurück."
 "Der Mann aber, von welchem die Dämonen ausgefahren waren, bat ihn, daß er bei ihm bleiben dürfe. Aber Jesus entließ ihn und sprach
@@ -44,7 +44,7 @@
 "trat von hinten herzu und rührte den Saum seines Kleides an; und auf der Stelle kam ihr Blutfluß zum Stehen."
 "Und Jesus fragte
 "Jesus aber sprach
-"Als nun die Frau sah, daß sie nicht unbemerkt geblieben war, kam sie zitternd, fiel vor ihm nieder und erzählte ihm vor dem ganzen Volke, aus welchem Grunde sie ihn angerührt habe und wie sie auf der Stelle gesund geworden sei."
+"Als nun die Frau sah, daß sie nicht unbemerkt geblieben war, kam sie zitternd, fiel vor ihm nieder und erzählte ihm #vor dem ganzen Volke, aus welchem Grunde sie ihn angerührt habe und wie sie auf der Stelle gesund geworden sei."
 "Er aber sprach zu ihr
 "Da er noch redete, kam jemand vom Synagogenvorsteher und sprach zu ihm
 "Da es aber Jesus hörte, antwortete er ihm und sprach

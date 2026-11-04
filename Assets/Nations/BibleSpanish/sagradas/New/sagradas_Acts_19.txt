@@ -24,7 +24,7 @@
 "Porque un platero llamado Demetrio, el cual hacía de plata templecillos de Diana, daba a los artífices no poca ganancia;"
 "a los cuales, reunidos con los obreros de semejante oficio, dijo
 "y veis y oís que este Pablo, no solamente en Efeso, sino a gran multitud de casi toda el Asia, ha apartado con persuasión, diciendo, que no son dioses los que se hacen con las manos."
-"Y no solamente hay peligro de que este negocio se nos vuelva en reproche, sino también que el templo de la gran diosa Diana sea estimado en nada, y comience a ser destruida su majestad, la cual honra toda el Asia y el mundo."
+"Y no solamente hay peligro de que este negocio se nos vuelva en reproche, sino también que el templo de la gran diosa #Diana sea estimado en nada, y comience a ser destruida su majestad, la cual honra toda el Asia y el mundo."
 "Oídas estas cosas, se llenaron de ira, y dieron alarido diciendo
 "Y toda la ciudad se llenó de confusión; y unánimes se arrojaron al teatro, arrebatando a Gayo y a Aristarco, macedonios, compañeros de Pablo."
 "Y queriendo Pablo salir al pueblo, los discípulos no le dejaron."

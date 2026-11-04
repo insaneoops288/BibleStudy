@@ -38,5 +38,5 @@
 "Ja huusi taas poikaa
 "Eikä poika tietänyt asiasta mitään; vaan Jonatan ja David ainoastaan asian tiesivät."
 "Niin Jonatan antoi aseensa pojalle, joka hänen kanssansa oli, ja sanoi
-"Ja kuin poika oli mennyt, nousi David siastansa meren puolelta ja lankesi maahan kasvoillensa ja rukoili kolme kertaa; ja he antoivat toinen toisellensa suuta ja itkivät toinen toisensa kanssa; vaan David itki hartaammin."
+"Ja kuin poika oli mennyt, nousi David siastansa meren puolelta ja lankesi maahan kasvoillensa ja rukoili kolme #kertaa; ja he antoivat toinen toisellensa suuta ja itkivät toinen toisensa kanssa; vaan David itki hartaammin."
 "Ja Jonatan sanoi Davidille

@@ -19,10 +19,10 @@
 "Jawab Yesus kepada mereka
 "Tetapi waktunya akan datang mempelai itu diambil dari mereka, dan pada waktu itulah mereka akan berpuasa."
 "Tidak seorangpun menambalkan secarik kain yang belum susut pada baju yang tua, karena jika demikian kain penambal itu akan mencabiknya, yang baru mencabik yang tua, lalu makin besarlah koyaknya."
-"Demikian juga tidak seorangpun mengisikan anggur yang baru ke dalam kantong kulit yang tua, karena jika demikian anggur itu akan mengoyakkan kantong itu, sehingga anggur itu dan kantongnya dua-duanya terbuang. Tetapi anggur yang baru hendaknya disimpan dalam kantong yang baru pula."""
+"Demikian juga tidak seorangpun mengisikan anggur yang baru ke dalam kantong kulit yang tua, karena jika demikian anggur itu akan mengoyakkan #kantong itu, sehingga anggur itu dan kantongnya dua-duanya terbuang. Tetapi anggur yang baru hendaknya disimpan dalam kantong yang baru pula."""
 "Pada suatu kali, pada hari Sabat, Yesus berjalan di ladang gandum, dan sementara berjalan murid-murid-Nya memetik bulir gandum."
 "Maka kata orang-orang Farisi kepada-Nya
 "Jawab-Nya kepada mereka
-"bagaimana ia masuk ke dalam Rumah Allah waktu Abyatar menjabat sebagai Imam Besar lalu makan roti sajian itu,yang tidak boleh dimakan kecuali oleh imam-imam,dan memberinya juga kepada pengikut-pengikutn"
+"bagaimana ia masuk ke dalam Rumah Allah waktu Abyatar menjabat sebagai Imam Besar lalu makan #roti sajian itu,yang tidak boleh dimakan kecuali oleh imam-imam,dan memberinya juga kepada pengikut-pengikutn"
 "Lalu kata Yesus kepada mereka
 "jadi Anak Manusia adalah juga Tuhan atas hari Sabat."""

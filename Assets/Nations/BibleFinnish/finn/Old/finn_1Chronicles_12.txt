@@ -5,7 +5,7 @@
 "Elusai, Jerimot, Bealia, Semaria ja Saphatia Harophilainen,"
 "Elkana, Jesija, Asareel, Joeser ja Jasobeam Korhilainen,"
 "Joela ja Sedadia Jerohamin lapset Gedorista."
-"Gadilaisista eroittivat heitänsä Davidin tykö linnaan korvessa väkevät sankarit ja sotamiehet, jotka kilpeä ja keihästä kantoivat; ja heidän kasvonsa olivat niinkuin jalopeuran kasvot, ja nopiat niinkuin metsävuohet vuorilla
+"Gadilaisista eroittivat heitänsä Davidin tykö linnaan korvessa väkevät sankarit ja sotamiehet, jotka kilpeä ja keihästä #kantoivat; ja heidän kasvonsa olivat niinkuin jalopeuran kasvot, ja nopiat niinkuin metsävuohet vuorilla
 "Ensimäinen Eser, toinen Obadia, kolmas Eliab,"
 "Neljäs Mismanna, viides Jeremia,"
 "Kuudes Attai, seitsemäs Eliel,"
@@ -16,7 +16,7 @@
 "Ja sinne myös tulivat BenJaminin lapsista ja Juudasta, Davidin tykö linnaan."
 "Ja David meni ulos heidän tykönsä, ja vastasi ja sanoi heille
 "Ja henki vaikutti Amasain, päämiehen kolmenkymmenen seassa
-"Ja Manassesta tuli väkeä Davidin puolelle, kuin hän meni Philistealaisten kanssa Saulia vastaan sotaan, vaikka ei he auttaneet heitä; sillä Philistealaisten päämiehet antoivat neuvonpiteestä hänen tyköänsä mennä pois, ja sanoivat
+"Ja Manassesta tuli väkeä Davidin puolelle, kuin hän meni Philistealaisten kanssa Saulia vastaan sotaan, vaikka ei #he auttaneet heitä; sillä Philistealaisten päämiehet antoivat neuvonpiteestä hänen tyköänsä mennä pois, ja sanoivat
 "Kuin hän meni Ziklagiin, tulivat hänen tykönsä Manassesta Adna, Josabad, Jediael, Mikael, Josabad, Elihu ja Ziltai, tuhanten päämiehet Manassesta."
 "Ja he auttivat Davidia sotajoukkoa vastaan; sillä he olivat kaikki väkevät miehet ja olivat päämiehet sodassa."
 "Ja joka päivä tuli muutamia Davidin tykö auttamaan häntä, siihenasti että se tuli suureksi sotajoukoksi, niinkuin Jumalan sotajoukoksi."
@@ -37,4 +37,4 @@
 "Tuolta puolelta Jordania
 "Kaikki nämät sotamiehet sodan toimittajat tulivat täydestä sydämestä Hebroniin, tekemään Davidia koko Israelin kuninkaaksi
 "Ja he olivat siellä Davidin tykönä kolme päivää, söivät ja joivat; sillä heidän veljensä olivat valmistaneet heidän eteensä."
-"Ja ne myös, jotka likin olivat heidän ympärillänsä Isaskariin, Sebuloniin ja Naphtaliin asti, he toivat leipiä aaseilla, kameleilla, muuleilla ja härjillä, syötäviä jauhoja, fikunoita, rusinoita, viinaa, öljyä, härkiä ja lampaita viljalta; sillä ilo oli Israelissa."
+"Ja ne myös, jotka likin olivat heidän ympärillänsä Isaskariin, Sebuloniin ja Naphtaliin asti, he toivat leipiä aaseilla, kameleilla, #muuleilla ja härjillä, syötäviä jauhoja, fikunoita, rusinoita, viinaa, öljyä, härkiä ja lampaita viljalta; sillä ilo oli Israelissa."

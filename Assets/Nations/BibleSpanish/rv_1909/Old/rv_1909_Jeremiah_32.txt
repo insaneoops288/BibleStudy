@@ -9,7 +9,7 @@
 "Y compré la heredad de Hanameel, hijo de mi tío, la cual estaba en Anathoth, y peséle el dinero
 "Y escribí la carta, y selléla, é hice atestiguar á testigos, y pesé el dinero con balanza."
 "Tomé luego la carta de venta, sellada según el derecho y costumbre, y el traslado abierto."
-"Y dí la carta de venta á Baruch hijo de Nerías, hijo de Maasías, delante de Hanameel el hijo de mi tío, y delante de los testigos que habían suscrito en la carta de venta, delante de todos los Judíos que estaban en el patio de la cárcel."
+"Y dí la carta de venta á Baruch hijo de Nerías, hijo de Maasías, delante de Hanameel el hijo de mi tío, y delante de #los testigos que habían suscrito en la carta de venta, delante de todos los Judíos que estaban en el patio de la cárcel."
 "Y dí orden á Baruch delante de ellos, diciendo
 "Así ha dicho Jehová de los ejércitos, Dios de Israel
 "Porque así ha dicho Jehová de los ejércitos, Dios de Israel
@@ -26,13 +26,13 @@
 "Y fué palabra de Jehová á Jeremías, diciendo
 "He aquí que yo soy Jehová, Dios de toda carne; ¿encubriráseme á mí alguna cosa?"
 "Por tanto así ha dicho Jehová
-"Y vendrán los Caldeos que combaten esta ciudad, y la pondrán á fuego, y la abrasarán, asimismo las casas sobre cuyas azoteas ofrecieron perfumes á Baal y derramaron libaciones á dioses ajenos, para provocarme á ira."
+"Y vendrán los Caldeos que combaten esta ciudad, y la pondrán á fuego, y la abrasarán, asimismo las casas #sobre cuyas azoteas ofrecieron perfumes á Baal y derramaron libaciones á dioses ajenos, para provocarme á ira."
 "Porque los hijos de Israel y los hijos de Judá no han hecho sino lo malo delante de mis ojos desde su juventud
 "Por manera que para enojo mío y para ira mía me ha sido esta ciudad, desde el día que la edificaron hasta hoy, para que la haga quitar de mi presencia;"
-"Por toda la maldad de los hijos de Israel y de los hijos de Judá, que han hecho para enojarme, ellos, sus reyes, sus príncipes, sus sacerdotes, y sus profetas, y los varones de Judá, y los moradores de Jerusalem."
+"Por toda la maldad de los hijos de Israel y de los hijos de Judá, que han hecho para enojarme, ellos, #sus reyes, sus príncipes, sus sacerdotes, y sus profetas, y los varones de Judá, y los moradores de Jerusalem."
 "Y volviéronme la cerviz, y no el rostro
 "Antes asentaron sus abominaciones en la casa sobre la cual es invocado mi nombre, contaminándola."
-"Y edificaron altares á Baal, los cuales están en el valle del hijo de Hinnom, para hacer pasar por el fuego sus hijos y sus hijas á Moloch, lo cual no les mandé, ni me vino al pensamiento que hiciesen esta abominación, para hacer pecar á Judá."
+"Y edificaron altares á Baal, los cuales están en el valle del hijo de Hinnom, para hacer pasar por el fuego sus hijos y #sus hijas á Moloch, lo cual no les mandé, ni me vino al pensamiento que hiciesen esta abominación, para hacer pecar á Judá."
 "Y con todo, ahora así dice Jehová Dios de Israel, á esta ciudad, de la cual decís vosotros, Entregada será en mano del rey de Babilonia á cuchillo, á hambre, y á pestilencia
 "He aquí que yo los juntaré de todas las tierras á las cuales los eché con mi furor, y con mi enojo y saña grande; y los haré tornar á este lugar, y harélos habitar seguramente,"
 "Y me serán por pueblo, y yo seré á ellos por Dios."

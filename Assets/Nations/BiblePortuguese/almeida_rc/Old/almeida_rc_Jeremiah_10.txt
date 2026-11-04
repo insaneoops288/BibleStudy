@@ -2,7 +2,7 @@
 "Assim diz o SENHOR
 "Porque os costumes dos povos são vaidade; pois cortam do bosque um madeiro, obra das mãos do artífice, com machado."
 "Com prata e com ouro o enfeitam, com pregos e com martelos o firmam, para que não se mova."
-"São como a palmeira, obra torneada, mas não podem falar; necessitam de quem os leve, porquanto não podem andar; não tenhais receio deles, pois não podem fazer mal, nem tampouco têm poder de fazer bem."
+"São como a palmeira, obra torneada, mas não podem falar; necessitam de quem os leve, porquanto não podem #andar; não tenhais receio deles, pois não podem fazer mal, nem tampouco têm poder de fazer bem."
 "Ninguém há semelhante a ti, ó SENHOR; tu és grande, e grande é o teu nome em força."
 "Quem te não temeria a ti, ó Rei das nações? Pois isso só a ti pertence; porquanto, entre todos os sábios das nações e em todo o seu reino, ninguém há semelhante a ti."
 "Mas eles todos se embruteceram e se tornaram loucos; ensino de vaidades é o madeiro."

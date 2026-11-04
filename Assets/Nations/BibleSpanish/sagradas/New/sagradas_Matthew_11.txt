@@ -18,9 +18,9 @@
 "Porque vino Juan, que ni comía ni bebía, y dicen
 "Vino el Hijo del hombre, que come y bebe, y dicen
 "Entonces comenzó a reconvenir <I>el beneficio</I>  a las ciudades en las cuales habían sido hechas muchas de sus maravillas, porque no se habían enmendado, <I>diciendo</I>
-"¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón fueran hechas las maravillas que han sido hechas en vosotras, en otro tiempo <I>se</I>  hubieran arrepentido en cilicio y en ceniza."
+"¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón fueran hechas las maravillas #que han sido hechas en vosotras, en otro tiempo <I>se</I>  hubieran arrepentido en cilicio y en ceniza."
 "Por tanto <I>yo</I>  os digo, <I>que</I>  a Tiro y a Sidón será más tolerable <I>el castigo</I>  en el día del juicio, que a vosotras."
-"Y tú, Capernaum, que eres levantada hasta el cielo, hasta los infiernos serás abajada; porque si en los de Sodoma fueran hechas las maravillas que han sido hechas en ti, hubiera quedado hasta el día de hoy."
+"Y tú, Capernaum, que eres levantada hasta el cielo, hasta los infiernos serás abajada; porque si en los de #Sodoma fueran hechas las maravillas que han sido hechas en ti, hubiera quedado hasta el día de hoy."
 "Por tanto <I>yo</I>  os digo, <I>que</I>  a la tierra de los de Sodoma será más tolerable <I>el castigo</I>  en el día del juicio, que a ti."
 "En aquel tiempo, respondiendo Jesús, dijo
 "Sí, Padre, porque así agradó en tus ojos."

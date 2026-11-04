@@ -1,5 +1,5 @@
 "Voici, l'Eternel dévaste le pays et le rend désert, Il en bouleverse la face et en disperse les habitants."
-"Et il en est du sacrificateur comme du peuple, Du maître comme du serviteur, De la maîtresse comme de la servante, Du vendeur comme de l'acheteur, Du prêteur comme de l'emprunteur, Du créancier comme du débiteur."
+"Et il en est du sacrificateur comme du peuple, Du maître comme du serviteur, De la maîtresse comme de #la servante, Du vendeur comme de l'acheteur, Du prêteur comme de l'emprunteur, Du créancier comme du débiteur."
 "Le pays est dévasté, livré au pillage; Car l'Eternel l'a décrété."
 "Le pays est triste, épuisé; Les habitants sont abattus, languissants; Les chefs du peuple sont sans force."
 "Le pays était profané par ses habitants; Car ils transgressaient les lois, violaient les ordonnances, Ils rompaient l'alliance éternelle."

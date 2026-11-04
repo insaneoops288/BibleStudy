@@ -5,7 +5,7 @@
 "Tedy bral se král David do Bahurim, a aj, vyšel odtud muž z čeledi domu Saulova, jehož jméno bylo Semei, syn Gerův, kterýžto vždy jda, zlořečil."
 "Ano i kamením házel na Davida, a na všecky služebníky krále Davida, ačkoli všecken lid a všickni udatní byli po pravici jeho i po levici jeho."
 "A takto mluvil Semei, když mu zlořečil
-"Obrátilť jest na tebe Hospodin všelikou krev domu Saulova, na jehož jsi místě kraloval, a dal Hospodin království v ruku Absolona syna tvého. A aj, již se vidíš v svém neštěstí, nebo jsi vražedlník."
+"Obrátilť jest na tebe Hospodin všelikou krev domu Saulova, na jehož jsi místě kraloval, a dal Hospodin království #v ruku Absolona syna tvého. A aj, již se vidíš v svém neštěstí, nebo jsi vražedlník."
 "I řekl Abizai syn Sarvie králi
 "Ale král řekl
 "Řekl ještě David k Abizai i ke všechněm služebníkům svým

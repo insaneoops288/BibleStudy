@@ -3,7 +3,7 @@
 "Y Faraón dijo á sus hermanos
 "Dijeron además á Faraón
 "Entonces Faraón habló á José, diciendo
-"La tierra de Egipto delante de ti está; en lo mejor de la tierra haz habitar á tu padre y á tus hermanos; habiten en la tierra de Gosén; y si entiendes que hay entre ellos hombres eficaces, ponlos por mayorales del ganado mío."
+"La tierra de Egipto delante de ti está; en lo mejor de la tierra haz habitar á tu padre y á tus hermanos; #habiten en la tierra de Gosén; y si entiendes que hay entre ellos hombres eficaces, ponlos por mayorales del ganado mío."
 "Y José introdujo á su padre, y presentólo delante de Faraón; y Jacob bendijo á Faraón."
 "Y dijo Faraón á Jacob
 "Y Jacob respondió á Faraón
@@ -21,7 +21,7 @@
 "Y al pueblo hízolo pasar á las ciudades desde el un cabo del término de Egipto hasta el otro cabo."
 "Solamente la tierra de los sacerdotes no compró, por cuanto los sacerdotes tenían ración de Faraón, y ellos comían su ración que Faraón les daba
 "Y José dijo al pueblo
-"Y será que de los frutos daréis el quinto á Faraón, y las cuatro partes serán vuestras para sembrar las tierras, y para vuestro mantenimiento, y de los que están en vuestras casas, y para que coman vuestros niños."
+"Y será que de los frutos daréis el quinto á Faraón, y las cuatro partes serán vuestras para sembrar las #tierras, y para vuestro mantenimiento, y de los que están en vuestras casas, y para que coman vuestros niños."
 "Y ellos respondieron
 "Entonces José lo puso por fuero hasta hoy sobre la tierra de Egipto, señalando para Faraón el quinto; excepto sólo la tierra de los sacerdotes, que no fué de Faraón."
 "Así habitó Israel en la tierra de Egipto, en la tierra de Gosén; y aposesionáronse en ella, y se aumentaron, y multiplicaron en gran manera."

@@ -2,7 +2,7 @@
 "A učinil ústa má podobná meči ostrému. V stínu ruky své skryl mne, a učiniv ze mne střelu vypulerovanou, v toule svém schoval mne."
 "A řekl mi
 "Já pak řekl jsem
-"A nyní dí Hospodin, kterýž mne sformoval hned od života za služebníka svého, abych zase přivedl k němu Jákoba; (byť pak i nebyl sebrán Izrael, slávu však mám před očima Hospodinovýma; nebo Bůh můj jest síla má);"
+"A nyní dí Hospodin, kterýž mne sformoval hned od života za služebníka svého, abych zase přivedl k němu Jákoba; #(byť pak i nebyl sebrán Izrael, slávu však mám před očima Hospodinovýma; nebo Bůh můj jest síla má);"
 "I to řekl Hospodin
 "Toto praví Hospodin vykupitel Izraelův, Svatý jeho, tomu, jímž pohrdá každý, a jehož sobě oškliví národové, služebníku panujících
 "Toto praví Hospodin
@@ -20,7 +20,7 @@
 "Tak že řeknou před tebou synové siroby tvé
 "I díš v srdci svém
 "Toto praví Panovník Hospodin
-"I budou králové pěstounové tvoji, a královny jejich chovačky tvé. Tváří k zemi skláněti se budou před tebou, a prach noh tvých lízati budou, a poznáš, že jsem já Hospodin, a že nebývají zahanbeni, kteříž na mne očekávají."
+"I budou králové pěstounové tvoji, a královny jejich chovačky tvé. Tváří k zemi skláněti se budou před tebou, a prach #noh tvých lízati budou, a poznáš, že jsem já Hospodin, a že nebývají zahanbeni, kteříž na mne očekávají."
 "Ale díš
 "Anobrž tak praví Hospodin
 "A nakrmím ty, kteříž tě utiskují, vlastním masem jejich, a jako mstem krví svou se zpijí. I poznáť všeliké tělo, že já Hospodin jsem spasitel tvůj, a vykupitel tvůj Bůh silný Jákobův."

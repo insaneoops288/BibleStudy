@@ -1,4 +1,4 @@
-"E levantou-se Eliasibe, o sumo sacerdote, com os seus irmãos, os sacerdotes, edificaram a Porta do Gado, a qual consagraram, e levantaram as suas portas; e até a Torre de Meá consagraram e até a Torre de Hananel."
+"E levantou-se Eliasibe, o sumo sacerdote, com os seus irmãos, os sacerdotes, edificaram a Porta do Gado, a qual consagraram, #e levantaram as suas portas; e até a Torre de Meá consagraram e até a Torre de Hananel."
 "E, junto a ele, edificaram os homens de Jericó; também, ao seu lado, edificou Zacur, filho de Inri."
 "E a Porta do Peixe edificaram os filhos de Hassenaá, a qual emadeiraram, e levantaram as suas portas com as suas fechaduras e os seus ferrolhos."
 "E, ao seu lado, reparou Meremote, filho de Urias, filho de Coz; e, ao seu lado, reparou Mesulão, filho de Berequias, filho de Mesezabel; e, ao seu lado, reparou Zadoque, filho de Baaná."
@@ -12,7 +12,7 @@
 "E, ao seu lado, reparou Salum, filho de Haloés, maioral da outra meia parte de Jerusalém, ele e suas filhas."
 "A Porta do Vale, reparou-a Hanum e os moradores de Zanoa; estes a edificaram e lhe levantaram as portas com fechaduras e os seus ferrolhos, como também mil côvados do muro, até à Porta do Monturo."
 "E a Porta do Monturo, reparou-a Malquias, filho de Recabe, maioral do distrito de Bete-Haquerém; este a edificou e lhe levantou as portas com as suas fechaduras e os seus ferrolhos."
-"E a Porta da Fonte reparou-a Salum, filho de Col-Hozé, maioral do distrito de Mispa; este a edificou, e a cobriu, e lhe levantou as portas com as suas fechaduras e os seus ferrolhos, como também o muro do viveiro de Selá, ao pé do jardim do rei, mesmo até aos degraus que descem da Cidade de David."
+"E a Porta da Fonte reparou-a Salum, filho de Col-Hozé, maioral do distrito de Mispa; este a edificou, e a cobriu, e lhe levantou as portas com as suas fechaduras #e os seus ferrolhos, como também o muro do viveiro de Selá, ao pé do jardim do rei, mesmo até aos degraus que descem da Cidade de David."
 "Depois dele, edificou Neemias, filho de Azbuque, maioral da metade de Bete-Zur, até defronte dos sepulcros de David, e até ao viveiro artificial, e até à casa dos varões."
 "Depois dele, repararam os levitas, Reum, filho de Bani, e, ao seu lado, reparou Hasabias, maioral da metade de Queila, no seu distrito."
 "Depois dele, repararam seus irmãos

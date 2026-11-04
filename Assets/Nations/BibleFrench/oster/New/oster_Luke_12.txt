@@ -8,7 +8,7 @@
 "Or, je vous le dis
 "Mais celui qui me reniera devant les hommes, sera renié devant les anges de Dieu."
 "Et quiconque aura parlé contre le Fils de l'homme, il lui sera pardonné; mais à celui qui aura blasphémé contre le Saint-Esprit, il ne sera point pardonné."
-"Quand on vous mènera dans les synagogues et devant les magistrats et les autorités, ne vous mettez point en peine de quelle manière vous répondrez pour votre défense, ni de ce que vous aurez à dire;"
+"Quand on vous mènera dans les synagogues et devant les magistrats et les autorités, ne vous mettez point en #peine de quelle manière vous répondrez pour votre défense, ni de ce que vous aurez à dire;"
 "Car le Saint-Esprit vous enseignera en ce même instant ce qu'il faudra dire."
 "Alors quelqu'un de la troupe lui dit
 "Mais Jésus lui répondit
@@ -30,7 +30,7 @@
 "Car ce sont les nations du monde qui recherchent toutes ces choses; et votre Père sait que vous en avez besoin;"
 "Cherchez plutôt le royaume de Dieu, et toutes ces choses vous seront données par-dessus."
 "Ne crains point, petit troupeau; car il a plu à votre Père de vous donner le royaume."
-"Vendez ce que vous avez, et le donnez en aumônes; faites-vous des bourses qui ne s'usent point, un trésor dans les cieux qui ne manque jamais, d'où les voleurs n'approchent point, et où la teigne ne gâte rien."
+"Vendez ce que vous avez, et le donnez en aumônes; faites-vous des bourses qui ne s'usent point, un trésor dans #les cieux qui ne manque jamais, d'où les voleurs n'approchent point, et où la teigne ne gâte rien."
 "Car où est votre trésor, là aussi sera votre cœur."
 "Que vos reins soient ceints, et vos lampes allumées."
 "Et soyez comme des hommes qui attendent que leur maître revienne des noces; afin que quand il viendra et qu'il heurtera à la porte, ils lui ouvrent aussitôt."
@@ -45,7 +45,7 @@
 "Mais si ce serviteur dit en son cœur
 "Le maître de ce serviteur viendra au jour qu'il n'attend pas, et à l'heure qu'il ne sait pas, et il le séparera, et lui donnera sa part avec les infidèles."
 "Le serviteur qui a connu la volonté de son maître, et qui ne s'est pas tenu prêt et n'a pas fait cette volonté, sera battu de plusieurs coups."
-"Mais celui qui ne l'a point connue, et qui a fait des choses dignes de châtiment, sera battu de peu de coups. Et il sera beaucoup redemandé à quiconque il aura été beaucoup donné; et on exigera plus de celui à qui on aura beaucoup confié."
+"Mais celui qui ne l'a point connue, et qui a fait des choses dignes de châtiment, sera battu de peu de coups. Et il #sera beaucoup redemandé à quiconque il aura été beaucoup donné; et on exigera plus de celui à qui on aura beaucoup confié."
 "Je suis venu mettre le feu sur la terre; et qu'ai-je à désirer s'il est déjà allumé!"
 "Mais je dois être baptisé d'un baptême; et combien ne suis-je pas pressé jusqu'à ce qu'il s'accomplisse!"
 "Pensez-vous que je sois venu apporter la paix sur la terre?"
@@ -55,5 +55,5 @@
 "Et quand le vent du midi souffle, vous dites
 "Hypocrites! vous savez discerner l'aspect de la terre et du ciel; comment donc ne discernez-vous pas ce temps-ci?"
 "Et pourquoi ne discernez-vous pas aussi par vous-mêmes ce qui est juste?"
-"Or, quand tu vas devant le magistrat avec ta partie adverse, tâche en chemin de sortir d'affaire avec elle, de peur qu'elle ne te traîne devant le juge, que le juge ne te livre au sergent, et que le sergent ne te mette en prison."
+"Or, quand tu vas devant le magistrat avec ta partie adverse, tâche en chemin de sortir d'affaire avec elle, de peur qu'elle ne #te traîne devant le juge, que le juge ne te livre au sergent, et que le sergent ne te mette en prison."
 "Je te dis que tu ne sortiras point de là, que tu n'aies payé jusqu'à la dernière obole."

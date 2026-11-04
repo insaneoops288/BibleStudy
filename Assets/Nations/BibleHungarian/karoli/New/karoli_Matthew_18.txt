@@ -5,7 +5,7 @@
 "És a ki egy ilyen kis gyermeket befogad az én nevemben, engem fogad be."
 "A ki pedig megbotránkoztat egyet e kicsinyek közül, a kik én bennem hisznek, jobb annak, hogy malomkövet kössenek a nyakára, és a tenger mélységébe vessék."
 "Jaj a világnak a botránkozások miatt! Mert szükség, hogy botránkozások essenek; de jaj annak az embernek, a ki által a botránkozás esik."
-"Ha pedig a te kezed vagy a te lábad megbotránkoztat téged, vágd le azokat és vesd el magadtól; jobb néked az életre sántán vagy csonkán bemenned, hogynem két kézzel vagy két lábbal vettetned az örök tûzre."
+"Ha pedig a te kezed vagy a te lábad megbotránkoztat téged, vágd le azokat és vesd el magadtól; jobb #néked az életre sántán vagy csonkán bemenned, hogynem két kézzel vagy két lábbal vettetned az örök tûzre."
 "És ha a te szemed botránkoztat meg téged, vájd ki azt és vesd el magadtól; jobb néked félszemmel bemenned az életre, hogynem két szemmel vettetned a gyehenna tüzére."
 "Meglássátok, hogy eme kicsinyek közül egyet is meg ne utáljatok; mert mondom néktek, hogy az õ angyalaik a mennyekben mindenkor látják az én mennyei Atyám orczáját."
 "Mert az embernek Fia azért jött, hogy megtartsa, a mi elveszett vala."

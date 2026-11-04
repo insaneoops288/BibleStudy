@@ -15,7 +15,7 @@
 "Y todos los pozos que habían abierto los siervos de Abraham su padre en sus días, los filisteos los habían cegado y llenado de tierra."
 "Y dijo Abimelec a Isaac
 "E Isaac se fue de allí; y asentó sus tiendas en el valle de Gerar, y habitó allí."
-"Y volvió a abrir Isaac los pozos de agua que habían abierto en los días de Abraham su padre, y que los filisteos habían cegado después de la muerte de Abraham; y los llamó por los nombres que su padre los había llamado."
+"Y volvió a abrir Isaac los pozos de agua que habían abierto en los días de Abraham su padre, y que los #filisteos habían cegado después de la muerte de Abraham; y los llamó por los nombres que su padre los había llamado."
 "Y los siervos de Isaac cavaron en el valle, y hallaron allí un pozo de aguas vivas."
 "Y los pastores de Gerar riñeron con los pastores de Isaac, diciendo
 "Y abrieron otro pozo, y también riñeron sobre él; y llamó su nombre Sitna."

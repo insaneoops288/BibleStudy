@@ -20,10 +20,10 @@
 "I cóż więcej może powiedzieć ci Dawid? Ty bowiem znasz swojego sługę, Panie BOŻE."
 "Ze względu na twoje słowo i zgodnie z twoim sercem uczyniłeś wszystkie te wielkie rzeczy, dając poznać je twemu słudze."
 "Dlatego jesteś wielki, PANIE Boże. Nie ma bowiem nikogo podobnego do ciebie i nie ma Boga oprócz ciebie, zgodnie z tym, co usłyszeliśmy na własne uszy."
-"I czyż jest taki naród na ziemi jak twój lud Izrael, dla którego Bóg wyruszył, aby wykupić go sobie jako lud, by uczynić wielkim swoje imię i dokonać dla nich wielkich i straszliwych rzeczy w twojej ziemi, przed twoim ludem, który wykupiłeś sobie z Egiptu, spośród narodów i ich bogów?"
+"I czyż jest taki naród na ziemi jak twój lud Izrael, dla którego Bóg wyruszył, aby wykupić go sobie jako lud, by uczynić wielkim swoje imię #i dokonać dla nich wielkich i straszliwych rzeczy w twojej ziemi, przed twoim ludem, który wykupiłeś sobie z Egiptu, spośród narodów i ich bogów?"
 "Ustanowiłeś sobie bowiem swój lud, Izraela, aby był dla ciebie ludem na wieki. A ty, PANIE, stałeś się jego Bogiem."
 "Teraz więc, PANIE Boże, utwierdź na wieki słowo, które wypowiedziałeś o swoim słudze i o jego domu, i czyń, jak powiedziałeś;"
 "Aby twoje imię było wielbione na wieki, aby mówiono
 "Ty bowiem, PANIE zastępów, Boże Izraela, objawiłeś swemu słudze, mówiąc
 "A teraz, Panie BOŻE, ty jesteś tym Bogiem, a twoje słowa są prawdą, obiecałeś swemu słudze tę dobroć."
-"Teraz więc racz pobłogosławić dom swego sługi, aby przed tobą trwał na wieki. Ty bowiem, Panie BOŻE, to powiedziałeś i dzięki twojemu błogosławieństwu dom twego sługi będzie błogosławiony na wieki."
+"Teraz więc racz pobłogosławić dom swego sługi, aby przed tobą trwał na wieki. Ty bowiem, Panie #BOŻE, to powiedziałeś i dzięki twojemu błogosławieństwu dom twego sługi będzie błogosławiony na wieki."

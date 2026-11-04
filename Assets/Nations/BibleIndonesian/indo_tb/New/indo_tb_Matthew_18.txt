@@ -3,18 +3,18 @@
 "lalu berkata
 "Sedangkan barangsiapa merendahkan diri dan menjadi seperti anak kecil ini, dialah yang terbesar dalam Kerajaan Sorga."
 "Dan barangsiapa menyambut seorang anak seperti ini dalam nama-Ku, ia menyambut Aku."""
-"""Tetapi barangsiapa menyesatkan salah satu dari anak-anak kecil ini yang percaya kepada-Ku, lebih baik baginya jika sebuah batu kilangan diikatkan pada lehernya lalu ia ditenggelamkan ke dalam laut."
+"""Tetapi barangsiapa menyesatkan salah satu dari anak-anak kecil ini yang percaya kepada-Ku, lebih baik baginya #jika sebuah batu kilangan diikatkan pada lehernya lalu ia ditenggelamkan ke dalam laut."
 "Celakalah dunia dengan segala penyesatannya
-"Jika tanganmu atau kakimu menyesatkan engkau, penggallah dan buanglah itu, karena lebih baik bagimu masuk ke dalam hidup dengan tangan kudung atau timpang dari pada dengan utuh kedua tangan dan kedua kakimu dicampakkan ke dalam api kekal."
+"Jika tanganmu atau kakimu menyesatkan engkau, penggallah dan buanglah itu, karena lebih baik bagimu masuk ke dalam hidup dengan #tangan kudung atau timpang dari pada dengan utuh kedua tangan dan kedua kakimu dicampakkan ke dalam api kekal."
 "Dan jika matamu menyesatkan engkau, cungkillah dan buanglah itu, karena lebih baik bagimu masuk ke dalam hidup dengan bermata satu dari pada dicampakkan ke dalam api neraka dengan bermata dua."
 "Ingatlah, jangan menganggap rendah seorang dari anak-anak kecil ini. Karena Aku berkata kepadamu
 "(Karena Anak Manusia datang untuk menyelamatkan yang hilang.)"""
-"""Bagaimana pendapatmu? Jika seorang mempunyai seratus ekor domba, dan seekor di antaranya sesat, tidakkah ia akan meninggalkan yang sembilan puluh sembilan ekor di pegunungan dan pergi mencari yang sesat itu?"
+"""Bagaimana pendapatmu? Jika seorang mempunyai seratus ekor domba, dan seekor di antaranya sesat, tidakkah ia akan #meninggalkan yang sembilan puluh sembilan ekor di pegunungan dan pergi mencari yang sesat itu?"
 "Dan Aku berkata kepadamu
 "Demikian juga Bapamu yang di sorga tidak menghendaki supaya seorangpun dari anak-anak ini hilang."""
 """Apabila saudaramu berbuat dosa, tegorlah dia di bawah empat mata. Jika ia mendengarkan nasihatmu engkau telah mendapatnya kembali."
 "Jika ia tidak mendengarkan engkau, bawalah seorang atau dua orang lagi, supaya atas keterangan dua atau tiga orang saksi, perkara itu tidak disangsikan."
-"Jika ia tidak mau mendengarkan mereka, sampaikanlah soalnya kepada jemaat. Dan jika ia tidak mau juga mendengarkan jemaat, pandanglah dia sebagai seorang yang tidak mengenal Allah atau seorang pemungut cukai."
+"Jika ia tidak mau mendengarkan mereka, sampaikanlah soalnya kepada jemaat. Dan jika ia tidak mau juga #mendengarkan jemaat, pandanglah dia sebagai seorang yang tidak mengenal Allah atau seorang pemungut cukai."
 "Aku berkata kepadamu
 "Dan lagi Aku berkata kepadamu
 "Sebab di mana dua atau tiga orang berkumpul dalam Nama-Ku, di situ Aku ada di tengah-tengah mereka."""

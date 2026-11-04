@@ -13,7 +13,7 @@
 "tomaron ramos de palmas, y salieron a recibirle, y clamaban
 "Y halló Jesús un asnillo, y se sentó sobre él, como está escrito
 "No temas, oh hija de Sión
-"Mas estas cosas no las entendieron sus discípulos <I>de</I>  primero; pero cuando Jesús fue glorificado, entonces se acordaron <I>de</I>  que estas cosas estaban escritas de él, y que le hicieron estas cosas."
+"Mas estas cosas no las entendieron sus discípulos <I>de</I>  primero; pero cuando Jesús fue glorificado, entonces se #acordaron <I>de</I>  que estas cosas estaban escritas de él, y que le hicieron estas cosas."
 "Y la multitud que estaba con él, daba testimonio de cuando llamó a Lázaro del sepulcro, y le resucitó de los muertos."
 "Por lo cual también había venido la multitud a recibirle, porque habían oído que él había hecho esta señal;"
 "mas los fariseos dijeron entre sí

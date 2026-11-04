@@ -3,7 +3,7 @@
 "Or Paul ayant ramassé un faisceau de broussailles, et l'ayant mis au feu, une vipère en sortit à cause de la chaleur, et s'attacha à sa main."
 "Et quand les Barbares virent cette bête qui pendait à sa main, ils se dirent les uns aux autres
 "Mais lui, ayant secoué la vipère dans le feu, n'en reçut aucun mal."
-"Les Barbares s'attendaient à ce qu'il enflerait, ou qu'il tomberait mort subitement; mais ayant beaucoup attendu et voyant qu'il ne lui arrivait rien d'extraordinaire, ils changèrent de sentiment, et dirent que c'était un dieu."
+"Les Barbares s'attendaient à ce qu'il enflerait, ou qu'il tomberait mort subitement; mais ayant beaucoup attendu et voyant #qu'il ne lui arrivait rien d'extraordinaire, ils changèrent de sentiment, et dirent que c'était un dieu."
 "Or il y avait dans ce lieu les terres du plus considérable de l'île, d'un nommé Publius, qui nous reçut et nous logea avec bienveillance, durant trois jours."
 "Et il se rencontra que le père de Publius était au lit, malade de la fièvre et de la dysenterie. Paul entra chez lui; et ayant prié, il lui imposa les mains, et le guérit."
 "Cela étant arrivé, tous ceux de l'île qui étaient malades, vinrent à lui, et furent guéris."
@@ -20,11 +20,11 @@
 "C'est pour ce sujet donc que j'ai demandé à vous voir et à vous parler; car c'est à cause de l'espérance d'Israël que je suis lié de cette chaîne."
 "Et ils lui répondirent
 "Néanmoins, nous désirons apprendre de toi quels sont tes sentiments, car pour cette secte nous savons qu'on s'y oppose partout."
-"Lui ayant assigné un jour, ils vinrent en plus grand nombre chez lui à l'hôtellerie; et depuis le matin jusqu'au soir il leur annonçait la Souveraineté de Dieu, en rendant témoignage, et les persuadant, par la loi de Moïse et par les prophètes, de ce qui regarde Jésus."
+"Lui ayant assigné un jour, ils vinrent en plus grand nombre chez lui à l'hôtellerie; et depuis le matin jusqu'au soir il leur annonçait la #Souveraineté de Dieu, en rendant témoignage, et les persuadant, par la loi de Moïse et par les prophètes, de ce qui regarde Jésus."
 "Les uns furent persuadés de ce qu'il disait; mais les autres ne crurent point."
 "Et comme ils n'étaient pas d'accord entre eux, ils se retirèrent, après que Paul leur eut dit cette parole
 "Va vers ce peuple et dis-lui
-"Car le coeur de ce peuple est endurci; ils ont entendu dur de leurs oreilles, et ils ont fermé leurs yeux, de peur qu'ils ne voient de leurs yeux, qu'ils n'entendent de leurs oreilles, qu'ils ne comprennent de leur coeur, qu'ils ne se convertissent, et que je ne les guérisse."
+"Car le coeur de ce peuple est endurci; ils ont entendu dur de leurs oreilles, et ils ont fermé leurs yeux, de peur qu'ils ne voient #de leurs yeux, qu'ils n'entendent de leurs oreilles, qu'ils ne comprennent de leur coeur, qu'ils ne se convertissent, et que je ne les guérisse."
 "Sachez donc que le salut de Dieu est envoyé aux Gentils, et qu'ils l'écouteront."
 "Et quand il eut dit cela, les Juifs s'en allèrent, ayant une grande contestation entre eux."
 "Or Paul demeura deux ans entiers dans son logement privé, où il recevait tous ceux qui venaient le voir,"

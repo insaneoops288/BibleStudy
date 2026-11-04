@@ -13,7 +13,7 @@
 "Niuno ha maggiore amor di questo
 "Voi sarete miei amici, se fate tutte le cose che io vi comando."
 "Io non vi chiamo più servi, perciocchè il servo non sa ciò che fa il suo signore; ma io vi ho chiamati amici, perciocchè vi ho fatte assaper tutte le cose che ho udite dal Padre mio."
-"Voi non avete eletto me, ma io ho eletti voi; e vi ho costituiti, acciocchè andiate, e portiate frutto, e il vostro frutto sia permanente; acciocchè qualunque cosa chiederete al Padre nel mio nome, egli ve la dia."
+"Voi non avete eletto me, ma io ho eletti voi; e vi ho costituiti, acciocchè andiate, e portiate frutto, e #il vostro frutto sia permanente; acciocchè qualunque cosa chiederete al Padre nel mio nome, egli ve la dia."
 "Io vi comando queste cose, acciocchè vi amiate gli uni gli altri."
 "Se il mondo vi odia, sappiate che egli mi ha odiato prima di voi."
 "Se voi foste del mondo, il mondo amerebbe ciò che sarebbe suo; ma, perciocchè voi non siete del mondo, anzi io vi ho eletti dal mondo, perciò vi odia il mondo."

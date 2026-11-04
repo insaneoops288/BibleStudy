@@ -17,9 +17,9 @@
 "Niin Moses ja Aaron ottivat miehet tykönsä, jotka nimeltänsä nimitetyt olivat,"
 "Ja he kokosivat kaiken kansan, ensimäisenä päivänä toisella kuulla, jotka luettelivat polvilukunsa, sukukuntainsa, ja isäinsä huonetten jälkeen
 "Niinkuin Herra oli käskenyt Mosekselle, niin luki hän heitä Sinain korvessa."
-"Rubenin Israelin esikoisen lapset olivat heidän polviluvuissansa, sukunsa ja isäinsä huonetten jälkeen, nimenomattain, mies mieheltä kaikki miehenpuoli, kahdenkymmenen vuotisista ja sen ylitse, kaikki kelvolliset sotaan menemään,"
+"Rubenin Israelin esikoisen lapset olivat heidän polviluvuissansa, sukunsa ja isäinsä huonetten jälkeen, nimenomattain, mies #mieheltä kaikki miehenpuoli, kahdenkymmenen vuotisista ja sen ylitse, kaikki kelvolliset sotaan menemään,"
 "Luetut Rubenin sukukuntaan, kuusiviidettäkymmentä tuhatta ja viisisataa."
-"Simeonin lapset ja heidän polvilukunsa, sukunsa ja isäinsä huonetten jälkeen, luetut nimenomattain mies mieheltä, kaikki miehenpuoli kahdenkymmenen vuotisista ja sen ylitse, kaikki sotaan menemään kelvolliset,"
+"Simeonin lapset ja heidän polvilukunsa, sukunsa ja isäinsä huonetten jälkeen, luetut nimenomattain mies #mieheltä, kaikki miehenpuoli kahdenkymmenen vuotisista ja sen ylitse, kaikki sotaan menemään kelvolliset,"
 "Luetut Simeonin sukukuntaan, yhdeksänkuudettakymmentä tuhatta ja kolmesataa."
 "Gadin lapset ja heidän polvilukunsa, sukunsa ja isäinsä huonetten jälkeen, nimenomattain kahdenkymmenen vuotisista ja sen ylitse, kaikki sotaan menemään kelvolliset,"
 "Luetut Gadin sukukuntaan, viisiviidettäkymmentä tuhatta, kuusisataa ja viisikymmentä."
@@ -47,7 +47,7 @@
 "Mutta Leviläiset heidän isäinsä sukukunnan jälkeen ei olleet heidän lukuunsa luetut."
 "Ja Herra puhui Mosekselle, sanoen
 "Ei kuitenkaan pidä sinun lukeman Levin sukukuntaa, eli ottaman heistä päälukua, Israelin lasten seassa;"
-"Mutta sinun pitää asettaman Leviläiset todistuksen majan palvelukseen, ja kaikkein sen astiain päälle, ja kaikkein mitkä sen omat ovat. Heidän pitää kantaman majan, ja kaikki sen astiat, ja heidän pitää ottaman vaarin siitä, ja sioittaman itsensä majan ympärille."
+"Mutta sinun pitää asettaman Leviläiset todistuksen majan palvelukseen, ja kaikkein sen astiain päälle, ja kaikkein mitkä sen omat ovat. Heidän #pitää kantaman majan, ja kaikki sen astiat, ja heidän pitää ottaman vaarin siitä, ja sioittaman itsensä majan ympärille."
 "Ja kuin matkustetaan, silloin pitää Leviläisten ottaman majan alas, ja koska joukko itsensä sioittaa, pitää heidän paneman sen ylös. Jos joku muukalainen lähestyy sitä, sen pitää kuoleman."
 "Israelin lapset pitää sioittaman itsensä kukin leirinsä ja joukkonsa lipun tykö."
 "Mutta Leviläiset pitää sioittaman itsensä todistuksen majan ympärille, ettei viha tulisi Israelin lasten joukon päälle. Sentähden pitää Leviläisten pitämän vaarin todistuksen majan vartiosta."

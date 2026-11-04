@@ -39,7 +39,7 @@
 "Je ne t'ai point rapporté de bêtes déchirées, j'en ai payé le dommage; tu me redemandais ce qu'on me volait de jour et ce qu'on me volait de nuit."
 "La chaleur me dévorait pendant le jour, et le froid pendant la nuit, et le sommeil fuyait de mes yeux."
 "Voilà vingt ans que j'ai passés dans ta maison; je t'ai servi quatorze ans pour tes deux filles, et six ans pour ton troupeau, et tu as changé dix fois mon salaire."
-"Si je n'eusse pas eu pour moi le Dieu de mon père, le Dieu d'Abraham, celui que craint Isaac, tu m'aurais maintenant renvoyé à vide. Dieu a vu ma souffrance et le travail de mes mains, et hier il a prononcé son jugement."
+"Si je n'eusse pas eu pour moi le Dieu de mon père, le Dieu d'Abraham, celui que craint Isaac, tu m'aurais maintenant #renvoyé à vide. Dieu a vu ma souffrance et le travail de mes mains, et hier il a prononcé son jugement."
 "Laban répondit, et dit à Jacob
 "Viens, faisons alliance, moi et toi, et que cela serve de témoignage entre moi et toi!"
 "Jacob prit une pierre, et il la dressa pour monument."
@@ -49,7 +49,7 @@
 "On l'appelle aussi Mitspa, parce que Laban dit
 "Si tu maltraites mes filles, et si tu prends encore d'autres femmes, ce n'est pas un homme qui sera avec nous, prends-y garde, c'est Dieu qui sera témoin entre moi et toi."
 "Laban dit à Jacob
-"Que ce monceau soit témoin et que ce monument soit témoin que je n'irai point vers toi au delà de ce monceau, et que tu ne viendras point vers moi au delà de ce monceau et de ce monument, pour agir méchamment."
+"Que ce monceau soit témoin et que ce monument soit témoin que je n'irai point vers toi au delà de ce monceau, #et que tu ne viendras point vers moi au delà de ce monceau et de ce monument, pour agir méchamment."
 "Que le Dieu d'Abraham et de Nachor, que le Dieu de leur père soit juge entre nous. Jacob jura par celui que craignait Isaac."
 "Jacob offrit un sacrifice sur la montagne, et il invita ses frères à manger; ils mangèrent donc, et passèrent la nuit sur la montagne."
 "Laban se leva de bon matin, baisa ses fils et ses filles, et les bénit. Ensuite il partit pour retourner dans sa demeure."

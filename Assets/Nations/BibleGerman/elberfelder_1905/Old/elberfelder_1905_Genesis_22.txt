@@ -1,6 +1,6 @@
 "Und es geschah nach diesen Dingen, daß Gott den Abraham versuchte; und er sprach zu ihm
 "Und er sprach
-"Und Abraham stand des Morgens früh auf und sattelte seinen Esel und nahm mit sich zwei von seinen Knaben und Isaak, seinen Sohn; und er spaltete Holz zum Brandopfer und machte sich auf und zog hin an den Ort, den Gott ihm gesagt hatte."
+"Und Abraham stand des Morgens früh auf und sattelte seinen Esel und nahm mit sich zwei von seinen Knaben und Isaak, seinen Sohn; #und er spaltete Holz zum Brandopfer und machte sich auf und zog hin an den Ort, den Gott ihm gesagt hatte."
 "Am dritten Tage, da erhob Abraham seine Augen und sah den Ort von ferne."
 "Und Abraham sprach zu seinen Knaben
 "Und Abraham nahm das Holz des Brandopfers und legte es auf Isaak, seinen Sohn; und in seine Hand nahm er das Feuer und das Messer; und sie gingen beide miteinander."
@@ -10,7 +10,7 @@
 "Und Abraham streckte seine Hand aus und nahm das Messer, um seinen Sohn zu schlachten."
 "Da rief ihm der Engel Jehovas vom Himmel zu und sprach
 "Und er sprach
-"Und Abraham erhob seine Augen und sah, und siehe, da war ein Widder dahinten im Dickicht festgehalten durch seine Hörner; und Abraham ging hin und nahm den Widder und opferte ihn als Brandopfer an seines Sohnes Statt."
+"Und Abraham erhob seine Augen und sah, und siehe, da war ein Widder dahinten im Dickicht festgehalten durch seine #Hörner; und Abraham ging hin und nahm den Widder und opferte ihn als Brandopfer an seines Sohnes Statt."
 "Und Abraham gab diesem Orte den Namen
 "Und der Engel Jehovas rief Abraham ein zweites Mal vom Himmel zu"
 "und sprach

@@ -43,9 +43,9 @@
 "Glückselig jener Knecht, den sein Herr, wenn er kommt, also tuend finden wird!"
 "In Wahrheit sage ich euch, daß er ihnüber seine ganze Habe setzen wird."
 "Wenn aber jener Knecht in seinem Herzen sagt
-"so wird der Herr jenes Knechtes kommen an einem Tage, an welchem er es nicht erwartet, und in einer Stunde, die er nicht weiß, und wird ihn entzweischneiden und ihm sein Teil setzen mit den Untreuen."
+"so wird der Herr jenes Knechtes kommen an einem Tage, an welchem er es nicht erwartet, und in einer #Stunde, die er nicht weiß, und wird ihn entzweischneiden und ihm sein Teil setzen mit den Untreuen."
 "Jener Knecht aber, der den Willen seines Herrn wußte und sich nicht bereitet, noch nach seinem Willen getan hat, wird mit vielen Schlägen geschlagen werden;"
-"wer ihn aber nicht wußte, aber getan hat, was der Schläge wert ist, wird mit wenigen geschlagen werden. Jedem aber, dem viel gegeben ist, viel wird von ihm verlangt werden; und wem man viel anvertraut hat, von dem wird man desto mehr fordern."
+"wer ihn aber nicht wußte, aber getan hat, was der Schläge wert ist, wird mit wenigen geschlagen werden. Jedem aber, dem viel #gegeben ist, viel wird von ihm verlangt werden; und wem man viel anvertraut hat, von dem wird man desto mehr fordern."
 "Ich bin gekommen, Feuer auf die Erde zu werfen; und was will ich, wenn es schon angezündet ist?"
 "Ich habe aber eine Taufe, womit ich getauft werden muß, und wie bin ich beengt, bis sie vollbracht ist!"
 "Denket ihr, daß ich gekommen sei, Frieden auf der Erde zu geben? Nein, sage ich euch, sondern vielmehr Entzweiung."
@@ -55,5 +55,5 @@
 "Und wenn ihr den Südwind wehen sehet, so saget ihr
 "Heuchler! Das Angesicht der Erde und des Himmels wisset ihr zu beurteilen; wie aber ist es, daß ihr diese Zeit nicht beurteilet?"
 "Warum aber auch richtet ihr von euch selbst nicht, was recht ist?"
-"Denn wenn du mit deiner Gegenpartei vor die Obrigkeit gehst, so gib dir auf dem Wege Mühe, von ihr loszukommen, damit sie dich nicht etwa zu dem Richter hinschleppe; und der Richter wird dich dem Gerichtsdienerüberliefern, und der Gerichtsdiener dich ins Gefängnis werfen."
+"Denn wenn du mit deiner Gegenpartei vor die Obrigkeit gehst, so gib dir auf dem Wege Mühe, von ihr loszukommen, damit sie #dich nicht etwa zu dem Richter hinschleppe; und der Richter wird dich dem Gerichtsdienerüberliefern, und der Gerichtsdiener dich ins Gefängnis werfen."
 "Ich sage dir

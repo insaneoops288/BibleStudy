@@ -26,4 +26,4 @@
 "Ai u suall në mënyrë të neveritshme duke u dhënë pas idhujve, ashtu si kishin bërë Amorejtë që Zoti i kishte dëbuar përpara bijve të Izraelit."
 "Kur Ashabi dëgjoi këto fjalë, grisi rrobat e tij, e mbuloi trupin me një thes dhe agjeroi; binte në shtrat i mbështjellë me thesin dhe ecte si i përvuajtur."
 "Atëherë fjala e Zotit iu drejtua Elias, Tishbitit, duke i thënë
-"""A e pe si u poshtërua Ashabi para meje? Duke qenë se u poshtërua para meje, unë nuk do ta godas me fatkeqësinë sa është i gjallë, por do të dërgoj fatkeqësinë mbi shtëpinë e tij gjatë jetës së birit të tij""."
+"""A e pe si u poshtërua Ashabi para meje? Duke qenë se u poshtërua para meje, unë nuk do ta godas me #fatkeqësinë sa është i gjallë, por do të dërgoj fatkeqësinë mbi shtëpinë e tij gjatë jetës së birit të tij""."

@@ -2,8 +2,8 @@
 "I wziął go Saul dnia onego, ani mu dopuścił, żeby się wracał do domu ojca swego."
 "A tak uczynił Jonatan z Dawidem przymierze, bo go miłował jak duszę swoję."
 "A zdjawszy z siebie Jonatan płaszcz, który miał na sobie, dał go Dawidowi, i szaty swe, aż do miecza swego, i aż do pasa swego rycerskiego."
-"I wychadzał Dawid do wszystkiego, do czego go kolwiek posyłał Saul, a roztropnie się sprawował; i przełożył go Saul nad rycerstwem, i był wdzięcznym w oczach wszystkiego ludu, także i w oczach sług Saulowych."
-"I stało się, gdy się wracali, a Dawid się też wracał od porażki Filistynów, że wyszły niewiasty ze wszystkich miast Izraelskich, śpiewając i grając przeciwko Saulowi królowi z bębnami, z weselem, i z gęślami."
+"I wychadzał Dawid do wszystkiego, do czego go kolwiek posyłał Saul, a roztropnie się sprawował; i przełożył go #Saul nad rycerstwem, i był wdzięcznym w oczach wszystkiego ludu, także i w oczach sług Saulowych."
+"I stało się, gdy się wracali, a Dawid się też wracał od porażki Filistynów, że wyszły niewiasty ze #wszystkich miast Izraelskich, śpiewając i grając przeciwko Saulowi królowi z bębnami, z weselem, i z gęślami."
 "A śpiewając na przemiany one niewiasty, grały i mówiły
 "I rozgniewał się Saul bardzo, bo się nie podobały w oczach jego te słowa; i rzekł
 "Przetoż Saul krzywo patrzył na Dawida od onegoż dnia i na potem."
@@ -24,7 +24,7 @@
 "Tedy słudzy Saulowi oznajmili mu, mówiąc
 "I rzekł Saul
 "Tedy słudzy jego powiedzieli te słowa Dawidowi; i spodobało się to Dawidowi, aby został zięciem królewskim; a jeszcze się nie były wypełniły dni one."
-"Wstał tedy Dawid, i poszedł, on i mężowie jego, i zabił z Filistynów dwieście mężów, i przyniósł Dawid nieobrzezki ich, i oddano je spełna królowi, aby był zięciem królewskim. A tak dał mu Saul Michol, córkę swą za żonę."
+"Wstał tedy Dawid, i poszedł, on i mężowie jego, i zabił z Filistynów dwieście mężów, i przyniósł Dawid nieobrzezki ich, #i oddano je spełna królowi, aby był zięciem królewskim. A tak dał mu Saul Michol, córkę swą za żonę."
 "A widząc Saul, i bacząc, że Pan był z Dawidem, a iż Michol, córka jego, miłowała go,"
 "Tem więcej Saul obawiał się Dawida, i stał się Saul nieprzyjacielem Dawidowi po wszystkie dni."
 "I wpadały książęta Filistyńskie do ziemi. A kiedykolwiek wpadały, roztropniej sobie poczynał Dawid nad wszystkie sługi Saulowe; przetoż sławne było imię jego bardzo."

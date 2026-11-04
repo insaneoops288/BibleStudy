@@ -31,4 +31,4 @@
 "Yaong lahat na nangabilang sa kampamento ng Dan, ay isang daan at limang pu't pitong libo at anim na raan. Sila ang magsisisulong na huli, ayon sa kanilang mga watawat."
 "Ito ang nangabilang sa mga anak ni Israel, ayon sa mga sangbahayan ng kanilang mga magulang
 "Datapuwa't ang mga Levita ay hindi ibinilang sa mga anak ni Israel
-"Gayon ginawa ng mga anak ni Israel; ayon sa lahat ng iniutos ng Panginoon kay Moises ay gayon sila humantong sa siping ng kanilang mga watawat, at gayon sila nagsisulong, na bawa't isa'y ayon sa kanilang mga angkan, ayon sa mga sangbahayan ng kanilang mga magulang."
+"Gayon ginawa ng mga anak ni Israel; ayon sa lahat ng iniutos ng Panginoon kay Moises ay gayon sila humantong sa siping ng kanilang #mga watawat, at gayon sila nagsisulong, na bawa't isa'y ayon sa kanilang mga angkan, ayon sa mga sangbahayan ng kanilang mga magulang."

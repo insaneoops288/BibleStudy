@@ -47,7 +47,7 @@
 "Und Hadad starb, und es ward König an seiner Statt Samla von Masreka."
 "Und Samla starb, und es ward König an seiner Statt Saul von Rechobot am Strome."
 "Und Saul starb, und es ward König an seiner Statt Baal-Chanan, der Sohn Achbors."
-"Und Baal-Chanan starb, und es ward König an seiner Statt Hadad, und der Name seiner Stadt war Pagi, und der Name seines Weibes Mehetabeel, die Tochter Matreds, der Tochter Me-Sahabs. Und Hadad starb."
+"Und Baal-Chanan starb, und es ward König an seiner Statt Hadad, und der Name seiner Stadt war #Pagi, und der Name seines Weibes Mehetabeel, die Tochter Matreds, der Tochter Me-Sahabs. Und Hadad starb."
 "Und[dies] waren die Fürsten von Edom
 "der Fürst von Jetet, der Fürst von Oholibama, der Fürst von Ela, der Fürst von Pinon,"
 "der Fürst von Kenas, der Fürst von Teman,"

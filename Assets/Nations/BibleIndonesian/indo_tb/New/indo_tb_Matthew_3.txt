@@ -8,8 +8,8 @@
 "Jadi hasilkanlah buah yang sesuai dengan pertobatan."
 "Dan janganlah mengira, bahwa kamu dapat berkata dalam hatimu
 "Kapak sudah tersedia pada akar pohon dan setiap pohon yang tidak menghasilkan buah yang baik, pasti ditebang dan dibuang ke dalam api."
-"Aku membaptis kamu dengan air sebagai tanda pertobatan, tetapi Ia yang datang kemudian dari padaku lebih berkuasa dari padaku dan aku tidak layak melepaskan kasut-Nya. Ia akan membaptiskan kamu dengan Roh Kudus dan dengan api."
-"Alat penampi sudah ditangan-Nya. Ia akan membersihkan tempat pengirikan-Nya dan mengumpulkan gandum-Nya ke dalam lumbung, tetapi debu jerami itu akan dibakar-Nya dalam api yang tidak terpadamkan."""
+"Aku membaptis kamu dengan air sebagai tanda pertobatan, tetapi Ia yang datang kemudian dari padaku lebih berkuasa dari #padaku dan aku tidak layak melepaskan kasut-Nya. Ia akan membaptiskan kamu dengan Roh Kudus dan dengan api."
+"Alat penampi sudah ditangan-Nya. Ia akan membersihkan tempat pengirikan-Nya dan mengumpulkan gandum-Nya ke dalam #lumbung, tetapi debu jerami itu akan dibakar-Nya dalam api yang tidak terpadamkan."""
 "Maka datanglah Yesus dari Galilea ke Yordan kepada Yohanes untuk dibaptis olehnya."
 "Tetapi Yohanes mencegah Dia, katanya
 "Lalu Yesus menjawab, kata-Nya kepadanya

@@ -15,11 +15,11 @@
 "Én pedig mondék
 "De kelj fel, és állj lábaidra
 "Megszabadítván téged e néptõl és a pogányoktól, kik közé most küldelek,"
-"Hogy megnyissad szemeiket, hogy setétségbõl világosságra és a Sátánnak hatalmából az Istenhez térjenek, hogy bûneiknek bocsánatát és a megszenteltettek között osztályrészt nyerjenek az én bennem való hit által."
+"Hogy megnyissad szemeiket, hogy setétségbõl világosságra és a Sátánnak hatalmából az Istenhez térjenek, hogy bûneiknek #bocsánatát és a megszenteltettek között osztályrészt nyerjenek az én bennem való hit által."
 "Azért, Agrippa király, nem levék engedetlen a mennyei látás iránt;"
-"Hanem elõször a Damaskusbelieknek és Jeruzsálembelieknek, majd Júdeának egész tartományában és a pogányoknak hirdettem, hogy bánják meg bûneiket és térjenek meg az Istenhez, a megtéréshez méltó cselekedeteket cselekedvén."
+"Hanem elõször a Damaskusbelieknek és Jeruzsálembelieknek, majd Júdeának egész tartományában és a pogányoknak hirdettem, hogy #bánják meg bûneiket és térjenek meg az Istenhez, a megtéréshez méltó cselekedeteket cselekedvén."
 "Ezekért akartak engem megölni a zsidók, megfogván a templomban."
-"De Istentõl segítséget vévén, mind e mai napig állok, bizonyságot tévén mind kicsinynek, mind nagynak, semmit sem mondván azokon kívül, a mikrõl mind a próféták megmondották, mind Mózes, hogy be fognak teljesedni
+"De Istentõl segítséget vévén, mind e mai napig állok, bizonyságot tévén mind kicsinynek, mind nagynak, semmit sem #mondván azokon kívül, a mikrõl mind a próféták megmondották, mind Mózes, hogy be fognak teljesedni
 "Hogy a Krisztusnak szenvedni kell, hogy mint a halottak feltámadásából elsõ, világosságot fog hirdetni e népnek és a pogányoknak."
 "Mikor pedig õ ezeket mondá a maga mentségére, Festus nagy fenszóval monda
 "Õ pedig monda

@@ -10,7 +10,7 @@
 "Kto wierny jest w małem, i w wielu wiernym jest; a kto w małem niesprawiedliwy, i w wielu niesprawiedliwym jest."
 "Ponieważeście tedy w mammonie niesprawiedliwej wiernymi nie byli, prawdziwego któż wam powierzy?"
 "A jeźliście w cudzem wiernymi nie byli, któż wam da, co waszego jest?"
-"Żaden sługa nie może dwom panom służyć, gdyż albo jednego będzie miał w nienawiści, a drugiego będzie miłował; albo się jednego trzymać będzie, a drugim pogardzi; nie możecie Bogu służyć i mammonie."
+"Żaden sługa nie może dwom panom służyć, gdyż albo jednego będzie miał w nienawiści, a drugiego będzie #miłował; albo się jednego trzymać będzie, a drugim pogardzi; nie możecie Bogu służyć i mammonie."
 "A słuchali tego wszystkiego i Faryzeuszowie, którzy byli łakomi, i naśmiewali się z niego."
 "I rzekł im
 "Zakon i prorocy aż do Jana; a od tego czasu królestwo Boże opowiadane bywa, a każdy się do niego gwałtem ciśnie."

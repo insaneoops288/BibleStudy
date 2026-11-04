@@ -9,5 +9,5 @@
 "Am fost mut, nu mi-am deschis gura, deoarece tu ai făcut [aceasta]."
 "Îndepărtează lovitura ta de mine, sunt mistuit de lovitura mâinii tale."
 "Când cu mustrări tu corectezi pe om pentru nelegiuire, faci [ca] frumusețea lui să se mistuie ca o molie; cu adevărat fiecare om [este] deșertăciune. Selah."
-"Ascultă rugăciunea mea, DOAMNE, și deschide urechea la strigătul meu; nu tăcea la lacrimile mele, pentru că eu [sunt] străin [și] un locuitor temporar înaintea ta, precum [au fost ]toți părinții mei."
+"Ascultă rugăciunea mea, DOAMNE, și deschide urechea la strigătul meu; nu tăcea la lacrimile mele, pentru că #eu [sunt] străin [și] un locuitor temporar înaintea ta, precum [au fost ]toți părinții mei."
 "Cruță-mă, ca să [îmi] regăsesc puterea, înainte de a mă duce de aici și a nu mai fi."

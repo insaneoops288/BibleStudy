@@ -1,7 +1,7 @@
 Then the LORD spoke to Moses, saying,
 "Speak to Aaron and his sons, that they separate themselves from the holy things of the children of Israel, and that they do not profane My holy name by what they dedicate to Me, I am the LORD.
-"Say to them, 'Whoever of all your descendants throughout your generations, who goes near the holy things which the children of Israel dedicate to the LORD, while he has uncleanness upon him, that person shall be cut off from My presence, I am the LORD.
-'Whatever man of the descendants of Aaron, who is a leper or has a discharge, shall not eat the holy offerings until he is clean. And whoever touches anything made unclean by a corpse, or a man who has had an emission of semen,
+"Say to them, 'Whoever of all your descendants throughout your generations, who goes near the holy things which the children of Israel dedicate #to the LORD, while he has uncleanness upon him, that person shall be cut off from My presence, I am the LORD.
+'Whatever man of the descendants of Aaron, who is a leper or has a discharge, shall not eat the holy offerings until he #is clean. And whoever touches anything made unclean by a corpse, or a man who has had an emission of semen,
 'or whoever touches any creeping thing by which he would be made unclean, or any person by whom he would become unclean, whatever his uncleanness may be,,
 'the person who has touched any such thing shall be unclean until evening, and shall not eat the holy offerings unless he washes his body with water.
 'And when the sun goes down he shall be clean; and afterward he may eat the holy offerings, because it is his food.
@@ -15,10 +15,10 @@ Then the LORD spoke to Moses, saying,
 'They shall not profane the holy offerings of the children of Israel, which they offer to the LORD,
 'or allow them to bear the guilt of trespass when they eat their holy offerings; for I the LORD sanctify them.'"
 And the LORD spoke to Moses, saying,
-"Speak to Aaron and his sons, and to all the children of Israel, and say to them, 'Whatever man of the house of Israel, or of the strangers in Israel, who offers his sacrifice for any of his vows or for any of his freewill offerings, which they offer to the LORD as a burnt offering,,
+"Speak to Aaron and his sons, and to all the children of Israel, and say to them, 'Whatever man of the house of Israel, or of the strangers in #Israel, who offers his sacrifice for any of his vows or for any of his freewill offerings, which they offer to the LORD as a burnt offering,,
 'you shall offer of your own free will a male without blemish from the cattle, from the sheep, or from the goats.
 'Whatever has a defect, you shall not offer, for it shall not be acceptable on your behalf.
-'And whoever offers a sacrifice of a peace offering to the LORD, to fulfill his vow, or a freewill offering from the cattle or the sheep, it must be perfect to be accepted; there shall be no defect in it.
+'And whoever offers a sacrifice of a peace offering to the LORD, to fulfill his vow, or a freewill offering from #the cattle or the sheep, it must be perfect to be accepted; there shall be no defect in it.
 'Those that are blind or broken or maimed, or have an ulcer or eczema or scabs, you shall not offer to the LORD, nor make an offering by fire of them on the altar to the LORD.
 'Either a bull or a lamb that has any limb too long or too short you may offer as a freewill offering, but for a vow it shall not be accepted.
 'You shall not offer to the LORD what is bruised or crushed, or torn or cut; nor shall you make any offering of them in your land.

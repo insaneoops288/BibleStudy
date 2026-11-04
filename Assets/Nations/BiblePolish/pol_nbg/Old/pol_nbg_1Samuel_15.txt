@@ -1,12 +1,12 @@
 "Potem Samuel powiedział do Saula
 "Tak mówi WIEKUISTY Zastępów
-"Dlatego teraz idź i pobij Amaleka, i poddaj zaklęciu wszystko, co do niego należy; nie ulituj się nad nim, lecz przebijaj zarówno mężczyzn, jak i kobiety, dzieci i niemowlęta, woły i owce, wielbłądy i osły."
+"Dlatego teraz idź i pobij Amaleka, i poddaj zaklęciu wszystko, co do niego należy; nie ulituj się nad #nim, lecz przebijaj zarówno mężczyzn, jak i kobiety, dzieci i niemowlęta, woły i owce, wielbłądy i osły."
 "Wtedy Saul zwołał lud i odbył ich przegląd w Telaim dwieście tysięcy pieszych, a nadto dziesięć tysięcy judzkich mężów."
 "I Saul dotarł do stolicy Amaleka i w dolinie uderzył na niego."
 "Lecz Saul powiedział do Kenijczyka
 "A Saul poraził Amaleka od Chawili aż do Szur, które dochodzi aż do Micraim."
 "Także żywcem ujął Agaga, króla Amalekitów, zaś cały lud wytępił ostrzem miecza."
-"Ale Saul, a także lud, ulitowali się nad Agagem, nad najlepszym z trzód i rogacizny, nad dwuroczniakami, nad tucznymi baranami i w ogóle nad wszystkim, co przedniejsze, i nie chcieli tego wytępić; zaś wytępili wszelkie liche i słabowite."
+"Ale Saul, a także lud, ulitowali się nad Agagem, nad najlepszym z trzód i rogacizny, nad dwuroczniakami, nad tucznymi baranami #i w ogóle nad wszystkim, co przedniejsze, i nie chcieli tego wytępić; zaś wytępili wszelkie liche i słabowite."
 "Więc Samuela doszło słowo WIEKUISTEGO, mówiąc
 "Żałuję, że Saula ustanowiłem królem, ponieważ ode Mnie odstąpił, a Moich słów nie spełnił. I martwiło to Samuela, więc całą noc wołał do WIEKUISTEGO."
 "Potem Samuel wstał, by rano spotkać się z Saulem; ale dano znać Samuelowi, mówiąc

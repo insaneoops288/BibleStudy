@@ -12,12 +12,12 @@
 "Niin vie häntä huoneeses ja anna hänen keritä hiuksensa ja leikata kyntensä,"
 "Ja riisua vaatteensa, joissa hän vangittiin, ja anna hänen istua huoneessas, ja itkeä kuukauden isänsä ja äitiänsä
 "Ja jos tapahtuu, ettei hän sinulle kelpaa, niin anna hänen mennä kuhunka hän tahtoo, ja älä suinkaan myy häntä rahaan
-"Jos jollakin miehellä on kaksi emäntää, yksi, jota hän rakastaa, ja toinen, jota hän vihaa, ja ne synnyttävät hänelle lapsia, sekä se jota hän rakastaa, että se jota hän vihaa, niin että esikoinen on sen, jota hän vihaa;"
+"Jos jollakin miehellä on kaksi emäntää, yksi, jota hän rakastaa, ja toinen, jota hän vihaa, ja ne synnyttävät hänelle lapsia, #sekä se jota hän rakastaa, että se jota hän vihaa, niin että esikoinen on sen, jota hän vihaa;"
 "Ja aika tulee, että hän lastensa välillä perimisen jakaa, niin ei hän taida tehdä rakkaamman poikaa esikoiseksensa vihattavan esikoisen edestä;"
-"Vaan hänen pitää tunteman vihattavan pojan esikoiseksensa, niin että hän antaa hänelle kaksinkertaisesti kaikista niistä, mitä häneltä löydetään; sillä se on hänen ensimäinen voimansa, ja hänelle tulee esikoisen oikeus."
+"Vaan hänen pitää tunteman vihattavan pojan esikoiseksensa, niin että hän antaa hänelle kaksinkertaisesti kaikista niistä, #mitä häneltä löydetään; sillä se on hänen ensimäinen voimansa, ja hänelle tulee esikoisen oikeus."
 "Jos jollakin on itsevaltainen ja kovakorvainen poika, joka ei kuule isänsä ja äitinsä ääntä, ja kuin he kurittavat häntä, ei heitä tottele;"
 "Niin pitää hänen isänsä ja äitinsä hänen ottaman kiinni, ja viemän kaupunkinsa vanhimpain ja portin eteen,"
 "Ja sanokaan kaupunkinsa vanhimmille
 "Niin pitää kaiken kaupungin kansan hänen kuoliaaksi kivittämän
 "Jos joku on tehnyt jonkun synnin, joka kuoleman on ansainnut, ja hirsipuussa kuoletetaan,"
-"Niin ei pidä hänen ruumiinsa yötä puussa pidettämän, mutta haudatkaat häntä kohta sinä päivänä; sillä se on kirottu Jumalalta, joka hirtetty on, ettet sinä saastuttaisi sinun maatas, jonka Herra sinun Jumalas sinulle perimiseksi antaa."
+"Niin ei pidä hänen ruumiinsa yötä puussa pidettämän, mutta haudatkaat häntä kohta sinä päivänä; sillä se on kirottu #Jumalalta, joka hirtetty on, ettet sinä saastuttaisi sinun maatas, jonka Herra sinun Jumalas sinulle perimiseksi antaa."

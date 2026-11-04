@@ -18,7 +18,7 @@
 "Także by panowały dniem i nocą, oraz przedzielały między światłem, a ciemnością. I Bóg widział, że jest dobrze."
 "I był wieczór, i był ranek dzień czwarty."
 "Bóg też powiedział
-"I Bóg stworzył owe wielkie potwory; wszelkie żyjące istoty według swojego rodzaju, które się poruszały i którymi zaroiły się wody; oraz wszelkie skrzydlate ptactwo według swojego rodzaju. I Bóg widział, że jest dobrze."
+"I Bóg stworzył owe wielkie potwory; wszelkie żyjące istoty według swojego rodzaju, które się poruszały i którymi #zaroiły się wody; oraz wszelkie skrzydlate ptactwo według swojego rodzaju. I Bóg widział, że jest dobrze."
 "Więc Bóg im pobłogosławił i powiedział
 "I był wieczór, i był ranek dzień piąty."
 "Bóg też powiedział

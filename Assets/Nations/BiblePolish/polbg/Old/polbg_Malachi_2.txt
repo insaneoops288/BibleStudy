@@ -1,5 +1,5 @@
 "A tak teraz do was mówię to rozkazanie, o kapłani!"
-"Jeźli nie usłuchacie, i jeźli nie złożycie do serca, abyście dali chwałę imieniowi memu, mówi Pan zastępów, tedy poślę na was przeklęstwo, a przeklinać będę błogosławieństwa wasze; owszem jużem je przeklął
+"Jeźli nie usłuchacie, i jeźli nie złożycie do serca, abyście dali chwałę imieniowi memu, mówi Pan #zastępów, tedy poślę na was przeklęstwo, a przeklinać będę błogosławieństwa wasze; owszem jużem je przeklął
 "Oto, Ja wam popsuję siewy wasze, a wrzucę łajno na twarzy wasze, łajno, mówię, ofiar waszych, tak, że was przytargnie do siebie."
 "I dowiecie się, iżem posłał do was to rozkazanie, aby było przymierze moje z Lewim, mówi Pan zastępów."
 "Przymierze moje było z nim żywota i pokoju, a dałem mu je dla bojaźni; bo się mnie bał, i dla imienia mojego skruszony był."
@@ -13,5 +13,5 @@
 "A toście drugi raz uczynili, okrywając łzami ołtarz Pański, płaczem i wołaniem, tak, że więcej nie patrzy na dar, i nie przyjmuje wdzięcznej ofiary z ręki waszej."
 "Wszakże mówicie
 "Bo azaż nie uczynił jednym, choć mu jeszcze ducha zbywało? A czemuż jednym? aby szukali nasienia Bożego; a tak strzeżcie ducha swego, a z żoną młodości swojej się zdradliwie nie obchodźcie;"
-"Bo on ma w nienawiści opuszczenie żony, mówi Pan, Bóg Izraelski, przto że taki okrywa okrucieństwo płaszczem jego, mówi Pan zastępów; a tak strzeżcie ducha waszego, a nie obchodźcie się zdradliwie."
+"Bo on ma w nienawiści opuszczenie żony, mówi Pan, Bóg Izraelski, przto że taki okrywa okrucieństwo #płaszczem jego, mówi Pan zastępów; a tak strzeżcie ducha waszego, a nie obchodźcie się zdradliwie."
 "Pracęście zadali Panu słowy swojemi, a przecię mówicie

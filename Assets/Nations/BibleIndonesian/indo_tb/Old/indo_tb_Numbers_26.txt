@@ -6,7 +6,7 @@
 "dari Hezron kaum orang Hezron dan dari Karmi kaum orang Karmi."
 "Itulah kaum-kaum orang Ruben, dan orang-orang yang dicatat dari mereka berjumlah empat puluh tiga ribu tujuh ratus tiga puluh orang."
 "Adapun anak Palu ialah Eliab,"
-"dan anak-anak Eliab ialah Nemuel, Datan dan Abiram. Datan dan Abiram, orang-orang yang dipilih oleh umat itu, ialah orang-orang yang telah membantah Musa dan Harun dalam kumpulan Korah, ketika mereka membantah TUHAN,"
+"dan anak-anak Eliab ialah Nemuel, Datan dan Abiram. Datan dan Abiram, orang-orang yang dipilih oleh umat itu, #ialah orang-orang yang telah membantah Musa dan Harun dalam kumpulan Korah, ketika mereka membantah TUHAN,"
 "tetapi bumi membuka mulutnya dan menelan mereka bersama-sama dengan Korah, ketika kumpulan itu mati, ketika kedua ratus lima puluh orang itu dimakan api, sehingga mereka menjadi peringatan."
 "Tetapi anak-anak Korah tidaklah mati."
 "Bani Simeon, menurut kaum mereka, ialah
@@ -51,7 +51,7 @@
 "Itulah orang-orang yang dicatat dari orang Israel, enam ratus satu ribu tujuh ratus tiga puluh orang banyaknya."
 "TUHAN berfirman kepada Musa
 """Kepada suku-suku itulah harus dibagikan tanah itu menjadi milik pusaka menurut nama-nama yang dicatat;"
-"kepada yang besar jumlahnya haruslah engkau memberikan milik pusaka yang besar dan kepada yang kecil jumlahnya haruslah engkau memberikan milik pusaka yang kecil; kepada setiap suku sesuai dengan jumlah orang-orangnya yang dicatat haruslah diberikan milik pusaka."
+"kepada yang besar jumlahnya haruslah engkau memberikan milik pusaka yang besar dan kepada yang kecil jumlahnya haruslah engkau memberikan #milik pusaka yang kecil; kepada setiap suku sesuai dengan jumlah orang-orangnya yang dicatat haruslah diberikan milik pusaka."
 "Tetapi tanah itu harus dibagikan dengan membuang undi; menurut nama suku-suku nenek moyang mereka haruslah mereka mendapat milik pusaka;"
 "seperti yang ditunjukkan undian haruslah dibagikan milik pusaka setiap suku, di antara yang besar dan yang kecil jumlahnya."""
 "Inilah orang-orang yang dicatat dari orang Lewi, menurut kaum mereka
@@ -59,7 +59,7 @@
 "Dan nama isteri Amram ialah Yokhebed, anak perempuan Lewi, yang dilahirkan bagi Lewi di Mesir; dan bagi Amram perempuan itu melahirkan Harun dan Musa dan Miryam, saudara mereka yang perempuan."
 "Pada Harun lahir Nadab dan Abihu, Eleazar dan Itamar."
 "Tetapi Nadab dan Abihu mati, ketika mereka mempersembahkan persembahan api yang asing ke hadapan TUHAN."
-"Dan orang-orang yang dicatat dari mereka berjumlah dua puluh tiga ribu orang, semuanya laki-laki, yang berumur satu bulan ke atas, sebab mereka tidak dicatat bersama-sama dengan orang Israel, karena mereka tidak diberikan milik pusaka di tengah-tengah orang Israel."
+"Dan orang-orang yang dicatat dari mereka berjumlah dua puluh tiga ribu orang, semuanya laki-laki, yang berumur satu bulan ke atas, #sebab mereka tidak dicatat bersama-sama dengan orang Israel, karena mereka tidak diberikan milik pusaka di tengah-tengah orang Israel."
 "Itulah orang-orang yang dicatat oleh Musa dan imam Eleazar, ketika keduanya mencatat orang-orang Israel di dataran Moab di tepi sungai Yordan dekat Yerikho."
 "Di antara mereka tidak ada terdapat seorangpun yang dicatat Musa dan imam Harun, ketika keduanya mencatat orang Israel di padang gurun Sinai"
 "sebab TUHAN telah berfirman tentang mereka

@@ -28,5 +28,5 @@
 "Meghala pedig Hárán, az õ atyjának Thárénak szemei elõtt, az õ születésének földjén, Úr-Kaszdimban."
 "Ábrám pedig és Nákhor võnek magoknak feleséget
 "Szárai pedig magtalan vala; nem vala néki gyermeke."
-"És felvevé Tháré Ábrámot az õ fiát, és Lótot, Háránnak fiát, az õ unokáját, és Szárait, az õ menyét, Ábrámnak az õ fiának feleségét, és kiindulának együtt Úr-Kaszdimból, hogy Kanaán földére menjenek. És eljutának Háránig, és ott letelepedének."
+"És felvevé Tháré Ábrámot az õ fiát, és Lótot, Háránnak fiát, az õ unokáját, és Szárait, az õ menyét, Ábrámnak #az õ fiának feleségét, és kiindulának együtt Úr-Kaszdimból, hogy Kanaán földére menjenek. És eljutának Háránig, és ott letelepedének."
 "Vala pedig Tháré kétszáz öt esztendõs, és meghala Tháré Háránban."

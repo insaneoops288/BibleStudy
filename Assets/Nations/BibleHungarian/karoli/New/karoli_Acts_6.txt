@@ -6,7 +6,7 @@
 "Kiket állatának az apostolok elébe; és miután imádkoztak, kezeiket reájok veték."
 "És az Isten ígéje növekedék; és sokasodék nagyon a tanítványok száma Jeruzsálemben; és a papok közül is nagy sokan követék a hitet."
 "István pedig teljes lévén hittel és erõvel, nagy csodákat és jeleket cselekszik vala a nép között."
-"Elõállának azonban némelyek ahhoz a zsinagógához tartozók közül, mely a szabadosokénak, Czirénebeliekének, Alexandriabeliekének és a Czilicziából és Ázsiából valókénak neveztetett, kik Istvánnal vetekednek vala."
+"Elõállának azonban némelyek ahhoz a zsinagógához tartozók közül, mely a szabadosokénak, Czirénebeliekének, Alexandriabeliekének #és a Czilicziából és Ázsiából valókénak neveztetett, kik Istvánnal vetekednek vala."
 "De nem állhattak ellene a bölcseségnek és a Léleknek, mely által szól vala."
 "Akkor felbujtottak valami embereket, kik mondának
 "És felzendíték a népet, a véneket és az írástudókat; és reá rohanván, magukkal ragadák õt, és vivék a tanács elé;"

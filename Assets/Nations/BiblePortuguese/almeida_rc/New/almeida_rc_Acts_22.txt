@@ -1,6 +1,6 @@
 "VARÕES irmãos e pais, ouvi agora a minha defesa perante vós."
 "(E, quando ouviram falar-lhe em língua hebraica, maior silêncio guardaram). E disse"
-"Quanto a mim, sou varão judeu, nascido em Tarso da Cilícia, e nesta cidade criado aos pés de Gamaliel, instruído conforme a verdade da lei de nossos pais, zelador de Deus, como todos vós hoje sois."
+"Quanto a mim, sou varão judeu, nascido em Tarso da Cilícia, e nesta cidade criado aos pés de Gamaliel, #instruído conforme a verdade da lei de nossos pais, zelador de Deus, como todos vós hoje sois."
 "E persegui este caminho até à morte, prendendo, e metendo em prisões, tanto varões como mulheres,"
 "Como também o sumo sacerdote me é testemunha, e todo o conselho dos anciãos
 "Ora aconteceu que, indo eu já de caminho, e chegando perto de Damasco, quase ao meio dia, de repente me rodeou uma grande luz do céu,"
@@ -27,4 +27,4 @@
 "E, vindo o tribuno, disse-lhe
 "E respondeu o tribuno
 "E logo dele se apartaram os que o haviam de examinar; e até o tribuno teve temor, quando soube que era romano, visto que o tinha ligado."
-"E no dia seguinte, querendo saber ao certo a causa por que era acusado pelos judeus, soltou-o das prisões, e mandou vir os principais dos sacerdotes, e todo o seu conselho; e, trazendo Paulo, o apresentou diante deles."
+"E no dia seguinte, querendo saber ao certo a causa por que era acusado pelos judeus, soltou-o das prisões, e #mandou vir os principais dos sacerdotes, e todo o seu conselho; e, trazendo Paulo, o apresentou diante deles."

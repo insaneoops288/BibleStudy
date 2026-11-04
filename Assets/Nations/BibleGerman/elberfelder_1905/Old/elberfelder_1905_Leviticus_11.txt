@@ -7,7 +7,7 @@
 "und das Schwein, denn es hat gespaltene Hufe, und zwar ganz gespaltene Hufe, aber es wiederkäut nicht
 "Von ihrem Fleische sollt ihr nicht essen und ihr Aas nicht anrühren
 "Dieses sollt ihr essen von allem, was in den Wassern ist
-"aber alles, was keine Floßfedern und Schuppen hat in den Meeren und in den Flüssen, von allem Gewimmel der Wasser und von jedem lebendigen Wesen, das in den Wassern ist, sie sollen euch ein Greuel sein;"
+"aber alles, was keine Floßfedern und Schuppen hat in den Meeren und in den Flüssen, von allem Gewimmel der #Wasser und von jedem lebendigen Wesen, das in den Wassern ist, sie sollen euch ein Greuel sein;"
 "ja, ein Greuel sollen sie euch sein
 "Alles, was nicht Floßfedern und Schuppen hat in den Wassern, soll euch ein Greuel sein."
 "Und diese sollt ihr verabscheuen von den Vögeln; sie sollen nicht gegessen werden, ein Greuel sind sie

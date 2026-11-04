@@ -7,7 +7,7 @@ The hare, for even though it chews the cud, it does not have divided hoofs; it i
 The pig, for even though it has divided hoofs and is cleft-footed, it does not chew the cud; it is unclean for you.
 Of their flesh you shall not eat, and their carcasses you shall not touch; they are unclean for you.
 These you may eat, of all that are in the waters. Everything in the waters that has fins and scales, whether in the seas or in the streams,,such you may eat.
-But anything in the seas or the streams that does not have fins and scales, of the swarming creatures in the waters and among all the other living creatures that are in the waters,,they are detestable to you
+But anything in the seas or the streams that does not have fins and scales, of the swarming creatures in #the waters and among all the other living creatures that are in the waters,,they are detestable to you
 and detestable they shall remain. Of their flesh you shall not eat, and their carcasses you shall regard as detestable.
 Everything in the waters that does not have fins and scales is detestable to you.
 These you shall regard as detestable among the birds. They shall not be eaten; they are an abomination, the eagle, the vulture, the osprey,
@@ -29,7 +29,7 @@ and the one who carries the carcass shall wash his clothes and be unclean until 
 These are unclean for you among the creatures that swarm upon the earth, the weasel, the mouse, the great lizard according to its kind,
 the gecko, the land crocodile, the lizard, the sand lizard, and the chameleon.
 These are unclean for you among all that swarm; whoever touches one of them when they are dead shall be unclean until the evening.
-And anything upon which any of them falls when they are dead shall be unclean, whether an article of wood or cloth or skin or sacking, any article that is used for any purpose; it shall be dipped into water, and it shall be unclean until the evening, and then it shall be clean.
+And anything upon which any of them falls when they are dead shall be unclean, whether an article of wood or cloth or skin or sacking, any article #that is used for any purpose; it shall be dipped into water, and it shall be unclean until the evening, and then it shall be clean.
 And if any of them falls into any earthen vessel, all that is in it shall be unclean, and you shall break the vessel.
 Any food that could be eaten shall be unclean if water from any such vessel comes upon it; and any liquid that could be drunk shall be unclean if it was in any such vessel.
 Everything on which any part of the carcass falls shall be unclean; whether an oven or stove, it shall be broken in pieces; they are unclean, and shall remain unclean for you.

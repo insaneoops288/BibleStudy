@@ -24,7 +24,7 @@
 "Ezek a te kalmáraid tökéletes árúkkal, bíbor és hímes köntösökkel és drága ruháknak kötelekkel egybekötött és czédrusfából csinált szekrényeivel, a te sokadalmadban."
 "Tarsis hajói hordozták árúidat, és megtelél, és felette igen híressé levél a tengerek szívében."
 "Nagy vizekre vivének téged a te evezõid, a keleti szél összetört téged a tengerek szívében."
-"Gazdagságod és árúid, csereárúid, hajósaid és kormányosaid, hasadékaid javítgatói és csereárúid árúsai és minden hadakozó férfiaid, a kik benned vannak, és minden benned való sokaság, beleesnek a tengerek szívébe zuhanásod napján."
+"Gazdagságod és árúid, csereárúid, hajósaid és kormányosaid, hasadékaid javítgatói és csereárúid árúsai és minden hadakozó férfiaid, #a kik benned vannak, és minden benned való sokaság, beleesnek a tengerek szívébe zuhanásod napján."
 "Kormányosaid kiáltásának hangjára megrendülnek a mezõségek."
 "És kiszállnak hajóikból mindnyájan, kik az evezõt fogják, hajósok [és] a tengernek minden kormányosi a szárazföldre lépnek."
 "És hallatják fölötted hangjokat, s keservesen kiáltanak, s port hintenek fejökre, hamuban fetrengenek."

@@ -1,5 +1,5 @@
 "Tämä on Egyptin maan kuorma
-"Ja minä yllytän Egyptiläiset toinen toisensa päälle, niin että yhden pitää sotimaan toista vastaan, yhden ystävän toista vastaan, yhden kaupungin toista vastaan, ja yhden valtakunnan toista vastaan."
+"Ja minä yllytän Egyptiläiset toinen toisensa päälle, niin että yhden pitää sotimaan toista vastaan, #yhden ystävän toista vastaan, yhden kaupungin toista vastaan, ja yhden valtakunnan toista vastaan."
 "Ja ei Egyptiläisillä pidä oleman sydäntä, ja minä teen heidän neuvonsa tyhjäksi. Niin he siis kysyvät epäjumalilta, velhoilta, noidilta, taikureilta ja tietäjiltä."
 "Mutta minä annan Egyptiläiset julmain herrain käsiin; ja kovan kuninkaan pitää hallitseman heitä, sanoo Herra, Herra Zebaot."
 "Ja vesi pitää meressä vähenemän, niin myös virrat pitää kuivuman ja kureentuman."
@@ -17,7 +17,7 @@
 "Ja Egyptin pitää pelkäämän Juudan maata, niin että sen, joka sitä ajattelee, pitää peljästymän Herran Zebaotin neuvoa, jonka hän siitä on pitänyt."
 "Siihen aikaan pitää viisi kaupunkia Egyptissä Kanaanin maan kielellä puhuman, ja vannoman Herran Zebaotin kautta; jokainen heistä pitää hävityksen kaupungiksi kutsuttaman."
 "Silloin pitää Herran Zebaotin alttari keskellä Egyptin maata oleman, ja Herran vartiovaha hänen äärissänsä,"
-"Joka pitää merkiksi ja todistukseksi oleman Herralle Zebaotille Egyptin maassa; sillä heidän pitää Herran tykö huutaman vaivaajainsa tähden, niin hän heille lähettää vapahtajan ja sankarin, joka heitä auttaa."
+"Joka pitää merkiksi ja todistukseksi oleman Herralle Zebaotille Egyptin maassa; sillä heidän pitää Herran tykö #huutaman vaivaajainsa tähden, niin hän heille lähettää vapahtajan ja sankarin, joka heitä auttaa."
 "Ja sinä päivänä pitää Herra tunnettaman Egyptissä ja Egyptiläisten pitää tunteman Herran. Ja he palvelevat häntä uhrilla ja ruokauhrilla, ja lupaavat Herralle lupausta, ja sen pitävät."
 "Ja Herra on vaivaava Egyptiläisiä, hän on vaivaava ja parantava jälleen; sillä he palajavat Herran tykö, ja he rukoilevat häntä, ja hän parantaa heitä."
 "Silloin on tie avoin Egyptistä Assyriaan, Assyrialaisten mennä Egyptiin, ja Egyptiläisten Assyriaan; että Egyptiläiset ja Assyrialaiset ynnä palvelisivat (Jumalaa)."

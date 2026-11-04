@@ -6,12 +6,12 @@
 "En sus días será salvo Judá, e Israel habitará seguro; y éste es su nombre por el cual será llamado
 "Por tanto, he aquí que vienen días, dice Jehová, cuando no dirán más
 "Sino
-"A causa de los profetas mi corazón está quebrantado dentro de mí, todos mis huesos tiemblan; estuve como hombre borracho, y como hombre a quien dominó el vino, delante de Jehová y delante de las palabras de su santidad."
+"A causa de los profetas mi corazón está quebrantado dentro de mí, todos mis huesos tiemblan; estuve como hombre borracho, #y como hombre a quien dominó el vino, delante de Jehová y delante de las palabras de su santidad."
 "Porque la tierra está llena de adúlteros; porque a causa del juramento la tierra está de luto; los pastizales del desierto se secaron; la carrera de ellos es mala, y su fortaleza no [es] recta."
 "Porque tanto el profeta como el sacerdote son fingidos; aun en mi casa hallé su maldad, dice Jehová."
 "Por tanto, como resbaladeros en oscuridad les será su camino; serán empujados, y caerán en él; porque yo traeré mal sobre ellos, año de su castigo, dice Jehová."
 "Y en los profetas de Samaria he visto desatinos; profetizaban en Baal, e hicieron errar a mi pueblo Israel."
-"Y en los profetas de Jerusalén he visto torpezas; cometían adulterios, y andaban en mentiras, y esforzaban las manos de los malos, para que ninguno se convirtiese de su maldad; me fueron todos ellos como Sodoma, y sus moradores como Gomorra."
+"Y en los profetas de Jerusalén he visto torpezas; cometían adulterios, y andaban en mentiras, y esforzaban las manos de los #malos, para que ninguno se convirtiese de su maldad; me fueron todos ellos como Sodoma, y sus moradores como Gomorra."
 "Por tanto, así dice Jehová de los ejércitos contra aquellos profetas
 "Así dice Jehová de los ejércitos
 "Dicen atrevidamente a los que me irritan
@@ -29,7 +29,7 @@
 "¿No [es] mi palabra como fuego, dice Jehová, y como martillo que quebranta la piedra?"
 "Por tanto, he aquí yo contra los profetas, dice Jehová, que hurtan mis palabras cada uno de su compañero."
 "He aquí yo contra los profetas, dice Jehová, que endulzan sus lenguas, y dicen
-"He aquí yo contra los que profetizan sueños mentirosos, dice Jehová, y los cuentan y hacen errar a mi pueblo con sus mentiras y sus lisonjas, y yo no los envié, ni les mandé; por tanto, no son de provecho a este pueblo, dice Jehová."
+"He aquí yo contra los que profetizan sueños mentirosos, dice Jehová, y los cuentan y hacen errar a mi pueblo con sus mentiras #y sus lisonjas, y yo no los envié, ni les mandé; por tanto, no son de provecho a este pueblo, dice Jehová."
 "Y cuando te preguntare este pueblo, o el profeta, o el sacerdote, diciendo
 "Y al profeta, al sacerdote o al pueblo que dijere
 "Así diréis cada cual a su compañero, y cada cual a su hermano

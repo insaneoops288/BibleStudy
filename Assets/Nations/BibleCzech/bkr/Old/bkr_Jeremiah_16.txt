@@ -1,7 +1,7 @@
 "I stalo se slovo Hospodinovo ke mně, řkoucí
 "Nepojímej sobě ženy, aniž měj synů neb dcer na místě tomto."
 "Nebo takto praví Hospodin o synech i dcerách zplozených v místě tomto, a o matkách jejich, kteréž zrodily je, i o jejich otcích, kteříž zplodili je v zemi této
-"Smrtmi přebolestnými pomrou, nebudou oplakáni, ani pochováni; místo hnoje na svrchku země budou, a mečem i hladem do konce zhubeni budou. I budou mrtvá těla jejich za pokrm ptactvu nebeskému a šelmám zemským."
+"Smrtmi přebolestnými pomrou, nebudou oplakáni, ani pochováni; místo hnoje na svrchku země budou, a mečem i hladem #do konce zhubeni budou. I budou mrtvá těla jejich za pokrm ptactvu nebeskému a šelmám zemským."
 "Nebo takto praví Hospodin
 "Když pomrou velicí i malí v zemi této, nebudou pochováni, aniž kvíliti budou nad nimi, aniž se zřeží, aniž sobě lysiny zdělají pro ně."
 "Aniž jim dadí jísti, aby v truchlosti potěšovali jich nad mrtvým, aniž jich napojí z číše potěšení po otci jejich neb matce jejich."

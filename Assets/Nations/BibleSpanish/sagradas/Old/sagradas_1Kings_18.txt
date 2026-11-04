@@ -9,8 +9,8 @@
 "<I>Pero</I>  él dijo
 "Vive el SEÑOR tu Dios, que no ha habido nación ni reino donde mi señor no haya enviado a buscarte; y respondiendo <I>todos</I>
 "¿Y ahora tú dices
-"Y acontecerá que, luego que yo haya partido de ti, el Espíritu del SEÑOR te llevará donde <I>yo</I>  no sepa; y viniendo yo, y dando las nuevas a Acab, y no hallándote él, me matará; y tu siervo teme al SEÑOR desde su  juventud."
-"¿No ha sido dicho a mi señor lo que hice, cuando Jezabel mataba a los profetas del SEÑOR; que escondí de los profetas del SEÑOR cien varones de cincuenta en cincuenta en cuevas, y los mantuve a pan y agua?"
+"Y acontecerá que, luego que yo haya partido de ti, el Espíritu del SEÑOR te llevará donde <I>yo</I>  no sepa; y viniendo yo, #y dando las nuevas a Acab, y no hallándote él, me matará; y tu siervo teme al SEÑOR desde su  juventud."
+"¿No ha sido dicho a mi señor lo que hice, cuando Jezabel mataba a los profetas del SEÑOR; que escondí de #los profetas del SEÑOR cien varones de cincuenta en cincuenta en cuevas, y los mantuve a pan y agua?"
 "¿Y ahora dices tú
 "Y le dijo Elías
 "Entonces Abdías fue a encontrarse con Acab, y le dio el aviso; y Acab vino a recibir a Elías."
@@ -20,7 +20,7 @@
 "Entonces Acab envió a todos los hijos de Israel, y juntó los profetas en el monte del Carmelo."
 "Y acercándose Elías a todo el pueblo, dijo
 "Y Elías tornó a decir al pueblo
-"Dénsenos, pues, dos bueyes, y escójanse ellos uno, y córtenlo en pedazos, y pónganlo sobre leña, mas no pongan fuego debajo; y yo aparejaré el otro buey, y lo pondré sobre leña, y ningún fuego pondré debajo."
+"Dénsenos, pues, dos bueyes, y escójanse ellos uno, y córtenlo en pedazos, y pónganlo sobre leña, mas no pongan #fuego debajo; y yo aparejaré el otro buey, y lo pondré sobre leña, y ningún fuego pondré debajo."
 "Invocad <I>luego</I>  vosotros en el nombre de vuestros dioses, y yo invocaré en el nombre del SEÑOR; y será que el Dios que respondiere por fuego, sea el Dios. Y todo el pueblo respondió, diciendo
 "Entonces Elías dijo a los profetas de Baal
 "Y ellos tomaron el buey que les fue dado, y lo aparejaron, e invocaron en el nombre de Baal desde la mañana hasta el mediodía, diciendo

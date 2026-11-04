@@ -13,7 +13,7 @@
 "Od wschodu bramy trzy, od północy bramy trzy, od południa bramy trzy, od zachodu bramy trzy."
 "A mur miasta miał gruntów dwanaście, a na nich dwanaście imion dwunastu Apostołów Barankowych."
 "A ten, co mówił ze mną, miał trzcinę złotą, a zmierzył miasto i bramy jego, i mur jego."
-"A położenie miasta onego jest czworograniaste, a długość jego taka jest, jako i szerokość. I pomierzył miasto ono trzciną na dwanaście tysięcy stajan; a długość i szerokość i wysokość jego równe są."
+"A położenie miasta onego jest czworograniaste, a długość jego taka jest, jako i szerokość. I pomierzył miasto #ono trzciną na dwanaście tysięcy stajan; a długość i szerokość i wysokość jego równe są."
 "I zmierzył mur jego na sto czterdzieści cztery łokcie miary człowieczej, która jest miara Aniołowa."
 "A było budowanie muru jego z jaspisu; a samo miasto było złoto czyste, podobne szkłu czystemu."
 "A grunty muru miasta ozdobione były wszelkim kamieniem drogim. Pierwszy grunt był jaspis, wtóry szafir, trzeci chalcedon, czwarty szmaragd."

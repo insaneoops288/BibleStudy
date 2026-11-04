@@ -23,7 +23,7 @@
 "Sõt ha valaki az õ ágyán, vagy a holmikon illet is valamit, a melyeken õ ült, tisztátalan legyen estvéig."
 "Ha pedig vele hál valaki, és reá ragad arra az õ havi baja
 "És hogyha sok napig tart az asszonynak az õ vérfolyása a havi bajának idején kivül, vagy ha a folyás a havi bajon túl tart
-"Minden ágy, a melyen fekszik az õ folyásának egész ideje alatt, olyan legyen, mint a havi baja idejében lévõ ágya, és minden holmi is, a melyre ráül, tisztátalan legyen, mint az õ havi bajának tisztátalansága alatt."
+"Minden ágy, a melyen fekszik az õ folyásának egész ideje alatt, olyan legyen, mint a havi baja idejében lévõ #ágya, és minden holmi is, a melyre ráül, tisztátalan legyen, mint az õ havi bajának tisztátalansága alatt."
 "És mindaz is, a ki illeti azokat, tisztátalan lesz, mossa meg azért a ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
 "Ha pedig megtisztul az õ folyásából
 "A nyolczadik napon pedig vegyen elõ két gerliczét vagy két galambfiat, és vigye el azokat a papnak, a gyülekezet sátorának nyílásához."

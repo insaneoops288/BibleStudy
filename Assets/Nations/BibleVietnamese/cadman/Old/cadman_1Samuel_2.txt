@@ -4,10 +4,10 @@
 "Cây cung của kẻ dõng sĩ đã gãy, Còn người yếu mòn thắt lưng bằng sức lực."
 "Kẻ vốn no nê phải làm mướn đặng kiếm ăn, Và người xưa đói đã được no nê, Người đờn bà vốn son sẻ, sanh sản bảy lần, Còn người có nhiều con, ra yếu mỏn."
 "Ðức Giê-hô-va khiến cho chết, cho sống; Ngài đem người xuống mồ mả, Rồi khiến lại lên khỏi đó."
-"Ðức Giê-hô-va làm cho nghèo nàn, và làm cho giàu có; Ngài hạ người xuống, lại nhắc người lên, Ðem kẻ khốn cùng ra khỏi bụi đất, Và rút người nghèo khổ ra ngoài đống phân, Ðặng để họ ngồi bên các quan trưởng, Cùng ban cho một ngôi vinh hiển làm cơ nghiệp;"
+"Ðức Giê-hô-va làm cho nghèo nàn, và làm cho giàu có; Ngài hạ người xuống, lại nhắc người lên, Ðem kẻ khốn cùng ra khỏi bụi đất, Và #rút người nghèo khổ ra ngoài đống phân, Ðặng để họ ngồi bên các quan trưởng, Cùng ban cho một ngôi vinh hiển làm cơ nghiệp;"
 "Vì các trụ của trái đất thuộc về Ðức Giê-hô-va
 "Ðức Giê-hô-va sẽ giữ chơn của các thánh Ngài; Còn những kẻ ác sẽ bị hư mất nơi tăm tối; Vì chẳng do sức riêng mình mà người nào được thắng."
-"Kẻ nào chống cãi Ðức Giê-hô-va sẽ bị phá tan! Từ trên trời cao, Ðức Giê-hô-va sẽ sấm sét cùng chúng nó. Ngài sẽ đoán xét bốn phương của đất, Ban thế lực cho vua Ngài, Và làm cho quyền năng Ðấng chịu xức dầu của Ngài ra lớn."
+"Kẻ nào chống cãi Ðức Giê-hô-va sẽ bị phá tan! Từ trên trời cao, Ðức Giê-hô-va sẽ sấm sét cùng chúng nó. Ngài sẽ đoán #xét bốn phương của đất, Ban thế lực cho vua Ngài, Và làm cho quyền năng Ðấng chịu xức dầu của Ngài ra lớn."
 "Eân-ca-na trở về nhà mình tại Ra-ma, còn đứa trẻ ở lại phục sự Ðức Giê-hô-va trước mặt Hê-li, thầy tế lễ."
 "Hai con trai của Hê-li là người gian tà, chẳng nhận biết Ðức Giê-hô-va."
 "Các thầy tế lễ thường đãi dân sự như vầy
@@ -22,11 +22,11 @@
 "Vả, Hê-li tuổi đã rất cao, được hay mọi điều hai con trai mình làm cho cả Y-sơ-ra-ên và thế nào họ nằm cùng các người nữ hầu việc tại cửa hội mạc."
 "Người nói cùng chúng nó rằng
 "Chẳng khá làm như vậy, hỡi con; điều ta nghe về việc bay vốn không tốt lành; bay khiến dân sự của Ðức Giê-hô-va phạm tội."
-"Nếu người này phạm tội cùng người khác, Ðức Giê-hô-va sẽ đoán xét nó; nhược bằng người phạm tội cùng Ðức Giê-hô-va, ai sẽ cầu thay cho? Song chúng nó không nghe theo lời của cha mình, vì Ðức Giê-hô-va toan giết chúng nó."
+"Nếu người này phạm tội cùng người khác, Ðức Giê-hô-va sẽ đoán xét nó; nhược bằng người phạm tội cùng Ðức Giê-hô-va, ai #sẽ cầu thay cho? Song chúng nó không nghe theo lời của cha mình, vì Ðức Giê-hô-va toan giết chúng nó."
 "Còn gã trai trẻ Sa-mu-ên cứ lớn lên, Ðức Giê-hô-va và người ta đều lấy làm đẹp lòng người."
 "Có một người của Ðức Chúa Trời đến kiếm Hê-li, mà nói rằng
-"Ta đã chọn nhà ấy trong các chi phái Y-sơ-ra-ên, đặng làm thầy tế lễ của ta, dâng của lễ trên bàn thờ ta, xông hương, và mang ê-phót trước mặt ta; ta cũng đã ban cho nhà tổ phụ ngươi các của lễ mà dân Y-sơ-ra-ên dùng lửa dâng lên."
-"Vì sao các ngươi giày đạp dưới chơn những hi sinh và của lễ chay mà ta đã truyền lịnh dâng lên trong đền ta? Ngươi kính trọng các con trai ngươi hơn ta, và các ngươi ăn mập những của lễ tốt nhứt của Y-sơ-ra-ên, dân sự ta!"
+"Ta đã chọn nhà ấy trong các chi phái Y-sơ-ra-ên, đặng làm thầy tế lễ của ta, dâng của lễ trên bàn thờ ta, xông hương, #và mang ê-phót trước mặt ta; ta cũng đã ban cho nhà tổ phụ ngươi các của lễ mà dân Y-sơ-ra-ên dùng lửa dâng lên."
+"Vì sao các ngươi giày đạp dưới chơn những hi sinh và của lễ chay mà ta đã truyền lịnh dâng lên trong đền ta? #Ngươi kính trọng các con trai ngươi hơn ta, và các ngươi ăn mập những của lễ tốt nhứt của Y-sơ-ra-ên, dân sự ta!"
 "Bởi cớ đó, Giê-hô-va Ðức Chúa Trời của Y-sơ-ra-ên phán như vầy
 "Kìa, thì giờ đến, ta sẽ hủy hại sự mạnh mẽ của người và sự mạnh mẽ của nhà cha ngươi, đến đỗi chẳng còn một người già trong họ hàng ngươi nữa."
 "Giữa các phước lành mà Ðức Giê-hô-va giáng cho Y-sơ-ra-ên, ngươi sẽ thấy nhà ngươi bị bần khổ, và trong họ hàng người sẽ chẳng hề có người già nữa."

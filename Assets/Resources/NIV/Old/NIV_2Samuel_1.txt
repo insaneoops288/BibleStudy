@@ -7,7 +7,7 @@ Then David said to the young man who brought him the report, "How do you know th
 When he turned around and saw me, he called out to me, and I said, 'What can I do?'
 "He asked me, 'Who are you?' "'An Amalekite,' I answered.
 "Then he said to me, 'Stand over me and kill me! I am in the throes of death, but I'm still alive.'
-"So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and have brought them here to my lord."
+"So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took #the crown that was on his head and the band on his arm and have brought them here to my lord."
 Then David and all the men with him took hold of their clothes and tore them.
 They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the LORD and the house of Israel, because they had fallen by the sword.
 David said to the young man who brought him the report, "Where are you from?" "I am the son of an alien, an Amalekite," he answered.

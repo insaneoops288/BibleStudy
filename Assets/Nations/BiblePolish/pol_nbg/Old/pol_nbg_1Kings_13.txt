@@ -8,7 +8,7 @@
 "Ale ten mąż odpowiedział królowi
 "Gdyż tak mi nakazano przez słowo WIEKUISTEGO, które brzmiało
 "Po czym odszedł inną drogą; nie wracał tą samą drogą, którą przyszedł do Betel."
-"Zaś w Betel mieszkał pewien stary prorok; i przyszedł jego syn wraz z innymi oraz opowiedział mu wszystko, co uczynił owego dnia mąż Boży w Betel, oraz słowa, które wypowiedział do króla. Kiedy to opowiedzieli swojemu ojcu,"
+"Zaś w Betel mieszkał pewien stary prorok; i przyszedł jego syn wraz z innymi oraz opowiedział mu wszystko, co #uczynił owego dnia mąż Boży w Betel, oraz słowa, które wypowiedział do króla. Kiedy to opowiedzieli swojemu ojcu,"
 "zapytał się ich ojciec
 "Wtedy powiedział do swoich synów
 "I pojechał za Bożym mężem, a gdy go spotkał siedzącego pod dębem, powiedział do niego
@@ -30,5 +30,5 @@
 "Tak złożył jego zwłoki do swojego własnego grobu i opłakiwał go słowami
 "A kiedy go pochował, tak powiedział do swoich synów
 "Bowiem spełnić, spełni się słowo, które z rozkazu WIEKUISTEGO wygłosił przeciw ołtarzowi w Betel oraz przeciw wszystkim przybytkom na wyżynach, które są w miastach samarytańskich."
-"Ale i po tym wydarzeniu, Jerobeam nie nawrócił się ze swojej niecnej drogi, lecz spośród ludu ustanawiał na nowo kapłanów wyżyn. Kto zapragnął – upełnomocniał swoją rękę i zaliczał się do kapłanów wyżyn."
+"Ale i po tym wydarzeniu, Jerobeam nie nawrócił się ze swojej niecnej drogi, lecz spośród ludu ustanawiał #na nowo kapłanów wyżyn. Kto zapragnął – upełnomocniał swoją rękę i zaliczał się do kapłanów wyżyn."
 "Powiększało to grzech domu Jerobeama, by został unicestwiony oraz zgładzony z powierzchni ziemi."

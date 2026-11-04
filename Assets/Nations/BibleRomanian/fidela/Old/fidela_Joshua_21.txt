@@ -1,7 +1,7 @@
 "Și capii părinților leviților s-au apropiat de preotul Eleazar, și de Iosua, fiul lui Nun, și de capii părinților triburilor fiilor lui Israel."
 "Și le-au vorbit în Șilo, în țara Canaanului, spunând
 "Și copiii lui Israel au dat leviților din moștenirea lor, după porunca DOMNULUI, aceste cetăți și împrejurimile lor."
-"Și sorțul a ieșit pentru familiile chehatiților; și fiilor preotului Aaron, dintre leviți, le-au căzut prin sorț treisprezece cetăți din tribul lui Iuda, din tribul lui Simeon și din tribul lui Beniamin."
+"Și sorțul a ieșit pentru familiile chehatiților; și fiilor preotului Aaron, dintre leviți, le-au căzut prin sorț #treisprezece cetăți din tribul lui Iuda, din tribul lui Simeon și din tribul lui Beniamin."
 "Și ceilalți copii ai lui Chehat au avut prin sorț zece cetăți din familiile tribului lui Efraim și din tribul lui Dan și din jumătatea tribului lui Manase."
 "Și copiii lui Gherșon [au avut] prin sorț treisprezece cetăți din familiile tribului lui Isahar și din tribul lui Așer și din tribul lui Neftali și din jumătatea tribului lui Manase, în Basan."
 "Copiii lui Merari, după familiile lor, [au avut] douăsprezece cetăți din tribul lui Ruben și din tribul lui Gad și din tribul lui Zabulon."
@@ -24,7 +24,7 @@
 "Și Aialon cu împrejurimile sale și Gat-Rimon cu împrejurimile sale; patru cetăți."
 "Și din jumătatea tribului lui Manase
 "Toate cetățile erau zece, cu împrejurimile lor, pentru familiile fiilor lui Chehat care au rămas."
-"Și copiilor lui Gherșon, din familiile leviților, din [cealaltă] jumătate a tribului lui Manase [le]-[au dat ]cetatea de scăpare pentru ucigaș, Golan, în Basan, cu împrejurimile sale și Beeștra cu împrejurimile sale; două cetăți."
+"Și copiilor lui Gherșon, din familiile leviților, din [cealaltă] jumătate a tribului lui Manase [le]-[au dat ]cetatea de #scăpare pentru ucigaș, Golan, în Basan, cu împrejurimile sale și Beeștra cu împrejurimile sale; două cetăți."
 "Și din tribul lui Isahar
 "Iarmut cu împrejurimile sale, En-Ganim cu împrejurimile sale; patru cetăți."
 "Și din tribul lui Așer
@@ -41,5 +41,5 @@
 "Toate cetățile leviților în mijlocul stăpânirii fiilor lui Israel [au fost] patruzeci și opt de cetăți cu împrejurimile lor."
 "Fiecare dintre aceste cetăți își avea împrejurimile ei de jur-împrejur; așa [erau] toate cetățile acestea."
 "Și DOMNUL i-a dat lui Israel toată țara pe care jurase s-o dea părinților lor; și ei au stăpânit-o și au locuit în ea."
-"Și DOMNUL le-a dat odihnă de jur-împrejur, potrivit cu tot ce le jurase părinților lor; și, dintre toți dușmanii lor, nu a stat în picioare niciun om înaintea lor; DOMNUL i-a dat pe toți dușmanii lor în mâna lor."
+"Și DOMNUL le-a dat odihnă de jur-împrejur, potrivit cu tot ce le jurase părinților lor; și, dintre toți dușmanii lor, #nu a stat în picioare niciun om înaintea lor; DOMNUL i-a dat pe toți dușmanii lor în mâna lor."
 "Nu a eșuat niciun lucru din toate lucrurile bune pe care le spusese DOMNUL, casei lui Israel; toate s-au împlinit."

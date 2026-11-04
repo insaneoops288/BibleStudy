@@ -20,6 +20,6 @@
 "Nakazali więc synom Beniamina
 "I wypatrujcie, gdy córki Szilo wyjdą gromadnie do tańca, wtedy wyjdźcie z winnic i niech każdy z was porwie sobie żonę spośród córek Szilo, a potem idźcie do ziemi Beniamina."
 "A gdy przyjdą ich ojcowie albo bracia, by skarżyć się przed nami, powiemy im
-"Wtedy synowie Beniamina uczynili tak i wzięli sobie żony spośród tańczących, które porwali, odpowiednio do swojej liczby. Potem odeszli i wrócili do swego dziedzictwa, odbudowali miasta i zamieszkali w nich."
+"Wtedy synowie Beniamina uczynili tak i wzięli sobie żony spośród tańczących, które porwali, odpowiednio do swojej #liczby. Potem odeszli i wrócili do swego dziedzictwa, odbudowali miasta i zamieszkali w nich."
 "W tym czasie synowie Izraela rozeszli się stamtąd, każdy do swego pokolenia i do swego domu, a każdy poszedł stamtąd do swego dziedzictwa."
 "W tych dniach nie było króla w Izraelu. Każdy czynił to, co było słuszne w jego oczach."

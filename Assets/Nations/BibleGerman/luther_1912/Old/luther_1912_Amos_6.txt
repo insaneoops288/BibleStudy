@@ -1,5 +1,5 @@
 "Weh den Stolzen zu Zion und denen, die sich auf den Berg Samarias verlassen, den Vornehmsten des Erstlings unter den Völkern, und zu denen das Haus Israel kommt!"
-"Gehet hin gen Kalne und schauet, und von da gen Hamath, die große Stadt, und zieht hinab gen Gath der Philister, welche bessere Königreiche gewesen sind denn diese und ihre Grenze weiter denn eure Grenze."
+"Gehet hin gen Kalne und schauet, und von da gen Hamath, die große Stadt, und zieht hinab gen #Gath der Philister, welche bessere Königreiche gewesen sind denn diese und ihre Grenze weiter denn eure Grenze."
 "Die ihr euch weit vom bösen Tag achtet und trachtet immer nach Frevelregiment,"
 "und schlaft auf elfenbeinernen Lagern und prangt auf euren Ruhebetten; ihr eßt die Lämmer aus der Herde und die gemästeten Kälber,"
 "und spielt auf dem Psalter und erdichtet euch Lieder wie David,{~}"

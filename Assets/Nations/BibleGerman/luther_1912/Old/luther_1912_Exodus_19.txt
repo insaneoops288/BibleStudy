@@ -10,10 +10,10 @@
 "Und der HERR sprach zu Mose
 "und bereit seien auf den dritten Tag; denn am dritten Tage wird der HERR herabfahren auf den Berg Sinai.{~}{~}"
 "Und mache dem Volk ein Gehege umher und sprich zu ihnen
-"Keine Hand soll ihn anrühren, sondern er soll gesteinigt oder mit Geschoß erschossen werden; es sei ein Tier oder ein Mensch, so soll er nicht leben. Wenn es aber lange tönen wird, dann sollen sie an den Berg gehen."
+"Keine Hand soll ihn anrühren, sondern er soll gesteinigt oder mit Geschoß erschossen werden; es sei ein Tier oder ein #Mensch, so soll er nicht leben. Wenn es aber lange tönen wird, dann sollen sie an den Berg gehen."
 "Mose stieg vom Berge zum Volk und heiligte sie, und sie wuschen ihre Kleider."
 "Und er sprach zu ihnen
-"Als nun der dritte Tag kam und es Morgen war, da erhob sich ein Donnern und Blitzen und eine dicke Wolke auf dem Berge und ein Ton einer sehr starken Posaune; das ganze Volk aber, das im Lager war, erschrak."
+"Als nun der dritte Tag kam und es Morgen war, da erhob sich ein Donnern und Blitzen und eine dicke Wolke #auf dem Berge und ein Ton einer sehr starken Posaune; das ganze Volk aber, das im Lager war, erschrak."
 "Und Mose führte das Volk aus dem Lager Gott entgegen, und es trat unten an den Berg."
 "Der ganze Berg Sinai aber rauchte, darum daß der HERR herab auf den Berg fuhr mit Feuer; und sein Rauch ging auf wie ein Rauch vom Ofen, daß der ganze Berg sehr bebte."
 "Und der Posaune Ton ward immer stärker. Mose redete, und Gott antwortete ihm laut."

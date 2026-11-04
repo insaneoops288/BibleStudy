@@ -15,7 +15,7 @@
 "und will euch von meinem Angesicht wegwerfen, wie ich weggeworfen habe alle eure Brüder, den ganzen Samen Ephraims."
 "Und du sollst für dies Volk nicht bitten und sollst für sie keine Klage noch Gebet vorbringen, auch nicht sie vertreten vor mir; denn ich will dich nicht hören."
 "Denn siehst du nicht, was sie tun in den Städten Juda's und auf den Gassen zu Jerusalem?"
-"Die Kinder lesen Holz, so zünden die Väter das Feuer an, und die Weiber kneten den Teig, daß sie der Himmelskönigin Kuchen backen, und geben Trankopfer den fremden Göttern, daß sie mir Verdruß tun."
+"Die Kinder lesen Holz, so zünden die Väter das Feuer an, und die Weiber kneten den Teig, daß #sie der Himmelskönigin Kuchen backen, und geben Trankopfer den fremden Göttern, daß sie mir Verdruß tun."
 "Aber sie sollen nicht mir damit, spricht der HERR, sondern sich selbst Verdruß tun und müssen zu Schanden werden."
 "Darum spricht der HERR HERR
 "So spricht der HERR Zebaoth, der Gott Israels
@@ -29,6 +29,6 @@
 "Schneide deine Haare ab und wirf sie von dir und wehklage auf den Höhen; denn der HERR hat dies Geschlecht,über das er zornig ist, verworfen und verstoßen."
 "Denn die Kinder Juda tunübel vor meinen Augen, spricht der HERR. Sie setzen ihre Greuel in das Haus, das nach meinem Namen genannt ist, daß sie es verunreinigen,"
 "und bauen die Altäre des Thopheth im Tal Ben-Hinnom, daß sie ihre Söhne und Töchter verbrennen, was ich nie geboten noch in den Sinn genommen habe."
-"Darum siehe, es kommt die Zeit, spricht der HERR, daß man's nicht mehr heißen soll Thopheth und das Tal Ben-Hinnom, sondern Würgetal; und man wird im Thopheth müssen begraben, weil sonst kein Raum mehr sein wird.{~}"
+"Darum siehe, es kommt die Zeit, spricht der HERR, daß man's nicht mehr heißen soll Thopheth und das Tal #Ben-Hinnom, sondern Würgetal; und man wird im Thopheth müssen begraben, weil sonst kein Raum mehr sein wird.{~}"
 "Und die Leichname dieses Volkes sollen den Vögeln des Himmels und den Tieren auf Erden zur Speise werden, davon sie niemand scheuchen wird."
 "Und ich will in den Städten Juda's und auf den Gassen zu Jerusalem wegnehmen das Geschrei der Freude und Wonne und die Stimme des Bräutigams und der Braut; denn das Land soll wüst sein."

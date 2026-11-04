@@ -8,7 +8,7 @@
 "Și să vorbești copiilor lui Israel, spunând
 "Și dacă nu are fiică, atunci să dați moștenirea lui fraților săi."
 "Și dacă nu are frați, atunci să dați moștenirea lui fraților tatălui său."
-"Și dacă tatăl său nu are frați, atunci să dați moștenirea lui rudei sale cea mai apropiată, din familia sa și el să o stăpânească; și acesta va fi un statut al judecății pentru copiii lui Israel, precum DOMNUL i-a poruncit lui Moise."
+"Și dacă tatăl său nu are frați, atunci să dați moștenirea lui rudei sale cea mai apropiată, din familia sa și el #să o stăpânească; și acesta va fi un statut al judecății pentru copiii lui Israel, precum DOMNUL i-a poruncit lui Moise."
 "Și DOMNUL i-a spus lui Moise
 "Și după ce o vei privi, vei fi adunat și tu la poporul tău, precum Aaron fratele tău a fost adunat."
 "Pentru că v-ați răzvrătit împotriva poruncii mele în pustiul Țin, în cearta adunării, [în loc] să mă sfințiți la apa dinaintea ochilor lor, acestea [sunt] apele Meriba, la Cades, în pustiul Țin."
@@ -18,6 +18,6 @@
 "Și DOMNUL i-a spus lui Moise
 "Și să îl pui înaintea preotului Eleazar și înaintea întregii adunări; și să îi dai poruncă înaintea ochilor lor."
 "Și să pui din onoarea ta peste el, ca toată adunarea copiilor lui Israel să asculte de[ DOMNUL]."
-"Și el să stea în picioare înaintea preotului Eleazar, care va cere [sfat] pentru el după judecata lui Urim înaintea DOMNULUI; la cuvântul său ei vor ieși și la cuvântul său ei vor intra, el și toți copiii lui Israel împreună cu el, chiar toată adunarea."
+"Și el să stea în picioare înaintea preotului Eleazar, care va cere [sfat] pentru el după judecata lui Urim înaintea DOMNULUI; la cuvântul său #ei vor ieși și la cuvântul său ei vor intra, el și toți copiii lui Israel împreună cu el, chiar toată adunarea."
 "Și Moise a făcut precum DOMNUL i-a poruncit și a luat pe Iosua și l-a pus înaintea preotului Eleazar și înaintea întregii adunări."
 "Și și-a așezat mâinile peste el și i-a dat poruncă, precum a poruncit DOMNUL prin mâna lui Moise."

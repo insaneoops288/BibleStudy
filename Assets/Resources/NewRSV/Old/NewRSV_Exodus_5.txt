@@ -1,6 +1,6 @@
 Afterward Moses and Aaron went to Pharaoh and said, "Thus says the LORD, the God of Israel, 'Let my people go, so that they may celebrate a festival to me in the wilderness.'"
 But Pharaoh said, "Who is the LORD, that I should heed him and let Israel go? I do not know the LORD, and I will not let Israel go."
-Then they said, "The God of the Hebrews has revealed himself to us; let us go a three days' journey into the wilderness to sacrifice to the LORD our God, or he will fall upon us with pestilence or sword."
+Then they said, "The God of the Hebrews has revealed himself to us; let us go a three days' journey into #the wilderness to sacrifice to the LORD our God, or he will fall upon us with pestilence or sword."
 But the king of Egypt said to them, "Moses and Aaron, why are you taking the people away from their work? Get to your labors!"
 Pharaoh continued, "Now they are more numerous than the people of the land and yet you want them to stop working!"
 That same day Pharaoh commanded the taskmasters of the people, as well as their supervisors,
@@ -11,7 +11,7 @@ So the taskmasters and the supervisors of the people went out and said to the pe
 Go and get straw yourselves, wherever you can find it; but your work will not be lessened in the least.'"
 So the people scattered throughout the land of Egypt, to gather stubble for straw.
 The taskmasters were urgent, saying, "Complete your work, the same daily assignment as when you were given straw."
-And the supervisors of the Israelites, whom Pharaoh's taskmasters had set over them, were beaten, and were asked, "Why did you not finish the required quantity of bricks yesterday and today, as you did before?"
+And the supervisors of the Israelites, whom Pharaoh's taskmasters had set over them, were beaten, and were asked, #"Why did you not finish the required quantity of bricks yesterday and today, as you did before?"
 Then the Israelite supervisors came to Pharaoh and cried, "Why do you treat your servants like this?
 No straw is given to your servants, yet they say to us, 'Make bricks!' Look how your servants are beaten! You are unjust to your own people."
 He said, "You are lazy, lazy; that is why you say, 'Let us go and sacrifice to the LORD.'

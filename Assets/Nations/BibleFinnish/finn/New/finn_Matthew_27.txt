@@ -32,7 +32,7 @@
 "Mutta kuin he menivät ulos, löysivät he yhden miehen Kyrenistä, nimeltä Simon
 "Ja tulivat siihen paikkaan, joka kutsutaan Golgata, se on
 "He antoivat hänelle etikkaa juoda sapella sekoitettua; ja kuin hän maisti, niin ei hän tahtonut juoda."
-"Mutta sitte kuin he olivat hänen ristiinnaulinneet, jakoivat he hänen vaatteensa ja heittivät arpaa, että täytettäisiin, mitä sanottu oli prophetan kautta; he ovat minun vaatteeni jakaneet, ja minun vaatteistani ovat he heittäneet arpaa."
+"Mutta sitte kuin he olivat hänen ristiinnaulinneet, jakoivat he hänen vaatteensa ja heittivät arpaa, että täytettäisiin, mitä #sanottu oli prophetan kautta; he ovat minun vaatteeni jakaneet, ja minun vaatteistani ovat he heittäneet arpaa."
 "Ja istuen he vartioitsivat häntä siinä."
 "Ja he panivat hänen päänsä päälle hänen syynsä kirjoitetun
 "Silloin ristiinnaulittiin kaksi ryöväriä hänen kanssansa, yksi oikialle puolelle ja toinen vasemmalle."

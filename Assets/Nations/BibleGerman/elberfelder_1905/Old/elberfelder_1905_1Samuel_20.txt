@@ -5,12 +5,12 @@
 "Und David sprach zu Jonathan
 "Wenn dein Vater mich etwa vermissen sollte, so sage
 "Wenn er so spricht
-"Erweise denn Güte an deinem Knechte, denn du hast deinen Knecht in einen Bund Jehovas mit dir treten lassen! Wenn aber eine Ungerechtigkeit an mir ist, so töte du mich; denn warum wolltest du mich doch zu deinem Vater bringen?"
+"Erweise denn Güte an deinem Knechte, denn du hast deinen Knecht in einen Bund Jehovas mit dir treten lassen! Wenn aber #eine Ungerechtigkeit an mir ist, so töte du mich; denn warum wolltest du mich doch zu deinem Vater bringen?"
 "Und Jonathan sprach
 "Und David sprach zu Jonathan
 "Und Jonathan sprach zu David
 "Und Jonathan sprach zu David
-"so tue Jehova dem Jonathan, und so füge er hinzu! Wenn meinem Vater Böses wider dich gefällt, so werde ich es deinem Ohr eröffnen und dich ziehen lassen, daß du in Frieden weggehest; und Jehova sei mit dir, so wie er mit meinem Vater gewesen ist."
+"so tue Jehova dem Jonathan, und so füge er hinzu! Wenn meinem Vater Böses wider dich gefällt, so werde ich es deinem Ohr eröffnen #und dich ziehen lassen, daß du in Frieden weggehest; und Jehova sei mit dir, so wie er mit meinem Vater gewesen ist."
 "Und nicht nur während ich noch lebe, und nicht nur an mir sollst du Güte Jehovas erweisen, daß ich nicht sterbe;"
 "auch meinem Hause sollst du deine Güte nicht entziehen ewiglich, auch nicht, wenn Jehova die Feinde Davids ausrotten wird, einen jeden vom Erdboden hinweg!"
 "Und Jonathan machte einen Bund mit dem Hause Davids und sprach
@@ -26,7 +26,7 @@
 "Saul aber sagte nichts an selbigem Tage, denn er dachte
 "Und es geschah am anderen Tage des Neumondes, dem zweiten, als der Platz Davids leer blieb, da sprach Saul zu seinem Sohne Jonathan
 "Und Jonathan antwortete Saul
-"Laß mich doch gehen, denn wir haben ein Familienopfer in der Stadt; und mein Bruder selbst hat mich entboten; und nun, wenn ich Gnade gefunden habe in deinen Augen, so laß mich doch gehen, daß ich meine Brüder sehe! Darum ist er nicht an den Tisch des Königs gekommen."
+"Laß mich doch gehen, denn wir haben ein Familienopfer in der Stadt; und mein Bruder selbst hat mich entboten; und nun, wenn ich Gnade gefunden #habe in deinen Augen, so laß mich doch gehen, daß ich meine Brüder sehe! Darum ist er nicht an den Tisch des Königs gekommen."
 "Da entbrannte der Zorn Sauls wider Jonathan, und er sprach zu ihm
 "Denn alle die Tage, die der Sohn Isais auf Erden lebt, wirst du nicht feststehen, weder du noch dein Königtum; und nun sende hin und laß ihn zu mir holen, denn er ist ein Kind des Todes!"
 "Und Jonathan antwortete seinem Vater Saul und sprach zu ihm
@@ -38,5 +38,5 @@
 "Und Jonathan rief dem Knaben nach
 "Der Knabe aber wußte um nichts; nur Jonathan und David wußten um die Sache."
 "Und Jonathan gab seine Waffen seinem Knaben und sprach zu ihm
-"Der Knabe ging, und David machte sich auf von der Südseite her und fiel auf sein Antlitz zur Erde und beugte sich dreimal nieder; und sie küßten einander und weinten miteinander, bis Davidüber die Maßen weinte."
+"Der Knabe ging, und David machte sich auf von der Südseite her und fiel auf sein Antlitz zur Erde #und beugte sich dreimal nieder; und sie küßten einander und weinten miteinander, bis Davidüber die Maßen weinte."
 "Und Jonathan sprach zu David

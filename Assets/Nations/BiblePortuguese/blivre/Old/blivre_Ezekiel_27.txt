@@ -24,7 +24,7 @@
 "Estes negociavam contigo em toda variedade de mercadorias
 "Os navios de Társis transportavam os artigos do teu negócio; e te encheste, e te tornaste muito pesada no meio dos mares."
 "Teus remadores te trouxeram a muitas águas; o vento oriental te quebrou no meio dos mares."
-"Tuas riquezas, tuas feiras, teu negócio, teus marinheiros, teus pilotos; os que reparavam tuas fendas, teus comerciantes, e todos teus soldados que há em ti, com toda a tua companhia que está no meio de ti, cairão no meio dos mares, no dia de tua queda."
+"Tuas riquezas, tuas feiras, teu negócio, teus marinheiros, teus pilotos; os que reparavam tuas fendas, teus comerciantes, e todos teus soldados que há em #ti, com toda a tua companhia que está no meio de ti, cairão no meio dos mares, no dia de tua queda."
 "Ao estrondo das vozes de teus marinheiros tremerão os arredores."
 "E todos os que usam remo; marinheiros, e todos os pilotos do mar descerão de seus navios, e pararão na terra
 "E farão ouvir sua voz sobre ti; gritarão amargamente, lançarão pó sobre suas cabeças, e se revolverão na cinza."

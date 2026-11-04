@@ -2,7 +2,7 @@
 "y se cumpliere la señal o prodigio que él te dijo, diciendo
 "no darás oído a las palabras de tal profeta, ni al tal soñador de sueños
 "En pos de Jehová vuestro Dios andaréis, y a Él temeréis, y guardaréis sus mandamientos, y escucharéis su voz, y a Él serviréis, y a Él seguiréis."
-"Y el tal profeta o soñador de sueños, ha de ser muerto; por cuanto habló para alejaros de Jehová vuestro Dios (que te sacó de tierra de Egipto, y te rescató de casa de siervos), y de echarte del camino por el que Jehová tu Dios te mandó que anduvieses. Así quitarás el mal de en medio de ti."
+"Y el tal profeta o soñador de sueños, ha de ser muerto; por cuanto habló para alejaros de Jehová vuestro Dios (que te sacó de tierra de Egipto, y te #rescató de casa de siervos), y de echarte del camino por el que Jehová tu Dios te mandó que anduvieses. Así quitarás el mal de en medio de ti."
 "Cuando te incitare tu hermano, hijo de tu madre, o tu hijo, o tu hija, o la esposa de tu seno, o tu amigo que sea como tu alma, diciendo en secreto
 "de los dioses de los pueblos que [están] en vuestros alrededores cerca de ti o lejos de ti, desde un extremo de la tierra hasta el otro extremo de ella,"
 "no consentirás con él, ni le darás oído; ni tu ojo le perdonará, ni tendrás compasión, ni lo encubrirás;"

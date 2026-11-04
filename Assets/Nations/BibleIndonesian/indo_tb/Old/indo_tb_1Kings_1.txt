@@ -6,7 +6,7 @@
 "Selama hidup Adonia ayahnya belum pernah menegor dia dengan ucapan
 "Maka berundinglah ia dengan Yoab, anak Zeruya dan dengan imam Abyatar dan mereka menjadi pengikut dan pembantu Adonia."
 "Tetapi imam Zadok dan Benaya bin Yoyada dan nabi Natan dan Simei dan Rei dan para pahlawan Daud tidak memihak kepada Adonia."
-"Sesudah itu Adonia mempersembahkan domba, lembu dan ternak gemukan sebagai korban dekat batu Zohelet yang ada di samping En-Rogel, lalu mengundang semua saudaranya, anak-anak raja, dan semua orang Yehuda, pegawai-pegawai raja;"
+"Sesudah itu Adonia mempersembahkan domba, lembu dan ternak gemukan sebagai korban dekat batu Zohelet yang ada #di samping En-Rogel, lalu mengundang semua saudaranya, anak-anak raja, dan semua orang Yehuda, pegawai-pegawai raja;"
 "tetapi nabi Natan dan Benaya dan para pahlawan dan Salomo, adiknya, tidak diundangnya."
 "Lalu berkatalah Natan kepada Batsyeba, ibu Salomo
 "Karena itu, baiklah kuberi nasihat kepadamu, supaya engkau dapat menyelamatkan nyawamu dan nyawa anakmu Salomo."
@@ -22,7 +22,7 @@
 "Selagi Batsyeba berbicara dengan raja, datanglah nabi Natan."
 "Diberitahukan kepada raja
 "Natan berkata
-"Sebab pada hari ini ia telah menyembelih banyak lembu, ternak gemukan dan domba; ia mengundang semua anak raja, para panglima dan imam Abyatar, dan sesungguhnya mereka sedang makan minum di depannya sambil berseru
+"Sebab pada hari ini ia telah menyembelih banyak lembu, ternak gemukan dan domba; ia mengundang semua anak #raja, para panglima dan imam Abyatar, dan sesungguhnya mereka sedang makan minum di depannya sambil berseru
 "Tetapi hambamu ini, dan imam Zadok dan Benaya bin Yoyada dan hambamu Salomo tidak diundangnya."
 "Jika hal ini terjadi dari pihak tuanku raja, maka engkau tidak memberitahu hamba-hambamu ini, siapa yang akan duduk di atas takhta tuanku raja sesudah tuanku."""
 "Lalu raja Daud menjawab, katanya
@@ -32,7 +32,7 @@
 "Lagi kata raja Daud
 "dan raja berkata kepada mereka
 "Imam Zadok dan nabi Natan harus mengurapi dia di sana menjadi raja atas Israel; kemudian kamu meniup sangkakala dan berseru
-"Sesudah itu kamu berjalan pulang dengan mengiring dia; lalu ia akan masuk dan duduk di atas takhtaku, sebab dialah yang harus naik takhta menggantikan aku, dan dialah yang kutunjuk menjadi raja atas Israel dan Yehuda."""
+"Sesudah itu kamu berjalan pulang dengan mengiring dia; lalu ia akan masuk dan duduk di atas takhtaku, sebab #dialah yang harus naik takhta menggantikan aku, dan dialah yang kutunjuk menjadi raja atas Israel dan Yehuda."""
 "Lalu Benaya bin Yoyada menjawab raja
 "Seperti TUHAN menyertai tuanku raja, demikianlah kiranya Ia menyertai Salomo; semoga Ia membuat takhta Salomo lebih agung dari takhta tuanku raja Daud."""
 "Lalu pergilah imam Zadok, nabi Natan dan Benaya bin Yoyada, dengan orang Kreti dan orang Pleti, mereka menaikkan Salomo ke atas bagal betina raja Daud dan membawanya ke Gihon."

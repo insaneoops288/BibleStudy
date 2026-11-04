@@ -13,4 +13,4 @@
 "Dlatego też dotknę cię chorobą, uderzę cię i zniszczę z powodu twoich grzechów."
 "Będziesz jeść, ale się nie nasycisz; twoje poniżenie będzie w środku ciebie. Pochwycisz, ale nie ocalisz, a co ocalisz, wydam pod miecz."
 "Będziesz siał, ale nie będziesz żął; będziesz tłoczył oliwki, ale nie namaścisz się oliwą; będziesz wyciskał moszcz, ale nie napijesz się wina."
-"Przestrzegacie bowiem ustaw Omriego i wszystkich czynów domu Achaba i postępujecie według ich rad. Dlatego cię wydam na spustoszenie i jego mieszkańców na pośmiewisko. Będziecie więc nosić hańbę mego ludu."
+"Przestrzegacie bowiem ustaw Omriego i wszystkich czynów domu Achaba i postępujecie według ich rad. Dlatego cię #wydam na spustoszenie i jego mieszkańców na pośmiewisko. Będziecie więc nosić hańbę mego ludu."

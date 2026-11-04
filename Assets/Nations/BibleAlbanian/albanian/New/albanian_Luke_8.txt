@@ -26,13 +26,13 @@
 "Pastaj lundruan drejt krahinës së Gadareasve, që ndodhet përballë Galilesë;"
 "dhe, porsa Jezusi zbriti në tokë, i doli përpara një njeri nga ai qytet, i cili prej shumë kohe ishte pushtuar nga demonët, nuk vishte rroba, nuk banonte në shtëpi, por ndër varreza."
 "Kur e pa Jezusin, lëshoi një britmë, iu hodh ndër këmbë dhe tha me zë të lartë
-"Sepse Jezusi po i jepte urdhër frymës së ndyrë të dilte nga ai njeri, sepse shumë herë e kishte pushtuar dhe ndonëse e kishin lidhur me zinxhirë e me pranga dhe e ruanin, ai i këpuste prangat dhe shtyhej prej demonit nëpër shkretëtirat."
+"Sepse Jezusi po i jepte urdhër frymës së ndyrë të dilte nga ai njeri, sepse shumë herë e kishte pushtuar dhe ndonëse #e kishin lidhur me zinxhirë e me pranga dhe e ruanin, ai i këpuste prangat dhe shtyhej prej demonit nëpër shkretëtirat."
 "Dhe Jezusi e pyeti duke thënë
 "Dhe ata e lutnin të mos i urdhëronte të shkonin në humnerë."
 "Dhe aty ishte një tufë e madhe derrash që kullotnin në mal, dhe këta demonë iu lutën t'i lejonte të hynin në ta. Ai ua lejoi atyre."
 "Atëherë demonët, si dolën nga ai njeri, hynë te derrat, dhe ajo tufë u turr nga gremina në liqen dhe u mbyt."
 "Kur panë ç'ndodhi, ata që i ruanin derrat ikën dhe e çuan lajmin në qytet e nëpër fshatra."
-"Atëherë njerëzit dolën për të parë ç'kishte ndodhur dhe erdhën te Jezusi, dhe gjetën atë njeri, nga i cili kishin dalë demonët, të ulur te këmbët e Jezusit, të veshur dhe me mendje në rregull, dhe patën frikë."
+"Atëherë njerëzit dolën për të parë ç'kishte ndodhur dhe erdhën te Jezusi, dhe gjetën atë njeri, nga i cili kishin #dalë demonët, të ulur te këmbët e Jezusit, të veshur dhe me mendje në rregull, dhe patën frikë."
 "Ata që e kishin parë ngjarjen, u treguan atyre si ishte shëruar i idemonizuari."
 "Atëherë gjithë popullsia e krahinës së Gadareasve, i kërkoi Jezusit të largohej prej tyre, sepse i kishte zënë një frikë e madhe. Dhe Jezusi hyri në barkë dhe u kthye mbrapa."
 "Ndërkaq njeriu prej të cilit dolën demonët, i lutej të rrinte me të; por Jezusi e përcolli duke i thënë
@@ -44,7 +44,7 @@
 "iu afrua nga pas dhe i preku cepin e rrobës së tij dhe në atë çast iu pre fluksi i gjakut."
 "Dhe Jezusi tha
 "Por Jezusi tha
-"Atëherë gruaja, duke parë se nuk mbeti e padiktuar, erdhi, duke u dridhur e tëra, dhe i ra ndër këmbë dhe i deklaroi në prani të gjithë popullit, përse e kishte prekur dhe si ishte shëruar në çast."
+"Atëherë gruaja, duke parë se nuk mbeti e padiktuar, erdhi, duke u dridhur e tëra, dhe i ra ndër këmbë #dhe i deklaroi në prani të gjithë popullit, përse e kishte prekur dhe si ishte shëruar në çast."
 "Dhe ai i tha
 "Ndërsa Jezusi vazhdonte të fliste, erdhi një nga shtëpia e kryetarit të sinagogës dhe i tha
 "Por Jezusi, mbasi i dëgjoi këto, i tha

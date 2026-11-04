@@ -5,7 +5,7 @@
 "Më mirë të mos marrësh zotime se sa t'i bësh dhe të mos i plotësosh."
 "Mos lejo që goja jote ta çojë trupin tënd të mëkatojë dhe mos thuaj para lajmëtarit të Perëndisë
 "Sepse në ëndrrat e shumta dhe në fjalët e shumta ka kotësi; por ti ke frikë nga Perëndia."
-"Në rast se në provincë sheh shtypjen e të varfërit dhe shkeljen me dhunë të së drejtës dhe të drejtësisë, mos u habit nga kjo gjë; sepse mbi një pushtet të lartë ndodhet një më i lartë dhe mbi ta disa pushtete akoma më të larta."
+"Në rast se në provincë sheh shtypjen e të varfërit dhe shkeljen me dhunë të së drejtës dhe të drejtësisë, mos u habit nga #kjo gjë; sepse mbi një pushtet të lartë ndodhet një më i lartë dhe mbi ta disa pushtete akoma më të larta."
 "Toka ofron përfitime më të mëdha se çdo gjë tjetër, dhe vetë mbreti shërbehet nga fusha."
 "Kush është i dhënë pas parasë, nuk ngopet kurrë me para, dhe kush dëshiron pasuritë nxjerr përfitim prej tyre. Edhe kjo është kotësi."
 "Kur rritet pasuria, shtohen edhe ata që e përpijnë; dhe çfarë përfitimi kanë prej saj pronarët, veç asaj që e shohin me sytë e tyre?"

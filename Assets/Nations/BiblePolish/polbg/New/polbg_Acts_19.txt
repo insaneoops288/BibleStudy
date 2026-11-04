@@ -24,7 +24,7 @@
 "Albowiem niektóry złotnik, imieniem Demetryjusz, który robił kościoły srebrne Dyjany, niemały zysk przywodził rzemieślnikom;"
 "Które zgromadziwszy i inne, którzy takież rzemiosło robili, rzekł
 "A widzicie i słyszycie, że nie tylko w Efezie, ale mało nie po wszystkiej Azyi ten Paweł namówił i odwrócił wielki lud, mówiąc
-"Przetoż nam się obawiać potrzeba, aby nie tylko rzemiosło nasze w lekkie poważenie nie przyszło, ale aby i kościół wielkiej bogini Dyjany za nic nie był poczytany, a żeby nie przyszło do skazy dostojeństwo jej, którą wszystka Azyja i wszystek świat chwali."
+"Przetoż nam się obawiać potrzeba, aby nie tylko rzemiosło nasze w lekkie poważenie nie przyszło, ale aby i kościół wielkiej bogini Dyjany #za nic nie był poczytany, a żeby nie przyszło do skazy dostojeństwo jej, którą wszystka Azyja i wszystek świat chwali."
 "A słuchając tego i będąc pełni gniewu, krzyknęli, mówiąc
 "I było pełno po wszystkiem mieście zamieszania, i wpadli jednomyślnie na plac, porwawszy Gaja i Arystarcha, Macedończyki, podróżne towarzysze Pawłowe."
 "A gdy Paweł chciał wnijść do pospólstwa, nie dopuścili mu uczniowie."
@@ -37,5 +37,5 @@
 "Albowiemeście przywiedli tych mężów, którzy nie są ani świętokradcami, ani bluźniercami boginii waszej."
 "A jeźliż Demetryjusz i ci, którzy z nim są rzemieślnicy, mają co przeciw komu, wszak bywa prawo, są też starostowie, niechże jedni drugich pozywają."
 "Jeźli się też o czem inszem pytacie, to się może w porządnem zgromadzeniu odprawić."
-"Albowiem trzeba się obawiać, abyśmy oskarżeni nie byli o rozruch dzisiejszy, gdyż nie masz żadnej przyczyny, z której byśmy mogli dać sprawę, żeśmy się tu zbiegli. A to powiedziawszy, rozpuścił ono zgromadzenie."
+"Albowiem trzeba się obawiać, abyśmy oskarżeni nie byli o rozruch dzisiejszy, gdyż nie masz żadnej przyczyny, z #której byśmy mogli dać sprawę, żeśmy się tu zbiegli. A to powiedziawszy, rozpuścił ono zgromadzenie."
 

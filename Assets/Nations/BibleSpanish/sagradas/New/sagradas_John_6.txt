@@ -19,7 +19,7 @@
 "Cuando hubieron navegado como veinticinco o treinta estadios, ven a Jesús que andaba sobre el mar, y se acercaba al navío; y tuvieron miedo."
 "Pero él les dijo
 "Y ellos le recibieron de buena gana en el navío; y luego el navío llegó a la tierra donde iban."
-"El día siguiente, la multitud que estaba al otro lado del mar, como vio que no había allí otra navecilla sino una, en la cual habían entrado sus discípulos, y que Jesús no había entrado con sus discípulos en el navío, sino  que sus discípulos se habían ido solos;"
+"El día siguiente, la multitud que estaba al otro lado del mar, como vio que no había allí otra navecilla sino una, en la cual habían #entrado sus discípulos, y que Jesús no había entrado con sus discípulos en el navío, sino  que sus discípulos se habían ido solos;"
 "y que otras navecillas habían arribado de Tiberias junto al lugar donde habían comido el pan después de haber el Señor dado gracias;"
 "cuando vio pues la multitud que Jesús no estaba allí, ni sus discípulos, entraron ellos en las navecillas, y vinieron a Capernaum buscando a Jesús."
 "Y hallándole al otro lado del mar, le dijeron

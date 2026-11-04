@@ -10,7 +10,7 @@
 "Und die Kinder Israel zogen aus und lagerten sich in Obot."
 "Und von Obot zogen sie aus und lagerten sich bei den Ruinen von Abarim in der Wüste, Moab gegenüber, gegen Aufgang der Sonne."
 "Von dannen zogen sie weiter und lagerten sich an dem Bach Sared."
-"Von dannen zogen sie weiter und lagerten sich jenseits des Arnon, welcher in der Wüste ist und aus dem Gebiete der Amoriter herausfließt; denn der Arnon bildet die Grenze Moabs, zwischen Moab und den Amoritern."
+"Von dannen zogen sie weiter und lagerten sich jenseits des Arnon, welcher in der Wüste ist und aus #dem Gebiete der Amoriter herausfließt; denn der Arnon bildet die Grenze Moabs, zwischen Moab und den Amoritern."
 "Daher heißt es im Buche von den Kriegen des HERRN
 "und den Abhang der Täler, der sich bis zum Wohnsitz von Ar erstreckt und sich an die Grenze von Moab lehnt.»"
 "Von dannen zogen sie gen Beer. Das ist der Brunnen, davon der HERR zu Mose sagte
@@ -19,7 +19,7 @@
 "und von Mattana gen Nahaliel, und von Nahaliel gen Bamot, und von Bamot in das Tal,"
 "das im Gefilde Moab liegt, dessen Gipfel der Pisga ist, der gegen die Wüste schaut."
 "Und Israel sandte Boten zu Sihon, dem König der Amoriter, und ließ ihm sagen
-"Laß mich durch dein Land ziehen, wir wollen weder in dieÄcker noch in die Weingärten treten, wollen auch von dem Brunnenwasser nicht trinken; wir wollen die Königsstraße ziehen, bis wir durch dein Gebiet gekommen sind!"
+"Laß mich durch dein Land ziehen, wir wollen weder in dieÄcker noch in die Weingärten treten, wollen auch #von dem Brunnenwasser nicht trinken; wir wollen die Königsstraße ziehen, bis wir durch dein Gebiet gekommen sind!"
 "Aber Sihon gestattete Israel nicht, durch sein Gebiet zu ziehen, sondern versammelte sein ganzes Volk und zog aus, Israel entgegen in die Wüste. Und als er gen Jahza kam, stritt er wider Israel."
 "Israel aber schlug ihn mit der Schärfe des Schwertes und nahm sein Land ein, vom Arnon an bis an den Jabbok und bis an die Kinder Ammon; denn die Landmarken der Kinder Ammon waren fest."
 "Also nahm Israel alle diese Städte ein und wohnte in allen Städten der Amoriter zu Hesbon und in allen ihren Dörfern."

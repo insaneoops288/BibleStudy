@@ -30,7 +30,7 @@
 "A na stół położysz chleb wystawny, ustawicznie leżący przed Moim obliczem."
 "Z czystego złota zrobisz także świecznik. Ten świecznik ma być kutej roboty. Powinny z niego wychodzić
 "A z jego boków ma wychodzić sześć ramion; trzy ramiona świecznika z jednego jego boku i trzy ramiona świecznika z drugiego jego boku."
-"Na jednym ramieniu mają być trzy kielichy w kształcie kwiatu migdału z gałką i kwiatem, jak również na drugim ramieniu trzy kielichy w kształcie kwiatu migdału z gałką i kwiatem. Tak ma być na sześciu ramionach wychodzących ze świecznika."
+"Na jednym ramieniu mają być trzy kielichy w kształcie kwiatu migdału z gałką i kwiatem, jak również na drugim ramieniu #trzy kielichy w kształcie kwiatu migdału z gałką i kwiatem. Tak ma być na sześciu ramionach wychodzących ze świecznika."
 "A na samym świeczniku będą cztery kielichy w kształcie kwiatu migdału z gałkami i jego kwiatami."
 "Jedna gałka pod dwoma jego ramionami i jedna też gałka pod drugimi dwoma jego ramionami tak będzie u sześciu ramion wychodzących ze świecznika."
 "Ich gałki i ich ramiona mają wychodzić z niego samego, a cały ma być kuty z jednej bryły czystego złota."

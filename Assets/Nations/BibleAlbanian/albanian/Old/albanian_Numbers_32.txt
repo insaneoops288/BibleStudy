@@ -8,13 +8,13 @@
 "Kështu vepruan etërit tuaj kur i nisa nga Kadesh-Barneu për ta vëzhguar vendin."
 "U ngjitën deri në luginën e Eshkolit; dhe, pasi e panë vendin, i demoralizuan zemrat e bijve të Izraelit, dhe kështu këta nuk hynë në vendin që Zoti u kishte dhënë."
 "Kështu zemërimi i Zotit u ndez atë ditë dhe ai u betua, duke thënë
-"""Me siguri asnjë nga njerëzit, që kanë ardhur nga vendi i Egjiptit në moshën njëzet e një vjeç e lart nuk do ta shohë kurrë vendin që jam betuar t'u jap Abrahamit, Isaut dhe Jakobit, sepse ata nuk më kanë ndjekur plotësisht,"
+"""Me siguri asnjë nga njerëzit, që kanë ardhur nga vendi i Egjiptit në moshën njëzet e një vjeç e lart nuk do #ta shohë kurrë vendin që jam betuar t'u jap Abrahamit, Isaut dhe Jakobit, sepse ata nuk më kanë ndjekur plotësisht,"
 "me përjashtim të Kalebit, birit të Jenufeut, i quajtur Kenizeu, dhe të Jozueut, birit të Nunit, sepse këta e kanë ndjekur plotësisht Zotin""."
 "Kështu zemërimi i Zotit u ndez kundër Izraelit; dhe ai bëri të enden dyzet vjet në shkretëtirë, deri sa mbaroi gjithë brezi që kishte bërë të këqia para Zotit."
 "Dhe ja, ju po zini vendin e etërve tuaj, një farë mëkatarësh, për të rritur edhe më zemërimin e zjarrtë të Zotit kundër Izraelit."
 "Sepse, po të refuzoni të shkoni pas tij, ai do të vazhdojë ta lërë Izraelin në shkretëtirë, dhe ju do të shkaktoni humbjen e tërë këtij populli""."
 "Atëherë ata iu afruan Moisiut dhe i thanë
-"por ne jemi gati të marshojmë me armë në krye të bijve të Izraelit, deri sa t'i çojmë në vendin e tyre; ndërkaq të vegjlit tanë do të banojnë në qytetet e fortifikuara për shkak të banorëve të vendit."
+"por ne jemi gati të marshojmë me armë në krye të bijve të Izraelit, deri sa t'i çojmë në vendin #e tyre; ndërkaq të vegjlit tanë do të banojnë në qytetet e fortifikuara për shkak të banorëve të vendit."
 "Nuk do të kthehemi në shtëpitë tona derisa secili nga bijtë e Izraelit të ketë shtënë në dorë trashëgiminë e tij,"
 "sepse nuk do të pranojë asnjë trashëgimi bashkë me ta matanë Jordanit dhe më tutje, sepse trashëgimia jonë na ra nga kjo anë e Jordanit, në drejtim të lindjes""."
 "Atëherë Moisiu u tha atyre
@@ -30,7 +30,7 @@
 "Por në rast se nuk e kalojnë Jordanin të armatosur bashkë me ju, do të kenë prona në mes jush në vendin e Kanaanit""."
 "Atëherë bijtë e Gadit dhe bijtë e Rubenit u përgjigjën duke thënë
 "Do ta kalojmë Jordanin të armatosur para Zotit në vendin e Kanaanit, me qëllim që zotërimi i trashëgimisë sonë të mbetet nga kjo anë e Jordanit""."
-"Moisiu u dha kështu bijve të Gadit, bijve të Rubenit dhe gjysmës së fisit të Manasit, birit të Jozefit, mbretërinë e Sihonit, mbretit të Amorejve, dhe mbretërinë e Ogut, mbretit të Bashabit, vendin me qytetet përreth."
+"Moisiu u dha kështu bijve të Gadit, bijve të Rubenit dhe gjysmës së fisit të Manasit, birit të Jozefit, #mbretërinë e Sihonit, mbretit të Amorejve, dhe mbretërinë e Ogut, mbretit të Bashabit, vendin me qytetet përreth."
 "Kështu bijtë e Gadit ndërtuan Dibonin, Atarothin, Aroerin,"
 "Atroth-Shofanin, Jaazerin, Jogbehahun,"
 "Beth-Nimrahun dhe Beth-Aranin, qytete të fortifikuara, dhe vathë për kopetë e bagëtive."

@@ -18,7 +18,7 @@
 "Der nahm ihn und führte ihn zum Oberhauptmann und sprach
 "Da nahm ihn der Oberhauptmann bei der Hand und wich an einen besonderen Ort und fragte ihn
 "Er aber sprach
-"Du aber traue ihnen nicht; denn es lauern auf ihn mehr als vierzig Männer unter ihnen, die haben sich verschworen, weder zu essen noch zu trinken, bis sie Paulus töten; und sind jetzt bereit und warten auf deine Verheißung."
+"Du aber traue ihnen nicht; denn es lauern auf ihn mehr als vierzig Männer unter ihnen, die haben sich verschworen, #weder zu essen noch zu trinken, bis sie Paulus töten; und sind jetzt bereit und warten auf deine Verheißung."
 "Da ließ der Oberhauptmann den Jüngling von sich und gebot ihm, daß niemand sagte, daß er ihm solches eröffnet hätte,"
 "und rief zu sich zwei Unterhauptleute und sprach
 "und die Tiere richtet zu, daß sie Paulus draufsetzen und bringen ihn bewahrt zu Felix, dem Landpfleger."

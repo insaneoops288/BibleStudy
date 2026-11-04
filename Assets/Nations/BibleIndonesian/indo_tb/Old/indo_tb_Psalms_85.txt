@@ -5,7 +5,7 @@
 "(85-6) Untuk selamanyakah Engkau murka atas kami dan melanjutkan murka-Mu turun-temurun?"
 "(85-7) Apakah Engkau tidak mau menghidupkan kami kembali, sehingga umat-Mu bersukacita karena Engkau?"
 "(85-8) Perlihatkanlah kepada kami kasih setia-Mu, ya TUHAN, dan berikanlah kepada kami keselamatan dari pada-Mu!"
-"(85-9) Aku mau mendengar apa yang hendak difirmankan Allah, TUHAN. Bukankah Ia hendak berbicara tentang damai kepada umat-Nya dan kepada orang-orang yang dikasihi-Nya, supaya jangan mereka kembali kepada kebodohan?"
+"(85-9) Aku mau mendengar apa yang hendak difirmankan Allah, TUHAN. Bukankah Ia hendak berbicara tentang #damai kepada umat-Nya dan kepada orang-orang yang dikasihi-Nya, supaya jangan mereka kembali kepada kebodohan?"
 "(85-10) Sesungguhnya keselamatan dari pada-Nya dekat pada orang-orang yang takut akan Dia, sehingga kemuliaan diam di negeri kita."
 "(85-11) Kasih dan kesetiaan akan bertemu, keadilan dan damai sejahtera akan bercium-ciuman."
 "(85-12) Kesetiaan akan tumbuh dari bumi, dan keadilan akan menjenguk dari langit."

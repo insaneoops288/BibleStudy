@@ -5,7 +5,7 @@
 "Éluzaï; Jérimoth; Béalia; Shémaria; Shéphatia, Haruphien;"
 "Elkana; Jishija; Azaréel; Joézer et Jashobeam, Corites;"
 "Joéla et Zébadia, enfants de Jérocham, de Guédor."
-"D'entre les Gadites, se retirèrent vers David, dans la forteresse, au désert, de vaillants guerriers propres à la guerre, maniant le bouclier et la lance, semblables à des lions, et aussi prompts que des gazelles sur les montagnes
+"D'entre les Gadites, se retirèrent vers David, dans la forteresse, au désert, de vaillants guerriers propres à la guerre, maniant #le bouclier et la lance, semblables à des lions, et aussi prompts que des gazelles sur les montagnes
 "Ézer, le chef; Obadia, le second; Éliab, le troisième;"
 "Mishmanna, le quatrième; Jérémie, le cinquième;"
 "Atthaï, le sixième; Éliel, le septième;"
@@ -16,7 +16,7 @@
 "Il vint aussi des enfants de Benjamin et de Juda, vers David, à la forteresse."
 "David sortit au-devant d'eux et, prenant la parole, il leur dit
 "Alors Amasaï, chef de ceux qui combattent sur des chars, fut revêtu de l'Esprit, et il dit
-"De Manassé, il y en eut aussi qui passèrent à David, quand il vint avec les Philistins pour combattre contre Saül. Mais David et ses gens ne les aidèrent point, parce que les princes des Philistins, après délibération, le renvoyèrent, en disant
+"De Manassé, il y en eut aussi qui passèrent à David, quand il vint avec les Philistins pour combattre contre Saül. Mais #David et ses gens ne les aidèrent point, parce que les princes des Philistins, après délibération, le renvoyèrent, en disant
 "Quand il retourna à Tsiklag, Adna, Jozabad, Jédiaël, Micaël, Jozabad, Élihu et Tsiléthaï, chefs des milliers de Manassé, passèrent à lui."
 "Ils aidèrent David contre les bandes des Amalécites; car ils étaient tous de vaillants guerriers, et ils furent chefs dans l'armée."
 "Et journellement il venait des gens vers David pour l'aider, jusqu'à former un grand camp, comme un camp de Dieu."
@@ -35,6 +35,6 @@
 "Des Danites équipés pour la guerre, vingt-huit mille six cents."
 "D'Asser, allant à l'armée pour se ranger en bataille, quarante mille."
 "Et d'au delà du Jourdain
-"Tous ceux-là, gens de guerre, rangés en bataille, vinrent avec un cœur sincère à Hébron, pour établir David roi sur tout Israël. Or, tout le reste d'Israël était unanime aussi pour établir David roi."
+"Tous ceux-là, gens de guerre, rangés en bataille, vinrent avec un cœur sincère à Hébron, pour établir David #roi sur tout Israël. Or, tout le reste d'Israël était unanime aussi pour établir David roi."
 "Et ils furent là, avec David, mangeant et buvant pendant trois jours; car leurs frères leur avaient préparé des vivres;"
-"Et même ceux qui étaient les plus près d'eux, jusqu'à Issacar, à Zabulon et à Nephthali, apportaient des vivres sur des ânes, sur des chameaux, sur des mulets et sur des bœufs; des aliments de farine, des masses de figues sèches et de raisins secs, du vin, de l'huile, des bœufs et des brebis en abondance; car il y avait de la joie en Israël."
+"Et même ceux qui étaient les plus près d'eux, jusqu'à Issacar, à Zabulon et à Nephthali, apportaient des vivres sur des ânes, sur des chameaux, sur des mulets et sur des bœufs; des #aliments de farine, des masses de figues sèches et de raisins secs, du vin, de l'huile, des bœufs et des brebis en abondance; car il y avait de la joie en Israël."

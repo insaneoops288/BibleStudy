@@ -13,7 +13,7 @@
 "A když poodešli ti, kteříž nesli truhlu Hospodinovu, na šest kroků, obětoval voly a tučný dobytek."
 "David pak poskakoval ze vší síly před Hospodinem, a byl oblečen David v efod lněný."
 "A tak David i všecken dům Izraelský provázeli truhlu Hospodinovu s plésáním a zvukem trouby."
-"Stalo se pak, když truhla Hospodinova vcházela do města Davidova, že Míkol dcera Saulova vyhlídala z okna, a viduci krále Davida plésajícího a poskakujícího před Hospodinem, pohrdla jím v srdci svém."
+"Stalo se pak, když truhla Hospodinova vcházela do města Davidova, že Míkol dcera Saulova vyhlídala z #okna, a viduci krále Davida plésajícího a poskakujícího před Hospodinem, pohrdla jím v srdci svém."
 "A když přinesli truhlu Hospodinovu, postavili ji na místě jejím u prostřed stanu, kterýž jí byl David rozbil; a obětoval David před Hospodinem oběti zápalné i pokojné."
 "Zatím když přestal David obětovati obětí zápalných a pokojných, dal požehnání lidu ve jménu Hospodina zástupů."
 "Dal také všemu lidu a všemu množství Izraelskému, od muže až do ženy, jednomu každému jeden pecník chleba a kus masa, a vína láhvici jednu. I odšel všecken lid, jeden každý do domu svého."

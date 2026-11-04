@@ -25,7 +25,7 @@
 "Si tu hermano empobreciere, y vendiere algo de su posesión, su pariente más cercano vendrá y redimirá lo que su hermano hubiere vendido."
 "Y cuando el hombre no tuviere redentor, pero consiguiere lo suficiente para su redención;"
 "Entonces contará los años de su venta, y pagará lo que quedare al varón a quien vendió, y volverá a su posesión."
-"Pero si no consiguiere lo suficiente para recobrarlo para sí, entonces lo que vendió quedará en poder del que lo compró hasta el año del jubileo; y en el jubileo saldrá, y él volverá a su posesión."
+"Pero si no consiguiere lo suficiente para recobrarlo para sí, entonces lo que vendió quedará en poder del que #lo compró hasta el año del jubileo; y en el jubileo saldrá, y él volverá a su posesión."
 "Y el varón que vendiere una casa de habitación en una ciudad amurallada, tendrá facultad de redimirla hasta acabarse el año de su venta; un año será el término en que podrá redimirla."
 "Y si no fuere redimida dentro de un año entero, la casa que estuviere en la ciudad amurallada quedará para siempre para aquel que la compró, y para sus descendientes; no saldrá en el jubileo."
 "Mas las casas de las aldeas que no tienen muro alrededor, serán estimadas como tierras del campo; tendrán redención, y saldrán en el jubileo."
@@ -43,11 +43,11 @@
 "No te enseñorearás de él con dureza, mas tendrás temor de tu Dios."
 "Así tu siervo como tu sierva que tuvieres, serán de las naciones que están en vuestro alrededor
 "También compraréis de los hijos de los forasteros que viven entre vosotros, y de los que del linaje de ellos son nacidos en vuestra tierra, que están con vosotros; los cuales tendréis por posesión
-"Y los poseeréis como herencia para vuestros hijos después de vosotros, como posesión hereditaria; para siempre os serviréis de ellos; pero en cuanto a vuestros hermanos los hijos de Israel, no os enseñorearéis uno sobre otro con dureza."
-"Y si el peregrino o extranjero que está contigo se enriqueciere, y tu hermano que está con él empobreciere, y se vendiere al peregrino o extranjero que está contigo, o a alguno de la familia del extranjero;"
+"Y los poseeréis como herencia para vuestros hijos después de vosotros, como posesión hereditaria; para siempre os serviréis de ellos; #pero en cuanto a vuestros hermanos los hijos de Israel, no os enseñorearéis uno sobre otro con dureza."
+"Y si el peregrino o extranjero que está contigo se enriqueciere, y tu hermano que está con él empobreciere, #y se vendiere al peregrino o extranjero que está contigo, o a alguno de la familia del extranjero;"
 "después que se hubiere vendido, podrá ser redimido; uno de sus hermanos podrá redimirlo;"
 "o su tío, o el hijo de su tío podrán redimirlo, o un pariente cercano de su familia podrá redimirlo; o si sus medios alcanzaren, él mismo podrá redimirse."
-"Y hará cuentas con el que lo compró, desde el año en que se vendió a él, hasta el año del jubileo; y el precio de su venta será conforme al número de los años, y se hará con él conforme al tiempo de un siervo asalariado."
+"Y hará cuentas con el que lo compró, desde el año en que se vendió a él, hasta el año del jubileo; y el #precio de su venta será conforme al número de los años, y se hará con él conforme al tiempo de un siervo asalariado."
 "Si aún le quedaren muchos años, conforme a ellos devolverá por su redención, del dinero por el cual se vendió."
 "Y si quedare poco tiempo hasta el año del jubileo, entonces hará cuentas con él, y conforme a sus años devolverá el precio de su redención."
 "Como con el tomado a salario anualmente hará con él; no se enseñoreará sobre él con rigor delante de tus ojos."

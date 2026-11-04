@@ -1,6 +1,6 @@
 "Y Jehová habló a Moisés, diciendo
 "Manda a los hijos de Israel que te traigan aceite de olivas claro, molido, para la luminaria, para hacer arder las lámparas continuamente."
-"Fuera del velo del testimonio, en el tabernáculo del testimonio, las aderezará Aarón desde la tarde hasta la mañana delante de Jehová, continuamente; [será] estatuto perpetuo por vuestras generaciones."
+"Fuera del velo del testimonio, en el tabernáculo del testimonio, las aderezará Aarón desde la #tarde hasta la mañana delante de Jehová, continuamente; [será] estatuto perpetuo por vuestras generaciones."
 "Sobre el candelero limpio pondrá siempre en orden las lámparas delante de Jehová."
 "Y tomarás flor de harina, y cocerás de ella doce tortas; cada torta será de dos décimas."
 "Y has de ponerlas en dos órdenes, seis en cada orden, sobre la mesa limpia delante de Jehová."

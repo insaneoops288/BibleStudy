@@ -9,5 +9,5 @@
 "dhe të puthurat e gojës sate si një verë e zgjedhur, që zbret ëmbël për të kënaqur dëshirën time, duke çikur shumë lehtë buzët e atij që fle."
 "Unë jam e të dashurit tim dhe ai më dëshiron."
 "Eja, i dashuri im, le të dalim nëpër fusha, ta kalojmë natën nëpër fshatra!"
-"Të çohemi shpejt në mëngjes për të shkuar në vreshtat dhe për të parë në qoftë se vreshti ka lëshuar llastarë, në se kanë çelur lulet e tij dhe në se shegët kanë lulëzuar. Aty do të jap dashurinë time."
+"Të çohemi shpejt në mëngjes për të shkuar në vreshtat dhe për të parë në qoftë se vreshti ka lëshuar llastarë, #në se kanë çelur lulet e tij dhe në se shegët kanë lulëzuar. Aty do të jap dashurinë time."
 "Madërgonat përhapin aromën e tyre dhe mbi portat tona ka fryte të zgjedhura të çdo lloji, të freskëta dhe të thata, që i kam ruajtur për ty, i dashuri im."

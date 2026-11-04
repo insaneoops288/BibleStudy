@@ -1,6 +1,6 @@
 "Ja Herra puhui Mosekselle, sanoen
 "Käske Israelin lasten tuoda sinulle selkiää öljypuun öljyä, puserrettua ulos, valaistukseksi, joka aina pitää lampuissa sytytettynä oleman."
-"Ulkoiselle puolelle todistuksen esirippua seurakunnan majassa pitää Aaronin sen alati valmistaman, ehtoosta niin aamuun asti Herran edessä. Sen pitää oleman ijankaikkisen säädyn teidän sukukunnissanne."
+"Ulkoiselle puolelle todistuksen esirippua seurakunnan majassa pitää Aaronin sen alati valmistaman, ehtoosta niin #aamuun asti Herran edessä. Sen pitää oleman ijankaikkisen säädyn teidän sukukunnissanne."
 "Ja hänen pitää valmistaman lamput puhtaasen kynttiläjalkaan, aina Herran edessä."
 "Ja sinun pitää ottaman sämpyläjauhoja ja leipoman niistä kaksitoistakymmentä kyrsää
 "Ja sinun pitää heidän paneman kahteen läjään, kuusi kumpaankin läjään, puhtaalle pöydälle Herran eteen."

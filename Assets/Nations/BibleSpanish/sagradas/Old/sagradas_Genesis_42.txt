@@ -13,7 +13,7 @@
 "Ellos respondieron
 "Y José les dijo
 "En esto seréis probados
-"Enviad uno de vosotros, y traiga a vuestro hermano; y vosotros quedad presos, y vuestras palabras serán probadas, si <I>la</I>  verdad <I>esta</I>  con vosotros; y si no, vive <I>el</I>  Faraón, que sois espías."
+"Enviad uno de vosotros, y traiga a vuestro hermano; y vosotros quedad presos, y vuestras palabras serán probadas, si #<I>la</I>  verdad <I>esta</I>  con vosotros; y si no, vive <I>el</I>  Faraón, que sois espías."
 "Y los juntó en la cárcel por tres días."
 "Y al tercer día les dijo José
 "Si sois hombres de <I>la</I>  verdad, quede preso en la casa de vuestra cárcel uno de vuestros hermanos; y vosotros id, llevad el alimento para el hambre de vuestra casa;"

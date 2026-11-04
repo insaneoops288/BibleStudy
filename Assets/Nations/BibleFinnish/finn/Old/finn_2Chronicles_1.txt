@@ -11,7 +11,7 @@
 "Niin sanoi Jumala Salomolle
 "Niin olkoon sinulle taito ja ymmärrys annettu
 "Ja Salomo tuli korkeudelta, joka oli Gibeonissa, Jerusalemiin, seurakunnan majasta, ja hallitsi Israelia."
-"Ja Salomo kokosi itsellensä rattaita ja hevosmiehiä, niin että hänellä oli neljäsataa toistatuhatta ratasta ja kaksitoistakymmentä tuhatta hevosmiestä, ja antoi heidän olla rataskaupungeissa ja kuninkaan tykönä Jerusalemissa."
+"Ja Salomo kokosi itsellensä rattaita ja hevosmiehiä, niin että hänellä oli neljäsataa toistatuhatta ratasta #ja kaksitoistakymmentä tuhatta hevosmiestä, ja antoi heidän olla rataskaupungeissa ja kuninkaan tykönä Jerusalemissa."
 "Ja kuningas toimitti niin että hopiaa ja kultaa oli Jerusalemissa niin paljo kuin kiviäkin, ja sedripuita kuin metsäfikunapuitakin laaksoissa."
 "Ja Salomolle vietiin hevosia Egyptistä ja kudotuskaluja. Ja kuninkaan kauppamiehet ostivat ne kudotuskalut."
-"Ja he menivät ylös ja veivät ne Egyptistä, ja jokainen ratas maksoi kuusisataa hopiapenninkiä, ja hevonen sata ja viisikymmentä. Ja niin vietiin niitä myös kaikkein Hetiläisten ja Syrian kuninkaiden tykö heidän kättensä kautta."
+"Ja he menivät ylös ja veivät ne Egyptistä, ja jokainen ratas maksoi kuusisataa hopiapenninkiä, ja hevonen sata #ja viisikymmentä. Ja niin vietiin niitä myös kaikkein Hetiläisten ja Syrian kuninkaiden tykö heidän kättensä kautta."

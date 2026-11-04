@@ -19,7 +19,7 @@
 "És te, embernek fia, csinálj magadnak két útat, a melyen jõjjön a babiloni király kardja; egy földrõl jõjjön ki mind a kettõ; s egy kezet véss föl, a városba vezetõ út fejénél vésd föl."
 "Útat csinálj, hogy jõjjön a kard az Ammon fiainak Rabbájára, aztán Júdára, a körülkerített Jeruzsálemre."
 "Mert megáll a babiloni király az útak kezdetén, a két út fejénél, hogy jövendõt láttasson; megrázza a nyilakat, megkérdezi a Teráfimot, megnézi a májat."
-"Jobbjába adta a jövendölés Jeruzsálemet, hogy állasson faltörõ kosokat, hogy nyissa száját ordításra, hogy üssön zajt trombitával, hogy állasson faltörõ kosokat a kapuk ellen, hogy töltsön sánczot, építsen tornyot."
+"Jobbjába adta a jövendölés Jeruzsálemet, hogy állasson faltörõ kosokat, hogy nyissa száját ordításra, hogy üssön #zajt trombitával, hogy állasson faltörõ kosokat a kapuk ellen, hogy töltsön sánczot, építsen tornyot."
 "De ez nékik hamis jövendölésnek látszik
 "Ezokáért ezt mondja az Úr Isten
 "És te elvetemedett, te gonosztevõ, Izráel fejedelme, a kinek napja eljött az utolsó vétek idején

@@ -24,7 +24,7 @@
 "Aber es ward Saulus kundgetan, daß sie ihm nachstellten. Sie hüteten aber Tag und Nacht an den Toren, daß sie ihn töteten."
 "Da nahmen ihn die Jünger bei der Nacht und taten ihn durch die Mauer und ließen ihn in einem Korbe hinab."
 "Da aber Saulus gen Jerusalem kam, versuchte er, sich zu den Jüngern zu tun; und sie fürchteten sich alle vor ihm und glaubten nicht, daß er ein Jünger wäre."
-"Barnabas aber nahm ihn zu sich und führte ihn zu den Aposteln und erzählte ihnen, wie er auf der Straße den HERRN gesehen und er mit ihm geredet und wie er zu Damaskus den Namen Jesus frei gepredigt hätte."
+"Barnabas aber nahm ihn zu sich und führte ihn zu den Aposteln und erzählte ihnen, wie er auf der Straße #den HERRN gesehen und er mit ihm geredet und wie er zu Damaskus den Namen Jesus frei gepredigt hätte."
 "Und er war bei ihnen und ging aus und ein zu Jerusalem und predigte den Namen des HERRN Jesu frei."
 "Er redete auch und befragte sich mit den Griechen; aber sie stellten ihm nach, daß sie ihn töteten."
 "Da das die Brüder erfuhren, geleiteten sie ihn gen Cäsarea und schickten ihn gen Tarsus."
@@ -36,7 +36,7 @@
 "Zu Joppe aber war eine Jüngerin mit Namen Tabea(welches verdolmetscht heißt
 "Es begab sich aber zu der Zeit, daß sie krank ward und starb. Da wuschen sie dieselbe und legten sie auf den Söller."
 "Nun aber Lydda nahe bei Joppe ist, da die Jünger hörten, daß Petrus daselbst war, sandten sie zwei Männer zu ihm und ermahnten ihn, daß er sich's nicht ließe verdrießen, zu ihnen zu kommen."
-"Petrus aber stand auf und kam mit ihnen. Und als er hingekommen war, führten sie ihn hinauf auf den Söller, und traten um ihn alle Witwen, weinten und zeigten ihm die Röcke und Kleider, welche die Rehe machte, als sie noch bei ihnen war."
+"Petrus aber stand auf und kam mit ihnen. Und als er hingekommen war, führten sie ihn hinauf auf den Söller, und traten um #ihn alle Witwen, weinten und zeigten ihm die Röcke und Kleider, welche die Rehe machte, als sie noch bei ihnen war."
 "Und da Petrus sie alle hinausgetrieben hatte, kniete er nieder, betete und wandte sich zu dem Leichnam und sprach
 "Er aber gab ihr die Hand und richtete sie auf und rief die Heiligen und die Witwen und stellte sie lebendig dar."
 "Und es ward kund durch ganz Joppe, und viele wurden gläubig an den HERRN."

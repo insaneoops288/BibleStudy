@@ -8,7 +8,7 @@
 "Król więc rozkazał, aby wykonano skrzynię i umieszczono ją przed bramą domu PANA."
 "I ogłoszono w Judzie i Jerozolimie, aby przynoszono PANU ofiarę nałożoną na Izraela przez Mojżesza, sługę Bożego, na pustyni."
 "I radowali się wszyscy książęta oraz cały lud. Przynosili ją i rzucali do tej skrzyni, aż ją napełnili."
-"A kiedy Lewici przynosili skrzynię do urzędu królewskiego i gdy widzieli, że było już wiele pieniędzy, przychodził pisarz królewski oraz pełnomocnik najwyższego kapłana i wypróżniali skrzynię, a potem ją odnosili z powrotem na swoje miejsce. Tak czynili codziennie i zebrali bardzo dużo pieniędzy."
+"A kiedy Lewici przynosili skrzynię do urzędu królewskiego i gdy widzieli, że było już wiele pieniędzy, przychodził pisarz królewski oraz pełnomocnik najwyższego #kapłana i wypróżniali skrzynię, a potem ją odnosili z powrotem na swoje miejsce. Tak czynili codziennie i zebrali bardzo dużo pieniędzy."
 "Król i Jehojada dawali je kierownikom robót domu PANA, a ci najmowali kamieniarzy i cieśli do naprawy domu PANA, a także kowali i brązowników – do umocnienia domu PANA."
 "Tak więc robotnicy pracowali i dzięki nim dzieło zostało wykonane. Doprowadzili dom Boży do właściwego stanu i umocnili go."
 "A gdy skończyli, przynieśli przed króla i Jehojadę resztę pieniędzy, za które sporządzono naczynia do domu PANA
@@ -22,6 +22,6 @@
 "I nie pamiętał król Joasz o dobrodziejstwie, jakie wyświadczył mu jego ojciec Jehojada, ale zabił jego syna. Kiedy ten umierał, powiedział
 "A po upływie roku przeciwko niemu nadciągnęło wojsko Syrii. Przybyło do Judy i Jerozolimy i wyniszczyło z ludu wszystkich książąt, a wszystkie jego łupy posłano królowi Damaszku."
 "Przybyło bowiem wojsko Syrii z niewielką liczbą ludzi, a PAN wydał w ich ręce bardzo liczne wojsko, dlatego że opuścili PANA, Boga swoich ojców. I tak dokonano sądu nad Joaszem."
-"A gdy się od niego oddalili, zostawiając go w ciężkiej chorobie, jego słudzy sprzysięgli się przeciwko niemu, z powodu krwi synów kapłana Jehojady, i zabili go na jego łożu. Tak więc umarł i pogrzebano go w mieście Dawida, ale nie w grobach królewskich."
+"A gdy się od niego oddalili, zostawiając go w ciężkiej chorobie, jego słudzy sprzysięgli się przeciwko niemu, z powodu krwi synów kapłana #Jehojady, i zabili go na jego łożu. Tak więc umarł i pogrzebano go w mieście Dawida, ale nie w grobach królewskich."
 "A oto są ci, którzy sprzysięgli się przeciw niemu
 "O jego synach zaś, o wielkim ciężarze nałożonym na niego i o naprawie domu Bożego, jest zapisane w księdze królewskiej. I królował jego syn Amazjasz w jego miejsce."

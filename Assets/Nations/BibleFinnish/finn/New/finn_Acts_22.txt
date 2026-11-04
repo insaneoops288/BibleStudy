@@ -1,8 +1,8 @@
 "Miehet, rakkat veljet ja isät! kuulkaat minun edesvastaustani, jonka minä teille sanon."
 "(Kuin he kuulivat hänen Hebrean kielellä heille puhuvan, vaikenivat he enemmin. Ja hän sanoi
-"Minä olen Juudalainen, Tarsossa Kilikiassa syntynyt ja tässä kaupungissa kasvatettu Gamalielin jalkain juuressa, opetettu visusti vanhimpain laissa, ja olin Jumalan puolesta kiivas, niinkuin tekin kaikki olette tänäpänä,"
+"Minä olen Juudalainen, Tarsossa Kilikiassa syntynyt ja tässä kaupungissa kasvatettu Gamalielin jalkain juuressa, opetettu #visusti vanhimpain laissa, ja olin Jumalan puolesta kiivas, niinkuin tekin kaikki olette tänäpänä,"
 "Ja olen tätä tietä vainonnut kuolemaan asti, sitoin ja antain ylön vankiuteen sekä miehiä että vaimoja,"
-"Niinkuin myös ylimmäinen pappi ja koko vanhimpain joukko minun todistajani ovat, joilta minä otin lähetyskirjat veljein tykö, ja vaelsin Damaskuun, että minä ne, jotka siellä olivat, olisin sidottuna tuonut Jerusalemiin rangaistaa."
+"Niinkuin myös ylimmäinen pappi ja koko vanhimpain joukko minun todistajani ovat, joilta minä otin lähetyskirjat veljein #tykö, ja vaelsin Damaskuun, että minä ne, jotka siellä olivat, olisin sidottuna tuonut Jerusalemiin rangaistaa."
 "Niin tapahtui minun matkassa ollessani ja lähestyissäni Damaskua puolipäivän aikaan, että suuri kirkkaus valaisi äkisti taivaasta minua ympäri."
 "Ja minä lankesin maahan ja kuulin äänen minulle sanovan
 "Niin minä vastasin
@@ -27,4 +27,4 @@
 "Niin sodanpäämies meni hänen tykönsä ja sanoi hänelle
 "Ja sodanpäämies vastasi
 "Ja he läksivät kohta hänen tyköänsä tutkimasta. Ja sodanpäämies rupesi pelkäämään, sittekuin hän sai tietää, hänen Roomalaisen olevan, että hän hänen sitonut oli."
-"Mutta toisena päivänä tahtoi hän visummasti tietää, minkätähden hänen päällensä Juudalaisilta kannettiin, ja päästi hänen siteistä, ja käski ylimmäiset papit ja kaiken heidän raatinsa tulla kokoon, ja antoi Paavalin tulla heidän eteensä."
+"Mutta toisena päivänä tahtoi hän visummasti tietää, minkätähden hänen päällensä Juudalaisilta kannettiin, ja päästi hänen siteistä, ja #käski ylimmäiset papit ja kaiken heidän raatinsa tulla kokoon, ja antoi Paavalin tulla heidän eteensä."

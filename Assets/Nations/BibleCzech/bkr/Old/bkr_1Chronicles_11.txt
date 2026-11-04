@@ -15,7 +15,7 @@
 "Ti také tři ze třidcíti předních sstoupili k skále k Davidovi do jeskyně Adulam, když vojsko Filistinských leželo v údolí Refaim."
 "(Nebo David tehdáž bydlil v pevnosti své, a osazený lid Filistinských byl tehdáž u Betléma.)"
 "Pohnul se pak David žádostí, a řekl
-"A protož probivše se ti tři skrze vojsko Filistinských, navážili vody z čisterny Betlémské, kteráž jest u brány, a nabravše, přinesli k Davidovi. David pak nechtěl jí píti, ale vylil ji v obět Hospodinu,"
+"A protož probivše se ti tři skrze vojsko Filistinských, navážili vody z čisterny Betlémské, kteráž jest u brány, #a nabravše, přinesli k Davidovi. David pak nechtěl jí píti, ale vylil ji v obět Hospodinu,"
 "A řekl
 "Potom Abizai bratr Joábův byl přední mezi třmi, a ten také pozdvihl kopí svého proti třem stům, i pobil je, a byl z těch tří nejslovoutnější."
 "Z těch tří nad druhé dva jsa nejvzácnější, byl knížetem jejich, a však oněm prvním nebyl rovný."

@@ -18,7 +18,7 @@
 "Gia-ên ra đón Si-sê-ra, mà nói rằng
 "Ðoạn, người nói cùng nàng rằng
 "Người lại nói cùng nàng rằng
-"Bấy giờ người ngủ say, vì mệt nhọc quá; Gia-ên, vợ Hê-be, bèn lấy một cây nọc trại, và tay nắm cái búa, nhẹ nhẹ đến bên ngươi, lấy cái nọc đóng thủng màng tang người, thấu xuống đất, và người hết đi."
+"Bấy giờ người ngủ say, vì mệt nhọc quá; Gia-ên, vợ Hê-be, bèn lấy một cây nọc trại, và tay nắm cái #búa, nhẹ nhẹ đến bên ngươi, lấy cái nọc đóng thủng màng tang người, thấu xuống đất, và người hết đi."
 "Ba-rác đương còn rượt theo Si-sê-ra, Gia-ên bèn ra đón người, mà nói rằng
 "Trong ngày đó, Ðức Chúa Trời khiến cho Gia-bin, vua Ca-na-an, bị phục trước mặt dân Y-sơ-ra-ên."
 "Tay dân Y-sơ-ra-ên càng ngày càng mạnh thắng Gia-bin, vua Ca-na-an, cho đến chừng chúng đã diệt người đi."

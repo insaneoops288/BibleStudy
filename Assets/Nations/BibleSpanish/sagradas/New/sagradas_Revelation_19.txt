@@ -17,5 +17,5 @@
 "Y vi un ángel que estaba dentro del sol, y clamó con gran voz, diciendo a todas las aves que volaban por medio del cielo
 "Para que comáis carne de reyes, y de capitanes, y carne de fuertes, y carne de caballos, y de los que están sentados sobre ellos; y carne de todos libres y siervos, de pequeños y de grandes."
 "Y vi la bestia, y los reyes de la tierra y sus ejércitos, congregados para hacer guerra contra el que estaba sentado sobre el caballo, y contra su ejército."
-"Y la bestia fue presa, y con él el falso Profeta que había hecho las señales delante de ella, con las cuales había engañado a los que tomaron la marca de la bestia, y habían adorado su imagen. Estos dos fueron lanzados vivos  dentro del lago de fuego ardiendo en azufre."
+"Y la bestia fue presa, y con él el falso Profeta que había hecho las señales delante de ella, con las cuales había engañado a los que #tomaron la marca de la bestia, y habían adorado su imagen. Estos dos fueron lanzados vivos  dentro del lago de fuego ardiendo en azufre."
 "Y los otros fueron muertos con la espada que salía de la boca del que estaba sentado sobre el caballo; y todas las aves se saciaron de las carnes de ellos."

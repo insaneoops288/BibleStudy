@@ -2,7 +2,7 @@
 "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito, de casa de servos."
 "Não terás deuses alheios diante de mim."
 "Não te farás imagem, nem nenhuma semelhança de coisa que esteja acima no céu, nem abaixo na terra, nem nas águas debaixo da terra
-"Não te inclinarás a elas, nem as honrarás; porque eu sou o SENHOR teu Deus, forte, zeloso, que visito a maldade dos pais sobre os filhos, sobre os terceiros e sobre os quartos, aos que me aborrecem,"
+"Não te inclinarás a elas, nem as honrarás; porque eu sou o SENHOR teu Deus, forte, zeloso, que visito #a maldade dos pais sobre os filhos, sobre os terceiros e sobre os quartos, aos que me aborrecem,"
 "E que faço misericórdia em milhares aos que me amam, e guardam meus mandamentos."
 "Não tomarás o nome do SENHOR teu Deus em vão; porque não dará por inocente o SENHOR ao que tomar seu nome em vão."
 "Tu te lembrarás do dia do repouso, para santificá-lo

@@ -16,9 +16,9 @@
 "Și el a spus
 "Și după ce a venit la Samaria, a ucis pe toți cei rămași lui Ahab în Samaria, până l-a nimicit, conform spusei DOMNULUI, pe care o vorbise lui Ilie."
 "Și Iehu a adunat tot poporul și le-a zis
-"Și acum, chemați-mi pe toți profeții lui Baal, pe toți servitorii lui și pe toți preoții lui; să nu lipsească nimeni, pentru că am un mare sacrificiu [de făcut ]lui Baal; oricine va lipsi nu va mai trăi. Dar Iehu a făcut [aceasta] cu viclenie, pentru a-i nimici pe închinătorii lui Baal."
+"Și acum, chemați-mi pe toți profeții lui Baal, pe toți servitorii lui și pe toți preoții lui; să nu lipsească nimeni, pentru că am un mare sacrificiu #[de făcut ]lui Baal; oricine va lipsi nu va mai trăi. Dar Iehu a făcut [aceasta] cu viclenie, pentru a-i nimici pe închinătorii lui Baal."
 "Și Iehu a spus
-"Și Iehu a trimis în tot Israelul; și toți închinătorii lui Baal au venit, astfel încât nu a rămas niciun om care să nu fi venit. Și au intrat în casa lui Baal; și casa lui Baal era plină de la un capăt până la altul."
+"Și Iehu a trimis în tot Israelul; și toți închinătorii lui Baal au venit, astfel încât nu a rămas niciun om care să nu #fi venit. Și au intrat în casa lui Baal; și casa lui Baal era plină de la un capăt până la altul."
 "Și el a spus celui care [era] peste veștminte
 "Și Iehu și Ionadab, fiul lui Recab, au intrat în casa lui Baal, și [Iehu] a spus închinătorilor lui Baal
 "Și după ce au intrat să ofere sacrificii și ofrande arse, Iehu a rânduit afară optzeci de oameni și a spus

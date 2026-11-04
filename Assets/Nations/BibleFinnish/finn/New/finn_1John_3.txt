@@ -1,5 +1,5 @@
 "Katsokaat, minkäkaltaisen rakkauden Isä on meille osoittanut, että me Jumalan lapsiksi nimitetään. Sentähden ei maailma teitä tunne; sillä ei hän häntäkään tunne."
-"Minun rakkaani! nyt me olemme Jumalan lapset, ja ei ole se vielä ilmestynyt, miksi me tulemme; mutta me tiedämme, kuin se ilmestyy, niin me hänen kaltaisiksensa tulemme; sillä me saamme hänen nähdä niinkuin hän on."
+"Minun rakkaani! nyt me olemme Jumalan lapset, ja ei ole se vielä ilmestynyt, miksi me tulemme; mutta me #tiedämme, kuin se ilmestyy, niin me hänen kaltaisiksensa tulemme; sillä me saamme hänen nähdä niinkuin hän on."
 "Ja jokainen, jolla tämä toivo on hänen tykönsä, puhdistaa itsensä, niinkuin hänkin puhdas on."
 "Jokainen, joka syntiä tekee, se myös tekee vääryyttä, ja synti on vääryys."
 "Ja te tiedätte hänen ilmestyneen, että hän meidän syntimme ottais pois; ja ei hänessä ole syntiä."

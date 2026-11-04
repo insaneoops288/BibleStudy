@@ -12,7 +12,7 @@
 "Nhà, ruộng, và vợ của họ sẽ sang qua kẻ khác; vì tay ta sẽ giang ra trên dân cư đất nầy, Ðức Giê-hô-va phán vậy."
 "Vì trong vòng họ, từ kẻ rất nhỏ cho đến người rất lớn, đều tham lam; từ kẻ tiên tri cho đến thầy tế lễ, đều làm sự giả dối."
 "Họ rịt vết thương cho dân ta cách sơ sài mà rằng
-"Họ phạm tội gớm ghiếc, há lấy làm xấu hổ ư? Họ chẳng xấu hổ chút nào, cũng chẳng thẹn đỏ mặt nữa. Cho nên họ sẽ vấp ngã với những kẻ vấp ngã. Khi ta thăm phạt, chúng nó sẽ bị lật đổ, Ðức Giê-hô-va phán vậy."
+"Họ phạm tội gớm ghiếc, há lấy làm xấu hổ ư? Họ chẳng xấu hổ chút nào, cũng chẳng thẹn đỏ mặt nữa. Cho nên #họ sẽ vấp ngã với những kẻ vấp ngã. Khi ta thăm phạt, chúng nó sẽ bị lật đổ, Ðức Giê-hô-va phán vậy."
 "Ðức Giê-hô-va phán như vầy
 "Ta đã lập vọng canh kề các ngươi; hãy chăm chỉ nghe tiếng kèn. Nhưng chúng nó đáp rằng
 "Vì vậy, hỡi các nước, hãy nghe; hỡi hội chúng, hãy biết điều xảy đến giữa chúng nó!"
@@ -20,10 +20,10 @@
 "Nào ta có cần gì nhũ hương đến từ Sê-ba, xương bồ đến từ xứ xa mà dâng cho ta? Của lễ thiêu của các ngươi chẳng đẹp lòng ta, ta chẳng lấy tế lễ của các ngươi làm vừa ý."
 "Vậy nên, Ðức Giê-hô-va phán như vầy
 "Ðức Giê-hô-va phán như vầy
-"Chúng nó thảy đều cầm cung và giáo, thật là dữ tợn, chẳng có lòng thương xót. Tiếng chúng nó rống lên như biển, họ đều cỡi ngựa; ai nấy sắp hàng như người lính chiến mà nghịch cùng ngươi, hỡi con gái Si-ôn!"
+"Chúng nó thảy đều cầm cung và giáo, thật là dữ tợn, chẳng có lòng thương xót. Tiếng chúng nó rống lên như #biển, họ đều cỡi ngựa; ai nấy sắp hàng như người lính chiến mà nghịch cùng ngươi, hỡi con gái Si-ôn!"
 "Chúng ta đã nghe tin ấy, tay đều yếu đuối; buồn rầu thảm thiết, cơn quặn thắt như đờn bà đẻ con đã xông vào chúng ta."
 "Chớ ra nơi đồng ruộng, chớ đi trên đường, vì gươm của giặc ở đó, khắp mọi nơi đều có sự kinh hãi."
-"Hỡi con gái của dân ta, hãy thắt lưng bằng bao gai, và lăng trong tro bụi. Hãy phát tang như mất con trai một, làm cho nghe tiếng than khóc đắng cay; vì kẻ tàn phá sẽ xông tới trên chúng ta thình lình."
+"Hỡi con gái của dân ta, hãy thắt lưng bằng bao gai, và lăng trong tro bụi. Hãy phát tang như mất con #trai một, làm cho nghe tiếng than khóc đắng cay; vì kẻ tàn phá sẽ xông tới trên chúng ta thình lình."
 "Ta đã lập ngươi làm kẻ thử và đồn lũy giữa dân ta, đặng ngươi nhận biết và dò xem đường lối nó."
 "Chúng nó thảy đều bạn nghịch quá lắm, đi dạo nói xấu, cứng như đồng như sắt, làm những sự bại hoại."
 "Oáng bễ thổi mạnh, chì đã tiêu bởi lửa; chúng nó luyện đi luyện lại cũng là luống công

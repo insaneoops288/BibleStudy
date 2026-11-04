@@ -10,10 +10,10 @@
 "dhe e njohën se ishte ai që rrinte ulur para derës së Bukur të tempullit për të kërkuar lëmoshë; dhe u mbushën me habi dhe çudi për atë që i kishte ndodhur atij."
 "Atëherë, ndërsa i çali që ishte shëruar rrinte ngjitur pas Pjetrit dhe Gjonit, gjithë populli, i çuditur, rendi drejt tyre te portiku të quajtur i Salomonit."
 "Dhe Pjetri, duke parë këtë gjë, i foli popullit duke thënë
-"Perëndia e Abrahamit, e Isakut dhe e Jakobit, Perëndia e etërve tanë e ka përlëvduar Birin e tij Jezusin, të cilin ju ia dorëzuat Pilatit dhe e mohuat përpara tij, megjithëse ai kishte vendosur ta lironte."
+"Perëndia e Abrahamit, e Isakut dhe e Jakobit, Perëndia e etërve tanë e ka përlëvduar Birin e tij Jezusin, #të cilin ju ia dorëzuat Pilatit dhe e mohuat përpara tij, megjithëse ai kishte vendosur ta lironte."
 "Por ju e mohuat të Shenjtin, të Drejtin, dhe kërkuat që t'ju jepej një vrasës,"
 "dhe vratë princin e jetës, që Perëndia e ka ringjallur prej së vdekuri dhe për të cilin ne jemi dëshmitarë!"
-"Dhe për besimin në emër të Jezusit, ky njeri, të cilin ju po e shihni dhe e njihni, u fortesua nga emri i tij; dhe besimi, që është nëpërmjet tij, i ka dhënë shërimin e plotë të gjymtyrëve, në praninë e të gjithëve ju."
+"Dhe për besimin në emër të Jezusit, ky njeri, të cilin ju po e shihni dhe e njihni, u fortesua nga emri i #tij; dhe besimi, që është nëpërmjet tij, i ka dhënë shërimin e plotë të gjymtyrëve, në praninë e të gjithëve ju."
 "Por tani, o vëllezër, unë e di që e keni bërë nga padija, ashtu siç kanë bërë edhe krerët tuaj."
 "Por kështu Perëndia i ka përmbushur ato që kishte parathënë me gojën e të gjithë profetëve të vet, se Krishti i tij do të vuante."
 "Pendohuni, pra, dhe kthehuni, që të shlyhen mëkatet tuaja, dhe që të vijnë kohët e flladit nga prania e Zotit,"

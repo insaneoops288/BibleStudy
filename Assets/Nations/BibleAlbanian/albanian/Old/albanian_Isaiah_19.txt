@@ -17,7 +17,7 @@
 "Vendi i Judës do të jetë tmerri i Egjiptit; sa herë që do të përmendet, ka për të qenë një tmerr i vërtetë për shkak të vendimit të marrë nga Zoti i ushtrive kundër tij."
 "Atë ditë do të ketë në vendin e Egjiptit pesë qytete që do të flasin gjuhën e Kanaanit dhe do të betohen për Zotin e ushtrive; njeri nga këto do të quhet ""qyteti i shkatërrimit""."
 "Atë ditë do të ketë në mes të vendit të Egjiptit një altar kushtuar Zotit, dhe një shtyllë të ngritur për Zotin pranë kufirit të tij."
-"Do të jetë një shenjë dhe një dëshmi për Zotin e ushtrive në vendin e Egjiptit; kur ata do t'i këlthasin Zotit për shkak të shtypësve të tyre, ai do t'u dërgojë atyre një shpëtimtar dhe një të fuqishëm që do t'i çlirojë."
+"Do të jetë një shenjë dhe një dëshmi për Zotin e ushtrive në vendin e Egjiptit; kur ata do t'i këlthasin Zotit #për shkak të shtypësve të tyre, ai do t'u dërgojë atyre një shpëtimtar dhe një të fuqishëm që do t'i çlirojë."
 "Zoti do t'i shfaqet Egjiptit dhe Egjiptasit do ta njohin Zotin atë ditë; do t'i ofrojnë flijime dhe blatime ushqimore, do të bëjnë premtime solemne para Zotit dhe do t'i mbajnë ato."
 "Zoti do t'i godasë Egjiptasit, do t'i godasë dhe do t'i shërojë; ata do t'i kthehen Zotit që do t'i dëgjojë lutjet e tyre dhe do t'i shërojë."
 "Atë ditë do të ketë një rrugë nga Egjipti në Asiri; Asirët do të shkojnë në Egjipt, dhe Egjiptasit në Asiri, dhe Egjiptasit do të shërbejnë bashkë me Asirët."

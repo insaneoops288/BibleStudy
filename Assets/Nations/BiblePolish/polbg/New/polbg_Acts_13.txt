@@ -1,4 +1,4 @@
-"A byli w Antyjochii we zborze, który tam był, niektórzy prorocy i nauczyciele, jako Barnabasz i Symeon, którego zwano Niger, i Lucyjus Cyrenejczyk, i Manahen, który był wychowany z Herodem Tetrarchą, i Saul."
+"A byli w Antyjochii we zborze, który tam był, niektórzy prorocy i nauczyciele, jako Barnabasz i Symeon, #którego zwano Niger, i Lucyjus Cyrenejczyk, i Manahen, który był wychowany z Herodem Tetrarchą, i Saul."
 "A gdy oni służbę Pańską jawnie odprawiali i pościli, rzekł im Duch Święty
 "Tedy poszcząc i modląc się, i wkładając na nie ręce, odprawili je."
 "Oni tedy wysłani będąc od Ducha Świętego, przyszli do Seleucyi, a stamtąd płynęli do Cypru."

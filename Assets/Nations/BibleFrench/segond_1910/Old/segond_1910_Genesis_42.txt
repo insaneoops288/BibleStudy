@@ -13,7 +13,7 @@
 "Ils répondirent
 "Joseph leur dit
 "Voici comment vous serez éprouvés. Par la vie de Pharaon! vous ne sortirez point d'ici que votre jeune frère ne soit venu."
-"Envoyez l'un de vous pour chercher votre frère; et vous, restez prisonniers. Vos paroles seront éprouvées, et je saurai si la vérité est chez vous; sinon, par la vie de Pharaon! vous êtes des espions."
+"Envoyez l'un de vous pour chercher votre frère; et vous, restez prisonniers. Vos paroles seront éprouvées, et je #saurai si la vérité est chez vous; sinon, par la vie de Pharaon! vous êtes des espions."
 "Et il les mit ensemble trois jours en prison."
 "Le troisième jour, Joseph leur dit
 "Si vous êtes sincères, que l'un de vos frères reste enfermé dans votre prison; et vous, partez, emportez du blé pour nourrir vos familles,"

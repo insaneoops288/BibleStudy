@@ -2,7 +2,7 @@
 "Chodził raczej drogami królów Izraela i sporządził lane posągi dla Baalów."
 "Palił też kadzidło w dolinie syna Hinnom i spalił swoich synów w ogniu, naśladując obrzydliwości pogan, których PAN wygnał przed synami Izraela."
 "Składał także ofiary i palił kadzidło na wyżynach, na wzgórzach i pod każdym zielonym drzewem."
-"Dlatego PAN, jego Bóg, wydał go w ręce króla Syrii. Pokonali go i uprowadzili z jego ludu wielu więźniów, i przyprowadzili ich do Damaszku. Został też wydany w ręce króla Izraela, który zadał mu wielką klęskę."
+"Dlatego PAN, jego Bóg, wydał go w ręce króla Syrii. Pokonali go i uprowadzili z jego ludu wielu więźniów, #i przyprowadzili ich do Damaszku. Został też wydany w ręce króla Izraela, który zadał mu wielką klęskę."
 "Pekach, syn Remaliasza, zabił bowiem w Judzie jednego dnia sto dwadzieścia tysięcy samych dzielnych wojowników, ponieważ opuścili PANA, Boga swoich ojców."
 "I Zikri, wojownik z Efraima, zabił Maasejasza, syna króla, Azrikama, przełożonego jego domu, oraz Elkanę, zastępcę króla."
 "Synowie Izraela wzięli też do niewoli spośród ich braci dwieście tysięcy kobiet, synów i córek, zabrali od nich bardzo dużo łupów i uprowadzili całą zdobycz do Samarii."
@@ -15,7 +15,7 @@
 "A mężczyźni, którzy zostali wyznaczeni imiennie, wystąpili i zajęli się jeńcami
 "W tym czasie król Achaz posłał do królów Asyrii prośbę o pomoc."
 "Znowu bowiem Edomici nadciągnęli, pobili Judę i uprowadzili jeńców."
-"Ponadto Filistyni wtargnęli do miast na równinach i na południu Judy i zdobyli Bet-Szemesz, Ajjalon, Gederot, Soko i podległe im miejscowości oraz Timnę i Gimzo z podległymi im miejscowościami i tam zamieszkali."
+"Ponadto Filistyni wtargnęli do miast na równinach i na południu Judy i zdobyli Bet-Szemesz, Ajjalon, Gederot, Soko #i podległe im miejscowości oraz Timnę i Gimzo z podległymi im miejscowościami i tam zamieszkali."
 "PAN bowiem poniżył Judę z powodu Achaza, króla Izraela, gdyż obnażył on Judę i przewrotnie zgrzeszył wobec PANA."
 "I przybył do niego Tiglat-Pileser, król Asyrii, który go raczej ucisnął, niż wspomógł."
 "Bo choć Achaz wziął skarby z domu PANA, z domu królewskiego oraz od książąt i dał to królowi Asyrii, ten go nie wspomógł."

@@ -7,7 +7,7 @@
 "Să nu își ia o curvă, sau profană, ca soție; nici să nu își ia o femeie divorțată de soțul ei, pentru că el [este] sfânt Dumnezeului său."
 "De aceea să îl sfințești; căci el aduce pâinea Dumnezeului tău; el să îți fie sfânt, pentru că eu, DOMNUL, care vă sfințește, [sunt] sfânt."
 "Și fiica oricărui preot, dacă se va pângări, curvind, pângărește pe tatăl ei, să fie arsă cu foc."
-"Și marele preot printre frații săi, peste al cărui cap a fost turnat untdelemnul ungerii și care este consacrat să se îmbrace cu veșmintele, să nu își descopere capul, nici să nu își sfâșie hainele;"
+"Și marele preot printre frații săi, peste al cărui cap a fost turnat untdelemnul ungerii și care este #consacrat să se îmbrace cu veșmintele, să nu își descopere capul, nici să nu își sfâșie hainele;"
 "Nici să nu intre la trupul vreunui mort, nici să nu se pângărească pentru tatăl său, sau pentru mama sa."
 "Nici să nu iasă din sanctuar, nici să nu spurce sanctuarul Dumnezeului său; căci coroana ungerii untdelemnului lui Dumnezeu este asupra lui
 "Și el să [își] ia o soție în fecioria ei."

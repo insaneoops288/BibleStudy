@@ -6,7 +6,7 @@
 "De manera que podemos decir confiadamente
 "Acordaos de vuestros pastores, que os hablaron la palabra de Dios, y seguid el ejemplo de su fe, considerando cuál haya sido el éxito de su conducta."
 "Jesucristo es el mismo ayer, y hoy, y por siempre."
-"No seáis llevados de acá para allá por doctrinas diversas y extrañas; porque buena cosa es afirmar el corazón con la gracia, no con viandas, que nunca aprovecharon a los que se han ocupado en ellas."
+"No seáis llevados de acá para allá por doctrinas diversas y extrañas; porque buena cosa es afirmar el corazón #con la gracia, no con viandas, que nunca aprovecharon a los que se han ocupado en ellas."
 "Tenemos un altar, del cual no tienen derecho de comer los que sirven al tabernáculo."
 "Porque los cuerpos de aquellos animales, cuya sangre a causa del pecado es introducida en el santuario por el sumo sacerdote, son quemados fuera del campamento."
 "Por lo cual también Jesús, para santificar al pueblo con su propia sangre, padeció fuera de la puerta."
@@ -14,7 +14,7 @@
 "Porque no tenemos aquí ciudad permanente, mas buscamos la por venir."
 "Así que, por medio de Él ofrezcamos siempre a Dios sacrificio de alabanza, es decir, el fruto de [nuestros] labios dando gracias a su nombre."
 "Y de hacer bien y de la comunicación no os olvidéis; porque de tales sacrificios se agrada Dios."
-"Obedeced a vuestros pastores, y sujetaos [a ellos]; porque ellos velan por vuestras almas, como quienes han de dar cuenta; para que lo hagan con alegría, y no gimiendo; porque esto no os es provechoso."
+"Obedeced a vuestros pastores, y sujetaos [a ellos]; porque ellos velan por vuestras almas, como quienes han de #dar cuenta; para que lo hagan con alegría, y no gimiendo; porque esto no os es provechoso."
 "Orad por nosotros; porque confiamos que tenemos buena conciencia; deseando conducirnos en todo con honestidad."
 "Y más os ruego que lo hagáis así, para que yo os sea restituido más pronto."
 "Y el Dios de paz que resucitó de entre los muertos a nuestro Señor Jesucristo, el gran pastor de las ovejas, por la sangre del pacto eterno,"

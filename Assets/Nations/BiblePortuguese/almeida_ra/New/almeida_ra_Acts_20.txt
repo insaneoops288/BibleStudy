@@ -6,7 +6,7 @@
 "E nós, depois dos dias dos pães ázimos, navegamos de Filipos, e em cinco dias fomos ter com eles em Tróade, onde nos detivemos sete dias."
 "No primeiro dia da semana, tendo-nos reunido a fim de partir o pão, Paulo, que havia de sair no dia seguinte, falava com eles, e prolongou o seu discurso até a meia-noite."
 "Ora, havia muitas luzes no cenáculo onde estávamos reunidos."
-"E certo jovem, por nome Eutico, que estava sentado na janela, tomado de um sono profundo enquanto Paulo prolongava ainda mais o seu sermão, vencido pelo sono caiu do terceiro andar abaixo, e foi levantado morto."
+"E certo jovem, por nome Eutico, que estava sentado na janela, tomado de um sono profundo enquanto Paulo prolongava #ainda mais o seu sermão, vencido pelo sono caiu do terceiro andar abaixo, e foi levantado morto."
 "Tendo Paulo descido, debruçou-se sobre ele e, abraçando-o, disse
 "Então subiu, e tendo partido o pão e comido, ainda lhes falou largamente até o romper do dia; e assim partiu."
 "E levaram vivo o jovem e ficaram muito consolados."

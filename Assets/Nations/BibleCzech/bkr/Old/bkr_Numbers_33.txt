@@ -51,6 +51,6 @@
 "Mluv k synům Izraelským a rci jim
 "Vyžeňte všecky obyvatele země té od tváři vaší, a zkazte všecky rytiny jejich; i všecky obrazy slité jejich zkazte, všecky také výsosti jejich zbořte."
 "A když vyženete obyvatele země, bydliti budete v ní; nebo vám jsem dal tu zemi, abyste jí dědičně vládli."
-"Kteroužto rozdělíte sobě k dědictví losem, vedlé čeledí svých. Kterých jest více, těm větší dědictví dáte, kterých pak jest méně, těm menší dědictví dáte. Na kterém místě komu los padne, to jemu bude; podlé pokolení otců svých dědictví dosáhnete."
-"Pakli nevyženete obyvatelů země od tváři své, tedy ti, kterýchž zanecháte, budou vám jako trní v očích vašich, a jako ostnové po bocích vašich, a budou vás ssužovati na zemi, na kteréž vy bydliti budete."
+"Kteroužto rozdělíte sobě k dědictví losem, vedlé čeledí svých. Kterých jest více, těm větší dědictví dáte, kterých pak jest méně, #těm menší dědictví dáte. Na kterém místě komu los padne, to jemu bude; podlé pokolení otců svých dědictví dosáhnete."
+"Pakli nevyženete obyvatelů země od tváři své, tedy ti, kterýchž zanecháte, budou vám jako trní v očích vašich, #a jako ostnové po bocích vašich, a budou vás ssužovati na zemi, na kteréž vy bydliti budete."
 "A na to přijde, abych to, což jsem jim umínil učiniti, vám učinil."

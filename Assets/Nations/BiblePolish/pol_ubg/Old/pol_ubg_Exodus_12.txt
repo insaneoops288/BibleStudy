@@ -12,11 +12,11 @@
 "Gdyż tej nocy przejdę przez ziemię Egiptu i zabiję wszystko, co pierworodne w ziemi Egiptu, od człowieka aż do zwierzęcia, a nad wszystkimi bogami Egiptu dokonam sądu, ja, PAN."
 "A ta krew będzie dla was znakiem na domach, w których będziecie. Gdy bowiem ujrzę krew, ominę was i nie dotknie was plaga zniszczenia, gdy będę zabijał w ziemi Egiptu."
 "Ten dzień będzie dla was pamiątką i będziecie go obchodzić jako święto dla PANA po wszystkie pokolenia. Będziecie go obchodzić jako ustawę wieczną."
-"Przez siedem dni będziecie jeść przaśny chleb. Już w pierwszym dniu usuniecie zakwas z waszych domów, bo ktokolwiek będzie jadł coś kwaszonego, od pierwszego dnia aż do siódmego, ta dusza zostanie wykluczona z Izraela."
-"W tym pierwszym dniu będzie święte zgromadzenie, także siódmego dnia będziecie mieć święte zgromadzenie. W tych dniach nie będziecie wykonywać żadnej pracy. Będzie wam tylko wolno przygotować to, czego każdy potrzebuje do jedzenia."
+"Przez siedem dni będziecie jeść przaśny chleb. Już w pierwszym dniu usuniecie zakwas z waszych domów, bo ktokolwiek #będzie jadł coś kwaszonego, od pierwszego dnia aż do siódmego, ta dusza zostanie wykluczona z Izraela."
+"W tym pierwszym dniu będzie święte zgromadzenie, także siódmego dnia będziecie mieć święte zgromadzenie. W tych dniach #nie będziecie wykonywać żadnej pracy. Będzie wam tylko wolno przygotować to, czego każdy potrzebuje do jedzenia."
 "I będziecie obchodzić Święto Przaśników, bo w tym właśnie dniu wyprowadziłem wasze zastępy z ziemi Egiptu. Dlatego będziecie obchodzić ten dzień po wszystkie pokolenia jako ustawę wieczną."
 "W pierwszym miesiącu, od wieczora czternastego dnia tego miesiąca do wieczora dnia dwudziestego pierwszego tego miesiąca, będziecie jeść przaśny chleb."
-"Przez siedem dni nie znajdzie się żaden zakwas w waszych domach. Ktokolwiek bowiem będzie jadł coś kwaszonego, ta dusza zostanie wykluczona ze zgromadzenia Izraela, zarówno przybysz, jak i urodzony w tej ziemi."
+"Przez siedem dni nie znajdzie się żaden zakwas w waszych domach. Ktokolwiek bowiem będzie jadł coś kwaszonego, #ta dusza zostanie wykluczona ze zgromadzenia Izraela, zarówno przybysz, jak i urodzony w tej ziemi."
 "Nie będziecie jeść nic kwaszonego; we wszystkich waszych domach będziecie jeść przaśne chleby."
 "Wtedy Mojżesz wezwał wszystkich starszych Izraela i powiedział im
 "Weźmiecie też wiązkę hizopu i zanurzycie we krwi, która jest w misie, i pokropicie nadproże i oba węgary tą krwią, która jest w misie. Niech nikt z was nie wychodzi za drzwi swego domu aż do rana."
@@ -26,7 +26,7 @@
 "A gdy wasi synowie zapytają was
 "Wtedy odpowiecie
 "I synowie Izraela odeszli, i uczynili, jak PAN rozkazał Mojżeszowi i Aaronowi, tak właśnie zrobili."
-"A o północy PAN zabił wszystko, co pierworodne w ziemi Egiptu, od pierworodnego syna faraona, zasiadającego na jego tronie, aż do pierworodnego więźnia, który był w więzieniu, oraz wszystko, co pierworodne z bydła."
+"A o północy PAN zabił wszystko, co pierworodne w ziemi Egiptu, od pierworodnego syna faraona, zasiadającego na #jego tronie, aż do pierworodnego więźnia, który był w więzieniu, oraz wszystko, co pierworodne z bydła."
 "Wstał tej nocy faraon, a z nim wszyscy jego słudzy oraz wszyscy Egipcjanie; i podniósł się w Egipcie wielki krzyk, bo nie było domu, w którym nie byłoby umarłego."
 "Faraon wezwał Mojżesza i Aarona w nocy i powiedział
 "Zabierzcie też swoje trzody i bydła, jak żądaliście, i idźcie. Mnie też błogosławcie."
@@ -45,7 +45,7 @@
 "Cudzoziemiec i najemnik nie będą z niej spożywać."
 "W jednym domu będzie spożywany baranek. Nie wyniesiesz z domu nic z jego mięsa i nie złamiecie jego kości."
 "Całe zgromadzenie Izraela tak z nim postąpi."
-"A jeśli jakiś cudzoziemiec będzie twoim gościem i będzie chciał obchodzić Paschę dla PANA, niech najpierw zostanie obrzezany każdy mężczyzna jego domu, a potem niech przystąpi i obchodzi ją. Wtedy będzie jak urodzony w tej ziemi. A ktokolwiek nie jest obrzezany, nie będzie z niej spożywał."
+"A jeśli jakiś cudzoziemiec będzie twoim gościem i będzie chciał obchodzić Paschę dla PANA, niech najpierw zostanie obrzezany każdy mężczyzna jego domu, a potem #niech przystąpi i obchodzi ją. Wtedy będzie jak urodzony w tej ziemi. A ktokolwiek nie jest obrzezany, nie będzie z niej spożywał."
 "Jedno prawo będzie dla urodzonego w ziemi i dla cudzoziemca, który jest gościem wśród was."
 "Wszyscy synowie Izraela uczynili więc, jak PAN rozkazał Mojżeszowi i Aaronowi, tak właśnie uczynili."
 "Tego samego dnia PAN wyprowadził synów Izraela z ziemi Egiptu według ich zastępów."

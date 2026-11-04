@@ -4,7 +4,7 @@
 "I budou se rozplývati hory pod ním, a údolé se roztrhovati, tak jako vosk od ohně, a jako vody mající spád dolů,"
 "A to všecko pro Jákobovo zpronevěření, a pro hříchy domu Izraelského. Kdo jest příčina zpronevěření Jákobova? Zdali ne Samaří? A kdo výsostí Judských
 "Protož obrátím Samaří v hromadu rumu, k štípení vinic, a svalím do údolí kamení její, i základy její odkryji."
-"A všecky rytiny její ztlučeny budou, i všickni darové její ohněm spáleni, a všecky modly její obrátím v pustinu. Nebo ze mzdy nevěstčí toho nashromáždila, protož se zase ke mzdě nevěstčí to navrátí."
+"A všecky rytiny její ztlučeny budou, i všickni darové její ohněm spáleni, a všecky modly její obrátím #v pustinu. Nebo ze mzdy nevěstčí toho nashromáždila, protož se zase ke mzdě nevěstčí to navrátí."
 "Nad čímž kvíliti a naříkati budu, chodě svlečený a nahý, vydám se v naříkání jako drakové, a v kvílení jako mladé sovy,"
 "Proto že zneduživěla od ran svých, a že přišlo to až k Judovi, dosáhlo až k bráně lidu mého, až do Jeruzaléma."
 "Neoznamujtež v Gát, aniž hned plačte; v domě Ofra v prachu se válej."

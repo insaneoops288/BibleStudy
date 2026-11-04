@@ -3,7 +3,7 @@
 "Most azért, mi van kezednél? Adj öt kenyeret nékem, vagy [egyebet,] a mi van."
 "És felele a pap Dávidnak, és monda
 "Dávid pedig felele a papnak, és monda néki
-"Adott azért a pap néki szentelt [kenyeret], mert nem volt ott [más] kenyér, hanem csak szent kenyér, melyeket elvettek az Úrnak színe elõl, hogy meleg kenyeret tegyenek a helyett azon a napon, a melyen az [elõbbit] elvevék."
+"Adott azért a pap néki szentelt [kenyeret], mert nem volt ott [más] kenyér, hanem csak szent kenyér, melyeket elvettek #az Úrnak színe elõl, hogy meleg kenyeret tegyenek a helyett azon a napon, a melyen az [elõbbit] elvevék."
 "Vala pedig ott azon a napon Saul szolgái közül egy ember, ott tartózkodva az Úr elõtt, a kit Doégnak hívtak, a [ki] Edomita volt, Saul pásztorainak számadója."
 "És monda Dávid Akhiméleknek
 "És monda a pap

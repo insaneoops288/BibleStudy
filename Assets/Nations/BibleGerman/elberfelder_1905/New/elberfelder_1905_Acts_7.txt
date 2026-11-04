@@ -31,11 +31,11 @@
 "Als aber Moses es sah, verwunderte er sichüber das Gesicht; während er aber hinzutrat, es zu betrachten, geschah eine Stimme des Herrn
 """Ich bin der Gott deiner Väter, der Gott Abrahams und Isaaks und Jakobs"". Moses aber erzitterte und wagte nicht, es zu betrachten."
 "Der Herr aber sprach zu ihm
-"Gesehen habe ich die Mißhandlung meines Volkes, das inÄgypten ist, und ihr Seufzen habe ich gehört, und ich bin herniedergekommen, sie herauszureißen. Und nun komm, ich will dich nachÄgypten senden."""
+"Gesehen habe ich die Mißhandlung meines Volkes, das inÄgypten ist, und ihr Seufzen habe ich gehört, #und ich bin herniedergekommen, sie herauszureißen. Und nun komm, ich will dich nachÄgypten senden."""
 "Diesen Moses, den sie verleugneten, indem sie sagten
 "Dieser führte sie heraus, indem er Wunder und Zeichen tat im LandeÄgypten und im Roten Meere und in der Wüste, vierzig Jahre."
 "Dieser ist der Moses, der zu den Söhnen Israels sprach
-"Dieser ist es, der in der Versammlung in der Wüste mit dem Engel, welcher auf dem Berge Sinai zu ihm redete, und mit unseren Vätern gewesen ist; der lebendige Aussprüche empfing, um sie uns zu geben;"
+"Dieser ist es, der in der Versammlung in der Wüste mit dem Engel, welcher auf dem Berge Sinai zu #ihm redete, und mit unseren Vätern gewesen ist; der lebendige Aussprüche empfing, um sie uns zu geben;"
 "welchem unsere Väter nicht gehorsam sein wollten, sondern stießen ihn von sich und wandten sich in ihren Herzen nachÄgypten zurück,"
 "indem sie zu Aaron sagten
 "Und sie machten ein Kalb in jenen Tagen und brachten dem Götzenbilde ein Schlachtopfer und ergötzten sich an den Werken ihrer Hände."

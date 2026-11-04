@@ -6,7 +6,7 @@
 "Das sprachen sie aber, ihn zu versuchen, auf daß sie eine Sache wider ihn hätten. Aber Jesus bückte sich nieder und schrieb mit dem Finger auf die Erde.{}{}"
 "Als sie nun anhielten, ihn zu fragen, richtete er sich auf und sprach zu ihnen
 "Und bückte sich wieder nieder und schrieb auf die Erde."
-"Da sie aber das hörten, gingen sie hinaus(von ihrem Gewissenüberführt), einer nach dem andern, von denÄltesten bis zu den Geringsten; und Jesus ward gelassen allein und das Weib in der Mitte stehend."
+"Da sie aber das hörten, gingen sie hinaus(von ihrem Gewissenüberführt), einer nach dem andern, von denÄltesten bis #zu den Geringsten; und Jesus ward gelassen allein und das Weib in der Mitte stehend."
 "Jesus aber richtete sich auf; und da er niemand sah denn das Weib, sprach er zu ihr
 "Sie aber sprach
 "Da redete Jesus abermals zu ihnen und sprach
@@ -41,7 +41,7 @@
 "Ihr tut eures Vaters Werke. Da sprachen sie zu ihm
 "Jesus sprach zu ihnen
 "Warum kennet ihr denn meine Sprache nicht? Denn ihr könnt ja mein Wort nicht hören."
-"Ihr seid von dem Vater, dem Teufel, und nach eures Vaters Lust wollt ihr tun. Der ist ein Mörder von Anfang und ist nicht bestanden in der Wahrheit; denn die Wahrheit ist nicht in ihm. Wenn er die Lüge redet, so redet er von seinem Eigenen; denn er ist ein Lügner und ein Vater derselben."
+"Ihr seid von dem Vater, dem Teufel, und nach eures Vaters Lust wollt ihr tun. Der ist ein Mörder von Anfang und ist nicht bestanden in der Wahrheit; #denn die Wahrheit ist nicht in ihm. Wenn er die Lüge redet, so redet er von seinem Eigenen; denn er ist ein Lügner und ein Vater derselben."
 "Ich aber, weil ich die Wahrheit sage, so glaubet ihr mir nicht."
 "Welcher unter euch kann mich einer Sünde zeihen? So ich aber die Wahrheit sage, warum glaubet ihr mir nicht?"
 "Wer von Gott ist, der hört Gottes Worte; darum hört ihr nicht, denn ihr seid nicht von Gott."

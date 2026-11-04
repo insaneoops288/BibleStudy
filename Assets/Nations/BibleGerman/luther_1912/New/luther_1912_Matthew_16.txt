@@ -18,7 +18,7 @@
 "Und ich sage dir auch
 "Und ich will dir des Himmelsreichs Schlüssel geben
 "Da verbot er seinen Jüngern, daß sie niemand sagen sollten, daß er, Jesus, der Christus wäre."
-"Von der Zeit an fing Jesus an und zeigte seinen Jüngern, wie er müßte hin gen Jerusalem gehen und viel leiden von denÄltesten und Hohenpriestern und Schriftgelehrten und getötet werden und am dritten Tage auferstehen."
+"Von der Zeit an fing Jesus an und zeigte seinen Jüngern, wie er müßte hin gen Jerusalem gehen #und viel leiden von denÄltesten und Hohenpriestern und Schriftgelehrten und getötet werden und am dritten Tage auferstehen."
 "Und Petrus nahm ihn zu sich, fuhr ihn an und sprach
 "Aber er wandte sich um und sprach zu Petrus
 "Da sprach Jesus zu seinen Jüngern

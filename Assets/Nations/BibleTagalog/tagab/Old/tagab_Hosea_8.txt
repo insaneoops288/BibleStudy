@@ -10,5 +10,5 @@
 "Oo, bagaman sila'y umuupa sa gitna ng mga bansa, akin nga silang pipisanin ngayon; at sila'y mangagtitigil na kaunting panahon ng pagpapahid ng langis sa hari at mga prinsipe."
 "Sapagka't ang Ephraim, ay nagparami ng mga dambana upang magkasala, ang mga dambana ay naging sa kaniyang ipagkakasala."
 "Sinulat ko para sa kaniya ang sangpung libong bagay ng aking kautusan; kanilang inaring parang katuwang bagay."
-"Tungkol sa mga hain na mga handog sa akin, sila'y nangaghahain ng karne, at kinakain nila; nguni't ang mga yaon ay hindi tinatanggap ng Panginoon; ngayo'y aalalahanin niya ang kanilang kasamaan, at dadalawin ang kanilang mga kasalanan; sila'y mangababalik sa Egipto."
-"Sapagka't nilimot ng Israel ang May-lalang sa kaniya, at nagtayo ng mga palacio; at nagparami ang Juda ng mga bayang nakukutaan; nguni't magsusugo ako ng apoy sa kaniyang mga bayan, at susupukin ang mga kuta niyaon."
+"Tungkol sa mga hain na mga handog sa akin, sila'y nangaghahain ng karne, at kinakain nila; nguni't ang mga yaon ay #hindi tinatanggap ng Panginoon; ngayo'y aalalahanin niya ang kanilang kasamaan, at dadalawin ang kanilang mga kasalanan; sila'y mangababalik sa Egipto."
+"Sapagka't nilimot ng Israel ang May-lalang sa kaniya, at nagtayo ng mga palacio; at nagparami ang Juda ng mga #bayang nakukutaan; nguni't magsusugo ako ng apoy sa kaniyang mga bayan, at susupukin ang mga kuta niyaon."

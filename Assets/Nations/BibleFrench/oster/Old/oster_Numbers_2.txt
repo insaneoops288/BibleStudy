@@ -29,6 +29,6 @@
 "Puis la tribu de Nephthali, et le chef des enfants de Nephthali, Ahira, fils d'Enan,"
 "Et son armée, ses dénombrés
 "Tous les hommes dénombrés pour le camp de Dan sont cent cinquante-sept mille six cents. Ils partiront les derniers, selon leurs bannières."
-"Ce sont là ceux des enfants d'Israël, dont on fit le dénombrement, selon les maisons de leurs pères. Tous les hommes dénombrés, formant les camps, selon leurs armées, furent six cent trois mille cinq cent cinquante."
+"Ce sont là ceux des enfants d'Israël, dont on fit le dénombrement, selon les maisons de leurs pères. Tous #les hommes dénombrés, formant les camps, selon leurs armées, furent six cent trois mille cinq cent cinquante."
 "Mais les Lévites ne furent point dénombrés au milieu des enfants d'Israël, d'après l'ordre que l'Éternel avait donné à Moïse."
-"Et les enfants d'Israël firent selon tout ce que l'Éternel avait commandé à Moïse; ils campèrent ainsi, selon leurs bannières, et partirent ainsi, chacun selon sa famille, selon la maison de ses pères."
+"Et les enfants d'Israël firent selon tout ce que l'Éternel avait commandé à Moïse; ils campèrent ainsi, #selon leurs bannières, et partirent ainsi, chacun selon sa famille, selon la maison de ses pères."

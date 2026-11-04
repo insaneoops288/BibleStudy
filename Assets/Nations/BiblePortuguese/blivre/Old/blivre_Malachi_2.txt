@@ -1,5 +1,5 @@
 "Agora pois, ó sacerdotes, este mandamento é para vós."
-"Se não [o] ouvirdes, e se não guardardes no coração de dar glória a meu nome,diz o SENHOR dos exércitos, enviarei maldição sobre vós, e amaldiçoarei vossas bênçãos. Aliás, eu já as tenho amaldiçoado, porque não tendes guardado [isso] no vosso coração."
+"Se não [o] ouvirdes, e se não guardardes no coração de dar glória a meu nome,diz o SENHOR dos exércitos, enviarei maldição #sobre vós, e amaldiçoarei vossas bênçãos. Aliás, eu já as tenho amaldiçoado, porque não tendes guardado [isso] no vosso coração."
 "Eis que eu repreenderei a vossa semente, e espalharei lixo sobre vossos rostos, o lixo de vossas festas, e com ele sereis removidos."
 "Então sabereis que eu vos enviei este mandamento, para que meu pacto seja com Levi,diz o SENHOR dos exércitos."
 "Meu pacto foi com ele de vida e de paz, as quais eu lhe dei para haver temor; e ele me temeu, e teve medo diante de meu nome."
@@ -12,6 +12,6 @@
 "O SENHOR removerá das tendas de Jacó ao homem que fizer isto, ao que vela, e ao que responde, e ao que traz oferta ao SENHOR dos exércitos."
 "Também fazeis esta segunda coisa
 "Vós dizeis
-"E não fez ele somente um ainda que lhe sobre o espírito? E por que um? Para buscar uma descendência de Deus. Guardai-vos pois em vosso espírito, e ninguém de vós seja infiel à mulher de vossa juventude."
+"E não fez ele somente um ainda que lhe sobre o espírito? E por que um? Para buscar uma descendência #de Deus. Guardai-vos pois em vosso espírito, e ninguém de vós seja infiel à mulher de vossa juventude."
 "Porque o SENHOR Deus de Israel diz que ele odeia o divórcio, e [quem] cobre a sua roupa de violência, diz o SENHOR dos exércitos. Guardai-vos pois em vosso espírito, e não sejais infiéis."
 "Cansais ao SENHOR com vossas palavras. E ainda dizeis

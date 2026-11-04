@@ -11,7 +11,7 @@
 "Y el aceite de la unción, y el incienso aromático para el santuario; harán conforme a todo lo que te he mandado."
 "Habló además Jehová a Moisés, diciendo
 "Habla tú a los hijos de Israel, diciendo
-"Así que guardaréis el sábado, porque santo es a vosotros; el que lo profanare, de cierto morirá; porque cualquiera que hiciere obra alguna en él, aquella alma será cortada de en medio de su pueblo."
+"Así que guardaréis el sábado, porque santo es a vosotros; el que lo profanare, de cierto morirá; porque #cualquiera que hiciere obra alguna en él, aquella alma será cortada de en medio de su pueblo."
 "Seis días se hará obra, mas el día séptimo es sábado de reposo consagrado a Jehová; cualquiera que hiciere obra el día del sábado, ciertamente morirá."
 "Guardarán, pues, el sábado los hijos de Israel
 "Señal es para siempre entre mí y los hijos de Israel; porque en seis días hizo Jehová los cielos y la tierra, y en el séptimo día cesó, y reposó."

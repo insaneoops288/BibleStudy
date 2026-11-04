@@ -10,7 +10,7 @@
 "I rzekł Ezechyjasz
 "Tedy wołał Izajasz prorok do Pana; i nawrócił cień po onych stponiach, któremi był postąpił na zegarze słonecznym Achazowym, na wstecz na dziesięć stopni."
 "Onegoż czasu posłał Berodach Baladan, syn Baladanowy, król Babiloński, list i dary do Ezechyjasza; bo zasłyszał, że był zaniemógł Ezechyjasz."
-"I wysłuchał ich Ezechyjasz i okazał im wszystkie skarbnice klejnotów swoich, srebro, i złoto, i rzeczy wonne, i olejki najwyborniejsze, i dom rynsztunków swoich, i wszystko, co się znajdowało w skarbach jego; nie było nic czego by im nie pokazał Ezechyjasz w domu swym, i we wszystkiem państwie swojem."
+"I wysłuchał ich Ezechyjasz i okazał im wszystkie skarbnice klejnotów swoich, srebro, i złoto, i rzeczy wonne, i olejki najwyborniejsze, i dom rynsztunków swoich, i #wszystko, co się znajdowało w skarbach jego; nie było nic czego by im nie pokazał Ezechyjasz w domu swym, i we wszystkiem państwie swojem."
 "Przetoż przyszedł prorok Izajasz do króla Ezechyjasza, i rzekł mu
 "I rzekł
 "Ale Izajasz rzekł do Ezechyjasza

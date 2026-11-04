@@ -21,6 +21,6 @@
 "die Fingerringe und die Nasenringe;"
 "die Prachtkleider und die Oberröcke und die Umhänge und die Beutel;"
 "die Handspiegel und die Hemden und die Turbane und dieÜberwürfe."
-"Und es wird geschehen, statt des Wohlgeruchs wird Moder sein, und statt des Gürtels ein Strick, und statt des Lockenwerks eine Glatze, und statt des Prunkgewandes ein Kittel von Sacktuch, Brandmal statt Schönheit."
+"Und es wird geschehen, statt des Wohlgeruchs wird Moder sein, und statt des Gürtels ein Strick, und #statt des Lockenwerks eine Glatze, und statt des Prunkgewandes ein Kittel von Sacktuch, Brandmal statt Schönheit."
 "Deine Männer werden durchs Schwert fallen, und deine Helden im Kriege."
 "Und ihre Tore werden klagen und trauern, und ausgeleert wird sie sein, sich zur Erde niedersetzen."

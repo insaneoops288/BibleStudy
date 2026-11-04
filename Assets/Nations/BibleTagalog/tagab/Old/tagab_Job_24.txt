@@ -2,7 +2,7 @@
 "May nagsisipagbago ng lindero; kanilang dinadalang may karahasan ang mga kawan, at pinasasabsab."
 "Kanilang itinataboy ang asno ng ulila, kanilang kinukuha ang baka ng babaing bao na pinakasangla."
 "Kanilang inililigaw sa daan ang mapagkailangan
-"Narito, gaya ng mga mabangis na asno sa ilang, sila'y nagsisilabas sa kanilang gawa, na nagsisihanap na masikap ng pagkain; ang ilang ay siyang nagbibigay sa kanila ng pagkaing ukol sa kanilang mga anak."
+"Narito, gaya ng mga mabangis na asno sa ilang, sila'y nagsisilabas sa kanilang gawa, na nagsisihanap na masikap #ng pagkain; ang ilang ay siyang nagbibigay sa kanila ng pagkaing ukol sa kanilang mga anak."
 "Kanilang pinitas sa bukid ang kanilang pagkain; at kanilang pinamumulutan ang ubasan ng masama."
 "Sila'y hubad na nangahihiga buong gabi na walang suot. At walang kumot sa ginaw."
 "Sila'y basa ng ulan sa mga bundok, at niyayakap ang bato sa pagkakailangan ng kulungan."

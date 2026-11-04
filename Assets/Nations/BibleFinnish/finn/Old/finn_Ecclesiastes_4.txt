@@ -1,11 +1,11 @@
-"Taas minä katselin kaikkea sortoa, jota harjoitetaan auringon alla, ja katso, siinä on sorrettujen kyyneleet, eikä ole heillä lohduttajaa; väkivaltaa tekee heidän sortajainsa käsi, eikä ole heillä lohduttajaa."
+"Taas minä katselin kaikkea sortoa, jota harjoitetaan auringon alla, ja katso, siinä on sorrettujen kyyneleet, #eikä ole heillä lohduttajaa; väkivaltaa tekee heidän sortajainsa käsi, eikä ole heillä lohduttajaa."
 "Ja minä ylistin vainajia, jotka ovat jo kuolleet, onnellisemmiksi kuin eläviä, jotka vielä ovat elossa,"
 "ja onnellisemmaksi kuin nämä kumpikaan sitä, joka ei vielä ole olemassa eikä ole nähnyt sitä pahaa, mikä tapahtuu auringon alla."
 "Ja minä näin kaikesta vaivannäöstä ja työn kunnollisuudesta, että se on toisen kateutta toista kohtaan."
 "Sekin on turhuutta ja tuulen tavoittelua. Tyhmä panee kädet ristiin ja kalvaa omaa lihaansa."
 "Parempi on pivollinen lepoa kuin kahmalollinen vaivannäköä ja tuulen tavoittelua."
 "Taas minä näin turhuuden auringon alla
-"Tuossa on yksinäinen, ei ole hänellä toista, ei poikaa, ei veljeäkään ole hänellä; mutta ei ole loppua kaikella hänen vaivannäöllänsä, eikä hänen silmänsä saa kylläänsä rikkaudesta. Ja kenen hyväksi minä sitten vaivaa näen ja pidätän itseni nautinnoista? Tämäkin on turhuutta ja on paha asia."
+"Tuossa on yksinäinen, ei ole hänellä toista, ei poikaa, ei veljeäkään ole hänellä; mutta ei ole loppua kaikella hänen vaivannäöllänsä, eikä hänen silmänsä #saa kylläänsä rikkaudesta. Ja kenen hyväksi minä sitten vaivaa näen ja pidätän itseni nautinnoista? Tämäkin on turhuutta ja on paha asia."
 "Kahden on parempi kuin yksin, sillä heillä on vaivannäöstänsä hyvä palkka."
 "Jos he lankeavat, niin toinen nostaa ylös toverinsa; mutta voi yksinäistä, jos hän lankeaa! Ei ole toista nostamassa häntä ylös."
 "Myös, jos kaksi makaa yhdessä, on heillä lämmin; mutta kuinka voisi yksinäisellä olla lämmin?"

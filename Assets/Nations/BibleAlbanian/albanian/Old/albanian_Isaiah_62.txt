@@ -1,7 +1,7 @@
 "Për hir të Sionit unë nuk do të hesht dhe për hir të Jeruzalemit nuk do të gjej prehje deri sa drejtësia e saj të mos dalë si agimi dhe shpëtimi i saj si një pishtar flakërues."
 "Atëherë kombet do të shohin drejtësinë tënde dhe tërë mbretërit lavdinë tënde; do të thirresh me një emër të ri, që do ta tregojë goja e Zotit."
 "Do të jesh një kurorë e shkëlqyer në dorën e Zotit, një diademë mbretërore në dorë të Perëndisë tënd."
-"Nuk do të quhesh më ""E braktisur"", as toka jote nuk do të quhet më ""E shkretë"", por do të të quajnë ""Kënaqësia ime është tek ajo"" dhe toka jote ""E Martuar"", sepse Zoti gjen kënaqësi te ti, dhe toka jote do të ketë një dhëndër."
+"Nuk do të quhesh më ""E braktisur"", as toka jote nuk do të quhet më ""E shkretë"", por do të të quajnë ""Kënaqësia ime #është tek ajo"" dhe toka jote ""E Martuar"", sepse Zoti gjen kënaqësi te ti, dhe toka jote do të ketë një dhëndër."
 "Prandaj, ashtu si një i ri martohet me një të virgjër, bijtë e tu do të martohen me ty; dhe ashtu si i martuari gëzohet me nusen, kështu Perëndia do të gëzohet për ty."
 "Mbi muret e tua, o Jeruzalem, kam vënë roje që nuk do të heshtin kurrë, as ditën as natën. Ju që i kujtoni Zotit premtimet e tij, mos rrini në heshtje,"
 "dhe mos e lini të pushojë, deri sa ta ketë rivendosur Jeruzalemin dhe ta bëjë atë lëvdimin e të gjithë tokës."

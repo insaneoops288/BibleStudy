@@ -10,10 +10,10 @@
 "És Saul monda az õ szolgájának
 "A mint pedig a város felhágóján menének, leányokkal találkozának, a kik vizet meríteni jöttek ki, és mondának nékik
 "És azok felelének nékik, és mondának
-"A mint a városba mentek, azonnal megtaláljátok, mielõtt felmenne a hegyre, hogy egyék; mert a nép nem eszik addig, míg õ el nem jön, mivel a véres áldozatot õ áldja meg, és azután esznek a meghívottak. Azért most menjetek fel, mert épen most fogjátok õt megtalálni."
+"A mint a városba mentek, azonnal megtaláljátok, mielõtt felmenne a hegyre, hogy egyék; mert a nép nem eszik addig, míg õ el nem jön, #mivel a véres áldozatot õ áldja meg, és azután esznek a meghívottak. Azért most menjetek fel, mert épen most fogjátok õt megtalálni."
 "Felmenének azért a városba. És mikor a városban menének, ímé akkor jöve ki Sámuel velök szemben, hogy a hegyre felmenjen."
 "És az Úr kijelentette Sámuelnek füleibe, egy nappal az elõtt, hogy Saul eljött, mondván
-"Holnap ilyenkor küldök hozzád egy embert a Benjámin földérõl, és kend fel õt fejedelmül az én népem, Izráel felett, hogy megszabadítsa az én népemet a Filiszteusok kezébõl; mert megtekintém az én népemet, mivel felhatott az õ kiáltása hozzám."
+"Holnap ilyenkor küldök hozzád egy embert a Benjámin földérõl, és kend fel õt fejedelmül az én népem, Izráel felett, hogy #megszabadítsa az én népemet a Filiszteusok kezébõl; mert megtekintém az én népemet, mivel felhatott az õ kiáltása hozzám."
 "Mikor pedig Sámuel meglátta Sault, szóla néki az Úr
 "Akkor Saul a kapu alatt Sámuelhez közeledék és monda
 "Sámuel pedig felele Saulnak, és monda

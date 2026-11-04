@@ -5,7 +5,7 @@
 "vì tội lỗi nó chất cao tày trời, và Ðức Chúa Trời đã nhớ đến các sự gian ác nó."
 "Các ngươi hãy làm cho nó điều nó đã làm cho kẻ khác; hãy báo lại gấp hai công việc nó, hãy pha cho nó gấp hai chén mà nó đã pha cho kẻ khác."
 "Nó càng khoe mình và chìm đắm trong sự xa hoa bao nhiêu, thì hãy làm cho nó đau đớn khốn khó bấy nhiêu. Bởi trong lòng nó tự nghĩ rằng
-"Vậy cho nên đồng trong một ngày, những tai nạn nầy sẽ giáng trên nó, nào sự chết, nào sự than khóc, nào sự đói kém, và nó sẽ bị lửa thiêu mình đi nữa; vì Ðức Chúa Trời phán xét nó là Chúa có quyền lực."
+"Vậy cho nên đồng trong một ngày, những tai nạn nầy sẽ giáng trên nó, nào sự chết, nào sự than khóc, nào sự #đói kém, và nó sẽ bị lửa thiêu mình đi nữa; vì Ðức Chúa Trời phán xét nó là Chúa có quyền lực."
 "Các vua thế gian đã phạm tội dâm dục và say đắm trong cuộc xa xỉ với nó, thấy khói của sự cháy nó thì sẽ vì nó khóc lóc thở than."
 "Sợ phải cùng chịu hình khổ với nó, nên chúng đứng xa mà rằng
 "Các nhà buôn trên đất cũng vì nó khóc lóc rầu rĩ, vì không ai mua hàng hóa mình nữa
@@ -19,6 +19,6 @@
 "Chúng lấy bụi rắc lên đầu mình, thương khóc than vãn, mà rằng
 "Hỡi trời, hãy vui mừng về việc nó đi, và các thánh, các sứ đồ, các tiên tri, cũng hãy mừng rỡ đi; vì Ðức Chúa Trời đã xử công bình cho các ngươi trong khi Ngài xét đoán nó."
 "Bấy giờ một vị thiên sứ rất mạnh lấy một hòn đá như cối xay lớn quăng xuống biển mà rằng
-"Không ai còn nghe thấy nơi ngươi những tiếng kẻ khảy đờn cầm, kẻ đánh nhạc, kẻ thổi sáo và thổi kèn nữa. Ở đó cũng sẽ không thấy có thợ nào nữa, dầu nghề gì mặc lòng, và tiếng cối xay cũng không nghe nữa."
-"Ánh sáng đèn sẽ không chiếu nơi đó nữa, và người cũng chẳng còn nghe tiếng vợ chồng mới cưới, bởi vì các nhà buôn của ngươi đều là kẻ tôn trọng trên đất, bởi vì mọi nước đều bị tà thuật ngươi lừa dối."
+"Không ai còn nghe thấy nơi ngươi những tiếng kẻ khảy đờn cầm, kẻ đánh nhạc, kẻ thổi sáo và thổi kèn nữa. Ở #đó cũng sẽ không thấy có thợ nào nữa, dầu nghề gì mặc lòng, và tiếng cối xay cũng không nghe nữa."
+"Ánh sáng đèn sẽ không chiếu nơi đó nữa, và người cũng chẳng còn nghe tiếng vợ chồng mới cưới, bởi vì các #nhà buôn của ngươi đều là kẻ tôn trọng trên đất, bởi vì mọi nước đều bị tà thuật ngươi lừa dối."
 "Ấy chính trong thành nầy, mà đã tìm thấy huyết các đấng tiên tri, các thánh đồ, và hết thảy những kẻ đã bị giết trong thế gian."

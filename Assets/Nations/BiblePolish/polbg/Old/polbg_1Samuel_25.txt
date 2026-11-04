@@ -5,7 +5,7 @@
 "Posłał dziesięciu sług, i rzekł im
 "A mówcie tak
 "A teraz słyszałem, że masz te, coć owce strzygą; a pasterze twoi bywali z nami, niebyliśmy im przykrymi, i nic im nie zginęło po wszystkie dni, których byli w Karmelu;"
-"Spytaj sług twoich, a powiedząć. Przetoż niech znajdą słudzy łaskę w oczach twoich, gdyżeśmy w dobry dzień przyszli; daj proszę cokolwiek znajdzie ręka twoja, sługom twoim, i synowi twemu Dawidowi."
+"Spytaj sług twoich, a powiedząć. Przetoż niech znajdą słudzy łaskę w oczach twoich, gdyżeśmy w dobry #dzień przyszli; daj proszę cokolwiek znajdzie ręka twoja, sługom twoim, i synowi twemu Dawidowi."
 "A tak przyszli słudzy Dawidowi, i mówili do Nabala wszystkie one słowa imieniem Dawidowem, i przestali."
 "A odpowiadając Nabal sługom Dawidowym, rzekł
 "I wezmęż ja chleb mój, i wodę moję, i mięsa bydła mego, którem pobił dla tych, którzy strzygą owce moje, a dam mężom, których nie znam, skąd są?"
@@ -22,18 +22,18 @@
 "To niech uczyni Bóg nieprzyjaciołom Dawidowym, i to niech przyczyni, jeźli co do zarania zostawię ze wszystkiego co ma, aż do najmniejszego szczenięcia)."
 "Tedy ujrzawszy Abigail Dawida, pospieszyła się, i zsiadła z osła, i upadła przed Dawidem na oblicze swoje, i ukłoniła się aż do ziemi;"
 "A upadłszy do nóg jego, mówiła
-"Niech się proszę nie obraża pan mój na mężą tego bezbożnego Nabala, gdyż według imienia swego takim jest. Nabal jest imię jego, i głupstwo jest przy nim; alemci ja służebnica twoja nie widziała sług pana mego, któreś był posłał."
-"Przetoż teraz panie mój, jako żywy Pan, jako żywa i dusza twoja, że cię zawściągnął Pan, abyś nie szedł na rozlanie krwi, i żeby się nie mściła ręka twoja; a teraz niech będą jako Nabal nieprzyjaciele twoi, i którzy szukają złego panu memu."
+"Niech się proszę nie obraża pan mój na mężą tego bezbożnego Nabala, gdyż według imienia swego takim jest. Nabal jest #imię jego, i głupstwo jest przy nim; alemci ja służebnica twoja nie widziała sług pana mego, któreś był posłał."
+"Przetoż teraz panie mój, jako żywy Pan, jako żywa i dusza twoja, że cię zawściągnął Pan, abyś nie szedł na rozlanie krwi, #i żeby się nie mściła ręka twoja; a teraz niech będą jako Nabal nieprzyjaciele twoi, i którzy szukają złego panu memu."
 "Teraz tedy to błogosławieństwo, które przyniosła służebnica twoja panu swemu, niech będzie dane sługom, którzy chodzą za panem moim."
 "Przepuść proszę występek służebnicy twojej, gdyż zapewne uczyni Pan panu memu dom trwały, ponieważ walki Pańskie pan mój odprawuje, a złość nie jest znalezina w tobie aż dotąd."
-"A choćby powstał człowiek, coby cię prześladował, i szukał duszy twojej, tedy będzie dusza pana mego zachowana w wiązance żywiących u Pana, Boga twego; lecz duszę nieprzyjaciół twoich Bóg jako z procy wyrzuci."
+"A choćby powstał człowiek, coby cię prześladował, i szukał duszy twojej, tedy będzie dusza pana mego zachowana #w wiązance żywiących u Pana, Boga twego; lecz duszę nieprzyjaciół twoich Bóg jako z procy wyrzuci."
 "A gdy uczyni Pan panu memu wszystko, co mówił dobrego o tobie, a zlecić, abyś był wodzem nad Izraelem
-"Tedyć nie będzie to ku zachwianiu, ani ku urazie serca pana mego, jako gdyby rozlał krew niewinną, i gdyby się sam pomścił pan mój. Gdy tedy dobrze uczyni Pan panu memu, wspomnisz na służebnicę twoję."
+"Tedyć nie będzie to ku zachwianiu, ani ku urazie serca pana mego, jako gdyby rozlał krew niewinną, i #gdyby się sam pomścił pan mój. Gdy tedy dobrze uczyni Pan panu memu, wspomnisz na służebnicę twoję."
 "I rzekł Dawid do Abigaili
 "Błogosławiona wymowa twoja, i błogosławionaś ty, któraś mię zawściągnęła dzisiaj, żem nie szedł na rozlanie krwi, a żem się sam nie mścił krzywdy swojej."
 "A zaprawdę, jako żywy Pan, Bóg Izraelski, który mię zawściągnął, abym ci nic złego nie uczynił
 "A tak przyjął Dawid z ręki jej, co mu była przyniosła, i rzekł do niej
-"Tedy się wróciła Abigail do Nabala; a on miał ucztę w domu swoim, jako ucztę królewską, a serce Nabalowe było wesołe w nim, a był pijany bardzo; i nie oznajmiła mu najmniejszej rzeczy aż do poranku."
+"Tedy się wróciła Abigail do Nabala; a on miał ucztę w domu swoim, jako ucztę królewską, a serce Nabalowe #było wesołe w nim, a był pijany bardzo; i nie oznajmiła mu najmniejszej rzeczy aż do poranku."
 "Ale nazajutrz, gdy wytrzeźwiał Nabal z wina, oznajmiła mu żona jego te rzeczy
 "A gdy wyszło jakoby dziesięć dni, uderzył Pan Nabala, i umarł."
 "A usłyszawszy Dawid, iż umarł Nabal, rzekł

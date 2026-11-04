@@ -11,11 +11,11 @@
 "Y Jehová dijo á Moisés
 "Yo le heriré de mortandad, y lo destruiré, y á ti te pondré sobre gente grande y más fuerte que ellos."
 "Y Moisés respondió á Jehová
-"Y lo dirán á los habitadores de esta tierra; los cuales han oído que tú, oh Jehová, estabas en medio de este pueblo, que ojo á ojo aparecías tú, oh Jehová, y que tu nube estaba sobre ellos, y que de día ibas delante de ellos en columna de nube, y de noche"
+"Y lo dirán á los habitadores de esta tierra; los cuales han oído que tú, oh Jehová, estabas en medio de este pueblo, que ojo á ojo #aparecías tú, oh Jehová, y que tu nube estaba sobre ellos, y que de día ibas delante de ellos en columna de nube, y de noche"
 "Y que has hecho morir á este pueblo como á un hombre
 "Porque no pudo Jehová meter este pueblo en la tierra de la cual les había jurado, los mató en el desierto."
 "Ahora, pues, yo te ruego que sea magnificada la fortaleza del Señor, como lo hablaste, diciendo
-"Jehová, tardo de ira y grande en misericordia, que perdona la iniquidad y la rebelión, y absolviendo no absolverá al culpado; que visita la maldad de los padres sobre los hijos hasta los terceros y hasta los cuartos."
+"Jehová, tardo de ira y grande en misericordia, que perdona la iniquidad y la rebelión, y absolviendo no absolverá al #culpado; que visita la maldad de los padres sobre los hijos hasta los terceros y hasta los cuartos."
 "Perdona ahora la iniquidad de este pueblo según la grandeza de tu misericordia, y como has perdonado á este pueblo desde Egipto hasta aquí."
 "Entonces Jehová dijo
 "Mas, ciertamente vivo yo y mi gloria hinche toda la tierra,"

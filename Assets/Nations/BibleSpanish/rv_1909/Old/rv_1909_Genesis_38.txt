@@ -11,7 +11,7 @@
 "Y Judá dijo á Thamar su nuera
 "Y pasaron muchos días, y murió la hija de Súa, mujer de Judá; y Judá se consoló, y subía á los trasquiladores de sus ovejas á Timnath, él y su amigo Hira el Adullamita."
 "Y fué dado aviso á Thamar, diciendo
-"Entonces quitó ella de sobre sí los vestidos de su viudez, y cubrióse con un velo, y arrebozóse, y se puso á la puerta de las aguas que están junto al camino de Timnath; porque veía que había crecido Sela, y ella no era dada á él por mujer."
+"Entonces quitó ella de sobre sí los vestidos de su viudez, y cubrióse con un velo, y arrebozóse, y se puso á la puerta de #las aguas que están junto al camino de Timnath; porque veía que había crecido Sela, y ella no era dada á él por mujer."
 "Y vióla Judá, y túvola por ramera, porque había ella cubierto su rostro."
 "Y apartóse del camino hacia ella, y díjole
 "El respondió

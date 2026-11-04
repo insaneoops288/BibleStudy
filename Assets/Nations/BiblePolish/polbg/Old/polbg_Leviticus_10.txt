@@ -11,10 +11,10 @@
 "Ażebyście nauczali synów Izraelskich wszystkich ustaw, które im rozkazał Pan przez Mojżesza."
 "Mówił potem Mojżesz do Aarona i do Eleazara i Itamara, synów jego, którzy byli pozostali
 "Przetoż jeść ją będziecie na miejscu świętem, bo to prawo twoje, i prawo synów twoich, z ognistych ofiar Pańskich; bo mi tak rozkazano."
-"Także mostek obracania, i łopatkę podnoszenia będziecie jedli na miejscu czystem, ty i synowie twoi, i córki twoje z tobą; albowiem to prawem tobie, i prawem synom twoim dano z ofiar spokojnych synów Izraelskich."
-"Łopatkę podnoszenia, i mostek obracania z ofiarami ognistemi, i tłustością przyniosą, aby je tam i sam obracano przed obliczem Pańskiem; a to będzie tobie i synom twoim z tobą prawem wiecznem, jako rozkazał Pan."
+"Także mostek obracania, i łopatkę podnoszenia będziecie jedli na miejscu czystem, ty i synowie twoi, i córki twoje #z tobą; albowiem to prawem tobie, i prawem synom twoim dano z ofiar spokojnych synów Izraelskich."
+"Łopatkę podnoszenia, i mostek obracania z ofiarami ognistemi, i tłustością przyniosą, aby je tam i sam obracano przed #obliczem Pańskiem; a to będzie tobie i synom twoim z tobą prawem wiecznem, jako rozkazał Pan."
 "Potem Mojżesz szukał pilnie kozła ofiarowanego za grzech, a oto, już spalony był; i dla tego rozgniewawszy się na Eleazara i Itamara, syny Aaronowe, którzy byli pozostali, mówił
-"Przeczżeście nie jedli ofiary za grzech na miejscu świętem? albowiem to jest rzecz najświętsza, ponieważ ją wam dano, abyście nosili nieprawość wszystkiego ludu na oczyszczenie ich przed obliczem Pańskiem."
+"Przeczżeście nie jedli ofiary za grzech na miejscu świętem? albowiem to jest rzecz najświętsza, ponieważ #ją wam dano, abyście nosili nieprawość wszystkiego ludu na oczyszczenie ich przed obliczem Pańskiem."
 "A oto, nie jest wniesiona krew jego wewnątrz do świątnicy; mieliście go jeść w świątnicy, jakom rozkazał."
 "Tedy Aaron odpowiedział Mojżeszowi
 "To gdy usłyszał Mojżesz, przestał na tem."

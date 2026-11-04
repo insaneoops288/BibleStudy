@@ -1,6 +1,6 @@
 "Ale w ostatecznych dniach stanie się, że góra domu PANA będzie utwierdzona na szczycie gór i wywyższona ponad pagórki, a narody do niej popłyną."
 "I wiele narodów przybędzie, mówiąc
-"On będzie sądzić wśród wielu narodów i będzie karać narody potężne i odległe. I przekują swoje miecze na lemiesze, a swoje oszczepy na sierpy. Naród przeciwko narodowi nie podniesie miecza i już nie będą się uczyć sztuki wojennej."
+"On będzie sądzić wśród wielu narodów i będzie karać narody potężne i odległe. I przekują swoje miecze na lemiesze, a #swoje oszczepy na sierpy. Naród przeciwko narodowi nie podniesie miecza i już nie będą się uczyć sztuki wojennej."
 "Ale każdy będzie siedział pod swoją winoroślą i pod swoim drzewem figowym i nikt nie będzie ich straszył, bo to usta PANA zastępów powiedziały."
 "Wszystkie narody bowiem będą chodzić, każdy w imię swego boga, ale my będziemy chodzić w imię PANA, naszego Boga, na wieki wieków."
 "W tym dniu, mówi PAN, zgromadzę chromą, zbiorę wygnaną oraz tę, którą trapiłem;"

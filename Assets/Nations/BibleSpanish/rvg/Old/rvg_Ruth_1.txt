@@ -1,5 +1,5 @@
 "Y aconteció en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Belén de Judá, fue a peregrinar en los campos de Moab, él y su esposa, y sus dos hijos."
-"El nombre de aquel varón [era] Elimelec, y el de su esposa Noemí; y los nombres de sus dos hijos eran, Mahalón y Quilión, efrateos de Belén de Judá. Llegaron, pues, a los campos de Moab, y asentaron allí."
+"El nombre de aquel varón [era] Elimelec, y el de su esposa Noemí; y los nombres de sus dos hijos #eran, Mahalón y Quilión, efrateos de Belén de Judá. Llegaron, pues, a los campos de Moab, y asentaron allí."
 "Y murió Elimelec, marido de Noemí, y quedó ella con sus dos hijos,"
 "los cuales tomaron para sí esposas de las mujeres de Moab, el nombre de una [era] Orfa, y el nombre de la otra, Ruth; y habitaron allí unos diez años."
 "Y murieron también los dos, Mahalón y Quilión, quedando así la mujer desamparada de sus dos hijos y de su marido."
@@ -10,7 +10,7 @@
 "Y le dijeron
 "Y Noemí respondió
 "Volveos, hijas mías, e idos; que yo ya soy vieja para ser para varón. Y aunque dijese
-"¿habíais vosotras de esperarlos hasta que fuesen grandes? ¿Habíais vosotras de quedaros sin casar por amor a ellos? No, hijas mías; que mayor amargura tengo yo que vosotras, pues la mano de Jehová ha salido contra mí."
+"¿habíais vosotras de esperarlos hasta que fuesen grandes? ¿Habíais vosotras de quedaros sin casar por amor a ellos? No, #hijas mías; que mayor amargura tengo yo que vosotras, pues la mano de Jehová ha salido contra mí."
 "Mas ellas alzando otra vez su voz, lloraron; y Orfa besó a su suegra, mas Ruth se quedó con ella."
 "Y Noemí dijo
 "Y Ruth respondió

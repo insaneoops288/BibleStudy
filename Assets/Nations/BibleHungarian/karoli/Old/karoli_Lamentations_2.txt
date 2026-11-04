@@ -16,7 +16,7 @@
 "Feltátották ellened szájokat minden ellenségeid; süvöltenek és csikorgatják fogukat, mondván
 "Megcselekedte az Úr, a miket gondolt; beváltotta szavát, a melyet szólt eleitõl fogva; rombolt és nem kimélt, és megvidámította rajtad az ellenséget, felemelte szarvát a te szorongatóidnak."
 "Kiáltott az õ szívök az Úrhoz
-"Kelj fel, riadj éjjel, az õrjárások kezdetén; öntsd ki, mint a vizet a te szívedet az Úr szine elõtt; emeld fel hozzá kezeidet a te kisdedeidnek életéért, a kik elaléltak az éhség miatt minden utczának szegletén."
+"Kelj fel, riadj éjjel, az õrjárások kezdetén; öntsd ki, mint a vizet a te szívedet az Úr szine elõtt; #emeld fel hozzá kezeidet a te kisdedeidnek életéért, a kik elaléltak az éhség miatt minden utczának szegletén."
 "Lásd meg Uram és tekintsd meg, kivel cselekedtél így! Avagy megegyék-é az asszonyok az õ méhöknek gyümölcsét, dédelgetett kisdedeiket; avagy megölettessék-é az Úrnak szent helyén pap és próféta?"
 "Az utczákon a földön fekszik gyermek és vén; szûzeim és ifjaim fegyver miatt hullottak el; öldököltél haragod napján, mészároltál, nem kiméltél."
-"Egybehívtad mint valami ünnepnapra az én rettegtetõimet mindenfelõl, és nem volt az Úr haragjának napján, a ki elmenekült és megszabadult volna. A kiket dédelgettem és felneveltem, ellenségem emésztette meg õket!"
+"Egybehívtad mint valami ünnepnapra az én rettegtetõimet mindenfelõl, és nem volt az Úr haragjának napján, a #ki elmenekült és megszabadult volna. A kiket dédelgettem és felneveltem, ellenségem emésztette meg õket!"

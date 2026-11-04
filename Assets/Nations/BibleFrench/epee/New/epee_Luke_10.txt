@@ -10,7 +10,7 @@
 "Mais dans quelque ville que vous entriez, si l'on ne vous reçoit pas, sortez dans les rues, et dites
 "Nous secouons contre vous la poussière qui s'est attachée à nous dans votre ville; sachez pourtant que le royaume de Dieu s'est approché de vous."
 "Je vous dis qu'en ce jour-là le sort de Sodome sera plus supportable que celui de cette ville-là."
-"Malheur à toi, Chorazin; malheur à toi, Bethsaïda; car si les miracles qui ont été faits au milieu de vous, avaient été faits à Tyr et à Sidon, il y a longtemps qu'elles se seraient converties, en prenant le sac et la cendre."
+"Malheur à toi, Chorazin; malheur à toi, Bethsaïda; car si les miracles qui ont été faits au milieu de vous, avaient été #faits à Tyr et à Sidon, il y a longtemps qu'elles se seraient converties, en prenant le sac et la cendre."
 "C'est pourquoi le sort de Tyr et de Sidon sera plus supportable au Jugement que le vôtre."
 "Et toi, Capernaüm, qui as été élevée jusqu'au ciel, tu seras projetée dans la confusion."
 "Qui vous écoute, m'écoute; et qui vous rejette, me rejette; et qui me rejette, rejette celui qui m'a envoyé."

@@ -22,6 +22,6 @@
 "Niin pitäkäät nyt kaikki minun säätyni, ja kaikki minun oikeuteni, ja tehkäät ne, ettei maa teitä oksentaisi, johon minä teidät vien asumaan."
 "Ja älkäät vaeltako pakanain säädyissä, jotka minä teidän edeltänne olen ajava ulos; sillä kaikkia näitä he ovat tehneet, ja minä olen kauhistunut heitä."
 "Mutta teille sanon minä
-"Että teidän pitää myös eroittaman puhtaat eläimet saastaisista, ja saastaiset linnut puhtaista, ja ei saastuttaman teidän sielujanne eläimissä, linnuissa ja kaikissa, mitkä maalla matelevat, jotka minä teille eroittanut olen, että ne ovat saastaiset."
+"Että teidän pitää myös eroittaman puhtaat eläimet saastaisista, ja saastaiset linnut puhtaista, ja ei saastuttaman teidän sielujanne #eläimissä, linnuissa ja kaikissa, mitkä maalla matelevat, jotka minä teille eroittanut olen, että ne ovat saastaiset."
 "Sentähden pitää teidän oleman minulle pyhät, sillä minä Herra olen pyhä, ja olen teitä eroittanut muista kansoista, että teidän pitäis oleman minun omani."
 "Jos joku mies eli vaimo noidaksi eli tietäjäksi löydetään, ne pitää totisesti kuoleman, heidän pitää ne kivittämän, heidän verensä olkoon heidän päällänsä."

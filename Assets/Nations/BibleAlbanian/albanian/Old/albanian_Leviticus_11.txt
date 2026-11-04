@@ -29,7 +29,7 @@
 "Ndër kafshët që zvarriten mbi tokë, këta janë të papastër për ju
 "gekoja, varani, hardhuca, kërmilli dhe kameleoni."
 "Këto kafshë midis tërë atyre që zvarriten janë të papastra për ju; kushdo që i prek kur kanë ngordhur, do të jetë i papastër deri në mbrëmje."
-"Çdo gjë mbi të cilën një prej tyre bie kur kanë ngordhur do të jetë e papastër; qoftë kjo një vegël prej druri, apo rroba, apo lëkurë, apo thes apo çfarëdo sendi tjetër i përdorur për punë, duhet të futet në ujë dhe do të jetë i papastër deri në mbrëmje; pastaj do të jetë i pastër."
+"Çdo gjë mbi të cilën një prej tyre bie kur kanë ngordhur do të jetë e papastër; qoftë kjo një vegël prej druri, apo rroba, apo lëkurë, apo thes #apo çfarëdo sendi tjetër i përdorur për punë, duhet të futet në ujë dhe do të jetë i papastër deri në mbrëmje; pastaj do të jetë i pastër."
 "Çdo enë prej argjile brenda të cilës një prej tyre bie, do ta thyeni; dhe gjithçka që ndodhet në të do të jetë i papaster."
 "Çdo ushqim që hahet mbi të cilin bie uji i kësaj ene do të bëhet i papastër; dhe çdo gllënjkë që mund të merret prej tij do të jetë e papastër."
 "Çdo gjë mbi të cilën bie një pjesë e trupit të tyre të ngordhur, qoftë furra apo furnela, do të copëtohet; ata janë të papastër dhe do të konsiderohen të papastër nga ana juaj."
@@ -37,7 +37,7 @@
 "Dhe në rast se një pjesë e trupave të tyre të pajetë bie mbi çfarëdo lloj fare që të mbillet, kjo do të mbetet e pastër;"
 "por në rast se vihet ujë mbi farën dhe një pjesë e trupave të pajetë të tyre bie mbi të, ajo është e papastër për ju."
 "Në rast se ngordh një kafshë që ju lejohet ta hani, ai që do të prekë trupin e pajetë të saj do të jetë i papastër deri në mbrëmje."
-"Ai që ha nga ky trup i ngordhur do të lajë rrobat e tij dhe do të jetë i papastër deri në mbrëmje; po kështu ai që transporton këtë trup të ngordhur do të lajë rrobat e tij dhe do të jetë i papastër deri në mbrëmje."
+"Ai që ha nga ky trup i ngordhur do të lajë rrobat e tij dhe do të jetë i papastër deri në mbrëmje; po #kështu ai që transporton këtë trup të ngordhur do të lajë rrobat e tij dhe do të jetë i papastër deri në mbrëmje."
 "Çdo gjë që hiqet zvarrë mbi tokë është një gjë e neveritshme; nuk duhet ta hani."
 "Ndër të gjitha kafshët që hiqen zvarrë mbi tokë, nuk do të hani asnjërën prej atyre që ecin mbi bark, që lëvizin me katër këmbë, ose të atyre që kanë shumë këmbë, sepse kjo është e neveritshme."
 "Mos u bëni të neveritshëm me asnjë nga këto kafshë që zvarriten; mos u bëni të papastër me to, në mënyrë që të ndoteni."

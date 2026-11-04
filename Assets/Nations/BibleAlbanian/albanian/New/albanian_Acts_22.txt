@@ -1,8 +1,8 @@
 "''Vëllezër dhe etër, dëgjoni çfarë ju them tani për mbrojtjen time''."
 "Kur dëgjuan se u fliste atyre në gjuhën hebraike, heshtën edhe më shumë. Pastaj ai tha
-"''Në të vërtetë unë jam një Jude, lindur në Tars të Kilikisë dhe rritur në këtë qytet te këmbët e Gamalielit, edukuar me përpikërinë e ligjit të etërve tanë, plot me zell për Perëndinë, sikurse jeni ju të gjithë sot;"
+"''Në të vërtetë unë jam një Jude, lindur në Tars të Kilikisë dhe rritur në këtë qytet te këmbët e Gamalielit, #edukuar me përpikërinë e ligjit të etërve tanë, plot me zell për Perëndinë, sikurse jeni ju të gjithë sot;"
 "unë kam përndjekur këtë Udhë deri në vdekje, duke lidhur dhe duke futur në burg burra dhe gra,"
-"sikurse jep dëshmi për mua kryeprifti dhe gjithë sinedri i pleqve, prej të cilëve mora edhe letra për vëllezërit dhe shkova në Damask për të sjellë të lidhur në Jeruzalem ata që ishin atje, që të ndëshkoheshin."
+"sikurse jep dëshmi për mua kryeprifti dhe gjithë sinedri i pleqve, prej të cilëve mora edhe letra për vëllezërit #dhe shkova në Damask për të sjellë të lidhur në Jeruzalem ata që ishin atje, që të ndëshkoheshin."
 "Dhe më ndodhi që, kur isha duke udhëtuar dhe po i afrohesha Damaskut, aty nga mesi i ditës, papritmas një dritë e madhe nga qielli vetëtiu rreth meje."
 "Dhe unë rashë përdhe dhe dëgjova një zë që po më thoshte
 "Dhe unë u përgjigja
@@ -27,4 +27,4 @@
 "Atëherë kryemijësi shkoi te Pali dhe e pyeti
 "Kryemijësi u përgjigj
 "Menjëherë ata që duhet ta merrnin në pyetje u larguan prej tij; dhe vetë kryemijësi, kur mori vesh se ai ishte qytetar romak, pati frikë që e kishte lidhur."
-"Të nesërmen, duke dashur të marrë vesh me saktësi përse ishte akuzuar nga Judenjtë, e zgjidhi nga prangat dhe urdhëroi krerët e priftërinjve dhe gjithë sinedrin të vinin. Pastaj, si e sollën poshtë Palin, e nxori përpara tyre."
+"Të nesërmen, duke dashur të marrë vesh me saktësi përse ishte akuzuar nga Judenjtë, e zgjidhi nga prangat dhe urdhëroi #krerët e priftërinjve dhe gjithë sinedrin të vinin. Pastaj, si e sollën poshtë Palin, e nxori përpara tyre."

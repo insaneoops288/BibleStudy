@@ -8,7 +8,7 @@
 "er ist ein wankelmütiger Mann, unstet in allen seinen Wegen."
 "Der niedrige Bruder aber rühme sich seiner Hoheit,"
 "der reiche aber seiner Erniedrigung; denn wie des Grases Blume wird er vergehen."
-"Denn die Sonne ist aufgegangen mit ihrer Glut und hat das Gras gedörrt, und seine Blume ist abgefallen, und die Zierde seines Ansehens ist verdorben; also wird auch der Reiche in seinen Wegen verwelken."
+"Denn die Sonne ist aufgegangen mit ihrer Glut und hat das Gras gedörrt, und seine Blume ist abgefallen, #und die Zierde seines Ansehens ist verdorben; also wird auch der Reiche in seinen Wegen verwelken."
 "Glückselig der Mann, der die Versuchung erduldet! Denn nachdem er bewährt ist, wird er die Krone des Lebens empfangen, welche er denen verheißen hat, die ihn lieben."
 "Niemand sage, wenn er versucht wird
 "Ein jeder aber wird versucht, wenn er von seiner eigenen Lust fortgezogen und gelockt wird."
@@ -22,6 +22,6 @@
 "Seid aber Täter des Wortes und nicht allein Hörer, die sich selbst betrügen."
 "Denn wenn jemand ein Hörer des Wortes ist und nicht ein Täter, der ist einem Manne gleich, welcher sein natürliches Angesicht in einem Spiegel betrachtet."
 "Denn er hat sich selbst betrachtet und ist weggegangen, und er hat alsbald vergessen, wie er beschaffen war."
-"Wer aber in das vollkommene Gesetz, das der Freiheit, nahe hineingeschaut hat und darin bleibt, indem er nicht ein vergeßlicher Hörer, sondern ein Täter des Werkes ist, dieser wird glückselig sein in seinem Tun."
+"Wer aber in das vollkommene Gesetz, das der Freiheit, nahe hineingeschaut hat und darin bleibt, indem er nicht #ein vergeßlicher Hörer, sondern ein Täter des Werkes ist, dieser wird glückselig sein in seinem Tun."
 "Wenn jemand sich dünkt, er diene Gott, und zügelt nicht seine Zunge, sondern betrügt sein Herz, dessen Gottesdienst ist eitel."
 "Ein reiner und unbefleckter Gottesdienst vor Gott und dem Vater ist dieser

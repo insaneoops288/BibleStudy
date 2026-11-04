@@ -1,7 +1,7 @@
 "Tämä on se, minkä Jesaia Amotsin poika näki Juudasta ja Jerusalemista."
 "Viimeisenä aikana pitää sen vuoren, jolla Herran huone on, vahvan oleman, korkiampi kuin kaikki vuoret, ja korotettaman kukkulain ylitse; ja kaikki pakanat pitää sinne juokseman."
 "Ja paljo kansaa pitää sinne menemän, ja sanoman
-"Ja hän tuomitsee pakanain seassa, ja rankaisee monta kansaa. Silloin heidän pitää miekkansa vannaksi tekemän, ja keihäänsä vikahteeksi; sillä ei yhdenkään kansan pidä toista kansaa vastaan miekkaa nostaman, eikä silleen tottuman sotimaan."
+"Ja hän tuomitsee pakanain seassa, ja rankaisee monta kansaa. Silloin heidän pitää miekkansa vannaksi tekemän, ja keihäänsä #vikahteeksi; sillä ei yhdenkään kansan pidä toista kansaa vastaan miekkaa nostaman, eikä silleen tottuman sotimaan."
 "Tulkaat, te Jakobin huoneesta, vaeltakaamme Herran valkeudessa."
 "Mutta sinä olet sinun kansas Jakobin huoneen hyljännyt; sillä he rikkovat enemmän kuin itäläiset, ja ovat päiväin valitsiat, niinkuin Philistealaiset, ja sallivat muukalaiset lapset moneksi tulla."
 "Heidän maansa on täynnä hopiaa ja kultaa, ja heidän rikkaudellansa ei ole loppua; heidän maansa on täynnä hevosia, ja heidän rattaillansa ei ole loppua."

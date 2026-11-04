@@ -8,7 +8,7 @@
 "Kterýžto kdyžkoli sobě zvoloval bohy nové, tedy bývala válka v branách, pavézy pak ani kopí nebylo vidíno mezi čtyřidcíti tisíci v Izraeli."
 "Srdce mé nakloněno jest k správcům Izraelským a k těm, kteříž tak ochotní byli mezi jinými. Dobrořečtež Hospodinu."
 "Kteříž jezdíte na bílých oslicích, kteříž bydlíte při Middin, a kteříž chodíte po cestách, vypravujtež,"
-"Že vzdálen hluk střelců na místech, kdež se voda váží; i tam vypravujte hojnou spravedlnost Hospodinovu, hojnou spravedlnost k obyvatelům vsí jeho v Izraeli; tehdážť vstupovati bude k branám lid Hospodinův."
+"Že vzdálen hluk střelců na místech, kdež se voda váží; i tam vypravujte hojnou spravedlnost Hospodinovu, #hojnou spravedlnost k obyvatelům vsí jeho v Izraeli; tehdážť vstupovati bude k branám lid Hospodinův."
 "Povstaň, povstaň, Deboro, povstaniž, povstaniž a vypravuj píseň, povstaň, Baráku, a zajmi jaté své, synu Abinoemův."
 "Tehdážtě potlačenému dopomoženo k opanování silných reků z lidu; Hospodintě mi ku panování dopomohl nad silnými."
 "Z Efraima kořen jejich bojoval proti Amalechitským; za tebou, Efraime, Beniamin s lidem tvým; z Machira táhli vydavatelé zákona, a z Zabulona písaři."
@@ -27,5 +27,5 @@
 "U noh jejích skrčil se, padl, ležel, u noh jejích skrčil se, padl; kdež se skrčil, tu padl zabitý."
 "Vyhlídala z okna skrze mříži, a naříkala matka Zizarova, řkuci
 "Moudřejší pak z předních služebnic jejích odpovídaly, i ona sama také sobě odpovídala
-"Zdali ale dosáhli něčeho, a dělí kořisti? Děvečku jednu neb dvě na každého muže, loupeže rozdílných barev samému Zizarovi, kořisti rozdílných barev krumpovaným dílem, roucho rozdílných barev krumpovaným dílem na hrdlo loupežníků."
+"Zdali ale dosáhli něčeho, a dělí kořisti? Děvečku jednu neb dvě na každého muže, loupeže rozdílných barev #samému Zizarovi, kořisti rozdílných barev krumpovaným dílem, roucho rozdílných barev krumpovaným dílem na hrdlo loupežníků."
 "Tak ať zahynou všickni nepřátelé tvoji, ó Hospodine, tebe pak milující ať jsou jako slunce vzcházející v síle své. I byla v pokoji země za čtyřidceti let."

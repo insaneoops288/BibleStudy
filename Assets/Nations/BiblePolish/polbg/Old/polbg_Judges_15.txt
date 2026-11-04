@@ -11,7 +11,7 @@
 "A tak wyszło trzy tysiące mężów z Juda na wierzch opoki Etam, i mówili do Samsona
 "I rzekli mu
 "A oni mu rzekli, mówiąc
-"Który gdy przyszedł aż do Lechy, tedy Filistynowie krzycząc bieżeli przeciw niemu; ale Duch Pański przypadł nań, i stały się powrozy, które były na ramionach jego, jako nici lniane ogniem spalone, i rozerwały się związki z rąk jego."
+"Który gdy przyszedł aż do Lechy, tedy Filistynowie krzycząc bieżeli przeciw niemu; ale Duch Pański przypadł nań, i stały się #powrozy, które były na ramionach jego, jako nici lniane ogniem spalone, i rozerwały się związki z rąk jego."
 "Tedy znalazłszy czeluść oślą świeżą, a wyciągnąwszy po nię rękę swoję, wziął ją, i zabił nią tysiąc mężów."
 "Zatem rzekł Samson
 "A gdy przestał mówić, porzucił czeluść z ręki swej, i nazwał miejsce ono Ramat Lechy."

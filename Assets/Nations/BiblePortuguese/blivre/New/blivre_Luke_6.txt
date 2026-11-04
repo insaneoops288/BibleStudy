@@ -45,5 +45,5 @@
 "A boa pessoa tira o bem do bom tesouro de seu coração; e a má pessoa tira o mal do mau tesouro de seu coração; porque a sua boca fala d [aquilo que] o coração [tem em] abundância."
 "E por que me chamais
 "Qualquer que vem a mim, e ouve minhas palavras, e as faz, eu vos mostrarei a quem é semelhante
-"Semelhante é ao homem que construiu uma casa, e cavou bem fundo, e pôs o fundamento sobre a rocha; e vindo a enchente, a corrente veio com força naquela casa, e não a pode abalar, porque estava fundada sobre a rocha."
-"Mas o que as ouvir, e não [as] fizer, semelhante é ao homem que construiu [sua] casa sobre a terra sem fundamento, na qual a corrente veio com força, e logo caiu; e foi grande a queda daquela casa."
+"Semelhante é ao homem que construiu uma casa, e cavou bem fundo, e pôs o fundamento sobre a rocha; e vindo #a enchente, a corrente veio com força naquela casa, e não a pode abalar, porque estava fundada sobre a rocha."
+"Mas o que as ouvir, e não [as] fizer, semelhante é ao homem que construiu [sua] casa sobre a terra #sem fundamento, na qual a corrente veio com força, e logo caiu; e foi grande a queda daquela casa."

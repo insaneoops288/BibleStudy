@@ -1,5 +1,5 @@
 "Katso, Herra tekee maan tyhjäksi ja autioksi, ja kukistaa, mitä siinä on, ja hävittää sen asuvaiset."
-"Ja papeille tapahtuu niinkuin kansallekin, herralle niinkuin palveliallekin, emännälle niinkuin piiallekin, myyjälle niinkuin ostajallekin, lainaajalle niinkuin lainaksi ottajallekin, korkorahan ottajlle niinkuin antajallekin."
+"Ja papeille tapahtuu niinkuin kansallekin, herralle niinkuin palveliallekin, emännälle niinkuin piiallekin, myyjälle #niinkuin ostajallekin, lainaajalle niinkuin lainaksi ottajallekin, korkorahan ottajlle niinkuin antajallekin."
 "Sillä maan pitää peräti tyhjäksi ja kokonansa ryöstetyksi tuleman; sillä Herra on tämän sanonut."
 "Maa on surkia ja hävitetään, maa pelehtyy ja häviää; kansan ylimmäiset nääntyvät maassa."
 "Maa on saastaiseksi tullut asuvaisistansa; sillä he tekevät lakia vastaan ja muuttavat säädyt, ja luopuvat ijankaikkisesta liitosta."
@@ -15,7 +15,7 @@
 "Niin kiittäkäät nyt Herraa laaksoissa, luodoissa Herran, Israelin Jumalan nimeä."
 "Me kuulemme kiitosvirren maailman äärestä, vanhurskaalle kunniaksi. Ja minun pitää sanoman
 "Sentähden tulee teidän asuvainne päälle maassa hämmästys, kuoppa ja paula."
-"Ja jos joku pakenis hämmästyksen huutoa, niin hän kuitenkin putoo kuoppaan; ja jos hän pääsee kuopasta ylös, niin hän kuitenkin käsitetään paulaan, sillä korkeuden akkunat avataan, ja maan perustukset vapisevat."
+"Ja jos joku pakenis hämmästyksen huutoa, niin hän kuitenkin putoo kuoppaan; ja jos hän pääsee kuopasta #ylös, niin hän kuitenkin käsitetään paulaan, sillä korkeuden akkunat avataan, ja maan perustukset vapisevat."
 "Maan käy aivan pahoin
 "Maan pitää kovin hoiperteleman niinkuin juopuneen, ja vietämän pois niinkuin majan; sillä sen pahat teot painavat sen, niin että sen pitää lankeeman, ja ei enään nouseman."
 "Silloin on Herra etsivä sitä korkiaa sotaväkeä, joka korkeudessa on, ja maan kuninkaita, jotka ovat maan päällä."

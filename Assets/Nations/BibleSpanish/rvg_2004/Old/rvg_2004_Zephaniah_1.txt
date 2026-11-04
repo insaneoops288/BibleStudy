@@ -15,4 +15,4 @@
 "Día de ira aquel día, día de angustia y de aprieto, día de alboroto y de asolamiento, día de tiniebla y de oscuridad, día de nublado y de densa niebla,"
 "día de trompeta y de algazara, sobre las ciudades fuertes, y sobre las altas torres."
 "Y atribularé a los hombres, y andarán como ciegos, porque pecaron contra Jehová
-"Ni su plata ni su oro podrá librarlos en el día de la ira de Jehová; pues toda la tierra será consumida con el fuego de su celo; porque ciertamente exterminio apresurado hará con todos los moradores de la tierra."
+"Ni su plata ni su oro podrá librarlos en el día de la ira de Jehová; pues toda la tierra será #consumida con el fuego de su celo; porque ciertamente exterminio apresurado hará con todos los moradores de la tierra."

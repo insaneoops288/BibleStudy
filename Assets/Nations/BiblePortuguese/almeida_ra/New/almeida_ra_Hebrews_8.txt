@@ -7,7 +7,7 @@
 "Pois, se aquele primeiro fora sem defeito, nunca se teria buscado lugar para o segundo."
 "Porque repreendendo-os, diz
 "Não segundo o pacto que fiz com seus pais no dia em que os tomei pela mão, para os tirar da terra do Egipto; pois não permaneceram naquele meu pacto, e eu para eles não atentei, diz o Senhor."
-"Ora, este é o pacto que farei com a casa de Israel, depois daqueles dias, diz o Senhor; porei as minhas leis no seu entendimento, e em seu coração as escreverei; eu serei o seu Deus, e eles serão o meu povo;"
+"Ora, este é o pacto que farei com a casa de Israel, depois daqueles dias, diz o Senhor; porei as minhas leis #no seu entendimento, e em seu coração as escreverei; eu serei o seu Deus, e eles serão o meu povo;"
 "e não ensinará cada um ao seu concidadão, nem cada um ao seu irmão, dizendo
 "Porque serei misericordioso para com suas iniquidades, e de seus pecados não me lembrarei mais."
 "Dizendo

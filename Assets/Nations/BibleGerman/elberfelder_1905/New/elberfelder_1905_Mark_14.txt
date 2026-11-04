@@ -1,6 +1,6 @@
 "Es war aber nach zwei Tagen das Passah und das Fest der ungesäuerten Brote. Und die Hohenpriester und die Schriftgelehrten suchten, wie sie ihn mit List griffen und töteten; denn sie sagten
 "Nicht an dem Feste, damit nicht etwa ein Aufruhr des Volkes entstehe."
-"Und als er in Bethanien war, in dem Hause Simons, des Aussätzigen, kam, während er zu Tische lag, ein Weib, die ein Alabasterfläschchen mit Salbe von echter, kostbarer Narde hatte; und sie zerbrach das Fläschchen und goß es auf sein Haupt."
+"Und als er in Bethanien war, in dem Hause Simons, des Aussätzigen, kam, während er zu Tische lag, ein Weib, die #ein Alabasterfläschchen mit Salbe von echter, kostbarer Narde hatte; und sie zerbrach das Fläschchen und goß es auf sein Haupt."
 "Es waren aber etliche unwillig bei sich selbst und sprachen
 "Denn diese Salbe hätte für mehr als dreihundert Denare verkauft und den Armen gegeben werden können. Und sie zürnten mit ihr."
 "Jesus aber sprach
@@ -18,7 +18,7 @@
 "Und während sie zu Tische lagen und aßen, sprach Jesus
 "Sie aber fingen an, betrübt zu werden und einer nach dem anderen zu ihm zu sagen
 "Er aber antwortete und sprach zu ihnen
-"Der Sohn des Menschen geht zwar dahin, wieüber ihn geschrieben steht; wehe aber jenem Menschen, durch welchen der Sohn des Menschenüberliefert wird! Es wäre jenem Menschen gut, wenn er nicht geboren wäre."
+"Der Sohn des Menschen geht zwar dahin, wieüber ihn geschrieben steht; wehe aber jenem Menschen, durch welchen #der Sohn des Menschenüberliefert wird! Es wäre jenem Menschen gut, wenn er nicht geboren wäre."
 "Und während sie aßen, nahm Jesus Brot, segnete und brach und gab es ihnen und sprach
 "Und er nahm den Kelch, dankte und gab ihnen denselben; und sie tranken alle daraus."
 "Und er sprach zu ihnen
@@ -40,7 +40,7 @@
 "Und als er zurückkam, fand er sie wiederum schlafend, denn ihre Augen waren beschwert; und sie wußten nicht, was sie ihm antworten sollten."
 "Und er kommt zum dritten Mal und spricht zu ihnen
 "Stehet auf, laßt uns gehen; siehe, der michüberliefert, ist nahe gekommen."
-"Und alsbald, während er noch redete, kommt Judas, einer der Zwölfe, herzu, und mit ihm eine große Volksmenge mit Schwertern und Stöcken, von den Hohenpriestern und den Schriftgelehrten und denÄltesten."
+"Und alsbald, während er noch redete, kommt Judas, einer der Zwölfe, herzu, und mit ihm eine #große Volksmenge mit Schwertern und Stöcken, von den Hohenpriestern und den Schriftgelehrten und denÄltesten."
 "Der ihn aberüberlieferte, hatte ihnen ein Zeichen gegeben und gesagt
 "Und als er kam, trat er alsbald zu ihm und spricht
 "Sie aber legten ihre Hände an ihn und griffen ihn."

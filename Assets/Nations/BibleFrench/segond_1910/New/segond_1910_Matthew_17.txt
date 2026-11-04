@@ -24,4 +24,4 @@
 "Lorsqu'ils arrivèrent à Capernaüm, ceux qui percevaient les deux drachmes s'adressèrent à Pierre, et lui dirent
 "Oui, dit-il. Et quand il fut entré dans la maison, Jésus le prévint, et dit
 "Il lui dit
-"Mais, pour ne pas les scandaliser, va à la mer, jette l'hameçon, et tire le premier poisson qui viendra; ouvre-lui la bouche, et tu trouveras un statère. Prends-le, et donne-le-leur pour moi et pour toi."
+"Mais, pour ne pas les scandaliser, va à la mer, jette l'hameçon, et tire le premier poisson qui #viendra; ouvre-lui la bouche, et tu trouveras un statère. Prends-le, et donne-le-leur pour moi et pour toi."

@@ -9,7 +9,7 @@
 "Havendo decorrido muito tempo e tendo-se tornado perigosa a navegação, porque já havia passado o jejum, Paulo os advertia,"
 "dizendo-lhes
 "Mas o centurião dava mais crédito ao piloto e ao dono do navio do que às coisas que Paulo dizia."
-"E não sendo o porto muito próprio para invernar, os mais deles foram de parecer que daí se fizessem ao mar para ver se de algum modo podiam chegar a Fenice, um porto de Creta que olha para o nordeste e para o sueste, para ali invernar."
+"E não sendo o porto muito próprio para invernar, os mais deles foram de parecer que daí se fizessem ao mar para ver se #de algum modo podiam chegar a Fenice, um porto de Creta que olha para o nordeste e para o sueste, para ali invernar."
 "Soprando brandamente o vento sul, e supondo eles terem alcançado o que desejavam, levantaram ferro e iam costeando Creta bem de perto."
 "Mas não muito depois desencadeou-se do lado da ilha um tufão de vento chamado euro-aquilão;"
 "e, sendo arrebatado o navio e não podendo navegar contra o vento, cedemos à sua força e nos deixávamos levar."

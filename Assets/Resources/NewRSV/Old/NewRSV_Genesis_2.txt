@@ -6,7 +6,7 @@ when no plant of the field was yet in the earth and no herb of the field had yet
 but a stream would rise from the earth, and water the whole face of the ground,,
 then the LORD God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and the man became a living being.
 And the LORD God planted a garden in Eden, in the east; and there he put the man whom he had formed.
-Out of the ground the LORD God made to grow every tree that is pleasant to the sight and good for food, the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
+Out of the ground the LORD God made to grow every tree that is pleasant to the sight and good for food, #the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
 A river flows out of Eden to water the garden, and from there it divides and becomes four branches.
 The name of the first is Pishon; it is the one that flows around the whole land of Havilah, where there is gold;
 and the gold of that land is good; bdellium and onyx stone are there.
@@ -16,7 +16,7 @@ The LORD God took the man and put him in the garden of Eden to till it and keep 
 And the LORD God commanded the man, "You may freely eat of every tree of the garden;
 but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall die."
 Then the LORD God said, "It is not good that the man should be alone; I will make him a helper as his partner."
-So out of the ground the LORD God formed every animal of the field and every bird of the air, and brought them to the man to see what he would call them; and whatever the man called every living creature, that was its name.
+So out of the ground the LORD God formed every animal of the field and every bird of the air, and brought them #to the man to see what he would call them; and whatever the man called every living creature, that was its name.
 The man gave names to all cattle, and to the birds of the air, and to every animal of the field; but for the man there was not found a helper as his partner.
 So the LORD God caused a deep sleep to fall upon the man, and he slept; then he took one of his ribs and closed up its place with flesh.
 And the rib that the LORD God had taken from the man he made into a woman and brought her to the man.

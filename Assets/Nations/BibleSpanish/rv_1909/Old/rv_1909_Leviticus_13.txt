@@ -1,5 +1,5 @@
 "Y HABLO Jehová á Moisés y á Aarón, diciendo
-"Cuando el hombre tuviere en la piel de su carne hinchazón, ó postilla, ó mancha blanca, y hubiere en la piel de su carne como llaga de lepra, será traído á Aarón el sacerdote, ó á uno de los sacerdotes sus hijos
+"Cuando el hombre tuviere en la piel de su carne hinchazón, ó postilla, ó mancha blanca, y hubiere en la piel de #su carne como llaga de lepra, será traído á Aarón el sacerdote, ó á uno de los sacerdotes sus hijos
 "Y el sacerdote mirará la llaga en la piel de la carne
 "Y si en la piel de su carne hubiere mancha blanca, pero no pareciere más hundida que la tez, ni su pelo se hubiere vuelto blanco, entonces el sacerdote encerrará al llagado por siete días;"
 "Y al séptimo día el sacerdote lo mirará; y si la llaga a su parecer se hubiere estancado, no habiéndose extendido en la piel, entonces el sacerdote le volverá á encerrar por otros siete días."
@@ -22,7 +22,7 @@
 "Y si se fuere extendiendo por la piel, entonces el sacerdote lo dará por inmundo
 "Empero si la mancha blanca se estuviere en su lugar, que no haya cundido, es la costra de la apostema; y el sacerdote lo dará por limpio."
 "Asimismo cuando la carne tuviere en su piel quemadura de fuego, y hubiere en lo sanado del fuego mancha blanquecina, bermejiza ó blanca,"
-"El sacerdote la mirará; y si el pelo se hubiere vuelto blanco en la mancha, y pareciere estar más hundida que la piel, es lepra que salió en la quemadura; y el sacerdote declarará al sujeto inmundo, por ser llaga de lepra."
+"El sacerdote la mirará; y si el pelo se hubiere vuelto blanco en la mancha, y pareciere estar más hundida que la #piel, es lepra que salió en la quemadura; y el sacerdote declarará al sujeto inmundo, por ser llaga de lepra."
 "Mas si el sacerdote la mirare, y no pareciere en la mancha pelo blanco, ni estuviere más baja que la tez, sino que está oscura, le encerrará el sacerdote por siete días;"
 "Y al séptimo día el sacerdote la reconocerá
 "Empero si la mancha se estuviere en su lugar, y no se hubiere extendido en la piel, sino que está oscura, hinchazón es de la quemadura
@@ -31,7 +31,7 @@
 "Mas cuando el sacerdote hubiere mirado la llaga de la tiña, y no pareciere estar más profunda que la tez, ni fuere en ella pelo negro, el sacerdote encerrará al llagado de la tiña por siete días
 "Y al séptimo día el sacerdote mirará la llaga
 "Entonces lo trasquilarán, mas no trasquilarán el lugar de la tiña
-"Y al séptimo día mirará el sacerdote la tiña; y si la tiña no hubiere cundido en la piel, ni pareciere estar más profunda que la tez, el sacerdote lo dará por limpio; y lavará sus vestidos, y será limpio."
+"Y al séptimo día mirará el sacerdote la tiña; y si la tiña no hubiere cundido en la piel, ni pareciere #estar más profunda que la tez, el sacerdote lo dará por limpio; y lavará sus vestidos, y será limpio."
 "Empero si la tiña se hubiere ido extendiendo en la piel después de su purificación,"
 "Entonces el sacerdote la mirará; y si la tiña hubiere cundido en la piel, no busque el sacerdote el pelo rubio, es inmundo."
 "Mas si le pareciere que la tiña está detenida, y que ha salido en ella el pelo negro, la tiña está sanada; él está limpio, y por limpio lo dará el sacerdote."
@@ -52,7 +52,7 @@
 "Será quemado el vestido, ó estambre ó trama, de lana ó de lino, ó cualquiera obra de pieles en que hubiere tal plaga; porque lepra roedora es; al fuego será quemada."
 "Y si el sacerdote mirare, y no pareciere que la plaga se haya extendido en el vestido, ó estambre, ó en la trama, ó en cualquiera obra de pieles;"
 "Entonces el sacerdote mandará que laven donde está la plaga, y lo encerrará otra vez por siete días."
-"Y el sacerdote mirará después que la plaga fuere lavada; y si pareciere que la plaga no ha mudado su aspecto, bien que no haya cundido la plaga, inmunda es; la quemarás al fuego; corrosión es penetrante, esté lo raído en la haz ó en el revés de aquella co"
+"Y el sacerdote mirará después que la plaga fuere lavada; y si pareciere que la plaga no ha mudado su aspecto, bien que no haya cundido #la plaga, inmunda es; la quemarás al fuego; corrosión es penetrante, esté lo raído en la haz ó en el revés de aquella co"
 "Mas si el sacerdote la viere, y pareciere que la plaga se ha oscurecido después que fué lavada, la cortará del vestido, ó de la piel, ó del estambre, ó de la trama."
 "Y si apareciere más en el vestido, ó estambre, ó trama, ó en cualquiera cosa de pieles, reverdeciendo en ella, quemarás al fuego aquello donde estuviere la plaga."
 "Empero el vestido, ó estambre, ó trama, ó cualquiera cosa de piel que lavares, y que se le quitare la plaga, lavarse ha segunda vez, y entonces será limpia."

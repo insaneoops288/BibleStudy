@@ -19,7 +19,7 @@
 "A wstawszy chodziłby po ulicy o lasce swej, nie będzie winien ten, który uderzył; tylko omieszkanie jego nagrodzi, a na wyleczenie jego nałoży."
 "Jeźliby zaś uderzył kto niewolnika swego, albo niewolnicę swoję kijem, i umarliby w ręku jego, koniecznie karanie odniesie;"
 "Wszakże, jeźliby dzień albo dwa żyw został, nie będzie karany; bo za pieniądze jego on jest kupiony."
-"Jeźliby się też powadziwszy mężowie, uderzył który z nich niewiastę brzemienną, tak żeby z niej płód wyszedł, jednakby nie zaszła śmierć koniecznie karanie odniesie, jakie włoży nań mąż onejże niewiasty, a da wedle uznania sędziów."
+"Jeźliby się też powadziwszy mężowie, uderzył który z nich niewiastę brzemienną, tak żeby z niej płód wyszedł, jednakby #nie zaszła śmierć koniecznie karanie odniesie, jakie włoży nań mąż onejże niewiasty, a da wedle uznania sędziów."
 "Ale gdzie by śmierć zaszła, tedy dasz duszę za duszę;"
 "Oko za oko, ząb za ząb, rękę za rękę, nogę za nogę,"
 "Sparzelinę za sparzelinę, ranę za ranę, siność za siność."

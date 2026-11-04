@@ -21,10 +21,10 @@
 "Rassemble tes forces, frappe à droite! Tourne-toi, frappe à gauche, de quel côté que tu tournes ton tranchant!"
 "Et moi aussi, je frapperai des deux mains, et j'assouvirai ma fureur. Moi, l'Éternel, j'ai parlé."
 "Puis la parole de l'Éternel me fut adressée en ces termes
-"Toi, fils de l'homme, trace-toi deux chemins pour le passage de l'épée du roi de Babylone; qu'ils partent tous deux d'un même pays; fais une marque, fais-la à l'entrée du chemin qui conduit à une ville."
+"Toi, fils de l'homme, trace-toi deux chemins pour le passage de l'épée du roi de Babylone; qu'ils partent tous #deux d'un même pays; fais une marque, fais-la à l'entrée du chemin qui conduit à une ville."
 "Trace l'un des chemins par où l'épée arrive à Rabbath, ville des enfants d'Ammon, et l'autre par où elle arrive en Juda, à Jérusalem, la ville forte."
 "Car le roi de Babylone se tient à la bifurcation, à l'entrée des deux chemins pour tirer des présages; il secoue les flèches, il interroge les idoles, il examine le foie."
-"Le sort qui est dans sa main droite désigne Jérusalem, pour y dresser des béliers, commander le carnage, pousser des cris de guerre, pour ranger les béliers contre les portes, élever des terrasses et construire des forts."
+"Le sort qui est dans sa main droite désigne Jérusalem, pour y dresser des béliers, commander le carnage, pousser #des cris de guerre, pour ranger les béliers contre les portes, élever des terrasses et construire des forts."
 "C'est à leurs yeux un présage trompeur, eux qui ont fait serments sur serments; mais lui, il se souvient de leur iniquité, en sorte qu'ils seront pris."
 "C'est pourquoi, ainsi a dit le Seigneur, l'Éternel
 "Et toi, profane, méchant, prince d'Israël, dont le jour arrive, au temps où l'iniquité a son terme,"

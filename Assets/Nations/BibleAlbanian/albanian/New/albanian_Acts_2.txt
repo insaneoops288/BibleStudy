@@ -14,7 +14,7 @@
 "Por Pjetri u çua në këmbë bashkë me të njëmbëdhjetët dhe u foli atyre me zë të lartë
 "Këta nuk janë të dehur, siç po mendoni ju, sepse është vetëm ora e tretë e ditës."
 "Por kjo është ajo që ishte thënë nëpërmjet profetit Joel
-"""Dhe në ditët e fundit do të ndodhë, thotë Perëndia, që unë do të përhap nga Fryma ime mbi çdo mish; dhe bijtë tuaj e bijat tuaja do të profetizojnë, të rinjtë tuaj do të shohin vegime dhe të moshuarit tuaj do të shohin ëndrra."
+"""Dhe në ditët e fundit do të ndodhë, thotë Perëndia, që unë do të përhap nga Fryma ime mbi çdo mish; dhe bijtë #tuaj e bijat tuaja do të profetizojnë, të rinjtë tuaj do të shohin vegime dhe të moshuarit tuaj do të shohin ëndrra."
 "Në ato ditë do të përhap nga Fryma im mbi shërbëtorët e mi dhe mbi shërbëtoret e mia, dhe do të profetizojnë."
 "Dhe do të bëj mrekulli lart në qiell dhe shenja poshtë mbi tokë
 "Dielli do të kthehet në errësirë dhe hëna në gjak, para se të vijë dita e madhe dhe e lavdishme e Zotit."

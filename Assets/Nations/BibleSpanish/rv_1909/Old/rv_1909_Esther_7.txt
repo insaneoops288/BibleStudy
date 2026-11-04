@@ -1,7 +1,7 @@
 "VINO pues el rey con Amán á beber con la reina Esther."
 "Y también el segundo día dijo el rey á Esther en el convite del vino
 "Entonces la reina Esther respondió y dijo
-"Porque vendidos estamos yo y mi pueblo, para ser destruídos, para ser muertos y exterminados. Y si para siervos y siervas fuéramos vendidos, callárame, bien que el enemigo no compensara el daño del rey."
+"Porque vendidos estamos yo y mi pueblo, para ser destruídos, para ser muertos y exterminados. Y si para #siervos y siervas fuéramos vendidos, callárame, bien que el enemigo no compensara el daño del rey."
 "Y respondió el rey Assuero, y dijo á la reina Esther
 "Y Esther dijo
 "Levantóse luego el rey del banquete del vino en su furor, y se fué al huerto del palacio

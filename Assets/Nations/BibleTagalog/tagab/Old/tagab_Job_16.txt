@@ -1,7 +1,7 @@
 "Nang magkagayo'y sumagot si Job, at nagsabi,"
 "Ako'y nakarinig ng maraming ganyang bagay
 "Magkakawakas ba ang mga walang kabuluhang salita? O anong naguudyok sa iyo, na ikaw ay sumagot?"
-"Ako nama'y makapangungusap na gaya ng inyong ginagawa; kung ang inyong kaluluwa ay nasa kalagayan ng aking kaluluwa, ako'y makapagdudugtongdugtong ng salita laban sa inyo, at maigagalaw ang aking ulo sa inyo."
+"Ako nama'y makapangungusap na gaya ng inyong ginagawa; kung ang inyong kaluluwa ay nasa kalagayan ng aking #kaluluwa, ako'y makapagdudugtongdugtong ng salita laban sa inyo, at maigagalaw ang aking ulo sa inyo."
 "Nguni't aking palalakasin kayo ng aking bibig, at ang pagaliw ng aking mga labi ay magpapalikat ng inyong hirap,"
 "Bagaman ako'y nagsasalita, ang aking hirap ay hindi naglilikat
 "Nguni't ngayo'y niyamot niya ako

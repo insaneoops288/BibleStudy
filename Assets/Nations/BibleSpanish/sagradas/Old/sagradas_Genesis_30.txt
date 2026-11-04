@@ -30,9 +30,9 @@
 "porque poco tenías antes de mi <I>venida</I> , y ha crecido en multitud; y el SEÑOR te ha bendecido con mi entrada; y ahora ¿cuándo tengo de hacer yo también por mi propia casa?"
 "Y él dijo
 "Yo pasaré hoy por todas tus ovejas, poniendo aparte toda oveja pintada y manchada, y todo carnero bermejo entre los carneros, y lo pintado y manchado entre las cabras; y esto será mi salario."
-"Así responderá por mí mi justicia mañana cuando me viniere mi salario delante de ti; todo lo que no fuere pintado ni manchado en las cabras y bermejo en las ovejas <I>mías</I> , se me ha de tener por de hurto."
+"Así responderá por mí mi justicia mañana cuando me viniere mi salario delante de ti; todo lo que no fuere pintado #ni manchado en las cabras y bermejo en las ovejas <I>mías</I> , se me ha de tener por de hurto."
 "Y dijo Labán
-"Y apartó <I>Labán</I>  aquel día los machos cabríos cinchados y manchados; y todas las cabras pintadas y manchadas, y todo lo que tenía <I>en sí</I>  algo de blanco, y todo lo bermejo entre las ovejas, y las puso en la mano  de sus hijos;"
+"Y apartó <I>Labán</I>  aquel día los machos cabríos cinchados y manchados; y todas las cabras pintadas y manchadas, y todo lo que tenía #<I>en sí</I>  algo de blanco, y todo lo bermejo entre las ovejas, y las puso en la mano  de sus hijos;"
 "y puso tres días de camino entre sí y Jacob; y Jacob apacentaba las otras ovejas de Labán."
 "Luego tomó Jacob varas de álamo verdes, y de almendro, y de castaño, y descortezó en ellas mondaduras blancas, descubriendo <I>así</I>  lo blanco de las varas."
 "Y puso las varas que había mondado en las pilas, en los abrevaderos del agua donde las ovejas venían a beber, delante de las ovejas, las cuales se calentaban viniendo a beber."

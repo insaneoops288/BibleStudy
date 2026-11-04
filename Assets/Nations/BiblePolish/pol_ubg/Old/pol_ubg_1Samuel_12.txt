@@ -14,7 +14,7 @@
 "Jeśli będziecie się bali PANA, jemu służyli, słuchali jego głosu i nie sprzeciwiali się słowu PANA, wtedy i wy, i król, który panuje nad wami, będziecie szczęśliwie chodzić za PANEM, swoim Bogiem."
 "Lecz jeśli nie będziecie słuchać głosu PANA, a sprzeciwicie się słowu PANA, to ręka PANA będzie przeciwko wam, tak jak była przeciwko waszym ojcom."
 "Teraz stójcie więc i zobaczcie tę wielką rzecz, którą PAN uczyni na waszych oczach."
-"Czy nie dziś są żniwa pszeniczne? Będę wzywał PANA, a on ześle grzmoty i deszcz, abyście poznali i zobaczyli, jak wielka jest wasza niegodziwość, której się dopuściliście w oczach PANA, żądając dla siebie króla."
+"Czy nie dziś są żniwa pszeniczne? Będę wzywał PANA, a on ześle grzmoty i deszcz, abyście poznali i #zobaczyli, jak wielka jest wasza niegodziwość, której się dopuściliście w oczach PANA, żądając dla siebie króla."
 "Samuel wołał więc do PANA, a PAN zesłał grzmoty i deszcz tego samego dnia. I cały lud bardzo bał się PANA i Samuela."
 "Wtedy cały lud powiedział do Samuela
 "Samuel odpowiedział ludowi

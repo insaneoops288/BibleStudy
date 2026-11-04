@@ -6,7 +6,7 @@
 "Wo ich wandelte im ganzen Israel, habe ich auch zu der Richter einem in Israel je gesagt, denen ich gebot zu weiden mein Volk, und gesprochen
 "So sprich nun also zu meinem Knecht David
 "und bin mit dir gewesen, wo du hin gegangen bist, und habe deine Feinde ausgerottet vor dir und habe dir einen Namen gemacht, wie die Großen auf Erden Namen haben."
-"Und ich will meinem Volk Israel eine Stätte setzen und will es pflanzen, daß es daselbst wohnen soll und nicht mehr bewegt werde; und die bösen Leute sollen es nicht mehr schwächen wie vormals und zu den Zeiten, da ich den Richtern gebotüber mein Volk Israel."
+"Und ich will meinem Volk Israel eine Stätte setzen und will es pflanzen, daß es daselbst wohnen soll und nicht mehr bewegt werde; und #die bösen Leute sollen es nicht mehr schwächen wie vormals und zu den Zeiten, da ich den Richtern gebotüber mein Volk Israel."
 "Und ich will alle deine Feinde demütigen und verkündige dir, daß der HERR dir ein Haus bauen will."
 "Wenn aber deine Tage aus sind, daß du hingehst zu deinen Vätern, so will ich dir Samen erwecken, der deiner Söhne einer sein soll; dem will ich sein Königreich bestätigen."
 "Der soll mir ein Haus bauen, und ich will seinen Stuhl bestätigen ewiglich."
@@ -14,11 +14,11 @@
 "sondern ich will ihn setzen in mein Haus und in mein Königreich ewiglich, daß sein Stuhl beständig sei ewiglich."
 "Und da Nathan nach allen diesen Worten und all diesem Gesicht mit David redete,{~}"
 "kam der König David und blieb vor dem HERRN und sprach
-"Und das hat dich noch zu wenig gedeucht, Gott, sondern du hastüber das Haus deines Knechtes noch von fernem Zukünftigen geredet; und hast mich angesehen nach Menschenweise, der du in der Höhe Gott der HERR bist."
+"Und das hat dich noch zu wenig gedeucht, Gott, sondern du hastüber das Haus deines Knechtes noch von fernem #Zukünftigen geredet; und hast mich angesehen nach Menschenweise, der du in der Höhe Gott der HERR bist."
 "Was soll David mehr sagen zu dir, daß du deinem Knecht herrlich machst? Du erkennst deinen Knecht."
 "HERR, um deines Knechtes willen, nach deinem Herzen hast du alle solche großen Dinge getan, daß du kundtätest alle Herrlichkeit."
 "HERR, es ist deinesgleichen nicht und ist kein Gott denn du, nach allem, was wir mit unseren Ohren gehört haben."
-"Und wo ist ein Volk auf Erden wie dein Volk Israel, um welches willen Gott hingegangen ist, sich ein Volk zu erlösen und sich selbst einen Namen zu machen von großen und schrecklichen Dingen, Heiden auszustoßen vor deinem Volk her, das du ausÄgypten erlöst hast."
+"Und wo ist ein Volk auf Erden wie dein Volk Israel, um welches willen Gott hingegangen ist, sich ein Volk zu erlösen und #sich selbst einen Namen zu machen von großen und schrecklichen Dingen, Heiden auszustoßen vor deinem Volk her, das du ausÄgypten erlöst hast."
 "Und du hast dir dein Volk Israel zum Volk gemacht ewiglich; und du, HERR, bist ihr Gott geworden."
 "Nun, HERR, das Wort, das du geredet hastüber deinen Knecht undüber sein Haus, werde wahr ewiglich, und tue, wie du geredet hast."
 "Und dein Name werde wahr und groß ewiglich, daß man sage

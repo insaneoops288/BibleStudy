@@ -8,7 +8,7 @@
 "Mert nemzet nemzet ellen, és ország ország ellen támad; és lesznek földindulások mindenfelé, és lesznek éhségek és háborúságok."
 "Nyomorúságoknak kezdetei ezek. Ti pedig vigyázzatok magatokra
 "De elõbb hirdettetnie kell az evangyéliomnak minden pogányok között."
-"Mikor pedig fogva visznek, hogy átadjanak titeket, ne aggodalmaskodjatok elõre, hogy mit szóljatok, és ne gondolkodjatok, hanem a mi adatik néktek abban az órában, azt szóljátok; mert nem ti vagytok, a kik szólotok, hanem a Szent Lélek."
+"Mikor pedig fogva visznek, hogy átadjanak titeket, ne aggodalmaskodjatok elõre, hogy mit szóljatok, és ne gondolkodjatok, hanem a mi #adatik néktek abban az órában, azt szóljátok; mert nem ti vagytok, a kik szólotok, hanem a Szent Lélek."
 "Halálra fogja pedig adni testvér testvérét, atya gyermekét; és magzatok támadnak szülõk ellen, és megöletik õket."
 "És lesztek gyûlöletesek mindenki elõtt az én nevemért; de a ki mindvégig megmarad, az megtartatik."
 "Mikor pedig látjátok a pusztító utálatosságot, a melyrõl Dániel próféta szólott, ott állani, a hol nem kellene (a ki olvassa, értse meg), akkor a kik Júdeában lesznek, fussanak a hegyekre;"

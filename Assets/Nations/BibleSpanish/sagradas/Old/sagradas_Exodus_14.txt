@@ -1,12 +1,12 @@
 "Y habló el SEÑOR a Moisés, diciendo
 "Habla a los hijos de Israel que den la vuelta, y asienten su campamento delante de Pi-hahirot, entre Migdol y el mar hacia Baal-zefón; delante de él asentaréis el campamento, junto al mar."
 "Porque <I>el</I>  Faraón dirá de los hijos de Israel
-"Y <I>yo</I>  endureceré el corazón del Faraón para que los siga; y seré glorificado en <I>el</I>  Faraón y en todo su ejército; y sabrán los egipcios que yo <I>soy</I>  el SEÑOR. Y ellos lo hicieron así."
+"Y <I>yo</I>  endureceré el corazón del Faraón para que los siga; y seré glorificado en <I>el</I>  Faraón y #en todo su ejército; y sabrán los egipcios que yo <I>soy</I>  el SEÑOR. Y ellos lo hicieron así."
 "Y fue dado aviso al rey de Egipto cómo el pueblo huía; y el corazón del Faraón y de sus siervos se volvió contra el pueblo, y dijeron
 "Y unció su carro, y tomó consigo su pueblo;"
 "y tomó seiscientos carros escogidos, y todos los carros de Egipto, y los capitanes sobre ellos."
 "Y endureció el SEÑOR el corazón del Faraón rey de Egipto, y siguió a los hijos de Israel; pero los hijos de Israel ya habían salido con gran poder."
-"Siguiéndolos, pues, los egipcios, con toda la caballería y carros del Faraón, su gente de <I>a</I>  caballo, y todo su ejército, los alcanzaron asentando el campo junto al mar, al lado de Pi-hahirot, delante de Baal-zefón."
+"Siguiéndolos, pues, los egipcios, con toda la caballería y carros del Faraón, su gente de <I>a</I>  caballo, y #todo su ejército, los alcanzaron asentando el campo junto al mar, al lado de Pi-hahirot, delante de Baal-zefón."
 "Y cuando <I>el</I>  Faraón llegó, los hijos de Israel alzaron sus ojos, y he aquí los egipcios que venían tras ellos; y temieron en gran manera, y clamaron los hijos de Israel al SEÑOR."
 "Y dijeron a Moisés
 "¿No es esto lo que te hablamos en Egipto, diciendo
@@ -17,7 +17,7 @@
 "Y he aquí, yo endureceré el corazón de los egipcios, para que los sigan
 "y sabrán los egipcios que yo <I>soy</I>  el SEÑOR, cuando me glorificaré en <I>el</I>  Faraón, en sus carros, y en su gente de a caballo."
 "Y el ángel de Dios que iba delante del campamento de Israel, se apartó, e iba en pos de ellos; y asimismo la columna de nube que iba delante de ellos, se apartó, y se puso a sus espaldas."
-"E iba entre el campamento de los egipcios y el campamento de Israel; y era nube y tinieblas <I>para aquellos</I> , y alumbraba la noche <I>a Israel</I> ; y en toda aquella noche nunca llegaron los unos a los otros."
+"E iba entre el campamento de los egipcios y el campamento de Israel; y era nube y tinieblas <I>para aquellos</I> , #y alumbraba la noche <I>a Israel</I> ; y en toda aquella noche nunca llegaron los unos a los otros."
 "Y extendió Moisés su mano sobre el mar, e hizo el SEÑOR que el mar se retirase por recio viento oriental toda aquella noche; y tornó el mar en seco, y las aguas quedaron divididas."
 "Entonces los hijos de Israel entraron por <I>en</I>  medio del mar en seco, teniendo las aguas <I>como</I>  muro a su diestra y a su siniestra."
 "Y siguiéndolos los egipcios, entraron tras ellos hasta el medio del mar, toda la caballería del Faraón, sus carros, y su gente de a caballo."

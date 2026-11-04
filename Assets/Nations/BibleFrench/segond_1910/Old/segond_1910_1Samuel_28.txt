@@ -17,7 +17,7 @@
 "L'Eternel te traite comme je te l'avais annoncé de sa part; l'Eternel a déchiré la royauté d'entre tes mains, et l'a donnée à un autre, à David."
 "Tu n'as point obéi à la voix de l'Eternel, et tu n'as point fait sentir à Amalek l'ardeur de sa colère
 "Et même l'Eternel livrera Israël avec toi entre les mains des Philistins. Demain, toi et tes fils, vous serez avec moi, et l'Eternel livrera le camp d'Israël entre les mains des Philistins."
-"Aussitôt Saül tomba à terre de toute sa hauteur, et les paroles de Samuel le remplirent d'effroi; de plus, il manquait de force, car il n'avait pris aucune nourriture de tout le jour et de toute la nuit."
+"Aussitôt Saül tomba à terre de toute sa hauteur, et les paroles de Samuel le remplirent d'effroi; de plus, il #manquait de force, car il n'avait pris aucune nourriture de tout le jour et de toute la nuit."
 "La femme vint auprès de Saül, et, le voyant très effrayé, elle lui dit
 "Ecoute maintenant, toi aussi, la voix de ta servante, et laisse-moi t'offrir un morceau de pain, afin que tu manges pour avoir la force de te mettre en route."
 "Mais il refusa, et dit

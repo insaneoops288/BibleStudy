@@ -20,9 +20,9 @@
 "Zaś pręty na których to napiszesz, miej przed ich oczyma w twojej ręce."
 "I im powiedz
 "I na tej ziemi, na górach israelskich, uczynię ich jednym narodem; jeden też król będzie ich wszystkich królem. Nie będą nadal dwoma narodami i nigdy więcej nie rozpadną się na dwa królestwa."
-"Nie będą się nadal kalali swoimi bałwanami, swymi obmierzłościami oraz swoimi występkami; wyratuję ich ze wszystkich ich siedzib, w których grzeszyli, oczyszczę ich i znowu będą Moim ludem, a Ja będę ich Bogiem."
+"Nie będą się nadal kalali swoimi bałwanami, swymi obmierzłościami oraz swoimi występkami; wyratuję ich ze wszystkich ich #siedzib, w których grzeszyli, oczyszczę ich i znowu będą Moim ludem, a Ja będę ich Bogiem."
 "Mój sługa Dawid będzie nad nimi królem oraz wszyscy będą mieli jednego Pasterza. Będą postępowali według Moich sądów, przestrzegali Moich ustaw oraz je spełniali."
-"Będą mieszkać w kraju, który oddałem Mojemu słudze Jakóbowi; tym, w którym mieszkali wasi przodkowie; tak, będą w nim mieszkać na wieki oni, ich synowie, oraz synowie ich synów. Zaś Dawid, Mój sługa, będzie na wieki ich księciem."
+"Będą mieszkać w kraju, który oddałem Mojemu słudze Jakóbowi; tym, w którym mieszkali wasi przodkowie; tak, będą w nim mieszkać #na wieki oni, ich synowie, oraz synowie ich synów. Zaś Dawid, Mój sługa, będzie na wieki ich księciem."
 "Zawrę z nimi Przymierze Pokoju – będzie ono z nimi Przymierzem Wiecznym. I osadzę ich, i ich rozmnożę, i pośród nich, na wieki ustanowię Moją Świątynię."
 "Zaś Mój Przybytek będzie nad nimi, i będę ich Bogiem, a oni będą Moim ludem."
 "A narody poznają, że to Ja, WIEKUISTY, uświęcam Israela, gdyż Moja Świątynia będzie wśród nich na wieki."

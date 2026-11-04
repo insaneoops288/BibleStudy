@@ -15,7 +15,7 @@
 "Et tous les puits que les serviteurs de son père avaient creusés, du temps de son père Abraham, les Philistins les bouchèrent, et les remplirent de terre."
 "Et Abimélec dit à Isaac
 "Isaac partit donc de là, et campa dans la vallée de Guérar et y habita."
-"Et Isaac creusa de nouveau les puits d'eau qu'on avait creusés du temps d'Abraham, son père, et que les Philistins avaient bouchés après la mort d'Abraham; et il leur donna les mêmes noms que leur avait donnés son père."
+"Et Isaac creusa de nouveau les puits d'eau qu'on avait creusés du temps d'Abraham, son père, et que les Philistins #avaient bouchés après la mort d'Abraham; et il leur donna les mêmes noms que leur avait donnés son père."
 "Et les serviteurs d'Isaac creusèrent dans la vallée, et y trouvèrent un puits d'eau vive."
 "Mais les bergers de Guérar se querellèrent avec les bergers d'Isaac, en disant
 "Ensuite ils creusèrent un autre puits, pour lequel ils se querellèrent encore; et il l'appela

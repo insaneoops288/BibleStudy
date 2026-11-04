@@ -18,4 +18,4 @@
 "Dijo también Jeremías al rey Sedequías
 "¿Y dónde están vuestros profetas que os profetizaban, diciendo
 "Ahora pues, oye, te ruego, oh rey mi señor
-"Entonces dio orden el rey Sedequías, y pusieron a Jeremías en el patio de la cárcel, haciéndole dar una torta de pan al día, de la plaza de los Panaderos, hasta que todo el pan de la ciudad se gastase. Y quedó Jeremías en el patio de la cárcel."
+"Entonces dio orden el rey Sedequías, y pusieron a Jeremías en el patio de la cárcel, haciéndole dar una torta de pan al día, de #la plaza de los Panaderos, hasta que todo el pan de la ciudad se gastase. Y quedó Jeremías en el patio de la cárcel."

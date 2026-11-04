@@ -44,8 +44,8 @@
 "Eltheké, Gibbethon és Baaláth;"
 "Jehud, Bené-Bárak és Gath-Rimmon;"
 "Mé-Jarkon és Rakkon, a Jáfó átellenében levõ határral."
-"De tovább méne ezeknél a Dán fiainak határa. Felmenének ugyanis a Dán fiai, és hadakozának Lesem ellen, és el is foglalák azt, és veték azt fegyver élére, és birtokba vevék azt, és lakozának benne, és nevezék Lesemet Dánnak, az õ atyjoknak Dánnak nevére."
+"De tovább méne ezeknél a Dán fiainak határa. Felmenének ugyanis a Dán fiai, és hadakozának Lesem ellen, és el is foglalák azt, #és veték azt fegyver élére, és birtokba vevék azt, és lakozának benne, és nevezék Lesemet Dánnak, az õ atyjoknak Dánnak nevére."
 "Ez a Dán fiai nemzetségének öröksége az õ családjaik szerint
 "Mikor pedig elvégezték vala a földnek örökbe vételét annak határai szerint, akkor adának Izráel fiai örökséget Józsuénak, a Nún fiának õ közöttök."
 "Az Úr rendelése szerint adák néki azt a várost, a melyet kért vala
-"Ezek azok az örökségek, a melyeket örökül adának Eleázár, a pap és Józsué, a Nún fia és az atyáknak fejei az Izráel fiai nemzetségeinek sors szerint, Silóban, az Úr elõtt, a gyülekezet sátorának nyílásánál. Így végezék el a földnek felosztását."
+"Ezek azok az örökségek, a melyeket örökül adának Eleázár, a pap és Józsué, a Nún fia és az atyáknak fejei az #Izráel fiai nemzetségeinek sors szerint, Silóban, az Úr elõtt, a gyülekezet sátorának nyílásánál. Így végezék el a földnek felosztását."

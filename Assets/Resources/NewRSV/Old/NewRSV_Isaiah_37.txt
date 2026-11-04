@@ -1,7 +1,7 @@
 When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into the house of the LORD.
 And he sent Eliakim, who was in charge of the palace, and Shebna the secretary, and the senior priests, covered with sackcloth, to the prophet Isaiah son of Amoz.
 They said to him, "Thus says Hezekiah, This day is a day of distress, of rebuke, and of disgrace; children have come to the birth, and there is no strength to bring them forth.
-It may be that the LORD your God heard the words of the Rabshakeh, whom his master the king of Assyria has sent to mock the living God, and will rebuke the words that the LORD your God has heard; therefore lift up your prayer for the remnant that is left."
+It may be that the LORD your God heard the words of the Rabshakeh, whom his master the king of Assyria has sent to mock the #living God, and will rebuke the words that the LORD your God has heard; therefore lift up your prayer for the remnant that is left."
 When the servants of King Hezekiah came to Isaiah,
 Isaiah said to them, "Say to your master, 'Thus says the LORd, Do not be afraid because of the words that you have heard, with which the servants of the king of Assyria have reviled me.
 I myself will put a spirit in him, so that he shall hear a rumor, and return to his own land; I will cause him to fall by the sword in his own land.'"
@@ -21,7 +21,7 @@ So now, O LORD our God, save us from his hand, so that all the kingdoms of the e
 Then Isaiah son of Amoz sent to Hezekiah, saying, "Thus says the LORD, the God of Israel, Because you have prayed to me concerning King Sennacherib of Assyria,
 this is the word that the LORD has spoken concerning him, She despises you, she scorns you,,virgin daughter Zion; she tosses her head,,behind your back, daughter Jerusalem.
 Whom have you mocked and reviled? Against whom have you raised your voice and haughtily lifted your eyes? Against the Holy One of Israel!
-By your servants you have mocked the Lord, and you have said, 'With my many chariots I have gone up the heights of the mountains, to the far recesses of Lebanon; I felled its tallest cedars, its choicest cypresses; I came to its remotest height, its densest forest.
+By your servants you have mocked the Lord, and you have said, 'With my many chariots I have gone up the heights of the mountains, #to the far recesses of Lebanon; I felled its tallest cedars, its choicest cypresses; I came to its remotest height, its densest forest.
 I dug wells and drank waters, I dried up with the sole of my foot all the streams of Egypt.'
 Have you not heard that I determined it long ago? I planned from days of old what now I bring to pass, that you should make fortified cities crash into heaps of ruins,
 while their inhabitants, shorn of strength, are dismayed and confounded; they have become like plants of the field and like tender grass, like grass on the housetops, blighted before it is grown.

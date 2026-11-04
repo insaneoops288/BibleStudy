@@ -29,7 +29,7 @@
 "Er antwortete aber und sprach
 "Und er ging zum andern und sprach gleichalso. Er antwortete aber und sprach
 "Welcher unter den zweien hat des Vaters Willen getan? Sie sprachen zu ihm
-"Johannes kam zu euch und lehrte euch den rechten Weg, und ihr glaubtet ihm nicht; aber die Zöllner und Huren glaubten ihm. Und ob ihr's wohl sahet, tatet ihr dennoch nicht Buße, daß ihr ihm darnach auch geglaubt hättet."
+"Johannes kam zu euch und lehrte euch den rechten Weg, und ihr glaubtet ihm nicht; aber die Zöllner und Huren #glaubten ihm. Und ob ihr's wohl sahet, tatet ihr dennoch nicht Buße, daß ihr ihm darnach auch geglaubt hättet."
 "Höret ein anderes Gleichnis
 "Da nun herbeikam die Zeit der Früchte, sandte er seine Knechte zu den Weingärtnern, daß sie seine Früchte empfingen."
 "Da nahmen die Weingärtner seine Knechte; einen stäupten sie, den andern töteten sie, den dritten steinigten sie."

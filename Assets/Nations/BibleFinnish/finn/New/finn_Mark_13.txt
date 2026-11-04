@@ -6,7 +6,7 @@
 "Sillä monta tulevat minun nimeeni, sanoen
 "Mutta kuin te kuulette sotia ja sotain sanomia, niin älkäät hämmästykö; sillä ne pitää tapahtuman; vaan ei vielä loppu ole."
 "Sillä kansa pitää nouseman kansaa vastaan ja valtakunta valtakuntaa vastaan, ja maanjäristykset pitää oleman jokaisessa paikassa, ja tulee nälkä ja metelit."
-"Nämät ovat murhetten alut. Mutta kavahtakaat itse teitänne; sillä he antavat ylön teidät raastupiin ja synagogiin. Ja te pieksetään ja johdatetaan päämiesten ja kuningasten eteen minun tähteni, heille todistukseksi."
+"Nämät ovat murhetten alut. Mutta kavahtakaat itse teitänne; sillä he antavat ylön teidät raastupiin ja #synagogiin. Ja te pieksetään ja johdatetaan päämiesten ja kuningasten eteen minun tähteni, heille todistukseksi."
 "Ja ennen pitää saarnattaman evankeliumi kaikessa kansassa."
 "Kuin he niin teitä vievät ja antavat ylön, niin älkäät edellä murehtiko, mitä teidän puhuman pitää, älkäät myös ennen ajatelko
 "Niin on veli antava ylön veljensä kuolemaan, ja isä pojan; ja lapset nousevat vanhempia vastaan, ja antavat tappaa heitä."

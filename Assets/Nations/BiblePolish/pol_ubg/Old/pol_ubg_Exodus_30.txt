@@ -7,7 +7,7 @@
 "I każdego poranka Aaron będzie spalał na nim wonne kadzidło. Gdy będzie przygotowywał lampy, będzie je spalał."
 "Także wieczorem, gdy Aaron rozpali lampy, będzie spalał kadzidło, będzie to ustawiczne kadzenie przed PANEM przez wszystkie wasze pokolenia."
 "Nie składajcie na nim obcego kadzidła ani całopalenia, ani ofiary pokarmowej, nie będziecie też na nim składać ofiary z płynów."
-"Tylko raz do roku Aaron dokona na jego rogach przebłagania krwią z ofiary na przebłaganie grzechu. Raz do roku odprawi przebłaganie na nim przez wszystkie wasze pokolenia. Będzie to najświętsza rzecz dla PANA."
+"Tylko raz do roku Aaron dokona na jego rogach przebłagania krwią z ofiary na przebłaganie grzechu. Raz #do roku odprawi przebłaganie na nim przez wszystkie wasze pokolenia. Będzie to najświętsza rzecz dla PANA."
 "Potem PAN powiedział do Mojżesza
 "Gdy przeliczysz synów Izraela podlegających spisowi, każdy da PANU okup za swą duszę podczas spisu, aby nie dotknęła ich plaga, gdy będą zliczeni."
 "To będzie dawać każdy, kto podlega spisowi

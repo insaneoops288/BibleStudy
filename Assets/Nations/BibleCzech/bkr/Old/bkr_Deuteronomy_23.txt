@@ -11,7 +11,7 @@
 "Ale když bude k večerou, umyje se vodou, a po západu slunce vejde do stanů."
 "Také místo budeš míti vně za stany, abys tam chodíval ven;"
 "A budeš míti kolík mezi jinými nástroji svými, a když bys chtěl sednouti vně, vykopáš jím důlek, a obrátě se, zahrabeš nečistotu svou."
-"Nebo Hospodin Bůh tvůj chodí u prostřed stanů tvých, aby tě vysvobodil, a dal tobě nepřátely tvé; protož ať jest příbytek tvůj svatý, tak aby nespatřil při tobě mrzkosti nějaké, pročež by se odvrátil od tebe."
+"Nebo Hospodin Bůh tvůj chodí u prostřed stanů tvých, aby tě vysvobodil, a dal tobě nepřátely tvé; protož ať #jest příbytek tvůj svatý, tak aby nespatřil při tobě mrzkosti nějaké, pročež by se odvrátil od tebe."
 "Nevydáš služebníka pánu jeho, kterýž k tobě utekl od pána svého."
 "S tebou bydliti bude u prostřed tebe na místě, kteréž by vyvolil v některém městě tvém, kdežkoli jemu se líbiti bude; nebudeš ho mocí utiskati."
 "Nebude nevěstka žádná z dcer Izraelských, ani nečistý smilník z synů Izraelských."

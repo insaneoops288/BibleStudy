@@ -1,7 +1,7 @@
 "Kështu thotë Zoti
 "duke thënë
 "Kështu thotë Zoti
-"Sepse, po t'u përmbahemi tërësisht këtyre fjalëve, atëherë mbretërit e ulur mbi fronin e Davidit do të hyjnë nëpër portat e kësaj shtëpie, të hipur mbi qerre dhe mbi kuaj, ata vetë, shërbëtorët e tyre dhe populli i tyre."
+"Sepse, po t'u përmbahemi tërësisht këtyre fjalëve, atëherë mbretërit e ulur mbi fronin e Davidit do të hyjnë nëpër portat #e kësaj shtëpie, të hipur mbi qerre dhe mbi kuaj, ata vetë, shërbëtorët e tyre dhe populli i tyre."
 "Por në rast se nuk do të dëgjoni këto fjalë, unë betohem për veten time"", thotë Zoti, ""që kjo shtëpi do të shkretohet""."
 "Sepse kështu thotë Zoti për shtëpinë e mbretit të Judës
 "Po përgatis kundër teje shkatërrues, secili me armët e tij; ata do të rrëzojnë kedrat e tu më të mirë dhe do t'i hedhin në zjarr."
@@ -25,6 +25,6 @@
 "Unë do të të jap në dorë të atyre që kërkojnë jetën tënde, në dorë të atyre prej të cilëve ke frikë, në dorë të Nebukadnetsarit, mbretit të Babilonisë, dhe në dorë të Kaldeasve."
 "Do të të hedh ty dhe nënën tënde që të ka lindur në një vend të huaj, ku nuk keni lindur dhe aty do të vdisni."
 "Por në vendin ku dëshirojnë fort të kthehen, nuk do të kthehen."
-"A është vallë ky njeri, Konjahu, një poç pa vlerë, i thyer, ose një send që nuk prodhon asnjë kënaqësi? Pse, pra, janë përzënë ai dhe pasardhësit e tij dhe janë hedhur në një vend që ata nuk e njohin?"
+"A është vallë ky njeri, Konjahu, një poç pa vlerë, i thyer, ose një send që nuk prodhon asnjë kënaqësi? Pse, #pra, janë përzënë ai dhe pasardhësit e tij dhe janë hedhur në një vend që ata nuk e njohin?"
 "O vend, o vend, o vend, dëgjo fjalën e Zotit!"
 "Kështu thotë Zoti

@@ -9,10 +9,10 @@
 "Dá ordem a Arão e a seus filhos, dizendo
 "E o sacerdote vestirá a sua veste de linho, e vestirá as calças de linho sobre a sua carne; e levantará a cinza, quando o fogo houver consumido o holocausto sobre o altar, e a porá junto ao altar."
 "Depois despirá as suas vestes, e vestirá outras vestes; e levará a cinza para fora do arraial a um lugar limpo."
-"O fogo sobre o altar se conservará aceso; não se apagará. O sacerdote acenderá lenha nele todos os dias pela manhã, e sobre ele porá em ordem o holocausto, e queimará a gordura das ofertas pacíficas."
+"O fogo sobre o altar se conservará aceso; não se apagará. O sacerdote acenderá lenha nele todos os dias #pela manhã, e sobre ele porá em ordem o holocausto, e queimará a gordura das ofertas pacíficas."
 "O fogo se conservará continuamente aceso sobre o altar; não se apagará."
 "Esta é a lei da oferta de cereais
-"O sacerdote tomará dela um punhado, isto é, da flor de farinha da oferta de cereais e do azeite da mesma, e todo o incenso que estiver sobre a oferta de cereais, e os queimará sobre o altar por cheiro suave ao Senhor, como o memorial da oferta."
+"O sacerdote tomará dela um punhado, isto é, da flor de farinha da oferta de cereais e do azeite da mesma, e todo o incenso #que estiver sobre a oferta de cereais, e os queimará sobre o altar por cheiro suave ao Senhor, como o memorial da oferta."
 "E Arão e seus filhos comerão o restante dela; comê-lo-ão sem fermento em lugar santo; no átrio da tenda da revelação o comerão."
 "Levedado não se cozerá. Como a sua porção das minhas ofertas queimadas lho tenho dado; coisa santíssima é, como a oferta pelo pecado, e como a oferta pela culpa."
 "Todo varão entre os filhos de Arão comerá dela, como a sua porção das ofertas queimadas do Senhor; estatuto perpétuo será para as vossas gerações; tudo o que as tocar será santo."

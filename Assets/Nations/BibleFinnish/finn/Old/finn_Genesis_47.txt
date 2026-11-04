@@ -16,12 +16,12 @@
 "Joseph sanoi
 "Ja he toivat karjansa Josephille, ja Joseph antoi heille leipää hevosten, ja lammasten, ja karjan ja aasein edestä. Niin hän ruokki heitä leivällä sen vuoden, kaiken heidän karjansa edestä."
 "Koska se vuosi oli kulunut, tulivat he hänen tykönsä toisna vuonna, ja sanoivat hänelle
-"Miksi meidän pitää kuoleman edessäs ja meidän peltomme tulee kylmille? Osta meitä ja meidän maamme leivän edestä, niin me ja meidän maamme tulemme Pharaon oamksi. Anna siemeniä, että me eläisimme ja emme kuolisi, ja ei maa tulisi kylmille."
+"Miksi meidän pitää kuoleman edessäs ja meidän peltomme tulee kylmille? Osta meitä ja meidän maamme leivän edestä, niin me ja #meidän maamme tulemme Pharaon oamksi. Anna siemeniä, että me eläisimme ja emme kuolisi, ja ei maa tulisi kylmille."
 "Niin Joseph osti koko Egyptin maan Pharaolle; sillä Egyptiläiset myivät itsekukin peltonsa, että nälkä heitä niin kovin ahdisti
 "Ja hän siirsi kansan kaupunkeihin yhdestä Egyptin äärestä niin toiseen."
 "Paitsi pappein peltoa, jota ei hän ostanut
 "Niin Joseph sanoi kansalle
-"Ja teidän pitää antaman tulosta viidennen osan Pharaolle; mutta neljä osaa pitää oleman teille pellon siemeneksi, ja teille ravinnoksi, ja niille, jotka ovat teidän huoneessanne, ja ruaksi teidän lapsillenne."
+"Ja teidän pitää antaman tulosta viidennen osan Pharaolle; mutta neljä osaa pitää oleman teille pellon #siemeneksi, ja teille ravinnoksi, ja niille, jotka ovat teidän huoneessanne, ja ruaksi teidän lapsillenne."
 "Niin he sanoivat
 "Ja Joseph teki sen määrän koko Egyptin maalle, hamaan tähän päivään asti, että Pharaolle piti annettaman viides osa; paitsi pappein maata, se ei tullut Pharaon oamksi."
 "Niin Israel asui Egyptissä Gosenin maalla; ja he omistivat sen, ja kasvoivat ja suuresti lisääntyivät."

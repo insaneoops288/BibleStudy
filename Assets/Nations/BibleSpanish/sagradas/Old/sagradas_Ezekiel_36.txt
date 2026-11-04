@@ -8,7 +8,7 @@
 "Mas vosotros, oh montes de Israel, daréis vuestros ramos, y llevaréis vuestro fruto a mi pueblo Israel; porque cerca están para venir."
 "Porque heme aquí a vosotros, y a vosotros me volveré, y seréis labrados y sembrados."
 "Y haré multiplicar sobre vosotros hombres, a toda la Casa de Israel, toda <I>ella</I> ; y las ciudades han de ser habitadas, y serán edificadas las ruinas."
-"Y multiplicaré sobre vosotros hombres y bestias, y serán multiplicados y crecerán; y os haré morar como solíais antiguamente, y os haré más bien que en vuestros comienzos; y sabréis que yo <I>soy</I>  el SEÑOR."
+"Y multiplicaré sobre vosotros hombres y bestias, y serán multiplicados y crecerán; y os haré morar como solíais antiguamente, #y os haré más bien que en vuestros comienzos; y sabréis que yo <I>soy</I>  el SEÑOR."
 "Y haré andar hombres sobre vosotros, a mi pueblo Israel; y te poseerán, y les serás por heredad, y nunca más les matarás los hijos."
 "Así dijo el Señor DIOS
 "por tanto, no devorarás más hombres, y nunca más matarás los hijos a tus moradores, dice el Señor DIOS."
@@ -20,7 +20,7 @@
 "Y entrados a los gentiles adonde fueron, profanaron mi santo Nombre, diciéndose de ellos
 "Y he tenido dolor al ver mi santo Nombre profanado por la Casa de Israel entre los gentiles adonde fueron."
 "Por tanto, di a la Casa de Israel
-"Y santificaré mi grande Nombre profanado entre los gentiles, el cual profanasteis vosotros en medio de ellos; y sabrán los gentiles que yo <I>soy</I>  el SEÑOR, dijo el Señor DIOS, cuando fuere santificado en vosotros delante  de sus ojos."
+"Y santificaré mi grande Nombre profanado entre los gentiles, el cual profanasteis vosotros en medio de ellos; y sabrán los gentiles #que yo <I>soy</I>  el SEÑOR, dijo el Señor DIOS, cuando fuere santificado en vosotros delante  de sus ojos."
 "Y <I>yo</I>  os tomaré de los gentiles, y os juntaré de todas las tierras, y os traeré a vuestra tierra."
 "Y esparciré sobre vosotros agua limpia, y seréis limpiados de todas vuestras inmundicias; y de todos vuestros ídolos os limpiaré."
 "Y os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré corazón de carne."

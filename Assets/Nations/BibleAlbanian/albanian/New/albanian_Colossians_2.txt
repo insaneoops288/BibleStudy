@@ -14,7 +14,7 @@
 "dhe mbasi i zhveshi pushtetet dhe principatat, ua tregoi sheshit njerëzve, duke ngadhnjyer mbi ata në të."
 "Prandaj askush të mos ju gjykojë për ushqime ose pije, për festa o hënë të re, o të shtuna;"
 "këto gjëra janë hija e atyre që kanë për të ardhur; por trupi është i Krishtit."
-"Askush të mos përvetësojë prej jush çmimin me pretekst përulësie dhe kulti të engjëjve, duke u përzier në gjëra që nuk i ka parë, i fryrë nga një krenari e kotë për shkak të mendjes së tij mishore,"
+"Askush të mos përvetësojë prej jush çmimin me pretekst përulësie dhe kulti të engjëjve, duke u përzier në gjëra që #nuk i ka parë, i fryrë nga një krenari e kotë për shkak të mendjes së tij mishore,"
 "dhe nuk mbahet te kryet, prej të cilit gjithë trupi, i ushqyer mirë dhe i lidhur i tëri me anë të nyjeve dhe të gjymtyrëve rritet me rritjen e Perëndisë."
 "Pra, në qoftë se vdiqët me Krishtin nga elementet e botës, përse u nënshtroheni disa rregullave, a thua se jetoni ende në botë, si
 "''Mos prek, mos shijo, mos merr'',"

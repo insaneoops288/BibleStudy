@@ -6,10 +6,10 @@
 "Y no vayáis en pos de dioses ajenos, sirviéndoles y encorvándoos á ellos, ni me provoquéis á ira con la obra de vuestras manos; y no os haré mal."
 "Empero no me habéis oído, dice Jehová, para provocarme á ira con la obra de vuestras manos para mal vuestro."
 "Por tanto, así ha dicho Jehová de los ejércitos
-"He aquí enviaré yo, y tomaré todos los linajes del aquilón, dice Jehová, y á Nabucodonosor rey de Babilonia, mi siervo, y traerélos contra esta tierra, y contra sus moradores, y contra todas estas naciones en derredor; y los destruiré, y pondrélos por esc"
+"He aquí enviaré yo, y tomaré todos los linajes del aquilón, dice Jehová, y á Nabucodonosor rey de Babilonia, mi siervo, y traerélos #contra esta tierra, y contra sus moradores, y contra todas estas naciones en derredor; y los destruiré, y pondrélos por esc"
 "Y haré que perezca de entre ellos voz de gozo y voz de alegría, voz de desposado y voz de desposada, ruido de muelas, y luz de lámpara."
 "Y toda esta tierra será puesta en soledad, en espanto; y servirán estas gentes al rey de Babilonia setenta años."
-"Y será que, cuando fueren cumplidos los setenta años, visitaré sobre el rey de Babilonia y sobre aquella gente su maldad, ha dicho Jehová, y sobre la tierra de los Caldeos; y pondréla en desiertos para siempre."
+"Y será que, cuando fueren cumplidos los setenta años, visitaré sobre el rey de Babilonia y sobre aquella gente #su maldad, ha dicho Jehová, y sobre la tierra de los Caldeos; y pondréla en desiertos para siempre."
 "Y traeré sobre aquella tierra todas mis palabras que he hablado contra ella, con todo lo que está escrito en este libro, profetizado por Jeremías contra todas gentes."
 "Porque se servirán también de ellos muchas gentes, y reyes grandes; y yo les pagaré conforme á sus hechos, y conforme á la obra de sus manos."
 "Porque así me dijo Jehová Dios de Israel

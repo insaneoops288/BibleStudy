@@ -9,7 +9,7 @@
 "Então lhe disse o rei
 "Absalão, porém, enviou emissários por todas as tribos de Israel, dizendo
 "E de Jerusalém foram com Absalão duzentos homens que tinham sido convidados; mas iam na sua simplicidade, pois nada sabiam daquele desígnio."
-"Também Absalão, enquanto oferecia os seus sacrifícios, mandou vir da cidade de Silo, Aitofel, o gilonita, conselheiro de David. E a conspiração tornava-se poderosa, crescendo cada vez mais o número do povo que estava com Absalão."
+"Também Absalão, enquanto oferecia os seus sacrifícios, mandou vir da cidade de Silo, Aitofel, o gilonita, conselheiro de David. #E a conspiração tornava-se poderosa, crescendo cada vez mais o número do povo que estava com Absalão."
 "Então veio um mensageiro a David, dizendo
 "Disse, pois, David a todos os seus servos que estavam com ele em Jerusalém
 "Então os servos do rei lhe disseram
@@ -27,7 +27,7 @@
 "Disse mais o rei a Sadoc, o sacerdote
 "Vede eu me demorarei nos vaus do deserto até que tenha notícias da vossa parte."
 "Sadoc, pois, e Abiatar tornaram a levar para Jerusalém a arca de Deus, e ficaram ali."
-"Mas David, subindo pela encosta do monte das Oliveiras, ia chorando; tinha a cabeça coberta, e caminhava com os pés descalços. Também todo o povo que ia com ele tinha a cabeça coberta, e subia chorando sem cessar."
+"Mas David, subindo pela encosta do monte das Oliveiras, ia chorando; tinha a cabeça coberta, e caminhava com os pés #descalços. Também todo o povo que ia com ele tinha a cabeça coberta, e subia chorando sem cessar."
 "Então disseram a David
 "Ora, aconteceu que, chegando David ao cume, onde se costumava adorar a Deus, Husai, o araquita, veio encontrar-se com ele, com a roupa rasgada e a cabeça coberta de terra."
 "Disse-lhe David

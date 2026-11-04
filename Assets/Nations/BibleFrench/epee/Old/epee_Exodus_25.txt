@@ -19,7 +19,7 @@
 "Fais donc un Voyant à ce bout, et un Voyant à l'autre bout. Vous ferez les Voyants sortant du propitiatoire à ses deux bouts."
 "Et les Voyants étendront les ailes en haut, couvrant de leurs ailes le propitiatoire, et leurs faces seront vis-à-vis l'une de l'autre. La face des Voyants sera dirigée vers le propitiatoire."
 "Et tu poseras le propitiatoire en haut sur l'arche, et tu mettras dans l'arche le Témoignage que je te donnerai."
-"Et je me rencontrerai là avec toi, et je te dirai, de dessus le propitiatoire, d'entre les deux Voyants qui seront sur l'arche du Témoignage, tout ce que je te commanderai pour les enfants d'Israël."
+"Et je me rencontrerai là avec toi, et je te dirai, de dessus le propitiatoire, d'entre les deux #Voyants qui seront sur l'arche du Témoignage, tout ce que je te commanderai pour les enfants d'Israël."
 "Tu feras aussi une table de bois de Sittim; sa longueur sera de deux coudées, sa largeur d'une coudée, et sa hauteur d'une coudée et demie."
 "Tu la couvriras d'or pur, et tu lui feras un couronnement d'or tout autour."
 "Tu lui feras aussi, à l'entour, un rebord de quatre doigts, et tu feras à ce rebord un couronnement d'or tout autour."
@@ -30,9 +30,9 @@
 "Et tu mettras sur la table du pain de proposition qui sera continuellement devant moi."
 "Tu feras aussi un lampadaire d'or pur. Le lampadaire, son pied et sa tige seront faits au marteau; ses coupes, ses pommes et ses fleurs en seront tirés."
 "Il sortira six branches de ses côtés
-"Il y aura trois coupes en forme d'amande, à une branche, avec pomme et fleur; et trois coupes en forme d'amande à l'autre branche, avec pomme et fleur. Il en sera de même pour les six branches sortant du lampadaire."
+"Il y aura trois coupes en forme d'amande, à une branche, avec pomme et fleur; et trois coupes en forme d'amande #à l'autre branche, avec pomme et fleur. Il en sera de même pour les six branches sortant du lampadaire."
 "Il y aura au lampadaire même quatre coupes en forme d'amande, et ses pommes et ses fleurs
-"Une pomme sous les deux branches qui en sortent, une autre pomme sous les deux autres branches, et encore une pomme sous les deux autres branches qui en sortent, pour les six branches sortant du lampadaire."
+"Une pomme sous les deux branches qui en sortent, une autre pomme sous les deux autres branches, et encore #une pomme sous les deux autres branches qui en sortent, pour les six branches sortant du lampadaire."
 "Ses pommes et ses branches en seront tirées; il sera tout entier d'une seule pièce au marteau, en or pur."
 "Tu feras aussi ses sept lampes; et l'on allumera ses lampes, de manière qu'elles éclairent en avant du lampadaire."
 "Et ses mouchettes, et ses porte-mouchettes seront d'or pur."

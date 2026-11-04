@@ -11,7 +11,7 @@
 "Niin sanoi Israel heidän isänsä heille
 "Ottakaat myös toinen raha teidän myötänne, ja se raha, jonka te toitte jällensä säkkein suussa, viekäät myötänne; taitaa olla, että se on epähuomiosta tapahtunut."
 "Ottakaat myös teidän veljenne; ja valmistakaat, ja menkäät jälleen sen miehen tykö."
-"Jumala kaikkivaltias antakoon teidän löytää laupiuden sen miehen edessä, että hän päästäis jälleen teille toisen teidän veljenne, ja (tämän) BenJaminin. Mutta minä, niinkuin minä olen lapsettomaksi joutunut, olen lapsetonna."
+"Jumala kaikkivaltias antakoon teidän löytää laupiuden sen miehen edessä, että hän päästäis jälleen teille toisen #teidän veljenne, ja (tämän) BenJaminin. Mutta minä, niinkuin minä olen lapsettomaksi joutunut, olen lapsetonna."
 "Niin ottivat miehet nämät lahjat, ja ottivat kaksi sen vertaa rahaa myötänsä, ja BenJaminin
 "Ja kun Joseph näki BenJaminin heidän kanssansa, sanoi hän huoneensa haltialle
 "Ja se mies teki niinkuin Joseph oli hänelle käskenyt, ja vei miehet Josephin huoneesen."
@@ -29,6 +29,6 @@
 "Niin hän nosti silmänsä ja näki veljensä BenJaminin, äitinsä pojan, ja sanoi
 "Ja Joseph kiiruhti itsensä; sillä hänen sydämensä paloi veljeänsä kohtaan, ja etsi siaa itkeäksensä; ja meni kamariinsa, ja itki siellä."
 "Ja kuin hän oli pessyt kasvona, tuli hän ulos; ja pidätti itsensä, ja sanoi
-"Ja pantiin erinänsä hänelle ja erinänsä heille, niin myös Egyptiläisille, jotka hänen kanssansa atrioitsivat, erinänsä; sillä Egyptiläiset ei saa syödä Hebrealaisten kanssa, sillä se on Egyptiläisille kauhistus."
+"Ja pantiin erinänsä hänelle ja erinänsä heille, niin myös Egyptiläisille, jotka hänen kanssansa atrioitsivat, #erinänsä; sillä Egyptiläiset ei saa syödä Hebrealaisten kanssa, sillä se on Egyptiläisille kauhistus."
 "Ja he istutettiin hänen kohdallensa, esikoinen esikoisuutensa jälkeen, ja nuorin nuoruutensa jälkeen
 "Ja heille kannettiin ruokaa hänen pöydältänsä, mutta BenJaminille viisi kertaa enemmän kuin muille. Ja he joivat ja juopuivat hänen kanssansa."

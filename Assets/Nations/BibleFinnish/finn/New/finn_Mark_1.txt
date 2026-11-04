@@ -42,4 +42,4 @@
 "Ja kuin hän sen oli sanonut, niin spitali läksi hänestä kohta pois, ja hän tuli puhtaaksi."
 "Ja Jesus haasti häntä, ja lähetti hänen kohta pois tyköänsä,"
 "Ja sanoi hänelle
-"Mutta kuin hän meni ulos, rupesi hän paljon saarnaamaan ja ilmoittamaan sitä asiaa, niin ettei hän sitte taitanut julkisesti kaupunkiin mennä; mutta oli ulkona erinäisissä paikoissa, ja joka taholta tultiin hänen tykönsä."
+"Mutta kuin hän meni ulos, rupesi hän paljon saarnaamaan ja ilmoittamaan sitä asiaa, niin ettei hän sitte #taitanut julkisesti kaupunkiin mennä; mutta oli ulkona erinäisissä paikoissa, ja joka taholta tultiin hänen tykönsä."

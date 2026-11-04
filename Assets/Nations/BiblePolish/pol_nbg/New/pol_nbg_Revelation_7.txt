@@ -2,11 +2,11 @@
 "Ujrzałem także innego anioła, który wchodził od wschodu słońca i miał pieczęć żyjącego Boga. Zawołał on wielkim głosem do tych aniołów, którym zostało dane by zaszkodzić ziemi i morzu,"
 "mówiąc
 "Usłyszałem też liczbę zapieczętowanych sto czterdzieści cztery tysiące tych, którzy byli zapieczętowanymi z każdego plemienia dzieci Israela."
-"plemienia Judy dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Rubena dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Gada dwanaście tysięcy tych, co byli zapieczętowanymi;"
-"z plemienia Asera dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Neftalima dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Manassesa dwanaście tysięcy tych, co byli zapieczętowanymi;"
-"z plemienia Symeona dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Lewiego dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Isachara dwanaście tysięcy tych, co byli zapieczętowanymi;"
-"z plemienia Zabulona dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Józefa dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Beniamina dwanaście tysięcy tych, co byli zapieczętowanymi."
-"Potem zobaczyłem a oto przed tronem i przed Barankiem stał liczny tłum, którego nikt nie mógł zliczyć, z każdego narodu, pokoleń, ludów i języków. Są oni przyodziani w białe szaty, a palmy w ich rękach."
+"plemienia Judy dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Rubena dwanaście tysięcy tych, #co byli zapieczętowanymi; z plemienia Gada dwanaście tysięcy tych, co byli zapieczętowanymi;"
+"z plemienia Asera dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Neftalima dwanaście tysięcy #tych, co byli zapieczętowanymi; z plemienia Manassesa dwanaście tysięcy tych, co byli zapieczętowanymi;"
+"z plemienia Symeona dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Lewiego dwanaście tysięcy #tych, co byli zapieczętowanymi; z plemienia Isachara dwanaście tysięcy tych, co byli zapieczętowanymi;"
+"z plemienia Zabulona dwanaście tysięcy tych, co byli zapieczętowanymi; z plemienia Józefa dwanaście tysięcy #tych, co byli zapieczętowanymi; z plemienia Beniamina dwanaście tysięcy tych, co byli zapieczętowanymi."
+"Potem zobaczyłem a oto przed tronem i przed Barankiem stał liczny tłum, którego nikt nie mógł zliczyć, z #każdego narodu, pokoleń, ludów i języków. Są oni przyodziani w białe szaty, a palmy w ich rękach."
 "Wołają też wielkim głosem, mówiąc
 "A wszyscy aniołowie stanęli wokół tronu, starszych i czterech istot żywych, upadli przed tronem na swe twarze, i pokłonili się Bogu,"
 "mówiąc

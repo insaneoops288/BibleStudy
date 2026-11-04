@@ -1,7 +1,7 @@
 "Assim diz o SENHOR
 "e diz
 "Assim diz o SENHOR
-"Porque, se, deveras, cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentarão no lugar de David sobre o seu trono, em carros e montados em cavalos, eles, e os seus servos, e o seu povo."
+"Porque, se, deveras, cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentarão no lugar de David #sobre o seu trono, em carros e montados em cavalos, eles, e os seus servos, e o seu povo."
 "Mas, se não derdes ouvidos a estas palavras, por mim mesmo tenho jurado, diz o SENHOR, que esta casa se tornará em assolação."
 "Porque assim diz o SENHOR acerca da casa do rei de Judá
 "Porque prepararei contra ti destruidores, cada um com as suas armas; e cortarão os teus cedros escolhidos e lançá-los-ão no fogo."
@@ -25,6 +25,6 @@
 "E te entregarei na mão dos que buscam a tua vida, e na mão daqueles diante de quem tu temes, a saber, na mão de Nabucodonosor, rei de Babilónia, e na mão dos caldeus."
 "E lançar-te-ei a ti e à tua mãe, que te deu à luz, para uma terra estranha, em que não nasceste; e ali morrereis."
 "Mas à terra, para a qual eles levantam a sua alma, para ali tornarem, a ela não tornarão."
-"É, pois, este homem Jeconias um vil utensílio quebrado ou um utensílio de que ninguém se agrada? Por que razão foram arremessados fora, ele e a sua geração, e arrojados para uma terra que não conhecem?"
+"É, pois, este homem Jeconias um vil utensílio quebrado ou um utensílio de que ninguém se agrada? Por que #razão foram arremessados fora, ele e a sua geração, e arrojados para uma terra que não conhecem?"
 "Ó terra, terra, terra! Ouve a palavra do SENHOR!"
 "Assim diz o SENHOR

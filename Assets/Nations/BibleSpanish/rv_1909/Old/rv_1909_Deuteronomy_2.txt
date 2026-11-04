@@ -9,9 +9,9 @@
 "Y Jehová me dijo
 "(Los Emimeos habitaron en ella antes, pueblo grande, y numeroso, y alto como fhnumeroso, y alto como fh gigantes
 "Por gigantes eran ellos también contados, como los Anaceos; y los Moabitas los llaman Emimeos."
-"Y en Seir habitaron antes los Horeos, á los cuales echaron los hijos de Esaú; y los destruyeron de delante de sí, y moraron en lugar de ellos; como hizo Israel en la tierra de su posesión que les dió Jehová.)"
+"Y en Seir habitaron antes los Horeos, á los cuales echaron los hijos de Esaú; y los destruyeron de delante de #sí, y moraron en lugar de ellos; como hizo Israel en la tierra de su posesión que les dió Jehová.)"
 "Levantaos ahora, y pasad el arroyo de Zered. Y pasamos el arroyo de Zered."
-"Y los días que anduvimos de Cades-barnea hasta que pasamos el arroyo de Zered, fueron treinta y ocho años; hasta que se acabó toda la generación de los hombres de guerra de en medio del campo, como Jehová les había jurado."
+"Y los días que anduvimos de Cades-barnea hasta que pasamos el arroyo de Zered, fueron treinta y ocho años; hasta que #se acabó toda la generación de los hombres de guerra de en medio del campo, como Jehová les había jurado."
 "Y también la mano de Jehová fué sobre ellos para destruirlos de en medio del campo, hasta acabarlos."
 "Y aconteció que cuando se hubieron acabado de morir todos los hombres de guerra de entre el pueblo,"
 "Jehová me habló, diciendo
@@ -34,4 +34,4 @@
 "Y tomamos entonces todas sus ciudades, y destruimos todas las ciudades, hombres, y mujeres, y niños; no dejamos ninguno
 "Solamente tomamos para nosotros las bestias, y los despojos de las ciudades que habíamos tomado."
 "Desde Aroer, que está junto á la ribera del arroyo de Arnón, y la ciudad que está en el arroyo, hasta Galaad, no hubo ciudad que escapase de nosotros
-"Solamente á la tierra de los hijos de Ammón no llegaste, ni á todo lo que está á la orilla del arroyo de Jaboc ni á las ciudades del monte, ni á lugar alguno que Jehová nuestro Dios había prohibido."
+"Solamente á la tierra de los hijos de Ammón no llegaste, ni á todo lo que está á la orilla del #arroyo de Jaboc ni á las ciudades del monte, ni á lugar alguno que Jehová nuestro Dios había prohibido."

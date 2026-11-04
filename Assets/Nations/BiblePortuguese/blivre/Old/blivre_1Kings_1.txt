@@ -6,7 +6,7 @@
 "E seu pai nunca o entristeceu em todos seus dias com dizer-lhe
 "E tinha tratos com Joabe filho de Zeruia, e com Abiatar sacerdote, os quais ajudavam a Adonias."
 "Mas Zadoque sacerdote, e Benaia filho de Joiada, e Natã profeta, e Simei, e Reí, e todos os grandes de Davi, não seguiam a Adonias."
-"E matando Adonias ovelhas e vacas e animais engordados junto à penha de Zoelete, que está próxima da fonte de Rogel, convidou a todos seus irmãos os filhos do rei, e a todos os homens de Judá, servos do rei
+"E matando Adonias ovelhas e vacas e animais engordados junto à penha de Zoelete, que está próxima da fonte de Rogel, #convidou a todos seus irmãos os filhos do rei, e a todos os homens de Judá, servos do rei
 "Mas não convidou a Natã profeta, nem a Benaia, nem aos grandes, nem a Salomão seu irmão."
 "E falou Natã a Bate-Seba mãe de Salomão, dizendo
 "Vem pois agora, e toma meu conselho, para que guardes tua vida, e a vida de teu filho Salomão."
@@ -22,7 +22,7 @@
 "E estando ainda falando ela com o rei, eis que Natã profeta, que veio."
 "E deram aviso ao rei, dizendo
 "E disse Natã
-"Porque hoje desceu, e matou bois, e animais engordados, e muitas ovelhas, e convidou a todos os filhos do rei, e aos capitães do exército, e também a Abiatar sacerdote; e eis que, estão comendo e bebendo diante dele, e disseram
+"Porque hoje desceu, e matou bois, e animais engordados, e muitas ovelhas, e convidou a todos os filhos do rei, e #aos capitães do exército, e também a Abiatar sacerdote; e eis que, estão comendo e bebendo diante dele, e disseram
 "Mas nem a mim teu servo, nem a Zadoque sacerdote, nem a Benaia filho de Joiada, nem a Salomão teu servo, convidou."
 "É este negócio ordenado por meu senhor o rei, sem haver declarado a teu servo quem se havia de sentar no trono de meu senhor o rei depois dele?"
 "Então o rei Davi respondeu, e disse

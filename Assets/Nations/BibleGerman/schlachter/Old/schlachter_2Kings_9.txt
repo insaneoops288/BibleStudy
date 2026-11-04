@@ -12,7 +12,7 @@
 "Sie sprachen
 "Da eilten sie und nahmen ein jeder sein Kleid und legten sie unter ihn auf die bloßen Stufen; und sie stießen in die Posaune und riefen
 "Also machte Jehu, der Sohn Josaphats, des Sohnes Nimsis, eine Verschwörung wider Joram. Joram aber hatte mit ganz Israel zu Ramot in Gilead wider Hasael, den König von Syrien, Wache gehalten."
-"Aber der König Joram war wieder umgekehrt, um sich zu Jesreel heilen zu lassen von den Wunden, welche ihm die Syrer geschlagen hatten, als er mit Hasael, dem König von Syrien, stritt. Und Jehu sprach
+"Aber der König Joram war wieder umgekehrt, um sich zu Jesreel heilen zu lassen von den Wunden, welche #ihm die Syrer geschlagen hatten, als er mit Hasael, dem König von Syrien, stritt. Und Jehu sprach
 "Und Jehu ritt nach Jesreel; denn Joram lag daselbst; auch war Ahasia, der König von Juda, herabgekommen, Joram zu besuchen."
 "Der Wächter aber, der auf dem Turm zu Jesreel stand, sah Jehus Schar kommen und sprach
 "Und der Reiter ritt ihm entgegen und sprach
@@ -23,7 +23,7 @@
 "Da wandte sich Joram zur Flucht und sprach zu Ahasia
 "Aber Jehu nahm den Bogen zur Hand und schoß Joram zwischen die Schultern, so daß der Pfeil durch sein Herz fuhr und er in seinen Wagen sank."
 "Und Jehu sprach zu Bidekar, seinem Wagenkämpfer
-"«Fürwahr, das Blut Nabots und das Blut seiner Söhne habe ich gestern gesehen, spricht der HERR; und ich werde es dir auf diesem Acker vergelten, spricht der HERR!» So nimm ihn und wirf ihn auf den Acker, nach dem Worte des HERRN!"
+"«Fürwahr, das Blut Nabots und das Blut seiner Söhne habe ich gestern gesehen, spricht der HERR; und ich werde es dir auf #diesem Acker vergelten, spricht der HERR!» So nimm ihn und wirf ihn auf den Acker, nach dem Worte des HERRN!"
 "Als aber Ahasia, der König von Juda, solches sah, floh er dem Gartenhause zu. Jehu aber jagte ihm nach und sprach
 "Und seine Knechte ließen ihn nach Jerusalem führen und begruben ihn in seinem Grabe mit seinen Vätern in der Stadt Davids."
 "Ahasia aber war König gewordenüber Juda im elften Jahre Jorams, des Sohnes Ahabs."

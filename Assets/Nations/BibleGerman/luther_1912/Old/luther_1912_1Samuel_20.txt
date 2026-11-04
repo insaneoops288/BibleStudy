@@ -5,12 +5,12 @@
 "David sprach zu ihm
 "Wird dein Vater nach mir fragen, so sprich
 "Wird er sagen
-"So tue nun Barmherzigkeit an deinem Knecht; denn du hast mit mir, deinem Knecht, einen Bund im HERRN gemacht. Ist aber eine Missetat an mir, so töte du mich; denn warum wolltest du mich zu deinem Vater bringen?"
+"So tue nun Barmherzigkeit an deinem Knecht; denn du hast mit mir, deinem Knecht, einen Bund im HERRN gemacht. Ist #aber eine Missetat an mir, so töte du mich; denn warum wolltest du mich zu deinem Vater bringen?"
 "Jonathan sprach
 "David aber sprach
 "Jonathan sprach zu David
 "Und Jonathan sprach zu David
-"so tue der HERR dem Jonathan dies und jenes. Wenn aber das Böse meinem Vater gefällt wider dich, so will ich's auch vor deinen Ohren offenbaren und dich ziehen lassen, daß du mit Frieden weggehst. Und der HERR sei mit dir, wie er mit meinem Vater gewesen ist."
+"so tue der HERR dem Jonathan dies und jenes. Wenn aber das Böse meinem Vater gefällt wider dich, so will ich's auch vor deinen Ohren #offenbaren und dich ziehen lassen, daß du mit Frieden weggehst. Und der HERR sei mit dir, wie er mit meinem Vater gewesen ist."
 "Tue ich's nicht, so tue keine Barmherzigkeit des HERRN an mir, solange ich lebe, auch nicht, so ich sterbe."
 "Und wenn der HERR die Feinde Davids ausrotten wird, einen jeglichen aus dem Lande, so reiße du deine Barmherzigkeit nicht von meinem Hause ewiglich."
 "Also machte Jonathan einen Bund mit dem Hause Davids und sprach
@@ -38,5 +38,5 @@
 "Und rief abermals ihm nach
 "Und der Knabe wußte nichts darum; allein Jonathan und David wußten um die Sache."
 "Da gab Jonathan seine Waffen seinem Knaben und sprach zu ihm
-"Da der Knabe hineinkam, stand David auf vom Ort gegen Mittag und fiel auf sein Antlitz zur Erde und beugte sich dreimal nieder, und sie küßten sich miteinander und weinten miteinander, David aber am allermeisten."
+"Da der Knabe hineinkam, stand David auf vom Ort gegen Mittag und fiel auf sein Antlitz zur Erde #und beugte sich dreimal nieder, und sie küßten sich miteinander und weinten miteinander, David aber am allermeisten."
 "Und Jonathan sprach zu David

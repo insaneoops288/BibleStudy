@@ -8,7 +8,7 @@
 " Darnach machte sich auch David auf und verließ die Höhle und rief Saul nach und sprach
 "Und David sprach zu Saul
 " Siehe, an diesem Tage siehst du mit eigenen Augen, daß dich der HERR heute in der Höhle in meine Hand gegeben hat; man gedachte dich umzubringen, aber ich schonte deiner, denn ich sprach
-" Nun denn, mein Vater, siehe, siehe doch den Zipfel deines Rockes in meiner Hand! Da ich[nur] den Zipfel deines Rockes abschnitt und dich nicht umbrachte, so erkenne und siehe daraus, daß nichts Böses in meiner Hand ist, auch keineÜbertretung; ich habe auch nicht an dir gesündigt; du aber stellst mir nach dem Leben, es wegzunehmen!"
+" Nun denn, mein Vater, siehe, siehe doch den Zipfel deines Rockes in meiner Hand! Da ich[nur] den Zipfel deines Rockes abschnitt und dich nicht umbrachte, so erkenne und #siehe daraus, daß nichts Böses in meiner Hand ist, auch keineÜbertretung; ich habe auch nicht an dir gesündigt; du aber stellst mir nach dem Leben, es wegzunehmen!"
 " Der HERR wird Richter sein zwischen mir und dir; und der HERR wird mich an dir rächen, aber meine Hand soll nichtüber dir sein."
 " Wie man nach dem alten Sprichwort sagt
 " Wen verfolgst du, König von Israel? Wem jagst du nach? Einem toten Hund, einem Floh?"

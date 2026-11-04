@@ -3,7 +3,7 @@
 "Nechť tedy nemluví cizozemec, kterýž se připojuje k Hospodinu, říkaje
 "Nebo toto praví Hospodin o kleštěncích, kteříž by ostříhali sobot mých, a zvolili to, což mi se líbí, a drželi smlouvu mou
 "Že dám jim v domě svém a mezi zdmi svými místo, a jméno lepší nežli synů a dcer. Jméno věčné dám jim, kteréž nebude vyhlazeno."
-"Cizozemce pak, kteříž by se připojili k Hospodinu, aby sloužili jemu, a milovali jméno Hospodinovo, jsouce u něho za služebníky, všecky ostříhající soboty, aby jí nepoškvrňovali, a držící smlouvu mou,"
+"Cizozemce pak, kteříž by se připojili k Hospodinu, aby sloužili jemu, a milovali jméno Hospodinovo, jsouce #u něho za služebníky, všecky ostříhající soboty, aby jí nepoškvrňovali, a držící smlouvu mou,"
 "Ty přivedu k hoře svatosti své, a obveselím je v domě svém modlitebném. Zápalové jejich a oběti jejich příjemné mi budou na oltáři mém; nebo dům můj dům modlitby slouti bude u všech národů."
 "Pravíť Panovník Hospodin, kterýž shromažďuje rozehnané Izraelovy
 "Všecka zvířata polní poďte žráti, i všecka zvířata lesní."

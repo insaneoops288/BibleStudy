@@ -8,7 +8,7 @@
 "Porque virá o destruidor sobre cada uma das cidades e nenhuma escapará, e perecerá o vale, e destruir-se-á a planície, como disse o Senhor."
 "Dai asas a Moab, porque voando sairá; e as suas cidades se tornarão em desolação, sem habitante."
 "Maldito aquele que fizer a obra do Senhor negligentemente, e maldito aquele que vedar do sangue a sua espada!"
-"Moab tem estado sossegado desde a sua mocidade, e tem repousado como vinho sobre as fezes; não foi deitado de vasilha em vasilha, nem foi para o cativeiro; por isso permanece nele o seu sabor, e o seu cheiro não se altera."
+"Moab tem estado sossegado desde a sua mocidade, e tem repousado como vinho sobre as fezes; não foi deitado de vasilha em #vasilha, nem foi para o cativeiro; por isso permanece nele o seu sabor, e o seu cheiro não se altera."
 "Portanto, eis que os dias vêm, diz o Senhor, em que lhe enviarei derramadores que o derramarão; e despejarão as suas vasilhas, e despedaçarão os seus jarros."
 "E Moab terá vergonha de Quemós, como se envergonhou a casa de Israel de Betel, sua confiança."
 "Como direis
@@ -29,7 +29,7 @@
 "Temos ouvido da soberba de Moab, que é soberbíssimo; da sua sobrançaria, do seu orgulho, da sua arrogância, e da altivez do seu coração."
 "Eu conheço, diz o Senhor, a sua insolência, mas isso nada é; as suas jactâncias nada têm efectuado."
 "Por isso uivarei por Moab; sim, gritarei por todo o Moab; pelos homens de Quir-Heres lamentarei."
-"Com choro maior do que o de Jazer chorar-te-ei, ó vide de Sibma; os teus ramos passaram o mar, chegaram até o mar de Jazer; mas o destruidor caiu sobre os teus frutos de verão, e sobre a tua vindima."
+"Com choro maior do que o de Jazer chorar-te-ei, ó vide de Sibma; os teus ramos passaram o mar, chegaram até #o mar de Jazer; mas o destruidor caiu sobre os teus frutos de verão, e sobre a tua vindima."
 "Tirou-se, pois, a alegria e o regozijo do campo fértil e da terra de Moab; e fiz que o vinho cessasse dos lagares; já não pisam uvas com júbilo; o brado não é o de júbilo"
 "O grito de Hesbon e Elalé se ouve até Jaza; fazem ouvir a sua voz desde Soar até Horonaim, e até Eglat-Chelichia; pois também as águas do Nimerim virão a ser uma desolação."
 "Demais, farei desaparecer de Moab, diz o Senhor, aquele que sacrifica nos altos, e queima incenso a seus deuses."

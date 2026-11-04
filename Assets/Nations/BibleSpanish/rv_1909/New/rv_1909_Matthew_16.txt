@@ -18,7 +18,7 @@
 "Mas yo también te digo, que tú eres Pedro, y sobre esta piedra edificaré mi iglesia; y las puertas del infierno no prevalecerán contra ella."
 "Y á ti daré las llaves del reino de los cielos; y todo lo que ligares en la tierra será ligado en los cielos; y todo lo que desatares en la tierra será desatado en los cielos."
 "Entonces mandó á sus discípulos que á nadie dijesen que él era Jesús el Cristo."
-"Desde aquel tiempo comenzó Jesús á declarar á sus discípulos que le convenía ir á Jerusalem, y padecer mucho de los ancianos, y de los príncipes de los sacerdotes, y de los escribas; y ser muerto, y resucitar al tercer día."
+"Desde aquel tiempo comenzó Jesús á declarar á sus discípulos que le convenía ir á Jerusalem, y padecer mucho de los #ancianos, y de los príncipes de los sacerdotes, y de los escribas; y ser muerto, y resucitar al tercer día."
 "Y Pedro, tomándolo aparte, comenzó á reprenderle, diciendo
 "Entonces él, volviéndose, dijo á Pedro
 "Entonces Jesús dijo á sus discípulos

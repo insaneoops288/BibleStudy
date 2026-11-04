@@ -15,7 +15,7 @@
 "mais, s'il s'agit de discussions sur une parole, sur des noms, et sur votre loi, cela vous regarde
 "Et il les renvoya du tribunal."
 "Alors tous, se saisissant de Sosthène, le chef de la synagogue, le battirent devant le tribunal, sans que Gallion s'en mît en peine."
-"Paul resta encore assez longtemps à Corinthe. Ensuite il prit congé des frères, et s'embarqua pour la Syrie, avec Priscille et Aquilas, après s'être fait raser la tête à Cenchrées, car il avait fait un voeu."
+"Paul resta encore assez longtemps à Corinthe. Ensuite il prit congé des frères, et s'embarqua pour la Syrie, avec #Priscille et Aquilas, après s'être fait raser la tête à Cenchrées, car il avait fait un voeu."
 "Ils arrivèrent à Ephèse, et Paul y laissa ses compagnons. Etant entré dans la synagogue, il s'entretint avec les Juifs,"
 "qui le prièrent de prolonger son séjour. Mais il n'y consentit point,"
 "et il prit congé d'eux, en disant
@@ -24,5 +24,5 @@
 "Un Juif nommé Apollos, originaire d'Alexandrie, homme éloquent et versé dans les Ecritures, vint à Ephèse."
 "Il était instruit dans la voie du Seigneur, et, fervent d'esprit, il annonçait et enseignait avec exactitude ce qui concerne Jésus, bien qu'il ne connût que le baptême de Jean."
 "Il se mit à parler librement dans la synagogue. Aquilas et Priscille, l'ayant entendu, le prirent avec eux, et lui exposèrent plus exactement la voie de Dieu."
-"Comme il voulait passer en Achaïe, les frères l'y encouragèrent, et écrivirent aux disciples de le bien recevoir. Quand il fut arrivé, il se rendit, par la grâce de Dieu, très utile à ceux qui avaient cru;"
+"Comme il voulait passer en Achaïe, les frères l'y encouragèrent, et écrivirent aux disciples de le bien recevoir. Quand #il fut arrivé, il se rendit, par la grâce de Dieu, très utile à ceux qui avaient cru;"
 "Car il réfutait vivement les Juifs en public, démontrant par les Ecritures que Jésus est le Christ."

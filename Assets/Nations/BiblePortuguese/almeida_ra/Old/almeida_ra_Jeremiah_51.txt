@@ -8,13 +8,13 @@
 "Repentinamente caiu Babilónia, e ficou arruinada; uivai sobre ela; tomai bálsamo para a sua dor, talvez sare."
 "Queríamos sarar Babilónia, ela, porém, não sarou; abandonai-a, e vamo-nos, cada qual para a sua terra; pois o seu julgamento chega até o céu, e se eleva até as mais altas nuvens."
 "O Senhor trouxe à luz a nossa justiça; vinde e anunciemos em Sião a obra do Senhor nosso Deus."
-"Aguçai as flechas, preparei os escudos; o Senhor despertou o espírito dos reis dos medos; porque o seu intento contra Babilónia é para a destruir; pois esta é a vingança do Senhor, a vingança do seu templo."
-"Arvorai um estandarte sobre os muros de Babilónia, reforçai a guarda, colocai sentinelas, preparai as emboscadas; porque o Senhor tanto intentou como efectuou o que tinha dito acerca dos moradores de Babilónia."
+"Aguçai as flechas, preparei os escudos; o Senhor despertou o espírito dos reis dos medos; porque o seu intento #contra Babilónia é para a destruir; pois esta é a vingança do Senhor, a vingança do seu templo."
+"Arvorai um estandarte sobre os muros de Babilónia, reforçai a guarda, colocai sentinelas, preparai as emboscadas; porque #o Senhor tanto intentou como efectuou o que tinha dito acerca dos moradores de Babilónia."
 "Ó tu, que habitas sobre muitas águas, rica de tesouros! é chegado o teu fim, a medida da tua ganância."
 "Jurou o Senhor dos exércitos por si mesmo, dizendo
 "É ele quem fez a terra com o seu poder, estabeleceu o mundo com a sua sabedoria, e estendeu os céus com o seu entendimento."
 "À sua voz, há grande tumulto de águas nas céus, e ele faz subir os vapores desde as extremidades da terra; faz os relâmpagos para a chuva, e tira o vento dos seus tesouros."
-"Embruteceu-se todo homem, de modo que não tem conhecimento; todo ourives é envergonhado pelas suas imagens esculpidas; pois as suas imagens de fundição são mentira, e não há espírito em nenhuma delas."
+"Embruteceu-se todo homem, de modo que não tem conhecimento; todo ourives é envergonhado pelas suas imagens esculpidas; #pois as suas imagens de fundição são mentira, e não há espírito em nenhuma delas."
 "Vaidade são, obra de enganos; no tempo em que eu as visitar perecerão."
 "Não é semelhante a estes a porção de Jacob; porque ele é o que forma todas as coisas; e Israel é a tribo da sua herança; o Senhor dos exércitos é o seu nome."
 "Tu me serves de martelo e de armas de guerra; contigo despedaçarei nações, e contigo destruirei os reis;"
@@ -24,7 +24,7 @@
 "Ante os vossos olhos pagarei a Babilónia, e a todos os moradores da Caldeia, toda a sua maldade que fizeram em Sião, diz o Senhor."
 "Eis-me aqui contra ti, ó monte destruidor, diz o Senhor, que destróis toda a terra; estenderei a minha mão contra ti, e te revolverei dos penhascos abaixo, e farei de ti um monte incendiado."
 "E não tomarão de ti pedra para esquina, nem pedra para fundamentos; mas desolada ficarás perpetuamente, diz o Senhor."
-"Arvorai um estandarte na terra, tocai a trombeta entre as nações, preparai as nações contra ela, convocai contra ela os reinos de Arará, Mini, e Asquenaz; ponde sobre ela um capitão, fazei subir cavalos, como locustas eriçadas."
+"Arvorai um estandarte na terra, tocai a trombeta entre as nações, preparai as nações contra ela, convocai contra ela #os reinos de Arará, Mini, e Asquenaz; ponde sobre ela um capitão, fazei subir cavalos, como locustas eriçadas."
 "Preparai contra ela as nações, os reis dos medos, os seus governadores e magistrados, e toda a terra do seu domínio."
 "E a terra estremece e está angustiada; porque os desígnios do Senhor estão firmes contra Babilónia, para fazer da terra de Babilónia uma desolação, sem habitantes."
 "Os valentes de Babilónia cessaram de pelejar, ficam nas fortalezas, desfaleceu a sua força, tornaram-se como mulheres; incendiadas são as suas moradas, quebrados os seus ferrolhos."
@@ -54,9 +54,9 @@
 "Eis um clamor de Babilónia! de grande destruição da terra dos caldeus!"
 "Pois o Senhor está despojando a Babilónia, e emudecendo a sua poderosa voz. Bramam as ondas do inimigo como muitas águas; ouve-se o estrondo da sua voz."
 "Porque o destruidor veio sobre ela, sobre Babilónia, e os seus valentes estão presos; já estão despedaçados os seus arcos; pois o Senhor é Deus das recompensas, ele certamente retribuirá."
-"Embriagarei os seus príncipes e os seus sábios, os seus governadores, os seus magistrados, e os seus valentes; e dormirão um sono perpétuo, e jamais acordarão, diz o Rei, cujo nome é o Senhor dos exércitos."
+"Embriagarei os seus príncipes e os seus sábios, os seus governadores, os seus magistrados, e os seus valentes; e #dormirão um sono perpétuo, e jamais acordarão, diz o Rei, cujo nome é o Senhor dos exércitos."
 "Assim diz o Senhor dos exércitos
-"A palavra que Jeremias, o profeta, mandou a Seraías, filho de Néria, filho de Masseias, quando ia com Zedequias, rei de Judá, a Babilónia, no quarto ano do seu reinado. Ora, Seraías era o camareiro-mor."
+"A palavra que Jeremias, o profeta, mandou a Seraías, filho de Néria, filho de Masseias, quando ia com #Zedequias, rei de Judá, a Babilónia, no quarto ano do seu reinado. Ora, Seraías era o camareiro-mor."
 "Escreveu, pois, Jeremias num livro todo o mal que havia de vir sobre Babilónia, a saber, todas estas palavras que estão escritas acerca de Babilónia."
 "E disse Jeremias a Seraías
 "e dirás

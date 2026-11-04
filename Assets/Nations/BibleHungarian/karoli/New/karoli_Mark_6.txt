@@ -38,7 +38,7 @@
 "Õ pedig monda nékik
 "És parancsolá nékik, hogy ültessenek le mindenkit csoportonként a zöld pázsitra."
 "Letelepedének azért szakaszonként, százával és ötvenével."
-"Õ pedig vette vala az öt kenyeret és a két halat, és az égre tekintvén, hálákat ada; és megszegé a kenyereket és adá tanítványainak, hogy tegyék azok elé; és a két halat is elosztá mindnyájok között."
+"Õ pedig vette vala az öt kenyeret és a két halat, és az égre tekintvén, hálákat ada; és megszegé #a kenyereket és adá tanítványainak, hogy tegyék azok elé; és a két halat is elosztá mindnyájok között."
 "Evének azért mindnyájan, és megelégedének;"
 "És maradékot is szedének fel tizenkét tele kosárral, és a halakból is."
 "A kik pedig a kenyerekbõl ettek, mintegy ötezeren valának férfiak."
@@ -53,4 +53,4 @@
 "És átkelve, eljutának a Genezáret földére, és kikötének."
 "De mihelyt kiszálltak a hajóból, azonnal megismerék õt,"
 "És azt az egész környéket befutván, kezdék a betegeket a nyoszolyákon ide-oda hordozni, a merre hallják vala, hogy õ ott van."
-"És a hová bemegy vala a falvakba vagy városokba vagy majorokba, a betegeket letevék a piaczokon, és kérik vala õt, hogy legalább a ruhája szegélyét illethessék. És valahányan csak illeték, meggyógyulának."
+"És a hová bemegy vala a falvakba vagy városokba vagy majorokba, a betegeket letevék a piaczokon, #és kérik vala õt, hogy legalább a ruhája szegélyét illethessék. És valahányan csak illeték, meggyógyulának."

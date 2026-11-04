@@ -1,5 +1,5 @@
 "En daarna het Paulus uit Athéne vertrek en in Korinthe gekom."
-"En hy het 'n Jood gevind met die naam van Aquila, afkomstig uit Pontus, wat onlangs met sy vrou Priscílla van Italië gekom het, omdat Claudius beveel het dat al die Jode uit Rome moes vertrek. Na hulle toe het hy gegaan;"
+"En hy het 'n Jood gevind met die naam van Aquila, afkomstig uit Pontus, wat onlangs met sy vrou Priscílla van Italië #gekom het, omdat Claudius beveel het dat al die Jode uit Rome moes vertrek. Na hulle toe het hy gegaan;"
 "en omdat hy van dieselfde ambag was, het hy by hulle gebly en gewerk, want hulle was tentmakers van ambag."
 "En hy het elke sabbat in die sinagoge gespreek en Jode sowel as Grieke oortuig."
 "En toe Silas en Timótheüs van Macedónië afgekom het, was Paulus ywerig besig om aan die Jode kragtig te betuig dat Jesus die Christus is."
@@ -15,7 +15,7 @@
 "maar as dit 'n geskil is oor 'n woord en oor name en oor 'n wet wat vir julle geld, moet julle toesien, want daaroor wil ek geen regter wees nie."
 "En hy het hulle van die regterstoel weggedryf."
 "En al die Grieke het Sósthenes, die hoof van die sinagoge, gegryp en hom voor die regterstoel geslaan; en Gállio het hom aan niks van hierdie dinge gesteur nie."
-"En nadat Paulus nog verskeie dae daar gebly het, het hy van die broeders afskeid geneem en na Sírië uitgeseil, en saam met hom Priscílla en Aquila. En in Kenchréë het hy sy hoof geskeer, want hy het 'n gelofte gedoen."
+"En nadat Paulus nog verskeie dae daar gebly het, het hy van die broeders afskeid geneem en na Sírië uitgeseil, en #saam met hom Priscílla en Aquila. En in Kenchréë het hy sy hoof geskeer, want hy het 'n gelofte gedoen."
 "En hy het in Éfese aangekom en hulle daar laat bly, maar self in die sinagoge gegaan en met die Jode gespreek."
 "En toe hulle versoek dat hy langer by hulle moes vertoef, het hy nie toegestem nie,"
 "maar van hulle afskeid geneem en gesê

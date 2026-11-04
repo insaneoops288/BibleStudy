@@ -8,12 +8,12 @@
 "Zaś on przemawiał w swojej obronie
 "Ale Festus, chcąc Żydom ofiarować przychylność, odpowiedział Pawłowi, mówiąc
 "Zaś Paweł powiedział
-"A jeśli czynię niesprawiedliwość oraz dokonałem czegoś godnego śmierci, nie wymawiam się umrzeć. Ale jeśli nie istnieje nic z tych rzeczy, o które mnie oskarżają nikt im nie może mnie wydać; odwołuję się do cezara."
+"A jeśli czynię niesprawiedliwość oraz dokonałem czegoś godnego śmierci, nie wymawiam się umrzeć. Ale jeśli nie istnieje nic #z tych rzeczy, o które mnie oskarżają nikt im nie może mnie wydać; odwołuję się do cezara."
 "Wtedy Festus rozmówił się z radą i odpowiedział
 "Zaś kiedy minęło kilka dni, przybyli do Cezarei
 "A gdy byli tam wiele dni, Festus przedstawił królowi sprawę wynikłą z powodu Pawła, mówiąc
 "co do którego kiedy byłem w Jerozolimie stawili się przedniejsi kapłani oraz starsi żydowscy, żądając przeciwko niemu wyroku."
-"W ich obecności odpowiedziałem, że nie jest rzymskim zwyczajem wydać jakiegoś człowieka na skazanie, zanim oskarżony nie miałby przed sobą oskarżycieli, lecz także nie otrzymał okazji obrony co do oskarżenia."
+"W ich obecności odpowiedziałem, że nie jest rzymskim zwyczajem wydać jakiegoś człowieka na skazanie, zanim oskarżony #nie miałby przed sobą oskarżycieli, lecz także nie otrzymał okazji obrony co do oskarżenia."
 "Zatem gdy się zeszli, nie spowodowałem żadnej zwłoki i nazajutrz zasiadłem na trybunie, rozkazując, by ten mąż został przyprowadzony."
 "Ale oskarżyciele, stojąc obok niego, żadnego oskarżenia nie wnieśli z tych, których ja się spodziewałem"
 "lecz mieli wobec niego jakieś pytania odnośnie swoich zabobonówi odnośnie jakiegoś umarłego Jezusa, o którym Paweł twierdzi, że żyje."

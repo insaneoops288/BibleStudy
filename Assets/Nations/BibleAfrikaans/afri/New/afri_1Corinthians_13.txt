@@ -1,5 +1,5 @@
 "Al sou ek die tale van mense en engele spreek, en ek het nie die liefde nie, dan het ek 'n klinkende metaal of 'n luidende simbaal geword."
-"En al sou ek die gawe van profesie hê en al die geheimenisse weet en al die kennis, en al sou ek al die geloof hê, sodat ek berge kon versit, en ek het nie die liefde nie, dan sou ek niks wees nie."
+"En al sou ek die gawe van profesie hê en al die geheimenisse weet en al die kennis, en al sou ek al #die geloof hê, sodat ek berge kon versit, en ek het nie die liefde nie, dan sou ek niks wees nie."
 "En al sou ek al my goed uitdeel, en al sou ek my liggaam oorgee om verbrand te word, en ek het nie die liefde nie, dan sou dit my niks baat nie."
 "Die liefde is lankmoedig en vriendelik; die liefde is nie jaloers nie; die liefde praat nie groot nie, is nie opgeblase nie,"
 "handel nie onwelvoeglik nie, soek nie sy eie belang nie, word nie verbitterd nie, reken die kwaad nie toe nie,"

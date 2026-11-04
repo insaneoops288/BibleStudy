@@ -1,6 +1,6 @@
 "Ja Herra puhui Mosekselle, sanoen
 "Puhu Israelin lapsille, ja sano heille. Minä olen Herra teidän Jumalanne."
-"Ei teidän pidä tekemän Egyptin maan työn jälkeen, joss te asuitte, ei myös teidän pidä tekemän Kanaanin maan työn jäkeen, johonka minä tiedän vien, ei teidän myös pidä heidän säädyissänsä vaeltaman."
+"Ei teidän pidä tekemän Egyptin maan työn jälkeen, joss te asuitte, ei myös teidän pidä tekemän #Kanaanin maan työn jäkeen, johonka minä tiedän vien, ei teidän myös pidä heidän säädyissänsä vaeltaman."
 "Vaan tehkäät minun oikeuteni, ja pitäkäät minun säätyni, vaeltaaksenne niissä; (sillä) minä olen Herra teidän Jumalanne."
 "Sentähden pitää teidän minun säätyni pitämän ja minun oikeuteni
 "Ei kenenkään pidä lähimmäistä lankoansa lähestymän, hänen häpyänsä paljastaman; sillä minä olen Herra."
@@ -14,7 +14,7 @@
 "Ei sinun pidä paljastaman setäs häpyä, niin ettäs lähestyt hänen emäntäänsä; sillä se on sinun setäs emäntä."
 "Ei sinun pidä paljastaman miniäs häpyä; sillä hän on poikas emäntä, sentähden ei sinun pidä hänen häpyänsä paljastaman."
 "Ei sinun pidä paljastaman veljes emännän häpyä; sillä se on sinun veljes häpy."
-"Ei sinun pidä sinun emäntäs ynnä hänen tyttärensä häpyä paljastaman, eikä hänen poikansa tytärtä, eli tyttären tytärtä ottaman, heidän häpyänsä paljastamaan; sillä ne ovat hänen lähimmäisensä, ja se on kauhistus."
+"Ei sinun pidä sinun emäntäs ynnä hänen tyttärensä häpyä paljastaman, eikä hänen poikansa tytärtä, eli tyttären #tytärtä ottaman, heidän häpyänsä paljastamaan; sillä ne ovat hänen lähimmäisensä, ja se on kauhistus."
 "Ei sinun pidä myös ottaman sinun emäntäs sisarta, häntä vaivaamaan, hänen häpyänsä paljastamaan, veilä hänen eläissänsä."
 "Vaimon tykö, niin kauvan kuin hän saastaisuutensa sairautta kärsii, ei sinun pidä lähestymän, hänen häpynsä paljastamaan."
 "Ei sinun pidä myös makaaman lähimmäises emännän tykönä, häneen ryhtymän, jolla itses häneen saastutat."

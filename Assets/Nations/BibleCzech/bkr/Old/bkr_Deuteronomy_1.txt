@@ -4,7 +4,7 @@
 "Kdyžto již byl zabil Seona, krále Amorejského, kterýž bydlil v Ezebon, a Oga, krále Bázan, kterýž bydlil v Astarot, zabil v Edrei."
 "Před Jordánem, v zemi Moábské, počal Mojžíš vysvětlovati zákona tohoto, řka
 "Hospodin Bůh náš mluvil k nám na Orébě, řka
-"Obraťte se, táhněte a jděte k hoře Amorejských, na všecko vůkolí její, buď na roviny, na hory, na údolí, na poledne, i na břehy mořské, k zemi Kananejské a k Libánu, až k řece veliké, k řece Eufrates."
+"Obraťte se, táhněte a jděte k hoře Amorejských, na všecko vůkolí její, buď na roviny, na hory, na údolí, na #poledne, i na břehy mořské, k zemi Kananejské a k Libánu, až k řece veliké, k řece Eufrates."
 "Ej, ukázal jsem vám tu zemi; vejdětež do ní, a dědičně vládněte jí, kterouž s přísahou zaslíbil dáti Hospodin otcům vašim, Abrahamovi, Izákovi a Jákobovi, i semeni jejich po nich."
 "A mluvil jsem k vám toho času, řka
 "Hospodin Bůh váš rozmnožil vás, a hle, rozmnoženi jste dnes jako hvězdy nebeské."
@@ -14,9 +14,9 @@
 "I odpověděli jste mi a řekli jste
 "Vzav tedy přední z pokolení vašich, muže moudré a zkušené, ustanovil jsem je knížaty nad vámi, hejtmany nad tisíci, setníky, padesátníky, desátníky a správce v pokoleních vašich."
 "Přikázal jsem také soudcům vašim toho času, řka
-"Nebudete přijímati osoby v soudu; jakž malého tak i velikého slyšeti budete, nebudete se báti žádného, nebo Boží soud jest. Jestliže byste pak měli jakou věc nesnadnou, vznesete na mne, a vyslyším ji."
+"Nebudete přijímati osoby v soudu; jakž malého tak i velikého slyšeti budete, nebudete se báti žádného, nebo #Boží soud jest. Jestliže byste pak měli jakou věc nesnadnou, vznesete na mne, a vyslyším ji."
 "Přikázal jsem vám, pravím, toho času všecko, co byste činiti měli."
-"Potom pak hnuvše se z Oréb, přešli jsme všecku poušť tuto velikou a hroznou, kterouž jste viděli, jdouce cestou k hoře Amorejských, jakož nám byl přikázal Hospodin Bůh náš, a přišli jsme až do Kádesbarne."
+"Potom pak hnuvše se z Oréb, přešli jsme všecku poušť tuto velikou a hroznou, kterouž jste viděli, jdouce #cestou k hoře Amorejských, jakož nám byl přikázal Hospodin Bůh náš, a přišli jsme až do Kádesbarne."
 "I řekl jsem vám
 "Ej, dal Hospodin Bůh tvůj tu zemi tobě; vstupiž a vládni jí, jakož řekl Hospodin Bůh otců tvých tobě; neboj se, aniž se strachuj."
 "Vy pak všickni přistoupili jste ke mně a řekli jste

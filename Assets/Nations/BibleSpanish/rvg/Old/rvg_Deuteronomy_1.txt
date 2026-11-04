@@ -4,7 +4,7 @@
 "después que hirió a Sehón, rey de los amorreos, que habitaba en Hesbón, y a Og, rey de Basán, que habitaba en Astarot en Edrei."
 "De este lado del Jordán, en tierra de Moab, comenzó Moisés a declarar esta ley, diciendo
 "Jehová nuestro Dios nos habló en Horeb, diciendo
-"Volveos, e id al monte del amorreo, y a todas sus comarcas, en el llano, en el monte, en los valles, en el sur, en la costa del mar, en la tierra del cananeo y el Líbano, hasta el gran río, el río Éufrates."
+"Volveos, e id al monte del amorreo, y a todas sus comarcas, en el llano, en el monte, en los valles, en el #sur, en la costa del mar, en la tierra del cananeo y el Líbano, hasta el gran río, el río Éufrates."
 "Mirad, yo he puesto la tierra delante de vosotros; entrad y poseed la tierra que Jehová juró a vuestros padres Abraham, Isaac y Jacob, que les daría a ellos y a su simiente después de ellos."
 "Y yo os hablé entonces, diciendo
 "Jehová vuestro Dios os ha multiplicado, y he aquí hoy vosotros sois como las estrellas del cielo en multitud."
@@ -12,11 +12,11 @@
 "¿Cómo llevaré yo solo vuestras molestias, vuestras cargas y vuestros pleitos?"
 "Dadme de entre vosotros, de vuestras tribus, varones sabios y entendidos y expertos, para que yo los ponga por vuestros jefes."
 "Y me respondisteis, y dijisteis
-"Y tomé los principales de vuestras tribus, varones sabios y expertos, y los puse por jefes sobre vosotros, jefes de millares, y jefes de cientos, y jefes de cincuenta, y jefes de diez, y oficiales entre vuestras tribus."
+"Y tomé los principales de vuestras tribus, varones sabios y expertos, y los puse por jefes sobre vosotros, jefes de #millares, y jefes de cientos, y jefes de cincuenta, y jefes de diez, y oficiales entre vuestras tribus."
 "Y entonces mandé a vuestros jueces, diciendo
-"No hagáis acepción de personas en el juicio; así al pequeño como al grande oiréis. No tendréis temor del hombre, porque el juicio es de Dios. Y el caso que os fuere difícil, lo traeréis a mí, y yo lo oiré."
+"No hagáis acepción de personas en el juicio; así al pequeño como al grande oiréis. No tendréis temor del hombre, porque #el juicio es de Dios. Y el caso que os fuere difícil, lo traeréis a mí, y yo lo oiré."
 "Os mandé, pues, en aquel tiempo todo lo que habíais de hacer."
-"Y habiendo salido de Horeb, anduvimos todo aquel grande y terrible desierto que habéis visto, por el camino del monte del amorreo, como Jehová nuestro Dios nos lo mandó; y llegamos hasta Cades-barnea."
+"Y habiendo salido de Horeb, anduvimos todo aquel grande y terrible desierto que habéis visto, por el #camino del monte del amorreo, como Jehová nuestro Dios nos lo mandó; y llegamos hasta Cades-barnea."
 "Entonces os dije
 "Mira, Jehová tu Dios ha puesto la tierra delante de ti; sube y poséela, como Jehová el Dios de tus padres te ha dicho; no temas ni desmayes."
 "Y os acercasteis a mí todos vosotros, y dijisteis

@@ -11,7 +11,7 @@
 "E pareceu esta palavra mui má aos olhos de Abraão, por causa de seu filho."
 "Porém Deus disse a Abraão
 "Mas também do filho desta serva farei uma nação, porquanto é tua semente."
-"Então, se levantou Abraão pela manhã, de madrugada, e tomou pão e um odre de água, e os deu a Agar, pondo-os sobre o seu ombro; também lhe deu o menino e despediu-a; e ela foi-se, andando errante no deserto de Berseba."
+"Então, se levantou Abraão pela manhã, de madrugada, e tomou pão e um odre de água, e os deu a Agar, pondo-os #sobre o seu ombro; também lhe deu o menino e despediu-a; e ela foi-se, andando errante no deserto de Berseba."
 "E, consumida a água do odre, lançou o menino debaixo de uma das árvores."
 "E foi-se e assentou-se em frente, afastando-se a distância de um tiro de arco; porque dizia
 "E ouviu Deus a voz do menino, e bradou o Anjo de Deus a Agar desde os céus e disse-lhe

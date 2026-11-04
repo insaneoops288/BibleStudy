@@ -2,10 +2,10 @@
 "Und ich will dich zu einer großen Nation machen und dich segnen, und ich will deinen Namen groß machen; und du sollst ein Segen sein!"
 "Und ich will segnen, die dich segnen, und wer dir flucht, den werde ich verfluchen; und in dir sollen gesegnet werden alle Geschlechter der Erde!"
 "Und Abram ging hin, wie Jehova zu ihm geredet hatte, und Lot ging mit ihm; und Abram war fünfundsiebzig Jahre alt, als er aus Haran zog."
-"Und Abram nahm Sarai, sein Weib, und Lot, seines Bruders Sohn, und alle ihre Habe, die sie erworben, und die Seelen, die sie in Haran gewonnen hatten, und sie zogen aus, um in das Land Kanaan zu gehen; und sie kamen in das Land Kanaan."
+"Und Abram nahm Sarai, sein Weib, und Lot, seines Bruders Sohn, und alle ihre Habe, die sie erworben, und die Seelen, die sie #in Haran gewonnen hatten, und sie zogen aus, um in das Land Kanaan zu gehen; und sie kamen in das Land Kanaan."
 "Und Abram durchzog das Land bis zu dem Orte Sichem, bis zur Terebinthe Mores. Und die Kanaaniter waren damals im Lande."
 "Und Jehova erschien dem Abram und sprach
-"Und er brach auf von dannen nach dem Gebirge ostwärts von Bethel und schlug sein Zelt auf, Bethel gegen Westen und Ai gegen Osten; und er baute daselbst Jehova einen Altar und rief den Namen Jehovas an."
+"Und er brach auf von dannen nach dem Gebirge ostwärts von Bethel und schlug sein Zelt auf, Bethel gegen #Westen und Ai gegen Osten; und er baute daselbst Jehova einen Altar und rief den Namen Jehovas an."
 "Und Abram zog fort, immer weiter ziehend, nach dem Süden."
 "Es entstand aber eine Hungersnot im Lande; und Abram zog nachÄgypten hinab, um sich daselbst aufzuhalten, denn die Hungersnot war schwer im Lande."
 "Und es geschah, als er nahe daran war, nachÄgypten zu kommen, da sprach er zu Sarai, seinem Weibe

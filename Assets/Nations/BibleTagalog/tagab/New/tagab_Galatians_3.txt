@@ -5,7 +5,7 @@
 "Siya na nagbibigay nga sa inyo ng Espiritu, at gumagawa ng mga himala sa gitna ninyo, ginagawa baga sa pamamagitan ng mga gawang ayon sa kautusan, o sa pakikinig ng tungkol sa pananampalataya?"
 "Gaya nga ni Abraham na sumampalataya sa Dios, at ito'y ibinilang sa kaniya na katuwiran."
 "Talastasin nga ninyo na ang mga sa pananampalataya, ang mga yaon ay mga anak ni Abraham."
-"At sapagka't ipinakita na ng kasulatan, na aariing-ganap ng Dios ang mga Gentil sa pamamagitan ng pananampalataya, ay ipinangaral na nang una ang evangelio kay Abraham, na sinasabi, Sa iyo ay pagpapalain ang lahat ng mga bansa."
+"At sapagka't ipinakita na ng kasulatan, na aariing-ganap ng Dios ang mga Gentil sa pamamagitan ng pananampalataya, ay ipinangaral #na nang una ang evangelio kay Abraham, na sinasabi, Sa iyo ay pagpapalain ang lahat ng mga bansa."
 "Kaya't ang mga sa pananampalataya ay pinagpapala kay Abraham na may pananampalataya."
 "Sapagka't ang lahat na sa mga gawang ayon sa kautusan ay nasa ilalim ng sumpa
 "Maliwanag nga na sinoman ay hindi inaaring-ganap sa kautusan sa harapan ng Dios; sapagka't, Ang ganap ay mabubuhay sa pananampalataya."
@@ -16,7 +16,7 @@
 "Ngayon kay Abraham nga sinabi ang mga pangako, at sa kaniyang binhi. Hindi sinasabi ng Dios, At sa mga binhi, na gaya baga sa marami; kundi gaya sa iisa lamang, At sa iyong binhi, na si Cristo."
 "Ito nga ang aking sinasabi
 "Sapagka't kung ang mana ay sa pamamagitan ng kautusan, ay hindi na sa pamamagitan ng pangako
-"Ano nga ang kabuluhan ng kautusan? Idinagdag dahil sa mga pagsalangsang, hanggang sa pumarito ang binhi na siyang pinangakuan; at ito'y iniutos sa pamamagitan ng mga anghel sa kamay ng isang tagapamagitan."
+"Ano nga ang kabuluhan ng kautusan? Idinagdag dahil sa mga pagsalangsang, hanggang sa pumarito ang binhi na #siyang pinangakuan; at ito'y iniutos sa pamamagitan ng mga anghel sa kamay ng isang tagapamagitan."
 "Ngayon ang isang tagapamagitan ay hindi tagapamagitan ng iisa; datapuwa't ang Dios ay iisa."
 "Ang kautusan nga baga ay laban sa mga pangako ng Dios? Huwag nawang mangyari
 "Datapuwa't kinulong ng kasulatan ang lahat ng mga bagay sa ilalim ng kasalanan, upang ang pangako sa pamamagitan ng pananampalataya kay Jesucristo ay maibigay sa mga nagsisisampalataya."

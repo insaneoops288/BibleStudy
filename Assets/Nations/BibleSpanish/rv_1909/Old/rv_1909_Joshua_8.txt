@@ -11,7 +11,7 @@
 "Y toda la gente de guerra que con él estaba, subió, y acercóse, y llegaron delante de la ciudad, y asentaron el campo á la parte del norte de Hai
 "Y tomó como cinco mil hombres, y púsolos en emboscada entre Beth-el y Hai, á la parte occidental de la ciudad."
 "Y el pueblo, todo el campo que estaba á la parte del norte de la ciudad, colocado ya cerca, y su emboscada al occidente de la ciudad, vínose Josué aquella noche al medio del valle."
-"Lo cual como viese el rey de Hai, levantóse prestamente de mañana, y salió con la gente de la ciudad contra Israel, él y todo su pueblo, para combatir por el llano al tiempo señalado, no sabiendo que le estaba puesta emboscada á las espaldas de la ciudad."
+"Lo cual como viese el rey de Hai, levantóse prestamente de mañana, y salió con la gente de la ciudad contra Israel, él y todo #su pueblo, para combatir por el llano al tiempo señalado, no sabiendo que le estaba puesta emboscada á las espaldas de la ciudad."
 "Entonces Josué y todo Israel, haciéndose vencidos, huyeron delante de ellos por el camino del desierto."
 "Y todo el pueblo que estaba en Hai se juntó para seguirlos
 "Y no quedó hombre en Hai y Beth-el, que no saliera tras de Israel; y por seguir á Israel dejaron la ciudad abierta."
@@ -21,7 +21,7 @@
 "Josué y todo Israel, viendo que los de la emboscada habían tomado la ciudad, y que el humo de la ciudad subía, tornaron, é hirieron á los de Hai."
 "Y los otros salieron de la ciudad á su encuentro
 "Y tomaron vivo al rey de Hai, y trajéronle á Josué."
-"Y cuando los Israelitas acabaron de matar á todos los moradores de Hai en el campo, en el desierto, donde ellos los habían perseguido, y que todos habían caído á filo de espada hasta ser consumidos, todos los Israelitas se tornaron á Hai, y también la pus"
+"Y cuando los Israelitas acabaron de matar á todos los moradores de Hai en el campo, en el desierto, donde ellos los habían perseguido, #y que todos habían caído á filo de espada hasta ser consumidos, todos los Israelitas se tornaron á Hai, y también la pus"
 "Y el número de los que cayeron aquel día, hombres y mujeres, fué doce mil, todos los de Hai."
 "Y Josué no retrajo su mano que había extendido con la lanza, hasta que hubo destruído á todos los moradores de Hai."
 "Empero los Israelitas tomaron para sí las bestias y los despojos de la ciudad, conforme á la palabra de Jehová que él había mandado á Josué."
@@ -30,6 +30,6 @@
 "Entonces Josué edificó un altar á Jehová Dios de Israel en el monte de Ebal,"
 "Como Moisés, siervo de Jehová, lo había mandado á los hijos de Israel, como está escrito en el libro de la ley de Moisés, un altar de piedras enteras sobre las cuales nadie alzó hierro
 "También escribió allí en piedras la repetición de la ley de Moisés, la cual él había escrito delante de los hijos de Israel."
-"Y todo Israel, y sus ancianos, oficiales, y jueces, estaban de la una y de la otra parte junto al arca, delante de los sacerdotes Levitas que llevan el arca del pacto de Jehová; así extranjeros como naturales, la mitad de ellos estaba hacia el monte de Ge"
+"Y todo Israel, y sus ancianos, oficiales, y jueces, estaban de la una y de la otra parte junto al arca, delante de los sacerdotes #Levitas que llevan el arca del pacto de Jehová; así extranjeros como naturales, la mitad de ellos estaba hacia el monte de Ge"
 "Después de esto, leyó todas las palabras de la ley, las bendiciones y las maldiciones, conforme á todo lo que está escrito en el libro de la ley."
 "No hubo palabra alguna de todas las cosas que mandó Moisés, que Josué no hiciese leer delante de toda la congregación de Israel, mujeres y niños, y extranjeros que andaban entre ellos."

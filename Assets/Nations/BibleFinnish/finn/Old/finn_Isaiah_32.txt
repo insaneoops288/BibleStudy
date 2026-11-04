@@ -3,7 +3,7 @@
 "Ja näkeväiset silmät ei pidä pimenemän; ja kuulevaisten korvat pitää visun vaarin ottaman."
 "Ja hulluin pitää oppiman taitoa, ja sopera kieli pitää selkeäksi tuleman ja selkeästi puhuman."
 "Ei hullua pidä enää pääruhtinaaksi kutsuttaman, eikä ahnetta herraksi."
-"Sillä tyhmä puhuu tyhmyydessä, ja hänen sydämensä on pahuudesssa; että hän olis ulkokullaisuudessa; ja saarnais Herrasta väärin, että hän sillä isoovaiset sielut nälkään näännyttäis, ja kieltäis janoovaisilta juoman."
+"Sillä tyhmä puhuu tyhmyydessä, ja hänen sydämensä on pahuudesssa; että hän olis ulkokullaisuudessa; ja saarnais #Herrasta väärin, että hän sillä isoovaiset sielut nälkään näännyttäis, ja kieltäis janoovaisilta juoman."
 "Sillä ahneen hallitus ei ole muu kuin vahinko; sillä hän löytää kavaluuden hävittääksensä raadollisia väärillä sanoilla, silloinkin kun köyhä oikeuttansa puhuu."
 "Mutta toimellinen päämies pitää toimellisia neuvoja; ja toimellisissa menoissa hän vahvana pysyy."
 "Nouskaat, te suruttomat vaimot, kuulkaat minun ääntäni; te rohkiat tyttäret, ottakaat korviinne minun puheeni."

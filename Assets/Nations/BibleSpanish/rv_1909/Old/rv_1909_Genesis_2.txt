@@ -16,7 +16,7 @@
 "Y mandó Jehová Dios al hombre, diciendo
 "Mas del árbol de ciencia del bien y del mal no comerás de él; porque el día que de él comieres, morirás."
 "Y dijo Jehová Dios
-"Formó, pues, Jehová Dios de la tierra toda bestia del campo, y toda ave de los cielos, y trájolas á Adam, para que viese cómo les había de llamar; y todo lo que Adam llamó á los animales vivientes, ese es su nombre."
+"Formó, pues, Jehová Dios de la tierra toda bestia del campo, y toda ave de los cielos, y trájolas á Adam, para #que viese cómo les había de llamar; y todo lo que Adam llamó á los animales vivientes, ese es su nombre."
 "Y puso Adam nombres á toda bestia y ave de los cielos y á todo animal del campo
 "Y Jehová Dios hizo caer sueño sobre Adam, y se quedó dormido
 "Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y trájola al hombre."

@@ -11,7 +11,7 @@
 "Passai por meio do acampamento, e mandai ao povo, dizendo
 "Também falou Josué aos rubenitas e gaditas, e à meia tribo de Manassés, dizendo
 "Lembrai-vos da palavra que Moisés, servo do SENHOR, vos mandou dizendo
-"Vossas mulheres e vossos meninos e vossas animais, ficarão na terra que Moisés vos deu desta parte do Jordão; mas vós, todos os valentes e fortes, passareis armados diante de vossos irmãos, e lhes ajudareis;"
+"Vossas mulheres e vossos meninos e vossas animais, ficarão na terra que Moisés vos deu desta parte do #Jordão; mas vós, todos os valentes e fortes, passareis armados diante de vossos irmãos, e lhes ajudareis;"
 "Até tanto que o SENHOR tenha dado repouso a vossos irmãos como a vós, e que eles também possuam a terra que o SENHOR vosso Deus lhes dá
 "Então responderam a Josué, dizendo
 "Da maneira que obedecemos a Moisés em todas as coisas, assim obedeceremos a ti

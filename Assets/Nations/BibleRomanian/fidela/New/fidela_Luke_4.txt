@@ -15,7 +15,7 @@
 "Și el [îi] învăța în sinagogile lor, fiind glorificat de toți."
 "Și a venit în Nazaret, unde fusese crescut; și așa cum era obiceiul lui, a intrat în sinagogă în ziua de sabat și s-a sculat să citească,"
 "Și i s-a dat cartea profetului Isaia. Și după ce a deschis cartea, a găsit locul unde era scris
-"Duhul Domnului [este] asupra mea, pentru că m-a uns să predic săracilor evanghelia; m-a trimis să vindec pe cei cu inima zdrobită, să predic celor captivi eliberarea și orbilor primirea vederii, să pun în libertate pe cei zdrobiți,"
+"Duhul Domnului [este] asupra mea, pentru că m-a uns să predic săracilor evanghelia; m-a trimis să vindec pe cei cu #inima zdrobită, să predic celor captivi eliberarea și orbilor primirea vederii, să pun în libertate pe cei zdrobiți,"
 "Să predic anul de îndurare al Domnului."
 "Și a închis cartea și a dat-o înapoi servitorului [sinagogii ]și a șezut. Iar ochii tuturor celor ce erau în sinagogă erau ațintiți asupra lui."
 "Și a început să le spună

@@ -4,7 +4,7 @@
 "Sionnak útai gyászolnak; nincsen, a ki ünnepnapra járjon; kapuja mind elpusztult; papjai sóhajtoznak, szûzei nyögnek, csak keserûsége van néki."
 "Elnyomói fõkké lettek; ellenségei boldogok! Bizony az Úr verte meg õt az õ sok bûne miatt; gyermekei rabságra mentek az elnyomó elõtt."
 "És elhagyta Sion leányát minden õ ékessége; fejedelmei olyanok lettek, mint a szarvasok, a melyek nem találnak eledelt, és erõtelenül futnak az üldözõ elõtt."
-"Emlékezik Jeruzsálem az õ nyomorúságának és eltiportatásának napjain minden õ gyönyörûségérõl, a melyek voltak eleitõl fogva; mert az õ népe ellenség kezébe esett és nem volt segítsége. Látták õt az ellenségek; nevettek megsemmisülésén."
+"Emlékezik Jeruzsálem az õ nyomorúságának és eltiportatásának napjain minden õ gyönyörûségérõl, a melyek voltak eleitõl fogva; mert #az õ népe ellenség kezébe esett és nem volt segítsége. Látták õt az ellenségek; nevettek megsemmisülésén."
 "Vétkezvén vétkezett Jeruzsálem, azért lett csúfsággá, minden tisztelõje megvetette, mert látták az õ mezítelenségét, õ maga pedig sóhajtoz és elfordul."
 "Szennye a ruhája szélén; nem gondolt a jövõjére; csudálatosan alásülyedt, nincs vígasztalója. Lásd meg Uram, az én nyomorúságomat, mert ellenség vett erõt [rajtam!]"
 "Szorongató nyújtja kezét minden kincse után, sõt látta, hogy pogányok mentek be az õ szent helyébe, a kikrõl azt parancsoltad, hogy be ne menjenek a te községedbe."

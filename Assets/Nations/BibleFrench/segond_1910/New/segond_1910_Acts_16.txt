@@ -11,7 +11,7 @@
 "Etant partis de Troas, nous fîmes voile directement vers la Samothrace, et le lendemain nous débarquâmes à Néapolis."
 "De là nous allâmes à Philippes, qui est la première ville d'un district de Macédoine, et une colonie. Nous passâmes quelques jours dans cette ville."
 "Le jour du sabbat, nous nous rendîmes, hors de la porte, vers une rivière, où nous pensions que se trouvait un lieu de prière. Nous nous assîmes, et nous parlâmes aux femmes qui étaient réunies."
-"L'une d'elles, nommée Lydie, marchande de pourpre, de la ville de Thyatire, était une femme craignant Dieu, et elle écoutait. Le Seigneur lui ouvrit le coeur, pour qu'elle fût attentive à ce que disait Paul."
+"L'une d'elles, nommée Lydie, marchande de pourpre, de la ville de Thyatire, était une femme craignant Dieu, et #elle écoutait. Le Seigneur lui ouvrit le coeur, pour qu'elle fût attentive à ce que disait Paul."
 "Lorsqu'elle eut été baptisée, avec sa famille, elle nous fit cette demande
 "Comme nous allions au lieu de prière, une servante qui avait un esprit de Python, et qui, en devinant, procurait un grand profit à ses maîtres, vint au-devant de nous,"
 "et se mit à nous suivre, Paul et nous. Elle criait
@@ -23,7 +23,7 @@
 "Après qu'on les eut chargés de coups, ils les jetèrent en prison, en recommandant au geôlier de les garder sûrement."
 "Le geôlier, ayant reçu cet ordre, les jeta dans la prison intérieure, et leur mit les ceps aux pieds."
 "Vers le milieu de la nuit, Paul et Silas priaient et chantaient les louanges de Dieu, et les prisonniers les entendaient."
-"Tout à coup il se fit un grand tremblement de terre, en sorte que les fondements de la prison furent ébranlés; au même instant, toutes les portes s'ouvrirent, et les liens de tous les prisonniers furent rompus."
+"Tout à coup il se fit un grand tremblement de terre, en sorte que les fondements de la prison #furent ébranlés; au même instant, toutes les portes s'ouvrirent, et les liens de tous les prisonniers furent rompus."
 "Le geôlier se réveilla, et, lorsqu'il vit les portes de la prison ouvertes, il tira son épée et allait se tuer, pensant que les prisonniers s'étaient enfuis."
 "Mais Paul cria d'une voix forte
 "Alors le geôlier, ayant demandé de la lumière, entra précipitamment, et se jeta tout tremblant aux pieds de Paul et de Silas;"

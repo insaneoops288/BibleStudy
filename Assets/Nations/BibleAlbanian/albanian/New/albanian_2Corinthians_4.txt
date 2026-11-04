@@ -1,5 +1,5 @@
 "Prandaj, duke pasur këtë shërbim për mëshirën që na është bërë, ne nuk na lëshon zemra."
-"Ne kemi hequr dorë plotësisht nga gjërat e turpshme që bëhen në fshehtësi, duke mos ecur me dinakëri, duke mos falsifikuar aspak fjalën e Perëndisë, por duke shfaqur të vërtetën, ne ia rekomandojmë veten tonë ndërgjegjes së çdo njeriu përpara Perëndisë."
+"Ne kemi hequr dorë plotësisht nga gjërat e turpshme që bëhen në fshehtësi, duke mos ecur me dinakëri, duke mos falsifikuar #aspak fjalën e Perëndisë, por duke shfaqur të vërtetën, ne ia rekomandojmë veten tonë ndërgjegjes së çdo njeriu përpara Perëndisë."
 "Dhe, në qoftë se ungjilli ynë është ende i mbuluar me vel, ai është i mbuluar për ata që humbin,"
 "të cilëve perëndia i këtij shekulli ua verboi mendjet e atyre që nuk besojnë, që drita e ungjillit të lavdisë së Krishtit, që është shëmbëllimi i Perëndisë, të mos ndriçojë tek ata."
 "Sepse ne nuk predikojmë, pra, veten tonë, por Jezu Krishtin, Zotin, dhe jemi shërbëtorët tuaj për hir të Jezu Krishtit,"

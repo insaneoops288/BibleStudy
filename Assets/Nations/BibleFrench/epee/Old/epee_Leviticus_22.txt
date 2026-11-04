@@ -1,7 +1,7 @@
 "L'Éternel parla encore à Moise, en disant
 "Parle à Aaron et à ses fils afin qu'ils se séparent des choses saintes des enfants d'Israël, et qu'ils ne profanent point le nom de ma sainteté dans les choses qu'ils me consacrent
 "Dis-leur
-"Quiconque de la postérité d'Aaron sera lépreux ou aura un flux, ne mangera point des choses consacrées jusqu'à ce qu'il soit purifié. De même celui qui aura touché une personne souillée par le contact d'un cadavre, ou l'homme qui aura une perte séminale;"
+"Quiconque de la postérité d'Aaron sera lépreux ou aura un flux, ne mangera point des choses consacrées jusqu'à ce qu'il soit purifié. #De même celui qui aura touché une personne souillée par le contact d'un cadavre, ou l'homme qui aura une perte séminale;"
 "Ou celui qui aura touché quelque reptile qui l'ait rendu souillé, ou un homme qui l'ait rendu souillé, quelle que soit cette souillure."
 "Celui qui touchera ces choses sera souillé jusqu'au soir; il ne mangera point des choses consacrées, mais il lavera son corps dans l'eau."
 "Et après le coucher du soleil il sera pur, et ensuite il pourra manger des choses saintes, car c'est sa nourriture."
@@ -10,7 +10,7 @@
 "Or nul étranger ne mangera des choses consacrées; celui qui demeure chez un sacrificateur, et le mercenaire, ne mangeront point des choses saintes."
 "Mais la personne que le sacrificateur aura achetée de son argent, en mangera; de même que celui qui sera né dans sa maison; ceux-là mangeront de sa nourriture."
 "Si une fille de sacrificateur est mariée à un étranger, elle ne mangera point des choses consacrées, offertes par élévation."
-"Mais si une fille de sacrificateur, étant veuve, ou répudiée, et sans enfants, retourne à la maison de son père, comme dans sa jeunesse, elle mangera de la nourriture de son père; mais nul étranger n'en mangera.."
+"Mais si une fille de sacrificateur, étant veuve, ou répudiée, et sans enfants, retourne à la maison de son #père, comme dans sa jeunesse, elle mangera de la nourriture de son père; mais nul étranger n'en mangera.."
 "Si quelqu'un mange par erreur d'une chose consacrée, il y ajoutera un cinquième, et donnera au sacrificateur la chose consacrée."
 "Les sacrificateurs ne profaneront point les choses consacrées des enfants d'Israël, ce qu'ils offrent par élévation à l'Éternel."
 "Ils leur feraient porter l'iniquité de leur culpabilité en mangeant ainsi leurs choses consacrées; car JE SUIS l'Éternel, qui les sanctifie."
@@ -18,11 +18,11 @@
 "Parle à Aaron et à ses fils, et à tous les enfants d'Israël, et dis-leur
 "Qu'il offre un mâle sans défaut, d'entre le gros bétail, les agneaux ou les chèvres."
 "Vous n'offrirez rien qui ait un défaut; car ce ne serait point agréé pour vous."
-"Et quand un homme offrira à l'Éternel un sacrifice de prospérités, de gros ou de menu bétail, pour s'acquitter d'un vœu, ou en offrande volontaire, pour être agréée la victime sera sans défaut; qu'il n'y ait en elle aucun défaut."
-"Vous n'en offrirez point à l'Éternel qui soit aveugle, ou estropiée, ou mutilée, ou affectée d'ulcères, de la gale ou d'une dartre; et vous n'en ferez point sur l'autel un sacrifice par le feu, à l'Éternel."
+"Et quand un homme offrira à l'Éternel un sacrifice de prospérités, de gros ou de menu bétail, pour s'acquitter d'un vœu, #ou en offrande volontaire, pour être agréée la victime sera sans défaut; qu'il n'y ait en elle aucun défaut."
+"Vous n'en offrirez point à l'Éternel qui soit aveugle, ou estropiée, ou mutilée, ou affectée d'ulcères, de la gale #ou d'une dartre; et vous n'en ferez point sur l'autel un sacrifice par le feu, à l'Éternel."
 "Tu pourras sacrifier comme offrande volontaire un bœuf ou un agneau ayant quelque membre trop long ou trop court; mais il ne sera point agréé pour un vœu."
 "Vous n'offrirez point à l'Éternel, et vous ne sacrifierez point dans votre pays un animal dont les testicules ont été froissés, écrasés, arrachés ou coupés."
-"Vous n'accepterez de la main d'un étranger aucune de ces victimes pour l'offrir comme aliment de votre Dieu; car leur mutilation est un défaut en elles; elles ne seront point agréées en votre faveur."
+"Vous n'accepterez de la main d'un étranger aucune de ces victimes pour l'offrir comme aliment de votre Dieu; #car leur mutilation est un défaut en elles; elles ne seront point agréées en votre faveur."
 "L'Éternel parla encore à Moïse, en disant
 "Quand un veau, un agneau ou un chevreau naîtra, il sera sept jours avec sa mère; et à partir du huitième jour et les suivants, il sera agréé en offrande de sacrifice fait par le feu à l'Éternel."
 "Soit gros soit menu bétail, vous n'égorgerez pas un animal et son petit le même jour."

@@ -25,7 +25,7 @@
 "Y luego que vino él á Jerusalem á recibir al rey, el rey le dijo
 "Y él dijo
 "Empero él revolvió á tu siervo delante de mi señor el rey; mas mi señor el rey es como un ángel de Dios
-"Porque toda la casa de mi padre era digna de muerte delante de mi señor el rey, y tú pusiste á tu siervo entre los convidados de tu mesa. ¿Qué derecho pues tengo aún para quejarme más contra el rey?"
+"Porque toda la casa de mi padre era digna de muerte delante de mi señor el rey, y tú pusiste á #tu siervo entre los convidados de tu mesa. ¿Qué derecho pues tengo aún para quejarme más contra el rey?"
 "Y el rey le dijo
 "Y Mephi-boseth dijo al rey
 "También Barzillai Galaadita descendió de Rogelim, y pasó el Jordán con el rey, para acompañarle de la otra parte del Jordán."
@@ -34,7 +34,7 @@
 "Mas Barzillai dijo al rey
 "Yo soy hoy día de edad de ochenta años, que ya no haré diferencia entre lo bueno y lo malo
 "Pasará tu siervo un poco el Jordán con el rey
-"Yo te ruego que dejes volver á tu siervo, y que muera en mi ciudad, junto al sepulcro de mi padre y de mi madre. He aquí tu siervo Chimham; que pase él con mi señor el rey, y hazle lo que bien te pareciere."
+"Yo te ruego que dejes volver á tu siervo, y que muera en mi ciudad, junto al sepulcro de mi padre y de #mi madre. He aquí tu siervo Chimham; que pase él con mi señor el rey, y hazle lo que bien te pareciere."
 "Y el rey dijo
 "Y todo el pueblo pasó el Jordán
 "El rey entonces pasó á Gilgal, y con él pasó Chimham; y todo el pueblo de Judá, con la mitad del pueblo de Israel, pasaron al rey."

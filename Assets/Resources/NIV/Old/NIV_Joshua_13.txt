@@ -1,9 +1,9 @@
 When Joshua was old and well advanced in years, the LORD said to him, "You are very old, and there are still very large areas of land to be taken over.
 "This is the land that remains, all the regions of the Philistines and Geshurites,
-from the Shihor River on the east of Egypt to the territory of Ekron on the north, all of it counted as Canaanite (the territory of the five Philistine rulers in Gaza, Ashdod, Ashkelon, Gath and Ekron, that of the Avvites);
+from the Shihor River on the east of Egypt to the territory of Ekron on the north, all of it counted #as Canaanite (the territory of the five Philistine rulers in Gaza, Ashdod, Ashkelon, Gath and Ekron, that of the Avvites);
 from the south, all the land of the Canaanites, from Arah of the Sidonians as far as Aphek, the region of the Amorites,
 the area of the Gebalites, and all Lebanon to the east, from Baal Gad below Mount Hermon to Lebo Hamath.
-"As for all the inhabitants of the mountain regions from Lebanon to Misrephoth Maim, that is, all the Sidonians, I myself will drive them out before the Israelites. Be sure to allocate this land to Israel for an inheritance, as I have instructed you,
+"As for all the inhabitants of the mountain regions from Lebanon to Misrephoth Maim, that is, all the Sidonians, I myself will drive #them out before the Israelites. Be sure to allocate this land to Israel for an inheritance, as I have instructed you,
 and divide it as an inheritance among the nine tribes and half of the tribe of Manasseh."
 The other half of Manasseh, the Reubenites and the Gadites had received the inheritance that Moses had given them east of the Jordan, as he, the servant of the LORD, had assigned it to them.
 It extended from Aroer on the rim of the Arnon Gorge, and from the town in the middle of the gorge, and included the whole plateau of Medeba as far as Dibon,
@@ -18,7 +18,7 @@ to Heshbon and all its towns on the plateau, including Dibon, Bamoth Baal, Beth 
 Jahaz, Kedemoth, Mephaath,
 Kiriathaim, Sibmah, Zereth Shahar on the hill in the valley,
 Beth Peor, the slopes of Pisgah, and Beth Jeshimoth
-, all the towns on the plateau and the entire realm of Sihon king of the Amorites, who ruled at Heshbon. Moses had defeated him and the Midianite chiefs, Evi, Rekem, Zur, Hur and Reba, princes allied with Sihon, who lived in that country.
+, all the towns on the plateau and the entire realm of Sihon king of the Amorites, who ruled at Heshbon. Moses had #defeated him and the Midianite chiefs, Evi, Rekem, Zur, Hur and Reba, princes allied with Sihon, who lived in that country.
 In addition to those slain in battle, the Israelites had put to the sword Balaam son of Beor, who practiced divination.
 The boundary of the Reubenites was the bank of the Jordan. These towns and their villages were the inheritance of the Reubenites, clan by clan.
 This is what Moses had given to the tribe of Gad, clan by clan,

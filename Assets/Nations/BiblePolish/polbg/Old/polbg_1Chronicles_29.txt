@@ -1,5 +1,5 @@
 "Potem mówił król Dawid do wszystkoego zgromadzenia
-"Ja według najwyższego przemożenia mego nagotowałem na dom Boga mego złota, na naczynie złote, i srebra na srebrne, i miedzi na miedziane, żelaza na żelazne, i drzewa na drewniane, kamienia onychynowego na osadzanie, i kamienia karbunkułowego, i ro zlicznych farb, a wszelakiego kamienia drogiego, i kamienia marmurowego dostatek wielki."
+"Ja według najwyższego przemożenia mego nagotowałem na dom Boga mego złota, na naczynie złote, i srebra na srebrne, i miedzi na miedziane, żelaza na żelazne, #i drzewa na drewniane, kamienia onychynowego na osadzanie, i kamienia karbunkułowego, i ro zlicznych farb, a wszelakiego kamienia drogiego, i kamienia marmurowego dostatek wielki."
 "Nadto z chęci mojej ku domowi Boga mego osobne złoto i srebro, które mam, oddaję na dom Boga mego, oprócz tego wszystkiego, com zgotował na dom świątnicy;"
 "To jest trzy tysiące talentów złota, złota z Ofir, i siedm tysięcy talentów srebra najczystszego na okrycie ścian gmachów;"
 "Złota na naczynie złote, a srebra na srebrne, i na wszystkie roboty rąk rzemieślniczych; i jeźliby jeszcze kto chciał co dobrowolnie dziś ofiarować Panu?"
@@ -14,11 +14,11 @@
 "Albowiem cużem ja, i co jest lud mój, żebyśmyto siły mieli, tobie to dobrowolnie ofiarować? gdyż od ciebie jest wszystko, a z rąk twoich wziąwszy daliśmy tobie."
 "Bośmy my pielgrzymami i przychodniami przed tobą, jako i wszyscy ojcowie nasi; dni nasze na ziemi jako cień, a nie masz czego oczekiwać."
 "O Panie, Boże nasz! ten wszystek dostatek któryśmy zgotowali tobie na budowanie domu imieniowi twemu świętemu, z ręki twojej jest, i twoje jest wszystko."
-"Wiemci ja, Boże mój! iż ty doświadczasz serc a kochasz się w szczerości; przetoż ja w szczerości serca mego, ochotniem pofiarował to wszystko, nawet i lud twój, który się tu znalazł, widziałem z weselem i z ochotą ofiarujący tobie."
+"Wiemci ja, Boże mój! iż ty doświadczasz serc a kochasz się w szczerości; przetoż ja w szczerości serca mego, ochotniem #pofiarował to wszystko, nawet i lud twój, który się tu znalazł, widziałem z weselem i z ochotą ofiarujący tobie."
 "Panie, Boże Abrahama, Izaaka, i Izraela, ojców naszych! zachowajże na wieki tę chęć, i umysł serca ludu twego, a przygotuj sobie serce ich."
 "Salomonowi też, synowi memu daj serce doskonałe, aby strzegł przykazań twoich, świadectw twoich, i ustaw twoich, i czynił wszystko, i aby zbudował dom, dla któregom potrzebu zgotował."
 "Potem mówił Dawid do wszystkiego zgromadzenia
-"I zatem ofiarowali Panu ofiary. Ofiarowali też całopalenia Panu nazajutrz po onym dniu, wołów tysiąc, baranów tysiąc, baranków tysiąc z mokremi ofiarami ich, i inszych ofiar wielkie mnóstwo, za wszystkiego Izraela."
+"I zatem ofiarowali Panu ofiary. Ofiarowali też całopalenia Panu nazajutrz po onym dniu, wołów tysiąc, baranów #tysiąc, baranków tysiąc z mokremi ofiarami ich, i inszych ofiar wielkie mnóstwo, za wszystkiego Izraela."
 "I jedli a pili przed Panem dnia onego z weselem wielkiem, a postanowili powtóre królem Salomona, syna Dawidowego, i pomazali go Panu za księcia, a Sadoka za kapłana."
 "A tak usiadł Salomon na stolicy Pańskiej za króla miasto Dawida, ojca swego, i szczęściło mu się, a był mu posłuszny wszystek Izrael."
 "I wszyscy książęta, i możni, także i wszyscy synowie króla Dawida, dali ręce na poddaństwo Salomonowi królowi."

@@ -15,7 +15,7 @@
 "I powiedział mu
 "Lecz gdy Izrael wychodził z Egiptu przez pustynię aż do Morza Czerwonego i przyszedł do Kadesz;"
 "Wtedy Izrael wyprawił posłów do króla Edomu, mówiąc
-"A gdy szedł przez pustynię, obszedł ziemię Edomu i ziemię Moabu i przyszedł od wschodniej strony ziemi Moabu, i rozbił obóz za Arnonem, lecz nie wszedł w granice Moabu, bo Arnon jest granicą Moabu."
+"A gdy szedł przez pustynię, obszedł ziemię Edomu i ziemię Moabu i przyszedł od wschodniej strony ziemi Moabu, #i rozbił obóz za Arnonem, lecz nie wszedł w granice Moabu, bo Arnon jest granicą Moabu."
 "Dlatego Izrael wyprawił posłańców do Sichona, króla Amorytów, króla w Cheszbonie, i Izrael powiedział mu
 "Lecz Sichon nie dowierzał Izraelowi, że chce przejść przez jego granicę; przeciwnie, Sichon zebrał cały swój lud i rozbił obóz w Jahaza, i stoczył bitwę z Izraelem."
 "PAN, Bóg Izraela, wydał zaś Sichona i cały jego lud w ręce Izraela, który ich pobił. Izrael wziął więc w posiadanie całą ziemię Amorytów, którzy w niej mieszkali."
@@ -23,7 +23,7 @@
 "Teraz więc PAN, Bóg Izraela, wypędził Amorytów przed swym ludem Izraelem, a ty chcesz ją posiąść?"
 "Czyż nie weźmiesz w posiadanie tego, co daje ci posiąść Kemosz, twój bóg? Tak i my posiądziemy ziemię tego, kogo PAN, nasz Bóg, wygnał przed nami."
 "A teraz – czy jesteś lepszy od Balaka, syna Sippora, króla Moabu? Czy on się kiedyś spierał z Izraelem? Czy kiedyś z nim walczył?"
-"Oto przez trzysta lat Izrael mieszkał w Cheszbonie i w przyległych do niego wioskach, także w Aroerze i w przyległych do niego wioskach oraz we wszystkich miastach, które są przy granicy Arnonu. Dlaczego nie próbowaliście ich odzyskać przez ten czas?"
+"Oto przez trzysta lat Izrael mieszkał w Cheszbonie i w przyległych do niego wioskach, także w Aroerze i w przyległych do #niego wioskach oraz we wszystkich miastach, które są przy granicy Arnonu. Dlaczego nie próbowaliście ich odzyskać przez ten czas?"
 "Nie ja zawiniłem tobie, ale ty wyrządzasz mi zło, że walczysz ze mną. Niech PAN, który jest Sędzią, rozsądzi dziś między synami Izraela a synami Ammona."
 "Lecz król synów Ammona nie posłuchał słów Jeftego, które mu przekazał."
 "Wtedy Duch PANA zstąpił na Jeftego, który przeszedł przez Gilead i Manassesa, przeszedł też przez Mispę w Gileadzie, a z Mispy w Gileadzie ciągnął przeciw synom Ammona."

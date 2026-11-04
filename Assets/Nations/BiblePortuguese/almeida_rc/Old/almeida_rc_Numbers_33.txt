@@ -35,7 +35,7 @@
 "E partiram de Abrona e acamparam-se em Eziom-Geber."
 "E partiram de Eziom-Geber e acamparam-se no deserto de Zim, que é Cades."
 "E partiram de Cades e acamparam-se no monte Hor, no fim da terra de Edom."
-"Então, Arão, o sacerdote, subiu ao monte Hor, conforme o mandado do SENHOR; e morreu ali, no quinto mês do ano quadragésimo da saída dos filhos de Israel da terra do Egipto, no primeiro dia do mês."
+"Então, Arão, o sacerdote, subiu ao monte Hor, conforme o mandado do SENHOR; e morreu ali, no quinto mês #do ano quadragésimo da saída dos filhos de Israel da terra do Egipto, no primeiro dia do mês."
 "E era Arão da idade de cento e vinte três anos, quando morreu no monte Hor."
 "E ouviu o cananeu, rei de Arade, que habitava o sul da terra de Canaã, que chegavam os filhos de Israel."
 "E partiram de Hor e acamparam-se em Zalmona."
@@ -51,6 +51,6 @@
 "Fala aos filhos de Israel e diz-lhes
 "lançareis fora todos os moradores da terra diante de vós e destruireis todas as suas figuras; também destruireis todas as suas imagens de fundição e desfareis todos os seus altos;"
 "e tomareis a terra em possessão e nela habitareis; porquanto vos tenho dado esta terra, para possuí-la."
-"E por sortes herdareis a terra segundo as vossas famílias; aos muitos, a herança multiplicareis, e, aos poucos, a herança diminuireis; onde a sorte sair a alguém, ali a terá; segundo as tribos de vossos pais, tomareis as heranças."
-"Mas, se não lançardes fora os moradores da terra de diante de vós, então, os que deixardes ficar deles vos serão por espinhos nos vossos olhos e por aguilhões nas vossas costas e apertar-vos-ão na terra em que habitardes."
+"E por sortes herdareis a terra segundo as vossas famílias; aos muitos, a herança multiplicareis, e, aos poucos, a herança #diminuireis; onde a sorte sair a alguém, ali a terá; segundo as tribos de vossos pais, tomareis as heranças."
+"Mas, se não lançardes fora os moradores da terra de diante de vós, então, os que deixardes ficar deles vos #serão por espinhos nos vossos olhos e por aguilhões nas vossas costas e apertar-vos-ão na terra em que habitardes."
 "E será que farei a vós como pensei fazer-lhes a eles."

@@ -10,6 +10,6 @@
 """Prano dhurata nga mërgimtarët, domethënë nga Heldai, nga Tobiahu dhe nga Jedaiahu që kanë ardhur nga Babilonia, dhe që po sot kanë shkuar në shtëpinë e Josias, birit të Sofonias."
 "Merr argjendin dhe arin, bëj një kurorë me to dhe vëre mbi kryet e Jozueut, birit të Jehotsadakut, kryepriftit."
 "Pastaj foli atij, duke thënë
-"Po, ai do të ndërtojë tempullin e Zotit, do të mbulohet me lavdi dhe do të ulet e do të mbretërojë mbi fronin e tij, do të jetë prift mbi fronin e tij, dhe midis të dyve do të jetë një këshillë paqeje."
+"Po, ai do të ndërtojë tempullin e Zotit, do të mbulohet me lavdi dhe do të ulet e do të mbretërojë mbi #fronin e tij, do të jetë prift mbi fronin e tij, dhe midis të dyve do të jetë një këshillë paqeje."
 "Kurora do të jetë një kujtim në tempullin e Zotit për Helemin, për Tobiahun, për Jedaiahun dhe për Henin, birin e Sofonias."
-"Edhe ata që janë larg do të vijnë për të ndihmuar për ndërtimin e tempullit të Zotit; atëherë do të pranoni që Zoti i ushtrive më ka dërguar te ju. Kjo do të ndodhë në qoftë se do t'i bindeni me zell zërit të Zotit, Perëndisë tuaj""."
+"Edhe ata që janë larg do të vijnë për të ndihmuar për ndërtimin e tempullit të Zotit; atëherë do të pranoni që Zoti i #ushtrive më ka dërguar te ju. Kjo do të ndodhë në qoftë se do t'i bindeni me zell zërit të Zotit, Perëndisë tuaj""."

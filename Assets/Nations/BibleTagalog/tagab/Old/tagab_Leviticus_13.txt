@@ -1,7 +1,7 @@
 "At sinalita ng Panginoon kay Moises at kay Aaron, na sinasabi,"
-"Pagka ang sinomang tao ay nagkaroon sa balat ng kaniyang laman, ng pamamaga, o langib, o pantal na makintab at naging salot na ketong sa balat ng kaniyang laman, ay dadalhin nga siya kay Aaron na saserdote, o sa isa sa kaniyang mga anak na saserdote
+"Pagka ang sinomang tao ay nagkaroon sa balat ng kaniyang laman, ng pamamaga, o langib, o pantal na makintab at naging salot na ketong #sa balat ng kaniyang laman, ay dadalhin nga siya kay Aaron na saserdote, o sa isa sa kaniyang mga anak na saserdote
 "At titingnan ng saserdote ang tila salot na nasa balat ng kaniyang laman
-"At kung ang pantal na makintab ay maputi sa balat ng kaniyang laman, at makitang hindi malalim kaysa balat, at ang balahibo niyaon ay hindi pumuti, ay kukulungin ng saserdote ang may tila salot na pitong araw."
+"At kung ang pantal na makintab ay maputi sa balat ng kaniyang laman, at makitang hindi malalim kaysa balat, #at ang balahibo niyaon ay hindi pumuti, ay kukulungin ng saserdote ang may tila salot na pitong araw."
 "At titingnan siya ng saserdote sa ikapitong araw
 "At titingnan siya uli ng saserdote sa ikapitong araw
 "Datapuwa't kung ang langib ay kumakalat sa balat, pagkatapos na siya'y makapakita sa saserdote upang siya'y linisin, ay pakikita siya uli sa saserdote
@@ -23,12 +23,12 @@
 "Nguni't kung ang pantal na makintab ay tumigil sa kaniyang kinaroroonan, at hindi kumalat, ay piklat nga ng bukol; at ipakikilala ng saserdote na malinis siya."
 "O pagka nagkaroon sa balat ng laman, ng paso ng apoy, at ang lamang paso ay naging tila pantal na makintab, na namumulang puti, o maputi;"
 "At titingnan nga ng saserdote
-"Nguni't kung pagtingin ng saserdote, at, narito, kung makita ngang sa pantal na makintab ay walang balahibong maputi, at hindi impis kaysa balat, kungdi namutla; ay kukulungin nga siya ng saserdote na pitong araw."
+"Nguni't kung pagtingin ng saserdote, at, narito, kung makita ngang sa pantal na makintab ay walang balahibong maputi, #at hindi impis kaysa balat, kungdi namutla; ay kukulungin nga siya ng saserdote na pitong araw."
 "At titingnan siya ng saserdote sa ikapitong araw
 "At kung ang pantal na makintab ay tumigil sa kaniyang kinaroroonan at hindi kumalat sa balat, kungdi pumutla, ay pamamaga ng paso yaon, at ipakikilala ng saserdote na malinis
 "At kung ang sinomang lalake o babae ay mayroong tila salot sa ulo o sa baba,"
 "Ay titingnan nga ng saserdote ang tila salot
-"At kung makita ng saserdote ang tila salot na tina, at, narito, tila hindi malalim kaysa balat, at walang buhok na maitim yaon, ay kukulungin ng saserdote na pitong araw ang may tila salot na tina;"
+"At kung makita ng saserdote ang tila salot na tina, at, narito, tila hindi malalim kaysa balat, at walang #buhok na maitim yaon, ay kukulungin ng saserdote na pitong araw ang may tila salot na tina;"
 "At sa ikapitong araw ay titingnan ng saserdote ang tila salot; at, narito, kung makita ngang hindi kumalat ang tina, at walang buhok na naninilaw, at tila ang tina ay hindi malalim kaysa balat,"
 "Ay aahitan nga, datapuwa't hindi aahitan ang kinaroroonan ng tina; at ipakukulong ng saserdote ang may tina ng muling pitong araw
 "At titingnan ng saserdote ang tina sa ikapitong araw
@@ -42,18 +42,18 @@
 "Datapuwa't kung sa kakalbuhan, sa ulo o sa noo ay magkaroon ng tila salot ng namumulang maputi; ay ketong na sumibol sa kaniyang kakalbuhan ng ulo o sa kaniyang kakalbuhan ng noo."
 "Kung magkagayo'y titingnan siya ng saserdote
 "Ay ketongin siya, siya'y karumaldumal ipakikilala siya ng saserdote na tunay na karumaldumal; nasa kaniyang ulo ang salot niya."
-"At pupunitin ng may ketong na kinaroroonan ng salot, ang kaniyang mga suot at ang buhok ng kaniyang ulo ay ilulugay, at siya'y magtatakip ng kaniyang nguso, at maghihihiyaw. Karumaldumal, karumaldumal."
+"At pupunitin ng may ketong na kinaroroonan ng salot, ang kaniyang mga suot at ang buhok #ng kaniyang ulo ay ilulugay, at siya'y magtatakip ng kaniyang nguso, at maghihihiyaw. Karumaldumal, karumaldumal."
 "Sa buong panahong siya'y karoonan ng salot, ay magiging karumaldumal; siya'y karumaldumal
 "Ang suot na kinaroroonan ng ketong, maging kasuutang balahibo ng tupa o kasuutang lino;"
 "Maging nasa paayon o maging nasa pahalang; ng lino o ng balahibo ng tupa; maging sa balat o sa alin mang yaring balat;"
 "Kung ang tila salot ay namemerde o namumula sa kasuutan, o sa balat, maging sa paayon, o maging sa pahalang, o sa alin mang kasangkapang balat; ay salot na ketong nga at ipakikita sa saserdote,"
 "At titingnan ng saserdote ang tila salot, at ipatatago ng pitong araw ang bagay na may tila salot
 "At titingnan ang bagay na may tila salot, sa ikapitong araw
-"At kaniyang susunugin ang kasuutan, maging paayon, at maging pahalang ng balahibo ng tupa o lino o sa alin mang kasangkapang balat na kinaroroonan ng salot; sapagka't yao'y ketong na ngumangatngat, yao'y susunugin sa apoy."
+"At kaniyang susunugin ang kasuutan, maging paayon, at maging pahalang ng balahibo ng tupa o lino o sa #alin mang kasangkapang balat na kinaroroonan ng salot; sapagka't yao'y ketong na ngumangatngat, yao'y susunugin sa apoy."
 "At kung pagtingin ng saserdote, at, narito, kung makita ngang hindi kumalat ang salot sa kasuutan, maging sa paayon man, o sa pahalang man, o sa alin mang kasangkapang balat;"
 "Ay palalabhan nga ng saserdote yaong kinaroroonan ng salot, at ipatatago pa ng pitong araw
 "At titingnan ng saserdote ang bagay na may salot, pagkatapos na malabhan
 "At kung pagtingin ng saserdote, at, narito, kung makita ngang namutla ang dakong may salot pagkatapos na malabhan, ay hahapakin sa kasuutan, o sa balat, o sa paayon, o sa pahalang
 "At kung muling lumitaw sa kasuutang yaon, maging sa paayon, o sa pahalang, o sa alin mang yari sa balat, ay muling sumisibol
 "At ang kasuutan, maging sa paayon, o sa pahalang, o sa alin mang yari sa balat, na iyong labhan, at maalis ang salot, ay lalabhan ngang ikalawa, at magiging malinis."
-"Ito ang kautusan tungkol sa salot na ketong sa kasuutang balahibo ng tupa o lino, maging sa paayon, o sa pahalang, o sa alin mang yari sa balat, upang ipakilalang malinis, o upang ipakilalang karumaldumal."
+"Ito ang kautusan tungkol sa salot na ketong sa kasuutang balahibo ng tupa o lino, maging sa paayon, #o sa pahalang, o sa alin mang yari sa balat, upang ipakilalang malinis, o upang ipakilalang karumaldumal."

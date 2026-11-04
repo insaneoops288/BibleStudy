@@ -5,11 +5,11 @@
 "En Jetro, Moses se skoonvader, het met sy seuns en sy vrou na Moses gekom in die woestyn waar hy by die berg van God met die laer gestaan het."
 "En hy het Moses laat weet
 "Daarop gaan Moses uit, sy skoonvader tegemoet, en hy het gebuig en hom gesoen; en hulle het na mekaar se welstand gevra en in die tent ingegaan."
-"Moses vertel toe aan sy skoonvader alles wat die HERE aan Farao en aan die Egiptenaars, ter wille van Israel, gedoen het; al die moeilikheid wat hulle op die pad oorgekom het, en dat die HERE hulle verlos het."
+"Moses vertel toe aan sy skoonvader alles wat die HERE aan Farao en aan die Egiptenaars, ter wille van Israel, #gedoen het; al die moeilikheid wat hulle op die pad oorgekom het, en dat die HERE hulle verlos het."
 "En Jetro het hom verheug oor al die goeie wat die HERE aan Israel gedoen het, dat Hy hulle uit die hand van die Egiptenaars verlos het."
 "Daarop sê Jetro
 "Nou weet ek dat die HERE groter is as al die gode, naamlik in die saak waarin hulle vermetel was teen hulle."
-"Daarop het Jetro, Moses se skoonvader, 'n brandoffer en slagoffers geneem tot eer van God. En Aäron en al die oudstes van Israel het gekom om saam met Moses se skoonvader brood te eet voor die aangesig van God."
+"Daarop het Jetro, Moses se skoonvader, 'n brandoffer en slagoffers geneem tot eer van God. En Aäron en al die #oudstes van Israel het gekom om saam met Moses se skoonvader brood te eet voor die aangesig van God."
 "En die volgende dag het Moses gesit om reg te spreek vir die volk; en die volk het voor Moses gestaan van die môre tot die aand toe."
 "En toe Moses se skoonvader sien alles wat hy vir die volk doen, sê hy
 "En Moses antwoord sy skoonvader

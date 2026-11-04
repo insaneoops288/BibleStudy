@@ -22,7 +22,7 @@
 "madje drejtësia e Perëndisë nëpërmjet besimit në Jezu Krishtin për të gjithë e mbi të gjithë ata që besojnë, sepse nuk ka dallim;"
 "sepse të gjithë mëkatuan dhe u privuan nga lavdia e Perëndisë,"
 "por janë shfajësuar falas me anë të hirit të tij, nëpërmjet shpengimit që është në Krishtin Jezus."
-"Atë ka paracaktuar Perëndia për të bërë shlyerjen nëpërmjet besimit në gjakun e tij, për të treguar kështu drejtësinë e tij për faljen e mëkateve, që janë kryer më parë gjatë kohës së durimit të Perëndisë,"
+"Atë ka paracaktuar Perëndia për të bërë shlyerjen nëpërmjet besimit në gjakun e tij, për të treguar kështu drejtësinë #e tij për faljen e mëkateve, që janë kryer më parë gjatë kohës së durimit të Perëndisë,"
 "për të treguar drejtësinë e tij në kohën e tanishme, me qëllim që ai të jetë i drejtë dhe shfajësues i atij që ka besimin e Jezusit."
 "Ku është, pra, mburrja? Éshtë përjashtuar. Nga cili ligj? Ai i veprave? Jo, por nga ligji i besimit."
 "Ne, pra, konkludojmë se njeriu është i shfajësuar nëpërmjet besimit pa veprat e ligjit."

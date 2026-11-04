@@ -3,7 +3,7 @@
 "Pastaj Abrahami u ngrit më këmbë në prani të së vdekurës dhe u foli bijve të Hethit, duke u thënë
 """Unë jam një i huaj midis jush dhe i ardhur midis jush; më jepni pronësinë e një varri midis jush, që të mund të varros të vdekurën time dhe ta heq nga sytë e mi""."
 "Dhe bijtë e Hethit iu përgjigjën Abrahamit duke i thënë
-"""Dëgjona, o zoti im! Ti je midis nesh një princ i Perëndisë, varrose të vdekurën tënde në më të mirën nga varrezat tona, asnjeri prej nesh s'do të refuzojë varrin e tij, me qëllim që ti të varrosësh aty të vdekurën tënde""."
+"""Dëgjona, o zoti im! Ti je midis nesh një princ i Perëndisë, varrose të vdekurën tënde në më të mirën nga varrezat #tona, asnjeri prej nesh s'do të refuzojë varrin e tij, me qëllim që ti të varrosësh aty të vdekurën tënde""."
 "Atëherë Abrahami u ngrit, u përul para popullit të vendit, para bijve të Hethit,"
 "dhe u foli atyre duke thënë
 "që të më japë shpellën e Makpelahut, që i përket dhe që ndodhet në skajin e arës së tij; por që të më japë në pronësi me çmimin e tij të plotë si vend varrimi midis jush""."

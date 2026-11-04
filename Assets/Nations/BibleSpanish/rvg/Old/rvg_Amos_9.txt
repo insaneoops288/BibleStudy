@@ -11,5 +11,5 @@
 "En aquel día yo levantaré el tabernáculo caído de David, y cerraré sus portillos, y levantaré sus ruinas, y lo edificaré como en el tiempo pasado;"
 "para que aquellos sobre los cuales es invocado mi nombre, posean el resto de Idumea, y a todas las naciones, dice Jehová que hace esto."
 "He aquí vienen días, dice Jehová en que el que ara alcanzará al segador, y el pisador de las uvas al que lleva la semilla; y los montes destilarán mosto, y todos los collados se derretirán."
-"Y yo traeré el cautiverio de mi pueblo Israel, y ellos edificarán las ciudades asoladas, y las habitarán; y plantarán viñas, y beberán el vino de ellas; y harán huertos, y comerán el fruto de ellos."
+"Y yo traeré el cautiverio de mi pueblo Israel, y ellos edificarán las ciudades asoladas, y las habitarán; y #plantarán viñas, y beberán el vino de ellas; y harán huertos, y comerán el fruto de ellos."
 "Pues los plantaré sobre su tierra, y nunca más serán arrancados de su tierra que yo les di, dice Jehová tu Dios."

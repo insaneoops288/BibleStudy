@@ -31,8 +31,8 @@
 "Dan sebagaimana kamu kehendaki supaya orang perbuat kepadamu, perbuatlah juga demikian kepada mereka."
 "Dan jikalau kamu mengasihi orang yang mengasihi kamu, apakah jasamu? Karena orang-orang berdosapun mengasihi juga orang-orang yang mengasihi mereka."
 "Sebab jikalau kamu berbuat baik kepada orang yang berbuat baik kepada kamu, apakah jasamu? Orang-orang berdosapun berbuat demikian."
-"Dan jikalau kamu meminjamkan sesuatu kepada orang, karena kamu berharap akan menerima sesuatu dari padanya, apakah jasamu? Orang-orang berdosapun meminjamkan kepada orang-orang berdosa, supaya mereka menerima kembali sama banyak."
-"Tetapi kamu, kasihilah musuhmu dan berbuatlah baik kepada mereka dan pinjamkan dengan tidak mengharapkan balasan, maka upahmu akan besar dan kamu akan menjadi anak-anak Allah Yang Mahatinggi, sebab Ia baik terhadap orang-orang yang tidak tahu berterima kasih dan terhadap orang-orang jahat."
+"Dan jikalau kamu meminjamkan sesuatu kepada orang, karena kamu berharap akan menerima sesuatu dari padanya, #apakah jasamu? Orang-orang berdosapun meminjamkan kepada orang-orang berdosa, supaya mereka menerima kembali sama banyak."
+"Tetapi kamu, kasihilah musuhmu dan berbuatlah baik kepada mereka dan pinjamkan dengan tidak mengharapkan balasan, maka upahmu akan besar dan kamu #akan menjadi anak-anak Allah Yang Mahatinggi, sebab Ia baik terhadap orang-orang yang tidak tahu berterima kasih dan terhadap orang-orang jahat."
 "Hendaklah kamu murah hati, sama seperti Bapamu adalah murah hati."""
 """Janganlah kamu menghakimi, maka kamupun tidak akan dihakimi. Dan janganlah kamu menghukum, maka kamupun tidak akan dihukum; ampunilah dan kamu akan diampuni."
 "Berilah dan kamu akan diberi
@@ -42,8 +42,8 @@
 "Bagaimanakah engkau dapat berkata kepada saudaramu
 """Karena tidak ada pohon yang baik yang menghasilkan buah yang tidak baik, dan juga tidak ada pohon yang tidak baik yang menghasilkan buah yang baik."
 "Sebab setiap pohon dikenal pada buahnya. Karena dari semak duri orang tidak memetik buah ara dan dari duri-duri tidak memetik buah anggur."
-"Orang yang baik mengeluarkan barang yang baik dari perbendaharaan hatinya yang baik dan orang yang jahat mengeluarkan barang yang jahat dari perbendaharaannya yang jahat. Karena yang diucapkan mulutnya, meluap dari hatinya."""
+"Orang yang baik mengeluarkan barang yang baik dari perbendaharaan hatinya yang baik dan orang yang jahat #mengeluarkan barang yang jahat dari perbendaharaannya yang jahat. Karena yang diucapkan mulutnya, meluap dari hatinya."""
 """Mengapa kamu berseru kepada-Ku
 "Setiap orang yang datang kepada-Ku dan mendengarkan perkataan-Ku serta melakukannya,Aku akan menyatakan kepadamu dengan siapa ia dapat disamakan,,"
 "ia sama dengan seorang yang mendirikan rumah
-"Akan tetapi barangsiapa mendengar perkataan-Ku, tetapi tidak melakukannya, ia sama dengan seorang yang mendirikan rumah di atas tanah tanpa dasar. Ketika banjir melandanya, rumah itu segera rubuh dan hebatlah kerusakannya."""
+"Akan tetapi barangsiapa mendengar perkataan-Ku, tetapi tidak melakukannya, ia sama dengan seorang yang mendirikan rumah di #atas tanah tanpa dasar. Ketika banjir melandanya, rumah itu segera rubuh dan hebatlah kerusakannya."""

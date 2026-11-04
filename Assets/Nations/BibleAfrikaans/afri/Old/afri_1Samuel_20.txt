@@ -5,7 +5,7 @@
 "Toe sê Dawid vir Jónatan
 "As jou vader my inderdaad mis, moet jy sê
 "As hy so sê
-"Bewys dan guns aan jou dienaar, want jy het jou dienaar met jou saam in 'n verbond van die HERE gebring. Maar as daar by my 'n misdaad is, maak jy my dan self dood,waarom tog sou jy my na jou vader bring?"
+"Bewys dan guns aan jou dienaar, want jy het jou dienaar met jou saam in 'n verbond van die HERE gebring. Maar #as daar by my 'n misdaad is, maak jy my dan self dood,waarom tog sou jy my na jou vader bring?"
 "Toe sê Jónatan
 "En Dawid het Jónatan gevra
 "En Jónatan sê vir Dawid
@@ -38,6 +38,6 @@
 "En Jónatan roep die dienaar agterna
 "Maar die dienaar het van niks geweet nie
 "Toe gee Jónatan sy wapens aan die dienaar wat by hom was, en sê vir hom
-"Terwyl die dienaar huis toe gaan, staan Dawid op van die suidekant en val met sy aangesig op die aarde en buig drie maal; daarna het hulle mekaar gesoen en saam geween, totdat Dawid hardop gesnik het."
+"Terwyl die dienaar huis toe gaan, staan Dawid op van die suidekant en val met sy aangesig op die #aarde en buig drie maal; daarna het hulle mekaar gesoen en saam geween, totdat Dawid hardop gesnik het."
 "En Jónatan sê vir Dawid
 "Daarna het hy opgestaan en weggegaan, maar Jónatan het die stad in geloop."

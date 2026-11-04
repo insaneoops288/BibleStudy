@@ -29,7 +29,7 @@
 "Jawab Yesus
 "orang itu sekarang pada masa ini juga akan menerima kembali seratus kali lipat
 "Tetapi banyak orang yang terdahulu akan menjadi yang terakhir dan yang terakhir akan menjadi yang terdahulu."""
-"Yesus dan murid-murid-Nya sedang dalam perjalanan ke Yerusalem dan Yesus berjalan di depan. Murid-murid merasa cemas dan juga orang-orang yang mengikuti Dia dari belakang merasa takut. Sekali lagi Yesus memanggil kedua belas murid-Nya dan Ia mulai mengatakan kepada mereka apa yang akan terjadi atas diri-Nya,"
+"Yesus dan murid-murid-Nya sedang dalam perjalanan ke Yerusalem dan Yesus berjalan di depan. Murid-murid merasa cemas dan juga orang-orang yang mengikuti Dia dari #belakang merasa takut. Sekali lagi Yesus memanggil kedua belas murid-Nya dan Ia mulai mengatakan kepada mereka apa yang akan terjadi atas diri-Nya,"
 "kata-Nya
 "dan Ia akan diolok-olokkan, diludahi, disesah dan dibunuh, dan sesudah tiga hari Ia akan bangkit."""
 "Lalu Yakobus dan Yohanes, anak-anak Zebedeus, mendekati Yesus dan berkata kepada-Nya
@@ -43,7 +43,7 @@
 "Tidaklah demikian di antara kamu. Barangsiapa ingin menjadi besar di antara kamu, hendaklah ia menjadi pelayanmu,"
 "dan barangsiapa ingin menjadi yang terkemuka di antara kamu, hendaklah ia menjadi hamba untuk semuanya."
 "Karena Anak Manusia juga datang bukan untuk dilayani, melainkan untuk melayani dan untuk memberikan nyawa-Nya menjadi tebusan bagi banyak orang."""
-"Lalu tibalah Yesus dan murid-murid-Nya di Yerikho. Dan ketika Yesus keluar dari Yerikho, bersama-sama dengan murid-murid-Nya dan orang banyak yang berbondong-bondong, ada seorang pengemis yang buta, bernama Bartimeus, anak Timeus, duduk di pinggir jalan."
+"Lalu tibalah Yesus dan murid-murid-Nya di Yerikho. Dan ketika Yesus keluar dari Yerikho, bersama-sama dengan murid-murid-Nya dan orang #banyak yang berbondong-bondong, ada seorang pengemis yang buta, bernama Bartimeus, anak Timeus, duduk di pinggir jalan."
 "Ketika didengarnya, bahwa itu adalah Yesus orang Nazaret, mulailah ia berseru
 "Banyak orang menegornya supaya ia diam. Namun semakin keras ia berseru
 "Lalu Yesus berhenti dan berkata

@@ -15,7 +15,7 @@
 "Puis Amnon eut pour elle une forte aversion, plus forte que n'avait été son amour. Et il lui dit
 "Elle lui répondit
 "et appelant le garçon qui le servait, il dit
-"Elle avait une tunique de plusieurs couleurs; car c'était le vêtement que portaient les filles du roi, aussi longtemps qu'elles étaient vierges. Le serviteur d'Amnon la mit dehors, et ferma la porte après elle."
+"Elle avait une tunique de plusieurs couleurs; car c'était le vêtement que portaient les filles du roi, aussi #longtemps qu'elles étaient vierges. Le serviteur d'Amnon la mit dehors, et ferma la porte après elle."
 "Tamar répandit de la cendre sur sa tête, et déchira sa tunique bigarrée; elle mit la main sur sa tête, et s'en alla en poussant des cris."
 "Absalom, son frère, lui dit
 "Le roi David apprit toutes ces choses, et il fut très irrité."

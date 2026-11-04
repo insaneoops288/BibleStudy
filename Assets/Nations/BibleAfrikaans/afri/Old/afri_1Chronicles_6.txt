@@ -29,7 +29,7 @@
 "Die seuns van Merári was
 "sy seun Símea, sy seun Haggía, sy seun Asája."
 "En dit is hulle wat Dawid aangestel het vir die leiding van die sang in die huis van die HERE vandat die ark 'n rusplek gevind het."
-"En hulle het as sangers gedien voor die tabernakel van die tent van samekoms, totdat Salomo die huis van die HERE in Jerusalem gebou het; en hulle het in hul dienswerk gestaan volgens hulle ordening."
+"En hulle het as sangers gedien voor die tabernakel van die tent van samekoms, totdat Salomo die huis #van die HERE in Jerusalem gebou het; en hulle het in hul dienswerk gestaan volgens hulle ordening."
 "En dit is hulle wat in diens gestaan het saam met hulle seuns
 "die seun van Élkana, die seun van Jeróham, die seun van Éliël, die seun van Toag,"
 "die seun van Suf, die seun van Élkana, die seun van Mahat, die seun van Amásai,"
@@ -46,7 +46,7 @@
 "die seun van Amsi, die seun van Bani, die seun van Semer,"
 "die seun van Magli, die seun van Musi, die seun van Merári, die seun van Levi."
 "En hulle broers, die Leviete, was bestemd vir al die dienswerk by die tabernakel van die huis van God."
-"Maar Aäron en sy seuns het offerrook laat opgaan op die brandofferaltaar en op die reukofferaltaar, vir al die werk in die Allerheiligste en om versoening te doen vir Israel, net soos Moses, die kneg van God, beveel het."
+"Maar Aäron en sy seuns het offerrook laat opgaan op die brandofferaltaar en op die reukofferaltaar, vir al die werk #in die Allerheiligste en om versoening te doen vir Israel, net soos Moses, die kneg van God, beveel het."
 "En dit is die seuns van Aäron
 "Bukki sy seun, Ussi sy seun, Serágja sy seun,"
 "Mérajot sy seun, Amárja sy seun, Ahítub sy seun,"
@@ -62,7 +62,7 @@
 "En aan die seuns van Gersom, volgens hulle geslagte, uit die stam van Issaskar en uit die stam van Aser en uit die stam van Náftali en uit die stam van Manasse in Basan, dertien stede."
 "Aan die seuns van Merári volgens hulle geslagte uit die stam van Ruben en uit die stam van Gad en uit die stam van Sébulon deur die lot, twaalf stede."
 "En die kinders van Israel het aan die Leviete die stede met hulle weiveld gegee
-"hulle het deur die lot uit die stam van die seuns van Juda en uit die stam van die seuns van Símeon en uit die stam van die seuns van Benjamin hierdie stede gegee wat hulle met die naam genoem het."
+"hulle het deur die lot uit die stam van die seuns van Juda en uit die stam van die seuns van #Símeon en uit die stam van die seuns van Benjamin hierdie stede gegee wat hulle met die naam genoem het."
 "En aan die ander uit die geslagte van die seuns van Kehat,die stede van hulle grondgebied was uit die stam van Efraim."
 "En hulle het aan hulle die vrystad Sigem met sy weiveld, op die gebergte van Efraim, en Geser met sy weiveld gegee;"
 "en Jókmeam met sy weiveld, en Bet-Horon met sy weiveld,"

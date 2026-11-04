@@ -8,7 +8,7 @@
 "Y queda la hija de Sion como choza en viña, y como cabaña en melonar, como ciudad asolada."
 "Si el SEÑOR de los ejércitos no hubiera hecho que nos quedase un remanente pequeño, como Sodoma fuéramos, y semejantes a Gomorra."
 "Príncipes de Sodoma, oíd la palabra del SEÑOR; escuchad la ley de nuestro Dios, pueblo de Gomorra."
-"¿Para qué me sirve la multitud de vuestros sacrificios? dirá el SEÑOR. Hastiado estoy de holocaustos de carneros, y de sebo de animales gordos; no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos."
+"¿Para qué me sirve la multitud de vuestros sacrificios? dirá el SEÑOR. Hastiado estoy de holocaustos de carneros, y #de sebo de animales gordos; no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos."
 "¿Quién demandó esto de vuestras manos, cuando vinieseis a ver mi rostro, a hollar mis atrios?"
 "No me traigáis más presente vano; el perfume me es abominación; luna nueva y sábado, el convocar asambleas, no las puedo sufrir; iniquidad y solemnidad."
 "Vuestras lunas nuevas y vuestras <I>fiestas</I>  solemnes <I>las</I>  tiene aborrecidas mi alma

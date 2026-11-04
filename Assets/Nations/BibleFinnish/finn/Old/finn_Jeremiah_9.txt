@@ -7,9 +7,9 @@
 "Sentähden sanoo Herra Zebaot näin
 "Heidän petolliset kielensä ovat murhanuolet; suullansa he puhuvat lähimmäisensä kanssa ystävällisesti, vaan sydämessänsä he väijyvät häntä."
 "Eikö minun sentähden pitäisi rankaiseman heitä, sanoo Herra? ja eikö minun sieluni pitäisi kostaman senkaltaiselle kansalle kuin tämä on?"
-"Minä itken ja surkuttelen vuorilla, ja valitan korvessa laitumilla; sillä he ovat peräti hajoitetut, niin ettei siitä enään kenkään vaella, ei myös siellä kuulu karjan ääntä; taivaan linnut ja kaikki karja ovat jo lentäneet ja menneet pois."
+"Minä itken ja surkuttelen vuorilla, ja valitan korvessa laitumilla; sillä he ovat peräti hajoitetut, niin ettei siitä enään kenkään #vaella, ei myös siellä kuulu karjan ääntä; taivaan linnut ja kaikki karja ovat jo lentäneet ja menneet pois."
 "Ja minä teen Jerusalemin kiviraunioksi, ja lohikärmeiden pesäksi; ja minä hävitän Juudan kaupungit, niin ettei niissä yhtäkään pidä asuman."
-"Joka viisas olis, hän ajattelis sitä, ja ilmoittais, mitä Herran suu hänelle sanoo. Minkätähden siis maa niin hukutetuksi ja hävitetyksi tulee, että se on niinkuin erämaa, josta ei yksikään vaella?"
+"Joka viisas olis, hän ajattelis sitä, ja ilmoittais, mitä Herran suu hänelle sanoo. Minkätähden siis maa #niin hukutetuksi ja hävitetyksi tulee, että se on niinkuin erämaa, josta ei yksikään vaella?"
 "Ja Herra sanoi
 "Vaan seuraavat oman sydämensä tahtoa ja Baalia, niinkuin heidän isänsä heitä opettaneet ovat."
 "Sentähden näin sanoo Herra Zebaot, Israelin Jumala
@@ -21,6 +21,6 @@
 "Kuolema on tullut meidän akkunoistamme sisälle ja meidän huoneisiimme langennut, lapsia kaduilla tappamaan ja nuorukaisia kujilla."
 "Näin sanoo Herra
 "Näin sanoo Herra
-"Vaan joka tahtoo kerskata, niin kerskatkaan siitä, että hän tietää ja tuntee minun, että minä olen Herra, joka teen laupiuden, oikeuden ja vanhurskauden maan päällä; sillä se minulle kelpaa, sanoo Herra."
+"Vaan joka tahtoo kerskata, niin kerskatkaan siitä, että hän tietää ja tuntee minun, että minä olen #Herra, joka teen laupiuden, oikeuden ja vanhurskauden maan päällä; sillä se minulle kelpaa, sanoo Herra."
 "Katso, se aika tulee, sanoo Herra, että minä rankaisen kaikki ympärileikatut ympärileikkaamattomain kanssa
-"Egyptin, Juudan, Edomin, Ammonin lapset, ja Moabin ja kaikki, jotka maan äärissä korvessa asuvat; sillä kaikilla pakanoilla on ympärileikkaamatoin esinahka, mutta koko Israelin huoneella on ympärileikkaamatoin sydän."
+"Egyptin, Juudan, Edomin, Ammonin lapset, ja Moabin ja kaikki, jotka maan äärissä korvessa asuvat; #sillä kaikilla pakanoilla on ympärileikkaamatoin esinahka, mutta koko Israelin huoneella on ympärileikkaamatoin sydän."

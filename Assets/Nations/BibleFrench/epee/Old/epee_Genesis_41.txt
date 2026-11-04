@@ -9,7 +9,7 @@
 "Alors le chef intendant parla à Pharaon, en disant
 "Lorsque Pharaon se mit en colère contre ses serviteurs, et me fit mettre en prison, dans la maison du chef des gardes, moi et le chef boulanger."
 "Alors nous avions fait, lui et moi, un songe dans une même nuit; et chacun de nous reçut une explication en rapport avec le songe qu'il avait eu."
-"Or, il y avait là avec nous un jeune homme hébreu, serviteur du chef des gardes; et nous lui avons raconté nos songes, et il nous les interpréta; il donna à chacun une interprétation d'après son songe."
+"Or, il y avait là avec nous un jeune homme hébreu, serviteur du chef des gardes; et nous lui #avons raconté nos songes, et il nous les interpréta; il donna à chacun une interprétation d'après son songe."
 "Et la chose arriva comme il nous l'avait interprétée
 "Alors Pharaon envoya appeler Joseph, et on le fit sortir en hâte de la prison; on le rasa, on le fit changer de vêtements, et il vint vers Pharaon."
 "Et Pharaon dit à Joseph
@@ -42,10 +42,10 @@
 "Alors Pharaon ôta son anneau de sa main, et le mit à la main de Joseph; et il le fit revêtir d'habits de fin lin, et lui mit un collier d'or au cou."
 "Et il le fit monter sur son second char; et l'on criait devant lui
 "Et Pharaon dit à Joseph
-"Et Pharaon appela Joseph du nom de Tsophnath-Panéach (révélateur de secrets), et il lui donna pour femme Asnath, fille de Potiphéra, prêtre d'On (Héliopolis). Et Joseph alla visiter le pays d'Égypte."
+"Et Pharaon appela Joseph du nom de Tsophnath-Panéach (révélateur de secrets), et il lui donna pour #femme Asnath, fille de Potiphéra, prêtre d'On (Héliopolis). Et Joseph alla visiter le pays d'Égypte."
 "Or, Joseph était âgé de trente ans, quand il se présenta devant Pharaon, roi d'Égypte. Joseph sortit donc de devant Pharaon, et parcourut tout le pays d'Égypte."
 "Et la terre rapporta à pleines mains durant les sept années d'abondance."
-"Et Joseph rassembla tous les vivres des sept années, qu'il y eut au pays d'Égypte; et il mit les vivres dans les villes; il mit dans l'intérieur de chaque ville les vivres du territoire qui l'environnait."
+"Et Joseph rassembla tous les vivres des sept années, qu'il y eut au pays d'Égypte; et il mit les #vivres dans les villes; il mit dans l'intérieur de chaque ville les vivres du territoire qui l'environnait."
 "Et Joseph amassa une grande quantité de froment, comme le sable de la mer; tellement qu'on cessa de le compter, parce qu'il était sans nombre."
 "Or, avant qu'arrivât l'année de famine, il naquit à Joseph deux fils, qu'Asnath, fille de Potiphéra, prêtre d'On, lui enfanta."
 "Et Joseph nomma le premier-né Manassé (celui qui fait oublier); car Dieu, dit-il, m'a fait oublier toute ma peine, et toute la maison de mon père."

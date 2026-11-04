@@ -5,7 +5,7 @@
 "I rzekłem do króla
 "Nadto rzekł mi król (a królowa siedziała podle niego)
 "Zatemem rzekł do króla
-"I list do Asafa, dozorcy lasów królewskich, aby mi dał drzewa na przykrycie bram pałacu przy domu Bożym, i na mur miejski, i na dom, do którego wnijdę. I dał mi król listy według ręki Boga mego łaskawej nademną."
+"I list do Asafa, dozorcy lasów królewskich, aby mi dał drzewa na przykrycie bram pałacu przy domu Bożym, i na #mur miejski, i na dom, do którego wnijdę. I dał mi król listy według ręki Boga mego łaskawej nademną."
 "A gdym przyszedł do starostów za rzeką, oddałem im listy królewskie. Posłał też był ze mną król rotmistrzów i jezdnych
 "Co gdy usłyszał Sanballat Horonitczyk, i Tobijasz, sługa Ammonitczyk, bardzo ich to mierziało, że przyszedł człowiek, który się starał o dobro synów Izraelskich."
 "Zatem przyszedłszy do Jeruzalemu, mieszkałem tam przez trzy dni."

@@ -5,7 +5,7 @@
 "Wstali więc o zmierzchu, aby przejść do obozu Syryjczyków. A gdy dotarli do krańca obozu Syryjczyków, oto nikogo tam nie było."
 "PAN bowiem sprawił, że w obozie Syryjczyków słychać było turkot rydwanów, tętent koni i gwar wielkiego wojska. Mówili jeden do drugiego
 "Wstali więc i uciekli o zmierzchu, zostawiając swoje namioty, swoje konie i osły – cały obóz tak, jak był, i uciekli, aby ratować swoje życie."
-"A gdy trędowaci dotarli do krańca obozu, weszli do jednego namiotu, jedli, pili, wynieśli stamtąd srebro, złoto i szaty, po czym poszli i ukryli to. Następnie wrócili, weszli do drugiego namiotu, również wynieśli stamtąd łup, odeszli i ukryli go."
+"A gdy trędowaci dotarli do krańca obozu, weszli do jednego namiotu, jedli, pili, wynieśli stamtąd srebro, złoto i szaty, po #czym poszli i ukryli to. Następnie wrócili, weszli do drugiego namiotu, również wynieśli stamtąd łup, odeszli i ukryli go."
 "Wtedy powiedzieli jeden do drugiego
 "Przyszli więc i zawołali na strażnika bramy miejskiej. Powiedzieli im
 "Wtedy zawołał on innych strażników, a ci opowiedzieli o tym we wnętrzu domu króla."

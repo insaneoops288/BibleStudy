@@ -6,7 +6,7 @@
 "Nguni't may isang ulap na napaitaas buhat sa lupa at dinilig ang buong ibabaw ng lupa."
 "At nilalang ng Panginoong Dios ang tao sa alabok ng lupa, at hiningahan ang kaniyang mga butas ng ilong ng hininga ng buhay; at ang tao ay naging kaluluwang may buhay."
 "At naglagay ang Panginoong Dios ng isang halamanan sa Eden, sa dakong silanganan
-"At pinatubo ng Panginoong Dios sa lupa ang lahat na punong kahoy na nakalulugod sa paningin, at mabubuting kanin; gayon din ang punong kahoy ng buhay sa gitna ng halamanan, at ang punong kahoy ng pagkakilala ng mabuti at masama."
+"At pinatubo ng Panginoong Dios sa lupa ang lahat na punong kahoy na nakalulugod sa paningin, at mabubuting kanin; gayon din #ang punong kahoy ng buhay sa gitna ng halamanan, at ang punong kahoy ng pagkakilala ng mabuti at masama."
 "At may isang ilog na lumabas sa Eden na dumilig sa halamanan; at mula roo'y nabahagi at nagapat na sanga."
 "Ang pangalan ng una ay Pison
 "At ang ginto sa lupang yao'y mabuti; mayroon din naman doong bedelio at batong onix."

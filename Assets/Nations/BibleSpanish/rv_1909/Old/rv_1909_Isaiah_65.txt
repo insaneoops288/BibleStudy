@@ -13,7 +13,7 @@
 "Por tanto así dijo el Señor Jehová
 "He aquí que mis siervos cantarán por júbilo del corazón, y vosotros clamaréis por el dolor del corazón, y por el quebrantamiento de espíritu aullaréis."
 "Y dejaréis vuestro nombre por maldición á mis escogidos, y el Señor Jehová te matará; y á sus siervos llamará por otro nombre."
-"El que se bendijere en la tierra, en el Dios de verdad se bendecirá; y el que jurare en la tierra, por el Dios de verdad jurará; porque las angustias primeras serán olvidadas, y serán cubiertas de mis ojos."
+"El que se bendijere en la tierra, en el Dios de verdad se bendecirá; y el que jurare en la #tierra, por el Dios de verdad jurará; porque las angustias primeras serán olvidadas, y serán cubiertas de mis ojos."
 "Porque he aquí que yo crío nuevos cielos y nueva tierra
 "Mas os gozaréis y os alegraréis por siglo de siglo en las cosas que yo crío
 "Y alegraréme con Jerusalem, y gozaréme con mi pueblo; y nunca más se oirán en ella voz de lloro, ni voz de clamor."

@@ -1,4 +1,4 @@
-"Niin oli myös vääriä prophetaita kansan seassa, niinkuin teidänkin sekaanne vääriä opettajia tulee, jotka vahingolliset eriseurat tuovat ja kieltävät sen Herran, joka heidät ostanut on, saattain itsellensä nopian kadotuksen,"
+"Niin oli myös vääriä prophetaita kansan seassa, niinkuin teidänkin sekaanne vääriä opettajia tulee, jotka vahingolliset #eriseurat tuovat ja kieltävät sen Herran, joka heidät ostanut on, saattain itsellensä nopian kadotuksen,"
 "Ja moni noudattaa heidän kadotustansa, joiden kautta totuuden tie pilkataan."
 "Ja ahneudesta ajatelluilla sanoilla pitää heidän teitä kauppaaman, joiden tuomio ei silleen kauvan viivy, eikä heidän kadotuksensa makaa."
 "Sillä jos ei Jumala armahtanut niitä enkeleitä, jotka syntiä tekivät, vaan on pimeyden kahleilla helvettiin syössyt, ja antoi ylön heidät tuomioon kätkettää,"
@@ -17,6 +17,6 @@
 "Ne ovat vedettömät lähteet ja pilvet, jotka tuulispäältä ympäri ajetaan, joille on kätketty synkiä pimeys ijankaikkisesti."
 "Sillä he puhuvat röyhkeitä sanoja, jotka turhat ovat, ja yllyttävät tavattomuuden kautta lihallisiin himoihin niitä, jotka tosin ovat niitä välttäneet, kuin eksyksissä vaeltavat,"
 "Ja lupaavat heille vapauden, vaikka he itse turmeluksen palveliat ovat; sillä jolta joku voitetaan, sen palvelia hän myös on."
-"Ja sittenkuin he ovat paenneet maailman saastaisuudesta Herran ja Vapahtajan Jesuksen Kristuksen tuntemiseen, niin he kuitenkin heitänsä niihin käärivät, ja voitetaan, ja on heille viimeinen pahemmaksi tullut kuin ensimäinen."
+"Ja sittenkuin he ovat paenneet maailman saastaisuudesta Herran ja Vapahtajan Jesuksen Kristuksen tuntemiseen, niin he #kuitenkin heitänsä niihin käärivät, ja voitetaan, ja on heille viimeinen pahemmaksi tullut kuin ensimäinen."
 "Sillä se olis heille parempi ollut, ettei he vanhurskauden tietä tunteneetkaan olisi, kuin että he tunsivat sen ja poikkesivat pois pyhästä käskystä, joka heille annettu oli."
 "Niille on tapahtunut se totinen sananlasku

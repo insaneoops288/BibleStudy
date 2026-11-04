@@ -3,7 +3,7 @@
 "I faraon zapytał jego braci
 "Powiedzieli jeszcze do faraona
 "Wtedy faraon powiedział do Józefa
-"Ziemia Egiptu jest przed tobą. W najlepszym miejscu tej ziemi osadź twego ojca i twoich braci, niech mieszkają w ziemi Goszen. A jeśli wiesz, że są wśród nich dzielni ludzie, uczyń ich przełożonymi nad moimi stadami."
+"Ziemia Egiptu jest przed tobą. W najlepszym miejscu tej ziemi osadź twego ojca i twoich braci, niech mieszkają w #ziemi Goszen. A jeśli wiesz, że są wśród nich dzielni ludzie, uczyń ich przełożonymi nad moimi stadami."
 "I Józef przyprowadził swego ojca Jakuba, i postawił go przed faraonem. A Jakub błogosławił faraona."
 "Faraon zapytał Jakuba
 "Jakub odpowiedział faraonowi
@@ -16,7 +16,7 @@
 "Józef na to odpowiedział
 "Przyprowadzili więc swoje bydła do Józefa; i Józef dał im chleb za konie, za trzody owiec, za stada wołów i za osły. W tym roku zaopatrywał ich w żywność w zamian za wszelkie ich bydło."
 "A gdy minął ten rok, przyszli do niego w następnym roku i powiedzieli
-"Dlaczego mamy umierać na twoich oczach, zarówno my, jak i nasza ziemia? Kupuj za chleb nas i nasze pole, a my i nasza ziemia będziemy w niewoli u faraona. Daj nam tylko ziarno, abyśmy żyli, a nie pomarli, i by ziemia nie opustoszała."
+"Dlaczego mamy umierać na twoich oczach, zarówno my, jak i nasza ziemia? Kupuj za chleb nas i nasze pole, a my i #nasza ziemia będziemy w niewoli u faraona. Daj nam tylko ziarno, abyśmy żyli, a nie pomarli, i by ziemia nie opustoszała."
 "I tak kupił Józef całą ziemię Egiptu dla faraona, bo każdy Egipcjanin sprzedał swoje pole, gdyż wzmógł się wśród nich głód. I cała ziemia stała się własnością faraona."
 "I przeniósł lud do miast, od jednego krańca Egiptu do drugiego."
 "Nie kupił tylko ziemi kapłanów, bo kapłani mieli żywność przydzieloną im przez faraona i żywili się swoją żywnością, którą dał im faraon. Dlatego nie sprzedali swej ziemi."

@@ -44,7 +44,7 @@
 "At muli niya silang iniwan, at umalis, at nanalangin bilang ikatlo, na sinabing muli ang gayon ding mga salita."
 "Nang magkagayo'y lumapit siya sa mga alagad, at sinabi sa kanila, Mangatulog na kayo, at mangagpahinga
 "Magsitindig kayo, hayo na tayo
-"At samantalang nagsasalita pa siya, narito, dumating si Judas, na isa sa labingdalawa, at kasama niya ang lubhang maraming taong may mga tabak at mga panghampas, mula sa mga pangulong saserdote at sa matatanda sa bayan."
+"At samantalang nagsasalita pa siya, narito, dumating si Judas, na isa sa labingdalawa, at kasama niya ang lubhang maraming #taong may mga tabak at mga panghampas, mula sa mga pangulong saserdote at sa matatanda sa bayan."
 "Ang nagkanulo nga sa kaniya ay nagbigay sa kanila ng isang hudyat, na sinasabi, Ang aking hagkan, ay yaon nga
 "At pagdaka'y lumapit siya kay Jesus, at nagsabi, Magalak, Rabi; at siya'y hinagkan."
 "At sinabi sa kaniya ni Jesus, Gawin mo ang dahil ng pagparito mo. Nang magkagayon ay nagsilapit sila at kanilang sinunggaban si Jesus, at siya'y kanilang dinakip."
@@ -52,7 +52,7 @@
 "Nang magkagayo'y sinabi sa kaniya ni Jesus, Isauli mo ang iyong tabak sa kaniyang lalagyan
 "O inaakala mo baga na hindi ako makapamamanhik sa aking Ama, at padadalhan niya ako ngayon din ng mahigit sa labingdalawang pulutong na mga anghel?"
 "Kung gayo'y paano bagang mangatutupad ang mga kasulatan, na ganyan ang nauukol na mangyari?"
-"Sa oras na yaon ay sinabi ni Jesus sa mga karamihan, Kayo baga'y nangagsilabas na waring laban sa isang tulisan, na may mga tabak at mga panghampas upang dakpin ako? Araw-araw ay nauupo ako sa templo na nagtuturo, at hindi ninyo ako dinakip."
+"Sa oras na yaon ay sinabi ni Jesus sa mga karamihan, Kayo baga'y nangagsilabas na waring laban sa isang tulisan, na may #mga tabak at mga panghampas upang dakpin ako? Araw-araw ay nauupo ako sa templo na nagtuturo, at hindi ninyo ako dinakip."
 "Datapuwa't nangyari ang lahat ng ito, upang mangatupad ang mga kasulatan ng mga propeta. Nang magkagayo'y iniwan siya ng lahat ng mga alagad, at nagsitakas."
 "At si Jesus ay dinala ng nagsihuli sa kaniya sa dakilang saserdoteng si Caifas, na doo'y nangagkakapisan ang mga eskriba at matatanda."
 "Datapuwa't si Pedro'y sumunod sa kaniya sa malayo, hanggang sa looban ng dakilang saserdote, at siya'y pumasok, at nakiumpok sa mga punong kawal, upang makita niya ang wakas."

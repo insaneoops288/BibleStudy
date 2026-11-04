@@ -15,12 +15,12 @@
 "Hanem azzal, a ki itt van velünk, [és] itt áll e mai napon az Úr elõtt, a mi Istenünk elõtt, és azzal is, a ki nincsen e mai napon itt velünk."
 "(Mert ti tudjátok miképen laktunk Égyiptomnak földén, és miképen jöttünk által a nemzetek között, a kiken általjöttetek."
 "És láttátok az õ undokságaikat és bálványaikat
-"Vajha ne lenne közöttetek férfi vagy asszony, nemzetség vagy törzs, a kinek szíve elforduljon e napon az Úrtól, a mi Istenünktõl, hogy elmenjen és szolgáljon e nemzetek isteneinek; vajha ne lenne köztetek méreg- és ürömtermõ gyökér!"
+"Vajha ne lenne közöttetek férfi vagy asszony, nemzetség vagy törzs, a kinek szíve elforduljon e napon az Úrtól, a #mi Istenünktõl, hogy elmenjen és szolgáljon e nemzetek isteneinek; vajha ne lenne köztetek méreg- és ürömtermõ gyökér!"
 "És ha lesz, a ki hallja ez esküvéses kötésnek ígéit, és boldognak állítja magát az õ szívében, ezt mondván
-"Nem akar majd az Úr annak megbocsátani, sõt felgerjed akkor az Úrnak haragja és búsulása az ilyen ember ellen, és rászáll arra minden átok, a mely meg van írva e könyvben, és eltörli az Úr annak nevét az ég alól."
+"Nem akar majd az Úr annak megbocsátani, sõt felgerjed akkor az Úrnak haragja és búsulása az ilyen ember ellen, és rászáll #arra minden átok, a mely meg van írva e könyvben, és eltörli az Úr annak nevét az ég alól."
 "És kiválasztja azt az Úr veszedelemre, Izráelnek minden törzse közül, a szövetségnek minden átka szerint, a melyek meg vannak írva e törvénykönyvben."
-"És ezt fogja mondani a következõ nemzedék, a ti fiaitok, a kik ti utánatok támadnak, és az idegen, a ki messze földrõl jön el, ha látni fogják e földnek csapásait és nyomorúságait, a melyekkel megnyomorította azt az Úr
-"Kénkõ és só égette ki egész földjét, be sem vethetõ, semmit nem terem, és semmi fû sem nevekedik rajta; olyan, mint Sodomának, Gomorának, Ádmának és Czeboimnak elsülyesztett helye, a melyeket elsülyesztett az Úr haragjában és búsulásában."
+"És ezt fogja mondani a következõ nemzedék, a ti fiaitok, a kik ti utánatok támadnak, és az idegen, a ki #messze földrõl jön el, ha látni fogják e földnek csapásait és nyomorúságait, a melyekkel megnyomorította azt az Úr
+"Kénkõ és só égette ki egész földjét, be sem vethetõ, semmit nem terem, és semmi fû sem nevekedik rajta; #olyan, mint Sodomának, Gomorának, Ádmának és Czeboimnak elsülyesztett helye, a melyeket elsülyesztett az Úr haragjában és búsulásában."
 "Azt fogják majd kérdezni mind a nemzetek
 "És ezt mondják majd
 "És elmentek, és szolgáltak idegen isteneket, és imádták azokat; [olyan] isteneket, a kiket nem ismertek volt és nem adott nékik [az Isten.]"

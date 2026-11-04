@@ -32,7 +32,7 @@
 "Si Pharaon a vu le songe se répéter une seconde fois, c'est que la chose est arrêtée de la part de Dieu, et que Dieu se hâtera de l'exécuter."
 "Maintenant, que Pharaon choisisse un homme intelligent et sage, et qu'il le mette à la tête du pays d'Egypte."
 "Que Pharaon établisse des commissaires sur le pays, pour lever un cinquième des récoltes de l'Egypte pendant les sept années d'abondance."
-"Qu'ils rassemblent tous les produits de ces bonnes années qui vont venir; qu'ils fassent, sous l'autorité de Pharaon, des amas de blé, des approvisionnements dans les villes, et qu'ils en aient la garde."
+"Qu'ils rassemblent tous les produits de ces bonnes années qui vont venir; qu'ils fassent, sous l'autorité de #Pharaon, des amas de blé, des approvisionnements dans les villes, et qu'ils en aient la garde."
 "Ces provisions seront en réserve pour le pays, pour les sept années de famine qui arriveront dans le pays d'Egypte, afin que le pays ne soit pas consumé par la famine."
 "Ces paroles plurent à Pharaon et à tous ses serviteurs."
 "Et Pharaon dit à ses serviteurs
@@ -45,7 +45,7 @@
 "Pharaon appela Joseph du nom de Tsaphnath-Paenéach; et il lui donna pour femme Asnath, fille de Poti-Phéra, prêtre d'On. Et Joseph partit pour visiter le pays d'Egypte."
 "Joseph était âgé de trente ans lorsqu'il se présenta devant Pharaon, roi d'Egypte; et il quitta Pharaon, et parcourut tout le pays d'Egypte."
 "Pendant les sept années de fertilité, la terre rapporta abondamment."
-"Joseph rassembla tous les produits de ces sept années dans le pays d'Egypte; il fit des approvisionnements dans les villes, mettant dans l'intérieur de chaque ville les productions des champs d'alentour."
+"Joseph rassembla tous les produits de ces sept années dans le pays d'Egypte; il fit des #approvisionnements dans les villes, mettant dans l'intérieur de chaque ville les productions des champs d'alentour."
 "Joseph amassa du blé, comme le sable de la mer, en quantité si considérable que l'on cessa de compter, parce qu'il n'y avait plus de nombre."
 "Avant les années de famine, il naquit à Joseph deux fils, que lui enfanta Asnath, fille de Poti-Phéra, prêtre d'On."
 "Joseph donna au premier-né le nom de Manassé, car, dit-il, Dieu m'a fait oublier toutes mes peines et toute la maison de mon père."

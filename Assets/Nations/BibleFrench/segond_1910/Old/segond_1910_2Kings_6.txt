@@ -19,8 +19,8 @@
 "Elisée leur dit
 "Lorsqu'ils furent entrés dans Samarie, Elisée dit
 "Le roi d'Israël, en les voyant, dit à Elisée
-"Tu ne frapperas point, répondit Elisée; est-ce que tu frappes ceux que tu fais prisonniers avec ton épée et avec ton arc? Donne-leur du pain et de l'eau, afin qu'ils mangent et boivent; et qu'ils s'en aillent ensuite vers leur maître."
-"Le roi d'Israël leur fit servir un grand repas, et ils mangèrent et burent; puis il les renvoya, et ils s'en allèrent vers leur maître. Et les troupes des Syriens ne revinrent plus sur le territoire d'Israël."
+"Tu ne frapperas point, répondit Elisée; est-ce que tu frappes ceux que tu fais prisonniers avec ton épée et avec ton #arc? Donne-leur du pain et de l'eau, afin qu'ils mangent et boivent; et qu'ils s'en aillent ensuite vers leur maître."
+"Le roi d'Israël leur fit servir un grand repas, et ils mangèrent et burent; puis il les renvoya, et #ils s'en allèrent vers leur maître. Et les troupes des Syriens ne revinrent plus sur le territoire d'Israël."
 "Après cela, Ben-Hadad, roi de Syrie, ayant rassemblé toute son armée, monta et assiégea Samarie."
 "Il y eut une grande famine dans Samarie; et ils la serrèrent tellement qu'une tête d'âne valait quatre-vingts sicles d'argent, et le quart d'un kab de fiente de pigeon cinq sicles d'argent."
 "Et comme le roi passait sur la muraille, une femme lui cria

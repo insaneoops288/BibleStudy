@@ -8,8 +8,8 @@
 "Autuas on se mies, jolle Jumala ei syntiä lue."
 "Lieneekö siis tämä autuus ainoastaan ympärileikkaukselle tullut, elikkä myös esinahalle? Niinpä me sanomme
 "Kuinkas se hänelle luettiin
-"Ja hän sai ympärileikkauksen merkin vahvistukseksi, että hän oli uskon kautta vanhurkaaksi tehty, joka hänellä esinahassa oli, että hänen piti oleman kaikkein uskovaisten isä esinahassa, että se niillekin vanhurskaudeksi luettaisiin,"
-"Ja hän tulis myös ympärileikkauksen isäksi, ei ainoasti niiden, jotka ympärileikatuista syntyneet ovat, mutta myös niiden, jotka sen uskon jälkiä vaeltavat, joka meidän isän Abrahamin esinahassa oli."
+"Ja hän sai ympärileikkauksen merkin vahvistukseksi, että hän oli uskon kautta vanhurkaaksi tehty, joka hänellä esinahassa #oli, että hänen piti oleman kaikkein uskovaisten isä esinahassa, että se niillekin vanhurskaudeksi luettaisiin,"
+"Ja hän tulis myös ympärileikkauksen isäksi, ei ainoasti niiden, jotka ympärileikatuista syntyneet ovat, mutta #myös niiden, jotka sen uskon jälkiä vaeltavat, joka meidän isän Abrahamin esinahassa oli."
 "Sillä se lupaus, että hänen piti maailman perilliseksi tuleman, ei ole Abrahamille eikä hänen siemenellensä lain kautta tapahtunut, vaan uskon vanhurskauden kautta."
 "Sillä jos ne, jotka laista ovat, ovat perilliset, niin usko on turha ja lupaus on hukkaan tullut."
 "Sillä laki kehoittaa vihan; sillä kussa ei lakia ole, ei siellä ole myös ylitsekäymistä."

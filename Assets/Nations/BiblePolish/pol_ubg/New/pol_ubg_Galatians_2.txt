@@ -1,5 +1,5 @@
 "Potem, po czternastu latach, udałem się ponownie do Jerozolimy wraz z Barnabą, wziąwszy ze sobą także Tytusa."
-"A udałem się tam zgodnie z objawieniem i przedstawiłem im ewangelię, którą głoszę wśród pogan, osobno zaś tym, którzy cieszą się uznaniem, aby się czasem nie okazało, że biegnę albo biegłem na próżno."
+"A udałem się tam zgodnie z objawieniem i przedstawiłem im ewangelię, którą głoszę wśród pogan, osobno zaś #tym, którzy cieszą się uznaniem, aby się czasem nie okazało, że biegnę albo biegłem na próżno."
 "Lecz nawet Tytusa, który był ze mną, nie zmuszono do obrzezania, mimo że był Grekiem;"
 "A to z powodu wprowadzonych fałszywych braci, którzy się wkradli, aby wyszpiegować naszą wolność, jaką mamy w Chrystusie Jezusie, aby nas zniewolić."
 "Nie ustąpiliśmy im ani na chwilę i nie poddaliśmy się, aby pozostała wśród was prawda ewangelii."
@@ -13,7 +13,7 @@
 "A razem z nim obłudnie postępowali i inni Żydzi, tak że i Barnaba dał się wciągnąć w tę ich obłudę."
 "Lecz gdy zobaczyłem, że nie postępują zgodnie z prawdą ewangelii, powiedziałem Piotrowi wobec wszystkich
 "My, którzy jesteśmy Żydami z urodzenia, a nie grzesznikami z pogan;"
-"Wiedząc, że człowiek nie jest usprawiedliwiony z uczynków prawa, ale przez wiarę w Jezusa Chrystusa, i my uwierzyliśmy w Jezusa Chrystusa, abyśmy byli usprawiedliwieni z wiary Chrystusa, a nie z uczynków prawa, dlatego że z uczynków prawa nie będzie usprawiedliwione żadne ciało."
+"Wiedząc, że człowiek nie jest usprawiedliwiony z uczynków prawa, ale przez wiarę w Jezusa Chrystusa, i my uwierzyliśmy w Jezusa Chrystusa, abyśmy #byli usprawiedliwieni z wiary Chrystusa, a nie z uczynków prawa, dlatego że z uczynków prawa nie będzie usprawiedliwione żadne ciało."
 "A jeśli my, szukając usprawiedliwienia w Chrystusie, sami okazaliśmy się grzesznikami, to czy Chrystus jest sługą grzechu? Nie daj Boże!"
 "Jeśli bowiem na nowo buduję to, co zburzyłem, samego siebie czynię przestępcą."
 "Bo ja przez prawo umarłem dla prawa, abym żył dla Boga."

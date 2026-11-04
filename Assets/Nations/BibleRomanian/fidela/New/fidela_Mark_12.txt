@@ -1,4 +1,4 @@
-"Și a început să le vorbească în parabole. Un [anumit] om a sădit o vie și a pus o îngrăditură împrejur și a săpat un teasc și a zidit un turn și a arendat-o unor viticultori și a plecat într-o țară îndepărtată."
+"Și a început să le vorbească în parabole. Un [anumit] om a sădit o vie și a pus o îngrăditură împrejur și #a săpat un teasc și a zidit un turn și a arendat-o unor viticultori și a plecat într-o țară îndepărtată."
 "Și la timpul cuvenit a trimis un rob la viticultori, ca să primească de la viticultori din rodul viei."
 "Și ei [l]-au prins și l-au bătut și [l]-au trimis fără nimic."
 "Și el, din nou, a trimis alt rob la ei; iar ei au aruncat cu pietre în el și [l]-au rănit la cap și [l]-au trimis ocărât."
@@ -30,7 +30,7 @@
 "Și să iubești pe Domnul Dumnezeul tău cu toată inima ta și cu tot sufletul tău și cu toată mintea ta și cu toată tăria ta; aceasta [este] prima poruncă."
 "Și a doua [este] asemănătoare, [adică] aceasta
 "Și scribul i-a spus
-"Și a-l iubi cu toată inima și cu toată înțelegerea și cu tot sufletul și cu toată tăria și a-l iubi pe aproapele [său] ca pe sine însuși, este mai mult decât toate ofrandele arse în întregime și sacrificiile."
+"Și a-l iubi cu toată inima și cu toată înțelegerea și cu tot sufletul și cu toată tăria și a-l #iubi pe aproapele [său] ca pe sine însuși, este mai mult decât toate ofrandele arse în întregime și sacrificiile."
 "Și când Isus a văzut că el a răspuns cu pricepere, i-a spus
 "Și, în timp ce [îi] învăța în templu, Isus a răspuns și a zis
 "Fiindcă însuși David a spus prin Duhul Sfânt

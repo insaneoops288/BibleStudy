@@ -4,4 +4,4 @@
 "Boże! wysłuchaj modlitwę moję; przyjmij w uszy słowa ust moich."
 "Albowiem obcy powstali przeciwko mnie, a okrutnicy szukają duszy mojej, nie stawiając sobie Boga przed oczyma swemi. Sela."
 "Oto Bóg jest pomocnikiem moim
-"Oddaj złym nieprzyjaciołom moim, w prawdzie twojej wytrać ich, o Panie! Tedyć dobrowolnie będę ofiarował; będę wysławiał imię twoje, Panie! przeto, że jest dobre; Gdyż z każdego utrapienia wyrwałeś mię, a pomstę nad nieprzyjaciołmi mymi oglądało oko moje."
+"Oddaj złym nieprzyjaciołom moim, w prawdzie twojej wytrać ich, o Panie! Tedyć dobrowolnie będę ofiarował; będę wysławiał imię twoje, Panie! #przeto, że jest dobre; Gdyż z każdego utrapienia wyrwałeś mię, a pomstę nad nieprzyjaciołmi mymi oglądało oko moje."

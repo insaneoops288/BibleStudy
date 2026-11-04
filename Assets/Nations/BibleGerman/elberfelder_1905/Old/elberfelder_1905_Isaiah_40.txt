@@ -6,10 +6,10 @@
 "Stimme eines Sprechenden
 "Das Gras ist verdorrt, die Blume ist abgefallen; denn der Hauch Jehovas hat sie angeweht. Fürwahr, das Volk ist Gras."
 "Das Gras ist verdorrt, die Blume ist abgefallen; aber das Wort unseres Gottes besteht in Ewigkeit."""
-"Auf einen hohen Berg steige hinauf, Zion, du Verkündigerin froher Botschaft; erhebe mit Macht deine Stimme, Jerusalem, du Verkündigerin froher Botschaft! Erhebe sie, fürchte dich nicht; sprich zu den Städten Judas
+"Auf einen hohen Berg steige hinauf, Zion, du Verkündigerin froher Botschaft; erhebe mit Macht deine Stimme, #Jerusalem, du Verkündigerin froher Botschaft! Erhebe sie, fürchte dich nicht; sprich zu den Städten Judas
 "Siehe da, euer Gott! Siehe, der Herr, Jehova, kommt mit Kraft, und sein Armübt Herrschaft für ihn; siehe, sein Lohn ist bei ihm, und seine Vergeltung geht vor ihm her."
 "Er wird seine Herde weiden wie ein Hirt, die Lämmer wird er in seinen Arm nehmen und in seinem Busen tragen, die Säugenden wird er sanft leiten."
-"Wer hat die Wasser gemessen mit seiner hohlen Hand und die Himmel abgegrenzt mit der Spanne, und hat den Staub der Erde in ein Maß gefaßt, und die Berge mit der Waage gewogen und die Hügel mit Waagschalen?"
+"Wer hat die Wasser gemessen mit seiner hohlen Hand und die Himmel abgegrenzt mit der Spanne, und hat den Staub #der Erde in ein Maß gefaßt, und die Berge mit der Waage gewogen und die Hügel mit Waagschalen?"
 "Wer hat den Geist Jehovas gelenkt, und wer, als sein Ratgeber, ihn unterwiesen?"
 "Mit wem beriet er sich, daß er ihm Verstand gegeben und ihn belehrt hätteüber den Pfad des Rechts, und ihn Erkenntnis gelehrt und ihm den Weg der Einsicht kundgemacht hätte?"
 "Siehe, Nationen sind geachtet wie ein Tropfen am Eimer und wie ein Sandkorn auf der Waagschale. Siehe, Inseln sind wie ein Stäubchen, das emporschwebt."

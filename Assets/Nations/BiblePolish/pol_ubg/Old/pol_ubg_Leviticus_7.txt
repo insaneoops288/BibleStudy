@@ -15,7 +15,7 @@
 "Mięso z dziękczynnej ofiary pojednawczej należy spożyć w dniu składania jego ofiary; nic z niego nie zostawią do rana."
 "A jeśli jego ofiara jest darem ślubowanym lub dobrowolnym, należy ją spożyć w dniu jej złożenia; a to, co z niej zostanie, spożyją nazajutrz."
 "Lecz jeśli coś z mięsa tej ofiary zostanie do trzeciego dnia, będzie spalone w ogniu."
-"A jeśli ktoś zje mięso tej ofiary pojednawczej trzeciego dnia, nie zostanie przyjęta ani nie zostanie policzona temu, który ją złożył. Będzie to obrzydliwością, a kto ją spożyje, będzie obciążony nieprawością."
+"A jeśli ktoś zje mięso tej ofiary pojednawczej trzeciego dnia, nie zostanie przyjęta ani nie zostanie #policzona temu, który ją złożył. Będzie to obrzydliwością, a kto ją spożyje, będzie obciążony nieprawością."
 "Mięso, które dotknie czegoś nieczystego, nie będzie spożywane, ale zostanie spalone w ogniu. Inne mięso zaś może jeść każdy, kto jest czysty."
 "A ktokolwiek spożyje mięso z ofiary pojednawczej, która należy do PANA, będąc nieczysty, to taki człowiek zostanie wykluczony ze swego ludu."
 "A kto dotknie czegoś nieczystego

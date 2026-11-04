@@ -18,7 +18,7 @@
 "De sus lados salían seis brazos; tres brazos de un lado del candelero, y otros tres brazos del otro lado del candelero
 "En un brazo, tres copas figura de flor de almendro, una manzana y una flor; y en el otro brazo tres copas figura de flor de almendro, una manzana y una flor
 "Y en el candelero había cuatro copas figura de flor de almendro, sus manzanas y sus flores,"
-"y una manzana debajo de los dos brazos de lo mismo, y otra manzana debajo de los otros dos brazos de lo mismo, y otra manzana debajo de los otros dos brazos de lo mismo, conforme a los seis brazos que salían de él."
+"y una manzana debajo de los dos brazos de lo mismo, y otra manzana debajo de los otros dos brazos de lo mismo, #y otra manzana debajo de los otros dos brazos de lo mismo, conforme a los seis brazos que salían de él."
 "Sus manzanas y sus brazos eran de lo mismo; todo era una pieza labrada a martillo, de oro puro."
 "Hizo asimismo sus siete candilejas, y sus despabiladeras, y sus platillos, de oro puro;"
 "de un talento de oro puro lo hizo, con todos sus vasos."

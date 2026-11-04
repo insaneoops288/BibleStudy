@@ -13,7 +13,7 @@
 "Albowiem nie przez zakon się stała obietnica Abrahamowi albo nasieniu jego, aby był dziedzicem świata, ale przez sprawiedliwość wiary."
 "Bo jeźli ci, którzy są z zakonu, dziedzicami są, tedyć zniszczała wiara i wniwecz się obróciła obietnica."
 "Gdyż zakon gniew sprawuje; albowiem gdzie zakonu nie masz, tam ani przestępstwa."
-"Przetoż z wiary jest dziedzictwo, aby było z łaski, i żeby była warowna obietnica wszystkiemu nasieniu, nie tylko temu, które jest z zakonu, ale i temu, które jest z wiary Abrahamowej, który jest ojcem nas wszystkich;"
+"Przetoż z wiary jest dziedzictwo, aby było z łaski, i żeby była warowna obietnica wszystkiemu nasieniu, nie tylko temu, #które jest z zakonu, ale i temu, które jest z wiary Abrahamowej, który jest ojcem nas wszystkich;"
 "(Jako napisano
 "Który (Abraham) przeciwko nadziei w nadzieję uwierzył, że się stanie ojcem wielu narodów według tego, co mu powiedziano
 "A nie będąc słabym w wierze, nie patrzył na ciało swoje już obumarłe, mając około stu lat, ani na obumarły żywot Sary."

@@ -30,7 +30,7 @@
 "I kłaść będziesz na ten stół chleby pokładne przed twarz moję ustawicznie."
 "Urobisz też świecznik ze złota szczerego, z ciągnionego złota będzie świecznik ten; słupiec jego, pręty jego, czaszki jego, gałki jego, i kwiaty jego, z tegoż będą."
 "A sześć prętów wychodzić będzie ze stron jego
-"Trzy czaszki na kształt orzecha migdałowego na pręcie jednym, także gałka i kwiat; i trzy czaszki na kształt orzecha migdałowego na pręcie drugim, także gałka i kwiat; tak będzie na wszystkich sześciu prętach, wychodzących ze świecznika."
+"Trzy czaszki na kształt orzecha migdałowego na pręcie jednym, także gałka i kwiat; i trzy czaszki na kształt orzecha #migdałowego na pręcie drugim, także gałka i kwiat; tak będzie na wszystkich sześciu prętach, wychodzących ze świecznika."
 "Ale na świeczniku będą cztery czaszki na kształt orzecha migdałowego, gałki jego, i kwiaty jego."
 "I będzie gałka pod dwiema prętami z niego, także gałka pod drugiemi dwiema prętami jego, i zaś gałka pod innemi dwiema prętami jego
 "Gałki ich, i pręty ich z niego będą; to wszystko całokowane z szczerego złota będzie."

@@ -7,7 +7,7 @@
 "De aceea astfel spune DOMNUL oștirilor
 "Limba lor [este] [precum ]o săgeată trasă, vorbește înșelăciune; [unul ]vorbește pașnic cu gura lui aproapelui său, dar în inima lui el își întinde cursa."
 "Să nu îi cercetez eu pentru acestea? spune DOMNUL; să nu fie sufletul meu răzbunat pe o națiune ca aceasta?"
-"Pentru munți voi ridica plânset și bocet; și o plângere pentru locuințele pustiei, deoarece sunt arse de tot, încât nimeni nu poate trece prin [ele]; nici nu se poate auzi vocea vitelor; deopotrivă pasărea cerurilor și fiara au fugit; s-au dus."
+"Pentru munți voi ridica plânset și bocet; și o plângere pentru locuințele pustiei, deoarece sunt arse de tot, încât nimeni nu #poate trece prin [ele]; nici nu se poate auzi vocea vitelor; deopotrivă pasărea cerurilor și fiara au fugit; s-au dus."
 "Și eu voi face Ierusalimul ruine [și] o vizuină de dragoni; și voi face cetățile lui Iuda un pustiu, fără vreun locuitor."
 "Cine [este] omul înțelept, ca să înțeleagă aceasta? Și [cui ]i-a vorbit gura DOMNULUI, ca să vestească aceasta, pentru ce a pierit țara [și ]a ars ca o pustie, încât nimeni nu trece prin ea?"
 "Și DOMNUL spune
@@ -23,4 +23,4 @@
 "Astfel spune DOMNUL
 "Ci cel ce se fălește să se fălească cu aceasta
 "Iată, vin zilele, spune DOMNUL, că [îi] voi pedepsi pe [toți] cei circumciși împreună cu cei necircumciși;"
-"Egiptul și Iuda și Edom și copiii lui Amon și Moab și toți [cei] din cele mai îndepărtate colțuri, care locuiesc în pustie, pentru că toate [aceste ]națiuni [sunt] necircumcise și toată casa lui Israel [este] necircumcisă în inimă."
+"Egiptul și Iuda și Edom și copiii lui Amon și Moab și toți [cei] din cele mai îndepărtate colțuri, care #locuiesc în pustie, pentru că toate [aceste ]națiuni [sunt] necircumcise și toată casa lui Israel [este] necircumcisă în inimă."

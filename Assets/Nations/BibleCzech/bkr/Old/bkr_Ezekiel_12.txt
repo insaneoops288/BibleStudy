@@ -1,10 +1,10 @@
 "I stalo se slovo Hospodinovo ke mně, řkoucí
 "Synu člověčí, u prostřed domu zpurného ty bydlíš, kteříž mají oči, aby viděli, však nevidí; uši mají, aby slyšeli, však neslyší, proto že dům zpurný jsou."
-"Protož ty, synu člověčí, připrav sobě to, s čím bys se stěhoval, a stěhuj se ve dne před očima jejich. Přestěhuješ se pak z místa svého na místo jiné před očima jejich, zdaby aspoň viděli; nebo dům zpurný jsou."
+"Protož ty, synu člověčí, připrav sobě to, s čím bys se stěhoval, a stěhuj se ve dne před očima jejich. #Přestěhuješ se pak z místa svého na místo jiné před očima jejich, zdaby aspoň viděli; nebo dům zpurný jsou."
 "Vynesa pak své věci, jakožto ty, s nimiž se stěhovati máš ve dne před očima jejich, vyjdi u večer před očima jejich, jako ti, kteříž se stěhují."
 "Před očima jejich prokopej sobě zed, a vynes skrze ni."
 "Před očima jejich na rameni nes, po tmě vynes, tvář svou přikrej, a nehleď na zemi; nebo za zázrak dal jsem tě domu Izraelskému."
-"I učinil jsem tak, jakž rozkázáno bylo. Věci své vynesl jsem, jakožto ty, s nimiž bych se stěhoval ve dne, u večer pak prokopal jsem sobě zed rukou; po tmě jsem je vynesl, na rameni nesa před očima jejich."
+"I učinil jsem tak, jakž rozkázáno bylo. Věci své vynesl jsem, jakožto ty, s nimiž bych se stěhoval ve dne, #u večer pak prokopal jsem sobě zed rukou; po tmě jsem je vynesl, na rameni nesa před očima jejich."
 "Opět stalo se slovo Hospodinovo ke mně ráno, řkoucí
 "Synu člověčí, zdaližť řekli dům Izraelský, dům ten zpurný
 "Rciž jim

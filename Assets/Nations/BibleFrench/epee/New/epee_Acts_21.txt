@@ -2,10 +2,10 @@
 "Et ayant trouvé un vaisseau qui passait en Phénicie, nous y montèrent, et nous partirent."
 "Puis, ayant découvert l'île de Cypre, et la laissant à gauche, nous firent route vers la Syrie, et nous abordèrent à Tyr, parce que le vaisseau y laissait sa charge."
 "Et ayant trouvé les disciples, nous y demeurèrent sept jours. Ils disaient par l'Esprit à Paul, de ne pas monter à Jérusalem."
-"Mais ces jours étant passés, nous sortirent pour partir, et ils nous accompagnèrent tous, avec leurs femmes et leurs enfants, jusque hors de la ville. Et nous mettant à genoux sur le rivage, nous firent la prière."
+"Mais ces jours étant passés, nous sortirent pour partir, et ils nous accompagnèrent tous, avec leurs femmes et leurs #enfants, jusque hors de la ville. Et nous mettant à genoux sur le rivage, nous firent la prière."
 "Et après nous être embrassés les uns les autres, nous montèrent sur le vaisseau; et ils retournèrent chez eux."
 "Achevant notre navigation, de Tyr nous vinrent à Ptolémaïs, et après avoir salué les frères, nous demeurèrent un jour avec eux."
-"Le lendemain, Paul et nous qui étions avec lui, étant partis, nous vinrent à Césarée; et étant entrés dans la maison de Philippe l'évangéliste, qui était l'un des sept diacres, nous logèrent chez lui."
+"Le lendemain, Paul et nous qui étions avec lui, étant partis, nous vinrent à Césarée; et étant entrés #dans la maison de Philippe l'évangéliste, qui était l'un des sept diacres, nous logèrent chez lui."
 "Il avait quatre filles vierges, qui prophétisaient."
 "Comme nous avons demeuré là plusieurs jours, un prophète, nommé Agabus, descendit de Judée."
 "Et étant venu vers nous, il prit la ceinture de Paul, et se liant les mains et les pieds, il dit
@@ -21,9 +21,9 @@
 "Or, ils ont été informés que tu enseignes à tous les Juifs qui sont parmi les Gentils, à renoncer à Moïse, en leur disant de ne pas circoncire les enfants, et de ne pas se conformer aux coutumes."
 "Que faut-il donc faire? Certainement la multitude se rassemblera; car ils entendront dire que tu es arrivé."
 "Fais donc ce que nous allons te dire
-"Prends-les avec toi, purifie-toi avec eux, et paye leur dépense, afin qu'ils puissent se faire raser la tête, et que tous sachent qu'il n'est rien de tout ce qu'ils ont entendu dire de toi, mais que tu continues à garder la loi."
-"Quant aux Gentils qui ont cru, nous avons décidé et nous leur avons écrit qu'ils ne devaient rien observer de semblable, mais se garder seulement de ce qui est sacrifié aux idoles, du sang d'animaux étouffés, et de la fornication."
-"Alors, Paul ayant pris ces hommes, et s'étant purifié avec eux, entra dans le temple le jour suivant, déclarant la durée des jours dans lesquels la purification s'accomplirait, et quand l'offrande serait présentée pour chacun d'eux."
+"Prends-les avec toi, purifie-toi avec eux, et paye leur dépense, afin qu'ils puissent se faire raser la tête, et que tous sachent #qu'il n'est rien de tout ce qu'ils ont entendu dire de toi, mais que tu continues à garder la loi."
+"Quant aux Gentils qui ont cru, nous avons décidé et nous leur avons écrit qu'ils ne devaient rien observer de semblable, #mais se garder seulement de ce qui est sacrifié aux idoles, du sang d'animaux étouffés, et de la fornication."
+"Alors, Paul ayant pris ces hommes, et s'étant purifié avec eux, entra dans le temple le jour suivant, déclarant #la durée des jours dans lesquels la purification s'accomplirait, et quand l'offrande serait présentée pour chacun d'eux."
 "Et comme les sept jours allaient être accomplis, les Juifs d'Asie, l'ayant vu dans le temple, émurent toute la multitude, et se saisirent de lui,"
 "En criant
 "Car ils avaient vu auparavant dans la ville avec lui, Trophime d'Éphèse, et ils croyaient que Paul l'avait mené dans le temple."

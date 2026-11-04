@@ -1,6 +1,6 @@
 "Jezusi, pra, gjashtë ditë përpara Pashkës, erdhii në Betani, ku banonte Llazari, ai që kishte vdekur dhe Jezusi e kishte ringjallur prej së vdekurish."
 "Dhe aty i shtruan një darkë
-"Atëherë Maria mori një liber vaj erëkëndshëm prej nardi të pastër shumë të kushtueshëm, vajosi me të këmbët e Jezusit dhe i fshiu këmbët e tij me flokët e saj; dhe shtëpia u mbush me erën e këtij vaji."
+"Atëherë Maria mori një liber vaj erëkëndshëm prej nardi të pastër shumë të kushtueshëm, vajosi me të këmbët e Jezusit #dhe i fshiu këmbët e tij me flokët e saj; dhe shtëpia u mbush me erën e këtij vaji."
 "Atëherë një nga dishepujt e tij, Juda Iskarioti, bir i Simonit, ai që do ta tradhtonte, tha
 "''Pse nuk u shit ky vaj për treqind denarë dhe t'u jepej fitimi të varfërve?''."
 "Por ai e tha këtë, jo se kujdesej për të varfrit, por sepse ishte vjedhës dhe, duke qenë se ai e mbante qesen, mbante ç'shtinin atje brenda."

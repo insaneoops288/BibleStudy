@@ -33,7 +33,7 @@
 "Pilate rentra dans le prétoire, appela Jésus, et lui dit
 "Jésus répondit
 "Pilate répondit
-"Mon royaume n'est pas de ce monde, répondit Jésus. Si mon royaume était de ce monde, mes serviteurs auraient combattu pour moi afin que je ne fusse pas livré aux Juifs; mais maintenant mon royaume n'est point d'ici-bas."
+"Mon royaume n'est pas de ce monde, répondit Jésus. Si mon royaume était de ce monde, mes serviteurs auraient combattu #pour moi afin que je ne fusse pas livré aux Juifs; mais maintenant mon royaume n'est point d'ici-bas."
 "Pilate lui dit
 "Pilate lui dit
 "Mais, comme c'est parmi vous une coutume que je vous relâche quelqu'un à la fête de Pâque, voulez-vous que je vous relâche le roi des Juifs?"

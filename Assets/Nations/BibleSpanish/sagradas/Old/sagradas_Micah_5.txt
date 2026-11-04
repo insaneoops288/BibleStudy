@@ -5,7 +5,7 @@
 "Y éste será <I>nuestra</I>  paz. Cuando Assur viniere a nuestra tierra, y cuando pisare nuestros palacios, entonces levantaremos contra él siete pastores, y ocho hombres principales;"
 "y comerán la tierra de Assur a cuchillo, y la tierra de Nimrod con sus espadas; y nos librará del asirio, cuando viniere contra nuestra tierra y hollare nuestros términos."
 "Y será el remanente de Jacob en medio de muchos pueblos, como el rocío del SEÑOR, como las lluvias sobre la hierba, las cuales no esperaba <I>ya</I>  varón, ni esperaban hijos de hombres."
-"Y será el remanente de Jacob entre los gentiles, en medio de muchos pueblos, como el león entre las bestias de la montaña, como el cachorro del león entre las manadas de las ovejas, el cual si pasare, y hollare, y arrebatare,  no hay quien escape."
+"Y será el remanente de Jacob entre los gentiles, en medio de muchos pueblos, como el león entre las bestias de la montaña, como #el cachorro del león entre las manadas de las ovejas, el cual si pasare, y hollare, y arrebatare,  no hay quien escape."
 "Tu mano se alzará sobre tus enemigos, y todos tus adversarios serán talados."
 "Y acontecerá en aquel día, dijo el SEÑOR, que haré matar tus caballos de en medio de ti, y haré destruir tus carros."
 "Y haré destruir las ciudades de tu tierra, y haré destruir todas tus fortalezas."

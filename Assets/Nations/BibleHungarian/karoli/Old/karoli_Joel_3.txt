@@ -1,7 +1,7 @@
 "Mert ímé, azokon a napokon és abban az idõben, a mikor meghozom Júda és Jeruzsálem fogságát
-"Egybegyûjtöm akkor mind a pogányokat, és levezetem õket a Josafát völgyébe, és perbe szállok ott velök, az én népemért és örökségemért, az Izráelért, a melyet szétszórtak a pogányok közé, és megosztoztak az én földemen;"
+"Egybegyûjtöm akkor mind a pogányokat, és levezetem õket a Josafát völgyébe, és perbe szállok ott velök, az én #népemért és örökségemért, az Izráelért, a melyet szétszórtak a pogányok közé, és megosztoztak az én földemen;"
 "Népemre pedig sorsot vetettek; a fiút szajháért adták oda, a leányt pedig borért cserélték el, hogy ihassanak."
-"Sõt néktek is mi közötök velem, Tírus, Sidon és Filiszteának egész környéke?! Vajjon bosszút állani [jöttök-]é reám? Ha bosszút akarnátok rajtam állani, nagy hirtelen fejetekre fordítom vissza bosszútokat!"
+"Sõt néktek is mi közötök velem, Tírus, Sidon és Filiszteának egész környéke?! Vajjon bosszút állani #[jöttök-]é reám? Ha bosszút akarnátok rajtam állani, nagy hirtelen fejetekre fordítom vissza bosszútokat!"
 "Mivelhogy elraboltátok ezüstömet és aranyomat, és legszebb kincsemet templomaitokba vittétek;"
 "És a Júda fiait és Jeruzsálem fiait eladtátok a Jávánok fiainak, hogy messze vessétek õket határaiktól
 "Ímé, kiindítom õket a helybõl, a hova eladtátok õket, és fejetekre fordítom vissza bosszútokat."

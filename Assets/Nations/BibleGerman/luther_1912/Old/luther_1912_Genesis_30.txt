@@ -29,10 +29,10 @@
 "Er aber sprach zu ihm
 "Du hattest wenig, ehe ich her kam, nun aber ist's ausgebreitet in die Menge, und der HERR hat dich gesegnet durch meinen Fuß. Und nun, wann soll ich auch mein Haus versorgen?"
 "Er aber sprach
-"Ich will heute durch alle deine Herden gehen und aussondern alle gefleckten und bunten Schafe und alle schwarzen Schafe und die bunten und gefleckten Ziegen. Was nun bunt und gefleckt fallen wird, das soll mein Lohn sein.{~}"
-"So wird meine Gerechtigkeit zeugen heute oder morgen, wenn es kommt, daß ich meinen Lohn von dir nehmen soll; also daß, was nicht gefleckt oder bunt unter den Ziegen und nicht schwarz sein wird unter den Lämmern, das sei ein Diebstahl bei mir."
+"Ich will heute durch alle deine Herden gehen und aussondern alle gefleckten und bunten Schafe und alle schwarzen Schafe #und die bunten und gefleckten Ziegen. Was nun bunt und gefleckt fallen wird, das soll mein Lohn sein.{~}"
+"So wird meine Gerechtigkeit zeugen heute oder morgen, wenn es kommt, daß ich meinen Lohn von dir nehmen soll; also daß, was #nicht gefleckt oder bunt unter den Ziegen und nicht schwarz sein wird unter den Lämmern, das sei ein Diebstahl bei mir."
 "Da sprach Laban
-"Und sonderte des Tages die sprenkligen und bunten Böcke und alle gefleckten und bunten Ziegen, wo nur was Weißes daran war, und alles, was schwarz war unter den Lämmern, und tat's unter die Hand seiner Kinder"
+"Und sonderte des Tages die sprenkligen und bunten Böcke und alle gefleckten und bunten Ziegen, wo nur was Weißes #daran war, und alles, was schwarz war unter den Lämmern, und tat's unter die Hand seiner Kinder"
 "und machte Raum drei Tagereisen weit zwischen sich und Jakob. Also weidete Jakob dieübrigen Herden Labans."
 "Jakob aber nahm Stäbe von grünen Pappelbäumen, Haseln und Kastanien und schälte weiße Streifen daran, daß an den Stäben das Weiß bloß ward,"
 "und legte die Stäbe, die er geschält hatte, in die Tränkrinnen vor die Herden, die kommen mußten, zu trinken, daß sie da empfangen sollten, wenn sie zu trinken kämen.{~}"

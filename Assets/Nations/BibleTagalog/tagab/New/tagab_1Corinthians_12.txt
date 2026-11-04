@@ -1,6 +1,6 @@
 "Ngayong tungkol sa mga kaloob na ayon sa espiritu, mga kapatid, ay hindi ko ibig na hindi kayo makaalam."
 "Nalalaman ninyo na nang kayo'y mga Gentil pa, ay iniligaw kayo sa mga piping diosdiosan, sa alin mang paraang pagkahatid sa inyo."
-"Kaya't ipinatatalastas ko sa inyo, na wala sinomang nagsasalita sa pamamagitan ng Espiritu ng Dios ay nagsasabi, Si Jesus ay itinakwil; at wala sinoman ay makapagsasabi, Si Jesus ay Panginoon kundi sa pamamagitan ng Espiritu Santo."
+"Kaya't ipinatatalastas ko sa inyo, na wala sinomang nagsasalita sa pamamagitan ng Espiritu ng Dios ay nagsasabi, Si Jesus #ay itinakwil; at wala sinoman ay makapagsasabi, Si Jesus ay Panginoon kundi sa pamamagitan ng Espiritu Santo."
 "Ngayo'y may iba't ibang mga kaloob, datapuwa't iisang Espiritu."
 "At may iba't ibang mga pangangasiwa, datapuwa't iisang Panginoon."
 "At may iba't ibang paggawa, datapuwa't iisang Dios na gumagawa ng lahat ng mga bagay sa lahat."
@@ -20,12 +20,12 @@
 "Datapuwa't maraming mga sangkap nga, nguni't iisa ang katawan."
 "At hindi makapagsasabi ang mata sa kamay, Hindi kita kinakailangan
 "Hindi, kundi lalo pang kailangan yaong mga sangkap ng katawan na wari'y lalong mahihina
-"At yaong mga sangkap ng katawan, na inaakala nating kakaunti ang kapurihan, sa mga ito ipinagkakaloob natin ang lalong saganang papuri; at ang mga sangkap nating mga pangit ay siyang may lalong saganang kagandahan;"
+"At yaong mga sangkap ng katawan, na inaakala nating kakaunti ang kapurihan, sa mga ito ipinagkakaloob natin ang #lalong saganang papuri; at ang mga sangkap nating mga pangit ay siyang may lalong saganang kagandahan;"
 "Yamang ang mga sangkap nating magaganda ay walang kailangan
 "Upang huwag magkaroon ng pagkakabahabahagi sa katawan; kundi ang mga sangkap ay mangagkaroon ng magkasing-isang pagiingat sa isa't isa."
-"At kung ang isang sangkap ay nagdaramdam, ang lahat ng mga sangkap ay nangagdaramdam na kasama niya; o kung ang isang sangkap ay nagkakapuri, ang lahat ng mga sangkap ay nangagagalak na kasama niya."
+"At kung ang isang sangkap ay nagdaramdam, ang lahat ng mga sangkap ay nangagdaramdam na kasama niya; o #kung ang isang sangkap ay nagkakapuri, ang lahat ng mga sangkap ay nangagagalak na kasama niya."
 "Kayo nga ang katawan ni Cristo, at bawa't isa'y samasamang mga sangkap niya."
-"At ang Dios ay naglagay ng ilan sa iglesia, una-una'y mga apostol, ikalawa'y mga propeta, ikatlo'y mga guro, saka mga himala, saka mga kaloob na pagpapagaling, mga pagtulong, mga pamamahala, at iba't ibang mga wika."
+"At ang Dios ay naglagay ng ilan sa iglesia, una-una'y mga apostol, ikalawa'y mga propeta, ikatlo'y mga guro, #saka mga himala, saka mga kaloob na pagpapagaling, mga pagtulong, mga pamamahala, at iba't ibang mga wika."
 "Lahat baga'y mga apostol? lahat baga'y mga propeta? lahat baga'y mga guro? lahat baga'y mga manggagawa ng mga himala?"
 "May mga kaloob na pagpapagaling baga ang lahat? nangagsasalita baga ang lahat ng mga wika? lahat baga ay nangagpapaliwanag?"
 "Datapuwa't maningas ninyong nasain, ang lalong dakilang mga kaloob. At itinuturo ko sa inyo ang isang daang kagalinggalingan."

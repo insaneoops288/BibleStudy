@@ -16,6 +16,6 @@
 "Do të vajosësh gjithashtu Jehun, birin e Nimshit, mbret të Izraelit; do të vajosësh pastaj Eliseun, birin e Shafatit nga Abel-Melohahu, si profet në vendin tënd."
 "Kështu që ai që do të shpëtojë nga shpata e Hazaelit, do të vritet nga Jehu; dhe ai që do të shpëtojë nga shpata e Jehut, do të vritet nga Eliseu."
 "Por kam lënë në Izrael një tepricë prej shtatë mijë njerëzish; të gjithë nuk janë gjunjëzuar përpara Baalit dhe nuk e kanë puthur me buzët e tyre""."
-"Elia u nis që andej dhe gjeti Eliseun, birin e Shafatit, ndërsa lëronte me dymbëdhjetë pendë qe para tij, dhe ai vetë gjendej me pendën e dymbëdhjetë. Elia i kaloi afër dhe i hodhi sipër mantelin e tij."
+"Elia u nis që andej dhe gjeti Eliseun, birin e Shafatit, ndërsa lëronte me dymbëdhjetë pendë qe para tij, dhe #ai vetë gjendej me pendën e dymbëdhjetë. Elia i kaloi afër dhe i hodhi sipër mantelin e tij."
 "Atëherë Eliseu la qetë dhe vrapoi pas Elias, duke thënë
 "Me t'u larguar nga ai, Eliseu mori një pendë qe dhe i ofroi si flijim; me veglat e qeve poqi mishin dhe ua dhe njerëzve, që e hëngrën. Pastaj u ngrit, shkoi pas Elias dhe u vu në shërbim të tij."

@@ -20,9 +20,9 @@
 "Mbaj në dorën tënde para syve të tyre drurët mbi të cilët ke shkruar,"
 "dhe u thuaj atyre
 "dhe do të bëj një komb të vetëm prej tyre në vend, në malet e Izraelit; një mbret i vetëm do të mbretërojë mbi të gjithë ata; nuk do të jenë më dy kombe, as do të ndahen më në dy mbretëri."
-"Nuk do të ndoten më me idhujt e tyre, me veprimet e tyre të neveritshme dhe me gjithë shkeljet e tyre; do t'i çliroj nga të gjitha vendet ku kanë banuar dhe ku kanë kryer mëkate, dhe do t'i pastroj; kështu do të jenë populli im dhe unë do të jem Perëndia i tyre."
+"Nuk do të ndoten më me idhujt e tyre, me veprimet e tyre të neveritshme dhe me gjithë shkeljet e tyre; do t'i çliroj nga të gjitha vendet #ku kanë banuar dhe ku kanë kryer mëkate, dhe do t'i pastroj; kështu do të jenë populli im dhe unë do të jem Perëndia i tyre."
 "Shërbëtori im David do të jetë mbret mbi ta dhe do të ketë një bari të vetëm për të gjithë; ata do të ecin sipas dekreteve të mia, do të respektojnë statutet e mia dhe do t'i zbatojnë në praktikë."
-"Dhe do të banojnë në vendin që i dhashë shërbëtorit tim Jakob, atje ku banuan etërit tuaj. Do të banojnë aty ata, bijtë e tyre dhe bijtë e bijve të tyre për jetë dhe shërbëtori im David do të jetë princi i tyre përjetë."
+"Dhe do të banojnë në vendin që i dhashë shërbëtorit tim Jakob, atje ku banuan etërit tuaj. Do të banojnë aty ata, bijtë #e tyre dhe bijtë e bijve të tyre për jetë dhe shërbëtori im David do të jetë princi i tyre përjetë."
 "Do të lidh me ta një besëlidhje paqeje; do të jetë një besëlidhje e përjetshme me ta; do t'i bëj të qëndrueshëm, do t'i shumoj dhe do të vë shenjtëroren time në mes tyre përjetë."
 "Banesa ime do të jetë pranë tyre; po, po unë do të jem Perëndia i tyre dhe ata do të jenë populli im."
 "Edhe kombet do të pranojnë që unë, Zoti, e shenjtëroj Izraelin, kur shenjtërorja ime të jetë në mes tyre përjetë""."

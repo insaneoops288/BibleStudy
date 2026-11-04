@@ -2,7 +2,7 @@
 "Y Pablo, como acostumbraba, entró á ellos, y por tres sábados disputó con ellos de las Escrituras,"
 "Declarando y proponiendo, que convenía que el Cristo padeciese, y resucitase de los muertos; y que Jesús, el cual yo os anuncio, decía él, éste era el Cristo."
 "Y algunos de ellos creyeron, y se juntaron con Pablo y con Silas; y de los Griegos religiosos grande multitud, y mujeres nobles no pocas."
-"Entonces los Judíos que eran incrédulos, teniendo celos, tomaron consigo á algunos ociosos, malos hombres, y juntando compañía, alborotaron la ciudad; y acometiendo á la casa de Jasón, procuraban sacarlos al pueblo."
+"Entonces los Judíos que eran incrédulos, teniendo celos, tomaron consigo á algunos ociosos, malos hombres, y juntando #compañía, alborotaron la ciudad; y acometiendo á la casa de Jasón, procuraban sacarlos al pueblo."
 "Mas no hallándolos, trajeron á Jasón y á algunos hermanos á los gobernadores de la ciudad, dando voces
 "A los cuales Jasón ha recibido; y todos estos hacen contra los decretos de César, diciendo que hay otro rey, Jesús."
 "Y alborotaron al pueblo y á los gobernadores de la ciudad, oyendo estas cosas."

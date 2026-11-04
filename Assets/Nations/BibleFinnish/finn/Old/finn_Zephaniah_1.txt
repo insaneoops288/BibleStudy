@@ -14,5 +14,5 @@
 "Sillä Herran suuri päivä on läsnä, se on läsnä sangen kiiruusti; kuin Herran päivän parku on tuleva, niin väkeväin pitää silloin haikiasti huutaman."
 "Sillä se päivä on kauheuden päivä, vaivan ja ahdistuksen päivä, tuulen ja tuulispään päivä, pimeyden ja synkeyden päivä, pilven ja sumun päivä,"
 "Basunan ja vaskitorven päivä, vahvoja kaupungeita ja korkeita linnoja vastaan."
-"Minä tahdon ihmisille ahdistuksen tehdä, ja heidän pitää käymän niinkuin sokiat, että he ovat Herraa vastaan syntiä tehneet; heidän verensä pitää vuodatettaman, niinkuin tomu, ja heidän lihansa niinkuin loka."
-"Ei heidän hopiansa eikä kultansa pidä heitä sinä Herran vihan päivänä voiman auttaa, vaan koko maa pitää hänen kiivautensa tulelta kulutettaman; sillä hän tekee nopiasti lopun kaikkein kanssa, jotka maassa asuvat."
+"Minä tahdon ihmisille ahdistuksen tehdä, ja heidän pitää käymän niinkuin sokiat, että he ovat Herraa #vastaan syntiä tehneet; heidän verensä pitää vuodatettaman, niinkuin tomu, ja heidän lihansa niinkuin loka."
+"Ei heidän hopiansa eikä kultansa pidä heitä sinä Herran vihan päivänä voiman auttaa, vaan koko maa #pitää hänen kiivautensa tulelta kulutettaman; sillä hän tekee nopiasti lopun kaikkein kanssa, jotka maassa asuvat."

@@ -1,6 +1,6 @@
 "E aconteceu, depois destas coisas, que tentou Deus a Abraão e disse-lhe
 "E disse
-"Então, se levantou Abraão pela manhã, de madrugada, e albardou o seu jumento, e tomou consigo dois de seus moços e Isaque, seu filho; e fendeu lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe dissera."
+"Então, se levantou Abraão pela manhã, de madrugada, e albardou o seu jumento, e tomou consigo dois de seus moços e #Isaque, seu filho; e fendeu lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe dissera."
 "Ao terceiro dia, levantou Abraão os seus olhos e viu o lugar de longe."
 "E disse Abraão a seus moços
 "E tomou Abraão a lenha do holocausto e pô-la sobre Isaque, seu filho; e ele tomou o fogo e o cutelo na sua mão. E foram ambos juntos."
@@ -10,7 +10,7 @@
 "E estendeu Abraão a sua mão e tomou o cutelo para imolar o seu filho."
 "Mas o Anjo do SENHOR lhe bradou desde os céus e disse
 "Então, disse
-"Então, levantou Abraão os seus olhos e olhou, e eis um carneiro detrás dele, travado pelas suas pontas num mato; e foi Abraão, e tomou o carneiro, e ofereceu-o em holocausto, em lugar de seu filho."
+"Então, levantou Abraão os seus olhos e olhou, e eis um carneiro detrás dele, travado pelas suas pontas num #mato; e foi Abraão, e tomou o carneiro, e ofereceu-o em holocausto, em lugar de seu filho."
 "E chamou Abraão o nome daquele lugar o {Heb. JEOVÁ Jire} SENHOR proverá; donde se diz até ao dia de hoje
 "Então, o Anjo do SENHOR bradou a Abraão pela segunda vez desde os céus"
 "e disse

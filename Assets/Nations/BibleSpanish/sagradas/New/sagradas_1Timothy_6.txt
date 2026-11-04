@@ -1,5 +1,5 @@
 "Todos los que están debajo del yugo de servidumbre, tengan a sus señores por dignos de toda honra, para que no sea blasfemado el Nombre del Señor y <I>su</I>  doctrina."
-"Y los que tienen amos fieles, no <I>los</I>  tengan en menos, por ser <I>sus</I>  hermanos; antes sírvanles mejor, por cuanto son fieles y amados, y partícipes del beneficio. Esto enseña y exhorta."
+"Y los que tienen amos fieles, no <I>los</I>  tengan en menos, por ser <I>sus</I>  hermanos; antes #sírvanles mejor, por cuanto son fieles y amados, y partícipes del beneficio. Esto enseña y exhorta."
 "El que enseña otra cosa, y no se allega a las sanas palabras del Señor nuestro, Jesús, el Cristo, y a la doctrina que es conforme a la piedad;"
 "está envanecido, nada sabe, y enloquece acerca de cuestiones y contiendas de palabras, de las cuales nacen envidias, pleitos, maledicencias, malas sospechas,"
 "porfías de hombres corruptos de entendimiento y privados de la verdad, que tienen la piedad por fuente de ganancia; apártate de los tales."

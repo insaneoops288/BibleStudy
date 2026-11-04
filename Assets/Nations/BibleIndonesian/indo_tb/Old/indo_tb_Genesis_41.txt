@@ -5,7 +5,7 @@
 "Setelah itu tertidur pulalah ia dan bermimpi kedua kalinya
 "Tetapi kemudian tampaklah juga tumbuh tujuh bulir gandum yang kurus dan layu oleh angin timur."
 "Bulir yang kurus itu menelan ketujuh bulir yang bernas dan berisi tadi. Lalu terjagalah Firaun. Agaknya ia bermimpi!"
-"Pada waktu pagi gelisahlah hatinya, lalu disuruhnyalah memanggil semua ahli dan semua orang berilmu di Mesir. Firaun menceritakan mimpinya kepada mereka, tetapi seorangpun tidak ada yang dapat mengartikannya kepadanya."
+"Pada waktu pagi gelisahlah hatinya, lalu disuruhnyalah memanggil semua ahli dan semua orang berilmu di #Mesir. Firaun menceritakan mimpinya kepada mereka, tetapi seorangpun tidak ada yang dapat mengartikannya kepadanya."
 "Lalu berkatalah kepala juru minuman kepada Firaun
 "Waktu itu tuanku Firaun murka kepada pegawai-pegawainya, dan menahan aku dalam rumah pengawal istana, beserta dengan kepala juru roti."
 "Pada satu malam juga kami bermimpi, aku dan kepala juru roti itu; masing-masing mempunyai mimpi dengan artinya sendiri."
@@ -24,7 +24,7 @@
 "Bulir yang kurus itu memakan ketujuh bulir yang baik tadi. Telah kuceritakan hal ini kepada semua ahli, tetapi seorangpun tidak ada yang dapat menerangkannya kepadaku."""
 "Lalu kata Yusuf kepada Firaun
 "Ketujuh ekor lembu yang baik itu ialah tujuh tahun, dan ketujuh bulir gandum yang baik itu ialah tujuh tahun juga; kedua mimpi itu sama."
-"Ketujuh ekor lembu yang kurus dan buruk, yang keluar kemudian, maksudnya tujuh tahun, demikian pula ketujuh bulir gandum yang hampa dan layu oleh angin timur itu; maksudnya akan ada tujuh tahun kelaparan."
+"Ketujuh ekor lembu yang kurus dan buruk, yang keluar kemudian, maksudnya tujuh tahun, demikian pula ketujuh bulir #gandum yang hampa dan layu oleh angin timur itu; maksudnya akan ada tujuh tahun kelaparan."
 "Inilah maksud perkataanku, ketika aku berkata kepada tuanku Firaun
 "Ketahuilah tuanku, akan datang tujuh tahun kelimpahan di seluruh tanah Mesir."
 "Kemudian akan timbul tujuh tahun kelaparan; maka akan dilupakan segala kelimpahan itu di tanah Mesir, karena kelaparan itu menguruskeringkan negeri ini."
@@ -32,14 +32,14 @@
 "Sampai dua kali mimpi itu diulangi bagi tuanku Firaun berarti
 "Oleh sebab itu, baiklah tuanku Firaun mencari seorang yang berakal budi dan bijaksana, dan mengangkatnya menjadi kuasa atas tanah Mesir."
 "Baiklah juga tuanku Firaun berbuat begini, yakni menempatkan penilik-penilik atas negeri ini dan dalam ketujuh tahun kelimpahan itu memungut seperlima dari hasil tanah Mesir."
-"Mereka harus mengumpulkan segala bahan makanan dalam tahun-tahun baik yang akan datang ini dan, di bawah kuasa tuanku Firaun, menimbun gandum di kota-kota sebagai bahan makanan, serta menyimpannya."
+"Mereka harus mengumpulkan segala bahan makanan dalam tahun-tahun baik yang akan datang ini dan, di #bawah kuasa tuanku Firaun, menimbun gandum di kota-kota sebagai bahan makanan, serta menyimpannya."
 "Demikianlah segala bahan makanan itu menjadi persediaan untuk negeri ini dalam ketujuh tahun kelaparan yang akan terjadi di tanah Mesir, supaya negeri ini jangan binasa karena kelaparan itu."""
 "Usul itu dipandang baik oleh Firaun dan oleh semua pegawainya."
 "Lalu berkatalah Firaun kepada para pegawainya
 "Kata Firaun kepada Yusuf
 "Engkaulah menjadi kuasa atas istanaku, dan kepada perintahmu seluruh rakyatku akan taat; hanya takhta inilah kelebihanku dari padamu."""
 "Selanjutnya Firaun berkata kepada Yusuf
-"Sesudah itu Firaun menanggalkan cincin meterainya dari jarinya dan mengenakannya pada jari Yusuf; dipakaikannyalah kepada Yusuf pakaian dari pada kain halus dan digantungkannya kalung emas pada lehernya."
+"Sesudah itu Firaun menanggalkan cincin meterainya dari jarinya dan mengenakannya pada jari Yusuf; dipakaikannyalah #kepada Yusuf pakaian dari pada kain halus dan digantungkannya kalung emas pada lehernya."
 "Lalu Firaun menyuruh menaikkan Yusuf dalam keretanya yang kedua, dan berserulah orang di hadapan Yusuf
 "Berkatalah Firaun kepada Yusuf
 "Lalu Firaun menamai Yusuf

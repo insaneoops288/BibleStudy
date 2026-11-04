@@ -12,7 +12,7 @@
 "Sillä jolla on, hänelle pitää annettaman, ja hänellä pitää kyllä oleman; mutta siltä, jolla ei ole, pitää sekin otettaman pois, mikä hänellä on."
 "Sentähden minä puhun heille vertauksilla, ettei he nähden näe, eikä kuullen kuule, ei myös ymmärrä."
 "Ja heissä täytetään Jesaiaan ennustus, joka sanoo
-"Sillä tämän kansan sydän on kovettunut, ja he korvillansa työläästi kuulivat, ja silmänsä panivat umpeen, ettei he joskus näkisi silmillänsä, ja kuulisi korvillansa, ja ymmärtäisi sydämellänsä, ja palajaisivat, ja minä parantaisin heitä."
+"Sillä tämän kansan sydän on kovettunut, ja he korvillansa työläästi kuulivat, ja silmänsä panivat umpeen, ettei he #joskus näkisi silmillänsä, ja kuulisi korvillansa, ja ymmärtäisi sydämellänsä, ja palajaisivat, ja minä parantaisin heitä."
 "Mutta autuaat ovat teidän silmännne, sillä he näkevät, ja teidän korvanne, sillä he kuulevat."
 "Sillä totisesti sanon minä teille
 "Niin kuulkaat siis te kylväjän vertaus

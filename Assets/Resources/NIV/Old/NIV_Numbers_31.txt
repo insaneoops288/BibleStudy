@@ -20,14 +20,14 @@ but save for yourselves every girl who has never slept with a man.
 Purify every garment as well as everything made of leather, goat hair or wood."
 Then Eleazar the priest said to the soldiers who had gone into battle, "This is the requirement of the law that the LORD gave Moses,
 Gold, silver, bronze, iron, tin, lead
-and anything else that can withstand fire must be put through the fire, and then it will be clean. But it must also be purified with the water of cleansing. And whatever cannot withstand fire must be put through that water.
+and anything else that can withstand fire must be put through the fire, and then it will be clean. But it #must also be purified with the water of cleansing. And whatever cannot withstand fire must be put through that water.
 On the seventh day wash your clothes and you will be clean. Then you may come into the camp."
 The LORD said to Moses,
 "You and Eleazar the priest and the family heads of the community are to count all the people and animals that were captured.
 Divide the spoils between the soldiers who took part in the battle and the rest of the community.
 From the soldiers who fought in the battle, set apart as tribute for the LORD one out of every five hundred, whether persons, cattle, donkeys, sheep or goats.
 Take this tribute from their half share and give it to Eleazar the priest as the LORD'S part.
-From the Israelites' half, select one out of every fifty, whether persons, cattle, donkeys, sheep, goats or other animals. Give them to the Levites, who are responsible for the care of the LORD'S tabernacle."
+From the Israelites' half, select one out of every fifty, whether persons, cattle, donkeys, sheep, goats or other #animals. Give them to the Levites, who are responsible for the care of the LORD'S tabernacle."
 So Moses and Eleazar the priest did as the LORD commanded Moses.
 The plunder remaining from the spoils that the soldiers took was 675,000 sheep,
 72,000 cattle,
@@ -44,7 +44,7 @@ the community's half, was 337,500 sheep,
 36,000 cattle,
 30,500 donkeys
 and 16,000 people.
-From the Israelites' half, Moses selected one out of every fifty persons and animals, as the LORD commanded him, and gave them to the Levites, who were responsible for the care of the LORD'S tabernacle.
+From the Israelites' half, Moses selected one out of every fifty persons and animals, as the LORD commanded #him, and gave them to the Levites, who were responsible for the care of the LORD'S tabernacle.
 Then the officers who were over the units of the army, the commanders of thousands and commanders of hundreds, went to Moses
 and said to him, "Your servants have counted the soldiers under our command, and not one is missing.
 So we have brought as an offering to the LORD the gold articles each of us acquired, armlets, bracelets, signet rings, earrings and necklaces, to make atonement for ourselves before the LORD."

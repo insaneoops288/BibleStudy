@@ -2,7 +2,7 @@
 "Ang magiging haba ng bawa't tabing ay dalawang pu't walong siko, at ang luwang ng bawa't tabing ay apat na siko
 "Limang tabing ay papagsusugpunging isa't isa; at ang ibang limang tabing ay papagsusugpunging isa't isa."
 "At gagawa ka ng mga presilyang bughaw sa gilid ng isang tabing sa hangganan ng pagkakasugpong, at gayon din gagawin mo sa gilid ng ikalawang tabing na nasa ikalawang pagkakasugpong."
-"Limang pung presilya ang iyong gagawin sa isang tabing, at limang pung presilya ang iyong gagawin sa gilid ng tabing na nasa ikalawang pagkakasugpong; ang mga presilya ay magkakatapat na isa't isa."
+"Limang pung presilya ang iyong gagawin sa isang tabing, at limang pung presilya ang iyong gagawin sa #gilid ng tabing na nasa ikalawang pagkakasugpong; ang mga presilya ay magkakatapat na isa't isa."
 "At limang pung pangawit na ginto ang iyong gagawin at pagsusugpungin mo ang mga tabing sa pamamagitan ng mga kawit; at magiging isa lamang."
 "At gagawa ka ng mga tabing na balahibo ng kambing na pinaka tolda sa ibabaw ng tabernakulo
 "Ang magiging haba ng bawa't tabing ay tatlong pung siko, at ang luwang ng bawa't tabing ay apat na siko
@@ -16,7 +16,7 @@
 "Sangpung siko ang magiging haba ng isang tabla, at isang siko at kalahati ang luwang ng bawa't tabla."
 "Dalawang mitsa magkakaroon ang bawa't tabla na nagkakasugpong na isa't isa
 "At igagawa mo ng mga tabla ang tabernakulo
-"At gagawa ka ng apat na pung tungtungang pilak upang ilagay sa ilalim ng dalawang pung tabla, dalawang tungtungan sa bawa't tabla na ukol sa kaniyang dalawang mitsa, at dalawang tungtungan sa ilalim ng ibang tabla na ukol sa kaniyang dalawang mitsa
+"At gagawa ka ng apat na pung tungtungang pilak upang ilagay sa ilalim ng dalawang pung tabla, dalawang tungtungan sa bawa't tabla #na ukol sa kaniyang dalawang mitsa, at dalawang tungtungan sa ilalim ng ibang tabla na ukol sa kaniyang dalawang mitsa
 "At sa ikalawang tagiliran ng tabernakulo, sa dakong hilagaan, ay dalawang pung tabla
 "At ang kanilang apat na pung tungtungang pilak; dalawang tungtungan sa ilalim ng isang tabla, at dalawang tungtungan sa ilalim ng kabilang tabla."
 "At sa dakong hulihan ng tabernakulo, sa dakong kalunuran ay igagawa mo ng anim na tabla."

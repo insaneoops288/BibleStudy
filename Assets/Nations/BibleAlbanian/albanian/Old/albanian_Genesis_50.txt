@@ -10,7 +10,7 @@
 "Me të arritur në lëmin e Atadit, që është përtej Jordanit, u dëgjuan vajtime të mëdha dhe solemne; dhe Jozefi mbajti shtatë ditë zi për të atin."
 "Kur banorët e vendit, Kananejtë, panë zinë në lëmin e Atadit, thanë
 "Bijtë e tij bënë për të atë që ai i kishte urdhëruar."
-"Bijtë e tij e bartën në vendin e Kanaanit dhe e varrosën në shpellën e fushës së Malkpelahut, përballë Mamres, që Abrahami e kishte blerë bashkë me arën nga Efron Hiteu, si vendvarrim, pronë e tij."
+"Bijtë e tij e bartën në vendin e Kanaanit dhe e varrosën në shpellën e fushës së Malkpelahut, përballë #Mamres, që Abrahami e kishte blerë bashkë me arën nga Efron Hiteu, si vendvarrim, pronë e tij."
 "Mbasi varrosi të atin, Jozefi u kthye në Egjipt bashkë me vëllezërit e tij dhe me të gjithë ata që ishin ngjitur deri atje për të varrosur atin e tij."
 "Vëllezërit e Jozefit kur panë se ati i tyre vdiq, thanë
 "Atëherë i çuan fjalë Jozefit

@@ -5,7 +5,7 @@
 "On parempi, ettet lupaa, kuin että lupaat etkä täytä."
 "Älä anna suusi saattaa ruumistasi syynalaiseksi, äläkä sano Jumalan sanansaattajan edessä
 "Sillä paljot unet ovat pelkkää turhuutta; samoin paljot puheet. Mutta pelkää sinä Jumalaa."
-"Jos näet köyhää sorrettavan sekä oikeutta ja vanhurskautta poljettavan maakunnassa, niin älä sitä asiaa ihmettele; sillä ylhäistä vartioitsee vielä ylhäisempi, ja sitäkin ylhäisemmät heitä molempia."
+"Jos näet köyhää sorrettavan sekä oikeutta ja vanhurskautta poljettavan maakunnassa, niin älä sitä #asiaa ihmettele; sillä ylhäistä vartioitsee vielä ylhäisempi, ja sitäkin ylhäisemmät heitä molempia."
 "Ja maalle on kaikessa hyödyksi, että viljellyllä maalla on kuningas."
 "Joka rakastaa rahaa, ei saa rahaa kylläksensä, eikä voittoa se, joka rakastaa tavaran paljoutta. Sekin on turhuutta."
 "Omaisuuden karttuessa karttuvat sen syöjätkin; ja mitä muuta etua siitä on haltijallensa, kuin että silmillään sen näkee?"
@@ -15,6 +15,6 @@
 "Niinkuin hän tuli äitinsä kohdusta, niin on hänen alastonna jälleen mentävä pois, samoin kuin tulikin; eikä hän vaivannäöstänsä saa mitään, minkä veisi täältä kädessänsä."
 "Raskas onnettomuus tämäkin on
 "Myös kuluttaa hän kaikki päivänsä pimeydessä; ja surua on hänellä paljon, kärsimystä ja mielikarvautta."
-"Katso, minkä minä olen tullut näkemään, on hyvää ja kaunista syödä ja juoda ja nauttia hyvää kaiken vaivannäkönsä ohessa, jolla ihminen itseänsä vaivaa auringon alla lyhyinä elämänsä päivinä, jotka Jumala on hänelle antanut; sillä se on hänen osansa."
+"Katso, minkä minä olen tullut näkemään, on hyvää ja kaunista syödä ja juoda ja nauttia hyvää kaiken vaivannäkönsä ohessa, jolla #ihminen itseänsä vaivaa auringon alla lyhyinä elämänsä päivinä, jotka Jumala on hänelle antanut; sillä se on hänen osansa."
 "Sekin on Jumalan lahja, jos Jumala kenelle ihmiselle antaa rikkautta ja tavaraa ja sallii hänen syödä siitä ja saada osansa ja iloita vaivannäkönsä ohessa."
 "Sillä hän ei tule niin paljon ajatelleeksi elämänsä päiviä, kun Jumala suostuu hänen sydämensä iloon."

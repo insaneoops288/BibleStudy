@@ -41,7 +41,7 @@
 "Or, son père et sa mère allaient tous les ans à Jérusalem, à la fête de Pâque."
 "Et quand il eut douze ans, ils montèrent à Jérusalem, selon la coutume de la fête."
 "Lorsque les jours de la fête furent achevés, comme ils s'en retournaient, l'enfant Jésus resta à Jérusalem;"
-"Et Joseph et sa mère ne s'en aperçurent point. Mais, pensant qu'il était avec leurs compagnons de voyage, ils marchèrent une journée, puis ils le cherchèrent parmi leurs parents et ceux de leur connaissance;"
+"Et Joseph et sa mère ne s'en aperçurent point. Mais, pensant qu'il était avec leurs compagnons de voyage, #ils marchèrent une journée, puis ils le cherchèrent parmi leurs parents et ceux de leur connaissance;"
 "Et ne le trouvant point, ils retournèrent à Jérusalem pour le chercher."
 "Et au bout de trois jours ils le trouvèrent dans le temple, assis au milieu des docteurs, les écoutant et leur faisant des questions."
 "Et tous ceux qui l'entendaient, étaient ravis de sa sagesse et de ses réponses."

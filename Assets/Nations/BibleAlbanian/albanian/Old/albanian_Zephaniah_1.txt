@@ -15,4 +15,4 @@
 "Ajo ditë është një ditë zemërimi, një ditë mjerimi dhe ankthi, një ditë shkatërrimi dhe shkretie, një ditë terri dhe mjegulle, një ditë resh dhe errësire të thellë,"
 "një ditë zhurmimi të borisë dhe alarmi kundër qyteteve të fortifikuara dhe kullave të larta."
 "Unë do të sjell fatkeqësinë mbi njerëzit dhe ata do të ecin si të verbër, sepse kanë mëkatuar kundër Zotit; gjaku i tyre do të shpërndahet si pluhur dhe mishi i tyre si jashtëqitje."
-"As argjendi i tyre as ari i tyre nuk do të mund t'i çlirojnë ditën e zemërimit të Zotit; përkundrazi tërë vendi do të gllabërohet nga zjarri i xhelozisë së tij, sepse ai do të kryejë me siguri një shkatërrim të plotë të të gjithë banorëve të vendit."
+"As argjendi i tyre as ari i tyre nuk do të mund t'i çlirojnë ditën e zemërimit të Zotit; përkundrazi tërë vendi do të gllabërohet #nga zjarri i xhelozisë së tij, sepse ai do të kryejë me siguri një shkatërrim të plotë të të gjithë banorëve të vendit."

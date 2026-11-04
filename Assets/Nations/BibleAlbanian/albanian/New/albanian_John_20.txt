@@ -16,7 +16,7 @@
 "Jezusi i tha
 "Jezusi i tha
 "Atëherë Maria Magdalena shkoi t'jua njoftojë dishepujve se kishte parë Zotin dhe se ai i kishte thënë këto gjëra."
-"Pastaj në mbrëmje të po asaj dite, dita e parë e javës, ndërsa dyert e vendit ku qenë mbledhur dishepujt ishin të mbyllura nga frika e Judenjve, erdhi Jezusi dhe u prezantua në mes tyre dhe u tha atyre
+"Pastaj në mbrëmje të po asaj dite, dita e parë e javës, ndërsa dyert e vendit ku qenë mbledhur dishepujt #ishin të mbyllura nga frika e Judenjve, erdhi Jezusi dhe u prezantua në mes tyre dhe u tha atyre
 "Dhe, si i tha këto, u tregoi atyre duart e veta dhe brinjën. Dishepujt pra, kur e panë Zotin, u gëzuan."
 "Pastaj Jezusi u tha atyre përsëri
 "Dhe, si tha këto fjalë, hukati mbi ta dhe tha

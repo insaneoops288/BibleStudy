@@ -2,9 +2,9 @@
 "thì tôi giao phó việc cai trị Giê-ru-sa-lem cho Ha-na-ni, em tôi, và cho Ha-na-nia, quan tể cung; vì là một người trung tín và kính sợ Ðức Chúa Trời hơn nhiều kẻ khác."
 "Tôi dặn chúng rằng
 "Vả, thành thì rộng rãi lớn lao, còn dân sự ở trong nó lại ít, và nhà mới thì chưa có cất."
-"Ðức Chúa Trời tôi có cảm động lòng tôi chiêu tập những người tước vị, các quan trưởng, và dân sự, đặng đem chúng vào sổ từng gia phổ. Tôi có tìm đặng một cuốn bộ gia phổ của những người đã trở lên lần đầu, và trong đó tôi thấy có ghi rằng
+"Ðức Chúa Trời tôi có cảm động lòng tôi chiêu tập những người tước vị, các quan trưởng, và dân sự, đặng đem chúng vào sổ từng gia #phổ. Tôi có tìm đặng một cuốn bộ gia phổ của những người đã trở lên lần đầu, và trong đó tôi thấy có ghi rằng
 "Này là các người tỉnh Giu-đa từ nơi làm phu tù được trở lên, tức những kẻ thuộc trong bọn bị Nê-bu-ca-nết-sa bắt dẫn từ; chúng trở lại Giê-ru-sa-lem và xứ Giu-đa, ai nấy đều về bổn thành mình;"
-"chúng trở về với Xô-rô-ba-bên, Giê-sua, Nê-hê-mi, A-xa-ria, Ra-a-mia, Na-ha-ma-ni, Mạc-đô-chê, Binh-san, Mích-bê-rết, Biết-vai, Bê-hum, và Ba-a-na. Nầy là số tu bộ những người nam của dân Y-sơ-ra-ên;"
+"chúng trở về với Xô-rô-ba-bên, Giê-sua, Nê-hê-mi, A-xa-ria, Ra-a-mia, Na-ha-ma-ni, Mạc-đô-chê, Binh-san, Mích-bê-rết, Biết-vai, Bê-hum, #và Ba-a-na. Nầy là số tu bộ những người nam của dân Y-sơ-ra-ên;"
 "Về con cháu Pha-rốt, hai ngàn một trăm bảy mươi hai người;"
 "về con cháu Sê-pha-tia, ba trăm bảy mươi hai người."
 "Về con cháu A-ra, sáu trăm năm mươi hai người."
@@ -70,4 +70,4 @@
 "Có mấy trưởng tộc đem của cung tiến đặng giúp làm công việc. Quan tổng trấn dâng cho kho một ngàn đa-riếc vàng, năm mươi cái chậu, và năm trăm ba mươi cái áo thầy tế lễ."
 "Có mấy trưởng tộc dâng vào kho tạo tác hai vạn đa-riếc vàng, và hai ngàn hai trăm min bạc."
 "Còn vật dân sự khác dâng, được hai vạn đa-riếc vàng, hai ngàn min bạc, và sáu mươi bảy cái áo thầy tế lễ."
-"Ấy vậy, những thầy tế lễ, người Lê-vi, kẻ giữ cửa, kẻ ca hát, mấy người trong dân, và người Nê-thi-nim, cùng cả Y-sơ-ra-ên, đều ở trong các thành của mình. Khi tháng bảy đến, thì dân Y-sơ-ra-ên đều ở trong các thành của mình."
+"Ấy vậy, những thầy tế lễ, người Lê-vi, kẻ giữ cửa, kẻ ca hát, mấy người trong dân, và người Nê-thi-nim, cùng cả #Y-sơ-ra-ên, đều ở trong các thành của mình. Khi tháng bảy đến, thì dân Y-sơ-ra-ên đều ở trong các thành của mình."

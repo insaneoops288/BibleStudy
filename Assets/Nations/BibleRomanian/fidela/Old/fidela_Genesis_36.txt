@@ -3,7 +3,7 @@
 "Şi Basmat, fiica lui Ismael, sora lui Nebaiot."
 "Şi Ada i-a născut lui Esau pe[ ]Elifaz; şi Basmat a născut pe Reuel;"
 "Şi Oholibama a născut pe Ieuş şi Iaalam şi Core; aceştia [sunt ]fiii lui Esau, care i s-au născut în ţara lui Canaan."
-"Şi Esau şi-a luat soţiile şi fiii lui şi fiicele lui şi toate persoanele din casa lui şi vitele lui şi toate animalele lui şi toată averea lui pe care a dobândit-o în ţara lui Canaan; şi a plecat într-un [alt] ţinut din faţa fratelui său, Iacob."
+"Şi Esau şi-a luat soţiile şi fiii lui şi fiicele lui şi toate persoanele din casa lui şi vitele lui şi toate animalele lui #şi toată averea lui pe care a dobândit-o în ţara lui Canaan; şi a plecat într-un [alt] ţinut din faţa fratelui său, Iacob."
 "Fiindcă bogăţiile lor erau prea mari ca ei să poată locui împreună; şi ţara în care ei erau străini nu putea să îi ţină din cauza vitelor lor."
 "Astfel a locuit Esau în muntele Seir; Esau [este ]Edom."
 "Şi acestea [sunt] generaţiile lui Esau, tatăl Edomiţilor, în muntele Seir,"
@@ -14,8 +14,8 @@
 "Şi aceştia au fost fiii Oholibamei, fiica Anei, fiica lui Ţibeon, soţia lui Esau; şi i-a născut lui Esau, pe Ieuş şi Iaalam şi Core."
 "Aceştia [au fost ]conducătorii fiilor lui Esau
 "Conducătorul Core, conducătorul Gatam [şi ]conducătorul Amalec; aceştia [sunt ]conducătorii [care au ieşit ]din Elifaz în ţara lui Edom; aceştia [au fost ]fiii Adei."
-"Şi aceştia [sunt ]fiii lui Reuel, fiul lui Esau; conducătorul Nahat, conducătorul Zerah, conducătorul Şama, conducătorul Miza; aceştia [sunt ]conducătorii [care au ieşit ]din Reuel în ţara lui Edom; aceştia [sunt ]fiii lui Basmat, soţia lui Esau."
-"Şi aceştia [sunt ]fiii Oholibamei, soţia lui Esau, conducătorul Ieuş, conducătorul Iaalam, conducătorul Core; aceştia [au fost ]conducătorii [care au ieşit ]din Oholibama, fiica Anei, soţia lui Esau."
+"Şi aceştia [sunt ]fiii lui Reuel, fiul lui Esau; conducătorul Nahat, conducătorul Zerah, conducătorul Şama, conducătorul Miza; aceştia [sunt #]conducătorii [care au ieşit ]din Reuel în ţara lui Edom; aceştia [sunt ]fiii lui Basmat, soţia lui Esau."
+"Şi aceştia [sunt ]fiii Oholibamei, soţia lui Esau, conducătorul Ieuş, conducătorul Iaalam, conducătorul Core; aceştia #[au fost ]conducătorii [care au ieşit ]din Oholibama, fiica Anei, soţia lui Esau."
 "Aceştia [sunt ]fiii lui Esau, care [este ]Edom, şi aceştia [sunt ]conducătorii lor."
 "Aceştia [sunt] fiii lui Seir horitul, care au locuit ţara
 "Şi Dişon şi Eţer şi Dişan; aceştia [sunt ]conducătorii horiţilor, copiii lui Seir în ţara lui Edom."

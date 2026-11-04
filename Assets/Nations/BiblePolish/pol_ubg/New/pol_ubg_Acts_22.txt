@@ -2,7 +2,7 @@
 "Gdy usłyszeli, że mówił do nich po hebrajsku, jeszcze bardziej się uciszyli. A on powiedział
 "Jestem Żydem, urodzonym w Tarsie w Cylicji, lecz wychowanym w tym mieście, u stóp Gamaliela, starannie wykształconym w prawie ojczystym i byłem gorliwym względem Boga jak i wy wszyscy dzisiaj."
 "Prześladowałem tę drogę aż na śmierć, wiążąc i wtrącając do więzienia zarówno mężczyzn, jak i kobiety;"
-"Czego mi świadkiem jest najwyższy kapłan oraz wszyscy starsi. Od nich też otrzymałem listy do braci i pojechałem do Damaszku, aby tych, którzy tam byli, przyprowadzić związanych do Jerozolimy, żeby zostali ukarani."
+"Czego mi świadkiem jest najwyższy kapłan oraz wszyscy starsi. Od nich też otrzymałem listy do braci i #pojechałem do Damaszku, aby tych, którzy tam byli, przyprowadzić związanych do Jerozolimy, żeby zostali ukarani."
 "A gdy byłem w drodze i zbliżałem się do Damaszku około południa, nagle ogarnęła mnie wielka światłość z nieba."
 "I upadłem na ziemię, i usłyszałem głos, który mówił do mnie
 "A ja odpowiedziałem

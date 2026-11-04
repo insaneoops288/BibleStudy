@@ -6,7 +6,7 @@
 "In seinen Tagen wird Juda gerettet werden und Israel in Sicherheit wohnen; und dies wird sein Name sein, mit dem man ihn nennen wird
 "Darum siehe, Tage kommen, spricht Jehova, da man nicht mehr sagen wird
 "sondern
-"Über die Propheten. Mein Herz ist gebrochen in meinem Innern, es schlottern alle meine Gebeine; ich bin wie ein Trunkener und wie ein Mann, den der Weinüberwältigt hat, wegen Jehovas und wegen seiner heiligen Worte."
+"Über die Propheten. Mein Herz ist gebrochen in meinem Innern, es schlottern alle meine Gebeine; ich bin wie #ein Trunkener und wie ein Mann, den der Weinüberwältigt hat, wegen Jehovas und wegen seiner heiligen Worte."
 "Denn das Land ist voll von Ehebrechern; denn das Land trauert wegen des Fluches, die Auen der Steppe verdorren, und ihr Lauf ist böse, und ihre Macht ist Unrecht."
 "Denn sowohl Propheten als Priester sind ruchlos; sogar in meinem Hause habe ich ihre Bosheit gefunden, spricht Jehova."
 "Darum wird ihnen ihr Weg sein wie schlüpfrige Orte in der Dunkelheit, sie werden gestoßen werden und auf ihm fallen; denn ich bringe Unglücküber sie, das Jahr ihrer Heimsuchung, spricht Jehova."
@@ -29,11 +29,11 @@
 "Ist mein Wort nicht also, wie Feuer, spricht Jehova, und wie ein Hammer, der Felsen zerschmettert?"
 "Darum siehe, ich will an die Propheten, spricht Jehova, die einer vom anderen meine Worte stehlen."
 "Siehe, ich will an die Propheten, spricht Jehova, die Zungen nehmen und sprechen
-"Siehe, ich will an die, spricht Jehova, welche Lügenträume weissagen und sie erzählen und mein Volk irreführen mit ihrer Prahlerei; da ich sie doch nicht gesandt und sie nicht entboten habe, und sie diesem Volke gar nichts nützen, spricht Jehova."
+"Siehe, ich will an die, spricht Jehova, welche Lügenträume weissagen und sie erzählen und mein Volk irreführen mit ihrer Prahlerei; da #ich sie doch nicht gesandt und sie nicht entboten habe, und sie diesem Volke gar nichts nützen, spricht Jehova."
 "Und wenn dieses Volk, oder ein Prophet oder ein Priester dich fragt und spricht
 "Und der Prophet und der Priester und das Volk, welche sagen werden
 "Also sollt ihr sprechen, ein jeder zu seinem Nächsten und ein jeder zu seinem Bruder
-"Und die Last Jehovas sollt ihr nicht mehr erwähnen, denn die Last wird für einen jeden sein eigenes Wort sein; denn ihr verdrehet die Worte des lebendigen Gottes, Jehovas der Heerscharen, unseres Gottes."
+"Und die Last Jehovas sollt ihr nicht mehr erwähnen, denn die Last wird für einen jeden sein #eigenes Wort sein; denn ihr verdrehet die Worte des lebendigen Gottes, Jehovas der Heerscharen, unseres Gottes."
 "Also sollst du zu dem Propheten sagen
 "Wenn ihr aber saget
 "darum, siehe, werde ich euch ganz vergessen, und euch und die Stadt, die ich euch und euren Vätern gegeben habe, von meinem Angesicht verstoßen;"

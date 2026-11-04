@@ -5,7 +5,7 @@
 "Sillä Johannes tosin kasti vedellä, mutta te kastetaan Pyhällä Hengellä, ei monen päivän perästä."
 "Kuin he siis kokoontuneet olivat, kysyivät he häneltä, sanoen
 "Mutta hän sanoi heille
-"Vaan teidän pitää saaman Pyhän Hengen voiman, joka on tuleva teidän päällenne, ja teidän pitää minun todistajani oleman, sekä Jerusalemissa, että koko Juudeassa ja Samariassa, ja sitte maailman ääreen."
+"Vaan teidän pitää saaman Pyhän Hengen voiman, joka on tuleva teidän päällenne, ja teidän pitää #minun todistajani oleman, sekä Jerusalemissa, että koko Juudeassa ja Samariassa, ja sitte maailman ääreen."
 "Ja kuin hän nämät sanonut oli, otettiin hän ylös heidän nähtensä, ja pilvi vei hänen ylös heidän silmäinsä edestä."
 "Ja kuin he katselivat taivaaseen, hänen mennessänsä, katso, heidän tykönänsä seisoi kaksi miestä valkeissa vaatteissa,"
 "Jotka myös sanoivat

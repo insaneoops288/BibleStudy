@@ -6,7 +6,7 @@
 "Geeneen is soos U nie, o HERE! U is groot, en u Naam is groot in krag."
 "Wie sou U nie vrees nie, o Koning van die nasies? Want U kom dit toe; want onder al die wyse manne van die nasies en in hulle hele koninkryk is geeneen soos U nie."
 "Maar almal saam word hulle dom en dwaas, die tugtiging van die nietige afgode,dit is hout."
-"Silwer wat plat geslaan is, word uit Tarsis gebring en goud uit Ufas, die werk van die ambagsman en van die hande van die goudsmid; pers en purperrooi is hulle klere; 'n werk van kunstenaars is hulle almal."
+"Silwer wat plat geslaan is, word uit Tarsis gebring en goud uit Ufas, die werk van die ambagsman en van #die hande van die goudsmid; pers en purperrooi is hulle klere; 'n werk van kunstenaars is hulle almal."
 "Maar die HERE is waarlik God, Hy is die lewende God en 'n ewige Koning; vir sy toorn beef die aarde, en die nasies kan sy grimmigheid nie verdra nie,"
 "so moet julle vir hulle sê
 "Hy wat die aarde gemaak het deur sy krag, wat die wêreld gegrond het deur sy wysheid en die hemel uitgespan het deur sy verstand."
@@ -22,4 +22,4 @@
 "Hoor! 'n Gerug. Daar kom dit, en wel 'n groot geraas uit die Noordland, om die stede van Juda 'n woesteny te maak, 'n lêplek van jakkalse."
 "Ek weet, o HERE, dat aan die mens sy weg nie toebehoort nie; nie aan 'n man om te loop en sy voetstappe te rig nie."
 "Tugtig my, HERE, maar met mate; nie in u toorn, dat U my nie te klein maak nie."
-"Stort u grimmigheid uit oor die nasies wat U nie ken nie, en oor die geslagte wat u Naam nie aanroep nie; want hulle het Jakob opgeëet, ja, hulle het hom opgeëet en hom verteer en sy woning verwoes."
+"Stort u grimmigheid uit oor die nasies wat U nie ken nie, en oor die geslagte wat u Naam nie #aanroep nie; want hulle het Jakob opgeëet, ja, hulle het hom opgeëet en hom verteer en sy woning verwoes."

@@ -5,12 +5,12 @@
 "Ihr erglüht für die Götzen unter jedem grünen Baum, ihr opfert die Kindlein an den Bächen unter Felsenklüften."
 "Bei den glatten Bachsteinen ist dein Teil; sie sind dein Los; ihnen hast du auch Trankopfer ausgegossen und Speisopfer dargebracht; sollte ich mich darüber trösten?"
 "Du hast dein Lager auf einen hohen und erhabenen Berg gestellt; auch dort bist du hinaufgestiegen und hast Opfer gebracht;"
-"und hinter Tür und Pfosten hast du dein Andenken gesetzt; denn du hast dich von mir abgewandt, du bist hinaufgestiegen und hast dein Bett weit gemacht und dir von ihnen[den Buhlerlohn] ausbedungen; du liebtest ihren Umgang, beachtetest ihren Wink."
+"und hinter Tür und Pfosten hast du dein Andenken gesetzt; denn du hast dich von mir abgewandt, du bist hinaufgestiegen #und hast dein Bett weit gemacht und dir von ihnen[den Buhlerlohn] ausbedungen; du liebtest ihren Umgang, beachtetest ihren Wink."
 "Du bist zum Könige gezogen, inÖl gebadet, und hast dich fleißig gesalbt; du hast deine Boten in die weiteste Ferne geschickt und dich erniedrigt bis zum Totenreich."
 "Du bist müde geworden von der Menge deiner Wege, hast aber nicht gesagt
-"Vor wem hast du dich so gescheut und gefürchtet, daß du mich verleugnet und meiner nicht mehr gedacht hast und ich dir gänzlich aus dem Sinn gekommen bin? Habe ich nicht dazu geschwiegen, und das seit langer Zeit? Aber du willst mich doch nicht fürchten!"
+"Vor wem hast du dich so gescheut und gefürchtet, daß du mich verleugnet und meiner nicht mehr gedacht hast und ich dir gänzlich #aus dem Sinn gekommen bin? Habe ich nicht dazu geschwiegen, und das seit langer Zeit? Aber du willst mich doch nicht fürchten!"
 "Darum will ich jetzt deine Gerechtigkeit und deine Taten bekanntmachen; sie werden dir nichts nützen!"
-"Wenn du dann schreist, so mögen dich die erretten, die du gesammelt hast; aber ein einziger Windstoß wird sie alle davontragen, ein Hauch wird sie wegnehmen. Wer aber auf mich vertraut, der wird das Land ererben und meinen heiligen Berg besitzen."
+"Wenn du dann schreist, so mögen dich die erretten, die du gesammelt hast; aber ein einziger Windstoß wird sie alle davontragen, #ein Hauch wird sie wegnehmen. Wer aber auf mich vertraut, der wird das Land ererben und meinen heiligen Berg besitzen."
 "Und er wird sagen
 "Denn also spricht der Hohe und Erhabene, der ewig wohnt und dessen Name heilig ist
 "Denn ich hadere nicht ewig und zürne nicht ohne Ende; denn ihr Geist würde vor mir verschmachten und die Seelen, die ich gemacht habe."

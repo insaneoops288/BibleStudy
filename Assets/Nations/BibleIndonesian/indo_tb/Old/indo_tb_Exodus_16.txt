@@ -1,4 +1,4 @@
-"Setelah mereka berangkat dari Elim, tibalah segenap jemaah Israel di padang gurun Sin, yang terletak di antara Elim dan gunung Sinai, pada hari yang kelima belas bulan yang kedua, sejak mereka keluar dari tanah Mesir."
+"Setelah mereka berangkat dari Elim, tibalah segenap jemaah Israel di padang gurun Sin, yang terletak di antara Elim #dan gunung Sinai, pada hari yang kelima belas bulan yang kedua, sejak mereka keluar dari tanah Mesir."
 "Di padang gurun itu bersungut-sungutlah segenap jemaah Israel kepada Musa dan Harun;"
 "dan berkata kepada mereka
 "Lalu berfirmanlah TUHAN kepada Musa
@@ -15,7 +15,7 @@
 "Ketika orang Israel melihatnya, berkatalah mereka seorang kepada yang lain
 "Beginilah perintah TUHAN
 "Demikianlah diperbuat orang Israel; mereka mengumpulkan, ada yang banyak, ada yang sedikit."
-"Ketika mereka menakarnya dengan gomer, maka orang yang mengumpulkan banyak, tidak kelebihan dan orang yang mengumpulkan sedikit, tidak kekurangan. Tiap-tiap orang mengumpulkan menurut keperluannya."
+"Ketika mereka menakarnya dengan gomer, maka orang yang mengumpulkan banyak, tidak kelebihan dan #orang yang mengumpulkan sedikit, tidak kekurangan. Tiap-tiap orang mengumpulkan menurut keperluannya."
 "Musa berkata kepada mereka
 "Tetapi ada yang tidak mendengarkan Musa dan meninggalkan dari padanya sampai pagi, lalu berulat dan berbau busuk. Maka Musa menjadi marah kepada mereka."
 "Setiap pagi mereka memungutnya, tiap-tiap orang menurut keperluannya; tetapi ketika matahari panas, cairlah itu."
@@ -26,7 +26,7 @@
 "Enam hari lamanya kamu memungutnya, tetapi pada hari yang ketujuh ada sabat; maka roti itu tidak ada pada hari itu."""
 "Tetapi ketika pada hari ketujuh ada dari bangsa itu yang keluar memungutnya, tidaklah mereka mendapatnya."
 "Sebab itu TUHAN berfirman kepada Musa
-"Perhatikanlah, TUHAN telah memberikan sabat itu kepadamu; itulah sebabnya pada hari keenam Ia memberikan kepadamu roti untuk dua hari. Tinggallah kamu di tempatmu masing-masing, seorangpun tidak boleh keluar dari tempatnya pada hari ketujuh itu."""
+"Perhatikanlah, TUHAN telah memberikan sabat itu kepadamu; itulah sebabnya pada hari keenam Ia memberikan kepadamu roti untuk dua #hari. Tinggallah kamu di tempatmu masing-masing, seorangpun tidak boleh keluar dari tempatnya pada hari ketujuh itu."""
 "Lalu beristirahatlah bangsa itu pada hari ketujuh."
 "Umat Israel menyebutkan namanya
 "Musa berkata

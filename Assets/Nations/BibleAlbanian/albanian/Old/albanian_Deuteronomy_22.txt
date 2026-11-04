@@ -16,9 +16,9 @@
 "dhe babai i së resë do t'u thotë pleqve
 "dhe tani e akuzon për gjëra të turpshme, duke thënë
 "Atëherë pleqtë e atij qyteti do të marrin bashkëshortin dhe do ta dënojnë me rrahje;"
-"dhe duke qenë se i ka hapur një nam të keq një virgjëreshe të Izraelit, do t'i vënë një gjobë prej njëqind siklash argjendi, që do t'ia japin të atit të së resë; kështu ajo do të mbetet bashkëshorte e tij dhe ai nuk do të mund ta përzërë deri sa të rrojë."
+"dhe duke qenë se i ka hapur një nam të keq një virgjëreshe të Izraelit, do t'i vënë një gjobë prej njëqind siklash argjendi, që do t'ia #japin të atit të së resë; kështu ajo do të mbetet bashkëshorte e tij dhe ai nuk do të mund ta përzërë deri sa të rrojë."
 "Por në qoftë se vërtetohet fakti dhe tek e reja nuk janë gjetur shenjat e virgjërisë,"
-"atëherë do ta nxjerrin të renë te pragu i shtëpisë së babait të saj dhe njerëzit e qytetit të saj do ta vrasin me gurë, dhe ajo ka për të vdekur, sepse ka kryer një vepër të turpshme në Izrael, duke u bërë kurvë në shtëpinë e atit të saj. Kështu do të shkulësh të keqen nga gjiri juaj"
+"atëherë do ta nxjerrin të renë te pragu i shtëpisë së babait të saj dhe njerëzit e qytetit të saj do ta vrasin me gurë, dhe ajo ka për të #vdekur, sepse ka kryer një vepër të turpshme në Izrael, duke u bërë kurvë në shtëpinë e atit të saj. Kështu do të shkulësh të keqen nga gjiri juaj"
 "Në rast se një burrë gjendet në shtrat me një grua të martuar, do të vriten që të dy, si burri që ka rënë me gruan dhe gruaja. Kështu do të shkulësh të keqen nga gjiri i Izraelit."
 "Kur një vajzë e virgjër është e fejuar, dhe një burrë e gjen në qytet dhe bie në shtrat me të,"
 "që të dy do t'i çoni në portën e atij qyteti dhe do t'i vritni me gurë, dhe ata do të vdesin

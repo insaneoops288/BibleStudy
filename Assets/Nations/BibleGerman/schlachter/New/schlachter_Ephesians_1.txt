@@ -10,7 +10,7 @@
 "damit es ausgeführt würde in der Fülle der Zeiten
 "In ihm haben auch wir Anteil erlangt, die wir vorherbestimmt waren nach dem Vorsatz dessen, der alles wirkt nach dem Ratschluß seines Willens,"
 "daß wir zum Lobe seiner Herrlichkeit dienten, die wir zuvor auf Christus gehofft hatten;"
-"in ihm[seid] auch ihr, nachdem ihr das Wort der Wahrheit, das Evangelium eurer Rettung gehört habt, in ihm seid auch ihr, als ihr glaubtet, versiegelt worden mit dem heiligen Geiste der Verheißung,"
+"in ihm[seid] auch ihr, nachdem ihr das Wort der Wahrheit, das Evangelium eurer Rettung gehört habt, in #ihm seid auch ihr, als ihr glaubtet, versiegelt worden mit dem heiligen Geiste der Verheißung,"
 "welcher das Pfand unsres Erbes ist bis zur Erlösung des Eigentums, zum Preise seiner Herrlichkeit."
 "Darum lasse auch ich, nachdem ich von eurem Glauben an den Herrn Jesus und von der Liebe zu allen Heiligen gehört habe,"
 "nicht ab, für euch zu danken und in meinen Gebeten euer zu gedenken,"

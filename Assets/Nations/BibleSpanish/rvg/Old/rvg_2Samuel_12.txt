@@ -1,12 +1,12 @@
 "Y Jehová envió a Natán a David, el cual viniendo a él, le dijo
 "El rico tenía numerosas ovejas y vacas;"
-"pero el pobre no tenía más que una sola corderita, que él había comprado y criado, y que había crecido con él y con sus hijos juntamente, comiendo de su bocado y bebiendo de su vaso, y durmiendo en su seno; y la tenía como a una hija."
-"Y vino uno de camino al hombre rico; y él no quiso tomar de sus ovejas y de sus vacas, para guisar para el caminante que había venido a él, sino que tomó la corderita de aquel hombre pobre, y la aderezó para aquél que había venido a él."
+"pero el pobre no tenía más que una sola corderita, que él había comprado y criado, y que había crecido con él y con sus #hijos juntamente, comiendo de su bocado y bebiendo de su vaso, y durmiendo en su seno; y la tenía como a una hija."
+"Y vino uno de camino al hombre rico; y él no quiso tomar de sus ovejas y de sus vacas, para guisar para el caminante #que había venido a él, sino que tomó la corderita de aquel hombre pobre, y la aderezó para aquél que había venido a él."
 "Entonces se encendió el furor de David en gran manera contra aquel hombre, y dijo a Natán
 "Y debe pagar la cordera con cuatro tantos, porque hizo esta tal cosa, y no tuvo misericordia."
 "Entonces dijo Natán a David
 "y te di la casa de tu señor, y las esposas de tu señor en tu seno; además te di la casa de Israel y de Judá; y si [esto fuera] poco, yo te habría añadido tales y tales cosas."
-"¿Por qué, pues, tuviste en poco la palabra de Jehová, haciendo lo malo delante de sus ojos? A Urías heteo heriste a espada, y tomaste por tu esposa a su esposa, y a él mataste con la espada de los hijos de Amón."
+"¿Por qué, pues, tuviste en poco la palabra de Jehová, haciendo lo malo delante de sus ojos? A Urías heteo heriste a #espada, y tomaste por tu esposa a su esposa, y a él mataste con la espada de los hijos de Amón."
 "Por lo cual ahora la espada jamás se apartará de tu casa; por cuanto me menospreciaste, y tomaste la esposa de Urías heteo para que fuese tu esposa."
 "Así dice Jehová
 "Porque tú lo hiciste en secreto; pero yo haré esto delante de todo Israel y a pleno sol."
@@ -28,4 +28,4 @@
 "Reúne, pues, ahora el pueblo que queda, y acampa contra la ciudad, y tómala tú; no sea que tomando la ciudad yo, sea llamada de mi nombre."
 "Y David reuniendo a todo el pueblo, fue contra Rabá, y combatió contra ella, y la tomó."
 "Y quitó la corona de la cabeza de su rey, la cual pesaba un talento de oro, y tenía piedras preciosas; y fue [puesta] sobre la cabeza de David. Y sacó muy grande botín de la ciudad."
-"Sacó además el pueblo que estaba en ella, y lo puso debajo de sierras, y de trillos de hierro, y de hachas de hierro; y los hizo pasar por hornos de ladrillos; y lo mismo hizo a todas las ciudades de los hijos de Amón. Se volvió luego David con todo el pueblo a Jerusalén."
+"Sacó además el pueblo que estaba en ella, y lo puso debajo de sierras, y de trillos de hierro, y de hachas de hierro; y los hizo pasar #por hornos de ladrillos; y lo mismo hizo a todas las ciudades de los hijos de Amón. Se volvió luego David con todo el pueblo a Jerusalén."

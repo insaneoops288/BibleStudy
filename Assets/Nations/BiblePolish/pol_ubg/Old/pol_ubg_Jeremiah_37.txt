@@ -18,4 +18,4 @@
 "Nadto Jeremiasz powiedział do króla Sedekiasza
 "Gdzie są wasi prorocy, którzy wam prorokowali, mówiąc
 "Teraz więc słuchaj, proszę, królu, mój panie. Niech moja prośba dotrze do ciebie
-"Król Sedekiasz rozkazał więc oddać Jeremiasza pod straż na dziedzińcu więzienia i aby dawano mu bochenek chleba dziennie z ulicy Piekarzy, póki nie został wyczerpany cały chleb w mieście. A Jeremiasz pozostał na dziedzińcu więzienia."
+"Król Sedekiasz rozkazał więc oddać Jeremiasza pod straż na dziedzińcu więzienia i aby dawano mu bochenek chleba dziennie #z ulicy Piekarzy, póki nie został wyczerpany cały chleb w mieście. A Jeremiasz pozostał na dziedzińcu więzienia."

@@ -14,7 +14,7 @@
 "Azor zeugte den Sadok, Sadok zeugte den Achim, Achim zeugte den Eliud,"
 "Eliud zeugte den Eleazar, Eleazar zeugte den Mattan, Mattan zeugte den Jakob,"
 "Jakob zeugte den Joseph, den Mann der Maria, von welcher geboren ist Jesus, der genannt wird Christus."
-"So sind es nun von Abraham bis auf David insgesamt vierzehn Glieder; und von David bis zurÜbersiedelung nach Babylon vierzehn Glieder; und von derÜbersiedelung nach Babylon bis auf Christus vierzehn Glieder."
+"So sind es nun von Abraham bis auf David insgesamt vierzehn Glieder; und von David bis #zurÜbersiedelung nach Babylon vierzehn Glieder; und von derÜbersiedelung nach Babylon bis auf Christus vierzehn Glieder."
 "Die Geburt Jesu Christi aber war also
 "Aber Joseph, ihr Mann, der gerecht war und sie doch nicht an den Pranger stellen wollte, gedachte sie heimlich zu entlassen."
 "Während er aber solches im Sinne hatte, siehe, da erschien ihm ein Engel des Herrn im Traum, der sprach

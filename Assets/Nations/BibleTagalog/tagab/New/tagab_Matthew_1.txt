@@ -14,7 +14,7 @@
 "At naging anak ni Azor si Sadoc; at naging anak ni Sadoc si Aquim; at naging anak ni Aquim si Eliud;"
 "At naging anak ni Eliud si Eleazar; at naging anak ni Eleazar si Matan; at naging anak ni Matan si Jacob;"
 "At naging anak ni Jacob si Jose asawa ni Maria, na siyang nanganak kay Jesus, na siyang tinatawag na Cristo."
-"Sa makatuwid ang lahat ng mga salit-saling lahi buhat kay Abraham hanggang kay David ay labingapat na salit-saling lahi; at buhat kay David hanggang sa pagdalang-bihag sa Babilonia ay labingapat na sali't-saling lahi; at buhat sa pagkadalang-bihag sa Babilonia hanggang kay Cristo ay labingapat na sali't-saling lahi."
+"Sa makatuwid ang lahat ng mga salit-saling lahi buhat kay Abraham hanggang kay David ay labingapat na salit-saling lahi; at buhat kay David hanggang #sa pagdalang-bihag sa Babilonia ay labingapat na sali't-saling lahi; at buhat sa pagkadalang-bihag sa Babilonia hanggang kay Cristo ay labingapat na sali't-saling lahi."
 "Ang pagkapanganak nga kay Jesucristo ay ganito
 "At si Jose na kaniyang asawa, palibhasa'y lalaking matuwid, at ayaw na ihayag sa madla ang kaniyang kapurihan, ay nagpasiyang hiwalayan siya ng lihim."
 "Datapuwa't samantalang pinagiisip niya ito, narito, ang isang anghel ng Panginoon ay napakita sa kaniya sa panaginip, na nagsasabi

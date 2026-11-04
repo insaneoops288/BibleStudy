@@ -2,7 +2,7 @@
 "Mandei o meu irmão Hanani, e Hananias, chefe do palácio de Jerusalém (porque era um homem fiel e temente a Deus, mais que muitos),"
 "E disse-lhes
 "E a cidade era espaçosa e grande, porém pouca gente havia dentro dela, e as casas [ainda] não tinham sido reconstruídas."
-"Então Deus pôs em meu coração que juntasse os nobres, os oficiais, e o povo, para que fossem registrados pela ordem de suas genealogias; e achei o livro da genealogia dos que haviam subido antes, e achei nele escrito [o seguinte]
+"Então Deus pôs em meu coração que juntasse os nobres, os oficiais, e o povo, para que fossem registrados pela ordem #de suas genealogias; e achei o livro da genealogia dos que haviam subido antes, e achei nele escrito [o seguinte]
 "Estes são os filhos da província que subiram do cativeiro, dos que foram levados por Nabucodonosor rei de Babilônia, e que voltaram a Jerusalém e a Judá cada um à sua cidade;"
 "Os quais vieram com Zorobabel, Jesua, Neemias, Azarias, Raamias, Naamani, Mardoqueu, Bilsã, Misperete, Bigvai, Neum, Baaná. Este é o número dos homens do povo de Israel
 "Os filhos de Parós, dois mil cento e setenta e dois;"
@@ -70,4 +70,4 @@
 "E alguns dos chefes das famílias fizeram doações para a obra. O governador deu para o tesouro mil dracmas de ouro, cinquenta bacias, e quinhentas trinta vestes sacerdotais."
 "E [alguns] dos chefes das famílias deram para o tesouro da obra, vinte mil dracmas de ouro, e duas mil e duzentas libras de prata."
 "E o que o resto do povo deu foi vinte mil dracmas de ouro, duas mil libras de prata, e sessenta e sete vestes sacerdotais."
-"E os sacerdotes, os Levitas, e os porteiros, os cantores, os do povo, os servos do templo, e todo Israel, habitaram em suas cidades.E vindo o mês sétimo, estando os filhos de Israel em suas cidades,"
+"E os sacerdotes, os Levitas, e os porteiros, os cantores, os do povo, os servos do templo, e todo #Israel, habitaram em suas cidades.E vindo o mês sétimo, estando os filhos de Israel em suas cidades,"

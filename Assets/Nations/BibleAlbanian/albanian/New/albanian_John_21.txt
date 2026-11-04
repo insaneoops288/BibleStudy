@@ -15,7 +15,7 @@
 "Mbasi kishin ngrënë, Jezusi i tha Simon Pjetrit
 "Përsëri e pyeti për të dytën herë
 "E pyeti për të tretën herë
-"Në të vërtetë, në të vërtetë po të them se, kur ti ishe i ri, e ngjeshje vetveten dhe shkoje ku të doje; po kur të jesh plak, do t'i shtrish duart dhe dikush tjetër do të të ngjeshë e do të të çojë atje ku ti nuk do të doje''."
+"Në të vërtetë, në të vërtetë po të them se, kur ti ishe i ri, e ngjeshje vetveten dhe shkoje ku të doje; po kur të #jesh plak, do t'i shtrish duart dhe dikush tjetër do të të ngjeshë e do të të çojë atje ku ti nuk do të doje''."
 "I tha këto fjalë për të bërë të ditur se me ç'vdekje ai do ta përlëvdonte Perëndinë. Dhe, si i tha këto, i tha
 "Dhe Pjetri u kthye dhe pa se po e ndiqte dishepulli, të cilin Jezusi e donte, ai që gjatë darkës ishte mbështetur mbi kraharorin e Jezusit dhe kishte pyetur
 "Kur Pjetri e pa, i tha Jezusit

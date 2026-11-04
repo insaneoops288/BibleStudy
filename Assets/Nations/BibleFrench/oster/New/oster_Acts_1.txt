@@ -1,6 +1,6 @@
 "J'ai fait mon premier livre, ô Théophile, sur toutes les choses que Jésus a faites et enseignées depuis le commencement,"
 "Jusqu'au jour où il fut élevé dans le ciel, après avoir donné ses ordres, par le Saint-Esprit, aux apôtres qu'il avait choisis;"
-"Auxquels aussi, après avoir souffert, il se montra encore vivant, et leur en donna plusieurs preuves, leur apparaissant pendant quarante jours, et leur parlant de ce qui regarde le royaume de Dieu."
+"Auxquels aussi, après avoir souffert, il se montra encore vivant, et leur en donna plusieurs preuves, leur #apparaissant pendant quarante jours, et leur parlant de ce qui regarde le royaume de Dieu."
 "Et les ayant assemblés, il leur commanda de ne point s'éloigner de Jérusalem, mais d'y attendre la promesse du Père, laquelle, dit-il, vous avez entendue de moi."
 "C'est que Jean a baptisé d'eau, mais que vous, vous serez baptisés du Saint-Esprit dans peu de jours."
 "Eux donc étant assemblés, l'interrogeaient en disant
@@ -10,7 +10,7 @@
 "Et comme ils avaient les yeux attachés au ciel pendant qu'il s'en allait, deux hommes se présentèrent à eux en vêtements blancs,"
 "Et leur dirent
 "Alors ils s'en retournèrent à Jérusalem, de la montagne dite des Oliviers, qui est près de Jérusalem, à une distance de sabbat."
-"Et quand ils furent arrivés, ils montèrent dans la chambre haute, où demeuraient Pierre, Jacques, Jean, André, Philippe, Thomas, Barthélemi, Matthieu, Jacques, fils d'Alphée, Simon le Zélote, et Jude, frère de Jacques."
+"Et quand ils furent arrivés, ils montèrent dans la chambre haute, où demeuraient Pierre, Jacques, Jean, André, #Philippe, Thomas, Barthélemi, Matthieu, Jacques, fils d'Alphée, Simon le Zélote, et Jude, frère de Jacques."
 "Tous ceux-là persévéraient d'un commun accord dans la prière et dans l'oraison, avec les femmes, et Marie, mère de Jésus, et avec ses frères."
 "En ces jours-là, Pierre se levant au milieu des disciples, assemblés au nombre d'environ cent vingt personnes, leur dit
 "Hommes frères, il fallait que la prophétie que le Saint-Esprit a prononcée par la bouche de David, touchant Judas, qui a été le conducteur de ceux qui ont pris Jésus, fût accomplie."

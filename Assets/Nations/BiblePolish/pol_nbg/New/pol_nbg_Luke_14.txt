@@ -28,7 +28,7 @@
 "Bo kto z was, chcąc zbudować wieżę, najpierw nie siada i nie przelicza wydatku, czy ma na wykonanie?"
 "By przypadkiem nie położył fundamentu, a nie mógł jej wykończyć. A wszyscy, którzy by to widzieli, zaczęliby z niego kpić,"
 "mówiąc
-"Albo który król, gdy wyrusza zetrzeć się na wojnie z drugim królem, nie usiądzie i wpierw się nie zastanowi, czy jest zdatny w dziesięć tysięcy wyjść naprzeciwko dwudziestu tysiącom, co wyruszają przeciw niemu?"
+"Albo który król, gdy wyrusza zetrzeć się na wojnie z drugim królem, nie usiądzie i wpierw się #nie zastanowi, czy jest zdatny w dziesięć tysięcy wyjść naprzeciwko dwudziestu tysiącom, co wyruszają przeciw niemu?"
 "Zaś jeśli nie, kiedy on jest jeszcze daleko, wysyła poselstwo i wypytuje odnośnie pokoju."
 "Tak więc, każdy z was, kto nie wyrzeka się wszystkich swoich majętności nie może być moim uczniem."
 "Sól jest dobra; ale jeśli sól straci smak, czym zostanie przyprawiona?"

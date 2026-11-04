@@ -3,7 +3,7 @@
 "Nguni't magsilapit kayo rito, kayong mga anak ng babaing manghuhula, na lahi ng mangangalunya at ng patutot."
 "Laban kanino nakipagaglahian kayo? laban kanino nagluluwang kayo ng bibig, at naglalawit ng dila? hindi baga kayo mga anak ng pagsalangsang, lahing sinungaling,"
 "Kayong mga nangagaalab sa inyong sarili sa gitna ng mga encina, sa ilalim ng bawa't sariwang punong kahoy; na pumapatay ng mga anak sa mga libis, sa mga bitak ng mga bato sa mga bangin?"
-"Nasa gitna ng mga makinis na bato sa libis ang iyong bahagi; sila, sila ang iyong bahagi; sa kanila ka nga nagbuhos ng inuming handog, ikaw ay naghandog ng alay. Matatahimik baga ako sa mga bagay na ito?"
+"Nasa gitna ng mga makinis na bato sa libis ang iyong bahagi; sila, sila ang iyong bahagi; sa kanila ka #nga nagbuhos ng inuming handog, ikaw ay naghandog ng alay. Matatahimik baga ako sa mga bagay na ito?"
 "Sa isang mataas at matayog na bundok ay inilagay mo ang iyong higaan; doon ka naman sumampa upang maghandog ng hain."
 "At sa likod ng mga pintuan at ng mga tukod ay itinaas mo ang iyong alaala
 "At ikaw ay naparoon sa hari na may pahid na langis, at iyong pinarami ang iyong mga pabango, at iyong sinugo ang iyong mga sugo sa malayo, at ikaw ay nagpakababa hanggang sa Sheol."
@@ -12,7 +12,7 @@
 "Aking ipahahayag ang iyong katuwiran; at tungkol sa iyong mga gawa, ang mga yaong hindi makikinabang sa iyo."
 "Pagka ikaw ay humihiyaw, iligtas ka nila na iyong pinisan; nguni't tatangayin sila ng hangin, isang hinga ay tatangay sa kanila
 "At kaniyang sasabihin, inyong patagin, inyong patagin, inyong ihanda ang lansangan, inyong alisin ang katitisuran sa lansangan ng aking bayan."
-"Sapagka't ganito ang sabi ng Mataas at Matayog na tumatahan sa walang hanggan, na ang pangalan ay Banal; Ako'y tumatahan sa mataas at banal na dako na kasama rin niya na may pagsisisi at pagpapakumbabang-loob, upang bumuhay ng loob ng nagpapakumbaba, at upang bumuhay ng puso ng nagsisisi."
+"Sapagka't ganito ang sabi ng Mataas at Matayog na tumatahan sa walang hanggan, na ang pangalan ay Banal; Ako'y tumatahan sa mataas at banal na #dako na kasama rin niya na may pagsisisi at pagpapakumbabang-loob, upang bumuhay ng loob ng nagpapakumbaba, at upang bumuhay ng puso ng nagsisisi."
 "Sapagka't hindi ako makikipagtalo magpakailan man, o mapopoot man akong lagi; sapagka't ang diwa ay manglulupaypay sa harap ko, at ang mga kaluluwa na aking ginawa."
 "Dahil sa kasamaan ng kaniyang kasakiman ay napoot ako, at sinaktan ko siya; aking ikinubli ang aking mukha at ako'y napoot; at siya'y yumaong nanghimagsik ng lakad ng kaniyang puso."
 "Aking nakita ang kaniyang mga lakad, at pagagalingin ko siya; akin ding papatnubayan siya, at bibigyan ko ng mga kaaliwan siya, at ang kaniyang nangananangis."

@@ -2,10 +2,10 @@
 "Rozkaż synom Izraela, aby dali Lewitom ze swej dziedzicznej posiadłości miasta na zamieszkanie, dacie Lewitom też pastwiska dokoła ich miast."
 "Będą mieli miasta na mieszkanie, a ich pastwiska będą dla ich bydła, dla ich dobytku i dla wszystkich ich zwierząt."
 "Pastwiska miast, które dacie Lewitom, będą rozciągać się na tysiąc łokci wokół murów miasta."
-"Odmierzycie również poza miastem dwa tysiące łokci po stronie wschodniej, po stronie południowej też dwa tysiące łokci, także po stronie zachodniej dwa tysiące łokci i po stronie północnej dwa tysiące łokci, a miasto będzie w środku. To będą pastwiska ich miast."
+"Odmierzycie również poza miastem dwa tysiące łokci po stronie wschodniej, po stronie południowej też dwa tysiące łokci, także po stronie zachodniej #dwa tysiące łokci i po stronie północnej dwa tysiące łokci, a miasto będzie w środku. To będą pastwiska ich miast."
 "A spośród tych miast, które dacie Lewitom, sześć będzie miastami schronienia, które przekażecie, aby mógł tam uciec zabójca. Oprócz nich dacie im czterdzieści dwa miasta."
 "Wszystkich miast, które dacie Lewitom, będzie czterdzieści osiem wraz z ich pastwiskami."
-"A miasta, które im dacie, będą pochodziły z posiadłości synów Izraela; od liczniejszego dacie więcej, a od mniej licznego dacie mniej; każdy da Lewitom ze swoich miast stosownie do otrzymanego dziedzictwa."
+"A miasta, które im dacie, będą pochodziły z posiadłości synów Izraela; od liczniejszego dacie więcej, a #od mniej licznego dacie mniej; każdy da Lewitom ze swoich miast stosownie do otrzymanego dziedzictwa."
 "Potem PAN powiedział do Mojżesza
 "Przemów do synów Izraela i powiedz im
 "Wyznaczcie sobie miasta, które będą dla was miastami schronienia, aby mógł tam uciec zabójca, który zabił kogoś nieumyślnie."
@@ -22,7 +22,7 @@
 "Lecz jeśli niespodziewanie i bez wrogości go popchnie albo rzuci w niego czymkolwiek bez zasadzki;"
 "Albo jeśli nie widząc, upuści na niego jakiś kamień, którym można zabić, a ten umrze, chociaż nie był jego wrogiem ani nie szukał jego krzywdy;"
 "Wtedy zgromadzenie rozsądzi pomiędzy tym, który zabił, a między mścicielem krwi według tych praw."
-"I zgromadzenie wybawi zabójcę z rąk mściciela krwi; zgromadzenie też przekaże go miastu schronienia, do którego uciekł. Tam będzie mieszkał aż do śmierci najwyższego kapłana, namaszczonego olejem świętym."
+"I zgromadzenie wybawi zabójcę z rąk mściciela krwi; zgromadzenie też przekaże go miastu schronienia, do #którego uciekł. Tam będzie mieszkał aż do śmierci najwyższego kapłana, namaszczonego olejem świętym."
 "Lecz jeśli zabójca wyjdzie poza granice swojego miasta schronienia, do którego uciekł;"
 "I mściciel trafi tam na niego poza granicą jego miasta schronienia, i zabije zabójcę, to nie będzie winien krwi."
 "Ten bowiem ma mieszkać w swoim mieście schronienia aż do śmierci najwyższego kapłana. Lecz po śmierci najwyższego kapłana zabójca może wrócić do ziemi swojej posiadłości."

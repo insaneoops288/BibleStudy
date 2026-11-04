@@ -14,7 +14,7 @@
 "Petrus aber stand auf mit den Elfen, erhob seine Stimme und redete zu ihnen
 "Denn diese sind nicht trunken, wie ihr meinet, denn es ist die dritte Stunde des Tages;"
 "sondern dies ist es, was durch den Propheten Joel gesagt ist
-"""Und es wird geschehen in den letzten Tagen, spricht Gott, daß ich von meinem Geiste ausgießen werde auf alles Fleisch, und eure Söhne und eure Töchter werden weissagen, und eure Jünglinge werden Gesichte sehen, und eureÄltesten werden Träume haben;"
+"""Und es wird geschehen in den letzten Tagen, spricht Gott, daß ich von meinem Geiste ausgießen werde auf alles Fleisch, #und eure Söhne und eure Töchter werden weissagen, und eure Jünglinge werden Gesichte sehen, und eureÄltesten werden Träume haben;"
 "und sogar auf meine Knechte und auf meine Mägde werde ich in jenen Tagen von meinem Geiste ausgießen, und sie werden weissagen."
 "Und ich werde Wunder geben in dem Himmel oben und Zeichen auf der Erde unten
 "die Sonne wird verwandelt werden in Finsternis und der Mond in Blut, ehe der große und herrliche Tag des Herrn kommt."

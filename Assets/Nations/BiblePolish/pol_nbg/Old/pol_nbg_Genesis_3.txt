@@ -3,7 +3,7 @@
 "Tylko z owocu drzewa, które jest w środku ogrodu powiedział Bóg z niego nie spożywajcie i go nie dotykajcie, abyście nie umarli."
 "A wąż powiedział do niewiasty
 "Ale Bóg wie, że w dniu, w którym będziecie z niego jeść, otworzą się wasze oczy i staniecie się jak bogowie, co poznają dobre i złe."
-"Więc niewiasta widząc, że owoc drzewa jest dobry do spożycia, że jest rozkoszą dla oczu, a samo drzewo pożądane do nauczenia się wzięła z jego owocu i jadła; dała też swojemu mężowi przy sobie i jadł."
+"Więc niewiasta widząc, że owoc drzewa jest dobry do spożycia, że jest rozkoszą dla oczu, a samo drzewo pożądane #do nauczenia się wzięła z jego owocu i jadła; dała też swojemu mężowi przy sobie i jadł."
 "Zatem otworzyły się oczy obojga oraz poznali, że są nadzy. Więc spletli figowe liście i uczynili sobie przepaski."
 "Usłyszeli też głos WIEKUISTEGO, Boga, który z dziennym powiewem rozlegał się po ogrodzie; więc Adam skrył się przed obliczem WIEKUISTEGO, Boga, pomiędzy drzewa ogrodu, a także jego żona."
 "Zaś WIEKUISTY, Bóg, zawołał Adama oraz do niego powiedział

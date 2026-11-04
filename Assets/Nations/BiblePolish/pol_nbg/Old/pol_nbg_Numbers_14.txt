@@ -11,7 +11,7 @@
 "I Wiekuisty powiedział do Mojżesza
 "Porażę go zarazą i go wyplenię, a z ciebie uczynię naród większy oraz silniejszy od niego."
 "Ale Mojżesz powiedział do WIEKUISTEGO
-"i powiedzą to mieszkańcom tej ziemi, którzy już słyszeli, że Ty, WIEKUISTY, jesteś wśród tego ludu; że im się ukazałeś oko w oko, Ty, WIEKUISTY; że Twój obłok stoi nad nami, i że w słupie obłoku idziesz przed nami we dnie, a w słupie ognia w nocy."
+"i powiedzą to mieszkańcom tej ziemi, którzy już słyszeli, że Ty, WIEKUISTY, jesteś wśród tego ludu; że im się ukazałeś oko w oko, Ty, #WIEKUISTY; że Twój obłok stoi nad nami, i że w słupie obłoku idziesz przed nami we dnie, a w słupie ognia w nocy."
 "Więc gdybyś zgładził ten lud co do jednego, to narody, które słyszały o Twojej sławie powiedzą, mówiąc
 "Ponieważ WIEKUISTY nie mógł sprowadzić tego ludu do ziemi, którą im przysiągł dlatego wytępił ich na pustyni."
 "Zatem niech się okaże wielką siła WIEKUISTEGO, tak jak to wypowiedziałeś w słowach

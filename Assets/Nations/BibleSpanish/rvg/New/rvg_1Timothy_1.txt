@@ -6,7 +6,7 @@
 "de lo cual desviándose algunos, se apartaron a vanas palabrerías;"
 "queriendo ser doctores de la ley, sin entender ni lo que hablan, ni lo que afirman."
 "Pero sabemos que la ley [es] buena, si uno la usa legítimamente;"
-"sabiendo esto, que la ley no es puesta para el justo, sino para los injustos y desobedientes, para los impíos y pecadores, para los malos y profanos, para los parricidas y matricidas, para los homicidas,"
+"sabiendo esto, que la ley no es puesta para el justo, sino para los injustos y desobedientes, para #los impíos y pecadores, para los malos y profanos, para los parricidas y matricidas, para los homicidas,"
 "para los fornicarios, para los sodomitas, para los secuestradores, para los mentirosos y perjuros, y para cualquier otra cosa que sea contraria a la sana doctrina;"
 "según el glorioso evangelio del Dios bendito, que a mí me ha sido encomendado."
 "Y doy gracias al que me fortaleció, a Cristo Jesús nuestro Señor; porque me tuvo por fiel, poniéndome en el ministerio;"

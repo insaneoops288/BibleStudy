@@ -1,9 +1,9 @@
 "Ðức Giê-hô-va lại phán cùng Môi-se và A-rôn rằng
-"Khi một người nào da trên mình nổi sưng, mụt lở, hoặc một đém trắng, dường sẽ trở thành trên da mình một vít phung, thì người ta phải dẫn người đó đến thầy tế lễ A-rôn, hay là đến một trong các con trai người là những thầy tế lễ."
+"Khi một người nào da trên mình nổi sưng, mụt lở, hoặc một đém trắng, dường sẽ trở thành trên da mình một vít phung, thì #người ta phải dẫn người đó đến thầy tế lễ A-rôn, hay là đến một trong các con trai người là những thầy tế lễ."
 "Thầy tế lễ sẽ khám vít ở trên da thân người; nếu lông vít đó đã trở thành trắng, và nếu vít hủng xuống sâu hơn da thân mình, ấy là một vít phung
 "Còn nếu có một đém trắng trên da thân người, đém không sủng xuống sâu hơn da, và nếu lông không trở thành trắng, thì thầy tế lễ phải giam người đó trong bảy ngày."
 "Qua ngày thứ bảy, thầy tế lễ sẽ khám người, nếu vít đó ngừng lại, không ăn lan trên da, thì phải giam người một lần thứ nhì bảy ngày nữa."
-"Qua ngày thứ bảy, thầy tế lễ sẽ khám người lại; nếu vít đó đã tái, không ăn lan trên da, thì thầy tế lễ sẽ định người đó là tinh sạch; ấy là mụt lở mà thôi. Người đó phải giặt áo xống mình, thì sẽ được tinh sạch."
+"Qua ngày thứ bảy, thầy tế lễ sẽ khám người lại; nếu vít đó đã tái, không ăn lan trên da, thì thầy tế lễ sẽ #định người đó là tinh sạch; ấy là mụt lở mà thôi. Người đó phải giặt áo xống mình, thì sẽ được tinh sạch."
 "Nhưng nếu sau khi người đã đến trước mặt thầy tế lễ để được định là tinh sạch, mụt lở còn phát lại trên da, thì người phải đến thầy tế lễ một lần thứ nhì."
 "Thầy tế lễ sẽ khám cho, nếu mụt lở đã ăn lan trên da thì phải định người là ô uế; ấy là bịnh phung vậy."
 "Khi có một vít phung trên người nào, thì phải dẫn người đó đi tỏ mình cùng thầy tế lễ."
@@ -31,7 +31,7 @@
 "Còn nếu khi thầy tế lễ khám vít đòng đanh, thấy vít không hủng sâu hơn da, và không thấy có lông đen, thì phải giam người có vít đòng đanh trong bảy ngày."
 "Qua ngày thứ bảy thầy tế lễ khám vít; nếu đòng đanh không ăn lan ra, không có lông vàng vàng, và không hủng sâu hơn da,"
 "thì người đó phải cạo gọt, nhưng không nên cạo gọt chỗ vít đòng đanh, rồi thầy tế lễ sẽ giam người một lần thứ nhì bảy ngày nữa."
-"Ðoạn ngày thứ bảy, thầy tế lễ khám cho; nếu đòng đanh không ăn lan trên da, không hủng sâu hơn da, thì thầy tế lễ phải định người là tinh sạch; kẻ bịnh phải giặt áo xống mình, thì sẽ được tinh sạch."
+"Ðoạn ngày thứ bảy, thầy tế lễ khám cho; nếu đòng đanh không ăn lan trên da, không hủng sâu hơn da, thì #thầy tế lễ phải định người là tinh sạch; kẻ bịnh phải giặt áo xống mình, thì sẽ được tinh sạch."
 "Nhưng nếu sau khi người đã được định là tinh sạch, đòng đanh lại còn ăn lan trên da, thì thầy tế lễ phải khám cho."
 "Nếu đòng đanh đã ăn lan trên da rồi, thầy tế lễ không cần tìm thấy lông vàng vàng, người đã bị ô uế."
 "Nhưng nếu đòng đanh xem bộ ngừng lại, và đã lố mọc lông đen, đòng đanh đã lành

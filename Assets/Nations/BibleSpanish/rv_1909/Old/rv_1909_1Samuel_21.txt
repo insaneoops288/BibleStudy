@@ -3,7 +3,7 @@
 "Ahora pues, ¿qué tienes á mano? dame cinco panes, ó lo que se hallare."
 "Y el sacerdote respondió á David, y dijo
 "Y David respondió al sacerdote, y díjole
-"Así el sacerdote le dió el pan sagrado, porque allí no había otro pan que los panes de la proposición, los cuales habían sido quitados de delante de Jehová, para que se pusiesen panes calientes el día que los otros fueron quitados."
+"Así el sacerdote le dió el pan sagrado, porque allí no había otro pan que los panes de la proposición, los cuales #habían sido quitados de delante de Jehová, para que se pusiesen panes calientes el día que los otros fueron quitados."
 "Aquel día estaba allí uno de los siervos de Saúl detenido delante de Jehová, el nombre del cual era Doeg, Idumeo, principal de los pastores de Saúl."
 "Y David dijo á Ahimelech
 "Y el sacerdote respondió

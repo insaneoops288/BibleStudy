@@ -18,7 +18,7 @@
 "I słowa ich spodobały się Chamorowi i jego synowi Sychemowi."
 "Młodzieniec nie odkładał więc tego, bo zakochał się w córce Jakuba. A był on ze wszystkich najbardziej szanowany w domu swego ojca."
 "Gdy Chamor i jego syn Sychem przyszli do bramy swego miasta, powiedzieli do mężczyzn swego miasta
-"Ci mężczyźni spokojnie z nami żyją. Niech więc mieszkają w tej ziemi i handlują w niej, bo oto nasza ziemia jest dość przestronna dla nich. Będziemy brać sobie ich córki za żony, a nasze córki będziemy im dawać."
+"Ci mężczyźni spokojnie z nami żyją. Niech więc mieszkają w tej ziemi i handlują w niej, bo oto nasza ziemia #jest dość przestronna dla nich. Będziemy brać sobie ich córki za żony, a nasze córki będziemy im dawać."
 "Zgodzą się ci mężczyźni mieszkać z nami, byśmy byli jednym ludem, ale pod warunkiem, że każdy mężczyzna u nas będzie obrzezany, tak jak i oni są obrzezani."
 "Czyż ich stada i dobytek oraz wszelkie ich bydło nie będą nasze? Na to tylko im pozwólmy, a zamieszkają z nami."
 "I usłuchali Chamora i jego syna Sychema wszyscy wychodzący z bramy swego miasta. I został obrzezany każdy mężczyzna, który wychodził z bramy swego miasta."

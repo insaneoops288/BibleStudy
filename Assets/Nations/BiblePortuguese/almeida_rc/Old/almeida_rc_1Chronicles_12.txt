@@ -5,7 +5,7 @@
 "Eluzai, e Jerimote, e Bealias, e Semarias, e Sefatias, o harufita;"
 "Elcana, e Issias, e Azarel, e Joezer, e Jasobeão, os coraítas;"
 "e Joela, e Zebadias, filhos de Jeroão, de Gedor."
-"E dos gaditas se retiraram a David, ao lugar forte no deserto, varões valentes, homens de guerra para pelejar, armados com rodela e lança; e seus rostos eram como rostos de leões, e eles eram ligeiros como corças sobre os montes;"
+"E dos gaditas se retiraram a David, ao lugar forte no deserto, varões valentes, homens de guerra para pelejar, armados com #rodela e lança; e seus rostos eram como rostos de leões, e eles eram ligeiros como corças sobre os montes;"
 "Eser, o cabeça, Obadias, o segundo, Eliabe, o terceiro,"
 "Mismana, o quarto, Jeremias, o quinto,"
 "Atai, o sexto, Eliel, o sétimo,"
@@ -16,7 +16,7 @@
 "Também vieram alguns dos filhos de Benjamim e de Judá a David, ao lugar forte."
 "E David lhes saiu ao encontro e lhes falou, dizendo
 "Então, entrou o Espírito em Amasai, chefe de trinta, e disse
-"Também de Manassés alguns passaram a David, quando veio com os filisteus para a batalha contra Saul, ainda que não ajudaram os filisteus; porque os príncipes dos filisteus, com conselho, o despediram, dizendo
+"Também de Manassés alguns passaram a David, quando veio com os filisteus para a batalha contra Saul, #ainda que não ajudaram os filisteus; porque os príncipes dos filisteus, com conselho, o despediram, dizendo
 "Voltando ele, pois, a Ziclague, passaram para ele, de Manassés, Adna, e Jozabade, e Jediael, e Micael, e Jozabade, e Eliú, e Ziletai, chefes de milhares dos de Manassés."
 "E estes ajudaram a David contra aquela tropa, porque todos eles eram heróis valentes e foram capitães no exército."
 "Porque, naquele tempo, de dia em dia, vinham a David para o ajudar, até que se fez um grande exército, como exército de Deus."
@@ -35,6 +35,6 @@
 "dos danitas, ordenados para a peleja, vinte e oito mil e seiscentos;"
 "de Aser, dos que saíam para o exército, para ordenarem a batalha, quarenta mil;"
 "da banda dalém do Jordão, dos rubenitas e gaditas e da meia tribo de Manassés, com toda sorte de instrumentos de guerra para pelejar, cento e vinte mil."
-"Todos estes homens de guerra, postos em ordem de batalha, com coração inteiro, vieram a Hebrom para levantar a David rei sobre todo o Israel; e também todo o resto de Israel tinha o mesmo coração para levantar a David rei."
+"Todos estes homens de guerra, postos em ordem de batalha, com coração inteiro, vieram a Hebrom para levantar a David rei #sobre todo o Israel; e também todo o resto de Israel tinha o mesmo coração para levantar a David rei."
 "E estiveram ali com David três dias, comendo e bebendo; porque seus irmãos lhes tinham preparado as provisões."
-"E também seus vizinhos de mais perto, até Issacar, e Zabulão, e Neftali, trouxeram pão sobre jumentos, e sobre camelos, e sobre mulos, e sobre bois, provisões de farinha, pastas de figos, e cachos de passas, e vinho, e azeite, e bois, e gado miúdo em abundância; porque havia alegria em Israel."
+"E também seus vizinhos de mais perto, até Issacar, e Zabulão, e Neftali, trouxeram pão sobre jumentos, e sobre camelos, e sobre mulos, e sobre bois, provisões #de farinha, pastas de figos, e cachos de passas, e vinho, e azeite, e bois, e gado miúdo em abundância; porque havia alegria em Israel."

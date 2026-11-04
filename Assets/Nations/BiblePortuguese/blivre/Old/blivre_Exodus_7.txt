@@ -17,7 +17,7 @@
 "Assim disse o SENHOR
 "E os peixes que há no rio morrerão, e federá o rio, e os egípcios terão asco de beber a água do rio."
 "E o SENHOR disse a Moisés
-"E Moisés e Arão fizeram como o SENHOR havia mandado; e levantando a vara feriu as águas que havia no rio, em presença de Faraó e de seus servos; e todas as águas que havia no rio se converteram em sangue."
+"E Moisés e Arão fizeram como o SENHOR havia mandado; e levantando a vara feriu as águas que havia no rio, #em presença de Faraó e de seus servos; e todas as águas que havia no rio se converteram em sangue."
 "Assim os peixes que havia no rio morreram; e o rio se contaminou, que os egípcios não podiam beber dele; e houve sangue por toda a terra do Egito."
 "E os encantadores do Egito fizeram o mesmo com seus encantamentos
 "E Faraó, tornando, voltou-se a sua casa, e não pôs seu coração ainda nisto."

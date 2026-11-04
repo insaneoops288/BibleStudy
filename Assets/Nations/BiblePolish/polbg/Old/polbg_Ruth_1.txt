@@ -1,5 +1,5 @@
 "I stało się za onych czasów, kiedy sędziowie sądzili, był głód w ziemi; i poszedł niektóry mąż z Betlehem Juda na mieszkanie do ziemi Moabskiej z żoną swoją i z dwoma synami swymi."
-"A imię męża onego było Elimelech, imię też żony jego Noemi, także imiona dwóch synów jego Mahalon i Chelijon, a ci byli Efratejczykami z Betlehem Juda, którzy zaszedłszy do krainy Moabskiej, mieszkali tam."
+"A imię męża onego było Elimelech, imię też żony jego Noemi, także imiona dwóch synów jego Mahalon #i Chelijon, a ci byli Efratejczykami z Betlehem Juda, którzy zaszedłszy do krainy Moabskiej, mieszkali tam."
 "Potem umarł Elimelech, mąż Noemi, a ona pozostała z dwoma synami swoimi."
 "I pojęli sobie żony Moabskie; imię jednej Orfa, a drugiej imię Rut; i mieszkali tam około dziesięciu lat."
 "Umarli potem i oni oba, Mahalon i Chelijon; i tak ona niewiasta osierociała po obu synach swoich i po mężu swoim."
@@ -9,8 +9,8 @@
 "Niech wam da Pan znaleźć odpocznienie, każdej w domu męża swego; i pocałowała je, a one podniósłszy głos swój, płakały,"
 "I mówiły do niej
 "A Noemi rzekła
-"Wróćcież się córki moje, a idźcie, bom się już zstarzała, a nie mogę iść za mąż. Choćbym też rzekła, jeszcze mam nadzieję, albo choćbym też dobrze tej nocy była za mężem choćbym też nawet i porodziła syny;"
-"Izali wy ich czekać będziecie, ażby dorośli? zaż się dla tego zatrzymacie, abyście nie szły za mąż? Nie tak córki moje; bo żałość moja większa jest niźli wasza, gdyż się obróciła przeciwko mnie ręka Pańska."
+"Wróćcież się córki moje, a idźcie, bom się już zstarzała, a nie mogę iść za mąż. Choćbym też rzekła, #jeszcze mam nadzieję, albo choćbym też dobrze tej nocy była za mężem choćbym też nawet i porodziła syny;"
+"Izali wy ich czekać będziecie, ażby dorośli? zaż się dla tego zatrzymacie, abyście nie szły za mąż? Nie #tak córki moje; bo żałość moja większa jest niźli wasza, gdyż się obróciła przeciwko mnie ręka Pańska."
 "Ale one podniósłszy głos swój, znowu płakały. I pocałowała Orfa świekrę swoję; a Ruta została przy niej."
 "Do której Noemi rzekła
 "Na co jej odpowiedziała Ruta

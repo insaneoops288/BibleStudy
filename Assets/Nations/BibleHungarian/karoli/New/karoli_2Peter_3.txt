@@ -13,6 +13,6 @@
 "De új eget és új földet várunk az õ ígérete szerint, a melyekben igazság lakozik."
 "Annakokáért szeretteim, ezeket várván , igyekezzetek, hogy szeplõ nélkül és hiba nélkül valóknak találjon titeket békességben."
 "És a mi Urunknak hosszútûrését idvességnek tartsátok; a miképen a mi szeretett atyánkfia Pál is írt néktek a néki adott bölcsesség szerint."
-"Szinte minden levelében is, a mikor ezekrõl beszél azokban; a melyekben vannak némely nehezen érthetõ dolgok, a miket a tudatlanok és állhatatlanok elcsûrnek-csavarnak, mint egyéb írásokat is, a magok vesztére."
+"Szinte minden levelében is, a mikor ezekrõl beszél azokban; a melyekben vannak némely nehezen érthetõ dolgok, #a miket a tudatlanok és állhatatlanok elcsûrnek-csavarnak, mint egyéb írásokat is, a magok vesztére."
 "Ti azért szeretteim elõre tudván [ezt], õrizkedjetek, hogy az istentelenek tévelygéseitõl elragadtatva, a saját erõsségetekbõl ki ne essetek;"
 "Hanem növekedjetek a kegyelemben és a mi Urunknak és megtartó Jézus Krisztusunknak ismeretében. Néki [legyen] dicsõség, mind most, mind örökkön-örökké. Ámen."

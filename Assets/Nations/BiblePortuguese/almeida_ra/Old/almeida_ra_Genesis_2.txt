@@ -16,7 +16,7 @@
 "Ordenou o Senhor Deus ao homem, dizendo
 "mas da árvore do conhecimento do bem e do mal, dessa não comerás; porque no dia em que dela comeres, certamente morrerás."
 "Disse mais o Senhor Deus
-"Da terra formou, pois, o Senhor Deus todos os animais o campo e todas as aves do céu, e os trouxe ao homem, para ver como lhes chamaria; e tudo o que o homem chamou a todo ser vivente, isso foi o seu nome."
+"Da terra formou, pois, o Senhor Deus todos os animais o campo e todas as aves do céu, e os trouxe ao homem, #para ver como lhes chamaria; e tudo o que o homem chamou a todo ser vivente, isso foi o seu nome."
 "Assim o homem deu nomes a todos os animais domésticos, às aves do céu e a todos os animais do campo; mas para o homem não se achava ajudadora idónea."
 "Então o Senhor Deus fez cair um sono pesado sobre o homem, e este adormeceu; tomou-lhe, então, uma das costelas, e fechou a carne em seu lugar;"
 "e da costela que o senhor Deus lhe tomara, formou a mulher e a trouxe ao homem."

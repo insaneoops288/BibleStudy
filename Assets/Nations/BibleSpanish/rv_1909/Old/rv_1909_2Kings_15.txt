@@ -22,11 +22,11 @@
 "Y durmió Manahem con sus padres, y reinó en su lugar Pekaía su hijo."
 "En el año cincuenta de Azarías rey de Judá, reinó Pekaía hijo de Manahem sobre Israel en Samaria, dos años."
 "E hizo lo malo en ojos de Jehová
-"Y conspiró contra él Peka hijo de Remalías, capitán suyo, é hiriólo en Samaria, en el palacio de la casa real, en compañía de Argob y de Ariph, y con cincuenta hombres de los hijos de los Galaaditas; y matólo, y reinó en su lugar."
+"Y conspiró contra él Peka hijo de Remalías, capitán suyo, é hiriólo en Samaria, en el palacio de la casa real, en compañía #de Argob y de Ariph, y con cincuenta hombres de los hijos de los Galaaditas; y matólo, y reinó en su lugar."
 "Lo demás de los hechos de Pekaía, y todas las cosas que hizo, he aquí está escrito en el libro de las crónicas de los reyes de Israel."
 "En el año cincuenta y dos de Azarías rey de Judá, reinó Peka hijo de Remalías sobre Israel en Samaria; y reinó veinte años."
 "E hizo lo malo en ojos de Jehová; no se apartó de los pecados de Jeroboam hijo de Nabat, el que hizo pecar á Israel."
-"En los días de Peka rey de Israel, vino Tiglath-pileser rey de los Asirios, y tomó á Ahión, Abel-beth-maachâ, y Janoa, y Cedes, y Asor, y Galaad, y Galilea, y toda la tierra de Nephtalí; y trasportólos á Asiria."
+"En los días de Peka rey de Israel, vino Tiglath-pileser rey de los Asirios, y tomó á Ahión, Abel-beth-maachâ, y #Janoa, y Cedes, y Asor, y Galaad, y Galilea, y toda la tierra de Nephtalí; y trasportólos á Asiria."
 "Y Oseas hijo de Ela hizo conjuración contra Peka hijo de Remalías, é hiriólo, y matólo, y reinó en su lugar, á los veinte años de Jotham hijo de Uzzía."
 "Lo demás de los hechos de Peka, y todo lo que hizo, he aquí está escrito en el libro de las crónicas de los reyes de Israel."
 "En el segundo año de Peka hijo de Remalías rey de Israel, comenzó á reinar Jotham hijo de Uzzía rey de Judá."

@@ -8,7 +8,7 @@
 "Por tanto, esperadme, dice Jehová, hasta el día que me levante al despojo
 "Entonces daré a los pueblos pureza de labios, para que todos invoquen el nombre de Jehová, para que de un consentimiento le sirvan."
 "De más allá de los ríos de Etiopía, mis suplicantes, [aun] la hija de mis esparcidos, me traerán ofrenda."
-"En aquel día no serás avergonzada por ninguna de tus obras con que te rebelaste contra mí; porque entonces quitaré de en medio de ti a los que se alegran en tu soberbia, y nunca más te ensoberbecerás en mi monte santo."
+"En aquel día no serás avergonzada por ninguna de tus obras con que te rebelaste contra mí; porque entonces quitaré de en #medio de ti a los que se alegran en tu soberbia, y nunca más te ensoberbecerás en mi monte santo."
 "Y dejaré en medio de ti a un pueblo humilde y pobre, los cuales esperarán en el nombre de Jehová."
 "El remanente de Israel no hará iniquidad, ni dirá mentira, ni en boca de ellos se hallará lengua engañosa
 "Canta, oh hija de Sión; da voces de júbilo, oh Israel; gózate y regocíjate de todo corazón, hija de Jerusalén."
@@ -17,4 +17,4 @@
 "Jehová tu Dios está en medio de ti, poderoso, Él salvará; se gozará sobre ti con alegría, callará de amor, se regocijará sobre ti con cánticos."
 "Reuniré a los que se afligen por la fiesta solemne, que son tuyos, [para quienes] el oprobio de ella era una carga."
 "He aquí, en aquel tiempo yo desharé a todos tus opresores; y salvaré la coja, y recogeré la descarriada; y los pondré por alabanza y por renombre en todo país donde han sido avergonzados."
-"En aquel tiempo yo os traeré, en aquel tiempo yo os reuniré; pues os daré por renombre y por alabanza entre todos los pueblos de la tierra, cuando haga volver vuestra cautividad delante de vuestros ojos, dice Jehová."
+"En aquel tiempo yo os traeré, en aquel tiempo yo os reuniré; pues os daré por renombre y por alabanza #entre todos los pueblos de la tierra, cuando haga volver vuestra cautividad delante de vuestros ojos, dice Jehová."

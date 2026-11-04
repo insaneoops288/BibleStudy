@@ -11,14 +11,14 @@
 "Wie der Adler sein Nest aufstört,über seinen Jungen schwebt, seine Flügel ausbreitet, sie aufnimmt, sie trägt auf seinen Schwingen;"
 "so leitete ihn Jehova allein, und kein fremder Gott war mit ihm."
 "Er ließ ihn einherfahren auf den Höhen der Erde, und er aß den Ertrag des Feldes; und er ließ ihn Honig saugen aus dem Felsen undÖl aus dem Kieselfelsen;"
-"geronnene Milch der Kühe und Milch der Schafe, samt dem Fette der Mastschafe und Widder, der Söhne Basans, und der Böcke, samt dem Nierenfett des Weizens; und der Traube Blut trankest du, feurigen Wein."
+"geronnene Milch der Kühe und Milch der Schafe, samt dem Fette der Mastschafe und Widder, der Söhne Basans, #und der Böcke, samt dem Nierenfett des Weizens; und der Traube Blut trankest du, feurigen Wein."
 "Da ward Jeschurun fett und schlug aus; du wurdest fett, dick, feist! Und er verließ Gott, der ihn gemacht hatte, und verachtete den Fels seiner Rettung."
 "Sie reizten ihn zur Eifersucht durch fremde Götter, durch Greuel erbitterten sie ihn."
 "Sie opferten den Dämonen, die Nicht-Gott sind, Göttern, die sie nicht kannten, neuen, die vor kurzem aufgekommen waren, die eure Väter nicht verehrten."
 "Den Felsen, der dich gezeugt, vernachlässigtest du, und vergaßest den Gott, der dich geboren."
 "Und Jehova sah es und verwarf sie, vor Unwillenüber seine Söhne und seine Töchter."
 "Und er sprach
-"Sie haben mich zur Eifersucht gereizt durch Nicht-Götter, haben mich erbittert durch ihre Nichtigkeiten; so will auch ich sie zur Eifersucht reizen durch ein Nicht-Volk, durch eine törichte Nation will ich sie erbittern."
+"Sie haben mich zur Eifersucht gereizt durch Nicht-Götter, haben mich erbittert durch ihre Nichtigkeiten; so will auch #ich sie zur Eifersucht reizen durch ein Nicht-Volk, durch eine törichte Nation will ich sie erbittern."
 "Denn ein Feuer ist entbrannt in meinem Zorn und wird brennen bis in den untersten Scheol, und es wird verzehren die Erde und ihren Ertrag und entzünden die Grundfesten der Berge."
 "Ich werde Unglücküber sie häufen, meine Pfeile wider sie verbrauchen."
 "Vergehen sie vor Hunger, und sind sie aufgezehrt von Fieberglut und giftiger Pest, so werde ich den Zahn wilder Tiere gegen sie senden, samt dem Gifte der im Staube Schleichenden."
@@ -44,9 +44,9 @@
 "Und Mose kam und redete alle Worte dieses Liedes vor den Ohren des Volkes, er und Hosea, der Sohn Nuns."
 "Und als Mose alle diese Worte zu dem ganzen Israel ausgeredet hatte, da sprach er zu ihnen
 "Richtet euer Herz auf alle die Worte, die ich euch heute bezeuge, damit ihr sie euren Kindern befehlet, daß sie darauf achten, alle Worte dieses Gesetzes zu tun."
-"Denn es ist nicht ein leeres Wort für euch, sondern es ist euer Leben; und durch dieses Wort werdet ihr eure Tage verlängern in dem Lande, wohin ihrüber den Jordan ziehet, um es in Besitz zu nehmen."
+"Denn es ist nicht ein leeres Wort für euch, sondern es ist euer Leben; und durch dieses Wort werdet #ihr eure Tage verlängern in dem Lande, wohin ihrüber den Jordan ziehet, um es in Besitz zu nehmen."
 "Und Jehova redete zu Mose an diesem selbigen Tage und sprach
 "Steige auf dieses Gebirge Abarim, den Berg Nebo, der im Lande Moab liegt, der Jericho gegenüber ist, und sieh das Land Kanaan, das ich den Kindern Israel zum Eigentum gebe;"
-"und du wirst sterben auf dem Berge, auf welchen du steigen wirst, und zu deinen Völkern versammelt werden; gleichwie dein Bruder Aaron auf dem Berge Hor gestorben ist und zu seinen Völkern versammelt wurde;"
+"und du wirst sterben auf dem Berge, auf welchen du steigen wirst, und zu deinen Völkern versammelt werden; #gleichwie dein Bruder Aaron auf dem Berge Hor gestorben ist und zu seinen Völkern versammelt wurde;"
 "darum daß ihr treulos gegen mich gehandelt habt inmitten der Kinder Israel an dem Wasser von Meriba-Kades in der Wüste Zin, darum daß ihr mich nicht geheiligt habt inmitten der Kinder Israel."
 "Denn vor dir sollst du das Land sehen, aber du sollst nicht in das Land hineinkommen, das ich den Kindern Israel gebe."

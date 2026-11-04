@@ -16,7 +16,7 @@
 "Mert a hol végrendelet van, szükséges, hogy a végrendelkezõ halála bekövetkezzék."
 "Mivel a végrendelet holtak után jogerõs, különben pedig, ha él a végrendelkezõ, épen nem érvényes."
 "Innét van, hogy az elsõ sem szenteltetett meg vér nélkül."
-"Mert mikor Mózes a törvény szerint minden parancsolatot elmondott az egész népnek, vevén a borjúknak és a bakoknak vérét, vízzel és vörös gyapjúval meg izsóppal együtt, magát a könyvet is és az egész népet meghintette,"
+"Mert mikor Mózes a törvény szerint minden parancsolatot elmondott az egész népnek, vevén a borjúknak és a bakoknak #vérét, vízzel és vörös gyapjúval meg izsóppal együtt, magát a könyvet is és az egész népet meghintette,"
 "Mondván
 "Majd a sátort is és az istentiszteletre való összes edényeket hasonlóképen meghintette vérrel."
 "És csaknem minden vérrel tisztíttatik meg a törvény szerint, és vérontás nélkül nincsen bûnbocsánat."

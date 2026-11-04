@@ -3,7 +3,7 @@
 "At kay Basemath na anak ni Ismael, na kapatid ni Nabaiot."
 "At ipinanganak si Eliphaz ni Ada kay Esau; at ipinanganak ni Basemath si Reuel;"
 "At ipinanganak ni Aholibama si Jeus, at si Jaalam at si Cora; ito ang mga anak ni Esau, na ipinanganak sa kaniya sa lupain ng Canaan."
-"At dinala ni Esau ang kaniyang mga asawa, at ang kaniyang mga anak na lalake at babae, at ang lahat ng tao sa kaniyang bahay, at ang kaniyang hayop, at ang lahat ng kaniyang kawan, at ang lahat niyang tinatangkilik na kaniyang tinipon sa lupain ng Canaan; at napasa ibang lupaing bukod kay Jacob na kaniyang kapatid."
+"At dinala ni Esau ang kaniyang mga asawa, at ang kaniyang mga anak na lalake at babae, at ang lahat ng tao sa kaniyang bahay, at ang kaniyang hayop, #at ang lahat ng kaniyang kawan, at ang lahat niyang tinatangkilik na kaniyang tinipon sa lupain ng Canaan; at napasa ibang lupaing bukod kay Jacob na kaniyang kapatid."
 "Sapagka't ang kanilang pag-aari ay totoong napakalaki para sa kanila na tumahang magkasama at ang lupain na kanilang pinaglakbayan ay hindi makaya sila, sapagka't napakarami ang kanilang hayop."
 "At tumahan si Esau sa bundok ng Seir
 "At ito ang mga lahi ni Esau, na ama ng mga Edomita sa bundok ng Seir
@@ -36,8 +36,8 @@
 "At namatay si Adad at naghari na kahalili niya si Samla na taga Masreca."
 "At namatay si Samla at naghari na kahalili niya si Saul, na taga Rehoboth na tabi ng Ilog."
 "At namatay si Saul, at naghari na kahalili niya si Baalanan na anak ni Achbor."
-"At namatay si Baalanan na anak ni Achbor, at naghari na kahalili niya si Adar; at ang pangalan ng kaniyang bayan ay Pau; at ang pangalan ng kaniyang asawa ay Meetabel na anak ni Matred, na anak na babae ni Mezaab."
-"At ito ang mga pangalan ng mga pangulong nagmula kay Esau, ayon sa kanikaniyang angkan, ayon sa kanikaniyang dako, alinsunod sa kanikaniyang pangalan; ang pangulong Timma, ang pangulong Alva, ang pangulong Jetheth;"
+"At namatay si Baalanan na anak ni Achbor, at naghari na kahalili niya si Adar; at ang pangalan ng kaniyang bayan #ay Pau; at ang pangalan ng kaniyang asawa ay Meetabel na anak ni Matred, na anak na babae ni Mezaab."
+"At ito ang mga pangalan ng mga pangulong nagmula kay Esau, ayon sa kanikaniyang angkan, ayon sa #kanikaniyang dako, alinsunod sa kanikaniyang pangalan; ang pangulong Timma, ang pangulong Alva, ang pangulong Jetheth;"
 "Ang pangulong Aholibama, ang pangulong Ela, ang pangulong Pinon."
 "Ang pangulong Cenaz, ang pangulong Teman, ang pangulong Mibzar."
 "Ang pangulong Magdiel, ang pangulong Hiram

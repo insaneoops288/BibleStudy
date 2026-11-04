@@ -13,7 +13,7 @@
 "Maka titah baginda itu kepada hambanya
 "Karena banyaklah orang yang dijemput, tetapi sedikit yang terpilih."""
 "Setelah itu pergilah orang Parisi berunding bagaimana hendak menjaring perkataan Yesus."
-"Maka mereka itu menyuruhkan murid-murid-Nya sendiri dengan orang Herodiani kepada-Nya mengatakan, ""Hai Guru, kami tahu, bahwa Tuan seorang yang benar, dan jalan Allah itu Tuan ajarkan dengan sebenarnya, serta tiada indahkan seorang jua pun, karena tiada Tuan menilik rupa orang."
+"Maka mereka itu menyuruhkan murid-murid-Nya sendiri dengan orang Herodiani kepada-Nya mengatakan, ""Hai Guru, kami tahu, bahwa Tuan seorang yang benar, dan #jalan Allah itu Tuan ajarkan dengan sebenarnya, serta tiada indahkan seorang jua pun, karena tiada Tuan menilik rupa orang."
 "Sebab itu katakanlah kepada kami, apakah pikir Tuan? Patutkah membayar uang upeti kepada Kaisar atau tiada?"""
 "Tetapi sebab Yesus mengetahui kejahatan mereka itu, lalu kata-Nya, ""Hai orang munafik, apakah sebabnya kamu mencobai Aku?"
 "Tunjukkanlah kepada-Ku uang upeti itu."" Maka dibawanya kepada-Nya satu dinar."

@@ -13,7 +13,7 @@
 "(Vaikka nyt) katso, ilo ja riemu, teurastaa härkiä, tappaa lampaita, syödä lihaa, juoda viinaa, (ja sanoa)
 "Tämä on, (sanoo) Herra Zebaot, minun korvilleni tullut
 "Näin sanoo Herra, Herra Zebaot
-"Mitä sinun tässä on, kenenkä oma sinä olet? ettäs annat hakata itselles haudan niinkuin se, joka hakkauttaa itsellensä haudan korkeuteen, ja olet niinkuin se, joka antaa itsellensä tehdä asumasian vuorelle?"
+"Mitä sinun tässä on, kenenkä oma sinä olet? ettäs annat hakata itselles haudan niinkuin se, joka #hakkauttaa itsellensä haudan korkeuteen, ja olet niinkuin se, joka antaa itsellensä tehdä asumasian vuorelle?"
 "Katso, Herra ajaa sinun pois, niinkuin väkevä mies heittää jonkun pois, ja peittää sinun kokonansa,"
 "Ja pyörittää sinun kohta, ja peräti niinkuin kierikan aukialle kedolle; siellä sinun pitää kuoleman, siellä pitää sinun kalliit vaunus, sinun Herras huoneen kanssa, tuleman häväistykseksi."
 "Ja minä kukistan sinun säädystäs, ja sinä pannaan pois viraltas."
@@ -22,4 +22,4 @@
 "Ja panen Davidin huoneen avaimen hänen olallensa, että hän avaa, ja ei kenkään sulje, että hän sulkee, ja ei kenkään avaa."
 "Ja lyön hänen niinkuin naulan vahvaan paikkaan; ja hänellä on oleva kunnian istuin, hänen isänsä huoneessa,"
 "Että hänen päällensä ripustetaan kaikki hänen isänsä huoneen kunnia, lapset ja lasten lapset, kaikki pienet kappaleet, juoma-astiat, ja kaikkinaiset kanteleet."
-"Silloin, sanoo Herra Zebaot, naula pitää otettaman pois, joka vahvassa paikassa on, niin että hänen pitää rikkoontuman, lankeeman, putooman, ja se kuorma kuin hänen päällänsä on, pitää hukkuman; sillä Herra sen sanoo."
+"Silloin, sanoo Herra Zebaot, naula pitää otettaman pois, joka vahvassa paikassa on, niin että hänen pitää rikkoontuman, #lankeeman, putooman, ja se kuorma kuin hänen päällänsä on, pitää hukkuman; sillä Herra sen sanoo."

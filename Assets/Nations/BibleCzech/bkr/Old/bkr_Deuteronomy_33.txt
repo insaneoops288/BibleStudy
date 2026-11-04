@@ -26,4 +26,4 @@
 "Neníť žádného, jako Bůh silný, ó Izraeli, kterýž se vznáší na nebesích ku pomoci tobě, a u velebnosti své na oblacích nejvyšších."
 "Ochrana tvá buď Bůh věčný, a zespod ramena věčnosti, kterýž vyžene nepřátely před tebou, aneb řekne
 "Aby sám bezpečně bydlil Izrael, rodina Jákobova, a to v zemi obilím a vínem oplývající, jehož nebesa také i rosu vydávati budou."
-"Blahoslavený jsi, Izraeli. Kdo jest podobný tobě, lide vysvobozený skrze Hospodina, jenž jest pavéza spomožení tvého a meč důstojnosti tvé? Tvoji zajisté nepřátelé poníženi budou, ale ty po všech vyvýšenostech jejich šlapati budeš."
+"Blahoslavený jsi, Izraeli. Kdo jest podobný tobě, lide vysvobozený skrze Hospodina, jenž jest pavéza spomožení tvého a #meč důstojnosti tvé? Tvoji zajisté nepřátelé poníženi budou, ale ty po všech vyvýšenostech jejich šlapati budeš."

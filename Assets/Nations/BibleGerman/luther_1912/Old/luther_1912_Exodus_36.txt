@@ -1,11 +1,11 @@
-"Da arbeiteten Bezaleel und Oholiab und alle weisen Männer, denen der HERR Weisheit und Verstand gegeben hatte, zu wissen, wie sie allerlei Werk machen sollten zum Dienst des Heiligtums, nach allem, was der HERR geboten hatte."
+"Da arbeiteten Bezaleel und Oholiab und alle weisen Männer, denen der HERR Weisheit und Verstand gegeben hatte, zu wissen, #wie sie allerlei Werk machen sollten zum Dienst des Heiligtums, nach allem, was der HERR geboten hatte."
 "Und Mose berief den Bezaleel und Oholiab und alle weisen Männer, denen der HERR Weisheit gegeben hatte in ihr Herz, alle, die sich freiwillig erboten und hinzutraten, zu arbeiten an dem Werke."
 "Und sie nahmen zu sich von Mose alle Hebe, die die Kinder Israel brachten zu dem Werke des Dienstes des Heiligtums, daß es gemacht würde. Denn sie brachten alle Morgen ihre willige Gabe zu ihm."
 "Da kamen alle Weisen, die am Werk des Heiligtums arbeiteten, ein jeglicher von seinem Werk, das sie machten,"
 "und sprachen zu Mose
 "Da gebot Mose, daß man rufen ließ durchs Lager
 "Denn des Dinges war genug zu allerlei Werk, das zu machen war, und nochübrig."
-"Also machten alle weisen Männer unter den Arbeitern am Werk die Wohnung, zehn Teppiche von gezwirnter weißer Leinwand, blauem und rotem Purpur und Scharlach, und Cherubim daran von kunstreicher Arbeit.{~}"
+"Also machten alle weisen Männer unter den Arbeitern am Werk die Wohnung, zehn Teppiche von gezwirnter #weißer Leinwand, blauem und rotem Purpur und Scharlach, und Cherubim daran von kunstreicher Arbeit.{~}"
 "Die Länge eines Teppichs war achtundzwanzig Ellen und die Breite vier Ellen, und waren alle in einem Maß.{~}{~}"
 "Und er fügte je fünf Teppiche zu einem Stück zusammen, einen an den andern.{~}{~}{~}"
 "Und machte blaue Schleifen an jegliches Stück am Rande, wo die zwei Stücke sollten zusammengeheftet werden,{~}{~}{~}{~}{~}{~}"

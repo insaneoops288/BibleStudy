@@ -1,6 +1,6 @@
 "Shromáždili se pak muži Efraim, a přešedše k straně půlnoční, řekli k Jefte
 "K nimž řekl Jefte
-"Protož vida, že jste mne nevysvobodili, odvážil jsem se života svého, a táhl jsem proti Ammonitským, i dal je Hospodin v ruku mou. Ale proč jste dnes přišli ke mně? Zdali abyste bojovali proti mně?"
+"Protož vida, že jste mne nevysvobodili, odvážil jsem se života svého, a táhl jsem proti Ammonitským, i dal #je Hospodin v ruku mou. Ale proč jste dnes přišli ke mně? Zdali abyste bojovali proti mně?"
 "Tedy shromáždil Jefte všecky muže Galádské, a bojoval s Efraimem. I porazili muži Galád Efraimské, nebo pravili poběhlci Efraimští
 "Odjali Galádští též i brody Jordánské Efraimským. A bylo, že když kdo z utíkajících Efraimských řekl
 "Tedy řekli jemu

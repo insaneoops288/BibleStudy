@@ -24,7 +24,7 @@
 "Wtedy słudzy Saula oznajmili mu
 "Saul odpowiedział
 "Gdy jego słudzy powtórzyli te słowa Dawidowi, spodobało się to Dawidowi, że ma zostać zięciem króla. A te dni jeszcze się nie wypełniły."
-"Wstał więc Dawid i poszedł, on i jego ludzie, i zabił spośród Filistynów dwustu mężczyzn. Potem Dawid przyniósł ich napletki i oddał je w pełnej liczbie królowi, aby zostać zięciem króla. I Saul dał mu swą córkę Mikal za żonę."
+"Wstał więc Dawid i poszedł, on i jego ludzie, i zabił spośród Filistynów dwustu mężczyzn. Potem Dawid przyniósł ich napletki i #oddał je w pełnej liczbie królowi, aby zostać zięciem króla. I Saul dał mu swą córkę Mikal za żonę."
 "A gdy Saul zobaczył i przekonał się, że PAN jest z Dawidem i że jego córka Mikal go kocha;"
 "Tym bardziej Saul obawiał się Dawida. I Saul stał się wrogiem Dawida na zawsze."
 "A książęta Filistynów robili wypady. A przy każdym ich wypadzie Dawid postępował roztropniej niż wszyscy słudzy Saula, tak że jego imię stało się bardzo sławne."

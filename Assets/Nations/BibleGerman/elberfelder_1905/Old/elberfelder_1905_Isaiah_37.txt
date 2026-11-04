@@ -1,7 +1,7 @@
 "Und es geschah, als der König Hiskia es hörte, da zerriß er seine Kleider und hüllte sich in Sacktuch und ging in das Haus Jehovas."
 "Und er sandte Eljakim, derüber das Haus war, und Schebna, den Schreiber, und dieÄltesten der Priester, in Sacktuch gehüllt zu dem Propheten Jesaja, dem Sohne Amoz'."
 "Und sie sprachen zu ihm
-"Vielleicht wird Jehova, dein Gott, die Worte des Rabsake hören, welchen sein Herr, der König von Assyrien, gesandt hat, um den lebendigen Gott zu verhöhnen, und wird die Worte bestrafen, die Jehova, dein Gott, gehört hat. Erhebe denn ein Gebet für denÜberrest, der sich noch vorfindet."
+"Vielleicht wird Jehova, dein Gott, die Worte des Rabsake hören, welchen sein Herr, der König von Assyrien, gesandt hat, um den lebendigen Gott zu #verhöhnen, und wird die Worte bestrafen, die Jehova, dein Gott, gehört hat. Erhebe denn ein Gebet für denÜberrest, der sich noch vorfindet."
 "Und die Knechte des Königs Hiskia kamen zu Jesaja."
 "Und Jesaja sprach zu ihnen
 "Siehe, ich will ihm einen Geist eingeben, daß er ein Gerücht hören und in sein Land zurückkehren wird; und ich will ihn durchs Schwert fällen in seinem Lande."
@@ -26,7 +26,7 @@
 "Hast du nicht gehört, daß ich von fernher es gewirkt und von den Tagen der Vorzeit her es gebildet habe? Nun habe ich es kommen lassen, daß du feste Städte verwüstest zuöden Steinhaufen."
 "Und ihre Bewohner waren machtlos, sie wurden bestürzt und beschämt; sie waren wie Kraut des Feldes und grünes Gras, wie Gras der Dächer, und Korn, das verbrannt ist, ehe es aufschießt."
 "Und ich kenne dein Sitzen, und dein Aus-und dein Eingehen, und dein Toben wider mich."
-"Wegen deines Tobens wider mich, und weil deinÜbermut in meine Ohren heraufgekommen ist, werde ich meinen Ring in deine Nase legen und mein Gebiß in deine Lippen, und werde dich zurückführen auf dem Wege, auf welchem du gekommen bist."
+"Wegen deines Tobens wider mich, und weil deinÜbermut in meine Ohren heraufgekommen ist, werde ich meinen Ring in deine Nase #legen und mein Gebiß in deine Lippen, und werde dich zurückführen auf dem Wege, auf welchem du gekommen bist."
 "Und dies soll dir das Zeichen sein
 "Und das Entronnene vom Hause Juda, dasübriggeblieben ist, wird wieder wurzeln nach unten und Frucht tragen nach oben."
 "Denn von Jerusalem wird einÜberrest ausgehen, und ein Entronnenes vom Berge Zion. Der Eifer Jehovas der Heerscharen wird solches tun."
@@ -35,4 +35,4 @@
 "Und ich will diese Stadt beschirmen, um sie zu retten, um meinet-und um Davids, meines Knechtes, willen."
 "Und ein Engel Jehovas zog aus und schlug in dem Lager der Assyrer hundertfünfundachtzigtausend Mann. Und als man des Morgens früh aufstand, siehe, da waren sie allesamt Leichname."
 "Und Sanherib, der König von Assyrien, brach auf, und er zog fort und kehrte zurück und blieb in Ninive."
-"Und es geschah, als er sich niederbeugte im Hause Nisroks, seines Gottes, da erschlugen ihn Adrammelek und Scharezer, seine Söhne, mit dem Schwerte; und sie entrannen in das Land Ararat. Und Esar-Haddon, sein Sohn, ward König an seiner Statt."
+"Und es geschah, als er sich niederbeugte im Hause Nisroks, seines Gottes, da erschlugen ihn Adrammelek und Scharezer, seine Söhne, #mit dem Schwerte; und sie entrannen in das Land Ararat. Und Esar-Haddon, sein Sohn, ward König an seiner Statt."

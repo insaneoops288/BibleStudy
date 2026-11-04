@@ -18,7 +18,7 @@ They sacrificed to demons that were no gods, to gods they had never known, to ne
 You were unmindful of the Rock that bore you, and you forgot the God who gave you birth.
 The Lord saw it and spurned them, because of the provocation of his sons and his daughters.
 And he said, I will hide my face from them; I will see what their end will be, for they are a perverse generation, children in whom is no faithfulness.
-They have made me jealous with what is no god; they have provoked me to anger with their idols. So I will make them jealous with those who are no people; I will provoke them to anger with a foolish nation.
+They have made me jealous with what is no god; they have provoked me to anger with their idols. So I #will make them jealous with those who are no people; I will provoke them to anger with a foolish nation.
 For a fire is kindled by my anger, and it burns to the depths of Sheol, devours the earth and its increase, and sets on fire the foundations of the mountains.
 And I will heap disasters upon them; I will spend my arrows on them;
 they shall be wasted with hunger, and devoured by plague and poisonous pestilence; I will send the teeth of beasts against them, with the venom of things that crawl in the dust.
@@ -48,5 +48,5 @@ For it is no empty word for you, but your very life, and by this word you shall 
 That very day the Lord spoke to Moses,
 Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, opposite Jericho, and view the land of Canaan, which I am giving to the people of Israel for a possession.
 And die on the mountain which you go up, and be gathered to your people, as Aaron your brother died in Mount Hor and was gathered to his people,
-because you broke faith with me in the midst of the people of Israel at the waters of Meribah-kadesh, in the wilderness of Zin, and because you did not treat me as holy in the midst of the people of Israel.
+because you broke faith with me in the midst of the people of Israel at the waters of Meribah-kadesh, in the #wilderness of Zin, and because you did not treat me as holy in the midst of the people of Israel.
 For you shall see the land before you, but you shall not go there, into the land that I am giving to the people of Israel.

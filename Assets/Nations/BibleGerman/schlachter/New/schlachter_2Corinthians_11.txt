@@ -1,7 +1,7 @@
 "Möchtet ihr mir doch ein wenig Torheit zugute halten! Doch ihr haltet sie mir schon zugute!"
 "Denn ich eifere um euch mit göttlichem Eifer; denn ich habe euch einem Manne verlobt, um euch als eine reine Jungfrau Christus zuzuführen."
 "Ich fürchte aber, es könnten, wie die Schlange mit ihrer List Eva verführte, so auch eure Sinne verdorben und von der Einfalt gegen Christus abgelenkt werden."
-"Denn wenn der, welcher zu euch kommt, einen andern Jesus predigt, den wir nicht gepredigt haben, oder wenn ihr einen andern Geist empfanget, den ihr nicht empfangen habt, oder ein anderes Evangelium, das ihr nicht angenommen habt, so ertraget ihr es wohl."
+"Denn wenn der, welcher zu euch kommt, einen andern Jesus predigt, den wir nicht gepredigt haben, oder wenn ihr einen andern Geist #empfanget, den ihr nicht empfangen habt, oder ein anderes Evangelium, das ihr nicht angenommen habt, so ertraget ihr es wohl."
 "Denn ich denke jenen«bedeutenden Aposteln» in nichts nachzustehen."
 "Bin ich aber auch der Rede unkundig, so doch nicht der Erkenntnis; sondern wir haben sie stets in allem bewiesen euch gegenüber!"
 "Oder habe ich Sünde getan, indem ich mich selbst erniedrigte, damit ihr erhöht würdet, daß ich euch unentgeltlich das Evangelium Gottes verkündigt habe?"
@@ -23,7 +23,7 @@
 "Sie sind Diener Christi? Ich rede unsinnig
 "Von den Juden habe ich fünfmal vierzig Streiche weniger einen empfangen;"
 "dreimal bin ich mit Ruten geschlagen, einmal gesteinigt worden; dreimal habe ich Schiffbruch erlitten; einen Tag und eine Nacht habe ich in der Tiefe zugebracht."
-"Ich bin oftmals auf Reisen gewesen, in Gefahren auf Flüssen, in Gefahren durch Mörder, in Gefahren vom eigenen Volke, in Gefahren von Heiden, in Gefahren in der Stadt, in Gefahren in der Wüste, in Gefahren auf dem Meere, in Gefahren unter falschen Brüdern;"
+"Ich bin oftmals auf Reisen gewesen, in Gefahren auf Flüssen, in Gefahren durch Mörder, in Gefahren vom eigenen Volke, in Gefahren von #Heiden, in Gefahren in der Stadt, in Gefahren in der Wüste, in Gefahren auf dem Meere, in Gefahren unter falschen Brüdern;"
 "in Arbeit und Mühe, oftmals in Nachtwachen, in Hunger und Durst; oftmals in Fasten, in Kälte und Blöße;"
 "zu alledem der tägliche Zulauf zu mir, die Sorge für alle Gemeinden."
 "Wer ist schwach, und ich bin nicht auch schwach? Wer nimmt Anstoß, und ich entbrenne nicht?"

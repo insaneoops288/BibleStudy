@@ -1,4 +1,4 @@
-"Ecoutez ceci, maison de Jacob, Vous qui portez le nom d'Israël, Et qui êtes sortis des eaux de Juda; Vous qui jurez par le nom de l'Eternel, Et qui invoquez le Dieu d'Israël, Mais sans vérité ni droiture!"
+"Ecoutez ceci, maison de Jacob, Vous qui portez le nom d'Israël, Et qui êtes sortis des eaux de Juda; Vous #qui jurez par le nom de l'Eternel, Et qui invoquez le Dieu d'Israël, Mais sans vérité ni droiture!"
 "Car ils prennent leur nom de la ville sainte, Et ils s'appuient sur le Dieu d'Israël, Dont le nom est l'Eternel des armées."
 "Dès longtemps j'ai fait les premières prédictions, Elles sont sorties de ma bouche, et je les ai publiées
 "Sachant que tu es endurci, Que ton cou est une barre de fer, Et que tu as un front d'airain,"
@@ -13,7 +13,7 @@
 "Ma main a fondé la terre, Et ma droite a étendu les cieux
 "Vous tous, assemblez-vous, et écoutez! Qui d'entre eux a annoncé ces choses? Celui que l'Eternel aime exécutera sa volonté contre Babylone, Et son bras s'appesantira sur les Chaldéens."
 "Moi, moi, j'ai parlé, et je l'ai appelé; Je l'ai fait venir, et son oeuvre réussira."
-"Approchez-vous de moi, et écoutez! Dès le commencement, je n'ai point parlé en cachette, Dès l'origine de ces choses, j'ai été là. Et maintenant, le Seigneur, l'Eternel, m'a envoyé avec son esprit."
+"Approchez-vous de moi, et écoutez! Dès le commencement, je n'ai point parlé en cachette, Dès l'origine de #ces choses, j'ai été là. Et maintenant, le Seigneur, l'Eternel, m'a envoyé avec son esprit."
 "Ainsi parle l'Eternel, ton rédempteur, le Saint d'Israël
 "Oh! si tu étais attentif à mes commandements! Ton bien-être serait comme un fleuve, Et ton bonheur comme les flots de la mer;"
 "Ta postérité serait comme le sable, Et les fruits de tes entrailles comme les grains de sable; Ton nom ne serait point effacé, anéanti devant moi."

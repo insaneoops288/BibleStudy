@@ -21,6 +21,6 @@
 "os anéis, e as jóias pendentes do nariz;"
 "os vestidos de festa, e os mantos, e os xales, e os bolsos;"
 "os vestidos diáfanos, e as capinhas de linho, e os turbantes, e os véus."
-"E será que em lugar de perfume haverá mau cheiro, e por cinto, uma corda; em lugar de encrespadura de cabelos, calvície; e em lugar de veste luxuosa, cinto de cilício; e queimadura em lugar de formosura."
+"E será que em lugar de perfume haverá mau cheiro, e por cinto, uma corda; em lugar de encrespadura #de cabelos, calvície; e em lugar de veste luxuosa, cinto de cilício; e queimadura em lugar de formosura."
 "Teus varões cairão à espada, e teus valentes na guerra."
 "E as portas da cidade gemerão e se carpirão e, desolada, ela se sentará no pó."

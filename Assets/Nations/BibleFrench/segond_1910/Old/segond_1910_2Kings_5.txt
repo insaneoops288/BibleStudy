@@ -1,4 +1,4 @@
-"Naaman, chef de l'armée du roi de Syrie, jouissait de la faveur de son maître et d'une grande considération; car c'était par lui que l'Eternel avait délivré les Syriens. Mais cet homme fort et vaillant était lépreux."
+"Naaman, chef de l'armée du roi de Syrie, jouissait de la faveur de son maître et d'une grande considération; #car c'était par lui que l'Eternel avait délivré les Syriens. Mais cet homme fort et vaillant était lépreux."
 "Or les Syriens étaient sortis par troupes, et ils avaient emmené captive une petite fille du pays d'Israël, qui était au service de la femme de Naaman."
 "Et elle dit à sa maîtresse
 "Naaman alla dire à son maître
@@ -15,7 +15,7 @@
 "Naaman retourna vers l'homme de Dieu, avec toute sa suite. Lorsqu'il fut arrivé, il se présenta devant lui, et dit
 "Elisée répondit
 "Alors Naaman dit
-"Voici toutefois ce que je prie l'Eternel de pardonner à ton serviteur. Quand mon maître entre dans la maison de Rimmon pour s'y prosterner et qu'il s'appuie sur ma main, je me prosterne aussi dans la maison de Rimmon
+"Voici toutefois ce que je prie l'Eternel de pardonner à ton serviteur. Quand mon maître entre dans la maison de #Rimmon pour s'y prosterner et qu'il s'appuie sur ma main, je me prosterne aussi dans la maison de Rimmon
 "Elisée lui dit
 "Guéhazi, serviteur d'Elisée, homme de Dieu, se dit en lui-même
 "Et Guéhazi courut après Naaman. Naaman, le voyant courir après lui, descendit de son char pour aller à sa rencontre, et dit

@@ -7,9 +7,9 @@
 "Por tanto, así dijo el SEÑOR de los ejércitos
 "Saeta afilada <I>es</I>  la lengua de ellos; engaño habla; con su boca habla paz con su amigo, y dentro de sí pone sus asechanzas."
 "¿No los he de visitar sobre estas cosas? Dijo el SEÑOR. ¿De tal gente no se vengará mi alma?"
-"Sobre los montes levantaré lloro y lamentación, y llanto sobre las moradas del desierto; porque desolados fueron hasta no quedar quien pase, ni oyeron bramido de ganado; desde las aves del cielo y hasta las bestias de la  tierra se transportaron, y se fueron."
+"Sobre los montes levantaré lloro y lamentación, y llanto sobre las moradas del desierto; porque desolados fueron hasta no quedar quien pase, ni #oyeron bramido de ganado; desde las aves del cielo y hasta las bestias de la  tierra se transportaron, y se fueron."
 "Y pondré a Jerusalén en montones; en morada de dragones; y pondré las ciudades de Judá en asolamiento, que no quede morador."
-"¿Quién <I>es</I>  varón sabio que entienda esto? ¿Y a quién habló la boca del SEÑOR, para que pueda declararlo? ¿Por qué causa la tierra ha perecido, ha sido asolada como desierto, que no hay quien pase?"
+"¿Quién <I>es</I>  varón sabio que entienda esto? ¿Y a quién habló la boca del SEÑOR, para que pueda #declararlo? ¿Por qué causa la tierra ha perecido, ha sido asolada como desierto, que no hay quien pase?"
 "Y dijo el SEÑOR
 "antes se fueron tras la imaginación de su corazón, y en pos de los baales que les enseñaron sus padres;"
 "por tanto, así dijo el SEÑOR de los ejércitos, Dios de Israel
@@ -23,4 +23,4 @@
 "Así dijo el SEÑOR
 "Mas alábese en esto el que se hubiere de alabar
 "He aquí que vienen días, dijo el SEÑOR, y visitaré a todo circuncidado <I>junto</I>  con <I>el de</I>  prepucio
-"A Egipto, y a Judá, y a Edom, y a los hijos de Amón y de Moab, y a todos los arrinconados en el postrer rincón, que moran en el desierto; porque todos los gentiles tienen prepucio; y toda la Casa de Israel tiene prepucio en  el corazón."
+"A Egipto, y a Judá, y a Edom, y a los hijos de Amón y de Moab, y a todos los arrinconados en el postrer #rincón, que moran en el desierto; porque todos los gentiles tienen prepucio; y toda la Casa de Israel tiene prepucio en  el corazón."

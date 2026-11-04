@@ -1,4 +1,4 @@
-"Gdy wyruszysz na wojnę przeciw twojemu wrogowi i zobaczysz konie, wozy oraz lud liczniejszy od siebie nie obawiaj się ich; gdyż WIEKUISTY, twój Bóg, który cię wyprowadził z ziemi Micraim, jest z tobą."
+"Gdy wyruszysz na wojnę przeciw twojemu wrogowi i zobaczysz konie, wozy oraz lud liczniejszy od siebie nie #obawiaj się ich; gdyż WIEKUISTY, twój Bóg, który cię wyprowadził z ziemi Micraim, jest z tobą."
 "Zatem gdy będziecie się szykowali do wojny, niechaj wystąpi kapłan oraz przemówi do ludu."
 "I im powie
 "Gdyż WIEKUISTY, wasz Bóg, idzie z wami, aby walczyć za was z waszymi wrogami i aby was wspomagać."
@@ -16,5 +16,5 @@
 "Jednak z miast tych ludów, które WIEKUISTY, twój Bóg, oddaje ci w posiadanie, nie zostawisz przy życiu żadnej duszy."
 "Lecz poddasz ich zaklęciu
 "by nie uczyli was postępować według wszystkich obmierzłości, które spełniają z uwagi na swoich bogów i abyście nie grzeszyli przeciwko WIEKUISTYEMU, waszemu Bogu."
-"Gdy będziesz oblegał miasto przez długi czas, aby je zawojować i zdobyć, nie niszcz jego drzew, podnosząc na nie siekierę; nie ścinaj ich, ponieważ możesz z nich jeść. Bo czy polne drzewo jest człowiekiem, by ulegało twojemu oblężeniu?"
+"Gdy będziesz oblegał miasto przez długi czas, aby je zawojować i zdobyć, nie niszcz jego drzew, podnosząc na nie siekierę; #nie ścinaj ich, ponieważ możesz z nich jeść. Bo czy polne drzewo jest człowiekiem, by ulegało twojemu oblężeniu?"
 "Tylko takie drzewo, o którym wiesz, że nie jest drzewem pożywiającym takie możesz niszczyć i ścinać, by budować zasieki przeciw miastu, które z tobą prowadzi wojnę, dopóki nie ulegnie."

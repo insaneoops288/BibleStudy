@@ -3,8 +3,8 @@
 "Se entró el pueblo aquel día en la ciudad escondidamente, como suele entrar a escondidas el pueblo avergonzado que ha huido de la batalla."
 "Mas el rey, cubierto el rostro, clamaba en alta voz
 "Y entrando Joab en casa del rey, le dijo
-"amando a los que te aborrecen, y aborreciendo a los que te aman; porque hoy has declarado que <I>no estimas</I>  tus príncipes y siervos; porque <I>yo</I>  entiendo hoy que si Absalón viviera, y todos nosotros todos estuviéramos  muertos hoy, entonces <I>esto sería</I>  recto en tus ojos."
-"Levántate pues ahora, y sal fuera, y habla al corazón de tus siervos; porque juro por el SEÑOR, que si no sales, ni aun uno quede contigo esta noche; y de esto te pesará más que de todos los males que te han sobrevenido desde  tu juventud hasta ahora."
+"amando a los que te aborrecen, y aborreciendo a los que te aman; porque hoy has declarado que <I>no estimas</I>  tus príncipes y siervos; porque #<I>yo</I>  entiendo hoy que si Absalón viviera, y todos nosotros todos estuviéramos  muertos hoy, entonces <I>esto sería</I>  recto en tus ojos."
+"Levántate pues ahora, y sal fuera, y habla al corazón de tus siervos; porque juro por el SEÑOR, que si no sales, ni aun uno quede #contigo esta noche; y de esto te pesará más que de todos los males que te han sobrevenido desde  tu juventud hasta ahora."
 "Entonces se levantó el rey, y se sentó a la puerta; y fue declarado a todo el pueblo, diciendo
 "Y todo el pueblo porfiaba en todas las tribus de Israel, diciendo
 "Y Absalón, a quien habíamos ungido sobre nosotros, es muerto en la batalla. ¿Por qué pues os estáis ahora quedos en orden a hacer volver al rey?"
@@ -21,20 +21,20 @@
 "Y Abisai hijo de Sarvia respondió y dijo
 "David entonces dijo
 "Y dijo el rey a Semei
-"También Mefi-boset hijo de Saúl descendió a recibir al rey; no había lavado sus pies, ni había cortado su barba, ni tampoco había lavado sus vestidos, desde el día que el rey salió hasta el día que vino en paz."
+"También Mefi-boset hijo de Saúl descendió a recibir al rey; no había lavado sus pies, ni había cortado su barba, ni #tampoco había lavado sus vestidos, desde el día que el rey salió hasta el día que vino en paz."
 "Y luego que vino él a Jerusalén a recibir al rey, el rey le dijo
 "Y él dijo
 "Pero él revolvió a tu siervo delante de mi señor el rey; mas mi señor el rey es como un ángel de Dios; haz pues lo que bien te pareciere."
-"Porque toda la casa de mi padre era digna de muerte delante de mi señor el rey, y tú pusiste a tu siervo entre los convidados de tu mesa. ¿Qué derecho pues tengo aún para quejarme más contra el rey?"
+"Porque toda la casa de mi padre era digna de muerte delante de mi señor el rey, y tú pusiste a #tu siervo entre los convidados de tu mesa. ¿Qué derecho pues tengo aún para quejarme más contra el rey?"
 "Y el rey le dijo
 "Y Mefi-boset dijo al rey
 "También Barzilai galaadita descendió de Rogelim, y pasó el Jordán con el rey, para acompañarle al otro lado del Jordán."
 "Y era Barzilai muy viejo, de ochenta años, el cual había dado provisión al rey cuando estaba en Mahanaim, porque era hombre muy rico."
 "Y el rey dijo a Barzilai
 "Mas Barzilai dijo al rey
-"Yo soy hoy día de edad de ochenta años, que ya no haré diferencia entre lo bueno y lo malo. ¿Tomará gusto ahora tu siervo en lo que comiere o bebiere? ¿Oiré más la voz de los cantores y de las cantoras? ¿Para qué, pues,  sería aún tu siervo molesto a mi señor el rey?"
+"Yo soy hoy día de edad de ochenta años, que ya no haré diferencia entre lo bueno y lo malo. ¿Tomará gusto ahora tu siervo en lo que comiere #o bebiere? ¿Oiré más la voz de los cantores y de las cantoras? ¿Para qué, pues,  sería aún tu siervo molesto a mi señor el rey?"
 "Pasará tu siervo un poco el Jordán con el rey; ¿por qué me ha de dar el rey tan grande recompensa?"
-"Yo te ruego que dejes volver a tu siervo, y que muera en mi ciudad, <I>junto</I>  al sepulcro de mi padre y de mi madre. He aquí tu siervo Quimam; que pase él con mi señor el rey, y hazle lo que bien te pareciere."
+"Yo te ruego que dejes volver a tu siervo, y que muera en mi ciudad, <I>junto</I>  al sepulcro de mi padre y de #mi madre. He aquí tu siervo Quimam; que pase él con mi señor el rey, y hazle lo que bien te pareciere."
 "Y el rey dijo
 "Y todo el pueblo pasó el Jordán; y luego que el rey hubo también pasado, el rey besó a Barzilai, y lo bendijo; y él se volvió a su casa."
 "El rey entonces pasó a Gilgal, y con él pasó Quimam; y todo el pueblo de Judá pasaron al rey con la mitad del pueblo de Israel."

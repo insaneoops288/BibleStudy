@@ -22,7 +22,7 @@
 "I obrócili się stamtąd mężowie, i poszli do Sodomy; lecz Abraham jeszcze stał przed Panem."
 "I przystąpił Abraham, i rzekł
 "Jeźli snać będzie pięćdziesiąt sprawiedliwych w tem mieście, izali je wytracisz, a nie przepuścisz miejscu temu dla pięćdziesiąt sprawiedliwych, którzy w niem są?"
-"Niech to nie będzie u ciebie, abyś uczynić miał rzecz takową, i zabił sprawiedliwego z niezbożnym, a żeby był sprawiedliwy, jako niezbożny. Niech to nie będzie u ciebie. Izali Sędzia wszystkiej ziemi nie uczyni sprawiedliwości?"
+"Niech to nie będzie u ciebie, abyś uczynić miał rzecz takową, i zabił sprawiedliwego z niezbożnym, a żeby #był sprawiedliwy, jako niezbożny. Niech to nie będzie u ciebie. Izali Sędzia wszystkiej ziemi nie uczyni sprawiedliwości?"
 "Tedy rzekł Pan
 "A odpowiadając Abraham rzekł
 "A jeźliby nie stawało do pięćdziesięciu sprawiedliwych, pięciu, izali wytracisz dla tych pięciu wszystko miasto? I rzekł Pan

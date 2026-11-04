@@ -5,7 +5,7 @@
 "Und warum habt ihr uns ausÄgypten geführt an diesen bösen Ort, da man nicht säen kann, da weder Feigen noch Weinstöcke noch Granatäpfel sind und dazu kein Wasser zu trinken?"
 "Mose und Aaron gingen vor der Gemeinde zur Tür der Hütte des Stifts und fielen auf ihr Angesicht, und die Herrlichkeit des HERRN erschien ihnen."
 "Und der HERR redete mit Mose und sprach
-"Nimm den Stab und versammle die Gemeinde, du und dein Bruder Aaron, und redet mit dem Fels vor ihren Augen; der wird sein Wasser geben. Also sollst du ihnen Wasser aus dem Fels bringen und die Gemeinde tränken und ihr Vieh."
+"Nimm den Stab und versammle die Gemeinde, du und dein Bruder Aaron, und redet mit dem Fels vor ihren Augen; der #wird sein Wasser geben. Also sollst du ihnen Wasser aus dem Fels bringen und die Gemeinde tränken und ihr Vieh."
 "Da nahm Mose den Stab vor dem HERRN, wie er ihm geboten hatte."
 "Und Mose und Aaron versammelten die Gemeinde vor den Fels, und er sprach zu ihnen
 "Und Mose hob seine Hand auf und schlug den Fels mit dem Stab zweimal. Da ging viel Wasser heraus, daß die Gemeinde trank und ihr Vieh."
@@ -14,7 +14,7 @@
 "Und Mose sandte Botschaft aus Kades zu dem König der Edomiter
 "daß unsre Väter nachÄgypten hinabgezogen sind und wir lange Zeit inÄgypten gewohnt haben, und dieÄgypter behandelten uns und unsre Väterübel."
 "Und wir schrieen zu dem HERRN; der hat unsre Stimme erhört und einen Engel gesandt und uns ausÄgypten geführt. Und siehe, wir sind zu Kades, in der Stadt an deinen Grenzen."
-"Laß uns durch dein Land ziehen. Wir wollen nicht durchÄcker noch Weinberge gehen, auch nicht Wasser aus den Brunnen trinken; die Landstraße wollen wir ziehen, weder zur Rechten noch zur Linken weichen, bis wir durch deine Grenze kommen."
+"Laß uns durch dein Land ziehen. Wir wollen nicht durchÄcker noch Weinberge gehen, auch nicht Wasser aus den Brunnen trinken; #die Landstraße wollen wir ziehen, weder zur Rechten noch zur Linken weichen, bis wir durch deine Grenze kommen."
 "Edom aber sprach zu ihnen
 "Die Kinder Israel sprachen zu ihm
 "Er aber sprach

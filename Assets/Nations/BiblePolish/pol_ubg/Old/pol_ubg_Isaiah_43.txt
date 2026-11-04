@@ -6,8 +6,8 @@
 "Powiem północy
 "Każdego, kto nazywany jest moim imieniem i którego dla swojej chwały stworzyłem, ukształtowałem i uczyniłem."
 "Wyprowadź lud ślepy, który już ma oczy, i głuchy, który już ma uszy."
-"Niech wszystkie narody zbiorą się razem i niech się zgromadzą ludy. Kto spośród nich może ogłosić i oznajmić nam przeszłe rzeczy? Niech postawią swoich świadków, a będą usprawiedliwieni; albo niech słyszą i powiedzą
-"Wy jesteście moimi świadkami, mówi PAN, i moim sługą, którego wybrałem, abyście poznali mnie i wierzyli mi, i zrozumieli, że to ja jestem. Przede mną nie został stworzony żaden Bóg ani po mnie nie będzie."
+"Niech wszystkie narody zbiorą się razem i niech się zgromadzą ludy. Kto spośród nich może ogłosić i #oznajmić nam przeszłe rzeczy? Niech postawią swoich świadków, a będą usprawiedliwieni; albo niech słyszą i powiedzą
+"Wy jesteście moimi świadkami, mówi PAN, i moim sługą, którego wybrałem, abyście poznali mnie i wierzyli mi, i #zrozumieli, że to ja jestem. Przede mną nie został stworzony żaden Bóg ani po mnie nie będzie."
 "Ja, ja jestem PANEM i oprócz mnie nie ma zbawiciela."
 "Ja ogłaszałem, wybawiałem i opowiadałem, gdy nie było wśród was żadnego obcego boga. Wy jesteście moimi świadkami, mówi PAN, że ja jestem Bogiem."
 "Zanim powstał dzień, ja jestem, a nie ma nikogo, kto by wyrwał cokolwiek z mojej ręki. Gdy coś uczynię, któż to odwróci?"

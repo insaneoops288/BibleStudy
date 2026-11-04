@@ -1,7 +1,7 @@
 "Takto řekl Hospodin
 "A rci
 "Takto praví Hospodin
-"Nebo budete-li to pilně vykonávati, jistě že poberou se skrze brány domu tohoto králové, sedící místo Davida na stolici jeho, jezdíce na vozích, neb na koních, král s služebníky svými i s lidem svým."
+"Nebo budete-li to pilně vykonávati, jistě že poberou se skrze brány domu tohoto králové, sedící místo Davida na #stolici jeho, jezdíce na vozích, neb na koních, král s služebníky svými i s lidem svým."
 "Jestliže pak neuposlechnete slov těchto, skrze sebe přisahám, dí Hospodin, že poušť bude dům tento."
 "Nebo takto praví Hospodin o domu krále Judského
 "A přistrojím na tebe zhoubce, jednoho každého se zbrojí jeho, kteřížto zpodtínají nejvýbornější cedry tvé, a vmecí na oheň."

@@ -2,7 +2,7 @@
 "I oznajmił to Jonatan Dawidowi, mówiąc
 "A ja wynijdę, i stanę podle ojca mego na polu, gdzie ty będziesz, i będę mówił o tobie z ojcem moim, a cokolwiek pobaczę, toć oznajmię."
 "A tak mówił Jonatan o Dawidzie dobrze do Saula, ojca swego, i rzekł do niego
-"Gdyż położył duszę swą w ręce swej, i zabił Filistyńczyka, i uczynił Pan wybawienie wielkie wszystkiemu Izraelowi. Coś widział, i uradowałeś się. Przeczżebyś tedy miał grzeszyć przeciw krwi niewinnej, chcąc zabić Dawida bez przyczyny?"
+"Gdyż położył duszę swą w ręce swej, i zabił Filistyńczyka, i uczynił Pan wybawienie wielkie wszystkiemu Izraelowi. Coś #widział, i uradowałeś się. Przeczżebyś tedy miał grzeszyć przeciw krwi niewinnej, chcąc zabić Dawida bez przyczyny?"
 "I usłuchał Saul słów Jonatanowych, i przysiągł Saul
 "A tak przyzwał Jonatan Dawida, i opowiedział mu Jonatan wszystkie one słowa; i przywiódł Jonatan Dawida do Saula, i był przed nim, jako i przedtem."
 "I wszczęła się znowu wojna, a ciągnął Dawid, i walczył przeciwko Filistynom, i poraził je porażką wielką, i uciekli przed obliczem jego."
@@ -17,7 +17,7 @@
 "I rzekł Saul do Michol
 "A tak Dawid uciekłszy uszedł, a przyszedł do Samuela, do Ramaty, i oznajmił mu wszystko, co mu czynił Saul. Poszedł tedy on i Samuel, a mieszkali w Najot."
 "I oznajmiono Saulowi, mówiąc
-"Tedy posłał Saul posły, aby pojmali Dawida; którzy gdy ujrzeli gromadę proroków prorokujących, i Samuela stojącego, a przełożonego nad nimi, przyszedł i na posły Saulowe Duch Boży, a prorokowali i oni."
+"Tedy posłał Saul posły, aby pojmali Dawida; którzy gdy ujrzeli gromadę proroków prorokujących, i Samuela stojącego, #a przełożonego nad nimi, przyszedł i na posły Saulowe Duch Boży, a prorokowali i oni."
 "Co gdy oznajmiono Saulowi, posłał inne posły, a prorokowali oni. Znowu tedy Saul posłał i trzecie posły, lecz prorokowali i ci."
 "Potem szedł i sam do Ramaty, i przyszedł aż do studni wielkiej, która jest w Sokot, i pytał się a mówił
 "I szedł tam do Najot w Ramacie, a przyszedł też nań Duch Boży; a tak idąc dalej prorokował, aż przyszedł do Najot w Ramacie."

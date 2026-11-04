@@ -198,7 +198,28 @@ public class BuildProject : EditorWindow
             }
             GUILayout.EndHorizontal();
 
-            GUILayout.BeginHorizontal();
+        GUILayout.BeginHorizontal();
+        {
+            if (GUILayout.Button("Build OldTestament", GUILayout.Height(30)))
+            {
+                string ProductKey = "OldTestament";
+                SetBuildUnity(ProductKey);
+            }
+
+            if (GUILayout.Button("Build BibleEnglish", GUILayout.Height(30)))
+            {
+                string ProductKey = "BibleEnglish";
+                SetBuildUnity(ProductKey);
+            }
+
+            if (GUILayout.Button("Restore BibleEnglish", GUILayout.Height(30)))
+            {
+
+            }
+        }
+        GUILayout.EndHorizontal();
+
+        GUILayout.BeginHorizontal();
             {
                 if (GUILayout.Button("Move BibleKorean", GUILayout.Height(30)))
                 {

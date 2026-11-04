@@ -17,10 +17,10 @@
 "Y dijo Isaí a David su hijo
 "<I>Llevarás asimismo</I>  estos diez quesos de leche al capitán de los mil, y cuida de ver si tus hermanos están buenos, y toma prendas de ellos."
 "Y Saúl y ellos y todos los de Israel, estaban en el valle del Alcornoque, peleando contra los filisteos."
-"Se levantó, pues, David de mañana, y dejando las ovejas al <I>cuidado de un</I>  guarda, se fue con su carga, como Isaí le había mandado; y llegó al atrincheramiento del ejército, el cual había salido en ordenanza, y <I> ya</I>  tocaban al arma en batalla."
+"Se levantó, pues, David de mañana, y dejando las ovejas al <I>cuidado de un</I>  guarda, se fue con su carga, como Isaí le #había mandado; y llegó al atrincheramiento del ejército, el cual había salido en ordenanza, y <I> ya</I>  tocaban al arma en batalla."
 "Porque así los israelitas como los filisteos estaban en ordenanza, escuadrón contra escuadrón."
 "Y David dejó de sobre sí la carga en mano del que guardaba el bagaje, y corrió al escuadrón; y cuando llegó, preguntaba por sus hermanos, si estaban buenos."
-"Y estando él hablando con ellos, he aquí aquel varón que se ponía en medio de los dos <I>campamentos</I> , que se llamaba Goliat, el filisteo de Gat, que subía de los escuadrones de los filisteos, hablando las mismas palabras;  las cuales oyó David."
+"Y estando él hablando con ellos, he aquí aquel varón que se ponía en medio de los dos <I>campamentos</I> , que se llamaba #Goliat, el filisteo de Gat, que subía de los escuadrones de los filisteos, hablando las mismas palabras;  las cuales oyó David."
 "Y todos los varones de Israel que veían aquel hombre, huían delante de él, y tenían gran temor."
 "Y cada uno de los de Israel decía
 "Entonces habló David a los que junto a él estaban, diciendo
@@ -43,13 +43,13 @@
 "Y dijo el filisteo a David
 "Dijo <I>luego</I>  el filisteo a David
 "<I>Entonces</I>  dijo David al filisteo
-"El SEÑOR te entregará hoy en mi mano, y <I>yo</I>  te venceré, y quitaré tu cabeza de ti; y daré hoy los cuerpos de los filisteos a las aves del cielo y a las bestias de la tierra; y sabrá toda la tierra que hay Dios en  Israel."
+"El SEÑOR te entregará hoy en mi mano, y <I>yo</I>  te venceré, y quitaré tu cabeza de ti; y daré hoy los cuerpos de los #filisteos a las aves del cielo y a las bestias de la tierra; y sabrá toda la tierra que hay Dios en  Israel."
 "Y sabrá toda esta congregación que el SEÑOR no salva con espada y lanza; porque del SEÑOR <I>es</I>  la guerra, y él os entregará en nuestras manos."
 "Y aconteció que, cuando el filisteo se levantó para ir y llegarse contra David, David se dio prisa, y corrió al combate contra el filisteo."
 "Y metiendo David su mano en el saco, tomó de allí una piedra, y se la tiró con la honda, e hirió al filisteo en la frente; y la piedra quedó hincada en su frente, y cayó en tierra sobre su rostro."
 "Así venció David al filisteo con honda y piedra; e hirió al filisteo y lo mató, sin tener David cuchillo en su mano."
-"Entonces corrió David y se puso sobre el filisteo, y tomando el cuchillo de él, sacándola de su vaina, lo mató, y le cortó con él la cabeza. Y cuando los filisteos vieron su gigante muerto, huyeron."
-"Y levantándose los de Israel y de Judá, dieron grita, y siguieron a los filisteos hasta llegar al valle, y hasta las puertas de Ecrón. Y cayeron heridos de los filisteos por el camino de Saaraim, hasta Gat y Ecrón."
+"Entonces corrió David y se puso sobre el filisteo, y tomando el cuchillo de él, sacándola de su vaina, #lo mató, y le cortó con él la cabeza. Y cuando los filisteos vieron su gigante muerto, huyeron."
+"Y levantándose los de Israel y de Judá, dieron grita, y siguieron a los filisteos hasta llegar al valle, y hasta #las puertas de Ecrón. Y cayeron heridos de los filisteos por el camino de Saaraim, hasta Gat y Ecrón."
 "Y volviendo los hijos de Israel de seguir <I>a</I>  los filisteos, despojaron su campamento."
 "Y David tomó la cabeza del filisteo, y la trajo a Jerusalén, mas puso sus armas en su tienda."
 "Mas cuando Saúl vio a David que salía a encontrarse con el filisteo, dijo a Abner general del ejército

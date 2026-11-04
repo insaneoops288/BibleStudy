@@ -1,5 +1,5 @@
 "Voici, l'Éternel va rendre le pays vide et le dépouiller; il en bouleversera la face et en dispersera les habitants."
-"Et il en sera du sacrificateur comme du peuple, du maître comme de son serviteur, de la maîtresse comme de la servante, du vendeur comme de l'acheteur, du prêteur comme de l'emprunteur, du créancier comme du débiteur."
+"Et il en sera du sacrificateur comme du peuple, du maître comme de son serviteur, de la maîtresse comme #de la servante, du vendeur comme de l'acheteur, du prêteur comme de l'emprunteur, du créancier comme du débiteur."
 "Le pays sera entièrement vidé et mis au pillage, car l'Éternel a prononcé cet arrêt."
 "Le pays est triste et mort; la terre est morte et languissante; les grands du peuple du pays sont languissants."
 "Le pays était profané par ses habitants; car ils ont transgressé les lois, ils ont changé l'ordonnance, ils ont enfreint l'alliance perpétuelle."
@@ -15,7 +15,7 @@
 "Glorifiez donc l'Éternel aux lieux où naît la lumière; glorifiez le nom de l'Éternel, le Dieu d'Israël, dans les îles de la mer!"
 "Du bout de la terre nous entendons chanter
 "La terreur, la fosse et le filet vont t'atteindre, habitant du pays!"
-"Et celui qui fuira au bruit de la terreur, tombera dans la fosse; et qui sera remonté de la fosse, tombera dans le filet. Car les écluses d'en haut s'ouvrent, et les fondements de la terre tremblent."
+"Et celui qui fuira au bruit de la terreur, tombera dans la fosse; et qui sera remonté de la #fosse, tombera dans le filet. Car les écluses d'en haut s'ouvrent, et les fondements de la terre tremblent."
 "La terre se brise, la terre se rompt, la terre chancelle."
 "La terre chancelle comme un homme ivre; elle vacille comme une cabane; son péché pèse sur elle; elle tombe, et ne se relèvera plus!"
 "En ce jour-là, l'Éternel châtiera, l’armée des somptueux qui s’élève, et les rois de la terre du pays."

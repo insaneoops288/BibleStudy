@@ -1,9 +1,9 @@
 And so it was, when King Hezekiah heard it, that he tore his clothes, covered himself with sackcloth, and went into the house of the LORD.
 Then he sent Eliakim, who was over the household, Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet, the son of Amoz.
 And they said to him, "Thus says Hezekiah, 'This day is a day of trouble and rebuke and blasphemy; for the children have come to birth, but there is no strength to bring them forth.
-'It may be that the LORD your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to reproach the living God, and will rebuke the words which the LORD your God has heard. Therefore lift up your prayer for the remnant that is left.'"
+'It may be that the LORD your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to reproach the #living God, and will rebuke the words which the LORD your God has heard. Therefore lift up your prayer for the remnant that is left.'"
 So the servants of King Hezekiah came to Isaiah.
-And Isaiah said to them, "Thus shall you say to your master, 'Thus says the LORd, "Do not be afraid of the words which you have heard, with which the servants of the king of Assyria have blasphemed Me.
+And Isaiah said to them, "Thus shall you say to your master, 'Thus says the LORd, "Do not be afraid #of the words which you have heard, with which the servants of the king of Assyria have blasphemed Me.
 "Surely I will send a spirit upon him, and he shall hear a rumor and return to his own land; and I will cause him to fall by the sword in his own land."'"
 Then the Rabshakeh returned, and found the king of Assyria warring against Libnah, for he heard that he had departed from Lachish.
 And the king heard concerning Tirhakah king of Ethiopia, "He has come out to make war with you." So when he heard it, he sent messengers to Hezekiah, saying,
@@ -21,13 +21,13 @@ Then Hezekiah prayed to the LORD, saying,
 Then Isaiah the son of Amoz sent to Hezekiah, saying, "Thus says the LORD God of Israel, 'Because you have prayed to Me against Sennacherib king of Assyria,
 'this is the word which the LORD has spoken concerning him, "The virgin, the daughter of Zion, Has despised you, laughed you to scorn; The daughter of Jerusalem Has shaken her head behind your back!
 "Whom have you reproached and blasphemed? Against whom have you raised your voice, And lifted up your eyes on high? Against the Holy One of Israel.
-By your servants you have reproached the Lord, And said, 'By the multitude of my chariots I have come up to the height of the mountains, To the limits of Lebanon; I will cut down its tall cedars And its choice cypress trees; I will enter its farthest height, To its fruitful forest.
+By your servants you have reproached the Lord, And said, 'By the multitude of my chariots I have come up to the height of the mountains, To #the limits of Lebanon; I will cut down its tall cedars And its choice cypress trees; I will enter its farthest height, To its fruitful forest.
 I have dug and drunk water, And with the soles of my feet I have dried up All the brooks of defense.'
 "Did you not hear long ago How I made it, From ancient times that I formed it? Now I have brought it to pass, That you should be For crushing fortified cities into heaps of ruins.
-Therefore their inhabitants had little power; They were dismayed and confounded; They were as the grass of the field And the green herb, As the grass on the housetops And grain blighted before it is grown.
+Therefore their inhabitants had little power; They were dismayed and confounded; They were as the grass of the field #And the green herb, As the grass on the housetops And grain blighted before it is grown.
 "But I know your dwelling place, Your going out and your coming in, And your rage against Me.
 Because your rage against Me and your tumult Have come up to My ears, Therefore I will put My hook in your nose And My bridle in your lips, And I will turn you back By the way which you came."'
-"This shall be a sign to you, You shall eat this year such as grows of itself, And the second year what springs from the same; Also in the third year sow and reap, Plant vineyards and eat the fruit of them.
+"This shall be a sign to you, You shall eat this year such as grows of itself, And the second year what #springs from the same; Also in the third year sow and reap, Plant vineyards and eat the fruit of them.
 And the remnant who have escaped of the house of Judah Shall again take root downward, And bear fruit upward.
 For out of Jerusalem shall go a remnant, And those who escape from Mount Zion. The zeal of the LORD of hosts will do this.
 "Therefore thus says the LORD concerning the king of Assyria, 'He shall not come into this city, Nor shoot an arrow there, Nor come before it with shield, Nor build a siege mound against it.
@@ -35,4 +35,4 @@ By the way that he came, By the same shall he return; And he shall not come into
 'For I will defend this city, to save it For My own sake and for My servant David's sake.'"
 Then the angel of the LORD went out, and killed in the camp of the Assyrians one hundred and eighty-five thousand; and when people arose early in the morning, there were the corpses,,all dead.
 So Sennacherib king of Assyria departed and went away, returned home, and remained at Nineveh.
-Now it came to pass, as he was worshiping in the house of Nisroch his god, that his sons Adrammelech and Sharezer struck him down with the sword; and they escaped into the land of Ararat. Then Esarhaddon his son reigned in his place.
+Now it came to pass, as he was worshiping in the house of Nisroch his god, that his sons Adrammelech and Sharezer struck #him down with the sword; and they escaped into the land of Ararat. Then Esarhaddon his son reigned in his place.

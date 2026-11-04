@@ -1,7 +1,7 @@
-"At nangyari, nang mga kaarawan ni Achaz na anak ni Jotham, anak ni Uzzias, na hari sa Juda, na si Rezin na hari sa Siria, at si Peca na anak ni Remalias, hari sa Israel, ay nagsiahon sa Jerusalem upang makipagdigma laban doon; nguni't hindi nanganaig laban doon."
-"At nasaysay sa sangbahayan ni David, na sinasabi, Ang Siria ay nalakip sa Ephraim. At ang puso niya'y nakilos, at ang puso ng kaniyang bayan na gaya ng mga punong kahoy sa gubat na kinilos ng hangin."
-"Nang magkagayo'y sinabi ng Panginoon kay Isaias, Lumabas ka na iyong salubungin si Achaz, ikaw, at si Sear-jasub na iyong anak, sa dulo ng padaluyan ng tipunan ng tubig sa itaas, sa lansangan ng parang ng nagpapaputi ng kayo;"
-"At sabihin mo sa kaniya, Ikaw ay magingat, at tumahimik ka; huwag kang matakot, o manglupaypay man ang iyong puso ng dahil sa dalawang buntot na apoy na ito na umuusok, ng dahil sa mabangis na galit ng Rezin at Siria, at ng anak ni Remalias."
+"At nangyari, nang mga kaarawan ni Achaz na anak ni Jotham, anak ni Uzzias, na hari sa Juda, na si Rezin na hari sa Siria, #at si Peca na anak ni Remalias, hari sa Israel, ay nagsiahon sa Jerusalem upang makipagdigma laban doon; nguni't hindi nanganaig laban doon."
+"At nasaysay sa sangbahayan ni David, na sinasabi, Ang Siria ay nalakip sa Ephraim. At ang puso niya'y nakilos, #at ang puso ng kaniyang bayan na gaya ng mga punong kahoy sa gubat na kinilos ng hangin."
+"Nang magkagayo'y sinabi ng Panginoon kay Isaias, Lumabas ka na iyong salubungin si Achaz, ikaw, at si Sear-jasub na iyong #anak, sa dulo ng padaluyan ng tipunan ng tubig sa itaas, sa lansangan ng parang ng nagpapaputi ng kayo;"
+"At sabihin mo sa kaniya, Ikaw ay magingat, at tumahimik ka; huwag kang matakot, o manglupaypay man ang iyong puso ng dahil sa dalawang #buntot na apoy na ito na umuusok, ng dahil sa mabangis na galit ng Rezin at Siria, at ng anak ni Remalias."
 "Dahil sa ang Siria ay pumayo ng masama laban sa iyo, ang Ephraim din naman, at ang anak ni Remalias, na nagsasabi,"
 "Magsiahon tayo laban sa Juda, at ating bagabagin, at ating papasukin sila, at tayo'y maglagay ng hari sa gitna niyaon, sa makatuwid baga'y ang anak ni Tabeel
 "Ganito ang sabi ng Panginoong Dios, Hindi matatayo o mangyayari man."
@@ -14,7 +14,7 @@
 "Kaya't ang Panginoon nga ay magbibigay sa inyo ng tanda; narito, isang dalaga ay maglilihi, at manganganak ng isang lalake, at tatawagin ang kaniyang pangalan na Emmanuel."
 "Siya'y kakain ng mantekilla at pulot, pagka siya'y natutong tumanggi sa kasamaan, at pumili ng mabuti."
 "Sapagka't bago maalaman ng bata na tumanggi sa kasamaan, at pumili ng mabuti, pababayaan ang lupain ng dalawang haring iyong kinayayamutan."
-"Ang Panginoon ay magpapasapit sa iyo, at sa iyong bayan, at sa sangbahayan ng iyong magulang ng mga araw na hindi nangyari mula ng araw na humiwalay ang Ephraim sa Juda; sa makatuwid baga'y ang hari sa Asiria."
+"Ang Panginoon ay magpapasapit sa iyo, at sa iyong bayan, at sa sangbahayan ng iyong magulang ng mga araw na #hindi nangyari mula ng araw na humiwalay ang Ephraim sa Juda; sa makatuwid baga'y ang hari sa Asiria."
 "At mangyayari sa araw na yaon, na susutsutan ng Panginoon ang langaw na nasa kahulihulihang bahagi ng mga ilog ng Egipto, at ang pukyutan na nasa lupain ng Asiria."
 "At sila'y magsisidating, at silang lahat ay mangagpapahinga sa mga gibang libis, at sa mga bitak ng malalaking bato, at sa lahat ng mga tinikan, at sa lahat ng mga sukal."
 "Sa araw na yaon ay aahitin ng Panginoon ang ulo at ang balahibo ng mga paa, ng pangahit na inupahan, ang nangasa bahagi ng dako roon ng Ilog, ang hari sa Asiria

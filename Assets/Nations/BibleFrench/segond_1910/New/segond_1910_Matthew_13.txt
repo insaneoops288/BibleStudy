@@ -12,7 +12,7 @@
 "Car on donnera à celui qui a, et il sera dans l'abondance, mais à celui qui n'a pas on ôtera même ce qu'il a."
 "C'est pourquoi je leur parle en paraboles, parce qu'en voyant ils ne voient point, et qu'en entendant ils n'entendent ni ne comprennent."
 "Et pour eux s'accomplit cette prophétie d'Esaïe
-"Car le coeur de ce peuple est devenu insensible; Ils ont endurci leurs oreilles, et ils ont fermé leurs yeux, De peur qu'ils ne voient de leurs yeux, qu'ils n'entendent de leurs oreilles, Qu'ils ne comprennent de leur coeur, Qu'ils ne se convertissent, et que je ne les guérisse."
+"Car le coeur de ce peuple est devenu insensible; Ils ont endurci leurs oreilles, et ils ont fermé leurs yeux, De peur qu'ils ne voient #de leurs yeux, qu'ils n'entendent de leurs oreilles, Qu'ils ne comprennent de leur coeur, Qu'ils ne se convertissent, et que je ne les guérisse."
 "Mais heureux sont vos yeux, parce qu'ils voient, et vos oreilles, parce qu'elles entendent!"
 "Je vous le dis en vérité, beaucoup de prophètes et de justes ont désiré voir ce que vous voyez, et ne l'ont pas vu, entendre ce que vous entendez, et ne l'ont pas entendu."
 "Vous donc, écoutez ce que signifie la parabole du semeur."

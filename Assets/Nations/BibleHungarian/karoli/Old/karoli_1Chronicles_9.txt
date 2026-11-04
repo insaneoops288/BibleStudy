@@ -16,7 +16,7 @@
 "Obádia, a Semája fia, Galál fia, ki Jédutun fia, és Bérékia, Asa fia, ki Elkána fia, a ki Nétofáti faluiban lakik vala."
 "És az ajtónállók
 "(És [ennek] mindez ideig a királykapun [van helye] napkelet felõl.) Ezek az ajtónállók a Léviták rendje szerint."
-"Sallum pedig a Kóré fia, ki Ebiásáf fia, ki Kórákh fia, és ennek rokonságai a Kórakhiták családjából a szolgálat munkájában a hajlék ajtajának õrizõi valának, mint az õ atyáik az Úr seregében õrizték vala a bejáratot,"
+"Sallum pedig a Kóré fia, ki Ebiásáf fia, ki Kórákh fia, és ennek rokonságai a Kórakhiták családjából a szolgálat #munkájában a hajlék ajtajának õrizõi valának, mint az õ atyáik az Úr seregében õrizték vala a bejáratot,"
 "Mikor Fineás, az Eleázár fia volt egykor az õ elõljárójok, kivel az Úr vala."
 "Zakariás, a Meselémia fia, a gyülekezet sátorába való bejárat õrizõje."
 "Ezek mind választott ajtónállók voltak, kétszáztizenketten; kik az õ faluikban, nemzetségök szerint, megszámláltattak volt; kiket Dávid rendelt és Sámuel próféta az õ tisztökbe."

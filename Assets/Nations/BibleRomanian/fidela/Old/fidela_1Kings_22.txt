@@ -7,7 +7,7 @@
 "Şi Iosafat a spus
 "Şi împăratul lui Israel i-a spus lui Iosafat
 "Atunci împăratul lui Israel a chemat un ofiţer şi a spus
-"Şi împăratul lui Israel şi Iosafat, împăratul lui Iuda, au şezut fiecare pe tronul său, îmbrăcaţi cu robele lor, într-un loc gol la intrarea porţii Samariei; şi toţi profeţii profeţeau înaintea lor."
+"Şi împăratul lui Israel şi Iosafat, împăratul lui Iuda, au şezut fiecare pe tronul său, îmbrăcaţi cu #robele lor, într-un loc gol la intrarea porţii Samariei; şi toţi profeţii profeţeau înaintea lor."
 "Şi Zedechia, fiul lui Chenaana, îşi făcuse coarne de fier; şi spunea
 "Şi toţi profeţii au profeţit astfel, spunând
 "Şi mesagerul care mersese să îl cheme pe Micaia i-a vorbit, spunând
@@ -40,7 +40,7 @@
 "Astfel, Ahab a adormit cu părinţii săi; şi Ahazia, fiul său, a domnit în locul său."
 "Şi Iosafat, fiul lui Asa, a început să domnească peste Iuda în al patrulea an al lui Ahab, împăratul lui Israel."
 "Iosafat [avea] treizeci şi cinci de ani când a început să domnească şi a domnit douăzeci şi cinci de ani în Ierusalim. Şi numele mamei lui [era] Azuba, fiica lui Şilhi."
-"Şi el a umblat în toate căile lui Asa, tatăl său; şi nu s-a abătut de la împlinirea [lor], făcând [ceea ce] [era] drept în ochii DOMNULUI; totuşi înălţimile nu au fost îndepărtate, [fiindcă ]poporul încă oferea şi ardea tămâie pe înălţimi."
+"Şi el a umblat în toate căile lui Asa, tatăl său; şi nu s-a abătut de la împlinirea [lor], făcând [ceea ce] #[era] drept în ochii DOMNULUI; totuşi înălţimile nu au fost îndepărtate, [fiindcă ]poporul încă oferea şi ardea tămâie pe înălţimi."
 "Şi Iosafat a făcut pace cu împăratul lui Israel."
 "Şi restul faptelor lui Iosafat şi puterea sa pe care a arătat-o şi cum s-a războit, nu [sunt] ele scrise în cartea cronicilor împăraţilor lui Iuda?"
 "Şi rămăşiţa de sodomiţi, care rămăsese din zilele tatălui său, Asa, a alungat-o din ţară."

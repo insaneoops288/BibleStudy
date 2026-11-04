@@ -11,11 +11,11 @@
 "Und Jehova sprach zu Mose
 "Ich will es mit der Pest schlagen und es vertilgen; und ich will dich zu einer Nation machen, größer und stärker als sie."
 "Und Mose sprach zu Jehova
-"und man wird es den Bewohnern dieses Landes sagen, welche gehört haben, daß du, Jehova, in der Mitte dieses Volkes bist, daß du, Jehova, Auge in Auge dich sehen läßt, und daß deine Wolkeüber ihnen steht, und du in einer Wolkensäule vor ihnen hergehst bei Tage und in einer Feuersäule bei Nacht."
+"und man wird es den Bewohnern dieses Landes sagen, welche gehört haben, daß du, Jehova, in der Mitte dieses Volkes bist, daß du, Jehova, Auge in Auge #dich sehen läßt, und daß deine Wolkeüber ihnen steht, und du in einer Wolkensäule vor ihnen hergehst bei Tage und in einer Feuersäule bei Nacht."
 "Und tötest du dieses Volk wie einen Mann, so werden die Nationen, die deinen Ruf gehört haben, sprechen und sagen
 "Weil Jehova nicht vermochte, dieses Volk in das Land zu bringen, das er ihnen zugeschworen hatte, so hat er sie in der Wüste hingeschlachtet."
 "Und nun möge doch die Macht des Herrn sich groß erweisen, so wie du geredet hast, indem du sprachst
-"Jehova ist langsam zum Zorn und groß an Güte, der Ungerechtigkeit undÜbertretung vergibt, aber keineswegs hält er für schuldlos den Schuldigen, der die Ungerechtigkeit der Väter heimsucht an den Kindern am dritten und am vierten Gliede."
+"Jehova ist langsam zum Zorn und groß an Güte, der Ungerechtigkeit undÜbertretung vergibt, aber keineswegs hält er für schuldlos #den Schuldigen, der die Ungerechtigkeit der Väter heimsucht an den Kindern am dritten und am vierten Gliede."
 "Vergib doch die Ungerechtigkeit dieses Volkes nach der Größe deiner Güte, und so wie du diesem Volke verziehen hast vonÄgypten an bis hierher!"
 "Und Jehova sprach
 "Doch aber, so wahr ich lebe, soll von der Herrlichkeit Jehovas erfüllt werden die ganze Erde;"
@@ -31,9 +31,9 @@
 "Und eure Kindlein, von denen ihr gesagt habt
 "Ihr aber, eure Leichname sollen in dieser Wüste fallen;"
 "und eure Kinder sollen vierzig Jahre lang in der Wüste weiden und eure Hurereien tragen, bis eure Leichname in der Wüste aufgerieben sind."
-"Nach der Zahl der Tage, die ihr das Land ausgekundschaftet habt, vierzig Tage, je einen Tag für ein Jahr, sollt ihr vierzig Jahre lang eure Ungerechtigkeiten tragen, und ihr sollt erfahren, was es ist, wenn ich mich abwende!"
-"Ich, Jehova, habe es geredet; wenn ich dies nicht tun werde an dieser ganzen bösen Gemeinde, die sich wider mich zusammengerottet hat! In dieser Wüste sollen sie aufgerieben werden, und daselbst sollen sie sterben!"
-"Und die Männer, welche Mose ausgesandt hatte, um das Land auszukundschaften, und die zurückkehrten und die ganze Gemeinde wider ihn murren machten, indem sie ein böses Gerüchtüber das Land ausbrachten,"
+"Nach der Zahl der Tage, die ihr das Land ausgekundschaftet habt, vierzig Tage, je einen Tag für ein Jahr, sollt #ihr vierzig Jahre lang eure Ungerechtigkeiten tragen, und ihr sollt erfahren, was es ist, wenn ich mich abwende!"
+"Ich, Jehova, habe es geredet; wenn ich dies nicht tun werde an dieser ganzen bösen Gemeinde, die sich #wider mich zusammengerottet hat! In dieser Wüste sollen sie aufgerieben werden, und daselbst sollen sie sterben!"
+"Und die Männer, welche Mose ausgesandt hatte, um das Land auszukundschaften, und die zurückkehrten und die #ganze Gemeinde wider ihn murren machten, indem sie ein böses Gerüchtüber das Land ausbrachten,"
 "jene Männer, die ein böses Gerüchtüber das Land ausgebracht hatten, starben durch eine Plage vor Jehova."
 "Aber Josua, der Sohn Nuns, und Kaleb, der Sohn Jephunnes, blieben am Leben von jenen Männern, welche gegangen waren, das Land auszukundschaften."
 "Und als Mose jene Worte zu allen Kindern Israel redete, da trauerte das Volk sehr."

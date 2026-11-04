@@ -3,7 +3,7 @@
 "Maintenant donc qu'as-tu sous la main? Donne-moi cinq pains, ou ce qui se trouvera."
 "Et le sacrificateur répondit à David, et dit
 "Et David répondit au sacrificateur, et lui dit
-"Le sacrificateur lui donna donc le pain sacré; car il n'y avait point là d'autre pain que les pains de proposition, qui avaient été ôtés de devant l'Éternel, pour y remettre du pain chaud, au jour qu'on avait ôté l'autre."
+"Le sacrificateur lui donna donc le pain sacré; car il n'y avait point là d'autre pain que les pains de proposition, #qui avaient été ôtés de devant l'Éternel, pour y remettre du pain chaud, au jour qu'on avait ôté l'autre."
 "Or, en ce jour, un homme d'entre les serviteurs de Saül se tenait là, devant l'Éternel; il se nommait Doëg, l'Iduméen, chef des bergers de Saül."
 "Et David dit à Achimélec
 "Et le sacrificateur dit

@@ -4,7 +4,7 @@
 "Mindenkor minden én könyörgésemben mindenitekért nagy örömmel könyörögvén,"
 "Mivelhogy résztvettetek az evangyéliom ügyében az elsõ naptól fogva mind ez ideig;"
 "Meg lévén gyõzõdve arról, hogy a ki elkezdette bennetek a jó dolgot, elvégezi a Krisztus Jézusnak napjáig
-"A mint hogy méltó, hogy én ilyen értelemben legyek mindenitek felõl, azért, mert én szívemben hordalak titeket, mint a kik mind az én fogságomban, mind az evangyéliomnak oltalmazásában és megbizonyításában mindnyájan részestársaim vagytok a nékem adott kegyelemben."
+"A mint hogy méltó, hogy én ilyen értelemben legyek mindenitek felõl, azért, mert én szívemben hordalak titeket, mint a #kik mind az én fogságomban, mind az evangyéliomnak oltalmazásában és megbizonyításában mindnyájan részestársaim vagytok a nékem adott kegyelemben."
 "Mert bizonyságom az Isten, mely igen vágyakozom mindnyájatok után a Krisztus Jézus szerelmében."
 "És azért imádkozom, hogy a ti szeretetetek még jobban-jobban bõvölködjék ismeretben és minden értelmességben;"
 "Hogy megítélhessétek, hogy mi a rossz és mi a jó; hogy legyetek tiszták és botlás nélkül valók a Krisztusnak napjára;"
@@ -17,14 +17,14 @@
 "De mások szeretetbõl, tudván, hogy én az evangyéliomnak oltalmazására rendeltettem."
 "Mert mit [mondjak?] csakhogy minden módon, akár színbõl, akár szívbõl, a Krisztus prédikáltatik
 "Mert tudom, hogy ez nékem idvességemre lesz a ti könyörgéstek által és a Jézus Krisztus Lelkének segedelme által,"
-"Amaz én esengõ várásom és reménységem szerint, hogy semmiben meg nem szégyenülök, hanem mint mindenkor, úgy most is nagy bátorsággal fog magasztaltatni Krisztus az én testemben, akár életem, akár halálom által."
+"Amaz én esengõ várásom és reménységem szerint, hogy semmiben meg nem szégyenülök, hanem mint mindenkor, úgy #most is nagy bátorsággal fog magasztaltatni Krisztus az én testemben, akár életem, akár halálom által."
 "Mert nékem az élet Krisztus, és a meghalás nyereség."
 "De ha e testben való életem munkámat gyümölcsözteti
 "Mert szorongattatom e kettõ között, kívánván elköltözni és a Krisztussal lenni; mert ez sokkal inkább jobb;"
 "De e testben megmaradnom szükségesebb ti érettetek."
 "És ebben bízva, tudom, hogy megmaradok és együtt maradok mindnyájatokkal a ti hitben való gyarapodástokra és örömötökre;"
 "Hogy bõven dicsekedhessetek velem Krisztus Jézusban az én ti nálatok való újabb megjelenésem által."
-"Csakhogy a Krisztus evangyéliomához méltóan viseljétek magatokat, hogy akár oda menvén és látván titeket, akár távol lévén, azt halljam dolgaitok felõl, hogy megállotok egy lélekben, egy érzéssel viaskodván az evangyéliom hitéért;"
+"Csakhogy a Krisztus evangyéliomához méltóan viseljétek magatokat, hogy akár oda menvén és látván titeket, akár távol #lévén, azt halljam dolgaitok felõl, hogy megállotok egy lélekben, egy érzéssel viaskodván az evangyéliom hitéért;"
 "És meg nem félemlvén semmiben az ellenségek elõtt
 "Mert néktek adatott az a kegyelem a Krisztusért, nemcsak hogy higyjetek Õ benne, hanem hogy szenvedjetek is Õ érette
 "Ugyanolyan tusakodástok lévén, a milyent láttatok én nálam, és most hallotok én felõlem."

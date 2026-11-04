@@ -1,6 +1,6 @@
 "Yksi mies oli Utsin maalla nimeltä Job; ja se mies oli vakaa ja hurskas, ja Jumalaa pelkääväinen, ja vältti pahaa."
 "Ja hänelle oli syntynyt seitsemän poikaa ja kolme tytärtä."
-"Ja hänen karjansa oli seitsemäntuhatta lammasta, kolmetuhatta kamelia, viisisataa paria härkiä ja viisisataa aasia, ja myös sangen paljo perhettä. Ja se mies oli voimallisempi kuin kaikki, jotka itäisellä maalla asuivat."
+"Ja hänen karjansa oli seitsemäntuhatta lammasta, kolmetuhatta kamelia, viisisataa paria härkiä ja viisisataa aasia, ja myös #sangen paljo perhettä. Ja se mies oli voimallisempi kuin kaikki, jotka itäisellä maalla asuivat."
 "Ja hänen poikansa menivät ja tekivät pidon huoneessansa itsekukin päivänänsä, ja lähettivät ja antoivat kutsua kolme sisartansa syömään ja juomaan kanssansa."
 "Ja kuin pitopäivät olivat kuluneet, lähetti Job ja pyhitti heitä, ja nousi aamulla varhain ja uhrasi polttouhria kaikkein heidän lukunsa jälkeen. Sillä Job ajatteli
 "Mutta tapahtui yhtenä päivänä, että Jumalan lapset tulivat ja astuivat Herran eteen, ja tuli myös saatana heidän kanssansa."

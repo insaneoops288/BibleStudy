@@ -7,7 +7,7 @@
 "L'Éternel, le Dieu des cieux, qui m'a pris de la maison de mon père et du pays de ma naissance, et qui m'a parlé, et qui m'a juré, en disant
 "Que si la femme ne veut pas te suivre, tu seras quitte de ce serment que je te fais faire. Quoi qu'il en soit, n'y ramène point mon fils."
 "Alors le serviteur mit sa main sous la cuisse d'Abraham son maître, et s'engagea par serment à faire ce qu'il avait dit."
-"Puis le serviteur prit dix chameaux d'entre les chameaux de son maître, et partit, avec toute sorte de biens de son maître en ses mains. Il se leva donc, et s'en alla en Mésopotamie, à la ville de Nachor."
+"Puis le serviteur prit dix chameaux d'entre les chameaux de son maître, et partit, avec toute sorte de biens de #son maître en ses mains. Il se leva donc, et s'en alla en Mésopotamie, à la ville de Nachor."
 "Et il fit reposer les chameaux sur leurs genoux hors de la ville, près d'un puits d'eau, vers le soir, à l'heure où sortent celles qui vont puiser de l'eau."
 "Et il dit
 "Voici, je me tiens près de la source, et les filles des gens de la ville sortent pour puiser de l'eau."
@@ -29,10 +29,10 @@
 "Or, Rébecca avait un frère nommé Laban. Et Laban courut dehors vers cet homme, près de la source."
 "Aussitôt qu'il eut vu l'anneau et les bracelets aux mains de sa sœur, et qu'il eut entendu les paroles de Rébecca sa sœur, qui disait
 "Et il dit
-"L'homme entra donc dans la maison, et Laban déharnacha les chameaux, et donna de la paille et du fourrage aux chameaux, et de l'eau, pour laver ses pieds et les pieds des gens qui étaient avec lui."
+"L'homme entra donc dans la maison, et Laban déharnacha les chameaux, et donna de la paille et du fourrage #aux chameaux, et de l'eau, pour laver ses pieds et les pieds des gens qui étaient avec lui."
 "Et on lui présenta à manger. Mais il dit
 "Alors il dit
-"Or, l'Éternel a comblé de bénédictions mon seigneur, et il est devenu grand; et il lui a donné des brebis et des bœufs, de l'argent et de l'or, des serviteurs et des servantes, des chameaux et des ânes."
+"Or, l'Éternel a comblé de bénédictions mon seigneur, et il est devenu grand; et il lui a donné des brebis #et des bœufs, de l'argent et de l'or, des serviteurs et des servantes, des chameaux et des ânes."
 "Et Sara, femme de mon seigneur, a enfanté un fils à mon seigneur, après être devenue vieille, et il lui a donné tout ce qu'il a."
 "Et mon seigneur m'a fait jurer, en disant
 "Mais tu iras vers la maison de mon père, et vers ma parenté, et tu y prendras une femme pour mon fils."
@@ -45,7 +45,7 @@
 "Avant que j'eusse achevé de parler en mon cœur, voici, Rébecca sortait avec sa cruche sur son épaule; et elle est descendue à la source et a puisé de l'eau. Et je lui ai dit
 "Et elle s'est hâtée d'abaisser sa cruche de dessus son épaule, et elle m'a dit
 "Et je l'ai interrogée, et j'ai dit
-"Ensuite je me suis incliné et prosterné devant l'Éternel, et j'ai béni l'Éternel, le Dieu de mon maître Abraham, qui m'a conduit dans le droit chemin, pour prendre la fille du frère de mon seigneur pour son fils."
+"Ensuite je me suis incliné et prosterné devant l'Éternel, et j'ai béni l'Éternel, le Dieu de mon maître Abraham, qui #m'a conduit dans le droit chemin, pour prendre la fille du frère de mon seigneur pour son fils."
 "Et maintenant, si vous voulez être favorables et fidèles à mon seigneur, déclarez-le-moi; sinon déclarez-le-moi aussi, et je me tournerai à droite ou à gauche."
 "Et Laban et Béthuël répondirent, et dirent
 "Voici, Rébecca est devant toi, prends-la et pars, et qu'elle soit la femme du fils de ton seigneur, comme l'Éternel l'a dit."

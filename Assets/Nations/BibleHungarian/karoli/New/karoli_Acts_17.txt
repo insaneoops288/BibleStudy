@@ -2,7 +2,7 @@
 "Pál pedig, a mint szokása vala, beméne hozzájok, és három szombaton át vetekedék velök az írásokból,"
 "Megmagyarázva és kimutatva, hogy a Krisztusnak szükség volt szenvedni és feltámadni a halálból; és hogy ez a Jézus a Krisztus, a kit én hirdetek néktek."
 "És némelyek azok közül hivének és csatlakozának Pálhoz és Siláshoz; úgyszintén az istenfélõ görögök közül nagy sokaság, és az elõkelõ asszonyok közül nem kevesen."
-"De a zsidók, kik nem hisznek vala, írigységtõl felindíttatván, és magok mellé vévén a piaczi népségbõl némely gonosz férfiakat, és csõdületet támasztván, felháboríták a várost; és a Jáson házát megostromolván, igyekeztek õket kihozni a nép közé."
+"De a zsidók, kik nem hisznek vala, írigységtõl felindíttatván, és magok mellé vévén a piaczi népségbõl némely gonosz férfiakat, #és csõdületet támasztván, felháboríták a várost; és a Jáson házát megostromolván, igyekeztek õket kihozni a nép közé."
 "Mikor pedig õket nem találák, Jásont és némely atyafiakat vonszolák a város elõljárói elé, kiáltozva, hogy ezek az országháborítók itt is megjelentek;"
 "Kiket Jáson házába fogadott
 "Fel is indíták a sokaságot és a város elõljáróit, kik hallják vala ezeket."

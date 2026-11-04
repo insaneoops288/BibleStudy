@@ -9,11 +9,11 @@
 "Y tomarán un paño cárdeno, y cubrirán el candelero de la luminaria; y sus candilejas, y sus despabiladeras, y sus platillos, y todos sus vasos del aceite con que se sirve;"
 "Y lo pondrán con todos sus vasos en una cubierta de pieles de tejones, y lo colocarán sobre unas parihuelas."
 "Y sobre el altar de oro extenderán el paño cárdeno, y le cubrirán con la cubierta de pieles de tejones, y le pondrán sus varales."
-"Y tomarán todos los vasos del servicio, de que hacen uso en el santuario, y los pondrán en un paño cárdeno, y los cubrirán con una cubierta de pieles de tejones, y los colocarán sobre unas parihuelas."
+"Y tomarán todos los vasos del servicio, de que hacen uso en el santuario, y los pondrán en un #paño cárdeno, y los cubrirán con una cubierta de pieles de tejones, y los colocarán sobre unas parihuelas."
 "Y quitarán la ceniza del altar, y extenderán sobre él un paño de púrpura
 "Y pondrán sobre él todos sus instrumentos de que se sirve
 "Y en acabando Aarón y sus hijos de cubrir el santuario y todos los vasos del santuario, cuando el campo se hubiere de mudar, vendrán después de ello los hijos de Coath para conducir
-"Empero al cargo de Eleazar, hijo de Aarón el sacerdote, estará el aceite de la luminaria, y el perfume aromático, y el presente continuo, y el aceite de la unción; el cargo de todo el tabernáculo, y de todo lo que está en él, en el santuario, y en sus vas"
+"Empero al cargo de Eleazar, hijo de Aarón el sacerdote, estará el aceite de la luminaria, y el perfume aromático, y el presente continuo, y el #aceite de la unción; el cargo de todo el tabernáculo, y de todo lo que está en él, en el santuario, y en sus vas"
 "Y habló Jehová á Moisés y á Aarón, diciendo
 "No cortaréis la tribu de las familias de Coath de entre los Levitas;"
 "Mas esto haréis con ellos, para que vivan, y no mueran cuando llegaren al lugar santísimo
@@ -22,8 +22,8 @@
 "Toma también la cuenta de los hijos de Gersón por las casas de sus padres, por sus familias."
 "De edad de treinta años arriba hasta cincuenta años los contarás; todos los que entran en compañía, para hacer servicio en el tabrenáculo del testimonio."
 "Este será el oficio de las familias de Gersón, para ministrar y para llevar
-"Llevarán las cortinas del tabernáculo, y el tabernáculo del testimonio, su cubierta, y la cubierta de pieles de tejones que está sobre él encima, y el pabellón de la puerta del tabernáculo del testimonio,"
-"Y las cortinas del atrio, y el pabellón de la puerta del atrio, que está cerca del tabernáculo y cerca del altar alrededor, y sus cuerdas, y todos los instrumentos de su servicio, y todo lo que será hecho para ellos
+"Llevarán las cortinas del tabernáculo, y el tabernáculo del testimonio, su cubierta, y la cubierta de pieles de #tejones que está sobre él encima, y el pabellón de la puerta del tabernáculo del testimonio,"
+"Y las cortinas del atrio, y el pabellón de la puerta del atrio, que está cerca del tabernáculo y cerca del #altar alrededor, y sus cuerdas, y todos los instrumentos de su servicio, y todo lo que será hecho para ellos
 "Según la orden de Aarón y de sus hijos será todo el ministerio de los hijos de Gersón en todos sus cargos, y en todo su servicio
 "Este es el servicio de las familias de los hijos de Gersón en el tabernáculo del testimonio
 "Contarás los hijos de Merari por sus familias, por las casas de sus padres."

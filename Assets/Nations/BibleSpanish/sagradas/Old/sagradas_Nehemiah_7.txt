@@ -2,8 +2,8 @@
 "Mandé a mi hermano Hanani, y a Hananías, príncipe del templo en Jerusalén (porque era éste, como varón de verdad y temeroso de Dios, sobre muchos);"
 "y les dije
 "Y la ciudad <I>era</I>  espaciosa y grande, pero poco pueblo dentro de ella, y no <I>había</I>  casas reedificadas."
-"Y puso Dios en mi corazón que juntase los principales, y los magistrados, y el pueblo, para que fuesen empadronados por el orden de sus linajes; y hallé el libro de la genealogía de los que habían subido antes, y encontré  en él escrito
-"Estos <I>son</I>  los hijos de la provincia que subieron de la cautividad, de la transmigración que hizo pasar Nabucodonosor rey de Babilonia, y que volvieron a Jerusalén y a Judá cada uno a su ciudad;"
+"Y puso Dios en mi corazón que juntase los principales, y los magistrados, y el pueblo, para que fuesen empadronados por el orden #de sus linajes; y hallé el libro de la genealogía de los que habían subido antes, y encontré  en él escrito
+"Estos <I>son</I>  los hijos de la provincia que subieron de la cautividad, de la transmigración que hizo pasar #Nabucodonosor rey de Babilonia, y que volvieron a Jerusalén y a Judá cada uno a su ciudad;"
 "los cuales vinieron con Zorobabel, Jesúa, Nehemías, Azarías, Raamías, Nahamani, Mardoqueo, Bilsán, Misperet, Bigvai, Nehum, <I>y</I>  Baana. La cuenta de los varones del pueblo de Israel
 "Los hijos de Paros, dos mil ciento setenta y dos;"
 "los hijos de Sefatías, trescientos setenta y dos;"
@@ -70,4 +70,4 @@
 "Y algunos de los príncipes de las familias dieron para la obra. El Tirsata dio para el tesoro mil dracmas de oro, cincuenta tazones, y quinientas treinta vestiduras sacerdotales."
 "Y de los príncipes de las familias dieron para el tesoro de la obra, veinte mil dracmas de oro, y dos mil doscientas libras de plata."
 "Y lo que dio el resto del pueblo fue veinte mil dracmas de oro, y dos mil libras de plata, y sesenta y siete vestiduras sacerdotales."
-"Y habitaron los sacerdotes y los levitas, y los porteros, y los cantores, y <I>los</I>  del pueblo, y los netineos, y todo Israel, en sus ciudades. Y venido el mes séptimo, los hijos de Israel estaban en sus ciudades."
+"Y habitaron los sacerdotes y los levitas, y los porteros, y los cantores, y <I>los</I>  del pueblo, y los netineos, #y todo Israel, en sus ciudades. Y venido el mes séptimo, los hijos de Israel estaban en sus ciudades."

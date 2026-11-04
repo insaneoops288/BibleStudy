@@ -1,7 +1,7 @@
 "Sucedeu, pois, que um dia disse Jónatas, filho de Saul, ao moço que lhe levava as armas
 "E estava Saul na extremidade de Gibeá, debaixo da romeira que estava em Migrom; e o povo que havia com ele eram uns seiscentos homens."
 "E Aías, filho de Aitube, irmão de Icabod, filho de Fineias, filho de Eli, sacerdote do SENHOR em Siló, trazia o éfode; porém o povo não sabia que Jónatas tinha ido."
-"E, nas passagens pelas quais Jónatas procurava passar à guarnição dos filisteus, desta banda havia uma penha aguda, e da outra banda, uma penha aguda; e era o nome de uma Bozez; e o nome da outra, Sené."
+"E, nas passagens pelas quais Jónatas procurava passar à guarnição dos filisteus, desta banda havia uma penha aguda, e da #outra banda, uma penha aguda; e era o nome de uma Bozez; e o nome da outra, Sené."
 "Uma penha para o norte estava defronte de Micmás, e a outra para o sul, defronte de Gibeá."
 "Disse, pois, Jónatas ao moço que lhe levava as armas
 "Então, o seu pajem de armas lhe disse

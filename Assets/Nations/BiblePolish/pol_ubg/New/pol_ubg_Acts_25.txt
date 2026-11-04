@@ -8,7 +8,7 @@
 "On zaś bronił się
 "Lecz Festus, chcąc sobie zjednać przychylność Żydów, odpowiedział Pawłowi
 "Wtedy Paweł powiedział
-"Bo jeśli w czymś zawiniłem i popełniłem coś, co zasługuje na śmierć, nie wzbraniam się umrzeć. Lecz jeśli nie ma nic w tym, o co mnie oskarżają, nikt nie może mnie im wydać. Odwołuję się do cesarza."
+"Bo jeśli w czymś zawiniłem i popełniłem coś, co zasługuje na śmierć, nie wzbraniam się umrzeć. Lecz jeśli nie #ma nic w tym, o co mnie oskarżają, nikt nie może mnie im wydać. Odwołuję się do cesarza."
 "Wtedy Festus porozumiał się z Radą i odpowiedział
 "A po upływie kilku dni przyjechali do Cezarei król Agryppa i Berenike, aby powitać Festusa."
 "A kiedy przebywali tam wiele dni, Festus przedstawił królowi sprawę Pawła, mówiąc

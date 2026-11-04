@@ -3,7 +3,7 @@
 "Toż uczynisz osłowi jego; toż też uczynisz szacie jego; toż też uczynisz wszelakiej rzeczy zgubionej brata twego, która by mu zginęła, jeźlibyś ją znalazł, nie mijajże jej."
 "Jeźlibyś ujrzał osła brata twego, albo wołu jego, że upadł na drodze, nie mijajże ich, ale go zaraz z nim podnieś."
 "Niech nie bierze niewiasta na się szat męskich, ani niech się nie obłóczy mąż w szatę niewieścią; albowiem jest obrzydliwością Panu, Bogu twemu, kto by to czynił."
-"Gdybyś trafił gniazdo ptasze przed sobą w drodze, na jakiemkolwiek drzewie, albo na ziemi, a w niem ptaszęta albo jajka, a matka by siedziała na ptaszętach albo na jajkach, nie bierzże macierzy z dziećmi;"
+"Gdybyś trafił gniazdo ptasze przed sobą w drodze, na jakiemkolwiek drzewie, albo na ziemi, a w niem ptaszęta #albo jajka, a matka by siedziała na ptaszętach albo na jajkach, nie bierzże macierzy z dziećmi;"
 "Ale wolno puściwszy matkę, dzieci weźmiesz sobie, abyć się dobrze działo, i żebyś przedłużył dni twoich"
 "Gdy też zbudujesz dom nowy, tedy uczynisz blanki po kraju dachu twego, abyś nie przywiódł krwi na dom twój, gdyby kto spadł z niego."
 "Nie posiewaj winnicy twojej, różnem nasieniem, byś snać nie splugawił pożytku nasienia, któreś siał, i urodzaju winnicy."
@@ -16,7 +16,7 @@
 "I rzecze ojciec onej dzieweczki do starszych
 "A oto sam dał przyczynę, aby mówiono o niej, powiadając
 "A wziąwszy starsi miasta onego męża skarzą go."
-"I wezmą z niego winę sto srebrników, które oddadzą ojcu onej dzieweczki, przeto, że puścił złą sławę o pannie Izraelskiej, i będzie ją miał za żonę, i nie będzie jej mógł opuścić po wszystkie dni swoje."
+"I wezmą z niego winę sto srebrników, które oddadzą ojcu onej dzieweczki, przeto, że puścił złą sławę o pannie #Izraelskiej, i będzie ją miał za żonę, i nie będzie jej mógł opuścić po wszystkie dni swoje."
 "Ale byłoliby prawdziwe to obwinienie jej, a nie znalazłyby się znaki panieństwa przy onej dzieweczce;"
 "Tedy wywiodą onę dzieweczkę przed drzwi domu ojca jej, i ukamionują ją ludzie miasta onego, i umrze
 "Jeźliby kto znalezion był, obcujący z niewiastą, mającą męża, tedy niech umrą oboje, mąż, który obcował z cudzą żoną, i ona niewiasta; tak odejmiesz złe z Izraela."

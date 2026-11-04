@@ -26,7 +26,7 @@
 "Tedy vyšed Joáb od Davida, poslal posly za Abnerem, kteříž ho přivedli zase od čisterny Sírach, o čemž David nic nevěděl."
 "A když se navrátil Abner do Hebronu, uvedl ho Joáb do prostřed brány, aby s ním mluvil tiše. I udeřil ho v páté žebro, a umřel pro krev Azaele bratra jeho."
 "To když potom David uslyšel, řekl
-"Nechať přijde na hlavu Joábovu i na všecken dům otce jeho, a nechť není prázden dům Joábův toho, jenž by trpěl tok, aneb malomocného a na hůl se podpírajícího, aneb padajícího od meče a nemajícího chleba."
+"Nechať přijde na hlavu Joábovu i na všecken dům otce jeho, a nechť není prázden dům Joábův toho, jenž #by trpěl tok, aneb malomocného a na hůl se podpírajícího, aneb padajícího od meče a nemajícího chleba."
 "A tak Joáb a Abizai bratr jeho zamordovali Abnera, proto že byl zabil Azaele bratra jejich v Gabaon v bitvě."
 "I řekl David Joábovi a ke všemu lidu, kterýž byl s ním
 "A když pochovávali Abnera v Hebronu, pozdvih král hlasu svého, plakal nad hrobem Abnerovým, plakal také všecken lid."

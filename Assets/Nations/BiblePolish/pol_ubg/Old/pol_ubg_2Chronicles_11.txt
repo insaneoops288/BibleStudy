@@ -18,6 +18,6 @@
 "Potem Roboam wziął sobie za żonę Machalat, córkę Jerimota, syna Dawida, oraz Abihail, córkę Eliaba, syna Jessego;"
 "Która mu urodziła synów
 "A po niej wziął za żonę Maakę, córkę Absaloma, która urodziła mu Abiasza, Attaja, Zizę i Szelomita."
-"Roboam ukochał Maakę, córkę Absaloma, najbardziej ze wszystkich swoich żon i nałożnic. Pojął bowiem osiemnaście żon i sześćdziesiąt nałożnic i spłodził dwudziestu ośmiu synów i sześćdziesiąt córek."
+"Roboam ukochał Maakę, córkę Absaloma, najbardziej ze wszystkich swoich żon i nałożnic. Pojął bowiem #osiemnaście żon i sześćdziesiąt nałożnic i spłodził dwudziestu ośmiu synów i sześćdziesiąt córek."
 "I Roboam ustanowił na czele Abiasza, syna Maaki, aby był wodzem wśród jego braci. Zamierzał bowiem uczynić go królem."
-"A postępując roztropnie, rozesłał wszystkich pozostałych swoich synów po wszystkich krainach Judy i Beniamina, po wszystkich miastach warownych, i zaopatrzył ich w zapasy żywności. I pragnął wielu żon."
+"A postępując roztropnie, rozesłał wszystkich pozostałych swoich synów po wszystkich krainach Judy i Beniamina, po #wszystkich miastach warownych, i zaopatrzył ich w zapasy żywności. I pragnął wielu żon."

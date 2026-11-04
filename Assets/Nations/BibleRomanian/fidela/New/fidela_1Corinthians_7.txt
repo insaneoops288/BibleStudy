@@ -2,7 +2,7 @@
 "Totuși, ca [să evite] curvia, fiecare bărbat să aibă soția lui, și fiecare femeie să aibă propriul ei soț."
 "Soțul să dea soției bunăvoința datorată; și tot așa și soția, soțului."
 "Soția nu are putere asupra propriului ei trup, ci soțul; și la fel, nici soțul nu are putere asupra propriului său trup, ci soția."
-"Să nu vă privați unul de celălalt, decât doar prin înțelegere pentru un timp, ca să vă dăruiți postului și rugăciunii; și să vă împreunați din nou ca nu cumva să vă ispitească Satan din cauza lipsei voastre de autocontrol."
+"Să nu vă privați unul de celălalt, decât doar prin înțelegere pentru un timp, ca să vă dăruiți postului și rugăciunii; #și să vă împreunați din nou ca nu cumva să vă ispitească Satan din cauza lipsei voastre de autocontrol."
 "Dar spun aceasta prin permisiune, nu prin poruncă."
 "Fiindcă aș dori ca toți oamenii să fie întocmai ca mine. Dar fiecare are propriul lui dar din Dumnezeu, unul într-un fel, și altul altfel."
 "De aceea [le] spun celor necăsătoriți și văduvelor
@@ -31,7 +31,7 @@
 "Și cei ce folosesc această lume, ca și cum nu ar abuza [de ea]; fiindcă înfățișarea acestei lumi trece."
 "Dar aș dori ca voi să fiți fără grijă. Cel necăsătorit se îngrijește de lucrurile care aparțin Domnului, cum să placă Domnului;"
 "Dar cel căsătorit se îngrijește de lucrurile lumii, cum să placă soției."
-"Tot așa între soție și fecioară este diferență. Cea necăsătorită se îngrijește de lucrurile Domnului, ca să fie sfântă deopotrivă în trup și în duh; dar cea căsătorită se îngrijește de lucrurile lumii, cum să placă soțului."
+"Tot așa între soție și fecioară este diferență. Cea necăsătorită se îngrijește de lucrurile Domnului, ca să fie sfântă #deopotrivă în trup și în duh; dar cea căsătorită se îngrijește de lucrurile lumii, cum să placă soțului."
 "Iar aceasta o spun spre folosul vostru; nu ca să arunc un laț asupra voastră, ci pentru ceea ce este frumos și ca să serviți Domnului fără distragere."
 "Dar dacă cineva gândește că se poartă necuvenit față de fecioara lui, dacă trece de floarea vârstei [ei] și nevoia o cere, să facă ce voiește, nu păcătuiește, să se căsătorească."
 "Totuși, cel ce stă neclintit în inima lui, neavând constrângere, și are putere peste propria lui voință și a hotărât astfel în inima lui că își va păstra fecioara, bine face."

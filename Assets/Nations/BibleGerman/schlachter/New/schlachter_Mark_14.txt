@@ -1,6 +1,6 @@
 "Es war aber zwei Tage vor dem Passah und dem Fest der ungesäuerten Brote. Und die Hohenpriester und die Schriftgelehrten suchten, wie sie ihn mit List ergreifen und töten könnten;"
 "denn sie sprachen
-"Und da er zu Bethanien im Hause Simons des Aussätzigen war und zu Tische saß, kam ein Weib mit einer alabasternen Flasche voll Salbe, echter köstlicher Narde, zerbrach die alabasterne Flasche und goß sie aus auf sein Haupt."
+"Und da er zu Bethanien im Hause Simons des Aussätzigen war und zu Tische saß, kam ein Weib mit einer #alabasternen Flasche voll Salbe, echter köstlicher Narde, zerbrach die alabasterne Flasche und goß sie aus auf sein Haupt."
 "Es wurden aber etliche unwillig bei sich selbst und sprachen
 "Man hätte doch diese Salbe um mehr als dreihundert Denare verkaufen und es den Armen geben können. Und sie zürnten ihr."
 "Jesus aber sprach

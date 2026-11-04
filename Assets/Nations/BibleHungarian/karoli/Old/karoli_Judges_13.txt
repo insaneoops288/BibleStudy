@@ -2,7 +2,7 @@
 "És élt [ebben az idõben] egy férfiú Czórából, a Dán nemzetségébõl való, névszerint Manoah, kinek felesége magtalan volt, és nem szült."
 "És megjelent az Úrnak angyala az asszonynak, és monda néki
 "Azért most megójjad magad, és ne igyál se bort, se [más] részegítõ italt, és ne egyél semmi tisztátalant."
-"Mert íme terhes leszesz, és fiat szülsz, és beretva ne érintse annak fejét, mert Istennek szenteltetett lesz [az] a gyermek anyjának méhétõl fogva, és õ kezdi [majd] megszabadítani Izráelt a Filiszteusok kezébõl."
+"Mert íme terhes leszesz, és fiat szülsz, és beretva ne érintse annak fejét, mert Istennek szenteltetett lesz #[az] a gyermek anyjának méhétõl fogva, és õ kezdi [majd] megszabadítani Izráelt a Filiszteusok kezébõl."
 "És elment az asszony, és elbeszélte [ezt] férjének, mondván
 "És monda nékem
 "Manoah pedig az Úrhoz könyörgött, és monda

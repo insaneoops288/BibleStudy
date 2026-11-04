@@ -1,6 +1,6 @@
 "Teć są ciągnienia synów Izraelskich, którzy wyszli z ziemi Egipskiej według hufów swych pod sprawą Mojżesza i Aarona."
 "I spisał Mojżesz wychodzenia ich, i stanowiska ich według rozkazania Pańskiego. A teć są ciągnienia ich, i stanowiska ich
-"Naprzód wyciągnąwszy z Ramesses, miesiąca pierwszego, piętnastego dnia tegoż pierwszego miesiąca, nazajutrz po święcie przejścia, wyszli synowie Izraelscy ręką wyniosłą przed oczyma wszystkich Egipczanów;"
+"Naprzód wyciągnąwszy z Ramesses, miesiąca pierwszego, piętnastego dnia tegoż pierwszego miesiąca, nazajutrz po #święcie przejścia, wyszli synowie Izraelscy ręką wyniosłą przed oczyma wszystkich Egipczanów;"
 "Gdy Egipczanie grzebli one, które był Pan między nimi pomordował, to jest, wszystko pierworodztwo, i gdy nad bogami ich wykonał Pan sądy."
 "Ruszywszy się tedy synowie Izraelscy z Ramesses, położyli się obozem w Suchot."
 "Ruszywszy się z Suchot, położyli się obozem w Etam, które jest przy końcu puszczy."
@@ -51,6 +51,6 @@
 "Mów do synów Izraelskich, a powiedz im
 "Tedy wypędźcie wszystkie obywatele onej ziemi od oblicza waszego, i wytraćcie wszystkie malowania ich, i wszystkie obrazy bałwanów ich wygubcie, także wszystkie wyżyny ich spustoszcie."
 "A wypędziwszy obywatele ziemi, mieszkać będziecie w niej; bom wam dał tę ziemię w dziedzictwo."
-"I weźmiecie w dziedzictwo tę ziemię losem, według domów waszych; których więcej, tym większe dziedzictwo dacie, a których mniej, tym mniejsze dziedzictwo dacie, a które miejsce losem na kogo przypadnie, to mieć będzie; według pokolenia ojców waszych dziedzictwo brać będziecie."
-"Ale jeźliż nie wypędzicie obywateli tej ziemi od oblicza waszego, tedy oni, które pozostawicie z nich, będą wam jako żądła w oczach waszych, i jako ciernie na boki wasze, i będą was trapić w tej ziemi, w której wy mieszkać będziecie."
+"I weźmiecie w dziedzictwo tę ziemię losem, według domów waszych; których więcej, tym większe dziedzictwo dacie, a których mniej, tym mniejsze #dziedzictwo dacie, a które miejsce losem na kogo przypadnie, to mieć będzie; według pokolenia ojców waszych dziedzictwo brać będziecie."
+"Ale jeźliż nie wypędzicie obywateli tej ziemi od oblicza waszego, tedy oni, które pozostawicie z nich, będą wam jako żądła w #oczach waszych, i jako ciernie na boki wasze, i będą was trapić w tej ziemi, w której wy mieszkać będziecie."
 "I stanie się, że com umyślił onym uczynić, wam uczynię."

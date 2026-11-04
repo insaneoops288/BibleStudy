@@ -13,7 +13,7 @@
 "No le tocará mano, mas será apedreado ó asaeteado; sea animal ó sea hombre, no vivirá. En habiendo sonado largamente la bocina, subirán al monte."
 "Y descendió Moisés del monte al pueblo, y santificó al pueblo; y lavaron sus vestidos."
 "Y dijo al pueblo
-"Y aconteció al tercer día cuando vino la mañana, que vinieron truenos y relámpagos, y espesa nube sobre el monte, y sonido de bocina muy fuerte; y estremecióse todo el pueblo que estaba en el real."
+"Y aconteció al tercer día cuando vino la mañana, que vinieron truenos y relámpagos, y espesa nube sobre el #monte, y sonido de bocina muy fuerte; y estremecióse todo el pueblo que estaba en el real."
 "Y Moisés sacó del real al pueblo á recibir á Dios; y pusiéronse á lo bajo del monte."
 "Y todo el monte de Sinaí humeaba, porque Jehová había descendido sobre él en fuego
 "Y el sonido de la bocina iba esforzándose en extremo

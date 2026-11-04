@@ -23,9 +23,9 @@
 "At pagkalulan niya sa isang daong, ay sinundan siya ng kaniyang mga alagad."
 "At narito, bumangon ang isang malakas na bagyo sa dagat, na ano pa't inaapawan ang daong ng mga alon
 "At nagsilapit sila sa kaniya, at siya'y ginising, na sinasabi, Panginoon, iligtas mo kami; kami'y mangamamatay."
-"At sinabi niya sa kanila, Bakit kayo'y nangatatakot, Oh kayong kakaunti ang pananampalataya? Nang magkagayo'y nagbangon siya, at sinaway ang mga hangin at ang dagat; at humusay na totoo ang panahon."
+"At sinabi niya sa kanila, Bakit kayo'y nangatatakot, Oh kayong kakaunti ang pananampalataya? Nang magkagayo'y nagbangon #siya, at sinaway ang mga hangin at ang dagat; at humusay na totoo ang panahon."
 "At ang mga tao ay nangagtaka, na sinasabi, Anong tao ito, na maging ang mga hangin at ang mga dagat ay nagsisitalima sa kaniya?"
-"At nang siya'y makarating sa kabilang ibayo sa lupain ng mga Gadareno, ay sinalubong siya ng dalawang inaalihan ng mga demonio na nagsisilabas sa mga libingan, na totoong mababangis, na ano pa't sinoma'y walang makapagdaan sa daang yaon."
+"At nang siya'y makarating sa kabilang ibayo sa lupain ng mga Gadareno, ay sinalubong siya ng dalawang inaalihan ng mga #demonio na nagsisilabas sa mga libingan, na totoong mababangis, na ano pa't sinoma'y walang makapagdaan sa daang yaon."
 "At narito, sila'y nagsisigaw, na nangagsasabi, Anong aming ipakikialam sa iyo, ikaw na Anak ng Dios? naparito ka baga upang kami'y iyong pahirapan bago dumating ang kapanahunan?"
 "Sa malayo sa kanila ay may isang kawan ng maraming baboy na nagsisipanginain."
 "At namanhik sa kaniya ang mga demonio, na nangagsasabi, Kung kami'y palalayasin mo, ay paparoonin mo kami sa kawan ng mga baboy."

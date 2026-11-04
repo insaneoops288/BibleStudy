@@ -1,4 +1,4 @@
-"Slovo,kteréž se stalo k Jeremiášovi od Hospodina, (když Nabuchodonozor král Babylonský, a všecko vojsko jeho, i všecka království země pod moc jeho přináležející, všickni také národové bojovali proti Jeruzalému a proti všechněm městům jeho), řkoucí
+"Slovo,kteréž se stalo k Jeremiášovi od Hospodina, (když Nabuchodonozor král Babylonský, a všecko vojsko jeho, i všecka království #země pod moc jeho přináležející, všickni také národové bojovali proti Jeruzalému a proti všechněm městům jeho), řkoucí
 "Takto praví Hospodin Bůh Izraelský
 "I ty neznikneš ruky jeho, ale jistotně jat a v ruku jeho vydán budeš, a oči tvé uzří oči krále Babylonského, i ústa jeho s ústy tvými mluviti budou, a do Babylona se dostaneš."
 "A však slyš slovo Hospodinovo, Sedechiáši králi Judský
@@ -7,13 +7,13 @@
 "Když vojsko krále Babylonského bojovalo proti Jeruzalému a proti všechněm městům Judským ostatním, proti Lachis a proti Azeku; nebo ta byla pozůstala z měst Judských města hrazená."
 "Slovo, kteréž se stalo k Jeremiášovi od Hospodina, když učinil král Sedechiáš smlouvu se vším lidem, kterýž byl v Jeruzalémě, o vyhlášení jim svobody,"
 "Aby propustil jeden každý služebníka svého a jeden každý děvku svou, Hebrejského neb Hebrejskou, svobodné, aby nepodroboval sobě v službu Žida, bratra svého, nižádný."
-"Tedy uposlechla všecka knížata a všecken lid, kterýž byl v smlouvu všel, aby propustil jeden každý služebníka svého a jeden každý děvku svou svobodné, aby nepodroboval jich v službu více; uposlechli, pravím, a propustili."
+"Tedy uposlechla všecka knížata a všecken lid, kterýž byl v smlouvu všel, aby propustil jeden každý služebníka svého #a jeden každý děvku svou svobodné, aby nepodroboval jich v službu více; uposlechli, pravím, a propustili."
 "Potom pak rozmyslivše se, zase pobrali služebníky své a děvky své, kteréž byli propustili svobodné, a podrobili je sobě za služebníky a děvky."
 "I stalo se slovo Hospodinovo k Jeremiášovi od Hospodina, řkoucí
 "Takto praví Hospodin Bůh Izraelský
-"Po vyplnění sedmi let propouštívejte jeden každý bratra svého Žida, kterýž by prodán byl tobě, a sloužilť by šest let, propusť, pravím, jej svobodného od sebe. Ale neuposlechli otcové vaši mne, aniž naklonili ucha svého."
-"Vy zajisté usmyslivše sobě dnes, učinili jste to, což jest spravedlivého před očima mýma, že jste vyhlásili svobodu jeden každý bližnímu svému, učinivše smlouvu před oblíčejem mým v domě tom, kterýž nazván jest od jména mého."
-"Ale zase zpáčivše se, zlehčili jste jméno mé, že jste vzali zase jeden každý služebníka svého a jeden každý děvku svou, kteréž jste byli propustili svobodné podlé žádosti jejich, a podrobili jste je, aby byli vaši služebníci a děvky."
+"Po vyplnění sedmi let propouštívejte jeden každý bratra svého Žida, kterýž by prodán byl tobě, a sloužilť by #šest let, propusť, pravím, jej svobodného od sebe. Ale neuposlechli otcové vaši mne, aniž naklonili ucha svého."
+"Vy zajisté usmyslivše sobě dnes, učinili jste to, což jest spravedlivého před očima mýma, že jste vyhlásili svobodu jeden #každý bližnímu svému, učinivše smlouvu před oblíčejem mým v domě tom, kterýž nazván jest od jména mého."
+"Ale zase zpáčivše se, zlehčili jste jméno mé, že jste vzali zase jeden každý služebníka svého a jeden každý děvku #svou, kteréž jste byli propustili svobodné podlé žádosti jejich, a podrobili jste je, aby byli vaši služebníci a děvky."
 "Protož takto praví Hospodin
 "Vydám zajisté ty lidi, jenž přestoupili smlouvu mou, kteříž nevykonali slov smlouvy té, kterouž učinili před oblíčejem mým, když tele rozťali na dvé, a prošli mezi díly jeho,"
 "Totiž knížata Judská a knížata Jeruzalémská, komorníci, a kněží, i všecken lid té země, kteříž prošli mezi díly toho telete."

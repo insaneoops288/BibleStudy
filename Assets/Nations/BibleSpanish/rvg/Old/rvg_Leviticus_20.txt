@@ -22,6 +22,6 @@
 "Guardad, pues, todos mis estatutos y todas mis ordenanzas, y ponedlos por obra; a fin de que no os vomite la tierra, en la cual yo os introduzco para que habitéis en ella."
 "Y no andéis en las prácticas de las naciones que yo echaré de delante de vosotros; porque ellos hicieron todas estas cosas, y los tuve en abominación."
 "Pero a vosotros os he dicho
-"Por tanto, vosotros haréis diferencia entre el animal limpio y el inmundo, y entre el ave inmunda y la limpia; y no contaminéis vuestras personas en los animales, ni en las aves, ni en ninguna cosa que se arrastra sobre la tierra, las cuales os he apartado por inmundas."
+"Por tanto, vosotros haréis diferencia entre el animal limpio y el inmundo, y entre el ave inmunda y la limpia; y no contaminéis vuestras personas #en los animales, ni en las aves, ni en ninguna cosa que se arrastra sobre la tierra, las cuales os he apartado por inmundas."
 "Habéis, pues, de serme santos, porque yo Jehová soy santo, y os he apartado de los pueblos, para que seáis míos."
 "Y el hombre o la mujer en quienes hubiere espíritu de pitonisa o de adivinación, han de ser muertos; los apedrearán con piedras; su sangre será sobre ellos."

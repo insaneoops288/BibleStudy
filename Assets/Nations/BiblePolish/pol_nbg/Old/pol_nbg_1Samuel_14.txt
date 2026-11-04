@@ -24,7 +24,7 @@
 "Jednak mężowie israelscy byli strudzeni tego dnia, zaś Saul zaprzysiągł lud, mówiąc
 "A cały okoliczny lud wszedł do lasu, gdzie na polance był miód."
 "Zatem ludzie weszli do lasu, a oto struga miodu. Jednak nikt nie podniósł ręki do ust, ponieważ lud obawiał się przysięgi."
-"Ale Jonatan nie słyszał, gdy jego ojciec odbierał od ludu przysięgę. Więc sięgnął końcem laski, którą trzymał w ręce, umoczył ją w plastrze miodu oraz podniósł do ust. Wtedy rozjaśniły się jego oczy."
+"Ale Jonatan nie słyszał, gdy jego ojciec odbierał od ludu przysięgę. Więc sięgnął końcem laski, którą trzymał #w ręce, umoczył ją w plastrze miodu oraz podniósł do ust. Wtedy rozjaśniły się jego oczy."
 "Lecz odezwał się jeden z ludu i powiedział
 "A Jonatan powiedział
 "Gdyby lud się dzisiaj posilił z łupu swych nieprzyjaciół, jaki zdobył – o ile bardziej, jakaż wtedy byłaby klęska wśród Pelisztynów?"

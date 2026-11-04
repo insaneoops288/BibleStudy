@@ -18,7 +18,7 @@
 "I żeby rządziły dzień i noc, i czyniły rozdział między światłością, i między ciemnością; i widział Bóg, że to było dobre."
 "I stał się wieczór, i stał się zaranek, dzień czwarty."
 "I rzekł Bóg
-"I stworzył Bóg wieloryby wielkie, i wszelką duszę żywiącą płazającą się, którą hojnie wywiodły wody, według rodzaju ich; i wszelkie ptactwo skrzydlaste, według rodzaju ich; i widział Bóg, że to było dobre."
+"I stworzył Bóg wieloryby wielkie, i wszelką duszę żywiącą płazającą się, którą hojnie wywiodły wody, według rodzaju #ich; i wszelkie ptactwo skrzydlaste, według rodzaju ich; i widział Bóg, że to było dobre."
 "Błogosławił im tedy Bóg, mówiąc
 "I stał się wieczór, i stał się zaranek, dzień piąty."
 "Rzekł też Bóg
@@ -27,5 +27,5 @@
 "Stworzył tedy Bóg człowieka na wyobrażenie swoje; na wyobrażenie Boże stworzył go; mężczyznę i niewiastę stworzył je."
 "I błogosławił im Bóg, i rzekł do nich Bóg
 "I rzekł Bóg
-"I wszelkiemu zwierzowi ziemskiemu, i wszystkiemu ptactwu niebieskiemu, i wszelkiej rzeczy ruszającej się na ziemi, w której jest dusza żywiąca; wszelka jarzyna ziela będzie ku pokarmowi; i stało się tak."
+"I wszelkiemu zwierzowi ziemskiemu, i wszystkiemu ptactwu niebieskiemu, i wszelkiej rzeczy ruszającej się na ziemi, w #której jest dusza żywiąca; wszelka jarzyna ziela będzie ku pokarmowi; i stało się tak."
 "I widział Bóg wszystko, co uczynił, a oto było bardzo dobre; i stał się wieczór, i stał się zaranek, dzień szósty."

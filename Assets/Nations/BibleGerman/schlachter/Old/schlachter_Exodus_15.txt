@@ -23,5 +23,5 @@
 "Da kamen sie nach Mara; aber sie konnten das Wasser von Mara nicht trinken, denn es war sehr bitter. Daher hieß man es Mara."
 "Da murrte das Volk wider Mose und sprach
 "Er aber schrie zum HERRN, und der HERR zeigte ihm ein Holz, das warf er ins Wasser, da ward das Wasser süß. Daselbst legte er ihnen Pflicht und Recht vor, und daselbst versuchte er sie und sprach
-"Wirst du der Stimme des HERRN, deines Gottes, gehorchen und tun, was vor ihm recht ist, und seine Gebote zu Ohren fassen und alle seine Satzungen halten, so will ich der Krankheiten keine auf dich legen, die ich aufÄgypten gelegt habe; denn ich, der HERR, bin dein Arzt!"
+"Wirst du der Stimme des HERRN, deines Gottes, gehorchen und tun, was vor ihm recht ist, und seine Gebote zu Ohren fassen und alle seine #Satzungen halten, so will ich der Krankheiten keine auf dich legen, die ich aufÄgypten gelegt habe; denn ich, der HERR, bin dein Arzt!"
 "Und sie kamen nach Elim, da waren zwölf Wasserbrunnen und siebzig Palmbäume, und sie lagerten sich daselbst am Wasser."

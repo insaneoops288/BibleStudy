@@ -6,7 +6,7 @@
 "Haced esto
 "Y poned fuego en ellos, y poned en ellos sahumerio delante de Jehová mañana; y será que el varón á quien Jehová escogiere, aquel será el santo
 "Dijo más Moisés á Coré
-"¿Os es poco que el Dios de Israel os haya apartado de la congregación de Israel, haciéndoos allegar á sí para que ministraseis en el servicio del tabernáculo de Jehová, y estuvieseis delante de la congregación para ministrarles?"
+"¿Os es poco que el Dios de Israel os haya apartado de la congregación de Israel, haciéndoos allegar á sí #para que ministraseis en el servicio del tabernáculo de Jehová, y estuvieseis delante de la congregación para ministrarles?"
 "¿Y que te hizo acercar á ti, y á todos tus hermanos los hijos de Leví contigo; para que procuréis también el sacerdocio?"
 "Por tanto, tú y todo tu séquito sois los que os juntáis contra Jehová
 "Y envió Moisés á llamar á Dathán y Abiram, hijos de Eliab; mas ellos respondieron
@@ -37,7 +37,7 @@
 "Di á Eleazar, hijo de Aarón sacerdote, que tome los incensarios de en medio del incendio, y derrame más allá el fuego; porque son santificados
 "Los incensarios de estos pecadores contra sus almas
 "Y el sacerdote Eleazar tomó los incensarios de metal con que los quemados habían ofrecido; y extendiéronlos para cubrir el altar,"
-"En recuerdo á los hijos de Israel que ningún extraño que no sea de la simiente de Aarón, llegue á ofrecer sahumerio delante de Jehová, porque no sea como Coré, y como su séquito; según se lo dijo Jehová por mano de Moisés."
+"En recuerdo á los hijos de Israel que ningún extraño que no sea de la simiente de Aarón, llegue á ofrecer sahumerio #delante de Jehová, porque no sea como Coré, y como su séquito; según se lo dijo Jehová por mano de Moisés."
 "El día siguiente toda la congregación de los hijos de Israel murmuró contra Moisés y Aarón, diciendo
 "Y aconteció que, como se juntó la congregación contra Moisés y Aarón, miraron hacia el tabernáculo del testimonio, y he aquí la nube lo había cubierto, y apareció la gloria de Jehová."
 "Y vinieron Moisés y Aarón delante del tabernáculo del testimonio."

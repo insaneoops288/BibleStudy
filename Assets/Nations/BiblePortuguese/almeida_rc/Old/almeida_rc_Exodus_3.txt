@@ -5,7 +5,7 @@
 "E disse
 "Disse mais
 "E disse o SENHOR
-"Portanto, desci para livrá-lo da mão dos egípcios e para fazê-lo subir daquela terra a uma terra boa e larga, a uma terra que mana leite e mel; ao lugar do cananeu, e do heteu, e do amorreu, e do ferezeu, e do heveu, e do jebuseu."
+"Portanto, desci para livrá-lo da mão dos egípcios e para fazê-lo subir daquela terra a uma terra boa e larga, a uma terra que #mana leite e mel; ao lugar do cananeu, e do heteu, e do amorreu, e do ferezeu, e do heveu, e do jebuseu."
 "E agora, eis que o clamor dos filhos de Israel chegou a mim, e também tenho visto a opressão com que os egípcios os oprimem."
 "Vem agora, pois, e eu te enviarei a Faraó, para que tires o meu povo, os filhos de Israel, do Egipto."
 "Então, Moisés disse a Deus
@@ -19,4 +19,4 @@
 "Eu sei, porém, que o rei do Egipto não vos deixará ir, nem ainda por uma mão forte."
 "Porque eu estenderei a minha mão e ferirei ao Egipto com todas as minhas maravilhas que farei no meio dele; depois, vos deixará ir."
 "E eu darei graça a esse povo aos olhos dos egípcios; e acontecerá que, quando sairdes, não saireis vazios,"
-"porque cada mulher pedirá à sua vizinha e à sua hóspede vasos {ou jóias} de prata, e vasos {ou jóias} de ouro, e vestes, os quais poreis sobre vossos filhos e sobre vossas filhas; e despojareis ao Egipto."
+"porque cada mulher pedirá à sua vizinha e à sua hóspede vasos {ou jóias} de prata, e vasos {ou jóias} #de ouro, e vestes, os quais poreis sobre vossos filhos e sobre vossas filhas; e despojareis ao Egipto."

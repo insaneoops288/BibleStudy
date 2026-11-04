@@ -11,7 +11,7 @@
 "Ja hänen pitää ehtoona itsensä vedellä pesemän, ja sittekuin aurinko laskenut on, palatkaan leiriin."
 "Ulkona leiristä olkoon sinulla paikka, johonkas menet tarpeilles."
 "Ja sinulla pitää oleman vähä kalikka vyölläs, ja kuin menet tarpeilles, kaiva sillä, ja istuttuas, peitä saastaisuutes."
-"Sillä Herra sinun Jumalas vaeltaa sinun leiris lävitse pelastamaan sinua ja antamaan sinun vihollises sinun etees, sentähden pitää sinun leiris pyhä oleman, ettei häpiää näkyisi sinun seassas ja hän kääntäis itsensä sinusta pois."
+"Sillä Herra sinun Jumalas vaeltaa sinun leiris lävitse pelastamaan sinua ja antamaan sinun vihollises sinun etees, sentähden #pitää sinun leiris pyhä oleman, ettei häpiää näkyisi sinun seassas ja hän kääntäis itsensä sinusta pois."
 "Älä isännän haltuun anna orjaa, joka häneltä sinun tykös karannut on."
 "Hän olkaan sinun tykönäs, sinun keskelläs siinä paikassa, joka hänelle kelpaa, jossakussa sinun portissas, itsellensä hyväksi, älä sorra häntä."
 "Ei pidä yhtäkään porttoa oleman Israelin lasten tytärten seassa, eikä yhtään huorintekiää Israelin poikain seassa."

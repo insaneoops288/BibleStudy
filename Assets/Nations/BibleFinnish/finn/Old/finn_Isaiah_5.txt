@@ -1,5 +1,5 @@
 "Minä veisaan ystävästä, ystäväni veisun hänen viinamäestänsä. Ystävälläni on viinamäki lihavassa paikassa."
-"Ja hän aitasi sen ympärinsä, ja perkasi kivet pois, ja istutti parhaat viinapuut, ja rakensi myös siihen tornin, ja pani sinne viinakuurnan, ja odotti sen viinamarjoja kantavan; vaan se kantoi pahoja marjoja."
+"Ja hän aitasi sen ympärinsä, ja perkasi kivet pois, ja istutti parhaat viinapuut, ja rakensi myös siihen #tornin, ja pani sinne viinakuurnan, ja odotti sen viinamarjoja kantavan; vaan se kantoi pahoja marjoja."
 "Te Jerusalemin asujat ja Juudan miehet, tuomitkaat siis nyt minun ja viinamäkeni välillä."
 "Mitä olis enempi viinamäelleni tekemistä, jota en minä hänessä tehnyt ole? Miksi hän kantoi pahoja marjoja, kuin minä odotin hänen viinamarjoja kantavan?"
 "Ja nyt minä tahdon teille ilmoittaa, mitä minä tahdon viinamäelleni tehdä
@@ -11,7 +11,7 @@
 "Voi niitä, jotka varhain huomeneltain ylhäällä ovat, juopumusta noutelemaan, ja istuvat hamaan yöhön asti, että he viinasta palavaksi tulisivat!"
 "Joilla ovat kanteleet, harput, rummut, huilut, ja viinaa heidän pidoissansa; ja ei katso Herran tekoa, eikä tottele hänen käsialaansa."
 "Sentähden pitää minun kansani vietämän vankeuteen, ettei heillä ole ymmärrystä; ja hänen kunniallistensa täytyy nälkää kärsiä, ja heidän yhteinen kansansa kuivua janoon."
-"Sitä varten on helvetti sielunsa lavialta avannut, ja hänen kitansa on ammollansa ilman määrää, mennä sinne alas sekä heidän kunniallisensa että yhteisen kansansa, sekä heidän rikkaansa että riemullisensa;"
+"Sitä varten on helvetti sielunsa lavialta avannut, ja hänen kitansa on ammollansa ilman määrää, mennä #sinne alas sekä heidän kunniallisensa että yhteisen kansansa, sekä heidän rikkaansa että riemullisensa;"
 "Että jokainen itsensä notkistais ja kukin nöyryytettäisiin; ja koreiden silmät myös nöyryytetyksi tulisivat."
 "Mutta Herra Zebaot pitää tuomiossa ylistettämän, ja pyhä Jumala pitää vanhurskaudessa pyhitettävän."
 "Silloin pitää lampaat tavallansa kaittaman, ja muukalaiset pitää itsensä elättämän lihavain aukiudessa."
@@ -22,7 +22,7 @@
 "Voi niitä, jotka jalot ovat viinaa juomaan, ja juomassa kilvoittelevat!"
 "Jotka jumalattoman lahjain tähden vanhurskauttavat, ja kääntävät vanhurskasten oikeuden pois heiltä
 "Sentähden niinkuin tulen hehku korren kuluttaa, ja liekki sivaltaa akanat pois
-"Sentähden Herran viha julmistuu kansansa päälle, ja hän ojentaa kätensä heidän päällensä, ja lyö heitä, niin että vuoret vapisevat ja heidän ruumiinsa on niinkuin loka kadulla. Ja kaikissa näissä ei hänen vihansa lakkaa, vaan hänen kätensä on vielä ojennettu."
+"Sentähden Herran viha julmistuu kansansa päälle, ja hän ojentaa kätensä heidän päällensä, ja lyö heitä, niin että vuoret vapisevat ja #heidän ruumiinsa on niinkuin loka kadulla. Ja kaikissa näissä ei hänen vihansa lakkaa, vaan hänen kätensä on vielä ojennettu."
 "Sillä hän nostaa lipun ylös kaukana pakanain seassa, ja viheltää niille maan ääristä
 "Ei ole kenkään heistä väsynyt eli heikko, eikä kenkään torku eli makaa; ei myös päästä kenkään vyötä lanteestansa, eikä kenenkään kengänrihmoja rikota."
 "Sillä heidän nuolensa ovat terävät, ja kaikki heidän joutsensa jännitetyt; heidän orittensa kaviot ovat niinkuin limsiä, ja heidän ratastensa pyörät niinkuin tuulispää."

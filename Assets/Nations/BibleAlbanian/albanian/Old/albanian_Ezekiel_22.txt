@@ -1,7 +1,7 @@
 "Fjala e Zotit m'u drejtua, duke thënë
 """Tani, bir njeriu, nuk do të gjykosh ti, nuk do ta gjykosh qytetin gjakatar? Bëji, pra, të njohura të gjitha veprimet e tij të neveritshme."
 "Pastaj thuaj
-"Për gjakun që ke derdhur je bërë fajtor dhe je ndotur për idhujt që ke sajuar. Ke afruar ditët e tua dhe ke arritur në fund të viteve të tua; prandaj do të të bëj turpin e kombeve dhe objekt talljeje për të gjitha vendet."
+"Për gjakun që ke derdhur je bërë fajtor dhe je ndotur për idhujt që ke sajuar. Ke afruar ditët e tua dhe ke #arritur në fund të viteve të tua; prandaj do të të bëj turpin e kombeve dhe objekt talljeje për të gjitha vendet."
 "Ata që janë afër dhe ata që janë larg teje do të tallen me ty o i molepsur për lavdi dhe plot çrregullim."
 "Ja princat e Izraelit
 "Te ti përçmohet ati dhe nëna, në mes teje shtypet i huaji, te ti keqtrajtohet jetimi dhe e veja."
@@ -17,13 +17,13 @@
 "Fjala e Zotit m'u drejtua, duke thënë
 """Bir njeriu, shtëpia e Izraelit është bërë për mua tërë skorje
 "Prandaj kështu thotë Zoti, Zoti
-"Ashtu si mblidhet argjëndi, bronzi, hekuri, plumbi dhe kallaji në mes të furrës dhe mbi ta i fryjnë zjarrit për t'i shkrirë, kështu në zemërimin tim dhe në tërbimin tim do t'ju mbledh, do t'ju fus atje dhe do t'ju shkrij."
+"Ashtu si mblidhet argjëndi, bronzi, hekuri, plumbi dhe kallaji në mes të furrës dhe mbi ta i fryjnë zjarrit për t'i #shkrirë, kështu në zemërimin tim dhe në tërbimin tim do t'ju mbledh, do t'ju fus atje dhe do t'ju shkrij."
 "Do t'ju mbledh dhe do të fryj mbi ju me zjarrin e zemërimit tim dhe ju do të shkriheni në mes të tij."
 "Ashtu si shkrihet argjendi në mes të furrës, kështu dhe ju do të shkriheni në mes të qytetit; dhe do të pranoni që unë, Zoti, kam derdhur mbi ju tërbimin tim""."
 "Fjala e Zotit m'u drejtua përsëri, duke thënë
 """Bir njeriu, i thuaj Jeruzalemit
 "Komploti i profetëve të tij në mes të tij është si një luan që ulërin dhe shqyen gjahun, ata i gllabërojnë njerëzit, përvetësojnë thesaret dhe gjërat e çmueshme, shtojnë të vejat në mes të tij."
-"Priftërinjtë e tij shkelin ligjin tim dhe përdhosin gjërat e mia të shenjta, nuk bëjnë dallim midis asaj që është e shenjtë dhe jo e shenjtë, nuk e bëjnë të njohur ndryshimin ndërmjet të papastrës dhe të pastrës dhe i largojnë sytë nga të shtunat e mia, prandaj jam përdhosur në mes tyre."
+"Priftërinjtë e tij shkelin ligjin tim dhe përdhosin gjërat e mia të shenjta, nuk bëjnë dallim midis asaj që është e shenjtë dhe jo e shenjtë, nuk #e bëjnë të njohur ndryshimin ndërmjet të papastrës dhe të pastrës dhe i largojnë sytë nga të shtunat e mia, prandaj jam përdhosur në mes tyre."
 "Krerët e tij në mes të tij janë si ujqër që shqyejnë gjahun për të derdhur gjak, për të shkatërruar shpirtëra, për të realizuar një fitim jo të drejtë."
 "Profetët e tij suvatojnë për ata me llaç që nuk mban, duke pasur vegime të rreme dhe duke shqiptuar shortari të gënjeshtërta për ta, dhe thonë
 "Populli i vendit ushtron shtypjen, kryen grabitje, keqtrajton të varfërin dhe nevojtarin, shtyp të huajin duke marrë nëpër këmbë drejtësinë."

@@ -5,12 +5,12 @@
 "Fünfundzwanzig Jahre war Jojakim alt, als er König wurde, und er regierte elf Jahre zu Jerusalem. Und er tat, was böse war in den Augen Jehovas, seines Gottes."
 "Wider ihn zog Nebukadnezar, der König von Babel, herauf; und er band ihn mit ehernen Fesseln, um ihn nach Babel zu führen."
 "Auch von den Geräten des Hauses Jehovas brachte Nebukadnezar nach Babel und legte sie in seinen Tempel zu Babel."
-"Und dasÜbrige der Geschichte Jojakims, und seine Greuel, die er verübt hat, und was an ihm gefunden wurde, siehe, das ist geschrieben in dem Buche der Könige von Israel und Juda. Und Jojakin, sein Sohn, ward König an seiner Statt."
+"Und dasÜbrige der Geschichte Jojakims, und seine Greuel, die er verübt hat, und was an ihm gefunden wurde, siehe, das ist #geschrieben in dem Buche der Könige von Israel und Juda. Und Jojakin, sein Sohn, ward König an seiner Statt."
 "Achtzehn Jahre war Jojakin alt, als er König wurde, und er regierte drei Monate und zehn Tage zu Jerusalem. Und er tat, was böse war in den Augen Jehovas."
-"Und beim Umlauf des Jahres sandte der König Nebukadnezar hin und ließ ihn nach Babel bringen samt den kostbaren Geräten des Hauses Jehovas; und er machte seinen Bruder Zedekia zum Königüber Juda und Jerusalem."
+"Und beim Umlauf des Jahres sandte der König Nebukadnezar hin und ließ ihn nach Babel bringen samt den #kostbaren Geräten des Hauses Jehovas; und er machte seinen Bruder Zedekia zum Königüber Juda und Jerusalem."
 "Einundzwanzig Jahre war Zedekia alt, als er König wurde, und er regierte elf Jahre zu Jerusalem."
 "Und er tat, was böse war in den Augen Jehovas, seines Gottes. Er demütigte sich nicht vor dem Propheten Jeremia, als er nach dem Befehle Jehovas redete."
-"Und auch empörte er sich gegen den König Nebukadnezar, der ihn bei Gott hatte schwören lassen. Und er verhärtete seinen Nacken und verstockte sein Herz, so daß er nicht umkehrte zu Jehova, dem Gott Israels."
+"Und auch empörte er sich gegen den König Nebukadnezar, der ihn bei Gott hatte schwören lassen. Und er #verhärtete seinen Nacken und verstockte sein Herz, so daß er nicht umkehrte zu Jehova, dem Gott Israels."
 "Auch alle Obersten der Priester und das Volk häuften die Treulosigkeiten, nach allen Greueln der Nationen, und verunreinigten das Haus Jehovas, das er in Jerusalem geheiligt hatte."
 "Und Jehova, der Gott ihrer Väter, sandte zu ihnen durch seine Boten, früh sich aufmachend und sendend; denn er erbarmte sich seines Volkes und seiner Wohnung."
 "Aber sie verspotteten die Boten Gottes und verachteten seine Worte undäfften seine Propheten, bis der Grimm Jehovas gegen sein Volk stieg, daß keine Heilung mehr war."
@@ -19,5 +19,5 @@
 "Und sie verbrannten das Haus Gottes und rissen die Mauer von Jerusalem nieder; und alle seine Paläste verbrannten sie mit Feuer, und alle seine kostbaren Geräte verderbten sie."
 "Und die vom SchwerteÜbriggebliebenen führte er nach Babel hinweg; und sie wurden ihm und seinen Söhnen zu Knechten, bis das Königreich der Perser zur Herrschaft kam;"
 "damit erfüllt würde das Wort Jehovas durch den Mund Jeremias, bis das Land seine Sabbathe genossen hätte. Alle die Tage seiner Verwüstung hatte es Ruhe, bis siebzig Jahre voll waren."
-"Und im ersten Jahre Kores', des Königs von Persien damit das Wort Jehovas durch den Mund Jeremias erfüllt würde erweckte Jehova den Geist Kores', des Königs von Persien; und er ließ einen Ruf ergehen durch sein ganzes Königreich, und zwar auch schriftlich, indem er sprach
+"Und im ersten Jahre Kores', des Königs von Persien damit das Wort Jehovas durch den Mund Jeremias erfüllt würde erweckte Jehova den Geist #Kores', des Königs von Persien; und er ließ einen Ruf ergehen durch sein ganzes Königreich, und zwar auch schriftlich, indem er sprach
 "So spricht Kores, der König von Persien

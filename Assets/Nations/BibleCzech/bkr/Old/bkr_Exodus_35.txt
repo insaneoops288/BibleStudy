@@ -26,10 +26,10 @@
 "Všecky pak ženy, kterýchž ponuklo srdce jejich, aby předly uměle, předly srsti kozí."
 "Knížata pak přinášeli kamení onychinové, a jiné kamení k vsazování do náramenníku a náprsníku,"
 "Též vonné věci a olej k svícení, a k oleji pomazání, a k vonnému kadidlu."
-"Každý muž i žena, v nichž ochotné srdce jejich bylo k tomu, aby přinášeli potřeby ke všelikému dílu, kteréž byl přikázal dělati Hospodin skrze Mojžíše, přinášeli synové Izraelští obět dobrovolnou Hospodinu."
+"Každý muž i žena, v nichž ochotné srdce jejich bylo k tomu, aby přinášeli potřeby ke #všelikému dílu, kteréž byl přikázal dělati Hospodin skrze Mojžíše, přinášeli synové Izraelští obět dobrovolnou Hospodinu."
 "Tedy řekl Mojžíš synům Izraelským
 "A naplnil ho duchem Božím, moudrostí, rozumností i uměním všelijakého řemesla,"
 "Aby vtipně smysliti uměl, jak by se co dělati mělo na zlatu a stříbru a mědi,"
 "I v řemeslném strojení kamenů k vsazování, i v díle od dřeva, aby dělal všelijakým řemeslem vtipným."
 "Dal nadto v srdce jeho i to, aby učiti mohl on i Aholiab, syn Achisamechův z pokolení Dan."
-"Naplnil je moudrostí srdce, aby dělali všelijaké dílo tesařské a řemeslné, i krumpéřské a vytkávané z postavce modrého a šarlatu, a červce dvakrát barveného, a bílého hedbáví, a aby dělali všelijaké dílo a vymýšleli vtipné věci."
+"Naplnil je moudrostí srdce, aby dělali všelijaké dílo tesařské a řemeslné, i krumpéřské a vytkávané z postavce modrého a #šarlatu, a červce dvakrát barveného, a bílého hedbáví, a aby dělali všelijaké dílo a vymýšleli vtipné věci."

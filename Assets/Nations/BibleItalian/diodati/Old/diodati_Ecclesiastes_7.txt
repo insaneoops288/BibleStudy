@@ -22,7 +22,7 @@
 "Perciocchè il tuo cuore sa che tu ancora ne hai maledetti altri, eziandio più volte."
 "Io ho provate tutte queste cose per sapienza; onde ho detto
 "Chi troverà una cosa che è cotanto lontana, ed è profondissima?"
-"Io mi sono aggirato con l’anima mia, per conoscere, per investigare, e per ricercar sapienza, e come si deve ben giudicar delle cose; e per conoscere l’empietà della stoltizia, e la follia delle pazzie;"
+"Io mi sono aggirato con l’anima mia, per conoscere, per investigare, e per ricercar sapienza, e come si #deve ben giudicar delle cose; e per conoscere l’empietà della stoltizia, e la follia delle pazzie;"
 "ed ho trovata una cosa più amara che la morte, cioè
 "Vedi, io ho trovato questo, dice il Predicatore, cercando ogni cosa ad una ad una, per trovare come si deve ben giudicar delle cose;"
 "il che ancora cerca l’anima mia, e non l’ho trovato ben ho trovato un uomo fra mille; ma fra altrettante donne, non ne ho trovata neppur una."

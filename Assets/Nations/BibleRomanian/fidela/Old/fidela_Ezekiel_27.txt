@@ -8,7 +8,7 @@
 "Locuitorii Sidonului și ai Arvadului erau marinarii tăi; înțelepții tăi[,] Tirule, [care] erau în tine, erau cârmacii tăi."
 "Bătrânii Ghebalului și [bărbații ]lui înțelepți erau în tine reparându-ți [spărturile ]tale; toate corăbiile mării cu marinarii lor erau în tine pentru a face schimb cu marfa ta."
 "Cei din Persia și din Lud și din Put erau în armata ta, bărbații tăi de război; ei își atârnau scutul și coiful în tine; ei îți dădeau frumusețea."
-"Bărbații Arvadului cu armata ta [erau] pe zidurile tale de jur împrejur și gamadimii erau în turnurile tale; ei își atârnau scuturile pe zidurile tale de jur împrejur; ei îți desăvârșeau frumusețea."
+"Bărbații Arvadului cu armata ta [erau] pe zidurile tale de jur împrejur și gamadimii erau în turnurile #tale; ei își atârnau scuturile pe zidurile tale de jur împrejur; ei îți desăvârșeau frumusețea."
 "Tarsisul [era] comerciantul tău din cauza mulțimii tuturor [felurilor de ]bogății; ei au făcut comerț în târgurile tale cu argint, fier, cositor și plumb."
 "Iavanul, Tubalul și Meșecul, ei [erau] comercianții tăi
 "Cei din casa Togarmei făceau comerț în târgurile tale cu cai și călăreți și catâri."
@@ -24,7 +24,7 @@
 "Aceștia [erau ]comercianți cu toate felurile [de lucruri], cu veșminte albastre și lucrare brodată și cu lăzi cu haine bogate, legate cu funii și făcute din cedru, printre mărfurile tale."
 "Corăbiile Tarsisului cântau despre tine în piața ta; și erai umplut și ai ajuns foarte glorios în mijlocul mărilor."
 "Vâslașii tăi te-au adus în ape mari; vântul de est te-a frânt în mijlocul mărilor."
-"Bogățiile tale și târgurile tale, mărfurile tale, marinarii tăi și cârmacii tăi, reparatorii [spărturilor] tale și cei care făceau schimb cu mărfurile tale și toți bărbații tăi de război, care [sunt] în tine și în toată ceata ta, din mijlocul tău, vor cădea în mijlocul mărilor în ziua ruinării tale."
+"Bogățiile tale și târgurile tale, mărfurile tale, marinarii tăi și cârmacii tăi, reparatorii [spărturilor] tale și cei care făceau schimb cu mărfurile tale și toți bărbații #tăi de război, care [sunt] în tine și în toată ceata ta, din mijlocul tău, vor cădea în mijlocul mărilor în ziua ruinării tale."
 "Împrejurimile se vor zgudui la sunetul strigătului cârmacilor tăi."
 "Și toți cei ce mânuiesc vâsla, marinarii [și ]toți cârmacii mării vor coborî din corăbiile lor [și] vor sta în picioare pe uscat;"
 "Și vor face ca vocea lor să fie auzită împotriva ta și vor striga cu amărăciune și își vor arunca țărână pe capete, se vor tăvăli în cenușă;"

@@ -10,7 +10,7 @@
 "Syn Cheseda – w Arubot, do niego należało Soko i cała ziemia Chefer;"
 "Syn Abinadaba – nad całym obszarem Dor; jego żoną była Tafat, córka Salomona."
 "Baana, syn Achiluda, do którego należały Tanak i Megiddo oraz całe Bet-Szean, które leży przy Sartan pod Jizreelem, od Bet-Szean aż do Abel-Mechola, aż poza Jokmeam."
-"Syn Geber – w Ramot-Gilead, do niego należały wsie Jaira, syna Manassesa, które leżą w Gileadzie. Do niego też należała kraina Argob, która jest w Baszanie – sześćdziesiąt wielkich miast mających mury i brązowe rygle."
+"Syn Geber – w Ramot-Gilead, do niego należały wsie Jaira, syna Manassesa, które leżą w Gileadzie. Do niego #też należała kraina Argob, która jest w Baszanie – sześćdziesiąt wielkich miast mających mury i brązowe rygle."
 "Achinadab, syn Iddo – w Machanaim."
 "Achimaas – w Neftalim; on też pojął za żonę Basemat, córkę Salomona."
 "Baana, syn Chuszaia – w Aszer i Alot."

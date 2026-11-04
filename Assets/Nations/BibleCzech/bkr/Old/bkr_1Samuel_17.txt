@@ -43,13 +43,13 @@
 "I řekl Filistinský Davidovi
 "Řekl také Filistinský Davidovi
 "Odpověděl David Filistinskému
-"Dnešního dne zavře tě Hospodin v ruku mou, a zabiji tě, a setnu hlavu tvou s tebe, a vydám těla vojska Filistinského dnes ptákům nebeským a šelmám zemským, a pozná všecka země, žeť jest Bůh v Izraeli."
+"Dnešního dne zavře tě Hospodin v ruku mou, a zabiji tě, a setnu hlavu tvou s tebe, a vydám #těla vojska Filistinského dnes ptákům nebeským a šelmám zemským, a pozná všecka země, žeť jest Bůh v Izraeli."
 "A zvíť všecko shromáždění toto, že ne mečem ani kopím vysvobozuje Hospodin; (nebo Hospodinův jest boj), protož vydáť vás v ruce naše."
 "Stalo se pak, že když vstal ten Filistinský, a šel, přibližuje se proti Davidovi, pospíšil i David a běžel proti Filistinskému, aby se s ním potýkal."
 "V tom David vztáh ruku svou k mošničce, vyňal z ní kámen, kterýmž hodil z praku, a udeřil Filistinského v čelo jeho tak, že kámen uvázl v čele jeho. I padl tváří svou na zem."
 "A tak přemohl David Filistinského prakem a kamenem, a udeřiv Filistinského, zabil jej, ačkoli David žádného meče v ruce neměl."
 "A přiběh David, stál nad Filistinským. Potom pochytiv meč jeho, dobyl ho z pošvy a zabil jej, a sťal jím hlavu jeho. To vidouce Filistinští, že umřel nejsilnější jejich, utíkali."
-"A protož vstavše muži Izraelští a Judští, zkřikli a honili Filistinské, až kde se vchází do údolí, a až k branám Akaron. I padali, raněni jsouce, Filistinští po cestě k Saraim, až do Gát a až do Akaron."
+"A protož vstavše muži Izraelští a Judští, zkřikli a honili Filistinské, až kde se vchází do údolí, a až k #branám Akaron. I padali, raněni jsouce, Filistinští po cestě k Saraim, až do Gát a až do Akaron."
 "A navrátivše se synové Izraelští od honění Filistinských, vzebrali tábor jejich."
 "Potom David vzav hlavu toho Filistinského, přinesl ji do Jeruzaléma, a odění jeho složil v stanu svém."
 "Tehdáž pak, když viděl Saul Davida jdoucího proti tomu Filistinskému, řekl Abnerovi hejtmanu vojska

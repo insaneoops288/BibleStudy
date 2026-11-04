@@ -1,6 +1,6 @@
 "Hari raya Paskah dan hari raya Roti Tidak Beragi akan mulai dua hari lagi. Imam-imam kepala dan ahli-ahli Taurat mencari jalan untuk menangkap dan membunuh Yesus dengan tipu muslihat,"
 "sebab mereka berkata
-"Ketika Yesus berada di Betania, di rumah Simon si kusta, dan sedang duduk makan, datanglah seorang perempuan membawa suatu buli-buli pualam berisi minyak narwastu murni yang mahal harganya. Setelah dipecahkannya leher buli-buli itu, dicurahkannya minyak itu ke atas kepala Yesus."
+"Ketika Yesus berada di Betania, di rumah Simon si kusta, dan sedang duduk makan, datanglah seorang perempuan membawa suatu buli-buli pualam #berisi minyak narwastu murni yang mahal harganya. Setelah dipecahkannya leher buli-buli itu, dicurahkannya minyak itu ke atas kepala Yesus."
 "Ada orang yang menjadi gusar dan berkata seorang kepada yang lain
 "Sebab minyak ini dapat dijual tiga ratus dinar lebih dan uangnya dapat diberikan kepada orang-orang miskin."" Lalu mereka memarahi perempuan itu."
 "Tetapi Yesus berkata
@@ -18,7 +18,7 @@
 "Ketika mereka duduk di situ dan sedang makan, Yesus berkata
 "Maka sedihlah hati mereka dan seorang demi seorang berkata kepada-Nya
 "Ia menjawab
-"Anak Manusia memang akan pergi sesuai dengan yang ada tertulis tentang Dia, akan tetapi celakalah orang yang olehnya Anak Manusia itu diserahkan. Adalah lebih baik bagi orang itu sekiranya ia tidak dilahirkan."""
+"Anak Manusia memang akan pergi sesuai dengan yang ada tertulis tentang Dia, akan tetapi celakalah orang yang #olehnya Anak Manusia itu diserahkan. Adalah lebih baik bagi orang itu sekiranya ia tidak dilahirkan."""
 "Dan ketika Yesus dan murid-murid-Nya sedang makan, Yesus mengambil roti, mengucap berkat, memecah-mecahkannya lalu memberikannya kepada mereka dan berkata
 "Sesudah itu Ia mengambil cawan, mengucap syukur lalu memberikannya kepada mereka, dan mereka semuanya minum dari cawan itu."
 "Dan Ia berkata kepada mereka
@@ -40,7 +40,7 @@
 "Dan ketika Ia kembali pula, Ia mendapati mereka sedang tidur, sebab mata mereka sudah berat dan mereka tidak tahu jawab apa yang harus mereka berikan kepada-Nya."
 "Kemudian Ia kembali untuk ketiga kalinya dan berkata kepada mereka
 "Bangunlah, marilah kita pergi. Dia yang menyerahkan Aku sudah dekat."""
-"Waktu Yesus masih berbicara, muncullah Yudas, salah seorang dari kedua belas murid itu, dan bersama-sama dia serombongan orang yang membawa pedang dan pentung, disuruh oleh imam-imam kepala, ahli-ahli Taurat dan tua-tua."
+"Waktu Yesus masih berbicara, muncullah Yudas, salah seorang dari kedua belas murid itu, dan bersama-sama dia #serombongan orang yang membawa pedang dan pentung, disuruh oleh imam-imam kepala, ahli-ahli Taurat dan tua-tua."
 "Orang yang menyerahkan Dia telah memberitahukan tanda ini kepada mereka
 "Dan ketika ia sampai di situ ia segera maju mendapatkan Yesus dan berkata
 "Maka mereka memegang Yesus dan menangkap-Nya."

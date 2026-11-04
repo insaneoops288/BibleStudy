@@ -11,7 +11,7 @@
 "E este termo descerá desde Sefã até Ribla, para a banda do oriente de Aim; depois, descerá este termo e irá ao longo da borda do mar de Quinerete para a banda do oriente."
 "Descerá também este termo ao longo do Jordão, e as suas saídas serão no mar Salgado; esta vos será a terra, segundo os seus termos em roda."
 "E Moisés deu ordem aos filhos de Israel, dizendo
-"Porque a tribo dos filhos dos rubenitas, segundo a casa de seus pais, e a tribo dos filhos dos gaditas, segundo a casa de seus pais, já receberam; também a meia tribo de Manassés recebeu a sua herança."
+"Porque a tribo dos filhos dos rubenitas, segundo a casa de seus pais, e a tribo dos filhos dos gaditas, #segundo a casa de seus pais, já receberam; também a meia tribo de Manassés recebeu a sua herança."
 "Já duas tribos e meia tribo receberam a sua herança daquém do Jordão, de Jericó, da banda do oriente, ao nascente."
 "Falou mais o SENHOR a Moisés, dizendo
 "Estes são os nomes dos homens que vos repartirão a terra por herança

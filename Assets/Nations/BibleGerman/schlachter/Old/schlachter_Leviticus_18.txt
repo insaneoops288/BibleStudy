@@ -1,6 +1,6 @@
 "Und der HERR redete zu Mose und sprach
 "Ich, der HERR, bin euer Gott!"
-"Ihr sollt nicht tun, wie man im LandeÄgypten tut, wo ihr gewohnt habt, und sollt auch nicht tun, wie man in Kanaan tut, dahin ich euch führen will, und ihr sollt nicht nach ihren Satzungen wandeln;"
+"Ihr sollt nicht tun, wie man im LandeÄgypten tut, wo ihr gewohnt habt, und sollt auch nicht tun, wie #man in Kanaan tut, dahin ich euch führen will, und ihr sollt nicht nach ihren Satzungen wandeln;"
 "sondern meine Rechte sollt ihr halten und meine Satzungen beobachten, daß ihr darin wandelt; denn ich bin der HERR, euer Gott."
 "Und zwar sollt ihr meine Satzungen und meine Rechte beobachten, weil der Mensch, der sie tut, dadurch leben wird. Ich bin der HERR!"
 "Niemand soll sich seiner Blutsverwandten nahen, ihre Scham zu entblößen; ich bin der HERR!"
@@ -14,7 +14,7 @@
 "Du sollst die Scham des Bruders deines Vaters nicht entblößen, du sollst nicht zu seinem Weibe gehen; denn sie ist deine Base."
 "Du sollst die Scham deiner Sohnsfrau nicht entblößen; denn sie ist deines Sohnes Weib, darum sollst du ihre Scham nicht entblößen."
 "Du sollst die Scham des Weibes deines Bruders nicht entblößen, denn es ist deines Bruders Scham."
-"Du sollst nicht zugleich die Scham eines Weibes und ihrer Tochter entblößen, noch ihres Sohnes Tochter oder ihrer Tochter Tochter nehmen, ihre Scham zu entblößen; denn sie ist ihre nächste Blutsverwandte; es wäre eine Schandtat."
+"Du sollst nicht zugleich die Scham eines Weibes und ihrer Tochter entblößen, noch ihres Sohnes Tochter oder ihrer #Tochter Tochter nehmen, ihre Scham zu entblößen; denn sie ist ihre nächste Blutsverwandte; es wäre eine Schandtat."
 "Du sollst auch nicht ein Weib zu ihrer Schwester hinzunehmen, wodurch Eifersucht erregt würde, wenn du ihre Scham entblößtest, während jene noch lebt."
 "Du sollst nicht zum Weibe gehen während ihrer monatlichen Unreinigkeit, ihre Scham zu entblößen."
 "Auch sollst du deines Nächsten Weib keinen Beischlaf gewähren, sie zu besamen, daß du dich mit ihr verunreinigest."

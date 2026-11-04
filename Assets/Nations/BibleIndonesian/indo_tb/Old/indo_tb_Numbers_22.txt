@@ -8,7 +8,7 @@
 "Lalu berkatalah Bileam kepada mereka
 "Kemudian datanglah Allah kepada Bileam serta berfirman
 "Dan berkatalah Bileam kepada Allah
-"Ketahuilah, ada bangsa yang keluar dari Mesir, dan permukaan bumi tertutup olehnya; karena itu, datanglah, serapahlah mereka bagiku, mungkin aku akan sanggup berperang melawan mereka dan menghalau mereka."""
+"Ketahuilah, ada bangsa yang keluar dari Mesir, dan permukaan bumi tertutup olehnya; karena itu, datanglah, #serapahlah mereka bagiku, mungkin aku akan sanggup berperang melawan mereka dan menghalau mereka."""
 "Lalu berfirmanlah Allah kepada Bileam
 "Bangunlah Bileam pada waktu pagi, lalu berkata kepada pemuka-pemuka Balak
 "Lalu berangkatlah pemuka-pemuka Moab itu dan setelah mereka sampai kepada Balak, berkatalah mereka
@@ -19,8 +19,8 @@
 "Oleh sebab itu, baiklah kamupun tinggal di sini pada malam ini, supaya aku tahu, apakah pula yang akan difirmankan TUHAN kepadaku."""
 "Datanglah Allah kepada Bileam pada waktu malam serta berfirman kepadanya
 "Lalu bangunlah Bileam pada waktu pagi, dipelanainyalah keledainya yang betina, dan pergi bersama-sama dengan pemuka-pemuka Moab."
-"Tetapi bangkitlah murka Allah ketika ia pergi, dan berdirilah Malaikat TUHAN di jalan sebagai lawannya. Bileam mengendarai keledainya yang betina dan dua orang bujangnya ada bersama-sama dengan dia."
-"Ketika keledai itu melihat Malaikat TUHAN berdiri di jalan, dengan pedang terhunus di tangan-Nya, menyimpanglah keledai itu dari jalan dan masuk ke ladang. Maka Bileam memukul keledai itu untuk memalingkannya kembali ke jalan."
+"Tetapi bangkitlah murka Allah ketika ia pergi, dan berdirilah Malaikat TUHAN di jalan sebagai lawannya. #Bileam mengendarai keledainya yang betina dan dua orang bujangnya ada bersama-sama dengan dia."
+"Ketika keledai itu melihat Malaikat TUHAN berdiri di jalan, dengan pedang terhunus di tangan-Nya, menyimpanglah keledai itu #dari jalan dan masuk ke ladang. Maka Bileam memukul keledai itu untuk memalingkannya kembali ke jalan."
 "Kemudian pergilah Malaikat TUHAN berdiri pada jalan yang sempit di antara kebun-kebun anggur dengan tembok sebelah-menyebelah."
 "Ketika keledai itu melihat Malaikat TUHAN, ditekankannyalah dirinya kepada tembok, sehingga kaki Bileam terhimpit kepada tembok. Maka ia memukulnya pula."
 "Berjalanlah pula Malaikat TUHAN terus dan berdirilah Ia pada suatu tempat yang sempit, yang tidak ada jalan untuk menyimpang ke kanan atau ke kiri."

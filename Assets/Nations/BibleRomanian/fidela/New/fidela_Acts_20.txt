@@ -6,7 +6,7 @@
 "Iar noi am navigat din Filipi după zilele azimelor și am venit la ei în Troas în cinci zile; unde am rămas șapte zile."
 "Și în prima [zi] a săptămânii, când discipolii s-au adunat să frângă pâinea, Pavel le-a predicat, pregătit să plece a doua zi; și a continuat vorbirea până la miezul nopții."
 "Și erau multe lumini în camera de sus, unde erau adunați."
-"Și în fereastră a șezut un tânăr, unul numit Eutih, fiind cufundat într-un somn adânc; și pe când Pavel predica îndelung, s-a adâncit în somn și a căzut jos de la al treilea etaj și a fost ridicat mort."
+"Și în fereastră a șezut un tânăr, unul numit Eutih, fiind cufundat într-un somn adânc; și pe când Pavel predica #îndelung, s-a adâncit în somn și a căzut jos de la al treilea etaj și a fost ridicat mort."
 "Iar Pavel a coborât și s-a aplecat peste el și, îmbrățișându[-l], a spus
 "Și după ce a urcat din nou și a frânt pâine și a mâncat și a vorbit timp îndelungat, până în zorii zilei, astfel a plecat."
 "Și l-au adus pe tânăr viu și nu puțin au fost mângâiați."
@@ -21,7 +21,7 @@
 "Adeverind deopotrivă iudeilor și grecilor, pocăință față de Dumnezeu și credință față de Domnul nostru Isus Cristos."
 "Și acum, iată, eu mă duc, legat în duhul, la Ierusalim, neștiind lucrurile care au să mi se întâmple acolo,"
 "Decât că Duhul Sfânt adeverește în fiecare cetate, spunând că mă așteaptă lanțuri și nenorociri."
-"Dar niciunul dintre aceste lucruri nu mă mișcă, nici nu consider a mea viață de preț pentru mine însumi, așa încât să îmi termin alergarea cu bucurie și serviciul pe care l-am primit de la Domnul Isus, să adeveresc evanghelia harului lui Dumnezeu."
+"Dar niciunul dintre aceste lucruri nu mă mișcă, nici nu consider a mea viață de preț pentru mine însumi, așa încât să #îmi termin alergarea cu bucurie și serviciul pe care l-am primit de la Domnul Isus, să adeveresc evanghelia harului lui Dumnezeu."
 "Și acum, iată, eu știu că voi toți, printre care am umblat predicând împărăția lui Dumnezeu, nu îmi veți mai vedea fața."
 "De aceea vă iau ca mărturie în această zi, că eu [sunt] curat de sângele tuturor."
 "Fiindcă nu m-am ferit niciodată să vă fac cunoscut întregul sfat al lui Dumnezeu."

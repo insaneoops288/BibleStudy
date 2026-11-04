@@ -26,8 +26,8 @@
 "‹Así que, si os dijeren
 "‹Porque como el relámpago que sale del oriente y se muestra hasta el occidente, así será también la venida del Hijo del Hombre.›"
 "‹Porque dondequiera que esté el cuerpo muerto, allí se juntarán también las águilas.›"
-"‹E inmediatamente después de la tribulación de aquellos días, el sol se oscurecerá, y la luna no dará su resplandor, y las estrellas caerán del cielo, y las potencias de los cielos serán conmovidas.›"
-"‹Y entonces aparecerá la señal del Hijo del Hombre en el cielo; entonces se lamentarán todas las tribus de la tierra, y verán al Hijo del Hombre viniendo en las nubes del cielo, con poder y gran gloria.›"
+"‹E inmediatamente después de la tribulación de aquellos días, el sol se oscurecerá, y la luna no dará #su resplandor, y las estrellas caerán del cielo, y las potencias de los cielos serán conmovidas.›"
+"‹Y entonces aparecerá la señal del Hijo del Hombre en el cielo; entonces se lamentarán todas las tribus de la #tierra, y verán al Hijo del Hombre viniendo en las nubes del cielo, con poder y gran gloria.›"
 "‹Y enviará a sus ángeles con gran voz de trompeta, y juntarán a sus escogidos de los cuatro vientos, desde un extremo del cielo hasta el otro.›"
 "‹De la higuera aprended la parábola
 "‹Así también vosotros, cuando veáis todas estas cosas, sabed que está cerca, a las puertas.›"

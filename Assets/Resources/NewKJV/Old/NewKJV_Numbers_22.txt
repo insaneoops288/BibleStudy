@@ -1,9 +1,9 @@
 Then the children of Israel moved, and camped in the plains of Moab on the side of the Jordan across from Jericho.
 Now Balak the son of Zippor saw all that Israel had done to the Amorites.
 And Moab was exceedingly afraid of the people because they were many, and Moab was sick with dread because of the children of Israel.
-So Moab said to the elders of Midian, "Now this company will lick up everything around us, as an ox licks up the grass of the field." And Balak the son of Zippor was king of the Moabites at that time.
-Then he sent messengers to Balaam the son of Beor at Pethor, which is near the River in the land of the sons of his people, to call him, saying, "Look, a people has come from Egypt. See, they cover the face of the earth, and are settling next to me!
-"Therefore please come at once, curse this people for me, for they are too mighty for me. Perhaps I shall be able to defeat them and drive them out of the land, for I know that he whom you bless is blessed, and he whom you curse is cursed."
+So Moab said to the elders of Midian, "Now this company will lick up everything around us, as an ox licks #up the grass of the field." And Balak the son of Zippor was king of the Moabites at that time.
+Then he sent messengers to Balaam the son of Beor at Pethor, which is near the River in the land of the sons of his people, #to call him, saying, "Look, a people has come from Egypt. See, they cover the face of the earth, and are settling next to me!
+"Therefore please come at once, curse this people for me, for they are too mighty for me. Perhaps I shall be able to defeat them #and drive them out of the land, for I know that he whom you bless is blessed, and he whom you curse is cursed."
 So the elders of Moab and the elders of Midian departed with the diviner's fee in their hand, and they came to Balaam and spoke to him the words of Balak.
 And he said to them, "Lodge here tonight, and I will bring back word to you, as the LORD speaks to me." So the princes of Moab stayed with Balaam.
 Then God came to Balaam and said, "Who are these men with you?"
@@ -20,7 +20,7 @@ Then Balaam answered and said to the servants of Balak, "Though Balak were to gi
 And God came to Balaam at night and said to him, "If the men come to call you, rise and go with them; but only the word which I speak to you,,that you shall do."
 So Balaam rose in the morning, saddled his donkey, and went with the princes of Moab.
 Then God's anger was aroused because he went, and the Angel of the LORD took His stand in the way as an adversary against him. And he was riding on his donkey, and his two servants were with him.
-Now the donkey saw the Angel of the LORD standing in the way with His drawn sword in His hand, and the donkey turned aside out of the way and went into the field. So Balaam struck the donkey to turn her back onto the road.
+Now the donkey saw the Angel of the LORD standing in the way with His drawn sword in His hand, and the donkey turned #aside out of the way and went into the field. So Balaam struck the donkey to turn her back onto the road.
 Then the Angel of the LORD stood in a narrow path between the vineyards, with a wall on this side and a wall on that side.
 And when the donkey saw the Angel of the LORD, she pushed herself against the wall and crushed Balaam's foot against the wall; so he struck her again.
 Then the Angel of the LORD went further, and stood in a narrow place where there was no way to turn either to the right hand or to the left.

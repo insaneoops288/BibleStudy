@@ -12,11 +12,11 @@
 "Jeremiasz zaś odezwał się do wszystkich książąt i do całego ludu, mówiąc
 "Dlatego teraz poprawcie swoje drogi i swoje uczynki i usłuchajcie głosu PANA, swego Boga, a pożałuje PAN tego nieszczęścia, jakie zapowiedział przeciwko wam."
 "Co do mnie, ja jestem w waszych rękach, czyńcie ze mną to, co dobre i sprawiedliwe w waszych oczach."
-"Wiedzcie jednak na pewno – jeśli mnie zabijecie, ściągniecie krew niewinną na siebie, na to miasto i na jego mieszkańców. Naprawdę bowiem PAN posłał mnie do was, abym mówił te wszystkie słowa do waszych uszu."
+"Wiedzcie jednak na pewno – jeśli mnie zabijecie, ściągniecie krew niewinną na siebie, na to miasto i na #jego mieszkańców. Naprawdę bowiem PAN posłał mnie do was, abym mówił te wszystkie słowa do waszych uszu."
 "Wtedy książęta i cały lud powiedzieli do kapłanów i do proroków
 "Powstali też niektórzy ze starszych tej ziemi i powiedzieli do całego zgromadzenia ludu
 "Micheasz z Moreszet prorokował za dni Ezechiasza, króla Judy, i mówił do całego ludu Judy
-"Czy zabił go Ezechiasz, król Judy, i Juda? Czy nie ulękli się PANA i nie modlili się do PANA tak, że PAN żałował tego nieszczęścia, jakie zapowiedział przeciwko nim? Przecież ściągniemy na nasze dusze wielkie nieszczęście."
+"Czy zabił go Ezechiasz, król Judy, i Juda? Czy nie ulękli się PANA i nie modlili się do PANA #tak, że PAN żałował tego nieszczęścia, jakie zapowiedział przeciwko nim? Przecież ściągniemy na nasze dusze wielkie nieszczęście."
 "Był także człowiek, który prorokował w imię PANA, Uriasz, syn Szemajasza, z Kiriat-Jearim. Prorokował on przeciwko temu miastu i przeciwko tej ziemi zgodnie ze wszystkimi słowami Jeremiasza."
 "A gdy król Joakim, wszyscy jego wojownicy i wszyscy książęta usłyszeli jego słowa, król usiłował go zabić. Lecz gdy Uriasz o tym usłyszał, zląkł się, uciekł i przybył do Egiptu."
 "Ale król Joakim posłał ludzi do Egiptu

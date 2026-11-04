@@ -1,5 +1,5 @@
 "ORA, dopo queste cose, avvenne che Absalom si fornì di carri e di cavalli; e cinquant’uomini correvano davanti a lui."
-"Ed egli si levava la mattina, e si fermava allato alla via della porta; e se vi era alcuno che avesse qualche piato, per lo quale gli convenisse venire al re per giudicio, Absalom lo chiamava, e gli diceva
+"Ed egli si levava la mattina, e si fermava allato alla via della porta; e se vi era alcuno che #avesse qualche piato, per lo quale gli convenisse venire al re per giudicio, Absalom lo chiamava, e gli diceva
 "Ed Absalom gli diceva
 "E Absalom diceva
 "E, se alcuno gli si accostava per prosternarsi davanti a lui, egli stendeva la mano, e lo prendeva, e lo baciava."
@@ -9,7 +9,7 @@
 "E il re gli disse
 "Or Absalom avea mandate per tutte le tribù d’Israele delle persone che dessero loro la posta, dicendo
 "E con Absalom andarono dugent’uomini di Gerusalemme, ch’erano stati convitati; e vi andarono nella loro semplicità, non sapendo nulla."
-"Ed Absalom, quando fu per sacrificare i sacrificii, mandò per Ahitofel Ghilonita, consigliere di Davide, che venisse da Ghilo, sua città; e la conguira divenne potente, e il popolo andava crescendo di numero appresso di Absalom."
+"Ed Absalom, quando fu per sacrificare i sacrificii, mandò per Ahitofel Ghilonita, consigliere di Davide, che venisse da Ghilo, #sua città; e la conguira divenne potente, e il popolo andava crescendo di numero appresso di Absalom."
 "Ora un messo venne a Davide, dicendo
 "Allora Davide disse a tutti i suoi servitori ch’erano con lui in Gerusalemme
 "Ed i servitori del re gli dissero
@@ -21,7 +21,7 @@
 "Ma Ittai rispose al re, e disse
 "Davide adunque disse ad Ittai
 "E tutto il popolo del paese piangeva con gran grida, mentre tutta quella gente passava. E il re passò il torrente di Chidron; e tutta la gente passò, traendo verso il deserto."
-"Or ecco, quivi era ancora Sadoc, con tutti i Leviti, portando d’Arca del Patto di Dio; ed essi posarono l’Arca di Dio, mentre Ebiatar saliva, finchè tutto il popolo ebbe finito di uscire della città."
+"Or ecco, quivi era ancora Sadoc, con tutti i Leviti, portando d’Arca del Patto di Dio; ed essi #posarono l’Arca di Dio, mentre Ebiatar saliva, finchè tutto il popolo ebbe finito di uscire della città."
 "Ma il re disse a Sadoc
 "ma, se pure egli dice così
 "Il re disse ancora al sacerdote Sadoc

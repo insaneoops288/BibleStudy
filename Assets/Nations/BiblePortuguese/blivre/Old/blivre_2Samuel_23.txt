@@ -7,7 +7,7 @@
 "Em vez disso o que quer tocar neles, Arma-se de ferro e de haste de lança, e são queimados em seu lugar."
 "Estes são os nomes dos valentes que teve Davi
 "Depois deste, Eleazar, filho de Dodô de Aoí, foi dos três valentes que estavam com Davi, quando desafiaram aos filisteus que se haviam juntado ali à batalha, e subiram os de Israel."
-"Este, levantando-se, feriu aos filisteus, até que sua mão se cansou, e ficou grudada em sua espada. Aquele dia o SENHOR fez grande salvação; e voltou-se o povo depois dele somente para tomar o despojo."
+"Este, levantando-se, feriu aos filisteus, até que sua mão se cansou, e ficou grudada em sua espada. Aquele #dia o SENHOR fez grande salvação; e voltou-se o povo depois dele somente para tomar o despojo."
 "Depois deste foi Samá, filho de Agé araíta
 "Ele então se parou em meio do terreno e defendeu-o, e feriu aos filisteus; e o SENHOR fez uma grande salvação."
 "E três dos trinta principais desceram e vieram em tempo da colheita a Davi à cova de Adulão
@@ -18,7 +18,7 @@
 "E Abisai irmão de Joabe, filho de Zeruia, foi o principal dos três; o qual levantou sua lança contra trezentos, que matou; e teve nome entre os três."
 "Ele era o mais preeminente dos três, e o primeiro deles; mas não chegou aos três primeiros."
 "Depois, Benaia filho de Joiada, filho de um homem esforçado, grande em feitos, de Cabzeel. Este feriu dois leões de Moabe
-"Também feriu ele a um egípcio, homem de grande estatura; e tinha o egípcio uma lança em sua mão; mas desceu a ele com um cajado, e arrebatou ao egípcio a lança da mão, e o matou com sua própria lança."
+"Também feriu ele a um egípcio, homem de grande estatura; e tinha o egípcio uma lança em sua mão; mas desceu #a ele com um cajado, e arrebatou ao egípcio a lança da mão, e o matou com sua própria lança."
 "Isto fez Benaia filho de Joiada, e teve nome entre os três valentes."
 "Dos trinta foi o mais preeminente; mas não chegou aos três primeiros. E Davi o pôs em seu conselho."
 "Asael irmão de Joabe foi dos trinta; Elanã filho de Dodô de Belém;"

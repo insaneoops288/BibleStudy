@@ -24,7 +24,7 @@
 "Sie kamen auf deinen Markt mit köstlichen Gewändern, mit Mänteln von blauem Purpur und buntgewirktem Stoff, mit bunten Teppichen, mit geflochtenen und festgedrehten Seilen."
 "Tarsisschiffe vertrieben deine Tauschwaren; davon wurdest du sehr reich und geehrt im Herzen der Meere!"
 "Deine Schiffleute haben dichüber viele Wasser gebracht; ein Ostwind soll dich zerbrechen im Herzen der Meere!"
-"Deine Reichtümer und deine Märkte, dein Tauschhandel, deine Ruderknechte und deine Steuermänner, deine Schiffszimmerleute und deine Tauschhändler und alle deine Kriegsleute, welche bei dir sind, und die ganze Volksmenge in dir werden mitten ins Meer stürzen am Tage deines Falls."
+"Deine Reichtümer und deine Märkte, dein Tauschhandel, deine Ruderknechte und deine Steuermänner, deine Schiffszimmerleute und deine Tauschhändler und alle deine Kriegsleute, #welche bei dir sind, und die ganze Volksmenge in dir werden mitten ins Meer stürzen am Tage deines Falls."
 "Von dem Geschrei deiner Steuermänner werden die Wasserflächen zittern."
 "Alle, die das Ruder führen, die Schiffsleute und alle Steuermänner auf dem Meere, werden aus ihren Schiffen steigen und ans Land treten."
 "Und sie werden deinetwegen ihre Stimme erheben und bitterlich schreien. Sie werden Staub auf ihre Häupter werfen und sich in der Asche wälzen."

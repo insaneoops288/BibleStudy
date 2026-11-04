@@ -22,7 +22,7 @@
 "At siya'y pinatotohanan ng lahat, at nangagtataka sa mga salita ng biyaya na lumalabas sa kaniyang bibig
 "At sinabi niya sa kanila, Walang salang sasabihin ninyo sa akin itong talinghaga, Manggagamot, gamutin mo ang iyong sarili
 "At sinabi niya, Katotohanang sinasabi ko sa inyo, Walang propetang kinalulugdan sa kaniyang tinubuang lupa."
-"Datapuwa't katotohanang sinasabi ko sa inyo, Maraming mga baong babai sa Israel nang mga araw ni Elias, nang sarhan ang langit sa loob ng tatlong taon at anim na buwan, noong datnan ng malaking kagutom ang buong sangkalupaan;"
+"Datapuwa't katotohanang sinasabi ko sa inyo, Maraming mga baong babai sa Israel nang mga araw ni Elias, nang sarhan ang #langit sa loob ng tatlong taon at anim na buwan, noong datnan ng malaking kagutom ang buong sangkalupaan;"
 "At sa kanino man sa kanila ay hindi sinugo si Elias, kundi sa Sarepta sa lupa ng Sidon, sa isang babaing bao."
 "At maraming ketongin sa Israel nang panahon ni Eliseo na propeta; at sinoman sa kanila'y hindi nilinis, kundi lamang si Naaman na Siro."
 "At nangapuspos ng galit ang lahat ng nangasa sinagoga, sa pagkarinig nila ng mga bagay na ito;"
@@ -33,12 +33,12 @@
 "At sa sinagoga ay may isang lalake na may espiritu ng karumaldumal na demonio; at siya'y sumigaw ng malakas na tinig,"
 "Ah! anong mayroon kami sa iyo, Jesus, ikaw na Nazareno? naparito ka baga upang kami'y iyong puksain? nakikilala ko ikaw kung sino ka, ang Banal ng Dios."
 "At sinaway siya ni Jesus, na sinasabi, Tumahimik ka, at lumabas ka sa kaniya. At nang siya'y mailugmok ng demonio sa gitna, ay lumabas siya sa kaniya, na hindi siya sinaktan."
-"At silang lahat ay nangagtaka at nagsalitaan ang isa't isa, na nangagsasabi, Anong salita kaya ito? sapagka't siya na may kapamahalaan at kapangyarihan ay naguutos sa mga karumaldumal na espiritu, at nagsisilabas sila."
+"At silang lahat ay nangagtaka at nagsalitaan ang isa't isa, na nangagsasabi, Anong salita kaya ito? sapagka't #siya na may kapamahalaan at kapangyarihan ay naguutos sa mga karumaldumal na espiritu, at nagsisilabas sila."
 "At kumakalat ang alingawngaw tungkol sa kaniya sa lahat ng dako sa palibotlibot ng lupaing yaon."
 "At siya'y nagtindig sa sinagoga, at pumasok sa bahay ni Simon. At nilalagnat na mainam ang biyanang babae ni Simon, at siya'y kanilang ipinamanhik sa kaniya."
 "At tinunghan niya siya, at sinaway ang lagnat; at inibsan siya
 "At nang lumulubog na ang araw, ang lahat na may mga sakit ng sarisaring karamdaman ay dinala sa kaniya; at ipinatong niya ang kaniyang mga kamay sa bawa't isa sa kanila, at sila'y pinagaling."
-"At nagsilabas din sa marami ang mga demonio na nagsisisigaw, na nagsasabi, Ikaw ang anak ng Dios. At sinasaway sila, na di niya sila tinutulutang mangagsalita, sapagka't naalaman nilang siya ang Cristo."
+"At nagsilabas din sa marami ang mga demonio na nagsisisigaw, na nagsasabi, Ikaw ang anak ng Dios. #At sinasaway sila, na di niya sila tinutulutang mangagsalita, sapagka't naalaman nilang siya ang Cristo."
 "At nang araw na, ay lumabas siya at naparoon sa isang ilang na dako
 "Datapuwa't sinabi niya sa kanila, Dapat namang ipangaral ko sa mga ibang bayan ang mabubuting balita ng kaharian ng Dios
 "At siya'y nangangaral sa mga sinagoga ng Galilea."

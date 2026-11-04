@@ -6,9 +6,9 @@
 "Atëherë mbreti Asa mori të gjithë ata të Judës, që morën gurët dhe lëndën e drurit që Baasha kishte përdorur për të ndërtuar Ramahun dhe me to ndërtoi Geban dhe Mitspahun."
 "Në atë kohë shikuesi Hanani shkoi tek Asa, mbret i Judës, dhe i tha
 "A nuk ishin vallë Etiopasit dhe Libianët një ushtri e pamasë me një numër shumë të madh qerresh dhe kalorësish? Megjithatë, me qenë se ishe mbështetur tek Zoti ai i dha në duart e tua."
-"Në të vërtetë Zoti me sytë e tij shikon përpara dhe mbrapa tërë dheun për të treguar forcën e tij ndaj atyre që kanë një zemër të ndershme ndaj tij. Në këtë ti ke vepruar si një i pamend; prandaj tani e tutje do të kesh luftëra""."
+"Në të vërtetë Zoti me sytë e tij shikon përpara dhe mbrapa tërë dheun për të treguar forcën e tij ndaj atyre që kanë #një zemër të ndershme ndaj tij. Në këtë ti ke vepruar si një i pamend; prandaj tani e tutje do të kesh luftëra""."
 "Asa u indinjua dhe e futi në burg, sepse ishte zemëruar me të për këto gjëra. Në këtë kohë Asa u suall egërsisht edhe me disa njerëz nga populli."
 "Por ja, bëmat e Asait nga të parat deri në ato të fundit, i gjejmë të shkruara në librin e mbretit të Judës dhe të Izraelit."
 "Në vitin e tridhjetë e nëntë të mbretërimit të tij Asa u sëmur nga këmbët, dhe sëmundja e tij ishte shumë e rëndë, por gjatë sëmundjes së tij Ai nuk kërkoi Zotin, por iu drejtua mjekëve."
 "Kështu Asa pushoi bashkë me etërit e tij dhe vdiq në vitin e dyzetenjëtë të mbretërisë së tij."
-"E varrosën në varrin që i kishte hapur vetes në qytetin e Davidit, e vendosën mbi një shtrat plot me aroma dhe melheme të ndryshme të parfumuara, të përgatitura sipas artit të parfumierit, dhe dogjën një sasi të madhe prej tyre për nder të tij."
+"E varrosën në varrin që i kishte hapur vetes në qytetin e Davidit, e vendosën mbi një shtrat plot me aroma dhe melheme #të ndryshme të parfumuara, të përgatitura sipas artit të parfumierit, dhe dogjën një sasi të madhe prej tyre për nder të tij."

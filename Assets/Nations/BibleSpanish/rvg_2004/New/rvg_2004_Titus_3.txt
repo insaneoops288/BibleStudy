@@ -1,6 +1,6 @@
 "Recuérdales que se sujeten a los principados y potestades, que obedezcan a los magistrados, que estén dispuestos para toda buena obra."
 "Que no hablen mal de nadie, que no sean pendencieros, [sino] modestos, mostrando toda mansedumbre para con todos los hombres."
-"Porque nosotros también éramos en otro tiempo insensatos, rebeldes, extraviados, esclavos de concupiscencias y diversos placeres, viviendo en malicia y envidia, aborrecibles, aborreciéndonos unos a otros."
+"Porque nosotros también éramos en otro tiempo insensatos, rebeldes, extraviados, esclavos de concupiscencias y #diversos placeres, viviendo en malicia y envidia, aborrecibles, aborreciéndonos unos a otros."
 "Pero cuando se manifestó la bondad de Dios nuestro Salvador, y su amor para con los hombres,"
 "nos salvó, no por obras de justicia que nosotros hayamos hecho, sino por su misericordia, por el lavamiento de la regeneración y de la renovación del Espíritu Santo;"
 "el cual derramó en nosotros abundantemente por Jesucristo nuestro Salvador,"

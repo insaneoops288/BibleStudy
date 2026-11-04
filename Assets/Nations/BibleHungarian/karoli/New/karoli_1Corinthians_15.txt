@@ -12,7 +12,7 @@
 "Ha azért Krisztusról hirdettetik, hogy a halottak közül feltámadott, mimódon mondják némelyek ti köztetek, hogy nincsen halottak feltámadása?"
 "Mert ha nincsen halottak feltámadása, akkor Krisztus sem támadott fel."
 "Ha pedig Krisztus fel nem támadott, akkor hiábavaló a mi prédikálásunk, de hiábavaló a ti hitetek is."
-"Sõt az Isten hamis bizonyságtevõinek is találtatunk, mivelhogy az Isten felõl bizonyságot tettünk, hogy feltámasztotta a Krisztust; a kit nem támasztott fel, ha csakugyan nem támadnak fel a halottak."
+"Sõt az Isten hamis bizonyságtevõinek is találtatunk, mivelhogy az Isten felõl bizonyságot tettünk, hogy feltámasztotta #a Krisztust; a kit nem támasztott fel, ha csakugyan nem támadnak fel a halottak."
 "Mert ha a halottak fel nem támadnak, a Krisztus sem támadott fel."
 "Ha pedig a Krisztus fel nem támadott, hiábavaló a ti hitetek; még bûneitekben vagytok."
 "A kik a Krisztusban elaludtak, azok is elvesztek tehát."

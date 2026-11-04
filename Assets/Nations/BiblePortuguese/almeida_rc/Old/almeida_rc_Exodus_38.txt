@@ -15,7 +15,7 @@
 "E da outra banda da porta do pátio, de ambos os lados, eram cortinas de quinze côvados; as suas colunas, três, e as suas bases, três."
 "Todas as cortinas do pátio ao redor eram de linho fino torcido."
 "E as bases das colunas eram de cobre; os colchetes das colunas e as suas molduras eram de prata; e a coberta das suas cabeças, de prata; e todas as colunas do pátio eram cingidas de prata."
-"E a coberta da porta do pátio era de obra de bordador, de pano azul, e de púrpura, e de carmesim, e de linho fino torcido; e o comprimento era de vinte côvados, e a altura, na largura, de cinco côvados, defronte das cortinas do pátio."
+"E a coberta da porta do pátio era de obra de bordador, de pano azul, e de púrpura, e de carmesim, e de linho #fino torcido; e o comprimento era de vinte côvados, e a altura, na largura, de cinco côvados, defronte das cortinas do pátio."
 "E as suas quatro colunas e as suas quatro bases eram de cobre, os seus colchetes, de prata, e a coberta das suas cabeças e as suas molduras, de prata."
 "E todas as estacas do tabernáculo e do pátio ao redor eram de cobre."
 "Esta é a enumeração das coisas contadas do tabernáculo do Testemunho, que por ordem de Moisés foram contadas para o ministério dos levitas por mão de Itamar, filho de Arão, o sacerdote."
@@ -23,7 +23,7 @@
 "E com ele Aoliabe, filho de Aisamaque, da tribo de Dã, um mestre de obra, e engenhoso artífice, e bordador em pano azul, e em púrpura, e em carmesim, e em linho fino."
 "Todo o ouro gasto na obra, em toda a obra do santuário, a saber, o ouro da oferta, foram vinte e nove talentos e setecentos e trinta siclos, conforme o siclo do santuário;"
 "e a prata dos arrolados da congregação foram cem talentos e mil e setecentos e setenta e cinco siclos, conforme o siclo do santuário
-"Um beca para cada cabeça, isto é, meio siclo, conforme o siclo do santuário, de qualquer que passava aos arrolados, da idade de vinte anos e acima, que foram seiscentos e três mil e quinhentos e cinquenta."
+"Um beca para cada cabeça, isto é, meio siclo, conforme o siclo do santuário, de qualquer que passava aos #arrolados, da idade de vinte anos e acima, que foram seiscentos e três mil e quinhentos e cinquenta."
 "E houve cem talentos de prata para fundir as bases do santuário e as bases do véu; para cem bases eram cem talentos
 "Mas dos mil e setecentos e setenta e cinco siclos fez os colchetes das colunas, e cobriu as suas cabeças, e as cingiu de molduras."
 "E o cobre da oferta foi setenta talentos e dois mil e quatrocentos siclos."

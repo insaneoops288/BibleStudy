@@ -1,7 +1,7 @@
 "I zobaczyłem, a oto Baranek stał na górze Syjon, a z nim sto czterdzieści cztery tysiące tych, którzy mieli imię jego Ojca wypisane na czołach."
 "I usłyszałem z nieba głos jakby głos wielu wód i jakby głos wielkiego gromu. I słyszałem głos harfiarzy grających na swoich harfach."
-"I śpiewali jakby nową pieśń przed tronem i przed czterema stworzeniami, i przed starszymi. A nikt się tej pieśni nie mógł nauczyć oprócz stu czterdziestu czterech tysięcy, którzy zostali wykupieni z ziemi."
-"Są to ci, którzy nie skalali się z kobietami, są bowiem dziewiczy. To ci, którzy podążają za Barankiem, dokądkolwiek idzie. Oni zostali wykupieni spośród ludzi, aby byli pierwocinami dla Boga i dla Baranka;"
+"I śpiewali jakby nową pieśń przed tronem i przed czterema stworzeniami, i przed starszymi. A nikt się #tej pieśni nie mógł nauczyć oprócz stu czterdziestu czterech tysięcy, którzy zostali wykupieni z ziemi."
+"Są to ci, którzy nie skalali się z kobietami, są bowiem dziewiczy. To ci, którzy podążają za #Barankiem, dokądkolwiek idzie. Oni zostali wykupieni spośród ludzi, aby byli pierwocinami dla Boga i dla Baranka;"
 "A w ich ustach nie znaleziono podstępu. Są bowiem bez skazy przed tronem Boga."
 "I zobaczyłem innego anioła lecącego środkiem nieba, który miał ewangelię wieczną, aby ją zwiastować mieszkańcom ziemi, wszystkim narodom, plemionom, językom i ludom;"
 "Mówiącego donośnym głosem

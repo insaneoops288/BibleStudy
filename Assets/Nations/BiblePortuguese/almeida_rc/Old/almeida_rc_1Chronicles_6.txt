@@ -46,7 +46,7 @@
 "filho de Anzi, filho de Bani, filho de Semer,"
 "filho de Mali, filho de Musi, filho de Merari, filho de Levi."
 "E seus irmãos, os levitas, foram postos para todo o ministério do tabernáculo da Casa de Deus."
-"E Arão e seus filhos queimavam perfumes sobre o altar do holocausto e sobre o altar do incenso, para toda obra do lugar santíssimo e para fazer expiação por Israel, conforme tudo quanto Moisés, servo de Deus, tinha ordenado."
+"E Arão e seus filhos queimavam perfumes sobre o altar do holocausto e sobre o altar do incenso, para toda #obra do lugar santíssimo e para fazer expiação por Israel, conforme tudo quanto Moisés, servo de Deus, tinha ordenado."
 "E estes foram os filhos de Arão
 "seu filho Buqui, seu filho Uzi, seu filho Seraías,"
 "seu filho Meraiote, seu filho Amarias, seu filho Aitube,"

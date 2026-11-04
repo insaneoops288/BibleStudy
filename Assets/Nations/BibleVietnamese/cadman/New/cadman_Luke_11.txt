@@ -28,7 +28,7 @@
 "Ðức Chúa Jêsus đáp rằng
 "Khi dân chúng nhóm lại đông lắm, Ðức Chúa Jêsus phán rằng
 "Vì Giô-na là dấu lạ cho dân thành Ni-ni-ve, thì cũng một thể ấy, Con người sẽ là dấu lạ cho dòng dõi nầy."
-"Ðến ngày phán xét, nữ hoàng Nam phương sẽ đứng dậy với người của dòng dõi nầy và lên án họ, vì người từ nơi đầu cùng đất đến nghe lời khôn ngoan vua Sa-lô-môn, mà nầy, ở đây có Ðấng hơn vua Sa-lô-môn!"
+"Ðến ngày phán xét, nữ hoàng Nam phương sẽ đứng dậy với người của dòng dõi nầy và lên án họ, vì người #từ nơi đầu cùng đất đến nghe lời khôn ngoan vua Sa-lô-môn, mà nầy, ở đây có Ðấng hơn vua Sa-lô-môn!"
 "Ðến ngày phán xét, dân thành Ni-ni-ve sẽ đứng dậy với người của dòng dõi nầy và lên án họ, vì dân ấy đã nghe lời Giô-na giảng dạy và ăn năn; mà nầy, ở đây có Ðấng hơn Giô-na."
 "Không ai thắp đèn mà để chỗ khuất hay là dưới thùng, nhưng để trên chơn đèn, hầu cho kẻ vào được thấy sáng."
 "Mắt là đèn của thân thể; nếu mắt ngươi sõi sàng, cả thân thể ngươi được sáng láng; song nếu mắt ngươi xấu, thân thể ngươi phải tối tăm."
@@ -39,7 +39,7 @@
 "Nhưng Chúa phán rằng
 "Hỡi kẻ dại dột! Ðấng đã làm nên bề ngoài, há không làm nên bề trong nữa sao?"
 "Thà các ngươi lấy của mình có mà bố thí, thì mọi điều sẽ sạch cho các ngươi."
-"Song khốn cho các ngươi, người Pha-ri-si, vì các ngươi nộp một phần mười về bạc hà, hồi hương, cùng mọi thứ rau, còn sự công bình và sự kính mến Ðức Chúa Trời, thì các ngươi bỏ qua! Ấy là các việc phải làm, mà cũng không nên bỏ qua các việc khác."
+"Song khốn cho các ngươi, người Pha-ri-si, vì các ngươi nộp một phần mười về bạc hà, hồi hương, cùng mọi thứ rau, còn sự công bình và #sự kính mến Ðức Chúa Trời, thì các ngươi bỏ qua! Ấy là các việc phải làm, mà cũng không nên bỏ qua các việc khác."
 "Khốn cho các ngươi, người Pha-ri-si, vì các ngươi ưa ngôi cao nhứt trong nhà hội, và thích người ta chào mình giữa chợ!"
 "Khốn cho các ngươi, vì các ngươi giống như mả loạn, người ta bước lên trên mà không biết!"
 "Một thầy dạy luật bèn cất tiếng nói rằng

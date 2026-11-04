@@ -15,7 +15,7 @@
 "Além disso um cesto de pães ázimos, tortas de flor de farinha amassadas com azeite, e massas não fermentadas untadas com azeite, e sua oferta de cereais, e suas libações."
 "E o sacerdote o oferecerá diante do SENHOR, e fará sua expiação e seu holocausto
 "E oferecerá o carneiro em sacrifício pacífico ao SENHOR, com o cesto dos pães ázimos; oferecerá também o sacerdote sua oferta de cereais, e suas libações."
-"Então o nazireu rapará à porta do tabernáculo do testemunho a cabeça de seu nazireado, e tomará os cabelos da cabeça de seu nazireado, e os porá sobre o fogo que está debaixo do sacrifício pacífico."
+"Então o nazireu rapará à porta do tabernáculo do testemunho a cabeça de seu nazireado, e tomará os cabelos #da cabeça de seu nazireado, e os porá sobre o fogo que está debaixo do sacrifício pacífico."
 "Depois tomará o sacerdote a coxa cozida do carneiro, e uma torta sem levedura do cesto, e uma massa sem levedura, e as porá sobre as mãos do nazireu, depois que for estragado seu nazireado
 "E o sacerdote moverá aquilo, oferta movida diante do SENHOR; o qual será coisa santa do sacerdote, a mais do peito movido e da coxa separada
 "Esta é a lei do nazireu que fizer voto de sua oferta ao SENHOR por seu nazireado, a mais do que sua mão alcançar

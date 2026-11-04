@@ -19,14 +19,14 @@
 "Za sedm dní nebude nalezeno kvasu v domích vašich; nebo kdo by koli jedl něco kvašeného, vyhlazena bude duše ta z shromáždění Izraelského, tak příchozí jako zrozený v zemi."
 "Nic kvašeného jísti nebudete, ale ve všech příbytcích vašich jísti budete chleby přesné."
 "Tedy svolal Mojžíš všecky starší Izraelské, a řekl jim
-"Vezmete také svazček yzopu, a omočíte v krvi, kteráž bude v medenici, a pomažete nade dveřmi a na obou veřejích tou krví, kteráž bude v nádobě; z vás pak žádný nevycházej ze dveří domu svého až do jitra."
+"Vezmete také svazček yzopu, a omočíte v krvi, kteráž bude v medenici, a pomažete nade dveřmi a na obou veřejích #tou krví, kteráž bude v nádobě; z vás pak žádný nevycházej ze dveří domu svého až do jitra."
 "Neboť půjde Hospodin, aby bil Egypt, a kde uzří krev nade dveřmi a na obou veřejích, přeskočí Hospodin ty dvéře, aniž dopustí zhoubci vjíti do domů vašich k hubení."
 "Protož ostříhati budete věci této za ustanovení tobě i synům tvým až na věky."
 "A když vejdete do země, kterouž dá Hospodin vám, jakž zaslíbil, zachovávati budete službu tuto."
 "Když by pak řekli vám synové vaši
 "Tedy díte
 "A rozšedše se synové Izraelští, učinili, jakž byl Hospodin přikázal Mojžíšovi a Aronovi; tak a nejinak učinili."
-"Stalo se pak o půlnoci, pobil Hospodin všecko prvorozené v zemi Egyptské, od prvorozeného Faraonova, kterýž seděti měl na stolici jeho, až do prvorozeného vězně, kterýž byl v žaláři, i všecko prvorozené hovad."
+"Stalo se pak o půlnoci, pobil Hospodin všecko prvorozené v zemi Egyptské, od prvorozeného Faraonova, kterýž seděti #měl na stolici jeho, až do prvorozeného vězně, kterýž byl v žaláři, i všecko prvorozené hovad."
 "Tedy vstal Farao noci té, a všickni služebníci jeho i všickni Egyptští, a vzešel křik veliký v Egyptě; nebo žádného nebylo domu, v němž by nebylo něčeho mrtvého."
 "A povolav Mojžíše a Arona v noci, řekl
 "Ovce také vaše i voly vaše vezměte, jakž jste žádali, a jděte; a dejte mi také požehnání."
@@ -45,7 +45,7 @@
 "Příchozí a nájemník nebude jísti z něho."
 "V témž domě jísti jej budeš, nevyneseš z domu ven masa jeho; a kostí v něm nezlámete."
 "Všecko shromáždění Izraelské tak s ním učiní."
-"Jestliže by pak cizozemec bydlil s tebou pohostinu, a slaviti by chtěl Fáze Hospodinu, prvé obřezán bude každý pohlaví mužského; a tehdy přistoupí k slavení jeho, a bude jako tu v zemi zrozený; žádný pak neobřezaný nebude jísti z něho."
+"Jestliže by pak cizozemec bydlil s tebou pohostinu, a slaviti by chtěl Fáze Hospodinu, prvé obřezán bude každý pohlaví mužského; a #tehdy přistoupí k slavení jeho, a bude jako tu v zemi zrozený; žádný pak neobřezaný nebude jísti z něho."
 "Jednostejné právo bude tu zrodilému a příchozímu, kterýž jest pohostinu u prostřed vás."
 "Tedy učinili všickni synové Izraelští, jakž přikázal Hospodin Mojžíšovi a Aronovi; tak učinili."
 "A tak stalo se právě toho dne, že vyvedl Hospodin syny Izraelské z země Egyptské s vojsky jejich."

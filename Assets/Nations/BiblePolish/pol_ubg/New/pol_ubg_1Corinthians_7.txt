@@ -31,7 +31,7 @@
 "A ci, którzy używają tego świata, żeby nie nadużywali. Przemija bowiem postać tego świata."
 "Chcę, żebyście nie mieli trosk. Nieżonaty troszczy się o sprawy Pana, o to, jak się przypodobać Panu."
 "Lecz żonaty troszczy się o sprawy tego świata, o to, jak się przypodobać żonie."
-"Jest różnica między mężatką a dziewicą. Niezamężna troszczy się o sprawy Pana, o to, by była święta i ciałem, i duchem. Mężatka zaś troszczy się o sprawy tego świata, o to, jak się przypodobać mężowi."
+"Jest różnica między mężatką a dziewicą. Niezamężna troszczy się o sprawy Pana, o to, by była święta i #ciałem, i duchem. Mężatka zaś troszczy się o sprawy tego świata, o to, jak się przypodobać mężowi."
 "Mówię to dla waszego dobra, nie aby zarzucać na was sidła, ale żebyście godnie i przyzwoicie stali przy Panu, nie dając się rozproszyć."
 "Jeśli ktoś uważa, że zachowuje się niewłaściwie wobec swojej dziewicy, gdyby przeszły już jej lata i jest taka potrzeba, niech czyni, co chce, bo nie grzeszy. Niech wyjdzie za mąż."
 "Lecz jeśli ktoś mocno postanowił w swym sercu, nie mając takiej potrzeby, ale panując nad własną wolą, i osądził w swym sercu, że zachowa swoją dziewicę, dobrze czyni."

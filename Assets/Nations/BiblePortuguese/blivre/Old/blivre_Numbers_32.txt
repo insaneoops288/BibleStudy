@@ -30,7 +30,7 @@
 "Mas se não passarem armados convosco, então terão possessão entre vós na terra de Canaã."
 "E os filhos de Gade e os filhos de Rúben responderam, dizendo
 "Nós passaremos armados diante do SENHOR à terra de Canaã, e a possessão de nossa herança será desta parte do Jordão."
-"Assim lhes deu Moisés aos filhos de Gade e aos filhos de Rúben, e à meia tribo de Manassés filho de José, o reino de Seom rei amorreu, e o reino de Ogue rei de Basã, a terra com suas cidades e termos, as cidades do país ao redor."
+"Assim lhes deu Moisés aos filhos de Gade e aos filhos de Rúben, e à meia tribo de Manassés filho de José, o reino de #Seom rei amorreu, e o reino de Ogue rei de Basã, a terra com suas cidades e termos, as cidades do país ao redor."
 "E os filhos de Gade edificaram a Dibom, e a Atarote, e a Aroer,"
 "E a Atarote-Sofã, e a Jazer, e a Jogbeá,"
 "E a Bete-Ninra, e a Bete-Harã

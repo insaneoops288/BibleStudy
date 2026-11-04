@@ -46,7 +46,7 @@
 "Ki Amsi fia, ki Báni fia, ki Sémer fia."
 "Ki Makhli fia, ki Musi fia, ki Mérári fia, ki Lévi fia."
 "És testvéreik, a Léviták rendeltetnek vala az Isten háza hajlékának egyéb szolgálatjára."
-"Áron pedig és az õ fiai az egészen megégetendõ áldozatnak oltára mellé, és a füstölõ oltár mellé, a szentek-szentjének szolgálatja mellé, és az Izráel megszentelésére [rendeltetének] mind a szerint, a mint Mózes, az Isten szolgája megparancsolta volt."
+"Áron pedig és az õ fiai az egészen megégetendõ áldozatnak oltára mellé, és a füstölõ oltár mellé, a szentek-szentjének #szolgálatja mellé, és az Izráel megszentelésére [rendeltetének] mind a szerint, a mint Mózes, az Isten szolgája megparancsolta volt."
 "Áron fiai pedig ezek
 "Ennek fia Bukki, ennek fia Uzzi, ennek fia Zerája."
 "Ennek fia Merájót, ennek fia Amárja, ennek fia Akhitúb."

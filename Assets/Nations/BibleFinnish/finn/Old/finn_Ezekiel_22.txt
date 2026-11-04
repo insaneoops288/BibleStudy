@@ -1,7 +1,7 @@
 "Ja Herran sana tapahtui minulle ja sanoi
 "Sinä, ihmisen poika, etkös tahdo nuhdella, etkös tahdo nuhdella murhakaupunkia ja hänelle näyttää kaikkia hänen kauhistuksiansa?"
 "Sano
-"Sinä teet itses vikapääksi siihen vereen, jota vuodatat, ja saastutat itses jumalissa, joita teet; näillä sinä joudutat sinun päiväs, ja saatat, että sinun vuotes tuleman pitää; sentähden tahdon minä sinun nauruksi tehdä pakanain seassa, ja saattaa pilkaksi kaikissa maakunnissa."
+"Sinä teet itses vikapääksi siihen vereen, jota vuodatat, ja saastutat itses jumalissa, joita teet; näillä sinä joudutat sinun päiväs, ja #saatat, että sinun vuotes tuleman pitää; sentähden tahdon minä sinun nauruksi tehdä pakanain seassa, ja saattaa pilkaksi kaikissa maakunnissa."
 "Sekä läsnä että kaukana pitää heidän sinua sylkemän, että sinun häpiällisen sanoman ja suuren vaivan kärsimän pitää."
 "Katso, Israelin päämiehet ovat kukin väkevä sinussa verta vuodattamaan."
 "Isänsä ja äitinsä he katsovat ylön sinussa
@@ -23,7 +23,7 @@
 "Ja Herram sana tapahtui minulle ja sanoi
 "Sinä, ihmisen poika, sano heille
 "Prophetat, jotka siellä ovat, ovat vannoneet heitänsä yhteen, niinkuin kiljuva jalopeura, kuin se saaliin saa; he syövät sieluja, tempaavat tavaran ja rahan, ja tekevät sinne paljon leskiä."
-"Heidän pappinsa rikkovat minun lakini, ja turmelevat minun pyhäni; ei he pidä pyhäin ja saastaisten välillä eroitusta, eikä opeta mikä puhdas ja saastainen on, eikä tottele minun sabbatiani, ja minä saastutetaan heidän seassansa."
+"Heidän pappinsa rikkovat minun lakini, ja turmelevat minun pyhäni; ei he pidä pyhäin ja saastaisten välillä eroitusta, #eikä opeta mikä puhdas ja saastainen on, eikä tottele minun sabbatiani, ja minä saastutetaan heidän seassansa."
 "Heidän päämiehensä heidän seassansa ovat niinkuin raatelevaiset sudet, verta vuodattamaan ja sieluja surmaamaan ahneutensa tähden."
 "Ja heidän prophetansa sivuvat heitä sekoittamattomalla kalkilla, saarnaavat turhuutta, ja ennustavat heille valheita, ja sanovat
 "Maan kansa tekee väkivaltaa, ja he ryöstävät ryövyydellä ja sortavat köyhän ja raadollisen, ja tekevät muukalaiselle väkivaltaa ja vääryyttä."

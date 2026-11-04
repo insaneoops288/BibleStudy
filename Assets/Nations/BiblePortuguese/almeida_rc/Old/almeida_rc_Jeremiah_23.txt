@@ -6,7 +6,7 @@
 "Nos seus dias, Judá será salvo, e Israel habitará seguro; e este será o nome com que o nomearão
 "Portanto, eis que vêm dias, diz o SENHOR, em que nunca mais dirão
 "mas
-"Quanto aos profetas. O meu coração está quebrantado dentro de mim; todos os meus ossos estremecem; sou como um homem embriagado e como um homem vencido pelo vinho, por causa do SENHOR e por causa das palavras da sua santidade."
+"Quanto aos profetas. O meu coração está quebrantado dentro de mim; todos os meus ossos estremecem; sou como um homem embriagado #e como um homem vencido pelo vinho, por causa do SENHOR e por causa das palavras da sua santidade."
 "Porque a terra está cheia de adúlteros e a terra chora por causa da maldição; e os pastos do deserto se secam, pois a sua carreira é má, e a sua força não é recta."
 "Porque tanto o profeta como o sacerdote estão contaminados; até na minha casa achei a sua maldade, diz o SENHOR."
 "Portanto, o seu caminho lhes será como lugares escorregadios na escuridão; serão empurrados e cairão nele; porque trarei sobre eles mal, o ano mesmo da sua visitação, diz o SENHOR."
@@ -29,7 +29,7 @@
 "Não é a minha palavra como fogo, diz o SENHOR, e como um martelo que esmiúça a penha?"
 "Portanto, eis que eu sou contra os profetas, diz o SENHOR, que furtam as minhas palavras, cada um ao seu companheiro."
 "Eis que eu sou contra os profetas, diz o SENHOR, que usam de sua língua e dizem
-"Eis que eu sou contra os que profetizam sonhos mentirosos, diz o SENHOR, e os contam, e fazem errar o meu povo com as suas mentiras e com as suas leviandades; pois eu não os enviei, nem lhes dei ordem e não trouxeram proveito nenhum a este povo, diz o SENHOR."
+"Eis que eu sou contra os que profetizam sonhos mentirosos, diz o SENHOR, e os contam, e fazem errar o meu povo com as suas mentiras #e com as suas leviandades; pois eu não os enviei, nem lhes dei ordem e não trouxeram proveito nenhum a este povo, diz o SENHOR."
 "Quando, pois, te perguntar este povo, ou qualquer profeta, ou sacerdote, dizendo
 "E, quanto ao profeta, e ao sacerdote, e ao povo que disser
 "Assim direis, cada um ao seu companheiro e cada um ao seu irmão

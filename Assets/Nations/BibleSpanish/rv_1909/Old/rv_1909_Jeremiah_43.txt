@@ -3,7 +3,7 @@
 "Sino que Baruch hijo de Nerías te incita contra nosotros, para entregarnos en mano de los Caldeos, para matarnos y para hacernos trasportar á Babilonia."
 "No obedeció pues Johanán hijo de Carea, y todos los oficiales de la gente de guerra, y todo el pueblo, á la voz de Jehová para quedarse en tierra de Judá;"
 "Antes tomó Johanán hijo de Carea, y todos los oficiales de la gente de guerra, á todo el resto de Judá, que de todas las gentes adonde habían sido echados habían vuelto para morar en tierra de Judá
-"A hombres, y mujeres, y niños, y á las hijas del rey, y á toda alma que había dejado Nabuzaradán capitán de la guardia con Gedalías hijo de Ahicam hijo de Saphán, y á Jeremías profeta, y á Baruch hijo de Nerías;"
+"A hombres, y mujeres, y niños, y á las hijas del rey, y á toda alma que había dejado Nabuzaradán capitán de #la guardia con Gedalías hijo de Ahicam hijo de Saphán, y á Jeremías profeta, y á Baruch hijo de Nerías;"
 "Y entraron en tierra de Egipto; porque no obedecieron á la voz de Jehová
 "Y fué palabra de Jehová á Jeremías en Taphnes, diciendo
 "Toma con tu mano piedras grandes, y cúbrelas de barro en un horno de ladrillos que está á la puerta de la casa de Faraón en Taphnes, á vista de hombres Judíos;"

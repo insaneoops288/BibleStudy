@@ -30,7 +30,7 @@
 "Zaś jeśli uzbrojeni by z wami nie przeszli wtedy osiedlą się pośród was na ziemi Kanaan."
 "A synowie Gada oraz synowie Reubena odpowiedzieli, mówiąc
 "Pójdziemy zbrojnie przed obliczem WIEKUISTEGO do ziemi Kanaan, ale przy nas zostanie dziedziczna osiadłość po tej stronie Jardenu."
-"Zatem Mojżesz im oddał synom Gada, synom Reubena i połowie pokolenia Menaszy, syna Josefa królestwo Sychona, króla Emorei, oraz królestwo Oga, króla Baszanu całą ziemię wokoło z jej miastami, w obrębie miast tej ziemi."
+"Zatem Mojżesz im oddał synom Gada, synom Reubena i połowie pokolenia Menaszy, syna Josefa królestwo Sychona, króla Emorei, #oraz królestwo Oga, króla Baszanu całą ziemię wokoło z jej miastami, w obrębie miast tej ziemi."
 "Więc synowie Gada odbudowali
 "AtrothSzofan, Jaazer, Jagbeha,"
 "BethNymra i BethHaran, warowne miasta oraz zagrody dla stad."

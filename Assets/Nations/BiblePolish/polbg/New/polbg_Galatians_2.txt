@@ -13,7 +13,7 @@
 "A wespół z nim obłudnie się obchodzili i drudzy Żydzi, tak że i Barnabasz uwiedziony był tą ich obłudą."
 "Ale gdym obaczył, iż nie prosto chodzą w prawdzie Ewangielii, rzekłem Piotrowi przed wszystkimi
 "My, którzyśmy z przyrodzenia Żydowie a nie z pogan grzesznicy,"
-"Wiedząc, iż nie bywa usprawiedliwiony człowiek z uczynków zakonu, ale przez wiarę w Jezusa Chrystusa, i myśmy w Jezusa Chrystusa uwierzyli, abyśmy byli usprawiedliwieni z wiary Chrystusowej, a nie z uczynków zakonu, przeto że nie będzie usprawiedliwione z uczynków zakonu żadne ciało."
+"Wiedząc, iż nie bywa usprawiedliwiony człowiek z uczynków zakonu, ale przez wiarę w Jezusa Chrystusa, i myśmy w Jezusa Chrystusa uwierzyli, abyśmy #byli usprawiedliwieni z wiary Chrystusowej, a nie z uczynków zakonu, przeto że nie będzie usprawiedliwione z uczynków zakonu żadne ciało."
 "A jeźli my szukając, abyśmy byli usprawiedliwieni w Chrystusie, znajdujemy się też grzesznikami, tedyć Chrystus jest sługą grzechu? Nie daj tego Boże!"
 "Albowiem jeźli to, com zburzył, znowu zasię buduję, przestępcą samego siebie czynię."
 "Bom ja przez zakon zakonowi umarł, abym żył Bogu."

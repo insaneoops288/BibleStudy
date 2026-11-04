@@ -4,7 +4,7 @@
 "Halld meg, oh mi istenünk! hogy csúffá lettünk, fordítsad gyalázásukat az õ fejökre, és add õket prédára a rabságnak földében;"
 "Ne fedezd el az õ hamisságokat és az õ bûnök a te orczád elõl el ne töröltessék, mert [téged] bosszantának az építõk elõtt!"
 "És építõk a falat annyira, hogy elkészült az egész fal félmagasságban, mert a nép nagy kedvvel dolgozott."
-"Mikor pedig meghallotta Szanballat és Tóbiás, továbbá az Arábiabeliek, az Ammoniták és az Asdódeusok, hogy javítgattatnak Jeruzsálem kõfalai, és hogy a törések betömése megkezdõdött, felette nagy haragra gerjedének;"
+"Mikor pedig meghallotta Szanballat és Tóbiás, továbbá az Arábiabeliek, az Ammoniták és az Asdódeusok, hogy #javítgattatnak Jeruzsálem kõfalai, és hogy a törések betömése megkezdõdött, felette nagy haragra gerjedének;"
 "És összeesküvének mindnyájan egyenlõ akarattal, hogy eljõnek Jeruzsálemet megostromolni és [népét] megrémíteni."
 "De mi imádkozánk a mi Istenünkhöz, és állítánk ellenök õrséget nappal és éjjel, mivelhogy féltünk tõlök."
 "És mondák a zsidók

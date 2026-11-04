@@ -11,7 +11,7 @@
 "Niin sanoi Juuda miniällensä Tamarille
 "Koska monta päivää oli kulunut, kuoli Suan tytär, Juudan emäntä. Ja kuin Juuda oli itsensä lohduttanut, meni hän Timnatiin, lammastensa keritsiäin tykö ystävänsä Hiran kanssa Odollamista."
 "Niin ilmoitettiin Tamarille, sanoen
-"Niin riisui hän yltänsä leskivaatteensa, ja verhoitti itsensä liinalla ja peitti itsensä, ja istui kahden lähteen veräjälle, joka on tiellä Timnatiin; sillä hän näki, että Sela oli kasvanut, ja ei häntä annettu sille emännäksi."
+"Niin riisui hän yltänsä leskivaatteensa, ja verhoitti itsensä liinalla ja peitti itsensä, ja istui kahden lähteen veräjälle, joka #on tiellä Timnatiin; sillä hän näki, että Sela oli kasvanut, ja ei häntä annettu sille emännäksi."
 "Koska Juuda näki hänen, luuli hän sen portoksi; sillä hän oli peittänyt kasvonsa."
 "Ja hän poikkesi tien oheen hänen tykönsä, ja sanoi
 "Hän sanoi

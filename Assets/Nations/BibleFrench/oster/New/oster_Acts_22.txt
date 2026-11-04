@@ -1,8 +1,8 @@
 "Hommes frères et pères, écoutez maintenant ma défense auprès de vous."
 "Et quand ils entendirent qu'il leur parlait en langue hébraïque, ils firent encore plus de silence. Et il dit
-"Je suis Juif, né à Tarse en Cilicie, mais j'ai été élevé dans cette ville aux pieds de Gamaliel, et instruit avec rigueur dans la loi de nos pères, étant zélé pour Dieu, comme vous l'êtes tous aujourd'hui."
+"Je suis Juif, né à Tarse en Cilicie, mais j'ai été élevé dans cette ville aux pieds de Gamaliel, et #instruit avec rigueur dans la loi de nos pères, étant zélé pour Dieu, comme vous l'êtes tous aujourd'hui."
 "J'ai persécuté à mort cette doctrine, liant et mettant dans les prisons tant les hommes que les femmes,"
-"Comme le souverain sacrificateur m'en est témoin, et tout le conseil des Anciens. Ayant même reçu d'eux des lettres pour les frères, j'allai à Damas, afin d'amener aussi liés à Jérusalem ceux qui y étaient, pour qu'ils fussent punis."
+"Comme le souverain sacrificateur m'en est témoin, et tout le conseil des Anciens. Ayant même reçu d'eux des lettres pour #les frères, j'allai à Damas, afin d'amener aussi liés à Jérusalem ceux qui y étaient, pour qu'ils fussent punis."
 "Or, comme j'étais en chemin, et que j'approchais de Damas, vers midi environ, il arriva que tout à coup une grande lumière du ciel resplendit autour de moi."
 "Et étant tombé par terre, j'entendis une voix qui me dit
 "Et je répondis
@@ -27,4 +27,4 @@
 "Le tribun venant donc vers Paul, lui dit
 "Le tribun reprit
 "Ceux donc qui devaient lui donner la question se retirèrent aussitôt de lui; et le tribun lui-même eut peur, voyant qu'il était Romain, et qu'il l'avait fait lier."
-"Le lendemain, voulant savoir au vrai pour quel sujet il était accusé des Juifs, il le fit délier, et ordonna aux principaux sacrificateurs et à tout le Sanhédrin de se réunir, puis faisant descendre Paul, il le plaça au milieu d'eux."
+"Le lendemain, voulant savoir au vrai pour quel sujet il était accusé des Juifs, il le fit délier, et ordonna aux #principaux sacrificateurs et à tout le Sanhédrin de se réunir, puis faisant descendre Paul, il le plaça au milieu d'eux."

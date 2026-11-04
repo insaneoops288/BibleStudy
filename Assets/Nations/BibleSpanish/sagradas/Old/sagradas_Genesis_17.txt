@@ -20,7 +20,7 @@
 "Y por Ismael, <I>también</I>  te he oído
 "Mas <I>yo</I>  estableceré mi pacto con Isaac, el cual te dará a luz Sara en este tiempo el año siguiente."
 "Y acabó de hablar con él, y subió Dios de <I>estar</I>  con Abraham."
-"Entonces tomó Abraham a Ismael su hijo, y a todos los <I>siervos</I>  nacidos en su casa, y a todos los comprados por su dinero, todo macho en los varones de la casa de Abraham, y circuncidó la carne de su prepucio en aquel  mismo día, como Dios había hablado con él."
+"Entonces tomó Abraham a Ismael su hijo, y a todos los <I>siervos</I>  nacidos en su casa, y a todos los comprados por su dinero, todo macho #en los varones de la casa de Abraham, y circuncidó la carne de su prepucio en aquel  mismo día, como Dios había hablado con él."
 "Era Abraham de edad de noventa y nueve años cuando circuncidó la carne de su prepucio."
 "E Ismael su hijo era de trece años cuando fue circuncidada la carne de su prepucio."
 "En aquel mismo día fue circuncidado Abraham e Ismael su hijo."

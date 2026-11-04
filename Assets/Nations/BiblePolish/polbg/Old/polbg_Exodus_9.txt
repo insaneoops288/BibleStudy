@@ -16,7 +16,7 @@
 "A zaiste, dla tegom cię zachował, abym okazał na tobie moc moję, i żeby opowiadane było imię moje po wszystkiej ziemi."
 "Jeszczeż się ty wynosisz przeciw ludowi memu, nie chcąc go wypuścić?"
 "Oto, Ja spuszczę o tym czasie jutro grad bardzo ciężki, jakiemu nie było podobnego w Egipcie ode dnia, którego jest założon, aż do tego czasu."
-"A tak poślij teraz, zgromadź bydło twoje, i wszystko, co masz na polu; bo na każdego człowieka, i na bydlę, które znalezione będzie na polu, a nie będzie zegnane w dom, spadnie na nie grad, i pozdychają."
+"A tak poślij teraz, zgromadź bydło twoje, i wszystko, co masz na polu; bo na każdego człowieka, i na #bydlę, które znalezione będzie na polu, a nie będzie zegnane w dom, spadnie na nie grad, i pozdychają."
 "Kto się tedy uląkł słowa Pańskiego z sług Faraonowych, kazał uciekać sługom swym, i z bydłem swojem do domu;"
 "Ale kto nie przyłożył serca swego do słowa Pańskiego, ten zostawił sługi swe i bydło swe na polu."
 "I rzekł Pan do Mojżesza

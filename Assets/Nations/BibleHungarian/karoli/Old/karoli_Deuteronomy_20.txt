@@ -11,7 +11,7 @@
 "És ha békességgel felel néked, és kaput nyit, akkor az egész nép, a mely találtatik abban, adófizetõd legyen, és szolgáljon néked."
 "Ha pedig nem köt békességet veled, hanem harczra kél veled, akkor zárd azt körül;"
 "És [ha] az Úr, a te Istened kezedbe adja azt
-"De az asszonyokat, a kis gyermekeket, a barmokat és mind azt, a mi lesz a városban, az egész zsákmányolni valót magadnak prédáljad; és fogyaszd el a te ellenségeidtõl való zsákmányt, a kiket kezedbe ad néked az Úr, a te Istened."
+"De az asszonyokat, a kis gyermekeket, a barmokat és mind azt, a mi lesz a városban, az egész zsákmányolni valót magadnak #prédáljad; és fogyaszd el a te ellenségeidtõl való zsákmányt, a kiket kezedbe ad néked az Úr, a te Istened."
 "Így cselekedjél mindazokkal a városokkal, a melyek igen messze esnek tõled, a melyek nem e nemzetek városai közül valók."
 "De e népek városaiban, a melyeket örökségül ad néked az Úr, a te Istened, ne hagyj élni csak egy lelket is;"
 "Hanem mindenestõl veszítsd el õket

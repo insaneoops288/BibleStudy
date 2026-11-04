@@ -7,7 +7,7 @@
 "Et vous, soyez féconds et multipliez, répandez-vous sur la terre et multipliez sur elle."
 "Dieu parla encore à Noé et à ses fils avec lui, en disant
 "Voici, j'établis mon alliance avec vous et avec votre postérité après vous;"
-"avec tous les êtres vivants qui sont avec vous, tant les oiseaux que le bétail et tous les animaux de la terre, soit avec tous ceux qui sont sortis de l'arche, soit avec tous les animaux de la terre."
+"avec tous les êtres vivants qui sont avec vous, tant les oiseaux que le bétail et tous les animaux de #la terre, soit avec tous ceux qui sont sortis de l'arche, soit avec tous les animaux de la terre."
 "J'établis mon alliance avec vous
 "Et Dieu dit
 "j'ai placé mon arc dans la nue, et il servira de signe d'alliance entre moi et la terre."
@@ -20,7 +20,7 @@
 "Noé commença à cultiver la terre, et planta de la vigne."
 "Il but du vin, s'enivra, et se découvrit au milieu de sa tente."
 "Cham, père de Canaan, vit la nudité de son père, et il le rapporta dehors à ses deux frères."
-"Alors Sem et Japhet prirent le manteau, le mirent sur leurs épaules, marchèrent à reculons, et couvrirent la nudité de leur père; comme leur visage était détourné, ils ne virent point la nudité de leur père."
+"Alors Sem et Japhet prirent le manteau, le mirent sur leurs épaules, marchèrent à reculons, et couvrirent la nudité #de leur père; comme leur visage était détourné, ils ne virent point la nudité de leur père."
 "Lorsque Noé se réveilla de son vin, il apprit ce que lui avait fait son fils cadet."
 "Et il dit
 "Il dit encore

@@ -1,6 +1,6 @@
 "Zaś po pięciu dniach zszedł arcykapłan Ananiasz wraz z pewnymi starszymi i mówcą Tertullosem, oraz pokazali się namiestnikowi z powodu Pawła."
 "A kiedy został pozwany, zaczął go Tertullos oskarżać, mówiąc
-"Z twojego powodu, dostojny Feliksie, dostąpiliśmy wielkiego pokoju oraz reform, które na wszelki sposób zdarzyły się temu ludowi z powodu twojej troski. Zawsze i wszędzie uznajemy to z całą wdzięcznością."
+"Z twojego powodu, dostojny Feliksie, dostąpiliśmy wielkiego pokoju oraz reform, które na wszelki sposób zdarzyły się #temu ludowi z powodu twojej troski. Zawsze i wszędzie uznajemy to z całą wdzięcznością."
 "Ale by cię nie zatrzymywać przez dłużej, proszę abyś nas krótko posłuchał w swej zacności."
 "Bowiem znaleźliśmy tego męża niebezpiecznego oraz wszczynającego rozruchy na zamieszkałej ziemi pomiędzy wszystkimi Żydami lecz także przywódcę sekty nazarejczyków,"
 "który nawet Świątynię próbował sprofanować. Jego pojmali i chcieli sądzić według naszego Prawa."

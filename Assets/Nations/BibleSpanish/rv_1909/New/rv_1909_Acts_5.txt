@@ -18,7 +18,7 @@
 "Y echaron mano á los apóstoles, y pusiéronlos en la cárcel pública."
 "Mas el ángel del Señor, abriendo de noche las puertas de la cárcel, y sacándolos, dijo
 "Id, y estando en el templo, hablad al pueblo todas las palabras de esta vida."
-"Y oído que hubieron esto, entraron de mañana en el templo, y enseñaban. Entre tanto, viniendo el príncipe de los sacerdotes, y los que eran con él, convocaron el concilio, y á todos los ancianos de los hijos de Israel, y enviaron á la cárcel para que fues"
+"Y oído que hubieron esto, entraron de mañana en el templo, y enseñaban. Entre tanto, viniendo el príncipe de los sacerdotes, y los que eran #con él, convocaron el concilio, y á todos los ancianos de los hijos de Israel, y enviaron á la cárcel para que fues"
 "Mas como llegaron los ministros, y no los hallaron en la cárcel, volvieron, y dieron aviso,"
 "Diciendo
 "Y cuando oyeron estas palabras el pontífice y el magistrado del templo y los príncipes de los sacerdotes, dudaban en qué vendría á parar aquello."

@@ -1,5 +1,5 @@
 "Ainda que eu falasse as línguas dos seres humanos e dos anjos, e não tivesse amor, seria como o metal que soa, ou como o sino que retine."
-"E ainda que tivesse [o dom] de profecia, e soubesse todos os mistérios, e todo o conhecimento; e ainda que tivesse toda a fé, de tal maneira que movesse os montes de lugar, e não tivesse amor, nada seria."
+"E ainda que tivesse [o dom] de profecia, e soubesse todos os mistérios, e todo o conhecimento; e ainda que #tivesse toda a fé, de tal maneira que movesse os montes de lugar, e não tivesse amor, nada seria."
 "E ainda que eu distribuísse todos os meus bens para alimentar [aos pobres] , e ainda que entregasse meu corpo para ser queimado, e não tivesse amor, nada me aproveitaria."
 "O amor é paciente, é bondoso; o amor não é invejoso; o amor não é orgulhoso, não é arrogante."
 "O amor não trata mal; não busca os próprios [interesses] , não se ira, não é rancoroso."

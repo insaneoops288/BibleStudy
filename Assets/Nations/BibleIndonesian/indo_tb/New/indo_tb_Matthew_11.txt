@@ -18,13 +18,13 @@
 "Karena Yohanes datang, ia tidak makan, dan tidak minum, dan mereka berkata
 "Kemudian Anak Manusia datang, Ia makan dan minum, dan mereka berkata
 "Lalu Yesus mulai mengecam kota-kota yang tidak bertobat, sekalipun di situ Ia paling banyak melakukan mujizat-mujizat-Nya
-"""Celakalah engkau Khorazim! Celakalah engkau Betsaida! Karena jika di Tirus dan di Sidon terjadi mujizat-mujizat yang telah terjadi di tengah-tengah kamu, sudah lama mereka bertobat dan berkabung."
+"""Celakalah engkau Khorazim! Celakalah engkau Betsaida! Karena jika di Tirus dan di Sidon terjadi #mujizat-mujizat yang telah terjadi di tengah-tengah kamu, sudah lama mereka bertobat dan berkabung."
 "Tetapi Aku berkata kepadamu
-"Dan engkau Kapernaum, apakah engkau akan dinaikkan sampai ke langit? Tidak, engkau akan diturunkan sampai ke dunia orang mati! Karena jika di Sodom terjadi mujizat-mujizat yang telah terjadi di tengah-tengah kamu, kota itu tentu masih berdiri sampai hari ini."
+"Dan engkau Kapernaum, apakah engkau akan dinaikkan sampai ke langit? Tidak, engkau akan diturunkan sampai ke dunia orang mati! Karena #jika di Sodom terjadi mujizat-mujizat yang telah terjadi di tengah-tengah kamu, kota itu tentu masih berdiri sampai hari ini."
 "Tetapi Aku berkata kepadamu
 "Pada waktu itu berkatalah Yesus
 "Ya Bapa, itulah yang berkenan kepada-Mu."
-"Semua telah diserahkan kepada-Ku oleh Bapa-Ku dan tidak seorangpun mengenal Anak selain Bapa, dan tidak seorangpun mengenal Bapa selain Anak dan orang yang kepadanya Anak itu berkenan menyatakannya."
+"Semua telah diserahkan kepada-Ku oleh Bapa-Ku dan tidak seorangpun mengenal Anak selain Bapa, dan tidak #seorangpun mengenal Bapa selain Anak dan orang yang kepadanya Anak itu berkenan menyatakannya."
 "Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu."
 "Pikullah kuk yang Kupasang dan belajarlah pada-Ku, karena Aku lemah lembut dan rendah hati dan jiwamu akan mendapat ketenangan."
 "Sebab kuk yang Kupasang itu enak dan beban-Kupun ringan."""

@@ -31,7 +31,7 @@
 "Mózes pedig mikor meglátta, elcsodálkozék a látáson. Mikor pedig oda méne, hogy megszemlélje, lõn az Úrnak szava õ hozzá
 "Én vagyok a te atyáidnak Istene, Ábrahámnak Istene, és Izsáknak Istene, és Jákóbnak Istene. Mózes pedig megrémülvén, nem meré megnézni."
 "Az Úr pedig monda néki
-"Látván láttam az én népemnek nyomorúságát, mely Égyiptomban van, és az õ fohászkodásukat meghallgattam, és azért szállottam le, hogy õket megszabadítsam; most azért jõjj, elküldelek téged Égyiptomba."
+"Látván láttam az én népemnek nyomorúságát, mely Égyiptomban van, és az õ fohászkodásukat meghallgattam, #és azért szállottam le, hogy õket megszabadítsam; most azért jõjj, elküldelek téged Égyiptomba."
 "Ezt a Mózest, a kit megtagadának, mondván
 "Ez hozta ki õket, csodákat és jeleket tévén Égyiptomnak földében és a Verestengeren és a pusztában negyven esztendeig."
 "Ez ama Mózes, ki az Izráel fiainak ezt mondotta

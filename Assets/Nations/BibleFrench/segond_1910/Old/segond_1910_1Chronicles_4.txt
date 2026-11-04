@@ -38,6 +38,6 @@
 "Ceux-là, désignés par leurs noms, étaient princes dans leurs familles, et leurs maisons paternelles prirent un grand accroissement."
 "Ils allèrent du côté de Guedor jusqu'à l'orient de la vallée, afin de chercher des pâturages pour leurs troupeaux."
 "Ils trouvèrent de gras et bons pâturages, et un pays vaste, tranquille et paisible, car ceux qui l'habitaient auparavant descendaient de Cham."
-"Ces hommes, inscrits par leurs noms, arrivèrent du temps d'Ezéchias, roi de Juda; ils attaquèrent leurs tentes et les Maonites qui se trouvaient là, ils les dévouèrent par interdit jusqu'à ce jour, et ils s'établirent à leur place, car il y avait là des pâturages pour leurs troupeaux."
+"Ces hommes, inscrits par leurs noms, arrivèrent du temps d'Ezéchias, roi de Juda; ils attaquèrent leurs tentes et les Maonites qui se trouvaient là, ils #les dévouèrent par interdit jusqu'à ce jour, et ils s'établirent à leur place, car il y avait là des pâturages pour leurs troupeaux."
 "Il y eut aussi des fils de Siméon qui allèrent à la montagne de Séir, au nombre de cinq cents hommes. Ils avaient à leur tête Pelathia, Nearia, Rephaja et Uziel, fils de Jischeï."
 "Ils battirent le reste des réchappés d'Amalek, et ils s'établirent là jusqu'à ce jour."

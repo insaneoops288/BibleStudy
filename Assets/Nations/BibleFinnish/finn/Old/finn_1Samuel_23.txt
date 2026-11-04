@@ -10,7 +10,7 @@
 "Ja David sanoi
 "Antanevatko Kegilan asuvaiset minun hänen käsiinsä? ja tulleeko Saul tänne niinkuin palvelias on kuullut? Herra Israelin Jumala, ilmoita se palvelialles! Ja Herra sanoi
 "Ja David sanoi
-"Niin David nousi miehinensä, joita oli liki kuusisataa miestä, ja läksivät Kegilasta ja vaelsivat sinne mihinkä he vaaeltaa taisivat. Koska Saulille sanottiin Davidin paenneen Kegilasta, lakkasi hän sinne menemästä."
+"Niin David nousi miehinensä, joita oli liki kuusisataa miestä, ja läksivät Kegilasta ja vaelsivat sinne #mihinkä he vaaeltaa taisivat. Koska Saulille sanottiin Davidin paenneen Kegilasta, lakkasi hän sinne menemästä."
 "Ja David pysyi korvessa linnoissa, viipyi myös Siphin korven vuorella. Ja Saul etsi häntä joka aika, mutta ei Jumala antanut häntä hänen käsiinsä."
 "Ja David näki Saulin lähteneeksi etsimään hänen henkensä perään, vaan David pysyi Siphin korvessa, yhdessä metsässä."
 "Niin Jonatan Saulin poika nousi ja meni Davidin tykö metsään, ja vahvisti hänen kätensä Jumalassa,"
@@ -20,10 +20,10 @@
 "Niin tule nyt kuningas kiiruusti alas kaiken sydämes himon jälkeen
 "Ja Saul sanoi
 "Menkäät siis ja tutkikaat paremmin, että te saisitte tietää ja nähdä sen paikan, jossa hänen jalkansa ovat, ja kuka hänen siellä on nähnyt; sillä minulle on hän sanottu sangen kavalaksi."
-"Tutkistelkaat ja vaotkaat kaikki salaiset paikat, joihin hän lymyttää itsensä, ja tulkaat jälleen minun tyköni, kuin saatte vahvan tiedon; niin minä menen teidän kanssanne. Jos hän tällä maalla on, niin minä hänen etsin kaikkein tuhanten seasta Juudassa."
+"Tutkistelkaat ja vaotkaat kaikki salaiset paikat, joihin hän lymyttää itsensä, ja tulkaat jälleen minun tyköni, kuin saatte vahvan tiedon; #niin minä menen teidän kanssanne. Jos hän tällä maalla on, niin minä hänen etsin kaikkein tuhanten seasta Juudassa."
 "Ja he nousivat ja menivät Siphiin Saulin edellä. Mutta David ja hänen miehensä olivat Maonin korvessa, oikialla puolella korpea, kedolla."
 "Kuin Saul matkusti sinne väkinensä etsimään häntä, ja se ilmoitettiin Davidille, meni hän kukkulalta alas, ja oli Maonin korvessa. Ja kuin Saul sen kuuli, ajoi hän Davidia takaa Maonin korvessa."
-"Ja Saul meni yhdeltä puolelta vuorta, ja David väkinensä toiselta puolelta vuorta. Ja koska David riensi pakenemaan Saulin edestä, piiritti Saul väkinensä Davidin ja hänen väkensä, ottaaksensa heitä kiinni."
+"Ja Saul meni yhdeltä puolelta vuorta, ja David väkinensä toiselta puolelta vuorta. Ja koska David #riensi pakenemaan Saulin edestä, piiritti Saul väkinensä Davidin ja hänen väkensä, ottaaksensa heitä kiinni."
 "Mutta sanansaattaja tuli Saulin tykö ja sanoi
 "Nin Saul palasi ajamasta Davidia takaa ja meni Philistealaisia vastaan; sentähden kutsutaan se paikka SelaMahelkot."
 "(H24

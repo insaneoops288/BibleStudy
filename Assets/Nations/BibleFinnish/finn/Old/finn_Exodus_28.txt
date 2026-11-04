@@ -1,6 +1,6 @@
 "Ja sinun pitää ottaman tykös sinun veljes Aaronin poikinensa Israelin lasten seasta, että hän olis minun pappini
 "Ja sinun pitää tekemän veljelles Aaronille pyhät vaatteet, kunniaksi ja kaunistukseksi."
-"Ja sinun pitää myös puhuman kaikkein niiden kanssa, joilla taitava sydän on, jotka minä taidon hengellä täyttänyt olen, että he tekevät vaatteita Aaronille hänen pyhittämiseksensä, että hän olis minun pappini."
+"Ja sinun pitää myös puhuman kaikkein niiden kanssa, joilla taitava sydän on, jotka minä taidon hengellä #täyttänyt olen, että he tekevät vaatteita Aaronille hänen pyhittämiseksensä, että hän olis minun pappini."
 "Ja nämät ovat vaatteet, jotka heidän tekemän pitää
 "Siihen pitää heidän ottaman kultaa, sinisiä, purpuraisia ja tulipunaisia villoja, ja kallista liinaa."
 "Päällisvaatteen pitää heidän tekemän kullasta, ja sinisistä, purpuraisista ja tulipunaisista villoista, ja kalliisti kerratusta liinasta, taitavasti."
@@ -27,7 +27,7 @@
 "Ja sinun pitää tekemän kaksi kultarengasta, ja paneman ne päällisvaatteen molemmille olkapäille toinen toisensa kohdalle, alaspäin, sen saumaa vasten, vaatteen vyön päälle."
 "Ja rintavaate pitää yhdistettämän renkaillansa sinisellä siteellä päällisvaatteen renkaisiin, niin että se olis päällisvaatetta liki, ettei rintavaate eriäis päällisvaatteesta."
 "Ja niin pitää Aaronin kantaman Israelin lasten nimet virankilvessä sydämensä päällä, koska hän pyhään sisälle menee, muistoksi Herran edessä alinomaisesti."
-"Ja sinun pitää paneman virankilpeen valkeudet ja täydellisyydet, jotka pitää oleman Aaronin sydämen päällä, koska hän menee Herran eteen. Ja niin pitää Aaronin kantaman Israelin lasten oikeuden sydämensä päällä aina Herran edessä."
+"Ja sinun pitää paneman virankilpeen valkeudet ja täydellisyydet, jotka pitää oleman Aaronin sydämen päällä, koska hän menee #Herran eteen. Ja niin pitää Aaronin kantaman Israelin lasten oikeuden sydämensä päällä aina Herran edessä."
 "Sinun pitää myös tekemän päällisvaatteen alle hameen, kaiken sinisistä villoista."
 "Ja ylinnä siinä pitää keskellä oleman pään läpi, ja sepalus sen läven ympärillä, pallistettu yhteen niinkuin pantsarin läpi, ettei se kehkiäisi."
 "Ja alhaalle hänen liepeisiinsä pitää sinun tekemän niinkuin granatin omenat sinisistä, purpuraisista ja tulipunaisista villoista ympärinsä
@@ -35,9 +35,9 @@
 "Ja Aaron pitää sen päällensä pitämän, koska hän palveluksen tekee, niin että siitä kuullaan kulina, koska hän menee pyhään, Herran eteen, ja hän käy ulos, ettei hän kuolisi."
 "Sinun pitää myös tekemän otsalehden puhtaasta kullasta, ja kaivaman siihen, niinkuin sinetti kaivetaan, HERRAN PYHYYS."
 "Ja sinun pitää sen sitoman sinisellä langalla, niin että se on hiipan päällä
-"Ja sen pitää oleman Aaronin otsalla, niin että Aaron kantaa pyhäin vääryyden, kuin Israelin lapset pyhittivät, kaikissa heidän pyhyytensä lahjoissa. Ja se pitää alinomati oleman hänen otsassansa, heille mielisuosioksi Herran edessä."
+"Ja sen pitää oleman Aaronin otsalla, niin että Aaron kantaa pyhäin vääryyden, kuin Israelin lapset pyhittivät, #kaikissa heidän pyhyytensä lahjoissa. Ja se pitää alinomati oleman hänen otsassansa, heille mielisuosioksi Herran edessä."
 "Sinun pitää myös tekemän ahtaan hameen kalliista liinasta, ja hiipan kalliista liinasta
 "Ja Aaronin pojille pitää sinun tekemän hameita, vöitä ja hiippoja, kunniaksi ja kaunistukseksi."
 "Ja sinun pitää ne puettaman veljes Aaronin ja hänen poikainsa ylle, ja pitää voiteleman heitä, ja täyttämän heidän kätensä, ja pyhittämän heitä, että he olisivat minun pappini."
 "Ja pitää tekemän heille liinaiset alusvaatteet, peittääksensä häpylihansa
-"Ja Aaron poikinensa pitää ne yllänsä pitämän, koska he menevät seurakunnan majaan, eli koska he lähestyvät alttaria palvelusta tekemään pyhässä, ettei heille kostettaisi heidän vääryyttänsä, ja he kuolisi. Se pitää oleman hänelle ja hänen siemenellensä hänen jälkeensä ijankaikkinen sääty."
+"Ja Aaron poikinensa pitää ne yllänsä pitämän, koska he menevät seurakunnan majaan, eli koska he lähestyvät alttaria palvelusta tekemään pyhässä, #ettei heille kostettaisi heidän vääryyttänsä, ja he kuolisi. Se pitää oleman hänelle ja hänen siemenellensä hänen jälkeensä ijankaikkinen sääty."

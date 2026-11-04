@@ -1,4 +1,4 @@
-"Tedy shromáždil Šalomoun k sobě do Jeruzaléma starší lidu Izraelského, a všecky přední z pokolení, totiž knížata čeledí otcovských s syny Izraelskými, aby přenesli truhlu smlouvy Hospodinovy z města Davidova, jenž jest Sion."
+"Tedy shromáždil Šalomoun k sobě do Jeruzaléma starší lidu Izraelského, a všecky přední z pokolení, totiž knížata #čeledí otcovských s syny Izraelskými, aby přenesli truhlu smlouvy Hospodinovy z města Davidova, jenž jest Sion."
 "I sešli se k králi Šalomounovi všickni muži Izraelští měsíce Etanim, v čas slavnosti; a ten měsíc jest sedmý."
 "A když přišli všickni starší Izraelští, vzali kněží truhlu."
 "I přenesli truhlu Hospodinovu a stánek úmluvy, i všecka nádobí posvátná, kteráž byla v stánku; a tak přenesli to kněží a Levítové."
@@ -13,11 +13,11 @@
 "Jižť jsem vystavěl dům k přebývání tvému, místo, v němž bys přebýval na věky."
 "A obrátiv král tvář svou, požehnání dával všemu shromáždění Izraelskému, všecko pak shromáždění Izraelské stálo."
 "A řekl
-"Od toho dne, kteréhož jsem vyvedl lid svůj Izraelský z Egypta, nevyvolil jsem města z žádného pokolení Izraelského k vystavení v něm domu, kdež by přebývalo jméno mé, ale Davida jsem vyvolil, aby spravoval lid můj Izraelský."
+"Od toho dne, kteréhož jsem vyvedl lid svůj Izraelský z Egypta, nevyvolil jsem města z žádného pokolení Izraelského k #vystavení v něm domu, kdež by přebývalo jméno mé, ale Davida jsem vyvolil, aby spravoval lid můj Izraelský."
 "Uložil tě byl zajisté v srdci svém David otec můj stavěti dům jménu Hospodina Boha Izraelského,"
 "Ale Hospodin řekl Davidovi otci mému
 "A však ty nebudeš stavěti toho domu, ale syn tvůj, kterýž vyjde z bedr tvých, on vystaví dům ten jménu mému."
-"A tak splnil Hospodin slovo své, kteréž byl mluvil. Nebo jsem povstal na místo Davida otce svého, a dosedl jsem na stolici Izraelskou, jakož byl mluvil Hospodin, a ustavěl jsem dům tento jménu Hospodina Boha Izraelského,"
+"A tak splnil Hospodin slovo své, kteréž byl mluvil. Nebo jsem povstal na místo Davida otce svého, a dosedl #jsem na stolici Izraelskou, jakož byl mluvil Hospodin, a ustavěl jsem dům tento jménu Hospodina Boha Izraelského,"
 "A připravil jsem tu místo truhle, v níž jest smlouva Hospodinova, kterouž učinil s otci našimi, když je vyvedl z země Egyptské."
 "Postavil se pak Šalomoun před oltářem Hospodinovým, přede vším shromážděním Izraelským, a pozdvihl rukou svých k nebi,"
 "A řekl
@@ -40,12 +40,12 @@
 "Aby se báli tebe po všecky dny, v nichž by živi byli na zemi, kterouž jsi dal otcům našim."
 "Nýbrž také cizozemec, kterýž není z lidu tvého Izraelského, přišel-li by z země daleké pro jméno tvé,"
 "(Neboť uslyší o jménu tvém velikém a ruce tvé přesilné, a rameni tvém vztaženém), přišel-li by tedy, a modlil by se v domě tomto
-"Ty vyslýchej na nebi v místě přebývání svého, a učiň všecko to, o čež volati bude k tobě cizozemec ten, aťby poznali všickni národové země jméno tvé, a báli se tebe jako lid tvůj Izraelský, a aby věděli, že jméno tvé vzýváno jest nad domem tímto, kterýž jsem vystavěl."
-"Když by vytáhl lid tvůj k boji proti nepříteli svému, cestou, kterouž bys poslal je, jestliže by se modlili Hospodinu naproti městu tomuto, kteréž jsi vyvolil, a naproti domu, kterýž jsem vystavěl jménu tvému
+"Ty vyslýchej na nebi v místě přebývání svého, a učiň všecko to, o čež volati bude k tobě cizozemec ten, aťby poznali všickni národové země #jméno tvé, a báli se tebe jako lid tvůj Izraelský, a aby věděli, že jméno tvé vzýváno jest nad domem tímto, kterýž jsem vystavěl."
+"Když by vytáhl lid tvůj k boji proti nepříteli svému, cestou, kterouž bys poslal je, jestliže by se #modlili Hospodinu naproti městu tomuto, kteréž jsi vyvolil, a naproti domu, kterýž jsem vystavěl jménu tvému
 "Tolikéž vyslýchej na nebi modlitbu jejich a úpění jejich, a vyveď při jejich."
-"Když by zhřešili proti tobě, (jakož není člověka, kterýž by nehřešil), a rozhněvaje se na ně, vydal bys je v moc nepříteli, tak že by je jaté vedli ti, kteříž by je zjímali, do země nepřátelské, daleké neb blízké,"
+"Když by zhřešili proti tobě, (jakož není člověka, kterýž by nehřešil), a rozhněvaje se na ně, vydal bys je v #moc nepříteli, tak že by je jaté vedli ti, kteříž by je zjímali, do země nepřátelské, daleké neb blízké,"
 "A usmyslili by sobě v zemi té, do kteréž by zajati byli, a obrátíce se, modlili by se tobě v zemi těch, kteříž je zzajímali, řkouce
-"A tak navrátili by se k tobě celým srdcem svým a celou duší svou v zemi nepřátel svých, kteříž je zzajímali, a modlili by se tobě naproti zemi své, kterouž jsi dal otcům jejich, naproti městu tomu, kteréž jsi vyvolil, a domu, kterýž jsem vzdělal jménu tvému
+"A tak navrátili by se k tobě celým srdcem svým a celou duší svou v zemi nepřátel svých, kteříž je zzajímali, a modlili by #se tobě naproti zemi své, kterouž jsi dal otcům jejich, naproti městu tomu, kteréž jsi vyvolil, a domu, kterýž jsem vzdělal jménu tvému
 "Vyslýchejž tedy na nebesích, v místě přebývání svého, modlitbu jejich a úpění jejich, a vyveď při jejich,"
 "A odpusť lidu svému, cožkoli zhřešil proti tobě, i všecka přestoupení jejich, jimiž přestoupili proti tobě, a nakloň k nim lítostí ty, kteříž je zjímali, aby se smilovali nad nimi."
 "Neboť jsou lid tvůj a dědictví tvé, kteréž jsi vyvedl z Egypta, z prostřed peci železné."
@@ -61,6 +61,6 @@
 "Budiž tedy srdce vaše celé k Hospodinu Bohu našemu, tak abyste chodili v ustanoveních jeho, ostříhajíce přikázaní jeho, tak jako dnešního dne."
 "Král pak a s ním všecken Izrael obětovali oběti před Hospodinem."
 "A obětoval Šalomoun v obět pokojnou, kterouž obětoval Hospodinu, volů dvamecítma tisíců, a ovec sto dvadceti tisíců, a posvěcovali domu Hospodinova král i všickni synové Izraelští."
-"Téhož dne posvětil král prostředku síně, kteráž byla před domem Hospodinovým; nebo obětoval tu oběti zápalné a oběti suché, a tuky pokojných obětí, proto že oltář měděný, kterýž byl před Hospodinem, byl malý, aniž mohly se na něm směstknati oběti zápalné a oběti suché, a tukové pokojných obětí."
-"A tak držel Šalomoun toho času slavnost, a všecken Izrael s ním, shromáždění veliké odtud, kudyž se chodí do Emat, až ku potoku Egyptskému, před Hospodinem Bohem naším, za sedm dní a opět za sedm dní, to jest za čtrnácte dní."
-"Dne pak osmého propustil lid. Kteříž požehnavše krále, odešli do obydlí svých, radujíce se a veselíce se v srdci ze všech dobrých věcí, kteréž učinil Hospodin Davidovi služebníku svému a Izraelovi lidu svému."
+"Téhož dne posvětil král prostředku síně, kteráž byla před domem Hospodinovým; nebo obětoval tu oběti zápalné a oběti suché, a tuky pokojných obětí, proto že #oltář měděný, kterýž byl před Hospodinem, byl malý, aniž mohly se na něm směstknati oběti zápalné a oběti suché, a tukové pokojných obětí."
+"A tak držel Šalomoun toho času slavnost, a všecken Izrael s ním, shromáždění veliké odtud, kudyž se chodí do Emat, až #ku potoku Egyptskému, před Hospodinem Bohem naším, za sedm dní a opět za sedm dní, to jest za čtrnácte dní."
+"Dne pak osmého propustil lid. Kteříž požehnavše krále, odešli do obydlí svých, radujíce se a veselíce se #v srdci ze všech dobrých věcí, kteréž učinil Hospodin Davidovi služebníku svému a Izraelovi lidu svému."

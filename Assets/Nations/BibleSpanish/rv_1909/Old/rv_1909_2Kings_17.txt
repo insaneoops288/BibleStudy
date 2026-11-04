@@ -12,7 +12,7 @@
 "Pues servían á los ídolos, de los cuales Jehová les había dicho
 "Jehová protestaba entonces contra Israel y contra Judá, por mano de todos los profetas, y de todos los videntes, diciendo
 "Mas ellos no obedecieron, antes endurecieron su cerviz, como la cerviz de sus padres, los cuales no creyeron en Jehová su Dios."
-"Y desecharon sus estatutos, y su pacto que él había concertado con sus padres, y sus testimonios que él había protestado contra ellos; y siguieron la vanidad, y se hicieron vanos, y fueron en pos de las gentes que estaban alrededor de ellos, de las cuales"
+"Y desecharon sus estatutos, y su pacto que él había concertado con sus padres, y sus testimonios que él había protestado contra ellos; y #siguieron la vanidad, y se hicieron vanos, y fueron en pos de las gentes que estaban alrededor de ellos, de las cuales"
 "Y dejaron todos los mandamientos de Jehová su Dios, é hiciéronse vaciadizos dos becerros, y también bosques, y adoraron á todo el ejército del cielo, y sirvieron á Baal
 "E hicieron pasar á sus hijos y á sus hijas por fuego; y diéronse á adivinaciones y agüeros, y entregáronse á hacer lo malo en ojos de Jehová, provocándole á ira."
 "Jehová por tanto se airó en gran manera contra Israel, y quitólos de delante de su rostro; que no quedó sino sólo la tribu de Judá."
@@ -21,7 +21,7 @@
 "Porque cortó á Israel de la casa de David, y ellos se hicieron rey á Jeroboam hijo de Nabat; y Jeroboam rempujó á Israel de en pos de Jehová, é hízoles cometer gran pecado."
 "Y los hijos de Israel anduvieron en todos los pecados de Jeroboam que él hizo, sin apartarse de ellos;"
 "Hasta tanto que Jehová quitó á Israel de delante de su rostro, como lo había él dicho por mano de todos los profetas sus siervos
-"Y trajo el rey de Asiria gente de Babilonia, y de Cutha, y de Ava, y de Hamath, y de Sepharvaim, y púsolos en las ciudades de Samaria, en lugar de los hijos de Israel; y poseyeron á Samaria, y habitaron en sus ciudades."
+"Y trajo el rey de Asiria gente de Babilonia, y de Cutha, y de Ava, y de Hamath, y de Sepharvaim, y púsolos #en las ciudades de Samaria, en lugar de los hijos de Israel; y poseyeron á Samaria, y habitaron en sus ciudades."
 "Y aconteció al principio, cuando comenzaron á habitar allí, que no temiendo ellos á Jehová, envió Jehová contra ellos leones que los mataban."
 "Entonces dijeron ellos al rey de Asiria
 "Y el rey de Asiria mandó, diciendo
@@ -31,7 +31,7 @@
 "Los Heveos hicieron á Nibhaz y á Tharthac; y los de Sepharvaim quemaban sus hijos al fuego á Adra-melech y á Anamelech, dioses de Sepharvaim."
 "Y temían á Jehová; é hicieron del pueblo bajo sacerdotes de los altos, quienes sacrificaban para ellos en los templos de los altos."
 "Temían á Jehová, y honraban á sus dioses, según la costumbre de las gentes de donde habían sido trasladados."
-"Hasta hoy hacen como primero; que ni temen á Jehová, ni guardan sus estatutos, ni sus ordenanzas, ni hacen según la ley y los mandamientos que prescribió Jehová á los hijos de Jacob, al cual puso el nombre de Israel;"
+"Hasta hoy hacen como primero; que ni temen á Jehová, ni guardan sus estatutos, ni sus ordenanzas, ni hacen según la #ley y los mandamientos que prescribió Jehová á los hijos de Jacob, al cual puso el nombre de Israel;"
 "Con los cuales había Jehová hecho pacto, y les mandó, diciendo
 "Mas á Jehová, que os sacó de tierra de Egipto con grande poder y brazo extendido, á éste temeréis, y á éste adoraréis, y á éste haréis sacrificio."
 "Los estatutos y derechos y ley y mandamientos que os dió por escrito, cuidaréis siempre de ponerlos por obra, y no temeréis dioses ajenos."

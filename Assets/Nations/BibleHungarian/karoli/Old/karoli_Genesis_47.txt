@@ -16,7 +16,7 @@
 "És monda József
 "És elvivék barmaikat Józsefhez, és ada nékik József kenyeret lovakért, juhokért, ökrökért és szamarakért
 "Mikor pedig elmúlék az esztendõ, menének hozzá a második esztendõben, és mondának néki
-"Miért veszszünk el szemed láttára mind magunk, mind földünk? végy meg minket és földünket kenyéren, és mi és a mi földünk szolgái leszünk a Faraónak; csak adj magot, hogy éljünk s ne haljunk meg, és a föld ne pusztuljon el."
+"Miért veszszünk el szemed láttára mind magunk, mind földünk? végy meg minket és földünket kenyéren, és mi és a mi földünk #szolgái leszünk a Faraónak; csak adj magot, hogy éljünk s ne haljunk meg, és a föld ne pusztuljon el."
 "Megvevé azért József egész Égyiptom földét a Faraó részére, mert az Égyiptombeliek mind eladák az õ földjöket, mivelhogy erõt vett vala rajtok az éhség. És a föld a Faraóé lõn."
 "A népet pedig egyik városból a másikba telepíté Égyiptom egyik határszélétõl másik széléig."
 "Csak a papok földét nem vevé meg, mert a papoknak szabott részök vala a Faraótól és abból a szabott részbõl élnek vala, a mit nékik a Faraó ád vala; annak okáért, nem adák el az õ földjöket."

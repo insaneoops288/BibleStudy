@@ -6,10 +6,10 @@
 "Y no vayáis en pos de dioses ajenos, sirviéndoles y adorándoles, ni me provoquéis a ira con la obra de vuestras manos; y no os haré mal."
 "Pero no me habéis oído, dice Jehová, para provocarme a ira con la obra de vuestras manos para mal vuestro."
 "Por tanto, así dice Jehová de los ejércitos
-"he aquí yo enviaré y tomaré todas las familias del norte, dice Jehová, y a Nabucodonosor rey de Babilonia, mi siervo, y los traeré contra esta tierra, y contra sus moradores, y contra todas estas naciones en derredor; y los destruiré, y los pondré por escarnio, y por silbo, y por perpetua desolación."
+"he aquí yo enviaré y tomaré todas las familias del norte, dice Jehová, y a Nabucodonosor rey de Babilonia, mi siervo, y los traeré contra esta tierra, #y contra sus moradores, y contra todas estas naciones en derredor; y los destruiré, y los pondré por escarnio, y por silbo, y por perpetua desolación."
 "Y haré que perezca de entre ellos la voz de gozo y la voz de alegría, la voz de desposado y la voz de desposada, el ruido de piedras de molino, y la luz de lámpara."
 "Y toda esta tierra será puesta en soledad, en espanto; y servirán estas gentes al rey de Babilonia setenta años."
-"Y será que, cuando fueren cumplidos los setenta años, castigaré al rey de Babilonia y a aquella nación por su maldad, dice Jehová, y sobre la tierra de los caldeos; y la convertiré en desiertos para siempre."
+"Y será que, cuando fueren cumplidos los setenta años, castigaré al rey de Babilonia y a aquella nación por #su maldad, dice Jehová, y sobre la tierra de los caldeos; y la convertiré en desiertos para siempre."
 "Y traeré sobre aquella tierra todas mis palabras que he hablado contra ella, con todo lo que está escrito en este libro, profetizado por Jeremías contra todas las naciones."
 "Porque se servirán también de ellos muchas naciones, y reyes grandes; y yo les pagaré conforme a sus hechos, y conforme a la obra de sus manos."
 "Porque así dice Jehová Dios de Israel
@@ -30,7 +30,7 @@
 "Tú pues, profetizarás a ellos todas estas palabras, y les dirás
 "Llegó el estruendo hasta el cabo de la tierra; porque Jehová tiene litigio con las naciones; Él es el Juez de toda carne; entregará los impíos a espada, dice Jehová."
 "Así dice Jehová de los ejércitos
-"Y en aquel día los muertos por Jehová estarán desde un extremo de la tierra hasta el otro extremo; no se endecharán, ni se recogerán, ni serán enterrados; serán como estiércol sobre la faz de la tierra."
+"Y en aquel día los muertos por Jehová estarán desde un extremo de la tierra hasta el otro extremo; #no se endecharán, ni se recogerán, ni serán enterrados; serán como estiércol sobre la faz de la tierra."
 "Aullad, pastores, y clamad; y revolcaos en el polvo, mayorales del rebaño; porque cumplidos son vuestros días para ser vosotros degollados y esparcidos, y caeréis como vaso de codicia."
 "Y se acabará la huida de los pastores, y el escape de los mayorales del rebaño."
 "¡Voz del clamor de los pastores, y aullido de los mayorales del rebaño! porque Jehová asoló sus majadas."

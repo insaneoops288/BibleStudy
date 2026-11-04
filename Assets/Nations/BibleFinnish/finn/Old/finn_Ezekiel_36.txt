@@ -8,7 +8,7 @@
 "Mutta te, Israelin vuoret, teidän pitää viheriöitsemän, joka pian pitää tapahtuman."
 "Sillä katso, minä käännän itseni taas teidän tykönne, että te viljeltäisiin ja kylvettäisiin."
 "Ja teen teidän tykönänne paljon kansaa, koko Israelin huoneen kaikki tyynni; ja kaupungissa pitää taas asuttaman, ja autiot rakennettaman."
-"Minä annan teidän kansanne ja karjanne lisääntyä, niin että te enenette ja kasvatte; ja panen teidän siihen jälleen asumaan niinkuin muinenkin ja teen teille enempi hyvää kuin joskus ennen; ja teidän pitää ymmärtämän, että minä olen Herra."
+"Minä annan teidän kansanne ja karjanne lisääntyä, niin että te enenette ja kasvatte; ja panen teidän siihen jälleen asumaan #niinkuin muinenkin ja teen teille enempi hyvää kuin joskus ennen; ja teidän pitää ymmärtämän, että minä olen Herra."
 "Minä annan kansan tulla teidän tykönne, minun kansani Israelin, heidän pitää sinussa asuman, ja sinun pitää oleman heidän perintönsä, ja ei sinun pidä enään lapsettomaksi tuleman."
 "Näin sanoo Herra
 "Sentähden ei enään sinun pidä syömän ihmisiä, eli kansaas tekemän lapsettomaksi, sanoo Herra, Herra."
@@ -20,7 +20,7 @@
 "Ja kuin he myös tulivat pakanain tykö, kuhunka he tulivat, häpäisivät he minun pyhän nimeni, että heistä sanottiin
 "Mutta minä säästin minun pyhän nimeni tähden, jonka Israelin huone häpäisi pakanain seassa, kuhunka he tulivat."
 "Sentähden pitää sinun sanoman Israelin huoneelle
-"Sillä minä tahdon pyhittää minun suuren nimeni, joka teiltä pakanain seassa suuresti häväisty on, ja pakanain pitää ymmärtämän minun olevan Herran, sanoo Herra, Herra, koska minä itseni osoitan teissä heidän edessänsäm että minä olen pyhä."
+"Sillä minä tahdon pyhittää minun suuren nimeni, joka teiltä pakanain seassa suuresti häväisty on, ja pakanain pitää ymmärtämän #minun olevan Herran, sanoo Herra, Herra, koska minä itseni osoitan teissä heidän edessänsäm että minä olen pyhä."
 "Sillä minä tuon teidät pakanoista, ja kokoon teitä kaikista maakunnista, ja annan teidän tulla jälleen teidän maahanne."
 "Ja priiskotan puhdasta vettä teidän päällenne, niin että te tulette puhtaaksi; kaikesta teidän saastaisuudestanne ja kaikista teidän epäjumalistanne puhdistan minä teitä."
 "Ja annan teille uuden sydämen, ja uuden hengen annan minä teihin; ja otan pois teidän lihastanne kivisen sydämen, ja annan teille sydämen lihasta."

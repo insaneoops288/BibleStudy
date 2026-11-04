@@ -1,4 +1,4 @@
-"CUANDO Jehová tu Dios te hubiere introducido en la tierra en la cual tú has de entrar para poseerla, y hubiere echado de delante de ti muchas gentes, al Hetheo, al Gergeseo, y al Amorrheo, y al Cananeo, y al Pherezeo, y al Heveo, y al Jebuseo, siete nacio"
+"CUANDO Jehová tu Dios te hubiere introducido en la tierra en la cual tú has de entrar para poseerla, y hubiere echado de delante de #ti muchas gentes, al Hetheo, al Gergeseo, y al Amorrheo, y al Cananeo, y al Pherezeo, y al Heveo, y al Jebuseo, siete nacio"
 "Y Jehová tu Dios las hubiere entregado delante de ti, y las hirieres, del todo las destruirás
 "Y no emparentarás con ellos
 "Porque desviará á tu hijo de en pos de mí, y servirán á dioses ajenos; y el furor de Jehová se encenderá sobre vosotros, y te destruirá presto."
@@ -10,7 +10,7 @@
 "Y que da el pago en su cara al que le aborrece, destruyéndolo
 "Guarda por tanto los mandamientos, y estatutos, y derechos que yo te mando hoy que cumplas."
 "Y será que, por haber oído estos derechos, y guardado y puéstolos por obra, Jehová tu Dios guardará contigo el pacto y la misericordia que juró á tus padres;"
-"Y te amará, y te bendecirá, y te multiplicará, y bendecirá el fruto de tu vientre, y el fruto de tu tierra, y tu grano, y tu mosto, y tu aceite, la cría de tus vacas, y los rebaños de tus ovejas, en la tierra que juró á tus padres que te daría."
+"Y te amará, y te bendecirá, y te multiplicará, y bendecirá el fruto de tu vientre, y el fruto de tu tierra, y tu grano, y tu #mosto, y tu aceite, la cría de tus vacas, y los rebaños de tus ovejas, en la tierra que juró á tus padres que te daría."
 "Bendito serás más que todos los pueblos
 "Y quitará Jehová de ti toda enfermedad; y todas las malas plagas de Egipto, que tú sabes, no las pondrá sobre ti, antes las pondrá sobre todos los que te aborrecieren."
 "Y consumirás á todos los pueblos que te da Jehová tu Dios

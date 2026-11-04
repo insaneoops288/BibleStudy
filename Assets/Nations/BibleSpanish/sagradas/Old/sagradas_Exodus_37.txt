@@ -16,9 +16,9 @@
 "También hizo los vasos que <I>habían de estar</I>  sobre la mesa, sus platos, y sus cucharas, y sus cubiertos y sus tazones con que se había de cubrir <I>el pan</I> , de oro fino."
 "Hizo asimismo el candelero de oro puro, el cual lo hizo <I>labrado</I>  a martillo
 "De sus lados salían seis cañas; tres cañas de un lado del candelero, y otras tres cañas del <I>otro</I>  lado del candelero;"
-"en una caña <I>había</I> , tres copas figura de almendras, <I>una</I>  manzana y <I>una</I>  flor; y en la otra caña <I>había</I>  tres copas figura de almendras, <I>otra</I>  manzana y otra flor; y así en <I>todas</I>  las  seis cañas que salían del candelero."
+"en una caña <I>había</I> , tres copas figura de almendras, <I>una</I>  manzana y <I>una</I>  flor; y en la otra caña <I>había</I>  tres #copas figura de almendras, <I>otra</I>  manzana y otra flor; y así en <I>todas</I>  las  seis cañas que salían del candelero."
 "Y en el <I>mismo</I>  candelero <I>había</I>  cuatro copas figura de almendras, sus manzanas y sus flores;"
-"y <I>una</I>  manzana debajo de las dos cañas de lo mismo, y otra manzana debajo de las <I>otras</I>  dos cañas de lo mismo, y otra manzana debajo de las otras dos cañas de lo mismo, por las seis cañas que salían de él."
+"y <I>una</I>  manzana debajo de las dos cañas de lo mismo, y otra manzana debajo de las <I>otras</I>  dos cañas de #lo mismo, y otra manzana debajo de las otras dos cañas de lo mismo, por las seis cañas que salían de él."
 "Sus manzanas y sus cañas eran de lo mismo; todo era una pieza <I>labrada</I>  a martillo, de oro puro."
 "Hizo asimismo sus siete candilejas, y sus despabiladeras, y sus platillos, de oro puro;"
 "de un talento de oro puro lo hizo, con todos sus vasos."

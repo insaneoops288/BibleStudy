@@ -10,7 +10,7 @@
 "và nói rằng
 "Ma-ô-mi đáp
 "Hỡi hai con gái ta, hãy trở về đi đi; mẹ già quá mà lấy chồng nữa. Lại dầu bây giờ mẹ nói chiều nay ta sẽ có chồng, dẫu ta sanh đẻ con trai đi nữa,"
-"chúng con há lại muốn đợi cho đến chúng nó khôn lớn, và không lấy chồng khác hay sao? Không, hỡi chúng con, nỗi sầu thảm của mẹ cay đắng muôn phần hơn của chúng con, vì tay của Ðức Giê-hô-va đã giơ ra hại mẹ."
+"chúng con há lại muốn đợi cho đến chúng nó khôn lớn, và không lấy chồng khác hay sao? Không, hỡi chúng con, nỗi #sầu thảm của mẹ cay đắng muôn phần hơn của chúng con, vì tay của Ðức Giê-hô-va đã giơ ra hại mẹ."
 "Hai nàng lại cất tiếng lên khóc. Ðoạn, Oït-ba hôn và từ biệt bà gia mình; còn Ru-tơ không chịu phân rẽ người."
 "Na-ô-mi nói cùng Ru-tơ rằng
 "Ru-tơ thưa rằng

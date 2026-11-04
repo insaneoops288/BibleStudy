@@ -1,7 +1,7 @@
 "E aconteceu que, quando o rei Ezequias ouviu [isso] , ele rasgou suas roupas, cobriu-se de saco, e entrou na casa do SENHOR."
 "Então ele enviou Eliaquim o administrador da casa real, Sebna o escriba, e os anciãos dos sacerdotes, cobertos de sacos, ao profeta Isaías, filho de Amoz."
 "E lhe disseram
-"Talvez o SENHOR venha a ouvir as palavras de Rabsaqué, a quem seu senhor, o rei da Assíria, enviou, para afrontar ao Deus vivente; e repreenda as palavras que o SENHOR teu Deus tem ouvido. Faze, pois, oração pelos restantes, que [ainda] se encontram."
+"Talvez o SENHOR venha a ouvir as palavras de Rabsaqué, a quem seu senhor, o rei da Assíria, enviou, para afrontar ao Deus #vivente; e repreenda as palavras que o SENHOR teu Deus tem ouvido. Faze, pois, oração pelos restantes, que [ainda] se encontram."
 "E os servos do rei vieram até Isaías,"
 "E Isaías lhes disse
 "Eis que porei nele um espírito de tal maneira que, quando ouvir um rumor, ele voltará à sua terra; e eu o derrubarei pela espada em sua [própria] terra."
@@ -23,7 +23,7 @@
 "A quem afrontaste? [De quem] blasfemaste? E contra quem levantaste a voz, e levantaste aos olhos arrogantemente? Contra o Santo de Israel!"
 "Por meio de teus servos afrontaste ao Senhor, e disseste
 "Eu cavei, e bebi as águas; e com as plantas dos meus pés secarei todos os rios do Egito."
-"Por acaso não ouviste que desde muito antes eu fiz isto, e deste os dias antigos o tinha planejado? Agora eu fiz isto acontecer, para que tu fosses o que destruirias as cidades fortificadas, [reduzindo-as] a amontoados de ruínas."
+"Por acaso não ouviste que desde muito antes eu fiz isto, e deste os dias antigos o tinha planejado? Agora #eu fiz isto acontecer, para que tu fosses o que destruirias as cidades fortificadas, [reduzindo-as] a amontoados de ruínas."
 "Por isso os moradores delas, com as mãos impotentes, ficaram atemorizados e envergonhados; eram [como] a erva do campo, e a grama verde, o capim dos telhados e o trigo queimado antes de crescer."
 "Porém eu sei o teu sentar, o teu sair, o teu entrar, e o teu furor contra mim."
 "Por causa de teu furor contra mim, e teu tumulto que subiu aos meus ouvidos, por isso porei meu anzol em teu nariz, e meu freio em tua boca; e te farei voltar pelo caminho em que vieste."
@@ -35,4 +35,4 @@
 "Porque eu defenderei esta cidade para a livrar, por causa de mim e por causa do meu servo Davi."
 "Então o anjo do SENHOR saiu, e feriu no acampamento dos assírios cento e oitenta mil [deles] ; e levantando-se pela manhã cedo, eis que todos eram cadáveres."
 "Assim Senaqueribe, rei da Assíria, partiu-se, e foi embora, voltou, e ficou em Nínive."
-"E sucedeu que, enquanto ele estava prostrado na casa de seu deus Nisroque, seus filhos Adrameleque e Sarezer o feriram a espada; então eles escaparam para a terra de Ararate; e Esar-Hadom, seu filho, reinou em seu lugar."
+"E sucedeu que, enquanto ele estava prostrado na casa de seu deus Nisroque, seus filhos Adrameleque e Sarezer o feriram #a espada; então eles escaparam para a terra de Ararate; e Esar-Hadom, seu filho, reinou em seu lugar."

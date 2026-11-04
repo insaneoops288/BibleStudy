@@ -3,7 +3,7 @@
 "E tutto il popolo si spiccò i pendenti d’oro che avea agli orecchi; e li portò ad Aaronne."
 "Ed egli li prese dalle lor mani; e, dopo aver fatto il modello con lo scarpello, ne fece un vitello di getto. E gl’Israeliti dissero
 "Ed Aaronne, veggendo questo, edificò un altare davanti ad esso; e fece fare una grida, dicendo
-"E la mattina seguente, i figliuoli di Israele si levarono a buon’ora, e sacrificarono olocausti, e offersero sacrificii da render grazie; e il popolo si assettò per mangiare e per bere; poi si levò per sollazzare."
+"E la mattina seguente, i figliuoli di Israele si levarono a buon’ora, e sacrificarono olocausti, e offersero sacrificii da #render grazie; e il popolo si assettò per mangiare e per bere; poi si levò per sollazzare."
 "E il Signore disse a Mosè
 "Essi si son tosto stornati dalla via che io avea lor comandata; essi si hanno fatto un vitello di getto, e l’hanno adorato, e gli hanno sacrificato, e hanno detto
 "Il Signore disse ancora a Mosè
@@ -17,7 +17,7 @@
 "Or Giosuè udì il romor del popolo, mentre gridava, e disse a Mosè
 "E Mosè disse
 "E, come egli fu vicino al campo, vide quel vitello e le danze. E l’ira sua si accese, ed egli gittò le Tavole dalle sue mani, e le spezzò appiè del monte."
-"Poi prese il vitello, che i figliuoli d’Israele aveano fatto, e lo bruciò col fuoco, e lo tritò, finchè fu ridotto in polvere; e sparse quella polvere sopra dell’acqua, e fece bere quell’acqua a’ figliuoli d’Israele."
+"Poi prese il vitello, che i figliuoli d’Israele aveano fatto, e lo bruciò col fuoco, e lo tritò, finchè #fu ridotto in polvere; e sparse quella polvere sopra dell’acqua, e fece bere quell’acqua a’ figliuoli d’Israele."
 "E Mosè disse ad Aaronne
 "Ed Aaronne disse
 "Essi mi dissero

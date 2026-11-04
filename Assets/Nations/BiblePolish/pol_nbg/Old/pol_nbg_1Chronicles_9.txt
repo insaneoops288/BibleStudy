@@ -16,7 +16,7 @@
 "Także Obadjasz, syn Szemaji, syna Galala, syna Jedutuna, oraz Berekiasz, syn Asy, syna Elkana, który mieszkał we wsiach Netofy."
 "I odźwierni
 "Ten, który aż dotąd stawał w bramie królewskiej na wschodzie słońca. Ci byli odźwiernymi według zastępów synów Lewiego."
-"A Sallum, syn Korego, syna Ebiasafa, syna Koracha, i jego bracia z domu ojca, Korachici, byli stróżami progów namiotu przy sprawowaniu posługi; a ich ojcowie byli stróżami wejścia na terenie obozu WIEKUISTEGO."
+"A Sallum, syn Korego, syna Ebiasafa, syna Koracha, i jego bracia z domu ojca, Korachici, byli stróżami #progów namiotu przy sprawowaniu posługi; a ich ojcowie byli stróżami wejścia na terenie obozu WIEKUISTEGO."
 "Zaś przełożonym nad nimi był Pinchas, syn Elazara, i był z nim WIEKUISTY."
 "A Zacharjasz, syn Meszelemiasza, był odźwiernym drzwi u Namiotu Zgromadzenia."
 "Ci wszyscy zostali wybrani za odźwiernych do drzwi dwieście dwanaście osób

@@ -14,7 +14,7 @@
 "Pastaj do të vijë fisi i Gadit; prijësi i bijve të Gadit është Eliasafi, bir i Reuelit,"
 "ata që u regjistruan në divizionin e tij ishin dyzet e pesë mijë e gjashtëqind e pesëdhjetë."
 "Tërë ata që janë regjistruar në kampin e Rubenit, simbas divizioneve të tyre, ishin njëqind e pesëdhjetë e një mijë e katërqind e pesëdhjetë. Këta do ta fillojnë marshimin të dytët."
-"Pastaj do të niset për marshim çadra e mbledhjes bashkë me kampin e Levitëve në mes të kampeve të tjera. Do ta fillojnë marshimin në po atë rend të sistemimit të tyre, duke qëndruar secili në vendin e tij, pranë flamurit të vet."
+"Pastaj do të niset për marshim çadra e mbledhjes bashkë me kampin e Levitëve në mes të kampeve të tjera. Do ta #fillojnë marshimin në po atë rend të sistemimit të tyre, duke qëndruar secili në vendin e tij, pranë flamurit të vet."
 "Në krahun perëndimor do të jetë flamuri i kampit të Efraimit simbas renditjes së tij, prijësi i bijve të Efraimit është Elishama, bir i Amihudit;"
 "ata që u regjistruan në divizionin e tij ishin dyzet mijë e pesëqind."
 "Pranë tij do të zërë vend fisi i Manasit; prijësi i bijve të Manasit është Gamalieli, bir i Pedahtsurit;"
@@ -29,6 +29,6 @@
 "Pastaj do të vijë fisi i Neftalit; prijësi i bijve të Neftalit është Ahira, bir i Enanit;"
 "ata që u regjistruan në divizionin e tij ishin pesëdhjetë e tre mijë e katërqind."
 "Të gjithë ata që u regjistruan në divizionin e Danit, ishin njëqind e pesëdhjetë e shtatë mijë e gjashtëqind. Ata do të nisen për marshim të fundit, pranë flamujve të tyre""."
-"Këta janë bijtë e Izraelit që u regjistruan në bazë të shtëpive të etërve të tyre. Të gjithë ata që u regjistruan në kampet e ndryshme simbas divizioneve të tyre ishin gjashtëqind e tre mijë e pesëqind e pesëdhjetë."
+"Këta janë bijtë e Izraelit që u regjistruan në bazë të shtëpive të etërve të tyre. Të gjithë ata që #u regjistruan në kampet e ndryshme simbas divizioneve të tyre ishin gjashtëqind e tre mijë e pesëqind e pesëdhjetë."
 "Por Levitët nuk u regjistruan me bijtë e Izraelit, sepse kështu e kishte urdhëruar Zoti Moisiun."
 "Bijtë e Izraelit iu bindën të gjitha urdhrave që Zoti i kishte dhënë Moisiut

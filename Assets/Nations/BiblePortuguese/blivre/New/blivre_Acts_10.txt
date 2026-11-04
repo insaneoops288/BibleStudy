@@ -14,7 +14,7 @@
 "Mas Pedro disse
 "E a voz voltou a [dizer] , pela segunda vez
 "E isto aconteceu três vezes; e o objeto voltou a ser recolhido acima ao céu."
-"E enquanto Pedro estava pensando perplexo consigo mesmo o que seria aquela visão que ele tinha visto, eis que os homens que tinham sido enviados por Cornélio, perguntando pela casa de Simão, pararam à porta."
+"E enquanto Pedro estava pensando perplexo consigo mesmo o que seria aquela visão que ele tinha visto, eis #que os homens que tinham sido enviados por Cornélio, perguntando pela casa de Simão, pararam à porta."
 "E chamando, perguntaram se Simão, que tinha por sobrenome Pedro, estava hospedado ali."
 "E estando Pedro pensando naquela visão, o Espírito lhe disse
 "Então levanta-te, desce, e vai com eles, sem duvidar; porque eu os enviei."

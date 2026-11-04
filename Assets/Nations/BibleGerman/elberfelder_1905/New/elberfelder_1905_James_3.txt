@@ -3,7 +3,7 @@
 "Siehe, den Pferden legen wir die Gebisse in die Mäuler, damit sie uns gehorchen, und lenken ihren ganzen Leib."
 "Siehe, auch die Schiffe, die so groß sind, und von heftigen Winden getrieben werden, werden durch ein sehr kleines Steuerruder gelenkt, wohin irgend der Trieb des Steuermanns will."
 "So ist auch die Zunge ein kleines Glied und rühmt sich großer Dinge. Siehe, ein kleines Feuer, welch einen großen Wald zündet es an!"
-"Und die Zunge ist ein Feuer, die Welt der Ungerechtigkeit. Die Zunge ist unter unseren Gliedern gesetzt, als die den ganzen Leib befleckt und den Lauf der Natur anzündet und von der Hölle angezündet wird."
+"Und die Zunge ist ein Feuer, die Welt der Ungerechtigkeit. Die Zunge ist unter unseren Gliedern gesetzt, als #die den ganzen Leib befleckt und den Lauf der Natur anzündet und von der Hölle angezündet wird."
 "Denn jede Natur, sowohl der Tiere als der Vögel, sowohl der kriechenden als der Meertiere, wird gebändigt und ist gebändigt worden durch die menschliche Natur;"
 "die Zunge aber kann keiner der Menschen bändigen
 "Mit ihr preisen wir den Herrn und Vater, und mit ihr fluchen wir den Menschen, die nach dem Bilde Gottes geworden sind."

@@ -13,7 +13,7 @@
 "tomaram ramos de palmeiras, e saíram-lhe ao encontro, e clamavam
 "E achou Jesus um jumentinho e montou nele, conforme está escrito
 "Não temas, ó filha de Sião; eis que vem teu Rei, montado sobre o filho de uma jumenta."
-"Os seus discípulos, porém, a princípio não entenderam isto; mas quando Jesus foi glorificado, então eles se lembraram de que estas coisas estavam escritas a respeito dele, e de que assim lhe fizeram."
+"Os seus discípulos, porém, a princípio não entenderam isto; mas quando Jesus foi glorificado, então eles se #lembraram de que estas coisas estavam escritas a respeito dele, e de que assim lhe fizeram."
 "Dava-lhe, pois, testemunho a multidão que estava com ele quando chamara a Lázaro da sepultura e o ressuscitara dentre os mortos;"
 "e foi por isso que a multidão lhe saiu ao encontro, por ter ouvido que ele fizera este sinal."
 "De sorte que os fariseus disseram entre si

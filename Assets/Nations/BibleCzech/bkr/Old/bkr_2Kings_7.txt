@@ -5,7 +5,7 @@
 "Vstavše tedy v soumrak, aby šli k vojsku Syrských, přišli až k kraji ležení Syrského, a hle, nebylo tu žádného."
 "Nebo Pán učinil to, aby slyšelo vojsko Syrské hřmot vozů a zvuk koňů, a tak hluk vojska velikého. I řekli jeden druhému
 "A vstavše, utekli v soumrak a nechali tu stanů svých, a koňů svých i oslů svých, a ležení, tak jakž bylo, a utekli pro zachování života svého."
-"Když tedy přišli malomocní ti na kraj ležení, všedše do jednoho stanu, jedli a pili, a pobravše v něm stříbro a zlato i roucha, odešli a schovali. Opět navrátivše se, vešli do jiného stanu a pobrali v něm, a odšedše, schovali."
+"Když tedy přišli malomocní ti na kraj ležení, všedše do jednoho stanu, jedli a pili, a pobravše v něm stříbro a #zlato i roucha, odešli a schovali. Opět navrátivše se, vešli do jiného stanu a pobrali v něm, a odšedše, schovali."
 "I řekli vespolek
 "A přišedše, volali na branné města, a pověděli jim, řkouce
 "I volal ten na jiné branné, a ti ohlásili to po všem domě královském."

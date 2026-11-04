@@ -19,7 +19,7 @@
 "Harás, pues, un querubín al extremo de un lado, y un querubín al otro extremo del lado opuesto; harás los querubines en sus dos extremidades."
 "Y los querubines extenderán por encima las dos alas, cubriendo con sus alas la cubierta; sus caras la una enfrente de la otra, mirando a la cubierta las caras de los querubines."
 "Y pondrás la cubierta sobre el arca, y en el arca pondrás el testimonio que <I>yo</I>  te daré."
-"Y de allí me testificaré a ti, y hablaré contigo de sobre la cubierta, de entre los dos querubines que <I>estarán</I>  sobre el arca del testimonio, todo lo que yo te mandaré para los hijos de Israel."
+"Y de allí me testificaré a ti, y hablaré contigo de sobre la cubierta, de entre los dos querubines que #<I>estarán</I>  sobre el arca del testimonio, todo lo que yo te mandaré para los hijos de Israel."
 "Harás asimismo <I>una</I>  mesa de madera de cedro
 "Y la cubrirás de oro puro, y le harás <I>una</I>  corona de oro alrededor."
 "Le harás también <I>una</I>  moldura alrededor, <I>del ancho</I>  de una mano, a la moldura harás <I>una</I>  corona de oro en circunferencia."
@@ -30,9 +30,9 @@
 "Y pondrás sobre la mesa el pan de la proposición delante de mí continuamente."
 "Harás además <I>un</I>  candelero de oro puro; <I>labrado</I>  a martillo se hará el candelero
 "y saldrán seis cañas de sus lados
-"tres copas en forma de almendras en una caña, <I>una</I>  manzana y <I>una</I>  flor; y tres copas, en forma de almendras en la otra caña, <I>una</I>  manzana y <I>una</I>  flor; así pues, en las seis cañas que salen del  candelero."
+"tres copas en forma de almendras en una caña, <I>una</I>  manzana y <I>una</I>  flor; y tres copas, en forma de almendras #en la otra caña, <I>una</I>  manzana y <I>una</I>  flor; así pues, en las seis cañas que salen del  candelero."
 "Y en el candelero cuatro copas en forma de almendras, sus manzanas y sus flores."
-"<I>Habrá</I>  una manzana debajo de las dos cañas, de lo mismo, <I>otra</I>  manzana debajo de las <I>otras</I>  dos cañas, de lo mismo, <I>otra</I>  manzana debajo de las <I>otras</I> dos cañas de lo mismo, en las seis  cañas que salen del candelero."
+"<I>Habrá</I>  una manzana debajo de las dos cañas, de lo mismo, <I>otra</I>  manzana debajo de las <I>otras</I>  dos cañas, de lo #mismo, <I>otra</I>  manzana debajo de las <I>otras</I> dos cañas de lo mismo, en las seis  cañas que salen del candelero."
 "Sus manzanas y sus cañas serán de lo mismo, todo ello una pieza <I>labrada</I>  a martillo, de oro puro."
 "Y le harás siete candilejas, las cuales le pondrás encima para que alumbren a la parte de su delantera."
 "También sus despabiladeras y sus platillos, de oro puro."

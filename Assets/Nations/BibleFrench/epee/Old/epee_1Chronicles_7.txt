@@ -25,8 +25,8 @@
 "Il eut pour fils Réphach, et Résheph; puis vinrent Thélach, son fils; Tachan, son fils;"
 "Laedan, son fils; Ammihud, son fils; Élishama, son fils;"
 "Nun, son fils; Josué, son fils."
-"Leur propriété et leur habitation était Béthel et les villes de son ressort; à l'orient, Naaran; à l'occident, Guézer et les villes de son ressort, Sichem et les villes de son ressort, jusqu'à Gaza et les villes de son ressort;"
-"Les fils de Manassé possédaient Beth-Shéan et les villes de son ressort; Thaanac et les villes de son ressort; Méguiddo et les villes de son ressort; Dor et les villes de son ressort. Dans ces villes habitèrent les enfants de Joseph, fils d'Israël."
+"Leur propriété et leur habitation était Béthel et les villes de son ressort; à l'orient, Naaran; à l'occident, Guézer et les #villes de son ressort, Sichem et les villes de son ressort, jusqu'à Gaza et les villes de son ressort;"
+"Les fils de Manassé possédaient Beth-Shéan et les villes de son ressort; Thaanac et les villes de son ressort; Méguiddo et les #villes de son ressort; Dor et les villes de son ressort. Dans ces villes habitèrent les enfants de Joseph, fils d'Israël."
 "Enfants d'Asser
 "Fils de Béria
 "Héber engendra Japhlet, Shomer, Hotham, et Shua, leur soeur."
@@ -37,4 +37,4 @@
 "Betser, Hod, Shamma, Shilsha, Jithran et Béera."
 "Fils de Jéther
 "Fils d'Ulla
-"Tous ceux-là étaient enfants d'Asser, chefs des maisons de leurs pères, hommes choisis, vaillants guerriers, chefs des princes, enregistrés dans l'armée, pour la guerre, au nombre de vingt-six mille hommes."
+"Tous ceux-là étaient enfants d'Asser, chefs des maisons de leurs pères, hommes choisis, vaillants guerriers, chefs #des princes, enregistrés dans l'armée, pour la guerre, au nombre de vingt-six mille hommes."

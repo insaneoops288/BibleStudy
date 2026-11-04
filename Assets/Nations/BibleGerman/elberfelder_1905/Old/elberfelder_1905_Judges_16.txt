@@ -1,6 +1,6 @@
 "Und Simson ging nach Gasa, und er sah daselbst eine Hure und ging zu ihr ein."
 "Und es wurde den Gasitern berichtet und gesagt
-"Und Simson lag bis Mitternacht. Um Mitternacht aber stand er auf und ergriff die Flügel des Stadttores und die beiden Pfosten, und riß sie samt dem Riegel heraus und legte sie auf seine Schultern; und er trug sie auf den Gipfel des Berges, der gegen Hebron hin liegt."
+"Und Simson lag bis Mitternacht. Um Mitternacht aber stand er auf und ergriff die Flügel des Stadttores und die beiden Pfosten, und riß sie samt #dem Riegel heraus und legte sie auf seine Schultern; und er trug sie auf den Gipfel des Berges, der gegen Hebron hin liegt."
 "Und es geschah hernach, da liebte er ein Weib im Tale Sorek, ihr Name war Delila."
 "Und die Fürsten der Philister gingen zu ihr hinauf und sprachen zu ihr
 "Da sprach Delila zu Simson
@@ -28,4 +28,4 @@
 "Und Simson rief zu Jehova und sprach
 "Und Simson umfaßte die beiden Mittelsäulen, auf welchen das Haus ruhte,(und er stützte sich darauf) die eine mit seiner Rechten und die andere mit seiner Linken;"
 "und Simson sprach
-"Und seine Brüder und das ganze Haus seines Vaters kamen herab und hoben ihn auf; und sie gingen hinauf und begruben ihn zwischen Zorha und Eschtaol, im Grabe Manoahs, seines Vaters. Er hatte aber Israel zwanzig Jahre gerichtet."
+"Und seine Brüder und das ganze Haus seines Vaters kamen herab und hoben ihn auf; und sie gingen hinauf und #begruben ihn zwischen Zorha und Eschtaol, im Grabe Manoahs, seines Vaters. Er hatte aber Israel zwanzig Jahre gerichtet."

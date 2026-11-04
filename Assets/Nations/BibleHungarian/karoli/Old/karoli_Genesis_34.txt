@@ -4,7 +4,7 @@
 "Szóla pedig Sekhem Khámornak az õ atyjának, mondván
 "És meghallá Jákób, hogy megszeplõsítette Dínát, az õ leányát, fiai pedig a mezõn valának a barommal, azért veszteg marada Jákób, míg azok megjövének."
 "És kiméne Khámor, Sekhem atyja Jákóbhoz, hogy szóljon vele."
-"Mikor Jákób fiai megjövének a mezõrõl és meghallák a [dolgot,] elkeseredének s nagyon megharaguvának azok az emberek, azért hogy ocsmányságot cselekedett Izráelben, Jákób leányával hálván, a minek nem kellett volna történni."
+"Mikor Jákób fiai megjövének a mezõrõl és meghallák a [dolgot,] elkeseredének s nagyon megharaguvának azok az #emberek, azért hogy ocsmányságot cselekedett Izráelben, Jákób leányával hálván, a minek nem kellett volna történni."
 "És szóla nékik Khámor, mondván
 "És szerezzetek velünk sógorságot
 "És lakjatok velünk; a föld elõttetek van, lakjátok, s kereskedjetek rajta és bírjátok azt."

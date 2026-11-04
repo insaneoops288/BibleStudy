@@ -41,7 +41,7 @@
 "Ti a ti atyátok dolgait cselekszitek. Mondának azért néki
 "Monda azért nékik Jézus
 "Miért nem értitek az én beszédemet? Mert nem hallgatjátok az én szómat."
-"Ti az ördög atyától valók vagytok, és a ti atyátok kívánságait akarjátok teljesíteni. Az emberölõ volt kezdettõl fogva, és nem állott meg az igazságban, mert nincsen õ benne igazság. Mikor hazugságot szól, a sajátjából szól; mert hazug és hazugság atyja."
+"Ti az ördög atyától valók vagytok, és a ti atyátok kívánságait akarjátok teljesíteni. Az emberölõ volt kezdettõl fogva, és nem állott #meg az igazságban, mert nincsen õ benne igazság. Mikor hazugságot szól, a sajátjából szól; mert hazug és hazugság atyja."
 "Mivelhogy pedig én igazságot szólok, nem hisztek nékem."
 "Ki vádol engem közületek bûnnel? Ha pedig igazságot szólok
 "A ki az Istentõl van, hallgatja az Isten beszédeit; azért nem hallgatjátok ti, mert nem vagytok az Istentõl valók."

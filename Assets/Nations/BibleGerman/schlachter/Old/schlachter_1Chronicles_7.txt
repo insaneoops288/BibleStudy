@@ -18,7 +18,7 @@
 "Und seine Schwester Hammolechet gebar Ischhod und Abieser und Machla."
 "Und die Söhne Semidas waren
 "Und die Söhne Ephraims
-"und dessen Sohn Tachat, und dessen Sohn Sabad und dessen Sohn Schutelach; ferner Eser und Elad. Und es ermordeten sie die Männer von Gat, die Eingeborenen des Landes; denn sie waren hinabgezogen, ihre Herden wegzunehmen."
+"und dessen Sohn Tachat, und dessen Sohn Sabad und dessen Sohn Schutelach; ferner Eser und Elad. Und es #ermordeten sie die Männer von Gat, die Eingeborenen des Landes; denn sie waren hinabgezogen, ihre Herden wegzunehmen."
 "Und Ephraim, ihr Vater, trauerte lange Zeit, und es kamen seine Brüder, ihn zu trösten."
 "Und er ging ein zu seinem Weibe, und sie empfing und gebar einen Sohn, und er nannte seinen Namen Beria, weil Unglück sein Haus getroffen hatte."
 "Und seine Tochter war Scheera, die baute Betchoron, das untere und das obere, und Ussen-Scheera."
@@ -26,7 +26,7 @@
 "dessen Sohn Ladan, dessen Sohn Ammichud, dessen Sohn Elischama,"
 "dessen Sohn Non, dessen Sohn Josua."
 "Und ihr Eigentum und ihre Wohnungen waren Bethel und seine Dörfer, gegen Aufgang Naaran, gegen Untergang Geser und seine Dörfer, Sichem und seine Dörfer, bis nach Gassa und seinen Dörfern;"
-"und nach der Seite der Söhne Manasses waren Beth-Schean und seine Dörfer, Taanach und seine Dörfer, Megiddo und seine Dörfer, Dor und seine Dörfer. Darin wohnten die Kinder Josephs, des Sohnes Israels."
+"und nach der Seite der Söhne Manasses waren Beth-Schean und seine Dörfer, Taanach und seine Dörfer, Megiddo #und seine Dörfer, Dor und seine Dörfer. Darin wohnten die Kinder Josephs, des Sohnes Israels."
 "Die Söhne Assers
 "Und die Söhne Berias
 "Und Cheber zeugte Japhlet und Schomer und Chotam und Schua, ihre Schwester."

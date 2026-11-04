@@ -1,6 +1,6 @@
 "Inilah tempat-tempat persinggahan orang Israel, setelah mereka keluar dari tanah Mesir, pasukan demi pasukan, di bawah pimpinan Musa dan Harun;"
 "Musa menuliskan perjalanan mereka dari tempat persinggahan ke tempat persinggahan sesuai dengan titah TUHAN; dan inilah tempat-tempat persinggahan mereka dalam perjalanan mereka
-"Mereka berangkat dari Rameses pada bulan yang pertama, pada hari yang kelima belas bulan yang pertama itu; pada hari sesudah Paskah berjalanlah orang Israel keluar, oleh tangan yang dinaikkan, di depan mata semua orang Mesir,"
+"Mereka berangkat dari Rameses pada bulan yang pertama, pada hari yang kelima belas bulan yang pertama itu; pada #hari sesudah Paskah berjalanlah orang Israel keluar, oleh tangan yang dinaikkan, di depan mata semua orang Mesir,"
 "sementara orang Mesir sedang menguburkan orang-orang yang telah dibunuh TUHAN di antara mereka, yakni semua anak sulung; sebab TUHAN telah menjatuhkan hukuman-hukuman kepada para allah mereka."
 "Berangkatlah orang Israel dari Rameses, lalu berkemah di Sukot."
 "Mereka berangkat dari Sukot, lalu berkemah di Etam yang di tepi padang gurun."
@@ -35,7 +35,7 @@
 "Mereka berangkat dari Abrona, lalu berkemah di Ezion-Geber."
 "Mereka berangkat dari Ezion-Geber, lalu berkemah di padang gurun Zin, yaitu Kadesh."
 "Mereka berangkat dari Kadesh, lalu berkemah di gunung Hor, di perbatasan tanah Edom."
-"Ketika itu imam Harun naik ke gunung Hor sesuai dengan titah TUHAN, dan di situ ia mati pada tahun keempat puluh sesudah orang Israel keluar dari tanah Mesir, pada bulan yang kelima, pada tanggal satu bulan itu;"
+"Ketika itu imam Harun naik ke gunung Hor sesuai dengan titah TUHAN, dan di situ ia mati pada tahun #keempat puluh sesudah orang Israel keluar dari tanah Mesir, pada bulan yang kelima, pada tanggal satu bulan itu;"
 "Harun berumur seratus dua puluh tiga tahun, ketika ia mati di gunung Hor."
 "Pada waktu itu raja negeri Arad, orang Kanaan itu, yang tinggal di Tanah Negeb di tanah Kanaan, mendengar kabar tentang kedatangan orang Israel."
 "Berangkatlah mereka dari gunung Hor, lalu berkemah di Zalmona."
@@ -49,8 +49,8 @@
 "Mereka berkemah di tepi sungai Yordan, dari Bet-Yesimot sampai ke Abel-Sitim di dataran Moab."
 "TUHAN berfirman kepada Musa di dataran Moab di tepi sungai Yordan dekat Yerikho
 """Berbicaralah kepada orang Israel dan katakanlah kepada mereka
-"maka haruslah kamu menghalau semua penduduk negeri itu dari depanmu dan membinasakan segala batu berukir kepunyaan mereka; juga haruslah kamu membinasakan segala patung tuangan mereka dan memusnahkan segala bukit pengorbanan mereka."
+"maka haruslah kamu menghalau semua penduduk negeri itu dari depanmu dan membinasakan segala batu berukir kepunyaan #mereka; juga haruslah kamu membinasakan segala patung tuangan mereka dan memusnahkan segala bukit pengorbanan mereka."
 "Haruslah kamu menduduki negeri itu dan diam di sana, sebab kepadamulah Kuberikan negeri itu untuk diduduki."
 "Maka haruslah kamu membagi negeri itu sebagai milik pusaka dengan membuang undi menurut kaummu
-"Tetapi jika kamu tidak menghalau penduduk negeri itu dari depanmu, maka orang-orang yang kamu tinggalkan hidup dari mereka akan menjadi seperti selumbar di matamu dan seperti duri yang menusuk lambungmu, dan mereka akan menyesatkan kamu di negeri yang kamu diami itu."
+"Tetapi jika kamu tidak menghalau penduduk negeri itu dari depanmu, maka orang-orang yang kamu tinggalkan hidup dari mereka akan menjadi seperti #selumbar di matamu dan seperti duri yang menusuk lambungmu, dan mereka akan menyesatkan kamu di negeri yang kamu diami itu."
 "Maka akan Kulakukan kepadamu seperti yang Kurancang melakukan kepada mereka."""

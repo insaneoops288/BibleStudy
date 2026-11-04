@@ -1,6 +1,6 @@
 Then the LORD spoke to Moses, saying,
 "Command the children of Israel that they bring to you pure oil of pressed olives for the light, to make the lamps burn continually.
-"Outside the veil of the Testimony, in the tabernacle of meeting, Aaron shall be in charge of it from evening until morning before the LORD continually; it shall be a statute forever in your generations.
+"Outside the veil of the Testimony, in the tabernacle of meeting, Aaron shall be in charge of it #from evening until morning before the LORD continually; it shall be a statute forever in your generations.
 "He shall be in charge of the lamps on the pure gold lampstand before the LORD continually.
 "And you shall take fine flour and bake twelve cakes with it. Two-tenths of an ephah shall be in each cake.
 "You shall set them in two rows, six in a row, on the pure gold table before the LORD.
@@ -13,7 +13,7 @@ Then they put him in custody, that the mind of the LORD might be shown to them.
 And the LORD spoke to Moses, saying,
 "Take outside the camp him who has cursed; then let all who heard him lay their hands on his head, and let all the congregation stone him.
 "Then you shall speak to the children of Israel, saying, 'Whoever curses his God shall bear his sin.
-'And whoever blasphemes the name of the LORD shall surely be put to death. All the congregation shall certainly stone him, the stranger as well as him who is born in the land. When he blasphemes the name of the Lord, he shall be put to death.
+'And whoever blasphemes the name of the LORD shall surely be put to death. All the congregation shall certainly stone him, the stranger as #well as him who is born in the land. When he blasphemes the name of the Lord, he shall be put to death.
 'Whoever kills any man shall surely be put to death.
 'Whoever kills an animal shall make it good, animal for animal.
 'If a man causes disfigurement of his neighbor, as he has done, so shall it be done to him,,

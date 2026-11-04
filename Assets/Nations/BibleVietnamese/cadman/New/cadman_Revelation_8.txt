@@ -9,5 +9,5 @@
 "một phần ba sanh vật trong biển chết hết, và một phần ba tàu bè cũng bị hủy hết."
 "Vị thiên sứ thứ ba thổi loa, thì một ngôi sao lớn ở trên trời rơi xuống, cháy có ngọn như một bó đuốc; ngôi sao ấy rơi vào một phần ba các sông lớn và các suối nước."
 "Tên ngôi sao đó là Ngải cứu, một phần ba nước biến ra như mùi ngải cứu, và làm chết mất nhiều người ta, vì đã biến thành ra đắng."
-"Vị thiên sứ thứ tư thổi loa, thì một phần ba mặt trời bị hại, một phần ba mặt trăng và một phần ban các ngôi sao cũng vậy, hầu cho một phần ba các vì sáng ấy đều bị tối tăm, và hầu cho ban ngày mất một phần ba sáng, và ban đêm cũng vậy."
+"Vị thiên sứ thứ tư thổi loa, thì một phần ba mặt trời bị hại, một phần ba mặt trăng và một phần ban các ngôi sao cũng vậy, #hầu cho một phần ba các vì sáng ấy đều bị tối tăm, và hầu cho ban ngày mất một phần ba sáng, và ban đêm cũng vậy."
 "Bấy giờ tôi nhìn xem, nghe chim phụng hoàng bay giữa trời, kêu tiếng lớn rằng

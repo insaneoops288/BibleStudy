@@ -15,8 +15,8 @@
 "Además un canastillo de cenceñas, tortas de flor de harina amasadas con aceite, y hojaldres cenceñas untadas con aceite, y su presente, y sus libaciones."
 "Y el sacerdote lo ofrecerá delante de Jehová, y hará su expiación y su holocausto
 "Y ofrecerá el carnero en sacrificio de paces á Jehová, con el canastillo de las cenceñas; ofrecerá asimismo el sacerdote su presente, y sus libaciones."
-"Entonces el Nazareo raerá á la puerta del tabernáculo del testimonio la cabeza de su nazareato, y tomará los cabellos de la cabeza de su nazareato, y los pondrá sobre el fuego que está debajo del sacrificio de las paces."
-"Después tomará el sacerdote la espaldilla cocida del carnero, y una torta sin levadura del canastillo, y una hojaldre sin levadura, y pondrálas sobre las manos del Nazareo, después que fuere raído su nazareato
+"Entonces el Nazareo raerá á la puerta del tabernáculo del testimonio la cabeza de su nazareato, y tomará los cabellos de #la cabeza de su nazareato, y los pondrá sobre el fuego que está debajo del sacrificio de las paces."
+"Después tomará el sacerdote la espaldilla cocida del carnero, y una torta sin levadura del canastillo, y una #hojaldre sin levadura, y pondrálas sobre las manos del Nazareo, después que fuere raído su nazareato
 "Y el sacerdote mecerá aquello, ofrenda agitada delante de Jehová; lo cual será cosa santa del sacerdote, á más del pecho mecido y de la espaldilla separada
 "Esta es la ley del Nazareo que hiciere voto de su ofrenda á Jehová por su nazareato, á más de lo que su mano alcanzare
 "Y Jehová habló á Moisés, diciendo

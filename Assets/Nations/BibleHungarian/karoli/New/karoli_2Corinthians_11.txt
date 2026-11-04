@@ -23,7 +23,7 @@
 "Krisztus szolgái-é? (balgatagul szólok) én méginkább; több fáradság, több vereség, több börtön, gyakorta való halálos [veszedelem] által."
 "A zsidóktól ötször kaptam negyvenet egy híján."
 "Háromszor megostoroztak, egyszer megköveztek, háromszor hajótörést szenvedtem, éjt-napot a mélységben töltöttem;"
-"Gyakorta való utazásban, veszedelemben folyó vizeken, veszedelemben rablók közt, veszedelemben népem között, veszedelemben pogányok között, veszedelemben városban, veszedelemben pusztában, veszedelemben tengeren, veszedelemben hamis atyafiak közt;"
+"Gyakorta való utazásban, veszedelemben folyó vizeken, veszedelemben rablók közt, veszedelemben népem között, veszedelemben #pogányok között, veszedelemben városban, veszedelemben pusztában, veszedelemben tengeren, veszedelemben hamis atyafiak közt;"
 "Fáradságban és nyomorúságban, gyakorta való virrasztásban, éhségben és szomjúságban, gyakorta való bõjtölésben, hidegben és mezítelenségben."
 "Mindezeken kívül van az én naponkénti zaklattatásom, az összes gyülekezetek gondja."
 "Ki beteg, hogy én is beteg ne volnék? Ki botránkozik meg, hogy én is ne égnék?"

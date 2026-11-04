@@ -2,13 +2,13 @@
 "Jos varas käsitetään, koska hän itsensä sisälle kangottaa, ja hän lyödään kuoliaaksi, niin ei pidä tappajan vereen vikapään oleman."
 "Vaan jos aurinko on noussut hänen ylitsensä, niin pitää tappajan kuolemaan vikapään oleman
 "Jos varkaan kappale löydetään täydellisesti hänen tyköänsä, härkä, aasi, eli lammas; niin pitää hänen jällensä kaksikertaisesti maksaman."
-"Jos joku syöttää toisen pellon eli viinamäen, niin että hän päästää sisälle karjansa, ja syöttää toisen pellossa, hänen pitää siitä parhaasta, kuin hänen omassa pellossansa eli viinamäessänsä löydetään maksaman."
+"Jos joku syöttää toisen pellon eli viinamäen, niin että hän päästää sisälle karjansa, ja syöttää #toisen pellossa, hänen pitää siitä parhaasta, kuin hänen omassa pellossansa eli viinamäessänsä löydetään maksaman."
 "Jos valkia vallallensa pääsee, ja orjantappuroihin syttyy, niin että kykäät eli laiho, eli pelto poltetaan, niin sen pitää maksaman, kuin valkian päästi."
 "Jos joku antaa lähimmäisellensä rahaa, eli muuta kalua kätköön, ja se varastetaan hänen huoneestansa
 "Ja jos ei varas löydetä, niin pitää huoneen isäntä tuotaman tuomarien eteen vannotettaa, jos ei hän ole käsiänsä satuttanut lähimmäisensä kaluun."
 "Kaiken väärän asian tähden härjästä eli aasista, taikka lampaasta, eli vaatteesta ja kaiken sen tähden kuin pois tullut on, josta joku sanoo
 "Jos joku antaa lähimmäisellensä aasin, eli härjän, eli lampaan, taikka mikä eläin se olis, tähteelle, ja se kuolee, taikka saa muutoin vamman, taikka ajetaan pois, ettei yksikään sitä näe
-"Niin pitää valan heidän molempain välillänsä käymän Herran kautta, ettei hän ole satuttanut kättänsä lähimmäisensä kaluun; ja sen jonka kalu oma oli, pitää siihen tyytymän, ja toisen ei pidä sitä maksaman."
+"Niin pitää valan heidän molempain välillänsä käymän Herran kautta, ettei hän ole satuttanut kättänsä lähimmäisensä kaluun; #ja sen jonka kalu oma oli, pitää siihen tyytymän, ja toisen ei pidä sitä maksaman."
 "Jos varas sen varastaa häneltä, niin pitää hänen sen maksaman sen isännälle."
 "Mutta jos se raadeltu on, niin pitää hänen todistajat tuoman, ja ei mitään jälleen antaman."
 "Jos joku ottaa lainaksi lähimmäiseltänsä, ja se tulee rivinomaksi eli kuolee, niin ettei sen isäntä ole läsnä, niin hänen pitää sen kokonansa maksaman."

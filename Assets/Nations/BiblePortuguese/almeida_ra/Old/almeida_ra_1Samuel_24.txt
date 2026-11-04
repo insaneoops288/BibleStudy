@@ -8,7 +8,7 @@
 "Depois também David se levantou e, saindo da caverna, gritou por detrás de Saul, dizendo
 "Então disse David a Saul
 "Eis que os teus olhos acabam de ver que o Senhor hoje te pôs em minhas mãos nesta caverna; e alguns disseram que eu te matasse, porém a minha mão te poupou; pois eu disse
-"Olha, meu pai, vê aqui a orla do teu manto na minha mão, pois cortando-te eu a orla do manto, não te matei. Considera e vê que não há na minha mão nem mal nem transgressão alguma, e que não pequei contra ti, ainda que tu andes à caça da minha vida para ma tirares."
+"Olha, meu pai, vê aqui a orla do teu manto na minha mão, pois cortando-te eu a orla do manto, não te matei. Considera e vê que não #há na minha mão nem mal nem transgressão alguma, e que não pequei contra ti, ainda que tu andes à caça da minha vida para ma tirares."
 "Julgue o Senhor entre mim e ti, e vingue-me o Senhor de ti; a minha mão, porém, não será contra ti."
 "Como diz o provérbio dos antigos
 "Após quem saiu o rei de Israel? a quem persegues tu? A um cão morto, a uma pulga!"

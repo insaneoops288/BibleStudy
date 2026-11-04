@@ -2,7 +2,7 @@
 "Saül choisit trois mille hommes d'Israël
 "Jonathan battit le poste des Philistins qui était à Guéba, et les Philistins l'apprirent. Saül fit sonner de la trompette dans tout le pays, en disant
 "Tout Israël entendit que l'on disait
-"Les Philistins s'assemblèrent pour combattre Israël. Ils avaient mille chars et six mille cavaliers, et ce peuple était innombrable comme le sable qui est sur le bord de la mer. Ils vinrent camper à Micmasch, à l'orient de Beth-Aven."
+"Les Philistins s'assemblèrent pour combattre Israël. Ils avaient mille chars et six mille cavaliers, et ce peuple était innombrable comme #le sable qui est sur le bord de la mer. Ils vinrent camper à Micmasch, à l'orient de Beth-Aven."
 "Les hommes d'Israël se virent à l'extrémité, car ils étaient serrés de près, et ils se cachèrent dans les cavernes, dans les buissons, dans les rochers, dans les tours et dans les citernes."
 "Il y eut aussi des Hébreux qui passèrent le Jourdain, pour aller au pays de Gad et de Galaad. Saül était encore à Guilgal, et tout le peuple qui se trouvait auprès de lui tremblait."
 "Il attendit sept jours, selon le terme fixé par Samuel. Mais Samuel n'arrivait pas à Guilgal, et le peuple se dispersait loin de Saül."
@@ -11,7 +11,7 @@
 "Samuel dit
 "je me suis dit
 "Samuel dit à Saül
-"et maintenant ton règne ne durera point. L'Eternel s'est choisi un homme selon son coeur, et l'Eternel l'a destiné à être le chef de son peuple, parce que tu n'as pas observé ce que l'Eternel t'avait commandé."
+"et maintenant ton règne ne durera point. L'Eternel s'est choisi un homme selon son coeur, et l'Eternel l'a destiné #à être le chef de son peuple, parce que tu n'as pas observé ce que l'Eternel t'avait commandé."
 "Puis Samuel se leva, et monta de Guilgal à Guibea de Benjamin. Saül fit la revue du peuple qui se trouvait avec lui
 "Saül, son fils Jonathan, et le peuple qui se trouvait avec eux, avaient pris position à Guéba de Benjamin, et les Philistins campaient à Micmasch."
 "Il sortit du camp des Philistins trois corps pour ravager

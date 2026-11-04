@@ -29,7 +29,7 @@
 "Iar Isus a răspuns și a zis
 "Și [care] să nu primească cumva însutit acum în acest timp, case și frați și surori și mame și copii și pământuri, cu persecuții; și în lumea ce vine, viață eternă."
 "Dar mulți [care sunt] cei dintâi vor fi cei de pe urmă și cei de pe urmă vor fi cei dintâi."
-"Și erau pe cale, urcându-se la Ierusalim; și Isus mergea înaintea lor; și erau uimiți; și pe când îl urmau, le era teamă. Și i-a strâns din nou pe cei doisprezece și a început să le spună ce lucruri i se vor întâmpla,"
+"Și erau pe cale, urcându-se la Ierusalim; și Isus mergea înaintea lor; și erau uimiți; și pe când îl urmau, le era #teamă. Și i-a strâns din nou pe cei doisprezece și a început să le spună ce lucruri i se vor întâmpla,"
 "[Spunând
 "Și îl vor batjocori și îl vor biciui și îl vor scuipa și îl vor ucide; și a treia zi va învia."
 "Și Iacov și Ioan, fiii lui Zebedei, vin la el, spunând

@@ -7,7 +7,7 @@
 """Kështu thotë Zoti, Perëndia i Izraelit
 "Kaldeasit do të kthehen dhe do të luftojnë kundër këtij qyteti, do ta shtien në dorë dhe do ti vënë flakën""."
 "Kështu thotë Zoti
-"Edhe sikur të arrini ta mundni tërë ushtrinë e Kaldeasve që luftojnë kundër jush dhe të mbeteshin vetëm disa të plagosur, këta do të ngriheshin secili në çadrën e vet dhe do t'i vinin flakën këtij qyteti""."
+"Edhe sikur të arrini ta mundni tërë ushtrinë e Kaldeasve që luftojnë kundër jush dhe të mbeteshin vetëm disa #të plagosur, këta do të ngriheshin secili në çadrën e vet dhe do t'i vinin flakën këtij qyteti""."
 "Ndodhi që, kur ushtria e Kaldeasve u largua nga Jeruzalemi për shkak të ushtrisë së Faraonit,"
 "Jeremia doli nga Jeruzalemi për të shkuar në vendin e Beniaminit për të marrë pjesën e tij të trashëgimisë në mes të popullit."
 "Por, kur arriti te porta e Beniaminit, ku ishte një kapiten roje që quhej Irijah, biri i Shelemiahut, bir i Hananiahut, ky e arrestoi profetin Jeremia, duke thënë
@@ -18,4 +18,4 @@
 "Përveç kësaj Jeremia i tha mbretit Sedekia
 "Ku janë tani profetët tuaj që ju profetizonin duke thënë
 "Tani dëgjo, të lutem, o mbret imzot, lutja ime të jetë e pëlqyer para teje dhe mos më kthe në shtëpinë e shkruesit Jonathan, që të mos vdes atje""."
-"Atëherë mbreti Sedekia urdhëroi që Jeremia të ruhej në oborrin e burgut dhe t'i jepej çdo ditë një copë bukë nga rruga e furrtarëve, deri sa të mbarohej gjithë buka e qytetit. Kështu Jeremia mbeti në oborrin e burgut."
+"Atëherë mbreti Sedekia urdhëroi që Jeremia të ruhej në oborrin e burgut dhe t'i jepej çdo ditë një copë bukë #nga rruga e furrtarëve, deri sa të mbarohej gjithë buka e qytetit. Kështu Jeremia mbeti në oborrin e burgut."

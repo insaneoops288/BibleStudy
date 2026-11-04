@@ -14,8 +14,8 @@
 "Mówiący szóstemu Aniołowi, który miał trąbę
 "I rozwiązani są oni czterej Aniołowie, zgotowani na godzinę i na dzień, i na miesiąc, i na rok, aby pobili trzecią część ludzi."
 "A liczba wojska jezdnego była dwieściekroć tysiąc tysięcy; bom słyszał liczbę ich."
-"Widziałem także konie w widzeniu, a ci, którzy siedzieli na nich, mieli pancerze ogniste hijacyntowe i siarczane; a głowy onych koni były jako głowy lwie, a z gęby ich wychodził ogień i dym i siarka."
+"Widziałem także konie w widzeniu, a ci, którzy siedzieli na nich, mieli pancerze ogniste hijacyntowe i siarczane; a #głowy onych koni były jako głowy lwie, a z gęby ich wychodził ogień i dym i siarka."
 "A od tego trojga pobita jest trzecia część ludzi od ognia i od dymu, i od siarki, które wychodziły z gąb ich."
 "Albowiem moc ich jest w gębach ich i w ogonach ich; bo ogony ich wężom są podobne, mając głowy, któremi szkodzą."
-"A inni ludzie, którzy nie są pobici temi plagami, ani pokutowali od uczynków rąk swoich, aby się nie kłaniali dyjabłom i bałwanom złotym i srebrnym, i miedzianym, i kamiennym i drewnianym, którzy ani widzieć nie mogą, ani słyszeć, ani chodzić;"
+"A inni ludzie, którzy nie są pobici temi plagami, ani pokutowali od uczynków rąk swoich, aby się nie kłaniali dyjabłom i #bałwanom złotym i srebrnym, i miedzianym, i kamiennym i drewnianym, którzy ani widzieć nie mogą, ani słyszeć, ani chodzić;"
 "Ani pokutowali z mężobójstw swoich, ani z czarów swoich, ani z wszeteczeństw swoich, ani z złodziejstw swoich."

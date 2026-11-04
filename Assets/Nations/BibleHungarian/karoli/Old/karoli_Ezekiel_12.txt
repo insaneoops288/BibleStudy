@@ -4,7 +4,7 @@
 "És vidd ki eszközeidet, úgy, mint vándorútra való eszközöket, nappal szemök láttára, te pedig menj ki estve szemök láttára, úgy a hogy a vándorok szoktak."
 "Szemök láttára lyukaszd át a falat, és azon át vidd ki."
 "Szemök láttára emeld válladra, a sötétben vidd ki, orczádat fedd be, hogy ne lásd a földet, mert csodajelül rendeltelek az Izráel házának."
-"Úgy cselekedtem azért, a mint parancsolva vala nékem; eszközeimet kihordám nappal, mint vándorútra való eszközöket, és este átlyukasztám a falat kezemmel; a sötétben kivivém, vállamra emelém szemök láttára."
+"Úgy cselekedtem azért, a mint parancsolva vala nékem; eszközeimet kihordám nappal, mint vándorútra való eszközöket, #és este átlyukasztám a falat kezemmel; a sötétben kivivém, vállamra emelém szemök láttára."
 "És lõn az Úr beszéde én hozzám reggel, mondván
 "Embernek fia! Nem mondta-é néked Izráel háza, ez a pártos ház
 "Mondjad nékik

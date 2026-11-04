@@ -1,6 +1,6 @@
 "Es kam aber eine Teuerung ins Land nach der vorigen, so zu Abrahams Zeiten war. Und Isaak zog zu Abimelech, der Philister König, zu Gerar.{~}"
 "Da erschien ihm der HERR und sprach
-"Sei ein Fremdling in diesem Lande, und ich will mit dir sein und dich segnen; denn dir und deinem Samen will ich alle diese Länder geben und will meinen Eid bestätigen, den ich deinem Vater Abraham geschworen habe,"
+"Sei ein Fremdling in diesem Lande, und ich will mit dir sein und dich segnen; denn dir und deinem Samen #will ich alle diese Länder geben und will meinen Eid bestätigen, den ich deinem Vater Abraham geschworen habe,"
 "und will deinem Samen mehren wie die Sterne am Himmel und will deinem Samen alle diese Länder geben. Und durch deinen Samen sollen alle Völker auf Erden gesegnet werden,"
 "darum daß Abraham meiner Stimme gehorsam gewesen ist und hat gehalten meine Rechte, meine Gebote, meine Weise und mein Gesetz."
 "Also wohnte Isaak zu Gerar."
@@ -15,7 +15,7 @@
 "und verstopften alle Brunnen, die seines Vaters Knechte gegraben hatten zur Zeit Abrahams, seines Vaters, und füllten sie mit Erde;"
 "daß auch Abimelech zu ihm sprach
 "Da zog Isaak von dannen und schlug sein Gezelt auf im Grunde Gerar und wohnte allda"
-"und ließ die Wasserbrunnen wieder aufgraben, die sie zu Abrahams, seines Vaters, Zeiten gegraben hatten, welche die Philister verstopft hatten nach Abrahams Tod, und nannte sie mit demselben Namen mit denen sie sein Vater genannt hatte.{~}"
+"und ließ die Wasserbrunnen wieder aufgraben, die sie zu Abrahams, seines Vaters, Zeiten gegraben hatten, welche die Philister verstopft #hatten nach Abrahams Tod, und nannte sie mit demselben Namen mit denen sie sein Vater genannt hatte.{~}"
 "Auch gruben Isaaks Knechte im Grunde und fanden daselbst einen Brunnen lebendigen Wassers."
 "Aber die Hirten von Gerar zankten mit den Hirten Isaaks und sprachen
 "Da gruben sie einen andern Brunnen. Darüber zankten sie auch, darum hieß er ihn Sitna."

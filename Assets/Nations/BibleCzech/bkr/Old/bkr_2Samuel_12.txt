@@ -1,7 +1,7 @@
 "Protož poslal Hospodin Nátana k Davidovi. Kterýž přišed k němu, řekl jemu
 "Bohatý měl ovec i volů velmi mnoho,"
-"Chudý pak neměl nic, kromě jednu ovečku malou, kterouž byl koupil a choval, až i odrostla při něm a při dětech jeho tolikéž. Chléb jeho jedla a z číše jeho pila, a v lůnu jeho spávala, a tak byla mu jako za dceru."
-"Když pak přišel pocestný k tomu bohatému člověku, líto mu bylo vzíti z ovcí aneb z volů svých, což by připravil pocestnému, kterýž k němu přišel, ale vzav ovečku toho chudého člověka, připravil ji muži, kterýž byl přišel k němu."
+"Chudý pak neměl nic, kromě jednu ovečku malou, kterouž byl koupil a choval, až i odrostla při něm a při dětech jeho #tolikéž. Chléb jeho jedla a z číše jeho pila, a v lůnu jeho spávala, a tak byla mu jako za dceru."
+"Když pak přišel pocestný k tomu bohatému člověku, líto mu bylo vzíti z ovcí aneb z volů svých, což by připravil #pocestnému, kterýž k němu přišel, ale vzav ovečku toho chudého člověka, připravil ji muži, kterýž byl přišel k němu."
 "Tedy rozhněval se David na muže toho náramně a řekl Nátanovi
 "Ovečku také tu zaplatí čtvernásobně, proto že učinil věc tu, a nelitoval ho."
 "I řekl Nátan Davidovi
@@ -28,4 +28,4 @@
 "Protož nyní sebera ostatek lidu, polož se proti městu a vezmi je, abych já nevzal města toho, a bylo by mně připisováno vítězství nad ním."
 "Tedy sebrav David všecken lid, vytáhl proti Rabba, kteréhož dobýval a vzal je."
 "A sňal korunu krále jejich s hlavy jeho, kteráž vážila centnéř zlata, a bylo v ní kamení drahé, a vstavena byla na hlavu Davidovu. Vyvezl též kořisti města velmi veliké."
-"Lid pak, kterýž v něm byl, vyvedl a dal jej pod pily a pod brány železné a pod sekery železné, a vehnal je do peci cihelné. A tak činil všechněm městům Ammonitským. Potom navrátil se David se vším lidem do Jeruzaléma."
+"Lid pak, kterýž v něm byl, vyvedl a dal jej pod pily a pod brány železné a pod sekery železné, a #vehnal je do peci cihelné. A tak činil všechněm městům Ammonitským. Potom navrátil se David se vším lidem do Jeruzaléma."

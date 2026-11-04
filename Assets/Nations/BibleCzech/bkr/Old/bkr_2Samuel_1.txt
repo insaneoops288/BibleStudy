@@ -7,7 +7,7 @@
 "Kterýžto ohlédna se zpátkem, uzřel mne a zavolal na mne. I řekl jsem
 "Tedy řekl mi
 "I řekl mi
-"Protož stoje nad ním, zabil jsem ho, nebo jsem věděl, že nebude živ po svém pádu. A vzal jsem korunu, kteráž byla na hlavě jeho, i záponu, kteráž byla na rameni jeho, a teď jsem to přinesl ku pánu svému."
+"Protož stoje nad ním, zabil jsem ho, nebo jsem věděl, že nebude živ po svém pádu. A vzal jsem korunu, kteráž #byla na hlavě jeho, i záponu, kteráž byla na rameni jeho, a teď jsem to přinesl ku pánu svému."
 "Tedy David uchytiv roucho své, roztrhl je; tolikéž i všickni muži, kteříž s ním byli."
 "A nesouce smutek, plakali a postili se až do večera pro Saule a pro Jonatu syna jeho, i pro lid Hospodinův a pro dům Izraelský, že padli od meče."
 "Řekl pak David mládenci, kterýž mu to oznámil

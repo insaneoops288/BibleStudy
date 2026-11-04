@@ -10,7 +10,7 @@
 "Tetapi jikalau kamu masuk ke dalam sebuah kota dan kamu tidak diterima di situ, pergilah ke jalan-jalan raya kota itu dan serukanlah
 "Juga debu kotamu yang melekat pada kaki kami, kami kebaskan di depanmu; tetapi ketahuilah ini
 "Aku berkata kepadamu
-"""Celakalah engkau Khorazim! Celakalah engkau Betsaida! karena jika di Tirus dan di Sidon terjadi mujizat-mujizat yang telah terjadi di tengah-tengah kamu, sudah lama mereka bertobat dan berkabung."
+"""Celakalah engkau Khorazim! Celakalah engkau Betsaida! karena jika di Tirus dan di Sidon terjadi #mujizat-mujizat yang telah terjadi di tengah-tengah kamu, sudah lama mereka bertobat dan berkabung."
 "Akan tetapi pada waktu penghakiman, tanggungan Tirus dan Sidon akan lebih ringan dari pada tanggunganmu."
 "Dan engkau Kapernaum, apakah engkau akan dinaikkan sampai ke langit? Tidak, engkau akan diturunkan sampai ke dunia orang mati!"
 "Barangsiapa mendengarkan kamu, ia mendengarkan Aku; dan barangsiapa menolak kamu, ia menolak Aku; dan barangsiapa menolak Aku, ia menolak Dia yang mengutus Aku."""
@@ -19,7 +19,7 @@
 "Sesungguhnya Aku telah memberikan kuasa kepada kamu untuk menginjak ular dan kalajengking dan kuasa untuk menahan kekuatan musuh, sehingga tidak ada yang akan membahayakan kamu."
 "Namun demikian janganlah bersukacita karena roh-roh itu takluk kepadamu, tetapi bersukacitalah karena namamu ada terdaftar di sorga."""
 "Pada waktu itu juga bergembiralah Yesus dalam Roh Kudus dan berkata
-"Semua telah diserahkan kepada-Ku oleh Bapa-Ku dan tidak ada seorangpun yang tahu siapakah Anak selain Bapa, dan siapakah Bapa selain Anak dan orang yang kepadanya Anak itu berkenan menyatakan hal itu."""
+"Semua telah diserahkan kepada-Ku oleh Bapa-Ku dan tidak ada seorangpun yang tahu siapakah Anak selain Bapa, #dan siapakah Bapa selain Anak dan orang yang kepadanya Anak itu berkenan menyatakan hal itu."""
 "Sesudah itu berpalinglah Yesus kepada murid-murid-Nya tersendiri dan berkata
 "Karena Aku berkata kepada kamu
 "Pada suatu kali berdirilah seorang ahli Taurat untuk mencobai Yesus, katanya
@@ -31,7 +31,7 @@
 "Kebetulan ada seorang imam turun melalui jalan itu; ia melihat orang itu, tetapi ia melewatinya dari seberang jalan."
 "Demikian juga seorang Lewi datang ke tempat itu; ketika ia melihat orang itu, ia melewatinya dari seberang jalan."
 "Lalu datang seorang Samaria, yang sedang dalam perjalanan, ke tempat itu; dan ketika ia melihat orang itu, tergeraklah hatinya oleh belas kasihan."
-"Ia pergi kepadanya lalu membalut luka-lukanya, sesudah ia menyiraminya dengan minyak dan anggur. Kemudian ia menaikkan orang itu ke atas keledai tunggangannya sendiri lalu membawanya ke tempat penginapan dan merawatnya."
+"Ia pergi kepadanya lalu membalut luka-lukanya, sesudah ia menyiraminya dengan minyak dan anggur. Kemudian ia menaikkan #orang itu ke atas keledai tunggangannya sendiri lalu membawanya ke tempat penginapan dan merawatnya."
 "Keesokan harinya ia menyerahkan dua dinar kepada pemilik penginapan itu, katanya
 "Siapakah di antara ketiga orang ini, menurut pendapatmu, adalah sesama manusia dari orang yang jatuh ke tangan penyamun itu?"""
 "Jawab orang itu

@@ -2,10 +2,10 @@
 "Ja kansalla ei ollut vettä, ja he kokoontuivat Mosesta ja Aaronia vastaan."
 "Ja kansa riiteli Moseksen kanssa, ja sanoivat
 "Miksi olette vieneet tämän Herran Herran kansan tähän korpeen, kuolemaan täällä, sekä meitä että karjaamme."
-"Ja miksi olette johdattaneet meidät Egyptistä, tuodaksenne meitä tähän pahaan paikkaan, jossa emme taida kylvää, jossa ei myös ole fikunia, taikka viinapuita, ei myös granatin omenia, eipä ole vettäkään juodaksemme?"
+"Ja miksi olette johdattaneet meidät Egyptistä, tuodaksenne meitä tähän pahaan paikkaan, jossa emme taida kylvää, jossa #ei myös ole fikunia, taikka viinapuita, ei myös granatin omenia, eipä ole vettäkään juodaksemme?"
 "Niin Moses ja Aaron menivät kansan tyköä seurakunnan majan ovelle ja lankesivat kasvoillensa, ja Herran kunnia näkyi heille."
 "Ja Herra puhui Mosekselle, sanoen
-"Ota sauva, ja kokoa kansa, sinä ja veljes Aaron, ja puhukaat kalliolle heidän silmäinsä edessä, ja se antaa vetensä. Ja näin sinun pitää saattaman heille vettä kalliosta, ja juottaman kansan ja heidän karjansa."
+"Ota sauva, ja kokoa kansa, sinä ja veljes Aaron, ja puhukaat kalliolle heidän silmäinsä edessä, ja se #antaa vetensä. Ja näin sinun pitää saattaman heille vettä kalliosta, ja juottaman kansan ja heidän karjansa."
 "Niin otti Moses sauvan Herran edestä, niinkuin hän käski hänelle."
 "Ja Moses ja Aaron kokosivat kansan kallion eteen, ja sanoivat heille
 "Ja Moses nosti kätensä ja löi kahdesti sauvallansa kallioon, niin juoksi siitä paljo vettä, ja kansa ja heidän karjansa saivat juoda."

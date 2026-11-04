@@ -2,7 +2,7 @@
 "Mutta yksi mies oli Zorasta Danin sukukunnasta, Manoak nimeltä, ja hänen emäntänsä oli hedelmätöin ja ei synnyttänyt."
 "Ja Herran enkeli ilmestyi vaimolle ja sanoi hänelle
 "Niin karta nyt, ettes juo viinaa eli väkevää juomaa ja ettes mitään saastaista syö."
-"Sillä katso, sinä tulet raskaaksi ja synnytät pojan, jonka pään päälle ei pidä yksikään partaveitsi tuleman; sillä se lapsi pitää oleman Jumalan natsir äitinsä kohdusta, ja hän rupee vapahtamaan Israelia Philistealaisten kädestä."
+"Sillä katso, sinä tulet raskaaksi ja synnytät pojan, jonka pään päälle ei pidä yksikään partaveitsi tuleman; sillä #se lapsi pitää oleman Jumalan natsir äitinsä kohdusta, ja hän rupee vapahtamaan Israelia Philistealaisten kädestä."
 "Niin tuli vaimo ja ilmoitti sen miehellensä ja sanoi
 "Mutta hän sanoi minulle
 "Ja Manoak rukoili Herraa ja sanoi

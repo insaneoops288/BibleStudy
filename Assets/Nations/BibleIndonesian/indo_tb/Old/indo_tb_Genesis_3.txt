@@ -3,9 +3,9 @@
 "tetapi tentang buah pohon yang ada di tengah-tengah taman, Allah berfirman
 "Tetapi ular itu berkata kepada perempuan itu
 "tetapi Allah mengetahui, bahwa pada waktu kamu memakannya matamu akan terbuka, dan kamu akan menjadi seperti Allah, tahu tentang yang baik dan yang jahat."""
-"Perempuan itu melihat, bahwa buah pohon itu baik untuk dimakan dan sedap kelihatannya, lagipula pohon itu menarik hati karena memberi pengertian. Lalu ia mengambil dari buahnya dan dimakannya dan diberikannya juga kepada suaminya yang bersama-sama dengan dia, dan suaminyapun memakannya."
+"Perempuan itu melihat, bahwa buah pohon itu baik untuk dimakan dan sedap kelihatannya, lagipula pohon itu menarik hati karena memberi pengertian. #Lalu ia mengambil dari buahnya dan dimakannya dan diberikannya juga kepada suaminya yang bersama-sama dengan dia, dan suaminyapun memakannya."
 "Maka terbukalah mata mereka berdua dan mereka tahu, bahwa mereka telanjang; lalu mereka menyemat daun pohon ara dan membuat cawat."
-"Ketika mereka mendengar bunyi langkah TUHAN Allah, yang berjalan-jalan dalam taman itu pada waktu hari sejuk, bersembunyilah manusia dan isterinya itu terhadap TUHAN Allah di antara pohon-pohonan dalam taman."
+"Ketika mereka mendengar bunyi langkah TUHAN Allah, yang berjalan-jalan dalam taman itu pada waktu hari #sejuk, bersembunyilah manusia dan isterinya itu terhadap TUHAN Allah di antara pohon-pohonan dalam taman."
 "Tetapi TUHAN Allah memanggil manusia itu dan berfirman kepadanya
 "Ia menjawab
 "Firman-Nya

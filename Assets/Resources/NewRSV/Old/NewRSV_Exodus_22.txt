@@ -6,7 +6,7 @@ When someone causes a field or vineyard to be grazed over, or lets livestock loo
 When fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, the one who started the fire shall make full restitution.
 When someone delivers to a neighbor money or goods for safekeeping, and they are stolen from the neighbor's house, then the thief, if caught, shall pay double.
 If the thief is not caught, the owner of the house shall be brought before God, to determine whether or not the owner had laid hands on the neighbor's goods.
-In any case of disputed ownership involving ox, donkey, sheep, clothing, or any other loss, of which one party says, "This is mine," the case of both parties shall come before God; the one whom God condemns shall pay double to the other.
+In any case of disputed ownership involving ox, donkey, sheep, clothing, or any other loss, of which one party says, "This is #mine," the case of both parties shall come before God; the one whom God condemns shall pay double to the other.
 When someone delivers to another a donkey, ox, sheep, or any other animal for safekeeping, and it dies or is injured or is carried off, without anyone seeing it,
 an oath before the LORD shall decide between the two of them that the one has not laid hands on the property of the other; the owner shall accept the oath, and no restitution shall be made.
 But if it was stolen, restitution shall be made to its owner.

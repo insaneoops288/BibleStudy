@@ -15,7 +15,7 @@
 "És õ taníta azoknak zsinagógáiban, dicsõíttetvén mindenektõl."
 "És méne Názáretbe, a hol felneveltetett
 "És adák néki az Ésaiás próféta könyvét; és a könyvet feltárván, arra a helyre nyita, a hol ez vala írva
-"Az Úrnak lelke [van] én rajtam, mivelhogy felkent engem, hogy a szegényeknek az evangyéliomot hirdessem, elküldött, hogy a töredelmes szívûeket meggyógyítsam, hogy a foglyoknak szabadulást hirdessek és a vakok szemeinek megnyilását, hogy szabadon bocsássam a lesujtottakat,"
+"Az Úrnak lelke [van] én rajtam, mivelhogy felkent engem, hogy a szegényeknek az evangyéliomot hirdessem, elküldött, hogy a töredelmes #szívûeket meggyógyítsam, hogy a foglyoknak szabadulást hirdessek és a vakok szemeinek megnyilását, hogy szabadon bocsássam a lesujtottakat,"
 "Hogy hirdessem az Úrnak kedves esztendejét."
 "És behajtván a könyvet, átadá a szolgának, és leüle. És a zsinagógában mindenek szemei õ reá valának függesztve."
 "Õ pedig kezde hozzájuk szólani

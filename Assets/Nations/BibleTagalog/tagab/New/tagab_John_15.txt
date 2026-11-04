@@ -17,7 +17,7 @@
 "Ang mga bagay na ito ay iniuutos ko sa inyo, upang kayo'y mangagibigan sa isa't isa."
 "Kung kayo'y kinapopootan ng sanglibutan, ay inyong talastas na ako muna ang kinapootan bago kayo."
 "Kung kayo'y taga sanglibutan, ay iibigin ng sanglibutan ang kaniyang sarili
-"Alalahanin ninyo ang salitang sa inyo'y aking sinabi, Ang alipin ay hindi dakila kay sa kaniyang panginoon. Kung ako'y kanilang pinagusig, kayo man ay kanilang paguusigin din; kung tinupad nila ang aking salita, ang inyo man ay tutuparin din."
+"Alalahanin ninyo ang salitang sa inyo'y aking sinabi, Ang alipin ay hindi dakila kay sa kaniyang panginoon. Kung ako'y kanilang #pinagusig, kayo man ay kanilang paguusigin din; kung tinupad nila ang aking salita, ang inyo man ay tutuparin din."
 "Datapuwa't ang lahat ng mga bagay na ito ay gagawin nila sa inyo dahil sa aking pangalan, sapagka't hindi nila nakikilala ang sa akin ay nagsugo."
 "Kung hindi sana ako naparito at nagsalita sa kanila, ay hindi sila magkakaroon ng kasalanan
 "Ang napopoot sa akin ay napopoot din naman sa aking Ama."

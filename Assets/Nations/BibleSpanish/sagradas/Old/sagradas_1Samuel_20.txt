@@ -12,7 +12,7 @@
 "Entonces dijo Jonatán a David
 "el SEÑOR haga así a Jonatán, y esto añada. Mas si a mi padre pareciere bien hacerte mal, también te lo descubriré, y te enviaré, y te irás en paz; y sea el SEÑOR contigo, como fue con mi padre."
 "Y si yo viviere, harás conmigo misericordia del SEÑOR; mas si fuere muerto,"
-"no quitarás perpetuamente tu misericordia de mi casa. Cuando desarraigare el SEÑOR uno por uno los enemigos de David de la tierra, <I>aun</I>  a Jonatán quite de su casa, <I>si te faltare</I> ; y requiera el SEÑOR de la mano  de los enemigos de David."
+"no quitarás perpetuamente tu misericordia de mi casa. Cuando desarraigare el SEÑOR uno por uno los enemigos de David de la tierra, <I>aun</I>  #a Jonatán quite de su casa, <I>si te faltare</I> ; y requiera el SEÑOR de la mano  de los enemigos de David."
 "<I>Así</I>  hizo Jonatán alianza con la casa de David."
 "Y volvió Jonatán a jurar a David, porque le amaba, porque le amaba como a su <I>propia</I>  alma."
 "Le dijo <I>luego</I>  Jonatán
@@ -38,5 +38,5 @@
 "Y volvió a gritar Jonatán tras el muchacho
 "<I>Pero</I>  ninguna cosa entendió el criado; solamente Jonatán y David entendían el asunto."
 "<I>Luego</I>  dio Jonatán sus armas a su criado, y le dijo
-"Y <I>luego</I>  que el muchacho se hubo ido, se levantó David de la parte del mediodía, y se inclinó tres veces postrándose hasta <I>la</I>  tierra; y besándose el uno al otro, lloraron el uno con el otro, aunque David lloró  más."
+"Y <I>luego</I>  que el muchacho se hubo ido, se levantó David de la parte del mediodía, y se inclinó tres veces postrándose #hasta <I>la</I>  tierra; y besándose el uno al otro, lloraron el uno con el otro, aunque David lloró  más."
 "Y Jonatán dijo a David

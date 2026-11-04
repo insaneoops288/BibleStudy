@@ -27,7 +27,7 @@
 "Là sont Benjamin le petit, le dominateur; les chefs de Juda et leur multitude; les chefs de Zabulon; les chefs de Nephthali."
 "Ton Dieu a ordonné ta force. Affermis, ô Dieu, ce que tu as fait pour nous!"
 "Dans ton temple qui est à Jérusalem, les rois t'apporteront des présents."
-"Repousse la compagnie de ceux qui portent la lance, la troupe des taureaux avec les veaux des peuples, ceux qui se sont parés de lames d'argent. Il disperse les peuples qui se plaisent aux combats."
+"Repousse la compagnie de ceux qui portent la lance, la troupe des taureaux avec les veaux des peuples, #ceux qui se sont parés de lames d'argent. Il disperse les peuples qui se plaisent aux combats."
 "Les grands viendront d'Égypte. Cush se hâtera de tendre les mains vers Dieu."
 " Royaumes de la terre, chantez à Dieu! Psalmodiez au Seigneur (Sélah),"
 "A celui qui s'avance porté sur les cieux des cieux, les cieux éternels! Voici, il fait retentir sa voix, sa puissante voix."

@@ -1,7 +1,7 @@
 "OR queste sono le generazioni di Aaronne e di Mosè, al tempo che il Signore parlò con Mosè, nel monte di Sinai."
 "E questi sono i nomi de’ figliuoli d’Aaronne
 "Questi sono i nomi de’ figliuoli d’Aaronne, sacerdoti, i quali furono unti e consacrati, per esercitare il sacerdozio."
-"Or Nadab ed Abihu morirono davanti al Signore, quando offersero fuoco strano nel cospetto del Signore, nel deserto di Sinai; e non ebbero figliuoli; ed Eleazaro e Itamar esercitarono il sacerdozio nella presenza d’Aaronne, lor padre."
+"Or Nadab ed Abihu morirono davanti al Signore, quando offersero fuoco strano nel cospetto del Signore, nel deserto di #Sinai; e non ebbero figliuoli; ed Eleazaro e Itamar esercitarono il sacerdozio nella presenza d’Aaronne, lor padre."
 "E il Signore parlò a Mosè, dicendo
 "Fa’ appressar la tribù di Levi, e falla comparir davanti al Sacerdote Aaronne, acciocchè gli ministrino."
 "E facciano la fazione di esso, e la fazione di tutta la raunanza, davanti al Tabernacolo della convenenza, facendo i servigi del Tabernacolo."
@@ -10,7 +10,7 @@
 "E costituisci Aaronne e i suoi figliuoli, a far la fazione del lor sacerdozio; e se alcuno straniere vi si appressa, sia fatto morire."
 "Oltre a ciò, il Signore parlò a Mosè dicendo
 "Ecco, io ho presi i Leviti d’infra i figliuoli d’Israele in luogo di tutti i primogeniti che aprono la matrice fra i figliuoli d’Israele; perciò i Leviti saranno miei."
-"Conciossiachè ogni primogenito sia mio; nel giorno che io percossi tutti i primogeniti nel paese di Egitto, io mi consacrai tutti i primogeniti d’Israele, così degli uomini, come degli animali; essi hanno ad esser miei. Io sono il Signore."
+"Conciossiachè ogni primogenito sia mio; nel giorno che io percossi tutti i primogeniti nel paese di Egitto, io mi consacrai #tutti i primogeniti d’Israele, così degli uomini, come degli animali; essi hanno ad esser miei. Io sono il Signore."
 "Il Signore parlò ancora a Mosè, nel deserto di Sinai, dicendo
 "Annovera i figliuoli di Levi, per le lor famiglie paterne, e per le lor nazioni, annovera ogni maschio d’infra loro, dall’età d’un mese in su."
 "E Mosè li annoverò secondo il comandamento del Signore, come gli era stato imposto."
@@ -35,10 +35,10 @@
 "E il capo delle famiglie paterne delle nazioni de’ Merariti fu Suriel, figliuolo di Abihail. Essi doveano accamparsi allato al Tabernacolo, verso il Settentrione."
 "E il carico della fazione de’ figliuoli di Merari era le assi, e le sbarre, e le colonne, e i piedistalli del Tabernacolo, e tutti i suoi tali arredi, e tutti tali suoi servigi;"
 "e le colonne del Cortile d’intorno, e i lor piedistalli, e i lor piuoli, e le lor corde."
-"E quelli che doveano accamparsi davanti alla Tenda, verso il Levante, dalla parte anteriore del Tabernacolo della convenenza, verso l’Oriente, erano Mosè e Aaronne, e i suoi figliuoli; i quali facevano la fazione del Santuario, in vece ed a nome de’ figliuoli d’Israele; in maniera, che se alcuno straniere vi si appressava, dovea esser fatto morire."
+"E quelli che doveano accamparsi davanti alla Tenda, verso il Levante, dalla parte anteriore del Tabernacolo della convenenza, verso l’Oriente, erano Mosè e Aaronne, e i suoi figliuoli; i #quali facevano la fazione del Santuario, in vece ed a nome de’ figliuoli d’Israele; in maniera, che se alcuno straniere vi si appressava, dovea esser fatto morire."
 "Tutti gli annoverati d’infra i Leviti, i quali Mosè ed Aaronne, per comandamento del Signore, annoverarono per le lor nazioni, cioè
 "POI il Signore disse a Mosè
-"E prendi per me, io sono il Signore, i Leviti, in luogo di tutti i primogeniti d’infra i figliuoli d’Israele; prendi parimente il bestiame de’ Leviti, in luogo di tutti i primogeniti del bestiame dei figliuoli d’Israele."
+"E prendi per me, io sono il Signore, i Leviti, in luogo di tutti i primogeniti d’infra i figliuoli #d’Israele; prendi parimente il bestiame de’ Leviti, in luogo di tutti i primogeniti del bestiame dei figliuoli d’Israele."
 "E Mosè annoverò tutti i primogeniti d’infra i figliuoli d’Israele, come il Signore gli avea comandato."
 "E tutti i primogeniti maschi, secondo che furono annoverati, contati per nome, dall’età di un mese in su, furono ventiduemila dugensettantatrè."
 "Il Signore parlò ancora a Mosè, dicendo

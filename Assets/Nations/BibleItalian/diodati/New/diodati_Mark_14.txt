@@ -1,6 +1,6 @@
 "ORA, due giorni appresso, era la pasqua, e la festa degli azzimi; e i principali sacerdoti, e gli Scribi, cercavano il modo di pigliar Gesù con inganno, e di ucciderlo."
 "Ma dicevano
-"OR essendo egli in Betania, in casa di Simone lebbroso, mentre era a tavola, venne una donna, avendo un alberello d’olio odorifero di nardo schietto, di gran prezzo; e, rotto l’alberello, glielo versò sopra il capo."
+"OR essendo egli in Betania, in casa di Simone lebbroso, mentre era a tavola, venne una donna, avendo un #alberello d’olio odorifero di nardo schietto, di gran prezzo; e, rotto l’alberello, glielo versò sopra il capo."
 "Ed alcuni indegnarono tra sè stessi, e dissero
 "Poichè si sarebbe potuto venderlo più di trecento denari, e quelli darli a’ poveri. E fremevano contro a lei."
 "Ma Gesù disse

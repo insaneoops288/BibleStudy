@@ -3,7 +3,7 @@
 "Mutta Herra on uskollinen, joka teitä vahvistaa ja pahasta varjelee."
 "Mutta me toivomme Herrassa teistä, että te teette ja tekeväiset olette, mitä me teille olemme käskeneet."
 "Mutta Herra ojentakoon teidän sydämenne Jumalan rakkauteen ja Kristuksen kärsivällisyyteen!"
-"Mutta me käskemme teitä, rakkaat veljet, meidän Herran Jesuksen Kristuksen nimeen, että te teitänne eroittaisitte jokaisesta veljestä, joka häijysti itsensä käyttää ja ei sen säädyn jälkeen, jonka hän meiltä saanut on."
+"Mutta me käskemme teitä, rakkaat veljet, meidän Herran Jesuksen Kristuksen nimeen, että te teitänne eroittaisitte jokaisesta #veljestä, joka häijysti itsensä käyttää ja ei sen säädyn jälkeen, jonka hän meiltä saanut on."
 "Sillä te itse tiedätte, kuinka teidän meitä seuraaman pitää
 "Emme myös ole leipää keltään ilman ottaneet, vaan työllä ja hiellä
 "Ei, ettei meillä se valta olisi, vaan että me itsemme opiksi teille antaisimme, seurataksenne meitä."

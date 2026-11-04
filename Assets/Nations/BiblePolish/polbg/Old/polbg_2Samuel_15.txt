@@ -9,7 +9,7 @@
 "I rzekł mu król
 "Tedy rozesłał Absalom szpiegi między wszystkie pokolenia Izraelskie, aby rzekli
 "A z Absalomem poszło było dwieście mężów z Jeruzalemu zaproszonych, którzy szli w prostości swojej, niewiedząc o niczem."
-"Posłał też Absalom po Achitofela Giloniczyka, radcę Dawidowego, aby przyszedł z miasta swego Gilo, gdy miał sprawować ofiary. I stało się sprzysiężenie wielkie, a lud się schodził, i przybywało go Absalomowi."
+"Posłał też Absalom po Achitofela Giloniczyka, radcę Dawidowego, aby przyszedł z miasta swego Gilo, gdy miał #sprawować ofiary. I stało się sprzysiężenie wielkie, a lud się schodził, i przybywało go Absalomowi."
 "Potem przyszedł poseł do Dawida, mówiąc
 "Tedy rzekł Dawid do wszystkich sług swoich, którzy z nim byli w Jeruzalemie
 "I rzekli słudzy królewscy do króla

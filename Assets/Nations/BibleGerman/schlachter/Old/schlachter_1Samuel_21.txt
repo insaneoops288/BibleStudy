@@ -3,7 +3,7 @@
 "Und nun gib mir, was du zur Verfügung hast, etwa fünf Brote, oder was sonst vorhanden ist!"
 "Der Priester antwortete David und sprach
 "Da antwortete David dem Priester und sprach
-"Da gab ihm der Priester heiliges Brot; denn es war kein anderes da außer den Schaubroten, die man von dem Angesicht des HERRN hinweggetan hatte, um warmes Brot aufzulegen des Tages, da man sie wegnahm."
+"Da gab ihm der Priester heiliges Brot; denn es war kein anderes da außer den Schaubroten, die man #von dem Angesicht des HERRN hinweggetan hatte, um warmes Brot aufzulegen des Tages, da man sie wegnahm."
 "Es war aber an jenem Tage daselbst vor dem HERRN eingeschlossen ein Mann aus den Knechten Sauls, der hieß Doeg, der Edomiter, einer der mächtigsten Hirten Sauls."
 "Und David fragte Achimelech
 "Der Priester antwortete

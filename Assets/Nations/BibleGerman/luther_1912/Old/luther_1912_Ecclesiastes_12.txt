@@ -2,7 +2,7 @@
 "ehe denn die Sonne und das Licht, Mond und Sterne finster werden und Wolken wieder kommen nach dem Regen;"
 "zur Zeit, wenn die Hüter im Hause zittern, und sich krümmen die Starken, und müßig stehen die Müller, weil ihrer so wenig geworden sind, und finster werden, die durch die Fenster sehen,{~}"
 "und die Türen an der Gasse geschlossen werden, daß die Stimme der Mühle leise wird, und man erwacht, wenn der Vogel singt, und gedämpft sind alle Töchter des Gesangs;"
-"wenn man auch vor Höhen sich fürchtet und sich scheut auf dem Wege; wenn der Mandelbaum blüht, und die Heuschrecke beladen wird, und alle Lust vergeht(denn der Mensch fährt hin, da er ewig bleibt, und die Klageleute gehen umher auf der Gasse);"
+"wenn man auch vor Höhen sich fürchtet und sich scheut auf dem Wege; wenn der Mandelbaum blüht, und die Heuschrecke beladen wird, #und alle Lust vergeht(denn der Mensch fährt hin, da er ewig bleibt, und die Klageleute gehen umher auf der Gasse);"
 "ehe denn der silberne Strick wegkomme, und die goldene Schale zerbreche, und der Eimer zerfalle an der Quelle, und das Rad zerbrochen werde am Born."
 "Denn der Staub muß wieder zu der Erde kommen, wie er gewesen ist, und der Geist wieder zu Gott, der ihn gegeben hat."
 "Es ist alles ganz eitel, sprach der Prediger, ganz eitel."

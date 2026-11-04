@@ -10,7 +10,7 @@
 "Delante de él temblará la tierra, se estremecerán los cielos
 "Y Jehová dará su voz delante de su ejército
 "Por eso pues ahora, dice Jehová, convertíos á mí con todo vuestro corazón, con ayuno y lloro y llanto."
-"Y lacerad vuestro corazón, y no vuestros vestidos; y convertíos á Jehová vuestro Dios; porque misericordioso es y clemente, tardo para la ira, y grande en misericordia, y que se arrepiente del castigo."
+"Y lacerad vuestro corazón, y no vuestros vestidos; y convertíos á Jehová vuestro Dios; porque misericordioso es #y clemente, tardo para la ira, y grande en misericordia, y que se arrepiente del castigo."
 "¿Quién sabe si volverá, y se apiadará, y dejará bendición tras de él, presente y libación para Jehová Dios vuestro?"
 "Tocad trompeta en Sión, pregonad ayuno, llamad á congregación."
 "Reunid el pueblo, santificad la reunión, juntad los viejos, congregad los niños y los que maman
@@ -20,7 +20,7 @@
 "Y haré alejar de vosotros al del aquilón, y echarélo en la tierra seca y desierta
 "Tierra, no temas; alégrate y gózate
 "Animales del campo, no temáis; porque los pastos del desierto reverdecerán, porque los árboles llevarán su fruto, la higuera y la vid darán sus frutos."
-"Vosotros también, hijos de Sión, alegraos y gozaos en Jehová vuestro Dios; porque os ha dado la primera lluvia arregladamente, y hará descender sobre vosotros lluvia temprana y tardía como al principio."
+"Vosotros también, hijos de Sión, alegraos y gozaos en Jehová vuestro Dios; porque os ha dado la #primera lluvia arregladamente, y hará descender sobre vosotros lluvia temprana y tardía como al principio."
 "Y las eras se henchirán de trigo, y los lagares rebosarán de vino y aceite."
 "Y os restituiré los años que comió la oruga, la langosta, el pulgón, y el revoltón; mi grande ejército que envié contra vosotros."
 "Y comeréis hasta saciaros, y alabaréis el nombre de Jehová vuestro Dios, el cual hizo maravillas con vosotros

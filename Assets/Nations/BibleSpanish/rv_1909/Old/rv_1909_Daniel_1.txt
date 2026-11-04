@@ -1,7 +1,7 @@
 "EN el año tercero del reinado de Joacim rey de Judá, vino Nabucodonosor rey de Babilonia á Jerusalem, y cercóla."
 "Y el Señor entregó en sus manos á Joacim rey de Judá, y parte de los vasos de la casa de Dios, y trájolos á tierra de Sinar, á la casa de su dios
 "Y dijo el rey á Aspenaz, príncipe de sus eunucos, que trajese de los hijos de Israel, del linaje real de los príncipes,"
-"Muchachos en quienes no hubiese tacha alguna, y de buen parecer, y enseñados en toda sabiduría, y sabios en ciencia, y de buen entendimiento, é idóneos para estar en el palacio del rey; y que les enseñase las letras y la lengua de los Caldeos."
+"Muchachos en quienes no hubiese tacha alguna, y de buen parecer, y enseñados en toda sabiduría, y sabios en ciencia, y de buen #entendimiento, é idóneos para estar en el palacio del rey; y que les enseñase las letras y la lengua de los Caldeos."
 "Y señalóles el rey ración para cada día de la ración de la comida del rey, y del vino de su beber
 "Y fueron entre ellos, de los hijos de Judá, Daniel, Ananías, Misael y Azarías
 "A los cuales el príncipe de los eunucos puso nombres

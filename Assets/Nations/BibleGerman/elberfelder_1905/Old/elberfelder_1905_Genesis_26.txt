@@ -1,6 +1,6 @@
 "Und es entstand eine Hungersnot im Lande, außer der vorigen Hungersnot, die in den Tagen Abrahams gewesen war. Und Isaak zog zu Abimelech, dem Könige der Philister, nach Gerar."
 "Und Jehova erschien ihm und sprach
-"Halte dich auf in diesem Lande, und ich werde mit dir sein und dich segnen; denn dir und deinem Samen werde ich alle diese Länder geben, und ich werde den Eid aufrecht halten, den ich deinem Vater Abraham geschworen habe."
+"Halte dich auf in diesem Lande, und ich werde mit dir sein und dich segnen; denn dir und deinem Samen werde #ich alle diese Länder geben, und ich werde den Eid aufrecht halten, den ich deinem Vater Abraham geschworen habe."
 "Und ich werde deinen Samen mehren wie die Sterne des Himmels und deinem Samen alle diese Länder geben; und in deinem Samen werden sich segnen alle Nationen der Erde
 "darum daß Abraham meiner Stimme gehorcht und beobachtet hat meine Vorschriften, meine Gebote, meine Satzungen und meine Gesetze."
 "So blieb Isaak in Gerar."
@@ -15,7 +15,7 @@
 "Und alle Brunnen, welche die Knechte seines Vaters in den Tagen seines Vaters Abraham gegraben hatten, verstopften die Philister und füllten sie mit Erde."
 "Und Abimelech sprach zu Isaak
 "Da zog Isaak von dannen und schlug sein Lager auf im Tale Gerar und wohnte daselbst."
-"Und Isaak grub die Wasserbrunnen wieder auf, welche sie in den Tagen seines Vaters Abraham gegraben und welche die Philister nach dem Tode Abrahams verstopft hatten; und er benannte sie mit denselben Namen, womit sein Vater sie benannt hatte."
+"Und Isaak grub die Wasserbrunnen wieder auf, welche sie in den Tagen seines Vaters Abraham gegraben und welche die Philister #nach dem Tode Abrahams verstopft hatten; und er benannte sie mit denselben Namen, womit sein Vater sie benannt hatte."
 "Und die Knechte Isaaks gruben im Tale und fanden daselbst einen Brunnen lebendigen Wassers."
 "Da haderten die Hirten von Gerar mit den Hirten Isaaks und sprachen
 "Und sie gruben einen anderen Brunnen, und sie haderten auchüber diesen, und er gab ihm den Namen Sitna."

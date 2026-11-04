@@ -2,8 +2,8 @@
 "Und ich gebot meinem Bruder Hanani und Hananja, dem Burgvogt zu Jerusalem(denn er war ein treuer Mann und gottesfürchtig vor vielen andern),{~}"
 "und sprach zu Ihnen
 "Die Stadt aber war weit von Raum und groß, aber wenig Volk darin, und die Häuser wurden nicht gebaut."
-"Und mein Gott gab mir ins Herz, daß ich versammelte die Ratsherren und die Obersten und das Volk, sie zu verzeichnen. Und ich fand das Geschlechtsregister derer, die vorhin heraufgekommen waren, und fand darin geschrieben
-"Dies sind die Kinder der Landschaft, die heraufgekommen sind aus der Gefangenschaft, die Nebukadnezar, der König zu Babel, hatte weggeführt, und die wieder gen Jerusalem und nach Juda kamen, ein jeglicher in seine Stadt,{~}"
+"Und mein Gott gab mir ins Herz, daß ich versammelte die Ratsherren und die Obersten und das Volk, #sie zu verzeichnen. Und ich fand das Geschlechtsregister derer, die vorhin heraufgekommen waren, und fand darin geschrieben
+"Dies sind die Kinder der Landschaft, die heraufgekommen sind aus der Gefangenschaft, die Nebukadnezar, der König zu Babel, #hatte weggeführt, und die wieder gen Jerusalem und nach Juda kamen, ein jeglicher in seine Stadt,{~}"
 "und sind gekommen mit Serubabel, Jesua, Nehemia, Asarja, Raamja, Nahamani, Mardochai, Bilsan, Mispereth, Bigevai, Nehum und Baana. Dies ist die Zahl der Männer vom Volk Israel
 "der Kinder Pareos waren zweitausend einhundert und zweiundsiebzig;{~}{~}"
 "der Kinder Sephatja dreihundert und zweiundsiebzig;{~}"

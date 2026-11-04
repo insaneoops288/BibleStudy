@@ -19,4 +19,4 @@
 "Où sont les dieux de Hamath et d'Arpad? Où sont les dieux de Sepharvaïm? Ont-ils délivré Samarie de ma main?"
 "Parmi tous les dieux de ces pays, quels sont ceux qui ont délivré leur pays de ma main, pour que l'Eternel délivre Jérusalem de ma main?"
 "Mais ils se turent, et ne lui répondirent pas un mot; car le roi avait donné cet ordre
-"Et Eliakim, fils de Hilkija, chef de la maison du roi, Schebna, le secrétaire, et Joach, fils d'Asaph, l'archiviste, vinrent auprès d'Ezéchias, les vêtements déchirés, et lui rapportèrent les paroles de Rabschaké."
+"Et Eliakim, fils de Hilkija, chef de la maison du roi, Schebna, le secrétaire, et Joach, fils #d'Asaph, l'archiviste, vinrent auprès d'Ezéchias, les vêtements déchirés, et lui rapportèrent les paroles de Rabschaké."

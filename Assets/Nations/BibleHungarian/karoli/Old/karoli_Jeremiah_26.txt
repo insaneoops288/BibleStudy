@@ -16,7 +16,7 @@
 "És mondák azok a fejedelmek és az egész község a papoknak és prófétáknak
 "Felkelének az ország vénei közül is némely férfiak, és szólának az egész összegyûlt népnek, mondván
 "A móreseti Mikeás prófétált Ezékiásnak, a Júda királyának idejében, és szóla az egész Júda népének, mondván
-"Megölte-é [azért] õt Ezékiás, Júdának királya és az egész Júda? Nem félte-é az Urat? Nem könyörgött-é az Úrnak? És nem megbánta-é az Úr a veszedelmet, a melylyel fenyegette õket? És mi [olyan] nagy veszedelmet vonnánk a mi lelkünkre?"
+"Megölte-é [azért] õt Ezékiás, Júdának királya és az egész Júda? Nem félte-é az Urat? Nem könyörgött-é az Úrnak? És nem #megbánta-é az Úr a veszedelmet, a melylyel fenyegette õket? És mi [olyan] nagy veszedelmet vonnánk a mi lelkünkre?"
 "Volt egy [másik] ember is, a ki az Úr nevében prófétált, Uriás, Semájának fia, Kirját-Jeárimból, és prófétált e város ellen és a föld ellen, egészen a Jeremiás beszéde szerint."
 "És meghallá Jojákim király és minden vitéze és minden fejedelme az õ beszédeit, és halálra kerestette õt a király; de meghallá Uriás és megijedt, és elfutott és átment Égyiptomba."
 "És Jojákim király embereket küldött Égyiptomba, Elnátánt, az Akbor fiát, és [más] férfiakat vele együtt Égyiptomba."

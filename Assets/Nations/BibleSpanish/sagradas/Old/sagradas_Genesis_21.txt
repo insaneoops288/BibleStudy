@@ -11,7 +11,7 @@
 "Este dicho pareció grave en gran manera a Abraham a causa de su hijo."
 "Entonces dijo Dios a Abraham
 "Y también al hijo de la sierva pondré en gente, porque <I>es</I>  tu simiente."
-"Entonces Abraham se levantó muy de mañana, y tomó pan, y <I>un</I>  odre de agua, y lo dio a Agar, poniéndolo sobre su hombro, y <I>le</I>  entregó al muchacho, y la envió. Y ella fue, y se perdió en el desierto de Beerseba."
+"Entonces Abraham se levantó muy de mañana, y tomó pan, y <I>un</I>  odre de agua, y lo dio a Agar, poniéndolo sobre #su hombro, y <I>le</I>  entregó al muchacho, y la envió. Y ella fue, y se perdió en el desierto de Beerseba."
 "Y faltó el agua del odre, y echó al muchacho debajo de un árbol;"
 "y se fue y se sentó enfrente, alejándose como un tiro de arco; diciendo
 "Y oyó Dios la voz del muchacho; y el ángel de Dios llamó a Agar desde el cielo, y le dijo
@@ -20,7 +20,7 @@
 "Y fue Dios con el muchacho; y creció, y habitó en el desierto, y fue tirador de arco."
 "Y habitó en el desierto de Parán; y su madre le tomó mujer de la tierra de Egipto."
 "Y aconteció en aquel mismo tiempo que habló Abimelec, y Ficol, príncipe de su ejército, a Abraham diciendo
-"Ahora pues, júrame aquí por Dios, que no faltarás a mí, ni a mi hijo, ni a mi nieto; sino que conforme a la misericordia que <I>yo</I>  hice contigo, harás <I>tú</I>  conmigo y con la tierra donde has peregrinado."
+"Ahora pues, júrame aquí por Dios, que no faltarás a mí, ni a mi hijo, ni a mi nieto; sino que #conforme a la misericordia que <I>yo</I>  hice contigo, harás <I>tú</I>  conmigo y con la tierra donde has peregrinado."
 "Y respondió Abraham
 "Y Abraham reprendió a Abimelec a causa de <I>un</I>  pozo de agua, que los siervos de Abimelec le habían quitado."
 "Y respondió Abimelec

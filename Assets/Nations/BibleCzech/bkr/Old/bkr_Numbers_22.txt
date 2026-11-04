@@ -3,7 +3,7 @@
 "I bál se Moáb toho lidu velmi, proto že ho bylo mnoho, a svíral se pro přítomnost synů Izraelských."
 "Protož řekl Moáb k starším Madianským
 "I poslal posly k Balámovi, synu Beorovu, do města Petor, kteréž jest při řece v zemi vlasti jeho, aby povolal ho, řka
-"Protož nyní poď medle, zlořeč mně k vůli lidu tomuto,nebo silnější mne jest; snad svítězím nad ním, a porazím jej, aneb vyženu z země této. Vím zajisté, že komuž ty žehnáš, požehnaný bude, a komuž ty zlořečíš, bude zlořečený."
+"Protož nyní poď medle, zlořeč mně k vůli lidu tomuto,nebo silnější mne jest; snad svítězím nad ním, a porazím jej, #aneb vyženu z země této. Vím zajisté, že komuž ty žehnáš, požehnaný bude, a komuž ty zlořečíš, bude zlořečený."
 "Tedy šli starší Moábští a starší Madianští, nesouce v rukou svých peníze za zlořečení; i přišli k Balámovi, a vypravovali mu slova Balákova."
 "On pak řekl jim
 "Přišel pak Bůh k Balámovi a řekl

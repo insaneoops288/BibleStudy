@@ -1,7 +1,7 @@
 "Palavras de Agur, filho de Jaque, o oráculo. Disse este varão a Itiel, a Itiel e a Ucal
 "Na verdade, que eu sou mais bruto do que ninguém; não tenho o entendimento do homem,"
 "nem aprendi a sabedoria, nem tenho o conhecimento do Santo."
-"Quem subiu ao céu e desceu? Quem encerrou os ventos nos seus punhos? Quem amarrou as águas na sua roupa? Quem estabeleceu todas as extremidades da terra? Qual é o seu nome, e qual é o nome de seu filho, se é que o sabes?"
+"Quem subiu ao céu e desceu? Quem encerrou os ventos nos seus punhos? Quem amarrou as águas na sua roupa? Quem estabeleceu todas #as extremidades da terra? Qual é o seu nome, e qual é o nome de seu filho, se é que o sabes?"
 "Toda palavra de Deus é pura; escudo é para os que confiam nele."
 "Nada acrescentes às suas palavras, para que não te repreenda, e sejas achado mentiroso."
 "Duas coisas te pedi; não mas negues, antes que morra

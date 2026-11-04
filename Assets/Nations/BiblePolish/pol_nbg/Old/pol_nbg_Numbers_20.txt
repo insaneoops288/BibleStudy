@@ -14,7 +14,7 @@
 "Potem Mojżesz wyprawił z Kadesz posłów do króla Edomu, mówiąc
 "Nasi przodkowie zeszli do Micraim i mieszkaliśmy w Micraim przez długie czasy, a Micrejczycy trapili nas oraz naszych ojców."
 "Więc wołaliśmy do WIEKUISTEGO, a On wysłuchał nasz głos, posłał wysłańca oraz wyprowadził nas z Micraim. I oto jesteśmy w Kadesz, mieście na końcu twej granicy."
-"Chcemy przejść przez twoją ziemię. Nie pójdziemy przez pola, przez winnice, ani nie będziemy pić wody ze studzien pójdziemy drogą królewską; nie zboczymy ani na prawo, ani na lewo, dopóki nie przejdziemy twoich granic."
+"Chcemy przejść przez twoją ziemię. Nie pójdziemy przez pola, przez winnice, ani nie będziemy pić wody ze studzien #pójdziemy drogą królewską; nie zboczymy ani na prawo, ani na lewo, dopóki nie przejdziemy twoich granic."
 "A Edom mu odpowiedział
 "Zatem synowie Israela powiedzieli do niego
 "Lecz odpowiedział

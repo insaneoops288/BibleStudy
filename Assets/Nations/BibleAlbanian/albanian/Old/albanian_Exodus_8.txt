@@ -1,6 +1,6 @@
 "Pastaj Zoti i tha Moisiut
 "Dhe në qoftë se nuk pranon ta lësh të shkojë, ja, unë do ta godas gjithë vendin tënd me kamxhikun e bretkosave."
-"Kështu lumi do të mbushet me bretkosa, dhe ato do të ngjiten dhe do të hyjnë në shtëpinë tënde, në dhomën ku fle ti, mbi shtratin tënd, në shtëpitë e shërbëtorëve të tu dhe midis popullit, në furrat e tua dhe në magjet e bukës."
+"Kështu lumi do të mbushet me bretkosa, dhe ato do të ngjiten dhe do të hyjnë në shtëpinë tënde, në dhomën ku fle #ti, mbi shtratin tënd, në shtëpitë e shërbëtorëve të tu dhe midis popullit, në furrat e tua dhe në magjet e bukës."
 "Dhe bretkosat do të vijnë kundër teje, kundër popullit tënd dhe kundër tërë shërbëtorëve të tu""""."
 "Pastaj Zoti i tha Moisiut
 "Kështu Aaroni shtriu dorën e tij mbi ujërat e Egjiptit, dhe bretkosat u ngjitën dhe mbuluan vendin e Egjiptit."
@@ -14,11 +14,11 @@
 "I grumbulluan pastaj në togje dhe vendi filloi të mbajë erë të keqe."
 "Po kur Faraoni pa që kishte pak lehtësim, e ngurtësoi zemrën e tij dhe nuk i dëgjoi më, ashtu siç kishte thënë Zoti."
 "Pastaj Zoti i tha Moisiut
-"Dhe ata kështu vepruan. Aaroni shtriu dorën me bastunin e tij, rrahu pluhurin e tokës dhe njerëzit e kafshët u mbuluan nga mushkonja; tërë pluhuri i tokës u shndërrua në mushkonja në të gjithë vendin e Egjiptit."
+"Dhe ata kështu vepruan. Aaroni shtriu dorën me bastunin e tij, rrahu pluhurin e tokës dhe njerëzit e kafshët #u mbuluan nga mushkonja; tërë pluhuri i tokës u shndërrua në mushkonja në të gjithë vendin e Egjiptit."
 "Magjistarët u përpoqën të bënin të njëjtën gjë me anë të arteve të tyre të fshehta për të prodhuar mushkonja, por nuk ia dolën dot. Mushkonjat mbuluan, pra, njerëzit dhe kafshët."
 "Atëherë magjistarët i thanë Faraonit
 "Pastaj Zoti i tha Moisiut
-"Por në rast se ti nuk e lë popullin tim të shkojë, ja unë do të dërgoj kundër teje, mbi shërbëtorët e tu, mbi popullin tënd e brenda shtëpive të tua mori mizash; shtëpitë e Egjiptasve do të jenë plot me mori mizash, dhe kështu do të jetë toka mbi të cilën ndodhen."
+"Por në rast se ti nuk e lë popullin tim të shkojë, ja unë do të dërgoj kundër teje, mbi shërbëtorët e tu, mbi popullin tënd e #brenda shtëpive të tua mori mizash; shtëpitë e Egjiptasve do të jenë plot me mori mizash, dhe kështu do të jetë toka mbi të cilën ndodhen."
 "Por atë ditë unë do ta veçoj vendin e Goshenit, ku banon populli im; dhe atje nuk do të ketë mori mizash, që ti të dish që unë jam Zoti në mes të vendit."
 "Unë do të bëj një dallim midis popullit tim dhe popullit tënd. Nesër ka për të ndodhur kjo mrekulli""""."
 "Dhe Zoti ashtu veproi; erdhën grumbuj të dendur mizash në shtëpinë e Faraonit dhe në shtëpitë e shërbëtorëve të tij, dhe në gjithë vendin e Egjiptit toka u shkretua nga moria e mizave."

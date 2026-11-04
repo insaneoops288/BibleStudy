@@ -6,7 +6,7 @@
 "Şi tatăl său nu l-a nemulţumit vreodată, spunându-[i]
 "Şi el s-a sfătuit cu Ioab, fiul Ţeruiei, şi cu preotul Abiatar; şi ei, urmându-l pe Adonia, [l]-au ajutat."
 "Dar preotul Ţadoc şi Benaia, fiul lui Iehoiada, şi profetul Natan şi Şimei şi Rei şi războinicii care [aparţineau] lui David nu erau cu Adonia."
-"Şi Adonia a înjunghiat oi şi boi şi vite îngrăşate lângă piatra Zohelet, care [este] lângă En-Roguel, şi a chemat pe toţi fraţii săi, fiii împăratului, şi pe toţi bărbaţii lui Iuda, servitorii împăratului;"
+"Şi Adonia a înjunghiat oi şi boi şi vite îngrăşate lângă piatra Zohelet, care [este] lângă En-Roguel, şi #a chemat pe toţi fraţii săi, fiii împăratului, şi pe toţi bărbaţii lui Iuda, servitorii împăratului;"
 "Dar pe profetul Natan şi pe Benaia şi pe războinici şi pe fratele său, Solomon, nu i-a chemat."
 "De aceea Natan i-a vorbit lui Bat-Şeba, mama lui Solomon, spunând
 "De aceea acum, vino, te rog, lasă-mă să îţi dau un sfat, ca să îţi salvezi viaţa ta şi viaţa fiului tău, Solomon."
@@ -22,7 +22,7 @@
 "Şi, iată, pe când ea încă vorbea cu împăratul, profetul Natan a intrat de asemenea."
 "Şi i-au spus împăratului, spunând
 "Şi Natan a spus
-"Pentru că a coborât în această zi şi a înjunghiat boi şi vite îngrăşate şi oi din abundenţă şi a chemat pe toţi fiii împăratului şi pe căpeteniile oştirii şi pe preotul Abiatar; şi, iată, ei mănâncă şi beau înaintea lui şi spun
+"Pentru că a coborât în această zi şi a înjunghiat boi şi vite îngrăşate şi oi din abundenţă şi a chemat pe #toţi fiii împăratului şi pe căpeteniile oştirii şi pe preotul Abiatar; şi, iată, ei mănâncă şi beau înaintea lui şi spun
 "Dar pe mine, pe mine servitorul tău, şi pe preotul Ţadoc şi pe Benaia, fiul lui Iehoiada, şi pe servitorul tău, Solomon, nu ne-a chemat."
 "Este acest lucru făcut de la domnul meu, împăratul, şi tu nu ai arătat [aceasta ]servitorului tău, cine va şedea pe tronul domnului meu, împăratul, după el?"
 "Atunci împăratul David a răspuns şi a zis
@@ -35,7 +35,7 @@
 "Atunci să vă urcaţi după el, ca el să vină şi să şadă pe tronul meu, pentru că el va fi împărat în locul meu; şi eu l-am rânduit să fie conducător peste Israel şi peste Iuda."
 "Şi Benaia, fiul lui Iehoiada, a răspuns împăratului şi a zis
 "Precum DOMNUL a fost cu domnul meu, împăratul, chiar astfel să fie cu Solomon şi să facă tronul lui mai mare decât tronul domnului meu, împăratul David."
-"Astfel preotul Ţadoc şi profetul Natan şi Benaia, fiul lui Iehoiada, şi cheretiţii şi peletiţii au coborât şi l-au făcut pe Solomon să călărească pe catârul împăratului David şi l-au adus la Ghihon."
+"Astfel preotul Ţadoc şi profetul Natan şi Benaia, fiul lui Iehoiada, şi cheretiţii şi peletiţii au coborât #şi l-au făcut pe Solomon să călărească pe catârul împăratului David şi l-au adus la Ghihon."
 "Şi preotul Ţadoc a luat un corn cu untdelemn din tabernacol şi l-a uns pe Solomon. Şi au sunat din trâmbiţă; şi tot poporul a spus
 "Şi tot poporul a urcat după el şi poporul cânta din fluiere şi se bucura cu mare bucurie, încât pământul se zguduia de sunetul lor."
 "Şi Adonia şi toţi oaspeţii care [erau] cu el au auzit [aceasta] pe când terminau de mâncat. Şi când Ioab a auzit sunetul trâmbiţei, a spus

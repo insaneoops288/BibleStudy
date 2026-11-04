@@ -15,7 +15,7 @@
 "für Naphtali
 "Das waren die Berufenen der Gemeinde, die Fürsten der Stämme ihrer Väter; sie waren die Häupter der Tausende Israels."
 "Und Mose und Aaron nahmen diese mit Namen bezeichneten Männer,"
-"und sie versammelten die ganze Gemeinde am ersten des zweiten Monats. Und sie ließen sich in die Geburtsverzeichnisse eintragen nach ihren Geschlechtern, nach ihren Vaterhäusern, nach der Zahl der Namen, von zwanzig Jahren und darüber, nach ihren Köpfen;"
+"und sie versammelten die ganze Gemeinde am ersten des zweiten Monats. Und sie ließen sich in die Geburtsverzeichnisse eintragen nach #ihren Geschlechtern, nach ihren Vaterhäusern, nach der Zahl der Namen, von zwanzig Jahren und darüber, nach ihren Köpfen;"
 "wie Jehova dem Mose geboten hatte. Und so musterte er sie in der Wüste Sinai."
 "Und es waren die Söhne Rubens, des Erstgeborenen Israels
 "ihre Gemusterten vom Stamme Ruben, sechsundvierzigtausend fünfhundert."
@@ -50,5 +50,5 @@
 "sondern bestelle du die Levitenüber die Wohnung des Zeugnisses undüber all ihr Gerät undüber alles, was zu ihr gehört
 "Und wenn die Wohnung aufbricht, sollen die Leviten sie abnehmen; und wenn die Wohnung sich lagert, sollen die Leviten sie aufrichten. Der Fremde aber, der herzunaht, soll getötet werden."
 "Und die Kinder Israel sollen sich lagern, ein jeder in seinem Lager und ein jeder bei seinem Panier, nach ihren Heeren."
-"Die Leviten aber sollen sich rings um die Wohnung des Zeugnisses lagern, daß nicht ein Zornüber die Gemeinde der Kinder Israel komme; und die Leviten sollen der Hut der Wohnung des Zeugnisses warten."
+"Die Leviten aber sollen sich rings um die Wohnung des Zeugnisses lagern, daß nicht ein Zornüber die #Gemeinde der Kinder Israel komme; und die Leviten sollen der Hut der Wohnung des Zeugnisses warten."
 "Und die Kinder Israel taten nach allem was Jehova dem Mose geboten hatte; also taten sie."

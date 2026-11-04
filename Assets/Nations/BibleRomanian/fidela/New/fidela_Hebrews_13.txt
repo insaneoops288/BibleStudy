@@ -14,7 +14,7 @@
 "Fiindcă nu avem aici o cetate statornică, ci căutăm pe aceea care vine."
 "De aceea prin el să oferim tot timpul sacrificiul laudei către Dumnezeu, care este rodul buzelor [noastre],[ ]aducând mulțumiri numelui său."
 "Dar nu uitați facerea de bine și părtășia, căci cu astfel de sacrificii este mulțumit Dumnezeu."
-"Ascultați de cei ce conduc peste voi și supuneți-vă, fiindcă ei veghează asupra sufletelor voastre, ca [unii] care trebuie să dea socoteală; pentru ca [ei] să facă aceasta cu bucurie și nu cu mâhnire, fiindcă aceasta nu vă [este] de folos."
+"Ascultați de cei ce conduc peste voi și supuneți-vă, fiindcă ei veghează asupra sufletelor voastre, ca [unii] care trebuie să dea #socoteală; pentru ca [ei] să facă aceasta cu bucurie și nu cu mâhnire, fiindcă aceasta nu vă [este] de folos."
 "Rugați-vă pentru noi! Căci ne încredem că avem o conștiință bună, în toate voind să trăim onest."
 "Dar mult mai mult, [vă] implor să faceți aceasta, ca să vă fiu redat cât mai curând."
 "Iar Dumnezeul păcii, care l-a adus înapoi dintre morți pe Domnul nostru Isus, marele păstor al oilor, prin sângele legământului veșnic,"

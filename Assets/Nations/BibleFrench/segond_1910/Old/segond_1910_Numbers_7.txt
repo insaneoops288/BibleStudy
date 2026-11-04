@@ -86,4 +86,4 @@
 "les douze coupes d'or pleines de parfum, à dix sicles la coupe, selon le sicle du sanctuaire, firent pour l'or des coupes un total de cent vingt sicles."
 "Total des animaux pour l'holocauste
 "Total des animaux pour le sacrifice d'actions de grâces
-89 "Lorsque Moïse entrait dans la tente d'assignation pour parler avec l'Eternel, il entendait la voix qui lui parlait du haut du propitiatoire placé sur l'arche du témoignage, entre les deux chérubins. Et il parlait avec l'Eternel."
+89 "Lorsque Moïse entrait dans la tente d'assignation pour parler avec l'Eternel, il entendait la voix qui lui parlait #du haut du propitiatoire placé sur l'arche du témoignage, entre les deux chérubins. Et il parlait avec l'Eternel."

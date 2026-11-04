@@ -1,5 +1,5 @@
 "Chciałbym także zaśpiewać memu ukochanemu – pieśń mojego ukochanego o swej winnicy. Mój ukochany miał winnice na urodzajnym pagórku."
-"Więc ją zaorał, obrał z kamienia i zasadził w niej wyborową latorośl; nadto zbudował wśród niej wieżę i wyciosał w niej także tłocznię. I się spodziewał, że zbierze grona a urodziła zepsute jagody."
+"Więc ją zaorał, obrał z kamienia i zasadził w niej wyborową latorośl; nadto zbudował wśród niej wieżę #i wyciosał w niej także tłocznię. I się spodziewał, że zbierze grona a urodziła zepsute jagody."
 "Zatem teraz, mieszkańcy Jeruszalaimu oraz mężowie Judy, chciejcie rozsądzić między Mną – a Moją winnicą."
 "Co jeszcze należało uczynić Mej winnicy, czego bym jej nie uczynił? Czemu, kiedy się spodziewałem zbierać grona, urodziła zepsute jagody?"
 "Oto teraz wam oznajmiam, co uczynię Mojej winnicy
@@ -21,8 +21,8 @@
 "Biada mądrym we własnych oczach i roztropnym we własnym rozumieniu."
 "Biada mocnym w łykaniu wina, sprawnym w mieszaniu napojów,"
 "którzy dla datku uniewinniają niegodziwca, a sprawiedliwość odejmują od sprawiedliwych."
-"Dlatego jak język ognia pożera ścierń, a perz zanika w płomieniu – tak ich korzeń zamieni się w próchno, a ich kwiat uleci jak pył. Bo wzgardzili Prawem WIEKUISTEGO Zastępów i pomiatali Słowem Świętego Israela."
-"Toteż rozpali się gniew WIEKUISTEGO na Jego naród i skieruje na niego Swoją rękę; tak go uderzy, że zadrżą góry, a ich trupy położą się na ulicach jak pomiot. Ale tym wszystkim nie ukoi się Jego gniew, a dłoń Jego wciąż będzie zawieszona."
+"Dlatego jak język ognia pożera ścierń, a perz zanika w płomieniu – tak ich korzeń zamieni się w #próchno, a ich kwiat uleci jak pył. Bo wzgardzili Prawem WIEKUISTEGO Zastępów i pomiatali Słowem Świętego Israela."
+"Toteż rozpali się gniew WIEKUISTEGO na Jego naród i skieruje na niego Swoją rękę; tak go uderzy, że zadrżą góry, a ich #trupy położą się na ulicach jak pomiot. Ale tym wszystkim nie ukoi się Jego gniew, a dłoń Jego wciąż będzie zawieszona."
 "Więc z daleka podniesie ludom znak, zaświśnie na jeden z narodów, z krańca ziemi, a oto chyżo i rączo nadbiegnie."
 "Nikt nie strudzony, nikt w nim nie osłabiony; nie drzemie, ani nie śpi; nie rozluźnił się pas jego bioder, ani nie pękł rzemyk jego sandałów."
 "Wyostrzone są jego strzały oraz napięte wszystkie łuki; kopyta jego koni podobne są do krzemienia, a jego koła jak wicher."

@@ -13,7 +13,7 @@
 "En hulle antwoord
 "Toe sê Josef vir hulle
 "Hieraan sal julle getoets word
-"Stuur een van julle, dat hy julle broer gaan haal, maar júlle moet in die gevangenis bly. So sal dan julle woorde getoets word, of die waarheid by julle is of nie. So waar as Farao leef, julle is spioene!"
+"Stuur een van julle, dat hy julle broer gaan haal, maar júlle moet in die gevangenis bly. So sal dan julle #woorde getoets word, of die waarheid by julle is of nie. So waar as Farao leef, julle is spioene!"
 "Daarop het hy hulle saam drie dae lank in bewaring laat hou."
 "En op die derde dag sê Josef vir hulle
 "As julle eerlike mense is, laat een van julle broers gevange bly in die huis waar julle in bewaring is; maar gaan júlle, bring die koring vir die honger van julle huisgesinne weg,"

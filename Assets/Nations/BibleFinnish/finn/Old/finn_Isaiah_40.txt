@@ -1,5 +1,5 @@
 "Lohduttakaat, lohduttakaat minun kansaani, sanoo teidän Jumalanne."
-"Puhukaat suloisesti Jerusalemin kanssa, ja saarnatkaat hänelle, että hänen sotimisensa on täytetty; sillä hänen rikoksensa on annettu anteeksi, että hän on saanut kaksinkertaisesti Herran kädestä, kaikkein synteinsä tähden."
+"Puhukaat suloisesti Jerusalemin kanssa, ja saarnatkaat hänelle, että hänen sotimisensa on täytetty; sillä hänen rikoksensa #on annettu anteeksi, että hän on saanut kaksinkertaisesti Herran kädestä, kaikkein synteinsä tähden."
 "Huutavaisen ääni on korvessa
 "Kaikki laaksot pitää korotettaman, ja kaikki vuoret ja kukkulat pitää alennettaman, ja mitä on tasoittamatta, pitää tasattaman ja koliat silitettämän."
 "Sillä Herran kunnia ilmoitetaan
@@ -21,9 +21,9 @@
 "Ettekö te tiedä? ettekö te kuule? eikö tämä ole ennen teille ilmoitettu? ettekö te ole sitä ymmärtäneet maan alusta?"
 "Hän istuu maan piirin päällä, ja ne, jotka sen päällä asuvat, ovat niinkuin heinäsirkat; joka taivaan venyttää niinkuin ohukaisen nahan, ja levittää sen niinkuin teltan, asuttavaksi."
 "Joka pääruhtinaat tyhjäksi tekee, ja hävittää tuomarit maan päältä,"
-"Niinkuin ei he olisi istutetut, eikä kylvetyt, eli heidän kantonsa juurtuneet maahan; niin että he kuivettuvat, kuin tuuli heidän päällensä puhaltaa, ja tuulispää vie heidät matkaansa niinkuin akanat."
+"Niinkuin ei he olisi istutetut, eikä kylvetyt, eli heidän kantonsa juurtuneet maahan; niin että he #kuivettuvat, kuin tuuli heidän päällensä puhaltaa, ja tuulispää vie heidät matkaansa niinkuin akanat."
 "Keneenkä te siis minun verrata tahdotte, jonka kaltainen minä olisin? sanoo Pyhä."
-"Nostakaat silmänne korkeuteen ja katsokaat, kuka ne kappaleet luonut on, ja vie edes heidän joukkonsa luvulla? kutsuu ne kaikki nimeltänsä? Hänen varansa ja väkevä voimansa on niin suuri, ettei häneltä mitään puutu."
+"Nostakaat silmänne korkeuteen ja katsokaat, kuka ne kappaleet luonut on, ja vie edes heidän joukkonsa luvulla? kutsuu #ne kaikki nimeltänsä? Hänen varansa ja väkevä voimansa on niin suuri, ettei häneltä mitään puutu."
 "Miksis siis sinä Jakob sanot, ja sinä Israel puhut
 "Etkös tiedä? etkös ole kuullut? Herra ijankaikkinen Jumala, joka maan ääret on luonut, ei väsy eikä näänny; hänen ymmärryksensä on tutkimatoin."
 "Hän antaa väsyneille voiman, ja väettömille kyllä väkeä."

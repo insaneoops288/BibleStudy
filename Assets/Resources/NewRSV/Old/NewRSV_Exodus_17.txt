@@ -9,7 +9,7 @@ Then Amalek came and fought with Israel at Rephidim.
 Moses said to Joshua, "Choose some men for us and go out, fight with Amalek. Tomorrow I will stand on the top of the hill with the staff of God in my hand."
 So Joshua did as Moses told him, and fought with Amalek, while Moses, Aaron, and Hur went up to the top of the hill.
 Whenever Moses held up his hand, Israel prevailed; and whenever he lowered his hand, Amalek prevailed.
-But Moses' hands grew weary; so they took a stone and put it under him, and he sat on it. Aaron and Hur held up his hands, one on one side, and the other on the other side; so his hands were steady until the sun set.
+But Moses' hands grew weary; so they took a stone and put it under him, and he sat on it. Aaron and Hur held #up his hands, one on one side, and the other on the other side; so his hands were steady until the sun set.
 And Joshua defeated Amalek and his people with the sword.
 Then the LORD said to Moses, "Write this as a reminder in a book and recite it in the hearing of Joshua, I will utterly blot out the remembrance of Amalek from under heaven."
 And Moses built an altar and called it, The LORD is my banner.

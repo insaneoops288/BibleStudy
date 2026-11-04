@@ -11,7 +11,7 @@
 "El año seiscientos de la vida de Noé, en el mes segundo a los diecisiete días del mes; aquel día fueron rotas todas las fuentes del grande abismo, y las ventanas de los cielos fueron abiertas;"
 "y hubo lluvia sobre la tierra cuarenta días y cuarenta noches."
 "En este mismo día entró Noé, y Sem, y Cam y Jafet, hijos de Noé, la mujer de Noé, y las tres mujeres de sus hijos con él en el arca;"
-"ellos y todos los animales según sus especies, y todas las bestias según sus especies, y todo animal que anda arrastrándose sobre la tierra según su especie, y toda ave según su especie, todo pájaro, toda cosa de alas."
+"ellos y todos los animales según sus especies, y todas las bestias según sus especies, y todo animal que anda #arrastrándose sobre la tierra según su especie, y toda ave según su especie, todo pájaro, toda cosa de alas."
 "Y vinieron a Noé al arca, de dos en dos, de toda carne, en que <I>había</I>  espíritu de vida."
 "Y los que vinieron, macho y hembra de toda carne vinieron, como le había mandado Dios
 "Y fue el diluvio cuarenta días sobre la tierra; y las aguas se multiplicaron, y alzaron el arca, y fue alzado de sobre la tierra."
@@ -20,5 +20,5 @@
 "Quince codos encima prevalecieron las aguas; y fueron cubiertos los montes."
 "Y murió toda carne que anda arrastrándose sobre la tierra, en las aves, y en las bestias, y en los animales, y en toda criatura que anda arrastrándose sobre la tierra, y en todo hombre;"
 "todo lo que tenía aliento de espíritu de vida en sus narices, de todo lo que <I>había</I>  en la tierra, murió."
-"Así rayó toda la sustancia que <I>había</I>  sobre la faz de la tierra, desde el hombre hasta la bestia, hasta el animal, y hasta el ave del cielo; y fueron raídos de la tierra; y quedó solamente Noé, y los que con él <I> estaban</I>  en el arca."
+"Así rayó toda la sustancia que <I>había</I>  sobre la faz de la tierra, desde el hombre hasta la bestia, hasta el animal, y hasta el #ave del cielo; y fueron raídos de la tierra; y quedó solamente Noé, y los que con él <I> estaban</I>  en el arca."
 "Y prevalecieron las aguas sobre la tierra ciento cincuenta días."

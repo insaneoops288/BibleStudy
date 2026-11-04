@@ -10,7 +10,7 @@
 "Nici nu cârtiți, după cum au cârtit unii dintre ei și au fost nimiciți de nimicitorul."
 "Și toate acestea li s-au întâmplat ca [să fie] exemple; și sunt scrise pentru avertizarea noastră, peste care au ajuns sfârșiturile lumii."
 "De aceea cel ce gândește că stă în picioare să ia seama ca nu cumva să cadă."
-"Nu v-a luat nicio ispită, decât ceva obișnuit omului; dar credincios [este] Dumnezeu care nu va permite să fiți ispitiți peste ce sunteți în stare, ci împreună cu ispita va face și o cale de scăpare, ca voi să fiți în stare să [o] purtați."
+"Nu v-a luat nicio ispită, decât ceva obișnuit omului; dar credincios [este] Dumnezeu care nu va permite să fiți ispitiți peste ce sunteți #în stare, ci împreună cu ispita va face și o cale de scăpare, ca voi să fiți în stare să [o] purtați."
 "De aceea, preaiubiții mei, fugiți de idolatrie."
 "Vorbesc ca unor oameni înțelepți; judecați voi ce spun."
 "Paharul binecuvântării, pe care îl binecuvântăm, nu este el comuniunea sângelui lui Cristos? Pâinea, pe care o frângem, nu este comuniunea trupului lui Cristos?"

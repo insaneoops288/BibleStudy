@@ -2,7 +2,7 @@
 "Y acaeciere la señal ó prodigio que él te dijo, diciendo
 "No darás oído á las palabras de tal profeta, ni al tal soñador de sueños
 "En pos de Jehová vuestro Dios andaréis, y á él temeréis, y guardaréis sus mandamientos, y escucharéis su voz, y á él serviréis, y á él os allegaréis."
-"Y el tal profeta ó soñador de sueños, ha de ser muerto; por cuanto trató de rebelión contra Jehová vuestro Dios, que te sacó de tierra de Egipto, y te rescató de casa de siervos, y de echarte del camino por el que Jehová tu Dios te mandó que anduvieses
+"Y el tal profeta ó soñador de sueños, ha de ser muerto; por cuanto trató de rebelión contra Jehová vuestro Dios, que te sacó de tierra #de Egipto, y te rescató de casa de siervos, y de echarte del camino por el que Jehová tu Dios te mandó que anduvieses
 "Cuando te incitare tu hermano, hijo de tu madre, ó tu hijo, ó tu hija, ó la mujer de tu seno, ó tu amigo que sea como tu alma, diciendo en secreto
 "De los dioses de los pueblos que están en vuestros alrededores cercanos á ti, ó lejos de ti, desde el un cabo de la tierra hasta el otro cabo de ella;"
 "No consentirás con él, ni le darás oído; ni tu ojo le perdonará, ni tendrás compasión, ni lo encubrirás

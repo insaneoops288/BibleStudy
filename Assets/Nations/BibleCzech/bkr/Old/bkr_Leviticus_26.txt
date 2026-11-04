@@ -33,14 +33,14 @@
 "Vás pak rozptýlím mezi národy, a učiním, aby s dobytým mečem vás honili. I bude země vaše vyhubena, a města vaše zpustnou."
 "A tehdy země užive sobot svých po všecky dny, v nichž pustá bude, vy pak budete v zemi nepřátel svých. Tehdáž, pravím, odpočine země, a užive sobot svých."
 "Po všecky dny, v nichž pustá bude, odpočívati bude; nebo neodpočívala v soboty vaše, když jste vy bydlili v ní."
-"Kteříž pak ještě pozůstanou z vás, uvedu strach na srdce jejich v krajinách nepřátel jejich, tak že zažene je chřest listu větrem chřestícího. I budou utíkati, rovně jako před mečem, a padnou, an jich žádný honiti nebude."
+"Kteříž pak ještě pozůstanou z vás, uvedu strach na srdce jejich v krajinách nepřátel jejich, tak že zažene je #chřest listu větrem chřestícího. I budou utíkati, rovně jako před mečem, a padnou, an jich žádný honiti nebude."
 "A budou padati jeden přes druhého jakožto od meče, ač jich žádný honiti nebude; aniž kdo z vás bude moci ostáti před nepřátely svými."
 "I zahynete mezi národy, a zžíře vás země nepřátel vašich."
 "Kteříž pak pozůstanou z vás, svadnouti budou pro nepravost svou v zemi nepřátel vašich, ano i pro nepravosti otců vašich s nimi usvadnou."
 "Ale jestliže budou vyznávati nepravost svou, a nepravost otců svých vedlé přestoupení svého, kterýmž přestoupili proti mně, a maní se mnou zacházeli,"
 "I já také že jsem maní s nimi zacházel, a uvedl je do země nepřátel jejich; jestliže, pravím, tehdáž poníží se srdce jejich neobřezané, a schválí pokutu nepravosti své
 "Tedy rozpomenu se na smlouvu svou s Jákobem, a na smlouvu svou s Izákem, i na smlouvu svou s Abrahamem rozpomenu se; také i na tu zemi pamětliv budu."
-"Mezi tím země jsuc jich zbavena, užive sobot svých, kdyžto zpuštěna bude pro ně. Tehdáž oni schválí pokutu nepravosti své proto, že všelijak soudy mými pohrdali, a ustanovení má zošklivila sobě duše jejich."
+"Mezi tím země jsuc jich zbavena, užive sobot svých, kdyžto zpuštěna bude pro ně. Tehdáž oni schválí #pokutu nepravosti své proto, že všelijak soudy mými pohrdali, a ustanovení má zošklivila sobě duše jejich."
 "A však i tak, když by v zemi nepřátel svých byli, nezavrhl bych jich, a nezošklivil jich sobě, abych je měl do konce zkaziti, a zrušiti smlouvu svou s nimi; nebo já jsem Hospodin Bůh jejich."
 "Ale rozpomenu se na ně pro smlouvu učiněnou s předky jejich, kteréž jsem vyvedl z země Egyptské před očima pohanů, abych jim byl za Boha
 "Ta jsou ustanovení a soudové, i zákonové, kteréž vydal Hospodin na hoře Sinai skrze Mojžíše, aby byli mezi ním a mezi syny Izraelskými."

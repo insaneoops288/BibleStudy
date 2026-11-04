@@ -5,7 +5,7 @@
 "Eleusai, Jerimoth, Bealja, Semarja, Sephatja, der Harophiter,"
 "Elkana, Jissia, Asareel, Joeser, Jasobeam, die Korahiter,"
 "Joela und Sebadja, die Kinder Jerohams von Gedor."
-"Von den Gaditern sonderten sich aus zu David nach dem sichern Ort in der Wüste, da er sich verborgen hatte, starke Helden und Kriegsleute, die Schild und Spieß führten, und ihr Angesicht wie der Löwen, und schnell wie die Rehe auf den Bergen
+"Von den Gaditern sonderten sich aus zu David nach dem sichern Ort in der Wüste, da er sich verborgen hatte, starke Helden #und Kriegsleute, die Schild und Spieß führten, und ihr Angesicht wie der Löwen, und schnell wie die Rehe auf den Bergen
 "der erste
 "der vierte
 "der sechste
@@ -35,6 +35,6 @@
 "von Dan, zum Streit gerüstet, achtundzwanzigtausend sechshundert;"
 "von Asser, die ins Heer zogen, gerüstet zum Streit, vierzigtausend;"
 "von jenseit des Jordans, von den Rubenitern, Gaditern und dem halben Stamm Manasse, mit allerlei Waffen zum Streit, hundertzwanzigtausend."
-"Alle diese Kriegsleute, die das Heer ordneten, kamen von ganzem Herzen gen Hebron, David zum König zu machenüber ganz Israel. Auch war alles andere Israel eines Herzens, daß man David zum König machte."
+"Alle diese Kriegsleute, die das Heer ordneten, kamen von ganzem Herzen gen Hebron, David zum König zu #machenüber ganz Israel. Auch war alles andere Israel eines Herzens, daß man David zum König machte."
 "Und sie waren daselbst bei David drei Tage, aßen und tranken; denn ihre Brüder hatten für sie zubereitet."
-"Auch welche die nächsten um sie waren, bis hin an Isaschar, Sebulon und Naphthali, die brachten Brot auf Eseln, Kamelen, Maultieren und Rindern, Speise von Mehl, Kuchen von Feigen und Rosinen, Wein,Öl, Rinder, Schafe die Menge; denn es war Freude in Israel."
+"Auch welche die nächsten um sie waren, bis hin an Isaschar, Sebulon und Naphthali, die brachten Brot auf Eseln, Kamelen, Maultieren und #Rindern, Speise von Mehl, Kuchen von Feigen und Rosinen, Wein,Öl, Rinder, Schafe die Menge; denn es war Freude in Israel."

@@ -1,5 +1,5 @@
 "Pasadas estas cosas, Pablo salió de Atenas, y vino a Corinto."
-"Y hallando a un judío llamado Aquila, natural del Ponto, que hacía poco que había venido de Italia, y a Priscila su mujer, (porque Claudio había mandado que todos los judíos saliesen de Roma) se vino a ellos;"
+"Y hallando a un judío llamado Aquila, natural del Ponto, que hacía poco que había venido de Italia, y a #Priscila su mujer, (porque Claudio había mandado que todos los judíos saliesen de Roma) se vino a ellos;"
 "y porque era de su oficio, posó con ellos, y trabajaba; porque el oficio de ellos era hacer tiendas."
 "Y disputaba en la sinagoga todos los sábados, y persuadía a judíos y a griegos."
 "Y cuando Silas y Timoteo vinieron de Macedonia, Pablo estaba constreñido por el Espíritu, testificando a los judíos que Jesús era el Cristo."
@@ -15,7 +15,7 @@
 "Pero si son cuestiones de palabras, y de nombres, y de vuestra ley, vedlo vosotros; porque yo no quiero ser juez de estas cosas."
 "Y los echó del tribunal."
 "Entonces todos los griegos tomando a Sóstenes, principal de la sinagoga, le herían delante del tribunal; y a Galión nada se le daba de ello."
-"Mas Pablo habiéndose detenido aun allí muchos días, después se despidió de los hermanos, y navegó a Siria, y con él Priscila y Aquila, habiéndose trasquilado la cabeza en Cencrea, porque tenía voto."
+"Mas Pablo habiéndose detenido aun allí muchos días, después se despidió de los hermanos, y navegó a #Siria, y con él Priscila y Aquila, habiéndose trasquilado la cabeza en Cencrea, porque tenía voto."
 "Y llegó a Efeso, y los dejó allí
 "los cuales le rogaban que se quedase con ellos por más tiempo; mas no accedió."
 "Sino que se despidió de ellos, diciendo

@@ -26,4 +26,4 @@
 "Und er tat sehr viele Greuel, indem er den Götzen nachwandelte, nach allem, was die Amoriter getan, welche Jehova vor den Kindern Israel ausgetrieben hatte.)"
 "Und es geschah, als Ahab diese Worte hörte, da zerriß er seine Kleider und legte Sacktuch um seinen Leib und fastete; und er lag im Sacktuch, und er ging still einher."
 "Da geschah das Wort Jehovas zu Elia, dem Tisbiter, also
-"Hast du gesehen, daß Ahab sich vor mir gedemütigt hat? Weil er sich vor mir gedemütigt hat, will ich das Unglück in seinen Tagen nicht bringen; in den Tagen seines Sohnes will ich das Unglücküber sein Haus bringen."
+"Hast du gesehen, daß Ahab sich vor mir gedemütigt hat? Weil er sich vor mir gedemütigt hat, will ich das #Unglück in seinen Tagen nicht bringen; in den Tagen seines Sohnes will ich das Unglücküber sein Haus bringen."

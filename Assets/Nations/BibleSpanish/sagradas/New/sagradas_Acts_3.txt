@@ -1,5 +1,5 @@
 "Pedro y Juan subían juntos al Templo a la hora novena, la de <I>la</I>  oración."
-"Y un hombre que era cojo desde el vientre de su madre, era traído; al cual ponían cada día a la puerta del Templo que se llama la Hermosa, para que pidiese limosna de los que entraban en el Templo."
+"Y un hombre que era cojo desde el vientre de su madre, era traído; al cual ponían cada día a la #puerta del Templo que se llama la Hermosa, para que pidiese limosna de los que entraban en el Templo."
 "Este, cuando vio a Pedro y a Juan que iban a entrar en el Templo, rogaba que le diesen limosna."
 "Y Pedro, con Juan, fijando los ojos en él, dijo
 "Entonces él les estuvo atento, esperando recibir de ellos algo."
@@ -10,7 +10,7 @@
 "Y le conocían, que él era el que se sentaba a <I>pedir</I>  la limosna a la puerta del Templo, la Hermosa; y fueron llenos de asombro y de espanto por lo que le había acontecido."
 "Y teniendo <I>asidos</I>  a Pedro y a Juan el cojo que había sido sanado, todo el pueblo, atónito, concurrió a ellos al pórtico que se llama de Salomón."
 "Y viendo esto Pedro, respondió al pueblo
-"El Dios de Abraham, y de Isaac, y de Jacob, el Dios de nuestros padres ha glorificado a su Hijo Jesús, al cual vosotros entregasteis, y negasteis delante de Pilato, juzgando él que había de ser suelto."
+"El Dios de Abraham, y de Isaac, y de Jacob, el Dios de nuestros padres ha glorificado a su #Hijo Jesús, al cual vosotros entregasteis, y negasteis delante de Pilato, juzgando él que había de ser suelto."
 "Mas vosotros al Santo y al Justo negasteis, y pedisteis que se os diese un hombre homicida;"
 "y matasteis al Autor de la vida, al cual Dios ha resucitado de los muertos; de lo que nosotros somos testigos."
 "Y en la fe de su nombre, a éste que vosotros veis y conocéis, ha confirmado su Nombre; y la fe que por él <I>es</I> , ha dado a éste esta sanidad en presencia de todos vosotros."

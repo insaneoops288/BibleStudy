@@ -5,7 +5,7 @@
 "E levantaram-se ao crepúsculo, para irem ao arraial dos siros; e, chegando à entrada do arraial dos siros, eis que não havia ali ninguém."
 "Porque o Senhor fizera ouvir no arraial dos siros ruído de carros e ruído de cavalos, como o ruído de um grande exército; de maneira que disseram uns aos outros
 "Pelo que se levantaram, e fugiram no crepúsculo, e deixaram as suas tendas, e os seus cavalos, e os seus jumentos, e o arraial como estava; e fugiram para salvarem a sua vida."
-"Chegando, pois, estes leprosos à entrada do arraial, entraram numa tenda, e comeram, e beberam, e tomaram dali prata, e ouro, e vestes, e foram, e os esconderam; então, voltaram, e entraram em outra tenda, e dali também tomaram alguma coisa, e a esconderam."
+"Chegando, pois, estes leprosos à entrada do arraial, entraram numa tenda, e comeram, e beberam, e tomaram dali prata, e ouro, e vestes, #e foram, e os esconderam; então, voltaram, e entraram em outra tenda, e dali também tomaram alguma coisa, e a esconderam."
 "Então, disseram uns para os outros
 "Vieram, pois, e bradaram aos porteiros da cidade, e lhes anunciaram, dizendo
 "E chamaram os porteiros, e estes o anunciaram dentro da casa do rei."

@@ -9,7 +9,7 @@
 "Y yo os digo que cualquiera que repudiare á su mujer, si no fuere por causa de fornicación, y se casare con otra, adultera
 "Dícenle sus discípulos
 "Entonces él les dijo
-"Porque hay eunucos que nacieron así del vientre de su madre; y hay eunucos, que son hechos eunucos por los hombres; y hay eunucos que se hicieron á sí mismos eunucos por causa del reino de los cielos; el que pueda ser capaz de eso, séalo."
+"Porque hay eunucos que nacieron así del vientre de su madre; y hay eunucos, que son hechos eunucos por los hombres; y hay eunucos #que se hicieron á sí mismos eunucos por causa del reino de los cielos; el que pueda ser capaz de eso, séalo."
 "Entonces le fueron presentados unos niños, para que pusiese las manos sobre ellos, y orase; y los discípulos les riñeron."
 "Y Jesús dijo
 "Y habiendo puesto sobre ellos las manos se partió de allí."
